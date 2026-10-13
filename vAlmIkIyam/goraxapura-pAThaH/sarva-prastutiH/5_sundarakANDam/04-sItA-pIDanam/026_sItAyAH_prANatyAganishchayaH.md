@@ -61,15 +61,14 @@ _________________
 
 **पदच्छेदः**
 
-*2. unmatteva* = like a mad one; *pramatteva* = like an intoxicated one;
-*bhraantachitteva* = with a deluded mind; *shochatii* = (Seetha was) crying; *kishoriiva*
-= like a female horse; *upaavR^ittaa* = rolling on ground; *viveshhTantii* = (Seetha) rolled;
-*mahiitale* = on the ground.
+*1. prasaktaashrumukhii* = with a face continually shedding tears; *jankaatmajaa*
+= Seetha; *balaa* = an young woman; *evam* = thus; *bruvatii* = speaking; *adhogatamukhii*
+= with downward face; *upachakrame* = started; *vilaptum* = to weep.
 
 **अनुवादः**
 
-Seetha was crying like a mad one, like an intoxicated one, with a deluded mind. Like a female horse
-rolling on ground, Seetha rolled on the ground.
+With a face continually shedding tears, Seetha an young woman, thus speaking with a downward face,
+started to weep.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
@@ -83,14 +82,15 @@ rolling on ground, Seetha rolled on the ground.
 
 **पदच्छेदः**
 
-*1. prasaktaashrumukhii* = with a face continually shedding tears; *jankaatmajaa*
-= Seetha; *balaa* = an young woman; *evam* = thus; *bruvatii* = speaking; *adhogatamukhii*
-= with downward face; *upachakrame* = started; *vilaptum* = to weep.
+*2. unmatteva* = like a mad one; *pramatteva* = like an intoxicated one;
+*bhraantachitteva* = with a deluded mind; *shochatii* = (Seetha was) crying; *kishoriiva*
+= like a female horse; *upaavR^ittaa* = rolling on ground; *viveshhTantii* = (Seetha) rolled;
+*mahiitale* = on the ground.
 
 **अनुवादः**
 
-With a face continually shedding tears, Seetha an young woman, thus speaking with a downward face,
-started to weep.
+Seetha was crying like a mad one, like an intoxicated one, with a deluded mind. Like a female horse
+rolling on ground, Seetha rolled on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
@@ -1090,15 +1090,15 @@ _________________
 
 **पदच्छेदः**
 
-*24. tataH* = thereafter; *yathaa* = how; *aham* = I ; *evam rudatii*
-= am crying in this way; *tathaa* = in the same way; *gR^ihe gR^ihe* = in house and house; *raakshasiinaam*
-= ogresses; *nihatanaadhaanaam* = with killed husbands (will cry); *bhuuyaH* = again and again;
-*na saMshayaH* = there is no doubt.
+*22. saH raaghavaH* = that Rama; *jaaniiyaadyadi* = if He knows; *maam*
+= me; *iha vartamaanaam* = to be living here; *abhikruddhaH* = with anger; *kuryaat* = will
+make; *lokam* = the world; *araakshasam* = to be without ogres; *baaNaiH* = with (His) arrows;
+*adya* = now.
 
 **अनुवादः**
 
-"Thereafter how I am crying in this way, in the same way, in very house, ogresses with killed husbands
-will cry again and again. There is no doubt in this."
+"If that Rama knows me to be living here, with anger He will make the world to be without ogres
+with His arrows now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
@@ -1128,15 +1128,15 @@ fame of Ravana."
 
 **पदच्छेदः**
 
-*22. saH raaghavaH* = that Rama; *jaaniiyaadyadi* = if He knows; *maam*
-= me; *iha vartamaanaam* = to be living here; *abhikruddhaH* = with anger; *kuryaat* = will
-make; *lokam* = the world; *araakshasam* = to be without ogres; *baaNaiH* = with (His) arrows;
-*adya* = now.
+*24. tataH* = thereafter; *yathaa* = how; *aham* = I ; *evam rudatii*
+= am crying in this way; *tathaa* = in the same way; *gR^ihe gR^ihe* = in house and house; *raakshasiinaam*
+= ogresses; *nihatanaadhaanaam* = with killed husbands (will cry); *bhuuyaH* = again and again;
+*na saMshayaH* = there is no doubt.
 
 **अनुवादः**
 
-"If that Rama knows me to be living here, with anger He will make the world to be without ogres
-with His arrows now."
+"Thereafter how I am crying in this way, in the same way, in very house, ogresses with killed husbands
+will cry again and again. There is no doubt in this."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
@@ -1546,21 +1546,6 @@ _________________
 
 **पदच्छेदः**
 
-*33. saH raamaH* = that Rama; *shuuraH* = a strong man; *raktaanta lochanaH*
-= with red eye corners; *yadi naama jaaniiyaat* = will he know; *maam* = me; *vartamaanaam*
-= to be living; *niveshane* = in the house; *raavaNasya* = of Ravana.
-
-**अनुवादः**
-
-"Will that Rama who is a strong man with red eye corners know me to be in the house of Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *32. la~Nkaa purii* = the city of Lanka; *bhavishhyati* = will become; *
 nirdagdhaa* = burnt; *raamasaayakaiH* = by Rama's arrows; *saandhakaaraa* = together with darkness;
 *hadadyotaa* = with destroyed lustre; *hata raakshasa pu~Ngavaa* = with killed best ogres.
@@ -1569,6 +1554,21 @@ nirdagdhaa* = burnt; *raamasaayakaiH* = by Rama's arrows; *saandhakaaraa* = toge
 
 "The city of Lanka will become burnt by Rama's arrows together with darkness, with destroyed luster
 with killed best ogres."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. saH raamaH* = that Rama; *shuuraH* = a strong man; *raktaanta lochanaH*
+= with red eye corners; *yadi naama jaaniiyaat* = will he know; *maam* = me; *vartamaanaam*
+= to be living; *niveshane* = in the house; *raavaNasya* = of Ravana.
+
+**अनुवादः**
+
+"Will that Rama who is a strong man with red eye corners know me to be in the house of Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
@@ -1659,24 +1659,6 @@ _________________
 
 **पदच्छेदः**
 
-35; *36. ye nairR^itaaH* = Whoever ogres; *paapakaariNaH* = who are sinners;
-*naa jaanati* = do not know; *akaaryam* = what should not be done; *adharmaattu* = due to
-their unrighteousness; *saaMpratam* = now; *bhavishhyati* = there will be; *mahotpaataH*
-= a great calamity; *ete* = these; *raakshasaaH* = ogres; *pishitanaashanaaH* = who are meat
-eaters; *na jaanati* = do not know; *dharmam* = virtue.
-
-**अनुवादः**
-
-"Whoever sinful ogres who do not know what should not be done, due to their unrighteousness now
-there will be a great calamity. These meat eating ogres do not know virtue."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *34. yaH* = whatever; *samayaH* = time; *nirdishhTa* = ordered; *
 anena raavaNena* = by this Ravana; *nR^ishaMsena* = who is cruel; *adhamena* = (and) vilest
 of men; *ayam* = this; *kaalaH* = time; *aagataH* = has come; *me* = to me; *saH
@@ -1687,6 +1669,24 @@ good; *asmin dushhTe* = in the matter of this evil one.
 
 "Whatever time has been ordered by this cruel and vilest of men Ravana, this time has come to me.
 That death decreed to me does not hold good to this evil one (Ravana)."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+35; *36. ye nairR^itaaH* = Whoever ogres; *paapakaariNaH* = who are sinners;
+*naa jaanati* = do not know; *akaaryam* = what should not be done; *adharmaattu* = due to
+their unrighteousness; *saaMpratam* = now; *bhavishhyati* = there will be; *mahotpaataH*
+= a great calamity; *ete* = these; *raakshasaaH* = ogres; *pishitanaashanaaH* = who are meat
+eaters; *na jaanati* = do not know; *dharmam* = virtue.
+
+**अनुवादः**
+
+"Whoever sinful ogres who do not know what should not be done, due to their unrighteousness now
+there will be a great calamity. These meat eating ogres do not know virtue."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>
@@ -1762,23 +1762,6 @@ _________________
 
 **पदच्छेदः**
 
-*38. adya* = now; *kashchit bhavedyadi* = if there exists any one; *praadaataa*
-= (who is a) giver; *vishhasya* = of poison; *iha* = here; *patinaa vinaa* = (I) without
-husband; *kshipram* = quickly; *pashyeyam* = will see; *devam* = the god; *vaivasvatam*
-= Yama.
-
-**अनुवादः**
-
-"Now if there exists any one who is a giver of poison here, I without husband quickly will see
-the god Yama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *37. raakshsaH* = an ogre; *dhruvam* = will definitely; *kalpayishhyati*
 = make; *maam* = me; *praataraashaarthe* = for breakfast; *saa aham* = such I; *katham
 karishhyaami* = what should do; *tam vinaa* = without Rama; *priyadarshanam* = with pleasing
@@ -1789,6 +1772,23 @@ appearance; *suduHkhitaa* = I am grieving a lot; *apashyantii* = not seeing; *ra
 
 "An ogre will definitely eat me for breakfast. What should such I do without Rama with pleasing
 appearance? I am grieving a lot not seeing Rama with red eye corners."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*38. adya* = now; *kashchit bhavedyadi* = if there exists any one; *praadaataa*
+= (who is a) giver; *vishhasya* = of poison; *iha* = here; *patinaa vinaa* = (I) without
+husband; *kshipram* = quickly; *pashyeyam* = will see; *devam* = the god; *vaivasvatam*
+= Yama.
+
+**अनुवादः**
+
+"Now if there exists any one who is a giver of poison here, I without husband quickly will see
+the god Yama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga26/sundarasans26.htm)
 </details>

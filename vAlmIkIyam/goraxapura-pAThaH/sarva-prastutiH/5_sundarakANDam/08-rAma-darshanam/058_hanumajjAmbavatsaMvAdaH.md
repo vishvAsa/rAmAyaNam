@@ -133,6 +133,28 @@ _________________
 
 **पदच्छेदः**
 
+*2. tataH* = then; *jaambavaan* = Jambavan; *priitisamhR^iSTaH*
+= thrilling with rapture; *apR^ichchhat* = asked; *priitimantam* = the delighted; *
+mahaakapim* = the great monkey; *tam kaaryavR^ittaantam* = about the particulars of that
+actual occurrence (of seeing Seetha) as follows.
+
+**अनुवादः**
+
+Then, Jambavan, thrilling with rapture, asked the delighted Hanuma, the great monkey
+about the particulars of that actual occurrence (of seeing Seetha) as follows
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+महात्मराद वानररु सन्तोषभरितरागि कुळितुकॊण्ड बळिक, हनुमन्तन विषयदल्लि परम सन्तोषभरितनाद जाम्बवन्तरु, महाकपियाद हनुमन्तनन्नु सीतादर्शनादि श्रीरामन कार्यद विषयवागि हीगॆ प्रश्निसिदनु - वायुपुत्रने! नीनु सीतादेवियन्नु हेगॆ कण्डॆ? अवळु अल्लि हेगिद्दाळॆ? अवळ विषयदल्लि क्रूरकर्मियाद रावणनु हेगॆ नडॆदुकॊळ्ळुत्तिरुवनु? ओ महा कपीश्वरा! ई ऎल्ल विषयगळन्नु यथावत्तागि विवरिसु.॥2-4॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *3. katham* = how; *devii* = was Seetha; *dR^iSTaa* = seen;
 *tvayaa* = by you?; *katham vaa* = how; *vartate* = was she; *tatra* = there?;
 *katham vR^ittaH* = of what behavior; *tasyaam* = towards her; *saH dashaananaH*
@@ -144,11 +166,6 @@ _________________
 towards her?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-महात्मराद वानररु सन्तोषभरितरागि कुळितुकॊण्ड बळिक, हनुमन्तन विषयदल्लि परम सन्तोषभरितनाद जाम्बवन्तरु, महाकपियाद हनुमन्तनन्नु सीतादर्शनादि श्रीरामन कार्यद विषयवागि हीगॆ प्रश्निसिदनु - वायुपुत्रने! नीनु सीतादेवियन्नु हेगॆ कण्डॆ? अवळु अल्लि हेगिद्दाळॆ? अवळ विषयदल्लि क्रूरकर्मियाद रावणनु हेगॆ नडॆदुकॊळ्ळुत्तिरुवनु? ओ महा कपीश्वरा! ई ऎल्ल विषयगळन्नु यथावत्तागि विवरिसु.॥2-4॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -164,23 +181,6 @@ towards her?"
 
 "O Hanuma! Tell us entirely, in truth whatever has occurred. Ascertaining the truth,
 from you, we shall again think about what decision to be taken further."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*2. tataH* = then; *jaambavaan* = Jambavan; *priitisamhR^iSTaH*
-= thrilling with rapture; *apR^ichchhat* = asked; *priitimantam* = the delighted; *
-mahaakapim* = the great monkey; *tam kaaryavR^ittaantam* = about the particulars of that
-actual occurrence (of seeing Seetha) as follows.
-
-**अनुवादः**
-
-Then, Jambavan, thrilling with rapture, asked the delighted Hanuma, the great monkey
-about the particulars of that actual occurrence (of seeing Seetha) as follows
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -550,6 +550,28 @@ _________________
 
 **पदच्छेदः**
 
+*11. buddhvaa* = understanding; *tam vyavasaayam* = that intention;
+*saH mahaagiriH* = that great mountain; *uvaacha ha* = spoke; *madhuraam* = sweet;
+*vaaNiim* = words; *putra iti* = saying "O my son!"; *manaH prahlaadayanniva* =
+as though it was refreshing my mind.
+
+**अनुवादः**
+
+"Understanding my purpose, that great mountain spoke the following sweet words saying,
+'O my son!', As though it was refreshing my mind (once more to proceed further)."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+बळिक अदन्नु भेदिसिबिडबेकॆन्दू निश्चयिसिदॆ. ऒडनॆये सूर्यसदृशवागिद्द आ गिरि शिखरवन्नु नन्न बालदिन्द अप्पळिसिदाग अदु कॆळक्कॆ बिद्दुहोयितु. आ नन्न साहसकार्यवन्नु तिळिदुकॊण्डु, आ महागिरियु मगु! कुमारा! ऎन्दु मनस्सिगॆ आह्लादवन्नुण्टुमाडुव मधुरवचनवन्नु हेळितु. नानु निन्न तन्दॆयाद वायुदेवरिगॆ स्नेहितनु. निनगॆ चिक्कप्पनॆन्दे भाविसु.॥11-13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *12. viddhi* = know; *maam* = me; *vikhyaatam* = to be generally
 called; *mynaakamiti* = as Mynaka; *nivasantam* = dwelling; *mahaa dadhau* = in
 the great ocean; *sakhaaya* = as a companion; *maatarishvanaH* = of the wind-god; *
@@ -561,11 +583,6 @@ pitR^ivyamohaapi* = and even as your father's brother.
 of the wind-god and even as your father's brother'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-बळिक अदन्नु भेदिसिबिडबेकॆन्दू निश्चयिसिदॆ. ऒडनॆये सूर्यसदृशवागिद्द आ गिरि शिखरवन्नु नन्न बालदिन्द अप्पळिसिदाग अदु कॆळक्कॆ बिद्दुहोयितु. आ नन्न साहसकार्यवन्नु तिळिदुकॊण्डु, आ महागिरियु मगु! कुमारा! ऎन्दु मनस्सिगॆ आह्लादवन्नुण्टुमाडुव मधुरवचनवन्नु हेळितु. नानु निन्न तन्दॆयाद वायुदेवरिगॆ स्नेहितनु. निनगॆ चिक्कप्पनॆन्दे भाविसु.॥11-13॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -581,23 +598,6 @@ of the wind-god and even as your father's brother'."
 
 " 'O my son! Long ago, the foremost among the mountains used to have wings. They used
 to wander the entire earth freely, hurting the people!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*11. buddhvaa* = understanding; *tam vyavasaayam* = that intention;
-*saH mahaagiriH* = that great mountain; *uvaacha ha* = spoke; *madhuraam* = sweet;
-*vaaNiim* = words; *putra iti* = saying "O my son!"; *manaH prahlaadayanniva* =
-as though it was refreshing my mind.
-
-**अनुवादः**
-
-"Understanding my purpose, that great mountain spoke the following sweet words saying,
-'O my son!', As though it was refreshing my mind (once more to proceed further)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -697,23 +697,6 @@ _________________
 
 **पदच्छेदः**
 
-*16. arindama* = O Hanuma; the annihilater of enemies!; *vartitavayam*
-= It s to be behaved; *mayaa* = by me in such a way; *ramasya saahye* = to help Rama;
-*raamaH* = Rama' mahendra samavikramaH = similar to the prowess of Indra; *shreSThaH*
-= is excellent; *dharma bhR^itaam* = in supporting righteousness.
-
-**अनुवादः**
-
-" 'O Hanuma the annihilator of enemies! I have to behave in such a way as to help Rama.
-For, Rama, having a prowess equal to that of Indra; is indeed excellent in supporting righteousness.'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15. vatsa* = O child!; *aham tu* = I; on my part; *prakSiptaH
 asmi* = was hurled; *mahaarNave* = into the great ocean; *mahaatmanaa maarutena* =
 by the high-souled wind-god; *tava pittraa* = your father; *mokSitaH* = and was liberated;
@@ -723,6 +706,23 @@ by the high-souled wind-god; *tava pittraa* = your father; *mokSitaH* = and was 
 
 " 'O child! I, on my part, was hurled into the great ocean by the high-souled wind-god,
 your father and was liberated from the clutches of Indra.' "
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. arindama* = O Hanuma; the annihilater of enemies!; *vartitavayam*
+= It s to be behaved; *mayaa* = by me in such a way; *ramasya saahye* = to help Rama;
+*raamaH* = Rama' mahendra samavikramaH = similar to the prowess of Indra; *shreSThaH*
+= is excellent; *dharma bhR^itaam* = in supporting righteousness.
+
+**अनुवादः**
+
+" 'O Hanuma the annihilator of enemies! I have to behave in such a way as to help Rama.
+For, Rama, having a prowess equal to that of Indra; is indeed excellent in supporting righteousness.'"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -830,23 +830,6 @@ large mountainous form also later drowned into the great ocean."
 
 **पदच्छेदः**
 
-*20. tataH* = thereafter; *aasthaaya* = employing; *uttamam*
-= an excellent; *javam* = speed; *aasthitaH* = and existing; *sheSam* = in the
-remaining; *panthaanam* = path; *aham* = I; *abhyaagamam* = went; *pathi*
-= in that path; *vegena* = with speed; *suchiram kaalam* = for a very long time.
-
-**अनुवादः**
-
-"Thereafter, employing an excellent speed and continuing on my course, I proceeded in
-that path speedily for a long time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 17; *18. shrutvaa* = hearing; *vachaH* = the words; *tasya mahaatmanaH
 mynaakasya* = of that high-souled Mynaka; *aavedya* = and informing; *kaaryam* = my
 purpose; *mama* = my; *manaH* = mind; *udyatam* = was prepared for the travel;
@@ -857,6 +840,23 @@ that high-souled; *mynaakena cha* = Mynaka also.
 
 "Hearing the words of that high-souled Mynaka and after informing my purpose, my mind
 was prepared for a further travel. The high-soled Mynaka also allowed me to depart."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. tataH* = thereafter; *aasthaaya* = employing; *uttamam*
+= an excellent; *javam* = speed; *aasthitaH* = and existing; *sheSam* = in the
+remaining; *panthaanam* = path; *aham* = I; *abhyaagamam* = went; *pathi*
+= in that path; *vegena* = with speed; *suchiram kaalam* = for a very long time.
+
+**अनुवादः**
+
+"Thereafter, employing an excellent speed and continuing on my course, I proceeded in
+that path speedily for a long time."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -1225,23 +1225,6 @@ _________________
 
 **पदच्छेदः**
 
-*28. evam* = thus; *uktaH* = spoken; *surasayaa* = by Surasa;
-*aham* = I; *aayataH* = as tall as; *dashayojanam* = ten Yojanas; (eighty miles);
-*kSaNena* = within a moment; *babhuuva* = became; *ardhaguNavistaaraH* = half as
-much in size (fifteen yojanas or one hundred and twenty miles).
-
-**अनुवादः**
-
-"Hearing the words of Surasa, I, as tall as ten Yojanas (eighty miles), within a moment,
-grew half as much in size (fifteen Yojanas or one hundred twenty miles)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. evam* = thus; *uktaa* = spoken; *mayaa* = by me; *
 saa surasaa* = that Surasa; *kaama ruupiNii* = who can assume any form at will; *abraviit*
 = spoke (as follows); *na kshchit* = no one; *ativarte ta* = can violate (me by unfaithfulness);
@@ -1251,6 +1234,23 @@ saa surasaa* = that Surasa; *kaama ruupiNii* = who can assume any form at will; 
 
 Hearing my words, that Surasa who can assume any form at her will said: "No one can violate
 me by unfaithfulness. I have this boon with me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. evam* = thus; *uktaH* = spoken; *surasayaa* = by Surasa;
+*aham* = I; *aayataH* = as tall as; *dashayojanam* = ten Yojanas; (eighty miles);
+*kSaNena* = within a moment; *babhuuva* = became; *ardhaguNavistaaraH* = half as
+much in size (fifteen yojanas or one hundred and twenty miles).
+
+**अनुवादः**
+
+"Hearing the words of Surasa, I, as tall as ten Yojanas (eighty miles), within a moment,
+grew half as much in size (fifteen Yojanas or one hundred twenty miles)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -1376,6 +1376,23 @@ _________________
 
 **पदच्छेदः**
 
+*31. abhipatya* = after entering; *tadvaktram* = her mouth; *aashu*
+= quickly; aham- I; *tataH* = then; *nirgataH* = came out; *kSaNaat* = instantly;
+*devii* = the divine; *surasaa* = Surasa; *svena ruupeNa* = in her native form;
+*abraviit* = spoke; *maam* = to me; *punaH* = again (as follows):
+
+**अनुवादः**
+
+"After entering her mouth quickly, I then came out instantly. The divine Surasa, in her
+native form, spoke to me again, as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *32. saumya* = O gentle monkey!; *harishreSTha* = O the foremost
 among monkeys!; *gachchha* = go yathaasukham = happily; *artha siddhyai* = for the fulfillment
 of your purpose; *samaanaya* = bring back; *vaidehiim* = Seetha; *mahaatmanaa raaghaveNa*
@@ -1387,23 +1404,6 @@ of your purpose; *samaanaya* = bring back; *vaidehiim* = Seetha; *mahaatmanaa ra
 "'O gently monkey! O the foremost among monkeys! Go happily for the fulfillment of your
 purpose. Bring back Seetha to the magnanimous Rama. O mighty armed monkey! Be happy. I am pleased with
 you.'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*31. abhipatya* = after entering; *tadvaktram* = her mouth; *aashu*
-= quickly; aham- I; *tataH* = then; *nirgataH* = came out; *kSaNaat* = instantly;
-*devii* = the divine; *surasaa* = Surasa; *svena ruupeNa* = in her native form;
-*abraviit* = spoke; *maam* = to me; *punaH* = again (as follows):
-
-**अनुवादः**
-
-"After entering her mouth quickly, I then came out instantly. The divine Surasa, in her
-native form, spoke to me again, as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -1542,23 +1542,6 @@ _________________
 
 **पदच्छेदः**
 
-*36. tataH* = then; *me* = to me; *buddhiH* = the thought;
-*utpannaa* = arose; *yatra* = where; *gamane* = in my journey; *na ruupam*
-= no configuration; *na dR^ishaH* = is being seen; *kim naama* = what is it?; *iidR^ishaH*
-= such; *vighnaH* = a hindrance; *utpannaH* = arose?
-
-**अनुवादः**
-
-"Then, the thought arose in me: "How I wonder has such a hindrance arose in my journey,
-although no concrete configuration is being seen here?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 34; *35. me* = my; *chhaayaa* = shadow; *nigR^ihiitaa* = was
 held fast; *na cha pashyaami* = I did not perceive; *kimchana* = anything; *vihata
 vegaH* = my speed having been blocked; *saH aham* = I; *vilokayan* = surveyed; *
@@ -1571,6 +1554,23 @@ dasha dishaH* = all the ten directions; *na cha pashyaami* = I could not discove
 "In the meanwhile, my shadow was held fast. Yet, I did not perceive anything. My speed
 having been blocked, I surveyed all the ten directions. But I could not discover there, any object by
 which my movement was blocked."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. tataH* = then; *me* = to me; *buddhiH* = the thought;
+*utpannaa* = arose; *yatra* = where; *gamane* = in my journey; *na ruupam*
+= no configuration; *na dR^ishaH* = is being seen; *kim naama* = what is it?; *iidR^ishaH*
+= such; *vighnaH* = a hindrance; *utpannaH* = arose?
+
+**अनुवादः**
+
+"Then, the thought arose in me: "How I wonder has such a hindrance arose in my journey,
+although no concrete configuration is being seen here?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -2088,23 +2088,6 @@ _________________
 
 **पदच्छेदः**
 
-*47. puraH* = in front; *pravishataH* = of me entering; *tatra*
-= that city; *kaapi naarii* = a woman; *kalpaanta ghana sannibhaa* = resembling a cloud
-at the time of dissolution of the world; *utthitaa* = rose; *vimuN^chantii* = emitting;
-*aTTahaasam* = a loud laughter.
-
-**अनुवादः**
-
-"While I was entering the City, a woman, resembling a cloud at the time of dissolution
-of the world, stood up in front of me, emitting a loud laughter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *46. dinakare astam yaate* = while the sun was setting; *aham* =
 I; *avijJNaataH* = without being noticed; *rakSobhiH* = by the demons; *bhiima vikramaiH*
 = of dreadful prowess; *praviSTaH* = entered; *puram* = the City of Lanka; *nilayam*
@@ -2114,6 +2097,23 @@ I; *avijJNaataH* = without being noticed; *rakSobhiH* = by the demons; *bhiima v
 
 "While the sun was setting, I, without being noticed by the demons of dreadful prowess,
 entered the city of Lanka, the abode of demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*47. puraH* = in front; *pravishataH* = of me entering; *tatra*
+= that city; *kaapi naarii* = a woman; *kalpaanta ghana sannibhaa* = resembling a cloud
+at the time of dissolution of the world; *utthitaa* = rose; *vimuN^chantii* = emitting;
+*aTTahaasam* = a loud laughter.
+
+**अनुवादः**
+
+"While I was entering the City, a woman, resembling a cloud at the time of dissolution
+of the world, stood up in front of me, emitting a loud laughter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -2177,23 +2177,6 @@ _________________
 
 **पदच्छेदः**
 
-*50. viira* = O; hero!; *aham* = I am; *laN^kaapurii* = the
-City of Lanka; *yasmaat tasmaat* = therefore; *te vikramaNe* = by your prowess; *nirjitaa*
-= which conquered me; *vijetaasi* = you can defeat; *asheSataH* = completely; *sarva
-rakSaamsi* = all the demons.
-
-**अनुवादः**
-
-"O hero! I am (the personified) City of Lanka. Therefore, by the same prowess you conquered
-me, you can defeat all the demons here completely."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 48; *49. tataH* = then; *paarajitya* = defeating; *taam* =
 her; *jvaladagnishiroruhaam* = having her hair looking like a blazing fire; *subhairavaam*
 = and very terrific; *jighaamsantiim* = desirous of killing me; *savyamuSTi prahaareNa*
@@ -2206,6 +2189,23 @@ kaale* = at the dusk of early night; *aham* = I; *uditah* = was spoken (as follo
 "Then defeating that woman, having her hair looking terrific like a blazing fire and
 who was trying to kill me, by striking her with a blow of the fist of my left hand and entered the land
 of Lanka at the dusk of early night. she, being frightened, spoke to me as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*50. viira* = O; hero!; *aham* = I am; *laN^kaapurii* = the
+City of Lanka; *yasmaat tasmaat* = therefore; *te vikramaNe* = by your prowess; *nirjitaa*
+= which conquered me; *vijetaasi* = you can defeat; *asheSataH* = completely; *sarva
+rakSaamsi* = all the demons.
+
+**अनुवादः**
+
+"O hero! I am (the personified) City of Lanka. Therefore, by the same prowess you conquered
+me, you can defeat all the demons here completely."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -2962,23 +2962,6 @@ _________________
 
 **पदच्छेदः**
 
-*69. shrutvaa* = hearing; *etat* = these; *vachaH* = words;
-*tasya raavaNasya* = of that Ravana; *duraatmanaH* = the evil-minded; *siitaa*
-= Seetha; *parama kruddhaa* = very much irritated; *uvaacha* = spoke; *uttamam*
-= excellent; *vachanam* = words (as follows):
-
-**अनुवादः**
-
-"Hearing those words of the evil-minded Ravana, Seetha was very much irritated and spoke
-the following excellent words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *68. garvite* = O arrogant lady!; *siite* = O Seetha!; *tvam na
 abhinandasi yadichet* = I you refuse; *na abhinandasi yadichachet* = If you refuse; *maam*
 = me; *darpaat* = by your arrogance; *paasyaami* = I will be drinking; *tava rudhiram*
@@ -2988,6 +2971,23 @@ abhinandasi yadichet* = I you refuse; *na abhinandasi yadichachet* = If you refu
 
 " 'O arrogant lady! O Seetha! If you refuse me by your arrogance, I will be drinking
 your blood after a period of two months.'"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*69. shrutvaa* = hearing; *etat* = these; *vachaH* = words;
+*tasya raavaNasya* = of that Ravana; *duraatmanaH* = the evil-minded; *siitaa*
+= Seetha; *parama kruddhaa* = very much irritated; *uvaacha* = spoke; *uttamam*
+= excellent; *vachanam* = words (as follows):
+
+**अनुवादः**
+
+"Hearing those words of the evil-minded Ravana, Seetha was very much irritated and spoke
+the following excellent words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -3154,23 +3154,6 @@ sacrifices. He speaks only truth. He is a lover of battle'."
 
 **पदच्छेदः**
 
-*73. evam* = thus; *uktaH* = spoken; *paruSam* = harshly;
-*jaanakyaa* = by Seetha; *dashaananaH* = Ravana; *sahasaa* = at once; *jajvaala*
-= was ablaze; *kopaat* = with anger; *paavakaH iva* = like a fire; *chitaasthaH*
-= in a pile of wood.
-
-**अनुवादः**
-
-"Hearing these harsh words from Seetha, Ravana was at once ablaze with anger, as a fire
-blazes in a pile of wood."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *71. anaarya* = O ignoble soul!; *paapa* = O sinful one! bhartuH
 asmnidhau = during the absence of my husband; *yaH aagataH* = when you came; *adR^iSTaH*
 = without being noticed; *mahaatmanaa tena* = by that great soul; *apahR^itya* = abducting;
@@ -3180,6 +3163,23 @@ asmnidhau = during the absence of my husband; *yaH aagataH* = when you came; *ad
 
 "O ignoble soul! Of what account is your prowess, when you came unnoticed during the
 absence of my lord, that great soul and abducted me, O sinful one?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*73. evam* = thus; *uktaH* = spoken; *paruSam* = harshly;
+*jaanakyaa* = by Seetha; *dashaananaH* = Ravana; *sahasaa* = at once; *jajvaala*
+= was ablaze; *kopaat* = with anger; *paavakaH iva* = like a fire; *chitaasthaH*
+= in a pile of wood.
+
+**अनुवादः**
+
+"Hearing these harsh words from Seetha, Ravana was at once ablaze with anger, as a fire
+blazes in a pile of wood."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -3239,15 +3239,15 @@ _________________
 
 **पदच्छेदः**
 
-*77. prabho* = O Lord! ramasya = enjoy yourself; *iha* = here;
-*deva gandharva kanyaabhiH* = with daughters of gods Gandharvas the celestial musicians; *
-yakSakanyaabhirevacha saardham* = and Yakshas the semi divine beings kimkariSyasi = what will you
-do; *siitayaa* = with Seetha?
+*74. vivR^itya* = rolling; *kruure nayane* = his cruel eyes; *
+udyamya* = and lifting; *dakSiNam muSTim* = his right fist; *aarbdhaH* = he began;
+*hantum* = to kill; *maithiliim* = Seetha; *tadaa* = then; *haahaakR^itam*
+= an alarm was raised; *striibhiH* = by the women.
 
 **अनुवादः**
 
-" 'O lord! Enjoy yourself with the daughters of gods, Gandharvas the celestial musicians
-and Yakshas the semi-divine beings. What will you do with Seetha?'"
+" 'Rolling his cruel eyes and lifting his right fist, Ravana was about to kill Seetha.
+Then, an alarm was raised by a women there'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -3283,15 +3283,15 @@ of that evil-minded Ravana, ran to him. He was restrained by her."
 
 **पदच्छेदः**
 
-*74. vivR^itya* = rolling; *kruure nayane* = his cruel eyes; *
-udyamya* = and lifting; *dakSiNam muSTim* = his right fist; *aarbdhaH* = he began;
-*hantum* = to kill; *maithiliim* = Seetha; *tadaa* = then; *haahaakR^itam*
-= an alarm was raised; *striibhiH* = by the women.
+*77. prabho* = O Lord! ramasya = enjoy yourself; *iha* = here;
+*deva gandharva kanyaabhiH* = with daughters of gods Gandharvas the celestial musicians; *
+yakSakanyaabhirevacha saardham* = and Yakshas the semi divine beings kimkariSyasi = what will you
+do; *siitayaa* = with Seetha?
 
 **अनुवादः**
 
-" 'Rolling his cruel eyes and lifting his right fist, Ravana was about to kill Seetha.
-Then, an alarm was raised by a women there'."
+" 'O lord! Enjoy yourself with the daughters of gods, Gandharvas the celestial musicians
+and Yakshas the semi-divine beings. What will you do with Seetha?'"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -3377,23 +3377,6 @@ _________________
 
 **पदच्छेदः**
 
-*79. tasmin dashagriive yaate* = when that Ravana left; *vikrutaananaaH*
-= the ugly-faced; *raakSasyaH* = female-demons; *nirbhartasyaamaasuH* = frightened;
-*siitaam* = Seetha; *kruuraiH sudaarunaiH vaakyaiH* = with their cruel and very dreadful
-words.
-
-**अनुवादः**
-
-"When that Ravana left, the ugly-faced female-demons frightened. Seetha with their cruel
-and very dreadful words."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *76. saH* = Ravana; *madanaarditaH* = tormented with love; *uktashcha*
 = was spoken; *madhuraam* = sweet; *vaacham* = words; *tayaa* = by her; (as follows);
 *mahendra samavikrama* = O the one having a prowess equal to that of Indra!; *kim kaaryam*
@@ -3403,6 +3386,23 @@ and very dreadful words."
 
 "She spoke to Ravana, smitten with love, the following sweet words: 'O Ravana having
 a prowess similar to that of Indra! Of what need is with Seetha to you?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*79. tasmin dashagriive yaate* = when that Ravana left; *vikrutaananaaH*
+= the ugly-faced; *raakSasyaH* = female-demons; *nirbhartasyaamaasuH* = frightened;
+*siitaam* = Seetha; *kruuraiH sudaarunaiH vaakyaiH* = with their cruel and very dreadful
+words.
+
+**अनुवादः**
+
+"When that Ravana left, the ugly-faced female-demons frightened. Seetha with their cruel
+and very dreadful words."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -3795,6 +3795,23 @@ _________________
 
 **पदच्छेदः**
 
+*87. abhiyaachaama* = we will pray; *vaidehiim* = Seetha; *alam*
+= (who is) enough; *paritraatum* = to protect; *raakSasiigaNam* = our female-demons;
+*asmaat raaghavaat* = from this Rama; *etat* = this; *rochate hi* = is indeed agreable;
+*mam* = to me.
+
+**अनुवादः**
+
+" �We will pray Seetha, who is capable of protecting all our female-demons from Rama.
+I feel that it is batter for us'."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *88. evam vidhaH svapnaH* = (when) such a dream; *pradR^ishyate*
 = is seen; *yasyaaH duHkhitaayaaH* = while a woman is weeping; *saa* = that woman; *
 vimuktaaH* = being relieved; *vividhaiH duHkhaiH* = from many kinds of sorrows; *aapnoti*
@@ -3807,23 +3824,6 @@ indeed gets pleased on receiving.
 " 'When such a dream is seen while a woman is weeping, that woman gets relieved of many
 kinds of sorrows and will obtain happiness. Seetha, the daughter of Janaka, indeed will be pleased on
 receiving a salutation'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*87. abhiyaachaama* = we will pray; *vaidehiim* = Seetha; *alam*
-= (who is) enough; *paritraatum* = to protect; *raakSasiigaNam* = our female-demons;
-*asmaat raaghavaat* = from this Rama; *etat* = this; *rochate hi* = is indeed agreable;
-*mam* = to me.
-
-**अनुवादः**
-
-" �We will pray Seetha, who is capable of protecting all our female-demons from Rama.
-I feel that it is batter for us'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -3893,23 +3893,6 @@ _________________
 
 **पदच्छेदः**
 
-*90. vishraantaH* = taking rest; *dR^iSTvaa* = and seeing; *taam*
-= that; *daaruNaam* = dreadful; *dashaam* = situation; *taadR^ishiim* = as such;
-*aham* = I; *chintayaamasa* = reflected upon it; *me* = my; *manaH* = mind;
-*na nirvR^itam* = could not satisfy itself.
-
-**अनुवादः**
-
-"Taking rest for some time and seeing such a dreadful state of Seetha, I reflected upon
-it. My mind could not satisfy itself."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *89. vijaya harSitaa* = delighted at (hearing of) the victory; *bhartuH*
 = of her lord; *saa baalaa* = that girl; Seetha; *tataH* = then; *hriimati* = bashfully;
 *avochat* = spoke; *tat tathyamyadi* = If it is true; *bhaveyam* = I will be;
@@ -3919,6 +3902,23 @@ it. My mind could not satisfy itself."
 
 "Delighted at hearing the victory of her lord, that girl Seetha then basfully spoke:
 'If it is true, I will be protecting you all'."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*90. vishraantaH* = taking rest; *dR^iSTvaa* = and seeing; *taam*
+= that; *daaruNaam* = dreadful; *dashaam* = situation; *taadR^ishiim* = as such;
+*aham* = I; *chintayaamasa* = reflected upon it; *me* = my; *manaH* = mind;
+*na nirvR^itam* = could not satisfy itself.
+
+**अनुवादः**
+
+"Taking rest for some time and seeing such a dreadful state of Seetha, I reflected upon
+it. My mind could not satisfy itself."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -4137,15 +4137,17 @@ _________________
 
 **पदच्छेदः**
 
-*97. yashasvini* = O illustrious lady!; *daasharathiH* = Rama;
-*puruSavyaaghraH* = the foremost among men; *shriimaan* = and the glorious man; *adaat*
-= gave; *idam* = this; *aN^guliiyam* = finger-ring; *svayam* = personally; *
-tubhyam* = to you; *abhiJNaanam* = as a token of remembrance.
+94; *95. shrutvaa* = Hearing; *tat vachanam* = those words; *tasyaaH*
+= of Seetha; *aham api* = I; *abruvat* = spoke; *vachaH* = (the following) words;
+*devi* = O princess!; *vikraantaH* = the courageous; *vaanarendraH* = king of monkeys;
+*sugriivo naama* = by name Sugreeva; *mahaabalah* = a mighty; *sahaayaH* = companion;
+*bhartuH* = to your husband; *bhiima vikramaH* = having a terrific prowess.
 
 **अनुवादः**
 
-"O illustrious lady! Rama, the foremost among men and the glorious man, gave this finger-ring
-personally to you as a token of remembrance."
+"Hearing those words of Seetha, I spoke the following words: 'O princess! There is a
+courageous king of monkeys, by name Sugreeva, who is a mighty companion to your husband, possessing
+a terrific prowess."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -4176,17 +4178,15 @@ is unwearied in his actions, sent me here for your sake."
 
 **पदच्छेदः**
 
-94; *95. shrutvaa* = Hearing; *tat vachanam* = those words; *tasyaaH*
-= of Seetha; *aham api* = I; *abruvat* = spoke; *vachaH* = (the following) words;
-*devi* = O princess!; *vikraantaH* = the courageous; *vaanarendraH* = king of monkeys;
-*sugriivo naama* = by name Sugreeva; *mahaabalah* = a mighty; *sahaayaH* = companion;
-*bhartuH* = to your husband; *bhiima vikramaH* = having a terrific prowess.
+*97. yashasvini* = O illustrious lady!; *daasharathiH* = Rama;
+*puruSavyaaghraH* = the foremost among men; *shriimaan* = and the glorious man; *adaat*
+= gave; *idam* = this; *aN^guliiyam* = finger-ring; *svayam* = personally; *
+tubhyam* = to you; *abhiJNaanam* = as a token of remembrance.
 
 **अनुवादः**
 
-"Hearing those words of Seetha, I spoke the following words: 'O princess! There is a
-courageous king of monkeys, by name Sugreeva, who is a mighty companion to your husband, possessing
-a terrific prowess."
+"O illustrious lady! Rama, the foremost among men and the glorious man, gave this finger-ring
+personally to you as a token of remembrance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -4691,23 +4691,6 @@ _________________
 
 **पदच्छेदः**
 
-*108. tataH* = thereafter; *me* = my; *kaayaH* = body; *
-avardhata* = grew up; *parvatasamnibhaH* = to a size equal to that of a mountain; *tadaa*
-= then; *aarabhe* = I started; *vinaashayitum* = to destroy; *tat* = that; *
-vanam* = garden; *yuddha kaaNkii* = longing for a battle.
-
-**अनुवादः**
-
-"Thereafter, my body grew up to a size equal to that of a mountain. Then, I started destroying
-that garden, thereby longing for a combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *107. shrutvaa* = hearing; *tat* = that; *karuNam* = miserable;
 *vaakyam* = sentence; *krodhaH* = anger; *abhyavartata* = turned towards; *maam*
 = me; uttaram thereafter; *anantaram kaaryasheSam* = the remaining action subsequently to be
@@ -4717,6 +4700,23 @@ done; *dR^iSTam* = was seen; *mayaa* = by me.
 
 "Hearing those miserable words, I became angry. Thereafter, I thought of my remaining
 successive action to be done."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*108. tataH* = thereafter; *me* = my; *kaayaH* = body; *
+avardhata* = grew up; *parvatasamnibhaH* = to a size equal to that of a mountain; *tadaa*
+= then; *aarabhe* = I started; *vinaashayitum* = to destroy; *tat* = that; *
+vanam* = garden; *yuddha kaaNkii* = longing for a battle.
+
+**अनुवादः**
+
+"Thereafter, my body grew up to a size equal to that of a mountain. Then, I started destroying
+that garden, thereby longing for a combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -5328,24 +5328,6 @@ with great strength and strengthened with a regiment of infantry."
 
 **पदच्छेदः**
 
-*122. aham* = I; *abhyasuudayam taan sarvaan saha sainyaan* = got
-all of those minister's sons together with their army destroyed; *tataH* = thereafter; *raavaNaH*
-= Ravana; *dashagriivaH* = the ten-headed monster; *preSayaamaasa* = sent; *mahaabalam
-putram* = his mighty son; *akSam* = Aksha; *bahubhiH raakSasaiH saartham* = together
-with a multitude of demons.
-
-**अनुवादः**
-
-"I got all the minster's sons together with their army destroyed. Then, Ravana, the ten-headed
-monster, sent his mighty son, Aksha together with a multitude of army for the combat."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 120; *121. nayaami* = I fetched; *taan sarvaan* = all of them;
 *yamasaadanam* = to the abode of Death; *parigheNaina* = by the iron bar itself; *shrutvaa*
 = hearing; *mantriputraan* = of the minister's sons; *laghu vikramaan* = who were quick
@@ -5358,6 +5340,24 @@ in exhibiting their valour; *samare* = in battle; *hataan* = having been killed;
 "I killed all of them also by that iron bar itself. Hearing of the minster's sons, who
 were quick in exhibiting their valour in battle, having been killed, Ravana dispatched five valiant
 generals."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*122. aham* = I; *abhyasuudayam taan sarvaan saha sainyaan* = got
+all of those minister's sons together with their army destroyed; *tataH* = thereafter; *raavaNaH*
+= Ravana; *dashagriivaH* = the ten-headed monster; *preSayaamaasa* = sent; *mahaabalam
+putram* = his mighty son; *akSam* = Aksha; *bahubhiH raakSasaiH saartham* = together
+with a multitude of demons.
+
+**अनुवादः**
+
+"I got all the minster's sons together with their army destroyed. Then, Ravana, the ten-headed
+monster, sent his mighty son, Aksha together with a multitude of army for the combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -5481,23 +5481,6 @@ _________________
 
 **पदच्छेदः**
 
-*126. kR^itvaa* = by making; *naSTaujasam* = lusterless; *sarvam
-tat balamcha* = all that army; *tam raakSasapuNgavam cha* = and that Indrajit the foremost
-among demons; *rane* = in battle; *upaagamam* = I experienced; *param harSam* =
-a great joy.
-
-**अनुवादः**
-
-"By conquering all that army in battle and making that Indrajit the foremost among demons;
-lusterless, I experienced a great joy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *125. nishamya* = hearing; *bhagnam* = of the death; *akSam*
 = of Aksha; *aagatam* = who came for combat; *saH dashaananaH raavaNaH* = that ten headed
 Ravana; *susamkR^iddhaH* = was very much enraged; *tataH* = and then; *vyaadidesha*
@@ -5509,6 +5492,23 @@ Ravana; *susamkR^iddhaH* = was very much enraged; *tataH* = and then; *vyaadides
 "Hearing of the death of Aksha in combat, that ten-headed Ravana was very much enraged
 and thereupon dispatched his second son, by name Indrajit, who was strong but foolishly arrogant in
 battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*126. kR^itvaa* = by making; *naSTaujasam* = lusterless; *sarvam
+tat balamcha* = all that army; *tam raakSasapuNgavam cha* = and that Indrajit the foremost
+among demons; *rane* = in battle; *upaagamam* = I experienced; *param harSam* =
+a great joy.
+
+**अनुवादः**
+
+"By conquering all that army in battle and making that Indrajit the foremost among demons;
+lusterless, I experienced a great joy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -5677,15 +5677,15 @@ _________________
 
 **पदच्छेदः**
 
-*130. aham* = I; *dR^iSTvaa* = being seen; *duraatmanaa raavaNena*
-= by the evil-minded Ravana; *sambhaaSitashcha* = was spoken; *pR^iSTashcha* = I was asked;
-*laN^kaagamanam* = about my coming to Lanka; *tam vadham* = and about that killing;
-*raakSasaanaam* = of demons.
+*129. tataH* = then; *raakSasaaH* = the demons; *abhibadhnanti*
+= tied; *maam* = me; *tatra* = there; *rajjubhiH* = with ropes; *gR^ihiitvaa*
+= taking; *maam* = me; *upaanayan* = and carrying me away to; *raavaNasya samiipam*
+= Ravana's presence.
 
 **अनुवादः**
 
-"Seeing me, the evil-minded Ravana spoke to me. He asked, why did you come to Lanka?
-'Why did you kill the demons?'"
+"Then, the demons, after capturing me, tied me there with ropes and carried me away to
+Ravana's presence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -5699,15 +5699,15 @@ _________________
 
 **पदच्छेदः**
 
-*129. tataH* = then; *raakSasaaH* = the demons; *abhibadhnanti*
-= tied; *maam* = me; *tatra* = there; *rajjubhiH* = with ropes; *gR^ihiitvaa*
-= taking; *maam* = me; *upaanayan* = and carrying me away to; *raavaNasya samiipam*
-= Ravana's presence.
+*130. aham* = I; *dR^iSTvaa* = being seen; *duraatmanaa raavaNena*
+= by the evil-minded Ravana; *sambhaaSitashcha* = was spoken; *pR^iSTashcha* = I was asked;
+*laN^kaagamanam* = about my coming to Lanka; *tam vadham* = and about that killing;
+*raakSasaanaam* = of demons.
 
 **अनुवादः**
 
-"Then, the demons, after capturing me, tied me there with ropes and carried me away to
-Ravana's presence."
+"Seeing me, the evil-minded Ravana spoke to me. He asked, why did you come to Lanka?
+'Why did you kill the demons?'"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -5798,6 +5798,28 @@ _________________
 
 **पदच्छेदः**
 
+*133. viddhi* = know; *maam* = me; *kapim* = to be a monkey;
+*raama duutam* = an envoy of Rama; *sugriiva sachivam* = and a minister of Sugreeva;
+*raamasya dontyena* = on a function as Rama's messenger; *saH aham* = I as such; *aagatah*
+= came; *iha* = here; *tvatsakaasham* = to your presence.
+
+**अनुवादः**
+
+" 'Know me to be a monkey, an envoy of Rama and a minister of Sugreeva. As Rama's messenger,
+I sought your presence here!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+रावणनु नानु लङ्कॆगॆ बन्दुदर हागू राक्षसरन्नु कॊन्द कारणवन्नु केळिदनु. आग नानु सीतादेविय निमित्तदिन्द बन्दिरुवॆनु. ऎलै राजा! अवळन्नु दर्शिसलु बन्दु क्रमवागि निन्न अरमनॆगू बन्दिरुवॆनु. नानु वायुपुत्रनु, वानरनु, हनुमन्तनॆम्बुदु नन्न हॆसरु. नानु श्रीरामन बण्टनू, सुग्रीवन सचिवनू आगिरुवॆ. रामन रायभारियागि निन्न बळिगॆ बन्दिरुवॆनु.॥133-135॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *134. saH sugriivashcha* = that Sugreeva; *mahaatejaH* = of great
 splendour; *abraviit* = enquired; *tvaam* = you; *kushalam* = about your welfare;
 *uvaacha* = (He) spoke; *hitam* = beneficiary words; *dharmaartha kaama sahitam*
@@ -5809,11 +5831,6 @@ splendour; *abraviit* = enquired; *tvaam* = you; *kushalam* = about your welfare
 beneficiary words, endowed with righteousness wealth and pleasure, appropriate for you'."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-रावणनु नानु लङ्कॆगॆ बन्दुदर हागू राक्षसरन्नु कॊन्द कारणवन्नु केळिदनु. आग नानु सीतादेविय निमित्तदिन्द बन्दिरुवॆनु. ऎलै राजा! अवळन्नु दर्शिसलु बन्दु क्रमवागि निन्न अरमनॆगू बन्दिरुवॆनु. नानु वायुपुत्रनु, वानरनु, हनुमन्तनॆम्बुदु नन्न हॆसरु. नानु श्रीरामन बण्टनू, सुग्रीवन सचिवनू आगिरुवॆ. रामन रायभारियागि निन्न बळिगॆ बन्दिरुवॆनु.॥133-135॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -5829,23 +5846,6 @@ raNavikraantaH* = having a great prowess in battle; *samupaagataH* = obtained; *
 
 " 'While I was dwelling in Mount R^ishyamuka, abounding with numerous trees, Rama having
 a great prowess in battle became a friend to me'."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*133. viddhi* = know; *maam* = me; *kapim* = to be a monkey;
-*raama duutam* = an envoy of Rama; *sugriiva sachivam* = and a minister of Sugreeva;
-*raamasya dontyena* = on a function as Rama's messenger; *saH aham* = I as such; *aagatah*
-= came; *iha* = here; *tvatsakaasham* = to your presence.
-
-**अनुवादः**
-
-" 'Know me to be a monkey, an envoy of Rama and a minister of Sugreeva. As Rama's messenger,
-I sought your presence here!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -6173,22 +6173,6 @@ _________________
 
 **पदच्छेदः**
 
-*142. kena* = to whom; *prabhaavaH* = is this strength; *vaanaraaNaam*
-= of the monkeys; *na viditaH* = not already known; *gachchhanti* = who go; *sakaasham*
-= to ther presence; *devataanaam* = of gods; *ye* = who; *nimantritaa* = when invited?
-
-**अनुवादः**
-
-" 'To whom is this strength of the monkeys not already known, who go even to the presence
-of gods, when invited by them for help?'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *141. yaavat na* = even before; *viiraaH harayaH* = the heroic monkeys;
 *vidhamanti* = destroy; *taa balam* = your army; *aaniiyataam siitaa* = let Seetha
 be brought; *kSipram* = quickly; *diiyataamcha* = and given back; *raaghavaaya*
@@ -6198,6 +6182,22 @@ be brought; *kSipram* = quickly; *diiyataamcha* = and given back; *raaghavaaya*
 
 " 'Even before the heroic monkeys destroy your army, bring Seetha quickly and give her
 back to Rama'."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*142. kena* = to whom; *prabhaavaH* = is this strength; *vaanaraaNaam*
+= of the monkeys; *na viditaH* = not already known; *gachchhanti* = who go; *sakaasham*
+= to ther presence; *devataanaam* = of gods; *ye* = who; *nimantritaa* = when invited?
+
+**अनुवादः**
+
+" 'To whom is this strength of the monkeys not already known, who go even to the presence
+of gods, when invited by them for help?'"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -6983,16 +6983,18 @@ _________________
 
 **पदच्छेदः**
 
-*160. shrutvaa* = hearing; *taam adbhutaam giram* = those surprising
-words; *buddhiH* = (the following) thought; *tataH* = then; *utpannaa* = arose;
-*me* = in me; *ityevam* = that; *jaanakii* = Seetha; *adagdhaa* = was not
-burnt; *upalakSitaa* = It was understood by implication; *nimittaishcha* = because of
-good omens too.
+158; *159. iti* = thus; *shokamaaviSTaH* = filled with grief; *
+aham* = I; *upaagataH* = came about; *chintaam* = to reflect (as above); *ashrouSam*
+= (meanwhile) I heard; *shubhaakSaraam* = the auspiciously worded; *vaacham* = utterance;
+*chaaraNaanaam* = of Charanas the celestial singers; *vismayodant bhaaSaNam* = who were
+naraating a tale of ashtonishment; *iti* = saying that; *jaanakii* = Seetha; *na chadagdhaa*
+= has not been burnt.
 
 **अनुवादः**
 
-"After hearing those surprising words, a thought arose in me that Seetha escaped being
-burnt. This indicated by the following good omens:
+"Thus filled with grief, I came about to reflect as above. Meanwhile, I heard the auspiciously
+worded utterance of charanas the celestial signers who were narrating a tale of astonishment saying
+that Seetha has not been burnt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -7006,18 +7008,16 @@ burnt. This indicated by the following good omens:
 
 **पदच्छेदः**
 
-158; *159. iti* = thus; *shokamaaviSTaH* = filled with grief; *
-aham* = I; *upaagataH* = came about; *chintaam* = to reflect (as above); *ashrouSam*
-= (meanwhile) I heard; *shubhaakSaraam* = the auspiciously worded; *vaacham* = utterance;
-*chaaraNaanaam* = of Charanas the celestial singers; *vismayodant bhaaSaNam* = who were
-naraating a tale of ashtonishment; *iti* = saying that; *jaanakii* = Seetha; *na chadagdhaa*
-= has not been burnt.
+*160. shrutvaa* = hearing; *taam adbhutaam giram* = those surprising
+words; *buddhiH* = (the following) thought; *tataH* = then; *utpannaa* = arose;
+*me* = in me; *ityevam* = that; *jaanakii* = Seetha; *adagdhaa* = was not
+burnt; *upalakSitaa* = It was understood by implication; *nimittaishcha* = because of
+good omens too.
 
 **अनुवादः**
 
-"Thus filled with grief, I came about to reflect as above. Meanwhile, I heard the auspiciously
-worded utterance of charanas the celestial signers who were narrating a tale of astonishment saying
-that Seetha has not been burnt."
+"After hearing those surprising words, a thought arose in me that Seetha escaped being
+burnt. This indicated by the following good omens:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -7114,16 +7114,16 @@ _________________
 
 **पदच्छेदः**
 
-*163. dR^iSTavaa* = seeing; *vaidehiim* = Seetha; *punaH*
-= once more; *visR^iSTaH* = relieed; *tayaa* = by her; *punaH* = again; *tataH*
-= and then; *aasaadya* = reaching; *ariSTaparvatam* = Mount Arishta; *punaH* =
-again; *tatra* = there; *aham* = I; *aarabhe* = started; *pratiplavanam*
-= leaping back; *yuSmaddarshana kaaN^kSayaa* = with a longing to see you.
+*162. abhavam* = I became; *hR^iSTamaanasaH* = delighted in mind;
+*taiH* = by those; *nimittaiH* = good omens; *dR^iSTaarthaih* = having their fruits
+apparent; *kaaraNashcha* = by the reasons; *mahaaguNaiH* = of high characteristics;
+*R^iSivaakyeshcha* = by the words of sages; *siddhaarthaih* = who were efficacious.
 
 **अनुवादः**
 
-"Seeing Seetha once more, relieved by her again and then reaching the Mount Arishta there
-again, I started leaping back (over the sea) with a longing to see you (all)."
+"My heart was delighted by seeing those good omens having their fruits apparent, by looking
+into the their fruits apparent, by looking into the reasons of high characteristics and by hearing the
+words of accomplished sages."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -7137,16 +7137,16 @@ again, I started leaping back (over the sea) with a longing to see you (all)."
 
 **पदच्छेदः**
 
-*162. abhavam* = I became; *hR^iSTamaanasaH* = delighted in mind;
-*taiH* = by those; *nimittaiH* = good omens; *dR^iSTaarthaih* = having their fruits
-apparent; *kaaraNashcha* = by the reasons; *mahaaguNaiH* = of high characteristics;
-*R^iSivaakyeshcha* = by the words of sages; *siddhaarthaih* = who were efficacious.
+*163. dR^iSTavaa* = seeing; *vaidehiim* = Seetha; *punaH*
+= once more; *visR^iSTaH* = relieed; *tayaa* = by her; *punaH* = again; *tataH*
+= and then; *aasaadya* = reaching; *ariSTaparvatam* = Mount Arishta; *punaH* =
+again; *tatra* = there; *aham* = I; *aarabhe* = started; *pratiplavanam*
+= leaping back; *yuSmaddarshana kaaN^kSayaa* = with a longing to see you.
 
 **अनुवादः**
 
-"My heart was delighted by seeing those good omens having their fruits apparent, by looking
-into the their fruits apparent, by looking into the reasons of high characteristics and by hearing the
-words of accomplished sages."
+"Seeing Seetha once more, relieved by her again and then reaching the Mount Arishta there
+again, I started leaping back (over the sea) with a longing to see you (all)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>
@@ -7218,6 +7218,28 @@ _________________
 
 **पदच्छेदः**
 
+*164. tataH* = then; *aakramya* = treading upon; *panthaanam*
+= the path of the sky; *pavana chandraarka siddhagandharva sevitam* = frequented by the wind;
+the moon; the sun; Siddhas the semi-divine beings and Gandharvas the celestial musicians; aham dR^iSTavaan-
+I saw; *bhavatah* = you (all); *iha* = here.
+
+**अनुवादः**
+
+"Then, treading upon the path of the sky, frequented by the wind, the moon, the sun,
+Siddhas the semi-divine beings and Gandharvas the celestial musicians, I saw you all here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+मेलागि नन्न बालवु हॊत्तिकॊण्डु उरियुत्तिद्दरू, अग्निदेवरु नन्नन्ने सुडलिल्ल, हीगिरुवाग अवनु सीतॆयन्नु हेगॆ सुडबल्लनु? ऎम्ब विश्वास उण्टायितु. आग बीसुत्तिद्द गाळियू सुमनोहरवाद गन्धवन्नु हॊरसूसुत्तिद्दितु. प्रत्यक्षवागिये काणुत्तिद्द शुभ शकुनगळिन्दलू नन्न हृदयवु प्रसन्नवायितु. अनन्तर नानु वैदेहियन्नु सन्दर्शिसि अवळिन्द बीळ्कॊण्डॆनु. ऋषिगळ वाक्यगळु ऎन्दादरू सुळ्ळागबहुदे? ॥164-166॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *165. sarvam* = all the task; *anuSThitam* = was performed; *mayaa*
 = by me; *kaaryaartham cha* = for accomplishing the purpose; *sugriivasya* = of Sugreeva;
 *prabhaaveNa* = by the power; *raaghavasya* = of Rama; *bhavaaam tejasaa chaiva*
@@ -7229,11 +7251,6 @@ _________________
 and also through your energy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-मेलागि नन्न बालवु हॊत्तिकॊण्डु उरियुत्तिद्दरू, अग्निदेवरु नन्नन्ने सुडलिल्ल, हीगिरुवाग अवनु सीतॆयन्नु हेगॆ सुडबल्लनु? ऎम्ब विश्वास उण्टायितु. आग बीसुत्तिद्द गाळियू सुमनोहरवाद गन्धवन्नु हॊरसूसुत्तिद्दितु. प्रत्यक्षवागिये काणुत्तिद्द शुभ शकुनगळिन्दलू नन्न हृदयवु प्रसन्नवायितु. अनन्तर नानु वैदेहियन्नु सन्दर्शिसि अवळिन्द बीळ्कॊण्डॆनु. ऋषिगळ वाक्यगळु ऎन्दादरू सुळ्ळागबहुदे? ॥164-166॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -7249,23 +7266,6 @@ performed; *mayaa* = by me; *tatra* = there; *yathaavat* = properly; *yat*
 
 "I have done all this properly there. Do accomplish that which remains undone in this
 task by me and complete it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*164. tataH* = then; *aakramya* = treading upon; *panthaanam*
-= the path of the sky; *pavana chandraarka siddhagandharva sevitam* = frequented by the wind;
-the moon; the sun; Siddhas the semi-divine beings and Gandharvas the celestial musicians; aham dR^iSTavaan-
-I saw; *bhavatah* = you (all); *iha* = here.
-
-**अनुवादः**
-
-"Then, treading upon the path of the sky, frequented by the wind, the moon, the sun,
-Siddhas the semi-divine beings and Gandharvas the celestial musicians, I saw you all here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga58/sundarasans58.htm)
 </details>

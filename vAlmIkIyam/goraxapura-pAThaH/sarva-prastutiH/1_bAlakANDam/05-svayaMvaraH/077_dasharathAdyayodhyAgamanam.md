@@ -464,6 +464,22 @@ _________________
 
 **पदच्छेदः**
 
+*11b-12a. tataH* = then; *nR^ipayoSitaH* = wives [womenfolk] of king; *mahaabhaagaam siitaam* = highly
+propitious, Seetha; *yashasviniim uurmilaam ca* = highly fortunate, Urmila, also; *ubhe sute ca Kushadhvaja*
+= both daughters of Kushadhvaja, also; *jagR^ihuH* = received [welcomed.]
+
+**अनुवादः**
+
+Then the womenfolk of the king welcomed the highly propitious Seetha and the highly fortunate Urmila too, along with both
+the daughters of Kushadhvaja, namely Maandavi and Shrutakiirti, with pageantry and festivity. [1-77-11b, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12b-13a. taaH sarvaaH* = they, all - brides and bridegrooms; *shobhitaaH* = shining forth; *kSaumavaasasaH*
 = in silks clad; *mangalaalaapanaiH* = with benedictory chanting [of Vedic hymns]; *homaiH* = with Ritual-fire;
 *aashu* = promptly; *devataayatanaani pratyapuujayan* = they have worshipped the gods in sanctums.
@@ -478,22 +494,6 @@ Vedic hymns and Ritual-fires, thus they shone forth like the tongues of Holy Fir
 These young couples by themselves are radiant, and they are now clad in radiant silks that glitter wavily like the tongues
 of fire, and the Ritual-fire s are already there flaring wavily, to the weave-like chanting of Vedic benedictions. With
 all these waving, flaring, glaring the couples too appeared as the humanly Ritual-fires before the wood burnt Vedic Ritual-fires.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11b-12a. tataH* = then; *nR^ipayoSitaH* = wives [womenfolk] of king; *mahaabhaagaam siitaam* = highly
-propitious, Seetha; *yashasviniim uurmilaam ca* = highly fortunate, Urmila, also; *ubhe sute ca Kushadhvaja*
-= both daughters of Kushadhvaja, also; *jagR^ihuH* = received [welcomed.]
-
-**अनुवादः**
-
-Then the womenfolk of the king welcomed the highly propitious Seetha and the highly fortunate Urmila too, along with both
-the daughters of Kushadhvaja, namely Maandavi and Shrutakiirti, with pageantry and festivity. [1-77-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
@@ -590,21 +590,6 @@ parade until their backs are broken.
 
 **पदच्छेदः**
 
-*15b, 16a. atha kasyacit kaalasya* = then, after some, time; *raghunandanaH* = Rahu's legatee; *raajaa dasharadhaH*
-= king, Dasharatha; *kaikeyiiputram* = to Kaikeyi's son; *sutam* = to [his own] son; *bharatam* =
-to Bharata; *abraviit* = spoke.
-
-**अनुवादः**
-
-Then after sometime that king Dasharatha, the legatee of Raghu-s, spoke to his and Kaikeyi's son, Bharata. [1-77-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14b, 15a. nararSabhaaH [kumaaraaH]* = best men - bridegrooms; *kR^itadaaraaH* = made [come to pass]
 marriages; *kR^itaastraaH ca* = made [accomplished,] in weaponry, also; *sadhanaaH* = with riches; *
 sasuhR^ijjanaaH* = with good hearted people [around]; *pitaram* = father; *shushruuSamaaNaaH* = assisting;
@@ -615,6 +600,21 @@ sasuhR^ijjanaaH* = with good hearted people [around]; *pitaram* = father; *shush
 And those best men among men, Rama, Lakshmana, Bharata, Shatrughna, who are by now accomplished persons in weaponry and
 whose marriages have also come to pass, occupied themselves in the welfare of kingdom while assisting their father and moving
 around with good hearted people. [1-77-14b, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15b, 16a. atha kasyacit kaalasya* = then, after some, time; *raghunandanaH* = Rahu's legatee; *raajaa dasharadhaH*
+= king, Dasharatha; *kaikeyiiputram* = to Kaikeyi's son; *sutam* = to [his own] son; *bharatam* =
+to Bharata; *abraviit* = spoke.
+
+**अनुवादः**
+
+Then after sometime that king Dasharatha, the legatee of Raghu-s, spoke to his and Kaikeyi's son, Bharata. [1-77-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>
@@ -1088,22 +1088,6 @@ its enrichment - the self-content bliss of monogamy.
 
 **पदच्छेदः**
 
-*27b, 28a. bhartaa ca* = husband Rama, even; *tasyaaH hR^idaye* = in her, heart; *dviguNam parivartate*
-= made his mark two fold [twice as good]; *hR^idayam antargatam api* = went into interior of heart [thoughts
-in heart of hearts]; *hR^idaa vyaktam aakhyaati* = clearly [both] converse by heart.
-
-**अनुवादः**
-
-Even Rama as her husband made his mark in Seetha's heart twice as good, and they both used to clearly converse about their
-thoughts in their heart of hearts, just by their hearts. [1-77-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *26b, 27a. siitaa tu* = Seetha is, on her part; *pitR^ikR^itaa daaraaH* = wife made [assented to] by father [Dasharatha]
 ; *iti* = thus [on becoming a wife]; *raamasya priyaa* = Rama's, beloved one; *guNaat* = by
 her own virtues; *ruupaguNaat ca api* = by virtue of comeliness, also, even; *priitiH* = desirableness -
@@ -1119,6 +1103,22 @@ Seetha burgeoned by virtue of Seetha's own virtues and loveliness. [1-77-26b, 27
 Here the good old saying *atiruupavatii siitaa - atimuurkhaH ca raavaNaH* 'Seetha is the greatest beauty, Ravana
 is the highest pigheaded demon...' may be remembered. He loved her for his father's voice / Had given her and approved the
 choice: / He loved her for each charm she wore / And her sweet virtues more and more. - Griffith.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27b, 28a. bhartaa ca* = husband Rama, even; *tasyaaH hR^idaye* = in her, heart; *dviguNam parivartate*
+= made his mark two fold [twice as good]; *hR^idayam antargatam api* = went into interior of heart [thoughts
+in heart of hearts]; *hR^idaa vyaktam aakhyaati* = clearly [both] converse by heart.
+
+**अनुवादः**
+
+Even Rama as her husband made his mark in Seetha's heart twice as good, and they both used to clearly converse about their
+thoughts in their heart of hearts, just by their hearts. [1-77-27b, 28a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga77/balasans77.htm)
 </details>

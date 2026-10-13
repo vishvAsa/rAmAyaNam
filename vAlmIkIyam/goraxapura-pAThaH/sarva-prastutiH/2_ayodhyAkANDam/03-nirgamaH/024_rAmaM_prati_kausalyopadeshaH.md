@@ -944,24 +944,6 @@ forest ,to the woods ''
 
 **पदच्छेदः**
 
-*21. "raajaa* = king Dasaratha; *prabhuH* = the supreme
-commander; *adya* = now; *prabhavati* = has authority; *bhavatya* = over you;
-*mamacha* = and me also ; *vayam* = we; *nahi anaathaaH* = are not indeed
-without master; *raajJNaa* = by way of king ; *lokanaathena* = lord of the earth
-dhiimataa = the wise man''.
-
-**अनुवादः**
-
-"King Dasaratha, supreme commander has authority over you and me also now. when
-king, the lord of the earth and the wise man is there , we are not indeed master-less.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *20. ramaaH* = Rama; *abraviit* = spoke ; *tathaa* =
 thus; *vachanam* = these words; *rudan* = bemoaningly; *taan* = to her;
 *rudatiim* = who was weeping; *stryaaH* = to woman; *jiivantyaaH* = who is
@@ -972,6 +954,24 @@ master.
 
 "Rama spoke thus these words bemoaningly to her, who was weeping= "as long as a
 woman is alive ,her husband is god and master to her".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. "raajaa* = king Dasaratha; *prabhuH* = the supreme
+commander; *adya* = now; *prabhavati* = has authority; *bhavatya* = over you;
+*mamacha* = and me also ; *vayam* = we; *nahi anaathaaH* = are not indeed
+without master; *raajJNaa* = by way of king ; *lokanaathena* = lord of the earth
+dhiimataa = the wise man''.
+
+**अनुवादः**
+
+"King Dasaratha, supreme commander has authority over you and me also now. when
+king, the lord of the earth and the wise man is there , we are not indeed master-less.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga24/ayodhyasans24.htm)
 </details>

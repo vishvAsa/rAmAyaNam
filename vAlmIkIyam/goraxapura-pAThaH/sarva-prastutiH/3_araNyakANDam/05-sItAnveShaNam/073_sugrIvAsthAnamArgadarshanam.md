@@ -148,23 +148,6 @@ _________________
 
 **पदच्छेदः**
 
-*5b, 6a. taan aaruhya* = them [those trees,] on shinning up; *athavaa* = or else; *
-taan balaat bhuumau paatayitvaa ca* = them, by force, onto ground, pelting down [the fruits, by
-pelting stones at them, not rain,] even; *amR^ita kalpaani* = ambrosia, similar; *phalaani*
-= fruits; *bhakSayitvaa* = on devouring; *gamiSyathaH* = move forward [pelt along.]
-
-**अनुवादः**
-
-"On shinning up those trees, or else, even on forcefully pelting those fruits down onto ground, then
-you may pelt over, devouring those ambrosial fruits... [3-73-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *2, 3, 4, 5a. raama* = oh, Rama; *yatra* = where; *pratiiciim disham aashritya*
 = west, ward, have recourse to; *manaH ramaaH* = heart, pleasing; *puSpitaaH drumaaH*
 = blossomed, trees; *jambuu* = rose-apple; *priyaala* = Priyaala; *panasaaH* =
@@ -188,6 +171,23 @@ shining forth in full blossom, that alone is an optimistic course for you. [3-73
 **टिप्पनी**
 
 The botanical terms for some of these trees are given to some of the above in the first chapter of Kishkindha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5b, 6a. taan aaruhya* = them [those trees,] on shinning up; *athavaa* = or else; *
+taan balaat bhuumau paatayitvaa ca* = them, by force, onto ground, pelting down [the fruits, by
+pelting stones at them, not rain,] even; *amR^ita kalpaani* = ambrosia, similar; *phalaani*
+= fruits; *bhakSayitvaa* = on devouring; *gamiSyathaH* = move forward [pelt along.]
+
+**अनुवादः**
+
+"On shinning up those trees, or else, even on forcefully pelting those fruits down onto ground, then
+you may pelt over, devouring those ambrosial fruits... [3-73-5b, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
@@ -235,24 +235,6 @@ _________________
 
 **पदच्छेदः**
 
-*7b, 8a. yatra* = wherein; *sarva kaala phalaa* = all, of seasons', fruits having; *
-paadapaa* = with such - trees; *madhura sravaaH* = nectar, transudes; where such trees are
-there; *tatra vane* = there, in parkland; *sarve R^itavaH* = all, seasons; *caitrarathe
-yathaa* = in Caitraratha [Kubera's grdens,] as with.
-
-**अनुवादः**
-
-"Wherein the trees fruit all-season fruits that transude nectar, why fruits alone, in that parkland
-all seasons are coeval, as they will be in Caitraratha, the celestial gardens of Kubera... [3-73-7b,
-8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *6b, 7a. kaakutstha* = oh, Kakutstha; *puSita paadapam* = with blossomy, trees; *tat
 vanam atikramya* = that, forest, [parkland,] on crossing over; *nandana pratimam tu* = Nandana
 [heavenly gardens,] a replica of, on its part; *uttaraa kuravaH iva* = northern, Kuru province,
@@ -263,6 +245,24 @@ like; *anyat* = another [parkland is there.]
 "On crossing over that parkland, oh, Kakutstha, another parkland with blossomy flowers is there, which
 replicates the heavenly Nandana gardens, and a replica of North-Kuru, an all-endowing province... [3-73-6b,
 7a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7b, 8a. yatra* = wherein; *sarva kaala phalaa* = all, of seasons', fruits having; *
+paadapaa* = with such - trees; *madhura sravaaH* = nectar, transudes; where such trees are
+there; *tatra vane* = there, in parkland; *sarve R^itavaH* = all, seasons; *caitrarathe
+yathaa* = in Caitraratha [Kubera's grdens,] as with.
+
+**अनुवादः**
+
+"Wherein the trees fruit all-season fruits that transude nectar, why fruits alone, in that parkland
+all seasons are coeval, as they will be in Caitraratha, the celestial gardens of Kubera... [3-73-7b,
+8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
@@ -510,6 +510,23 @@ its sandbanks, red and blue lotuses beautify that Pampa Lake... [3-73-11b, 12a]
 
 **पदच्छेदः**
 
+*12b-13a. raaghava* = oh, Raghava; *tatra* = there; *pampaa salila gocaraaH* =
+Pampa, water, dwelling in; *hamsaaH* = swans; *plavaaH* = cranes; *krau~NcaaH*
+= Kraunca; *kuraraaH* = fish-hawks; *caiva* = also thus; *valgu svaraa* = tunefully,
+voicing; *nikuujanti* = peeping.
+
+**अनुवादः**
+
+"There the indwellers of Pampa Lake's waters, oh, Raghava, namely the swans, cranes, Kraunca-s and fish-hawks
+will be letting out peeps in tuneful voice... [3-73-12a, 13b]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *13b, 14a. vadhasya* = of killing - about hunting; *a kovidaaH* = not, experts - artless
 to avoid hunting; *shubhaaH* = best - birds; *naraan dR^iSTvaa* = people, on seeing;
 *na udvijante* = un, flustered; *ghR^ita piNDa upamaan* = ghee, gobs, in simile; *sthuulaan
@@ -524,23 +541,6 @@ none kills them, and you may savour them because those birds will be best and bu
 **टिप्पनी**
 
 Comment: A word about Rama's vegetarianism or otherwise is incorporated at endnote.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*12b-13a. raaghava* = oh, Raghava; *tatra* = there; *pampaa salila gocaraaH* =
-Pampa, water, dwelling in; *hamsaaH* = swans; *plavaaH* = cranes; *krau~NcaaH*
-= Kraunca; *kuraraaH* = fish-hawks; *caiva* = also thus; *valgu svaraa* = tunefully,
-voicing; *nikuujanti* = peeping.
-
-**अनुवादः**
-
-"There the indwellers of Pampa Lake's waters, oh, Raghava, namely the swans, cranes, Kraunca-s and fish-hawks
-will be letting out peeps in tuneful voice... [3-73-12a, 13b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
@@ -614,29 +614,6 @@ _________________
 
 **पदच्छेदः**
 
-*16b, 18a. bhR^isham* = many [stomachful, to satiety]; *taan matsyaan* = those, fishes;
-*khaadataH* = while eating; *puSpa sancaye* = [one in the] flowers', bunches of; *padma
-gandhi* = lotus, scented; *shivam* = pellucid; *sukha shiitam* = comfortably, cool;
-*anaamayam* = without disease [uncontaminated]; *sa tadaa akliSTam* = that, that way,
-unadulterated [pristine water]; *ruupya sphaTika sannibham* = silver, crystal, in shine; *
-pampaayaaH vaari* = Pampa Lake's, water; *atha lakSmaNaH* = then, Lakshmana; *puSkara
-parNena* = with lotus, leaf; *uddhR^itya* = on lifting up; *paayayiSyati* = [to you]
-he offers.
-
-**अनुवादः**
-
-"While you eat those fishes to satiety, Lakshmana will offer you the water of Pampa Lake, which will
-be in the bunches of flowers of that lake, and which will be lotus-scented, pellucid, comfortably cool,
-shiny like silver and crystal, uncontaminated and that way pristine, by lifting it up that water with
-lotus leaf, making that leaf a stoup-like basin... [3-73-16b, 17, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14b, 15, 16a. raaghava* = oh, Raghava; *raama* = oh, Rama; *tatra pampaayaam*
 = therein, in Pampa Lake; *iSubhiH hataan* = with arrow, on skewering; *varaan* = best
 ones; *niH tvak pakSaan* = without, skin [scales,] wings [fins, descaling and de- finning];
@@ -653,6 +630,29 @@ samaayuktaH* = reverence, along with - reverentially; *tava* = to you; *samprada
 a sort of sprats, which are neither scraggy, nor with many fish-bones. Lakshmana will reverentially
 offer them to you on skewering them with arrow, and on broiling them on iron rod of arrow after descaling
 and de-finning them. [3-73-14b, 15, 16a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16b, 18a. bhR^isham* = many [stomachful, to satiety]; *taan matsyaan* = those, fishes;
+*khaadataH* = while eating; *puSpa sancaye* = [one in the] flowers', bunches of; *padma
+gandhi* = lotus, scented; *shivam* = pellucid; *sukha shiitam* = comfortably, cool;
+*anaamayam* = without disease [uncontaminated]; *sa tadaa akliSTam* = that, that way,
+unadulterated [pristine water]; *ruupya sphaTika sannibham* = silver, crystal, in shine; *
+pampaayaaH vaari* = Pampa Lake's, water; *atha lakSmaNaH* = then, Lakshmana; *puSkara
+parNena* = with lotus, leaf; *uddhR^itya* = on lifting up; *paayayiSyati* = [to you]
+he offers.
+
+**अनुवादः**
+
+"While you eat those fishes to satiety, Lakshmana will offer you the water of Pampa Lake, which will
+be in the bunches of flowers of that lake, and which will be lotus-scented, pellucid, comfortably cool,
+shiny like silver and crystal, uncontaminated and that way pristine, by lifting it up that water with
+lotus leaf, making that leaf a stoup-like basin... [3-73-16b, 17, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
@@ -1010,23 +1010,6 @@ trees: - R.T.H. Griffith
 
 **पदच्छेदः**
 
-*27. raama* = oh, Rama; *nityam dharme sthitaa* = always, in probity, stands by; *sarva
-bhuuta namaskR^itam* = for all, beings [one and all,] revered one [you, Rama]; *deva upamam*
-= god, referent; *tvaam tu dR^iSTvaa* = you, but, on seeing [on attending to]; *svarga lokam
-gamiSyati* = heaven, sphere of, she departs to.
-
-**अनुवादः**
-
-"Oh, Rama, she who always stands by probity will depart to the sphere of heaven, on attending to you,
-for you are the referent to god, and a reverent for one and all... [3-73-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *26. kaakutstha* = Oh, Kakutstha Rama; *teSaam* = those sage; *gataanaam* = who
 have already gone [passed through the pearly gates]; *paricaariNii* = their maidservant [other
 mms : saha caariNii = she who undertook ascesis with them]; *cira jiivinii* = long, lived one;
@@ -1037,6 +1020,23 @@ mms : saha caariNii = she who undertook ascesis with them]; *cira jiivinii* = lo
 
 "Oh, Rama of Kakutstha, albeit the passing of those sages through the pearly gates, their maidservant,
 a long-lived one and an anchoress, named Shabari, can be seen there, even today... [3-73-26]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27. raama* = oh, Rama; *nityam dharme sthitaa* = always, in probity, stands by; *sarva
+bhuuta namaskR^itam* = for all, beings [one and all,] revered one [you, Rama]; *deva upamam*
+= god, referent; *tvaam tu dR^iSTvaa* = you, but, on seeing [on attending to]; *svarga lokam
+gamiSyati* = heaven, sphere of, she departs to.
+
+**अनुवादः**
+
+"Oh, Rama, she who always stands by probity will depart to the sphere of heaven, on attending to you,
+for you are the referent to god, and a reverent for one and all... [3-73-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
@@ -1305,23 +1305,6 @@ _________________
 
 **पदच्छेदः**
 
-*34. viSama aacaaraH* = diabolic, deportment [one with]; *paapa karma* = devilish, in
-his comportment; *yaH tu* = who, but; *enam adhirohati* = on that, climbs; *suptam
-enam aadaaya* = while sleeping, him, on capturing; *raakSasaaH* = demons; *tatra eva*
-= there, itself; *pra haranti* = , utterly, rough him up [to death.]
-
-**अनुवादः**
-
-"But he who is diabolic in his deportment and devilish in comportment, climbs that and hopes to sleep
-soundly, demons capture him while he is in sleep, and rough him up to death, there itself... [3-73-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *33. raama* = oh, Rama; *tasya shailasya muurdhani* = its, mountain's, on heights; *
 shayaanaH puruSaH* = while sleeping, a man; *svapne yat vittam labhate* = in dream, which,
 riches, he gains; *tat* = that much [money]; *pra buddhaH* = verily, knowing [himself,
@@ -1331,6 +1314,23 @@ on waking up]; *adhigacChati* = he gains.
 
 "And should a man sleep on the heights of that mountain, and should he dream of gaining some riches
 in that sleep, he gains that much when he wakes up... [3-73-33]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*34. viSama aacaaraH* = diabolic, deportment [one with]; *paapa karma* = devilish, in
+his comportment; *yaH tu* = who, but; *enam adhirohati* = on that, climbs; *suptam
+enam aadaaya* = while sleeping, him, on capturing; *raakSasaaH* = demons; *tatra eva*
+= there, itself; *pra haranti* = , utterly, rough him up [to death.]
+
+**अनुवादः**
+
+"But he who is diabolic in his deportment and devilish in comportment, climbs that and hopes to sleep
+soundly, demons capture him while he is in sleep, and rough him up to death, there itself... [3-73-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>
@@ -1433,6 +1433,24 @@ _________________
 
 **पदच्छेदः**
 
+*36. megha varNaaH* = [black-] cloud, coloured; *tarasvinaH* = mighty ones; *parama
+dvipaaH* = massy, elephants; *sam hatya* = together, hitting [hitting head-on]; *rudhira
+dhaaraabhiH siktaa* = [dripping,] blood, streams, dampened with; *pR^ithak kiirNaa* = separately,
+dispersing; *pracaranti* = move about.
+
+**अनुवादः**
+
+"The mighty and massy dark-cloud coloured elephants will be hitting head-on, and with dripping blood
+streams on their jumbo heads and temples, they disperse and move about separately, only to come together
+for yet another round of head-to-head collision... [3-73-36]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *37, 38a. tatra* = there [at Pampa]; *vana gocaraaH* = forest, rangers [elephants];
 *te* = those [elephants]; *vi malam* = un, soiled [daintily clean]; *caaru shobhanam*
 = neatly, clear; *atyanta sukha sam sparsham* = more so, comfortable [springlike,] for touch;
@@ -1446,24 +1464,6 @@ _________________
 clear, springlike for touch, and in which all scents of flowers of that lake are included, and then
 they will be collectively re-entering the forests, for they are forest ranging elephants... [3-73-37,
 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*36. megha varNaaH* = [black-] cloud, coloured; *tarasvinaH* = mighty ones; *parama
-dvipaaH* = massy, elephants; *sam hatya* = together, hitting [hitting head-on]; *rudhira
-dhaaraabhiH siktaa* = [dripping,] blood, streams, dampened with; *pR^ithak kiirNaa* = separately,
-dispersing; *pracaranti* = move about.
-
-**अनुवादः**
-
-"The mighty and massy dark-cloud coloured elephants will be hitting head-on, and with dripping blood
-streams on their jumbo heads and temples, they disperse and move about separately, only to come together
-for yet another round of head-to-head collision... [3-73-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm)
 </details>

@@ -368,23 +368,6 @@ _________________
 
 **पदच्छेदः**
 
-*9b, 10a. sankhye* = in war; *kharaH ca nihataH* = Khara, also,
-is hewed down; *duuSaNaH ca nipaatitaH* = Duushana, also, is mowed down; *trishirasam ca
-api* = Trishira, also, even; *hatvaa* = on hacking down; *daNDakaaH* = Dandaka
-forest; *nir bhayaa* = free, from fear - of demons; *kR^itaaH* = is made.
-
-**अनुवादः**
-
-"Khara is hewed down, Duushana is mowed down, and even Trishira is hacked down,
-thereof that Dandaka forest is rendered free from the fear of demons. [3-36-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *8b, 9a. padaatinaa* = by a foot-soldier; *maanuSeNa* = by a
 human; *ugra tejasaam rakSasaam* = flaring, fieriness, demons of; *caturdasha
 sahasraaNi* = fourteen, thousand; *diiptaiH sharaiH ni hataani* = with fiery, arrows,
@@ -394,6 +377,23 @@ completely wiped out.
 
 "But that foot-soldier, that too, a human, has completely wiped out those
 fourteen-thousand demons with flaring fieriness with his fierce arrows. [3-36-8b, 9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9b, 10a. sankhye* = in war; *kharaH ca nihataH* = Khara, also,
+is hewed down; *duuSaNaH ca nipaatitaH* = Duushana, also, is mowed down; *trishirasam ca
+api* = Trishira, also, even; *hatvaa* = on hacking down; *daNDakaaH* = Dandaka
+forest; *nir bhayaa* = free, from fear - of demons; *kR^itaaH* = is made.
+
+**अनुवादः**
+
+"Khara is hewed down, Duushana is mowed down, and even Trishira is hacked down,
+thereof that Dandaka forest is rendered free from the fear of demons. [3-36-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>
@@ -496,29 +496,6 @@ _________________
 
 **पदच्छेदः**
 
-*12b, 13, 14a. yena* = by whom; *vairam vinaa* = enmity,
-without; *kevalam sattvam aashritya* = just, strength, depending upon; *karNa naasa
-apahaareNa* = ears, nose, due to stripping off; *me bhaginii viruupitaa* = my, sister,
-is disfigured; *tasya* = such a Rama's; *bhaaryaam* = wife is to be; *sura suta
-upamaam* = celestials, daughter, similar to - nymph like - nymphean Seetha; *siitaam* =
-Seetha; *vikramya* = holding sway; *janasthaanaat* = from Janasthaana;
-*aanayiSyaami* = lead her in - inveigle her; *tatra* = in that matter;
-*araNye* = in forest; *me sahaayaH bhava* = to me, as aide, you shall be.
-
-**अनुवादः**
-
-"By whom my sister is disfigured stripping off her nose and ears, that too, without
-any enmity but just depending upon his own brawn, I would like to inveigle such a man's nymphean
-wife Seetha holding sway on her in Janasthaana, and in that matter I want you to be my aide in
-Dandaka forest. [3-36-12b, 13, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11b, 12a. a shiilaH* = without, character - out of character;
 *karkashaH* = brutal; *tiikSNaH* = firestorm; *muurkhaH* = senseless;
 *lubdhaH* = selfish; *a jita indriyaH* = un, conquered, senses; *tyakta
@@ -563,6 +540,29 @@ devotee of Rama.
 In anyway, the innuendo incorporated in certain verses has given rise to diverse commentaries, but
 the unity of Ramayana is kept up, either by Shaivaites or Vaishnavaite or other sects of Hindu
 thinking.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12b, 13, 14a. yena* = by whom; *vairam vinaa* = enmity,
+without; *kevalam sattvam aashritya* = just, strength, depending upon; *karNa naasa
+apahaareNa* = ears, nose, due to stripping off; *me bhaginii viruupitaa* = my, sister,
+is disfigured; *tasya* = such a Rama's; *bhaaryaam* = wife is to be; *sura suta
+upamaam* = celestials, daughter, similar to - nymph like - nymphean Seetha; *siitaam* =
+Seetha; *vikramya* = holding sway; *janasthaanaat* = from Janasthaana;
+*aanayiSyaami* = lead her in - inveigle her; *tatra* = in that matter;
+*araNye* = in forest; *me sahaayaH bhava* = to me, as aide, you shall be.
+
+**अनुवादः**
+
+"By whom my sister is disfigured stripping off her nose and ears, that too, without
+any enmity but just depending upon his own brawn, I would like to inveigle such a man's nymphean
+wife Seetha holding sway on her in Janasthaana, and in that matter I want you to be my aide in
+Dandaka forest. [3-36-12b, 13, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyasans36.htm)
 </details>

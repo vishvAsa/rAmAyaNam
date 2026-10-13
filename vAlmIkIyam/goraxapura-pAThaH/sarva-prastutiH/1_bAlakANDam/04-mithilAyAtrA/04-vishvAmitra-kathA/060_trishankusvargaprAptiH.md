@@ -247,25 +247,6 @@ _________________
 
 **पदच्छेदः**
 
-*7, 8a. tasmaat yaj~naH pravartyataam* = Vedic-ritual be conducted as such; *ikSvaakudaayaadaH*
-= Ikshvaku's legatee [Trishanku]; *vishvaamitrasya tejasaa* = by Vishvamitra's, ritualistic
-prowess; *sashariiraH* = with body; *yathaa divam gacChet* = as to how [intending to,]
-goes [enabling to go] to heavens; *[tathaa* = like that]; *yaj~naH pravartyataam* = Vedic-ritual
-be conducted; *tataH sarve samadhitiSThata* = therefore, all, well preside over.
-
-**अनुवादः**
-
-'As such, let the Vedic-ritual be conducted intending and enabling Trishanku, the legatee of Ikshvaku,
-to go to heaven by the ritualist prowess of Vishvamitra, therefor you conduct yourselves and you all
-preside over it.' Thus, the officiators conceded among themselves. [1-60-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 5b, 6. *kushikadaayaadaH* = Sage Kushi's legatee; *paramakopanaH* = extremely furious
 one; *ayam muniH* = this, saint - Vishvamitra; *yat vacanam aaha* = which, sentence, he
 said - whatever is said by him; *etat samyak kaaryam* = all this [entirely,] exhaustively, performable
@@ -278,6 +259,25 @@ agnikalpaH* = similar to fire - Vishvamitra; *bhagavaan* = godly [reverential, a
 Whatever Vishvamitra says let it be translated entirely and exhaustively into deeds called ritual.
 This Vishvamitra is the legatee of Sage Kushi, and indeed he is a saint similar to Ritual-fire besides
 being an extremely furious person. Otherwise this awesome sage gives curse, rancorously. [1-60-5b, 6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7, 8a. tasmaat yaj~naH pravartyataam* = Vedic-ritual be conducted as such; *ikSvaakudaayaadaH*
+= Ikshvaku's legatee [Trishanku]; *vishvaamitrasya tejasaa* = by Vishvamitra's, ritualistic
+prowess; *sashariiraH* = with body; *yathaa divam gacChet* = as to how [intending to,]
+goes [enabling to go] to heavens; *[tathaa* = like that]; *yaj~naH pravartyataam* = Vedic-ritual
+be conducted; *tataH sarve samadhitiSThata* = therefore, all, well preside over.
+
+**अनुवादः**
+
+'As such, let the Vedic-ritual be conducted intending and enabling Trishanku, the legatee of Ikshvaku,
+to go to heaven by the ritualist prowess of Vishvamitra, therefor you conduct yourselves and you all
+preside over it.' Thus, the officiators conceded among themselves. [1-60-7, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>
@@ -1216,25 +1216,6 @@ _________________
 
 **पदच्छेदः**
 
-*32b, 33a. etaani jyotiimSi ca* = all these, stars, also; *kR^itaartham* = achieved
-ends; *kiirtimantam ca* = acclaimed one, also - with your tour de force; *nR^ipasattamam*
-= the best king; *svargalokagatam yathaa* = as with - someone gone to heavenly worlds;
-*anuyaasyanti* = they will follow him - circumambulate Trishanku.
-
-**अनुवादः**
-
-'According to their wont to circumambulate someone who has gone to heavenly worlds, all the stars
-will suppliantly circumambulate this best king Trishanku, who has achieved his ends and who has become
-an acclaimed one with your tour de force.' So said gods to Vishvamitra in deterring his further cloning
-of a simulative Universe. [1-60-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *30, 31, 32a. evam uktaaH* = thus, addressed - gods; *sarve suraaH* = all, gods; *
 munipungavam* = to the eminent saint; *prati uucuH* = in turn, spoke - replied; *evam bhavatu*
 = so, be it; *munishreSTha* = oh the best sage; *te bhadram* = let safeness
@@ -1253,6 +1234,25 @@ Safe you be! Let all the created objects prevail in their respective places. Tho
 stars you have created will remain in firmament, but outside the path of stelliform of Cosmic Person.
 Trishanku will also remain in the circle of stars you created, but upside-down, for Indra's indict cannot
 be annulled, and he will be gleaming like a star and similar to any celestial. [1-60-30, 31, 32a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*32b, 33a. etaani jyotiimSi ca* = all these, stars, also; *kR^itaartham* = achieved
+ends; *kiirtimantam ca* = acclaimed one, also - with your tour de force; *nR^ipasattamam*
+= the best king; *svargalokagatam yathaa* = as with - someone gone to heavenly worlds;
+*anuyaasyanti* = they will follow him - circumambulate Trishanku.
+
+**अनुवादः**
+
+'According to their wont to circumambulate someone who has gone to heavenly worlds, all the stars
+will suppliantly circumambulate this best king Trishanku, who has achieved his ends and who has become
+an acclaimed one with your tour de force.' So said gods to Vishvamitra in deterring his further cloning
+of a simulative Universe. [1-60-32b, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga60/balasans60.htm)
 </details>

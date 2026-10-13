@@ -178,15 +178,16 @@ _________________
 
 **पदच्छेदः**
 
-*4b, 5a. vaanara uttamaH* = monkey, the best; Hanumaan; *sampuujya* = on making reverent
-obeisance; *satya paraakramau viirau* = to both candid, resolutely, valorous ones; *vidhivat*
-= customarily; *kaamataH* = as desired [by Sugreeva]; *mR^idu vaakyam uvaacha* = soft,
-words, spoke.
+*3, 4a. tataH* = then; Hanuma; *vaachaa* = with a voice; *shlakSNayaa su manoj~nayaa*
+= softly, well, pleasingly; *viniita vat upaagamya raaghavau* = obedient one, like, nearing,
+Raaghava-s; *praNipatya* = on hailing them; *ababhaaSe ca tau viirau* = greeted them [not
+talking exactly,] also, to those two, valiant ones; *yathaa vat prashashamsa ca* = befittingly,
+praising, also.
 
 **अनुवादः**
 
-The best Vanara Hanuma spoke soft-wordily, as desired by Sugreeva, to those candidly resolute ones,
-on making reverent obeisance to both of them. [4-3-4b, 5a]
+Then on nearing Raghava-s that Hanuma voicing softly and well pleasingly like an obedient one, that
+best monkey befittingly hailed, greeted and praised those two valiant ones. [4-3-3, 4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
@@ -200,16 +201,15 @@ on making reverent obeisance to both of them. [4-3-4b, 5a]
 
 **पदच्छेदः**
 
-*3, 4a. tataH* = then; Hanuma; *vaachaa* = with a voice; *shlakSNayaa su manoj~nayaa*
-= softly, well, pleasingly; *viniita vat upaagamya raaghavau* = obedient one, like, nearing,
-Raaghava-s; *praNipatya* = on hailing them; *ababhaaSe ca tau viirau* = greeted them [not
-talking exactly,] also, to those two, valiant ones; *yathaa vat prashashamsa ca* = befittingly,
-praising, also.
+*4b, 5a. vaanara uttamaH* = monkey, the best; Hanumaan; *sampuujya* = on making reverent
+obeisance; *satya paraakramau viirau* = to both candid, resolutely, valorous ones; *vidhivat*
+= customarily; *kaamataH* = as desired [by Sugreeva]; *mR^idu vaakyam uvaacha* = soft,
+words, spoke.
 
 **अनुवादः**
 
-Then on nearing Raghava-s that Hanuma voicing softly and well pleasingly like an obedient one, that
-best monkey befittingly hailed, greeted and praised those two valiant ones. [4-3-3, 4a]
+The best Vanara Hanuma spoke soft-wordily, as desired by Sugreeva, to those candidly resolute ones,
+on making reverent obeisance to both of them. [4-3-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
@@ -258,6 +258,24 @@ _________________
 
 **पदच्छेदः**
 
+*5. raaja R^iSi deva pratimau* = kingly, saints, deity-like, similar to; *samshrita vratau*
+= with blest, vows; *vara vanaariNau* = ideally, complexioned ones; *taapasau* = ascetics;
+*bhavantau* = you two; *mR^iga gaNaan anyaam traasayantau* = animal, herds of, other inhabitants,
+scaring; *imam desham katham praaptau* = this, country-side, how you arrived.
+
+**अनुवादः**
+
+"You two look like kingly saints, or deities by your build, ascetics with blest vows, but with ideal
+complexions... how come you arrived at this countryside scaring the herds of animals and other inhabitants
+of this forest... [4-3-5b, 6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *7, 8. pampaa tiira ruhaan vR^ikshaan* = on Pampa, banks, grown-on, trees; *samantataH viikshamaaNau*
 = all over, watching at; *shubha jalaam* = having propitious, waters; *imaam nadiim shobhayantau*
 = this one, the river, make to shine; *tarasvinau* = mighty ones8. dhairyavantau = courageous
@@ -273,24 +291,6 @@ your presence on these banks you make this river Pampa with its propitious water
 but you with your golden hue appear as courageous ones, yet you sigh over repeatedly, you wear jute-cloths,
 yet you look mighty shouldered... who are you that distress all the beings in this forest... [4-3-7,
 8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*5. raaja R^iSi deva pratimau* = kingly, saints, deity-like, similar to; *samshrita vratau*
-= with blest, vows; *vara vanaariNau* = ideally, complexioned ones; *taapasau* = ascetics;
-*bhavantau* = you two; *mR^iga gaNaan anyaam traasayantau* = animal, herds of, other inhabitants,
-scaring; *imam desham katham praaptau* = this, country-side, how you arrived.
-
-**अनुवादः**
-
-"You two look like kingly saints, or deities by your build, ascetics with blest vows, but with ideal
-complexions... how come you arrived at this countryside scaring the herds of animals and other inhabitants
-of this forest... [4-3-5b, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>
@@ -540,22 +540,6 @@ _________________
 
 **पदच्छेदः**
 
-*15b, 16a. ubhau* = reg. you two; *aham manye* = I, deem; *imam sa saagara vanaam*
-= with, oceans, forests; *vindhya meru vi bhuushitaam* = Mt. Vindhya, Mt. Meru, adorned with;
-*kR^itsnaam pR^ithiivm rakshitum yogyau* = entire, earth, to protect, choicest one.
-
-**अनुवादः**
-
-"I deem that each of you are the choicest one to protect the earth adorned with Mt Meru and Vindhya
-range, and with all her oceans and forests... [4-3-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14b, 15a. aayataaH su vR^ittaaH baahavaH* = lengthy, spherical, too, are arms; *parighaH
 upamaH* = clubs, in similarity; *sarva bhuuSaNa bhuuSa arhaaH* = for all kinds of, ornaments,
 decor-worthy; *kim artham* = for what, reason; *na vibhuuSitaaH* = not decorated.
@@ -584,6 +568,22 @@ them. The *parighaH* in simple terms means, clubs, bludgeon, or ancient dumbbell
 present day dumbbells of gym, but the word is deciphered to be *pari gha* fully, removing, or
 fully, falling to one's lot. That is, here these shoulders are mighty to eliminate Vali and these
 hands if shook by Sugreeva in friendship, Sugreeva's miseries will be removed completely.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15b, 16a. ubhau* = reg. you two; *aham manye* = I, deem; *imam sa saagara vanaam*
+= with, oceans, forests; *vindhya meru vi bhuushitaam* = Mt. Vindhya, Mt. Meru, adorned with;
+*kR^itsnaam pR^ithiivm rakshitum yogyau* = entire, earth, to protect, choicest one.
+
+**अनुवादः**
+
+"I deem that each of you are the choicest one to protect the earth adorned with Mt Meru and Vindhya
+range, and with all her oceans and forests... [4-3-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga3/kishkindhasans3.htm)
 </details>

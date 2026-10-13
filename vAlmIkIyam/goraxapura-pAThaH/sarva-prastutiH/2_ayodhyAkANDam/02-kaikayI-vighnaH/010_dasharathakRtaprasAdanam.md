@@ -781,23 +781,6 @@ was distressed in not finding his beloved wife and enquired the people there.
 
 **पदच्छेदः**
 
-*19. tataH* = thereafter; *raajaa* = the king;
-*gR^ihagataH* = who entered the house; *paryapR^ichchata* = enquired; *yathaa
-puram* = as before; *avijJNaayakaikeyiim apaNDitaam* = about without kuching foolish
-Kaikeyi; *swaartha lipsum* = who desired to get her selfish ends.
-
-**अनुवादः**
-
-After entering the house, king Dasaratha enquired with the aid-servants there as
-before, without knowing about foolish Kaikeyi who desired to get her selfish ends.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *18. puraa* = in former times; *devii* = queen Kaikeyi; *na
 atyavartatahi* = did not transgress; *tasya taam veLaam* = such of his time;
 *raajaa* = the king; *na pravivesha cha* = did not enter also; *shuunyam* =
@@ -807,6 +790,23 @@ empty; *gR^iham* = house; *kadaachana* = at any time.
 
 In former times, Kaikeyi did not keep away herself at that kind of hour, nor the
 king enter her chambers at any time without her presence.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. tataH* = thereafter; *raajaa* = the king;
+*gR^ihagataH* = who entered the house; *paryapR^ichchata* = enquired; *yathaa
+puram* = as before; *avijJNaayakaikeyiim apaNDitaam* = about without kuching foolish
+Kaikeyi; *swaartha lipsum* = who desired to get her selfish ends.
+
+**अनुवादः**
+
+After entering the house, king Dasaratha enquired with the aid-servants there as
+before, without knowing about foolish Kaikeyi who desired to get her selfish ends.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>
@@ -1074,23 +1074,6 @@ Apsarasa, like a dropped off illusionism and like a female deer tied up in a net
 
 **पदच्छेदः**
 
-*27. kaamii* = possessed with infatuation; *abhisantrasta
-chetanaH* = having fearful mind; *parimR^ishya* = touched; *kamala patraakshhiim*
-= lotus-eyed; *vanitaam* = woman; *paaNibhyaam* = with hands; *uvaacha* =
-spoke; *idam* = these words.
-
-**अनुवादः**
-
-That Dasaratha, possessed with infatuation and having fearful mind, touched that
-lotus-eyed woman with his hands and spoke the following words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *26. mahaagajaH iva* = like great elephant; *araNye* = in a
 forest; *kareNumiva* = a female elephant; *viddhaam* = wounded; *dighena* = by
 poisoned arrow; *vane* = in the grove; *parimarsha* = (he) touched; *taam* =
@@ -1100,6 +1083,23 @@ her; *snehaat* = affectionately.
 
 That Dasaratha touched Kaikeyi affectionately, as a great elephant in a forest
 touches a female elephant which is wounded by poisoned arrow.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. kaamii* = possessed with infatuation; *abhisantrasta
+chetanaH* = having fearful mind; *parimR^ishya* = touched; *kamala patraakshhiim*
+= lotus-eyed; *vanitaam* = woman; *paaNibhyaam* = with hands; *uvaacha* =
+spoke; *idam* = these words.
+
+**अनुवादः**
+
+That Dasaratha, possessed with infatuation and having fearful mind, touched that
+lotus-eyed woman with his hands and spoke the following words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga10/ayodhyasans10.htm)
 </details>

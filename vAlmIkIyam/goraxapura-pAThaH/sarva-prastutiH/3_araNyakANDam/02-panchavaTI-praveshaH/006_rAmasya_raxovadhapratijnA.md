@@ -133,18 +133,29 @@ _________________
 **पदच्छेदः**
 
 *
- 4. munayaH*
- = sages; *
- salila aahaaraa*
- = water, as food;
- *vaayu bhakshaaH* = air, as food; *tathaa* = like that; *apare* = and some
- more; *aakaasha nilayaaH ca* = in air, standing, also; *eva tathaa* = thus, then;
- *sthandila shaayinaH* = on ground, sleeping.
+ 2. vaikhaanasaa*
+ = sages born out of the nails of Prajaapati;
+ *vaalakhilyaaH* = born from Prajaapati's hair; *sam prakshaalaa* = from His
+ feet-wash; *mariichi paaH* = rays of sun and moon, drinkers; *ashma kuTTaaH ca* =
+ by stone, pound grains, also; *bahavaH* = many of them; *patra aahaaraaH ca* =
+ leave-eaters, also; *taapasaaH* = sages.
 
 **अनुवादः**
 
-And some sages whose food is water alone, or air alone to some, like that some who
- meditate staying in sky and some who sleep on bare ground itself. [3-6-4]
+The sages called Vaikahanasa-s, [who are born out of the nails of Prajaapati, the
+ first ruler of mankind,] also Vaalakhilyaa-s, [those born from His hair,] and those from the
+ water of His feet-wash, and those that thrive on drinking rays of sun and moon alone, and those
+ that pound with stones and others who thrive on leaves alone, are those sages... [3-6-2]
+
+**टिप्पनी**
+
+The *
+ samprakshaala*
+ are kind of sages said be washing their interior
+ body with water, a yogic measure called *dhouli prakriya* , and also otherwise attributed
+ to wash their vessels after a meal, without preserving any food for the next meal, for god would
+ automatically give their daily bread. The sages called *ashma kuTTa*, are that kind of
+ sages who pound their bodies with stones, and thus they pound grain with stones.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>
@@ -181,6 +192,27 @@ Some of them use their own teeth to grid the grain they eat, and some who perfor
 **पदच्छेदः**
 
 *
+ 4. munayaH*
+ = sages; *
+ salila aahaaraa*
+ = water, as food;
+ *vaayu bhakshaaH* = air, as food; *tathaa* = like that; *apare* = and some
+ more; *aakaasha nilayaaH ca* = in air, standing, also; *eva tathaa* = thus, then;
+ *sthandila shaayinaH* = on ground, sleeping.
+
+**अनुवादः**
+
+And some sages whose food is water alone, or air alone to some, like that some who
+ meditate staying in sky and some who sleep on bare ground itself. [3-6-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
  5. tathaa*
  = thus; *
  uurthva vaasinaH*
@@ -195,38 +227,6 @@ Some of them use their own teeth to grid the grain they eat, and some who perfor
 Thus some are dwellers on high-peaked places with their senses controlled, and
  some are wearers of wet cloths, always reciting name or hymn japa and like that some who meditate
  with five kinds of fire around them. [3-6-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*
- 2. vaikhaanasaa*
- = sages born out of the nails of Prajaapati;
- *vaalakhilyaaH* = born from Prajaapati's hair; *sam prakshaalaa* = from His
- feet-wash; *mariichi paaH* = rays of sun and moon, drinkers; *ashma kuTTaaH ca* =
- by stone, pound grains, also; *bahavaH* = many of them; *patra aahaaraaH ca* =
- leave-eaters, also; *taapasaaH* = sages.
-
-**अनुवादः**
-
-The sages called Vaikahanasa-s, [who are born out of the nails of Prajaapati, the
- first ruler of mankind,] also Vaalakhilyaa-s, [those born from His hair,] and those from the
- water of His feet-wash, and those that thrive on drinking rays of sun and moon alone, and those
- that pound with stones and others who thrive on leaves alone, are those sages... [3-6-2]
-
-**टिप्पनी**
-
-The *
- samprakshaala*
- are kind of sages said be washing their interior
- body with water, a yogic measure called *dhouli prakriya* , and also otherwise attributed
- to wash their vessels after a meal, without preserving any food for the next meal, for god would
- automatically give their daily bread. The sages called *ashma kuTTa*, are that kind of
- sages who pound their bodies with stones, and thus they pound grain with stones.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga6/aranyasans6.htm)
 </details>

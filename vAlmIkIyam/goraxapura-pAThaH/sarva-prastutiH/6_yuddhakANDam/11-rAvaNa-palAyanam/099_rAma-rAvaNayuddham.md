@@ -1868,6 +1868,33 @@ _________________
 
 **पदच्छेदः**
 
+41; *42. sasarja* = (He) released; *nishitaan* = sharp;
+*sharaan* = arrows; *simhavyaaghra mukhaan cha api* = having the heads of lions and
+tigers; *kaN^kakaakamukhaanapi* = those of buzzards and crows; *gR^idhrashyena
+mukhaamshchaapi* = even of vultures and faloons; *tathaa* = and; *shR^igaala
+vadanaan* = those of jackal; *iihaamR^igamukhaashchaapi* = and wolves;
+*vyaaditaasyaan* = arrows with their months wide open; *lehaanaamshcha* = having the
+heads of venomous snakes; *paaN^chaasyaan* = with five heads; *bhayaavahaan* =
+bringing fear.
+
+**अनुवादः**
+
+He released sharp arrows, having the heads of lions and tigers, those of buzzards
+and crows, even of vultures and faloons, as well as those of jackals and wolves, arrows with their
+mouths wide open, having the heads of venomous snakes with five heads, bringing fear.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अदरिन्द सिंह, हुलि, कङ्क, चक्रवाक, हद्दु, गिडुग, गुळ्ळॆनरि, कुरिगळु, कत्तॆ, हन्दि, नायि, कोळि, मॊसळॆ मत्तु विषभरित सर्पगळन्तॆ मुखवुळ्ळ बाणगळ वृष्टि बीळ तॊडगिदवु. आ बाणगळु बायितॆरॆदु, तुटिगळन्नु सवरुत्ता ऐदु हॆडॆगळुळ्ळ भयङ्कर सर्पगळन्तॆ कण्डुबरुत्तिद्दवु. सर्पदन्तॆ बुसुगुट्टुत्ता कुपितनाद महातेजस्वी रावणनु इदन्नु हागू इतर तीक्ष्णबाणगळन्नु श्रीरामन मेलॆ प्रयोगिसिदनु.॥42-45॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 43; *44. shvasan* = hissing; *sarpaH iva* = like a serpent;
 *kruddhaH* = provoked to anger; (Ravana); *mahaatejaaH* = who was endowed with
 extraordinary energy; *maayaavii* = and conjuring tricks; *sasarja* = released;
@@ -1885,11 +1912,6 @@ donkeys, those of boars, dogs and cocks as also of alligators and venomous snake
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अदरिन्द सिंह, हुलि, कङ्क, चक्रवाक, हद्दु, गिडुग, गुळ्ळॆनरि, कुरिगळु, कत्तॆ, हन्दि, नायि, कोळि, मॊसळॆ मत्तु विषभरित सर्पगळन्तॆ मुखवुळ्ळ बाणगळ वृष्टि बीळ तॊडगिदवु. आ बाणगळु बायितॆरॆदु, तुटिगळन्नु सवरुत्ता ऐदु हॆडॆगळुळ्ळ भयङ्कर सर्पगळन्तॆ कण्डुबरुत्तिद्दवु. सर्पदन्तॆ बुसुगुट्टुत्ता कुपितनाद महातेजस्वी रावणनु इदन्नु हागू इतर तीक्ष्णबाणगळन्नु श्रीरामन मेलॆ प्रयोगिसिदनु.॥42-45॥
-</details>
-
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
 
 **पदच्छेदः**
@@ -1905,28 +1927,6 @@ fire.
 Possessed by a missile presided over by demoniac forces, that Rama endowed with a
 great strength and resembling the god of fire, released a missile presided over by the god of
 fire.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-41; *42. sasarja* = (He) released; *nishitaan* = sharp;
-*sharaan* = arrows; *simhavyaaghra mukhaan cha api* = having the heads of lions and
-tigers; *kaN^kakaakamukhaanapi* = those of buzzards and crows; *gR^idhrashyena
-mukhaamshchaapi* = even of vultures and faloons; *tathaa* = and; *shR^igaala
-vadanaan* = those of jackal; *iihaamR^igamukhaashchaapi* = and wolves;
-*vyaaditaasyaan* = arrows with their months wide open; *lehaanaamshcha* = having the
-heads of venomous snakes; *paaN^chaasyaan* = with five heads; *bhayaavahaan* =
-bringing fear.
-
-**अनुवादः**
-
-He released sharp arrows, having the heads of lions and tigers, those of buzzards
-and crows, even of vultures and faloons, as well as those of jackals and wolves, arrows with their
-mouths wide open, having the heads of venomous snakes with five heads, bringing fear.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga99/yuddhasans99.htm)
 </details>

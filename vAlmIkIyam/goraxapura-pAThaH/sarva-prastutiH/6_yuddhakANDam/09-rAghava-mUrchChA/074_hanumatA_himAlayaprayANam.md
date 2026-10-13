@@ -3519,6 +3519,24 @@ _________________
 
 **पदच्छेदः**
 
+*73. aaghraaya* = by inhaling; *tam gandham* = that fragrance;
+*mahauShadhiinaam* = of those great herbs; *ubhau* = both; *tau* = those;
+*maanuSharaajaputrau* = sons of Dasaratha; *tatra tadaa* = then and there;
+*babhuuvatuH* = became; *vishalyau* = healed of their wounds; *anye* = other;
+*haripraviiraashcha* = warriors of monkeys; *uttasthuH* = rose up.
+
+**अनुवादः**
+
+By inhaling that fragrance of those great herbs, both Rama and Lakshamana became
+healed of their wounds then and there. Other monkey-warriors rose up.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *74. gandhena* = by the fragrance; *taasaam pravarauShadhiinaam*
 = of those most powerful herbs; *sarve ye syuH* = all those; *hataaH* = dead;
 *haripraviiraaH* = monkey-warriors; *kShaNena* = momentarily; *vishalyaaH* =
@@ -3531,24 +3549,6 @@ who are asleep.
 By the fragrance of those most powerful herbs, all those monkey-warriors who were
 earlier dead were healed momentarily of their wounds, relieved of their pain, even as those who are
 asleep fully get up at the close of night.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*73. aaghraaya* = by inhaling; *tam gandham* = that fragrance;
-*mahauShadhiinaam* = of those great herbs; *ubhau* = both; *tau* = those;
-*maanuSharaajaputrau* = sons of Dasaratha; *tatra tadaa* = then and there;
-*babhuuvatuH* = became; *vishalyau* = healed of their wounds; *anye* = other;
-*haripraviiraashcha* = warriors of monkeys; *uttasthuH* = rose up.
-
-**अनुवादः**
-
-By inhaling that fragrance of those great herbs, both Rama and Lakshamana became
-healed of their wounds then and there. Other monkey-warriors rose up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm)
 </details>

@@ -1212,6 +1212,23 @@ _________________
 
 **पदच्छेदः**
 
+*25. samukSitaa* = moistened; *rudhireNa* = with blood;
+*svatanum* = on having our bodies; *vidaarya* = torn; *baaNaiH* = with arrows;
+*raama naamaaNkitaiH* = marked with the name of Rama; *vayam eSyaamaH* = we shall
+come back; *iha* = here; *yuddhaat* = from the battle.
+
+**अनुवादः**
+
+"Moistened with blood on having our bodies torn with arrows marked with the name of
+Rama engraved on them, we shall come back here from the battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *26. vaadinaH* = uttering; *iti* = that; *raaghavaH* =
 Rama; *lakSmaNeshaha* = as well as Lakshmana; *bhakSitaH* = has been devoured;
 *smaabhiH* = by us; *grahiiSyaavaH* = we shall clasp; *tava paadau* = your
@@ -1222,23 +1239,6 @@ desire.
 
 Saying "Rama as well as Lakshmana has been devoured by us", we shall clasp your
 feet. You fully grant our desire."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*25. samukSitaa* = moistened; *rudhireNa* = with blood;
-*svatanum* = on having our bodies; *vidaarya* = torn; *baaNaiH* = with arrows;
-*raama naamaaNkitaiH* = marked with the name of Rama; *vayam eSyaamaH* = we shall
-come back; *iha* = here; *yuddhaat* = from the battle.
-
-**अनुवादः**
-
-"Moistened with blood on having our bodies torn with arrows marked with the name of
-Rama engraved on them, we shall come back here from the battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>
@@ -1335,23 +1335,6 @@ _________________
 
 **पदच्छेदः**
 
-*29. tataH* = then; (present); *maalyaani* = garlands;
-*vaasaamsi* = garments; *anulepanam* = cosmetics; *viiraaNaam* = to champions;
-*bahu* = and abundant; *deyam* = gifts; *yodhebhyaH* = to (other) warriors;
-*piba* = drink; *svayam* = yourself; *muditaH* = delighted.
-
-**अनुवादः**
-
-"Then, present garlands, garments and cosmetics to champions as well as abundant
-gifts to other warriors. Drink yourself delighted."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *28. arimdama* = O annihilator of enemies!; *bhuutvaa* =
 becoming; *priitonaama* = pleased for the name-sake; *daapaya* = arrange to bestow;
 *bhR^ityaanaam* = on your servants; *bhogaamcha* = objects of enjoyment;
@@ -1362,6 +1345,23 @@ and gold.
 
 "O annihilator of enemies! Becoming pleased for the name-sake, arrange to bestow on
 your servants, objects of enjoyment, other desired objects and gold."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. tataH* = then; (present); *maalyaani* = garlands;
+*vaasaamsi* = garments; *anulepanam* = cosmetics; *viiraaNaam* = to champions;
+*bahu* = and abundant; *deyam* = gifts; *yodhebhyaH* = to (other) warriors;
+*piba* = drink; *svayam* = yourself; *muditaH* = delighted.
+
+**अनुवादः**
+
+"Then, present garlands, garments and cosmetics to champions as well as abundant
+gifts to other warriors. Drink yourself delighted."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga64/yuddhasans64.htm)
 </details>

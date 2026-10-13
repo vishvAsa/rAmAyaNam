@@ -915,23 +915,6 @@ of iron, adorned with pure gold and splendidly shining.
 
 **पदच्छेदः**
 
-*21. mahat balam* = let this large army; *tiSThatu* = stay;
-*iha* = here; *aham* = I; *gamiSyaami* = shall go; *ekaakii* = alone;
-*kshudhitaH kruddhaH* = I; angry with hunger; *bhakSayiSyaami* = shall devour;
-*taan* = those; *vaanaraan* = monkeys; *adya* = now.
-
-**अनुवादः**
-
-"Let this large army stay back here. I shall go all alone. Being angry with hunger,
-I shall devour those monkeys now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 19; *20. aadaaya* = taking hold of; *vipulam* = that large;
 *shuulam* = spike; *shatrushoNita raN^jitam* = tinted with the blood of enemies;
 *indraashanisamprakhyam* = shining like Indra's thunderbolt; *vajrapratima gauravam*
@@ -950,6 +933,23 @@ Indra's thunderbolt and equally heavy, capable of tormenting celestials, demons,
 celestial musicians, Yakshas a class of demi-gods and Nagas the celestial serpents, wreathed in
 garlands of crimson flowers with excessive splendour and emitting flames by itself naturally,
 Kumbhakarna of great brilliance spoke to Ravana the following words:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. mahat balam* = let this large army; *tiSThatu* = stay;
+*iha* = here; *aham* = I; *gamiSyaami* = shall go; *ekaakii* = alone;
+*kshudhitaH kruddhaH* = I; angry with hunger; *bhakSayiSyaami* = shall devour;
+*taan* = those; *vaanaraan* = monkeys; *adya* = now.
+
+**अनुवादः**
+
+"Let this large army stay back here. I shall go all alone. Being angry with hunger,
+I shall devour those monkeys now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>
@@ -1048,6 +1048,23 @@ spikes and hammers in hand."
 
 **पदच्छेदः**
 
+*23.vaanaraaH* = the monkeys; *mahaatmaanaH* = with their huge
+bodes; *shuuraaH* = the warriors; *suryavasaayinaH* = having a much determination;
+*dashanaiH* = with their teeth; *nayanti kSayam* = will arrange for destruction; (of
+those); *ekaakinam* = who are either alone; *pramattamvaa* = or off one's guard.
+
+**अनुवादः**
+
+"The monkeys, with their huge bodies, valiant, with a much determination and with
+their teeth, will destroy anyone who is either alone or off one's guard."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *24. tasmaat* = therefore; *parivR^itaH* = enveloped;
 *sainyaiH* = with your army; *vraja* = go; *parama durdharSaH* = as a person
 very difficult to be assaulted; *niSuudaya* = destroy; *sarvam* = the entire;
@@ -1058,23 +1075,6 @@ the demons.
 
 "Therefore, go along with your troops as a person who is very difficult to be
 assaulted. Destroy the entire enemy-side, which in inimical to our demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*23.vaanaraaH* = the monkeys; *mahaatmaanaH* = with their huge
-bodes; *shuuraaH* = the warriors; *suryavasaayinaH* = having a much determination;
-*dashanaiH* = with their teeth; *nayanti kSayam* = will arrange for destruction; (of
-those); *ekaakinam* = who are either alone; *pramattamvaa* = or off one's guard.
-
-**अनुवादः**
-
-"The monkeys, with their huge bodies, valiant, with a much determination and with
-their teeth, will destroy anyone who is either alone or off one's guard."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhasans65.htm)
 </details>

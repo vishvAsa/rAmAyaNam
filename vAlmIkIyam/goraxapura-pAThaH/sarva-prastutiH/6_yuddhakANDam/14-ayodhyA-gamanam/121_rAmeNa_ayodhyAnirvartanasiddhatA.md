@@ -472,23 +472,6 @@ you can reach Ayodhya without any trouble."
 
 **पदच्छेदः**
 
-*13. raama* = O Rama!; *architaH* = having been offered with
-reverence; *sarva kaamaiH* = all the entertainments tvam = you; *bhraatraa lakShmaNena
-saha* = along with Lakshmana your brother; *bhaaryayaa vaidehyaa saha* = and together
-with Seetha; your consort; *tataH gamiShyasi* = you may go; thereafter.
-
-**अनुवादः**
-
-"O Rama! When you have been offered with reference all the entertainments, you along
-with Lakshmana, your brother and Seetha your consort, shall then depart."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. praajJNa* = O sagacious prince!; *aham yadi anugraahyaH* =
 if I deserve to be treated with kindness; *te* = by you; smarasi yadi me gunaan- if you
 think of any virtue in me; *sauhR^idam mayi asti yadi* = if you have any affection in me;
@@ -499,6 +482,23 @@ think of any virtue in me; *sauhR^idam mayi asti yadi* = if you have any affecti
 "O sagacious prince! If I deserve to be treated with kindness by you, if you think
 of any virtue in me and if you think of any virtue in me and if you have any affection in me, stay
 here for some more time."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. raama* = O Rama!; *architaH* = having been offered with
+reverence; *sarva kaamaiH* = all the entertainments tvam = you; *bhraatraa lakShmaNena
+saha* = along with Lakshmana your brother; *bhaaryayaa vaidehyaa saha* = and together
+with Seetha; your consort; *tataH gamiShyasi* = you may go; thereafter.
+
+**अनुवादः**
+
+"O Rama! When you have been offered with reference all the entertainments, you along
+with Lakshmana, your brother and Seetha your consort, shall then depart."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga121/yuddhasans121.htm)
 </details>

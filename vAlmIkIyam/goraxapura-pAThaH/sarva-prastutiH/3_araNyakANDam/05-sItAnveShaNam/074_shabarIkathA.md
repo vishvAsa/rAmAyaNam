@@ -817,6 +817,28 @@ with the above six negativities plus four more as - *kama* lust; k*rodha* anger;
 
 **पदच्छेदः**
 
+*14. aham yaan paryacaariSam* = I, whom, I was in tendance of; *te* = those sages [disciples
+of Matanga]; *tvayi citrakuuTam praapte* = on your, Chitrakuta, arriving at; *atula prabhaiH
+vimaanaiH* = by unequalled, in refulgence, by divine aircrafts; *itaH divam aaruuDhaa* =
+from here, to welkin, lifted up.
+
+**अनुवादः**
+
+"Divine aircrafts of unequalled refulgence have lifted those disciples of Sage Matanga in whose tendance
+I was, to welkin on your arriving at Chitrakuta... [3-74-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+नीनु चित्रकूटक्कॆ आगमिसिदाग नानु सदा सेविसुत्तिद्द नन्न गुरुगळु अतुल कान्तियुक्त विमानदल्लि कुळितु इल्लिन्द दिव्यलोकक्कॆ तॆरळिदरु.॥14॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *15. dharma GYaiH* = probity, knowers of; *mahaabhaagaiH ca* = highly providential ones,
 also; *taiH maharSibhiH aham uktaa* = by those, eminent-saints, I was, told; *raamaH*
 = Rama; *te su puNyam* = your, highly, blest; *imam aashramam aagamiSyati* = to this,
@@ -839,28 +861,6 @@ student or servant by the active participation of the deliverer. The best world 
 attainable by soul-searching individuals is *kaivalya* whereas seeing that deliverer with one's
 own eyes *bhagavad avalokana*, is far beyond these worlds or states with nomenclature, and it
 is *mukti*, salvation from life cycles. Govindaraja
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-नीनु चित्रकूटक्कॆ आगमिसिदाग नानु सदा सेविसुत्तिद्द नन्न गुरुगळु अतुल कान्तियुक्त विमानदल्लि कुळितु इल्लिन्द दिव्यलोकक्कॆ तॆरळिदरु.॥14॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*14. aham yaan paryacaariSam* = I, whom, I was in tendance of; *te* = those sages [disciples
-of Matanga]; *tvayi citrakuuTam praapte* = on your, Chitrakuta, arriving at; *atula prabhaiH
-vimaanaiH* = by unequalled, in refulgence, by divine aircrafts; *itaH divam aaruuDhaa* =
-from here, to welkin, lifted up.
-
-**अनुवादः**
-
-"Divine aircrafts of unequalled refulgence have lifted those disciples of Sage Matanga in whose tendance
-I was, to welkin on your arriving at Chitrakuta... [3-74-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>
@@ -1770,25 +1770,6 @@ _________________
 
 **पदच्छेदः**
 
-*33b, 34. divyam aabharaNa samyuktaa* = angelic, ornaments, joined with [bejewelled]; *divya
-maalya anulepanaa* = angelical, with flowery tassels, cosmetics; *divya ambara dharaa* =
-angle's, wraparound, wearing; *vidyut saudaaminii yathaa* = electric [spark,] scintillations,
-as with; *tam desham viraajayantii* = that, province, scintillating; *tatra priya darshana
-babhuuva* = there, angel-like, for a sight, she became.
-
-**अनुवादः**
-
-Now she appeared as an angle bejewelled with angelic ornaments, wearing angle's wraparound and angelical
-flowery tassels, and bedaubed with suchlike cosmetics, and as with the scintillations of electric sparks
-she scintillated that province. [3-74-33b, 34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *32, 33a. iti evam uktaa* = thus, that way, said [by Rama]; *jaTilaa* = tufted hair wearing;
 *ciira* = jute-cloths; *kR^iSNa ajina* = deer, skin; *ambaraa* = having for dress;
 *anuGYaataa raameNa* = consented to, by Rama; *aatmaanam* = herself; *huta ashane hutvaa*
@@ -1800,6 +1781,25 @@ fire, similar to; *saa svargam eva jagaama* = she, to heaven, alone, went to.
 Thus that way said by Rama in consent, she who is wearing tufty-matted hair, jute-cloths, and deerskin
 as her clothing, she offered herself as an oblation into Ritual-fire, and then like a flaring fire,
 she went to heaven alone. [3-74-32, 33a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*33b, 34. divyam aabharaNa samyuktaa* = angelic, ornaments, joined with [bejewelled]; *divya
+maalya anulepanaa* = angelical, with flowery tassels, cosmetics; *divya ambara dharaa* =
+angle's, wraparound, wearing; *vidyut saudaaminii yathaa* = electric [spark,] scintillations,
+as with; *tam desham viraajayantii* = that, province, scintillating; *tatra priya darshana
+babhuuva* = there, angel-like, for a sight, she became.
+
+**अनुवादः**
+
+Now she appeared as an angle bejewelled with angelic ornaments, wearing angle's wraparound and angelical
+flowery tassels, and bedaubed with suchlike cosmetics, and as with the scintillations of electric sparks
+she scintillated that province. [3-74-33b, 34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm)
 </details>

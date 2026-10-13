@@ -303,24 +303,6 @@ making him to glow to the bedazzlement of all the worlds. And how he got that In
 
 **पदच्छेदः**
 
-*7. deva asura vi mardeSu* = in gods, demons, highly trampling down - in many combats; *vajra
-ashani kR^ita [su bahusho] vraNam* = Vajra weapon of Indra, by Thunderbolt, made, [very many,] bruises;
-*airaavata viSaaNa agraiH* = Airavata - elephant of Indra, with tusks, prongs of; *utkR^iSTa
-kiNa vakSasam* = when gored, blotched, chest.
-
-**अनुवादः**
-
-One who is severally bruised in several combats of gods and demons with the thunderbolts from the Vajra
-weapon of Indra, and one who is severally blotched on his chest when the prongs of the tusks of Airavata,
-the lordly elephant of Indra, gored his chest, at such a Ravana Shuurpanakha saw. [3-32-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *6. deva gandharva bhuutaanaam* = by gods, by gandharva-s, by [other] beings; *mahaa aatmanaam
 R^iSiiNaam ca* = by exalted, souls, sages, also; *samare a jeyam* = in war, not, conquerable
 one - Ravana; *ghoram* = catastrophic in look; he is like; *vyaatta [vi aatta] aananam antakam
@@ -332,6 +314,24 @@ An invincible one either for gods or gandharva-s, or to sages with exalted souls
 entity worth its name, whose appearance itself is catastrophic, and who is sitting identical to the
 Terminator, as though that Terminator himself is sitting with a wide gaped mouth, at such a Ravana Shuurpanakha
 saw. [3-32-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. deva asura vi mardeSu* = in gods, demons, highly trampling down - in many combats; *vajra
+ashani kR^ita [su bahusho] vraNam* = Vajra weapon of Indra, by Thunderbolt, made, [very many,] bruises;
+*airaavata viSaaNa agraiH* = Airavata - elephant of Indra, with tusks, prongs of; *utkR^iSTa
+kiNa vakSasam* = when gored, blotched, chest.
+
+**अनुवादः**
+
+One who is severally bruised in several combats of gods and demons with the thunderbolts from the Vajra
+weapon of Indra, and one who is severally blotched on his chest when the prongs of the tusks of Airavata,
+the lordly elephant of Indra, gored his chest, at such a Ravana Shuurpanakha saw. [3-32-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>
@@ -382,24 +382,6 @@ _________________
 
 **पदच्छेदः**
 
-*9. naddha vaiduurya sankaasham* = studded, vaiduurya gems [Lapis, cats-eye gems,] one gleaming
-alike; *tapta kaancana kuNDalam* = one with burnt [refined,] gold, ear-knobs; *su bhujam*
-= with robust, arms; *shukla dashanam* = with whitely, teeth; *mahaa aasyam* = wide, mouthed;
-*parvata upamam* = mountain, in simile to.
-
-**अनुवादः**
-
-Blent with the gleam of Lapis gems studded in his ornaments his glisten is alike that gem, while
-his ear-knobs are made out of refined gold, and his arms strongish, teeth whitish, mouth widish and
-he is mountainous, and Shuurpanakha saw such a Ravana. [3-32-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *8. vimshat bhujam* = having twenty, arms; *dasha griivam* = having ten, throats [faces];
 *darshaniiya paricChadam* = one with conspicuous, white parasol, [white fans etc., meaning that
 he has all regalia of Indra]; *vishaala vakSasam* = one with broad, chest; *viiram* =
@@ -416,6 +398,24 @@ with all of the kingly attributes, Shuurpanakha saw. [3-32-8]
 Ravana is said to have four legs also in *naaradiiya jaimini Ramayana: dasha aasyam viMshati bhujam bhinna
 anjana cayamopamam | paadaiH catur ati ugram taamroSTam *11 chapter, 75 verse. In Raghuvamsha in 18th
 chapter bhujamuurthoru baahulyaa dekopidhana daanuja etc., but not vividly portrayed elsewhere.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. naddha vaiduurya sankaasham* = studded, vaiduurya gems [Lapis, cats-eye gems,] one gleaming
+alike; *tapta kaancana kuNDalam* = one with burnt [refined,] gold, ear-knobs; *su bhujam*
+= with robust, arms; *shukla dashanam* = with whitely, teeth; *mahaa aasyam* = wide, mouthed;
+*parvata upamam* = mountain, in simile to.
+
+**अनुवादः**
+
+Blent with the gleam of Lapis gems studded in his ornaments his glisten is alike that gem, while
+his ear-knobs are made out of refined gold, and his arms strongish, teeth whitish, mouth widish and
+he is mountainous, and Shuurpanakha saw such a Ravana. [3-32-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga32/aranyasans32.htm)
 </details>

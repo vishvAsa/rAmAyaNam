@@ -235,23 +235,6 @@ _________________
 
 **पदच्छेदः**
 
-*6. adya* = now; *dhaarayiShyatha* = you can observe; *shara
-varSham duraasadam* = an unconquerable stream of arrows; *varSham iva* = like rain;
-*muktam* = released; *aakaashe* = in the sky; *matkaarmukotkR^iShTam* =
-discharged from my bow; *samyuge* = in the battle field.
-
-**अनुवादः**
-
-"Now, you can face an unconquerable stream of arrows, like rain, released in the
-sky, as discharged from my bow in the battle-field."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5. (Indrajit) susamrabdhaH* = very hurriedly; *uvaacha* =
 spoke; *taan vaanara shaarduulaan cha* = to those foremost of monkeys and; *evam
 saumitrim* = to this Lakshmana; *aaruuDham* = who ascended; *hanumatpR^iShTham* =
@@ -264,6 +247,23 @@ Mountain; *sa vibhiiShaNam* = and also with Vibhishana; *pashyadhvam* = you beho
 Indrajit hurriedly spoke to those foremost of monkeys and to this Lakshmana, who
 ascended Hanuma's back with a splendor of the sun shining on Mount Udaya and also with Vibhishana
 as follows: "You behold my prowess now."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. adya* = now; *dhaarayiShyatha* = you can observe; *shara
+varSham duraasadam* = an unconquerable stream of arrows; *varSham iva* = like rain;
+*muktam* = released; *aakaashe* = in the sky; *matkaarmukotkR^iShTam* =
+discharged from my bow; *samyuge* = in the battle field.
+
+**अनुवादः**
+
+"Now, you can face an unconquerable stream of arrows, like rain, released in the
+sky, as discharged from my bow in the battle-field."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
@@ -441,25 +441,6 @@ _________________
 
 **पदच्छेदः**
 
-*11. te naasti vaa* = do you not have; *smR^itiH* = that
-memory?; manye- I presume; *vyaktam* = clearly that; *yaataH* = you are on the road;
-*yamakShayam* = to the abode of Yama the lord of Death; *yat* = since;
-*upasthitaH* = you have come; *yoddhum* = to give battle; *maam* = to me;
-*kruddham* = enraged as I am; *aashiiviShasamam* = like a venomous serpent.
-
-**अनुवादः**
-
-"Do you not have that remembrance? I presume clearly that you are on the road to
-Yama the lord of Death, since you have come to give battle to me, enraged as I am, like a venomous
-serpent."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *10. puurvam* = earlier; *tadaa* = on that day; *raatri
 yuddhe* = in a nocturnal battle; *sapurassarau* = both of you along with your followers;
 *visamJNau* = were made unconscious; *sharaiH* = by my arrows;
@@ -471,6 +452,25 @@ and you have been; *shaayitau* = made to lie; *bhuumau* = on the floor.
 "Earlier on that day, in a nocturnal battle, both of you along with Sugreeva and
 other followers, were made unconscious by my arrows which were like thunderbolts and tips of
 missiles as also you were made to fall down on the floor."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. te naasti vaa* = do you not have; *smR^itiH* = that
+memory?; manye- I presume; *vyaktam* = clearly that; *yaataH* = you are on the road;
+*yamakShayam* = to the abode of Yama the lord of Death; *yat* = since;
+*upasthitaH* = you have come; *yoddhum* = to give battle; *maam* = to me;
+*kruddham* = enraged as I am; *aashiiviShasamam* = like a venomous serpent.
+
+**अनुवादः**
+
+"Do you not have that remembrance? I presume clearly that you are on the road to
+Yama the lord of Death, since you have come to give battle to me, enraged as I am, like a venomous
+serpent."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>
@@ -1009,23 +1009,6 @@ an exceedingly loud roar, spoke the following words:
 
 **पदच्छेदः**
 
-*23. lakShmaNa* = O Lakshmana!; *gomaayu samghaashcha* = let a
-number of jackals; *shyena samghaashcha* = multitude of hawks; *gR^iddhaashcha* = and
-vultures; *nipatantu* = descend; *tvaam* = upon you; *nihatam* = when struck
-down; *mayaa* = by me; *gataasum* = you are dead.
-
-**अनुवादः**
-
-"O Lakshmana! Let a number of Jackals, multitude of hawks and vultures descend upon
-you, when struck down by me, you are dead."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *22. shitadharaaH* = the sharp-edged; *jiivitaantakaraaH* = and
 deadly; *sharaaH* = arrows; *patriNaH* = with their wings;
 *matkaarmukachyutaaH* = released from my bow; *adya aadaasyaste* = will now take;
@@ -1035,6 +1018,23 @@ deadly; *sharaaH* = arrows; *patriNaH* = with their wings;
 
 "The sharp-edged and deadly arrows, with their wings, released from my bow, will now
 take your life, O Lakshmana!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. lakShmaNa* = O Lakshmana!; *gomaayu samghaashcha* = let a
+number of jackals; *shyena samghaashcha* = multitude of hawks; *gR^iddhaashcha* = and
+vultures; *nipatantu* = descend; *tvaam* = upon you; *nihatam* = when struck
+down; *mayaa* = by me; *gataasum* = you are dead.
+
+**अनुवादः**
+
+"O Lakshmana! Let a number of Jackals, multitude of hawks and vultures descend upon
+you, when struck down by me, you are dead."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga88/yuddhasans88.htm)
 </details>

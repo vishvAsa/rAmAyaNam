@@ -1324,23 +1324,6 @@ to earth and piteously spoke this without eyeing Rama [4-12-25]
 
 **पदच्छेदः**
 
-*27. Raaghava* = oh, Raghava; *taam velaam eva* = at that, time,
-only; *vaalinam na nihanmi* = Vali, I do not, kill, iti tattvataH tvayaa vaktavyam = thus,
-truly, by you, should have been told; *tataH* = then; *aham itaH na vraje* = I, to
-here, would not, have come.
-
-**अनुवादः**
-
-"You should have truly made it known at that time only, oh, Raghava, that you will
-not kill Vali, then I would not have come here, to Kishkindha. [4-12-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *26. aahvayasva iti maam uktvaa* = invite [Vali,] thus, to me, on
 saying [encouraging]; *darshayitvaa ca vikramam* = showing, also, dexterity; *vairiNaa
 ghaatayitvaa ca* = by enemy, got battered; *tvayaa idaaniim kim kR^itam* = by you, now,
@@ -1350,6 +1333,23 @@ what is, done.
 
 "Showing your dexterity you encouraged me to invite Vali for fight, but you got me
 battered by my enemy, what is this done by you." [4-12-26]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27. Raaghava* = oh, Raghava; *taam velaam eva* = at that, time,
+only; *vaalinam na nihanmi* = Vali, I do not, kill, iti tattvataH tvayaa vaktavyam = thus,
+truly, by you, should have been told; *tataH* = then; *aham itaH na vraje* = I, to
+here, would not, have come.
+
+**अनुवादः**
+
+"You should have truly made it known at that time only, oh, Raghava, that you will
+not kill Vali, then I would not have come here, to Kishkindha. [4-12-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm)
 </details>

@@ -220,16 +220,15 @@ _________________
 
 **पदच्छेदः**
 
-*5. (He was) yuktaH* = endowed; *paarthiva vyaNjanaiH* = with royal characteristics;
-*pR^ithushrii* = was highly prosperous; *paarthivarSabhaH* = excellent among kings; *vishrutaH*
-= famous; *pR^ithivyaam* = on earth; *chaturantaayaam* = with four borders; *sukhadaH* =
-gave happiness; *sukhii* = and was happy himself.
+*4. (He was) ahinsaa ratiH* = fond of harmlessness; *akSudraH* = not vulgar;
+*ghR^iNii* = compassionate; *satya paraakramaH* = truly mighty; *mukhyashcha* = eminent;
+*ikSvaaku vamshashcha* = in Ikshvaku race; *lakSmiivaan* = endowed of prosperity; *lakSmivardhanah*
+= and causing to increase prosperity.
 
 **अनुवादः**
 
-"The king Dasaratha was endowed with royal characteristics, highly prosperous, excellent among
-kings and highly prosperous, excellent among kings and famous on earth with its four borders. He was happy man
-and gave happiness to others."
+"He was keen on harmlessness. He was not vulgar. He was compassionate. He was truly mighty. He
+was an eminent king in Ikshvaku race. He was endowed with prosperity and was causing to increase prosperity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
@@ -243,15 +242,16 @@ and gave happiness to others."
 
 **पदच्छेदः**
 
-*4. (He was) ahinsaa ratiH* = fond of harmlessness; *akSudraH* = not vulgar;
-*ghR^iNii* = compassionate; *satya paraakramaH* = truly mighty; *mukhyashcha* = eminent;
-*ikSvaaku vamshashcha* = in Ikshvaku race; *lakSmiivaan* = endowed of prosperity; *lakSmivardhanah*
-= and causing to increase prosperity.
+*5. (He was) yuktaH* = endowed; *paarthiva vyaNjanaiH* = with royal characteristics;
+*pR^ithushrii* = was highly prosperous; *paarthivarSabhaH* = excellent among kings; *vishrutaH*
+= famous; *pR^ithivyaam* = on earth; *chaturantaayaam* = with four borders; *sukhadaH* =
+gave happiness; *sukhii* = and was happy himself.
 
 **अनुवादः**
 
-"He was keen on harmlessness. He was not vulgar. He was compassionate. He was truly mighty. He
-was an eminent king in Ikshvaku race. He was endowed with prosperity and was causing to increase prosperity."
+"The king Dasaratha was endowed with royal characteristics, highly prosperous, excellent among
+kings and highly prosperous, excellent among kings and famous on earth with its four borders. He was happy man
+and gave happiness to others."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
@@ -615,23 +615,6 @@ _________________
 
 **पदच्छेदः**
 
-*13. samdiSTaaH* = sent; *sugriiveNa* = by Sugreeva; *sahasrashaH* =
-thousands of; *harayaH* = monkeys; *kaamaruupiNaH* = capable of assuming any form at their will;
-*vichinvanti* = are searching; *taam deviim* = that lady; Seetha; *sarvaasu dikSu* = in all
-quarters.
-
-**अनुवादः**
-
-"As commanded and sent by Sugreeva, thousands of monkeys capable of assuming form at their will,
-are searching for that lady Seetha in all quarters of the earth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *10. tataH* = thereafter; *shrutvaa* = hearing; *jana sthaana vadham*
 = about the killing of demons in Janasthana a part of Dandaka forest; *khara duuSaNau cha* = Khara and
 Dushana the demons; *hatau* = having been killed; *jaanakii* = Seetha; *amarSaapahR^itaa*
@@ -644,6 +627,23 @@ rupeNa* = in the guise of a deer; *raaman* = Rama; *vane* = in the forest; *maay
 "Thereafter, hearing about the killing of demons in Janasthana, a part of Dandaka forest, in addition
 to killing of Khara and Dushana the demons, the enraged Ravana took away, Seetha, by deceiving Rama in creating
 an illusive image of deer in the forest."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. samdiSTaaH* = sent; *sugriiveNa* = by Sugreeva; *sahasrashaH* =
+thousands of; *harayaH* = monkeys; *kaamaruupiNaH* = capable of assuming any form at their will;
+*vichinvanti* = are searching; *taam deviim* = that lady; Seetha; *sarvaasu dikSu* = in all
+quarters.
+
+**अनुवादः**
+
+"As commanded and sent by Sugreeva, thousands of monkeys capable of assuming form at their will,
+are searching for that lady Seetha in all quarters of the earth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>
@@ -746,22 +746,6 @@ _________________
 
 **पदच्छेदः**
 
-*16. uktvaa* = speaking; *vaacham* = the words; *evam* = thus; *asau*
-= that; *vaanarapuNgavaH* = Hanuma; the excellent among the monkeys; *viraraama* = kept quiet;
-*shrutvaa* = hearing; *tat* = those words; *jaanakiicha api* = Seetha also; *aagataa*
-= got; *param* = a great; *vismayam* = surprise.
-
-**अनुवादः**
-
-Having spoken these words, Hanuma kept quiet. Hearing those words, Seetha too got a great surprise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15. iyam* = this Seetha; *asaaditaa* = has been found; *mayaa* = by
 me; *yathaa ruupaam* = according to the comeliness; *yathaa varNaam* = according to the complexion;
 *yathaa lakSmavatiimcha* = and according to the bodily marks; *saa* = the same; *aham* =
@@ -771,6 +755,22 @@ I; *taam* = that Seetha; ashrauSam- had heard; *raaghavasya* = from Rama.
 
 "This Seetha has been found by me according to the same comeliness, complexion and the bodily marks
 as I had heard from Rama."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. uktvaa* = speaking; *vaacham* = the words; *evam* = thus; *asau*
+= that; *vaanarapuNgavaH* = Hanuma; the excellent among the monkeys; *viraraama* = kept quiet;
+*shrutvaa* = hearing; *tat* = those words; *jaanakiicha api* = Seetha also; *aagataa*
+= got; *param* = a great; *vismayam* = surprise.
+
+**अनुवादः**
+
+Having spoken these words, Hanuma kept quiet. Hearing those words, Seetha too got a great surprise.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga31/sundarasans31.htm)
 </details>

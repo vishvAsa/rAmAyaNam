@@ -438,6 +438,24 @@ the dapples of lotuses' pollen. [4-50-9b, 10a]
 
 **पदच्छेदः**
 
+*10b, 11a. tataH* = then; *vaanara R^iSabhaaH* = vanara-s,
+bullish [best] ones; *sugandhi* = fragranced [cave]; *dur ati kramam* = not, to over,
+step [un-enterable anywise]; *tat bilam aasaadya* = that, cavity, on nearing; *vismaya
+vyagra manasaH* = with amaze, dismayed, at heart [disheartened with amazement];
+*babhuuvuH* = they became.
+
+**अनुवादः**
+
+When those best vanara-s have neared that fragrant and impermeable cavity they are
+disheartened with amazement. [4-50-10b, 11a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *11b, 12a. tejovantaH* = highly resplendent ones; *mahaa balaaH*
 = great-mighty ones; such as they are; *te* = those; *plavaga uttamaaH* =
 fly-jumpers, the best; *sanjaata pari shankaaH* = evoked, general, suspicion - a high
@@ -450,24 +468,6 @@ Though a suspicion in general is evoked in them, as they presumed that cavity to
 Naraka, The Hell of Yama, or Paataala, the Netherworld of Emperor Bali, those highly resplendent
 and great mighty fly-jumpers have neared it, rejoicing for the availability of water in there.
 [4-50-11b, 12a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*10b, 11a. tataH* = then; *vaanara R^iSabhaaH* = vanara-s,
-bullish [best] ones; *sugandhi* = fragranced [cave]; *dur ati kramam* = not, to over,
-step [un-enterable anywise]; *tat bilam aasaadya* = that, cavity, on nearing; *vismaya
-vyagra manasaH* = with amaze, dismayed, at heart [disheartened with amazement];
-*babhuuvuH* = they became.
-
-**अनुवादः**
-
-When those best vanara-s have neared that fragrant and impermeable cavity they are
-disheartened with amazement. [4-50-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
@@ -1197,23 +1197,6 @@ _________________
 
 **पदच्छेदः**
 
-*29b, 30a. atha* = then; *jaataruupamayaiH matsyaiH* = totally
-golden, with fishes; *mahadbhiH pankajaiH [kacChapaiH]* = with beamy, lotuses [tortoises];
-*prasanna salila aayutaaH naliniiH* = serene, waters, containing, lotus-lakes; *tatra
-dadR^ishuH* = there, they beheld;
-
-**अनुवादः**
-
-Then they beheld there the lotus-lakes containing serene waters and stocky lotuses
-and burly fishes that are golden. [4-50-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *24b, 25, 26, 27, 28, 29a. saumyaaH* = amenable - monkeys;
 *tataH* = then; *tam desham aagamya* = at that, province, on arriving; *vi timiram
 vanam* = without, shadow, woodland; *diipta vaishvaanara prabhaan* = irradiated,
@@ -1252,6 +1235,23 @@ Some mms use 'lofty trees' instead of the ' golden lotuses with broad petals'
 then it means that 'the stand of trees is surrounded by both the lotus-lakes and lofty trees...' In
 the next verse also some use the word 'tortoises' is used instead of 'lotuses.' This is said to be
 the problem with copyists.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*29b, 30a. atha* = then; *jaataruupamayaiH matsyaiH* = totally
+golden, with fishes; *mahadbhiH pankajaiH [kacChapaiH]* = with beamy, lotuses [tortoises];
+*prasanna salila aayutaaH naliniiH* = serene, waters, containing, lotus-lakes; *tatra
+dadR^ishuH* = there, they beheld;
+
+**अनुवादः**
+
+Then they beheld there the lotus-lakes containing serene waters and stocky lotuses
+and burly fishes that are golden. [4-50-29b, 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
@@ -1393,33 +1393,15 @@ _________________
 
 **पदच्छेदः**
 
-*36, 37a. mahaa arhaaNi ca* = top-graded, also; *paanaani* =
-soft-drinks; *rasavanti madhuuni ca* = luscious, honeys, also; *divyaanaam* =
-divinely; *mahaa arhaaNaam* = finest quality; *ambaraaNaam sancayaan* = clothing,
-heaps of; *citraaNaam kambalaanaam ca* = exotic ones, blankets, also; *ajinaanaam ca
-sancayaan* = deerskins, sheaves, also - they saw.
+*32b, 33a. puSpitaan phalinaH* = flowered, fruited; *pravaala maNi
+sannibhaan* = red corals, rubies, similar in shine; *vR^ikSaan* = trees; *kaancana
+bhramaraan caiva* = golden, honeybees, also, thus; *madhuuni ca* = honeys, also;
+*samantataH* = everywhere; *[dadR^ishuH* = they beheld.]
 
 **अनुवादः**
 
-They have also seen top-grade soft drinks, luscious honeys, heaps of finest quality
-clothing, exotic blankets and sheaves of deerskins. [4-50-36, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*35. divyaanaam aguruuNaam* = with heavenly, aloe vera substance;
-*candanaanaam sancayam* = sandalwood sticks, stockpiles; *shuciini abhyavahaaraaNi [abhi
-ava hR^i]* = depurated, [to throw down - swallowable victuals]; *muulaani ca phalaani
-ca* = tubers, also, fruits, also; *[dadR^ishuH te* = saw, they.]
-
-**अनुवादः**
-
-They saw the stockpiles of heavenly aloe vera substances and sandalwood sticks and
-depurated eatables, tubers and fruits. [4-50-35]
+They have also seen everywhere flowered and fruited trees that are similar in shine
+to red corals and rubies, and golden honeybees, as well as honeys. [4-50-32b, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
@@ -1443,9 +1425,44 @@ crafted with gemstones and gold, and also stacks of utensils made of gold, silve
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*35. divyaanaam aguruuNaam* = with heavenly, aloe vera substance;
+*candanaanaam sancayam* = sandalwood sticks, stockpiles; *shuciini abhyavahaaraaNi [abhi
+ava hR^i]* = depurated, [to throw down - swallowable victuals]; *muulaani ca phalaani
+ca* = tubers, also, fruits, also; *[dadR^ishuH te* = saw, they.]
+
+**अनुवादः**
+
+They saw the stockpiles of heavenly aloe vera substances and sandalwood sticks and
+depurated eatables, tubers and fruits. [4-50-35]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अल्लिय वृक्षगळु हूवु-हण्णुगळन्नु बिट्टिद्दवु. आ वृक्षगळु हवळ मणिगळन्तॆ हॊळॆयुत्तिद्दवु. अवुगळ मेलॆ बङ्गार बण्णद दुम्बिगळु हाराडुत्तिद्दवु. अल्लिय मनॆगळल्लि ऎल्लॆडॆ जेनु सञ्चितवागित्तु. मणि मत्तु सुवर्ण जटित विचित्र मञ्चगळु, आसनगळु ऎल्लॆडॆ अलङ्करिसि इट्टिद्दरु अवु अनेक प्रकारदिन्द इद्दु विशालवागिद्दवु. अल्लि राशि-राशियागि चिन्न-बॆळ्ळि-कञ्चुगळ हूवुगळ पात्रॆगळन्निट्टिद्दरु. अगरु हागू दिव्यचन्दनद राशिगळु सुरक्षितवागिद्दवु. पवित्र भोजन सामग्री हागू फल-मूलगळु सिद्धवागिद्दवु. अमूल्य वाहनगळु, सरस जेनु, बॆलॆ बाळुव दिव्यवस्त्रगळ राशिगळु, चित्रित रत्नगम्बळिगळ राशिगळु, कृष्णाजिनगळु, अल्लल्लि इट्टिद्दरु. अवॆल्लवू अग्नियन्तॆ बॆळगुत्तिद्दवु. वानररु अल्लि हॊळॆयुव सुवर्ण राशिगळन्नु नोडिदरु.॥32-37॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*36, 37a. mahaa arhaaNi ca* = top-graded, also; *paanaani* =
+soft-drinks; *rasavanti madhuuni ca* = luscious, honeys, also; *divyaanaam* =
+divinely; *mahaa arhaaNaam* = finest quality; *ambaraaNaam sancayaan* = clothing,
+heaps of; *citraaNaam kambalaanaam ca* = exotic ones, blankets, also; *ajinaanaam ca
+sancayaan* = deerskins, sheaves, also - they saw.
+
+**अनुवादः**
+
+They have also seen top-grade soft drinks, luscious honeys, heaps of finest quality
+clothing, exotic blankets and sheaves of deerskins. [4-50-36, 37a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1461,23 +1478,6 @@ glow; *shubhraan* = undefiled; *jaataruupasya sancayaan* = gold's, mounds of;
 
 Vanara-s have also observed mounds of undefiled gold stockpiled here and there
 glowing with the glow of ritual fire. [4-50-37b, 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*32b, 33a. puSpitaan phalinaH* = flowered, fruited; *pravaala maNi
-sannibhaan* = red corals, rubies, similar in shine; *vR^ikSaan* = trees; *kaancana
-bhramaraan caiva* = golden, honeybees, also, thus; *madhuuni ca* = honeys, also;
-*samantataH* = everywhere; *[dadR^ishuH* = they beheld.]
-
-**अनुवादः**
-
-They have also seen everywhere flowered and fruited trees that are similar in shine
-to red corals and rubies, and golden honeybees, as well as honeys. [4-50-32b, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>
@@ -1531,6 +1531,28 @@ _________________
 
 **पदच्छेदः**
 
+*38b, 39a. mahaa prabhaaH shuuraaH vaanaraaH* = of high, resplendence,
+valiant ones, Vanara-s; *tatra bile* = in that, cavity; *tatra tatra vicinvantaH* =
+there, there, when searching; *a duurataH* = not, far-off; *kaamcit* = someone;
+*striyam* = a lady; *dadR^ishuH* = they perceived.
+
+**अनुवादः**
+
+When searching here and there in that cavity those valiant vanara-s of high
+resplendence have perceived some lady rather not far from them. [4-50-38b, 39a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+आ गुहॆयल्लि अल्लि-इल्लि हुडुकुत्ता आ महातेजस्वी शूरवीर वानररु स्वल्प दूरदल्लि यावुदो स्त्रीयन्नु नोडिदरु. अवळु वल्कल मत्तु कृष्णाजिन तॊट्टु नियमित आहार सेविसुत्ता तपस्सिनल्लि संलग्नवागिद्दु, तन्न तेजदिन्द देदिप्यमानवागिद्दळु. वानररु अल्लि आकॆयन्नु गमनविट्टु नोडि, आश्चर्यचकितरागि निन्तु बिट्टरु. आग हनुमन्तनु आकॆयल्लि - देवि! नीनु यारु? ई गुहॆ यारद्दागिदॆ? ऎन्दु केळिदनु.॥38-40॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *39b, 40a. te tatra* = they, there; *ciira kR^iSNa ajina
 ambaraam* = jute- cloth, deer, skin, attired in; *niyata aahaaraam* = one with
 controlled, diet; *tejasaa jvalantiim iva* = by her luminescence [of asceticism,] one who is
@@ -1543,11 +1565,6 @@ controlled diet and who is like a luminiferous entity by her own luminescence of
 [4-50-38b, 39a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-आ गुहॆयल्लि अल्लि-इल्लि हुडुकुत्ता आ महातेजस्वी शूरवीर वानररु स्वल्प दूरदल्लि यावुदो स्त्रीयन्नु नोडिदरु. अवळु वल्कल मत्तु कृष्णाजिन तॊट्टु नियमित आहार सेविसुत्ता तपस्सिनल्लि संलग्नवागिद्दु, तन्न तेजदिन्द देदिप्यमानवागिद्दळु. वानररु अल्लि आकॆयन्नु गमनविट्टु नोडि, आश्चर्यचकितरागि निन्तु बिट्टरु. आग हनुमन्तनु आकॆयल्लि - देवि! नीनु यारु? ई गुहॆ यारद्दागिदॆ? ऎन्दु केळिदनु.॥38-40॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1563,23 +1580,6 @@ who, are; *bilam kasya vaa* = cavity, whose, either.
 
 In wonderment the monkeys stood still all over, and in the matter of her identity
 Hanuma asked her, "Who are you? Whose cavity is this, either? [4-50-40b, 40c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*38b, 39a. mahaa prabhaaH shuuraaH vaanaraaH* = of high, resplendence,
-valiant ones, Vanara-s; *tatra bile* = in that, cavity; *tatra tatra vicinvantaH* =
-there, there, when searching; *a duurataH* = not, far-off; *kaamcit* = someone;
-*striyam* = a lady; *dadR^ishuH* = they perceived.
-
-**अनुवादः**
-
-When searching here and there in that cavity those valiant vanara-s of high
-resplendence have perceived some lady rather not far from them. [4-50-38b, 39a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm)
 </details>

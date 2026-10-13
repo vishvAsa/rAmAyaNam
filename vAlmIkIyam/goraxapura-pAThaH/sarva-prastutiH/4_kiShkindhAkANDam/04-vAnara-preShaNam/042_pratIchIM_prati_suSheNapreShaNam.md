@@ -99,25 +99,15 @@ _________________
 
 **पदच्छेदः**
 
-*3, 4, 5a. maharSi putram maariicam* = to the great-sage's, son,
-Mareecha; *mahaa kapim* = superb, monkey; *shuuraiH kapi varaiH vR^i^itam* = with
-braving, monkeys, exceptional ones, surrounded with; *mahendra sadR^i^isha dyutim* =
-Mahendra, coequal, in resplendence; *buddhi vikrama sampannaan* = in brilliance, bravery,
-one endowed with; *vainateya sama dyutim* = Vinata's, son, equal, in sheen [outstanding
-speed]; *arciSmantam* = [one who is known as] Arcishman; *mariici putraan* = Sage
-Mareecha's sons,; *arcirmaalyaan* = [known as] Arcishmaalyaa-s; *maha balaan* =
-greatly, mighty ones; *R^iSi putraan ca* = sage's, sons, also; *taan sarvaan
-maariicaan* = them, all, [called as] Maareecha-s [brothers of Arcishman]; *pratiiciim
-disham* = to western, direction; *aadishat* = ordered.
+*1. sugriivaH* = Sugreeva; *hariin* = monkeys; *dakSiNaam
+disham prasthaapya* = to southern, direction, on sending; *tataH* = then; saH he -
+Sugreeva; *megha sankaasham* = to [massive] cloud, one who looked like; *susheSaNam naama
+vaanaram* = Sushena, named, to vanara; *abravit* = spoke to.
 
 **अनुवादः**
 
-Sugreeva ordered the superb monkey son of great-sage Mareecha, called Arcishman, to
-western direction, who is a surrounded with exceptional and braving monkeys, a coequal to Indra in
-his resplendence, endowed with brilliance and bravery and whose speed equals that of the son of
-Vinata, namely Garuda, the Eagle-vehicle of Vishnu. Along with him Sugreeva also ordered the
-greatly mighty brothers of Arcishman i.e., the other vanara sons of Sage Mareecha, known as
-Arcishmaalyaa-s, also called as Mareecha-s. [3, 4, 5a]
+On sending monkeys to southern direction Sugreeva spoke to a vanara named Sushena
+who looked like a massive cloud. [4-42-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
@@ -149,6 +139,33 @@ supplication. [4-42-2]
 
 **पदच्छेदः**
 
+*3, 4, 5a. maharSi putram maariicam* = to the great-sage's, son,
+Mareecha; *mahaa kapim* = superb, monkey; *shuuraiH kapi varaiH vR^i^itam* = with
+braving, monkeys, exceptional ones, surrounded with; *mahendra sadR^i^isha dyutim* =
+Mahendra, coequal, in resplendence; *buddhi vikrama sampannaan* = in brilliance, bravery,
+one endowed with; *vainateya sama dyutim* = Vinata's, son, equal, in sheen [outstanding
+speed]; *arciSmantam* = [one who is known as] Arcishman; *mariici putraan* = Sage
+Mareecha's sons,; *arcirmaalyaan* = [known as] Arcishmaalyaa-s; *maha balaan* =
+greatly, mighty ones; *R^iSi putraan ca* = sage's, sons, also; *taan sarvaan
+maariicaan* = them, all, [called as] Maareecha-s [brothers of Arcishman]; *pratiiciim
+disham* = to western, direction; *aadishat* = ordered.
+
+**अनुवादः**
+
+Sugreeva ordered the superb monkey son of great-sage Mareecha, called Arcishman, to
+western direction, who is a surrounded with exceptional and braving monkeys, a coequal to Indra in
+his resplendence, endowed with brilliance and bravery and whose speed equals that of the son of
+Vinata, namely Garuda, the Eagle-vehicle of Vishnu. Along with him Sugreeva also ordered the
+greatly mighty brothers of Arcishman i.e., the other vanara sons of Sage Mareecha, known as
+Arcishmaalyaa-s, also called as Mareecha-s. [3, 4, 5a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *5b, 6a. kapi sattamaaH* = oh, monkeys, outstanding ones;
 *yuuyam* = you all; *susheSaNa pramukhaa* = Sushena, in fore, front [as leader];
 *kapiinaam* = of monkeys; *dvaabhyaam shata sahasraabhyaam* = with two, hundred,
@@ -160,23 +177,6 @@ down.
 "Oh, outstanding monkeys, you shall search for Vaidehi proceeding with two hundred
 thousand monkeys, say two lakhs, and Sushena as your leader." Thus, Sugreeva started to speak to
 vanara troops. [4-42-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*1. sugriivaH* = Sugreeva; *hariin* = monkeys; *dakSiNaam
-disham prasthaapya* = to southern, direction, on sending; *tataH* = then; saH he -
-Sugreeva; *megha sankaasham* = to [massive] cloud, one who looked like; *susheSaNam naama
-vaanaram* = Sushena, named, to vanara; *abravit* = spoke to.
-
-**अनुवादः**
-
-On sending monkeys to southern direction Sugreeva spoke to a vanara named Sushena
-who looked like a massive cloud. [4-42-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
@@ -489,24 +489,6 @@ neglected.
 
 **पदच्छेदः**
 
-*16. tatra* = = there; *ramyeSu prastheSu* = on beautiful,
-mountain ridges; *pakSa gamaaH simhaaH sthitaaH* = with wings, going, lions, are there
-[flying lions]; *te* = they; *timi matsya gajaam caiva* = sharks, fish, elephants
-[elephant seals,] also thus; *niiDaani aaropayanti* = to nests [to lairs in mountains,]
-uplifts [winching.]
-
-**अनुवादः**
-
-"On the beautiful ridges of that mountain flying-lions are inhibiting and they will
-be winching sharks, fish and elephant seals to their lairs. [4-42-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *15. sindhu saagarayoH sangame* = of Sindhu, of ocean, at junction;
 *tatra* = there; *hemagiriH naama* = Hemagiri [or, Somagiri,] named; *shata
 shR^ingaH* = with hundreds of, summits; *mahaa drumaH* = with gigantic, trees;
@@ -517,6 +499,24 @@ shR^ingaH* = with hundreds of, summits; *mahaa drumaH* = with gigantic, trees;
 "At the junction of River Sindhu with the ocean, Mouth of Indus, there is a huge
 mountain named Hemagiri, Golden-Mountain, which is with hundreds of summits and gigantic trees.
 [4-42-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. tatra* = = there; *ramyeSu prastheSu* = on beautiful,
+mountain ridges; *pakSa gamaaH simhaaH sthitaaH* = with wings, going, lions, are there
+[flying lions]; *te* = they; *timi matsya gajaam caiva* = sharks, fish, elephants
+[elephant seals,] also thus; *niiDaani aaropayanti* = to nests [to lairs in mountains,]
+uplifts [winching.]
+
+**अनुवादः**
+
+"On the beautiful ridges of that mountain flying-lions are inhibiting and they will
+be winching sharks, fish and elephant seals to their lairs. [4-42-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
@@ -719,25 +719,6 @@ _________________
 
 **पदच्छेदः**
 
-*21b, 22a. samantataH* = everywhere; *samavetaaH* = thronging
-together [if offended]; *paavaka arciH pratiikaashaaH* = fire, tongues of, those that are
-reflective of - who resemble; *te* = those [Gandharva-s]; *bhiima vikramaiH
-vaanaraiH* = awfully, courageous, by vanara-s; *na* = not; *ati aasaadayitvaaH* =
-closely, to be approached [provoked.]
-
-**अनुवादः**
-
-"If those Gandharva-s who resemble the tongues of fire are given offence, they will
-be thronging together from everywhere, as such even awfully courageous vanara-s shall not provoke
-them. [4-42-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *20b, 21a. tatra* = there - on that mountain; *tarasvinaam* =
 mighty ones; *agni nikaashaanaam* = fire, similar in glow; *ghoraaNaam* = atrocious
 ones; *kaama ruupiNaam* = by wish, guise-changers; such of those; *gandharvaaNaam* =
@@ -755,6 +736,25 @@ fire and who can change their guise at their wish are living there on that mount
 The Gandharva-s said here are not the celestial musicians but human Gandharva-s
 and the Paariyaatra Mountain may perhaps belong to one in Suleiman Range, now in Pakistan, but not
 the one among Vindhya Range.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21b, 22a. samantataH* = everywhere; *samavetaaH* = thronging
+together [if offended]; *paavaka arciH pratiikaashaaH* = fire, tongues of, those that are
+reflective of - who resemble; *te* = those [Gandharva-s]; *bhiima vikramaiH
+vaanaraiH* = awfully, courageous, by vanara-s; *na* = not; *ati aasaadayitvaaH* =
+closely, to be approached [provoked.]
+
+**अनुवादः**
+
+"If those Gandharva-s who resemble the tongues of fire are given offence, they will
+be thronging together from everywhere, as such even awfully courageous vanara-s shall not provoke
+them. [4-42-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>
@@ -1545,6 +1545,24 @@ wholly golden in hue. [4-42-36, 37]
 
 **पदच्छेदः**
 
+*38. teSaam madhye* = their, in midst; *raajaa meruH uttama
+parvataH* = kingly, Meru, unique, mountain; *sthitaH* = is there; *puraa* = once
+upon a time; *shailaH* = that mountain; *prasannena aadityena* = by generous, Sun;
+*datta varaH* = accorded, boon.
+
+**अनुवादः**
+
+"There is a unique and kingly mountain in the midst of that range of golden
+mountains, which is called Mt. Meru, or Saavrni Meru, to which mountain generous Sun has once given
+a boon. [4-42-38]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *39, 40. shaila indraH* = unique, mountain - Mt. Saavarni Meru;
 *tena* = by him - by Sun; *evam uktaH* = this way, said; *tvat aashrayaaH* =
 by you, sheltered; *sarva eva* = all of the - [whatever trees, boulders, brooks,] thus;
@@ -1564,24 +1582,6 @@ transmute into golden hue, either by day or by night. Even those that reside on 
 gandharva-s, or demons, they too shall thrive as my votaries and as far as their resplendence is
 concerned they will be glittering like gold, i.e., in the ochry golden hue of the eventide.
 [4-42-39, 40]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*38. teSaam madhye* = their, in midst; *raajaa meruH uttama
-parvataH* = kingly, Meru, unique, mountain; *sthitaH* = is there; *puraa* = once
-upon a time; *shailaH* = that mountain; *prasannena aadityena* = by generous, Sun;
-*datta varaH* = accorded, boon.
-
-**अनुवादः**
-
-"There is a unique and kingly mountain in the midst of that range of golden
-mountains, which is called Mt. Meru, or Saavrni Meru, to which mountain generous Sun has once given
-a boon. [4-42-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga42/kishkindhasans42.htm)
 </details>

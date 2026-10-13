@@ -558,23 +558,6 @@ _________________
 
 **पदच्छेदः**
 
-*13. kapiH* = Hanuma; *pramamaatha* = crushed; *kaamshchit*
-= some; *urasaa* = with his chest; *aparaan* = and some others; *uurubhyaam* =
-with his thighs; *kechit* = some; *patitaaH* = fell down; *bhuvi* = on the ground;
-*tatvaiva* = there itself; *tasya minaadena* = by his roar.
-
-**अनुवादः**
-
-Hanuma crushed some with his chest and some others with his thighs. Some fell down there
-itself on the ground, just by the roar made by Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. paramtapaH* = that Hanuma; the annihilator of enemies; *abhyahanat*
 = struck; *kaamshchit* = some; *talena* = with palms; *kaamschhit* = some; *
 paadaiH* = with his feet; *kaamshchit* = and some; *muSTinaa* = with his fists;
@@ -584,6 +567,23 @@ paadaiH* = with his feet; *kaamshchit* = and some; *muSTinaa* = with his fists;
 
 That Hanuma, the annihilator of enemies, struck some with his palms, some with his feet
 and some others with his fists. He tore down some others with his nails.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. kapiH* = Hanuma; *pramamaatha* = crushed; *kaamshchit*
+= some; *urasaa* = with his chest; *aparaan* = and some others; *uurubhyaam* =
+with his thighs; *kechit* = some; *patitaaH* = fell down; *bhuvi* = on the ground;
+*tatvaiva* = there itself; *tasya minaadena* = by his roar.
+
+**अनुवादः**
+
+Hanuma crushed some with his chest and some others with his thighs. Some fell down there
+itself on the ground, just by the roar made by Hanuma.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga45/sundarasans45.htm)
 </details>

@@ -114,23 +114,6 @@ together, spoke to Bharata the following words.
 
 **पदच्छेदः**
 
-*3. mahaayashaH* = O; the highly illustrious; *raajaputra* =
-prince! Tvam = you; *bhava* = be; *raajaa* = the king; *naH* = to us;
-*adya* = now; *etat* = this; *raajyam* = kingdom; *naaparaadhnoti* =
-has not yet missed the mark; *anaayakam* = even without a king.
-
-**अनुवादः**
-
-"O, the highly illustrious prince! From now on, do you be our king. Fortunately,
-this kingdom has not yet missed the mark, even without a king."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2. dasharathaH* = Dasaratha; *yaH* = who; *gurutaraH* =
 was our very venerable; *guruH* = master; *gataH* = wnet; *svargam* = to
 heaven; *pravaajya* = after having sent away from home; *jeSTham* = his elder son;
@@ -141,6 +124,23 @@ heaven; *pravaajya* = after having sent away from home; *jeSTham* = his elder so
 
 "Dasaratha, who was our highly venerable master, went to heaven after sending his
 elder son Rama and the exceedingly strong Lakshmana to forest."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. mahaayashaH* = O; the highly illustrious; *raajaputra* =
+prince! Tvam = you; *bhava* = be; *raajaa* = the king; *naH* = to us;
+*adya* = now; *etat* = this; *raajyam* = kingdom; *naaparaadhnoti* =
+has not yet missed the mark; *anaayakam* = even without a king.
+
+**अनुवादः**
+
+"O, the highly illustrious prince! From now on, do you be our king. Fortunately,
+this kingdom has not yet missed the mark, even without a king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>
@@ -478,6 +478,23 @@ kept ready. I shall bring Rama our elder brother from the forest."
 
 **पदच्छेदः**
 
+*10. puraskR^itya* = keeping in front; *sarva* = all etat = this
+upaskR^itam = assembled; *abhiSechanikam* = requisite needed for consecration;
+*gamiSyaami* = I shall proceed; *vanam prati* = to the forest; *raama hetoH* =
+for the sake of (bringing back) Rama.
+
+**अनुवादः**
+
+"Keeping in front, all the assembled requisites needed for consecration, I shall
+proceed to the forest for the sake of bringing back Rama."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *11. abhiSichya* = consecrating; *tam* = him;
 *naravyaaghram* = the tiger among men; *tatraiva* = there itself; *aneSyaami tu
 vai* = I shall surely bring; *raamam* = Rama; *havgavaahamiva* = as bringing the
@@ -488,23 +505,6 @@ sacred fire; *adhvaraat* = from a sacrificial rite.
 "Consecrating him, the tiger among men there itself, I shall surely bring Rama
 solemnized in front, as bringing home the sacred fire from a sacrificial rite, after performing it
 outside the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*10. puraskR^itya* = keeping in front; *sarva* = all etat = this
-upaskR^itam = assembled; *abhiSechanikam* = requisite needed for consecration;
-*gamiSyaami* = I shall proceed; *vanam prati* = to the forest; *raama hetoH* =
-for the sake of (bringing back) Rama.
-
-**अनुवादः**
-
-"Keeping in front, all the assembled requisites needed for consecration, I shall
-proceed to the forest for the sake of bringing back Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga79/ayodhyasans79.htm)
 </details>

@@ -588,6 +588,24 @@ _________________
 
 **पदच्छेदः**
 
+*11. sarve parvataaH vicitaaH* = all, mountains, are searched;
+*gahanaani vanaani ca* = serried, forests, also; *nimn agaaH* = low, going [flowing,
+rivers that slope down]; *saagara antaaH ca* = ocean's, edge of [or, along the rivers that
+slope down into oceans]; *tathaa* = likewise; *sarve jana padaaH* = all, people's,
+places [inhabitations - are thoroughly searched.]
+
+**अनुवादः**
+
+"All of the mountains, all of the serried forests, all of the riversides up to the
+edge of oceans, likewise, all of the inhabitations have been searched. [4-47-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12. sarvaaH* = all; *te pari kiirtitaaH* = by you, explicitly,
 extolled; *yaaH* = which of those; *guhaaH* = caves are there; they too;
 *vicitaaH* = thoroughly searched; *lataa vitata santataaH* = climbers, entwined with,
@@ -599,24 +617,6 @@ also.
 "Those caves that were explicitly extolled by you, they are all thoroughly searched,
 and immense shrubby hutches that are thickly entwined with climber plants have also been rummaged.
 [4-47-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11. sarve parvataaH vicitaaH* = all, mountains, are searched;
-*gahanaani vanaani ca* = serried, forests, also; *nimn agaaH* = low, going [flowing,
-rivers that slope down]; *saagara antaaH ca* = ocean's, edge of [or, along the rivers that
-slope down into oceans]; *tathaa* = likewise; *sarve jana padaaH* = all, people's,
-places [inhabitations - are thoroughly searched.]
-
-**अनुवादः**
-
-"All of the mountains, all of the serried forests, all of the riversides up to the
-edge of oceans, likewise, all of the inhabitations have been searched. [4-47-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm)
 </details>

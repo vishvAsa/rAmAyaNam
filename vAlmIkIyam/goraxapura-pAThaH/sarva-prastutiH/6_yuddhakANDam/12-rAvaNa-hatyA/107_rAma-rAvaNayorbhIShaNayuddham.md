@@ -720,6 +720,28 @@ were just struck with lotus-stalks.
 
 **पदच्छेदः**
 
+*16. dR^iShTvaa* = seeing; *teShaam* = those; *vaajinaam*
+= horses; *asambhramam* = unstumbled; *raavaNaH* = Ravana; *tadaa* = then;
+*bhuuyaH* = was very much; *susamkruddhaH* = enraged; *muocha ha* = and
+released; *shara varSham* = showers of arrows.
+
+**अनुवादः**
+
+Seeing those horses unstumbled, Ravana then was very much enraged and released
+showers of arrows.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+आ कुदुरॆगळु गाबरिगॊळ्ळदिद्दाग रावणन क्रोध इम्मडिसितु. अवनु पुनः बाणगळ वर्षॆयन्नु गरॆयुत्ता, गदॆ, चक्र, परिघ, ओनकॆ, पर्वत शिखर, वृक्ष, शूल, कॊडलि हागू मयनिर्मित इतर अस्त्रगळ मळॆगरॆदनु. अवनु मनस्सिनल्लि अळुकदॆ साविरारु बाणगळन्नु प्रयोगिसिदनु.॥16-18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *17. (He also hurled) gadaashcha* = maces; *parighaamshcha* =
 iron bludgeous; *chakraaNi* = discs; *musalaani* = iron clubs;
 *girishR^iNgaaNi* = mountain-tops; *vR^iskShaaNi* = trees; *tathaa* = and;
@@ -731,11 +753,6 @@ He also hurled maces, iron bludgeons, discs, iron clubs, mountain-tops, trees,
 spikes and axes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-आ कुदुरॆगळु गाबरिगॊळ्ळदिद्दाग रावणन क्रोध इम्मडिसितु. अवनु पुनः बाणगळ वर्षॆयन्नु गरॆयुत्ता, गदॆ, चक्र, परिघ, ओनकॆ, पर्वत शिखर, वृक्ष, शूल, कॊडलि हागू मयनिर्मित इतर अस्त्रगळ मळॆगरॆदनु. अवनु मनस्सिनल्लि अळुकदॆ साविरारु बाणगळन्नु प्रयोगिसिदनु.॥16-18॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -751,23 +768,6 @@ thousands of; *baaNaan* = arrows.
 
 Unwearied as he was in his heart and in effort, Ravana then employed streams of
 missiles as a creation of magic and also thousands of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*16. dR^iShTvaa* = seeing; *teShaam* = those; *vaajinaam*
-= horses; *asambhramam* = unstumbled; *raavaNaH* = Ravana; *tadaa* = then;
-*bhuuyaH* = was very much; *susamkruddhaH* = enraged; *muocha ha* = and
-released; *shara varSham* = showers of arrows.
-
-**अनुवादः**
-
-Seeing those horses unstumbled, Ravana then was very much enraged and released
-showers of arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
@@ -994,26 +994,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. raama raavaNayoH* = while Rama and Ravana; *visR^ijatoH* =
-were discharging; *baaNaan* = the arrows; *tathaa* = thus; *mR^idhe* = in the
-battle; *na baaNaH abhavat* = no arrow was; *animittaH* = without a target; *na
-anirbhettaa* = nor one which failed to pierce its target; *na niShphalaH* = nor gone in
-vain; *abhisamhatya* = colliding; *anyonyam* = with each other; *nipetuH* =
-(they) fell; *dharaNiitale* = on the earth's surface.
-
-**अनुवादः**
-
-While Rama and Ravana were discharging the arrows thus in the battle0field, no arrow
-missed the target, no one failed to pierce the target and none had gone in vain. Colliding with
-each other, they fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *23-24.dR^iShTvaa* = seeing; *taan* = those; *taan* =
 arrows; *raavaNaH* = Ravana; *chakre nirantaram* = completely covered; *kham*
 = the sky; *svasharaiH* = with his own arrows; *bhaasvataa sharavarSheNa* = due to
@@ -1027,6 +1007,26 @@ arrows.
 Seeing those arrows, Ravana completely covered the sky with his own arrows. Due to
 that dazzling shower of arrows then employed by the two warriors, the shining sky looked like a
 second sky built with arrows.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. raama raavaNayoH* = while Rama and Ravana; *visR^ijatoH* =
+were discharging; *baaNaan* = the arrows; *tathaa* = thus; *mR^idhe* = in the
+battle; *na baaNaH abhavat* = no arrow was; *animittaH* = without a target; *na
+anirbhettaa* = nor one which failed to pierce its target; *na niShphalaH* = nor gone in
+vain; *abhisamhatya* = colliding; *anyonyam* = with each other; *nipetuH* =
+(they) fell; *dharaNiitale* = on the earth's surface.
+
+**अनुवादः**
+
+While Rama and Ravana were discharging the arrows thus in the battle0field, no arrow
+missed the target, no one failed to pierce the target and none had gone in vain. Colliding with
+each other, they fell on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>
@@ -2483,6 +2483,26 @@ _________________
 
 **पदच्छेदः**
 
+*59. na antaH chaiva* = yet no certainty; *jiivita kShaye* =
+about the death raavaNasya = of Ravana; *dR^ishgate* = could be seen; *tataH* = then;
+*viiraH* = the valiant; *raamaH* = Rama; *kausalyaanandavardhanaH* = the
+augmentor of the joy of Kausalya yuktaH = and endowed with; *bahubhiH baaNaiH* = many
+arrows; *sarva astravit* = and the knower of all missiles; *chintayaamaasa* = became
+thoughtful (said to himself as follows:)
+
+**अनुवादः**
+
+Yet, no certainty about Ravana's death could be seen. Thought equipped with many
+arrows and well-versed with all kinds of missiles, the valiant Rama, the augmentor of Kausalya's
+joy, then became thoughtful (said to himself as follows):
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *60-61. kim* = what; *tat kaaraNam* = is that reason te ime
 saayakaaH = these arrows; *yaiH* = by which maariichaH = Mareecha; *nihataH* = was
 killed; *yaiH* = by which; *kharaH* = Khara; *saduuShaNaH* = along with
@@ -2502,26 +2522,6 @@ Kroucha-forest, and Viradha in Dandaka-forest were killed, by which seven Sala t
 mountains were burst, by which Vali was killed and the ocean shaken up all these arrows which
 provided immediate succour to me in battle, have proved of little efficacy in the case of
 Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*59. na antaH chaiva* = yet no certainty; *jiivita kShaye* =
-about the death raavaNasya = of Ravana; *dR^ishgate* = could be seen; *tataH* = then;
-*viiraH* = the valiant; *raamaH* = Rama; *kausalyaanandavardhanaH* = the
-augmentor of the joy of Kausalya yuktaH = and endowed with; *bahubhiH baaNaiH* = many
-arrows; *sarva astravit* = and the knower of all missiles; *chintayaamaasa* = became
-thoughtful (said to himself as follows:)
-
-**अनुवादः**
-
-Yet, no certainty about Ravana's death could be seen. Thought equipped with many
-arrows and well-versed with all kinds of missiles, the valiant Rama, the augmentor of Kausalya's
-joy, then became thoughtful (said to himself as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhasans107.htm)
 </details>

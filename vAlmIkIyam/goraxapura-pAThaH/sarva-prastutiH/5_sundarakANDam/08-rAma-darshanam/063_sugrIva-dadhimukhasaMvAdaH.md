@@ -899,15 +899,17 @@ _________________
 
 **पदच्छेदः**
 
-*19. yatra* = where; *jaambavaan* = Jambavan; *netaa syaat*
-= is a leader; *mahaabalaH* = the mighty; *aN^gadashcha* = Angada also (is a leader);
-*hanumaamshcha* = and Hanuma; *adhiShThaataa* = is an administrator; *gatiH* =
-the progress; *tasya* = of that work; *na anyathaa* = cannot be otherwise.
+*17. yadaa* = when; *te* = those monkeys; *abhipannaaH* =
+have overpowered; *anam* = Madhuvana; (then); *karma* = the task; *saadhitam* =
+has been accomplished; *vaanaraiH* = by the monkeys; *devii* = Seetha; *dR^iShTaa*
+= was found; *na sandehaH* = there is no doubt; *na* = none; *anyena* = other;
+*hanumataa* = than Hanuma.
 
 **अनुवादः**
 
-"Where Jambavan as well as Angada are leaders and Hanuma is an administrator, the progress
-of that work cannot be as otherwise."
+"When those monkeys have overpowered Madhuvana, then it means that our task has been
+accomplished by the monkeys. Seetha was found. There is no doubt. None other than Hanuma must have seen
+Seetha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
@@ -941,17 +943,15 @@ vigour effort; and learning are well established in his life."
 
 **पदच्छेदः**
 
-*17. yadaa* = when; *te* = those monkeys; *abhipannaaH* =
-have overpowered; *anam* = Madhuvana; (then); *karma* = the task; *saadhitam* =
-has been accomplished; *vaanaraiH* = by the monkeys; *devii* = Seetha; *dR^iShTaa*
-= was found; *na sandehaH* = there is no doubt; *na* = none; *anyena* = other;
-*hanumataa* = than Hanuma.
+*19. yatra* = where; *jaambavaan* = Jambavan; *netaa syaat*
+= is a leader; *mahaabalaH* = the mighty; *aN^gadashcha* = Angada also (is a leader);
+*hanumaamshcha* = and Hanuma; *adhiShThaataa* = is an administrator; *gatiH* =
+the progress; *tasya* = of that work; *na anyathaa* = cannot be otherwise.
 
 **अनुवादः**
 
-"When those monkeys have overpowered Madhuvana, then it means that our task has been
-accomplished by the monkeys. Seetha was found. There is no doubt. None other than Hanuma must have seen
-Seetha."
+"Where Jambavan as well as Angada are leaders and Hanuma is an administrator, the progress
+of that work cannot be as otherwise."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
@@ -1092,18 +1092,15 @@ _________________
 
 **पदच्छेदः**
 
-24; *25. tataH* = then; *dharma aatmaa* = the righteous; *lakShmaNaH*
-= Lakshmana; *saha raaghavaH* = together with Rama; *prahR^iShTaH* = felt delighted;
-*shrutvaa* = hearing; *vaaNiim* = the words; *chyutaam* = coming; *sugriiva
-vadanaat* = from the mouth of Sugreeva; *karNa sukhaam* = pleasant for the ears; *raamaH*
-= Rama; *praahR^iShyata* = was rejoiced; *mahaabalaH* = the mighty lakSmaNashcha = Lakshmana
-too; *bhR^isham* = was very much; *praahR^iShyate* = rejoiced.
+*21. vaktum* = to tell; *etat artham* = this matter; *madhura
+vaak* = in sweet words; *hariH* = the monkeys; *dadhimukho naama naamnaa* = renowned
+by Dadhimukha by name; *prakhyaata vikramaH* = with a celebrated prowess; *praaptaH* =
+has come; *iha* = here.
 
 **अनुवादः**
 
-Then, the righteous Lakshmana, together with Rama, felt delighted. Hearing the words
-coming from the mouth of Sugreeva, which were pleasant for the ears, Rama was rejoiced. The mighty Lakshmana
-too was very much rejoiced.
+"To tell this matter in sweet words, the monkey renowned by Dadhimukha by name, with
+his celebrated prowess, has come here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
@@ -1111,28 +1108,6 @@ too was very much rejoiced.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎलै महाबाहुवे! लक्ष्मणा! ‘‘सीतादेवियु कण्डुबन्दिरुवळु इदु खण्डितवागि सत्यवागिदॆ.’’ इदन्नु नीनु पूर्तियागि नम्बु. अङ्गदादि वानररॆल्लरू कार्यवन्नु साधिसि बन्दु, सन्तोषदिन्द वनदल्लिद्द मधुवन्नु कुडिदुदे इदक्कॆ साक्षियागिदॆ.॥23॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*23. puruSha R^iShabha* = O Lakshmana; the foremost among men!; *vishrutaaH*
-= (if) the renowned; *vana okasaH* = monkeys; *adR^iShTvaa* = have not seen; *vaidehiim*
-= Seetha; *na dharShayeyuH* = (they) would not have abused; *vanam* = the grove; *datta
-varam* = which was granted as a boon; *divyam* = and is charming.
-
-**अनुवादः**
-
-"O Lakshmana, the foremost among men! If the renowned monkeys have not seen Seetha, they
-would not have abused the charming grove; which was granted as a boon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-आ वानरोत्तमरु सीतादेवियन्नु हुडुकलु दक्षिणदिक्किगॆ होदवरु कृतार्थरागि बन्दिरुवुदरिन्द, इतररु कण्णॆत्तियू नोडलु साध्यविल्लद आ मधुवनवन्नु अवरु भग्नगॊळिसिरुवरु. आ कपिवीररु आ वनदल्लिन फलगळन्नु, मधुवन्नु तृप्तियागि सेविसिरुवरु, अदरिन्द अदु पूर्तियागि ध्वंसवायितु. अष्टे अल्ल, अवरन्नु तडॆयलु बन्द वनपालकरन्नु, दण्डिसि, तॊडॆगळिन्द अवचिबिट्टिरुवरु. इवनु ‘दधिमुख’नॆम्ब वानर प्रमुखनु. प्रख्यातनाद पराक्रमशालि. इवनु वनभङ्ग विषयवन्नु, तन्न मृदुमधुर वचनगळिन्द ई शुभवार्तॆयन्नु तिळिसलिक्कागि इल्लिगॆ बन्दिरुवनु.॥21-22॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1153,19 +1128,44 @@ all monkeys, getting together, are drinking honey."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
 
+<details><summary>अनुवाद (कन्नड)</summary>
+
+आ वानरोत्तमरु सीतादेवियन्नु हुडुकलु दक्षिणदिक्किगॆ होदवरु कृतार्थरागि बन्दिरुवुदरिन्द, इतररु कण्णॆत्तियू नोडलु साध्यविल्लद आ मधुवनवन्नु अवरु भग्नगॊळिसिरुवरु. आ कपिवीररु आ वनदल्लिन फलगळन्नु, मधुवन्नु तृप्तियागि सेविसिरुवरु, अदरिन्द अदु पूर्तियागि ध्वंसवायितु. अष्टे अल्ल, अवरन्नु तडॆयलु बन्द वनपालकरन्नु, दण्डिसि, तॊडॆगळिन्द अवचिबिट्टिरुवरु. इवनु ‘दधिमुख’नॆम्ब वानर प्रमुखनु. प्रख्यातनाद पराक्रमशालि. इवनु वनभङ्ग विषयवन्नु, तन्न मृदुमधुर वचनगळिन्द ई शुभवार्तॆयन्नु तिळिसलिक्कागि इल्लिगॆ बन्दिरुवनु.॥21-22॥
+</details>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
 
 **पदच्छेदः**
 
-*21. vaktum* = to tell; *etat artham* = this matter; *madhura
-vaak* = in sweet words; *hariH* = the monkeys; *dadhimukho naama naamnaa* = renowned
-by Dadhimukha by name; *prakhyaata vikramaH* = with a celebrated prowess; *praaptaH* =
-has come; *iha* = here.
+*23. puruSha R^iShabha* = O Lakshmana; the foremost among men!; *vishrutaaH*
+= (if) the renowned; *vana okasaH* = monkeys; *adR^iShTvaa* = have not seen; *vaidehiim*
+= Seetha; *na dharShayeyuH* = (they) would not have abused; *vanam* = the grove; *datta
+varam* = which was granted as a boon; *divyam* = and is charming.
 
 **अनुवादः**
 
-"To tell this matter in sweet words, the monkey renowned by Dadhimukha by name, with
-his celebrated prowess, has come here."
+"O Lakshmana, the foremost among men! If the renowned monkeys have not seen Seetha, they
+would not have abused the charming grove; which was granted as a boon."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+24; *25. tataH* = then; *dharma aatmaa* = the righteous; *lakShmaNaH*
+= Lakshmana; *saha raaghavaH* = together with Rama; *prahR^iShTaH* = felt delighted;
+*shrutvaa* = hearing; *vaaNiim* = the words; *chyutaam* = coming; *sugriiva
+vadanaat* = from the mouth of Sugreeva; *karNa sukhaam* = pleasant for the ears; *raamaH*
+= Rama; *praahR^iShyata* = was rejoiced; *mahaabalaH* = the mighty lakSmaNashcha = Lakshmana
+too; *bhR^isham* = was very much; *praahR^iShyate* = rejoiced.
+
+**अनुवादः**
+
+Then, the righteous Lakshmana, together with Rama, felt delighted. Hearing the words
+coming from the mouth of Sugreeva, which were pleasant for the ears, Rama was rejoiced. The mighty Lakshmana
+too was very much rejoiced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>
@@ -1295,6 +1295,25 @@ _________________
 
 **पदच्छेदः**
 
+*27. saH aham* = I; *priitaH asmi* = am pleased; *yat* = that;
+*vanam* = Madhuvana; *bhuktam* = has been enjoyed; *taiH* = by those monkeys;
+*kR^ita karmabhiH* = who have accomplished their act; *cheShTitam* = the act (damage to
+the grove); *kR^ita karmaNaam* = done by those monkeys who have accomplished their purpose;
+*marShaNiiyam* = is fit to be forgiven; *marShitam* = and it is pardoned.
+
+**अनुवादः**
+
+"I am happy that Madhuvana has been enjoyed by those monkeys, who have accomplished their
+act. Since the act (damage to the grove) done by those monkeys, who have accomplished their purpose
+is fit to be forgiven, I pardon them.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *28. raaghavaabhyaam saha* = I; along with Rama and Lakshmana; *shiighram*
 = soon; *ichchhami* = desire; *draShTum* = to see; *taan* = those; *shaakhaa
 mR^igaan* = monkeys; *hanumat pradhaanaan* = with Hanuma as their chief; *mR^iga raaja
@@ -1307,25 +1326,6 @@ darpaan* = having the pride of a lion; *kR^ita arthaan* = and who attained their
 "I, together with Rama and Lakshmana, soon desire to see those monkeys, with Hanuma as
 their chief, who having acquired the pride of a lion and who attained his purpose; and also to hear
 about their effort in finding out Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*27. saH aham* = I; *priitaH asmi* = am pleased; *yat* = that;
-*vanam* = Madhuvana; *bhuktam* = has been enjoyed; *taiH* = by those monkeys;
-*kR^ita karmabhiH* = who have accomplished their act; *cheShTitam* = the act (damage to
-the grove); *kR^ita karmaNaam* = done by those monkeys who have accomplished their purpose;
-*marShaNiiyam* = is fit to be forgiven; *marShitam* = and it is pardoned.
-
-**अनुवादः**
-
-"I am happy that Madhuvana has been enjoyed by those monkeys, who have accomplished their
-act. Since the act (damage to the grove) done by those monkeys, who have accomplished their purpose
-is fit to be forgiven, I pardon them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga63/sundarasans63.htm)
 </details>

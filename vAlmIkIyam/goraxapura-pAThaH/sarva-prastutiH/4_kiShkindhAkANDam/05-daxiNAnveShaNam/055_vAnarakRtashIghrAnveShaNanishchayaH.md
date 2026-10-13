@@ -812,22 +812,6 @@ _________________
 
 **पदच्छेदः**
 
-*18b, 19a. sarve sugriivam nindantaH* = they all, of Sugreeva, disesteeming; *vaalinam prashansantaH
-ca* = of Vali, esteeming, also; *angadam parivaarya* = Angada, gathering around; *praayam aasitum*
-= for fast unto death, to sit down; *vyavasyan* = decided to.
-
-**अनुवादः**
-
-While disesteeming Sugreeva but esteeming Vali, all of the vanara-s have gathered around Angada deciding to sit
-down for fasting unto death in step with Angada. [4-55-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *17b, 18a. tasya tatra samvishataH* = his [Angada's,] apropos to, his becoming recumbent; *vaanara R^iSabhaaH*
 = vanara-s, [other] outstanding ones; *duHkhitaaH rudantaH* = emotionally, sobbing; *nayanebhyaH uSNam
 vaari* = from pairs of eyes, heated [seething,] verily [effusive,] water [teardrops]; *pramumucuH*
@@ -837,6 +821,22 @@ vaari* = from pairs of eyes, heated [seething,] verily [effusive,] water [teardr
 
 Apropos to Angada's recumbency on ground, the other outstanding Vanara-s snivellingly sluiced down seethingly
 effusive teardrops emotionally. [4-55-17b, 18a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18b, 19a. sarve sugriivam nindantaH* = they all, of Sugreeva, disesteeming; *vaalinam prashansantaH
+ca* = of Vali, esteeming, also; *angadam parivaarya* = Angada, gathering around; *praayam aasitum*
+= for fast unto death, to sit down; *vyavasyan* = decided to.
+
+**अनुवादः**
+
+While disesteeming Sugreeva but esteeming Vali, all of the vanara-s have gathered around Angada deciding to sit
+down for fasting unto death in step with Angada. [4-55-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga55/kishkindhasans55.htm)
 </details>

@@ -646,16 +646,15 @@ flared up suddenly and is burning all.
 
 **पदच्छेदः**
 
-*14. aarya* = O venerable brother!; *dharmaH* = virtue; *na
-shaknoti* = cannot; *traatum* = save; *tvaam* = you; *tiShthantam* = who
-are sticking; *shubhe vartmani* = to the noble path; *vijitendraiyam* = and who have
-subdued the senses; *anarthebhyaH* = from adversities; *nirarthakaH* = is
-useless.
+*13. atha* = then; *suduHkhitaH* = the very much lamenting;
+*lakShmaNaH* = Lakshmana; *pariShvajya* = having embraced; *tam asvastham
+raamam* = that ailing Rama; *uvaacha* = spoke; *vaakyam* = the following words;
+*hetvartha samyutam* = endowed with a reason and meaning.
 
 **अनुवादः**
 
-"O venerable brother! Virtue cannot save you, who are sticking to the noble path and
-who have subdued the senses, from adversities and is (hence) useless."
+Then, the highly lamenting Lakshmana, having embraced that ailing Rama in his arms,
+spoke the following meaningful words, endowed with reason:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
@@ -669,15 +668,16 @@ who have subdued the senses, from adversities and is (hence) useless."
 
 **पदच्छेदः**
 
-*13. atha* = then; *suduHkhitaH* = the very much lamenting;
-*lakShmaNaH* = Lakshmana; *pariShvajya* = having embraced; *tam asvastham
-raamam* = that ailing Rama; *uvaacha* = spoke; *vaakyam* = the following words;
-*hetvartha samyutam* = endowed with a reason and meaning.
+*14. aarya* = O venerable brother!; *dharmaH* = virtue; *na
+shaknoti* = cannot; *traatum* = save; *tvaam* = you; *tiShthantam* = who
+are sticking; *shubhe vartmani* = to the noble path; *vijitendraiyam* = and who have
+subdued the senses; *anarthebhyaH* = from adversities; *nirarthakaH* = is
+useless.
 
 **अनुवादः**
 
-Then, the highly lamenting Lakshmana, having embraced that ailing Rama in his arms,
-spoke the following meaningful words, endowed with reason:
+"O venerable brother! Virtue cannot save you, who are sticking to the noble path and
+who have subdued the senses, from adversities and is (hence) useless."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
@@ -1229,15 +1229,17 @@ grief of Rama and spur him on to action.
 
 **पदच्छेदः**
 
-*27. vartasva* = depend on; *bale* = might; *yathaa
-tathaa* = as you do (now); *dharma* = on virtue; *dharmam yadi* = if the virtue;
-*guNabhuutaH chet* = is subordinate; *balasya* = to might; *utsR^ijya* =
-giving up; *dharmam paraakrame* = predominance of virtue.
+*26. athavaa* = or else; *dharmaH* = (if) righteousness;
+*durbalaH* = becomes weak; *kliibah* = and cowardly; *anuvartate* = as it
+surrender; *balam* = to the might; *me matiH* = it is my opinion; (that the
+righteousness); *durbalaH* = which lacks strength; *hR^ita maryaadaH* = and has been
+deprived of its capacity; *na sevyaH iti* = should no longer be pursued.
 
 **अनुवादः**
 
-"Depend on might, as you do now on virtue, if the virtue is subordinate to might,
-thus giving up predominance of virtue."
+"Or else, if righteousness becomes weak and cowardly, as it surrenders to the might,
+it is my opinion that the righteousness, which lacks strength and has been deprived of its
+capacity, should no longer be pursued."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>
@@ -1251,17 +1253,15 @@ thus giving up predominance of virtue."
 
 **पदच्छेदः**
 
-*26. athavaa* = or else; *dharmaH* = (if) righteousness;
-*durbalaH* = becomes weak; *kliibah* = and cowardly; *anuvartate* = as it
-surrender; *balam* = to the might; *me matiH* = it is my opinion; (that the
-righteousness); *durbalaH* = which lacks strength; *hR^ita maryaadaH* = and has been
-deprived of its capacity; *na sevyaH iti* = should no longer be pursued.
+*27. vartasva* = depend on; *bale* = might; *yathaa
+tathaa* = as you do (now); *dharma* = on virtue; *dharmam yadi* = if the virtue;
+*guNabhuutaH chet* = is subordinate; *balasya* = to might; *utsR^ijya* =
+giving up; *dharmam paraakrame* = predominance of virtue.
 
 **अनुवादः**
 
-"Or else, if righteousness becomes weak and cowardly, as it surrenders to the might,
-it is my opinion that the righteousness, which lacks strength and has been deprived of its
-capacity, should no longer be pursued."
+"Depend on might, as you do now on virtue, if the virtue is subordinate to might,
+thus giving up predominance of virtue."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga83/yuddhasans83.htm)
 </details>

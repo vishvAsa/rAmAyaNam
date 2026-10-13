@@ -1859,24 +1859,6 @@ whole of that discourse and affectionately spoke to Rama as follows:
 
 **पदच्छेदः**
 
-*39. katham hi* = "How indeed; *aham pratiyaasyaami* = can I
-return; *tvadvihiinaH* = without you ; *taam* = to that; *puriim* = city;
-*tava viyogena taavat* = which through separation from you; *putra shokaakulaamiva* =
-has been reduced to the state of a mother stricken with grief due to separation from her son."
-
-**अनुवादः**
-
-"How indeed can I return without you to that city, which through separation from
-you, has been reduced to the state of a mother stricken with grief due to separation from her
-son"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *38. yat vaakyam* = which mode of expression; *aham* = I;
 *bruuyaam* = am speaking; *snehaat* = friendship; *aviklabaH* = fearlessly;
 *nopachaareNa* = and without courtesy; *tat* = that; *tvaam* = you;
@@ -1887,6 +1869,24 @@ son"
 
 "If I spoke to you fearlessly in a friendly tone without following courteousness,
 you ought to forgive my mode of expression, considering me as your devotee"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*39. katham hi* = "How indeed; *aham pratiyaasyaami* = can I
+return; *tvadvihiinaH* = without you ; *taam* = to that; *puriim* = city;
+*tava viyogena taavat* = which through separation from you; *putra shokaakulaamiva* =
+has been reduced to the state of a mother stricken with grief due to separation from her son."
+
+**अनुवादः**
+
+"How indeed can I return without you to that city, which through separation from
+you, has been reduced to the state of a mother stricken with grief due to separation from her
+son"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
@@ -2188,23 +2188,6 @@ hundred-fold, when they see me with an empty chariot."
 
 **पदच्छेदः**
 
-*46. aham* = �I; *naiva bruuyaam* = cannot tell;
-*iidR^isham* = such; *vachanamapi* = words too; *asatyam* = which are untrue.
-Katham = How; *aham* = can I; *bruuyam* = tell; *idam vachaH* = whish are
-true; *apriyam* = (but) unkind?"
-
-**अनुवादः**
-
-"I cannot tell such words too which are untrue. How can I tell, �I abandoned your
-son in the forest', which words are true but unkind?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *45. aham vakshhyaami kimchaapi* = "what shall I say further? Deviim =
 To Kausalya; *iti* = that; *asou* = this; *sutaaH* = your son; *niitaH*
 = has been taken; *mayaa* = by me; *maatula kulam* = to the house of his maternal
@@ -2214,6 +2197,23 @@ uncle; *maa kR^ithaaH* = do not; *santaapam* = grieve."
 
 "Further, shall I say to the queen Kausalya as follows: - �Your son, Rama has been
 taken by me to the house of his maternal uncle, do not grieve'."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*46. aham* = �I; *naiva bruuyaam* = cannot tell;
+*iidR^isham* = such; *vachanamapi* = words too; *asatyam* = which are untrue.
+Katham = How; *aham* = can I; *bruuyam* = tell; *idam vachaH* = whish are
+true; *apriyam* = (but) unkind?"
+
+**अनुवादः**
+
+"I cannot tell such words too which are untrue. How can I tell, �I abandoned your
+son in the forest', which words are true but unkind?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
@@ -3234,24 +3234,6 @@ _________________
 
 **पदच्छेदः**
 
-*68. guhaH* = Guha;kshhipram = immediately; *upaaharat* =
-brought; *tat* = that; *kshhiiram* = milk-like exudation (latex); *raaja
-putraaya* = to the prince. Tena = with that; *raamaH* = Rama; *aakarot* = made;
-*jaTaaH* = matted hair; *aatmanashchaiva* = to himself; *lakshhmaNasya* = and
-to Lakshmana.
-
-**अनुवादः**
-
-Guha immediately brought that latex to the prince. With that, Rama made matted hair
-to himself and to Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *67. saH aham* = "I as such; *hita kaamaH* = wishing well of;
 *pituH* = my farther; *bhunyaH* = and; *siitaayaaH* = of Sita;
 *lakshhmaNasyacha* = and of Lakshmana; *gR^ihiitvaa* = having taken up;
@@ -3265,6 +3247,24 @@ banyan tree."
 "I as such, wishing well of my father, Sita as well as Lakshmana and having taken up
 a discipline to be followed by ascetics, want to proceed further, wearing matted hair. Please bring
 the latex of a banyan tree."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*68. guhaH* = Guha;kshhipram = immediately; *upaaharat* =
+brought; *tat* = that; *kshhiiram* = milk-like exudation (latex); *raaja
+putraaya* = to the prince. Tena = with that; *raamaH* = Rama; *aakarot* = made;
+*jaTaaH* = matted hair; *aatmanashchaiva* = to himself; *lakshhmaNasya* = and
+to Lakshmana.
+
+**अनुवादः**
+
+Guha immediately brought that latex to the prince. With that, Rama made matted hair
+to himself and to Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>
@@ -4454,6 +4454,30 @@ _________________
 
 **पदच्छेदः**
 
+*94. "Be prepared for protecting Sita in the inhabited as well as in
+uninhabited areas also." W.wM---atha* = then; *mahaabaahuH* = Rama; the mighty armed;
+*abraviit* = spoke; *sumitraa nandanam* = to Lakshmana (who heightened the joy of
+Sumitra); *bhava* = "Be prepared; *samrakshaNaarthaaya* = for protecting; (Sita);
+*sajane* = in the inhabited; *vijane.apivaa* = and in the uninhabited areas
+also."
+
+**अनुवादः**
+
+Then, Rama the mighty armed, spoke to Lakshmana (who heightened the joy of Sumitra)
+as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अनन्तर महाबाहु श्रीरामनु सुमित्रानन्दन लक्ष्मणनल्लि नुडिदनु - लक्ष्मण! ईग नीनु जनरिरुव अथवा निर्जन वनदल्लि सीतॆय रक्षणॆगागि जागरूक नागिरु. नम्मन्तहवरिगॆ निर्जन वनदल्लि नारियन्नु रक्षिसुवुदु अवश्यवागिदॆ. आद्दरिन्द नीनु मुन्दागि नडॆ, सीतॆ निन्न हिन्दॆ - हिन्दॆ नडॆयलि मत्तु नानु सीतॆयॊन्दिगॆ निन्नन्नु रक्षिसुत्ता ऎल्लर हिन्दॆ नडॆयुवॆनु. पुरुषप्रवर! नावु ऒब्बरु इन्नॊब्बरन्नु रक्षिसबेकागिदॆ.॥94-96॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *95. rakshhaNam* = "security; *kaaryam* = is to be arranged;
 *avashyam* = inevitably; *adR^shhTe* = and in an unforeseen; *vijane* = and in
 an uninhabited; *vane* = forest. soumitre = Oh; *Lakshmana! Gachchha* = Go;
@@ -4465,11 +4489,6 @@ an uninhabited; *vane* = forest. soumitre = Oh; *Lakshmana! Gachchha* = Go;
 uninhabited, Oh, Lakshmana! Go in front. Let Sita follow you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अनन्तर महाबाहु श्रीरामनु सुमित्रानन्दन लक्ष्मणनल्लि नुडिदनु - लक्ष्मण! ईग नीनु जनरिरुव अथवा निर्जन वनदल्लि सीतॆय रक्षणॆगागि जागरूक नागिरु. नम्मन्तहवरिगॆ निर्जन वनदल्लि नारियन्नु रक्षिसुवुदु अवश्यवागिदॆ. आद्दरिन्द नीनु मुन्दागि नडॆ, सीतॆ निन्न हिन्दॆ - हिन्दॆ नडॆयलि मत्तु नानु सीतॆयॊन्दिगॆ निन्नन्नु रक्षिसुत्ता ऎल्लर हिन्दॆ नडॆयुवॆनु. पुरुषप्रवर! नावु ऒब्बरु इन्नॊब्बरन्नु रक्षिसबेकागिदॆ.॥94-96॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -4486,25 +4505,6 @@ Protection; *kartavyaa* = must be accorded; *iha* = here; *naH* = by us;
 
 "I shall proceed in the rear, protecting you and Sita. Oh, jewel among men! We must
 accord protection here to one another."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*94. "Be prepared for protecting Sita in the inhabited as well as in
-uninhabited areas also." W.wM---atha* = then; *mahaabaahuH* = Rama; the mighty armed;
-*abraviit* = spoke; *sumitraa nandanam* = to Lakshmana (who heightened the joy of
-Sumitra); *bhava* = "Be prepared; *samrakshaNaarthaaya* = for protecting; (Sita);
-*sajane* = in the inhabited; *vijane.apivaa* = and in the uninhabited areas
-also."
-
-**अनुवादः**
-
-Then, Rama the mighty armed, spoke to Lakshmana (who heightened the joy of Sumitra)
-as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm)
 </details>

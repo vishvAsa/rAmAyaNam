@@ -92,23 +92,6 @@ ascend the mountain and witness the beauty of Lanka. They halt on that mountain-
 
 **पदच्छेदः**
 
-*3. adhyaarohaamahe* = we shall ascend up on high; *imam* = this;
-*suvelam shailendram* = Suvela mountain; *chitam* = shining; *saadhu* = well;
-*dhaatushataiH* = with hundreds of minerals; *sarve* = all of us; *vatsyaamahe*
-= will stay; *atra* = on this mountain; *imam* = for this; *nishaam* = right.
-
-**अनुवादः**
-
-"We shall ascend up on high this Suvela mountain, shining well with hundreds of minerals.
-All of us will stay on this mountain for this night."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 1; *2. saH raamaH* = that Rama; *lakshhmaNaanugataH* = who was followed
 by Lakshmana; *kR^itvaa* = having made up; *matim* = his mind; *aarohaNam prati*
 = to ascend; *suvelasya* = Mount Suvela; *abraviit* = spoke; idam this; *shalakSNayaa*
@@ -122,6 +105,23 @@ in counsel; vidhijJNam- and the knower of prescribed rules.
 Rama, who was followed by Lakshmana, having made up his mind to ascend Mount Suvela,
 spoke in a gentle and prime voice to Sugreeva and to Vibhishana who was the knower of what is right,
 a demon devoted to him who was experienced in counsel and a knower of prescribed rules (as follows):
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. adhyaarohaamahe* = we shall ascend up on high; *imam* = this;
+*suvelam shailendram* = Suvela mountain; *chitam* = shining; *saadhu* = well;
+*dhaatushataiH* = with hundreds of minerals; *sarve* = all of us; *vatsyaamahe*
+= will stay; *atra* = on this mountain; *imam* = for this; *nishaam* = right.
+
+**अनुवादः**
+
+"We shall ascend up on high this Suvela mountain, shining well with hundreds of minerals.
+All of us will stay on this mountain for this night."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>
@@ -617,23 +617,6 @@ gates, enriched with exquisitc ramparts and pervaded all over with demons.
 
 **पदच्छेदः**
 
-*17. dR^iSTvaa* = seeing; *raakSasaan* = the demons; *yuddhakaaNkSiNaH*
-= craving for war; *sarve te vaanaraaH* = all those monkeys; *mumuchuH* = made; *vividhaan*
-= various kinds; *naadaan* = of sounds; (while); *tasya* = that; *raamasya* = Rama;
-*pashyataH* = was witnessing.
-
-**अनुवादः**
-
-Seeing the demons who were craving for war, all those monkeys made various types of noises,
-while Rama was witnessing the scene.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16. te* = those; *harishreSThaaH* = excellent monkeys; *dadR^ishuH*
 = saw; *aparam* = another; *praakaaram* = rampart; *kR^itam* = formed; *niilashcha
 raakshasaiH* = our of the black demons; *praakara vara samsthaiH tathaa* = so standing together
@@ -643,6 +626,23 @@ on that exquisite rampart.
 
 Those excellent monkeys saw another rampart formed out of the black demons so standing
 together scribble on that existing exquisite rampart.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. dR^iSTvaa* = seeing; *raakSasaan* = the demons; *yuddhakaaNkSiNaH*
+= craving for war; *sarve te vaanaraaH* = all those monkeys; *mumuchuH* = made; *vividhaan*
+= various kinds; *naadaan* = of sounds; (while); *tasya* = that; *raamasya* = Rama;
+*pashyataH* = was witnessing.
+
+**अनुवादः**
+
+Seeing the demons who were craving for war, all those monkeys made various types of noises,
+while Rama was witnessing the scene.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga38/yuddhasans38.htm)
 </details>

@@ -634,28 +634,6 @@ stratagem alone will be without lassitude and can indeed defeat the enemies."
 
 **पदच्छेदः**
 
-*15. preSimtaa* = we have been sent; *bharatenaiva* = by
-Bharata; *tava* = your; *yaviiyasaa* = younger; *bhraatraa* = brother;
-*saH* = he; *samutthaapya* = summoning; *senaam* = his forces;
-*kshiprameva* = will surely soon; *upayaasyati* = come here.
-
-**अनुवादः**
-
-"We have been despatched by Bharata, your younger brother. He is summoning his
-forces and will surely come here soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-आद्दरिन्द राक्षसराजने! नन्न इन्नॊन्दु अभिप्रायवु - इच्छानुसार रूप धरिसबल्ल, अत्यन्त भयानक, भयङ्कर दृष्टियुळ्ळ साविरारु शूर-वीर राक्षसरु ऒन्दु निश्चित विचार माडि मनुष्यरूप धरिसि श्रीरामन बळिगॆ होगुवुदु. ऎल्लरू यावुदो गाबरियिन्द आ रघुवंश शिरोमणियल्लि नावु निम्म सैनिकरागिद्देवॆ, निम्म तम्म भरतनु नम्मन्नु कळिसिरुवनु ऎन्दु हेळुवुदु. इष्टु केळुत्तले अवरु वानर सैन्यदॊन्दिगॆ कूडले लङ्कॆय मेलॆ आक्रमण माडलु अल्लिन्द हॊरडुवरु.॥13-1.॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *13-14. raakshasaadhipa* = O; *king of demons! sahasraaNi* =
 thousands of; *raakSasaaH* = demons; *kaamaruupadharaaH* = able to change their form
 at will; *shuuraaH* = courageous; *subhiimaaH* = appalling; *bhiimadarshanaaH*
@@ -669,6 +647,28 @@ can wear; *maanuSam* = human; *vapuH* = body; *upasangamya* = approach;
 O, king of demons! Thousands of demons able to change their form at will courageaous
 appalling terrifying to look at and firm (in their purpose) can wear human body approach Rama
 without embarrassment and all speak to Rama (as follows).
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+आद्दरिन्द राक्षसराजने! नन्न इन्नॊन्दु अभिप्रायवु - इच्छानुसार रूप धरिसबल्ल, अत्यन्त भयानक, भयङ्कर दृष्टियुळ्ळ साविरारु शूर-वीर राक्षसरु ऒन्दु निश्चित विचार माडि मनुष्यरूप धरिसि श्रीरामन बळिगॆ होगुवुदु. ऎल्लरू यावुदो गाबरियिन्द आ रघुवंश शिरोमणियल्लि नावु निम्म सैनिकरागिद्देवॆ, निम्म तम्म भरतनु नम्मन्नु कळिसिरुवनु ऎन्दु हेळुवुदु. इष्टु केळुत्तले अवरु वानर सैन्यदॊन्दिगॆ कूडले लङ्कॆय मेलॆ आक्रमण माडलु अल्लिन्द हॊरडुवरु.॥13-1.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. preSimtaa* = we have been sent; *bharatenaiva* = by
+Bharata; *tava* = your; *yaviiyasaa* = younger; *bhraatraa* = brother;
+*saH* = he; *samutthaapya* = summoning; *senaam* = his forces;
+*kshiprameva* = will surely soon; *upayaasyati* = come here.
+
+**अनुवादः**
+
+"We have been despatched by Bharata, your younger brother. He is summoning his
+forces and will surely come here soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>
@@ -1039,23 +1039,6 @@ licking the corners of his mouth with his tongue, spoke as follows:
 
 **पदच्छेदः**
 
-*24. atra* = at this time; *aham* = I; *ekaH* = alone;
-*haniSyaami* = will kill; *sugriivam* = Sugreeva; *saha lakSmaNam* = along
-with Lakshmana; *hanuumantam* = Hanuma; *sa angadam* = along with Angada;
-*sarvaan* = (and) all; *vaanara amsehca* = monkeys."
-
-**अनुवादः**
-
-At this time I alone will kill Sugreeva along with Lakshmana Hanuma along with
-Angada and all monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *22b-23. bhavantaH* = you; *kurvantu* = do; *karmaaNi* =
 (your) occupations; *svairam* = freely; *vigata jvaraaH* = redeemed of mental pain;
 *kriiDantu* = play; *svasthaaH* = comfortably; *pibantu* = (and) drink;
@@ -1067,6 +1050,23 @@ I; *ekaH* = alone; *bhakSayiSyaami* = will devour; *sarvaam* = the entire;
 
 "You do your occupations freely redeemed of mental pain, play comfortably and drink
 spirituous liquor without any worry. I alone will devour the entire army of monkeys."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. atra* = at this time; *aham* = I; *ekaH* = alone;
+*haniSyaami* = will kill; *sugriivam* = Sugreeva; *saha lakSmaNam* = along
+with Lakshmana; *hanuumantam* = Hanuma; *sa angadam* = along with Angada;
+*sarvaan* = (and) all; *vaanara amsehca* = monkeys."
+
+**अनुवादः**
+
+At this time I alone will kill Sugreeva along with Lakshmana Hanuma along with
+Angada and all monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga8/yuddhasans8.htm)
 </details>

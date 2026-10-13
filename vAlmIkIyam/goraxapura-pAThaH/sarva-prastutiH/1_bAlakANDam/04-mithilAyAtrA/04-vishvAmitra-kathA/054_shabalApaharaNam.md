@@ -289,23 +289,6 @@ _________________
 
 **पदच्छेदः**
 
-*7. saa shabalaa* = she, that Shabala; *rudantii ca kroshantii ca*
-= moaning, also, groaning, also; *vasiSThasya agrataH sthitvaa* = staying before Vashishta
-; *meghadundubhiniHsvanaa* = bellowing like
-thunder of the cloud; *idam abraviit* = spoke this.
-
-**अनुवादः**
-
-She that moaning and groaning Shabala staying before the Sage Vashishta spoke this
-bellowing like a thunderous cloud. [1-54-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *5. shatrusuudana* = oh enemy-subjugator, Rama; *[saa* = she, the
 cow]; *iti samcintayitvaa* = thus, on well thinking; *punaH punaH niHshvasya
 ca* = again, again, on suspiring, also; *tadaa* = then; *taam shatashaH
@@ -322,6 +305,23 @@ that Sacred Cow hastily rushed with the speed a gust and went to that highly ene
 Vashishta on utterly shoving off hundreds of attendants of the king who are roping
 her, and then she straight went to the base of the feet of the great-souled Vashishta.
 [1-54-5, 6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. saa shabalaa* = she, that Shabala; *rudantii ca kroshantii ca*
+= moaning, also, groaning, also; *vasiSThasya agrataH sthitvaa* = staying before Vashishta
+; *meghadundubhiniHsvanaa* = bellowing like
+thunder of the cloud; *idam abraviit* = spoke this.
+
+**अनुवादः**
+
+She that moaning and groaning Shabala staying before the Sage Vashishta spoke this
+bellowing like a thunderous cloud. [1-54-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
@@ -966,26 +966,6 @@ _________________
 
 **पदच्छेदः**
 
-*21b, 22a. prabhaavadbhiH* = by them who have effectuation; *mahaaviiryaiH*
-= by them who have bravery; *hemakinjalkasannibhaiH* = those that are similar to golden
-pistils; *taiH* = with them; *yavanamishritaiH* = associated with Yavana-s
-; *shakaiH* = with Shaka-s; *bhuumiH samvR^itaa aasiit*
-= earth became covered.
-
-**अनुवादः**
-
-Then the earth was pervaded with the Shaka-s associated with Yavana-s, who have
-effectuation and bravery in overcoming their enemy forces, and who are golden in
-bodily colour similar to the golden pistils of flowers which complexion is outlandish.
-[1-54- 21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *20b, 21a. vishvaamitraarditaan* = subdued by Vishvamitra; *shatashaH
 pahlavaan dR^iSTvaa* = on seeing hundreds of Pahlava-s; *tadaa* = then;
 *bhuuya eva* = again, thus; *yavanamishritaan* = mingled with Yavana-s
@@ -1006,6 +986,26 @@ Ch. 43. Dharmaakuutam says: *tadanu vashiShThaabhyanuj~naataa shabalaa nirmitapa
 - niShuuditam svam balam vishvaamitra - iti - dk* These are viewed
 as deadly, lowly, ruffian class of warriors in Indian viewpoint and created out
 of thin air by this Sacred Cow.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21b, 22a. prabhaavadbhiH* = by them who have effectuation; *mahaaviiryaiH*
+= by them who have bravery; *hemakinjalkasannibhaiH* = those that are similar to golden
+pistils; *taiH* = with them; *yavanamishritaiH* = associated with Yavana-s
+; *shakaiH* = with Shaka-s; *bhuumiH samvR^itaa aasiit*
+= earth became covered.
+
+**अनुवादः**
+
+Then the earth was pervaded with the Shaka-s associated with Yavana-s, who have
+effectuation and bravery in overcoming their enemy forces, and who are golden in
+bodily colour similar to the golden pistils of flowers which complexion is outlandish.
+[1-54- 21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>
@@ -1059,6 +1059,25 @@ _________________
 
 **पदच्छेदः**
 
+22b. *diirghaasi paTTishadharaiH* = bowie knives, wielding broad-lances;
+*hemavarNaambaraavR^itaiH* = clad in golden coloured dress; with
+such Yavana-s and Shaka-s; *pradiiptaiH paavakaiH iva* = who are - as with glowing
+fires; *tat sarvam balam* = that, entire, force [of Vishvamitra];
+*nirdagdham* = is completely burnt down.
+
+**अनुवादः**
+
+Yavana-s and Shaka-s, who are wielding bowie knives and broad lances and who are
+clad in golden coloured dresses, and who looked like glowing fires have completely
+burnt down entire force of Vishvamitra. [1-54-22, 23a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *23. tataH* = then; *mahaatejaaH vishvaamitraH* = great-resplendent,
 Vishvamitra; *astraaNi mumoca ha* = missiles, released, indeed; *taiH
 taiH* = by them, by them [missiles]; *yavanakaambhojaabarbaraaH ca*
@@ -1076,25 +1095,6 @@ Shataananda continued his narration of Vishvamitra. [1-54-23b,c.]
 The Barbara-s are said in this text whereas other mms contain it as "Pahlava-s'.
 Even on taking Barbara-s, they are an outlandish clan and the word 'Barbara' might
 have been the ancestor word of the present day 'Barbarian.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-22b. *diirghaasi paTTishadharaiH* = bowie knives, wielding broad-lances;
-*hemavarNaambaraavR^itaiH* = clad in golden coloured dress; with
-such Yavana-s and Shaka-s; *pradiiptaiH paavakaiH iva* = who are - as with glowing
-fires; *tat sarvam balam* = that, entire, force [of Vishvamitra];
-*nirdagdham* = is completely burnt down.
-
-**अनुवादः**
-
-Yavana-s and Shaka-s, who are wielding bowie knives and broad lances and who are
-clad in golden coloured dresses, and who looked like glowing fires have completely
-burnt down entire force of Vishvamitra. [1-54-22, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga54/balasans54.htm)
 </details>

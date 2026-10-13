@@ -113,14 +113,13 @@ tell me who you are and whereto you wish to go? " [3-3-1]
 
 **पदच्छेदः**
 
-3. *nau* us two; *vR^itta sampannau* = bearing, ennobled behaviour; *kshatriyau* = as Kshatriya-s; *vanagocharau*
-= as forest, trekkers; *viddhi* = you know; *tvaam tu veditum icChaavaH* = about you, but, to know, we wish
-to; *dandakaan charasi tvam kaH* = in Dandaka, you move about, you, who.
+*2. tataH sumahaa tejaa* = highly, resplendent one - Rama; *pR^icChantam* = questioner [who is insisting];
+*jvalita aananam* = one with a blazing face; *tam raakshasam* = to him, to demon; *aatmanaH ikshvaaku ulam*
+= of his, about Ikshvaku, dynasty; *uvaacha* = said;
 
 **अनुवादः**
 
-"Know us as Kshatriya-s with ennobled bearing, and we are trekking the forest...but we wish to know about you, who are you
-that move about in Dandaka forest? [3-3-3]
+Then that highly resplendent Rama said about his Ikshvaku dynasty to the blazing faced demon who is insistent. [3-3-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
@@ -129,13 +128,14 @@ that move about in Dandaka forest? [3-3-3]
 
 **पदच्छेदः**
 
-*2. tataH sumahaa tejaa* = highly, resplendent one - Rama; *pR^icChantam* = questioner [who is insisting];
-*jvalita aananam* = one with a blazing face; *tam raakshasam* = to him, to demon; *aatmanaH ikshvaaku ulam*
-= of his, about Ikshvaku, dynasty; *uvaacha* = said;
+3. *nau* us two; *vR^itta sampannau* = bearing, ennobled behaviour; *kshatriyau* = as Kshatriya-s; *vanagocharau*
+= as forest, trekkers; *viddhi* = you know; *tvaam tu veditum icChaavaH* = about you, but, to know, we wish
+to; *dandakaan charasi tvam kaH* = in Dandaka, you move about, you, who.
 
 **अनुवादः**
 
-Then that highly resplendent Rama said about his Ikshvaku dynasty to the blazing faced demon who is insistent. [3-3-2]
+"Know us as Kshatriya-s with ennobled bearing, and we are trekking the forest...but we wish to know about you, who are you
+that move about in Dandaka forest? [3-3-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
@@ -1076,14 +1076,13 @@ to tread his own way towards his own grave.
 
 **पदच्छेदः**
 
-*24. ati bala uddhitaH* = muchly, by might, arrogant one; *saH nishaa chara tu* = he that, night walker, but;
-*sva bala viiryena* = by his, might, courage; *samutkshipya* = on lifting; *baalaaH iva* = babies,
-like; *skanda gatau chakaara* = on shoulders, having gone on, made as.
+*22. tasya abhipraayam aj~naaya* = his, thinking, on knowing; *raamaH lakshmanam abraviit* = Rama, to Lakshmana,
+spoke; *ayam raakshasaH* = this, demon; *anena patha* = by his, way; *alam vahatu taavat tu* = easily,
+let him carry, up to there [anywhere.]
 
 **अनुवादः**
 
-But he that night-walker arrogant as he is by his might has uplifted Rama and Lakshmana like babies by that might and courage
-alone, and placed them on his shoulders as one would place babies. [3-3-24]
+Knowing the thinking of the demon for sure, Rama spoke to Lakshmana, "Let him easily carry us anywhere on his way... [3-3-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>
@@ -1092,13 +1091,14 @@ alone, and placed them on his shoulders as one would place babies. [3-3-24]
 
 **पदच्छेदः**
 
-*22. tasya abhipraayam aj~naaya* = his, thinking, on knowing; *raamaH lakshmanam abraviit* = Rama, to Lakshmana,
-spoke; *ayam raakshasaH* = this, demon; *anena patha* = by his, way; *alam vahatu taavat tu* = easily,
-let him carry, up to there [anywhere.]
+*24. ati bala uddhitaH* = muchly, by might, arrogant one; *saH nishaa chara tu* = he that, night walker, but;
+*sva bala viiryena* = by his, might, courage; *samutkshipya* = on lifting; *baalaaH iva* = babies,
+like; *skanda gatau chakaara* = on shoulders, having gone on, made as.
 
 **अनुवादः**
 
-Knowing the thinking of the demon for sure, Rama spoke to Lakshmana, "Let him easily carry us anywhere on his way... [3-3-22]
+But he that night-walker arrogant as he is by his might has uplifted Rama and Lakshmana like babies by that might and courage
+alone, and placed them on his shoulders as one would place babies. [3-3-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga3/aranyasans3.htm)
 </details>

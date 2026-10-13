@@ -962,6 +962,22 @@ by his persona, he prayfully said this sentence to his brother Rama whose anima 
 
 **पदच्छेदः**
 
+*21. me baahuH dR^iDham spandante* = my, [left] arm, strongly, shuddering; *me manaH udvignam
+iva* = my, heart, distraught, as though; *praayashaH ca api* = manifoldly, also, even;
+*an iSTaani nimittaani* = un, desirable, forebodings; *upalakSaye* = bidding fair.
+
+**अनुवादः**
+
+"My left arm is strongly shuddering and my heart is as though distraught... and even undesirable forebodings
+are also bidding fair... [3-69-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *22. aarya* = oh, exalted brother; *tasmaat* = thereby; *tvam sajjii bhaava* =
 you, at ready, you be; *hitam vacanam kuruSva* = expedient ones, my words, you make happen -
 mind my words; *nimittaani* = forebodings; *sadyaH* = immediately ensuing; *sambhramam*
@@ -971,22 +987,6 @@ mind my words; *nimittaani* = forebodings; *sadyaH* = immediately ensuing; *samb
 
 "Oh, exalted brother, thereby you be at the ready by paying attention to my expedient words... these
 forebodings are indeed portending to me as if some hazard is immediately ensuing... [3-69-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*21. me baahuH dR^iDham spandante* = my, [left] arm, strongly, shuddering; *me manaH udvignam
-iva* = my, heart, distraught, as though; *praayashaH ca api* = manifoldly, also, even;
-*an iSTaani nimittaani* = un, desirable, forebodings; *upalakSaye* = bidding fair.
-
-**अनुवादः**
-
-"My left arm is strongly shuddering and my heart is as though distraught... and even undesirable forebodings
-are also bidding fair... [3-69-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
@@ -1397,6 +1397,25 @@ like fangs, as he has just finished a gobble, and the brothers had to drew nigh 
 
 **पदच्छेदः**
 
+*31. mahaa ghoraan* = highly, brutal; *R^ikSa simha mR^iga dvipaan* = bears, lions, predators,
+elephants; *bhakSayantam* = one who is eating; *yojanam aayatau* = yojana [distance,]
+long [stretchable for a yojana]; *ghorau ubhau bhujau* = with deadly, both, shoulders [arms up
+to shoulders]; *vi kurvaaNam* = who is out, making [outstretching his arms]; they neared such
+a demon.
+
+**अनुवादः**
+
+He is eating the highly brutal bears, lions, predators, and elephants, and he is outstretching both
+of his deadly arms, each of which is stretchable to a yojana distance, and the bothers neared such a
+demon. [3-69-31]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *33, 34a. R^ikshaan* = bears; *vividhaan* = divers; *pakSi gaNaan* = bird, flights
 of; *mR^igaan* = animals; *an ekaan* = not, one [numerous]; *mR^iga yuuthapaan*
 = animals, [choicest in those and those] herds; *karaabhyaam gR^ihya* = by both hands, on gripping;
@@ -1411,25 +1430,6 @@ That demon stayed waylaying the pathway of both the brothers who chanced there, 
 bears, divers flights of birds, and numerous choicest animals of those and those herds, gripping them
 with both of his long-reaching hands and hauling towards his mouth at his paunch, or dropping them off
 if they are unpalatable, and the brothers reached nearby of such a demon. [3-69-32, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*31. mahaa ghoraan* = highly, brutal; *R^ikSa simha mR^iga dvipaan* = bears, lions, predators,
-elephants; *bhakSayantam* = one who is eating; *yojanam aayatau* = yojana [distance,]
-long [stretchable for a yojana]; *ghorau ubhau bhujau* = with deadly, both, shoulders [arms up
-to shoulders]; *vi kurvaaNam* = who is out, making [outstretching his arms]; they neared such
-a demon.
-
-**अनुवादः**
-
-He is eating the highly brutal bears, lions, predators, and elephants, and he is outstretching both
-of his deadly arms, each of which is stretchable to a yojana distance, and the bothers neared such a
-demon. [3-69-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
@@ -1964,23 +1964,6 @@ Rama and Lakshmana. [3-69-42b, 43a]
 
 **पदच्छेदः**
 
-*44b, 45a. iha vaam [kim,] kaaryam* = here, to you, [what,] business; *vadatam* = that
-may be said; *yuvaam kim artham aagatau* = you, for what, reason, arrived; *kSudhaa aartasya*
-= by hunger [ravenously,] painful; *iha tiSThataH* = here, sitting; for me; *imam desham anupraaptau*
-= to this, province, you chanced.
-
-**अनुवादः**
-
-"What business you have here, and for which reason you have come here... you chanced for me who am sitting
-here and painfully ravenous... [3-69-44b, 45a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *43b, 44a. vR^iSabha skandhau* = bullish [nape of neck - like that of bull,] shouldered; *
 mahaa* = broad / long; *khaDga dhanuH dharau* = sword, bow, handling [brandishing]; *ghoram
 imam desham praaptau* = deadly, province, this one, who came across; *yuvaam kau* = you two
@@ -1998,6 +1981,23 @@ broad swords, how have you come about this province? For god's sake, I come acro
 
 The last compound has different compositions in different mms. It is taken here, as 'dainty morsel'
 as the 'eyes' is ill fitting in the compound, as this demon has only one eye.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*44b, 45a. iha vaam [kim,] kaaryam* = here, to you, [what,] business; *vadatam* = that
+may be said; *yuvaam kim artham aagatau* = you, for what, reason, arrived; *kSudhaa aartasya*
+= by hunger [ravenously,] painful; *iha tiSThataH* = here, sitting; for me; *imam desham anupraaptau*
+= to this, province, you chanced.
+
+**अनुवादः**
+
+"What business you have here, and for which reason you have come here... you chanced for me who am sitting
+here and painfully ravenous... [3-69-44b, 45a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>
@@ -2100,6 +2100,22 @@ and arms..." So said Kabandha, in his arrogant tone. [3-69-45b, 46a]
 
 **पदच्छेदः**
 
+*46b, 47a. duraatmanaH tasya kabandhasya* = vile-souled one, of that, Kabandha's; *tat vacanam
+shrutvaa* = his, that, sentence, on hearing; *raamaH parishuSyataa mukhena* = Rama, with
+a drying, face; *lakSmaNam uvaaca* = to Lakshmana, said [this.]
+
+**अनुवादः**
+
+On hearing that sentence of that vile-souled Kabandha, Rama said this to Lakshmana with a wilted face.
+[3-69-46b, 47a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *47b, 48a. satya vikrama* = oh, truth-valiant Lakshmana; *kR^icChraat* = catastrophe after;
 *kR^icChra taram* = catastrophe, worse; *praapya* = having obtained; *priyaam taam*
 = ladylove, her; *a praapya* = without, come across; *jiivita antaaya* = for life, ending;
@@ -2111,22 +2127,6 @@ and arms..." So said Kabandha, in his arrogant tone. [3-69-45b, 46a]
 after a catastrophe...namely, the expiration at the hands of this demon presently, and the expropriation
 of Seetha previously, and the expulsion from kingship, still previously... nonetheless, without coming
 across that ladylove, this disastrous despair of ending our lives is coming about... [3-69-47b, 48a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*46b, 47a. duraatmanaH tasya kabandhasya* = vile-souled one, of that, Kabandha's; *tat vacanam
-shrutvaa* = his, that, sentence, on hearing; *raamaH parishuSyataa mukhena* = Rama, with
-a drying, face; *lakSmaNam uvaaca* = to Lakshmana, said [this.]
-
-**अनुवादः**
-
-On hearing that sentence of that vile-souled Kabandha, Rama said this to Lakshmana with a wilted face.
-[3-69-46b, 47a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga69/aranyasans69.htm)
 </details>

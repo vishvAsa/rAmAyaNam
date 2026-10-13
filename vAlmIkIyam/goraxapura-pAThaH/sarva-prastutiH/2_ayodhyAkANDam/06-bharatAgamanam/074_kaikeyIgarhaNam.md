@@ -477,23 +477,6 @@ falling victim to you, who brought disgrace to our family."
 
 **पदच्छेदः**
 
-*11. yatpradhaanaasi* = by which sin you are mainly having;
-*tat* = that; *paapam* = sin; *kR^ita* = has made me; *pitraavinaa* =
-father less; *parityakte* = abandoned; *bhraatR^ibhyaam* = by my brothers; *mayi
-apriyecha* = and I was disliked; *sarvalokasya* = by all the people.
-
-**अनुवादः**
-
-"The aforesaid sin you have committed has made me father less. Besides, I have been
-abandoned by my brothers and all the people dislike me now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 9; *10. yat* = by what reason; *raamah* = Rama;
 *dhaarmikaH* = the righteous man; *nityam satyaparaayaNaH* = who is forever
 interested in truth; *prasthaapitaH* = was sent; *vanam* = to the forest;
@@ -510,6 +493,23 @@ to destroy the house; *pituH* = of my father
 grief for his son, my father went to heaven. You do not seem to be the daughter of Asvapati, the
 pious and sensible king. You were born there as a demo ness, to destroy the house of my
 father."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. yatpradhaanaasi* = by which sin you are mainly having;
+*tat* = that; *paapam* = sin; *kR^ita* = has made me; *pitraavinaa* =
+father less; *parityakte* = abandoned; *bhraatR^ibhyaam* = by my brothers; *mayi
+apriyecha* = and I was disliked; *sarvalokasya* = by all the people.
+
+**अनुवादः**
+
+"The aforesaid sin you have committed has made me father less. Besides, I have been
+abandoned by my brothers and all the people dislike me now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga74/ayodhyasans74.htm)
 </details>

@@ -262,23 +262,6 @@ with massive body occupied and perched atop of that golden shaft. [3-23-4]
 
 **पदच्छेदः**
 
-*6. ghoraa mahaa svanaaH shivaa* = fearsome, loud, noised, jackals; *abhi diiptaayaam dishi*
-= very, [by sun] scorched, in direction, towards that stretch; *bhairava svanam* = [emitting]
-awful, sounds; *yaatudhaanaanaam* = to demons; *a shivaa vyaajahruH* = not, auspicious,
-made know - they howled.
-
-**अनुवादः**
-
-Turning towards the stretch scorched by the sun, fearsome and loud noised jackals have howled emitting
-awful sounds, that which is inauspicious to the demons. [3-23-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 5. *khara svanaaH* = cacophonous, voiced ones; *maamsa aadaa*= flesh, eating - carnivorous;
 *mR^iga pakSiNaH* = animals [predators,] birds - vultures; *janasthaana samiipe sam aakramya*
 = Janasthaana, nearby, took over; *vi vidhaan* = many, kinds of; *vi svaraan* = out of,
@@ -288,6 +271,23 @@ tune - raucous sounds; *cakruH* = made.
 
 Cacophonous and carnivorous predators and vultures took over the nearby places of Janasthaana and they
 made raucous sounds of many kinds. [3-23-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. ghoraa mahaa svanaaH shivaa* = fearsome, loud, noised, jackals; *abhi diiptaayaam dishi*
+= very, [by sun] scorched, in direction, towards that stretch; *bhairava svanam* = [emitting]
+awful, sounds; *yaatudhaanaanaam* = to demons; *a shivaa vyaajahruH* = not, auspicious,
+made know - they howled.
+
+**अनुवादः**
+
+Turning towards the stretch scorched by the sun, fearsome and loud noised jackals have howled emitting
+awful sounds, that which is inauspicious to the demons. [3-23-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
@@ -747,6 +747,23 @@ woods and forests quaked shakily. [3-23-15b, 16a]
 
 **पदच्छेदः**
 
+*16b, 17a. ratha sthasya* = in chariot, staying; *nardamaanasya dhiimataH* = while raving,
+clever one; *kharasya* = of Khara; *savyaH bhujaH* = left, shoulder; *praa kampata*
+= excessively, thrilled; *asya svaraH ca* = his, voice, also; *ava sajjata* = down, slacked
+- quavered.
+
+**अनुवादः**
+
+He who is raving while sitting in his chariot that clever Khara's left shoulder thrilled excessively,
+and his voice too quavered. [3-23-16b, 17a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *17b, 18a. sarvataH pashyamaanasya* = everywhere, while seeing; *[asya* = his]; *dR^iSTiH*
 = sight - eyes; *sa asraa sampadyate* = is with, tears, obtained [eyes spawned tears]; *lalaaTe
 ca* = on forehead, also; *ruja jaataa* = ache, is born - occurred; *mohaat* = owing
@@ -757,23 +774,6 @@ proceeded] = he did not turn back.
 
 While he is seeing everywhere his eyes spawned tears for no good reason, his forehead ached, but he
 did not retrace his steps owing to his own vanity. [3-23-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*16b, 17a. ratha sthasya* = in chariot, staying; *nardamaanasya dhiimataH* = while raving,
-clever one; *kharasya* = of Khara; *savyaH bhujaH* = left, shoulder; *praa kampata*
-= excessively, thrilled; *asya svaraH ca* = his, voice, also; *ava sajjata* = down, slacked
-- quavered.
-
-**अनुवादः**
-
-He who is raving while sitting in his chariot that clever Khara's left shoulder thrilled excessively,
-and his voice too quavered. [3-23-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
@@ -874,23 +874,6 @@ _________________
 
 **पदच्छेदः**
 
-*20b, 21a. aham* = I; *taaraa api* = stars, even; *sharaiH tiikSNaiH* = with arrows,
-excruciating; *nabhaH talaat paatayeyam* = from sky's, plane, make to fall [strike to fall -
-hurtle]; *sam kruddhaH* = highly, infuriated; *mR^ityum* = to Death; *maraNa dharmeNa*
-= with death's, disposition with mortality; *yojayaami* = I can enjoin.
-
-**अनुवादः**
-
-"With the excruciating arrows of mine I can hurtle stars from the face of sky, and if highly infuriated,
-I can even enjoin mortality to Death himself. [3-23-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *19b, 20a. utthitaan* = uprisen - cropped up; *ghora darshanaan* = horrible, appearing
 [in their nature]; *imaan mahaa utpaataan* = these, awful, auguries; *sarvaan* = all of
 them; *aham* = I; *viiryaat* = owing to [my own] valour; *balavaan dur balaan iva*
@@ -901,6 +884,23 @@ am not, thinking - I am unbothered.
 
 "These awful auguries with their horrible nature have arisen, but owing to my own valour I am unbothered
 about all of them as with a mighty one unworried of the mightless. [3-23-19b, 20a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20b, 21a. aham* = I; *taaraa api* = stars, even; *sharaiH tiikSNaiH* = with arrows,
+excruciating; *nabhaH talaat paatayeyam* = from sky's, plane, make to fall [strike to fall -
+hurtle]; *sam kruddhaH* = highly, infuriated; *mR^ityum* = to Death; *maraNa dharmeNa*
+= with death's, disposition with mortality; *yojayaami* = I can enjoin.
+
+**अनुवादः**
+
+"With the excruciating arrows of mine I can hurtle stars from the face of sky, and if highly infuriated,
+I can even enjoin mortality to Death himself. [3-23-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>
@@ -1195,6 +1195,22 @@ of death obtained an incomparable rejoice. [3-23-25b, 26a]
 
 **पदच्छेदः**
 
+*26b, 27a. mahaa aatmaanaH* = great souls; *R^iSayaH deva gandharvaaH* = sages, gods,
+gandharva-s; *siddhaaH ca saha caaraNaiH* = siddha-s, also, with, carana-s; *yuddha darshana
+kaankSiNaH* = war, see, desiring to; *samiiyuH* = came together [in firmament.]
+
+**अनुवादः**
+
+Then desiring to see the war of Khara with Rama, great-souls like sages, gods, gandharva-s along with
+carana-s and siddha-s have come together in firmament. [3-23-26b, 27a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *27b, 28a. puNya karmaNaH* = of pious, deeds; *te* = those; *sametya* = gathering
 at a place; *anyaH anyam* = other, to other [with one another]; *sahitaaH* = on meeting;
 *go braahmaNebhyaH* = for cows, Brahmans; *ye lokaanaam sam mataaH* = those, who by people,
@@ -1204,22 +1220,6 @@ are respected; *to them; *svasti astu* = good, may betide; *[uucuH* = said.]*
 
 On gathering at a place those great souls met one another and said, "let good betide cows, Brahmans
 and those that are held respectful by the people at large." [3-23-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*26b, 27a. mahaa aatmaanaH* = great souls; *R^iSayaH deva gandharvaaH* = sages, gods,
-gandharva-s; *siddhaaH ca saha caaraNaiH* = siddha-s, also, with, carana-s; *yuddha darshana
-kaankSiNaH* = war, see, desiring to; *samiiyuH* = came together [in firmament.]
-
-**अनुवादः**
-
-Then desiring to see the war of Khara with Rama, great-souls like sages, gods, gandharva-s along with
-carana-s and siddha-s have come together in firmament. [3-23-26b, 27a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga23/aranyasans23.htm)
 </details>

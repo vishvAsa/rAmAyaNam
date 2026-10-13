@@ -463,15 +463,15 @@ handsomeness, attracting the hearts of all living beings. He is endowed with gra
 
 **पदच्छेदः**
 
-*10. paramtapaH* = Rama; the tormentator of his adversaries; *rakSitaa* = is
-a protector; *jiivalokasya* = of the world of beings; *abhirakSitaa* = further protecting; *svajanasya*
-= his own people; *rakSitaa* = he is the protector; *vR^ittasya* = his own behaviour; *dharmasyacha*
-= and righteousness.
+*9. aaditya sankaashaH* = he is equal to the sun; *tejasaa* = in splendour;
+*pR^ithiviisamaH* = equal to the earth; *kSamayaa* = in endurance; *bR^ihaspati samaH* =
+equal to Brihaspati; *buddhyaa* = in intelligence; *vaasavopamaH* = and equal to Indra; *yashasaa*
+= in fame.
 
 **अनुवादः**
 
-"Rama the tormentator of his adversaries, is a protector of the world of beings, further protecting
-his own people. He is the protector of his own behaviour and righteousness.
+"He is equal to the sun in splendour, earth in endurance, Brihaspati in intelligence and Indra
+in fame."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -485,15 +485,15 @@ his own people. He is the protector of his own behaviour and righteousness.
 
 **पदच्छेदः**
 
-*9. aaditya sankaashaH* = he is equal to the sun; *tejasaa* = in splendour;
-*pR^ithiviisamaH* = equal to the earth; *kSamayaa* = in endurance; *bR^ihaspati samaH* =
-equal to Brihaspati; *buddhyaa* = in intelligence; *vaasavopamaH* = and equal to Indra; *yashasaa*
-= in fame.
+*10. paramtapaH* = Rama; the tormentator of his adversaries; *rakSitaa* = is
+a protector; *jiivalokasya* = of the world of beings; *abhirakSitaa* = further protecting; *svajanasya*
+= his own people; *rakSitaa* = he is the protector; *vR^ittasya* = his own behaviour; *dharmasyacha*
+= and righteousness.
 
 **अनुवादः**
 
-"He is equal to the sun in splendour, earth in endurance, Brihaspati in intelligence and Indra
-in fame."
+"Rama the tormentator of his adversaries, is a protector of the world of beings, further protecting
+his own people. He is the protector of his own behaviour and righteousness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -1169,6 +1169,22 @@ _________________
 
 **पदच्छेदः**
 
+*22. aparaajitah* = the invincible; *saumitriH* = Lakshmana; *tasya*
+= that Rama's vaimaatraH = step-mother's son; *bhraataa* = and the brother; *tathaavidhaH* = is
+like that Rama; *anuraageNa* = in affection; *ruupeNa* = in appearance guNaishchaiva = and in qualities.
+
+**अनुवादः**
+
+"The invincible Lakshmana, the son of Rama's step-mother and Rama's brother, is resembling Rama
+in appearance, affection and in qualities."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *23. tau* = those; *ubhau* = two; *narashaarduulau* = tigers among men;
 *tvaddarshana samutsukau* = very anxiously desirous of seeing you; *vichinvantau* = and searching;
 *kR^itsnaam* = all over; *mahiim* = the earth; *abhisamgatau* = came in contact; *asmaabhiH*
@@ -1178,22 +1194,6 @@ _________________
 
 "Rama and Lakshmana, the two tigers among men, very anxiously desirous of seeing you and searching
 all over the earth, came in contact with us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*22. aparaajitah* = the invincible; *saumitriH* = Lakshmana; *tasya*
-= that Rama's vaimaatraH = step-mother's son; *bhraataa* = and the brother; *tathaavidhaH* = is
-like that Rama; *anuraageNa* = in affection; *ruupeNa* = in appearance guNaishchaiva = and in qualities.
-
-**अनुवादः**
-
-"The invincible Lakshmana, the son of Rama's step-mother and Rama's brother, is resembling Rama
-in appearance, affection and in qualities."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -1370,23 +1370,6 @@ _________________
 
 **पदच्छेदः**
 
-*28. dR^iSTvaa* = seeing; *saH* = those; *naravyaaghrau* = excellent
-of men; *dhanvinau* = coming with bows in hand; *saH* = that; *vaanararSabhaH* = Sugreeva
-the best of monkeys; *bhayamohitaH* = was deluded with fear; *abhiplutaH* = and jumped over; *
-shikharam* = to the hill-top; *tasya* = of that; *gireH* = mountain.
-
-**अनुवादः**
-
-"Seeing Rama and Lakshmana, the excellent of men, coming with bows in hand, that Sugreeva the best
-of monkeys was deluded with fear and jumped over to the hill-top of that mountain."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. tataH* = then; *tau* = those two brothers; Rama and Lakshmana; *chiiravasanau*
 = wearing clothes made of bark; *dhanuH pravara paaNinau* = arming the best bows; *upaagatau* =
 came; *ramyam* = to the charming; *desham* = place; *R^ishyamuukasya* = shailasya of Rishyamuka
@@ -1396,6 +1379,23 @@ mountain.
 
 "In the meanwhile, those two brothers Rama and Lakshmana, wearing clothes made of bark and arming
 the best bows, came to the charming place of Rishyamuka mountain."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. dR^iSTvaa* = seeing; *saH* = those; *naravyaaghrau* = excellent
+of men; *dhanvinau* = coming with bows in hand; *saH* = that; *vaanararSabhaH* = Sugreeva
+the best of monkeys; *bhayamohitaH* = was deluded with fear; *abhiplutaH* = and jumped over; *
+shikharam* = to the hill-top; *tasya* = of that; *gireH* = mountain.
+
+**अनुवादः**
+
+"Seeing Rama and Lakshmana, the excellent of men, coming with bows in hand, that Sugreeva the best
+of monkeys was deluded with fear and jumped over to the hill-top of that mountain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -1564,23 +1564,6 @@ _________________
 
 **पदच्छेदः**
 
-*32. sugriivaaya* = for Sugreeva; *mahaatmana* = the high-souled; *niveditau*
-= was made known (by me); *tattvena* = the true state (about Rama and Lakshman); *anyonya samlaapaat*
-= by the mutual converstaion; *bhR^isham* = a great; *prritiH* = friendship; *ajaayata* =
-was developed.
-
-**अनुवादः**
-
-"I informed the high-souled Sugreeva about the true position of Rama and Lakshmana. After a mutual
-conversation between those two brothers and Sugreeva, a great friendship developed among them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *30. sugreeva vachanaat* = as per the words of Sugreeva; *aham* = I; *kR^itaaN^jaliH*
 = making salutations; *upasthitaH* = reached; *tau* = those two brothers; Rama and Lakshmana;
 *puruSavyaaghrau* = the tigers among men; *prabhuu* = the capable men; *ruupalakSaNa sampannau*
@@ -1590,6 +1573,23 @@ conversation between those two brothers and Sugreeva, a great friendship develop
 
 "On that command of Sugreeva, I reached saluting those two brothers, Rama and Lakshmana the excellent
 and capable men, endowed with good form and characteristics."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. sugriivaaya* = for Sugreeva; *mahaatmana* = the high-souled; *niveditau*
+= was made known (by me); *tattvena* = the true state (about Rama and Lakshman); *anyonya samlaapaat*
+= by the mutual converstaion; *bhR^isham* = a great; *prritiH* = friendship; *ajaayata* =
+was developed.
+
+**अनुवादः**
+
+"I informed the high-souled Sugreeva about the true position of Rama and Lakshmana. After a mutual
+conversation between those two brothers and Sugreeva, a great friendship developed among them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -1953,15 +1953,15 @@ _________________
 
 **पदच्छेदः**
 
-*41. taani* = those ornaments; *praadiipayan* = ignited; *shoka hutaashanam*
-= fire of grief; *daasharatheH* = of Rama; *pashyataH* = who was seeing; *taani* = them;
-*rudataH* = lamenting; *taamyatashcha* = and getting suffocated; *punaH punaH* = again and
-again.
+*39. taani* = those ornaments; *upahR^itaani* = were brought near; *raamaaya*
+= to Rama; *dathaani* = and were given (to him); *mayaiva* = just by me; *tasmin vigata chetasi*
+= while he (Rama) was losing consciousness; *svanavanti* = the resounding ornaments; *avakiirNaani*
+= were scattered.
 
 **अनुवादः**
 
-"While seeing those ornaments, Rama was lamenting and getting suffocated again and again. Thus,
-those ornaments ignited the fire of Rama's grief."
+"I indeed brought those ornaments near to Rama and gave them to him. Then, soon after receiving
+them, Rama lost his consciousness and the resounding ornaments were scattered all over."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -1975,14 +1975,15 @@ those ornaments ignited the fire of Rama's grief."
 
 **पदच्छेदः**
 
-*43. saH raaghavaH* = that Rama; *mahaabaahuH* = the long armed; *saha saumitriH*
-= along with Lakshmana; *dR^iSTvaa* = having seen; *darshayitvaa* = examined; *taani* = those
-ornaments; *muhuH muhuH* = angain and again; *nyavedayat* = and gave; *sugriiva* = to Sugreeva.
+*41. taani* = those ornaments; *praadiipayan* = ignited; *shoka hutaashanam*
+= fire of grief; *daasharatheH* = of Rama; *pashyataH* = who was seeing; *taani* = them;
+*rudataH* = lamenting; *taamyatashcha* = and getting suffocated; *punaH punaH* = again and
+again.
 
 **अनुवादः**
 
-"That long-armed Rama, along with Lakshmana, after seeing those ornaments, examined them, again
-and again. He later gave them to Sugreeva."
+"While seeing those ornaments, Rama was lamenting and getting suffocated again and again. Thus,
+those ornaments ignited the fire of Rama's grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -2013,15 +2014,14 @@ I made him to get up by telling several consoling words."
 
 **पदच्छेदः**
 
-*39. taani* = those ornaments; *upahR^itaani* = were brought near; *raamaaya*
-= to Rama; *dathaani* = and were given (to him); *mayaiva* = just by me; *tasmin vigata chetasi*
-= while he (Rama) was losing consciousness; *svanavanti* = the resounding ornaments; *avakiirNaani*
-= were scattered.
+*43. saH raaghavaH* = that Rama; *mahaabaahuH* = the long armed; *saha saumitriH*
+= along with Lakshmana; *dR^iSTvaa* = having seen; *darshayitvaa* = examined; *taani* = those
+ornaments; *muhuH muhuH* = angain and again; *nyavedayat* = and gave; *sugriiva* = to Sugreeva.
 
 **अनुवादः**
 
-"I indeed brought those ornaments near to Rama and gave them to him. Then, soon after receiving
-them, Rama lost his consciousness and the resounding ornaments were scattered all over."
+"That long-armed Rama, along with Lakshmana, after seeing those ornaments, examined them, again
+and again. He later gave them to Sugreeva."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -2920,23 +2920,6 @@ _________________
 
 **पदच्छेदः**
 
-*62. teSaam naH* = for us as such; *niraashaanaam* = who lost our hopes on
-our lives; *mumuurSataam* = and willing to give up our lives; *svaani samdeshaat* = as per the command
-of Sugreeva; *kaarya hetoriva* = (as thought) for the sake of our need alone; *mahaan* = a great;
-*viiryavaan* = valiant; *shakuniH* = bird; *aayaataH* = came (there).
-
-**अनुवादः**
-
-"For us who lost all our hopes on our lives and willing to give up our lives as per the command
-of Sugreeva, as though for the sake of our need alone, a great valiant bird came there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 60; *61. vaidehi* = O Seetha!; *dR^iSTvaa* = seeing; *sarvaan* = all;
 *vaanarapuNgavaan* = the excellent monkeys; *praayopaviSTaan* = sitting down and calmly awaiting
 the approach of death; *aN^gadaH* = Angada; *bhR^isham* = was very much; *magnaH* = immersed;
@@ -2950,6 +2933,23 @@ maraNamcha* = the death; *jaTaayuSaH* = of Jatayu; *asmaakam* = and our; *praayo
 "O Seetha! Seeing all the excellent monkeys sitting down and calmly awaiting for the approach of
 death, Angada was very much immerssed in the ocean of sorrow and lamented about your loss, the killing of Vali,
 the death of Jatayu and our practice of calmly awaiting for the approach of death in simply sitting down."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*62. teSaam naH* = for us as such; *niraashaanaam* = who lost our hopes on
+our lives; *mumuurSataam* = and willing to give up our lives; *svaani samdeshaat* = as per the command
+of Sugreeva; *kaarya hetoriva* = (as thought) for the sake of our need alone; *mahaan* = a great;
+*viiryavaan* = valiant; *shakuniH* = bird; *aayaataH* = came (there).
+
+**अनुवादः**
+
+"For us who lost all our hopes on our lives and willing to give up our lives as per the command
+of Sugreeva, as though for the sake of our need alone, a great valiant bird came there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -3002,23 +3002,6 @@ _________________
 
 **पदच्छेदः**
 
-*64. vaanarottamaaH* = O; the best of monkeys!; *kena* = by whom; *me*
-= my; *yaviiyaan* = younger; *bhraataa* = brother; *hataH* = was killed?; *kva* =
-where; *nipaatitaH* = was he made to fall?; *ichchhami* = I desire; *etat* = this; *aakhyaatum*
-= to be told; *bhavadbhiH* = by you.
-
-**अनुवादः**
-
-"O the best of monkeys! Tell me who, where and how my younger brother Jabali was killed and made
-to fall."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *63. shrutvaa* = hearing; *bhraatruvadham* = about the killing of his brother;
 *gR^idhra raajasya sodaryaH* = thebrother of Jatayu; the king of vultures; *sampaatirnaamaH* = named
 Sampati; *gR^idhra raaT* = (himself) a king of vultures; *abriviit* = spoke; *idam vachanam*
@@ -3028,6 +3011,23 @@ Sampati; *gR^idhra raaT* = (himself) a king of vultures; *abriviit* = spoke; *id
 
 "Hearing about the killing of his brother, the vulture-king Sampati the brother of slain Jatayu
 the King of vultures spoke (the following) words in anger:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*64. vaanarottamaaH* = O; the best of monkeys!; *kena* = by whom; *me*
+= my; *yaviiyaan* = younger; *bhraataa* = brother; *hataH* = was killed?; *kva* =
+where; *nipaatitaH* = was he made to fall?; *ichchhami* = I desire; *etat* = this; *aakhyaatum*
+= to be told; *bhavadbhiH* = by you.
+
+**अनुवादः**
+
+"O the best of monkeys! Tell me who, where and how my younger brother Jabali was killed and made
+to fall."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -3218,15 +3218,15 @@ _________________
 
 **पदच्छेदः**
 
-*70. atha* = thereafter; *prakSya* = seeing; *saagaram* = the ocean;
-*aham* = I; *vyavadhuuya* = removed; *tiivram* = the serious; *bhayan* = fear; *
-harisainyasya* = of the army of monkeys; *siidataH* = who were worrying; *plutaH* = and crossed;
-*shatam* = hundred; *yojanaanaam* = Yojanas.
+*68. plavaNgamaaH* = the monkeys; *hR^iSTaaH* = were very much delighted;
+*tuSTaaH* = and satisfied; *tvaddarshana kR^itotsaaho* = and exercising their strength to see you;
+*utthaaya* = having risen; *vindhyaat* = from Vindhya mountain; *sampraaptaaH* = reached;
+*uttaram antam* = the northern shore; *saagarasya* = of the ocean.
 
 **अनुवादः**
 
-"Thereafter, seeing the ocean, I removed the serious fears of the army of monkeys who were worrying
-and crossed hundred Yojanas across the sea."
+"The monkeys were very much delighted and satisfied. They were making up their energy to see you,
+rose up from Vindhya mountain and reached the northern shore of the ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -3257,15 +3257,15 @@ were frightened after seeing the ocean there and they were again worried."
 
 **पदच्छेदः**
 
-*68. plavaNgamaaH* = the monkeys; *hR^iSTaaH* = were very much delighted;
-*tuSTaaH* = and satisfied; *tvaddarshana kR^itotsaaho* = and exercising their strength to see you;
-*utthaaya* = having risen; *vindhyaat* = from Vindhya mountain; *sampraaptaaH* = reached;
-*uttaram antam* = the northern shore; *saagarasya* = of the ocean.
+*70. atha* = thereafter; *prakSya* = seeing; *saagaram* = the ocean;
+*aham* = I; *vyavadhuuya* = removed; *tiivram* = the serious; *bhayan* = fear; *
+harisainyasya* = of the army of monkeys; *siidataH* = who were worrying; *plutaH* = and crossed;
+*shatam* = hundred; *yojanaanaam* = Yojanas.
 
 **अनुवादः**
 
-"The monkeys were very much delighted and satisfied. They were making up their energy to see you,
-rose up from Vindhya mountain and reached the northern shore of the ocean."
+"Thereafter, seeing the ocean, I removed the serious fears of the army of monkeys who were worrying
+and crossed hundred Yojanas across the sea."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -3421,23 +3421,6 @@ _________________
 
 **पदच्छेदः**
 
-*74. tava* = your; *kaakutthsaH* = Rama; *varaH* = excellent; *sarvashastrabhR^itaam*
-= among all the wielders of bow; *kushalii* = is safe; *lakSmaNashcha* = Lakshmana too; *yuktaH*
-= who is engaged in; *guroH aaraadhane* = the service of his elder brother; *sulakSaNaH* = and having
-good characteristics; (is also safe).
-
-**अनुवादः**
-
-"You Rama, the excellent man among all the wielders of bow, is safe. Lakshmana, who is engaged
-in the service of his elder brother and possessing good characteristics, is also safe."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *71. laN^kaachaapi* = even Lanka; *raakSasaakulaa* = filled with demons;
 *praviSTaa* = was entered; *mayaa* = by me; *raatrau* = in the night; *raavaNashcha*
 = Ravana too; *dR^iSTaH* = was seen; *mayaa* = by me; *tvamcha* = You too; *shoka pariplutaa*
@@ -3447,6 +3430,23 @@ in the service of his elder brother and possessing good characteristics, is also
 
 "Entering even Lanka, filled with demons in the night, I saw Ravana and you too who were immersed
 in grief."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*74. tava* = your; *kaakutthsaH* = Rama; *varaH* = excellent; *sarvashastrabhR^itaam*
+= among all the wielders of bow; *kushalii* = is safe; *lakSmaNashcha* = Lakshmana too; *yuktaH*
+= who is engaged in; *guroH aaraadhane* = the service of his elder brother; *sulakSaNaH* = and having
+good characteristics; (is also safe).
+
+**अनुवादः**
+
+"You Rama, the excellent man among all the wielders of bow, is safe. Lakshmana, who is engaged
+in the service of his elder brother and possessing good characteristics, is also safe."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -3496,23 +3496,6 @@ _________________
 
 **पदच्छेदः**
 
-*76. mayaa* = by me; *kaama ruupiNaa* = who can change my form at will; *
-tvanmaarga vichayaiSiNaa* = desirous of finding out your access; *asahaayena* = without any helper;
-*charataa* = wandering alone; *iyam* = this; *dakSiNa dik* = southern direction; *anukraantaa*
-= is obtained.
-
-**अनुवादः**
-
-"I, who can change my form at will, desirous of finding out your access, wandering alone without
-any helper, came to this southern direction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *75. devi* = O princess! aham = I; *rataH* = who am interested; *hite*
 = in the welfare; *tasya* = of Rama; *tava* = your; *bhartuH* = husband; *viiryavataH*
 = who is valiant; *praaptaH* = came; *iha* = here; *ekaH* = alone; *sugreeva vachanaat*
@@ -3522,6 +3505,23 @@ any helper, came to this southern direction."
 
 "O princess! I, who am interested in the welfare of the valiant Rama, your husband, came here alone
 on the command of Sugreeva."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*76. mayaa* = by me; *kaama ruupiNaa* = who can change my form at will; *
+tvanmaarga vichayaiSiNaa* = desirous of finding out your access; *asahaayena* = without any helper;
+*charataa* = wandering alone; *iyam* = this; *dakSiNa dik* = southern direction; *anukraantaa*
+= is obtained.
+
+**अनुवादः**
+
+"I, who can change my form at will, desirous of finding out your access, wandering alone without
+any helper, came to this southern direction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -3642,23 +3642,6 @@ _________________
 
 **पदच्छेदः**
 
-*79. mahaaviiryaH* = the highly valiant; *raaghavashcha* = Rama; *hatvaa*
-= by killing; *raavaNam* = Rama; *hatvaa* = by killing; *raavaNam* = Rama; *raakSasaadhipam*
-= the Lord of demons; *samitra baandhavam* = along with his friends and relatives; *abhi patsyate*
-= and will obtain; *tvaam* = you; *kSipram* = soon.
-
-**अनुवादः**
-
-"The highly valiant Rama, by killing Ravana the Lord of demons along with his friends and relatives,
-will obtain you soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *78. devi* = O princess; *diSTyaa* = by good luck; *mama* = my; *
 saagare laN^ghanam* = crossing of ocean; *na vyartham* = has not gone in vain; *aham* = I;
 *praapsyaami* = can get; *idam* = this; *yashaH* = fame; *taddarshana kR^itam* = of
@@ -3668,6 +3651,23 @@ having seen you; *diSTyaa* = by my good luck.
 
 "O princess! By my fortune, my crossing of ocean has not gone in vain. I can get this fame of having
 seen you because of my good luck."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*79. mahaaviiryaH* = the highly valiant; *raaghavashcha* = Rama; *hatvaa*
+= by killing; *raavaNam* = Rama; *hatvaa* = by killing; *raavaNam* = Rama; *raakSasaadhipam*
+= the Lord of demons; *samitra baandhavam* = along with his friends and relatives; *abhi patsyate*
+= and will obtain; *tvaam* = you; *kSipram* = soon.
+
+**अनुवादः**
+
+"The highly valiant Rama, by killing Ravana the Lord of demons along with his friends and relatives,
+will obtain you soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>
@@ -3767,6 +3767,28 @@ _________________
 
 **पदच्छेदः**
 
+*81. diSTaH* = as commanded; *devarSibhiH* = by gods and seers; *saH mahaakapi*
+= that great monkey; called Kesari; *mama* = my; *pitaa* = father; *uddharat* = killed;
+*shamba saadanam* = a demon named Shamba sadana; *puNye* = at a sacred; *tiirthe* = shrine;
+*naadiipateH* = near the sea-shore.
+
+**अनुवादः**
+
+"As prayed by gods and seers, that great monkey called Kesari, my father killed a demon named Shambasadana
+at a sacred shrine near the sea-shore."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+वैदेही! ‘माल्यवन्त’ ऎम्ब पर्वतवु ऎल्ल पर्वतगळल्लियू श्रेष्ठवादुदु. अल्लि वासवागिद्द केसरि ऎम्ब कपीश्वरनु ऒम्मॆ गोकर्णपर्वतक्कॆ होदनु. पुण्यप्रदवाद गोकर्णक्षेत्रद समुद्र तीरदल्लि यात्रार्थिगळिगॆ तॊन्दरॆयन्नु कॊडुत्तिद्द शम्बसादनॆम्ब राक्षसनन्नु संहरिसुवन्तॆ ब्रह्मर्षिगळु कपिश्रेष्ठनाद नन्न तन्दॆगॆ आज्ञॆमाडिदरु. अवर आज्ञॆयन्तॆ नन्न तन्दॆयु आ राक्षसनन्नु संहरिसिदनु. अन्तह महापराक्रमियाद केसरिय भार्यॆयाद अञ्जनादेवियल्लि वायुदेवर अनुग्रहदिन्द नानु हुट्टिदॆनु. नन्न पराक्रमदिन्दले नानु लोकदल्लि ‘हनुमन्त’ ऎम्ब हॆसरिनिन्द ख्यातनागिद्देनॆ.॥81-83॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *82. maithili* = O Seetha!; *aham* = I; *jaataH* = am born; *kSetre*
 = in the wife; *tasya hariNaH* = of that Kesari; the monkey; *vaatena* = by the grace of wind-god;
 *syena karmaNaa eva* = by my activity alone; *vikhyaataH* = I am renowned; *hanumaaniti*
@@ -3778,11 +3800,6 @@ _________________
 By my activity alone, I am renowned as Hanuma in this world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-वैदेही! ‘माल्यवन्त’ ऎम्ब पर्वतवु ऎल्ल पर्वतगळल्लियू श्रेष्ठवादुदु. अल्लि वासवागिद्द केसरि ऎम्ब कपीश्वरनु ऒम्मॆ गोकर्णपर्वतक्कॆ होदनु. पुण्यप्रदवाद गोकर्णक्षेत्रद समुद्र तीरदल्लि यात्रार्थिगळिगॆ तॊन्दरॆयन्नु कॊडुत्तिद्द शम्बसादनॆम्ब राक्षसनन्नु संहरिसुवन्तॆ ब्रह्मर्षिगळु कपिश्रेष्ठनाद नन्न तन्दॆगॆ आज्ञॆमाडिदरु. अवर आज्ञॆयन्तॆ नन्न तन्दॆयु आ राक्षसनन्नु संहरिसिदनु. अन्तह महापराक्रमियाद केसरिय भार्यॆयाद अञ्जनादेवियल्लि वायुदेवर अनुग्रहदिन्द नानु हुट्टिदॆनु. नन्न पराक्रमदिन्दले नानु लोकदल्लि ‘हनुमन्त’ ऎम्ब हॆसरिनिन्द ख्यातनागिद्देनॆ.॥81-83॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -3798,23 +3815,6 @@ you; *anaghe devi* = O the faultless princess!; *raaghavaH* = Rama; *nayitaa* = 
 
 "O Seetha! I described the qualities of Rama, your husband, to cause trust in you. O the faultless
 princess! Rama will take you from here within a short time."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*81. diSTaH* = as commanded; *devarSibhiH* = by gods and seers; *saH mahaakapi*
-= that great monkey; called Kesari; *mama* = my; *pitaa* = father; *uddharat* = killed;
-*shamba saadanam* = a demon named Shamba sadana; *puNye* = at a sacred; *tiirthe* = shrine;
-*naadiipateH* = near the sea-shore.
-
-**अनुवादः**
-
-"As prayed by gods and seers, that great monkey called Kesari, my father killed a demon named Shambasadana
-at a sacred shrine near the sea-shore."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga35/sundarasans35.htm)
 </details>

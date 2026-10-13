@@ -325,6 +325,23 @@ _________________
 
 **पदच्छेदः**
 
+*6. kaHayam* = who is he?; *kasya* = whose (messenger) is he?;
+*kutaH* = from where; *kim nimittam* = and for what purpose; *ayam* = he; *aagatam*
+= has come; *iha* = here?; *uta* = and; (wherefore); *samvaadaH* = a conversation;
+*kR^itaH* = was held; *anena* = by him; *tvayaa saha* = with you?
+
+**अनुवादः**
+
+"Who is he? Whose messenger is he? From where and for what purpose he has come here?
+Wherefore a conversation was held by him with you?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *7. vishaalaakSi* = O large-eyed Seetha!; *achakSya* = tell; *
 naH* = us; *maa bhuut* = let there be no; *bhayam* = fear; *te* = for you;
 *subhage* = O fortunate lady!; *asitaapaaN^ge* = O lady having black outer corners of
@@ -335,23 +352,6 @@ the eye!; *kim* = what; *kR^itavaan* = did; *ayam* = he; *samvaadam* = talk;
 
 "O large-eyed Seetha! Tell us. Let there be no fear for you, O fortunate lady! What did
 he speak to you? O lady having black outer eye-corners!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*6. kaHayam* = who is he?; *kasya* = whose (messenger) is he?;
-*kutaH* = from where; *kim nimittam* = and for what purpose; *ayam* = he; *aagatam*
-= has come; *iha* = here?; *uta* = and; (wherefore); *samvaadaH* = a conversation;
-*kR^itaH* = was held; *anena* = by him; *tvayaa saha* = with you?
-
-**अनुवादः**
-
-"Who is he? Whose messenger is he? From where and for what purpose he has come here?
-Wherefore a conversation was held by him with you?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
@@ -481,23 +481,6 @@ _________________
 
 **पदच्छेदः**
 
-*10. aham api* = I am also; *bhiitaa asmi* = frightened; *asya*
-= of him; *aham* = I; *na jaanaami* = do not know; *konu* = who; *enam*
-= he is; *vedmi* = I know; *enam* = him; *kaamaruupiNam* = who can assume any form
-at his will raakSasameva = only as a demon; *aagatam* = who arrived here.
-
-**अनुवादः**
-
-"By seeing him, I too get frightened. I do not know who he is. I only know him as a demon,
-able to assume any form at his will, who arrived here."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. atha* = thereupon; *siitaa* = Seetha; *saadhvii* = the
 virtuous lady; *sarvaaNga sundarii* = having complete beauty of all limbs; *tadaa* = then;
 *abraviit* = spoke; *kaa* = where is; *gatiH* = ability; *mama* = for me;
@@ -508,6 +491,23 @@ terrific form?
 
 Thereupon Seetha the virtuous lady, having a complete beauty of all limbs, spoke as follows:
 "Where is the ability for me to know about the demons of a terrific form?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. aham api* = I am also; *bhiitaa asmi* = frightened; *asya*
+= of him; *aham* = I; *na jaanaami* = do not know; *konu* = who; *enam*
+= he is; *vedmi* = I know; *enam* = him; *kaamaruupiNam* = who can assume any form
+at his will raakSasameva = only as a demon; *aagatam* = who arrived here.
+
+**अनुवादः**
+
+"By seeing him, I too get frightened. I do not know who he is. I only know him as a demon,
+able to assume any form at his will, who arrived here."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
@@ -678,23 +678,6 @@ of the monstrous and terrific monkey.
 
 **पदच्छेदः**
 
-*14. pR^iSTaa* = (Eventhough) questioned; *bahudhaa* = in many ways;
-*asmaabhiH* = by us; *siitaa* = Seetha; *jaanakii* = the daughter of Janaka;
-*hariNalochanaa* = having eyes similar to those of a doe; *na ichchhati* = is not inclined;
-*nivedayitum* = to tell; *harim* = about the monkey.
-
-**अनुवादः**
-
-"Eventhough questioned in many ways by us, Seetha, the daughter of Janaka, having eyes
-similar to those of a doe, is not inclined to tell about the monkey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *13. raajan* = O king!; *kapiH* = a monkey; *bhiima vapuH*
 = having a terrific body; *amita vikramaH* = and a boundless prowess; *tiSThati* = is
 stationed; *ashokavana madhye* = in the middle of Ashoka grove; *kR^ita samvaadaH* = and
@@ -704,6 +687,23 @@ made a conversation; *siitayaa* = with Seetha.
 
 "O king! A monkey having a terrific body and a boundless prowess, is stationed in the
 middle of Ashoka grove and made a conversation with Seetha."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. pR^iSTaa* = (Eventhough) questioned; *bahudhaa* = in many ways;
+*asmaabhiH* = by us; *siitaa* = Seetha; *jaanakii* = the daughter of Janaka;
+*hariNalochanaa* = having eyes similar to those of a doe; *na ichchhati* = is not inclined;
+*nivedayitum* = to tell; *harim* = about the monkey.
+
+**अनुवादः**
+
+"Eventhough questioned in many ways by us, Seetha, the daughter of Janaka, having eyes
+similar to those of a doe, is not inclined to tell about the monkey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
@@ -1627,15 +1627,15 @@ _________________
 
 **पदच्छेदः**
 
-*35. me* = to me; *praharataH* = who is striking; *sahasrashaH*
-= with thousands of; *shilaabhiH* = rocks; *paadapaishcha* = and trees; *yuddhe*
-= in battle; *raavaNa sahasram* = even a thousand of Ravanas; *na bhavet* = will not be;
-*pratibalam* = matching equally (with me).
+*33. jayati* = long live; *raamaH* = Rama; *atibalah* = the
+mighty; *mahaabalaH* = and the powerful; *lakSmaNashcha* = Lakshmana too jayati = long
+live; *raajaa* = the king; *sugriivaH* = Sugreeva; *anupaalitaH* = protected;
+*raaghavena* = by Rama.
 
 **अनुवादः**
 
-"Even a thousand of Ravanas will not be matching equally with me, who is capable of striking
-with thousands of rocks and trees in battle."
+"Long live the mighty Rama and the powerful Lakshmana! Long live the King Sugreeva, protected
+by Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
@@ -1666,6 +1666,23 @@ the servant of Rama, the king of Kosala Kingdom, who is unwearied in action."
 
 **पदच्छेदः**
 
+*35. me* = to me; *praharataH* = who is striking; *sahasrashaH*
+= with thousands of; *shilaabhiH* = rocks; *paadapaishcha* = and trees; *yuddhe*
+= in battle; *raavaNa sahasram* = even a thousand of Ravanas; *na bhavet* = will not be;
+*pratibalam* = matching equally (with me).
+
+**अनुवादः**
+
+"Even a thousand of Ravanas will not be matching equally with me, who is capable of striking
+with thousands of rocks and trees in battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *36. miSataam* = before the eyes of ; *sarva rakSasaam* = all the
 demons; *ardayitvaa* = annihilating; *laN^kaam purrim* = the city of Lanka; *abhivaadya
 cha* = and offering salutation; *maithiliim* = Seetha; *gamiSyaami* = I will go back;
@@ -1675,23 +1692,6 @@ cha* = and offering salutation; *maithiliim* = Seetha; *gamiSyaami* = I will go 
 
 "Here, before the eyes of all the demons, I will annihilate the City of Lanka and after
 offering salutation to Seetha, I will go back after fully completing my task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*33. jayati* = long live; *raamaH* = Rama; *atibalah* = the
-mighty; *mahaabalaH* = and the powerful; *lakSmaNashcha* = Lakshmana too jayati = long
-live; *raajaa* = the king; *sugriivaH* = Sugreeva; *anupaalitaH* = protected;
-*raaghavena* = by Rama.
-
-**अनुवादः**
-
-"Long live the mighty Rama and the powerful Lakshmana! Long live the King Sugreeva, protected
-by Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>
@@ -1908,23 +1908,6 @@ _________________
 
 **पदच्छेदः**
 
-*41. hatvaa* = killing; *viiraan raakSasaan* = the valiant demons;
-*kimkaraan* = called Kinkaras; *saH viiraH maarutaatmajaH* = that Hanuma; the hero;
-*yuddhaakaaN^kSii* = wishing fight; *punaH* = again; *samupaashritaH* = resorted
-to; *toraNam* = the archy gate-way.
-
-**अनुवादः**
-
-Killing the valiant demons called Kinkaras, that heroic Hanuma wishing to fight again,
-arrived at the archy gate way.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *40. aadaaya* = taking; *tam parigham* = that iron rod; *saH*
 = that Hanuma; *jaghaana* = killed; *rajaniicharaan* = demons; *saH viiraH maarutiH*
 = that valiant Hanuma; *vichachaara* = strolled; *ambare* = in the sky; *parigR^ihya*
@@ -1935,6 +1918,23 @@ arrived at the archy gate way.
 
 Taking that iron rod, Hanuma killed the demons. That violent Hanuma strolled in the sky,
 taking that iron rod in his hand, as Garuda the eagle would carrying a serpent in its claws.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*41. hatvaa* = killing; *viiraan raakSasaan* = the valiant demons;
+*kimkaraan* = called Kinkaras; *saH viiraH maarutaatmajaH* = that Hanuma; the hero;
+*yuddhaakaaN^kSii* = wishing fight; *punaH* = again; *samupaashritaH* = resorted
+to; *toraNam* = the archy gate-way.
+
+**अनुवादः**
+
+Killing the valiant demons called Kinkaras, that heroic Hanuma wishing to fight again,
+arrived at the archy gate way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga42/sundarasans42.htm)
 </details>

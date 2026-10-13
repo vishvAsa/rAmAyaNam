@@ -699,6 +699,24 @@ _________________
 
 **पदच्छेदः**
 
+*13. samahaakapiH* = the great Hanuma; *dadarsha* = saw;
+*mahaatmanaH* = the wealthy Ravana's; *mahatveshma* = big house; *ghambhiiram*
+= inscrutable; *samudramiva* = like an ocean; *nissvanam samudramiva* = like a
+noiseless ocean; *mahaaratna parichchhadam* = with a roof embedded with great diamonds;
+*mahaaratnasamaakiirNam* = filled with great diamonds.
+
+**अनुवादः**
+
+The great Hanuma saw the wealthy Ravana's huge house, inscrutable like an ocean,
+like a noiseless ocean, with a roof embedded with great diamondsand filled with great diamonds.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *14;15. saH* = that great Hanuma; *amanyata* = thought;
 *viraajamaanam* = (the house which was) shining; *vipushhaa* = with its form;
 *gajaashvarathasankulam* = filled with elephants; horses; chariots; *laN^kaabharaNam
@@ -711,24 +729,6 @@ Ravana;
 That great Hanuma thought the house, which was shining with its form filled with
 elephants, horses, chariots, to be the jewel of Lanka. Hanuma walked about there in the near-hood
 of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*13. samahaakapiH* = the great Hanuma; *dadarsha* = saw;
-*mahaatmanaH* = the wealthy Ravana's; *mahatveshma* = big house; *ghambhiiram*
-= inscrutable; *samudramiva* = like an ocean; *nissvanam samudramiva* = like a
-noiseless ocean; *mahaaratna parichchhadam* = with a roof embedded with great diamonds;
-*mahaaratnasamaakiirNam* = filled with great diamonds.
-
-**अनुवादः**
-
-The great Hanuma saw the wealthy Ravana's huge house, inscrutable like an ocean,
-like a noiseless ocean, with a roof embedded with great diamondsand filled with great diamonds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
@@ -1070,6 +1070,36 @@ _________________
 
 **पदच्छेदः**
 
+*21;22. harisattamaH* = the best among Vanaras Hanuma; *jagaama*
+= went; *jambumaaleH* = for the house of Jambumali; *sumaaleshcha* = and for the
+house of Sumali; *saH mahaakapiH* = the great Hanuma; *pupluve* = jumped;
+*rashmiketoH* = for the house of Rasmiketu; *tathaivacha* = and in the same way;
+*suryaketoH* = for the house of Suryaketu; *tathaa* = and in that way;
+*bhavanam* = for the building; *vajrakaayasya* = of Vajrakaaya.
+
+**अनुवादः**
+
+The best among Vanaras Hanuma went for the house of Jambumali and for the house of
+Sumali. The great Hanuma jumped for the house Rasmiketu and in the same way for the house of
+Suryaketu and in that way for the building of Vajrakaaya.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+महायशस्वियाद आ महाकपियु बहुमूल्यवाद आ अरमनॆगळल्लि सञ्चरिसि समृद्धिशालिगळाद राक्षसर अपारवाद सम्पत्तन्नु नोडिदनु. ॥27॥
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+सीतादेवियन्नु हुडुकलु मुन्दुवरियुत्ता मारुतियु रश्मिकेतु, सूर्यशत्रु, वज्रकाय इवर मनॆगळिगू हारिकॊण्डे होदनु. बळिक धूम्राक्ष, सम्पाति, विद्युद्रूप, भीम, घन, विघन मुन्तादवर मनॆगळल्लि नॆगॆ-नॆगॆदु हुडुकिदनु. मुन्दॆ शुकनास, वक्र, शठ, विकट, ह्रस्वकर्ण, दंष्ट्र, लोमश मुन्ताद राक्षसश्रेष्ठर मनॆगळिगू होदनु. अल्लॆल्लू सीतॆयु सिक्कद कारण मुन्दॆ युद्धोन्मत्त, मत्त, ध्वजग्रीव, विद्युज्जिह्व, द्विजिह्व, हस्तिमुख, कराल, पिशाच, शोणिताक्ष इवरॆल्लर मनॆगळिगॆ अनुक्रमवागि हारिकॊण्डे होदनु. ॥22-26॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *23;24;25. maarutaatmajaH* = Hanuma (jumped);
 *dhuumraakshhasaya* = for Dhumrah's house; *sampaateH* = for Sampati's house;
 *vidhudtruupasaya* = for Vidhudrupa's; *bhiimasya* = for Bhimaa's house;
@@ -1095,16 +1125,6 @@ Karala's house, for Pisacha's house, and also for the building of Shonita.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-महायशस्वियाद आ महाकपियु बहुमूल्यवाद आ अरमनॆगळल्लि सञ्चरिसि समृद्धिशालिगळाद राक्षसर अपारवाद सम्पत्तन्नु नोडिदनु. ॥27॥
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-सीतादेवियन्नु हुडुकलु मुन्दुवरियुत्ता मारुतियु रश्मिकेतु, सूर्यशत्रु, वज्रकाय इवर मनॆगळिगू हारिकॊण्डे होदनु. बळिक धूम्राक्ष, सम्पाति, विद्युद्रूप, भीम, घन, विघन मुन्तादवर मनॆगळल्लि नॆगॆ-नॆगॆदु हुडुकिदनु. मुन्दॆ शुकनास, वक्र, शठ, विकट, ह्रस्वकर्ण, दंष्ट्र, लोमश मुन्ताद राक्षसश्रेष्ठर मनॆगळिगू होदनु. अल्लॆल्लू सीतॆयु सिक्कद कारण मुन्दॆ युद्धोन्मत्त, मत्त, ध्वजग्रीव, विद्युज्जिह्व, द्विजिह्व, हस्तिमुख, कराल, पिशाच, शोणिताक्ष इवरॆल्लर मनॆगळिगॆ अनुक्रमवागि हारिकॊण्डे होदनु. ॥22-26॥
-</details>
-
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
 
 **पदच्छेदः**
@@ -1120,26 +1140,6 @@ buildings.
 
 The son of Vayu, one with great fame, great one among Vanaras , moving about in a
 sequence in those and those best buildings, saw the wealth of those rakshasas, who were rich.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*21;22. harisattamaH* = the best among Vanaras Hanuma; *jagaama*
-= went; *jambumaaleH* = for the house of Jambumali; *sumaaleshcha* = and for the
-house of Sumali; *saH mahaakapiH* = the great Hanuma; *pupluve* = jumped;
-*rashmiketoH* = for the house of Rasmiketu; *tathaivacha* = and in the same way;
-*suryaketoH* = for the house of Suryaketu; *tathaa* = and in that way;
-*bhavanam* = for the building; *vajrakaayasya* = of Vajrakaaya.
-
-**अनुवादः**
-
-The best among Vanaras Hanuma went for the house of Jambumali and for the house of
-Sumali. The great Hanuma jumped for the house Rasmiketu and in the same way for the house of
-Suryaketu and in that way for the building of Vajrakaaya.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
@@ -1390,26 +1390,6 @@ _________________
 
 **पदच्छेदः**
 
-*34;35. tatra* = there; *dadarsha* = (Hanuma) saw;
-*niveshane* = in the house; *raavaNasya* = of Ravana; *rakshasendrasya* = the
-king of rakshasas; *vaahiniiH* = army divisions; *sahasram* = in thousands;
-*jaabuunadaparishhkR^itaaH* = decorated with gold; *hemajaalaparichchhannaH* =
-covered with heaps of gold; *taruNaadityasannibhaaH* = equalling the sun who has fully come
-up.
-
-**अनुवादः**
-
-There Hanuma saw in the house of Ravana, the king of rakshasas, army divisions in
-thousands decorated with gold, covered with heaps of gold, equalling the Sun who has fully come
-up.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *31;32;33. saH* = that Hanuma; *tasmingR^ihe* = in that house;
 *dadarsha* = saw; *hariim chaapi* = horses; *raktaan* = in red colour;
 *shvethaan* = in white colour; *stitaamshchaiva* = slightly whitish;
@@ -1432,6 +1412,26 @@ harassing enemy's elephants, skilled in good elephant training, equalling Iraava
 killing enemies armies in war, rutting like raining clouds, like mountains with water falls that
 are pouring down, with trumpeting resembling thundering of clouds, unassailable by enemies in a
 battle.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34;35. tatra* = there; *dadarsha* = (Hanuma) saw;
+*niveshane* = in the house; *raavaNasya* = of Ravana; *rakshasendrasya* = the
+king of rakshasas; *vaahiniiH* = army divisions; *sahasram* = in thousands;
+*jaabuunadaparishhkR^itaaH* = decorated with gold; *hemajaalaparichchhannaH* =
+covered with heaps of gold; *taruNaadityasannibhaaH* = equalling the sun who has fully come
+up.
+
+**अनुवादः**
+
+There Hanuma saw in the house of Ravana, the king of rakshasas, army divisions in
+thousands decorated with gold, covered with heaps of gold, equalling the Sun who has fully come
+up.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>
@@ -1621,22 +1621,6 @@ _________________
 
 **पदच्छेदः**
 
-*41. hariyuudhapaH* = leader of Vanaras; Hanuma; *dadarsha* =
-saw; *shayanaani* = couches; *aasanaanicha* = and seats;mukhyaani = and chief
-vessels; *jaambuunadamayaanyeva* = all made with gold.
-
-**अनुवादः**
-
-Hanuma leader of Vanaras saw couches and seats and chief vessels all made with
-gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *38;39. saH* = That Hanuma; *dadarsha* = saw;
 *bhaanuvantam* = the best among building; *mandaragiriprakhyam* = equalling mount
 Mandara; *mayuurasthaanasamkulam* = filled with pens for peacocks; *aakiirNam* =
@@ -1650,6 +1634,22 @@ riches.
 That Hanuma saw the best among buildings equalling mount Mandara filled with pens
 for peacocks, spread by flag staffs managed by courageous ones like the house of Kubera filled with
 many diamonds and also heaps of riches.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*41. hariyuudhapaH* = leader of Vanaras; Hanuma; *dadarsha* =
+saw; *shayanaani* = couches; *aasanaanicha* = and seats;mukhyaani = and chief
+vessels; *jaambuunadamayaanyeva* = all made with gold.
+
+**अनुवादः**
+
+Hanuma leader of Vanaras saw couches and seats and chief vessels all made with
+gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga6/sundarasans6.htm)
 </details>

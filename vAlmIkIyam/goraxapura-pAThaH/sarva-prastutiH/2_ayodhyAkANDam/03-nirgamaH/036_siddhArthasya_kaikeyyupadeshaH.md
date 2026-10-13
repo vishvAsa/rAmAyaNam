@@ -1294,23 +1294,6 @@ paraphrenalia (like utensils, implements etc) in a vehicle, the king instructed 
 
 **पदच्छेदः**
 
-*26. agaraH raajaa* = king Sagara; *sudhaarmikaH* = the highly
-righteous man; *atyajat* = abandoned; *enam* = him; *iti* = in this manner;
-*kim paapam* = what sin; *raamaH* = Rama; *akarot* = has done; *yena* =
-for which; *uparudhyate* = he was debarred; *evam* = in this way?
-
-**अनुवादः**
-
-"The highly righteous King Sagara abandoned Asamanja for perpetration sinful deeds
-as above. But, what sin Rama has done, for which he was debarred in this way?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *25. saH* = He; *aloDayat* = ransacked; *giridrgraaNi* =
 mountain passes; *gR^ihya* = by taking phaala pitakam = a basket and a shovel;
 *anucharan* = (and) roaming; *sarvaaH* = in all; *dishaH* = directions;
@@ -1320,6 +1303,23 @@ mountain passes; *gR^ihya* = by taking phaala pitakam = a basket and a shovel;
 
 Roaming in all directions as though he has done sinful deeds, he ransacked mountain
 passes, by taking a basket and a shovel.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. agaraH raajaa* = king Sagara; *sudhaarmikaH* = the highly
+righteous man; *atyajat* = abandoned; *enam* = him; *iti* = in this manner;
+*kim paapam* = what sin; *raamaH* = Rama; *akarot* = has done; *yena* =
+for which; *uparudhyate* = he was debarred; *evam* = in this way?
+
+**अनुवादः**
+
+"The highly righteous King Sagara abandoned Asamanja for perpetration sinful deeds
+as above. But, what sin Rama has done, for which he was debarred in this way?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga36/ayodhyasans36.htm)
 </details>

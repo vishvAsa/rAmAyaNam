@@ -992,47 +992,6 @@ _________________
 
 **पदच्छेदः**
 
-*21b, 22a. taata* = oh, father; *eSa* = this is - hence;
-*kaala atyayaH* = time, lapse of - in my coming home; *iti vaakyavidaam varaH* =
-thus, sentence maker the best; *supaarshvaH* = Supaarshva; *etat artham* = all this,
-drift; *samagram* = in entirety; *me pratyavedayat* = to me, informed.
-
-**अनुवादः**
-
-" 'And hence, oh, father, the lapse of time in my returning home...' thus that best
-sentence maker Supaarshva informed me all the drift in its entirety..." Thus Sampaati is continuing
-his narration to monkeys. [4-59- 21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अप्पा! दशरथनन्दन श्रीरामन पत्नी जनक किशोरि सीतॆयु शोकवेगदिन्द पराजितळागिद्दळु. आकॆय आभूषणगळु बीळुत्तिद्दवु हागू रेश्मॆसीरॆयू अस्तव्यस्तवागित्तु. आकॆय कूदलु कॆदरित्तु मत्तु श्रीराम-लक्ष्मणर हॆसरन्नॆत्ति अवरन्नु करॆयुत्तिद्दळु. नानु आकॆय ई दयनीय स्थितियन्नु नोडुत्तले इद्दॆ. इदे ननगॆ विळम्बवाद कारणवागिदॆ. हीगॆ वाक्यविशारद सुपार्श्वनु नन्न ऎदुरिगॆ इदॆल्लवन्नु वर्णिसिदनु. इदॆल्लवन्नु केळियू पराक्रम तोरुव यावुदे विचार नन्नल्लि उण्टागलिल्ल.॥20-22॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*22b, 223a. tat shrutvaa api hi* = that, on listening, even, indeed;
-*me* = to me; *paraakrame* = in daring [Ravana]; *kaacit* = in the least;
-*buddhiH na aasiit* = mind, not, is there - no thought occurred to me; *a pakSaH* =
-without, wings; *pakSii* = a bird; *kimcit karma* = any, action; *katham
-samaarabhet hi* = how, initiates, indeed.
-
-**अनुवादः**
-
-"Even on listening that it has not come to my mind to dare Ravana. How a wingless
-bird can initiate any action, indeed! [4-59-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *19, 20, 21a. tataH aham* = then, I; *parama shobhanaiH* =
 really, divine; *taiH siddhaiH* = by those, siddha-s; *evam uktaH* = thus, said;
 *pashyan* = on their seeing - and on showing to me; *daasharatheH raamasya bhaaryaam*
@@ -1052,6 +1011,47 @@ ornaments and ochry-silk-sari are disorderly, and who is vanquished by the speed
 anguish, and who is yelling both the names of Rama and Lakshmana, as the wife of Dasharatha's Rama,
 the daughter of Janaka. They have also informed on showing him who is abducting her as Ravana, the
 king of demons. [4-59-19, 20, 21a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अप्पा! दशरथनन्दन श्रीरामन पत्नी जनक किशोरि सीतॆयु शोकवेगदिन्द पराजितळागिद्दळु. आकॆय आभूषणगळु बीळुत्तिद्दवु हागू रेश्मॆसीरॆयू अस्तव्यस्तवागित्तु. आकॆय कूदलु कॆदरित्तु मत्तु श्रीराम-लक्ष्मणर हॆसरन्नॆत्ति अवरन्नु करॆयुत्तिद्दळु. नानु आकॆय ई दयनीय स्थितियन्नु नोडुत्तले इद्दॆ. इदे ननगॆ विळम्बवाद कारणवागिदॆ. हीगॆ वाक्यविशारद सुपार्श्वनु नन्न ऎदुरिगॆ इदॆल्लवन्नु वर्णिसिदनु. इदॆल्लवन्नु केळियू पराक्रम तोरुव यावुदे विचार नन्नल्लि उण्टागलिल्ल.॥20-22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21b, 22a. taata* = oh, father; *eSa* = this is - hence;
+*kaala atyayaH* = time, lapse of - in my coming home; *iti vaakyavidaam varaH* =
+thus, sentence maker the best; *supaarshvaH* = Supaarshva; *etat artham* = all this,
+drift; *samagram* = in entirety; *me pratyavedayat* = to me, informed.
+
+**अनुवादः**
+
+" 'And hence, oh, father, the lapse of time in my returning home...' thus that best
+sentence maker Supaarshva informed me all the drift in its entirety..." Thus Sampaati is continuing
+his narration to monkeys. [4-59- 21b, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22b, 223a. tat shrutvaa api hi* = that, on listening, even, indeed;
+*me* = to me; *paraakrame* = in daring [Ravana]; *kaacit* = in the least;
+*buddhiH na aasiit* = mind, not, is there - no thought occurred to me; *a pakSaH* =
+without, wings; *pakSii* = a bird; *kimcit karma* = any, action; *katham
+samaarabhet hi* = how, initiates, indeed.
+
+**अनुवादः**
+
+"Even on listening that it has not come to my mind to dare Ravana. How a wingless
+bird can initiate any action, indeed! [4-59-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhasans59.htm)
 </details>

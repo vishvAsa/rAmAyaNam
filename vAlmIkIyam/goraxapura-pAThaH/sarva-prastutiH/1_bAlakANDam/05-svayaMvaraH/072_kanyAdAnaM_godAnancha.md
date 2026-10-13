@@ -171,6 +171,27 @@ and even it is befitting to the winsome charms of the brides and bridegrooms, bu
 
 **पदच्छेदः**
 
+*4. narashreSTha* = oh the best man [grand sire, that being so]; *mama vaktavyam ca* = mentionable [advisable] by me
+ also; *vacanam shruuyataam* = words, be heard; *yaviiyaan bhraataa* = younger, brother; *eSaH
+raajaa kushadhvajaH* = this, king, Kushadhvaja; *dharmaj~naH* = probity, at home in.
+
+**अनुवादः**
+
+Oh, grand sire, you may listen to my words of advise... this younger brother of yours, king Kushadhvaja, is at home in
+every kind of probity... [1-72-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+नरश्रेष्ठने! मुन्दॆ नानू एनो हेळुवुदिदॆ; केळु - राजने! धर्मज्ञनाद निन्न तम्म कुश ध्वजनिगू इब्बरु कन्यॆयरिरुवरु. अवरु भूमण्डलदल्लि अनुपम सुन्दरियरागिद्दारॆ. नरश्रेष्ठ भूपालने! नानु आ इब्बरु कन्यॆयरन्नु कुमार भरत मत्तु बुद्धिवन्त शत्रुघ्न ई राजकुमाररिगॆ धर्मपत्नियरागिसलु वरण माडुत्तेनॆ.॥4-6॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *5. raajan* = oh king; *narashreSTha* = oh grand sire, Janaka; *ruupeNa bhuvi apratimam* = by looks
 not matchable [nonpareil] in world; *asya dharmaatmanaH* = of this, right-minded [Kushadhvaja's]; *sutaadvayam*
 = pair of daughters; *patnyartham varayaamahe* = we choose for the purpose of wife[to pair off with Bharata and Shatrughna]
@@ -182,11 +203,6 @@ Oh, king, the pair of daughters of this right-minded Kushadhvaja is nonpareil in
 sire, we choose to pair them off with Bharata and Shatrughna... [1-72-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-नरश्रेष्ठने! मुन्दॆ नानू एनो हेळुवुदिदॆ; केळु - राजने! धर्मज्ञनाद निन्न तम्म कुश ध्वजनिगू इब्बरु कन्यॆयरिरुवरु. अवरु भूमण्डलदल्लि अनुपम सुन्दरियरागिद्दारॆ. नरश्रेष्ठ भूपालने! नानु आ इब्बरु कन्यॆयरन्नु कुमार भरत मत्तु बुद्धिवन्त शत्रुघ्न ई राजकुमाररिगॆ धर्मपत्नियरागिसलु वरण माडुत्तेनॆ.॥4-6॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -201,22 +217,6 @@ ca* = for smart Shatrughna, even; *mahaatmanoH tayoH arthe* = for the sake of th
 
 Oh, king, for the sake of those two honourable boys, for that young man Bharata and for that smart man Shatrughna, we opt
 your brother's daughters... [1-72-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*4. narashreSTha* = oh the best man [grand sire, that being so]; *mama vaktavyam ca* = mentionable [advisable] by me
- also; *vacanam shruuyataam* = words, be heard; *yaviiyaan bhraataa* = younger, brother; *eSaH
-raajaa kushadhvajaH* = this, king, Kushadhvaja; *dharmaj~naH* = probity, at home in.
-
-**अनुवादः**
-
-Oh, grand sire, you may listen to my words of advise... this younger brother of yours, king Kushadhvaja, is at home in
-every kind of probity... [1-72-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm)
 </details>

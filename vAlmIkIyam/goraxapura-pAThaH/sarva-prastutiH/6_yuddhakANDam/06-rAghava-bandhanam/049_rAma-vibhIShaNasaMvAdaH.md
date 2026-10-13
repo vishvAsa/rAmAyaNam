@@ -395,23 +395,6 @@ _________________
 
 **पदच्छेदः**
 
-*9. katham* = How; *aashvaasayiSyaami* = shall I console;
-(Sumitra); *vepamaanaam cha* = trembling; *kroshantiim* = and crying out;
-*kurariimiva* = like an osprey; *vivatsaam* = bereft of her son; Lakshmana;
-*yaasyaami yadi* = if I return (to Ayodhya); *tam vinaa* = without Lakshmana.
-
-**अनुवादः**
-
-"How shall I console Sumitra, trembling and crying out like an osprey, bereft of her
-son, if I return to Ayodhya without lakshmana?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. kim nu vakSyaami* = what shall I say; *maataram* = to my
 mother; *kausalyaam* = Kausalya?; *kim nu* = what shall I tell; *kaikeyiim* =
 to Kaikeyi?' katham = and how can I talk; *ambaam* = to my mother; *sumitraam* =
@@ -421,6 +404,23 @@ Sumitra; *putra darshanalaalasaam* = who is keenly sighing for the sight of her 
 
 "What shall I say to my mother, Kausalya or to Kaikeyi? How can I talk to my mother
 Sumitra, sighing for the sight of her son?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. katham* = How; *aashvaasayiSyaami* = shall I console;
+(Sumitra); *vepamaanaam cha* = trembling; *kroshantiim* = and crying out;
+*kurariimiva* = like an osprey; *vivatsaam* = bereft of her son; Lakshmana;
+*yaasyaami yadi* = if I return (to Ayodhya); *tam vinaa* = without Lakshmana.
+
+**अनुवादः**
+
+"How shall I console Sumitra, trembling and crying out like an osprey, bereft of her
+son, if I return to Ayodhya without lakshmana?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
@@ -1357,24 +1357,6 @@ _________________
 
 **पदच्छेदः**
 
-*29. vaanararSabhaaH* = O; foremost of monkeys!; *idam* = this;
-*mitra kaaryam* = friendly act; *kR^itam* = has been done; *bharadbhiH* = by
-you; *sarve* = all of you; *anujJNaataaH* = are being permitted mayaa = by me;
-*arhatha* = you ought; *gantum* = to go; *yatheSTam* = where it seems best to
-you!.
-
-**अनुवादः**
-
-"O. foremost of Monkyes! You have accomplished all this due to your friendship. I
-take leave of you all; go where it seems best to you!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *28. sugriiva* = O; Sugreeva!; *na cha shakyam* = It is not
 possible; *maanushaiH* = for mortals; *atikramitum* = to avoid; *daivam* =
 their destiny; *sugriiva* = O; Sugreeva; *paramtapa* = the tormentator of enemies!;
@@ -1387,6 +1369,24 @@ suhR^idaa = a friend; *vayasyena* = and a comrade; *shakyam* = could do.
 "O, Sugreeva! It is not possible for mortals to avoid their destiny. O, Sugreeva the
 tormentat of enemies! Fearing to fail in your duty, you have done all that which a friend and a
 comrade could do."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. vaanararSabhaaH* = O; foremost of monkeys!; *idam* = this;
+*mitra kaaryam* = friendly act; *kR^itam* = has been done; *bharadbhiH* = by
+you; *sarve* = all of you; *anujJNaataaH* = are being permitted mayaa = by me;
+*arhatha* = you ought; *gantum* = to go; *yatheSTam* = where it seems best to
+you!.
+
+**अनुवादः**
+
+"O. foremost of Monkyes! You have accomplished all this due to your friendship. I
+take leave of you all; go where it seems best to you!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>
@@ -1428,23 +1428,6 @@ comrade could do."
 
 **पदच्छेदः**
 
-*31. tataH* = thereafter; *vibhiiSaNaH* = Vibhishana;
-*sthaapayitvaa* = having establied order; *sarvaaNi* = in all; *a niikaani* =
-the ranks; *gadaa paaNih* = mace in his land; *aajagaama* = come; *tvaritam* =
-quickly; *yatra* = where; *raaghava* = Rama (was then).
-
-**अनुवादः**
-
-Meanwhile, Vibhishana having established order in all the ranks, with mace in his
-hand, came quickly to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *30. sarve* = all; *vaanaraaH* = the monkeys;
 *kR^iSNatarekSaNaaH* = the tawny eyed one; *ye* = who; *shushruvaH* = heard;
 *tasya* = that Rama's; *paridevitam* = lamentation; *ashruuNi vartayaam
@@ -1454,6 +1437,23 @@ chakrire* = allowed tears to fall netraiH = from their eyes.
 
 All the tawny eyed monkeys, who heard Rama's lament thus, allowed tears to fall from
 their eyes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. tataH* = thereafter; *vibhiiSaNaH* = Vibhishana;
+*sthaapayitvaa* = having establied order; *sarvaaNi* = in all; *a niikaani* =
+the ranks; *gadaa paaNih* = mace in his land; *aajagaama* = come; *tvaritam* =
+quickly; *yatra* = where; *raaghava* = Rama (was then).
+
+**अनुवादः**
+
+Meanwhile, Vibhishana having established order in all the ranks, with mace in his
+hand, came quickly to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga49/yuddhasans49.htm)
 </details>

@@ -195,6 +195,23 @@ _________________
 
 **पदच्छेदः**
 
+*3. harisattama* = O the excellent among monkeys; *saH tvam* = you;
+as such; *bhuuyaH* = again; *samutsaahachoditaH* = driven by enthusiasm; *prachintaya*
+= think; *yat* = what; *uttaram* = remains to be done; *kaarya samaarambhe* = in
+undertaking this task.
+
+**अनुवादः**
+
+"O Hanuma the excellent among monkeys! Driven by your enthusiasm again, think what remains
+to be done in undertaking this task."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *4. harisattama* = O Hanuma the best among monkeys!; *asmin kaarya niryoge*
 = In fulfillment of this task; *tvam* = you; *pramaaNam* = are the standard; *hanuman*
 = O Hanuma!; *aasthaaya* = utilizing; *yatnam* = your effort; *bhava* = become;
@@ -207,23 +224,6 @@ _________________
 "O Hanuma the best among monkeys! You are capable of fulfilling this task. O Hanuma!
 Become the one who can remove my misfortunes, by employing your effort. If you think of it carefully,
 your effort will become the one which can remove my misfortunes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*3. harisattama* = O the excellent among monkeys; *saH tvam* = you;
-as such; *bhuuyaH* = again; *samutsaahachoditaH* = driven by enthusiasm; *prachintaya*
-= think; *yat* = what; *uttaram* = remains to be done; *kaarya samaarambhe* = in
-undertaking this task.
-
-**अनुवादः**
-
-"O Hanuma the excellent among monkeys! Driven by your enthusiasm again, think what remains
-to be done in undertaking this task."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
@@ -295,22 +295,6 @@ _________________
 
 **पदच्छेदः**
 
-*6. jJNaatvaa* = getting to know; *maarutaatmajam* = Hanuma; *
-samprasthitam* = ready to set out; *maithilii* = Seetha; *vaakyam* = (the following)
-words; *baaSpagadgadayaa* = with her voice choked by tears.
-
-**अनुवादः**
-
-Getting to know Hanuma ready to set out, Seetha the princess spoke the following words
-with her voice choked by tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5. saH maarutiH* = that Hanuma; *bhiima vikramaH* = of terrific
 prowess; *pratijJNaaya* = having promised; *tatheti* = 'so be it'; *vandya* = offered
 his salutation; *shirasaa* = by bowing his head; *vaidehiim* = to Seetha; *upachakrame*
@@ -320,6 +304,22 @@ his salutation; *shirasaa* = by bowing his head; *vaidehiim* = to Seetha; *upach
 
 That Hanuma of terrific prowess, having promised 'so be it', offered salutation to Seetha
 by bowing his head to her and was set off to go.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. jJNaatvaa* = getting to know; *maarutaatmajam* = Hanuma; *
+samprasthitam* = ready to set out; *maithilii* = Seetha; *vaakyam* = (the following)
+words; *baaSpagadgadayaa* = with her voice choked by tears.
+
+**अनुवादः**
+
+Getting to know Hanuma ready to set out, Seetha the princess spoke the following words
+with her voice choked by tears.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
@@ -905,23 +905,6 @@ _________________
 
 **पदच्छेदः**
 
-*19. tataH* = thereupon; *viikSamaaNaa* = looking punaH punaH = again
-and again; *tam* = (towards) that Hanuma; *prasthitam* = who was going away; *siitaa*
-= Seetha; *sauhaardaat* = kind-heartedly; *anumaanayat* = adored; *vaakyam* = his
-words; *bhartR^isnehaanvitam* = endowed with friendliness for her husband.
-
-**अनुवादः**
-
-Thereupon, looking again and again towards that Hanuma who was going away, Seetha kind-heartedly
-adored his words endowed with friendliness for her husband.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *18. shrutvaa* = hearing; *tat vachanam* = those words; *tasya*
 = of Hanuma; *subhaaSitam* = spoken rightly; *satyam* = and truly; *samyak* = well;
 *jaanakii* = Seetha; *bahumane* = highly respected him; *atha* = thereupon; *
@@ -931,6 +914,23 @@ abraviit* = spoke; *idam* = these; *vachanam cha* = words too.
 
 Hearing those words of Hanuma, spoken rightly and truly well, Seetha held him in great
 respect and proceeded to speak (the following) words:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. tataH* = thereupon; *viikSamaaNaa* = looking punaH punaH = again
+and again; *tam* = (towards) that Hanuma; *prasthitam* = who was going away; *siitaa*
+= Seetha; *sauhaardaat* = kind-heartedly; *anumaanayat* = adored; *vaakyam* = his
+words; *bhartR^isnehaanvitam* = endowed with friendliness for her husband.
+
+**अनुवादः**
+
+Thereupon, looking again and again towards that Hanuma who was going away, Seetha kind-heartedly
+adored his words endowed with friendliness for her husband.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
@@ -1177,15 +1177,15 @@ your disappearance will further torment me, like a burning flame."
 
 **पदच्छेदः**
 
-*25. kathumnu* = how; *khalu* = indeed; *taani* = those;
-*haryR^ikSasainyaani* = troops of monkeys and bears; *tau naravaraatmajauvaa* = or those
-two princes; *tariSyanti* = can cross; *duSpaaram* = the insurmountable; *mahodadhim*
-= great ocean?
+*24. hariishvara* = O best among the monkeys; *viira* = the valiant
+one!; *haryR^ikSeSu* = In the matter of monkeys and bears; tvatsahaayeSu- who are helpmates to
+you; *ayam* = this; *sumahaan* = highly great; *sandehaH* = doubt; *tiSThatiiva*
+= is standing; *agrataH* = before me.
 
 **अनुवादः**
 
-"How indeed can those troops of monkeys and bears or Rama and Lakshmana can cross that
-great insurmountable ocean?"
+"O best among the monkeys! O valiant one! In the matter of monkeys and bears who are
+your helpmates, this highly great doubt is lingering before me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>
@@ -1199,15 +1199,15 @@ great insurmountable ocean?"
 
 **पदच्छेदः**
 
-*24. hariishvara* = O best among the monkeys; *viira* = the valiant
-one!; *haryR^ikSeSu* = In the matter of monkeys and bears; tvatsahaayeSu- who are helpmates to
-you; *ayam* = this; *sumahaan* = highly great; *sandehaH* = doubt; *tiSThatiiva*
-= is standing; *agrataH* = before me.
+*25. kathumnu* = how; *khalu* = indeed; *taani* = those;
+*haryR^ikSasainyaani* = troops of monkeys and bears; *tau naravaraatmajauvaa* = or those
+two princes; *tariSyanti* = can cross; *duSpaaram* = the insurmountable; *mahodadhim*
+= great ocean?
 
 **अनुवादः**
 
-"O best among the monkeys! O valiant one! In the matter of monkeys and bears who are
-your helpmates, this highly great doubt is lingering before me."
+"How indeed can those troops of monkeys and bears or Rama and Lakshmana can cross that
+great insurmountable ocean?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga39/sundarasans39.htm)
 </details>

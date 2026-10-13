@@ -2512,6 +2512,24 @@ in a large jar set with jewels.
 
 **पदच्छेदः**
 
+*57. saH dharmaatmaa nalaH* = that virtuous Nala; *garuDaanila
+vikramaH* = who vied with Garuda (the king of birds) and the wind-god in prowess;
+*sarvaguNaanvitaH* = and who was endowed with all good qualities; *aajahaara* =
+brought; *shiighram* = swiftly; *uttaraat* = from the northern sea.
+
+**अनुवादः**
+
+That virtuous Nala, who vied with Garuda (the king of birds) and the wind-god in
+prowess, and who was endowed with all good qualities, swiftly brought water form the northern
+sea.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *58. tataH* = then; *shatrughnaH* = Shatrughna; *sachivaiH
 saha* = accompanied by the counselors; *nyavedayat* = reported; *tat jalam* =
 about that water; *raamasya abhiShekaaya* = itended for Rama's coronation; *aaniitam*
@@ -2523,24 +2541,6 @@ purohitaaya* = to their chief priest; *suhR^idbhyaH cha* = and friends.
 Then, Shatrughna, accompanied by the counsellors, reported to Vasishta, their chief
 priest and his friends, about that water intended for Rama's coronation brought by those foremost
 of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*57. saH dharmaatmaa nalaH* = that virtuous Nala; *garuDaanila
-vikramaH* = who vied with Garuda (the king of birds) and the wind-god in prowess;
-*sarvaguNaanvitaH* = and who was endowed with all good qualities; *aajahaara* =
-brought; *shiighram* = swiftly; *uttaraat* = from the northern sea.
-
-**अनुवादः**
-
-That virtuous Nala, who vied with Garuda (the king of birds) and the wind-god in
-prowess, and who was endowed with all good qualities, swiftly brought water form the northern
-sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
@@ -2863,23 +2863,6 @@ _________________
 
 **पदच्छेदः**
 
-*70. prachodita* = encouraged; *vaasavena* = by Indra the lord
-of celestials; *vaayuH* = the wind-god; *dadau* = presented; *raaghavaaya* =
-to Rama; *kaan^chaniim maalaam* = a golden garland; *shatapuShkaraam* = having a
-hundred lotuses; *jvalantiim* = and of a shining; *vapuShaa* = form.
-
-**अनुवादः**
-
-Encouraged by Indra, the lord of celestials, the wind-god presented to Rama, a
-golden garland consisting of a hundred lotuses and which looked shining brilliantly.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *68-69.* = shatrughnaH = Shatrughna; *jagraaha* = held;
 *tasya* = over him; *paaN^Duram* = a white; *shubham* = and charming;
 *chhatram* = parasol; *sugriivaH* = Sugreeva; *vaanareshvaraH* = the king of
@@ -2891,6 +2874,23 @@ Vibhishna; *raakShasendraH* = the lord of demons; *apramcha* = another whisk;
 
 Shatrughna held over him, a white and charming parasol; Sugreeva the king of
 monkeys, a white whisk and vibhishana the lord of demons, another whisk shining like the moon.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*70. prachodita* = encouraged; *vaasavena* = by Indra the lord
+of celestials; *vaayuH* = the wind-god; *dadau* = presented; *raaghavaaya* =
+to Rama; *kaan^chaniim maalaam* = a golden garland; *shatapuShkaraam* = having a
+hundred lotuses; *jvalantiim* = and of a shining; *vapuShaa* = form.
+
+**अनुवादः**
+
+Encouraged by Indra, the lord of celestials, the wind-god presented to Rama, a
+golden garland consisting of a hundred lotuses and which looked shining brilliantly.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
@@ -3020,23 +3020,6 @@ Apsaras (celestial nymphs) danced.
 
 **पदच्छेदः**
 
-*74. manujarShabhaH* = Rama the foremost among men; *puurvam* =
-first; *dadau* = gave away; *dvijebhyaH* = to Brahmanas; *sahasrashatam* = a
-hundred thousand; *ashvaanaam* = horses; *tathaa* = and; *gavaamcha* = cows;
-*dhenuunaam* = that have lately calved; *shatavR^iShaan* = and a hundred bulls.
-
-**अनुवादः**
-
-Rama the foremost among men, first gave away to Brahmanas, a hundred thousand horses
-and cows that have lately calved as well as a hundred bulls.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *73. raaghavotsave* = on the occasion of that merriment (of coronation)
 to Rama; *bhuumiH* = the earth; *sasyavatii* = was bearing a rich crop paadapaaH =
 the trees; *babhuuvaH phalavantashcha* = were laden with fruits; *puShpaaNi* = and
@@ -3046,6 +3029,23 @@ flowers; *gandhavanti cha* = endowed with fragrance.
 
 On the occasion of that merriment of coronation to Rama, the earth was bearing a
 rich crop, the trees were laden with fruits and fragrant flowers.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*74. manujarShabhaH* = Rama the foremost among men; *puurvam* =
+first; *dadau* = gave away; *dvijebhyaH* = to Brahmanas; *sahasrashatam* = a
+hundred thousand; *ashvaanaam* = horses; *tathaa* = and; *gavaamcha* = cows;
+*dhenuunaam* = that have lately calved; *shatavR^iShaan* = and a hundred bulls.
+
+**अनुवादः**
+
+Rama the foremost among men, first gave away to Brahmanas, a hundred thousand horses
+and cows that have lately calved as well as a hundred bulls.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
@@ -3187,6 +3187,23 @@ _________________
 
 **पदच्छेदः**
 
+*77. dhR^itimaan* = Rama; the joyful man; *dadau* = presented;
+*aN^gadaaya* = to Angada; *vaaliputraay* = the son of Vali; *aN^gade* = a
+bracelet worn on upper arm; *vaiduuryamaya chitre cha* = conspicuously studded with cat's
+eye gems; *maNiratna vibhuuShite* = and adorned with jewels and gems.
+
+**अनुवादः**
+
+The joyful Rama presented to Angada, the son of Vali, a bracelet worn on upper arm,
+conspicuously studded with cat's eye gems and adorned with jewels and gems.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *78. raamaH* = Rama; *pradadau* = presented; *siitaayai*
 = to Seetha; *anuttamam* = an excellent; *muktaahaaram* = string of pearls;
 *maNipravarajuShTam* = furnished with superior gems; *tam Chandra rashmi samaprabham*
@@ -3197,23 +3214,6 @@ _________________
 
 Rama presented to Seetha, an excellent string of pearls, furnished with superior
 gems, shining like a beam of moon-light; two clean and beautiful raiment and lovely ornaments.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*77. dhR^itimaan* = Rama; the joyful man; *dadau* = presented;
-*aN^gadaaya* = to Angada; *vaaliputraay* = the son of Vali; *aN^gade* = a
-bracelet worn on upper arm; *vaiduuryamaya chitre cha* = conspicuously studded with cat's
-eye gems; *maNiratna vibhuuShite* = and adorned with jewels and gems.
-
-**अनुवादः**
-
-The joyful Rama presented to Angada, the son of Vali, a bracelet worn on upper arm,
-conspicuously studded with cat's eye gems and adorned with jewels and gems.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
@@ -4515,26 +4515,6 @@ _________________
 
 **पदच्छेदः**
 
-*109. shrutvaa* = on hearing; *raama abhiShechanam* = the
-narrative of his coronation; *loke* = in this world; *manujaH* = a person;
-*putrakaamaH* = seeking for sons; *putraan* = (gets) sons; *dhana kaamaH* =
-and a person looking for wealth; *labhatevai* = dhanaani cha = gets the riches;
-*raajaa* = A king; *vijayate* = conquers; *mahiim* = the earth;
-*adhitiShThati* = and overcomes; *ripuun* = his enemies.
-
-**अनुवादः**
-
-On hearing the narrative of his coronation in this world, a person seeking for sons
-gets sons. A person looking for wealth, gets the riches. A king conquers the earth and overcomes
-his enemies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *107-108. loke* = in the world; *yaH naraH* = whoever person;
 *paThet* = reads; *shR^iNuyaat* = and listens to idam = this; *aadikaavyam* =
 foremost lyric; *dharmyam* = which is endowed with righteousness; *yashasyam* = which
@@ -4549,6 +4529,26 @@ In this world, whoever person reads and listens to this foremost lyric derived f
 the speech of a sage, which is endowed with righteousness, conferring fame and longevity, fetching
 victory to kings and as written at first by Valmiki, that person is delivered from all
 misfortune.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*109. shrutvaa* = on hearing; *raama abhiShechanam* = the
+narrative of his coronation; *loke* = in this world; *manujaH* = a person;
+*putrakaamaH* = seeking for sons; *putraan* = (gets) sons; *dhana kaamaH* =
+and a person looking for wealth; *labhatevai* = dhanaani cha = gets the riches;
+*raajaa* = A king; *vijayate* = conquers; *mahiim* = the earth;
+*adhitiShThati* = and overcomes; *ripuun* = his enemies.
+
+**अनुवादः**
+
+On hearing the narrative of his coronation in this world, a person seeking for sons
+gets sons. A person looking for wealth, gets the riches. A king conquers the earth and overcomes
+his enemies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>
@@ -4709,24 +4709,6 @@ _________________
 
 **पदच्छेदः**
 
-*114. ye* = whoever; *shR^iNvanti* = hears; *idam
-kaavyam* = this poetical compositon; *kR^itam* = done; *vaalmiikinaa* = by
-Valmiki; *puraa* = long ago; *te* = they; *pravaasante* = at the conclusion of
-their absence from home; *samaagamya* = coming together; *baandhavaiH saha* = with
-their relatives; *ramante* = get rejoiced.
-
-**अनुवादः**
-
-Whoever hears this poetical composition written by Valmiki long ago, they at the
-conclusion of their absence from home, meet their relatives and get rejoiced.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *113. yaH* = he/she who; *shR^iNoti* = hears;
 *shraddhadhaanaH* = with attention; *jita krodhaH* = and with anger subdued; *idam
 kaaryam* = this poetical composition; *kR^itam* = done; *vaalmiikinaa* = by
@@ -4737,6 +4719,24 @@ Valmiki; *puraa* = long ago; *asau* = that person; *ati tarati* = overcomes;
 
 He or she, who hears with attention and with a subdued anger, this poetic
 composition done by Valmiki long ago, that person overcomes the difficulties.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*114. ye* = whoever; *shR^iNvanti* = hears; *idam
+kaavyam* = this poetical compositon; *kR^itam* = done; *vaalmiikinaa* = by
+Valmiki; *puraa* = long ago; *te* = they; *pravaasante* = at the conclusion of
+their absence from home; *samaagamya* = coming together; *baandhavaiH saha* = with
+their relatives; *ramante* = get rejoiced.
+
+**अनुवादः**
+
+Whoever hears this poetical composition written by Valmiki long ago, they at the
+conclusion of their absence from home, meet their relatives and get rejoiced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm)
 </details>

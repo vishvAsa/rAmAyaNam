@@ -2477,24 +2477,6 @@ _________________
 
 **पदच्छेदः**
 
-*56. viiraaH* = the eminent monkeys; *paatitaaH* = were made to
-fall down; *tvayaa* = by you; *suduSkaran* = a very difficult; *karma* = act;
-*kR^itam* = was done; *sainyaani* = Armies; *bhakSitaanicha* = were devoured;
-*paramam* = a supreme; *yashaH* = renown; *praaptam* = is obtained;
-*te* = to you.
-
-**अनुवादः**
-
-"You struck down eminent monkeys. You have done a very difficult act. You have
-devoured the armies. You obtained a great fame."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *55. dR^iSTvaa* = seeing; *kumbhakarNam* = Kumbhakarna;
 *sthitam* = who stood; *bhakSayantam* = devouring; *plavaN^gamaan* = the
 monkeys; *kapishoNitadigdhaaNgam* = and with his body smeared with the blood of those
@@ -2505,6 +2487,24 @@ following) words:
 
 Seeing Kumbhakarna who stood devouring the monkeys and with his body smeared with
 the blood of the monkeys, Sugreeva spoke as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*56. viiraaH* = the eminent monkeys; *paatitaaH* = were made to
+fall down; *tvayaa* = by you; *suduSkaran* = a very difficult; *karma* = act;
+*kR^itam* = was done; *sainyaani* = Armies; *bhakSitaanicha* = were devoured;
+*paramam* = a supreme; *yashaH* = renown; *praaptam* = is obtained;
+*te* = to you.
+
+**अनुवादः**
+
+"You struck down eminent monkeys. You have done a very difficult act. You have
+devoured the armies. You obtained a great fame."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
@@ -3352,26 +3352,6 @@ _________________
 
 **पदच्छेदः**
 
-*73. dR^iSTvaa* = seeing; *vaanaraaNaam vaahiniim* = the army of
-monkeys; *vidrutaam* = running away; *itastataH* = hither and thither;
-*sugriivam* = and Sugreeva; *vaanaram* = the monkey; *gR^ihiitamcha api* =
-even being taken away; kumbhakarNena; by Kumbhakarna; *matimaan* = the intellectual;
-*hanumaan* = Hanuma; *maarutaatmajaH* = the son of wind-god; *chintayaamaasa*
-= thought (as follows).
-
-**अनुवादः**
-
-Seeing the army of monkeys running away hither and thither and Sgureeva the monkey
-even being taken away by Kumbhakarna, the intellectual Hanuma, the son of wind-god thought as
-follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *72. aadaaya* = having taken; *tam* = that; *hariindram*
 = Sugreeva; *indropamam* = looking like Idnra; *saH* = that Kumbhakarna;
 *indrashatruH* = the adversary of Indra; *indraviiryaH* = and having Indra's prowess;
@@ -3384,6 +3364,26 @@ idam sainyam* = all this army; *saraaghavam* = including Rama; *syaat* = becomes
 While taking away that Sugreeva looking like Indra, Kumbhakarna the adversary of
 Indra and having the prowess of Indra, thought, "If he is killed, all this army including Rama gets
 destroyed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*73. dR^iSTvaa* = seeing; *vaanaraaNaam vaahiniim* = the army of
+monkeys; *vidrutaam* = running away; *itastataH* = hither and thither;
+*sugriivam* = and Sugreeva; *vaanaram* = the monkey; *gR^ihiitamcha api* =
+even being taken away; kumbhakarNena; by Kumbhakarna; *matimaan* = the intellectual;
+*hanumaan* = Hanuma; *maarutaatmajaH* = the son of wind-god; *chintayaamaasa*
+= thought (as follows).
+
+**अनुवादः**
+
+Seeing the army of monkeys running away hither and thither and Sgureeva the monkey
+even being taken away by Kumbhakarna, the intellectual Hanuma, the son of wind-god thought as
+follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
@@ -5883,25 +5883,6 @@ strength, firmly holding a fearful mountain-peak, hurled it towards Rama.
 
 **पदच्छेदः**
 
-*126. tataH* = then; *raamaH* = Rama; *dharmaatmaa* = the
-virtuous man; *bharataagrajaH* = and the elder brother of Bharata; *chichchheda* =
-split; *tasya mahat* = his large; *shR^iN^gam* = mountain-peak; *sharaiH* = by
-arrows; *tadaa* = at that time; *kaaN^chana chitraaN^gaiH* = with variegated bodies
-of gold.
-
-**अनुवादः**
-
-Then, Rama, the virtuous man and the elder brother of Bharata, split the large
-mountain-peak which was hurled by Kumbhakarna at that time, with his variegated arrows made of
-gold.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *125. tam girishR^iN^gam* = (while) that mountain-peak;
 *apraaptam* = had not arrived; *raamaH* = Rama; *punaH* = again;
 *sandhaaya* = fixing together the arrow; *kaarmukam* = and the bow;
@@ -5913,6 +5894,25 @@ ajihmagaiH* = with seven straight-going arrows.
 Wile that mountain peak was still on its way and had not yet reached him Rama,
 fixing together his well-known bow and arrows, split the mountain in the middle, with seven
 straight-going arrows.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*126. tataH* = then; *raamaH* = Rama; *dharmaatmaa* = the
+virtuous man; *bharataagrajaH* = and the elder brother of Bharata; *chichchheda* =
+split; *tasya mahat* = his large; *shR^iN^gam* = mountain-peak; *sharaiH* = by
+arrows; *tadaa* = at that time; *kaaN^chana chitraaN^gaiH* = with variegated bodies
+of gold.
+
+**अनुवादः**
+
+Then, Rama, the virtuous man and the elder brother of Bharata, split the large
+mountain-peak which was hurled by Kumbhakarna at that time, with his variegated arrows made of
+gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
@@ -6422,23 +6422,6 @@ were tormented with the fear of Kumbhakarna and quickly marched towards the demo
 
 **पदच्छेदः**
 
-*138. saH mahaabalaH viiraH* = that mighty and heroic Rama; *parama
-durjayaH* = who was highly unconquerable; *lakSmaNaanucharaH* = accompanied by
-Lakshmana; *sampratasthe* = duly marched forward; *vR^itaH* = surrounded; *taiH
-vaanaragaNaiH* = by those troops of monkeys.
-
-**अनुवादः**
-
-That mighty and heroic Rama, who was highly unconquerable, accompanied by Lakshmana,
-duly marched forward, surrounded by those troops of monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *137. aadaaya* = taking (in his land); *ugram* = a terrific;
 *chaapam* = bow; *bhujaN^gakalpam* = looking like a snake; *dR^iDhajyam* = and
 having a firmly fastened cord; *tapaniiya chitram* = and looking variegated with its crust
@@ -6451,6 +6434,23 @@ his back); *hariin samaashvaasa* = fully restoring the monkeys to confidence;
 Taking in his hand, a terrific bow with a firmly fastened cord looking like a snake
 and looking variegated with its crust of gold, with a quiver full of excellent arrows fastened on
 his back and fully restoring the monkeys to confidence, that Rama quickly marched forward.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*138. saH mahaabalaH viiraH* = that mighty and heroic Rama; *parama
+durjayaH* = who was highly unconquerable; *lakSmaNaanucharaH* = accompanied by
+Lakshmana; *sampratasthe* = duly marched forward; *vR^itaH* = surrounded; *taiH
+vaanaragaNaiH* = by those troops of monkeys.
+
+**अनुवादः**
+
+That mighty and heroic Rama, who was highly unconquerable, accompanied by Lakshmana,
+duly marched forward, surrounded by those troops of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
@@ -6849,24 +6849,6 @@ in the battle-field (as follows):
 
 **पदच्छेदः**
 
-*147. viJNaaya* = coming to know; *ayam* = that he; *raamaH
-iti* = was Rama; *jahaasa* = Kubhakarna laughed; *vikR^ita svanam* = in a
-rebellious tone; *kruddhaH* = he was enraged; *abhyadhaavata* = and ran up towards;
-*hariin* = the monkeys; *vidraavayan* = driving them away; *raNe* = in the
-battle-field.
-
-**अनुवादः**
-
-Coming to know that he was Rama, Kumbhakarna laughed in a rebellious tone and ran up
-enraged towards the monkeys, driving them away in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *146. rakSodhipa* = O leader of the demons; *aagachchha* = come
 on; *maa* = do not; *viSaadam* = regret; *aham* = I; *avasthitaH* =
 stand; *pragR^ihiita chaapaH* = wielding a bow; *yaH tvamavehi* = know me;
@@ -6877,6 +6859,24 @@ you will be; *vichetaaH* = dead; *muhuurtaat* = within a moment.
 
 "O leader of the demons! Come on. Do not regret. I sand, wielding a bow in my hand.
 Know me to be the annihilator of the race of demons. You will be dead within a moment."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*147. viJNaaya* = coming to know; *ayam* = that he; *raamaH
+iti* = was Rama; *jahaasa* = Kubhakarna laughed; *vikR^ita svanam* = in a
+rebellious tone; *kruddhaH* = he was enraged; *abhyadhaavata* = and ran up towards;
+*hariin* = the monkeys; *vidraavayan* = driving them away; *raNe* = in the
+battle-field.
+
+**अनुवादः**
+
+Coming to know that he was Rama, Kumbhakarna laughed in a rebellious tone and ran up
+enraged towards the monkeys, driving them away in the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>
@@ -7827,26 +7827,6 @@ _________________
 
 **पदच्छेदः**
 
-*166. raamaH* = Rama; *apuurayat* = filled up; *tasya
-mukham* = (Kumbhakarna's) mouth; *shitaagraiH sharaiH* = with sharp-pointed arrows;
-*hema pinaddhapuNkhaiH* = having shafts covered with gold; *puurNa vaktraH* = with
-his mouth full of arrows; *na shashaaka* = he was unable; *vaktum* = to speak;
-*chukuuja* = but moaned; *kR^ichchheNa* = with difficulty; *mumuurchha chaapi*
-= and even became unconscious.
-
-**अनुवादः**
-
-Rama filled up Kumbhakarna's mouth with sharply pointed arrows, having shafts
-covered with gold. With his mouth full of arrows, Kumbhakarna was unable to speak. He moaned with
-difficulty and even became unconscious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *165. vidaarya* = widely opening; *vaktram* = his mouth;
 *vaDavaamukhaabham* = like the mouth of a submarine fire; *abhigarjan* = and roaring;
 *nikR^ittabaahuH* = Kumbhakarna; whose arms were chopped off; *vinikR^itta paadaH* =
@@ -7859,6 +7839,26 @@ seize the moon; *antarikSe* = in the sky.
 Widely opening his mouth like the mouth of a submarine fire and roaring, Kumbhakarna
 whose arms and feet were cut off, ran (with thighs) quickly towards Rama, like Rahu the
 seizer-demon going to seize the moon in the sky.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*166. raamaH* = Rama; *apuurayat* = filled up; *tasya
+mukham* = (Kumbhakarna's) mouth; *shitaagraiH sharaiH* = with sharp-pointed arrows;
+*hema pinaddhapuNkhaiH* = having shafts covered with gold; *puurNa vaktraH* = with
+his mouth full of arrows; *na shashaaka* = he was unable; *vaktum* = to speak;
+*chukuuja* = but moaned; *kR^ichchheNa* = with difficulty; *mumuurchha chaapi*
+= and even became unconscious.
+
+**अनुवादः**
+
+Rama filled up Kumbhakarna's mouth with sharply pointed arrows, having shafts
+covered with gold. With his mouth full of arrows, Kumbhakarna was unable to speak. He moaned with
+difficulty and even became unconscious.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm)
 </details>

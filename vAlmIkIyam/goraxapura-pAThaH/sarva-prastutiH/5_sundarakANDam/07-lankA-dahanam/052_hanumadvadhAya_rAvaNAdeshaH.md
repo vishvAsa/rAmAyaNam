@@ -374,15 +374,15 @@ _________________
 
 **पदच्छेदः**
 
-*8. vipashchito.api yadi* = if even learned persons; *tvaadR^ishaH*
-= like you; *gR^ihyante* = are seized; *roSam* = by anger; *tataH* = then; *
-shaastravipashchittvam* = the knowledge of scriptures; *kevalam shrama eva hi* = is indeed
-just a labour in vain.
+*7. tvameva* = you are indeed; *dharmajJNascha* = the knower of what
+is right; *kR^itajJNashcha* = and a person of gratitude; *raajadharma vishaaradaH* = you
+are experienced in royal virtues; *paraavarajJNaH* = you know both the distant and the near;
+*bhuutaanaam* = in beings; *paramaarthavit* = you know the highest truth.
 
 **अनुवादः**
 
-"If even learned persons like you are seized by anger, then the knowledge of scriptures
-is indeed just a labour in vain."
+"You are indeed the knower of what is right. You are a person of gratitude. You are well-versed
+in royal virtues. You know both the distant and the near in beings. You know the highest truth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
@@ -396,15 +396,15 @@ is indeed just a labour in vain."
 
 **पदच्छेदः**
 
-*7. tvameva* = you are indeed; *dharmajJNascha* = the knower of what
-is right; *kR^itajJNashcha* = and a person of gratitude; *raajadharma vishaaradaH* = you
-are experienced in royal virtues; *paraavarajJNaH* = you know both the distant and the near;
-*bhuutaanaam* = in beings; *paramaarthavit* = you know the highest truth.
+*8. vipashchito.api yadi* = if even learned persons; *tvaadR^ishaH*
+= like you; *gR^ihyante* = are seized; *roSam* = by anger; *tataH* = then; *
+shaastravipashchittvam* = the knowledge of scriptures; *kevalam shrama eva hi* = is indeed
+just a labour in vain.
 
 **अनुवादः**
 
-"You are indeed the knower of what is right. You are a person of gratitude. You are well-versed
-in royal virtues. You know both the distant and the near in beings. You know the highest truth."
+"If even learned persons like you are seized by anger, then the knowledge of scriptures
+is indeed just a labour in vain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
@@ -522,23 +522,6 @@ _________________
 
 **पदच्छेदः**
 
-*11. shatru suudana* = O annihilator of enemies!; *na vidyate paapam*
-= there is no sin; *vadhe* = in killing; *paapaanaam* = of sinners; *tasmaat* =
-therefore; *vadhiSyaami* = I shall kill; *enam* = this; *vaanaram* = monkey;
-*paapachaariNam* = who performed sins.
-
-**अनुवादः**
-
-"O Vibhishana, the annihilator of enemies! There is no sin, even if the sinners are killed.
-So, I shall kill this monkey, who performed sins."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *10. shrutvaa* = hearing; *vibhiiSaNa vachaH* = the words of Vibhishana;
 *raavaNaH* = Ravana; *raakSaseshvaraH* = the lord of demons; *aaviSTaH mahataa roSeNa*
 = was enveloped by a great anger; *abraviit* = and spoke; *vaakyam* = (the following)
@@ -548,6 +531,23 @@ words; *uttaran* = in reply.
 
 Hearing the words of Vibhishana, Ravana the lord of demons was greatly enraged and replied
 in the following words:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. shatru suudana* = O annihilator of enemies!; *na vidyate paapam*
+= there is no sin; *vadhe* = in killing; *paapaanaam* = of sinners; *tasmaat* =
+therefore; *vadhiSyaami* = I shall kill; *enam* = this; *vaanaram* = monkey;
+*paapachaariNam* = who performed sins.
+
+**अनुवादः**
+
+"O Vibhishana, the annihilator of enemies! There is no sin, even if the sinners are killed.
+So, I shall kill this monkey, who performed sins."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
@@ -1385,17 +1385,16 @@ _________________
 
 **पदच्छेदः**
 
-*27. mahaabalaH* = the mighty; *raakSasaraaja mukhyaH* = and eminent
-king of demons; *adhipaH* = the lord; *nishaacharaaNaam* = of ogres; *suralokashatruH*
-= and the adversary of the world of celestials; *jagraaha* = understood; *iSTam* = the
-cherished; *uttam vaakyam* = and excellent message; *amyasya vibhiiSaNasya* = of Vibhishana
-his brother; *buddhyaa* = with his presence of mind.
+*26. tat* = therefore; *kechit* = some; *tava aadesha kR^itaH*
+= who follow your command; *abhiyaantu* = go; *ekadeshena* = with a portion; *balasya*
+= of your army; *vinigR^ihya* = subjugating; *tau* = those; *muuDhyau raajaputrau*
+= two stupid princes; *bhaavayitum* = and to protect; *te* = your; *prabhaavam*
+= power; *pareSu* = on the enemies.
 
 **अनुवादः**
 
-Ravana, the mighty and the eminent king of demons as also the lord of ogres and the adversary
-of the world of celestials, understood the cherished and excellent message of Vibhishana his brother
-with his due presence of mind."
+"Therefore, let some who follow your command, by talking a portion of your army, subjugate
+those two stupid princes, in order to make your power known to your adversaries."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>
@@ -1409,16 +1408,17 @@ with his due presence of mind."
 
 **पदच्छेदः**
 
-*26. tat* = therefore; *kechit* = some; *tava aadesha kR^itaH*
-= who follow your command; *abhiyaantu* = go; *ekadeshena* = with a portion; *balasya*
-= of your army; *vinigR^ihya* = subjugating; *tau* = those; *muuDhyau raajaputrau*
-= two stupid princes; *bhaavayitum* = and to protect; *te* = your; *prabhaavam*
-= power; *pareSu* = on the enemies.
+*27. mahaabalaH* = the mighty; *raakSasaraaja mukhyaH* = and eminent
+king of demons; *adhipaH* = the lord; *nishaacharaaNaam* = of ogres; *suralokashatruH*
+= and the adversary of the world of celestials; *jagraaha* = understood; *iSTam* = the
+cherished; *uttam vaakyam* = and excellent message; *amyasya vibhiiSaNasya* = of Vibhishana
+his brother; *buddhyaa* = with his presence of mind.
 
 **अनुवादः**
 
-"Therefore, let some who follow your command, by talking a portion of your army, subjugate
-those two stupid princes, in order to make your power known to your adversaries."
+Ravana, the mighty and the eminent king of demons as also the lord of ogres and the adversary
+of the world of celestials, understood the cherished and excellent message of Vibhishana his brother
+with his due presence of mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga52/sundarasans52.htm)
 </details>

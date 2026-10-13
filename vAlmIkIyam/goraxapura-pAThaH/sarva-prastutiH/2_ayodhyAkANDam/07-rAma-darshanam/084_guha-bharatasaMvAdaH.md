@@ -600,24 +600,6 @@ _________________
 
 **पदच्छेदः**
 
-*13. kaakutthsa* = O; *Bharata! Tasmaat* = for that reason;
-*guhaH* = (let) Guha; *niSaadaadhiphaH* = the king of Nishadas; *pashyatu* =
-see; *tvaam* = you; *vijaaniite* = (He) knows; *asamshayam* = surely;
-*yatra* = where; *tau* = those; *raamalakshmaNau* = Rama and Lakshmana (are
-there).
-
-**अनुवादः**
-
-"O, Bharata! For that reason, let Guha the king of Nishadas see you. He knows surely
-where those two Rama and Lakshmana - are stationed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. eSaH* = this; *sthapatiH* = Lord; *parivaaritaH* =
 who is surrounded; *jJNaati sahasresha* = by a thousand of his own people; *kushalaH*
 = is fully acquainted; *daN^kaaraaN^ye* = with the forest of Dandaka; *vR^iddhaH* =
@@ -628,6 +610,24 @@ brother.
 
 "This Lord who is surrounded by a thousand of his own people, is fully acquainted
 with the forest of Dandaka and also an old friend of your elder brother."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. kaakutthsa* = O; *Bharata! Tasmaat* = for that reason;
+*guhaH* = (let) Guha; *niSaadaadhiphaH* = the king of Nishadas; *pashyatu* =
+see; *tvaam* = you; *vijaaniite* = (He) knows; *asamshayam* = surely;
+*yatra* = where; *tau* = those; *raamalakshmaNau* = Rama and Lakshmana (are
+there).
+
+**अनुवादः**
+
+"O, Bharata! For that reason, let Guha the king of Nishadas see you. He knows surely
+where those two Rama and Lakshmana - are stationed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm)
 </details>

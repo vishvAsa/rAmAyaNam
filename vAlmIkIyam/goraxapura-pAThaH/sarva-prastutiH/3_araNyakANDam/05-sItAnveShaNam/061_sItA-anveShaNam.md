@@ -582,18 +582,15 @@ _________________
 
 **पदच्छेदः**
 
-*15, 16a. priya* = fascinated; *kaanana* = in woodlands; *sancaaraa* = saunterer
-- Seetha; *vana unmattaa ca* = for water [here, not forest but waters,] infatuated, even; *
-saa maithilii* = she that, Maithili; *vanam vaa* = in forest, either; *su puSpitaam naliniim
-vaa* = well, bloomed, in lotus-lake, or; *praviSTaa syaat* = entered, she will be - she might
-have; *miina vanjula sevitaam* = by fishes, cane-breaks, one which is adorned by; *saritam
-vaa api* = to river, or, even; *sampraaptaa* = reached.
+*14. mahaa buddhe* = oh, well-informed one; *viSaadam maa* = = desperation, do not [get
+into]; *mayaa saha yatnam kuru* = me, along with, efforts, you make; *viira* = oh, brave
+one; *idam giri varam* = this, mountain, the best; *bahu kandara shobhitam* = many, caves,
+beaming forth with; she may be somewhere there.
 
 **अनुवादः**
 
-"Maithili is a fascinated saunterer in woodlands so she might have entered the forest, she is even infatuated
-with waters, so she might have gone to the fully bloomed lotus-lake, or to the river that is adorned
-by fishes and cane-breaks. [3-61-15]
+"Oh, well-informed one, do not get into desperation, you make efforts along with me, and oh, brave one,
+this best mountain is beaming forth with many caves, she may be there somewhere. [3-61-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
@@ -607,15 +604,18 @@ by fishes and cane-breaks. [3-61-15]
 
 **पदच्छेदः**
 
-*14. mahaa buddhe* = oh, well-informed one; *viSaadam maa* = = desperation, do not [get
-into]; *mayaa saha yatnam kuru* = me, along with, efforts, you make; *viira* = oh, brave
-one; *idam giri varam* = this, mountain, the best; *bahu kandara shobhitam* = many, caves,
-beaming forth with; she may be somewhere there.
+*15, 16a. priya* = fascinated; *kaanana* = in woodlands; *sancaaraa* = saunterer
+- Seetha; *vana unmattaa ca* = for water [here, not forest but waters,] infatuated, even; *
+saa maithilii* = she that, Maithili; *vanam vaa* = in forest, either; *su puSpitaam naliniim
+vaa* = well, bloomed, in lotus-lake, or; *praviSTaa syaat* = entered, she will be - she might
+have; *miina vanjula sevitaam* = by fishes, cane-breaks, one which is adorned by; *saritam
+vaa api* = to river, or, even; *sampraaptaa* = reached.
 
 **अनुवादः**
 
-"Oh, well-informed one, do not get into desperation, you make efforts along with me, and oh, brave one,
-this best mountain is beaming forth with many caves, she may be there somewhere. [3-61-14]
+"Maithili is a fascinated saunterer in woodlands so she might have entered the forest, she is even infatuated
+with waters, so she might have gone to the fully bloomed lotus-lake, or to the river that is adorned
+by fishes and cane-breaks. [3-61-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
@@ -711,22 +711,6 @@ _________________
 
 **पदच्छेदः**
 
-*19. lakSmaNena* = by Lakshmana; *sau haardaat* = owing to good-heart; *evam uktaH*
-= this way, who is spoken to; *raamaH* = Rama; *samaahitaH* = self-collectedly [Rama];
-*saumitriNaa saha* = Soumitri, with; *vicetum upacakrame* = to search, made headway.
-
-**अनुवादः**
-
-When Lakshmana good-heartedly spoke this way, Rama self-collectedly made a headway for the search of
-Seetha along with Soumitri. [3-61-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *18. kaakutstha* = oh, Kakutstha Rama; *manyase yadi* = you consider, if; *saa janaka
 aatmajaa* = she, Janaka's, daughter; *yatra* = [to locate] where [she might be]; *sarvam
 vanam vicinuvaH* = in entirety, forest, let us search; *shoke* = in sadness; *manaH*
@@ -737,6 +721,22 @@ vanam vicinuvaH* = in entirety, forest, let us search; *shoke* = in sadness; *ma
 "Oh, Rama of Kakutstha, if you consider that we shall search the forest in its entirety to locate where
 she that Janaka's daughter might be, let us quickly do so. But do not engulf your heart in sadness."
 Thus Lakshmana advised Rama. [3-61-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19. lakSmaNena* = by Lakshmana; *sau haardaat* = owing to good-heart; *evam uktaH*
+= this way, who is spoken to; *raamaH* = Rama; *samaahitaH* = self-collectedly [Rama];
+*saumitriNaa saha* = Soumitri, with; *vicetum upacakrame* = to search, made headway.
+
+**अनुवादः**
+
+When Lakshmana good-heartedly spoke this way, Rama self-collectedly made a headway for the search of
+Seetha along with Soumitri. [3-61-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>
@@ -782,6 +782,22 @@ Thus Lakshmana advised Rama. [3-61-18]
 
 **पदच्छेदः**
 
+*20. tau* = those two; *dasharatha aatmajau* = Dasharatha's, sons; *vanaani giriin
+caiva* = forests, mountains, also thus; *saritaH ca saraamsi ca* = rivers, also, lakes, also;
+*nikhilena* = thoroughly; *siitaam* = for Seetha; *vicinvantau* = started searching.
+
+**अनुवादः**
+
+Those two sons of Dasharatha have started a thorough search for Seetha in forests, on mountains, also
+thus at rivers and lakes. [3-61-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *21. tasya shailasya saanuuni* = that, [that mountain where their cottage is there - Chitrakuta,]
 mountain's, on sides; *shilaaH [guhaaH] ca shikharaaNi ca* = crags, even, peaks, also; *nikhilena*
 = whole of; *vicinvantau* = on searching; *na eva taam abhi jagmatuH* = not, thus, her,
@@ -791,22 +807,6 @@ towards, go [found.]
 
 On searching whole of mountainsides of that Mt. Chitrakuta, where their hermitage is there, even in
 its caves, crags, and mountain peaks they have not found Seetha. [3-61-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*20. tau* = those two; *dasharatha aatmajau* = Dasharatha's, sons; *vanaani giriin
-caiva* = forests, mountains, also thus; *saritaH ca saraamsi ca* = rivers, also, lakes, also;
-*nikhilena* = thoroughly; *siitaam* = for Seetha; *vicinvantau* = started searching.
-
-**अनुवादः**
-
-Those two sons of Dasharatha have started a thorough search for Seetha in forests, on mountains, also
-thus at rivers and lakes. [3-61-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga61/aranyasans61.htm)
 </details>

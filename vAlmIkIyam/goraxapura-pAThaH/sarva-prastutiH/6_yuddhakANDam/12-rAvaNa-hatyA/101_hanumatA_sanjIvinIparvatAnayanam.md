@@ -296,23 +296,6 @@ _________________
 
 **पदच्छेदः**
 
-*8. bhraataram* = my brother; *abhihatam* = has been struck
-down; *duraatmanaa* = by the evil-minded; *raavaNena* = Ravana; *abhihatam
-bhR^isham* = seriously wounded; *marmaNi* = in his vital parts; *duHkhaartam* =
-afflicted with agony; *viShTanantam* = and grooming.
-
-**अनुवादः**
-
-"My brother has been struck down by the evil-minded Ravana, seriously wounded in his
-vital parts, afflicted with agony and groaming."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *7. gaatraaNi* = my limbs; *avasiidanti* = seem to sink down;
 *nR^iNaam iva* = like those of men; *svapnayaane* = in sleep; *chintaa* =
 tension; *vartate* = is; *tiivraa* = growing; *me* = in me; *jaayate
@@ -322,6 +305,23 @@ mumuurShaapi* = I even wish to die.
 
 "My limbs seem to sink down, like those of men in sleep. I have a serious tension,
 growing in me. I even wish to die."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. bhraataram* = my brother; *abhihatam* = has been struck
+down; *duraatmanaa* = by the evil-minded; *raavaNena* = Ravana; *abhihatam
+bhR^isham* = seriously wounded; *marmaNi* = in his vital parts; *duHkhaartam* =
+afflicted with agony; *viShTanantam* = and grooming.
+
+**अनुवादः**
+
+"My brother has been struck down by the evil-minded Ravana, seriously wounded in his
+vital parts, afflicted with agony and groaming."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
@@ -1096,23 +1096,6 @@ for his part, addressed the following excellent words:
 
 **पदच्छेदः**
 
-*26. lakShmaNaH* = Lakshmana; *lakShmivardhanaH* = the augmenter
-of prosperity; *naina aapannaH* = has not got; *paN^chatvam* = into death;
-*asya* = his; *vaktram* = countenance; *na vikR^itam hi* = is not changed;
-*naagatam shyaamatvam* = nor has it became dark.
-
-**अनुवादः**
-
-"Lakshmana, the augmenter of prosperity, has not got into death. His countenance is
-not changed, nor has it become dark."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *25. navashaarduula* = O the excellent among men!; *tyaja* =
 give up; *buddhim* = this notion; *vaiklabyakaariNiim* = which causes despondency in
 you; *imaam chintaam* = this anguish; *shoka samjananiim* = which gives rise to
@@ -1124,6 +1107,23 @@ forefront of battle.
 "O the excellent among men! Give up this notion, which causes despondency in you,
 this anguish which gives rise to grief and is as piercing as arrows, in the forefront of
 battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. lakShmaNaH* = Lakshmana; *lakShmivardhanaH* = the augmenter
+of prosperity; *naina aapannaH* = has not got; *paN^chatvam* = into death;
+*asya* = his; *vaktram* = countenance; *na vikR^itam hi* = is not changed;
+*naagatam shyaamatvam* = nor has it became dark.
+
+**अनुवादः**
+
+"Lakshmana, the augmenter of prosperity, has not got into death. His countenance is
+not changed, nor has it become dark."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>
@@ -2236,23 +2236,6 @@ tone, spoke the following words:
 
 **पदच्छेदः**
 
-*53. satyavaadinaH* = those who speak the truth; *na kurvanti
-hi* = do not make; *pratijJNaam* = their promise; *vitathaam* = futile;
-*pratijJNapaalanam* = fulfilling their pledge; *lakShaNam hi* = is indeed the
-attribute; *mahattvasya* = of the moral amplitude.
-
-**अनुवादः**
-
-"There is no purpose of mine, by me own life nor of Seetha nor of victory. If you
-have attained demise, tell me what significance is there for it to me?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *52. satya paraakramaa* = O brother; true to your promise!; *na
 arhasi* = you ought not; *vaktum* = to speak; *evam* = like this; *iha* =
 now; *kashchidiva* = like somebody; *asattvah* = who has no courage; *laghuH*
@@ -2263,6 +2246,23 @@ killing Ravana); *puraa* = before.
 
 "Having solemnly taken that pledge (of killing Ravana) before, O brother true to
 your promise, you ought not to speak as you have done like a weak and courageless man."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*53. satyavaadinaH* = those who speak the truth; *na kurvanti
+hi* = do not make; *pratijJNaam* = their promise; *vitathaam* = futile;
+*pratijJNapaalanam* = fulfilling their pledge; *lakShaNam hi* = is indeed the
+attribute; *mahattvasya* = of the moral amplitude.
+
+**अनुवादः**
+
+"There is no purpose of mine, by me own life nor of Seetha nor of victory. If you
+have attained demise, tell me what significance is there for it to me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga101/yuddhasans101.htm)
 </details>

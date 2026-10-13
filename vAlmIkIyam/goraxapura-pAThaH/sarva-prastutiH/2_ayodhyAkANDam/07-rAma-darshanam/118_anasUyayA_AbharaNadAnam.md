@@ -1026,23 +1026,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. yashasvinii* = the illustrious; *siitaa* = Seetha;
-*pratigR^ihya* = having accepted; *tat* = those; *priitidaanam* = gifts of
-love; *shliSTaajJNalipuTaa* = with joined palms; *samupaasta* = sat near;
-*tapodhanaam* = that female ascetic.
-
-**अनुवादः**
-
-Having accepted those gifts of love, the illustrious Seetha with joined palms, sat
-near that female ascetic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *21. saa maithilii* = that Seetha; *pratijagraaha* = accepted;
 *vastram* = the apparel; *aNgaraagam cha* = the scented cosmetic;
 *bhuuSaNaani* = the jewels; *tathaa* = and; *srajaH* = the garlands;
@@ -1052,6 +1035,23 @@ near that female ascetic.
 
 Seetha accepted the apparel, the scented cosmetic, the jewels and the garlands as
 unsurpassed gifts of love.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. yashasvinii* = the illustrious; *siitaa* = Seetha;
+*pratigR^ihya* = having accepted; *tat* = those; *priitidaanam* = gifts of
+love; *shliSTaajJNalipuTaa* = with joined palms; *samupaasta* = sat near;
+*tapodhanaam* = that female ascetic.
+
+**अनुवादः**
+
+Having accepted those gifts of love, the illustrious Seetha with joined palms, sat
+near that female ascetic.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>
@@ -2143,23 +2143,6 @@ lift it up, the princes offered salutation to it and went away."
 
 **पदच्छेदः**
 
-*45. dharmaatmaa* = the pious souled; *vishvaamitrastu* =
-Visvamitra; *supuujitaH* = having been worshipped well; *mama pitraa* = by my
-father;bhraatarau = about the two brothers; *raama lakSmaNau* = Rama and Lakshmana;
-*tatra* = there.
-
-**अनुवादः**
-
-"The pious-souled Visvamitra, having been received well by my father said to my
-father, (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *44. sudiirghasya kaalasya* = after a very long time; *ayam
 raamaH* = this Rama; *raaghavaH* = born in Raghu dynasty; *mahaa dyutiH* = with a
 great splendour; *satya paraakramaH* = possessing a true valour; *lakSmaNena saha* =
@@ -2172,6 +2155,23 @@ sacrifice.
 "After a very long time, this Rama born in Raghu dynasty with a great splendour
 possessing a true valour, along with his brother Lakshmana together with a sage Visvamitra, came to
 witness a sacrifice."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. dharmaatmaa* = the pious souled; *vishvaamitrastu* =
+Visvamitra; *supuujitaH* = having been worshipped well; *mama pitraa* = by my
+father;bhraatarau = about the two brothers; *raama lakSmaNau* = Rama and Lakshmana;
+*tatra* = there.
+
+**अनुवादः**
+
+"The pious-souled Visvamitra, having been received well by my father said to my
+father, (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhyasans118.htm)
 </details>

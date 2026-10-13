@@ -135,6 +135,24 @@ he became self-pitying, and said to Ravana, 'let us go.' [3-42-1]
 
 **पदच्छेदः**
 
+*2. aham* = I; *shara caapa asi dhaariNaa* = arrow, bow, sword,
+by the wielder of; *mat vadhaH udyata shastreNa* = for my, killing, [if he with] upraised,
+[his] weapon; *tena* = by him [Rama]; *punaH dR^iSTaaH* = again, I am seen [if seen];
+*me jiivitam vi naSTam* = my, life, is verily lost.
+
+**अनुवादः**
+
+"If he who wields a bow, arrows and a sword, and who brandishes a weapon to only
+kill me happens to see me again, deem my life is verily lost, without his shooting any arrow.
+[3-42-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *3. raamam paraakramya* = at Rama, to affront - make so bold;
 *jiivan* = while living; *na* = will not; *prati nivartate* = returns
 [resurrects]; *hi* = isn't it; *yama daNDa hatasya* = by Yama [ the Terminator,] with
@@ -146,24 +164,6 @@ reflected, image; *te* = [before] you; *vartate* = carrying on - is appearing.
 "None can really make so bold at Rama to reappear with life, isn't it. What is
 appearing before you is the reflected image of mine, as I am already slain by the wand of Yama, the
 Terminator, the moment I conceded to your demand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*2. aham* = I; *shara caapa asi dhaariNaa* = arrow, bow, sword,
-by the wielder of; *mat vadhaH udyata shastreNa* = for my, killing, [if he with] upraised,
-[his] weapon; *tena* = by him [Rama]; *punaH dR^iSTaaH* = again, I am seen [if seen];
-*me jiivitam vi naSTam* = my, life, is verily lost.
-
-**अनुवादः**
-
-"If he who wields a bow, arrows and a sword, and who brandishes a weapon to only
-kill me happens to see me again, deem my life is verily lost, without his shooting any arrow.
-[3-42-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
@@ -537,6 +537,23 @@ surroundings of Maareecha's hermitage. [3-42-9, 10a]
 
 **पदच्छेदः**
 
+*10b, 11a. tathaa eva* = like that; *tatra* = there - en route;
+*pattanaani vanaani ca* = seaports, forests, also; *giriim ca sarvaaH saritaaH* =
+mountains, also, rivers, all of them; *raaSTraaNi nagaraaNi ca* = provinces, cities, even;
+*pashyantau [yayatuH]* = while seeing - they travelled.
+
+**अनुवादः**
+
+While looking at the seaports and forests, also at all the mountains and rivers,
+even at the cities and provinces en route they proceeded. [3-42-10b, 11a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *11b, 12a. saha mariicaH* = with, Maareecha; *raakSasa adhipaH
 raavaNaH* = king, of demons, Ravana; *daNDaka araNyam sametya* = Dandaka, forest, on
 reaching; tataH raaghavasya aashramam dadarsha then, Raghava's, hermitage, he has seen.
@@ -550,23 +567,6 @@ seen the hermitage of Raghava. [3-42-11b, 12a]
 
 Please refer to the endnote for the Ancient Indian way of classification of
 villages, towns, and cities as per Indian architecture called *vaastu shaastra*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*10b, 11a. tathaa eva* = like that; *tatra* = there - en route;
-*pattanaani vanaani ca* = seaports, forests, also; *giriim ca sarvaaH saritaaH* =
-mountains, also, rivers, all of them; *raaSTraaNi nagaraaNi ca* = provinces, cities, even;
-*pashyantau [yayatuH]* = while seeing - they travelled.
-
-**अनुवादः**
-
-While looking at the seaports and forests, also at all the mountains and rivers,
-even at the cities and provinces en route they proceeded. [3-42-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
@@ -763,6 +763,31 @@ _________________
 
 **पदच्छेदः**
 
+*15b, 16a. saH* = he - Maareecha; *adbhuta darshanam* = superbly
+amazing, in appearance; *mahat ruupam* = gorgeous, form; *sam aasthaaya* = verily, on
+adopting; *maNi pravara shR^inga agraH* = sapphire blue [in the hue of,] the best, horn,
+with tips; *sita a sita mukha aakR^itiH* = whitish, not, so whitish, face's, in look; such
+a; *mR^igaH bhuutvaa vicacaara* = deer, on becoming, he moved about.
+
+**अनुवादः**
+
+Adopting the form of a gorgeous deer which is superbly amazing just by its
+appearance, whose tips of antlers are in the hue of best sapphires, and whose face is whitish at
+some places and not so whitish at other in its look, he became a Golden Deer and moved thereabout.
+[3-42-15b, 16a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+आग अवनु नोडलु बहळ अद्भुत रूपवन्नु धरिसिद्दनु. अदर कॊम्बिन तुदिगळु श्रेष्ठ इन्द्रनील मणियन्तॆ काणुत्तिद्दवु. तलॆय भागदल्लि बिळि मत्तु कप्पु चुक्कॆगळिद्दवु. मुखवु कॆम्पु कमलदन्तॆ इत्तु. अदर किविगळु नीलकमलगळन्तॆ इद्दवु, कत्तु मेलक्कॆत्तिदन्तॆ इत्तु. हॊट्टॆय भागवु इन्द्रनीलमणियन्तॆ शुभ्रवागित्तु. शरीर बङ्गार बण्णद कमल केसरदन्तॆ सुशोभितवागित्तु.॥15-17॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *16b, 17a. rakta padma utpala mukha* = red, lotus [on one side,] blue
 lotus, [on the other,] face [cheeks]; *indra niila utpala shravaaH* = Indra, Blue
 [sapphirine in hue,] [bloomed] blue-lotus like, ears; *kimcit abhi unnata griiva* = a
@@ -780,11 +805,6 @@ Indra-niila-maNi, and with a little upraised neck that deer has moved about ther
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-आग अवनु नोडलु बहळ अद्भुत रूपवन्नु धरिसिद्दनु. अदर कॊम्बिन तुदिगळु श्रेष्ठ इन्द्रनील मणियन्तॆ काणुत्तिद्दवु. तलॆय भागदल्लि बिळि मत्तु कप्पु चुक्कॆगळिद्दवु. मुखवु कॆम्पु कमलदन्तॆ इत्तु. अदर किविगळु नीलकमलगळन्तॆ इद्दवु, कत्तु मेलक्कॆत्तिदन्तॆ इत्तु. हॊट्टॆय भागवु इन्द्रनीलमणियन्तॆ शुभ्रवागित्तु. शरीर बङ्गार बण्णद कमल केसरदन्तॆ सुशोभितवागित्तु.॥15-17॥
-</details>
-
 <details><summary>Desiraju Hanumanta Rao</summary>
 
 **पदच्छेदः**
@@ -800,26 +820,6 @@ cohered - limbs; *vicacaara* = moved about.
 One flank is shining whitish like Madhuka flowers and the other is similar to the
 roseate fibrils of lotuses, while its hooves are similar to the gemstone lapis, calves thin, and
 thus with very well cohered limbs that deer moved about there. [3-42-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*15b, 16a. saH* = he - Maareecha; *adbhuta darshanam* = superbly
-amazing, in appearance; *mahat ruupam* = gorgeous, form; *sam aasthaaya* = verily, on
-adopting; *maNi pravara shR^inga agraH* = sapphire blue [in the hue of,] the best, horn,
-with tips; *sita a sita mukha aakR^itiH* = whitish, not, so whitish, face's, in look; such
-a; *mR^igaH bhuutvaa vicacaara* = deer, on becoming, he moved about.
-
-**अनुवादः**
-
-Adopting the form of a gorgeous deer which is superbly amazing just by its
-appearance, whose tips of antlers are in the hue of best sapphires, and whose face is whitish at
-some places and not so whitish at other in its look, he became a Golden Deer and moved thereabout.
-[3-42-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>
@@ -1430,23 +1430,6 @@ indulgently, only for the reason of camouflaging his present nature of demon-hoo
 
 **पदच्छेदः**
 
-*31b, 32a. madira iikSaNaa* = one with inebriating, glances; *rucira
-ananaa* = one with delightful, visage; such Seetha; *karNikaaraan ashokaan ca cuutaam
-ca* = Karnikaara, Ashoka, also, Chuuta, also; *kusumaani apacinvantii cacaara* =
-flowers, while plucking, moved about.
-
-**अनुवादः**
-
-And she with her inebriating glances and delightful visage moved there about while
-plucking flowers of Karnikaara, Ashoka, and of Mango trees. [3-42-31b, 32a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *30b, 21a. tataH* = what is more; *tasmin eva kaale* = at that,
 only, at time - in the same instant; *shubha locanaa vaidehii* = one with felicitous, eyes,
 Vaidehi; *kusuma apacaye vyagraa* = flowers, in plucking, yearning for; *paadapaan
@@ -1456,6 +1439,23 @@ abhyavartata [abhi a vartata]* = to trees, towards, she came.
 
 What is more, Vaidehi with her felicitous eyes came towards trees yearning for
 plucking the flowers in the same instant. [3-42-30b, 31a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*31b, 32a. madira iikSaNaa* = one with inebriating, glances; *rucira
+ananaa* = one with delightful, visage; such Seetha; *karNikaaraan ashokaan ca cuutaam
+ca* = Karnikaara, Ashoka, also, Chuuta, also; *kusumaani apacinvantii cacaara* =
+flowers, while plucking, moved about.
+
+**अनुवादः**
+
+And she with her inebriating glances and delightful visage moved there about while
+plucking flowers of Karnikaara, Ashoka, and of Mango trees. [3-42-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga42/aranyasans42.htm)
 </details>

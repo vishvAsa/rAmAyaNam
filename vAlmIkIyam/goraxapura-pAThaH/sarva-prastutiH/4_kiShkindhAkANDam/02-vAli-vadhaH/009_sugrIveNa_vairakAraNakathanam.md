@@ -1011,23 +1011,6 @@ concealing it. [4-9-19, 20]
 
 **पदच्छेदः**
 
-*22b, 23a. abhishiktam tu maam dR^iSTvaa* = who is crowned, but, me, on
-seeing; *kopaat* = in anger; *sam rakta locanaH* = well, reddened, eyes;
-*madiiyaan* = of me; *mantriNaH* = ministers; *baddhvaa* = arrested;
-*paruSam vaakyam abraviit* = rude, sentences, spoke.
-
-**अनुवादः**
-
-But on seeing me crowned his eyes were reddened in anger, and he arrested all my
-ministers as he spoke rudely. [4-9-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *21, 22a. tataH* = then; *sametaiH taiH samaagamya* = all of
 them [the ministers,] by those ministers, summoned; *aham abhishecitaH* = I am, crowned;
 Raghava; *tasya mama* = such as I am, by me; *raajyam nyaayataH pra shaasataH* =
@@ -1039,6 +1022,23 @@ daanavam hatvaa* = enemy, demon, on killing; *aajagaama* = he returned.
 Then duly summoned by all of those ministers I was crowned, and while I was ruling
 the kingdom judiciously, oh, Raghava, that semi-human Vali returned on killing that demoniac enemy.
 [4-9-21, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22b, 23a. abhishiktam tu maam dR^iSTvaa* = who is crowned, but, me, on
+seeing; *kopaat* = in anger; *sam rakta locanaH* = well, reddened, eyes;
+*madiiyaan* = of me; *mantriNaH* = ministers; *baddhvaa* = arrested;
+*paruSam vaakyam abraviit* = rude, sentences, spoke.
+
+**अनुवादः**
+
+But on seeing me crowned his eyes were reddened in anger, and he arrested all my
+ministers as he spoke rudely. [4-9-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga9/kishkindhasans9.htm)
 </details>

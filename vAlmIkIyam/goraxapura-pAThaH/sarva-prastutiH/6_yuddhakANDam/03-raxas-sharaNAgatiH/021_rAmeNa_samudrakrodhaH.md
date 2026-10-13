@@ -408,23 +408,6 @@ while sleeping on the ground spread with Kusha grass, spent a time of three nigh
 
 **पदच्छेदः**
 
-*12. abhipuujitaH api* = though honored; *raameNa* = by Rama;
-*prayatena* = the self subdued; *yathaarham* = according to his worth; *manda*
-= the care less; *saagaraH* = ocean; *nachadarshayate* = did not show;
-*ruupam* = his personal form; *raamasya* = to Rama.
-
-**अनुवादः**
-
-Though honored according to his worth by the self subdued Rama, the careless ocean
-did not appear in his personal form to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *11. tadaa* = then; *raamaH* = Rama; *nayajN^aH* = who
 was skilled in policy; *dharmavatsalaH* = and fond of piety; *triraatroshhitaH* =
 remaining for three nights ;tatra = there; *upaasata* = waiting upon; *saagaram* =
@@ -434,6 +417,23 @@ the ocean; *sritaam patim* = the Lord of rivers.
 
 Remaining there for three nights, Rama who was skilled in policy and fond of piety,
 waited upon the ocean, the lord of rivers.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. abhipuujitaH api* = though honored; *raameNa* = by Rama;
+*prayatena* = the self subdued; *yathaarham* = according to his worth; *manda*
+= the care less; *saagaraH* = ocean; *nachadarshayate* = did not show;
+*ruupam* = his personal form; *raamasya* = to Rama.
+
+**अनुवादः**
+
+Though honored according to his worth by the self subdued Rama, the careless ocean
+did not appear in his personal form to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga21/yuddhasans21.htm)
 </details>

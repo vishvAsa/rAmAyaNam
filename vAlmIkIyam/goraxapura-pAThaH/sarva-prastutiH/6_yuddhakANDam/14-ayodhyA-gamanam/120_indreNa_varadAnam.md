@@ -831,6 +831,31 @@ _________________
 
 **पदच्छेदः**
 
+*17. tataH* = thereupon; *sarve hariyuuthapaaH* = all those
+monkey-warriors; *samutthitaaH* = got up; *sustvaiva* = as of from a sleep;
+*samaiH gaatraiH* = with even limbs; *idaaniim* = now; *nirvraNaiH* = without
+any wounds; *prathamam savraNaiH* = which were injured earlier; *vaanaraaH* = all the
+mokeys; *babhuuvuH* = became; *vismitaaH* = surprised; *etat kim nu iti* =
+saying to one another; "what (miracle) is this?"
+
+**अनुवादः**
+
+Thereupon, all those monkey-warriors got up, as if from a sleep, with all their
+limbs completely healed of wounds. All the monkeys felt surprised, saying to one another "What
+miracle is this?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अवरु हीगॆ जीवन्तगॊण्डिरुवुदन्नु नोडि ऎल्ल वानररु आश्चर्यचकितरागि इदेनायितु? ऎन्दु हेळतॊडगिदरु. सफल मनोरथवाद श्रीरामचन्द्रनन्नु नोडि समस्त श्रेष्ठदेवतॆगळु अत्यन्त प्रसन्नरागि लक्ष्मणसहित श्रीरामनन्नु स्तुतिसुत्ता हेळिदरु- राजने! ईग नीवु अय्योध्यॆगॆ तॆरळिरि हागू समस्तवानररन्नु बीळ्कॊडिरि.॥17-19॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *18. dR^iShTvaa* = seeing; *kaakutthsam* = Rama;
 *paripuurNaartham* = whose wish has been fully realised; *sarve* = all;
 *surottamaaH* = the foremost of celestials; *parama priitaaH* = with a great delight;
@@ -843,11 +868,6 @@ Seeing Rama, whose wish has been fully realised, all the foremost of celestials,
 with a great delight, spoke praisingly to Rama and Lakshmana:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अवरु हीगॆ जीवन्तगॊण्डिरुवुदन्नु नोडि ऎल्ल वानररु आश्चर्यचकितरागि इदेनायितु? ऎन्दु हेळतॊडगिदरु. सफल मनोरथवाद श्रीरामचन्द्रनन्नु नोडि समस्त श्रेष्ठदेवतॆगळु अत्यन्त प्रसन्नरागि लक्ष्मणसहित श्रीरामनन्नु स्तुतिसुत्ता हेळिदरु- राजने! ईग नीवु अय्योध्यॆगॆ तॆरळिरि हागू समस्तवानररन्नु बीळ्कॊडिरि.॥17-19॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -864,26 +884,6 @@ you.
 
 "O monarch! Proceed to Ayodhya from here and disband the monkeys. Reassure this
 illustrious and devoted Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*17. tataH* = thereupon; *sarve hariyuuthapaaH* = all those
-monkey-warriors; *samutthitaaH* = got up; *sustvaiva* = as of from a sleep;
-*samaiH gaatraiH* = with even limbs; *idaaniim* = now; *nirvraNaiH* = without
-any wounds; *prathamam savraNaiH* = which were injured earlier; *vaanaraaH* = all the
-mokeys; *babhuuvuH* = became; *vismitaaH* = surprised; *etat kim nu iti* =
-saying to one another; "what (miracle) is this?"
-
-**अनुवादः**
-
-Thereupon, all those monkey-warriors got up, as if from a sleep, with all their
-limbs completely healed of wounds. All the monkeys felt surprised, saying to one another "What
-miracle is this?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga120/yuddhasans120.htm)
 </details>

@@ -74,23 +74,6 @@ _________________
 
 **पदच्छेदः**
 
-*2. raajaa sarva j~naH* = king, all, knowing - knowledgeable - Sugreeva;
-*sarva vaanara sattama* = among all, vanara-s, powerful one [Sugreeva]; *tadaa* =
-thereafter; *aatma hitam* = for himself, advantageous; *hitam raamasya ca* =
-beneficial, for Rama, even; *vaakyam uvaaca* = words, spoke.
-
-**अनुवादः**
-
-That knowledgeable and the powerful one among all monkeys, King Sugreeva, spoke
-words to Shatabala that are advantageous to himself, and beneficial to Rama as well. [4-43-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1. vaanara iishvara sugriivaH* = vanara-s', king, Sugreeva;
 *shvashuram pashcimaam disham sandishya* = father-in-law, to westerly, direction, on
 sending; *tataH* = then; *shatabalim naama* = Shatabali, named; *viiram
@@ -100,6 +83,23 @@ vaanaram* = to valorous, vanara; *[uvaaca* = spoke to.]
 
 On sending his father-in-law, namely Susheshana, to westerly direction then the king
 of Vanara-s Sugreeva, spoke to a valorous vanara named Shatabali. [4-43-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. raajaa sarva j~naH* = king, all, knowing - knowledgeable - Sugreeva;
+*sarva vaanara sattama* = among all, vanara-s, powerful one [Sugreeva]; *tadaa* =
+thereafter; *aatma hitam* = for himself, advantageous; *hitam raamasya ca* =
+beneficial, for Rama, even; *vaakyam uvaaca* = words, spoke.
+
+**अनुवादः**
+
+That knowledgeable and the powerful one among all monkeys, King Sugreeva, spoke
+words to Shatabala that are advantageous to himself, and beneficial to Rama as well. [4-43-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
@@ -150,23 +150,6 @@ _________________
 
 **पदच्छेदः**
 
-*4. vikraanta* = oh, venturesome one - Shatabala; *hima shaila
-avatansikaam* = [the north that has] snowy, mountains, as its crown; *udiiciim disham* =
-northern, quarter; *yashasviniim raama patniim* = glorious, Rama's, for wife; *sarvataH
-parimaargadhvam* = everywhere, scouted out.
-
-**अनुवादः**
-
-"Oh, venturesome Shatabala, you scout out whole of the northern quarter that has
-snowy Himalayan mountains as its crown for the glorious wife of Rama. [4-43-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *3. tvat vidhaanaam* = your, kind of; *vana okasaam* = forest,
 dwellers [monkeys]; *shata sahasreNa* = with a hundred, thousand; *vR^itaH* =
 surrounded with - accompanied with; *sarva mantribhiH* = with all, misters; *vaivasvata
@@ -177,6 +160,23 @@ proceed.
 
 "Accompanied with a hundred thousand forest-dwelling monkeys of your kind, and also
 with all of your ministers who the sons of Yama, the Terminator, you have to proceed. [4-43-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. vikraanta* = oh, venturesome one - Shatabala; *hima shaila
+avatansikaam* = [the north that has] snowy, mountains, as its crown; *udiiciim disham* =
+northern, quarter; *yashasviniim raama patniim* = glorious, Rama's, for wife; *sarvataH
+parimaargadhvam* = everywhere, scouted out.
+
+**अनुवादः**
+
+"Oh, venturesome Shatabala, you scout out whole of the northern quarter that has
+snowy Himalayan mountains as its crown for the glorious wife of Rama. [4-43-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>
@@ -2053,6 +2053,23 @@ around lakes, which lakes will be surrounding that province with a resplendence 
 
 **पदच्छेदः**
 
+*42. tatra* = there; *niH tulaabhiH ca muktaabhiH* = un,
+weighable [incomparable,] also, with pearls; *mahaa dhanaiH maNibhiH ca* = with highly,
+valuable, jewels; *nimnagaaH* = deep flowing rivers; *jaataruupaiH* = with gold;
+*udbhuuta pulinaaH* = mixed, sand dunes - will be there.
+
+**अनुवादः**
+
+"There the sand dunes of deep flowing rivers are lumped together with incomparable
+pearls, highly valuable jewels and gold. [4-43-42]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *43. citraiH* = amazing ones [mountains]; *sarva ratnamayaiH* =
 all, jewels filled with; *jaataruupamayaiH ca api* = golden in aspect also; *hutaashana
 sama prabhaiH* = to Ritual-fire, similar, in splendour; *naga uttamaiH* = with mountain,
@@ -2070,23 +2087,6 @@ Perhaps these poetic accounts of golden, jewelled riverbanks and golden lotuses
 etc. might have attracted the then invaders towards India, presuming that the loot is over there on
 the riverbanks like sand. However mythical these accounts might be, they portray that the lands and
 rivers are self-contained and self-sufficient.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*42. tatra* = there; *niH tulaabhiH ca muktaabhiH* = un,
-weighable [incomparable,] also, with pearls; *mahaa dhanaiH maNibhiH ca* = with highly,
-valuable, jewels; *nimnagaaH* = deep flowing rivers; *jaataruupaiH* = with gold;
-*udbhuuta pulinaaH* = mixed, sand dunes - will be there.
-
-**अनुवादः**
-
-"There the sand dunes of deep flowing rivers are lumped together with incomparable
-pearls, highly valuable jewels and gold. [4-43-42]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga43/kishkindhasans43.htm)
 </details>

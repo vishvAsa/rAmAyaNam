@@ -290,23 +290,6 @@ _________________
 
 **पदच्छेदः**
 
-*7. bhavantaH* = you; *kurvantu* = act; *tathaa* = in
-such a way; *yathaa* = that; *ime* = these; *duraatmanaH* = evil-minded;
-*vanaukasaH* = monkeys; *na yudhyeyuH* = do not carry on the fight (with me);
-*mayi* = while I; *praviShTe* = enter; *nagaram* = the city.
-
-**अनुवादः**
-
-"You act in such a way so that these evil-minded monkeys do not carry on their fight
-(with me) while enter the city."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *6. bhavantaH* = you; *dhR^iShTam* = courageously;
 *yudhyantu* = fight; *mohanaaya* = so as to stupefy; *hariiNaam* = the
 monkeys; *aham tu* = I; on my part; *aagamiShyaami* = will come; *samyuge* =
@@ -316,6 +299,23 @@ to the battle; *aasthaaya* = after ascending; *ratham* = a chariot.
 
 "You courageously fight, so as to stupefy the monkeys. I, on my part, will return to
 the battle-field, ascending another chariot."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. bhavantaH* = you; *kurvantu* = act; *tathaa* = in
+such a way; *yathaa* = that; *ime* = these; *duraatmanaH* = evil-minded;
+*vanaukasaH* = monkeys; *na yudhyeyuH* = do not carry on the fight (with me);
+*mayi* = while I; *praviShTe* = enter; *nagaram* = the city.
+
+**अनुवादः**
+
+"You act in such a way so that these evil-minded monkeys do not carry on their fight
+(with me) while enter the city."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
@@ -1461,23 +1461,6 @@ having reached Lakshmana's armour with a golden hue, got destroyed.
 
 **पदच्छेदः**
 
-*35. taiH pR^iShtkaiH* = with those arrows; *lalaaTasthaiH* =
-planted in his forehead; *raghunandanaH* = Lakshmana; *samavashalaaghii* = who had
-delight in battle; *shushubhe* = shone; *parvataH iva* = like a mountain;
-*trishR^iNgaH* = with three peaks; *raNaagre* = in the battle-field.
-
-**अनुवादः**
-
-With those three arrows planted in his forehead, Lakshmana who was fond of fighting,
-shone like a mountain with its three peaks, in the battle-field.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 33; *34. matvaa* = understanding; *lakShmanam* = Lakshmana;
 *abheyakavacham* = to have been protected by an impenetrable armour; *pradarshayan* =
 and showing; *shiighram* = his swiftness; *astram* = in discharging missiles;
@@ -1491,6 +1474,23 @@ and showing; *shiighram* = his swiftness; *astram* = in discharging missiles;
 Understanding Lakshmana to have been protected by an impenetrable armour and showing
 his swiftness in discharging missiles, Indrajit the son of Ravana, who felt very much angered,
 pierced Lakshmana in the forehead with three arrows provided with good plumes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. taiH pR^iShtkaiH* = with those arrows; *lalaaTasthaiH* =
+planted in his forehead; *raghunandanaH* = Lakshmana; *samavashalaaghii* = who had
+delight in battle; *shushubhe* = shone; *parvataH iva* = like a mountain;
+*trishR^iNgaH* = with three peaks; *raNaagre* = in the battle-field.
+
+**अनुवादः**
+
+With those three arrows planted in his forehead, Lakshmana who was fond of fighting,
+shone like a mountain with its three peaks, in the battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
@@ -2607,23 +2607,6 @@ world, employed a missile presided over by Agni the god of fire which was blazin
 
 **पदच्छेदः**
 
-*60. tasmaat chaapaat* = from that bow; *bhaasvaraa* = blazing;
-*kuuTamudgaraaH* = weapon similar to a hammer; duly hidden; *shuulaanicha* = darts;
-*bhushuNDyashcha* = fire arms; *gadaaH* = maces; *khaDgaaH* = swords;
-*parashvadhaaH* = axes; *viniShpetuH* = rushed forth.
-
-**अनुवादः**
-
-From that bow, blazing weapon similar to a hammer duly hidden, darts, fire arms,
-maces, swords and axes rushed forth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *59. viiraH* = the valiant; *lakShmaNah* = Lakshmana;
 *paryavaarat* = obstructed; *tat* = it; *saureNa astreNa* = by a missile
 presided over by the sun-god; *dR^iShTvaa* = finding; *asstram* = his missile;
@@ -2636,6 +2619,23 @@ baaNam* = arrow used by demons; *shatrudaaraNam* = and capable of tearing an ene
 The valiant Lakshmana obstructed Agni-missile, by a missile presided over by the
 sun-god. Finding his missile repelled, Indrajit was filled with anger and took hold of a sharp
 arrow used by demons and capable of tearing down an enemy.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*60. tasmaat chaapaat* = from that bow; *bhaasvaraa* = blazing;
+*kuuTamudgaraaH* = weapon similar to a hammer; duly hidden; *shuulaanicha* = darts;
+*bhushuNDyashcha* = fire arms; *gadaaH* = maces; *khaDgaaH* = swords;
+*parashvadhaaH* = axes; *viniShpetuH* = rushed forth.
+
+**अनुवादः**
+
+From that bow, blazing weapon similar to a hammer duly hidden, darts, fire arms,
+maces, swords and axes rushed forth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
@@ -2855,21 +2855,17 @@ _________________
 
 **पदच्छेदः**
 
-67; *68. viiraH* = the heroic Lakshmana (fitted); *sharam* = the
-arrow; *supatram* = having beautiful plumes; *anuvR^ittaaN^gam* = which consisted of
-rounded parts; *suparvaaNam* = well-jointed; *susamsthitam* = skillfully fashioned;
-*suvarNa vikR^itam* = decked with gold; *shariiraantakaram* = which was capable of
-destroying the body of the enemies; *duraavaaram* = not difficult to keep off;
-*durviShaham* = but difficult even to tolerate; *bhayaaraham* = which was source of
-terror; *raakShasaanaam* = to the demons; *aashiiviShaviShaprakhyam* = deadly as the
-venom of poisonous snakes; *samarchitam* = and duly honoured by the hosts of gods.
+*65. puraskR^itya shatukratum* = placing Indra the Lord of Celestials
+as their head; *R^iShayaH* = the sages; *pitaraH* = manes; *devaaH* = gods;
+*gandharva garuDoragaaH* = Gandharvas the celestial musicians; eagles and serpents;
+*rarakShuH* = protected; *lakShmaNam* = Lakshmana; *raNe* = in the
+battle-field.
 
 **अनुवादः**
 
-The heroic Lakshmana fitted the arrow, having beautiful plumes, which consisted of
-rounded parts, well-jointed, skillfully fashioned, decked with gold, capable of destroying the body
-of the enemies, not difficult to keep off but difficult even to tolerate, a source of terror to the
-demons as deadly as the venom of poisonous snakes and duly honoured by the host of gods.
+Placing Indra the lord of celestials as their head, the sages, manes, gods,
+Gandharvas the celestial musicians, eagles and serpents protected Lakshmana in the
+battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
@@ -2900,6 +2896,29 @@ and which can tear down Indrajit.
 
 **पदच्छेदः**
 
+67; *68. viiraH* = the heroic Lakshmana (fitted); *sharam* = the
+arrow; *supatram* = having beautiful plumes; *anuvR^ittaaN^gam* = which consisted of
+rounded parts; *suparvaaNam* = well-jointed; *susamsthitam* = skillfully fashioned;
+*suvarNa vikR^itam* = decked with gold; *shariiraantakaram* = which was capable of
+destroying the body of the enemies; *duraavaaram* = not difficult to keep off;
+*durviShaham* = but difficult even to tolerate; *bhayaaraham* = which was source of
+terror; *raakShasaanaam* = to the demons; *aashiiviShaviShaprakhyam* = deadly as the
+venom of poisonous snakes; *samarchitam* = and duly honoured by the hosts of gods.
+
+**अनुवादः**
+
+The heroic Lakshmana fitted the arrow, having beautiful plumes, which consisted of
+rounded parts, well-jointed, skillfully fashioned, decked with gold, capable of destroying the body
+of the enemies, not difficult to keep off but difficult even to tolerate, a source of terror to the
+demons as deadly as the venom of poisonous snakes and duly honoured by the host of gods.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *69. puraa* = earlier; *yena* = with the help of that arrow;
 *mahaatejaaH* = the highly powerful; *viiryavaan* = and valiant; *shakraH* =
 Indra; *prabhuH* = the lord (of celestials); *harivaahanaH* = who had green horses to
@@ -2911,25 +2930,6 @@ yuddhe* = in a combat which raged between celestials and demons.
 With the help of that arrow, the highly powerful and valiant Indra, the lord of
 celestials, who had green horses to his chariot, was able to conquer the demons in a combat which
 raged between celestials and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*65. puraskR^itya shatukratum* = placing Indra the Lord of Celestials
-as their head; *R^iShayaH* = the sages; *pitaraH* = manes; *devaaH* = gods;
-*gandharva garuDoragaaH* = Gandharvas the celestial musicians; eagles and serpents;
-*rarakShuH* = protected; *lakShmaNam* = Lakshmana; *raNe* = in the
-battle-field.
-
-**अनुवादः**
-
-Placing Indra the lord of celestials as their head, the sages, manes, gods,
-Gandharvas the celestial musicians, eagles and serpents protected Lakshmana in the
-battle-field.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>
@@ -3755,6 +3755,23 @@ _________________
 
 **पदच्छेदः**
 
+*87. tasmin raakShase* = while that demon; *paapakarmaNi* = of
+sinful deeds; *nihate* = having been killed; *bhagavaan shakraH* = the illustrious
+Indra the ruler of gods; *sarveH maharShibhiH saha* = along with all the great sages;
+*jagaama harSham* = obtained rejoice.
+
+**अनुवादः**
+
+While that demon of sinful deeds is having been killed, the illustrious Indra the
+ruler of gods along with all the great sages were rejoiced.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *88. aakaashe cha* = in the sky too; *shushruve* = was leard;
 *dundubhiH svanaH* = the sound of large drums; *devaanaam* = of celestials;
 *nR^ityadbhiH apsarobhiH* = of dancing Apsaras the celestial nymphs; *mahaatmabhiH
@@ -3765,23 +3782,6 @@ gandharvaishcha* = and of the great souled Gandharvas the celestial musicians.
 In the sky too was heard the sound of large drums played by celestials, the melody
 produced by dancing Apsaras the celestial nymphs and the songs of Gandharvas the celestial
 musicians.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*87. tasmin raakShase* = while that demon; *paapakarmaNi* = of
-sinful deeds; *nihate* = having been killed; *bhagavaan shakraH* = the illustrious
-Indra the ruler of gods; *sarveH maharShibhiH saha* = along with all the great sages;
-*jagaama harSham* = obtained rejoice.
-
-**अनुवादः**
-
-While that demon of sinful deeds is having been killed, the illustrious Indra the
-ruler of gods along with all the great sages were rejoiced.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhasans90.htm)
 </details>

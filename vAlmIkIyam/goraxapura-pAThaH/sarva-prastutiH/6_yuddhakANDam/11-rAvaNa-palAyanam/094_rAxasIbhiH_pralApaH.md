@@ -519,23 +519,6 @@ yearning for Seetha, is enough indeed (to convince Ravana of Rama's strength and
 
 **पदच्छेदः**
 
-*15. samkhye* = In the battle; *sharaiH* = with his arrows;
-*aaditya samkaashaiH* = resembling the sun; *kharashcha* = Khara; *nihataH* =
-was killed; *duuShaNaH* = DushaNa; *tathaa* = and; *trishiraaH* = Trishira
-(were killed); *tat* = that; nidarshanam- instance; *paryaaptam* = is sufficient.
-
-**अनुवादः**
-
-"In that battle, Khara, Dushana and Trishira were killed with arrows resembling the
-sun. That instance should have been sufficient (to open the eyes of Ravana)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14. janasthaane* = In Janasthana; *chaturdasha* = fourteen;
 *sahasraaNi* = thousand; *bhiimakarmaNaam rakShasaam* = demons doing terrific feats;
 *nihataani* = were killed (by Rama); *sharaiH* = with his arrows;
@@ -545,6 +528,23 @@ sun. That instance should have been sufficient (to open the eyes of Ravana)."
 
 "In Janasthana, Rama killed fourteen thousand demons who were doing terrific feats,
 with his arrows resembling tongues of fire."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. samkhye* = In the battle; *sharaiH* = with his arrows;
+*aaditya samkaashaiH* = resembling the sun; *kharashcha* = Khara; *nihataH* =
+was killed; *duuShaNaH* = DushaNa; *tathaa* = and; *trishiraaH* = Trishira
+(were killed); *tat* = that; nidarshanam- instance; *paryaaptam* = is sufficient.
+
+**अनुवादः**
+
+"In that battle, Khara, Dushana and Trishira were killed with arrows resembling the
+sun. That instance should have been sufficient (to open the eyes of Ravana)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>
@@ -728,23 +728,6 @@ the eyes of Ravana)."
 
 **पदच्छेदः**
 
-*20. yadi* = if; *dhanadaanujaH* = Ravana; *kuryaat sma*
-= followed; *vibhiiShaNa vachah* = Vibhishana's words; *idam laN^kaa* = this Lanka;
-*na bhaviShyati* = would not have become; *shmashaana bhuutaa* = a burial ground;
-*duHkhaartaa* = visited by sorrow.
-
-**अनुवादः**
-
-"Had Ravana followed Vibhishana's advice, this Lanka would not have become a burial
-ground, tormented by sorrow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19. yuktam vaakyam* = the appropriate words; *uktam* = spoken;
 *vibhiiShaNena* = by Vibhishana; *dharmaartha sahitam* = conformable to duty and
 interest; *hitam* = as also beneficial; *sarveShaam rakShasaam* = to all the demons;
@@ -756,6 +739,23 @@ ignorance.
 "The appropriate advice tendered by Vibhishana which was conformable to duty and
 interest of Ravana as also beneficial to all the demons, was not to the liking to him, due to his
 ignorance."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. yadi* = if; *dhanadaanujaH* = Ravana; *kuryaat sma*
+= followed; *vibhiiShaNa vachah* = Vibhishana's words; *idam laN^kaa* = this Lanka;
+*na bhaviShyati* = would not have become; *shmashaana bhuutaa* = a burial ground;
+*duHkhaartaa* = visited by sorrow.
+
+**अनुवादः**
+
+"Had Ravana followed Vibhishana's advice, this Lanka would not have become a burial
+ground, tormented by sorrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga94/yuddhasans94.htm)
 </details>

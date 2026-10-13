@@ -1356,24 +1356,6 @@ _________________
 
 **पदच्छेदः**
 
-*30. devii* = oh; *queen! tat* = hence; *bruuhi* = tell;
-*vachanam* = the words; *yat* = which; *abhikaaNkshhitam* = are desired;
-*raaJNyaH* = by the king; *pratijaanecha* = I even promise; *karishhye* = to
-do; *raamaH* = Rama; *naabhibhaashhate* = does not speak; *dviH* = two
-things.
-
-**अनुवादः**
-
-"Oh queen! Tell me the words of the king as desired by him. I even promise to do it.
-Rama does not speak two things."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 28; *29. aho devii* = Oh; *queen! dhik* = what a pity! naarhasi
 = you are not worthy; *vaktum* = to talk; *iidR^isham* = theses type of ;
 *vachaH* = words; *maam* = about me; *hi* = because; *vachanaat* = by
@@ -1388,6 +1370,24 @@ who is venerable; *bhakshhayeyam* = I shall eat; *tiikshhNam* = fiery;
 "Oh, queen! what a pity! Do not talk like that to me. If father tells me, I shall
 jump even in fire. If father, who is a king, who wishes my welfare and who is venerable, commands
 me, I shall eat fiery poison and shall sink into an ocean."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. devii* = oh; *queen! tat* = hence; *bruuhi* = tell;
+*vachanam* = the words; *yat* = which; *abhikaaNkshhitam* = are desired;
+*raaJNyaH* = by the king; *pratijaanecha* = I even promise; *karishhye* = to
+do; *raamaH* = Rama; *naabhibhaashhate* = does not speak; *dviH* = two
+things.
+
+**अनुवादः**
+
+"Oh queen! Tell me the words of the king as desired by him. I even promise to do it.
+Rama does not speak two things."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga18/ayodhyasans18.htm)
 </details>

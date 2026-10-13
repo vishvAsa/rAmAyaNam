@@ -126,6 +126,23 @@ and sainted lady who is dressed in black deerskin and conducting herself in prob
 
 **पदच्छेदः**
 
+*2. idam [vayam] praviSTaaH sahasaa* = here, [we,] entered, suddenly;
+*bilam timira samvR^itam* = cavity, with darkness, overspread; *kSut pipaasaa
+parishraantaaH* = with hunger, thirst, overtired; *pari khinnaaH ca sarvashaH* =
+overawed, also, anywise.
+
+**अनुवादः**
+
+"Overtired with hunger and thirst we are overawed anywise, and we suddenly entered
+this cavity, which is overspread with darkness..." [Thus Hanuma is speaking to her.] [4-51-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *3, 4. mahat dharaNyaa vivaram* = extensive, earth's, hollow;
 *praviSTaaH sma pipaasitaaH* = entered, we, thirstily; *imaam tu evam vidhaan
 bhaavaan* = these, but, this, kind of, mansion; *vividhaan adbhuta upamaan* = diverse,
@@ -141,23 +158,6 @@ these diverse and marvellous mansions we are verily amazed [presuming that this 
 some demon,] and we are agitated [in not knowing dos and don'ts,] and agonised [at our
 incarceration...] whose trees are all these golden ones, splendent like young sun... [4-51-3,
 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*2. idam [vayam] praviSTaaH sahasaa* = here, [we,] entered, suddenly;
-*bilam timira samvR^itam* = cavity, with darkness, overspread; *kSut pipaasaa
-parishraantaaH* = with hunger, thirst, overtired; *pari khinnaaH ca sarvashaH* =
-overawed, also, anywise.
-
-**अनुवादः**
-
-"Overtired with hunger and thirst we are overawed anywise, and we suddenly entered
-this cavity, which is overspread with darkness..." [Thus Hanuma is speaking to her.] [4-51-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
@@ -206,22 +206,6 @@ this cavity, which is overspread with darkness..." [Thus Hanuma is speaking to h
 
 **पदच्छेदः**
 
-*6b, 7a. puSpitaaH phaalavantaH ca* = flowered, fruited, also;
-*puNyaaH surabhi gandhayaH* = auspicious, scented, aromatically; *ime jaambuunadamayaaH
-paadapaaH* = these, completely golden, trees; *kasya tejasaa* = by whose, splendour.
-
-**अनुवादः**
-
-"Flowered and fruited and also aromatically scented are these auspicious and
-completely golden trees... by whose splendour [they are rendered thus?] [4-51-6b, 7a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *5, 6a shuciini abhyavahaaryaaNi* = depurated, edibles; *muulaani ca
 phalaani ca* = tubers, also, fruits, also; *kaancanaani vimaanaani* = golden, aircrafts;
 *raajataani gR^ihaaNi ca* = silvern, mansion, also; *tapaniiya gavaakSaaNi* = molten
@@ -232,6 +216,22 @@ god [golden,] ventilators; *maNi jaala aavR^itaani ca* = jewelly, laces, overspr
 
 "The edibles, tubers, and fruits are all depurated... golden are the aircrafts...
 mansions silvern... ventilators golden and encased in jewelly laces... [4-51-5, 6a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6b, 7a. puSpitaaH phaalavantaH ca* = flowered, fruited, also;
+*puNyaaH surabhi gandhayaH* = auspicious, scented, aromatically; *ime jaambuunadamayaaH
+paadapaaH* = these, completely golden, trees; *kasya tejasaa* = by whose, splendour.
+
+**अनुवादः**
+
+"Flowered and fruited and also aromatically scented are these auspicious and
+completely golden trees... by whose splendour [they are rendered thus?] [4-51-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>
@@ -282,6 +282,22 @@ _________________
 
 **पदच्छेदः**
 
+*7b, 8a. kaancanaani ca padmaani* = golden, also, lotuses; *jaataani
+vimale jale* = born, in limpid, water; *katham matsyaaH ca sauvarNaa* = how, fishes,
+also, are golden; *dR^ishyante saha kacChapaiH* = ostensibly, with, tortoises.
+
+**अनुवादः**
+
+"Also how the lotuses born in limpid water are golden, and how the fishes along with
+tortoises are ostensibly golden? [4-51-7b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *8b, 9a. aatmaanaH anu bhaavaat vaa* = of yours, innate, owing to
 prodigy, or; *kasya vai etat tapaH balam* = whose, indeed, all this, ascesis', prowess;
 *a jaanataam naH sarveSaam* = not, knowing [oblivious of,] us, all of; *sarvam aakhyaatum
@@ -292,22 +308,6 @@ arhasi* = all of it, to narrate, apt of you.
 "Or, is all this owing to the innate prodigy of yours or to whose ascesis' prowess
 all this is owed... as all of us are oblivious of it, so it will be apt of you to narrate all of
 it..." [Thus Hanuma requested that sainted lady.] [4-51-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*7b, 8a. kaancanaani ca padmaani* = golden, also, lotuses; *jaataani
-vimale jale* = born, in limpid, water; *katham matsyaaH ca sauvarNaa* = how, fishes,
-also, are golden; *dR^ishyante saha kacChapaiH* = ostensibly, with, tortoises.
-
-**अनुवादः**
-
-"Also how the lotuses born in limpid water are golden, and how the fishes along with
-tortoises are ostensibly golden? [4-51-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga51/kishkindhasans51.htm)
 </details>

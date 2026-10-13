@@ -68,6 +68,23 @@ out of fear.
 
 **पदच्छेदः**
 
+*1. tasmin astram* = when that missile; *pratihate* = was struck
+down; *raavaNaH* = Ravana; *raakShasaadhipaH* = the king of demons; *chakre
+krodham divguNam* = (for his part) doubled his fury; *krodhaat cha* = and in his anger;
+*astram* = (employed another) missile; *anantaram* = immediately.
+
+**अनुवादः**
+
+When that missile was made defunct, Ravana the king of demons, for his part, doubled
+his fury and in his anger, began to employ another missile immediately.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *2. raavaNaH* = Ravana; *mahaadyutiH* = who was endowed with
 extra ordinary splendour; *prachakrame* = started; *utsR^iShTum* = to release;
 *anyat* = another; *astram* = missile; *raudram* = which was cruel;
@@ -78,23 +95,6 @@ extra ordinary splendour; *prachakrame* = started; *utsR^iShTum* = to release;
 
 Ravana, who was endowed with extraordinary splendour, started to release another
 cruel and terrific missile built by Maya the demon, on Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*1. tasmin astram* = when that missile; *pratihate* = was struck
-down; *raavaNaH* = Ravana; *raakShasaadhipaH* = the king of demons; *chakre
-krodham divguNam* = (for his part) doubled his fury; *krodhaat cha* = and in his anger;
-*astram* = (employed another) missile; *anantaram* = immediately.
-
-**अनुवादः**
-
-When that missile was made defunct, Ravana the king of demons, for his part, doubled
-his fury and in his anger, began to employ another missile immediately.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
@@ -132,6 +132,23 @@ his fury and in his anger, began to employ another missile immediately.
 
 **पदच्छेदः**
 
+*3. tataH* = then; *kaarmukaat* = from that bow;
+*nishcheruH* = came forth; *diipyamaanaani* = blazing; *shuulaam* = pikes;
+*gadaashcha* = maces; *musalaani* = and clubs; *vajrasaaraaNi* = which were
+hard as adamant; *sarvashaH* = on all sides.
+
+**अनुवादः**
+
+Then, from that bow, came forth, blazing pikes, maces and clubs, which were hard as
+adamant, on all sides.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *4. vividhaaH* = various kinds; *tiikShaNaaH mudgaraaH* = of
 furious mallets; *kuuTapaashaashcha* = deceptive nooses; *tathaa* = and;
 *diiptaaH* = blazing; *ashanayashcha* = thunderbolts; *niShpetuH* = came
@@ -142,23 +159,6 @@ destruction of the world.
 
 Various kinds of furious mallets, deceptive nooses and blazing thunderbolts came
 forth, like piercing gales at the time of the destruction of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*3. tataH* = then; *kaarmukaat* = from that bow;
-*nishcheruH* = came forth; *diipyamaanaani* = blazing; *shuulaam* = pikes;
-*gadaashcha* = maces; *musalaani* = and clubs; *vajrasaaraaNi* = which were
-hard as adamant; *sarvashaH* = on all sides.
-
-**अनुवादः**
-
-Then, from that bow, came forth, blazing pikes, maces and clubs, which were hard as
-adamant, on all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
@@ -1536,6 +1536,23 @@ Ravana in the battle, quickly penetrated the bosom of Lakshmana, who stood fearl
 
 **पदच्छेदः**
 
+*35. saa* = that spear; *uragaraajasya jihveva* = like the
+tongue of Vasuki (the lord of serpents); *diipyamaanaa* = blazing; *mahaadyutiH* =
+with a great dazzle; *nyapatat* = fell; *mahorasi* = on the broad chest;
+*lakShmaNasya* = of Lakshmana; *mahaavegaa* = with enormous speed.
+
+**अनुवादः**
+
+That spear, like the tongue of Vasuki (the lord of serpents), blazing with a great
+dazzle, fell on the broad chest of Lakshmana, with enormous speed.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *36. avagaaDhayaa* = penetrated; *suduuram* = very deeply;
 *shaktyaa* = by the spear; *vibhinna hR^idayaH* = and pierced through the heart;
 *raavaNavegena* = due to the force exerted by Ravana; *lakShmaNaH* = Lakshmana;
@@ -1546,23 +1563,6 @@ heart broken.
 
 Penetrated very deeply and pierced through his heart by the spear due to the force
 exerted by Ravana, Lakshmana fell to the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*35. saa* = that spear; *uragaraajasya jihveva* = like the
-tongue of Vasuki (the lord of serpents); *diipyamaanaa* = blazing; *mahaadyutiH* =
-with a great dazzle; *nyapatat* = fell; *mahorasi* = on the broad chest;
-*lakShmaNasya* = of Lakshmana; *mahaavegaa* = with enormous speed.
-
-**अनुवादः**
-
-That spear, like the tongue of Vasuki (the lord of serpents), blazing with a great
-dazzle, fell on the broad chest of Lakshmana, with enormous speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>
@@ -2149,6 +2149,23 @@ _________________
 
 **पदच्छेदः**
 
+*49. samaagamam* = I encountered; *raajyanaasham* = with the
+loss of soverighnity; *vane vaasam* = the dwelling in the forest; *paridhaavanam* =
+the wandering around; *daN^Dake* = in the forest of Dandaka; *paraamarsham* = and the
+insult offered; *vaideyehyaaH* = to Seetha; *rakShobhiH* = by the demons.
+
+**अनुवादः**
+
+"I encountered with the loss of sovereignity, the dwelling in the forest, the
+wandering around in the woods of Dandaka and the rough treatment of Seetha by the demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *50. mahat* = A great; *ghoram* = and terrible; *duHkham*
 = suffering; *praaptam* = was obtained; *kleshashcha* = a trouble too;
 *nirayopamaH* = tantamounting to hell; *adya* = now; *aham* = I;
@@ -2159,23 +2176,6 @@ _________________
 
 "A great and terrible suffering has happened to me and an agony equivalent to hell.
 Now, by killing Ravana in battle, I will relieve myself of all that agony."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*49. samaagamam* = I encountered; *raajyanaasham* = with the
-loss of soverighnity; *vane vaasam* = the dwelling in the forest; *paridhaavanam* =
-the wandering around; *daN^Dake* = in the forest of Dandaka; *paraamarsham* = and the
-insult offered; *vaideyehyaaH* = to Seetha; *rakShobhiH* = by the demons.
-
-**अनुवादः**
-
-"I encountered with the loss of sovereignity, the dwelling in the forest, the
-wandering around in the woods of Dandaka and the rough treatment of Seetha by the demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga100/yuddhasans100.htm)
 </details>

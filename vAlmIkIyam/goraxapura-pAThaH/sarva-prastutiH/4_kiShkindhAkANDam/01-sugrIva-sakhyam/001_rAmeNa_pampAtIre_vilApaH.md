@@ -4263,24 +4263,6 @@ _________________
 
 **पदच्छेदः**
 
-*82. shaalmalyaH* = silk cotton trees; *kimshukaaH* = palaasha[Butea frondosa]; *cha
-eva* = also, like that; *raktaah kuravaka* = red, mehandi [Globe amaranat]; *tathaa*
-= thus; *tinishaaH* = Dalberegia Oujeinesis; *naktamaalaH* = Galedupa arborea trees;
-*cha* = also; *chandanaaH* = sandalwood trees; *syandanaaH* = syandanaa trees;
-*tathaa* = thus.
-
-**अनुवादः**
-
-"Silk cotton trees, palaasha trees also, like that are red mehandi trees, thus are Tinisha and Naktamaala
-trees, sandalwood trees, spandana trees are all thus well flowered... [4-1-82]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *81. muchukunda* = muchulinda trees; *arjuana* = Terminalia Arjuna trees; *cha eva*
 = also, like that; *dR^ishyante* = are seen; *giri saanushu* = on mountain terraces;
 *ketaka* = date trees; *uddaalakaaH* = Gordia myxa trees; *cha eva* = also, like
@@ -4291,6 +4273,24 @@ trees.
 
 "Muchukunda trees, also Arjuna trees are seen on mountain terraces...Date palm trees, Uddaalaka trees
 also... like that the Shiriisha tree, simshupa trees, and dhava trees... [4-1-81]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*82. shaalmalyaH* = silk cotton trees; *kimshukaaH* = palaasha[Butea frondosa]; *cha
+eva* = also, like that; *raktaah kuravaka* = red, mehandi [Globe amaranat]; *tathaa*
+= thus; *tinishaaH* = Dalberegia Oujeinesis; *naktamaalaH* = Galedupa arborea trees;
+*cha* = also; *chandanaaH* = sandalwood trees; *syandanaaH* = syandanaa trees;
+*tathaa* = thus.
+
+**अनुवादः**
+
+"Silk cotton trees, palaasha trees also, like that are red mehandi trees, thus are Tinisha and Naktamaala
+trees, sandalwood trees, spandana trees are all thus well flowered... [4-1-82]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
@@ -5156,22 +5156,6 @@ moving in, and well venerated by the partridge birds...[4-1-98]
 
 **पदच्छेदः**
 
-*100. diipayantii iva me kaamam* = enkindling, as if, my, passion; *vividhaa muditaa dvijaa*
-= umpteen, gladdened, birds; *shyaamaam chandra mukhiim* = mid-in-youth, moon, faced; *smR^itvaa
-priyam* = reminding of, dear one; *padma nibha iikshNaam* = lotus, radiance, in her eyes.
-
-**अनुवादः**
-
-"Enkindling passion in me, are these umpteen gladdened birds, reminding me of my dear one who is in
-the mid of her youth, moonfaced, and with the radiance of lotuses in her eyes... [4-1-100]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *99. plavaiH krouncha cha sampuurNaam* = waterfowls, curlew birds, also, filled with; *mahaa
 mR^iga niSevitaam* = by great animals, adored; *adhikam shobhate pampa* = highly, glistens,
 is this Pampa; *vi kuujadbhiH vihangamaiH* = with pleasantly calling, birds.
@@ -5180,6 +5164,22 @@ is this Pampa; *vi kuujadbhiH vihangamaiH* = with pleasantly calling, birds.
 
 "Well filled with waterfowls, curlew birds, and adored by great animals, this Pampa glistens much with
 pleasantly calling birds...[4-1-99]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*100. diipayantii iva me kaamam* = enkindling, as if, my, passion; *vividhaa muditaa dvijaa*
+= umpteen, gladdened, birds; *shyaamaam chandra mukhiim* = mid-in-youth, moon, faced; *smR^itvaa
+priyam* = reminding of, dear one; *padma nibha iikshNaam* = lotus, radiance, in her eyes.
+
+**अनुवादः**
+
+"Enkindling passion in me, are these umpteen gladdened birds, reminding me of my dear one who is in
+the mid of her youth, moonfaced, and with the radiance of lotuses in her eyes... [4-1-100]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
@@ -5798,14 +5798,15 @@ very fondly... [4-1-111]
 
 **पदच्छेदः**
 
-*114. iti* = this way; *anaatha vat vilapantam* = waif, like, wailing; *mahaatmaanam
-raamam* = to great soul, Rama; *bhraataa* = his brother; Lakshmana; *yuktam avyayam vachanam*
-= appropriate, infallible, words; *uvaacha* = spoke.
+*112. nR^ipa aatmaja* = oh! Prince Lakshmana; *ayodhyaam* = in Ayodhya; *saa kva suSnaa*
+= she, where is, daughter-in-law [of mine]; *katham api* = how is she, even; *iti pR^icChantiim*
+= thus, questioning; *manasviniim* = kind hearted lady kausalyaam = to Kausalya; *kim nu vakshyami*
+= what, indeed, can I say.
 
 **अनुवादः**
 
-To that great-souled Rama who is bewailing that way like a waif, his brother Lakshmana said these appropriate
-and infallible words. [4-1-114]
+"What can I say in Ayodhya to that kind hearted lady and my mother Kausalya, oh, prince Lakshmana, when
+she asks �where is she, my daughter-in-law? And how is she? ' [4-1-112]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>
@@ -5836,15 +5837,14 @@ to live on leaving off Seetha... isn't so!" [So said Rama to Lakshmana] [4-1-113
 
 **पदच्छेदः**
 
-*112. nR^ipa aatmaja* = oh! Prince Lakshmana; *ayodhyaam* = in Ayodhya; *saa kva suSnaa*
-= she, where is, daughter-in-law [of mine]; *katham api* = how is she, even; *iti pR^icChantiim*
-= thus, questioning; *manasviniim* = kind hearted lady kausalyaam = to Kausalya; *kim nu vakshyami*
-= what, indeed, can I say.
+*114. iti* = this way; *anaatha vat vilapantam* = waif, like, wailing; *mahaatmaanam
+raamam* = to great soul, Rama; *bhraataa* = his brother; Lakshmana; *yuktam avyayam vachanam*
+= appropriate, infallible, words; *uvaacha* = spoke.
 
 **अनुवादः**
 
-"What can I say in Ayodhya to that kind hearted lady and my mother Kausalya, oh, prince Lakshmana, when
-she asks �where is she, my daughter-in-law? And how is she? ' [4-1-112]
+To that great-souled Rama who is bewailing that way like a waif, his brother Lakshmana said these appropriate
+and infallible words. [4-1-114]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga1/kishkindhasans1.htm)
 </details>

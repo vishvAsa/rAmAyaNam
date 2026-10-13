@@ -52,6 +52,22 @@ _________________
 
 **पदच्छेदः**
 
+*1. evam bruvaaNam* = to him who is saying - to Vashishta this way; *janakaH kR^itaanjaliH pratyuvaaca* =
+Janaka, in reply said reverentially making palm-fold; *te bhadram* = you be safe; *parikiirtitam* = distinguished;
+*naH kulam* = of our, lineage; *shrotum arhasi* = apt of you to listen - all of you.
+
+**अनुवादः**
+
+When sage Vashishta said that way, Janaka reverentially made palm fold and said this in reply, "oh, sage, let safeness betide
+you all... now, it will be apt of you all to listen to our distinguished lineage..." [1-71-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *2. munishreSTha* = oh eminent sage; *mahaamune* = oh great sage; *kulajaatena* = born in [a particular
 noble] gens; *pradaane* = while offering [bride]; *niravasheSataH* = without a little remainder
 [completely, in entirety]; *kulam vaktavyam hi* = speakable about parentage - to be informed, isn't it; *tat nibodha*
@@ -61,22 +77,6 @@ noble] gens; *pradaane* = while offering [bride]; *niravasheSataH* = without a l
 
 "Oh, eminent sage Vashishta, he who is born in a particular noble gens has to inform about his parentage in its entirety,
 especially when he offers a bride... thereby oh, great sage, let all be informed of about our lineage..." [1-71-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*1. evam bruvaaNam* = to him who is saying - to Vashishta this way; *janakaH kR^itaanjaliH pratyuvaaca* =
-Janaka, in reply said reverentially making palm-fold; *te bhadram* = you be safe; *parikiirtitam* = distinguished;
-*naH kulam* = of our, lineage; *shrotum arhasi* = apt of you to listen - all of you.
-
-**अनुवादः**
-
-When sage Vashishta said that way, Janaka reverentially made palm fold and said this in reply, "oh, sage, let safeness betide
-you all... now, it will be apt of you all to listen to our distinguished lineage..." [1-71-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm)
 </details>

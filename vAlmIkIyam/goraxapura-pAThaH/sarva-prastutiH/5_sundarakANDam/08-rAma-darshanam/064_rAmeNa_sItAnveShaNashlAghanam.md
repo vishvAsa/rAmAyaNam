@@ -457,15 +457,16 @@ _________________
 
 **पदच्छेदः**
 
-*10. shrutvaa* = hearing; *idam shlakShNam* = these smooth; *vachanam*
-= words; *dadhimukhasya* = of Dadhimukha; *aN^gadaH* = Angada; *hari shreSThaH*
-= the foremost among the monkeys; *vaakya vishaaradaH* = who was skilled in speech; *abraviit*
-= spoke; *taan* = to those monkeys; *vaakyam* = (the following) words:
+*8. shrutvaa* = hearing; *tvat aagamanam* = your arrival; *ebhiH
+hari yuuthapaiH saha* = along with these leaders of monkeys; *saH* = your uncle; *prahR^iSTaH*
+= was exceedingly pleased; *tu* = but; *shrutvaa* = on hearing; *vanam* = that
+the grove; *pradharShitam* = was attacked; *asau* = he; *na ruShTaH* = was not
+enraged.
 
 **अनुवादः**
 
-Hearing these smooth words of Dadhimukha, the eloquent Angada, the foremost among the
-monkeys, spoke to those monkeys as follows:
+"Hearing your arrival along with these leaders of monkeys, your uncle was exceedingly
+pleased. Even after hearing of Madhuvana having been attacked, he did not develop any anger."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -496,16 +497,15 @@ all the monkeys here'."
 
 **पदच्छेदः**
 
-*8. shrutvaa* = hearing; *tvat aagamanam* = your arrival; *ebhiH
-hari yuuthapaiH saha* = along with these leaders of monkeys; *saH* = your uncle; *prahR^iSTaH*
-= was exceedingly pleased; *tu* = but; *shrutvaa* = on hearing; *vanam* = that
-the grove; *pradharShitam* = was attacked; *asau* = he; *na ruShTaH* = was not
-enraged.
+*10. shrutvaa* = hearing; *idam shlakShNam* = these smooth; *vachanam*
+= words; *dadhimukhasya* = of Dadhimukha; *aN^gadaH* = Angada; *hari shreSThaH*
+= the foremost among the monkeys; *vaakya vishaaradaH* = who was skilled in speech; *abraviit*
+= spoke; *taan* = to those monkeys; *vaakyam* = (the following) words:
 
 **अनुवादः**
 
-"Hearing your arrival along with these leaders of monkeys, your uncle was exceedingly
-pleased. Even after hearing of Madhuvana having been attacked, he did not develop any anger."
+Hearing these smooth words of Dadhimukha, the eloquent Angada, the foremost among the
+monkeys, spoke to those monkeys as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -571,24 +571,6 @@ _________________
 
 **पदच्छेदः**
 
-*12. vana chaariNaH* = the monkeys; *vishraantaaH* = rested; *
-piitvaa* = after drinking; *madhu* = the honey; *yathaa kaamam* = as much as they
-liked; *kim sheSam* = what is there remaining; *gamanam* = (except) going; *yatra*
-= to the place where; *sugriivaH* = Sugreeva; *me guruH* = my uncle; *tatra* =
-is there.
-
-**अनुवादः**
-
-"The monkeys are taking, rest, after drinking the honey to their heart's content. What
-is there remaining, except to go to the place where Sugreeva my uncle is there?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *11. hari yuuthapaaH* = O the foremost of monkeys; *param tapaaH*
 = the tormentators of enemies!; *shaN^ke* = I assume; *ayam vR^itta antam* = (that) this
 occurrence; *shrutaH* = was heard; *raameNa* = by Rama; *tat* = that is why;
@@ -600,6 +582,24 @@ occurrence; *shrutaH* = was heard; *raameNa* = by Rama; *tat* = that is why;
 "O the foremost of monkeys, the tormentators of enemies! I assume that Rama might have
 heard the news (of our arrival). Hence, it is not proper for us to remain here any longer, now that
 our work has been accomplished."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. vana chaariNaH* = the monkeys; *vishraantaaH* = rested; *
+piitvaa* = after drinking; *madhu* = the honey; *yathaa kaamam* = as much as they
+liked; *kim sheSam* = what is there remaining; *gamanam* = (except) going; *yatra*
+= to the place where; *sugriivaH* = Sugreeva; *me guruH* = my uncle; *tatra* =
+is there.
+
+**अनुवादः**
+
+"The monkeys are taking, rest, after drinking the honey to their heart's content. What
+is there remaining, except to go to the place where Sugreeva my uncle is there?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -699,23 +699,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. shrutvaa* = hearing; *avyayam vachanam* = the indeclinable words;
-*bruvataH* = spoken; *evam* = thus; *aN^gadasya* = of Angada; *vana okasaH*
-= the monkeys; *prahR^iSTa manasaH* = with their pleased minds; *uuchuH* = spoke; *
-idam* = these words:
-
-**अनुवादः**
-
-Hearing the indeclinable words spoken thus by Angada, the monkeys with their pleased
-minds, spoke to him (as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14. aham* = I; *na iishaH* = am not the master; *aajJNaapayitum*
 = to command (you); *asmi yadi api yuva raajaH* = even though I am a prince; *ayuktam*
 = It is not befitting; *mayaa* = for me; *dharSayitum* = to violate; *yuuyam* =
@@ -725,6 +708,23 @@ you; *kR^ita karmaaNaH* = who have accomplished the act.
 
 "I am not the master to command you, eventhough I am the crown prince. It is not befitting
 for me to play the lord over you, who have accomplished the task."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. shrutvaa* = hearing; *avyayam vachanam* = the indeclinable words;
+*bruvataH* = spoken; *evam* = thus; *aN^gadasya* = of Angada; *vana okasaH*
+= the monkeys; *prahR^iSTa manasaH* = with their pleased minds; *uuchuH* = spoke; *
+idam* = these words:
+
+**अनुवादः**
+
+Hearing the indeclinable words spoken thus by Angada, the monkeys with their pleased
+minds, spoke to him (as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -842,23 +842,6 @@ _________________
 
 **पदच्छेदः**
 
-*18. sarve.api vayam praaptaaH* = all of us; who reached here; *kR^ita
-kShaNaaH* = are waiting for the right moment; *gantum* = to go; *tatra* = to that
-place; *yatra* = where; *saH sugriivaH* = that Sugreeva; *avyayaH patiH hari viiraanaam*
-= the imperishable king of the heroic monkeys; (is).
-
-**अनुवादः**
-
-"All of us, who reached here, are waiting for the right moment to go to that place where
-Sugreeva, the imperishable king of the heroic monkeys, is."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16. raajan* = O king; *vaanara R^iShabha* = the foremost of monkeys!;
 *kaH* = who; *vadati* = speaks; *evam* = like this; *prabhuH san* = while
 he is the lord?; *sarvaH* = every one; *manyate hi* = indeed thinks; *aishvarya mada
@@ -868,6 +851,23 @@ mattaH* = of one's supremacy; with excited arrogance; *aham iti* = and says "I; 
 
 "O prince, the foremost of monkeys! Who would speak like this, while he is the lord?
 Every one indeed thinks one's supremacy with an excited arrogance and says 'I, I'."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. sarve.api vayam praaptaaH* = all of us; who reached here; *kR^ita
+kShaNaaH* = are waiting for the right moment; *gantum* = to go; *tatra* = to that
+place; *yatra* = where; *saH sugriivaH* = that Sugreeva; *avyayaH patiH hari viiraanaam*
+= the imperishable king of the heroic monkeys; (is).
+
+**अनुवादः**
+
+"All of us, who reached here, are waiting for the right moment to go to that place where
+Sugreeva, the imperishable king of the heroic monkeys, is."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -939,23 +939,6 @@ _________________
 
 **पदच्छेदः**
 
-*20. teShaam padataam* = while they were severe speaking; *evam*
-= thus; *aN^gadaH* = Angada; *pratyuvaacha ha* = replied; *baaDham gacChaama* =
-let us surely go; *iti* = thus; *uktvaa* = speaking; *mahaabalaaH* = those mighty
-monkeys; *utpetuH* = sprang; *kham* = into the air.
-
-**अनुवादः**
-
-While they were thus speaking; Angada replied, "Let us go." The mighty monkeys then sprang
-into the air.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19. hari shreShTha* = O the excellent of monkeys!; *haribhiH* =
 for the monkeys; *anuktaiH* = who are not ordered; *tvayaa* = by you; *na shakyam*
 = it is not possible; *padaat padam gantum* = to go even a step forward; *kvachit* = anywhere;
@@ -965,6 +948,23 @@ for the monkeys; *anuktaiH* = who are not ordered; *tvayaa* = by you; *na shakya
 
 "O the excellent of monkeys! Without your command, it is not possible for the monkeys
 anywhere, even a step forward. We are speaking this truth to you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. teShaam padataam* = while they were severe speaking; *evam*
+= thus; *aN^gadaH* = Angada; *pratyuvaacha ha* = replied; *baaDham gacChaama* =
+let us surely go; *iti* = thus; *uktvaa* = speaking; *mahaabalaaH* = those mighty
+monkeys; *utpetuH* = sprang; *kham* = into the air.
+
+**अनुवादः**
+
+While they were thus speaking; Angada replied, "Let us go." The mighty monkeys then sprang
+into the air.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -1192,23 +1192,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. aN^gadaH* = Angada; *mahaabaahuH* = the long-armed; *yuva
-raajaH* = prince; *pravaraH* = and the most excellent; plavataam- of monkeys; *na aagachchhet*
-= does not make his appearance; *matsakaasham* = before my vicinity; *kR^itye vinipaatite*
-= if the work is ruined.
-
-**अनुवादः**
-
-"Angada, the long-armed prince and the most excellent of monkeys does not make his appearance
-before my vicinity, if the work is ruined."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. samaashvasihi* = be pacified!; *te bhadram* = happiness to you!;
 *devi* = the princess; *dR^iShTaa* = has been scan; *na samshayaH* = there is no
 doubt; *naH samaye atiite* = when the time fixed by us goes beyond limit; *na shakyam*
@@ -1218,6 +1201,23 @@ doubt; *naH samaye atiite* = when the time fixed by us goes beyond limit; *na sh
 
 "Be pacified! Happiness to you! The princess has been seen. There is not doubt. When
 the time earlier fixed by us exceeds beyond limit, it is not possible for them to come here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. aN^gadaH* = Angada; *mahaabaahuH* = the long-armed; *yuva
+raajaH* = prince; *pravaraH* = and the most excellent; plavataam- of monkeys; *na aagachchhet*
+= does not make his appearance; *matsakaasham* = before my vicinity; *kR^itye vinipaatite*
+= if the work is ruined.
+
+**अनुवादः**
+
+"Angada, the long-armed prince and the most excellent of monkeys does not make his appearance
+before my vicinity, if the work is ruined."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -1371,15 +1371,15 @@ _________________
 
 **पदच्छेदः**
 
-*29. mati sattama* = O Rama; having a very good understanding!; *hanuumati*
-= in Hanuma; *siddhiH cha* = capacity to accomplish any object; *matiH cha* = intelligence;
-*vyavasaayaH cha* = strenuous effort; *viiryam cha* = and vigour; *dhruvam* = are
-unchangeable; *tejaH iva* = like a splendour; *suurye* = in the sun.
+*28. devii* = Seetha; *dR^iShTaa* = was seen; *na samdehaH*
+= there is no doubt; *na* = none; *anyena* = other; *hanuumataa* = than Hanuma;
+*na hi anyaH* = there is indeed none other; *hanuumataH* = than Hanuma; *hetuH*
+= who is the executor; *saadhane* = in accomplishing; *asya karmaNaH* = this work.
 
 **अनुवादः**
 
-"O Rama, having a very good understanding! In Hanuma, qualities like capacity to accomplish
-any object, intelligence, strenuous effort and vigour are unchangeable, like a splendour in the sun."
+"Seetha was seen. There is no doubt. None other than Hanuma must have seen Seetha. There
+is indeed none other than Hanuma, who is the executor."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -1393,15 +1393,15 @@ any object, intelligence, strenuous effort and vigour are unchangeable, like a s
 
 **पदच्छेदः**
 
-*28. devii* = Seetha; *dR^iShTaa* = was seen; *na samdehaH*
-= there is no doubt; *na* = none; *anyena* = other; *hanuumataa* = than Hanuma;
-*na hi anyaH* = there is indeed none other; *hanuumataH* = than Hanuma; *hetuH*
-= who is the executor; *saadhane* = in accomplishing; *asya karmaNaH* = this work.
+*29. mati sattama* = O Rama; having a very good understanding!; *hanuumati*
+= in Hanuma; *siddhiH cha* = capacity to accomplish any object; *matiH cha* = intelligence;
+*vyavasaayaH cha* = strenuous effort; *viiryam cha* = and vigour; *dhruvam* = are
+unchangeable; *tejaH iva* = like a splendour; *suurye* = in the sun.
 
 **अनुवादः**
 
-"Seetha was seen. There is no doubt. None other than Hanuma must have seen Seetha. There
-is indeed none other than Hanuma, who is the executor."
+"O Rama, having a very good understanding! In Hanuma, qualities like capacity to accomplish
+any object, intelligence, strenuous effort and vigour are unchangeable, like a splendour in the sun."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -1579,23 +1579,6 @@ _________________
 
 **पदच्छेदः**
 
-*34. kR^itvaa* = keeping; *aN^gadam* = Angada; *hanuumantam*
-= and Hanuma; *vaanram* = the monkey; *purataH* = in front of them; *te harayaH api*
-= those monkeys too; *aajagmuH* = came; *raama darshana kaaN^kSiNaH* = with their eagerness
-or see Rama.
-
-**अनुवादः**
-
-Keeping Angada and Hanuma in front of them, those monkeys too arrived with their eagerness
-to see Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *33. tataH* = then; *shrutvaa* = hearing; *tam ninaadam* =
 that clamour; *kapiinaam* = of the monkeys; *saH kapi sattamaH* = that Sugreeva; the chief
 of monkeys; *abhavat* = became; *hR^iSTa maanasaH* = rejoiced in mind; *aayata aNchita
@@ -1605,6 +1588,23 @@ laaNguulaH* = duly stretching and curling up his tail.
 
 Then, hearing that clamour of the monkeys, Sugreeva the chief of the monkeys became rejoiced
 at heart, duly stretching and curling up his tail (in joy).
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. kR^itvaa* = keeping; *aN^gadam* = Angada; *hanuumantam*
+= and Hanuma; *vaanram* = the monkey; *purataH* = in front of them; *te harayaH api*
+= those monkeys too; *aajagmuH* = came; *raama darshana kaaN^kSiNaH* = with their eagerness
+or see Rama.
+
+**अनुवादः**
+
+Keeping Angada and Hanuma in front of them, those monkeys too arrived with their eagerness
+to see Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -1655,15 +1655,15 @@ _________________
 
 **पदच्छेदः**
 
-*36. tataH* = thereafter; *mahaabaahuH* = the mighty armed; *hanumaan*
-= Hanuma; *praNamya* = offering salutation; *shirasaa* = by bending his head low; *
-nyavedayat* = reported; *deviim* = that Seetha the princess; *niyataam* = is constant
-in devotion to her husband; *akShataam* = and sound in body.
+*35. te viiraaH* = those heroes; *aN^gada pramukhaaH* = having Angada
+as their chief; *prahR^iShTaaH cha* = exceedingly pleased; *mudaa anvitaaH* = and filled
+with joy; *nipetuH* = landed; *samiipe* = at the vicinity; *hari raajasya* = of
+Sugreeva; *raaghavasya cha* = and Rama.
 
 **अनुवादः**
 
-Thereafter, the mighty armed Hanuma, offering his salutation in bending his head low,
-informed Rama that Seetha the princess is constant in devotion to Rama and sound in body.
+Those heroes, having Angada as their chief, exceedingly pleased as they were and filled
+with joy, landed at the vicinity of Sugreeva and Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -1677,15 +1677,15 @@ informed Rama that Seetha the princess is constant in devotion to Rama and sound
 
 **पदच्छेदः**
 
-*35. te viiraaH* = those heroes; *aN^gada pramukhaaH* = having Angada
-as their chief; *prahR^iShTaaH cha* = exceedingly pleased; *mudaa anvitaaH* = and filled
-with joy; *nipetuH* = landed; *samiipe* = at the vicinity; *hari raajasya* = of
-Sugreeva; *raaghavasya cha* = and Rama.
+*36. tataH* = thereafter; *mahaabaahuH* = the mighty armed; *hanumaan*
+= Hanuma; *praNamya* = offering salutation; *shirasaa* = by bending his head low; *
+nyavedayat* = reported; *deviim* = that Seetha the princess; *niyataam* = is constant
+in devotion to her husband; *akShataam* = and sound in body.
 
 **अनुवादः**
 
-Those heroes, having Angada as their chief, exceedingly pleased as they were and filled
-with joy, landed at the vicinity of Sugreeva and Rama.
+Thereafter, the mighty armed Hanuma, offering his salutation in bending his head low,
+informed Rama that Seetha the princess is constant in devotion to Rama and sound in body.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -1726,15 +1726,15 @@ _________________
 
 **पदच्छेदः**
 
-*38. tataH* = thereupon; *lakSmaNaH* = Lakshmana; *priitimaan*
-= with love; *avaikShata* = looked at; *priitam* = the joyful; *sugriivam* = Sugreeva;
-*bahu maanaat* = with reverence; *nishchita artham* = who decidedly apprised; *tasmin
-pavana aatmaje* = about the aforesaid Hanuma; (having accomplished his work).
+*37. aakarNya* = hearing; *vachanam* = the words; *amR^itopamam*
+= which were nectar-like; *devii dR^iShTaa iti* = saying Seetha was found"; *hanumadvaanaat*
+= from the month of Hanuma; *raamaH* = Rama; *salakSmaNaH* = along with Lakshmana; *
+aapa* = obtained; *harSham* = joy.
 
 **अनुवादः**
 
-Thereupon, Lakshmana with love looked with reverence on the joyful Sugreeva, who earlier
-decidedly apprised about the aforesaid Hanuma, having accomplished the task.
+Hearing the nectar-like words, saying "Seetha was found" from the mouth of Hanuma, Rama
+and Lakshmana felt happy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>
@@ -1748,15 +1748,15 @@ decidedly apprised about the aforesaid Hanuma, having accomplished the task.
 
 **पदच्छेदः**
 
-*37. aakarNya* = hearing; *vachanam* = the words; *amR^itopamam*
-= which were nectar-like; *devii dR^iShTaa iti* = saying Seetha was found"; *hanumadvaanaat*
-= from the month of Hanuma; *raamaH* = Rama; *salakSmaNaH* = along with Lakshmana; *
-aapa* = obtained; *harSham* = joy.
+*38. tataH* = thereupon; *lakSmaNaH* = Lakshmana; *priitimaan*
+= with love; *avaikShata* = looked at; *priitam* = the joyful; *sugriivam* = Sugreeva;
+*bahu maanaat* = with reverence; *nishchita artham* = who decidedly apprised; *tasmin
+pavana aatmaje* = about the aforesaid Hanuma; (having accomplished his work).
 
 **अनुवादः**
 
-Hearing the nectar-like words, saying "Seetha was found" from the mouth of Hanuma, Rama
-and Lakshmana felt happy.
+Thereupon, Lakshmana with love looked with reverence on the joyful Sugreeva, who earlier
+decidedly apprised about the aforesaid Hanuma, having accomplished the task.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga64/sundarasans64.htm)
 </details>

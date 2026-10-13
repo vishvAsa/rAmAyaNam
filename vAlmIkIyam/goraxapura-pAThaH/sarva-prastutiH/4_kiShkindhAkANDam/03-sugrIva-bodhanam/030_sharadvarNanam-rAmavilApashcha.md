@@ -1060,28 +1060,6 @@ _________________
 
 **पदच्छेदः**
 
-*20. kumaara* = oh, boy; *niH samshayam* = without, doubt;
-*kaaryam avekSitavyam* = accomplishment [of task,] is to be kept in view; *kriyaa
-visheSaH api anu vartitavyaH* = task's, factors, even, in tow, are to be followed; *pra
-vR^iddhasya* = well, intensified - unwieldy; *dur aasadasya* = un, attainable;
-*viiryasya [kaaryasya]* = of formidability] of task; *phalam ca* = fruit, about;
-*cintyam* = is to be thought over; *na nu* = isn't it.
-
-**अनुवादः**
-
-"Doubtless accomplishment of the task is to be held in view, even oh, boy, the
-factors that contribute to its accomplishment, like enthusiasm, helpmates etc., are to be followed
-through, and not only these aspects but we also have to observe the fruition of task when that task
-is becoming unwieldy, unattainable and formidable, along with the lapse of time and lapsing of
-help." Thus Rama said to Lakshmana. [4-30-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *19. sa lakSaNam* = which words are - seemly; *a pradhR^iSyam* =
 un, deniable; *svabhaava jam* = natural [of Lakshmana's nature,] emerged from; *hitam ca
 pathyam ca* = expedient, also, tasteful, also; *naya prasaktam* = moral, abiding; *sa
@@ -1105,6 +1083,28 @@ Lakshmana.
 Rama spoke to seemly and undeniable Lakshmana with words that emerged from his very
 nature, which are tasteful, morally abiding, and further abounding with friendliness,
 righteousness, and meaningfulness.[4-30-19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. kumaara* = oh, boy; *niH samshayam* = without, doubt;
+*kaaryam avekSitavyam* = accomplishment [of task,] is to be kept in view; *kriyaa
+visheSaH api anu vartitavyaH* = task's, factors, even, in tow, are to be followed; *pra
+vR^iddhasya* = well, intensified - unwieldy; *dur aasadasya* = un, attainable;
+*viiryasya [kaaryasya]* = of formidability] of task; *phalam ca* = fruit, about;
+*cintyam* = is to be thought over; *na nu* = isn't it.
+
+**अनुवादः**
+
+"Doubtless accomplishment of the task is to be held in view, even oh, boy, the
+factors that contribute to its accomplishment, like enthusiasm, helpmates etc., are to be followed
+through, and not only these aspects but we also have to observe the fruition of task when that task
+is becoming unwieldy, unattainable and formidable, along with the lapse of time and lapsing of
+help." Thus Rama said to Lakshmana. [4-30-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>
@@ -3840,23 +3840,6 @@ such as I am Lakshmana, king Sugreeva is not benevolent to me. [4-30-66]
 
 **पदच्छेदः**
 
-*68. saumya* = oh, gentle Lakshmana; *parantapa* = oh,
-enemy-blazer Lakshmana; *iti* = thus; *etaiH* = with these; *kaaraNaiH* =
-reasons; *dur aatmanaH* = spite, minded one; *vaanara raajasya* = by vanara, king;
-*sugriivasya* = by Sugreeva; *aham* = I am; *paribhuutaH* = scoffed off.
-
-**अनुवादः**
-
-"By these reasons, oh gentle Lakshmana, I am perhaps scoffed off by the spiteful
-king of Vanara-s Sugreeva oh, the enemy-blazer, Lakshmana. [4-30-68]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *67. ayam* = he is; *a naathaH* = one without, husband -
 insecure; *hR^ita raajyaH* = forfeited, of kingdom; *raavaNena dharSitaH ca* = by
 Ravana, persecuted, also; *diinaH* = who is dismal; *duura gR^ihaH* = distanced,
@@ -3873,6 +3856,23 @@ distant home, lovelorn and sought shelter in me alone...' thus Sugreeva may be t
 persecuted by a powerful demon Ravana, he is dismal... since he came from a distant homeland, he
 hasn't got a leg to stand on... since he is lovelorn, he sought my shelter faint-heartedly...' thus
 Sugreeva may be thinking of me. [4-30-67]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*68. saumya* = oh, gentle Lakshmana; *parantapa* = oh,
+enemy-blazer Lakshmana; *iti* = thus; *etaiH* = with these; *kaaraNaiH* =
+reasons; *dur aatmanaH* = spite, minded one; *vaanara raajasya* = by vanara, king;
+*sugriivasya* = by Sugreeva; *aham* = I am; *paribhuutaH* = scoffed off.
+
+**अनुवादः**
+
+"By these reasons, oh gentle Lakshmana, I am perhaps scoffed off by the spiteful
+king of Vanara-s Sugreeva oh, the enemy-blazer, Lakshmana. [4-30-68]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga30/kishkindhasans30.htm)
 </details>

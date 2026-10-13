@@ -197,6 +197,25 @@ to Ramayana.
 
 **पदच्छेदः**
 
+*3. a yukta caaraH* = not, having, by spies - exclusionary, desultory
+of spies; *capalaH* = impetuous; such as you are, you; *mahaa viiryam* = decidedly,
+dynamic one; *guNa unnatam* = by adeptness, exalted; *mahendra varuNa upamam* =
+[thunderous] Mahendra, [tempestuous] Varuna, God of Rain, alike - is Rama; *nuunam na
+budhyase* = definitely, you are not, apperceiving.
+
+**अनुवादः**
+
+"Definitely you do not apperceive Rama who is decidedly dynamic and exaltedly adept,
+for you are impetuous and desultory in dealing with your spies, but that Rama is identical to the
+thunderous Mahendra and tempestuous Varuna, the Rain-god. [3-37-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *4. taata* = oh, boy; *bhuvi* = on earth; *sarveSaam
 rakSasaam* = for all, demons; *svasti api bhavet* = safety, will it be there;
 *raamaH* = Rama; *samkruddhaH* = highly enraged one; *lokam* = world; *a
@@ -212,25 +231,6 @@ will render this world de-demonised! [3-37-4]
 '...but for you...' 'Will you let the demons on earth live, or, would like to
 eradicate them through Rama, through your obsessions.' The second thought has come true when Rama
 eliminated all demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*3. a yukta caaraH* = not, having, by spies - exclusionary, desultory
-of spies; *capalaH* = impetuous; such as you are, you; *mahaa viiryam* = decidedly,
-dynamic one; *guNa unnatam* = by adeptness, exalted; *mahendra varuNa upamam* =
-[thunderous] Mahendra, [tempestuous] Varuna, God of Rain, alike - is Rama; *nuunam na
-budhyase* = definitely, you are not, apperceiving.
-
-**अनुवादः**
-
-"Definitely you do not apperceive Rama who is decidedly dynamic and exaltedly adept,
-for you are impetuous and desultory in dealing with your spies, but that Rama is identical to the
-thunderous Mahendra and tempestuous Varuna, the Rain-god. [3-37-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga37/aranyasans37.htm)
 </details>

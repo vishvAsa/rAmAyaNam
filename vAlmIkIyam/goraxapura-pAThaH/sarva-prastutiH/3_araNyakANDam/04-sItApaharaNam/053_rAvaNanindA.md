@@ -324,30 +324,6 @@ to your crown?'
 
 **पदच्छेदः**
 
-*7. niica* = you knave; *rahite* = lonely; *parasya ca* =
-other [man's,] also [that too]; *striyaaH ca* = woman, also; *haraNam ca* =
-abduction, also [that too]; *iidR^isham garhitam karma* = this kind of, deplorable, deed;
-*kR^itvaa* = on doing [undertaking]; *katham na lajjase* = how, not, ashamed you
-are.
-
-**अनुवादः**
-
-"A woman, that too a lonely one, that too the other man's wife, that too an
-abduction, but not winning or wooing her... you knave, on your undertaking such a kind of
-deplorable deed, how unashamed are you? [3-53-7]
-
-**टिप्पनी**
-
-Annex: 'Will not the other males deplore you for your unmasculine female
-stealing, for this kind of undertaking is unobserved even in animal world?'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *6. raakSasa adhama* = you demon, basely; *te viiryam* = your,
 audacity; *paramam dR^ishyate khalu* = audacious, appearing [shown by you,] truly;
 *naamadheyam vishraavya* = [your great] name, making to listen [earbashing,
@@ -368,6 +344,30 @@ and thus triumphing over me - or what? Tell me, you mousy demon...
 "Unable to conquer my husband in a combat, but able to earbash your name to a lonely
 woman and abducting her, will this tantamount to your apparently audacious audacity? Thus, I am not
 really triumphed over by a lowly demon like you... [3-53-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. niica* = you knave; *rahite* = lonely; *parasya ca* =
+other [man's,] also [that too]; *striyaaH ca* = woman, also; *haraNam ca* =
+abduction, also [that too]; *iidR^isham garhitam karma* = this kind of, deplorable, deed;
+*kR^itvaa* = on doing [undertaking]; *katham na lajjase* = how, not, ashamed you
+are.
+
+**अनुवादः**
+
+"A woman, that too a lonely one, that too the other man's wife, that too an
+abduction, but not winning or wooing her... you knave, on your undertaking such a kind of
+deplorable deed, how unashamed are you? [3-53-7]
+
+**टिप्पनी**
+
+Annex: 'Will not the other males deplore you for your unmasculine female
+stealing, for this kind of undertaking is unobserved even in animal world?'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
@@ -865,24 +865,6 @@ of Lakshmana's steadfastness in his duty.
 
 **पदच्छेदः**
 
-*17b, 18a. mumuurSuuNaam tu sarveSaam* = mortals about to die
-[death-rattlers,] but, to all of them; *yat pathyam tat na rocate* = which, is recuperative,
-that, not, interested [unpalatable]; *tvaam* = you; *kaNThe* = at throat; *kaala
-paasha ava paashitam iva* = Time's, loop; around, looped, as if; *pashyaami hi* = I
-behold, indeed.
-
-**अनुवादः**
-
-"But which is recuperative that is unpalatable to all of the death-rattlers, and
-indeed, I behold you as one around whose throat the noose of Time is looped. [3-53-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *16b, 17a. martyaH mR^ityu kaale* = mortals, at death, time; *yathaa
 vipariitaani sevate* = as, too much [noxious, non-recuperative foodstuffs, or, quirkily
 behaviour,] enjoys [undertakes]; *aatmanaH* = in your heart; *pathyam ca* = nontoxic
@@ -905,6 +887,24 @@ Annex: 'Bechanced is your death-time hence you behave eccentrically and as a
 dying person wants to feast on with disagreeable foods, you also would like to consume a lethal
 poison, that is me, and on your death Yama, the Terminator, is ready to offer you a sumptuous feast
 with hellish edibles...'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17b, 18a. mumuurSuuNaam tu sarveSaam* = mortals about to die
+[death-rattlers,] but, to all of them; *yat pathyam tat na rocate* = which, is recuperative,
+that, not, interested [unpalatable]; *tvaam* = you; *kaNThe* = at throat; *kaala
+paasha ava paashitam iva* = Time's, loop; around, looped, as if; *pashyaami hi* = I
+behold, indeed.
+
+**अनुवादः**
+
+"But which is recuperative that is unpalatable to all of the death-rattlers, and
+indeed, I behold you as one around whose throat the noose of Time is looped. [3-53-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
@@ -1011,6 +1011,24 @@ _________________
 
 **पदच्छेदः**
 
+*19b, 20a. raavaNa* = oh, Ravana; *rudhira ogha vi vaahiniim* =
+blood, streams, verily [tumultuously,] streaming; *ghoraam vaitaraNiim nadiim* = ghastly,
+Vaitarani, river; *bhiimam khaDga patra vanam caiva* = grisly, swords, leaved, forest, also
+thus; pashyasi you will see.
+
+**अनुवादः**
+
+"Oh, Ravana, you will see the ghastly River Vaitarani which will be tumultuously
+streaming with blood streams, also thus you will see the grisly sword-leaved-forests in hell.
+[3-53-19b, 20a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *20b, 21a. tapta kaancana [tapta] puSpaam ca* = molten, gold, [melting]
 flowered, also; *[tapta] vaiduurya pravara cChadaam* = [melting] lapis gemlike, best,
 shrouded [by lapis like leaves]; *aayasaiH kaNTakaiH citaam* = with iron, thorns, encrusted;
@@ -1035,24 +1053,6 @@ This is a kind of punishment in a section called *asi patra vana*
 silk-cotton tree like wooden structure with golden leaves and sappharine flowers and irony thorns,
 where all these items will be sweltering the sinners besides pinching and piercing with thorns.
 This punishment is aimed at those who abduct, molest, or rape the other man's wife.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*19b, 20a. raavaNa* = oh, Ravana; *rudhira ogha vi vaahiniim* =
-blood, streams, verily [tumultuously,] streaming; *ghoraam vaitaraNiim nadiim* = ghastly,
-Vaitarani, river; *bhiimam khaDga patra vanam caiva* = grisly, swords, leaved, forest, also
-thus; pashyasi you will see.
-
-**अनुवादः**
-
-"Oh, Ravana, you will see the ghastly River Vaitarani which will be tumultuously
-streaming with blood streams, also thus you will see the grisly sword-leaved-forests in hell.
-[3-53-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>
@@ -1100,28 +1100,6 @@ _________________
 
 **पदच्छेदः**
 
-*22b, 23a. raavaNa* = Ravana; *tvam* = you; *dur
-nivaareNa* = not, preventable; *kaala paashena baddhaH* = by Time's, lasso, bound;
-*mama bhartuH mahaa-aatmanaH* = my, husband, from strong-willed one [uncompromising] Rama;
-*kva gataH* = to where, on going; *lapsyase sharma* = you get, complacency.
-
-**अनुवादः**
-
-"You are bound by the unpreventable lasso of the Time, oh, Ravana, on going where
-you will get complacency from that uncompromising husband of mine? [3-53-22b, 23a]
-
-**टिप्पनी**
-
-Ravana may say: 'is it? What is the proof of his mettle basing on which you
-sermonise me?' For this, her reply is in the next verse.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *21b, 22a. nir ghR^iNaH* = oh, not, merciful one; *tvam* = you;
 *mahaatmanaH tasya* = to that noble souled, to him - Rama; *iidR^isham aliikam
 kR^itvaa* = this kind of, misdeed, on doing; *viSam piitvaa iva* = venom, drunk, like;
@@ -1141,6 +1119,28 @@ that Seetha is saying that 'the lasso of the Time is very long, but its noose is
 and that noose is already noosed around your throat, called arm-length-sized arrow of Rama, already
 shot from his bowstring, called sting-like Seetha, as I am his and only his... as such, inescapable
 you are, anywhere you go...'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22b, 23a. raavaNa* = Ravana; *tvam* = you; *dur
+nivaareNa* = not, preventable; *kaala paashena baddhaH* = by Time's, lasso, bound;
+*mama bhartuH mahaa-aatmanaH* = my, husband, from strong-willed one [uncompromising] Rama;
+*kva gataH* = to where, on going; *lapsyase sharma* = you get, complacency.
+
+**अनुवादः**
+
+"You are bound by the unpreventable lasso of the Time, oh, Ravana, on going where
+you will get complacency from that uncompromising husband of mine? [3-53-22b, 23a]
+
+**टिप्पनी**
+
+Ravana may say: 'is it? What is the proof of his mettle basing on which you
+sermonise me?' For this, her reply is in the next verse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga53/aranyasans53.htm)
 </details>

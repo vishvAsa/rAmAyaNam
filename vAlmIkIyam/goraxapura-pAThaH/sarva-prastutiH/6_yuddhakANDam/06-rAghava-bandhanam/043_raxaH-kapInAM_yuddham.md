@@ -2104,23 +2104,6 @@ _________________
 
 **पदच्छेदः**
 
-*45. kabandhaani* = the headless trunks; *vaanara rakSasaam* =
-of monkeys and demons; *samutpetuH* = sprang up; *dikSu* = here and there;
-*tasmin* = (in the midst) of that; *tumule vimarde* = tumultuous conflict;
-*devaasura raNopame* = which resembled the war between celestials and demons.
-
-**अनुवादः**
-
-The headless trunks of monkeys and demons sprang up here and there in the midst of
-that tumultuous conflict, which resembled the war between celestials and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 43; *44. aayodhanam* = the battle-field; *babhuuva* = became;
 *ghoram* = frightening; *bhallaiH* = with extra ordinary spears; *anyaiH* =
 other arrows; *gadaabhishcha* = maces; *shaktitomara paTTishaiH* = javelins; lances
@@ -2137,6 +2120,23 @@ The battle-field became frightening with extra-ordinary spears, other arrows, ma
 javelins, lances and some other weapons with three points, shattered chariots and military steeds
 elephants in rut, monkeys and demons which had been killed, wheels axles and yokes broken and lying
 on the ground and frequented as it was by herds of jackals.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. kabandhaani* = the headless trunks; *vaanara rakSasaam* =
+of monkeys and demons; *samutpetuH* = sprang up; *dikSu* = here and there;
+*tasmin* = (in the midst) of that; *tumule vimarde* = tumultuous conflict;
+*devaasura raNopame* = which resembled the war between celestials and demons.
+
+**अनुवादः**
+
+The headless trunks of monkeys and demons sprang up here and there in the midst of
+that tumultuous conflict, which resembled the war between celestials and demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga43/yuddhasans43.htm)
 </details>

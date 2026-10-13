@@ -838,24 +838,6 @@ _________________
 
 **पदच्छेदः**
 
-*18. plavangamaaH* = oh, fly-jumpers; *plavamaanaH* = while
-fly-jumping; *parvataan cuurNaSyaami* = mountains, I wish to pulverise; *plavamaanaH*
-= while I fly over; *uuru vegena* = by my thigh's, speed; *mahaaarNavam* = great
-ocean [hariSyaami] = I wish to expropriate - wish to deplete.
-
-**अनुवादः**
-
-"Or, shall I pulverise the mountains while fly-jumping on them, or oh, fly-jumpers,
-shall I splash out the waters great ocean just by the speed of my thighs while I fly over it, by
-which all of its water will trail after my tail... [4-67-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *17. aakaasha go caraan* = sky, way, wayfarers; *sarvaan* = all
 of them; *atikraantum* = to overtake; *utsaheyam* = I venture to; *saagaram
 shoSayiSyaami* = ocean, I wish to dry up; *mediniim daarayiSyaami* = earth, I wish to
@@ -871,6 +853,24 @@ pare off the earth... [4-67-17]
 These capabilities of these vanara-s are already said in Bala Kanda, as their
 congenital capabilities as at 1-17-27: 'They can also speedily agitate the Lord of Rivers, the
 Ocean...tear off the ground with their two feet, and can leap great oceans...'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18. plavangamaaH* = oh, fly-jumpers; *plavamaanaH* = while
+fly-jumping; *parvataan cuurNaSyaami* = mountains, I wish to pulverise; *plavamaanaH*
+= while I fly over; *uuru vegena* = by my thigh's, speed; *mahaaarNavam* = great
+ocean [hariSyaami] = I wish to expropriate - wish to deplete.
+
+**अनुवादः**
+
+"Or, shall I pulverise the mountains while fly-jumping on them, or oh, fly-jumpers,
+shall I splash out the waters great ocean just by the speed of my thighs while I fly over it, by
+which all of its water will trail after my tail... [4-67-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
@@ -1022,28 +1022,6 @@ movement across the vast of sky, and my southerly descent from the sky... [4-67-
 
 **पदच्छेदः**
 
-*22b, 22c. samaahitaH* = self-assuredly; *plavamaanaH* = while
-flying; *jiimuutaan* = clouds [cloudscape]; *vi dhamiSyaami* = verily, swipe at
-[helter-skelter]; *parvataan kampa yiSyaami* = mountains, I wish to swirl, [topsy-turvy];
-*saagaram shoSayiSyaami* = ocean, I wish to sere.
-
-**अनुवादः**
-
-"While flying self-assuredly shall I swipe at the cloudscape helter-skelter, or
-shall I swirl the mountains topsy-turvy, or shall I sere the ocean pell-mell... [4-67-22b, 22c]
-
-**टिप्पनी**
-
-Annex: 'all can be done not individually, but I do it all at a time, in my
-gustily alacritous single flight...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *21b, 22a. plavangamaaH* = oh, fly-jumpers; *mahaa meru
 pratiikaasham* = a prodigious one, to Mt. Meru, similar in shine - such as I am; *divam
 aavR^itya* = sky, spanning on; *gacChantam* = while going [a propulsive force];
@@ -1060,6 +1038,28 @@ Meru and flying with a propulsive force as though to swallow the sky... [4-67-21
 Annex: 'so far you have seen one massive Mt. Meru swallowing a bit of sky with
 its massy peak... but I will be a flying mountain and I will swallow all of the sky, not only with
 a mountainy peak but with a mountainous base, as well...'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22b, 22c. samaahitaH* = self-assuredly; *plavamaanaH* = while
+flying; *jiimuutaan* = clouds [cloudscape]; *vi dhamiSyaami* = verily, swipe at
+[helter-skelter]; *parvataan kampa yiSyaami* = mountains, I wish to swirl, [topsy-turvy];
+*saagaram shoSayiSyaami* = ocean, I wish to sere.
+
+**अनुवादः**
+
+"While flying self-assuredly shall I swipe at the cloudscape helter-skelter, or
+shall I swirl the mountains topsy-turvy, or shall I sere the ocean pell-mell... [4-67-22b, 22c]
+
+**टिप्पनी**
+
+Annex: 'all can be done not individually, but I do it all at a time, in my
+gustily alacritous single flight...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>
@@ -1797,6 +1797,23 @@ _________________
 
 **पदच्छेदः**
 
+*35b, 36a. shilaa sankaTa shaalinaH* = with boulders, altitudinal
+cliffs, beaming forth; *asya* = of this; *mahendrasya nagasya* = of Mt. Mahendra,
+mountain's; *etaani shikharaaNi* = these, crests; *sthiraaNi ca* = tough, also;
+*mahaanti ca hi* = towering, even, indeed.
+
+**अनुवादः**
+
+"This Mt. Mahendra is beaming forth with boulders and altitudinal cliffs, and the
+crests of this mountain are indeed tough, and even towering... [4-67-35b, 36a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *36b, 37a. naanaa druma vikiirNeSu* = divers, trees, outspreaded with;
 *dhaatu niSpanda shobhiSu* = from ores, transuded [from mountain's interstices,] shining
 forth; *yeSu mahendra shikhareSu* = in these, Mt. Mahendra's, in peaks; *aham vegam
@@ -1807,23 +1824,6 @@ gamiSyaami* = I, into speed, I go [I gain speed for my kick-start.]
 "Diversely outspreaded are its trees, and divers are its transuding ores, thus this
 mountain is shining forth... hence, from the peaks of this Mt. Mahendra I will gain speed for my
 kick-start... [4-67-36b, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*35b, 36a. shilaa sankaTa shaalinaH* = with boulders, altitudinal
-cliffs, beaming forth; *asya* = of this; *mahendrasya nagasya* = of Mt. Mahendra,
-mountain's; *etaani shikharaaNi* = these, crests; *sthiraaNi ca* = tough, also;
-*mahaanti ca hi* = towering, even, indeed.
-
-**अनुवादः**
-
-"This Mt. Mahendra is beaming forth with boulders and altitudinal cliffs, and the
-crests of this mountain are indeed tough, and even towering... [4-67-35b, 36a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga67/kishkindhasans67.htm)
 </details>

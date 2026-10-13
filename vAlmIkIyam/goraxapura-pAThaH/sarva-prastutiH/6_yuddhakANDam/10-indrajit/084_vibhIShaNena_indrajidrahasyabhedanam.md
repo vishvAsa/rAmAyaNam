@@ -389,24 +389,6 @@ killed by Indrajit, Rama entered into a swoon."
 
 **पदच्छेदः**
 
-*9. aham* = I; *manye* = think; *yat tat* = that which;
-*tvam* = you; *uktaH* = have been told; *hanuumataa* = by Hanuma;
-*aartaruupeNa* = with a sorrowful temper; *manujendra* = Oruler of men;
-*ayuktam* = is absurd; *shoShaNam iva* = as the drying up; *saagarasya* = of
-the sea.
-
-**अनुवादः**
-
-"I hold that which you have been told by Hanuma with a sorrowful temper, O ruler of
-men, to be absurd as the drying up of the sea."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. samnivaarya* = Intercepting; *saumitram* = Lakshmana;
 *kathayantam* = who was thus narrating; *vibhiiShaNaH* = Vibhishana;
 *abraviit* = spoke; *idam* = the following; *puShkalaartham* = amply
@@ -417,6 +399,24 @@ unconscious.
 
 Intercepting the narrating Lakshmana in the middle, Vibhishana spoke the following
 amply meaningful words to Rama, who was in an unconscious state.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. aham* = I; *manye* = think; *yat tat* = that which;
+*tvam* = you; *uktaH* = have been told; *hanuumataa* = by Hanuma;
+*aartaruupeNa* = with a sorrowful temper; *manujendra* = Oruler of men;
+*ayuktam* = is absurd; *shoShaNam iva* = as the drying up; *saagarasya* = of
+the sea.
+
+**अनुवादः**
+
+"I hold that which you have been told by Hanuma with a sorrowful temper, O ruler of
+men, to be absurd as the drying up of the sea."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>
@@ -761,23 +761,6 @@ prowess of the monkeys there."
 
 **पदच्छेदः**
 
-*18. tvam* = you; *tiShTha* = stay; *iha* = here;
-*svasthahR^idayaH* = confident at heart; *sattvasamuchchhritaH* = and exalted in
-courage; *preShaya* = send; *lakShmaNam* = Lakshmana; *asmaabhiH saha* = with
-us; *sainyaanukarShibhiH* = who are summoning an army.
-
-**अनुवादः**
-
-"Very exalted as you are in courage, stay you here, confident at heart, and send
-Lakshmana with us, who are taking an army along with us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 16; *17. yaavat* = before which time; *tat* = that act of
 offering oblations in the sacred fire; *na samaapyate* = is not completed; (within that
 time); *gachchhaama* = we shall go; *tatra* = there; *sasainyaaH* = along with
@@ -792,6 +775,23 @@ into despondency.
 "While the sacrificial performance is not ended, we shall proceed to that place,
 along with an army. O the foremost of men! Give up this improper grief, which has come upon you.
 Seeing you tormented with grief, the entire army is sinking into despondency."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. tvam* = you; *tiShTha* = stay; *iha* = here;
+*svasthahR^idayaH* = confident at heart; *sattvasamuchchhritaH* = and exalted in
+courage; *preShaya* = send; *lakShmaNam* = Lakshmana; *asmaabhiH saha* = with
+us; *sainyaanukarShibhiH* = who are summoning an army.
+
+**अनुवादः**
+
+"Very exalted as you are in courage, stay you here, confident at heart, and send
+Lakshmana with us, who are taking an army along with us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhasans84.htm)
 </details>

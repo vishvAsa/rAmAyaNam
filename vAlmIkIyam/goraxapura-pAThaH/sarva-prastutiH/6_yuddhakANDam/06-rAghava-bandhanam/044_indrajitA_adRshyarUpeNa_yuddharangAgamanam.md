@@ -1707,6 +1707,24 @@ lightning.
 
 **पदच्छेदः**
 
+*36. kruddhaH* = being enraged; *samara* = in battle;
+(Indrajit); *bidheda* = burted out; *sharaiH* = arrows; *ghoraiH* = which were
+terrific; *naaga mayaiH* = in the form of serpants; *sarva gaatreSu* = into all the
+limbs; *raamam cha* = of Rama; *lakSmaNam chaiva* = and Lakshmana; *raaghavau*
+= born in Raghu dynasty.
+
+**अनुवादः**
+
+Being enraged in battle, Indrajit bursted out serpent-like terrible arrows into all
+the limbs of Rama and Lakshmana who were born in Raghu dynasty.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *37. samvR^itaH* = enveloped; *maayayaa* = by illusion;
 *mohayan* = he sought to confuse; *raaghavau* = Rama and Lakshmana; *yudhi* =
 in the struggle; *tatra* = their; *adR^ishya* = and invisible; *sarva
@@ -1720,24 +1738,6 @@ bandhena* = with a net work of arrows.
 Enveloped by illusion, he sought to confuse Rama and Lakshmana in the struggle there
 and invisible to all beings through his magic arts, Indrajit the ranger of the night bound those
 two brothers Rama and Lakshmana with a net work of arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*36. kruddhaH* = being enraged; *samara* = in battle;
-(Indrajit); *bidheda* = burted out; *sharaiH* = arrows; *ghoraiH* = which were
-terrific; *naaga mayaiH* = in the form of serpants; *sarva gaatreSu* = into all the
-limbs; *raamam cha* = of Rama; *lakSmaNam chaiva* = and Lakshmana; *raaghavau*
-= born in Raghu dynasty.
-
-**अनुवादः**
-
-Being enraged in battle, Indrajit bursted out serpent-like terrible arrows into all
-the limbs of Rama and Lakshmana who were born in Raghu dynasty.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm)
 </details>

@@ -75,23 +75,6 @@ missile and many other arrows, which will devastate the entire army of Dushana's
 
 **पदच्छेदः**
 
-*2. tam dR^iSTvaa* = at him [Rama,] on seeing; *khara niHsvanam* = Khara, bawling [or,
-ass-like, braying bow]; *sa guNam caapam udyamya* = with, string-taut, bow, on raising up;
-*raamasya abhimukham* = to Rama's, fore; *codyataam* = let [chariot] be driven; *iti
-suutam acodayat* = thus, at charioteer, drove [him crazy.]
-
-**अनुवादः**
-
-On seeing Rama that bawling Khara raised his string-taut bow that makes an ass-like braying twang, drove
-his charioteer crazy saying, "drive to the fore of that Rama..." [3-25-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1. kharaH puraHsaraiH saha* = Khara, forerunning soldiers, along with; *aashramam aagamya*
 = at hermitage, on coming; *avaSTabdha dhanum* = at Rama, who is holding fast, bow; *kruddham*
 = wrathful one; *ripu ghaatinam raamam ca* = enemy, eliminator, also; *dadarsha* = has
@@ -101,6 +84,23 @@ seen.
 
 Khara on arriving at the hermitage along with forerunning soldiers saw the enemy-eliminator and wrathful
 Rama holding fast to his bow. [3-25-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. tam dR^iSTvaa* = at him [Rama,] on seeing; *khara niHsvanam* = Khara, bawling [or,
+ass-like, braying bow]; *sa guNam caapam udyamya* = with, string-taut, bow, on raising up;
+*raamasya abhimukham* = to Rama's, fore; *codyataam* = let [chariot] be driven; *iti
+suutam acodayat* = thus, at charioteer, drove [him crazy.]
+
+**अनुवादः**
+
+On seeing Rama that bawling Khara raised his string-taut bow that makes an ass-like braying twang, drove
+his charioteer crazy saying, "drive to the fore of that Rama..." [3-25-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
@@ -791,24 +791,6 @@ On seeing lone Rama beset by many demons, then the gods, celestials, saints and 
 
 **पदच्छेदः**
 
-17b, 18a.* raamaH raNe* = Rama, in that war; *dur a vaaraan* = impossible, not to, stop
-- unstoppable ones; *dur vi sahaan* = impossible, to verily, tolerate - intolerable ones; *
-kaala paasha [daNDa] upamaan* = Time's, lead [shaft,] in simile; *kanka patraan* = eagle,
-feathered; *kaancana bhuuSaNaan* = in gold, adorned; such arrows; *mumoca liilayaa*
-= discharged, sportily.
-
-**अनुवादः**
-
-In that war Rama sportily discharged eagle-feathered arrows adorned in gold which are unstoppable and
-intolerable, and which in simile are the leads of Time-god. [3-25-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *16b, 17a. tataH* = then; *raamaH tu* = Rama, for his part; *susamkruddhaH* = becoming
 highly, infuriated; *maNDalii kR^ita kaarmukaH* = circularity, made [curved,] having bow; *
 shatashaH* = in hundreds; *atha* = why hundreds?; *sahasrashaH* = in thousands;
@@ -819,6 +801,24 @@ shatashaH* = in hundreds; *atha* = why hundreds?; *sahasrashaH* = in thousands;
 But Rama on becoming highly infuriated curved his bow to a full circularity on stretching the bowstring
 up to his ear, and then jetted out trenchant arrows in hundreds. Why hundreds? He surged them in thousands.
 [3-25-16b, 17a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+17b, 18a.* raamaH raNe* = Rama, in that war; *dur a vaaraan* = impossible, not to, stop
+- unstoppable ones; *dur vi sahaan* = impossible, to verily, tolerate - intolerable ones; *
+kaala paasha [daNDa] upamaan* = Time's, lead [shaft,] in simile; *kanka patraan* = eagle,
+feathered; *kaancana bhuuSaNaan* = in gold, adorned; such arrows; *mumoca liilayaa*
+= discharged, sportily.
+
+**अनुवादः**
+
+In that war Rama sportily discharged eagle-feathered arrows adorned in gold which are unstoppable and
+intolerable, and which in simile are the leads of Time-god. [3-25-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>
@@ -1322,22 +1322,6 @@ _________________
 
 **पदच्छेदः**
 
-*30. tatra avashiSTaaH* = there, remaining; *ye nishaacaraaH* = those, nightwalkers, even;
-*shara aahataaH* = by arrows, battered; *viSaNNaaH ca* = desperately, also; *kharam
-eva* = to Khara, alone; *sharaNa artham abhyadhaavanta* = for shelter, seeking, rushed.
-
-**अनुवादः**
-
-Those nightwalkers that are battered by those arrows and remaining there, they desperately rushed towards
-Khara alone seeking shelter. [3-25-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *29. te* = those demons; *Chinna shirasaH* = with severed, heads; *Chinna carma shara
 aasanaaH* = wrecked, shields, bows; *suparNa vaata vikshiptaa* = by Garuda, Divine-eagle,
 its gust, strewn around; *paadapaa yathaa* = trees, as with; *jagatyaam petuH* = on earth,
@@ -1348,6 +1332,22 @@ crashed down.
 Those demons crashed down to earth with their heads severed and shields and bows wrecked, like the trees
 strewn around on earth owing to the gust raised by Garuda, the Divine Eagle, when he takes a sudden
 flight in heavens. [3-25-29]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30. tatra avashiSTaaH* = there, remaining; *ye nishaacaraaH* = those, nightwalkers, even;
+*shara aahataaH* = by arrows, battered; *viSaNNaaH ca* = desperately, also; *kharam
+eva* = to Khara, alone; *sharaNa artham abhyadhaavanta* = for shelter, seeking, rushed.
+
+**अनुवादः**
+
+Those nightwalkers that are battered by those arrows and remaining there, they desperately rushed towards
+Khara alone seeking shelter. [3-25-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga25/aranyasans25.htm)
 </details>

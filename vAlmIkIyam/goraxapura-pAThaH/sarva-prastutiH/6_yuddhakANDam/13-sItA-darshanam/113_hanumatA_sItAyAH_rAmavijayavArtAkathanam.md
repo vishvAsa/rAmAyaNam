@@ -478,6 +478,23 @@ the great ocean and this vow (of winning you back) has been fulfilled."
 
 **पदच्छेदः**
 
+*12. sambhramaH cha na kartavyaH* = you ought not to fear;
+*vartyantyaa raavaNaalaya* = for having stayed in Ravana's abode; *idam* = this;
+*laN^kaishvaryam* = kingdom of Lanka; *kR^itam hi* = has been placed indeed;
+*vibhiiShana vidheyam* = under the dominion ship of Vbhishana.
+
+**अनुवादः**
+
+"You ought not to have any fear, living as you do in Ravana's abode. This kingdom of
+Lanka has now been placed indeed under the dominion ship of Vibhishana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *13. tat* = that is why; *aashvasi hi* = console yourself;
 *visrabdham* = complacently; *parivartase* = you are staying; *svagR^ihe* = in
 your own house; *ayam cha* = this Vibhishana too; *abhyeti* = is coming;
@@ -488,23 +505,6 @@ rejoice.
 
 "That is why, console yourself complacently. You are staying in your own house. This
 Vibhishana too is coming to you with a rejoice, as he is so eager to see you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*12. sambhramaH cha na kartavyaH* = you ought not to fear;
-*vartyantyaa raavaNaalaya* = for having stayed in Ravana's abode; *idam* = this;
-*laN^kaishvaryam* = kingdom of Lanka; *kR^itam hi* = has been placed indeed;
-*vibhiiShana vidheyam* = under the dominion ship of Vbhishana.
-
-**अनुवादः**
-
-"You ought not to have any fear, living as you do in Ravana's abode. This kingdom of
-Lanka has now been placed indeed under the dominion ship of Vibhishana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>
@@ -1561,6 +1561,29 @@ _________________
 
 **पदच्छेदः**
 
+*38. yashasvini* = O illustrious lady!; *samprahaarya* =
+striking them; *bahubhiH prahaaraiH* = with several blows; *evam* = in this way;
+*ghaataye* = I would destroy; *tiivraruupaabhiH* = the female demons of terrible
+form; *yaabhiH* = by whom; *tarjitaa* = you have been threatened; *puraa* = in
+the past.
+
+**अनुवादः**
+
+"O illustrious lady! Striking them with several blows in this way, I would destroy
+the female-demons of terrible form, by whom you have been threatened in the past."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+कपिश्रेष्ठने! ई बडपायिगळु राजन आश्रयदल्लिद्दु पराधीनरागिद्दरु. बेरॆयवर आज्ञॆयिन्दले ऎल्लवन्नु माडुत्तिद्दरु; आद्दरिन्द ऒडॆयन आज्ञॆयन्नु पालिसुव ई दासियर मेलॆ यारु ताने क्रोधगॊळ्ळुवरु? नन्न भाग्यवे चॆन्नागिरलिल्ल. नन्न हिन्दिन जन्मद दुष्कर्मवे तन्न फल कॊडुत्तित्तु, अदक्कागि ननगॆ इदॆल्ल कष्टगळु प्राप्तवादुवु; एकॆन्दरॆ ऎल्ल प्राणिगळु तावु माडिद शुभाशुभ कर्मगळ फलवन्ने अनुभविसुत्तारॆ. महाबाहो! नीनु इवरन्नु कॊल्लुव मातन्नु हेळबेड. ननगागि दैवद विधानवे हीगित्तु.॥38-40॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *39. chintayitvaa* = reflecting; *vimR^ishacha* = and pondering
 (for a while); *uktaa* = when spoken; *iti* = thus; *hanumataa* = by Hanuma;
 *saa kR^ipaNaa* = the compassionate Seetha; *diina vatsalaa* = who was kind to the
@@ -1573,11 +1596,6 @@ Reflecting as pondering for a while, when spoke thus by Hanuma, the compassionat
 Seetha, who was kind to the miserable, spoke to Hanuma as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-कपिश्रेष्ठने! ई बडपायिगळु राजन आश्रयदल्लिद्दु पराधीनरागिद्दरु. बेरॆयवर आज्ञॆयिन्दले ऎल्लवन्नु माडुत्तिद्दरु; आद्दरिन्द ऒडॆयन आज्ञॆयन्नु पालिसुव ई दासियर मेलॆ यारु ताने क्रोधगॊळ्ळुवरु? नन्न भाग्यवे चॆन्नागिरलिल्ल. नन्न हिन्दिन जन्मद दुष्कर्मवे तन्न फल कॊडुत्तित्तु, अदक्कागि ननगॆ इदॆल्ल कष्टगळु प्राप्तवादुवु; एकॆन्दरॆ ऎल्ल प्राणिगळु तावु माडिद शुभाशुभ कर्मगळ फलवन्ने अनुभविसुत्तारॆ. महाबाहो! नीनु इवरन्नु कॊल्लुव मातन्नु हेळबेड. ननगागि दैवद विधानवे हीगित्तु.॥38-40॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1593,24 +1611,6 @@ vidheyaanaam* = and work; *paraajJNayaa* = in obedience to the orders of others.
 
 "O the foremost of monkey! Who will be angry with servant-maids, who are dependent
 on their king's command and work in obedience to the orders of others?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*38. yashasvini* = O illustrious lady!; *samprahaarya* =
-striking them; *bahubhiH prahaaraiH* = with several blows; *evam* = in this way;
-*ghaataye* = I would destroy; *tiivraruupaabhiH* = the female demons of terrible
-form; *yaabhiH* = by whom; *tarjitaa* = you have been threatened; *puraa* = in
-the past.
-
-**अनुवादः**
-
-"O illustrious lady! Striking them with several blows in this way, I would destroy
-the female-demons of terrible form, by whom you have been threatened in the past."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga113/yuddhasans113.htm)
 </details>

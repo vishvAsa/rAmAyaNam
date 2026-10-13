@@ -726,23 +726,6 @@ _________________
 
 **पदच्छेदः**
 
-*15b, 16a. raamaH aSTabhiH saayakaiH* = Rama, with eight, arrows; *suutam* = charioteer
-is; *ratha upasthe nyapaatayat* = from chariot's, seat, fell down; *baaNena* = with one
-arrow; *asya* = his [Trishira's]; *sam ucChritam* = hoisted high; *dhvajam ca*
-= flag, also; *cicCheda* = ripped off.
-
-**अनुवादः**
-
-With eight arrows Rama felled the charioteer from his settle on the chariot, and with one arrow ripped
-off the high flying flag on that chariot. [3-27-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14b, 15a. tejasvii* = resplendent [Rama]; *sam nata parvaabhiH* = hook, barbed, straight-shooting
 ones; *caturbhiH sharaiH* = with four, arrows; *tasya* = such [kind of arrows]; *asya*
 = his [Trishira's]; *turagaan* = speedy going; *caturaH vaajinaH* = four, horses - of
@@ -752,6 +735,23 @@ chariot; *nyapaatayata* = fell down - hewed down.
 
 With four of his straight shooting arrows that have hook-like barbs, that resplendent Rama hewed down
 four of the speedy horses of Trishira's chariot. [3-27-14b, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15b, 16a. raamaH aSTabhiH saayakaiH* = Rama, with eight, arrows; *suutam* = charioteer
+is; *ratha upasthe nyapaatayat* = from chariot's, seat, fell down; *baaNena* = with one
+arrow; *asya* = his [Trishira's]; *sam ucChritam* = hoisted high; *dhvajam ca*
+= flag, also; *cicCheda* = ripped off.
+
+**अनुवादः**
+
+With eight arrows Rama felled the charioteer from his settle on the chariot, and with one arrow ripped
+off the high flying flag on that chariot. [3-27-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyasans27.htm)
 </details>

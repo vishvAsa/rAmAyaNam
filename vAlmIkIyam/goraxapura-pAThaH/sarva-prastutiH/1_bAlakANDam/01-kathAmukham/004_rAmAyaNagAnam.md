@@ -323,6 +323,29 @@ soul Valmiki, who is now thoughtful. [1-4-4]
 
 **पदच्छेदः**
 
+*5. kushiilavau tu* = Kusha and Lava; *dharmaj~nau* = virtue-knowers; *raajaputrau*
+ = princes; *yashasvinau* = glorious ones; *svarasampannau* = endowed with melodious
+voice; *bhraatarau* = brothers; *aashramavaasinau* =
+residents of [of same] hermitage; *[Valmiki] dadarsha* = seen;
+
+**अनुवादः**
+
+Glorious Kusha and Lava are the virtue knowing princes, and they are endowed with melodious
+voice, besides being the residents of the same hermitage, thus Valmiki saw them saluting at
+his feet. [1-4-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+कुश-लव सहोदररिब्बरु धर्मवन्नु तिळिद यशस्वी राजकुमाररागिद्दरु. अवर स्वरवु बहळ मधुरवागिद्दु, मुनिगळ आश्रमदल्ले इद्दरु. वेदपारङ्गतराद अवर धारणाशक्ति अद्भुतवागित्तु. पूज्यराद वाल्मीकिगळु अवरन्नु नोडि, इवरे सुयोग्यरॆन्दु तिळिदु उत्तम व्रतवन्नु पालिसुव आ महर्षिगळु वेदार्थद विस्तारदिन्द ऒळगॊण्ड सीतॆय चरित्रॆयिन्द युक्तवाद, पौलस्त्यवध ऎम्ब रामायण महाकाव्यवन्नु पूर्णवागि अवरिगॆ अध्ययन माडिसिदरु.॥5-7॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *6. prabhuH* = self-reliant sage; *saH* = he, Valmiki; *medhaavinau* =
 intellectual pair; *vedeShu pariniSTitau* = proficient in Vedas; *dR^iSTvaa*
 = having seen; *vedopabR^imhaNaarthaaya [ kathitam kaavyam]* = aiming at ancillary reinforcement of Veda-s[rendered, epic];
@@ -336,11 +359,6 @@ made those two to memorize the epic, as the epic Ramayana is composed only to re
 import of Veda-s, as an ancillary. [1-4-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-कुश-लव सहोदररिब्बरु धर्मवन्नु तिळिद यशस्वी राजकुमाररागिद्दरु. अवर स्वरवु बहळ मधुरवागिद्दु, मुनिगळ आश्रमदल्ले इद्दरु. वेदपारङ्गतराद अवर धारणाशक्ति अद्भुतवागित्तु. पूज्यराद वाल्मीकिगळु अवरन्नु नोडि, इवरे सुयोग्यरॆन्दु तिळिदु उत्तम व्रतवन्नु पालिसुव आ महर्षिगळु वेदार्थद विस्तारदिन्द ऒळगॊण्ड सीतॆय चरित्रॆयिन्द युक्तवाद, पौलस्त्यवध ऎम्ब रामायण महाकाव्यवन्नु पूर्णवागि अवरिगॆ अध्ययन माडिसिदरु.॥5-7॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -363,24 +381,6 @@ Seetha's conduct is the primary aspect and Ravana's elimination is secondary in 
 Ramayana. *poulasthyavadha* . Giving one to many names to poem/epics is usual as in
 *maaghakaavya'* which is known as *shishupaalavadha* whereas it is actually
 *kR^iShNacarita* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*5. kushiilavau tu* = Kusha and Lava; *dharmaj~nau* = virtue-knowers; *raajaputrau*
- = princes; *yashasvinau* = glorious ones; *svarasampannau* = endowed with melodious
-voice; *bhraatarau* = brothers; *aashramavaasinau* =
-residents of [of same] hermitage; *[Valmiki] dadarsha* = seen;
-
-**अनुवादः**
-
-Glorious Kusha and Lava are the virtue knowing princes, and they are endowed with melodious
-voice, besides being the residents of the same hermitage, thus Valmiki saw them saluting at
-his feet. [1-4-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
@@ -437,6 +437,30 @@ _________________
 
 **पदच्छेदः**
 
+*8. paaThye geye madhuram* = melodious to read and to sing; *pramaaNaiH tribhiH anvitam*
+= adaptable in three kinds scales; *jaatibhiH saptabhiH baddham* = orchestral sevenfold classification;
+ *tantriilayasamanvitam* = string-instrument, rhythm, included.
+
+**अनुवादः**
+
+To read or to sing it is melodious, adaptable to music with three scales and sevenfold tune,
+and orchestral to the tunes of string-instrument and rhythm included... [1-4-8]
+
+**टिप्पनी**
+
+The three Indian scale pauses are *dR^ita, madhyama, vilambita* . These though not
+equal but identical to Breve, Minim and Quaver of Western classical music. The seven fold
+classifications of swara-s are *1] shadja [2] madhyama [3] gaandhaara [4] niSaada [5] R^iSabha
+[6] dhaivata [7] pa~nchama* . These are roughly identical to Accelerando, Calando, Decresando,
+Smorzando, Sostentuo, and others of Western classical music.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *9. rasaiH sR^ingaarakaruNahaasyaraudrabhayaanakaiH* = aesthetics, romance, pathos,
 comic, fury, fright, and others; *viiraadibhiH rasaiH yuktam* = embodying aesthetics like valour et cetera;
 *kaavyam agaayataam* = epic, is sung.
@@ -464,30 +488,6 @@ Killing, torturing etc., situations arouse furiousness. Lakshmana, Indrjit and o
 showing bravery. Seeing ugly demons either in forests or those that surround Seetha is causing
 fright. The very sight of ugly bodied demons like Viradha, Kabandha is creating disgust. Hanuma's
 leaping ocean, burning Lanka, and the entire Rama-Ravana war are amazing
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*8. paaThye geye madhuram* = melodious to read and to sing; *pramaaNaiH tribhiH anvitam*
-= adaptable in three kinds scales; *jaatibhiH saptabhiH baddham* = orchestral sevenfold classification;
- *tantriilayasamanvitam* = string-instrument, rhythm, included.
-
-**अनुवादः**
-
-To read or to sing it is melodious, adaptable to music with three scales and sevenfold tune,
-and orchestral to the tunes of string-instrument and rhythm included... [1-4-8]
-
-**टिप्पनी**
-
-The three Indian scale pauses are *dR^ita, madhyama, vilambita* . These though not
-equal but identical to Breve, Minim and Quaver of Western classical music. The seven fold
-classifications of swara-s are *1] shadja [2] madhyama [3] gaandhaara [4] niSaada [5] R^iSabha
-[6] dhaivata [7] pa~nchama* . These are roughly identical to Accelerando, Calando, Decresando,
-Smorzando, Sostentuo, and others of Western classical music.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
@@ -676,23 +676,6 @@ _________________
 
 **पदच्छेदः**
 
-*13. R^iSiiNaam cha dvijaatiinaam* = of sages, also, of scholars; *saadhuunaam cha
-samaagame* = also assemblages of eminent persons; *yathopadesham tattvaj~nau*
-= as schooled, those two that are well aware of; *jagatuH* = sung; *susamaahitau*
-= with best concentration.
-
-**अनुवादः**
-
-They sung the epic as schooled, well aware of its content and intent, among the assemblages
-of sages, scholars and also of eminent persons, with their best concentration [1-4-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *12. tau raajaputrau kaartsnyena* = they, king's, sons [princes,] in entirety; *
 dharmyam aakhyanam uttamam* = virtue expounding, best epic; *vaachaH vidheyam tat
 sarvam* = by voice, preserved [memorized,] all that; *kR^itvaa kaavyam aninditau*
@@ -702,6 +685,23 @@ sarvam* = by voice, preserved [memorized,] all that; *kR^itvaa kaavyam aninditau
 
 They the princes have memorized that virtue-expounding epic, the best; in its entirety and
 in doing so, they rendered that epic faultlessly. [1-4-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. R^iSiiNaam cha dvijaatiinaam* = of sages, also, of scholars; *saadhuunaam cha
+samaagame* = also assemblages of eminent persons; *yathopadesham tattvaj~nau*
+= as schooled, those two that are well aware of; *jagatuH* = sung; *susamaahitau*
+= with best concentration.
+
+**अनुवादः**
+
+They sung the epic as schooled, well aware of its content and intent, among the assemblages
+of sages, scholars and also of eminent persons, with their best concentration [1-4-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
@@ -748,6 +748,29 @@ in doing so, they rendered that epic faultlessly. [1-4-12]
 
 **पदच्छेदः**
 
+*14. mahaatmaanau* = those two great-souls; *mahaabhaagau* = highly endowed
+[with musical talent]; *sarvalakShaNalakShitau* = possessing all features; *
+tau kadachit* = those two, once; *sametaanaam R^iSiiNaam* = at a gathering, of sages;
+*bhaavitaatmanaam* = of pious souls; *madhyesabham samiipasthau* = standing nearby midst
+of assemblage; *idam kaavyam agaayataam* = sung this epic.
+
+**अनुवादः**
+
+Once those two great-souls who endowed with musical talent and with all remarkable features,
+sung this epic, standing nearby the midst of a gathering of sages and pious souls. [1-4-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+ऒन्दु दिन बहळष्टु शुद्ध अन्तःकरणवुळ्ळ महर्षिगळ संसत्तु नॆरॆदित्तु. अवरल्लि महाभाग्य शालिगळू, शुभलक्षणगळिन्द सुशोभितराद कुश-लवरू उपस्थितरागिद्दरु. अवरु आ सभॆयल्लि सेरिद महात्मर मुन्दॆ रामायण काव्यवन्नु मधुरवागि हाडिदरु. अदन्नु केळि ऎल्ल मुनिगळ कण्णुगळिन्द आनन्दाश्रुगळु सुरिदवु. अवरु अत्यन्त आश्चर्यगॊण्डवरागि साधु! साधु! ऎन्दु प्रशंसिसिदरु. मुनिगळु धर्म वत्सलरे आगिरुत्तारॆ. आ धार्मिक उपाख्यानवन्नु केळि ऎल्लर मनस्सिगॆ बहळ सन्तोषवायितु.॥14-16॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *15. sarve munayaH* = all, sages; *tat shrutvaa* = that, on hearing;
 *param vismayam aagataaH* = great, surprise, coming on; *baaSpaparyaakulekShaNaaH*
 = with tears overspread eye-sight; *saadhu saadhu iti tau uuchuH* = splendid, splendid,
@@ -759,11 +782,6 @@ On hearing that, the eyes of all the sages were overspread with tears of happine
 appreciated saying, 'splendid, splendid is this...' [1-4-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-ऒन्दु दिन बहळष्टु शुद्ध अन्तःकरणवुळ्ळ महर्षिगळ संसत्तु नॆरॆदित्तु. अवरल्लि महाभाग्य शालिगळू, शुभलक्षणगळिन्द सुशोभितराद कुश-लवरू उपस्थितरागिद्दरु. अवरु आ सभॆयल्लि सेरिद महात्मर मुन्दॆ रामायण काव्यवन्नु मधुरवागि हाडिदरु. अदन्नु केळि ऎल्ल मुनिगळ कण्णुगळिन्द आनन्दाश्रुगळु सुरिदवु. अवरु अत्यन्त आश्चर्यगॊण्डवरागि साधु! साधु! ऎन्दु प्रशंसिसिदरु. मुनिगळु धर्म वत्सलरे आगिरुत्तारॆ. आ धार्मिक उपाख्यानवन्नु केळि ऎल्लर मनस्सिगॆ बहळ सन्तोषवायितु.॥14-16॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -779,24 +797,6 @@ patrons of virtue; *te priitamanasaH* = they pleased at heart; *prashastavyau*
 
 All those saints being the saint-patrons of virtue are pleased at heart, and praised the praiseworthy
 Kusha and Lava, while they are singing. [1-4-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*14. mahaatmaanau* = those two great-souls; *mahaabhaagau* = highly endowed
-[with musical talent]; *sarvalakShaNalakShitau* = possessing all features; *
-tau kadachit* = those two, once; *sametaanaam R^iSiiNaam* = at a gathering, of sages;
-*bhaavitaatmanaam* = of pious souls; *madhyesabham samiipasthau* = standing nearby midst
-of assemblage; *idam kaavyam agaayataam* = sung this epic.
-
-**अनुवादः**
-
-Once those two great-souls who endowed with musical talent and with all remarkable features,
-sung this epic, standing nearby the midst of a gathering of sages and pious souls. [1-4-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
@@ -1249,32 +1249,20 @@ _________________
 
 **पदच्छेदः**
 
-*31. raamaH* = Rama; *dR^iSTvaa* = on seeing; *ruupasampannou*
-= rich in features; *viniitau* = mannerly ones; *bhraatarau ubhau* = at brothers,
-both; *lakShmaNam shatrughnam bharatam tathaa* = to Lakshmana, to Shatrughna, Bharata,
-likewise; *uvaaca* = spoke to.
+*27-28. idam giitam* = this, song; *saayuSyam puSTijanakam* = generates longevity and
+prosperity; *sarvashrutimanoharam* = melodious one to all ears; *abhigiitam*
+= well-sung; *prashasyamaanau* = those being appreciated; *rathyaasu raajamaargeSu*
+= in streets, in king's ways; *sarvatra* = everywhere; *gaayakau* = those that
+are singing; *sarvagiiteSu kovidau* = experts in every type of singing - Lava and
+Kusha; *kadaachit tatra* = at one time, there; *dadarsha bharataagrajaH* = on
+seeing, Bharata's elder brother [Rama].
 
 **अनुवादः**
 
-Having seen the mannerly brothers endowed with beautiful features, Rama spoke to Lakshmana,
-and Shatrughna, and Bharata likewise. [1-4-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*30. saH prabhuH* = he, that king Rama; *upopaviSTaiH* = sitting nearby;
-*sachivaiH bhraatR^ibhiH cha samanvitaH* = surrounded by ministers and brothers;
-*divye kaa~nchane siMhaasane* = on divine, golden, throne; *aasiinaH* =
-sat.
-
-**अनुवादः**
-
-He that king Rama is then surrounded by his ministers and brothers that are sitting his nearby,
-he himself sat on a divine golden throne. [1-4-30]
+While this song that generates longevity and prosperity, and one that is melodious one to
+all ears is being sung everywhere in streets and king's ways and while those two singers who
+are experts in singing any kind of music are being appreciated everywhere, Rama has seen them.
+[1-4-27-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
@@ -1296,9 +1284,43 @@ and Kusha, to his palace and honoured them. [1-4-29]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30. saH prabhuH* = he, that king Rama; *upopaviSTaiH* = sitting nearby;
+*sachivaiH bhraatR^ibhiH cha samanvitaH* = surrounded by ministers and brothers;
+*divye kaa~nchane siMhaasane* = on divine, golden, throne; *aasiinaH* =
+sat.
+
+**अनुवादः**
+
+He that king Rama is then surrounded by his ministers and brothers that are sitting his nearby,
+he himself sat on a divine golden throne. [1-4-30]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 ऎल्लॆडॆ प्रशंसितराद राजकुमार कुश-लवरु ऒम्मॆ अयोध्यॆय राज बीदिगळल्लि रामायणद श्लोकगळन्नु हाडुत्ता होगुत्तिद्दरु. आग भरताग्रज श्रीरामन दृष्टि अवर मेलॆ बित्तु. शत्रुनिबर्हणनाद श्रीरामनु सन्मानार्हराद सोदर कुश-लवरन्नु अरमनॆगॆ करॆसि यथायोग्यवागि उपचरिसिदनु. मत्तॆ प्रभुवाद श्रीरामचन्द्रनु सिंहासनदल्लि कुळितु, मन्त्रिगळिन्दलू, लक्ष्मण, भरत, शत्रुघ्नादिगळॊन्दिगॆ परिवृतनागि रूप सम्पन्नराद विनयशील सहोदररन्नु नोडि, भरत, शत्रुघ्नरल्लि ई देवतॆगळन्तॆ तेजस्वियाद ई कुमाररु विचित्रार्थ पद समूहदिन्द कूडिद मधुर काव्यवन्नु बहळ सुन्दरवागि हाडुत्तारॆ, नीवॆल्लरू इदन्नु केळिरि. हीगॆ हेळि अवनु कुश-लवरिगॆ नीवु आख्यानवन्नु आरम्भिसबहुदु ऎन्दु आज्ञापिसिदनु.॥28-32½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*31. raamaH* = Rama; *dR^iSTvaa* = on seeing; *ruupasampannou*
+= rich in features; *viniitau* = mannerly ones; *bhraatarau ubhau* = at brothers,
+both; *lakShmaNam shatrughnam bharatam tathaa* = to Lakshmana, to Shatrughna, Bharata,
+likewise; *uvaaca* = spoke to.
+
+**अनुवादः**
+
+Having seen the mannerly brothers endowed with beautiful features, Rama spoke to Lakshmana,
+and Shatrughna, and Bharata likewise. [1-4-31]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1314,28 +1336,6 @@ two singers, motivated.
 
 Rama said to thus, "Let this ballad be keenly heard from these divinely resplendent brothers,
 for it contains versatile words and meanings...' and thus he motivated the singers. [1-4-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*27-28. idam giitam* = this, song; *saayuSyam puSTijanakam* = generates longevity and
-prosperity; *sarvashrutimanoharam* = melodious one to all ears; *abhigiitam*
-= well-sung; *prashasyamaanau* = those being appreciated; *rathyaasu raajamaargeSu*
-= in streets, in king's ways; *sarvatra* = everywhere; *gaayakau* = those that
-are singing; *sarvagiiteSu kovidau* = experts in every type of singing - Lava and
-Kusha; *kadaachit tatra* = at one time, there; *dadarsha bharataagrajaH* = on
-seeing, Bharata's elder brother [Rama].
-
-**अनुवादः**
-
-While this song that generates longevity and prosperity, and one that is melodious one to
-all ears is being sung everywhere in streets and king's ways and while those two singers who
-are experts in singing any kind of music are being appreciated everywhere, Rama has seen them.
-[1-4-27-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>
@@ -1384,24 +1384,6 @@ _________________
 
 **पदच्छेदः**
 
-*34. shrotraashrayasukham* = bearing comfort for all ears; *geyam* = that
-song; *janasamsadi* = in people's gathering; *sarvagaatraaNi* = for all bodies
-[courtiers]; *manaamsi hR^idayaani cha* = minds, hearts, also; *hlaadayat* = enthralling,;
-*tat babhau* = that, shone forth.
-
-**अनुवादः**
-
-Enthralling courtier's bodies, minds and hearts also, and thus that song shone forth as it
-is for all ears, bearing a comfort in its manifestation, among the gathering of the people.
-[1-4-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *33. tau cha api madhuram* = those two, even, melodiously; *raktam sva~chitaayataniHsvanan
 * = effectually, with clear and clarified voices; *tantriilayavat*
 = rhythmic like string-instrument; *atyartham* = very; *vishrutaartham agaayataam*
@@ -1412,6 +1394,24 @@ is for all ears, bearing a comfort in its manifestation, among the gathering of 
 Even those two singers have sung the ballad melodiously and effectually, with their clear
 and clarified voices, like the melody of string and rhythmic instruments, with very clear
 and meaningful intonation. [1-4-33]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*34. shrotraashrayasukham* = bearing comfort for all ears; *geyam* = that
+song; *janasamsadi* = in people's gathering; *sarvagaatraaNi* = for all bodies
+[courtiers]; *manaamsi hR^idayaani cha* = minds, hearts, also; *hlaadayat* = enthralling,;
+*tat babhau* = that, shone forth.
+
+**अनुवादः**
+
+Enthralling courtier's bodies, minds and hearts also, and thus that song shone forth as it
+is for all ears, bearing a comfort in its manifestation, among the gathering of the people.
+[1-4-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm)
 </details>

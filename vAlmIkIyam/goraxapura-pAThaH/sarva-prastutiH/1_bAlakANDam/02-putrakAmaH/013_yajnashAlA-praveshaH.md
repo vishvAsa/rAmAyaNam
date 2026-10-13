@@ -685,23 +685,6 @@ _________________
 
 **पदच्छेदः**
 
-*17. sarvam yathaa suvihitam* = as to how all this will be well organised; *
-kimchit na parihiiyate* = in the least, not, be neglected; *tathaa bhavantaH* =
-thus, you all; *priitiyuktena chetasaa* = with interestedness [cooperation,] in good
-spirit; *kurvantu* = shall administer.
-
-**अनुवादः**
-
-"Thus, as to how all this be well organised without least negligence, thus you all shall administer
-in all your cooperation and good spirit." Thus Sage Vashishta spoke to the organisers. [1-13-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *15b, 16. ye puruSaaH tathaa shilpinaH* = those men like and architects; *yaj~nakarmasu vyagraaH*
 = preoccupied in ritual's works; *teSaam api visheSeNa* = they
 be, also, exceptionally; *puujaa kaaryaa yathaakramam* = respectability, to be done,
@@ -713,6 +696,23 @@ foods, also; *sampuujitaaH syuH* = they will be well treated.
 "Exceptionally respectable are those men and architects that are preoccupied in the works
 of the ritual as they deserve, and those men involved in these works shall be well-treated
 with funds and food. [1-13-15b, 16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17. sarvam yathaa suvihitam* = as to how all this will be well organised; *
+kimchit na parihiiyate* = in the least, not, be neglected; *tathaa bhavantaH* =
+thus, you all; *priitiyuktena chetasaa* = with interestedness [cooperation,] in good
+spirit; *kurvantu* = shall administer.
+
+**अनुवादः**
+
+"Thus, as to how all this be well organised without least negligence, thus you all shall administer
+in all your cooperation and good spirit." Thus Sage Vashishta spoke to the organisers. [1-13-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>
@@ -1643,6 +1643,22 @@ conducting any auspicious work.
 
 **पदच्छेदः**
 
+*40. tataH vashiSThapramukhaaH* = then, Vashishta and other eminent ones; *sarve
+eva dwijottamaaH* = all, thus, eminent Brahmans; *R^iSyashR^ingam puraskritya*
+= Rishyasringa, keeping ahead of; *yajnakarmaarabhan tadaa* = thus commenced ritual work.
+
+**अनुवादः**
+
+Then Sage Vashishta and other eminent Brahmans keeping the Sage Rishyasringa ahead of them
+entered the ritual hall, to commence the ritual works thus. [1-13-40]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *41. sarve yaj~navaaTam gataaH* = all, on going to ritual hall; *yathaashaastram
 yathaavidhi* = as per canons, as per custom; *shriimaan raajaa* = illustroious,
 king Dasharatha; *saha patniibhiH* = with his wives; *diikShaam upaavishat*
@@ -1652,22 +1668,6 @@ king Dasharatha; *saha patniibhiH* = with his wives; *diikShaam upaavishat*
 
 When all have entered the ritual hall as per canons and custom, that glorious king Dasharatha
 along with his wives undertook vow of ritual. [1-13-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*40. tataH vashiSThapramukhaaH* = then, Vashishta and other eminent ones; *sarve
-eva dwijottamaaH* = all, thus, eminent Brahmans; *R^iSyashR^ingam puraskritya*
-= Rishyasringa, keeping ahead of; *yajnakarmaarabhan tadaa* = thus commenced ritual work.
-
-**अनुवादः**
-
-Then Sage Vashishta and other eminent Brahmans keeping the Sage Rishyasringa ahead of them
-entered the ritual hall, to commence the ritual works thus. [1-13-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga13/balasans13.htm)
 </details>

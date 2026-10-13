@@ -277,28 +277,6 @@ palms said this. [1-75-5]
 
 **पदच्छेदः**
 
-*7. svaadhyaayavratashaalinaam* = conduct self-study [of Vedas] and vows [self-principled] themselves; *bhaargavaaNaam
-kule jaataH* = you are born in such Bhaargava-s bloodline; *sahasraakSe pratij~naaya* = on promising to Thousand-eyed Indra
-; *shastram* = weapon [wielding]; *prakShiptavaan asi* = you have readily discarded.
-
-**अनुवादः**
-
-Aren't you from the bloodline of Bhaargava-s who always conduct themselves in self-study of Vedas and self-principled ways...
-haven't you readily discarded weapon-wielding on your promise to Thousand-eyed Indra... [1-75-7]
-
-**टिप्पनी**
-
-Annex: 'how can you abnegate your own promise of *shastrasanyaasa* 'reclusion from weaponry...' by wielding a weapon
-now, and thus becoming yourself a self-critical personality, and thus making the entire Brahman-hood as a self-contradictory
-classis...
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *6. kSatraroSaat prashaantaH* = from Kshatriya-s animosity, appeased you are; *braahmaNaH* = Brahman;
 *mahaatapaaH* = one with high [inviolable] ascesis; such as you are; *tvam* = you; *baalaanaam mama
 putraaNaam* = youngsters, my, sons; *abhayam daatum arhasi* = apt of you to award no fear [aegis] .
@@ -314,6 +292,28 @@ Vividly: 'peace is primary for Brahman-s... though that was once disturbed in yo
 the then ruthless Kshatriya-s... thus your rancour was appeased then... and you too peacefully retired for inviolable ascesis
 and acquired still higher bliss by them... do you now wish to violate your own intrinsic nature of peacefulness being a
 blissful one, being an all-knower, being an elderly Brahman, that too on mere boys...
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. svaadhyaayavratashaalinaam* = conduct self-study [of Vedas] and vows [self-principled] themselves; *bhaargavaaNaam
+kule jaataH* = you are born in such Bhaargava-s bloodline; *sahasraakSe pratij~naaya* = on promising to Thousand-eyed Indra
+; *shastram* = weapon [wielding]; *prakShiptavaan asi* = you have readily discarded.
+
+**अनुवादः**
+
+Aren't you from the bloodline of Bhaargava-s who always conduct themselves in self-study of Vedas and self-principled ways...
+haven't you readily discarded weapon-wielding on your promise to Thousand-eyed Indra... [1-75-7]
+
+**टिप्पनी**
+
+Annex: 'how can you abnegate your own promise of *shastrasanyaasa* 'reclusion from weaponry...' by wielding a weapon
+now, and thus becoming yourself a self-critical personality, and thus making the entire Brahman-hood as a self-contradictory
+classis...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>
@@ -1183,22 +1183,6 @@ on Mt. Mahendra practising ascesis and thus conjoined are the powers of ascesis 
 
 **पदच्छेदः**
 
-*27. kaakutstha* = oh Kakutstha; *dhanuHshreSThe* = with longbow supramundane one; *parapuramjayam
-sharam* = enemy citadels conquering, arrow; *yojayasva* = you join; *shaktaH asi yadi* = if you are capable
-; *tataH* = thereafter; *dvandvam daasyaami te* = I give a duel to you.
-
-**अनुवादः**
-
-Take an aim with an arrow that conquers enemy's citadels fixing it on this supramundane longbow... and oh, Kakutstha, should
-you be capable of it, thereafter I will give you a duel... [1-75-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *26b, 27. raama* = oh Rama; *tat* = that; *dhanuSaH bhedam* = longbow's, breakage; *shrutvaa*
 = on hearing; *aham tataH drutam aagataH* = therefore I quickly, came; *kSatradharmam* = fealty to Kshatriya-hood
 ; *puraskR^itya* = keeping [in view] afore; *evam* = likewise [like the wielding of Shiva's bow];
@@ -1210,6 +1194,22 @@ one; *vaiSNavam dhanuH gR^ihNiiSva* = you take-you handle longbow of Vishnu.
 On hearing about the breakage of Shiva's longbow, then I promptly came here. Thereby, oh, Rama, wield this supernatural
 and superlative longbow of Vishnu, which is passed on to me from my forefathers and my father. Keep your fealty to Kshatriya-hood
 in view, and wield this as you have wielded Shiva's longbow... [1-75-26b, 27]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27. kaakutstha* = oh Kakutstha; *dhanuHshreSThe* = with longbow supramundane one; *parapuramjayam
+sharam* = enemy citadels conquering, arrow; *yojayasva* = you join; *shaktaH asi yadi* = if you are capable
+; *tataH* = thereafter; *dvandvam daasyaami te* = I give a duel to you.
+
+**अनुवादः**
+
+Take an aim with an arrow that conquers enemy's citadels fixing it on this supramundane longbow... and oh, Kakutstha, should
+you be capable of it, thereafter I will give you a duel... [1-75-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga75/balasans75.htm)
 </details>

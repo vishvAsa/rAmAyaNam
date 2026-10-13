@@ -1414,6 +1414,22 @@ _________________
 
 **पदच्छेदः**
 
+*26b, 27a. teSaam api mahaatejaaH* = great resplendent among them, also; *raaamaH
+satyaparaakramaH* = Rama, truthfulness as his valorous one; *nirmalaH shashaankaH iva*
+= tranquil, moon, like; *sarvasya lokasya iSTaH* = dear one to all of world.
+
+**अनुवादः**
+
+Among them the great resplendent Rama, whose valour itself is his truthfulness, is the dear
+one to all the world like the tranquil moon. [1-18-26b, 27a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *27b, 28a. [saH raamaH* = he that Rama is]; *gajaskandhe* = on [riding] elephant's
 shoulders; *ashvapR^iSThe* = on [riding] horse's back; *cha* = also;
 *rathacharyaasu* = manoeuvring in chariots' [tactical charioting]; *sammataH*
@@ -1425,22 +1441,6 @@ shoulders; *ashvapR^iSThe* = on [riding] horse's back; *cha* = also;
 Rama is admittedly a champion of riding elephants and horses, also in tactical charioting,
 and he rejoices in the art of archery, and absorbed in the obedient service of his father.
 [1-18-27b, 28a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*26b, 27a. teSaam api mahaatejaaH* = great resplendent among them, also; *raaamaH
-satyaparaakramaH* = Rama, truthfulness as his valorous one; *nirmalaH shashaankaH iva*
-= tranquil, moon, like; *sarvasya lokasya iSTaH* = dear one to all of world.
-
-**अनुवादः**
-
-Among them the great resplendent Rama, whose valour itself is his truthfulness, is the dear
-one to all the world like the tranquil moon. [1-18-26b, 27a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
@@ -1480,6 +1480,23 @@ _________________
 
 **पदच्छेदः**
 
+*28b, 29a. lakshmivardhanaH lakShmaNaH* = Lakshmana the enhancer of prosperity; *baalyaat
+prabhR^iti* = since childhood; *lokaraamasya* = charming Rama for world; *
+jyeSThasya bhraatuH* = towards elder, brother; *raamasya* = in respect of Rama;
+*nityashaH susnigdhaH* = always, he is very amiable.
+
+**अनुवादः**
+
+Right from childhood Lakshmana, the enhancer of prosperity, is always amiable towards his
+world-charming elder brother Rama. [1-18-28b, 29a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *29b, 30a. lakshmisampannaH lakShmaNaH* = Lakshmana the one endowed with wealth [of dedication]
 ; *shariirataH api* = bodily, even [dedicated to Rama]; *sarvapriyakaraH* =
 peforming agreeable deeds to all; *tasya raamasya* = to that,
@@ -1491,23 +1508,6 @@ outer life - alter ego, [he behaved like alter ego].
 Lakshmana who is endowed with the wealth of dedication dedicated himself to Rama with bodily
 service, and while performing all agreeable deeds in respect of Rama, he behaved like Rama's
 alter ego. [1-18-29b, 30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*28b, 29a. lakshmivardhanaH lakShmaNaH* = Lakshmana the enhancer of prosperity; *baalyaat
-prabhR^iti* = since childhood; *lokaraamasya* = charming Rama for world; *
-jyeSThasya bhraatuH* = towards elder, brother; *raamasya* = in respect of Rama;
-*nityashaH susnigdhaH* = always, he is very amiable.
-
-**अनुवादः**
-
-Right from childhood Lakshmana, the enhancer of prosperity, is always amiable towards his
-world-charming elder brother Rama. [1-18-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
@@ -1593,6 +1593,23 @@ not eat food brought for him, however delicious it may be, without Lakshmana. [1
 
 **पदच्छेदः**
 
+31b, 32a. *raaghavaH* = Raghava; *hayam aruuDhaH* = on mounting horse;
+*yadaa mR^igayaam yaati* = when goes for a hunting game; *tadaa* = then;
+*saH* = he, Lakshmana; *dhanuH paripaalayan* = bow, wielding [as a squire];
+*enam priSThataH abhyeti* = rushes behind him [Rama].
+
+**अनुवादः**
+
+Whenever Raghava mounts a horse and goes on a hunting game Lakshmana rushes after him wielding
+his bow as a squire. [1-18-31b, 32a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 32b, 33a.* lakshamaNaavarajaH* = born along with Lakshmana - younger brother;
 *saH shatrughnaH* = he that, Shatrughna; *bharatasya api* = to Bharata, even;
 *nityam praaNaiH priyataraH* = always, dear one by lives; [Bharata also];
@@ -1603,23 +1620,6 @@ he is, a dear one.
 
 Lakshmana's younger brother Shatrughna is a dear one to Bharata, like that Bharata too held
 Shatrughna dearer than his own lives. [1-18-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-31b, 32a. *raaghavaH* = Raghava; *hayam aruuDhaH* = on mounting horse;
-*yadaa mR^igayaam yaati* = when goes for a hunting game; *tadaa* = then;
-*saH* = he, Lakshmana; *dhanuH paripaalayan* = bow, wielding [as a squire];
-*enam priSThataH abhyeti* = rushes behind him [Rama].
-
-**अनुवादः**
-
-Whenever Raghava mounts a horse and goes on a hunting game Lakshmana rushes after him wielding
-his bow as a squire. [1-18-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
@@ -1822,23 +1822,6 @@ to render service to their father and they are also the experts in art of archer
 
 **पदच्छेदः**
 
-*38b, 39a. mahaatmanaH tasya* = great souled one, his [Dasharatha's]; *chintayamaanasya*
-= while he is thinking so [discussing so]; *mantrimadhye* = among ministers;
-*mahaatejaaH* = great resplendent one - highly powerful; *vishvaamitraH mahaamuniH*
-= Vishvamitra the great sage; *abhyaagacChat [abhi aagacChat]* = arrived.
-
-**अनुवादः**
-
-While the great souled Dasharatha is discussing the marriages of princes among his ministers,
-the highly powerful sage Vishvamitra arrived. [1-18-38b, 39a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *37b, 38a. tataH* = then; *dharmaatmaa raajaa* = noble souled, king Dasharatha;
 *sopaadhyaayaH sabaandhavaH* = along with teachers, with relatives; *teSaam
 daarakriyaam prati* = about their matrimonial works [alliances]; *chintayaamaasa*
@@ -1848,6 +1831,23 @@ daarakriyaam prati* = about their matrimonial works [alliances]; *chintayaamaasa
 
 Then the noble souled Dasharatha contemplated along with his priestly teachers and relatives
 about the matrimonial alliances of his sons. [1-18-37b, 38a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*38b, 39a. mahaatmanaH tasya* = great souled one, his [Dasharatha's]; *chintayamaanasya*
+= while he is thinking so [discussing so]; *mantrimadhye* = among ministers;
+*mahaatejaaH* = great resplendent one - highly powerful; *vishvaamitraH mahaamuniH*
+= Vishvamitra the great sage; *abhyaagacChat [abhi aagacChat]* = arrived.
+
+**अनुवादः**
+
+While the great souled Dasharatha is discussing the marriages of princes among his ministers,
+the highly powerful sage Vishvamitra arrived. [1-18-38b, 39a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>
@@ -2525,6 +2525,24 @@ _________________
 
 **पदच्छेदः**
 
+54b, 55a. *puurvam raajarShishabdena*= earlier - originally,
+by kingly-saint title; * dyotitaprabhaH*= indicated - explicit, is your glory – such as
+you are; *tapasaa brahmarShitwam anupraaptaH*= you attained Absolute
+sainthood by ascesis; *mayaa bahudhaa puujyaH asi* = you are venerable in many ways by me.
+
+**अनुवादः**
+
+"Originally your glory was explicit by your title kingly-sage, and subsequently you
+attained the Absolute-sainthood by your ascesis, and you are venerable to me, in many
+ways." [1-18-54b, 55a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *55b, 56a. vipra* = oh Brahman; *tat* = thereby; *[idam* = this arrival
 of yours]; *adbhutam* = surprising; *mama* = to me; *pavitram paramam*
 = sacred, ideally; *prabho* = oh adept one; *tava samdarshanaat* = by your,
@@ -2541,24 +2559,6 @@ by your very appearance I have become one who has gone on a quiet pilgrimage. [1
 Dasharatha deems that city itself is sanctified with the arrival of Vishvamitra and thinks
 that he is like the one who secured the merit of pilgrimage without actually going over a
 sacred place.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-54b, 55a. *puurvam raajarShishabdena*= earlier - originally,
-by kingly-saint title; * dyotitaprabhaH*= indicated - explicit, is your glory – such as
-you are; *tapasaa brahmarShitwam anupraaptaH*= you attained Absolute
-sainthood by ascesis; *mayaa bahudhaa puujyaH asi* = you are venerable in many ways by me.
-
-**अनुवादः**
-
-"Originally your glory was explicit by your title kingly-sage, and subsequently you
-attained the Absolute-sainthood by your ascesis, and you are venerable to me, in many
-ways." [1-18-54b, 55a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga18/balasans18.htm)
 </details>

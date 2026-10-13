@@ -682,23 +682,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. mahaaraudram* = a highly fierce; *yuddham* = battle;
-*samjaJNe* = occurred; *teSaam* = between those; *kapiraakSasaam* = monkeys
-and demons; *samabhityakta jiivinaam* = who were ready to lose their lives; *raama
-raavaNayoH arthe* = for the sake of Rama and Ravana.
-
-**अनुवादः**
-
-A highly fierce battle ensued between those monkeys and demons, who were ready to
-lose their lives for the sake of Rama and Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14. tena shabdena* = by (hearing) that sound;
 *samupatiSThataam* = of the coming demons; *yoddhum* = for the battle;
 *mahaachamuuH* = the huge army; *vaanaraaNaam* = of the monkeys; *druma
@@ -709,6 +692,23 @@ frightened.
 
 By hearing that clamour of the demons coming for the battle, the huge army of the
 monkeys, brandishing trees and rocks, was frightened.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. mahaaraudram* = a highly fierce; *yuddham* = battle;
+*samjaJNe* = occurred; *teSaam* = between those; *kapiraakSasaam* = monkeys
+and demons; *samabhityakta jiivinaam* = who were ready to lose their lives; *raama
+raavaNayoH arthe* = for the sake of Rama and Ravana.
+
+**अनुवादः**
+
+A highly fierce battle ensued between those monkeys and demons, who were ready to
+lose their lives for the sake of Rama and Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga55/yuddhasans55.htm)
 </details>

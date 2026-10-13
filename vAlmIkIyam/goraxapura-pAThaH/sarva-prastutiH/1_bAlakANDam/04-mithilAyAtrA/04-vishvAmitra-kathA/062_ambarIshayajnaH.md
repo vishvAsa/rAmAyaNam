@@ -120,25 +120,6 @@ _________________
 
 **पदच्छेदः**
 
-*3b, 4a. raama* = oh Rama; *tR^iSNayaa ca shrameNa ca* = by thirst,
-also, by strain, also; *viSaNNavadanaH* = sulky faced; *diinaH*
-= became pitiable; *[aashu* = immediately]; *muneH anke papaata* =
-fell down in saint Vishvamitra's flank [lap] ; *idam vaakyam uvaaca ha*
-= said this sentence, indeed.
-
-**अनुवादः**
-
-Shunashepa became pitiable and sulky faced by strain and thirst, oh, Rama, and
-he immediately fell in the lap of saint Vishvamitra saying this sentence. [1-62-3b,
-4a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *2, 3a: tasya* = his [Ambariisha]; *vishramamaaNasya* = while resting;
 *mahaayashaaH shunaHshepaH* = highly brilliant, Shunashepa; *paramaaturaH*
 = with high anxiety; *jyeSTham puSkaram aagamya* = elder [main one,] having come to holy
@@ -152,6 +133,25 @@ While the king Ambariisha is taking rest that highly brilliant Shunashepa came
 to the lakeside of main Holy Lake with high anxiety, and there he indeed saw his
 maternal uncle Sage Vishvamitra who is performing ascesis along with other sages.
 [1-62-2, 3a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3b, 4a. raama* = oh Rama; *tR^iSNayaa ca shrameNa ca* = by thirst,
+also, by strain, also; *viSaNNavadanaH* = sulky faced; *diinaH*
+= became pitiable; *[aashu* = immediately]; *muneH anke papaata* =
+fell down in saint Vishvamitra's flank [lap] ; *idam vaakyam uvaaca ha*
+= said this sentence, indeed.
+
+**अनुवादः**
+
+Shunashepa became pitiable and sulky faced by strain and thirst, oh, Rama, and
+he immediately fell in the lap of saint Vishvamitra saying this sentence. [1-62-3b,
+4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
@@ -699,24 +699,6 @@ them while fury reddened his eyes. [1-62-15]
 
 **पदच्छेदः**
 
-*17. sarve* = you all; *shvamaamsabhojinaH* = while subsisting on dog's meat
-; *puurNam varSasahasram tu* = for complete thousand years,
-but; *pR^ithivyaam* = on earth; *vaasiSThaaH iva* = Vashishta's [sons,]
-like; *jaatiSu* = in race of [Mustika-s]; *anuvatsyatha* = whirl around.
-
-**अनुवादः**
-
-'You all will be whirling around the earth totally for a thousand years taking
-birth in the race that subsists on dog's meat, like the sons of Vashishta.' Thus
-Vishvamitra cursed his sons. [1-62-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *16. mat vaakyam atikramya* = [you all] on over stepping - on
 transgressing my word; *dharmaat api* = according to probity, even; *vigarhitam*
 = verily recriminatory; *daaruNam* = abhorrent; *romaharSaNam* =
@@ -728,6 +710,24 @@ hair-raising; *idam* = this - in this way; *niHsaadhvasam* = impudently;
 You all have not only transgressed my word, but pertly replied me in an impudent
 manner which is abhorrent and hair-raising, and recriminatory according to probity.
 [1-62-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17. sarve* = you all; *shvamaamsabhojinaH* = while subsisting on dog's meat
+; *puurNam varSasahasram tu* = for complete thousand years,
+but; *pR^ithivyaam* = on earth; *vaasiSThaaH iva* = Vashishta's [sons,]
+like; *jaatiSu* = in race of [Mustika-s]; *anuvatsyatha* = whirl around.
+
+**अनुवादः**
+
+'You all will be whirling around the earth totally for a thousand years taking
+birth in the race that subsists on dog's meat, like the sons of Vashishta.' Thus
+Vishvamitra cursed his sons. [1-62-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>
@@ -818,24 +818,6 @@ _________________
 
 **पदच्छेदः**
 
-*20. muniputraka* = oh saint's son; *ambariiSasya asmin yaj~ne*
-= in that Vedic-ritual of Ambariisha; *ime dve divye gaathe* = these,
-two, divine, songs [hymns]; *gaayethaaH* = be sung [ chanted]; *tataH siddhim
-avaapsyasi* = then, you will obtain aspiration.
-
-**अनुवादः**
-
-'These two divine hymns, oh, son of saint, shall be chanted in the Vedic-ritual
-of Ambariisha, then you will obtain your aspiration.' Thus Vishvamitra taught two
-Vedic hymns to the boy. [1-62-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *19. vaiSNavam yuupam aasaadya* = on attaining Vishnu's sacrificial post
 [when you are fastened]; *pavitrapaashaiH baddhaH* = when fastened by sacred fastener
 ; *raktamaalyaanulepanaH* = smeared with red garlands and
@@ -848,6 +830,24 @@ him] Fire-god.
 When you are fastened with sacred fastener to the sacrificial post of Vishnu,
 smeared with red paste and garlanded with red garlands, you praisefully address
 the Fire-god with the words I going to impart to you in Vedic hymns. [1-62-19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. muniputraka* = oh saint's son; *ambariiSasya asmin yaj~ne*
+= in that Vedic-ritual of Ambariisha; *ime dve divye gaathe* = these,
+two, divine, songs [hymns]; *gaayethaaH* = be sung [ chanted]; *tataH siddhim
+avaapsyasi* = then, you will obtain aspiration.
+
+**अनुवादः**
+
+'These two divine hymns, oh, son of saint, shall be chanted in the Vedic-ritual
+of Ambariisha, then you will obtain your aspiration.' Thus Vishvamitra taught two
+Vedic hymns to the boy. [1-62-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga62/balasans62.htm)
 </details>

@@ -123,6 +123,22 @@ morning. [3-8-1]
 
 **पदच्छेदः**
 
+2. Raaghava; *saha siitayaa* = with Seetha; *yathaa kaalam utthaaya* = according to
+time, got up; *su shiitena utpala gandhinaa toyena upa spR^ishya* = finely cool, with lotus,
+fragrance, water, having touched [took morning bath, and readied to go.]
+
+**अनुवादः**
+
+Rama got up according to time along with Seetha and touched finely cool water with lotus-fragrance for
+morning bath. [3-8-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 3, 4. *atha* = then; Vaidehi, Rama, Lakshmana; *te* = they all; *kaalyam* =
 at appropriate time; *agnim suraam ca eva* = to sacred fire, to deities, also, thus; *tapasvi
 sharaNe vane* = sage's, shelter, in forest; *vidhivat abhyarcya* = dutifully, on worshipping;
@@ -135,22 +151,6 @@ abruvan* = gently, this, sentence, spoke.
 Then they all, Vaidehi, Rama and Lakshmana, on worshipping sacred fire and deities dutifully in the
 shelter of the sages in that forest and on seeing the dawning sun, they are reft of their blemishes,
 and then they approached Sage Suteekshna speaking this sentence gently. [3-8-3, 4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-2. Raaghava; *saha siitayaa* = with Seetha; *yathaa kaalam utthaaya* = according to
-time, got up; *su shiitena utpala gandhinaa toyena upa spR^ishya* = finely cool, with lotus,
-fragrance, water, having touched [took morning bath, and readied to go.]
-
-**अनुवादः**
-
-Rama got up according to time along with Seetha and touched finely cool water with lotus-fragrance for
-morning bath. [3-8-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga8/aranyasans8.htm)
 </details>

@@ -1135,26 +1135,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. tudanta* = bruising; *nakhaiH* = with their nails; *dashantaH*
-= biting; *dashanaiH* = with their teeth; *madaat* = because of their inebriety; *samaapayantaH*
-= and making short work; *tam kapim* = of that Dadhimukha; *talaishcha paadaishcha* =
-with their palms and feet; *samagraaH* = kapayaH = all those monkeys; *chakruH* = made;
-*mahaavanam* = that large grove; *nirviSayam* = bereft of its range of flowers; fruits
-and honey.
-
-**अनुवादः**
-
-Bruising with their nails, biting with their teeth on account of their inebriety and
-making short work of that Dadhimukha with their palms and feet, all those moneys made that large grove,
-divested of its flowers, fruits and honey.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *22. saH* = that Dadhimukha; *pradharSitaH* = was overpowered;
 *taiH* = by those monkeys; *aprativaarya vegaiH* = with unrest rained emotion; *madaat*
 = arising out of their intoxication; *apratimaaNyamaaNaiH* = those who were hindered; *balaat*
@@ -1168,6 +1148,26 @@ That Dadhimukha was dragged, after coming into collusion with him by those monke
 were being forcibly hindered by him, eventhough those monkeys overpowered him with unrestrained emotion
 arising out of their intoxication, those who had abandoned their fear disregarding any bad consequence
 of their act.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. tudanta* = bruising; *nakhaiH* = with their nails; *dashantaH*
+= biting; *dashanaiH* = with their teeth; *madaat* = because of their inebriety; *samaapayantaH*
+= and making short work; *tam kapim* = of that Dadhimukha; *talaishcha paadaishcha* =
+with their palms and feet; *samagraaH* = kapayaH = all those monkeys; *chakruH* = made;
+*mahaavanam* = that large grove; *nirviSayam* = bereft of its range of flowers; fruits
+and honey.
+
+**अनुवादः**
+
+Bruising with their nails, biting with their teeth on account of their inebriety and
+making short work of that Dadhimukha with their palms and feet, all those moneys made that large grove,
+divested of its flowers, fruits and honey.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm)
 </details>

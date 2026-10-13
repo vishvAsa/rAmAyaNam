@@ -1572,16 +1572,15 @@ _________________
 
 **पदच्छेदः**
 
-*32. vismayaH eva* = it is just so surprising; *adbhutaH* = a marvel;
-*naH* = to us; *iti* = that; *iyam* = this; *sarvaa* = entire; *nagarii*
-= city; *saaTTa praakaaratoraNaa* = with its market-places; ramparts and arched door-ways;
-*dagdhaa* = was burnt; *jaanakiicha* = but Seetha alone; *na dagdhaa* = was not
-burnt.
+*31. prapalaayita rakSah striibaala vR^iddha samaakulaa* = (the city of
+Lanka) full of demons; their wives; children and elders running (hither and thither); *janakolaahalaadhamaataa*
+= and filled with an uproar of people; *krandanniva* = appears like weeping adrikandaraiH = through
+its mountain-caves.
 
 **अनुवादः**
 
-"It is just so surprising a marvel to us that the entire City with its market-places,
-ramparts and arched door-ways, was burnt, but Seetha alone was not burnt."
+"The city of Lanka, full of demons their wives, children and elders running hither and
+thither, as also filled with an uproar of people, appears as if it weeping through its mountain-caves."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>
@@ -1595,15 +1594,16 @@ ramparts and arched door-ways, was burnt, but Seetha alone was not burnt."
 
 **पदच्छेदः**
 
-*31. prapalaayita rakSah striibaala vR^iddha samaakulaa* = (the city of
-Lanka) full of demons; their wives; children and elders running (hither and thither); *janakolaahalaadhamaataa*
-= and filled with an uproar of people; *krandanniva* = appears like weeping adrikandaraiH = through
-its mountain-caves.
+*32. vismayaH eva* = it is just so surprising; *adbhutaH* = a marvel;
+*naH* = to us; *iti* = that; *iyam* = this; *sarvaa* = entire; *nagarii*
+= city; *saaTTa praakaaratoraNaa* = with its market-places; ramparts and arched door-ways;
+*dagdhaa* = was burnt; *jaanakiicha* = but Seetha alone; *na dagdhaa* = was not
+burnt.
 
 **अनुवादः**
 
-"The city of Lanka, full of demons their wives, children and elders running hither and
-thither, as also filled with an uproar of people, appears as if it weeping through its mountain-caves."
+"It is just so surprising a marvel to us that the entire City with its market-places,
+ramparts and arched door-ways, was burnt, but Seetha alone was not burnt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga55/sundarasans55.htm)
 </details>

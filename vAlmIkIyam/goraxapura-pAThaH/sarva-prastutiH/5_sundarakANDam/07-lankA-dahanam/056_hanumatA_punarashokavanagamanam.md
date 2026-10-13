@@ -379,15 +379,15 @@ _________________
 
 **पदच्छेदः**
 
-*8. hanumaan* = Hanuma ; *maarutaatmajah* = the son of wind-god;
-*evam* = thus; *aashvaasya* = consoling; *vaidehiim* = Seetha; *kR^itvaa*
-= and making up; *matim* = his mind; *gamanaaya* = to go; *vaidehiim abhyavaadayat*
-= saluted Seetha with reverence.
+*7. kaakuthsaH* = Rama; *vR^itaH* = surrounded; *haryR^iSapravaraiH*
+= with leaders of monkeys and bears; *eSyati* = will come; *kSipram* = immediately;
+*yaH* = who; *vijitya* = after conquering; *ariin* = the enemies; *yudhi*
+= in battle; *vyapanayiSyati* = will take away; *te* = your; *shokam* = grief.
 
 **अनुवादः**
 
-Hanuma, the son of wind-god, thus consoling Seetha and making up his mind to go, saluted
-Seetha with reverence.
+"Rama, accompanied by the leaders of monkeys and bears, will come soon and after conquering
+the enemies in battle, will take away your grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
@@ -401,15 +401,15 @@ Seetha with reverence.
 
 **पदच्छेदः**
 
-*7. kaakuthsaH* = Rama; *vR^itaH* = surrounded; *haryR^iSapravaraiH*
-= with leaders of monkeys and bears; *eSyati* = will come; *kSipram* = immediately;
-*yaH* = who; *vijitya* = after conquering; *ariin* = the enemies; *yudhi*
-= in battle; *vyapanayiSyati* = will take away; *te* = your; *shokam* = grief.
+*8. hanumaan* = Hanuma ; *maarutaatmajah* = the son of wind-god;
+*evam* = thus; *aashvaasya* = consoling; *vaidehiim* = Seetha; *kR^itvaa*
+= and making up; *matim* = his mind; *gamanaaya* = to go; *vaidehiim abhyavaadayat*
+= saluted Seetha with reverence.
 
 **अनुवादः**
 
-"Rama, accompanied by the leaders of monkeys and bears, will come soon and after conquering
-the enemies in battle, will take away your grief."
+Hanuma, the son of wind-god, thus consoling Seetha and making up his mind to go, saluted
+Seetha with reverence.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
@@ -1172,15 +1172,15 @@ _________________
 
 **पदच्छेदः**
 
-*24. tataH* = then; *viiraH* = the valiant; *pavanaatmajaH*
-= Hanuma; *adhiruuhya* = ascending; *parvatam* = the mountain; *dadarsha* = saw;
-*bhiimam* = the terrific; *saagaram* = ocean; *miinoraganiSevitam* = inhabited
-by fishes and water-snakes.
+*23. praarthayan* = desirous (of reaching); *uttaram paaram* = the
+northern shore; *dakSiNaat* = from the southern shore; *lavaNaambhasaH* = of the ocean;
+*mahaakapiH* = Hanuma; *aaruhya* = ascending; *tam shailendram* = that mountain;
+*vyavardhata* = enlarged in his body.
 
 **अनुवादः**
 
-Then, the valiant Hanuma after ascending the mountain, saw the terrific ocean inhabited
-by fishes and water-snakes.
+Desirous of reaching the northern shore from the southern shore of that ocean, Hanuma
+ascended that mountain and enlarged his body.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
@@ -1194,15 +1194,15 @@ by fishes and water-snakes.
 
 **पदच्छेदः**
 
-*23. praarthayan* = desirous (of reaching); *uttaram paaram* = the
-northern shore; *dakSiNaat* = from the southern shore; *lavaNaambhasaH* = of the ocean;
-*mahaakapiH* = Hanuma; *aaruhya* = ascending; *tam shailendram* = that mountain;
-*vyavardhata* = enlarged in his body.
+*24. tataH* = then; *viiraH* = the valiant; *pavanaatmajaH*
+= Hanuma; *adhiruuhya* = ascending; *parvatam* = the mountain; *dadarsha* = saw;
+*bhiimam* = the terrific; *saagaram* = ocean; *miinoraganiSevitam* = inhabited
+by fishes and water-snakes.
 
 **अनुवादः**
 
-Desirous of reaching the northern shore from the southern shore of that ocean, Hanuma
-ascended that mountain and enlarged his body.
+Then, the valiant Hanuma after ascending the mountain, saw the terrific ocean inhabited
+by fishes and water-snakes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
@@ -1356,15 +1356,15 @@ _________________
 
 **पदच्छेदः**
 
-*28. saH bhiimaH ninadaH* = that roaring sound; *mahaujasaam simhaanaam*
-= of the lions of great prowess; *kandaraantara samsthaanaam* = dwelling in the midst of the
-caves; *piiDitaanaam* = were tormented; *shushrave* = (and that sound) was heard; *
-bhindan* = piercing; *uabhaH* = the sky.
+*27. mathitaaH* = shaken; *uuruvegaat* = by the impetus of the thighs;
+*tasya* = of that Hanuma; *paadapaaH* = trees; *puSpashaalinaH* = endowed with
+blossoms; *rugNaaH* = were broken; *nipetuH* = and fell down; *bhuutale* = on earth;
+*shokraayudha hataa iva* = as struck by a thunder-bolt.
 
 **अनुवादः**
 
-When the lions of great prowess dwelling in the midst of caves were tormented and roared
-terribly, that roaring noise was heard as it was piercing the sky.
+Shaken by the impetus of the thighs of Hanuma, trees in blossom were broken and fell
+down on earth, as though struck by a thunder-bolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>
@@ -1378,15 +1378,15 @@ terribly, that roaring noise was heard as it was piercing the sky.
 
 **पदच्छेदः**
 
-*27. mathitaaH* = shaken; *uuruvegaat* = by the impetus of the thighs;
-*tasya* = of that Hanuma; *paadapaaH* = trees; *puSpashaalinaH* = endowed with
-blossoms; *rugNaaH* = were broken; *nipetuH* = and fell down; *bhuutale* = on earth;
-*shokraayudha hataa iva* = as struck by a thunder-bolt.
+*28. saH bhiimaH ninadaH* = that roaring sound; *mahaujasaam simhaanaam*
+= of the lions of great prowess; *kandaraantara samsthaanaam* = dwelling in the midst of the
+caves; *piiDitaanaam* = were tormented; *shushrave* = (and that sound) was heard; *
+bhindan* = piercing; *uabhaH* = the sky.
 
 **अनुवादः**
 
-Shaken by the impetus of the thighs of Hanuma, trees in blossom were broken and fell
-down on earth, as though struck by a thunder-bolt.
+When the lions of great prowess dwelling in the midst of caves were tormented and roared
+terribly, that roaring noise was heard as it was piercing the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga56/sundarasans56.htm)
 </details>

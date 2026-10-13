@@ -104,23 +104,6 @@ Hanuma throws a big sal tree towards Jambumali and the latter succumbs to it.
 
 **पदच्छेदः**
 
-*4. mahataa visphaara ghoSeNa* = the tumultuous sound out of the twanging;
-*tasya dhanuSaH* = of that bow; *sahasaa* = soon; *samapuuryata* = filled up;
-*dishaH* = the quarters; *pradishashchaiva* = the intermediate points; *nabhashchaiva*
-= and even the sky.
-
-**अनुवादः**
-
-The tumultuous sound created out of the twanging of that bow, soon filled up the quarters,
-intermediate points and the sky.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 1; 2; *3. jambumaalii* = Jambumali; *mahaadamSTraH* = the one with
 great tusks; *dhanurdharaH* = wielder a bow; *raktamaalyaambaradharaH* = the one who wears
 crimson garlands and clothes; *sragvii* = wearing a chaplet; *ruchikuNDalaH* = the one
@@ -140,6 +123,23 @@ eyes, the demon causing diseases, unconquerable in battle, a strong demon and th
 by Ravana, started stretching with rashness his big bow resembling a rain bow garnished splendorous
 arrows and which brilliance was similar to that of a lightening and produced a sound like that of a
 thunder.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. mahataa visphaara ghoSeNa* = the tumultuous sound out of the twanging;
+*tasya dhanuSaH* = of that bow; *sahasaa* = soon; *samapuuryata* = filled up;
+*dishaH* = the quarters; *pradishashchaiva* = the intermediate points; *nabhashchaiva*
+= and even the sky.
+
+**अनुवादः**
+
+The tumultuous sound created out of the twanging of that bow, soon filled up the quarters,
+intermediate points and the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>
@@ -706,6 +706,22 @@ powder, was instantly killed and fell dead on the ground.
 
 **पदच्छेदः**
 
+*19. shrutvaa* = hearing; *jambumaalimcha* = Jambumali; *nihatam*
+= having been killed; *mahaabalaan kimkaraanshcha* = as also the might kimbaras; *raavaNaH*
+= Ravana; *chukrodha* = was angry; *kopa samrakta lochanah* = with his red enraged eyes.
+
+**अनुवादः**
+
+Hearing Jambumali having been killed, as also the mighty Kimkaras, Ravana was angry with
+his red enraged eyes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *20. mahaabale* = (Since) the mighty; *prahastaputre* = son of Prahasta;
 *nihate* = was killed; *saH nishaachareshvaraH* = that Ravana; *roSasamvartita taamra
 lochanaH* = rolling his red eyes with rage; *aashu* = immediately; *samaadidesha*
@@ -716,22 +732,6 @@ much of strength and prowess; (to go to the battle).
 
 Since the mighty son of Prahasta was killed, that Ravana rolling his red eyes with rage,
 immediately ordered the sons of ministers possessing high strength and prowess, to go to the battle.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*19. shrutvaa* = hearing; *jambumaalimcha* = Jambumali; *nihatam*
-= having been killed; *mahaabalaan kimkaraanshcha* = as also the might kimbaras; *raavaNaH*
-= Ravana; *chukrodha* = was angry; *kopa samrakta lochanah* = with his red enraged eyes.
-
-**अनुवादः**
-
-Hearing Jambumali having been killed, as also the mighty Kimkaras, Ravana was angry with
-his red enraged eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga44/sundarasans44.htm)
 </details>

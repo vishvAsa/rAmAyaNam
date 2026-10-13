@@ -78,25 +78,6 @@ _________________
 
 **पदच्छेदः**
 
-*2. viirasya* = of the valiant one; *yashasvinaH* = glorious king;
- *tasya* = his; *shuchayaH* = clean at heart; *nityashaH* =
- all time; *raajakR^ityeSu* = in king' s works; *anuraktaaH cha*
- = involved in, also; *amaatyaaH* = ministers; *aSTau bhabhuuvuH*
- = eight, are there.
-
-**अनुवादः**
-
-Eight ministers are there for that valiant and glorious King Dasharatha, who are
- clean at heart and are involved in the works of the king and kingdom at all time.
- [1-7-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1. mahaaatmanaH tasya ikShwaakoH tu* = for the great soul from Ikshvaku kings, Dasharatha;
  *guNaiH* = those with epitomised attribute;
  *mantraj~naaH cha* = tactful, also; *iN^gitaj~naaH cha* = adroit ones,
@@ -108,6 +89,25 @@ Eight ministers are there for that valiant and glorious King Dasharatha, who are
 The misters for the great soul from Ikshvaku kings of Emperor Dasharatha, are
  epitomised ones of their tactfulness, adroitness and are always obliged to undertake
  welfare activities of their king and the kingdom. [1-7-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. viirasya* = of the valiant one; *yashasvinaH* = glorious king;
+ *tasya* = his; *shuchayaH* = clean at heart; *nityashaH* =
+ all time; *raajakR^ityeSu* = in king' s works; *anuraktaaH cha*
+ = involved in, also; *amaatyaaH* = ministers; *aSTau bhabhuuvuH*
+ = eight, are there.
+
+**अनुवादः**
+
+Eight ministers are there for that valiant and glorious King Dasharatha, who are
+ clean at heart and are involved in the works of the king and kingdom at all time.
+ [1-7-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
@@ -211,6 +211,26 @@ Dhristi, Jayantha, Vijaya, Suraashtra, Raashtravardhana, Akopa, Dharmapaala, are
 
 **पदच्छेदः**
 
+*4. tasya* = to him, Dasharatha; *vashiSTaH* = Vashishta; *
+ vaamadevaH cha* = Vamadeva, also; *dvau* = two; *aastaam R^iSisattamau*
+ = eminent saints were there; *abhimatau* = acquiescent; *R^itwijau*
+ = Vedic ritual-authorities; *tathaa apare* = like that, furthermore;
+ *mantriNaH cha* = ministers, also [are there.]
+
+**अनुवादः**
+
+Two venerable saints of eminence are religious ministers for they are authorities
+ in Vedic rituals, namely Vashishta and Vamadeva, who are the acquiescent with
+ religious matters, and apart from these two some more religious ministers are
+ also there to King Dasharatha. [1-7-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *5, 6a. suyaj~naH api* = Suyajna, also; *atha jaabaaliH* = then,
  Jaabaali; *kaashaypaH api* = Kashyapa, also; *atha gautamaH* = then,
  Gautama; *maarkaNDeyaH tu* = Maarkandeya, also; *diirghaayuH tathaa*
@@ -225,26 +245,6 @@ Suyajna, Jabaali, Kaashyapa, Gautama, Maarkandeya, Deerghaayu, and then Kaatyaya
  are the scholarly Brahmans acting as religious ministers, and along with them
  there are also Brahma-sages who are always the ancestral ritual scholars for Dasharatha's
  family. [1-7-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*4. tasya* = to him, Dasharatha; *vashiSTaH* = Vashishta; *
- vaamadevaH cha* = Vamadeva, also; *dvau* = two; *aastaam R^iSisattamau*
- = eminent saints were there; *abhimatau* = acquiescent; *R^itwijau*
- = Vedic ritual-authorities; *tathaa apare* = like that, furthermore;
- *mantriNaH cha* = ministers, also [are there.]
-
-**अनुवादः**
-
-Two venerable saints of eminence are religious ministers for they are authorities
- in Vedic rituals, namely Vashishta and Vamadeva, who are the acquiescent with
- religious matters, and apart from these two some more religious ministers are
- also there to King Dasharatha. [1-7-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>
@@ -592,25 +592,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. tatra* = there; *duSTaH* = evil-minded; *paradaararataH
- naraH* = man who is interested in other's wife ; *kashchit na aasiit* = anyone,
- none, is there; *sarvam raaSTram* = all, kingdom; *tat puravaram cha*
- = that, capital, also; *prashaantam eva aasiit* = undisturbed, only, it
- is there.
-
-**अनुवादः**
-
-None with an evil-mind or with an interest in other man's wife is there, and thus
- on whole in the kingdom and also like that in the capital, there is an undisturbed
- society. [1-7-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14. shuchiinaam* = decent ones; *ekabuddhiinaam* = one minded [in
  league with]; *sarveSaam* = all of them; *samprajaanataam* = administering;
  *kwachit* = anywhere; *pure vaa raaSTre vaa* = in capital, or, in
@@ -622,6 +603,25 @@ None with an evil-mind or with an interest in other man's wife is there, and thu
 All of those ministers are clean administrators of kingdom, and are in league
  with each other, as such there is none anywhere, either in capital or in country,
  a liar. [1-7-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. tatra* = there; *duSTaH* = evil-minded; *paradaararataH
+ naraH* = man who is interested in other's wife ; *kashchit na aasiit* = anyone,
+ none, is there; *sarvam raaSTram* = all, kingdom; *tat puravaram cha*
+ = that, capital, also; *prashaantam eva aasiit* = undisturbed, only, it
+ is there.
+
+**अनुवादः**
+
+None with an evil-mind or with an interest in other man's wife is there, and thus
+ on whole in the kingdom and also like that in the capital, there is an undisturbed
+ society. [1-7-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga7/balasans7.htm)
 </details>

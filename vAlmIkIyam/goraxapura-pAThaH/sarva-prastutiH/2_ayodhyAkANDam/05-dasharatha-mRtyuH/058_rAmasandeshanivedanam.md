@@ -134,24 +134,6 @@ his breath, he called that charioteer for the purpose of getting the report on R
 
 **पदच्छेदः**
 
-*4. raajaa* = the king; *parama aartavat* = having great
-distress; *uvaacha* = spoke; *suutam* = to Sumantra; *dhvasta aN^gam* = whose
-body was covered; *rajasaa* = with dust; *ashru puurNa mukham* = whose face was
-filled with tears; *diinam* = who was miserable; *samupasthitam* = and who approached
-near him.
-
-**अनुवादः**
-
-The king, having great distress, spoke to Sumantra, whose body was covered with
-dust, his face filled with tears, who was miserable and who approached near him (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2-3. atha* = then; *suutaH* = sumantra; *kR^itaaJNjaliH*
 = who joined his palms in reverence; *upasthitaH* = approached; *mahaaraaja* = the
 monarch; *anushochantam* = who was repenting; *raamameva* = about Rama alone;
@@ -166,6 +148,24 @@ elephant; *asvastham* = which is sick.
 Then, Sumantra, who joined his palms in reverence, approached the monarch who was
 repenting about Rama alone, filled with pain and sorrow, advanced in age, greatly anguished,
 sighing like a newly caught elephant and reflecting on something as a sick elephant.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. raajaa* = the king; *parama aartavat* = having great
+distress; *uvaacha* = spoke; *suutam* = to Sumantra; *dhvasta aN^gam* = whose
+body was covered; *rajasaa* = with dust; *ashru puurNa mukham* = whose face was
+filled with tears; *diinam* = who was miserable; *samupasthitam* = and who approached
+near him.
+
+**अनुवादः**
+
+The king, having great distress, spoke to Sumantra, whose body was covered with
+dust, his face filled with tears, who was miserable and who approached near him (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
@@ -658,6 +658,29 @@ choked with tears (as follows).
 
 **पदच्छेदः**
 
+*14. mahaaraaja* = Oh; emperor; *raaghavaH* = Rama;
+*anupaalayan* = keeping up; *dharmameva* = the prescribed course of conduct;
+*kR^itvaa* = making; *anjalim* = salutation with joined palms; *abhipraNamya
+cha* = and bowing in reverence; *shirasaa* = with his head (to you); *abraviit* =
+spoke; *maam* = to me.
+
+**अनुवादः**
+
+"Oh, emperor! Rama, keeping up the prescribed course of conduct, making salutation
+with joined palms and bowing his head in reverence to you, spoke to me as follows:"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+महाराजरे! श्रीरामचन्द्रनु धर्मवन्नु निरन्तर पालिसुत्ता कैमुगिदुकॊण्डु, तलॆबागि हेळिरुवनु- सूतने! नीनु नन्न परवागि आत्मज्ञानी हागू वन्दनीय नन्न महात्मा पितन चरणगळल्लि नमस्करिसि हेळु मत्तु अन्तःपुरद ऎल्ल मातॆयरिगॆ नन्न आरोग्यद समाचार हेळुत्ता, अवरिगॆ विशेषवागि यथोचित नन्न प्रणामगळन्नु निवेदिसु.॥14-16॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *15. suuta* = Oh; charioteer; *paadau* = the feet; *tasya
 taatasya* = of my father; *vidita aatmanaH* = one with remarkable intellect;
 *mahaatmanaH* = one with mighty soul; *vandaniiyasya* = and one to be respectfully
@@ -670,11 +693,6 @@ greeted; *vandyau* = are to be saluted; *shirasaa* = with my head;
 intellect, a mighty soul and the one to be respectfully greeted."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-महाराजरे! श्रीरामचन्द्रनु धर्मवन्नु निरन्तर पालिसुत्ता कैमुगिदुकॊण्डु, तलॆबागि हेळिरुवनु- सूतने! नीनु नन्न परवागि आत्मज्ञानी हागू वन्दनीय नन्न महात्मा पितन चरणगळल्लि नमस्करिसि हेळु मत्तु अन्तःपुरद ऎल्ल मातॆयरिगॆ नन्न आरोग्यद समाचार हेळुत्ता, अवरिगॆ विशेषवागि यथोचित नन्न प्रणामगळन्नु निवेदिसु.॥14-16॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -691,24 +709,6 @@ too.
 
 Oh, charioteer! Enquire about the health of all the people in the gynaeceum without
 any disparity and offer my appropriate salutations to them.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*14. mahaaraaja* = Oh; emperor; *raaghavaH* = Rama;
-*anupaalayan* = keeping up; *dharmameva* = the prescribed course of conduct;
-*kR^itvaa* = making; *anjalim* = salutation with joined palms; *abhipraNamya
-cha* = and bowing in reverence; *shirasaa* = with his head (to you); *abraviit* =
-spoke; *maam* = to me.
-
-**अनुवादः**
-
-"Oh, emperor! Rama, keeping up the prescribed course of conduct, making salutation
-with joined palms and bowing his head in reverence to you, spoke to me as follows:"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
@@ -751,6 +751,23 @@ _________________
 
 **पदच्छेदः**
 
+*17. mama* = my; *maataa* = Kausalya; *vaktavyaa* = is to
+be told; *kushalam* = about my welfare; *abhivaadanam ca* = about my salutations;
+*apramaadam ca* = and about my alertness; *bruuyaaH* = tell; *idam* = these;
+*vachashcha* = words also.
+
+**अनुवादः**
+
+My mother Kausalya is to be told about my welfare, about my offering salutations to
+her and about my meticulousness.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *18. devii* = Oh; godly lady; *bhava* = be;
 *dharmanityaa* = righteous always; *agnyagaaraparaa* = and be interested in offering
 sacrifices in the house of fire-worship; *yathaa kaalam* = as per the prescribed timings;
@@ -762,23 +779,6 @@ Dasaratha; *devavat* = like with a god.
 "Oh, godly lady! Be always righteous and be interested in offering worship and
 sacrifices as per the prescribed timings in the House of Fire worship. Nurture the feet of the Lord
 Dasaratha, like with a god."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*17. mama* = my; *maataa* = Kausalya; *vaktavyaa* = is to
-be told; *kushalam* = about my welfare; *abhivaadanam ca* = about my salutations;
-*apramaadam ca* = and about my alertness; *bruuyaaH* = tell; *idam* = these;
-*vachashcha* = words also.
-
-**अनुवादः**
-
-My mother Kausalya is to be told about my welfare, about my offering salutations to
-her and about my meticulousness.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>
@@ -1058,24 +1058,6 @@ according to the orders of the king, you live as a prince."
 
 **पदच्छेदः**
 
-*25. mahaaraja* = Oh; emperor; *raamaH* = Rama;
-*mahaayashaaH* = of most beautiful appearance; *raajiiva taamraakshhaH* = with red
-eyes resembling red lotus flowers; *bruvanneva* = while even uttering; *ityeva* =
-thus; *maam* = to me; *bhR^isham* = amply; *avartata* = shed;
-*ashruuNi* = tears.
-
-**अनुवादः**
-
-"Oh, emperor! Rama of the most beautiful appearance with red eyes resembling red
-lotus flowers, while even uttering these words to me profusely shed tears."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. vartayan* = shedding; *ashruuNi* = tears;
 *bhR^isham* = profusely; *bhuuyaH* = (he) again; *abraviicchaapi* = spoke;
 *maam* = to me (as follows); *maam maataa* = my mother; *putragardhinii* = who
@@ -1086,6 +1068,24 @@ is very much longing her son; *draSTavyaa* = is to be looked after; *te* = by yo
 
 "Shedding tears profusely, Rama again spoke to me as follows : �My mother, who is
 very much longing her son, is to be looked after by you as if she is your mother'."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. mahaaraja* = Oh; emperor; *raamaH* = Rama;
+*mahaayashaaH* = of most beautiful appearance; *raajiiva taamraakshhaH* = with red
+eyes resembling red lotus flowers; *bruvanneva* = while even uttering; *ityeva* =
+thus; *maam* = to me; *bhR^isham* = amply; *avartata* = shed;
+*ashruuNi* = tears.
+
+**अनुवादः**
+
+"Oh, emperor! Rama of the most beautiful appearance with red eyes resembling red
+lotus flowers, while even uttering these words to me profusely shed tears."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga58/ayodhyasans58.htm)
 </details>

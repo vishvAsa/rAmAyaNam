@@ -947,24 +947,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. bhiima paraakrama* = O Kumbhakarna of terrible prowess!;
-*tat* = therefore; *aatiSTha* = show your superiority; *etat* = from this;
-*sarvam* = entire; *viiryam* = vigour; *na balii dR^ishyate hi* = no strong
-person is indeed seen; *sadR^ishaH* = who is equal; *te* = to you; *sarva
-bhuuteSu* = in all beings.
-
-**अनुवादः**
-
-"O Kumbhakarna of terrible prowess! Therefore, show your entire prowess. There is
-indeed no one, in the entire beings, who is equal to you in strength."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *21. mama* = to me; *asti* = there is; *snehaH* =
 affection; *tvayi* = towards you; *me* = to me; (there is); *paraa* = a high;
 *sambhaavanaacha* = respect too; *raakSasarSabha* = O the foremost of demons!;
@@ -978,6 +960,24 @@ celestials and demons; *nirjitaaH* = (they) were defeated; *tvayaa* = by you;
 "I have a great respect and affection towards you. O the foremost of demons! For
 several times, in battles between gods and demons, you conquered the celestials and demons, after
 attacking them in the battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. bhiima paraakrama* = O Kumbhakarna of terrible prowess!;
+*tat* = therefore; *aatiSTha* = show your superiority; *etat* = from this;
+*sarvam* = entire; *viiryam* = vigour; *na balii dR^ishyate hi* = no strong
+person is indeed seen; *sadR^ishaH* = who is equal; *te* = to you; *sarva
+bhuuteSu* = in all beings.
+
+**अनुवादः**
+
+"O Kumbhakarna of terrible prowess! Therefore, show your entire prowess. There is
+indeed no one, in the entire beings, who is equal to you in strength."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga62/yuddhasans62.htm)
 </details>

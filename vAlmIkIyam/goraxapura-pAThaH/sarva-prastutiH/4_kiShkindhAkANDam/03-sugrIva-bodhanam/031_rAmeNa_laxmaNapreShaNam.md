@@ -1653,6 +1653,24 @@ _________________
 
 **पदच्छेदः**
 
+*32. roSa taamra akSaH* = by rancour, reddened, eyed one;
+*mahaayashaaH saH* = highly adorable, he that Lakshmana; *angadam* = to Angada;
+*vatsa* = oh, boy; *sugriivaH mama aagamanam kathyataam* = let Sugreeva, about my,
+arrival, be told; *iti uta* = thus, this way - said; *samdidesha* = sent a word.
+
+**अनुवादः**
+
+With his eyes reddened in rancour that highly adorable Lakshmana sent a word through
+Angada, saying "oh, boy, let Sugreeva be informed about my arrival," and said this way.
+[4-31-32]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *33. arindama* = oh, enemy-destroyer; *vatsa* = oh boy - Angada;
 you say this to Sugreeva; *arindamaH* = oh, enemy-destroyer - Sugreeva; *bhraatuH vyasana
 santaptaH* = brother's - Rama's, distress, distressed by; *raama anujaH* = Rama's
@@ -1670,24 +1688,6 @@ enemy-destroyer Sugreeva, distressed by the distress of his brother this Lakshma
 your presence and waiting at the door, oh, Sugreeva, the vanara, if you are interested it will be
 apt of you to listen to his advise, either by coming here or inviting him inside...' saying so oh,
 boy Angada, you comeback quickly." Thus Lakshmana spoke to Angada. [4-31-33, 34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*32. roSa taamra akSaH* = by rancour, reddened, eyed one;
-*mahaayashaaH saH* = highly adorable, he that Lakshmana; *angadam* = to Angada;
-*vatsa* = oh, boy; *sugriivaH mama aagamanam kathyataam* = let Sugreeva, about my,
-arrival, be told; *iti uta* = thus, this way - said; *samdidesha* = sent a word.
-
-**अनुवादः**
-
-With his eyes reddened in rancour that highly adorable Lakshmana sent a word through
-Angada, saying "oh, boy, let Sugreeva be informed about my arrival," and said this way.
-[4-31-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>
@@ -2163,6 +2163,24 @@ discuss variously about the prosperity and probity. [4-31-42, 43]
 
 **पदच्छेदः**
 
+*44. aasiinam sugriivam* = who is sitting, Sugreeva; *marut patim
+shakram yathaa* = wind-gods', king, Indra, as with; *pari upa asiinau* = [ministers,]
+around, nearby, sitting; *sa artha nishcitaiH vacanaiH* = with meaning, expressive, words;
+*prasaadayitvaa* = on appeasing; and they spoke to Sugreeva as below.
+
+**अनुवादः**
+
+Those two ministers sitting around and nearby Sugreeva, who is seated like the king
+of wind-gods, namely Indra, on appeasing him with meaningful and expressive words they spoke to him
+in this way. [4-31-44]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *45. satya sandhau* = those by truth, abided; *mahaa bhaagau* =
 highly, providential; *raajya arhau* = kingdom, worthy of; *raajya daayinau* =
 kingdom, bestowers; *bhraatarau raama lakSmaNau* = brothers, Rama, Lakshmana; *vayasya
@@ -2175,24 +2193,6 @@ friends.
 though they are worthy enough to rule kingdom for themselves they have bestowed the kingdom to you,
 such as they are, they have become your true friends." Thus started the ministers to say to
 Sugreeva. [4-31-45]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*44. aasiinam sugriivam* = who is sitting, Sugreeva; *marut patim
-shakram yathaa* = wind-gods', king, Indra, as with; *pari upa asiinau* = [ministers,]
-around, nearby, sitting; *sa artha nishcitaiH vacanaiH* = with meaning, expressive, words;
-*prasaadayitvaa* = on appeasing; and they spoke to Sugreeva as below.
-
-**अनुवादः**
-
-Those two ministers sitting around and nearby Sugreeva, who is seated like the king
-of wind-gods, namely Indra, on appeasing him with meaningful and expressive words they spoke to him
-in this way. [4-31-44]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm)
 </details>

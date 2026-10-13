@@ -326,23 +326,6 @@ surrounded by mountains as well as Yamuna river, the army was then made to rest 
 
 **पदच्छेदः**
 
-*8. bhadraH* = the blessed; *raajaputraH* = bharata; *the
-prince;atyayaat* = traversed;mahaaraNyam = the huge forest; *anabhiikshhNopasevitam* =
-which was rarely frequented; *bhadreNa* = by his excellent; *yaanena* = chariot;
-*khamiva* = as through the atmosphere; *maarutaH* = the wind.
-
-**अनुवादः**
-
-The blessed prince Bharata traversed that rarely frequented huge forest by his
-excellent chariot as the wind glides through an atmosphere.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *7. shiitiikR^iya* = making cool; *gaatraaNi* = the limbs;
 *klaantaan* = of the tired; *vaajinaH* = horses; by bathing them; *aashvaasya*
 = and cheering them up; *tatra* = there; *snaatvaa* = taking bath(himself);piitvaacha
@@ -354,6 +337,23 @@ excellent chariot as the wind glides through an atmosphere.
 Making cool the limbs of the tired horses by bathing there and cheering up them,
 nay, taking a bath himself, drinking some water and carrying it for future use, Bharata proceeded
 further.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. bhadraH* = the blessed; *raajaputraH* = bharata; *the
+prince;atyayaat* = traversed;mahaaraNyam = the huge forest; *anabhiikshhNopasevitam* =
+which was rarely frequented; *bhadreNa* = by his excellent; *yaanena* = chariot;
+*khamiva* = as through the atmosphere; *maarutaH* = the wind.
+
+**अनुवादः**
+
+The blessed prince Bharata traversed that rarely frequented huge forest by his
+excellent chariot as the wind glides through an atmosphere.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
@@ -761,6 +761,23 @@ tired and then proceeded quickly.
 
 **पदच्छेदः**
 
+*17. samaatiitya* = driving through; *vanamcha* = the grove;
+*aastu* = quickly; *sharavaryaam* = in the night; *aruNodaya* = at dawn;
+*sandarshaha* = saw; *ayodhyaam* = the city of Ayodhya; *nirniitaam* = which
+was built; *manunaaraG^yaa* = by the king Manu.
+
+**अनुवादः**
+
+Driving through grove quickly in the night, Bharata at the dawn saw the city of
+Ayodhya, which was earlier built by King Manu.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *18. dR^IshhTvaa* = seeing ; *taam* = that; *ayodhyaam
 puriim* = city of Ayodhya; *agrataH* = in front; *saptaraatroshhitaH* = after
 spending seven nights; *pathi* = on his way; *purushhvyaaghraH* = that tiger among
@@ -771,23 +788,6 @@ charioteer.
 
 Seeing the city of Ayodhya in front, after spending seven nights on his way, Bharata
 the tiger among men, spoke the following words to his charioteer:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*17. samaatiitya* = driving through; *vanamcha* = the grove;
-*aastu* = quickly; *sharavaryaam* = in the night; *aruNodaya* = at dawn;
-*sandarshaha* = saw; *ayodhyaam* = the city of Ayodhya; *nirniitaam* = which
-was built; *manunaaraG^yaa* = by the king Manu.
-
-**अनुवादः**
-
-Driving through grove quickly in the night, Bharata at the dawn saw the city of
-Ayodhya, which was earlier built by King Manu.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
@@ -941,23 +941,6 @@ Ayodhya. Now, I am not hearing that voice."
 
 **पदच्छेदः**
 
-*23. taami* = these parks; *parityaktaani* = deserted;
-*kaamibhiH* = by the lovers; *adya* = now; *anuruddantiiva* = turn out to be
-miserable; *saarathe* = o; *charioteer!me* = to me; *purii* = the city;
-*pratibhaati* = appears; *araNyabhuuteva* = to have changed into a forest.
-
-**अनुवादः**
-
-"These parks deserted by the lovers now turn out to be dejected . O, charioteer! To
-me, the city appears to have changed into a forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *22. udyaanaani* = the parks; *prakaashantehi* = which used to
 beam; *naraiH* = forth; *samantaat* = on all sides; *saayaahne* = in the
 evening; *mama* = to me; *anyathaa* = otherwise.
@@ -967,6 +950,23 @@ evening; *mama* = to me; *anyathaa* = otherwise.
 "The parks which used to beam with men streaming forth on all sides, having given up
 sporting in the morning after entering them in thee evening having spent the whole night in sport,
 now appear to me otherwise"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. taami* = these parks; *parityaktaani* = deserted;
+*kaamibhiH* = by the lovers; *adya* = now; *anuruddantiiva* = turn out to be
+miserable; *saarathe* = o; *charioteer!me* = to me; *purii* = the city;
+*pratibhaati* = appears; *araNyabhuuteva* = to have changed into a forest.
+
+**अनुवादः**
+
+"These parks deserted by the lovers now turn out to be dejected . O, charioteer! To
+me, the city appears to have changed into a forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
@@ -1058,23 +1058,6 @@ coming out it in carriages or on horses or on elephants."
 
 **पदच्छेदः**
 
-*26. pashyaami* = Iam seeing; *taanyena* = those same parks;
-*adya* = today; *niraanandaami* = with lack of enjoyment; *sarvashaH* = on all
-sides; *drumaiH* = with trees; *srastaparNaih* = having their leaves fallen;
-*anupatham* = along the road; *vikroshadbhiriva* = looking a picture of dismay.
-
-**अनुवादः**
-
-"I am seeing the same parks., today with lack of enjoyments on all sides and with
-trees having their leaves fallen along the road, looking like picture of dismay."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *25. puraa* = earlier; *ndyaanaani* = parks; *shaanti* =
 used to be conspicuously; *matta pranuditaanicha* = ezaited;with joy and gaiety;
 *atyantaguNavanticha* = and were most excellent ; *ratisamyogeshhu* = for love
@@ -1084,6 +1067,23 @@ contacts; *janaanaam* = of men.
 
 "Earlier parks used to be conspicuously excited with joy and gaiety and were most
 congenial for love contacts of men."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. pashyaami* = Iam seeing; *taanyena* = those same parks;
+*adya* = today; *niraanandaami* = with lack of enjoyment; *sarvashaH* = on all
+sides; *drumaiH* = with trees; *srastaparNaih* = having their leaves fallen;
+*anupatham* = along the road; *vikroshadbhiriva* = looking a picture of dismay.
+
+**अनुवादः**
+
+"I am seeing the same parks., today with lack of enjoyments on all sides and with
+trees having their leaves fallen along the road, looking like picture of dismay."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>
@@ -1688,6 +1688,23 @@ burned . Families are starving and people look miserably without any charming ap
 
 **पदच्छेदः**
 
+*40. devaagaaraaNi* = the temples of gods; *shuunyaani* = are
+deserted; *naabhaanticga* = and have lost their radiance; *apetamaalya shobhaani* =
+with their splendor of floral decoration lost; *asammR^ishhTaajiraaNicha* = nor are any
+assembling to perform sacrifices; *yathaapuram* = as before.
+
+**अनुवादः**
+
+"The temples of gods are deserted and have lost their radiance, with their splendor
+of floral decorations lost, nor are there any assembling to perform sacrifices as before."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *41. devataarchaah* = worships of the deities; *praviddhaaHcha*
 = were placed aside; *yajN^a goshhTyaH* = Assemblies of prayers; *tathaavidhaah* =
 are also in the same condition; *tathaa* = and; *paNyaani* = saleable garlands;
@@ -1698,23 +1715,6 @@ are also in the same condition; *tathaa* = and; *paNyaani* = saleable garlands;
 
 "Worships of the deities were placed aside. Assemblies of prayers are also not
 adorned with saleable flowers and garlands today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*40. devaagaaraaNi* = the temples of gods; *shuunyaani* = are
-deserted; *naabhaanticga* = and have lost their radiance; *apetamaalya shobhaani* =
-with their splendor of floral decoration lost; *asammR^ishhTaajiraaNicha* = nor are any
-assembling to perform sacrifices; *yathaapuram* = as before.
-
-**अनुवादः**
-
-"The temples of gods are deserted and have lost their radiance, with their splendor
-of floral decorations lost, nor are there any assembling to perform sacrifices as before."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga71/ayodhyasans71.htm)
 </details>

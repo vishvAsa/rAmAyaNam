@@ -408,15 +408,15 @@ that we reached that area of which Bharadwaja spoke."
 
 **पदच्छेदः**
 
-*9. samprati* = Now; *maamakaiH vaaraNaiH* = by my elephants;
-*parvatopamaiH* = appearing like mountains; *ramyaaNi* = the lovely;
-*saanuuni* = peaks; *gireH* = of the moutain; *chitrakuuTasya* = Chitrakuta;
-*avamR^idyante* = are being trampled.
+*8. ayam* = this; *giriH* = mountain; *chitrakuuTaH* = is
+Chitrakuta; *iyam nadii* = this river; *mandaakinii* = is Mandakini; *etat* =
+this; *vanam* = forest; *prakaashate* = is appearing; *niila meghanibham* =
+like a blue cloud; *duuraat* = from a distance.
 
 **अनुवादः**
 
-"By my elephants appearing themselves like mountains, the lovely peaks of Chitrakuta
-mountain are being trampled."
+"This mountain is Chitrakuta. This river is Mandakini. This forest is appearing like
+a blue cloud from a distance."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>
@@ -430,15 +430,15 @@ mountain are being trampled."
 
 **पदच्छेदः**
 
-*8. ayam* = this; *giriH* = mountain; *chitrakuuTaH* = is
-Chitrakuta; *iyam nadii* = this river; *mandaakinii* = is Mandakini; *etat* =
-this; *vanam* = forest; *prakaashate* = is appearing; *niila meghanibham* =
-like a blue cloud; *duuraat* = from a distance.
+*9. samprati* = Now; *maamakaiH vaaraNaiH* = by my elephants;
+*parvatopamaiH* = appearing like mountains; *ramyaaNi* = the lovely;
+*saanuuni* = peaks; *gireH* = of the moutain; *chitrakuuTasya* = Chitrakuta;
+*avamR^idyante* = are being trampled.
 
 **अनुवादः**
 
-"This mountain is Chitrakuta. This river is Mandakini. This forest is appearing like
-a blue cloud from a distance."
+"By my elephants appearing themselves like mountains, the lovely peaks of Chitrakuta
+mountain are being trampled."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga93/ayodhyasans93.htm)
 </details>

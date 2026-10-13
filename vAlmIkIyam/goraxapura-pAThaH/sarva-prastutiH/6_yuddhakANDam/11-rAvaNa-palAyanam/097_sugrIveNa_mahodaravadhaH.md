@@ -1294,23 +1294,6 @@ unyielded, the two heroes pushed each other on their shoulders.
 
 **पदच्छेदः**
 
-*29. tathaiva* = in the same way; *vegavattaraH* = the highly
-swift; *sugriivaH* = Sugreeva; *vaanara shreShThaH* = the foremost of monkeys;
-*jagraaha* = took hold; *mahaakhaDgam* = of a large sword; *charmaNaa saha* =
-along with a shield; *tatitam* = lying (there).
-
-**अनुवादः**
-
-In the same way, the highly swift Sugreeva the foremost of monkeys took hold of a
-large sword together with a shield, lying there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *28. tau viirau* = those two heroes; *paramtapau* = the
 annihilators of their enemies; *jagmatuH shramam* = felt exhausted; *baahuyuddhe* =
 in the course of their wrestling; *tadaa* = then; *mahaavegaH* = the highly fast;
@@ -1323,6 +1306,23 @@ in the course of their wrestling; *tadaa* = then; *mahaavegaH* = the highly fast
 Those two heroes, the annihilators their enemies, felt exhausted in the course of
 their wrestling. Then the highly fast Mahodara the demon took hold of a sword and a shield, lying
 not very far.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. tathaiva* = in the same way; *vegavattaraH* = the highly
+swift; *sugriivaH* = Sugreeva; *vaanara shreShThaH* = the foremost of monkeys;
+*jagraaha* = took hold; *mahaakhaDgam* = of a large sword; *charmaNaa saha* =
+along with a shield; *tatitam* = lying (there).
+
+**अनुवादः**
+
+In the same way, the highly swift Sugreeva the foremost of monkeys took hold of a
+large sword together with a shield, lying there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga97/yuddhasans97.htm)
 </details>

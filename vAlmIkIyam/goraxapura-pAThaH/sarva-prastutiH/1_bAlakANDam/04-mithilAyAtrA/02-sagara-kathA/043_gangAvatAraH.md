@@ -350,6 +350,26 @@ Discerning her egotism god Shiva is infuriated, and then on his part
 
 **पदच्छेदः**
 
+*7b, 8a. raama* = oh Rama; *saa puNyaa* = she, that holy
+ river; *himavat pratime* = equalling to Himalayas; *jaTaamaNDalagahvare*
+ = in curls of matted hair-tufts similar to
+ mountain caves - cavernous curls; *tasmin rudrasya puNye muurdhani*
+ = on that, of Rudra's, holy head; *patitaa* = she has fallen
+ - swooped on - and became a detainee in those curls.
+
+**अनुवादः**
+
+And oh, Rama, she that holy River Ganga swooped down into the cavernous
+ curls of matted hair-tufts on the holy head of God Shiva, and she became
+ a detainee in them. [1-43-7b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *8b, 9a. saa* = she, Ganga; *yatnam aasthitaa* =
  though she strived hard; *katha~ncit* = someway;
  *mahiim gantum* = to go - to reach earth; *na ashaknot*
@@ -364,26 +384,6 @@ Though she strove hard in one way or another to reach the earth that
  Ganga is rendered incapable, as she could not gain access for an outlet
  from any edge of the coils of matted hair-tufts of Shiva, hence she
  is held there in durance vile. [1-43-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*7b, 8a. raama* = oh Rama; *saa puNyaa* = she, that holy
- river; *himavat pratime* = equalling to Himalayas; *jaTaamaNDalagahvare*
- = in curls of matted hair-tufts similar to
- mountain caves - cavernous curls; *tasmin rudrasya puNye muurdhani*
- = on that, of Rudra's, holy head; *patitaa* = she has fallen
- - swooped on - and became a detainee in those curls.
-
-**अनुवादः**
-
-And oh, Rama, she that holy River Ganga swooped down into the cavernous
- curls of matted hair-tufts on the holy head of God Shiva, and she became
- a detainee in them. [1-43-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
@@ -654,6 +654,27 @@ Also thus Sucakshu, Seetha, and the excellent river Sindhu are the
 
 **पदच्छेदः**
 
+*14, 15a. taasaam* = of them; *saptamii* = seventh Ganga;
+ *tadaa* = then; *bhagiirathaH ratham anvagaat ca* = followed path of Bhageeratha's
+ chariot, also; *mahaatejaaH raajarShiH bhagiirathaH
+ api* = great resplendent, sagely king, Bhageeratha, even; *divyam
+ syandanam aasthitaH* = sitting on divine chariot; *agre*
+ = in front; *prayaat* = well journeyed - moved ahead; *gangaa
+ ca api* = Ganga, also, even; *tam anuvrajat* = followed him.
+
+**अनुवादः**
+
+Of them the seventh Ganga flowed towards the path of Bhageeratha' chariot,
+ and that great-resplendent and kingly sage Bhageeratha sitting in a
+ divine chariot moved ahead and even Ganga followed him. [1-43-14, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *15b, 16a. gaganaat shamkarashiraH* = from heaven, to Sankara's
  head; *tataH dharaNim aagataa* = from there she came onto earth
  ; *tatra* = there; *jalam* = water; *tiivrashabdapurarskR^itam*
@@ -676,27 +697,6 @@ The River Ganga is also called as *tripathagaa* 'she courses
  flow as led by Bhageeratha. The westward river Sindhu is the Indus and
  the eastward Nalini, which is now called as river Brahmaputra, while
  Ganga proper courses a little to south to move towards the ocean.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*14, 15a. taasaam* = of them; *saptamii* = seventh Ganga;
- *tadaa* = then; *bhagiirathaH ratham anvagaat ca* = followed path of Bhageeratha's
- chariot, also; *mahaatejaaH raajarShiH bhagiirathaH
- api* = great resplendent, sagely king, Bhageeratha, even; *divyam
- syandanam aasthitaH* = sitting on divine chariot; *agre*
- = in front; *prayaat* = well journeyed - moved ahead; *gangaa
- ca api* = Ganga, also, even; *tam anuvrajat* = followed him.
-
-**अनुवादः**
-
-Of them the seventh Ganga flowed towards the path of Bhageeratha' chariot,
- and that great-resplendent and kingly sage Bhageeratha sitting in a
- divine chariot moved ahead and even Ganga followed him. [1-43-14, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
@@ -788,6 +788,26 @@ The earth then verily shone forth with the shoals of fish, schools
 
 **पदच्छेदः**
 
+*17b, 18a. tataH* = later; *te* = they; *devarSigandharvaaH yakSaaH*
+ = gods, sages, gandharva-s, Yaksha-s; *siddhagaNaaH*
+ = assemblages of siddha-s; *tadaa tathaa* = then,
+ in that way; *gaganaat gaam gataam* = proceeded to - reached to earth from heaven
+ , swoop of; *tatra vyalokayanta* = there,
+ they have curiously seen.
+
+**अनुवादः**
+
+Later, they the gods, sages, gandharva-s, yaksha-s, and the assemblages
+ of siddha-s have then seen there the swoop of Ganga in that way from
+ heaven to earth, with curiosity. [1-43-17b, 18a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *18b, 19a. tathaa* = then; *devataaH* = gods; *nagaraakaaraiH
  vimaanaiH* = aircrafts like cities in shape and size
  - some of them; *paariplavagataaH* = which have gone in franticness
@@ -802,26 +822,6 @@ Some of the gods with aircrafts that are like cities in their shape
  and size, and some with horses that are prancing, and some with best
  elephants that are staggering, at the very sight of plunging Ganga,
  have entered the firmament at that place. [1-43-18b, 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*17b, 18a. tataH* = later; *te* = they; *devarSigandharvaaH yakSaaH*
- = gods, sages, gandharva-s, Yaksha-s; *siddhagaNaaH*
- = assemblages of siddha-s; *tadaa tathaa* = then,
- in that way; *gaganaat gaam gataam* = proceeded to - reached to earth from heaven
- , swoop of; *tatra vyalokayanta* = there,
- they have curiously seen.
-
-**अनुवादः**
-
-Later, they the gods, sages, gandharva-s, yaksha-s, and the assemblages
- of siddha-s have then seen there the swoop of Ganga in that way from
- heaven to earth, with curiosity. [1-43-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
@@ -1061,25 +1061,6 @@ _________________
 
 **पदच्छेदः**
 
-*24b, 25a. kvacit* = somewhere; *salilam* = water; *
- salilena eva* = by water, alone; *punaH* = again - repeatedly;
- *abhyaahatam* = knocking towards - colliding with, crashing
- into; *muhuH* = recurrent; *uurdhvapatham gatvaa* = on going upper way
- - billowing upwards; *vasudhaam punaH papaata* =
- has fallen on earth again - refluent tide making a nosedive.
-
-**अनुवादः**
-
-Somewhere her water repeatedly knocking against her own water is recurrently
- billowing upwards only to make nosedive onto earth. [1-43-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *23b, 24a. kvacit* = somewhere; *drutataram* = speed
  in higher degree - precipitately; *yaati* = she courses [Ganga];
  *kvacit kuTilam yaati* = elsewhere, sinuously, she courses;
@@ -1101,6 +1082,25 @@ Somewhere Ganga is coursing precipitately in declivities, elsewhere
  elsewhere sloppily in canting lands, somewhere gushingly in craggy lands,
  and somewhere else her cruise is leisurely in flatlands and tardily
  in uplands.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24b, 25a. kvacit* = somewhere; *salilam* = water; *
+ salilena eva* = by water, alone; *punaH* = again - repeatedly;
+ *abhyaahatam* = knocking towards - colliding with, crashing
+ into; *muhuH* = recurrent; *uurdhvapatham gatvaa* = on going upper way
+ - billowing upwards; *vasudhaam punaH papaata* =
+ has fallen on earth again - refluent tide making a nosedive.
+
+**अनुवादः**
+
+Somewhere her water repeatedly knocking against her own water is recurrently
+ billowing upwards only to make nosedive onto earth. [1-43-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
@@ -1240,25 +1240,6 @@ _________________
 
 **पदच्छेदः**
 
-*28b, 29a. tena* = by that - water; *subhaanvitaa toyena*
- = hallowing water; *dhuutapaapaaH* = whose sins are washed away
- ; *punaH aakaasham aavishya* = again, entering to sky
- - transiting skyward; *atha* = then; *punaH svaam lokaan pratipedire*
- = again, they obtained their own empyrean-worlds.
-
-**अनुवादः**
-
-When sins are washed away with the hallowing water of Ganga, they again
- transited skyward and then obtained their own empyrean worlds once again.
- [1-43-28b, 29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *27b, 28a. ye ca* = those, also; *shaapaat gaganaat* =
  by curse, from sky - heaven; *vasudhaatalam prapatitaa* = fallen down onto
  earth's surface; *te* = they; *tatra* =
@@ -1271,6 +1252,25 @@ When sins are washed away with the hallowing water of Ganga, they again
 Also those that have fallen from heaven onto the surface of earth by
  some curse or the other, they too became blemishless on taking head-bath
  in the water of Ganga. [1-43-27b, 28a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*28b, 29a. tena* = by that - water; *subhaanvitaa toyena*
+ = hallowing water; *dhuutapaapaaH* = whose sins are washed away
+ ; *punaH aakaasham aavishya* = again, entering to sky
+ - transiting skyward; *atha* = then; *punaH svaam lokaan pratipedire*
+ = again, they obtained their own empyrean-worlds.
+
+**अनुवादः**
+
+When sins are washed away with the hallowing water of Ganga, they again
+ transited skyward and then obtained their own empyrean worlds once again.
+ [1-43-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>
@@ -1645,26 +1645,6 @@ _________________
 
 **पदच्छेदः**
 
-38. *tataH tuSTaH* = then, who is delighted; *mahaatejaaH prabhuH*= great-radiant,
-godly sage - Jahnu; *shrotraabhyaam asR^ijat* = created - released Ganga from two ears
-; *tasmaat*= therefore; *gangaa jahnusutaa* = Ganga, sage
-Jahnu's daughter - she became; *jaahnavi iti ca* = Jahnavi, as, also;
-*procyate* = well, said - renowned as.
-
-**अनुवादः**
-
-That greatly radiant and godly sage Jahnu is then delighted and released
- Ganga from both of his ears. Therefore Ganga became the daughter of
- sage Jahnu, and she is also renowned as Jahnavi, after the name of that
- sage. [1-43-38]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *36b, 37. tataH* = thereupon; *sagangharvaaH devaaH* =
  with gandharva-s, gods; *R^iShayaH ca* = sages, also; *suvismitaaH*
  = are highly astounded; and they then; *puruShasattamam*
@@ -1681,6 +1661,26 @@ Thereupon, the gods along with gandharva-s and sages at that extremely
  to worship that ablest human and great-souled sage Jahnu, and even deigned
  for the daughterhood of Ganga to that high-souled sage Jahnu. [1-43-36b,
  37]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+38. *tataH tuSTaH* = then, who is delighted; *mahaatejaaH prabhuH*= great-radiant,
+godly sage - Jahnu; *shrotraabhyaam asR^ijat* = created - released Ganga from two ears
+; *tasmaat*= therefore; *gangaa jahnusutaa* = Ganga, sage
+Jahnu's daughter - she became; *jaahnavi iti ca* = Jahnavi, as, also;
+*procyate* = well, said - renowned as.
+
+**अनुवादः**
+
+That greatly radiant and godly sage Jahnu is then delighted and released
+ Ganga from both of his ears. Therefore Ganga became the daughter of
+ sage Jahnu, and she is also renowned as Jahnavi, after the name of that
+ sage. [1-43-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga43/balasans43.htm)
 </details>

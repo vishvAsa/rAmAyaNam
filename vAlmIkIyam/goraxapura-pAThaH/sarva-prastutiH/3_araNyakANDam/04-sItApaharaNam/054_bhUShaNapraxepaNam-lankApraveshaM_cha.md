@@ -119,6 +119,37 @@ prominent vanara-s staying on a mountaintop. [3-54-1]
 
 **पदच्छेदः**
 
+*2, 3a. vishaalaakSii* = broad-eyed one; *varaarohaa* =
+curvaceous lady; *bhaaminii* = lady with resentment; *kanaka prabham kausheyam
+uttariiyam* = golden, in hue, silk sari, upper cloth; *shubhaani aabharaNaani ca* =
+auspicious, ornaments, also; *raamaaya* = to Rama; *shamseyuH yadi* = they indicate,
+if [they may]; *iti* = thus [on thinking]; *teSaam madhye mumoca* = their, amid,
+released - dropped.
+
+**अनुवादः**
+
+That broad-eyed and curvaceous lady with resentment Seetha, inwrapping her
+auspicious ornaments in the upper-fringe of her sari, dropped in the midmost of those five Vanara-s
+with a thinking that 'these creatures may perhaps indicate them to Rama.' [3-54-2, 3a]
+
+**टिप्पनी**
+
+Some say that Seetha shore her upper cloth and bundled the ornaments while some
+others say that whole of the upper cloth was dropped. The Indian sari
+worn by those women of yore was in a different fashion, where they wore sari like the present day dhoti with pleated back
+stuffing like men, but they also used an upper cloth enough to cover their busts. A three-piece
+dress is a must, either to man or a woman in Indian style. It comprises of a loincloth dhoti or
+sari, and a shirt-like or a jacket-like bust cover, and an upper-cloth to hang on the shoulder to
+men or to muffle the bust for women. So some say the whole of upper cloth of Seetha is dropped
+bundled with ornaments.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *3b, 4a. saha bhuuSaNam vastram* = along with, ornaments, upper cloth;
 *utsR^ijya* = up, whipping; *tan madhye* = those [five vanara-s,] amongst; *vi
 nikSiptam* = which is verily [carefully,] stowed away - that bundle; *saH dashagriivaH
@@ -148,37 +179,6 @@ These ornaments are said to be one nosering, one earring, one bracelet, one
 biceps-let, one anklet with tinkling bells - all from her right side - because showing
 ornaments/items worn on left-side to husband is held improper. The anklet that has fallen from her
 leg on earth, in earlier chapters, is from her left leg.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*2, 3a. vishaalaakSii* = broad-eyed one; *varaarohaa* =
-curvaceous lady; *bhaaminii* = lady with resentment; *kanaka prabham kausheyam
-uttariiyam* = golden, in hue, silk sari, upper cloth; *shubhaani aabharaNaani ca* =
-auspicious, ornaments, also; *raamaaya* = to Rama; *shamseyuH yadi* = they indicate,
-if [they may]; *iti* = thus [on thinking]; *teSaam madhye mumoca* = their, amid,
-released - dropped.
-
-**अनुवादः**
-
-That broad-eyed and curvaceous lady with resentment Seetha, inwrapping her
-auspicious ornaments in the upper-fringe of her sari, dropped in the midmost of those five Vanara-s
-with a thinking that 'these creatures may perhaps indicate them to Rama.' [3-54-2, 3a]
-
-**टिप्पनी**
-
-Some say that Seetha shore her upper cloth and bundled the ornaments while some
-others say that whole of the upper cloth was dropped. The Indian sari
-worn by those women of yore was in a different fashion, where they wore sari like the present day dhoti with pleated back
-stuffing like men, but they also used an upper cloth enough to cover their busts. A three-piece
-dress is a must, either to man or a woman in Indian style. It comprises of a loincloth dhoti or
-sari, and a shirt-like or a jacket-like bust cover, and an upper-cloth to hang on the shoulder to
-men or to muffle the bust for women. So some say the whole of upper cloth of Seetha is dropped
-bundled with ornaments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>
@@ -460,6 +460,24 @@ the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 
 **पदच्छेदः**
 
+*8b, 9a. timi nakra niketam* = sharks, alligators, housing of;
+*varuNa aalayam* = Rain-god's, home; *a kSayam* = never, decreasing - never-draining
+- ocean; *saritaam sharaNam* = for rivers, [ultimate] course; *saagaram* = ocean;
+*gatvaa* = on reaching; *sam atiiyaaya* = well [hastily] crossed over.
+
+**अनुवादः**
+
+On reaching the ocean, a housing for sharks, alligators, a home of Rain-god, a
+never-draining deep and an ultimate course of the rivers, he hastily crossed it over. [3-54-8b,
+9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *9b, 10a. vaidehyaam hriyamaaNaayaam* = of Vaidehi, being abducted;
 *varuNa aalayaH* = Rain-god's, abode [ocean]; *sambhramaat* = by high flustering;
 *parivR^itta uurmii* = topsy-turvy, waves; *ruddha mina mahaa uragaH* = deterred
@@ -471,24 +489,6 @@ the double, as with an arrow bolting from a bow. [3-4-7b, 8a]
 That ocean being the abode of Rain-god is highly flustered when Vaidehi is being
 abducted over it, and its waves became topsy-turvy and its fishes and great marine-reptiles
 remained shilly-shally. [3-54-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*8b, 9a. timi nakra niketam* = sharks, alligators, housing of;
-*varuNa aalayam* = Rain-god's, home; *a kSayam* = never, decreasing - never-draining
-- ocean; *saritaam sharaNam* = for rivers, [ultimate] course; *saagaram* = ocean;
-*gatvaa* = on reaching; *sam atiiyaaya* = well [hastily] crossed over.
-
-**अनुवादः**
-
-On reaching the ocean, a housing for sharks, alligators, a home of Rain-god, a
-never-draining deep and an ultimate course of the rivers, he hastily crossed it over. [3-54-8b,
-9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga54/aranyasans54.htm)
 </details>

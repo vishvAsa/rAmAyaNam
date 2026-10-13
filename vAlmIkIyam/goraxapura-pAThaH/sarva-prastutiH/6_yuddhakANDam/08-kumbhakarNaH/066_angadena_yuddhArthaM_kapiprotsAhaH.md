@@ -446,23 +446,6 @@ _________________
 
 **पदच्छेदः**
 
-*10. mahaabalaH* = the mighty Kumbhakarna hanyamaanaH = (though)
-assaulted; *praamshubhiH girishR^iN^gaishcha* = with lofty mountain-tops;
-*shilaabhishcha* = rocks; *puSpitaagraiH paadapaiH* = and trees having blossoms at
-their ends; *na kampate* = was unshaken.
-
-**अनुवादः**
-
-The mighty Kumbhakarna, though assaulted with lofty mountain-tops, rocks and trees
-with blossoms at their ends, stood unshaken.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *9. te* = those; *vanaukasaH* = monkeys; *samadaaH* =
 kuNjaraaH iva = like elephants in rut; *nivR^itya* = having come back; *samrabdhaaH*
 = hurriedly; *nirjaghnuH* = assaulted; *kumbhakarNam* = Kumbhakarna;
@@ -472,6 +455,23 @@ kuNjaraaH iva = like elephants in rut; *nivR^itya* = having come back; *samrabdh
 
 Like elephants in rut, those monkeys, having came back, hurriedly hit Kumbhakarna,
 very much enraged as they were.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. mahaabalaH* = the mighty Kumbhakarna hanyamaanaH = (though)
+assaulted; *praamshubhiH girishR^iN^gaishcha* = with lofty mountain-tops;
+*shilaabhishcha* = rocks; *puSpitaagraiH paadapaiH* = and trees having blossoms at
+their ends; *na kampate* = was unshaken.
+
+**अनुवादः**
+
+The mighty Kumbhakarna, though assaulted with lofty mountain-tops, rocks and trees
+with blossoms at their ends, stood unshaken.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhasans66.htm)
 </details>

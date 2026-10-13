@@ -1514,22 +1514,6 @@ _________________
 
 **पदच्छेदः**
 
-*33b, 34a. tam muni varam* = that, sage, supreme; *svayam aham* = personally, I will [can
-I]; *shushruuSeyam api yadi* = can I propitiate; *eSa mahaan manorathaH* = this, high,
-ambition; *me hR^idi pari vartate* = in my, heart, it is recurring.
-
-**अनुवादः**
-
-"Can I personally propitiate that supreme sage -- is my high ambition, and it is recurrent in my heart."
-So said Rama to Suteekshna. [4-11-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *32b, 33a. prasaada artham bhagavataH* = graciousness, desiring, of that godly sage; *sa anujaH
 saha siitayaa* = with, brother, along with Seetha; *munim agastyam abhivaadayitum abhi gacCheyam*
 = that sage, to Agastya, to venerate, I wish to approach.
@@ -1538,6 +1522,22 @@ saha siitayaa* = with, brother, along with Seetha; *munim agastyam abhivaadayitu
 
 "I wish to approach that sage seeking that godly sage's graciousness, along with my brother and Seetha
 to venerate him. [4-11-32b, 33a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*33b, 34a. tam muni varam* = that, sage, supreme; *svayam aham* = personally, I will [can
+I]; *shushruuSeyam api yadi* = can I propitiate; *eSa mahaan manorathaH* = this, high,
+ambition; *me hR^idi pari vartate* = in my, heart, it is recurring.
+
+**अनुवादः**
+
+"Can I personally propitiate that supreme sage -- is my high ambition, and it is recurrent in my heart."
+So said Rama to Suteekshna. [4-11-33b, 34a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
@@ -1637,6 +1637,22 @@ _________________
 
 **पदच्छेदः**
 
+*35b, 36b. raaghava* = Raghava; *aham api* = I, even; *tvaam sa lakSmaNam saha siitayaa*
+= to you, with Lakshmana, with Seetha; *agastyam abhigacCha iti* = to Agastya, approach, thus;
+*etat eva* = that, only; *vaktu kaamaH* = to say, wished to.
+
+**अनुवादः**
+
+"Oh, Raghava, even I wished to say this to you, that you may approach Agastya along with Lakshmana and
+Seetha. [4-1-35b, 36a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *36b, 37a. diSTyaa tu* = providentially, but; *idaaniim asmin arthe* = now, in this, import
 / topic; *svayam eva maam braviiSi* = yourself, alone, to me, you are speaking; *Rama; *
 yatra mahaamuniH agastyaH* =* = where, Agastya, great sage is there; *ayam te aakhyaami*
@@ -1646,22 +1662,6 @@ yatra mahaamuniH agastyaH* =* = where, Agastya, great sage is there; *ayam te aa
 
 "But providentially you alone raised this topic with me, Rama, I will tell you where that great sage
 Agastya is. [4-11-36b, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*35b, 36b. raaghava* = Raghava; *aham api* = I, even; *tvaam sa lakSmaNam saha siitayaa*
-= to you, with Lakshmana, with Seetha; *agastyam abhigacCha iti* = to Agastya, approach, thus;
-*etat eva* = that, only; *vaktu kaamaH* = to say, wished to.
-
-**अनुवादः**
-
-"Oh, Raghava, even I wished to say this to you, that you may approach Agastya along with Lakshmana and
-Seetha. [4-1-35b, 36a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
@@ -1748,6 +1748,23 @@ of Agastya's brother on the southern side. [4-11-37b, c]
 
 **पदच्छेदः**
 
+*38. pippalii vana shobhite* = pippali = with trees [long pepper,] thickets, adorned with;
+*bahu puSpa phale* = with many, flowers, fruits; *ramye* = spectacular; *naanaa vihaga
+naadite* = with various, birds, reechoed; *sthalii praaya* = land, high [plateau]; *vanaat
+deshe* = in forest, place [that hermitage is there.]
+
+**अनुवादः**
+
+"That hermitage is there on a plateau in a spectacular place of that forest which is adorned with many
+flowers and fruits, thickets of long pepper, and reechoed with the callings of various birds. [4-11-38]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *39, 40a. tatra* = there are; *prasanna salila aashayaaH* = with tranquil, waters, receptacles;
 *hamsa kaaraNDava aakiirNaaH* = with swans, francolin partridges, teeming with; *cakravaaka
 upa shobhitaaH* = with ruddy gees, beautified with; *vividhaaH padminyaH* = diverse, lakes
@@ -1759,23 +1776,6 @@ upa shobhitaaH* = with ruddy gees, beautified with; *vividhaaH padminyaH* = dive
 "There are diverse lakes that are receptacles for tranquil waters, that are teeming with swans and partridges,
 beautified with ruddy geese, and Rama staying there for a night you may proceed in the next morning.
 [4-11-39, 40a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*38. pippalii vana shobhite* = pippali = with trees [long pepper,] thickets, adorned with;
-*bahu puSpa phale* = with many, flowers, fruits; *ramye* = spectacular; *naanaa vihaga
-naadite* = with various, birds, reechoed; *sthalii praaya* = land, high [plateau]; *vanaat
-deshe* = in forest, place [that hermitage is there.]
-
-**अनुवादः**
-
-"That hermitage is there on a plateau in a spectacular place of that forest which is adorned with many
-flowers and fruits, thickets of long pepper, and reechoed with the callings of various birds. [4-11-38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
@@ -2532,23 +2532,6 @@ demons, they say, used to be Bhraman-killers. [4-11-55]
 
 **पदच्छेदः**
 
-*57. tataH* = then; *meSa ruupiNam* = in ram's, form; *tam bhraataram* = that,
-brother [Vaataapi,] is; *sam skR^itam kR^itvaa* = perfecting, made to [cooked deliciously];
-*tataH shraaddha dR^iSTena karmaNaa* = then, according to obsequial rites, and deeds; *taan
-dvijaan bhojayaamaasa* = them, Brahman, he was feeding.
-
-**अनुवादः**
-
-Then Ilvala used to make his brother Vaataapi into a ram, perfect that ram's meat into deliciously cooked
-food, and used to feed Brahmans according to obsequial rites and deeds. [4-11-57]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *56. dhaarayan braahmaNam ruupam* = disguising, Bhraman's, semblance; *ilvalaH* = Ilvala;
 *sam skR^itam vadan* = sophisticatedly, speaking; *aamantrayati vipraan* = invite, Brahman;
 *sa shraaddham uddishya* = obsequial ceremony, purpose of; *nir ghR^iNaH* = pitiless ones.
@@ -2566,6 +2549,23 @@ demon Ilvala used to speak in chaste Sanskrit. This is one version. The other is
 But as could be seen all the raakshasa-s are Vedic pundits and thus there is no oddity in their speaking
 chaste Sanskrit. Hence their luring or sophisticated talk to entice Brahmans is taken valid. The following
 verse also has the same word, meaning refinement.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*57. tataH* = then; *meSa ruupiNam* = in ram's, form; *tam bhraataram* = that,
+brother [Vaataapi,] is; *sam skR^itam kR^itvaa* = perfecting, made to [cooked deliciously];
+*tataH shraaddha dR^iSTena karmaNaa* = then, according to obsequial rites, and deeds; *taan
+dvijaan bhojayaamaasa* = them, Brahman, he was feeding.
+
+**अनुवादः**
+
+Then Ilvala used to make his brother Vaataapi into a ram, perfect that ram's meat into deliciously cooked
+food, and used to feed Brahmans according to obsequial rites and deeds. [4-11-57]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
@@ -3411,6 +3411,24 @@ The name of this brother of Agastya is Sudarshana. But none calls him by that na
 
 **पदच्छेदः**
 
+*74. [avalokayan* = on observing]; *niivaaraan panasaan saalaan* = wild grain grass, Jack-fruit
+trees [Artocarpus integrifolia,] sala [Pentapetra arjuna,] vanjulaan tinishaan tathaa = Asoka [Janosia
+asoka,] lemon trees [Dalbergia Oujeinensis]; *ciri bilvaan* = saplings of bilva [Eagle marmelos];
+*madhuukaan ca* = Madhuuka [Bassia latifolia]; *bilvaan atha ca* = bilva trees, then,
+also; *tindukaan* = tinduka trees [Diospyros tomenfosa.]
+
+**अनुवादः**
+
+On observing the wild grass that grows on its own giving wild grain, Jack-fruit trees, sala trees, Ashoka
+trees, lemons trees, saplings of bilva trees and also madhuka and bilva trees he journeyed. [4-11-74]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *75, 76. raamaH* = Rama; *hasti hastaiH vi mR^iditaan* = by elephant's, trunk, verily,
 battered; *vaanaraiH upa shobhitaan* = with monkeys, well, adorned; *mattaiH shatashaH shakuni
 sanghaiH ca naaditaan* = lusty, hundreds of, with birds, folks, also, reverberated; *puSpitaan
@@ -3423,24 +3441,6 @@ the trees]; *dadarsha* = he saw.
 Rama has seen hundreds of flowered forest trees that are battered by the trunks of elephants, that are
 adorned with monkeys, reverberated by hundreds of lusty bird folks, and that are enriched by the flowered
 climbers whorled around them. [4-11-75, 76]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*74. [avalokayan* = on observing]; *niivaaraan panasaan saalaan* = wild grain grass, Jack-fruit
-trees [Artocarpus integrifolia,] sala [Pentapetra arjuna,] vanjulaan tinishaan tathaa = Asoka [Janosia
-asoka,] lemon trees [Dalbergia Oujeinensis]; *ciri bilvaan* = saplings of bilva [Eagle marmelos];
-*madhuukaan ca* = Madhuuka [Bassia latifolia]; *bilvaan atha ca* = bilva trees, then,
-also; *tindukaan* = tinduka trees [Diospyros tomenfosa.]
-
-**अनुवादः**
-
-On observing the wild grass that grows on its own giving wild grain, Jack-fruit trees, sala trees, Ashoka
-trees, lemons trees, saplings of bilva trees and also madhuka and bilva trees he journeyed. [4-11-74]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>
@@ -3681,23 +3681,6 @@ of the birds. [4-11-80]
 
 **पदच्छेदः**
 
-*82. yasya* = whose; *prabhaavaat* = by influence; *raakSasaiH iyam dakSiNaa dik*
-= by demons, this, southern, quarter; *traasaat dR^ishyate* = appallingly, is seen [behold];
-*na upa bhujyate* = not, enjoyed [even they fear to live here]; *idam tasya aashrama padam*
-= this one, his Agastya's, hermitage.
-
-**अनुवादः**
-
-"Under whose influence the demons behold this southern quarter appallingly, and they do not even venture
-to live here, such a sage Agastya's hermitage is this. [4-11-82]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *81. nigR^ihya tarasaa mR^ityum* = impeding, by might, death; *lokaanaam hita kaamyayaa*
 = for worlds, well-being, wishing; *dakSiNaa dik* = southern, extent; *kR^itaa yena sharaNyaa*
 = made, by whom, liveable; *puNya karmaNaa* = pious, deeds.
@@ -3710,6 +3693,23 @@ a liveable province by his pious deeds, his hermitage is this. [4-11-81]
 **टिप्पनी**
 
 There is some problem in copying. These stanzas of verse have already appeared above at 4-11-54.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*82. yasya* = whose; *prabhaavaat* = by influence; *raakSasaiH iyam dakSiNaa dik*
+= by demons, this, southern, quarter; *traasaat dR^ishyate* = appallingly, is seen [behold];
+*na upa bhujyate* = not, enjoyed [even they fear to live here]; *idam tasya aashrama padam*
+= this one, his Agastya's, hermitage.
+
+**अनुवादः**
+
+"Under whose influence the demons behold this southern quarter appallingly, and they do not even venture
+to live here, such a sage Agastya's hermitage is this. [4-11-82]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranyasans11.htm)
 </details>

@@ -483,6 +483,37 @@ _________________
 
 **पदच्छेदः**
 
+*4;5;6;7;8. maarutaatmajaH* = Hanuma; *didR^ikshamaaNaH* = wanting to see;
+*vaidehiim* = Seetha; *dadarsha* = saw; *viduurasthaa* = nearby; *raakshasiiH* = ogresses;
+*ghora darshanaaH* = with horrible appearance; *ekaakshiim* = (ogress) with one eye; *ekakarNaam
+cha* = and (another) with a single ear; *tathaa* = and also; *karNapraavaraNaam* = one with
+ears as covering body; *saN^ku karNaam* = with conch shell like ears; *mastakochchvaasa naasikaam*
+= one with fattened nose up to head; *tanu diirgha shirodharaam* = one with a lean and long neck; *dhvastakesiim*
+= one with disheveled hair; *tathaa* = and also; *akeshiim* = one without hair; *keshakambala
+dhaariNiim* = one with hair like a blanket; *lamba karNa lalaataam cha* = one with hanging stomach
+and breasts; *lamboshhThiim* = one with hanging face; *chubukoshhThiim* = one with lips at chin;
+*lambaasyaam* = one with hanging face; *lambajaanukaam* = with hanging knees; *hrasvaam*
+= one who is short; *diirghaam* = one who is tall; *tathaa* = and also; *kubjaam* = hunch
+backed one; *vikaTaam* = one who is distorted; *vaamanaam* = one is dwarf; *tathaa* = and
+also; *karaalaam* = one with high teeth; *bhugna vaktraam cha* = and one with crooked mouth; *
+piN^gaakshiim* = one with green eyes; *vikR^itaananaam* = one with a horrible face.
+
+**अनुवादः**
+
+Hanuma wanting to see Seetha saw nearby ogresses with horrible appearance - one with one eye; one
+with a single ear and also one with ears as covering; one with conch shell like ears; one with fattened nose up
+to head; one with lean and long neck; one with disheveled hair and also one without hair; one with blanket like
+hair; one with hanging stomach and breasts; one with hanging face; one with lips at chin; one with hanging face;
+one with hanging knees; one who is short; one who is tall and also hunch backed one; one who is distorted; a dwarf
+one and also one with high teeth and one with crooked mouth, one with green eyes and one with a horrible face.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 9;10;11;12;13;14;15;15; *17. kapi shhresThaH* = Hanuma; *dadrsha* = saw;
 *vikR^itaaH* = horrible ones; *piN^galaaaH* = dark complexioned ones; *krodhanaaH* = angry
 ones;kalaha priyaaH = those who like quarrels; *kaalaayasamahaa shuula kuuTa mudgara dhaariniiH* = ones
@@ -526,37 +557,6 @@ camels, donkeys, those with horrible appearance, ogresses carrying pikes and clu
 those who like quarrels, those with high teeth, with hair color like that of smoke, with horrible faces, always
 drinking liquor, always desiring meat and liquor, with body smeared by meat and blood, with meat and blood as
 food, whose appearance made hair to stand up, sitting around a great tree with huge trunk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*4;5;6;7;8. maarutaatmajaH* = Hanuma; *didR^ikshamaaNaH* = wanting to see;
-*vaidehiim* = Seetha; *dadarsha* = saw; *viduurasthaa* = nearby; *raakshasiiH* = ogresses;
-*ghora darshanaaH* = with horrible appearance; *ekaakshiim* = (ogress) with one eye; *ekakarNaam
-cha* = and (another) with a single ear; *tathaa* = and also; *karNapraavaraNaam* = one with
-ears as covering body; *saN^ku karNaam* = with conch shell like ears; *mastakochchvaasa naasikaam*
-= one with fattened nose up to head; *tanu diirgha shirodharaam* = one with a lean and long neck; *dhvastakesiim*
-= one with disheveled hair; *tathaa* = and also; *akeshiim* = one without hair; *keshakambala
-dhaariNiim* = one with hair like a blanket; *lamba karNa lalaataam cha* = one with hanging stomach
-and breasts; *lamboshhThiim* = one with hanging face; *chubukoshhThiim* = one with lips at chin;
-*lambaasyaam* = one with hanging face; *lambajaanukaam* = with hanging knees; *hrasvaam*
-= one who is short; *diirghaam* = one who is tall; *tathaa* = and also; *kubjaam* = hunch
-backed one; *vikaTaam* = one who is distorted; *vaamanaam* = one is dwarf; *tathaa* = and
-also; *karaalaam* = one with high teeth; *bhugna vaktraam cha* = and one with crooked mouth; *
-piN^gaakshiim* = one with green eyes; *vikR^itaananaam* = one with a horrible face.
-
-**अनुवादः**
-
-Hanuma wanting to see Seetha saw nearby ogresses with horrible appearance - one with one eye; one
-with a single ear and also one with ears as covering; one with conch shell like ears; one with fattened nose up
-to head; one with lean and long neck; one with disheveled hair and also one without hair; one with blanket like
-hair; one with hanging stomach and breasts; one with hanging face; one with lips at chin; one with hanging face;
-one with hanging knees; one who is short; one who is tall and also hunch backed one; one who is distorted; a dwarf
-one and also one with high teeth and one with crooked mouth, one with green eyes and one with a horrible face.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
@@ -613,15 +613,14 @@ _________________
 
 **पदच्छेदः**
 
-*19. nishhprabhaam* = lack lustre one; *shokasamtaptaam* = being tormented
-by grief; *malasamkulamuurdhajaam* = with hair covered by dirt; *kshhiNa puNyaam* = with merits
-exhausted; *taaraamiva* = like a star; *chyutaam* = fallen from heavens; *bhuumau nipatitaam*
-= that fell on ground.
+*18. hanumaan* = Hanuma; *lakshmiivaan* = the glorious one; *lakshayaamaasa*
+= saw; *taam deviim* = that Seetha; *raajaputriim* = the princess;janakaatmajaam = daughter of Janaka;
+*aninditaam* = unblemished one; *tasya adhastaat* = below that tree
 
 **अनुवादः**
 
-She was lack luster being tormented by grief, with hair covered by dirt, with merits exhausted,
-like star fallen from heavens onto ground.
+Hanuma the glorious one saw that Seetha, the princess, daughter of Janaka, unblemished one below
+that tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
@@ -635,14 +634,15 @@ like star fallen from heavens onto ground.
 
 **पदच्छेदः**
 
-*18. hanumaan* = Hanuma; *lakshmiivaan* = the glorious one; *lakshayaamaasa*
-= saw; *taam deviim* = that Seetha; *raajaputriim* = the princess;janakaatmajaam = daughter of Janaka;
-*aninditaam* = unblemished one; *tasya adhastaat* = below that tree
+*19. nishhprabhaam* = lack lustre one; *shokasamtaptaam* = being tormented
+by grief; *malasamkulamuurdhajaam* = with hair covered by dirt; *kshhiNa puNyaam* = with merits
+exhausted; *taaraamiva* = like a star; *chyutaam* = fallen from heavens; *bhuumau nipatitaam*
+= that fell on ground.
 
 **अनुवादः**
 
-Hanuma the glorious one saw that Seetha, the princess, daughter of Janaka, unblemished one below
-that tree.
+She was lack luster being tormented by grief, with hair covered by dirt, with merits exhausted,
+like star fallen from heavens onto ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
@@ -854,14 +854,14 @@ _________________
 
 **पदच्छेदः**
 
-*24. hanumman* = Hanuma; *dadarsha* = saw; *deviim* = Seetha; *tatra*
-= there; *parivR^itaam* = surrounded; *taabhiH* = by those ogresses; *sagrahaamiva rohiNiim*
-= like Rohini with planets; *lathaamiva* = like a creeper; *akusumaam* = without flowers.
+*23. siitaam* = (Hanuma saw)Seetha; *bhartR^ivashe yuktaam* = being suited
+to be with her husband; *raakshasiivashe* = in the custody of ogresses; *ashokavanikaa madhye* =
+in the middle of Ashoka garden;aaplutaam = being immersed; *shoka saagaraam* = in an ocean of grief.
 
 **अनुवादः**
 
-Hanuma saw Seetha there surrounded by those ogresses, like Rohini with planets, like a creeper
-without flowers.
+Hanuma saw Seetha being suited to be with her husband, in the custody of ogresses, in the middle
+of Ashoka garden being immersed in an ocean of grief
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
@@ -875,14 +875,14 @@ without flowers.
 
 **पदच्छेदः**
 
-*23. siitaam* = (Hanuma saw)Seetha; *bhartR^ivashe yuktaam* = being suited
-to be with her husband; *raakshasiivashe* = in the custody of ogresses; *ashokavanikaa madhye* =
-in the middle of Ashoka garden;aaplutaam = being immersed; *shoka saagaraam* = in an ocean of grief.
+*24. hanumman* = Hanuma; *dadarsha* = saw; *deviim* = Seetha; *tatra*
+= there; *parivR^itaam* = surrounded; *taabhiH* = by those ogresses; *sagrahaamiva rohiNiim*
+= like Rohini with planets; *lathaamiva* = like a creeper; *akusumaam* = without flowers.
 
 **अनुवादः**
 
-Hanuma saw Seetha being suited to be with her husband, in the custody of ogresses, in the middle
-of Ashoka garden being immersed in an ocean of grief
+Hanuma saw Seetha there surrounded by those ogresses, like Rohini with planets, like a creeper
+without flowers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
@@ -1027,15 +1027,18 @@ _________________
 
 **पदच्छेदः**
 
-*30. maarutiH* = The son of wind-god Hanuma;prekshya = on seeing; *taam maithiliim*
-= that Seetha; *kshamaam* = like the goddess Earth; *suvibhaktaaN^giim* = with well divided body
-parts; *vinaabharaNa shobhiniim* = shining even without ornaments; *lebhe* = obtained; *atulam
-praharshaam* = great joy.
+26; *27. hanumaan kapiH* = the monkey Hanuma;darasha = saw; *taam deviim seethaam*
+= that Seetha; *bhaaminiim* = with great beauty;asitalochanaam = with black eye;samvR^itaam = covered;
+*vastreNa* = by a cloth; *pariklishhTena* = which was creased; *malinena* = dirty; *mR^iga
+shaabaakshiim* = with eyes of a deer; *diinavadanaam* = with a pitiful face; *adiinaam* = not
+depressed; *bhartR^i tejasaa* = due to the brilliance of husband; *rakshitaam* = protected; *
+svena shiilena* = by her own character.
 
 **अनुवादः**
 
-Hanuma the son of wind god on seeing Seetha that Seetha like the goddess earth, with well divided
-body parts shining eve without ornaments, obtained great joy.
+The monkey Hanuma saw that Seetha with great beauty with black eyes, covered by a cloth which was
+creased and dirty, with eyes of a deer, with a pitiful face, not depressed due to the brilliance of her husband,
+protected by her own character.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
@@ -1073,18 +1076,15 @@ with young shoots, as though being burnt by sighs, like a bundle of grief, with 
 
 **पदच्छेदः**
 
-26; *27. hanumaan kapiH* = the monkey Hanuma;darasha = saw; *taam deviim seethaam*
-= that Seetha; *bhaaminiim* = with great beauty;asitalochanaam = with black eye;samvR^itaam = covered;
-*vastreNa* = by a cloth; *pariklishhTena* = which was creased; *malinena* = dirty; *mR^iga
-shaabaakshiim* = with eyes of a deer; *diinavadanaam* = with a pitiful face; *adiinaam* = not
-depressed; *bhartR^i tejasaa* = due to the brilliance of husband; *rakshitaam* = protected; *
-svena shiilena* = by her own character.
+*30. maarutiH* = The son of wind-god Hanuma;prekshya = on seeing; *taam maithiliim*
+= that Seetha; *kshamaam* = like the goddess Earth; *suvibhaktaaN^giim* = with well divided body
+parts; *vinaabharaNa shobhiniim* = shining even without ornaments; *lebhe* = obtained; *atulam
+praharshaam* = great joy.
 
 **अनुवादः**
 
-The monkey Hanuma saw that Seetha with great beauty with black eyes, covered by a cloth which was
-creased and dirty, with eyes of a deer, with a pitiful face, not depressed due to the brilliance of her husband,
-protected by her own character.
+Hanuma the son of wind god on seeing Seetha that Seetha like the goddess earth, with well divided
+body parts shining eve without ornaments, obtained great joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>
@@ -1158,22 +1158,6 @@ _________________
 
 **पदच्छेदः**
 
-*32. siita darshana samHR^isTaa* = Being joyful on seeing Seetha; *hanumaan*
-= Hanuma; *viiryavaan* = the mighty one; *namaskR^itvaa* = paid obeisance; *raamaaya* = to
-Sri Rama; *lakshmaNaaya cha* = and to Lakshmana;samvR^itaH abhavat = became covered (with leaves)
-
-**अनुवादः**
-
-Being joyful on seeing Seetha, Hanuma the mighty one paid obeisance to Sri Rama and to Lakshmana
-and became covered with leaves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *31. hanumaan* = Hanuma; *dR^ishTvaa* = on seeing; *taam* = her;tatra
 = there; *madirekshaNaam* = with intoxicating eyes ; *mumuche* = shed; *harshajaani ashruuNi*
 = tears of joy;namashchakre cha = and also paid obeisance; *raaghavam* = to Sri Rama.
@@ -1182,6 +1166,22 @@ and became covered with leaves.
 
 Hanuma on seeing Seetha there with intoxicating eyes shed tears of joy and also paid obeisance
 to Sri Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. siita darshana samHR^isTaa* = Being joyful on seeing Seetha; *hanumaan*
+= Hanuma; *viiryavaan* = the mighty one; *namaskR^itvaa* = paid obeisance; *raamaaya* = to
+Sri Rama; *lakshmaNaaya cha* = and to Lakshmana;samvR^itaH abhavat = became covered (with leaves)
+
+**अनुवादः**
+
+Being joyful on seeing Seetha, Hanuma the mighty one paid obeisance to Sri Rama and to Lakshmana
+and became covered with leaves.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga17/sundarasans17.htm)
 </details>

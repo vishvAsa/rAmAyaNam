@@ -410,24 +410,6 @@ infantry)."
 
 **पदच्छेदः**
 
-*9. daasharathou* = "when Rama; the son of Dasaratha; *shayaane*
-= is lying; *bhuumou* = on the ground; *siitayaa saha* = along with Sita;
-*katham* = how; *shakyaa* = is it possible; *mayaa* = to me; *nidraa* =
-the sleep; *jiivitam vaa* = or the enjoyment of life; *sukhaani vaa* = or the
-amenities of life?"
-
-**अनुवादः**
-
-"When Rama, the son of Dasaratha is lying on the ground with Sita, how is it
-possible for me to sleep or to enjoy the pleasures of life?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. tadaa* = then; *lakshhmaNaH* = Lakshmana; *uvaacha* =
 replied; *tam* = to Guha; *(as follows): anagha* = "Oh; *sinless Guha!
 rakshhyamaaNaH* = Being protected; *tvayaa* = by you; *dharmameva* = who keep
@@ -438,6 +420,24 @@ bhiitaaH* = not afraid; *atre* = in this land."
 
 Then, Lakshmana replied to Guha as follows: "Oh, sinless Guha! Being protected by
 you, who keep your duty alone in view, all of us are fearless in this land."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. daasharathou* = "when Rama; the son of Dasaratha; *shayaane*
+= is lying; *bhuumou* = on the ground; *siitayaa saha* = along with Sita;
+*katham* = how; *shakyaa* = is it possible; *mayaa* = to me; *nidraa* =
+the sleep; *jiivitam vaa* = or the enjoyment of life; *sukhaani vaa* = or the
+amenities of life?"
+
+**अनुवादः**
+
+"When Rama, the son of Dasaratha is lying on the ground with Sita, how is it
+possible for me to sleep or to enjoy the pleasures of life?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm)
 </details>

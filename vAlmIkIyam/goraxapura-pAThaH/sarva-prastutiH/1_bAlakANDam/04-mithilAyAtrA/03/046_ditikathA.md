@@ -1099,28 +1099,6 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 
 **पदच्छेदः**
 
-23. *aham* = I; *tat antaram labdhvaa* = that, chance,
- on gaining; *aahave shakrahantaaram* = [who can become] eliminator of Indra
- in battle; *saptadhaa abhidam* = fragmented - the foetus in seven ways
- [seven fragments] ; *devi* = oh lady;
- *me tat* = my, that - deed; *tvam kSantum arhasi*= apt of you to pardon
- .
-
-**अनुवादः**
-
-"Thereby I gained a chance to eliminate him who can eliminate Indra
- in a battle. Hence I fragmented your foetus into seven fragments, and
- it will be apt of you to pardon me for that act of mine." So said
- Indra to lady Diti. Thus, Sage Vishvamitra continued narration about
- City of Vishaala. [1-46-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *22. vajrasahitaH* = along with Thunderbolt - blood-wet weapon
  still in hand; *shakraH* = Indra; *praanjaliH* = humbly
  adjoining palms; *ditim abhyabhaaSata* = to Diti, spoke; *
@@ -1135,6 +1113,28 @@ Indra humbly folding his palms that are still handling his bloody Thunderbolt
  spoke to Diti, 'oh, lady, you have become impious when your braid touched
  your feet and when you have gone to sleep in midday, and you vow is
  thwarted.' [1-46-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+23. *aham* = I; *tat antaram labdhvaa* = that, chance,
+ on gaining; *aahave shakrahantaaram* = [who can become] eliminator of Indra
+ in battle; *saptadhaa abhidam* = fragmented - the foetus in seven ways
+ [seven fragments] ; *devi* = oh lady;
+ *me tat* = my, that - deed; *tvam kSantum arhasi*= apt of you to pardon
+ .
+
+**अनुवादः**
+
+"Thereby I gained a chance to eliminate him who can eliminate Indra
+ in a battle. Hence I fragmented your foetus into seven fragments, and
+ it will be apt of you to pardon me for that act of mine." So said
+ Indra to lady Diti. Thus, Sage Vishvamitra continued narration about
+ City of Vishaala. [1-46-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga46/balasans46.htm)
 </details>

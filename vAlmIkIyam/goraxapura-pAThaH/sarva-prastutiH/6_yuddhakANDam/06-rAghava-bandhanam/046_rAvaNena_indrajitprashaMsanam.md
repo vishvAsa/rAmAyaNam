@@ -1434,6 +1434,28 @@ with tears, looking helpless and whose eyes were agitated in grief.
 
 **पदच्छेदः**
 
+*31. sugriiva* = O; Sugreeva!; *alam* = enough;
+*traasena* = of your fear; *baaSpa vegaH* = (let) the rush of your tear;
+*nigR^ihyataam* = be restrained; *yuddhaani* = wars; *evam praayaaNi* = are
+like this; *vijayaH* = victory; *naasti* = is not; *naiSThikaH* = certain.
+
+**अनुवादः**
+
+"Have no fear, O Sugreeva! Stay this rush of tears. Wars are like this. Victory is
+not certain."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+वीरने! सामान्यवागि ऎल्ल युद्धगळ स्थिति हीगॆ आगुत्तदॆ, अवरल्लि विजय अनिश्चितवागिरुत्तदॆ. नम्म भाग्यशेषविद्दरॆ, इवरिब्बरू महात्मरु खण्डितवागि मूर्छॆयिन्द ऎच्चरगॊळ्ळुवरु. वानरराजने! नीनु तन्नन्नु मत्तु अनाथनाद नन्नन्नु समाधानगॊळिसु. सत्य, धर्मदल्लि अनुरागवुळ्ळवरिगॆ मृत्युभय इरुवुदिल्ल.॥31-33॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *32. viira* = O; Warrior!; *sabhaagya sheSataa yadi* = if a
 remnance of luck; *bhaviSyati* = is there; *asmaakam* = with us; *mahaatmanau*
 = the high-souled; *mahaabalau* = and the exceedingly strong; *etau* = these Rama and
@@ -1446,11 +1468,6 @@ consciousness.
 exceedingly strong Rama and Lakshmana will drive off this loss of consciousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-वीरने! सामान्यवागि ऎल्ल युद्धगळ स्थिति हीगॆ आगुत्तदॆ, अवरल्लि विजय अनिश्चितवागिरुत्तदॆ. नम्म भाग्यशेषविद्दरॆ, इवरिब्बरू महात्मरु खण्डितवागि मूर्छॆयिन्द ऎच्चरगॊळ्ळुवरु. वानरराजने! नीनु तन्नन्नु मत्तु अनाथनाद नन्नन्नु समाधानगॊळिसु. सत्य, धर्मदल्लि अनुरागवुळ्ळवरिगॆ मृत्युभय इरुवुदिल्ल.॥31-33॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1467,23 +1484,6 @@ righteousness.
 
 "O, Sugreeva! Be courageous and bring about courage in me, having no protector. For
 those who are devoted to truth and righteousness, there is no fear of death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*31. sugriiva* = O; Sugreeva!; *alam* = enough;
-*traasena* = of your fear; *baaSpa vegaH* = (let) the rush of your tear;
-*nigR^ihyataam* = be restrained; *yuddhaani* = wars; *evam praayaaNi* = are
-like this; *vijayaH* = victory; *naasti* = is not; *naiSThikaH* = certain.
-
-**अनुवादः**
-
-"Have no fear, O Sugreeva! Stay this rush of tears. Wars are like this. Victory is
-not certain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga46/yuddhasans46.htm)
 </details>

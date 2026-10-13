@@ -314,22 +314,6 @@ _________________
 
 **पदच्छेदः**
 
-*8. madhye* = in the middle; *taasaam* = of that group of women; *rakshasheshvaraH*
-= Ravana; *mahaabaahuH* = with great arms; *shushubhe* = shone; *vR^ishhabhaiva* = like a
-bull; *gavaam madhye* = in the middle of cows; *mahatighoshhThe* = in a big cow-pen.
-
-**अनुवादः**
-
-In the middle of that group of women, Ravana with great arms shone like a bull in the middle of
-cows in a big cow-pen.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *6;7. hariyuudhapaH* = the warrior among Vanaras; *dadarsha* = saw; *anN^ganaanaam
 sahasreNa* = a thousand of women; *bhuushhitena* = decorated; *vibhuushhaNaiH* = by jewellery;
 *ruupasallaapashiilena* = with a nature of talking about beauty; *yuktagiitaarthabhaashhiNaa* =
@@ -342,6 +326,22 @@ indulged in sleep after sexual dalliance.
 The warrior among Vanaras saw a thousand of women decorated by jewellery with a nature of talking
 about beauty, conversing about the correct meaning of songs being sung, behaving according to time and place,
 wont to speak appropriate words, indulged in sleep after sexual dalliance.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. madhye* = in the middle; *taasaam* = of that group of women; *rakshasheshvaraH*
+= Ravana; *mahaabaahuH* = with great arms; *shushubhe* = shone; *vR^ishhabhaiva* = like a
+bull; *gavaam madhye* = in the middle of cows; *mahatighoshhThe* = in a big cow-pen.
+
+**अनुवादः**
+
+In the middle of that group of women, Ravana with great arms shone like a bull in the middle of
+cows in a big cow-pen.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
@@ -695,14 +695,18 @@ _________________
 
 **पदच्छेदः**
 
-*18. paana bhuumiH* = That bar; *upalakshyate* = was seen; *pradiipteva*
-= as though radiant; *vinaa vahnim* = without fire; *shayanaasanaiH* = with couches and chairs;
-*sushlishhTaiH* = well arranged; *vinyastaiH* = (and) placed; *tatra tatra* = there and there.
+16; *17. tathaa* = In the same way; *bhuuH* = that floor; *shriyam pushhyati*
+= was obtaining glory; *adhikam* = greatly; *raagashhaaDabaiH* = with Ragas and Shadabas; *aamla
+lavaNottaM saiH* = seasoned with sour and salty sauces; *haaranuupurakeyuuraiH* = with necklaces; anklets
+and armlets; *mahaadhanaiH* = of great value; *apaviddhaiH* = thrown around; *vividhaiH phalaishcha*
+= with various fruits; *paanabhaajana vikshiptaiH* = left in drinking vessels; *kR^ita pushhpopa haaraa*
+= with flowers sprinkled.
 
 **अनुवादः**
 
-That bar was seen as though radiant without fire, with couches and chairs well arranged and placed
-there and there.
+In the same way that floor was obtaining glory greatly with Ragas and Shadabas seasoned with sour
+and salty sauces, with necklaces, anklets and armlets of great value thrown around, with various fruits left in
+drinking vessels, with flowers sprinkled.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
@@ -716,18 +720,14 @@ there and there.
 
 **पदच्छेदः**
 
-16; *17. tathaa* = In the same way; *bhuuH* = that floor; *shriyam pushhyati*
-= was obtaining glory; *adhikam* = greatly; *raagashhaaDabaiH* = with Ragas and Shadabas; *aamla
-lavaNottaM saiH* = seasoned with sour and salty sauces; *haaranuupurakeyuuraiH* = with necklaces; anklets
-and armlets; *mahaadhanaiH* = of great value; *apaviddhaiH* = thrown around; *vividhaiH phalaishcha*
-= with various fruits; *paanabhaajana vikshiptaiH* = left in drinking vessels; *kR^ita pushhpopa haaraa*
-= with flowers sprinkled.
+*18. paana bhuumiH* = That bar; *upalakshyate* = was seen; *pradiipteva*
+= as though radiant; *vinaa vahnim* = without fire; *shayanaasanaiH* = with couches and chairs;
+*sushlishhTaiH* = well arranged; *vinyastaiH* = (and) placed; *tatra tatra* = there and there.
 
 **अनुवादः**
 
-In the same way that floor was obtaining glory greatly with Ragas and Shadabas seasoned with sour
-and salty sauces, with necklaces, anklets and armlets of great value thrown around, with various fruits left in
-drinking vessels, with flowers sprinkled.
+That bar was seen as though radiant without fire, with couches and chairs well arranged and placed
+there and there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
@@ -865,13 +865,18 @@ _________________
 
 **पदच्छेदः**
 
-*23. kapiH* = Hanuma; *dadarsha ha* = saw indeed; *tadaa* = then;
-*bhuuri paana shreshhTham* = lot of best quality liquor; *kumbheshhu* = in pots; *raajateshhu*
-= of silver; *jaambuunadamayeshhu* = and of golden colour.
+*20. divyaaH* = excellent; *prasannaaH* = clear; *vividhaaH* = various
+(liquors); *suraaH* = liquor called Sura; *sharkaraa sava* = liquor made of sugar; *maadhviika*
+= (liquor) made of honey; *pushpaa sava* = liquor made of flowers; *phalaa savaaH* = and liquors
+made of fruits; *kR^ita suraaH api* = also artificially made liquors; *taiH taiH* = those and those;
+*mR^ishhTaaH* = were cultured; *pR^ithak pR^ithak* = separate separately; *vividhaiH vaasachuurNaiH*
+= with various fragrant powders
 
 **अनुवादः**
 
-Hanuma saw indeed then lot of best quality liquor in pots of silver and of golden colour.
+Excellent and clear various liquors, a liquor called Sura, liquor made of sugar, liquor made of
+honey, liquor made of flowers and liquors made of fruits also, artificially made liquors - those and those were
+cultured separately with various fragrant powders.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
@@ -903,18 +908,13 @@ hue and also made of crystal, filled with other small vessels of golden colour.
 
 **पदच्छेदः**
 
-*20. divyaaH* = excellent; *prasannaaH* = clear; *vividhaaH* = various
-(liquors); *suraaH* = liquor called Sura; *sharkaraa sava* = liquor made of sugar; *maadhviika*
-= (liquor) made of honey; *pushpaa sava* = liquor made of flowers; *phalaa savaaH* = and liquors
-made of fruits; *kR^ita suraaH api* = also artificially made liquors; *taiH taiH* = those and those;
-*mR^ishhTaaH* = were cultured; *pR^ithak pR^ithak* = separate separately; *vividhaiH vaasachuurNaiH*
-= with various fragrant powders
+*23. kapiH* = Hanuma; *dadarsha ha* = saw indeed; *tadaa* = then;
+*bhuuri paana shreshhTham* = lot of best quality liquor; *kumbheshhu* = in pots; *raajateshhu*
+= of silver; *jaambuunadamayeshhu* = and of golden colour.
 
 **अनुवादः**
 
-Excellent and clear various liquors, a liquor called Sura, liquor made of sugar, liquor made of
-honey, liquor made of flowers and liquors made of fruits also, artificially made liquors - those and those were
-cultured separately with various fragrant powders.
+Hanuma saw indeed then lot of best quality liquor in pots of silver and of golden colour.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
@@ -986,6 +986,22 @@ _________________
 
 **पदच्छेदः**
 
+*24. saH mahaa kapiH* = That great Hanuma; *apashyat* = saw; *bhaajanaani*
+= vessels; *puurNaani* = full; *shiidhoH* = of liquor; *shaatakumbhaani* = of golden colour;
+*maNimayaani cha* = embedded with gem stones; *raajataani cha* = and also of silver hue.
+
+**अनुवादः**
+
+That great Hanuma saw vessels full of liquor of golden colour, embedded with gem stones and also
+of silver hue.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *25. saH* = That Hanuma; *dadarsha ha* = saw indeed; *kvachit* = at
 some places; *paanaani* = drinks; *ardhaava sheshhaaNi* = half filled; *kvachit* = (and)
 some places; *sarvashaH piitaani* = completely drunk; *kvachit* = (and) some places; *naiva prapiitaani*
@@ -995,22 +1011,6 @@ some places; *sarvashaH piitaani* = completely drunk; *kvachit* = (and) some pla
 
 That Hanuma saw indeed at some places drinks half filled and at some places completely drunk and
 some places not at all drunk.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*24. saH mahaa kapiH* = That great Hanuma; *apashyat* = saw; *bhaajanaani*
-= vessels; *puurNaani* = full; *shiidhoH* = of liquor; *shaatakumbhaani* = of golden colour;
-*maNimayaani cha* = embedded with gem stones; *raajataani cha* = and also of silver hue.
-
-**अनुवादः**
-
-That great Hanuma saw vessels full of liquor of golden colour, embedded with gem stones and also
-of silver hue.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
@@ -1177,22 +1177,6 @@ _________________
 
 **पदच्छेदः**
 
-*29. kaashchit abalaaH* = Some women; *nidraabalaparaajitaaH* = conquered by
-the power of sleep; *aahR^itya* = pulled; *anyasyaaH svapantyaaH vastram* = other sleeping women's
-clothing; *suptaaH* = and slept; *paridhaaya* = covering (themselves).
-
-**अनुवादः**
-
-Some women conquered by the power of sleep pulled other sleeping women's clothing and slept covering
-themselves.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *26. vichachaara ha* = (Hanuma) paced about; *pashyan* = seeing; *kvachit*
 = (at) some places; *vividhaan bhakshaaMshcha* = various eatables; *kvachit* = (and) some places;
 *paanaani* = drinks; *bhaagashaH* = separately; *kvachit* = some places; *annavasheshhaaNi*
@@ -1202,6 +1186,22 @@ themselves.
 
 Hanuma paced about seeing at some places various eatables and at some places drinks separately,
 and at some places remnants of cooked rice.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. kaashchit abalaaH* = Some women; *nidraabalaparaajitaaH* = conquered by
+the power of sleep; *aahR^itya* = pulled; *anyasyaaH svapantyaaH vastram* = other sleeping women's
+clothing; *suptaaH* = and slept; *paridhaaya* = covering (themselves).
+
+**अनुवादः**
+
+Some women conquered by the power of sleep pulled other sleeping women's clothing and slept covering
+themselves.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
@@ -1544,21 +1544,6 @@ _________________
 
 **पदच्छेदः**
 
-*37. mama* = my; *idam* = this; *niriikshaNam* = seeing; *prasuptasya*
-= sleeping; *paradaaraavarodhasya* = house of other people's wives; *karishhyati* = will do; *
-atyartham dharmalopam* = a great deficit to dharma.
-
-**अनुवादः**
-
-"My seeing sleeping house of other people's wives will do a great deficit to dharma."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *32. tadaa* = Then; *surabhiH gandhaH* = the blossoming fragrance; *snaanaanaam
 chandanaanaam cha* = from the baths and sandal paste; *dhuupaanaam chaiva* = and from agallocum fumes;
 *pravavau* = blew; *muurchitaH* = spreading (all around); *pushhpake vimaane* = in that Pushpaka
@@ -1568,6 +1553,21 @@ plane.
 
 Then the blossoming fragrance from the baths and sandal paste and from agallocum fumes blew spreading
 all around in that Pushpaka plane.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. mama* = my; *idam* = this; *niriikshaNam* = seeing; *prasuptasya*
+= sleeping; *paradaaraavarodhasya* = house of other people's wives; *karishhyati* = will do; *
+atyartham dharmalopam* = a great deficit to dharma.
+
+**अनुवादः**
+
+"My seeing sleeping house of other people's wives will do a great deficit to dharma."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>
@@ -1641,6 +1641,22 @@ _________________
 
 **पदच्छेदः**
 
+*38. me* = my; *dR^ishhTaH* = sight; *na hi* = is indeed not; *paradaaraaNaam
+vishhayavartinii* = in the matter of others wives; *atra* = here; *ayam* = these paradaaraparigrahaH
+= other's wives; *dR^ishhTashcha* = have been seen ; *mayaa* = by me;
+
+**अनुवादः**
+
+"My sight is indeed not in the matter of other wives here. These other's wives have been seen by
+me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *39. tasya* = to that Hanuma; *manasvinaH* = with an excellent mind; *nishchitaikaantachittasya*
 = with a fixed and concentrated mind; *pradurabhuut* = was born; *anyaa* = another; *chintaa*
 = thought; *punaH* = again ; *kaaryanishchayadarshinii* = showing a fixed resolve in the task at
@@ -1650,22 +1666,6 @@ hand.
 
 To that Hanuma with an excellent mind, with a fixed and concentrated mind, was born another thought
 again, showing a fixed resolve in the task at hand.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*38. me* = my; *dR^ishhTaH* = sight; *na hi* = is indeed not; *paradaaraaNaam
-vishhayavartinii* = in the matter of others wives; *atra* = here; *ayam* = these paradaaraparigrahaH
-= other's wives; *dR^ishhTashcha* = have been seen ; *mayaa* = by me;
-
-**अनुवादः**
-
-"My sight is indeed not in the matter of other wives here. These other's wives have been seen by
-me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga11/sundarasans11.htm)
 </details>

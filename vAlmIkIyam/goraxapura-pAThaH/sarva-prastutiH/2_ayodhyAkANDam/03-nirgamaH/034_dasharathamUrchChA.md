@@ -54,23 +54,6 @@ _________________
 
 **पदच्छेदः**
 
-*2. saH suutaH* = that charioteer; *santaaparkalushhendriyaH* =
-with his senses disturbed by grief; *raama preshhitaH* = having been sent by Rama;
-*kshhipram* = quickly; *pravishya* = entered; *dadarsha ha* = and saw;
-*nR^ipatim* = the king; *niHshvasantam* = heaving sighs.
-
-**अनुवादः**
-
-Quickly entering inside, when sent by Rama, the charioteer saw the king having
-sighs, his senses disturbed by grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1. tataH* = thereafter; *raamaH* = Rama;
 *kamalapatraakshhaH* = having eyes resembling lotus leaves; *shyaamaH* = the
 dark-brown; coloured man; *mahaan* = the mighty man; *nirupamaH* = beyond compare;
@@ -81,6 +64,23 @@ dark-brown; coloured man; *mahaan* = the mighty man; *nirupamaH* = beyond compar
 
 Thereafter, the lotus-eyes Rama, who was dark-brown in complexion and great beyond
 compare, spoke thus to the charioteer, "Tell about me to my father."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. saH suutaH* = that charioteer; *santaaparkalushhendriyaH* =
+with his senses disturbed by grief; *raama preshhitaH* = having been sent by Rama;
+*kshhipram* = quickly; *pravishya* = entered; *dadarsha ha* = and saw;
+*nR^ipatim* = the king; *niHshvasantam* = heaving sighs.
+
+**अनुवादः**
+
+Quickly entering inside, when sent by Rama, the charioteer saw the king having
+sighs, his senses disturbed by grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
@@ -123,23 +123,6 @@ _________________
 
 **पदच्छेदः**
 
-*4. suutaH* = the charioteer; *mahaapraaJNaH* = a great
-intellectual; *aalokyatu* = saw; *anushochantam* = the repenting; *varamaakula
-chetasam* = mind greatly agitated; *aasadat* = approached; *praaN^jalaiH* = with
-joined pams.
-
-**अनुवादः**
-
-The charioteer, a great intellectual, saw Dasaratha repenting with his mind greatly
-agitated and approached him with joined palms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *3. apashyat* = (he) saw;; *jagatiipatim* = the king;
 *aadityam iva* = resembling a sun; *uparaktam* = eclipsed; *analam iva* = like
 fire; *bhasmachchhannam* = covered by ash; *tataakam iva* = as a lake;
@@ -149,6 +132,23 @@ fire; *bhasmachchhannam* = covered by ash; *tataakam iva* = as a lake;
 
 He saw the king resembling an eclipsed sun, like fire covered by ash, as a lake
 without water.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. suutaH* = the charioteer; *mahaapraaJNaH* = a great
+intellectual; *aalokyatu* = saw; *anushochantam* = the repenting; *varamaakula
+chetasam* = mind greatly agitated; *aasadat* = approached; *praaN^jalaiH* = with
+joined pams.
+
+**अनुवादः**
+
+The charioteer, a great intellectual, saw Dasaratha repenting with his mind greatly
+agitated and approached him with joined palms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
@@ -243,6 +243,28 @@ slow and sweet voice, overcome with fear.
 
 **पदच्छेदः**
 
+*6. te sutaH* = your son; *purushhavyaaghraH* = tiger among men;
+*saH ayam* = as such; *dattvaa* = having given away; *sarvam* = all;
+*dhanam* = wealth; *braahmaNebhyaH* = to brahmanas; *upajiivinaamchaiva* = and
+dependents; *tishhTati* = is standing; *dvaari* = at the gate.
+
+**अनुवादः**
+
+"Your son, the tiger among men, having given away all his wealth to brahmanas and
+dependents, is waiting at the gate."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+पृथिवीपते! सत्यपराक्रमि, पुरुषसिंह निम्म पुत्र श्रीरामनु ब्राह्मणरिगॆ मत्तु आश्रितसेवकरिगॆ तन्न ऎल्ल धनवन्नु कॊट्टु, इल्लिगॆ बन्दु द्वारदल्लि निन्तिरुवनु. निमगॆ मङ्गळवागलि. अवनु तन्न ऎल्ल सुहृदरन्नु भॆट्टियागि, अवरिन्द बीळ्कॊण्डु ईग निम्मन्नु दर्शिसलु बयसुत्तिरुवनु. निम्माज्ञॆ आदरॆ इल्लिगॆ बन्दु निम्मन्नु दर्शिसुवनु. महाराज! ईग अवनु विशालवनक्कॆ होगुवनु, आद्दरिन्द किरण गळिन्द कूडिद सूर्यनन्तॆ समस्त राजोचित गुणगळिन्द सम्पन्ननाद ई रामनन्नु नीवु मनःपूर्त नोडिरि.॥6-8॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *7. bhadram* = auspiciousness; *te* = to you! saH raamaH = (let)
 that Rama; *satya paraakramaH* = who is truly brave; *pashyatu* = see; *tvaa*
 = you; *aapR^ichchhya* = after bidding farewell; *sarvam suhR^idaH* = to all friends;
@@ -254,11 +276,6 @@ that Rama; *satya paraakramaH* = who is truly brave; *pashyatu* = see; *tvaa*
 After bidding farewell to all friends, he wants to see you now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-पृथिवीपते! सत्यपराक्रमि, पुरुषसिंह निम्म पुत्र श्रीरामनु ब्राह्मणरिगॆ मत्तु आश्रितसेवकरिगॆ तन्न ऎल्ल धनवन्नु कॊट्टु, इल्लिगॆ बन्दु द्वारदल्लि निन्तिरुवनु. निमगॆ मङ्गळवागलि. अवनु तन्न ऎल्ल सुहृदरन्नु भॆट्टियागि, अवरिन्द बीळ्कॊण्डु ईग निम्मन्नु दर्शिसलु बयसुत्तिरुवनु. निम्माज्ञॆ आदरॆ इल्लिगॆ बन्दु निम्मन्नु दर्शिसुवनु. महाराज! ईग अवनु विशालवनक्कॆ होगुवनु, आद्दरिन्द किरण गळिन्द कूडिद सूर्यनन्तॆ समस्त राजोचित गुणगळिन्द सम्पन्ननाद ई रामनन्नु नीवु मनःपूर्त नोडिरि.॥6-8॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -274,23 +291,6 @@ out; *mahaaraNyam* = to a great forest; *pashya* = see; *tam* = that Rama;
 
 "Oh, king! Rama is setting out to a great forest. See him who is resembling a sun
 with rays of light, displaying royal qualities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*6. te sutaH* = your son; *purushhavyaaghraH* = tiger among men;
-*saH ayam* = as such; *dattvaa* = having given away; *sarvam* = all;
-*dhanam* = wealth; *braahmaNebhyaH* = to brahmanas; *upajiivinaamchaiva* = and
-dependents; *tishhTati* = is standing; *dvaari* = at the gate.
-
-**अनुवादः**
-
-"Your son, the tiger among men, having given away all his wealth to brahmanas and
-dependents, is waiting at the gate."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
@@ -1025,6 +1025,24 @@ towards me, who am about to leave for Dandaka forest."
 
 **पदच्छेदः**
 
+*23. anujaaniihi* = permit; *lakshhmaNamcha* = Lakshmana also;
+*siitaacha* = Seetha too; *anveti* = is accompanying; *maam* = me;
+*vanam* = to the forest; *vaaryamaaNau* = even if prevented; *bahubhiH* = by
+many; *tathyaiH* = true; *kaaranaiH* = reasons; *nachaichchhataH* = these two
+are not agreeing.
+
+**अनुवादः**
+
+"Permit Lakshmana also and Seetha too who is accompanying me to the forest. Even if
+prevented(by me0 on many true reasons, these two are not agreeing to stay behind"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *24. utsR^ijya* = giving up; *shokam* = grief; *maanada*
 = Oh; *the bestower of honour! anujaaniihi* = grant leave; *sarvaan* = to all;
 *naH* = of us; *lakshhmaNam* = Lakshmana; *maameha* = myself;
@@ -1036,24 +1054,6 @@ Brahma.
 "Giving up grief, Oh the bestower of honour, grant leave to all of us, Lakshmana
 myself and Seetha as Brahma(the lord of creation) did to his sons(sanaka and his three brothers who
 intended to go to forest for practising austerities)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*23. anujaaniihi* = permit; *lakshhmaNamcha* = Lakshmana also;
-*siitaacha* = Seetha too; *anveti* = is accompanying; *maam* = me;
-*vanam* = to the forest; *vaaryamaaNau* = even if prevented; *bahubhiH* = by
-many; *tathyaiH* = true; *kaaranaiH* = reasons; *nachaichchhataH* = these two
-are not agreeing.
-
-**अनुवादः**
-
-"Permit Lakshmana also and Seetha too who is accompanying me to the forest. Even if
-prevented(by me0 on many true reasons, these two are not agreeing to stay behind"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
@@ -1452,23 +1452,6 @@ _________________
 
 **पदच्छेदः**
 
-*33. putra* = Oh; *son! adya* = today; *idaaniim* = now;
-*rajaniim* = night; *maa gachchha* = do not go; *sarvathaa* = by all means;
-*ekaaha darshaenaapi* = even by seeing for one day; *aham* = I;
-*charaamitaavat* = may live; *saadhu* = happily.
-
-**अनुवादः**
-
-"Oh, son! Do not leave in any case today, now at night time. Even by seeing you for
-one day, I may live happily."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *32. taata* = Oh; *darling! raghunandana* = Oh; Rama; *the
 seion of Raghu! satyaatmanaH* = your mind being given to righteousness; *tava* = your;
 *buddhiH* = decision; *na shakya hi* = cannot be; *vinivartayitum* =
@@ -1478,6 +1461,23 @@ reversed.
 
 "Oh, darling, the seion of Raghu! Truthful as you are by nature and your mind being
 given to righteousness, your decision cannot be reversed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. putra* = Oh; *son! adya* = today; *idaaniim* = now;
+*rajaniim* = night; *maa gachchha* = do not go; *sarvathaa* = by all means;
+*ekaaha darshaenaapi* = even by seeing for one day; *aham* = I;
+*charaamitaavat* = may live; *saadhu* = happily.
+
+**अनुवादः**
+
+"Oh, son! Do not leave in any case today, now at night time. Even by seeing you for
+one day, I may live happily."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>
@@ -1622,23 +1622,6 @@ you are going to the forest a solitary place, leaving beloved ones."
 
 **पदच्छेदः**
 
-*37. athiprachoditaH* = incited by; *anayaa* = this;
-*kaikeyyaa* = Kaikeyi; *vR^ittasaadinyaa* = who has destroyed established customs;
-*tvam* = you; *ichchhasi* = wish; *mistartum* = to redeem; *me* = my;
-*yaavaNchanaa* = which deceit; *taam* = that; *labdhaa* = was derived.
-
-**अनुवादः**
-
-Incited by Kaikeyi who has destroyed established customs, you wish to redeem my
-deceit, derived by me from her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *36. putra* = Oh; son; *raaghava* = Rama! etat = this;
 *nacha* = is not; *priyam* = agreeable; *me* = to me; *shape* = I
 swear; *satyena* = by my faith; *asmi* = I was; *chhalitaH* = cheated;
@@ -1649,6 +1632,23 @@ swear; *satyena* = by my faith; *asmi* = I was; *chhalitaH* = cheated;
 
 "Oh Rama my son! Your exile is not agreeable to me. I was cheated by Kaikeyi who had
 concealed intentions and resembled fire with ashes."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. athiprachoditaH* = incited by; *anayaa* = this;
+*kaikeyyaa* = Kaikeyi; *vR^ittasaadinyaa* = who has destroyed established customs;
+*tvam* = you; *ichchhasi* = wish; *mistartum* = to redeem; *me* = my;
+*yaavaNchanaa* = which deceit; *taam* = that; *labdhaa* = was derived.
+
+**अनुवादः**
+
+Incited by Kaikeyi who has destroyed established customs, you wish to redeem my
+deceit, derived by me from her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga34/ayodhyasans34.htm)
 </details>

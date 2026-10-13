@@ -52,6 +52,23 @@ _________________
 
 **पदच्छेदः**
 
+*1. tataH* = then; *nR^ipateH* = the king's; *charaaH*
+ = spies; *pratyavedan* = informed (Ravana); *tam raaghavam* = that Rama;
+ *akSobhya balam* = with his imperturbable army; *niviSTam* = was stationed;
+ *suvele shaile* = at Mount Suvela; *laN^kaayaam* = in Lanka.
+
+**अनुवादः**
+
+The spies of king Ravana informed him that Rama with his imperturbable army
+ was encamped at Mount Suvela in Lanka.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *2. shrutvaa* = Hearing; *chaaraaNaam* = throught; spies;
  *raamam* = that Rama; *mahaabalam* = with his mighty army; *praaptam*
  = had arrived; *raavaNaH* = Ravana; *jaatodvegaH* = was agitated; *kimchit*
@@ -62,23 +79,6 @@ _________________
 
 Hearing through his spies that Rama with his mighty army had arrived to Lanka,
  Ravana was a little agitated and spoke to his counsellors as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*1. tataH* = then; *nR^ipateH* = the king's; *charaaH*
- = spies; *pratyavedan* = informed (Ravana); *tam raaghavam* = that Rama;
- *akSobhya balam* = with his imperturbable army; *niviSTam* = was stationed;
- *suvele shaile* = at Mount Suvela; *laN^kaayaam* = in Lanka.
-
-**अनुवादः**
-
-The spies of king Ravana informed him that Rama with his imperturbable army
- was encamped at Mount Suvela in Lanka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
@@ -648,6 +648,23 @@ _________________
 
 **पदच्छेदः**
 
+*15. siite* = O Seetha!; *te muulam* = your root; *
+ chhinnam* = has been cut off; *sarvathaa* = in all ways; *mayaa* = be
+ me; *darpashha* = bhavishhyasi = you will become; *mama* = my; *bhaaryaa*
+ = wife; *aatmaanaH* = by your; *vyasanana* = evil predicament.
+
+**अनुवादः**
+
+"O, Seetha! Your root has been cut off in all ways by me and your pride has
+ been slain. By your present evil predicament, you will become my wife."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *16. muuDhe* = O; Foolish one!; *visR^ija* = give up
  etaam = this; *matim* = resolution; *kim kariSyasi* = what will you do;
  *mR^itena* = with one dead?; *bhadre* = O; beautiful one!; *Bhave*
@@ -658,23 +675,6 @@ _________________
 
 "O, Foolish one! Give up this resolution. What will you do with one dead.
  O, beautiful one! Become the Chief Queen over all my consorts."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*15. siite* = O Seetha!; *te muulam* = your root; *
- chhinnam* = has been cut off; *sarvathaa* = in all ways; *mayaa* = be
- me; *darpashha* = bhavishhyasi = you will become; *mama* = my; *bhaaryaa*
- = wife; *aatmaanaH* = by your; *vyasanana* = evil predicament.
-
-**अनुवादः**
-
-"O, Seetha! Your root has been cut off in all ways by me and your pride has
- been slain. By your present evil predicament, you will become my wife."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>
@@ -1682,23 +1682,6 @@ _________________
 
 **पदच्छेदः**
 
-*40. tadaa* = then; gR^iya; holding; *tat shiraH* = that
- head; *sa sharaasanam* = along with a bow; *vidyujjihvaH* = Vidyujjihva;
- *kR^itva* = making a respectful salute; *shirasaa* = with his head bent low;
- *sthitaH* = stood; *agrataH* = in front; *raavaNasya* = of Ravana.
-
-**अनुवादः**
-
-Holding that head along with a bow, Vidyujjihva making a respectful salute
- with his head bent low, stood in front of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *39. samaanaya* = bring; *vidyujjihvam* = Vidyujjihva;
  *raakshhasam* = the demons; *kruurakarmaaNam* = of the cruel deed; *yena*
  = by whom; *tat* = that; *raaghava shiraH* = Raghava's head; *aahR^itam*
@@ -1708,6 +1691,23 @@ Holding that head along with a bow, Vidyujjihva making a respectful salute
 
 "Bring Vidyujjihva, the demon of the cruel deed, by whom himself Raghava's
  head was brought back from the battle-field."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*40. tadaa* = then; gR^iya; holding; *tat shiraH* = that
+ head; *sa sharaasanam* = along with a bow; *vidyujjihvaH* = Vidyujjihva;
+ *kR^itva* = making a respectful salute; *shirasaa* = with his head bent low;
+ *sthitaH* = stood; *agrataH* = in front; *raavaNasya* = of Ravana.
+
+**अनुवादः**
+
+Holding that head along with a bow, Vidyujjihva making a respectful salute
+ with his head bent low, stood in front of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga31/yuddhasans31.htm)
 </details>

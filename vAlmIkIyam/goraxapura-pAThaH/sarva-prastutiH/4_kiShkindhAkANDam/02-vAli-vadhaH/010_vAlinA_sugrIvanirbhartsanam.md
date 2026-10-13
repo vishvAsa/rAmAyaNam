@@ -1267,23 +1267,6 @@ _________________
 
 **पदच्छेदः**
 
-*28. bhaaryaa haraNa duHkhitaH* = wife, by stealing, I who am saddened;
-*kaaraNa antare* = by another reason; *vaalinaH duraadharSham* = by Vali,
-impenetrable one; *giri varam* = mountain, safest; *Rishyamuukam* = Mt. Rishyamuka;
-*praviSTaH asmi* = entered, I have;
-
-**अनुवादः**
-
-"I who am saddened by stealing my wife have entered this safest mountain Rishyamuka,
-which is impenetrable for Vali by another reason. [4-10-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 27. Raaghava; *tena aham* = by him, I am; *apaviddhaH ca* =
 thrown away, also; *hR^ita daaraH ca* = stolen, wife, also; *tat bhayaat ca* = by
 his, fear, alone; *sa vana arNavaa* = withal, forests, oceans sarvaan = all over the;
@@ -1293,6 +1276,23 @@ his, fear, alone; *sa vana arNavaa* = withal, forests, oceans sarvaan = all over
 
 "Thus he threw me away and even stole my wife, oh, Rama, and owing to his fear alone
 I roamed all over the earth with its forests and oceans. [4-10-27]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*28. bhaaryaa haraNa duHkhitaH* = wife, by stealing, I who am saddened;
+*kaaraNa antare* = by another reason; *vaalinaH duraadharSham* = by Vali,
+impenetrable one; *giri varam* = mountain, safest; *Rishyamuukam* = Mt. Rishyamuka;
+*praviSTaH asmi* = entered, I have;
+
+**अनुवादः**
+
+"I who am saddened by stealing my wife have entered this safest mountain Rishyamuka,
+which is impenetrable for Vali by another reason. [4-10-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm)
 </details>

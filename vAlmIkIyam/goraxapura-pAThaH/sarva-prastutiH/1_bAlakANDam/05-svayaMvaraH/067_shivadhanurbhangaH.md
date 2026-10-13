@@ -714,6 +714,27 @@ _________________
 **पदच्छेदः**
 
 *
+ 15. raajaa muniH ca*
+ = king, saint, also; *
+ baaDham*
+ = all
+ right; *iti eva* = thus, only; *tam samabhaaSata* = to him - to Rama, equally [in
+ chorus] said; *saH muneH vacanaat* = he Rama, upon the word, of sage; *dhanuH madhye
+ liilayaa jagraaha* = playfully grabbed bow, at its middle [grasping at middle handgrip of bow] .
+
+**अनुवादः**
+
+"All Right!" said the saint and king to Rama in chorus, and Rama upon the word of
+ the sage grasping it at the middle handgrip playfully grabbed the bow. [1-67-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
  16. dharmaatmaa saH raghunandanaH*
  = virtue souled one
  [right-minded,] he, that Raghu's legatee - Rama; *bahuunaam nR^isahasraaNaam pashyataam*
@@ -746,27 +767,6 @@ A bow has a definite height and it is a measure of length, from the ages even
  it listened to him and bent as he wished. Other way round, Rama is an ambidextrous archer and
  furthered is his skill by his possession of some divine missiles as given by Vishvamitra. Hence,
  his dexterity is now multiplied and he can handle any divine or human bow 'effortlessly...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*
- 15. raajaa muniH ca*
- = king, saint, also; *
- baaDham*
- = all
- right; *iti eva* = thus, only; *tam samabhaaSata* = to him - to Rama, equally [in
- chorus] said; *saH muneH vacanaat* = he Rama, upon the word, of sage; *dhanuH madhye
- liilayaa jagraaha* = playfully grabbed bow, at its middle [grasping at middle handgrip of bow] .
-
-**अनुवादः**
-
-"All Right!" said the saint and king to Rama in chorus, and Rama upon the word of
- the sage grasping it at the middle handgrip playfully grabbed the bow. [1-67-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>
@@ -1235,27 +1235,6 @@ Oh, Kaushika, my commitment that she is the bounty of bravery has also come
 **पदच्छेदः**
 
 *
- 25. viiryashuklaayaaH*
- = she who is bravery's bounty; *
- pradaanam* = sincere, endowment of such a girl in marriage; *sarvashaH kathayantu* = will narrate in
- detail, [they the ministers] ; *prashritaiH vaakyaiH* = by observant,
- sentences [submissions]; *raajaanam* = to king Dasharatha; *mama puram aanayantu* =
- they will lead him in to my city.
-
-**अनुवादः**
-
-With their observant submissions those ministers will narrate in detail about the
- sincere endowment of Seetha as bravery's bounty to Rama, and they will lead king Dasharatha into
- my city that observantly... [1-67-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*
  24. brahman*
  = oh Brahman; *
  kaushika*
@@ -1277,6 +1256,27 @@ Annex: 'This boy appears to be straight from the shoulder type, and he may now
  my hand, but I have never said that I will marry your daughter without the consent of my
  father... and I am supposed to marry whomever my father ties down my neck...' knowing him to be
  such, I want to send proposals to Dasharatha at Ayodhya, that too if you say yes...'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 25. viiryashuklaayaaH*
+ = she who is bravery's bounty; *
+ pradaanam* = sincere, endowment of such a girl in marriage; *sarvashaH kathayantu* = will narrate in
+ detail, [they the ministers] ; *prashritaiH vaakyaiH* = by observant,
+ sentences [submissions]; *raajaanam* = to king Dasharatha; *mama puram aanayantu* =
+ they will lead him in to my city.
+
+**अनुवादः**
+
+With their observant submissions those ministers will narrate in detail about the
+ sincere endowment of Seetha as bravery's bounty to Rama, and they will lead king Dasharatha into
+ my city that observantly... [1-67-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm)
 </details>

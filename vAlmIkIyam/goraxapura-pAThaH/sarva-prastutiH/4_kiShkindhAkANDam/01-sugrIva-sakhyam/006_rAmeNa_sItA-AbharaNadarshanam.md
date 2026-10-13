@@ -102,24 +102,6 @@ _________________
 
 **पदच्छेदः**
 
-*4. antaram* = opportune time; *prepsunaa* = waiting for;
-*tena* = by an arch demon?; *tena rakshasaa* = by him, that demon; *JaTaayusham
-gR^idhram hatvaa* = one named Jataayu, eagle, on killing; *bhaaryaa viyogajam* = wife,
-separation; *duhkham* = agony; *praapitaH* = he caused to you; *hanuma
-aakhyaati* = Hanuma, has said.
-
-**अनुवादः**
-
-"And he also said about that arch demon's killing an eagle named Jatayu on waiting
-for an opportunity, and his causing an agony in you by way of separating your wife. [4-6-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1, 2, 3. priitaH* = gladdened; Sugreeva; *raghu nandanam
 raaghavam* = to Rama; *punaH eva* = again, thus; *abraviit* = said;
 *raama* = oh, Rama; *tvam* = you; *bhraatraa* = brother; *lakshmaNena
@@ -140,6 +122,24 @@ minister and this servant of yours Hanuma informed me of the reason for which yo
 uninhabited forests along with your brother Lakshmana, and that while living in the forest, and
 when you and this courageous Lakshmana are not her alongside a demon stole your wife Maithili, the
 daughter of Janaka, wailing as she was. [4-6-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. antaram* = opportune time; *prepsunaa* = waiting for;
+*tena* = by an arch demon?; *tena rakshasaa* = by him, that demon; *JaTaayusham
+gR^idhram hatvaa* = one named Jataayu, eagle, on killing; *bhaaryaa viyogajam* = wife,
+separation; *duhkham* = agony; *praapitaH* = he caused to you; *hanuma
+aakhyaati* = Hanuma, has said.
+
+**अनुवादः**
+
+"And he also said about that arch demon's killing an eagle named Jatayu on waiting
+for an opportunity, and his causing an agony in you by way of separating your wife. [4-6-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>
@@ -553,23 +553,6 @@ for you are delaying." [4-6-13]
 
 **पदच्छेदः**
 
-*15. uttariiyam* = upper cloth [the parcel]; *gR^ihiitvaa tu* =
-taken, also; *shubhaani aabharanaani ca* = auspicious, jewellery, also; *idam pashya*
-= this, you see; *iti Raamaaya* = thus, to Rama; *vaanaraH* = the monkey;
-*darshayaamaasa* = started to show.
-
-**अनुवादः**
-
-On taking and bringing the parcel of that upper cloth with the auspicious jewellery,
-"This, you see..." saying thus that monkey started to show them to Rama. [4-6-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14. evam uktaH tu* = thus, said to; Sugreeva; *raaghava priya
 kaamyayaa* = for Raghava's, yearning, to fulfil; *tataH* = then shailasya = of the
 mountain's; *gahanaam* = cavernous; *guhaam* = cave; *shiighram* = quickly;
@@ -579,6 +562,23 @@ mountain's; *gahanaam* = cavernous; *guhaam* = cave; *shiighram* = quickly;
 
 Thus said Sugreeva then entered the cavernous cave of that mountain quickly, to
 fulfil the yearning of Raghava. [4-6-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. uttariiyam* = upper cloth [the parcel]; *gR^ihiitvaa tu* =
+taken, also; *shubhaani aabharanaani ca* = auspicious, jewellery, also; *idam pashya*
+= this, you see; *iti Raamaaya* = thus, to Rama; *vaanaraH* = the monkey;
+*darshayaamaasa* = started to show.
+
+**अनुवादः**
+
+On taking and bringing the parcel of that upper cloth with the auspicious jewellery,
+"This, you see..." saying thus that monkey started to show them to Rama. [4-6-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm)
 </details>

@@ -838,24 +838,6 @@ _________________
 
 **पदच्छेदः**
 
-*18. dR^ishhTvaa* = Having seen; *janam* = people; *tathaa
-sukham* = with that joy; *puurvam* = before; *aham* = I; *na shaknomicha*
-= cannot; *drashhTum* = see; *punaH* = again; *hata harshham* = their
-happiness ended; *niraanandam* = without joy; *avaaNmukham* = having face turned
-downwards.
-
-**अनुवादः**
-
-"Having seen people with that joy before, I cannot see them with there happiness
-ended, without any merriment and having their faces turned downward in grief".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16;17. ashubhaachaare* = Oh; *woman of vicious conduct!
 vyaahantaasi adi* = If you obstruct; *raamaabhishhechanam* = Rama's installation ;
 *salilakriya* = offering of water; *naiva kartavyaa* = cannot be done;
@@ -868,6 +850,24 @@ vyaahantaasi adi* = If you obstruct; *raamaabhishhechanam* = Rama's installation
 "Oh, woman of vicious conduct! If you obstruct Rama's installation, you including
 your son cannot offer me water. Rama will be made to do the offering of water to me, after
 death.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. dR^ishhTvaa* = Having seen; *janam* = people; *tathaa
+sukham* = with that joy; *puurvam* = before; *aham* = I; *na shaknomicha*
+= cannot; *drashhTum* = see; *punaH* = again; *hata harshham* = their
+happiness ended; *niraanandam* = without joy; *avaaNmukham* = having face turned
+downwards.
+
+**अनुवादः**
+
+"Having seen people with that joy before, I cannot see them with there happiness
+ended, without any merriment and having their faces turned downward in grief".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
@@ -1017,23 +1017,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. kR^ita kR^ityaH bhavishhyasi* = You will be one who discharged
-duty; *shthaapya* = by installing ; *mama sutam* = my son; *raajye* = to
-kingdom kR^itvaa = by making; *raamam* = Rama; *vane charam* = wander in woods;
-*kR^itvaa* = by making; *maam* = me; *niH sapatnaam* = devoid of enemies.
-
-**अनुवादः**
-
-"You will be the one who discharges duty, by installing my son to this kingdom, by
-making Rama to wander in woods and rid me of enemies."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *21. raajan* = Oh; *king ! bhaashhase* = you are uttering;
 *vaakyam* = words; *gararujopamam* = li ke painful disease; (with difficulty in
 swallowing); *idam kim* = why is this? arhasi = you ought; *anaayayitum* = to summon;
@@ -1044,6 +1027,23 @@ out delay.
 
 " Oh, king ! You are uttering words, which cannot be swallowed easily like in a
 painful throat disease. You ought to summon your son Rama here without any delay."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. kR^ita kR^ityaH bhavishhyasi* = You will be one who discharged
+duty; *shthaapya* = by installing ; *mama sutam* = my son; *raajye* = to
+kingdom kR^itvaa = by making; *raamam* = Rama; *vane charam* = wander in woods;
+*kR^itvaa* = by making; *maam* = me; *niH sapatnaam* = devoid of enemies.
+
+**अनुवादः**
+
+"You will be the one who discharges duty, by installing my son to this kingdom, by
+making Rama to wander in woods and rid me of enemies."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
@@ -2404,6 +2404,23 @@ without a bull."
 
 **पदच्छेदः**
 
+*58. mahiipatiH* = King Dasaratha; *iti* = thus;
+*shrutvaa* = hearing; *tasya vachaH* = = his words; *arthavat* = which were
+meaningful; *saantva puurvamiva* = and which were very soothing ; *abhyakiiryata* =
+was surrounded ; *shokena* = with grief; *bhuumya eva* = once more.
+
+**अनुवादः**
+
+King Dasaratha hearing his words which were soothing and meaningful, was surrounded
+with grief once more.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *59. saH raajaa* = That king ; *dhaarmikaH* = who was pious;
 *shriimaan* = and glorious; *sannaharshha* = having lost joy; *sutam prati* =
 about his son; *udvuikshhya* = looked up; *shoka raktekshhaNaH* = with burning red
@@ -2416,23 +2433,6 @@ further; *vaakyaiH* = with words"
 That king who was pious and glorious, having lost joy about his son, looked up with
 sorrowful red eyes and spoke those to Sumantra. "You are chopping off my vitals further more, with
 your words!."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*58. mahiipatiH* = King Dasaratha; *iti* = thus;
-*shrutvaa* = hearing; *tasya vachaH* = = his words; *arthavat* = which were
-meaningful; *saantva puurvamiva* = and which were very soothing ; *abhyakiiryata* =
-was surrounded ; *shokena* = with grief; *bhuumya eva* = once more.
-
-**अनुवादः**
-
-King Dasaratha hearing his words which were soothing and meaningful, was surrounded
-with grief once more.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>
@@ -2808,6 +2808,23 @@ _________________
 
 **पदच्छेदः**
 
+*67. sumantraH* = Sumantra; *nishhkramya* = coming out;
+*antaHpuraat* = of gynaeceum; *shubhaat* = splendid; *saagrahrada sankaashaat*
+= like a pool in the sea; *dadarsha* = saw; *dvaaram* = the gate; *jana
+sambaadhaam* = looking congested; with men; *agrahataH* = in front.
+
+**अनुवादः**
+
+Sumantra coming out of gynaceumwhich looked like a splendid pool in the sea, saw the
+gate being congested with throngs of people.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *68. tatah* = Afterwards; *vinirgataH* = going out;
 *purastaat* = further on; *dvaaragataH* = approached the entrance; *vilokayan*
 = by seeing; *dvaaram* = the gate; *upetya* = come nearer; *dadarsha* = saw;
@@ -2818,23 +2835,6 @@ _________________
 
 Afterwards, proceeding further on, he saw near the gate some kings stationed there
 and very rich citizens having arrived there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*67. sumantraH* = Sumantra; *nishhkramya* = coming out;
-*antaHpuraat* = of gynaeceum; *shubhaat* = splendid; *saagrahrada sankaashaat*
-= like a pool in the sea; *dadarsha* = saw; *dvaaram* = the gate; *jana
-sambaadhaam* = looking congested; with men; *agrahataH* = in front.
-
-**अनुवादः**
-
-Sumantra coming out of gynaceumwhich looked like a splendid pool in the sea, saw the
-gate being congested with throngs of people.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga14/ayodhyasans14.htm)
 </details>

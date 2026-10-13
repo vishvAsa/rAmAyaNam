@@ -160,15 +160,16 @@ _________________
 
 **पदच्छेदः**
 
-*4. kaaJNchanaa* = golden; *jala kumbhaasheha* = water pots; *
-svalaNkR^itam* = well decorated; *bhadrapiitham* = throne; *rathashcha* = and the
-chariot; *aastiirNaH* = covered by; *bhaaasvataa* = shining; *vyaaghracharmaNaa*
-= tiger-skin.
+*3. raamasya* = Rama's; *abhishhekaaya* = coronation; *upakalpitam*
+= arranged by; *dvijendraiH* = the best of brahmanas; *udite* = after rising; *suurye*
+= of sun; *vimale* = clearly; *abhyaagate* = on arrival of ; *pushhyecha* = pushyami
+star; *praapte* = and after arrival of; *raamasya* = Rama's; *janma* = birth;
+*sthite* = position; *karkatakalagne* = of auspicious time of cancer.
 
 **अनुवादः**
 
-Golden water-pots, well-decorated throne and chariot covered well by shining tiger-skin
-were impressive.
+The best of brahmanas were prepared to do Rama's coronation in day-time after the sun
+rises clearly at the arrival of Pushya star and on arrival of Rama's auspicious birth time of Cancer.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
@@ -182,16 +183,15 @@ were impressive.
 
 **पदच्छेदः**
 
-*3. raamasya* = Rama's; *abhishhekaaya* = coronation; *upakalpitam*
-= arranged by; *dvijendraiH* = the best of brahmanas; *udite* = after rising; *suurye*
-= of sun; *vimale* = clearly; *abhyaagate* = on arrival of ; *pushhyecha* = pushyami
-star; *praapte* = and after arrival of; *raamasya* = Rama's; *janma* = birth;
-*sthite* = position; *karkatakalagne* = of auspicious time of cancer.
+*4. kaaJNchanaa* = golden; *jala kumbhaasheha* = water pots; *
+svalaNkR^itam* = well decorated; *bhadrapiitham* = throne; *rathashcha* = and the
+chariot; *aastiirNaH* = covered by; *bhaaasvataa* = shining; *vyaaghracharmaNaa*
+= tiger-skin.
 
 **अनुवादः**
 
-The best of brahmanas were prepared to do Rama's coronation in day-time after the sun
-rises clearly at the arrival of Pushya star and on arrival of Rama's auspicious birth time of Cancer.
+Golden water-pots, well-decorated throne and chariot covered well by shining tiger-skin
+were impressive.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
@@ -230,6 +230,32 @@ rises clearly at the arrival of Pushya star and on arrival of Rama's auspicious 
 
 **पदच्छेदः**
 
+*5;6. jalam* = water; *aahR^itam* = brought from; *puNyaat*
+= auspicious; *gangaayammayoH saN^gaat* = conjuction of ganga and yamuna rivers; *yaaH*
+= which; *anyaaH* = other; *saritaH* = rivers(from them); *hradaaH* = lakes;
+*kuupaaH* = wells; *saraamsicha* = ponds; *pragvaahaaH* = those flowing upwards;
+*tiryagvaahaaH* = those flowing crossward; *samaahitaaH* = from those which joined together;
+*taabhyaH cha* = from them; *samudrebhyaH cha* = and from oceans; *sarvashaH* =
+from all sides; *toyam* = water; *ahR^itam* = was brought.
+
+**अनुवादः**
+
+Water was brought from auspicious conjunction of rivers ganga and Yamuna, from other
+rivers, lakes, wells, ponds, from streams flowing eastwards, from streams which joined together and
+from oceans in all sides.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+इवुगळल्लदॆ इतर नदिगळ, पवित्रजलाशयगळ, बावि, सरोवरगळ, पूर्वाभिमुखवागि हरियुव गोदावरी, कावेरि मॊदलाद नदिगळ, ब्रह्मावर्तादि सरोवरगळ, दक्षिणोत्तरवागि हरियुव गण्डकी, शोणभद्रा मुन्ताद नदिगळ, हालिनन्तॆ निर्मल जलदिन्द तुम्बिरुव ऎल्ल नदिगळ, समुद्र इवुगळिन्द तन्द जलवन्नु सङ्ग्रहिसि अल्लि इडलागित्तु. जॊतॆगॆ हालु, मॊसरु, तुप्प, जेनु, अरळु, कुश, हूवुगळु, ऎण्टु मन्दि सुन्दर कन्यॆयरु, पट्टद आनॆ, क्षीरवृक्षद पल्लवगळिन्द अलङ्करिसिद चिन्न-बॆळ्ळिय नीरु तुम्बिद कलशगळु कमल मत्तु नीलोत्पल पुष्पगळिन्द सिङ्गरिसिद्द कारण बहळ शोभिसुत्तिद्दवु.॥6-8½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *7. kaaN^chana raajataaH* = gold and silver; *ghataaH* = pots;
 *puurNaaH* = filled with; *paramavaariNaa* = excellent water; *salaajaaH* = together
 with popped grain; *chhannaaH* = covered by; *kshiiribhiH* = milky sapped leaves; *
@@ -241,11 +267,6 @@ Gold and silver pots filled with best water together with popped grain and cover
 milky sapped leaves, lotuses and water-lilies were shining there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-इवुगळल्लदॆ इतर नदिगळ, पवित्रजलाशयगळ, बावि, सरोवरगळ, पूर्वाभिमुखवागि हरियुव गोदावरी, कावेरि मॊदलाद नदिगळ, ब्रह्मावर्तादि सरोवरगळ, दक्षिणोत्तरवागि हरियुव गण्डकी, शोणभद्रा मुन्ताद नदिगळ, हालिनन्तॆ निर्मल जलदिन्द तुम्बिरुव ऎल्ल नदिगळ, समुद्र इवुगळिन्द तन्द जलवन्नु सङ्ग्रहिसि अल्लि इडलागित्तु. जॊतॆगॆ हालु, मॊसरु, तुप्प, जेनु, अरळु, कुश, हूवुगळु, ऎण्टु मन्दि सुन्दर कन्यॆयरु, पट्टद आनॆ, क्षीरवृक्षद पल्लवगळिन्द अलङ्करिसिद चिन्न-बॆळ्ळिय नीरु तुम्बिद कलशगळु कमल मत्तु नीलोत्पल पुष्पगळिन्द सिङ्गरिसिद्द कारण बहळ शोभिसुत्तिद्दवु.॥6-8½॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -261,27 +282,6 @@ butter; *laajaaH* = popped grain; *darbhaaH* = sacred grass; *sumanasaH* = flowe
 
 Honey, curd, clarified butter popped grain, sacred grass, flowers and milk were kept
 ready. Harlots adorned with all types of ornaments were also glimmering there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*5;6. jalam* = water; *aahR^itam* = brought from; *puNyaat*
-= auspicious; *gangaayammayoH saN^gaat* = conjuction of ganga and yamuna rivers; *yaaH*
-= which; *anyaaH* = other; *saritaH* = rivers(from them); *hradaaH* = lakes;
-*kuupaaH* = wells; *saraamsicha* = ponds; *pragvaahaaH* = those flowing upwards;
-*tiryagvaahaaH* = those flowing crossward; *samaahitaaH* = from those which joined together;
-*taabhyaH cha* = from them; *samudrebhyaH cha* = and from oceans; *sarvashaH* =
-from all sides; *toyam* = water; *ahR^itam* = was brought.
-
-**अनुवादः**
-
-Water was brought from auspicious conjunction of rivers ganga and Yamuna, from other
-rivers, lakes, wells, ponds, from streams flowing eastwards, from streams which joined together and
-from oceans in all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
@@ -608,23 +608,6 @@ of Rama, the wise".
 
 **पदच्छेदः**
 
-*17. aham* = I; *prasthitaH asmi* = am going on journey; *tvarayaa*
-= quickly; *raamam* = to Rama; *niyogena* = as per orders of; *raajJNaH* = king;
-*bhavantaH tu* = but you are; *puujyaaH* = worthy of worship; *raajJNaH* = to king;
-*raamasya cha visheshhataH* = and in particular to Rama.
-
-**अनुवादः**
-
-"I am going to Rama quickly as per king's directions. But, you are all worthy of worship
-by Dasaratha and by Rama in particular."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16. teshhu bruvaaNeshu* = while they were speaking; *iti* = thus;
 *sumantraH* = sumantra; *raaja satkR^itaH* = who is well respected by king; *abraviit*
 = spoke; *idam* = these words; *taan mahiipatiin* = to those kings; *sarvaan saarvaabhaumaan*
@@ -634,6 +617,23 @@ by Dasaratha and by Rama in particular."
 
 Sumantra, who received good respect from Dasaratha, heard them thus speaking and addressed
 those kings, who came from different countries.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. aham* = I; *prasthitaH asmi* = am going on journey; *tvarayaa*
+= quickly; *raamam* = to Rama; *niyogena* = as per orders of; *raajJNaH* = king;
+*bhavantaH tu* = but you are; *puujyaaH* = worthy of worship; *raajJNaH* = to king;
+*raamasya cha visheshhataH* = and in particular to Rama.
+
+**अनुवादः**
+
+"I am going to Rama quickly as per king's directions. But, you are all worthy of worship
+by Dasaratha and by Rama in particular."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
@@ -1019,22 +1019,6 @@ you. Please wake up."
 
 **पदच्छेदः**
 
-*26. suuta* = oh; *the charioteer! kim* = what is; *idam kaaraNam*
-= this reason; yena by which; *mama aajJNaa* = my order; *pratihamyate* = is being rejected;
-*yat abhihitaH api* = eventhough you were told; *anaya* = to bring; *raamam* =
-Rama.
-
-**अनुवादः**
-
-"Why have you not followed my orders even though you were asked by her to bring Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 25. tataH thereafter; *raajaa* = king Dasaratha; pratibuddhya woke up;
 *abraviit* = and spoke; *idam vachanam* = these words; *sumantram* = to Sumantra;
 *tadaa* = then; *stuvantam* = enlogising; *mantrakovidam* = skilled in giving advice;
@@ -1044,6 +1028,22 @@ Rama.
 
 Then, Dasaratha woke up and spoke these words to Sumantra, who was eulogising him, who
 was skilled in giving advice and who was his charioteer.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. suuta* = oh; *the charioteer! kim* = what is; *idam kaaraNam*
+= this reason; yena by which; *mama aajJNaa* = my order; *pratihamyate* = is being rejected;
+*yat abhihitaH api* = eventhough you were told; *anaya* = to bring; *raamam* =
+Rama.
+
+**अनुवादः**
+
+"Why have you not followed my orders even though you were asked by her to bring Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
@@ -1094,23 +1094,6 @@ _________________
 
 **पदच्छेदः**
 
-28. saH - he; shrutvaa - listened to; *raajavachanam* = king's words;
-*pratipuujya* = paid respect; *tam* = to him; *shirasaa* = with head; *manyamaanaH*
-= thinking of; *mahat* = abundant; *priyam* = goodness; *nirjagaama* = came out;
-*nR^ipaavaasaat* = from king's house.
-
-**अनुवादः**
-
-He listened to king's words, bowed his head in salutation to him, thought for goodness
-of king, and came out of the king's palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. raajaa dasharathaH* = king Dasaratha; *anvashaat* = ordered;
 *suuutam* = charioteer; *tatra* = there; *punaH* = again; *iti* = thus;
 *aham nacha eva samprasupataH* = "I am not sleeping; *aanaya* = bring; *raamam*
@@ -1120,6 +1103,23 @@ of king, and came out of the king's palace.
 
 King Dasaratha ordered that charioteer there again thus - " I am not sleeping. Bring
 Rama here soon".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+28. saH - he; shrutvaa - listened to; *raajavachanam* = king's words;
+*pratipuujya* = paid respect; *tam* = to him; *shirasaa* = with head; *manyamaanaH*
+= thinking of; *mahat* = abundant; *priyam* = goodness; *nirjagaama* = came out;
+*nR^ipaavaasaat* = from king's house.
+
+**अनुवादः**
+
+He listened to king's words, bowed his head in salutation to him, thought for goodness
+of king, and came out of the king's palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>
@@ -1221,22 +1221,6 @@ _________________
 
 **पदच्छेदः**
 
-*31. tataH* = then; *sumantraH tu* = Sumantra; *dadarshha*
-= saw; *raamaveshma* = Rama's palace; *ruchiram* = which ws lovely; *kailaasa sikharaprabham*
-= shining like top of a mountain; *shakra veshma samaprabham* = radiant like Indra's palace.
-
-**अनुवादः**
-
-Then, Sumantra saw Rama's palace which was lovely shining like top of a mountain and
-radiant like Indra's palace.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *30. suutaH* = that charioteer; *shushraava* = heard; *kathaaH*
 = conversatious; *raamadhikaraNaaH* = about Rama; abhishechana samyuktaaH and Rama's coronation;
 *sarvalokasya* = of all people; *hR^ishhTavat* = who were joyful.
@@ -1245,6 +1229,22 @@ radiant like Indra's palace.
 
 Sumantra heard the words pertaining to Rama and Rama's coronation spoken together by
 joyful people there.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. tataH* = then; *sumantraH tu* = Sumantra; *dadarshha*
+= saw; *raamaveshma* = Rama's palace; *ruchiram* = which ws lovely; *kailaasa sikharaprabham*
+= shining like top of a mountain; *shakra veshma samaprabham* = radiant like Indra's palace.
+
+**अनुवादः**
+
+Then, Sumantra saw Rama's palace which was lovely shining like top of a mountain and
+radiant like Indra's palace.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga15/ayodhyasans15.htm)
 </details>

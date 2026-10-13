@@ -898,24 +898,6 @@ ruination of your brother, but I am unachievable to you. [3-59-17]
 
 **पदच्छेदः**
 
-*19. pracChanna caarii* = in disguise, one who is moving - comporting yourself; *[raamasya]
-ripuH* = [Rama's,] adversary; such as you are; *tvam* = you are; *raaghavasya* = Raghava's;
-*antara prepsuH* = randhra anveSi = leeway, one who is searching for; *mat artham anugacChasi*
-= me, because of, you are following - Rama; *tathaa* = thereby; *enam na abhipadyase*
-= him [Rama,] not, reaching at [now.]
-
-**अनुवादः**
-
-" 'You are an adversary of Rama comporting yourself in disguise, following him because of me, and searching
-for a leeway from Rama. Thereby now you are not rushing to Rama. [3-59-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *18. ati artham* = very, much - inordinately; *kroshantam* = who is yelling - Rama;
 *yathaa* = as to why; *enam* = to him [Rama]; *na* = not; *abhyavapadyase [abhi
 ava pad]* = towards, his near, going - refraining to go to him, for help; *tvam* = you are;
@@ -927,6 +909,24 @@ ava pad]* = towards, his near, going - refraining to go to him, for help; *tvam*
 " 'As to why you are refraining to rush towards Rama even though he is inordinately yelling, it hints
 that Bharata made some arrangements with you, and that is the reason why you have closely followed Rama
 in exile. [3-59-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19. pracChanna caarii* = in disguise, one who is moving - comporting yourself; *[raamasya]
+ripuH* = [Rama's,] adversary; such as you are; *tvam* = you are; *raaghavasya* = Raghava's;
+*antara prepsuH* = randhra anveSi = leeway, one who is searching for; *mat artham anugacChasi*
+= me, because of, you are following - Rama; *tathaa* = thereby; *enam na abhipadyase*
+= him [Rama,] not, reaching at [now.]
+
+**अनुवादः**
+
+" 'You are an adversary of Rama comporting yourself in disguise, following him because of me, and searching
+for a leeway from Rama. Thereby now you are not rushing to Rama. [3-59-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga59/aranyasans59.htm)
 </details>

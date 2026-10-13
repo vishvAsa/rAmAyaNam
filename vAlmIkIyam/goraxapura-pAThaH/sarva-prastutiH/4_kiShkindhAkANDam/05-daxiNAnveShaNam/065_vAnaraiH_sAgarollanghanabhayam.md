@@ -433,6 +433,32 @@ about their jumping capacities, has informed them in this way. [4-65-10]
 
 **पदच्छेदः**
 
+*11. puurvam asmaakam api* = previously, for us, even; *kashcit gati
+paraaakramaH aasiit* = some, traversal, adventurousness, was there; *te* = such as we
+were; *vayam* = we are; *saampratam* = presently; *vayasaH paaram anupraaptaaH
+sma* = of age, other shore, reached, we are - I am.
+
+**अनुवादः**
+
+"Previously there was some traversal daredevilry even for us, such as we were, we
+are presently on the other shore of our age... [4-65-11]
+
+**टिप्पनी**
+
+The use of the word 'us' is to mean 'for me...' as a kind of royal 'we'.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+मॊदलु तारुण्यदल्लि नन्नल्लि दूरदवरॆगॆ हारुव शक्ति इत्तु. ईग नानु आ वयस्सन्नु दाटिद्दरू याव कार्यक्कागि वानरराज सुग्रीव हागू भगवान् श्रीरामनु दृढनिश्चय माडिरुवरो, अदन्नु नानु उपेक्षॆ माडलारॆनु. ईग नन्नल्लि इरुव शक्तियन्नु केळिरि - नानु ऒन्दे नॆगॆतदल्लि तॊम्भत्तु योजन दूरक्कॆ होगबल्लॆनु इदरल्लि सन्देहवे इल्ल ऎन्दु हेळिदनु.॥11-13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12. kim tu* = how, ever; *evam gate* = this, being so; *yat
 artham* = for which, purpose; *kapi raajaH ca* = monkey's, king, also; *raamaH
 ca* = Rama, even; *kR^ita nishcayau* = decisively, decided - on getting their task
@@ -457,11 +483,6 @@ such, here Jambavanta as the senior most member had to reprimand them with words
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-मॊदलु तारुण्यदल्लि नन्नल्लि दूरदवरॆगॆ हारुव शक्ति इत्तु. ईग नानु आ वयस्सन्नु दाटिद्दरू याव कार्यक्कागि वानरराज सुग्रीव हागू भगवान् श्रीरामनु दृढनिश्चय माडिरुवरो, अदन्नु नानु उपेक्षॆ माडलारॆनु. ईग नन्नल्लि इरुव शक्तियन्नु केळिरि - नानु ऒन्दे नॆगॆतदल्लि तॊम्भत्तु योजन दूरक्कॆ होगबल्लॆनु इदरल्लि सन्देहवे इल्ल ऎन्दु हेळिदनु.॥11-13॥
-</details>
-
 <details><summary>Desiraju Hanumanta Rao</summary>
 
 **पदच्छेदः**
@@ -475,27 +496,6 @@ I say [you understand]; *yojanaanaam navatim gamiSyaami* = yojana-s, ninety, I [
 
 "While we say you may hear what cruise we have at this age... we can go up to ninety
 yojana-s, undoubtedly... [4-65-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11. puurvam asmaakam api* = previously, for us, even; *kashcit gati
-paraaakramaH aasiit* = some, traversal, adventurousness, was there; *te* = such as we
-were; *vayam* = we are; *saampratam* = presently; *vayasaH paaram anupraaptaaH
-sma* = of age, other shore, reached, we are - I am.
-
-**अनुवादः**
-
-"Previously there was some traversal daredevilry even for us, such as we were, we
-are presently on the other shore of our age... [4-65-11]
-
-**टिप्पनी**
-
-The use of the word 'us' is to mean 'for me...' as a kind of royal 'we'.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>
@@ -541,6 +541,23 @@ The use of the word 'us' is to mean 'for me...' as a kind of royal 'we'.
 
 **पदच्छेदः**
 
+*14. sarvaan taan hari shreSThaan* = to all of, those, to monkey, best
+ones; *jaambavaan idam ca abraviit* = Jambavanta, this, also, said; *me gamane
+paraakramaH* = to me, in [the stint of] going, capability; *etaavat eva* = thereunto,
+only; *na aasiit khalu* = not, is there [limited,] definitely.
+
+**अनुवादः**
+
+Jambavanta further said this to all of those best monkeys, "my capability in the
+stint of going was not definitely limited only thereunto... [4-65-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *15. maya* = by me; *puurvam* = once; *vairocane yaj~ne* =
 in Vairocana's legatee's [Emperor Bali's,] Vedic-ritual's - at the time of]; *kramamaaNaH* =
 when He was treading; *prabhaviSNuH* = Omnipresent; *sanaatanaH* = Eternal [Vishnu];
@@ -554,23 +571,6 @@ His incarnation as Trivikrama, when He grandiosely increased His physique from t
 Divine-Dwarfish Brahman boy to that of an Omnidirectional Being, thus filling whole of the Universe
 to tread all the three worlds, during the time of Vedic-ritual of Emperor Bali, the legatee of
 Vairocana... [4-65-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*14. sarvaan taan hari shreSThaan* = to all of, those, to monkey, best
-ones; *jaambavaan idam ca abraviit* = Jambavanta, this, also, said; *me gamane
-paraakramaH* = to me, in [the stint of] going, capability; *etaavat eva* = thereunto,
-only; *na aasiit khalu* = not, is there [limited,] definitely.
-
-**अनुवादः**
-
-Jambavanta further said this to all of those best monkeys, "my capability in the
-stint of going was not definitely limited only thereunto... [4-65-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm)
 </details>

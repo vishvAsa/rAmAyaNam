@@ -472,6 +472,23 @@ _________________
 
 **पदच्छेदः**
 
+*9. himavaan ca eva* = Himalaya, also, even; *vindhyaH ca* =
+Vindhya, also; *su mahaan giriH* = very, high, mountain; *meruH ca* = Meru, even;
+*bhuu tale* = on earth's, surface; *jala aashaye* = in water, receptacles [lakes];
+*naagaa iva* = elephants, like; *sam prakaashante* = shining forth.
+
+**अनुवादः**
+
+"Himalayas, even Mt. Vindhya, and even the very high mountain Mt. Meru, shone forth
+like elephants in lakes... [4-61-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *10. tadaa* = then; *avayoH* = to two of us; *tiivraH* =
 abnormal; *svedaH ca* = sweating, also; *khedaH ca* = tiredness, also; *bhayam
 ca* = fear, also; *aasiit* = bechanced; *tataH* = then; *mohaH* = stupor;
@@ -482,23 +499,6 @@ invaded us.
 
 "Then there bechanced an abnormal sweating, tiredness and fear, and then stupor
 invading both of us, we two underwent a severe vertigo... [4-61-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*9. himavaan ca eva* = Himalaya, also, even; *vindhyaH ca* =
-Vindhya, also; *su mahaan giriH* = very, high, mountain; *meruH ca* = Meru, even;
-*bhuu tale* = on earth's, surface; *jala aashaye* = in water, receptacles [lakes];
-*naagaa iva* = elephants, like; *sam prakaashante* = shining forth.
-
-**अनुवादः**
-
-"Himalayas, even Mt. Vindhya, and even the very high mountain Mt. Meru, shone forth
-like elephants in lakes... [4-61-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>
@@ -716,23 +716,6 @@ I too let myself loose from the sky... [4-61-14]
 
 **पदच्छेदः**
 
-*16. tam jaTaayuSam* = him, about Jataayu; *janasthaane nipatitam
-aashanke* = in Janasthaana, fell down, I supposed; *aham tu* = I, for my part;
-*dagdha pakSaH* = burnt, winged [bird]; *jaDii kR^itaH* = insensate, made as;
-*vindhye* = on Vindhya; *patitaH* = fell down.
-
-**अनुवादः**
-
-"I supposed that Jataayu as has fallen in Janasthaana, but I have fallen on Mt.
-Vindhya, as a wing-burnt and insensate eagle... [4-61-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *15. mayaa* = by me; *pakSabhyaam guptaH* = with both wings,
 hidden - from sun; *jaTaayuH* = Jataayu; *na pra dahyata* = not, much, burnt [by
 Sun]; *tatra* = there - in sky; *pramaadaat* = accidentally; *vaayu pathaat* =
@@ -743,6 +726,23 @@ dagdhaH* = completely, burnt - by sun.
 
 "I have hidden Jataayu in sky with both my wings from the scorching Sun... hence, he
 is not burn that much... but I am completely burnt when falling from the sky... [4-61-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. tam jaTaayuSam* = him, about Jataayu; *janasthaane nipatitam
+aashanke* = in Janasthaana, fell down, I supposed; *aham tu* = I, for my part;
+*dagdha pakSaH* = burnt, winged [bird]; *jaDii kR^itaH* = insensate, made as;
+*vindhye* = on Vindhya; *patitaH* = fell down.
+
+**अनुवादः**
+
+"I supposed that Jataayu as has fallen in Janasthaana, but I have fallen on Mt.
+Vindhya, as a wing-burnt and insensate eagle... [4-61-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhasans61.htm)
 </details>

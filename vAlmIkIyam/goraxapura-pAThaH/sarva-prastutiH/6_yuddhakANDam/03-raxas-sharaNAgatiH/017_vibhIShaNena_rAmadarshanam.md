@@ -2832,24 +2832,6 @@ _________________
 
 **पदच्छेदः**
 
-*58. yuktam hi* = it is indeed befitting; *aagamanam* = to
-arrive; *atra* = at this place and time; *dR^ishhTvaa* = by seeing;
-*vikrmamcha* = the prowess; *tvayi* = in you; *tathaa* = and;
-*douraatmyam* = wickedness; *raavaNe* = in Ravana; *sadR^isham* = It is
-worthy; *tasya* = of his ; *buddhitaH* = judgement.
-
-**अनुवादः**
-
-"It is indeed appropriate for him to arrive at this place and time, by seeing the
-prowess in you and the wickedness in Ravana. It is worthy of his judgment."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *57. eshha* = this; *deshhashcha* = place; *kaalashcha* =
 and time; *iha* = here; *bhavati* = become; *yathaa tathaa* = according to
 what is right; *tathaa* = thus; *praapya* = by obtaining; *(in his mind)
@@ -2860,6 +2842,24 @@ merits in you and demerits in the latter.
 
 "This place and time become rightly obtained in his mind , as he has thought that
 you are superior to Ravana and also found merits in you and demerits in Ravana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*58. yuktam hi* = it is indeed befitting; *aagamanam* = to
+arrive; *atra* = at this place and time; *dR^ishhTvaa* = by seeing;
+*vikrmamcha* = the prowess; *tvayi* = in you; *tathaa* = and;
+*douraatmyam* = wickedness; *raavaNe* = in Ravana; *sadR^isham* = It is
+worthy; *tasya* = of his ; *buddhitaH* = judgement.
+
+**अनुवादः**
+
+"It is indeed appropriate for him to arrive at this place and time, by seeing the
+prowess in you and the wickedness in Ravana. It is worthy of his judgment."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
@@ -3123,15 +3123,16 @@ _________________
 
 **पदच्छेदः**
 
-*64. na shakyah* = it is not possible; *viniguuhitam* = to hide;
-*aakaarah* = expression of the face; *chhaadyamano. api* = even if it is concealed;
-*balata* = by force; *antargatam* = the internal; *bhaavam* = intent;
-*nR^iNaam* = of the persons; *vivR^iNotyeva* = certainly gets revealed.
+*63. shaThaH* = a deceitful person; *na parisarpati* = does not
+approach; *ashaNkamatiH* = fearlessly; *svasthaH* = and confidently; *asya* =
+his; *vaakcha* = expression too; *naasti* = is not; *dushhTaa* = bad;
+*tasmaat* = hence; *me* = to me; *naasti* = there is no; *samshayaH* =
+doubt.
 
 **अनुवादः**
 
-"It is not possible to hide expression of the face, even if it is concealed. By
-force, the internal intent of the persons certainly gets revealed."
+"A deceitful person does not approach so fearlessly and confidently. His expression
+too is not bad. Hence, there is no doubt to me on him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>
@@ -3145,16 +3146,15 @@ force, the internal intent of the persons certainly gets revealed."
 
 **पदच्छेदः**
 
-*63. shaThaH* = a deceitful person; *na parisarpati* = does not
-approach; *ashaNkamatiH* = fearlessly; *svasthaH* = and confidently; *asya* =
-his; *vaakcha* = expression too; *naasti* = is not; *dushhTaa* = bad;
-*tasmaat* = hence; *me* = to me; *naasti* = there is no; *samshayaH* =
-doubt.
+*64. na shakyah* = it is not possible; *viniguuhitam* = to hide;
+*aakaarah* = expression of the face; *chhaadyamano. api* = even if it is concealed;
+*balata* = by force; *antargatam* = the internal; *bhaavam* = intent;
+*nR^iNaam* = of the persons; *vivR^iNotyeva* = certainly gets revealed.
 
 **अनुवादः**
 
-"A deceitful person does not approach so fearlessly and confidently. His expression
-too is not bad. Hence, there is no doubt to me on him."
+"It is not possible to hide expression of the face, even if it is concealed. By
+force, the internal intent of the persons certainly gets revealed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm)
 </details>

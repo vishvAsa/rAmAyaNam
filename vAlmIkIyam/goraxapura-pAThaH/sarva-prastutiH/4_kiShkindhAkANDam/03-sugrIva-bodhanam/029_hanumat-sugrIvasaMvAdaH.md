@@ -627,23 +627,6 @@ control abiding by your promise. [4-29-16]
 
 **पदच्छेदः**
 
-*18. hari iishvara* = oh, monkeys, lord; *puurvam tena* = previously, by him; *tava kaaryam kR^itam*
-= your, work, is done - accomplished your objective; *tvam tasya [kaaryam] kuru vai* = you, his, objective,
-accomplish, certainly; *hari shreSThaan aaj~naapayitum arhasi* = monkeys, best ones, to order - summon
-for searching Seetha, apt of you.
-
-**अनुवादः**
-
-"Certainly you have to carry through his mission as he has carried out your mission previously, and oh, lord of
-monkeys, it will be apt of you to summon worthy monkeys for searching Seetha. [4-29-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *17. raaghavaH* = Raghava is; *sphiitasya kulasya hetuH* = of dynasty - a multitude of homogenous
 beings, for augmentation, cause; *diirgha bandhuH ca* = long-lasting, friend [covenentor,] also; *svayam*
 = personally; *a prameya prabhaavaH ca* = un, definable, in proficiency, also; *guNaiH pratimaH ca*
@@ -660,6 +643,23 @@ The 'augmenter of multitudes of homogeneous groups...' is not limited to Rama's 
 race, or to birds like Jatayu, or to squirrels or bears. Rama is the causer of the augmentation of any living
 being's group, if they tread the path of virtuousness, thus he is the sustainer of universe in peace. Any violator
 to that peaceful coexistence will be put to an end, may it be Viradha, Kabandha, Vali or Ravana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*18. hari iishvara* = oh, monkeys, lord; *puurvam tena* = previously, by him; *tava kaaryam kR^itam*
+= your, work, is done - accomplished your objective; *tvam tasya [kaaryam] kuru vai* = you, his, objective,
+accomplish, certainly; *hari shreSThaan aaj~naapayitum arhasi* = monkeys, best ones, to order - summon
+for searching Seetha, apt of you.
+
+**अनुवादः**
+
+"Certainly you have to carry through his mission as he has carried out your mission previously, and oh, lord of
+monkeys, it will be apt of you to summon worthy monkeys for searching Seetha. [4-29-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>
@@ -1211,23 +1211,6 @@ _________________
 
 **पदच्छेदः**
 
-*30. me samagraa senaa* = my, in entirety, army; *yuutha paalaaH ca* = corps, commanders, even;
-*sarvashaH* = from all over; *a sangena* = without, delay; *yathaa* = as to how; *sena
-agraaNi* = army, in the van of - cutting edge; *samaagacChanti [ sam aa gacChanti]* = will marshal
-towards; *tathaa kuru* = that way, you make happen.
-
-**अनुवादः**
-
-"You have to have organise that way as to how my army in its entirety and from all over, together with corps commanders,
-is to be marshalled to stay in the cutting edge of army. [4-29-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *29. ati matimaan* = noble, minded one; Sugreeva; *sarvaasu dikSu* = [those available] in all, directions;
 *sarveSaam sainyaanaam* = all of the, monkey-forces; *upasamgrahe* = in foregathering; *nitya
 kR^ita udyamam* = one who always, makes, endeavour - strives to foregather military; *niilam samdidesha*
@@ -1237,6 +1220,23 @@ kR^ita udyamam* = one who always, makes, endeavour - strives to foregather milit
 
 And the noble minded Sugreeva directed Nila, one of the commanders of vanara army, and who always strives to foregather
 vanara army, to foregather all of the monkey-forces available in all the directions. [4-29-29]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30. me samagraa senaa* = my, in entirety, army; *yuutha paalaaH ca* = corps, commanders, even;
+*sarvashaH* = from all over; *a sangena* = without, delay; *yathaa* = as to how; *sena
+agraaNi* = army, in the van of - cutting edge; *samaagacChanti [ sam aa gacChanti]* = will marshal
+towards; *tathaa kuru* = that way, you make happen.
+
+**अनुवादः**
+
+"You have to have organise that way as to how my army in its entirety and from all over, together with corps commanders,
+is to be marshalled to stay in the cutting edge of army. [4-29-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm)
 </details>

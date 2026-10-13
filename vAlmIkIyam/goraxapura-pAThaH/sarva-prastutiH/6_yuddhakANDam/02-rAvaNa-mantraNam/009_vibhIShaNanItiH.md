@@ -372,16 +372,15 @@ conquered."
 
 **पदच्छेदः**
 
-*12. nishaacaraaH* = O; demons; *balaani* = the strength;
-*viiryaaNi ca* = and the abilities; *pareSaam* = of the enemies;
-*aparimeyaani* = are difficult to be measured; *na kartavyaa* = they cannot be
-treated; *avajJNyaa* = with contempt; *sahasaa* = hastily; *kathamcana* = by
-any means.
+*11. kaH* = who; *vidyaat* = can know; *tarkayeta vaa* =
+or even imagine; *loke* = in the world; *hanumataH* = Hanuma's; *gatim* =
+speed; *langhayitvaa* = in crossing; *ghoram* = the formidable; *samudram* =
+ocean; *nada nadii patim* = the lord of streams and rivers?
 
 **अनुवादः**
 
-"O, demons! The strength and the abilities of the enemies are difficult to be
-measured. They cannot be treated with contempt hastily by any means."
+"Who can conceive or even imagine in this world, that Hanuma's speed in crossing the
+formidable ocean, which is the lord of streams and rivers?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>
@@ -395,15 +394,16 @@ measured. They cannot be treated with contempt hastily by any means."
 
 **पदच्छेदः**
 
-*11. kaH* = who; *vidyaat* = can know; *tarkayeta vaa* =
-or even imagine; *loke* = in the world; *hanumataH* = Hanuma's; *gatim* =
-speed; *langhayitvaa* = in crossing; *ghoram* = the formidable; *samudram* =
-ocean; *nada nadii patim* = the lord of streams and rivers?
+*12. nishaacaraaH* = O; demons; *balaani* = the strength;
+*viiryaaNi ca* = and the abilities; *pareSaam* = of the enemies;
+*aparimeyaani* = are difficult to be measured; *na kartavyaa* = they cannot be
+treated; *avajJNyaa* = with contempt; *sahasaa* = hastily; *kathamcana* = by
+any means.
 
 **अनुवादः**
 
-"Who can conceive or even imagine in this world, that Hanuma's speed in crossing the
-formidable ocean, which is the lord of streams and rivers?"
+"O, demons! The strength and the abilities of the enemies are difficult to be
+measured. They cannot be treated with contempt hastily by any means."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga9/yuddhasans9.htm)
 </details>

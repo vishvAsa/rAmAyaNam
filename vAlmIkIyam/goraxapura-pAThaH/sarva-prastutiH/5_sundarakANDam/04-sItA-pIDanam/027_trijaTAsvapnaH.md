@@ -443,23 +443,6 @@ _________________
 
 **पदच्छेदः**
 
-*9;10.raaghavaH* = Rama; *shuklamaalyaambara dharaH* = wearing white garlands
-and clothes; *antarikshagaam* = passing through the sky; *svayam aasthaaya* = Himself ascending;
-*shibikaam* = a palanquin; *gajadantamayiim* = made of ivory; *yuktaam* = tied; *haMsa
-sahasreNa* = with a thousand swans; *aagataH* = arrived; *lakshmaNena saha* = along with Lakshmana.
-
-**अनुवादः**
-
-"Rama wearing white garlands and clothes passing through the sky, Himself ascending a palanquin
-made of ivory tied with a thousand swans, arrived along with Lakshmana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. kiidR^ishii* = of what kind; *ayam svapnaH* = (is) this dream; *dR^ishhTaH*
 = seen; *tvayaa* = by you; *kathayasva* = tell (us); *shrutvaa* = listening; *vachanam*
 = (to the) utterance; *chyutam* = (that) came forth; *mukhaat* = from the mouths; *taasaam raakshasiinaam*
@@ -470,6 +453,23 @@ vachanam* = (this) word; *svapna saMshritam* = relating to the dream.
 
 "Of what kind is this dream seen by you. Tell us". Listening to this utterance that came forth
 from the mouths of those ogresses, Trijata spoke at that time this word relating to the dream.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9;10.raaghavaH* = Rama; *shuklamaalyaambara dharaH* = wearing white garlands
+and clothes; *antarikshagaam* = passing through the sky; *svayam aasthaaya* = Himself ascending;
+*shibikaam* = a palanquin; *gajadantamayiim* = made of ivory; *yuktaam* = tied; *haMsa
+sahasreNa* = with a thousand swans; *aagataH* = arrived; *lakshmaNena saha* = along with Lakshmana.
+
+**अनुवादः**
+
+"Rama wearing white garlands and clothes passing through the sky, Himself ascending a palanquin
+made of ivory tied with a thousand swans, arrived along with Lakshmana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
@@ -886,23 +886,6 @@ _________________
 
 **पदच्छेदः**
 
-*20. raamaH* = Rama; *viShNuparaakramaH* = with strength equalling that of
-Lord Vishnu; *raaghavaH* = born in Raghu's dynasty; *saha* = together; *bhraatraa lakshmaNena*
-= with brother Lakshmana; *siitayaa* = (and) with Seetha; *dR^iShTaH* = has been seen; *mayaa*
-= by me; *evam* = thus; *svapne* = in the dream.
-
-**अनुवादः**
-
-"Rama with strength equalling that of Lord Vishnu, born in Raghu's dynasty together with brother
-Lakshmana and with Seetha has been seen by me thus in the dream."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *18;19. viiryavaan* = The valorous; *puruShottamaH* = best among men Rama;
 *saha* = together; *bhraatraa lakshmaNena saha* = with brother Lakshmana; *siitayaa* = (and)
 with Seetha; *aaruhya* = ascended; *divyam* = wonderful; *puShpakam vimaanam* = Pushpaka
@@ -913,6 +896,23 @@ aeroplane; *suurya sannibham* = equalling the Sun; *jagaama* = went; *aalokya* =
 
 "The valorous best among men Rama together with brother Lakshmana and with Seetha ascended wonderful
 Pushpaka aeroplane equalling the Sun, went in the northern direction."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. raamaH* = Rama; *viShNuparaakramaH* = with strength equalling that of
+Lord Vishnu; *raaghavaH* = born in Raghu's dynasty; *saha* = together; *bhraatraa lakshmaNena*
+= with brother Lakshmana; *siitayaa* = (and) with Seetha; *dR^iShTaH* = has been seen; *mayaa*
+= by me; *evam* = thus; *svapne* = in the dream.
+
+**अनुवादः**
+
+"Rama with strength equalling that of Lord Vishnu, born in Raghu's dynasty together with brother
+Lakshmana and with Seetha has been seen by me thus in the dream."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
@@ -1008,23 +1008,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. adya* = now; *raavaNa* = Ravana; *patitaH* = fallen down; *bhuvi*
-= (on to) earth; *puShpakaat vimaanaat* = from Pushpaka aeroplane; *muNDaH* = having the head shaved;
-*kR^iShNaambaraH* = wearing black clothes; *punaH* = again; *dR^iShTaH* = was seen; *kR^iShyamaaNaH*
-= (to be) pulled; *striyaa* = by a woman.
-
-**अनुवादः**
-
-"Now Ravana fallen down on to earth from Pushpaka aeroplane having the head shaved, wearing black
-clothes again was seen to be pulled by a woman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *22. raavanashcha* = Ravana also; *dR^iShTaH* = was seen; *mayaa* =
 by me; *kshitau* = on earth; *tailasamukshitaH* = sprinkled with oil; *rakshavaasaaH* = with
 red clothes; *karaviira kR^ita srajaH* = with garlands tied with Oleander flowers; *piban* = drinking
@@ -1034,6 +1017,23 @@ oil; *mattaH* = intoxicated;
 
 "Ravana also was seen by me on earth sprinkled with oil, with red clothes, with garlands tied with
 Oleander flowers, drinking oil and intoxicated."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. adya* = now; *raavaNa* = Ravana; *patitaH* = fallen down; *bhuvi*
+= (on to) earth; *puShpakaat vimaanaat* = from Pushpaka aeroplane; *muNDaH* = having the head shaved;
+*kR^iShNaambaraH* = wearing black clothes; *punaH* = again; *dR^iShTaH* = was seen; *kR^iShyamaaNaH*
+= (to be) pulled; *striyaa* = by a woman.
+
+**अनुवादः**
+
+"Now Ravana fallen down on to earth from Pushpaka aeroplane having the head shaved, wearing black
+clothes again was seen to be pulled by a woman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
@@ -1085,16 +1085,15 @@ _________________
 
 **पदच्छेदः**
 
-*25. aasthitaH* = undertaking; *dakshinaam disham* = southern direction;
-*yayau* = (Ravana) went; *shiighram* = quickly; *gardhabena* = by a donkey; *punareva*
-= again; *ma dR^iShTaH* = it was seen by me; *raakshasesvaraH* = (that) the king of ogres; *raavaNaH*
-= Ravana; *bhaya mohitaH* = stupefied with fear; *patitaH* = fell down; *gardhabaat* = from
-the donkey; *avaakchiraaH* = with head down.
+*24. rakta maalyaanulepanaH* = Wearing red garlands and unguents; *piban* =
+drinking; *tailam* = oil; *hasan* = laughing; *nR^ityan* = dancing; *bhraanta chitta*
+= with a confused mind; *akulendriyaH* = with agitated senses; *rathena* = (Ravana went) by a chariot;
+*kharayuktena* = tied by donkeys;
 
 **अनुवादः**
 
-"Undertaking southern direction, Ravana went quickly by a donkey.Again it was seen by me that the
-king of ogres Ravana stupefied with fear, fell down from the donkey with head down."
+"Wearing red garlands and unguents, drinking oil, laughing, dancing, with a confused mind, with
+agitated senses, Ravana went by a chariot tied by donkeys."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
@@ -1108,15 +1107,16 @@ king of ogres Ravana stupefied with fear, fell down from the donkey with head do
 
 **पदच्छेदः**
 
-*24. rakta maalyaanulepanaH* = Wearing red garlands and unguents; *piban* =
-drinking; *tailam* = oil; *hasan* = laughing; *nR^ityan* = dancing; *bhraanta chitta*
-= with a confused mind; *akulendriyaH* = with agitated senses; *rathena* = (Ravana went) by a chariot;
-*kharayuktena* = tied by donkeys;
+*25. aasthitaH* = undertaking; *dakshinaam disham* = southern direction;
+*yayau* = (Ravana) went; *shiighram* = quickly; *gardhabena* = by a donkey; *punareva*
+= again; *ma dR^iShTaH* = it was seen by me; *raakshasesvaraH* = (that) the king of ogres; *raavaNaH*
+= Ravana; *bhaya mohitaH* = stupefied with fear; *patitaH* = fell down; *gardhabaat* = from
+the donkey; *avaakchiraaH* = with head down.
 
 **अनुवादः**
 
-"Wearing red garlands and unguents, drinking oil, laughing, dancing, with a confused mind, with
-agitated senses, Ravana went by a chariot tied by donkeys."
+"Undertaking southern direction, Ravana went quickly by a donkey.Again it was seen by me that the
+king of ogres Ravana stupefied with fear, fell down from the donkey with head down."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
@@ -1184,28 +1184,6 @@ _________________
 
 **पदच्छेदः**
 
-*28. pramadaa* = a woman; *raktavaasinii* = with red clothes; *kaLii*
-= who was black; *kardamaliptaa~Ngii* = with body smeared with dirt; *badhvaa* = tying; *dashagriivam*
-= Ravana; *kaNThe* = by the throat; *prakarShati* = was pulling him; *yaamyaam disham* =
-in southern direction.
-
-**अनुवादः**
-
-"A woman with red clothes, who was black, with body smeared with dirt, tying Ravana by the throat,
-was pulling hiim in southern direction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-हीगॆ नॆलक्कॆ बिद्द रावणनु भ्रान्तनागि भयपीडितनागिद्दनु. मददिन्द विह्वलनागिद्दनु. हुच्चनन्तॆ काणुत्तिद्दु, दिगम्बरनागिद्दनु. कॆट्टमातुगळिन्द प्रलापिसुत्तिद्दनु.॥27॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 26; *27. saH raavaNaH* = that Ravana; *utthaaya* = rising up; *sahasaa*
 = quickly; *saMbhraantaH* = together with perplexity; *bhayaartaH* = distressed with fear; *madavihvala*
 = excited by passion; *digvaasaa* = being naked; *unmattaH iva* = like a mad man; *praplapan*
@@ -1219,6 +1197,28 @@ was pulling hiim in southern direction."
 "That Ravana rising up quickly, together with perplexity, distressed with fear, excited by passion,
 being naked, like a mad man, prattling many bad words, entering dirt with a bad smell, which was intolerable,
 horrible, dark, like the hell and quickly sank in that."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+हीगॆ नॆलक्कॆ बिद्द रावणनु भ्रान्तनागि भयपीडितनागिद्दनु. मददिन्द विह्वलनागिद्दनु. हुच्चनन्तॆ काणुत्तिद्दु, दिगम्बरनागिद्दनु. कॆट्टमातुगळिन्द प्रलापिसुत्तिद्दनु.॥27॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. pramadaa* = a woman; *raktavaasinii* = with red clothes; *kaLii*
+= who was black; *kardamaliptaa~Ngii* = with body smeared with dirt; *badhvaa* = tying; *dashagriivam*
+= Ravana; *kaNThe* = by the throat; *prakarShati* = was pulling him; *yaamyaam disham* =
+in southern direction.
+
+**अनुवादः**
+
+"A woman with red clothes, who was black, with body smeared with dirt, tying Ravana by the throat,
+was pulling hiim in southern direction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
@@ -1271,21 +1271,6 @@ _________________
 
 **पदच्छेदः**
 
-*30. dashagriivaH* = Ravana; *varaaheNa* = by a pig; *indrajit* = Indrajit;
-*shiMshumaareNa cha* = by a porpoise; *kumbhakarNaH* = Kumbhakarna; *uShtreNa cha* = by a
-camel; *prayaataaH* = set out; *dakshiNaam disham* = in southern direction.
-
-**अनुवादः**
-
-"Ravana by a pig, Indrajit by a porpoise, Kumbhakarna by a camel set out in southern direction."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *29. tatra* = in that (dream); *nishaacharaH* = the ogre; *kumbhakarNaH*
 = Kumbhakarna; *dR^iShTaH* = has been seen; *evam* = thus; *mayaa* = by me; *sarve*
 = all; *raavaNasya* = Ravana's; *sutaaH* = sons; *dR^iShTaaH* = have been seen; *tailasamukshitaaH*
@@ -1295,6 +1280,21 @@ camel; *prayaataaH* = set out; *dakshiNaam disham* = in southern direction.
 
 "In that dream the ogre Kumbhakarna has been seen thus by me. All Ravana's sons have been seen
 to be sprinkled with oil."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. dashagriivaH* = Ravana; *varaaheNa* = by a pig; *indrajit* = Indrajit;
+*shiMshumaareNa cha* = by a porpoise; *kumbhakarNaH* = Kumbhakarna; *uShtreNa cha* = by a
+camel; *prayaataaH* = set out; *dakshiNaam disham* = in southern direction.
+
+**अनुवादः**
+
+"Ravana by a pig, Indrajit by a porpoise, Kumbhakarna by a camel set out in southern direction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>
@@ -1401,6 +1401,31 @@ wearing white garlands and clothes and anointing body with white unguents."
 
 **पदच्छेदः**
 
+*32;33. vibhiiShaNaH* = Vibhishana; *tatra aste* = is there; *alakR^itaH*
+= adorned sha~NkadundubhiniroghoShaiH = with the sound of conch shells and kettledrums; *nR^itta giitaiH*
+= with dances and songs; *aaruhya* = ascended; *divyam gajam* = a best elephant; *shailasaMkaasham*
+= equalling a mountain; *meghastanitanisvanam* = with the sound of a thundering cloud; *chaturdantam*
+= with four tusks; *uoasthitaH* = (he) approached; *vaihaayasam* = the sky; *chaturbhiH sachivaiH
+saartham* = together with four ministers.
+
+**अनुवादः**
+
+"Vibhishana is there adorned with the sound of conch shells and kettledrums, with dances and songs,
+ascended a best elephant equalling a mountain with the sound of a thundering cloud, with four tusks. He approached
+the sky together with four ministers"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अवनु बिळिय वस्त्रवन्नुट्टु, श्वेतवर्णद मालॆगळन्नु धरिसिद्दु, श्वेतगन्धवन्नु पूसिकॊण्डिद्दनु. अवन सुत्तलू शङ्खदुन्दुभिगळ ध्वनिगळिन्दलू, नृत्यगीतगळिन्द आनन्दितनागिद्दनु. अन्तह परिवारदिन्द समलङ्कृतनागिद्द विभीषणनु, शैलसदृशवाद मेघगर्जनॆयन्तॆ घीळिडुत्तिद्द, नाल्कु दन्तगळुळ्ळ दिव्यवाद आनॆय मेलॆ कुळितु, नाल्कु मन्दि सचिवरॊडनॆ आकाशदल्लि उपस्थितनागिद्दनु.॥33-35॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *34. samaajashcha* = an assembly also; *rakshasaam* = of ogres; *pibataam*
 = drinking (oil); *raktamaalyaanaam* = wearing red garlands; *raktvaasasaam* = with red clothes;giitavaaditraniHsvanaH
 = with the sound of songs and musical instruments; *dR^iShtaH* = has been seen; *mayaa* = by me.
@@ -1411,11 +1436,6 @@ wearing white garlands and clothes and anointing body with white unguents."
 of songs and musical instruments has been seen by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अवनु बिळिय वस्त्रवन्नुट्टु, श्वेतवर्णद मालॆगळन्नु धरिसिद्दु, श्वेतगन्धवन्नु पूसिकॊण्डिद्दनु. अवन सुत्तलू शङ्खदुन्दुभिगळ ध्वनिगळिन्दलू, नृत्यगीतगळिन्द आनन्दितनागिद्दनु. अन्तह परिवारदिन्द समलङ्कृतनागिद्द विभीषणनु, शैलसदृशवाद मेघगर्जनॆयन्तॆ घीळिडुत्तिद्द, नाल्कु दन्तगळुळ्ळ दिव्यवाद आनॆय मेलॆ कुळितु, नाल्कु मन्दि सचिवरॊडनॆ आकाशदल्लि उपस्थितनागिद्दनु.॥33-35॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1431,26 +1451,6 @@ elephants; *bhagnagopuratoraNaa* = with broken gates and arches; *patitaa* = fal
 
 "This beautiful city of Lanka has also been seen together with horses and elephants with broken
 gates and arches fallen down in the ocean."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*32;33. vibhiiShaNaH* = Vibhishana; *tatra aste* = is there; *alakR^itaH*
-= adorned sha~NkadundubhiniroghoShaiH = with the sound of conch shells and kettledrums; *nR^itta giitaiH*
-= with dances and songs; *aaruhya* = ascended; *divyam gajam* = a best elephant; *shailasaMkaasham*
-= equalling a mountain; *meghastanitanisvanam* = with the sound of a thundering cloud; *chaturdantam*
-= with four tusks; *uoasthitaH* = (he) approached; *vaihaayasam* = the sky; *chaturbhiH sachivaiH
-saartham* = together with four ministers.
-
-**अनुवादः**
-
-"Vibhishana is there adorned with the sound of conch shells and kettledrums, with dances and songs,
-ascended a best elephant equalling a mountain with the sound of a thundering cloud, with four tusks. He approached
-the sky together with four ministers"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga27/sundarasans27.htm)
 </details>

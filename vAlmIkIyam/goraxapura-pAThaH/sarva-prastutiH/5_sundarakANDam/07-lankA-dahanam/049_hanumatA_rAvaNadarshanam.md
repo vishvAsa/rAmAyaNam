@@ -906,15 +906,18 @@ _________________
 
 **पदच्छेदः**
 
-*20. dR^iSTvaa* = seeing; *prabhaavam* = the power; *raakSasaraajasya*
-= of Ravana the king of demons; *amitonjasaH* = who had an unlimited vigour; *matimaan*
-= the intelligent; *hariH* = Hanuma; *akarot* = formed; *bahuvidhaam* = many kinds;
-*chintaam* = of thought; *iti* = in this way.
+*19. asya karmabhiH* = by his acts; *kruuraH* = cruel; *nR^ishamsaishcha*
+= and violent; *lokakutsitaiH* = despised by the world; *sarve lokaaH* = all people;
+*samara daanavaaH* = including gods and demons; *bibhyati hi* = indeed remain frighteed;
+*asmaat* = of him; *ayam* = he; *kruddhaH* = if enraged; *utsahate hi* =
+is indeed capable; *kartum* = to turn; *jagat* = the world; *ekaarNavan* = into
+a single ocean.
 
 **अनुवादः**
 
-Seeing the power of Ravana the king of demons, who possessed an unlimited vigour, the
-intelligent Hanuma formulated many kinds of thoughts in this way.
+"By his cruel and violent acts despised by the world, all people including gods and demons
+indeed remain frightened of him. If enraged he is indeed capable to turn the entire world into a single
+ocean."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>
@@ -928,18 +931,15 @@ intelligent Hanuma formulated many kinds of thoughts in this way.
 
 **पदच्छेदः**
 
-*19. asya karmabhiH* = by his acts; *kruuraH* = cruel; *nR^ishamsaishcha*
-= and violent; *lokakutsitaiH* = despised by the world; *sarve lokaaH* = all people;
-*samara daanavaaH* = including gods and demons; *bibhyati hi* = indeed remain frighteed;
-*asmaat* = of him; *ayam* = he; *kruddhaH* = if enraged; *utsahate hi* =
-is indeed capable; *kartum* = to turn; *jagat* = the world; *ekaarNavan* = into
-a single ocean.
+*20. dR^iSTvaa* = seeing; *prabhaavam* = the power; *raakSasaraajasya*
+= of Ravana the king of demons; *amitonjasaH* = who had an unlimited vigour; *matimaan*
+= the intelligent; *hariH* = Hanuma; *akarot* = formed; *bahuvidhaam* = many kinds;
+*chintaam* = of thought; *iti* = in this way.
 
 **अनुवादः**
 
-"By his cruel and violent acts despised by the world, all people including gods and demons
-indeed remain frightened of him. If enraged he is indeed capable to turn the entire world into a single
-ocean."
+Seeing the power of Ravana the king of demons, who possessed an unlimited vigour, the
+intelligent Hanuma formulated many kinds of thoughts in this way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga49/sundarasans49.htm)
 </details>

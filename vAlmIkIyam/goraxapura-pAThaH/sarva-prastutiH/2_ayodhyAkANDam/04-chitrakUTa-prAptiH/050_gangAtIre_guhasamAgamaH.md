@@ -1696,6 +1696,29 @@ _________________
 
 **पदच्छेदः**
 
+*37. upaadaaya* = having brought; *annaadyam* = pristine cooked
+rice; *guNavat* = of excellent quality; *prithagvidham* = and other dishes of various
+kinds; *tataH* = (he) then; *kshhipram* = quickly; *upaanayat* = offered
+(him); *arghyamcha* = water to wash his hands;uvaacha ha = and spoke; *idam* = these;
+*vaakyamcha* = words:
+
+**अनुवादः**
+
+Having brought pristine cooked rice of excellent quality and other dishes of various
+kinds, he then quickly offered him water to wash his hands and spoke as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+मत्तॆ बगॆ-बगॆय उत्तम आहारवन्नु तन्दिरिसिदनु. अवनु शीघ्रवागि अर्घ्यवन्नु निवेदिसि, ई प्रकार हेळिदनु-महाबाहो! निनगॆ स्वागतवु. नन्न अधिकारदल्लिरुव राज्यवु निन्नदे आगिदॆ. नीनु नमगॆ स्वामियागिरुवॆ, नावु निन्न सेवकरागिरुवॆवु. इन्दिनिन्द ई नम्म राज्यवन्नु नीने पालिसु. ई भक्ष्य-भोज्य, पेय, लेह्य मॊदलादवुगळु निन्न सेवॆगॆ इरिसिद्देवॆ, इदन्नु स्वीकार माडु. ई उत्तमोत्तम शय्यॆगळु हागू कुदुरॆगळिगागि कडलॆ, हुल्लु इरिसिदॆ, इदॆल्ल सामग्रिगळन्नु स्वीकरिसु.॥37-39॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *38. svaagatam* = "welcome; *te* = to you; *mahaabaaho* =
 oh; *mighty armed! akhilaa* = All; *iyam mahii* = this land; *tava* = is
 yours. vayam = We; *preshhyaaH* = are servants. bhavaan = You; *bhartaa* = are the
@@ -1708,11 +1731,6 @@ efficiently."
 are the Lord. Rule over our kingdom in an efficient way."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-मत्तॆ बगॆ-बगॆय उत्तम आहारवन्नु तन्दिरिसिदनु. अवनु शीघ्रवागि अर्घ्यवन्नु निवेदिसि, ई प्रकार हेळिदनु-महाबाहो! निनगॆ स्वागतवु. नन्न अधिकारदल्लिरुव राज्यवु निन्नदे आगिदॆ. नीनु नमगॆ स्वामियागिरुवॆ, नावु निन्न सेवकरागिरुवॆवु. इन्दिनिन्द ई नम्म राज्यवन्नु नीने पालिसु. ई भक्ष्य-भोज्य, पेय, लेह्य मॊदलादवुगळु निन्न सेवॆगॆ इरिसिद्देवॆ, इदन्नु स्वीकार माडु. ई उत्तमोत्तम शय्यॆगळु हागू कुदुरॆगळिगागि कडलॆ, हुल्लु इरिसिदॆ, इदॆल्ल सामग्रिगळन्नु स्वीकरिसु.॥37-39॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1728,24 +1746,6 @@ food; *te* = for your; *vaajinaam* = horses."
 
 "Here have arrived various kinds of dishes, drinks and syrups as also excellent beds
 (for you to sleep on) and food for your horses"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*37. upaadaaya* = having brought; *annaadyam* = pristine cooked
-rice; *guNavat* = of excellent quality; *prithagvidham* = and other dishes of various
-kinds; *tataH* = (he) then; *kshhipram* = quickly; *upaanayat* = offered
-(him); *arghyamcha* = water to wash his hands;uvaacha ha = and spoke; *idam* = these;
-*vaakyamcha* = words:
-
-**अनुवादः**
-
-Having brought pristine cooked rice of excellent quality and other dishes of various
-kinds, he then quickly offered him water to wash his hands and spoke as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>
@@ -1808,6 +1808,24 @@ kinds, he then quickly offered him water to wash his hands and spoke as follows:
 
 **पदच्छेदः**
 
+*40;41. guham* = to Guha; *bruvaaNam* = who was speaking;
+*evam* = as aforesaid; *raaghavaH* = Rama; *pratyuvaacha ha* = replied thus:
+architaashchaiva = "we stand honoured; *bhavataa* = by you; *abhigamachchaiva* = by
+your very visit; *padbhyaam* = on foot; *snehasamdarshanenacha* = as well as your
+show of affection; *hR^ishhTaashcha* = and are pleased(with you)."
+
+**अनुवादः**
+
+To Guha who was speaking as aforesaid, Rama replied thus: "We stand honored by you,
+by your very visit to us on foot, as well as your show of affection and are pleased with you"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *42;43. piidayam* = pressing; *saadhu* = gently;
 *pinaabhyaam* = with his muscular; *bhujaabhyaam* = arms; *abraviit* = (Rama)
 spoke; *vaakyam* = (these) words; *guha* = "Oh; *Guha! dishhTyaa* = Thank
@@ -1821,24 +1839,6 @@ the treasure?"
 Pressing gently with his muscular arms, Rama spoke these words: " Oh, Guha! Thank
 heaven that I am seeing you in good health with your relatives. Is all well with the kingdom, the
 allies and the treasure?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*40;41. guham* = to Guha; *bruvaaNam* = who was speaking;
-*evam* = as aforesaid; *raaghavaH* = Rama; *pratyuvaacha ha* = replied thus:
-architaashchaiva = "we stand honoured; *bhavataa* = by you; *abhigamachchaiva* = by
-your very visit; *padbhyaam* = on foot; *snehasamdarshanenacha* = as well as your
-show of affection; *hR^ishhTaashcha* = and are pleased(with you)."
-
-**अनुवादः**
-
-To Guha who was speaking as aforesaid, Rama replied thus: "We stand honored by you,
-by your very visit to us on foot, as well as your show of affection and are pleased with you"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm)
 </details>

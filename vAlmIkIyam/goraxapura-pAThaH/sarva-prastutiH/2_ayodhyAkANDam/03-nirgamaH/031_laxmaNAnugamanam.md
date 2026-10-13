@@ -955,6 +955,29 @@ _________________
 
 **पदच्छेदः**
 
+*20. yasyaaH* = upon which Kausalya; *sahasram* = thousand;
+*graamaaNaam* = villages; *sampraaptam* = obtained by her; *upajiivinaam* =
+are living in dependence; *aaryaa* = that venerable; *kausalyaa* = Kausalya;
+*bibhR^iyaat* = can maintain; *sahasramapi* = even thousand; *madvidhaan* = of
+my type.
+
+**अनुवादः**
+
+"Kausalya obtained (by grant) thousand villages , which are dependent on her. Hence,
+that venerable Kausalya can maintain even thousand people like me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+वीरवरने! ई उत्तम राज्यवन्नु पडॆदु भरतनु तप्पु दारियल्लि नडॆदरॆ, दूषित हृदयदिन्द हागू उद्धटतनदिन्द तायन्दिरन्नु रक्षिसदिद्दरॆ नानु आ दुर्बुद्धि, क्रूर भरतनन्नु, मत्तु अवन पक्षवन्नु समर्थिसुव ऎल्ल जनरन्नु वधिसिबिडुवॆनु; इदरल्लि संशयविल्ल. मूरु लोकगळू अवन पक्षवन्नु वहिसिदरॆ अवरु यमसदनक्कॆ होगबेकागुवुदु. आदरॆ दॊड्डम्म कौसल्यॆयादरो स्वतः नन्नन्तह साविरारु मनुष्यरन्नु साकबल्लळु; एकॆन्दरॆ अवळिगॆ तन्न आश्रितरन्नु पालिसलु ऒन्दु साविर ऊरुगळु सिक्किवॆ.॥20-22॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *21. tat* = that is why; *yashasvinii* = the illustrious
 Kausalya; *paryaaptaa* = is competent not only; *aatmabharaNaichaiva* = to maintain
 herself; *tathaivacha* = but also; *mama maatuH* = my mother; *bharaNaayacha*
@@ -966,11 +989,6 @@ herself; *tathaivacha* = but also; *mama maatuH* = my mother; *bharaNaayacha*
 mother and people like me in addition."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-वीरवरने! ई उत्तम राज्यवन्नु पडॆदु भरतनु तप्पु दारियल्लि नडॆदरॆ, दूषित हृदयदिन्द हागू उद्धटतनदिन्द तायन्दिरन्नु रक्षिसदिद्दरॆ नानु आ दुर्बुद्धि, क्रूर भरतनन्नु, मत्तु अवन पक्षवन्नु समर्थिसुव ऎल्ल जनरन्नु वधिसिबिडुवॆनु; इदरल्लि संशयविल्ल. मूरु लोकगळू अवन पक्षवन्नु वहिसिदरॆ अवरु यमसदनक्कॆ होगबेकागुवुदु. आदरॆ दॊड्डम्म कौसल्यॆयादरो स्वतः नन्नन्तह साविरारु मनुष्यरन्नु साकबल्लळु; एकॆन्दरॆ अवळिगॆ तन्न आश्रितरन्नु पालिसलु ऒन्दु साविर ऊरुगळु सिक्किवॆ.॥20-22॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -987,24 +1005,6 @@ accomplishing my object; *tava* = your; *arthattcha* = purpose also;
 
 "Make me your attendant. In this, there is no unrighteousness. Besides, I will be
 accomplishing my object. Your purpose also will be fulfilled."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*20. yasyaaH* = upon which Kausalya; *sahasram* = thousand;
-*graamaaNaam* = villages; *sampraaptam* = obtained by her; *upajiivinaam* =
-are living in dependence; *aaryaa* = that venerable; *kausalyaa* = Kausalya;
-*bibhR^iyaat* = can maintain; *sahasramapi* = even thousand; *madvidhaan* = of
-my type.
-
-**अनुवादः**
-
-"Kausalya obtained (by grant) thousand villages , which are dependent on her. Hence,
-that venerable Kausalya can maintain even thousand people like me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>
@@ -1304,47 +1304,6 @@ _________________
 
 **पदच्छेदः**
 
-*30. lakshmaNaH* = Lakshmana; *nishahitaH* = who was assured;
-*vanavaasaaya* = of his sojourn in the forest; *aamantrya* = after bidding good bye;
-*suhR^ijjanam* = to his griends; *aagamya* = approached; *ikshhvaakugurum* =
-Vasista; the preceptor of Ikshvaku dynasty; *garaaha* = took; *uttamam* = the
-excellent; *aayudham* = arms.
-
-**अनुवादः**
-
-Lakshmana, who was assured of his sojourn in the forest, after bidding good bye ot
-his friends, approached Vasista the preceptor of Ikshvaku dynasty and took the excellent
-armoury.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-लक्ष्मण! राजा जनकन महायज्ञदल्लि स्वयं महात्मा वरुणनु नोडलु भयङ्करवाद ऎरडु दिव्य धनुस्सुगळन्नु कॊट्टिद्दनु; जॊतॆगॆ ऎरडु दिव्य अभेद्य कवचगळु, अक्षयबाणगळिन्द तुम्बिद ऎरडु बत्तळिकॆगळु, सूर्यनन्तॆ हॊळॆयुव ऎरडु सुवर्णभूषित खड्गगळु, इवन्नु मिथिला नरेशनु ननगॆ बळुवळियागि कॊट्टिद्दनु. अवॆल्ल वन्नु आचार्यदेवन मनॆयल्लि सत्कारपूर्वक इडलागिदॆ. नीनु अवॆल्ल आयुधगळन्नु ऎत्तिकॊण्डु बेगने बन्दु बिडु.॥29-31॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*31. saumitriH* = Lakshmana; *raajashaarduulaH* = a tiger among
-princes; *dadarshayaamaasa* = showed; *raamaaya* = to Rama; *sarvam* = all;
-*tat aayadham* = those arms; *divyam* = which are divine; *satkR^itam* = which
-were worshipped maalya bhuushhitam = and decorated by garlands.
-
-**अनुवादः**
-
-Lakshmana, a tiger among princes, showed to Rama all those arms, which were divine,
-being worshipped and decorated by garlands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27;28;29. lakshmana* = Oh; *Lakshmana! varuNaH* = Varuna;
 *mahatmaa* = the great souled; *svayam* = himself; *mahaayajJNe* = at a grand
 sacrifice; *janakasya* = of Janaka; *raajJNaH* = the king; *dadau* = gave;
@@ -1365,6 +1324,47 @@ of water) personally gave heavently bows which are dreadful to look at, divine i
 of armour, quivers containing an inexhanstible stock of arms, two swords decked with gold and with
 spotless lustre like that of a sun - all these were kept at the residence of our receptor Vasista,
 after paying due reverence. Take all those arms and return soon."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+लक्ष्मण! राजा जनकन महायज्ञदल्लि स्वयं महात्मा वरुणनु नोडलु भयङ्करवाद ऎरडु दिव्य धनुस्सुगळन्नु कॊट्टिद्दनु; जॊतॆगॆ ऎरडु दिव्य अभेद्य कवचगळु, अक्षयबाणगळिन्द तुम्बिद ऎरडु बत्तळिकॆगळु, सूर्यनन्तॆ हॊळॆयुव ऎरडु सुवर्णभूषित खड्गगळु, इवन्नु मिथिला नरेशनु ननगॆ बळुवळियागि कॊट्टिद्दनु. अवॆल्ल वन्नु आचार्यदेवन मनॆयल्लि सत्कारपूर्वक इडलागिदॆ. नीनु अवॆल्ल आयुधगळन्नु ऎत्तिकॊण्डु बेगने बन्दु बिडु.॥29-31॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. lakshmaNaH* = Lakshmana; *nishahitaH* = who was assured;
+*vanavaasaaya* = of his sojourn in the forest; *aamantrya* = after bidding good bye;
+*suhR^ijjanam* = to his griends; *aagamya* = approached; *ikshhvaakugurum* =
+Vasista; the preceptor of Ikshvaku dynasty; *garaaha* = took; *uttamam* = the
+excellent; *aayudham* = arms.
+
+**अनुवादः**
+
+Lakshmana, who was assured of his sojourn in the forest, after bidding good bye ot
+his friends, approached Vasista the preceptor of Ikshvaku dynasty and took the excellent
+armoury.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. saumitriH* = Lakshmana; *raajashaarduulaH* = a tiger among
+princes; *dadarshayaamaasa* = showed; *raamaaya* = to Rama; *sarvam* = all;
+*tat aayadham* = those arms; *divyam* = which are divine; *satkR^itam* = which
+were worshipped maalya bhuushhitam = and decorated by garlands.
+
+**अनुवादः**
+
+Lakshmana, a tiger among princes, showed to Rama all those arms, which were divine,
+being worshipped and decorated by garlands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga31/ayodhyasans31.htm)
 </details>

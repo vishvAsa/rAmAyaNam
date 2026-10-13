@@ -364,6 +364,23 @@ monkey-troops. Rama came to the camp where the army had been stationed.
 
 **पदच्छेदः**
 
+*8. atha* = then; *saH kaakutthsaH* = Rama; *uvaacha* =
+spoke; *(as follows) lakShmaNam* = to Lakshmana; *saumitrim* = the son of Sumitra;
+*sattva sampannam* = endowed as he was with strength; *shubhalakShaNam* = and having
+auspicious marks; *samiipa parivartanam* = who stayed nearby.
+
+**अनुवादः**
+
+Then, Rama spoke (as follows) to Lakshmana, son of Sumitra, who was endowed with
+strength and having auspicious marks, who stayed nearby.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *9. saumya* = O the benevolent Lakshmana!; *abhiShechaya* =
 consecrate; *laN^kaayaam* = on the throne of Lanka; *imam vibhiiShaNam* = this
 Vibhishana; *anuraktam* = to whom everyone is attached; *bhaktam cha* = a loyal
@@ -375,23 +392,6 @@ to us.
 "O the benevolent Lakshmana! Consecrate on the throne of Lanka, this Vibhishana to
 whom everyone is attached, a loyal person as he is and the one who has formerly done a service to
 us."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*8. atha* = then; *saH kaakutthsaH* = Rama; *uvaacha* =
-spoke; *(as follows) lakShmaNam* = to Lakshmana; *saumitrim* = the son of Sumitra;
-*sattva sampannam* = endowed as he was with strength; *shubhalakShaNam* = and having
-auspicious marks; *samiipa parivartanam* = who stayed nearby.
-
-**अनुवादः**
-
-Then, Rama spoke (as follows) to Lakshmana, son of Sumitra, who was endowed with
-strength and having auspicious marks, who stayed nearby.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
@@ -474,6 +474,23 @@ brother of Ravana being consecrated for throne in Lanka."
 
 **पदच्छेदः**
 
+*11. evam* = thus; *uktaH* = spoken; *mahaatmanaa* = by
+the great souled; *raaghaveNa* = Rama; *saumitriH* = Lakshmana; *uktvaa
+tatheti* = saying; "so it be"; *susamhR^iShTaH* = and rejoicingly; *aadade* =
+procured; *sauvarNam* = a golden; *ghaTam* = pot.
+
+**अनुवादः**
+
+Hearing the words of the great soled Rama, Lakshmana replied, 'so it be' and
+rejoicingly procured a golden pot.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *12. mahaasattvaH* = that mighty Lakshmana; *tadaa* = then;
 *dattvaa* = placing; *tam* = that; *ghaTam* = pot; *haste* = in the
 hands; *vaanerendraaNaam* = of the monkey-chiefs; *vyaadidesha* = instructed;
@@ -484,23 +501,6 @@ sea-water.
 
 That mighty Lakshmana, then placing that pot in the hands of the monkey-chiefs,
 instructed them, who were as swift as thought, to bring sea-water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*11. evam* = thus; *uktaH* = spoken; *mahaatmanaa* = by
-the great souled; *raaghaveNa* = Rama; *saumitriH* = Lakshmana; *uktvaa
-tatheti* = saying; "so it be"; *susamhR^iShTaH* = and rejoicingly; *aadade* =
-procured; *sauvarNam* = a golden; *ghaTam* = pot.
-
-**अनुवादः**
-
-Hearing the words of the great soled Rama, Lakshmana replied, 'so it be' and
-rejoicingly procured a golden pot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
@@ -598,23 +598,6 @@ _________________
 
 **पदच्छेदः**
 
-*16. tadaa* = then; *sarve raakShasaaH* = all the demons;
-*tathaa* = as well as; *vaanaraaH* = the monkeys; *abhyaShiN^chan* =
-consecrated; (Vibhishana); *gatvaa* = having obtained; *atulam praharSham* = extra
-ordinary delight; *tuShTuvuH* = (they) eulogized; *raameva hi* = Rama indeed.
-
-**अनुवादः**
-
-Then, all the demons as well as the monkeys consecrated Vibhishana. Having gained
-extra ordinary delight, they indeed eulogized Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14-15. tataH* = thereafter; *saumitriH* = Lakshmana;
 *suhR^idgaNa samaavR^itaH* = together with his friends; *gR^ihya* = taking;
 *ekam* = one; *ghaTam* = pot; *vibhiishaNam samsthaapya* = making Vibhishana
@@ -630,6 +613,23 @@ Thereupon, Lakshmana together with his friends, taking one pot and making Vibhis
 to sit on the throne, sprinkled him with sea-water from that pot in accordance with the rule
 prescribed in Vedic scriptures, while the demons were witnessing the ceremony, to make him the king
 for Lanka, as directed by Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. tadaa* = then; *sarve raakShasaaH* = all the demons;
+*tathaa* = as well as; *vaanaraaH* = the monkeys; *abhyaShiN^chan* =
+consecrated; (Vibhishana); *gatvaa* = having obtained; *atulam praharSham* = extra
+ordinary delight; *tuShTuvuH* = (they) eulogized; *raameva hi* = Rama indeed.
+
+**अनुवादः**
+
+Then, all the demons as well as the monkeys consecrated Vibhishana. Having gained
+extra ordinary delight, they indeed eulogized Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
@@ -675,24 +675,6 @@ for Lanka, as directed by Rama.
 
 **पदच्छेदः**
 
-*18. raaghavaH* = Rama; *saha lakShmaNaH* = together with
-Lakshmana; *jagaama* = obtained; *paramaam* = great; *priitim* = delight;
-*saH* = that; *vibhiiShaNaH* = Vibhishana; *praapya* = having gained; *tat
-mahat raajyam* = that great kingdom; *raama dattam* = bestowed on him by Rama; (was also
-greatly delighted).
-
-**अनुवादः**
-
-Rama together with Lakshmana were greatly delighted. That Vibhishana, having gained
-that great kingdom bestowed on him by Rama, was also greatly delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *17. dR^iShTvaa* = seeing; *vibhiiShaNam* = Vibhishana;
 *raakShasendram* = the lord of demons; *abhShiktam* = consecrated;
 *laN^kaayaam* = for the throne of Lanka; *tasya* = his; *amaatyaaH* = (four)
@@ -704,6 +686,24 @@ to him; *jahR^iShire* = were rejoiced.
 Seeing Vibhishana the lord of demons consecrated for the throne of Lanka, his four
 counsellors who were always together with him and such of those demons who were devoted to him,
 were rejoiced.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. raaghavaH* = Rama; *saha lakShmaNaH* = together with
+Lakshmana; *jagaama* = obtained; *paramaam* = great; *priitim* = delight;
+*saH* = that; *vibhiiShaNaH* = Vibhishana; *praapya* = having gained; *tat
+mahat raajyam* = that great kingdom; *raama dattam* = bestowed on him by Rama; (was also
+greatly delighted).
+
+**अनुवादः**
+
+Rama together with Lakshmana were greatly delighted. That Vibhishana, having gained
+that great kingdom bestowed on him by Rama, was also greatly delighted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>
@@ -1012,23 +1012,6 @@ entering into the City of Lanka, inform about our welfare to Seetha."
 
 **पदच्छेदः**
 
-*26. hariishvara* = O the master of monkeys!; *udaahR^itya* =
-making clear; *etat* = this; *priyam* = favourite news; *vaidehyaaH* = to
-Seetha; *arhasi* = you ought; *upaavartitum* = to return; *pratigR^ihya* =
-taking back; *samdesham* = her message.
-
-**अनुवादः**
-
-"O Hanuma the master of monkeys! Making clear this favourite news to Seetha, you
-ought to return, taking back her message."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *25. shreShTha vadataam* = O Hanuma; the proficient one in speech!;
 *aachakShva* = tell; *vaidehyai* = Seetha; (that); *maam* = myself; *sa
 lakShmaNam* = along with Lakshmana; *sugriivam cha* = and Sugreeva; *kushalinam*
@@ -1039,6 +1022,23 @@ in battle.
 
 "O Hanuma, the proficient one in speech! Inform Seetha that myself together with
 Lakshmana and Sugreeva are well and that Ravana had been killed in battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. hariishvara* = O the master of monkeys!; *udaahR^itya* =
+making clear; *etat* = this; *priyam* = favourite news; *vaidehyaaH* = to
+Seetha; *arhasi* = you ought; *upaavartitum* = to return; *pratigR^ihya* =
+taking back; *samdesham* = her message.
+
+**अनुवादः**
+
+"O Hanuma the master of monkeys! Making clear this favourite news to Seetha, you
+ought to return, taking back her message."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga112/yuddhasans112.htm)
 </details>

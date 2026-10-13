@@ -140,23 +140,6 @@ _________________
 
 **पदच्छेदः**
 
-*4. atha* = thereafter; *pupluve* = (Hanuma) flew; *naaraachaH iva*
-= like a Naracha arrow; *jyaa muktaH* = released from bow string; *vR^ikSaan vaaTikaam* = toward
-the garden; *aamravaNa samchannaam* = covered by mango trees; *lataa shata samaavR^itaam* = and
-surrounded by hundreds of creepers
-
-**अनुवादः**
-
-Thereafter Hanuma flew like a Naracha arrow released from bow string, toward the garden covered
-by mango trees and surrounded by hundreds of creepers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2;3. saH mahaa kapiH* = that great Hanuma; *samhR^iSTa sarva angaH* = with
 joyful limbs; *praakaarasthaH* = being on enclosure wall; *dadarsha* = saw; *vidvidhaan drumaan*
 = various trees; *saalaan* = (such as) Sal; *bhavyaan ashokaan* = beautiful Ashoka; *su puSpitaan
@@ -169,6 +152,23 @@ of a monkey; *puSpita agraan* = in full blossom; *vasanta aadau* = at the start 
 That great Hanuma with joyful limbs, being on enclosure wall saw various trees such as Sal, beautiful
 Ashoka, Champaka full of flowers, Uddalaka, Naga, mango trees with their fruit in the colour of the snout of a
 monkey, in full blossom at the start of the spring.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*4. atha* = thereafter; *pupluve* = (Hanuma) flew; *naaraachaH iva*
+= like a Naracha arrow; *jyaa muktaH* = released from bow string; *vR^ikSaan vaaTikaam* = toward
+the garden; *aamravaNa samchannaam* = covered by mango trees; *lataa shata samaavR^itaam* = and
+surrounded by hundreds of creepers
+
+**अनुवादः**
+
+Thereafter Hanuma flew like a Naracha arrow released from bow string, toward the garden covered
+by mango trees and surrounded by hundreds of creepers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
@@ -1656,15 +1656,15 @@ _________________
 
 **पदच्छेदः**
 
-*42. drakSyaami* = I will see; *yadR^icchayaa* = by God's grace; *itaH*
-= here; *vaidehiim* = Seetha; *raama darshana laalasaam* = who is interested in the sight of Sri
-Rama; *sampatantiim* = while she is moving; *itaH ca itaH ca* = here and there; *duhkha aartaam*
-= with grief.
+*41. saH* = Hanuma; *mahaa baahuH* = with great arms; *aaruhya* = climbing
+up; *taam* = that shimshupaa tree; *puSpita agraam* = with well flowered ends; *ruciraam*
+= beautiful one; *taruNa ankura pallavaam* = mature with young shoots and leaves; *parNa samvR^itaam*
+= and covered by leaves.
 
 **अनुवादः**
 
-"I will see by God's grace, Seetha who is interested in the sight of Sri Rama while she is moving
-here and there with grief."
+Hanuma with great arms climbing up that shimshupaa tree with well flowered ends, beautiful tree,
+mature with young shoots and leaves and covered by leaves (thought thus).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
@@ -1678,15 +1678,15 @@ here and there with grief."
 
 **पदच्छेदः**
 
-*41. saH* = Hanuma; *mahaa baahuH* = with great arms; *aaruhya* = climbing
-up; *taam* = that shimshupaa tree; *puSpita agraam* = with well flowered ends; *ruciraam*
-= beautiful one; *taruNa ankura pallavaam* = mature with young shoots and leaves; *parNa samvR^itaam*
-= and covered by leaves.
+*42. drakSyaami* = I will see; *yadR^icchayaa* = by God's grace; *itaH*
+= here; *vaidehiim* = Seetha; *raama darshana laalasaam* = who is interested in the sight of Sri
+Rama; *sampatantiim* = while she is moving; *itaH ca itaH ca* = here and there; *duhkha aartaam*
+= with grief.
 
 **अनुवादः**
 
-Hanuma with great arms climbing up that shimshupaa tree with well flowered ends, beautiful tree,
-mature with young shoots and leaves and covered by leaves (thought thus).
+"I will see by God's grace, Seetha who is interested in the sight of Sri Rama while she is moving
+here and there with grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>
@@ -1845,6 +1845,22 @@ _________________
 
 **पदच्छेदः**
 
+*45. raama mahiSii* = the wife of Sri Rama; *raaghavasya priyaa* = dear to
+Sri Rama; *satii* = a chaste wife; *raama* = soul captivating one; *vana samcaara kushalaa*
+= expert at moving in forest; *saa jaanakii* = that Janaki; *nunam eSyati* = will definitely come.
+
+**अनुवादः**
+
+"The wife of Sri Rama dear to Sri Rama, a chaste wife, soul captivating one, expert at moving in
+forest, that Janaki will definitely come."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *46. athavaa* = otherwise; *mR^iga shaava akSii* = one with the eyes of a deer;
 *asya vanasya vicakSaNaa* = conversant with the forest; *raama cinta anukarshitaa* = emaciated by
 the thought of Sri Rama; *saa aarya* = that noble one; *eSyati* = will come; *iha vanam*
@@ -1854,22 +1870,6 @@ the thought of Sri Rama; *saa aarya* = that noble one; *eSyati* = will come; *ih
 
 "Otherwise one with the eyes of a deer, emaciated by the thought of Sri Rama, that noble one will
 come for this garden."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*45. raama mahiSii* = the wife of Sri Rama; *raaghavasya priyaa* = dear to
-Sri Rama; *satii* = a chaste wife; *raama* = soul captivating one; *vana samcaara kushalaa*
-= expert at moving in forest; *saa jaanakii* = that Janaki; *nunam eSyati* = will definitely come.
-
-**अनुवादः**
-
-"The wife of Sri Rama dear to Sri Rama, a chaste wife, soul captivating one, expert at moving in
-forest, that Janaki will definitely come."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga14/sundarasans14.htm)
 </details>

@@ -336,6 +336,23 @@ here and there by means of axes, hatchets and sickles.
 
 **पदच्छेदः**
 
+*8. apare* = some others; *balavattaraaH* = having better
+strength; *vidhamantisma* = removed; *balinaH* = sturdy; *viiraNa stambhaan* =
+tufts of Virana grass; *sthalaami* = and leveled; *durgaaNi* = the uneven places;
+*tatastataH* = here and there.
+
+**अनुवादः**
+
+Some other strong men removed sturdy tufts of Virana grass and leveled the uneven
+places here and there.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *9. apare* = some others; *apuurayan* = filled up;
 *kuupaan* = wells; *aayatam* = and extensive; *shvabhram* = pits;
 *paamsubhiH* = with earth; *tataH* = then; *kechit* = some; *samaan
@@ -346,23 +363,6 @@ around.
 
 Some others filled up wells and extensive pits with earth. Some men leveled
 low-lying places all around.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*8. apare* = some others; *balavattaraaH* = having better
-strength; *vidhamantisma* = removed; *balinaH* = sturdy; *viiraNa stambhaan* =
-tufts of Virana grass; *sthalaami* = and leveled; *durgaaNi* = the uneven places;
-*tatastataH* = here and there.
-
-**अनुवादः**
-
-Some other strong men removed sturdy tufts of Virana grass and leveled the uneven
-places here and there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>
@@ -800,6 +800,23 @@ capitals of Indra.
 
 **पदच्छेदः**
 
+*21. (the route thus prepared) samaasaadya* = extended;
+*jaahnaviim* = upto the Ganga River; *shitalamala paaniiyaam* = whose pure and limpid
+waters; *mahaamiinasamaakulaam* = abounding in great fish; *vividha drumakaananaam* =
+(flowed) between woods and forests of every kind.
+
+**अनुवादः**
+
+The route thus prepared, extended upto the Ganga River, whose pure and limpid
+waters, abounding in great fish, flowed between woods and forests of every kind.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *22. saH* = that; *ramyaH* = beautiful; *narendramaargaH*
 = royal high way; *shubha shilpinirmitaH* = which was built gradually by excellent
 engineers; *vyaraajata tathaa* = appeared as resplendent; *yathaa* = as;
@@ -812,23 +829,6 @@ procession of stars.
 That beautiful royal high way, which was built gradually by efficient engineers,
 appeared as resplendent as a night in a clear sky, illumined by the moon with its procession of
 stars.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*21. (the route thus prepared) samaasaadya* = extended;
-*jaahnaviim* = upto the Ganga River; *shitalamala paaniiyaam* = whose pure and limpid
-waters; *mahaamiinasamaakulaam* = abounding in great fish; *vividha drumakaananaam* =
-(flowed) between woods and forests of every kind.
-
-**अनुवादः**
-
-The route thus prepared, extended upto the Ganga River, whose pure and limpid
-waters, abounding in great fish, flowed between woods and forests of every kind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga80/ayodhyasans80.htm)
 </details>

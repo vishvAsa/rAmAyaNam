@@ -278,17 +278,17 @@ _________________
 
 **पदच्छेदः**
 
-*6. tataH* = then; *saH* = he; amaratulyavikramaH with a prowess
-equal to that of celestials; *nirjagaama* = came forth; *aasthitaH* = mounting; *ratham*
-= the chariot; *sa hema daamnaa* = decorated with golden wreaths; *shashi suurya varchasaa*
-= with a brilliance of the moon and the sun; *pratipuurNa vastunaa* = filled with every right
-thing; *viraajamaanam* = shining; *divaakaraabham* = like rays of sun.
+*4. tataH* = then; (that chariot); *tapaH samgraha samchayaarjitam*
+= was earned by many kinds of his penances; *pratapta jaambuunadjaala shobhitam* = shining with
+a protective armour of highly refined gold; *pataakinam* = adorned iwth a flag; *ratnavibhuuSita
+dhvajam* = on a flag-staff studded with gems; *suyojitam* = yoked well with; *manojavaaSTaashvavaraiH*
+= eight excellent horses; having a speed equal to that of a mind.
 
 **अनुवादः**
 
-Then, Aksha having a prowess equal to that of celestials, came forth, mounting that chariot
-decorated with golden wreaths, having a brilliance of moon and sun, filled with every right thing and
-shining like rays of sun.
+Aksha's chariot was earned through many kinds of his penances. It was shining with a
+protective armour of highly refined gold, adorned with a flag on a flag-staff studded with gems and
+yoked well with eight excellent horses, having speed equal to that of a mind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>
@@ -327,17 +327,17 @@ swords and tied with bells. It was orderly arranged with spears and lances in th
 
 **पदच्छेदः**
 
-*4. tataH* = then; (that chariot); *tapaH samgraha samchayaarjitam*
-= was earned by many kinds of his penances; *pratapta jaambuunadjaala shobhitam* = shining with
-a protective armour of highly refined gold; *pataakinam* = adorned iwth a flag; *ratnavibhuuSita
-dhvajam* = on a flag-staff studded with gems; *suyojitam* = yoked well with; *manojavaaSTaashvavaraiH*
-= eight excellent horses; having a speed equal to that of a mind.
+*6. tataH* = then; *saH* = he; amaratulyavikramaH with a prowess
+equal to that of celestials; *nirjagaama* = came forth; *aasthitaH* = mounting; *ratham*
+= the chariot; *sa hema daamnaa* = decorated with golden wreaths; *shashi suurya varchasaa*
+= with a brilliance of the moon and the sun; *pratipuurNa vastunaa* = filled with every right
+thing; *viraajamaanam* = shining; *divaakaraabham* = like rays of sun.
 
 **अनुवादः**
 
-Aksha's chariot was earned through many kinds of his penances. It was shining with a
-protective armour of highly refined gold, adorned with a flag on a flag-staff studded with gems and
-yoked well with eight excellent horses, having speed equal to that of a mind.
+Then, Aksha having a prowess equal to that of celestials, came forth, mounting that chariot
+decorated with golden wreaths, having a brilliance of moon and sun, filled with every right thing and
+shining like rays of sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga47/sundarasans47.htm)
 </details>

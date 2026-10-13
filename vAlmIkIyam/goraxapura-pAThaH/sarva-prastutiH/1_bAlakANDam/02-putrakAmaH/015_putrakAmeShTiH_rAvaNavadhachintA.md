@@ -660,23 +660,6 @@ oh, god, it will be apt of you to give a thought for his elimination. [1-15-11]
 
 **पदच्छेदः**
 
-*13. tena* = by him [Ravana]; *gandharvayakShaanaam* = for gandharva-s and for
-yaksha-s; *devataanam ca raakShasaam* = by gods and other demons, also; *avadhyaH
-asmi iti* = I shall be not killable, thus; *vaak uktaa* = words, were uttered
-[by Ravana]; *mayaa cha tat tathaa iti uktam* = thus that way said by me.
-
-**अनुवादः**
-
-"Ravana said while seeking boon that, 'I shall not be killed by gandharva-s, yaksha-s, or
-by gods, or by other demons...' and I also said 'so be it..." [1-15-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *12. sarvaiH suraiH evam uktaH* =[Brahma] is spoken this way by all gods;
 *chintayitvaa tataH abraviit* = on thinking, then, said; *tasya duraatmanaH*
 = that, evil minded one's; *ayam vadhopaayaH* = this is the, idea for elimination;
@@ -686,6 +669,23 @@ by gods, or by other demons...' and I also said 'so be it..." [1-15-13]
 
 When all the deities spoke to Brahma thus, he thought for a while and then said "Aha! The
 idea to kill that evil-minded Ravana is discerned. [1-15-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. tena* = by him [Ravana]; *gandharvayakShaanaam* = for gandharva-s and for
+yaksha-s; *devataanam ca raakShasaam* = by gods and other demons, also; *avadhyaH
+asmi iti* = I shall be not killable, thus; *vaak uktaa* = words, were uttered
+[by Ravana]; *mayaa cha tat tathaa iti uktam* = thus that way said by me.
+
+**अनुवादः**
+
+"Ravana said while seeking boon that, 'I shall not be killed by gandharva-s, yaksha-s, or
+by gods, or by other demons...' and I also said 'so be it..." [1-15-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>
@@ -965,24 +965,6 @@ and offering prayers addressed Vishnu. [1-15-18]
 
 **पदच्छेदः**
 
-*21b, 22a. viSNo* = oh Vishnu; *tvam* = you; *tatra* = in them [the
-wombs of queens]; *maanuSaH bhuutva* = on becoming [taking birth] as human; *pravR^iddham*
-= who is exacerbating; *lokakanTakam* = one who is thorny to worlds; *daivataiH
-avadhyam* = not killable by gods; *raavaNam samare jahi* = Ravana be killed in war.
-
-**अनुवादः**
-
-"Oh! Vishnu, on your taking birth as human through the wives of Dasharatha you eliminate Ravana
-in war, who has become exacerbating and thorny to all worlds, and who is otherwise not eliminable
-for gods. [1-15-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *19, 20, 21a. viSNo* = oh Vishnu; *lokaanaam hitakaamyayaa* = desiring prosperity in all worlds;
 *tvaam niyokShyaamahe* = we nominate you; *viSNo* = oh
 Vishnu; *tvam ayodhyaadhipatiH vibhoH* = you are lord of Ayodhya's ruler; *dharmaj~nasya
@@ -1011,6 +993,24 @@ which Queen Sumitra has, by which alone she magnificently and unhesitatingly adv
 Lakshmana to go along with Rama to woods. And the third, *kiirti*, the glory, and the
 glory of Kaika is well known. The position of this epic minus Kaika can be imagined, thereby
 her glory, may it be negative, that may be imagined.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21b, 22a. viSNo* = oh Vishnu; *tvam* = you; *tatra* = in them [the
+wombs of queens]; *maanuSaH bhuutva* = on becoming [taking birth] as human; *pravR^iddham*
+= who is exacerbating; *lokakanTakam* = one who is thorny to worlds; *daivataiH
+avadhyam* = not killable by gods; *raavaNam samare jahi* = Ravana be killed in war.
+
+**अनुवादः**
+
+"Oh! Vishnu, on your taking birth as human through the wives of Dasharatha you eliminate Ravana
+in war, who has become exacerbating and thorny to all worlds, and who is otherwise not eliminable
+for gods. [1-15-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga15/balasans15.htm)
 </details>

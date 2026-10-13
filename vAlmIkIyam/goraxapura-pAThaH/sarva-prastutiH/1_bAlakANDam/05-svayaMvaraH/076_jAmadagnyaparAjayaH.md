@@ -354,6 +354,23 @@ _________________
 
 **पदच्छेदः**
 
+*7. raama* = oh Bhaargava Rama; *imaam* = this; *tvat gatim vaa* = either, your, motility [at the speed
+of mind, cf., verse 15]; *tapobalasamaarjitaan* = earned by power of ascesis; *apratimaan lokaan* =
+unparalleled, worlds [realms of heavens]; *vaa api* = or, even; *haniSyaami* = I wish to eliminate; *
+yat icChasi* = whichever, you wish.
+
+**अनुवादः**
+
+Oh Bhaargava Rama, either this motility of yours at the speed of your mind, or even those unparalleled realms of heavens
+which you have earned by the power of your ascesis, I will eliminate whichever you wish... [1-76-7]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *8. parapuramjayaH* = conqueror of others' citadels; *viiryeNa* = [by its] mettle; *baladarpavinaashanaH*
 = vanquisher of vigour, vainglory; *divyaH* = one took birth in divine worlds - arrow; *ayam vaiSNavaH sharaH*
 = this, Vishnu's, divine, arrow; *moghaH* = wastefully; *na patati hi* = not, falls through, isn't it.
@@ -370,23 +387,6 @@ the eulogy for Vishnu's longbow is intended to suggest the all-powerful capacity
 lead the epic to its own goal. Dharmaakuutam has to say this: *prakR^ite - adhikam menire vishNum - iti raamaayaNavacanam
 tu agre kartavyasakalaraakShasavadhahetubhuutavaiShNavadhanuShaH praashastapratipaadanaparam j~neyam |* Hence
 the mythological quarrels have no place in Ramayana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*7. raama* = oh Bhaargava Rama; *imaam* = this; *tvat gatim vaa* = either, your, motility [at the speed
-of mind, cf., verse 15]; *tapobalasamaarjitaan* = earned by power of ascesis; *apratimaan lokaan* =
-unparalleled, worlds [realms of heavens]; *vaa api* = or, even; *haniSyaami* = I wish to eliminate; *
-yat icChasi* = whichever, you wish.
-
-**अनुवादः**
-
-Oh Bhaargava Rama, either this motility of yours at the speed of your mind, or even those unparalleled realms of heavens
-which you have earned by the power of your ascesis, I will eliminate whichever you wish... [1-76-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga76/balasans76.htm)
 </details>

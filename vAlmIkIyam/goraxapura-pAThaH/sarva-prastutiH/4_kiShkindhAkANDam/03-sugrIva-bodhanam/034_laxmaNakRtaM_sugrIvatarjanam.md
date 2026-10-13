@@ -100,6 +100,23 @@ _________________
 
 **पदच्छेदः**
 
+*1. sugriivaH* = Sugreeva; *a prati hatam* = unimpededly;
+*praviSTam* = he who entered; *kruddham* = infuriated one; *puruSar Sabham* =
+illustrious one; *tam lakSmaNam dR^iSTvaa* = him, Lakshmana, on seeing; *vyathita
+indriyaH* = with agitated, senses; *babhuuva* = became.
+
+**अनुवादः**
+
+On seeing the illustrious Lakshmana who entered unimpededly and infuriately,
+Sugreeva became one with agitated senses. [4-34-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *2. kruddham niHshvasamaanam* = one who is - exasperated, exhaling
 [heavily]; *tejasaa pra diiptam iva* = by flare, verily, fiery [firestorm,] as with;
 *bhraatuH vyasana santaptam* = in brother's [Rama's,] anguish, searing with; *tam
@@ -114,23 +131,6 @@ On seeing Lakshmana, the son of Dasharatha, who is exasperated and exhaling heav
 and who searing in the anguish of his brother is flaring up like a firestorm, Sugreeva hopped up
 from his golden seat and tottered like the highly decorated flagstaff of Indra, which will be
 wobbly before it is thrown to ground after the ritual. [4-34-2, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*1. sugriivaH* = Sugreeva; *a prati hatam* = unimpededly;
-*praviSTam* = he who entered; *kruddham* = infuriated one; *puruSar Sabham* =
-illustrious one; *tam lakSmaNam dR^iSTvaa* = him, Lakshmana, on seeing; *vyathita
-indriyaH* = with agitated, senses; *babhuuva* = became.
-
-**अनुवादः**
-
-On seeing the illustrious Lakshmana who entered unimpededly and infuriately,
-Sugreeva became one with agitated senses. [4-34-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga34/kishkindhasans34.htm)
 </details>

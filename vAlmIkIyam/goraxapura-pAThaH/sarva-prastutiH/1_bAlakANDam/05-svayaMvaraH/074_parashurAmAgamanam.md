@@ -292,25 +292,6 @@ _________________
 **पदच्छेदः**
 
 *
- 7b, 8a. ayodhyaadhipatiH raajaa api*
- = Ayodhya's sovereign, king
- Dasharatha, even *mahaatmabhiH putraiH saha* = along with noble-souled sons; *sarvaan
- R^iSiin puraskR^itya* = all sages, keeping in fore; *sabalaanugaH* = following with forces
- ; *jagaama* = proceeded.
-
-**अनुवादः**
-
-Even the king Dasharatha, the sovereign of Ayodhya proceeded with his noble-souled
- sons, keeping all the sages in the fore, while his forces followed him. [1-74-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*
  6b, 7a. mithileshvaraH*
  = Mithila's sovereign; *
  raajaa*
@@ -339,6 +320,25 @@ It is customary to follow the wedding party up to the outskirts of village or
  daughter, whose marriage itself is problematical so far, and when that has happened, now some
  sort of dissatisfaction has cropped up, in leaving her off with some forest ranger, called
  Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 7b, 8a. ayodhyaadhipatiH raajaa api*
+ = Ayodhya's sovereign, king
+ Dasharatha, even *mahaatmabhiH putraiH saha* = along with noble-souled sons; *sarvaan
+ R^iSiin puraskR^itya* = all sages, keeping in fore; *sabalaanugaH* = following with forces
+ ; *jagaama* = proceeded.
+
+**अनुवादः**
+
+Even the king Dasharatha, the sovereign of Ayodhya proceeded with his noble-souled
+ sons, keeping all the sages in the fore, while his forces followed him. [1-74-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
@@ -375,6 +375,27 @@ It is customary to follow the wedding party up to the outskirts of village or
 **पदच्छेदः**
 
 *
+ 8b, 9a. saRSisangham*
+ = with assemblages of sages; *
+ saraaghavam* = with [young] Raghava-s - Rama, Lakshmana, Bharata, Shatrughna;
+ *gacChantam* = who is going - Dasharatha; *naravyaaghram* = at that tigerly-man
+ [facing Dasharatha]; *samantataH* = from all around; *pakSiNaH ghoraaH vaacaH
+ vyaaharanti* = birds started to screech with horrible voice.
+
+**अनुवादः**
+
+But while going with the assemblages of sages and with young Raghava-s, namely
+ Rama, Lakshmana, Bharata, Shatrughna, the sky-bound birds started to screech with startling voice
+ from all around facing that tigerly-man Dasharatha. [1-74-8b, 9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
  9b, 10a. bhaumaaH*
  = concerning earth; *
  ca eva*
@@ -388,27 +409,6 @@ It is customary to follow the wedding party up to the outskirts of village or
 Also thus, all of the earth bound animals are going his leftward, and on seeing
  this, albeit he is a tigerly king he is perplexed, and particularly asked Vashishta. [1-74-9b,
  10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*
- 8b, 9a. saRSisangham*
- = with assemblages of sages; *
- saraaghavam* = with [young] Raghava-s - Rama, Lakshmana, Bharata, Shatrughna;
- *gacChantam* = who is going - Dasharatha; *naravyaaghram* = at that tigerly-man
- [facing Dasharatha]; *samantataH* = from all around; *pakSiNaH ghoraaH vaacaH
- vyaaharanti* = birds started to screech with horrible voice.
-
-**अनुवादः**
-
-But while going with the assemblages of sages and with young Raghava-s, namely
- Rama, Lakshmana, Bharata, Shatrughna, the sky-bound birds started to screech with startling voice
- from all around facing that tigerly-man Dasharatha. [1-74-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
@@ -510,27 +510,6 @@ _________________
 **पदच्छेदः**
 
 *
- 12b, 13a. pakSimukhaat cyutam*
- = fallen from mouths of bird
- [shrieks voiced, foretokening]; *divyam* = providential; *ghoram bhayam* =
- perilous, trepidation; *upasthitam* = [indicate it as] forthcoming; *ete mR^igaaH
- prashamayanti* = these, animals' [behaviour,] mitigable [betokening as]; *ayam santaapaH
- tyajyataam* = this, consternation, be forsaken.
-
-**अनुवादः**
-
-"The shrieks voiced by the birds are foretokening the forthcoming providential and
- perilous trepidation, but the behaviour of these animals is betokening it as mitigable... hence,
- let this consternation be forsaken... [1-74-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*
  11b, 12a. mahaan R^iSiH*
  = great [instinctual,] sage; *
  raaj~naH
@@ -544,6 +523,27 @@ _________________
 On hearing all that is said by king Dasharatha, the instinctual sage Vashishta
  said this sentence in a soothing voice, "I will tell apart the result of these auguries...
  [1-74-11b, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 12b, 13a. pakSimukhaat cyutam*
+ = fallen from mouths of bird
+ [shrieks voiced, foretokening]; *divyam* = providential; *ghoram bhayam* =
+ perilous, trepidation; *upasthitam* = [indicate it as] forthcoming; *ete mR^igaaH
+ prashamayanti* = these, animals' [behaviour,] mitigable [betokening as]; *ayam santaapaH
+ tyajyataam* = this, consternation, be forsaken.
+
+**अनुवादः**
+
+"The shrieks voiced by the birds are foretokening the forthcoming providential and
+ perilous trepidation, but the behaviour of these animals is betokening it as mitigable... hence,
+ let this consternation be forsaken... [1-74-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>
@@ -587,25 +587,6 @@ _________________
 **पदच्छेदः**
 
 *
- 14b, 15a. suuryaH tamasaa samvR^itaH*
- = sun is enshrouded by murkiness
- ; *sarve dishaH na vediSuH* = all, quarters, not, aware; *tat sarvam
- balam* = that, all, army - of Dasharatha; *bhasmanaa aavR^itam* = is enwrapped by ash [simoom,
- sandstorm] ; *sammuuDham iva* = as though ensorcelled - it became.
-
-**अनुवादः**
-
-Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
- enwrapped that army, by which it has become as though ensorcelled. [1-74-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*
  13b, 14a. teSaam*
  = among them; *
  samvadataam*
@@ -618,6 +599,25 @@ Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
 
 While they are discussing among themselves, a whirlwind started to whirligig
  there, as though to shake the earth and shatter all gigantic trees. [1-74-13b, 14a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 14b, 15a. suuryaH tamasaa samvR^itaH*
+ = sun is enshrouded by murkiness
+ ; *sarve dishaH na vediSuH* = all, quarters, not, aware; *tat sarvam
+ balam* = that, all, army - of Dasharatha; *bhasmanaa aavR^itam* = is enwrapped by ash [simoom,
+ sandstorm] ; *sammuuDham iva* = as though ensorcelled - it became.
+
+**अनुवादः**
+
+Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
+ enwrapped that army, by which it has become as though ensorcelled. [1-74-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm)
 </details>

@@ -802,6 +802,23 @@ until the manifestation of Rama. [1-49-16a, b]
 
 **पदच्छेदः**
 
+*16c, 17a. shaapasya antam upaagamya* = on reaching end of [time of] curse;
+*teSaam darshanam aagataa* = she got their [Rama, Lakshmana] ;
+*tataH* = then; *raaghavau* = two Raghava-s; *mudaa* = gladly;
+*tasyaaH paadau jagR^ihatuH* = grasped her [Ahalya's,] feet.
+
+**अनुवादः**
+
+On reaching the end of curse she came into the view of Raghava-s, and they too gladly
+touched her feet in reverence. [1-49-16c, 17a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *17b, 18. saa ca* = she, too; *gautamavacaH smarantii* = reminiscing Gautama's
 word; *tau* = them two - Rama, Lakshmana; *pratijagraaha*
 = in turn received; *susamaahitaa* = self-consciously; *paadyam arghyam
@@ -815,23 +832,6 @@ dutifully; *cakaara* = [Ahalya] offered; *kaakutsthaH pratijagraaha*
 Reminiscing Gautama's words Ahalya received those two, and self-consciously offered
 water for feet and hand washing, and like that she also offered guestship customarily
 and dutifully, and Rama of Kakutstha on his part acquiesced her hospitality. [1-49-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*16c, 17a. shaapasya antam upaagamya* = on reaching end of [time of] curse;
-*teSaam darshanam aagataa* = she got their [Rama, Lakshmana] ;
-*tataH* = then; *raaghavau* = two Raghava-s; *mudaa* = gladly;
-*tasyaaH paadau jagR^ihatuH* = grasped her [Ahalya's,] feet.
-
-**अनुवादः**
-
-On reaching the end of curse she came into the view of Raghava-s, and they too gladly
-touched her feet in reverence. [1-49-16c, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm)
 </details>

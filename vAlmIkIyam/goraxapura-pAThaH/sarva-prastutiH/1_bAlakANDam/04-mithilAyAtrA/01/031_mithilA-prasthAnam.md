@@ -1029,6 +1029,23 @@ is the guest at these woodlands.
 
 **पदच्छेदः**
 
+19b, 20a. *te muni gaNaaH* = those, sages', assemblages; *duuram adhvaanam
+gatvaa* = far, on the way, on going; *divaa kare lambamaane* = day, maker
+- sun, while dangling - towards west; *samaahitaaH* = collectively; *shoNaa
+kuule* = River Sona, on the bank of; *vaasam cakruH* = camp, they made.
+
+**अनुवादः**
+
+Those assemblages of sages on going far on their path made a camp on the bank of
+River Sona when the sun is dangling towards west. [1-31-19b, 20a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *20b, 21a. a mita ojasaH* = those with - un, limited, resplendence; *te*
 = those sages; *dina kare astam gate* = day, maker - sun, dusk, when entered;
 *snaatvaa* = taking bath; *huta* = kindling; *huta ashanaaH*
@@ -1041,23 +1058,6 @@ in fire; *having performed evening rituals; *vishvaamitram puraskR^itya*
 When the sun went into dusk those sages with illimitable resplendence took their
 bath and on kindling the consumer of kindled oblations they completed their evening
 fire ritual, and then squatted before sage Vishvamitra. [1-31-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-19b, 20a. *te muni gaNaaH* = those, sages', assemblages; *duuram adhvaanam
-gatvaa* = far, on the way, on going; *divaa kare lambamaane* = day, maker
-- sun, while dangling - towards west; *samaahitaaH* = collectively; *shoNaa
-kuule* = River Sona, on the bank of; *vaasam cakruH* = camp, they made.
-
-**अनुवादः**
-
-Those assemblages of sages on going far on their path made a camp on the bank of
-River Sona when the sun is dangling towards west. [1-31-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga31/balasans31.htm)
 </details>

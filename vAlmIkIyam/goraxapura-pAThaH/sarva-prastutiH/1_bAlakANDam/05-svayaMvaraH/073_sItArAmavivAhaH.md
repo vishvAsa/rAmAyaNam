@@ -57,22 +57,6 @@ Let us go there straight, without any introductions and preliminaries.
 
 **पदच्छेदः**
 
-2. *kekayaraajasya putraH* = Kekaya king's, son; *saakSaat bharatamaatulaH* = direct, Bharata's maternal
-uncle; that Yutaajit; *raajaanam dR^iSTvaa* = having seen king Dasharatha; *kushalam pR^iSTvaa* = having asked wellbeing
-; *idam abraviit* = said this.
-
-**अनुवादः**
-
-Yudhaajit, the son of Kekaya king and the brother of Kaikeyi, thus the direct maternal uncle of Bharata, having seen and
-asked after the wellbeing of Dasharatha said this to him. [1-73-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1. raajaa* = king Dasharatha; *yasmin divase uttamam godaanam cakre* = on which day made impressive cow donation
 [or, initiatory rituals] ; *tasmin tu divase* = on that, but, day; *shuuraH yudhaajit samupeyivaan*
 = valiant, Yuddhajit, turned up.
@@ -81,6 +65,22 @@ asked after the wellbeing of Dasharatha said this to him. [1-73-2]
 
 On which day the king Dasharatha made the impressive cow donations or, initiatory rites, on that day alone the valiant Yudhaajit
 turned up. [1-73-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+2. *kekayaraajasya putraH* = Kekaya king's, son; *saakSaat bharatamaatulaH* = direct, Bharata's maternal
+uncle; that Yutaajit; *raajaanam dR^iSTvaa* = having seen king Dasharatha; *kushalam pR^iSTvaa* = having asked wellbeing
+; *idam abraviit* = said this.
+
+**अनुवादः**
+
+Yudhaajit, the son of Kekaya king and the brother of Kaikeyi, thus the direct maternal uncle of Bharata, having seen and
+asked after the wellbeing of Dasharatha said this to him. [1-73-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
@@ -118,22 +118,6 @@ turned up. [1-73-1]
 
 **पदच्छेदः**
 
-*4. raghunandana* = oh Raghu's legatee; *raajendra* = oh best king; *mahiipatiH* = lord of land [king
-of Kekaya, my father]; *mama svasriiyam* = my, sister's son - my nephew - Kaikeyi's Bharata; *draSTukaamaH*
-= interested to see; *tat artham* = for, that reason; *aham ayodhyaam upayaataH* = I am sent to Ayodhya.
-
-**अनुवादः**
-
-Oh, Raghu's legatee, oh, best king, my father and the king of Kekaya is interested to see my sister Kaikeyi's son, Bharata,
-and for that reason I am sent to Ayodhya... [1-73-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *3. kekayaadhipatiH raajaa* = Kekaya's ruler, king; *snehaat kushalam abraviit* = friendlily [affectionately,]
 asked after wellbeing; *yeSaam* = whose; *kushalakaamaH asi* = wellbeing [of all,] you are interested;
 *teSaam* = to them; *samprati* = presently; *anaamayam* = hale [and healthy.]
@@ -142,6 +126,22 @@ asked after wellbeing; *yeSaam* = whose; *kushalakaamaH asi* = wellbeing [of all
 
 The ruler and king of Kekaya, viz., my father and your father-in-law, has affectionately asked after the wellbeing of all,
 and in whose wellbeing you are interested at my place, they are all hale and healthy as of now... [1-73-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. raghunandana* = oh Raghu's legatee; *raajendra* = oh best king; *mahiipatiH* = lord of land [king
+of Kekaya, my father]; *mama svasriiyam* = my, sister's son - my nephew - Kaikeyi's Bharata; *draSTukaamaH*
+= interested to see; *tat artham* = for, that reason; *aham ayodhyaam upayaataH* = I am sent to Ayodhya.
+
+**अनुवादः**
+
+Oh, Raghu's legatee, oh, best king, my father and the king of Kekaya is interested to see my sister Kaikeyi's son, Bharata,
+and for that reason I am sent to Ayodhya... [1-73-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
@@ -550,24 +550,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. munishreSTha* = oh eminent-saint; *mama kanyaa* = my, maids;
-*kR^itakautukasarvasvaa [mangalaa] * = absolutely performing marriage-thread [auspicious ceremony]; *diiptaa vahneH
-arciSaH iva* = as with jets of flame of fire; *vedimuulam* = at the base of Altar of Ritual-fire;
-*upaagataaH* = arrived near - they are already at the Fire-Altar.
-
-**अनुवादः**
-
-Oh, eminent-saint Vashishta, on absolutely performing the auspicious ceremony for the marriage-thread, and thereby tying
-thread-band at wrists my daughters have already arrived, and they are at the base of the Altar of Fire, like the irradiant
-jets of flames of radiant fire... [1-73-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14. me* = my; *pratihaaraH* = against [entry,] preventer [doorman]; *kaH sthitaH* = who, is there;
 *kasya aaj~naa sampratiikSyate* = for whose order, you [all] intently seeing [waiting with bated breath] towards;
 *svagR^ihe* = in own house; *kaH vicaaraH asti* = what, hesitancy, is there; *idam raajyam tava yathaa*
@@ -583,6 +565,24 @@ your own house, or what? This kingdom is as good as yours... isn't so... [1-73-1
 These are neither questions nor surprises, but the usual retorts and repartees usually employed during wedding time by both
 parties, *sandhi-s* of northerners and *sammandi-s*, of southerners, i.e., the wedding parties. By these rebuttals
 and ripostes, both the parties come close with each other's family habits or with its members.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. munishreSTha* = oh eminent-saint; *mama kanyaa* = my, maids;
+*kR^itakautukasarvasvaa [mangalaa] * = absolutely performing marriage-thread [auspicious ceremony]; *diiptaa vahneH
+arciSaH iva* = as with jets of flame of fire; *vedimuulam* = at the base of Altar of Ritual-fire;
+*upaagataaH* = arrived near - they are already at the Fire-Altar.
+
+**अनुवादः**
+
+Oh, eminent-saint Vashishta, on absolutely performing the auspicious ceremony for the marriage-thread, and thereby tying
+thread-band at wrists my daughters have already arrived, and they are at the base of the Altar of Fire, like the irradiant
+jets of flames of radiant fire... [1-73-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
@@ -810,26 +810,6 @@ _________________
 
 **पदच्छेदः**
 
-*23b, 24. mahaatejaaH* = great resplendent; *munipungava* = eminent-saint; *vashiSThaH* = Vashishta;
-*samaiH* = even-sized; *darbhaiH* = with sacred grass; *vidhivat* = customarily; *mantrapuurvakam*
-= synchronising with Vedic-chants; *samaastiirya* = neatly overlaid; *vidhimantrapuraskR^itam* =
-reverently, preceding [in tune] Vedic-hymns; *tam vedyaam* = on that, Altar of Fire; *agnim aadhaaya* =
-on taking [preparing with two sticks, arani] fire; *agnau juhaava* = effused oblational liquids in Altar of Fire.
-
-**अनुवादः**
-
-Then that great resplendent and eminent-saint Vashishta neatly overlaid even-sized sacred grass on that Altar of Fire synchronising
-with Vedic-chants, and on preparing Ritual-fire by rubbing two wooden sticks, called araNi
-, he placed that fire in the pit of Altar, which is aflame now, and then reverently and in tune with the Vedic-hymns he
-effused oblational liquids into that Altar of Fire, with short-handled and long-handled wooden scoops. [1-73-23b, 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *19b, 20, 21, 22, 23a. bhagavaan mahaatapaaH vashiSTHaH R^iSiH* = godly, sage of great ascesis, sage Vashishta;
 *janakam* = to Janaka; *tathaa iti uktvaa* = so be it, thus, on saying; *dhaarmikam vishvaamitram*
 = virtuous one, Vishvamitra; *shataanandam ca* = sage Shataananda, also; *puraskR^itya* = keeping ahead;
@@ -878,6 +858,26 @@ part. Here the sprouted sprigs are the sprouting avengers on the evil, called Ra
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23b, 24. mahaatejaaH* = great resplendent; *munipungava* = eminent-saint; *vashiSThaH* = Vashishta;
+*samaiH* = even-sized; *darbhaiH* = with sacred grass; *vidhivat* = customarily; *mantrapuurvakam*
+= synchronising with Vedic-chants; *samaastiirya* = neatly overlaid; *vidhimantrapuraskR^itam* =
+reverently, preceding [in tune] Vedic-hymns; *tam vedyaam* = on that, Altar of Fire; *agnim aadhaaya* =
+on taking [preparing with two sticks, arani] fire; *agnau juhaava* = effused oblational liquids in Altar of Fire.
+
+**अनुवादः**
+
+Then that great resplendent and eminent-saint Vashishta neatly overlaid even-sized sacred grass on that Altar of Fire synchronising
+with Vedic-chants, and on preparing Ritual-fire by rubbing two wooden sticks, called araNi
+, he placed that fire in the pit of Altar, which is aflame now, and then reverently and in tune with the Vedic-hymns he
+effused oblational liquids into that Altar of Fire, with short-handled and long-handled wooden scoops. [1-73-23b, 24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -905,57 +905,6 @@ part. Here the sprouted sprigs are the sprouting avengers on the evil, called Ra
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 तदनन्तर राजा जनकने सब प्रकारके आभूषणोंसे विभूषित सीताको ले आकर अग्निके समक्ष श्रीरामचन्द्रजीके सामने बिठा दिया और माता कौसल्याका आनन्द बढ़ानेवाले उन श्रीरामसे कहा—‘रघुनन्दन! तुम्हारा कल्याण हो । यह मेरी पुत्री सीता तुम्हारी सहधर्मिणीके रूपमें उपस्थित है; इसे स्वीकार करो और इसका हाथ अपने हाथमें लो । यह परम पतिव्रता, महान् सौभाग्यवती और छायाकी भाँति सदा तुम्हारे पीछे चलनेवाली होगी’ ॥ २५—२७ ॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*26b, 27a. iyam* = this; *siitaa* = Seetha; *mama* = my; *sutaa* = daughter; *sahadharmacarii* =
-with acquits herself in duty; *tava* = your; *
-pratiicCha enaam* = in turn you wish for [wishfully take her back] her; *ca* = also bhadram te = safe
-betides you; *paaNim* = palm; *gR^ihNiiSva* = take into; *paaNinaa* = [your] palm.
-*iyam*= this [or, here]; *siitaa*= Seetha [stands]; *mama sutaa*= my, daughter [fair]; *tava*=
-thy; *sahadharmacarii* = to share, the duties of life; *pratiicCha enaam*= take from [father,] her [as bride];
-*ca*= also; *te bhadram* = bliss betide! you; *paaNim gR^ihNiiSva paaNinaa*= join hand [into your]
-hand.
-
-**अनुवादः**
-
-"This is Seetha, my daughter, she acquits herself in whatever duty you undertake. Take her wishfully, let safeness betide
-you, take her palm into your palm..." [1-73-26b, 27a]
-
-Here Sita stands, my daughter fair, / The duties of thy life to share. / Take from her father, take thy bride, / Join hand
-to hand, and bliss betide! / - Ralph T. H. Griffith
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अनन्तर जनकराजनु ऎल्ल प्रकारद ऒडवॆगळिन्द सीतॆयन्नु शृङ्गरिसि तन्दु अग्निय बळि श्रीरामचन्द्रन मुन्दॆ कुळ्ळिरिसिदनु हागू कौसल्यानन्द वर्धननाद श्रीरामनल्लि हेळिदनु - रघुनन्दन! निनगॆ मङ्गळवागलि. ई नन्न पुत्रि सीतॆयु निनगॆ सहधर्मिणिय रूपदल्लि उपस्थितळिरुवळु, ईकॆयन्नु स्वीकरिसु हागू ईकॆय पाणिग्रहण माडु. परमपतिव्रतॆयाद ईकॆयु महा सौभाग्यवतियागि नॆरळिनन्तॆ सदा निन्नन्नु अनुसरिसुवळु.॥25-27॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*27b, 28a. mahabhaagaa* = prosperous [Seetha will be]; *pativrataa* = husband devout; *sadaa Chaayaa iva*
-= always, shadow, like; *anugataa* = follow [you]; *iti uktvaa* = thus, saying; *raajaa* = king;
-*tadaa* = then; *mantrapuutam jalam* = hymn sanctified, water; *praakShipat* = poured forth.
-
-**अनुवादः**
-
-"She who is prosperous and husband-devout, will always be abiding you like your own shadow..." So saying that king Janaka
-then poured forth water into the palms of Rama, which is sanctified with hymns. [1-73-27b, 28a]
-
-**टिप्पनी**
-
-Pouring water at the time of donation into the donee's hand symbolises the free flowing will of the donor. The 'shadow'
-expresses *nitya-sambandhatva* 'ever related entity...' Or, a trace of His *liilaa-vibhuuti, maayaa*. Though
-they are living separately so far, that farness is now washed off by this holy water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1017,6 +966,57 @@ happen? Avoiding all these irksome situations, the poet gave this stage-directio
 of Kausalya, with a subtext, 'you are mothered by some human female, whereas my daughter is motherless, rather un-mothered,
 *ayonijaa* non-foetal is her origination, hence it is apt of you to not to belittle her, anytime and anywhere...
 and you have to keep faith with her, since she outshines in outperforming your task in this so-called incarnation...'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अनन्तर जनकराजनु ऎल्ल प्रकारद ऒडवॆगळिन्द सीतॆयन्नु शृङ्गरिसि तन्दु अग्निय बळि श्रीरामचन्द्रन मुन्दॆ कुळ्ळिरिसिदनु हागू कौसल्यानन्द वर्धननाद श्रीरामनल्लि हेळिदनु - रघुनन्दन! निनगॆ मङ्गळवागलि. ई नन्न पुत्रि सीतॆयु निनगॆ सहधर्मिणिय रूपदल्लि उपस्थितळिरुवळु, ईकॆयन्नु स्वीकरिसु हागू ईकॆय पाणिग्रहण माडु. परमपतिव्रतॆयाद ईकॆयु महा सौभाग्यवतियागि नॆरळिनन्तॆ सदा निन्नन्नु अनुसरिसुवळु.॥25-27॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26b, 27a. iyam* = this; *siitaa* = Seetha; *mama* = my; *sutaa* = daughter; *sahadharmacarii* =
+with acquits herself in duty; *tava* = your; *
+pratiicCha enaam* = in turn you wish for [wishfully take her back] her; *ca* = also bhadram te = safe
+betides you; *paaNim* = palm; *gR^ihNiiSva* = take into; *paaNinaa* = [your] palm.
+*iyam*= this [or, here]; *siitaa*= Seetha [stands]; *mama sutaa*= my, daughter [fair]; *tava*=
+thy; *sahadharmacarii* = to share, the duties of life; *pratiicCha enaam*= take from [father,] her [as bride];
+*ca*= also; *te bhadram* = bliss betide! you; *paaNim gR^ihNiiSva paaNinaa*= join hand [into your]
+hand.
+
+**अनुवादः**
+
+"This is Seetha, my daughter, she acquits herself in whatever duty you undertake. Take her wishfully, let safeness betide
+you, take her palm into your palm..." [1-73-26b, 27a]
+
+Here Sita stands, my daughter fair, / The duties of thy life to share. / Take from her father, take thy bride, / Join hand
+to hand, and bliss betide! / - Ralph T. H. Griffith
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27b, 28a. mahabhaagaa* = prosperous [Seetha will be]; *pativrataa* = husband devout; *sadaa Chaayaa iva*
+= always, shadow, like; *anugataa* = follow [you]; *iti uktvaa* = thus, saying; *raajaa* = king;
+*tadaa* = then; *mantrapuutam jalam* = hymn sanctified, water; *praakShipat* = poured forth.
+
+**अनुवादः**
+
+"She who is prosperous and husband-devout, will always be abiding you like your own shadow..." So saying that king Janaka
+then poured forth water into the palms of Rama, which is sanctified with hymns. [1-73-27b, 28a]
+
+**टिप्पनी**
+
+Pouring water at the time of donation into the donee's hand symbolises the free flowing will of the donor. The 'shadow'
+expresses *nitya-sambandhatva* 'ever related entity...' Or, a trace of His *liilaa-vibhuuti, maayaa*. Though
+they are living separately so far, that farness is now washed off by this holy water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
@@ -1114,6 +1114,22 @@ some more flower-showers and drumbeats and dances, later.
 
 **पदच्छेदः**
 
+*29b, 30a. janakaH raajaa* = Janaka, the king; *evam* = in that way; *mantrodakapuraskR^itaam* =
+she who is sanctified with hymn water; *sutaam siitaam dattvaa* = on handing over his daughter Seetha; *harSeNa*
+= by enthusiasm; *abhipariplutaH* = completely over flooded [overwhelmed]; *abraviit* = said [this.]
+
+**अनुवादः**
+
+On handing over his daughter Seetha who is duly sanctified with sanctified waters, King Janaka is completely overwhelmed
+with exhilaration for the successful performance of his bit as a father and he said this. [1-73-29b, 30a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *30b, 31a. lakSmaNa aagacCha* = Lakshmana, come on; *mayaa udyataam* = by me decided to be [- to be given
 to you]; *uurmilaam* = Urmila; *pratiicCha* = you take - or, say yes; *paaNim gR^ihNiiSva* = [her]
 palm, you take; *kaalasya paryayaH maa bhuut* = lapse not the time; *te bhadram* = you be safe.
@@ -1130,22 +1146,6 @@ marriage is first...' does not apply if the brothers are from co-wives: *pitR^iv
 vaa | vivaahadaanayajnaadau parivedo na duuShaNam ||* 'the elderliness among the sons of father's brothers or mothers
 co-wives, or other sons from other wives, do not count in their marriages, donation ceremonies, of Vedic-rituals... an younger
 one can be called first on such occasions...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*29b, 30a. janakaH raajaa* = Janaka, the king; *evam* = in that way; *mantrodakapuraskR^itaam* =
-she who is sanctified with hymn water; *sutaam siitaam dattvaa* = on handing over his daughter Seetha; *harSeNa*
-= by enthusiasm; *abhipariplutaH* = completely over flooded [overwhelmed]; *abraviit* = said [this.]
-
-**अनुवादः**
-
-On handing over his daughter Seetha who is duly sanctified with sanctified waters, King Janaka is completely overwhelmed
-with exhilaration for the successful performance of his bit as a father and he said this. [1-73-29b, 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
@@ -1229,6 +1229,22 @@ _________________
 
 **पदच्छेदः**
 
+*32b, 33a. dharmaaatmaa* = honourable [Janaka]; *mithileshvaraH* = Mithila's king - Janaka; *shatrughnam
+ca api* = to Shatrughna, also, even; *abraviit* = said; *mahaabaaho* = oh dextrous [Shatrughna]; *
+paaNinaa* = with your palm; *shrutakiirteH paaNim gR^ihNiiSva* = you take Shrutakiirti's, palm.
+
+**अनुवादः**
+
+That honourable king of Mithila even said to Shatrughna, "oh, dextrous Shatrughna, take the palm of Shrutakiirti into yours...
+[1-73-32b, 33a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *33b, 34a. kaakutsthaa* = oh Rama, Lakshmana, Bharata, Shatrughna [brothers]; *bhavantaH sarve* = you, all;
 *saumyaaH ca* = tender-hearted, also; *sarve sucaritavrataaH* = all, well behaved, well-intentioned ones;
 *patniibhiH santu* = you be with wives [a happy married life to you all] ; *maa bhuut kaalasya paryayaH* =
@@ -1238,22 +1254,6 @@ not, there be, time's, lapse.
 
 "Oh, Rama, Lakshmana, Bharata, Shatrughna ... you all are tender-hearted, well-behaved and well-intentioned brothers from
 Kakutstha lineage... without lapse of time take up other ceremonies..." So said Janaka to bridegrooms. [1-73-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*32b, 33a. dharmaaatmaa* = honourable [Janaka]; *mithileshvaraH* = Mithila's king - Janaka; *shatrughnam
-ca api* = to Shatrughna, also, even; *abraviit* = said; *mahaabaaho* = oh dextrous [Shatrughna]; *
-paaNinaa* = with your palm; *shrutakiirteH paaNim gR^ihNiiSva* = you take Shrutakiirti's, palm.
-
-**अनुवादः**
-
-That honourable king of Mithila even said to Shatrughna, "oh, dextrous Shatrughna, take the palm of Shrutakiirti into yours...
-[1-73-32b, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>
@@ -1299,6 +1299,27 @@ _________________
 
 **पदच्छेदः**
 
+*34b, 35a. te catvaaraH* = those [bridegrooms,] [all] four of them; *janakasya vacaH shrutvaa* = on hearing Janaka's
+words; *vasiSThasya mate sthitaaH* = abiding in Vashishta's opinion [in orchestration of marriage] ;
+*paaNibhiH* = with palms; *catasR^INaam* = of [all] four [brides]; *paaNiin* = palms; *aspR^ishan*
+= touched - taken into their palms - all are palminpalmed.
+
+**अनुवादः**
+
+All the four bridegrooms are palminpalmed with all the four brides, paying heed to Janaka's words, and abiding in Vashishta's
+orchestration of Vedic hymns and procedures. [1-73-34b, 35a]
+
+**टिप्पनी**
+
+The word 'palminpalmed' may look oddish, but it is in fashion with the verb 'arminarmed' invented by poet Roger McGhou.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *35b, 36. mahaatmaanaH* = great souled [bridegrooms]; *raghuudvahaaH* = those who emerged from Raghu - four
 brothers; *sahabhaaryaa* = with wives; *agnim* = to Ritual-fire; *vedim* = to Altar of Fire; *
 raajaanam eva ca* = king Janaka, also, that way; *R^iSiin ca eva* = to sages, also thus; *pradakSiNam*
@@ -1321,27 +1342,6 @@ time oblations. After accepting the palms of brides, they made circumambulations
 ritual fire and offered oblations into it. Then each couple had oblated rice-flakes into the fire, and again performed circumambulations
 to that Ritual-fire, respectively. Thus, the marriage is not a handshake like one-minute affair, as they all shall be before
 fire, daylong.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*34b, 35a. te catvaaraH* = those [bridegrooms,] [all] four of them; *janakasya vacaH shrutvaa* = on hearing Janaka's
-words; *vasiSThasya mate sthitaaH* = abiding in Vashishta's opinion [in orchestration of marriage] ;
-*paaNibhiH* = with palms; *catasR^INaam* = of [all] four [brides]; *paaNiin* = palms; *aspR^ishan*
-= touched - taken into their palms - all are palminpalmed.
-
-**अनुवादः**
-
-All the four bridegrooms are palminpalmed with all the four brides, paying heed to Janaka's words, and abiding in Vashishta's
-orchestration of Vedic hymns and procedures. [1-73-34b, 35a]
-
-**टिप्पनी**
-
-The word 'palminpalmed' may look oddish, but it is in fashion with the verb 'arminarmed' invented by poet Roger McGhou.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm)
 </details>

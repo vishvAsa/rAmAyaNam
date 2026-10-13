@@ -59,25 +59,6 @@ Brahma commends Bhageeratha in bringing Ganga onto earth which none
 
 **पदच्छेदः**
 
-*2. raama* = oh Rama; *atha* = then; *bhasmani gangaayaaH
- salilena aaplute* = while ashes being inundated with Ganga's waters;
- *sarvalokaprabhuH brahmaa* = Lord of all worlds, Brahma; *
- raajaanam idam abraviit* = spoke this to king Bhageeratha; *
- vai* = indeed.
-
-**अनुवादः**
-
-While the waters of Ganga are inundating those ashes, oh, Rama, then
- Brahma, the lord of all worlds, indeed spoke this to the king Bhageeratha.
- [1-44-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1. saH raajaa tadaa* = he [Bhageeratha,] king, then; *gangayaa
  anugataH* = followed by Ganga; *saagaram gatvaa* = having gone to
  ocean - ocean-like ditch; *yatra* = where; *te*
@@ -91,6 +72,25 @@ While the waters of Ganga are inundating those ashes, oh, Rama, then
  which is dredged up by the sons of Sagara, and entered the subterranean
  of earth where the sons of Sagara are rendered to ashes." Thus Vishvamitra
  continued his narration about the Descent of Ganga. [1-44-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. raama* = oh Rama; *atha* = then; *bhasmani gangaayaaH
+ salilena aaplute* = while ashes being inundated with Ganga's waters;
+ *sarvalokaprabhuH brahmaa* = Lord of all worlds, Brahma; *
+ raajaanam idam abraviit* = spoke this to king Bhageeratha; *
+ vai* = indeed.
+
+**अनुवादः**
+
+While the waters of Ganga are inundating those ashes, oh, Rama, then
+ Brahma, the lord of all worlds, indeed spoke this to the king Bhageeratha.
+ [1-44-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga44/balasans44.htm)
 </details>

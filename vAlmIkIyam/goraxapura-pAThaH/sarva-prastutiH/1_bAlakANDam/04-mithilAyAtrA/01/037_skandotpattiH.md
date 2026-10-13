@@ -958,6 +958,25 @@ _________________
 
 **पदच्छेदः**
 
+*21. garbhe nikSiptamaatre tu* = just when embryo is laid down, but;
+ *sarvam* = entire; *parvatasannaddham* = sprouted - uprisen on Himalayan mountains
+ ; *vanam* = forest - reed-garden; *tejobhiH abhiranjitam*
+ = made brilliant with [embryo's] glitter; *sauvarNam abhavat* = became golden
+ [reed-garden] .
+
+**अनुवादः**
+
+"But, just when that embryo is laid down on Himalayan mountains, entire reed-garden
+ sprouted on that mountain is made brilliant by that glittering embryo and the
+ reed-garden itself has become golden. [1-37-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 22. *puruSavyaaghra* = oh tigerly-man, Rama; *raaghava* = oh Raghava
  *tadaa prabhR^iti* = then, onwards; *hutaashanasamaprabham* = equal in its brilliance
  to Fire-god; *suvarNam* = gold; *jaataruupam iti*
@@ -978,25 +997,6 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
  As and when Ganga's disgorged her womb there appeared a forest of fire like gold.
  So, the gold glowing like fire is called gold at many places in Ramayana. Pt.
  Satya Vrat.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*21. garbhe nikSiptamaatre tu* = just when embryo is laid down, but;
- *sarvam* = entire; *parvatasannaddham* = sprouted - uprisen on Himalayan mountains
- ; *vanam* = forest - reed-garden; *tejobhiH abhiranjitam*
- = made brilliant with [embryo's] glitter; *sauvarNam abhavat* = became golden
- [reed-garden] .
-
-**अनुवादः**
-
-"But, just when that embryo is laid down on Himalayan mountains, entire reed-garden
- sprouted on that mountain is made brilliant by that glittering embryo and the
- reed-garden itself has become golden. [1-37-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga37/balasans37.htm)
 </details>

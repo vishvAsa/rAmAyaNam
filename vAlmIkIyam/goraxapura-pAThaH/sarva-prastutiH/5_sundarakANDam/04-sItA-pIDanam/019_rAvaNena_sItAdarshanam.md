@@ -153,15 +153,15 @@ _________________
 
 **पदच्छेदः**
 
-*5. aasiinaam* = (Hanuma saw Seetha) sitting down;asamvR^itaam = on uncovered; *
-dhaaraNyaam* = land;samShitavrataan = with a firm resolve; *vanaspateH shaakhaamiva* = like a branch
-of a tree; *prapatitaam* = fallen down; *bhumau* = on earth; *chinnam* = being torn (from
-the tree).
+*4. dashagriivastu* = Ravana; *dadarsha* = saw; *vaidehiim* = Seetha;rakshitaam
+= protected; *raakshasiigaNaiH* = by batches of ogres; *diinaam* = (looking) miserable; *duHkhaataam*
+= being struck with grief; *naavamiva* = like a ship; *sannaam* = in danger; *aarNave* =
+in the sea;
 
 **अनुवादः**
 
-Hanuma saw Seetha sitting down on uncovered land, with a firm resolve, like a branch of a tree
-fallen down on earth being torn from the tree.
+Ravana saw Seetha protected by batches of ogres looking miserable being struck with grief like
+a ship in danger in the sea.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
@@ -175,15 +175,15 @@ fallen down on earth being torn from the tree.
 
 **पदच्छेदः**
 
-*4. dashagriivastu* = Ravana; *dadarsha* = saw; *vaidehiim* = Seetha;rakshitaam
-= protected; *raakshasiigaNaiH* = by batches of ogres; *diinaam* = (looking) miserable; *duHkhaataam*
-= being struck with grief; *naavamiva* = like a ship; *sannaam* = in danger; *aarNave* =
-in the sea;
+*5. aasiinaam* = (Hanuma saw Seetha) sitting down;asamvR^itaam = on uncovered; *
+dhaaraNyaam* = land;samShitavrataan = with a firm resolve; *vanaspateH shaakhaamiva* = like a branch
+of a tree; *prapatitaam* = fallen down; *bhumau* = on earth; *chinnam* = being torn (from
+the tree).
 
 **अनुवादः**
 
-Ravana saw Seetha protected by batches of ogres looking miserable being struck with grief like
-a ship in danger in the sea.
+Hanuma saw Seetha sitting down on uncovered land, with a firm resolve, like a branch of a tree
+fallen down on earth being torn from the tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
@@ -468,15 +468,14 @@ _________________
 
 **पदच्छेदः**
 
-*14. padminiimiva* = (Seetha was) like a lotus; *vidhvastaam* = destroyed;
-*chamuumiva* = like an army; *hata shuraam* = with killed warriors; *prabhaamiva* = like
-light; *tamodhvastaam* = destroyed by darkness; *apaagaamiva* = like a river; *upakshiiNaam*
-= vanished.
+*11. kiirtimiva* = (Seetha was) like fame;nipatitaam = fallen down;abhuutena = (due
+to) false; *apavaadena* = blame;vidyaamiva = like education; *prashithitaam* = runied; *ayogena*
+= (due to) non conformity ;aamnaayaanaam = (of) learning by heart.
 
 **अनुवादः**
 
-Seetha was like a lotus destroyed, like an army with killed warriors, like light destroyed by darkness,
-like vanished river.
+Seetha was like fame fallen down due to false blame. She was like education ruined due to lack
+of learning by heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
@@ -484,6 +483,27 @@ like vanished river.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवळ स्थितियु नष्टवागि होद आदायदन्तॆ, आचरिसदिरुव आज्ञॆयन्तॆ, उत्पात कालदल्लि इरुव दिक्कुगळन्तॆयू, पूजाद्रव्यगळन्नु अपहरिसिदाग भङ्गवाद पूजॆयन्तॆ इद्दळु.॥13॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. sannam iva* = (Seetha was) like deteriorated; *mahaakiirtim* = great fame;
+*shraddaamiva* = like faith; *vimaanitaam* = insulted; *praJNaamiva* = like an understanding;
+*parikshiiNaam* = grown feeble; *aashaamiva* = like hope; *pratihataam* = dulled.
+
+**अनुवादः**
+
+Seetha was like deteriorated great fame,like insulted faith,like an understanding grown feeble,
+like dulled hope.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+क्षीणिसिद कीर्तियन्तॆयू, अपमानदिन्द शिथिलवाद श्रद्धॆयन्तॆयू, पूजाद्रव्यगळे इल्लद पूजॆयन्तॆ, निष्फलवाद आसॆयन्तॆ आकॆयु अतिदीनावस्थॆगॆ गुरियागिरुवन्तॆ इद्दळु.॥12॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -505,27 +525,6 @@ a period of destruction, like a worship stolen.
 
 <details><summary>अनुवाद (कन्नड)</summary>
 
-क्षीणिसिद कीर्तियन्तॆयू, अपमानदिन्द शिथिलवाद श्रद्धॆयन्तॆयू, पूजाद्रव्यगळे इल्लद पूजॆयन्तॆ, निष्फलवाद आसॆयन्तॆ आकॆयु अतिदीनावस्थॆगॆ गुरियागिरुवन्तॆ इद्दळु.॥12॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*12. sannam iva* = (Seetha was) like deteriorated; *mahaakiirtim* = great fame;
-*shraddaamiva* = like faith; *vimaanitaam* = insulted; *praJNaamiva* = like an understanding;
-*parikshiiNaam* = grown feeble; *aashaamiva* = like hope; *pratihataam* = dulled.
-
-**अनुवादः**
-
-Seetha was like deteriorated great fame,like insulted faith,like an understanding grown feeble,
-like dulled hope.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
 इल्लदिरुव दोषारॊपणॆयिन्द कळॆदुहोद कीर्तियन्तॆयू, चॆन्नागि अभ्यास माडद कारण शिथिलवाद (मरॆतु होद) वेदादि विद्यॆयन्तॆयू अवळु गोचरिसुत्तिद्दळु.॥11॥
 </details>
 
@@ -533,14 +532,15 @@ like dulled hope.
 
 **पदच्छेदः**
 
-*11. kiirtimiva* = (Seetha was) like fame;nipatitaam = fallen down;abhuutena = (due
-to) false; *apavaadena* = blame;vidyaamiva = like education; *prashithitaam* = runied; *ayogena*
-= (due to) non conformity ;aamnaayaanaam = (of) learning by heart.
+*14. padminiimiva* = (Seetha was) like a lotus; *vidhvastaam* = destroyed;
+*chamuumiva* = like an army; *hata shuraam* = with killed warriors; *prabhaamiva* = like
+light; *tamodhvastaam* = destroyed by darkness; *apaagaamiva* = like a river; *upakshiiNaam*
+= vanished.
 
 **अनुवादः**
 
-Seetha was like fame fallen down due to false blame. She was like education ruined due to lack
-of learning by heart.
+Seetha was like a lotus destroyed, like an army with killed warriors, like light destroyed by darkness,
+like vanished river.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>
@@ -880,22 +880,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. devataamiva* = (Seetha was) like a celestial being; *duHkhaartaam* = tormented
-by grief; *bhavena* = by thought; *praaN^jalim* = with joined palms; *ayaachamaanaam* = desiring;
-*dashagriiva paraabhavam* = defeat of Ravana; *raghu mukhyasya* = (at the hands of) Sri Rama.
-
-**अनुवादः**
-
-Seetha was like a celestial being, tormented by grief and by thought with joined palms, desiring
-the defeat of Ravana at the hands of Sri Rama
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *21. parikshiiNaam* = wasted; *kRishaam* = emaciated; *upavaasena* =
 due to fasting; *shokena* = due to sorrow; *dhyaanena* = due to thought; *bhayena cha* =
 and due to fear; *alpaahaaraam* = (Seetha) was with limited food; *tapodhanaam* = (and) with austerity
@@ -905,6 +889,22 @@ as wealth.
 
 Wasted, emaciated due to fasting, due to sorrow, due to thought and due to fear, Seetha was with
 limited food and with austerity as wealth.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. devataamiva* = (Seetha was) like a celestial being; *duHkhaartaam* = tormented
+by grief; *bhavena* = by thought; *praaN^jalim* = with joined palms; *ayaachamaanaam* = desiring;
+*dashagriiva paraabhavam* = defeat of Ravana; *raghu mukhyasya* = (at the hands of) Sri Rama.
+
+**अनुवादः**
+
+Seetha was like a celestial being, tormented by grief and by thought with joined palms, desiring
+the defeat of Ravana at the hands of Sri Rama
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga19/sundarasans19.htm)
 </details>

@@ -190,22 +190,6 @@ the cottage. [3-17-2]
 
 **पदच्छेदः**
 
-*6. rakSasaH dasha griivasya bhaginii* = demon, ten, faced one's [Ravana's,] sister; *shuurpaNakhaa
-naama* = Shuurpanakha, named; *saa tu* = she, but; *tridasha upamam* = paradisiacal
-being, who is like; *raamam aasaadya* = Rama, on reaching; *dadarsha* = she saw him.
-
-**अनुवादः**
-
-She is but the sister of ten-faced demon Ravana, Shuurpanakha by her name and she has seen him on reaching
-the paradisiacal being like Rama. [3-17-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *5. raamasya kathaa samsakta cetasaH* = Rama is, narrative, absorbed in, with such a heart;
 *tadaa aasiinasya* = thus, sitting in hermitage; *kaacit raakSasii* = some, demoness;
 *yadR^icChayaa tam desham aajagaama* = fortuitously, at that, place, arrived.
@@ -214,6 +198,22 @@ the paradisiacal being like Rama. [3-17-6]
 
 At one time when Rama is sitting in hermitage and heartily absorbed in telling narratives some demoness
 arrived at that place, fortuitously. [3-17-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. rakSasaH dasha griivasya bhaginii* = demon, ten, faced one's [Ravana's,] sister; *shuurpaNakhaa
+naama* = Shuurpanakha, named; *saa tu* = she, but; *tridasha upamam* = paradisiacal
+being, who is like; *raamam aasaadya* = Rama, on reaching; *dadarsha* = she saw him.
+
+**अनुवादः**
+
+She is but the sister of ten-faced demon Ravana, Shuurpanakha by her name and she has seen him on reaching
+the paradisiacal being like Rama. [3-17-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>
@@ -770,6 +770,22 @@ in a fashionable getup or as an old female is another point that remained inconc
 
 **पदच्छेदः**
 
+*19. iha kim nimittam tvam aagataa vaa* = here, what, for, you, came, either; *tattvataH bruuhi*
+= actually, you tell; *vacanam shrutvaa* = said words, on hearing; *madana arditaa* =
+by love, wetted; *saa raakSasii abraviit* = she that, demoness, spoke.
+
+**अनुवादः**
+
+"What for you have come, either, you tell in actuality..." Thus Rama asked her. On hearing the words
+of Rama she that demoness wetted with love said these words. [3-17-19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 20, 21a. *shruuyataam raama* = let it be heard, Rama; *tattva artham mama vacanam*
 = truth, meaning, my. words [my words are truthful]; *vakSyaami* = I will say; [or, what
 all I say is truth, nothing but truth]; *aham shuurpaNakhaa naama* = I am, Shuurpanakha, named;
@@ -781,22 +797,6 @@ in this, forest, am freely moving.
 
 "I will tell you truth, Rama, nothing but truth, I am a guise-changing demoness named Shuurpanakha,
 and I will be freely moving in this forest in a solitary manner and unnerving all. [3-17-20, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*19. iha kim nimittam tvam aagataa vaa* = here, what, for, you, came, either; *tattvataH bruuhi*
-= actually, you tell; *vacanam shrutvaa* = said words, on hearing; *madana arditaa* =
-by love, wetted; *saa raakSasii abraviit* = she that, demoness, spoke.
-
-**अनुवादः**
-
-"What for you have come, either, you tell in actuality..." Thus Rama asked her. On hearing the words
-of Rama she that demoness wetted with love said these words. [3-17-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranyasans17.htm)
 </details>

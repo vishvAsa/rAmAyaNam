@@ -70,24 +70,6 @@ _________________
 
 **पदच्छेदः**
 
-*2. atha* = thereafter; *aham* = I; *kR^itvaa* = offering
-(salutation); *aJNjalim* = with joined palms; *ubhaabhyaam* = to both; *raaja
-putraabhyaam* = the princes; *dhaarayan* = keeping back; *tat* = that;
-*duHkham api* = grief; *aasthaaya* = ascended; *ratham* = the chariot;
-*prasthitaH* = and moved on.
-
-**अनुवादः**
-
-"I, on my part, offering salutation with joined palms to both the princes and
-keeping back from that grief, ascended the chariot and moved on."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1.raame* = Rama; *samprasthite* = having departed;
 *vanam* = to the forest; *nivR^ittasya* = the returning; *ashvaaH tu* =
 horses; however; *mama* = of mine; pramuNcantaH shedding; *uSNam* = warm;
@@ -98,6 +80,24 @@ way.
 
 "Rama having departed to the forest, horses on the return path however, shedding
 warm tears, did not proceed further on the way."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. atha* = thereafter; *aham* = I; *kR^itvaa* = offering
+(salutation); *aJNjalim* = with joined palms; *ubhaabhyaam* = to both; *raaja
+putraabhyaam* = the princes; *dhaarayan* = keeping back; *tat* = that;
+*duHkham api* = grief; *aasthaaya* = ascended; *ratham* = the chariot;
+*prasthitaH* = and moved on.
+
+**अनुवादः**
+
+"I, on my part, offering salutation with joined palms to both the princes and
+keeping back from that grief, ascended the chariot and moved on."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm)
 </details>

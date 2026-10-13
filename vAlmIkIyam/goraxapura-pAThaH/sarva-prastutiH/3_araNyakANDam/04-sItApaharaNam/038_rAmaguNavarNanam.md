@@ -303,30 +303,6 @@ _________________
 
 **पदच्छेदः**
 
-*7b, 8a. muni shreSTha* = oh, sage, the eminent; *caturangeNa
-balena* = with fourfold, forces; *[aham* = I]; *svayam etya* = in person, having
-come; *tava shatrum* = your, enemy; *yathaa iipsitam* = as, desired [or, manasaa
-iipsitaan = as your heart, desires - whomever you indicate for elimination; *nishaacaram* =
-such - nightwalkers; *vadhiSyaami* = I will kill.
-
-**अनुवादः**
-
-" 'And having come in person with fourfold forces, oh eminent sage, I myself will
-eradicate that nightwalker whomever you indicate as an enemy of yours." So said Dasharatga to
-Vishvamitra. [3-38-7b, 8a]
-
-**टिप्पनी**
-
-In the fourfold army the four categories of army units are chariots, elephants,
-cavalry, and foot-soldiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *6b, 7a. ayam [baalaH] raaghavaH* = this, [boy,] Rama is; *uuna
 dvaadash varSaH* = less than, twelve, years - in age; *a kR^ita astraH ca* = not,
 performed - unpractised, weapons, also; *mama yat sainyam* = mine, which, army - whatever
@@ -344,6 +320,30 @@ Rama. [3-38-6b, 7a]
 In Bala Kanda the age of Rama as said by Dasharatha to Vishvamitra is *uuna
 SoDasa varSaH *'less than sixteen years.' Here Maareecha is saying that Rama is less than twelve.
 Maheshvara Tiirtha says that Maareecha lessened the age of Rama only to intimidate Ravana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7b, 8a. muni shreSTha* = oh, sage, the eminent; *caturangeNa
+balena* = with fourfold, forces; *[aham* = I]; *svayam etya* = in person, having
+come; *tava shatrum* = your, enemy; *yathaa iipsitam* = as, desired [or, manasaa
+iipsitaan = as your heart, desires - whomever you indicate for elimination; *nishaacaram* =
+such - nightwalkers; *vadhiSyaami* = I will kill.
+
+**अनुवादः**
+
+" 'And having come in person with fourfold forces, oh eminent sage, I myself will
+eradicate that nightwalker whomever you indicate as an enemy of yours." So said Dasharatga to
+Vishvamitra. [3-38-7b, 8a]
+
+**टिप्पनी**
+
+In the fourfold army the four categories of army units are chariots, elephants,
+cavalry, and foot-soldiers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
@@ -566,6 +566,23 @@ _________________
 
 **पदच्छेदः**
 
+*12. saH muniH vishvaamitraH* = he, sage, Vishvamitra; *iti evam
+uktvaa* = thus, that way, on saying; *nR^ipa aatma jam* = king's, own, son; *tam*
+= him - Rama; *aadaaya* = taking along; *parama priitaH* = highly, gladdened;
+*svam aashramam jagaama* = to his own, to hermitage, went away.
+
+**अनुवादः**
+
+"Thus that way on saying he that sage Vishvamitra returned to his own hermitage
+highly gladdening to take the prince Rama along with him. [3-38-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *13. tadaa raamaH daNDakaaraNye* = then, Rama, in Dandaka forest;
 *yaGYam uddishya diikSitam* = Vedic-ritual, concerning, who entered into vow; *tam* =
 him - at Vishvamitra; *upa sthitaH* = nearby staying; *citram dhanuH visphaarayan* =
@@ -580,23 +597,6 @@ Vishvamitra who entered the vow of Vedic-ritual. [3-38-13]
 
 There is a difference in mentioning the forest as Dandaka. Bala Kanda says that
 Vishvamitra performed ritual in north and Maareecha is now saying that as Dandaka forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*12. saH muniH vishvaamitraH* = he, sage, Vishvamitra; *iti evam
-uktvaa* = thus, that way, on saying; *nR^ipa aatma jam* = king's, own, son; *tam*
-= him - Rama; *aadaaya* = taking along; *parama priitaH* = highly, gladdened;
-*svam aashramam jagaama* = to his own, to hermitage, went away.
-
-**अनुवादः**
-
-"Thus that way on saying he that sage Vishvamitra returned to his own hermitage
-highly gladdening to take the prince Rama along with him. [3-38-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
@@ -950,24 +950,6 @@ _________________
 
 **पदच्छेदः**
 
-*21. taata* = oh, boy; *tadaa* = that way; *aham* = I
-was; *gambhiire saagara ambhasi* = abyssal, ocean, in waters; *tena* = by him;
-*paatitaH* = one who is flung; *ciraat sanGYaam praapya* = after long time,
-consciousness, on gaining; *lankaam puriim* = to Lanka, city; *prati gataH* =
-towards, went.
-
-**अनुवादः**
-
-"That way I who had been flung into the abyssal water of the ocean by him gained
-consciousness after a long time and proceeded towards the city of Lanka. [3-38-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *20. taata* = oh, dear boy; *tadaa maam hantum na icChataa* =
 then, me, to kill, [he] did not wish; *viireNa rakshitaH* = by valiant Rama, saved [I was];
 *raamasya shara vegena* = Rama's, by arrow's, thrust; *bhraanta cetanaH* =
@@ -978,6 +960,24 @@ bewildered, [is my] animation; *nir astaH* = without, base - I was on my last le
 "That Rama did not wish to kill me then, and I am thus saved by that valiant one,
 oh, dear boy Ravana, but the thrust of Rama's arrow bewildered my animation and I was on my last
 legs. [3-38-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21. taata* = oh, boy; *tadaa* = that way; *aham* = I
+was; *gambhiire saagara ambhasi* = abyssal, ocean, in waters; *tena* = by him;
+*paatitaH* = one who is flung; *ciraat sanGYaam praapya* = after long time,
+consciousness, on gaining; *lankaam puriim* = to Lanka, city; *prati gataH* =
+towards, went.
+
+**अनुवादः**
+
+"That way I who had been flung into the abyssal water of the ocean by him gained
+consciousness after a long time and proceeded towards the city of Lanka. [3-38-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>
@@ -1419,6 +1419,23 @@ enfolded in the tongues of torches, while her buildings are utterly gutting down
 
 **पदच्छेदः**
 
+*30. para daara abhimarShaa tu* = other's, wife, dalliance, but;
+*paapa taram* = sin, higher in degree - gravest; *mahat* = outrageous [error];
+*aanayat na* = another, is not there; *raajan* = oh, king; *pramadaanaam
+sahasraaNi tava parigrahe* = ladies, thousands, by you/your, seized [or, married.]
+
+**अनुवादः**
+
+"Oh, king, there is no other sin that is outrageous and gravest than the dalliance
+with another's wife and, besides, you already have a thousand wives, isn't so! [3-38-30]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *31. raakSasa* = oh, demon; *sva daara nirataH bhava* = in your
 own, wife, delighted in, you become; *sva kulam rakSa* = your own, ethnos, safeguard;
 *maanam vR^iddhim ca raajyam ca* = dignity, affluence, also, kingdom, also; *aatmanaH
@@ -1429,23 +1446,6 @@ iSTam jiivitam ca* = for yourself, dear, [your] life, also; *[raksha* = safeguar
 "Abide by your own wife and be delighted with her, oh, demon, safeguard your own
 ethnos, thus safeguard dignity, affluence, and kingdom of demons, thereby safeguard even your own
 dear life. [3-38-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*30. para daara abhimarShaa tu* = other's, wife, dalliance, but;
-*paapa taram* = sin, higher in degree - gravest; *mahat* = outrageous [error];
-*aanayat na* = another, is not there; *raajan* = oh, king; *pramadaanaam
-sahasraaNi tava parigrahe* = ladies, thousands, by you/your, seized [or, married.]
-
-**अनुवादः**
-
-"Oh, king, there is no other sin that is outrageous and gravest than the dalliance
-with another's wife and, besides, you already have a thousand wives, isn't so! [3-38-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyasans38.htm)
 </details>

@@ -517,31 +517,6 @@ his son having been killed, I account Ravana to have been killed in battle."
 
 **पदच्छेदः**
 
-*16. tribhiH ahoraatraiH* = in the course of three days and nights;
-*viiraH* = the valiant Indrajit; *vinipaatitaH* = was felled down; *katham
-chit* = somehow; *adya* = now; *kR^itaH asmi* = I have been made;
-*niramitraH* = free from enemies; *shrutvaa* = hearing; *puNam* = his son;
-*nipaatitam* = having been felled down; *niryaasyati hi* = Ravana will indeed come
-forth; *mahataa* = with a great; *balavyuuhena* = and powerful battle-array.
-
-**अनुवादः**
-
-"In the course of three days and nights, the valiant Indrajit was felled down
-somehow. Now, I have been made free of enemies. Hearing of his son having been struck down, Ravana
-will indeed come forth with a great and powerful battle-array."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-विभीषण हनुमन्तरू युद्धदल्लि महापराक्रम तोरिरुवरु. नीवॆल्लरू सेरि मूरु हगलु मूरु रात्रॆगळल्लि हेगो आ वीर राक्षसनन्नु कॊन्दुहाकि नन्नन्नु शत्रुहीनरागिसिदिरि. इन्नु रावणने युद्धक्कागि हॊरडुवनु.॥15-1.॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 14; *15. tasmin* = as that; *duraatmani* = evil-minded;
 *shatrau* = enemy; *hate* = has been killed; *aham* = I; *vijayii* =
 (become) victorious; *viira* = O valiant Lakshmana!; *diShTyaa* = fortunately;
@@ -557,6 +532,31 @@ support; *mahat raNe* = in that great battle; *mahat karma* = a great feat;
 Lakshmana! Fortunately, you indeed severed the right hand of the cruel Ravana. Indrajit is indeed
 the support for that Ravana. Vibhishana and Hanuma too performed a great feat in the great
 battle."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+विभीषण हनुमन्तरू युद्धदल्लि महापराक्रम तोरिरुवरु. नीवॆल्लरू सेरि मूरु हगलु मूरु रात्रॆगळल्लि हेगो आ वीर राक्षसनन्नु कॊन्दुहाकि नन्नन्नु शत्रुहीनरागिसिदिरि. इन्नु रावणने युद्धक्कागि हॊरडुवनु.॥15-1.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. tribhiH ahoraatraiH* = in the course of three days and nights;
+*viiraH* = the valiant Indrajit; *vinipaatitaH* = was felled down; *katham
+chit* = somehow; *adya* = now; *kR^itaH asmi* = I have been made;
+*niramitraH* = free from enemies; *shrutvaa* = hearing; *puNam* = his son;
+*nipaatitam* = having been felled down; *niryaasyati hi* = Ravana will indeed come
+forth; *mahataa* = with a great; *balavyuuhena* = and powerful battle-array.
+
+**अनुवादः**
+
+"In the course of three days and nights, the valiant Indrajit was felled down
+somehow. Now, I have been made free of enemies. Hearing of his son having been struck down, Ravana
+will indeed come forth with a great and powerful battle-array."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>
@@ -834,23 +834,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. evam uktaH* = thus commanded; *raameNa* = by Rama; *saH
-mahaatmaH* = that great souled; *suSheNaH* = Sushena; *hariyuuthapaH* = the
-monkey-cheif; *dadau* = gave; *paramauShadham* = an excellent medicine;
-*nastaH* = through nose; *lakShmaNaaya* = to Lakshmana.
-
-**अनुवादः**
-
-As commanded by Rama, the great-souled Sushena, the monkey-cheif gave an excellent
-medicine through nose to Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 21; *22. lakShmaNaH* = (Let) Lakshmana; *savibhiiShaNaH* = along
 with Vibhishana; *kShipram kriyataam* = be qickly made; *vishalyaH* = free of pain
 caused by the arrows that have penetrated into their body; *te anye sarve. api* = let all
@@ -866,6 +849,23 @@ Let Lakshmana along with Vibhishana be quickly made free from pain caused by the
 arrows that have penetrated into their body. Let all others too among the gallant bear and
 monkey-warriors fighting with trees who have fought on the battle-field here and stand pierced with
 arrows and owunded, be healed in the same way with great care."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. evam uktaH* = thus commanded; *raameNa* = by Rama; *saH
+mahaatmaH* = that great souled; *suSheNaH* = Sushena; *hariyuuthapaH* = the
+monkey-cheif; *dadau* = gave; *paramauShadham* = an excellent medicine;
+*nastaH* = through nose; *lakShmaNaaya* = to Lakshmana.
+
+**अनुवादः**
+
+As commanded by Rama, the great-souled Sushena, the monkey-cheif gave an excellent
+medicine through nose to Lakshmana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga91/yuddhasans91.htm)
 </details>

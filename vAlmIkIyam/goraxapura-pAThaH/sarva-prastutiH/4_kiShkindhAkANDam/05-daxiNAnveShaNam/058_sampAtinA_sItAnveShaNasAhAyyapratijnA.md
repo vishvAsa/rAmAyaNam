@@ -220,24 +220,6 @@ retaliate my brother's enemy... [4-58-3]
 
 **पदच्छेदः**
 
-*5. aakaasha maargeNa aavR^itya* = by sky, way, spreading over -
-covering [the sky]; *bhR^isham javena svar gatau* = with high, speed, to firmament, we have
-gone; *[jvalantam] suurye* = [scorching of] sun; *madhyam praapte [tu]* = mid [day,
-noontide,] bechanced, when; *jaTaayuH avasiidati* = Jataayu, [started to] founder.
-
-**अनुवादः**
-
-"Covering the skyway we have gone to firmament much speedily, then bechanced is
-noontide and thus bechanced is the scorching of the noontime sun, and then Jataayu started to
-founder... [4-58-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *4. puraa vR^itra vadhe vR^itte* = once, demon Vritta's, elimination,
 was taking place; *saH ca aham ca* = he, also, I, also; *jaya eSiNau* = surpassing,
 desiring us two; *jvalantam rashmi maalinam* = scorching, rays, having [sun]; *aadityam
@@ -249,6 +231,24 @@ historical present tense,] we happened to be - we flew sunward.
 "Once, when the elimination of demon Vritta was taking place at the hand of Indra,
 we two eagle-brothers sportively desiring to surpass each other flew sunward, and we have gone very
 near to the scorch-rayed sun... [4-58-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*5. aakaasha maargeNa aavR^itya* = by sky, way, spreading over -
+covering [the sky]; *bhR^isham javena svar gatau* = with high, speed, to firmament, we have
+gone; *[jvalantam] suurye* = [scorching of] sun; *madhyam praapte [tu]* = mid [day,
+noontide,] bechanced, when; *jaTaayuH avasiidati* = Jataayu, [started to] founder.
+
+**अनुवादः**
+
+"Covering the skyway we have gone to firmament much speedily, then bechanced is
+noontide and thus bechanced is the scorching of the noontime sun, and then Jataayu started to
+founder... [4-58-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>
@@ -1134,30 +1134,6 @@ _________________
 
 **पदच्छेदः**
 
-*24. plavamgamaaH* = oh, fly-jumpers; *sampuurNam shata yojanam*
-= overalled, hundred, yojana-s [in width]; *saagarasya antam sampraapya* = ocean's, end,
-[northern end of southern ocean - northern shoreline of island] on reaching; *atha* = now;
-*dakSiNam tiiram aasaadya* = southerly, shore [northern seashore of southerly island,
-Lanka,] on getting at; *tataH* = then; *sam antataH* = all over; *saagareNa
-guptaayaam lankaayaam* = by ocean, secluded, in [such water-walled] Lanka; *raavaNam
-drakSyatha* = Ravana, you can see; *tvaritaaH* = by hurrying up; *tatra eva* =
-there, only; *kSipram* = promptly; *vikramadhvam* = you triumph over.
-
-**अनुवादः**
-
-"Now, oh, fly-jumpers, first get to the other shore of the island in southern ocean,
-which ocean spans in an overalled width of hundred yojana-s from this side of seashore, then
-landing on the other seashore you can see Lanka secluded all around by ocean, and in such a
-water-walled Lanka you can see Ravana... hence, hurry up, and promptly triumph over Lanka...
-[4-58-24, 25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *22b, 23. diinaa* = pitiable one; *kausheya vaasinii* =
 ochry-silk-sari, wearer of; *vaidehii* = such a Vaidehi; *tasyaam* = therein that
 Lanka; *raavaNa antaHpure* = in Ravana's, palace-chambers; *ruddhaa* = baulked;
@@ -1178,6 +1154,30 @@ The ochry silk sari is for continuity reasons. As there were no continuity girls
 or continuity men, [namely, the persons responsible for agreement of detail between different
 sessions of filming,] the poet himself became one and repeats this 'gold-yellow-red coloured silk
 sari of Seetha...' oft times.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24. plavamgamaaH* = oh, fly-jumpers; *sampuurNam shata yojanam*
+= overalled, hundred, yojana-s [in width]; *saagarasya antam sampraapya* = ocean's, end,
+[northern end of southern ocean - northern shoreline of island] on reaching; *atha* = now;
+*dakSiNam tiiram aasaadya* = southerly, shore [northern seashore of southerly island,
+Lanka,] on getting at; *tataH* = then; *sam antataH* = all over; *saagareNa
+guptaayaam lankaayaam* = by ocean, secluded, in [such water-walled] Lanka; *raavaNam
+drakSyatha* = Ravana, you can see; *tvaritaaH* = by hurrying up; *tatra eva* =
+there, only; *kSipram* = promptly; *vikramadhvam* = you triumph over.
+
+**अनुवादः**
+
+"Now, oh, fly-jumpers, first get to the other shore of the island in southern ocean,
+which ocean spans in an overalled width of hundred yojana-s from this side of seashore, then
+landing on the other seashore you can see Lanka secluded all around by ocean, and in such a
+water-walled Lanka you can see Ravana... hence, hurry up, and promptly triumph over Lanka...
+[4-58-24, 25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm)
 </details>

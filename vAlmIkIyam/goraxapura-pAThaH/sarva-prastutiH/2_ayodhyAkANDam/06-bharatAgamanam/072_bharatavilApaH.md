@@ -473,24 +473,6 @@ _________________
 
 **पदच्छेदः**
 
-*10. aham* = I; *aagataH* = came; *tvaryamaaNaH* =
-hurriedly; duutaiH- because of messengers; *raajavaakya haraiH* = who carried messeges of
-the king; *ambaa* = let my mother; *arhasi* = be good enough; *vaktum* = to
-tell; *tat* = that; *yat* = which; *aham* = I; *ichchhaami* = am
-wishing; *prashhTum* = to ask.
-
-**अनुवादः**
-
-"I came soon because of the horridness communicated by royal messengers. Let my
-mother be good enough to tell that which I desire to ask her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *9. yat* = which; *dhanamcha* = gifts; *ratnamcha* = and
 jewels; *dadou* = were given; *me* = to me; *rajaa* = by the king;
 *paramtapaH* = who annihilates enemies; *abhavat* = became; *parishraantam* =
@@ -501,6 +483,24 @@ tired; *pathi* = on the way; *puurvam* = before; *tataH* = then; *aham*
 
 "Carrying the gifts and jewels, given to me by the king who annihilates enemies my
 followers became tired on the way and I arrived ahead of them"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. aham* = I; *aagataH* = came; *tvaryamaaNaH* =
+hurriedly; duutaiH- because of messengers; *raajavaakya haraiH* = who carried messeges of
+the king; *ambaa* = let my mother; *arhasi* = be good enough; *vaktum* = to
+tell; *tat* = that; *yat* = which; *aham* = I; *ichchhaami* = am
+wishing; *prashhTum* = to ask.
+
+**अनुवादः**
+
+"I came soon because of the horridness communicated by royal messengers. Let my
+mother be good enough to tell that which I desire to ask her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
@@ -790,24 +790,6 @@ follow."
 
 **पदच्छेदः**
 
-*17. mahaabaahuH* = the mighty armed; *viiryavaan* = and the
-heroic Bharata; *udiirayaan* = raising; *kR^ipaaNam* = his grievous; *diinam*
-= and depressed; *vaacham* = voice; *iti* = thus saying; *haa hataHasmi* =
-"Alas; I am undone'; *vikshhipya* = and lifting up; *baahum* = his arms;
-*nipapaata* = fell down.
-
-**अनुवादः**
-
-The mighty armed and heroic Bharata, raising his grievous and depressed voice,
-cried, "Alas, I am undone' and lifting up his arms, fell down.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16. bharataH* = Bharata; *dharmaabhijaanavaan* = a righteous
 man with a noble descent; *suchiH* = and an honest man; *shrutvaa* = hearing;
 *tat* = those; *vaakyam* = words; *sahasaa* = immediately; *papaata* =
@@ -818,6 +800,24 @@ tormented by the grief for his father.
 
 Bharata, a righteous man with a noble descent and an honest man, hearing that news ,
 immediately fell down on the ground, being exceedingly tormented by the grief for his father.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. mahaabaahuH* = the mighty armed; *viiryavaan* = and the
+heroic Bharata; *udiirayaan* = raising; *kR^ipaaNam* = his grievous; *diinam*
+= and depressed; *vaacham* = voice; *iti* = thus saying; *haa hataHasmi* =
+"Alas; I am undone'; *vikshhipya* = and lifting up; *baahum* = his arms;
+*nipapaata* = fell down.
+
+**अनुवादः**
+
+The mighty armed and heroic Bharata, raising his grievous and depressed voice,
+cried, "Alas, I am undone' and lifting up his arms, fell down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
@@ -903,23 +903,6 @@ troubled by reeling under the death of his father, lamented profusely.
 
 **पदच्छेदः**
 
-*20. vihiinam* = being unoccupied; *dhiimataa tena* = by my
-virtuous father; *tat idam* = the same couch; *adya* = now; *navibhaati* = is
-bereft of glory; *vyomeva* = like the moon; *saagaraaH iva* = or like the sea;
-*apchchhushhkaH* = with water dried up.
-
-**अनुवादः**
-
-"Being unoccupied by my virtuous father, the same couch now is bereft of its glory,
-like the sky without the moon or like the sea with its water dried up."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19. etat* = this; *ruchiram* = beautiful; *shayanam* =
 couch; *me pituH* = of my father; *puraa* = formerly; *bhaatisma* = used to
 enhancewith his splendor; *shashineva* = as the moon; irradiates; *amalam* = the
@@ -930,6 +913,23 @@ end of the rainy season.
 
 "These beautiful couch of my father earlier used to enhance its charm with his
 splendor, as the moon irradiates the stainless sky in the night at the end of a rainy season."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. vihiinam* = being unoccupied; *dhiimataa tena* = by my
+virtuous father; *tat idam* = the same couch; *adya* = now; *navibhaati* = is
+bereft of glory; *vyomeva* = like the moon; *saagaraaH iva* = or like the sea;
+*apchchhushhkaH* = with water dried up.
+
+**अनुवादः**
+
+"Being unoccupied by my virtuous father, the same couch now is bereft of its glory,
+like the sky without the moon or like the sea with its water dried up."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
@@ -1635,24 +1635,6 @@ to his promise, who was strictly truthful, who was truly valiant and who was hon
 
 **पदच्छेदः**
 
-*36. saH* = that; *mahaatmaa* = highsoled; *raajaa* =
-king; *varaH* = who was excellent ; *gatimataam* = in understanding universal spirit;
-*gataH* = departed; *param lokam* = for the other world; *vilapam* = crying;
-*raameti* = �O; Rama; *haa siite* = O; sita; *lakshhmaNeti* = O;
-Lakshmana!
-
-**अनुवादः**
-
-That high soled king, who was excellent in understanding the Universal spirit,
-departed to the world, crying �O, Rama, O, Sita, O, Lakshmana!'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *35. ichchaami* = I want; *shrotum* = to hear; *saadhu* =
 well; *pashchimama* = the last; *sandesham* = message; (of my father;
 *aatmaanaH* = to me; *iti* = Thus; *pR^ishhTaa* = asked; *kaikeyii* =
@@ -1663,6 +1645,24 @@ accordance with truth:
 
 "I want to hear exactly the last message of my father to me." Thus requested by
 Bharata, Kaikeyi spoke the following words in accordance with truth.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. saH* = that; *mahaatmaa* = highsoled; *raajaa* =
+king; *varaH* = who was excellent ; *gatimataam* = in understanding universal spirit;
+*gataH* = departed; *param lokam* = for the other world; *vilapam* = crying;
+*raameti* = �O; Rama; *haa siite* = O; sita; *lakshhmaNeti* = O;
+Lakshmana!
+
+**अनुवादः**
+
+That high soled king, who was excellent in understanding the Universal spirit,
+departed to the world, crying �O, Rama, O, Sita, O, Lakshmana!'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>
@@ -2353,23 +2353,6 @@ me then, I asked your father to bestow kingdom to you and for banishment of Rama
 
 **पदच्छेदः**
 
-*51. tam* = that; *priyamputram* = belonged son;
-*apashyan* = having not been seen; *mahaayashaaH* = the very celebrated;
-*mahiipaalaH* = monarch; *upapedivaan* = obtained; *paNchatvam* = death;
-*putrashoka paridynunaH* = being made miserable by grief for his son.
-
-**अनुवादः**
-
-"That beloved son having not been seen, the very celebrated monarch was made
-miserable by the grief for his son and obtained death"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *50. samaasthaaya* = submitting to ; *svavR^ittim* = his own
 decree; *saH* = that king Dasaratha; *te pitaa* = your father; *akarot* = has
 done; *tat* = that; *tathaa* = as requested by me; *raamashcha* = Rama;
@@ -2379,6 +2362,23 @@ done; *tat* = that; *tathaa* = as requested by me; *raamashcha* = Rama;
 
 "Submitting to his own decree, King Dasaratha, your father has done all that was
 requested by me. Rama along with Lakshmana and Sita too were sent into exile."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*51. tam* = that; *priyamputram* = belonged son;
+*apashyan* = having not been seen; *mahaayashaaH* = the very celebrated;
+*mahiipaalaH* = monarch; *upapedivaan* = obtained; *paNchatvam* = death;
+*putrashoka paridynunaH* = being made miserable by grief for his son.
+
+**अनुवादः**
+
+"That beloved son having not been seen, the very celebrated monarch was made
+miserable by the grief for his son and obtained death"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga72/ayodhyasans72.htm)
 </details>

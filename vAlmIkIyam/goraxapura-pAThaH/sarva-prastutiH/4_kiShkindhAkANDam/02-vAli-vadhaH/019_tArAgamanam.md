@@ -767,6 +767,23 @@ _________________
 
 **पदच्छेदः**
 
+*15. rucira anane* = oh, one with pleasant, face Tara; *athavaa* = or; *iha te sthaanam*
+= here, your, staying; *a rucitam* = not, good; *vaanaraaH* = monkeys [of Sugreeva];
+*adya eva* = today, only; *kSipram durgaaNi* = promptly, in to strongholds; *aavishanti
+hi* = they enter, indeed.
+
+**अनुवादः**
+
+"Or, your staying here is not good, oh, one with a pleasant visage, for those monkeys of Sugreeva will
+promptly enter our strongholds on this day itself. [4-19-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *16. a bhaaryaaH* = without, wives; *saha bhaaryaaH ca* = with, wives, also; *vana
 caariNaH atra santi* = forest, moving ones, in there [in Kishkindha,] are there; *lubdhebhyaH*
 = by the cravers [of wives]; *vipralabdhebhyaH [vi pra labdheyaH]* = those that are victimised
@@ -783,23 +800,6 @@ whom we have victimised, and from them we have very great danger." So said monke
 Even in capital many followed the suite of Vali in incarcerating other's wives. Now they all may turn
 up since Sugreeva won the battle, assaulting such followers of Vali's style of living. This is the fear
 of individuals reported to Tara.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*15. rucira anane* = oh, one with pleasant, face Tara; *athavaa* = or; *iha te sthaanam*
-= here, your, staying; *a rucitam* = not, good; *vaanaraaH* = monkeys [of Sugreeva];
-*adya eva* = today, only; *kSipram durgaaNi* = promptly, in to strongholds; *aavishanti
-hi* = they enter, indeed.
-
-**अनुवादः**
-
-"Or, your staying here is not good, oh, one with a pleasant visage, for those monkeys of Sugreeva will
-promptly enter our strongholds on this day itself. [4-19-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>
@@ -1105,6 +1105,23 @@ and Dundubhi, and who never retreated in combats, but now fallen down on ground.
 
 **पदच्छेदः**
 
+*22. vajraaNaam vaasavam iva* = for thunderbolts, Indra, as with; *parvata indraaNaam kSeptaaram*
+= mountains, the lofty ones, flinger of; *mahaa vaata sama aviSTam* = great, gust of winds, similar,
+having blast; *mahaa megha augha niHsvanam* = great, black-clouds, cluster, a roarer; *[saa
+dadarsha* = she, saw.]
+
+**अनुवादः**
+
+She saw Vali who is a flinger of loftiest mountains as with Indra flinging his thunderbolt, who is a
+blaster as with great gusty winds, and who is a roarer as with a cluster of great black-clouds. [4-19-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *23. shakra tulya para aakraantam* = Indra, equal, others, in invading; *nardantam nardataam
 bhiimam* = a thunderer, to [other] thunderers, violent; *shuuram shuureNa paatitam* = braving
 one [Vali,] by braver [Rama,] felled; *aamiSasya arthe* = for flesh, for the purpose of; *
@@ -1126,23 +1143,6 @@ is objected, though Rama did not eliminate Vali for flesh or meat. The word *sha
 means a tiger in the present day context. For this commentators bring in the rulebook *vyjayanti*
 which says *shaarduula* also means a lion *-si~Nho mR^iga indraH pa~ncaasyo haryakShaH shveta
 pi~NgalaH vyaadiirnaasyo mahaanaadaH shaarduulo amita vikrama*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*22. vajraaNaam vaasavam iva* = for thunderbolts, Indra, as with; *parvata indraaNaam kSeptaaram*
-= mountains, the lofty ones, flinger of; *mahaa vaata sama aviSTam* = great, gust of winds, similar,
-having blast; *mahaa megha augha niHsvanam* = great, black-clouds, cluster, a roarer; *[saa
-dadarsha* = she, saw.]
-
-**अनुवादः**
-
-She saw Vali who is a flinger of loftiest mountains as with Indra flinging his thunderbolt, who is a
-blaster as with great gusty winds, and who is a roarer as with a cluster of great black-clouds. [4-19-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga19/kishkindhasans19.htm)
 </details>

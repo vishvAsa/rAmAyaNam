@@ -254,22 +254,6 @@ _________________
 
 **पदच्छेदः**
 
-*5. akhyaataa* = it has been said; *gR^idhraraajena sampaatinaa* = by the eagle
-king Sampaati; *siitaa* = Seetha; *iha* = (to be) here; *raavaNasya niveshane* = in the house
-of Ravana; *aham* = I; *na cha pashyaami* = I am unable to see; *taam* = her.
-
-**अनुवादः**
-
-"It has been said by the eagle King Sampati that Seetha is here in the house of Ravana. I am unable
-to see her."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *4. sarvaaH vasudaa* = all earth; *palvaalaani* = (consisting of) pools;
 *taTaakaani* = ponds; *saraamsi* = lakes; *tathaa* = and; *saritaH* = streams; *
 nadyaH* = rivers; *anupavanaantashcha* = and forest areas; filled with water; *dharaNiidharaaH*
@@ -280,6 +264,22 @@ nadyaH* = rivers; *anupavanaantashcha* = and forest areas; filled with water; *d
 
 "All earth consisting of pools, ponds, lakes and streams, rivers and forest areas filled with water,
 mountains difficult of access have been explored but I did not see Seetha."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. akhyaataa* = it has been said; *gR^idhraraajena sampaatinaa* = by the eagle
+king Sampaati; *siitaa* = Seetha; *iha* = (to be) here; *raavaNasya niveshane* = in the house
+of Ravana; *aham* = I; *na cha pashyaami* = I am unable to see; *taam* = her.
+
+**अनुवादः**
+
+"It has been said by the eagle King Sampati that Seetha is here in the house of Ravana. I am unable
+to see her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -576,14 +576,14 @@ _________________
 
 **पदच्छेदः**
 
-*12. athavaa* = otherwise; *adushhTaa* = not being evil; *asitekshaNaa*
-= with black eyes saa = she; *bhakshitaa bhavishhyati* = may have been eaten; *raakshasendrasya patniibhi*
-= by the wives of Ravana; *dushhTabhaavaabhi* = with evil thoughts.
+*11. aho* = or; *tapasvinii siitaa bhakishtaa* = has the austere Seetha been
+eaten; *anena raavaNena* = by this Ravana; *kshudreNa* = the evil minded one; *atmanaH shiilam
+rakshantii* = while she was protecting her chastity; *abandhuH* = without any relatives(near her).
 
 **अनुवादः**
 
-"Otherwise not being evil with black eyes, She may have been eaten by the wives of Ravana with
-evil thoughts."
+"Or has the austere Seetha been eaten by this Ravana, the evil minded one while she was protecting
+her chastity without any relatives near her."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -597,14 +597,14 @@ evil thoughts."
 
 **पदच्छेदः**
 
-*11. aho* = or; *tapasvinii siitaa bhakishtaa* = has the austere Seetha been
-eaten; *anena raavaNena* = by this Ravana; *kshudreNa* = the evil minded one; *atmanaH shiilam
-rakshantii* = while she was protecting her chastity; *abandhuH* = without any relatives(near her).
+*12. athavaa* = otherwise; *adushhTaa* = not being evil; *asitekshaNaa*
+= with black eyes saa = she; *bhakshitaa bhavishhyati* = may have been eaten; *raakshasendrasya patniibhi*
+= by the wives of Ravana; *dushhTabhaavaabhi* = with evil thoughts.
 
 **अनुवादः**
 
-"Or has the austere Seetha been eaten by this Ravana, the evil minded one while she was protecting
-her chastity without any relatives near her."
+"Otherwise not being evil with black eyes, She may have been eaten by the wives of Ravana with
+evil thoughts."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -1597,14 +1597,14 @@ _________________
 
 **पदच्छेदः**
 
-*33. vaanaaraaH* = Vanaras; *laalitaaH* = loved; *yashasvinaa kapiraajeH*
-= by the famous Sugreeva; *saantvenaa* = through good words; *anupradaanena* = through small gifts;
-*maanena* = through respect; *chakshyanti* = will give up praNaan = lives.
+*32. vanaukasaH* = Vanaras; *hyabhibhuutaaH* = being rejected; *bhatrujena
+duHkhena* = by the sorrow due to their lord; *abhihanishhyanti* = will strike; *shiraamsi* =
+their heads; *talaiH* = with palms; *mushhTibhirevacha* = and fists.
 
 **अनुवादः**
 
-"Vanaras loved by the famous king Sugreeva through good words, through small gifts, through respect
-will give up lives."
+"Vanaras being rejected by the sorrow due to their lord will strike their heads with palms and
+fists."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -1618,14 +1618,14 @@ will give up lives."
 
 **पदच्छेदः**
 
-*32. vanaukasaH* = Vanaras; *hyabhibhuutaaH* = being rejected; *bhatrujena
-duHkhena* = by the sorrow due to their lord; *abhihanishhyanti* = will strike; *shiraamsi* =
-their heads; *talaiH* = with palms; *mushhTibhirevacha* = and fists.
+*33. vaanaaraaH* = Vanaras; *laalitaaH* = loved; *yashasvinaa kapiraajeH*
+= by the famous Sugreeva; *saantvenaa* = through good words; *anupradaanena* = through small gifts;
+*maanena* = through respect; *chakshyanti* = will give up praNaan = lives.
 
 **अनुवादः**
 
-"Vanaras being rejected by the sorrow due to their lord will strike their heads with palms and
-fists."
+"Vanaras loved by the famous king Sugreeva through good words, through small gifts, through respect
+will give up lives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -1695,6 +1695,22 @@ _________________
 
 **पदच्छेदः**
 
+*34. kapikuJNjaraaH* = best among Vanaras; *na anubhavishhyanti* = will not
+enjoy; *sametya* = together; *kriiDaam* = sport; *vaneshhu* = in forest; *na shaileshhu*
+= not on mountains; *nirodheshhu vaa punaH* = not again in covered places.
+
+**अनुवादः**
+
+"Best among Vanaras will not enjoy together sport in forest, not on mountains, not again in covered
+places."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *35. sa putra dhaaraaH* = together with wife and children; *saamaatyaaH* =
 and together with ministers; *bhartuvyasana piiDitaaH* = being tortured by grief of their lord; *patishhyanti*
 = they will fall down; *shailaagrebhyaH* = from top of mountains; *sameshhu* = on to flat lands;
@@ -1704,22 +1720,6 @@ and together with ministers; *bhartuvyasana piiDitaaH* = being tortured by grief
 
 "Together with wife and children and together with ministers being tortured by grief of their lord,
 they will fall down from top of mountains on to flat lands and on to rugged lands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*34. kapikuJNjaraaH* = best among Vanaras; *na anubhavishhyanti* = will not
-enjoy; *sametya* = together; *kriiDaam* = sport; *vaneshhu* = in forest; *na shaileshhu*
-= not on mountains; *nirodheshhu vaa punaH* = not again in covered places.
-
-**अनुवादः**
-
-"Best among Vanaras will not enjoy together sport in forest, not on mountains, not again in covered
-places."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -1787,22 +1787,6 @@ places."
 
 **पदच्छेदः**
 
-*37 mayi gate* = while I am going; *manye* = I think; *ikshvaaku kula naashashcha*
-= (about) the destruction of Ikshvaaku dynasty; *naashashcaiva* = and destruction; *vanaukasaam*
-= of Vanaras; *bhavishhyati* = and there will be; *ghoram aarodhanam* = a terrible wail.
-
-**अनुवादः**
-
-"While I am going I think about the destruction of Ikshvaaku dynasty and destruction of Vanaras
-and there will be a terrible wail."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *36. vaanaraaH* = Vanaras; *pracharishhyanti* = will perform(death); *vishham*
 = (taking) poison; *utbandhanam vaapi* = or get hanged; *jvalanasya pravesham vaa* = or entering
 fire; *upavaasam* = or fasting; *atho* = or; *shastram* = a weapon.
@@ -1811,6 +1795,22 @@ fire; *upavaasam* = or fasting; *atho* = or; *shastram* = a weapon.
 
 "Vanaras will perform death by taking poison or getting hanged or entering fire or fasting or a
 weapon."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37 mayi gate* = while I am going; *manye* = I think; *ikshvaaku kula naashashcha*
+= (about) the destruction of Ikshvaaku dynasty; *naashashcaiva* = and destruction; *vanaukasaam*
+= of Vanaras; *bhavishhyati* = and there will be; *ghoram aarodhanam* = a terrible wail.
+
+**अनुवादः**
+
+"While I am going I think about the destruction of Ikshvaaku dynasty and destruction of Vanaras
+and there will be a terrible wail."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -1995,23 +1995,6 @@ and much water."
 
 **पदच्छेदः**
 
-*42. pravekshyaami* = or I will enter; *araNiisutam* = fire; *samidham*
-= which is glowing; *chitaam kR^itvaa* = after making a funeral pile; *vaa* = or; *upavishhTasya*
-= while sitting; *saadhayishhyataH* = performing; *liN^gnam* = fasting onto death; *sariram bhakshayishhyanti*
-= my body will be eaten; *vaayasaaH* = by crows; *shvapadaani cha* = and by beasts of prey.
-
-**अनुवादः**
-
-"Or I will enter fire which is glowing after making a funeral pile or while sitting performing
-fasting onto death my body will be eaten by crows and by beasts of prey."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *39. mayii* = I; *agachchhati* = while not going; *ihasthe* = being
 here; *dharmaatmaanau* = those virtuous ones; *mahaa rathau* = those great warriors; *tau*
 = those two Rama and Lakshmana; *dharishhyate* = will live; *aashayaa* = by hope; *vaanaraashcha*
@@ -2021,6 +2004,23 @@ here; *dharmaatmaanau* = those virtuous ones; *mahaa rathau* = those great warri
 
 "I while not going, being here those virtuous ones, those great warriors those two Rama and Lakshmana
 will live by hope. Vanaras also who are agile will live."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. pravekshyaami* = or I will enter; *araNiisutam* = fire; *samidham*
+= which is glowing; *chitaam kR^itvaa* = after making a funeral pile; *vaa* = or; *upavishhTasya*
+= while sitting; *saadhayishhyataH* = performing; *liN^gnam* = fasting onto death; *sariram bhakshayishhyanti*
+= my body will be eaten; *vaayasaaH* = by crows; *shvapadaani cha* = and by beasts of prey.
+
+**अनुवादः**
+
+"Or I will enter fire which is glowing after making a funeral pile or while sitting performing
+fasting onto death my body will be eaten by crows and by beasts of prey."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -2237,6 +2237,22 @@ _________________
 
 **पदच्छेदः**
 
+*46. yadi pratigachchhaami* = if I go back; *itaH* = from here; *anadhigamyaa*
+= without knowing; *taam siitaam* = that Seetha; *na bhavishhyati* = there will not be; *angadhaH*
+= Angada; *sarvaiH tai vaanaraiH saH* = together with all those Vanaras.
+
+**अनुवादः**
+
+"If I go back from here without knowing that Seetha, there will not be Angada together with all
+those Vanaras."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *47. bahavaH doshhaaH* = there are lot of blemishes; *vinaashe* = in dieing;
 *jiivan* = one who is alive; *pashyati* = sees; *bhadraaNi* = auspicious things; *tasmaat*
 = for that reason; *dharishhyaami* = I will keep; *praaNaan* = my life; *druvaH* = it is
@@ -2246,22 +2262,6 @@ definite; *jiivitasamgaaH* = for the meeting of people who are alive.
 
 "There are lots of blemishes in dying; one who is alive sees auspicious things. For that reason
 I will keep my life. It is definite for the meeting of people who are alive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*46. yadi pratigachchhaami* = if I go back; *itaH* = from here; *anadhigamyaa*
-= without knowing; *taam siitaam* = that Seetha; *na bhavishhyati* = there will not be; *angadhaH*
-= Angada; *sarvaiH tai vaanaraiH saH* = together with all those Vanaras.
-
-**अनुवादः**
-
-"If I go back from here without knowing that Seetha, there will not be Angada together with all
-those Vanaras."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -2430,22 +2430,6 @@ _________________
 
 **पदच्छेदः**
 
-*51. vaanaraH* = Hanuma; *anadhigamya* = not seeing; *taam siitaam*
-= that Seetha; *iti* = thus; *samaapannaH* = begetting; *chintaam* = sorrow; *chintayaamaasa*
-= thought; *dhyaanashokapariitaatma* = with a mind cluttered with thoughts and sorrow.
-
-**अनुवादः**
-
-Hanuma not seeing that Seetha thus begetting sorrow, thought with a mind cluttered with thoughts
-and sorrow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *49. vaa* = otherwise; *vadhishhyaami* = I will kill; *raavaNam* = Ravana;
 *dashagriivam* = with ten heads; *mahaabalam* = with great prowess; *hR^itaa* = the stolen;
 *siitaa* = Seetha; *kaamam astu* = whatever happened to her; *pratyaachiirNam bhavishhyati*
@@ -2455,6 +2439,22 @@ and sorrow.
 
 "Otherwise I will kill Ravana with ten heads, with great prowess. Whatever happened to the stolen
 Seetha, this will be revenge to that."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*51. vaanaraH* = Hanuma; *anadhigamya* = not seeing; *taam siitaam*
+= that Seetha; *iti* = thus; *samaapannaH* = begetting; *chintaam* = sorrow; *chintayaamaasa*
+= thought; *dhyaanashokapariitaatma* = with a mind cluttered with thoughts and sorrow.
+
+**अनुवादः**
+
+Hanuma not seeing that Seetha thus begetting sorrow, thought with a mind cluttered with thoughts
+and sorrow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -2528,21 +2528,6 @@ _________________
 
 **पदच्छेदः**
 
-*53. sampaati vachanaat* = based on words of Sampati; *aham aanayaami yadi*
-= if I bring; *raamam* = Sri Rama(then); *raghavaH* = Sri Rama; *apasyan* = not seeing;
-*bhaaryaam* = wife; *nirdahet* = will burn; *sarva vaanaraan* = all Vanaras.
-
-**अनुवादः**
-
-"Based on words of Sampati if I bring Sri Rama then Sri Rama not seeing wife will burn all Vanaras."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *52. yaavat* = to wherever; *pashyaami* = I see; *siitaam* = Seetha;
 *raamapatniim* = the wife of Sri Rama; *yashasviniim* = and one with fame; *tavat* = till
 there; *vichinomi* = I will search; *etaam laN^kaam puriim* = the city of Lanka; *punaH punaH*
@@ -2552,6 +2537,21 @@ there; *vichinomi* = I will search; *etaam laN^kaam puriim* = the city of Lanka;
 
 "To wherever I see Seetha, the wife of Sri Rama and one with fame, till there I will search the
 city of Lanka again and again."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*53. sampaati vachanaat* = based on words of Sampati; *aham aanayaami yadi*
+= if I bring; *raamam* = Sri Rama(then); *raghavaH* = Sri Rama; *apasyan* = not seeing;
+*bhaaryaam* = wife; *nirdahet* = will burn; *sarva vaanaraan* = all Vanaras.
+
+**अनुवादः**
+
+"Based on words of Sampati if I bring Sri Rama then Sri Rama not seeing wife will burn all Vanaras."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -2625,22 +2625,6 @@ _________________
 
 **पदच्छेदः**
 
-*55. yaa* = whatever; *iyam* = this; *ashokavanikaa* = Ashoka garden;
-*mahaadR^imaa* = with great trees; *dR^ishyate* = is being seen; *imam* = this; *adhigamishhyaami*
-= I will obtain; *iyam* = this; *na vichitaaH* = has not been searched; *mayaa* = by me.
-
-**अनुवादः**
-
-"Whatever this Ashoka garden with great trees is being seen this I will obtain. This has not been
-searched by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *54. niyataahaaraH* = with limited food; *yatendriyaH* = and with restrained
 senses; *vatsyaami* = and I live; *ihaiva* = here itself; *matkR^ite* = by my deed; *te
 naravaanaraaH* = those men and vanaras; *na vinasheyuH* = let they not be destroyed.
@@ -2649,6 +2633,22 @@ naravaanaraaH* = those men and vanaras; *na vinasheyuH* = let they not be destro
 
 "With limited food and with restrained senses, I live here itself. By my deed those men and vanaras
 - let they not be destroyed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*55. yaa* = whatever; *iyam* = this; *ashokavanikaa* = Ashoka garden;
+*mahaadR^imaa* = with great trees; *dR^ishyate* = is being seen; *imam* = this; *adhigamishhyaami*
+= I will obtain; *iyam* = this; *na vichitaaH* = has not been searched; *mayaa* = by me.
+
+**अनुवादः**
+
+"Whatever this Ashoka garden with great trees is being seen this I will obtain. This has not been
+searched by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -2810,16 +2810,13 @@ _________________
 
 **पदच्छेदः**
 
-*59. namaH astu* = let there be salutations; *raamaaya* = to Sri Rama; *
-sa lakshmaNaaya* = together with Lakshmana; *tasyai janakaatmajaayai cha* = also to that; daughter
-of Janaka; *devyai* = who is divine namaH astu = let there be salutations; *rudrendra yamaanilebhyaH*
-= to Rudra; Indra; Yama and Vaayu; *namaH astu* = let there be salutations; *chandrarkamarudgaNebhyaH*
-= to Chandra; Sun and Marut ganas.
+*58. mahaa tejaaH* = the great gloried; *maarutaatmajaH* = son of Vayu; *
+saH hanuman* = that Hanuma; *vudatishhTat* = got up; *chintaaH grathitedriyaH* = with his senses
+tied by grief; *dhyaatvaa* = meditating; *muhurtam iva* = for a moment.
 
 **अनुवादः**
 
-"Let there be salutations to Sri Rama together with Lakshmana, also to that, who is divine let
-there be salutations. To Rudra, Indra, Yama and Vaayu let there be salutations."
+The gloried son of Vayu that Hanuma got up with his senses tied by grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>
@@ -2833,13 +2830,16 @@ there be salutations. To Rudra, Indra, Yama and Vaayu let there be salutations."
 
 **पदच्छेदः**
 
-*58. mahaa tejaaH* = the great gloried; *maarutaatmajaH* = son of Vayu; *
-saH hanuman* = that Hanuma; *vudatishhTat* = got up; *chintaaH grathitedriyaH* = with his senses
-tied by grief; *dhyaatvaa* = meditating; *muhurtam iva* = for a moment.
+*59. namaH astu* = let there be salutations; *raamaaya* = to Sri Rama; *
+sa lakshmaNaaya* = together with Lakshmana; *tasyai janakaatmajaayai cha* = also to that; daughter
+of Janaka; *devyai* = who is divine namaH astu = let there be salutations; *rudrendra yamaanilebhyaH*
+= to Rudra; Indra; Yama and Vaayu; *namaH astu* = let there be salutations; *chandrarkamarudgaNebhyaH*
+= to Chandra; Sun and Marut ganas.
 
 **अनुवादः**
 
-The gloried son of Vayu that Hanuma got up with his senses tied by grief.
+"Let there be salutations to Sri Rama together with Lakshmana, also to that, who is divine let
+there be salutations. To Rudra, Indra, Yama and Vaayu let there be salutations."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga13/sundarasans13.htm)
 </details>

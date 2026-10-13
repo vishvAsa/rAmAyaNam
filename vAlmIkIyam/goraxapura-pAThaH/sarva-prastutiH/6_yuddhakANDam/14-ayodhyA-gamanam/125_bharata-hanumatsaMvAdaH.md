@@ -396,15 +396,15 @@ _________________
 
 **पदच्छेदः**
 
-*10. (Tell him) upayaanam* = about our going near; *samudrasya*
-= the ocean; *darshanamcha* = the appearance; *saagarasya* = of the ocean;
-*yathaa* = how; *setuH* = the bridge; *kaaritaH* = was constructed;
-*yathaa* = and how; *raavaNashcha* = Ravana; *hataH* = was killed.
+*8. (shamsa)* = tell him; *haraNam* = about the abduction;
+*vaidehyaaH* = of Seetha; *baliiyasaa raavaNena* = by the mighty Ravana;
+*samvaadamcha* = my conversation; *sugriiveNa* = with Sugreeva; *vadham* = and
+the killing; *vaalinaH* = of Vali; *rane* = in combat.
 
 **अनुवादः**
 
-"Tell him about our going near the ocean, the appearance of the ocean, how the
-bridge was constructed there and how Ravana was killed."
+"Tell him about the abduction of Seetha by the mighty Ravana, my conversation with
+Sugreeva and the killing of Vali in combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
@@ -435,6 +435,23 @@ crossing the never-diminishing ocean, having extensive waters."
 
 **पदच्छेदः**
 
+*10. (Tell him) upayaanam* = about our going near; *samudrasya*
+= the ocean; *darshanamcha* = the appearance; *saagarasya* = of the ocean;
+*yathaa* = how; *setuH* = the bridge; *kaaritaH* = was constructed;
+*yathaa* = and how; *raavaNashcha* = Ravana; *hataH* = was killed.
+
+**अनुवादः**
+
+"Tell him about our going near the ocean, the appearance of the ocean, how the
+bridge was constructed there and how Ravana was killed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *11. (Tell him) varadaanam* = about the bestowal of boons;
 *mahendreNa* = by Indra the lord of celestials; *brahmaNaa* = by Brahma the lord of
 creation; *varuNena* = and by Varuna the lord of waters; *maama samaagamam* = my
@@ -446,23 +463,6 @@ grace of Shiva; the Supreme Deity.
 "Tell him about the bestower of boons by Indra the lord of celestials, by brahma the
 lord of creation, and by Varuna the lord of waters, my meeting with my (deceased) father, through
 the grace of Shiva the Supreme Deity."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*8. (shamsa)* = tell him; *haraNam* = about the abduction;
-*vaidehyaaH* = of Seetha; *baliiyasaa raavaNena* = by the mighty Ravana;
-*samvaadamcha* = my conversation; *sugriiveNa* = with Sugreeva; *vadham* = and
-the killing; *vaalinaH* = of Vali; *rane* = in combat.
-
-**अनुवादः**
-
-"Tell him about the abduction of Seetha by the mighty Ravana, my conversation with
-Sugreeva and the killing of Vali in combat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
@@ -500,23 +500,6 @@ Sugreeva and the killing of Vali in combat."
 
 **पदच्छेदः**
 
-*13. (Tell him) raamaH* = (that) Rama; *upaayaati* = is coming;
-*jitvaa* = having conquered; *shatrugaNaam* = hosts of enemies; *praapyacha* =
-having obtained; *anuttamaam yashaH* = an excellent fame; *samR^iddhaarthaH* = having
-accomplished his purpose; *mahaabalaiH mitraiH saha* = along with his mighty friends.
-
-**अनुवादः**
-
-"Tell him, that having conquered hosts of enemies and obtained an excellent fame, is
-purpose having been accomplished, Rama is coming near, with is mighty friends."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. saumya* = O gently Hanuma!; *nivedaya* = inform;
 *bharataaya* = to Bharata; *maam* = of me; *upayaatam* = as having come near;
 *raakShasaraajena saha* = along with Vibhishana; *iishvareNa hariiNaam* = and
@@ -526,6 +509,23 @@ Sugreeva the lord of monkeys.
 
 "O gentle Hanuma! Inform to Bharata, of me as having come near Ayodhya, along with
 Vibhishana and Sugreeva the lord of monkeys."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. (Tell him) raamaH* = (that) Rama; *upaayaati* = is coming;
+*jitvaa* = having conquered; *shatrugaNaam* = hosts of enemies; *praapyacha* =
+having obtained; *anuttamaam yashaH* = an excellent fame; *samR^iddhaarthaH* = having
+accomplished his purpose; *mahaabalaiH mitraiH saha* = along with his mighty friends.
+
+**अनुवादः**
+
+"Tell him, that having conquered hosts of enemies and obtained an excellent fame, is
+purpose having been accomplished, Rama is coming near, with is mighty friends."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
@@ -951,6 +951,23 @@ _________________
 
 **पदच्छेदः**
 
+*23. saH raamaH* = that Rama; *tava sakhaa* = your friend;
+*kaakutthsaH* = born in Kakutthsa dynasty; *satya paraakramaH* = who is true in his
+prowess; *sa siitaH* = along with Seetha; *saha saumitriH* = and Lakshmana;
+*abraviit* = enquired; *tvaam kushalam* = of your welfare.
+
+**अनुवादः**
+
+"Along with Seetha and Lakshmana, Rama, your friend, that scion of Kakutthsa, of
+true prowess, has for his part enquired of your welfare."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *24. drakShyasi* = you can see; *raaghavam* = Rama;
 *adyaiva* = here itself today; *bharadvaajaanuJNaatam* = when he has been duly
 permitted by Bharadwaja the sage; *uShitvaa* = after spending; *muneH* = vachanaat =
@@ -962,23 +979,6 @@ lunar day (of the bright half of the month of Ashvayuja).
 "You can see Rama here itself today, when he has been duly permitted by Bharadwaja
 the sage, after spending, at the instance of the sage, for a night of the fifth lunar day (of the
 bright half of the month of Ashvayuja)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*23. saH raamaH* = that Rama; *tava sakhaa* = your friend;
-*kaakutthsaH* = born in Kakutthsa dynasty; *satya paraakramaH* = who is true in his
-prowess; *sa siitaH* = along with Seetha; *saha saumitriH* = and Lakshmana;
-*abraviit* = enquired; *tvaam kushalam* = of your welfare.
-
-**अनुवादः**
-
-"Along with Seetha and Lakshmana, Rama, your friend, that scion of Kakutthsa, of
-true prowess, has for his part enquired of your welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
@@ -1406,23 +1406,6 @@ body of virtue:
 
 **पदच्छेदः**
 
-*37. deva* = O Lord!; *aakhyaami* = I am telling; *te* =
-you; *priyam* = a pleasant news; *tyaja* = give up; *sudaaruNam* = the
-dreadful anguish; *asmin muhuurte* = at this moment; *tvam* = you; *samgataH*
-= joined; *raameNa saha* = with Rama; *bhraatraa* = your elder brother.
-
-**अनुवादः**
-
-"O Lord! I am telling you a pleasant news. Give up this dreadful anguish. Within a
-while, you will be meeting Rama, your elder brother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *36. vasantam* = who was residing; *daN^DakaaraN^ya* = in the
 forest of Dandaka; *chiira jaTAadharam* = wearing the bark of trees and matted locks;
 *kaakutthsam* = Rama; *yam anushochasi* = for whom you were repenting; *saH* =
@@ -1433,6 +1416,23 @@ welfare.
 
 "Rama, for whom you are repenting residing as he was in the forest of Dandaka
 wearing the bark of trees and matted locks, has enquired about your welfare."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. deva* = O Lord!; *aakhyaami* = I am telling; *te* =
+you; *priyam* = a pleasant news; *tyaja* = give up; *sudaaruNam* = the
+dreadful anguish; *asmin muhuurte* = at this moment; *tvam* = you; *samgataH*
+= joined; *raameNa saha* = with Rama; *bhraatraa* = your elder brother.
+
+**अनुवादः**
+
+"O Lord! I am telling you a pleasant news. Give up this dreadful anguish. Within a
+while, you will be meeting Rama, your elder brother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
@@ -1470,6 +1470,23 @@ wearing the bark of trees and matted locks, has enquired about your welfare."
 
 **पदच्छेदः**
 
+*38. nihatya* = having killed; *raavaNam* = Ravana;
+*pratilabhya* = and having got back; *maithiliim* = Seetha; *raamaH* = Rama;
+*samR^iddhaarthaH* = having accomplished his purpose; *raamaH* = Rama;
+*upayaati* = is coming; *mahaabalaiH mitraiH saha* = with his mighty friends.
+
+**अनुवादः**
+
+"Having killed Ravana and got back Seetha, Rama is returning with his mighty
+friends, his purpose duly accomplished."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *39. lakShmaNashcha* = Lakshmana too; *mahaatejaaH* = who is
 endowed with extra ordinary energy; (is coming); *samagraa siitaa* = intact with Seetha;
 *yashasvinii vaidehii* = the illustrious princess of Videha territory; *raameNa* =
@@ -1481,23 +1498,6 @@ mighty Indra the lord of celestials.
 "Lakshmana too, who is endowed with extraordinary energy, is coming intact with
 Seetha, the illustrious princess of Videha territory and with Rama as Sachi (the wife of Indra)
 would with the mighty Indra the lord of celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*38. nihatya* = having killed; *raavaNam* = Ravana;
-*pratilabhya* = and having got back; *maithiliim* = Seetha; *raamaH* = Rama;
-*samR^iddhaarthaH* = having accomplished his purpose; *raamaH* = Rama;
-*upayaati* = is coming; *mahaabalaiH mitraiH saha* = with his mighty friends.
-
-**अनुवादः**
-
-"Having killed Ravana and got back Seetha, Rama is returning with his mighty
-friends, his purpose duly accomplished."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>
@@ -1578,24 +1578,6 @@ at once to the ground as also fainted through joy.
 
 **पदच्छेदः**
 
-*42. aaliN^gya* = embracing; *kapim* = Hanuma;
-*sambhramaat* = with eagerness; *shriimaan* = the illustrious; *bharataH* =
-Bharata; *siShecha* = bathed (him) vipulaiH = with copious; *ashrubindubhiH* =
-tear-drops; *priitimayaiH* = born of delight; *ashokajaiH* = and as such; other than
-those born of anguish.
-
-**अनुवादः**
-
-Embracing Hanuma with eagerness, the illustrious Bharata bathed him with copious
-tear-drops born of delight and as such, other than those born of anguish.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *41. tataH* = thereupon; *bharataH* = Bharata;
 *raaghavaH* = who was born in Raghu dynasty; *uttaaya* = got up; *muhuurtaat*
 = within a while; *pratyaashvasya* = and regaining his consciousness; *uvaacha* =
@@ -1607,6 +1589,24 @@ spoke pleasant tidings (to him).
 Thereupon, Bharata who was born in Raghu dynasty, got up from the swoon within a
 while and regaining his consciousness, spoke the following words to Hanuma, who spoke pleasant
 tidings to him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. aaliN^gya* = embracing; *kapim* = Hanuma;
+*sambhramaat* = with eagerness; *shriimaan* = the illustrious; *bharataH* =
+Bharata; *siShecha* = bathed (him) vipulaiH = with copious; *ashrubindubhiH* =
+tear-drops; *priitimayaiH* = born of delight; *ashokajaiH* = and as such; other than
+those born of anguish.
+
+**अनुवादः**
+
+Embracing Hanuma with eagerness, the illustrious Bharata bathed him with copious
+tear-drops born of delight and as such, other than those born of anguish.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm)
 </details>

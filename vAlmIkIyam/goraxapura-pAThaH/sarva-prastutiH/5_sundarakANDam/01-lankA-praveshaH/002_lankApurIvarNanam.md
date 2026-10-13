@@ -1689,22 +1689,6 @@ go waste?."
 
 **पदच्छेदः**
 
-*43. na shakyam hi* = it is not possible; *sthaatum* = to be; *kvachit* = in any place;
-*raakshasa ruupeNaapi* = with the form of a rakshasa; *aviNJaatena* = not being known; *raakshaiH*
-= by rakshasas; *kimuta* = what to say; *anyena kenachit* = (about) any other form.
-
-**अनुवादः**
-
-"It is not possible to be in Lanka even in the form of a rakshasa. What to say about being there in any other
-form?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *42. mayi dR^ishhTe tu* = If I am seen; *rakshobhiH* = by rakshasas; *idam kaaryam* = this
 task; *raamasya* = of Sri Rama; *viditaatmanaH* = one with famed mind; *icchataH* = who desires;
 *raavaNaanartham* = the slaying of Ravana; *bhavet* = will become; *vyartham* = wasteful.
@@ -1713,6 +1697,22 @@ task; *raamasya* = of Sri Rama; *viditaatmanaH* = one with famed mind; *icchataH
 
 "If I were to be seen by rakshasas, this task of Sri Rama, with a famed mind, who desires the slaying of Ravana
 will become wasteful."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*43. na shakyam hi* = it is not possible; *sthaatum* = to be; *kvachit* = in any place;
+*raakshasa ruupeNaapi* = with the form of a rakshasa; *aviNJaatena* = not being known; *raakshaiH*
+= by rakshasas; *kimuta* = what to say; *anyena kenachit* = (about) any other form.
+
+**अनुवादः**
+
+"It is not possible to be in Lanka even in the form of a rakshasa. What to say about being there in any other
+form?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
@@ -1772,21 +1772,6 @@ _________________
 
 **पदच्छेदः**
 
-*45. aham tishhThaami yadi* = if I stay; *iha* = here; *svena ruupeNa saMvR^itaH* = consisting
-of my usual form; *upayaasyaami* = I can obtain; *vinaasham* = destruction; *arthashcha*
-= the task; *bhartuH* = of Lord Sri Rama; *hiiyate* = will also be harmed.
-
-**अनुवादः**
-
-"If I stay here with my usual form, I can be destroyed. The task of the Lord will also be harmed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *44. iti* = this; *mama matiH* = is my thought; *vaayurapi* = even wind; *na charet*
 = cannot pass; *atra* = here; *aNJgnaataH* = without being known; *naasti hi kiMchit* = there
 is nothing; *aviditam* = not known; *baliiyasaam raakshasaanaam* = to the mighty rakshasas.
@@ -1795,6 +1780,21 @@ is nothing; *aviditam* = not known; *baliiyasaam raakshasaanaam* = to the mighty
 
 "My thought goes thus: Even wind cannot pass here without being known. There is nothing not known to the might
 rakshasas."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. aham tishhThaami yadi* = if I stay; *iha* = here; *svena ruupeNa saMvR^itaH* = consisting
+of my usual form; *upayaasyaami* = I can obtain; *vinaasham* = destruction; *arthashcha*
+= the task; *bhartuH* = of Lord Sri Rama; *hiiyate* = will also be harmed.
+
+**अनुवादः**
+
+"If I stay here with my usual form, I can be destroyed. The task of the Lord will also be harmed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
@@ -1954,14 +1954,13 @@ _________________
 
 **पदच्छेदः**
 
-*49. suurye astaMgate cha* = After the sun had set; *maarutiH* = Hanuma; *saMkshipya* = reduced;
-*deham* = body; *raatrau* = at night; *vR^ishhadaMshaka maatraH san* = with a body size equal
-to that of a cat; *babhuuva* = became; *adhuta darshanaH* = a wonderful sight (to behold).
+*48. viiraH kapiH* = the courageous monkey; *hanumaan* = Hanuma; *iti* = thus; *saMchintya*
+= thinking; *darshanotsukaH* = interested in discovery; *vaidehyaaH* = of Seetha; *tadaa*
+= then; *aachakaaMkshe* = desired; *suuryasya astamayam* = the sun set.
 
 **अनुवादः**
 
-After the sun had set, Hanuma reduced His body at night with a size equal to that of a cat and became a wonderful
-sight to behold.
+The courageous Hanuma thus thinking and being interested in discovering Seetha, then desired the sun to set.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
@@ -1970,13 +1969,14 @@ sight to behold.
 
 **पदच्छेदः**
 
-*48. viiraH kapiH* = the courageous monkey; *hanumaan* = Hanuma; *iti* = thus; *saMchintya*
-= thinking; *darshanotsukaH* = interested in discovery; *vaidehyaaH* = of Seetha; *tadaa*
-= then; *aachakaaMkshe* = desired; *suuryasya astamayam* = the sun set.
+*49. suurye astaMgate cha* = After the sun had set; *maarutiH* = Hanuma; *saMkshipya* = reduced;
+*deham* = body; *raatrau* = at night; *vR^ishhadaMshaka maatraH san* = with a body size equal
+to that of a cat; *babhuuva* = became; *adhuta darshanaH* = a wonderful sight (to behold).
 
 **अनुवादः**
 
-The courageous Hanuma thus thinking and being interested in discovering Seetha, then desired the sun to set.
+After the sun had set, Hanuma reduced His body at night with a size equal to that of a cat and became a wonderful
+sight to behold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
@@ -2096,14 +2096,18 @@ _________________
 
 **पदच्छेदः**
 
-*53. atra* = there (in that city of Lanka); *bhavanaani* = the houses; *rakshasaam* = of
-rakshasas; *shushubhire* = shone; *talaiH* = with top portions; *vaiDuuryamaNi chitraiH*
-= painted by cats-eyes and emeralds; *muktaajaalavibhuushhitaiH* = decorated by groups of pearls.
+51; *52. saH* = Hanuma; *dadarsha* = saw; *mahaapuriim* = (that) great city; *praasaada
+maalaa vitataam* = filled with series of mansions; *kaaN^chana raajataiH* = (with) golden hued; *
+sthambhaiH* = pillars; *jaalaiH* = and windows; *gandharvanagaropamaam* = equal to the city
+of Gandharvas; *saptabhaumaashhTabhaumai cha* = (consisting of) seven and eight storied houses; *talaiH*
+= (with) top portions; *sphaTika saMkiirNaiH* = inlaid with crystals; *kaartasvaravibhuushhitaiH*
+= and decorated with gold.
 
 **अनुवादः**
 
-There in that city of Lanka, the houses of rakshasas shone with top portions painted by cats-eyes and emeralds
-and decorated by groups of pearls.
+Hanuma saw that great city filled with series of mansions, golden hued pillars and window lattices, which was
+equal to the city of Gandharvas, consisting of seven and eight storied buildings with their top portions studded
+with crystals and pearls and decorated with gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>
@@ -2117,18 +2121,14 @@ and decorated by groups of pearls.
 
 **पदच्छेदः**
 
-51; *52. saH* = Hanuma; *dadarsha* = saw; *mahaapuriim* = (that) great city; *praasaada
-maalaa vitataam* = filled with series of mansions; *kaaN^chana raajataiH* = (with) golden hued; *
-sthambhaiH* = pillars; *jaalaiH* = and windows; *gandharvanagaropamaam* = equal to the city
-of Gandharvas; *saptabhaumaashhTabhaumai cha* = (consisting of) seven and eight storied houses; *talaiH*
-= (with) top portions; *sphaTika saMkiirNaiH* = inlaid with crystals; *kaartasvaravibhuushhitaiH*
-= and decorated with gold.
+*53. atra* = there (in that city of Lanka); *bhavanaani* = the houses; *rakshasaam* = of
+rakshasas; *shushubhire* = shone; *talaiH* = with top portions; *vaiDuuryamaNi chitraiH*
+= painted by cats-eyes and emeralds; *muktaajaalavibhuushhitaiH* = decorated by groups of pearls.
 
 **अनुवादः**
 
-Hanuma saw that great city filled with series of mansions, golden hued pillars and window lattices, which was
-equal to the city of Gandharvas, consisting of seven and eight storied buildings with their top portions studded
-with crystals and pearls and decorated with gold.
+There in that city of Lanka, the houses of rakshasas shone with top portions painted by cats-eyes and emeralds
+and decorated by groups of pearls.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga2/sundarasans2.htm)
 </details>

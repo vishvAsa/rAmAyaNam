@@ -2539,23 +2539,6 @@ it in you. It is perverted."
 
 **पदच्छेदः**
 
-*59. kaaryam yudi* = If you want to do; *priyam* = favour; *bhartuH*
-= to your husband; *lokasya* = to the world; *bharatasyacha* = and to Bharata; *tvam*
-= you; *virama* = give up; *etena bhaavena* = this intention; *anr^itena* = which
-is sinful; *etena vaa* = to send Rama to exile.
-
-**अनुवादः**
-
-"If you want to do favour to your husband, to the world at large and to Bharata, you
-give up this sinful intention of sending Rama to exile."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *58. kutaH vaa* = from whome; *bhayam* = fear; *jaatam* =
 is arisen; *te* = to you?; *vR^iNiishhe* = Asking for; *varam* = boon; *evam
 vidham* = in this way; *bharatam* = for Bharata; *aasiinam* = to be sitting; *raashhTram*
@@ -2565,6 +2548,23 @@ vidham* = in this way; *bharatam* = for Bharata; *aasiinam* = to be sitting; *ra
 
 "From whom has such fear cropped up in you, so as to seek Bharata to be seated on the
 throne and Rama to stay in the forest?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*59. kaaryam yudi* = If you want to do; *priyam* = favour; *bhartuH*
+= to your husband; *lokasya* = to the world; *bharatasyacha* = and to Bharata; *tvam*
+= you; *virama* = give up; *etena bhaavena* = this intention; *anr^itena* = which
+is sinful; *etena vaa* = to send Rama to exile.
+
+**अनुवादः**
+
+"If you want to do favour to your husband, to the world at large and to Bharata, you
+give up this sinful intention of sending Rama to exile."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
@@ -2827,23 +2827,6 @@ a long time!"
 
 **पदच्छेदः**
 
-*66. bramiimi yadi* = If I tell; *etat* = this; *satyam* =
-truth; *raamaH* = Rama; *pravraajitaH* = was sent; *vanam* = to forest; *mayaa*
-= by me; *klishyamaanena* = hard-pressed; *kaikeyyaa* = by Kaikeyi; *tat* = that;
-*bhavishhyati* = will become; *asatyam* = untruth.
-
-**अनुवादः**
-
-"Even if I tell the truth that Rama was sent to forest by me, hard-pressed as I was by
-Kaikeyi, nobody will believe it and think as untruth."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *65. yadaa* = When; *bahuvaH vR^iddhhaaH* = many elders; *guNavantaH*
 = who are virtuous; *vahushRutaaH* = very knowledgeable; *pariprakshhyanti* = ask; *
 maam* = me; *kaakuthsam* = about Rama; *tadaa* = then; *aham kim vakshhyaami*
@@ -2853,6 +2836,23 @@ maam* = me; *kaakuthsam* = about Rama; *tadaa* = then; *aham kim vakshhyaami*
 
 "When many virtuous and learned elders enquire me about Rama, what then shall I tell
 them?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*66. bramiimi yadi* = If I tell; *etat* = this; *satyam* =
+truth; *raamaH* = Rama; *pravraajitaH* = was sent; *vanam* = to forest; *mayaa*
+= by me; *klishyamaanena* = hard-pressed; *kaikeyyaa* = by Kaikeyi; *tat* = that;
+*bhavishhyati* = will become; *asatyam* = untruth.
+
+**अनुवादः**
+
+"Even if I tell the truth that Rama was sent to forest by me, hard-pressed as I was by
+Kaikeyi, nobody will believe it and think as untruth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
@@ -3197,23 +3197,6 @@ _________________
 
 **पदच्छेदः**
 
-*75. devi* = Oh; Kaikeyi!; *saa* = You as such; *vidhavaa*
-= a widow; *saputraa* = along with son; *nunaam* = certainly; *raajyam kaarayishhyasi*
-= can rule the kingdom; *raame pravraajite* = After Rama's exile; *na utsahe hi* = I do
-not indeed wish; *jiivitum* = to live.
-
-**अनुवादः**
-
-"Oh, Kaikeyi! Deprived of your husband, you can as such rule the kingdom along with your
-son. It is indeed impossible for me to survive, after Rama's exile"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *74. dR^ishhTvaa* = Seeing; *raamam* = Rama; *pravasantam*
 = dwelling; *mahaavane* = in great forest; *maithiliimcha* = and Seetha; *rudatiim*
 = lamenting; *aham* = I; *na aashamse hi* = can not indeed desire; *jiivitum* =
@@ -3223,6 +3206,23 @@ to live.
 
 "Seeing Rama dwelling in a great forest and Seetha lamenting, I cannot indeed desire
 to line."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*75. devi* = Oh; Kaikeyi!; *saa* = You as such; *vidhavaa*
+= a widow; *saputraa* = along with son; *nunaam* = certainly; *raajyam kaarayishhyasi*
+= can rule the kingdom; *raame pravraajite* = After Rama's exile; *na utsahe hi* = I do
+not indeed wish; *jiivitum* = to live.
+
+**अनुवादः**
+
+"Oh, Kaikeyi! Deprived of your husband, you can as such rule the kingdom along with your
+son. It is indeed impossible for me to survive, after Rama's exile"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>
@@ -4199,23 +4199,6 @@ your son will then rule over the kingdom."
 
 **पदच्छेदः**
 
-*97. katham* = How; *me vatsaH* = my beloved son ; *raamaH*
-= Rama; *yaatvaa* = who was going; *vibhuH* = as a Lord; *muhurmuhuH* = again and
-again; *rathaiH* = in chariots; *gajaashvaishcha* = in elephants and horses; *vicharishhyati*
-= will move; *padbhyaam* = on foot; *mahaaraNye* = in a great forest?
-
-**अनुवादः**
-
-"How can my beloved son Rama, who was hitherto travelling as a Lord time again in chariots
-elephants and horses, will move on foot in a great forest?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *96. tvam* = You; *nyavasaH* = were residing; *mama veshmani*
 = in my house; *raajaputriivadena* = with a designation of princess; *me* = To me; *
 loke* = in the world; *atulaa* = unequalled; *akiirtiH* = ill-fame; *paribhavavashcha*
@@ -4227,6 +4210,23 @@ loke* = in the world; *atulaa* = unequalled; *akiirtiH* = ill-fame; *paribhavava
 "You are residing in my house with the designation of a princess. All fame, which is
 unequalled in this world and lasting insult as well as disrespect of men will fall to my share as to
 a perpetrator of sins.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*97. katham* = How; *me vatsaH* = my beloved son ; *raamaH*
+= Rama; *yaatvaa* = who was going; *vibhuH* = as a Lord; *muhurmuhuH* = again and
+again; *rathaiH* = in chariots; *gajaashvaishcha* = in elephants and horses; *vicharishhyati*
+= will move; *padbhyaam* = on foot; *mahaaraNye* = in a great forest?
+
+**अनुवादः**
+
+"How can my beloved son Rama, who was hitherto travelling as a Lord time again in chariots
+elephants and horses, will move on foot in a great forest?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga12/ayodhyasans12.htm)
 </details>

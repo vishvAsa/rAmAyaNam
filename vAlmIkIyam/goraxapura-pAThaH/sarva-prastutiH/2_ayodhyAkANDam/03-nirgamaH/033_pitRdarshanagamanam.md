@@ -1124,6 +1124,23 @@ live happily in the forest along with Rama.
 
 **पदच्छेदः**
 
+*26. raamaH* = Rama; *shushraava* = heard; *vividhaaH* =
+various kinds; *vaachaH* = of words; *ityevam* = thus; *naanaajane
+samiiritaaH* = spoken by many people; *shrutvaacha* = hearing them also; *asya* =
+his; *maanasam* = mind; *na vichakre* = was not distruebed.
+
+**अनुवादः**
+
+Rama heard various kinds of remarks thus made by many people. Hearing them also, his
+mind was not disturbed.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *27. saH* = that Rama; *dharmaatmaa* = the virtuous man;
 *maatta maataNga vikramaH* = with strides of an elephant in rut; *abhichakraama* =
 approached; *pituH* = his father's; *veshma* = palace; *kailaasa shikhara
@@ -1135,23 +1152,6 @@ distance.
 That Rama the virtuous man, by walking with strides of an elephant in rut,
 approached his father's palace, which from a distance glowed like a peak of the Kailasa
 mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*26. raamaH* = Rama; *shushraava* = heard; *vividhaaH* =
-various kinds; *vaachaH* = of words; *ityevam* = thus; *naanaajane
-samiiritaaH* = spoken by many people; *shrutvaacha* = hearing them also; *asya* =
-his; *maanasam* = mind; *na vichakre* = was not distruebed.
-
-**अनुवादः**
-
-Rama heard various kinds of remarks thus made by many people. Hearing them also, his
-mind was not disturbed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga33/ayodhyasans33.htm)
 </details>

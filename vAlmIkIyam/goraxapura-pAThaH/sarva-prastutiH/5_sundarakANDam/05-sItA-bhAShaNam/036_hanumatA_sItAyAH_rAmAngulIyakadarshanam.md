@@ -141,23 +141,6 @@ from Seetha, again modestly spoke the following words:
 
 **पदच्छेदः**
 
-*3. tava pratyayaartham* = for the purpose of creating your confidence;
-*tena dattam* = this ring given by Rama; *mahaatmanaa* = the high souled man; *aniitam*
-= is brought; *samaashrasihi* = get consoled indeed; *te bhadram* = happiness to you!
-asi hi = you are indeed; *kSiNaduHkhaphalaa* = free from the object of your grief.
-
-**अनुवादः**
-
-"I brought this ring given by the high souled Rama, for the purpose of gaining your confidence.
-Get consoled indeed. Happiness to you! You are now free from the object of your grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2. mahaabhaage* = O illustrious lady!; *aham* = I; *vaanaraH*
 = am a monkey; *duutaH* = and a messenger; *raamasya* = of Rama; *dhiimataH* =
 the wise; *devi* = O princess!; *pashya* = look at; *idam* = this; *aN^guliiyakam
@@ -167,6 +150,23 @@ cha* = ring also; *raama naamaaNkitam* = marked with Rama's name.
 
 "O illustrious lady! I am a monkey and a messenger of the wise Rama. O princess! Look
 at this ring too, marked with Rama's name."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. tava pratyayaartham* = for the purpose of creating your confidence;
+*tena dattam* = this ring given by Rama; *mahaatmanaa* = the high souled man; *aniitam*
+= is brought; *samaashrasihi* = get consoled indeed; *te bhadram* = happiness to you!
+asi hi = you are indeed; *kSiNaduHkhaphalaa* = free from the object of your grief.
+
+**अनुवादः**
+
+"I brought this ring given by the high souled Rama, for the purpose of gaining your confidence.
+Get consoled indeed. Happiness to you! You are now free from the object of your grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga36/sundarasans36.htm)
 </details>

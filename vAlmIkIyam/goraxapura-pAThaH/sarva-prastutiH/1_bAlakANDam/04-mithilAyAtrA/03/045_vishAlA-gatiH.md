@@ -1147,24 +1147,6 @@ _________________
 
 **पदच्छेदः**
 
-26b, 27a. *deveshaH*= god of gods; *bhagavaan haraH*= god, Hara
-- Shiva; *devaan visR^iujya*= on leaving off gods; *jagaama*= went
-away; *raghunandana*= oh delight of Raghu's dynasty - Rama; *tataH devaasuraaH sarve*
-= then, gods, non-gods, all; *mamanthuu*= continued churning.
-
-**अनुवादः**
-
-The god of gods Hara then left for his abode Kailash parting with other gods, and
-oh, Rama, the joy of Raghu's dynasty, the gods and non-gods have continued to churn
-the Milky Ocean. [1-45-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *25, 26a. surashreSThaH iti uktvaa* = best one among gods - Vishnu, this
 way, on saying; *tatra eva antaradhiiyata* = there, only, disappeared; *
 [saH* = he that Shiva]; *devataanaam bhayam dR^iSTvaa* = on observing god's scare
@@ -1179,6 +1161,24 @@ Saying so Vishnu, the best one among gods, has disappeared then and there only.
 And on observing the scare of gods and also on paying heed to the words of the Wielder
 of Bow called *shaar~Nga*, namely Vishnu, god Shiva gulped that lethal poison,
 *haalaahala *, as if it is ambrosia. [1-45-25, 26a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+26b, 27a. *deveshaH*= god of gods; *bhagavaan haraH*= god, Hara
+- Shiva; *devaan visR^iujya*= on leaving off gods; *jagaama*= went
+away; *raghunandana*= oh delight of Raghu's dynasty - Rama; *tataH devaasuraaH sarve*
+= then, gods, non-gods, all; *mamanthuu*= continued churning.
+
+**अनुवादः**
+
+The god of gods Hara then left for his abode Kailash parting with other gods, and
+oh, Rama, the joy of Raghu's dynasty, the gods and non-gods have continued to churn
+the Milky Ocean. [1-45-26b, 27a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga45/balasans45.htm)
 </details>

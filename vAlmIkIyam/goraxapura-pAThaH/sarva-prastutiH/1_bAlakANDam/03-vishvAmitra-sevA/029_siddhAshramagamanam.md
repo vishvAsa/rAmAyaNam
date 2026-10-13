@@ -112,6 +112,28 @@ When that matchlessly illustrious Rama has asked for details, that highly
 
 **पदच्छेदः**
 
+*2, 3a. mahaabaaho raama* = oh dextrous Rama; *iha devanamaskR^itaH*
+ = here, one who is worshipped by gods; *sumahaatapaaH*
+ = one who has - very great ascesis; *viSNuH* =
+ Vishnu; *subahuuni varSaaNi* = for good many years; *tathaa
+ yugashataani ca* = likewise, hundreds of eras, also; *tapaH caraNayogaartham*
+ = in pursuit of practise of penace and yoga; *iha uvaasa*
+ = here, resided.
+
+**अनुवादः**
+
+"Here, oh, dextrous Rama, he who is worshipped by gods and who has got
+ outstanding ascesis that Vishnu resided here in the pursuit of practising
+ ascesis and yoga for good many years, likewise for a hundred eras. [1-29-2,
+ 3a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *3b, 4a. raama* = oh Rama; *eSaH mahaatmanaH vaamanasya*
  = this is, of great-souled Vaamana; *puurvaashramaH*
  = erstwhile hermitage; *siddhaashrama iti khyaataH* = Siddha [Accomplished]
@@ -132,28 +154,6 @@ This is firstly the hermitage of Vishnu before taking up Vaamna incarnation.
  hermitage belongs to both Vishnu and Vaamna, and on such an analogy
  this even belongs to Rama at the present time, so says Vishvamitra at
  24th verse below.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*2, 3a. mahaabaaho raama* = oh dextrous Rama; *iha devanamaskR^itaH*
- = here, one who is worshipped by gods; *sumahaatapaaH*
- = one who has - very great ascesis; *viSNuH* =
- Vishnu; *subahuuni varSaaNi* = for good many years; *tathaa
- yugashataani ca* = likewise, hundreds of eras, also; *tapaH caraNayogaartham*
- = in pursuit of practise of penace and yoga; *iha uvaasa*
- = here, resided.
-
-**अनुवादः**
-
-"Here, oh, dextrous Rama, he who is worshipped by gods and who has got
- outstanding ascesis that Vishnu resided here in the pursuit of practising
- ascesis and yoga for good many years, likewise for a hundred eras. [1-29-2,
- 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
@@ -1196,24 +1196,6 @@ So saying that great sage Vishvamitra is highly gladdened to lead Rama
 
 **पदच्छेदः**
 
-*27. dhiimate vishvaamitraaya* = to sagacious Vishvamitra;
- *yathaarham puujaam cakrire* = offered reverence as deservedly;
- *tathaa eva* = like, that; *raajaputraabhyaam*= for two princes;
- *atithikriyaam akurvan* = they made [offered] guest works [reception] .
-
-**अनुवादः**
-
-Those sages reverenced Vishvamitra according to their deservedness,
- likewise they have offered hospitality to both of the princes, Rama
- and Lakshmana. [1-29-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *26. siddhaashramanivaasinaH* = residents of Accomplished hermitage
  ; *sarve munayaH* = all, sages; *tam dR^iSTvaa* = on seeing him
  ; *utpatya utpatya* = getting up, getting up [with hustle
@@ -1224,6 +1206,24 @@ Those sages reverenced Vishvamitra according to their deservedness,
 On seeing the arrival of Vishvamitra all of the resident sages of Accomplished
  Hermitage have quickly approached him with hustle and bustle adoring
  him. [1-29-26]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27. dhiimate vishvaamitraaya* = to sagacious Vishvamitra;
+ *yathaarham puujaam cakrire* = offered reverence as deservedly;
+ *tathaa eva* = like, that; *raajaputraabhyaam*= for two princes;
+ *atithikriyaam akurvan* = they made [offered] guest works [reception] .
+
+**अनुवादः**
+
+Those sages reverenced Vishvamitra according to their deservedness,
+ likewise they have offered hospitality to both of the princes, Rama
+ and Lakshmana. [1-29-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>
@@ -1366,6 +1366,32 @@ _________________
 
 **पदच्छेदः**
 
+*30. evam uktaH* = he who is said this way - Vishvamitra;
+ *mahaatejaaH vishvaamitraH mahaan R^iSiH* = great radiant one,
+ Vishvamitra, supreme saint; *tadaa* = thereupon; *niyataH*
+ = scrupulously; *niyatendriyaH* = by controlling senses;
+ *diikSaam pravivesha* = entered - undertook rite of solemnity.
+
+**अनुवादः**
+
+When he is said so, that great radiant and supreme sage Vishvamitra,
+ thereupon scrupulously undertook the vow of ritual controlling his senses.
+ [1-29-30]
+
+**टिप्पनी**
+
+Vishvamitra controlling senses etc., is to say that he will cut off
+ from external world occupying himself with the ritual, without getting
+ anger and the like during the progression of this ritual, as explained
+ at 1-19-7 to King Dasharatha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *31. kumaarau eva* = youngsters, thus; *taam raatrim*
  = in that, night; *susamaahitau uSitvaa* = very vigilantly,
  on staying - on spending; *prabhaatakaale ca utthaaya* = getting up at
@@ -1392,32 +1418,6 @@ Rama and Lakshmana spent that night vigilantly but not in a clam and collected w
 *anena kShatriyeNa
 jaagaruukatayaa yaj~naadi dharmaanuShTaatR^isamrakShNam kartavyam iti suucitam
 || dk*.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*30. evam uktaH* = he who is said this way - Vishvamitra;
- *mahaatejaaH vishvaamitraH mahaan R^iSiH* = great radiant one,
- Vishvamitra, supreme saint; *tadaa* = thereupon; *niyataH*
- = scrupulously; *niyatendriyaH* = by controlling senses;
- *diikSaam pravivesha* = entered - undertook rite of solemnity.
-
-**अनुवादः**
-
-When he is said so, that great radiant and supreme sage Vishvamitra,
- thereupon scrupulously undertook the vow of ritual controlling his senses.
- [1-29-30]
-
-**टिप्पनी**
-
-Vishvamitra controlling senses etc., is to say that he will cut off
- from external world occupying himself with the ritual, without getting
- anger and the like during the progression of this ritual, as explained
- at 1-19-7 to King Dasharatha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga29/balasans29.htm)
 </details>

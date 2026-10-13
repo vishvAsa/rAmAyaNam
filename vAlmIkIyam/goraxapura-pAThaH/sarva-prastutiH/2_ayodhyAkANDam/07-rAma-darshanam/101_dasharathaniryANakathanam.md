@@ -119,23 +119,6 @@ brother who was devoted to elders (as follows):
 
 **पदच्छेदः**
 
-*3. arhasi* = you ought; *vaktum* = to tell; *sarvam* =
-all; *tat* = that; *kimnimittam* = for what purpose; *tvam* = you;
-*praviSTaH* = entered; *imam desham* = this place; *kR^iSNaajinajaTaadharaH* =
-clad in deer-skin and matted hair; *hitvaa* = leaving; *raajyam* = the kingdom.
-
-**अनुवादः**
-
-"You ought to tell me all about the purpose for which you entered this place, clad
-in deer-skin and matted hair, relinquishing the kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2. aham* = I; *ichchhayam* = desire; *shrotum* = to
 hear; *pravyaahR^itam* = as said; *tvayaa* = by you; *yasmaat* = why;
 *kim* = and what; *etat* = in this manner; *tvam* = you; *aagataH* =
@@ -146,6 +129,23 @@ an antelope-skin.
 
 "I desire to hear from you, why you have come tot his place in robes of bark and an
 antelope-skin."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. arhasi* = you ought; *vaktum* = to tell; *sarvam* =
+all; *tat* = that; *kimnimittam* = for what purpose; *tvam* = you;
+*praviSTaH* = entered; *imam desham* = this place; *kR^iSNaajinajaTaadharaH* =
+clad in deer-skin and matted hair; *hitvaa* = leaving; *raajyam* = the kingdom.
+
+**अनुवादः**
+
+"You ought to tell me all about the purpose for which you entered this place, clad
+in deer-skin and matted hair, relinquishing the kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga101/ayodhyasans101.htm)
 </details>

@@ -626,23 +626,6 @@ the celestials and demons, and on whom the curse of Brahma the Lord of creation 
 
 **पदच्छेदः**
 
-*15. kriyataam* = guard; *dvaareSu* = the gates; *yatnaH*
-= with care; *adhiruhyataam* = and ascend; *praakaarashcha* = the ramparts;
-*vibodhyataam* = rouse; *kumbhakarNaH* = Kumbhakarna; *nidraavasha
-samaaviSTaH* = who is slumbering soundly.
-
-**अनुवादः**
-
-"Guard the gates with utmost care. Man the ramparts. Rouse Kumbhakarna who is
-slumbering soundly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14. jJNaatvaa* = having known (that); *prahastam* = Prahasta;
 *niSuuditam* = being slain; *saH* = and that king; *mahaabalaH* = the mighty
 one; *aatmaanam* = himself; *jitam* = being defeated; *samare* = in battle;
@@ -653,6 +636,23 @@ one; *aatmaanam* = himself; *jitam* = being defeated; *samare* = in battle;
 
 Having known that Prahasta being slain and knowing himself to have been defeated in
 the battle, Ravana issued his commands tot he dreadful army, saying:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. kriyataam* = guard; *dvaareSu* = the gates; *yatnaH*
+= with care; *adhiruhyataam* = and ascend; *praakaarashcha* = the ramparts;
+*vibodhyataam* = rouse; *kumbhakarNaH* = Kumbhakarna; *nidraavasha
+samaaviSTaH* = who is slumbering soundly.
+
+**अनुवादः**
+
+"Guard the gates with utmost care. Man the ramparts. Rouse Kumbhakarna who is
+slumbering soundly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
@@ -696,24 +696,6 @@ the battle, Ravana issued his commands tot he dreadful army, saying:
 
 **पदच्छेदः**
 
-*17. kR^itvaa* = having me; *mantram* = in consultation (with
-me); *navame* = on the nineth; *ahani* = day; *itam* = before; *ayam* =
-he; *prasuptaH* = has since fallen asleep; *bodhayata* = Awaken; *kshiipram* =
-quickly; *tam* = that; *mahaabalam* = mighty; *kumbhakarNam* =
-Kumbhakarna.
-
-**अनुवादः**
-
-"Having deliberated with me nine days ago, he has since fallen asleep. Awaken
-quickly that mighty Kumbhakarna."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16. raakSasaH* = Kumbhakarna; *svapiti* = is sleeping;
 *sukham* = happily; *kaalopahata chetanaH* = his understannding vitiated by lust;
 *nishchintaH* = free from all anxieties; (the demons sleeps); *nava* = for mine;
@@ -724,6 +706,24 @@ months.
 
 "Kumbhakarna is sleeping happily, his understanding vitiated by lust and free from
 all anxieties. The demon sleeps for nine, seven, ten or eight months.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. kR^itvaa* = having me; *mantram* = in consultation (with
+me); *navame* = on the nineth; *ahani* = day; *itam* = before; *ayam* =
+he; *prasuptaH* = has since fallen asleep; *bodhayata* = Awaken; *kshiipram* =
+quickly; *tam* = that; *mahaabalam* = mighty; *kumbhakarNam* =
+Kumbhakarna.
+
+**अनुवादः**
+
+"Having deliberated with me nine days ago, he has since fallen asleep. Awaken
+quickly that mighty Kumbhakarna."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
@@ -1013,24 +1013,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. pravishya* = entering; *taam* = that; *ramyaam* =
-beautiful; *guhaam* = cave; *ratna kaaNchana kuTTimaam* = inlaid with diamonds and
-gold; *nairR^ita ryaaghraaH* = those tigers among demons; *dadR^ishuH* = saw;
-*bhiimavikramam* = Kumbhakarna of terrific prowess; *shayanaam* = who was
-sleeping.
-
-**अनुवादः**
-
-Entering that beautiful cave inlaid with diamonds and gold, those tigers among
-demons beheld Kumbhakarna, of terrific prowess, who was sleeping.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 23; *24. pravishya* = entering; *ramyaam* = the beautiful;
 *kumbhakarNaguhaam* = cave of Kumbhakarna; *mahaadvaaraam* = with a large door;
 *yoganaayataam* = having an area of Yojana (About 9 miles x 9 miles); *sarvato* = on
@@ -1045,6 +1027,24 @@ all sides; *puSpagandhapravaahiniim* = bearing a floral perfume; *avadhuutaaH* =
 Entering the beautiful cave of Kumbhakarna, with a large door, having an area of a
 Yojana on all sides and bearing a floral perfume, the demons of mighty strength, though shaken off
 by Kumbhakarna's breaths, remained stable forcefully with difficulty and went into the cave.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. pravishya* = entering; *taam* = that; *ramyaam* =
+beautiful; *guhaam* = cave; *ratna kaaNchana kuTTimaam* = inlaid with diamonds and
+gold; *nairR^ita ryaaghraaH* = those tigers among demons; *dadR^ishuH* = saw;
+*bhiimavikramam* = Kumbhakarna of terrific prowess; *shayanaam* = who was
+sleeping.
+
+**अनुवादः**
+
+Entering that beautiful cave inlaid with diamonds and gold, those tigers among
+demons beheld Kumbhakarna, of terrific prowess, who was sleeping.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
@@ -1428,23 +1428,6 @@ _________________
 
 **पदच्छेदः**
 
-*35. puurayaamaasuH* = (They) blew; *shaN^khaan* = couches;
-*shashaaN^ka sadR^isha prabhaan* = as bright as the moon; *amarSitaaH* = and with
-impatience; *vineduH cha api* = made sounds; *tumulam* = tumultuously;
-*yugapat* = all at once.
-
-**अनुवादः**
-
-They blew couches which were as bright as the moon and with impatience, made with
-impatience, made sounds tumultuously all at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *34. yaatudhaanaaH* = the demons; *sasR^ijuH* = created;
 *dhuupagandhaan cha* = the burnt incense; *tuSTuvushcha* = and hymned the praises;
 *paramtapam* = of that warrior who proved fatal to his foes; *aaneduH cha* = (they)
@@ -1455,6 +1438,23 @@ like thunder of clouds.
 
 They burnt incenses and hymned the praises of that warrior who proved fatal to his
 foes. They cried out noises which burst forth on every side like thunder.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. puurayaamaasuH* = (They) blew; *shaN^khaan* = couches;
+*shashaaN^ka sadR^isha prabhaan* = as bright as the moon; *amarSitaaH* = and with
+impatience; *vineduH cha api* = made sounds; *tumulam* = tumultuously;
+*yugapat* = all at once.
+
+**अनुवादः**
+
+They blew couches which were as bright as the moon and with impatience, made with
+impatience, made sounds tumultuously all at once.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
@@ -1813,23 +1813,6 @@ _________________
 
 **पदच्छेदः**
 
-*43. yadaa* = when; *te* = they; *na shekuH* = were
-unable; *patibodhayitum* = to rouse; *enam* = him; *tadaa* = then;
-*samupaakraman* = they began; *tataH guru taram* = with a more energetic;
-*daaruNam* = and ruthless; *yatnam* = endeavour.
-
-**अनुवादः**
-
-As they were unable to rouse him by these means, they resorted to more energetic and
-ruthless methods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *42. dasha raakSasa sahaahasram* = ten thousand demons;
 *paryavaarayat* = surrounded (him); *yugapat* = all at once; *te tu* = they on
 their part; *abhighnantaH* = beating; *tam* = him; *niilaaJNanachayaakaaram* =
@@ -1842,6 +1825,23 @@ sambabudhe* = (he) did not wake.
 Ten thousand demons surrounded him all at once. Beating that colossus who resembled
 a heap of antimony, the demons on their part tried to rouse him by making sounds. Even then, he did
 not wake.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*43. yadaa* = when; *te* = they; *na shekuH* = were
+unable; *patibodhayitum* = to rouse; *enam* = him; *tadaa* = then;
+*samupaakraman* = they began; *tataH guru taram* = with a more energetic;
+*daaruNam* = and ruthless; *yatnam* = endeavour.
+
+**अनुवादः**
+
+As they were unable to rouse him by these means, they resorted to more energetic and
+ruthless methods.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
@@ -1946,15 +1946,15 @@ _________________
 
 **पदच्छेदः**
 
-*46. tena mahataa maadena* = by that great noise;
-*sambhipuuritaa* = was filled; *sarvaa* = the entire; *laN^kaa* = Lanka;
-*saparvatavanaa* = along with its mountains and groves; *saH api* = he nevertheless;
-*naiva prabudhyati* = did not wake.
+*45. nijaghnuH* = (They) crushed; *asya* = his;
+*gaatraaNi* = limbs; *mahaa kaaSThaka TamkaraiH* = under piles of heavy logs and
+pillars; *musalaishchaapi* = and maces; *sarvapraaNa samudyataiH* = lifted with all
+strength.
 
 **अनुवादः**
 
-The entire Lanka, with its mountain and groves, was filled with great noise. He
-nevertheless did not wake.
+They crushed his limbs under piles of heavy logs and pillars, as also maces lifted
+with all their strength.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
@@ -1968,13 +1968,15 @@ nevertheless did not wake.
 
 **पदच्छेदः**
 
-*47. tataH* = thereafter; *sahasram* = a thousand;
-*bheriiNaam* = drums; *aasaktaanaam* = lying upon that; *samantataH* = all
-around; *mR^iSTa kaaN^chana koNaanaam* = with sticks of refined gold.
+*46. tena mahataa maadena* = by that great noise;
+*sambhipuuritaa* = was filled; *sarvaa* = the entire; *laN^kaa* = Lanka;
+*saparvatavanaa* = along with its mountains and groves; *saH api* = he nevertheless;
+*naiva prabudhyati* = did not wake.
 
 **अनुवादः**
 
-Then, they beat a thousand drums all around with sticks of refined gold.
+The entire Lanka, with its mountain and groves, was filled with great noise. He
+nevertheless did not wake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>
@@ -1983,15 +1985,13 @@ Then, they beat a thousand drums all around with sticks of refined gold.
 
 **पदच्छेदः**
 
-*45. nijaghnuH* = (They) crushed; *asya* = his;
-*gaatraaNi* = limbs; *mahaa kaaSThaka TamkaraiH* = under piles of heavy logs and
-pillars; *musalaishchaapi* = and maces; *sarvapraaNa samudyataiH* = lifted with all
-strength.
+*47. tataH* = thereafter; *sahasram* = a thousand;
+*bheriiNaam* = drums; *aasaktaanaam* = lying upon that; *samantataH* = all
+around; *mR^iSTa kaaN^chana koNaanaam* = with sticks of refined gold.
 
 **अनुवादः**
 
-They crushed his limbs under piles of heavy logs and pillars, as also maces lifted
-with all their strength.
+Then, they beat a thousand drums all around with sticks of refined gold.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhasans60.htm)
 </details>

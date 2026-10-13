@@ -414,25 +414,6 @@ He skewered three lions, four tigers, two wolves, ten spotted deer, and a big he
 **पदच्छेदः**
 
 *
- 9b-10a. saH kR^itvaa bhairava naadam*
- = he, shouting, tremulous,
- blare; *chaalayan iva mediniim* = to tremor, as though, the earth; *ankena aadaaya
- vaidehiim* = by arms, seizing, Vaidehi; *apa kramya* = afar, gone; *tadaa
- abraviit* = then, said [this way.]
-
-**अनुवादः**
-
-He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
- with his arms and gone afar, and then said this way. [9b-10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*
  8b-9a. saH*
  = he that demon; *
  raamam lakshmanam cha eva siithaam
@@ -444,6 +425,25 @@ He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
 
 He that demon on seeing Rama, Lakshmana and Seetha ran towards them very angrily,
  like the Time, the Eliminator of people. [3-2-8b-9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*
+ 9b-10a. saH kR^itvaa bhairava naadam*
+ = he, shouting, tremulous,
+ blare; *chaalayan iva mediniim* = to tremor, as though, the earth; *ankena aadaaya
+ vaidehiim* = by arms, seizing, Vaidehi; *apa kramya* = afar, gone; *tadaa
+ abraviit* = then, said [this way.]
+
+**अनुवादः**
+
+He shouted a tremulous blare, as though to tremor the earth, and seized Vaidehi
+ with his arms and gone afar, and then said this way. [9b-10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga2/aranyasans2.htm)
 </details>

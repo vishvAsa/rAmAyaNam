@@ -368,6 +368,24 @@ moon-light."
 
 **पदच्छेदः**
 
+*7. raajyam* = the kingdom; *nihatakaN^Takam* = having its
+enemies destroyed; *dattam* = was given; *te* = to you; *pitraa* = by your
+father; *bhraataacha* = and brother; *bhuNteSva* = enjoy; *tat* = it;
+*muditaamaatyaH* = with its joyful ministers; *abhiSechaya* = get anointed for the
+kingdom; *kSiprameva* = just soon.
+
+**अनुवादः**
+
+"The kingdom, having its enemies destroy was given to you by your father and
+brother. Enjoy it, with its delightful ministers. Get anointed for the kingdom just soon."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *8. udiichyaaH* = (Let) those living in the north;
 *pratiichyaashcha* = the westerners; *daakSi Naatyaashcha* = the Southerners;
 *aparaantaaH* = the kings of the western borders near the Sahya mountains; *kevalaaH*
@@ -380,24 +398,6 @@ gifts).
 "let those living in the north, the Westerners; the southerners the kings of western
 borders near the Sahya mountains who are without a throne and the seafaring traders bring crores of
 jewels as gifts to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*7. raajyam* = the kingdom; *nihatakaN^Takam* = having its
-enemies destroyed; *dattam* = was given; *te* = to you; *pitraa* = by your
-father; *bhraataacha* = and brother; *bhuNteSva* = enjoy; *tat* = it;
-*muditaamaatyaH* = with its joyful ministers; *abhiSechaya* = get anointed for the
-kingdom; *kSiprameva* = just soon.
-
-**अनुवादः**
-
-"The kingdom, having its enemies destroy was given to you by your father and
-brother. Enjoy it, with its delightful ministers. Get anointed for the kingdom just soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga82/ayodhyasans82.htm)
 </details>

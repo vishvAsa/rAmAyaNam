@@ -625,23 +625,6 @@ _________________
 
 **पदच्छेदः**
 
-*14b, 15a. vaashyadbhiH* = screeching; *bhairavaswanaiH* = with fierce voices;
-*naanaaprakaaraiH shakunaiH* = with many varieties of vultures; *simhavyaaghravaraahaiH
-cha* = lions, tigers, wild boars, also; *vaariNaiH cha api* = with elephants,
-also, even; *shobhitam* = made to shine - atypical.
-
-**अनुवादः**
-
-"Various vultures are screeching with fierce sonority, and tigers, wild boars, and elephants
-render this forest atypical. [1-24-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *13b, 14a. aho* = oh; *jhillikaagaNasamyutam* = having crickets swarms;
 *bhairavaiH shvaapadaiH* = with brutish, predators; *shakunaiH* = with vultures;
 *daaruNaaravaiH* = [all are] horribly strident; *puurNam* = full of , fraught
@@ -651,6 +634,23 @@ with; *idam vanam durgam* = this, forest, difficult to enter - impenetrable.
 
 "Oh, impenetrable is this forest fraught with swarms of crickets, brutish predators, and vultures,
 which are all horribly strident. [1-24-13b, 14a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14b, 15a. vaashyadbhiH* = screeching; *bhairavaswanaiH* = with fierce voices;
+*naanaaprakaaraiH shakunaiH* = with many varieties of vultures; *simhavyaaghravaraahaiH
+cha* = lions, tigers, wild boars, also; *vaariNaiH cha api* = with elephants,
+also, even; *shobhitam* = made to shine - atypical.
+
+**अनुवादः**
+
+"Various vultures are screeching with fierce sonority, and tigers, wild boars, and elephants
+render this forest atypical. [1-24-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
@@ -994,6 +994,23 @@ _________________
 
 **पदच्छेदः**
 
+21b, 22a. Indra; *yathaa* = as to how; *nirmalaH niShkaruuShaH cha* =
+without filth, without hunger, also; *abhavat* = became; *shuchiH* = purified;
+*tataH* = then; *deshasya supriitaH* = gladdened of this place; *anuttamam
+varam praadaat* = he gave unexcelled boon.
+
+**अनुवादः**
+
+"As and when Indra was without desecration and hunger as well, and thus purified, then gladdened
+about this place he gave it an unexcelled boon. [1-24-21b, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *22b, 23a. mama angamaladhaariNau* = bearing my body's impurity; *imau
 janapadau sphiitau* = these, habitats, will be resourceful places; *maladaaH cha karuuSaaH
 cha* = as Malada, and Karuusha, also; *loke khyaatim gamiShyataH* = they will attain renown in world
@@ -1004,23 +1021,6 @@ cha* = as Malada, and Karuusha, also; *loke khyaatim gamiShyataH* = they will at
 "These provinces that bear the impurity of my body shall become resourceful and they shall
 attain renown in world as Malada and Karusha." Thus Indra gave boon to this place. [1-24-22b,
 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-21b, 22a. Indra; *yathaa* = as to how; *nirmalaH niShkaruuShaH cha* =
-without filth, without hunger, also; *abhavat* = became; *shuchiH* = purified;
-*tataH* = then; *deshasya supriitaH* = gladdened of this place; *anuttamam
-varam praadaat* = he gave unexcelled boon.
-
-**अनुवादः**
-
-"As and when Indra was without desecration and hunger as well, and thus purified, then gladdened
-about this place he gave it an unexcelled boon. [1-24-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>
@@ -1319,28 +1319,6 @@ Karusha. [1-24-28b, 29a]
 
 **पदच्छेदः**
 
-*30b, 31a. svabaahubalam aashritya* = depending upon your own arms strength - self-confidence
-; *duSTachaariNiim* = evildoer; *jahi imam* = kill, this one;
-*mat niyogaat* = by my, assigned; *desham kuru* = this, province, be made;
-*punaH niShkaNTakam* = again, free from thorniness.
-
-**अनुवादः**
-
-"Depending upon the strength of your own self-confidence you have to eradicate this evildoer,
-and assigned by me you have to make this province free from thorniness. [1-24-30b, 31a]
-
-**टिप्पनी**
-
-Great persons accomplish their deeds by their self-confidence, *kriyaasiddhiH sattve bhavati
-mahataam, nopakaraNe* not by their hardware.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *29b, 30a. saa iyam panthaanam aavR^itya* = she, on blockading this route; *vasati
 adhyardhayojane* = lives, after one half yojana [distance]; *yataH* = where/
 for which reason; *taaTakaayaaH vanam* = [this has become,] Tataka's, forest; *ataH
@@ -1356,6 +1334,28 @@ made, to eradicate her and her activities. [1-24-29b, 30a]
 
 This verse also means 'where there is the forest of Tataka there we have to go.' The above
 is another shade of that verse.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*30b, 31a. svabaahubalam aashritya* = depending upon your own arms strength - self-confidence
+; *duSTachaariNiim* = evildoer; *jahi imam* = kill, this one;
+*mat niyogaat* = by my, assigned; *desham kuru* = this, province, be made;
+*punaH niShkaNTakam* = again, free from thorniness.
+
+**अनुवादः**
+
+"Depending upon the strength of your own self-confidence you have to eradicate this evildoer,
+and assigned by me you have to make this province free from thorniness. [1-24-30b, 31a]
+
+**टिप्पनी**
+
+Great persons accomplish their deeds by their self-confidence, *kriyaasiddhiH sattve bhavati
+mahataam, nopakaraNe* not by their hardware.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga24/balasans24.htm)
 </details>

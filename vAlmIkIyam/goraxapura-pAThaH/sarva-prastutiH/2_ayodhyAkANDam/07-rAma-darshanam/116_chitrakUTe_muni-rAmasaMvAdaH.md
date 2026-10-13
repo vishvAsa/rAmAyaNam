@@ -675,23 +675,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. samprajyojya* = flinging; *aprashastaiH* = filthy;
-*ashuchibhiH* = and inauspicious objects; *taapasaan* = on some of the ascetics;
-*anaaryaaH* = these wicked demons; *sthitaaH* = stand; *purataH* = in front of
-them; *pratighnanti* = and kill; *aparaan* = some ascetics.
-
-**अनुवादः**
-
-"Flinging filthy and inauspicious objects on some of the ascetics, the wicked demons
-stand in front of them and kill some ascetics too."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14. darshayanti* = (They) appear; *bhiibhatsaiH* = in
 grotesque; *kruuraiH* = and harmful; *ruupaiH* = forms; *bhiiSaNakairapi* =
 fillign them with terror; *naanaaruupaiH* = in diverse forms; *viruupaishcha* =
@@ -701,6 +684,23 @@ fillign them with terror; *naanaaruupaiH* = in diverse forms; *viruupaishcha* =
 
 "They appear in grotesque and harmful forms, filling them with terror, in diverse
 forms and possessing ugly and unnatural demeanor."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. samprajyojya* = flinging; *aprashastaiH* = filthy;
+*ashuchibhiH* = and inauspicious objects; *taapasaan* = on some of the ascetics;
+*anaaryaaH* = these wicked demons; *sthitaaH* = stand; *purataH* = in front of
+them; *pratighnanti* = and kill; *aparaan* = some ascetics.
+
+**अनुवादः**
+
+"Flinging filthy and inauspicious objects on some of the ascetics, the wicked demons
+stand in front of them and kill some ascetics too."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga116/ayodhyasans116.htm)
 </details>

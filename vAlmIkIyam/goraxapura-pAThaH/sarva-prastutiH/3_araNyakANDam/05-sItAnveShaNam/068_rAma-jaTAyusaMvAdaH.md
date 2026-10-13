@@ -627,22 +627,6 @@ _________________
 
 **पदच्छेदः**
 
-*13b, c. raakshasa iishvaraH raavaNaH* = demons, chief, Ravana; *tvat priyaam jaanakiim hR^itvaa*
-= your, ladylove, Janaki, on stealing; *baDisham gR^ihya jhaSa vat* = baited hook, on catching
-[ on swallowing,] fish, as with; *kSipram eva vinashyati* = shortly, only, utterly ruins himself.
-
-**अनुवादः**
-
-"On stealing your ladylove Janaki, that chief of demons, Ravana, will ruin himself, as with a fish which
-swallows a baited fishhook... [3-68-13b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *12, 13a. kaakutstha* = oh, Kakutstha; *raavaNaH* = Ravana; *yena muhuurtena* =
 by which - in which, spell of time [of the day]; *siitaam aadaaya yaati* = = Seetha, on taking
 away, while going - has gone; *asau vindaH naama muhuurtaH* = that one is, Vinda, named, spell
@@ -670,6 +654,22 @@ muhuurtaaH | gargamarendraadi muniidraadibR^indaiH te ninditaaH karmasu bindasa~
 *Any action initiated in this spell of the day entails adverse effects, in so far as that aim and
 action of the initiator. Ravana, though an eminent astrologer, and though he is said to have written
 an astrological treatise called *raavaNa samhita*, did not care about it.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13b, c. raakshasa iishvaraH raavaNaH* = demons, chief, Ravana; *tvat priyaam jaanakiim hR^itvaa*
+= your, ladylove, Janaki, on stealing; *baDisham gR^ihya jhaSa vat* = baited hook, on catching
+[ on swallowing,] fish, as with; *kSipram eva vinashyati* = shortly, only, utterly ruins himself.
+
+**अनुवादः**
+
+"On stealing your ladylove Janaki, that chief of demons, Ravana, will ruin himself, as with a fish which
+swallows a baited fishhook... [3-68-13b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>
@@ -1641,24 +1641,6 @@ _________________
 
 **पदच्छेदः**
 
-*33. mahaayashaaH* = highly renowned one - for his observance of religious ceremonies; *raamaH*
-= Rama; *rohi maamsaani* = Rohi animal's, meat; *uddhR^itya* = pulling out; *peshii
-kR^itvaa* = to gobbets, on lumping it; *ramye harita shaadvale* = on pleasant, greenish,
-on pastures; *shakunaaya dadau* = for the bird [Jataayu,] gave [as offering.]
-
-**अनुवादः**
-
-On drawing up the flesh of that Rohi animal and lumping it to gobbets, that highly observant Rama placed
-those gobbets on pleasant greenish pasturelands as obsequial offerings in respect of that bird Jataayu.
-[3-68-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *32. atha* = then; *viiryavaan raamaH* = resolute one, Rama; *saha saumitriH* =
 with, Soumitri; *vanam yaatvaa* = to forest, on going; *sthuulaan mahaa rohiin hatvaa*
 = robust-bodied, big, Rohi [or, Kesari animals,] on killing - hunted; *tam dvijam* = for him,
@@ -1669,6 +1651,24 @@ the bird; *saH* = he; *anutastaara* = spread sacred grass - to place offerings.
 Then that resolute Rama on going into forest along with Soumitri hunted a robust-bodied, big Rohi animal,
 or, Kesari animal, and then he spread sacred grass on ground to place that offering to the deceased
 soul of that bird. [3-68-32]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*33. mahaayashaaH* = highly renowned one - for his observance of religious ceremonies; *raamaH*
+= Rama; *rohi maamsaani* = Rohi animal's, meat; *uddhR^itya* = pulling out; *peshii
+kR^itvaa* = to gobbets, on lumping it; *ramye harita shaadvale* = on pleasant, greenish,
+on pastures; *shakunaaya dadau* = for the bird [Jataayu,] gave [as offering.]
+
+**अनुवादः**
+
+On drawing up the flesh of that Rohi animal and lumping it to gobbets, that highly observant Rama placed
+those gobbets on pleasant greenish pasturelands as obsequial offerings in respect of that bird Jataayu.
+[3-68-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm)
 </details>

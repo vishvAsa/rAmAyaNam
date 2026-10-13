@@ -961,6 +961,29 @@ them with her illusoriness and discharging stone storms she moved about appallin
 
 **पदच्छेदः**
 
+*20b, 21a. samantataH ashmavarSheNa kiiryamaanau* = all-over overspread by stones storms
+; *tau* = then, them Rama, Lakshmana; *dR^iSTvaa*
+= on seeing; *tataH* = then; *sriimaan gaadhisutaH* = illustrious
+one, Gadhi's son [Vishvamitra]; *idam vachanam abraviit* = spoke this sentence.
+
+**अनुवादः**
+
+And on seeing both Rama and Lakshmana who are being overspread by storms of stones
+from all-over, then the illustrious sage Vishvamitra spoke this sentence. [1-26-20b,
+21a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+ईग अवळु भयङ्कर कल्लुगळ मळॆ सुरिसुत्ता आकाशदल्लि सञ्चरिसतॊडगिदळु. श्रीराम-लक्ष्मणर मेलॆ ऎल्लॆडॆगळिन्द आगुत्तिद्द शिलावृष्टियन्नु नोडि गाधिनन्दन विश्वामित्ररु नुडिदरु - श्रीरामा! ईकॆय मेलॆ नीनु दयॆ तोरुवुदु व्यर्थवागिदॆ. ईकॆ भारीपापिणि, दुराचारिणियागिद्दाळॆ. यावागलू यज्ञदल्लि विघ्नवन्नु माडुत्तिरुत्ताळॆ. इवळु तन्न मायॆयिन्द पुनः प्रबलवागुव मॊदले कॊन्दु हाकु. ईग सन्ध्याकाल समीपिसुत्तिदॆ. अदक्कॆ मॊदले कार्यवागबेकु. एकॆन्दरॆ, सन्ध्या समयदल्लि राक्षसरु दुर्जयरागुत्तारॆ.॥20-22½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *21b, 22a. te ghR^iNayaa alam* = enough with your compassion; *Rama;
 *paapaa* = sinister; *duSTachaariNii* = behaviourally malevolent;
 *yaj~navighnakarii* = one who causes hindrance to the ritual; *eSaa yakShii*
@@ -974,11 +997,6 @@ hinderer of rituals, and this yakshii gets a grip on herself in a short time by
 her illusory powers. [1-26-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-ईग अवळु भयङ्कर कल्लुगळ मळॆ सुरिसुत्ता आकाशदल्लि सञ्चरिसतॊडगिदळु. श्रीराम-लक्ष्मणर मेलॆ ऎल्लॆडॆगळिन्द आगुत्तिद्द शिलावृष्टियन्नु नोडि गाधिनन्दन विश्वामित्ररु नुडिदरु - श्रीरामा! ईकॆय मेलॆ नीनु दयॆ तोरुवुदु व्यर्थवागिदॆ. ईकॆ भारीपापिणि, दुराचारिणियागिद्दाळॆ. यावागलू यज्ञदल्लि विघ्नवन्नु माडुत्तिरुत्ताळॆ. इवळु तन्न मायॆयिन्द पुनः प्रबलवागुव मॊदले कॊन्दु हाकु. ईग सन्ध्याकाल समीपिसुत्तिदॆ. अदक्कॆ मॊदले कार्यवागबेकु. एकॆन्दरॆ, सन्ध्या समयदल्लि राक्षसरु दुर्जयरागुत्तारॆ.॥20-22½॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -995,24 +1013,6 @@ hi* = demons become unassailable, indeed.
 "Sun is going to set in a short time, and only before that time she shall be destroyed,
 for demons at dusk and afterwards become unassailable, indeed." So said sage Viswamitra
 to Rama. [1-26-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*20b, 21a. samantataH ashmavarSheNa kiiryamaanau* = all-over overspread by stones storms
-; *tau* = then, them Rama, Lakshmana; *dR^iSTvaa*
-= on seeing; *tataH* = then; *sriimaan gaadhisutaH* = illustrious
-one, Gadhi's son [Vishvamitra]; *idam vachanam abraviit* = spoke this sentence.
-
-**अनुवादः**
-
-And on seeing both Rama and Lakshmana who are being overspread by storms of stones
-from all-over, then the illustrious sage Vishvamitra spoke this sentence. [1-26-20b,
-21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>
@@ -1102,6 +1102,23 @@ with his arrows. [1-26-23b, 24a]
 
 **पदच्छेदः**
 
+*24b, 25a. baaNajaalena ruddhaa* = obstructed by array of arrows; *maayaabalasamanvitaa*
+= possessing with illusional power; *saa* = she;
+*vineSudii* = stridently blaring; *kaakutstham laxamaNam cha* = to
+Rama, Lakshmana also; *abhidudraava* = towards dashed.
+
+**अनुवादः**
+
+And when the arrays of arrows obstructed her who possesses illusional powers, she
+dashed towards Rama and Lakshmana blaring stridently. [1-26-24b, 25a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *25b, 26a. vikraantaam* = one who is invading; *ashaniim iva* = thunderbolt,
 like; *vegena* = speedily; *aapatantiim* = she who is coming and
 falling ? swooping down; *taam shareNa urasi vivyaadha* = struck her with arrow
@@ -1113,23 +1130,6 @@ in chest; *saa papaata* = she, readily fell; *mamaara cha*
 And Rama struck an arrow in her chest who is invading and speedily swooping down
 like a thunderbolt, and thus she is readily felled down and totally dropped dead,
 too. [1-26-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*24b, 25a. baaNajaalena ruddhaa* = obstructed by array of arrows; *maayaabalasamanvitaa*
-= possessing with illusional power; *saa* = she;
-*vineSudii* = stridently blaring; *kaakutstham laxamaNam cha* = to
-Rama, Lakshmana also; *abhidudraava* = towards dashed.
-
-**अनुवादः**
-
-And when the arrays of arrows obstructed her who possesses illusional powers, she
-dashed towards Rama and Lakshmana blaring stridently. [1-26-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga26/balasans26.htm)
 </details>

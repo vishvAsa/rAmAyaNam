@@ -1644,6 +1644,23 @@ _________________
 
 **पदच्छेदः**
 
+*41. apaarayan* = unable; *varayitum* = to restrain;
+*baaNagaNaaneva* = the series of arrows; *tasya raakSasasya* = of that demon;
+*duraatmanaH* = the evil- mined; (Nila); *pratyagR^iNaat* = received (them);
+*nimiilitaH* = with closed eyes.
+
+**अनुवादः**
+
+Being unable to restrain the series of arrows hurled at him by that evil-minded
+demon, nila received them with closed eyes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *42. govR^iSaH yathaiva* = like a bull; (standing under);
 *shaaradam* = an autumnal; *varSam* = down-pour; *aagatam* = which came;
 *shiighram* = suddenly; *evame eva* = so; *duraasadaan* = under that
@@ -1656,23 +1673,6 @@ eyes; *sehe* = endured; *duraasadran* = though it was scarce to be endured.
 Like a bull standing under a sudden autumnal down-pour, so under that intolerable
 and sudden rain of darts released by Prahasta, Nila endured with closed eyes though it was scarce
 to be endured.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*41. apaarayan* = unable; *varayitum* = to restrain;
-*baaNagaNaaneva* = the series of arrows; *tasya raakSasasya* = of that demon;
-*duraatmanaH* = the evil- mined; (Nila); *pratyagR^iNaat* = received (them);
-*nimiilitaH* = with closed eyes.
-
-**अनुवादः**
-
-Being unable to restrain the series of arrows hurled at him by that evil-minded
-demon, nila received them with closed eyes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>
@@ -2469,24 +2469,6 @@ firmy there, any more than water on reaching a breached bridge.
 
 **पदच्छेदः**
 
-*60. vijayii* = the triumphant; *yuuthapaH* = warrior;
-*niilaH* = Nila; *tataH* = thereafter; *prashasya maanaH* = was honoured;
-*raameNa* = by Rama; *sametya* = joined; *salakSmaNena* = with Lakshmana;
-*karmaNaa* = for his task; *sukR^itena* = accomplished well; *babhuuva* = and
-experienced; *prahR^iSTa ruupaH* = supreme joy.
-
-**अनुवादः**
-
-The triumphant Nila, however, was honoured by Rama and Lakshmana for his task well
-accomplished and experienced supreme joy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *59. tasmin* = that Prahaste; *chamuumukhye* = the Chief of
 Army; *hate* = having been slain; *te raakSasaaH* = those demons; *dhyaana
 muukatvam* = dull dumb; *nirudyamaah* = and inactive; *gatvaa* = regained;
@@ -2499,6 +2481,24 @@ tiivram* = in an ocean of burning grief.
 That Prahasta the chief of Army having been slain, those demons dumb dispirited and
 inactive, regained the abode of their king. They became unconscious as it were plunged in an ocean
 of burning grief.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*60. vijayii* = the triumphant; *yuuthapaH* = warrior;
+*niilaH* = Nila; *tataH* = thereafter; *prashasya maanaH* = was honoured;
+*raameNa* = by Rama; *sametya* = joined; *salakSmaNena* = with Lakshmana;
+*karmaNaa* = for his task; *sukR^itena* = accomplished well; *babhuuva* = and
+experienced; *prahR^iSTa ruupaH* = supreme joy.
+
+**अनुवादः**
+
+The triumphant Nila, however, was honoured by Rama and Lakshmana for his task well
+accomplished and experienced supreme joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga58/yuddhasans58.htm)
 </details>

@@ -66,6 +66,22 @@ body, Trishanku earnestly appeals to Vishvamitra.
 
 **पदच्छेदः**
 
+*1. raama* = oh Rama; *trishankoH vacanam shrutvaa* = on hearing Trishanku's sentence;
+*tataH* = then; *R^iSiputrashatam* = hundred sons of sage; *krodhasamanvitam*
+= infuriated; *raajaanam idam abraviit* = said this to king.
+
+**अनुवादः**
+
+"On hearing the sentence of Trishanku, oh, Rama, the hundred sons of sage Vashishta infuriately said
+this to that king." Thus, sage Shataananda continued his narration to Rama and others. [1-58-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *2. durbuddhe* = oh slow witted one [king]; *satyavaadinaa guruNaa pratyaakhyaataH asi*
 = you are denounced by mentor [Vashishta] the advocator of truth; *tam* = him;
 *samatikramya* = verily over stepping - transgressing; *shaakhaantaram* = another branch
@@ -76,22 +92,6 @@ body, Trishanku earnestly appeals to Vishvamitra.
 'You slow-witted king, your veracious mentor has denounced you. But transgressing him how do you approach
 another branch of the same tree of wisdom, when that very tree rejected you?' So the sons of Vashishta
 have started to denounce Trishanku. [1-58-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*1. raama* = oh Rama; *trishankoH vacanam shrutvaa* = on hearing Trishanku's sentence;
-*tataH* = then; *R^iSiputrashatam* = hundred sons of sage; *krodhasamanvitam*
-= infuriated; *raajaanam idam abraviit* = said this to king.
-
-**अनुवादः**
-
-"On hearing the sentence of Trishanku, oh, Rama, the hundred sons of sage Vashishta infuriately said
-this to that king." Thus, sage Shataananda continued his narration to Rama and others. [1-58-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
@@ -261,6 +261,22 @@ are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta
 
 **पदच्छेदः**
 
+*6b, 7a. saH raajaa* = that, king; *krodhaparyaakulaakSaram* = highly faltering with
+words of fury; *teSaam tat vacanam shrutvaa* = on hearing that sentence from them; *punaH
+eva* = further, thus; *etaan idam vacanam abraviit* = spoke this sentence to all of them.
+
+**अनुवादः**
+
+"On hearing that sentence of theirs which is highly faltering with words of fury that king further spoke
+this sentence to all of them." So Shataananda continued. [1-58-6b, 7a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *7b, 8a. tapodhanaaH* = oh ascetically wealthy [scholars]; *bhagavataa* = by godlike
 [Vashishta]; *tathaa eva* = like that, even; *guruputraiH* = by mentor's sons; *pratyaakhyaataH*
 = I am rejected; *hi* = indeed; *anyaam gatim gamiSyaami* = I wish to reach at another objective
@@ -271,22 +287,6 @@ are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta
 'I am indeed rejected by the godlike Vashishta, likewise even by you, the sons of the same mentor,
 as such oh, ascetically wealthy scholars, in this state obloquy I will resort to another recourse, let
 safety betide you.' So Trishanku bade farewell to the sons of Vashishta, but... [1-58-7b, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*6b, 7a. saH raajaa* = that, king; *krodhaparyaakulaakSaram* = highly faltering with
-words of fury; *teSaam tat vacanam shrutvaa* = on hearing that sentence from them; *punaH
-eva* = further, thus; *etaan idam vacanam abraviit* = spoke this sentence to all of them.
-
-**अनुवादः**
-
-"On hearing that sentence of theirs which is highly faltering with words of fury that king further spoke
-this sentence to all of them." So Shataananda continued. [1-58-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
@@ -316,23 +316,6 @@ this sentence to all of them." So Shataananda continued. [1-58-6b, 7a]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 त्रिशङ्कुविन ई महाघोर अत्यन्त कटुवाद मातन्नु केळिद महर्षिगळ पुत्ररु अत्यन्त कुपितरागि-ऎलवो! नीनु चाण्डालनागि होगु ऎन्दु शपिसि, आ महात्मरु तम्म आश्रमवन्नु प्रवेशिसिदरु.॥8-9॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*9b, 10a. mahaatmaanaH* = those who are great-souls; *te iti uktvaa* = they, this way,
-on saying; *svam svam aashramam vivishuH* = entered [into their] own [their] own hermitage
-- they withdrew; *atha raatryaam vyatiitaayaam* = then, when night elapsed; *raajaa caNDaalataam
-gataH* = king, entered into state of basely profaner.
-
-**अनुवादः**
-
-On saying thus those great-souled sons of Vashishta withdrew to one's own hermitage and when that night
-elapsed into day then the king lapsed into a state of basely profaner. [1-58-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -371,6 +354,23 @@ then a *caNDaal* conducts *antya, uttarakriyaaH* 'rites of death afterwards...' 
 terminator. This verbiage is to demark the relative values of functionaries, according to the maxim
 'a donkey is to bear and a dog is to bark...' and if their functions are reversed, reversed are our
 results.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9b, 10a. mahaatmaanaH* = those who are great-souls; *te iti uktvaa* = they, this way,
+on saying; *svam svam aashramam vivishuH* = entered [into their] own [their] own hermitage
+- they withdrew; *atha raatryaam vyatiitaayaam* = then, when night elapsed; *raajaa caNDaalataam
+gataH* = king, entered into state of basely profaner.
+
+**अनुवादः**
+
+On saying thus those great-souled sons of Vashishta withdrew to one's own hermitage and when that night
+elapsed into day then the king lapsed into a state of basely profaner. [1-58-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
@@ -462,23 +462,6 @@ which were regal emollients, and his royal jewellery is now rendered into iron a
 
 **पदच्छेदः**
 
-*12b, 13a. kaakutstha* = Rama of Kakutstha; *paramaatmavaan* = highly [resolutely]
-soulful one [self-assured one]; *raajaa* = king; *ekaH divaaraatram* = for one, day and
-night; *dahyamaanaH* = being seethed; *tapodhanam vishvaamitram jagaama* = went to ascetically
-prosperous Vishvamitra.
-
-**अनुवादः**
-
-Though that resolutely self-assured king seethed for one night and day for this mishap, then went to
-the ascetically prosperous Vishvamitra. [1-58-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11b, 12a. raama* = oh Rama; *caNDaalaruupiNam* = one in profaner's mien; *tam dR^iSTvaa*
 = on seeing him; *sarve* = all; *mantriNaH* = ministers; *pauraaH* = citizens;
 *ye asya anugaaminaH* = subjects, who are followers [retinue]; *tyaktvaa* = on deserting him;
@@ -488,6 +471,23 @@ the ascetically prosperous Vishvamitra. [1-58-12b, 13a]
 
 On seeing him in the mien of a profaner, oh, Rama, all of his ministers and the subjects and his own
 retinue have deserted him and took to flight in masses. [1-58-11b, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12b, 13a. kaakutstha* = Rama of Kakutstha; *paramaatmavaan* = highly [resolutely]
+soulful one [self-assured one]; *raajaa* = king; *ekaH divaaraatram* = for one, day and
+night; *dahyamaanaH* = being seethed; *tapodhanam vishvaamitram jagaama* = went to ascetically
+prosperous Vishvamitra.
+
+**अनुवादः**
+
+Though that resolutely self-assured king seethed for one night and day for this mishap, then went to
+the ascetically prosperous Vishvamitra. [1-58-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
@@ -524,44 +524,6 @@ retinue have deserted him and took to flight in masses. [1-58-11b, 12a]
 
 **पदच्छेदः**
 
-14b, 15a.* mahaatejaaH* = great-resplendent one; *paramadhaarmikaH* = highly generous one;
-*saH* = he that Vishvamitra; *kaaruNyaat* = owing to compassion; *ghoradarshanam raajaanam*
-= who is terrible, in his aspect, to king; said this firstly; *te bhadram* = safety to you;
-and; *idam vaakyam jagaada* = said this sentence.
-
-**अनुवादः**
-
-The great-resplendent sage and highly generous Vishvamitra firstly said to that king who is in a terrible
-aspect 'let safety betide you,' and then spoke on this sentence to him. [1-58-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-श्रीरामा! विश्वामित्ररु निष्फल जीवननाद राजनन्नु नोडिदरु. अवनन्नु चाण्डाल रूपदल्लि नोडि आ महातेजस्वि परमधर्मात्मा मुनिय हृदयदल्लि करुणॆ तुम्बितु. अवरु दयार्द्रवागि भयङ्करवागि कण्डुबरुव राजा त्रिशङ्कुविनल्लि हेळिदरु-महाबलि राजकुमार! निनगॆ ऒळ्ळॆयदागलि. याव कार्यदिन्द इल्लि बरोणवायितु. वीर अयोध्या नरेशने! नीनु शापदिन्द चाण्डालनागिरुवन्तॆ अनिसुत्तदॆ.॥13-15½॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*15b, 16a. mahaabala raajaputra* = oh great-mighty, king's son - prince; *te aagamanakaaryam
-kim* = what is your work[purpose] for arrival [visit] ; *ayodhyaadhipate viira* = Ayodhya's
-chieftain, oh brave one; *shaapaat caNDaalataam gataH* = you got [accurst] state of profaner by curse.
-
-**अनुवादः**
-
-'What is the purpose of your visit, oh, great-mighty prince Trishanku, oh, brave lord of Ayodhya,
-you are accurst to the state of profaner.' [1-58-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *13b, 14a. raama* = oh Rama; *muniH vishvaamitraH tu* = sage, Vishvamitra, on his part;
 *viphaliikR^itam* = made as fruitless [failed, precluded one] ; *caNDaalaruupiNam*
 = profaner's in mien; *tam raajaanam dR^iSTvaa* = on seeing that king; *kaaruNyam aagataH*
@@ -577,6 +539,44 @@ and for officiating rituals etc., oh, Rama, sage Vishvamitra because sympathetic
 The preclusion of the king by way of his transfiguring into a profaner is not only from his kingship,
 by which he is debarred from officiating Vedic rituals etc., but also from his *aihika-aamuSmika-
 bhogaaH* 'earthly and heavenly enjoyments...' because a king is a godsend being.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+श्रीरामा! विश्वामित्ररु निष्फल जीवननाद राजनन्नु नोडिदरु. अवनन्नु चाण्डाल रूपदल्लि नोडि आ महातेजस्वि परमधर्मात्मा मुनिय हृदयदल्लि करुणॆ तुम्बितु. अवरु दयार्द्रवागि भयङ्करवागि कण्डुबरुव राजा त्रिशङ्कुविनल्लि हेळिदरु-महाबलि राजकुमार! निनगॆ ऒळ्ळॆयदागलि. याव कार्यदिन्द इल्लि बरोणवायितु. वीर अयोध्या नरेशने! नीनु शापदिन्द चाण्डालनागिरुवन्तॆ अनिसुत्तदॆ.॥13-15½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+14b, 15a.* mahaatejaaH* = great-resplendent one; *paramadhaarmikaH* = highly generous one;
+*saH* = he that Vishvamitra; *kaaruNyaat* = owing to compassion; *ghoradarshanam raajaanam*
+= who is terrible, in his aspect, to king; said this firstly; *te bhadram* = safety to you;
+and; *idam vaakyam jagaada* = said this sentence.
+
+**अनुवादः**
+
+The great-resplendent sage and highly generous Vishvamitra firstly said to that king who is in a terrible
+aspect 'let safety betide you,' and then spoke on this sentence to him. [1-58-14b, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15b, 16a. mahaabala raajaputra* = oh great-mighty, king's son - prince; *te aagamanakaaryam
+kim* = what is your work[purpose] for arrival [visit] ; *ayodhyaadhipate viira* = Ayodhya's
+chieftain, oh brave one; *shaapaat caNDaalataam gataH* = you got [accurst] state of profaner by curse.
+
+**अनुवादः**
+
+'What is the purpose of your visit, oh, great-mighty prince Trishanku, oh, brave lord of Ayodhya,
+you are accurst to the state of profaner.' [1-58-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>
@@ -794,6 +794,28 @@ _________________
 
 **पदच्छेदः**
 
+*20b, 21a. bahuvidhaiH yaj~naiH iSTam* = propitiated gods with many kinds of Vedic-rituals;
+*prajaadharmeNa paalitaaH* = people conscientiously, reigned over; *mahaatmaanaH* =
+high-souled ones; *guravaH ca* = savants, also; *shiilavR^ittena toSitaaH* = pleased by conduct,
+by comport.
+
+**अनुवादः**
+
+I have propitiated gods with many kinds of Vedic-rituals. I have reigned over people conscientiously.
+And with my conduct and comport the high-souled savants are also pleased. [1-58-20b, 21a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+नानु नाना विधवाद यज्ञगळ अनुष्ठान माडिदॆ, प्रजॆयन्नु धर्मदिन्द पालिसिदॆ, शील मत्तु सदाचारदिन्द महात्मर हागू गुरुहिरियरन्नु सन्तुष्टरन्नागिसलु प्रयत्निसिरुवॆ. आगलू नानु यज्ञवन्नु माडलु बयसुत्तिद्दॆ. आद्दरिन्द नन्न ई प्रयत्नवु धर्मक्कागिये इत्तु. मुनिश्रेष्ठरे! आदरू गुरुजनरु नन्न मेलॆ सन्तुष्टरागलिल्ल. इदन्नु नोडि दैववन्ने हिरिदॆन्दु नानु तिळियुत्तेनॆ. पुरुषार्थवादरो निरर्थकवॆन्दे तिळियुत्तेनॆ.॥20-22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *21b, 22a. munipungava* = oh the eminent saint; *dharme prayatamaanasya* = being a pursuant in probity
 ; *yaj~nam aahartum* = to avail of ritual; *icChataH ca* = one who is expectant
 also; in my case; *guravaH* = to mentors; *paritoSam* = complete contentment; na
@@ -806,11 +828,6 @@ Oh, eminent sage Vishvamitra, but my mentors are not deriving complete contentme
 they shove me off. [1-58-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-नानु नाना विधवाद यज्ञगळ अनुष्ठान माडिदॆ, प्रजॆयन्नु धर्मदिन्द पालिसिदॆ, शील मत्तु सदाचारदिन्द महात्मर हागू गुरुहिरियरन्नु सन्तुष्टरन्नागिसलु प्रयत्निसिरुवॆ. आगलू नानु यज्ञवन्नु माडलु बयसुत्तिद्दॆ. आद्दरिन्द नन्न ई प्रयत्नवु धर्मक्कागिये इत्तु. मुनिश्रेष्ठरे! आदरू गुरुजनरु नन्न मेलॆ सन्तुष्टरागलिल्ल. इदन्नु नोडि दैववन्ने हिरिदॆन्दु नानु तिळियुत्तेनॆ. पुरुषार्थवादरो निरर्थकवॆन्दे तिळियुत्तेनॆ.॥20-22॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -826,23 +843,6 @@ course, isn't it.
 
 I deem destiny is the only ultimate, and manly efforts are meaningless, for destiny surmounts everything.
 Destiny is the ultimate course, isn't it? [1-58-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*20b, 21a. bahuvidhaiH yaj~naiH iSTam* = propitiated gods with many kinds of Vedic-rituals;
-*prajaadharmeNa paalitaaH* = people conscientiously, reigned over; *mahaatmaanaH* =
-high-souled ones; *guravaH ca* = savants, also; *shiilavR^ittena toSitaaH* = pleased by conduct,
-by comport.
-
-**अनुवादः**
-
-I have propitiated gods with many kinds of Vedic-rituals. I have reigned over people conscientiously.
-And with my conduct and comport the high-souled savants are also pleased. [1-58-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga58/balasans58.htm)
 </details>

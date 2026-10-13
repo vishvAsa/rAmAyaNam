@@ -291,25 +291,6 @@ _________________
 
 **पदच्छेदः**
 
-*7. vadha arheNa* = to be eliminated, who deserves to be; *raakSasa
-indreNa* = by demons, chief; *taam* = of her; *hR^itaam iti* = abducted, thus as;
-*bhuutaani* = creatures [that were already asked]; *tathaa* = likewise; *api
-godaavarii nadii* = even [now,] Godavari, river [which is being asked]; *raamaaya na
-shashamsuu* = to Rama, not, informed.
-
-**अनुवादः**
-
-The forest creatures which were asked earlier have not said to Rama that a
-deservedly destructible demagogue of demons has divested him of Seetha, likewise now River Godavari
-which is now being asked has not informed Rama about Seetha. [3-64-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *5b, 6. raamaH* = Rama; *lakSmaNasya vacaH shrutvaa* =
 Lakshmana's, words, on listening; *diinaH* = despaired; *santaapa mohitaH* = by
 anguish, stupefied; *svayam* = personally; *godaavariim nadiim* = to Godavari, river;
@@ -322,6 +303,25 @@ where [are you]; *iti evam abraviit* = thus, that way, said [shouted.]
 Rama who is already stupefied by anguish is now despaired on listening Lakshmana's
 words and he personally went straight to River Godavari, and staying nearby that river Rama shouted
 in this way, "Seetha... where are you?" [3-64-5b, 6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. vadha arheNa* = to be eliminated, who deserves to be; *raakSasa
+indreNa* = by demons, chief; *taam* = of her; *hR^itaam iti* = abducted, thus as;
+*bhuutaani* = creatures [that were already asked]; *tathaa* = likewise; *api
+godaavarii nadii* = even [now,] Godavari, river [which is being asked]; *raamaaya na
+shashamsuu* = to Rama, not, informed.
+
+**अनुवादः**
+
+The forest creatures which were asked earlier have not said to Rama that a
+deservedly destructible demagogue of demons has divested him of Seetha, likewise now River Godavari
+which is now being asked has not informed Rama about Seetha. [3-64-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>
@@ -886,24 +886,6 @@ are repeatedly running, stopping and staring at Rama. [3-64-17b, 18, 19a]
 
 **पदच्छेदः**
 
-*20b, 21a. dhiimaan lakshmaNaH* = imaginative, Lakshmana; *teSaam
-vacana sarvasvam* = their, sentence [language,] essence [lingua franca]; *ingitam ca* =
-body language [lingua persona,] even; *lakshayaamaasa* = started to notice; *aarta
-vat* = striver, as a; *jyeSTham bhraataram uvaaca* = to elder, brother, he spoke.
-
-**अनुवादः**
-
-On noticing the lingua franca and even the lingua persona of those animals, that
-imaginative Lakshmana spoke to his elder brother, alike a striver striving hard for some
-information. [3-64-20b, 21a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *19b, 20a. te mR^igaaH* = those, animals; *yena* = by which
 [reason]; *maargam ca* = [southerly] course, also; *bhuumim ca* = [southerly]
 terrain, also; *niriikshantaH sma* = peering at [Rama,] they are; *punaH nadantaH
@@ -915,6 +897,24 @@ gacChanti* = again, clamorously, going [adopting the very same southerly course]
 By which reason those animals are going in a southerly course on a southerly
 terrain, and stopping to peer at Rama, and again clamorously adopting the very same southerly
 course, Lakshmana ascertained that reason. [3-64-19b, 20a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20b, 21a. dhiimaan lakshmaNaH* = imaginative, Lakshmana; *teSaam
+vacana sarvasvam* = their, sentence [language,] essence [lingua franca]; *ingitam ca* =
+body language [lingua persona,] even; *lakshayaamaasa* = started to notice; *aarta
+vat* = striver, as a; *jyeSTham bhraataram uvaaca* = to elder, brother, he spoke.
+
+**अनुवादः**
+
+On noticing the lingua franca and even the lingua persona of those animals, that
+imaginative Lakshmana spoke to his elder brother, alike a striver striving hard for some
+information. [3-64-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga64/aranyasans64.htm)
 </details>

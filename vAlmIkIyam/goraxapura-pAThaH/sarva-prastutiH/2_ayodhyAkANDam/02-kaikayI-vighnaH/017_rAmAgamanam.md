@@ -79,23 +79,6 @@ _________________
 
 **पदच्छेदः**
 
-*2. saH raamaH* = that Rama; *yayau* = went; *raajamaargam madhyena*
-= through; *middle of royal* = passage; *agarudhuupitam* = which was incensed with aloe
-wood; *upashobhitam* = splendid; *paN^duraiH grihaiH* = with white houses; *abhrasaN^kaashaiH*
-= resembling like clouds.
-
-**अनुवादः**
-
-That Rama went through the royal passage which was incensed with aloe wood. That royal
-street was splendid with white houses resembling clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1. raamaH* = Rama; sriimaan the glourious man; *samprahR^ishhTa suhR^ijjanaH*
 = having joyful friends; *aasthaaya* = ascended ; *ratham* = the chariot; *apashyat*
 = saw; *nagaram* = the city; *pataakaadhavaja sampannam* = rich with flags and banners;
@@ -107,6 +90,23 @@ street was splendid with white houses resembling clouds.
 Rama the glorious man, who was with his joyful friends, ascended the chariot and saw
 the city which was decorated with flags and banners, which was perfumed all around by burning excellent
 aloe wood and which was endowed with varied types of people.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. saH raamaH* = that Rama; *yayau* = went; *raajamaargam madhyena*
+= through; *middle of royal* = passage; *agarudhuupitam* = which was incensed with aloe
+wood; *upashobhitam* = splendid; *paN^duraiH grihaiH* = with white houses; *abhrasaN^kaashaiH*
+= resembling like clouds.
+
+**अनुवादः**
+
+That Rama went through the royal passage which was incensed with aloe wood. That royal
+street was splendid with white houses resembling clouds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
@@ -169,25 +169,6 @@ _________________
 
 **पदच्छेदः**
 
-*6. dadarsha* = (Rama) saw; *tam raajapatham* = that royal passage;
-*devapatham yathaa* = like divine passage; *divi* = in heaven; *abhyarahita chatvaram*
-= whose road junctions were worshipped; *sadaa* = perpetually; *dadhyakshhata havirlaajaiH*
-= with yoghurt; unbroken rice; clarified butter; fried grain; *dhuupaiH* = incense; *aguruchandanaiH*
-= aloe and sandal wood; *naanaa maalyopagandhaishcha* = and all types of garlands and perfumes.
-
-**अनुवादः**
-
-Rama saw that royal route like divine passage in heaven. All the road junctions there
-were regularly worshipped with yoghurt, unbroken rice, clarified butter, fried grain, incense, aloe
-and sandal and all types of garlands and perfumes.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *3;4;5. tam* = that; *uttamam* = excellent; *raajapatham*
 = royal route; *samvritam* = filled with; *chandanaanaam* = sandal; *mukhyaanaam*
 = superior; *aguruuNaam* = aloe-wood; *uttamaanaam* = excellent; *gandhaanaam*
@@ -202,6 +183,25 @@ pearls; *uttamaiH* = excellent; *sphatikairapi* = things made of crystal; *shobh
 Rama entered that excellent royal route, which was filled with sandal, superior aloe-wood,
 excellent perfumes, silk and linen cloth, heaps of them, unpierced pearls, excellent things made of
 crystal, splendid with various kinds of flowers and eatables and which was not congested.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. dadarsha* = (Rama) saw; *tam raajapatham* = that royal passage;
+*devapatham yathaa* = like divine passage; *divi* = in heaven; *abhyarahita chatvaram*
+= whose road junctions were worshipped; *sadaa* = perpetually; *dadhyakshhata havirlaajaiH*
+= with yoghurt; unbroken rice; clarified butter; fried grain; *dhuupaiH* = incense; *aguruchandanaiH*
+= aloe and sandal wood; *naanaa maalyopagandhaishcha* = and all types of garlands and perfumes.
+
+**अनुवादः**
+
+Rama saw that royal route like divine passage in heaven. All the road junctions there
+were regularly worshipped with yoghurt, unbroken rice, clarified butter, fried grain, incense, aloe
+and sandal and all types of garlands and perfumes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
@@ -589,15 +589,15 @@ best of men.
 
 **पदच्छेदः**
 
-*15. saH* = that Rama; *dharmaatmaa* = the virtuous; *kurute dayaa*
-= took pity on; *sarveshhu* = all men; *chaturNaami* = of four; *varNaanaam* =
-classes; *vayasthaanam* = towards the aged; *tena* = hence; *te* = they; *anuvartaaH*
-= were devoted; *tam* = to him.
+*14. yashcha* = who; *napashyethu* = did not see; *raamam*
+= Rama; *yamcha* = and to whom; *raamaH* = Rama; *napashyati* = did not see;
+*ninditaH* = was blamed; *sarvalokeshhu* = among all people; *svaatmaapi* = one's
+mind also; *vigarhate* = yould blame; *enam* = oneself.
 
 **अनुवादः**
 
-Rama, the virtuous, had compassion towards all the four classes of men and towards the
-aged people. Hence, they were all devoted to him.
+All the people blamed the one who did not see Rama and the one who was not seen by Rama.
+Such a person would blame himself of it.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>
@@ -611,15 +611,15 @@ aged people. Hence, they were all devoted to him.
 
 **पदच्छेदः**
 
-*14. yashcha* = who; *napashyethu* = did not see; *raamam*
-= Rama; *yamcha* = and to whom; *raamaH* = Rama; *napashyati* = did not see;
-*ninditaH* = was blamed; *sarvalokeshhu* = among all people; *svaatmaapi* = one's
-mind also; *vigarhate* = yould blame; *enam* = oneself.
+*15. saH* = that Rama; *dharmaatmaa* = the virtuous; *kurute dayaa*
+= took pity on; *sarveshhu* = all men; *chaturNaami* = of four; *varNaanaam* =
+classes; *vayasthaanam* = towards the aged; *tena* = hence; *te* = they; *anuvartaaH*
+= were devoted; *tam* = to him.
 
 **अनुवादः**
 
-All the people blamed the one who did not see Rama and the one who was not seen by Rama.
-Such a person would blame himself of it.
+Rama, the virtuous, had compassion towards all the four classes of men and towards the
+aged people. Hence, they were all devoted to him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga17/ayodhyasans17.htm)
 </details>

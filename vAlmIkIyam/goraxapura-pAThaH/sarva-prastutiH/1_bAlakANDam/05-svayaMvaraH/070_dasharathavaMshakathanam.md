@@ -490,22 +490,6 @@ acts have started to send Sudaamana, the distinguished minister. [1-70-10b, 11a]
 
 **पदच्छेदः**
 
-*12b, 13a. saH* = he Sudaamana; *aupakaaryaam* = to visitatorial-palace; *gatvaa* = on going; *raghuuNaam
-kulavardhanam* = promoter of Raghu's heritage - Dasharatha; *dadarsha* = seen [appeared before]; *enam
-shirasaa abhivaadya ca* = on hailing him with head [head-bent, bow down], also; *idam abraviit* = said this.
-
-**अनुवादः**
-
-Accordingly Sudaamana has gone to the visitatorial-palace of the promoter of Raghu's heritage, namely Dasharatha, and he
-said this on appearing before that king duly bowing down and hailing the king. [1-70-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11b, 12a. mantripate* = oh husband / chief [plenipotentiary] of minister; *shiighram* = immediately; *
 amitaprabham* = to one with - unlimited resplendence; *aikSvaakam* = to Ikshvaku's [legatee of, Dasharatha];
 *gacCha* = you go; *durdharSam* = un assailable [invincible king Dasharatha]; *samantriNam* = who
@@ -517,6 +501,22 @@ will be - with ministers [Vedic celebrants]; *aatmajaiH saha* = with his sons; *
 "Oh, minister plenipotentiary, Sudaamana, you please proceed immediately to king Dasharatha, the legatee of Ikshvaku-s with
 illimitable resplendence, and let that invincible king Dasharatha be led hither along with his sons and along with his Vedic-celebrants..."
 Thus Janaka ordered Sudaamana, the minister. [1-70-11b, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12b, 13a. saH* = he Sudaamana; *aupakaaryaam* = to visitatorial-palace; *gatvaa* = on going; *raghuuNaam
+kulavardhanam* = promoter of Raghu's heritage - Dasharatha; *dadarsha* = seen [appeared before]; *enam
+shirasaa abhivaadya ca* = on hailing him with head [head-bent, bow down], also; *idam abraviit* = said this.
+
+**अनुवादः**
+
+Accordingly Sudaamana has gone to the visitatorial-palace of the promoter of Raghu's heritage, namely Dasharatha, and he
+said this on appearing before that king duly bowing down and hailing the king. [1-70-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
@@ -1342,14 +1342,14 @@ two of his wives were pregnant, and one of two wives gave toxic food to the co-w
 
 **पदच्छेदः**
 
-*32b, 33a. mahaabhaagaa* = highly fortunate one; *padmapatraakShii* = lotus petal eyed one; *[tayoH*
-= of the two wives]; *ekaa* = one [from two wives of Asita]; *uttamam sutam kaankShantii* = desirous of a best son
-; *tatra* = there; *devavarcasam bhaargavam vavande* = reverenced godly in glow.
+*31b-32a. tataH* = then; *ramye shailavare abhirataH* = in fascination on best beautiful mountain; *
+bhaargavaH cyavanaH naama muniH* = sage Bhrigu's [heir,] Cyavana, named, saint; *himavantam upaashritaH babhuuva*
+= he was taking shelter on Himalayas.
 
 **अनुवादः**
 
-One of the two wives of Asita, the lotus-petal eyed and highly fortunate one queen came there desirous of a best son, and
-reverenced the sage who is godly in his glow... [1-70-32b-33a]
+There was a saint named Cyavana, the heir of Sage Bhrigu, who in fascination with best and beautiful mountains then taking
+shelter on Himalayas. [1-70-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
@@ -1363,14 +1363,14 @@ reverenced the sage who is godly in his glow... [1-70-32b-33a]
 
 **पदच्छेदः**
 
-*31b-32a. tataH* = then; *ramye shailavare abhirataH* = in fascination on best beautiful mountain; *
-bhaargavaH cyavanaH naama muniH* = sage Bhrigu's [heir,] Cyavana, named, saint; *himavantam upaashritaH babhuuva*
-= he was taking shelter on Himalayas.
+*32b, 33a. mahaabhaagaa* = highly fortunate one; *padmapatraakShii* = lotus petal eyed one; *[tayoH*
+= of the two wives]; *ekaa* = one [from two wives of Asita]; *uttamam sutam kaankShantii* = desirous of a best son
+; *tatra* = there; *devavarcasam bhaargavam vavande* = reverenced godly in glow.
 
 **अनुवादः**
 
-There was a saint named Cyavana, the heir of Sage Bhrigu, who in fascination with best and beautiful mountains then taking
-shelter on Himalayas. [1-70-31b, 32a]
+One of the two wives of Asita, the lotus-petal eyed and highly fortunate one queen came there desirous of a best son, and
+reverenced the sage who is godly in his glow... [1-70-32b-33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
@@ -1408,25 +1408,6 @@ shelter on Himalayas. [1-70-31b, 32a]
 
 **पदच्छेदः**
 
-*34b, 35. mahaabhaage* = oh, highly fortunate lady; *tava kukShau* = in your, stomach [womb]; *sumahaabalaH*
-= very highly mighty one; *mahaaviiryaH mahaatejaaH* = highly vigorous, highly refulgent one; *suputraH*
-= a righteous son - is there; *shriimaan* = that illustrious one; *gareNa sahitaH* = along with toxin;
-*aciraat samjaniSyati* = soon, he takes birth; *kamalekShaNe* = oh, lotus-petal eyed one; *maa shucaH*
-= need not, worry.
-
-**अनुवादः**
-
-'Oh, highly fortunate lady, a very good son and a very mighty son is there in your womb. Soon you will give birth to a
-highly vigorous, highly refulgent son and that illustrious one will take birth with toxicity, but there is no need to worry...'
-So said Sage Cyavana to the queen of Asita who received the poison. [1-70-35]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *33b, 34a. saa kaalindii ca* = she, that Kaalidi, also; *tam R^iSim abhyupagamya abhyavaadata* =
 reverenced to him on reaching nigh that sage; *saH* = he, that; *vipraH* = Brahman - the sage; *taam* = to her
 - who firstly arrived, who received poison; *putrepsum* = who is desiring son; *putrajanmani* = in the
@@ -1443,6 +1424,25 @@ There are variations in reading these lines. While some say that Kaalindi is one
 some others say that Kaalindi is the one who 'received' the poisoned food. Here taking the *kaalindi ca* 'Kaalindi
 also...' it is said that 'Kaalindi is she who has administered poison...' Since she is also pregnant, coupled with the guilt
 of poisoning, hence the use of *ca* , she too came to the sage.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*34b, 35. mahaabhaage* = oh, highly fortunate lady; *tava kukShau* = in your, stomach [womb]; *sumahaabalaH*
+= very highly mighty one; *mahaaviiryaH mahaatejaaH* = highly vigorous, highly refulgent one; *suputraH*
+= a righteous son - is there; *shriimaan* = that illustrious one; *gareNa sahitaH* = along with toxin;
+*aciraat samjaniSyati* = soon, he takes birth; *kamalekShaNe* = oh, lotus-petal eyed one; *maa shucaH*
+= need not, worry.
+
+**अनुवादः**
+
+'Oh, highly fortunate lady, a very good son and a very mighty son is there in your womb. Soon you will give birth to a
+highly vigorous, highly refulgent son and that illustrious one will take birth with toxicity, but there is no need to worry...'
+So said Sage Cyavana to the queen of Asita who received the poison. [1-70-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>
@@ -1754,22 +1754,6 @@ _________________
 
 **पदच्छेदः**
 
-*43. naabhaagasya ajaH bhabhuuva* = Naabhaaga's son was Aja; *ajaat dasharathaH abhavat* = from Aja,
-Dasharatha, is manifest; *asmaat dasharathaat* = from him Dasharatha,; *bhraatarau raamalakSmaNau jaatau*
-= brothers, Rama and Lakshmana, are born.
-
-**अनुवादः**
-
-Aja was Naabhaaga's son and from Aja, this Dasharatha is manifest, and from him, from this Dasharatha, these brothers,
-Rama and Lakshmana are born... [1-70-43]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *42. mahiipatiH nahuSaH* = king, Nahusha; *ambariiSasya putraH abhuut* = was Ambariisha's son; *
 nahuSasya yayaatiH* = Nahusha's [son is,] Yayaati; *naabhaagaH yayaatijaH* = Naabhaaga born from Yayaati.
 
@@ -1780,6 +1764,22 @@ Ambariisha's son was Nahusha, the emperor and Yayaati is the son of Nahusha, but
 **टिप्पनी**
 
 These names Nahusha and Yayaati also occur in other Puraana-s, indicating them in earlier eras to Ramayana period.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*43. naabhaagasya ajaH bhabhuuva* = Naabhaaga's son was Aja; *ajaat dasharathaH abhavat* = from Aja,
+Dasharatha, is manifest; *asmaat dasharathaat* = from him Dasharatha,; *bhraatarau raamalakSmaNau jaatau*
+= brothers, Rama and Lakshmana, are born.
+
+**अनुवादः**
+
+Aja was Naabhaaga's son and from Aja, this Dasharatha is manifest, and from him, from this Dasharatha, these brothers,
+Rama and Lakshmana are born... [1-70-43]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga70/balasans70.htm)
 </details>

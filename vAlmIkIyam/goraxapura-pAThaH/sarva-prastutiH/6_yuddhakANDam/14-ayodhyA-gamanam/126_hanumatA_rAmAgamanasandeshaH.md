@@ -348,6 +348,23 @@ _________________
 
 **पदच्छेदः**
 
+*10. tvayi apayaate* = when you had gone away; *tadvanam* = that
+forest (of Chitrakuta); *samapadyata* = assumed; *tadaa* = then atyartham paridyuunam
+iva = a very miserable appearance; *samudbhraarta mR^igadvijam* = with the frightened
+animals and birds ( on seeing strange people in the forest).
+
+**अनुवादः**
+
+"When you had gone away, that forest (of Chitrakuta) then assumed a very miserable
+appearance, with the frightened animals and birds (on seeing strange people there)."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *11. saH* = that Rama; *atha* = thereupon; *pravivesha* =
 entered; *tatmahat* = that large; *ghoram* = terrific; *viJNanam* = and
 solitary; *daN^Dakaaranam* = forest of Dandaka; *taddhastimR^iditam* = which had been
@@ -358,23 +375,6 @@ deers.
 
 "Rama, thereupon, entered that large, terrific and solitary forest of Dandaka, which
 had been trampled by elephants and extensive with lions, tigers and deers."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*10. tvayi apayaate* = when you had gone away; *tadvanam* = that
-forest (of Chitrakuta); *samapadyata* = assumed; *tadaa* = then atyartham paridyuunam
-iva = a very miserable appearance; *samudbhraarta mR^igadvijam* = with the frightened
-animals and birds ( on seeing strange people in the forest).
-
-**अनुवादः**
-
-"When you had gone away, that forest (of Chitrakuta) then assumed a very miserable
-appearance, with the frightened animals and birds (on seeing strange people there)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>
@@ -1772,23 +1772,6 @@ one hundred yojanas (eight hundred miles of the ocean), resorting to my own stre
 
 **पदच्छेदः**
 
-*45. sametya* = meeting; *tayaa* = her; *pR^iShTvaa* =
-and duly enquiring; *aninditaam* = that faultless Seetha; *sarvam* = of everything;
-*raamanaamaNguliiyakam* = a ring with the name; Rama engraved on it; *dattam* = was
-handover to her; *mayaa* = by me; *abhiJNaanam* = as token.
-
-**अनुवादः**
-
-"After meeting her and duly enquiring that faultless Seetha, everything of her, a
-ring with the name, Rama engraved on it, was handed-over to her by me as a token."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *44. aham* = I; *gataam* = have gone; *tatra* = there;
 *ashokavanikaam* = to Ashoka-grove; *adraakSham* = and saw; *ekaam* = a woman
 living alone; *kausheyavastraam malinaam* = clad in a soiled silk-saree;
@@ -1799,6 +1782,23 @@ cheerless.
 
 "There, I saw Seetha, living alone in a grove of Ashoka trees, clad in a soiled
 silk-saree, looking cheerless, but unflinching in her vow."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. sametya* = meeting; *tayaa* = her; *pR^iShTvaa* =
+and duly enquiring; *aninditaam* = that faultless Seetha; *sarvam* = of everything;
+*raamanaamaNguliiyakam* = a ring with the name; Rama engraved on it; *dattam* = was
+handover to her; *mayaa* = by me; *abhiJNaanam* = as token.
+
+**अनुवादः**
+
+"After meeting her and duly enquiring that faultless Seetha, everything of her, a
+ring with the name, Rama engraved on it, was handed-over to her by me as a token."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga126/yuddhasans126.htm)
 </details>

@@ -64,24 +64,6 @@ others experience happiness for having destroyed their enemy.
 
 **पदच्छेदः**
 
-*2. dR^iShTvaa* = gazing at; *dashagriivam* = Ravana;
-*patim* = her husband; *hatam* = who was killed; *raameNa* = by Rama;
-*achintyakarmaNaa* = who was capable of doing unimaginable tasks; *maN^Dodarii* =
-Mandodari; *tatra* = there; *paryadevayan* = lamented; *kR^ipaNaa* =
-miserably(as follows):
-
-**अनुवादः**
-
-Gazing at Ravana, her husband who was killed by Rama of unimaginable exploits,
-Mandodari there, miserably lamented (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1. taasaam* = (While) those; *raakShasayoShitaam* = consorts;
 *vilapamaanaanaam* = were weeping; *tadaa* = on that occasion; *priyaa
 jyeShTapatnii priyaa* = Mandodari; the senior most and wife of beloved Ravana;
@@ -92,6 +74,24 @@ miserable as she was feeling.
 
 While those consorts were weeping on that occasion, Mandodari, the senior most and
 beloved wife of Ravana, who was feeling miserable, stared at her husband.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. dR^iShTvaa* = gazing at; *dashagriivam* = Ravana;
+*patim* = her husband; *hatam* = who was killed; *raameNa* = by Rama;
+*achintyakarmaNaa* = who was capable of doing unimaginable tasks; *maN^Dodarii* =
+Mandodari; *tatra* = there; *paryadevayan* = lamented; *kR^ipaNaa* =
+miserably(as follows):
+
+**अनुवादः**
+
+Gazing at Ravana, her husband who was killed by Rama of unimaginable exploits,
+Mandodari there, miserably lamented (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -520,16 +520,16 @@ _________________
 
 **पदच्छेदः**
 
-*13. mahaabala* = O the mighty lord!; *athavaa* = otherwise;
-*tvam* = you; *dharShitaH asi* = might have been overpowered; *vaasavena* = by
-Indra the lord of celestials; *tu* = but; *vaasavasya* = for Indra; *kaa
-shaktiH* = where is the capacity; *tvaam draShTumapi* = even to behold you;
-*samyuge* = in battle?
+*11. yadaiva* = the day when; *ghoraiH* = the terrific;
+*vaanaraiH* = monkeys; *baddhaH* = built; *setuH* = a bridge;
+*mahaarNave* = on the great ocean; *tadaiva* = that day itself; *aham* = I;
+*shaN^ke* = believed; *hR^idayena* = in my mind; *raamam* = (that) Rama;
+*amaanuSham* = was not an ordinary mortal.
 
 **अनुवादः**
 
-"O the mighty lord! Otherwise, you might have been overpowered by Indra the lord of
-celestials. But for Indra, where is the capacity even to behold you in battle?
+"The day when the terrific monkeys built a bridge on the great ocean, that day
+itself I believed that Rama was not an ordinary mortal."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -543,16 +543,16 @@ celestials. But for Indra, where is the capacity even to behold you in battle?
 
 **पदच्छेदः**
 
-*11. yadaiva* = the day when; *ghoraiH* = the terrific;
-*vaanaraiH* = monkeys; *baddhaH* = built; *setuH* = a bridge;
-*mahaarNave* = on the great ocean; *tadaiva* = that day itself; *aham* = I;
-*shaN^ke* = believed; *hR^idayena* = in my mind; *raamam* = (that) Rama;
-*amaanuSham* = was not an ordinary mortal.
+*13. mahaabala* = O the mighty lord!; *athavaa* = otherwise;
+*tvam* = you; *dharShitaH asi* = might have been overpowered; *vaasavena* = by
+Indra the lord of celestials; *tu* = but; *vaasavasya* = for Indra; *kaa
+shaktiH* = where is the capacity; *tvaam draShTumapi* = even to behold you;
+*samyuge* = in battle?
 
 **अनुवादः**
 
-"The day when the terrific monkeys built a bridge on the great ocean, that day
-itself I believed that Rama was not an ordinary mortal."
+"O the mighty lord! Otherwise, you might have been overpowered by Indra the lord of
+celestials. But for Indra, where is the capacity even to behold you in battle?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -777,23 +777,6 @@ _________________
 
 **पदच्छेदः**
 
-*21. iyam vyuShTiH* = this evil result; *aagataa* = has come;
-(upon you); *tasya yat* = since; *na gR^ihNaasi* = you did not heed to;
-*uchyamaanam mayaa* = my advice; *iti* = that; *avirodhaH* = no hostility;
-*kriyataam* = should be entered into; *raaghaveNa* = with Rama.
-
-**अनुवादः**
-
-"This evil result has come upon you, since you did not heed to my advice, saying
-that no hostility should be entered into with Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19-20. tadaiva tava bhraataa* = the moment your brother;
 *kharaH* = Khara; *hataH* = was killed; *asau* = by Rama; *janasthaane*
 = in Janasthana; *vR^itaH* = though surrounded; *bahubhiH raakShasai* = by a
@@ -806,6 +789,23 @@ mortal.
 by a multitude of demons, it became evident that Rama was really no mortal. We felt perturbed, the
 moment Hanuma penetrated, by dint of his prowess, deeply into the City of Lanka, which was
 difficult to be entered even for gods."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. iyam vyuShTiH* = this evil result; *aagataa* = has come;
+(upon you); *tasya yat* = since; *na gR^ihNaasi* = you did not heed to;
+*uchyamaanam mayaa* = my advice; *iti* = that; *avirodhaH* = no hostility;
+*kriyataam* = should be entered into; *raaghaveNa* = with Rama.
+
+**अनुवादः**
+
+"This evil result has come upon you, since you did not heed to my advice, saying
+that no hostility should be entered into with Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -848,6 +848,24 @@ _________________
 
 **पदच्छेदः**
 
+*22. raakShasapungava* = O the foremost of demons!;
+*vinaashaaya* = for the annihilation; *aishvaryasya* = of your power;
+*dehasya* = of your body; *svajanasya* = and of your own people; *asi* = you
+were; *abhikaamaH* = having a desire; *akasmaat* = suddenly; *siitaam* = for
+Seetha.
+
+**अनुवादः**
+
+"O the foremost of demons! For the annihilation of your power, your body and your
+own people, you conceived a desire for Seetha suddenly."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *23. durmati* = O the foolish one!; *asadR^isham* = an unworthy
 act; *kR^itam hi* = was indeed done; *tvayaa* = by you; *dharShayataa* = in
 offending; *siitaam* = Seetha; *vishiShTaam* = who was more distinguished;
@@ -859,24 +877,6 @@ Vasishta); *rohiNyaashchaapi* = and Rohini (the principal spouse of moon-god).
 "O the foolish one! An unworthy act was indeed done by you, in offending Seetha, who
 was more distinguished and more respectable than Arundhati (wife of sage Vasishta) and Rohini (the
 principal spouse of moon-god)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*22. raakShasapungava* = O the foremost of demons!;
-*vinaashaaya* = for the annihilation; *aishvaryasya* = of your power;
-*dehasya* = of your body; *svajanasya* = and of your own people; *asi* = you
-were; *abhikaamaH* = having a desire; *akasmaat* = suddenly; *siitaam* = for
-Seetha.
-
-**अनुवादः**
-
-"O the foremost of demons! For the annihilation of your power, your body and your
-own people, you conceived a desire for Seetha suddenly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -1235,16 +1235,15 @@ not perceive this through infatuation."
 
 **पदच्छेदः**
 
-*32. tvayaa* = by you; *mR^ityuH* = the death;
-*siitaanimittajaH* = born from a cause in the form of Seetha; *upaahR^itaH* = was
-brought; *duuraat* = from a distance; *maithilii* = Seetha; *vishokaa* = free
-from sorrow; *vihariShyati* = will be enjoying herself; *raameNa saha* = with
-Rama.
+*31. sarvadaa* = at any time; *naasti* = there is no;
+*alakShaNaH* = causeless; *mR^ityuH* = death; *sarva bhuutaanaam* = for any
+living being; *tava taavat* = as for you; *ayam maithiliikR^ita lakShaNaH* = the
+cause is in the form of this Seetha.
 
 **अनुवादः**
 
-"Death which was brought about on account of Seetha was invited by you from a
-far-off distance. Free from sorrow, Seetha will now be enjoying herself with Rama."
+"At any time, there is no causeless death for any living being. As for you, this
+Seetha has become a cause."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -1258,15 +1257,16 @@ far-off distance. Free from sorrow, Seetha will now be enjoying herself with Ram
 
 **पदच्छेदः**
 
-*31. sarvadaa* = at any time; *naasti* = there is no;
-*alakShaNaH* = causeless; *mR^ityuH* = death; *sarva bhuutaanaam* = for any
-living being; *tava taavat* = as for you; *ayam maithiliikR^ita lakShaNaH* = the
-cause is in the form of this Seetha.
+*32. tvayaa* = by you; *mR^ityuH* = the death;
+*siitaanimittajaH* = born from a cause in the form of Seetha; *upaahR^itaH* = was
+brought; *duuraat* = from a distance; *maithilii* = Seetha; *vishokaa* = free
+from sorrow; *vihariShyati* = will be enjoying herself; *raameNa saha* = with
+Rama.
 
 **अनुवादः**
 
-"At any time, there is no causeless death for any living being. As for you, this
-Seetha has become a cause."
+"Death which was brought about on account of Seetha was invited by you from a
+far-off distance. Free from sorrow, Seetha will now be enjoying herself with Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -1568,14 +1568,17 @@ _________________
 
 **पदच्छेदः**
 
-*43. katham* = how; *idam asambaddham bhayam* = did this unknown
-danger; *aagatam* = come; *maanuShaat* = from a mortal; *yuShmaakam* = to you;
-*teShaam evam prabhaavaaNaam* = who were so powerful; *raakShasarShabhaaH* = O the
-foremost of demons!
+*42. dR^iDhaa* = the firm; *matiH* = conviction; *aasiit*
+= was there; *iti* = that; *mama naathaaH* = my guardians;
+*dR^iptaarimardanaaH* = were capable of crushing their arrogant adversaries; *shuuraaH
+prakhyaata bala paursuShaaH* = heroes as they were; renowned for their might and valour;
+*akutashchidbhayaaH* = and as such had no fear from any quarter.
 
 **अनुवादः**
 
-"How did this unknown danger come from a mortal to you, who were so powerful?"
+"I had a firm conviction that my guardians were capable of crushing their arrogant
+adversaries, heroes as they were, renowned for their might and valour, and as such had no fear from
+any quarter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -1589,17 +1592,14 @@ foremost of demons!
 
 **पदच्छेदः**
 
-*42. dR^iDhaa* = the firm; *matiH* = conviction; *aasiit*
-= was there; *iti* = that; *mama naathaaH* = my guardians;
-*dR^iptaarimardanaaH* = were capable of crushing their arrogant adversaries; *shuuraaH
-prakhyaata bala paursuShaaH* = heroes as they were; renowned for their might and valour;
-*akutashchidbhayaaH* = and as such had no fear from any quarter.
+*43. katham* = how; *idam asambaddham bhayam* = did this unknown
+danger; *aagatam* = come; *maanuShaat* = from a mortal; *yuShmaakam* = to you;
+*teShaam evam prabhaavaaNaam* = who were so powerful; *raakShasarShabhaaH* = O the
+foremost of demons!
 
 **अनुवादः**
 
-"I had a firm conviction that my guardians were capable of crushing their arrogant
-adversaries, heroes as they were, renowned for their might and valour, and as such had no fear from
-any quarter."
+"How did this unknown danger come from a mortal to you, who were so powerful?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -1698,25 +1698,6 @@ _________________
 
 **पदच्छेदः**
 
-*49. haa* = Alas!; *svapnaH* = is it a dream?; *idam* =
-is it; *satyameva* = the reality?; *katham* = how; *hataH* = could you be
-killed; *raameNa* = by Rama?; *syaaH* = you were; *mR^ityuH* = death;
-*mR^ityorapi* = even to the death himself katham = how; *gataH* = did you depart from
-this world; *mR^ityu vasham* = falling under the sway of death?.
-
-**अनुवादः**
-
-"Alas! Is it a dream? Is it the reality? But, how could you be killed by Rama? You
-were the death, even to Death himself. How did you depart from this world, falling under the sway
-of Death?
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *44-48. raajan* = O king!; *te shariiram* = the very body of
 yours snigdhendraniila niilam = which was really dark as a glossy sapphire; *praamshu mahat
 shailopamam* = gigantic like a lofty mountain; *keyuuraaNgada vaiduurya muktaahaara
@@ -1749,6 +1730,25 @@ difficult for me to touch it again, it is no longer possible to embrace it. It h
 pieces, by arrows of Rama, dug deep into your vital parts and closely transfixed like the spines of
 a porcupine. Though dark of complexion, it is now transformed into the colour of blood and lies
 fallen on the ground like a mountain broken into pieces when hit by a stroke of thunder-bolt."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*49. haa* = Alas!; *svapnaH* = is it a dream?; *idam* =
+is it; *satyameva* = the reality?; *katham* = how; *hataH* = could you be
+killed; *raameNa* = by Rama?; *syaaH* = you were; *mR^ityuH* = death;
+*mR^ityorapi* = even to the death himself katham = how; *gataH* = did you depart from
+this world; *mR^ityu vasham* = falling under the sway of death?.
+
+**अनुवादः**
+
+"Alas! Is it a dream? Is it the reality? But, how could you be killed by Rama? You
+were the death, even to Death himself. How did you depart from this world, falling under the sway
+of Death?
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -1992,23 +1992,6 @@ thousands. He was drawing to himself, the demons called Nivatakavachas, in battl
 
 **पदच्छेदः**
 
-*55. aahartaaram* = he used to bring; *devaasura nR^ikanyaanaam*
-= the virgin-daughters of gods; demons and human beings; *tatastataH* = from here and there;
-*shatrustriishoka daataaram* = he brought mourning to his enemy's wives; *netaaram* =
-he was the leader; *svajanasya* = of his own people.
-
-**अनुवादः**
-
-"He used to bring the virgin-daughters of gods, demons and human beings from here
-and there. He brought mourning to his enemy's wives. He was the leader of his own people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *54. naikayaJNa viloptaaram* = my husband ruined several sacrificial
 performances; *traataaram* = he was the protector; *svajanasya cha* = of his own
 people; *dharmavyavasthaabhettaaram* = he violated the moral order;
@@ -2019,6 +2002,23 @@ people; *dharmavyavasthaabhettaaram* = he violated the moral order;
 "My husband ruined several sacrificial performances. He was the protector of his own
 people. He violated the moral order. He violated the moral order. He created conjuring tricks on
 the battle-field."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*55. aahartaaram* = he used to bring; *devaasura nR^ikanyaanaam*
+= the virgin-daughters of gods; demons and human beings; *tatastataH* = from here and there;
+*shatrustriishoka daataaram* = he brought mourning to his enemy's wives; *netaaram* =
+he was the leader; *svajanasya* = of his own people.
+
+**अनुवादः**
+
+"He used to bring the virgin-daughters of gods, demons and human beings from here
+and there. He brought mourning to his enemy's wives. He was the leader of his own people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -2425,23 +2425,6 @@ the city-gate, unveiled and come on foot in the way?
 
 **पदच्छेदः**
 
-*65. ayam janaH* = this Mandodari; *kriiDaasahaayaH* = who was
-helping in your sport; *te* = with you; *laalapyate* = is weeping; *anaathaH*
-= with helplessness; *na cha aashvaasayasi* = you are not consoling; *enam* = her;
-*na bahumamyase kim vaa* = do you not have a high esteem of her?.
-
-**अनुवादः**
-
-"This Mandodari, who was helping in your sport with you, is weeping with
-helplessness. You are not consoling her. Do you not have a high esteem of her?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *64. iShTadaara* = O lover of your consorts!; *pashya* = look
 at; *te sarvaan daaraan* = all your spouses; *niShpatitaan* = who came;
 *bahiH* = out bhraShTa lajjaavaguNThanaan = with their veils dropped off; *katham na
@@ -2451,6 +2434,23 @@ kupyasi* = why are you not getting enraged; *dR^iShTvaa* = in seeing this?
 
 "O lover of your consorts! Look at all your spouses, who came out, with their veils
 dropped off. Why are you not getting enraged in seeing this?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*65. ayam janaH* = this Mandodari; *kriiDaasahaayaH* = who was
+helping in your sport; *te* = with you; *laalapyate* = is weeping; *anaathaH*
+= with helplessness; *na cha aashvaasayasi* = you are not consoling; *enam* = her;
+*na bahumamyase kim vaa* = do you not have a high esteem of her?.
+
+**अनुवादः**
+
+"This Mandodari, who was helping in your sport with you, is weeping with
+helplessness. You are not consoling her. Do you not have a high esteem of her?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -2678,6 +2678,24 @@ _________________
 
 **पदच्छेदः**
 
+*70. tat* = that; *te kaatarya lakShaNam* = was a mark of your
+cowardice; *aashramaat* = (that) from a hermitage; *saa* = that; *raamapatnii*
+= Rama's consort yat aamiitaa = was a = by you; *borne away tvayaa* = by you;
+*mR^igachchhadmanaa* = in the pretext of a deer; *apaniiya* = by luring away;
+*raamam* = Rama; *aashramaat* = from his hermitage.
+
+**अनुवादः**
+
+"It was indeed a mark of your cowardice that Rama's consort was borne away by you,
+after luring away Rama from his hermitage in the pretext of deer"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *71. aham* = I; *na samsmaraami* = do not recall; *te
 kaataryaami* = your faint-heartenedness; *kadaachit* = at any time; *yuddhe* = on
 the battle-field; *tattu* = that abduction of Seetha; however; *bhaagya viparyaasaat*
@@ -2689,24 +2707,6 @@ the battle-field; *tattu* = that abduction of Seetha; however; *bhaagya viparyaa
 "I do not recall your faint-heartedness at any time on the battle-field. That case
 of abduction of Seetha, however, was due to your ill-luck and certainly as the result of your
 sins."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*70. tat* = that; *te kaatarya lakShaNam* = was a mark of your
-cowardice; *aashramaat* = (that) from a hermitage; *saa* = that; *raamapatnii*
-= Rama's consort yat aamiitaa = was a = by you; *borne away tvayaa* = by you;
-*mR^igachchhadmanaa* = in the pretext of a deer; *apaniiya* = by luring away;
-*raamam* = Rama; *aashramaat* = from his hermitage.
-
-**अनुवादः**
-
-"It was indeed a mark of your cowardice that Rama's consort was borne away by you,
-after luring away Rama from his hermitage in the pretext of deer"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -3195,23 +3195,6 @@ armlets, why are you lying with your limbs, cast away on the ground and bathed i
 
 **पदच्छेदः**
 
-83. uttiShTha; *uttiShTha* = arise; arise!; *kR^ite* = after
-getting; *nave paraabhave* = a fresh insult; *kim* = why; *sheShe* = are you
-lying down?; *suuryarashmayaH* = the sun's rays; *praviShTaaH* = have entered;
-*laN^kaam* = Lanka; *adya* = today; *nirbhayaaH* = without any fear.
-
-**अनुवादः**
-
-"Arise, arise! Why are you lying down, though subjected to a fresh insult? The sun's
-rays have penetrated deep into Lanka today, without any fear."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *82. prasuptaH iva* = as though fast asleep; *kim* = why; *na
 pratibhaaShase* = are you not replying; *maam* = to me; *dauhitriim* = the
 granddaughter; *yaatudhaanasya* = of Sumali; the demon; *dakShasya* = who was clever;
@@ -3223,6 +3206,23 @@ retreated; *samyugeShu* = in battle; *shokaartam* = tormented with grief as I am
 "As though fast asleep, why are you not replying to me, the granddaughter of Somali
 the demon who was clever, endowed with extraordinary prowess and never retreated in battles,
 tormented with grief as I am?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+83. uttiShTha; *uttiShTha* = arise; arise!; *kR^ite* = after
+getting; *nave paraabhave* = a fresh insult; *kim* = why; *sheShe* = are you
+lying down?; *suuryarashmayaH* = the sun's rays; *praviShTaaH* = have entered;
+*laN^kaam* = Lanka; *adya* = today; *nirbhayaaH* = without any fear.
+
+**अनुवादः**
+
+"Arise, arise! Why are you lying down, though subjected to a fresh insult? The sun's
+rays have penetrated deep into Lanka today, without any fear."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -3341,24 +3341,6 @@ _________________
 
 **पदच्छेदः**
 
-*87. dhik astu* = woe be to me; *yasyaaH* = that; *idam
-hR^idayam* = this heart; *mama* = of mine; *na phalate* = is not burst asunder;
-*sahasradhaa* = into thousand pieces; *shoka piiDitam* = tormented as I am with
-grief; *tvayi aapanne* = now that you have returned; *paN^chatvam* = to the five
-elements.
-
-**अनुवादः**
-
-"Woe be to me, that my heart is not bursting into pieces, tormented as I am with
-grief, now that you have returned to the five elements."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *86. kim* = why; *sheShe* = are you lying down;
 *upasamgR^ihya* = embracing; *raNa mediniim* = the battle-ground; *priyaamiva*
 = as one would embrace a loved one?; *kasmaat* = why; *nechchhasi* = do you not feel
@@ -3369,6 +3351,24 @@ though I were abhorrent (to you)?
 
 Why are you lying down, embracing the battle-ground, as one would embrace a loved
 one? Why do you not feel inclined to reply to me, as though I were abhorrent to you?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*87. dhik astu* = woe be to me; *yasyaaH* = that; *idam
+hR^idayam* = this heart; *mama* = of mine; *na phalate* = is not burst asunder;
+*sahasradhaa* = into thousand pieces; *shoka piiDitam* = tormented as I am with
+grief; *tvayi aapanne* = now that you have returned; *paN^chatvam* = to the five
+elements.
+
+**अनुवादः**
+
+"Woe be to me, that my heart is not bursting into pieces, tormented as I am with
+grief, now that you have returned to the five elements."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -4180,23 +4180,6 @@ _________________
 
 **पदच्छेदः**
 
-*105. pravishya* = entering; *laN^kaam puriim* = the City of
-Lanka; *saH vibhiiShaNaH* = that Vibhishana; *raakShasendraH* = the lord of demons;
-*satvaram* = quickly; *niryaapayati* = concluded; *agnihotram* = the Agnihotra
-(act of poring oblations into the sacred fire); *raavaNasya* = carried on by Ravana.
-
-**अनुवादः**
-
-Entering the City of Lanka, that Vibhishana, the lord of demons, quickly concluded
-the Agnihotra (the act of pouring oblations into the sacred fire) carried on by Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *104. shrutvaa* = having heard; *vachaH* = the words;
 *raaghavasya* = of Rama; *vibhiiShaNaH* = Vibhishana; *tvaramaaNaH* = in
 haste; *aarebhe* = began; *samskaarayitum* = to do obsequies; *hatam
@@ -4206,6 +4189,23 @@ bhraataram* = to his dead brother; *raavaNam* = Ravana.
 
 Having heard the words of Rama, Vibhishana in haste began to do obsequies to Ravana,
 his dead brother.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*105. pravishya* = entering; *laN^kaam puriim* = the City of
+Lanka; *saH vibhiiShaNaH* = that Vibhishana; *raakShasendraH* = the lord of demons;
+*satvaram* = quickly; *niryaapayati* = concluded; *agnihotram* = the Agnihotra
+(act of poring oblations into the sacred fire); *raavaNasya* = carried on by Ravana.
+
+**अनुवादः**
+
+Entering the City of Lanka, that Vibhishana, the lord of demons, quickly concluded
+the Agnihotra (the act of pouring oblations into the sacred fire) carried on by Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -4270,23 +4270,6 @@ _________________
 
 **पदच्छेदः**
 
-*108. parivaaritaH* = surrounded; *raakShasaiH* = with demons;
-*aajagaama* = (he) came back; *muhurtena* = for a while; *tataH* = thereupon;
-*saH* = he; *maalyavataasaartham* = together with Malyavan (the father of his own
-mother); *chakaara kriyaam* = initiated the obsequies.
-
-**अनुवादः**
-
-Surrounded with demons, he came back for a while and thereupon, Vibhishana along
-with malyavan (the father of his own mother) initiated the obsequies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *106-107. raakShasaH* = Vibhishana; *niryaatayati* = actually
 caused to be brought together; *shakaTaan* = carts; *daaruruupaaNi* = excellent
 varieties of firewood; *agniin* = the three sacred fires; *tathaa* = and;
@@ -4302,6 +4285,23 @@ Vibhishana actually caused to be brought together, carts, excellent varieties of
 firewood, the three sacred fires and the priests required to officiate at the obsequies, logs of
 sandalwood, various types of firewood, pieces of fragrant aloe-wood, odorous perfumes, as well as
 gems, pearls and corals.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*108. parivaaritaH* = surrounded; *raakShasaiH* = with demons;
+*aajagaama* = (he) came back; *muhurtena* = for a while; *tataH* = thereupon;
+*saH* = he; *maalyavataasaartham* = together with Malyavan (the father of his own
+mother); *chakaara kriyaam* = initiated the obsequies.
+
+**अनुवादः**
+
+Surrounded with demons, he came back for a while and thereupon, Vibhishana along
+with malyavan (the father of his own mother) initiated the obsequies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -4448,23 +4448,6 @@ _________________
 
 **पदच्छेदः**
 
-*113. taani sarvaaNi* = all those; *antaHpuraaNi* = women of the
-gynaecium; *rudamaanaani* = while weeping; *annyayuH pR^iShThataH satvanam* =
-followed at his heels with quick paces; *plavamaanaani sarvataH* = stumbling as they were;
-on all sides.
-
-**अनुवादः**
-
-All those women of the gynaecium, while weeping, followed at his heels with quick
-paces, stumbling, as they were, on all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *112. te* = those; *agnayaH* = sacrificial fires;
 *diipyamaanaaH* = were ignited; *adhvaryu samiiritaaH* = and re-animated; as they
 were; by Adhvaryu priests the performers of the sacrificial act; *tadaa* = at that time;
@@ -4476,6 +4459,23 @@ were; by Adhvaryu priests the performers of the sacrificial act; *tadaa* = at th
 Those sacrificial fires were ignited and re-animated, as they were, by Adhvaryu
 priests, the performers of the sacrificial act, at that time. Those sacrificial fires were
 contained in earthen pots and went in front of Ravana's body.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*113. taani sarvaaNi* = all those; *antaHpuraaNi* = women of the
+gynaecium; *rudamaanaani* = while weeping; *annyayuH pR^iShThataH satvanam* =
+followed at his heels with quick paces; *plavamaanaani sarvataH* = stumbling as they were;
+on all sides.
+
+**अनुवादः**
+
+All those women of the gynaecium, while weeping, followed at his heels with quick
+paces, stumbling, as they were, on all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>
@@ -4636,6 +4636,24 @@ an altar in the south-east the funeral pile) and placed the sacred fire in its p
 
 **पदच्छेदः**
 
+*117. prachikShipuH* = (They) poured; *sruvam* = a small wooden
+ladle; *sampuurNam* = full; *vR^iShadaajyena* = of ghee mixed with curds;
+*skande* = on his shoulders; *praaduH* = and placed; *shakaTam* = a cart;
+*paadayaH* = at his feet; *tadaa* = and then; *uluukhalam* = a wooden mortar;
+*uurvoH cha* = at his thighs.
+
+**अनुवादः**
+
+They poured a ladle-full of ghee mixed with curds on his shoulders, placed a cart at
+his feet and then a wooden mortar at his thighs.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *118. dattvaa* = having set; *sarvaaNi* = all;
 *daarupaatraaNi* = the wooden vessels; *araNim* = the lower piece of wood used for
 kindling fire at a sacrifice; *uttaraaraNim* = and the upper wood (which is rotated at great
@@ -4649,24 +4667,6 @@ Having set at their proper place, all the wooden vessels (used in Agnihotra), th
 lower piece of wood used for kindling fire at a sacrifice and the upper piece of wood (which is
 rotated at great speed on to lower one, to produce fire by friction), the wooden pestle and other
 things used in the sacrifice, they circled around the funeral pyre.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*117. prachikShipuH* = (They) poured; *sruvam* = a small wooden
-ladle; *sampuurNam* = full; *vR^iShadaajyena* = of ghee mixed with curds;
-*skande* = on his shoulders; *praaduH* = and placed; *shakaTam* = a cart;
-*paadayaH* = at his feet; *tadaa* = and then; *uluukhalam* = a wooden mortar;
-*uurvoH cha* = at his thighs.
-
-**अनुवादः**
-
-They poured a ladle-full of ghee mixed with curds on his shoulders, placed a cart at
-his feet and then a wooden mortar at his thighs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhasans111.htm)
 </details>

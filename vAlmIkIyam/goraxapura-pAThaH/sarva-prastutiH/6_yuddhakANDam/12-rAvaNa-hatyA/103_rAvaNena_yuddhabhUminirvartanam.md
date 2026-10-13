@@ -1303,6 +1303,28 @@ _________________
 
 **पदच्छेदः**
 
+*28. yadaa shastram naarabhe* = he could no longer take up weapons;
+*na chakarSha sharaasanam* = nor stretch his bow; *na pratyakarot* = nor reacted;
+*asya viiryam* = to Rama's prowess; *viklabena antaraatmanaa* = on account of his
+mind being confused.
+
+**अनुवादः**
+
+Ravana could no longer take up weapons, nor stretch his bow, nor reacted to Rama's
+prowess - on account of his mind being confused.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+हृदयद व्याकुलतॆयिन्दागि अवनल्लि शस्त्रवन्नॆत्तलु, धनुस्सु ऎळॆयुव मत्तु श्रीरामन पराक्रमवन्नु ऎदुरिसुव क्षमतॆ उळियदिद्दाग, श्रीरामनु शीघ्रवागि प्रयोगिसिद बाणगळु मत्तु बगॆ बगॆय शस्त्रगळु अवन मृत्युविन साधनवागि, अवन मृत्यु बळिगॆ बन्दाग, अवन आ स्थितियन्नु नोडि रथनडॆसुत्तिद्द सारथियु गाबरिपडदॆ रथवन्नु युद्धभूमियिन्द दूरक्कॆ कॊण्डु होदनु.॥28-30॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *29. sharaaH* = the arrows; *aashu* = swiftly;
 *kShiptaaH* = hurled; *tena* = by him; *shastraaNicha* = and the mystic
 missiles; *vividhaani* = of different kinds (employed by him); *na vartante* = did
@@ -1315,11 +1337,6 @@ As the time of his death approached, the arrows swiftly hurled and the various k
 of missiles employed by Ravana did not turn to be of any use in battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-हृदयद व्याकुलतॆयिन्दागि अवनल्लि शस्त्रवन्नॆत्तलु, धनुस्सु ऎळॆयुव मत्तु श्रीरामन पराक्रमवन्नु ऎदुरिसुव क्षमतॆ उळियदिद्दाग, श्रीरामनु शीघ्रवागि प्रयोगिसिद बाणगळु मत्तु बगॆ बगॆय शस्त्रगळु अवन मृत्युविन साधनवागि, अवन मृत्यु बळिगॆ बन्दाग, अवन आ स्थितियन्नु नोडि रथनडॆसुत्तिद्द सारथियु गाबरिपडदॆ रथवन्नु युद्धभूमियिन्द दूरक्कॆ कॊण्डु होदनु.॥28-30॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1337,23 +1354,6 @@ tadavastham; having that plight; *asambhraantaH* = without getting excited;
 Seeing Ravana reduced to such a plight, the charioteer driving the chariot, for his
 part, without getting excited, calmly and slowly carried off his chariot away from the
 battle-front.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*28. yadaa shastram naarabhe* = he could no longer take up weapons;
-*na chakarSha sharaasanam* = nor stretch his bow; *na pratyakarot* = nor reacted;
-*asya viiryam* = to Rama's prowess; *viklabena antaraatmanaa* = on account of his
-mind being confused.
-
-**अनुवादः**
-
-Ravana could no longer take up weapons, nor stretch his bow, nor reacted to Rama's
-prowess - on account of his mind being confused.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga103/yuddhasans103.htm)
 </details>

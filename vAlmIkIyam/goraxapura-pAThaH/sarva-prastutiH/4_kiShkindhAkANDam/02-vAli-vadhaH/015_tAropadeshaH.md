@@ -422,23 +422,6 @@ gushing river as is done with an enjoyed chaplet on getting up from bed in early
 
 **पदच्छेदः**
 
-*9. sahasaa tava niSkraamaH* = quickly, your, exiting; *mama na
-rocate taavat* = for me, not, pleasing - disagreeable; *yan nimittam nivaaryate* = by
-what, reason, you are dissuaded; *shruuyataam abhidhaasyaami* = let it be heard, I will
-tell.
-
-**अनुवादः**
-
-"Your quick exiting is disagreeable for me, and what for you are dissuaded that may
-be listened as I tell. [4-15-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *8. vaanara* = oh, monkey; *etena kaalyam samgraamam kariSyasi*
 = with him, in early hours / or at appropriate time, fighting, you can do; *viira* = oh
 brave one; *te shatru baahulyam* = to you, enemies, divers; *phalgutaa vaa na
@@ -457,6 +440,23 @@ nor you are trivialised evidently, for you are a braving one. [4-15-8]
 Fighting on next day morning means that Sugreeva has come in the evening time.
 This is not accepted by some and they give meaning to the word** *kaalyam*
 differently.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. sahasaa tava niSkraamaH* = quickly, your, exiting; *mama na
+rocate taavat* = for me, not, pleasing - disagreeable; *yan nimittam nivaaryate* = by
+what, reason, you are dissuaded; *shruuyataam abhidhaasyaami* = let it be heard, I will
+tell.
+
+**अनुवादः**
+
+"Your quick exiting is disagreeable for me, and what for you are dissuaded that may
+be listened as I tell. [4-15-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>
@@ -920,23 +920,6 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 
 **पदच्छेदः**
 
-*19b, 20a. saadhuunaam nivaasa vR^ikSaH* = for the polite, a habitable,
-tree; *aapannaanaam paraa gatiH* = for woebegone, ultimate, course; *aartaanaam sam
-shrayaH caiva* = for agonised, a good, hospice; *yashasaH ca eka bhaajanam* = for grace,
-also, the only, abode.
-
-**अनुवादः**
-
-"And he is said to the habitable tree for the polite, the ultimate course for the
-woebegone, a hospice for the agonised, and for grace Rama is the only abode. [4-15-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *18b, 19a. raNa karmaNi vikhyaataH* = in war, works, acclaimed one;
 *utthitaH yuga anta agniH iva* = flared up, era, end of, fire, like; *para bala
 mardii* = other's [enemy's,] strength, shatterer of; *saH raamaH* = that, Rama; *te
@@ -947,6 +930,23 @@ bhraatuH sahaayaH hi* = your, brother's, helpmate, they say so.
 "He is an acclaimed one for his warfare, and like the fire flaring up at the end of
 era he shatters the strength of enemies, and he is Rama your brother's helpmate, they say so.
 [4-15-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19b, 20a. saadhuunaam nivaasa vR^ikSaH* = for the polite, a habitable,
+tree; *aapannaanaam paraa gatiH* = for woebegone, ultimate, course; *aartaanaam sam
+shrayaH caiva* = for agonised, a good, hospice; *yashasaH ca eka bhaajanam* = for grace,
+also, the only, abode.
+
+**अनुवादः**
+
+"And he is said to the habitable tree for the polite, the ultimate course for the
+woebegone, a hospice for the agonised, and for grace Rama is the only abode. [4-15-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm)
 </details>

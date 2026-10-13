@@ -827,6 +827,24 @@ _________________
 
 **पदच्छेदः**
 
+*18. asya* = Asita's; *dve bhaarye* = two wives;
+*babhuuvatuH* = became; *garbhiNyau* = pregnant; *iti* = this is;
+*shrutiH* = a hear-say; *ekaa* = one wife; *dadau* = gave; *garalam* =
+poison; *sapatnai* = to the other co-wife; *gabhavinaashaaya* = for the destruction
+of foetus.
+
+**अनुवादः**
+
+"Asita's two wives became pregnant. It is a hearsay that one of his wives gave
+poison to the other co-wife in order to destroy her foetus."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *19. chayaveno naama* = A sage called Chyavana; *bhaargavaH* =
 belonging to Bhrign race; *upaashritaH* = was taking a shelter; *himavantam* = in a
 Himalayan mountain; *kaalindii* = Kalindi; *samupaagamya* = approached; *tam
@@ -839,24 +857,6 @@ to get a boon; *putrajanmani* = for the birth of a son.
 "A sage called Chyavana, belonging to Bhrign race was staying in a Himalayan
 mountain. Kalindi (Asita's wife) approached that sage and offered her salutation. That brahmna
 spoke the following words to her, who wanted to obtain a boon for the birth of a son."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*18. asya* = Asita's; *dve bhaarye* = two wives;
-*babhuuvatuH* = became; *garbhiNyau* = pregnant; *iti* = this is;
-*shrutiH* = a hear-say; *ekaa* = one wife; *dadau* = gave; *garalam* =
-poison; *sapatnai* = to the other co-wife; *gabhavinaashaaya* = for the destruction
-of foetus.
-
-**अनुवादः**
-
-"Asita's two wives became pregnant. It is a hearsay that one of his wives gave
-poison to the other co-wife in order to destroy her foetus."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
@@ -941,23 +941,6 @@ a perpetuator of the race and an annihilator of enemies will be born to you."
 
 **पदच्छेदः**
 
-*2. uktavaan* = (He) spoke; *etat* = these; *vaakyam* =
-words; *tvaam nivartayitu kaamastu* = on account of his desire that you should return;
-*lokanaatha* = O; *Lord of the poeple! nibodha* = learn; *me* = from me;
-*lokasamutpattim* = of the creation of the world!.
-
-**अनुवादः**
-
-"He apoke in this manner, on account of his desire that you should return. O, Lord
-of the poeple! Learn from me of the creation of the world!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1. aajJNaaya* = recognising; *raamam* = Rama's;
 *kruddham* = anger; *vasiSThaH* = Vasishta; *pratyuvaacha ha* = spoke as
 follows: jabaalirapi = even Jabali; *jaaniite* = is aware; *gataagatam* = of the
@@ -967,6 +950,23 @@ going and coming; *asya lokasya* = of this world.
 
 Recognising that Rama has become angry, Vashishta spoke as follows: "Even Jabali is
 aware of the going and coming of this world."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. uktavaan* = (He) spoke; *etat* = these; *vaakyam* =
+words; *tvaam nivartayitu kaamastu* = on account of his desire that you should return;
+*lokanaatha* = O; *Lord of the poeple! nibodha* = learn; *me* = from me;
+*lokasamutpattim* = of the creation of the world!.
+
+**अनुवादः**
+
+"He apoke in this manner, on account of his desire that you should return. O, Lord
+of the poeple! Learn from me of the creation of the world!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>
@@ -1006,23 +1006,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. garaH* = poison; *dattaH* = was given; *tasyaiH* =
-to her; *sapatnyaa* = by her co-wife; *garbha jighaamsayaa* = with an intention to
-kill her foetus; *jaataH* = born; *tena gareNa sahaiva* = with that poison itself;
-*saH* = he; *abhavat* = became; *sagaraH* = Sagara ( a man with poison).
-
-**अनुवादः**
-
-"Poison was given earlier by her co-wife with an intention to kill her foetus. Born
-with that poison itself, he became Sagara (a man with poison)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 21; *22. saH devii* = that Queen Kalindi; *hR^iSTaa* = delighted
 as she was; *pradakSiNam kR^iSTaa* = delighted as she was; *pradakSiNam kR^itvaa* =
 circumambulated; *tam munim* = that sage; *anumaanyacha* = took permission to leave;
@@ -1036,6 +1019,23 @@ Brahma the Lord of creation.
 "The delighted Queen Kalindi circumambulated that sage, took permission from him to
 leave and thereafter on reaching home, had delivered a son, having eyes resembling lotus-leaves and
 having a radiance like that of Brahama the Lord of creation."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. garaH* = poison; *dattaH* = was given; *tasyaiH* =
+to her; *sapatnyaa* = by her co-wife; *garbha jighaamsayaa* = with an intention to
+kill her foetus; *jaataH* = born; *tena gareNa sahaiva* = with that poison itself;
+*saH* = he; *abhavat* = became; *sagaraH* = Sagara ( a man with poison).
+
+**अनुवादः**
+
+"Poison was given earlier by her co-wife with an intention to kill her foetus. Born
+with that poison itself, he became Sagara (a man with poison)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga110/ayodhyasans110.htm)
 </details>

@@ -1916,24 +1916,6 @@ _________________
 
 **पदच्छेदः**
 
-*41. putra* = O; son!; *nihataH* = you were killed;
-*paapakarmaNaa* = by this criminal; *yathaa* = how; *asi* = you were;
-*apaapaH* = without a sin; *tena satyena* = by that truth; *gachchha* =
-obtain; *ashu* = soon; *ye* = which; *lokaaH* = realms; *astra
-yodhinaam* = obtained by those who die fighting with weapons."
-
-**अनुवादः**
-
-"O, son! This criminal killed you. As it is true that you were sinless, you will
-soon obtain the realms as reached by those who die fighting with weapons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *40. lokapaalaH* = Yama; the guardian of the world;
 *mahaayashaaH* = the most glorious; *dharmaatmaa* = high-souled; *arhati* = is
 worthy; *datum* = to give; *mama* = me; *indR^ishasya* = in this condition;
@@ -1945,6 +1927,24 @@ reward in the form of fearless-ness."
 "The most glorious and high souled Yama, the guardian of the world will be obliged
 to give this solitary imperishable boon in the form of fearlessness to me, who is in such a
 condition."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*41. putra* = O; son!; *nihataH* = you were killed;
+*paapakarmaNaa* = by this criminal; *yathaa* = how; *asi* = you were;
+*apaapaH* = without a sin; *tena satyena* = by that truth; *gachchha* =
+obtain; *ashu* = soon; *ye* = which; *lokaaH* = realms; *astra
+yodhinaam* = obtained by those who die fighting with weapons."
+
+**अनुवादः**
+
+"O, son! This criminal killed you. As it is true that you were sinless, you will
+soon obtain the realms as reached by those who die fighting with weapons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
@@ -2575,6 +2575,22 @@ painful and very cruel curse on you."
 
 **पदच्छेदः**
 
+*55. yat:* = which;etat = this;duHkham = agony; *putravyasanam*
+= caused by the loss of my son;saampratam = at present; *raajan* = O; king; *tvam* =
+you; *kaalam karishhyati* = will die; *putrashokena* = by the loss of your son"
+
+**अनुवादः**
+
+"O, king! Even as I am suffering from agony now because of the loss of my son, in
+the same manner; you will also die due to agony caused by the loss of your son."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *56. naraadhipa* = O; *king! Yasmaat* = from; which cause;
 *muniH* = the sage; *hataH* = was killed; *tvayaa* = by you;
 *kshhatriyeNa* = the warrior; *aG^yaanaat* = by ignorance; *tasmaat* = from
@@ -2585,22 +2601,6 @@ possession; *aashu* = quickly; *tvaam* = of you."
 
 "O, king! Since the sage was killed by you, belonging to the warrior class, through
 ignorance, the son of killing a Brahmin will not take possession of you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*55. yat:* = which;etat = this;duHkham = agony; *putravyasanam*
-= caused by the loss of my son;saampratam = at present; *raajan* = O; king; *tvam* =
-you; *kaalam karishhyati* = will die; *putrashokena* = by the loss of your son"
-
-**अनुवादः**
-
-"O, king! Even as I am suffering from agony now because of the loss of my son, in
-the same manner; you will also die due to agony caused by the loss of your son."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
@@ -2779,23 +2779,6 @@ reflection over it."
 
 **पदच्छेदः**
 
-*61. bhadre* = my dear lady! Tat vachaH = that word; *tasya* =
-of that sage; *udaarasya* = who was noble; *aham yat samtyakshhyaami* = that I shall
-give up; *jiivitam* = my life; *putrashokena* = due to grief for the loss of my son;
-*aagatam* = has come ( true); *mama* = to me; *adya* = now."
-
-**अनुवादः**
-
-"O, my dear lady! Those words of that noble sage, saying that I shall give up my
-life due to grief for the loss of my son, have come true to me now."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *60. devi* = O; *Queen! VyaathiH yathaa* = as a disease (comes);
 *sambhukte sati* = after eating; *annarase* = a nutriment; *apathyaiH saha* =
 mixed with forbidden things; *ayam vipaakaH* = this result; *samupasthitaH* = came;
@@ -2805,6 +2788,23 @@ mixed with forbidden things; *ayam vipaakaH* = this result; *samupasthitaH* = ca
 
 "O, Kausalya! As a disease comes sometime after eating a nutriment mixed with
 forbidden things, this present occurrence came as a result of the sinful act by me long ago."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*61. bhadre* = my dear lady! Tat vachaH = that word; *tasya* =
+of that sage; *udaarasya* = who was noble; *aham yat samtyakshhyaami* = that I shall
+give up; *jiivitam* = my life; *putrashokena* = due to grief for the loss of my son;
+*aagatam* = has come ( true); *mama* = to me; *adya* = now."
+
+**अनुवादः**
+
+"O, my dear lady! Those words of that noble sage, saying that I shall give up my
+life due to grief for the loss of my son, have come true to me now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>
@@ -3242,24 +3242,6 @@ _________________
 
 **पदच्छेदः**
 
-*71. dhanyaaH* = fortunate (are they); *yaH* = who;
-*drakshhyanti* = can see; *mukham* = the face; *raamasya* = of Rama;
-*sadR^isham* = resembling; *shaaradasya* = the autumnal; *indoH* = moon;
-*sugandhi* = sweat-smelling; *phullasya kamalasya cha* = and also resembling a full-
-blown lotus."
-
-**अनुवादः**
-
-"Fortunate are they, who can see the sweat smelling face of Rama, resembling the
-autumnal moon and also a full- blown lotus."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *70. dhanyaaH* = the fortunate; *drakshhyanti* = can see;
 *mukham* = the face; *raamasya* = of Rama; *padmapatrekshhaNam* = with its
 eyes resembling lotus leaves; *subhruH* = with its beautiful eye brows;
@@ -3271,6 +3253,24 @@ eyes resembling lotus leaves; *subhruH* = with its beautiful eye brows;
 "The fortunate can see the face of Rama, looking like a moon, with its eyes
 resembling lotus leaves, with beautiful eye brows, with a comely row of teeth and a charming
 nose."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*71. dhanyaaH* = fortunate (are they); *yaH* = who;
+*drakshhyanti* = can see; *mukham* = the face; *raamasya* = of Rama;
+*sadR^isham* = resembling; *shaaradasya* = the autumnal; *indoH* = moon;
+*sugandhi* = sweat-smelling; *phullasya kamalasya cha* = and also resembling a full-
+blown lotus."
+
+**अनुवादः**
+
+"Fortunate are they, who can see the sweat smelling face of Rama, resembling the
+autumnal moon and also a full- blown lotus."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm)
 </details>

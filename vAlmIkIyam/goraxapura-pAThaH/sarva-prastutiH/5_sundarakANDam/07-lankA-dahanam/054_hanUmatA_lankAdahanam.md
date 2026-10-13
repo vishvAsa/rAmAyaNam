@@ -825,14 +825,15 @@ _________________
 
 **पदच्छेदः**
 
-*23. taani mahaanti cha bhavanaani* = those; large houses; *kaaNchana
-jaalaani* = with golden windows; *muktaamaNimayaani cha* = embedded with pearls; gems;
-*ratnavanti* = and precious stones; *avashiiryanta* = were shattered (to pieces).
+*22. pavanaH* = the wind; *aachaarayat* = carried; *pradiiptam*
+= the blazing; *agnim* = fire; *teSu veshmasu* = on those houses; *shvasanam yogaat*
+= by combining with the wind; *hutaashanaH* = the fire; *abhuut* = became; *ativegaH*
+= very swift.
 
 **अनुवादः**
 
-Those large houses, with golden windows, embedded with pearls, gems and precious jewels
-were shattered to pieces.
+The wind carried the blazing fire to other houses. In conjunction with the wind, the
+fire became very swift.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
@@ -846,15 +847,14 @@ were shattered to pieces.
 
 **पदच्छेदः**
 
-*22. pavanaH* = the wind; *aachaarayat* = carried; *pradiiptam*
-= the blazing; *agnim* = fire; *teSu veshmasu* = on those houses; *shvasanam yogaat*
-= by combining with the wind; *hutaashanaH* = the fire; *abhuut* = became; *ativegaH*
-= very swift.
+*23. taani mahaanti cha bhavanaani* = those; large houses; *kaaNchana
+jaalaani* = with golden windows; *muktaamaNimayaani cha* = embedded with pearls; gems;
+*ratnavanti* = and precious stones; *avashiiryanta* = were shattered (to pieces).
 
 **अनुवादः**
 
-The wind carried the blazing fire to other houses. In conjunction with the wind, the
-fire became very swift.
+Those large houses, with golden windows, embedded with pearls, gems and precious jewels
+were shattered to pieces.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
@@ -1085,16 +1085,18 @@ _________________
 
 **पदच्छेदः**
 
-*29. shikaaH* = flames; *vahneH* = of fire; *chakaashire*
-= glittered; *kimshukasamkaashaaH* = like Kimshuka (Butea frondosa) flowers; *kvachit*
-= at some places; *shaalmali sannibhaaH* = like blossoms of Shalmali tree (Salmalia malabarica);
-*kvachit* = at some places; *kuNkuma samkaashaaH* = like flowers of saffron; *kvachit*
-= at some places.
+*28. yathaa* = how; *agniH* = the fire; *natR^ipyati* = is
+not satisfied; *kaaSThaanaam* = with firewood; *tR^iNaanaam* = and dry blades of grass;
+*tathaa* = so also; *hanumaan* = Hanuma; *natR^ipyati* = was not satisfied; *
+kimchit* = even a little; *vadhe* = in killing; *raakSasendraaNaam* = of demons;
+*vasundharaa* = the earth; *na* = is not wearied; *raakSasaanaam* = with the demons;
+*hanumadvishastaanaam* = killed by Hanuma (receiving in her lap)
 
 **अनुवादः**
 
-Flames of fire glittered like Kimshuka flowers at some places, blossoms of Shalmali tree
-at some places and like saffron-flowers at some other places.
+As the fire does not get satisfied with any amount of firewood and straw fed to it, Hanuma
+was not wearied in killing any number of demons. The earth was not then wearied in receiving the number
+of demons killed by Hanuma (in her lap).
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
@@ -1108,18 +1110,16 @@ at some places and like saffron-flowers at some other places.
 
 **पदच्छेदः**
 
-*28. yathaa* = how; *agniH* = the fire; *natR^ipyati* = is
-not satisfied; *kaaSThaanaam* = with firewood; *tR^iNaanaam* = and dry blades of grass;
-*tathaa* = so also; *hanumaan* = Hanuma; *natR^ipyati* = was not satisfied; *
-kimchit* = even a little; *vadhe* = in killing; *raakSasendraaNaam* = of demons;
-*vasundharaa* = the earth; *na* = is not wearied; *raakSasaanaam* = with the demons;
-*hanumadvishastaanaam* = killed by Hanuma (receiving in her lap)
+*29. shikaaH* = flames; *vahneH* = of fire; *chakaashire*
+= glittered; *kimshukasamkaashaaH* = like Kimshuka (Butea frondosa) flowers; *kvachit*
+= at some places; *shaalmali sannibhaaH* = like blossoms of Shalmali tree (Salmalia malabarica);
+*kvachit* = at some places; *kuNkuma samkaashaaH* = like flowers of saffron; *kvachit*
+= at some places.
 
 **अनुवादः**
 
-As the fire does not get satisfied with any amount of firewood and straw fed to it, Hanuma
-was not wearied in killing any number of demons. The earth was not then wearied in receiving the number
-of demons killed by Hanuma (in her lap).
+Flames of fire glittered like Kimshuka flowers at some places, blossoms of Shalmali tree
+at some places and like saffron-flowers at some other places.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
@@ -1447,44 +1447,19 @@ _________________
 
 **पदच्छेदः**
 
-*38. ityevam* = thus; *uuchuH* = spoke; *sarve* = all; *
-vishiSTaaH raakSogaNaaH* = those excellent troops of demons; *bahavaH* = in multitude;
-*sametya* = gathering together; *tatra* = there; *samiikSya* = on seeing; *taam
-puriim* = the city; *dagdhaam* = burnt; *sahasaa* = so soon; *sapraaNisamghaam*
-= with its host of living beings; *sagR^ihaam* = along with houses; *savR^ikSaam* = as
-also trees.
+*33. mahaagniH* = the great fire; *parivaarya tiSThan* = persisted;
+surrounding; *samastaan laN^kaam* = the entire Lanka; *sutejaaH* = with a good splendour;
+*aaditya koTiisadR^ishaH* = equal to that of a crore of suns; *prababhau* = blazed;
+*aN^Dam bhindanniva* = like a broken-up hemi-sphere of the world; *shabdaiH* = with sounds;
+*anekaiH* = in multitude; *ashanipraruuDhaH* = of a widely thunderbolt.
 
 **अनुवादः**
 
-Thus spoke all those excellent troops of demons in multitude, gathering together there,
-on seeing that city scorched so soon, with its host of living beings, houses and trees.
+The great fire persisted, surrounding the entire Lanka, having a good splendour equal
+to that of millions of suns and blazed like a broken-up hemi-sphere of the world, creating many sounds
+of a wide-spread thunderbolt.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*37. kim vaa* = or whether; *param* = a supreme; *sutejaH*
-= bright energy; *vaiSNavam* = of Vishnu; the lord of maintenance of the Universe; *achintyam*
-= unthinkable; *avyaktam* = unmanifest; *anantam* = infinite; *edam* = and peerless;
-*aagatam* = arrived; *etya kapiruupam* = assuming the form of a monkey; *rakSovinaashaaya*
-= for the destruction of demons; *saampratam* = now; *svamaayayaa* = by virtue of Her
-extra ordinary power?
-
-**अनुवादः**
-
-"Or whether a supreme bright energy of Vishnu, the lord of maintenance of the Universe,
-unthinkable, unmanifest, infinite and pearless, arrived now, assuming the form of a monkey for the destruction
-of demons, by virtue of Her extraordinary power?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-हॊगॆयिल्लद ज्वालॆगळिन्द कूडिद्द, राक्षसर शरीरगळॆम्ब आहुतिगळिन्द तृप्तिगॊळ्ळुत्तिद्द अग्नियु, गाळिय सहायदिन्द क्षण-क्षणक्कू वृद्धिहॊन्दित्तु. प्रळयकालद अग्नियन्तॆ आकाशवन्नु मुट्टुत्तित्तु. आ महाग्नियु कोटि सूर्यर तेजस्सिनन्तॆ समग्रवाद लङ्कॆयन्नु व्यापिसिबिट्टितु. सिडिलिन शब्ददन्तॆ भयङ्करवाद शब्दमाडुत्ता ब्रह्माण्डवन्ने भेदिसु त्तिरुवुदो ऎम्बन्तॆ काणुत्तित्तु. तीव्रवाद कान्तियुळ्ळ, मुत्तुगद हूवुगळन्तॆ कॆम्पाद अग्निज्वालॆगळु आकाशदवरॆविगू व्यापिसिदवु. बॆङ्कियु आरिहोद बळिक हुट्टिद हॊगॆय सालुगळिन्द समावृतवाद मेघगळु कन्नैदिलॆ हूगळन्तॆ प्रकाशिसुत्तिद्दवु.॥33-35॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1507,21 +1482,46 @@ or the sun-god or Kubera the lord of riches or the moon-god. He may be Kala (the
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
 
+<details><summary>अनुवाद (कन्नड)</summary>
+
+हॊगॆयिल्लद ज्वालॆगळिन्द कूडिद्द, राक्षसर शरीरगळॆम्ब आहुतिगळिन्द तृप्तिगॊळ्ळुत्तिद्द अग्नियु, गाळिय सहायदिन्द क्षण-क्षणक्कू वृद्धिहॊन्दित्तु. प्रळयकालद अग्नियन्तॆ आकाशवन्नु मुट्टुत्तित्तु. आ महाग्नियु कोटि सूर्यर तेजस्सिनन्तॆ समग्रवाद लङ्कॆयन्नु व्यापिसिबिट्टितु. सिडिलिन शब्ददन्तॆ भयङ्करवाद शब्दमाडुत्ता ब्रह्माण्डवन्ने भेदिसु त्तिरुवुदो ऎम्बन्तॆ काणुत्तित्तु. तीव्रवाद कान्तियुळ्ळ, मुत्तुगद हूवुगळन्तॆ कॆम्पाद अग्निज्वालॆगळु आकाशदवरॆविगू व्यापिसिदवु. बॆङ्कियु आरिहोद बळिक हुट्टिद हॊगॆय सालुगळिन्द समावृतवाद मेघगळु कन्नैदिलॆ हूगळन्तॆ प्रकाशिसुत्तिद्दवु.॥33-35॥
+</details>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
 
 **पदच्छेदः**
 
-*33. mahaagniH* = the great fire; *parivaarya tiSThan* = persisted;
-surrounding; *samastaan laN^kaam* = the entire Lanka; *sutejaaH* = with a good splendour;
-*aaditya koTiisadR^ishaH* = equal to that of a crore of suns; *prababhau* = blazed;
-*aN^Dam bhindanniva* = like a broken-up hemi-sphere of the world; *shabdaiH* = with sounds;
-*anekaiH* = in multitude; *ashanipraruuDhaH* = of a widely thunderbolt.
+*37. kim vaa* = or whether; *param* = a supreme; *sutejaH*
+= bright energy; *vaiSNavam* = of Vishnu; the lord of maintenance of the Universe; *achintyam*
+= unthinkable; *avyaktam* = unmanifest; *anantam* = infinite; *edam* = and peerless;
+*aagatam* = arrived; *etya kapiruupam* = assuming the form of a monkey; *rakSovinaashaaya*
+= for the destruction of demons; *saampratam* = now; *svamaayayaa* = by virtue of Her
+extra ordinary power?
 
 **अनुवादः**
 
-The great fire persisted, surrounding the entire Lanka, having a good splendour equal
-to that of millions of suns and blazed like a broken-up hemi-sphere of the world, creating many sounds
-of a wide-spread thunderbolt.
+"Or whether a supreme bright energy of Vishnu, the lord of maintenance of the Universe,
+unthinkable, unmanifest, infinite and pearless, arrived now, assuming the form of a monkey for the destruction
+of demons, by virtue of Her extraordinary power?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*38. ityevam* = thus; *uuchuH* = spoke; *sarve* = all; *
+vishiSTaaH raakSogaNaaH* = those excellent troops of demons; *bahavaH* = in multitude;
+*sametya* = gathering together; *tatra* = there; *samiikSya* = on seeing; *taam
+puriim* = the city; *dagdhaam* = burnt; *sahasaa* = so soon; *sapraaNisamghaam*
+= with its host of living beings; *sagR^ihaam* = along with houses; *savR^ikSaam* = as
+also trees.
+
+**अनुवादः**
+
+Thus spoke all those excellent troops of demons in multitude, gathering together there,
+on seeing that city scorched so soon, with its host of living beings, houses and trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>
@@ -1564,6 +1564,23 @@ _________________
 
 **पदच्छेदः**
 
+*36. kim* = whether; *chaturaananasya brahmaNaH prataapaH* = the
+rage of four-faced Brahama; *sarva pitaamahasya* = the grand father of all; *sarvasya dhaatuH*
+= and the creator of all; *upaayataH* = has arrived; *iha* = here; *vaanara ruupa dhaarii*
+= in the guise of a monkey; *rakSopasamhaarakaraH* = playing the role of a destroyer of demons?.
+
+**अनुवादः**
+
+"Whether the rage of four-faced Brahma, the grand father of all and the creator of all
+has arrived here in the guise of a monkey, playing the role of a destroyer of demons?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *39. tataH* = then; *laN^kaa* = Lanka; *pradagdhaa* = having
 been scorched; *sahasaa* = suddenly; *saraakSasaa* = with its demons; *saashva rathaa*
 = horses; chariots; *sa naagaa* = elephants; *sapkSisamghaa* = multitude of birds; *
@@ -1574,23 +1591,6 @@ samR^igaa* = animals; *savR^ikSaa* = and trees; *ruroda* = cried; *diinaa*
 
 Then, Lanka having been scorched with its demons, horses, chariots, elephants, multitude
 of birds, animals and trees, cried pitiably with tumultuous noise.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*36. kim* = whether; *chaturaananasya brahmaNaH prataapaH* = the
-rage of four-faced Brahama; *sarva pitaamahasya* = the grand father of all; *sarvasya dhaatuH*
-= and the creator of all; *upaayataH* = has arrived; *iha* = here; *vaanara ruupa dhaarii*
-= in the guise of a monkey; *rakSopasamhaarakaraH* = playing the role of a destroyer of demons?.
-
-**अनुवादः**
-
-"Whether the rage of four-faced Brahma, the grand father of all and the creator of all
-has arrived here in the guise of a monkey, playing the role of a destroyer of demons?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga54/sundarasans54.htm)
 </details>

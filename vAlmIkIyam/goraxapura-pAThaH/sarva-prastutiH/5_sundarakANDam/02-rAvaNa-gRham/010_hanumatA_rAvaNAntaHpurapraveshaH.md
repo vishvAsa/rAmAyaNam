@@ -252,21 +252,6 @@ of Ashoka flowers.
 
 **पदच्छेदः**
 
-*6. paramaastharaNaastiirNam* = covered by an excellent bed; *aavikaajinasamvR^itam*
-= spread by sheep skin; *samantaat* = everywhere; *upashobhitam* = shone; *damabhiH* = by
-rows; *varamaalyaanaam* = of excellent garlands.
-
-**अनुवादः**
-
-Covered by an excellent bed, spread by sheep skin everywhere and shone by rows of excellent garlands.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5. viijyamaanam* = fanned; *vaalavyajanahastaabhiH* = by women with fans in
 their hands; *samantataH* = in all the four directions; *jushhTam* = obtained; *vividhaiH gandhaiH*
 = by various fragrances; *dhuupitam* = fumigated; *paradhuupena* = by the best incense.
@@ -275,6 +260,21 @@ their hands; *samantataH* = in all the four directions; *jushhTam* = obtained; *
 
 Fanned by women with fans in their hands in all the four directions and obtained by various fragrances
 fumigated by the best incense.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. paramaastharaNaastiirNam* = covered by an excellent bed; *aavikaajinasamvR^itam*
+= spread by sheep skin; *samantaat* = everywhere; *upashobhitam* = shone; *damabhiH* = by
+rows; *varamaalyaanaam* = of excellent garlands.
+
+**अनुवादः**
+
+Covered by an excellent bed, spread by sheep skin everywhere and shone by rows of excellent garlands.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
@@ -349,15 +349,30 @@ _________________
 
 **पदच्छेदः**
 
-*10. uparatam* = resting; *kriiDitvaa* = after having pleasure; *raatrau*
-= at night; *varaabharaNabhuushhitam* = bedecked with the best ornaments; *priyam* = lover; *
-raakshasakanyaanaam* = to the Rakshasa girls; *sukhaavaham* = causing comfort; *raakasaanaam*
-= to rakshasas.
+*7. (Hanuma saw Ravana) tasmin* = in that; *jiimuutasamkaasham* = equaling
+a cloud; *pradiiptottamakuNDalam* = wearing earrings with a brilliant shine; *lohitaaksham* = with
+read eyes; *mahaabaahum* = with long arms; *mahaarajatavaasasam* = wearing gold clothes.
 
 **अनुवादः**
 
-Resting after having pleasure at night, bedecked with the best ornaments, he was a lover to the
-rakshasa girls and causing comfort to rakshasas.
+Hanuma saw Ravana in that house, equaling a cloud, wearing earrings with a brilliant shine with
+red eyes and with long arms wearing gold clothes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. anuliptaaN^gam* = with body smeared; *lohitenachandanena* = with red sandal
+wood; *sugandhinaa* = with good fragrance; *sandhyaaraktam aakaashe toyadam iva* = like a cloud
+in the red sky at sunset; *sataTidgaNam* = together with groups of lightening.
+
+**अनुवादः**
+
+With his body smeared with red sandal-wood with good fragrance like a cloud in the red sky at sunset,
+together with groups of lightening.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
@@ -379,25 +394,26 @@ form, resembling mount Mandara in sleep, together with groups of trees and bushe
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
 
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अन्तह श्रेष्ठवाद पर्यङ्कदल्लि मलगिद्द राक्षसेश्वरनन्नु आ कपिवरनाद हनुमन्तनु नोडिदनु. अवनु कप्पाद मोडदन्तॆ इद्दनु. अवन कर्णकुण्डलगळु मॆरॆयुत्तिद्दवु. अवन कण्णुगळु कॆण्डदन्तॆ कॆम्पागिद्दवु. महाबाहुवाद अवनु सुवर्ण जरियिन्द कूडिरुव वस्त्रवन्नु उट्टिद्दनु. अवन अङ्गाङ्गगळॆल्लवू परिमळयुक्त गन्धदिन्द पूसल्पट्टिद्दवु. ळ-ळने हॊळॆयुत्तिद्द दिव्याभरणगळिन्द भूषितनागि स्फुरद्रूपियू, कामरूपियू आद आतनु सन्ध्याकालद रक्तवर्णदिन्दलू, मिञ्चुगळिन्दलू कूडिद मेघदन्तॆ प्रकाशिसुत्तिद्दनु. अवनु वृक्षगळिन्दलू, वनगळिन्दलू, लतॆगळिन्दलू कूडि शान्तवागि निद्रिसुत्तिरुव मन्दरपर्वतदन्तॆ काणुत्तिद्दनु. अमूल्यवाद आभरणगळन्नु तॊट्टिरुववनू, राक्षस कन्यॆयरिगॆ प्रीतिपात्रनू, राक्षसरिगॆ सुखवन्नु कॊडुववनू, सुरत क्रीडॆयिन्द विरमिसि गाढवागि मलगिद्द आ रावणनन्नु हनुमन्तनु नोडिदनु.॥7-11॥
+</details>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
 
 **पदच्छेदः**
 
-*8. anuliptaaN^gam* = with body smeared; *lohitenachandanena* = with red sandal
-wood; *sugandhinaa* = with good fragrance; *sandhyaaraktam aakaashe toyadam iva* = like a cloud
-in the red sky at sunset; *sataTidgaNam* = together with groups of lightening.
+*10. uparatam* = resting; *kriiDitvaa* = after having pleasure; *raatrau*
+= at night; *varaabharaNabhuushhitam* = bedecked with the best ornaments; *priyam* = lover; *
+raakshasakanyaanaam* = to the Rakshasa girls; *sukhaavaham* = causing comfort; *raakasaanaam*
+= to rakshasas.
 
 **अनुवादः**
 
-With his body smeared with red sandal-wood with good fragrance like a cloud in the red sky at sunset,
-together with groups of lightening.
+Resting after having pleasure at night, bedecked with the best ornaments, he was a lover to the
+rakshasa girls and causing comfort to rakshasas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अन्तह श्रेष्ठवाद पर्यङ्कदल्लि मलगिद्द राक्षसेश्वरनन्नु आ कपिवरनाद हनुमन्तनु नोडिदनु. अवनु कप्पाद मोडदन्तॆ इद्दनु. अवन कर्णकुण्डलगळु मॆरॆयुत्तिद्दवु. अवन कण्णुगळु कॆण्डदन्तॆ कॆम्पागिद्दवु. महाबाहुवाद अवनु सुवर्ण जरियिन्द कूडिरुव वस्त्रवन्नु उट्टिद्दनु. अवन अङ्गाङ्गगळॆल्लवू परिमळयुक्त गन्धदिन्द पूसल्पट्टिद्दवु. ळ-ळने हॊळॆयुत्तिद्द दिव्याभरणगळिन्द भूषितनागि स्फुरद्रूपियू, कामरूपियू आद आतनु सन्ध्याकालद रक्तवर्णदिन्दलू, मिञ्चुगळिन्दलू कूडिद मेघदन्तॆ प्रकाशिसुत्तिद्दनु. अवनु वृक्षगळिन्दलू, वनगळिन्दलू, लतॆगळिन्दलू कूडि शान्तवागि निद्रिसुत्तिरुव मन्दरपर्वतदन्तॆ काणुत्तिद्दनु. अमूल्यवाद आभरणगळन्नु तॊट्टिरुववनू, राक्षस कन्यॆयरिगॆ प्रीतिपात्रनू, राक्षसरिगॆ सुखवन्नु कॊडुववनू, सुरत क्रीडॆयिन्द विरमिसि गाढवागि मलगिद्द आ रावणनन्नु हनुमन्तनु नोडिदनु.॥7-11॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -411,22 +427,6 @@ together with groups of lightening.
 **अनुवादः**
 
 That great Hanuma saw the gallant king of rakshasas in sleep on a shining couch resting after drinking.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*7. (Hanuma saw Ravana) tasmin* = in that; *jiimuutasamkaasham* = equaling
-a cloud; *pradiiptottamakuNDalam* = wearing earrings with a brilliant shine; *lohitaaksham* = with
-read eyes; *mahaabaahum* = with long arms; *mahaarajatavaasasam* = wearing gold clothes.
-
-**अनुवादः**
-
-Hanuma saw Ravana in that house, equaling a cloud, wearing earrings with a brilliant shine with
-red eyes and with long arms wearing gold clothes.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
@@ -479,13 +479,15 @@ _________________
 
 **पदच्छेदः**
 
-*13. atha* = thereafter; *mahaakapiH* = the great Hanuma = aasaadya = neared;
-*aarohaNam* = staircase; *aashritaH* = sought; *vedikaantaram* = another dais; *prekshate
-sma* = (and) observed closely; *raakshasa shaarduulam* = Ravana.
+*12. saH vaanararshhabhaH* = that Hanuma; best among Vanaras; *aasaadya* =
+neared; *raavaNam* = Ravana; *paromdvignaH* = became very gloomy; *apaasarpat* = (and) moved
+away; *subhiitavat* = with great dread; *niHshvasantam naagam yathaa* = as though from a hissing
+serpent.
 
 **अनुवादः**
 
-Thereafter the great Hanuma neared staircase, sought another dais and observed closely Ravana.
+That Hanuma, best among Vanaras neared Ravana, became very gloomy and moved away with great dread,
+as though from a hissing serpent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
@@ -499,15 +501,13 @@ Thereafter the great Hanuma neared staircase, sought another dais and observed c
 
 **पदच्छेदः**
 
-*12. saH vaanararshhabhaH* = that Hanuma; best among Vanaras; *aasaadya* =
-neared; *raavaNam* = Ravana; *paromdvignaH* = became very gloomy; *apaasarpat* = (and) moved
-away; *subhiitavat* = with great dread; *niHshvasantam naagam yathaa* = as though from a hissing
-serpent.
+*13. atha* = thereafter; *mahaakapiH* = the great Hanuma = aasaadya = neared;
+*aarohaNam* = staircase; *aashritaH* = sought; *vedikaantaram* = another dais; *prekshate
+sma* = (and) observed closely; *raakshasa shaarduulam* = Ravana.
 
 **अनुवादः**
 
-That Hanuma, best among Vanaras neared Ravana, became very gloomy and moved away with great dread,
-as though from a hissing serpent.
+Thereafter the great Hanuma neared staircase, sought another dais and observed closely Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
@@ -871,23 +871,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. saH* = That; *raakshaseshvaraH* = king of Rakshasas(Ravana); *achalasamkaashaH*
-= equaling a mountain; *taabhyaam bhujaabhyaam* = with those two shoulders; *paripuurNaabhyaam*
-= which were well built; *shushubhe* = and shone; *mandaraH iva* = like Mount Mandara; *shR^iN^gaabhyaam*
-= with twin peaks
-
-**अनुवादः**
-
-That king of Rakshasas equaling a mountain with those shoulders, which were well built and shone
-like Mount Mandara with twin peaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15. saH* = that Hanuma; *dadarsha cha* = also saw; *mahaatmana* = the
 wealthy; *raakshasendrasya* = Ravana's; *bhujaaH* = arms; *kaaJNchnaaN^gadanaddhau* = tied
 with golden armlets; *vikshiptau* = thrown apart; *indradhvajoptamau* = resembling flag staffs(raised
@@ -897,6 +880,23 @@ in honor ) of Indra.
 
 That Hanuma also saw the wealthy Ravana's arms tied with golden armlets thrown apart, resembling
 flag staffs raised in honor of Indra.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. saH* = That; *raakshaseshvaraH* = king of Rakshasas(Ravana); *achalasamkaashaH*
+= equaling a mountain; *taabhyaam bhujaabhyaam* = with those two shoulders; *paripuurNaabhyaam*
+= which were well built; *shushubhe* = and shone; *mandaraH iva* = like Mount Mandara; *shR^iN^gaabhyaam*
+= with twin peaks
+
+**अनुवादः**
+
+That king of Rakshasas equaling a mountain with those shoulders, which were well built and shone
+like Mount Mandara with twin peaks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
@@ -2249,17 +2249,18 @@ _________________
 
 **पदच्छेदः**
 
-*53. saH maarutaatmajaH* = that Hanuma; *mahaabaahuH* = with great arms;
-*taamdR^ishhTvaa* = seeing that woman; *bhuushhitaam* = well decorated; *tarkayaamaasa* =
-in logic though; *siiteti* = this is Seetha; *ruupayauvana sampadaa* = by the wealth of her appearance
-and her youth; *hariyudhapaH* = that warrior of vanaras; *nananda* = was delighted; *mahataa
-harshhenayuktaH* = together with great pleasure.
+*51;52. kapiH* = Hanuma; *mandodariim* = (saw) Mandodari; *charuruupiNiim*
+= with a beautiful form; *muktaamaNisamaamuktaiH* = together with diamonds and pearls; suvibhuushhitaam
+well decorated; *bhuushhaNaiH* = by jewellery; *svashriya* = and with her self radiance; *vibhuushhayantiimiva*
+= as though decorating bhavanottamam = that great building; *gauriim* = with a fair complexion; *kanakavarNaabhaam*
+= and with a radiance like golden colour; *ishhTaam* = who was dear to her husband; *antaHpureshvariim*
+= the lady of the women in that gynaeceum; *shayaanaam* = sleeping; *tatra* = there.
 
 **अनुवादः**
 
-That Hanuma with great arms seeing the woman well decorated, out of logic thought thus: "This is
-Seetha by the wealth of her appearance and her youth". That warrior of Vanaras was delighted together with great
-pleasure.
+Hanuma saw Mandodari with a beautiful form together with diamonds and pearls, well decorated by
+jewellery and with her self radiance as though decorating that great building with a fair complexion and with
+a radiance like golden colour, who was dear to her husband the lady of women in that gynaeceum sleeping there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>
@@ -2273,18 +2274,17 @@ pleasure.
 
 **पदच्छेदः**
 
-*51;52. kapiH* = Hanuma; *mandodariim* = (saw) Mandodari; *charuruupiNiim*
-= with a beautiful form; *muktaamaNisamaamuktaiH* = together with diamonds and pearls; suvibhuushhitaam
-well decorated; *bhuushhaNaiH* = by jewellery; *svashriya* = and with her self radiance; *vibhuushhayantiimiva*
-= as though decorating bhavanottamam = that great building; *gauriim* = with a fair complexion; *kanakavarNaabhaam*
-= and with a radiance like golden colour; *ishhTaam* = who was dear to her husband; *antaHpureshvariim*
-= the lady of the women in that gynaeceum; *shayaanaam* = sleeping; *tatra* = there.
+*53. saH maarutaatmajaH* = that Hanuma; *mahaabaahuH* = with great arms;
+*taamdR^ishhTvaa* = seeing that woman; *bhuushhitaam* = well decorated; *tarkayaamaasa* =
+in logic though; *siiteti* = this is Seetha; *ruupayauvana sampadaa* = by the wealth of her appearance
+and her youth; *hariyudhapaH* = that warrior of vanaras; *nananda* = was delighted; *mahataa
+harshhenayuktaH* = together with great pleasure.
 
 **अनुवादः**
 
-Hanuma saw Mandodari with a beautiful form together with diamonds and pearls, well decorated by
-jewellery and with her self radiance as though decorating that great building with a fair complexion and with
-a radiance like golden colour, who was dear to her husband the lady of women in that gynaeceum sleeping there.
+That Hanuma with great arms seeing the woman well decorated, out of logic thought thus: "This is
+Seetha by the wealth of her appearance and her youth". That warrior of Vanaras was delighted together with great
+pleasure.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga10/sundarasans10.htm)
 </details>

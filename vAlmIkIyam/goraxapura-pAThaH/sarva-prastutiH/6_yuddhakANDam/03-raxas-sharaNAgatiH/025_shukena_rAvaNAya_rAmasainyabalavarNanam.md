@@ -241,23 +241,6 @@ _________________
 
 **पदच्छेदः**
 
-*8. kaH* = who; *senaapatiH* = is the chief of army;
-*teSaam* = of those; *mahaatmanaam* = high-souled; *vaanaraaNaam* = monkeys;
-*N^aatvaa* = knowing; *tatcha* = that also; *yathaatattvam* = actually;
-*shiighram* = and quickly; *arhathaH* = you ought; *aagantum* = to come.
-
-**अनुवादः**
-
-"Knowing also accurately who the Chief of Army of those high-souled monkeys is, you
-have to come back quickly."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 4; 5; 6; *7. bhavantau* = both of you; *anupalakShitau* =
 unperceived (to others); *pravishya* = enter; *sainyam* = the army; *vaanaram*
 = of monkeys; *arhathaH* = and ought; *N^aatum* = to know; *tattvataH* =
@@ -282,6 +265,23 @@ of Rama and Sugreeva have come together, which monkeys are abiding in front, whi
 valiant, how that bridge was constructed across the ocean full of water, how the encamping is done
 for those great-souled monkeys; the determination, strength and the striking senses of Rama and of
 the heroic Lakshmana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. kaH* = who; *senaapatiH* = is the chief of army;
+*teSaam* = of those; *mahaatmanaam* = high-souled; *vaanaraaNaam* = monkeys;
+*N^aatvaa* = knowing; *tatcha* = that also; *yathaatattvam* = actually;
+*shiighram* = and quickly; *arhathaH* = you ought; *aagantum* = to come.
+
+**अनुवादः**
+
+"Knowing also accurately who the Chief of Army of those high-souled monkeys is, you
+have to come back quickly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga25/yuddhasans25.htm)
 </details>

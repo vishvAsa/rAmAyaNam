@@ -709,23 +709,6 @@ forth uncontaminated waters."
 
 **पदच्छेदः**
 
-*16. "saH* = that Rama; *putraH* = the son;
-*dasarathasya* = of Dasaratha; *shuuraH* = the hero and; *mahaabaahuH* = the
-mighty armed; *puraa bhavati* = will become; *duurat* = distant; *naH* = from
-us. Anugachhaama = Let us run after; *raaghavam* = Rama."
-
-**अनुवादः**
-
-"That Rama the son of Dasaratha, the hero and the mighty armed will come to our view
-not far from us. Let us run after him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15. "paadapaaH* = trees; *parvataagrashhu* = on mountain
 -peaks; *ramayishhyanti* = will enrapture; *raaghavam* = Rama; *yatra* =
 where; *raamaH* = there is Rama; *atra* = there is ; *na* = neither;
@@ -736,6 +719,23 @@ overthrow."
 
 "Trees on apex of mountains will enrapture Rama. Where there is Rama, there is
 neither fear nor humiliation".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. "saH* = that Rama; *putraH* = the son;
+*dasarathasya* = of Dasaratha; *shuuraH* = the hero and; *mahaabaahuH* = the
+mighty armed; *puraa bhavati* = will become; *duurat* = distant; *naH* = from
+us. Anugachhaama = Let us run after; *raaghavam* = Rama."
+
+**अनुवादः**
+
+"That Rama the son of Dasaratha, the hero and the mighty armed will come to our view
+not far from us. Let us run after him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>
@@ -1051,23 +1051,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. kaikeyyaaH* = (while) Kaikeyi; *jiivantyaaH* = is surviving
-; *vayam* = we ;jaatu = ever; *na nivasemahi* = will not inhabit; *raajye* =
-this kingdom; *bhR^itakaaH* = as (Kaikeyi's) servants; *jiivityaaH* = (as long as we
-are) living; *shapaamahe* = we swear even; *putrairapi* = even by our sons."
-
-**अनुवादः**
-
-"We swear even by our sons that while Kaikeyi is surviving and as long as we live,
-we will never inhabit this kingdom as Kaikeyi's servants!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *22. saa Kaikeyi* = "That Kaikeyi; *yayaa* = by whom;
 *putrascha* = her son; *bharataacha* = and her husband; *tyaktaa* = were
 forsaken; *aishvarya kaaraNaat* = for the sake of power;kula paamsanii = (and)who brought
@@ -1078,6 +1061,23 @@ abandon?"
 
 "Whom else Kaikeyi will not abandon? --that Kaikeyi, by whom her son and her husband
 were forsaken for the sake of power and who brought disgrace to her family."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. kaikeyyaaH* = (while) Kaikeyi; *jiivantyaaH* = is surviving
+; *vayam* = we ;jaatu = ever; *na nivasemahi* = will not inhabit; *raajye* =
+this kingdom; *bhR^itakaaH* = as (Kaikeyi's) servants; *jiivityaaH* = (as long as we
+are) living; *shapaamahe* = we swear even; *putrairapi* = even by our sons."
+
+**अनुवादः**
+
+"We swear even by our sons that while Kaikeyi is surviving and as long as we live,
+we will never inhabit this kingdom as Kaikeyi's servants!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga48/ayodhyasans48.htm)
 </details>

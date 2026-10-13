@@ -850,22 +850,6 @@ _________________
 
 **पदच्छेदः**
 
-*20. puruSa vyaaghra lakSmaNa* = manly, tiger, Lakshmana; *jiivantyaaH* = in aliveness;
-*janaksya sutaayaa siitaayaaH* = Janaka's, daughter, of Seetha; *saamagryam* = in intactness;
-*api praapnuyaavahe vai* = at least, can we make out, really - I wonder.
-
-**अनुवादः**
-
-"Oh, tigerly-man Lakshmana, I wonder whether we can at least make out the daughter of Janaka Seetha
-in her intactness and aliveness. [3-57-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *18b, 19. viira* = oh, brave one; *me bhuuyiSTham* = to me, many; *a shubhaani eva*
 = not, auspicious [forebodings,] only - confronting me; *yathaa praadubhavanti* = according to,
 their manifestion; *janaka aatmajaa* = Janaka's, daughter; *sarvathaa* = anywise; *
@@ -878,6 +862,22 @@ me samshayaH na asti* = to me, doubt, not, is there.
 "Oh, brave one, according to these many inauspicious forebodings that have manifested themselves to
 me, we might have lost Janaka's daughter Seetha, or the forest ranging demons might have devoured her,
 or else they might have kidnapped her, I am doubtless about it. [3-57-18b, 19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20. puruSa vyaaghra lakSmaNa* = manly, tiger, Lakshmana; *jiivantyaaH* = in aliveness;
+*janaksya sutaayaa siitaayaaH* = Janaka's, daughter, of Seetha; *saamagryam* = in intactness;
+*api praapnuyaavahe vai* = at least, can we make out, really - I wonder.
+
+**अनुवादः**
+
+"Oh, tigerly-man Lakshmana, I wonder whether we can at least make out the daughter of Janaka Seetha
+in her intactness and aliveness. [3-57-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga57/aranyasans57.htm)
 </details>

@@ -805,6 +805,30 @@ _________________
 
 **पदच्छेदः**
 
+*16, 17a. evam uktaH tu sugriivaH* = thus, said to, on his part, Sugreeva; *raama saannidhye* =
+in Rama's, presence; *dhiimataH lakSmaNasya ca* = the observant, of Lakshmana's [in presence, also; *
+yuuthapam* = to vanara-commander; *shaila aabham* = mountain, in sheen; *megha nirghoSam* =
+cloudlike, in thundering; *uurjitam* = mightiest; *vinatam naama* = to Vinata, named; *plavageshvaram
+abraviit* = to fly-jumpers, chief, spoke.
+
+**अनुवादः**
+
+When Rama said so, Sugreeva spoke in the presence of Rama and the observant Lakshmana, to a mightiest chief of
+fly-jumpers, named Vinata, who is a commander of vanara army, who is like a mountain in his sheen and who thunders
+like a cloud. [4-40-16, 17a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+श्रीरामचन्द्रनु हीगॆ हेळिदाग सुग्रीवनु अवन मत्तु बुद्धिवन्त लक्ष्मणन समीपदल्ले पर्वत दन्तॆ विशालकायनू, मेघदन्तॆ गर्जिसुववनू, बलवन्तनू, वानरर शासकनू, सूर्यचन्द्ररन्तॆ कान्तियुळ्ळ वानररॊन्दिगॆ उपस्थितनू आद विनत ऎम्ब यूधपतियल्लि हेळिदनु-वानर शिरोमणिये! नीनु देश कालक्कनुसार नीतियन्नु प्रयोगिसुववनू, कार्यवन्नु निश्चयिसुवुदरल्लि चतुरनू आगिरुवॆ. नीनु ऒन्दु लक्ष वेगशाली वानररॊन्दिगॆ पर्वत, वन, काननगळ सहित पूर्व दिक्किगॆ होगु. अल्लि पर्वतगळ दुर्गम प्रदेशगळल्लि, वन-नदिगळल्लि विदेहकुमारि सीतादेवियन्नु हागू रावणन निवासस्थानवन्नु हुडुकु.॥16-19½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *17b, 18, 19a. vaanara uttama* = oh, vanara [Vinata, the best; *desha kaala nayaiH yuktaH* = place,
 time, probity, in consonance with - you are aware of; *kaarya vinishcaye vij~naH* = task, in determination,
 you are an expert; such as you are you with; *soma suurya nibhaiH* = who are - moon, sun, in glow; *
@@ -825,11 +849,6 @@ In some translations the second foot's gist is also attributed to Vinata, i.e., 
 moon etc., but it is for the progeny of the Sun and Moon gods, who are to follow Vinata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-श्रीरामचन्द्रनु हीगॆ हेळिदाग सुग्रीवनु अवन मत्तु बुद्धिवन्त लक्ष्मणन समीपदल्ले पर्वत दन्तॆ विशालकायनू, मेघदन्तॆ गर्जिसुववनू, बलवन्तनू, वानरर शासकनू, सूर्यचन्द्ररन्तॆ कान्तियुळ्ळ वानररॊन्दिगॆ उपस्थितनू आद विनत ऎम्ब यूधपतियल्लि हेळिदनु-वानर शिरोमणिये! नीनु देश कालक्कनुसार नीतियन्नु प्रयोगिसुववनू, कार्यवन्नु निश्चयिसुवुदरल्लि चतुरनू आगिरुवॆ. नीनु ऒन्दु लक्ष वेगशाली वानररॊन्दिगॆ पर्वत, वन, काननगळ सहित पूर्व दिक्किगॆ होगु. अल्लि पर्वतगळ दुर्गम प्रदेशगळल्लि, वन-नदिगळल्लि विदेहकुमारि सीतादेवियन्नु हागू रावणन निवासस्थानवन्नु हुडुकु.॥16-19½॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -854,25 +873,6 @@ Ila, Bharati, and Saraswati* - is still the prime meridian for Indian astronomer
 - sa uddicya iti ucyate* Taking Ujjain, the place where one ancient river flowed circuitously in Central India,
 named Sharavati, as the centre of the country, the ancient astronomers have decided the quarters. So, Sugreeva
 said about the absolute east of India but not about the east of his small kingdom.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*16, 17a. evam uktaH tu sugriivaH* = thus, said to, on his part, Sugreeva; *raama saannidhye* =
-in Rama's, presence; *dhiimataH lakSmaNasya ca* = the observant, of Lakshmana's [in presence, also; *
-yuuthapam* = to vanara-commander; *shaila aabham* = mountain, in sheen; *megha nirghoSam* =
-cloudlike, in thundering; *uurjitam* = mightiest; *vinatam naama* = to Vinata, named; *plavageshvaram
-abraviit* = to fly-jumpers, chief, spoke.
-
-**अनुवादः**
-
-When Rama said so, Sugreeva spoke in the presence of Rama and the observant Lakshmana, to a mightiest chief of
-fly-jumpers, named Vinata, who is a commander of vanara army, who is like a mountain in his sheen and who thunders
-like a cloud. [4-40-16, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
@@ -965,22 +965,6 @@ _________________
 
 **पदच्छेदः**
 
-*24. raamasya dayitaam bhaaryaam* = Rama's, dear, wife; *dasharathaH snuSaam* = Dasharatha's, daughter-in-law;
-*siitaam* = such Seetha; *tataH tataH* = there, there - thereabout; *maargayadbhiH* = while
-you are exploring; *tat sarvam vicetavyam ca* = that [those places, in entirety, shall be searched, also.
-
-**अनुवादः**
-
-"While you explore those places in their entirety, thereabout you have to search for Rama's dear wife and king
-Dasharatha's daughter-in-law Seetha. [4-40-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *20b, 21, 22, 23. nadiim bhaagiirathiim* = River, Bhaagiirathi [Ganga]; *ramyaam sarayuum* = delightful
 one, River Sarayu; *tathaa kaushikiim* = likewise, River Kaushiki; *kaalindiim ramyaam yamunaam*
 = river emerging from Mt. Kalinda, pleasing [river,] River Yamuna; *yaamunam ca mahaa girim* = the source
@@ -1045,6 +1029,22 @@ that 'to the north of Magadha, River Ganga courses, to the west of it Kaashi pro
 its capital is *kusuma pura [paaTalii putra* present day Patna. Next, the word '*koshakaara* is
 literally a silkworm or one who makes scabbards or a lexicographer. It is also referred to the kings of these
 clans.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24. raamasya dayitaam bhaaryaam* = Rama's, dear, wife; *dasharathaH snuSaam* = Dasharatha's, daughter-in-law;
+*siitaam* = such Seetha; *tataH tataH* = there, there - thereabout; *maargayadbhiH* = while
+you are exploring; *tat sarvam vicetavyam ca* = that [those places, in entirety, shall be searched, also.
+
+**अनुवादः**
+
+"While you explore those places in their entirety, thereabout you have to search for Rama's dear wife and king
+Dasharatha's daughter-in-law Seetha. [4-40-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
@@ -1535,6 +1535,28 @@ _________________
 
 **पदच्छेदः**
 
+*37, 38. kaala megha pratimam* = dark, cloud, mirroring; *mahaa uraga niSevitam* = great, by serpents,
+hallowed by; *mahaa naadam* = blatantly, blaring; such a; *tam mahaa udadhim* = that, great, ocean;
+*tiirthena eva* = by shores [or by tact, only; *abhigamya* = traversing, on navigating; *tatra*
+= there; *mahaa kaayaaH* = colossal, bodied ones; *diirgha kaalam bubhukSitaaH* = for a long, time,
+who are in hungriness; *brahmaNaa sam anuj~naataa* = by Brahma, well, endued by; *nityashaH Cchaayaam
+gR^ihNanti* = always, by shadow, who capture; such; *asuraa* = demons; *[prekSyatha* = you will
+see.
+
+**अनुवादः**
+
+"That ocean which mirrors a dark cloud and hallowed by great serpents, and which blares blatantly is to be traversed
+only by it shores or tactfully, to avoid shadow-capturing of its inhabitants. There you will see colossal bodied
+demons with everlasting hunger inhibiting that ocean, which demons always capture prey by the shadow of prey as
+endued by Brahma. [4-40-37, 38]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *39. tataH rakta jalam* = from there, red, water; bhiimam disastrous; *lohitam naama saagaram* =
 Lohita [Red Ocean, named, ocean; *gatvaa* = on getting at; *bR^ihatiim taam kuuTashaalmaliim* =
 colossal, that one, Kutashalmali tree; *prekSyatha* = you shall see.
@@ -1551,28 +1573,6 @@ This *kuuTa-shalmali* tree in Indian variety is Andersonia Rohitaka, and in Mala
 it is Kapok tree, [Ceiba pentandra, the seeds of which are covered with silk cotton. Because it is on Shalmali
 Island, one among Java, Sumatra etc., islands, it is called *kuuTa shalmali* tree. The Red Ocean is also
 called *madhu samudra* 'Wine Ocean.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*37, 38. kaala megha pratimam* = dark, cloud, mirroring; *mahaa uraga niSevitam* = great, by serpents,
-hallowed by; *mahaa naadam* = blatantly, blaring; such a; *tam mahaa udadhim* = that, great, ocean;
-*tiirthena eva* = by shores [or by tact, only; *abhigamya* = traversing, on navigating; *tatra*
-= there; *mahaa kaayaaH* = colossal, bodied ones; *diirgha kaalam bubhukSitaaH* = for a long, time,
-who are in hungriness; *brahmaNaa sam anuj~naataa* = by Brahma, well, endued by; *nityashaH Cchaayaam
-gR^ihNanti* = always, by shadow, who capture; such; *asuraa* = demons; *[prekSyatha* = you will
-see.
-
-**अनुवादः**
-
-"That ocean which mirrors a dark cloud and hallowed by great serpents, and which blares blatantly is to be traversed
-only by it shores or tactfully, to avoid shadow-capturing of its inhabitants. There you will see colossal bodied
-demons with everlasting hunger inhibiting that ocean, which demons always capture prey by the shadow of prey as
-endued by Brahma. [4-40-37, 38]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>
@@ -1945,6 +1945,23 @@ _________________
 
 **पदच्छेदः**
 
+*47b, 48a. vaanaraaH* = oh, vanara-s; *kSiirodam samatikramya* = milky ocean, on crossing over;
+*sarva bhuuta bhayaavaham* = for all, beings, frightening; *jala* = sof-water; *udam saagaram*
+= as waters, ocean [ocean with soft water; *tataH shiighram drakSyatha* = then, immediately, you shall
+see.
+
+**अनुवादः**
+
+"And on crossing over the milky ocean, oh vanara-s, then you will be immediately seeing the soft-water ocean which
+will be frightening to all beings. [4-40-47b, 48a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *48b, 49a. tatra* = there; *tat kopa jam* = that, from anger, originated - originated from the anger
 of Aurasa; *mahat* = fantastic one; *haya mukham* = horse, face; *tejaH kR^itam* = by refulgent
 Fire, made - by the anger of Aurasa; *sa cara a caram* = with, mobile, not, mobile [sessile beings];
@@ -1967,23 +1984,6 @@ from beneath the ocean from the South Pole. This fire is called *vaDaba agni*, o
 , referred here as Horse's Face. At the time of *yuga anta*, End of Era, that fire emerges out, and the
 whole creation, with all its sessile and mobile beings, becomes its fuel, as said in next verse. This episode
 is detailed in *aadi parva* , First Canto, Maha Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*47b, 48a. vaanaraaH* = oh, vanara-s; *kSiirodam samatikramya* = milky ocean, on crossing over;
-*sarva bhuuta bhayaavaham* = for all, beings, frightening; *jala* = sof-water; *udam saagaram*
-= as waters, ocean [ocean with soft water; *tataH shiighram drakSyatha* = then, immediately, you shall
-see.
-
-**अनुवादः**
-
-"And on crossing over the milky ocean, oh vanara-s, then you will be immediately seeing the soft-water ocean which
-will be frightening to all beings. [4-40-47b, 48a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga40/kishkindhasans40.htm)
 </details>

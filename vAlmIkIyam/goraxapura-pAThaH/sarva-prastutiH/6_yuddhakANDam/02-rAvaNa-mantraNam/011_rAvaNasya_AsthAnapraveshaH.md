@@ -709,24 +709,6 @@ _________________
 
 **पदच्छेदः**
 
-*17. saH* = that; *raavaNaH* = Ravana; *tasyaam* = in
-that hall; *bheje* = occupied; *mahat* = big; *paramaasanam* = (and) excellent
-throne; *vaiduuryamayam* = embedded with jewels (cat's eye gems);
-*priyakaajinasamvR^itam* = covered with skin of deer called Priyaka; *sopaashrayam* =
-(and) furnished with pillows.
-
-**अनुवादः**
-
-Ravana, that hall, occupied a big and excellent throne embedded with jewels (cat's
-eye gems), covered with skin of deer called Priyaka and furnished with pillows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15;16. mahaatejaaH* = Ravana with great splendour;
 *viraajamaanaH* = with shining brightly; *napuSaa* = body; *pravivesha* =
 entered; *taam* = that assembly hall; *suvarNarajataastiirNaam* =
@@ -741,6 +723,24 @@ Ravana with great splendour, with his body shining brightly, entered that assemb
 hall, which was paved with gold and silver, whose interior was wrought with pure crystal, carpeted
 with skins of deer, guarded by six hundred evil spirits, ever shining and well-constructed by
 Visvakarma.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. saH* = that; *raavaNaH* = Ravana; *tasyaam* = in
+that hall; *bheje* = occupied; *mahat* = big; *paramaasanam* = (and) excellent
+throne; *vaiduuryamayam* = embedded with jewels (cat's eye gems);
+*priyakaajinasamvR^itam* = covered with skin of deer called Priyaka; *sopaashrayam* =
+(and) furnished with pillows.
+
+**अनुवादः**
+
+Ravana, that hall, occupied a big and excellent throne embedded with jewels (cat's
+eye gems), covered with skin of deer called Priyaka and furnished with pillows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga11/yuddhasans11.htm)
 </details>

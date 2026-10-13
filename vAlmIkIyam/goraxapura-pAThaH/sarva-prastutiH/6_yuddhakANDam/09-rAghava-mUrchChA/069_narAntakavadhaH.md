@@ -570,24 +570,6 @@ had humbled the pride of gods. All were fierce in battle.
 
 **पदच्छेदः**
 
-*13. sarve* = all; *viiraaH* = were valiant ones;
-*astraviduSaH* = well-versed in weaponry; *sarve* = all; *yuddhavishaaradaaH*
-= were skilled in war-fare; *sarve* = all; *pravaraviJNaanaaH* = were greatly
-knowledgeable; *tathaa* = and; *sarve* = all; *labdhavaraaH* = had obtained
-boons.
-
-**अनुवादः**
-
-All the demons were valiant ones, well-versed in weaponry. All were skilled in
-war-fare. All were greatly knowledgeable and all had obtained boons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. sarve* = all; *subala sampannaaH* = were endowed with great
 strength; *sarve* = all; *vistiirNa kiirtayaH* = were widely renowned; *sarve*
 = all; *na shrunyante sma* = were such that they were never been heared of;
@@ -600,6 +582,24 @@ serpents; *aasaadya samaram* = while encountering a combat.
 All were endowed with great strength. All were widely renowned. All were such as had
 never been heard of having been conquered by celestials or Gandharvas or Kinnaras or large serpents
 while encountering a battle.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. sarve* = all; *viiraaH* = were valiant ones;
+*astraviduSaH* = well-versed in weaponry; *sarve* = all; *yuddhavishaaradaaH*
+= were skilled in war-fare; *sarve* = all; *pravaraviJNaanaaH* = were greatly
+knowledgeable; *tathaa* = and; *sarve* = all; *labdhavaraaH* = had obtained
+boons.
+
+**अनुवादः**
+
+All the demons were valiant ones, well-versed in weaponry. All were skilled in
+war-fare. All were greatly knowledgeable and all had obtained boons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
@@ -832,15 +832,15 @@ Those demons with colossal bodies, paid obeisance (by circumambulating) to Ravan
 
 **पदच्छेदः**
 
-*19. trishiraashcha* = Trishira; *atikaayashcha* = Atikaya;
-*devaantaka naraantakau* = Devantaka; Narantaka; *Mahodara mahaapaarshvau* = Mahodara
-and Mahaparshva; *kaala choditaaH* = under the clout of destiny; *nirjagmuH* = set
-out.
+*18. samaalabhya* = anointing their bodies; *sarvauSadhiibhiH* =
+with all types of herbs; *gandhaiH cha* = and perfumes; *ete* = these; *SaT* =
+six; *mahaabalaaH* = mighty; *nairR^itashreSThaaH* = and excellent demons;
+*nirjagmuH* = went away; *yuddha kaanikSiNaH* = eager to fight.
 
 **अनुवादः**
 
-Trishira, Atikaya, Devantaka, Narantaka, Mahodara and Mahaparshva, under the clout
-of destiny; set out for the battle.
+Anointing their bodies with all types of herbs and perfumes, those six mighty and
+excellent demons went away, eager to fight.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
@@ -854,15 +854,15 @@ of destiny; set out for the battle.
 
 **पदच्छेदः**
 
-*18. samaalabhya* = anointing their bodies; *sarvauSadhiibhiH* =
-with all types of herbs; *gandhaiH cha* = and perfumes; *ete* = these; *SaT* =
-six; *mahaabalaaH* = mighty; *nairR^itashreSThaaH* = and excellent demons;
-*nirjagmuH* = went away; *yuddha kaanikSiNaH* = eager to fight.
+*19. trishiraashcha* = Trishira; *atikaayashcha* = Atikaya;
+*devaantaka naraantakau* = Devantaka; Narantaka; *Mahodara mahaapaarshvau* = Mahodara
+and Mahaparshva; *kaala choditaaH* = under the clout of destiny; *nirjagmuH* = set
+out.
 
 **अनुवादः**
 
-Anointing their bodies with all types of herbs and perfumes, those six mighty and
-excellent demons went away, eager to fight.
+Trishira, Atikaya, Devantaka, Narantaka, Mahodara and Mahaparshva, under the clout
+of destiny; set out for the battle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>
@@ -2186,23 +2186,6 @@ and rocks as their weapons, wandered among the army of demons.
 
 **पदच्छेदः**
 
-*48. te harayaH* = those monkeys; *bhiima vikramaaH* = of
-terrific prowess; *vaaryamaaNaaH* = though impeded; *baaNaughaiH* = by a flood of
-arrows; *chakruH* = initiated; *anuupamaam vR^iSTim* = a matchless rain;
-*paadapashilaashailaiH* = of trees; rocks and mountains.
-
-**अनुवादः**
-
-Those monkeys, of terrific prowess, though impeded by a flood of arrows, initiated a
-matchless rain of trees, rocks and mountains.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *47. vaanarapungavaaH* = the foremost among the monkeys;
 *gR^ihya* = holding; *drumaancha* = trees; *vipulaskandhaan* = having
 extensive branches (roamed about the battle-field); *tat* = that; *yuddham* = battle;
@@ -2213,6 +2196,23 @@ extensive branches (roamed about the battle-field); *tat* = that; *yuddham* = ba
 
 The foremost among the monkeys, holding trees, having extensive branches, roamed
 about in the battle-field. That battle-front, filled with demons and monkeys, looked terrific.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*48. te harayaH* = those monkeys; *bhiima vikramaaH* = of
+terrific prowess; *vaaryamaaNaaH* = though impeded; *baaNaughaiH* = by a flood of
+arrows; *chakruH* = initiated; *anuupamaam vR^iSTim* = a matchless rain;
+*paadapashilaashailaiH* = of trees; rocks and mountains.
+
+**अनुवादः**
+
+Those monkeys, of terrific prowess, though impeded by a flood of arrows, initiated a
+matchless rain of trees, rocks and mountains.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm)
 </details>

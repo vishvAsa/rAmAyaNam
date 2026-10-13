@@ -470,6 +470,28 @@ discarding his beautiful raiment.
 
 **पदच्छेदः**
 
+*9. atha* = then; *siita* = Seetha; *kausheya vaasinii* =
+who wore silken clothing; *samiikshhya* = seeing; *chiiram* = the piece of bark;
+*aatma paridhaanaartham* = intended to be worne by her; *santraptaa* = felt alarming;
+*vaaguraamiva* = as a snare; *vR^ishatii* = by a deer.
+
+**अनुवादः**
+
+Then, Seetha who wore silken clothing, by seeing the piece of bark intended to be
+worne by her, felt alarming as a deer would on seeing a snare(set for entrapping)
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अनन्तर रेश्मबट्टॆयन्ने उडुत्तिद्द, धर्मदल्ले दृष्टिविरिसिद, धर्मज्ञॆ शुभलक्षणॆ जनकनन्दिनी सीतॆयु तनगॆ उडलु तन्दिरिसिद नारुमडियन्नु नोडि, हरहिद बलॆयन्नु कण्डु जिङ्कॆयु भयपडुवन्तॆ, हॆदरिहोदळु. अवळु कैकेयिय कैयिन्द ऎरडु वल्कलगळन्नु तॆगॆदुकॊण्डु नाचिकॊण्डळु. आकॆय मनस्सिगॆ बहळ दुःखवायितु, कण्णुगळिन्द कण्णीरु हरियितु. आग आकॆयु गन्धर्वराजनन्तॆ तेजस्वी पतियल्लि - स्वामि! वनवासी मुनिगळु वल्कल हेगॆ कट्टिकॊळ्ळुत्तारॆ? ऎन्दु केळिदळु. हीगॆ हेळि अदन्नु उडलु तिळियदिरुवुदरिन्द सीतॆयु पदे-पदे सङ्कोचक्कॊळगागुत्तिद्दळु.॥9-12॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *10;11. vyapatrapamaanaiva* = feeling abashed; *prahR^ihya* =
 while taking; *te* = those; *kusha chiire* = wearing apparel made of Kusa grass;
 *sudurmanaaH* = and greatly troubled in mind; *saa jaanakii* = that Seetha;
@@ -491,11 +513,6 @@ looked like Chitraratha(the king of Gandharvas)
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अनन्तर रेश्मबट्टॆयन्ने उडुत्तिद्द, धर्मदल्ले दृष्टिविरिसिद, धर्मज्ञॆ शुभलक्षणॆ जनकनन्दिनी सीतॆयु तनगॆ उडलु तन्दिरिसिद नारुमडियन्नु नोडि, हरहिद बलॆयन्नु कण्डु जिङ्कॆयु भयपडुवन्तॆ, हॆदरिहोदळु. अवळु कैकेयिय कैयिन्द ऎरडु वल्कलगळन्नु तॆगॆदुकॊण्डु नाचिकॊण्डळु. आकॆय मनस्सिगॆ बहळ दुःखवायितु, कण्णुगळिन्द कण्णीरु हरियितु. आग आकॆयु गन्धर्वराजनन्तॆ तेजस्वी पतियल्लि - स्वामि! वनवासी मुनिगळु वल्कल हेगॆ कट्टिकॊळ्ळुत्तारॆ? ऎन्दु केळिदळु. हीगॆ हेळि अदन्नु उडलु तिळियदिरुवुदरिन्द सीतॆयु पदे-पदे सङ्कोचक्कॊळगागुत्तिद्दळु.॥9-12॥
-</details>
-
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
 
 **पदच्छेदः**
@@ -510,23 +527,6 @@ it) mamoha = erred; *muhurmuhuH* = again and again.
 "How ascetics residing in the forest wear this piece of bark?" Thus saying, Seetha
 who was not adept in wearing the bark of trees, erred again and again(in her attempt to wear
 it)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*9. atha* = then; *siita* = Seetha; *kausheya vaasinii* =
-who wore silken clothing; *samiikshhya* = seeing; *chiiram* = the piece of bark;
-*aatma paridhaanaartham* = intended to be worne by her; *santraptaa* = felt alarming;
-*vaaguraamiva* = as a snare; *vR^ishatii* = by a deer.
-
-**अनुवादः**
-
-Then, Seetha who wore silken clothing, by seeing the piece of bark intended to be
-worne by her, felt alarming as a deer would on seeing a snare(set for entrapping)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
@@ -924,6 +924,23 @@ you the ever righteous in any case do not wish to stay back.
 
 **पदच्छेदः**
 
+*20. shruNvan* = hearing; *taasaam* = their; *vaachaH* =
+words; *evam vidhaaH* = in this manner; *dasharathaatmajaH* = Rama; *tadaa* =
+then; *babandhaiva* = already got fastened; *chiiram* = the piece of bark;
+*siitayaa* = by Seetha; *tulyashiilayaa* = of balanced nature.
+
+**अनुवादः**
+
+Even after hearing their words in this manner, Rama fastened that piece of bark to
+Seetha, who has a well-matched nature.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *21. samiikshhya* = seeing; *chiire* = the piece of bark;
 *grahiite* = being accepted; *tayaa* = by her; *vasishhTah* = Vasista;
 *nR^ipate* = the king's; *guruH* = preceptor; *nivaarya* = preceptor;
@@ -934,23 +951,6 @@ you the ever righteous in any case do not wish to stay back.
 
 Seeing Seetha accepting the piece of bark, Vasistha the king's preceptor prevented
 her and spoke thus to Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*20. shruNvan* = hearing; *taasaam* = their; *vaachaH* =
-words; *evam vidhaaH* = in this manner; *dasharathaatmajaH* = Rama; *tadaa* =
-then; *babandhaiva* = already got fastened; *chiiram* = the piece of bark;
-*siitayaa* = by Seetha; *tulyashiilayaa* = of balanced nature.
-
-**अनुवादः**
-
-Even after hearing their words in this manner, Rama fastened that piece of bark to
-Seetha, who has a well-matched nature.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>
@@ -1133,6 +1133,23 @@ Rama's self, she can rule the earth."
 
 **पदच्छेदः**
 
+*25. atha* = or rather; *vaidehii yaasyati* = if Seetha goes;
+*vanam* = to forest; *samgataa* = together; *raamena* = with Rama;
+*payamapi* = we also; *anuyaasyaamah* = will follow suit; *idam* = this;
+*puramcha* = city too; *gammishhyati* = will go.
+
+**अनुवादः**
+
+"Or rather, if Seetha goes to forest together with Rama, we also will follow suit.
+This city too will go."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *26. antapaalaashcha* = frontier-guards; *raashhaTramcha* = and
 the State; *sahopajiivyam* = including its patrons; *puramcha* = as well as the city;
 *saparichchhadam* = with its goods and chattels; *yaasyanti* = will go;
@@ -1143,23 +1160,6 @@ wife.
 
 "The fronitier- guards and the State including its patrons, as well as this city
 with its goods and chattels will go whereever Rama and his wife are there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*25. atha* = or rather; *vaidehii yaasyati* = if Seetha goes;
-*vanam* = to forest; *samgataa* = together; *raamena* = with Rama;
-*payamapi* = we also; *anuyaasyaamah* = will follow suit; *idam* = this;
-*puramcha* = city too; *gammishhyati* = will go.
-
-**अनुवादः**
-
-"Or rather, if Seetha goes to forest together with Rama, we also will follow suit.
-This city too will go."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga37/ayodhyasans37.htm)
 </details>

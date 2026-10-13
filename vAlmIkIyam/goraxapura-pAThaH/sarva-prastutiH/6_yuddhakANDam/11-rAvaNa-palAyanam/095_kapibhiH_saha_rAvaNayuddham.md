@@ -1215,23 +1215,6 @@ excellent weapons, rushed out within a moment.
 
 **पदच्छेदः**
 
-*28. tataH* = then; *vR^itaH* = surrounded; *bahubhiH
-raakShasaiH* = with several demons; *raavaNaH* = Ravana; *prayaataH* = sallied
-forth; *sahasaa* = quickly; *daamyanniva* = as though he was cracking;
-*mediniim* = the earth; *sattvagaambhiiryaat* = with profundity of is strength.
-
-**अनुवादः**
-
-Then, surrounded by several demons, Ravana sallied forth quickly, as though he was
-cracking the earth with a profundity of his strength.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. atha* = then; *raavaNaajJNayaa* = as per the orders of
 Ravana; *balaadhyakShaH* = the army-commander; *satvaraH* = hurriedly;
 *aanayat* = brought; *ratham* = a chariot; *drutam* = movin swiftly; *suuta
@@ -1244,6 +1227,23 @@ horses; *tadaa* = then; *bhiimaH* = the terrific Ravana; *aaruroha* = mounted;
 Then, as per the orders of Ravana, the army-commander hurriedly brought a chariot,
 moving swiftly, along with a charioteer and yoked with eight horses. Thereupon, the awful Ravana
 mounted that chariot, shining with his own splendour.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. tataH* = then; *vR^itaH* = surrounded; *bahubhiH
+raakShasaiH* = with several demons; *raavaNaH* = Ravana; *prayaataH* = sallied
+forth; *sahasaa* = quickly; *daamyanniva* = as though he was cracking;
+*mediniim* = the earth; *sattvagaambhiiryaat* = with profundity of is strength.
+
+**अनुवादः**
+
+Then, surrounded by several demons, Ravana sallied forth quickly, as though he was
+cracking the earth with a profundity of his strength.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>
@@ -1408,23 +1408,6 @@ by his canopy and pair of whisks, to fight with Rama, the foremost among the Rag
 
 **पदच्छेदः**
 
-*33. mahaabaahuH* = the long armed; *raavaNastu* = Ravana for
-his part; *mahaatejaH* = with extra-ordinary energy; *parivaaritaH* = surrounded;
-*sachivaiH* = by his ministers; *aajagaama* = turned up; *vijayam prati* = for
-victory; *jayaaya* = in quest of victory.
-
-**अनुवादः**
-
-The long-armed Ravana, for his part, with extra-ordinary energy, surrounded by his
-ministers, turned up for victory in quest of victory.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *32. mahataa tena naadena* = by that huge sound; *pR^ithivii* =
 the earth; *samakampata* = trembled; *shrutvaa* = hearing; *tam shabdam* =
 that sound; *sahasaa* = suddenly; *vaanaraaH* = the monkeys; *dudruvuH* = ran
@@ -1434,6 +1417,23 @@ away; *bhayaat* = in fear.
 
 By that huge sound, the earth trembled. Hearing that sound suddenly, the monkeys ran
 away in fear.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. mahaabaahuH* = the long armed; *raavaNastu* = Ravana for
+his part; *mahaatejaH* = with extra-ordinary energy; *parivaaritaH* = surrounded;
+*sachivaiH* = by his ministers; *aajagaama* = turned up; *vijayam prati* = for
+victory; *jayaaya* = in quest of victory.
+
+**अनुवादः**
+
+The long-armed Ravana, for his part, with extra-ordinary energy, surrounded by his
+ministers, turned up for victory in quest of victory.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga95/yuddhasans95.htm)
 </details>

@@ -449,6 +449,23 @@ your words."
 
 **पदच्छेदः**
 
+*9. diinaH vaa* = (although) wretched; *raajya hiinaH vaa* = or without kingdom;
+*yaH* = whoever; *me bhartaa* = is my husband; *saH* = He (alone); *me* = is my;
+*guruH* = master; *suvarchalaa yathaa* = like Suvarchala; *suuryam* = with the Sun God;
+*anuraktaa asmi tam* = I am fond of Him; *nityam* = always;
+
+**अनुवादः**
+
+"Although wretched or without kingdom, whoever is my husband, He alone is my master. Like Suvarchala
+with the Sun God, I am fond of Him always."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 10; 11; *12. yathaa* = like; *mahaabhaagaa* = the highly fortunate; *shachii*
 = Sachi; *samupatishhThati* = (who) waits; *shukram* = upon Indra; *arundhatii vasishhTham cha*
 = like Arundhati on Vasishta; *yathaa* = like; *rohiNi sashinam* = Rohini on the Moon God; *yathaa*
@@ -465,23 +482,6 @@ on Chyavana; *saavitrii satyavantam* = (like) Savitri on Satyavanta; *shriimatii
 on the Moon God, like Lopamudra on Agastya, like Sukanya on Chyavana, like Savitri on Satyavanta, like Srimati
 on Kapila, like Madayanti on Saudasa, like Kesini on Sagara, like Damayanti the daughter of Bhima, devoted to
 husband Nala, in the same way I am devoted to my husband Rama, the best in Ikshvaku dynasty."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*9. diinaH vaa* = (although) wretched; *raajya hiinaH vaa* = or without kingdom;
-*yaH* = whoever; *me bhartaa* = is my husband; *saH* = He (alone); *me* = is my;
-*guruH* = master; *suvarchalaa yathaa* = like Suvarchala; *suuryam* = with the Sun God;
-*anuraktaa asmi tam* = I am fond of Him; *nityam* = always;
-
-**अनुवादः**
-
-"Although wretched or without kingdom, whoever is my husband, He alone is my master. Like Suvarchala
-with the Sun God, I am fond of Him always."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -698,23 +698,6 @@ _________________
 
 **पदच्छेदः**
 
-*17.bhatsyamaanaa* = being frightened; *raakshasiibhiH* = by ogre women;
-*bhiimaabhiH* = who were horrible; *saa varaananaa* = that Seetha with best face; *sabaashhpam*
-= with tears in eyes; *apasarpantii* = moving from there; *uppagamat* = reached; *taam shiMshupaam*
-= that Simsupa tree.
-
-**अनुवादः**
-
-Being frightened by ogre women who were horrible that Seetha with best face with tears in eyes
-and moving from there reached that Simsupa tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16. paramkruddhaaH* = being angry a lot; *pragR^ihya* = grasping; *aashu*
 = quickly; *parashvadhaan* = axes; *uuchushcha* = and spoke; *iyam* = this woman; *naarhati*
 = is not suited; *raakshasaadhipam* = (to have) the king of ogres; *raavaNAm* = Ravana; *bhartaaram*
@@ -724,6 +707,23 @@ and moving from there reached that Simsupa tree.
 
 Being angry a lot and grasping axes quickly spoke as follows: "This woman is not suited to have
 the king of ogres Ravana as husband."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17.bhatsyamaanaa* = being frightened; *raakshasiibhiH* = by ogre women;
+*bhiimaabhiH* = who were horrible; *saa varaananaa* = that Seetha with best face; *sabaashhpam*
+= with tears in eyes; *apasarpantii* = moving from there; *uppagamat* = reached; *taam shiMshupaam*
+= that Simsupa tree.
+
+**अनुवादः**
+
+Being frightened by ogre women who were horrible that Seetha with best face with tears in eyes
+and moving from there reached that Simsupa tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -848,6 +848,22 @@ _________________
 
 **पदच्छेदः**
 
+*19. taaH* = those; *raakshasyaH* = ogres; *bhartsayaaMchakrire* = frightened;
+*samantataH* = from all directions; *taam siitaam* = that Seetha; *kR^ishaam* = (who was)
+emaciated; *diinavadanaam* = with a pitiful face; *malinaambaradhaariNiim* = wearing dirty garments;
+
+**अनुवादः**
+
+Those ogres frightened from all directions that Seetha who was emaciated with a pitiful face and
+wearing dirty garments.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *20. tataH* = Thereafter; *raakshasii* = an ogre woman; *vinataa naama*
 = named Vinata; *bhiimadarshnaa* = with a horrible appearance; *kupitaakaaraa* = with an angry form;
 *karaaLaa* = crooked; *nirNatodarii* = having a prominent belly; *taam abraviit* = spoke
@@ -857,22 +873,6 @@ to Her.
 
 Thereafter an ogre woman named Vinata with a horrible appearance with an angry form, crooked, having
 a prominent belly spoke to Her.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*19. taaH* = those; *raakshasyaH* = ogres; *bhartsayaaMchakrire* = frightened;
-*samantataH* = from all directions; *taam siitaam* = that Seetha; *kR^ishaam* = (who was)
-emaciated; *diinavadanaam* = with a pitiful face; *malinaambaradhaariNiim* = wearing dirty garments;
-
-**अनुवादः**
-
-Those ogres frightened from all directions that Seetha who was emaciated with a pitiful face and
-wearing dirty garments.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -1057,24 +1057,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. tyaktvaa* = leaving; *raamam* = Rama; *maanushham* = a human;
-*kR^ipaNam* = miserable; *aashraya* = seek refuge; *raavaNam* = (in) Ravana; *vaidehi*
-= O Seetha!; *divyaN^garaagaa* = with best unguents to the body; *divyaabharaNa bhuushhitaa* = decorated
-with best ornaments; *bhava* = become; *iishvarii* = mistress; *sarveshhaam lokaanaam* =
-of all the worlds; *adyaprabhR^iti* = from today.
-
-**अनुवादः**
-
-"Leaving Rama who is a human and miserable, seek refuge in Ravana. O Seetha! With best unguents
-to the body and decorated with best ornaments, become mistress of all the worlds from today."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 23; *24. bhaja* = obtain; *bhartaaram* = as husband; *raavaNam* = Ravana;
 *bhartaaram* = (who is) the lord; *sarva rakshasaam* = to all ogres; *vikraantam* = bold;
 *ruupavantam cha* = and handsome; *vaasavamiva* = like Indra; *sureshham* = the lord of Devas;
@@ -1085,6 +1067,24 @@ appearance; *sarvasya* = to all;
 
 "Obtain as husband Ravana who is the lord of al l ogres, bold and handsome, like Indra the lord
 of Devas, able one and liberal with a pleasing appearance to all."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. tyaktvaa* = leaving; *raamam* = Rama; *maanushham* = a human;
+*kR^ipaNam* = miserable; *aashraya* = seek refuge; *raavaNam* = (in) Ravana; *vaidehi*
+= O Seetha!; *divyaN^garaagaa* = with best unguents to the body; *divyaabharaNa bhuushhitaa* = decorated
+with best ornaments; *bhava* = become; *iishvarii* = mistress; *sarveshhaam lokaanaam* =
+of all the worlds; *adyaprabhR^iti* = from today.
+
+**अनुवादः**
+
+"Leaving Rama who is a human and miserable, seek refuge in Ravana. O Seetha! With best unguents
+to the body and decorated with best ornaments, become mistress of all the worlds from today."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -1406,22 +1406,6 @@ _________________
 
 **पदच्छेदः**
 
-*33. maithili* = O Seetha!; *kurushhva* = do; *mama vachanam* = (according
-to) my word; *hitavaadinyaaH* = (which is) beneficial; *ashruprapaatena* = discharge of tears;alam
-= is enough; *tyaja* = leave; *anarthakam* = worthless; *shokam* = gloom.
-
-**अनुवादः**
-
-"O Seetha! Do according to my word, which is beneficial. Discharge of tears is enough. Leave worthless
-gloom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *32. ruddhaam* = withheld; *raavaNasya gR^ihe* = in the house of Ravana;
 *surakshitaam* = well protected; *asmaabhiH* = by us; *purandaraH api* = even Devendra;
 *saakshaat* = himself; *na shaktaH* = is not capable; *paritraatum* = to protect; *tvaam*
@@ -1431,6 +1415,22 @@ gloom."
 
 "Withheld in the house of Ravana well protected by us, even Devendra himself is not capable to
 protect you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. maithili* = O Seetha!; *kurushhva* = do; *mama vachanam* = (according
+to) my word; *hitavaadinyaaH* = (which is) beneficial; *ashruprapaatena* = discharge of tears;alam
+= is enough; *tyaja* = leave; *anarthakam* = worthless; *shokam* = gloom.
+
+**अनुवादः**
+
+"O Seetha! Do according to my word, which is beneficial. Discharge of tears is enough. Leave worthless
+gloom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -1503,6 +1503,22 @@ _________________
 
 **पदच्छेदः**
 
+*34. siite* = O Seetha!;bhaja = have; *priitim cha* = love; *harshham cha*
+= and happiness; *tyaja* = leave; *etaam* = this; *nityadainyataam* = daily gloom; *kriiDa*
+= sport; *yathaa sukham* = according to comfort; *raakshasaraajena saha* = with the king of ogres.
+
+**अनुवादः**
+
+"O Seetha! Have love and happiness. Leave this daily gloom. Sport according to comfort with the
+king of ogres."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *35. bhiiru* = O timid one!; *jaanaasi hi* = you know; *yathaa* = how;
 *yauvanam* = youth; *striiNaam* = of women; *adhruvam* = is not lasting; *yaavat*
 = as long as; *te* = your (youth);na vyatikraamet = will not pass away; *taavat* = so long; *
@@ -1512,22 +1528,6 @@ avaapnuhi* = get; *sukham* = comfort.
 
 "O timid one! You know how youth of women is not lasting. As long as your youth will not pass away,
 so long get comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*34. siite* = O Seetha!;bhaja = have; *priitim cha* = love; *harshham cha*
-= and happiness; *tyaja* = leave; *etaam* = this; *nityadainyataam* = daily gloom; *kriiDa*
-= sport; *yathaa sukham* = according to comfort; *raakshasaraajena saha* = with the king of ogres.
-
-**अनुवादः**
-
-"O Seetha! Have love and happiness. Leave this daily gloom. Sport according to comfort with the
-king of ogres."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -1568,6 +1568,22 @@ king of ogres."
 
 **पदच्छेदः**
 
+*36. madirekshaNe* = O one with intoxicating eyes!; *tvam* = you; *raakshasa
+raajena* = along with king of ogres; *chara* = roam; *ramyaaNi udyaanaani* = beautiful groves;
+*parvatopavanaani* = mountains and nearby forests.
+
+**अनुवादः**
+
+"O one with intoxicating eyes! You along with king of ogres roam beautiful groves, mountains and
+nearby forests.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *37. sundari* = O beautiful one!; *sapta* = seven; *strii sahasraaNi*
 = thousand women; *sthaasyanti* = will be; *te vashe* = in your control; *bhaja* = have;
 *bhartaaram* = as husband; *raavaNam* = Ravana; *bhartaaram* = lord; *sarvarakshsaam*
@@ -1577,22 +1593,6 @@ king of ogres."
 
 "O beautiful one! seven thousand women will be in your control. Have as husband Ravana the lord
 of all ogres."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*36. madirekshaNe* = O one with intoxicating eyes!; *tvam* = you; *raakshasa
-raajena* = along with king of ogres; *chara* = roam; *ramyaaNi udyaanaani* = beautiful groves;
-*parvatopavanaani* = mountains and nearby forests.
-
-**अनुवादः**
-
-"O one with intoxicating eyes! You along with king of ogres roam beautiful groves, mountains and
-nearby forests.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -1679,15 +1679,15 @@ _________________
 
 **पदच्छेदः**
 
-*40. dR^ishhTvaa* = seeing; *imaam* = this woman; *hariNalolaakshiim*
-= with eyes like that of a deer; *traasotkampipayodharaam* = with moving breasts due to fear; *hR^itaam*
-= abducted; *raavaNena* = by Ravana; *abhuut* = (there) occurred; *me* = to me; *mahaan*
-= a great; *dauhR^idaH* = desire.
+*39. tataH* = thereafter; *raakshasii* = an ogre woman; *chaNDodarii naama*
+= named Chandodari; *krodhamuurchhitaa* = swooning with anger; *bhraamayantii* = turning around;
+*mahat* = a big; *shuulam* = spike; *abraviit* = spoke; *idam* = this; *vachanam*
+= word.
 
 **अनुवादः**
 
-"Seeing this woman with eyes like that of a deer, with moving breasts due to fear, abducted by
-Ravana, there occured to me a great desire."
+Thereafter an ogre woman named Chandodari swooning with anger, turning around a big spike spoke
+this word.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -1701,15 +1701,15 @@ Ravana, there occured to me a great desire."
 
 **पदच्छेदः**
 
-*39. tataH* = thereafter; *raakshasii* = an ogre woman; *chaNDodarii naama*
-= named Chandodari; *krodhamuurchhitaa* = swooning with anger; *bhraamayantii* = turning around;
-*mahat* = a big; *shuulam* = spike; *abraviit* = spoke; *idam* = this; *vachanam*
-= word.
+*40. dR^ishhTvaa* = seeing; *imaam* = this woman; *hariNalolaakshiim*
+= with eyes like that of a deer; *traasotkampipayodharaam* = with moving breasts due to fear; *hR^itaam*
+= abducted; *raavaNena* = by Ravana; *abhuut* = (there) occurred; *me* = to me; *mahaan*
+= a great; *dauhR^idaH* = desire.
 
 **अनुवादः**
 
-Thereafter an ogre woman named Chandodari swooning with anger, turning around a big spike spoke
-this word.
+"Seeing this woman with eyes like that of a deer, with moving breasts due to fear, abducted by
+Ravana, there occured to me a great desire."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -1803,6 +1803,22 @@ _________________
 
 **पदच्छेदः**
 
+*42. raakshasii* = ogre woman; *praghasaa naama* = named Pragasa; *abraviit*
+= spoke; *vaakyam* = (these) words; *pIDayaama* = squeeze; *kaNTham* = the neck; *asyaaH*
+= of this; *nR^ishaMsaayaaH* = cruel woman; *kim* = why; *aasyate* = do we delay?
+
+**अनुवादः**
+
+An ogre woman named Pragasa spoke these words : "Squeeze the neck of this cruel woman. Why do we
+delay?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *43. tataH* = thereafter; *nivedyataam* = let it be known; *raajJNe*
 = to the king (that) ;saa = that; *maanushhii* = human woman; *mR^iteti* = has died; *saH*
 = he; *vakshyati* = will say; *iti* = thus;khaadata = eat; *na sandehaH* = there is no doubt;
@@ -1812,22 +1828,6 @@ _________________
 
 "Thereafter let it be known to the king that that human woman has died. He will say thus : "Eat.".
 There is no doubt in this matter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*42. raakshasii* = ogre woman; *praghasaa naama* = named Pragasa; *abraviit*
-= spoke; *vaakyam* = (these) words; *pIDayaama* = squeeze; *kaNTham* = the neck; *asyaaH*
-= of this; *nR^ishaMsaayaaH* = cruel woman; *kim* = why; *aasyate* = do we delay?
-
-**अनुवादः**
-
-An ogre woman named Pragasa spoke these words : "Squeeze the neck of this cruel woman. Why do we
-delay?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>
@@ -1932,23 +1932,6 @@ _________________
 
 **पदच्छेदः**
 
-*47. suraa cha* = liquor; *sarvashokavinaashinii* = (which is the) destroyer
-of all sorrow; *aniiyataam* = be brought; *kshipram* = quickly;aasvaadya = eating; *maanushham
-maaMsam* = human flesh; *atha* = afterwards; *nR^ityaamaH* = we will dance; *nikumbhilaam*
-= for (propitiating) Nikumbhila;
-
-**अनुवादः**
-
-"Liquor which is the destroyer of all sorrow be brought quickly. Eating human flesh afterwards,
-we will dance for propitiating Nikumbila."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *46. tataH* = thereafter; *raakshasii* = an ogre woman; *shuurpaNakhaa naama*
 = named Surpanakha; *abraviit* = spoke; *vaakyam* = (these) words; *yat* = that; *uktaam*
 = (which was) spoken; *ajaamukhyaa* = by Ajamukhi; *tadeva* = that; *rochate* = is desirable;
@@ -1958,6 +1941,23 @@ we will dance for propitiating Nikumbila."
 
 Thereafter an ogre woman named Surpanakha spoke these words: "That which was spoken by Ajamukhi,
 is desirable to me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*47. suraa cha* = liquor; *sarvashokavinaashinii* = (which is the) destroyer
+of all sorrow; *aniiyataam* = be brought; *kshipram* = quickly;aasvaadya = eating; *maanushham
+maaMsam* = human flesh; *atha* = afterwards; *nR^ityaamaH* = we will dance; *nikumbhilaam*
+= for (propitiating) Nikumbhila;
+
+**अनुवादः**
+
+"Liquor which is the destroyer of all sorrow be brought quickly. Eating human flesh afterwards,
+we will dance for propitiating Nikumbila."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga24/sundarasans24.htm)
 </details>

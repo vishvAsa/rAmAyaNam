@@ -100,23 +100,6 @@ _________________
 
 **पदच्छेदः**
 
-*3. hari sattamaaH* = O the best of monkeys!; *na kashchit* = no
-one; *tulyaH* = is equal; *naH* = to us; *paraakrame.api* = even in prowess;
-*na hi kashchit* = nor indeed any one; *plavane* = in leaping; *lokeSu* = in the
-worlds; *saamara daityeSu* = comprising of celestials or demons.
-
-**अनुवादः**
-
-"O the best of monkeys! No one is equal to us even in our prowess nor indeed anyone who
-can leap like us in the worlds either of celestials or demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2. pashyaami* = I perceive it; *ayuktam iva* = as improper; *
 nivedanam* = to inform; *tatra* = there; *iti* = that; *devii* = Seetha the
 princess; *dR^iSTaa* = though seen; *bhavadbhiH* = by you; *khyaata vikramaiH*
@@ -126,6 +109,23 @@ princess; *dR^iSTaa* = though seen; *bhavadbhiH* = by you; *khyaata vikramaiH*
 
 "I perceive it as improper to inform there that Seetha the princess, though seen by you
 of renowned prowess, has not been brought here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. hari sattamaaH* = O the best of monkeys!; *na kashchit* = no
+one; *tulyaH* = is equal; *naH* = to us; *paraakrame.api* = even in prowess;
+*na hi kashchit* = nor indeed any one; *plavane* = in leaping; *lokeSu* = in the
+worlds; *saamara daityeSu* = comprising of celestials or demons.
+
+**अनुवादः**
+
+"O the best of monkeys! No one is equal to us even in our prowess nor indeed anyone who
+can leap like us in the worlds either of celestials or demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
@@ -224,16 +224,17 @@ _________________
 
 **पदच्छेदः**
 
-*6. raaja putra* = O prince!; *eSaa* = this; *matiH* = thought;
-*bhavaan yathaa pashyati* = you thus perceive; *akSamaa na taavat* = is not in competent;
-*naH* = of us; *tu* = but; *bhavaan* = you; *pashyat* = see; *yaathaa
-tathaa* = in which way; *raamasya matiH* = Rama's inclination; *nivishTa* = will be;
-*kaarya siddhim* = for the fulfillment of the object.
+*1. shrutvaa* = hearing; *tat vachanam* = those words; *tasya*
+= of Hanuma; *vaalisuunuH* = Angada the son of Vali; *abhaaSata* = spoke (as follows);
+*dR^iSTadbhiH* = even after Seetha was seen; *asmaabhiH* = by us; *ayuktamcha*
+= it is not proper; *gantum* = to go; *mahaatmanaH raaghavasya samiipam* = to the vicinity
+of the high-souled Rama; *deviim vinaa* = without the princess; *vaanaraaH* = O monkeys.
 
 **अनुवादः**
 
-"O prince! This thought you thus perceive is not incompetent of us. But, you must see
-the way in which Rama's inclination would be, for the accomplishment of the object."
+Hearing those words of Hanuma, Angada the son of Vali spoke as follows: "Even after our
+seeing of Seetha, it is not proper for us to approach the high-souled Rama without taking Seetha with
+us."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>
@@ -264,17 +265,16 @@ pleased and spoke the following meaningful words to that Angada, who thus formed
 
 **पदच्छेदः**
 
-*1. shrutvaa* = hearing; *tat vachanam* = those words; *tasya*
-= of Hanuma; *vaalisuunuH* = Angada the son of Vali; *abhaaSata* = spoke (as follows);
-*dR^iSTadbhiH* = even after Seetha was seen; *asmaabhiH* = by us; *ayuktamcha*
-= it is not proper; *gantum* = to go; *mahaatmanaH raaghavasya samiipam* = to the vicinity
-of the high-souled Rama; *deviim vinaa* = without the princess; *vaanaraaH* = O monkeys.
+*6. raaja putra* = O prince!; *eSaa* = this; *matiH* = thought;
+*bhavaan yathaa pashyati* = you thus perceive; *akSamaa na taavat* = is not in competent;
+*naH* = of us; *tu* = but; *bhavaan* = you; *pashyat* = see; *yaathaa
+tathaa* = in which way; *raamasya matiH* = Rama's inclination; *nivishTa* = will be;
+*kaarya siddhim* = for the fulfillment of the object.
 
 **अनुवादः**
 
-Hearing those words of Hanuma, Angada the son of Vali spoke as follows: "Even after our
-seeing of Seetha, it is not proper for us to approach the high-souled Rama without taking Seetha with
-us."
+"O prince! This thought you thus perceive is not incompetent of us. But, you must see
+the way in which Rama's inclination would be, for the accomplishment of the object."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm)
 </details>

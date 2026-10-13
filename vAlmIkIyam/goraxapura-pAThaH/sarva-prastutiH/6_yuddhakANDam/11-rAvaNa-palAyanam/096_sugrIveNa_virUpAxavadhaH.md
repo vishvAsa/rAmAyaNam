@@ -448,23 +448,6 @@ Sugreeva at his side and behind.
 
 **पदच्छेदः**
 
-*10. mahaakaayaH* = the colossal bodied; *vaanareshvaraH* =
-Sugreeva; *mamarda cha* = smashed; *raakShasaan* = the demons; *pravR^iddhaan
-agamaaniva* = as the grown-up trees; (are smashed); *vaayuH* = by the wind;
-*yugaantasamaye* = at the time of dissolution of the world.
-
-**अनुवादः**
-
-The colossal bodied Sugreeva smashed the demons, as the grown-up trees are smashed
-by the wind at the time of dissolution of the world.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *9. mahaan* = the gigantic; *sugreevaH* = Sugreeva;
 *manarda* = roared; *mahataa svareNa* = at a high pitch; *yudhi* = in the
 battle-field; *pothayan* = striking with his blows; *mamantha* = (he) crushed;
@@ -474,6 +457,23 @@ battle-field; *pothayan* = striking with his blows; *mamantha* = (he) crushed;
 
 The gigantic Sugreeva roared at a high pitch in the battle-field. Striking with his
 blows, he crushed various other chiefs of demons.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. mahaakaayaH* = the colossal bodied; *vaanareshvaraH* =
+Sugreeva; *mamarda cha* = smashed; *raakShasaan* = the demons; *pravR^iddhaan
+agamaaniva* = as the grown-up trees; (are smashed); *vaayuH* = by the wind;
+*yugaantasamaye* = at the time of dissolution of the world.
+
+**अनुवादः**
+
+The colossal bodied Sugreeva smashed the demons, as the grown-up trees are smashed
+by the wind at the time of dissolution of the world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
@@ -1255,6 +1255,23 @@ skillfully, Virupaksha the demon struck Sugreeva on the chest with his fist.
 
 **पदच्छेदः**
 
+*29. tataH* = then; *dR^iShTvaa* = seeing; *aatmanaH* =
+his; *prahaaram* = blow; *mokShitam* = being escaped; *sugriivaH* = Sugreeva;
+*vaanareshvaraH tu* = the king of monkeys for his part; *samkruddhataraH* = was very
+much enraged.
+
+**अनुवादः**
+
+Then, seeing that demon escaping his blow, Sugreeva the monkey-king for his part,
+very much enraged.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *30.saH vaanaraH* = that monkey; *dadarsha* = saw;
 *antaram* = an opportunity; *tasya viruupaakShasya* = (to strike) that Virupaksha;
 *tataH* = then; *krodhaat* = with anger; paatayat- (Sugreeva) brought down;
@@ -1265,23 +1282,6 @@ temple-bone.
 
 That monkey saw an opportunity to strike that Virupaksha. Then, with anger, Sugreeva
 brought down another violent slap on his temple-bone.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*29. tataH* = then; *dR^iShTvaa* = seeing; *aatmanaH* =
-his; *prahaaram* = blow; *mokShitam* = being escaped; *sugriivaH* = Sugreeva;
-*vaanareshvaraH tu* = the king of monkeys for his part; *samkruddhataraH* = was very
-much enraged.
-
-**अनुवादः**
-
-Then, seeing that demon escaping his blow, Sugreeva the monkey-king for his part,
-very much enraged.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>
@@ -1398,23 +1398,6 @@ _________________
 
 **पदच्छेदः**
 
-*34. kapayaH* = the monkeys; *dadR^ishuH* = saw; *ripum*
-= the enemy; *rudhirokShitam* = moistened with blood; *parivartanam* = turning to and
-from; *sphurantam* = as also throbbing; *paarshvena* = on his sides;
-*vinardantam* = and roaring; *karuNam* = piteously.
-
-**अनुवादः**
-
-The monkeys saw their enemy, bathed in blood, turning to and from as also throbbing
-on his sides and roaring piteously.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *33. te* = the monkeys; *dadR^ishuH* = saw;
 *viruupaakSham* = Virupaksha; *vivR^itta nayanam* = with his eyes rolling;
 *krodhaat* = through anger; *saphenam rudhiaaplutam* = bathed in foaming blood;
@@ -1429,6 +1412,23 @@ anger and as such rendered all the more deformed.*
 
 * There is a pun here on the word 'Virupaksha' which means one with deformed
 eyes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. kapayaH* = the monkeys; *dadR^ishuH* = saw; *ripum*
+= the enemy; *rudhirokShitam* = moistened with blood; *parivartanam* = turning to and
+from; *sphurantam* = as also throbbing; *paarshvena* = on his sides;
+*vinardantam* = and roaring; *karuNam* = piteously.
+
+**अनुवादः**
+
+The monkeys saw their enemy, bathed in blood, turning to and from as also throbbing
+on his sides and roaring piteously.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga96/yuddhasans96.htm)
 </details>

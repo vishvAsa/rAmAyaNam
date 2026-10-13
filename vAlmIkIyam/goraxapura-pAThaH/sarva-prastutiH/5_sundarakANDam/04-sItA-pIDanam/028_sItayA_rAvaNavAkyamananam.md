@@ -973,6 +973,31 @@ _________________
 
 **पदच्छेदः**
 
+*18. shiitaa* = Seetha; *shokabhitaptaa* = who was tormented with grief;
+*vichintya* = thinking (thus); *bahudhaa* = in various ways; *gR^ihiitvaa* = holding; *
+atha* = and thereafter; *veNyudgrathanam* = her braid of hair looking like a hanging rope; (now thought
+within herself); *aham* = "I; *gamiSyaami* = shall go; *yamsya muulam* = to the presence
+of Yama the God of Death; *udbadhya* = by tying my neck; *shiigram* = quickly; *veNyugrathanena*
+= with my braid of hair looking
+
+**अनुवादः**
+
+Seetha, who was tormented with grief, thus thinking in various ways and thereafter holding her
+braid of hair looking like a hanging rope (now thought within herself) "I shall go to the presence of Yama the
+God of Death by tying my neck quickly with my braid of hair looking like a hanging rope"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+दुःखदिन्द बहळवागि परितपिसुत्तिद्द सीतादेवियु दीर्घवागि समालोचिसि कडॆगॊन्दु निर्धारक्कॆ बन्दु, तलॆगूदलन्नु हिडिदुकॊण्डु ‘ई केशपाशदिन्दले उरुलु हाकिकॊण्डु अतिशीघ्रवागि यम सदनक्कॆ होगुवॆनु’ ऎन्दु निर्धरिसिदळु.॥18॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 19; *20. atha* = thereafter; *saa* = that Seetha; *mR^idu sarvaagatrii*
 = with all her soft limbs; *upashitaa* = stood; *yR^ihiitvaa* = seizing; *shaakhaam* = a
 branch; *tasya nagasya* = of that tree; *tasyaaH tu* = to her; *shubhaaNgyaaH* = having handsome
@@ -989,31 +1014,6 @@ Thereafter Seetha with all her soft limbs stood seizing a branch of that tree. T
 limbs, who was thinking of Rama, Lakshmana and her own race, then appeared many omens, which were not having adequate
 occasion for grief, which procured courage in the world, which were excellent and which were seen earlier also
 as thoroughly efficacious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-दुःखदिन्द बहळवागि परितपिसुत्तिद्द सीतादेवियु दीर्घवागि समालोचिसि कडॆगॊन्दु निर्धारक्कॆ बन्दु, तलॆगूदलन्नु हिडिदुकॊण्डु ‘ई केशपाशदिन्दले उरुलु हाकिकॊण्डु अतिशीघ्रवागि यम सदनक्कॆ होगुवॆनु’ ऎन्दु निर्धरिसिदळु.॥18॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*18. shiitaa* = Seetha; *shokabhitaptaa* = who was tormented with grief;
-*vichintya* = thinking (thus); *bahudhaa* = in various ways; *gR^ihiitvaa* = holding; *
-atha* = and thereafter; *veNyudgrathanam* = her braid of hair looking like a hanging rope; (now thought
-within herself); *aham* = "I; *gamiSyaami* = shall go; *yamsya muulam* = to the presence
-of Yama the God of Death; *udbadhya* = by tying my neck; *shiigram* = quickly; *veNyugrathanena*
-= with my braid of hair looking
-
-**अनुवादः**
-
-Seetha, who was tormented with grief, thus thinking in various ways and thereafter holding her
-braid of hair looking like a hanging rope (now thought within herself) "I shall go to the presence of Yama the
-God of Death by tying my neck quickly with my braid of hair looking like a hanging rope"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga28/sundarasans28.htm)
 </details>

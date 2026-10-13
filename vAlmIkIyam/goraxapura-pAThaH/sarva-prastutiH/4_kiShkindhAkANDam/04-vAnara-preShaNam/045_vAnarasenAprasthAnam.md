@@ -272,23 +272,6 @@ quarter that is encompassed by the king of mountains, namely Himavanta. [4-45-4b
 
 **पदच्छेदः**
 
-*7. plavaga iishvaraH* = fly-jumper's, commander; *hari
-shaarduulaH* = monkey, tigerly one; *suSeNaH* = Sushena; *varuNa paalitaam
-disham* = by Rain-god, ruled, direction; *ghoraam pashcimaam disham* = horrifying,
-western, direction; *pratasthe* = started out.
-
-**अनुवादः**
-
-The commander of fly-jumpers and a tigerly monkey Sushena started out towards the
-horrifying western direction that is ruled by Varuna, the Rain-god. [4-45-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *5b, 6. hari yuuthapaH vinataH* = monkey, troop-commander, Vinata;
 *puurvaam disham prati yayau* = to eastern, direction, towards, journeyed; *hari
 yuuthapaH* = monkey, leader; *pavana aatmajaH* = Air-god's, son; *plavagaH* =
@@ -302,6 +285,23 @@ The monkey-troop commander Vinata journeyed towards the eastern direction, and t
 fly-jumper, leader of monkeys and Air-god's son Hanuma travelled towards southerly quarter that is
 once trodden by Sage Agastya, along with Lt. Tara, Prince-regent Angada, and others. [4-45-5b,
 6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. plavaga iishvaraH* = fly-jumper's, commander; *hari
+shaarduulaH* = monkey, tigerly one; *suSeNaH* = Sushena; *varuNa paalitaam
+disham* = by Rain-god, ruled, direction; *ghoraam pashcimaam disham* = horrifying,
+western, direction; *pratasthe* = started out.
+
+**अनुवादः**
+
+The commander of fly-jumpers and a tigerly monkey Sushena started out towards the
+horrifying western direction that is ruled by Varuna, the Rain-god. [4-45-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
@@ -489,16 +489,17 @@ _________________
 
 **पदच्छेदः**
 
-*15. aham yojana sankhyaayaaH shatam* = I will, yojana numbers, a
-hundred, - hundred yojana-s in number; *plavitaa atra na sanshayaH* = can fly-jump, there
-is, no, doubt; *aham* = I; *[plavitaa* = can leap]; *shatam yojana
-sankhyaayaaH* = hundred, yojana, in number; *sam adhikam* = even, more; *hi* =
-for sure; [I will fly-jump.]
+*10. mahaabalaaH plavan gamaaH* = great mighty, fly-jumpers;
+*nadantaH ca* = bawling, also; *ud nadantaH ca* = highly, blaring, also;
+*garjantaH ca* = thundering, also; *kSvelantaH [or, kshhveDantaH]* = roaring like
+lions; *vi [vicitra naada] nadantaH* = oddly, bellowing; *dhaava maanaaH* = they
+started to dash off.
 
 **अनुवादः**
 
-"I can fly-jump a hundred yojana-s, undoubtedly," said one monkey while the other
-said, "I can jump even more than a hundred yojana-s, for sure." [4-45-15]
+When those great mighty fly-jumpers have started to dash off some are bawling, some
+highly blaring, some more thundering, and some more oddly bellowing, while some more are roaring
+like lions. [4-45-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
@@ -507,15 +508,34 @@ said, "I can jump even more than a hundred yojana-s, for sure." [4-45-15]
 
 **पदच्छेदः**
 
-*14. aham* = I will; *vR^ikSaan* = trees; *vidhamiSyaami [vi
-dham iSyaami]* = can completely, shatter; *aham giriin daara yiSyaami* = I will,
-mountains, shred; *dharaNiim daarayiSyaami* = earth, I wish to split; *saagaraan kSobha
-yiSyaami* = oceans, I wish to storm.
+*11. raaj~naa* = by king - Sugreeva; *evam samcoditaaH* = this
+way, well-motivated; *sarve vaanara yuuthapaaH* = all of the, vanara, lieutenants;
+*aanayiSyaamahe siitaam* = we will lead forth, Seetha; *raavaNam haniSyaamaH ca* =
+Ravana, we wish to kill, also; *[vacanam uucuH ca* = words, boasted, also.]
 
 **अनुवादः**
 
-"I will completely shatter the trees, shred the mountains, split the earth and storm
-the oceans." Thus another monkey gave war cry. [4-45-14]
+Well-motivated this way by the king Sugreeva those vanara lieutenants put their
+fortitude into boastful words and said, "we lead forth Seetha, we wish to kill Ravana."
+[4-45-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. aham ekaH* = I, single-handedly; *aahave praaptam raavaNam*
+= on battlefield, chanced, vadhiSyaami = I wish to kill; *tataH ca* = then, also;
+*unmathya* = on drubbing; *[itara raakshasaan* = other, demons]; *sahasaa janaka
+aatmajaam aahariSye* = quickly, daughter, Seetha, I bring back.
+
+**अनुवादः**
+
+"I will kill Ravana single-handedly if he chances on battlefield, and then on
+drubbing the other demons I will quickly bring back Janaka's daughter, Seetha." Another monkey
+soldier said so. [4-45-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
@@ -543,34 +563,15 @@ monkey-hero said. [4-45-13]
 
 **पदच्छेदः**
 
-*12. aham ekaH* = I, single-handedly; *aahave praaptam raavaNam*
-= on battlefield, chanced, vadhiSyaami = I wish to kill; *tataH ca* = then, also;
-*unmathya* = on drubbing; *[itara raakshasaan* = other, demons]; *sahasaa janaka
-aatmajaam aahariSye* = quickly, daughter, Seetha, I bring back.
+*14. aham* = I will; *vR^ikSaan* = trees; *vidhamiSyaami [vi
+dham iSyaami]* = can completely, shatter; *aham giriin daara yiSyaami* = I will,
+mountains, shred; *dharaNiim daarayiSyaami* = earth, I wish to split; *saagaraan kSobha
+yiSyaami* = oceans, I wish to storm.
 
 **अनुवादः**
 
-"I will kill Ravana single-handedly if he chances on battlefield, and then on
-drubbing the other demons I will quickly bring back Janaka's daughter, Seetha." Another monkey
-soldier said so. [4-45-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11. raaj~naa* = by king - Sugreeva; *evam samcoditaaH* = this
-way, well-motivated; *sarve vaanara yuuthapaaH* = all of the, vanara, lieutenants;
-*aanayiSyaamahe siitaam* = we will lead forth, Seetha; *raavaNam haniSyaamaH ca* =
-Ravana, we wish to kill, also; *[vacanam uucuH ca* = words, boasted, also.]
-
-**अनुवादः**
-
-Well-motivated this way by the king Sugreeva those vanara lieutenants put their
-fortitude into boastful words and said, "we lead forth Seetha, we wish to kill Ravana."
-[4-45-11]
+"I will completely shatter the trees, shred the mountains, split the earth and storm
+the oceans." Thus another monkey gave war cry. [4-45-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
@@ -578,6 +579,24 @@ fortitude into boastful words and said, "we lead forth Seetha, we wish to kill R
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आ समस्त महाबलि वानररु मत्तु अवर यूथपतिगळु तम्म राजनिन्द प्रेरितरागि बगॆ-बगॆयाद शब्दगळिन्द गट्टियागि गर्जिसुत्ता, किरुचुत्ता, ओडुत्ता, कोलाहल माडुत्ता हेळुत्तारॆ - राजने! नावु सीतॆयन्नु जॊतॆगॆ करॆदुकॊण्डु बरुवॆवु मत्तु रावणनन्नु वधिसुवॆवु. युद्धदल्लि रावणनु नन्न ऎदुरिगॆ बन्दरॆ नानॊब्बने अवनन्नु कॊन्दुहाकुवॆनु. अनन्तर अवन ऎल्ल सैन्यवन्नु नाशमाडि, कष्ट हागू भयदिन्द नडुगुत्तिरुव जानकियन्नु कूडले नीवु इद्दल्लिगॆ करॆतरुवॆवु. नानॊब्बने पाताळदिन्दलादरू जानकियन्नु करॆतरुवॆनु. वृक्षगळन्नु कित्तु ऎसॆयुवॆनु. पर्वतगळन्नु पुडि-पुडि माडि बिडुवॆनु. भूमियन्नु विदीर्णगॊळिसुवॆनु. समुद्रगळन्नु क्षुब्धगॊळिसुवॆनु. नानु नूरु योजनदवरॆगॆ हारबल्लॆनु, इदरल्लि सन्देहवे इल्ल. नानु नूरु योजनगळिगिन्तलू दूर होगबल्लॆ. पृथिवी, समुद्र, पर्वत, वन, पाताळदल्लियू कूड नन्न गतिगॆ, वेगक्कॆ यावुदे तडॆयिल्ल.॥10-16॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. aham yojana sankhyaayaaH shatam* = I will, yojana numbers, a
+hundred, - hundred yojana-s in number; *plavitaa atra na sanshayaH* = can fly-jump, there
+is, no, doubt; *aham* = I; *[plavitaa* = can leap]; *shatam yojana
+sankhyaayaaH* = hundred, yojana, in number; *sam adhikam* = even, more; *hi* =
+for sure; [I will fly-jump.]
+
+**अनुवादः**
+
+"I can fly-jump a hundred yojana-s, undoubtedly," said one monkey while the other
+said, "I can jump even more than a hundred yojana-s, for sure." [4-45-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -594,25 +613,6 @@ ocean, or, even; *shaileSu ca vaneSu ca* = in mountains, also, in forests, also;
 "My transit cannot be thwarted either on the plane of earth, or in the ocean, or on
 mountains or in forests, or in the netherworld, or in its core." This is the slogan of another
 monkey-warrior. [4-45-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*10. mahaabalaaH plavan gamaaH* = great mighty, fly-jumpers;
-*nadantaH ca* = bawling, also; *ud nadantaH ca* = highly, blaring, also;
-*garjantaH ca* = thundering, also; *kSvelantaH [or, kshhveDantaH]* = roaring like
-lions; *vi [vicitra naada] nadantaH* = oddly, bellowing; *dhaava maanaaH* = they
-started to dash off.
-
-**अनुवादः**
-
-When those great mighty fly-jumpers have started to dash off some are bawling, some
-highly blaring, some more thundering, and some more oddly bellowing, while some more are roaring
-like lions. [4-45-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga45/kishkindhasans45.htm)
 </details>

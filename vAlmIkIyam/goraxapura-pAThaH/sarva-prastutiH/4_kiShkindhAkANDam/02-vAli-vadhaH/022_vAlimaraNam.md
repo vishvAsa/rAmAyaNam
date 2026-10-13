@@ -687,28 +687,6 @@ _________________
 
 **पदच्छेदः**
 
-*14. eSa yat saadhu iti bruuyaat* = by her, which, proper, thus, is
-said; *tat* = that; *mukta samshayam* = leaving off, doubt - indubitably;
-*kaaryam* = can be done; *taaraa matam* = Tara's, opinion; *kimcit* = in the
-least; *anyathaa na parivartate hi* = contrarily, not, it deflects [happens,] indeed.
-
-**अनुवादः**
-
-"Whatever is said by her as proper that is doable indubitably, indeed nothing
-contrary happens to her opinions, in the least. [4-22-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-सुषेणन पुत्रियाद ई तारॆयु सूक्ष्म विषयगळ निर्णयदल्लि हागू नाना प्रकारद उत्पातगळ चिह्नॆगळन्नु अरियलु सर्वथा निपुणळागिद्दाळॆ.॥13॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *13. suSeNa duhitaa* = Sushena's, daughter; *iyam ca* = this
 one, also - this Tara, also; *artha suukSma vinishcaye* = meaning, subtlety, in deciding;
 *vividhe autpaatike ca* = diverse in presages, also; *sarvataH pari niSThitaa* = in
@@ -729,6 +707,28 @@ her right hand and Sushena held her by her left hand and started to quarrel for 
 the elderly sages and gods intervened and decided that one who held her by her right hand is her
 husband and the other who held her by her left hand is her father. Thus Sushena is said to have
 become the father of Tara.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+सुषेणन पुत्रियाद ई तारॆयु सूक्ष्म विषयगळ निर्णयदल्लि हागू नाना प्रकारद उत्पातगळ चिह्नॆगळन्नु अरियलु सर्वथा निपुणळागिद्दाळॆ.॥13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14. eSa yat saadhu iti bruuyaat* = by her, which, proper, thus, is
+said; *tat* = that; *mukta samshayam* = leaving off, doubt - indubitably;
+*kaaryam* = can be done; *taaraa matam* = Tara's, opinion; *kimcit* = in the
+least; *anyathaa na parivartate hi* = contrarily, not, it deflects [happens,] indeed.
+
+**अनुवादः**
+
+"Whatever is said by her as proper that is doable indubitably, indeed nothing
+contrary happens to her opinions, in the least. [4-22-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm)
 </details>

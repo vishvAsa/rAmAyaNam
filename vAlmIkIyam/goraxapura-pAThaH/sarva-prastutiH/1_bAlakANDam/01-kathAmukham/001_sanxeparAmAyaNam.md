@@ -367,6 +367,27 @@ _________________
 
 **पदच्छेदः**
 
+*6. trilokaj~naH* = familiar with the three worlds; *naaradaH* = Narada; *etat vachaH shrutvaa* = on listening to all those words; *vaalmiikeH*
+= of Valmiki; *shruuyataam* = let it be heard; *iti* = thus; *aamantrya cha* = beckoning [Valmiki,] also; *prahR^iSTaH* = being delighted; *vaakyam abraviit* = spoke (these) words.
+
+**अनुवादः**
+
+On listening all those words of Valmiki, Narada, the knower of all the three worlds, said "let
+it be heard..." and beckoning at Sage Valmiki to listen attentively, he spoke these words very gladly.
+[1-1-6]
+
+**टिप्पनी**
+
+Narada is cognizant of three worlds, where the three worlds are *bhuuloka, bhuvarloka, suvarloka*
+this world, the intermediary heaven, the heavens themselves.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *7. mune* = oh sage Valmiki; *bahavaH* = many; *ca durlabhaaH* = and unattainable; *
  eva* = indeed; *ye guNaaH* = whichever merits; *tvayaa
  kiirtitaaH* = extolled by you; *naraH* = man; *taiH yuktaH* = who has these merits; *aham buddhvaa* = I, after knowing; *vakShyaami* = I
@@ -381,27 +402,6 @@ _________________
 Narada came hither to impart the legend of Rama, as Brahma already imparted the same to him, and wanted
 him to impart these very attributes to Valmiki to compose Ramayana. It is a coincidence of interests
 Valmiki and those of Narada and Brahma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*6. trilokaj~naH* = familiar with the three worlds; *naaradaH* = Narada; *etat vachaH shrutvaa* = on listening to all those words; *vaalmiikeH*
-= of Valmiki; *shruuyataam* = let it be heard; *iti* = thus; *aamantrya cha* = beckoning [Valmiki,] also; *prahR^iSTaH* = being delighted; *vaakyam abraviit* = spoke (these) words.
-
-**अनुवादः**
-
-On listening all those words of Valmiki, Narada, the knower of all the three worlds, said "let
-it be heard..." and beckoning at Sage Valmiki to listen attentively, he spoke these words very gladly.
-[1-1-6]
-
-**टिप्पनी**
-
-Narada is cognizant of three worlds, where the three worlds are *bhuuloka, bhuvarloka, suvarloka*
-this world, the intermediary heaven, the heavens themselves.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
@@ -1666,6 +1666,22 @@ _________________
 
 **पदच्छेदः**
 
+*36b, 37a.* api = even though; *raamaH* = Rama; *paramodaaraH*
+= (was) very benevolent; *sumukhaH api* = gracious also; *sumahaayashaaH* = highly famed;
+mahaabalaH ca = and with great powers; *raamaH* = Rama; *pituH
+aadeshaat* = due to father's injunction; *na icChat* = did not desire; *raajyam* = kingdom.
+
+**अनुवादः**
+
+"Even though Rama was very benevolent, gracious also, highly famed and with great prowess, Rama did not desire kingdom due to father's injunction... [1-1-36b, 37a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *37b, 38a. tataH* = Thereafter; *punaH punaH* = repeatedly; *bharatam nivartayaamaasa* = turning Bharata back;
 *bharataagrajaH* = [Rama] the elder brother of Bharata; *paaduke dattvaa*= giving (the two) wooden shoes;
 *asya* = to him [to Bharata];
@@ -1675,22 +1691,6 @@ cha nyaasam = and entrusting [them]; *raajyaaya* = for (the sake of) kingdom.
 
 "Thereafter, repeatedly turning Bharata back, the elder brother, Rama, gave his wooden shoes to Bharata and entrusting them to represent him
 for the sake of kingdom. [1-1-37b, 38a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*36b, 37a.* api = even though; *raamaH* = Rama; *paramodaaraH*
-= (was) very benevolent; *sumukhaH api* = gracious also; *sumahaayashaaH* = highly famed;
-mahaabalaH ca = and with great powers; *raamaH* = Rama; *pituH
-aadeshaat* = due to father's injunction; *na icChat* = did not desire; *raajyam* = kingdom.
-
-**अनुवादः**
-
-"Even though Rama was very benevolent, gracious also, highly famed and with great prowess, Rama did not desire kingdom due to father's injunction... [1-1-36b, 37a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
@@ -2226,6 +2226,22 @@ vishravaso vishravaNa-ravaNau* 'the son of one named Vishravasa...' Govindaraja.
 
 **पदच्छेदः**
 
+*50b, 51a. saH raavaNaH* = he that Ravana; *vaaryamaaNaH* = [was] restrained; *subahushaH*= very many times;*maariichena*
+= by Maareecha [thus:]; *raavaNa* = Oh! Ravana; *virodhaH* = rivalry; *balavataa tena*
+= with that formidable Rama; *te na kShamaH* = [is] not appropriate of you;
+
+**अनुवादः**
+
+"But Maareecha restrained Ravana telling him many times, 'Oh, Ravana! Rivarly with that formidable
+Rama is not appropriate of you...' [1-1-50b, 51a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *51b, 52a. anaadR^itya tu*
 = but regardless; tat vaakyam = [of] that speech;
 raavaNaH kaalachoditaH = Ravana impelled by [his own] fate; *tadaa* = then; *jagaama*
@@ -2236,22 +2252,6 @@ raavaNaH kaalachoditaH = Ravana impelled by [his own] fate; *tadaa* = then; *jag
 
 "Then disregarding Maareecha's words and impelled by his own fate, Ravana advanced to the
 place of Rama's hermitage along with Maareecha... [1-1-51b, 52a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*50b, 51a. saH raavaNaH* = he that Ravana; *vaaryamaaNaH* = [was] restrained; *subahushaH*= very many times;*maariichena*
-= by Maareecha [thus:]; *raavaNa* = Oh! Ravana; *virodhaH* = rivalry; *balavataa tena*
-= with that formidable Rama; *te na kShamaH* = [is] not appropriate of you;
-
-**अनुवादः**
-
-"But Maareecha restrained Ravana telling him many times, 'Oh, Ravana! Rivarly with that formidable
-Rama is not appropriate of you...' [1-1-50b, 51a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
@@ -2988,22 +2988,6 @@ following verses in all cantos:
 
 **पदच्छेदः**
 
-*69. tadaa* = then; *taaraam anumaanya* = after Tara permitting;
-*sugriiveNa samaagataH* = [Vali] met with Sugreeva [in a combat]; *raaghavaH ca* = and Rama; *ekena shareNa nijaghaana*
-= with one arrow only killed;*enam* = this Vali;
-*tatra* = there.
-
-**अनुवादः**
-
-"Then after Tara [wife of Vali] permitting, Vali met with Sugreeva in a combat. And Rama killed this Vali with a single arrow there... [1-1-69]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *68. tataH* = then; *harivaraH sugriivaH* = [that] best among monkeys Sugreeva; *hemapiN^galaH* = with a golden hue;
 *agarjat* = roared; *tena mahataa
 naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaama*
@@ -3013,6 +2997,22 @@ naadena* = By that loud sound; *hariishwaraH* = king of monkeys[Vali]; *nirjagaa
 
 "Then that best monkey Sugreeva, with a golden hue, made a roaring sound. By that loud sound, the king of monkeys, Vali, emerged out...
 [1-1-68]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*69. tadaa* = then; *taaraam anumaanya* = after Tara permitting;
+*sugriiveNa samaagataH* = [Vali] met with Sugreeva [in a combat]; *raaghavaH ca* = and Rama; *ekena shareNa nijaghaana*
+= with one arrow only killed;*enam* = this Vali;
+*tatra* = there.
+
+**अनुवादः**
+
+"Then after Tara [wife of Vali] permitting, Vali met with Sugreeva in a combat. And Rama killed this Vali with a single arrow there... [1-1-69]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
@@ -3646,24 +3646,6 @@ _________________
 
 **पदच्छेदः**
 
-85.* raamaH* = Rama; *la~Nkaayaam abhiShichya* = anointing in Lanka;
-*vibhiiShaNam* = Vibheeshana; *raakShasendram* = as demons'
-chieftain; *tadaa* = then;
-*kR^itakR^ityaH* = [Rama] with a done deed; *pramumoda* = [became] highly rejoiced;
-*vijvaraH*= free from distress; *ha* = indeed.
-
-**अनुवादः**
-
-"Enthroning Vibheeshana as the chieftain of demons in Lanka, and with a done deed,
-Rama then rejoiced highly indeed free from distress... [1-1-85]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *83. tataH agnivachanaat* = Then upon the word of the Fire-god; *j~naatvaa* = having known; *siitaam* = Seetha;
 *vigatakalmaSaam* = to be sinless; *raamaH* = Rama; *samprahR^iSTaH*
 = became extremely glad; *puujitaH* = worshipped;*sarvadaivataiH* = by all gods; *babhau* = became resplendent;
@@ -3677,6 +3659,24 @@ of eliminating Ravana; *mahaatmanaH raaghavasya* = of the great Raghava; *trailo
 "Then, upon the word of Fire-god, having known Seetha to be sinless, Rama became extremely glad.
 Worshipped by all gods he became resplendent. By that accomplishment of the great Raghava the three worlds together with mobile and immobile
 beings, and with groups of gods and sages became exultant... [1-1-83, 84]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+85.* raamaH* = Rama; *la~Nkaayaam abhiShichya* = anointing in Lanka;
+*vibhiiShaNam* = Vibheeshana; *raakShasendram* = as demons'
+chieftain; *tadaa* = then;
+*kR^itakR^ityaH* = [Rama] with a done deed; *pramumoda* = [became] highly rejoiced;
+*vijvaraH*= free from distress; *ha* = indeed.
+
+**अनुवादः**
+
+"Enthroning Vibheeshana as the chieftain of demons in Lanka, and with a done deed,
+Rama then rejoiced highly indeed free from distress... [1-1-85]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>
@@ -4104,24 +4104,6 @@ _________________
 
 **पदच्छेदः**
 
-*96. raaghavaH* = Raghava; *chaaturvarNyam niyokShyati* = will direct the four caste-system;
-*sve sve dharme* = to their respective duties; *sthaapayiShyati ca* = and will establish;
-*raajavamshaan* = royal dynasties; *asmin loke* = in this world; *shataguNaan* = in hundred
-folds.
-
-**अनुवादः**
-
-"In this world Raghava will establish kingly dynasties in hundredfold and he will be maintaining the
-four-caste system positing each in his own duty, may it be caste-bound or provincial-kingdom-bound
-duty, in order to achieve a perfect social harmony... [1-1-96]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *94b, 95a. tathaa* = like-wise; mahaayashaaH = highly illustrious one [Rama]; *iSTvaa* = having performed;
  *ashvamedhashataiH* = hundreds of Horse Rituals; *dattvaa* = [and] having donated;
  *bahusuvarNakaiH* = plentiful gold; *gavaam koTyayutam* = [and] crores of cows;
@@ -4133,6 +4115,24 @@ according to custom.
 
 "Like-wise the highly illustrious Rama having performed hundreds of horse rituals and having donated plentiful gold and crores
 of cows and wealth that cannot be counted to Brahmanas and to scholars according to custom... [1-1-94b, 95a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*96. raaghavaH* = Raghava; *chaaturvarNyam niyokShyati* = will direct the four caste-system;
+*sve sve dharme* = to their respective duties; *sthaapayiShyati ca* = and will establish;
+*raajavamshaan* = royal dynasties; *asmin loke* = in this world; *shataguNaan* = in hundred
+folds.
+
+**अनुवादः**
+
+"In this world Raghava will establish kingly dynasties in hundredfold and he will be maintaining the
+four-caste system positing each in his own duty, may it be caste-bound or provincial-kingdom-bound
+duty, in order to achieve a perfect social harmony... [1-1-96]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga1/balasans1.htm)
 </details>

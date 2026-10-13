@@ -253,6 +253,23 @@ with excellent horses, marched towards Angada.
 
 **पदच्छेदः**
 
+*5. saH* = that; *aN^gadaH* = Angada; *abhidrutaH* =
+being attacked; *tribhiH raakShasendraiH* = by the three chief demons;
+*devaradarpaghnaiH* = who smashed the pride of celestials; *utpaaTayaamaasa* =
+uplifted; *vR^ikSham* = a tree; *mahaaviTapam* = with large boughs.
+
+**अनुवादः**
+
+That Angada, being attacked by the three chief demons, who were capable of smashing
+the pride of celestials, uplifted a tree with its large boughs.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *6. viiraH* = the valiant; *aN^gadaH* = Angada;
 *chikShepa* = hurled; *tam* = that; *mahaavR^ikSham* = large tree;
 *mahaashaakham* = with big branches; *sahasaa* = quickly; *devaantakaaya* = on
@@ -263,23 +280,6 @@ blazing; *ashanim* = thunderbolt.
 
 The valiant Angada hurled that large tree with big branches quickly on Devantaka as
 Indra the lord of celestials would a blazing thunderbolt.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*5. saH* = that; *aN^gadaH* = Angada; *abhidrutaH* =
-being attacked; *tribhiH raakShasendraiH* = by the three chief demons;
-*devaradarpaghnaiH* = who smashed the pride of celestials; *utpaaTayaamaasa* =
-uplifted; *vR^ikSham* = a tree; *mahaaviTapam* = with large boughs.
-
-**अनुवादः**
-
-That Angada, being attacked by the three chief demons, who were capable of smashing
-the pride of celestials, uplifted a tree with its large boughs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>
@@ -330,24 +330,6 @@ _________________
 
 **पदच्छेदः**
 
-*8. tataH* = thereupon; *saH* = that; *kapikuN^jaraH* =
-foremost of monkeys; *vavarSha* = streamed forth; *vR^ikShaan* = trees;
-*shilaashcha* = and rocks; *samkruddhaH* = the enraged; *trishiraH* =
-Trishira; *taan prachichchheda* = chopped them off; *nishitaiH sharaiH* = with sharp
-arrows.
-
-**अनुवादः**
-
-Thereupon, that foremost of monkeys streamed forth trees and rocks. The enraged
-Trishara chopped them off with his sharp arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *7. trishiraaH* = Trishira; *prachichheda* = chopped off;
 *tam* = that tree; *sharaiH* = with arrows; *aashiiviShopamaiH* = resembling
 serpents; *aalokya* = seeing; *vR^ikSham* = the tree; *kR^ittam* = chopped
@@ -358,6 +340,24 @@ on.
 
 Trishira chopped off that tree with arrows looking like serpents. Seeing the tree
 chopped off, that Angada then sprang up.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. tataH* = thereupon; *saH* = that; *kapikuN^jaraH* =
+foremost of monkeys; *vavarSha* = streamed forth; *vR^ikShaan* = trees;
+*shilaashcha* = and rocks; *samkruddhaH* = the enraged; *trishiraH* =
+Trishira; *taan prachichchheda* = chopped them off; *nishitaiH sharaiH* = with sharp
+arrows.
+
+**अनुवादः**
+
+Thereupon, that foremost of monkeys streamed forth trees and rocks. The enraged
+Trishara chopped them off with his sharp arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga70/yuddhasans70.htm)
 </details>

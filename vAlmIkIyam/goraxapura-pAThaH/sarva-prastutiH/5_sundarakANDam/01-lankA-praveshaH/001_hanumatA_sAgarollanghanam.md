@@ -790,23 +790,6 @@ _________________
 
 **पदच्छेदः**
 
-*18. saH* = that; *mahaasattvasaMnaadaH* = loud noise from
-creatures; *shailapiiDaanimittajaH* = formed because of the stress to the mountain;
-*puurayaamaasa* = filled; *pR^ithiviim* = the earth; *cha dishaH* = all the
-directions; *cha upavanaani* = and forests (near that mountain).
-
-**अनुवादः**
-
-That loud noise from creatures which emanated because of stress caused to the
-mountain, filled the earth and all four directions and forests near that mountain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *17. piiDyamaanaani* = being pressed; *sarvashaH* = on all
 sides; *giriNaa* = by the mountain; *piiDyamaanena* = which was being tormented (by
 Hanuma); *bhuutaani* = creatures; *guhaavishhTaani* = living in caves;
@@ -816,6 +799,23 @@ Hanuma); *bhuutaani* = creatures; *guhaavishhTaani* = living in caves;
 
 Being pressed on all sides by the mountain which itself was being pressed by Hanuma,
 creatures living in the caves of that mountain shrieked in horrifying tones.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. saH* = that; *mahaasattvasaMnaadaH* = loud noise from
+creatures; *shailapiiDaanimittajaH* = formed because of the stress to the mountain;
+*puurayaamaasa* = filled; *pR^ithiviim* = the earth; *cha dishaH* = all the
+directions; *cha upavanaani* = and forests (near that mountain).
+
+**अनुवादः**
+
+That loud noise from creatures which emanated because of stress caused to the
+mountain, filled the earth and all four directions and forests near that mountain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -1037,17 +1037,23 @@ _________________
 
 **पदच्छेदः**
 
-*25. kshiibaaH* = the intoxicated (Vidhyadharas); *kR^ita kanTha
-guNaaH* = with garlands around neck; *rakta maalyaanulepanaaH* = with red flower
-garlands and smeared with sandal paste; *raktaakshaaH* = with reddened eyes;
-*pushhparaakshaashcha* = and with lotus like eyes; *pratipedire* = obtained;
-*gaganam* = the sky.
+22; 23; *24. tapasvinaH* = ascetics; *mattvaa* = thought;
+*iti* = that; *ayam* = this giriH = mountain; *bhidyate* = is being shattered;
+*bhuutaiH* = by bhutas; *utpetuH* = (and) flew away; *vidhyaadharaaH* =
+Vidhyaadharaas; *trastaaH* = who became afraid; *hitvaa* = left; *haimam* =
+golden; *aasavabhaajanam* = jugs of wine; *paanabhuumigatam* = in the liquor house;
+*mahaarhaaNi* = golden hued; *karakaaMshcha* = vases; *uchchaavachaan* = lot
+of; *lehyaan* = sauces to be licked; *bhakshyaan* = eatables; *vividhaani* =
+various; *maaMsaani* = meats; *charmaaNi* = skins; *aarshhabhaaNi* = of oxen;
+*khaDgaaMshcha* = and swords; *kanakatsaruun* = with gold hilts; *utpetuH* =
+(and) flew; *strii ganaiH saha* = along with their women folk.
 
 **अनुवादः**
 
-The intoxicated Vidyadharas with garlands around their neck decked with red flower
-garlands and smeared with sandal paste, with reddened eyes, and with lotus shaped eyes, obtained
-the sky.
+Ascetics residing on that mountain flew away from there thinking that some demons
+were destroying it. Vidhyadharas who lived there, became afraid and flew away with their women
+folk, leaving behind them golden jugs of wine in the liquor house, gold vases, a varieties of
+sauces that can be licked, eatables, various meats, skins of oxen and swords with golden hilts.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -1066,23 +1072,17 @@ the sky.
 
 **पदच्छेदः**
 
-22; 23; *24. tapasvinaH* = ascetics; *mattvaa* = thought;
-*iti* = that; *ayam* = this giriH = mountain; *bhidyate* = is being shattered;
-*bhuutaiH* = by bhutas; *utpetuH* = (and) flew away; *vidhyaadharaaH* =
-Vidhyaadharaas; *trastaaH* = who became afraid; *hitvaa* = left; *haimam* =
-golden; *aasavabhaajanam* = jugs of wine; *paanabhuumigatam* = in the liquor house;
-*mahaarhaaNi* = golden hued; *karakaaMshcha* = vases; *uchchaavachaan* = lot
-of; *lehyaan* = sauces to be licked; *bhakshyaan* = eatables; *vividhaani* =
-various; *maaMsaani* = meats; *charmaaNi* = skins; *aarshhabhaaNi* = of oxen;
-*khaDgaaMshcha* = and swords; *kanakatsaruun* = with gold hilts; *utpetuH* =
-(and) flew; *strii ganaiH saha* = along with their women folk.
+*25. kshiibaaH* = the intoxicated (Vidhyadharas); *kR^ita kanTha
+guNaaH* = with garlands around neck; *rakta maalyaanulepanaaH* = with red flower
+garlands and smeared with sandal paste; *raktaakshaaH* = with reddened eyes;
+*pushhparaakshaashcha* = and with lotus like eyes; *pratipedire* = obtained;
+*gaganam* = the sky.
 
 **अनुवादः**
 
-Ascetics residing on that mountain flew away from there thinking that some demons
-were destroying it. Vidhyadharas who lived there, became afraid and flew away with their women
-folk, leaving behind them golden jugs of wine in the liquor house, gold vases, a varieties of
-sauces that can be licked, eatables, various meats, skins of oxen and swords with golden hilts.
+The intoxicated Vidyadharas with garlands around their neck decked with red flower
+garlands and smeared with sandal paste, with reddened eyes, and with lotus shaped eyes, obtained
+the sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -1842,6 +1842,25 @@ _________________
 
 **पदच्छेदः**
 
+*38. saH hanumaan* = that Hanuma; *kapikuJNjaraH* = who is equal
+to an elephant among monkeys; *mahaabalaH* = the mighty one; *vaanarashreshhThaH* =
+the best among Vaanaraas; *kR^itvaa* = performed; *avasthaanam* = standing;
+*dR^iDham* = firmly; *padbhyaam* = with his feet; *nikuJNchya* = bending;
+*karNau* = ears; *utpatishhyan* = before flying; *abraviit* = spoke; *idam
+vachanam* = these words; *vaanaraan* = to Vaanaraas.
+
+**अनुवादः**
+
+That mighty Hanuma, equal to an elephant among monkeys and the best among Vaanaraas,
+stood firmly with his legs, bent his ears and before flying spoke these words to the Vaanaraas.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *43-44. vaanarottamaH* = the best among Vaanaraas; *hanumaan* =
 Hanuma; *uktvaa tu* = spoke; *evam* = this; *vaanaraan* = to Vaanaraas;
 *atha* = (and) after that; *avichaarayan* = without thinking (anything else);
@@ -1854,25 +1873,6 @@ lot of vigor; *saH kapikuJNjaraH* = that great monkey; *mene cha* = also thought
 The best among Vaanaraas, Hanuma, spoke in this way to Vaanaraas and then without
 thinking about anything else, flew up with lot of vigor. That great monkey also thought himself
 equal to Garuda, the king of birds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*38. saH hanumaan* = that Hanuma; *kapikuJNjaraH* = who is equal
-to an elephant among monkeys; *mahaabalaH* = the mighty one; *vaanarashreshhThaH* =
-the best among Vaanaraas; *kR^itvaa* = performed; *avasthaanam* = standing;
-*dR^iDham* = firmly; *padbhyaam* = with his feet; *nikuJNchya* = bending;
-*karNau* = ears; *utpatishhyan* = before flying; *abraviit* = spoke; *idam
-vachanam* = these words; *vaanaraan* = to Vaanaraas.
-
-**अनुवादः**
-
-That mighty Hanuma, equal to an elephant among monkeys and the best among Vaanaraas,
-stood firmly with his legs, bent his ears and before flying spoke these words to the Vaanaraas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -2088,23 +2088,6 @@ _________________
 
 **पदच्छेदः**
 
-*49. hanumaan* = Hanuma; *kapiH* = the monkey; *babhuuva*
-= became; *adbhuta darshanaH* = a wonderful sight; *parvataakaaraH* = with a
-mountain-like appearance; *anvitaH* = together with; *paadapaiH* = trees;
-*supushhpitaagraiH* = with well flowered ends.
-
-**अनुवादः**
-
-Hanuma the great monkey presented a wonderful sight, with his mountain-like
-appearance together with the well flowered trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *48. uuruvegonmathitaaH* = uprooted by the force of (Hanuma's) thighs;
 *saalaashcha* = Sal and; *anye nagottamaaH* = other excellent trees;
 *anujagmuH* = followed; *hanuumantam* = Hanuma; *sainyaaH mahiipatim iva* =
@@ -2114,6 +2097,23 @@ like soldiers (following their) king.
 
 Uprooted by the force of Hanuma's thighs, Sal and other excellent trees followed
 Hanuma like soldiers following their king.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*49. hanumaan* = Hanuma; *kapiH* = the monkey; *babhuuva*
+= became; *adbhuta darshanaH* = a wonderful sight; *parvataakaaraH* = with a
+mountain-like appearance; *anvitaH* = together with; *paadapaiH* = trees;
+*supushhpitaagraiH* = with well flowered ends.
+
+**अनुवादः**
+
+Hanuma the great monkey presented a wonderful sight, with his mountain-like
+appearance together with the well flowered trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -4032,23 +4032,6 @@ _________________
 
 **पदच्छेदः**
 
-*90. yathaa* = how; *kapiH* = Hanuma; *vishrameta* = will
-take rest; *tathaa* = in that way; *vidhaatam* = to be behaved; *mayaa* = by
-me; *vishraantaH* = after resting; *mayi* = in me; *atipashhyati* = (He) can
-cross; *seshham* = the remaining (distance); *sukhena* = with comfort.
-
-**अनुवादः**
-
-"I have to behave in such a way that Hanuma would take rest. After resting in me for
-a while, He can cross the remaining distance with comfort."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *87. tasmin hanuumati* = (while) that Hanuma; *plavaga
 shaarduule* = best among monkeys; *plavamaane* = was flying; *saagaraH* = the god
 of ocean; *chintayaamaasa* = thought (thus); *ikshvaaku kula maanaarthii* = for the
@@ -4058,6 +4041,23 @@ respect of Ikshvaaku dynasty.
 
 While that best among vanaras, Hanuma, was flying, the god of ocean thought thus for
 the respect of Ikshvaaku dynasty:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*90. yathaa* = how; *kapiH* = Hanuma; *vishrameta* = will
+take rest; *tathaa* = in that way; *vidhaatam* = to be behaved; *mayaa* = by
+me; *vishraantaH* = after resting; *mayi* = in me; *atipashhyati* = (He) can
+cross; *seshham* = the remaining (distance); *sukhena* = with comfort.
+
+**अनुवादः**
+
+"I have to behave in such a way that Hanuma would take rest. After resting in me for
+a while, He can cross the remaining distance with comfort."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -4126,23 +4126,6 @@ _________________
 
 **पदच्छेदः**
 
-*92. giri shreshhTha* = O best among mountains; *tvam* = you;
-*saMniveshitaH* = have been positioned; *iha* = here; *devaraajJNaa* = by
-Devendra; *parighaH* = as an obstacle; *asurasaMghaanaam* = to the groups of asuras;
-*paataaLatalavaasinaam* = living in paataala.
-
-**अनुवादः**
-
-"O best among mountains Mainaka! You have been positioned here by Devendra as an
-obstacle to the groups of asuras living in paataala."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *91. samudraH* = Samudra; *iti* = thus; *saadhviim matim
 kR^itvaa* = making a good thought; *uvaacha* = spoke; *mainaakam* = to Mainaka;
 *giri sattamam* = best among mountains; *hiraNyanaabham* = with gold in the middle;
@@ -4152,6 +4135,23 @@ kR^itvaa* = making a good thought; *uvaacha* = spoke; *mainaakam* = to Mainaka;
 
 Samudra thus making a good thought, spoke to Mainaka, the best among mountains with
 gold in the middle hidden in water.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*92. giri shreshhTha* = O best among mountains; *tvam* = you;
+*saMniveshitaH* = have been positioned; *iha* = here; *devaraajJNaa* = by
+Devendra; *parighaH* = as an obstacle; *asurasaMghaanaam* = to the groups of asuras;
+*paataaLatalavaasinaam* = living in paataala.
+
+**अनुवादः**
+
+"O best among mountains Mainaka! You have been positioned here by Devendra as an
+obstacle to the groups of asuras living in paataala."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -4363,24 +4363,6 @@ _________________
 
 **पदच्छेदः**
 
-*97. kuru* = do; *saachivyam* = help; *asmaakam* = to us;
-*naH* = our; *kaaryam* = task; *na atikramet* = may not be miscarried;
-*kaaryam* = a task; *kartavyam* = which needs to be performed; *akR^itam* =
-not done; *udiirayet* = will increase; *manyum* = the anger; *sataam* = of
-good people.
-
-**अनुवादः**
-
-"Do help to us. Our task may not be miscarried. A task which needs to be performed
-and not done, will increase the anger of good people."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *96. adya* = now; *asya* = to this Hanuma; *ikshvaaku kula
 vartinaH* = who is a follower of the Iksvaaku dynasty; *saahyam* = help;
 *kaaryam* = should be done; *mayaa* = by me; *ikshvaakavaH* = descendants of
@@ -4391,6 +4373,24 @@ more respectable; *tava* = to you.
 
 "To this Hanuma, who is a follower of the Ikshvaaku dynasty, help should be done by
 me now. Descendants of Ikshvaaku are repectable to me. They are even more respectable to you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*97. kuru* = do; *saachivyam* = help; *asmaakam* = to us;
+*naH* = our; *kaaryam* = task; *na atikramet* = may not be miscarried;
+*kaaryam* = a task; *kartavyam* = which needs to be performed; *akR^itam* =
+not done; *udiirayet* = will increase; *manyum* = the anger; *sataam* = of
+good people.
+
+**अनुवादः**
+
+"Do help to us. Our task may not be miscarried. A task which needs to be performed
+and not done, will increase the anger of good people."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -5732,6 +5732,23 @@ _________________
 
 **पदच्छेदः**
 
+*127. plavagottama* = O best among vanaras! gupta paksha samagrashcha =
+with saved full wings; *prakshiptaH* = being thrown down; *asmin lavaNatoye* = in
+this salt ocean; *abhirakshitaH* = I have been protected; *tava pitraa* = by your
+father.
+
+**अनुवादः**
+
+"O best among vanaras! With saved full wings, being thrown down into this salt
+ocean, I have been protected by your father."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *128. kapi mukhya* = O chief among vanaras! maarutaH = Vayu;
 *maanyaH hi* = is indeed respectable; *mama* = to me; *tataH* = for that
 reason; *aham* = I; *maanayaami* = am respecting; *tvaam* = you; *me* =
@@ -5742,23 +5759,6 @@ my; *eshhaH* = this; *saMbandhaH* = relationship; *tvayaa* = with you;
 
 "O chief among vanaras! Vayu is thus indeed respectable to me. For that reason I am
 respecting you. My this relationship with you has great virtues."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*127. plavagottama* = O best among vanaras! gupta paksha samagrashcha =
-with saved full wings; *prakshiptaH* = being thrown down; *asmin lavaNatoye* = in
-this salt ocean; *abhirakshitaH* = I have been protected; *tava pitraa* = by your
-father.
-
-**अनुवादः**
-
-"O best among vanaras! With saved full wings, being thrown down into this salt
-ocean, I have been protected by your father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -6196,23 +6196,6 @@ _________________
 
 **पदच्छेदः**
 
-*138. devataashcha* = Devas and; *sahasraakshaH* = the thousand
-eyed; *vaasavashcha* = Devendra; *tatrasthaaH* = who were there; *abhavan* =
-became; *hR^ishhTaaH* = happy; *karmaNaa* = by the task; *tasya kaaJNchanasya*
-= of that golden hued; *sunaabhasya* = Mainaka.
-
-**अनुवादः**
-
-Devas and the thousand eyed Devendra who were there, became happy by the task of
-that golden hued Mainaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *137. dR^ishhTvaa* = seeing; *hanumataH* = Hanuma's;
 *tat* = that; *sudushhkaram* = very difficult;dvitiiyam = second; *karma* =
 task; *sarve* = all; *suraaH* = Devas; *siddhaashcha* = Siddhas and;
@@ -6222,6 +6205,23 @@ task; *sarve* = all; *suraaH* = Devas; *siddhaashcha* = Siddhas and;
 
 Seeing Hanuma perform that very difficult second task (first one being the flight
 over ocean), all Devas, Siddhas and great sages praised Him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*138. devataashcha* = Devas and; *sahasraakshaH* = the thousand
+eyed; *vaasavashcha* = Devendra; *tatrasthaaH* = who were there; *abhavan* =
+became; *hR^ishhTaaH* = happy; *karmaNaa* = by the task; *tasya kaaJNchanasya*
+= of that golden hued; *sunaabhasya* = Mainaka.
+
+**अनुवादः**
+
+Devas and the thousand eyed Devendra who were there, became happy by the task of
+that golden hued Mainaka.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -6332,6 +6332,23 @@ _________________
 
 **पदच्छेदः**
 
+*140. hiraNya naabha* = O Mainaka! shailendra = the king of mountains!
+bhR^isham paritushhtaH asmi = I am very happy; *te* = in you; *saumya* = O gentle
+one! prayachhaami = I am giving; *abhayam* = protection; *te* = to you; *yathaa
+sukham tishhTha* = proceed according to your comfort.
+
+**अनुवादः**
+
+"O Mainaka, the king of mountains! I am very happy with you. O gentle one! I am
+giving protection to you. Proceed according to your comfort."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *141. hanuumataH* = (To) Hanuma; *vikraantasya* = who is
 courageous; *kramataH* = crossing; *yojana shatam* = hundred yojanas;
 *nirbhayasya* = who is fearless; *bhaye sati* = even when there is reason to be
@@ -6342,23 +6359,6 @@ afraid; *sumahat* = great; *saahyam* = help; *kR^itam* = has been done;
 
 To the dauntless Hanuma crossing hundred yojanas, who is fearless even when there is
 reason to be afraid, a great help has been done by you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*140. hiraNya naabha* = O Mainaka! shailendra = the king of mountains!
-bhR^isham paritushhtaH asmi = I am very happy; *te* = in you; *saumya* = O gentle
-one! prayachhaami = I am giving; *abhayam* = protection; *te* = to you; *yathaa
-sukham tishhTha* = proceed according to your comfort.
-
-**अनुवादः**
-
-"O Mainaka, the king of mountains! I am very happy with you. O gentle one! I am
-giving protection to you. Proceed according to your comfort."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -6421,23 +6421,6 @@ _________________
 
 **पदच्छेदः**
 
-*143. tatH* = thereafter; *parvatottamaH* = the best among
-mountains; *agamat* = obtained; *vipulam* = great; *praharshham* = happiness;
-*dR^ishhTvaa* = seeing; *shatakratum* = Devendra; *patim* = lord;
-*devataanaam* = of Devas; *paritushhTam* = being happy.
-
-**अनुवादः**
-
-Thereafter, the best among mountains obtained great happiness on seeing Devendra,
-the lord of Devas being happy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *142. eshhaH hariH* = this Vanara; *yaati* = is going;
 *hitaayaiva* = for the benefit; *raamasya* = of Sri Rama; *daasaratheH* = the
 son of Dasaratha; *dR^idham toshhitaH asmi* = I am very happy; *tvayaa* = with you;
@@ -6447,6 +6430,23 @@ son of Dasaratha; *dR^idham toshhitaH asmi* = I am very happy; *tvayaa* = with y
 
 This Vanara Hanuma is going for the benefit of Sri Rama, the son of Dasaratha. I am
 very happy with you who is doing respect to Him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*143. tatH* = thereafter; *parvatottamaH* = the best among
+mountains; *agamat* = obtained; *vipulam* = great; *praharshham* = happiness;
+*dR^ishhTvaa* = seeing; *shatakratum* = Devendra; *patim* = lord;
+*devataanaam* = of Devas; *paritushhTam* = being happy.
+
+**अनुवादः**
+
+Thereafter, the best among mountains obtained great happiness on seeing Devendra,
+the lord of Devas being happy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -6926,23 +6926,6 @@ _________________
 
 **पदच्छेदः**
 
-*155. aham* = I; *gamishhye* = can go; *raama kaaraNaat*
-= for Rama's sake; *duutaH* = as a messenger; *tasyaaH* = (to find) Her;
-*sakaasham* = presence; *vishhaya vaasinii* = O subject (of Sri Rama)! arhasi = (you
-are) suited; *kartum* = to do; *saahyam* = help; *raamasya* = of Rama.
-
-**अनुवादः**
-
-"I am going for Rama's sake as a messenger to find Her presence. O subject of Sri
-Rama! You are suited to help Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *154. tasya* = that Sri Rama; *baddha vairasya* = with a bitter
 enmity; *raakshasaiH* = with Rakshasas. anya kaarya vishhaktasya = being diverted in another
 task; *bharyaa* = His wife; *siitaa* = Seetha; *yashasvinii* = the famous one;
@@ -6952,6 +6935,23 @@ task; *bharyaa* = His wife; *siitaa* = Seetha; *yashasvinii* = the famous one;
 
 "When that Sri Rama, with a bitter enmity towards Rakshasas, was diverted in another
 task, His famed wife Seetha had been taken away by Ravana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*155. aham* = I; *gamishhye* = can go; *raama kaaraNaat*
+= for Rama's sake; *duutaH* = as a messenger; *tasyaaH* = (to find) Her;
+*sakaasham* = presence; *vishhaya vaasinii* = O subject (of Sri Rama)! arhasi = (you
+are) suited; *kartum* = to do; *saahyam* = help; *raamasya* = of Rama.
+
+**अनुवादः**
+
+"I am going for Rama's sake as a messenger to find Her presence. O subject of Sri
+Rama! You are suited to help Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -7112,15 +7112,15 @@ _________________
 
 **पदच्छेदः**
 
-*161. dR^ishhTvaa* = seeing; *tam* = Him; *megha
-saMkaasham* = equal to a cloud; *dasha yojanam aayatam* = ten yojanas long; *surasaa
-cha* = Surasa also; *chakaara* = made; *aasyam* = (Her) mouth; *vimshadyojanam
-aayatam* = twenty yojanas long.
+*158. naaga maataa* = Mother of Nagas; *surasaa* = Surasa;
+*jijJNaasamaanaa vai* = desiring to know; *balam* = strength; *hanuumataH* =
+of Hanuma; *abraviit* = spoke; *vaakyam* = (these) words; *samudviikshya* =
+seeing; *tam* = Him; *prayaantam* = going away.
 
 **अनुवादः**
 
-Seeing Hanuma, who looked like a cloud, being ten yojanas long, Surasa also made her
-mouth twenty yojanas long.
+Mother of Nagas, Surasa, desiring to know the strength of Hanuma, spoke these words
+on seeing Him going away.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -7155,15 +7155,15 @@ and stood before Hanuma.
 
 **पदच्छेदः**
 
-*158. naaga maataa* = Mother of Nagas; *surasaa* = Surasa;
-*jijJNaasamaanaa vai* = desiring to know; *balam* = strength; *hanuumataH* =
-of Hanuma; *abraviit* = spoke; *vaakyam* = (these) words; *samudviikshya* =
-seeing; *tam* = Him; *prayaantam* = going away.
+*161. dR^ishhTvaa* = seeing; *tam* = Him; *megha
+saMkaasham* = equal to a cloud; *dasha yojanam aayatam* = ten yojanas long; *surasaa
+cha* = Surasa also; *chakaara* = made; *aasyam* = (Her) mouth; *vimshadyojanam
+aayatam* = twenty yojanas long.
 
 **अनुवादः**
 
-Mother of Nagas, Surasa, desiring to know the strength of Hanuma, spoke these words
-on seeing Him going away.
+Seeing Hanuma, who looked like a cloud, being ten yojanas long, Surasa also made her
+mouth twenty yojanas long.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -7206,6 +7206,23 @@ _________________
 
 **पदच्छेदः**
 
+*160. tadaa* = then; *hanumaan* = Hanuma; *iti uktvaa* =
+speaking thus; *surasaam* = to Surasa; *kruddhaH* = became angry; *babhuuva* =
+and became; *dasha yojanam* = ten yojanas; *aayataH* = long; *dasha yojana
+vistaaraH* = (and) ten yojanas wide.
+
+**अनुवादः**
+
+Then Hanuma speaking thus to Surasa, became angry and became ten yojanas long and
+ten yojanas wide.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *162. tataH* = thereafter; *hanumaaMstu* = Hanuma;
 *kruddhaH* = became angry; *triMshadyojanam aayataH* = became thirty yojanas long;
 *surasaa* = Surasa; *chakaara* = made; *vaktram* = mouth;
@@ -7217,23 +7234,6 @@ courageous; *hanumaan* = Hanuma; *babhuuva* = became;
 
 Thereafter, Hanuma got angry and became thirty yojanas long. Surasa made her mouth
 forty yojanas high. The courageous Hanuma then became fifty yojanas high.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*160. tadaa* = then; *hanumaan* = Hanuma; *iti uktvaa* =
-speaking thus; *surasaam* = to Surasa; *kruddhaH* = became angry; *babhuuva* =
-and became; *dasha yojanam* = ten yojanas; *aayataH* = long; *dasha yojana
-vistaaraH* = (and) ten yojanas wide.
-
-**अनुवादः**
-
-Then Hanuma speaking thus to Surasa, became angry and became ten yojanas long and
-ten yojanas wide.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -7414,6 +7414,23 @@ _________________
 
 **पदच्छेदः**
 
+*166. surasaa* = Surasa; *chakaara* = made; *vaktram* =
+her mouth; *ashiitii yojanaocchritam* = eighty yojanas high; *achala prakhyaH* = the
+mountain-like; *hanumaan* = Hanuma; *navatii yojanocchritaH* = became ninety yojanas
+high.
+
+**अनुवादः**
+
+Surasa made her mouth eighty yojanas high. The mountain-like Hanuma then became
+ninety yojanas high.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *167. subuddimaan* = the great wise; *vaayuputraH* = Hanuma;
 *dR^ishhTvaa* = seeing; *tat aasyam* = that mouth; *diirgha jihvam* = with a
 long tongue; sughoram; which was horrible; *narakopamam* = equal to hell; *vyaaditam
@@ -7426,23 +7443,6 @@ thumb.
 The great wise Hanuma seeing that mouth with a long tongue which was horrible and
 equal to hell being opened by Surasa, greatly reduced His own body and became the size of a
 thumb.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*166. surasaa* = Surasa; *chakaara* = made; *vaktram* =
-her mouth; *ashiitii yojanaocchritam* = eighty yojanas high; *achala prakhyaH* = the
-mountain-like; *hanumaan* = Hanuma; *navatii yojanocchritaH* = became ninety yojanas
-high.
-
-**अनुवादः**
-
-Surasa made her mouth eighty yojanas high. The mountain-like Hanuma then became
-ninety yojanas high.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -7930,15 +7930,15 @@ _________________
 
 **पदच्छेदः**
 
-*183. chirasya* = (after) a long time; *idam* = this;
-*mahat* = great; *sattvam* = animal; *aagatam* = came; *me* = (into)
-my; *vasham* = grasp; *diirghasya* = (after) long; *kaalasya* = time;
-*adya* = today; *bhavishyaami* = I will; *aashitaa* = have (my) meal.
+*181. hanumaan* = Hanuma; *maarutaatmajaH* = the son of Vayu;
+*pradR^ishyamaanaH* = being shown; *sarvatra* = everywhere; *bheje* =
+obtained; *ambaram* = the sky; *niraalambam* = without any support; *adriraaT
+iva* = like the king of birds; *lamba pakshaH* = with long wings.
 
 **अनुवादः**
 
-"After a long time, this great animal came into my grasp. After long time, today I
-will enjoy my meal."
+Hanuma, the son of Vayu, visible everywhere, obtained the sky without support, like
+the king of birds with long wings.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -7969,15 +7969,15 @@ flying, increased in size and thought thus in her mind.
 
 **पदच्छेदः**
 
-*181. hanumaan* = Hanuma; *maarutaatmajaH* = the son of Vayu;
-*pradR^ishyamaanaH* = being shown; *sarvatra* = everywhere; *bheje* =
-obtained; *ambaram* = the sky; *niraalambam* = without any support; *adriraaT
-iva* = like the king of birds; *lamba pakshaH* = with long wings.
+*183. chirasya* = (after) a long time; *idam* = this;
+*mahat* = great; *sattvam* = animal; *aagatam* = came; *me* = (into)
+my; *vasham* = grasp; *diirghasya* = (after) long; *kaalasya* = time;
+*adya* = today; *bhavishyaami* = I will; *aashitaa* = have (my) meal.
 
 **अनुवादः**
 
-Hanuma, the son of Vayu, visible everywhere, obtained the sky without support, like
-the king of birds with long wings.
+"After a long time, this great animal came into my grasp. After long time, today I
+will enjoy my meal."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -8121,19 +8121,16 @@ _________________
 
 **पदच्छेदः**
 
-*187. maarutaH* = Hanuma; *dR^ishhTvaa* = saw; *tat* =
-that (animal); *vikR^itaananam* = with a horrible face; *chintayaamaasa* = and
-thought; *idam* = this animal; *adbhutadarshhanam* = with a strange appearance;
-*mahaaviiryam* = with great strength; *chaayaagraahi* = attracting shadow;
-*tat* = (is indeed) that; *sattvam* = animal; *kathitam* = as told;
-*kapiraajena* = by Sugriva; *na* = no; *saMshayaH* = doubt; *atra* = in
-this.
+*186. tataH* = after that; *kapiH* = Hanuma;
+*viikshamaaNaH* = looking; *tiryak* = sideways; *uurdhvam* = upwards;
+*athashchaiva* = and downwards; *dadarsha* = saw; *mahat* = big;
+*sattvam* = animal; *utthitam* = raised up; *lavaNaambhasi* = in the salty
+ocean.
 
 **अनुवादः**
 
-Hanuma saw that animal with a horrible face and thought: "This animal with a strange
-appearance, with great strength attracting shadow, is indeed the animal that had been told by
-Sugriva. There is no doubt in that."
+After that, Hanuma looking sideways, upwards and downwards, saw a big animal raised
+up in the salty ocean.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -8147,16 +8144,19 @@ Sugriva. There is no doubt in that."
 
 **पदच्छेदः**
 
-*186. tataH* = after that; *kapiH* = Hanuma;
-*viikshamaaNaH* = looking; *tiryak* = sideways; *uurdhvam* = upwards;
-*athashchaiva* = and downwards; *dadarsha* = saw; *mahat* = big;
-*sattvam* = animal; *utthitam* = raised up; *lavaNaambhasi* = in the salty
-ocean.
+*187. maarutaH* = Hanuma; *dR^ishhTvaa* = saw; *tat* =
+that (animal); *vikR^itaananam* = with a horrible face; *chintayaamaasa* = and
+thought; *idam* = this animal; *adbhutadarshhanam* = with a strange appearance;
+*mahaaviiryam* = with great strength; *chaayaagraahi* = attracting shadow;
+*tat* = (is indeed) that; *sattvam* = animal; *kathitam* = as told;
+*kapiraajena* = by Sugriva; *na* = no; *saMshayaH* = doubt; *atra* = in
+this.
 
 **अनुवादः**
 
-After that, Hanuma looking sideways, upwards and downwards, saw a big animal raised
-up in the salty ocean.
+Hanuma saw that animal with a horrible face and thought: "This animal with a strange
+appearance, with great strength attracting shadow, is indeed the animal that had been told by
+Sugriva. There is no doubt in that."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -8321,23 +8321,6 @@ _________________
 
 **पदच्छेदः**
 
-*192. saH kapiH* = that Hanuma; *mahaabalaH* = one with great
-strength; *vajrasaMhananaH* = with a body equal (in strength) to a diamond; *muhuH* =
-repeatedly; *saMkshipya* = contracting; *aatmaanam* = Himself; *nishhpapaata*
-= fell; *tasyaaH vivR^ite vaktre* = into her opened mouth.
-
-**अनुवादः**
-
-That Hanuma with great strength and with a body equal to a diamond, repeatedly
-contracted His body and fell into her opened mouth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 190; *191. garjantii* = roaring; *ghanaraajiiva* = like a dense
 cloud; *samabhidravat* = (she) ran; *vaanaram* = (towards) the Vanara; *tataH*
 = then; *medhaavii* = the wise; *mahaakapiH* = great Hanuma; *dadarsha* = saw;
@@ -8349,6 +8332,23 @@ internal organs.
 
 Roaring like a dense cloud, she ran towards the Vanara. Then the wise Hanuma saw her
 opened very big mouth equal to His own body and also her internal organs.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*192. saH kapiH* = that Hanuma; *mahaabalaH* = one with great
+strength; *vajrasaMhananaH* = with a body equal (in strength) to a diamond; *muhuH* =
+repeatedly; *saMkshipya* = contracting; *aatmaanam* = Himself; *nishhpapaata*
+= fell; *tasyaaH vivR^ite vaktre* = into her opened mouth.
+
+**अनुवादः**
+
+That Hanuma with great strength and with a body equal to a diamond, repeatedly
+contracted His body and fell into her opened mouth.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -8414,23 +8414,6 @@ _________________
 
 **पदच्छेदः**
 
-*194. tataH* = then; *vaanaraH* = Hanuma; *utkR^itya* =
-rending; *marmaaNi* = internal organs; *tasyaaH* = of Simhika; *tiikshNaiH
-nakhaiH* = with sharp nails; *atha* = and after that; *utpapaata* = flew up;
-*manaH sampaata vikramaH vegena* = with a speed equal to that of thought.
-
-**अनुवादः**
-
-Then Hanuma rend her internal organs with His sharp nails and after that flew up
-with a speed equal to that of thought.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *193. siddha chaaraNaaH* = Siddhas and Charanas; *dadrushuH* =
 saw; *nimajjantam* = (Hanuma) sinking; *tasyaaH* = in her; *aasye* = mouth;
 *puurNam chandram yathaa* = like the full moon; *parvaNi* = on a full moon day;
@@ -8440,6 +8423,23 @@ saw; *nimajjantam* = (Hanuma) sinking; *tasyaaH* = in her; *aasye* = mouth;
 
 Siddhas and Charanas saw Hanuma sinking in her mouth, like the full moon on a full
 moon day being swallowed by Rahu.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*194. tataH* = then; *vaanaraH* = Hanuma; *utkR^itya* =
+rending; *marmaaNi* = internal organs; *tasyaaH* = of Simhika; *tiikshNaiH
+nakhaiH* = with sharp nails; *atha* = and after that; *utpapaata* = flew up;
+*manaH sampaata vikramaH vegena* = with a speed equal to that of thought.
+
+**अनुवादः**
+
+Then Hanuma rend her internal organs with His sharp nails and after that flew up
+with a speed equal to that of thought.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -8551,24 +8551,6 @@ _________________
 
 **पदच्छेदः**
 
-*197. plavataam vara* = O best among Vanaras! mahat = a huge;
-*sattvam* = animal; *hatam* = has been killed; *tvayaa* = by you;
-*adya* = now; *bhiimam* = a great; *karma* = task; *kR^itam* = has been
-done; *saadhaya* = perform; *artham* = the task; *abhipretam* = dear to you;
-*arishhTam* = auspiciously.
-
-**अनुवादः**
-
-"O best among Vanaras! A huge animal has been killed by you. A great task has been
-done. Perform the task dear to you auspiciously."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *196. saa* = that Simhika; *hR^ita hR^it* = with heart rend;
 *hanumataa* = by Hanuma; *papaata* = fell; *ambhasi* = in water;
 *vidhuraa* = with sorrow; *viikshya* = seeing; *simhikaam* = Simhika;
@@ -8580,6 +8562,24 @@ plvagottamam* = to that best among Vanaras.
 
 That Simhika with heart rend by Hanuma fell in water with sorrow. Seeing Simhika
 killed by Hanuma, creatures roaming in the sky spoke thus to that best among Vanaras.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*197. plavataam vara* = O best among Vanaras! mahat = a huge;
+*sattvam* = animal; *hatam* = has been killed; *tvayaa* = by you;
+*adya* = now; *bhiimam* = a great; *karma* = task; *kR^itam* = has been
+done; *saadhaya* = perform; *artham* = the task; *abhipretam* = dear to you;
+*arishhTam* = auspiciously.
+
+**अनुवादः**
+
+"O best among Vanaras! A huge animal has been killed by you. A great task has been
+done. Perform the task dear to you auspiciously."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -8639,23 +8639,6 @@ killed by Hanuma, creatures roaming in the sky spoke thus to that best among Van
 
 **पदच्छेदः**
 
-*199. saH kapiH* = that Hanuma; *puujyaH* = the respectable one;
-*sambhaavitaH* = (thus) respected; *taiH* = by them; *pratipanna prayojanaH* =
-with a determined goal; *aavishya* = entered; *aakaasham* = the sky; *jagaama*
-= and went; *pannagaashanavat* = like the Garuda.
-
-**अनुवादः**
-
-That Hanuma the respectable one, thus respected by them, entered the sky and went
-like the Garuda with a determined goal.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *198. vaanarendra* = O best among Vanaras! yasya = whoever;
 *dhR^itiH* = ( has) courage; *dR^ishhTiH* = vision; *matiH* = intellect;
 *daakshyam* = skill; *etaani* = (all) these; *chatvaari* = four (virtues);
@@ -8666,6 +8649,23 @@ like the Garuda with a determined goal.
 
 "O best among Vanaras! Whoever has the four qualities of courage, vision, intellect
 and skill, all these four virtues like you, such a person will not fail in any task."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*199. saH kapiH* = that Hanuma; *puujyaH* = the respectable one;
+*sambhaavitaH* = (thus) respected; *taiH* = by them; *pratipanna prayojanaH* =
+with a determined goal; *aavishya* = entered; *aakaasham* = the sky; *jagaama*
+= and went; *pannagaashanavat* = like the Garuda.
+
+**अनुवादः**
+
+That Hanuma the respectable one, thus respected by them, entered the sky and went
+like the Garuda with a determined goal.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>
@@ -9012,25 +9012,6 @@ became with a decided mission.
 
 **पदच्छेदः**
 
-*208. tataH* = after that; *saH* = that; *mahaatmaa* =
-great one; *mahaabhrakuuTa pratimaH* = (who looked) like a huge mass of clouds;
-*nipapaata* = alighted; *lambasya gireH kuuTe* = on the mountain peak of Lamba;
-*vichitra kuuTe* = with wonderful (lower) peaks; *samR^iddhe* = abundant with various
-things; *saketa koddaalakanaaLikere* = filled with Ketaka; Uddaalaka and Coconut trees.
-
-**अनुवादः**
-
-After that great one who looked like a huge mass of clouds, alighted on the mountain
-peak of Lamba with wonderful lower peaks, abundant with various things and filled with Ketaka,
-Uddalaka and coconut trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 202; *203. saH* = that Hanuma; *aatmavaan* = with controlled
 senses; *matimaan* = with good thoughts; *vilokayan* = looking; *saagaram* =
 the ocean; *saagaraanuupam* = bay; *drumaan* = trees; *saagaraanupajaan* =
@@ -9051,6 +9032,25 @@ stopping the sky, and thought thus.
 
 Comment : It is considered an auspicious sign to be welcomed by married women.
 Hanuma seeing the wives of Sagara coming to meet their husband thus bodes well for Hanuma.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*208. tataH* = after that; *saH* = that; *mahaatmaa* =
+great one; *mahaabhrakuuTa pratimaH* = (who looked) like a huge mass of clouds;
+*nipapaata* = alighted; *lambasya gireH kuuTe* = on the mountain peak of Lamba;
+*vichitra kuuTe* = with wonderful (lower) peaks; *samR^iddhe* = abundant with various
+things; *saketa koddaalakanaaLikere* = filled with Ketaka; Uddaalaka and Coconut trees.
+
+**अनुवादः**
+
+After that great one who looked like a huge mass of clouds, alighted on the mountain
+peak of Lamba with wonderful lower peaks, abundant with various things and filled with Ketaka,
+Uddalaka and coconut trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga1/sundarasans1.htm)
 </details>

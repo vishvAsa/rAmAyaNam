@@ -365,23 +365,6 @@ one sorrow after another, miserable and doomed to grief as I am'."
 
 **पदच्छेदः**
 
-*8. kathamnu* = how; *khalu* = indeed; *taani* = those;
-*haryR^ikSasainyaani* = troops of monkeys and bears; *tau naravaraatmajau vaa* = or those
-two princes; *tariSyanti* = can cross; *duSpaaram* = the insurmountable; *mahodadhim*
-= great ocean?
-
-**अनुवादः**
-
-"'How indeed can those troops of monkeys and bears or Rama and Lakshmana can cross that
-great insurmountable ocean?'"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *7. hariishvara* = O best among monkeys; *viira* = the valiant one!
 haryR^ikSeSu = in the matter of monkeys and bears; *tvatsahayeSu* = who are helpmates to you;
 *ayam* = this; *sumahaan* = a very grave; *sandeshaH* = doubt; *tiSThatiiva*
@@ -391,6 +374,23 @@ haryR^ikSeSu = in the matter of monkeys and bears; *tvatsahayeSu* = who are help
 
 "'O best among the monkeys! O valiant one! In the matter of monkeys and bears who are
 your helpmates, this very grave doubt stands before me'."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. kathamnu* = how; *khalu* = indeed; *taani* = those;
+*haryR^ikSasainyaani* = troops of monkeys and bears; *tau naravaraatmajau vaa* = or those
+two princes; *tariSyanti* = can cross; *duSpaaram* = the insurmountable; *mahodadhim*
+= great ocean?
+
+**अनुवादः**
+
+"'How indeed can those troops of monkeys and bears or Rama and Lakshmana can cross that
+great insurmountable ocean?'"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga68/sundarasans68.htm)
 </details>

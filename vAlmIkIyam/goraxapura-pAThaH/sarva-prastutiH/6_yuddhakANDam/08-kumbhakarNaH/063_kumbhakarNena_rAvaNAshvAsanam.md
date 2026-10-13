@@ -2260,23 +2260,6 @@ _________________
 
 **पदच्छेदः**
 
-*51. bhakSayiSyaami* = I shall devour; *hariincha* = the monkeys;
-*samyuge* = in battle; *samupasthite* = which is near at hand; *ichchhaami* = I
-wish; *daatum* = to contribute; *mahat* = a tremendous; *asaadhaaraNam* = and extra
-ordinary; *yashaH* = reputation; *tava* = for you.
-
-**अनुवादः**
-
-"I shall devour the monkeys in battle, which is near at hand. I wish to contribute a
-tremendous and extraordinary reputation for you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 49; *50. muNcha* = be free; *ghoram bhayam raamaat* = from the terrific
 fear of Rama; *samyuge* = In the battle; *nihaniSaami* = i will kill; *raaghavam*
 = Rama; *lakSmaNamchaiva* = Lakshmana = mahaabalam = the mighty; *sugriivam cha* = Sugreeva;
@@ -2287,6 +2270,23 @@ fear of Rama; *samyuge* = In the battle; *nihaniSaami* = i will kill; *raaghavam
 
 "Be free from the terrific fear of Rama. In the battle, I will kill Rama, Lakshmana,
 the mighty Sugreeva and even Hanuma, by whom the city of Lanka was burnt off and the demons were killed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*51. bhakSayiSyaami* = I shall devour; *hariincha* = the monkeys;
+*samyuge* = in battle; *samupasthite* = which is near at hand; *ichchhaami* = I
+wish; *daatum* = to contribute; *mahat* = a tremendous; *asaadhaaraNam* = and extra
+ordinary; *yashaH* = reputation; *tava* = for you.
+
+**अनुवादः**
+
+"I shall devour the monkeys in battle, which is near at hand. I wish to contribute a
+tremendous and extraordinary reputation for you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhasans63.htm)
 </details>

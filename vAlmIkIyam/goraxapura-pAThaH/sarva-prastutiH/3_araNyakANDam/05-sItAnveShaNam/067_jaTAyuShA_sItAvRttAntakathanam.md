@@ -481,6 +481,23 @@ _________________
 
 **पदच्छेदः**
 
+*9b, 10a. tataH* = then; *parvata kuuTa aabham* = mountain, top,
+in gleam [akin]; *mahaa bhaagam* = best, beatific; *dvija uttamam* = [among all]
+birds, best [brave]; *bhuumau patitam* = onto earth, fallen; *kSataja aardram* =
+blood, wet [bloodstained]; *jaTaayuSam* = at Jataayu; *dadarsha* = [Rama] beheld.
+
+**अनुवादः**
+
+Then Rama beheld Jataayu who is akin to a mountaintop in his gleam, and a best
+beatific brave bird among all the birds, but bloodstained and buckling on earth. [3-67-9b, 10a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *10b, 11a. giri shR^inga aabham* = mountain, top, in gleam; *tam
 dR^iSTvaa* = him, on beholding; *raamaH lakSmaNam abraviit* = Rama, to Lakshmana, said;
 *anena* = by him [by this one]; *vaidehii siitaa bhakSitaa* = Videha king's daughter,
@@ -491,23 +508,6 @@ Seetha, is gluttonised; *atra samshayaH na* = in that matter, doubt, is not ther
 On beholding him who is like a mountaintop in his gleam, Rama said to Lakshmana,
 "This one has gluttonised Seetha, the princess from Vaidehi, there is no doubt about it...
 [3-67-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*9b, 10a. tataH* = then; *parvata kuuTa aabham* = mountain, top,
-in gleam [akin]; *mahaa bhaagam* = best, beatific; *dvija uttamam* = [among all]
-birds, best [brave]; *bhuumau patitam* = onto earth, fallen; *kSataja aardram* =
-blood, wet [bloodstained]; *jaTaayuSam* = at Jataayu; *dadarsha* = [Rama] beheld.
-
-**अनुवादः**
-
-Then Rama beheld Jataayu who is akin to a mountaintop in his gleam, and a best
-beatific brave bird among all the birds, but bloodstained and buckling on earth. [3-67-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>
@@ -1036,6 +1036,23 @@ _________________
 
 **पदच्छेदः**
 
+*21. raamaH* = Rama; *tasya* = of his - from him; *siitaa
+saktaam* = Seetha, concerning to; *priyaam kathaam* = desirable, narration - news;
+*viGYaaya* = came to know; *parityajya mahat dhanuH* = jettisoned, forceful, bow;
+*gR^idhra raajam pariSvajya* = eagle, kingly, on hugging.
+
+**अनुवादः**
+
+Rama jettisoned his forceful bow when he heard the much desired news about Seetha
+while hugging that kingly eagle Jataayu. [3-67-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *22. raamaH* = Rama; *dhiira taraH* = bold [person,] higher in
 degree [comparatively bold person]; *api san* = even though, he is; *a vashaH* =
 without, control [involuntarily]; *bhuumau* = on earth; *nipapaata* = fell down;
@@ -1058,23 +1075,6 @@ manuShyaaNaa~N bhR^isha~N bhavati duHkhitaH || utsaveShu ca sarveShu piteva pari
 all functions celebrated by people on the occasions of child birth and the like, just as their own
 father does...' So, it must be true in respect of Seetha, even. This is agreeable to Govindaraja,
 too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*21. raamaH* = Rama; *tasya* = of his - from him; *siitaa
-saktaam* = Seetha, concerning to; *priyaam kathaam* = desirable, narration - news;
-*viGYaaya* = came to know; *parityajya mahat dhanuH* = jettisoned, forceful, bow;
-*gR^idhra raajam pariSvajya* = eagle, kingly, on hugging.
-
-**अनुवादः**
-
-Rama jettisoned his forceful bow when he heard the much desired news about Seetha
-while hugging that kingly eagle Jataayu. [3-67-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm)
 </details>

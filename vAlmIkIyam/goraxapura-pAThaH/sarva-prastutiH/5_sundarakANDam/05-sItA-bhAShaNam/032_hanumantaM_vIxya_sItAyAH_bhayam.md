@@ -68,23 +68,6 @@ is quite a reality. She prays Lord Brihaspati and Brahma to make he words spoken
 
 **पदच्छेदः**
 
-*2. naa* = that Seetha; *dadarsha* = beheld; *tatra* = there; *kapim*
-= a monkey; *phulla shokotkaraabhaasam* = beaming like a cluster of Ashoka flowers wide opened; *tapta
-chaamiikarekSaNam* = with his eyes resembling refined gold; *prashritam* = humble; *priya vaadinam*
-= and speaking agreeably.
-
-**अनुवादः**
-
-Seetha beheld there a monkey, beaming like a cluster of Ashoka flowers wide opened, with his eyes
-resembling regined gold, humble and speaking agreeable words.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1. tataH* = then; (Seetha); *chalita maanasaa* = had her mind shaken; *
 dR^iSTvaa* = seeing; *tam* = that Hanuma; *vidyutsanghaata piV^galam* = who was tawny coloured;
 *vidyutsanghaata* = like a series of flashing thunder bolts; *veSTitaarjuna vastram* = and wrapped
@@ -95,6 +78,23 @@ a monkey.
 
 Then, seeing Hanuma, who was tawny coloured like a series of flashing thunderbolts wrapped up in
 a white cloth and hiding behind the branches of a tree, Seetha had her mind shaken.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. naa* = that Seetha; *dadarsha* = beheld; *tatra* = there; *kapim*
+= a monkey; *phulla shokotkaraabhaasam* = beaming like a cluster of Ashoka flowers wide opened; *tapta
+chaamiikarekSaNam* = with his eyes resembling refined gold; *prashritam* = humble; *priya vaadinam*
+= and speaking agreeably.
+
+**अनुवादः**
+
+Seetha beheld there a monkey, beaming like a cluster of Ashoka flowers wide opened, with his eyes
+resembling regined gold, humble and speaking agreeable words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga32/sundarasans32.htm)
 </details>

@@ -230,6 +230,22 @@ followed them rearward. [4-13-4]
 
 **पदच्छेदः**
 
+*5. te* = they; *puSpa bhaara avalambinaH vR^ikSaam* = by flowers, weight, drooping, trees;
+*prasanna ambu vahaaH* = pleasant, water, carrying; *saagaram gamaaH* = to ocean, coursing;
+saritaH rivers; *viikSamaaNaa* = [yayau] = looking at, they moved on.
+
+**अनुवादः**
+
+They moved on looking at the trees that are drooping with the weight of their flowers, and at he rivers
+that are carrying pleasant water while themselves are coursing towards ocean. [4-13-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *6. kandaraaNi* = [house-like] caverns; *shailaam* = crags; *nirdaraaNi guhaaH tathaa*
 = ravines, caves, like that; *shikharaaNi ca mukhyaani* = peaks, also, monumental ones; *dariiH
 ca priya darshanaaH* = valleys, of pleasant, sight.
@@ -245,22 +261,6 @@ The words *kandara*, and *guha* have different meanings. *
 kandaraaNi = mandira aakaara parvata vivaraaNi = *house-like mountain cavities;
 *nir+daraaNi = shaila vivaraaNi; guhaaH = deva khaata giri bilvaani-*deep mountain caves made by
 divinities - Rama Tilaka.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*5. te* = they; *puSpa bhaara avalambinaH vR^ikSaam* = by flowers, weight, drooping, trees;
-*prasanna ambu vahaaH* = pleasant, water, carrying; *saagaram gamaaH* = to ocean, coursing;
-saritaH rivers; *viikSamaaNaa* = [yayau] = looking at, they moved on.
-
-**अनुवादः**
-
-They moved on looking at the trees that are drooping with the weight of their flowers, and at he rivers
-that are carrying pleasant water while themselves are coursing towards ocean. [4-13-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>
@@ -493,6 +493,27 @@ _________________
 
 **पदच्छेदः**
 
+*10. ghoraan* = dangerous; *taTaaka vairiNaH* = lake, enemies; *shukla danta vibhuuSitaan*
+= white, tusks, ornamented with; *eka caraan* = elephantine, in oneness, moving; *kuula ghaatinaH*
+= lakebeds, destroyers; *vanyaan dviradaan* = forest, elephants; [they saw.]
+
+**अनुवादः**
+
+They have also seen the forest elephants that have white tusks for their ornaments and that are moving
+in herds, and which are the dangerous enemies of lakes as they destroy lakebeds. [4-13-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+बॆळ्ळगिन दन्तगळिन्द सुशोभितवाद, नोडलु भयङ्करराद, ऒण्टियागि सञ्चरिसुत्ता दडगळन्नु अगॆदु हाकुव सरोवरगळ शत्रुगळाद ऎरडु दन्तगळुळ्ळ मदमत्त काडानॆगळु चलिसुव पर्वतगळन्तॆ कण्डुबरुत्तिद्दवु. अवुगळु पर्वत तप्पलन्नु दन्तगळिन्द विदीर्णगॊळिसिद्दवु. कॆलवॆडॆ आनॆयन्तह विशालकाय धूळिनिन्द स्नान माडिदन्तॆ इरुव वानररु कण्णिगॆ बीळुत्तिद्दवु. इवुगळल्लदॆ आ वनदल्लि इन्नू अनेक काडु मृगगळु, हाराडुत्तिद्द पक्षिगळु कण्डुबरुत्तिद्दवु. इवॆल्लवन्नु नोडुत्ता श्रीरामादि ऎल्ल जनरु सुग्रीवनिगॆ वशवर्तिगळागि वेगवागि मुन्दुवरियुत्तिद्दरु.॥10-12॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *11. mattan vaanaraan* = vigorous monkeys; *giri taTa udghuSTaan* = on mountain's, ridges,
 making noisy; *jangamaan parvataan iva* = mobile, mountains, like; *dvirada prakhyaan*
 = elephantine, in aspect; *mahii reNu samukshitaan* = earth's, dust, covered [on bodies.]
@@ -508,11 +529,6 @@ If the first foot *mattaan giri taTa udghuSTaan* is connected with verse 10, it 
 of elephants like 'the elephants in rut are moving like mobile mountains and noisy on the mountain crags.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-बॆळ्ळगिन दन्तगळिन्द सुशोभितवाद, नोडलु भयङ्करराद, ऒण्टियागि सञ्चरिसुत्ता दडगळन्नु अगॆदु हाकुव सरोवरगळ शत्रुगळाद ऎरडु दन्तगळुळ्ळ मदमत्त काडानॆगळु चलिसुव पर्वतगळन्तॆ कण्डुबरुत्तिद्दवु. अवुगळु पर्वत तप्पलन्नु दन्तगळिन्द विदीर्णगॊळिसिद्दवु. कॆलवॆडॆ आनॆयन्तह विशालकाय धूळिनिन्द स्नान माडिदन्तॆ इरुव वानररु कण्णिगॆ बीळुत्तिद्दवु. इवुगळल्लदॆ आ वनदल्लि इन्नू अनेक काडु मृगगळु, हाराडुत्तिद्द पक्षिगळु कण्डुबरुत्तिद्दवु. इवॆल्लवन्नु नोडुत्ता श्रीरामादि ऎल्ल जनरु सुग्रीवनिगॆ वशवर्तिगळागि वेगवागि मुन्दुवरियुत्तिद्दरु.॥10-12॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -534,22 +550,6 @@ quickly moved on. [4-13-12]
 The two words *vihangama* and *khecara* mean a bird. But the *vihangama* is the
 cognate word and *khecara* is its adjective, as observed by Dr. Satya Vrat in his: The Ramayana
 - A Linguist Study.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*10. ghoraan* = dangerous; *taTaaka vairiNaH* = lake, enemies; *shukla danta vibhuuSitaan*
-= white, tusks, ornamented with; *eka caraan* = elephantine, in oneness, moving; *kuula ghaatinaH*
-= lakebeds, destroyers; *vanyaan dviradaan* = forest, elephants; [they saw.]
-
-**अनुवादः**
-
-They have also seen the forest elephants that have white tusks for their ornaments and that are moving
-in herds, and which are the dangerous enemies of lakes as they destroy lakebeds. [4-13-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga13/kishkindhasans13.htm)
 </details>

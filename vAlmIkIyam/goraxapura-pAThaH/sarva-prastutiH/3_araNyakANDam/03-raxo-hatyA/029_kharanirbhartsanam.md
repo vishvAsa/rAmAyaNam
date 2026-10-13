@@ -131,6 +131,29 @@ _________________
 
 **पदच्छेदः**
 
+2. *gaja ashva ratha* = elephants, horses, chariots; *sam baadhe* = abounding with;
+*mahati bale* = with gigantic, forces; *tiSThataa* = staying - you who hold sway;
+such as you are; *sarva loka jugupsitam karma* = by all, worlds, detestable - loathsome, deed;
+*su daaruNam* = very, heinous one; *kR^itam* = is perpetrated - in Dandaka forests.
+
+**अनुवादः**
+
+"Although you hold sway over a gigantic force abounding with elephants horses and chariots, you have
+perpetrated heinous deeds in Dandaka forests that are loathsome to all the worlds, that is unseemliest
+to this soldiery. [3-29-2]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+निशाचरने! आनॆ, कुदुरॆ, मत्तु रथगळिन्द कूडिद विशाल सैन्यद नडुवॆ निन्तु (असङ्ख्य राक्षसर ऒडॆयनॆम्ब अभिवानदिन्द) नीनु सदा माडुत्तिद्द क्रूरवाद कर्मवु समस्त जनरिन्द निन्दितवागिदॆ. समस्त प्राणिगळन्नु उद्वेगगॊळिसुव क्रूरि मत्तु पापाचारियु मूरु लोकगळ ऒडॆयनागिद्दरू हॆच्चुकाल उळियलारनु. लोक विरोधि कठोर कर्ममाडुवन्तहवनन्नु ऎल्ल जनरु ऎदुरिगॆ बन्दिरुव सर्पदन्तॆ हॊडॆयुत्तारॆ.॥2-4॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *3. bhuutaanaam udvejaniiyaH* = for living beings, causing suffering; *paapa karma kR^it*
 = evil, deed, doer - transgressor; *nR^ishamsaH* = completely ruthless one; *trayaaNaam lokaanaam
 api* = for three, worlds, even if; *iishvaraH api* = lord, may be; *na tiSThati* =
@@ -142,11 +165,6 @@ not, stand up for [himself.]
 does not stand up for himself even if he were to be the lord of all the three worlds. [3-29-3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-निशाचरने! आनॆ, कुदुरॆ, मत्तु रथगळिन्द कूडिद विशाल सैन्यद नडुवॆ निन्तु (असङ्ख्य राक्षसर ऒडॆयनॆम्ब अभिवानदिन्द) नीनु सदा माडुत्तिद्द क्रूरवाद कर्मवु समस्त जनरिन्द निन्दितवागिदॆ. समस्त प्राणिगळन्नु उद्वेगगॊळिसुव क्रूरि मत्तु पापाचारियु मूरु लोकगळ ऒडॆयनागिद्दरू हॆच्चुकाल उळियलारनु. लोक विरोधि कठोर कर्ममाडुवन्तहवनन्नु ऎल्ल जनरु ऎदुरिगॆ बन्दिरुव सर्पदन्तॆ हॊडॆयुत्तारॆ.॥2-4॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -162,24 +180,6 @@ as with; *hanti* = will eradicate.
 
 "All people will eliminate him, oh, nightwalker, who is imperious and an infringer of worldly routine,
 as they would eradicate a vicious serpent, in the event of its running across them. [3-29-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-2. *gaja ashva ratha* = elephants, horses, chariots; *sam baadhe* = abounding with;
-*mahati bale* = with gigantic, forces; *tiSThataa* = staying - you who hold sway;
-such as you are; *sarva loka jugupsitam karma* = by all, worlds, detestable - loathsome, deed;
-*su daaruNam* = very, heinous one; *kR^itam* = is perpetrated - in Dandaka forests.
-
-**अनुवादः**
-
-"Although you hold sway over a gigantic force abounding with elephants horses and chariots, you have
-perpetrated heinous deeds in Dandaka forests that are loathsome to all the worlds, that is unseemliest
-to this soldiery. [3-29-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyasans29.htm)
 </details>

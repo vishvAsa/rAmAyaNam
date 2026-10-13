@@ -234,23 +234,6 @@ _________________
 
 **पदच्छेदः**
 
-*6. viniH shvasya diirgham uShNam* = Drawing a deep and warm breath;
-*avalokayam* = and casting his looks; *jagatiim* = on the ground; *uvaacha* =
-he spoke (as follows); *vibhiiShaNam* = to Vibhishana; *meghasamkaasham* = who
-closely resembled a cloud in hue; *upasthitan* = and who was standing nearby.
-
-**अनुवादः**
-
-Drawing a deep and warm breath and casting his looks on the ground, he spoke (as
-follows) to Vibhishana, who closely resembled a cloud in hue and who was standing nearby.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5. evam* = thus; *uktaH* = spoken; *hanumataa* = by
 Hanuma; *raamaH* = Rama; *varaH* = who was the foremost; *dharmabhR^itaam* =
 among the supporters of righteousness; *iiShat baaShpa pariplutaH* = was shightly
@@ -261,6 +244,23 @@ bit thoughtful.
 
 Hearing Hanuma's words, Rama who was the foremost among the supporters of
 righteousness, was a little over whelmed with tears and suddenly became a bit thoughtful.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. viniH shvasya diirgham uShNam* = Drawing a deep and warm breath;
+*avalokayam* = and casting his looks; *jagatiim* = on the ground; *uvaacha* =
+he spoke (as follows); *vibhiiShaNam* = to Vibhishana; *meghasamkaasham* = who
+closely resembled a cloud in hue; *upasthitan* = and who was standing nearby.
+
+**अनुवादः**
+
+Drawing a deep and warm breath and casting his looks on the ground, he spoke (as
+follows) to Vibhishana, who closely resembled a cloud in hue and who was standing nearby.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga114/yuddhasans114.htm)
 </details>

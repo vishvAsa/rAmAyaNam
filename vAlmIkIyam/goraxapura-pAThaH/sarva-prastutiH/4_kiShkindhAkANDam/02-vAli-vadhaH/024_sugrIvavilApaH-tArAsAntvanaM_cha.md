@@ -2163,17 +2163,16 @@ _________________
 
 **पदच्छेदः**
 
-*34. padma a mala patra netra* = lotus', un, blemished, petal, eyed one [here Vali, not Rama];
-*eSaH* = he, Vali; *svarge sametya api* = to heaven, reached, though; *samprekshya*
-= on looking around [in heaven for me]; *maam a pashyan* = me, not, seeing; *uccaavaca taamra
-cuuDaa* = [those with] towering, with red, tiaras; *vicitra veSaaH* = with amazing, costumes;
-*apsaraaH* = apsara-s; *na abhajiSyat* = he will not, make love to celestials.
+*33. viira* = oh, brave one; *ena eva baaNena me priyaH hataH* = which, alone, with arrow,
+my, dear one, is killed; *tena baaNena eva* = with that, arrow, only; *maam* = me; *
+jahi hi* = leave off [kill]; *hataa* = when killed; *asya samiipam gamiSyaami* = to
+his, near, I wish to go; *maam vinaa* = me, without; *vaalii na rameta* = Vali, will not,
+takes delight.
 
 **अनुवादः**
 
-"Though Vali with eyes like unblemished lotus petals reaches heaven he looks around for me, and not
-finding me there, he does not have a romance with celestial apsara-s though they will be in amazing
-costumes and wear red-coloured towering tiaras. [4-24-34]
+"Oh, brave one, kill me too with the same arrow with which you have killed my dear husband, and on getting
+killed at your hand I wish to reach his near, as Vali takes no delight without me. [4-24-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>
@@ -2187,16 +2186,17 @@ costumes and wear red-coloured towering tiaras. [4-24-34]
 
 **पदच्छेदः**
 
-*33. viira* = oh, brave one; *ena eva baaNena me priyaH hataH* = which, alone, with arrow,
-my, dear one, is killed; *tena baaNena eva* = with that, arrow, only; *maam* = me; *
-jahi hi* = leave off [kill]; *hataa* = when killed; *asya samiipam gamiSyaami* = to
-his, near, I wish to go; *maam vinaa* = me, without; *vaalii na rameta* = Vali, will not,
-takes delight.
+*34. padma a mala patra netra* = lotus', un, blemished, petal, eyed one [here Vali, not Rama];
+*eSaH* = he, Vali; *svarge sametya api* = to heaven, reached, though; *samprekshya*
+= on looking around [in heaven for me]; *maam a pashyan* = me, not, seeing; *uccaavaca taamra
+cuuDaa* = [those with] towering, with red, tiaras; *vicitra veSaaH* = with amazing, costumes;
+*apsaraaH* = apsara-s; *na abhajiSyat* = he will not, make love to celestials.
 
 **अनुवादः**
 
-"Oh, brave one, kill me too with the same arrow with which you have killed my dear husband, and on getting
-killed at your hand I wish to reach his near, as Vali takes no delight without me. [4-24-33]
+"Though Vali with eyes like unblemished lotus petals reaches heaven he looks around for me, and not
+finding me there, he does not have a romance with celestial apsara-s though they will be in amazing
+costumes and wear red-coloured towering tiaras. [4-24-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm)
 </details>

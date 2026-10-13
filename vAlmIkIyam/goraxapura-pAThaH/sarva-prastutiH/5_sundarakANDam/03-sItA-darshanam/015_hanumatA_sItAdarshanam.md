@@ -1063,23 +1063,6 @@ _________________
 
 **पदच्छेदः**
 
-*27b-28a. tadaa* = then; *hriyamaaNaa* = while being abducted; *tena
- rakSasaa* = by that rakshasa; *kaama ruupiNaa* = with the ability to assume desired form; *yathaa
- ruupaa dR^iSTaa* = in whatever way She was seen; *iyam anganaa* = this woman; *tathaa ruupaa*
- = has the same form.
-
-**अनुवादः**
-
-Then, while being abducted by that rakshasa with the ability to assume desired form in whatever
- way, She was seen, this woman has the same form.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *26b-27a. samiikSya* = observing; *taam* = that woman; *vishaala akSiim*
  = with wide eyes; *adhikam malinaam* = very untidy; *kR^ishaam* = emaciated; *tarkayaam aasa*
  = Hanuma thought (that); *siiteti* = this is indeed Seetha; *upapaadibhiH kaaraNaiH* = on logical
@@ -1089,6 +1072,23 @@ Then, while being abducted by that rakshasa with the ability to assume desired f
 
 Observing that woman with wide eyes, very untidy, emaciated, Hanuma thought that this is indeed
  Seetha on logical grounds.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27b-28a. tadaa* = then; *hriyamaaNaa* = while being abducted; *tena
+ rakSasaa* = by that rakshasa; *kaama ruupiNaa* = with the ability to assume desired form; *yathaa
+ ruupaa dR^iSTaa* = in whatever way She was seen; *iyam anganaa* = this woman; *tathaa ruupaa*
+ = has the same form.
+
+**अनुवादः**
+
+Then, while being abducted by that rakshasa with the ability to assume desired form in whatever
+ way, She was seen, this woman has the same form.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
@@ -1185,23 +1185,6 @@ _________________
 
 **पदच्छेदः**
 
-*30b-31a. puurNa candra prabhaam iva* = as the light of full moon; *iSTaam*
- = dear; *sarvasya jagataH* = to all world; *taapasiim iva* = like an ascetic woman; *niyataam*
- = leading austere life; *aasiinaam* = sitting; *bhuumau* = on (bare) ground; *sutanum*
- = with a good body.
-
-**अनुवादः**
-
-As the light of full moon, dear to all world, like an ascetic woman leading austere life sitting
- on bare ground with a good body.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *28b-29. siitaam* = (Hanuma saw) Seetha; *puurNa candra aananaam* = with
  a face like full moon; *subhruum* = with beautiful eyebrows; *caaru vR^itta payo dharaam* =
  with graceful rounded breasts; *prabhayaa* = by the radiance; *kurvantiim* = making; *sarvaaH
@@ -1215,6 +1198,23 @@ As the light of full moon, dear to all world, like an ascetic woman leading aust
 Hanuma saw Seetha with a face like full moon, with beautiful eyebrows, with graceful rounded
  breasts, by the radiance making all directions without darkness, goddess like with black hair, with lips like
  bimba fruit, with a good waist, very firm, with eyes like lotus petals, like Rati the consort of god of love.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30b-31a. puurNa candra prabhaam iva* = as the light of full moon; *iSTaam*
+ = dear; *sarvasya jagataH* = to all world; *taapasiim iva* = like an ascetic woman; *niyataam*
+ = leading austere life; *aasiinaam* = sitting; *bhuumau* = on (bare) ground; *sutanum*
+ = with a good body.
+
+**अनुवादः**
+
+As the light of full moon, dear to all world, like an ascetic woman leading austere life sitting
+ on bare ground with a good body.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
@@ -1257,6 +1257,22 @@ Hanuma saw Seetha with a face like full moon, with beautiful eyebrows, with grac
 
 **पदच्छेदः**
 
+*31b-32a. niHshvaasa bahulaam* = sighing a lot; *bhujaga indra vadhuum iva*
+ = like the consort of lord of serpents; *bhiirum* = in fright; *na raajatiim* = not radiant;
+ *shoka jaalena* = by sorrow; *mahataa* = which was great; *vitatena* = (and) extensive.
+
+**अनुवादः**
+
+Sighing a lot like the consort of lord of serpents in fright, not radiant by sorrow which was
+ great and extensive.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *32. taam* = (Hanuma saw)Her; *vibhaavasoH shikhaam iva* = like a tongue
  of fire; *samsaktaam* = mixed; *dhuuma jaalena* = with column of smoke; *smR^itiim iva*
  = like an intellect; *samdighdaam* = together with doubts; *nipatitaam R^iddhim iva* = like
@@ -1266,22 +1282,6 @@ Hanuma saw Seetha with a face like full moon, with beautiful eyebrows, with grac
 
 Hanuma saw Her like a tongue of fire mixed with column of smoke, like an intellect together
  with doubts, like a cast away treasure.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*31b-32a. niHshvaasa bahulaam* = sighing a lot; *bhujaga indra vadhuum iva*
- = like the consort of lord of serpents; *bhiirum* = in fright; *na raajatiim* = not radiant;
- *shoka jaalena* = by sorrow; *mahataa* = which was great; *vitatena* = (and) extensive.
-
-**अनुवादः**
-
-Sighing a lot like the consort of lord of serpents in fright, not radiant by sorrow which was
- great and extensive.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
@@ -1453,23 +1453,6 @@ Like shattered faith, like frustrated hope, like success together with obstacles
 
 **पदच्छेदः**
 
-*37. mala panka dharaam* = wearing a coat of dust; *diinaam* = pitiable
- one; *maNDana arhaam* = (although) suited for decorations; *amaNDitaam* = undecorated; *prabhaam
- iva* = like the radiance; *nakSatra raajasya* = of the moon the lord of stars; *aavR^itaam*
- = covered; *kaala meghaiH* = by black clouds.
-
-**अनुवादः**
-
-Wearing a coat of dust, pitiable one, although suited for decorations undecorated, like the
- radiance of the moon, the lord of stars, covered by black clouds.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *35b-36. mR^iga shaava akSiim* = with eyes like those of a young doe; *baaSpa
  ambu paripuurNena* = full of tears; *kR^iSNa vaktra akSi pakSmaNaa* = with black and oblique eye-brows;
  *aprasannena vadanena* = with a cheerless countenance; *viikSamaaNaam* = seeing; *tataH tataH*
@@ -1480,6 +1463,23 @@ Wearing a coat of dust, pitiable one, although suited for decorations undecorate
 
 With eyes like those of a young doe full of tears, with black and oblique eye-brows, with a
  cheerless countenance, seeing there and there, being helpless, sighing again and again.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. mala panka dharaam* = wearing a coat of dust; *diinaam* = pitiable
+ one; *maNDana arhaam* = (although) suited for decorations; *amaNDitaam* = undecorated; *prabhaam
+ iva* = like the radiance; *nakSatra raajasya* = of the moon the lord of stars; *aavR^itaam*
+ = covered; *kaala meghaiH* = by black clouds.
+
+**अनुवादः**
+
+Wearing a coat of dust, pitiable one, although suited for decorations undecorated, like the
+ radiance of the moon, the lord of stars, covered by black clouds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
@@ -1746,25 +1746,6 @@ _________________
 
 **पदच्छेदः**
 
-*43b-44. aham manye* = I think; *etaani* = all these; *taani eva*
- = to be same; *yaani* = about which; *raamaH anvakiirtayat* = Rama spoke; *tatra* = among
- them; *yaani* = whatever; *avahiinaani* = have been worn out; *taani* = those; *aham*
- = I; *na upalakSaye* = will not see; *yaani* = whatever; *asyaaH* = (jewels) of Her;
- *na avahiinaani* = are not worn out; *taani imaani* = these are they; *na samshayaH*
- = no doubt.
-
-**अनुवादः**
-
-"I think all these to be same about which Rama spoke; among them whatever have been worn out
- those I will not see; whatever jewels of Her are not worn out these are they - no doubt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *41;42-43a. tadaa* = then; *alakSayat* = (Hanuma) saw; *yaani* =
  whatever; *aabharaNa jaalaani* = groups of jewellery; *vaidehyaaH* = of Seetha; *angeSu*
  = on various parts; *raamaH* = Rama; *anvakiirtayat* = spoke; *taani* = those; *gaatra
@@ -1779,6 +1760,25 @@ _________________
 Then Hanuma saw whatever groups of jewellery of Seetha on various parts Rama spoke, those charming
  Her limbs, well made earrings, well fitting Svadamstras and ornaments wonderful with diamonds on the limbs
  of Her hands, belonging to body for long time, blackened and making marks on body.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*43b-44. aham manye* = I think; *etaani* = all these; *taani eva*
+ = to be same; *yaani* = about which; *raamaH anvakiirtayat* = Rama spoke; *tatra* = among
+ them; *yaani* = whatever; *avahiinaani* = have been worn out; *taani* = those; *aham*
+ = I; *na upalakSaye* = will not see; *yaani* = whatever; *asyaaH* = (jewels) of Her;
+ *na avahiinaani* = are not worn out; *taani imaani* = these are they; *na samshayaH*
+ = no doubt.
+
+**अनुवादः**
+
+"I think all these to be same about which Rama spoke; among them whatever have been worn out
+ those I will not see; whatever jewels of Her are not worn out these are they - no doubt."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
@@ -1834,14 +1834,15 @@ _________________
 
 **पदच्छेदः**
 
-*46. apaviddhaani* = dropped; *dharaNii tale* = on the earth; *anayaa
- eva* = by Her; *bhuuSaNaani ca* = ornaments also; *mahaanti mukhyaani* = great and important;
- *svanavanti* = making sound; *dR^iSTaani* = have been seen.
+*45. tat uttariiyam vastram* = that upper garment; *piitam* = yellow;
+ *kanaka paTTa aabham* = with a shine like a golden plate; *subham* = auspicious one; *srastam*
+ = being dropped; *dR^iSTam* = had been seen; *naga aasaktam* = caught in a tree; *tadaa*
+ = then; *plavam gamaiH* = by vanaras.
 
 **अनुवादः**
 
-"Dropped on the earth by Her, ornaments also great and important, those making sound have been
- seen."
+That upper garment yellow with a shine like a golden plate, auspicious one, being dropped had
+ been seen caught in a tree then by vanaras.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>
@@ -1855,15 +1856,14 @@ _________________
 
 **पदच्छेदः**
 
-*45. tat uttariiyam vastram* = that upper garment; *piitam* = yellow;
- *kanaka paTTa aabham* = with a shine like a golden plate; *subham* = auspicious one; *srastam*
- = being dropped; *dR^iSTam* = had been seen; *naga aasaktam* = caught in a tree; *tadaa*
- = then; *plavam gamaiH* = by vanaras.
+*46. apaviddhaani* = dropped; *dharaNii tale* = on the earth; *anayaa
+ eva* = by Her; *bhuuSaNaani ca* = ornaments also; *mahaanti mukhyaani* = great and important;
+ *svanavanti* = making sound; *dR^iSTaani* = have been seen.
 
 **अनुवादः**
 
-That upper garment yellow with a shine like a golden plate, auspicious one, being dropped had
- been seen caught in a tree then by vanaras.
+"Dropped on the earth by Her, ornaments also great and important, those making sound have been
+ seen."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga15/sundarasans15.htm)
 </details>

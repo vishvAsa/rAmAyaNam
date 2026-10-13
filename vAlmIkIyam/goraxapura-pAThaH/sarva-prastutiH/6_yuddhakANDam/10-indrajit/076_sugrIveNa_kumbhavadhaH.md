@@ -262,24 +262,6 @@ Angada quickly in a chariot.
 
 **पदच्छेदः**
 
-*7. balii* = the strong; *aN^gadaH* = Angada;
-*vaaliputraH* = the son of Vali; *pratividdhaaNgaH* = with his wounded limbs;
-*prataapavaan* = who was powerful; *mamarda* = crushed; *ugram* = the
-terrific; *dhanuH* = bow; *ratham* = the chariot; *baaNaan* = and darts;
-*tarasaa* = with his might.
-
-**अनुवादः**
-
-The strong and powerful Angada, the son of Vali, with his wounded limbs, crushed his
-terrific bow, chariot and darts with his might.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 5; *6. saH* = He; *tadaa* = then; *vegitaH* = swiftly;
 *vivyaadha* = struck; *aN^gadam* = Angada; *nishitaiH tiikShaNaiH baaNaiH* =
 with sharp pointed arrows; *shariira daaraNaiH* = which can tear up the body; *tiikShNaiH
@@ -297,6 +279,24 @@ arrow with its head resembling the leaf of a Karaveera tree.
 He then swiftly struck Angada with sharp pointed arrows which can tear up the limbs
 and with fire-like forms which can destroy the world. He struck with many sharp arrows by the names
 of Kshura, Kshurapra, Naaraacha, Vatsatanta, Shilimukha, Karni, Shalya and Vipatha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. balii* = the strong; *aN^gadaH* = Angada;
+*vaaliputraH* = the son of Vali; *pratividdhaaNgaH* = with his wounded limbs;
+*prataapavaan* = who was powerful; *mamarda* = crushed; *ugram* = the
+terrific; *dhanuH* = bow; *ratham* = the chariot; *baaNaan* = and darts;
+*tarasaa* = with his might.
+
+**अनुवादः**
+
+The strong and powerful Angada, the son of Vali, with his wounded limbs, crushed his
+terrific bow, chariot and darts with his might.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
@@ -1025,23 +1025,6 @@ rushed swiftly towards Angada.
 
 **पदच्छेदः**
 
-*24. saH* = Angada; *aajaghaana* = struck; *asya baahum*
-= his arm; *sanistrimsham* = holding the sword; *muShTinaa* = with his fist;
-*ghaatena* = by the blow; *vaaliputrasya* = of Angada; *saH asiH* = that
-sword; *papaata* = fell; *kShitau* = on the ground.
-
-**अनुवादः**
-
-Angada struck, with his fist, the arm of Prajangha, holding the sword. By that blow,
-the sword fell on the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *23. tadaa* = then; *mahaabalaH* = the mighty;
 *vaanarendraH* = Angada; *atibalaH* = who was exceedingly strong; *dR^iShTvaa*
 = seeing; *tam* = him; *abhyaashagatam* = coming nearer; *aajaghaana* = struck
@@ -1051,6 +1034,23 @@ the sword fell on the ground.
 
 Then the mighty Angada, who was exceedingly strong, seeing him coming nearer, struck
 him with an Ashvakarna tree.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. saH* = Angada; *aajaghaana* = struck; *asya baahum*
+= his arm; *sanistrimsham* = holding the sword; *muShTinaa* = with his fist;
+*ghaatena* = by the blow; *vaaliputrasya* = of Angada; *saH asiH* = that
+sword; *papaata* = fell; *kShitau* = on the ground.
+
+**अनुवादः**
+
+Angada struck, with his fist, the arm of Prajangha, holding the sword. By that blow,
+the sword fell on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
@@ -2298,6 +2298,28 @@ _________________
 
 **पदच्छेदः**
 
+*52. samprekShya* = seeing; *vaanarayuutham* = Angada; the
+monkey-chief; *aapatantam* = rushing upon him; *kumbhaH* = Kumbha; *vivyaadha*
+= pierced; *bhruvoH* = his brows; *baaNaabhyaam* = his arrows; *kuNjaram iva*
+= as an elephant is struck; *ulkaabhyaam* = with flaming torches.
+
+**अनुवादः**
+
+Seeing Angada the monkey-chief rushing upon him, Kumbha pierced his brows with his
+brows with his arrows, as an elephant would be struck with flaming torches.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अङ्गदन हुब्बुगळिन्द रक्तहरिदु कण्णुकाणदायितु. आग अवनु ऒन्दु कैयिन्द रक्तदिन्द तॊय्द तन्न कण्णुगळन्नु मुच्चिकॊण्डु, इन्नॊन्दु कैयिन्द पक्कदल्लॆ इद्द तालवृक्षवन्नु हिडिदु, ऎदॆयिन्द ऒत्ति आ वृक्षवन्नु बग्गिसि आ समरदल्लि ऒन्दे कैयिन्द कित्तुकॊण्डनु.॥52-54॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *53. tasya* = Angada's; *rudhiram* = blood; *susraava* =
 oozed out; *asya* = his; *lochane* = eyes; *pihite cha* = were covered with
 blood; *pidhaaya* = covering; *netra* = his eyes; *rudhirokShite* = dampened
@@ -2314,11 +2336,6 @@ hand.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अङ्गदन हुब्बुगळिन्द रक्तहरिदु कण्णुकाणदायितु. आग अवनु ऒन्दु कैयिन्द रक्तदिन्द तॊय्द तन्न कण्णुगळन्नु मुच्चिकॊण्डु, इन्नॊन्दु कैयिन्द पक्कदल्लॆ इद्द तालवृक्षवन्नु हिडिदु, ऎदॆयिन्द ऒत्ति आ वृक्षवन्नु बग्गिसि आ समरदल्लि ऒन्दे कैयिन्द कित्तुकॊण्डनु.॥52-54॥
-</details>
-
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
 
 **पदच्छेदः**
@@ -2333,23 +2350,6 @@ it.
 
 In the battle-field, propping that tree with branches and all, on his chest, holding
 it with his hand and bending a little, Angada uprooted it from the ground.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*52. samprekShya* = seeing; *vaanarayuutham* = Angada; the
-monkey-chief; *aapatantam* = rushing upon him; *kumbhaH* = Kumbha; *vivyaadha*
-= pierced; *bhruvoH* = his brows; *baaNaabhyaam* = his arrows; *kuNjaram iva*
-= as an elephant is struck; *ulkaabhyaam* = with flaming torches.
-
-**अनुवादः**
-
-Seeing Angada the monkey-chief rushing upon him, Kumbha pierced his brows with his
-brows with his arrows, as an elephant would be struck with flaming torches.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
@@ -3028,23 +3028,6 @@ _________________
 
 **पदच्छेदः**
 
-*70. sahamaanaH* = enduring; *taan* = those; *sharaan* =
-arrows; *vidhyamaanaH* = being hit; *saH* = Sugreeva; *aakShipya* = taking
-away; *Kumbha dhanuH* = Kumbha's bow; *indra dhanuShprabham* = having the splendour
-of a rain-bow; *babhaN^ja* = broke it; *sahasaa* = all at once.
-
-**अनुवादः**
-
-Enduring those arrows being hit, Sugreeva snatched away Kumbha's bow, possessing the
-splendour of a rain-bow and broke it all at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *69. dR^iSTvaa* = seeing; *tat* = that; *druma varSham* =
 shower of trees; *bhinnam* = chopped off; *kumbhena* = by Kumbha;
 *mahaasattvaH* = the mighty; *shriimaan* = and illustrious; *vaanaraadhipatiH*
@@ -3054,6 +3037,23 @@ shower of trees; *bhinnam* = chopped off; *kumbhena* = by Kumbha;
 
 Seeing that shower of trees chopped off by Kumbha, the mighty and illustrious
 Sugreeva of valour was not disturbed.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*70. sahamaanaH* = enduring; *taan* = those; *sharaan* =
+arrows; *vidhyamaanaH* = being hit; *saH* = Sugreeva; *aakShipya* = taking
+away; *Kumbha dhanuH* = Kumbha's bow; *indra dhanuShprabham* = having the splendour
+of a rain-bow; *babhaN^ja* = broke it; *sahasaa* = all at once.
+
+**अनुवादः**
+
+Enduring those arrows being hit, Sugreeva snatched away Kumbha's bow, possessing the
+splendour of a rain-bow and broke it all at once.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
@@ -3089,6 +3089,24 @@ Sugreeva of valour was not disturbed.
 
 **पदच्छेदः**
 
+*71. tataH* = then; *shiighram* = swiftly; *avaplutya* =
+bouncing; *kR^itvaa* = and doing; *suduShkaram karma* = that most difficult act;
+*kupitaH* = the enraged Sugreeva; *abraviit* = spoke; *Kumbha* = to Kumbha;
+*dvipam iva* = who was looking like an elephant; *bhagna shR^iN^gam* = whose tusk was
+broken.
+
+**अनुवादः**
+
+Thus bouncing swiftly and doing that most difficult task, the enraged Sugreeva spoke
+(as follows) to Kumbha, who was looking like an elephant with a broken tusk.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *72. nikumbhaagraja* = O Kumbha; the elder brother of Nikumbha!;
 *te* = your; *viiryam* = prowess; *adbhutam* = is wonderful; baaNavegavat;
 like the swiftness of an arrow; *samnatishcha* = the complaisance towards demons;
@@ -3100,24 +3118,6 @@ vaa* = or even with Ravana.
 "O Kumbha, the elder brother of Nikumbha! Both your prowess and the swiftness of
 your arrow are wonderful. Both Ravana and you are equal in complaisance towards demons and the
 majesty too exists.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*71. tataH* = then; *shiighram* = swiftly; *avaplutya* =
-bouncing; *kR^itvaa* = and doing; *suduShkaram karma* = that most difficult act;
-*kupitaH* = the enraged Sugreeva; *abraviit* = spoke; *Kumbha* = to Kumbha;
-*dvipam iva* = who was looking like an elephant; *bhagna shR^iN^gam* = whose tusk was
-broken.
-
-**अनुवादः**
-
-Thus bouncing swiftly and doing that most difficult task, the enraged Sugreeva spoke
-(as follows) to Kumbha, who was looking like an elephant with a broken tusk.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>
@@ -3850,23 +3850,6 @@ that bursts up on Mount Meru, was born out of a stroke of lightning.
 
 **पदच्छेदः**
 
-*91. viiryavaan* = the valiant; *saH* = Sugreeva;
-*paatayaamaasa* = forcefully descended; *muShTim* = his fist; *archiH sahasra
-vikacha ravimaN^Dala varchasam* = which shone like the solar disc encircled by a thousand rays;
-*urasi* = on the breast; *kumbhasya* = of Kumbha.
-
-**अनुवादः**
-
-The valiant Sugreeva forcefully descended his fist, which shone like the solar disc
-encircled by a thousand rays, on the breast of Kumbha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *90. saH* = that; *mahaabala* = mighty; *sugriivaH* =
 Sugreeva; *vaanara shreShThah* = the foremost of monkeys; *abhihataH* = struck;
 *tatra* = there; *tena* = by him; *samvartayaamaasa* = tightened;
@@ -3876,6 +3859,23 @@ Sugreeva; *vaanara shreShThah* = the foremost of monkeys; *abhihataH* = struck;
 
 Thus struck by Kumbha there, that mighty Sugreeva, the chief of monkeys, tightened
 his fist which appeared like a thunderbolt.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*91. viiryavaan* = the valiant; *saH* = Sugreeva;
+*paatayaamaasa* = forcefully descended; *muShTim* = his fist; *archiH sahasra
+vikacha ravimaN^Dala varchasam* = which shone like the solar disc encircled by a thousand rays;
+*urasi* = on the breast; *kumbhasya* = of Kumbha.
+
+**अनुवादः**
+
+The valiant Sugreeva forcefully descended his fist, which shone like the solar disc
+encircled by a thousand rays, on the breast of Kumbha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm)
 </details>

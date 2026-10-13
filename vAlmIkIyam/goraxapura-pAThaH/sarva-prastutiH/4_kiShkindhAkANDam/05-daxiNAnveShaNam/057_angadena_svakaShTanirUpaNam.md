@@ -401,24 +401,6 @@ brother Lakshmana and even with his wife Vaidehi... [4-57-7, 8]
 
 **पदच्छेदः**
 
-*10b, c. raavaNam vi ratham kR^itvaa* = Ravana is, without [defective,]
-chariot, on making; *sthaapayitvaa ca maithiliim* = on holding over, even, Maithili [from
-abduction]; *pari shraantaH ca* = overly, tired, also; *vR^iddhaH ca* = being old;
-*raNe raavaNena hataH* = in confrontation, by Ravana, killed.
-
-**अनुवादः**
-
-"Jatayu is overly tired when he made Ravana's chariot defective and withheld
-Maithili from abduction as he is senescent, then Ravana killed him in that conflict... [4-57-10b,
-c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *9, 10a: tasya bhaaryaa* = his, wife; *janasthaanaat raavaNena*
 = from Janasthaana, by Ravana; *balaat hR^itaa* = forcibly, is abducted; *raamasya pituH
 mitram* = Rama's, father's, friend; *jaTaayuH naama gR^idhra raaT* = Jataayu, named,
@@ -430,6 +412,24 @@ abducted, princess from Videha kingdom; at Seetha; *dadarsha* = saw.
 "Ravana forcibly abducted his wife from Janasthaana, namely Seetha, the princess
 from Videha kingdom, and a kingly eagle named Jataayu, who is a friend of Rama's father Dasharatha,
 has seen her while she was being abducted by skyway. [4-57-9, 10a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10b, c. raavaNam vi ratham kR^itvaa* = Ravana is, without [defective,]
+chariot, on making; *sthaapayitvaa ca maithiliim* = on holding over, even, Maithili [from
+abduction]; *pari shraantaH ca* = overly, tired, also; *vR^iddhaH ca* = being old;
+*raNe raavaNena hataH* = in confrontation, by Ravana, killed.
+
+**अनुवादः**
+
+"Jatayu is overly tired when he made Ravana's chariot defective and withheld
+Maithili from abduction as he is senescent, then Ravana killed him in that conflict... [4-57-10b,
+c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm)
 </details>

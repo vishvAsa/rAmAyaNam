@@ -790,6 +790,23 @@ _________________
 
 **पदच्छेदः**
 
+*17. saH* = that Indrajit; *dR^iDha vikramaH* = of firm
+fortitude; *abhisamvR^itaH svasainyena* = accompanied by his army; *avasR^ijan* =
+releasing; *sharaughaan* = a multitude of arrows; *jaghaana* = killed;
+*subahuun* = very many number of; *kapishaarduulaan* = excellent monkeys.
+
+**अनुवादः**
+
+That Indrajit, of firm fortitude, accompanied by his army, by releasing a multitude
+of arrows, killed a very many number of monkeys.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *18. aahave* = in the battle; *tasya te anucharaaH api* = his
 followers too; *jaghnuH* = killed; *vaanaraan* = the monkeys; *shuulaiH* =
 with spikes; *ashanibhiH* = tips of missiles; *khaDGaiH* = swords;
@@ -800,23 +817,6 @@ to mallets.
 
 In the battle, Indrajit's soldiers too killed the monkeys with spikes tips of
 missiles, swords, sharp-edged spears and concealed weapons similar to mallets.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*17. saH* = that Indrajit; *dR^iDha vikramaH* = of firm
-fortitude; *abhisamvR^itaH svasainyena* = accompanied by his army; *avasR^ijan* =
-releasing; *sharaughaan* = a multitude of arrows; *jaghaana* = killed;
-*subahuun* = very many number of; *kapishaarduulaan* = excellent monkeys.
-
-**अनुवादः**
-
-That Indrajit, of firm fortitude, accompanied by his army, by releasing a multitude
-of arrows, killed a very many number of monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>
@@ -1158,23 +1158,6 @@ _________________
 
 **पदच्छेदः**
 
-*27. samutthitaH* = swollen up; *homashoNita tarpitaH* = when
-propitiated with oblations of blood; *sutivraH* = the highly intense; *agniH* = fire;
-*sandhyaagata aadityaH iva* = like the evening sun; *dadR^ishe* = appeared;
-*archiH pinaddhaH* = wrapped in flames.
-
-**अनुवादः**
-
-Swollen up when propitiated with oblations of blood, the highly intense fire, like
-the evening sun, appeared wrapped in flames.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 25; *26. adhiShThaaya* = arriving at; *nikumbhilaam* =
 Nikumbhila; *indrajit* = Indrajit; *juhaava paavakam* = poured oblations into the
 sacred fire; *tataH* = thereupon; *huuyamaanaH* = while being propitiated; *tena
@@ -1188,6 +1171,23 @@ that occasion.
 Arriving at Nikumbhila, Indrajit poured oblations into the sacred fire. Thereupon,
 while being propitiated by that demon on reaching sacrificial ground, the sacrificial fire then
 blazed up on consuming the oblations of flesh and blood.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. samutthitaH* = swollen up; *homashoNita tarpitaH* = when
+propitiated with oblations of blood; *sutivraH* = the highly intense; *agniH* = fire;
+*sandhyaagata aadityaH iva* = like the evening sun; *dadR^ishe* = appeared;
+*archiH pinaddhaH* = wrapped in flames.
+
+**अनुवादः**
+
+Swollen up when propitiated with oblations of blood, the highly intense fire, like
+the evening sun, appeared wrapped in flames.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga82/yuddhasans82.htm)
 </details>

@@ -286,23 +286,6 @@ clerics, quickly.." [1-8-3,4]
 
 **पदच्छेदः**
 
-*7. dharmaatmaa raajaa dasharathaH* = virtuous king, Dasharatha; *tadaa* = then;
-*taan puujayitvaa* = on adoring them; *idam* = this;
-*dharmaarthasahitam* = having justification and meaning;
-*shlakSNam vacanam abraviit* = spoke impressible sentence.
-
-**अनुवादः**
-
-Then on adoring them virtuous King Dasharatha spoke this impressible sentence that included
-justification and meaning. [1-8-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *5. tataH* = then; *tvaritavikramaH* = dauntless in quickness;
 *sumantraH* = Sumantra; *tvaritam gatvaa* = quickly, gone;
 *suyaj~nam* = Suyajna; *vaamadevam* = Vaama Deva; *ca* = also;
@@ -317,6 +300,23 @@ justification and meaning. [1-8-7]
 Then Sumantra gone quickly, for he in quickness is a dauntless one, and fetched all of the clerics like
 Suyajna, Vaama Deva, Jaabala, Kashyapa, and even Sage Vashishta, and also those other eminent Brahman that are Vedic
 scholars. [1-8-5,6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. dharmaatmaa raajaa dasharathaH* = virtuous king, Dasharatha; *tadaa* = then;
+*taan puujayitvaa* = on adoring them; *idam* = this;
+*dharmaarthasahitam* = having justification and meaning;
+*shlakSNam vacanam abraviit* = spoke impressible sentence.
+
+**अनुवादः**
+
+Then on adoring them virtuous King Dasharatha spoke this impressible sentence that included
+justification and meaning. [1-8-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
@@ -502,6 +502,23 @@ have blessed and honoured him, saying that "splendid is this idea..." thus, for 
 
 **पदच्छेदः**
 
+*11. sarve* = all of them; *paramapriitaaH* = very happy; *dasharatham* = to
+Dasharatha; *vacaH* = these words; *uucuH ca* = they said, also;
+*sambhaaraaH* = paraphernalia; *sambhriyantaam* = be provided;
+*te turagaashca vimucyataam* = your, horse, also, be released.
+
+**अनुवादः**
+
+All of them becoming happy have also said to King Dasharatha, "let the paraphernalia be provided, and
+your ritual-horse be released... [1-8-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12, 13a. paarthiva* = oh king; *sarvathaa* = by all means; *praapsyase* = you will
 beget; *abhipretaan ca* = as you desired; *putraan* = sons;
 *sarayvaaH ca uttare tiire* = on northern banks of River Sarayu;
@@ -514,23 +531,6 @@ itself to beget sons.
 "Oh, king, by all means you will beget sons as you desired, since you, to whom an upright thinking has
 suggested itself... let the ritual ground be arranged on the northern banks of River Sarayu..." So said the scholars.
 [1-8-12, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11. sarve* = all of them; *paramapriitaaH* = very happy; *dasharatham* = to
-Dasharatha; *vacaH* = these words; *uucuH ca* = they said, also;
-*sambhaaraaH* = paraphernalia; *sambhriyantaam* = be provided;
-*te turagaashca vimucyataam* = your, horse, also, be released.
-
-**अनुवादः**
-
-All of them becoming happy have also said to King Dasharatha, "let the paraphernalia be provided, and
-your ritual-horse be released... [1-8-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
@@ -588,19 +588,18 @@ _________________
 
 **पदच्छेदः**
 
-*16. shaantayaH ca api* = peace invocations, also, even; *vardhantaam* = be prevailing;
-*yathaakalpam* = as ordained [by tradition]; *yathaavidhi* = as per scriptures;
-*ayam yaj~naH* = this, ritual; *kaSTaH aparaadhaH* = difficult, fault;
-*yadi* = if; *na bhavet* = not occurs;
-*asmin* = in that; *kratusattame* = the great ritual;
-*sarveNa api mahiikSitaa* = even by all kings on earth;
-*shakyaH praaptum* = possible, to obtain [to perform and obtain results.]
+*13b. 14. tataH* = then; *raajaa* = king;
+*tat dvijabhaaSitam shrutvaa* = on hearing that Brahmans' saying; *tuSTaH abhavat* = glad, he became;
+*raajaa* = king; *harSaparyaakulekSaNaH* = happiness lurching on eyes;
+*amaatyaan abraviit* = spoke to ministers; *iha me guruuNaam
+vacanaat* = now, on my, teacher's, advise;
+*sambhaaraaH sambhriyantaam* = paraphernalia, be procured.
 
 **अनुवादः**
 
-"Let peace invocations be prevailing and prospering, as ordained in the scriptures and tradition...if it
-is possible for the correct performance to obtain results of this ritual, and if it is possible to conduct this ritual
-without any difficult faults during its performance, then all the kings on earth would have performed it... [1-8-16]
+" Then King Dasharatha is gladdened on hearing the sayings of those Brahmans. And with happiness
+lurching on his eyes the king spoke to the ministers, "As advised by my Vedic teachers let the paraphernalia be
+procured... [1-8-13b, 14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>
@@ -632,6 +631,27 @@ monitored by capable warriors, along with the religious teachers..." So said the
 
 **पदच्छेदः**
 
+*16. shaantayaH ca api* = peace invocations, also, even; *vardhantaam* = be prevailing;
+*yathaakalpam* = as ordained [by tradition]; *yathaavidhi* = as per scriptures;
+*ayam yaj~naH* = this, ritual; *kaSTaH aparaadhaH* = difficult, fault;
+*yadi* = if; *na bhavet* = not occurs;
+*asmin* = in that; *kratusattame* = the great ritual;
+*sarveNa api mahiikSitaa* = even by all kings on earth;
+*shakyaH praaptum* = possible, to obtain [to perform and obtain results.]
+
+**अनुवादः**
+
+"Let peace invocations be prevailing and prospering, as ordained in the scriptures and tradition...if it
+is possible for the correct performance to obtain results of this ritual, and if it is possible to conduct this ritual
+without any difficult faults during its performance, then all the kings on earth would have performed it... [1-8-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *17. atra* = therein the ritual; *vidvaamsaH brahmaraakSasaaH* = scholarly
 Brahmans [who became] Brahma-demons; *Chidram hi mR^igayante* = they hunt for faults, alone, ;
 *vidhihiinasya* = depraved procedure; *yaj~nasya* = ritual's;
@@ -641,26 +661,6 @@ Brahmans [who became] Brahma-demons; *Chidram hi mR^igayante* = they hunt for fa
 
 "Scholarly Brahma-demons will be hunting for the faults alone in the course of this ritual... should the
 procedure of this ritual be depraved of its set rules, the performer gets ruined... [1-8-17]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*13b. 14. tataH* = then; *raajaa* = king;
-*tat dvijabhaaSitam shrutvaa* = on hearing that Brahmans' saying; *tuSTaH abhavat* = glad, he became;
-*raajaa* = king; *harSaparyaakulekSaNaH* = happiness lurching on eyes;
-*amaatyaan abraviit* = spoke to ministers; *iha me guruuNaam
-vacanaat* = now, on my, teacher's, advise;
-*sambhaaraaH sambhriyantaam* = paraphernalia, be procured.
-
-**अनुवादः**
-
-" Then King Dasharatha is gladdened on hearing the sayings of those Brahmans. And with happiness
-lurching on his eyes the king spoke to the ministers, "As advised by my Vedic teachers let the paraphernalia be
-procured... [1-8-13b, 14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga8/balasans8.htm)
 </details>

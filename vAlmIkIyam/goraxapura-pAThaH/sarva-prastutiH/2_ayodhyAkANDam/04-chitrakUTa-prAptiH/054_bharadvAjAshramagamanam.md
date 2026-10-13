@@ -623,24 +623,6 @@ _________________
 
 **पदच्छेदः**
 
-*14. iyam* = "here is" mama = my; *kalyaaNii* = blessed;
-*aninditaa* = and irreproachable; *bharyaa* = wife; *vaidehi* = Seetha;
-*janakaatmajaa* = daughter of Janaka; *anuyataa* = who has accompanied; *maam*
-= me; *vijanam* = to the lonely; *tapovanam* = forest suitable for religious
-austerities"
-
-**अनुवादः**
-
-"Here is my blessed and irreproachable wife Seetha, daughter of Janaka who has
-accompanied me to the lonely forest suitable for religious austerities."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *13. lakshmaNapuurvajaH* = Rama(the elder brother of Lakshmana);
 *nyavedayata* = introduced; *aatmaanam* = himself; *tasmai* = to the sage (as
 follows:); *bhagavan* = Oh; *venerable sage! avaam* = we both;
@@ -651,6 +633,24 @@ follows:); *bhagavan* = Oh; *venerable sage! avaam* = we both;
 
 Rama (the elder brother of Lakshmana) introduced himself to the sage as follows: "Oh
 venerable sage! We both are Rama and Lakshmana the sons of Dasaratha."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. iyam* = "here is" mama = my; *kalyaaNii* = blessed;
+*aninditaa* = and irreproachable; *bharyaa* = wife; *vaidehi* = Seetha;
+*janakaatmajaa* = daughter of Janaka; *anuyataa* = who has accompanied; *maam*
+= me; *vijanam* = to the lonely; *tapovanam* = forest suitable for religious
+austerities"
+
+**अनुवादः**
+
+"Here is my blessed and irreproachable wife Seetha, daughter of Janaka who has
+accompanied me to the lonely forest suitable for religious austerities."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
@@ -894,24 +894,6 @@ prepared from wild roots and fruits and also arranged accommodation for them.
 
 **पदच्छेदः**
 
-*20. saH bharadvaajaH* = that Bharadwaja; *abraviit* = said;
-*idam vaakyam* = these words; *dharmayuktam* = endowed with righteousness;
-*tadaa* = then; *raaghavam* = to Rama; *upavishhTam* = who had since taken his
-seat; *pratigR^ihya* = after accepting; *taam* = that; *archaam* =
-hospitality.
-
-**अनुवादः**
-
-Bharadwaja then said these endowed with righteousness to Rama, who had since taken
-his seat after accepting the aforesaid hospitality:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19. abhyarchya* = honouring; *svaagatena* = with words of
 welcome; *muniH* = the sage Bhardwaja; *aasiinaH* = seated; *samantataH* =
 being surrounded on all sides; *mR^igapakshhibhiH* = with beats; birds;
@@ -922,6 +904,24 @@ follows)
 
 Honouring with words of welcome, the sage Bharadwaja seated, being surrounded on all
 sides with beasts, birds and hermits, spoke thus to Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. saH bharadvaajaH* = that Bharadwaja; *abraviit* = said;
+*idam vaakyam* = these words; *dharmayuktam* = endowed with righteousness;
+*tadaa* = then; *raaghavam* = to Rama; *upavishhTam* = who had since taken his
+seat; *pratigR^ihya* = after accepting; *taam* = that; *archaam* =
+hospitality.
+
+**अनुवादः**
+
+Bharadwaja then said these endowed with righteousness to Rama, who had since taken
+his seat after accepting the aforesaid hospitality:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>
@@ -1878,23 +1878,6 @@ bountiful with tubers and fruits."
 
 **पदच्छेदः**
 
-*42. charataH* = Roaming about; *siitayaa saartham* = with
-Seetha; *tava* = your; *manaH* = mind; *nandishhyati* = will be delighted(to
-see) saritprasravaNaprasthaan = rivers; cascades; peaks of mountains; *dariikandara
-nirjharaan* = fissures in rocks; caves and rivulets.
-
-**अनुवादः**
-
-"Roaming about with Seetha, your mind will be delighted to see rivers, cascades,
-peaks of mountains, fissures in rocks, caves and rivulets."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *41.kiNjarayuuthami* = (since) herds of elephants;
 *mR^igayuuthani* = and troops of deer; *vicharanti* = wander; *abhitaH* = all
 around; *vanaante* = in the woodlands; *tatra* = there; *drakshhyasi* = you
@@ -1904,6 +1887,23 @@ will visibly notice; *taani* = them; *raaghava* = Oh rama!
 
 "Since herds of elephants and troops of deer wander all around in the woodlands
 there, you will visibly notice them Oh Rama!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. charataH* = Roaming about; *siitayaa saartham* = with
+Seetha; *tava* = your; *manaH* = mind; *nandishhyati* = will be delighted(to
+see) saritprasravaNaprasthaan = rivers; cascades; peaks of mountains; *dariikandara
+nirjharaan* = fissures in rocks; caves and rivulets.
+
+**अनुवादः**
+
+"Roaming about with Seetha, your mind will be delighted to see rivers, cascades,
+peaks of mountains, fissures in rocks, caves and rivulets."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhyasans54.htm)
 </details>

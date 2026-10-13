@@ -1448,6 +1448,23 @@ _________________
 
 **पदच्छेदः**
 
+*32. tat* = that; *samutthena shokena* = well- high, surging,
+anguish; *baaSpa upahata cetasam* = by tears, marred, with a bosom; *nishaasu shayanam
+gatam* = in nights, to bed, on going; *tam* = him; *nidraa na aavivesha* = sleep,
+has not, taken hold of - ineffective.
+
+**अनुवादः**
+
+That anguish which is surging high in him has rendered him with a bosom marred with
+tears, thereby sleep has no effect on him even if he has gone to bed in nights. [4-27-32]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *33. shocamaanam* = he who is pensive; *nityam shoka paraayaNam*
 = always, to grief, who is subjected to; *tam kaakutstham* = him, that Rama;
 *anunayan* = while pacifying; *tulya duHkhaH* = one who is - similarly, sad - for his
@@ -1458,23 +1475,6 @@ said.
 
 While pacifying Rama who is pensive and who is always subjected to grief, his
 brother Lakshmana who is similarly sad for his brother's sadness spoke these words. [4-27-33]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*32. tat* = that; *samutthena shokena* = well- high, surging,
-anguish; *baaSpa upahata cetasam* = by tears, marred, with a bosom; *nishaasu shayanam
-gatam* = in nights, to bed, on going; *tam* = him; *nidraa na aavivesha* = sleep,
-has not, taken hold of - ineffective.
-
-**अनुवादः**
-
-That anguish which is surging high in him has rendered him with a bosom marred with
-tears, thereby sleep has no effect on him even if he has gone to bed in nights. [4-27-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga27/kishkindhasans27.htm)
 </details>

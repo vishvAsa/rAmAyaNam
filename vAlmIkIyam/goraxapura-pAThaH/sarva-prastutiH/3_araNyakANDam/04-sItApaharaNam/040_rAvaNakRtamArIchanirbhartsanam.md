@@ -262,23 +262,6 @@ destroy me in war' will be the meaning, as per Eastern recension.
 
 **पदच्छेदः**
 
-*6. samyuge khara ghaatinaH* = in war, Khara, killer of; *tasya
-praaNaiH priya taraa siitaa* = than his, by lives, dear, more, Seetha; *tava sannidhau*
-= in your, presence - with your help; *avashyam mayaa hartavyaa* = certainly, by me, is to
-be stolen - seizable.
-
-**अनुवादः**
-
-"But his wife Seetha who is dearer to him more than his lives is certainly seizable
-by me in association with you, as that Rama had purposelessly killed Khara in a war. [3-40-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *5. yaH* = who is - which Rama is; *praakR^itam strii vaakyam
 shrutvaa* = artless, woman's, word, on hearing; *su hR^idaH* = good, hearted - friends
 and relatives; *raajyam* = kingdom; *maataram* = mother; *tathaa* = likewise;
@@ -291,6 +274,23 @@ nashakyaa* = you cannot scare me away from such a Rama.
 "He who bolted off to forest in a single-foot on hearing the artless words of a
 woman, forfeiting his kingdom, friends and relatives, and even his mother, likewise his father too,
 you cannot scare me away from such a Rama. [3-40-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. samyuge khara ghaatinaH* = in war, Khara, killer of; *tasya
+praaNaiH priya taraa siitaa* = than his, by lives, dear, more, Seetha; *tava sannidhau*
+= in your, presence - with your help; *avashyam mayaa hartavyaa* = certainly, by me, is to
+be stolen - seizable.
+
+**अनुवादः**
+
+"But his wife Seetha who is dearer to him more than his lives is certainly seizable
+by me in association with you, as that Rama had purposelessly killed Khara in a war. [3-40-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
@@ -620,6 +620,23 @@ _________________
 
 **पदच्छेदः**
 
+*12. a mita ojasaH* = not, limited in vigour - with infinite, vigour;
+*raajaanaH* = kings; *agneH indrasya somasya yamasya varuNasya ca* = of Fire, Indra
+[the Administrator of Natural Forces,] Moon, Terminator, Rain, also; *panca ruupaaNi
+dhaarayanti* = five, aspects - constituent forces, he bear - he embodies.
+
+**अनुवादः**
+
+"The kings with infinite vigour embody five constituents forces of Fire, Moon, Rain,
+Terminator, and that of Indra, the Administrator of Natural Forces. [3-40-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *13, 14a. kshaNadaa cara* = oh, night, walker Maareecha;
 *mahaataamnaH raajaanaH* = great-souls, kings; *auSNyam* = sultriness;
 *tathaa* = likewise; *vikramam ca* = sternness, also; *saumyam daNDam
@@ -642,23 +659,6 @@ with the king of kings, namely Ravana himself, which he says in next verse. A ki
 traits of the presiding deities of the compass, by virtue of his kingship, and the sages said the
 very same to Rama when he entered Dandaka forest. *anena agni aadi dik
 paalaka ruupatvaat raajaa puujyo maanyaH ca iti suucitam - dk* .
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*12. a mita ojasaH* = not, limited in vigour - with infinite, vigour;
-*raajaanaH* = kings; *agneH indrasya somasya yamasya varuNasya ca* = of Fire, Indra
-[the Administrator of Natural Forces,] Moon, Terminator, Rain, also; *panca ruupaaNi
-dhaarayanti* = five, aspects - constituent forces, he bear - he embodies.
-
-**अनुवादः**
-
-"The kings with infinite vigour embody five constituents forces of Fire, Moon, Rain,
-Terminator, and that of Indra, the Administrator of Natural Forces. [3-40-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>
@@ -709,24 +709,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. raakSasa* = oh, demon; *guNa doSau* = rights, wrongs;
-*aatmani* = for me; *[yat* = which is]; *kSamam ca* = expedient, also; *na
-pR^icChaami* = not, I asked; *a mita vikrama* = oh, one with not, limited, brave - oh,
-Maareecha untold bravery; *tvaam prati* = you, addressing [samprati = presently];
-*etaavat* = this much; *mayaa uktam api ca* = by me, said, but, also.
-
-**अनुवादः**
-
-"Oh, demon, I did not ask the rights and wrongs concerning me, nor that which is
-expedient for me, but oh, demon of untold bravery, I have said this much to you. [3-40-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14b, 15a. tvam tu* = you, on your part; *dharmam a vij~naaya* =
 rectitude, not, knowing - incognizant of; *kevalam moham aashritaH* = only, your obsession,
 holding on to; *abhi aagatam maam* = to your near, who came, with me; *daur aatmyaat*
@@ -738,6 +720,24 @@ babbling.
 "But you are ill-advisedly babbling with me in this way, incognizant of rectitude
 and holding on to your obsession, and wishing ill of me, as I am on your doorstep. [3-40-14b,
 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. raakSasa* = oh, demon; *guNa doSau* = rights, wrongs;
+*aatmani* = for me; *[yat* = which is]; *kSamam ca* = expedient, also; *na
+pR^icChaami* = not, I asked; *a mita vikrama* = oh, one with not, limited, brave - oh,
+Maareecha untold bravery; *tvaam prati* = you, addressing [samprati = presently];
+*etaavat* = this much; *mayaa uktam api ca* = by me, said, but, also.
+
+**अनुवादः**
+
+"Oh, demon, I did not ask the rights and wrongs concerning me, nor that which is
+expedient for me, but oh, demon of untold bravery, I have said this much to you. [3-40-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga40/aranyasans40.htm)
 </details>

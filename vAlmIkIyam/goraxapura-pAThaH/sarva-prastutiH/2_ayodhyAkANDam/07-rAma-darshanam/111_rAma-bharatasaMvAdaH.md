@@ -616,6 +616,24 @@ addressed the following words to Sumantra the charioteer who was standing nearby
 
 **पदच्छेदः**
 
+*13. saarathe* = O; charioteer!; *aastara* = spread;
+*kushaan* = the Kusha grass; *shiigram* = soon; *sthaN^Dile* = on the ground;
+*iha* = here; *me* = for me; *pratyupavekSyaami* = I shall remain facing;
+*aaryam* = my illustrious brother; *yaavat* = till; *na prasiidati me* = he
+does not get me propitiated.
+
+**अनुवादः**
+
+"O, charioteer! Spread speedily the Kusha grass on the ground here for me. I shall
+remain facing my illustrious brother till he gets propitiated (and grant my request)."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *14. sheSye* = I shall remain lying down; *purastaat* = in
 front; *shaalaayaaH* = of Rama's hut; *anaahaaraH* = withou food or drink;
 *niraalokaH* = and depriving myself of light; *yaavat* = until; *na
@@ -627,24 +645,6 @@ pratiyaasyati* = he does not return to Ayodhya; *dvijaH yathaa* = like a brahman
 "I shall remain lying down in front of Rama's hut without food or drink and
 depriving myself of light until he returns to Ayodhya, like a brahman who is a destitute (lies down
 at the door of his crditor)."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*13. saarathe* = O; charioteer!; *aastara* = spread;
-*kushaan* = the Kusha grass; *shiigram* = soon; *sthaN^Dile* = on the ground;
-*iha* = here; *me* = for me; *pratyupavekSyaami* = I shall remain facing;
-*aaryam* = my illustrious brother; *yaavat* = till; *na prasiidati me* = he
-does not get me propitiated.
-
-**अनुवादः**
-
-"O, charioteer! Spread speedily the Kusha grass on the ground here for me. I shall
-remain facing my illustrious brother till he gets propitiated (and grant my request)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>
@@ -1143,6 +1143,24 @@ _________________
 
 **पदच्छेदः**
 
+*24. atha* = thereafter; *bharataH* = Bharata; *utthaaya*
+= rose; *spR^iSTvaa* = touched; *jalam* = water; *abraviit* = and spoke;
+*vaakyam* = (the following) words; *pariSadaH* = (Let) the audience;
+*mantriNaH* = ministers; *tathaa* = and; *shrNayaH* = the guild of traders;
+*shruNvantu* = hear; *me* = me.
+
+**अनुवादः**
+
+Thereafter, Bharata rose, touched water and spoke as follows: "Let the audience,
+including ministers and the guild of traders hear me also."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *25. na yaache* = I never asked; *pitaram* = my father;
 *raajyam* = for the kingdom; *naanushaasaami* = nor did I counsel; *maataram*
 = my mother (to enthrone me); *naanujaanaami* = I never gave my approval; (for the exile of
@@ -1154,24 +1172,6 @@ his duty very well.
 "I never asked my father for the kingdom, nor did I counsel my mother to enthrone
 me. I never gave my approval for the exile of Rama, the venerable hero, who knows his duty very
 well."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*24. atha* = thereafter; *bharataH* = Bharata; *utthaaya*
-= rose; *spR^iSTvaa* = touched; *jalam* = water; *abraviit* = and spoke;
-*vaakyam* = (the following) words; *pariSadaH* = (Let) the audience;
-*mantriNaH* = ministers; *tathaa* = and; *shrNayaH* = the guild of traders;
-*shruNvantu* = hear; *me* = me.
-
-**अनुवादः**
-
-Thereafter, Bharata rose, touched water and spoke as follows: "Let the audience,
-including ministers and the guild of traders hear me also."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga111/ayodhyasans111.htm)
 </details>

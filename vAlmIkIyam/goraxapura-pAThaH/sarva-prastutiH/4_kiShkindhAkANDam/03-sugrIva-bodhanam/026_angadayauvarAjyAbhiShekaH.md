@@ -68,23 +68,6 @@ as crown prince of Kishkindha. The regal splendour of the coronation is narrated
 
 **पदच्छेदः**
 
-*2. sarve* = all - monkeys; *pitaamaham R^iSayaH iva* = at Forefather - Brahma, sages, as with;
-*mahaabaahum* = at dexterous one; *a kliSTa kaariNam* = without, complication, deeds doer - effortless,
-adroit; *raamam* = Rama; *abhi gamya* = towards, on going; *praanjalayaH sthitaaH* = with
-palms-adjoined, they stood.
-
-**अनुवादः**
-
-On going towards the dexterous Rama, whose exploits are effortless, all of those monkeys tarried with their palms
-adjoined as with the sages tarrying in the presence of Brahma, the Forefather. [4-26-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1. tataH shoka abhi sam taptam* = then, in grief, very much, seared; *klinna vaasanam* = who is
 with damp, cloths; *sugriivam* = at Sugreeva; *shaakhaa mR^iga mahaamaatraaH* = tree-branch, animals',
 eminent, ministers; *parivaarya upatasthire* = arriving around, stood nearby - stood accessible to Sugreeva.
@@ -94,6 +77,23 @@ eminent, ministers; *parivaarya upatasthire* = arriving around, stood nearby - s
 The eminent ministers of tree-branch animals then surrounded Sugreeva, who is very much seared in grief and who
 is still wearing damp cloths, as he just a while ago offered watery oblations to his deceased brother, stood accessible
 to him. [4-26-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. sarve* = all - monkeys; *pitaamaham R^iSayaH iva* = at Forefather - Brahma, sages, as with;
+*mahaabaahum* = at dexterous one; *a kliSTa kaariNam* = without, complication, deeds doer - effortless,
+adroit; *raamam* = Rama; *abhi gamya* = towards, on going; *praanjalayaH sthitaaH* = with
+palms-adjoined, they stood.
+
+**अनुवादः**
+
+On going towards the dexterous Rama, whose exploits are effortless, all of those monkeys tarried with their palms
+adjoined as with the sages tarrying in the presence of Brahma, the Forefather. [4-26-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>
@@ -240,6 +240,25 @@ impossible for him to regain, Sugreeva regained such a kingdom with your grace. 
 
 **पदच्छेदः**
 
+*5b, 6. ayam* = he, this Sugreeva; *sa su hR^it gaNaH* = along with, good, hearted, friend's, groups;
+*bhavataa* = by you; *sam anuj~naataH* = well, authorized - if you permit, empower; *shubham
+nagaram pravishya* = propitious, city, on entering; *vividhaiH gandhaiH auSadhaiH ca* = with various,
+essences, herbal-extracts, also; *yathaa vidhi* = as per, procedure; *snaataH* = when anointed -
+as king; *sarvaaNi kaaryaaNi sam vidhaasyati* = all, activities, well, set right - he can revamp administration.
+
+**अनुवादः**
+
+"And if you empower, this Sugreeva will enter the propitious city Kishkindha along with a group good-hearted friends,
+and he will get anointed procedurally with various essences and herbal-extracts as its king, and thus he can revamp
+all the administration. [4-26-5b, 6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *7, 8a. maalyaiH ca ratnaiH ca* = with garlands, also, with precious gems, also -with best possible ;
 *visheSataH* = remarkably; *tvaam* = you; *arcayiSyati* = he honours; *tvam* = you;
 *ramyaam imaam giri guhaam* = delightful one, in this, mountain, cave [Kishkindha]; *abhi gantum arhasi*
@@ -253,25 +272,6 @@ consolidate; *sam pra harSayan* = for the very, high, exhilaration - of monkeys.
 to enter this delightful mountain cave, namely Kishkindha, and you may kindly consolidate the congenial affinity
 between the governor and the governed for the very high exhilaration of Vanara-s." Hanuma appealed Rama in this
 way. [4-26-7, 8a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*5b, 6. ayam* = he, this Sugreeva; *sa su hR^it gaNaH* = along with, good, hearted, friend's, groups;
-*bhavataa* = by you; *sam anuj~naataH* = well, authorized - if you permit, empower; *shubham
-nagaram pravishya* = propitious, city, on entering; *vividhaiH gandhaiH auSadhaiH ca* = with various,
-essences, herbal-extracts, also; *yathaa vidhi* = as per, procedure; *snaataH* = when anointed -
-as king; *sarvaaNi kaaryaaNi sam vidhaasyati* = all, activities, well, set right - he can revamp administration.
-
-**अनुवादः**
-
-"And if you empower, this Sugreeva will enter the propitious city Kishkindha along with a group good-hearted friends,
-and he will get anointed procedurally with various essences and herbal-extracts as its king, and thus he can revamp
-all the administration. [4-26-5b, 6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm)
 </details>

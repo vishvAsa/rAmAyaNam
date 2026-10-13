@@ -255,24 +255,6 @@ _________________
 
 **पदच्छेदः**
 
-*6. taata* = O; *father! Yasmin* = to which; *bhraatari*
-= brother; *raaghave* = Rama; *aham* = I; *nisR^ishhTaH* = have been
-entrusted; *tvayaa* = by you; *tasmin* = that Rama; *pravrajite* = having gone
-to exile; *vanam* = forest; *aham* = I; *asmi* = became; *tyaktaH* =
-abandoned; *shuunye* = wholly alone; *tvayaa* = by you.
-
-**अनुवादः**
-
-"O, father! My brother Rama to whose care I was entrusted by you, having gone on
-exile to the forest, I now become abandoned wholly alone, by you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 4; *5. tataH* = then; *prabhaata samaye* = at the time of dawn;
 *trayodashe* = on the thirteenth; *divase* = day; *mahaabaahuH* = the mighty
 armed; *bharataH* = Bharata; *upaagataH* = who came; *shodanaartham* = for
@@ -288,6 +270,24 @@ Then, at the time of dawn on the thirteenth day, the mighty armed Bharata who ca
 for clearing up bones and ashes, wept in grief, his throat being choked of sound (because of
 crying) and spoke in great distress the following words, having reached the foot of his father's
 funeral pile (to collect the bones and ashes for their immersion in Sarayu River).
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. taata* = O; *father! Yasmin* = to which; *bhraatari*
+= brother; *raaghave* = Rama; *aham* = I; *nisR^ishhTaH* = have been
+entrusted; *tvayaa* = by you; *tasmin* = that Rama; *pravrajite* = having gone
+to exile; *vanam* = forest; *aham* = I; *asmi* = became; *tyaktaH* =
+abandoned; *shuunye* = wholly alone; *tvayaa* = by you.
+
+**अनुवादः**
+
+"O, father! My brother Rama to whose care I was entrusted by you, having gone on
+exile to the forest, I now become abandoned wholly alone, by you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga77/ayodhyasans77.htm)
 </details>

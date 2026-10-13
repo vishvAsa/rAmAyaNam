@@ -413,23 +413,6 @@ _________________
 
 **पदच्छेदः**
 
-*9. saumitre* = O; Lakshmana!; *arhasi* = you ought to;
-*j^Naatum* = know; (whether); *raajaa vaa* = a king; *raaja putrovaa* = or a
-prince; *mR^igayaam aTate* = in roaming for a hunt; *vaa* = or; *anyat* = any
-other; *kiNchit* = somewhat; *shvaapadam* = savage beast.
-
-**अनुवादः**
-
-"O, Lakshmana! You ought to find out whether it is a king or a prince roaming for a
-hunt or some other savage beast."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. gajayuuthaani* = The lordly elephants; *araNye* = in the
 forest; *mahiSaaHvaa* = the buffaloes; *mahaavane* = in the great woods;
 *mR^igaaH* = and the wild beasts; *vitraasitaaH* = frightened; *simhaiH* = by
@@ -440,6 +423,23 @@ various directions.
 
 "The lordly elephants in the forest, the buffaloes in the great woods and the wild
 beasts frightened by lions are suddenly running away in various directions."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. saumitre* = O; Lakshmana!; *arhasi* = you ought to;
+*j^Naatum* = know; (whether); *raajaa vaa* = a king; *raaja putrovaa* = or a
+prince; *mR^igayaam aTate* = in roaming for a hunt; *vaa* = or; *anyat* = any
+other; *kiNchit* = somewhat; *shvaapadam* = savage beast.
+
+**अनुवादः**
+
+"O, Lakshmana! You ought to find out whether it is a king or a prince roaming for a
+hunt or some other savage beast."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>
@@ -1024,24 +1024,6 @@ itself, fully prepared with our weapons in our hands."
 
 **पदच्छेदः**
 
-*22. he viiraH* = O; Warrior!; *raaghava* = O; Rama!;
-*yannimittam* = by the reason of whom; *bhavaan* = you; *chyutaH* = were
-deprived; *shaashvataat* = of an eternal; *raajyaat* = kingdom; *ayam* = such;
-*ariH* = an enemy; *bharataH* = Bharata; *sampraapataH* = who came here;
-*vadhya eva* = is to be slain; *me* = by me.
-
-**अनुवादः**
-
-"O, Rama the warrior! By the reason of whom you were deprived of an eternal kingdom,
-such Bharata as a foe who is coming here, deserves to be slain by me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *21. raaghavaH* = O; Rama!; *kovidaaradhvajaH* = will this flag
 with the insignia of a Kovidara tree; *apyaagachchhet* = come into our; *vasham* =
 subjugation?; *apidrakSyaami* = Can we see; *bharatam* = Bharata; *yatkR^ite*
@@ -1054,6 +1036,24 @@ cha* = by me.
 "O, Rama! Will that flag with the insignia of a Kovidara tree come into our
 subjugation? Can we see Bharata, because of whom a great misfortune has occurred to you, to Seetha
 and to me?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. he viiraH* = O; Warrior!; *raaghava* = O; Rama!;
+*yannimittam* = by the reason of whom; *bhavaan* = you; *chyutaH* = were
+deprived; *shaashvataat* = of an eternal; *raajyaat* = kingdom; *ayam* = such;
+*ariH* = an enemy; *bharataH* = Bharata; *sampraapataH* = who came here;
+*vadhya eva* = is to be slain; *me* = by me.
+
+**अनुवादः**
+
+"O, Rama the warrior! By the reason of whom you were deprived of an eternal kingdom,
+such Bharata as a foe who is coming here, deserves to be slain by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga96/ayodhyasans96.htm)
 </details>

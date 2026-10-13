@@ -318,23 +318,6 @@ Brahmans, and thus time will pass on with that kind of his conduct. [1-9-6]
 
 **पदच्छेदः**
 
-*8b, 9. tasya raaj~naH vyatikramaat* = his, that king's, violation of righteousness;
-*sughoraa* = very devastating; *sudaaruNaa* = verily shocking; *sarvabhuutabhayaavahaa*
-= frightening one to all living beings; *anaavR^iSTiH bhaviSyati*
-= famine, will be there.
-
-**अनुवादः**
-
-"But by a violation of righteousness of that king there will be a shocking and devastating
-famine in that country...[1-9-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *7, 8a. agnim* = to Sacrificial Fire; *shushruuShamaaNasya* = while in servitor-ship
 of; *pitaram cha* = to his father, also; *yashasvinam* = prosperous one; *
 etasmin eva* = in this, only; *kaale* = meantime; *prataapavaan* = valiant
@@ -347,6 +330,23 @@ one; *raajaa* = king; *romapaadaH* = Romapaada; *angeShu* = in Anga kingdom;
 Sage Rishyasringa looses no time with his servitor-ship to the Sacrificial Fire and also to
 his celebrated father, and during this period alone there will be a famed and very strong
 king Romapaada, a valiant in Anga country... [1-9-7, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8b, 9. tasya raaj~naH vyatikramaat* = his, that king's, violation of righteousness;
+*sughoraa* = very devastating; *sudaaruNaa* = verily shocking; *sarvabhuutabhayaavahaa*
+= frightening one to all living beings; *anaavR^iSTiH bhaviSyati*
+= famine, will be there.
+
+**अनुवादः**
+
+"But by a violation of righteousness of that king there will be a shocking and devastating
+famine in that country...[1-9-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
@@ -397,23 +397,6 @@ _________________
 
 **पदच्छेदः**
 
-10b, 11a. *bhavantaH* = all of you; *shrutadharmaaNaH* = well versed in rituals;
-*lokachaaritravedinaH* = knowers of world history; *samaadishantu*
-= order me; *yathaa* = as to how; *niyamam* = the procedure is; *praayashchittam*
-= for purification; *bhavet* = will be.
-
-**अनुवादः**
-
-"All of you are well versed in rituals and knowers of the world history... order me how to
-how the purification from sin will be... [1-9-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 9b, 10a.* anaavR^iSTyaam* = due to drought; *vR^ittaayaam* = [famine] while
 besetting; *raajaa* = the king; *duHkhasamanvitaH* = afflicted
 with grim; *braahmaNaan* = Brahmans; *shrutavriddhaan* = in scriptures well
@@ -424,6 +407,23 @@ versed ones[learned, scholars]; *samaaniiya* = on summoning; *pravakShyati*
 
 "While the famine is besetting that king Roamapada will be afflicted with grim, and on summoning
 Brahmans and learned scholars he will address them... [1-9-9b. 10a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+10b, 11a. *bhavantaH* = all of you; *shrutadharmaaNaH* = well versed in rituals;
+*lokachaaritravedinaH* = knowers of world history; *samaadishantu*
+= order me; *yathaa* = as to how; *niyamam* = the procedure is; *praayashchittam*
+= for purification; *bhavet* = will be.
+
+**अनुवादः**
+
+"All of you are well versed in rituals and knowers of the world history... order me how to
+how the purification from sin will be... [1-9-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>
@@ -492,25 +492,6 @@ Brahmans and learned scholars he will address them... [1-9-9b. 10a]
 
 **पदच्छेदः**
 
-13. *mahiipala* = oh king; *aanaayya* = on bringing; *R^iShyashR^ingam*= Rishyasringa;
-*vibhaaNDakasutam*= Vibhaandaka's son; *braahmaNam vedapaaragam*= Brahman,
-Veda scholar; *susatkR^itam*= well honoured one; *samaahitaH*= with good
-care; *kanyaam shaantaam vidhinaa prayacCha*= girl [daughter,] Shanta, procedurally,
-you give [in marriage.]
-
-**अनुवादः**
-
-"Oh! King, having brought Sage Rishyasringa and honouring him well with good care, procedurally
-give him your daughter Shanta in marriage to that Vedic Brahman and the son of Sage Vibhaandaka...
-[1-9-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 11b, 12.* iti uktavaa te raaj~naa* = thus, said by king to them;
 *sarve braahmaNasattamaaH* = to all those scholarly Brahmans; *vedapaaragaaH braahmaNaaH*
 = Veda scholars, Brahmans; *mahiipaalam* = to the king; *te vakShyanti* = they,
@@ -522,6 +503,25 @@ will say; *raajan* = oh king; *vibhaaNDakasutam* = Sage Vibhandaka's son;
 "Thus said by king those scholarly Brahmans and Vedic scholars will say to the king, 'oh,
 king, son of Sage Vibhaandaka, namely Rishyasringa, is to be fetched by all methods... [1-9-11b,
 12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+13. *mahiipala* = oh king; *aanaayya* = on bringing; *R^iShyashR^ingam*= Rishyasringa;
+*vibhaaNDakasutam*= Vibhaandaka's son; *braahmaNam vedapaaragam*= Brahman,
+Veda scholar; *susatkR^itam*= well honoured one; *samaahitaH*= with good
+care; *kanyaam shaantaam vidhinaa prayacCha*= girl [daughter,] Shanta, procedurally,
+you give [in marriage.]
+
+**अनुवादः**
+
+"Oh! King, having brought Sage Rishyasringa and honouring him well with good care, procedurally
+give him your daughter Shanta in marriage to that Vedic Brahman and the son of Sage Vibhaandaka...
+[1-9-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga9/balasans9.htm)
 </details>

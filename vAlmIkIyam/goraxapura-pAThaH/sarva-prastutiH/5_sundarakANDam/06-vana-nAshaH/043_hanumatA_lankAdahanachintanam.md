@@ -225,23 +225,6 @@ _________________
 
 **पदच्छेदः**
 
-*6. bhuutvaa* = becoming; *sumahaakaayaH* = one having a very big
-body; *prabhaavaat* = by dint of his distinction; *maarutaatmajaH* = Hanuma; *aasphoTayaamaasa*
-= clapped on his arms; *dhR^iSTam* = strongly; *puurayan* = filling; *laNKaam*
-= the city of Lanka; *shabdena* = with sound.
-
-**अनुवादः**
-
-Enhancing his body to a very big size by dint of his distinction, Hanuma clapped on his
-arms strongly, filling the City of Lanka with sound.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5. sampradhR^iSya cha* = overpowring; *uttamam chaitya praasaadam*
 = the lofty palatial mansion of the sanctuary; *durdharSam* = which was inviolable; *hanumaan*
 = Hanuma; *prajvalan* = blazing lakSmyaa = with splendour; *abhavat* = metamorphosed into;
@@ -251,6 +234,23 @@ arms strongly, filling the City of Lanka with sound.
 
 Overpowering the lofty and inviolable of the sanctuary, Hanuma blazing mansion his splendour,
 meta morposed into a towering sized body equal to that of Pariyatra mountain.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. bhuutvaa* = becoming; *sumahaakaayaH* = one having a very big
+body; *prabhaavaat* = by dint of his distinction; *maarutaatmajaH* = Hanuma; *aasphoTayaamaasa*
+= clapped on his arms; *dhR^iSTam* = strongly; *puurayan* = filling; *laNKaam*
+= the city of Lanka; *shabdena* = with sound.
+
+**अनुवादः**
+
+Enhancing his body to a very big size by dint of his distinction, Hanuma clapped on his
+arms strongly, filling the City of Lanka with sound.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
@@ -772,6 +772,23 @@ _________________
 
 **पदच्छेदः**
 
+*22. kechit* = some (of the monkeys); *dashanaaga balaaH* = are having
+a strength of ten elephants; *kechit* = some; *dashaguNottaraaH* = are having a strength
+of hundred elephants; *kechit* = some; *babhuuvuH* = are; *tulya vikramaaH* = having
+a prowess equal to; *naagasahasrasya* = that of a thousand elephants.
+
+**अनुवादः**
+
+"Some of the monkeys are having a strength of ten elephants. Some are having a strength
+of a hundred elephants. Some are having a prowess equal to that of a thousand elephants."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *23. kechit* = some; *santi* = are; *oghabalaaH* = having
 the strength of a strong stream kechit = some; *vaayubalopamaa* = have strength equal to that
 of wind; *anye* = some other; *hariyuutapaaH* = chiefs of army of monkeys; *tatra*
@@ -782,23 +799,6 @@ measured.
 
 "Some are having the strength of a strong stream. Some have strength equal to that of
 wind. Some other army-chiefs of monkeys even cannot be measured."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*22. kechit* = some (of the monkeys); *dashanaaga balaaH* = are having
-a strength of ten elephants; *kechit* = some; *dashaguNottaraaH* = are having a strength
-of hundred elephants; *kechit* = some; *babhuuvuH* = are; *tulya vikramaaH* = having
-a prowess equal to; *naagasahasrasya* = that of a thousand elephants.
-
-**अनुवादः**
-
-"Some of the monkeys are having a strength of ten elephants. Some are having a strength
-of a hundred elephants. Some are having a prowess equal to that of a thousand elephants."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>
@@ -872,24 +872,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. yasmaat* = for what reason; *vairam* = an enmity; *baddhaam*
-= was held; *mahaatmanaa ikSvaakunaathena* = with the high souled Rama; (for that reason);
-*iyam* = this; *laN^kaapurii* = City of Lanka; *naasti* = will not be there;
-*yuuyam* = you; *na* = will not exist; *raavaNaH chat* = even Ravana too; *na*
-= will not exist.
-
-**अनुवादः**
-
-"You hold enmity with the high souled Rama. For this, the City of Lanka will not be there.
-Neither you, nor even Ravana will survive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. vR^itaH* = surrounded by; *shataiH* = hundreds; *ayutaiH*
 = ten thousands; *shatasahasraiH* = laksha; *koTiibhiH* = and crores; *iidR^igvidhaiH
 haribhiH* = of such monkeys; *dantanakhaayudhaiH* = sugriivaH = Sugreeva; *niSuudanaH*
@@ -900,6 +882,24 @@ will come.
 
 "Surrounded by hundreds, myriads, lakhs and crores of such monkeys having their teeth
 and nails as their weapons, Sugreeva, who is capable of destroying you all, will come."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. yasmaat* = for what reason; *vairam* = an enmity; *baddhaam*
+= was held; *mahaatmanaa ikSvaakunaathena* = with the high souled Rama; (for that reason);
+*iyam* = this; *laN^kaapurii* = City of Lanka; *naasti* = will not be there;
+*yuuyam* = you; *na* = will not exist; *raavaNaH chat* = even Ravana too; *na*
+= will not exist.
+
+**अनुवादः**
+
+"You hold enmity with the high souled Rama. For this, the City of Lanka will not be there.
+Neither you, nor even Ravana will survive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga43/sundarasans43.htm)
 </details>

@@ -463,23 +463,6 @@ strength and broke that chariot too.
 
 **पदच्छेदः**
 
-*11. aajaghaana* = (He) stuck; *jaambavantam* = Jambavan;
-*R^ikSharaajam* = the king of bears; *tribhiH baaNaiH* = with three arrows;
-*stanaantare* = in his chest; *jaghaana* = and struck; *gavaakShamcha* =
-Gavanksha too; *bahubhiH sharaiH* = with many arrows.
-
-**अनुवादः**
-
-He struck Jambavan, the king of bears with three arrows in his chest and struck
-Gavaksha too with many arrows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *10. mahaabalaH* = the mighty; *mahaapaarshvaH* = Mahaparsva;
 *muhuurtaat* = within a while; *labdha samjJNaH* = regained his consciousness;
 *bhuuyaH* = again; *pratyavidhyata* = struck; *tam aN^gadam* = that Angada;
@@ -489,6 +472,23 @@ Gavaksha too with many arrows.
 
 Regaining his consciousness within a while, the mighty Mahaparshva again struck
 Angada with his many arrows.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. aajaghaana* = (He) stuck; *jaambavantam* = Jambavan;
+*R^ikSharaajam* = the king of bears; *tribhiH baaNaiH* = with three arrows;
+*stanaantare* = in his chest; *jaghaana* = and struck; *gavaakShamcha* =
+Gavanksha too; *bahubhiH sharaiH* = with many arrows.
+
+**अनुवादः**
+
+He struck Jambavan, the king of bears with three arrows in his chest and struck
+Gavaksha too with many arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga98/yuddhasans98.htm)
 </details>

@@ -405,6 +405,22 @@ _________________
 
 **पदच्छेदः**
 
+*9. tatra* = there; *dakSiNa tiire* = at the southern shore; *
+dakSiNasya samudrasya* = of the southern ocean; *vasati* = there is; *nagarii* = a
+city; *laNketi* = called Lanka; *duraatmanaH raavaNasya* = of the evil-minded Ravana.
+
+**अनुवादः**
+
+"There at the southern shore of the southern ocean, there is city called Lanka of the
+evil-minded Ravana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *10. raama* = O; Rama!; *tatra* = there; *dR^iSTaa* = it was
 seen; *mayaa* = by me; *raavaNaantaH pure* = in Ravana's gynaecium; *siitaa* =
 Seetha; *raamaa* = the lady; *satii* = and the virtuous wife; *jiivantii* = living;
@@ -414,22 +430,6 @@ Seetha; *raamaa* = the lady; *satii* = and the virtuous wife; *jiivantii* = livi
 
 "O Rama! There, living in Ravana's gynaecium in the city, I saw the lady Seetha, your
 virtuous wife, centering her heart's desire in you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*9. tatra* = there; *dakSiNa tiire* = at the southern shore; *
-dakSiNasya samudrasya* = of the southern ocean; *vasati* = there is; *nagarii* = a
-city; *laNketi* = called Lanka; *duraatmanaH raavaNasya* = of the evil-minded Ravana.
-
-**अनुवादः**
-
-"There at the southern shore of the southern ocean, there is city called Lanka of the
-evil-minded Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
@@ -676,23 +676,6 @@ _________________
 
 **पदच्छेदः**
 
-*18. puruSarSabha* = O foremost of men!; *mahaabhaagaa* = the illustrious;
-*janakanandinii* = Seetha; *dR^ShiTaa* = was seen; *evam* = thus; *mayaa*
-= by me; *(Seetha) yuktaa ugreNa tapasaa* = was endowed with severe penance; *tvadbhaktyaa*
-= and devotion towards you.
-
-**अनुवादः**
-
-"O, the foremost of men! I thus saw that illustrious Seetha, endowed with severe penance
-and devotion towards you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 16; *17. tataH* = thereafter; *devii* = Seetha the princess; *
 sambhaaSitaa* = was spoken; *darshitaa* = and explained; *sarvam artham* = about all
 the significance (of my arrival); *shrutvaa* = on hearing; *raama sugriivasakhyam* = about
@@ -705,6 +688,23 @@ the friendship between Rama and Sugreeva; *upaagataa* = she obtained; *priitim* 
 "Thereafter, I spoke and explained to Seetha, about the entire significance of my arrival
 there. On hearing about the alliance between Rama and Sugreeva, she was quite pleased. Her morality
 as well as her devotion in you are steadfast."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. puruSarSabha* = O foremost of men!; *mahaabhaagaa* = the illustrious;
+*janakanandinii* = Seetha; *dR^ShiTaa* = was seen; *evam* = thus; *mayaa*
+= by me; *(Seetha) yuktaa ugreNa tapasaa* = was endowed with severe penance; *tvadbhaktyaa*
+= and devotion towards you.
+
+**अनुवादः**
+
+"O, the foremost of men! I thus saw that illustrious Seetha, endowed with severe penance
+and devotion towards you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
@@ -888,15 +888,15 @@ _________________
 
 **पदच्छेदः**
 
-*24. dasharaatmaja* = O Rama!; *dhaarayiShyaami* = I shall be sustaining;
-*jiivitam* = my life; *maasam* = for a mouth; *aagataa* = having come into; *
-vasham* = the control; *rakShasaam* = of demons; *na jiivayam* = I cannot survive;
-*uurdhvam* = above; *maasaat* = one month.
+*21. sugriivasya* = (while) Sugreeva; *upashR^iNvataH* = is hearing;
+*bruvataa* = and while you are telling; *vachanaani* = the words; *evam* = in this
+way; *ayam cha* = (let) this jewel; *suparikShitaH yatnaat* = well-guarded deliberately;
+*pradaatavyaH ayam cha* = be given; *asmai* = to this Rama.
 
 **अनुवादः**
 
-"O Rama! I shall be sustaining my life for a month. Having come into the control of demons,
-I cannot survive beyond one month."
+"While Sugreeva is hearing nearby and while you are telling the words in this way, let
+this jewel, which is deliberately well-guarded, be given to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
@@ -929,15 +929,15 @@ my former mark on my forehead got effaced."
 
 **पदच्छेदः**
 
-*21. sugriivasya* = (while) Sugreeva; *upashR^iNvataH* = is hearing;
-*bruvataa* = and while you are telling; *vachanaani* = the words; *evam* = in this
-way; *ayam cha* = (let) this jewel; *suparikShitaH yatnaat* = well-guarded deliberately;
-*pradaatavyaH ayam cha* = be given; *asmai* = to this Rama.
+*24. dasharaatmaja* = O Rama!; *dhaarayiShyaami* = I shall be sustaining;
+*jiivitam* = my life; *maasam* = for a mouth; *aagataa* = having come into; *
+vasham* = the control; *rakShasaam* = of demons; *na jiivayam* = I cannot survive;
+*uurdhvam* = above; *maasaat* = one month.
 
 **अनुवादः**
 
-"While Sugreeva is hearing nearby and while you are telling the words in this way, let
-this jewel, which is deliberately well-guarded, be given to Rama."
+"O Rama! I shall be sustaining my life for a month. Having come into the control of demons,
+I cannot survive beyond one month."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>
@@ -980,23 +980,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. siitaa* = Seetha; *kR^isha aNgii* = with her emaciated body;
-*dharma chaariNii* = practising virtue; *ruddhaa* = confined; *raavaNaantaH pure*
-= in Ravana's gynaceium; *utphulla lochanaa* = with her wide-open eyes; *mR^igiiva* =
-like that of a doe; *abraviit* = spoke; *iti* = as following; *maam* = to me.
-
-**अनुवादः**
-
-"Seetha, with her emaciated body, practicing virtue, confined in Ravana's gynaecium and
-with her wide-open eyes like that of a doe, spoke to me the following words:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *23. eSaH shriimaan* = this beautiful jewel; *vaari sambhavaH* =
 which has its origin in sea-water; *niryaatitaH* = has been sent; *te* = to you; *dR^iSTvaa*
 = seeing; *etam* = this vyasahe = in my grief; *pramodiShye* = I am feeling happy; *
@@ -1006,6 +989,23 @@ tvaaniiva* = as though I am seeing you.
 
 "This beautiful jewel, which has its origin in sea-water, has been sent to you. Seeing
 this in my grief, I am feeling always happy as though I am seeing you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. siitaa* = Seetha; *kR^isha aNgii* = with her emaciated body;
+*dharma chaariNii* = practising virtue; *ruddhaa* = confined; *raavaNaantaH pure*
+= in Ravana's gynaceium; *utphulla lochanaa* = with her wide-open eyes; *mR^igiiva* =
+like that of a doe; *abraviit* = spoke; *iti* = as following; *maam* = to me.
+
+**अनुवादः**
+
+"Seetha, with her emaciated body, practicing virtue, confined in Ravana's gynaecium and
+with her wide-open eyes like that of a doe, spoke to me the following words:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga65/sundarasans65.htm)
 </details>

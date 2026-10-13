@@ -220,6 +220,26 @@ On listening the words of Rama that are inclusive of his inquisitiveness,
 
 **पदच्छेदः**
 
+*4b, 5a. shankarashvashuraH* = god Sankara's father-in-law;
+ *himavaan naama* = Himavanta, namely; *iti vishrutaH*
+ = by name, thus, well known; *vindhyaparvatam aasaadya* = attaining Vindhya mountain
+ [Himavan] - by sight, set eyes on; *niriikSete parasparam*
+ = without wink [stares, peers] each other - Vindhya and Himalayas look
+ at each other.
+
+**अनुवादः**
+
+The father-in-law of god Shankara who is well-known by the name of
+ Himavan sets eyes on Mt. Vindhya, which stands as loftily as Himalayas,
+ and those two mountains peer at each other. [1-39-4b, 5a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *5b, 6a. puruSottama* = oh the best man - Rama; *saH ya~jnaH*
  = that, Vedic ritual of Sagara; *tayoH madhye* = of them two
  - between Vindhya and Himalayas mountains between; *pravr^ittaH abhuut*
@@ -233,26 +253,6 @@ Oh, best one among men, Rama, that Vedic-ritual of Sagara started
  in between those two mountains, namely Himalayas and Vindhya ranges,
  and oh, tigerly-man Rama, that area is renowned for Vedic-rituals, isn't
  it! [1-39-5b, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*4b, 5a. shankarashvashuraH* = god Sankara's father-in-law;
- *himavaan naama* = Himavanta, namely; *iti vishrutaH*
- = by name, thus, well known; *vindhyaparvatam aasaadya* = attaining Vindhya mountain
- [Himavan] - by sight, set eyes on; *niriikSete parasparam*
- = without wink [stares, peers] each other - Vindhya and Himalayas look
- at each other.
-
-**अनुवादः**
-
-The father-in-law of god Shankara who is well-known by the name of
- Himavan sets eyes on Mt. Vindhya, which stands as loftily as Himalayas,
- and those two mountains peer at each other. [1-39-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
@@ -397,6 +397,30 @@ _________________
 
 **पदच्छेदः**
 
+*8b, 9a. kaakutstha* = oh Rama of Kakutstha; *mahaatmanaH*
+ = great-souled one's - Sagara's; *tasmin ashve hriyamaaNe tu*
+ = that, horse, while being stolen; *atha sarve upaadhyaayagaNaaH*
+ = then, all, religious-teachers' congregations - of ritwiks; *yajamaanam
+ abruvan* = then spoke to propitiator.
+
+**अनुवादः**
+
+While that ritual-horse of the great-souled Sagara is stolen, all the
+ congregations of the Ritviks, the religious-teachers, then spoke to
+ the chief propitiator, namely Sagara. [1-39-8b, 9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+काकुत्स्थने! महात्मा सगरन यज्ञाश्वद अपरणवागुवाग समस्त ऋत्विजरु यजमान सगरन बळि इन्तॆन्दरु-ककुत्स्थनन्दन! इन्दु पर्वद दिन यारो ई यज्ञद कुदुरॆयन्नु कद्दुकॊण्डु वेगवागि होगुत्तिद्दानॆ. नीनु कळ्ळनन्नु कॊन्दु, कुदुरॆयन्नु हिन्दक्कॆ तन्निरि. इल्लदिद्दरॆ यज्ञदल्लि विघ्नवुण्टागि नमगॆल्लरिगॆ अमङ्गलद कारणवादीतु. राजने! ई यज्ञवु यावुदे विघ्न बाधॆगळिल्लदॆ पूर्णवागुवन्तॆ प्रयत्निसिरि.॥8-10½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *9b, 10a. kaakutstha* = oh decedent of Kakutstha - Sagara;
  *parvaNi* = on auspicious day; *ayam ya~jniyaashvaH* =
  this, ritual's horse; *vegena apaniiyate* = hastily, being sidetracked
@@ -411,11 +435,6 @@ _________________
  and let that horse be fetched'. [1-39-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-काकुत्स्थने! महात्मा सगरन यज्ञाश्वद अपरणवागुवाग समस्त ऋत्विजरु यजमान सगरन बळि इन्तॆन्दरु-ककुत्स्थनन्दन! इन्दु पर्वद दिन यारो ई यज्ञद कुदुरॆयन्नु कद्दुकॊण्डु वेगवागि होगुत्तिद्दानॆ. नीनु कळ्ळनन्नु कॊन्दु, कुदुरॆयन्नु हिन्दक्कॆ तन्निरि. इल्लदिद्दरॆ यज्ञदल्लि विघ्नवुण्टागि नमगॆल्लरिगॆ अमङ्गलद कारणवादीतु. राजने! ई यज्ञवु यावुदे विघ्न बाधॆगळिल्लदॆ पूर्णवागुवन्तॆ प्रयत्निसिरि.॥8-10½॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -436,25 +455,6 @@ _________________
  us, thereby, oh, king, action may be taken as to how there can be no
  fault in proceedings of the ritual.' The religious-teachers of Sagara
  have advised him in this way. [1-39-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*8b, 9a. kaakutstha* = oh Rama of Kakutstha; *mahaatmanaH*
- = great-souled one's - Sagara's; *tasmin ashve hriyamaaNe tu*
- = that, horse, while being stolen; *atha sarve upaadhyaayagaNaaH*
- = then, all, religious-teachers' congregations - of ritwiks; *yajamaanam
- abruvan* = then spoke to propitiator.
-
-**अनुवादः**
-
-While that ritual-horse of the great-souled Sagara is stolen, all the
- congregations of the Ritviks, the religious-teachers, then spoke to
- the chief propitiator, namely Sagara. [1-39-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
@@ -497,6 +497,25 @@ _________________
 
 **पदच्छेदः**
 
+*11b, 12a. paarthivaH* = that king - Sagara; *saH upaadhyaayavacaH
+ shrutvaa* = he Sagara, on hearing words of religious-teachers;
+ *tasmin sadasi* = in that, religious-council; *SaSTim putrasahasraaNi
+ * = to sixty thousand sons; *etat vaakyam uvaaca
+ ha* = spoke this sentence, indeed.
+
+**अनुवादः**
+
+On hearing the words of religious-teachers that king Sagara indeed
+ spoke this much to his sixty thousand sons in that religious-council.
+ [1-39-11b, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12b, 13a. puruSarSabhaaH* = oh best ones among men; *putraaH*
  = oh sons; *rakSasaam gatim na pashyaami* = I do not envisage approaching
  [here] of demons; *mahaakratuH* = glorious Vedic-ritual;
@@ -510,25 +529,6 @@ _________________
  since oh, best ones among men, holy-sanctifiers who themselves are sanctified
  by the Vedic-hymns are conducting this glorious Vedic-ritual, isn't
  it. [1-39-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11b, 12a. paarthivaH* = that king - Sagara; *saH upaadhyaayavacaH
- shrutvaa* = he Sagara, on hearing words of religious-teachers;
- *tasmin sadasi* = in that, religious-council; *SaSTim putrasahasraaNi
- * = to sixty thousand sons; *etat vaakyam uvaaca
- ha* = spoke this sentence, indeed.
-
-**अनुवादः**
-
-On hearing the words of religious-teachers that king Sagara indeed
- spoke this much to his sixty thousand sons in that religious-council.
- [1-39-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>
@@ -574,6 +574,26 @@ _________________
 
 **पदच्छेदः**
 
+*13b, 14a. putrakaaH* = oh sons; *tat* = therefore;
+ *vicinvadhvam* = for the purpose of searching - horse and its
+ thief; *gacChata* = you may proceed; *vaH bhadram astu*
+ = there will be safety to you all; *samudramaaliniim* = garlanded with
+ ocean - encompassed by oceans; *sarvaam* = entire;
+ *pR^ithiviim anugacchata* = earth, you follow - you search.
+
+**अनुवादः**
+
+'Oh, sons, you may therefore proceed to search for the horse and its
+ thief on entire earth as far as it is garlanded by the ocean, and safety
+ betides you all. [1-39-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *14b, 15. putraaH* = oh sons; *ekaikam yojanam* = one
  [each prince] one, yojana - area of earth; *vistaaram abhigacChata*
  = square area, you advance - allocate for yourself; *mama aaGYayaa*
@@ -587,26 +607,6 @@ _________________
 'Oh, sons, let each prince advance searching one square yojana of
  earth, by my order you dig up the earth until the appearance of the
  horse, while searching for the stealer of that horse. [1-39-14b, 15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*13b, 14a. putrakaaH* = oh sons; *tat* = therefore;
- *vicinvadhvam* = for the purpose of searching - horse and its
- thief; *gacChata* = you may proceed; *vaH bhadram astu*
- = there will be safety to you all; *samudramaaliniim* = garlanded with
- ocean - encompassed by oceans; *sarvaam* = entire;
- *pR^ithiviim anugacchata* = earth, you follow - you search.
-
-**अनुवादः**
-
-'Oh, sons, you may therefore proceed to search for the horse and its
- thief on entire earth as far as it is garlanded by the ocean, and safety
- betides you all. [1-39-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga39/balasans39.htm)
 </details>

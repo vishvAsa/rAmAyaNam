@@ -1030,6 +1030,22 @@ this sentence. [3-7-19, 20a]
 
 **पदच्छेदः**
 
+*20b, 21a. su mahaa bhaagaH* = oh, greatly, blessed one; *samaagataan
+taan mR^iga sanghaan* = that collective come, animal, herds; *shareNa nishita dhaareNa nata parvaNaa*
+= arrows, having sharp edges, curved, ends; *aham hanyaam* = I will, eradicate.
+
+**अनुवादः**
+
+"I will eradicate them, oh, greatly blessed one, those animals that will come collectively
+in herds with sharp edged, curve-end arrows... [3-7-20b, 21a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *21b, 22a. tatra bhavaan abhishajyetaH* = in them, you may be, interested
 [mercifully]; *tataH kR^icChra taram kim syaat* = than that, more painful, what, will be, there;
 [therefore]; *etasmin aashrame ciram vaasam na samarthaye* = in this, hermitage, for a long,
@@ -1040,22 +1056,6 @@ staying, not, befitting [thus I deem.]
 "But you may be more interested in those animals mercifully, then what will be there
 more painful to you, hence I deem our staying in this hermitage for along will be unbefitting..." So
 said Rama. [3-7-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*20b, 21a. su mahaa bhaagaH* = oh, greatly, blessed one; *samaagataan
-taan mR^iga sanghaan* = that collective come, animal, herds; *shareNa nishita dhaareNa nata parvaNaa*
-= arrows, having sharp edges, curved, ends; *aham hanyaam* = I will, eradicate.
-
-**अनुवादः**
-
-"I will eradicate them, oh, greatly blessed one, those animals that will come collectively
-in herds with sharp edged, curve-end arrows... [3-7-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga7/aranyasans7.htm)
 </details>

@@ -450,6 +450,24 @@ _________________
 
 **पदच्छेदः**
 
+*9. agnihotraaNi* = sacrificial fires; *naahuuyanta* = were not
+performed; *gR^ihamethinaH* = house-holders; *naapachan* = did not cook their food.;
+*prajaaH* = people; *na aakurvan* = did not do; *kaaryam* = (their )act
+.suuryashcha = even the sun antaradhiiyata = disappeared .
+
+**अनुवादः**
+
+On the departure of Rama to the forest, the sacred fires were no longer performed,
+no house holder prepared food, the people did not do their acts and even the sun went into
+eclipse.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *10. naagaaH* = Elephants; *vyasR^ijan* = threw out;
 *kabalaan* = the morsels of food (they had taken into their mouths ) gaavaH = Cows; *na
 paayayan* = did not give suck; *vatsaan* = to their calves; *jananii* = mother;
@@ -461,24 +479,6 @@ son; *prathamajam* = born for the first time .
 Elephants threw out the morsels of food they had taken into their mouths. Cows did
 not give suck to their calves. Mother did not rejoice, for having got a son born for the first
 time.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*9. agnihotraaNi* = sacrificial fires; *naahuuyanta* = were not
-performed; *gR^ihamethinaH* = house-holders; *naapachan* = did not cook their food.;
-*prajaaH* = people; *na aakurvan* = did not do; *kaaryam* = (their )act
-.suuryashcha = even the sun antaradhiiyata = disappeared .
-
-**अनुवादः**
-
-On the departure of Rama to the forest, the sacred fires were no longer performed,
-no house holder prepared food, the people did not do their acts and even the sun went into
-eclipse.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga41/ayodhyasans41.htm)
 </details>

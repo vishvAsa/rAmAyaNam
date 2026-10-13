@@ -841,6 +841,24 @@ _________________
 
 **पदच्छेदः**
 
+*18b, 19a. gajaachalasamkaashaaH* = in similarity of elephants and mountains;
+ *mahaabalaaH* = great mighty ones; *vapuSmantaH* = with prodigious
+ bodies; *R^ikShavaanaragopucChaH* = bears monkeys and sacred langoors;
+ *kSipram eva* = quickly, thus; *abhijaj~nire* =
+ took birth.
+
+**अनुवादः**
+
+And they with their elephantine, mountainous and prodigious bodies quickly took
+ birth in bears, monkeys, sacred langoors. [1-17-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *19b, 20a. yasya devasya yat ruupam* = which, god's, which, form; *veSaH*
  = getup; *paraakramaH ca* = valour, also; *yaH* = which [is there];
  *tasya tasya* = his, his [that particular god's sons]; *ajaayata*
@@ -852,24 +870,6 @@ _________________
 Those that are procreated have attained the shape, getup and valour of the god
  that has fathered them, and thus the monkey race is procreated separately and
  individually. [1-17-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*18b, 19a. gajaachalasamkaashaaH* = in similarity of elephants and mountains;
- *mahaabalaaH* = great mighty ones; *vapuSmantaH* = with prodigious
- bodies; *R^ikShavaanaragopucChaH* = bears monkeys and sacred langoors;
- *kSipram eva* = quickly, thus; *abhijaj~nire* =
- took birth.
-
-**अनुवादः**
-
-And they with their elephantine, mountainous and prodigious bodies quickly took
- birth in bears, monkeys, sacred langoors. [1-17-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
@@ -1247,6 +1247,24 @@ _________________
 
 **पदच्छेदः**
 
+*28b, 29a. vane pravrajataH* = verily [tumultuously] moving in the forests
+ ; *mattaan maatangaan api* = excited [ruttish,] elephants, even;
+ *gR^ihNiiyuH* = they catch; *nardamaanaaH cha* = by their blaring,
+ also; *naadena* = with sound; *vihangamaan paatayeyuH* = they make flying
+ birds fall.
+
+**अनुवादः**
+
+They can catch ruttish elephants that tumultuously move in forests, and just with
+ the sound of their blare they make sky flying birds to fall. [1-17-28b, 29a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *29b, 30a. kaamaruupiNaam* = guise changers at wish; *yuuthapaanaam*
  = chiefs of warriors; *mahaatmanaam* = noble souled ones; *iidR^ishaanaam*
  = this kind of; *hariiNaam* = monkeys; *shatam shatasahasraaNi*
@@ -1258,24 +1276,6 @@ _________________
 Thus the gods and others have procreated millions of such noble souled Vaanaras
  as the chiefs of warriors who can change their guise at their wish. [1-17-29b,
  30a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*28b, 29a. vane pravrajataH* = verily [tumultuously] moving in the forests
- ; *mattaan maatangaan api* = excited [ruttish,] elephants, even;
- *gR^ihNiiyuH* = they catch; *nardamaanaaH cha* = by their blaring,
- also; *naadena* = with sound; *vihangamaan paatayeyuH* = they make flying
- birds fall.
-
-**अनुवादः**
-
-They can catch ruttish elephants that tumultuously move in forests, and just with
- the sound of their blare they make sky flying birds to fall. [1-17-28b, 29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
@@ -1376,18 +1376,15 @@ _________________
 
 **पदच्छेदः**
 
-*34. taarkShyabalasampannaH* = might endowed like Divine Eagle Garuda;
- *yuddhavishaaradaaH* = well-versed in warfare; *te sarve
- vicharantaH* = they, all, moving about; *darpaat* = by their pride
- - prideful subjugation as they do not kill them; *simhavyaaghramahoragaan* = lion tigers and great snakes
- [and the like]; *ardayan*
- = thwarted.
+*31b, 32a. anye* = some [among them]; *sahasrashaH* = in thousands;
+ *R^ikSavataH prasthaan upatasthuH* = are staying on ridges of Mt. Riskshavat;
+ *anye* = others; *naanaavidhaan* = many kinds of; *shailaan*
+ = mountains; *kaananaani ca* = forests, also; *bhejire* = reached.
 
 **अनुवादः**
 
-All of those who are well-versed in warfare and endowed with the might of divine
- eagle Garuda, used to thwart the pride of lions, tigers and great snakes just
- by their own prideful subjugation while they move about the forests. [1-17-34]
+Some thousands of them stayed on the ridges of Mt. Rikshavat while others reached
+ many kinds of other mountains and forests. [1-17-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>
@@ -1415,15 +1412,18 @@ All of the monkeys stood by the brothers, namely the son of Indra Vali, and the
 
 **पदच्छेदः**
 
-*31b, 32a. anye* = some [among them]; *sahasrashaH* = in thousands;
- *R^ikSavataH prasthaan upatasthuH* = are staying on ridges of Mt. Riskshavat;
- *anye* = others; *naanaavidhaan* = many kinds of; *shailaan*
- = mountains; *kaananaani ca* = forests, also; *bhejire* = reached.
+*34. taarkShyabalasampannaH* = might endowed like Divine Eagle Garuda;
+ *yuddhavishaaradaaH* = well-versed in warfare; *te sarve
+ vicharantaH* = they, all, moving about; *darpaat* = by their pride
+ - prideful subjugation as they do not kill them; *simhavyaaghramahoragaan* = lion tigers and great snakes
+ [and the like]; *ardayan*
+ = thwarted.
 
 **अनुवादः**
 
-Some thousands of them stayed on the ridges of Mt. Rikshavat while others reached
- many kinds of other mountains and forests. [1-17-31b, 32a]
+All of those who are well-versed in warfare and endowed with the might of divine
+ eagle Garuda, used to thwart the pride of lions, tigers and great snakes just
+ by their own prideful subjugation while they move about the forests. [1-17-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm)
 </details>

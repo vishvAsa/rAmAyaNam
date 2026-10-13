@@ -576,23 +576,6 @@ _________________
 
 **पदच्छेदः**
 
-*13. bilva* = oh, Bilva tree; *snigdha pallava samkaashaam* = smooth [silky,] leaflet,
-similar to [in skin]; *piita kausheya vaasiniim* = yellowy-ochry, silk, dressed in; *bilva
-upama stanii* = Bilva-fruits [rotund and silky,] in simile, breasted; *[kaccit* = someone
-]; *yadi saa dR^iSTaa* = if, she is, seen by you; *shamsasva* = you tell.
-
-**अनुवादः**
-
-"Oh, Bilva tree, if thou seest someone who is drest in yellowy-ochry silks, whose skin likens to the
-silkiness of thine leaflets, breasts to thine rotund and silky Bilva fruits, thou tellest me... [3-60-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *12. kadamba* = oh, Kadamba tree; *kadamba priyaa* = Kadamba [flowers,] a lover of;
 *priyaa* = [my] ladylove; *saa* = she that Seetha; *kaccit* = someone [who is a
 lady]; *tvayaa* = by you; *[api] dR^iSTaa* = is seen; *asti* = is she [seen];
@@ -603,6 +586,23 @@ Seetha; *shamsa* = you tell.
 
 "Oh, Kadamba tree, seest thou someone a lady who is lover of Kadamba flowers, one with a lovable face
 and a love of mine, thou tellest me if thou knowest. [3-60-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. bilva* = oh, Bilva tree; *snigdha pallava samkaashaam* = smooth [silky,] leaflet,
+similar to [in skin]; *piita kausheya vaasiniim* = yellowy-ochry, silk, dressed in; *bilva
+upama stanii* = Bilva-fruits [rotund and silky,] in simile, breasted; *[kaccit* = someone
+]; *yadi saa dR^iSTaa* = if, she is, seen by you; *shamsasva* = you tell.
+
+**अनुवादः**
+
+"Oh, Bilva tree, if thou seest someone who is drest in yellowy-ochry silks, whose skin likens to the
+silkiness of thine leaflets, breasts to thine rotund and silky Bilva fruits, thou tellest me... [3-60-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
@@ -699,25 +699,6 @@ of mine, thou telleth whether that slender-waisted daughter of Janaka liveth or 
 
 **पदच्छेदः**
 
-*16. druma varaH* = tree, best [among trees]; *[ayam* = this]; *tilakaH* = Tilaka
-tree; *yathaa* = as to how; *bhramaraiH* = by honeybees; *upa giitaH ca asi hi*
-= nearly, singing, also, it is, indeed - because honeybees are singing in chorus at its nearby, that
-chorus of bees is audible to the tree; thereby; *eSa* = this - Tilaka tree; *tilaka priyaam*
-= Tilaka tree, about the lover of - of Seetha; *vyaktam vijaanaati* = clearly, be knowing.
-
-**अनुवादः**
-
-"As to how this best tree among all trees heareth the chorus of honeybees that singest around it, thereby
-this Tilaka tree clearly knowest Maithili, a lover of Tilaka trees, as this shouldst have heard her.
-[3-60-16]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *15. eSa* = this; *vanaspatiH* = tree; *lataa pallava puSpa* = with creeping plants
 [creepy-creepers,] tender leaves [foliole-foliage,] flowers [flowery-flowers]; *aaDhyaH* = is
 laden with; *[yathaa* = as to how]; *bhaati hi* = it is shining forth, indeed; thereby;
@@ -730,6 +711,25 @@ maithiliim* = of her, of Maithili; *vyaktam jaanaati* = obviously, will be knowi
 "As to how this Kakubha tree shineth laden with creepy-creepers, foliole-foliage and flowery-flowers,
 this tree knowest Maithili whose thighs can be likened to the smoothish trunk of this very Kakubha tree...
 [3-60-15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16. druma varaH* = tree, best [among trees]; *[ayam* = this]; *tilakaH* = Tilaka
+tree; *yathaa* = as to how; *bhramaraiH* = by honeybees; *upa giitaH ca asi hi*
+= nearly, singing, also, it is, indeed - because honeybees are singing in chorus at its nearby, that
+chorus of bees is audible to the tree; thereby; *eSa* = this - Tilaka tree; *tilaka priyaam*
+= Tilaka tree, about the lover of - of Seetha; *vyaktam vijaanaati* = clearly, be knowing.
+
+**अनुवादः**
+
+"As to how this best tree among all trees heareth the chorus of honeybees that singest around it, thereby
+this Tilaka tree clearly knowest Maithili, a lover of Tilaka trees, as this shouldst have heard her.
+[3-60-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>
@@ -1685,6 +1685,24 @@ _________________
 
 **पदच्छेदः**
 
+*35. mahaabaahaH* = oh, dextrous one; *haa lakSmaNa* = ha, Lakshmana; *tvam* =
+you; *kvacit* = anywhere; *priyaam* = my ladylove; *pashyase* = are you seeing;
+*bhadre* = oh, auspicious lady; *haa priye* = ha, dear; *kva gataa* = where, you
+have gone; *haa siite* = ha, Seetha; *iti punaH punaH* = thus, again, again; *[rudan*
+= while bewailing] - he serched.
+
+**अनुवादः**
+
+"Ha, Lakshmana... oh, dextrous one... have you seen my ladylove anywhere... ha, dear, where have you
+gone... oh, auspicious lady... ha, Seetha..." thus Rama lamented again and again in his search. [3-60-35]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *36, 37a. raamaH* = Rama; *iti evam* = thus, this way; *vilapan* = on bewailing;
 *vanaat vanam* = from wood, to wood; *pari dhaavan* = on overly, rushing; *kvacit*
 = somewhere; *vegaat* = by forcefulness [of delusion]; *ud bhramate* = highly, delusional
@@ -1701,24 +1719,6 @@ to Seetha, and somewhere else, marking creepers, plants or slender shrubs and su
 Seetha he has become really alluded by the powerfulness of allusion, and elsewhere, he is not discriminating
 paths or pathless routes for his trekking as an impassioned one in the search of his ladylove, and thus
 he is nitid like a madman. [3-60-36, 37a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*35. mahaabaahaH* = oh, dextrous one; *haa lakSmaNa* = ha, Lakshmana; *tvam* =
-you; *kvacit* = anywhere; *priyaam* = my ladylove; *pashyase* = are you seeing;
-*bhadre* = oh, auspicious lady; *haa priye* = ha, dear; *kva gataa* = where, you
-have gone; *haa siite* = ha, Seetha; *iti punaH punaH* = thus, again, again; *[rudan*
-= while bewailing] - he serched.
-
-**अनुवादः**
-
-"Ha, Lakshmana... oh, dextrous one... have you seen my ladylove anywhere... ha, dear, where have you
-gone... oh, auspicious lady... ha, Seetha..." thus Rama lamented again and again in his search. [3-60-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga60/aranyasans60.htm)
 </details>

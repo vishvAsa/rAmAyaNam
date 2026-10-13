@@ -1103,24 +1103,6 @@ _________________
 
 **पदच्छेदः**
 
-*27. raaja shaarduula* = O; Tiger among men!; *etat toyam* =
-(May) this water; *vimalam* = without taint; *akSayam* = and incorruptible;
-*adya* = at the moment; *maddattam* = that I offer it; *te* = to you;
-*upatiSThatu* = reach you; *pitR^ilokagatasya* = in the region of your ancestors
-where you are.
-
-**अनुवादः**
-
-O, Tiger among men! May this water without taint and incorruptible at the moment
-that I offer it to you, reach you in the region of your ancestors where you are."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *26. pragR^iya* = holding together; *aN^jalim* = in the form of
 a hollow his palms; *jalapuuritam* = full of water; *abhimukhaH* = and turning his
 face turned towards; *yaamyaam* = disham = the southern quarter; *rudam* = weeping;
@@ -1132,6 +1114,24 @@ traditional words; saying:
 Holding together in the form of a hollow his palms full of water and turning his
 face turned towards the southern quarter and weeping the great prince pronounced the traditional
 words saying:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. raaja shaarduula* = O; Tiger among men!; *etat toyam* =
+(May) this water; *vimalam* = without taint; *akSayam* = and incorruptible;
+*adya* = at the moment; *maddattam* = that I offer it; *te* = to you;
+*upatiSThatu* = reach you; *pitR^ilokagatasya* = in the region of your ancestors
+where you are.
+
+**अनुवादः**
+
+O, Tiger among men! May this water without taint and incorruptible at the moment
+that I offer it to you, reach you in the region of your ancestors where you are."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
@@ -1315,23 +1315,6 @@ eats, is also consumed by his gods."
 
 **पदच्छेदः**
 
-*32. jagatiipatiH* = Rama the Lord of the earth; *tataH* = then;
-*aasaadya* = gaining; *parNakuTiira dvaaram* = the door of his leafy hut;
-*parijagraaha* = embraced; *ubhau* = both; *bharata lakSmanau* = Bharata and
-Lakshmana; *baahubhyaam* = with his arms.
-
-**अनुवादः**
-
-Gaining the door of his leafy hut, Rama the Lord of the earth then embraced Bharata
-and Lakshmana with his arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *31. tataH* = then; *naravyaaghraH* = Rama the tiger among men;
 *pratyuttiirya* = re-ascending; *tena maargeNaiva* = by the same path; *nadii
 taTaat* = on the banks of the river; *aaruroha* = rose up; *ramyasaanum* = the
@@ -1341,6 +1324,23 @@ charming summit; *mahiidharam* = of (Chirakuta) mountain.
 
 Rama the tiger among men then re-ascending by the same path on the banks of the
 river reached the charming summit of Chitrakuta mountain.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. jagatiipatiH* = Rama the Lord of the earth; *tataH* = then;
+*aasaadya* = gaining; *parNakuTiira dvaaram* = the door of his leafy hut;
+*parijagraaha* = embraced; *ubhau* = both; *bharata lakSmanau* = Bharata and
+Lakshmana; *baahubhyaam* = with his arms.
+
+**अनुवादः**
+
+Gaining the door of his leafy hut, Rama the Lord of the earth then embraced Bharata
+and Lakshmana with his arms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>
@@ -1438,24 +1438,6 @@ roaring of lions rose an echo in the mountain.
 
 **पदच्छेदः**
 
-*35. abruvancha api* = (hose troops of Bharata) also said;
-*dhruvam* = Assuredly; *bharataH* = Bharata; *samgataH* = has joined;
-*raameNa* = with Rama; *mahaan* = (this is) a great; *shabdaH* = sound;
-*teSaameva* = only of their; *shochataam* = wailing; *mR^itam* = for their
-dead; *pitaram* = father.
-
-**अनुवादः**
-
-Those troops of Bharata also said, "Assuredly, Bharata has joined Rama and this is a
-great sound only of their wailing, as they mourn for their dead father."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *34. viJ^Naaya* = hearing; *tumulam* = the tumultuous;
 *shabdam* = clamour; *mahaabalaanaam* = by those mighty heroes; *rudataam* =
 as; weeping; *kurvataam* = they completed; *udakam* = the libations of water;
@@ -1466,6 +1448,24 @@ got alarmed.
 
 Hearing the tumultuous clamour by those mighty heroes as, weeping they completed the
 libations of water to their father, Bharata's army got alarmed.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. abruvancha api* = (hose troops of Bharata) also said;
+*dhruvam* = Assuredly; *bharataH* = Bharata; *samgataH* = has joined;
+*raameNa* = with Rama; *mahaan* = (this is) a great; *shabdaH* = sound;
+*teSaameva* = only of their; *shochataam* = wailing; *mR^itam* = for their
+dead; *pitaram* = father.
+
+**अनुवादः**
+
+Those troops of Bharata also said, "Assuredly, Bharata has joined Rama and this is a
+great sound only of their wailing, as they mourn for their dead father."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga103/ayodhyasans103.htm)
 </details>

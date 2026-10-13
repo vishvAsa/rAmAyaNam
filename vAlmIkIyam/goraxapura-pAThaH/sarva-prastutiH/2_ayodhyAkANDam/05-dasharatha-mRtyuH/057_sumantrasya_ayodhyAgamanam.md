@@ -505,24 +505,6 @@ people ran towards him asking, "Where is Rama?"
 
 **पदच्छेदः**
 
-*11. vij~Naaya* = knowing; *te* = (that) Seetha Rama and
-Lakshmana; *tiirNaaH iti* = had crossed (Ganga); *janaH* = the people;
-*baashhpapuurNamukhaaH* = with their faces filled with tears; *nishshvasya* = sighed;
-*iti* = thus; *aho* = Oh; *dhik* = fie upon us! cukrushuH cha = and cried
-aloud; *haa raama iti* = thus = "Alas! Rama!
-
-**अनुवादः**
-
-Hearing that Seetha, Rama and Lakshmana had crossed River Ganga, the people with
-their faces filled with tears sighed, "Oh, fie upon us! And cried aloud, "Alas, Rama!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *10. shashamsa* = he replied; *teshhaam* = them;
 *aapR^ichchhya* = bidding farewell; *raaghavam* = to Rama; *gaN^gaayaam* = (at
 the shore) of Ganga; *anuj~NaataH* = when sent back; *dhaarmikeNa* = by that
@@ -533,6 +515,24 @@ virtuous; *mahaatmanaH* = and high-souled Rama; *aham* = I; *nivR^ittaH asmi*
 
 He replied them thus: "Bidding farewell to Rama at the shore of Ganga when sent back
 by that virtuous and high-souled Rama, I returned here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. vij~Naaya* = knowing; *te* = (that) Seetha Rama and
+Lakshmana; *tiirNaaH iti* = had crossed (Ganga); *janaH* = the people;
+*baashhpapuurNamukhaaH* = with their faces filled with tears; *nishshvasya* = sighed;
+*iti* = thus; *aho* = Oh; *dhik* = fie upon us! cukrushuH cha = and cried
+aloud; *haa raama iti* = thus = "Alas! Rama!
+
+**अनुवादः**
+
+Hearing that Seetha, Rama and Lakshmana had crossed River Ganga, the people with
+their faces filled with tears sighed, "Oh, fie upon us! And cried aloud, "Alas, Rama!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
@@ -1118,17 +1118,15 @@ think that surely it is difficult thus to live and it is not so easy to preserve
 
 **पदच्छेदः**
 
-*24. saH* = that Sumantra; *pravishya* = entered;
-*aSTamiim* = the eighth; *kakSyaam* = inner apartment; *apashyat* = (and) saw;
-*raajaanam* = king Dasaratha; *diinaam* = the miserable; *aatulam* = the sick;
-*putra shoka parimlaanam* = and the exhausted man; due to grief for his son;
-*paaNDure* = in that white; *gR^ihe* = house.
+*23. nishaamayan* = reaching to; *tat vaakyam* = those words;
+*satya ruupam* = so credible; *raaGYaH* = of king Dasaratha's; *striiNaam* =
+wives; *sahasaa* = (Sumantra) quickly; *vivesha* = entered; *gR^iham* = the
+house; *pradiiptim iva* = appeared like burning; *shokena* = with grief.
 
 **अनुवादः**
 
-Sumantra entered the eighth inner apartment and saw in that white house, King
-Dasaratha the miserable the sick and the exhausted man on account of the exhausted man on account
-of the grief for his son.
+Hearing those credible words of Dasaratha's wives, Sumantra all at once entered the
+house, that appeared to be set ablaze with grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>
@@ -1142,15 +1140,17 @@ of the grief for his son.
 
 **पदच्छेदः**
 
-*23. nishaamayan* = reaching to; *tat vaakyam* = those words;
-*satya ruupam* = so credible; *raaGYaH* = of king Dasaratha's; *striiNaam* =
-wives; *sahasaa* = (Sumantra) quickly; *vivesha* = entered; *gR^iham* = the
-house; *pradiiptim iva* = appeared like burning; *shokena* = with grief.
+*24. saH* = that Sumantra; *pravishya* = entered;
+*aSTamiim* = the eighth; *kakSyaam* = inner apartment; *apashyat* = (and) saw;
+*raajaanam* = king Dasaratha; *diinaam* = the miserable; *aatulam* = the sick;
+*putra shoka parimlaanam* = and the exhausted man; due to grief for his son;
+*paaNDure* = in that white; *gR^ihe* = house.
 
 **अनुवादः**
 
-Hearing those credible words of Dasaratha's wives, Sumantra all at once entered the
-house, that appeared to be set ablaze with grief.
+Sumantra entered the eighth inner apartment and saw in that white house, King
+Dasaratha the miserable the sick and the exhausted man on account of the exhausted man on account
+of the grief for his son.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga57/ayodhyasans57.htm)
 </details>

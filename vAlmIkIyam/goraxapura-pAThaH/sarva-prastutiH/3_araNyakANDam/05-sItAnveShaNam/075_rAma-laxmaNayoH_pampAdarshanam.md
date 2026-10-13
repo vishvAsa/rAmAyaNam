@@ -59,6 +59,22 @@ that short spell of his anguish, he proceeds with Lakshmana to the nearby of the
 
 **पदच्छेदः**
 
+*1. tasyaam* = of her; *shabaryaam* = of Shabari; *svena tejasaa* = by own, [divine]
+resplendence; *divam yaataayaam* = to heaven, while going; *raaghavaH bhraatraa lakSmaNena
+saha* = Raghava, brother, Lakshmana, along with; *cintayaamaasa* = started to cogitate.
+
+**अनुवादः**
+
+While Shabari ascended to heaven with her own divine self-resplendence, Raghava who is with Lakshmana
+started to cogitate over the magnificence of Matanga disciples. [3-75-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *2. dharmaatmaa* = noble-souled one; *raaghavaH* = Raghava; *mahaa aatmanaam* =
 of great-souled [disciples of Matanga]; *prabhaavam cintayitvaa* = efficacy, on thinking about;
 *hita kaariNam* = wellbeing, causer of [maintainer]; *eka agram* = single, minded one;
@@ -79,22 +95,6 @@ her teachers with such a devotion by which she is going to the heavens she desir
 in heavens will usually be determined by their relative merits... am I serving my brother, teacher,
 god, and the like... namely Rama, to have an iota of Shabari's merit... or, all the problems to Rama
 have chanced by my neglect of my duty...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*1. tasyaam* = of her; *shabaryaam* = of Shabari; *svena tejasaa* = by own, [divine]
-resplendence; *divam yaataayaam* = to heaven, while going; *raaghavaH bhraatraa lakSmaNena
-saha* = Raghava, brother, Lakshmana, along with; *cintayaamaasa* = started to cogitate.
-
-**अनुवादः**
-
-While Shabari ascended to heaven with her own divine self-resplendence, Raghava who is with Lakshmana
-started to cogitate over the magnificence of Matanga disciples. [3-75-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
@@ -194,6 +194,23 @@ _________________
 
 **पदच्छेदः**
 
+*4. lakSmaNa* = oh, Lakshmana; *teSaam saptaanaam samudraaNaam* = of those, seven of the,
+seas; *tiirtheSu* = [in this] holy lake [Pampa]; *upa spR^iSTam* = closely, touched -
+we took a holy bath in this lake]; *pitaraH ca api vidhivat tarpitaaH* = manes, also, even, dutifully
+[holier,] we have oblated.
+
+**अनुवादः**
+
+"Oh, Lakshmana, holy is our taking a bath in this holy Pampa Lake, for it is formed by the waters of
+seven seas, and even holier is our oblation of this holy waters to manes... [3-75-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *5, 6a. yat naH* = what [that was,] for us; *a shubham* = un, propitious; *pra NaSTam*
 = completely abated; *lakSmaNa* = oh, Lakshmana; *kalyaaNam* = propitiousness; *sam
 upa sthitam* = verily, in fore, staying [standing en face]; *tena* = thereby; *samprati*
@@ -206,23 +223,6 @@ hi* = in heart, auspiciousness [hope,] issues forth [hatches,] indeed.
 "What that was unpropitious for us is completely abated by our holy bath and holy oblations, oh, Lakshmana,
 propitiousness is standing en face us, thereby presently this heart of mine is highly gladdening...
 oh, lion-like man, indeed, heart alone hatches hope... [3-75-5, 6a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*4. lakSmaNa* = oh, Lakshmana; *teSaam saptaanaam samudraaNaam* = of those, seven of the,
-seas; *tiirtheSu* = [in this] holy lake [Pampa]; *upa spR^iSTam* = closely, touched -
-we took a holy bath in this lake]; *pitaraH ca api vidhivat tarpitaaH* = manes, also, even, dutifully
-[holier,] we have oblated.
-
-**अनुवादः**
-
-"Oh, Lakshmana, holy is our taking a bath in this holy Pampa Lake, for it is formed by the waters of
-seven seas, and even holier is our oblation of this holy waters to manes... [3-75-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
@@ -711,15 +711,15 @@ _________________
 
 **पदच्छेदः**
 
-*18. matsya* = with fishes; *kacChapa* = tortoises; *sambaadhaam* = packed in;
-*tiirastha druma shobhitaam* = on the bank, trees, beautified with; *lataabhiH anuveSTitaam*
-= with climber plants, wraparound; *samyuktaam sakhiibhiH iva* = joined with [hugging,] ladylove,
-like.
+*16. tilaka ashoka punnaaga* = Tilaka, Ashoka, Punnaga; *bakula uddaala* = Bakula, Uddala
+trees; *kaashiniim* = beaming forth [on banks]; *ramyaam naliniim* = beautiful, lake;
+*pankajaiH sam aa vR^itaam ca* = with lotuses, hemmed in, also; *vivesha* = entered -
+entered the area of Pampa lake.
 
 **अनुवादः**
 
-That lake is beautified with packs of fishes and tortoises, and packs of trees on its banks, on which
-climber plants are wraparound like the ladyloves of those trees. [3-75-18]
+Rama entered the area of that beautiful lake which is beaming forth with lotuses hemming in from inside,
+and trees like Tilaka, Ashoka, Punnaga, Bakula, Uddala, are hemming it from outside. [3-75-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
@@ -750,6 +750,23 @@ is plethoric and crystalline, and its sand is softish all over. [3-75-17]
 
 **पदच्छेदः**
 
+*18. matsya* = with fishes; *kacChapa* = tortoises; *sambaadhaam* = packed in;
+*tiirastha druma shobhitaam* = on the bank, trees, beautified with; *lataabhiH anuveSTitaam*
+= with climber plants, wraparound; *samyuktaam sakhiibhiH iva* = joined with [hugging,] ladylove,
+like.
+
+**अनुवादः**
+
+That lake is beautified with packs of fishes and tortoises, and packs of trees on its banks, on which
+climber plants are wraparound like the ladyloves of those trees. [3-75-18]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *19. kinnara uraga gandharva yakSa raakshasa* = by sylvan beings, reptilian beings, celestials,
 georgic beings, elfish being; *sevitaam* = adored by; *naanaa* = divers; *druma lataa
 aakiirNaam* = trees, tendrils, overcrowded with; *shiita vaari nidhim shubhaam* = coldish,
@@ -759,23 +776,6 @@ water, trove, fair one.
 
 And that is adored by the beings like sylvan, reptilian, celestial, georgic, and elfish beings, and
 it is overcrowded with trees and tendrils, and it is a trove for fairish and clodish water. [3-75-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*16. tilaka ashoka punnaaga* = Tilaka, Ashoka, Punnaga; *bakula uddaala* = Bakula, Uddala
-trees; *kaashiniim* = beaming forth [on banks]; *ramyaam naliniim* = beautiful, lake;
-*pankajaiH sam aa vR^itaam ca* = with lotuses, hemmed in, also; *vivesha* = entered -
-entered the area of Pampa lake.
-
-**अनुवादः**
-
-Rama entered the area of that beautiful lake which is beaming forth with lotuses hemming in from inside,
-and trees like Tilaka, Ashoka, Punnaga, Bakula, Uddala, are hemming it from outside. [3-75-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>
@@ -975,23 +975,6 @@ _________________
 
 **पदच्छेदः**
 
-*25b-26a. puurva uktaH* = afore, said; *dhaatu maNDitaH parvataH* = with [colourful] ores,
-abounding, mountain; *citra puSpita paadapaH* = with amazingly, flowered, trees; *R^ishyamuuka
-iti khyaataH* = Rishyamuka, thus, renowned; *asyaaH tiire tu [aasiit]* = on its, bank, but
-[is there.]
-
-**अनुवादः**
-
-The aforesaid mountain renowned as Rishyamuka which is abounding with colourful ores and amazingly flowered
-trees is there on the bank of Pampa Lake. [3-75-25b, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *23, 24. tilakaiH* = with Tilaka trees; *biija puuraiH* = seeds full of [trees of citron
 fruit with many juicy seeds, Anaar, Daanimma]; *ca* = also; *vaTaiH* = banyan trees;
 *shukla drumaiH* = white, trees; *tathaa* = likewise; *puSpitaiH* = flowered;
@@ -1036,6 +1019,23 @@ lalanaabhi iva lataabhiH*
 **टिप्पनी**
 
 of which lalanaa iva 'a beautiful lady like...' is our concern.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25b-26a. puurva uktaH* = afore, said; *dhaatu maNDitaH parvataH* = with [colourful] ores,
+abounding, mountain; *citra puSpita paadapaH* = with amazingly, flowered, trees; *R^ishyamuuka
+iti khyaataH* = Rishyamuka, thus, renowned; *asyaaH tiire tu [aasiit]* = on its, bank, but
+[is there.]
+
+**अनुवादः**
+
+The aforesaid mountain renowned as Rishyamuka which is abounding with colourful ores and amazingly flowered
+trees is there on the bank of Pampa Lake. [3-75-25b, 26a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga75/aranyasans75.htm)
 </details>

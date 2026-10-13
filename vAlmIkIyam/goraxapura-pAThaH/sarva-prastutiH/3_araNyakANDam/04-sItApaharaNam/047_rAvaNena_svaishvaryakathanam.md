@@ -725,6 +725,22 @@ my husband. [3-47-b, 14a]
 
 **पदच्छेदः**
 
+*14b, 15b. raaghava* = oh, Raghava; *tava pitraa sam aaGYaptam* = your, by father, verily,
+proclaimed; *idam mama shR^iNu* = this, mine [from me,] you hear; *a kaNTakam idam raajyam*
+= not, thorny [thornless,] this, kingdom; *bharataaya pra daatavyam* = to Bharata, well, accorded.
+
+**अनुवादः**
+
+" 'What your father has proclaimed, oh, Raghava, that may be heard from me. He said, 'let this thornless
+kingdom be accorded to Bharata.' [3-47-14b, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *15b, 16a. kaakutstha* = oh, Kakutstha Rama; *tvayaa* = by you; *nava panca ca*
 = nine, five, also - nine plus five - fourteen; *varSaaNi* = years; *vane vastavyam khalu*
 = in forest, inhabitable, indeed; *pra vraja* = onward, move [you repair to forests]; *pitaram
@@ -734,22 +750,6 @@ a nR^itaat mocaya* = father, from untruthfulness, be released [redeemed from the
 
 "And you, oh, Kakutstha Rama, indeed have to inhabit the forests for nine plus five years, hence you
 repair to forests and redeem your father from the remorse of perjury.' [3-47-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*14b, 15b. raaghava* = oh, Raghava; *tava pitraa sam aaGYaptam* = your, by father, verily,
-proclaimed; *idam mama shR^iNu* = this, mine [from me,] you hear; *a kaNTakam idam raajyam*
-= not, thorny [thornless,] this, kingdom; *bharataaya pra daatavyam* = to Bharata, well, accorded.
-
-**अनुवादः**
-
-" 'What your father has proclaimed, oh, Raghava, that may be heard from me. He said, 'let this thornless
-kingdom be accorded to Bharata.' [3-47-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
@@ -897,29 +897,6 @@ shall endeavour to govern the people [properly...] *dadyaat raajaa na yaaceta ya
 
 **पदच्छेदः**
 
-*19b, 20a. dharma caarii* = virtue, follower; *[brahmacaarii* = celibate]; *dR^iDha
-vrataH* = steadfast, in commitment; *lakSmaNaH naama* = Lakshmana, known as; *saH bhraataa*
-= he that, brother; *dhanuS paaNiH* = bow, handling; *mayaa saha pravrajantam* = with
-me, along, proceeding; *[raamasya] sahaayaH* = [to Rama,] as helpmate; *anvagacChat* =
-followed
-
-**अनुवादः**
-
-"He who is known as Lakshmana, a follower of virtue and steadfast in his commitment, followed Rama handling
-his bow as a helpmate, when Rama was proceeding to forests along with me. [3-47-19b, 20a]
-
-**टिप्पनी**
-
-Some texts use the word *brahma caarii *'celibate' basing on the word Rama used when saying about
-Lakshmana to Shuurpanakha about Lakshmana as *apuurvii *while some others use as above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *18b, 19a. tasya raamasya* = that, Rama's; *vi maatraH [dvai maatra]* = of another mother
 [second-mother]; *bhraataa* = brother of; *viiryavaan puruSa vyaaghraH* = valorous one;
 manly tiger; *lakSmaNaH naama* = Lakshmana, known as; *samare ari haa* = in war, enemy,
@@ -935,6 +912,29 @@ and an eliminator of enemies in war. [3-47-18b, 19a]
 A stepmother is called as *vi maata *or *dvaimaata *and it is said *vaimaatreyo vimaatR^ija
 - amara kosha *one is other mother, the other is second-mother, both are the nomenclatures of a
 stepmother.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19b, 20a. dharma caarii* = virtue, follower; *[brahmacaarii* = celibate]; *dR^iDha
+vrataH* = steadfast, in commitment; *lakSmaNaH naama* = Lakshmana, known as; *saH bhraataa*
+= he that, brother; *dhanuS paaNiH* = bow, handling; *mayaa saha pravrajantam* = with
+me, along, proceeding; *[raamasya] sahaayaH* = [to Rama,] as helpmate; *anvagacChat* =
+followed
+
+**अनुवादः**
+
+"He who is known as Lakshmana, a follower of virtue and steadfast in his commitment, followed Rama handling
+his bow as a helpmate, when Rama was proceeding to forests along with me. [3-47-19b, 20a]
+
+**टिप्पनी**
+
+Some texts use the word *brahma caarii *'celibate' basing on the word Rama used when saying about
+Lakshmana to Shuurpanakha about Lakshmana as *apuurvii *while some others use as above.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
@@ -1066,6 +1066,26 @@ by our own mettle as we fell down from kingdom owing to Kaikeyi. [3-47-21b, 22a]
 
 **पदच्छेदः**
 
+*22b, 23. muhuurtam samaashvasa* = for a moment, be comfortable; *tvayaa iha vastum shakyam*
+= by you, here, to take rest, possible; *me bhartaa* = my, husband; *ruruun* = stag with
+black stripes; *godhaan* = mongooses like [civet-like mammals of the family Viverridae, esp.
+of the genus Herpestes, Marathi manguus]; *varaahaan ca* = wild-boars, also; *hatvaa*
+= on killing; *bahu amiSaan aadaaya* = aplenty, meat, on taking; *puSkalam vanyam aadaaya*
+= plentiful, forest produce, on taking; *aagamiSyati* = will be coming [soon.]
+
+**अनुवादः**
+
+"Be comfortable for a moment, here it is possible for you to make a sojourn, and soon my husband will
+be coming on taking plentiful forest produce, and on killing stags, mongooses, wild boars he fetches
+meat, aplenty. [3-47-22b, 23]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *24. dvija* = oh, Brahman; *saH tvam* = such as you are; *naama ca gotram ca kulam
 ca* = name, also, parentage, also, caste, also; *tattvataH aacakSva* = in actuality, make
 mention of; *ekaH ca* = lonesomely, also; daNDaka araNye in Dandaka, forest; kim artham carasi
@@ -1090,26 +1110,6 @@ him to be a cursing Brahman in the first instance, but she might have found him 
 Now that she is slowly realising that he may not be a proper Brahman either, she may be asking him straightforwardly.
 Because Ravana is coming out of Brahman's guise in next two stanzas, it is said that she pointedly asked
 him as above.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*22b, 23. muhuurtam samaashvasa* = for a moment, be comfortable; *tvayaa iha vastum shakyam*
-= by you, here, to take rest, possible; *me bhartaa* = my, husband; *ruruun* = stag with
-black stripes; *godhaan* = mongooses like [civet-like mammals of the family Viverridae, esp.
-of the genus Herpestes, Marathi manguus]; *varaahaan ca* = wild-boars, also; *hatvaa*
-= on killing; *bahu amiSaan aadaaya* = aplenty, meat, on taking; *puSkalam vanyam aadaaya*
-= plentiful, forest produce, on taking; *aagamiSyati* = will be coming [soon.]
-
-**अनुवादः**
-
-"Be comfortable for a moment, here it is possible for you to make a sojourn, and soon my husband will
-be coming on taking plentiful forest produce, and on killing stags, mongooses, wild boars he fetches
-meat, aplenty. [3-47-22b, 23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
@@ -1935,6 +1935,36 @@ his death is predictable.
 
 **पदच्छेदः**
 
+*39. mR^iga shatroH* = animals, challenger of; *tarasvinaH* = expeditious ones [expeditious
+lion and rebounding serpent]; *kSudhitasya simhasya* = ravenous, lion's; *aashii viSasya vadanaat*
+= serpent, venomous, from mouth; *damSTraam aadaatum icChasi?* = fangs, to twitch, do you wish
+to?
+
+**अनुवादः**
+
+"Do you wish to twitch fangs from the mouth of a ravenous lion, the expeditious challenger of animals,
+and from the mouth of a rebounding venomous serpent. [3-47-39]
+
+**टिप्पनी**
+
+The simile of lion and serpent is to Rama and the fangs to Seetha. A lion or a snake knows well how
+to protect its instruments, namely fangs. Hence, Seetha is the fang of expeditious and ravenous Rama
+in eliminating evil on earth and now he will become a grudging venomous cobra too, for its tail is going
+to be trampled, by Seetha's abduction. Thus, the instrumentality of Seetha is established and no instrument
+needs to bother on its own, because its owner takes care of that instrument.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+नीनु श्रीरामन प्रिय पत्नियन्नु हस्तगतमाडिकॊळ्ळुलु बयसुत्तिरुवॆ. अत्यन्त वेगशालि मृगवैरी हसिद सिंहद मत्तु विषद हाविन हल्लुगळन्नु कित्तुकॊळ्ळलु बयसिदन्तॆ अनिसुत्तदॆ. पर्वतश्रेष्ठ मन्दराचलवन्नु कैयिन्द ऎत्तिकॊण्डु होगलु इच्छिसुत्तिरुवॆ. कालकूट विषवन्नु कुडिदु क्षेमवागि इरलु आशिसुत्तिरुवॆ. सूजियिन्द कण्णुगळन्नु चुच्चिकॊळ्ळुत्तिरुवॆ, नालिगॆयिन्द हरितवाद कत्तियन्नु नॆक्कुत्तिरुवॆ.॥39-41॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *40. parvata shreSTham mandaram* = mountain, the best [massive,] Mt. Mandara; *paaNinaa hartum
 icChasi?* = by [the sleight of] hand, to steal, do you wish to; *kaalakuuTam viSam piitvaa*
 = lethal, venom, on consuming; *svastimaan gantum icChasi?* = healthily, to go [decamp,] you
@@ -1960,11 +1990,6 @@ correspondence...'
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-नीनु श्रीरामन प्रिय पत्नियन्नु हस्तगतमाडिकॊळ्ळुलु बयसुत्तिरुवॆ. अत्यन्त वेगशालि मृगवैरी हसिद सिंहद मत्तु विषद हाविन हल्लुगळन्नु कित्तुकॊळ्ळलु बयसिदन्तॆ अनिसुत्तदॆ. पर्वतश्रेष्ठ मन्दराचलवन्नु कैयिन्द ऎत्तिकॊण्डु होगलु इच्छिसुत्तिरुवॆ. कालकूट विषवन्नु कुडिदु क्षेमवागि इरलु आशिसुत्तिरुवॆ. सूजियिन्द कण्णुगळन्नु चुच्चिकॊळ्ळुत्तिरुवॆ, नालिगॆयिन्द हरितवाद कत्तियन्नु नॆक्कुत्तिरुवॆ.॥39-41॥
-</details>
-
 <details><summary>Desiraju Hanumanta Rao</summary>
 
 **पदच्छेदः**
@@ -1978,31 +2003,6 @@ correspondence...'
 
 "If you wish to override the dear wife of Raghava, then it is as good as wishing to deeply scrape your
 eyes with needlepoint, and licking the razorblade with your tongue. [3-47-41]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*39. mR^iga shatroH* = animals, challenger of; *tarasvinaH* = expeditious ones [expeditious
-lion and rebounding serpent]; *kSudhitasya simhasya* = ravenous, lion's; *aashii viSasya vadanaat*
-= serpent, venomous, from mouth; *damSTraam aadaatum icChasi?* = fangs, to twitch, do you wish
-to?
-
-**अनुवादः**
-
-"Do you wish to twitch fangs from the mouth of a ravenous lion, the expeditious challenger of animals,
-and from the mouth of a rebounding venomous serpent. [3-47-39]
-
-**टिप्पनी**
-
-The simile of lion and serpent is to Rama and the fangs to Seetha. A lion or a snake knows well how
-to protect its instruments, namely fangs. Hence, Seetha is the fang of expeditious and ravenous Rama
-in eliminating evil on earth and now he will become a grudging venomous cobra too, for its tail is going
-to be trampled, by Seetha's abduction. Thus, the instrumentality of Seetha is established and no instrument
-needs to bother on its own, because its owner takes care of that instrument.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga47/aranyasans47.htm)
 </details>

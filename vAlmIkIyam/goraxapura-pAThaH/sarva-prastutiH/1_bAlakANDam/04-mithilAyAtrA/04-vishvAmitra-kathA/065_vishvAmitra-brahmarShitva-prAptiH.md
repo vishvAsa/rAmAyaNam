@@ -506,23 +506,6 @@ _________________
 
 **पदच्छेदः**
 
-*13b, 14a. sarvaaH dishaH vyaakulaaH* = all, directions, are tumultuous;
-*kimcit na prakaashate* = anything, not, brightening; *sarve saagaraaH
-kSubhitaaH* = all, oceans, are tempestuous; *[sarve] parvataaH vishiiryante*
-= [all,] mountains, are eruptive.
-
-**अनुवादः**
-
-All the directions are all tumultuous, all the oceans are tempestuous, and all
-the mountains are eruptive, and nothing is bright. [1-65-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *12, 13a: atha* = now; *asya* = his; *suukSmam api* = imperceptible,
 even; *vR^ijinam kimcit* = sin - imperfection, in the least; *na dR^ishyate
 hi* = not, appears, really; *asya manasaa yat abhiipsitam* = his, heartfelt
@@ -535,6 +518,23 @@ vinaashayati* = he devastates triad of worlds.
 Now, even an imperceptible imperfection does not really appear in him, but if
 his heartfelt desire is not meted out, he will devastate the triad of worlds with
 his ascetic power. [1-65-12, 13a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13b, 14a. sarvaaH dishaH vyaakulaaH* = all, directions, are tumultuous;
+*kimcit na prakaashate* = anything, not, brightening; *sarve saagaraaH
+kSubhitaaH* = all, oceans, are tempestuous; *[sarve] parvataaH vishiiryante*
+= [all,] mountains, are eruptive.
+
+**अनुवादः**
+
+All the directions are all tumultuous, all the oceans are tempestuous, and all
+the mountains are eruptive, and nothing is bright. [1-65-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
@@ -956,6 +956,25 @@ on paying good devoirs to all of them that great saint cheerfully said. [1-65-21
 
 **पदच्छेदः**
 
+*22b, 23a. me* = to me; *braahmaNyam praaptam yadi* = if Brahman-hood
+befallen; *tathaa eva* = like that; *diirgham aayuH ca* = long,
+life [eternality,] also - if I got them; *atha* = then; *AUMkaaraH* =
+Om syllable [quintessence of]; *vaSaTkaaraH* = vaSaT syllable
+[quintessence of]; *vedaaH ca* = Veda-s, even; *maam varayantu* =
+let them patronise me.
+
+**अनुवादः**
+
+If Brahman-hood and eternality have befallen on me, let the quintessence of AUM
+and vaSat syllables, and even all Veda-s patronise me. [1-65-22b, 23a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *23b, 24a. devataaH* = oh gods; *kSatravedavidaam* = among geniuses Kshatriya's
 knowledge [kingcraft] ; *brahmavedavidaam api* = among knowers [scholars of Veda-s] of Brahman
 knowledge, even; *shreSThaH* = the outstanding
@@ -971,25 +990,6 @@ among the scholars of Veda-s as well, even that Vashishta, the brainchild of Bra
 shall acknowledge me in this way as Brahma-sage. Oh, the best gods, you may take
 leave if you can effectuate this ultimate yearning of mine.' Thus Vishvamitra requested
 the gods. [1-65-23b, 24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*22b, 23a. me* = to me; *braahmaNyam praaptam yadi* = if Brahman-hood
-befallen; *tathaa eva* = like that; *diirgham aayuH ca* = long,
-life [eternality,] also - if I got them; *atha* = then; *AUMkaaraH* =
-Om syllable [quintessence of]; *vaSaTkaaraH* = vaSaT syllable
-[quintessence of]; *vedaaH ca* = Veda-s, even; *maam varayantu* =
-let them patronise me.
-
-**अनुवादः**
-
-If Brahman-hood and eternality have befallen on me, let the quintessence of AUM
-and vaSat syllables, and even all Veda-s patronise me. [1-65-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>
@@ -1303,24 +1303,6 @@ _________________
 
 **पदच्छेदः**
 
-*32b, 33a. mahaamune brahman* = oh great saint, oh Brahman; *tvayaa
-darshanena* = when seen by you - by your graceful glance; *aham paavitaH*
-= I am, consecrated; *tava sandarshanaat* = by [my] beholding you; *mayaa
-bahuvidhaaH guNaaH praaptaaH* = many kinds, of attributes [boons,] achieved
-[by me.]
-
-**अनुवादः**
-
-Oh, Brahman, I stand consecrated just by your graceful glance, and oh, great saint,
-I reckon that I have achieved many boons just glancing at you. [1-65-32b, 33a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *31b, 32a. kaushika* = oh Kaushika; *munipungava* = oh the eminent sage
 ; *kaakutsthasahitaH* = along with Kakutstha-s; *yasya* =
 which; *me yaj~nam* = to my, Vedic-ritual; *praaptavaan asi* = you have happened
@@ -1332,6 +1314,24 @@ to come; such as I am; *dhanyaH asmi* = I am fortunate;
 Oh, eminent sage Vishvamitra, you happened to be here at this Vedic-ritual which
 is conducted by me, oh, Kaushika, that too, along with Rama and Lakshmana, the legatees
 of Kakutstha, thereby I am fortunate, I am much obliged. [31b, 32a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*32b, 33a. mahaamune brahman* = oh great saint, oh Brahman; *tvayaa
+darshanena* = when seen by you - by your graceful glance; *aham paavitaH*
+= I am, consecrated; *tava sandarshanaat* = by [my] beholding you; *mayaa
+bahuvidhaaH guNaaH praaptaaH* = many kinds, of attributes [boons,] achieved
+[by me.]
+
+**अनुवादः**
+
+Oh, Brahman, I stand consecrated just by your graceful glance, and oh, great saint,
+I reckon that I have achieved many boons just glancing at you. [1-65-32b, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga65/balasans65.htm)
 </details>

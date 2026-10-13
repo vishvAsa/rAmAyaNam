@@ -573,6 +573,23 @@ Chitrakuta, in the middle of a lonely forest with its charming Cascades and grov
 
 **पदच्छेदः**
 
+*11. aasaadya* = going towards; *tasya* = its; *uttaram
+paarshvam* = norther side; *mandaakinii nadii* = (you find) River Mandakini;
+*puSpitadruma samchhannaa* = which is entirely enveloped iwth flowering trees; *ramya
+puSpita kaananaa* = and having forests flourished with charming blooms.
+
+**अनुवादः**
+
+"Going towards its northern side, you will find River Mandakini, which is entirely
+enveloped with flowering trees and having forests flourished with charming blossoms."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *12. taata* = O; beloved Bharata!; *anantaram* = Beyond;
 *tatsaritaH* = that river; *parvatashcha* = there is a mountain; *chitra
 kuuTaH* = callled Chitrakuta; *tayoH* = and (on it) their; *parNakuTii* = hut
@@ -583,23 +600,6 @@ there; *dhruvam* = It is certain.
 
 "O, beloved Bharata! Beyond that river, there is a mountain called Chitrakuta and on
 it, their hut made of leafy twigs. Both of them are residing there. It is sure."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*11. aasaadya* = going towards; *tasya* = its; *uttaram
-paarshvam* = norther side; *mandaakinii nadii* = (you find) River Mandakini;
-*puSpitadruma samchhannaa* = which is entirely enveloped iwth flowering trees; *ramya
-puSpita kaananaa* = and having forests flourished with charming blooms.
-
-**अनुवादः**
-
-"Going towards its northern side, you will find River Mandakini, which is entirely
-enveloped with flowering trees and having forests flourished with charming blossoms."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
@@ -799,23 +799,6 @@ _________________
 
 **पदच्छेदः**
 
-*17. tadaa* = then; *pradakSiNam aagamya bhagavantam tam
-mahaamunim* = having gone round that venerable and eminent sage clock-wise; *tasthau* =
-she stood; *aduuraadeva* = close; *bharatasya* = to Bharata himself; *diina
-manaaH* = distressed at heart.
-
-**अनुवादः**
-
-Then, having gone around that venerable and eminent sage clock-wise, she stood close
-to Bharata himself, distressed as she was at heart.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16. kaikeyii* = Kaikeyi; *asmaR^iddhena* = with her
 unfulfilled; *kaamena* = desire; *garhitaa* = and despised; *sarva lokasya* =
 by the whole world; *jagraaha* = clasped; *tasya* = his; *charaNau* = feet;
@@ -825,6 +808,23 @@ by the whole world; *jagraaha* = clasped; *tasya* = his; *charaNau* = feet;
 
 Kaikeyi with her unfulfilled desire and despised by the whole world, clasped the
 sage's feet with bashfullness.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. tadaa* = then; *pradakSiNam aagamya bhagavantam tam
+mahaamunim* = having gone round that venerable and eminent sage clock-wise; *tasthau* =
+she stood; *aduuraadeva* = close; *bharatasya* = to Bharata himself; *diina
+manaaH* = distressed at heart.
+
+**अनुवादः**
+
+Then, having gone around that venerable and eminent sage clock-wise, she stood close
+to Bharata himself, distressed as she was at heart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>
@@ -1084,24 +1084,6 @@ and unfailing prowess are the sons of this godly woman, Sumitra.
 
 **पदच्छेदः**
 
-*27. saH* = Bharata; *narashaarduulaH* = the tiger among men;
-*taamraakSaH* = with his red eyes; *uktvaa* = having spoken; *iti* = thus;
-*giraa* = in a voice; *baaSpa gadgadayaa* = stammered with tears;
-*nishashvaasa* = breathed; *kR^iddhaH iva* = like an enraged; *shvasan* = and
-hissing; *naagaH* = snake.
-
-**अनुवादः**
-
-Bharata, the tiger among men, with his red eyes spoke thus in a voice broken by sobs
-and breathing as he like an enraged and hissing snake.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 24; 25; *26. yasyaaH kR^ite* = she; through whose fault;
 *naravyaaghrau* = those two tigers among men; *gatau* = have to obtain;
 *jiivanaasham* = a miserable existence; *itaH* = from here; *raajaa
@@ -1119,6 +1101,24 @@ existence and King Dasaratha deprived of his son, has gone to heaven this woman,
 imprudent, arrogant, who esteems herself to be good-looking, who is covetous of power, unworthy
 though noble to all appearance, know her to be Kaikeyi, my mother of wicked and sinful resolve, in
 whom I see the root cause of my great misfortune."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. saH* = Bharata; *narashaarduulaH* = the tiger among men;
+*taamraakSaH* = with his red eyes; *uktvaa* = having spoken; *iti* = thus;
+*giraa* = in a voice; *baaSpa gadgadayaa* = stammered with tears;
+*nishashvaasa* = breathed; *kR^iddhaH iva* = like an enraged; *shvasan* = and
+hissing; *naagaH* = snake.
+
+**अनुवादः**
+
+Bharata, the tiger among men, with his red eyes spoke thus in a voice broken by sobs
+and breathing as he like an enraged and hissing snake.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga92/ayodhyasans92.htm)
 </details>

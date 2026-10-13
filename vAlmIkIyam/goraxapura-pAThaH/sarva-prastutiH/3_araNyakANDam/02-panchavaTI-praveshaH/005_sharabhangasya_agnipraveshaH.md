@@ -58,14 +58,15 @@ Rama after killing demon Viradha enters the hermitage of Sage Sharabhanga, as ad
 
 **पदच्छेदः**
 
-*2b, 3a. idam dur gam vanam kaSTam* = this, impassable, forest, is causing difficulties; *na cha vana gocharaaH
-smaH* = not, also, forest inhabitants, we are; *shiighram tapaH dhanam sharabhangam abhi gacChaamahe* = quickly,
-in ascesis, wealthy, to Sharabhanga, we will go.
+*1. viiryavaan* = courageous Rama; *bhiima balam raakshasam tam viraadham vane hatvaa* = stupendously, mighty,
+demon, that, Viradha, in forest, on killing; *tataH siithaam parishvajya* = then, Seetha, on embracing; *samaasvaasya
+cha* = comforting her, also; *diipta tejasam bhraataram lakshmanam abraviit* = to one beaming, with resplendence,
+to brother, to Lakshmana, said.
 
 **अनुवादः**
 
-"Difficult is this impassable forest, nor we are forest inhabitants either... let's go quickly to that ascetically rich
-sage Sharabhanga..." [3-5-2b, 3a]
+After killing that stupendously mighty demon Viradha in forest, then Rama comfortingly embraced Seetha, and spoke to his
+brother Lakshmana who is beaming forth with resplendence. [3-5-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
@@ -79,15 +80,14 @@ sage Sharabhanga..." [3-5-2b, 3a]
 
 **पदच्छेदः**
 
-*1. viiryavaan* = courageous Rama; *bhiima balam raakshasam tam viraadham vane hatvaa* = stupendously, mighty,
-demon, that, Viradha, in forest, on killing; *tataH siithaam parishvajya* = then, Seetha, on embracing; *samaasvaasya
-cha* = comforting her, also; *diipta tejasam bhraataram lakshmanam abraviit* = to one beaming, with resplendence,
-to brother, to Lakshmana, said.
+*2b, 3a. idam dur gam vanam kaSTam* = this, impassable, forest, is causing difficulties; *na cha vana gocharaaH
+smaH* = not, also, forest inhabitants, we are; *shiighram tapaH dhanam sharabhangam abhi gacChaamahe* = quickly,
+in ascesis, wealthy, to Sharabhanga, we will go.
 
 **अनुवादः**
 
-After killing that stupendously mighty demon Viradha in forest, then Rama comfortingly embraced Seetha, and spoke to his
-brother Lakshmana who is beaming forth with resplendence. [3-5-1]
+"Difficult is this impassable forest, nor we are forest inhabitants either... let's go quickly to that ascetically rich
+sage Sharabhanga..." [3-5-2b, 3a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
@@ -367,13 +367,14 @@ _________________
 
 **पदच्छेदः**
 
-*11b, 12a. tatra* = there; *vaasave* = Indra; *saha sambhaaSamaaNe tu* = with, while talking to;
-*sharabhangena* = with Sharabhanga; *dR^iSTvaa shata kratum* = on seeing, hundred, rituals, [ of, viz. Indra];
-Rama; *lakshmanam* = to Lakshmana; *abraviit* = spoke.
+*10b, 11a. gandharva amara siddhaas cha* = gandharva-s, amara-s, siddha-s, [the celestial beings,] also; *bahavaH
+parama R^ishayaH* = many, great, sages; *antariksha gatam devam* = in firmament, staying, deity [ Indra]; *
+giirbhiH agryaabhiH aiDayan* = with hymns, best ones, extolling.
 
 **अनुवादः**
 
-On seeing Indra speaking there to sage Sharabhanga, Rama spoke to Lakshmana. [3-5-11b, 12a]
+And the celestials like gandharva-s, amara-s, siddhaa-s and very many great sages as well are extolling Indra who is abiding
+in firmament. [3-5-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>
@@ -387,14 +388,13 @@ On seeing Indra speaking there to sage Sharabhanga, Rama spoke to Lakshmana. [3-
 
 **पदच्छेदः**
 
-*10b, 11a. gandharva amara siddhaas cha* = gandharva-s, amara-s, siddha-s, [the celestial beings,] also; *bahavaH
-parama R^ishayaH* = many, great, sages; *antariksha gatam devam* = in firmament, staying, deity [ Indra]; *
-giirbhiH agryaabhiH aiDayan* = with hymns, best ones, extolling.
+*11b, 12a. tatra* = there; *vaasave* = Indra; *saha sambhaaSamaaNe tu* = with, while talking to;
+*sharabhangena* = with Sharabhanga; *dR^iSTvaa shata kratum* = on seeing, hundred, rituals, [ of, viz. Indra];
+Rama; *lakshmanam* = to Lakshmana; *abraviit* = spoke.
 
 **अनुवादः**
 
-And the celestials like gandharva-s, amara-s, siddhaa-s and very many great sages as well are extolling Indra who is abiding
-in firmament. [3-5-10b, 11a]
+On seeing Indra speaking there to sage Sharabhanga, Rama spoke to Lakshmana. [3-5-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga5/aranyasans5.htm)
 </details>

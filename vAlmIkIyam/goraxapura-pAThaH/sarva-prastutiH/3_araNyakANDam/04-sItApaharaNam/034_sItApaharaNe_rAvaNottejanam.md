@@ -609,6 +609,23 @@ vidhaaya danDakaaraNyam api sakala muni jana sharaNyam atanuta - dk*.
 
 **पदच्छेदः**
 
+*13. mahaatejaa* = highly resplendent; *guNataH tulya vikramaH* = by trait, matches [his
+brother Rama,] in bravery; *anuraktaH ca* = adherent, also; *bhaktaH ca* = devotee, also;
+*viiryavaan* = stout-hearted one; *lakSmaNaH naama* = Lakshmana, known as; *asya bhraataa*
+= is his - Rama's, brother.
+
+**अनुवादः**
+
+"A highly resplendent one who by his trait matches his brother in bravery, an adherent and a devotee
+of his brother, such a stout-hearted one is Rama's brother known as Lakshmana. [1-34-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *14. amarSii* = irritable one; *durjayaH* = invincible one; *jetaa* = victor;
 *vikraantaH* = valiant; *buddhimaan* = intelligent one; *balii* = mighty one; such
 a brother Lakshmana is; *nityam raamasya dakSiNe baahuH* = perpetual, Rama's, a right, hand;
@@ -619,23 +636,6 @@ a brother Lakshmana is; *nityam raamasya dakSiNe baahuH* = perpetual, Rama's, a 
 "That Lakshmana is an easily irritable one, he is not that easily invincible, an easy victor, but not
 an easygoing valiant, yet he is an intellectual at ease, and a mighty one who does not ease off, such
 a Lakshmana is the perpetual right-hand and the peripherally moving life of Rama. [1-34-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*13. mahaatejaa* = highly resplendent; *guNataH tulya vikramaH* = by trait, matches [his
-brother Rama,] in bravery; *anuraktaH ca* = adherent, also; *bhaktaH ca* = devotee, also;
-*viiryavaan* = stout-hearted one; *lakSmaNaH naama* = Lakshmana, known as; *asya bhraataa*
-= is his - Rama's, brother.
-
-**अनुवादः**
-
-"A highly resplendent one who by his trait matches his brother in bravery, an adherent and a devotee
-of his brother, such a stout-hearted one is Rama's brother known as Lakshmana. [1-34-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyasans34.htm)
 </details>

@@ -197,29 +197,6 @@ _________________
 
 **पदच्छेदः**
 
-8; *9. raajan* = O; *king! sthitaH* = standing; *eSaam
-madhye* = in the middle; *bhiimakSaH* = with terrific eyes; *bhayadarshanaH* = of
-fearful appearance; *parivaaritaH* = encircled; *samantaat* = by all; *parjanyaH
-iva* = like Parajanya ( the Lord of rain); *jiimutaiH* = (being encircled) by clouds;
-*eSaH* = he; *yuuthapaH* = is the army-chief; *dhuumraH naama* = called
-Dhumra; *adhipatiH* = the lord sarvarkSaaNaam = of all bears; *piban* = who drinks;
-*narmadaam* = the waters of River Narmada; *adhyaaste* = and resides;
-*girishreSTham* = on an excellent mountain; *R^ikSavantam* = called Rikshanvanta.
-
-**अनुवादः**
-
-"O, king! He who is standing in the middle, with terrific eyes and of fearful
-appearance, encircled by all like Parjanya (the rain-god) being encircled by clouds; is the
-army-chief called Dhumra, the Lord of all bears, who drinks the waters of River Narmada and resides
-on an excellent mountain named Rikshavanta."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 5; 6; *7. raajam* = O; *king! tiSThataH* = those who appear;
 *niilan* = black; *mahaameghaamiva* = like big clouds; *asitaaNjana
 samkaashaaH* = akin to black collyrium; *ete* = these are; *R^iKSaaH* = bears;
@@ -237,6 +214,29 @@ in plains; *nadiiSu cha* = and on river-banks abhivartante = and they are coming
 extremely ferocious bears, truly mighty in combat, which are in exceedingly large number,
 indefinable like the other shore of an ocean, whom you are observing and serve of whom reside in
 mountains, plains and on river-banks. They are all coming towards you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+8; *9. raajan* = O; *king! sthitaH* = standing; *eSaam
+madhye* = in the middle; *bhiimakSaH* = with terrific eyes; *bhayadarshanaH* = of
+fearful appearance; *parivaaritaH* = encircled; *samantaat* = by all; *parjanyaH
+iva* = like Parajanya ( the Lord of rain); *jiimutaiH* = (being encircled) by clouds;
+*eSaH* = he; *yuuthapaH* = is the army-chief; *dhuumraH naama* = called
+Dhumra; *adhipatiH* = the lord sarvarkSaaNaam = of all bears; *piban* = who drinks;
+*narmadaam* = the waters of River Narmada; *adhyaaste* = and resides;
+*girishreSTham* = on an excellent mountain; *R^ikSavantam* = called Rikshanvanta.
+
+**अनुवादः**
+
+"O, king! He who is standing in the middle, with terrific eyes and of fearful
+appearance, encircled by all like Parjanya (the rain-god) being encircled by clouds; is the
+army-chief called Dhumra, the Lord of all bears, who drinks the waters of River Narmada and resides
+on an excellent mountain named Rikshavanta."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
@@ -617,15 +617,18 @@ _________________
 
 **पदच्छेदः**
 
-*24. eSaiva* = he indeed; *sthitaH* = is standing;
-*vR^itaH* = surrounded; *koTisahasreNa* = by a thousand crores; *hariiNaam* =
-of monkeys; *aashamsae* = and hopes; *marditum* = to crush; *laN^kaam* =
-Lanka; *svena* = by his; *aniikena* = army.
+*20. yasya* = whose; *vikramaaNasya* = striding;
+*paraakramaaH* = prowess; *shakrasyeva* = is like that of Indra the Lord of
+celestials; *eSaH* = this Samnada; *utpannaH* = was born; *gandharva
+kanyaayaam* = of a youthful Gandharva maiden; *kR^iSNavartmanaa* = and Krishnavartmana;
+*tadaa* = then; *devaasurayuddhe* = in a combat between celestials and demons;
+*saahyaartham* = for the purpose of helping; *trividvaukasaam* = the celestials.
 
 **अनुवादः**
 
-"He indeed is standing, surrounded by a thousand crores of monkeys. He hopes to
-crush Lanka with the help of his army."
+"This Samnada, whose striding prowess is equal to that of Indra the Lord of
+Celestials was born of a youthful Gandharva maiden and krishnavartman for the purpose of helping
+the celestials in a combat between celestials and demoneous."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
@@ -665,18 +668,15 @@ confined to words in battles, sports."
 
 **पदच्छेदः**
 
-*20. yasya* = whose; *vikramaaNasya* = striding;
-*paraakramaaH* = prowess; *shakrasyeva* = is like that of Indra the Lord of
-celestials; *eSaH* = this Samnada; *utpannaH* = was born; *gandharva
-kanyaayaam* = of a youthful Gandharva maiden; *kR^iSNavartmanaa* = and Krishnavartmana;
-*tadaa* = then; *devaasurayuddhe* = in a combat between celestials and demons;
-*saahyaartham* = for the purpose of helping; *trividvaukasaam* = the celestials.
+*24. eSaiva* = he indeed; *sthitaH* = is standing;
+*vR^itaH* = surrounded; *koTisahasreNa* = by a thousand crores; *hariiNaam* =
+of monkeys; *aashamsae* = and hopes; *marditum* = to crush; *laN^kaam* =
+Lanka; *svena* = by his; *aniikena* = army.
 
 **अनुवादः**
 
-"This Samnada, whose striding prowess is equal to that of Indra the Lord of
-Celestials was born of a youthful Gandharva maiden and krishnavartman for the purpose of helping
-the celestials in a combat between celestials and demoneous."
+"He indeed is standing, surrounded by a thousand crores of monkeys. He hopes to
+crush Lanka with the help of his army."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
@@ -772,33 +772,21 @@ _________________
 
 **पदच्छेदः**
 
-*29. saH eSaH* = he as such; *netaa* = is the leader;
-*eteSaam* = of these; *mahaatmanaam* = high-souled; *vaanaraaNaam* = monkeys;
-*raajan* = O; king!; *saH eSaH* = he as such; *yuuthapaH* = is the commander;
-*pramaathii naama* = called Pramathi; *durdharaH* = the one difficult to be
-conquered.
+25; 26. 25; *26. yaH* = He who; *anuparyet* = usually roam;
+*gaN^gaam* = by the ganges; *traasayan* = sowing terror; *gaja yuuthapaan* =
+leaders of herds of elephants; *anumaran* = remembering as he does; *puurva vairam* =
+the old quarrel; *hastinaam* = between elephants; *vaanaraaNaam ca* = and monkeys;
+*garjan* = thundering; *aarujamshca* = and uprooting; *mahiiruhaan* = trees;
+*yuuthapatiH* = the commander; *netaa* = and the leader (of monkeys); *eSaH* =
+this; *pramathigiriguhaashayaH* = dwells in the mountain caves; *rodhayate* =
+subduing; *vanyaan gajaan* = wild elephants.
 
 **अनुवादः**
 
-"He is the leader of these high-soled monkeys. O, king! He is the commander called
-Pramathi, the one difficult to be conquered."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*28. shatasahasraaNaam* = a hundred thousands of monkeys; *viirya
-vikrama dR^iptaanaam* = proud of their strength and prowess; *baahushalinaam* = with
-radiant fore-arms; *nardataam* = making a roaring sound; *abhivartate* = are
-following; *enam* = him.
-
-**अनुवादः**
-
-"A hundred thousands of monkeys; proud of their strength and prowess with their
-radiant fore-arms, making a roaring noise, are following him."
+"He who usually roams by the Ganges, sowing terror among leaders of herds of
+elephants, remembering as he does the old quarrel between elephants and monkeys, thundering and
+uprooting trees, he is the commander and leader of monkeys called Pramathim who dwells in
+mountain-caves, subduing wild elephants."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
@@ -823,9 +811,44 @@ passes his life happily like unto Indra himself."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. shatasahasraaNaam* = a hundred thousands of monkeys; *viirya
+vikrama dR^iptaanaam* = proud of their strength and prowess; *baahushalinaam* = with
+radiant fore-arms; *nardataam* = making a roaring sound; *abhivartate* = are
+following; *enam* = him.
+
+**अनुवादः**
+
+"A hundred thousands of monkeys; proud of their strength and prowess with their
+radiant fore-arms, making a roaring noise, are following him."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
+</details>
+
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रावणने! नीनल्लि नोडुत्तिरुव वानर नायकने प्रमाधि ऎम्बुवनु. वानररिगू मत्तु आनॆगळिगू इरुव हिन्दिन वैरवन्नु स्मरिसुत्ता प्रमाधियु आनॆगळन्नु भयगॊळिसुत्ता गङ्गानदिय तीरदल्लि सञ्चरिसुत्तानॆ. गिरिगळ गुहॆगळल्लि मलगुव प्रमाधियु काडिनल्लिरुव वृक्षगळन्नु बुडसहित कित्तु आनॆगळु होगुव हादियल्लिरिसि अवुगळु मुन्दॆ होगदन्तॆ तडॆयुवनु. वानरर वाहिनिगॆ दण्ड नायकनागिरुव अवनु गङ्गानदिय तीरदल्लिरुव उशीरबीजवॆम्ब पर्वतवन्नू, पर्वतगळल्लि श्रेष्ठवाद मन्दर पर्वतवन्नु आश्रयिसि देवलोकद इन्द्रनन्तॆ विहरिसुत्तिरुवनु. वीर्य-पराक्रमगळिन्द गर्विष्ठनागिरुव, बाहुबलदिन्द शोभिसुव, सर्वकालदल्लियू गर्जिसुत्तिरुव हत्तुकोटि वानर सैनिकरु प्रमाधियन्नु अनुसरिसि होगुत्तिरुत्तारॆ. वानररिगॆ इवने नेतारनु. वेगशालिगळाद वानररिन्द कूडिरुव, यार सैन्यवु कोपगॊण्डिरुवुदो, वायुविनिन्द चदुरिहोद मेघदन्तॆ इरुव यावनन्नु नीनु नोडुत्तिरुवॆयो अवने प्रमाधियु. गाळियिन्द ऎद्दिरुव ऎण्णॆगम्पिनन्तॆ इरुव धूळु पुनः सुत्तिकॊण्डु बीळुत्तिरुव स्थळवे प्रमाधियदागिदॆ.॥25-31॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. saH eSaH* = he as such; *netaa* = is the leader;
+*eteSaam* = of these; *mahaatmanaam* = high-souled; *vaanaraaNaam* = monkeys;
+*raajan* = O; king!; *saH eSaH* = he as such; *yuuthapaH* = is the commander;
+*pramaathii naama* = called Pramathi; *durdharaH* = the one difficult to be
+conquered.
+
+**अनुवादः**
+
+"He is the leader of these high-soled monkeys. O, king! He is the commander called
+Pramathi, the one difficult to be conquered."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -846,29 +869,6 @@ wind; (is Pramathi); *yatra* = in which place; *aruNaabhaasam* = a red illumined
 great quantity of red illumined dust is tossed about and raised by wind in various ways in
 different directions. Energetic and excited army of monkeys is also stationed there along with
 Pramathi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-25; 26. 25; *26. yaH* = He who; *anuparyet* = usually roam;
-*gaN^gaam* = by the ganges; *traasayan* = sowing terror; *gaja yuuthapaan* =
-leaders of herds of elephants; *anumaran* = remembering as he does; *puurva vairam* =
-the old quarrel; *hastinaam* = between elephants; *vaanaraaNaam ca* = and monkeys;
-*garjan* = thundering; *aarujamshca* = and uprooting; *mahiiruhaan* = trees;
-*yuuthapatiH* = the commander; *netaa* = and the leader (of monkeys); *eSaH* =
-this; *pramathigiriguhaashayaH* = dwells in the mountain caves; *rodhayate* =
-subduing; *vanyaan gajaan* = wild elephants.
-
-**अनुवादः**
-
-"He who usually roams by the Ganges, sowing terror among leaders of herds of
-elephants, remembering as he does the old quarrel between elephants and monkeys, thundering and
-uprooting trees, he is the commander and leader of monkeys called Pramathim who dwells in
-mountain-caves, subduing wild elephants."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga27/yuddhasans27.htm)
 </details>

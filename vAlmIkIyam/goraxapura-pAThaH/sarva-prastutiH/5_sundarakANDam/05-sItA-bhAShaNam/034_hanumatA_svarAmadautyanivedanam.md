@@ -555,6 +555,22 @@ _________________
 
 **पदच्छेदः**
 
+*10. aho dhik* = O shame!; *me duSkR^itam* = It was my guilt; *kathitam*
+= to tell; *asya* = him; *idam* = (all) this; *ayam* = he; *saH raavaNaH hi* = is
+indeed that Ravana; *upaagamya* = who obtained; *ruupaantaram* = another guise.
+
+**अनुवादः**
+
+"O shame! It was my guilt to tell him all this to him. He is indeed that Ravana, who obtained another
+guise."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *11. saa* = that Seetha; *anavadyaaN^gii* = having faultless limbs; *vimuktyaa*
 = leaving; *taam* = that; *shaakhaam* = branch; *ashokasya* = of Ashoka tree; *shoka karshitaa*
 = and emaciated with grief; *samupaavishat* = sat down; *tasyaam dharaNyaameva* = on that floor
@@ -564,22 +580,6 @@ itself.
 
 That Seetha, having faultless limbs, leaving that branch of Ashoka tree and as emaciated with grief,
 sat down on that ground itself.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*10. aho dhik* = O shame!; *me duSkR^itam* = It was my guilt; *kathitam*
-= to tell; *asya* = him; *idam* = (all) this; *ayam* = he; *saH raavaNaH hi* = is
-indeed that Ravana; *upaagamya* = who obtained; *ruupaantaram* = another guise.
-
-**अनुवादः**
-
-"O shame! It was my guilt to tell him all this to him. He is indeed that Ravana, who obtained another
-guise."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
@@ -1244,15 +1244,15 @@ am knowing about myself as also about this monkey."
 
 **पदच्छेदः**
 
-*26. tadaa* = then; *saa* = that; *tanumadhyamaa* = slender waisted;
-*siitaa* = Seetha; *janakaatmajaa* = the daughter of Janaka; *etaam buddhim kR^itvaa* = thus
-having made up her mind; *na prativyaajahaara* = did not reply in return; *vaanaram* = to Hanuma;
-*atha* = thereafter.
+*25. ityevam* = thus; *sampradhaarya* = deliberating upon; *balaabalam*
+= the strengths and weaknesses; *bahudhaa* = in several ways; *siita* = Seetha; *mane* =
+thought; *tam* = him; *raakSasaadhipam* = as Ravana; *kaamaruupatvaat* = as they can change
+their forms at will.
 
 **अनुवादः**
 
-Then, that slender waisted Seetha, the daughter of Janaka, thus having made up her mind, did not
-reply in return anything further to Hanuman.
+Thus deliberating upon the strengths and weaknesses in several ways, Seetha finally imagined him
+to be Ravana, as demons can change their forms at will.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
@@ -1266,15 +1266,15 @@ reply in return anything further to Hanuman.
 
 **पदच्छेदः**
 
-*25. ityevam* = thus; *sampradhaarya* = deliberating upon; *balaabalam*
-= the strengths and weaknesses; *bahudhaa* = in several ways; *siita* = Seetha; *mane* =
-thought; *tam* = him; *raakSasaadhipam* = as Ravana; *kaamaruupatvaat* = as they can change
-their forms at will.
+*26. tadaa* = then; *saa* = that; *tanumadhyamaa* = slender waisted;
+*siitaa* = Seetha; *janakaatmajaa* = the daughter of Janaka; *etaam buddhim kR^itvaa* = thus
+having made up her mind; *na prativyaajahaara* = did not reply in return; *vaanaram* = to Hanuma;
+*atha* = thereafter.
 
 **अनुवादः**
 
-Thus deliberating upon the strengths and weaknesses in several ways, Seetha finally imagined him
-to be Ravana, as demons can change their forms at will.
+Then, that slender waisted Seetha, the daughter of Janaka, thus having made up her mind, did not
+reply in return anything further to Hanuman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
@@ -1456,23 +1456,6 @@ possessing good fortune and a royal dignity. He is a personified Manmadha, the l
 
 **पदच्छेदः**
 
-*31. sthaana krodhaH* = (Rama) gets anger at the right time; *prahartaacha*
-= He strikes a befitting person; *shreSThaH* = he is an excellent; *mahaarathaH* = chariot-warrior;
-*yasya* = in which; *baahu chchhaayaam* = shelter of arms; *mahaatmanaH* = of the high-souled
-man; *lokaH* = the world; *avasTabdhaH* = is resting on.
-
-**अनुवादः**
-
-"Rama gets anger only at right time. He strikes a befitting person at a right time. He is an excellent
-chariot-warrior. The world is resting under the shelter of arms of this high souled man."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 28; *29. tejasvii* = (Rama) has a great splendour; *aaditya iva* = like that
 of the sun; *loka kaantaH* = pleasing to all; *shasiiyathaa* = like the moon; *raajaa* =
 lord; *sarvasya* = to the entire; *lokasya* = world; *devo vaishravaNo yathaa* = like Kubera
@@ -1483,6 +1466,23 @@ the lord of wealth; *mahaayashaaH* = greatly renowned; *viSNuH yathaa* = like Vi
 
 "Rama has a great splendour like that of the sun. He is pleasing to all like the moon. As Kubera
 the Lord of wealth, he is a lord to the entire world. Like Vishnu, he is greatly renowned and endowed with valour."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. sthaana krodhaH* = (Rama) gets anger at the right time; *prahartaacha*
+= He strikes a befitting person; *shreSThaH* = he is an excellent; *mahaarathaH* = chariot-warrior;
+*yasya* = in which; *baahu chchhaayaam* = shelter of arms; *mahaatmanaH* = of the high-souled
+man; *lokaH* = the world; *avasTabdhaH* = is resting on.
+
+**अनुवादः**
+
+"Rama gets anger only at right time. He strikes a befitting person at a right time. He is an excellent
+chariot-warrior. The world is resting under the shelter of arms of this high souled man."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
@@ -1663,15 +1663,15 @@ _________________
 
 **पदच्छेदः**
 
-*36. devii* = O Princess! saH vaanaraH = that monkey; *sugriivonaama* = named
-Sugreeva; *sakhaa* = a companion; *raamasya* = of Rama; *raajaa* = and the king; *vaanara
-mukhyaanaam* = of the excellent monkeys; *abraviit* = asked; *tvaam kaushalam* = about your
-welfare.
+*35. saH lakSmaNashcha* = that Lakshmana too; *mahaa tejaaH* = having a great
+splendour; *sumitraa nanda vardhanaH* = who augments the happiness of Sumitra his mother; *mahaa baahuH*
+= and having long arms; *abhivaadya* = saluted; *tvaam* = you; *abraviit* = and enquired;
+*kaushalam* = about your welfare.
 
 **अनुवादः**
 
-"O princess! That monkey called Sugreeva, a companion of Rama and the king of the excellent monkeys,
-asked about your welfare."
+"That long-armed Lakshmana too, having a great splendour and who augments the happiness of Sumitra
+his mother, saluted you and enquired about your welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>
@@ -1685,15 +1685,15 @@ asked about your welfare."
 
 **पदच्छेदः**
 
-*35. saH lakSmaNashcha* = that Lakshmana too; *mahaa tejaaH* = having a great
-splendour; *sumitraa nanda vardhanaH* = who augments the happiness of Sumitra his mother; *mahaa baahuH*
-= and having long arms; *abhivaadya* = saluted; *tvaam* = you; *abraviit* = and enquired;
-*kaushalam* = about your welfare.
+*36. devii* = O Princess! saH vaanaraH = that monkey; *sugriivonaama* = named
+Sugreeva; *sakhaa* = a companion; *raamasya* = of Rama; *raajaa* = and the king; *vaanara
+mukhyaanaam* = of the excellent monkeys; *abraviit* = asked; *tvaam kaushalam* = about your
+welfare.
 
 **अनुवादः**
 
-"That long-armed Lakshmana too, having a great splendour and who augments the happiness of Sumitra
-his mother, saluted you and enquired about your welfare."
+"O princess! That monkey called Sugreeva, a companion of Rama and the king of the excellent monkeys,
+asked about your welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga34/sundarasans34.htm)
 </details>

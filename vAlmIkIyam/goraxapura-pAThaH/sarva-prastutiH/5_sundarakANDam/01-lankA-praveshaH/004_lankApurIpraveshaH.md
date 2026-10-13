@@ -75,6 +75,31 @@ _________________
 
 **पदच्छेदः**
 
+*1. saH hanumaan* = that Hanuma; *kapisattamaH* = the best among
+Vanaras; *mahaatejaaH* = the great radiant one; *mahaa baahuH* = the long armed one;
+*nirjitya* = conquered; *vikrameNa* = by strength; *taam laN^kaam* = that
+Lanka; *shreeshhThaam* = the best one; *kaamaruupiNiim* = capable of assuming desired
+form; *abhipupluve* = leapt; *praakaaram* = (over) fortress wall; *advaareNa*
+= at a non-entry gate.
+
+**अनुवादः**
+
+That Hanuma the best among Vanaras, the great radiant one, the long armed one,
+conquered with His might the best Lanka who is capable of assuming desired form. He then leapt over
+the city wall at a place that was not a gate.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+महातेजस्वियाद, महासत्त्वनाद, महावीर्यनाद, कपिश्रेष्ठनाद हनुमन्तनु कामरूपिणियाद, श्रेष्ठराक्षसियाद लङ्कॆय अधिदेवतॆयन्नु पराक्रमदिन्द जयिसिदनु. ॥1॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *2. kapiraaja hitaMkaraH* = desiring the benefit of the king of
 Vanaras; *saH* = that Hanuma; *pravishya* = entered; *laN^kaam nagariim* = the
 city of Lanka; *atha* = and; *chakre* = made; *savyaM paadam* = left foot;
@@ -89,31 +114,6 @@ of Lanka and thus actually placed His left foot on the enemies' heads.
 
 Comment : When entering a city of enemies, one who wishes their destruction
 should always place one's left foot first into the city.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-महातेजस्वियाद, महासत्त्वनाद, महावीर्यनाद, कपिश्रेष्ठनाद हनुमन्तनु कामरूपिणियाद, श्रेष्ठराक्षसियाद लङ्कॆय अधिदेवतॆयन्नु पराक्रमदिन्द जयिसिदनु. ॥1॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*1. saH hanumaan* = that Hanuma; *kapisattamaH* = the best among
-Vanaras; *mahaatejaaH* = the great radiant one; *mahaa baahuH* = the long armed one;
-*nirjitya* = conquered; *vikrameNa* = by strength; *taam laN^kaam* = that
-Lanka; *shreeshhThaam* = the best one; *kaamaruupiNiim* = capable of assuming desired
-form; *abhipupluve* = leapt; *praakaaram* = (over) fortress wall; *advaareNa*
-= at a non-entry gate.
-
-**अनुवादः**
-
-That Hanuma the best among Vanaras, the great radiant one, the long armed one,
-conquered with His might the best Lanka who is capable of assuming desired form. He then leapt over
-the city wall at a place that was not a gate.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
@@ -253,26 +253,6 @@ _________________
 
 **पदच्छेदः**
 
-*6;7. tataH* = then; *(the city) prajajvaalaa* = shone;
-*suvibhuushhitaa* = being well decorated; *sarvataH* = everywhere;
-*rakshogaNagR^ihaiH* = by houses of Rakshasas; *varthamaana gR^ihaishchaai* = and
-also modern houses; *sitaabhra sadR^ishaiH* = equalling white clouds; *chitraiH* =
-surprising ones; *padmasvastika saMsthitaiH* = with the shape of lotus and swastika;
-*shubhaiH* = (and) auspicious.
-
-**अनुवादः**
-
-Then that city of Lanka shone brilliantly being well decorated by the houses of
-Rakshasas. These were modern houses which equalled white clouds, which were surprising with the
-shape of lotus and swastika and which were auspicious.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5. ramyaa purii* = the beautiful city; *babhaase* = shone;
 *dyauriva* = like the sky; *ambudaiH* = with clouds; *gR^iha meghaiH* = with
 cloud like houses; *hasitotkR^ishhTa ninadaiH* = with sounds of laughter; *tuurya ghoshha
@@ -285,6 +265,26 @@ vibhuushhitaiH* = with windows decorated with diamonds.
 The beautiful city shone like the sky together with clouds, with its cloud like
 houses filled with sounds of laughter and with sounds of musical instruments at the interior, equal
 in strength to diamonds and clubs and with windows decorated with diamonds.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6;7. tataH* = then; *(the city) prajajvaalaa* = shone;
+*suvibhuushhitaa* = being well decorated; *sarvataH* = everywhere;
+*rakshogaNagR^ihaiH* = by houses of Rakshasas; *varthamaana gR^ihaishchaai* = and
+also modern houses; *sitaabhra sadR^ishaiH* = equalling white clouds; *chitraiH* =
+surprising ones; *padmasvastika saMsthitaiH* = with the shape of lotus and swastika;
+*shubhaiH* = (and) auspicious.
+
+**अनुवादः**
+
+Then that city of Lanka shone brilliantly being well decorated by the houses of
+Rakshasas. These were modern houses which equalled white clouds, which were surprising with the
+shape of lotus and swastika and which were auspicious.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
@@ -383,15 +383,15 @@ _________________
 
 **पदच्छेदः**
 
-*10. apsarasaam iva* = like Apsarasa women; *divi* = in heaven;
-*mada samR^iddhaanaam* = filled with love; *striiNaam* = of women;
-*tristhaanasvarabhuuSitam* = decorated by sounds born from the three areas- Mandra; Madhya;
-Tara; *shushraava* = heard; *giitam* = song; *madhuram* = which was sweet.
+*9. gacchan* = going; *bhavanaat bhavanam* = from one buiding to
+another; *pavanaatmajaH* = Hanuma; *dadarsha* = saw; *bhavanaani* = buildings;
+*vividhaakR^iti ruupaaNi* = in various shapes and forms; *tatastataH* = on every
+side.
 
 **अनुवादः**
 
-Hanuma heard a sweet song which was decorated by sound from the three svaras -
-Mandra, Madhya and Tara of love lorne women like Apsara women in heaven.
+Going from one building to another, Hanuma saw buildings in various shapes and forms
+on every side.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
@@ -405,15 +405,15 @@ Mandra, Madhya and Tara of love lorne women like Apsara women in heaven.
 
 **पदच्छेदः**
 
-*9. gacchan* = going; *bhavanaat bhavanam* = from one buiding to
-another; *pavanaatmajaH* = Hanuma; *dadarsha* = saw; *bhavanaani* = buildings;
-*vividhaakR^iti ruupaaNi* = in various shapes and forms; *tatastataH* = on every
-side.
+*10. apsarasaam iva* = like Apsarasa women; *divi* = in heaven;
+*mada samR^iddhaanaam* = filled with love; *striiNaam* = of women;
+*tristhaanasvarabhuuSitam* = decorated by sounds born from the three areas- Mandra; Madhya;
+Tara; *shushraava* = heard; *giitam* = song; *madhuram* = which was sweet.
 
 **अनुवादः**
 
-Going from one building to another, Hanuma saw buildings in various shapes and forms
-on every side.
+Hanuma heard a sweet song which was decorated by sound from the three svaras -
+Mandra, Madhya and Tara of love lorne women like Apsara women in heaven.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
@@ -886,23 +886,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. kapiH* = Hanuma; *dadarsha* = saw;
-*antaHpuraagrataH* = (statoned) before inner city; *madhyamaMaaraksham* = central
-protective force; *avyagram* = attentive; *setasahasram* = equal in hundred thousand;
-*rakhodhipatinirdishhTam* = positioned at the command of Ravana.
-
-**अनुवादः**
-
-Hanuma saw at the front of inner city, a hundred thousand central protective force
-which was attentive and was positioned there at the command of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *20;21;22. mahaakapiH* = Hanuma; *dadarsha* = saw;
 *shektivR^ikshayudhaamshcaiva* = those who carried javelins and trees as weapons;
 *paTisashenidhaariNaH* = or holding Pattisa and thunderbolts;
@@ -921,6 +904,23 @@ weapons, those who carried Pattisas and thunderbolts, those who carried in their
 nooses, those who carried flowered garlands, wearing sandal paste and decorated with best
 jewellery, those who had various kinds of appearances roaming freely at will, those who carried
 sharp spikes and thunderbolts.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. kapiH* = Hanuma; *dadarsha* = saw;
+*antaHpuraagrataH* = (statoned) before inner city; *madhyamaMaaraksham* = central
+protective force; *avyagram* = attentive; *setasahasram* = equal in hundred thousand;
+*rakhodhipatinirdishhTam* = positioned at the command of Ravana.
+
+**अनुवादः**
+
+Hanuma saw at the front of inner city, a hundred thousand central protective force
+which was attentive and was positioned there at the command of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>
@@ -1043,26 +1043,6 @@ _________________
 
 **पदच्छेदः**
 
-*29. saH* = Hanuma; *aavivesha* = entered;
-*raavanaataHpuram* = the in inner city of Ravana; *sahema* = filled with gold;
-*jaabuunadacakravaaLam* = with a golden court-yard;
-*mahaaraHmuktaamaNibhuushhitaantam* = with a central area decorated by pearls and diamonds
-of great value; *paraardhyakaalaagurucandanaaktam* = and which was sprinkled with water
-containing superb agallocum and sandal-wood.
-
-**अनुवादः**
-
-Hanuma entered the inner city of Ravana which was filled with gold, which had a
-golden court-yard , with a central area decorated by pearls and diamonds of great value and
-sprinkled daily with water containing superb algallocum and sandal-wood.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *26;27;28.. mahaakapiH* = The great Hanuma; *aavivesha* =
 entered; *guptam* = secretly; *raakshasaadhipateeH* = Ravana's inner city;
 *trivishhTapaHnibham* = (which was like a) paradise; *divyam* = best one;
@@ -1084,6 +1064,26 @@ rendered noisy by neighing of horses and tinkling of ornaments, by chariots, veh
 aerial-cars and decorated by auspicious elephants and horses and great elephants with four tusks
 and by birds and animals in heat. It had beautiful entrances and was protected by thousands of
 rakshasas with great strength.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. saH* = Hanuma; *aavivesha* = entered;
+*raavanaataHpuram* = the in inner city of Ravana; *sahema* = filled with gold;
+*jaabuunadacakravaaLam* = with a golden court-yard;
+*mahaaraHmuktaamaNibhuushhitaantam* = with a central area decorated by pearls and diamonds
+of great value; *paraardhyakaalaagurucandanaaktam* = and which was sprinkled with water
+containing superb agallocum and sandal-wood.
+
+**अनुवादः**
+
+Hanuma entered the inner city of Ravana which was filled with gold, which had a
+golden court-yard , with a central area decorated by pearls and diamonds of great value and
+sprinkled daily with water containing superb algallocum and sandal-wood.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga4/sundarasans4.htm)
 </details>

@@ -1518,23 +1518,6 @@ _________________
 
 **पदच्छेदः**
 
-*32. mahodadhau* = In that vast ocean; *vihitau* = were built;
-*viihitau* = and fixed; *tau parvatau* = those mountains; *devaiH* = by the
-celestials; *raajan* = O; King!; *ayam* = (Let) this; *hanuumaan* = Hanuman;
-*vaayusutaH* = the son of wind-god; *gachhatu* = go; *tatra* = there.
-
-**अनुवादः**
-
-"The celestials place dthose two mountain in the vast sea. O, King! Let Hanuman the
-son of Wind-God go there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *31. kSirode* = from the bosom of the milky ocean;
 *saagarottame* = the best of oceans; (rise the mountains); *naama* = called;
 *chnadrashcha* = Chandra; *droNashcha* = and Drona; *yatra* = where;
@@ -1546,6 +1529,23 @@ aparamauSadhii = excellent herbs; *tatra* = are here.
 "In the bosom of the milky ocean the best of oceans, rise the mountains called
 Chandra and Drona, where the ambrosia was formerly churned. These two excellent herbs exist
 there."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. mahodadhau* = In that vast ocean; *vihitau* = were built;
+*viihitau* = and fixed; *tau parvatau* = those mountains; *devaiH* = by the
+celestials; *raajan* = O; King!; *ayam* = (Let) this; *hanuumaan* = Hanuman;
+*vaayusutaH* = the son of wind-god; *gachhatu* = go; *tatra* = there.
+
+**अनुवादः**
+
+"The celestials place dthose two mountain in the vast sea. O, King! Let Hanuman the
+son of Wind-God go there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>
@@ -2305,25 +2305,6 @@ _________________
 
 **पदच्छेदः**
 
-*49. ete* = these serpents; *kaadraveyaaH* = the sons of Kadru;
-*tiikSNadamSTrau* = with their sharp fangs; *viSolbaNaaH* = abundantly furnished iwth
-poison; *bhuutvaa* = became; *sharaaH* = arrows; *rakSomaayaa prabhaaveNa* =
-by the dint of sorcery by Indrajit the demon; *tvadaashritaa* = and took their base at
-you."
-
-**अनुवादः**
-
-"These serpents, which took their base at, were none other than the sons of Kadru
-with their sharp fangs, abundantly filled with poison, transformed into arrows, by the dint of
-sorcery by Indrajit the demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 47; *48. asuraaH vaa* = either the demons; *mahaaviiryaaH* = the
 most valiant; *vaanaraaH vaa* = or hte monkeys; *mahaabalaah* = the exceedingly
 strong; *suraashchaapi* = or the celestials; *sagandharvaaH* = together with the
@@ -2339,6 +2320,25 @@ sorcery; *indrajitaa* = by Indrajit; *kruura karmaNaa* = of cruel deeds.
 together with the celestial musicians having Devendra the Lord of celestials in their forefront are
 unable to untie this awfully terrific entanglement of arrows created through his power of sorcery
 by Indrajit of terrific deeds."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*49. ete* = these serpents; *kaadraveyaaH* = the sons of Kadru;
+*tiikSNadamSTrau* = with their sharp fangs; *viSolbaNaaH* = abundantly furnished iwth
+poison; *bhuutvaa* = became; *sharaaH* = arrows; *rakSomaayaa prabhaaveNa* =
+by the dint of sorcery by Indrajit the demon; *tvadaashritaa* = and took their base at
+you."
+
+**अनुवादः**
+
+"These serpents, which took their base at, were none other than the sons of Kadru
+with their sharp fangs, abundantly filled with poison, transformed into arrows, by the dint of
+sorcery by Indrajit the demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga50/yuddhasans50.htm)
 </details>

@@ -1601,23 +1601,6 @@ the conduct of his forebears"
 
 **पदच्छेदः**
 
-*37. saa devii* = that queen Kaikeyi; *naiva kshhubhyate* = did
-not get excted; *na pariduuyatesma* = was not reapented in her heart; *na lakshhyate*
-= nor was seen; *vikrayaacha* = even change in; *asyaaH* = her;
-*mukhavarNasya* = colour of the face; *tada* = then.
-
-**अनुवादः**
-
-That queen Kaikeyi, however, was neither excited nor repented in her heart nor was
-any change observed in the colour of her face.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *36. iti* = Thus; *sumantraH* = Sumantra;
 *kshhobhaayamaasa* = caused a shaking; *kaikeyiim* = to Kaikeyi;
 *raajasamsadi* = in the royal assemble; *saantvaishcha* = by his kind words;
@@ -1628,6 +1611,23 @@ any change observed in the colour of her face.
 
 Thus, Sumantra repeatedly with joint palms, caused a shaking to Kaikeyi in the royal
 assmebly, by his kind words as well as bitter words.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. saa devii* = that queen Kaikeyi; *naiva kshhubhyate* = did
+not get excted; *na pariduuyatesma* = was not reapented in her heart; *na lakshhyate*
+= nor was seen; *vikrayaacha* = even change in; *asyaaH* = her;
+*mukhavarNasya* = colour of the face; *tada* = then.
+
+**अनुवादः**
+
+That queen Kaikeyi, however, was neither excited nor repented in her heart nor was
+any change observed in the colour of her face.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm)
 </details>

@@ -166,23 +166,6 @@ with the valour of the gods."
 
 **पदच्छेदः**
 
-*5. ete* = these monkeys; *sugriiva sachivaaH* = the attendants
-of Sugreeva; *utpannaaH* = born; *devagandharvaiH* = of celestials and celestial
-musicians; *kaama ruupiNaH* = are able to change their form at will; *sadaa* = and
-always; *kiSkindha nilayaaH* = stay in Kishkindha.
-
-**अनुवादः**
-
-"These monkeys, the attendants of Sugreeva born of celestials and celestial
-musicians, are able to change their form at will and always stay in Kishkindha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *4. eSaam* = their (are); *nava* = mine; *paN^caca* =
 five; *saptaca* = seven; (twenty one); *koTisahasraaNi* = thousand crores;
 *tathaa* = and; *shaNkusahasraaNi* = thousand Shakus*; *tathaa* = and;
@@ -197,6 +180,23 @@ these monkeys."
 
 The number exactly corresponding to a Shanku and a Vrinda should be understood
 as calculated at the end of this chapter.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. ete* = these monkeys; *sugriiva sachivaaH* = the attendants
+of Sugreeva; *utpannaaH* = born; *devagandharvaiH* = of celestials and celestial
+musicians; *kaama ruupiNaH* = are able to change their form at will; *sadaa* = and
+always; *kiSkindha nilayaaH* = stay in Kishkindha.
+
+**अनुवादः**
+
+"These monkeys, the attendants of Sugreeva born of celestials and celestial
+musicians, are able to change their form at will and always stay in Kishkindha."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
@@ -243,23 +243,6 @@ as calculated at the end of this chapter.
 
 **पदच्छेदः**
 
-*7. eatu* = these; *ubhau* = two; *amR^ita praashinau* =
-who ate ambrosion; *samanujJNaatau* = with due authorization; *brahmaNaa* = from
-Brahma; *aashampete marditum* = to destroy; *laN^kaam* = Lanka; *ojasaa* = by
-their power.
-
-**अनुवादः**
-
-"These two, who ate ambrosion on due authorization by Brahma, are hopefully of
-destroying Lanka by their power."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *6. tau* = those; *yau* = whom; *pashyati* = you are
 seeing; *tiSThantau* = standing; *devaruupiNau* = with celestial appearance;
 *samaanau* = with the same resemblance; *maindashcha* = are Mainda;
@@ -270,6 +253,23 @@ taabhyaam = to both of them; *yudhi* = in battle.
 
 "The two who stand there, who have the same resemblance and have the appearance of
 celestials, are Mainda and Dvivida. None can equal them in combat."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. eatu* = these; *ubhau* = two; *amR^ita praashinau* =
+who ate ambrosion; *samanujJNaatau* = with due authorization; *brahmaNaa* = from
+Brahma; *aashampete marditum* = to destroy; *laN^kaam* = Lanka; *ojasaa* = by
+their power.
+
+**अनुवादः**
+
+"These two, who ate ambrosion on due authorization by Brahma, are hopefully of
+destroying Lanka by their power."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
@@ -321,23 +321,6 @@ celestials, are Mainda and Dvivida. None can equal them in combat."
 
 **पदच्छेदः**
 
-*10. yena* = by whom; *saagaraH* = the ocean; *laN^kitaH*
-= was traversed; *jyeSThaH* = is the eldest; *putraH* = son; *kesariNaH* = of
-Kesari; *shrutaH* = known as; *vaataatmajaH* = the son of wind-god;
-*vikhyaataH* = and famous; *hanumaaniti* = as Hanuman.
-
-**अनुवादः**
-
-"This monkey, by whom the ocean was traversed, is the eldest son of Kesari. He is
-known as the son of wind-god and famously called as Hanuman."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 8; *9. yaH* = as for; *vaanaraH* = (that) monkey; *yam* =
 whom; *pashyasi* = you see (there); *teSThantam* = standing; *kuJNaram iva* =
 like an elephant; *prabhinnam* = in an intoxicated state; *yaH* = who;
@@ -353,6 +336,23 @@ came.
 "As for that monkey who you see there, resembling an intoxicated elephant, who in
 strength and fury is able to churn up the ocean itself, it is he who came to Lanka to find Seetha
 and spy on you, O, Lord! See that monkey, who was seen earlier and who appears here again."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. yena* = by whom; *saagaraH* = the ocean; *laN^kitaH*
+= was traversed; *jyeSThaH* = is the eldest; *putraH* = son; *kesariNaH* = of
+Kesari; *shrutaH* = known as; *vaataatmajaH* = the son of wind-god;
+*vikhyaataH* = and famous; *hanumaaniti* = as Hanuman.
+
+**अनुवादः**
+
+"This monkey, by whom the ocean was traversed, is the eldest son of Kesari. He is
+known as the son of wind-god and famously called as Hanuman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
@@ -628,6 +628,24 @@ fractured. For this reason, because of his strong jaw, he is called Hanuma."
 
 **पदच्छेदः**
 
+*16. eSaH* = this; *hariH* = monkey; *viditaH* = is
+known; *mama* = to me; *satyam* = actually; *aagamayogena* = through the words
+of my bosom friends; *na shakyam* = It is not possible; *anubhaSitam* = to describe;
+*asya* = his; *balam* = strength; *ruupam* = or physical form;
+*prabaavovaa* = or glory.
+
+**अनुवादः**
+
+"This monkey is known to me actually through the words of my bosom friends. It is
+not possible to describe his strength or physical form or glory."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *17. eSaH* = He; *ekaH* = alone; *aashamsate* = experts;
 *mathitum* = to destroy; *laN^kaam* = Lanka; *ojasaa* = by his; valour;
 *katham* = how; *vismarate* = do you forget; *kapim* = this monkey;
@@ -639,24 +657,6 @@ your; *laN^kaayaam* = Lanka.
 
 "He alone wants to destroy Lanka by his valour. How do you forget this monkey by
 whom this fire was lighted and is still blazing up Lanka."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*16. eSaH* = this; *hariH* = monkey; *viditaH* = is
-known; *mama* = to me; *satyam* = actually; *aagamayogena* = through the words
-of my bosom friends; *na shakyam* = It is not possible; *anubhaSitam* = to describe;
-*asya* = his; *balam* = strength; *ruupam* = or physical form;
-*prabaavovaa* = or glory.
-
-**अनुवादः**
-
-"This monkey is known to me actually through the words of my bosom friends. It is
-not possible to describe his strength or physical form or glory."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>
@@ -1003,6 +1003,23 @@ all the demons in battle."
 
 **पदच्छेदः**
 
+*26. yaHtu* = He who; *asau* = that; *tiSThati* = is
+standing; *aashritya* = taking guard; *savyam* = at the left; *pakSam* = side;
+*raamasya* = of Rama; *rakSogaNa parikSiptaH* = surrounded by a troop of demons;
+*eSaH* = he; *raajaaH* = is the king; *vibhiiSaNaH* = Vibhishana.
+
+**अनुवादः**
+
+"He who is standing there, taking guard at the left side of Rama, surrounded by a
+troop of demons he is the king Vibhishana."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *27. eSaH* = He abhiSechitaH = who was consecrated as a king;
 *laN^kaayaam* = for Lanka; *raja raajena* = by Rama the king of kings;
 *shriimataa* = the illustrious man; *pratisamrabdhaH* = being enraged;
@@ -1013,23 +1030,6 @@ the battle.
 
 "He, who was consecrated as a king for Lanka by the illustrious Rama, the king of
 kings, is enraged really with you and is to attack us in the battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*26. yaHtu* = He who; *asau* = that; *tiSThati* = is
-standing; *aashritya* = taking guard; *savyam* = at the left; *pakSam* = side;
-*raamasya* = of Rama; *rakSogaNa parikSiptaH* = surrounded by a troop of demons;
-*eSaH* = he; *raajaaH* = is the king; *vibhiiSaNaH* = Vibhishana.
-
-**अनुवादः**
-
-"He who is standing there, taking guard at the left side of Rama, surrounded by a
-troop of demons he is the king Vibhishana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga28/yuddhasans28.htm)
 </details>

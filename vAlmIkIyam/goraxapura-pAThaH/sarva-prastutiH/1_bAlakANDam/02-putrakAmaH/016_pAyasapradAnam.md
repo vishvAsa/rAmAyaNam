@@ -925,23 +925,6 @@ this among your eligible wives." So said the divine being to Dasharatha. [1-16-2
 
 **पदच्छेदः**
 
-*22. paramayaa mudaa yuktaH* = with high ecstasy; *adbhutam priyadarshanam*
-= astonishing, delightful, in his appearance; *tat bhuutam* = at that, being; *abhivaadya
-cha* = revering, too; *chakaara abhipradakShiNam* = performed, circumambulations.
-
-**अनुवादः**
-
-With high ecstasy Dasharatha revered that Ritual Being, the Prajaapati-
-PuruSha or yaj~na-puruSha , an astonishing and delightful
-being in his appearance, and performed circumambulations around him. [1-16-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *21. nR^ipatiH tathaa iti* = king, like that only, thus [on agreeing]; *taam devaannasampuurNaam*
 = full of that divine food; *devadattam hiraNmayiim* = golden one given by gods;
 *paatriim shirasaa pratigR^ihya* = on taking vessel onto head [head bent,
@@ -951,6 +934,23 @@ wholeheartedly]; *priitaH* = he is delighted.
 
 Agreeing to that the king wholeheartedly took that god-given golden vessel full with divine
 food. [1-16-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. paramayaa mudaa yuktaH* = with high ecstasy; *adbhutam priyadarshanam*
+= astonishing, delightful, in his appearance; *tat bhuutam* = at that, being; *abhivaadya
+cha* = revering, too; *chakaara abhipradakShiNam* = performed, circumambulations.
+
+**अनुवादः**
+
+With high ecstasy Dasharatha revered that Ritual Being, the Prajaapati-
+PuruSha or yaj~na-puruSha , an astonishing and delightful
+being in his appearance, and performed circumambulations around him. [1-16-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>
@@ -994,6 +994,22 @@ food. [1-16-21]
 
 **पदच्छेदः**
 
+*23. tataH* = then; *DasharathaH = Dasharatha; *devanirmitam paayasam praapya* = on getting dessert prepared by gods;
+*vittam praapya adhanaH iva* = like a pauper on obtaining [unforeseen] wealth;
+*paramapriitaH babhuuva* = he became highly gladdened.*
+
+**अनुवादः**
+
+On obtaining that dessert prepared by gods then Dasharatha is highly gladdened like a pauper
+obtaining unforeseen wealth. [1-16-23]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *24. tataH* = then; *adbhutaprakhyam* = with astonishing form; *paramabhaasvaram*
 = highly glowing; *tat bhuutam* = that, ritual being; *tat karma
 samvartayitvaa* = on completing that deed; *tatra eva antardhiiyata* = there,
@@ -1004,22 +1020,6 @@ only, disappeared.
 On completing his work of giving the golden vessel with dessert then that divine being who
 is astonishing by his form and highly glowing by his physique, disappeared then and there
 itself. [1-16-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*23. tataH* = then; *DasharathaH = Dasharatha; *devanirmitam paayasam praapya* = on getting dessert prepared by gods;
-*vittam praapya adhanaH iva* = like a pauper on obtaining [unforeseen] wealth;
-*paramapriitaH babhuuva* = he became highly gladdened.*
-
-**अनुवादः**
-
-On obtaining that dessert prepared by gods then Dasharatha is highly gladdened like a pauper
-obtaining unforeseen wealth. [1-16-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga16/balasans16.htm)
 </details>

@@ -291,24 +291,6 @@ _________________
 
 **पदच्छेदः**
 
-*7. sakhe* = Oh; friend; *saumya* = the gentle sage! adhunaa =
-now; *siitaa* = Sita; *ichchhati* = wants; *daatum* = to give;
-*bhaaryaayai* = for your wife; *haaram cha* = a pearl necklace; *hema
-suutramcha* = a string of gold; *rashanaam cha* = and a girdle; *haaraya* =
-carry(them)
-
-**अनुवादः**
-
-"Oh the gentle sage, my friend! Now, Seetha wants to give for your wife a pearl
-necklace, a string of gold and a girdle. please take them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 5; *6. kaakutsaH* = Rama; *pratyapuujayat* = adored;
 *suyajJNam* = suyajna; *mukhyaiH* = with excellent; *aNgadaiH* =
 Angadas(armlets); *kuNdalaiH* = earning; *shubhaiH* = charming;
@@ -325,6 +307,24 @@ Rama adored Suyajna with excellent Angadas(armlets) and beautiful earrings of go
 gems stung on gold threads as also with keyuras( another ornament similar in shape to an Angada but
 worn above it near the armpit) and bracelets as well as with many other excellent precious stones.
 urged by Seetha, the said Rama then spoke to suyajna as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. sakhe* = Oh; friend; *saumya* = the gentle sage! adhunaa =
+now; *siitaa* = Sita; *ichchhati* = wants; *daatum* = to give;
+*bhaaryaayai* = for your wife; *haaram cha* = a pearl necklace; *hema
+suutramcha* = a string of gold; *rashanaam cha* = and a girdle; *haaraya* =
+carry(them)
+
+**अनुवादः**
+
+"Oh the gentle sage, my friend! Now, Seetha wants to give for your wife a pearl
+necklace, a string of gold and a girdle. please take them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
@@ -637,23 +637,6 @@ _________________
 
 **पदच्छेदः**
 
-*14. maanada* = Oh Lakshmana; the honour-giver; *mahaabaaho* =
-with great arms! tarpayasva = satiate them; *tarpayasva* = with thousands of cows;
-*suvarnaiH* = with gold; *rajataishchaiva* = and silver; *maNibhishcha* = and
-gems; *mahaadhanaiH* = and gems; *mahaadhanaiH* = of great value.
-
-**अनुवादः**
-
-"Oh, Lakshmana the honour-giver, with great arms! Satiate them with thousands of
-cows, gold, silver and with gems of great value."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *13. saumitre* = Oh; *Lakshmana! aahuuya* = call; *tau* =
 those; *ubhau* = two; *brahmaNottamau* = excellent brahmanas; *agastyam* =
 Agastya; *kaushikam chaiva* = and Kausika; *archaya* = worship; *ratinaiH* =
@@ -664,6 +647,23 @@ crop of corn.
 
 "Oh, Lakshmana! Call those two excellent brahmanas Agastya and Kausika and worship
 them with valuable gifts as water is poured to a crop of corn."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. maanada* = Oh Lakshmana; the honour-giver; *mahaabaaho* =
+with great arms! tarpayasva = satiate them; *tarpayasva* = with thousands of cows;
+*suvarnaiH* = with gold; *rajataishchaiva* = and silver; *maNibhishcha* = and
+gems; *mahaadhanaiH* = and gems; *mahaadhanaiH* = of great value.
+
+**अनुवादः**
+
+"Oh, Lakshmana the honour-giver, with great arms! Satiate them with thousands of
+cows, gold, silver and with gems of great value."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
@@ -1086,23 +1086,6 @@ best of brahmanas as instructed.
 
 **पदच्छेदः**
 
-*25. mama yaavadaagamanam* = till my return; *ashuunyam kaaryam*
-= not to be made empty; *yat* = in; *lakshmaNasya* = Lakshma's veshma = house;
-*yat* = in; *idam* = this; *mama* = my; *gR^ihamcha* = house;
-*ekaikam* = one by one.
-
-**अनुवादः**
-
-"Till my return, the house belonging to Lakshmana and also this house which is
-occupied by me, should be guarded by each one of you, by turn."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. atha* = then; *sampradaaya* = after giving; *bahu* =
 abundant; *dravyam* = wealth; *ekaikasya* = to each one of; *upajiivinaH* =
 the dependents; *tishhTataH* = standing; *bhaashhpagaLan* = with tears in their
@@ -1112,6 +1095,23 @@ throat; *abraviit* = spoke(as follows)
 
 Rama, after giving abundant wealth to each one of the dependents, standing there
 with tears in their throats, spoke to them as follows;
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. mama yaavadaagamanam* = till my return; *ashuunyam kaaryam*
+= not to be made empty; *yat* = in; *lakshmaNasya* = Lakshma's veshma = house;
+*yat* = in; *idam* = this; *mama* = my; *gR^ihamcha* = house;
+*ekaikam* = one by one.
+
+**अनुवादः**
+
+"Till my return, the house belonging to Lakshmana and also this house which is
+occupied by me, should be guarded by each one of you, by turn."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
@@ -1382,6 +1382,23 @@ _________________
 
 **पदच्छेदः**
 
+*30. bhaaryaa* = his wife; *taruNii* = who was young;
+*abhipiiDitaa* = afflicted; *daaridryeNa* = with poverty; *aadaaya* = taking;
+*baalaan* = small; *daarakaan* = children; *abraviit* = spoke; *tam
+braahmaNam* = to that brahmana; *VR^iddham* = who was aged.
+
+**अनुवादः**
+
+His young wife, having been afflicted with poverty, taking her small children with
+her, spoke to that aged brahmana as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *31. aapaasya* = throw away; *phaalam* = the axe;
 *kuddaalam* = and the spade; *kurushhva* = carry out; *mama* = my;
 *vachanam* = word; *darshaya* = seek for presence of raamama = Rama;
@@ -1392,23 +1409,6 @@ _________________
 
 "Throw away the axe and the spade. Carry out my word. Seek for the presence of Rama
 who knows his duty and see if you get at least something."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*30. bhaaryaa* = his wife; *taruNii* = who was young;
-*abhipiiDitaa* = afflicted; *daaridryeNa* = with poverty; *aadaaya* = taking;
-*baalaan* = small; *daarakaan* = children; *abraviit* = spoke; *tam
-braahmaNam* = to that brahmana; *VR^iddham* = who was aged.
-
-**अनुवादः**
-
-His young wife, having been afflicted with poverty, taking her small children with
-her, spoke to that aged brahmana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>
@@ -1624,24 +1624,6 @@ _________________
 
 **पदच्छेदः**
 
-*36. saH* = He; *sambhraantaH* = having been excited;
-*tvaritam* = hurrily; *parivesTya* = winding round; *taam shatiim* = that
-cloth; *katyaam* = to his waist; *aaviddhya* = twirling; *vegitaH* = swiftly;
-*daNDam* = the staff; *sarvapraaNena* = with all his strength; *chikshhepa* =
-threw(it)
-
-**अनुवादः**
-
-Winding his loin cloth round his waist hurrily and twirling his staff, he swiftly
-threw it with all his strength, excited as he was.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *35. tataH* = thereupon; *raamaH* = Rama; *uvaacha* =
 replied; *parihaasa samanvitam* = jestingly; *tam* = to him ( as follows:) mayaa = by
 me; *ekam gavaam sahasramapi* = even one thousand of cows; *na cha vishraaNitam* =
@@ -1653,6 +1635,24 @@ to such an extent; *parikshhipasi* = as you will throw; *daNDena* = by the staff
 Thereupon, Rama replied jestingly to him as follows: " By me, even one thousand cows
 were not given away so far. You will get as many cows to such an extent as you will throw this
 staff."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. saH* = He; *sambhraantaH* = having been excited;
+*tvaritam* = hurrily; *parivesTya* = winding round; *taam shatiim* = that
+cloth; *katyaam* = to his waist; *aaviddhya* = twirling; *vegitaH* = swiftly;
+*daNDam* = the staff; *sarvapraaNena* = with all his strength; *chikshhepa* =
+threw(it)
+
+**अनुवादः**
+
+Winding his loin cloth round his waist hurrily and twirling his staff, he swiftly
+threw it with all his strength, excited as he was.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga32/ayodhyasans32.htm)
 </details>

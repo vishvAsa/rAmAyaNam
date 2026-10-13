@@ -899,6 +899,24 @@ recite the hymns of Samaveda, chanted them according to the rules.
 
 **पदच्छेदः**
 
+*19. tadaa* = then; *tasya* = his; *yoshhitaH* = ladies;
+*parivR^itaaH* = encircled; *vR^iddaiH* = by elders; *shibikaabhishcha* =
+(mounted) palanquins; *yaanaishcha* = or other vehicles; *yathaarham* = as deserving;
+*niryayuH* = departed; *naagaraat* = from the city; *tatra* = to that
+place.
+
+**अनुवादः**
+
+Then, his ladies, encircled by elders mounted palanquins or other vehicles, as
+deserving and departed from the city to that place.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *20. tadaa* = then; *R^itvijaH* = the appointed priests;
 *kausalyaapramukhaaH* = Kausalya and other; *striyashcha* = women;
 *shokasamtaptaaH* = tormented with grief; *prasavyamchaapi chakruH* = circumambulated
@@ -910,24 +928,6 @@ on a funeral pile.
 Then, the appointed priests as well as Kausalya and other women who were tormented
 with grief, circumambulated in anti clockwise direction that king who was lying on a funeral
 pile.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*19. tadaa* = then; *tasya* = his; *yoshhitaH* = ladies;
-*parivR^itaaH* = encircled; *vR^iddaiH* = by elders; *shibikaabhishcha* =
-(mounted) palanquins; *yaanaishcha* = or other vehicles; *yathaarham* = as deserving;
-*niryayuH* = departed; *naagaraat* = from the city; *tatra* = to that
-place.
-
-**अनुवादः**
-
-Then, his ladies, encircled by elders mounted palanquins or other vehicles, as
-deserving and departed from the city to that place.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga76/ayodhyasans76.htm)
 </details>

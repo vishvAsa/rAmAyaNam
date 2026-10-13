@@ -386,6 +386,25 @@ _________________
 
 **पदच्छेदः**
 
+*7. dharmajJNaH* = (Atri) who knew righteousness; *ratiH* = and
+who was interested; *sarva bhuuta hite* = in the welfare of all beings; *aamantrya* =
+called vR^iddhaam = patriimcha = his aged wife; *(Anasuya) samanupraaptaam* = who had just
+come there; *satkR^itaam* = she; who was revered by all; *saantvayaamaasca* = and
+addressed gently to her.
+
+**अनुवादः**
+
+Atri, who knew righteousness and who was interested in the welfare of all beings,
+called his aged wife Anasuya who had just come there, she who was revered by all and addressed
+gently to her.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *8. R^iSisattamaH* = Atri; the excellent sage; *abraviit* =
 spoke; *anasuuyaam* = to Anasuya; *mahaabhaayaam* = the fortunate one;
 *taapasiim* = rich in asceticism; *dharma chaariNiim* = and who lived a pious life;
@@ -398,25 +417,6 @@ taapasiim* = female ascetic; *raamaaya* = to Rama (as follows)
 Atri excellent sage spoke to the illustrious Anasuya, rich in asceticism and who
 lived a pious life, saying "You welcome Videha's daughter!" and thereafter introduced that virtuous
 female ascetic to Rama (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*7. dharmajJNaH* = (Atri) who knew righteousness; *ratiH* = and
-who was interested; *sarva bhuuta hite* = in the welfare of all beings; *aamantrya* =
-called vR^iddhaam = patriimcha = his aged wife; *(Anasuya) samanupraaptaam* = who had just
-come there; *satkR^itaam* = she; who was revered by all; *saantvayaamaasca* = and
-addressed gently to her.
-
-**अनुवादः**
-
-Atri, who knew righteousness and who was interested in the welfare of all beings,
-called his aged wife Anasuya who had just come there, she who was revered by all and addressed
-gently to her.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhyasans117.htm)
 </details>

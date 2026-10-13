@@ -318,24 +318,6 @@ _________________
 
 **पदच्छेदः**
 
-*8. evam* = thus; *uktam* = asked; *tadaa* = then;
-*raameNa* = by Rama; *aklishhTakarmaNaa* = who was unwearied in action;
-*rakshhaH* = Vibhishana; *upachakrame* = started; *aakhyaatum* = telling;
-*uktam* = a word; *sarvam* = about the entire; *balam* = strength;
-*raavaNasaya* = of Ravana.
-
-**अनुवादः**
-
-Thus asked then by Rama who was unwearied in action, Vibhishana started telling
-about the detailed strength of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 6; *7. shrutvaa* = hearing; *tatvachanam* = those words;
 *tasya* = of Vibhishana; *raamaH* = Rama; *saantvayitvaa* = in soothing tone;
 *pibanniva* = while soothing to refresh; *lochanaabhyaam* = with his eyes;
@@ -348,6 +330,24 @@ me; *tattvena* = really; *balaabalam* = the strengths and weaknesses;
 Hearing those words of Vibhishana, Rama in a soothing tone and with a refreshing
 look in his eyes, spoke these words: "Tell me really the strengths and weaknesses of the
 demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. evam* = thus; *uktam* = asked; *tadaa* = then;
+*raameNa* = by Rama; *aklishhTakarmaNaa* = who was unwearied in action;
+*rakshhaH* = Vibhishana; *upachakrame* = started; *aakhyaatum* = telling;
+*uktam* = a word; *sarvam* = about the entire; *balam* = strength;
+*raavaNasaya* = of Ravana.
+
+**अनुवादः**
+
+Thus asked then by Rama who was unwearied in action, Vibhishana started telling
+about the detailed strength of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
@@ -671,23 +671,6 @@ _________________
 
 **पदच्छेदः**
 
-*16. saH* = that; *raajaa* = king Ravana; *saha* = along
-with; *tataiH* = those demons; *ayodhayat* = made war; *lokapaalaan* = against
-the guardians of the earth; *devaiHsaha* = along with celestials; *bhagnaaH* = were
-defeated; *raavaNena* = by Ravana; *duraatmanaa* = the wicked one.
-
-**अनुवादः**
-
-"King Ravana along with those demons made war against the guardians of the earth.
-Those guardians of the earth along with the celestials were defeated by the wicked Ravana."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15. dashakoti sahasraaNi* = ten thousand crores; *rakshhasaam*
 = of demons; *laNkaapuranivaasinaam* = who reside in the city of Lanka;
 *kaamaruupiNaam* = can assume any form at will ; *maamsa shoNita bhakshhyaaNaam* =
@@ -697,6 +680,23 @@ and eat flesh and blood as their staple food.
 
 "In the city of Lanka, are residing ten thousand crore demons, who can assume any
 form at will and who consume flesh and blood as their staple food"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. saH* = that; *raajaa* = king Ravana; *saha* = along
+with; *tataiH* = those demons; *ayodhayat* = made war; *lokapaalaan* = against
+the guardians of the earth; *devaiHsaha* = along with celestials; *bhagnaaH* = were
+defeated; *raavaNena* = by Ravana; *duraatmanaa* = the wicked one.
+
+**अनुवादः**
+
+"King Ravana along with those demons made war against the guardians of the earth.
+Those guardians of the earth along with the celestials were defeated by the wicked Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
@@ -1083,23 +1083,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. maanada* = O; Lakshmana; *who gives respect to others!
-Kshhipram* = quickly; *abhishhiNcha* = consecrate; *tena* = with that water;
-*imam* = this; *vibhiishhaNam* = who is greatly intelligent; *raajaanam* = as
-a king; *rakshhasaam* = of demons; *mayi* = I am; *prasanne* = pleased.
-
-**अनुवादः**
-
-"O, Lakshmana who bestows honor on others! Quickly consecrate as a king of demons
-this greatly intelligent Vibhishana with that water, so that I am pleased."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. raamastu* = Rama on his part; *priitaH* = duly delighted;
 *parishhvaNga* = embraced; *vibhiishhaNam* = Vibhishana; *bruuvaaNam* =
 speaking; *iti* = as aforesaid; *abraviit* = and spoke; *lakshmaNam* = to
@@ -1110,6 +1093,23 @@ the sea"
 
 Rama on his part, duly delighted, embraced Vibhishana who was speaking as aforesaid
 and spoke to Lakshmana as follows: "Bring some water from the ocean."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. maanada* = O; Lakshmana; *who gives respect to others!
+Kshhipram* = quickly; *abhishhiNcha* = consecrate; *tena* = with that water;
+*imam* = this; *vibhiishhaNam* = who is greatly intelligent; *raajaanam* = as
+a king; *rakshhasaam* = of demons; *mayi* = I am; *prasanne* = pleased.
+
+**अनुवादः**
+
+"O, Lakshmana who bestows honor on others! Quickly consecrate as a king of demons
+this greatly intelligent Vibhishana with that water, so that I am pleased."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>
@@ -1593,27 +1593,6 @@ _________________
 
 **पदच्छेदः**
 
-*36. lakshhmaNa* = O; Lakshmana; *ayam mantraH* = this thought;
-*vibhiishhaNasya* = of Vibhishana; *rochate* = is agreeable; *mama* = to me;
-*sugrivaH* = Sugriva; *paNditaH* = is a learned person; *bhavaam* = you;
-*nityam* = are ever; *mantra vichakshhaNaH* = wise in your thoughts; *artham*
-= the matter; *sampradhaarya* = be decided; *ubhaabhyaam* = by both of you;
-*uchayataam* = and tell; *tat* = that; *yat* = which; *rochate* = is
-agreeable.
-
-**अनुवादः**
-
-"O, Lakshmana! This idea of Vibhishana is agreeable to me. Sugreeva is a learned
-person. You are ever wise in your thoughts. Both of you decide on the matter and inform whichever
-is agreeable to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *34;35. asya raamasyaapi* = to even this Rama; *prakR^ityaa* =
 who by his nature; *dharmashiilasya* = is of pious attitude; *aarochata* = that
 advice was agreeable; *mahaatejaaH* = the highly splendorous; *saH* = rama;
@@ -1628,6 +1607,27 @@ That advice found favor with Rama who by nature is of pious attitude. Then that
 highly illustrious Rama replied to Sugreeva, the ruler of monkeys who was skillful in action and
 who was accompanied by Lakshmana. Full of respect for Vibhishana's words, he told him as also his
 brother Lakshmana smilingly as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. lakshhmaNa* = O; Lakshmana; *ayam mantraH* = this thought;
+*vibhiishhaNasya* = of Vibhishana; *rochate* = is agreeable; *mama* = to me;
+*sugrivaH* = Sugriva; *paNditaH* = is a learned person; *bhavaam* = you;
+*nityam* = are ever; *mantra vichakshhaNaH* = wise in your thoughts; *artham*
+= the matter; *sampradhaarya* = be decided; *ubhaabhyaam* = by both of you;
+*uchayataam* = and tell; *tat* = that; *yat* = which; *rochate* = is
+agreeable.
+
+**अनुवादः**
+
+"O, Lakshmana! This idea of Vibhishana is agreeable to me. Sugreeva is a learned
+person. You are ever wise in your thoughts. Both of you decide on the matter and inform whichever
+is agreeable to you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhasans19.htm)
 </details>

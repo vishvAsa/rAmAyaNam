@@ -114,23 +114,6 @@ that Rama's mother Kausalya who was thus weeping.
 
 **पदच्छेदः**
 
-*3. "nR^ipaH* = king; *vipariitasheha* = with perverted mind; *
-vR^idhdhhashcha* = old aged; *pradharshhitaH* = who is outraged; *vishhayaiH* = by
-sensual enjoyments; *samanimadhaH* = who is possessed of passion; *na bruuyaat* = can
-he not talk; *kimiva* = of anything; *chodyamaanaH* = prompted (by Kaikeyi).
-
-**अनुवादः**
-
-"The king with perverted mind, of old age, one who is outraged by sensual enjoyments
-and possessed of passion can talk any thing, prompted by Kaikeyi."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2. "aarye* = Oh; *the venerable lady! atat* = this; *na rochate*
 = is not liking; *mamaapi* = to me also; *itiyat* = as in the manner this; *raaghavaH*
 = Rama; *vaakyaarasham gataH* = being influenced by the words; *striyaaH* = of a woman;
@@ -141,6 +124,23 @@ and possessed of passion can talk any thing, prompted by Kaikeyi."
 
 "Oh, the honoured lady ! I also do not like Rama to be influenced by the words of a woman
 and go to the forest, leaving the prosperous kingdom."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. "nR^ipaH* = king; *vipariitasheha* = with perverted mind; *
+vR^idhdhhashcha* = old aged; *pradharshhitaH* = who is outraged; *vishhayaiH* = by
+sensual enjoyments; *samanimadhaH* = who is possessed of passion; *na bruuyaat* = can
+he not talk; *kimiva* = of anything; *chodyamaanaH* = prompted (by Kaikeyi).
+
+**अनुवादः**
+
+"The king with perverted mind, of old age, one who is outraged by sensual enjoyments
+and possessed of passion can talk any thing, prompted by Kaikeyi."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga21/ayodhyasans21.htm)
 </details>

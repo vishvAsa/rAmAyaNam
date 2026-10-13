@@ -84,23 +84,6 @@ kingdom.
 
 **पदच्छेदः**
 
-*2. satkaarasatkR^itaH* = treated with good hospitality; *putrasnehena
-* = with paternal love; *ashvapatinaa* = by lord of cavalry; *maatulena* = by
-his maternal uncle; *saH* = that Bharatha; *bhraatraa saH* = with his brother;
-*nyavasat* = stayed; *tatra* = there.
-
-**अनुवादः**
-
-Treated with good hospitality and paternal love by his maternal uncle, Yudhajit, who
-was a lord of cavalry, Bharatha stayed with his brother there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1. shatrughnaH* = Satrughna; *anaghaH* = who has no sins;
 *nityashatrughnaH* = he who always annihilated his enemies; *neetaH* = was taken;
 *priitipuraskR^itaH* = with love; *bharatena* = by Bharatha; *gachChataa*
@@ -110,6 +93,23 @@ was a lord of cavalry, Bharatha stayed with his brother there.
 
 Bharatha, while going to his maternal uncle's house, has taken his brother Satrughna
 (he who has no sins and who annihilates his enemies) along with him with love.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. satkaarasatkR^itaH* = treated with good hospitality; *putrasnehena
+* = with paternal love; *ashvapatinaa* = by lord of cavalry; *maatulena* = by
+his maternal uncle; *saH* = that Bharatha; *bhraatraa saH* = with his brother;
+*nyavasat* = stayed; *tatra* = there.
+
+**अनुवादः**
+
+Treated with good hospitality and paternal love by his maternal uncle, Yudhajit, who
+was a lord of cavalry, Bharatha stayed with his brother there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
@@ -1433,23 +1433,6 @@ He had not surrendered to time.
 
 **पदच्छेदः**
 
-*32. tathaa raamaH* = like that, Rama; *guNaiH* = by virtues; *sarvaprajaakaantaiH
-* = by those which are enlightening to all the people; *priitisamjananaiH* = by
-the source of liking; *pituH* = of father; *viruruche* = was shining; *suuryaH
-iva* = like the sun; *diiptaH* = shining; *aMshubhiH* = by the rays.
-
-**अनुवादः**
-
-Rama, by his virtues, was a source of happiness to all the people and a spring of
-joy to his father. As the sun shines with his rays, Rama was shining, thus, with his virtues.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *31. paarthivaatmajaH* = the son of king; *evam
 shreShThaguNaiH* = with these good virtues; *yuktaH* = fair; *prajaanaam* = to
 the people; *saMmataH* = agreeable one; *triShu lokeShu* = among the three worlds;
@@ -1462,6 +1445,23 @@ the people; *saMmataH* = agreeable one; *triShu lokeShu* = among the three world
 That Prince Rama, with these good virtues, was fair to the people. He was agreeable
 to the three worlds. By patience and the related virtues, he was equal to earth, by wisdom to
 Brihaspathi and by valor to Devendra.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. tathaa raamaH* = like that, Rama; *guNaiH* = by virtues; *sarvaprajaakaantaiH
+* = by those which are enlightening to all the people; *priitisamjananaiH* = by
+the source of liking; *pituH* = of father; *viruruche* = was shining; *suuryaH
+iva* = like the sun; *diiptaH* = shining; *aMshubhiH* = by the rays.
+
+**अनुवादः**
+
+Rama, by his virtues, was a source of happiness to all the people and a spring of
+joy to his father. As the sun shines with his rays, Rama was shining, thus, with his virtues.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>
@@ -1836,25 +1836,6 @@ earth?"
 
 **पदच्छेदः**
 
-*42. atha* = thereafter; *medhaavii* = the wise one;
-*sa~nchachakShe* = observed; *ghoram* = great; *bhayam* = fear; *divi* = in
-heaven; *antarikShe* = in space; *bhuumau cha* = also in earth; *utpaatajam* = born from
-bad omens; *aatmanaH* = of self; *shariire* = in body; *jaraam cha* = also getting
-aged.
-
-**अनुवादः**
-
-The wise Dasaratha observed that there was sign of a great alarm being forecast because
-of bad omens found in earth heaven and the sky. He also told the ministers that his body
-was getting aged.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *40;41. iti* = this way; *vividhaiH* = by various; *anyapaarthivadurlabhaiH
 * = by not at all seen in other kings; *taiH taiH* = by those those;
 *ethaiH* = by these; *loke* = in the world; *aparimeyaiH* = by un-measurable
@@ -1869,6 +1850,25 @@ was getting aged.
 Rama had many other virtues beyond hitherto stated virtues not to be seen in other
 kings. His virtues cannot be counted and they are the best in the world. Seeing that type of
 virtuous Rama, Dasaratha along with his ministers, decided to make Rama the prince.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. atha* = thereafter; *medhaavii* = the wise one;
+*sa~nchachakShe* = observed; *ghoram* = great; *bhayam* = fear; *divi* = in
+heaven; *antarikShe* = in space; *bhuumau cha* = also in earth; *utpaatajam* = born from
+bad omens; *aatmanaH* = of self; *shariire* = in body; *jaraam cha* = also getting
+aged.
+
+**अनुवादः**
+
+The wise Dasaratha observed that there was sign of a great alarm being forecast because
+of bad omens found in earth heaven and the sky. He also told the ministers that his body
+was getting aged.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga1/ayodhyasans1.htm)
 </details>

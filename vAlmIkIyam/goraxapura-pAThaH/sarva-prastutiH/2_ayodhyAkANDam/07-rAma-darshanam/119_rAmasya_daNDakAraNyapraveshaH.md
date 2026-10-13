@@ -862,23 +862,6 @@ the sacred fire.
 
 **पदच्छेदः**
 
-*19. raaghava* = O; Rama!; *naanaa ruupaaNi* = various forms;
-*puruSaadaani* = of man-eating; *rakSaamsi* = demons; *vyaalaashcha* = and
-beasts; *rudhiraashanaaH* = drinking the blood; *vasanti* = are living; *asmin
-mahaaraNye* = in this great forest.
-
-**अनुवादः**
-
-"O, Rama! Various forms of man-eating demons and beasts drinking the blood are
-living in this great forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *18. te taapasaaH* = those ascetics; *vana charaaH* = dwelling
 in the forest; *dharmachaariNaH* = and practising virtue; *uuchuH* = told;
 *tau* = Rama and Lakshmana; *samchaaram* = about the region; *tasya vanasya* =
@@ -889,6 +872,23 @@ follows)
 
 Those ascetics dwelling in the forest and practising virtue told Rama and Lakshmana
 about the region of that forest, which was infested with demons (as follows):
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. raaghava* = O; Rama!; *naanaa ruupaaNi* = various forms;
+*puruSaadaani* = of man-eating; *rakSaamsi* = demons; *vyaalaashcha* = and
+beasts; *rudhiraashanaaH* = drinking the blood; *vasanti* = are living; *asmin
+mahaaraNye* = in this great forest.
+
+**अनुवादः**
+
+"O, Rama! Various forms of man-eating demons and beasts drinking the blood are
+living in this great forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga119/ayodhyasans119.htm)
 </details>

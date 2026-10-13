@@ -369,6 +369,22 @@ and said this to the eminent sage about about the arrival of Rama, exactly as sa
 
 **पदच्छेदः**
 
+*7b, 8a. raamaH lakSmaNa eva ca* = Rama, Lakshmana, thus, also; *dasharathasya imau putrau*
+= Dasharatha's, these, sons; *bhaaryayaa siitayaa saha* = wife, Seetha, with; *praviSTau aashramapadam*
+= entered, hermitage's, threshold.
+
+**अनुवादः**
+
+"Sons of King Dasharatha, Rama and also thus Lakshmana have entered the threshold of hermitage along
+with the wife of Rama, namely Seetha. [3-12-7b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *8b, 9a. arindamau* = enemy-destroyers those Rama and Lakshmana; *bhavantam draSTum* =
 you, to see; *shushruuSa artham aayaatau* = to serve you, for te urpose of, they have come;
 *atra yat anantaram* = there [in this regard,] what, next is to be done; *tat tvam aaj~naapayitum
@@ -378,22 +394,6 @@ arhasi* = that, you, to order, apt of you.
 
 "Those two enemy-destroyers have come cherishing to see and serve you, hence it will be apt of you to
 order what next is to be done in this regard." Said disciple to the sage. [3-12-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*7b, 8a. raamaH lakSmaNa eva ca* = Rama, Lakshmana, thus, also; *dasharathasya imau putrau*
-= Dasharatha's, these, sons; *bhaaryayaa siitayaa saha* = wife, Seetha, with; *praviSTau aashramapadam*
-= entered, hermitage's, threshold.
-
-**अनुवादः**
-
-"Sons of King Dasharatha, Rama and also thus Lakshmana have entered the threshold of hermitage along
-with the wife of Rama, namely Seetha. [3-12-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
@@ -489,6 +489,23 @@ the sage said this to him. [3-12-9b, 10a]
 
 **पदच्छेदः**
 
+*10b, 11a. diSTyaa* = providentially; *raamaH* = Rama; *cirasya maam draSTum* =
+after a long, me, to see; *adya sam upa agataH* = today, he came my nearby; *asya aagamanam
+prati* = his, arrival, towards; *mayaa manasaa kaankSitam hi* = by me, by heart, yearned
+for, indeed.
+
+**अनुवादः**
+
+"My heart is indeed yearning for his arrival, and after this long a time Rama providentially came to
+see me." [3-12-10b, 11a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *11b, 12a. gamyataam* = go forth; *raamaH sa bhaaryaH saha lakSmaNaH* = Rama be, with,
 wife, with, Lakshmana; *sat kR^itaH* = make welcome; *me samiipam praveshyataam* = in
 my, proximity, be entered; *kim asau na praveshitaH* = why, he is, not, entered [as yet.]
@@ -504,23 +521,6 @@ Agastya is waiting for long to receive Rama to handover a great bow, quivers and
 an eliminator of demons and Rama's mission is also the same. Therefore, on hearing that "Rama arrived
 " his ears are said to have received an ear-pleasing experience, *karNa aananda anubhava*. Maheshvara
 Tirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*10b, 11a. diSTyaa* = providentially; *raamaH* = Rama; *cirasya maam draSTum* =
-after a long, me, to see; *adya sam upa agataH* = today, he came my nearby; *asya aagamanam
-prati* = his, arrival, towards; *mayaa manasaa kaankSitam hi* = by me, by heart, yearned
-for, indeed.
-
-**अनुवादः**
-
-"My heart is indeed yearning for his arrival, and after this long a time Rama providentially came to
-see me." [3-12-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
@@ -1188,6 +1188,23 @@ light the fire, cook his own food to the chanting of hymns, like Agastya which i
 
 **पदच्छेदः**
 
+*28. atha dharma j~naH muni pungavaH* = then, well, informed one -shrewd, sage, eminent; *
+prathamam upavishya* = at the outset, taking a seat; *aasiinam* = one who took seat [later];
+*praanjalim* = one with adjoined palms; *dharma kovidam* = one who in arts of virtue,
+proficient - well-advised, prudent; *raamam* = to Rama; *uvaaca* = spoke to.
+
+**अनुवादः**
+
+Then that eminent and shrewd sage Agastya in righteousness took his seat at the outset, and spoke to
+prudent Rama of righteousness itself, and who by now is sitting with his palms adjoined. [3-12-28]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *29. agnim hutvaa* = fire is, worshipping; *pradaaya arghyam* = giving, water; *atithim
 pratipuujayet* = guest is, worshipped; *kaakutstha* = oh, Rama; *anyathaa samudaacaran
 tapasvii* = otherwise, if practices, a hermit; *duH saakSii iva* = false, deponent, like;
@@ -1208,23 +1225,6 @@ vaa yadi vaa dveShyo muurkhaH paNDita eva vaa | sampraapte vaishvadeva ante so a
 fire worship before meals, he leads the host to heavens" - *paraashara suutra*. Any false deponent
 giving a false witness not only goes to hell but also is destined to eat his own flesh there. Same is
 the case with the host, who does not perform his daily chores to entertain his guest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*28. atha dharma j~naH muni pungavaH* = then, well, informed one -shrewd, sage, eminent; *
-prathamam upavishya* = at the outset, taking a seat; *aasiinam* = one who took seat [later];
-*praanjalim* = one with adjoined palms; *dharma kovidam* = one who in arts of virtue,
-proficient - well-advised, prudent; *raamam* = to Rama; *uvaaca* = spoke to.
-
-**अनुवादः**
-
-Then that eminent and shrewd sage Agastya in righteousness took his seat at the outset, and spoke to
-prudent Rama of righteousness itself, and who by now is sitting with his palms adjoined. [3-12-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
@@ -1400,6 +1400,25 @@ _________________
 
 **पदच्छेदः**
 
+*32, 33a. puruSavyaaghra* = oh, manly-tiger; *hema vajra vibhuuSitam* = gold, diamonds,
+decorated with; *divyam mahat idam caapam* = sacred, great, this, bow; *vaiSNavam* = Vishnu
+[pertains to]; *nirmitam vishvakarmaNaa* = crafted by, Vishvkarma; *suurya samkaashaH*
+= sun, equalling in blaze; *amoghaH shara uttamaH* = unwasteful, arrows, best; *brahma dattaH*
+= by Brahma, gifted by.
+
+**अनुवादः**
+
+"This sacred bow that is decorated with gold and diamonds is crafted by the divine architect Vishvakarma
+pertains to Vishnu, and these unwasteful arrows equalling sun in their blaze are the gift of Brahma.
+[3-12-32, 33a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *33b, 34. a kSaya saayakau* = un, exhausted, those that have arrows; *nishitaiH* = with
 sharp; *jvaladbhiH iva paavakaiH* = blazing, like, Ritual-fire; *baaNaiH* = with arrows;
 *sampuurNau* = packed with; *tuuNii ca* = quivers, also; *mama mahendreNa dattau*
@@ -1412,25 +1431,6 @@ sharp; *jvaladbhiH iva paavakaiH* = blazing, like, Ritual-fire; *baaNaiH* = with
 "Also these two inexhaustible quivers packed with arrows that have the blaze of Ritual-fire, and this
 sword decorated in gold together with its sheath made up of excellent golden are once given to me by
 Indra. [3-12-33b, 34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*32, 33a. puruSavyaaghra* = oh, manly-tiger; *hema vajra vibhuuSitam* = gold, diamonds,
-decorated with; *divyam mahat idam caapam* = sacred, great, this, bow; *vaiSNavam* = Vishnu
-[pertains to]; *nirmitam vishvakarmaNaa* = crafted by, Vishvkarma; *suurya samkaashaH*
-= sun, equalling in blaze; *amoghaH shara uttamaH* = unwasteful, arrows, best; *brahma dattaH*
-= by Brahma, gifted by.
-
-**अनुवादः**
-
-"This sacred bow that is decorated with gold and diamonds is crafted by the divine architect Vishvakarma
-pertains to Vishnu, and these unwasteful arrows equalling sun in their blaze are the gift of Brahma.
-[3-12-32, 33a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>
@@ -1485,6 +1485,22 @@ _________________
 
 **पदच्छेदः**
 
+*35. raama* = oh, Rama; *puraa viSNuuH samkhye* = once, Vishnu, in war; *anena dhanuSaa*
+= by this, bow; *hatvaa mahaasuraan* = killed, horrible demons; *diva okasaam* = in heavens,
+for dwellers; *diiptaam shriyam aajahaara* = radiant, fortune, he fetched.
+
+**अनुवादः**
+
+"By this bow, oh, Rama, once Vishnu eliminated horrible demons in war and brought back radiant prosperity
+to the celestials. [3-12-35]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *36. maana da* = grace, accorder of - Rama; *tat dhanuH tau ca tuuNi* = that, bow, those
 two, also, quivers; *sharam khaDgam ca* = arrow, sword, also; *vajra dharaH vajram yathaa*
 = by Thunderbolt, wielder [Indra,] Thunderbolt, as with; *jayaaya pratigR^ihNiiSva* = for triumph,
@@ -1494,22 +1510,6 @@ you receive them.
 
 "The bow, these two quivers, arrows, and the sword, oh, Rama, the endower of grace, receive and wield
 them to triumph over the demons as Indra would wield Thunderbolt. [3-12-36]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*35. raama* = oh, Rama; *puraa viSNuuH samkhye* = once, Vishnu, in war; *anena dhanuSaa*
-= by this, bow; *hatvaa mahaasuraan* = killed, horrible demons; *diva okasaam* = in heavens,
-for dwellers; *diiptaam shriyam aajahaara* = radiant, fortune, he fetched.
-
-**अनुवादः**
-
-"By this bow, oh, Rama, once Vishnu eliminated horrible demons in war and brought back radiant prosperity
-to the celestials. [3-12-35]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranyasans12.htm)
 </details>

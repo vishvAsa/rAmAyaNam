@@ -571,23 +571,6 @@ will abandon the kingdom and the treasury."
 
 **पदच्छेदः**
 
-*13. tatra* = there; *ye* = which; *guNavantashca* = the
-virtuous; *vidvaamsashca* = and the learned dvija tayaH = Brahmanas; *suropamaaH* =
-who are like unto gods; *te* = they; *na abhimanyante* = do not accept;
-*pashcaatt* = afterwards; *sudhaamapi* = even ambrosia.
-
-**अनुवादः**
-
-"The virtuous and the learned Brahmins, who are like unto gods, do not accept
-afterwards even food as delicious as ambrosia."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. kechit* = some; *shraadhhe* = in a ceremony in honour of
 dead relative; *bhojayanti kila* = indeed feed; *svaan* = their won; *baandhavaan
 iva* = relatives only; *kR^itakaaryaaH* = having completed the ceremony; *tataH
@@ -598,6 +581,23 @@ illustrious Twice-born.
 
 "There are those who in a ceremony in hour of dead relatives, first feed their
 relatives and thereafter, to fulfill their duty, remember to invite the illustrious Twice-born.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. tatra* = there; *ye* = which; *guNavantashca* = the
+virtuous; *vidvaamsashca* = and the learned dvija tayaH = Brahmanas; *suropamaaH* =
+who are like unto gods; *te* = they; *na abhimanyante* = do not accept;
+*pashcaatt* = afterwards; *sudhaamapi* = even ambrosia.
+
+**अनुवादः**
+
+"The virtuous and the learned Brahmins, who are like unto gods, do not accept
+afterwards even food as delicious as ambrosia."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga61/ayodhyasans61.htm)
 </details>

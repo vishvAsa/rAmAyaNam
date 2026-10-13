@@ -1228,23 +1228,6 @@ _________________
 
 **पदच्छेदः**
 
-*26. plavangamaaH* = the monkeys; *plavantaH* = jumping; *aaplavantaH*
-= overwhelmingly; *garjantashcha* = with roaring sound; *kshhveLantaH* = jest fully;
-*ninadantashcha* = playing (musical instruments) jagmuH vai = marched; *dakshhinamdisham*
-= towards southern direction.
-
-**अनुवादः**
-
-The monkeys, jumping overwhelmingly with roaring sound and jest fully playing musical
-instruments (like trumpets) marched towards southern direction.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *25. saa* = that; *mahatii* = extensive; *harivaahinii* =
 army of monkeys; *anuyaantii* = followed; *tam* = Rama; *yaantam* = who was marching
 (along) sarve = all those (monkeys) paalitaaH = maintained; *sugriiveNa* = by Sugreeva; *hR^ishhTaaH*
@@ -1254,6 +1237,23 @@ army of monkeys; *anuyaantii* = followed; *tam* = Rama; *yaantam* = who was marc
 
 That extensive army of monkeys followed Rama who was marching in the lead. All those
 monkeys maintained by Sugreeva were rejoicing with delight.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. plavangamaaH* = the monkeys; *plavantaH* = jumping; *aaplavantaH*
+= overwhelmingly; *garjantashcha* = with roaring sound; *kshhveLantaH* = jest fully;
+*ninadantashcha* = playing (musical instruments) jagmuH vai = marched; *dakshhinamdisham*
+= towards southern direction.
+
+**अनुवादः**
+
+The monkeys, jumping overwhelmingly with roaring sound and jest fully playing musical
+instruments (like trumpets) marched towards southern direction.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
@@ -2022,23 +2022,6 @@ _________________
 
 **पदच्छेदः**
 
-*45. hatvaa* = killing; *raavanam* = Ravana; *kshhipram* =
-fast; *avaapya cha* = and obtaining; *vaidehiim* = Seetha; *hR^itaam* = who was
-taken away; *pratiyaasyasi* = you will proceed; *ayodhyaam* = to Ayodhya; *samR^iddhaartham*
-= which is abundantly rich; *samR^iddhaarthaH* = having accomplished your purpose.
-
-**अनुवादः**
-
-"Killing Ravana fast and obtaining Seetha who was taken away, you will proceed to Ayodhya
-which is abundant by rich, having accomplished your purpose."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *43. tataH* = thereafter; *raamaH* = Rama; *dharmaatmaa* =
 the virtuous man; *pujitaH* = treat respectfully; *vaanara raajena* = by Sugreeva; *
 lakshmaNena cha* = and Lakshmana; *jagaama* = went; *dakshhinam disham* = towards
@@ -2052,6 +2035,23 @@ sitting on angada; *uvaacha* = spoke; *shubhayaa* = (the following) auspicious; 
 Thereafter, Rama the virtuous man, treated respectfully by Sugreeva and Lakshmana, moved
 towards southern direction, along with the army. Lakshmana, with a fully meaningful presence of mind,
 sitting on Angada, spoke the following auspicious words which were fully meaningful, to Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. hatvaa* = killing; *raavanam* = Ravana; *kshhipram* =
+fast; *avaapya cha* = and obtaining; *vaidehiim* = Seetha; *hR^itaam* = who was
+taken away; *pratiyaasyasi* = you will proceed; *ayodhyaam* = to Ayodhya; *samR^iddhaartham*
+= which is abundantly rich; *samR^iddhaarthaH* = having accomplished your purpose.
+
+**अनुवादः**
+
+"Killing Ravana fast and obtaining Seetha who was taken away, you will proceed to Ayodhya
+which is abundant by rich, having accomplished your purpose."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
@@ -2095,15 +2095,16 @@ _________________
 
 **पदच्छेदः**
 
-*47. ete* = these; *mR^igadvijaaH* = beasts and birds; *pravadanti*
-= are uttering; *puurNavalgusvaraaH* = sonorous and sweet sounds; *sarvaaH* = all; *
-dishashcha* = the quarters; *prasannaaH* = are bright; *divaakarashcha* = even the
-sun; *vimalaH* = is clear.
+*46. pashyaami* = I am seeing; *sarvaaNi* = all; *mahaanti*
+= grand; *shubhaanyeva* = good; *nimittaani* = omens; *artha siddhaye* = self-evident;
+*tava* = for you; *divi* = in the sky; *bhuumaucha* = and the earth; *raaghava*
+= Oh; *Rama! vaayuH* = the wind; *shivaH* = which is favorable beneficial; *mR^iduhitaH*
+= gentle; *sukhaH* = and comfortable; *anuvaati* = is blowing alongside.
 
 **अनुवादः**
 
-"These beasts and birds are uttering sonorous and sweet sounds. All the quarters are
-looking bright. Even the sun is clear."
+"I am seeing all grand good omens in the sky and the earth self-evident of your fulfillment,
+Oh Rama! The wind which is favorable, gentle beneficial and comfortable to the army is blowing alongside."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
@@ -2117,16 +2118,15 @@ looking bright. Even the sun is clear."
 
 **पदच्छेदः**
 
-*46. pashyaami* = I am seeing; *sarvaaNi* = all; *mahaanti*
-= grand; *shubhaanyeva* = good; *nimittaani* = omens; *artha siddhaye* = self-evident;
-*tava* = for you; *divi* = in the sky; *bhuumaucha* = and the earth; *raaghava*
-= Oh; *Rama! vaayuH* = the wind; *shivaH* = which is favorable beneficial; *mR^iduhitaH*
-= gentle; *sukhaH* = and comfortable; *anuvaati* = is blowing alongside.
+*47. ete* = these; *mR^igadvijaaH* = beasts and birds; *pravadanti*
+= are uttering; *puurNavalgusvaraaH* = sonorous and sweet sounds; *sarvaaH* = all; *
+dishashcha* = the quarters; *prasannaaH* = are bright; *divaakarashcha* = even the
+sun; *vimalaH* = is clear.
 
 **अनुवादः**
 
-"I am seeing all grand good omens in the sky and the earth self-evident of your fulfillment,
-Oh Rama! The wind which is favorable, gentle beneficial and comfortable to the army is blowing alongside."
+"These beasts and birds are uttering sonorous and sweet sounds. All the quarters are
+looking bright. Even the sun is clear."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
@@ -2614,22 +2614,6 @@ _________________
 
 **पदच्छेदः**
 
-*60. senayaaH uttarantyaaH* = while the army was crossing; *sarvaaNi*
-= the entire; *nadiisrotaamsi* = river-currents; *satatam* = uninterruptedly; *sasyandaH*
-= they flowed; *vipariitavat* = invertedly; *bahuyojanam* = for a distance of many yojanas.
-
-**अनुवादः**
-
-While the army was crossing the entire river-currents uninterruptedly, the currents flowed
-invertedly for a distance of many yojanas.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *58;59. bhiimam* = the aweful; *rajaH* = dust; *uddhatam*
 = raised; *karaagraiH* = by nails; *charaNaagraiH* = and elaws; *vaanariaH* = of
 monkeys; *nivaarya* = obscured; *prabhaam* = the splendor; *savituH* = of the sun;
@@ -2643,6 +2627,22 @@ region; *dyaamiva* = like the sky; *ambudasamtatiH* = a mass of cloud.
 The aweful dust raised by nails and claws of monkeys obscured the splendor of the sun
 and also covered the earth comprising of mountains forests and the atmosphere. The colossal monkey-army
 advanced, encompassing the southern region like a mass of cloud enveloping the sky.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*60. senayaaH uttarantyaaH* = while the army was crossing; *sarvaaNi*
+= the entire; *nadiisrotaamsi* = river-currents; *satatam* = uninterruptedly; *sasyandaH*
+= they flowed; *vipariitavat* = invertedly; *bahuyojanam* = for a distance of many yojanas.
+
+**अनुवादः**
+
+While the army was crossing the entire river-currents uninterruptedly, the currents flowed
+invertedly for a distance of many yojanas.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
@@ -2980,23 +2980,6 @@ roars.
 
 **पदच्छेदः**
 
-*69. tataH* = in that place; *mahii* = the land; *parivR^itaa*
-= was covered; *shriimat* = splendidly; *shatasahasraishcha* = by hundred of thousands;
-*sahasrashaH* = by thousands; *kotibhiH* = (and) crores; *vaanaraaNaam* = of monkeys;
-*sughoraaNaam* = who were very dreadful.
-
-**अनुवादः**
-
-In that place, the land was covered splendidly by hundreds of thousands, by thousands
-and crores of monkeys, who were looking very dreadful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *68. mamR^iduH* = (some) were crushing; *anekashaH* = many; *lataajaalaani*
 = webs of creepers; *uuruvegaiH* = by the jerks of their thighs; *vikraantaaH* = the valiant
 monkeys; *vichikriiDuH* = played; *shilaadrumaiH* = with rocks and trees; *jR^imbhamaaNaaH*
@@ -3006,6 +2989,23 @@ monkeys; *vichikriiDuH* = played; *shilaadrumaiH* = with rocks and trees; *jR^im
 
 Some monkeys were crushing many webs of creepers by the jerks of their thighs. The valiant
 monkeys also played with rocks and trees, by stretching their limbs.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*69. tataH* = in that place; *mahii* = the land; *parivR^itaa*
+= was covered; *shriimat* = splendidly; *shatasahasraishcha* = by hundred of thousands;
+*sahasrashaH* = by thousands; *kotibhiH* = (and) crores; *vaanaraaNaam* = of monkeys;
+*sughoraaNaam* = who were very dreadful.
+
+**अनुवादः**
+
+In that place, the land was covered splendidly by hundreds of thousands, by thousands
+and crores of monkeys, who were looking very dreadful.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
@@ -3365,6 +3365,22 @@ _________________
 
 **पदच्छेदः**
 
+*77. sukhasamprashaH* = a soft-touching; *maarutaH* = breeze; *
+chandanashiitalaH* = (while) the bees; *anukuujadbhiH* = hummed; *madhugandhishhu*
+= in the nectar-scented; *vaneshhu* = woods.
+
+**अनुवादः**
+
+A soft-touching breeze, refreshing as a sandal, blew while the bees hummed in the nectar-scented
+woods.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *78. shailaraajastu* = (that) royal mountain; *adhikam* = was highly;
 *vibhuushhitaH* = adorned; *dhaatubhiH* = with minerals of red colour; *reNuH*
 = the dust; *ghattitaH* = blown; *dhaatubhyaH* = from the minerals; *vaayu vegena*
@@ -3375,22 +3391,6 @@ _________________
 
 That royal Sahya Mountain was highly adorned with red-coloured metal. The dust blown
 from that metal by the velocity of wind, coming forth from all sides, obscured the huge monkey-army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*77. sukhasamprashaH* = a soft-touching; *maarutaH* = breeze; *
-chandanashiitalaH* = (while) the bees; *anukuujadbhiH* = hummed; *madhugandhishhu*
-= in the nectar-scented; *vaneshhu* = woods.
-
-**अनुवादः**
-
-A soft-touching breeze, refreshing as a sandal, blew while the bees hummed in the nectar-scented
-woods.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
@@ -4734,23 +4734,6 @@ _________________
 
 **पदच्छेदः**
 
-*111. saa* = that; *harivaahinii* = army of monkeys; *aasaadya*
-= reached; *mahaarNavam* = the mighty ocean; *hR^ishhTaam* = (and) was delighted; *
-pashyamaanaa* = to see; *mahaarNavam* = the mighty ocean; *vaayuvega samaadhuutam*
-= being diffused by the velocity of wind.
-
-**अनुवादः**
-
-That army of monkeys reached the mighty ocean and was delighted to behold the mighty
-ocean being diffused by the velocity of wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *110. saa* = that; *dhvajinii* = army; *vaanaraaNaam* = of
 the monkeys; *abhipaalitaaH* = ruled; *sugriiveNa* = by Sugreeva; *nivishhTaa*
 = stationed; *tridhaa* = as three divisions; *abhavat* = were dedicated; *arthaparaa*
@@ -4760,6 +4743,23 @@ the monkeys; *abhipaalitaaH* = ruled; *sugriiveNa* = by Sugreeva; *nivishhTaa*
 
 That army of the monkeys ruled by Sugreeva, stationed as three divisios (viz. 1. bears
 2. long tailed monkes and 3. monkeys) looked fully dedicated to the cause of Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*111. saa* = that; *harivaahinii* = army of monkeys; *aasaadya*
+= reached; *mahaarNavam* = the mighty ocean; *hR^ishhTaam* = (and) was delighted; *
+pashyamaanaa* = to see; *mahaarNavam* = the mighty ocean; *vaayuvega samaadhuutam*
+= being diffused by the velocity of wind.
+
+**अनुवादः**
+
+That army of monkeys reached the mighty ocean and was delighted to behold the mighty
+ocean being diffused by the velocity of wind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>
@@ -4912,6 +4912,23 @@ _________________
 
 **पदच्छेदः**
 
+*114. samudbhuutam* = (the ocean) surged; *chandrodaye* = when the
+moon rose; *pratichandra samaakulam* = the image of moon was reflected limitlessly in it; *
+kiirNam* = (It was) full of chaNDaanilamahaagraahaiH = huge alligators swift as fierce winds;
+*timitimNgalaiH* = whales and great fish.
+
+**अनुवादः**
+
+The ocean surged, when the moon rose. The image of moon was reflected limitlessly in
+it. The sea was full of huge alligators swift as fierce winds along with whales and great fish.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *115. varuNaalayam* = the sea; abode of Varuna; *aakiirNam* = was
 filled with bhujaNgaiH = serpants; *diiptabhogairiva* = bestowed with flaming hoods; *avagaaDham*
 = plunged; *mahaasattvaiH* = with mighty aquatic creatures; *naanaashaila samaakulam*
@@ -4924,23 +4941,6 @@ filled with bhujaNgaiH = serpants; *diiptabhogairiva* = bestowed with flaming ho
 That sea, the abode of Varuna was filled with serpents bestowed with flaming hoods, plunged
 with mighty aquatic creatures, abounding in various types of mountains, too difficult to cross, with
 an inaccessible path, suffocationly fathomless and an abode of demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*114. samudbhuutam* = (the ocean) surged; *chandrodaye* = when the
-moon rose; *pratichandra samaakulam* = the image of moon was reflected limitlessly in it; *
-kiirNam* = (It was) full of chaNDaanilamahaagraahaiH = huge alligators swift as fierce winds;
-*timitimNgalaiH* = whales and great fish.
-
-**अनुवादः**
-
-The ocean surged, when the moon rose. The image of moon was reflected limitlessly in
-it. The sea was full of huge alligators swift as fierce winds along with whales and great fish.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga4/yuddhasans4.htm)
 </details>

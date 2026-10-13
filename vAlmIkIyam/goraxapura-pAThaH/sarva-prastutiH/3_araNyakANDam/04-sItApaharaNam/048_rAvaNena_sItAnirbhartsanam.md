@@ -172,23 +172,6 @@ _________________
 
 **पदच्छेदः**
 
-*4. yena* = by whom; *kaaraNa antare* = for reason, another; *krodhaat* = infuriately;
-*dvandvam aasaaditaH* = duel, one who obtained - Kubera; *vaimaatraH bhraataa* = one from
-stepparent, brother; *vaishravaNaH* = Vaishravana [Kubera,]; *raNe vikramya ni rjitaH*
-= in combat, setting upon, completely trounced.
-
-**अनुवादः**
-
-"I am that Ravana who when infuriated for some other reason took up a duel with Kubera, his brother
-from stepparent, wherein that Kubera is set up against and completely trounced in a combat. [3-48-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *3. prajaaH* = people; *mR^ityoH iva* = by death, as with; *yasya bhayaat bhiitaa*
 = from whose, fear, frightened - at whose very sight; *sa gandharvaaH* = along with, gandharva-s;
 *devaaH pishaaca pataga uragaaH* = gods, together evil-spirits, birds, snakes; *sadaa vi dravanti*
@@ -198,6 +181,23 @@ from stepparent, wherein that Kubera is set up against and completely trounced i
 
 "I am that Ravana at whose sight all the gods together with gandharva-s, evil-spirits, birds and snakes
 will always be frightened and fleeing, as with the people frightened and fleeing from death. [3-48-3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. yena* = by whom; *kaaraNa antare* = for reason, another; *krodhaat* = infuriately;
+*dvandvam aasaaditaH* = duel, one who obtained - Kubera; *vaimaatraH bhraataa* = one from
+stepparent, brother; *vaishravaNaH* = Vaishravana [Kubera,]; *raNe vikramya ni rjitaH*
+= in combat, setting upon, completely trounced.
+
+**अनुवादः**
+
+"I am that Ravana who when infuriated for some other reason took up a duel with Kubera, his brother
+from stepparent, wherein that Kubera is set up against and completely trounced in a combat. [3-48-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>
@@ -770,6 +770,46 @@ _________________
 
 **पदच्छेदः**
 
+*15. manda viiryaH* = less of, bravery [spineless, because that Rama is spineless]; *jyeSThaH
+sutaH* = [though] eldest son; *yaH* = which Rama is - exiled; *raaGYaa dasharathena*
+= by king, by Dasharatha; *priyam putram sthaapayitvaa* = dear, son [Bharata,] on establishing;
+*tataH* = therefrom; *vanam prasthaapitaH* = to forests, put to flight.
+
+**अनुवादः**
+
+"Though Rama is the eldest son, king Dasharatha established his dear son Bharata as king, and because
+Rama is spineless he is put to flight to forests, and now, what is he and what am I, in matter of sovereignty.
+[3-48-15]
+
+**टिप्पनी**
+
+Ravana as devotee says: *raaj~naa *'one that rules from within...' like an *antaryaami,
+*'an inner force... i.e., you as Goddess Lakshmi, *raaj~naa *'by King Dasharatha...' as
+an inner force of Dasharatha, you made Dasharatha to select *manda viiryaH, a priyaH, putram,
+bharatam *'spineless, not, the choicest, son, Bharata...' and *sthaapayitvaa *'you made
+Dasharatha to establish Bharata on throne...' *raaj~naa *'by the inner ruler, inner force...
+by you...' the King Dasharatha is incited to send his *jyeSTaH *'eldest son...' also as said
+in *vishNu sahasra naamaavali: jyeSTaH shreSTaH prajaapatiH *'eldest, best, ruler of
+people... Vishnu, is *prasthaapito vanam *'sent away to forests...
+
+**टिप्पनी**
+
+’you are Goddess Lakshmi, an inner-ruler in all beings... though Dasharatha was uninterested to
+select Bharata you made Dasharatha, as his inner force, to select a spineless Bharata, and Bharata
+is established on the throne by Dasharatha, through you... besides, though Dasharatha was
+disinterested to send his dear eldest son Rama to forests, you as Dasharatha’s inner force, made
+Dasharatha to send Rama, the eldest, best, and the only ruler of people, namely Rama, [as said in
+Vishnu’s Thousand names,] to forests for the elimination of demons, and thereby to release us from
+our accursed being... hence you, as inner force of everybody, have to come with me, if Rama’s
+incarnation is to yield its results...’ Maheshvara Tiirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *16. vishaala akSi* = oh, broad-eyed one; *bhraSTa raajyena* = subverted, from kingdom;
 *gata cetasaa* = gone is, his anima [or, dwindled is, his valour]; *taapasena* = simmered
 down [pitiable]; *tapasvinaa* = with an ascetic; *tena raameNa kim kariSyasi* = with him
@@ -807,46 +847,6 @@ over, isn't it?
 'He who has snubbed down all enemy kingdoms, where enemies are not earthly enemies, and as he has no
 duality in his deeds, won't you make over this request of mine, in welcoming you to Lanka, to
 him...' Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*15. manda viiryaH* = less of, bravery [spineless, because that Rama is spineless]; *jyeSThaH
-sutaH* = [though] eldest son; *yaH* = which Rama is - exiled; *raaGYaa dasharathena*
-= by king, by Dasharatha; *priyam putram sthaapayitvaa* = dear, son [Bharata,] on establishing;
-*tataH* = therefrom; *vanam prasthaapitaH* = to forests, put to flight.
-
-**अनुवादः**
-
-"Though Rama is the eldest son, king Dasharatha established his dear son Bharata as king, and because
-Rama is spineless he is put to flight to forests, and now, what is he and what am I, in matter of sovereignty.
-[3-48-15]
-
-**टिप्पनी**
-
-Ravana as devotee says: *raaj~naa *'one that rules from within...' like an *antaryaami,
-*'an inner force... i.e., you as Goddess Lakshmi, *raaj~naa *'by King Dasharatha...' as
-an inner force of Dasharatha, you made Dasharatha to select *manda viiryaH, a priyaH, putram,
-bharatam *'spineless, not, the choicest, son, Bharata...' and *sthaapayitvaa *'you made
-Dasharatha to establish Bharata on throne...' *raaj~naa *'by the inner ruler, inner force...
-by you...' the King Dasharatha is incited to send his *jyeSTaH *'eldest son...' also as said
-in *vishNu sahasra naamaavali: jyeSTaH shreSTaH prajaapatiH *'eldest, best, ruler of
-people... Vishnu, is *prasthaapito vanam *'sent away to forests...
-
-**टिप्पनी**
-
-’you are Goddess Lakshmi, an inner-ruler in all beings... though Dasharatha was uninterested to
-select Bharata you made Dasharatha, as his inner force, to select a spineless Bharata, and Bharata
-is established on the throne by Dasharatha, through you... besides, though Dasharatha was
-disinterested to send his dear eldest son Rama to forests, you as Dasharatha’s inner force, made
-Dasharatha to send Rama, the eldest, best, and the only ruler of people, namely Rama, [as said in
-Vishnu’s Thousand names,] to forests for the elimination of demons, and thereby to release us from
-our accursed being... hence you, as inner force of everybody, have to come with me, if Rama’s
-incarnation is to yield its results...’ Maheshvara Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga48/aranyasans48.htm)
 </details>

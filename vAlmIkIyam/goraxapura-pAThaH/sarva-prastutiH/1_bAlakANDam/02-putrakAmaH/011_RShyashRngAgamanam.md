@@ -165,6 +165,33 @@ resplendent and truthful one to his vow." [Said Sanat Kumara, the Sage.] [1-11-2
 
 **पदच्छेदः**
 
+3. *tasya raaj~naH* = to that, king [to Dasharatha]; *angaraajena* = with king of Anga;
+*sakhyam bhaviSyati* = friendship, will happen; *asya* = his [for king
+of Anga]; *mahaabhaagaa* = fortunate woman; *shaantaa; *naama kanyaa bhaviSyati*
+= named, daughter, will be there.*
+
+**अनुवादः**
+
+"King Dasharatha will befriend the king of Anga and the king of Anga will beget a fortunate
+girl named Shanta. [1-11-3]
+
+**टिप्पनी**
+
+Shanta is said to be the daughter of Dasharatha and given to Romapada in adoption, and Rishyasringa
+marries her alone. This is what Sumantra says to Dasharatha at 1-9-19.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अवनिगॆ अङ्गराजनॊन्दिगॆ स्नेह उण्टादीतु. अङ्गराजनिगॆ ओर्वळु परम सौभाग्यशालिनि शान्ता ऎम्ब कन्यॆ हुट्टुवळु. अङ्गदेशद राजकुमारन हॆसरु ‘रोमपाद’ ऎन्दिरुवुदु. महायशस्वी दशरथराजनु अवन बळिगॆ होगि हेळुवनु - धर्मात्मा! नानु सन्तानहीननागिद्देनॆ, नीवु अप्पणॆ कॊट्टरॆ शान्ताळ पति ऋष्यशृङ्ग मुनियु नम्मल्लिगॆ बन्दु यज्ञमाडिसलि. इदरिन्द ननगॆ पुत्रप्राप्तियागुवुदु हागू नन्न वंशद रक्षणॆ आगुवुदु.॥3-5॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *4. saH putraH tu angaraajasya* = son of king of Anga; *romapaadaH iti shrutaH*
 = thus heard as Romapada; *mahaayashaaH raajaa dasharathaH* = well renowned, king, Dasharatha;
 *tam* = to him [to Romapada]; *gamiSyati* = will approach.
@@ -176,11 +203,6 @@ or also know as Chitraratha, and the highly renowned king Dasharatha approaches 
 [1-11-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अवनिगॆ अङ्गराजनॊन्दिगॆ स्नेह उण्टादीतु. अङ्गराजनिगॆ ओर्वळु परम सौभाग्यशालिनि शान्ता ऎम्ब कन्यॆ हुट्टुवळु. अङ्गदेशद राजकुमारन हॆसरु ‘रोमपाद’ ऎन्दिरुवुदु. महायशस्वी दशरथराजनु अवन बळिगॆ होगि हेळुवनु - धर्मात्मा! नानु सन्तानहीननागिद्देनॆ, नीवु अप्पणॆ कॊट्टरॆ शान्ताळ पति ऋष्यशृङ्ग मुनियु नम्मल्लिगॆ बन्दु यज्ञमाडिसलि. इदरिन्द ननगॆ पुत्रप्राप्तियागुवुदु हागू नन्न वंशद रक्षणॆ आगुवुदु.॥3-5॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -197,28 +219,6 @@ santaanaartham* = for the sake of progeny of my dynasty; *kratum aahareta*
 Then king Dasharatha says to king of Anga "oh, righteous one, I am childless and hence I intend
 to perform a Vedic ritual. Let the husband of your daughter Shanta, Sage Rishyasringa, preside
 over that Vedic ritual at you behest, for the sake of progeny in my dynasty. [1-11-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-3. *tasya raaj~naH* = to that, king [to Dasharatha]; *angaraajena* = with king of Anga;
-*sakhyam bhaviSyati* = friendship, will happen; *asya* = his [for king
-of Anga]; *mahaabhaagaa* = fortunate woman; *shaantaa; *naama kanyaa bhaviSyati*
-= named, daughter, will be there.*
-
-**अनुवादः**
-
-"King Dasharatha will befriend the king of Anga and the king of Anga will beget a fortunate
-girl named Shanta. [1-11-3]
-
-**टिप्पनी**
-
-Shanta is said to be the daughter of Dasharatha and given to Romapada in adoption, and Rishyasringa
-marries her alone. This is what Sumantra says to Dasharatha at 1-9-19.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
@@ -852,23 +852,6 @@ like ritual fire. [1-11-15b, 16a]
 
 **पदच्छेदः**
 
-*17b, 18a. romapaadena* = by Romapada; *sakhyam saMbandhakam ca eva* = friendship,
-relation, also thus; *dhiimate R^iSiputraaya aakhyaatam* = informed to the wise one, sage's
-son Rishyasringa, ; *tadaa tam pratyapuujayat* = then, him[Rishyasringa],
-in return adored [ Dasharatha.]
-
-**अनुवादः**
-
-Then Romapada informed the wise sage Rishyasringa about the friendship and relation with Dasharatha,
-and then that sage worshipped king Dasharatha in his return. [1-11-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *16b, 17a. tataH raajaa* = then, the king [here Romapada]; *prahR^isTena* =
 very gladdened; *antaraatmanaa* = with inner self; *yathaayogyam* = as befitting;
 *sakhitwaat* = in view of friendship; *visheShataH* = in an excelling manner;
@@ -879,6 +862,23 @@ respects, he paid.
 
 Then king Romapada gladdened at heart of hearts paid excellent respects to king Dasharatha
 procedurally and in view of their friendship.[1-11-16b, 17a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*17b, 18a. romapaadena* = by Romapada; *sakhyam saMbandhakam ca eva* = friendship,
+relation, also thus; *dhiimate R^iSiputraaya aakhyaatam* = informed to the wise one, sage's
+son Rishyasringa, ; *tadaa tam pratyapuujayat* = then, him[Rishyasringa],
+in return adored [ Dasharatha.]
+
+**अनुवादः**
+
+Then Romapada informed the wise sage Rishyasringa about the friendship and relation with Dasharatha,
+and then that sage worshipped king Dasharatha in his return. [1-11-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
@@ -916,24 +916,6 @@ procedurally and in view of their friendship.[1-11-16b, 17a]
 
 **पदच्छेदः**
 
-*19b, 20a. vishaampate* = oh lord of subjects; *tava sutaa* = your, daughter;
-*shaantaa* = Princess Shanta; *saha bhartraa* = along with, her husband; *
-madiiyam nagaram yaatu* = she may go over my city; *raajan* = oh king; *mahat
-kaaryam udyatam hi* = a great, deed - the ritual, is contemplated by me, indeed.
-
-**अनुवादः**
-
-"Oh, lord of subjects, your daughter Princess Shanta may go over my city Ayodhya along with
-her husband Rishyasringa, as oh, king, I am contemplating to perform a great Vedic ritual,
-indeed." So said Dasharatha to Romapada. [1-11-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *18b, 19a. evam* = that way; *susatkritaH* = well received; *nararSabhaH
 raajaa* = sacred bull like man, king - Dasharatha; *tena saha* = with him; *
 saptaaSTadivasaan* = seven eight days; *uShitwaa* = having
@@ -944,6 +926,24 @@ spent time; *raajaanam* = to king Romapada; *idam* = this; *abraviit*
 
 Thus well received by king Romapada, king Dasharatha spent seven to eight days with him, and
 then spoke this to king Romapada. [1-11-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19b, 20a. vishaampate* = oh lord of subjects; *tava sutaa* = your, daughter;
+*shaantaa* = Princess Shanta; *saha bhartraa* = along with, her husband; *
+madiiyam nagaram yaatu* = she may go over my city; *raajan* = oh king; *mahat
+kaaryam udyatam hi* = a great, deed - the ritual, is contemplated by me, indeed.
+
+**अनुवादः**
+
+"Oh, lord of subjects, your daughter Princess Shanta may go over my city Ayodhya along with
+her husband Rishyasringa, as oh, king, I am contemplating to perform a great Vedic ritual,
+indeed." So said Dasharatha to Romapada. [1-11-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
@@ -984,24 +984,6 @@ then spoke this to king Romapada. [1-11-18b, 19a]
 
 **पदच्छेदः**
 
-*21b, 22a. tadaa* = then; *R^iShiputraH* = Sage's son - Rishyasringa; *pratishrutya*
-= replied - agreeing; *tathaa iti aaha* = 'like, that only',
-said; *nR^ipam* = to the king; *saH* = he; *nR^ipeNa* = by the king;
-*abhyanujnaataH* = permitted; *saha bhaaryayaa* = along with his wife; *prayayau*
-= set-forth.
-
-**अनुवादः**
-
-Then Rishyasringa agreed and replied to the king Romapada "So it will be done" and then having
-been permitted by the king he set forth along with his wife. [1-11-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *20b, 21a. raajaa* = the king; *tathaa iti* = so it be; *dhiimataH tasya
 gamanam* = travel of that intellectual one, his - Rishyasringa's ; *samshrutya*
 = agreeing; *twam bhaaryayaa saha gacCha* = = you shall proceed along with your wife;
@@ -1021,6 +1003,24 @@ Here Ralph T. H. Griffith's translation [1870-1874] has that Shanta is the daugh
 of dames he gave / From childless woe mine age to save, / The daughter whom he loved so much,
 / Moved by compassion's gentle touch. / In him thy S'anta's father see: / As I am even so
 is he...
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21b, 22a. tadaa* = then; *R^iShiputraH* = Sage's son - Rishyasringa; *pratishrutya*
+= replied - agreeing; *tathaa iti aaha* = 'like, that only',
+said; *nR^ipam* = to the king; *saH* = he; *nR^ipeNa* = by the king;
+*abhyanujnaataH* = permitted; *saha bhaaryayaa* = along with his wife; *prayayau*
+= set-forth.
+
+**अनुवादः**
+
+Then Rishyasringa agreed and replied to the king Romapada "So it will be done" and then having
+been permitted by the king he set forth along with his wife. [1-11-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>
@@ -1058,6 +1058,23 @@ is he...
 
 **पदच्छेदः**
 
+22b, 23a. *tau viiryavaan* = those two - Dasharatha and Romapada, valiant kings;
+*anyonyaanjalim* = with thanksgiving palm-fold; *kritwaa* =
+having performed; *snehaat* = by friendship; *urasaa* = with their bosoms;
+*samshliShya cha* = embraced, also; *nanandatuH* = gladdened.
+
+**अनुवादः**
+
+Those valiant kings greeted each other with thanksgiving palm-fold, and in friendship they
+embraced each other and gladdened. [1-11-22b, 23a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *23b, 24a. tataH* = then; *raghunandanaH* = Ragu's descendent - Dasharatha;
 *suhR^idam* = good-hearted one, the friend; *aapricChya* = having asked - bid
 farewell; *prasthitaH* = set-forth; *shiighragaaminaH duutaan* = quick stepped
@@ -1069,23 +1086,6 @@ started to send.
 Then king Dasharatha who set forth to Ayodhya bade farewell to his friend king Romapada, and
 he firstly sent quick-footed messengers to Ayodhya to inform his citizens about his arrival
 along with Sage Rishyasringa. [1-11-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-22b, 23a. *tau viiryavaan* = those two - Dasharatha and Romapada, valiant kings;
-*anyonyaanjalim* = with thanksgiving palm-fold; *kritwaa* =
-having performed; *snehaat* = by friendship; *urasaa* = with their bosoms;
-*samshliShya cha* = embraced, also; *nanandatuH* = gladdened.
-
-**अनुवादः**
-
-Those valiant kings greeted each other with thanksgiving palm-fold, and in friendship they
-embraced each other and gladdened. [1-11-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga11/balasans11.htm)
 </details>

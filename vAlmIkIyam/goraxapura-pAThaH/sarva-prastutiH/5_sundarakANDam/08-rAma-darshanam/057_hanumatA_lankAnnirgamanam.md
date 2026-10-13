@@ -1380,16 +1380,16 @@ _________________
 
 **पदच्छेदः**
 
-*33. sarve harayaH* = all those monkeys; *prahR^iSTa vadanaaH*
- = with their delighted faces; *aadaaya* = taking; *muulaanicha* = roots; *phalaanicha*
- = and fruits; *upaayanaani* = as gifts; *pratyarchayan* = honoured; *maarutaatmajam*
- = hanuma; *harishreSTham* = the excellent one among the monkeys; *upaagatam* = who
- came; *arogam* = healthily.
+31; *32. tatH* = then; *sarve* = all; *te vaanarapuN^gavaaH*
+ = the foremost of those monkeys; *priita manasaH* = having their minds pleased; *upatasthire*
+ = stood; *parivaarya* = surraunding; *mahaatmaanam* = the high-sauled; *hanumantam*
+ = hanuma; *te sarve* = all of them; *parivaarya* = having encircled him; *upaagataaH*
+ = obtained; *paraam* = a supreme; *priitim* = joy.
 
 **अनुवादः**
 
-All those mokeys with their delightful faces, taking roots and fruits as their presents,
- honured Hanuma, the foremost among the monkeys, who came back hale and healthy.
+Then, all the foremost of those monkeys, with their pleasing hearts, stood surraunding
+ the high-sauled Hanuma. Having encircled Hanuma, all of them obtained a supreme joy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
@@ -1403,16 +1403,16 @@ All those mokeys with their delightful faces, taking roots and fruits as their p
 
 **पदच्छेदः**
 
-31; *32. tatH* = then; *sarve* = all; *te vaanarapuN^gavaaH*
- = the foremost of those monkeys; *priita manasaH* = having their minds pleased; *upatasthire*
- = stood; *parivaarya* = surraunding; *mahaatmaanam* = the high-sauled; *hanumantam*
- = hanuma; *te sarve* = all of them; *parivaarya* = having encircled him; *upaagataaH*
- = obtained; *paraam* = a supreme; *priitim* = joy.
+*33. sarve harayaH* = all those monkeys; *prahR^iSTa vadanaaH*
+ = with their delighted faces; *aadaaya* = taking; *muulaanicha* = roots; *phalaanicha*
+ = and fruits; *upaayanaani* = as gifts; *pratyarchayan* = honoured; *maarutaatmajam*
+ = hanuma; *harishreSTham* = the excellent one among the monkeys; *upaagatam* = who
+ came; *arogam* = healthily.
 
 **अनुवादः**
 
-Then, all the foremost of those monkeys, with their pleasing hearts, stood surraunding
- the high-sauled Hanuma. Having encircled Hanuma, all of them obtained a supreme joy.
+All those mokeys with their delightful faces, taking roots and fruits as their presents,
+ honured Hanuma, the foremost among the monkeys, who came back hale and healthy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
@@ -1669,23 +1669,6 @@ _________________
 
 **पदच्छेदः**
 
-*40. nishamya* = hearing; *mahaartham* = the iMportant; *amR^itopamam*
- = and nectar-like; *vachanam* = word; *maaruteH* = of Hanuma; *iti* = saying;
- *dR^iShTaa* = "seen (by me)"; *sarve* = all; *vaanaraaH* = the monkeys; *
- abhavan* = became; *muditaaH* = delighted.
-
-**अनुवादः**
-
-Hearing from Hanuma that iMportant and nectar like word to the effect that Sheetha
- had been seen all the monkeys became delighted.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 37; 38; *39. tadaa* = then; *hR^iSTaH* = the pleased; *hanumaan*
  = Hanuma; *abraviit* = spoke; *taan vaanararSabhaan* = to those foremost ones among
  the monkeys (as follows); *saa jaanakaatmajaa* = that Seetha the daughter of Janaka; *
@@ -1703,6 +1686,23 @@ Then, the pleased Hanuma spoke the following words to those excellent monkeys: "
  highly dreadful female-demons and wearing a single braid, young woman, as she was, longing to see
  Rama, thoroughly fatigued due to her fasting, with her hair twisted together, wearing soiled clothes
  and looking emaciated."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*40. nishamya* = hearing; *mahaartham* = the iMportant; *amR^itopamam*
+ = and nectar-like; *vachanam* = word; *maaruteH* = of Hanuma; *iti* = saying;
+ *dR^iShTaa* = "seen (by me)"; *sarve* = all; *vaanaraaH* = the monkeys; *
+ abhavan* = became; *muditaaH* = delighted.
+
+**अनुवादः**
+
+Hearing from Hanuma that iMportant and nectar like word to the effect that Sheetha
+ had been seen all the monkeys became delighted.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
@@ -1774,23 +1774,6 @@ _________________
 
 **पदच्छेदः**
 
-*42. kechit* = some; *kapikuNjaraaH* = eminent monkeys; *prahR^iShTaaH*
- = with joy; *uchchhrita laaN^guulaani* = and with their tails lifted up; *pravivyadhuH*
- = waved; *aayataaN^chita diirghaaNi* = their distended long curved; *laan^guulaani*
- = tails.
-
-**अनुवादः**
-
-Shome eminent monkeys, with joy and with their tails lifted up, waved their distended
- curved tails.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *41. anye mahaabalaaH* = some mighty monkeys; *kSvehanti* = made
  a lion's roar; *anye* = some others; *nadanti* = were making a sound of approbation;
  *anye* = some; *garjanti* = were making a sound of thunder; *anye* = some others;
@@ -1802,6 +1785,23 @@ Shome eminent monkeys, with joy and with their tails lifted up, waved their dist
 Some mighty monkeys made a lion's roar. Some were making a sound of approbation.
  Some were making a sound of thunder. Some others proudced cries expressing joy. Some others were
  roaring in return.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. kechit* = some; *kapikuNjaraaH* = eminent monkeys; *prahR^iShTaaH*
+ = with joy; *uchchhrita laaN^guulaani* = and with their tails lifted up; *pravivyadhuH*
+ = waved; *aayataaN^chita diirghaaNi* = their distended long curved; *laan^guulaani*
+ = tails.
+
+**अनुवादः**
+
+Shome eminent monkeys, with joy and with their tails lifted up, waved their distended
+ curved tails.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
@@ -1873,23 +1873,6 @@ _________________
 
 **पदच्छेदः**
 
-*44. atha* = thereafter; *aN^gadaH* = Angada; *ukta vaakyam*
- = having teh words spoken; *hanuumantam* = by Hanuma; *abraviit* = spoke; *uttamam
- vachanam* = (the following) excellent words; *madhye* = in the midst; *hariviiraaNaam*
- = of the eminent monkeys.
-
-**अनुवादः**
-
-After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
- the midst of those eminent monkeys.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *43. aaplutya* = descending; *girishR^iNgebhya* = from the mountain-tops;
  *apare* = some other; *vaanaraaH* = monkeys; *harSitaaH* = with delight;
  *sam spR^ishanti sma* = fondingly touched; *hanuumantam* = Hanuma; *vaaraNopamam*
@@ -1899,6 +1882,23 @@ After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
 
 Descending from the mountain-tops; some other monkeys, with delight, fondingly touched
  Hanuma who resembled an elephant.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*44. atha* = thereafter; *aN^gadaH* = Angada; *ukta vaakyam*
+ = having teh words spoken; *hanuumantam* = by Hanuma; *abraviit* = spoke; *uttamam
+ vachanam* = (the following) excellent words; *madhye* = in the midst; *hariviiraaNaam*
+ = of the eminent monkeys.
+
+**अनुवादः**
+
+After hearing the words of Hanuma, Angada spoke the follwoing excellent words in
+ the midst of those eminent monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
@@ -1958,6 +1958,23 @@ Descending from the mountain-tops; some other monkeys, with delight, fondingly t
 
 **पदच्छेदः**
 
+*45. vaanara* = O Hanuma!; *yat* = since; *punaH aagataH*
+ = you returned (here); *avaplutya* = crossing; *vistiirNam* = the extensive; *saagaram*
+ = ocean; *na kashchit* = none; *vidyate* = is; *samaH* = equal; *te*
+ = to you; *sattve* = in strength; *viirye* = and prowess.
+
+**अनुवादः**
+
+"O Hanuma! Since you returned here crossing the extensive ocean, none stands equal
+ to you in strength and prowess."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *46. aho* = what amazing; *te* = yaur; *bhaktiH* = devotion;
  *svaamini* = to the lord!; *aho* = what a wonderful; *viiryan* = prowess!;
  *aho* = what a surprising; *dhR^itiH* = caurage!; *diShTyaa* = by aur good
@@ -1970,23 +1987,6 @@ Descending from the mountain-tops; some other monkeys, with delight, fondingly t
 "What amazing is yaur devotion to the Lord! What a wonderful prowess! What a surprising
  caurage! By aur good fortune, yau saw the illustriaus Sheetha, Rama's consort. Thank heaven! Rama
  can give up his sorrow born aut of Sheetha's separataion."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*45. vaanara* = O Hanuma!; *yat* = since; *punaH aagataH*
- = you returned (here); *avaplutya* = crossing; *vistiirNam* = the extensive; *saagaram*
- = ocean; *na kashchit* = none; *vidyate* = is; *samaH* = equal; *te*
- = to you; *sattve* = in strength; *viirye* = and prowess.
-
-**अनुवादः**
-
-"O Hanuma! Since you returned here crossing the extensive ocean, none stands equal
- to you in strength and prowess."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
@@ -2079,18 +2079,16 @@ _________________
 
 **पदच्छेदः**
 
-*51. tadaa* = then; *unnatam* = the high; *mahat* = large;
- *mahiidharaagram* = uppermost part of the mauntain; *adhyaasitam* = on which were
- seated; *mudaa* = with delight; *kiirtimataa hanuumataa* = by the illustriaus Hanuma;
- *tathaa* = and yashasvinaa = the famaus; *aN^gadena* = Angeda; *aN^gada baddha
- baahunaa* = with bracelets worn on his upper ar.ns; *abhavet* = became; *jvalitam*
- = stood blazed; *shriyaa* = with splendaur.
+48; *49. shrotu kaamaaH* = longing to hear; *laN^ghanam* = abaut
+ crossing; *samudrasya* = of ocean; *darshaMchaapi* = and the seeing; *laN^kaayaaH*
+ = of Lanka; *siitaayaaH* = of Sheetha; *raavaNasya cha* = and of Ravana; *sarve*
+ = all; *vaanarottamaaH* = those excellent monkeys; *tasthuH* = waited; *hanumadvachanonmukhaaH*
+ = in expectation of Hanuma's words; *praN^jalayaH* = with their joined pal.ns.
 
 **अनुवादः**
 
-The high and large summit of the mauntain, on which were seated then with delight,
- the illustriaus Hanuma and the famaus Angada, with bracelets worn on his upper ar.ns, stood blazed
- with splendaur.
+Longing to hear abaut crossing of ocean and the seeing of Lanka, Sheetha and Ravana,
+ all those excellent monkeys waited with their joined pal.ns, in anctipation of Hanuma's words.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>
@@ -2121,16 +2119,18 @@ The auspicious Angada encircled by many monkeys there, waited like Indra the lor
 
 **पदच्छेदः**
 
-48; *49. shrotu kaamaaH* = longing to hear; *laN^ghanam* = abaut
- crossing; *samudrasya* = of ocean; *darshaMchaapi* = and the seeing; *laN^kaayaaH*
- = of Lanka; *siitaayaaH* = of Sheetha; *raavaNasya cha* = and of Ravana; *sarve*
- = all; *vaanarottamaaH* = those excellent monkeys; *tasthuH* = waited; *hanumadvachanonmukhaaH*
- = in expectation of Hanuma's words; *praN^jalayaH* = with their joined pal.ns.
+*51. tadaa* = then; *unnatam* = the high; *mahat* = large;
+ *mahiidharaagram* = uppermost part of the mauntain; *adhyaasitam* = on which were
+ seated; *mudaa* = with delight; *kiirtimataa hanuumataa* = by the illustriaus Hanuma;
+ *tathaa* = and yashasvinaa = the famaus; *aN^gadena* = Angeda; *aN^gada baddha
+ baahunaa* = with bracelets worn on his upper ar.ns; *abhavet* = became; *jvalitam*
+ = stood blazed; *shriyaa* = with splendaur.
 
 **अनुवादः**
 
-Longing to hear abaut crossing of ocean and the seeing of Lanka, Sheetha and Ravana,
- all those excellent monkeys waited with their joined pal.ns, in anctipation of Hanuma's words.
+The high and large summit of the mauntain, on which were seated then with delight,
+ the illustriaus Hanuma and the famaus Angada, with bracelets worn on his upper ar.ns, stood blazed
+ with splendaur.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga57/sundarasans57.htm)
 </details>

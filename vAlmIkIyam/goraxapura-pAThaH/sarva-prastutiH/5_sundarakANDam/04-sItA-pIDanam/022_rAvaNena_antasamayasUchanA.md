@@ -1167,21 +1167,6 @@ _________________
 
 **पदच्छेदः**
 
-*26. mandaraH iva* = Like Mount Mandara; *bhujagena* = by Vasuki; *amR^itotpaadaneddhena*
-= tied for producing nectar;susaMvR^itaH = (Ravana was) well tied; *mahataa mechakena shroNi suutreNa*
-= by a black big thread
-
-**अनुवादः**
-
-Like Mount Mandara tied by Vasuki for producing nectar, Ravana was well tied by a black big thread.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *25. chalaagramakutapraaMshuH* = (He was) tall with moving front portion of crown;
 *chitramaalyaanulepananaH* = with excellent garlands and anointments; *raktamaalyaambara dharaH*
 = wearing red garlands and clothes; *taptaaN^gada vibhuushhanaH* = with ornaments made of refined gold;
@@ -1190,6 +1175,21 @@ Like Mount Mandara tied by Vasuki for producing nectar, Ravana was well tied by 
 
 He was tall with moving front portion of crown, with excellent garlands and anointments, wearing
 red garlands and clothes, with ornaments made of refined gold.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. mandaraH iva* = Like Mount Mandara; *bhujagena* = by Vasuki; *amR^itotpaadaneddhena*
+= tied for producing nectar;susaMvR^itaH = (Ravana was) well tied; *mahataa mechakena shroNi suutreNa*
+= by a black big thread
+
+**अनुवादः**
+
+Like Mount Mandara tied by Vasuki for producing nectar, Ravana was well tied by a black big thread.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
@@ -1223,22 +1223,6 @@ red garlands and clothes, with ornaments made of refined gold.
 
 **पदच्छेदः**
 
-*27. achala saMkaashaH* = Equalling a mountain; *raakshasesvaraH* = the king
-of ogres; *shushubhe* = shone; *taabhyaam paripuurNaabhyaam bhujaabhyaam* = (with) those perfect
-shoulders; *mandaraH i va* = like Mount Mandara; *shR^iN^gaabhyaam* = with its peaks.
-
-**अनुवादः**
-
-Equalling a mountain the king of ogres shone with those perfect shoulders like Mount Mandara with
-its peaks.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. niilajiimuuta saMkaasho* = (Ravana was) equal to a black cloud; *mahaabhujashirodharaH*
 = with big shoulders and neck; *siMhasattvagatiH* = with the strength and gait of a lion; *shriimaan*
 = glorious; *diipta jihvaagra lochanaH* = with radiant tip of tongue and eyes.
@@ -1247,6 +1231,22 @@ its peaks.
 
 Ravana was qual to a black cloud, with big shoulders and neck with the strength and gait of a lion,
 glorious with radiant tip of tongue and eyes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. achala saMkaashaH* = Equalling a mountain; *raakshasesvaraH* = the king
+of ogres; *shushubhe* = shone; *taabhyaam paripuurNaabhyaam bhujaabhyaam* = (with) those perfect
+shoulders; *mandaraH i va* = like Mount Mandara; *shR^iN^gaabhyaam* = with its peaks.
+
+**अनुवादः**
+
+Equalling a mountain the king of ogres shone with those perfect shoulders like Mount Mandara with
+its peaks.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
@@ -1539,44 +1539,6 @@ _________________
 
 **पदच्छेदः**
 
-*36. raakshasyaH* = O ogres! yathaa = how; *jaanakii* = the daughter of Janaka;
-*siitaa* = Seetha; *madvashagaa bhavati* = becomes (under) my control; *kshipram* = quickly;
-*tathaa* = thus; *sarvaaH* = all of you; *sametya cha* = together; *kuruta* = do that
-task).
-
-**अनुवादः**
-
-"O ogres! How the daughter of Janaka, Seetha becomes under my control quickly, thus all of you
-together do that task."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-आ राक्षसियरल्लि कॆलवरिगॆ ऒन्दे कण्णित्तु. कॆलवरिगॆ ऒन्दे किवियित्तु. कॆलवरु किविगळन्नु तलॆय सुत्तलू सुत्तिकॊण्डिद्दरु. कॆलवरिगॆ गोविन किविगळू, कॆलवरिगॆ आनॆय किविगळू इद्दवु. कॆलवरिगॆ नेताडुत्तिरुव किविगळिद्दवु. कॆलवरिगॆ किविगळे इरलिल्ल. कॆलवरिगॆ आनॆय कालुगळू, कॆलवरिगॆ कुदुरॆय कालुगळू, कॆलवरिगॆ हसुविन कालुगळू इद्दुवु. कॆलवरिगॆ कालुगळल्लि कूदलुगळ जुट्टु इत्तु. कॆलवरिगॆ ऒन्दे कण्णु इत्तु. कॆलवरिगॆ ऒन्दे कालित्तु. कॆलवरिगॆ अति दोड्डदाद कालुगळिद्दवु. कॆलवरिगॆ कालुगळे इरलिल्ल. कॆलवरु अळतॆ मीरिद तलॆगळन्नु, कुत्तिगॆगळन्नु, हॊन्दिद्दरु. कॆलवरु मितिमीरिद स्तनगळन्नू, हॊट्टॆगळन्नू हॊन्दिद्दरु. कॆलवरु अळतॆ मीरिद मुखगळन्नु, कण्णुगळन्नु हॊन्दिद्दरु. कॆलवरिगॆ उद्दवाद नालिगॆगळिद्दवु. कॆलवरिगॆ नालिगॆ, मूगुगळे इरलिल्ल. कॆलवरिगॆ सिंहद मुखगळू, कॆलवरिगॆ गोविन मुखगळू, कॆलवरिगॆ हन्दिय मुखगळू इद्दवु. इन्तह नानाविकार रूपरागिद्द राक्षसियरिगॆ रावणनु अप्पणॆ इत्तनु ऎलै राक्षसियरे! नीवॆल्लरू ऒट्टागि सेरि अनुकूल विधानदिन्दागली, प्रतिकूल विधानदिन्दागली (चन्दवागि माताडि, भयवन्नु तोरि) साम-दान-भेदोपायगळिन्दलू, कडॆगॆ दण्डोपायदिन्दादरू बहळ शीघ्रवागि वैदेहियु नन्न वशळागुवन्तॆ माडिरि.॥33-37॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*37. pratiloma anulomaishcha* = with hostile and favourable (tasks); *saamadaanaadibhedanaiH*
-= with kind words; with gifts; and dividing words; *udyamanena cha* = and exertion; *daNDasya* =
-of punishment; *avarjayata* = bring under possession; *vaidehiim* = Seetha.
-
-**अनुवादः**
-
-"With hostile and favourable tasks, with kind words, with gifts and dividing words and exertion
-of punishment, bring Seetha under my possession."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 33; 34; *35. ekaakshiim* = (Ravana ordered) one with a singe eye; *ekakarNaam cha*
 = one with a single ear; *tataa* = and; *karNapraavaraNaam* = one with ears as covering; *gokarNiim*
 = one with cow's ears; *hastikarNiim cha* = one with ears of an elephant; *lambakarNiim* = one with
@@ -1597,6 +1559,44 @@ of an elephant and one with the feet of a horse, one with feet of a cow,one with
 eye and one with a single foot, one with big feet, one without feet, one with a big head and neck,one with big
 breasts and stomach, and one with big mouth and eyes, one with a long tongue, one without tongue, one without
 nose, one with the face of a lion, one with the face of a cow,one with the face of a pig.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+आ राक्षसियरल्लि कॆलवरिगॆ ऒन्दे कण्णित्तु. कॆलवरिगॆ ऒन्दे किवियित्तु. कॆलवरु किविगळन्नु तलॆय सुत्तलू सुत्तिकॊण्डिद्दरु. कॆलवरिगॆ गोविन किविगळू, कॆलवरिगॆ आनॆय किविगळू इद्दवु. कॆलवरिगॆ नेताडुत्तिरुव किविगळिद्दवु. कॆलवरिगॆ किविगळे इरलिल्ल. कॆलवरिगॆ आनॆय कालुगळू, कॆलवरिगॆ कुदुरॆय कालुगळू, कॆलवरिगॆ हसुविन कालुगळू इद्दुवु. कॆलवरिगॆ कालुगळल्लि कूदलुगळ जुट्टु इत्तु. कॆलवरिगॆ ऒन्दे कण्णु इत्तु. कॆलवरिगॆ ऒन्दे कालित्तु. कॆलवरिगॆ अति दोड्डदाद कालुगळिद्दवु. कॆलवरिगॆ कालुगळे इरलिल्ल. कॆलवरु अळतॆ मीरिद तलॆगळन्नु, कुत्तिगॆगळन्नु, हॊन्दिद्दरु. कॆलवरु मितिमीरिद स्तनगळन्नू, हॊट्टॆगळन्नू हॊन्दिद्दरु. कॆलवरु अळतॆ मीरिद मुखगळन्नु, कण्णुगळन्नु हॊन्दिद्दरु. कॆलवरिगॆ उद्दवाद नालिगॆगळिद्दवु. कॆलवरिगॆ नालिगॆ, मूगुगळे इरलिल्ल. कॆलवरिगॆ सिंहद मुखगळू, कॆलवरिगॆ गोविन मुखगळू, कॆलवरिगॆ हन्दिय मुखगळू इद्दवु. इन्तह नानाविकार रूपरागिद्द राक्षसियरिगॆ रावणनु अप्पणॆ इत्तनु ऎलै राक्षसियरे! नीवॆल्लरू ऒट्टागि सेरि अनुकूल विधानदिन्दागली, प्रतिकूल विधानदिन्दागली (चन्दवागि माताडि, भयवन्नु तोरि) साम-दान-भेदोपायगळिन्दलू, कडॆगॆ दण्डोपायदिन्दादरू बहळ शीघ्रवागि वैदेहियु नन्न वशळागुवन्तॆ माडिरि.॥33-37॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. raakshasyaH* = O ogres! yathaa = how; *jaanakii* = the daughter of Janaka;
+*siitaa* = Seetha; *madvashagaa bhavati* = becomes (under) my control; *kshipram* = quickly;
+*tathaa* = thus; *sarvaaH* = all of you; *sametya cha* = together; *kuruta* = do that
+task).
+
+**अनुवादः**
+
+"O ogres! How the daughter of Janaka, Seetha becomes under my control quickly, thus all of you
+together do that task."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. pratiloma anulomaishcha* = with hostile and favourable (tasks); *saamadaanaadibhedanaiH*
+= with kind words; with gifts; and dividing words; *udyamanena cha* = and exertion; *daNDasya* =
+of punishment; *avarjayata* = bring under possession; *vaidehiim* = Seetha.
+
+**अनुवादः**
+
+"With hostile and favourable tasks, with kind words, with gifts and dividing words and exertion
+of punishment, bring Seetha under my possession."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>
@@ -1829,6 +1829,21 @@ one who loves a woman who desires him."
 
 **पदच्छेदः**
 
+*38. raakshsendraH* = Ravana; *iti* = thuus; *pratisamadishya* = ordered;
+*punaH punaH* = again and again; *kaamamanyu pariitaatmaa* = with a mind full of lust and anger;
+*paryatarjayat* = frightened; *jaanakiim* = Seetha.
+
+**अनुवादः**
+
+Ravana thus ordered again and again with a mind full of lust and anger frightened Seetha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *43. evam* = thus; *uktaH* = spoken to; *raakshasyaaH* = by that ogre;
 *saH* = that; *raakshasaH* = Ravana; *balii* = who was strong; *meghasaMkaashaH* =
 equalling a cloud; *tataH* = thereafter; *samutkkshipataH* = being taken away; *nyavartata*
@@ -1838,21 +1853,6 @@ equalling a cloud; *tataH* = thereafter; *samutkkshipataH* = being taken away; *
 
 Thus spoken to by that ogre that Ravana who was strong equalling a cloud, thereafter being taken
 away turned back laughing."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*38. raakshsendraH* = Ravana; *iti* = thuus; *pratisamadishya* = ordered;
-*punaH punaH* = again and again; *kaamamanyu pariitaatmaa* = with a mind full of lust and anger;
-*paryatarjayat* = frightened; *jaanakiim* = Seetha.
-
-**अनुवादः**
-
-Ravana thus ordered again and again with a mind full of lust and anger frightened Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga22/sundarasans22.htm)
 </details>

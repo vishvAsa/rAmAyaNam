@@ -544,6 +544,33 @@ _________________
 
 **पदच्छेदः**
 
+*11. asmaakam iha aashrama pade* = of ours, here, in hermitage's, threshold; *puNya darshanaaH*
+= adorable [deer,] in manifestation; *bahavaH* = many; *mR^igaaH* = animals; *sR^imaraaH
+tathaa camaraaH* = Srimara deer, like that, Caamara-s; *sahitaaH caranti* = collectively
+- in flocks and herds, move about.
+
+**अनुवादः**
+
+"Here in the threshold of our hermitage many animals with adorable manifestation are moving about in
+flocks and herds, say Caamara deer, like that Srimara deer. [3-43-11]
+
+**टिप्पनी**
+
+The *chaamara* is the kind of deer of species Bos grunniens and *shrimara* is a larger
+variety than chaamara.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+महाबाहु! राजा! नम्म ई आश्रयदल्लि अनेक पवित्र हागू सुन्दर मृगगळु ऒट्टिगॆ बन्दु मेयुत्तिवॆ मत्तु समर (कप्पु बालवुळ्ळ चमरी हसु) चमर (बिळिय बालवुळ्ळ चमरी हसु) करडिगळु, चुक्कॆगळुळ्ळ जिङ्कॆगळ गुम्पु, वानररु, सुन्दर रूपवुळ्ळ किन्नररू सञ्चरिसुत्तिवॆ. हीगिद्दरू इन्दिनिन्द मॊदलु नानु बेरॆ यावुदे ई श्रेष्ठमृगवु काणुवन्तॆ तेजस्वी, सौम्य, प्रकाशमान मृगवन्नु नोडिरलिल्ल.॥11-13॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12. mahaabaahuH* = oh, dextrous one; *ruupa shreSThaa* = in form, excellent ones; *
 vaanaraaH* = monkeys; *tathaa kinaraaH* = likewise, Kinnara deer; *pR^iSata sanghaaH ca*
 = spotted-deer, herds of, also; *mahaabalaaH R^ikSaaH* = great-mighty, bears; *vi caranti*
@@ -562,11 +589,6 @@ celestials.
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-महाबाहु! राजा! नम्म ई आश्रयदल्लि अनेक पवित्र हागू सुन्दर मृगगळु ऒट्टिगॆ बन्दु मेयुत्तिवॆ मत्तु समर (कप्पु बालवुळ्ळ चमरी हसु) चमर (बिळिय बालवुळ्ळ चमरी हसु) करडिगळु, चुक्कॆगळुळ्ळ जिङ्कॆगळ गुम्पु, वानररु, सुन्दर रूपवुळ्ळ किन्नररू सञ्चरिसुत्तिवॆ. हीगिद्दरू इन्दिनिन्द मॊदलु नानु बेरॆ यावुदे ई श्रेष्ठमृगवु काणुवन्तॆ तेजस्वी, सौम्य, प्रकाशमान मृगवन्नु नोडिरलिल्ल.॥11-13॥
-</details>
-
 <details><summary>Desiraju Hanumanta Rao</summary>
 
 **पदच्छेदः**
@@ -580,28 +602,6 @@ mayaa na dR^iSTa puurvaH* = by me, not seen, earlier - so far.
 
 "As to how this extraordinary deer is appearing, oh, king, by way of its brilliance, tameness, or by
 the lustre of its skin, I have not so far seen any coequal to this. [3-43-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11. asmaakam iha aashrama pade* = of ours, here, in hermitage's, threshold; *puNya darshanaaH*
-= adorable [deer,] in manifestation; *bahavaH* = many; *mR^igaaH* = animals; *sR^imaraaH
-tathaa camaraaH* = Srimara deer, like that, Caamara-s; *sahitaaH caranti* = collectively
-- in flocks and herds, move about.
-
-**अनुवादः**
-
-"Here in the threshold of our hermitage many animals with adorable manifestation are moving about in
-flocks and herds, say Caamara deer, like that Srimara deer. [3-43-11]
-
-**टिप्पनी**
-
-The *chaamara* is the kind of deer of species Bos grunniens and *shrimara* is a larger
-variety than chaamara.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>
@@ -1059,6 +1059,34 @@ Whether Seetha is with kopa 'anger' or not, it is unsaid in the text.
 
 **पदच्छेदः**
 
+*22, 23a. kaancana romNaa [ruupeNa]* = by its, golden, hair [golden coat]; *maNi pravara shR^ingiNaa*
+= which has - sapphirine, excellent, horns; *taruNa aaditya varNena* = tender, sun, in hue -
+complexion; *nakSatra patha varcasaa* = stars, pathway [milky way,] having resplendence - ambience;
+*tena tu* = by that reason, on its part; *raaghavasya manaH api* = Raghava's, heart, even;
+*vismayam aagatam babhuuva* = awe, came over [struck,] it became.
+
+**अनुवादः**
+
+As for that deer's horns they vie with excellent sapphires, its golden coat with the glitter of tender
+sun, and its ambience with silver spots on coat with a milk way containing twinkling stars, and by that
+reason even Raghava's heart is awestruck when he saw it. [3-43-22, 23a]
+
+**टिप्पनी**
+
+According to this original text, Rama is more lured by the Golden Deer than Seetha, whereas later legends
+made Seetha a scapegoat. Rama too did not fancifully come under the lure but he got his own logistics
+to fall after the deer, which we come across in the following speeches of Rama. The word api 'even,'
+is a normal metrical filler at most times, but assumes importance at times. Here Rama is the all knowing
+and all deciding personality as depicted until now, and 'even' he is lured by the deer, say Maareecha's
+supernal trickery.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *23b, 24. raaghavaH* = Raghava; *evam siitaa vacaH shrutvaa* = in this way, Seetha's,
 words, on hearing; *adbhutam [tam] mR^igam dR^iSTvaa ca* = wondrous one, [that] deer, having
 observed, also; *tena ruupeNa lobitaH* = by its, form, lured - amused; *siitaayaaH ca pracoditaH*
@@ -1097,34 +1125,6 @@ sat puruSo hi anartha samaye buddhyaa parityajyate - - praaciinaa*
 Bharata, sabhaa parva ; 'Rama, unable to distinguish illusory deer [went after it...] Yudhistar staked
 all his four brothers and his queen [in dice game...] thus even great people at inopportune times loose
 their brains,' an ancient saying.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*22, 23a. kaancana romNaa [ruupeNa]* = by its, golden, hair [golden coat]; *maNi pravara shR^ingiNaa*
-= which has - sapphirine, excellent, horns; *taruNa aaditya varNena* = tender, sun, in hue -
-complexion; *nakSatra patha varcasaa* = stars, pathway [milky way,] having resplendence - ambience;
-*tena tu* = by that reason, on its part; *raaghavasya manaH api* = Raghava's, heart, even;
-*vismayam aagatam babhuuva* = awe, came over [struck,] it became.
-
-**अनुवादः**
-
-As for that deer's horns they vie with excellent sapphires, its golden coat with the glitter of tender
-sun, and its ambience with silver spots on coat with a milk way containing twinkling stars, and by that
-reason even Raghava's heart is awestruck when he saw it. [3-43-22, 23a]
-
-**टिप्पनी**
-
-According to this original text, Rama is more lured by the Golden Deer than Seetha, whereas later legends
-made Seetha a scapegoat. Rama too did not fancifully come under the lure but he got his own logistics
-to fall after the deer, which we come across in the following speeches of Rama. The word api 'even,'
-is a normal metrical filler at most times, but assumes importance at times. Here Rama is the all knowing
-and all deciding personality as depicted until now, and 'even' he is lured by the deer, say Maareecha's
-supernal trickery.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga43/aranyasans43.htm)
 </details>

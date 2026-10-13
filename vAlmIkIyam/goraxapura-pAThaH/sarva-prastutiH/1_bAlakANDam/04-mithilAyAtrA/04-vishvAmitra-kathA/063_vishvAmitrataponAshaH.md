@@ -757,6 +757,23 @@ Exalted Sage.' [1-63-16b, 17a]
 
 **पदच्छेदः**
 
+*17b, 18a. sarvalokapitaamahaH* = all worlds' grandparent [Brahma];
+*devataanaam vacaH shrutvaa* = on listening gods' words [advice]; *
+tapodhanam vishvaamitram* = to ascetically wealthy Vishvamitra; *madhuram
+vaakyam abraviit* = spoke pleasant words.
+
+**अनुवादः**
+
+On listening the advice of gods, Brahma, the Grandparent of all the worlds, spoke
+these pleasant words to the ascetically wealthy Vishvamitra. [1-63-17b, 18a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *18b, 19a. maharSe* = oh Exalted Sage; *vatsa* = my dear; *svaagatam*
 = welcome; *ugreNa tapasaa toSitaH* = [I am] gladdened by stern ascesis [of yours]
 ; *kaushika* = oh Kaushika; *tava* = to you; *mahattvam*
@@ -767,23 +784,6 @@ Exalted Sage.' [1-63-16b, 17a]
 'Oh, exalted sage, I welcome you my dear, as I am gladdened by your stern ascesis,
 oh, Kaushika, I bestow upon you the sublimity and supremacy among sages.' [1-63-18b,
 19a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*17b, 18a. sarvalokapitaamahaH* = all worlds' grandparent [Brahma];
-*devataanaam vacaH shrutvaa* = on listening gods' words [advice]; *
-tapodhanam vishvaamitram* = to ascetically wealthy Vishvamitra; *madhuram
-vaakyam abraviit* = spoke pleasant words.
-
-**अनुवादः**
-
-On listening the advice of gods, Brahma, the Grandparent of all the worlds, spoke
-these pleasant words to the ascetically wealthy Vishvamitra. [1-63-17b, 18a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga63/balasans63.htm)
 </details>

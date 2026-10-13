@@ -1193,23 +1193,6 @@ Hanuma, the foremost of mokeys as follows:
 
 **पदच्छेदः**
 
-*27. vaanara* = O monkey!; *hatvaa imaam* = after killing her;
-*vadhiShyaami* = I will make a short work of; *raamam* = Rama; *lakShmaNamcha*
-= Lakshmana; *tvaam cha* = yourself too; *sugriivamcha* = Sugreeva; *anaaryam tam
-vibhiiShaNam cha* = and that vulgar Vibhishana; *tataH* = thereafter.
-
-**अनुवादः**
-
-"O monkey! After killing her, I will make a short work of Rama, Lakshmana, yourself
-too, Sugreeva and that vulgar Vibhishana thereafter."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *26. yannimittam* = for whose sake; *sugriivaH* = Sugreeva;
 *tvam cha* = yourself; *raamashcha* = and Rama; *aagataaH* = came;
 *iha* = here; *vadhiShyaami* = I am going to kill; *vaidehiim* = Seetha;
@@ -1219,6 +1202,23 @@ too, Sugreeva and that vulgar Vibhishana thereafter."
 
 "For whose sake, Sugreeva, yourself and Rama came here, I am going to kill Seetha
 now itself, while you stand looking on."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. vaanara* = O monkey!; *hatvaa imaam* = after killing her;
+*vadhiShyaami* = I will make a short work of; *raamam* = Rama; *lakShmaNamcha*
+= Lakshmana; *tvaam cha* = yourself too; *sugriivamcha* = Sugreeva; *anaaryam tam
+vibhiiShaNam cha* = and that vulgar Vibhishana; *tataH* = thereafter.
+
+**अनुवादः**
+
+"O monkey! After killing her, I will make a short work of Rama, Lakshmana, yourself
+too, Sugreeva and that vulgar Vibhishana thereafter."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhasans81.htm)
 </details>

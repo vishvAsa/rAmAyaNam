@@ -1427,17 +1427,18 @@ _________________
 
 **पदच्छेदः**
 
-*27. plavaN^gamo* = Hanuma; *babhuva* = became; *mandaH
-iva* = like a numb minded one; *achirasya* = for sometime; *dukhaabhi hataH* =
-stricken with grief; *apashyan* = not seeing; *chirasya* = for a moment;
-*siitaam* = Seetha; *patniim* = wife; *raamasya* = of Sri Rama;
-*varasya* = the best; *vadataam* = among those who talk; *manujeshvarasya* =
-the lord of all humans.
+*24. (Hanuma did not see) taam* = that Seetha; *saMnivishhTaam*
+= who stood; *sanaatane vartmaani* = in the path of ancient righteousness;
+*raamekshaNaam* = with Her sight on Sri Rama; *madanaabhivishhTaam* = who was
+possessed by the love for Sri Rama; *anupravishhTaam* = who entered; *shrrimatmanaH*
+= the glorious mind; *bhartuH* = of husband; *sadaa* = always; *vishishhtaam*
+= the best; *striibhyashcha* = among women; *varaabhyaH* = who were the best.
 
 **अनुवादः**
 
-Hanuma became a numb minded one for sometime, stricken with grief not seeing for a
-moment Seetha, wife of Sri Rama the best among those who talk, and the lord of all humans.
+Hanuma did not see that Seetha who stood in the path of ancient righteousness with
+Her sight on Sri Rama, who was possessed by the love for Sri Rama, who entered the glorious mind of
+husband and always the best among women who were the best.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>
@@ -1445,30 +1446,6 @@ moment Seetha, wife of Sri Rama the best among those who talk, and the lord of a
 <details><summary>अनुवाद (कन्नड)</summary>
 
 कण्डू-काणदन्तिरुव चन्द्ररेखॆयन्तॆ अत्यन्त कृशळागिद्द, धूळि धूसरित बङ्गारद सलाकॆयन्तिद्द, बाणद गायदन्तॆ रूढमूलवागिद्द मानसिक गायदिन्द परितपिसुत्तिद्द, वायुविनिन्द छिद्र-छिद्रवागि चदुरिहोद मेघगळन्तॆ भग्नमनोरथवुळ्ळ जानकीदेवियु हनुमन्तनिगॆ ऎल्लॆल्लू काणलिल्ल.* ॥26 ॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*26. (Hanuma did not see Seetha)chandrarekhaamiva* = like a crescent;
-*avyaktarekhaam* = with a blurred outline; *hemarekhaamiva* = like a streek of gold;
-*paamsupradhigdhaam* = coated by dust; *baaNarekhaamiva* = like an arrow;
-*kshatapraruuDhaamiva* = in an injury; *megharekhaamiva* = like a series of clouds;
-*vaayuprabhinnaan* = scattered by wind.
-
-**अनुवादः**
-
-Hanuma did not see Seetha who was like a crescent with a blurred outline, like a
-streek of gold coated by dust, like an arrow in an injury, like a series of clouds scattered by
-wind.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-श्रीरामन विरहदिन्द परितपिसुत्तिरुव, कण्णीरकोडि हरियुत्तिद्दु, गद्गद कण्ठदिन्द विलापिसुत्तिद्द, श्रेष्ठवाद भङ्गारद कण्ठाभरणगळन्नु धरिसिद्द, अन्दवाद हुब्बुगळुळ्ळवळू, मधुरवाद कण्ठस्परवुळ्ळवळू, अरण्यदल्लि चॆन्नागि नर्तिसुव हॆण्णुनविलिनन्तिरुव सीतादेवियु मात्र कण्डुबरलिल्ल. ॥25 ॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1494,6 +1471,30 @@ Her current sorrow.
 
 <details><summary>अनुवाद (कन्नड)</summary>
 
+श्रीरामन विरहदिन्द परितपिसुत्तिरुव, कण्णीरकोडि हरियुत्तिद्दु, गद्गद कण्ठदिन्द विलापिसुत्तिद्द, श्रेष्ठवाद भङ्गारद कण्ठाभरणगळन्नु धरिसिद्द, अन्दवाद हुब्बुगळुळ्ळवळू, मधुरवाद कण्ठस्परवुळ्ळवळू, अरण्यदल्लि चॆन्नागि नर्तिसुव हॆण्णुनविलिनन्तिरुव सीतादेवियु मात्र कण्डुबरलिल्ल. ॥25 ॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. (Hanuma did not see Seetha)chandrarekhaamiva* = like a crescent;
+*avyaktarekhaam* = with a blurred outline; *hemarekhaamiva* = like a streek of gold;
+*paamsupradhigdhaam* = coated by dust; *baaNarekhaamiva* = like an arrow;
+*kshatapraruuDhaamiva* = in an injury; *megharekhaamiva* = like a series of clouds;
+*vaayuprabhinnaan* = scattered by wind.
+
+**अनुवादः**
+
+Hanuma did not see Seetha who was like a crescent with a blurred outline, like a
+streek of gold coated by dust, like an arrow in an injury, like a series of clouds scattered by
+wind.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
 अविच्छिन्नवाद पातिव्रत्य मार्गदल्लि सुस्थिरळागिद्द, श्रीरामचन्द्रन अगलुविकॆयिन्द दुःखितळागिद्दु, अवनन्नु नोडबेकॆम्ब कातरतॆयिन्दिद्द, तन्न पवित्रवाद मनस्सिनल्लि श्रीरामनन्नु सदाकाल निल्लिसिकॊण्डिद्द, नारीरत्नगळल्लि अत्युत्तमवाद सीतादेवियन्नु मात्र अवनु नोडलिल्ल. ॥24 ॥
 </details>
 
@@ -1501,18 +1502,17 @@ Her current sorrow.
 
 **पदच्छेदः**
 
-*24. (Hanuma did not see) taam* = that Seetha; *saMnivishhTaam*
-= who stood; *sanaatane vartmaani* = in the path of ancient righteousness;
-*raamekshaNaam* = with Her sight on Sri Rama; *madanaabhivishhTaam* = who was
-possessed by the love for Sri Rama; *anupravishhTaam* = who entered; *shrrimatmanaH*
-= the glorious mind; *bhartuH* = of husband; *sadaa* = always; *vishishhtaam*
-= the best; *striibhyashcha* = among women; *varaabhyaH* = who were the best.
+*27. plavaN^gamo* = Hanuma; *babhuva* = became; *mandaH
+iva* = like a numb minded one; *achirasya* = for sometime; *dukhaabhi hataH* =
+stricken with grief; *apashyan* = not seeing; *chirasya* = for a moment;
+*siitaam* = Seetha; *patniim* = wife; *raamasya* = of Sri Rama;
+*varasya* = the best; *vadataam* = among those who talk; *manujeshvarasya* =
+the lord of all humans.
 
 **अनुवादः**
 
-Hanuma did not see that Seetha who stood in the path of ancient righteousness with
-Her sight on Sri Rama, who was possessed by the love for Sri Rama, who entered the glorious mind of
-husband and always the best among women who were the best.
+Hanuma became a numb minded one for sometime, stricken with grief not seeing for a
+moment Seetha, wife of Sri Rama the best among those who talk, and the lord of all humans.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga5/sundarasans5.htm)
 </details>

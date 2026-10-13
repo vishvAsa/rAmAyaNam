@@ -872,23 +872,6 @@ thousands, in crores and even hundreds of crores.
 
 **पदच्छेदः**
 
-*19. plavaNgamaaH* = the monkeys; *mahaa vaaraNa samnibhaaH* =
-who resembled great elephants; *abhidhaavanti* = rushed; *taam laN^kaam* = towards
-that Lanka; *aaplavanta* = sprining; *plavantashcha* = leaping;
-*garjantashcha* = and roaring.
-
-**अनुवादः**
-
-The monkeys who resembled great elephants hurled themselves towards that Lanka,
-springing, leaping and roaring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *18. pramardantaH* = tearing up; *kaaNchanaani* = the golden;
 *toraNaani* = arches; *pramathyacha* = and breaking down; *gopuraaNi* = the
 gates; *kailaasa shikharaabhaaNi* = that equaled the peak of Kailasa the mountainous abode
@@ -898,6 +881,23 @@ of Shiva the god of destruction; *plavaNgamaaH* = the monkeys (attacked Lanka).
 
 The monkeys stood tearing up the golden arches and breaking down the gates that
 equaled the peak of Kailasa the mountainous abode of Shiva the Lord of Destruction.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. plavaNgamaaH* = the monkeys; *mahaa vaaraNa samnibhaaH* =
+who resembled great elephants; *abhidhaavanti* = rushed; *taam laN^kaam* = towards
+that Lanka; *aaplavanta* = sprining; *plavantashcha* = leaping;
+*garjantashcha* = and roaring.
+
+**अनुवादः**
+
+The monkeys who resembled great elephants hurled themselves towards that Lanka,
+springing, leaping and roaring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>
@@ -1829,23 +1829,6 @@ monkey- warriors re-echoed over the earth, sky and sea.
 
 **पदच्छेदः**
 
-*40. etasmin antare* = in the meantime; *ghoraH* = a terrible;
-*samgraamaH* = struggle; *samapadyata* = ensued; *rakSasaam* = between the
-demons; *vaanaraaNaam* = and the monkeys; *puraa yathaa* = as; in former times;
-*devaasure* = between celestials and demons.
-
-**अनुवादः**
-
-In the meantime, a terrible struggle ensued between the demons and the monkeys, as
-in the former times between celestials and demons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *39. bR^ihitaiH saartham* = with the trumpeting; *gajaanaam* =
 of elephants; *heSitairapi* = the neighing; *hayaanaam* = of the horses; *nemi
 nirghoSaiH* = the clatters of wheels; *rathaanaam* = of the chariots; *pada
@@ -1856,6 +1839,23 @@ niHsvanaiH* = and the sounds of the couches re-echoed over the earth; sky and se
 With the trumpeting of elephants, the neighing of the horses, the clattering of the
 chariot-wheels and the sounds of the foot-steps, the sound of the couches reechoed over the earth,
 sky and sea.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*40. etasmin antare* = in the meantime; *ghoraH* = a terrible;
+*samgraamaH* = struggle; *samapadyata* = ensued; *rakSasaam* = between the
+demons; *vaanaraaNaam* = and the monkeys; *puraa yathaa* = as; in former times;
+*devaasure* = between celestials and demons.
+
+**अनुवादः**
+
+In the meantime, a terrible struggle ensued between the demons and the monkeys, as
+in the former times between celestials and demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga42/yuddhasans42.htm)
 </details>

@@ -184,6 +184,23 @@ _________________
 
 **पदच्छेदः**
 
+*5. tadaa* = that day; *mama patreNa indrajitaa* = by Indrajit;
+my son; *prakhyaata bala viiryeNa* = having renowned strength and prowess; *tau* =
+those two; *bhraatrau* = brothers; *baddhau* = were bound; *ghoraiH sharaiH* =
+by terrific arrows; *dattavaraiH* = on which boons had been conferred.
+
+**अनुवादः**
+
+"That day, Indrajit, my son, whose strength and prowess are renowned, bound both
+Rama and Lakshmana, the brothers with terrific arrows, on which boons had been conferred."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 6; *7. tat* = that; *bandhanam* = bondage; *yat* = which;
 *na shakyam* = is not possible; *moktum* = to be released; *sarvaiH suraiH* =
 by all the celestials; *mahaabalaiH asurairvaa* = or by the mighty demons; *yakSha
@@ -200,23 +217,6 @@ not know; *tat* = that.
 or by Yakshas the supernatural beings or Gandharvas the celestial musicians or Pannagas the
 serpent-demons. Rama and Lakshmana, the two brothers were released from that tie of arrows either
 by their power or by their sorcery or by their marvel I do not know that."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*5. tadaa* = that day; *mama patreNa indrajitaa* = by Indrajit;
-my son; *prakhyaata bala viiryeNa* = having renowned strength and prowess; *tau* =
-those two; *bhraatrau* = brothers; *baddhau* = were bound; *ghoraiH sharaiH* =
-by terrific arrows; *dattavaraiH* = on which boons had been conferred.
-
-**अनुवादः**
-
-"That day, Indrajit, my son, whose strength and prowess are renowned, bound both
-Rama and Lakshmana, the brothers with terrific arrows, on which boons had been conferred."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga72/yuddhasans72.htm)
 </details>

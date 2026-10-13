@@ -966,23 +966,6 @@ years for me, since grief has ruined my happiness."
 
 **पदच्छेदः**
 
-*20. kausalyaaH* = Kausalya; *kathayantyaaH* = while telling;
-*shubhamhi* = indeed auspicious; *vacaH* = words; *evam* = in this way;
-*suuryaH* = the sun; *abhuut* = became; *manda rashmiH* = feeble = rayed;
-*abhyavartata* = turned towards; *rajaniica* = night too.
-
-**अनुवादः**
-
-While Kausalya was telling auspicious words indeed as aforesaid the sun became
-feeble and turned towards night too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19. cintayamaanaayaaH* = while I think; *tam* = of Rama;
 *ayam* = this; *shokaH* = grief; *hR^idi* = in my heart; *vardhate* =
 is growing; *mahat samudra salilamiva* = like water in the great ocean; (increasing);
@@ -992,6 +975,23 @@ is growing; *mahat samudra salilamiva* = like water in the great ocean; (increas
 
 "While I think of Rama, this grief in my heart is increasing, like water in a great
 ocean increases with the fast streaming of rivers.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. kausalyaaH* = Kausalya; *kathayantyaaH* = while telling;
+*shubhamhi* = indeed auspicious; *vacaH* = words; *evam* = in this way;
+*suuryaH* = the sun; *abhuut* = became; *manda rashmiH* = feeble = rayed;
+*abhyavartata* = turned towards; *rajaniica* = night too.
+
+**अनुवादः**
+
+While Kausalya was telling auspicious words indeed as aforesaid the sun became
+feeble and turned towards night too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga62/ayodhyasans62.htm)
 </details>

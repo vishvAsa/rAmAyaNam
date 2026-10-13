@@ -959,6 +959,22 @@ to that great soul Rama, and then with their palms adjoined. [3-1-17-18a]
 
 **पदच्छेदः**
 
+*18b-19a. raajaa mahaa yashaaH* = king is, with great renown; *asya janasya dharma paalaH* = this, people's,
+righteousness, ruler of; *sharaNyaH ca* = protector, also; *maanyaH cha* = respectable one, also; *pujaniiyaH
+cha* = adorable one, also; *danDa dharaH* = stick [sceptre,] wielding one; *guruH* = revered one.
+
+**अनुवादः**
+
+"The king will have great renown for he is the ruler of the righteousness of these people, a protector, a respectable and
+adorable one, and as he wields the sceptre of justice, he is a revered one too... [3-1-18-19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *19b-20a. raaghava* = oh, Raghava; *indrasya eva chatur bhaaga* = Indra's, thus, fourth, part; *prajaa
 rakshati* = people, protecting; *raajaa tasmaat namaskR^itaH* = king, thereby, hailed; *varaan ramyaan bhogaan
 bhunkte* = best, delightful, fortune, he enjoys.
@@ -995,22 +1011,6 @@ a pleasant one and presiding deity for medicinal herbs, so shall the king be ple
 *chandra vrata* . Fire is fiery and burns down evil and the king shall be fiery to his enemies, either internal or
 external *aagneya vrata* . The earthly earth sustains scholars and stupid, wealthy and poor, prosperous and pathetic
 alike, so shall the king bear with all of his subjects *pR^ithvii vrata*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*18b-19a. raajaa mahaa yashaaH* = king is, with great renown; *asya janasya dharma paalaH* = this, people's,
-righteousness, ruler of; *sharaNyaH ca* = protector, also; *maanyaH cha* = respectable one, also; *pujaniiyaH
-cha* = adorable one, also; *danDa dharaH* = stick [sceptre,] wielding one; *guruH* = revered one.
-
-**अनुवादः**
-
-"The king will have great renown for he is the ruler of the righteousness of these people, a protector, a respectable and
-adorable one, and as he wields the sceptre of justice, he is a revered one too... [3-1-18-19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga1/aranyasans1.htm)
 </details>

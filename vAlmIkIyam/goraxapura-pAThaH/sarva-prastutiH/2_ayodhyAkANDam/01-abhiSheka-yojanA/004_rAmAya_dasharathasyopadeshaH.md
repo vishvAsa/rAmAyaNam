@@ -1227,23 +1227,6 @@ from the city."
 
 **पदच्छेदः**
 
-*27. raaghava* = Oh! Rama; *me* = my; *matiH* = opinion
-(is that); *chittam* = mind; *manushhyaaNaam* = of men; *anityam iti* = is
-inconstant; *kintu* = but; *dharmanityaanaam* = the ever righteous; *sataam
-cha* = endowed with goodness; *kR^ita shobhi* = may act unexpectedly on impulse.
-
-**अनुवादः**
-
-"Oh, Rama! It is my opinion that minds of men are inconstant. But the ever
-righteous, endowed with goodness, sometimes may act unexpectedly on impulse."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *26. te* = your; *bhraataa* = brother; *bharataH* =
 Bharata; *jyeshhThaanuvartii* = goes according to the eldest; *dharmaatmaa* = (being
 a ) righteous man; *saanukroshaH* = compassionate person; *jitendriyaH* = one who
@@ -1254,6 +1237,23 @@ the path of good people.
 
 " Bharata, your brother, goes according to his eldest brother. He is righteous,
 compassionate and has the senses under control. He verily follows the path of good people."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. raaghava* = Oh! Rama; *me* = my; *matiH* = opinion
+(is that); *chittam* = mind; *manushhyaaNaam* = of men; *anityam iti* = is
+inconstant; *kintu* = but; *dharmanityaanaam* = the ever righteous; *sataam
+cha* = endowed with goodness; *kR^ita shobhi* = may act unexpectedly on impulse.
+
+**अनुवादः**
+
+"Oh, Rama! It is my opinion that minds of men are inconstant. But the ever
+righteous, endowed with goodness, sometimes may act unexpectedly on impulse."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>
@@ -1642,23 +1642,6 @@ _________________
 
 **पदच्छेदः**
 
-*36. siitayaapi* = by Seetha too; *mayaa saha* = along with me;
-*iyam* = this; *rajanii* = night; *upavastavyaa* = can be observed fast;
-*pitaa* = father; *R^itvigupaadhyaayaiH saha* = together with preceptors and
-teachers; *uktavaan* = spoke; *evam* = this; *maam* = to me.
-
-**अनुवादः**
-
-"Seetha too, along with me should observe fast this whole night. The father together
-with preceptors and teachers said this to me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *35. amba* = oh! Mother!; *niyuktaH asmi* = I am appointed;
 *pitra* = by father; *prajaapaalana karmaNi* = for the act of ruling the people;
 *yathaa* = as per; *saasanam* = order; *me pituH* = of my father;
@@ -1669,6 +1652,23 @@ with preceptors and teachers said this to me."
 
 "Oh, mother! My father ordered that I should rule the people. As per his orders,
 there will be anointing ceremony to me tomorrow."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. siitayaapi* = by Seetha too; *mayaa saha* = along with me;
+*iyam* = this; *rajanii* = night; *upavastavyaa* = can be observed fast;
+*pitaa* = father; *R^itvigupaadhyaayaiH saha* = together with preceptors and
+teachers; *uktavaan* = spoke; *evam* = this; *maam* = to me.
+
+**अनुवादः**
+
+"Seetha too, along with me should observe fast this whole night. The father together
+with preceptors and teachers said this to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga4/ayodhyasans4.htm)
 </details>

@@ -849,23 +849,6 @@ _________________
 
 **पदच्छेदः**
 
-*20. jJNaatvaa* = having known; *maayaaviiryam* = the toughness
-of the conjuring tricks; *duraatmanaH ripoH* = of the evil-minded adversary;
-*raaghavaH* = Rama; *abraviit* = spoke; *idam vachanam* = these words;
-*lakShmaNam* = to Lakshmana; *kiirti sampannam* = endowed with glory.
-
-**अनुवादः**
-
-Having known the toughness of the conjuring tricks of the evil-minded adversary,
-Rama spoke to the illustrious Lakshmana as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19. mahaayashaH viiraH* = O highly illustrious hero!; *tasya* =
 his; *gatiH* = movement; *charataH* = while drifting; *antarikShaH* = i the
 sky; *sarathasya* = along with his chariot; *na JNaayate* = is not known;
@@ -876,6 +859,23 @@ dense mass of clouds.
 
 "O highly illustrious hero! While he drifts in the sky, ascending his chariot, his
 movement is not known to others, as the sun is not seen beneath a dense mass of clouds."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. jJNaatvaa* = having known; *maayaaviiryam* = the toughness
+of the conjuring tricks; *duraatmanaH ripoH* = of the evil-minded adversary;
+*raaghavaH* = Rama; *abraviit* = spoke; *idam vachanam* = these words;
+*lakShmaNam* = to Lakshmana; *kiirti sampannam* = endowed with glory.
+
+**अनुवादः**
+
+Having known the toughness of the conjuring tricks of the evil-minded adversary,
+Rama spoke to the illustrious Lakshmana as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga85/yuddhasans85.htm)
 </details>

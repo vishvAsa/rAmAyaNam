@@ -399,23 +399,6 @@ _________________
 
 **पदच्छेदः**
 
-*9. gurusnehena* = because of my great affection; *bhaktyaacha* =
-and devotion; *ichchhami* = I wish; *tvaam samaanetum* = to carry you well; *adyaiva*
-= now itself; *raghubandhunaa* = te Rama your husband; *etat* = these words; *na udaahR^itam*
-= were not spoken; *anyathaa* = from another motive.
-
-**अनुवादः**
-
-"Because of my great affection and devotion towards you, I wish to carry you well now
-itself to Rama your hushand. These words were not spoken by me with any other motive."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. duSpradharSatraat* = because of the unassailability; *lankaayaaH*
 = of Lanka; *mahodadheH* = and the great ocean; *dustaratvaa* = difficult to be crossed;
 *aatmanaH saamarthyaachchaiva* = and because of my capability; *etat* = this; *samudiiritam*
@@ -425,6 +408,23 @@ itself to Rama your hushand. These words were not spoken by me with any other mo
 
 "I spoke this because of the unassailability of Lanka, its great ocean so difficult to
 be crossed and also my capacity of taking you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. gurusnehena* = because of my great affection; *bhaktyaacha* =
+and devotion; *ichchhami* = I wish; *tvaam samaanetum* = to carry you well; *adyaiva*
+= now itself; *raghubandhunaa* = te Rama your husband; *etat* = these words; *na udaahR^itam*
+= were not spoken; *anyathaa* = from another motive.
+
+**अनुवादः**
+
+"Because of my great affection and devotion towards you, I wish to carry you well now
+itself to Rama your hushand. These words were not spoken by me with any other motive."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -657,15 +657,15 @@ _________________
 
 **पदच्छेदः**
 
-*16. daarayan* = tearing; *maam* = me; *saH kaakaH* = that
-crow pariliiyate = was hiding; *tatraiva* = there only; *saH* = that; *balibhojanah*
-= crow; *bhakSaarthii* = yearning for food; *na upaaramachchhaapi* = did not resign;
-*maamsaat* = from meat.
+*15. tataH* = then; *vaayasaH* = a crow; *maamsasamaayuktaH*
+= yearning for meat; *paryatuN^Dayat* = began to peek (me); *aham* = I; *udyamya*
+= lifting; *loSTam* = a clod of earth; *vaarayaamisma* = prevented; *tam* = that;
+*vaayasam* = crow.
 
 **अनुवादः**
 
-"Pecking me again and again, the crow was hiding there only. That crow, yearning for
-food, did not resig from meat."
+"Then, a crow, yearning for meat, began to peck me. Picking up a clod of earth, I prevented
+the crow from its act."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -679,15 +679,15 @@ food, did not resig from meat."
 
 **पदच्छेदः**
 
-*15. tataH* = then; *vaayasaH* = a crow; *maamsasamaayuktaH*
-= yearning for meat; *paryatuN^Dayat* = began to peek (me); *aham* = I; *udyamya*
-= lifting; *loSTam* = a clod of earth; *vaarayaamisma* = prevented; *tam* = that;
-*vaayasam* = crow.
+*16. daarayan* = tearing; *maam* = me; *saH kaakaH* = that
+crow pariliiyate = was hiding; *tatraiva* = there only; *saH* = that; *balibhojanah*
+= crow; *bhakSaarthii* = yearning for food; *na upaaramachchhaapi* = did not resign;
+*maamsaat* = from meat.
 
 **अनुवादः**
 
-"Then, a crow, yearning for meat, began to peck me. Picking up a clod of earth, I prevented
-the crow from its act."
+"Pecking me again and again, the crow was hiding there only. That crow, yearning for
+food, did not resig from meat."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -1552,23 +1552,6 @@ _________________
 
 **पदच्छेदः**
 
-*34. saH* = kaakutthsaH = that Rama; *sharaNyaH* = who affords protection;
-*kR^ipayaa* = by compassion; *paryapaalayat* = protected; *tam* = that crow;
-*nipatitam* = which fell; *bhuumau* = on the floor; *sharaNaagatam* = and sought
-for protection; *vadhaarhamapi* = even though it was apt to be killed.
-
-**अनुवादः**
-
-"That Rama, who affords protection, was compassionate and protected that crow, which
-fell on the ground (in salutation to Rama) and sought for protection, eventhough it was apt to be killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *33. samparikramya* = roaming; *triin* = the three; *lokaan*
 = worlds; *saH* = that crow; *parityaktaH* = was abandoned; *pitraacha* = by Indra;
 its father; *suraishcha* = celestials; *sa maharSibhiH* = along with sages; *sharaNamgataH*
@@ -1578,6 +1561,23 @@ its father; *suraishcha* = celestials; *sa maharSibhiH* = along with sages; *sha
 
 "Roaming the three worlds in search of a saviour, that crow was abandoned by Indra; its
 father, the celestials and the sages. Finally, it sought refuge in the same Rama."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. saH* = kaakutthsaH = that Rama; *sharaNyaH* = who affords protection;
+*kR^ipayaa* = by compassion; *paryapaalayat* = protected; *tam* = that crow;
+*nipatitam* = which fell; *bhuumau* = on the floor; *sharaNaagatam* = and sought
+for protection; *vadhaarhamapi* = even though it was apt to be killed.
+
+**अनुवादः**
+
+"That Rama, who affords protection, was compassionate and protected that crow, which
+fell on the ground (in salutation to Rama) and sought for protection, eventhough it was apt to be killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -1666,6 +1666,24 @@ _________________
 
 **पदच्छेदः**
 
+*35. saH* = that Rama; *abraviit* = spoke; *tam* = of that
+crow; *aayaantam* = which was coming; *paridyuunam* = exhausted; *viSaNNam* = and
+dejected; *na shakyam tu* = It is not possible; *kartum* = to make; *braahmam astram*
+= Brahma missile; *mogham* = a waste; *tat* = for that reason; *uchyataam* = tell
+me what to do.
+
+**अनुवादः**
+
+"Seeing that crow, coming exhausted and dejected, Rama said to it: 'It is not possible
+to make Brahma missile a waste. For this reason, tell me what to do now."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *36. 37. atha* = thereafter; *saH* = that crow; *abraviit*
 = said; *iti* = that; *trachcharaH* = your arrow; *hinastu* = shoot; *dakSiNaakSi*
 = my right eye; *tataH* = then; *saH* = that blade of grass; *hinantisma* = shooted;
@@ -1678,24 +1696,6 @@ _________________
 Thereafter, that crow said "Let your arrow shoot my right eye." Then that blade of Kusa
 grass shooted the right eye of that crow. By giving away its right eye in that way, the crow saved its
 life."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*35. saH* = that Rama; *abraviit* = spoke; *tam* = of that
-crow; *aayaantam* = which was coming; *paridyuunam* = exhausted; *viSaNNam* = and
-dejected; *na shakyam tu* = It is not possible; *kartum* = to make; *braahmam astram*
-= Brahma missile; *mogham* = a waste; *tat* = for that reason; *uchyataam* = tell
-me what to do.
-
-**अनुवादः**
-
-"Seeing that crow, coming exhausted and dejected, Rama said to it: 'It is not possible
-to make Brahma missile a waste. For this reason, tell me what to do now."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2038,23 +2038,6 @@ _________________
 
 **पदच्छेदः**
 
-*45. viiryavataH tasya asti yadi* = if the valiant Rama has; *kashchit*
-= any; *sambhramaH* = haste; *may* = in my case; *kimartham* = why; *na nayati
-kSayam* = does he not destroy; *raakSasaan* = the demons; *tiikSNaiH sharaiH* = with
-his sharp arrows?
-
-**अनुवादः**
-
-"If the valiant Rama has any haste in my case, why does he not destroy the demons with
-his sharp arrows?!
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *43. raaghava* = O Rama!; *balavaanapi* = eventhough you are stron;
 *astravidaam shreSThaH* = excellently skilled in archery; *satyavaan* = and a truthful
 man; *evam* = thus; *kimartham* = why; *nayojayasi* = are you not employing;
@@ -2064,6 +2047,23 @@ man; *evam* = thus; *kimartham* = why; *nayojayasi* = are you not employing;
 
 "O Rama! Eventhough you are strong, excellently skilled in archery and a truthful man,
 why are you not utilizing your arrow on demons?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. viiryavataH tasya asti yadi* = if the valiant Rama has; *kashchit*
+= any; *sambhramaH* = haste; *may* = in my case; *kimartham* = why; *na nayati
+kSayam* = does he not destroy; *raakSasaan* = the demons; *tiikSNaiH sharaiH* = with
+his sharp arrows?
+
+**अनुवादः**
+
+"If the valiant Rama has any haste in my case, why does he not destroy the demons with
+his sharp arrows?!
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2180,6 +2180,23 @@ _________________
 
 **पदच्छेदः**
 
+*46. kasya hetoH* = for what reason; *lakSmaNo vaa* = even Lakshmana;
+*paramtapaH* = the tormentator of enemies; *mahaabalaH* = the mighty man; *viiraH*
+= and the valiant man; *na paritraati* = does not protect; *maam* = me; *aadaaya*
+= by taking; *aadesham* = the command; *bhraatruH* = of his elder brother?"
+
+**अनुवादः**
+
+"For what reason, even Lakshmana the tormentator of enemies, the mighty man and the valiant
+man does not protect me, by taking the command of his elder brother?'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *48. kimchit* = some; *mahat* = great; *duSkR^itam* = sin;
 *asti* = may be there; *mamaiva* = of me alone; *na samshayaH* = there is no doubt;
 *yat* = for which reason; *tau* = those two brothers Rama and Lakshmana; *paramtapau*
@@ -2190,23 +2207,6 @@ not seeing; *maam* = me.
 
 "There is not doubt that I would have committed a great sin, for which reason those two
 brothers Rama and Lakshmana the tormentators of enemies, even when capable , are neglecting me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*46. kasya hetoH* = for what reason; *lakSmaNo vaa* = even Lakshmana;
-*paramtapaH* = the tormentator of enemies; *mahaabalaH* = the mighty man; *viiraH*
-= and the valiant man; *na paritraati* = does not protect; *maam* = me; *aadaaya*
-= by taking; *aadesham* = the command; *bhraatruH* = of his elder brother?"
-
-**अनुवादः**
-
-"For what reason, even Lakshmana the tormentator of enemies, the mighty man and the valiant
-man does not protect me, by taking the command of his elder brother?'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2278,23 +2278,6 @@ _________________
 
 **पदच्छेदः**
 
-*50. devi* = O Seetha!; *raamaH* = Rama; *tvachchoka viukhaH*
-= has grown averse to eveything else caused by grief towards you; *shape* = I swear; *te*
-= to you; *satyena* = by truth; *raame* = (When) Rama; *duHkhaabhipanne* = is overpowered
-by grief; *lakSmaNaH cha* = Lakshmana too; *paritapyate* = is tormented (by grief).
-
-**अनुवादः**
-
-"O Seetha! Rama has grown averse to everything else, caused by grief towards you. I swear
-it to you by truth. When Rama is overpowered by grief; Lakshmana too gets tormented by grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *49. atha* = then; *shrutvaa* = hearing; *vachanam* = the
 words; *bhaaSitam* = spoken; *karuNam* = pitiably; *saa shru* = with tears; *
 vaidehyaa* = by Seetha; *hanumaan* = Hanuma; *mahaatejaa* = of great splendour;
@@ -2304,6 +2287,23 @@ vaidehyaa* = by Seetha; *hanumaan* = Hanuma; *mahaatejaa* = of great splendour;
 
 Hearing the pitiable appeal Seetha with tears, Hanuma of great splendour and the son
 of wind-god spoke (as follows)
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*50. devi* = O Seetha!; *raamaH* = Rama; *tvachchoka viukhaH*
+= has grown averse to eveything else caused by grief towards you; *shape* = I swear; *te*
+= to you; *satyena* = by truth; *raame* = (When) Rama; *duHkhaabhipanne* = is overpowered
+by grief; *lakSmaNaH cha* = Lakshmana too; *paritapyate* = is tormented (by grief).
+
+**अनुवादः**
+
+"O Seetha! Rama has grown averse to everything else, caused by grief towards you. I swear
+it to you by truth. When Rama is overpowered by grief; Lakshmana too gets tormented by grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2375,22 +2375,6 @@ _________________
 
 **पदच्छेदः**
 
-*52. tau ubhau raajaputrau* = those two princes; *puruSavyaaghrau*
-= the excellent among men; *mahaabalau* = the mighty ones; *tvaddarshanakR^itotsaahau*
-= and who are eager to see you; *laN^kaam bhasmii kariSyataH* = with reduce Lanka to ashes.
-
-**अनुवादः**
-
-"Those two mighty princes, the excellent among men, are eager to see you and they will
-reduce Lanka to ashes."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *51. anindite* = O faultless Seetha!; *kathamchit* = Somehow or other;
 *bhavatii* = you; *dR^iSTaa* = appeared; *na kaalaH* = this is not the time;
 *paridevitum* = to lament; *drakSyasi* = you will see; *antam* = the end; *duHkhaanaam*
@@ -2400,6 +2384,22 @@ reduce Lanka to ashes."
 
 "O faultless Seetha! Somehow or other, you have been discovered by me. This is not the
 time to lament. Your will see the end of your sorrow within a short time."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*52. tau ubhau raajaputrau* = those two princes; *puruSavyaaghrau*
+= the excellent among men; *mahaabalau* = the mighty ones; *tvaddarshanakR^itotsaahau*
+= and who are eager to see you; *laN^kaam bhasmii kariSyataH* = with reduce Lanka to ashes.
+
+**अनुवादः**
+
+"Those two mighty princes, the excellent among men, are eager to see you and they will
+reduce Lanka to ashes."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2530,15 +2530,15 @@ _________________
 
 **पदच्छेदः**
 
-*59. tyaktvaa* = renouncing; *anuttamam* = a great; *sukham*
-= comfort; *dharmaatmaa* = the righteous Lakshmana; *anugachchhati* = followed; *paalayam*
-= protecting kaakutthsam = Rama; *bhraataram* = his elder brother; *anukuulyena* = acting
-in an affectionate way towards him; *vane* = in the forest.
+*54. bruuhi* = tell me; *yat vaachyaH* = what to be expressed;
+*raaghavaH* = to Rama; *mahaabalaH lakSmaNashcha* = or to the mighty Lakshmana; *tejasvii
+sugriivovaapi* = or to the splendorous Sugreeva; *harayo.api* = samaagataaH = or to even
+the monkeys assembled (there).
 
 **अनुवादः**
 
-"Renouncing a great comfort, the righteous Lakshmana, acting in an affectionate manner
-towards Rama, followed him, watching over him in the forest."
+"Tell me what to be expressed to Rama or to the mighty Lakshmana or to the splendourous
+Sugreeva or even to the other monkeys assembled there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2552,16 +2552,15 @@ towards Rama, followed him, watching over him in the forest."
 
 **पदच्छेदः**
 
-*62. lakSmaNaH* = Lakshmana; *bhraataa* = the younger brother;
-*raamasya* = of Rama; *nityam* = is always; *priyataraH* = the one; who is dearer;
-*mam* = to me; *viiryavaan* = the energetic Lakshmana; *udvahati* = carries out;
-*taam* = that; *yasyaam* = whatever; *dhuri* = load of work; *niyuktaH*
-= is entrusted.
+*55. iti* = thus; *uktavati* = spoken; *tasmin* = by that
+Hanuma; *siita* = Seetha; *surasutopamaa* = like the daughter of a sage; *shoka santaptaa*
+= tormented with grief; *uvaacha* = spoke; *hanumantam* = to Hanuma; *plavamgamam*
+= the monkey (as follows):
 
 **अनुवादः**
 
-"Lakshmana, the younger brother of Rama is the one who is dearer to me always. That energetic
-Lakshmana carries out well, whatever load of work is entrusted to him"
+Hearing the words of Hanuma, Seetha, like the daughter of a sage, tormented with grief,
+spoke to Hanuma the monkey (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2570,18 +2569,15 @@ Lakshmana carries out well, whatever load of work is entrusted to him"
 
 **पदच्छेदः**
 
-*61. viiraH* = the valiant; *lakSmaNaH* = Lakshmana; *tadaa*
-= then; *na veda* = did not know; *maam* = me; *hriyamaaNaam* = as being taken
-away (by Ravana); *vR^iddhopasevii* = He serves elders; *lakSmiivaan* = He has splendour;
-*na bahubhaaSitaa* = He does not talk much; *shaktaH* = (though) capable me shashurasy
-= to Dasaratha; my father-in-law; *sadR^ishaH* = he is suitably well; *priyaH* = a beloved;
-*shreSThaH* = and best; *raajaputraH* = prince.
+*56. madarthe* = On my behalf; *abhivaadayacha shirasaa* = salute
+by bowing your head; *pR^ichchha* = and ask; *sukham* = about the welfare of; *tam*
+= that Rama; *lokabhartaaram* = the lord of the worlds; *yam* = whom; *manasvinii Kausalyaa*
+= the magnanimous Kausalya; *suSuva* = gave birth.
 
 **अनुवादः**
 
-"The valiant Lakshmana, on that day of occurrence, did not know that I was being taken
-away by Ravana. He serves elders. He possesses a splendour. Though capable, he does not talk much. To
-Dasaratha, my father-in-law, he is his replica a beloved and the best prince."
+"On my behalf, salute by bowing your head and ask about the welfare of Rama, the Lord
+of the worlds, whom the magnanimous Kausalya gave birth."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2589,29 +2585,6 @@ Dasaratha, my father-in-law, he is his replica a beloved and the best prince."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 अवनु सिंहदन्तॆ भुजबलवुळ्ळवनु. दीर्घबाहुवु, बुद्धिवन्तनू, कडु चॆलुवनू आगिरुवनु. लक्ष्मणनु श्रीरामनन्नु तन्दॆयॆन्दू, नन्नन्नु तायियॆन्दू भाविसि नडॆदुकॊळ्ळुवनु. रावणनु नन्नन्नु अपहरिसि, इल्लिगॆ तन्दिरुव विषयवन्नु तिळियनु. अवनु हिरियर सेवॆ माडुववनु. शुभलक्षणगळिन्दॊडगूडिदवनू, कीर्तिशालियू, मितभाषियू आगिरुवनु. आ राजकुमारनु श्रीरामनिगॆ अत्यन्त प्रीतिपात्रनु. नन्न रक्षणॆय विषयदल्लि मावनवराद दशरथ महाराजरन्तॆ इरुववनु. वनवासद समयदल्लि अवनु गैद सेवॆयिन्द ननगॆ अत्तॆ-मावन्दिर कॊरतॆये कण्डु बन्दिल्ल.॥58-60॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*60. simhaskandhaH* = Lakshmana; who has broad shoulders like that of a
-lion; *mahaabaahuH* = mighty armed; *mansvii* = steady minded; *priyadarshinaH*
-= and having pleasant looks; *vartate* = who behaves; *raame* = towards Rama; *pitR^ivat*
-= as towards his father; *samaacharan* = and look to; *maam* = me; *maatR^ivat*
-= as his own mother.
-
-**अनुवादः**
-
-"Lakshmana, who has broad shoulders like that ofa lion, mighty-armed, steady-minded and
-having pleasant looks, behaves towards Rama as towards his father and looks to me as his own mother."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-दिव्य पुष्पमालिकॆगळन्नू, विविध भोग्य वस्तुगळन्नू, प्रीतिपात्रळाद भार्यॆयन्नू, अवळ सुखवन्नू, विशालवाद भूमण्डलदल्लि दुर्लभवाद ऐश्वर्यवन्नु त्यजिसि, तन्दॆ-तायियरन्नु गौरविसि, अवर अनुग्रह-आशीर्वादगळन्नु हॊन्दि, तन्न तायियाद सुमित्रादेविगॆ कीर्तियन्नु तन्दुकॊट्ट लक्ष्मणनु श्रीरामनन्नु अनुसरिसि, वनवासक्कागि बन्दनु. धर्मात्मनाद अवनु दॊरॆत सुखजीवनवन्नु परित्यजिसि, अण्णनाद श्रीरामनिगॆ वनदल्लि अनुकूलवाद सेवॆगळन्नु माडुत्ता अवनॊन्दिगॆ नडॆदनु.॥56-57॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -2636,19 +2609,42 @@ father and mother, followed Rama to exile."
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
 
+<details><summary>अनुवाद (कन्नड)</summary>
+
+दिव्य पुष्पमालिकॆगळन्नू, विविध भोग्य वस्तुगळन्नू, प्रीतिपात्रळाद भार्यॆयन्नू, अवळ सुखवन्नू, विशालवाद भूमण्डलदल्लि दुर्लभवाद ऐश्वर्यवन्नु त्यजिसि, तन्दॆ-तायियरन्नु गौरविसि, अवर अनुग्रह-आशीर्वादगळन्नु हॊन्दि, तन्न तायियाद सुमित्रादेविगॆ कीर्तियन्नु तन्दुकॊट्ट लक्ष्मणनु श्रीरामनन्नु अनुसरिसि, वनवासक्कागि बन्दनु. धर्मात्मनाद अवनु दॊरॆत सुखजीवनवन्नु परित्यजिसि, अण्णनाद श्रीरामनिगॆ वनदल्लि अनुकूलवाद सेवॆगळन्नु माडुत्ता अवनॊन्दिगॆ नडॆदनु.॥56-57॥
+</details>
+
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
 
 **पदच्छेदः**
 
-*56. madarthe* = On my behalf; *abhivaadayacha shirasaa* = salute
-by bowing your head; *pR^ichchha* = and ask; *sukham* = about the welfare of; *tam*
-= that Rama; *lokabhartaaram* = the lord of the worlds; *yam* = whom; *manasvinii Kausalyaa*
-= the magnanimous Kausalya; *suSuva* = gave birth.
+*59. tyaktvaa* = renouncing; *anuttamam* = a great; *sukham*
+= comfort; *dharmaatmaa* = the righteous Lakshmana; *anugachchhati* = followed; *paalayam*
+= protecting kaakutthsam = Rama; *bhraataram* = his elder brother; *anukuulyena* = acting
+in an affectionate way towards him; *vane* = in the forest.
 
 **अनुवादः**
 
-"On my behalf, salute by bowing your head and ask about the welfare of Rama, the Lord
-of the worlds, whom the magnanimous Kausalya gave birth."
+"Renouncing a great comfort, the righteous Lakshmana, acting in an affectionate manner
+towards Rama, followed him, watching over him in the forest."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*60. simhaskandhaH* = Lakshmana; who has broad shoulders like that of a
+lion; *mahaabaahuH* = mighty armed; *mansvii* = steady minded; *priyadarshinaH*
+= and having pleasant looks; *vartate* = who behaves; *raame* = towards Rama; *pitR^ivat*
+= as towards his father; *samaacharan* = and look to; *maam* = me; *maatR^ivat*
+= as his own mother.
+
+**अनुवादः**
+
+"Lakshmana, who has broad shoulders like that ofa lion, mighty-armed, steady-minded and
+having pleasant looks, behaves towards Rama as towards his father and looks to me as his own mother."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2662,15 +2658,18 @@ of the worlds, whom the magnanimous Kausalya gave birth."
 
 **पदच्छेदः**
 
-*55. iti* = thus; *uktavati* = spoken; *tasmin* = by that
-Hanuma; *siita* = Seetha; *surasutopamaa* = like the daughter of a sage; *shoka santaptaa*
-= tormented with grief; *uvaacha* = spoke; *hanumantam* = to Hanuma; *plavamgamam*
-= the monkey (as follows):
+*61. viiraH* = the valiant; *lakSmaNaH* = Lakshmana; *tadaa*
+= then; *na veda* = did not know; *maam* = me; *hriyamaaNaam* = as being taken
+away (by Ravana); *vR^iddhopasevii* = He serves elders; *lakSmiivaan* = He has splendour;
+*na bahubhaaSitaa* = He does not talk much; *shaktaH* = (though) capable me shashurasy
+= to Dasaratha; my father-in-law; *sadR^ishaH* = he is suitably well; *priyaH* = a beloved;
+*shreSThaH* = and best; *raajaputraH* = prince.
 
 **अनुवादः**
 
-Hearing the words of Hanuma, Seetha, like the daughter of a sage, tormented with grief,
-spoke to Hanuma the monkey (as follows):
+"The valiant Lakshmana, on that day of occurrence, did not know that I was being taken
+away by Ravana. He serves elders. He possesses a splendour. Though capable, he does not talk much. To
+Dasaratha, my father-in-law, he is his replica a beloved and the best prince."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2684,15 +2683,16 @@ spoke to Hanuma the monkey (as follows):
 
 **पदच्छेदः**
 
-*54. bruuhi* = tell me; *yat vaachyaH* = what to be expressed;
-*raaghavaH* = to Rama; *mahaabalaH lakSmaNashcha* = or to the mighty Lakshmana; *tejasvii
-sugriivovaapi* = or to the splendorous Sugreeva; *harayo.api* = samaagataaH = or to even
-the monkeys assembled (there).
+*62. lakSmaNaH* = Lakshmana; *bhraataa* = the younger brother;
+*raamasya* = of Rama; *nityam* = is always; *priyataraH* = the one; who is dearer;
+*mam* = to me; *viiryavaan* = the energetic Lakshmana; *udvahati* = carries out;
+*taam* = that; *yasyaam* = whatever; *dhuri* = load of work; *niyuktaH*
+= is entrusted.
 
 **अनुवादः**
 
-"Tell me what to be expressed to Rama or to the mighty Lakshmana or to the splendourous
-Sugreeva or even to the other monkeys assembled there."
+"Lakshmana, the younger brother of Rama is the one who is dearer to me always. That energetic
+Lakshmana carries out well, whatever load of work is entrusted to him"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2834,23 +2834,6 @@ _________________
 
 **पदच्छेदः**
 
-*66. tvatsamaarambhaat* = by your effort; *raaghavaH* = Rama; *
-bhavet* = will become; *yatnaparaH* = a diligent man; *mayi* = in my case; *bruuyaaH*
-= tell; *idam* = this; *punaH punaH* = again and again; *raamam* = to Rama; *
-me naatham* = my lord; *shuuram* = and the hero.
-
-**अनुवादः**
-
-"Depending on your effort, Rama will be more active with his effort the following words
-again and again to Rama, my Lord and the hero:"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 64; *65. vaanarashreSTha* = O Hanuma; the excellent of monkeys; *harisattama*
 = and the best of monkeys!; *tvam* = you; *pramaaNam* = are the model; *asmin kaaryaniryoge*
 = for fulfilling this act (of addressing him); *yathaa bhavet* = in such a way; *lakSmaNaH*
@@ -2863,6 +2846,23 @@ dakSaH* = and clever; *priyaH* = darling; *raamasya* = of Rama; *duHkhakSaya kar
 "O Hanuma, the excellent of monkeys and the best of monkeys! you are the model for fulfilling
 this act of addressing him in such a way that Lakshmana, the mild, every-pure and clever darling of
 Rama may bring my sorrows to an end."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*66. tvatsamaarambhaat* = by your effort; *raaghavaH* = Rama; *
+bhavet* = will become; *yatnaparaH* = a diligent man; *mayi* = in my case; *bruuyaaH*
+= tell; *idam* = this; *punaH punaH* = again and again; *raamam* = to Rama; *
+me naatham* = my lord; *shuuram* = and the hero.
+
+**अनुवादः**
+
+"Depending on your effort, Rama will be more active with his effort the following words
+again and again to Rama, my Lord and the hero:"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>
@@ -2985,23 +2985,6 @@ _________________
 
 **पदच्छेदः**
 
-*69. tataH* = then; *muktvaa* = untying; *shubham* = the bright;
-*divyam* = divine; *chuuDaamaNim* = jewel for her head; *vastragatam* = tied in
-her garment; *siitaa* = Seetha; *dadau* = gave (it); *hanumate* = to Hanuma;
-*iti* = saying; *pradeyaH* = that it might be delivered; *raaghavaaya* = to Rama.
-
-**अनुवादः**
-
-Then, untying the bright devine jewel for her head tied in her garment, Seetha gave it
-to Hanuma, saying that it might be handed over to Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *68. viira* = O valiant man!; *tvam* = you; *arhasi* = are
 required; *traatum* = to protect; *maam* = me; *uparuddhaam* = who is detained;
 *raavaNena* = by Ravana; *paapakarmaNaa* = the criminal; *nikR^ityaa* = with humiliation;
@@ -3013,6 +2996,23 @@ prosperity; *paataalaat* = from the abode of serpents and demons.
 "O valiant man! You are required to rescue me, detained (as I am) by Ravana the criminal
 and subjected to humiliation, as you (as Lord Vishnu) earlier protected Indra the Lord of celestials
 and Lakshmi the goddess of prosperity from the abode of servants and demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*69. tataH* = then; *muktvaa* = untying; *shubham* = the bright;
+*divyam* = divine; *chuuDaamaNim* = jewel for her head; *vastragatam* = tied in
+her garment; *siitaa* = Seetha; *dadau* = gave (it); *hanumate* = to Hanuma;
+*iti* = saying; *pradeyaH* = that it might be delivered; *raaghavaaya* = to Rama.
+
+**अनुवादः**
+
+Then, untying the bright devine jewel for her head tied in her garment, Seetha gave it
+to Hanuma, saying that it might be handed over to Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga38/sundarasans38.htm)
 </details>

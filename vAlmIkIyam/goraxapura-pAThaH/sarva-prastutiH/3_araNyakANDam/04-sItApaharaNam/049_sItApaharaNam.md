@@ -1639,23 +1639,6 @@ necessarily a male and a female, but any two or more, in veneration or friendshi
 
 **पदच्छेदः**
 
-*34. praaNebhyaH api gariiyasiim* = by [his] lives, even, loftier; *hriyamaaNaam* = being
-stolen; *priyaam* = about [his] dear [wife]; *vi vasha* = without, help [helpless one];
-*siitaa* = Seetha; *raavaNena apahR^itaa* = by Ravana, stolen; *iti bhartuH shamsata*
-= thus, to [my] husband, you inform.
-
-**अनुवादः**
-
-"Inform my husband about his dear and loftier wife than his lives, saying that, 'helpless Seetha is
-stolen by Ravana.' [3-49-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *33. atra* = there - on the ground as seen from aircraft; *yaani kaanicit api* = those,
 some few, even; *sattvaani nivasanti uta* = beings, are living, there; *sarvaaNi* = all
 of the; *mR^iga pakSi gaNaan api* = animals, birds, groups of, even; *sharaNam yaami*
@@ -1674,6 +1657,23 @@ Presuming that the water loving water birds may not penetrate the deep forest, a
 the sylvan deities presiding on the treetops. Again presuming that these sylvan deities of forests may
 not be able to see through the thick of forest, she is now asking the animals and birds that usually
 move on the ground, to locate Rama. This entire criss-cross thinking has happened within split seconds.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*34. praaNebhyaH api gariiyasiim* = by [his] lives, even, loftier; *hriyamaaNaam* = being
+stolen; *priyaam* = about [his] dear [wife]; *vi vasha* = without, help [helpless one];
+*siitaa* = Seetha; *raavaNena apahR^itaa* = by Ravana, stolen; *iti bhartuH shamsata*
+= thus, to [my] husband, you inform.
+
+**अनुवादः**
+
+"Inform my husband about his dear and loftier wife than his lives, saying that, 'helpless Seetha is
+stolen by Ravana.' [3-49-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm)
 </details>

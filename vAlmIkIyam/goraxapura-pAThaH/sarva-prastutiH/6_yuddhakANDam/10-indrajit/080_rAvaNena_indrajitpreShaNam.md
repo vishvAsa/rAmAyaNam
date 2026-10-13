@@ -1836,23 +1836,6 @@ _________________
 
 **पदच्छेदः**
 
-*40. mahaabhuja* = O long-armed Lakshmana; *yatnam kariShyaavaH*
-= we shall try; *vadhe* = to kill; *tasyaiva* = only Indrajit; *aadekShyaavaH*
-= we will employ; *astraan* = mystic missiles; *mahaavegaan* = with great
-impetuosity; *aashiiviShopamaam* = and which are equal to venomous serpents.
-
-**अनुवादः**
-
-"O long-armed Lakshmana! We shall try to kill Indrajit alone. We will employ mystic
-mssiles with great impetuosity and which are equal to venomous serpents."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *39. tvam na arhasi* = you ought not; *hantum* = to kill;
 *iha* = here; *ayudhyamaanam* = one who is not fighting; *prachchhannam* = or
 one who is hiding; *praaN^jalim* = or the one who is a refugee; *palaayamaanam* = or
@@ -1862,6 +1845,23 @@ who is fleeing; *mattam vaa* = or who is intoxicated.
 
 "You ought not to kill on this earth one who is not fighting or one who is hiding or
 one who seeks refuge with joined palms or is fleeing or is intoxicated."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*40. mahaabhuja* = O long-armed Lakshmana; *yatnam kariShyaavaH*
+= we shall try; *vadhe* = to kill; *tasyaiva* = only Indrajit; *aadekShyaavaH*
+= we will employ; *astraan* = mystic missiles; *mahaavegaan* = with great
+impetuosity; *aashiiviShopamaam* = and which are equal to venomous serpents.
+
+**अनुवादः**
+
+"O long-armed Lakshmana! We shall try to kill Indrajit alone. We will employ mystic
+mssiles with great impetuosity and which are equal to venomous serpents."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhasans80.htm)
 </details>

@@ -1173,24 +1173,6 @@ great brilliance, replied to Rama as follows:
 
 **पदच्छेदः**
 
-*28. tasya* = to him; *aasiit* = there is; *putraH* = a
-son; *viiryavaan* = who is valiant; *raavaNapratimaH* = equal to Ravana;
-*raNe* = in combat; *vR^iddha sevii* = who serves elders; *varaH* = excellent;
-*shrutidharaH* = among those holding that which is heard; *sarvaastra viduShaam* =
-and who is skilled in the use of weaponry.
-
-**अनुवादः**
-
-"To him, there is a valiant son, equal to Ravana in combat, who serves elders,
-holding that which is heard from them and skilled in the use of weaponry."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. raajaa* = the king; *raavaNaH* = Ravana;
 *dashagriivaH* = the ten-necked; *mahaatejaaH* = having great brilliance;
 *vaishraavaNaanujaH* = the brother of Kumbera the lord of wealth; *bhiima karma* =
@@ -1201,6 +1183,24 @@ the lord of demons.
 
 "The ten-necked king Ravana, having great brilliance, the brother of Kubera the lord
 of wealth, doing terrific deeds and possessing a great power, is the lord of demons."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. tasya* = to him; *aasiit* = there is; *putraH* = a
+son; *viiryavaan* = who is valiant; *raavaNapratimaH* = equal to Ravana;
+*raNe* = in combat; *vR^iddha sevii* = who serves elders; *varaH* = excellent;
+*shrutidharaH* = among those holding that which is heard; *sarvaastra viduShaam* =
+and who is skilled in the use of weaponry.
+
+**अनुवादः**
+
+"To him, there is a valiant son, equal to Ravana in combat, who serves elders,
+holding that which is heard from them and skilled in the use of weaponry."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
@@ -1641,23 +1641,6 @@ _________________
 
 **पदच्छेदः**
 
-*39. paadapaiH* = with trees; *girishR^iN^gaiH* = and with
-mountain-peaks; *kumudaH* = Kumuda; *dvividaH* = Dvivida; *maindaH* = Mainda;
-*niilaH* = Nila; *sharbhaH eva cha* = and Sharabha; *samabhidravan* = ran (to
-attack him); *yugavata* = at once.
-
-**अनुवादः**
-
-Taking trees and mountain peaks, Kumuda, Dvivida, Mainda, Nila and Sharabha marched
-forwards quickly to attack him at once.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *38. dR^iShTvaa* = seeing; *tam* = him; *bhiimavapuSham*
 = with a terrific body; *rathastham* = seated in the chariot; *varam* = and
 excellent; *rathinaam* = among the charioteers; *vanaukasaH* = were chiefs;
@@ -1667,6 +1650,23 @@ excellent; *rathinaam* = among the charioteers; *vanaukasaH* = were chiefs;
 
 Seeing him with a terrific body, seated in the chariot, as the excellent one among
 the charioteers, powerful chiefs of monkeys rushed towards him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*39. paadapaiH* = with trees; *girishR^iN^gaiH* = and with
+mountain-peaks; *kumudaH* = Kumuda; *dvividaH* = Dvivida; *maindaH* = Mainda;
+*niilaH* = Nila; *sharbhaH eva cha* = and Sharabha; *samabhidravan* = ran (to
+attack him); *yugavata* = at once.
+
+**अनुवादः**
+
+Taking trees and mountain peaks, Kumuda, Dvivida, Mainda, Nila and Sharabha marched
+forwards quickly to attack him at once.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
@@ -2467,6 +2467,23 @@ _________________
 
 **पदच्छेदः**
 
+*55. pashya* = see; *nishitaan baaNaan* = my sharp arrows;
+*tapta kaaNchana bhuuShaNaan* = decked with pure gold; *me ripudarpa niShuudanaan* =
+which can remove the pride of my enemies; *iishvaraayudha samkaashaan* = which are like the
+weapons of Ishvara the lord destruction.
+
+**अनुवादः**
+
+"See my sharp arrows decked with pure gold, which can remove the pride of my enemies
+and which are like the weapons of Ishvara the lord of destruction."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *56. eShaH baaNaH* = this arrow; *sarpasamkaashaH* = looking
 like a serpent; *pasyati* = will drink; *te shoNitam* = your blood;
 *mR^igaraajaajaH iva* = like a lion; *naagaraajasya shoNitam* = (drinking) the blood
@@ -2478,23 +2495,6 @@ bow.
 
 "This arrow looking like a serpent will drink your blood as a lion drinks the blood
 of an elephant. "Thus speaking, Atikaya was enraged and fixed an arrow on his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*55. pashya* = see; *nishitaan baaNaan* = my sharp arrows;
-*tapta kaaNchana bhuuShaNaan* = decked with pure gold; *me ripudarpa niShuudanaan* =
-which can remove the pride of my enemies; *iishvaraayudha samkaashaan* = which are like the
-weapons of Ishvara the lord destruction.
-
-**अनुवादः**
-
-"See my sharp arrows decked with pure gold, which can remove the pride of my enemies
-and which are like the weapons of Ishvara the lord of destruction."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
@@ -3411,24 +3411,6 @@ _________________
 
 **पदच्छेदः**
 
-*76. evam* = thus; *vidhaaya* = speaking; *saH* =
-Atikaya; *vidaarya* = widely opening; *aasyam* = him mouth; *vinamya* =
-bending down; *mahaabhujau* = with his large shoulders; *aasthaaya* = ascended;
-*rathopastham* = the top of his chariot; *prachachaaraha* = roamed about hither and
-thither; *rathena* = with his chariot.
-
-**अनुवादः**
-
-Thus speaking with his mouth wide open, Atikaya bent down with his large shoulder,
-ascended the top of his chariot and roamed about hither and thither by his chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *75. mahaabalaH* = that demon of great strength; *aashvasya* =
 recovering his breath; *vimR^ishya* = reasoningly; *chintayaamaasa* = reflected;
 *saadhu* = well!; *baaNanipaatena* = by flying down and arrow; *asi* = you
@@ -3439,6 +3421,24 @@ enemy.
 
 That demon of great strength, recovering his breath, reasoningly reflected as
 follows: "Well! By flying down an arrow, you have become a commendable enemy for me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*76. evam* = thus; *vidhaaya* = speaking; *saH* =
+Atikaya; *vidaarya* = widely opening; *aasyam* = him mouth; *vinamya* =
+bending down; *mahaabhujau* = with his large shoulders; *aasthaaya* = ascended;
+*rathopastham* = the top of his chariot; *prachachaaraha* = roamed about hither and
+thither; *rathena* = with his chariot.
+
+**अनुवादः**
+
+Thus speaking with his mouth wide open, Atikaya bent down with his large shoulder,
+ascended the top of his chariot and roamed about hither and thither by his chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
@@ -3979,15 +3979,15 @@ _________________
 
 **पदच्छेदः**
 
-*88. tau* = those; *ubhau* = two; *baaNau* = arrows;
-*tejasau sampradiiptaagrau* = with their points blazing in splendour; *abhijaghuutuH*
-= struck; *anyonyam* = at each other; *ambare* = in the sky; *kruddhau bhujangamau
-iva* = like two enraged serpents.
+*87. dR^iShTvaa* = seeing; *baaNam* = the arrow;
+*agneyaastraabhisamyuktam* = charged with a missile of fire nishaacharaH = the demon;
+*tadaa* = then; *usasarja* = released; *raudram* = and awful; *baaNam*
+= arrow; *suuryaastra yojitam* = charged with the solar missile.
 
 **अनुवादः**
 
-Those two arrows, having their points blazed in splendour, struck at each other in
-the sky, like two enraged serpents.
+Seeing that arrow charged with a mystic missile of fire, Atikaya the demon then
+released the awful arrow charged with the solar missile.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
@@ -4001,15 +4001,15 @@ the sky, like two enraged serpents.
 
 **पदच्छेदः**
 
-*87. dR^iShTvaa* = seeing; *baaNam* = the arrow;
-*agneyaastraabhisamyuktam* = charged with a missile of fire nishaacharaH = the demon;
-*tadaa* = then; *usasarja* = released; *raudram* = and awful; *baaNam*
-= arrow; *suuryaastra yojitam* = charged with the solar missile.
+*88. tau* = those; *ubhau* = two; *baaNau* = arrows;
+*tejasau sampradiiptaagrau* = with their points blazing in splendour; *abhijaghuutuH*
+= struck; *anyonyam* = at each other; *ambare* = in the sky; *kruddhau bhujangamau
+iva* = like two enraged serpents.
 
 **अनुवादः**
 
-Seeing that arrow charged with a mystic missile of fire, Atikaya the demon then
-released the awful arrow charged with the solar missile.
+Those two arrows, having their points blazed in splendour, struck at each other in
+the sky, like two enraged serpents.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
@@ -4150,23 +4150,6 @@ _________________
 
 **पदच्छेदः**
 
-*93. tataH* = thereupon; *nishaacharaH* = Atikaya;
-*chikShepa* = hurled; *tat* = that; *astram* = missile; *lakShmaNaaya*
-= on Lakshmana; *saH lakShmaNaH* = that Lakshmana; *tat nijaghaana* = struck it down;
-*vaayuvyena astreNa* = by a missile presided over by the wind-god.
-
-**अनुवादः**
-
-Thereupon, Atikaya hurled that missile on Lakshmana. That Lakshmana struck it down
-by a missile presided over by the wind-god.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *92. dR^iShTvaa* = seeing; *aiShiikam* = his arrow made of cane;
 *nihatam* = struck down; *kumaaraH* = that young; *raavaNaatmajaH* = Atikaya;
 *samkruddhaH* = was quite enraged; *yojayaamaasa* = and fixed; *saayakam* =
@@ -4177,6 +4160,23 @@ retribution.
 
 Seeing his arrow made of cane struck down, that young Atikaya was quite enraged and
 fixed his arrow with a missile presided over by Yama the lord of retribution.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*93. tataH* = thereupon; *nishaacharaH* = Atikaya;
+*chikShepa* = hurled; *tat* = that; *astram* = missile; *lakShmaNaaya*
+= on Lakshmana; *saH lakShmaNaH* = that Lakshmana; *tat nijaghaana* = struck it down;
+*vaayuvyena astreNa* = by a missile presided over by the wind-god.
+
+**अनुवादः**
+
+Thereupon, Atikaya hurled that missile on Lakshmana. That Lakshmana struck it down
+by a missile presided over by the wind-god.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>
@@ -4547,6 +4547,24 @@ aiming at that demon, for the purpose of killing him.
 
 **पदच्छेदः**
 
+*102. narottamaH* = Lakshmana; the best among men; *na
+shashaaka* = was not able; *kartum rujam* = to afflict any injury; *tasya* = to
+him; *yuddhi* = in battle; *atha* = thereupon; *vaayuH* = the wind-god;
+*upaagamya* = approaching; *enam* = him; *uvaacha ha* = spoke;
+*vaakyam* = (the following) words:
+
+**अनुवादः**
+
+Lakshmana, the best among men, was not able to afflict any injury to Atikaya in
+battle. Then, the wind-god came to him and spoke to him as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *103. eShaH* = he; *brahmadattavaraH* = endowed with a boon by
 Brahma the lord of creation; *avadhya kavachaavR^itaH* = is cloaked with an inviolable
 armour; *bhindi* = split; *enam* = him; *brahmeNa astreNa* = with a missile of
@@ -4560,24 +4578,6 @@ missiles.
 "He, endowed with a boon by Brahma the lord of creation, is cloaked by inviolable
 armour. Split him with a missile of Brahma. He cannot be killed by any other means. The mighty
 Atikaya, with that armour, cannot be destroyed by other missiles."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*102. narottamaH* = Lakshmana; the best among men; *na
-shashaaka* = was not able; *kartum rujam* = to afflict any injury; *tasya* = to
-him; *yuddhi* = in battle; *atha* = thereupon; *vaayuH* = the wind-god;
-*upaagamya* = approaching; *enam* = him; *uvaacha ha* = spoke;
-*vaakyam* = (the following) words:
-
-**अनुवादः**
-
-Lakshmana, the best among men, was not able to afflict any injury to Atikaya in
-battle. Then, the wind-god came to him and spoke to him as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga71/yuddhasans71.htm)
 </details>

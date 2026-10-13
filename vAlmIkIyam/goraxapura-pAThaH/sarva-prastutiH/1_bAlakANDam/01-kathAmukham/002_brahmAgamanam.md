@@ -1392,24 +1392,6 @@ at Valmiki to take a seat. [1-2-26]
 
 **पदच्छेदः**
 
-28b-29a. *yaH* = he who, tribal hunter; taadR^isham = that
-sort of; *chaaruravam krauncham* = cutely, calling, krouncha bird; *akaaraNaat
-hanyaat* = without, reason, kills [killed]; *vairagrahaNabuddhinaa* = intending to capture enemy [kill];
-*paapaatmanaa* = by evil souled one;
-kaSTam kR^itam = hardship, is caused.
-
-**अनुवादः**
-
-"He that tribal hunter, who killed a cutely calling krouncha bird for no good reason than intending
-to capture the kill, is an evil souled one that caused hardship..." [1-2-28b-29a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 27-28a. *saH api* = he [Valmiki,] even; brahmaNaa samanuj~naataH
 = by Brahma, duly permitted; *aasane upaaviShat* = sat on seat; *tadaa*
 = then; tasmin lokapitaamahe = that Grandparent of worlds;
@@ -1422,6 +1404,24 @@ aasthitaH* = mentally, brooding, recurred.
 Even though Valmiki sat on his seat when duly permitted by Brahma, and though the Grandparent
 of the worlds is manifestly sitting before him, but the same broodings on those happenings
 occurred on that day have recurred on his mind. [1-2-27-28a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+28b-29a. *yaH* = he who, tribal hunter; taadR^isham = that
+sort of; *chaaruravam krauncham* = cutely, calling, krouncha bird; *akaaraNaat
+hanyaat* = without, reason, kills [killed]; *vairagrahaNabuddhinaa* = intending to capture enemy [kill];
+*paapaatmanaa* = by evil souled one;
+kaSTam kR^itam = hardship, is caused.
+
+**अनुवादः**
+
+"He that tribal hunter, who killed a cutely calling krouncha bird for no good reason than intending
+to capture the kill, is an evil souled one that caused hardship..." [1-2-28b-29a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
@@ -1530,23 +1530,6 @@ jaguryashaH *
 
 **पदच्छेदः**
 
-*31b-32a. hè brahman* = oh Brahman; te iyam sarasvatii =
-your, that, speech; *mat Chandaat eva* = at my, wish, alone; *pravR^ittaa* =
-sprang forth; *hè R^iSisattama* = oh the eminent sage; *raamasya charitam kR^itsnam*
-= Rama's, legend, in entirety; *tvam kuru* = you, render.
-
-**अनुवादः**
-
-"Oh, Brahman, that speech of yours sprang forth at my wish alone, hence oh, eminent sage,
-you shall render the legend of Rama, in its entirety... [1-2-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 30b-31a.* tataH* = then; *brahmaa prahasan* = Brahma, smilingly; *tam munipungavam uvaacha* = spoke to that eminent saint;
  *shloka eva tu*
 = verse, only, but; *ayam baddhaH* = that one, composed; *na atra kaaryaa vichaaraNaa*
@@ -1556,6 +1539,23 @@ you shall render the legend of Rama, in its entirety... [1-2-31]
 
 Then, Brahma smilingly spoke to that eminent saint Valmiki, "But, what that is composed is
 a verse only... and there is no need to think through... [1-2-30]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*31b-32a. hè brahman* = oh Brahman; te iyam sarasvatii =
+your, that, speech; *mat Chandaat eva* = at my, wish, alone; *pravR^ittaa* =
+sprang forth; *hè R^iSisattama* = oh the eminent sage; *raamasya charitam kR^itsnam*
+= Rama's, legend, in entirety; *tvam kuru* = you, render.
+
+**अनुवादः**
+
+"Oh, Brahman, that speech of yours sprang forth at my wish alone, hence oh, eminent sage,
+you shall render the legend of Rama, in its entirety... [1-2-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>
@@ -1810,6 +1810,23 @@ word of yours will not be false in this epic... [1-2-35]
 
 **पदच्छेदः**
 
+*36b-37a. girayaH* = mountains; saritaH ca = rivers, even;
+*mahiitale* = on earth's surface; *yaavat* = as long as; *sthaasyanti*
+= there will be; *taavat* = so long; *raamaayaNakathaa* = Rama's, legend - Ramayana;
+*lokeSu* = in the world; *prachariSyati* = will flourish.
+
+**अनुवादः**
+
+"As long as the mountains and even rivers flourish on the surface of the earth, so long the
+legend of Ramayana will flourish in this world... [1-2-36]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 37b-38a. *tvat* = by you; kR^itaa = authored; *yaavat*
 = as long as; raamasya katha = Rama's legend; *prachariShyati*
 = flourishes; *taavat* = till then; *tvam* = you; *uurdhvam* = heavenward;
@@ -1820,23 +1837,6 @@ word of yours will not be false in this epic... [1-2-35]
 
 "And as long as Rama's legend authored by you flourishes...till then you will flourish in
 heavenly, in netherworlds, and even in my abode, namely Abode of Brahma... [1-2-37]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*36b-37a. girayaH* = mountains; saritaH ca = rivers, even;
-*mahiitale* = on earth's surface; *yaavat* = as long as; *sthaasyanti*
-= there will be; *taavat* = so long; *raamaayaNakathaa* = Rama's, legend - Ramayana;
-*lokeSu* = in the world; *prachariSyati* = will flourish.
-
-**अनुवादः**
-
-"As long as the mountains and even rivers flourish on the surface of the earth, so long the
-legend of Ramayana will flourish in this world... [1-2-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga2/balasans2.htm)
 </details>

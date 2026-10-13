@@ -216,23 +216,6 @@ none.
 
 **पदच्छेदः**
 
-*5. aham* = I; *vedmi* = know; *satya paraakramaan* = you
-are truly brave; *yuddhe* = in the field of battle; *viditvaa* = yet on being aware;
-*raamavikramam* = of that valour of Rama; *bhavatashchaapi* = you too;
-*iikSataH* = look; *anyonyam* = on each other; *tuuSNiikaan* = in silence.
-
-**अनुवादः**
-
-"I know that you are truly brave in the battle-field, yet, on beholding that valiant
-Rama, you too look on each other in silence."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *4. shrutam* = It was heard; *mayaa* = by me; *tat* =
 that; *yat* = which; *uktavantaH* = was told; *bhavantaH* = by you;
 *raamasya* = of Rama's; *taraNam* = crossing; *asya saagarasya* = of this
@@ -242,6 +225,23 @@ ocean; *vikramam* = his prowess; *balapauruSam* = strength and heroism.
 
 "I have heard what you told me about Rama's crossing the ocean, his prowess,
 strength and heroism."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. aham* = I; *vedmi* = know; *satya paraakramaan* = you
+are truly brave; *yuddhe* = in the field of battle; *viditvaa* = yet on being aware;
+*raamavikramam* = of that valour of Rama; *bhavatashchaapi* = you too;
+*iikSataH* = look; *anyonyam* = on each other; *tuuSNiikaan* = in silence.
+
+**अनुवादः**
+
+"I know that you are truly brave in the battle-field, yet, on beholding that valiant
+Rama, you too look on each other in silence."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga35/yuddhasans35.htm)
 </details>

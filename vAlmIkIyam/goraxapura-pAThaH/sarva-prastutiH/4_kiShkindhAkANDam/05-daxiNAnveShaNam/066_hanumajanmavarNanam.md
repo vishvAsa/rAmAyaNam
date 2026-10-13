@@ -419,6 +419,23 @@ _________________
 
 **पदच्छेदः**
 
+*8. punjikasthalaa* = Punjikasthala; *apsarasaam shreSThaa* =
+among apsara-s, nicest one; *vikhyaataa* = renowned one; *anjanaa iti pari khyaataa*
+= [yclept] Anjana, thus, made, known - known as; *apsara* = such apsara; *hareH kesariNaH
+patnii* = of a monkey, of Kesari, wife of.
+
+**अनुवादः**
+
+"Punjikasthala yclept Anjana is the nicest apsara among all apsara-s and she is the
+wife of Kesari, the monkey... [4-66-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *9. taata* = dear boy; *ruupeNaa a pratimaa* = by mien, [she]
 not, paralleled - as an unparalleled apsara; *triSu lokeSu vikhyaataa* = in three, worlds,
 she is distinguished; such as she is; *abhishaapaat* = by a curse; *bhuvi* = on
@@ -430,23 +447,6 @@ earth; *kaama ruupiNii* = by wish, form changer; *kapitve* = with monkey-hood;
 "She who is distinguished for her unparalleled mien in the three worlds, oh, dear
 boy Hanuma, had to take a rebirth on earth as a monkey who can change her form by her wish, owing
 to a curse... [4-66-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*8. punjikasthalaa* = Punjikasthala; *apsarasaam shreSThaa* =
-among apsara-s, nicest one; *vikhyaataa* = renowned one; *anjanaa iti pari khyaataa*
-= [yclept] Anjana, thus, made, known - known as; *apsara* = such apsara; *hareH kesariNaH
-patnii* = of a monkey, of Kesari, wife of.
-
-**अनुवादः**
-
-"Punjikasthala yclept Anjana is the nicest apsara among all apsara-s and she is the
-wife of Kesari, the monkey... [4-66-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>
@@ -1339,24 +1339,6 @@ _________________
 
 **पदच्छेदः**
 
-*31. adya vayam gata praaNaa* = now, we are [I am,] gone, lives [as
-good as dead]; *bhavaan* = you; *saampratam* = presently; *asmaasu* = among
-us; *daakSya vikrama sampannaH* = competence, valiance, rife with; *aparaH kapi raaja
-iva* = the other, monkey's, king [Sugreeva,] like.
-
-**अनुवादः**
-
-"Presently we are as good as dead, and among us presently you are the only one rife
-with competence and valiance, you are the other Sugreeva, the king of monkeys, to us...
-[4-66-31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *29b, 30. bhiima vikramaH* = one who is - frightful, venturer [fist
 fighter - pugilist]; *saH tvam* = such as, you are; *kesariNaH* = Kesari's;
 *kSetra jaH* = arable, born [wife's son, where wife is an arable land, and its crop is his
@@ -1396,6 +1378,24 @@ aurasa vyatiriktaanaam putratve parigraH kalau niShiddhaH | candrika smR^iti art
 yuga dharma madhye parigaNanaat - iti; *And the verse 20 says that Anjana has
 'divined Hanuma...' *pra ja j~ne* = very, well, divined... [tr. discover by guessing, intuition, inspiration, or
 magic]; but not 'delivered' manually through routine labour.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*31. adya vayam gata praaNaa* = now, we are [I am,] gone, lives [as
+good as dead]; *bhavaan* = you; *saampratam* = presently; *asmaasu* = among
+us; *daakSya vikrama sampannaH* = competence, valiance, rife with; *aparaH kapi raaja
+iva* = the other, monkey's, king [Sugreeva,] like.
+
+**अनुवादः**
+
+"Presently we are as good as dead, and among us presently you are the only one rife
+with competence and valiance, you are the other Sugreeva, the king of monkeys, to us...
+[4-66-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm)
 </details>

@@ -432,24 +432,6 @@ _________________
 
 **पदच्छेदः**
 
-*10. Ritavashchaiva* = Theseasons; *pakshhaashcha* = the
-fortnights ; *maasaH* = the months; *samvatsaraaH* = years; *kshhapaaH* =
-nights; *divaanicha* = days; *muhuurtaashcha* = hours ; (each muhurtha containing 48
-minutes being 30 th part of aday); *sadaa* = always; *kurvanta* = may do svasti =
-good; *te* = to you
-
-**अनुवादः**
-
-"May the six seasons, all the fortnights and months, years, nights, days and hours
-always do good to you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8;9. saadhyaashcha* = Saadhyas; *vishvecha* = viswadevas ;
 *marutashcha* = wind-gods; *maharshhayaH* = eminentsages; *svasti* = may
 ensure your happiness; *dhaataa* = The CosmicPerson; *vidhaataacha* = the creator;
@@ -464,6 +446,24 @@ ensure your happiness; *dhaataa* = The CosmicPerson; *vidhaataacha* = the creato
 with eminent sages ensure your happiness. May the cosmic person and the creator bring happiness to
 you. May the Pusha, Bhaga and Aryama (three of the twelve sons of Aditi)and the guardians of the
 spheres with Indra as their Head do good to you."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. Ritavashchaiva* = Theseasons; *pakshhaashcha* = the
+fortnights ; *maasaH* = the months; *samvatsaraaH* = years; *kshhapaaH* =
+nights; *divaanicha* = days; *muhuurtaashcha* = hours ; (each muhurtha containing 48
+minutes being 30 th part of aday); *sadaa* = always; *kurvanta* = may do svasti =
+good; *te* = to you
+
+**अनुवादः**
+
+"May the six seasons, all the fortnights and months, years, nights, days and hours
+always do good to you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>
@@ -1882,24 +1882,6 @@ _________________
 
 **पदच्छेदः**
 
-*41. vatsa* = Oh; son; *arogam* = with health(without disease)
-sarva siddhhartham = with all your purposes accomplished; *pushyaami* = I shall see;
-*tvaam* = you; *punaH* = again; *aagatam* = coming; *ayodhyaam* = to
-Ayodhya; *sukham* = happily ; *susthitam* = well-established; *raaja vartmani*
-= in the path of a king
-
-**अनुवादः**
-
-Oh, son! With all your purposes fulfilled and with good health, I shall see you
-returning to Ayodhya happily and taking over the reins of the kingdom
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *40. yashashvinii* = The illustrious Kausalya; *aanamya* = bent
 Rama lower; *aaghraaya* = smelling muurdhni = his head; *parishhrajva* = embraced;
 *avadat* = spoke thus; *raama* = Rama; *putra* = my son! gachchha = = go;
@@ -1910,6 +1892,24 @@ are.
 
 The illusrious Kausalya embraced Rama, smelling his head by bending it and spoke
 these words "Rama, my son! Go with ease with accomplishment of purpose, as you are."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*41. vatsa* = Oh; son; *arogam* = with health(without disease)
+sarva siddhhartham = with all your purposes accomplished; *pushyaami* = I shall see;
+*tvaam* = you; *punaH* = again; *aagatam* = coming; *ayodhyaam* = to
+Ayodhya; *sukham* = happily ; *susthitam* = well-established; *raaja vartmani*
+= in the path of a king
+
+**अनुवादः**
+
+Oh, son! With all your purposes fulfilled and with good health, I shall see you
+returning to Ayodhya happily and taking over the reins of the kingdom
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga25/ayodhyasans25.htm)
 </details>

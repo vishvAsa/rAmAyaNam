@@ -930,23 +930,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. baahuubhyaam* = with both hands; *parigR^ihya* = catching;
-*shirodharaam* = the enemy's neck; *parivR^itya* = twisted it about; *utpaaTayaamaasa*
-= and tore off; *mahat shiraH* = his huge head; *bhairavam nadatam* = while he was horribly
-roaring.
-
-**अनुवादः**
-
-Then with both hands, he caught the enemy's neck, twisted it about and tore off his huge
-head, while Nikumbha was horribly roaring.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *21. nikShipya* = throwing down; *nikumbham* = Nikumbha; *vegena*
 = by main force; *paramaayattaH* = with a supreme effort; *papaata* = descended on him;
 *utpatya* = leaping; *asya urasi* = on his chest; *niShpi peShacha vegavaan* =
@@ -956,6 +939,23 @@ and pounded it mercilessly.
 
 Throwing down Nikumbha by main force and with a supreme effort, Hanuma descended on him,
 leaped on his chest and pounded it mercilessly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. baahuubhyaam* = with both hands; *parigR^ihya* = catching;
+*shirodharaam* = the enemy's neck; *parivR^itya* = twisted it about; *utpaaTayaamaasa*
+= and tore off; *mahat shiraH* = his huge head; *bhairavam nadatam* = while he was horribly
+roaring.
+
+**अनुवादः**
+
+Then with both hands, he caught the enemy's neck, twisted it about and tore off his huge
+head, while Nikumbha was horribly roaring.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga77/yuddhasans77.htm)
 </details>

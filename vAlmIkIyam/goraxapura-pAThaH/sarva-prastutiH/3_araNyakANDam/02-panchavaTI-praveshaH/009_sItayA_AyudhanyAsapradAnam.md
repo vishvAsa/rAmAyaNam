@@ -184,23 +184,6 @@ performed in a different way...'
 
 **पदच्छेदः**
 
-*4b, 5a. mithyaa vaakyam na te bhuutam* = fallacious, [habit of ] telling, not, to you, it was
-there; *na bhavishyati* = nor, it will be in future; *dharma naashanam* = virtue, ruinous;
-*abhilaSaNam pareSaam striiNaam* = desiring, other's, women; *kutaH* = wherefrom [it will
-be there to you.]
-
-**अनुवादः**
-
-"The habit of telling specious words is not there with you in the past nor it will be there in future,
-oh, Raghava, then wherefrom the virtue-ruining desire for other's women can be there... [3-9-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *3, 4a. atra* = in there, in this world; *kaamajaani vyasanaani triiNi eva* = desire produced,
 self-gratifications, are three, only; *uta bhavanti* = there, they will be; *mithyaa vaakyam
 tu paramakam* = fallacious, utterances, is but, highest [worse]; *para daara abhi gamanam*
@@ -226,6 +209,23 @@ dance and drama, wasteful wandering, are the ten desire. Manu smriti.
 
 Seetha is foretelling the triggering points in the course of Ramayana. The addictions or self-gratifying
 acts are defined as:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4b, 5a. mithyaa vaakyam na te bhuutam* = fallacious, [habit of ] telling, not, to you, it was
+there; *na bhavishyati* = nor, it will be in future; *dharma naashanam* = virtue, ruinous;
+*abhilaSaNam pareSaam striiNaam* = desiring, other's, women; *kutaH* = wherefrom [it will
+be there to you.]
+
+**अनुवादः**
+
+"The habit of telling specious words is not there with you in the past nor it will be there in future,
+oh, Raghava, then wherefrom the virtue-ruining desire for other's women can be there... [3-9-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
@@ -276,22 +276,6 @@ acts are defined as:
 
 **पदच्छेदः**
 
-*7. dharmiSTaH satya sandhaH ca* = righteous, truth, adherent of, also; *pituH nirdesha kaarakaH*
-= father's, orders, obligor; *tvayi dharma ca satyam cha* = in you, is virtue, truth, also;
-*sarvam tvayi pratiSTitam* = all, in you, are established.
-
-**अनुवादः**
-
-"You are conscientious, adherent of truth, and obliging father's orders, and in you virtue and truth,
-nay everything is established in you... [3-9-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 5b, 6. *manuSya indra* = men's, king; *tava* = to you; *etat* = all this [desiring
 other's woman]; *na asti* = in you, not, is there [so far]; *kadaacana na aabhuut* = earlier,
 nor, it was there; Rama; *tathaa manasi api kvachit na vidyate* = like that, [in any corner]
@@ -303,6 +287,22 @@ of your heart, even, not, observable; *nR^iipa atmaja* = oh, king's, son - oh, p
 "Oh, king, earlier this vile desire for other's women is absent in you, nor it is there now, unobserved
 is such a desire in any corner of your heart oh, prince, for you are always interested in your own wife...
 [3-9-5, 6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*7. dharmiSTaH satya sandhaH ca* = righteous, truth, adherent of, also; *pituH nirdesha kaarakaH*
+= father's, orders, obligor; *tvayi dharma ca satyam cha* = in you, is virtue, truth, also;
+*sarvam tvayi pratiSTitam* = all, in you, are established.
+
+**अनुवादः**
+
+"You are conscientious, adherent of truth, and obliging father's orders, and in you virtue and truth,
+nay everything is established in you... [3-9-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
@@ -634,15 +634,14 @@ _________________
 
 **पदच्छेदः**
 
-*14 .tvam hi baaNa dhanusH paaNiH* = you [with,] indeed, arrows, bow; *bhraatraa saha*
-= brother, along with; *vanam gataH* = forest, on entering; *dR^iSTvaa vana caraan* =
-on seeing, forest, ramblers; *sarvaan* = all of them; *kaccit kuryaaH* = something, you
-do isn't it; *shara* = arrow; *vyayam* = depletion.
+*13. viiraH* = oh, brave one; *dandakaan prati gamanam na hi me rocate* = Dandaka, towards,
+going, not, verily, to me, delightful; *kaaraNam tatra vakshyaami* = cause, in that respect,
+I tell; *vadantyaaH shruuyataam mama* = as I tell, you may listen, of my [talk.]
 
 **अनुवादः**
 
-"Indeed on entering the forest along with your brother, and wielding bow and arrows, seeing the forest
-ramblers there, won't you deplete arrows on all of them... [3-9-14]
+"Oh, brave one, your going towards Dandaka forest is not delightful to me, I tell the cause for that
+and listen to it as I tell...[3-9-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>
@@ -656,14 +655,15 @@ ramblers there, won't you deplete arrows on all of them... [3-9-14]
 
 **पदच्छेदः**
 
-*13. viiraH* = oh, brave one; *dandakaan prati gamanam na hi me rocate* = Dandaka, towards,
-going, not, verily, to me, delightful; *kaaraNam tatra vakshyaami* = cause, in that respect,
-I tell; *vadantyaaH shruuyataam mama* = as I tell, you may listen, of my [talk.]
+*14 .tvam hi baaNa dhanusH paaNiH* = you [with,] indeed, arrows, bow; *bhraatraa saha*
+= brother, along with; *vanam gataH* = forest, on entering; *dR^iSTvaa vana caraan* =
+on seeing, forest, ramblers; *sarvaan* = all of them; *kaccit kuryaaH* = something, you
+do isn't it; *shara* = arrow; *vyayam* = depletion.
 
 **अनुवादः**
 
-"Oh, brave one, your going towards Dandaka forest is not delightful to me, I tell the cause for that
-and listen to it as I tell...[3-9-13]
+"Indeed on entering the forest along with your brother, and wielding bow and arrows, seeing the forest
+ramblers there, won't you deplete arrows on all of them... [3-9-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga9/aranyasans9.htm)
 </details>

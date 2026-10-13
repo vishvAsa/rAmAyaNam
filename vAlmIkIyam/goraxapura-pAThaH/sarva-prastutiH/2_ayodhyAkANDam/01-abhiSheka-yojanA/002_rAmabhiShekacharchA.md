@@ -1786,23 +1786,6 @@ father does."
 
 **पदच्छेदः**
 
-*42. yokta shreyasaam* = procurer of benefits; *samyak* = in
-good manner; *na kathaaruchiH* = not interested in talks; *vigR^ihya* = by
-quarreling; *vaktaa* = orator; *vaachaspatiryathaa* = like Brihaspati;
-*uttarottarayuktau cha* = by replies and rejoinders.
-
-**अनुवादः**
-
-"Rama duly procures beneficent deeds. He is not interested in wrangling talks. He is
-an orator like Brihaspati by his replies and rejoinders."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *41. satyavaadii* = speaker of only truth; *maheshvaasaH* = He
 who is having great bow; *vR^iddhasevii* = he who serves elders; *jitendriyaH* = he
 whose senses are defeated; *smita puurvaabhibhaashhii cha* = he who smiles before speaking;
@@ -1813,6 +1796,23 @@ ways.
 
 "Rama speaks only truth. He is a great hero. He serves elders. He kept the senses
 under control. Rama, who talks smilingly, protects righteousness in all ways."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. yokta shreyasaam* = procurer of benefits; *samyak* = in
+good manner; *na kathaaruchiH* = not interested in talks; *vigR^ihya* = by
+quarreling; *vaktaa* = orator; *vaachaspatiryathaa* = like Brihaspati;
+*uttarottarayuktau cha* = by replies and rejoinders.
+
+**अनुवादः**
+
+"Rama duly procures beneficent deeds. He is not interested in wrangling talks. He is
+an orator like Brihaspati by his replies and rejoinders."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga2/ayodhyasans2.htm)
 </details>

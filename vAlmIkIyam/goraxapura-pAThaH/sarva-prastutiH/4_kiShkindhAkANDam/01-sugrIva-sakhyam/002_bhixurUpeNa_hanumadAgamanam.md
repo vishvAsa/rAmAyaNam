@@ -454,6 +454,22 @@ _________________
 
 **पदच्छेदः**
 
+*9. evam eka aayana gataaH* = thus, to one, course, reached out; *plavamaanaaH* = hopping;
+*gireH girim* = mountain, to mountain; *pra kampayantaH vegena* = well, shuddering, by
+[their] hastiness; *giriiNaam shikaharaaNi api* = mountain's, and their peak's, even.
+
+**अनुवादः**
+
+Thus they reached to one course of return, after hopping from one mountain to the other, shuddering
+mountains and even thir peaks by their trample in hastiness. [4-2-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *10. tataH shaakhaa mR^igaaH* = then, tree-branch, animals [monkeys]; *sarve plavamaanaa*
 = all of them, swinging; *mahaa balaaH* = great, in strength; *bhabhanjuH cha* = wrecked
 down, also; *nagaan tatra puSpitaan* = trees, there, flowered; *durgam aashritaan* = forest,
@@ -463,22 +479,6 @@ clumped.
 
 Then all of the tree-branch animals, who are great in their strength, have wrecked down the well-flowered
 trees that are clumped in that forest on that mountain by their swinging. [4- 2- 10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*9. evam eka aayana gataaH* = thus, to one, course, reached out; *plavamaanaaH* = hopping;
-*gireH girim* = mountain, to mountain; *pra kampayantaH vegena* = well, shuddering, by
-[their] hastiness; *giriiNaam shikaharaaNi api* = mountain's, and their peak's, even.
-
-**अनुवादः**
-
-Thus they reached to one course of return, after hopping from one mountain to the other, shuddering
-mountains and even thir peaks by their trample in hastiness. [4-2-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm)
 </details>

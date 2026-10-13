@@ -493,23 +493,6 @@ Janaka spoke to Vishvamitra [1-50-10b, 11a]
 
 **पदच्छेदः**
 
-*12b, 13a. atha* = then; *saH nR^ipatiH* = he, the king [Janaka]; *tatra* = there;
-*samantataH* = all about; *yathaanyaayam* = according to procedure [procedurally];
-*aasaneSu upaviSTaan* = who are sitting in seats; *dR^iSTvaa* = on beholding; *vishvaamitram
-abraviit* = spoke to Vishvamitra.
-
-**अनुवादः**
-
-On beholding all of them seated all about in their respective seats as demanded by procedure king Janaka
-then spoke to Vishvamitra. [1-50-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11b, 12a. janakasya vacaH shrutvaa* = on hearing Janaka's words; *mahaamuniH* = great-sage
 Vishvamitra; *niSasaada* = sat down [took his seat]; *purodhaa R^itvijaH caiva* = [royal]
 priest Shataananda, administers of Vedic-ritual, Ritvik-s, also thus; *mantribhiH saha* = along with ministers
@@ -520,6 +503,23 @@ priest Shataananda, administers of Vedic-ritual, Ritvik-s, also thus; *mantribhi
 On hearing the words of Janaka that great-sage Vishvamitra took his seat, and king Janaka also took
 seat along with his royal priest Shataananda, and the administrators of that Vedic-ritual, namely Ritvik-s,
 and along with his ministers. [1-50-11b, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12b, 13a. atha* = then; *saH nR^ipatiH* = he, the king [Janaka]; *tatra* = there;
+*samantataH* = all about; *yathaanyaayam* = according to procedure [procedurally];
+*aasaneSu upaviSTaan* = who are sitting in seats; *dR^iSTvaa* = on beholding; *vishvaamitram
+abraviit* = spoke to Vishvamitra.
+
+**अनुवादः**
+
+On beholding all of them seated all about in their respective seats as demanded by procedure king Janaka
+then spoke to Vishvamitra. [1-50-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>
@@ -767,33 +767,6 @@ _________________
 
 **पदच्छेदः**
 
-*20, 21. mahaamune* = oh great-saint; *varaayudhadharau viirau* = brandishing best weapons,
-valiant ones; *kasya putrau* = whose, sons are they; *candrasuuryau ambaram
-iva* = as with Moon, Sun, [brightening the] sky; *imam desham bhuuSayantau* = they are embellishing
-this province; *pramaaNengitaceSTitaiH* = by postural [language] facial [language,]
-and by body [language]; *parasparasya sadR^ishau* = clonal to each to each; *kaakapakSadharau*
-= wearing crow wing [similar jet-black curls] ; *viirau* = about valorous ones; *tattvataH
-shrotum icChaami* = I wish to listen in actuality.
-
-**अनुवादः**
-
-Oh, great-saint, whose sons are these two valiant youngsters who are brandishing best weapons? They
-are embellishing this province as the Sun and Moon doeth the sky. Each to each they are clonal by postural-language,
-by facial-language and by body language. They appear valorous but boyish in their appearance, as their
-curls are still jet-black like crow-wings. Thus, whether they are immature by age though mature by their
-valour or so, I wish to listen about them in actuality. [1-50-20, 21]
-
-**टिप्पनी**
-
-Import of verses is the same as at 1-48-5, 6, with a little difference in *anvaya* , parsing.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 17b, 18, 19. *mune* = oh saint; *te bhadram* = you, be safe; *devatulyaparaakramau*
 = matching with god Vishnu in valour; *gajasimhagatii* = with strides of [like audacious] elephant, [like
 arrogant] lion; *viirau* = two valorous ones; *shaarduulavR^iSabhopamau*= in similitude to
@@ -820,6 +793,33 @@ they? [1-50-17b, 18, 19]
 **टिप्पनी**
 
 These foots are the same as king Sumati's dialogue at 1-48-2, 3, 4 including *anvaya* , parsing.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*20, 21. mahaamune* = oh great-saint; *varaayudhadharau viirau* = brandishing best weapons,
+valiant ones; *kasya putrau* = whose, sons are they; *candrasuuryau ambaram
+iva* = as with Moon, Sun, [brightening the] sky; *imam desham bhuuSayantau* = they are embellishing
+this province; *pramaaNengitaceSTitaiH* = by postural [language] facial [language,]
+and by body [language]; *parasparasya sadR^ishau* = clonal to each to each; *kaakapakSadharau*
+= wearing crow wing [similar jet-black curls] ; *viirau* = about valorous ones; *tattvataH
+shrotum icChaami* = I wish to listen in actuality.
+
+**अनुवादः**
+
+Oh, great-saint, whose sons are these two valiant youngsters who are brandishing best weapons? They
+are embellishing this province as the Sun and Moon doeth the sky. Each to each they are clonal by postural-language,
+by facial-language and by body language. They appear valorous but boyish in their appearance, as their
+curls are still jet-black like crow-wings. Thus, whether they are immature by age though mature by their
+valour or so, I wish to listen about them in actuality. [1-50-20, 21]
+
+**टिप्पनी**
+
+Import of verses is the same as at 1-48-5, 6, with a little difference in *anvaya* , parsing.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga50/balasans50.htm)
 </details>

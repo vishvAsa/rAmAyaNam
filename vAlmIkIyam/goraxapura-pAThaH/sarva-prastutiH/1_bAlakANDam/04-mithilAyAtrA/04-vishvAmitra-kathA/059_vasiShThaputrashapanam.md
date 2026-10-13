@@ -193,6 +193,22 @@ then you can perform the ritual self-composedly. [1-59-3]
 
 **पदच्छेदः**
 
+*4. gurushaapakR^itam* = made by curse of mentor; *yat idam ruupam* = which, this, form;
+*tvayi vartate* = is there in you - which you got by curse; *anena ruupeNa saha* = along with
+this form; *sashariiraH gamiSyasi* = you can go with body - to heaven.
+
+**अनुवादः**
+
+You can go to heaven with this body of yours, as well as with the form which is deformed by the curse
+of mentor Vashishta through his sons. [1-59-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 5. *nareshvara* = oh subject's king; *yaH tvam* = which, you; *sharaNyam kaushikam
 aagamya* = having approached [all] sheltering Kaushika [to Vishvamitra] ; *sharaNaagataH*
 = you came for shelter; such a one like you; *tava* = to you; *svargam hastapraaptam*
@@ -202,22 +218,6 @@ aagamya* = having approached [all] sheltering Kaushika [to Vishvamitra] ; *shara
 
 'I deem that heaven is handy to you, oh, king of subjects, as you have approached the all-sheltering
 Vishvamitra and sought shelter.' Thus Vishvamitra solaced Trishanku. [1-59-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*4. gurushaapakR^itam* = made by curse of mentor; *yat idam ruupam* = which, this, form;
-*tvayi vartate* = is there in you - which you got by curse; *anena ruupeNa saha* = along with
-this form; *sashariiraH gamiSyasi* = you can go with body - to heaven.
-
-**अनुवादः**
-
-You can go to heaven with this body of yours, as well as with the form which is deformed by the curse
-of mentor Vashishta through his sons. [1-59-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
@@ -399,22 +399,6 @@ _________________
 
 **पदच्छेदः**
 
-*10b, 11a. te shiSyaaH sarve samaagamya* = they, all of disciples on returning; *jvalitatejasam
-munim* = to the fulgently resplendent sage; *sarveSaam brahmavaadinaam* = of all,
-of Vedic scholars; *vacanam* = words [spoken by scholars]; *uucuH* = said - reported.
-
-**अनुवादः**
-
-All of the disciples have returned to the fulgently resplendent sage Vishvamitra, and reported the
-words spoken by all the Vedic scholars. [1-59-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *9b, 10a. tasya tat vacanam shrutvaa* = on listening his [of Vishvamitra] that word; *tat
 aaj~nayaa* = by that, order; *dishaH jagmuH* = [disciples] went to [all] directions; *
 atha* = then; *sarvebhyaH deshebhyaH* = from all, provinces; *brahmavaadinaH* = all,
@@ -424,6 +408,22 @@ advocators of [Vedic scholars] Brahma; *aajagmuH* = started to arrive.
 
 On listening that word of Vishvamitra his disciples went to all directions inviting all by his order,
 and then the Vedic scholars started to arrive from all provinces. [1-59-9 b, 10a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10b, 11a. te shiSyaaH sarve samaagamya* = they, all of disciples on returning; *jvalitatejasam
+munim* = to the fulgently resplendent sage; *sarveSaam brahmavaadinaam* = of all,
+of Vedic scholars; *vacanam* = words [spoken by scholars]; *uucuH* = said - reported.
+
+**अनुवादः**
+
+All of the disciples have returned to the fulgently resplendent sage Vishvamitra, and reported the
+words spoken by all the Vedic scholars. [1-59-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
@@ -552,22 +552,6 @@ sage, and what all they have said that you may please listen. [1-59-12b, 13a]
 
 **पदच्छेदः**
 
-*14b, 15a. vishvaamitreNa paalitaaH* = [even though] ruled over [rather, embarrassed] by Vishvamitra;
-*mahaatmaanaH braahmaNaaH vaa* = great-souled [sages,] Brahmans, either; *caNDaalabhojanam
-bhuktvaa* = by partaking of profaner's food; *svargam katham gamiSyanti* = how they go to heavens.
-
-**अनुवादः**
-
-Though the Brahmans or the high-souled sages are now embarrassed by Vishvamitra, how can they go
-to heaven even after their demise, partaking of the food of a profaner? [1-59-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *13b, 14a. yasya* = to whom; *kSatriyaH yaajakaH* = a Kshatriya, officiator of ritual;
 *visheSataH caNDaalasya* = especially, of a profaner; *tasya sadasi* = in such a, ritual-assembly
 [of a profaner] ; *surarSayaH* = gods, sages; *haviH katham bhoktaaraH* =
@@ -584,6 +568,22 @@ of Vashishta exclaimed. [1-59-13b, 14a]
 One who is uninitiated into any esoteric knowledge is venturing to perform a Vedic ritual and a king,
 who can perform a ritual, but who cannot officiate ritual or teach Veda-s like a Brahman, is officiating
 it. Thus both of these, officiator and performer have no Vedic sanctity.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14b, 15a. vishvaamitreNa paalitaaH* = [even though] ruled over [rather, embarrassed] by Vishvamitra;
+*mahaatmaanaH braahmaNaaH vaa* = great-souled [sages,] Brahmans, either; *caNDaalabhojanam
+bhuktvaa* = by partaking of profaner's food; *svargam katham gamiSyanti* = how they go to heavens.
+
+**अनुवादः**
+
+Though the Brahmans or the high-souled sages are now embarrassed by Vishvamitra, how can they go
+to heaven even after their demise, partaking of the food of a profaner? [1-59-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
@@ -772,23 +772,6 @@ merit, that irreverent person will be reduced to ashes, and there is no doubt ab
 
 **पदच्छेदः**
 
-*19b, 20a. nirghR^iNaaH* = ruthless; *muSTikaa naama* = Mushtika, named
-- sect - taking birth in that sect; *shvamaamsaniyataahaaraaH* = always [staple] dog flesh
-as food - eating it; *vikR^itaaH ca viruupaaH ca* = disfigured, also, deformed, also; *imaan
-lokaan anucarantu* = they wander about these [mortal] worlds [in them].
-
-**अनुवादः**
-
-Those who reprove me will be wandering about these mortal worlds on taking birth as disfigured and
-deformed beings in the ruthless sect of Mustika-s that always feed on dog's flesh. [1-59-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *18b, 19a. te* = they; *adya kaalapaashena* = now, by Time's lasso; *vaivasvatakSayam
 niitaa* = dragged to the house of Yama [the Terminator's] ; *saptajaatishataani eva* =
 for seven hundred births to come; *sarvashaH* = anywise - come what may;
@@ -798,6 +781,23 @@ for seven hundred births to come; *sarvashaH* = anywise - come what may;
 
 Now they will be dragged by the lasso of Time to the House of Yama, the Terminator, and from now
 to seven hundred births to come they take birth as devourers of corpses, come what may. [1-59-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*19b, 20a. nirghR^iNaaH* = ruthless; *muSTikaa naama* = Mushtika, named
+- sect - taking birth in that sect; *shvamaamsaniyataahaaraaH* = always [staple] dog flesh
+as food - eating it; *vikR^itaaH ca viruupaaH ca* = disfigured, also, deformed, also; *imaan
+lokaan anucarantu* = they wander about these [mortal] worlds [in them].
+
+**अनुवादः**
+
+Those who reprove me will be wandering about these mortal worlds on taking birth as disfigured and
+deformed beings in the ruthless sect of Mustika-s that always feed on dog's flesh. [1-59-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>
@@ -837,6 +837,22 @@ to seven hundred births to come they take birth as devourers of corpses, come wh
 
 **पदच्छेदः**
 
+20b, 21a. *durbuddhiH mahodayaH ca* = wrong headed, Mahodaya, also; *aduuSyam* = not
+reproachable one; *maam* = me; *aduuSayat hi* = he reproached, indeed; *sarvalokeSu
+duuSitaH* = reproached by all world; *niSaadatvam gamiSyati* = obtains tribal-hood.
+
+**अनुवादः**
+
+That wrong-headed Mahodaya also reproached me, who am irreproachable on my part, hence he gets into
+tribal-hood and becomes a reproachable tribal for the entire world. [1-59-20b, 21a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *21b, 22a. mama krodhaat* = by my, fury; *praaNaatipaatanirataH* = occupied with out falling
 [taking out, murderous bent] of lives; *niranukroshataam [nir-anu-kroshataam] gataH* = on obtaining
 utter barbarity; *diirghakaalam* = for a long time; *durgatim vartayiSyati*
@@ -846,22 +862,6 @@ utter barbarity; *diirghakaalam* = for a long time; *durgatim vartayiSyati*
 
 By my fury he obtains an utter barbarity and he will be occupied with a murderous bent, and he cycles
 through a worst possible living for a long time. [1-59-21b, 22a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-20b, 21a. *durbuddhiH mahodayaH ca* = wrong headed, Mahodaya, also; *aduuSyam* = not
-reproachable one; *maam* = me; *aduuSayat hi* = he reproached, indeed; *sarvalokeSu
-duuSitaH* = reproached by all world; *niSaadatvam gamiSyati* = obtains tribal-hood.
-
-**अनुवादः**
-
-That wrong-headed Mahodaya also reproached me, who am irreproachable on my part, hence he gets into
-tribal-hood and becomes a reproachable tribal for the entire world. [1-59-20b, 21a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga59/balasans59.htm)
 </details>

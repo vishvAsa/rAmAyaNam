@@ -173,6 +173,23 @@ _________________
 
 **पदच्छेदः**
 
+*4. shrutvaa* = hearing; *raavaNasya vachah* = Ravana's words;
+*makaraakShaH* = Makaraksha; *kharaatmajaH* = the son of Khara; *shuuramaanii*
+= thinking himself as a hero; *hR^iShTaH* = was please; *abraviit* = and spoke;
+*nishaacharam* = to Ravana; *baaDham iti* = that (he would do it) certainly.
+
+**अनुवादः**
+
+Hearing Ravana's words, Makaraksha, the son of Khara, thinking himself as a hero,
+was rejoiced and assured Ravana that he would do it certainly as commanded.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *5. abhivaadya* = having respectfully saluted; *pradakShiNam
 kR^itvaa chaapi* = even by performing circumambulation; *balii* = the mighty;
 *saH* = Makaraksha; *aaJNayaa dashagriivam* = by the orders of Ravana;
@@ -183,23 +200,6 @@ Ravana).
 
 Having respectfully saluted, even by performing circumambulation, the mighty
 Makaraksha, by the orders of Ravana, came forth from these shining palace of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*4. shrutvaa* = hearing; *raavaNasya vachah* = Ravana's words;
-*makaraakShaH* = Makaraksha; *kharaatmajaH* = the son of Khara; *shuuramaanii*
-= thinking himself as a hero; *hR^iShTaH* = was please; *abraviit* = and spoke;
-*nishaacharam* = to Ravana; *baaDham iti* = that (he would do it) certainly.
-
-**अनुवादः**
-
-Hearing Ravana's words, Makaraksha, the son of Khara, thinking himself as a hero,
-was rejoiced and assured Ravana that he would do it certainly as commanded.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga78/yuddhasans78.htm)
 </details>

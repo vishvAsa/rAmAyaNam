@@ -785,6 +785,22 @@ advance, along with his ministers, to meet Rama."
 
 **पदच्छेदः**
 
+*21. medinii* = the earth; *samcha chaaleva* = was as it were
+shaking; *ashvaanaam khura shabdena* = with the noise of rims of chariot-wheels;
+*shaN^khadundubhighoSheNa* = and by the tumults of couches and kettle-drums.
+
+**अनुवादः**
+
+The earth seemed, as it were, shaking with the sound of horse-hoofs the rattling of
+rims of chariot-wheels and by the tumults of couches and kettle-drums.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *22. tat* = that; *kR^itsnam* = entire; *nagaram* = city
 (of Ayodhya); *upaagamat* = reached; *nandigraamam* = Nandigrama; *samiikShya*
 = glancing round; *bharataH* = Bharata; *uvaacha* = spoke; *vaakyam* = the
@@ -794,22 +810,6 @@ following words; *pavanaatmajam* = to Hanuma.
 
 The entire City of Ayodhya literally reached Nandigrama. Glancing round, Bharata
 spoke as follows to Hanuma.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*21. medinii* = the earth; *samcha chaaleva* = was as it were
-shaking; *ashvaanaam khura shabdena* = with the noise of rims of chariot-wheels;
-*shaN^khadundubhighoSheNa* = and by the tumults of couches and kettle-drums.
-
-**अनुवादः**
-
-The earth seemed, as it were, shaking with the sound of horse-hoofs the rattling of
-rims of chariot-wheels and by the tumults of couches and kettle-drums.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
@@ -1163,24 +1163,6 @@ architect of gods, who has been referred to here as Brahma by virtue of his crea
 
 **पदच्छेदः**
 
-*31. etasmin* = in this aerial car are; *viirau* = the valiant;
-*raaghavau* = Rama and Lakshmana; *bhraatarau* = the brothers; *vaidehyaa
-saha* = along with Seetha; *mahaatejaaH* = the immensely brilliant;
-*sugriivashcha* = Sugreeva and; *vibhiiShaNashcha* = Vibhishana; *raakShasaH*
-= the demon.
-
-**अनुवादः**
-
-"In the same aerial car are the valiant Rama and Lakshmana, the brothers, along with
-Seetha, the immensely brilliant Sugreeva and Vibhishana the demon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *30. etat* = this; *divyam* = wonderful; *vimaanam* =
 aerial car; *taruNaaditya samkaasham* = and with a shining of the rising sun; *raama
 vaahanam* = is the vehicle for Rama; *labdham* = and obtained; *mahaatmanaa* = by
@@ -1194,6 +1176,24 @@ the lord of creation.
 "This wonderful aerial car, with a speed of thought, which is carrying the great
 souled Rama, and shines brightly like the rising sun, belongs to Kubera, the lord of riches, by the
 grace of brahma, the lord of creation. (Who bestowed it on him)"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. etasmin* = in this aerial car are; *viirau* = the valiant;
+*raaghavau* = Rama and Lakshmana; *bhraatarau* = the brothers; *vaidehyaa
+saha* = along with Seetha; *mahaatejaaH* = the immensely brilliant;
+*sugriivashcha* = Sugreeva and; *vibhiiShaNashcha* = Vibhishana; *raakShasaH*
+= the demon.
+
+**अनुवादः**
+
+"In the same aerial car are the valiant Rama and Lakshmana, the brothers, along with
+Seetha, the immensely brilliant Sugreeva and Vibhishana the demon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
@@ -1753,6 +1753,23 @@ _________________
 
 **पदच्छेदः**
 
+*43. tadaa* = then; *te vaanaraaH* = those monkeys; *kaama
+ruupiNaH* = who can change their format will; *kR^itvaa maanuSham ruupam* = assumed the
+form of humans; *prahR^iShTaaH* = and rejoicingly; *paryapR^ichchhan* = asked;
+*kushalam* = about the welfare; *bharatam* = of Bharata.
+
+**अनुवादः**
+
+Then, those monkeys, who can change their form at will, assumed the form of humans
+and rejoicingly asked about the welfare of Bharata.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *44. atha* = thereupon; *mahaatejaaH* = the immensely brilliant;
 *bharataH* = Bharata; *raajaputraH* = the son of Dasaratha; *dharmiiNaam
 varaH* = and the foremost among the virtuous; *pariShvajya* = after embracing;
@@ -1763,23 +1780,6 @@ spoke to him (as follows):
 
 Thereupon, the immensely brilliant Bharata, the son of Dasaratha and the foremost
 among the virtuous, after embracing Sugreeva the excellent monkey, spoke to him (as follows):
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*43. tadaa* = then; *te vaanaraaH* = those monkeys; *kaama
-ruupiNaH* = who can change their format will; *kR^itvaa maanuSham ruupam* = assumed the
-form of humans; *prahR^iShTaaH* = and rejoicingly; *paryapR^ichchhan* = asked;
-*kushalam* = about the welfare; *bharatam* = of Bharata.
-
-**अनुवादः**
-
-Then, those monkeys, who can change their form at will, assumed the form of humans
-and rejoicingly asked about the welfare of Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>
@@ -2297,6 +2297,23 @@ that I see you, its king, come back to Ayodhya."
 
 **पदच्छेदः**
 
+*55. bhavaan* = you; *avekShataam* = review; *kosham* =
+your treasury; *koShThaagaaram* = granary; *gR^iham* = palace; *balam* = and
+army; *bhavataH tejasaa* = by virtue of the power of your spirit; *sarvam* =
+everything; *kR^itam dashaguNam* = has been enhanced tenfold; *mayaa* = by me.
+
+**अनुवादः**
+
+"You review your treasury, granary, palace of your spirit, everything has been
+enhanced tenfold by me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *56. dR^iShTvaa* = seeing; *tam bharatam* = that Bharata;
 *tathaa* = thus; *bruvaaNam* = speaking; *bhraatR^ivatsalam* = with affection
 towards his brother; *vibhiiShaNah cha* = Vibhishana; *raakShasaH* = the demon;
@@ -2307,23 +2324,6 @@ tears.
 
 Seeing that Bharata, speaking thus with affection with his brother, Vibhishana the
 demon and the monkeys shed their tears.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*55. bhavaan* = you; *avekShataam* = review; *kosham* =
-your treasury; *koShThaagaaram* = granary; *gR^iham* = palace; *balam* = and
-army; *bhavataH tejasaa* = by virtue of the power of your spirit; *sarvam* =
-everything; *kR^itam dashaguNam* = has been enhanced tenfold; *mayaa* = by me.
-
-**अनुवादः**
-
-"You review your treasury, granary, palace of your spirit, everything has been
-enhanced tenfold by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga127/yuddhasans127.htm)
 </details>

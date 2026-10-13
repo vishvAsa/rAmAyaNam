@@ -271,6 +271,25 @@ _________________
 
 **पदच्छेदः**
 
+*5b, 6a. hari vaagurayaa vyaaptaam* = monkey's, by snares, she who is
+spread out [Kishkindha]; *tapta kaancana toraNaam* = burnt [purified] golden, [decorated
+with] having arch-ways; *dhvaja yantra aaDhyaam* = flags, machinery, impregnated with;
+*vaalinaH puriim kiSkindhaam praaptaaH sma* = Vali's, city, at Kishkindha, arrived, we
+are.
+
+**अनुवादः**
+
+" She whose arch-way is decorated in gold, who is spread out with snares of monkeys,
+and who is impregnated with flags and machinery, we arrived at such city of Vali, Kishkindha.
+[4-14-5b, 6a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *6b, 7a. viira* = oh, brave one; *tvayaa vaali vadhe* = by you,
 in Vali's, killing; *puraa yaa pratij~naa kR^itaa* = earlier, which, promise, is made;
 *taam* = that; *aagataH kaalaH lataam iva* = on arrival, of time, creeper-plant,
@@ -289,25 +308,6 @@ that Sugreeva is like the slender leafless shoot of a climbing plant that requir
 tree to hang on and flourish. It is said *lata, kavita, vanita na shobhate aashrayam vinaa*
 climbing plant, poetry, or an young girl do not prosper without patronage. So Sugreeva is
 submitting himself, as a *kainkarya* to the patronage of Rama, like Lakshmana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*5b, 6a. hari vaagurayaa vyaaptaam* = monkey's, by snares, she who is
-spread out [Kishkindha]; *tapta kaancana toraNaam* = burnt [purified] golden, [decorated
-with] having arch-ways; *dhvaja yantra aaDhyaam* = flags, machinery, impregnated with;
-*vaalinaH puriim kiSkindhaam praaptaaH sma* = Vali's, city, at Kishkindha, arrived, we
-are.
-
-**अनुवादः**
-
-" She whose arch-way is decorated in gold, who is spread out with snares of monkeys,
-and who is impregnated with flags and machinery, we arrived at such city of Vali, Kishkindha.
-[4-14-5b, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
@@ -409,6 +409,23 @@ _________________
 
 **पदच्छेदः**
 
+*8b, 9a. [yaa* = by which]; *eSaa lakshmaNena samutpaaTya* =
+this, by Lakshmana, on plucking out; *tava kaNThe kR^itaa* = at neck, of yours, is made -
+what for it is garlanded; *anayaa gaja saahvayaa* = by this, gaja-flower, creeper-garland;
+*tvam kR^ita abhij~naana cihnaH* = you are, made, identification, is marked.
+
+**अनुवादः**
+
+"By which creeper-garland that Lakshmana plucked out and garlanded you, by this
+creeper-garland of gaja-flowers alone your identification is marked. [4-14-8b, 9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *9b, 10a. viira* = oh, brave one; *kaNTha saktayaa latayaa* = at
 neck, laced, by creeper-garland; *aakaashe* = in sky; *vipariitaH* = entwined / in
 night; *suuryaH iva* = sun, like / moon, like; *adhikam sobhaase* = impressively, you
@@ -458,23 +475,6 @@ Now that Sugreeva is appearing like the blazing Sun with garland of night stars,
 for he is wearing the gaja-flower garland, Rama foresees the destruction of the present lord of
 Kishkindha, namely Vali. Further Sugreeva is from Lord Sun's lineage. Govindaraja and Maheshvara
 Tiiratha agree on the last rendering.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*8b, 9a. [yaa* = by which]; *eSaa lakshmaNena samutpaaTya* =
-this, by Lakshmana, on plucking out; *tava kaNThe kR^itaa* = at neck, of yours, is made -
-what for it is garlanded; *anayaa gaja saahvayaa* = by this, gaja-flower, creeper-garland;
-*tvam kR^ita abhij~naana cihnaH* = you are, made, identification, is marked.
-
-**अनुवादः**
-
-"By which creeper-garland that Lakshmana plucked out and garlanded you, by this
-creeper-garland of gaja-flowers alone your identification is marked. [4-14-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>
@@ -706,22 +706,6 @@ _________________
 
 **पदच्छेदः**
 
-*15b, 16a. shatakratuH varSeNa prasuutam kalama kSetre iva* = Indra
-[fructifies,] by rain, sprouted, rice, field, as with; *pratij~naam saphalaam kariSyaami* =
-promise, fructify - will make happen, I will do; *jahi sambhramam* = kill, perplexity.
-
-**अनुवादः**
-
-"As Indra fructifies the sprouted paddy field I will make happen my promise, hence
-leave off your perplexity." [4-14-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14b, 15a. kR^icChre ciram tiSThataa api* = in distress, for a long
 time, situated in - involved in, even if; *dharma lobha pariitena* = rectitude, in the
 interest of, bound by - bound by the anxiousness to implement righteousness; *me anR^itam na
@@ -733,6 +717,22 @@ anywise, not, also, going to be said.
 "Just bound by the anxiousness to implement righteousness untruth is unsaid by me
 earlier though I am involved in distresses for a long time, and hereafter it will not be said in
 anywise. [4-14-14b, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15b, 16a. shatakratuH varSeNa prasuutam kalama kSetre iva* = Indra
+[fructifies,] by rain, sprouted, rice, field, as with; *pratij~naam saphalaam kariSyaami* =
+promise, fructify - will make happen, I will do; *jahi sambhramam* = kill, perplexity.
+
+**अनुवादः**
+
+"As Indra fructifies the sprouted paddy field I will make happen my promise, hence
+leave off your perplexity." [4-14-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga14/kishkindhasans14.htm)
 </details>

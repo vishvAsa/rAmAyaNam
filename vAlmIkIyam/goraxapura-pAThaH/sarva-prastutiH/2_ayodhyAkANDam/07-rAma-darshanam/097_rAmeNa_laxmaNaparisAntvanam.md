@@ -1284,23 +1284,6 @@ _________________
 
 **पदच्छेदः**
 
-28. avatiirya desending; *tasmaat* = fromt hat; *saalaagraat* =
-top of Sala tree; *saH lakSmanaH* = that ; *samitinjayaH* = the victorious in battle;
-*bhuutvaa* = becoming; *praaNjaliH* = one with joined palms; *tasthau* =
-stood; *paarshvataH* = by the side; *raamasya* = of Rama.
-
-**अनुवादः**
-
-Descending from the top of that Sala tree, Lakshmana the victorious in battle, with
-joined palms, stood by the side of Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. lakSmaNa* = O; Lakshmana !; *tvam* = you; *avaroha*
 = get down; *vR^ikSaagraat* = from the top of the tree; *kuru* = act;
 *madvachaH* = on my word; *itiiva* = thus; *uvaacha ha* = spoke;
@@ -1311,6 +1294,23 @@ joined palms, stood by the side of Rama.
 
 "O, Lakshmana! You get down from the top of the tree. Act on my word." Thus spoke
 the virtuous Rama to that Lakshmana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+28. avatiirya desending; *tasmaat* = fromt hat; *saalaagraat* =
+top of Sala tree; *saH lakSmanaH* = that ; *samitinjayaH* = the victorious in battle;
+*bhuutvaa* = becoming; *praaNjaliH* = one with joined palms; *tasthau* =
+stood; *paarshvataH* = by the side; *raamasya* = of Rama.
+
+**अनुवादः**
+
+Descending from the top of that Sala tree, Lakshmana the victorious in battle, with
+joined palms, stood by the side of Rama.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga97/ayodhyasans97.htm)
 </details>

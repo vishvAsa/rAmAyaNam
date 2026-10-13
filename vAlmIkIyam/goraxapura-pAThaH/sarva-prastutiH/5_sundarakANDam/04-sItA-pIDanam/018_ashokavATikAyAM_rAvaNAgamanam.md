@@ -321,6 +321,28 @@ _________________
 
 **पदच्छेदः**
 
+*6. yuktaH* = together with; *sarvaabharaNaiH* = all ornaments; *bibhrat*
+= wearing; *anuttamaam shriyam* = great glory; *saH* = that Ravana; (entered) that Ashoka garden;
+*jushhTaam* = having; *bahubhiH nagaiH* = a lot of trees; *sarvapushhpaphalopagaiH* = with
+all fruits and flowers.
+
+**अनुवादः**
+
+Together with all ornaments wearing great glory that Ravana entered that Ashoka garden having a
+lot of trees with all fruits and flowers.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+ऒडनॆये आभरणगळॆल्लवन्नु तॊट्टुकॊण्डु, नयन मनोहरवागि सिङ्गरिसिकॊण्डु परमश्रेष्ठवाद कान्तियिन्द राराजिसुत्ता, फल-पुष्पगळिन्द समृद्धवागिद्द अनेक वृक्षगळिन्द कूडिद्द आ अशोकवनवु नाना विधवाद सरोवरगळिन्द समलङ्कृतवागिद्द, नानाविधवाद पुष्पगळिन्द शोभिसुत्तिद्द, निरन्तर मदिसिद पक्षिगळ कलकलनिनाददिन्द अद्भुतवागिद्दु चित्रविचित्रवागिद्द, कण्णुगळिगॆ हब्बवन्नुण्टुमाडुत्तिद्द विध-विधवाद क्रीडामृगगळिन्द समावृतवागिद्द, मणिमय, मत्तु काञ्चनमय तोरणगळिन्द अलङ्कृतवाद, विशालवाद वीथिगळन्नु नोडुत्ता रावणनु मुन्दरिदनु. हलवु बगॆय जिङ्कॆगळ गुम्पुगळु अलल्लि शोभिसुत्तिद्दवु. पक्ववागि कॆळक्कॆबिद्द हण्णुगळिन्द आ भूप्रदेशवु मुच्चिहोगिद्दितु. दट्टवागिद्द वृक्षगळिन्द कूडिद्द आ अशोकवनवन्नु प्रवेशिसिदनु.॥6-9॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *7. (Ravana entered that Ashoka garden) paramaadbhutaam* = a great wonderful one;
 *vR^itaam* = together; *pushhkariNiibhiH* = with lakes; *naanaa pushhpopashobitaam* = shone
 by various flowers; *vichitraam* = brilliant;vihagaiH = with birds; *sadaa madaiH* = always in rut.
@@ -331,11 +353,6 @@ Ravana entered that great wonderful Ashoka garden together with lakes, shone by 
 brilliant with birds always in rut.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-ऒडनॆये आभरणगळॆल्लवन्नु तॊट्टुकॊण्डु, नयन मनोहरवागि सिङ्गरिसिकॊण्डु परमश्रेष्ठवाद कान्तियिन्द राराजिसुत्ता, फल-पुष्पगळिन्द समृद्धवागिद्द अनेक वृक्षगळिन्द कूडिद्द आ अशोकवनवु नाना विधवाद सरोवरगळिन्द समलङ्कृतवागिद्द, नानाविधवाद पुष्पगळिन्द शोभिसुत्तिद्द, निरन्तर मदिसिद पक्षिगळ कलकलनिनाददिन्द अद्भुतवागिद्दु चित्रविचित्रवागिद्द, कण्णुगळिगॆ हब्बवन्नुण्टुमाडुत्तिद्द विध-विधवाद क्रीडामृगगळिन्द समावृतवागिद्द, मणिमय, मत्तु काञ्चनमय तोरणगळिन्द अलङ्कृतवाद, विशालवाद वीथिगळन्नु नोडुत्ता रावणनु मुन्दरिदनु. हलवु बगॆय जिङ्कॆगळ गुम्पुगळु अलल्लि शोभिसुत्तिद्दवु. पक्ववागि कॆळक्कॆबिद्द हण्णुगळिन्द आ भूप्रदेशवु मुच्चिहोगिद्दितु. दट्टवागिद्द वृक्षगळिन्द कूडिद्द आ अशोकवनवन्नु प्रवेशिसिदनु.॥6-9॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -352,23 +369,6 @@ vR^itaam* = together; *prapatitaiH phalaiH* = with fallen fruits;samtatadrumaam 
 
 Ravana entered Ashoka garden seeing archways of gold and gems crowded by artificial deer of various
 kinds ravishing eyes and mind, filled with animals of various kinds, together with fallen fruits and full of trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*6. yuktaH* = together with; *sarvaabharaNaiH* = all ornaments; *bibhrat*
-= wearing; *anuttamaam shriyam* = great glory; *saH* = that Ravana; (entered) that Ashoka garden;
-*jushhTaam* = having; *bahubhiH nagaiH* = a lot of trees; *sarvapushhpaphalopagaiH* = with
-all fruits and flowers.
-
-**अनुवादः**
-
-Together with all ornaments wearing great glory that Ravana entered that Ashoka garden having a
-lot of trees with all fruits and flowers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
@@ -1259,14 +1259,18 @@ _________________
 
 **पदच्छेदः**
 
-*30. maarutaatmajaH* = The son of god of wind; *vaanaraH* = Vanara; *hanumaan*
-= Hanuma; *mahaa tejaaH* = of great brilliance; *ayam* = this; *mahaabaahuH* = long armed
-one; *raavaNaH* = is Ravana; *iti samchintya* = thinking thus; *avaplutaH* = jumped down.
+28; *29. saH raakshsaadhipaH* = that king of Rakshasas; *kshiibaH* = who was
+intoxicated; *vichitraabharaNaH* = with wonderful ornaments; *saN^kukarNaH* = with pointed ears;
+*vishravasaH putraH* = son of Visravasa; *chandramaaH iva* = was like the moon; *taaraabhiH*
+= together with stars; *vR^itaH* = together; *paramanaariibhiH* = with best women; *dR^ishhtaH*
+= was seen; *tena* = by that Hanuma; *mahaa kapiH* = that great Vanara; *mahaa tejaaH* =
+with great brilliance; *dadarsha* = saw; *tam* = that Ravana; *tejovantam* = with glory.
 
 **अनुवादः**
 
-The son of god of wind Vanara Hanuma of great brilliance thinking thus "This long armed one is
-Ravana", jumped down.
+That king of Rakshasas who was intoxicated with wonderful ornaments, with pointed ears, son of
+Visravasa was like the moon together with stars, together with best women was seen by Hanuma. That great Vanara
+with great brilliance saw that Ravana with glory.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>
@@ -1280,18 +1284,14 @@ Ravana", jumped down.
 
 **पदच्छेदः**
 
-28; *29. saH raakshsaadhipaH* = that king of Rakshasas; *kshiibaH* = who was
-intoxicated; *vichitraabharaNaH* = with wonderful ornaments; *saN^kukarNaH* = with pointed ears;
-*vishravasaH putraH* = son of Visravasa; *chandramaaH iva* = was like the moon; *taaraabhiH*
-= together with stars; *vR^itaH* = together; *paramanaariibhiH* = with best women; *dR^ishhtaH*
-= was seen; *tena* = by that Hanuma; *mahaa kapiH* = that great Vanara; *mahaa tejaaH* =
-with great brilliance; *dadarsha* = saw; *tam* = that Ravana; *tejovantam* = with glory.
+*30. maarutaatmajaH* = The son of god of wind; *vaanaraH* = Vanara; *hanumaan*
+= Hanuma; *mahaa tejaaH* = of great brilliance; *ayam* = this; *mahaabaahuH* = long armed
+one; *raavaNaH* = is Ravana; *iti samchintya* = thinking thus; *avaplutaH* = jumped down.
 
 **अनुवादः**
 
-That king of Rakshasas who was intoxicated with wonderful ornaments, with pointed ears, son of
-Visravasa was like the moon together with stars, together with best women was seen by Hanuma. That great Vanara
-with great brilliance saw that Ravana with glory.
+The son of god of wind Vanara Hanuma of great brilliance thinking thus "This long armed one is
+Ravana", jumped down.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga18/sundarasans18.htm)
 </details>

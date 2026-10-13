@@ -483,14 +483,14 @@ by Mahendra."
 
 **पदच्छेदः**
 
-*10. raameNa* = by Rama; *vidita aatmanaa* = with a famed mind; *Kharashca
-nihataH* = Khara has been killed; *trishiraaH ca nipaatitaH* = Trisira also has been fell down; *
-mahaatejaaH duuSaNaH ca* = Duushana with great glory also (has been killed); *samkhye* = in war.
+*9. jana sthaane* = at Janastaana; *catur dasha sahasraaNi* = fourteen thousands;
+*rakshasaan* = of raksasas; *bhiima karmaNaam* = of terrible deed; *nihataani* = have been
+killed; *agni shikha sharaiH* = by arrows equalling tongues of fires.
 
 **अनुवादः**
 
-"By Rama with a famed mind, Khara has been killed, Trisira also has been fell down, Duushana with
-great glory also has been killed in war."
+"At Janastaana fourteen thousands of rakshasas of terrible deed have been killed by arrows equalling
+tongues of fires."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
@@ -504,14 +504,14 @@ great glory also has been killed in war."
 
 **पदच्छेदः**
 
-*9. jana sthaane* = at Janastaana; *catur dasha sahasraaNi* = fourteen thousands;
-*rakshasaan* = of raksasas; *bhiima karmaNaam* = of terrible deed; *nihataani* = have been
-killed; *agni shikha sharaiH* = by arrows equalling tongues of fires.
+*10. raameNa* = by Rama; *vidita aatmanaa* = with a famed mind; *Kharashca
+nihataH* = Khara has been killed; *trishiraaH ca nipaatitaH* = Trisira also has been fell down; *
+mahaatejaaH duuSaNaH ca* = Duushana with great glory also (has been killed); *samkhye* = in war.
 
 **अनुवादः**
 
-"At Janastaana fourteen thousands of rakshasas of terrible deed have been killed by arrows equalling
-tongues of fires."
+"By Rama with a famed mind, Khara has been killed, Trisira also has been fell down, Duushana with
+great glory also has been killed in war."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>
@@ -775,22 +775,6 @@ _________________
 
 **पदच्छेदः**
 
-*16. kSetre hala mukha kSate* = while a field was being ploughed; *utthitaa*
-= (She) rose up; *mediniim bhittvaa* = splitting the earth; *kiirNaa* = covered; *shubhaiH kedaara
-paamsubhiH* = by auspicious dust of field; *padma reNu nibhaiH* = equalling pollen.
-
-**अनुवादः**
-
-"While a field was being ploughed She rose up splitting the earth covered by auspicious dust of
-field equalling pollen."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15. iyam* = This She; *saa siitaa* = is that Seetha; *sutaa* = the
 daughter; *janakasya maithilaraajasya* = of king Janaka of Mithila; *mahaatmanaH* = the great soul;
 *dharma shiilasya* = and noble one; *bhartR^idR^iDavrata* = with a firm resolution towards husband.
@@ -799,6 +783,22 @@ daughter; *janakasya maithilaraajasya* = of king Janaka of Mithila; *mahaatmanaH
 
 "This She is that Seetha, the daughter of king Janaka of Mithila, the great soul, and noble one
 with a firm resolution towards husband."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. kSetre hala mukha kSate* = while a field was being ploughed; *utthitaa*
+= (She) rose up; *mediniim bhittvaa* = splitting the earth; *kiirNaa* = covered; *shubhaiH kedaara
+paamsubhiH* = by auspicious dust of field; *padma reNu nibhaiH* = equalling pollen.
+
+**अनुवादः**
+
+"While a field was being ploughed She rose up splitting the earth covered by auspicious dust of
+field equalling pollen."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga16/sundarasans16.htm)
 </details>

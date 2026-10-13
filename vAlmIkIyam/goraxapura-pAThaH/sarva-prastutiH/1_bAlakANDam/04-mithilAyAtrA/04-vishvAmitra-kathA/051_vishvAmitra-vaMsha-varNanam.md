@@ -1135,25 +1135,6 @@ _________________
 
 **पदच्छेदः**
 
-*28. jayataam shreSTha* = best one among vanquishers; *mahaabalaH vishvaamitraH*
-= great-stalwart, Vishvamitra; *aparam* = not other [not in other world,
-this worldly]; *brahmalokam iva* = like Brahma's universe; *vasiSThasya
-aashramapadam* = Vashishta's, Hermitage's threshold; *dadarsha* = has
-seen.
-
-**अनुवादः**
-
-"And this best one among vanquishers and the great-stalwart Vishvamitra has then
-seen the hermitage of Vashishta which is like the worldly Universe of Brahma." Thus
-Sage Shataananda continued his narration. [1-51-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 22, 23, 24, 2125, 26, 27, 28a. *nagaraaNi raaSTraani ca* = cities, provinces,
 also; *saritaH tathaa giriin* = rivers, like that, mountains; *aashramaan
 ca* = hermitages, also; *kramashaH* = sequentially; *vicaran*
@@ -1204,6 +1185,25 @@ in meditations and oblations into Ritual-fire, and with such sages and their act
 whole of the perimeter of that hermitage is brightened and rendered splendent, and
 king Vishvamitra arrived at such a magnificent hermitage of Sage Vashishta. [1-51-22,
 23, 24, 2125, 26, 27, 28a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*28. jayataam shreSTha* = best one among vanquishers; *mahaabalaH vishvaamitraH*
+= great-stalwart, Vishvamitra; *aparam* = not other [not in other world,
+this worldly]; *brahmalokam iva* = like Brahma's universe; *vasiSThasya
+aashramapadam* = Vashishta's, Hermitage's threshold; *dadarsha* = has
+seen.
+
+**अनुवादः**
+
+"And this best one among vanquishers and the great-stalwart Vishvamitra has then
+seen the hermitage of Vashishta which is like the worldly Universe of Brahma." Thus
+Sage Shataananda continued his narration. [1-51-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga51/balasans51.htm)
 </details>

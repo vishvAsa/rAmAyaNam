@@ -515,23 +515,6 @@ _________________
 
 **पदच्छेदः**
 
-*17. mitraaNi* = the friends; *dhana dhaanyaani* = the riches
-and the grains; *sammataani* = are highly honoured; *iha* = in this world;
-*jananii* = mother; *janmabhuumishcha* = and mother-land; *gariiyasii* = and
-far superior; *svargaadapi* = to even the heaven.
-
-**अनुवादः**
-
-"The friends, the riches and the grains are highly honoured in this world. Mother
-and mother-land are far superior to even the heaven."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *11-16. dharmavatsala* = O Rama; devoted to virtue!; *maariicha
 darshanamchaiva* = even the apearance of Mareecha; *siitonmattanevacha* = the abduction
 of Seetha (by Ravana); *kabandhadarshanam chaiva* = the sight of Kabandha; *tathaa* =
@@ -564,6 +547,23 @@ arrogant of his might, was killed in battle, with his sons kinsfolk and his mini
 happened, how a boon was conferred by them on you- all this is known to me by virtue of my
 asceticism. My disciples, who were accustomed to report to me the news, used to go to Ayodhya-City
 from here."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. mitraaNi* = the friends; *dhana dhaanyaani* = the riches
+and the grains; *sammataani* = are highly honoured; *iha* = in this world;
+*jananii* = mother; *janmabhuumishcha* = and mother-land; *gariiyasii* = and
+far superior; *svargaadapi* = to even the heaven.
+
+**अनुवादः**
+
+"The friends, the riches and the grains are highly honoured in this world. Mother
+and mother-land are far superior to even the heaven."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga124/yuddhasans124.htm)
 </details>

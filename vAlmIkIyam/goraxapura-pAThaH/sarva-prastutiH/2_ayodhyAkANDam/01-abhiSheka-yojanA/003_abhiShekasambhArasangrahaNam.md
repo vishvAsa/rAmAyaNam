@@ -1616,6 +1616,24 @@ gods).
 
 **पदच्छेदः**
 
+*39. raama* = oh; *Rama! tvam* = you; *asi* = are;
+*sadR^ishaH* = worthy; *sutaH* = son; *utpannaH* = born; *me* = to my;
+*sadR^ishyaam* = worthy; *jyeshhThaayaam* = elder; *patnyaam* = wife;
+*guNashreshhThaH* = being excellent in virtues; *priyaH* = (you are) beloved;
+*aatmajaH* = son; *mama* = to me.
+
+**अनुवादः**
+
+"Oh Rama! You are an exemplary son born to my exemplary elder wife. Being excellent
+in virtues, you are beloved son to me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *40. yataH* = Why; *tvayaa* = by you; *imaaH* = these;
 *prajaaH* = people; *anuraJNjitaaH* = were cherished; *svaguNaiH* = by your
 good qualities; *tasmaat* = for that reason; *tvam* = you; *avaapnuhi* = get;
@@ -1627,24 +1645,6 @@ moon appears in conjunction with the constellation Pushya).
 "O, Rama! As you with your good qualities cherished these people, you get the
 princely kingdom on the day of Pushyami star (when the moon appears in conjunction with the
 constellation Pushya).."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*39. raama* = oh; *Rama! tvam* = you; *asi* = are;
-*sadR^ishaH* = worthy; *sutaH* = son; *utpannaH* = born; *me* = to my;
-*sadR^ishyaam* = worthy; *jyeshhThaayaam* = elder; *patnyaam* = wife;
-*guNashreshhThaH* = being excellent in virtues; *priyaH* = (you are) beloved;
-*aatmajaH* = son; *mama* = to me.
-
-**अनुवादः**
-
-"Oh Rama! You are an exemplary son born to my exemplary elder wife. Being excellent
-in virtues, you are beloved son to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>
@@ -1692,23 +1692,6 @@ _________________
 
 **पदच्छेदः**
 
-*42. aasthaaya* = try to; *bhava* = become; *bhuuyaH* =
-(even) more; *vinayam* = humble; *nityam* = always; *jitendriyaH* = (remain
-as) one who has victory over senses; *tyajethaaH* = leave; *vyasanaani cha* = bad
-habits; *kaamakrodha samutthaani* = born of desire and wrath.
-
-**अनुवादः**
-
-"Be even more humble and always keep the senses under control. Leave the bad habits
-born out of desire and wrath."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *41. putra* = Oh; son!; *prakR^ityaiva* = by nature; *tvam
 asi* = you are; *kaamataH* = very much; *viniitaH* = humble; *guNavaan* =
 virtuous man; *guNavatyapi* = even if virtuous; because of my; *snehaat* =
@@ -1719,6 +1702,23 @@ friendship; *vakshyaami* = I can tell; *te* = to you; *hitam* = good
 
 "Oh, son! By nature, you are very humble and virtuous. Even then, because of my
 friendship with you, I can tell you this for your benefit."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*42. aasthaaya* = try to; *bhava* = become; *bhuuyaH* =
+(even) more; *vinayam* = humble; *nityam* = always; *jitendriyaH* = (remain
+as) one who has victory over senses; *tyajethaaH* = leave; *vyasanaani cha* = bad
+habits; *kaamakrodha samutthaani* = born of desire and wrath.
+
+**अनुवादः**
+
+"Be even more humble and always keep the senses under control. Leave the bad habits
+born out of desire and wrath."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga3/ayodhyasans3.htm)
 </details>

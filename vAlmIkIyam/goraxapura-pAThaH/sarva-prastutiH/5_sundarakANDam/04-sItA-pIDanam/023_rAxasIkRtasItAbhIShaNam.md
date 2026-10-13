@@ -132,6 +132,22 @@ _________________
 
 **पदच्छेदः**
 
+*2. raakshasendre* = Ravana; *nishhkraante* = leaving; *gate* = obtaining;
+*punaH* = again; *antaHpuram* = gynaeceum; *taaH raakshasyaH* = those ogres; *bhiimaruupaaH*
+= with horrible appearances; *samabhidudruvuH* = went running; *siitaam* = to Seetha.
+
+**अनुवादः**
+
+After Ravana left and obtained gynaeceum, those ogres with horrible appearances went running to
+Seetha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *3. tataH* = thereafter; *upaagamya* = reaching; *siitaam* = Seetha;
 *raakshasyaH* = ogre women; *krodhamuurchitaaH* = swooned with anger; *vaachaa* = (with a)
 speech; *param* = (which was) very; *parushhayaa* = harsh; *abruvan* = spoke; *idam*
@@ -141,22 +157,6 @@ speech; *param* = (which was) very; *parushhayaa* = harsh; *abruvan* = spoke; *i
 
 Thereafter reaching Seetha ogre women swooned with anger and with a very harsh speech spoke these
 words to Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*2. raakshasendre* = Ravana; *nishhkraante* = leaving; *gate* = obtaining;
-*punaH* = again; *antaHpuram* = gynaeceum; *taaH raakshasyaH* = those ogres; *bhiimaruupaaH*
-= with horrible appearances; *samabhidudruvuH* = went running; *siitaam* = to Seetha.
-
-**अनुवादः**
-
-After Ravana left and obtained gynaeceum, those ogres with horrible appearances went running to
-Seetha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
@@ -493,22 +493,6 @@ _________________
 
 **पदच्छेदः**
 
-*11. tataH* = Thereafter; *raakshasii* = an ogre woman; *praghasaa naama*
-= named Praghasa; *krodhamuurchhitaa* = swooning with anger; *tadaa* = then; *bhartsayantii*
-= frightening (Seetha) ; *abraviit* = spoke; *idam* = this; *ghoram* = horrible (word).
-
-**अनुवादः**
-
-Thereafter an ogre named Praghasa swooning with anger and then frightening Seetha, spoke this horrible
-word.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *9. tataH* = Thereafter;raakshasii = an ogre woman; *harijaTaa naama* = named
 Harijata; *maarjaarasadR^ishekshaNaa* = with eyes like those of a cat; *vivartya* = turned around;
 *nayane* = eyes; *kopaat* = due to anger; *abraviit* = (and) spoke; *vaakyam* = (these)
@@ -518,6 +502,22 @@ words.
 
 Thereafter an ogre woman named Harijata with eyes like those of a cat turned around eyes due to
 anger and spoke these words.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. tataH* = Thereafter; *raakshasii* = an ogre woman; *praghasaa naama*
+= named Praghasa; *krodhamuurchhitaa* = swooning with anger; *tadaa* = then; *bhartsayantii*
+= frightening (Seetha) ; *abraviit* = spoke; *idam* = this; *ghoram* = horrible (word).
+
+**अनुवादः**
+
+Thereafter an ogre named Praghasa swooning with anger and then frightening Seetha, spoke this horrible
+word.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
@@ -560,23 +560,6 @@ _________________
 
 **पदच्छेदः**
 
-*13. raavaNaH* = Ravana; *mahaabalaH* = with great might; *tyaktvaa*
-= leaving;priyaam = dear; *bahumataam* = respectable; *bhaaryaam* = wife; *sarvaasaam* =
-who among all wives; *mahaabhaagaam* = is most fortunate; *upaishhyati* = can obtain; *tvaam*
-= you.
-
-**अनुवादः**
-
-"The mighty Ravana can leave dear respectable wife who among all wives is most fortunate and can
-obtain you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. kim* = why; *na lapsyase* = (you) will not get; *bharyaatvam* =
 wife-hood (of Ravana); *viiryotsiktasya* = (who is) proud of his might; *shuurasya* = valiant;
 *anivartinaH* = who will not turn back; *saMgraameshhu* = in wars; *balinaH* = strong;
@@ -586,6 +569,23 @@ wife-hood (of Ravana); *viiryotsiktasya* = (who is) proud of his might; *shuuras
 
 "Why will you not get wifehood of Ravana who is proud of his might, valiant, who will not turn
 back in wars, who is strong together with valour."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. raavaNaH* = Ravana; *mahaabalaH* = with great might; *tyaktvaa*
+= leaving;priyaam = dear; *bahumataam* = respectable; *bhaaryaam* = wife; *sarvaasaam* =
+who among all wives; *mahaabhaagaam* = is most fortunate; *upaishhyati* = can obtain; *tvaam*
+= you.
+
+**अनुवादः**
+
+"The mighty Ravana can leave dear respectable wife who among all wives is most fortunate and can
+obtain you."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
@@ -714,22 +714,6 @@ _________________
 
 **पदच्छेदः**
 
-*17. adhame* = O vile one; *kim* = why; *adya* = now; *nechchhase*
-= are you not desring; *bhaaryaatvam* = wifehood; *tasya raavaNasya* = of such Ravana; *sarvasamR^iddhasya*
-= fulfilled in all respects; *mahaatmanaH* = great soul; *raakshasendrasya* = lord of ogres.
-
-**अनुवादः**
-
-"O vile one! Why are you not desiring wifehood of such Ravana, fulfilled in all respects, who is
-a great soul and lord of ogres.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 15; *16. anyaa* = another; *raakshasii tu* = ogre woman; *vikaTaa naama*
 = named Vikata; *abraviit* = spoke; *vaakyam* = (these) words; *yena* = by whom; *asakR^it*
 = a number of times; *yuddhe* = in war; *devataaH* = Devas; *samare* = in war; *naagagandharvadaanavaaH*
@@ -740,6 +724,22 @@ a great soul and lord of ogres.
 
 Another ogre woman named Vikata spoke these words: "By whom a number of times in war Devas, in
 war Nagas, Gandharvas and Danavas have been conquered that Ravana has come to your side."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. adhame* = O vile one; *kim* = why; *adya* = now; *nechchhase*
+= are you not desring; *bhaaryaatvam* = wifehood; *tasya raavaNasya* = of such Ravana; *sarvasamR^iddhasya*
+= fulfilled in all respects; *mahaatmanaH* = great soul; *raakshasendrasya* = lord of ogres.
+
+**अनुवादः**
+
+"O vile one! Why are you not desiring wifehood of such Ravana, fulfilled in all respects, who is
+a great soul and lord of ogres.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>
@@ -776,6 +776,25 @@ _________________
 
 **पदच्छेदः**
 
+*18. tataH* = Thereafter; *raakshasii* = an ogre woman; *durmukhii naama*
+= named Durmuukhi; *abraviit* = spoke; *vaakyam* = (these) words; *aayataa paaN^ge* = O one
+with long cornered eyes! bhiitaH = fearing; *yasya* = whom; *suuryaH* = sun; *na tapati*
+= will not consume by heat; *bhiitaH* = fearing; *yasya* = whom; *maarutaH* = wind; *na
+vaati sma* = will not blow; *tasya* = to that one; *kim* = why; *tvam* = are you; *
+na tiShThasi* = not favourable.
+
+**अनुवादः**
+
+Thereafter an ogre woman named Durmukhi spoke these words: " O one with long eyes! Fearing whom
+the sun will not comsume by heat, fearing whom the win will not blow, to that one why are you not favourable."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 19; *20. subhru* = O one with good eyebrows!; *bhaminii* = O Seetha!; *bhayaat*
 = by the fear; *yasya* = of whom; *taravaH* = trees; *mumuchuH* = shed; *pushhpavR^ishhTim*
 = a shower of flowers; *yadaa ichchhati* = whenever desired; *shailaashcha* = mountains; *jaladaashcha*
@@ -788,25 +807,6 @@ Ravana; *nairR^ita raajasya* = king of ogres; *raajaraajasya* = (and) king of ki
 "O one with good eyebrows! O Seetha! By the fear of whom trees shed a shower of flowers, whenever
 Ravana desired mountains and clouds will shed water, why you are not making mind to be the wife of such Ravana,
 who is the king of ogres and king of kings."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*18. tataH* = Thereafter; *raakshasii* = an ogre woman; *durmukhii naama*
-= named Durmuukhi; *abraviit* = spoke; *vaakyam* = (these) words; *aayataa paaN^ge* = O one
-with long cornered eyes! bhiitaH = fearing; *yasya* = whom; *suuryaH* = sun; *na tapati*
-= will not consume by heat; *bhiitaH* = fearing; *yasya* = whom; *maarutaH* = wind; *na
-vaati sma* = will not blow; *tasya* = to that one; *kim* = why; *tvam* = are you; *
-na tiShThasi* = not favourable.
-
-**अनुवादः**
-
-Thereafter an ogre woman named Durmukhi spoke these words: " O one with long eyes! Fearing whom
-the sun will not comsume by heat, fearing whom the win will not blow, to that one why are you not favourable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga23/sundarasans23.htm)
 </details>

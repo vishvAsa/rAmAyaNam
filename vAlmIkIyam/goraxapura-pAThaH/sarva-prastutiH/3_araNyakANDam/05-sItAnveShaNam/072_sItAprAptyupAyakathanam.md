@@ -239,6 +239,23 @@ _________________
 
 **पदच्छेदः**
 
+*5. tataH* = then; *bhaasvaraH* = irradiant Kabandha; *vi raja ambaraH* = with
+not, sullied, clothing; *samhR^iSTaH* = highly gladdened; *sarva prati anga bhuuSaNaH*
+= on all, every, limb, with fineries; *aashu vegena* = with quick, speed; *citaayaa ut papaata*
+= from pyre, up, jumped [onto sky.]
+
+**अनुवादः**
+
+Then highly gladdened Kabandha jumped up onto sky from the pyre, and there he is irradiant with unsullied
+clothing, and fineries decorated on every limb. [3-72-5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 6, 7a. saH kabandhaH he, that Kabandha; *antarikSa gataH* = to firmament, on going; *hamsa
 yukte* = with swans, yoked; *yashas kare* = renown, endowing; *bhaasvare* = dazzling;
 *vimaane tiSThan* = in aircraft, seated; *mahaatejaa* = with great glimmer [his own appearance];
@@ -252,23 +269,6 @@ On going to firmament Kabandha is now seated in a dazzling celestial aircraft yo
 endows renown because it takes the occupants to the realms of Brahma, and sitting in that celestial
 aircraft he said this sentence to Rama, while his own great glimmer and glitter beamed forth in all
 ten quarters. [3-72-6, 7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*5. tataH* = then; *bhaasvaraH* = irradiant Kabandha; *vi raja ambaraH* = with
-not, sullied, clothing; *samhR^iSTaH* = highly gladdened; *sarva prati anga bhuuSaNaH*
-= on all, every, limb, with fineries; *aashu vegena* = with quick, speed; *citaayaa ut papaata*
-= from pyre, up, jumped [onto sky.]
-
-**अनुवादः**
-
-Then highly gladdened Kabandha jumped up onto sky from the pyre, and there he is irradiant with unsullied
-clothing, and fineries decorated on every limb. [3-72-5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
@@ -619,22 +619,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. raama* = oh, Rama; *saH te mitram ca* = he, to you, associate, also; *siitaayaaH
-parimaargaNe sahaayaH* = of Seetha, in searching, aid; *hite bhaviSyati* = [in your] wellbeing,
-he conducts himself; *shoke manaH maa kR^idhaaH* = in agony, heart, do not, do [yield.]
-
-**अनुवादः**
-
-"Oh, Rama, he will be your associate and an aid in searching for Seetha, and he conducts himself in
-your wellbeing, hence let not your heart yield to agony... [3-72-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14. dakshaH* = capable [adventurer]; *pragalbhaH* = courageous [exploiter]; *dyutimaan*
 = coruscating [in personality]; *viira* = brave one; *mahaa bala paraakramaH* = incomparably
 intrepid, incursive - such Sugreeva; *raajya hetuH* = kingdom, for reason of; *mahaatmanaa*
@@ -646,6 +630,22 @@ intrepid, incursive - such Sugreeva; *raajya hetuH* = kingdom, for reason of; *m
 "He is a capable adventurer, a courageous exploiter and incomparable one in intrepidity and a brave
 one in incursions, and his personality will be coruscating ever and anon, for he is the son of Sun-god...
 but he is banished by his self-conceited brother owing to the reasons of kingdom... [3-72-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. raama* = oh, Rama; *saH te mitram ca* = he, to you, associate, also; *siitaayaaH
+parimaargaNe sahaayaH* = of Seetha, in searching, aid; *hite bhaviSyati* = [in your] wellbeing,
+he conducts himself; *shoke manaH maa kR^idhaaH* = in agony, heart, do not, do [yield.]
+
+**अनुवादः**
+
+"Oh, Rama, he will be your associate and an aid in searching for Seetha, and he conducts himself in
+your wellbeing, hence let not your heart yield to agony... [3-72-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>
@@ -962,23 +962,6 @@ Any one, or three meanings can be obtained, as intensifiers.
 
 **पदच्छेदः**
 
-*2. lakSmaNaH tu* = Lakshmana, on his part; *jvalitaabhiH* = with blazing; *mahaa ulkaabhiH*
-= with highly, sparkling torches; *samantataH* = all over; *citaam* = pyre; *aadiipayaamaasa*
-= started to torch; *saa* = that - pyre; *sarvataH* = on all sides; *prajajvaala [pra
-ja jvaaala]* = suddenly, blazingly, blazed.
-
-**अनुवादः**
-
-On his part Lakshmana started to torch that pyre with highly sparkling torches from all over, and even
-that pyre too suddenly blazed with blazes from all over. [3-72-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1. kabandhena* = by Kabandha; *evam uktau* = that way, those two who are said; *nara
 iishvarau* = people's, lords; *tau viirau* = those, brave men; *giri pradaram aasaadya*
 = mountain, cleft, on getting at [throwing the body of Kabandha in it]; *paavakam visasarjatuH*
@@ -988,6 +971,23 @@ iishvarau* = people's, lords; *tau viirau* = those, brave men; *giri pradaram aa
 
 When Kabandha said that way, both those brave men and lords of people, on throwing the body of Kabandha
 into a mountain cleft and then embedded it with firewood. [3-72-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2. lakSmaNaH tu* = Lakshmana, on his part; *jvalitaabhiH* = with blazing; *mahaa ulkaabhiH*
+= with highly, sparkling torches; *samantataH* = all over; *citaam* = pyre; *aadiipayaamaasa*
+= started to torch; *saa* = that - pyre; *sarvataH* = on all sides; *prajajvaala [pra
+ja jvaaala]* = suddenly, blazingly, blazed.
+
+**अनुवादः**
+
+On his part Lakshmana started to torch that pyre with highly sparkling torches from all over, and even
+that pyre too suddenly blazed with blazes from all over. [3-72-2]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga72/aranyasans72.htm)
 </details>

@@ -66,6 +66,30 @@ _________________
 
 **पदच्छेदः**
 
+*1. raamaH* = Rama; *dadarsha* = saw; (Bharata);
+*jaTilam* = with matted locks; *chiiravasanam* = wearing bark-robes;
+*praaN^jalim* = and with joined palms; *patitam* = lying; *bhuvi* = on the
+ground; *durdarsham* = incapable of being seen; *bhaaskaram yathaa* = as the sun;
+*yugaante* = at the end of the world-period.
+
+**अनुवादः**
+
+Rama saw Bharata, with matted locks, wearing bark-robes and, with joined palms,
+lying on the ground, incapable of being seen as the sun at the time of the dissolution of the
+world.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+जटाधारियागिद्द, नारुमडियन्नुट्टिद्द, युगान्तद सूर्यनोपादियल्लि नोडलु अशक्यनागिद्दु, कैमुगिदुकॊण्डे नॆलद मेलॆ बिद्दिरुव भरतनन्नु श्रीरामनु नोडिदनु. अवनिगॆ भरतन गुरुते सिगलिल्ल. अवनु अष्टु कृशवागिद्दु, कुन्दिद मुखभावदिन्द कूडिद्द, अत्यन्त बडकलाद इवनु नन्न तम्म भरतने ऎम्बुदन्नु हेगो तिळिदु अवनन्नु तन्नॆरडु तोळुगळिन्द हिडिदॆत्तिदनु. बळिक श्रीरामनु भरतन नॆत्तियन्नु आघ्राणिसि गाढवागि आलिङ्गिसिकॊण्डु तॊडॆय मेलॆ कुळ्ळिरिसिकॊण्डु आदरपूर्वकवागि प्रश्निसिदनु.॥1-3॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *2. raamaH* = Rama; *katham chit* = with some difficulty;
 *abhiJ^Naaya* = recognized; *bharatam* = Bharata; *vivarNa vadanam* = whose
 face became pale; *kR^isham* = who was emaciated; *parijagraaha* = and took;
@@ -77,11 +101,6 @@ Rama recognized with some difficulty his brother Bharata, whose face became pale
 who was emaciated, and took him by the arm.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-जटाधारियागिद्द, नारुमडियन्नुट्टिद्द, युगान्तद सूर्यनोपादियल्लि नोडलु अशक्यनागिद्दु, कैमुगिदुकॊण्डे नॆलद मेलॆ बिद्दिरुव भरतनन्नु श्रीरामनु नोडिदनु. अवनिगॆ भरतन गुरुते सिगलिल्ल. अवनु अष्टु कृशवागिद्दु, कुन्दिद मुखभावदिन्द कूडिद्द, अत्यन्त बडकलाद इवनु नन्न तम्म भरतने ऎम्बुदन्नु हेगो तिळिदु अवनन्नु तन्नॆरडु तोळुगळिन्द हिडिदॆत्तिदनु. बळिक श्रीरामनु भरतन नॆत्तियन्नु आघ्राणिसि गाढवागि आलिङ्गिसिकॊण्डु तॊडॆय मेलॆ कुळ्ळिरिसिकॊण्डु आदरपूर्वकवागि प्रश्निसिदनु.॥1-3॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -98,25 +117,6 @@ bharatam* = that Bharata; *paryapR^ichchhat* = and enquired (as follows);
 
 Smelling the crown of his head, placing him on his lap, Rama who was born in Raghu
 dynasty embraced Bharata and with an absorbent mind, enquired of him as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*1. raamaH* = Rama; *dadarsha* = saw; (Bharata);
-*jaTilam* = with matted locks; *chiiravasanam* = wearing bark-robes;
-*praaN^jalim* = and with joined palms; *patitam* = lying; *bhuvi* = on the
-ground; *durdarsham* = incapable of being seen; *bhaaskaram yathaa* = as the sun;
-*yugaante* = at the end of the world-period.
-
-**अनुवादः**
-
-Rama saw Bharata, with matted locks, wearing bark-robes and, with joined palms,
-lying on the ground, incapable of being seen as the sun at the time of the dissolution of the
-world.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga100/ayodhyasans100.htm)
 </details>

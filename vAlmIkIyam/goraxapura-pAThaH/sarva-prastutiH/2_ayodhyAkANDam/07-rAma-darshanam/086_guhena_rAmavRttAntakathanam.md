@@ -165,6 +165,23 @@ arrows bow and a sword and who was keeping a vigil for the safe guard of his bro
 
 **पदच्छेदः**
 
+*3. taata* = O dear broter! Raaghavanandana = a delight to those born
+in Raghu dynasty! Iyam = Here is; *sukhaa* = a comfortable; *shayyaa* = bed;
+*upakalpitaa* = made ready ; *tvadartham* = for you; *pratyaashvasihi* = be
+comfortable; *sheshhva* = rest; *sukham* = peacefully; *asyaam* = on this.
+
+**अनुवादः**
+
+"O, dear brother! Here is a comfortable bed made ready for you. Feel yourself at
+ease. Rest peacefully on this, O, delight of the Raghu race!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *4. dharmaatman* = o; *virtuous prince! sarvaH* = all ayam
 these; *janaH* = people; *uchitaH* = are habitual; *duHkhaanaam* = to
 hardships; *tvam* = you; *sukhochitaH* = are used to comfort; vayam we;
@@ -175,23 +192,6 @@ hardships; *tvam* = you; *sukhochitaH* = are used to comfort; vayam we;
 
 "All my people are habituated for hardships, o virtuous prince! You are used to
 comfort. Hence ,we shall keep awake for the safe guard of Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*3. taata* = O dear broter! Raaghavanandana = a delight to those born
-in Raghu dynasty! Iyam = Here is; *sukhaa* = a comfortable; *shayyaa* = bed;
-*upakalpitaa* = made ready ; *tvadartham* = for you; *pratyaashvasihi* = be
-comfortable; *sheshhva* = rest; *sukham* = peacefully; *asyaam* = on this.
-
-**अनुवादः**
-
-"O, dear brother! Here is a comfortable bed made ready for you. Feel yourself at
-ease. Rest peacefully on this, O, delight of the Raghu race!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>
@@ -580,23 +580,6 @@ celestials and demons, sleeping on the blades of grass along with Seetha."
 
 **पदच्छेदः**
 
-*13. asmin* = when he; *pravrajite* = having been to exiled;
-*raajaa* = the king Dasaratha; *navaratryishhyati* = will not survive;
-*chiram* = for long; *medinii* = this earth; *bhavishhyati* = will be;
-*nuunam* = surely; *vidhavaa* = without a husband; *kshhiprameva* = soon.
-
-**अनुवादः**
-
-"When Rama having seen exiled, the king Dasaratha will not survive for long.This
-earth will surely be without a husband soon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. eshhaH* = this Rama; *ekaH* = is an excellent;
 *putraH* = son; *sadR^isha lakshhaNaH* = having attributes equal to those;
 *dasarathasya* = of Dasaratha; *labdhaH* = who obtained him; *mahataa* = by a
@@ -607,6 +590,23 @@ great; *tapasaa* = penance; *vividhiH* = and by facing various;
 
 "This Rama is an excellent son, having qualities equal to those of Dasaratha. The
 king obtained Rama by performing a great penance and after facing various troubles."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. asmin* = when he; *pravrajite* = having been to exiled;
+*raajaa* = the king Dasaratha; *navaratryishhyati* = will not survive;
+*chiram* = for long; *medinii* = this earth; *bhavishhyati* = will be;
+*nuunam* = surely; *vidhavaa* = without a husband; *kshhiprameva* = soon.
+
+**अनुवादः**
+
+"When Rama having seen exiled, the king Dasaratha will not survive for long.This
+earth will surely be without a husband soon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga86/ayodhyasans86.htm)
 </details>

@@ -558,6 +558,22 @@ _________________
 
 **पदच्छेदः**
 
+*12. tataH* = then; *tena vaalinaa anubandhaH* = by him, by Vali, pursued - chased; *saH aham*
+= such as I was; *vividhaaH* = diverse; *nadiiH vanaani nagaraaNi ca* = rivers, forest, cities,
+also; *pashyan* = on seeing; *pra dhaavitaH* = rapidly, made to run away - chased away.
+
+**अनुवादः**
+
+"Such as I was, who is repulsed by Vali, I was made to run away rapidly, and during that fleeing I went on seeing
+diverse rivers, forests and cities. [4-46-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *13. tataH* = then; *mayaa* = by me; *pR^ithivii* = earth; *aadarsha tala sankaashaa*
 = mirror's, surface [reflection on the surface of a mirror,] like; *alaata cakra pratimaa* = fireball,
 circle, akin to; *dR^iSTaa* = seen [by me]; *tadaa goSpadavat [kR^itaa] vai* = then, analogous to
@@ -569,22 +585,6 @@ cow-hoof-print, [made as,] indeed.
 the objects in exactness, and the earth is like the circle of a fireball, where it is encircled with fire-like
 reddish, brownish, ochreish minerals and ores, and it appeared to me in my high flight like a cow-hoof-print in
 the mirror, called my perception. [4-46-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*12. tataH* = then; *tena vaalinaa anubandhaH* = by him, by Vali, pursued - chased; *saH aham*
-= such as I was; *vividhaaH* = diverse; *nadiiH vanaani nagaraaNi ca* = rivers, forest, cities,
-also; *pashyan* = on seeing; *pra dhaavitaH* = rapidly, made to run away - chased away.
-
-**अनुवादः**
-
-"Such as I was, who is repulsed by Vali, I was made to run away rapidly, and during that fleeing I went on seeing
-diverse rivers, forests and cities. [4-46-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm)
 </details>

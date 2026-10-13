@@ -1237,28 +1237,6 @@ gariiyaH - dk*
 
 **पदच्छेदः**
 
-*23b, 24a. siitaayaaH* = Seetha's; *paruSam roma harSaNam vacanam shrutvaa* = scathing,
-hair, raising, words [censures,] on hearing; *[raavaNaH* = Ravana]; *tataH* = then;
-*siitaam* = to Seetha; *bhaya sandarshanam vacaH* = fear, showing [intimidatory,] words
-[chides]; *prati uvaaca* = in turn, said - retorted.
-
-**अनुवादः**
-
-On hearing Seetha's scathing and hair-raising censures, then Ravana retorted with these intimidatory
-chides. [3-56-23b, 24a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-नानु ई भूतळदल्लि तनगागि निन्दित अथवा कलङ्क उण्टागुवन्तह यावुदे कार्यवन्नु माडलारॆनु. रावणनल्लि हीगॆ अत्यन्त कठोरवाद मातुगळन्नु हेळि जानकियु सुम्मनादळु. अवळु अल्लि मत्तॆ एनन्नु मातनाडलिल्ल.॥22½-2½3॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *22b, 23a. vaidehii maithilii* = princess of Videha, Maithili; *kroddhaat* = with fury;
 *raavaNam* = to Ravana; *evam* = in that way; *su paruSam vacaH uktvaa* = highly,
 caustic, words, on speaking; *tatra* = therein [that matter]; *punaH kimcana na uvaaca*
@@ -1272,29 +1250,24 @@ no more in that matter. [3-56-22b, 23a]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
 
+<details><summary>अनुवाद (कन्नड)</summary>
+
+नानु ई भूतळदल्लि तनगागि निन्दित अथवा कलङ्क उण्टागुवन्तह यावुदे कार्यवन्नु माडलारॆनु. रावणनल्लि हीगॆ अत्यन्त कठोरवाद मातुगळन्नु हेळि जानकियु सुम्मनादळु. अवळु अल्लि मत्तॆ एनन्नु मातनाडलिल्ल.॥22½-2½3॥
+</details>
+
 <details><summary>Desiraju Hanumanta Rao</summary>
 
 **पदच्छेदः**
 
-*3. [yasya dasharasya putraH* = which, Dasharatha's, son is]; who is; *triSu lokeSu vishrutaH*
-= in three, worlds, highly, renowned; *diirgha baahuH* = lengthy, armed one [having ambidexterity];
-*vishaala akSaH* = wide, eyed [eagle-eyed, having perspicacity]; *raamaH naama* = Rama,
-known as; *saH dharma aatmaa* = he, virtue-souled one; *mama patiH* = my, husband; and;
-*daivatam* = [my] godlike.]
+*23b, 24a. siitaayaaH* = Seetha's; *paruSam roma harSaNam vacanam shrutvaa* = scathing,
+hair, raising, words [censures,] on hearing; *[raavaNaH* = Ravana]; *tataH* = then;
+*siitaam* = to Seetha; *bhaya sandarshanam vacaH* = fear, showing [intimidatory,] words
+[chides]; *prati uvaaca* = in turn, said - retorted.
 
 **अनुवादः**
 
-"Such a Dasharatha's son who is virtue-souled one, who is highly renowned in all the three worlds for
-his ambidexterity and perspicacity, and who is known as Rama is my husband and a god to me. [3-56-3]
-
-**टिप्पनी**
-
-Annex: 'And he is named as Rama because he causes rejoice in one and all, thus he is well renowned in
-all worlds, unlike you who are named as Ravana, meaning that 'the one who makes one and all rueful...'
-thus you are also well renowned in the worlds, but by your notoriety. On the other hand Rama is virtue-souled,
-unlike you a virtueless, meritless and lawless knave... and his ambidexterity contrasts with your guile-handedness,
-while his perceptiveness with your purblindness of the proximate problem of yours... such a husband's
-wife as I am, how do you think that I on my own get estranged from such a godlike husband of mine, unrighteously...
+On hearing Seetha's scathing and hair-raising censures, then Ravana retorted with these intimidatory
+chides. [3-56-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>
@@ -1336,6 +1309,33 @@ of ten chariots...' she is explaining 'my father-in-law chariots his one chariot
 you can steer only one in one way, called lust... my father-in-law chariots ten chariots in a single
 instance, whereas you can handle only one, at any given time besides being dependent on the capability
 of auto-propelling Pushpaka aircraft, rather than on your own steersman's capability...
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*3. [yasya dasharasya putraH* = which, Dasharatha's, son is]; who is; *triSu lokeSu vishrutaH*
+= in three, worlds, highly, renowned; *diirgha baahuH* = lengthy, armed one [having ambidexterity];
+*vishaala akSaH* = wide, eyed [eagle-eyed, having perspicacity]; *raamaH naama* = Rama,
+known as; *saH dharma aatmaa* = he, virtue-souled one; *mama patiH* = my, husband; and;
+*daivatam* = [my] godlike.]
+
+**अनुवादः**
+
+"Such a Dasharatha's son who is virtue-souled one, who is highly renowned in all the three worlds for
+his ambidexterity and perspicacity, and who is known as Rama is my husband and a god to me. [3-56-3]
+
+**टिप्पनी**
+
+Annex: 'And he is named as Rama because he causes rejoice in one and all, thus he is well renowned in
+all worlds, unlike you who are named as Ravana, meaning that 'the one who makes one and all rueful...'
+thus you are also well renowned in the worlds, but by your notoriety. On the other hand Rama is virtue-souled,
+unlike you a virtueless, meritless and lawless knave... and his ambidexterity contrasts with your guile-handedness,
+while his perceptiveness with your purblindness of the proximate problem of yours... such a husband's
+wife as I am, how do you think that I on my own get estranged from such a godlike husband of mine, unrighteously...
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga56/aranyasans56.htm)
 </details>

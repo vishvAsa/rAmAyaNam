@@ -676,23 +676,6 @@ including Janasthaana. [3-33-11]
 
 **पदच्छेदः**
 
-*13. a kliSTa kaariNaa* = without, fatigue [indefatigable,] performer of deeds - champion;
-*raameNa* = by Rama; *R^iSiiNaam abhayam dattam* = to sages, security, given; *daNDakaaH*
-= Dandaka forest; *kR^ita kSemaaH ca* = made, safeguard - rendered safe, as well; *janasthaanam
-dharSitam ca* = Janasthaana, assailed - put to rout, also.
-
-**अनुवादः**
-
-"That indefatigable champion Rama gave security to the sages, rendered Dandaka forest safeguarded, and
-he put Janasthaana to rout. [3-33-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *12. ekena raameNa* = by only one, Rama; *bhiima karmaNaam rakSasaam* = of dreadful, deeds,
 demons; *catur dasha sahasraaNi* = four, ten, thousand; *[janasthaane* = in Janasthaana];
 *hataani* = are killed; *saha duuSaNaH* = along with, Duushana; *kharaH ca* = Khara,
@@ -702,6 +685,23 @@ is also - killed.
 
 "A single soul called Rama has eliminated fourteen thousand demons of dreadful deeds in Janasthaana,
 even Duushana is killed, even Khara is also killed. [3-33-12]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. a kliSTa kaariNaa* = without, fatigue [indefatigable,] performer of deeds - champion;
+*raameNa* = by Rama; *R^iSiiNaam abhayam dattam* = to sages, security, given; *daNDakaaH*
+= Dandaka forest; *kR^ita kSemaaH ca* = made, safeguard - rendered safe, as well; *janasthaanam
+dharSitam ca* = Janasthaana, assailed - put to rout, also.
+
+**अनुवादः**
+
+"That indefatigable champion Rama gave security to the sages, rendered Dandaka forest safeguarded, and
+he put Janasthaana to rout. [3-33-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyasans33.htm)
 </details>

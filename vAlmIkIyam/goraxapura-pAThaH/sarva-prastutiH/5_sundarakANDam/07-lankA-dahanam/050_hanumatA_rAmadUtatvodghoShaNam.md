@@ -251,23 +251,6 @@ _________________
 
 **पदच्छेदः**
 
-*6. pR^ichchhyataam eSaH durmatiH* = let this evil-minded monkey be asked;
-*kim prayojanam* = on what purpose; *aagamane* = in coming; *matpuriim* = to my
-City; *apradhR^iSyaam* = which is invincible; *kim kaaryam* = and on what pursuit; *
-aayodhanevaa* = in doing the battle.
-
-**अनुवादः**
-
-"Ask this evil-minded monkey as to what really is his purpose in coming over to my invincible
-City and what pursuit he is doing this battle."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5. pR^ichchhyataam eSaH duraatmaa* = let this wicked one be asked; *
 kutaH* = from where did he come; *kim kaaaNam* = for what reason; *atra* = at this
 place; *kaH arthaH* = and for what purpose; *asya* = for him; *tarjane* = to frighten;
@@ -277,6 +260,23 @@ place; *kaH arthaH* = and for what purpose; *asya* = for him; *tarjane* = to fri
 
 "Ask this wicked monkey from where did he come, for what reason did he come to this place
 and for what purpose did he frighten the female-demons in destroying our garden."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. pR^ichchhyataam eSaH durmatiH* = let this evil-minded monkey be asked;
+*kim prayojanam* = on what purpose; *aagamane* = in coming; *matpuriim* = to my
+City; *apradhR^iSyaam* = which is invincible; *kim kaaryam* = and on what pursuit; *
+aayodhanevaa* = in doing the battle.
+
+**अनुवादः**
+
+"Ask this evil-minded monkey as to what really is his purpose in coming over to my invincible
+City and what pursuit he is doing this battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
@@ -345,23 +345,6 @@ _________________
 
 **पदच्छेदः**
 
-*8. vaanara* = O monkey!; *tvam preSitaH yadi taavat* = If you are
-sent; *indreNa* = by Indra; *raavaNaalayam* = to the abode of Ravana; *aakhyaahi*
-= tell (me); *tattvam* = the truth; *maa bhuut* = let there not be; *bhayam* =
-fear; *te* = for you; *mokSyase* = you will be released.
-
-**अनुवादः**
-
-"O monkey! If Indra has sent you to the abode of Ravana, tell me the truth. Do not have
-fear. You will be released."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *7. shrutvaa* = hearing; *vachaH* = the words; *raavaNasya*
 = of Ravana; *prahastaH* = Prahasta; *abraviit* = spoke; *vaakyam* = (the following)
 words (to Hanuma); *samaashvasihi* = take courage!; *bhadram te* = Happiness to you!;
@@ -371,6 +354,23 @@ words (to Hanuma); *samaashvasihi* = take courage!; *bhadram te* = Happiness to 
 
 Hearing the words of Ravana, Prahasta spoke the following words to Hanuma, "Take courage!
 Happiness to you! You need not get frightened, O monkey!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. vaanara* = O monkey!; *tvam preSitaH yadi taavat* = If you are
+sent; *indreNa* = by Indra; *raavaNaalayam* = to the abode of Ravana; *aakhyaahi*
+= tell (me); *tattvam* = the truth; *maa bhuut* = let there not be; *bhayam* =
+fear; *te* = for you; *mokSyase* = you will be released.
+
+**अनुवादः**
+
+"O monkey! If Indra has sent you to the abode of Ravana, tell me the truth. Do not have
+fear. You will be released."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
@@ -440,23 +440,6 @@ _________________
 
 **पदच्छेदः**
 
-*10. vaanara* = O monkey!; *te* = your; *ruupamadtramtu* =
-form alone; *vaanaram* = (is that of) a monkey; *tejaH* = (your) splendour; *na hi*
-= is not indeed; *vaanaram* = that of a monkey; *adya* = Now; *kathayasva* = tell
-(me); *tattvataH* = actually; *mokSase* = you will be released; *tataH* = thereafter.
-
-**अनुवादः**
-
-"O monkey! Your form alone is that of a monkey. Your splendour indeed is not that of
-a monkey. Now, tell me the truth. Thereupon, you will be released."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *9. tvam* = you; *praviSTaH* = the one who has entered; *imam
 purim* = this city; *naH* = of ours; *kR^itvaa* = assuming; *idam* = this;
 *chaararuupam* = guise of a spy; *tvam* = (are) you; *vaishrvaNasya* = belonging
@@ -470,6 +453,23 @@ longing for a victory?
 "Are you, the one who has entered our city, assuming the guise of a spy, sent by Kubera
 the god of riches or by Yama the god of death or by Varuna the lord of the sea or whether sent by Vishnu
 the lord of preservation, as a messenger, longing for a victory?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*10. vaanara* = O monkey!; *te* = your; *ruupamadtramtu* =
+form alone; *vaanaram* = (is that of) a monkey; *tejaH* = (your) splendour; *na hi*
+= is not indeed; *vaanaram* = that of a monkey; *adya* = Now; *kathayasva* = tell
+(me); *tattvataH* = actually; *mokSase* = you will be released; *tataH* = thereafter.
+
+**अनुवादः**
+
+"O monkey! Your form alone is that of a monkey. Your splendour indeed is not that of
+a monkey. Now, tell me the truth. Thereupon, you will be released."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
@@ -772,15 +772,18 @@ _________________
 
 **पदच्छेदः**
 
-*19. aham* = I; *vijNeyaH* = am to be known; *duutaaH iti*
-= as a messenger; *raaghavasya* = of Rama; *amitoujasaH* = possessing an unlimited splendour;
-*prabho* = O Lord of demons!; *idam* = let this; *pathyam* = beneficial; *mama
-vachaam* = word of mine; *shruujataam cha* = be heard (by you).
+17; *18. mayaa* = by me; *draSTukaamena* = with a desire to see;
+*raajaanam* = you the king; *astram anuvartitam* = the missile was obeyed; *mayaa*
+= by me; *abhipiiDitaH tu* = after being bound; *raakSasaiH* = by the demons; *aham*
+= I; *vimuktohi* = was indeed released; *astreNa* = from the missile; *sampraaptaH
+asmi* = I came; *tava antikam* = to your vicinity; *kenachit raajakaaryeNa* = on some
+king's duty.
 
 **अनुवादः**
 
-"O, Lord of demons! Know me to be a messenger of Rama who is possessing I am unlimited
-splendour. I am telling you a beneficial word. Listen to it."
+With a desire to see you the king, I surrendered to the missile. Soon after bound by
+the demons, I was indeed released from the missile. I came to your presence, prompted by some mission
+of Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>
@@ -794,18 +797,15 @@ splendour. I am telling you a beneficial word. Listen to it."
 
 **पदच्छेदः**
 
-17; *18. mayaa* = by me; *draSTukaamena* = with a desire to see;
-*raajaanam* = you the king; *astram anuvartitam* = the missile was obeyed; *mayaa*
-= by me; *abhipiiDitaH tu* = after being bound; *raakSasaiH* = by the demons; *aham*
-= I; *vimuktohi* = was indeed released; *astreNa* = from the missile; *sampraaptaH
-asmi* = I came; *tava antikam* = to your vicinity; *kenachit raajakaaryeNa* = on some
-king's duty.
+*19. aham* = I; *vijNeyaH* = am to be known; *duutaaH iti*
+= as a messenger; *raaghavasya* = of Rama; *amitoujasaH* = possessing an unlimited splendour;
+*prabho* = O Lord of demons!; *idam* = let this; *pathyam* = beneficial; *mama
+vachaam* = word of mine; *shruujataam cha* = be heard (by you).
 
 **अनुवादः**
 
-With a desire to see you the king, I surrendered to the missile. Soon after bound by
-the demons, I was indeed released from the missile. I came to your presence, prompted by some mission
-of Rama."
+"O, Lord of demons! Know me to be a messenger of Rama who is possessing I am unlimited
+splendour. I am telling you a beneficial word. Listen to it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga50/sundarasans50.htm)
 </details>

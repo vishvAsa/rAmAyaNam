@@ -3339,23 +3339,6 @@ _________________
 
 **पदच्छेदः**
 
-*71. raamaH* = Rama; *eSaam drumam* = among them, one tree;
-*ekena baaNena nirdaarayet* = with one, arrows, if rends; *raamasya vikramam
-dR^iSTvaa* = Rama's, valour, on seeing; *vaalinam nihatam manye* = Vali is, utterly
-dead, I construe.
-
-**अनुवादः**
-
-"If Rama can rend one tree out of the seven with only one arrow, then on seeing
-Rama's valour I can construe that Vali is utterly dead at his hand. [4-11-71]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *70. tataH* = then; *sugriivaH tam uvaachatha* = Sugreeva, to
 him, said; *puraa saH vaalii* = earlier, he, Vali; *imaan sapta saalan* = these,
 seven, sala trees; *evam* = that way; *eka ekashaH* = one, after other; *atha
@@ -3376,6 +3359,23 @@ the trees and when the arrow exited out of the tree, made its fin-feathers to co
 'arrow' has no place in monkey's hands. The very birth of this monkey race is to fight with their nails,
 teeth, and tree-trunks and branches. Hence, the word *vivyaadha* means that Vali tortures the
 trees by shaking their trunks, and shattering all the leaves in his show of strength.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*71. raamaH* = Rama; *eSaam drumam* = among them, one tree;
+*ekena baaNena nirdaarayet* = with one, arrows, if rends; *raamasya vikramam
+dR^iSTvaa* = Rama's, valour, on seeing; *vaalinam nihatam manye* = Vali is, utterly
+dead, I construe.
+
+**अनुवादः**
+
+"If Rama can rend one tree out of the seven with only one arrow, then on seeing
+Rama's valour I can construe that Vali is utterly dead at his hand. [4-11-71]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>
@@ -4145,23 +4145,6 @@ other monkeys. [4-11-86]
 
 **पदच्छेदः**
 
-*88. Raaghava* = Raghava; *samprati* = now; *laghuH* =
-sleazy; *nir maamsaH* = without, flesh; *tR^iNa bhuutaH ca* = strawy, rendered into,
-also; *raghu nandana* = Raghu's, descendent; *praharSeNa bhavataa evam kshiptaa* =
-merrily - energetically, by you, this way, flipped.
-
-**अनुवादः**
-
-"Raghava, now this body is sleazy, without flesh, also rendered into a strawy
-condition, and oh, Raghu's delight, you too flipped it because you are now energetic. [4-11-88]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *87. sakhe* = oh, friend; *tadaa* = at that time;
 *parishraantena* = tired; *mattena* = tipsy; *me bhraataa* = by my, brother;
 *vaalinaa* = by Vali; *puraa* = earlier; *aardraH* = wet [with blood]; *sa
@@ -4172,6 +4155,23 @@ maamsaH* = with, flesh; *pratyagraH* = unspoilt; *kaayaH* = body;
 
 "Oh, friend, at that time when my tired and tipsy brother Vali tossed this body it
 was unspoilt, wet with blood and full with flesh. [4-11-87]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*88. Raaghava* = Raghava; *samprati* = now; *laghuH* =
+sleazy; *nir maamsaH* = without, flesh; *tR^iNa bhuutaH ca* = strawy, rendered into,
+also; *raghu nandana* = Raghu's, descendent; *praharSeNa bhavataa evam kshiptaa* =
+merrily - energetically, by you, this way, flipped.
+
+**अनुवादः**
+
+"Raghava, now this body is sleazy, without flesh, also rendered into a strawy
+condition, and oh, Raghu's delight, you too flipped it because you are now energetic. [4-11-88]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm)
 </details>

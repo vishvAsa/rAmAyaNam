@@ -2287,23 +2287,6 @@ _________________
 
 **पदच्छेदः**
 
-*57. itastataH* = from here and there; *(they) samaajahruH* =
-brought; *taalan* = Palmyra trees; *daaDima gulmaamshcha* = pomegranate shrubs;
-*naarikela vibhiitakaan* = coconut and Vibhitaka; *kariiraan* = Karira;bakulaan =
-Bakula; *nimbaan* = and neem trees.
-
-**अनुवादः**
-
-From here and there the monkeys brought Palmyra trees, pomegranate shrubs, coconut
-and Vibhitaka, Karira, Bakula and neem trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *56. vanaraah* = the forest animals; *harisattamaaH* = the very
 good monkeys; *udyamya* = lifted; *prajahruH* = and brought; *paadapaan* = the
 trees; *samuulaancha* = some with roots intact; *vimuulaancha* = (and some);
@@ -2313,6 +2296,23 @@ trees; *samuulaancha* = some with roots intact; *vimuulaancha* = (and some);
 
 The excellent monkeys, the forest animals lifted and brought, like Indra's flag
 posts, some trees with roots intact and some others without roots.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*57. itastataH* = from here and there; *(they) samaajahruH* =
+brought; *taalan* = Palmyra trees; *daaDima gulmaamshcha* = pomegranate shrubs;
+*naarikela vibhiitakaan* = coconut and Vibhitaka; *kariiraan* = Karira;bakulaan =
+Bakula; *nimbaan* = and neem trees.
+
+**अनुवादः**
+
+From here and there the monkeys brought Palmyra trees, pomegranate shrubs, coconut
+and Vibhitaka, Karira, Bakula and neem trees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
@@ -2621,23 +2621,6 @@ _________________
 
 **पदच्छेदः**
 
-*65. tadaa* = then; *tumulaH* = a tumultuous; *shabdaH* =
-sound; *babhuuva* = occurred; *tatra* = there; *shilaanam* = of the rocks;
-*kshhipyamaaNaanaam* = thrown; *tasmin mahodadhou* = into that sea;
-*shailaanaam* = and of mountains; *paatyataam* = which were caused to fall.
-
-**अनुवादः**
-
-Then, a tumultuous sound occurred when the rocks were thrown into the sea and when
-mountains were caused to fall there.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *64. vanaraaH* = monkeys; *badhnauti* = constructed;
 *setum* = the bridge; *tarubhiH* = with trees; *pushhpitaagraiH* = having
 blossom at the end of their boughs; *daanavasamvibhaaH* = some monkeys looking like demons;
@@ -2650,6 +2633,23 @@ mountains;; *shikharaaNicha* = and peaks; *giriiNaam* = of mountains;
 Monkeys constructed the bridge with trees having blossom at the end of their boughs.
 Some monkeys looking like demons seized rocks resembling mountains and peaks of mountains and
 appeared running hither and thither.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*65. tadaa* = then; *tumulaH* = a tumultuous; *shabdaH* =
+sound; *babhuuva* = occurred; *tatra* = there; *shilaanam* = of the rocks;
+*kshhipyamaaNaanaam* = thrown; *tasmin mahodadhou* = into that sea;
+*shailaanaam* = and of mountains; *paatyataam* = which were caused to fall.
+
+**अनुवादः**
+
+Then, a tumultuous sound occurred when the rocks were thrown into the sea and when
+mountains were caused to fall there.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
@@ -2766,23 +2766,6 @@ speedily, thrilled with delight as they were, resembling elephants.
 
 **पदच्छेदः**
 
-*68. tathaa* = thus; *tR^itiiyena* = on the third;
-*aahnaa* = day; *ekavimshatirevacha* = twenty one; *yojanaani* = yojanas; were
-constructed) ; *saagare* = in the ocean; *tvaramaaNaih* = speedily;
-*mahaakaayaiH* = by the monkeys with colossal bodies.
-
-**अनुवादः**
-
-Thus, on the third day twenty-one Yojanas of the bridge were constructed in the
-ocean speedily by the monkeys with their colossal bodies.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *67. tathaiva* = in the same manner; *dvitiiyena* = on the
 second; *aahnaa* = day; *vimshati* = twenty; *yojanaani* = yojanas;
 *kR^itaani* = were constructed; *tuurNan* = speedily; *plavaNgaiH* = by the
@@ -2793,6 +2776,23 @@ strength.
 
 In the same manner, on the second day twenty Yojanas of bridge were constructed
 speedily by the monkeys of terrific bodies and of mighty strength.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*68. tathaa* = thus; *tR^itiiyena* = on the third;
+*aahnaa* = day; *ekavimshatirevacha* = twenty one; *yojanaani* = yojanas; were
+constructed) ; *saagare* = in the ocean; *tvaramaaNaih* = speedily;
+*mahaakaayaiH* = by the monkeys with colossal bodies.
+
+**अनुवादः**
+
+Thus, on the third day twenty-one Yojanas of the bridge were constructed in the
+ocean speedily by the monkeys with their colossal bodies.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
@@ -3396,24 +3396,6 @@ _________________
 
 **पदच्छेदः**
 
-*82. raamaH* = Rama; *shriimaan* = the glorious;
-*dharmaatmaa* = and the righteous man; *dhanvii* = wielding a bow; *sa
-lakshhmaNaH* = along with Lakshmana; *samanvitaH* = together; *sugriiveNa* = with
-Sugriva; *jagaama* = went; *agrataH* = in front; *tasya sainyasya* = of that
-army.
-
-**अनुवादः**
-
-Rama the glorious and righteous man, wielding a bow along with Lakshmana together
-with Sugriva, went in front of that army.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 80; *81. tataH* = thereafter; *sugrivantu* = Sugriva on his
 part; *praaha* = spoke; *raamam* = to Rama; *satyaparaakramam* = the truly
 brave man; *"Viira* = O;valiant man! ayam = This; *saagaraH* = ocean;
@@ -3429,6 +3411,24 @@ Thereafter, Sugriva on his part spoke to Rama, the truly brave man as follows: "
 valiant man! This ocean, the abode of alligators, is indeed vast. You ascend the shoulder of
 Hanuman and let Lakshmana ascend the shoulder of Angada. These monkeys can hold both of you while
 flying in the sky."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*82. raamaH* = Rama; *shriimaan* = the glorious;
+*dharmaatmaa* = and the righteous man; *dhanvii* = wielding a bow; *sa
+lakshhmaNaH* = along with Lakshmana; *samanvitaH* = together; *sugriiveNa* = with
+Sugriva; *jagaama* = went; *agrataH* = in front; *tasya sainyasya* = of that
+army.
+
+**अनुवादः**
+
+Rama the glorious and righteous man, wielding a bow along with Lakshmana together
+with Sugriva, went in front of that army.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>
@@ -3529,23 +3529,6 @@ _________________
 
 **पदच्छेदः**
 
-*85. saa* = that; *vaahinii* = army; *vaanaraaNaam* = of
-monkeys; *tiirNaa* = which crossed; *nala setunaa* = the bridge constructed by Nala;
-*nivivishe* = was encamped; *tire* = at a shore; *bahu muula phaodake* =
-having many fruits roots and water; *raaj^Naa* = by Sugriva.
-
-**अनुवादः**
-
-That army of monkeys, which crossed the ocean by the bridge constructed by Nala, was
-encamped by Sugriva at a shore having many fruits tubers and water.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *84. mahataa ghoshheNa* = by the great sound; *bhiimaa* = of the
 terrific; *harivaahinii* = army of monkeys; *tarantii* = who were crossing (the
 ocean); *ghoshham* = the sound; *saagarasya* = of the ocean; *samuchchhritam*
@@ -3555,6 +3538,23 @@ ocean); *ghoshham* = the sound; *saagarasya* = of the ocean; *samuchchhritam*
 
 The highly terrific sound of the ocean was covered up by the great sounds of the
 terrific monkeys who were crossing the sea.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*85. saa* = that; *vaahinii* = army; *vaanaraaNaam* = of
+monkeys; *tiirNaa* = which crossed; *nala setunaa* = the bridge constructed by Nala;
+*nivivishe* = was encamped; *tire* = at a shore; *bahu muula phaodake* =
+having many fruits roots and water; *raaj^Naa* = by Sugriva.
+
+**अनुवादः**
+
+That army of monkeys, which crossed the ocean by the bridge constructed by Nala, was
+encamped by Sugriva at a shore having many fruits tubers and water.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm)
 </details>

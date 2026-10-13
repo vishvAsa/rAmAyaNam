@@ -988,23 +988,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. shastraaNi* = weapons; *sharapatraaNi* = serving the
-purpose as reeds; *vibhiitikaaH* = chips of Vibhitika tree; *samidhaH* = serving as
-fuel; *atha lohitaani vaasaamsicha* = and then using red pieces of cloth; *tathaa* =
-and; *kaarShNaayasam sruvam* = the sacrificial ladle was made of iron.
-
-**अनुवादः**
-
-That valiant leader of demons offered oblations to fire there, with garlands and
-pounded sandalwood, including clarified butter and parched grain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *21. tataH* = then; *raakShasa shreShThaH* = that foremost of
 demons; *huta bhuksadR^ishaprabhaH* = having a radiance equal to that of fire;
 *mantrasattamaiH* = with excellent sacrificial incantations; *juhuve* = performed a
@@ -1016,6 +999,23 @@ the fire.
 Then, that foremost of demons, having a radiance equal to that of fire, with
 excellent sacrificial incantations, performed a sacrifice, as per rules, making an oblation to the
 fire.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. shastraaNi* = weapons; *sharapatraaNi* = serving the
+purpose as reeds; *vibhiitikaaH* = chips of Vibhitika tree; *samidhaH* = serving as
+fuel; *atha lohitaani vaasaamsicha* = and then using red pieces of cloth; *tathaa* =
+and; *kaarShNaayasam sruvam* = the sacrificial ladle was made of iron.
+
+**अनुवादः**
+
+That valiant leader of demons offered oblations to fire there, with garlands and
+pounded sandalwood, including clarified butter and parched grain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga73/yuddhasans73.htm)
 </details>

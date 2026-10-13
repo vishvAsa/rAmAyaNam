@@ -388,6 +388,23 @@ Ravana is compared with such a planet and Seetha with Rohini.
 
 **पदच्छेदः**
 
+*6b, 7a. ugram paapa karmaaNam* = Ravana who is with - ferocity, with iniquitous, activities;
+*tam samdR^ishya* = him, on observing; *janasthaana gataa drumaaH* = in Janasthaana, gone
+in [existing in,] trees; *na pra kampante* = are not, in full, sway; *maarutaH ca* = wind,
+also; *na pra vaati* = not, in full, swing.
+
+**अनुवादः**
+
+On observing ferocious Ravana whose activities are iniquitous, the trees of Janasthaana are not in full
+sway, nor the wind is in full swing. [3-46-6b, 7a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *7b, 8a. shiighra srotaaH ca* = rapid, with onrushes, also; *godaavarii nadii* = Godavari,
 river; *rakta locanam viikSantam* = with bloodshot, eyes, one who is looking about; *tam dR^iSTvaa*
 = him, on seeing; *bhayaat* = from fright; *stimitam gantum aarebhe* = quietly, to go
@@ -404,23 +421,6 @@ The reaction of the trees, wind, and river is as said by gods to Brahma in Bala 
 the Sun will not verily parch Ravana. Maarutha, the Air will not surge at his sides. On seeing Ravana,
 the lord of the undulating, drifting waves, Ocean... will not pulsate either, and will hide the undulating
 waves, for the waves are his wives, and Ravana may abduct them... like Seetha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*6b, 7a. ugram paapa karmaaNam* = Ravana who is with - ferocity, with iniquitous, activities;
-*tam samdR^ishya* = him, on observing; *janasthaana gataa drumaaH* = in Janasthaana, gone
-in [existing in,] trees; *na pra kampante* = are not, in full, sway; *maarutaH ca* = wind,
-also; *na pra vaati* = not, in full, swing.
-
-**अनुवादः**
-
-On observing ferocious Ravana whose activities are iniquitous, the trees of Janasthaana are not in full
-sway, nor the wind is in full swing. [3-46-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>
@@ -1237,23 +1237,6 @@ _________________
 
 **पदच्छेदः**
 
-*25b, 26a. saa* = such as you are; *prati kraama* = return, you go; *te bhadram*
-= to you, safety betides; *iha tvam vastum na arhasi* = here, to live, you, not, suitable for
-you [inapt of you]; *ayam* = this [forest]; *ghoraaNaam kaama ruupiNaam* = for ghastly
-ones, by wish, guise-changers; *raakSasaanaam vaasaH* = for demons, dwelling-place.
-
-**अनुवादः**
-
-Such as you are you go back, let safety betide you, as you are unsuited to live in here, for this forest
-is the dwelling for ghastly demons who by their wish will be changing their guise. [3-46-24b, 25a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *23b, 24a. lokeSu agryam te ruupam* = in [three] worlds, excellent, by features; *saukumaaryam
 vayaH ca* = with fragility, youthfulness, also; *iha kaantaare vaasaH ca* = here, in thick
 of forest, living, also; *me cittam unmathayanti [unmaadayati]* = my, heart, highly stirring
@@ -1263,6 +1246,23 @@ up [maddening, I marvel why.]
 
 "I marvel why an excellent one in all the three worlds by her features, more so, fragile and youthful
 as yourself should be living here in the thick of forest. [3-46-23b, 24, 25a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25b, 26a. saa* = such as you are; *prati kraama* = return, you go; *te bhadram*
+= to you, safety betides; *iha tvam vastum na arhasi* = here, to live, you, not, suitable for
+you [inapt of you]; *ayam* = this [forest]; *ghoraaNaam kaama ruupiNaam* = for ghastly
+ones, by wish, guise-changers; *raakSasaanaam vaasaH* = for demons, dwelling-place.
+
+**अनुवादः**
+
+Such as you are you go back, let safety betide you, as you are unsuited to live in here, for this forest
+is the dwelling for ghastly demons who by their wish will be changing their guise. [3-46-24b, 25a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga46/aranyasans46.htm)
 </details>

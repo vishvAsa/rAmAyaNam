@@ -526,15 +526,15 @@ _________________
 
 **पदच्छेदः**
 
-*11. nibaddhasyaapi* = though I have been tied down; *raakSasaaH*
-= those demons; *na shaktaaH kaamam khalu* = cannot do anything they wish; *me* = against
-me; *chhitvaa* = breaking; *paashaan* = the nooses; *punaH* = again; *aham*
-= I; *samutpatya* = by jumping up; *hanyaam* = can kill; *imaan* = them.
+*10. nibaddhaH* = tied down; *samgataiH* = coming together; *saH
+viiraH harisattamaH* = that heroic Hanuma; the foremost among the monkeys; *kR^itavaan* =
+made up; *matim* = his mind; *tatkaala sadR^ishiim* = appropriate for that occasion (as
+follows):
 
 **अनुवादः**
 
-"Though I have been tied down, those demons cannot do whatever they wish to do against
-me. Breaking the ties, I can fly up and kill them."
+Tied down again by the cruel demons, coming together, the heroic Hanuma the foremost
+among monkeys made up his mind appropriate for that occasion (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -548,15 +548,15 @@ me. Breaking the ties, I can fly up and kill them."
 
 **पदच्छेदः**
 
-*10. nibaddhaH* = tied down; *samgataiH* = coming together; *saH
-viiraH harisattamaH* = that heroic Hanuma; the foremost among the monkeys; *kR^itavaan* =
-made up; *matim* = his mind; *tatkaala sadR^ishiim* = appropriate for that occasion (as
-follows):
+*11. nibaddhasyaapi* = though I have been tied down; *raakSasaaH*
+= those demons; *na shaktaaH kaamam khalu* = cannot do anything they wish; *me* = against
+me; *chhitvaa* = breaking; *paashaan* = the nooses; *punaH* = again; *aham*
+= I; *samutpatya* = by jumping up; *hanyaam* = can kill; *imaan* = them.
 
 **अनुवादः**
 
-Tied down again by the cruel demons, coming together, the heroic Hanuma the foremost
-among monkeys made up his mind appropriate for that occasion (as follows):
+"Though I have been tied down, those demons cannot do whatever they wish to do against
+me. Breaking the ties, I can fly up and kill them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -774,15 +774,15 @@ _________________
 
 **पदच्छेदः**
 
-*17. tataH* = then; *te hR^iSTaaH raakSasaaH* = those delighted demons;
-*yayuH* = went; *parigR^ihya* = taking; *mahaakapim* = Hanuma; *savR^itaakaaram*
-= who concealed all types of feelings; *sattvavantam* = who was strong; *kapikuN^jaram*
-= and the foremost among monkeys.
+*16. me* = to me; *baddhasya* = who has been tied down; *bhuuyaH*
+= again; *rakSaamsi* = let the demons; *kurvantu piiDaam* = torment me; *kaamam*
+= as they wish; *uddiipanenacha* = by burning also; *puchchhasya* = my tail; *me manasaH*
+= to my mind; *naasti* = there will be no; *shramaH* = travail.
 
 **अनुवादः**
 
-Then, those delighted demons went, seizing Hanuma, who concealed all types of his feelings,
-who was strong and foremost among monkeys.
+"Let the demons tie me down of again and torment me as they wish, by burning my tail.
+There will be no travail to my mind."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -796,15 +796,15 @@ who was strong and foremost among monkeys.
 
 **पदच्छेदः**
 
-*16. me* = to me; *baddhasya* = who has been tied down; *bhuuyaH*
-= again; *rakSaamsi* = let the demons; *kurvantu piiDaam* = torment me; *kaamam*
-= as they wish; *uddiipanenacha* = by burning also; *puchchhasya* = my tail; *me manasaH*
-= to my mind; *naasti* = there will be no; *shramaH* = travail.
+*17. tataH* = then; *te hR^iSTaaH raakSasaaH* = those delighted demons;
+*yayuH* = went; *parigR^ihya* = taking; *mahaakapim* = Hanuma; *savR^itaakaaram*
+= who concealed all types of feelings; *sattvavantam* = who was strong; *kapikuN^jaram*
+= and the foremost among monkeys.
 
 **अनुवादः**
 
-"Let the demons tie me down of again and torment me as they wish, by burning my tail.
-There will be no travail to my mind."
+Then, those delighted demons went, seizing Hanuma, who concealed all types of his feelings,
+who was strong and foremost among monkeys.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -854,15 +854,15 @@ _________________
 
 **पदच्छेदः**
 
-*19. anviiyamaanaH* = accompanied; *rakSobhiH* = by demons; *hanumaan*
-= Hanuma; *arimdamaH* = the annihilator of enemies; *yayau* = went; *sukham* =
-happily; *chaarayaamaasa* = and roamed about; *mahaapuriim* = in the great city; *raakSasaanaam*
-= of the demons.
+*18. shaNkhabherii ninaadaishcha* = sounding couches and kettle-drums;
+*ghoSayantaH* = proclaiming; *svakarmabhiH* = the acts of Hanuma; *raakSasaaH*
+= the demons; *kruurakarmaaNaH* = performing terrible deeds; *chaarayantisma* = dragged
+him; *taam purim* = throughout that city.
 
 **अनुवादः**
 
-Accompanied by demons, Hanuma the annihilator of enemies, went happily and roamed about
-in that great city of demons.
+Sounding couches and kettle-drums and proclaining the acts of Hanuma like his damaging
+of the pleasure-garden, the demons performing terrible deeds, dragged Hanuma through out that city.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -876,15 +876,15 @@ in that great city of demons.
 
 **पदच्छेदः**
 
-*18. shaNkhabherii ninaadaishcha* = sounding couches and kettle-drums;
-*ghoSayantaH* = proclaiming; *svakarmabhiH* = the acts of Hanuma; *raakSasaaH*
-= the demons; *kruurakarmaaNaH* = performing terrible deeds; *chaarayantisma* = dragged
-him; *taam purim* = throughout that city.
+*19. anviiyamaanaH* = accompanied; *rakSobhiH* = by demons; *hanumaan*
+= Hanuma; *arimdamaH* = the annihilator of enemies; *yayau* = went; *sukham* =
+happily; *chaarayaamaasa* = and roamed about; *mahaapuriim* = in the great city; *raakSasaanaam*
+= of the demons.
 
 **अनुवादः**
 
-Sounding couches and kettle-drums and proclaining the acts of Hanuma like his damaging
-of the pleasure-garden, the demons performing terrible deeds, dragged Hanuma through out that city.
+Accompanied by demons, Hanuma the annihilator of enemies, went happily and roamed about
+in that great city of demons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -1673,23 +1673,6 @@ _________________
 
 **पदच्छेदः**
 
-*35. dR^ishyate* = It is conspicuous; *mahaajvaalaH* = with large
-flames; *na karoti cha* = not creating;rujam = paoin; *me* = to me; *iva* = as
-though; *shishirasya samghaataH* = a snow-ball; *pratiSThitaH* = is kept; *laaNguulaagre*
-= at the tip of my tail.
-
-**अनुवादः**
-
-"It is conspicuous with large flames. But it is not creating any paoin to me, as if a
-snow-ball is kept at the tip of my tail."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *34. laN^guule* = (While) his tail; *dahyamaane* = was burning;
 *vaanaraH* = Hanuma; *chintayaamaasa* = was reflecting; *kasmaat* = why; *ayam
 agniH* = this fire; *pradiiptaH* = which was burning; *saavataH* = on all sides;
@@ -1699,6 +1682,23 @@ agniH* = this fire; *pradiiptaH* = which was burning; *saavataH* = on all sides;
 
 While his tail was in flames, Hanuma was reflecting why the fire, which was blazing on
 all sides, was not burning him.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*35. dR^ishyate* = It is conspicuous; *mahaajvaalaH* = with large
+flames; *na karoti cha* = not creating;rujam = paoin; *me* = to me; *iva* = as
+though; *shishirasya samghaataH* = a snow-ball; *pratiSThitaH* = is kept; *laaNguulaagre*
+= at the tip of my tail.
+
+**अनुवादः**
+
+"It is conspicuous with large flames. But it is not creating any paoin to me, as if a
+snow-ball is kept at the tip of my tail."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -1769,23 +1769,6 @@ _________________
 
 **पदच्छेदः**
 
-*37. yadi* = If; *samudrasya* = for the ocean; *dhiimataH mynakasya*
-= and the wise Mount Mainaka; *taadR^ik sambhramaH* = such an eagerness was tehre; *raamaartham*
-= for the sake of Rama; *kim* = why; *agniH* = the fire-god; *nakariSyati* = will
-not do it?
-
-**अनुवादः**
-
-"If such an eagerness was there in the mind of the sea and the wise Mount Mainaka for
-the cause of Rama; will not the fire-god show the same degree of eagerness in making its touch cold?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *36. athava* = Or; *plavataa* = while jumping over; *mayaa*
 = by me; *raama prabhaavaat* = due to the power of Rama; *aashcharyam* = a surprise;
 *dR^iSTam* = was seen; *parvatodadhi samgame* = in a friendly alliance with a mountain
@@ -1796,6 +1779,23 @@ and the sea; *yat tat* = by which; *idam* = this; *vyaktam* = is clear.
 "Or, while I was jumping over the ocean, a surprise-alliance was formed with Mount Mainaka
 and through the mountain, with the ocean, because of Rama's power. By this, the reason of the coolness
 is clear."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. yadi* = If; *samudrasya* = for the ocean; *dhiimataH mynakasya*
+= and the wise Mount Mainaka; *taadR^ik sambhramaH* = such an eagerness was tehre; *raamaartham*
+= for the sake of Rama; *kim* = why; *agniH* = the fire-god; *nakariSyati* = will
+not do it?
+
+**अनुवादः**
+
+"If such an eagerness was there in the mind of the sea and the wise Mount Mainaka for
+the cause of Rama; will not the fire-god show the same degree of eagerness in making its touch cold?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -1869,22 +1869,6 @@ _________________
 
 **पदच्छेदः**
 
-*39. saH mahaakapiH* = that Hanuma; *kapikuN^jaraH* = the foremost
-among mokeys; *chintayaamaasa* = reflected; *bhuuyaH* = again; *atha* = and thereafter;
-*utpapaata* = jumped; *vegena* = with swiftness; *nanaada cha* = and roared also.
-
-**अनुवादः**
-
-That Hanuma, the foremost among the monkeys, reflected agian for a monment, jumped with
-swiftness and roared too.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *38. paavakaH* = the fire; *na dahati* = does not burn; *maam*
 = me; *aanR^ishamsyena* = due to kindness; *siitaayaaH* = of Seetha; *tejasaa*
 = power; *raaghavasya* = of Rama; *sakhyena* = and friendship; *mama pituH* = of
@@ -1894,6 +1878,22 @@ my father.
 
 "The fire does not burn me, due to kindness of Seetha, powerfulness of Rama and friendlines
 of my father."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*39. saH mahaakapiH* = that Hanuma; *kapikuN^jaraH* = the foremost
+among mokeys; *chintayaamaasa* = reflected; *bhuuyaH* = again; *atha* = and thereafter;
+*utpapaata* = jumped; *vegena* = with swiftness; *nanaada cha* = and roared also.
+
+**अनुवादः**
+
+That Hanuma, the foremost among the monkeys, reflected agian for a monment, jumped with
+swiftness and roared too.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -1993,15 +1993,15 @@ _________________
 
 **पदच्छेदः**
 
-*42. shriimaan* = the glorious Hanuma; *vimuktashcha* = having been
-free from his tethers; *punaH* = again; *abhavat* = assumed; *parvatasannibhaH*
-= a form equal to a mountain; *viikSamaaNashcha* = and while looking around; *dadR^ishe*
-= saw; *parigham* = an iron rod; *toraNaashritam* = belonging to the arched door-way.
+*41. saH aatmavaan* = that prudent Hanuma; *bhuutvaa* = became;
+*shaila samkaashaH* = similar to a mountain; *kSaNena* = and within a moment; *praaptaH*
+= reached; *paramaam hrasvataam* = an exceedingly short form; *avashaatayat* = and became
+free; *bandhanaani* = from tethers.
 
 **अनुवादः**
 
-The glorious Hanuma, having been free from his bonds, again assumed the form equal to
-a mountain and while looking around, found and iron rod belonging to the arched door-way.
+That prudent Hanuma assumed the form of a mountain and immediately within a moment, assumed
+an exceedingly short form, thus becoming free from his tethers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>
@@ -2015,15 +2015,15 @@ a mountain and while looking around, found and iron rod belonging to the arched 
 
 **पदच्छेदः**
 
-*41. saH aatmavaan* = that prudent Hanuma; *bhuutvaa* = became;
-*shaila samkaashaH* = similar to a mountain; *kSaNena* = and within a moment; *praaptaH*
-= reached; *paramaam hrasvataam* = an exceedingly short form; *avashaatayat* = and became
-free; *bandhanaani* = from tethers.
+*42. shriimaan* = the glorious Hanuma; *vimuktashcha* = having been
+free from his tethers; *punaH* = again; *abhavat* = assumed; *parvatasannibhaH*
+= a form equal to a mountain; *viikSamaaNashcha* = and while looking around; *dadR^ishe*
+= saw; *parigham* = an iron rod; *toraNaashritam* = belonging to the arched door-way.
 
 **अनुवादः**
 
-That prudent Hanuma assumed the form of a mountain and immediately within a moment, assumed
-an exceedingly short form, thus becoming free from his tethers.
+The glorious Hanuma, having been free from his bonds, again assumed the form equal to
+a mountain and while looking around, found and iron rod belonging to the arched door-way.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga53/sundarasans53.htm)
 </details>

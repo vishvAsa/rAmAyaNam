@@ -1764,6 +1764,23 @@ _________________
 
 **पदच्छेदः**
 
+*36. mahaabaahuH* = the mighty armed; *bharataH* = Bharata;
+*kaikeyiisutaH* = the son of Kaikeyi; *anN^aataH* = on the invitation;
+*maharSiNaa* = of the great sage; *pravivesha* = entered; *tat veshma* = that
+palace; *ratna sampuurNam* = filled with precious gems.
+
+**अनुवादः**
+
+The mighty armed Bharata the son of Kaikeyi on invitation by the great sage, entered
+that palace filled with precious gems.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *37. sarve* = all; *mantriNaH* = the ministers;
 *sapurohitaaH* = together with priests; *anujagmushcha* = accompanied; *tam* =
 Bharata; *dR^iSTvaa* = and on seeing; *tam* = that; *veshma samvidhim* =
@@ -1774,23 +1791,6 @@ excellent get-up of the palace; *babhuuvushcha* = they became; *yuktaaH* = fille
 
 All the ministers together with priests accompanied Bharata and on entering that
 excellent get-up of the house, were filled with delight
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*36. mahaabaahuH* = the mighty armed; *bharataH* = Bharata;
-*kaikeyiisutaH* = the son of Kaikeyi; *anN^aataH* = on the invitation;
-*maharSiNaa* = of the great sage; *pravivesha* = entered; *tat veshma* = that
-palace; *ratna sampuurNam* = filled with precious gems.
-
-**अनुवादः**
-
-The mighty armed Bharata the son of Kaikeyi on invitation by the great sage, entered
-that palace filled with precious gems.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>
@@ -2176,6 +2176,23 @@ corals came from the region of Kubera.
 
 **पदच्छेदः**
 
+*45. apsaro gaNaaH* = a particular company of Apsaras;
+*grahiitaH* = embraced; *yaabhiH* = by whom; *puruSaH* = a man;
+*lakSyate* = looked; *sonmaada iva* = as though seized with insanity; *aaguH*
+= came; *nandanaat* = from Nandana grove.
+
+**अनुवादः**
+
+A particular company of Apsaras, embraced by whom, a man looked as though seized
+with insanity, came from Nandana grove.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *46. ete* = these; *pravaraaH* = most excellent; *gandharva
 raajaanaH* = kings among celestial musicians; *naaradaH* = Narada; *tumburuH* =
 Tumburu; *gopaH* = and Gopa; *sumryavarchasaH* = whose radiance is like that of the
@@ -2186,23 +2203,6 @@ Bharata.
 
 Those most excellent kings among celestial musicians - Narada, Tumbura and Gopa
 whose radiance is like that of the sun, began to sing in front of Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*45. apsaro gaNaaH* = a particular company of Apsaras;
-*grahiitaH* = embraced; *yaabhiH* = by whom; *puruSaH* = a man;
-*lakSyate* = looked; *sonmaada iva* = as though seized with insanity; *aaguH*
-= came; *nandanaat* = from Nandana grove.
-
-**अनुवादः**
-
-A particular company of Apsaras, embraced by whom, a man looked as though seized
-with insanity, came from Nandana grove.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhyasans91.htm)
 </details>

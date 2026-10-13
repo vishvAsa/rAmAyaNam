@@ -419,24 +419,6 @@ _________________
 
 **पदच्छेदः**
 
-*8. te* = your; *dayitaH* = beloved; *sahodaraH* = brother;
-*kumaarah akSashcha* = Aksha the prince also; *suuditaH* = has been killled; *arniSUdana*
-= O annihilator of enemies!; *saaraH* = the strength; *yaH* = which; *me* = is
-in me; *tvayi* = and you; *nahi* = is indeed not there; *teSveva* = in them at
-all.
-
-**अनुवादः**
-
-"Your beloved brother Aksha the prince also has been killed. O annihilator of enemies!
-The strength which is in me or in you, is indeed not there in them at all."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *7. sarve* = all; *kimkaraaH* = Kimkaras; *raakSasashcha*
 = a demon; *jambumaalii* = called Jambumali; *viiraaH* = the heroic; *amaatya putraaH*
 = sons of ministers; *paN^cha* = the fire; *senaagra yaayinaH* = chiefs of army; *nihataaH*
@@ -448,6 +430,24 @@ cha* = along with highly abundant number of horses; elephants and chariots.
 "All the Kimkaras, a demon called Jambumali, the heroic sons of ministers and the five
 chiefs of army have been killed, as also the army together with highly abundant number of horses, elephants
 and chariots."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. te* = your; *dayitaH* = beloved; *sahodaraH* = brother;
+*kumaarah akSashcha* = Aksha the prince also; *suuditaH* = has been killled; *arniSUdana*
+= O annihilator of enemies!; *saaraH* = the strength; *yaH* = which; *me* = is
+in me; *tvayi* = and you; *nahi* = is indeed not there; *teSveva* = in them at
+all.
+
+**अनुवादः**
+
+"Your beloved brother Aksha the prince also has been killed. O annihilator of enemies!
+The strength which is in me or in you, is indeed not there in them at all."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
@@ -2625,26 +2625,6 @@ _________________
 
 **पदच्छेदः**
 
-*50. aho* = alas!; *mahat* = a great; *karma* = exploit;
-*kR^itam* = as been made; *nirarthakam* = futile; *mantragatiH* = the scope of
-the mystic formula; *na vimR^iSTaa* = has not been considered; *raakSasaiH* = by the demons;
-*mantre* = once the spell; *vihate* = has been made ineffective; *anyat* = another;
-*astram* = missile; *na pravartate* = cannot be operative; *sarve* = all of us;
-*sma* = became; *samshayitaah* = jeopardised.
-
-**अनुवादः**
-
-"Alas! My great exploit has been rendered futile. The scope of the mystic formula has
-not been considered by the demons. Once the spell has been made ineffective, another missile cannot
-be operative. All of us became jeopardized."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *49. vichaarya* = conceiving; *tam* = that; *kapisattmam*
 = Hanuma the foremost among the monkeys; *drumachiirabaddham* = bound with the bark of trees;
 *vimuktam* = as having been relieved; *astreNa* = of the missile; *viiraH* = the
@@ -2657,6 +2637,26 @@ means; *naanuvartate hi* = cannot indeed be obliged; *astram* = by the missile.
 Conceiving that Hanuma the foremost among the monkeys, bound with the bark of trees,
 as having been relieved of the missile, the heroic Indrajit, on his part, then became thoughtful as
 follows: "A person tied with other means cannot indeed be bound again by the missile."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*50. aho* = alas!; *mahat* = a great; *karma* = exploit;
+*kR^itam* = as been made; *nirarthakam* = futile; *mantragatiH* = the scope of
+the mystic formula; *na vimR^iSTaa* = has not been considered; *raakSasaiH* = by the demons;
+*mantre* = once the spell; *vihate* = has been made ineffective; *anyat* = another;
+*astram* = missile; *na pravartate* = cannot be operative; *sarve* = all of us;
+*sma* = became; *samshayitaah* = jeopardised.
+
+**अनुवादः**
+
+"Alas! My great exploit has been rendered futile. The scope of the mystic formula has
+not been considered by the demons. Once the spell has been made ineffective, another missile cannot
+be operative. All of us became jeopardized."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>
@@ -2699,23 +2699,6 @@ _________________
 
 **पदच्छेदः**
 
-*52. tataH* = then; *saH vaanaraH* = that Hanuma; *hanyamaanaH*
-= being beaten; *kaaSTha muSTibhiH* = with sticks and fists; *kruuraiH raakSasaiH* = by
-the cruel demon; *praakR^iSyata* = was dragged; *samiipam* = to the vicinity; *raakSasendrasya*
-= of Ravana.
-
-**अनुवादः**
-
-That Hanuma, then being beaten with sticks and fists by the cruel demons, was dragged
-to the vicinity of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *51. hanumaan* = Hanuma; *muktaH* = liberated; *astreNa* =
 by the missile; *kR^iSya maaNastu* = being dragged away; *rakSobhiH* = by the demons;
 *nipiiDitaH* = and afflicted; *bandhaiH* = by the ties of ropes; *na avabudhyata*
@@ -2725,6 +2708,23 @@ by the missile; *kR^iSya maaNastu* = being dragged away; *rakSobhiH* = by the de
 
 Hanuma, liberated from the missile being dragged away by the demons and afflicted by
 the ties of ropes, could not realize that he was liberated from the missile.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*52. tataH* = then; *saH vaanaraH* = that Hanuma; *hanyamaanaH*
+= being beaten; *kaaSTha muSTibhiH* = with sticks and fists; *kruuraiH raakSasaiH* = by
+the cruel demon; *praakR^iSyata* = was dragged; *samiipam* = to the vicinity; *raakSasendrasya*
+= of Ravana.
+
+**अनुवादः**
+
+That Hanuma, then being beaten with sticks and fists by the cruel demons, was dragged
+to the vicinity of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga48/sundarasans48.htm)
 </details>

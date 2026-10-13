@@ -421,22 +421,6 @@ bhraataa yaviiyasaH| putravat ca api varteran jyeShTho bhraatari dharmataH || dh
 
 **पदच्छेदः**
 
-*9. saH raamaH* = he that, Rama; *tam ruciram desham* = that, beautiful, place; *aashrama
-karmaNi* = hermitage, works [construction]; *aakramya* = while pacing; *hastena saumitrim
-haste gR^ihiitvaa* = by hand, Soumitri's, hand, on taking; *abraviit* = spoke to.
-
-**अनुवादः**
-
-On taking Lakshmana's hand by his hand Rama paced that beautiful place intended for the construction
-of hermitage up and down and spoke to Soumitri this way. [3-15-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 8.* mahaa dyutiH lakSmaNasya tena vaakyena* = by the great, resplendence, Lakshmana's, by that,
 wording; Rama; *supriitaH* = gladdened; *vimR^ishan sarva guNa anvitam* = exploring,
 all, attributes, comprising; *desham rocayaamaasa* = a place, started to like [to select.]
@@ -445,6 +429,22 @@ all, attributes, comprising; *desham rocayaamaasa* = a place, started to like [t
 
 Rama is gladdened by those words of that great resplendent Lakshmana, and he selected a place that comprised
 of all the attributes. [3-15-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. saH raamaH* = he that, Rama; *tam ruciram desham* = that, beautiful, place; *aashrama
+karmaNi* = hermitage, works [construction]; *aakramya* = while pacing; *hastena saumitrim
+haste gR^ihiitvaa* = by hand, Soumitri's, hand, on taking; *abraviit* = spoke to.
+
+**अनुवादः**
+
+On taking Lakshmana's hand by his hand Rama paced that beautiful place intended for the construction
+of hermitage up and down and spoke to Soumitri this way. [3-15-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga15/aranyasans15.htm)
 </details>

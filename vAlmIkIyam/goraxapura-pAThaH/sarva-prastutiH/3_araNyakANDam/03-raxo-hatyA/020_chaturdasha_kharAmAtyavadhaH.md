@@ -364,6 +364,22 @@ _________________
 
 **पदच्छेदः**
 
+7. aavaam putrau dasharathasya = we are, sons, of Dasharatha; bhraatarau raama lakSmaNau
+= brothers, Rama, Lakshmana; siitayaa saardham = Seetha, along with; duH caram daNDakaa
+vanam praviSTa = not, passable, Dandaka, forest, we entered.
+
+**अनुवादः**
+
+"We the sons of Dasharatha are brothers named Rama and Lakshmana, and we entered the impenetrable forests
+Dandaka along with Seetha. [3-20-7]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 8. phala muula ashanau = fruits, tubers, eaters; daantau = dispassionate; dharma
 caariNau = virtue, treaders in; daNDaka araNye vasantau = in Dandaka, forest, residents;
 taapasau = being sages; kim artham = what, for; upa himsatha = you outrage
@@ -373,22 +389,6 @@ us.
 
 "We the dispassionate subsist on fruits and tubers treading in the path of virtue, and we being the
 sages resident in Dandaka forest what for you outrage us. [3-20-8]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-7. aavaam putrau dasharathasya = we are, sons, of Dasharatha; bhraatarau raama lakSmaNau
-= brothers, Rama, Lakshmana; siitayaa saardham = Seetha, along with; duH caram daNDakaa
-vanam praviSTa = not, passable, Dandaka, forest, we entered.
-
-**अनुवादः**
-
-"We the sons of Dasharatha are brothers named Rama and Lakshmana, and we entered the impenetrable forests
-Dandaka along with Seetha. [3-20-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>
@@ -846,22 +846,6 @@ _________________
 
 **पदच्छेदः**
 
-19b, 20a. raaghavaH dhanuH gR^ihiitvaa = Raghava, bow, on taking; aayamya = arched
-[the bow]; lakSyaan raakSasaan uddishya = targets, demons, aiming at; shatakratuH vajraan
-iva = Indra [releasing,] thunderbolt, like; baaNaan mumoca = arrows, released.
-
-**अनुवादः**
-
-Then Raghava took up his bow, arched it, and aiming at the targeted demons released arrows as Indra
-would release his Thunderbolts. [3-20-19b, 20a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 18b, 19a. tataH pashcaat = there after; mahaatejaa = great resplendent Rama; parama
 kruddhaH = highly, wrathfully one; shila ashitaan = on stone, sharpened ones; suurya
 samnibhaan = sun, equalling in dazzle; caturdasha naaraacaan jagraaha = fourteen, iron
@@ -871,6 +855,22 @@ bolts [like arrows,] took up.
 
 Next that great resplendent Rama in high wrath took up fourteen iron bolt like arrows that are whetted
 on whetstone and equalling the sun in their dazzle. [3-20-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+19b, 20a. raaghavaH dhanuH gR^ihiitvaa = Raghava, bow, on taking; aayamya = arched
+[the bow]; lakSyaan raakSasaan uddishya = targets, demons, aiming at; shatakratuH vajraan
+iva = Indra [releasing,] thunderbolt, like; baaNaan mumoca = arrows, released.
+
+**अनुवादः**
+
+Then Raghava took up his bow, arched it, and aiming at the targeted demons released arrows as Indra
+would release his Thunderbolts. [3-20-19b, 20a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga20/aranyasans20.htm)
 </details>

@@ -1246,6 +1246,27 @@ _________________
 
 **पदच्छेदः**
 
+*37. raajan* = O; *king! sarve* = all; *etasya* = his;
+*shatasahasraaNi* = one lakh; *tathaiva* = and ehaturvisushat = forty thousand;
+*yuuthapaaH* = army-chiefs; *vihaaraaH naama* = named Viharas*; *balinaH* =
+are strong.
+
+**अनुवादः**
+
+"O, king! All his one lakh and forty thousand army-chiefs called Viharas* are
+strong.
+
+**टिप्पनी**
+
+*Viharas - Those who roam about at will.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 38; 39; *40. yaH* = the one who; *mahaan megha iva* = is like a
 great cloud; aavR^itya; enveloping; *aakaasham* = space; *tiSThati* = and who stays;
 *madhye* = in the middle; *vaanaraviiraaNaam* = of monkey- warriors; *vaasavaH
@@ -1263,27 +1284,6 @@ Pariyatra; *anuttamam* = a mountain that is exceeded by none in height."
 of monkey-warriors like Indra the god of celestials, the great voice of whose monkeys wishing for
 battle is heard like the roll of drums, is the General named Panasa, who is always invincible in
 battle. He dwells in Pariyatra, a mountain that is exceeded by none in height."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*37. raajan* = O; *king! sarve* = all; *etasya* = his;
-*shatasahasraaNi* = one lakh; *tathaiva* = and ehaturvisushat = forty thousand;
-*yuuthapaaH* = army-chiefs; *vihaaraaH naama* = named Viharas*; *balinaH* =
-are strong.
-
-**अनुवादः**
-
-"O, king! All his one lakh and forty thousand army-chiefs called Viharas* are
-strong.
-
-**टिप्पनी**
-
-*Viharas - Those who roam about at will.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>
@@ -1394,6 +1394,35 @@ _________________
 
 **पदच्छेदः**
 
+42; 43; *44. yaH* = he who; *sthitaam* = is encamped;
+*SaSTiH* = with sixty; *shatasahasraaNi* = lakhs; *plavaN^gamaaH* = monkeys;
+*asya* = his; *balam* = strength of army; *samudrasya tiire* = on the
+sea-shore; *dvitiiya saagaraH iva* = like unto a second ocean; yuuthapaH- is the commander;
+*vinatonaama* = called Vinata; *eSaH* = who; *dardurasamkaashaH* = resembles
+the Dardura mountain (in size); *shobhayan* = lending charm; *bhiimaam* = to the
+formidable; *chamuum* = army; *pravalgantiim* = marching; *charati* = and
+moves about; *piban* = drinking; *naddiim* = ( the waters of) River; *veNaam*
+= Vena; *uttamaam* = the foremost; *nadiinaam* = of all rivers.
+
+**अनुवादः**
+
+"He who is encamped with sixty lakhs monkeys as his army-strength on the sea-shore
+like unto a second ocean is the commander called Vinata who resembles Dardura mountain (in size)
+and is positioned there lending charm to the formidable army marching ahead and moves about,
+drinking the water of River Vena, the foremost of all rivers."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अदो अल्लि नोडु-गैरिकधातुविनन्तॆ कॆम्पाद शरीरवुळ्ळ तेजस्वी वानरन हॆसरु गवय ऎन्दागिदॆ. अवनिगॆ तन्न बलद भारी गर्वविदॆ. अवनु इदरिन्दले ऎल्ल वानररन्नु तिरस्करिसुत्तिद्दानॆ. रोषदिन्द निम्म कडॆगॆ मुन्नुग्गि बरुव अवन सेनॆयल्लि ऎप्पत्तु लक्ष वानररु इरुत्तारॆ. इवनू कूड तन्न सैन्यदॊन्दिगॆ लङ्कॆयन्नु धूळीपट माडलु बयसुत्तिरुवनु.॥44-46॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *45. vaanaraH* = A monkey; *krathanonaama* = called Krathana;
 (keeping); *vikrantaaH* = the courageous; *balavantashcha* = and strong monkeys;
 *yuuthaani* = and the army-chiefs; *yathaa* = according to bhaagashaH = separate
@@ -1406,11 +1435,6 @@ battle."
 army-lieutenants in separate units, is inviting you for the battle."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अदो अल्लि नोडु-गैरिकधातुविनन्तॆ कॆम्पाद शरीरवुळ्ळ तेजस्वी वानरन हॆसरु गवय ऎन्दागिदॆ. अवनिगॆ तन्न बलद भारी गर्वविदॆ. अवनु इदरिन्दले ऎल्ल वानररन्नु तिरस्करिसुत्तिद्दानॆ. रोषदिन्द निम्म कडॆगॆ मुन्नुग्गि बरुव अवन सेनॆयल्लि ऎप्पत्तु लक्ष वानररु इरुत्तारॆ. इवनू कूड तन्न सैन्यदॊन्दिगॆ लङ्कॆयन्नु धूळीपट माडलु बयसुत्तिरुवनु.॥44-46॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1428,30 +1452,6 @@ sarvaan = all; *vaanaraan* = the monkeys.
 
 "That resplendent monkey who for his part nourishes his body having the hue of a red
 chalk and proud of his strength, stands facing you with anger despising all other monkeys."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-42; 43; *44. yaH* = he who; *sthitaam* = is encamped;
-*SaSTiH* = with sixty; *shatasahasraaNi* = lakhs; *plavaN^gamaaH* = monkeys;
-*asya* = his; *balam* = strength of army; *samudrasya tiire* = on the
-sea-shore; *dvitiiya saagaraH iva* = like unto a second ocean; yuuthapaH- is the commander;
-*vinatonaama* = called Vinata; *eSaH* = who; *dardurasamkaashaH* = resembles
-the Dardura mountain (in size); *shobhayan* = lending charm; *bhiimaam* = to the
-formidable; *chamuum* = army; *pravalgantiim* = marching; *charati* = and
-moves about; *piban* = drinking; *naddiim* = ( the waters of) River; *veNaam*
-= Vena; *uttamaam* = the foremost; *nadiinaam* = of all rivers.
-
-**अनुवादः**
-
-"He who is encamped with sixty lakhs monkeys as his army-strength on the sea-shore
-like unto a second ocean is the commander called Vinata who resembles Dardura mountain (in size)
-and is positioned there lending charm to the formidable army marching ahead and moves about,
-drinking the water of River Vena, the foremost of all rivers."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga26/yuddhasans26.htm)
 </details>

@@ -241,22 +241,6 @@ _________________
 
 **पदच्छेदः**
 
-*6. sugriivaH* = Sugreeva; *shubha lakSaNam* = to one with auspicious, features; *tam lakSmaNam*
-= to him, to Lakshmana; *evam uktvaa* = thus, on speaking; *tadaa* = then; *taaraa aadyaH*
-= to Tara, and other; *yoSitaH eva ca* = females, thus, also; *visarjayaamaasa* = started to disperse.
-
-**अनुवादः**
-
-Sugreeva speaking thus to Lakshmana, whose person itself is auspicious, then bade adieu to Lady Tara and the other
-female vanara-s. [4-38-6]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *4b, 5. sugriivaH* = Sugreeva; *su bhaaSitam* = well, said - courteous words; *tasya lakSmaNasya*
 = of his, Lakshmana's; *tat vacanam shrutvaa* = that, sentence, on hearing; *parama priitaH* = while
 extremely, pleased; *etat vaakyam uvaaca ha* = this, sentence, spoke, indeed; *evam bhavatu* = that
@@ -267,6 +251,22 @@ way, it will be - so be it; *gacChaamaH* = let us go; *mayaa* = by me; *tvat* = 
 
 On hearing the courteous words of Lakshmana Sugreeva is extremely pleased and he indeed spoke this sentence to
 him, "So be it. Let us go. I remain biddable in your command." [4-38-4b, 5]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*6. sugriivaH* = Sugreeva; *shubha lakSaNam* = to one with auspicious, features; *tam lakSmaNam*
+= to him, to Lakshmana; *evam uktvaa* = thus, on speaking; *tadaa* = then; *taaraa aadyaH*
+= to Tara, and other; *yoSitaH eva ca* = females, thus, also; *visarjayaamaasa* = started to disperse.
+
+**अनुवादः**
+
+Sugreeva speaking thus to Lakshmana, whose person itself is auspicious, then bade adieu to Lady Tara and the other
+female vanara-s. [4-38-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
@@ -661,23 +661,6 @@ to the place where Rama is staying. [4-38-14b, 15a]
 
 **पदच्छेदः**
 
-*16b, 17a. tataH* = then; *raamam aasaadya ca* = Rama, on reaching, also; *kR^ita anjali puTaH
-abhavat* = making, adjoined, palm-fold, he became; *tasmin* = his; *kR^ita anjalau sthite* =
-making, palms adjoined, when he remained; *vaanaraaH ca* = [all of the] monkeys, also; *tathaa*
-= like that; *abhavat* = they became - all stood with adjoined palms.
-
-**अनुवादः**
-
-When Sugreeva reached Rama he stood still with adjoined-palms, and when he remained still with palm-fold all the
-other monkeys stood still with palm-fold. [4-38-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *15b, 16a. mahaatejaaH* = great-resplendent one, Sugreeva; *sa lakSmaNaH* = along with, Lakshmana;
 *saH* = he - Sugreeva; *raama niSevitam* = by Rama, adored - place adored by Rama while staying
 there; *shreSTham tam desham* = choicest, that, province; *anupraapya* = on attaining; *shibikaayaaH*
@@ -687,6 +670,23 @@ there; *shreSTham tam desham* = choicest, that, province; *anupraapya* = on atta
 
 On reaching the province where Rama is staying in all his adoration to that place, the great-resplendent Sugreeva
 descended the palanquin along with Lakshmana. [4-38-15b, 16a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*16b, 17a. tataH* = then; *raamam aasaadya ca* = Rama, on reaching, also; *kR^ita anjali puTaH
+abhavat* = making, adjoined, palm-fold, he became; *tasmin* = his; *kR^ita anjalau sthite* =
+making, palms adjoined, when he remained; *vaanaraaH ca* = [all of the] monkeys, also; *tathaa*
+= like that; *abhavat* = they became - all stood with adjoined palms.
+
+**अनुवादः**
+
+When Sugreeva reached Rama he stood still with adjoined-palms, and when he remained still with palm-fold all the
+other monkeys stood still with palm-fold. [4-38-16b, 17a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>
@@ -888,6 +888,27 @@ seat on ground Rama spoke to him. [4-38-19b, 20a]
 
 **पदच्छेदः**
 
+*20b, 21a. viira* = oh, valiant one; *hari sattama* = oh, monkey's, the best; *yaH* = he
+who; *satatam* = always; *dharmam artham ca kaamam ca* = probity, prosperity, also, pleasure-seeking,
+also; *kaale* = according to time; *vibhajya* = by dividing; *niSevate* = devote oneself
+to; *saH raajaa* = he [alone,] is the king.
+
+**अनुवादः**
+
+"He alone is the king, oh, valiant Sugreeva, who always divides time for devoting himself to probity, prosperity
+and pleasure-seeking. [4-38-20b, 21a]
+
+**टिप्पनी**
+
+Say, mornings for duty-bound affairs, afternoons for financial matters, and nights for pleasure-seeking programs.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *21b, 22a. yaH* = he who; *dharmam tathaa artham ca* = probity, like that, prosperity, also; *
 hitvaa* = on discarding; *kaamam tu niSevate* = to pleasure-seeking, alone, devotes to; *saH*
 = he; *vR^ikSa agre suptaH yathaa* = on tree, top, one who slept, as with; *patitaH prati budhyate*
@@ -902,27 +923,6 @@ he is like the one who slept on a treetop who awakens only after falling down. [
 
 An out-and-out pleasure-seeker wakes up only when he runs into troubles. Till such time he uses slender branches
 and tender leaves available on the infirm treetop, called his pleasuring area, as his cushion bed and foam pillows.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*20b, 21a. viira* = oh, valiant one; *hari sattama* = oh, monkey's, the best; *yaH* = he
-who; *satatam* = always; *dharmam artham ca kaamam ca* = probity, prosperity, also, pleasure-seeking,
-also; *kaale* = according to time; *vibhajya* = by dividing; *niSevate* = devote oneself
-to; *saH raajaa* = he [alone,] is the king.
-
-**अनुवादः**
-
-"He alone is the king, oh, valiant Sugreeva, who always divides time for devoting himself to probity, prosperity
-and pleasure-seeking. [4-38-20b, 21a]
-
-**टिप्पनी**
-
-Say, mornings for duty-bound affairs, afternoons for financial matters, and nights for pleasure-seeking programs.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga38/kishkindhasans38.htm)
 </details>

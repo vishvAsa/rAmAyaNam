@@ -1064,6 +1064,23 @@ _________________
 
 **पदच्छेदः**
 
+*21. viira* = oh, brave one; *etat madhuukaanaam mahat vanam
+aalakSyate* = this, Madhuuka [bassia latifolia, flowers of which are used to distil liquor]
+trees, great, forest, that seen; *asya uttareNa* = by its, north; *nyagrodham api
+gacChataa gantavyam* = banyan tree, also, on advancing towards, you have to proceed.
+
+**अनुवादः**
+
+"Oh, brave one, you see this great forest of flower-liquor trees, you have to
+proceed north of it and advance towards a banyan tree. [3-13-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *22. tataH sthalam upa aaruhya* = then, upland, on climbing up;
 *parvatasya avi duurataH* = from mountain, not, far away; *pancavaTii iti eva khyaataH
 Panchavati, thus, that way, renowned; *nitya puSpita kaananaH* = ever, blooming, forest [is
@@ -1074,23 +1091,6 @@ there.]*
 "Then on climbing up an upland a mountain is seen, that which is also not far away,
 and that renowned Panchavati is there in an ever-blooming forest in the valley of that mountain."
 Said Sage Agastya to Rama. [3-13-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*21. viira* = oh, brave one; *etat madhuukaanaam mahat vanam
-aalakSyate* = this, Madhuuka [bassia latifolia, flowers of which are used to distil liquor]
-trees, great, forest, that seen; *asya uttareNa* = by its, north; *nyagrodham api
-gacChataa gantavyam* = banyan tree, also, on advancing towards, you have to proceed.
-
-**अनुवादः**
-
-"Oh, brave one, you see this great forest of flower-liquor trees, you have to
-proceed north of it and advance towards a banyan tree. [3-13-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga13/aranyasans13.htm)
 </details>

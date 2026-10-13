@@ -293,32 +293,6 @@ _________________
 
 **पदच्छेदः**
 
-*6;7. tataH* = "Thereafte (After crossing the River Yamuna);
-*aasaadya* = approaching; *mahaantam* = a large; *nyagrodham* = banyan tree;
-*shyaamam* = named Syama(dark-green); *haritachchhadam* = growing; *bahubhiH*
-= among many; *vR^ikshhaiH* = trees; *siddhopa sevitam* = and visited by Siddhas;
-*siitaa* = Seetha should; kR^itvaa aJNjlim; = joining her palms; *pryuNjita* =
-recite; *shivaaH* = auspicious; *aashishhaH* = prayers; *tasmai* = to the
-tree."
-
-**अनुवादः**
-
-After crossing the river Yamuna and approaching a large banyan tree named Syama
-(dark-green) having green leaves surrounded by many tress and visited by Siddhas, Seetha should,
-joining her palms, recite her auspicious prayers to the tree."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-रघुनन्दन! अनन्तर गङ्गॆय नीरिन वेगदिन्द तन्न प्रवाहद विरुद्धवागि तिरुगिद यमुनॆय बळिगॆ होगि, जनरु बन्दु होगुव कालुदारिय मूलक नदि दाटुव स्थळवन्नु चॆन्नागि परीक्षिसि ऒन्दु तॆप्पवन्नु माडिकॊण्डु अदरिन्द सूर्यकन्यॆ यमुनॆयन्नु दाटिहोगिरि.॥5॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5. aasaadya* = "reaching; *atha* = then; *aapagaam* =
 the River; *kaaLindiim* = Yamuna; *puraaNam* = belonging to olden times; *shiighra
 srotasam* = with a rapid stream; *prekshhya* = and perceiving(in it) tasyaaH tiirtham =
@@ -333,6 +307,32 @@ river; *amshumatiim* = Yamuna (the daughter of the sun-god) kR^itvaa = by prepar
 perceiving in it a passage for descent into the river, which is too much frequented the river,
 which is too much frequented, you cross the River Yamuna (the daughter of the sun-god) by preparing
 a raft there, Oh Rama!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+रघुनन्दन! अनन्तर गङ्गॆय नीरिन वेगदिन्द तन्न प्रवाहद विरुद्धवागि तिरुगिद यमुनॆय बळिगॆ होगि, जनरु बन्दु होगुव कालुदारिय मूलक नदि दाटुव स्थळवन्नु चॆन्नागि परीक्षिसि ऒन्दु तॆप्पवन्नु माडिकॊण्डु अदरिन्द सूर्यकन्यॆ यमुनॆयन्नु दाटिहोगिरि.॥5॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6;7. tataH* = "Thereafte (After crossing the River Yamuna);
+*aasaadya* = approaching; *mahaantam* = a large; *nyagrodham* = banyan tree;
+*shyaamam* = named Syama(dark-green); *haritachchhadam* = growing; *bahubhiH*
+= among many; *vR^ikshhaiH* = trees; *siddhopa sevitam* = and visited by Siddhas;
+*siitaa* = Seetha should; kR^itvaa aJNjlim; = joining her palms; *pryuNjita* =
+recite; *shivaaH* = auspicious; *aashishhaH* = prayers; *tasmai* = to the
+tree."
+
+**अनुवादः**
+
+After crossing the river Yamuna and approaching a large banyan tree named Syama
+(dark-green) having green leaves surrounded by many tress and visited by Siddhas, Seetha should,
+joining her palms, recite her auspicious prayers to the tree."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
@@ -691,23 +691,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. tataH* = thereafter viiryavaan = the valiant; *lakshmaNaH*
-= Lakshmana; *chakaara* = made; *siitaayaaH* = for Seetha; *sukham* = a
-comfortable; *aasanam* = seat; *chittvaa* = after chopping vetasshaakshaashcha =
-branches of reeds; *jambushaakshaashcha* = and branches of rose apple tree.
-
-**अनुवादः**
-
-Thereafter, the valiant Lakshmana made for Seetha a comfortable seat, after chopping
-branches of reeds and of rose apple tree.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14. athau* = then; *tau* = Rama and Lakshmana;
 *chakratuH* = made; *mahaaplavam* = a big raft; *kaashhTasamghaatam* = with
 pieces of timber fastened together; *samvR^itam* = covered; *ushhiiraiH* = with a
@@ -718,6 +701,23 @@ bamboo canes.
 
 Then, Rama and Lakshmana prepared a big raft with pieces of timber fastened
 together, covered with a kind of grass and spread over with dry bamboo canes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. tataH* = thereafter viiryavaan = the valiant; *lakshmaNaH*
+= Lakshmana; *chakaara* = made; *siitaayaaH* = for Seetha; *sukham* = a
+comfortable; *aasanam* = seat; *chittvaa* = after chopping vetasshaakshaashcha =
+branches of reeds; *jambushaakshaashcha* = and branches of rose apple tree.
+
+**अनुवादः**
+
+Thereafter, the valiant Lakshmana made for Seetha a comfortable seat, after chopping
+branches of reeds and of rose apple tree.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>
@@ -768,23 +768,6 @@ _________________
 
 **पदच्छेदः**
 
-*17. raamaH* = Rama; *chakre* = kept; *vasane* = the two
-robes; *bhushhaNaani cha* = the jewellery; *kaThinakaajam cha* = shovel and a basket;
-*paarshve* = by the side; *vaidehyaa* = of Seetha; *plave* = in the raft;
-*tatra* = there; *sahaayudhaiH* = along with weapons.
-
-**अनुवादः**
-
-Rama kept the two robes the jewellery, a shovel and a basket by the side of Seetha
-in the raft there, along with weapons.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *16. tatra* = the; *raamaH* = Rama; *daasharathiH* = the
 son of Dasaratha; *aadhyaaropayate* = helped to mount; *plavam* = the raft; *taam
 priyam* = that beloved Seetha; *samlajjamaanaam* = who was feeling shy; *iishhat*
@@ -795,6 +778,23 @@ of fortune.
 
 Then Rama the son of Dasaratha helped Seetha his beloved consort who was
 unimaginable like the goddess of fortune and who was feeling shy a little- to mount the raft.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*17. raamaH* = Rama; *chakre* = kept; *vasane* = the two
+robes; *bhushhaNaani cha* = the jewellery; *kaThinakaajam cha* = shovel and a basket;
+*paarshve* = by the side; *vaidehyaa* = of Seetha; *plave* = in the raft;
+*tatra* = there; *sahaayudhaiH* = along with weapons.
+
+**अनुवादः**
+
+Rama kept the two robes the jewellery, a shovel and a basket by the side of Seetha
+in the raft there, along with weapons.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga55/ayodhyasans55.htm)
 </details>

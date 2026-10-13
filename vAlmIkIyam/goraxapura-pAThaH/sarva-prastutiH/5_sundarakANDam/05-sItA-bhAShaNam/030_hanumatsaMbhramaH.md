@@ -223,14 +223,15 @@ _________________
 
 **पदच्छेदः**
 
-*5. visheSashcha* = the characteristics of; *raakSasaanaam* = demons; *iyam*
-= this; *puriicha* = town; *prabhaavashcha* = and the power; *raavaNasya* = of Ravana;
-*raakSasaadhipate* = the king of demons; *avekSitaa* = have been perceived (by me).
+*4. mayaa* = by me; *suyuktena* = employed thoughtfully (by my Master); *
+chaareNa* = as a secret agent; *charataa* = and gone about; *guuDhena* = secretly; *shatroH
+shakti vyapekSya* = in my view to ascertain the enemy's strength; *idam* = this; *avekSitam taavat*
+= has been perceived.
 
 **अनुवादः**
 
-"The characteristics of demons, this town and the power of the king of demons, Ravana, have been
-perceived by me."
+"By me, employed thoughtfully (by my Master) as a secret agent and gone about secretly with a view
+to ascertain the enemy's strength, this has been perceived.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
@@ -244,15 +245,14 @@ perceived by me."
 
 **पदच्छेदः**
 
-*4. mayaa* = by me; *suyuktena* = employed thoughtfully (by my Master); *
-chaareNa* = as a secret agent; *charataa* = and gone about; *guuDhena* = secretly; *shatroH
-shakti vyapekSya* = in my view to ascertain the enemy's strength; *idam* = this; *avekSitam taavat*
-= has been perceived.
+*5. visheSashcha* = the characteristics of; *raakSasaanaam* = demons; *iyam*
+= this; *puriicha* = town; *prabhaavashcha* = and the power; *raavaNasya* = of Ravana;
+*raakSasaadhipate* = the king of demons; *avekSitaa* = have been perceived (by me).
 
 **अनुवादः**
 
-"By me, employed thoughtfully (by my Master) as a secret agent and gone about secretly with a view
-to ascertain the enemy's strength, this has been perceived.
+"The characteristics of demons, this town and the power of the king of demons, Ravana, have been
+perceived by me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
@@ -1964,15 +1964,15 @@ _________________
 
 **पदच्छेदः**
 
-*40. katham nu* = how (can Seetha); *shR^iNuyaat* = hear; *me vaakyam*
-= my words?; *na udvijetavaa* = or without fear; *samchintya* = thinking; *iti* = in this
-way; *matimaan* = the wise; *hanumaan* = Hanuma; *chakaara* = made up; *matim* = (his)
-mind (as follows):
+*39. katham nu* = How; *kaaryam* = (does) the work; *na vinashyate*
+= not get spoiled?; *katham* = how; *vaiklabyam* = the feebleness; *na bhavet* = can not
+occur?; *katham nu* = also how; *lamghanam cha* = my leaping across the sea; *na bhavet*
+= does not become; *vR^ithaa* = vain?"
 
 **अनुवादः**
 
-"How can Seetha hear my words without fear?" Thinking in this way, the wise Hanuma made up his
-mind (as follows):
+"How does not my work get spoiled? How should I avoid my feebleness? Also how does not my leaping
+across the sea become vain?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>
@@ -1986,15 +1986,15 @@ mind (as follows):
 
 **पदच्छेदः**
 
-*39. katham nu* = How; *kaaryam* = (does) the work; *na vinashyate*
-= not get spoiled?; *katham* = how; *vaiklabyam* = the feebleness; *na bhavet* = can not
-occur?; *katham nu* = also how; *lamghanam cha* = my leaping across the sea; *na bhavet*
-= does not become; *vR^ithaa* = vain?"
+*40. katham nu* = how (can Seetha); *shR^iNuyaat* = hear; *me vaakyam*
+= my words?; *na udvijetavaa* = or without fear; *samchintya* = thinking; *iti* = in this
+way; *matimaan* = the wise; *hanumaan* = Hanuma; *chakaara* = made up; *matim* = (his)
+mind (as follows):
 
 **अनुवादः**
 
-"How does not my work get spoiled? How should I avoid my feebleness? Also how does not my leaping
-across the sea become vain?"
+"How can Seetha hear my words without fear?" Thinking in this way, the wise Hanuma made up his
+mind (as follows):
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga30/sundarasans30.htm)
 </details>

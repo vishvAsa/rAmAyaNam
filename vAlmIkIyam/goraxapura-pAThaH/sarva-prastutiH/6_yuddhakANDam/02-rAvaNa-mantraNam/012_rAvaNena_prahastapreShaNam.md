@@ -553,23 +553,6 @@ _________________
 
 **पदच्छेदः**
 
-*12. iyam* = this; *janakaatmajaa* = Seetha; *priyaa* =
-the beloved; *mahiSii* = wife; *raamasya* = of Rama; *aaniitaa* = was brought;
-*daNDakaaraNyaat* = from the forest of Dandaka; *charitoddeshaat* = the place
-randered; *rakSobhiH* = by demons."
-
-**अनुवादः**
-
-"Seetha the beloved wife of Rama was brought from the forest of Dandaka, the place
-frequented by demons."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *6. saH* = that; *raavaNaH* = Ravana; *raajaa* = the
 king; *shrutvaa* = hearing; *vachaH* = the words; *prahastasya* = of Prahasta;
 *raajya hitaishhiNaH* = who wished the welfare of the kingdom; *sukhepsuH* = being
@@ -580,6 +563,23 @@ middle; *suhR^idaam* = of his friends.
 
 Hearing the words of Prahasta, who wished the welfare of the kingdom, king Ravana,
 with a desire to obtain happiness, spoke in the desire midst of his friends as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*12. iyam* = this; *janakaatmajaa* = Seetha; *priyaa* =
+the beloved; *mahiSii* = wife; *raamasya* = of Rama; *aaniitaa* = was brought;
+*daNDakaaraNyaat* = from the forest of Dandaka; *charitoddeshaat* = the place
+randered; *rakSobhiH* = by demons."
+
+**अनुवादः**
+
+"Seetha the beloved wife of Rama was brought from the forest of Dandaka, the place
+frequented by demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga12/yuddhasans12.htm)
 </details>

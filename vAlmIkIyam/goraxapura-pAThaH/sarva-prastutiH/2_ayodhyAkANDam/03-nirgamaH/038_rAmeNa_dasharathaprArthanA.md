@@ -104,6 +104,23 @@ by her husband all the people there loudly cried out: "Fie upon you, Dasaratha!"
 
 **पदच्छेदः**
 
+*2. duHkhitaH* = pained; *tena praNaadena* = by that loud cry;
+*tatra* = there; *mahiipatiH* = that king; *chichchheda* = lost;
+*shraddhaam* = interest; *aatmanaH* = in his; *jiivete* = life;
+*dharme* = religious merit; *yashasi* = esteem.
+
+**अनुवादः**
+
+Pained by that loud cry there, King Dasaratha lost interest in his life, religious
+merit and esteem.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *3. saH* = that; *aikshhvaakaH* = Dasaratha; *niHshvasya*
 = by sighing; *ushhNam* = warmly; *abraviit* = spoke; *bhaaryaam* = to his
 wife; *idam* = these words; kaikeyi "Oh; *Kaikeyi! siitaa* = Seetha;
@@ -114,23 +131,6 @@ made of Kusa grass"
 
 Dasaratha with a warm sigh, spoke to his wife these words. "Oh, Kaikeyi! Seetha does
 not deserve to go with a robe made of Kusa grass."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*2. duHkhitaH* = pained; *tena praNaadena* = by that loud cry;
-*tatra* = there; *mahiipatiH* = that king; *chichchheda* = lost;
-*shraddhaam* = interest; *aatmanaH* = in his; *jiivete* = life;
-*dharme* = religious merit; *yashasi* = esteem.
-
-**अनुवादः**
-
-Pained by that loud cry there, King Dasaratha lost interest in his life, religious
-merit and esteem.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>
@@ -727,23 +727,6 @@ the ground.
 
 **पदच्छेदः**
 
-*15. dharmika* = Oh; virtuous; *deva* = king! iyam = this;
-*kausalyaa* = Kausalya = Kausalya; *mama maataa* = my mother; *yashasvinii* =
-the glorious woman; *vR^iddhaa* = is aged; *akshhudra shiilaacha* = not base natured;
-*nacha garhate* = will not accuse; *tvaam* = you.
-
-**अनुवादः**
-
-"Oh, virtuous king! This glorious Kausalya, my mother is aged. She is not of base
-nature and will not accuse you.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14. raamaH* = Rama; *samprasthitaH* = who was setting out;
 *vanam* = to forest; *abraviit* = spoke; *idam vachanam* = these words;
 *pitaram* = to his father; *bruvantam* = who was speaking; *evam* = thus;
@@ -753,6 +736,23 @@ nature and will not accuse you.
 
 Rama, who was setting out to the forest, spoke these words to his father, who was
 speaking thus bowing down his head, sitting there.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. dharmika* = Oh; virtuous; *deva* = king! iyam = this;
+*kausalyaa* = Kausalya = Kausalya; *mama maataa* = my mother; *yashasvinii* =
+the glorious woman; *vR^iddhaa* = is aged; *akshhudra shiilaacha* = not base natured;
+*nacha garhate* = will not accuse; *tvaam* = you.
+
+**अनुवादः**
+
+"Oh, virtuous king! This glorious Kausalya, my mother is aged. She is not of base
+nature and will not accuse you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga38/ayodhyasans38.htm)
 </details>

@@ -482,6 +482,23 @@ _________________
 
 **पदच्छेदः**
 
+*9b, 10a. eSaH mayaa guptaH* = he is protected by me; *divyena svena
+ tejasaa* = his own divinely resplendence; *ye vikartaaraH raakShasaaH*
+ = those, wrongdoers [thwarting,] demons; *teSaam api vinaashane* = even in destruction of them
+ ; *shaktaH hi* = capable, indeed.
+
+**अनुवादः**
+
+"Indeed, he is capable to eradicate those demons that are thwarting the ritual
+ by his own divine resplendence, and protected by me as well. [1-19-9b, 10a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *10b, 11a. asmai* = to him [to Rama]; *bahuruupam* = in many a
  kind; *shreyaH cha pradaasyaami* = I will accord benefits also; *samshayaH
  na* = doubt, is not there; *yena* = by which [which benefits]; *
@@ -492,23 +509,6 @@ _________________
 
 "I will also accord many kinds of benefits to him by which he acquires renown
  in all the three worlds, no doubt about it. [1-19-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*9b, 10a. eSaH mayaa guptaH* = he is protected by me; *divyena svena
- tejasaa* = his own divinely resplendence; *ye vikartaaraH raakShasaaH*
- = those, wrongdoers [thwarting,] demons; *teSaam api vinaashane* = even in destruction of them
- ; *shaktaH hi* = capable, indeed.
-
-**अनुवादः**
-
-"Indeed, he is capable to eradicate those demons that are thwarting the ritual
- by his own divine resplendence, and protected by me as well. [1-19-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>
@@ -1057,26 +1057,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. iti hR^idayamanovidaaraNam* = this way explicitly slitting heart and mind;
- *tat* = that [word]; *munivachanam* = saint's words;
- *shushruvaan* = one who has heard, Dasharatha; *mahaan mahaatmaa*
- = illustrious, noble souled one; *narapatiH* = king Dasharatha; *tadaa*
- = then; *atiiva vyathitamanaaH* = highly, annoyed at heart; *abhavat*
- = he became; *aasanaat prachachaala cha* = inordinately flustered from seat [throne], also.
-
-**अनुवादः**
-
-This way on hearing that word of the saint Vishvamitra which is explicitly slitting
- his mind and heart that illustrious and noble-souled king Dasharatha then became
- highly annoyed at heart, and flustered extremely in his throne. [1-19-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *20b, 21. saH raajendraH* = he, best king Dasharatha; *shubham tat*
  = propitious [words,] that; *vishvaamitravachaH* = words of Viswamitra;
  *nishamya* = on hearing; *mahataa shokena aaviSTaH* = muffled up by profound
@@ -1089,6 +1069,26 @@ This way on hearing that word of the saint Vishvamitra which is explicitly slitt
 On hearing the propitious words of sage Vishvamitra that best king Dasharatha
  shuddered and swooned as he is muffled up with profound adversity, and after that
  on regaining consciousness he sunk down in fear. [1-19-20b, 21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. iti hR^idayamanovidaaraNam* = this way explicitly slitting heart and mind;
+ *tat* = that [word]; *munivachanam* = saint's words;
+ *shushruvaan* = one who has heard, Dasharatha; *mahaan mahaatmaa*
+ = illustrious, noble souled one; *narapatiH* = king Dasharatha; *tadaa*
+ = then; *atiiva vyathitamanaaH* = highly, annoyed at heart; *abhavat*
+ = he became; *aasanaat prachachaala cha* = inordinately flustered from seat [throne], also.
+
+**अनुवादः**
+
+This way on hearing that word of the saint Vishvamitra which is explicitly slitting
+ his mind and heart that illustrious and noble-souled king Dasharatha then became
+ highly annoyed at heart, and flustered extremely in his throne. [1-19-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga19/balasans19.htm)
 </details>

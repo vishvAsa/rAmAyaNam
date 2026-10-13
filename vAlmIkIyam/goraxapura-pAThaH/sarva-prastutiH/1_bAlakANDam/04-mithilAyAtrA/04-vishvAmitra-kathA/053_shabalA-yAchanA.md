@@ -508,6 +508,23 @@ eminent saint, on his part replied the king in this way. [1-53-10b, 11a]
 
 **पदच्छेदः**
 
+*11b, 12a. raajan* = oh king; *aham* = I; *gavaam shatasahasreNa* = cows, by
+hundred thousand; *shabalaam na daasyaami* = I will not afford Shabala; *koTishataiH api*
+= by millions hundreds [of cows,] even; *na* = I do not give; *rajatasya raashibhiH*
+= of silver, lots; *vaa* = either - I do not give.
+
+**अनुवादः**
+
+I cannot afford Shabala, neither by the barter of a hundred thousand cows, nor by hundreds of millions
+of cows, nor by lots and lots of silver, either. [1-53-11b, 12a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12b, 13a. arindama* = oh enemy-subjugator; *iyam* = this - cow; *mat sakaashaat*
 = from my, proximity; *parityaagam* = for abandoning; *na arhaa* = not, she is proper
 one; *aatmavataH* = to self-respectful ones; *kiirtiH yathaa* = as with respectability;
@@ -519,23 +536,6 @@ Abandoning her from my proximity is unmeet for her, oh, enemy-subjugator, you ca
 me terroristically and try to wean this cow away from me, as Shabala is everlastingly and inseparably
 mine, as with the everlasting and inseparable respectability of a self-respectful person. [1-53-12b,
 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11b, 12a. raajan* = oh king; *aham* = I; *gavaam shatasahasreNa* = cows, by
-hundred thousand; *shabalaam na daasyaami* = I will not afford Shabala; *koTishataiH api*
-= by millions hundreds [of cows,] even; *na* = I do not give; *rajatasya raashibhiH*
-= of silver, lots; *vaa* = either - I do not give.
-
-**अनुवादः**
-
-I cannot afford Shabala, neither by the barter of a hundred thousand cows, nor by hundreds of millions
-of cows, nor by lots and lots of silver, either. [1-53-11b, 12a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>
@@ -827,6 +827,28 @@ goads. [1-53-17b, 18a]
 
 **पदच्छेदः**
 
+*18b, 19a. shvetaashvaanaam caturyujaam* = to yoke on with four very white horses; *hairaNyaanaam
+rathaanaam ca* = golden, chariots, also; *kinkiNiikavibhuuSitaan* = trimmed up with set of tintinnabulating
+bells; *aSTau shataani* = eight, hundred; *te dadaami* = I will give to you
+.
+
+**अनुवादः**
+
+I will grant you eight hundred golden chariots whichever can be yoked on with four whitely-white
+horses trimmed up with the sets of tintinnabulating bells. [1-53-18b, 19a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+सुव्रतराद मुनीश्वररे! इष्टल्लदॆ नानु ऎण्टुनूरु सुवर्णमय रथगळन्नु कॊडुवॆनु. अवुगळु बङ्गारद गॆज्जॆगळिन्द शोभितवागिवॆ मत्तु प्रतियॊन्दु रथक्कॆ नाल्कु - बिळिय कुदुरॆगळन्नु हूडलागिदॆ. उत्तम देशदल्लि हुट्टिद हन्नॊन्दु साविर कुदुरॆगळन्नू तम्म सेवॆयल्लि अर्पिसुवॆनु. इष्टे अल्लदॆ नाना विधद बण्णगळुळ्ळ तरुण ऒन्दु कोटि गोवुगळन्नु कॊडुवॆनु आदरॆ ई शबला गोवन्नु ननगॆ कॊडिरि.॥18-20॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *19b, c. suvrata* = on superbly vowed sage; *deshajaataanaam* = born in countries
 [famous countries for best horse breeding]; *kulajaanaam* = of [high] pedigree born in;
 *mahaujasaam* = with great [fleetly] animation [galloping]; *hayaanaam* = horses;
@@ -839,11 +861,6 @@ I grant you, oh, superbly vowed sage, eleven thousand fleetly galloping horses o
 in best countries of best horse breeding. [1-53-19b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-सुव्रतराद मुनीश्वररे! इष्टल्लदॆ नानु ऎण्टुनूरु सुवर्णमय रथगळन्नु कॊडुवॆनु. अवुगळु बङ्गारद गॆज्जॆगळिन्द शोभितवागिवॆ मत्तु प्रतियॊन्दु रथक्कॆ नाल्कु - बिळिय कुदुरॆगळन्नु हूडलागिदॆ. उत्तम देशदल्लि हुट्टिद हन्नॊन्दु साविर कुदुरॆगळन्नू तम्म सेवॆयल्लि अर्पिसुवॆनु. इष्टे अल्लदॆ नाना विधद बण्णगळुळ्ळ तरुण ऒन्दु कोटि गोवुगळन्नु कॊडुवॆनु आदरॆ ई शबला गोवन्नु ननगॆ कॊडिरि.॥18-20॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -859,23 +876,6 @@ in best countries of best horse breeding. [1-53-19b, c]
 
 I award ten million diversely coloured and differently divisionalized cows, whichever of them will
 be came of age as milker, thereby, let this do-all cow Shabala be given to me. [1-53-20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*18b, 19a. shvetaashvaanaam caturyujaam* = to yoke on with four very white horses; *hairaNyaanaam
-rathaanaam ca* = golden, chariots, also; *kinkiNiikavibhuuSitaan* = trimmed up with set of tintinnabulating
-bells; *aSTau shataani* = eight, hundred; *te dadaami* = I will give to you
-.
-
-**अनुवादः**
-
-I will grant you eight hundred golden chariots whichever can be yoked on with four whitely-white
-horses trimmed up with the sets of tintinnabulating bells. [1-53-18b, 19a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga53/balasans53.htm)
 </details>

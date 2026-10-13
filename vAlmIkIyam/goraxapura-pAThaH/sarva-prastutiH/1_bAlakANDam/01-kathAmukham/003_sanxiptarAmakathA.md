@@ -397,23 +397,6 @@ _________________
 
 **पदच्छेदः**
 
-*9. bhagavaan saH muniH* = he that godly saint [Valmiki]; *mahaatmanaa naaradena*
- = by Divine Soul, Narada; puurvam yathaa kathitam = earlier,
- as to how, narrated; [in that way only]; *raghuvamshasya* = one who is born
- in Raghu's lineage - of Rama; *charitam chakaara* = legend, made [composed].
-
-**अनुवादः**
-
-That godly saint Valmiki composed the legend of Rama, the legatee of Raghu, exactly as
- the divine-soul Narada narrated it earlier. [1-3-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *7-8. mahaamatiH* = highly intellectual [sage]; *saH* = he; *tat sarvam*
  = that, all; *tattvataH* = in actuality; *dharmeNa* = by yogic prowess;
  *dR^iSTvaa* = having discerned; *kaamaarthaguNasamyuktam* = abounding with pleasures,
@@ -452,6 +435,23 @@ Comment: The pleasures and gains of the humans are *puruSaartha* -s, in its axio
  these peripherals are of high value. Thus this is an ear pleasing by its musical melody
  and heart pleasing by its meaningful wording. Further, it is pleasant for its import is
  in accordance with all the scriptures.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. bhagavaan saH muniH* = he that godly saint [Valmiki]; *mahaatmanaa naaradena*
+ = by Divine Soul, Narada; puurvam yathaa kathitam = earlier,
+ as to how, narrated; [in that way only]; *raghuvamshasya* = one who is born
+ in Raghu's lineage - of Rama; *charitam chakaara* = legend, made [composed].
+
+**अनुवादः**
+
+That godly saint Valmiki composed the legend of Rama, the legatee of Raghu, exactly as
+ the divine-soul Narada narrated it earlier. [1-3-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -583,45 +583,6 @@ Narrated are very many other amusing stories, Rama's breaking the great bow; his
 
 **पदच्छेदः**
 
-*13. vighaatam ca abhiShekasya* = also disruption of royal unction; *raaghavasya
- vivaasanam* = Rama's, exile; raaj~naH shokavilaapam ca
- = King Dasharatha's grief and bewailing, and; *paralokasya cha aashrayam* = into
- taking shelter [demise] also into other world.
-
-**अनुवादः**
-
-Disruption in royal unction of Raghava; his exile to forests; King Dasharatha's grief
- and bewailing, and thus his departing to other worlds... [1-3-13]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-श्रीराम-परुशुराम संवाद, दशरथ नन्दन श्रीरामन कल्याण गुणगळन्नु, अवन पट्टाभिषेक, कैकॆयिय दुष्टतॆ, श्रीराम पट्टाभिषेकदल्लिन विघ्न, रामन वनवास, दशरथ राजन शोक-विलाप मत्तु परलोक गमन, प्रजॆगळ विषाद, जॊतॆगॆ होद प्रजा जनरन्नु नडु दारियल्ले बिडुवुदु, निषादराज गुहनॊन्दिगॆ मातुकतॆ, सुमन्तनन्नु अयोध्यॆगॆ हिन्दिरुगिसिदुदु मॊदलादवुगळन्नु उल्लेखिसिरुवरु.॥12-14॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*14. prakR^itiinaam viSaadam ca* = grieving of subjects, also; *prakR^itiinaam
- visarjanam* = people, leaving off; *niSaadaadhipasamvaadam* = conversing with tribal chief;
- suutopaavartanam tathaa = thus returning of charioteer.
-
-**अनुवादः**
-
-The grief of the subjects; Rama leaving them off; his conversing with tribal chief Guha;
- returning the charioteer Sumantra to kingdom from forests, leaving the trio at the banks
- of river Ganga... all these elements are well- described. [1-3-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 12. *raamaraamavivaadam ca* = dispute of Raama and Parashurama,
  also; *guNaan* = merits of; *daasharatheH* = Dasharatha's son [Rama's];
  *tathaa* = that way; *tadaa abhiShekam raamasya* = then likewise, [preparations
@@ -637,6 +598,45 @@ Dispute of Rama and Parashurama; the merits of Rama, the son of Dasharatha; and 
 Comment: Rama is *shriiraama* one who delights in *shrii* , where *shrii*
  is Goddess Lakshmi. Where as Parashurama delights in his axe *parashu* axe; and
  Balarama, the brother of Krishna delights in his own *bala* might.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+श्रीराम-परुशुराम संवाद, दशरथ नन्दन श्रीरामन कल्याण गुणगळन्नु, अवन पट्टाभिषेक, कैकॆयिय दुष्टतॆ, श्रीराम पट्टाभिषेकदल्लिन विघ्न, रामन वनवास, दशरथ राजन शोक-विलाप मत्तु परलोक गमन, प्रजॆगळ विषाद, जॊतॆगॆ होद प्रजा जनरन्नु नडु दारियल्ले बिडुवुदु, निषादराज गुहनॊन्दिगॆ मातुकतॆ, सुमन्तनन्नु अयोध्यॆगॆ हिन्दिरुगिसिदुदु मॊदलादवुगळन्नु उल्लेखिसिरुवरु.॥12-14॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13. vighaatam ca abhiShekasya* = also disruption of royal unction; *raaghavasya
+ vivaasanam* = Rama's, exile; raaj~naH shokavilaapam ca
+ = King Dasharatha's grief and bewailing, and; *paralokasya cha aashrayam* = into
+ taking shelter [demise] also into other world.
+
+**अनुवादः**
+
+Disruption in royal unction of Raghava; his exile to forests; King Dasharatha's grief
+ and bewailing, and thus his departing to other worlds... [1-3-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*14. prakR^itiinaam viSaadam ca* = grieving of subjects, also; *prakR^itiinaam
+ visarjanam* = people, leaving off; *niSaadaadhipasamvaadam* = conversing with tribal chief;
+ suutopaavartanam tathaa = thus returning of charioteer.
+
+**अनुवादः**
+
+The grief of the subjects; Rama leaving them off; his conversing with tribal chief Guha;
+ returning the charioteer Sumantra to kingdom from forests, leaving the trio at the banks
+ of river Ganga... all these elements are well- described. [1-3-14]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -815,19 +815,14 @@ _________________
 
 **पदच्छेदः**
 
-*38. preSaNam vaayuputrasya* = sending of, Air-god's son[Hanuma]; *bharatena
- samaagamam* = meeting with Bharata; *raamaabhiShekaabhyudayam* = Rama's
- coronation festival; *sarvasainyavisarjanam* = all military disbandment;
- svaraaSTrara~njanam ca eva = to the delight of own kingdom
- ; vaidehyaaH ca visarjanam = desolation
- of Seetha too.
+*15. ga~ngaayaaH ca api samtaaram * = also even crossing over River Ganga;
+ *bharadvaajasya darshanam* = seeing of Sage Bharadwaja; *bharadvaajaabhyanuj~naanaat*
+ = on Bharadwaja's advise; *chitrakuuTasya darshanam* = seeing [visiting] of Chitrakuta.
 
 **अनुवादः**
 
-Sending Hanuma to meet Bharata, for he avowed to self-immolate if Rama were not to come
- in time; the coronation festival of Rama; disbandment of all military troops of monkeys;
- Rama's ruling his kingdom to the delight of his subjects, and the desolation of Vaidehi
- too... are described by Valmiki. [1-3-38]
+Crossing over River Ganga; looking up Sage Bharadwaja; their look up at Chitrakuta on
+ Sage Bharadwaja's advise... [1-3-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -836,15 +831,16 @@ Sending Hanuma to meet Bharata, for he avowed to self-immolate if Rama were not 
 
 **पदच्छेदः**
 
-*37. vibhiiSaNaabhiShekam cha* = also Vibheeshana's crowning; *puSpakasya ca darshanam*
- = seeing Pushpaka aircraft; *ayodhyaayaaH ca gamanam* = also going
- to Ayodhya; bharadvaajasamaagamam = meeting with Sage Bharadvaja.
+*16. vaastukarma nivesham* = architectural work [construction of hermitage,]
+ dwelling in; *bharataagamanam tathaa* = then Bharata's, arrival; *prasaadanam
+ ca raamasya* = for graciousness, also, of Rama; *pituH salilakriyaam* = water oblation
+ to father.
 
 **अनुवादः**
 
-Crowning of Vibheeshana as the king of Lanka, after the demise of Ravana, and also Rama's
- seeing Pushpaka, the divine aircraft, and returning to Ayodhya in that aircraft... and
- Rama's meeting Sage Bharadvaja on his way back... [1-3-37]
+Construction of a hermitage and dwelling therein; Bharata's arrival at that place for
+ the graciousness of Rama to take back the kingdom; Rama's denial of it; Rama's offering
+ water oblations to his father on hearing the demise of his father... [1-3-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -853,10 +849,15 @@ Crowning of Vibheeshana as the king of Lanka, after the demise of Ravana, and al
 
 **पदच्छेदः**
 
-*36. kumbhakarNasya nidhanam* = destruction of Kumbhakarna; *meghanaadanibarhaNam*
- = elimination of Meghanada; *raavaNasya vinaasham ca* = Ravana's, annihilation,
- also; siitaavaaptim areH pure = restitution of Seetha in
- enemy's, city.
+*17. paadukaagryaabhiShekam ca* = also high enthroning of sandsls[shoes];
+ *nandigraamanivaasanam* = living [of Bharata] in the village Nandigrama; *dandakaaraNyagamanam* =
+ going Dandaka forests; *viraadhasya vadham tathaa* = Viradha's,
+ killing, thus.
+
+**अनुवादः**
+
+Enthroning shoe-sandals of Rama by Bharata; Bharata's living in a village Nandigrama;
+ Rama's going to Dandaka forests; killing the demon named Viradha... [1-3-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -865,15 +866,17 @@ Crowning of Vibheeshana as the king of Lanka, after the demise of Ravana, and al
 
 **पदच्छेदः**
 
-*35. prataaram ca samudrasya* = also crossing over ocean; *raatrau la~nkaavarodhanam*
- = seizure of Lanka in night; *samsargam vibhiiSaNena vadhopaayanivedanam
- * = meeting with Vibheeshana, telling killing scheme.
+*18. darshanam sharabha~ngasya* = seeing [visiting,] Sage Sarabhanga; *sutiikShNena
+ samaagamam* = meeting with Sage Suteekshna; *anasuuyaasamaakhyaam ca* = also smooth speaking
+ of Anasuya; *angaraagasya* = of applying body cream;
+ *ca* = also; *arpaNam* = giving.
 
 **अनुवादः**
 
-Crossing over the ocean by the boulder bridge built by Nala, and seizure of Lanka in night,
- and Vibheeshana, the younger brother of Ravana, whom Ravana banished, comes to meet Rama,
- and his telling the scheme to kill Ravana to Rama... [1-3-35]
+Rama's visit to Sage Sarabhanga and Suteekshna; their visiting hermitic lady Anasuuya,
+ and her smooth speaking with Seetha and also her giving a body cream to Seetha...[by applying
+ which cream Seetha will not wither away in the rough weather of woods. These details are
+ incorporated with great care.] [1-3-18]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -882,14 +885,14 @@ Crossing over the ocean by the boulder bridge built by Nala, and seizure of Lank
 
 **पदच्छेदः**
 
-*34. raaghavaashvaasanam ca eva* = solaced Rama, also, thus; *maNiniryaatanam
- tathaa* = jewel presenting, thus; *sangamam samudreNa ca* = meeting, with
- Ocean, also; nalasethoH ca bandhanam = also building bridge by Nala.
+*19. darshanam ca api agastasya* = seeing, also, even, Sage Agastya,; *dhanuSaH
+ grahaNam tathaa* = a great bow, taking, likewise; *shuurpaNakhyaaH cha samvaadam*
+ = also palaver of ShuurpaNakhaa; *viruupakaraNam tathaa* = defacing, likewise.
 
 **अनुवादः**
 
-Hanuma's action in presenting the jewel sent by Seetha solaces Raghava, and thus the meeting
- of Rama with the Ocean, and Nala's building the bridge on ocean... [1-3-34]
+Also even Rama's seeing the Sage Agastya, and likewise taking a great bow from that sage...
+ also the palaver of Surpanakha, the demoness, and defacing her, likewise... [1-3-19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -898,17 +901,15 @@ Hanuma's action in presenting the jewel sent by Seetha solaces Raghava, and thus
 
 **पदच्छेदः**
 
-*33. grahaNam vaayusuunoH ca* = capture of son of Vayu [Air god] also; *lankaadaahaabhigarjanam
- * = burning of Lankaa and his blaring at demons; *pratiplavanam
- eva* = return flying, also; *atha madhuunaam haraNam tathaa* = then, honey,
- appropriation of, thus.
+*20. vadham kharatrishirasoH* = killing of, Khara and Trisirasa [the demons]; *
+ utthaanam raavaNasya ca* = upsurge, of Ravana, also; *maariichasya vadham ca eva*
+ = killing of Maariicha, also, thus; *vaidehyaaH haraNam tathaa* = Vaidehi's, abduction,
+ like that.
 
 **अनुवादः**
 
-The capture of Hanuma, the son of Air-god, by the magical missile of Indrajit, son of
- Ravana, and also Hanuma's burning down Lanka, and his blaring at the demons, also his
- return flight from Lanka... and on his way back Hanuma's seeing a honey garden, and the
- appropriation of honey... [1-3-33]
+The elimination of demons like Khara, Trishirasa and the upsurge of Ravana thereby;
+ elimination of demon Mareecha, and Ravana's abduction of Vaidehi, likewise... [1-3-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -917,15 +918,15 @@ The capture of Hanuma, the son of Air-god, by the magical missile of Indrajit, s
 
 **पदच्छेदः**
 
-*32. maNipradaanam siitaayaaH* = giving jewel of Seetha; *vR^ikShabha~ngam
- tathaa eva ca* = thereby thus trees uprooting; *raakShasiividravam ca eva*
- = demoness's fleeing, also, thus; *kinkaraaNaam nibarhaNam* = killing of guards [at the gardens].
+*21. raaghavasya vilaapam ca* = Raghava's, anguish, also; *gR^idhraraajanibarhaNam*
+ = slaying eagle mighty; kabandhadarshanam ca eva = seeing Kabandha also, thus;
+ pampaayaaH ca api darshanam
+ = seeing the lake Pampa also, thus, .
 
 **अनुवादः**
 
-Seetha's giving her bejeweled hairslide to be shown to Rama, Hanuma's uprooting of the
- trees of that beautiful Ashoka gardens, thereby the demonesses fleeing in scare, his killing
- the guards of that garden... [1-3-32]
+Raghava's anguish at the loss of Seetha; Ravana's slaying the mighty eagle Jatayu; Rama's
+ seeing Kabandha, and also Lake Pampa...[1-3-21]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -934,16 +935,15 @@ Seetha's giving her bejeweled hairslide to be shown to Rama, Hanuma's uprooting 
 
 **पदच्छेदः**
 
-*31. abhij~naanapradaanam ca* = credential presenting, also; *siitaayaaH ca
- api bhaaSaNam* = also even talking to Seetha; *raakShasiitarjanam ca eva*
- = demoness' scaring also, thus; *trijaTaasvapnadarshanam* = witnessing dream of the demoness Trijata;
- dream witnessing.
+*22. shabariidarshanam cha eva* = seeing the hermitic lady Sabari, also, thus;
+ *phalamuulaashanam tathaa* = thus eating fruits and tubers; *pralaapam
+ cha eva* = bemoaning, also, thus [of Rama]; *pampaayaam hanumaddarshanam*
+ = sighting Hanuma at Pampa Lake.
 
 **अनुवादः**
 
-Presenting his credential, the ring of Rama, to Seetha and his talk with Seeta, and also
- his witnessing the demonesses scaring Seetha to oblige Ravana, and his witnessing demoness
- Trijata narrating her bad dream, are all narrated in the epic. [1-3-31]
+Rama's seeing Shabari, a hermetic lady and eating fruits and tubers given by her in utmost
+ adoration; Rama's bemoaning for Seetha; his sighting Hanuma at Lake Pampa... [1-3-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -952,107 +952,14 @@ Presenting his credential, the ring of Rama, to Seetha and his talk with Seeta, 
 
 **पदच्छेदः**
 
-*30. darshanam raavaNasya api* = seeing, Ravana, also; *puSpakasya ca darshanam*
- = seeing of Pushpaka [aircraft] also; *ashokavanikaayaanam* = wandering in Ashoka gardens;
- siitaayaaH ca api darshanam = also, even, seeing Seetha.
+*23. R^ishyamuukasya gamanam ca* = also going to Rishyamuka; *sugriiveNa samaagamam*
+ = meeting with Sugreeva; *pratyayotpaadanam sakhyam* = confidence generating
+ friendship [with Sugreeva]; *vaalisugriivavigraham* = duel of Vali-Sugreeva.
 
 **अनुवादः**
 
-Hanuma's seeing Ravana, and also his seeing Pushpaka, the divine aircraft, and wandering in Ashoka
- gardens, his seeing Seetha also... [1-3-30]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*29. raatraula~nkaapravesham ca* = entering Lanka in night also; *ekasya
- api vichintanam* = even though thinking over lonely; *aapaanabhuumigamanam*
- = going to liquor consuming place; *avarodhasya darshanam* = seeing of secure place
- [the palace chambers].
-
-**अनुवादः**
-
-In night Hanuma's entry into Lanka, for being lonely his thinking over the course to search
- for Seetha, and his going to the liquor consumption place, and also his seeing the palace
- chambers of Ravana... [1-3-29]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*28. raakShasii tarjanam ca eva* = demoness', killing, also, thus; *Chaayaagraahsya
- darshanam* = seeing Simhika the capturer by shadow; *simhikaayaaH
- ca nidhanam* = Simhika's, killing, also; *la~nkaamalayadarshanam* = seeing Lanka
- mountain.
-
-**अनुवादः**
-
-Hanuma's killing the demoness Surasa, and his seeing of Simhika, a rapacious creature
- of gigantic origin, which captures its prey by the shadow, and Hanuma's killing that Simhika,
- and his seeing the mountain of Lanka, called Mt. Trikuta, on which the state of Lanka
- is built, Valmiki described them all. [1-3-28]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*27. parvataarohaNam ca api* = mountain [Mt. Mahendra] climbing, also, even;
- *saagarasya ca la~nghanam* = also leaping out of ocean; *samudravachanaat
- ca eva* = advise of Ocean, also, thus; *mainaakasya ca darshanam* = also seeing of Mt.
- Mainaka.
-
-**अनुवादः**
-
-Hanuma's climbing Mt. Mahendra to leap over the ocean, and on the advice of the Ocean,
- Mt. Mainaka's coming up from under waters to give rest to Hanuma, and Hanuma's seeing
- that mountain are depicted. [1-3-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*26. a~nguliiyakadaanam ca* = also giving ring of his finger; *R^ikShasya
- biladarshanam* = Riksha's cave, seeing; *praayopaveshanam ca api* = fasting
- unto death, and, even; sampaateH ca api darshanam = also even seeing
- Sampaati.
-
-**अनुवादः**
-
-Rama's giving his ring to Hanuma as a token for Seetha's recognition... and the monkeys
- thus searching Riksha cave, bear-cave, and their fasting unto death for their quest
- remained unsuccessful, and their seeing Sampaati, another mighty eagle and the brother
- of slain Jatayu, who guides the monkeys to the destination where Seetha is held captive.
- [1-3-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*25. kopam raaghavasimhasya* = wrath of the lion Raghava; *balaanaam upasa~ngraham*
- = troops, foregathering; dishaH prasthaapanam ca eva = also thus, sending to quarters
- ; pR^ithivyaaH ca nivedanam = also earth's [topography,]
- description.
-
-**अनुवादः**
-
-The wrath of Raghava, the lion, at the delay caused by Sugreeva, and Sugreeva's foregathering
- of all troops, and sending them to all quarters, and Sugreeva's description of earth's
- topography to monkey-troops... [1-3-25]
+Also going to Mt. Rishyamuka, meeting Sugreeva and generating confidence in Sugreeva,
+ befriending him and the duel of Vali and Sugreeva... [1-3-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1085,14 +992,16 @@ Comment: This *raatri* usually means night. But it includes day also. When sayin
 
 **पदच्छेदः**
 
-*23. R^ishyamuukasya gamanam ca* = also going to Rishyamuka; *sugriiveNa samaagamam*
- = meeting with Sugreeva; *pratyayotpaadanam sakhyam* = confidence generating
- friendship [with Sugreeva]; *vaalisugriivavigraham* = duel of Vali-Sugreeva.
+*25. kopam raaghavasimhasya* = wrath of the lion Raghava; *balaanaam upasa~ngraham*
+ = troops, foregathering; dishaH prasthaapanam ca eva = also thus, sending to quarters
+ ; pR^ithivyaaH ca nivedanam = also earth's [topography,]
+ description.
 
 **अनुवादः**
 
-Also going to Mt. Rishyamuka, meeting Sugreeva and generating confidence in Sugreeva,
- befriending him and the duel of Vali and Sugreeva... [1-3-23]
+The wrath of Raghava, the lion, at the delay caused by Sugreeva, and Sugreeva's foregathering
+ of all troops, and sending them to all quarters, and Sugreeva's description of earth's
+ topography to monkey-troops... [1-3-25]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1101,15 +1010,18 @@ Also going to Mt. Rishyamuka, meeting Sugreeva and generating confidence in Sugr
 
 **पदच्छेदः**
 
-*22. shabariidarshanam cha eva* = seeing the hermitic lady Sabari, also, thus;
- *phalamuulaashanam tathaa* = thus eating fruits and tubers; *pralaapam
- cha eva* = bemoaning, also, thus [of Rama]; *pampaayaam hanumaddarshanam*
- = sighting Hanuma at Pampa Lake.
+*26. a~nguliiyakadaanam ca* = also giving ring of his finger; *R^ikShasya
+ biladarshanam* = Riksha's cave, seeing; *praayopaveshanam ca api* = fasting
+ unto death, and, even; sampaateH ca api darshanam = also even seeing
+ Sampaati.
 
 **अनुवादः**
 
-Rama's seeing Shabari, a hermetic lady and eating fruits and tubers given by her in utmost
- adoration; Rama's bemoaning for Seetha; his sighting Hanuma at Lake Pampa... [1-3-22]
+Rama's giving his ring to Hanuma as a token for Seetha's recognition... and the monkeys
+ thus searching Riksha cave, bear-cave, and their fasting unto death for their quest
+ remained unsuccessful, and their seeing Sampaati, another mighty eagle and the brother
+ of slain Jatayu, who guides the monkeys to the destination where Seetha is held captive.
+ [1-3-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1118,15 +1030,16 @@ Rama's seeing Shabari, a hermetic lady and eating fruits and tubers given by her
 
 **पदच्छेदः**
 
-*21. raaghavasya vilaapam ca* = Raghava's, anguish, also; *gR^idhraraajanibarhaNam*
- = slaying eagle mighty; kabandhadarshanam ca eva = seeing Kabandha also, thus;
- pampaayaaH ca api darshanam
- = seeing the lake Pampa also, thus, .
+*27. parvataarohaNam ca api* = mountain [Mt. Mahendra] climbing, also, even;
+ *saagarasya ca la~nghanam* = also leaping out of ocean; *samudravachanaat
+ ca eva* = advise of Ocean, also, thus; *mainaakasya ca darshanam* = also seeing of Mt.
+ Mainaka.
 
 **अनुवादः**
 
-Raghava's anguish at the loss of Seetha; Ravana's slaying the mighty eagle Jatayu; Rama's
- seeing Kabandha, and also Lake Pampa...[1-3-21]
+Hanuma's climbing Mt. Mahendra to leap over the ocean, and on the advice of the Ocean,
+ Mt. Mainaka's coming up from under waters to give rest to Hanuma, and Hanuma's seeing
+ that mountain are depicted. [1-3-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1135,15 +1048,17 @@ Raghava's anguish at the loss of Seetha; Ravana's slaying the mighty eagle Jatay
 
 **पदच्छेदः**
 
-*20. vadham kharatrishirasoH* = killing of, Khara and Trisirasa [the demons]; *
- utthaanam raavaNasya ca* = upsurge, of Ravana, also; *maariichasya vadham ca eva*
- = killing of Maariicha, also, thus; *vaidehyaaH haraNam tathaa* = Vaidehi's, abduction,
- like that.
+*28. raakShasii tarjanam ca eva* = demoness', killing, also, thus; *Chaayaagraahsya
+ darshanam* = seeing Simhika the capturer by shadow; *simhikaayaaH
+ ca nidhanam* = Simhika's, killing, also; *la~nkaamalayadarshanam* = seeing Lanka
+ mountain.
 
 **अनुवादः**
 
-The elimination of demons like Khara, Trishirasa and the upsurge of Ravana thereby;
- elimination of demon Mareecha, and Ravana's abduction of Vaidehi, likewise... [1-3-20]
+Hanuma's killing the demoness Surasa, and his seeing of Simhika, a rapacious creature
+ of gigantic origin, which captures its prey by the shadow, and Hanuma's killing that Simhika,
+ and his seeing the mountain of Lanka, called Mt. Trikuta, on which the state of Lanka
+ is built, Valmiki described them all. [1-3-28]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1152,14 +1067,16 @@ The elimination of demons like Khara, Trishirasa and the upsurge of Ravana there
 
 **पदच्छेदः**
 
-*19. darshanam ca api agastasya* = seeing, also, even, Sage Agastya,; *dhanuSaH
- grahaNam tathaa* = a great bow, taking, likewise; *shuurpaNakhyaaH cha samvaadam*
- = also palaver of ShuurpaNakhaa; *viruupakaraNam tathaa* = defacing, likewise.
+*29. raatraula~nkaapravesham ca* = entering Lanka in night also; *ekasya
+ api vichintanam* = even though thinking over lonely; *aapaanabhuumigamanam*
+ = going to liquor consuming place; *avarodhasya darshanam* = seeing of secure place
+ [the palace chambers].
 
 **अनुवादः**
 
-Also even Rama's seeing the Sage Agastya, and likewise taking a great bow from that sage...
- also the palaver of Surpanakha, the demoness, and defacing her, likewise... [1-3-19]
+In night Hanuma's entry into Lanka, for being lonely his thinking over the course to search
+ for Seetha, and his going to the liquor consumption place, and also his seeing the palace
+ chambers of Ravana... [1-3-29]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1168,17 +1085,14 @@ Also even Rama's seeing the Sage Agastya, and likewise taking a great bow from t
 
 **पदच्छेदः**
 
-*18. darshanam sharabha~ngasya* = seeing [visiting,] Sage Sarabhanga; *sutiikShNena
- samaagamam* = meeting with Sage Suteekshna; *anasuuyaasamaakhyaam ca* = also smooth speaking
- of Anasuya; *angaraagasya* = of applying body cream;
- *ca* = also; *arpaNam* = giving.
+*30. darshanam raavaNasya api* = seeing, Ravana, also; *puSpakasya ca darshanam*
+ = seeing of Pushpaka [aircraft] also; *ashokavanikaayaanam* = wandering in Ashoka gardens;
+ siitaayaaH ca api darshanam = also, even, seeing Seetha.
 
 **अनुवादः**
 
-Rama's visit to Sage Sarabhanga and Suteekshna; their visiting hermitic lady Anasuuya,
- and her smooth speaking with Seetha and also her giving a body cream to Seetha...[by applying
- which cream Seetha will not wither away in the rough weather of woods. These details are
- incorporated with great care.] [1-3-18]
+Hanuma's seeing Ravana, and also his seeing Pushpaka, the divine aircraft, and wandering in Ashoka
+ gardens, his seeing Seetha also... [1-3-30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1187,15 +1101,16 @@ Rama's visit to Sage Sarabhanga and Suteekshna; their visiting hermitic lady Ana
 
 **पदच्छेदः**
 
-*17. paadukaagryaabhiShekam ca* = also high enthroning of sandsls[shoes];
- *nandigraamanivaasanam* = living [of Bharata] in the village Nandigrama; *dandakaaraNyagamanam* =
- going Dandaka forests; *viraadhasya vadham tathaa* = Viradha's,
- killing, thus.
+*31. abhij~naanapradaanam ca* = credential presenting, also; *siitaayaaH ca
+ api bhaaSaNam* = also even talking to Seetha; *raakShasiitarjanam ca eva*
+ = demoness' scaring also, thus; *trijaTaasvapnadarshanam* = witnessing dream of the demoness Trijata;
+ dream witnessing.
 
 **अनुवादः**
 
-Enthroning shoe-sandals of Rama by Bharata; Bharata's living in a village Nandigrama;
- Rama's going to Dandaka forests; killing the demon named Viradha... [1-3-17]
+Presenting his credential, the ring of Rama, to Seetha and his talk with Seeta, and also
+ his witnessing the demonesses scaring Seetha to oblige Ravana, and his witnessing demoness
+ Trijata narrating her bad dream, are all narrated in the epic. [1-3-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1204,16 +1119,96 @@ Enthroning shoe-sandals of Rama by Bharata; Bharata's living in a village Nandig
 
 **पदच्छेदः**
 
-*16. vaastukarma nivesham* = architectural work [construction of hermitage,]
- dwelling in; *bharataagamanam tathaa* = then Bharata's, arrival; *prasaadanam
- ca raamasya* = for graciousness, also, of Rama; *pituH salilakriyaam* = water oblation
- to father.
+*32. maNipradaanam siitaayaaH* = giving jewel of Seetha; *vR^ikShabha~ngam
+ tathaa eva ca* = thereby thus trees uprooting; *raakShasiividravam ca eva*
+ = demoness's fleeing, also, thus; *kinkaraaNaam nibarhaNam* = killing of guards [at the gardens].
 
 **अनुवादः**
 
-Construction of a hermitage and dwelling therein; Bharata's arrival at that place for
- the graciousness of Rama to take back the kingdom; Rama's denial of it; Rama's offering
- water oblations to his father on hearing the demise of his father... [1-3-16]
+Seetha's giving her bejeweled hairslide to be shown to Rama, Hanuma's uprooting of the
+ trees of that beautiful Ashoka gardens, thereby the demonesses fleeing in scare, his killing
+ the guards of that garden... [1-3-32]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*33. grahaNam vaayusuunoH ca* = capture of son of Vayu [Air god] also; *lankaadaahaabhigarjanam
+ * = burning of Lankaa and his blaring at demons; *pratiplavanam
+ eva* = return flying, also; *atha madhuunaam haraNam tathaa* = then, honey,
+ appropriation of, thus.
+
+**अनुवादः**
+
+The capture of Hanuma, the son of Air-god, by the magical missile of Indrajit, son of
+ Ravana, and also Hanuma's burning down Lanka, and his blaring at the demons, also his
+ return flight from Lanka... and on his way back Hanuma's seeing a honey garden, and the
+ appropriation of honey... [1-3-33]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*34. raaghavaashvaasanam ca eva* = solaced Rama, also, thus; *maNiniryaatanam
+ tathaa* = jewel presenting, thus; *sangamam samudreNa ca* = meeting, with
+ Ocean, also; nalasethoH ca bandhanam = also building bridge by Nala.
+
+**अनुवादः**
+
+Hanuma's action in presenting the jewel sent by Seetha solaces Raghava, and thus the meeting
+ of Rama with the Ocean, and Nala's building the bridge on ocean... [1-3-34]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*35. prataaram ca samudrasya* = also crossing over ocean; *raatrau la~nkaavarodhanam*
+ = seizure of Lanka in night; *samsargam vibhiiSaNena vadhopaayanivedanam
+ * = meeting with Vibheeshana, telling killing scheme.
+
+**अनुवादः**
+
+Crossing over the ocean by the boulder bridge built by Nala, and seizure of Lanka in night,
+ and Vibheeshana, the younger brother of Ravana, whom Ravana banished, comes to meet Rama,
+ and his telling the scheme to kill Ravana to Rama... [1-3-35]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*36. kumbhakarNasya nidhanam* = destruction of Kumbhakarna; *meghanaadanibarhaNam*
+ = elimination of Meghanada; *raavaNasya vinaasham ca* = Ravana's, annihilation,
+ also; siitaavaaptim areH pure = restitution of Seetha in
+ enemy's, city.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*37. vibhiiSaNaabhiShekam cha* = also Vibheeshana's crowning; *puSpakasya ca darshanam*
+ = seeing Pushpaka aircraft; *ayodhyaayaaH ca gamanam* = also going
+ to Ayodhya; bharadvaajasamaagamam = meeting with Sage Bharadvaja.
+
+**अनुवादः**
+
+Crowning of Vibheeshana as the king of Lanka, after the demise of Ravana, and also Rama's
+ seeing Pushpaka, the divine aircraft, and returning to Ayodhya in that aircraft... and
+ Rama's meeting Sage Bharadvaja on his way back... [1-3-37]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
@@ -1221,6 +1216,27 @@ Construction of a hermitage and dwelling therein; Bharata's arrival at that plac
 <details><summary>अनुवाद (कन्नड)</summary>
 
 श्रीराम-सीता-लक्ष्मणरु गङ्गॆ दाटिदुदु, भरद्वाज मुनियन्नु दर्शिसिदुदु, भरद्वाजर आणतियन्तॆ चित्रकूटक्कॆ होदुदु, अल्लिय नैसर्गिक शोभॆयन्नु नोडुवुदु, चित्रकूटदल्लि पर्णकुटियन्नु रचिसुवुदु, अदरल्लि वासिसुवुदु, अल्लिगॆ भरतनु श्रीरामनन्नु काणलु बरुवुदु, अवनन्नु अयोध्यॆगॆ मरळि होगलु ऒप्पिसुवुदु, श्रीरामनु तन्दॆगॆ जलाञ्जलियन्नु अर्पिसुवुदु, भरतनिन्द अयोध्यॆय सिंहासनदल्लि श्रीरामन श्रेष्ठ पादुका पट्टाभिषेक, नन्दिग्रामदल्लि भरतनु वासिसिदुदु, श्रीरामनु दण्डकारण्यक्कॆ होदुदु, श्रीरामनिन्द विराधन वधॆ, शरभङ्ग मुनिय दर्शन, सुतीक्ष्णर समागम, अनसूयॆय जॊतॆगॆ सीतादेवियु स्वल्पकाल इरुवुदु. आकॆयु सीतादेविगॆ अङ्गरागवन्नु नीडिदुदु, श्रीरामने मॊदलादवरिन्द अगस्त्यर दर्शन, अवरु नीडिद वैष्णव धनुस्सन्नु स्वीकरिसिदुदु, शूर्पणखा संवाद, रामन अप्पणॆयन्तॆ लक्ष्मणनु आकॆय मूगन्नु कत्तरिसि विरूपगॊळिसिदुदु, श्रीरामनु खर, दूषण, त्रिशिरा इवरन्नु वधिसिदुदु, शूर्पनखॆय उत्तेजनदिन्द रावणनु रामन प्रतीकारक्कागि हॊरटिदुदु. मारीचन वधॆ, रावणनु विदेह नन्दिनी सीतॆयन्नु अपहरिसिदुदु, सीतॆगागि श्री रघुनाथन विलाप, रावणनु गृद्धराज जटायुवन्नु वधिसिदुदु, श्रीराम-लक्ष्मणरु कबन्धनन्नु दर्शिसिदुदु, मत्तु वधॆ, पम्पादर्शन, शबरि नीडिद फलगळन्नु स्वीकरिसिदुदु, सीतॆगागि श्रीरामन विलाप, पम्पा सरोवरद बळि हनुमन्तन भेटि, श्रीराम मत्तु लक्ष्मणरु हनुमन्तनॊन्दिगॆ ऋष्यमूक पर्वतक्कॆ होदुदु, सुग्रीवन सख्य, सुग्रीवनिगॆ तन्न बलद बग्गॆ विश्वास उण्टुमाडिदुदु, वालि-सुग्रीवर युद्ध, श्रीरामनु वालियन्नु कॊन्दुदु, सुग्रीव पट्टाभिषेक, वालिपत्नी तारॆय विलाप, शरत्कालदल्लि सीतान्वेषणॆ माडुवुदागि सुग्रीवन प्रतिज्ञॆ, मळॆगालदल्लि श्रीरामनु माल्यवन्त पर्वतद प्रस्रवण ऎम्ब शिखरदल्लि वासिसिदुदु, रघुकुल सिंह रामनु सुग्रीवन कुरित क्रोध, सुग्रीवनु सीतान्वेषणॆगागि वानररन्नु करॆसिदुदु, सुग्रीवनु ऎल्ल दिक्कुगळिगॆ वानररन्नु कळिसिदुदु, अवरिगॆ पृथ्विय द्वीप-समुद्र मुन्तादवुगळ परिचय हेळिदुदु, श्रीरामनु सीतॆय नम्बिकॆगागि हनुमन्तनिगॆ अङ्गुलीयकवन्नु कॊट्टिद्दु, वानररिगॆ स्वयं प्रभॆय गुहॆय दर्शन, समुद्र तीरदल्लि वानरर प्रायोपवेश, सम्पातिय भेटि, मातु कतॆ, समुद्रोल्लन्नॆगागि हनुमन्तनु महेन्द्र पर्वतवन्नु एरिदुदु, समुद्रोल्लङ्घन, समुद्रन मातिनन्तॆ मेलॆ ऎद्द मैनाकन दर्शन, राक्षसी तर्जन, छायाग्राही सिंहिकॆयन्नु हनुमन्तनु कॊन्दुदु, लङ्कॆय आधारभूत त्रिकूटपर्वतद दर्शन, रात्रियल्लि लङ्काप्रवेश, हनुमन्तनु ऒब्बण्टिगनाद्दरिन्द तन्न कर्तव्यवन्नु चिन्तिसिदुदु, रावणन पानभूमिगॆ आगमन, अन्तःपुरद स्त्रीयरन्नु नोडिदुदु, हनुमन्तनु रावणनन्नु नोडिदुदु, पुष्पकविमानद निरीक्षण, अशोकवनक्कॆ होदुदु, सीतॆयन्नु दर्शिसिदुदु, अभिज्ञानक्कागि सीतॆगॆ उङ्गुर नीडिदुदु, आकॆयॊन्दिगॆ मातुकतॆ, राक्षसियरु सीतॆयन्नु हॆदरिसिदुदु, त्रिजटॆयु तिळिसिद स्वप्न वृत्तान्त, हनुमन्तनिगॆ सीतॆयु चूडामणियन्नु कॊट्टिद्दु, हनुमन्तनु अशोक वनवन्नु हाळुगॆडुविद्दु, राक्षसरु ओडि होदुदु, रावणन सेवकरन्नु हनुन्तनु कॊन्दु हाकिदुदु, हनुमन्तनु बन्धितनागि रावणन सभॆगॆ होदुदु, मारुति गर्जनॆ, लङ्कादहन, समुद्रवन्नु हारि मरळि बन्दु, वानररॊन्दिगॆ मधुपान, हनुमन्तनु श्रीरामचन्द्रनिगॆ आश्वासनॆ इत्तुदु, सीतॆयु कॊट्ट चूडामणियन्नु रामनिगॆ अर्पिसुवुदु, सुग्रीव मत्तु वानर सैन्यदॊन्दिगॆ रामन लङ्कायात्रॆयल्लि समुद्रन भेटि, नळनु समुद्रक्कॆ सेतुवॆयन्नु कट्टिदुदु, विभीषण शरणागत, सेतुवॆय मूलक वानर सैन्य समुद्र दाटिदुदु, रात्रियल्लि वानररु लङ्कॆयन्नु मुत्तिदुदु, विभीषणनॊन्दिगॆ रामन मैत्रि, विभीषणनु रामनिगॆ रावणवधॆय उपाय तिळिसिदुदु, कुम्भकर्णन निधन, मेघनाद वधॆ, रावणन विनाश, सीता प्राप्ति, लङ्कॆयल्लि विभीषण पट्टाभिषेक, श्रीरामनु पुष्पकविमान नोडिदुदु, अदर मूलक अयोध्यॆगॆ प्रस्थान, श्रीरामनु भरद्वाजरन्नु भॆट्टियादुदु, अयोध्यॆगॆ होगि भरतनन्नु काणुवुदु, श्रीराम पट्टाभिषेकोत्सव, रामनु ऎल्ल वानर सेनॆयन्नु बीळ्कॊट्टिद्दु, तन्न राष्ट्रद प्रजॆयन्नु प्रसन्नवागिसुवुदु, सीता परित्याग मुन्ताद वृत्तान्तगळन्नु हागू ई पृथ्वियल्लि श्रीरामनु भविष्यदल्लि नडॆसिद चरित्रॆयन्नू पूज्यराद वाल्मीकि मुनिगळु तम्म श्रेष्ठ महाकाव्यदल्लि दाखलिसिद्दारॆ.॥15-39॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*38. preSaNam vaayuputrasya* = sending of, Air-god's son[Hanuma]; *bharatena
+ samaagamam* = meeting with Bharata; *raamaabhiShekaabhyudayam* = Rama's
+ coronation festival; *sarvasainyavisarjanam* = all military disbandment;
+ svaraaSTrara~njanam ca eva = to the delight of own kingdom
+ ; vaidehyaaH ca visarjanam = desolation
+ of Seetha too.
+
+**अनुवादः**
+
+Sending Hanuma to meet Bharata, for he avowed to self-immolate if Rama were not to come
+ in time; the coronation festival of Rama; disbandment of all military troops of monkeys;
+ Rama's ruling his kingdom to the delight of his subjects, and the desolation of Vaidehi
+ too... are described by Valmiki. [1-3-38]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1247,22 +1263,6 @@ Comment: In this verse, some take the word *uttare* as Uttara Ramayana, the even
  to write, it is unacceptable since the word *uttare* occurs for only one occasion,
  hence cannot mean next canto. Thus, they say, Uttara Ramayana cannot be ascribed to Valmiki.
  Hence the word *uttare* here is taken to mean henceforth, hereinafter of the epic.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*15. ga~ngaayaaH ca api samtaaram * = also even crossing over River Ganga;
- *bharadvaajasya darshanam* = seeing of Sage Bharadwaja; *bharadvaajaabhyanuj~naanaat*
- = on Bharadwaja's advise; *chitrakuuTasya darshanam* = seeing [visiting] of Chitrakuta.
-
-**अनुवादः**
-
-Crossing over River Ganga; looking up Sage Bharadwaja; their look up at Chitrakuta on
- Sage Bharadwaja's advise... [1-3-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga3/balasans3.htm)
 </details>

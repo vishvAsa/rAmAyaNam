@@ -90,6 +90,23 @@ _________________
 
 **पदच्छेदः**
 
+*1. tataH* = then; *taiH* = (while) those; *puruSa
+simhaanaam* = lions among men; *vR^itaanaam* = surrounded; *suhR^idgaNaiH* = by a
+host of friends; *shochataameva* = were still lamenting; *rajanii* = (that) night;
+*vyatyavartata* = elapsed; *duHkhena* = with a much difficulty.
+
+**अनुवादः**
+
+While those lions among men amidst a host of friends were lamenting, that night
+elapsed with a much difficulty.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *2. suprabhaataayaam* = at the beautiful day-break; *rajanyaam*
 = of the night; *te bhraataraH* = those brothers; *suhR^idvR^itaaH* = along with
 their friends; *kR^itvaa* = having made; *hutam* = offering; *japyam* = and
@@ -100,23 +117,6 @@ approached; *raamam* = Rama.
 
 When the beautiful dawn broke, Rama's brothers along with their companions, having
 made their offerings and recited their prayers on the banks of River Madakini, approached Rama.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*1. tataH* = then; *taiH* = (while) those; *puruSa
-simhaanaam* = lions among men; *vR^itaanaam* = surrounded; *suhR^idgaNaiH* = by a
-host of friends; *shochataameva* = were still lamenting; *rajanii* = (that) night;
-*vyatyavartata* = elapsed; *duHkhena* = with a much difficulty.
-
-**अनुवादः**
-
-While those lions among men amidst a host of friends were lamenting, that night
-elapsed with a much difficulty.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga105/ayodhyasans105.htm)
 </details>

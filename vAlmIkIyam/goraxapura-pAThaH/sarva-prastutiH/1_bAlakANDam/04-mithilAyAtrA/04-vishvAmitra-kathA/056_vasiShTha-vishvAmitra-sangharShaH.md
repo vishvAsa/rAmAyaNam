@@ -366,16 +366,14 @@ _________________
 
 **पदच्छेदः**
 
-*11. shaktidvayam ca cikSepa* = hurled pair of [Power of Vishnu, and the Power of Rudra] power,
-also; *kankaalam musalam tathaa* = Impeller, Crowbar,
-like that; *vaidyaadharam mahaaastram ca* = Staggerer, great missile, also;
-*kaalaastram atha daaruNam* = Time missile, then, lethal one.
+*7. maanavam mohanam ca eva* = Humane, Rager, also thus; *gaandharvam svaapanam
+tathaa* = Stupefier, Hypnotiser, thus; *jR^imbhaNam maadanam ca eva* =
+Yawner, Intoxicator, also thus; *santaapanavilaapane* = Humidifier, Weep-inducer.
 
 **अनुवादः**
 
-A pair of powers are launched, namely Power of Vishnu and the Power of Rudra, like
-that the Impeller, Crowbar, and a great missile called Staggerer, and then he launched
-the lethal missile of the Time. [1-56-11]
+Vishvamitra also launched missiles named Humane, Rager, Stupefier, Hypnotiser,
+Yawner, Intoxicator, also thus Humidifier, Weep-inducer. [1-56-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
@@ -384,16 +382,15 @@ the lethal missile of the Time. [1-56-11]
 
 **पदच्छेदः**
 
-*10. dharmacakram* = Virtue Disc; *kaalacakram* = Time Disc;
-*viSNucakram tathaa eva ca* = Vishnu's disc, like that, also; *vaayavyam
-mathanam ca eva* = Blower, Stirrer, also thus; *astram hayashiraH tathaa*
-= missile, like Horse Head.
+*8. shoSaNam daaraNam ca eva* = Drainer, Ripper, also thus; *vajram astram
+sudurjayam* = Thunderbolt, missile, highly not conquerable one; *brahmapaasham
+kaalapaasham* = Brahma's lasso, Time's lasso; *vaaruNam paasham
+eva ca* = Rain's, lasso, even, also.
 
 **अनुवादः**
 
-And he launched discs called the Discs of Virtue, Time and Vishnu and he also launched
-other missiles like the Blower, Stirrer and like that the missile with Horse-head.
-[1-56-10]
+He also launched the missiles called Drainer and Ripper, and the highly unconquerable
+Thunderbolt, even the lassos of Brahma, Time and Rain-gods. [1-56-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
@@ -419,15 +416,16 @@ Bolter, Drier, Drencher are launched. [1-56-9]
 
 **पदच्छेदः**
 
-*8. shoSaNam daaraNam ca eva* = Drainer, Ripper, also thus; *vajram astram
-sudurjayam* = Thunderbolt, missile, highly not conquerable one; *brahmapaasham
-kaalapaasham* = Brahma's lasso, Time's lasso; *vaaruNam paasham
-eva ca* = Rain's, lasso, even, also.
+*10. dharmacakram* = Virtue Disc; *kaalacakram* = Time Disc;
+*viSNucakram tathaa eva ca* = Vishnu's disc, like that, also; *vaayavyam
+mathanam ca eva* = Blower, Stirrer, also thus; *astram hayashiraH tathaa*
+= missile, like Horse Head.
 
 **अनुवादः**
 
-He also launched the missiles called Drainer and Ripper, and the highly unconquerable
-Thunderbolt, even the lassos of Brahma, Time and Rain-gods. [1-56-8]
+And he launched discs called the Discs of Virtue, Time and Vishnu and he also launched
+other missiles like the Blower, Stirrer and like that the missile with Horse-head.
+[1-56-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
@@ -435,6 +433,24 @@ Thunderbolt, even the lassos of Brahma, Time and Rain-gods. [1-56-8]
 <details><summary>अनुवाद (कन्नड)</summary>
 
 रघुनन्दन! अनन्तर क्रमवागि मानव, मोहन, गान्धर्व स्वापन, जृम्भण, वादन, सन्तापन, विलापन, शोषण, विदारण, सुदुर्जय, वज्रास्त्र, ब्रह्मपाश, कालपाश, वारुणपाश, परमप्रिय पिनाकास, ऒणगिद - हसियाद ऎरडु प्रकारद अशनि, दण्डास्त्र, पैशाचास्त्र, क्रौञ्चास्त्र, धर्मचक्र, कालचक्र, विष्णुचक्र, वायुव्यायास्त्र, मन्थनास्त्र, हयशिरा, ऎरडु विधद शक्तिगळु, कङ्काल, मुसल, महा वैद्याधरास्त्र, दारुण, कालास्त्र, भयङ्कर त्रिशूलास्त्र, कापालास्त्र मत्तु कङ्कणास्त्र - इवॆल्ल अस्त्रगळन्नु क्रमवागि अवनु वसिष्ठर मेलॆ प्रयोगिसिदनु.॥7-12॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11. shaktidvayam ca cikSepa* = hurled pair of [Power of Vishnu, and the Power of Rudra] power,
+also; *kankaalam musalam tathaa* = Impeller, Crowbar,
+like that; *vaidyaadharam mahaaastram ca* = Staggerer, great missile, also;
+*kaalaastram atha daaruNam* = Time missile, then, lethal one.
+
+**अनुवादः**
+
+A pair of powers are launched, namely Power of Vishnu and the Power of Rudra, like
+that the Impeller, Crowbar, and a great missile called Staggerer, and then he launched
+the lethal missile of the Time. [1-56-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -454,22 +470,6 @@ Oh, Rama, the descendent of Raghu, Vishvamitra on triggering off all these missi
 then he launched the deadly Trident, Skull and Torque missiles on Vashishta, and
 whole thing has became a spectacular display of Vishvamitra's arsenal. [1-56-12,
 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*7. maanavam mohanam ca eva* = Humane, Rager, also thus; *gaandharvam svaapanam
-tathaa* = Stupefier, Hypnotiser, thus; *jR^imbhaNam maadanam ca eva* =
-Yawner, Intoxicator, also thus; *santaapanavilaapane* = Humidifier, Weep-inducer.
-
-**अनुवादः**
-
-Vishvamitra also launched missiles named Humane, Rager, Stupefier, Hypnotiser,
-Yawner, Intoxicator, also thus Humidifier, Weep-inducer. [1-56-7]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga56/balasans56.htm)
 </details>

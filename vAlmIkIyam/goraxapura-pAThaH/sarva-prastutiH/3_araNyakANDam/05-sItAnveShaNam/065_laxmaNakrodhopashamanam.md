@@ -310,6 +310,30 @@ _________________
 
 **पदच्छेदः**
 
+*7b, 8a. paarthiva aatmaja* = oh, king's, son - oh, prince;
+*khura* = hooves; *nemi* = outer circle of horseshoes - like felloies;
+*kSataH* = grooved; *rudhira bindubhiH siktaH* = with blood, drops, wetted with;
+*su ghoraH* = very, ghastly; *ayam deshaH* = this, place is; *nivR^itta
+sangraamaH* = fought and stalled, combat.
+
+**अनुवादः**
+
+"This has become a very ghastly place since it is grooved by the hooves of ungulates
+and by the felloies of chariot-wheels, and it is wetted with drops of blood, oh, prince, thereby a
+combat is fought and stalled at this place... [3-65-7b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+अथवा यारु याव उद्देशदिन्द नॊगसहित रथवन्नु मुरिदिरुवनु? इदन्नु तिळियुवुदिदॆ. राजकुमार! ई स्थानवु कुदुरॆगळ गॊरसुगळिन्द मत्तु रथ चक्रगळिन्द अगॆदन्तॆ इदॆ, जॊतॆगॆ रक्तद तॊट्टुगळु चॆल्लिहोगिवॆ. इदरिन्द इल्लि दॊड्ड भयङ्कर काळगवे नडॆदिदॆ ऎन्दु सिद्धवागुत्तदॆ, आदरॆ ई सङ्ग्राम चिह्नॆयु यवुदो ऒन्दे रथद्दागिदॆ, ऎरडिल्ल. मातिनल्लि श्रेष्ठनाद श्रीराम! इल्लि यावुदे विशाल सैन्यद हॆज्जॆगुरुतु नानु नोडुत्तिल्ल. आद्दरिन्द यारो ऒब्बन अपराधदिन्दले लोकगळन्नु विनाश माडबारदु.॥7-9॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *8b, 9a. vadataam vara* = oh, among articulators, the best;
 *ayam* = this [combat is]; *ekasya vimardaH* = of a single [combatant's,] combat;
 *dvayoH na* = among two; *mahataH balasya vR^ittam* = huge, by army, eventuated;
@@ -322,11 +346,6 @@ among best articulators, I indeed observe that no huge army is eventuated here, 
 [3-65-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-अथवा यारु याव उद्देशदिन्द नॊगसहित रथवन्नु मुरिदिरुवनु? इदन्नु तिळियुवुदिदॆ. राजकुमार! ई स्थानवु कुदुरॆगळ गॊरसुगळिन्द मत्तु रथ चक्रगळिन्द अगॆदन्तॆ इदॆ, जॊतॆगॆ रक्तद तॊट्टुगळु चॆल्लिहोगिवॆ. इदरिन्द इल्लि दॊड्ड भयङ्कर काळगवे नडॆदिदॆ ऎन्दु सिद्धवागुत्तदॆ, आदरॆ ई सङ्ग्राम चिह्नॆयु यवुदो ऒन्दे रथद्दागिदॆ, ऎरडिल्ल. मातिनल्लि श्रेष्ठनाद श्रीराम! इल्लि यावुदे विशाल सैन्यद हॆज्जॆगुरुतु नानु नोडुत्तिल्ल. आद्दरिन्द यारो ऒब्बन अपराधदिन्दले लोकगळन्नु विनाश माडबारदु.॥7-9॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -344,25 +363,6 @@ apt of you; *hi* = why because; *vasudhaa adhipaaH* = earth's, lords [kings are]
 "It will be inapt of you to wish for wrecking a havoc upon all worlds for an
 individual's wrongdoing. Why because, the good-hearted, good-natured kings are they who impose
 tenable punishment... [3-65-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*7b, 8a. paarthiva aatmaja* = oh, king's, son - oh, prince;
-*khura* = hooves; *nemi* = outer circle of horseshoes - like felloies;
-*kSataH* = grooved; *rudhira bindubhiH siktaH* = with blood, drops, wetted with;
-*su ghoraH* = very, ghastly; *ayam deshaH* = this, place is; *nivR^itta
-sangraamaH* = fought and stalled, combat.
-
-**अनुवादः**
-
-"This has become a very ghastly place since it is grooved by the hooves of ungulates
-and by the felloies of chariot-wheels, and it is wetted with drops of blood, oh, prince, thereby a
-combat is fought and stalled at this place... [3-65-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>
@@ -563,6 +563,28 @@ this forest... [3-65-12b, 13a]
 
 **पदच्छेदः**
 
+*13b, 14a. samudram ca parvataan ca vanaani ca* = ocean, also,
+mountains, also, forests, also; *vividhaa ghoraaH guhaaH ca* = divers, dreadful, caves,
+also; *thathaa vividhaaH padminyaH* = likewise, different, lotus-lakes; *viceSyaamaH*
+= let us search.
+
+**अनुवादः**
+
+"Let us search the oceans, rivers and forests, and even divers dreadful caves and
+different lotus-lakes... [3-65-13b, 14a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+नावॆल्लरू एकाग्रचित्तरागि समुद्रदल्लि, पर्वतगळल्लि, वनगळल्लि हुडुकोण, नाना प्रकारद गुहॆगळल्लि बगॆ बगॆय सरोवरगळल्लि अन्वेषणॆ माडोण. देवतॆगळ, गन्धर्वर लोकगळल्लियू अरसोण. निन्न पत्नियन्नु अपहरण माडिद दुरात्मनु सिगुववरॆगॆ प्रयत्नमाडुत्ता, इरुवा. कोसलेश्वरने! नम्म शान्तिपूर्ण वर्तनॆयिन्द देवतॆगळु निन्न पत्निय सुळिवन्नु कॊडदिद्दरॆ आग अदक्कनुगुणवागि नीनु कार्य माडु.॥13-15॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *14b, 15a. samaahitaaH* = intently; *tava bhaaryaa apa haariNam*
 = your, wife, for abductor; *yaavat na adhigamiSyaamaH* = as long as, not, accessible
 [apprehended]; so long; *deva gandharva lokaan ca* = gods, celestial, worlds of;
@@ -574,11 +596,6 @@ this forest... [3-65-12b, 13a]
 your wife is unapprehended... [3-65-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-नावॆल्लरू एकाग्रचित्तरागि समुद्रदल्लि, पर्वतगळल्लि, वनगळल्लि हुडुकोण, नाना प्रकारद गुहॆगळल्लि बगॆ बगॆय सरोवरगळल्लि अन्वेषणॆ माडोण. देवतॆगळ, गन्धर्वर लोकगळल्लियू अरसोण. निन्न पत्नियन्नु अपहरण माडिद दुरात्मनु सिगुववरॆगॆ प्रयत्नमाडुत्ता, इरुवा. कोसलेश्वरने! नम्म शान्तिपूर्ण वर्तनॆयिन्द देवतॆगळु निन्न पत्निय सुळिवन्नु कॊडदिद्दरॆ आग अदक्कनुगुणवागि नीनु कार्य माडु.॥13-15॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -596,23 +613,6 @@ do.
 "Oh, Lord of Kosala kingdom, if the heavenly lords are not going bestow your wife
 propitiously, rather after our humanly effort, then you may do whatever you want, seasonably...
 [3-65-15b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*13b, 14a. samudram ca parvataan ca vanaani ca* = ocean, also,
-mountains, also, forests, also; *vividhaa ghoraaH guhaaH ca* = divers, dreadful, caves,
-also; *thathaa vividhaaH padminyaH* = likewise, different, lotus-lakes; *viceSyaamaH*
-= let us search.
-
-**अनुवादः**
-
-"Let us search the oceans, rivers and forests, and even divers dreadful caves and
-different lotus-lakes... [3-65-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga65/aranyasans65.htm)
 </details>

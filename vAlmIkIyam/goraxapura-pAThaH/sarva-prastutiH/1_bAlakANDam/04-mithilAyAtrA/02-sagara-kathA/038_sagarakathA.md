@@ -540,6 +540,24 @@ _________________
 
 **पदच्छेदः**
 
+*11. paramadhaarmikaH bhR^iguH* = one with - sublime sanctity,
+ sage Bhrigu; *tayoH tat vacanam shrutvaa* = on listening their words
+ ; *paramaam vaaNiim uvaaca* = with glorious, tone,
+ spoke; *atra* = in this matter - this issue; *svacChandaH
+ vidhiiyataam* = [your] freewill, be brought to bear - you may exercise.
+
+**अनुवादः**
+
+On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
+ your freewill be brought to bear this issue'. [1-38-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12. vamshakaraH ekaH astu vaa* = dynasty enriching, one son,
  there shall be, whether; *mahaabalaaH* = highly energetic ones;
  *kiirtimantaH* = highly renowned ones; *mahotsaahaaH*
@@ -553,24 +571,6 @@ _________________
  sons who will be highly energetic, highly renowned, and highly enthusiastic.
  Who wants which boon from either of them?' Thus, the Sage gave them
  the option. [1-38-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11. paramadhaarmikaH bhR^iguH* = one with - sublime sanctity,
- sage Bhrigu; *tayoH tat vacanam shrutvaa* = on listening their words
- ; *paramaam vaaNiim uvaaca* = with glorious, tone,
- spoke; *atra* = in this matter - this issue; *svacChandaH
- vidhiiyataam* = [your] freewill, be brought to bear - you may exercise.
-
-**अनुवादः**
-
-On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
- your freewill be brought to bear this issue'. [1-38-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga38/balasans38.htm)
 </details>

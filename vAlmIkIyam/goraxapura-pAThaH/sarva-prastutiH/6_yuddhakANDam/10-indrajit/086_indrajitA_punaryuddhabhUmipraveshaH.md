@@ -1388,23 +1388,6 @@ _________________
 
 **पदच्छेदः**
 
-*34. saumitra* = O Lakshmana!; *jahi* = kill; *tam* =
-that; *raavaNim* = Indrajit; *ghoraiH sharaiH* = with terrific arrows; *apratima
-samsthaanaiH* = in incomparable workmanship; *shatrunivaaraNaiH* = which ward off
-enemies; *jiivitaanta karaiH* = and putting an end to their lives.
-
-**अनुवादः**
-
-"O Lakshmana! Kill that Indrajit with your terrific arrows of incomparable
-workmanship, which ward off the enemies and putting an end to their lives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *33. aasthaaya* = having seated; *ratham* = in a chariot;
 *saH* = he; *yaH* = who; *raavasya sambhavah* = was born to Ravana (Indrajit);
 *vaasavanirjetaa* = who conquered Indra; *jighaamsati* = is seeking to kill;
@@ -1414,6 +1397,23 @@ workmanship, which ward off the enemies and putting an end to their lives."
 
 "Having seated in a chariot, Indrajit, who conquered Indra, is seeking to kill
 Hanuma."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*34. saumitra* = O Lakshmana!; *jahi* = kill; *tam* =
+that; *raavaNim* = Indrajit; *ghoraiH sharaiH* = with terrific arrows; *apratima
+samsthaanaiH* = in incomparable workmanship; *shatrunivaaraNaiH* = which ward off
+enemies; *jiivitaanta karaiH* = and putting an end to their lives.
+
+**अनुवादः**
+
+"O Lakshmana! Kill that Indrajit with your terrific arrows of incomparable
+workmanship, which ward off the enemies and putting an end to their lives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga86/yuddhasans86.htm)
 </details>

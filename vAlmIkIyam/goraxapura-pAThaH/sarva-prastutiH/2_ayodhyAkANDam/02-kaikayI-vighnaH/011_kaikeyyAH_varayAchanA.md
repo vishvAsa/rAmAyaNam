@@ -1078,23 +1078,6 @@ her trap as a deer, for his self destruction.
 
 **पदच्छेदः**
 
-*24. upakalpitaH* = Arrangements have been made; *raaghavasya
-abhishheka samaarambhaH* = to undertake Rama's coronation; *me bharataH abhi-
-shhichyataam* = Let my Bharata coronated; *anena* = in this; *abhishhekeNaiva* =
-anointment ceremony itself.
-
-**अनुवादः**
-
-"All arrangements have been made to undertake Rama's coronation. Let my Bharata
-instead be coronated on this occasion itself".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *23. tataHparam* = There afterwards; *uvaacha* = spoke;
 *idam* = these words; *varadam* = to Dasaratha who is ready to give boons; *kaama
 mohitam* = and who was infatuated by lust; *deva* = Oh; *King! mahiipate* = the
@@ -1108,6 +1091,23 @@ vachaH* = my words.
 There-afterwards, Kaikeyi spoke these words to Dasaratha who was ready to give boons
 and who was infatuated by lust: "Oh, King! the lord of Earth, now only I am asking for those boons
 which were given by you then. Listen to my words".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. upakalpitaH* = Arrangements have been made; *raaghavasya
+abhishheka samaarambhaH* = to undertake Rama's coronation; *me bharataH abhi-
+shhichyataam* = Let my Bharata coronated; *anena* = in this; *abhishhekeNaiva* =
+anointment ceremony itself.
+
+**अनुवादः**
+
+"All arrangements have been made to undertake Rama's coronation. Let my Bharata
+instead be coronated on this occasion itself".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga11/ayodhyasans11.htm)
 </details>

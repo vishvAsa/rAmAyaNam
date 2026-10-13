@@ -944,6 +944,22 @@ _________________
 
 **पदच्छेदः**
 
+*20. raajan* = O king!; *na vidyeta kashchana* = none is known;
+*triSu lokeSu* = in the three worlds; *yaH* = who avaapnuyaat = have gained; *sukham*
+= happiness; *kR^itaa* = by doing; *vyaLiikam* = harm; *raaghavaya* = to Rama.
+
+**अनुवादः**
+
+"O king! No one is known in the three worlds, who have gained happiness, by doing harm
+to Rama."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *21. tat* = that is why; *manyasva* = agree with; *vaakyam*
 = my words; *trikaalahitam* = which are beneficial for all the three times; *dharmyam*
 = legitimate; *arthaanubandhicha* = and resulting in affluence and respectability janakii = 9let)
@@ -954,22 +970,6 @@ Seetha; *pratidiiyataam* = be restored; *naradevaaya* = to Rama.
 "That is why, accede to my words, which are beneficial for all the three divisions of
 time (viz. the past, present and future), resulting in affluence and respectability as well. Let Seetha
 be restored to Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*20. raajan* = O king!; *na vidyeta kashchana* = none is known;
-*triSu lokeSu* = in the three worlds; *yaH* = who avaapnuyaat = have gained; *sukham*
-= happiness; *kR^itaa* = by doing; *vyaLiikam* = harm; *raaghavaya* = to Rama.
-
-**अनुवादः**
-
-"O king! No one is known in the three worlds, who have gained happiness, by doing harm
-to Rama."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>
@@ -1296,24 +1296,6 @@ _________________
 
 **पदच्छेदः**
 
-*28. dharmopasamhaaram* = the fruit of righteousness; *na tu* = is
-not; *adharmaphalasamhitam* = close by the result of unrighteousness; *tat phalameva*
-= that consequence of unrighteousness alone; *anveti* = follows as an adherent; *dharmashcha*
-= righteousness; *adharma naashanaH* = destroys unrighteousness.
-
-**अनुवादः**
-
-"The fruit of righteousness does not exist together with the result of unrighteousness
-(eventhough he practices virtue). That consequence of unrighteousness alone follows him. Righteousness
-in abundance destroys unrighteousness."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. ayam sugriivaH* = this Sugreeva; *na hi* = is not indeed;
 *devaH* = a god; *asuraH na* = nor Asura the chief of evil spirits; *raakSasaH cha*
 = nor a demon; *daanavaH na* = nor a child of Danu the demons; *gandharvaH na* = nor Gandhara;
@@ -1326,6 +1308,24 @@ the celestial musician; *yakSaH na* = nor Yaksha; the semi-divine being; pannaga
 "This Sugreeva is indeed neither a god, nor Asura the chief of evil spirits nor a demon
 nor a child of Danu the demon, nor Gandharva the celestial musician nor Yaksha the semi-divine being
 nor pannaga the serpent-demon. O King! How do you protect your life from him?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. dharmopasamhaaram* = the fruit of righteousness; *na tu* = is
+not; *adharmaphalasamhitam* = close by the result of unrighteousness; *tat phalameva*
+= that consequence of unrighteousness alone; *anveti* = follows as an adherent; *dharmashcha*
+= righteousness; *adharma naashanaH* = destroys unrighteousness.
+
+**अनुवादः**
+
+"The fruit of righteousness does not exist together with the result of unrighteousness
+(eventhough he practices virtue). That consequence of unrighteousness alone follows him. Righteousness
+in abundance destroys unrighteousness."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga51/sundarasans51.htm)
 </details>

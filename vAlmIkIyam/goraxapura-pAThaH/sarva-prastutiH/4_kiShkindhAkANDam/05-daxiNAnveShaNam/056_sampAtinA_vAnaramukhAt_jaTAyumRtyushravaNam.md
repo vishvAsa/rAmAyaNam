@@ -186,6 +186,23 @@ _________________
 
 **पदच्छेदः**
 
+*4. loke* = in world; *vidhiH* = fate / god; *vidhaanena*
+= procedurally [fatefully]; *naram* = after human; *anuvartate kila* = follows,
+indeed; *yathaa* = why because; *ciraat* = long-awaited; *mahyam vihitaH* = to
+me, fated; *ayam bhakSyaH upa aagataH* = this, food, came nigh of me.
+
+**अनुवादः**
+
+"Whether it is good or bad, fate indeed follows humans in this world procedurally,
+why because, this fated and long-waited food has now come nigh of me... [4-56-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *5. vaanaraaNaam paramparaaNaam* = of vanara-s, in the series;
 *mR^itam mR^itam* = dead one, on dying - whoever is dead while fasting, or, whomever I kill
 sequentially; *bhakSiSye* = I wish to eat; *taan plavamgamaan niriikSya* = them,
@@ -207,23 +224,6 @@ death occurs prior to their becoming prey to Sampaati. He feared to become the p
 whereby their sacred immolation is also going to fail along with other failures like searching
 Seetha, transgressing timeframe, hiding in Black Hole etc. Besides, a vulture is the most
 unpredictable bird, if it comes to it food.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*4. loke* = in world; *vidhiH* = fate / god; *vidhaanena*
-= procedurally [fatefully]; *naram* = after human; *anuvartate kila* = follows,
-indeed; *yathaa* = why because; *ciraat* = long-awaited; *mahyam vihitaH* = to
-me, fated; *ayam bhakSyaH upa aagataH* = this, food, came nigh of me.
-
-**अनुवादः**
-
-"Whether it is good or bad, fate indeed follows humans in this world procedurally,
-why because, this fated and long-waited food has now come nigh of me... [4-56-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>
@@ -1017,23 +1017,6 @@ _________________
 
 **पदच्छेदः**
 
-*22b, 23a. vaanara R^iSabhaaH* = oh, vanara, bullish ones - best ones;
-*tat* = thereby; *aham* = I; *janasthaana nivaasinaH* = in Janasthaana,
-dweller - when he was in bhraatuH = [as he is my] brother; *tasya jaTaayuSaH* = of his, of
-Jataayu; *vinaasham shrotum icCheyam* = of death, to listen, I wish to.
-
-**अनुवादः**
-
-"Thereby, oh, best vanara-s, I wish to listen about the death of my brother Jataayu
-when he was in Janasthaana... [4-56-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *21, 22a. giri durgaat* = from mountain, soars; *bhavadbhiH ava
 taaritum* = by you, to down, lowered; *icCheyam* = I wish to; *guNa j~nasya* =
 virtue, knower - straightforward; *vikramaiH shlaaghaniiyasya* = by valour, praiseworthy;
@@ -1045,6 +1028,23 @@ time; *kiirtitanaat* = by [your] praising; *parituSTaH asmi* = gladdened, I am.
 "I wish you to get me down from these mountain soars. After a long time I have heard
 about my younger brother who is straightforward, praiseworthy for his valour, and I am glad that
 too spoke of him praisefully... [4-56-21, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22b, 23a. vaanara R^iSabhaaH* = oh, vanara, bullish ones - best ones;
+*tat* = thereby; *aham* = I; *janasthaana nivaasinaH* = in Janasthaana,
+dweller - when he was in bhraatuH = [as he is my] brother; *tasya jaTaayuSaH* = of his, of
+Jataayu; *vinaasham shrotum icCheyam* = of death, to listen, I wish to.
+
+**अनुवादः**
+
+"Thereby, oh, best vanara-s, I wish to listen about the death of my brother Jataayu
+when he was in Janasthaana... [4-56-22b, 23a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm)
 </details>

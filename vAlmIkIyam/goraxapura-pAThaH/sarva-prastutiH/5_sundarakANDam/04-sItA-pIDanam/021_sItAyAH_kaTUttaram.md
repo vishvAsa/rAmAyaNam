@@ -135,23 +135,6 @@ _________________
 
 **पदच्छेदः**
 
-*3. nivartaya* = turn back; *manaH* = mind; *mattaH* = from me; *
-manaH kriyataam* = let your mind be made; *svajaH* = on your own wives; *susiddhimiva* = like
-best emancipation;paapakR^it = (for) a sinner; *na yuktam* = it is not appropriate; *praarthayitum*
-= to pray;maam = me.
-
-**अनुवादः**
-
-"Turn your mind back from me. Let your mind be made on your own wives. Like best emancipation for
-a sinner, it is not appropriate to pray me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2. duhkhaartaa* = Being tormented by grief; *tapasvinii* = in a pitiful state;
 *varaarohaa* = with excellent limbs; *pativrataa* = devoted to husband; *chintayantii* =
 thinking; *patimeva* = about husband alone; *shuchi smitaa* = with pleasant smiles; *siitaa*
@@ -163,6 +146,23 @@ a grass straw;antarataH = in between (herself and Ravana);pratyuvaacha = spoke i
 Being tormented by grief, in a pitiful state, with excellent limbs, devoted to husband, thinking
 about husband alone, with pleasant smiles Seetha was sobbing, shivering and placing a straw in between herself
 and Ravana spoke thus in reply.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. nivartaya* = turn back; *manaH* = mind; *mattaH* = from me; *
+manaH kriyataam* = let your mind be made; *svajaH* = on your own wives; *susiddhimiva* = like
+best emancipation;paapakR^it = (for) a sinner; *na yuktam* = it is not appropriate; *praarthayitum*
+= to pray;maam = me.
+
+**अनुवादः**
+
+"Turn your mind back from me. Let your mind be made on your own wives. Like best emancipation for
+a sinner, it is not appropriate to pray me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
@@ -243,21 +243,6 @@ _________________
 
 **पदच्छेदः**
 
-*5. vaidehii* = Seetha;yashasvinii = with renown; *evam uktvaa* = thus speaking;
-*tam ravaNam* = to that Ravana; *kR^itvaa* = making; *pR^ishhThataH* = the back; *raakshasam*
-= to (that) ogre; *abraviit* = spoke; *vachanam* = words; *buuyaH* = again.
-
-**अनुवादः**
-
-Seetha with renown thus speaking to that Ravana, turned back and spoke words again.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *4. jaatayaa* = I was born; *mahati* = in a great; *kule* = family;
 *saMpraaptayaa* = getting;kulam = family;ekapatnyaa = having one husband; *akaaryam* = a bad deed;
 *nigarhitam* = which is blameable;na kaaryam = is not to be made; *mayaa* = by me.
@@ -266,6 +251,21 @@ Seetha with renown thus speaking to that Ravana, turned back and spoke words aga
 
 "I was born in a great family. Getting such family, having one husband, a bad deed which is blameable
 is not to be made by me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. vaidehii* = Seetha;yashasvinii = with renown; *evam uktvaa* = thus speaking;
+*tam ravaNam* = to that Ravana; *kR^itvaa* = making; *pR^ishhThataH* = the back; *raakshasam*
+= to (that) ogre; *abraviit* = spoke; *vachanam* = words; *buuyaH* = again.
+
+**अनुवादः**
+
+Seetha with renown thus speaking to that Ravana, turned back and spoke words again.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
@@ -309,23 +309,6 @@ _________________
 
 **पदच्छेदः**
 
-*7. nishaachara* = O ogre!; *yathaa* = how; *tava* = your (wives) rakshyaaH
-= are to be protected; *tathaa* = in the same way; *anyeshhaam* = others'; *daaraaH* = wives
-(are to be protected); *aatmaanam upamaam kR^itvaa* = making yourself as an example; *ramyataam*
-= enjoy; *sveshhu daarseshhu* = .your own wives.
-
-**अनुवादः**
-
-"O Ogre! How your wives are to be protected, in the same way others' wives are to be protected.
-Making yourself as an example enjoy your own wives."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *6. aham* = I; *parabharyaa* = who am wife of another;satii = and devoted to
 husband; *na* = am not; *aupaikii* = suitable; *bhaaryaa* = wife; *tava* = to you;
 *anvekshasva* = observe; *dharmam* = righteousness; *saadhu* = well; *chara* = follow;
@@ -335,6 +318,23 @@ husband; *na* = am not; *aupaikii* = suitable; *bhaaryaa* = wife; *tava* = to yo
 
 "I who am wife of another and devoted to husband am not suitable wife to you. Observe righteousness
 well. Follow well course of conduct of virtuous."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. nishaachara* = O ogre!; *yathaa* = how; *tava* = your (wives) rakshyaaH
+= are to be protected; *tathaa* = in the same way; *anyeshhaam* = others'; *daaraaH* = wives
+(are to be protected); *aatmaanam upamaam kR^itvaa* = making yourself as an example; *ramyataam*
+= enjoy; *sveshhu daarseshhu* = .your own wives.
+
+**अनुवादः**
+
+"O Ogre! How your wives are to be protected, in the same way others' wives are to be protected.
+Making yourself as an example enjoy your own wives."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
@@ -511,6 +511,23 @@ _________________
 
 **पदच्छेदः**
 
+*8. atushhTam* = one who is not satisfied; *sveshhu daareshhu* = in own wives;
+*chapalam* = fickle-minded one; *chalitendriyam* = with disturbed senses; *nikR^iti prajJNaam*
+= mean minded one; *(to such a man)parabhaaryaaH* = others' wives; *nayanti* = will lead; *paraabhavam*
+= to humiliation.
+
+**अनुवादः**
+
+"One who is not satisfied in own wives, a fickle-minded one with disturbed senses, mean minded
+one, to such a man, others' wives will lead to humilation."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 11; *12. aasaadya* = (after) getting; *raajaanam* = a king; *akR^itaatmaanam*
 = who has uncontrolled mind; *ratam* = interested; *anaye* = in bad path; *samR^iddani* =
 wealthy; *raashhTraaNi* = states; *nagaraaNi cha* = and cities also; *vinashyanti* = will
@@ -524,23 +541,6 @@ laN^kaa* = this Lanka;ratnaugha saMkulaa = filled with best things; *nachiraat* 
 "After getting a king who has uncontrolled mind, interested in a bad path, wealthy states and cities
 also will be destroyed. After getting you like that this Lanka filled with best things in a short while will be
 destroyed due to your one sin."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*8. atushhTam* = one who is not satisfied; *sveshhu daareshhu* = in own wives;
-*chapalam* = fickle-minded one; *chalitendriyam* = with disturbed senses; *nikR^iti prajJNaam*
-= mean minded one; *(to such a man)parabhaaryaaH* = others' wives; *nayanti* = will lead; *paraabhavam*
-= to humiliation.
-
-**अनुवादः**
-
-"One who is not satisfied in own wives, a fickle-minded one with disturbed senses, mean minded
-one, to such a man, others' wives will lead to humilation."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
@@ -600,6 +600,22 @@ one, to such a man, others' wives will lead to humilation."
 
 **पदच्छेदः**
 
+*13. raavana* = O Ravana!; *vinaashe* = (when there is) destruction; *adiirgha
+darshinaH* = (of) a short sighted one; *hanyamaanasya svakR^itaiH* = being hit by his own deeds;
+*paapakamaNaH* = a sinner; *bhuutaani* = living beings; *abhinandanti* = will be happy;
+
+**अनुवादः**
+
+"O Ravana! When there is destruction of a short sighted one being hit by his own deeds, a sinner,
+living beings will be happy."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *14. tvaam* = about you;paapakarmaaNam = who is a sinner; *evam* = thus being
 destroyed; *janaaH* = people; *nikR^itaaH* = who have been humiliated by you; *harshhitaaH*
 = being happy; *ityeva vakshyanti* = will speak thus; *raudraH* = the cruel Ravana; *dishhTyaa*
@@ -609,22 +625,6 @@ destroyed; *janaaH* = people; *nikR^itaaH* = who have been humiliated by you; *h
 
 "About you who is a sinner thus being destroyed, people who have been humiliated by you being happy
 will speak thus: 'The cruel Ravana by God's grace has got this danger' ".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*13. raavana* = O Ravana!; *vinaashe* = (when there is) destruction; *adiirgha
-darshinaH* = (of) a short sighted one; *hanyamaanasya svakR^itaiH* = being hit by his own deeds;
-*paapakamaNaH* = a sinner; *bhuutaani* = living beings; *abhinandanti* = will be happy;
-
-**अनुवादः**
-
-"O Ravana! When there is destruction of a short sighted one being hit by his own deeds, a sinner,
-living beings will be happy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
@@ -896,6 +896,21 @@ _________________
 
 **पदच्छेदः**
 
+*18. raavaNa* = O Ravana!; *maam samaanaya* = let me meet;saadhu = well;
+*raameNa saardham* = together with Rama; *vaashitayaa kareNveva* = like a female elephant; *gajaadhipam*
+= with a (male) elephant; *vane* = in a forest.
+
+**अनुवादः**
+
+"O Ravana! Let me meet together with Rama like a female elephant with a male elephant in a forest."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *20. saH* = He (Rama); *dharmajJNaH* = the righteous one; *viditaH hi*
 = is indeed known;sharaNaagatavatsalaH = as one who loves those who seek protection; *ichchhasi yadi* =
 if you desire; *jiivitam* = to live; *maitrii bhavatu* = let there be friendhip; *te* = to
@@ -905,21 +920,6 @@ you; *tena* = with Rama.
 
 "Rama the righteous one is indeed known as one who loves those who seek protection. If you desire
 to live. let there be friendship between you and Rama."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*18. raavaNa* = O Ravana!; *maam samaanaya* = let me meet;saadhu = well;
-*raameNa saardham* = together with Rama; *vaashitayaa kareNveva* = like a female elephant; *gajaadhipam*
-= with a (male) elephant; *vane* = in a forest.
-
-**अनुवादः**
-
-"O Ravana! Let me meet together with Rama like a female elephant with a male elephant in a forest."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
@@ -1182,22 +1182,6 @@ _________________
 
 **पदच्छेदः**
 
-*26. kaN^ka vaasasaH* = arrows tied with the plumes of an eagle; *parivighnantaH*
-= will hit; *rakshaaMsi* = ogres; *samantataH* = everywhere; *asyaam puryaam* = in this city;
-*karishhyanti* = (and) will make; *asaMpaatam* = without space.
-
-**अनुवादः**
-
-"Arrows tied with the plumes of an eagle will hit ogres everywhere in this city and will cover
-the city without space."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *25. ishhavaH* = arrows; *suparvaaNaH* = with good nodes;prajvalitaasyaaH =
 with blazing tips; *uragaaH iva* = like snakes; *raamalakshmaNa lakshaNaaH* = with characteristic
 signs of Rama and Lakshmana nipatishhyanti = will fall down; *iha* = here (in Lanka); *shiighram*
@@ -1207,6 +1191,22 @@ signs of Rama and Lakshmana nipatishhyanti = will fall down; *iha* = here (in La
 
 "Arrows with good nodes, with blazing tips, like snakes, with characteristic signs of Rama and
 Lakshmana will fall down soon here in Lanka."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*26. kaN^ka vaasasaH* = arrows tied with the plumes of an eagle; *parivighnantaH*
+= will hit; *rakshaaMsi* = ogres; *samantataH* = everywhere; *asyaam puryaam* = in this city;
+*karishhyanti* = (and) will make; *asaMpaatam* = without space.
+
+**अनुवादः**
+
+"Arrows tied with the plumes of an eagle will hit ogres everywhere in this city and will cover
+the city without space."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>
@@ -1539,6 +1539,22 @@ _________________
 
 **पदच्छेदः**
 
+*33. me naathaH* = my husband; *saH raamaH* = that Rama; *saumitriNaa saha*
+= together with Lakshmana; *adaasyate* = will take away; *sharaiH* = with His arrows; *tava praaNaan*
+= your life; *kshipram* = quickly;aadityaH iva = like the sun;alpam toyam = (drying) shallow water.
+
+**अनुवादः**
+
+"My husband that Rama together with Lakshmana will take away with His arrows your life quickly
+like the sun drying up shallow water."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *34. kaala hataH* = Killed by time; *kuberasya girim gatam* = (even if you)
 go to the mountain of Kubera; *athavaa* = or; *aalyam* = to his house; *gato vaa* = or if
 you go; *sabhaam* = to the assembly; *raajJNaH varunasya* = of King Varuna; *asaMshayaM*
@@ -1549,22 +1565,6 @@ you go; *sabhaam* = to the assembly; *raajJNaH varunasya* = of King Varuna; *asa
 
 "Killed by time even if you go to the mountain of Kubera or to his house or if you go to the assembly
 of King Varuna, without doubt you will not be relased from Rama like a great tree from thunderbolt."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*33. me naathaH* = my husband; *saH raamaH* = that Rama; *saumitriNaa saha*
-= together with Lakshmana; *adaasyate* = will take away; *sharaiH* = with His arrows; *tava praaNaan*
-= your life; *kshipram* = quickly;aadityaH iva = like the sun;alpam toyam = (drying) shallow water.
-
-**अनुवादः**
-
-"My husband that Rama together with Lakshmana will take away with His arrows your life quickly
-like the sun drying up shallow water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga21/sundarasans21.htm)
 </details>

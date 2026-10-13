@@ -2127,24 +2127,6 @@ _________________
 
 **पदच्छेदः**
 
-*45. yat* = which; *paapam* = sin; *agnidaayaka* = is in
-an arsonist; *yat* = which; *paapam* = sin; *gumtalpage* = is in a violator of
-his teacher's bed; *yat* = which; *paapam* = sin; *mitradrohe* = is in
-cheating a friend; *tat* = let that; *paapam* = sin; *pratipadyataam* = be
-obtained (to him on whose counsel my elder brother has gone to exile?)
-
-**अनुवादः**
-
-"Let him obtains that sin, which attaches to a man who practices arson, to a man who
-violets his teacher's bed and to a man who cheats his friend."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *44. yat* = which; *paapam* = sin; *parikalpyate* = was
 proclaimed; *tasya* = on him; *shayanaasya* = who sleeps; *ubhe sandhye* =
 during both the twillights; *tat* = let him; *paapam* = sin; *bhavet* = be
@@ -2155,6 +2137,24 @@ elder brother; *gataH* = has gone to exile.
 
 "That sin which was proclaimed on him who sleeps during both the twilights, let that
 sin be obtained by him, with whose counsel my elder brother has gone to exile."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*45. yat* = which; *paapam* = sin; *agnidaayaka* = is in
+an arsonist; *yat* = which; *paapam* = sin; *gumtalpage* = is in a violator of
+his teacher's bed; *yat* = which; *paapam* = sin; *mitradrohe* = is in
+cheating a friend; *tat* = let that; *paapam* = sin; *pratipadyataam* = be
+obtained (to him on whose counsel my elder brother has gone to exile?)
+
+**अनुवादः**
+
+"Let him obtains that sin, which attaches to a man who practices arson, to a man who
+violets his teacher's bed and to a man who cheats his friend."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm)
 </details>

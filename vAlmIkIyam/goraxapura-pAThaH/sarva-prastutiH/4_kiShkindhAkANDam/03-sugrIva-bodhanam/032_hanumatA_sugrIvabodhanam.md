@@ -569,22 +569,6 @@ _________________
 
 **पदच्छेदः**
 
-*12. raaghavaH* = Raghava is; *sarvathaa praNayaat kruddhaH* = anywise, in friendliness, is annoyed;
-*atra samshayaH na* = in that, doubt, is not there; *bhraataram lakSmi vardhanam lakSmaNam* = brother,
-prosperity, enhancer, Lakshmana; *sam prahitavaan* = he [Rama] expedited.
-
-**अनुवादः**
-
-"Anywise, by virtue of his friendliness with you Raghava must be annoyed, hence he must have expedited his brother
-Lakshmana, whose disposition in effect to is enhance prosperity. [4-32-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11. viireNa raaghaveNa tu* = by braving, Raghava, on his part; *bhayam duurataH utsR^ijya* = [his]
 fear, distantly, tossing away; *tvat priya artham* = your, cherish, to fulfil; *shakra tulya paraakramaH*
 = Indra, coequal, in valour; *hataH vaalii* = Vali, killed.
@@ -593,6 +577,22 @@ fear, distantly, tossing away; *tvat priya artham* = your, cherish, to fulfil; *
 
 "On his part Raghava tossed off his fear distantly and eliminated Vali, whose valour equals that of Indra, only
 to fulfil your cherish. [4-32-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. raaghavaH* = Raghava is; *sarvathaa praNayaat kruddhaH* = anywise, in friendliness, is annoyed;
+*atra samshayaH na* = in that, doubt, is not there; *bhraataram lakSmi vardhanam lakSmaNam* = brother,
+prosperity, enhancer, Lakshmana; *sam prahitavaan* = he [Rama] expedited.
+
+**अनुवादः**
+
+"Anywise, by virtue of his friendliness with you Raghava must be annoyed, hence he must have expedited his brother
+Lakshmana, whose disposition in effect to is enhance prosperity. [4-32-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga32/kishkindhasans32.htm)
 </details>

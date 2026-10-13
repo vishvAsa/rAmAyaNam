@@ -1092,23 +1092,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. raame* = Rama; *gate* = having left Ayodhya;
-*taruNaaH* = the youth; *samtaptaaH* = in distress; *nopabhujJNate* = are not
-making use of; *chandanaagarugandhaamshcha* = the perfumes of sandal-wood and aloe-wood;
-*mahaarhaaH* = and the excellent; *navasrajashcha* = fresh floral garlands.
-
-**अनुवादः**
-
-"Rama, having left Ayodhya, the distressful youth are not making use of the perfumes
-like sandal-wood, aloe wood as also the most admirable and fresh floral garlands."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 21; *22. vivaasite* = Due to exile; *raame* = of Rama; *yaana
 pravara ghoSashcha* = the sound of the excellent carriages; *snigdhaH* = the charming;
 *hayanishvanashcha* = sound of the horses; *pramatta gajanaadashcha* = the sound of
@@ -1120,6 +1103,23 @@ chariots; *na shruuyate* = are not heard; *asyaam puraam* = in this city;
 
 "O, Sumantra! I do not hear, as before, the sound of the horses, the sound of the
 intoxicating elephants and the clattering of the great chariots in this city now."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. raame* = Rama; *gate* = having left Ayodhya;
+*taruNaaH* = the youth; *samtaptaaH* = in distress; *nopabhujJNate* = are not
+making use of; *chandanaagarugandhaamshcha* = the perfumes of sandal-wood and aloe-wood;
+*mahaarhaaH* = and the excellent; *navasrajashcha* = fresh floral garlands.
+
+**अनुवादः**
+
+"Rama, having left Ayodhya, the distressful youth are not making use of the perfumes
+like sandal-wood, aloe wood as also the most admirable and fresh floral garlands."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>
@@ -1306,23 +1306,6 @@ autumnal rains?"
 
 **पदच्छेदः**
 
-*28. evam* = thus; *jalpan* = speaking; *bahuvidham* = in
-many ways; (Bharata); *vivesha* = entered; *pituH* = his father's; *vasatim* =
-house; *hiinaam* = bereft of; *tena* = that; *narendreNa* = king;
-*guhaamiva* = and which resembled a cave; *simhahiinaam* = bereft of a lion.
-
-**अनुवादः**
-
-Thus speaking in many ways, Bharata entered his father's house, bereft of that
-emperor and which resembled a cave bereft of a lion.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. mahaapathaaH* = the high ways; *ayodhyaam* = in Ayodhya;
 *naabhibhaanti* = are not glittering; *taruNaiH* = with youthful; *naraiH* =
 people; *chaaru veSaiH* = richly attired; *unnatagaamibhiH* = bearing themselves
@@ -1332,6 +1315,23 @@ bravely; *sampatadbhiH* = and roaming about in groups.
 
 "The highways in Ayodhya are not glittering with youthful people, richly attired,
 bearing themselves bravely and roaming about in groups."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. evam* = thus; *jalpan* = speaking; *bahuvidham* = in
+many ways; (Bharata); *vivesha* = entered; *pituH* = his father's; *vasatim* =
+house; *hiinaam* = bereft of; *tena* = that; *narendreNa* = king;
+*guhaamiva* = and which resembled a cave; *simhahiinaam* = bereft of a lion.
+
+**अनुवादः**
+
+Thus speaking in many ways, Bharata entered his father's house, bereft of that
+emperor and which resembled a cave bereft of a lion.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga114/ayodhyasans114.htm)
 </details>

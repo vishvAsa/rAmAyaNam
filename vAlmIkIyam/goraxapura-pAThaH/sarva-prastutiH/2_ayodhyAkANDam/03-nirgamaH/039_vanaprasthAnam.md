@@ -1727,6 +1727,23 @@ _________________
 
 **पदच्छेदः**
 
+*36. uktvaa* = uttering; *vachaH* = words; *etaavat* = of
+such quality; *abhiniitaartham* = end appropriate meaning; *aavekshhya* = refelected
+again; *dadarsha* = (and) gazed at; *trayaH shata shataardhaaH* = his three hundred
+fifty; *maataraH cha* = mothers also.
+
+**अनुवादः**
+
+Uttering the aforesaid words of such quality and appropriate meaning to his mother,
+Rama thought once again and gazed at his three hundred and fifty step-mothers.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *37. saH* = that; *dasharathaatmajaH* = Rama;
 *kR^itaaNjaliH* = joined his palms; *taaH* = to those; *maatR^iirapi* =
 mothers also; *aartaaH* = who were distressed; *tathaiva* = in the same way;
@@ -1738,23 +1755,6 @@ were in consonance with righteousness.
 Rama joined his palms and saluted those step mothers also, who were too distressed
 in the same way and spoke these words which were in consonance with the spirit of
 righteousness.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*36. uktvaa* = uttering; *vachaH* = words; *etaavat* = of
-such quality; *abhiniitaartham* = end appropriate meaning; *aavekshhya* = refelected
-again; *dadarsha* = (and) gazed at; *trayaH shata shataardhaaH* = his three hundred
-fifty; *maataraH cha* = mothers also.
-
-**अनुवादः**
-
-Uttering the aforesaid words of such quality and appropriate meaning to his mother,
-Rama thought once again and gazed at his three hundred and fifty step-mothers.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga39/ayodhyasans39.htm)
 </details>

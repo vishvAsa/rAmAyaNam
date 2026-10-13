@@ -989,6 +989,23 @@ there aspiring to see the war. [3-24-19]
 
 **पदच्छेदः**
 
+*20. mahaatmanaH R^iSayaH ca* = great-souls, sages, also; *loke brahmarSi sattamaaH* =
+those that are there in worlds, Brahma-sages, eminent ones; *puNya karmaNaH* = those with pious,
+exploits; *sametya* = came together; *anyaH anyam* = other, to other [one another];
+*sahitaaH* = on meeting; *uucuH* = they talked.
+
+**अनुवादः**
+
+The great-souled sages and those that are known in worlds as eminent Brahma-sages, on their coming together
+those beings of pious exploits spoke to one another, among themselves. [3-24-20]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *21, 22a. go braahmaNebhyaH* = for cows, Brahmans; *ye lokaanaam sam sthitaaH* = those,
 in worlds, well, abiding in; *svasti astu* = good, may betide; *raaghavaH* = Raghava [sankhye
 = in war]; *rajanii caraan paulastyaan* = [these] night walkers, belonging to Pulastya dynasty;
@@ -1000,23 +1017,6 @@ sarvaan asura pungavaan* = in war, all, demons, mighty ones; *iti uucuH* = thus,
 "Let good betide cows, Brahmans and those people that are abiding in all the worlds. Raghava shall be
 victorious in the war over the clansmen of Sage Paulastya, the nightwalkers." Thus they talked among
 themselves. [3-24-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*20. mahaatmanaH R^iSayaH ca* = great-souls, sages, also; *loke brahmarSi sattamaaH* =
-those that are there in worlds, Brahma-sages, eminent ones; *puNya karmaNaH* = those with pious,
-exploits; *sametya* = came together; *anyaH anyam* = other, to other [one another];
-*sahitaaH* = on meeting; *uucuH* = they talked.
-
-**अनुवादः**
-
-The great-souled sages and those that are known in worlds as eminent Brahma-sages, on their coming together
-those beings of pious exploits spoke to one another, among themselves. [3-24-20]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>
@@ -1506,25 +1506,6 @@ Casting his sight all-over even that war-expert Rama has seen that army of Khara
 
 **पदच्छेदः**
 
-34. *kruddhaH* = one who is enraged; that Rama; *jvalan* = while blazing; *yuga
-anta agniH iva* = era, ending, Fire, like, blazing; *duS prekSyaH* = un, sightly - frightful-looking;
-*abhavat ca* = he became, also; *tejasaa aaviSTam* = by conflagration, when pervaded;
-*tam dR^iSTvaa* = at him [Rama,] on seeing; *vana devataaH* = pastoral, deities; *praa
-vyathan* = very much, annoyed.
-
-**अनुवादः**
-
-And when he is enraged and blazing he became frightful-looking like the blazing Fire at the end of era,
-and on seeing such a Rama when he is pervaded with conflagration like anger, the pastoral deities are
-very much annoyed. [3-24-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *33. bhiimam dhanuH vitatya ca* = awesome, bow, on stretching, also; *tuuNyaaH saayakaan uddhR^itya
 ca* = from quiver, arrows, on whipped out; *sarva rakSasaam vadhaartham* = all, demons, to
 eliminate; *tiivram krodham aahaarayat* = extreme, wrath, he called forth - [adopted a mask.]
@@ -1546,6 +1527,25 @@ samudyata yaatudhaanaanidhaanaaya satvaram udagra kopam aaviShTasya pracaNDa ani
 yugaanta anala kalpasya sakala jana duShprekShyasya - - dharmaakuutam* Even now, on seeing
 Rama's unsightly aspect, should these demons fall prostrate before him, there would no loss to their
 lives. But Khara, as his name itself indicates that he has an asinine mentality, will not yield.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+34. *kruddhaH* = one who is enraged; that Rama; *jvalan* = while blazing; *yuga
+anta agniH iva* = era, ending, Fire, like, blazing; *duS prekSyaH* = un, sightly - frightful-looking;
+*abhavat ca* = he became, also; *tejasaa aaviSTam* = by conflagration, when pervaded;
+*tam dR^iSTvaa* = at him [Rama,] on seeing; *vana devataaH* = pastoral, deities; *praa
+vyathan* = very much, annoyed.
+
+**अनुवादः**
+
+And when he is enraged and blazing he became frightful-looking like the blazing Fire at the end of era,
+and on seeing such a Rama when he is pervaded with conflagration like anger, the pastoral deities are
+very much annoyed. [3-24-34]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyasans24.htm)
 </details>

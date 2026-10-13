@@ -672,23 +672,6 @@ Ravana not yet seen."
 
 **पदच्छेदः**
 
-*14. iti* = thus; *samchintya* = thinking; *upachakrame* = (Hanuma)
-began; *vichetum* = to search; *bhuuyopi* = again; *bhuumiigR^ihaan* = undergrounds; *
-chaityagR^ihaan* = houses at the beginning of street intersections; *gR^ihaati gR^ihakaanapi* = and
-also small houses faraway from the main houses.
-
-**अनुवादः**
-
-Thus thinking Hanuma began to search again undergrounds, houses at the beginning of street intersections
-and also small houses faraway from the main houses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12;13. apaanashaalaaH* = bars; *vichitaaH* = have been searched; *tathaa*
 = in the same way; *pushhpagR^ihaanicha* = flower houses; *chitrashaalaashcha* = art houses; *
 vichitaaH* = have been searched; *bhuuyaH* = again; *kriiDaagR^ihaanicha* = pleasure houses;
@@ -699,6 +682,23 @@ vichitaaH* = have been searched; *bhuuyaH* = again; *kriiDaagR^ihaanicha* = plea
 
 "Bars have been searched; in the same way flower houses, art houses have been searched; again pleasure
 houses, pathways in the middle of gardens, buildings in all directions have been searched."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. iti* = thus; *samchintya* = thinking; *upachakrame* = (Hanuma)
+began; *vichetum* = to search; *bhuuyopi* = again; *bhuumiigR^ihaan* = undergrounds; *
+chaityagR^ihaan* = houses at the beginning of street intersections; *gR^ihaati gR^ihakaanapi* = and
+also small houses faraway from the main houses.
+
+**अनुवादः**
+
+Thus thinking Hanuma began to search again undergrounds, houses at the beginning of street intersections
+and also small houses faraway from the main houses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
@@ -835,23 +835,6 @@ _________________
 
 **पदच्छेदः**
 
-*18. prakaarantara radhyaashcha* = streets in the middle of fort walls; *vedikaaH*
-= platforms; *chaitya samshrayaaH* = together with the intersection of four streets; *diirghikaaH*
-= wells; *pushhkariNyashcha* = lakes; *sarvam* = all these; *avalokitam* = had been seen;
-*tena* = by him.
-
-**अनुवादः**
-
-Streets between fort walls, platforms together with the intersection of four streets, wells, lakes
-all these had been seen by him.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15;16. saH mahaakapiH* = the great Hanuma; *utpatan* = flying; *punaH punaH*
 = again and again; *nishhpatamshchaapi* = and jumping down; *tishhThan* = standing up; *ghachchhan*
 = walking; *dvaaraaNi apaavR^iNvan* = opening doors; *kavaaTaani avaghaaTayan* = pushing doors;
@@ -862,6 +845,23 @@ down; *utpatan api* = climbing up; *vichachaara* = wandered; *sarvam avakaasam* 
 
 The great Hanuma flying again and again and jumping down, standing up, walking, opening doors,
 pushing doors and entering inside, coming out, climbing down, climbing up wandered all opportunity.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*18. prakaarantara radhyaashcha* = streets in the middle of fort walls; *vedikaaH*
+= platforms; *chaitya samshrayaaH* = together with the intersection of four streets; *diirghikaaH*
+= wells; *pushhkariNyashcha* = lakes; *sarvam* = all these; *avalokitam* = had been seen;
+*tena* = by him.
+
+**अनुवादः**
+
+Streets between fort walls, platforms together with the intersection of four streets, wells, lakes
+all these had been seen by him.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>
@@ -1183,22 +1183,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. atha* = there after; *maarutaatmajaH* = the son of Vaayu; *hanuman*
-= Hanuma; *avatiirya* = got down; *vimaanaat* = from Pushpaka; *upaagamat* = obtained;
-*chintaam* = thought; *shokohahatachetanaH* = with a mind overcome with grief.
-
-**अनुवादः**
-
-Thereafter the son of Vayu Hanuma got down from Pushpaka, obtained thought with a mind overcome
-with grief.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. viikshya* = seeing; *udyogam* = the effort; *vaaNarendraaNaam*
 = of the best Vanaras; *plavanam cha* = and the crossing; *saagarasya* = of ocean; *vyartham*
 = as being wasted; *anilasutaH* = Hanuma; *chintaam upaagamat* = got depression; *punaH*
@@ -1208,6 +1192,22 @@ with grief.
 
 Seeing the effort of the best Vanaras and the crossing of ocean as being wasted, Hanuma got depression
 again.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. atha* = there after; *maarutaatmajaH* = the son of Vaayu; *hanuman*
+= Hanuma; *avatiirya* = got down; *vimaanaat* = from Pushpaka; *upaagamat* = obtained;
+*chintaam* = thought; *shokohahatachetanaH* = with a mind overcome with grief.
+
+**अनुवादः**
+
+Thereafter the son of Vayu Hanuma got down from Pushpaka, obtained thought with a mind overcome
+with grief.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga12/sundarasans12.htm)
 </details>

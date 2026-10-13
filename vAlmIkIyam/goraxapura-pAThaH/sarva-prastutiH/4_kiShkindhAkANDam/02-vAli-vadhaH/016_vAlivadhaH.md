@@ -313,6 +313,22 @@ _________________
 
 **पदच्छेदः**
 
+*6. saha striibhiH nivartasva* = with, [other] females, you return; *bhuuyaH katham anugacChasi*
+= again, how, you follow me; *tvayaa sauhR^idam darshitam taavat* = by you, friendliness, is
+shown - expressed, truly; *mayi bhaktiH kR^itaa* = in me, devotion, owing to.
+
+**अनुवादः**
+
+"How do you follow me again, you return with all these females, truly you have expressed your friendliness
+owing to your devotion to me. [4-16-6]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *7. aham gatvaa sugriivam prati yotsyaami* = I, on going, with Sugreeva, counter, attack - retaliate;
 *sambhramam jahi* = perplexity, do away with; *asya darpam ca vi neSyaami* = his, arrogance,
 also, I will drive out; *praaNaiH na viyokSyate* = by lives, not, [he will] be released - his
@@ -322,22 +338,6 @@ lives will not be released.
 
 "You may do away with your perplexity as I will retaliate Sugreeva on my going there only to drive him
 and his arrogance out, but without letting his lives loose. [4-16-7]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*6. saha striibhiH nivartasva* = with, [other] females, you return; *bhuuyaH katham anugacChasi*
-= again, how, you follow me; *tvayaa sauhR^idam darshitam taavat* = by you, friendliness, is
-shown - expressed, truly; *mayi bhaktiH kR^itaa* = in me, devotion, owing to.
-
-**अनुवादः**
-
-"How do you follow me again, you return with all these females, truly you have expressed your friendliness
-owing to your devotion to me. [4-16-6]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm)
 </details>

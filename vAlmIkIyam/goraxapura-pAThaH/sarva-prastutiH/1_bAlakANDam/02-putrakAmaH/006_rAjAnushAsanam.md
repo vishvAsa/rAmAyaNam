@@ -1240,25 +1240,6 @@ _________________
 
 **पदच्छेदः**
 
-*26b-c. raajaa* = king; *dasharathaH naama* = Dasharatha, named;
- *yasyaam* = in which [city]; *vasan* = while residing; *jagat*
- = world; *apaalayat* = ruled; *saa* = she that Ayodhya; *bhuuyaH*
- = further - outside also; *dve yojane* = two, yojana-s; *satyanaamaa*
- = true to its name; *prakaashate* = shines forth [well fortified.]
-
-**अनुवादः**
-
-While residing in which city King Dasharatha ruled the world that city is further
- fortified up to two more yojana-s outside city, true to its name
- a yodhya , an un-assailable one. [1-6-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *25-26a. saa purii* = that city; *bhadraiH* = class of Bhadra; *
  mandraiH* = class of Mandra; *mR^igaiH* = class of mriga; *cha eva*
  = like that; *bhadramandramR^igaiH tathaa* = a mixture of these three;
@@ -1281,6 +1262,25 @@ The *bhadra* is the elephant class for King's ride, called *bhadragaja*
  *mandra* and *mR^iga* are classes of breed tamed and used in wars
  or for the ride of other nobility. These are the essential mammals used for other
  lifting and carrying works.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26b-c. raajaa* = king; *dasharathaH naama* = Dasharatha, named;
+ *yasyaam* = in which [city]; *vasan* = while residing; *jagat*
+ = world; *apaalayat* = ruled; *saa* = she that Ayodhya; *bhuuyaH*
+ = further - outside also; *dve yojane* = two, yojana-s; *satyanaamaa*
+ = true to its name; *prakaashate* = shines forth [well fortified.]
+
+**अनुवादः**
+
+While residing in which city King Dasharatha ruled the world that city is further
+ fortified up to two more yojana-s outside city, true to its name
+ a yodhya , an un-assailable one. [1-6-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga6/balasans6.htm)
 </details>

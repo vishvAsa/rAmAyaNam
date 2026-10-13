@@ -581,32 +581,6 @@ _________________
 
 **पदच्छेदः**
 
-*12. nR^ishamsa shiila* = atrocious, in conduct; *kSudra aatman* = debased, by conscience;
-*nityam braahmaNa kaNTaka* = always, Brahmans, bothersome to; *tvat kR^ite shankitaiH*
-= by your, deeds, sceptical of; *munibhiH haviH agnau paatyate* = by sages, in Ritual-Fire, oblations
-dropped - consigned.
-
-**अनुवादः**
-
-"You are atrocious in conduct because you countervail against Veda-s, debased by conscience because
-you counteract to Vedic rituals, and you are countermanding Vedic procedures because you have always
-been bothersome to Brahmans, and those Brahmans becoming sceptical of your deeds of hindrance, they
-are hesitatingly consigning oblations into Ritual-Fire, which are to be swiftly dropped into fire to
-the chants of hymns and even on time, hence you are countervailing against Veda-s and counteracting
-to their rituals, and countermanding their procedures." Thus Rama spoke to Khara irefully. [3-30-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-दुराचारियाद निन्नन्तह पतियन्नु हॊन्दिद निन्न पत्नियरु इन्दु नीनु सत्तुहोदाग कामादि पुरुषार्थदिन्द वञ्चितरागि शोकरूपी स्थायी भाववुळ्ळ करुणरसवन्नु अनुभविस तॊडगुवरु.॥11॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11. yaasaam* = to which females [demonesses]; *iidR^ishaH tvam patiH* = this kind of
 you, [abominable one] is the husband; *anuruupa kulaaH* = well-matched to you, in befitting family
 [taken birth]; *taaH* = they the demonesses; *patnyaH* = are [befittingly deplorable]
@@ -620,6 +594,32 @@ they will become.
 grievous family like that of yours, and must be well-matched to you in grievous atrocities, and though
 they might not have tasted a grievous situation so far, since their lives have become meaningless, now
 they will become the enjoyers of the empathy of grief. [3-30-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+दुराचारियाद निन्नन्तह पतियन्नु हॊन्दिद निन्न पत्नियरु इन्दु नीनु सत्तुहोदाग कामादि पुरुषार्थदिन्द वञ्चितरागि शोकरूपी स्थायी भाववुळ्ळ करुणरसवन्नु अनुभविस तॊडगुवरु.॥11॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. nR^ishamsa shiila* = atrocious, in conduct; *kSudra aatman* = debased, by conscience;
+*nityam braahmaNa kaNTaka* = always, Brahmans, bothersome to; *tvat kR^ite shankitaiH*
+= by your, deeds, sceptical of; *munibhiH haviH agnau paatyate* = by sages, in Ritual-Fire, oblations
+dropped - consigned.
+
+**अनुवादः**
+
+"You are atrocious in conduct because you countervail against Veda-s, debased by conscience because
+you counteract to Vedic rituals, and you are countermanding Vedic procedures because you have always
+been bothersome to Brahmans, and those Brahmans becoming sceptical of your deeds of hindrance, they
+are hesitatingly consigning oblations into Ritual-Fire, which are to be swiftly dropped into fire to
+the chants of hymns and even on time, hence you are countervailing against Veda-s and counteracting
+to their rituals, and countermanding their procedures." Thus Rama spoke to Khara irefully. [3-30-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
@@ -1474,6 +1474,24 @@ foam and forth, which are neither wet nor dry, to eliminated him.
 
 **पदच्छेदः**
 
+*29, 30a. etasmin antare* = in this, meantime; *devaaH caaraNayoH saha sangataaH* = gods,
+carana-s [celestials,] along with, on gathering; *sam hR^iSTaa* = well-pleased; *dundubhiH
+abhinighnantaH [abhi ni ghnantaH]* = drums, also, all over, well, drummed; *tadaa vismitaaH*
+= then, amazed; *raamasya upari* = on Rama, above; *samantataH* = from all over; *puSpa
+varSa vavarSuH* = flowers, rain, showered.
+
+**अनुवादः**
+
+In this meantime gods gathering along with carana-s drummed celestial drums from all over and showered
+flowers on Rama from all over. [3-30-29, 30a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *30b, 31. raameNa* = by Rama; *artha adhika muhuurtena* = in half, more, one muhurta [hour];
 *nishitaiH sharaiH* = with sharp, arrows; *mahaa mR^idhe* = in extreme, crack-down;
 *khara duuSaNa mukhyaanaam* = Khara, Duushana, chieftains; *rakshsaam* = of demons;
@@ -1485,24 +1503,6 @@ foam and forth, which are neither wet nor dry, to eliminated him.
 And those gods and other celestials in their amazement said among themselves that 'in one and half hours,
 say seventy two minutes of this extreme crack-down Rama with his sharp arrows has eradicated fourteen
 thousand guise changing demons, including their chieftains Khara and Duushana. [3-30-30b, 31]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*29, 30a. etasmin antare* = in this, meantime; *devaaH caaraNayoH saha sangataaH* = gods,
-carana-s [celestials,] along with, on gathering; *sam hR^iSTaa* = well-pleased; *dundubhiH
-abhinighnantaH [abhi ni ghnantaH]* = drums, also, all over, well, drummed; *tadaa vismitaaH*
-= then, amazed; *raamasya upari* = on Rama, above; *samantataH* = from all over; *puSpa
-varSa vavarSuH* = flowers, rain, showered.
-
-**अनुवादः**
-
-In this meantime gods gathering along with carana-s drummed celestial drums from all over and showered
-flowers on Rama from all over. [3-30-29, 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
@@ -1651,23 +1651,6 @@ the victory of Rama, then on foregathering near at Rama delightedly said this on
 
 **पदच्छेदः**
 
-*35b, 36a. shatruuNaam* = enemies; *paapa karmaNaam* = demons, evil, doers; *eSaam
-rakSasaam* = these, of demons; *vadha artham* = for eradication, purpose of; *tvam*
-= you; *maharSibhiH upaayena* = by sages, with ideation; *imam desham aaniitaH* = to this,
-countryside, you are brought.
-
-**अनुवादः**
-
-"For the purpose of eradicating these demons who are the evildoers by nature and the natural enemies
-to saintly people you are led to this countryside by the great sages with an ideation. [3-30-35b, 36a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *34b, 35a. paaka shaasanaH* = demon Paka, controller of; *mahaatejaa* = great-resplendent;
 *purandaraH* = enemy-city destroyer; *mahendraH* = Indra; *etat artham* = for this,
 purpose alone; *puNyam sharabhanga aashramam aajagaama* = meritorious, to Sharabhanga's, hermitage,
@@ -1678,6 +1661,23 @@ came to.
 "He that great-resplendent one, the controller of demon Paka, and the destroyer of enemy's cities, namely
 Indra, once came to the meritorious hermitage of Sage Sharabhanga only for the purpose such an elimination
 of demons. [3-30-34b, 35a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*35b, 36a. shatruuNaam* = enemies; *paapa karmaNaam* = demons, evil, doers; *eSaam
+rakSasaam* = these, of demons; *vadha artham* = for eradication, purpose of; *tvam*
+= you; *maharSibhiH upaayena* = by sages, with ideation; *imam desham aaniitaH* = to this,
+countryside, you are brought.
+
+**अनुवादः**
+
+"For the purpose of eradicating these demons who are the evildoers by nature and the natural enemies
+to saintly people you are led to this countryside by the great sages with an ideation. [3-30-35b, 36a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>
@@ -1880,6 +1880,22 @@ _________________
 
 **पदच्छेदः**
 
+*39b, 40a. vaidehii* = Seetha; *shatru hantaaram* = enemy, eliminator; *maharSiiNaam
+sukha aavaham* = for great-sages, rejoice, accorder; *tam bhartaaram dR^iSTvaa* = him, her
+husband, on seeing; *hR^iSTaa babhuuva* = became, rejoiced; *pariSvaje* = embraced.
+
+**अनुवादः**
+
+And Seetha on seeing her husband, the eliminator of enemies and accorder of happiness to sages, embraced
+her husband Rama, rejoicingly. [3-30-39b, 40a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *40. janaka aatmajaa* = Janaka's, daughter; *hataan rakshaH gaNaan dR^iSTvaa* = eliminated,
 demon, hordes, on seeing; *paramayaa mudaa yuktaa* = with extreme, rapture, along with; *raamam
 ca eva* = Rama, also, thus; *a vyayam dR^iSTaa* = not, scathed, on observing; *tutoSa*
@@ -1894,22 +1910,6 @@ is also scatheless, she is all-smiles for him smiling sniggeringly. [3-30-40]
 
 Any wife on seeing her husband returning from a risky journey will embrace her husband delightfully,
 and nothing special about it. But the commentators attach a great significance to this situation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*39b, 40a. vaidehii* = Seetha; *shatru hantaaram* = enemy, eliminator; *maharSiiNaam
-sukha aavaham* = for great-sages, rejoice, accorder; *tam bhartaaram dR^iSTvaa* = him, her
-husband, on seeing; *hR^iSTaa babhuuva* = became, rejoiced; *pariSvaje* = embraced.
-
-**अनुवादः**
-
-And Seetha on seeing her husband, the eliminator of enemies and accorder of happiness to sages, embraced
-her husband Rama, rejoicingly. [3-30-39b, 40a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga30/aranyasans30.htm)
 </details>

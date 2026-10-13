@@ -88,15 +88,16 @@ _________________
 
 **पदच्छेदः**
 
-*6 aavaasam iva* = It was like an abode; *gandharvaaNaam* = of
-Gandharvas; *aalayam iva* = like a palace marutaam = of Marus; *ratna samhaya
-sambaadhaam* = filled with a collection of jewels; *bhavanam iva* = resembling a house;
-*bhoginaam* = of serpents.
+*1. tataH* = thereafter; *vibhiiSaNaH* = Vibhishana; *praapta
+dharmaartha nishcayaH* = who arrived at a settlement about virtue; pleasure and wealth;
+*bhiimakarmaa* = and who was terrible in his act; *praapte* = on arrival of;
+*pratyuSasi* = the dawn; *veshma* = (entered) the palace; *raakSasaadhipateH*
+= of Ravana.
 
 **अनुवादः**
 
-The palace was like an abode of Gandharvas (celestial musicians) and of Maruts
-(strom-gods) filled with a collection of jewels resembling a house of Nagas (serpent-gods).
+Vibhishana, who always arrived at a settlement in matters of virtue, pleasure and
+wealth and who was terrible in his act, on arrival of the dawn, entered the palace of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
@@ -105,16 +106,15 @@ The palace was like an abode of Gandharvas (celestial musicians) and of Maruts
 
 **पदच्छेदः**
 
-*5 pramadaajana sambaadhaam* = filled with women-folk; *prajalpita
-mahaapatham* = with principal pasaages having spoken words; *taptakaaNcana niryuuham* =
-with turrets made of pure gold; *bhuuSaNottama bhuuSitam* = adorned with excellent
-decorations.
+*3. adhiSThitam* = It was inhabited; *mahaamatraiH* = by prime
+ministers; *matimadbhiH* = who were intelligent; *anuraktaiH* = and beloved;
+*parirakSitam* = It was guarded; *sarvataH* = on all sides; *raakSasaiH* = by
+demons; *aapta paryaaptaiH* = who were trust-worthy and efficient.
 
 **अनुवादः**
 
-The palace was filled with a number of women-folk. It was having principal passages
-in which spoken words were heard. It was having turrets made of pure gold and adorned with
-excellent decors.
+It was inhabited by prime ministers, who were intelligent and beloved. It was
+guarded on all sides by demons, who were trust worthy and efficient.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
@@ -141,15 +141,16 @@ instruments.
 
 **पदच्छेदः**
 
-*3. adhiSThitam* = It was inhabited; *mahaamatraiH* = by prime
-ministers; *matimadbhiH* = who were intelligent; *anuraktaiH* = and beloved;
-*parirakSitam* = It was guarded; *sarvataH* = on all sides; *raakSasaiH* = by
-demons; *aapta paryaaptaiH* = who were trust-worthy and efficient.
+*5 pramadaajana sambaadhaam* = filled with women-folk; *prajalpita
+mahaapatham* = with principal pasaages having spoken words; *taptakaaNcana niryuuham* =
+with turrets made of pure gold; *bhuuSaNottama bhuuSitam* = adorned with excellent
+decorations.
 
 **अनुवादः**
 
-It was inhabited by prime ministers, who were intelligent and beloved. It was
-guarded on all sides by demons, who were trust worthy and efficient.
+The palace was filled with a number of women-folk. It was having principal passages
+in which spoken words were heard. It was having turrets made of pure gold and adorned with
+excellent decors.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
@@ -157,6 +158,23 @@ guarded on all sides by demons, who were trust worthy and efficient.
 <details><summary>अनुवाद (कन्नड)</summary>
 
 मरुदिन बॆळगागुत्तले धर्म मत्तु अर्थतत्त्ववन्नु तिळिद भीमकर्मा महातेजस्वी वीर विभीषणनु तन्न अण्ण राक्षसराज रावणन अरमनॆगॆ होदनु. आ भवनवु अनेक प्रासादगळिन्द पर्वत शिखरगळ समूहगळन्तॆ शोभिसुत्तित्तु. अदर ऎत्तरवु बॆट्टद तुदियन्नु नाचिसुत्तित्तु. अदरल्लिन बेरॆ-बेरॆ कक्षॆगळन्नु सुन्दरवागि रचिसिद्दरु. अनेक श्रेष्ठपुरुषरु अल्लिगॆ बन्दु होगुत्ता इद्दरु. राजन कुरितु अनुरागवुळ्ळ बहळष्टु बुद्धिवन्त महामन्त्रिगळु अदरल्लि कुळित्तिद्दरु. विश्वासि हितैषि हागू कार्य कुशल राक्षसरु बहुसङ्ख्यॆयल्लि ऎल्लॆडॆगळिन्द आ भवनवन्नु रक्षिसुत्तिद्दरु. अल्लिय वायुवु मत्त गजगळ निःश्वासदिन्द मिश्रितवागि बिरुगाळियन्तॆ अनिसुत्तित्तु. शङ्खध्वनियन्तॆ राक्षसर गम्भीरघोषवु अल्लि निनादिसुत्तित्तु. नाना प्रकारद वाद्यगळ मनोरम शब्दवु आ भवनदल्लि प्रतिध्वनिसुत्तित्तु. रूप-यौवन मददिन्द उन्मत्तराद युवतियर गद्दलवे अल्लित्तु. अल्लिय दॊड्ड दॊड्ड राजबीदिगळु जनर वार्तालापदिन्द तुम्बि तुळुकुत्तिद्दवु. अदर बागिलुगळु काद चिन्नदिन्द रचिसिद्दरू उत्तम अलङ्कारिक वस्तुगळिन्द आ भवनवन्नु चॆन्नागि अणिगॊळिसिद्दरु. आद्दरिन्द अदु गन्धर्वर अवास मत्तु देवतॆगळ निवासस्थानदन्तॆ मनोहरवागि अनिसुत्तित्तु. रत्नराशिगळिन्द परिपूर्णवाद्दरिन्द अदु नागभवनदन्तॆ हॊळॆयुत्तित्तु. विस्तृत किरणगळुळ्ळ सूर्यनु महामेघराशियल्लि प्रवेशिसुवन्तॆ तेजस्वी विभीषणनु रावणन आ भवनदल्लि कालिरिसिदनु.॥1-7॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6 aavaasam iva* = It was like an abode; *gandharvaaNaam* = of
+Gandharvas; *aalayam iva* = like a palace marutaam = of Marus; *ratna samhaya
+sambaadhaam* = filled with a collection of jewels; *bhavanam iva* = resembling a house;
+*bhoginaam* = of serpents.
+
+**अनुवादः**
+
+The palace was like an abode of Gandharvas (celestial musicians) and of Maruts
+(strom-gods) filled with a collection of jewels resembling a house of Nagas (serpent-gods).
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -172,24 +190,6 @@ Sun; *tejovistR^ita rashmimaan* = with rays outstretched with splendour.
 
 The valiant Vibhishana with great splendour entered that mansion of his elder
 brother, Ravana, like the sun with rays outstretched with splendour entering a big cloud.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*1. tataH* = thereafter; *vibhiiSaNaH* = Vibhishana; *praapta
-dharmaartha nishcayaH* = who arrived at a settlement about virtue; pleasure and wealth;
-*bhiimakarmaa* = and who was terrible in his act; *praapte* = on arrival of;
-*pratyuSasi* = the dawn; *veshma* = (entered) the palace; *raakSasaadhipateH*
-= of Ravana.
-
-**अनुवादः**
-
-Vibhishana, who always arrived at a settlement in matters of virtue, pleasure and
-wealth and who was terrible in his act, on arrival of the dawn, entered the palace of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
@@ -427,6 +427,23 @@ _________________
 
 **पदच्छेदः**
 
+*12. mantra samnidhau* = in the presence of ministers; *vijane*
+= and in privation; *saH* = Vibhishana; *uvaacha* = spoke; *raavaNam* = to
+Ravana; *mahaatmaanam* = the powerful; *vachanam* = the words; *hetunishcitam*
+= convinced of reason; *atyartham* = and very much; *hitam* = beneficial.
+
+**अनुवादः**
+
+In the presence of ministers and in privation, Vibhishana spoke to powerful Ravana
+the words convinced of reason and which were very much beneficial.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *13. dR^iSTa lokaparaaparaH* = Vibhishana; who could behold good and
 evil things in the world; *prasaadya* = having sought the favour; *jyeSTham
 bhraataram* = from his elder (half-) brother; *saantvenaa* = by means of soothing words;
@@ -438,23 +455,6 @@ consonance with place; time and purpose.
 Vibhishana, who could discriminate between good and evil things in the world, having
 sought the favour from his eldest (half-) brother by means of soothing words arranged in an order,
 spoke in consonance with place, time and purpose.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*12. mantra samnidhau* = in the presence of ministers; *vijane*
-= and in privation; *saH* = Vibhishana; *uvaacha* = spoke; *raavaNam* = to
-Ravana; *mahaatmaanam* = the powerful; *vachanam* = the words; *hetunishcitam*
-= convinced of reason; *atyartham* = and very much; *hitam* = beneficial.
-
-**अनुवादः**
-
-In the presence of ministers and in privation, Vibhishana spoke to powerful Ravana
-the words convinced of reason and which were very much beneficial.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
@@ -1157,17 +1157,18 @@ _________________
 
 **पदच्छेदः**
 
-*28. na pashyaami* = I do not see; *bhayam* = fear;
-*bhayam* = fear; *kutashchidapi* = from whom so ever; *raamaH* = Rama;
-*napraapsyati* = cannot obtain; *maithiliim* = Seetha; *jaatu* = by any means;
-*katham* = how; *lakshmaNaagrajaH* = Rama; *sthaasyati* = can stand;
-*agrataH* = before me; *sangare* = in battle; *shendraiH* = even along with
-Indra; *surairapi* = together with celestials also?
+*27. prasaNgavaan* = Ravana; who had evil inclination;
+*nishamya* = heard; *tat* = those; *vaakyam* = words; *hitam* = which
+were beneficial; *mahaartam* = very well-meaning; *mR^idu* = soft;
+*hetusamhitam* = conformable to reason; *vyatiitakaalaayati sampratikSamam* = and
+suitable for the past future and the present times; *upasthitajvaraH* = got enraged;
+*abraviit* = uttered; *etat* = this; *uttaram* = reply.
 
 **अनुवादः**
 
-"I do not see any fear from whom so ever. Rama cannot obtain Seetha by any means.
-How Rama even along with Indra and the celestials can stand before me in battle?"
+Ravana, who had evil inclination, heard those words, which were beneficial very
+well-meant, soft, conformable to reason and suitable for the past future and present times, got
+enraged and uttered this reply.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>
@@ -1181,18 +1182,17 @@ How Rama even along with Indra and the celestials can stand before me in battle?
 
 **पदच्छेदः**
 
-*27. prasaNgavaan* = Ravana; who had evil inclination;
-*nishamya* = heard; *tat* = those; *vaakyam* = words; *hitam* = which
-were beneficial; *mahaartam* = very well-meaning; *mR^idu* = soft;
-*hetusamhitam* = conformable to reason; *vyatiitakaalaayati sampratikSamam* = and
-suitable for the past future and the present times; *upasthitajvaraH* = got enraged;
-*abraviit* = uttered; *etat* = this; *uttaram* = reply.
+*28. na pashyaami* = I do not see; *bhayam* = fear;
+*bhayam* = fear; *kutashchidapi* = from whom so ever; *raamaH* = Rama;
+*napraapsyati* = cannot obtain; *maithiliim* = Seetha; *jaatu* = by any means;
+*katham* = how; *lakshmaNaagrajaH* = Rama; *sthaasyati* = can stand;
+*agrataH* = before me; *sangare* = in battle; *shendraiH* = even along with
+Indra; *surairapi* = together with celestials also?
 
 **अनुवादः**
 
-Ravana, who had evil inclination, heard those words, which were beneficial very
-well-meant, soft, conformable to reason and suitable for the past future and present times, got
-enraged and uttered this reply.
+"I do not see any fear from whom so ever. Rama cannot obtain Seetha by any means.
+How Rama even along with Indra and the celestials can stand before me in battle?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhasans10.htm)
 </details>

@@ -355,47 +355,6 @@ _________________
 
 **पदच्छेदः**
 
-*11, 12. tathaa* = like that; *vangaan kalingaam ca* = , Vanga,
-Kalinga [kingdoms,] also; *sam antataH* = verily, at its fringes; available; *kaushikaan
-ca* = Kaushika [territories,] also; you search and then; *sa parvata nadii guham daNDaka
-araNyam* = with, mountains, rivers, Dandaka, forest, caves; *anviikSya* = on seeing - on
-searching Dandaka; *godaavariim nadiim caiva* = Godavari, river, also, thus;
-*tathaiva* = like that; *aandhraan ca* = Andhra territory; *puNDraan ca colaan
-paaNDyaan keralaan* = Pundra, Chola, Paandya, Kerala [provinces]; *sarvam eva* = all of
-them; *anu pashyata* = closely, see - make a through search.
-
-**अनुवादः**
-
-"Like that Vanga, Kalinga territories shall be searched along with Kaushika
-territories available on their fringes, then cast about the Dandaka forest all over its mountains,
-rivers, and its caves, then River Godavari that courses through Dandaka forest, and then the
-provinces of Andhra, Pundra, Chola, Paandya, Kerala are to be searched thoroughly. [4-41-11,
-12]
-
-**टिप्पनी**
-
-Some other mms have Matsya desha in this verse instead of the Vanga desha. The
-Vanga is the present day Bengal and this territory retained its epical name, but while pronouncing
-it becomes *banga* because the Sanskrit grammar allows to pronounce or write *va* as
-*ba* by the rule *va ba yoH abhedaH* and thus it is called Baangla or Bengal as
-British used to call. Kaushika in some other mms is read as *kaashika*. Kalinga is Orissa
-which touches Bengal at its north, and it is the *Kie-ling-kia* as said by Huet Tsang.
-
-**टिप्पनी**
-
-The Andhra is the present day Andhra Pradesh and Chola is the present Tamil
-Nadu, especially northern area, and Pundra is roughly in between Andhra and Chola. Paandya is
-south-most area where in Kanyakumari district the Cape Camorin is there, and Kerala is the present
-Kerala state from Gokarna to Kanyakumari. Its historical name was *chera raajya* and in
-Ashoka's time, it was called *kerala putra.*
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *8. sahasra shirasam* = thousands, of heads [crests]; *naanaa druma
 lataa aayutam* = numerous, trees, climbers, abounding in; *vindhyam* = Vindhya Range;
 *mahaa uraga ni Sevitaam* = great, snakes, adored by; *ramyaam narmadaam nadiim ca* =
@@ -436,6 +395,47 @@ has this as *abruvantiim bruvantimm* roughly forming part of the speech of Sugre
 and unspoken areas by me...' However, these areas are in the Southwest of India, and it appears the
 order of positing the rivers or kingdoms, one after the other is not maintained or may be
 shuffled.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*11, 12. tathaa* = like that; *vangaan kalingaam ca* = , Vanga,
+Kalinga [kingdoms,] also; *sam antataH* = verily, at its fringes; available; *kaushikaan
+ca* = Kaushika [territories,] also; you search and then; *sa parvata nadii guham daNDaka
+araNyam* = with, mountains, rivers, Dandaka, forest, caves; *anviikSya* = on seeing - on
+searching Dandaka; *godaavariim nadiim caiva* = Godavari, river, also, thus;
+*tathaiva* = like that; *aandhraan ca* = Andhra territory; *puNDraan ca colaan
+paaNDyaan keralaan* = Pundra, Chola, Paandya, Kerala [provinces]; *sarvam eva* = all of
+them; *anu pashyata* = closely, see - make a through search.
+
+**अनुवादः**
+
+"Like that Vanga, Kalinga territories shall be searched along with Kaushika
+territories available on their fringes, then cast about the Dandaka forest all over its mountains,
+rivers, and its caves, then River Godavari that courses through Dandaka forest, and then the
+provinces of Andhra, Pundra, Chola, Paandya, Kerala are to be searched thoroughly. [4-41-11,
+12]
+
+**टिप्पनी**
+
+Some other mms have Matsya desha in this verse instead of the Vanga desha. The
+Vanga is the present day Bengal and this territory retained its epical name, but while pronouncing
+it becomes *banga* because the Sanskrit grammar allows to pronounce or write *va* as
+*ba* by the rule *va ba yoH abhedaH* and thus it is called Baangla or Bengal as
+British used to call. Kaushika in some other mms is read as *kaashika*. Kalinga is Orissa
+which touches Bengal at its north, and it is the *Kie-ling-kia* as said by Huet Tsang.
+
+**टिप्पनी**
+
+The Andhra is the present day Andhra Pradesh and Chola is the present Tamil
+Nadu, especially northern area, and Pundra is roughly in between Andhra and Chola. Paandya is
+south-most area where in Kanyakumari district the Cape Camorin is there, and Kerala is the present
+Kerala state from Gokarna to Kanyakumari. Its historical name was *chera raajya* and in
+Ashoka's time, it was called *kerala putra.*
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>
@@ -1813,23 +1813,6 @@ _________________
 
 **पदच्छेदः**
 
-*41b, 42a. tat candanam dR^iSTvaa* = those, sandalwood trees, on
-seeing; *kadaacana* = never; *na spraSTavyam tu* = not, to be touched, but;
-*ghoram tat vanam* = dangerous one, that, woodlands; *rohitaa naama gandharvaa* =
-Rohita, named, [genre of] gandharva-s; *rakSanti* = will be protecting.
-
-**अनुवादः**
-
-"But never touch those sandalwood trees when you see them, as a genre of Gandharva-s
-called Rohita will be protecting that dangerous woodland of sandalwood trees. [4-41-41b, 42a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *40b, 41a. yatra* = where - on which Mt. Rishabha;
 *goshiirSakam* = ochry-yellowy; *padmakam ca* = lotus-leaf-greenly, also;
 *harishyaamam ca* = sky-blue, [coloured]; *candanam* = sandalwood trees; *agni
@@ -1850,6 +1833,23 @@ to the mountain itself in 40th verse in some, thus nominating only two varieties
 namely greenish, and bluish varieties as extra. In some other translations the Fire-like glow of
 the mountain is added as another variety of sandalwood and then four varieties are counted as 1]
 ochry, 2] greenish, 3] bluish, and 4] fire-like sandalwood trees.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*41b, 42a. tat candanam dR^iSTvaa* = those, sandalwood trees, on
+seeing; *kadaacana* = never; *na spraSTavyam tu* = not, to be touched, but;
+*ghoram tat vanam* = dangerous one, that, woodlands; *rohitaa naama gandharvaa* =
+Rohita, named, [genre of] gandharva-s; *rakSanti* = will be protecting.
+
+**अनुवादः**
+
+"But never touch those sandalwood trees when you see them, as a genre of Gandharva-s
+called Rohita will be protecting that dangerous woodland of sandalwood trees. [4-41-41b, 42a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindhasans41.htm)
 </details>

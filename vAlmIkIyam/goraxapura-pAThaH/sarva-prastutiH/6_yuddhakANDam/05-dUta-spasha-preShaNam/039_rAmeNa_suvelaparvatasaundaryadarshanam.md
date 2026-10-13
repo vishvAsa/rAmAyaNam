@@ -439,23 +439,6 @@ _________________
 
 **पदच्छेदः**
 
-13. (While); *teSaam* = those; *mahaujasaam* = mighty and
-splendid; *vaanarvaaNaam* = monkeys; *pravishataam* = were entering; *tatra* =
-there; *anilaH* = a breeze; *puSpasamsarga surabhiH* = sweet smelling due to contact
-with flowers; *ghraaNasukhaH* = delightful to the nose; *vavau* = blew.
-
-**अनुवादः**
-
-While those mighty and splendid monkeys were entering the groves a breeze with
-flowery fragrance, delightful to the nose, blew.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 10;11; *12. tataH* = then; *te* = those; *harayaH* =
 monkeys; *hR^iSTaaH* = thrilling with rapture; *pramuditaaH* = delighted;
 *viiraaH* = brave; *kaamaruupiNaH* = and assuming any shape at will;
@@ -473,6 +456,23 @@ Then, those monkeys, thrilling with rapture, delighted, brave and assuming any s
 at will, entered the aforesaid groves and gardens, with birds ever excited with joy, wandered by
 bees, with clusters of trees occupied by cuckoos, having variegated sounds of birds and song of the
 large bees, abounding with sounds of ospreys, with the music of wagtails and cries of canes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+13. (While); *teSaam* = those; *mahaujasaam* = mighty and
+splendid; *vaanarvaaNaam* = monkeys; *pravishataam* = were entering; *tatra* =
+there; *anilaH* = a breeze; *puSpasamsarga surabhiH* = sweet smelling due to contact
+with flowers; *ghraaNasukhaH* = delightful to the nose; *vavau* = blew.
+
+**अनुवादः**
+
+While those mighty and splendid monkeys were entering the groves a breeze with
+flowery fragrance, delightful to the nose, blew.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga39/yuddhasans39.htm)
 </details>

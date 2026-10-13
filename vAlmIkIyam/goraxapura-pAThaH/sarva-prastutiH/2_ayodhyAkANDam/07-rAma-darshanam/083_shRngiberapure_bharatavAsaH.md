@@ -632,24 +632,6 @@ _________________
 
 **पदच्छेदः**
 
-*16. sahasrashaH* = thousands; *braahmaNaaH* = of Brahmanas;
-*samaahitaaH* = well-composed; *vR^itta sammataaH* = renowned for their virtuous
-conduct; *veda vidaH* = versed in sacred scriptures; *yaantam* = riding;
-*gorathaiH* = on bullock-carts; *anujagmuH* = accompanied; *bharatam* =
-Bharata.
-
-**अनुवादः**
-
-Thousands of Brahmanas, well-composed, renowned for their virtuous conduct, versed
-in sacred scriptures and riding on bullock-carts, accompanied Bharata.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 12; 13; 14; *15. ye* = which; *kechit* = some;
 *maNikaaraaH* = lapidaries; *shobhanaaH* = good; *kumbhakaaraashcha* =
 potters; *ye* = which; *shastropajiivanaH* = those who lived by manufacture of arms;
@@ -676,6 +658,24 @@ perfumery, highly reputed goldsmiths, weavers of blankets and other wollen goods
 provided hot-water baths for other, physicians, distillers and vendors of spirituous liquors,
 fumigators, washer-men, tailors, chiefs of villages and hamlets, dancers with their women-folk and
 fishermen started on the journey.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. sahasrashaH* = thousands; *braahmaNaaH* = of Brahmanas;
+*samaahitaaH* = well-composed; *vR^itta sammataaH* = renowned for their virtuous
+conduct; *veda vidaH* = versed in sacred scriptures; *yaantam* = riding;
+*gorathaiH* = on bullock-carts; *anujagmuH* = accompanied; *bharatam* =
+Bharata.
+
+**अनुवादः**
+
+Thousands of Brahmanas, well-composed, renowned for their virtuous conduct, versed
+in sacred scriptures and riding on bullock-carts, accompanied Bharata.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga83/ayodhyasans83.htm)
 </details>

@@ -284,6 +284,23 @@ while the gods in Brahma's convoy went to Indra's Heaven. [1-57-6, 7a]
 
 **पदच्छेदः**
 
+*7b, 8a. vishvaamitraH api tat shrutvaa* = Vishvamitra, even on hearing that;
+*hriyaa kincit avaa~NmukhaH* = down faced by disgrace; *mahataa duHkhena
+aaviSTaH* = prevailing over with high anguish; *samanyuH idam abraviit*
+= spoke [soliloquised] this with rancour.
+
+**अनुवादः**
+
+On hearing that Vishvamitra is down-faced with disgrace, and while high anguish
+prevailed over him, he rancorously soliloquised this. [1-57-7b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *8b, 9a. sumahat tapaH taptam* = practised [even though] very high ascesis;
 *maam raajarSiH iti* = thus me as kingly sage; *sarSigaNaaH
 sarve devaaH* = with hermits' observances, all, gods; *viduH* = are
@@ -295,23 +312,6 @@ there.
 'Even though I have practised a very high ascesis, the gods together with the
 observances of hermits are recognising me just as a 'kingly-sage.' Thereby I deem
 that there is no fruition to my ascesis.' Thus Vishvamitra thought. [8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*7b, 8a. vishvaamitraH api tat shrutvaa* = Vishvamitra, even on hearing that;
-*hriyaa kincit avaa~NmukhaH* = down faced by disgrace; *mahataa duHkhena
-aaviSTaH* = prevailing over with high anguish; *samanyuH idam abraviit*
-= spoke [soliloquised] this with rancour.
-
-**अनुवादः**
-
-On hearing that Vishvamitra is down-faced with disgrace, and while high anguish
-prevailed over him, he rancorously soliloquised this. [1-57-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>
@@ -732,6 +732,24 @@ _________________
 
 **पदच्छेदः**
 
+*18b, 19. mahaayaGYam yaSTukaamaH* = I long to perform a great [unusual] ritual
+; *tat* = therefore; *anuGYaatum arhatha* = apt of you to give assent
+; *aham guruputraan sarvaan* = I am to all mentor's sons;
+*namaskR^itya prasaadaye* = I am proposing on making reverence.
+
+**अनुवादः**
+
+I am longing to perform an unusual ritual and it will be apt of you to give assent
+to it. Reverencing all of the sons of my mentor Vashishta I am proposing this to
+you. [1-57-18b, 19]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *19b, 20. shirasaa praNataH* = I salute with head - I truckle to reverence;
 *tapasi sthitaan braahmaNaan* = Brahmans abiding in ascesis; *yaace*
 = I beg of you; *te* = such as you are; *bhavantaH* = you all; *
@@ -745,24 +763,6 @@ sashariiraH* = I, with my body; *yathaa* = as to how; *devalokam*
 With reverence I truckle before you all Brahmans who are abiding in ascesis.
 Such as you are I beg you to assiduously get a ritual performed through me, as to
 how I can get to heaven with my body. [1-57-19b, 20]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*18b, 19. mahaayaGYam yaSTukaamaH* = I long to perform a great [unusual] ritual
-; *tat* = therefore; *anuGYaatum arhatha* = apt of you to give assent
-; *aham guruputraan sarvaan* = I am to all mentor's sons;
-*namaskR^itya prasaadaye* = I am proposing on making reverence.
-
-**अनुवादः**
-
-I am longing to perform an unusual ritual and it will be apt of you to give assent
-to it. Reverencing all of the sons of my mentor Vashishta I am proposing this to
-you. [1-57-18b, 19]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga57/balasans57.htm)
 </details>

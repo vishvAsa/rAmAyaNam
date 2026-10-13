@@ -105,25 +105,6 @@ Kumbhakarna, adorned with a diadem.
 
 **पदच्छेदः**
 
-*3. dR^iSTvaa* = beolding; (him); *punaH* = again;
-*satoyaambuda samkaasham* = who was appearing like a rainy black cloud; *kaaNchanaaN^gada
-bhuuSaNam* = wearing a golden bracelet as an ornament on his upper arm; *mahaa chamuuH*
-= that large army; *vaanaraaNaam* = of monkeys; *pradudraava* = took to their heels
-speadily.
-
-**अनुवादः**
-
-Beholding him again, who was appear like a rainy black cloud and wearing a golden
-bracelet as an ornament on his upper arm, that huge army of monkeys took to their heels in full
-speed.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2. dR^iSTvaa* = seeing; *tam raakSasashreSTham* = that
 paramount demon; *parvataakaara darshanam* = whose appearance was in the form of a mountain;
 *prabhum naaraayaNam yathaa* = looking like Lord Narayana (the son of the original Man);
@@ -137,6 +118,25 @@ Seeing that paramount demon, whose appearance was in the form of a mountain and
 looking like Lord Narayana (the son of the original Man); taking strides across space, (manifested
 in the form of Trivikrama, who measured the whole universe in a couple of strides) Rama became
 vigilant.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. dR^iSTvaa* = beolding; (him); *punaH* = again;
+*satoyaambuda samkaasham* = who was appearing like a rainy black cloud; *kaaNchanaaN^gada
+bhuuSaNam* = wearing a golden bracelet as an ornament on his upper arm; *mahaa chamuuH*
+= that large army; *vaanaraaNaam* = of monkeys; *pradudraava* = took to their heels
+speadily.
+
+**अनुवादः**
+
+Beholding him again, who was appear like a rainy black cloud and wearing a golden
+bracelet as an ornament on his upper arm, that huge army of monkeys took to their heels in full
+speed.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhasans61.htm)
 </details>

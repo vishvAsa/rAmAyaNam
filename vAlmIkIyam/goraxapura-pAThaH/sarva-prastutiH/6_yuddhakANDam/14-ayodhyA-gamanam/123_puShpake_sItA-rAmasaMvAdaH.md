@@ -1181,23 +1181,6 @@ _________________
 
 **पदच्छेदः**
 
-*28. mahaabala* = O the mighty; *sugreeva* = Sugreeva;
-*plavagaadhipa* = the king of monkeys; *tathaa* = and; *tvam api abhitvarasva*
-= you too hasten to depart; *sarvaabhiH striibhiH saha* = taking the wives of all the
-monkeys; *gachchhaamaH* = we shall proceed.
-
-**अनुवादः**
-
-"O the mighty Sugreeva, the King of monkeys! You too hasten to depart, taking the
-wives of all the monkeys "we shall proceed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *27. vaanara shaarduula* = O the foremost of the monkeys!;
 *bruuhi* = tell; *sarvaan* = all; *vaanarapungavaan* = the monkey-chiefs;
 *sarve* = "All of you"; *yantu* = come; *ayodhyaam* = to Ayodhya;
@@ -1207,6 +1190,23 @@ wives of all the monkeys "we shall proceed."
 
 "O the king of monkeys! Instruct all the monkey-chiefs to come to Ayodhya in the
 company of their wives."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*28. mahaabala* = O the mighty; *sugreeva* = Sugreeva;
+*plavagaadhipa* = the king of monkeys; *tathaa* = and; *tvam api abhitvarasva*
+= you too hasten to depart; *sarvaabhiH striibhiH saha* = taking the wives of all the
+monkeys; *gachchhaamaH* = we shall proceed.
+
+**अनुवादः**
+
+"O the mighty Sugreeva, the King of monkeys! You too hasten to depart, taking the
+wives of all the monkeys "we shall proceed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
@@ -1296,23 +1296,6 @@ _________________
 
 **पदच्छेदः**
 
-*32. tvam* = you; *tvara* = hurry up; *gachchhaama* = we
-shall proceed; *gR^ihya* = by taking; *vaanarayoShitaH* = the wives of the monkeys;
-*darshayiShyaamaH* = we shall show; *ayodhyaam* = Ayodhya; *saraaH* = and all;
-*dasharathastriyaH* = the widows of Dasaratha.
-
-**अनुवादः**
-
-"You hurry up, to proceed to Ayodhya, with the wives of the monkeys. We shall show
-Ayodhya and all the widows of Dasaratha to them."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *31. priya* = O the beloved lady!; *tvam* = you;
 *abhyanujJNaataa* = have been permitted; *raaghaveNa* = by Rama; 9to proceed to
 Ayodhya); *naariibhiH saha* = in the company of the wives; *mahaatmaanam
@@ -1323,6 +1306,23 @@ to gratify Seetha.
 
 "O the beloved lady! You have been permitted by Rama to proceed to Ayodhya, in the
 company of the wives of the great-souled monkeys, with an intent to gratify Seetha."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. tvam* = you; *tvara* = hurry up; *gachchhaama* = we
+shall proceed; *gR^ihya* = by taking; *vaanarayoShitaH* = the wives of the monkeys;
+*darshayiShyaamaH* = we shall show; *ayodhyaam* = Ayodhya; *saraaH* = and all;
+*dasharathastriyaH* = the widows of Dasaratha.
+
+**अनुवादः**
+
+"You hurry up, to proceed to Ayodhya, with the wives of the monkeys. We shall show
+Ayodhya and all the widows of Dasaratha to them."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
@@ -1402,6 +1402,23 @@ spouses of the monkeys and spoke to them as follows:
 
 **पदच्छेदः**
 
+*34. anujJNaataaH* = duly permitted; *sugriiveNa* = by Sugreeva;
+*sarvaiH vaanaraishcha* = and all the monkeys; *gantum* = hurry up to proceed (to
+Ayodhya); *priyam kaaryam* = a kindly act; *mama chaapi* = will be done to me too;
+*ayodhyaadarshanena* = through the sight of Ayodhya (which is so dear to me)."
+
+**अनुवादः**
+
+"Duly permitted by Sugreeva and all the monkeys, hurry up to proceed to Ayodhya. A
+kindly act will be done to me too, through the sight of Ayodhya (which is so dear to me)."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *35. (we shall also see) praveshamchaiva* = the entry;
 *raamasya* = of Rama; (into Ayodhya); *paurajaanapadaiH saha* = along with the people
 of that City as well as the inhabitants of the country-side; *vibhuuti chaiva* = as also the
@@ -1412,23 +1429,6 @@ affluence; *dasharathasya striiNaam* = of the widows of Dasaratha.
 "We shall also see the entry of Rama into Ayodhya, along with the people of that
 city as well as the inhabitants of the country-side, as also the affluence of the widows of
 Dasaratha."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*34. anujJNaataaH* = duly permitted; *sugriiveNa* = by Sugreeva;
-*sarvaiH vaanaraishcha* = and all the monkeys; *gantum* = hurry up to proceed (to
-Ayodhya); *priyam kaaryam* = a kindly act; *mama chaapi* = will be done to me too;
-*ayodhyaadarshanena* = through the sight of Ayodhya (which is so dear to me)."
-
-**अनुवादः**
-
-"Duly permitted by Sugreeva and all the monkeys, hurry up to proceed to Ayodhya. A
-kindly act will be done to me too, through the sight of Ayodhya (which is so dear to me)."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>
@@ -2228,23 +2228,6 @@ _________________
 
 **पदच्छेदः**
 
-*55. siite* = O Seetha!; *eShaa dR^ishyate* = here is seen;
-*saa raajadhaanii* = that Capital-City'; *mama pituH* = of my father;
-*vaidehi* = O the princess of Videha territory!; *punaH aagataaH* = having duly
-returned; *kuru praNaamam* = offer your salutation; *ayodhyaam* = to Ayodhya.
-
-**अनुवादः**
-
-"O Seetha! Here is seen that Capital City of my father. O the princess of Videha
-territory! Having duly returned, offer your salutation to Ayodhya."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *54. etat* = here is; *shR^iN^ga bherapura cha* = the town of
 Shringabheripura; *yatra* = where; *guha* = Guha; *mamasakhaa* = my friend;
 (stays); *eShaa* = here is; *dR^ishyate* = seen; *saa* = that;
@@ -2257,6 +2240,23 @@ by Ikshvaku dynasty); *naanaatarushataakiirNaa* = bordered with hundreds of tree
 "Here is the town of Shringaberapura, where Guha my friend stays. Here is seen that
 river, Sarayu, lined with rows of sacrificial posts (the relics of sacrifices performed from time
 to time by Ikshvaku dynasty), bordered with hundreds of trees and with groves in full blossom."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*55. siite* = O Seetha!; *eShaa dR^ishyate* = here is seen;
+*saa raajadhaanii* = that Capital-City'; *mama pituH* = of my father;
+*vaidehi* = O the princess of Videha territory!; *punaH aagataaH* = having duly
+returned; *kuru praNaamam* = offer your salutation; *ayodhyaam* = to Ayodhya.
+
+**अनुवादः**
+
+"O Seetha! Here is seen that Capital City of my father. O the princess of Videha
+territory! Having duly returned, offer your salutation to Ayodhya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga123/yuddhasans123.htm)
 </details>

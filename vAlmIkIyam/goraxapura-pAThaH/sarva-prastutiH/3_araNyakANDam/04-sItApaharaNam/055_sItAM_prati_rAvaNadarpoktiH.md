@@ -1389,6 +1389,23 @@ ellipted: 'offered...' *saha= ekadaiva* 'at least once...' *sevasva* 'accept the
 
 **पदच्छेदः**
 
+*29b, 30a. sushroNi* = oh, well-waisted one; *me bhraatuH vaishravaNasya* = my, of brother,
+Vaishravana [Kubera's]; *puSpakam naama* = Pushpaka, known as; *suurya sankaasham vimaanam*
+= sun, similar in shine, aircraft; *tarasaa [mayaa] nirjitam raNe* = by might, [by me,] notched
+up, in war.
+
+**अनुवादः**
+
+"Oh, well-waisted lady, just by my might I notched up an aircraft known as Pushpaka from my brother
+Kubera in a war with him, which is similar sun in its shine. [3-55-29b. 30a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *30b, 31a. siite* = oh, Seetha; *manaH javam* = intuition, at speed of; *tat vimaanam*
 = that, aircraft; *ramaNiiyam ca* = exhilarating, also; *vishaalam ca* = expansive, also;
 *tatra* = in that; *mayaa saardham* = me, along with; *yathaa sukham viharasva*
@@ -1405,23 +1422,6 @@ dhvani/innuendo: 'That aircraft *maya - samarpite - iti sheSaH* when I dedicated
 to you...' *sa artham= sarva sampadbhiH* 'with all other riches, besides this aircraft... *
 viharasva* 'you enjoy...' 'Apart from this aircraft, I denounce all the riches I gained in you...
 you enjoy the fruits of my action and release me...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*29b, 30a. sushroNi* = oh, well-waisted one; *me bhraatuH vaishravaNasya* = my, of brother,
-Vaishravana [Kubera's]; *puSpakam naama* = Pushpaka, known as; *suurya sankaasham vimaanam*
-= sun, similar in shine, aircraft; *tarasaa [mayaa] nirjitam raNe* = by might, [by me,] notched
-up, in war.
-
-**अनुवादः**
-
-"Oh, well-waisted lady, just by my might I notched up an aircraft known as Pushpaka from my brother
-Kubera in a war with him, which is similar sun in its shine. [3-55-29b. 30a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga55/aranyasans55.htm)
 </details>

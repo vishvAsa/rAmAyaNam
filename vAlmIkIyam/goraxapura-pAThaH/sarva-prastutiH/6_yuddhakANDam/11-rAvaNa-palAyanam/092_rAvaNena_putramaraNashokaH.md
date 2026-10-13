@@ -2089,23 +2089,6 @@ _________________
 
 **पदच्छेदः**
 
-*47. janakaatmajaa* = Seetha; *vyathitaa* = was perturbed;
-*nishaamya* = in seeing; *tam* = him; *sanistrimsham* = bearing a sword;
-*anivartanam* = and who was not going back; *nivaaryamaaNam* = eventhough being kept
-back bahushaH = in many ways; *suhR^idbhiH* = by his friends.
-
-**अनुवादः**
-
-Seetha was perturbed in seeing him, bearing sword and who was not going back
-eventhough being kept back in many ways by his friends.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *46. aninditaa* = the faultless; *maithilii tu* = Seetha for her
 part; *rakShyamaaNaa* = who was being guarded; *raakShasiibhiH* = by female demons;
 *dadarsha* = saw; *krudham* = the enraged; *raakShasam* = Ravana;
@@ -2115,6 +2098,23 @@ part; *rakShyamaaNaa* = who was being guarded; *raakShasiibhiH* = by female demo
 
 The faultless Seetha for her part, who was being guarded by female demons, saw the
 enraged Ravana who was bearing an excellent sword.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*47. janakaatmajaa* = Seetha; *vyathitaa* = was perturbed;
+*nishaamya* = in seeing; *tam* = him; *sanistrimsham* = bearing a sword;
+*anivartanam* = and who was not going back; *nivaaryamaaNam* = eventhough being kept
+back bahushaH = in many ways; *suhR^idbhiH* = by his friends.
+
+**अनुवादः**
+
+Seetha was perturbed in seeing him, bearing sword and who was not going back
+eventhough being kept back in many ways by his friends.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
@@ -2343,6 +2343,24 @@ the foremost of men, today in battle, because of me."
 
 **पदच्छेदः**
 
+*53. iha* = here; *bhairavaH* = a terrific; *mahaan* =
+great; *naadaH* = sound; *babhuunaam raakShasaanaam* = of many demons; *(shrutaH
+hi* = has indeed been heard; *mayaa* = by me); *hR^iShTaanaam* = who were merry;
+*tathaa* = and; *vikroshataam* = roaring; *priyam* = about a pleasant
+thing.
+
+**अनुवादः**
+
+"Here, I just heard a terrific great noise of a multitude of demons, who have been
+jubilant and roaring about a pleasant happening."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *54. aho* = alas; *dhik* = woe is me; *ayam vinaashaH* =
 if that destruction; *raajaputrayoH* = of the two princes; *mannimittaH* = was
 brought about because of me; *athavaa* = otherwise; *raudraH* = the terrific;
@@ -2356,24 +2374,6 @@ death.
 "Alas! Woe is me, if that destruction of the two princes was brought about because
 of me. Otherwise, the terrific demon of a sinful resolve, having not been able to kill Rama and
 Lakshmana, is going to kill, me, because of the grief over his son's death."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*53. iha* = here; *bhairavaH* = a terrific; *mahaan* =
-great; *naadaH* = sound; *babhuunaam raakShasaanaam* = of many demons; *(shrutaH
-hi* = has indeed been heard; *mayaa* = by me); *hR^iShTaanaam* = who were merry;
-*tathaa* = and; *vikroshataam* = roaring; *priyam* = about a pleasant
-thing.
-
-**अनुवादः**
-
-"Here, I just heard a terrific great noise of a multitude of demons, who have been
-jubilant and roaring about a pleasant happening."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>
@@ -2652,6 +2652,23 @@ _________________
 
 **पदच्छेदः**
 
+*60. dhik astu* = woe be; *kubjaam* = to the hunch-back;
+*asatiim* = and unfaithful; *mantharaam* = Manthara; *paapanishchayaam* = of
+sinful resolve; *yannimittam* = on whose consequence; *kausalyaa* = Kausalya;
+*pratipadyate* = will obtain; *imam shokam* = this grief.
+
+**अनुवादः**
+
+"Woe be to the unfaithful hunch-back Manthara, of sinful resolve, on whose
+consequence, Kausalya will get this grief."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 61; *62. dR^iShTvaa* = seeing; *mailthiliim* = Seetha;
 *ityevam* = thus; *vilapantiim* = weeping; *tapasviniim* = miserably;
 *rohiNiim iva* = like Rohini (the deity presiding over a constellation of this name);
@@ -2669,23 +2686,6 @@ a constellation of this name), fallen under the sway of the planet Mars, when aw
 (her husband), a minister called Suparshva, a good-natured, upright and highly intelligent demon,
 even though restrained by other ministers, spoke the following words Ravana, the foremost of
 demons:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*60. dhik astu* = woe be; *kubjaam* = to the hunch-back;
-*asatiim* = and unfaithful; *mantharaam* = Manthara; *paapanishchayaam* = of
-sinful resolve; *yannimittam* = on whose consequence; *kausalyaa* = Kausalya;
-*pratipadyate* = will obtain; *imam shokam* = this grief.
-
-**अनुवादः**
-
-"Woe be to the unfaithful hunch-back Manthara, of sinful resolve, on whose
-consequence, Kausalya will get this grief."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga92/yuddhasans92.htm)
 </details>

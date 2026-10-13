@@ -169,23 +169,6 @@ dreadful to the world, I was scaring the forest living sages, there and there...
 
 **पदच्छेदः**
 
-*4b, 5a. prekSya* = on seeing [me]; *ghora shaapa abhidhaayinaa* = deadly, curse, enforcer
-of; *tena aham evam uktaH* = by him, I am, this way, said - cursed; *te* = to you; *
-nR^ishansam* = diabolic; *vi garhitam* = verily, despicable; *etat* = this; *ruupam
-eva astu* = [present] form, alone, will be [you will abide in.]
-
-**अनुवादः**
-
-"On seeing me that sage who is an enforcer of deadly curse cursed me in this way, 'that which is presently
-diabolic and despicable form of yours, hereinafter you will abide in this form alone...' [3-71-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *3b, 4a. tataH* = then - on one day; *vividham vanyam sancinvan* = divers, forest produce,
 on who is collecting; *sthuulashiraa naama maharSiH* = Sthuulashariira, named, great sage;
 *anena ruupeNa dharSitaH* = by this, [ugly] form, [by me] scared; and; *mayaa kopitaH*
@@ -195,6 +178,23 @@ on who is collecting; *sthuulashiraa naama maharSiH* = Sthuulashariira, named, g
 
 "On one day, when a great sage named Sthuulashira was collecting divers forest produce for his Vedic-ritual,
 I scared him with this ugly form and I even exasperated him... [3-71-3b, 4a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4b, 5a. prekSya* = on seeing [me]; *ghora shaapa abhidhaayinaa* = deadly, curse, enforcer
+of; *tena aham evam uktaH* = by him, I am, this way, said - cursed; *te* = to you; *
+nR^ishansam* = diabolic; *vi garhitam* = verily, despicable; *etat* = this; *ruupam
+eva astu* = [present] form, alone, will be [you will abide in.]
+
+**अनुवादः**
+
+"On seeing me that sage who is an enforcer of deadly curse cursed me in this way, 'that which is presently
+diabolic and despicable form of yours, hereinafter you will abide in this form alone...' [3-71-4b, 5a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
@@ -295,6 +295,23 @@ me... [3-71-5b, 6a]
 
 **पदच्छेदः**
 
+*6b-7a. raamaH* = Rama; *bhujau Chittvaa* = shoulders, on chopping off; *tvaam yadaa
+vijane vane dahet* = you, when, in uninhibited, forest, incinerates; *tadaa* = then; *
+tvam* = you; *svam eva* = your own, only; *vipulam shubham ruupam praapsyase* = grand,
+auspicious form, will be regained
+
+**अनुवादः**
+
+" 'When Rama incinerates you in an uninhibited forest on chopping off your shoulders, then you will
+regain your own grand and auspicious form...' So said the sage to me... [3-71-6b, 7a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *7b, 8a. lakSmaNa* = oh, Lakshmana; *danoH* = of Danu; *shriyaa viraajitam* = with
 splendidness, who shone forth - most handsome; *putram* = as the son of - Danu; *tvam viddhi*
 = you, know thus; *indra kopaat* = Indra, by ire of; *raNa aajire* = in battle, field;
@@ -310,23 +327,6 @@ me owing the ire of Indra in battlefield... [3-71-7b, 8a]
 The cause of curse is said so far and now the effect is narrated, and
 *tiivrataratapaHpratyaahitapitaamahavaralabhaashastravadhyabhaavadarpitena
 mayaa raNe vikramya pradharShita shakraH* - so says dk about it.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*6b-7a. raamaH* = Rama; *bhujau Chittvaa* = shoulders, on chopping off; *tvaam yadaa
-vijane vane dahet* = you, when, in uninhibited, forest, incinerates; *tadaa* = then; *
-tvam* = you; *svam eva* = your own, only; *vipulam shubham ruupam praapsyase* = grand,
-auspicious form, will be regained
-
-**अनुवादः**
-
-" 'When Rama incinerates you in an uninhibited forest on chopping off your shoulders, then you will
-regain your own grand and auspicious form...' So said the sage to me... [3-71-6b, 7a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
@@ -379,22 +379,6 @@ _________________
 
 **पदच्छेदः**
 
-*9b, 10a. mayaa diirgham aayuH praaptam* = by me, long, life, acquired; *shakraH me kim kariSyati*
-= Indra, to me, what, can do; *iti evam* = thus, that kind of; *buddhim aasthaaya* = certitude,
-relying upon; *raNe shakram adharSayam* = in a bout, with Indra, I jousted with.
-
-**अनुवादः**
-
-" 'When longevity is acquired by me what Indra can do to me...' thus relying upon that kind of certitude,
-I jousted with Indra in a bout... [3-71-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *8b, 9a. aham ugreNa tapasaa* = I have, by ascesis, severe; *pitaamaham atoSayam* = Grandparent
 Brahma, gladdened; *saH me* = he, to me; *diirgham aayuH praadaat* = long, life, granted;
 *tataH maam vibhramaH aspR^ishat* = then, to me, headstrongness [a kind of recalcitrance,] touched
@@ -404,6 +388,22 @@ off [in my mind.]
 
 "I have gladdened Grandparent Braham with severe ascesis and He granted longevity to me, and then a
 kind of recalcitrance touched off in my mind... [3-71-8b, 9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9b, 10a. mayaa diirgham aayuH praaptam* = by me, long, life, acquired; *shakraH me kim kariSyati*
+= Indra, to me, what, can do; *iti evam* = thus, that kind of; *buddhim aasthaaya* = certitude,
+relying upon; *raNe shakram adharSayam* = in a bout, with Indra, I jousted with.
+
+**अनुवादः**
+
+" 'When longevity is acquired by me what Indra can do to me...' thus relying upon that kind of certitude,
+I jousted with Indra in a bout... [3-71-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>
@@ -1005,6 +1005,22 @@ _________________
 
 **पदच्छेदः**
 
+*21b, 22a. janasthaanaat* = from Janasthaana; *saha bhraatraa* = with, brother; *niSkraantasya*
+= one who exited - when I exited; *mama bhaaryaa yashasvinii siitaa* = my, wife, illustrious,
+Seetha; *raavaNena yathaa sukham hR^itaa* = by Ravana, as per, convenience [conveniently,] stolen.
+
+**अनुवादः**
+
+"Ravana conveniently stole my illustrious wife when myself and my brother exited from Janasthaana...
+[3-71-21b, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *22b, 23a. tasya rakSasaH* = that, of demon; *naama maatram tu jaanaami* = name, only,
 but, I know; *ruupam na* = [his] form, not - I don't know; *tasya* = his; *nivaasam
 vaa* = residence [stronghold,] either; *prabhaavam vaa* = staying power, or; *vayam na
@@ -1026,22 +1042,6 @@ to Kabandha is unclear so far, and in order to put his case straight Rama has to
 over again. The same is the case with Sugreeva. He blatantly lies to Rama that he does not know Ravana,
 in Kishkindha Kanda. And if insisted Sugreeva, or to that matter of fact Seetha, both are ready with
 their self-assertive dialogue: *kaH na aparaadhyati* 'who errs not...'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*21b, 22a. janasthaanaat* = from Janasthaana; *saha bhraatraa* = with, brother; *niSkraantasya*
-= one who exited - when I exited; *mama bhaaryaa yashasvinii siitaa* = my, wife, illustrious,
-Seetha; *raavaNena yathaa sukham hR^itaa* = by Ravana, as per, convenience [conveniently,] stolen.
-
-**अनुवादः**
-
-"Ravana conveniently stole my illustrious wife when myself and my brother exited from Janasthaana...
-[3-71-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga71/aranyasans71.htm)
 </details>

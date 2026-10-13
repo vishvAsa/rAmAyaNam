@@ -2483,25 +2483,6 @@ shower of arrows.
 
 **पदच्छेदः**
 
-*46. tataH* = then; *mahaatmaa* = the high-souled; *saH
-raamaH* = Rama; *dhanuSmaan* = the skillful archer; *aadaaya* = taking;
-*dhanuH* = his bow; *jagaama* = set ou; *sahasaa* = at once;
-*lakSmaNaH* = Lakshmana; *abhyupetya* = approaching; *tam* = him;
-*praaJNaliH* = with joined palms; *uvaacha* = spoke; *vaakyam* = (the
-following) words; *paramaarthayuktam* = which were very meaningful.
-
-**अनुवादः**
-
-Then the high-souled Rama the skilful archer, taking his bow, set out at once.
-Lakshmana, however, approaching him with joined palms, spoke very meaningful words follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *45. vadhyamaanaH* = assailed; *patitaaH* = and fallen down;
 *te shaakhaamR^igaaH* = those monkeys; *viiraaH* = the warriors;
 *naandyamaanaaH* = emitted cries; *bhaya shalya viddhaaH* = as though struck by an
@@ -2514,6 +2495,25 @@ arrow of terror; *raavaNa saaya kaartaaH* = whom Ravana was destroying with his 
 Assailed and fallen down, those monkey-warriors, emitted cries as though struck by
 an arrow of terror, whom Ravana was destroying with his darts and fled for refuge to Rama who is
 capable of affording protection to all.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*46. tataH* = then; *mahaatmaa* = the high-souled; *saH
+raamaH* = Rama; *dhanuSmaan* = the skillful archer; *aadaaya* = taking;
+*dhanuH* = his bow; *jagaama* = set ou; *sahasaa* = at once;
+*lakSmaNaH* = Lakshmana; *abhyupetya* = approaching; *tam* = him;
+*praaJNaliH* = with joined palms; *uvaacha* = spoke; *vaakyam* = (the
+following) words; *paramaarthayuktam* = which were very meaningful.
+
+**अनुवादः**
+
+Then the high-souled Rama the skilful archer, taking his bow, set out at once.
+Lakshmana, however, approaching him with joined palms, spoke very meaningful words follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
@@ -4010,23 +4010,6 @@ Chuta trees and other various types of trees.
 
 **पदच्छेदः**
 
-*79. abhivR^iSTaH* = showered (thus); *sharaugheNa* = by a
-multitude of arrows; *meheneva* = as from a cloud; *mahaabalaH* = the mighty Nila;
-*tataH* = then; *kR^itvaa* = made; *ruupam* = his form; *hrasvam* =
-short; *nipapaata* = and jumped on; *dhvajaagre* = to the top of the standard.
-
-**अनुवादः**
-
-Showered by a multitude of shafts, as from a cloud, the mighty Nila assumed a
-diminutive form and leapt on to the point of Ravana's standard.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *78. saH raavaNaH* = that Ravana; *prati samaasaadya* =
 confronting; *taan* = those; *vR^ikSaan* = trees; *chichheda* = bursted them;
 *abhyavarSachcha* = and showered; *ghoreNa* = terrific; *sharavarSaNa* = hail
@@ -4036,6 +4019,23 @@ of darts; *paavakim* = on Nila the son of Fire-God.
 
 Ravana, confronting those trees, bursted them and showered a hail of dangerous darts
 on Nila the son of Fire-God.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*79. abhivR^iSTaH* = showered (thus); *sharaugheNa* = by a
+multitude of arrows; *meheneva* = as from a cloud; *mahaabalaH* = the mighty Nila;
+*tataH* = then; *kR^itvaa* = made; *ruupam* = his form; *hrasvam* =
+short; *nipapaata* = and jumped on; *dhvajaagre* = to the top of the standard.
+
+**अनुवादः**
+
+Showered by a multitude of shafts, as from a cloud, the mighty Nila assumed a
+diminutive form and leapt on to the point of Ravana's standard.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
@@ -4425,6 +4425,23 @@ combined with a supreme power of magic."
 
 **पदच्छेदः**
 
+*87. vaanara* = O; monkey!; *tvam* = you; *sR^ijasi* =
+are creating; *taani taani anekashaH* = numerous deeds of various kinds;
+*aatmaruupaaNi* = worthy of your own self; *rakSasva khalu* = Indeed save;
+*jiivitam* = your life; *asi yadi* = if you are; *shaktaH* = capable.
+
+**अनुवादः**
+
+"Do you save your life if you can, eventhogh you are creating numerous deeds of
+various kinds indeed worthy of your own self, O, monkey!"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *88. tathaapi* = even then; *saayakaH* = the arrow;
 *astraprayojitaH* = charged with a mystic missile; *mutaH* = that is about to be
 loosened; *mayaa* = by me; *bhramshayiSyati* = will severe; *tvaam* = you;
@@ -4435,23 +4452,6 @@ seek to preserve.
 
 "Even then, the arrow charged with a mystic missile I am about to loose, will severe
 you from life, which existence you seek to preserve."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*87. vaanara* = O; monkey!; *tvam* = you; *sR^ijasi* =
-are creating; *taani taani anekashaH* = numerous deeds of various kinds;
-*aatmaruupaaNi* = worthy of your own self; *rakSasva khalu* = Indeed save;
-*jiivitam* = your life; *asi yadi* = if you are; *shaktaH* = capable.
-
-**अनुवादः**
-
-"Do you save your life if you can, eventhogh you are creating numerous deeds of
-various kinds indeed worthy of your own self, O, monkey!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>
@@ -6438,24 +6438,6 @@ the demon by climbing my back, as Vishnu on Garuda in order to fight with the En
 
 **पदच्छेदः**
 
-*127. mahaatejaaH* = the mighty; *saH* = Rama; *kruddhaH*
-= became angry; *aalokya* = on seeing; *tam* = him; *pradudraava* = and
-rushed; *raavaNam* = upon Ravana; *viSNuH iva* = like unto Vishnu;
-*abhyudyataayudhaH* = with his uplifted mace; (rushed upon); *vairochanam* =
-Virochana.
-
-**अनुवादः**
-
-The mighty Rama became angry on seeing him and rushed upon that Ravana like unto
-Vishnu with his uplifted mace rushed upon Virochana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *126. shrutvaa* = hearing; *tat* = those; *vaakyam* =
 words; *bhaaSitam* = spoken; *vaayuputreNa* = by Hanuma the son of Wind-God;
 *raaghavaH* = Rama; *atha* = then; *sahasaa* = soon; *aaruroha* =
@@ -6468,6 +6450,24 @@ mounted; *mahaakapim* = the great monkey; *hanuumantam* = Hanuma;
 Hearing those words spoken by Hanuma the son of Wind-God, Rama soon after mounted
 the great monkey, Hanuma. Rama the Lord of men then saw Ravana standing in his chariot in the
 battle-field.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*127. mahaatejaaH* = the mighty; *saH* = Rama; *kruddhaH*
+= became angry; *aalokya* = on seeing; *tam* = him; *pradudraava* = and
+rushed; *raavaNam* = upon Ravana; *viSNuH iva* = like unto Vishnu;
+*abhyudyataayudhaH* = with his uplifted mace; (rushed upon); *vairochanam* =
+Virochana.
+
+**अनुवादः**
+
+The mighty Rama became angry on seeing him and rushed upon that Ravana like unto
+Vishnu with his uplifted mace rushed upon Virochana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga59/yuddhasans59.htm)
 </details>

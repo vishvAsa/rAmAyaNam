@@ -1011,6 +1011,24 @@ _________________
 
 **पदच्छेदः**
 
+*20. na shochaami* = I do not repent; *raama* = for Rama;
+*lakSmaNam cha* = or Lakshmana; *mahaaratham* = the great chariot-wariior;
+*na* = nor; *aatmaanam* = for myself; *na* = nr; *jananiim chaapi* = my
+mother even; *yathaa tathaa* = by so much; *shashruum* = as my mother-iin-law;
+*tapasviniim* = the unfortunate one.
+
+**अनुवादः**
+
+"I do not repent so much for Rama and Lakshmana or for myself or even my mother but
+for my unfortunate mother-in-law, Kausalya."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *21. saa tu* = Kausalya for her part; *nityam* = forever;
 *chintayate* = remains absorbed in the thought; *kadaa* = when; *drakSyaami* =
 shall I see; *lakSmaNamcha* = Lakshmana; *siitaamcha* = and Seetha;
@@ -1022,24 +1040,6 @@ shall I see; *lakSmaNamcha* = Lakshmana; *siitaamcha* = and Seetha;
 "Kausalya for her part, forever remains absorbed in the thought 'When shall I see
 Lakshmana and Seetha with Rama returned (to Ayodhya) having completed his vow (of remaining in
 exile in the forest for fourteen years)?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*20. na shochaami* = I do not repent; *raama* = for Rama;
-*lakSmaNam cha* = or Lakshmana; *mahaaratham* = the great chariot-wariior;
-*na* = nor; *aatmaanam* = for myself; *na* = nr; *jananiim chaapi* = my
-mother even; *yathaa tathaa* = by so much; *shashruum* = as my mother-iin-law;
-*tapasviniim* = the unfortunate one.
-
-**अनुवादः**
-
-"I do not repent so much for Rama and Lakshmana or for myself or even my mother but
-for my unfortunate mother-in-law, Kausalya."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>
@@ -1280,6 +1280,24 @@ _________________
 
 **पदच्छेदः**
 
+*26. senaa* = an army; *hata viira pradhaanaa* = that sees its
+valiant commander fall; *gatotsaahaa* = is bereft of courage; *bhramati* = and
+wanders; *nirudyamaa* = aimlessly about; *samkhyeSu* = on the battle field; *nauH
+iva* = like a ship; *hata karNaa* = which has broken its rudder; *jale* = in
+water.
+
+**अनुवादः**
+
+"An army that sees its valiant commander falll, is bereft of courage and wanders
+aimlessly about on the battle field, like a ship which has broken its rudder in water."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *27. iyam* = this; *senaa punaH* = army for its part;
 *asambhraantaa* = is neither confused; *nirudvignaa* = nr perturbed; *rakSati*
 = and is guarding; *kaakutsthsau* = the two scious of kakutstha; Rama and Lakshmana;
@@ -1291,24 +1309,6 @@ account of my affection for you; *tapasvini* = O lady given to austerities!.
 "This army for its part is neither confused nor perturbed and is guarding Rama and
 Lakshman. I am pointing this out to you on account of my affection for you, O lady given to
 austerities!"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*26. senaa* = an army; *hata viira pradhaanaa* = that sees its
-valiant commander fall; *gatotsaahaa* = is bereft of courage; *bhramati* = and
-wanders; *nirudyamaa* = aimlessly about; *samkhyeSu* = on the battle field; *nauH
-iva* = like a ship; *hata karNaa* = which has broken its rudder; *jale* = in
-water.
-
-**अनुवादः**
-
-"An army that sees its valiant commander falll, is bereft of courage and wanders
-aimlessly about on the battle field, like a ship which has broken its rudder in water."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga48/yuddhasans48.htm)
 </details>

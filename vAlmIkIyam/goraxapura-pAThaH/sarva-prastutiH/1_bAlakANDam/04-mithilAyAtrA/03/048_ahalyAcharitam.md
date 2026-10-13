@@ -1295,6 +1295,33 @@ of the cursed Thousand-eyed Indra fell down onto ground at that very moment. [1-
 
 **पदच्छेदः**
 
+*29. shakram tathaa shaptvaa* = Indra, thus, on cursing; *bhaaryaam api
+ca shaptavaan* = even, also, he cursed wife; *iha* = here; *bahuuni
+varSasahasraaNi* = many, thousands of years; *nivasiSyasi* = you will
+live - tarry on; *vaayubhakSaa niraahaaraa* = air consuming, without
+food; *bhasmashaayinii* = recumbent on ashes - dust; *tapyantii*
+= searing [contritely]; *sarvabhuutaanaam* = for all beings; *adR^ishyaa*
+= un seen; *asmin aashrame nivatsyasi* = you live in this hermitage.
+
+**अनुवादः**
+
+On cursing Indra thus the sage cursed even his wife saying, 'you shall tarry here
+for many thousands of years to come without food and consuming air alone, and unseen
+by all beings you shall live on in this hermitage while contritely recumbent in
+dust.' [1-48-29, 30]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+इन्द्रनिगॆ हीगॆ शापकॊट्टु गौतमरु तन्न पत्नियन्नू शपिसिदरु-दुराचारिणिये! नीनू इल्ले अनेक साविर वर्षगळवरॆगॆ केवल गाळियन्नु सेविसिकॊण्डु, उपवासविद्दु कष्टपडुत्ता बूदियल्लि बिद्दुकॊण्डिरु. समस्त प्राणिगळिन्द अदृश्यळागि ई आश्रमदल्लि वासिसुवॆ. दुर्धर्ष दशरथनन्दन श्रीरामनु ई घोर वनक्कॆ पदार्पण माडुवनु, आग नीनु पवित्रळागुवॆ. अवन आतिथ्य सत्कार माडुवुदरिन्द निन्न लोभ-मोह मॊदलाद दोषगळु दूरवागुवुवु. मत्तॆ नीनु सन्तोषदिन्द नन्न बळिगॆ बन्दु हिन्दिन शरीरवन्नु पडॆयुवॆ.॥29-32॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *31. dasharatha aatmajaH* = Dasharatha's, soul-born son; *durdharSaH*
 = unassailable one; *raamaH* = Rama; *yadaa* = when; *ghoram etat
 vanam* = to this sqalid forest; *aagamiSyati* = arrives; *tadaa
@@ -1307,11 +1334,6 @@ forest, for it will be henceforth rendered so along with you, then you will be p
 [1-48-31]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-इन्द्रनिगॆ हीगॆ शापकॊट्टु गौतमरु तन्न पत्नियन्नू शपिसिदरु-दुराचारिणिये! नीनू इल्ले अनेक साविर वर्षगळवरॆगॆ केवल गाळियन्नु सेविसिकॊण्डु, उपवासविद्दु कष्टपडुत्ता बूदियल्लि बिद्दुकॊण्डिरु. समस्त प्राणिगळिन्द अदृश्यळागि ई आश्रमदल्लि वासिसुवॆ. दुर्धर्ष दशरथनन्दन श्रीरामनु ई घोर वनक्कॆ पदार्पण माडुवनु, आग नीनु पवित्रळागुवॆ. अवन आतिथ्य सत्कार माडुवुदरिन्द निन्न लोभ-मोह मॊदलाद दोषगळु दूरवागुवुवु. मत्तॆ नीनु सन्तोषदिन्द नन्न बळिगॆ बन्दु हिन्दिन शरीरवन्नु पडॆयुवॆ.॥29-32॥
 </details>
 
 <details><summary>Desiraju Hanumanta Rao</summary>
@@ -1330,28 +1352,6 @@ craze; *mudaa yuktaa* = with rejoice; *mat sakaashe*
 and craze in which you lingered so far, and then you will assume your own body and
 then you can be in my proximity, rejoicingly.' Thus, Sage Gautama cursed his wife
 Ahalya. [1-48-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*29. shakram tathaa shaptvaa* = Indra, thus, on cursing; *bhaaryaam api
-ca shaptavaan* = even, also, he cursed wife; *iha* = here; *bahuuni
-varSasahasraaNi* = many, thousands of years; *nivasiSyasi* = you will
-live - tarry on; *vaayubhakSaa niraahaaraa* = air consuming, without
-food; *bhasmashaayinii* = recumbent on ashes - dust; *tapyantii*
-= searing [contritely]; *sarvabhuutaanaam* = for all beings; *adR^ishyaa*
-= un seen; *asmin aashrame nivatsyasi* = you live in this hermitage.
-
-**अनुवादः**
-
-On cursing Indra thus the sage cursed even his wife saying, 'you shall tarry here
-for many thousands of years to come without food and consuming air alone, and unseen
-by all beings you shall live on in this hermitage while contritely recumbent in
-dust.' [1-48-29, 30]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm)
 </details>

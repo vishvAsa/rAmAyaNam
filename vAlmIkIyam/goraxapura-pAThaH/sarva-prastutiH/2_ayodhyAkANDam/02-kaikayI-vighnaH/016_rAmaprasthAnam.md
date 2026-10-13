@@ -1345,24 +1345,6 @@ like moon coming out of a mighty cloud.
 
 **पदच्छेदः**
 
-*3. tatra* = there; *dadarsha* = (he)saw; *vR^iddhaan* =
-aged; *stryadhyakshhaan* = palace supervisors; *kaashhayiNaH* = with orange coloured
-clothes; *svalankR^itaan* = well-adorned themselves; *vetrapaaNiin* = having vanes in
-their hands; *susamaahitaan* = well composed; *vishhTitaan* = being posted;
-*dvaari* = in door-ways.
-
-**अनुवादः**
-
-There he saw aged palace-supervisors wearing orange coloured clothes, adorning
-themselves well, having canes in their hands, well composed and being posted at door-ways.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1;2. saH* = that sumantra; *puraaNavit* = who knew the ancient
 sacred works; *samatiitya* = passed over; *tad* = that; *janaakulam* =
 crowded; *antaHpura dvaaram* = palace entrance; *tataH* = then; *aasasaada* =
@@ -1377,6 +1359,24 @@ That Sumantra, who knew the ancient sacred works, passed over the crowded entran
 of the palace and reached the secluded inner apartment. In that area of the inner apartment, some
 youths , wearing darts and bows, were on security-duty with due vigilance and attention. They were
 all greatly devoted to the king and were wearing polished ear-rings.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. tatra* = there; *dadarsha* = (he)saw; *vR^iddhaan* =
+aged; *stryadhyakshhaan* = palace supervisors; *kaashhayiNaH* = with orange coloured
+clothes; *svalankR^itaan* = well-adorned themselves; *vetrapaaNiin* = having vanes in
+their hands; *susamaahitaan* = well composed; *vishhTitaan* = being posted;
+*dvaari* = in door-ways.
+
+**अनुवादः**
+
+There he saw aged palace-supervisors wearing orange coloured clothes, adorning
+themselves well, having canes in their hands, well composed and being posted at door-ways.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
@@ -1600,23 +1600,6 @@ swords and bows, declaring the arrival of Rama, went in front of Rama to receive
 
 **पदच्छेदः**
 
-*37. aarindamaH* = Rama; the annihilator of enemies; *yayau* =
-went; *kiiryamaNaH* = being sprinkled; *supushhponghaiH* = by stream of good flowers;
-*samantataH* = all around; *bhuushhitaabhiH striibhiH* = by well adorned women;
-*harmya vataayanasthaabhiH* = standing in porticoes of palaces.
-
-**अनुवादः**
-
-While Rama, the annihilator of enemies, was going, well-adorned women standing in
-porticoes of palaces, sprinkled flowers on him from all sides.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *36. tataH* = thereafter; *tadaa* = then; *vaaditra
 shabdaashcha* = sounds of musical instruments; *stutishabdaashcha* = sounds of praising
 hymns; *vandinaam* = of panegyrists; *simha naadaashcha* = and lion like roars;
@@ -1627,6 +1610,23 @@ the way.
 
 At that time, sounds of musical instruments, sounds of praising hymns of panagyrists
 and lion-like roars of valiant persons were heard on the way.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. aarindamaH* = Rama; the annihilator of enemies; *yayau* =
+went; *kiiryamaNaH* = being sprinkled; *supushhponghaiH* = by stream of good flowers;
+*samantataH* = all around; *bhuushhitaabhiH striibhiH* = by well adorned women;
+*harmya vataayanasthaabhiH* = standing in porticoes of palaces.
+
+**अनुवादः**
+
+While Rama, the annihilator of enemies, was going, well-adorned women standing in
+porticoes of palaces, sprinkled flowers on him from all sides.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>
@@ -1761,6 +1761,23 @@ Kausalya will be certainly delighted to see you obtaining the paternal kingdom."
 
 **पदच्छेदः**
 
+*40. taaH* = those; *naaryaH* = women; *amanyantahi* =
+thought; *siitaam* = Sita; *raamasya hR^idayapriyaam* = who is dear to Rama's heart;
+*varaam* = is better; *siimantiim* = woman; *sarvasiimantiibhyaH* = than all
+women.
+
+**अनुवादः**
+
+Those women thought that Sita, who is dear to Rama's heart, is better woman than all
+women.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *41. yaa* = which Sita; *rahiNii iva* = like Rohini star;
 *shashaaNkena* = with moon; *aapa* = has obtained; *raamasmyogam* = union with
 Rama; *tayaa devyaa* = by such Sita; *mahat* = great; *tapaH* = penance;
@@ -1771,23 +1788,6 @@ times.
 
 "As Rohini star stays together with the moon, Sita having obtained Rama as husband
 must have certainly performed a great penance in former times."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*40. taaH* = those; *naaryaH* = women; *amanyantahi* =
-thought; *siitaam* = Sita; *raamasya hR^idayapriyaam* = who is dear to Rama's heart;
-*varaam* = is better; *siimantiim* = woman; *sarvasiimantiibhyaH* = than all
-women.
-
-**अनुवादः**
-
-Those women thought that Sita, who is dear to Rama's heart, is better woman than all
-women.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga16/ayodhyasans16.htm)
 </details>

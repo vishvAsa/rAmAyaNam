@@ -404,14 +404,13 @@ _________________
 
 **पदच्छेदः**
 
-*9. tena* = by that; *tamasaa* = by darkness - [rajasaa = dust]; *duuSitaaH* = stained;
-*dishaH paryaakulaaH ca aasan* = directions, confound, also, became; *sa shaila vana kaananaa* =
-with, mountains, woods, forests; *sarvaa mahii ca* = entire, earth, also; *cacaala* = wobbled.
+*8. etasmin antare* = in this, meanwhile; *gagane* = on sky; *sahasra amshoH* = of thousand-rayed
+one [sun's]; *uSNaam tiivraam prabhaam* = scorching, intense, radiation; *Chaadayat* = covering;
+*rajaH* = dust; *sam abhivartata* = started - dust started to overcast sky.
 
 **अनुवादः**
 
-Stained with that darkness the directions are confounded, and the entire earth together with its mountains, woods,
-and forests has wobbled. [3-39-9]
+In the meanwhile dust started to overcast the sky covering the intensely scorching radiation of the sun. [3-39-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>
@@ -425,13 +424,14 @@ and forests has wobbled. [3-39-9]
 
 **पदच्छेदः**
 
-*8. etasmin antare* = in this, meanwhile; *gagane* = on sky; *sahasra amshoH* = of thousand-rayed
-one [sun's]; *uSNaam tiivraam prabhaam* = scorching, intense, radiation; *Chaadayat* = covering;
-*rajaH* = dust; *sam abhivartata* = started - dust started to overcast sky.
+*9. tena* = by that; *tamasaa* = by darkness - [rajasaa = dust]; *duuSitaaH* = stained;
+*dishaH paryaakulaaH ca aasan* = directions, confound, also, became; *sa shaila vana kaananaa* =
+with, mountains, woods, forests; *sarvaa mahii ca* = entire, earth, also; *cacaala* = wobbled.
 
 **अनुवादः**
 
-In the meanwhile dust started to overcast the sky covering the intensely scorching radiation of the sun. [3-39-8]
+Stained with that darkness the directions are confounded, and the entire earth together with its mountains, woods,
+and forests has wobbled. [3-39-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga39/kishkindhasans39.htm)
 </details>

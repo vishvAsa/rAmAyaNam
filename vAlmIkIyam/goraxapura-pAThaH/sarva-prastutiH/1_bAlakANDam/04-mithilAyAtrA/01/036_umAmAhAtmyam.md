@@ -1044,6 +1044,26 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 
 **पदच्छेदः**
 
+*21b, 22a. yasmaat* = wherefore; *putrakaamyayaa* = desirous of son
+ ; *aham samgataa nivaaritaa* = I am back moved - prevented from intimacy
+ ; *[tasmaat* = therefore]; *sveSu daareSu*
+ = in one's own, wives; *apatyam* = progeny; *na utpaadayitum
+ arhatha* = not eligible - worthy enough to bring forth, infecund
+ - you are prevented to bear children.
+
+**अनुवादः**
+
+" 'Wherefore, I who am desirous of a son had been prevented from the
+ intimacy with my husband, therefore you shall be infecund to beget progeny
+ through your own wives. [1-36-21b, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *22, 23a. adya prabhR^iti* = from now, onwards; *yuSmaakam*
  = yours; *patnayaH* = wives; *aprajaaH* = without progeny;
  *santu* = they will be - they remain; *sarvaan suraan*
@@ -1063,26 +1083,6 @@ Thus the celestials do not directly breed. They take the agency of humans
  or other mortals to bring forth their offspring as in the case of the
  monkey race, and Menaka, and as in the case of Vishvamitra giving birth
  to Shakuntala, who in her turn gave birth to Bharata, so on.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*21b, 22a. yasmaat* = wherefore; *putrakaamyayaa* = desirous of son
- ; *aham samgataa nivaaritaa* = I am back moved - prevented from intimacy
- ; *[tasmaat* = therefore]; *sveSu daareSu*
- = in one's own, wives; *apatyam* = progeny; *na utpaadayitum
- arhatha* = not eligible - worthy enough to bring forth, infecund
- - you are prevented to bear children.
-
-**अनुवादः**
-
-" 'Wherefore, I who am desirous of a son had been prevented from the
- intimacy with my husband, therefore you shall be infecund to beget progeny
- through your own wives. [1-36-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga36/balasans36.htm)
 </details>

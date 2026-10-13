@@ -482,22 +482,6 @@ _________________
 
 **पदच्छेदः**
 
-*12. shiita mangala toyaabhiH* = with cool, clean, waters; *padminiibhiH* = with lotus-lakes;
-*vedimadbhiH* = having Fire-altars; *vishaalaiH aashrama padaiH* = with extensive, hermitage,
-thresholds; *samantataH alankR^itam* = everywhere, bedecked with - seeing them he proceeded.
-
-**अनुवादः**
-
-Everywhere the coastland is bedecked with lotus-lakes containing clean and cool waters, and with extensive
-thresholds of hermitages containing Fire-altars. [3-35-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11. viiryavaan* = dauntless one; *saH* = he that Ravana; *shailam sahasrashaH*
 = mountain, in thousands; *naanaa puSpa phalaiH vR^ikSaiH* = with various, flowered, fruited,
 trees; *anu kiirNam* = interspersed; *saagara anuupam* = ocean's, costal-delta area;
@@ -507,6 +491,22 @@ trees; *anu kiirNam* = interspersed; *saagara anuupam* = ocean's, costal-delta a
 
 That dauntless Ravana forged ahead while viewing the area along the coastline which is interspersed
 with thousands of mountains and which is with variously flowered and fruited trees. [3-35-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. shiita mangala toyaabhiH* = with cool, clean, waters; *padminiibhiH* = with lotus-lakes;
+*vedimadbhiH* = having Fire-altars; *vishaalaiH aashrama padaiH* = with extensive, hermitage,
+thresholds; *samantataH alankR^itam* = everywhere, bedecked with - seeing them he proceeded.
+
+**अनुवादः**
+
+Everywhere the coastland is bedecked with lotus-lakes containing clean and cool waters, and with extensive
+thresholds of hermitages containing Fire-altars. [3-35-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
@@ -683,6 +683,23 @@ of sages meet Rama requesting protection from demons.
 
 **पदच्छेदः**
 
+*16. divya aabharaNa maalyaabhiH* = with divine, ornaments, garlands; *divya ruupaabhiH*
+= with divine, aspects; *kriiDaa rati vidhi GYaabhiH* = game of, sex, methods, experts in;
+*sahasrashaH apsarobhiH* = in thousands, by apsara-s; *aavR^itam* = pervaded with.
+
+**अनुवादः**
+
+With thousands of celestial maidens divine in their mien, namely apsara-s, who are prettified with divine
+ornaments and garlands, and who are also the experts in the methodical sex-games that seaside is pervaded.
+[3-35-16]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *17. shriimatiibhiH deva patniibhiH* = by propitious, gods, wives of; *sevitam* = [seashore]
 is adored; *amR^ita ashibhiH* = on ambrosia, thrive upon [or, who strive for]; *deva sanghaiH
 ca caritam* = gods, assemblages, frequented by; *[amR^ita arthibhiH* = for ambrosia, who
@@ -699,23 +716,6 @@ The demons did not get their share of *amR^ita *'divine elixir' therefore they c
 *amR^ita ashibhiH *'ambrosia consumers.' As such, some other mms contain this expression *
 amR^ita arthibhiH *'desirers of ambrosia...' the demons. They also frequent those coasts along with
 gods.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*16. divya aabharaNa maalyaabhiH* = with divine, ornaments, garlands; *divya ruupaabhiH*
-= with divine, aspects; *kriiDaa rati vidhi GYaabhiH* = game of, sex, methods, experts in;
-*sahasrashaH apsarobhiH* = in thousands, by apsara-s; *aavR^itam* = pervaded with.
-
-**अनुवादः**
-
-With thousands of celestial maidens divine in their mien, namely apsara-s, who are prettified with divine
-ornaments and garlands, and who are also the experts in the methodical sex-games that seaside is pervaded.
-[3-35-16]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
@@ -927,15 +927,14 @@ _________________
 
 **पदच्छेदः**
 
-*24. shailaani pra varaan caiva* = boulders, very best ones - peaking, also thus; *[sha~NkhAnAM
-prastara.n caiva* = conch shells, heaps of, also thus]; *tathaa* = like that; *pravaala
-nicayaan* = coral, reefs of; *kaancanaani raajataani ca* = golden, silvern, also - suggesting
-their ores inside; *shR^ingaaNi* = also, crests; *tathaiva ca* = like that, even.
+*22. mukhyaanaam aguruuNaam ca vanaani* = noteworthy, aloe vera plants, forests of; *upavanaani
+ca* = woodlands, also; *takkolaanaam* = of Takkola trees; *phalaanaam ca su gandhinaam*
+= with fruits of, also, aromatic ones; *jaatyaanaam* = of nutmeg trees; he saw while going.
 
 **अनुवादः**
 
-Thus, he saw the peaking boulders, like that the reefs of corals, and like that also at the mountains
-that have golden and silvern crests. [3-35-24]
+He also observed on his way the forests and woodlands containing the noteworthy aloe plants, Takkola
+trees, and the nutmeg trees that are with fruits and aromatic, as well. [3-35-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
@@ -966,6 +965,23 @@ along the seashore. [3-35-23]
 
 **पदच्छेदः**
 
+*24. shailaani pra varaan caiva* = boulders, very best ones - peaking, also thus; *[sha~NkhAnAM
+prastara.n caiva* = conch shells, heaps of, also thus]; *tathaa* = like that; *pravaala
+nicayaan* = coral, reefs of; *kaancanaani raajataani ca* = golden, silvern, also - suggesting
+their ores inside; *shR^ingaaNi* = also, crests; *tathaiva ca* = like that, even.
+
+**अनुवादः**
+
+Thus, he saw the peaking boulders, like that the reefs of corals, and like that also at the mountains
+that have golden and silvern crests. [3-35-24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *25, 26a. manoGYaani prasannaani adbhutaani prasravaaNi* = delightful, serene, marvellous, cascades;
 *[or, manoGYaani prasravaaNi* = delightful, cascades; *prasannaani adbhutaani hradaani ca*
 = serene, marvellous, lakes, also;] dhana dhaanya upapannaani = wealth, grain, endowed with; *strii
@@ -978,22 +994,6 @@ ratnaiH aavR^itaani ca* = women, gemlike, spread with, also; *hasti ashva ratha 
 On seeing the delightful, serene, and marvellous cascades, and cities that are abundant in wealth and
 agricultural produce, and abundant with gemlike womenfolk, and that are replete with elephants, horses,
 and chariots, Ravana proceeded further. [3-35-25, 26a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*22. mukhyaanaam aguruuNaam ca vanaani* = noteworthy, aloe vera plants, forests of; *upavanaani
-ca* = woodlands, also; *takkolaanaam* = of Takkola trees; *phalaanaam ca su gandhinaam*
-= with fruits of, also, aromatic ones; *jaatyaanaam* = of nutmeg trees; he saw while going.
-
-**अनुवादः**
-
-He also observed on his way the forests and woodlands containing the noteworthy aloe plants, Takkola
-trees, and the nutmeg trees that are with fruits and aromatic, as well. [3-35-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>
@@ -1315,6 +1315,24 @@ _________________
 
 **पदच्छेदः**
 
+*31b, 32a. garuDaH* = Garuda; *teSaam dayaaartham* = for their, grace's sake; *shata
+yojanaam taam bhagnam shaakhaam* = of hundred, yojana-length, that, broken, tree-branch; *tau
+ubhau gaja kacChapau ca* = those, two, elephant, tortoise also; *aadaaya* = on taking;
+*vegena [jagaama]* = quickly, [he went - to relocate the sages - verse finishes later.]
+
+**अनुवादः**
+
+For the sake of the grace of those sages Garuda took flight from that tree, grasping that broken tree-branch
+of a hundred yojana length along with those pendulous sages with his beak, and both of the elephant
+and tortoise with both of his claws. [3-35-31b, 32a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *32b, 33. dharmaaatmaa* = virtue-souled one; *pataga uttamaH* = among birds, the best
 - supreme bird Garuda; *tat aamiSam* = that, meat [of elephant and tortoise]; *eka paadena
 bhakSayitvaa* = with one, foot, having consumed; *shaakhayaa* = with tree branch; *niSaada
@@ -1341,24 +1359,6 @@ sages clinging to that tree branch bless him to be successful in his next missio
 When that tree branch is free from sages, Garuda throws it on a province of some antagonistic tribal
 community, by weight of which the whole of that tribal community is destroyed. This is one way of telling
 the myth.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*31b, 32a. garuDaH* = Garuda; *teSaam dayaaartham* = for their, grace's sake; *shata
-yojanaam taam bhagnam shaakhaam* = of hundred, yojana-length, that, broken, tree-branch; *tau
-ubhau gaja kacChapau ca* = those, two, elephant, tortoise also; *aadaaya* = on taking;
-*vegena [jagaama]* = quickly, [he went - to relocate the sages - verse finishes later.]
-
-**अनुवादः**
-
-For the sake of the grace of those sages Garuda took flight from that tree, grasping that broken tree-branch
-of a hundred yojana length along with those pendulous sages with his beak, and both of the elephant
-and tortoise with both of his claws. [3-35-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyasans35.htm)
 </details>

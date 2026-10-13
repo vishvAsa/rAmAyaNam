@@ -865,23 +865,6 @@ strength of a mere speech."
 
 **पदच्छेदः**
 
-*20. paapa* = O sinful one!; *adya* = today;
-*gR^idhragomaayuvaayasaaH* = vultures; jackals and crows; *tiikShNatuN^Dana
-khaaN^kuraaH* = with their sharp beaks and goad-like claws; *bhaviShyanti* = will be;
-*svaashitaaH* = satiated; *maamsena* = with your flesh.
-
-**अनुवादः**
-
-"O sinful one! Today, vultures jackals and crows with their sharp beaks and
-goad-like claws will be satiated with your flesh."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19. chaturdasha* = fourteen; *sahasraaNi* = thousand;
 *rakShasaam* = demons; (Khara); *yaH* = who; *tvatpitaa* = was your father;
 *trishiraaH* = Trishira; *duuShaNashchaapi* = and even Dushana; *nihataaH* =
@@ -891,6 +874,23 @@ were killed; *mayaa* = by me; *daN^Dake* = in Dandaka-forest.
 
 "I killed fourteen thousand demons along with Khara your father, Trishira and even
 Dushana in Dandaka forest."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*20. paapa* = O sinful one!; *adya* = today;
+*gR^idhragomaayuvaayasaaH* = vultures; jackals and crows; *tiikShNatuN^Dana
+khaaN^kuraaH* = with their sharp beaks and goad-like claws; *bhaviShyanti* = will be;
+*svaashitaaH* = satiated; *maamsena* = with your flesh.
+
+**अनुवादः**
+
+"O sinful one! Today, vultures jackals and crows with their sharp beaks and
+goad-like claws will be satiated with your flesh."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga79/yuddhasans79.htm)
 </details>

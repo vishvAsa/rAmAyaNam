@@ -69,23 +69,6 @@ Rama.
 
 **पदच्छेदः**
 
-*2. niviSTa maatre* = Soon after encamping; *sainye* = the army;
-*viniitavat* = in a well-behaved manner; *yathoddesham* = according to the
-guidelines; *bharataH* = Bharata; *abraviit* = spoke; *idam* = these words;
-*shatrughnam* = to Shatrughna.
-
-**अनुवादः**
-
-Soon after encamping the army in a well-behaved manner per the guidelines, Bharata
-spoke the following words to Shatrughna:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *1. saH* = that Bharata; *vibhuH* = the mighty; *varaH* =
 and the excellent; *paadavataam* = among men (those having feet); *niveshya* =
 (after) encamping; *senaam* = the army; *iyeshha* = sought; *abhigantum* = to
@@ -96,6 +79,23 @@ approach; *kaakutthsam* = Rama; *guruvartakam* = who was abiding his;
 
 After encamping the army, the mighty Bharata the excellent among men, sought to
 approach on foot, Rama who was complying with the words of his father.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*2. niviSTa maatre* = Soon after encamping; *sainye* = the army;
+*viniitavat* = in a well-behaved manner; *yathoddesham* = according to the
+guidelines; *bharataH* = Bharata; *abraviit* = spoke; *idam* = these words;
+*shatrughnam* = to Shatrughna.
+
+**अनुवादः**
+
+Soon after encamping the army in a well-behaved manner per the guidelines, Bharata
+spoke the following words to Shatrughna:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga98/ayodhyasans98.htm)
 </details>

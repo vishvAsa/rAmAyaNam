@@ -806,23 +806,6 @@ _________________
 
 **पदच्छेदः**
 
-*16. raaghava* = O Rama!; *ityeva* = because; *na shakyam*
-= it is not possible; *kartum* = to make; *astram* = the missile; *mogham* = a
-waste; *bhavaan* = you; *hinanti sma* = destroyed; *dakSinam akSi* = the right
-eye; *kaakasya* = of the cow.
-
-**अनुवादः**
-
-'O Rama! Since it is not possible to make the missile a waste, you destroyed the right
-eye of the crow."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *15. arindama* = O destroyer of enemies!; *trastaH* = frightened;
 (the crow); *aagataH* = came; *tvatsakaasham* = to your presence; *punareva* =
 once again; *vadhaarham api* = though fit to be killed; *saH kaakutthsaH* = that Rama;
@@ -835,6 +818,23 @@ the ground; *sharaNaagatam* = and who sought your protection.
 "O destroyer of enemies! Being frightened the crow came to your presence once again and
 sough your protection. Though fit to be killed, you on your part, affording shelter, in mercy to the
 crow, protected that crow which had fallen flat on the ground."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*16. raaghava* = O Rama!; *ityeva* = because; *na shakyam*
+= it is not possible; *kartum* = to make; *astram* = the missile; *mogham* = a
+waste; *bhavaan* = you; *hinanti sma* = destroyed; *dakSinam akSi* = the right
+eye; *kaakasya* = of the cow.
+
+**अनुवादः**
+
+'O Rama! Since it is not possible to make the missile a waste, you destroyed the right
+eye of the crow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
@@ -1472,23 +1472,6 @@ _________________
 
 **पदच्छेदः**
 
-*29. anindite* = O faultless one!; *tvam* = you; *arhasi*
-= ought; *daatum* = to give; *iha* = now; *abhiJNaanam* = a token of recollection;
-*yat* = which; *raamaH* = Rama; *vijaaniiyaat* = can recognize; *priiti samjananam*
-= and which can beget happiness; *tasya* = to him.
-
-**अनुवादः**
-
-" 'O faultless one! You can give now, a token of recollection, which Rama can recognize
-and which can beget happiness to him."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *28. varaarohe* = O lady with charming hips!; *hatvaa cha* = killing;
 *rondram* = the terrific; *raavaNam* = Ravana; *saha baandhavam* = together with
 his relatives; *samare* = in battle; *raaghavaH* = Rama; *nayate* = will take;
@@ -1498,6 +1481,23 @@ his relatives; *samare* = in battle; *raaghavaH* = Rama; *nayate* = will take;
 
 " 'O lady with charming hips! Killing the terrific Ravana together with his relatives
 in battle, Rama will certainly take you to his City of Ayodhya'."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*29. anindite* = O faultless one!; *tvam* = you; *arhasi*
+= ought; *daatum* = to give; *iha* = now; *abhiJNaanam* = a token of recollection;
+*yat* = which; *raamaH* = Rama; *vijaaniiyaat* = can recognize; *priiti samjananam*
+= and which can beget happiness; *tasya* = to him.
+
+**अनुवादः**
+
+" 'O faultless one! You can give now, a token of recollection, which Rama can recognize
+and which can beget happiness to him."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
@@ -1569,23 +1569,6 @@ _________________
 
 **पदच्छेदः**
 
-*31. raghuudvaha* = O Rama!; *pratigR^ihya* = taking; *divyam
-maNim* = that wonderful jewel; *tava hetoH* = for your sake; *praNamya* = and offering
-my salutation; *shirasaa* = by bowing my head; *aaryaam taam* = to that venerable Seetha;
-*aham* = I; *tvare* = was seized with a haste; *aagamane* = to come back.
-
-**अनुवादः**
-
-"O Rama! Taking that wonderful jewel for your sake from her, and offering my salutation
-by bowing my head to that venerable Seetha, I was seized with a haste to come back."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *30. mahaabala* = O mighty Rama!; *abhiviikSya* = having surveyed;
 *sarvaaH* = all; *dishaH* = the directions; *muktvaa* = and untying; *vastraat*
 = from the end of her garment; *etam uttamam maNim* = this excellent jewel; *veNudgrathitam*
@@ -1597,6 +1580,23 @@ by bowing my head to that venerable Seetha, I was seized with a haste to come ba
 "O mighty Rama! Having surveyed all the directions and having untied from the end of
 her garment, this excellent jewel which was being strung together in her hair that Seetha gave it to
 me."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*31. raghuudvaha* = O Rama!; *pratigR^ihya* = taking; *divyam
+maNim* = that wonderful jewel; *tava hetoH* = for your sake; *praNamya* = and offering
+my salutation; *shirasaa* = by bowing my head; *aaryaam taam* = to that venerable Seetha;
+*aham* = I; *tvare* = was seized with a haste; *aagamane* = to come back.
+
+**अनुवादः**
+
+"O Rama! Taking that wonderful jewel for your sake from her, and offering my salutation
+by bowing my head to that venerable Seetha, I was seized with a haste to come back."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
@@ -1650,15 +1650,15 @@ _________________
 
 **पदच्छेदः**
 
-*34. hanumaan* = O Hanuma!; *bruuyaaH* = ask; *tau ubhau raama
-lakSmaNau* = those two brothers; Rama and Lakshmana; *sugriivam cha* = Sugreeva; *saha
-amaatyam* = together with his ministers; *sarvaan* = and all others; *anaamayam* =
-about their well-being.
+*32. avekSya* = seeing; *maam* = me; *kR^ita utsaaham* = who
+was in a hurry; *gamane* = to come back; *vivardhamaanam cha* = and augmenting my body
+abundantly; *jaanaka atmajaa* = Seetha; *varavarNinii* = having a beautiful complexion;
+*uvaacha* = spoke.
 
 **अनुवादः**
 
-"O Hanuma! Inquire those two brothers Rama and Lakshmana looking like lions, Sugreeva
-together with his ministers and all others about their welfare."
+"Seeing me who was in a hurry to come back and augmenting my body abundantly, Seetha
+having a beautiful complexion spoke to me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>
@@ -1695,15 +1695,15 @@ gush of grief; (she spoke to me as follows):
 
 **पदच्छेदः**
 
-*32. avekSya* = seeing; *maam* = me; *kR^ita utsaaham* = who
-was in a hurry; *gamane* = to come back; *vivardhamaanam cha* = and augmenting my body
-abundantly; *jaanaka atmajaa* = Seetha; *varavarNinii* = having a beautiful complexion;
-*uvaacha* = spoke.
+*34. hanumaan* = O Hanuma!; *bruuyaaH* = ask; *tau ubhau raama
+lakSmaNau* = those two brothers; Rama and Lakshmana; *sugriivam cha* = Sugreeva; *saha
+amaatyam* = together with his ministers; *sarvaan* = and all others; *anaamayam* =
+about their well-being.
 
 **अनुवादः**
 
-"Seeing me who was in a hurry to come back and augmenting my body abundantly, Seetha
-having a beautiful complexion spoke to me."
+"O Hanuma! Inquire those two brothers Rama and Lakshmana looking like lions, Sugreeva
+together with his ministers and all others about their welfare."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga67/sundarasans67.htm)
 </details>

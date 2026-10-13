@@ -542,30 +542,6 @@ darkness. Sun is gloomy, wind is gloomy, and the entire nature is in oblivion of
 
 **पदच्छेदः**
 
-*12. dR^iSTvaa siitaam paraa mR^iSTaam* = on seeing, Seetha, by other [person, inappropriate
-one,] touched [appropriated]; *daNDaka araNya vaasinaH* = in Dandaka, forest, dwellers; *raavaNasya
-vi naasham ca* = Ravana's, utter, destruction [annihilation,] also; *praaptam* = bechanced;
-*buddhvaa yadR^icChayaa* = cognised, coincidentally [as a godsend.]
-
-**अनुवादः**
-
-On seeing Seetha's appropriation by an impropriate being, the dwellers in Dandaka forest cognised that
-Ravana's annihilation has chanced coincidentally. [3-52-12]
-
-**टिप्पनी**
-
-Again a poetic 'thinking' that even speechless beings can presage and prognosticate. Though they may
-not tell us directly, their body language and odd behaviour will certainly tell. The behaviour of animals
-and birds before an earthquake or a storm or any natural devastation is not an unknown phenomena. After
-all, a frog crocks before a rain.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *10b, 11. shriimaan devaH pitaamahaH* = illustrious, god, Grandparent [Brahma]; *siitaam paraa
 mR^iSTaam* = of Seetha, by other [person, inappropriate one,] touched [appropriated]; *divyena
 cakSuSaa dR^iSTvaa* = by divine [clairvoyant,] eyes, on seeing; *kaaryam kR^itam iti* = deed,
@@ -590,6 +566,30 @@ able to combat Ravana or hurl a curse at Ravana. But Ravana is no fool to abduct
 stands over looking on the spectacle. Hence, these sages said here are those that are available in the
 academy of Brahma. And the *danDaraNya vaasinaH* in the next foot are the voiceless and incommunicable
 beings in Dandaka forest.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. dR^iSTvaa siitaam paraa mR^iSTaam* = on seeing, Seetha, by other [person, inappropriate
+one,] touched [appropriated]; *daNDaka araNya vaasinaH* = in Dandaka, forest, dwellers; *raavaNasya
+vi naasham ca* = Ravana's, utter, destruction [annihilation,] also; *praaptam* = bechanced;
+*buddhvaa yadR^icChayaa* = cognised, coincidentally [as a godsend.]
+
+**अनुवादः**
+
+On seeing Seetha's appropriation by an impropriate being, the dwellers in Dandaka forest cognised that
+Ravana's annihilation has chanced coincidentally. [3-52-12]
+
+**टिप्पनी**
+
+Again a poetic 'thinking' that even speechless beings can presage and prognosticate. Though they may
+not tell us directly, their body language and odd behaviour will certainly tell. The behaviour of animals
+and birds before an earthquake or a storm or any natural devastation is not an unknown phenomena. After
+all, a frog crocks before a rain.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
@@ -999,31 +999,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. raakSasendra* = by demon's lord; *sam aadhuutam* = highly, disturbed - disconcerted;
-*shubham tat [haaTaka prabha] vadanam* = auspicious, that, [golden, in hue,] face; *raamam
-vinaa* = Rama, without; *divaa uditaH candra iva* = in daytime, arisen, moon, like; *na
-shushubhe* = not, brightened.
-
-**अनुवादः**
-
-Highly disconcerted by the king of demons that auspicious face of Seetha is unbright like the moon arisen
-in daytime with somewhat golden hue, owing to the absence of Rama. [3-52-22]
-
-**टिप्पनी**
-
-bhaava/import: One moon is enough. If there were to be two moons, it is indicative of some havoc. Now,
-a silvern moon is there and this lady with her golden-moon face may supersede that silvern moon and
-thus may cause havocs. Moon coming out when sun is still on sky will be somewhat golden in hue. She
-is un-brightened because Rama is not at her side as of now, but like a diamond that is coexistent with
-coal, Seetha is now with this coal-like Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *19, 20, 21. su lalaaTam* = one with pretty, forehead; *su kesha antam* = having prettyish,
 hair, ends [curls]; *padma garbha aabham* = lotus, pistil, in shine; *a vraNam* = without,
 boils [without pimples]; *shuklaiH* = whitish; *su vimalaiH* = verily, unblemished [spick
@@ -1044,6 +1019,31 @@ when she wept, yet it is pleasant like moon for a sight with shapely nose, prett
 and shining with golden hue in sky. Nevertheless, when she has gone in the flank of Ravana on the sky
 such an immaculate face of Seetha turned like a palish moon that has just risen bursting a bluish cloud.
 [3-52-19, 20, 21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. raakSasendra* = by demon's lord; *sam aadhuutam* = highly, disturbed - disconcerted;
+*shubham tat [haaTaka prabha] vadanam* = auspicious, that, [golden, in hue,] face; *raamam
+vinaa* = Rama, without; *divaa uditaH candra iva* = in daytime, arisen, moon, like; *na
+shushubhe* = not, brightened.
+
+**अनुवादः**
+
+Highly disconcerted by the king of demons that auspicious face of Seetha is unbright like the moon arisen
+in daytime with somewhat golden hue, owing to the absence of Rama. [3-52-22]
+
+**टिप्पनी**
+
+bhaava/import: One moon is enough. If there were to be two moons, it is indicative of some havoc. Now,
+a silvern moon is there and this lady with her golden-moon face may supersede that silvern moon and
+thus may cause havocs. Moon coming out when sun is still on sky will be somewhat golden in hue. She
+is un-brightened because Rama is not at her side as of now, but like a diamond that is coexistent with
+coal, Seetha is now with this coal-like Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>
@@ -2001,6 +2001,26 @@ _________________
 
 **पदच्छेदः**
 
+*39, 40a. yatra* = where [when]; *raamasya bhaaryaam vaidehiim* = Rama's, wife, Vaidehi
+is; *raavaNaH harati* = Ravana, is abducting; at such juncture; *dharmaH na asti* = probity,
+not, is there; *satyam kutaH* = fundamental truth [conscience,] whereby; *aarjavam na*
+= candour, no [place for, unfounded]; *a nR^i shamsataa na* = un-mercifulness [compassion,] no
+[place for, unfounded,]; *iti sarvaaNi bhuutaani gaNashaH* = thus, all of the, being, in throngs;
+*paryadevayan* = overly regretted.
+
+**अनुवादः**
+
+"When Ravana is abducting none other than the wife of Rama, then there is no probity. At such a juncture,
+how conscience can prevail? Unfounded are candour and compassion," thus the throngs of all beings overly
+regretted. [3-52-39, 40a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *40b, 41a. mR^iga potakaaH vi trastakaa* = deer, fawns, verily, frightened; *diina mukhaa*
 = with saddening, faces; *asra paata aavila iikSaNaaH* = with tears, shedding; flustered, looks;
 with such; *nayanaiH* = eyes; *ut viikSya ut viikSya* = up, seeing, up, seeing- craning
@@ -2018,26 +2038,6 @@ someday some seducer like Ravana may also lead them astray, as collapsed is the 
 candour or compassion. Hence, they are peeking out skyward repeatedly while Seetha is also looking down
 for Rama and Lakshmana, where the commonality is in the fawn-eyes filled with tears, both to the fawns
 and Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*39, 40a. yatra* = where [when]; *raamasya bhaaryaam vaidehiim* = Rama's, wife, Vaidehi
-is; *raavaNaH harati* = Ravana, is abducting; at such juncture; *dharmaH na asti* = probity,
-not, is there; *satyam kutaH* = fundamental truth [conscience,] whereby; *aarjavam na*
-= candour, no [place for, unfounded]; *a nR^i shamsataa na* = un-mercifulness [compassion,] no
-[place for, unfounded,]; *iti sarvaaNi bhuutaani gaNashaH* = thus, all of the, being, in throngs;
-*paryadevayan* = overly regretted.
-
-**अनुवादः**
-
-"When Ravana is abducting none other than the wife of Rama, then there is no probity. At such a juncture,
-how conscience can prevail? Unfounded are candour and compassion," thus the throngs of all beings overly
-regretted. [3-52-39, 40a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga52/aranyasans52.htm)
 </details>

@@ -320,23 +320,6 @@ standing nearby, as follows: -
 
 **पदच्छेदः**
 
-*9. kim* = why; *ayam* = this; *atimaatra praharshaH* =
-great rejoicing; *janasya* = of people ?; *mahiipatiH* = (Is) king Dasaratha;
-*samprahR^ishhTa* = duly pleased; *kimvaapi kaarayishyati vaa* = getting done any
-act? shamsa = tell; *me* = me.
-
-**अनुवादः**
-
-"Why are people so happy today? Is the king duly pleased with something, doing any
-great act? Tell me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. kim nu saMprayachchhati* = why Kausalya is giving away;
 *dhanam* = money; *janebhyaH* = to people; *uttamena* = most; *harsheNa
 abhisamyukta* = delightfully; *arthaparaasatii* = (though) she is badly lured of
@@ -346,6 +329,23 @@ money.
 
 "Why is Kausalya giving away money to people so delightfully today in charity,
 eventhough she is badly lured of money?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. kim* = why; *ayam* = this; *atimaatra praharshaH* =
+great rejoicing; *janasya* = of people ?; *mahiipatiH* = (Is) king Dasaratha;
+*samprahR^ishhTa* = duly pleased; *kimvaapi kaarayishyati vaa* = getting done any
+act? shamsa = tell; *me* = me.
+
+**अनुवादः**
+
+"Why are people so happy today? Is the king duly pleased with something, doing any
+great act? Tell me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
@@ -391,23 +391,6 @@ eventhough she is badly lured of money?"
 
 **पदच्छेदः**
 
-*11. svaH* = tommorow; *pushyeNa* = on the day of Pushyami star;
-*raajaa dasarathaH* = king Dasaratha; *abhishechayitaa* = is going to anoint;
-*anagham* = faultless; *raamam* = Rama; *raaghavam* = who was born in Raghu
-clan; *yauvaraajyena* = for the princely kingdom.
-
-**अनुवादः**
-
-"Tomorrow on the day of Pushyami star, king Dasaratha is going to anoint the
-fault-less Rama for the princely kingdom."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *10. dhaatrii tu* = that house maid; *vidiiryamaaNaa* =
 bursting; *harsheNa* = with joy; *atha* = thereafter; *aachachakshe* = told;
 *kubjaayai* = the hunch backed Manthara; *paramayaa mudaa* = with great gladness;
@@ -417,6 +400,23 @@ bursting; *harsheNa* = with joy; *atha* = thereafter; *aachachakshe* = told;
 
 That housemaid, bursting with joy, told Manthara in a great gladdening tone about
 the great honor to be conferred upon Rama.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. svaH* = tommorow; *pushyeNa* = on the day of Pushyami star;
+*raajaa dasarathaH* = king Dasaratha; *abhishechayitaa* = is going to anoint;
+*anagham* = faultless; *raamam* = Rama; *raaghavam* = who was born in Raghu
+clan; *yauvaraajyena* = for the princely kingdom.
+
+**अनुवादः**
+
+"Tomorrow on the day of Pushyami star, king Dasaratha is going to anoint the
+fault-less Rama for the princely kingdom."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
@@ -743,6 +743,23 @@ You appear to be very sorrowful with your worried face".
 
 **पदच्छेदः**
 
+*18. srutvaa* = after hearing; *kaikeyyaaH vachaH* = Kaikeyi's
+words; *madhuraaksharam* = with sweet words; *mantharaa tu* = Manthara;
+*vaakyavishaaradaa* = who was an expert in talking; *uvaacha* = spoke;
+*vaakyam* = these words; *krodhasamyuktaaH* = with anger.
+
+**अनुवादः**
+
+After hearing Kaikeyi's sweet words, Manthara who was an expert in talking, spoke
+with anger.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *19. saa* = that; *kubjaa* = Manthara; *tasyaaH
 hitaishhiNii* = wishing Kaikeyi's welfare; *vishhaadayantii* = making her sorrowful;
 *bheda yantii cha* = and to create hostility; *raaghavam* = with Rama;
@@ -753,23 +770,6 @@ hitaishhiNii* = wishing Kaikeyi's welfare; *vishhaadayantii* = making her sorrow
 That Manthara, who was full of cunning, feigning to be seeking Kaikeyi's welfare,
 appeared more worried, and making Kaikeyi sorrowful, spoke the following, to create hostility
 between Rama and Kaikeyi.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*18. srutvaa* = after hearing; *kaikeyyaaH vachaH* = Kaikeyi's
-words; *madhuraaksharam* = with sweet words; *mantharaa tu* = Manthara;
-*vaakyavishaaradaa* = who was an expert in talking; *uvaacha* = spoke;
-*vaakyam* = these words; *krodhasamyuktaaH* = with anger.
-
-**अनुवादः**
-
-After hearing Kaikeyi's sweet words, Manthara who was an expert in talking, spoke
-with anger.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>
@@ -1428,6 +1428,23 @@ _________________
 
 **पदच्छेदः**
 
+*33. kaikeyi* = Kaikeyi; *pramadottamaa* = the best among women;
+*datvaa* = gave; *aabharaNam* = a jewel; *tasyai kubjaayai* = to that hunch
+backed one; *dR^istvaa* = saw; *mantharaam* = Manthara; *abraviit* = spoke;
+*idam* = these words; *punaH eva* = again.
+
+**अनुवादः**
+
+Kaikeyi, the best among women, gave a jewel to Manthara and spoke to her as
+follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *34. manthare* = O; *Manthara! aakhyaasi* = you informed;
 *idam* = this; *paramam* = much; *priyam* = delightful news; *mahyam* =
 to me; *kim vaa* = what; *bhuuyaH* = additional (favour); *karomi* = can I do;
@@ -1438,23 +1455,6 @@ good (news); *me* = to me.
 
 "Oh, Manthara! You informed much gladdening news to me. What else can I do for you,
 who informed such a good news?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*33. kaikeyi* = Kaikeyi; *pramadottamaa* = the best among women;
-*datvaa* = gave; *aabharaNam* = a jewel; *tasyai kubjaayai* = to that hunch
-backed one; *dR^istvaa* = saw; *mantharaam* = Manthara; *abraviit* = spoke;
-*idam* = these words; *punaH eva* = again.
-
-**अनुवादः**
-
-Kaikeyi, the best among women, gave a jewel to Manthara and spoke to her as
-follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm)
 </details>

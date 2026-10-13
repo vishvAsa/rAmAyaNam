@@ -788,6 +788,22 @@ aspiration.' Thus Vishvamitra entreated God Shiva. [1-55-17, 18a]
 
 **पदच्छेदः**
 
+*18b. evam astu* = so, be it; *iti* = thus; *deveshaH* = God of Gods, Shiva;
+*vaakyam uktvaa* = sentence, said [on sanctifying Vishvamitra]; *tadaa gataH* = then,
+went away -disappeared.
+
+**अनुवादः**
+
+'So be it!' On sanctifying Vishvamitra and his aspiration thus, the God of Gods, Shiva disappeared.
+[1-55-18b]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 19. *mahaabalaH* = [who is already a] great-mighty one; *mahataa darpeNa yuktaH* = [now]
 conjoined with greatest conceit; such a; *vishvaamitraH* = Vishvamitra; *tadaa* = then;
 *deveshaat* = from God of Gods, Shiva; *astraaNi praapya* = on acquiring missiles;
@@ -798,22 +814,6 @@ conjoined with greatest conceit; such a; *vishvaamitraH* = Vishvamitra; *tadaa* 
 Vishvamitra who is already a mightier Kshatriya, now on acquiring missiles from the God of Gods, Shiva,
 will he not come forth paired up with mightiest conceit, and then will not his conceitedness be plethoric
 like a plethoric ocean? [1-55-19]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*18b. evam astu* = so, be it; *iti* = thus; *deveshaH* = God of Gods, Shiva;
-*vaakyam uktvaa* = sentence, said [on sanctifying Vishvamitra]; *tadaa gataH* = then,
-went away -disappeared.
-
-**अनुवादः**
-
-'So be it!' On sanctifying Vishvamitra and his aspiration thus, the God of Gods, Shiva disappeared.
-[1-55-18b]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga55/balasans55.htm)
 </details>

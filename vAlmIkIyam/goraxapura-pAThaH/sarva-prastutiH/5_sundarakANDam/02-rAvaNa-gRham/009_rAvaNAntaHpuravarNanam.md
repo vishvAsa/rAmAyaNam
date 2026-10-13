@@ -73,15 +73,15 @@ _________________
 
 **पदच्छेदः**
 
-*2. tat* = that; *bhavanam* = building;
-*raakshasendrasya* = of Ravana; *bahupraasaadashamkulam* = filled with many edifices;
-*ardhayojanavisthiirNam* = (was) half a Yojana long; *yojanam aayatam* = and one
-Yojana tall.
+*1. hanumaan* = Hanuma; *maarutaatmajaH* = the son of Vayu;
+*dadarsha* = saw; *bhavanashreshhTam* = a best building; *aayatam* = which was
+a tall one; *vipulam* = and a wide one; *madhye* = in the middle;
+*tasyaalayavarishhTasya* = of that best group of houses.
 
 **अनुवादः**
 
-That building of Ravana filled with many edifices was half a Yojana long and one
-Yojana tall.
+Hanuma, the son of Vayu, saw a best tall building and a wide one in the middle of
+that best group of houses.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -95,15 +95,15 @@ Yojana tall.
 
 **पदच्छेदः**
 
-*1. hanumaan* = Hanuma; *maarutaatmajaH* = the son of Vayu;
-*dadarsha* = saw; *bhavanashreshhTam* = a best building; *aayatam* = which was
-a tall one; *vipulam* = and a wide one; *madhye* = in the middle;
-*tasyaalayavarishhTasya* = of that best group of houses.
+*2. tat* = that; *bhavanam* = building;
+*raakshasendrasya* = of Ravana; *bahupraasaadashamkulam* = filled with many edifices;
+*ardhayojanavisthiirNam* = (was) half a Yojana long; *yojanam aayatam* = and one
+Yojana tall.
 
 **अनुवादः**
 
-Hanuma, the son of Vayu, saw a best tall building and a wide one in the middle of
-that best group of houses.
+That building of Ravana filled with many edifices was half a Yojana long and one
+Yojana tall.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -991,15 +991,16 @@ _________________
 
 **पदच्छेदः**
 
-*23. (That hall was)maNisopaanavkR^itaam* = made of stairways embedded
-with diamonds; *hemajaalavibhuushhitaam* = decorated with golden windows; *spatikaiH
-aavR^itatalaam* = with a floor embellished with crystal; *dantaantaritaruupikaam* = with
-shapes made ivory in the middle.
+*22. prasthitaH* = Hanuma started; *tataH* = thereafter;
+*tataH* = there(in that direction); *dadarsha* = and saw; *shubhaam* = in
+auspicious; *mahatiimshaalaam* = great hall; *manaH kaantaam* = close to heart;
+*raavanasya* = of Ravana; *kaantaam varastriyamiva* = like a delightfull best
+woman.
 
 **अनुवादः**
 
-That hall was made of stairways embedded with diamonds, decorated with golden
-windows, with a floor embellished with crystal, with shapes made from ivory in the middle.
+Hanuma started thereafter there (in that direction) and saw an auspicious great
+hall, close to heart of Ravana, like a delightful best woman.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -1013,16 +1014,15 @@ windows, with a floor embellished with crystal, with shapes made from ivory in t
 
 **पदच्छेदः**
 
-*22. prasthitaH* = Hanuma started; *tataH* = thereafter;
-*tataH* = there(in that direction); *dadarsha* = and saw; *shubhaam* = in
-auspicious; *mahatiimshaalaam* = great hall; *manaH kaantaam* = close to heart;
-*raavanasya* = of Ravana; *kaantaam varastriyamiva* = like a delightfull best
-woman.
+*23. (That hall was)maNisopaanavkR^itaam* = made of stairways embedded
+with diamonds; *hemajaalavibhuushhitaam* = decorated with golden windows; *spatikaiH
+aavR^itatalaam* = with a floor embellished with crystal; *dantaantaritaruupikaam* = with
+shapes made ivory in the middle.
 
 **अनुवादः**
 
-Hanuma started thereafter there (in that direction) and saw an auspicious great
-hall, close to heart of Ravana, like a delightful best woman.
+That hall was made of stairways embedded with diamonds, decorated with golden
+windows, with a floor embellished with crystal, with shapes made from ivory in the middle.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -1493,23 +1493,6 @@ _________________
 
 **पदच्छेदः**
 
-*33. amanyata* = Hanuma thought; *iti* = thus;
-*pradiipta* = (this building) shines; *diipaanaamprakaashena* = by the light of
-lamps; *raavaNasya tejasaa cha* = and the brilliance of Ravana; *bhushhNaanaam archirbhiH
-cha* = and also due to the radiance of jewellery.
-
-**अनुवादः**
-
-Hanuma thought thus : "This building shines by the light of lamps and the brilliance
-of Ravana and also due to the radiance of jewellery."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *32. dhuurtaaniva* = like gamblers; *paraajitaan* = defeated;
 *mahaadhuuraiH* = by greater gamblers; *devanena* = in gambling; *apashyat* =
 Hanuma saw; *kaaJNchanaan pradiipaan* = golden hued lamps; *pradhyaata iva* = being
@@ -1519,6 +1502,23 @@ still as though in thought.
 
 Like gamblers defeated by greater gamblers in gambling, Hanuma saw golden hued lamps
 being still, as though in thought.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. amanyata* = Hanuma thought; *iti* = thus;
+*pradiipta* = (this building) shines; *diipaanaamprakaashena* = by the light of
+lamps; *raavaNasya tejasaa cha* = and the brilliance of Ravana; *bhushhNaanaam archirbhiH
+cha* = and also due to the radiance of jewellery.
+
+**अनुवादः**
+
+Hanuma thought thus : "This building shines by the light of lamps and the brilliance
+of Ravana and also due to the radiance of jewellery."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -1635,23 +1635,6 @@ _________________
 
 **पदच्छेदः**
 
-*36. tat prasuptam* = that sleeping group of women;
-*nishabdaantarabhuushhaNam* = adorned with jewels which were not making sound;
-*viruruche* = shone; *mahat padmavanam yathaa* = like a great park of lotuses;
-*niHshebdahamsabramaram* = with calm swans and bees.
-
-**अनुवादः**
-
-That sleeping group of women, adorned with jewels which were not making sound, shone
-like a great park of lotuses with calm swans and bees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *35. tadaa* = then; *ardharaatreparivR^itte* = at the turn of
 midnight; *shushhvaapa* = (that women folk)slept; *balavat* = deeply;
 *uparatam* = resting; *raatraukriiDitvaa* = after playing during night;
@@ -1661,6 +1644,23 @@ midnight; *shushhvaapa* = (that women folk)slept; *balavat* = deeply;
 
 Then at the turn of midnight, those women slept deeply resting after playing during
 night, with a deep sleep caused by liquor.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. tat prasuptam* = that sleeping group of women;
+*nishabdaantarabhuushhaNam* = adorned with jewels which were not making sound;
+*viruruche* = shone; *mahat padmavanam yathaa* = like a great park of lotuses;
+*niHshebdahamsabramaram* = with calm swans and bees.
+
+**अनुवादः**
+
+That sleeping group of women, adorned with jewels which were not making sound, shone
+like a great park of lotuses with calm swans and bees.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -1801,23 +1801,6 @@ _________________
 
 **पदच्छेदः**
 
-*40. shriimaan* = the glorious; *mahaakapiH* = the great Hanuma;
-*amanyata* = thought; *itiiva* = thus; *upapatya* = by reason; *mene
-hi* = thought also that; *taani* = those faces; *samaani* = equal salilodbhavaiH
-= lotuses; *guNataH* = by their qualities.
-
-**अनुवादः**
-
-The glorious great Hanuma thought as above by recourse to reason. He also thought
-thus "Those faces equal lotuses by their qualities such as beauty, fragrance, and others".
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *38. tadaa* = at that time; *taasaam* = those faces;
 *babhuH* = shone; *prabudhaaniva padmaaniva bhuutvaa* = became like lotuses in
 blossom; *kshaapakshyaye* = during day time; *punaH* = and again;
@@ -1828,6 +1811,23 @@ night.
 
 At that time, those faces shone which became like lotuses in blossom during day time
 and again were like lotuses with closed petals at night.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*40. shriimaan* = the glorious; *mahaakapiH* = the great Hanuma;
+*amanyata* = thought; *itiiva* = thus; *upapatya* = by reason; *mene
+hi* = thought also that; *taani* = those faces; *samaani* = equal salilodbhavaiH
+= lotuses; *guNataH* = by their qualities.
+
+**अनुवादः**
+
+The glorious great Hanuma thought as above by recourse to reason. He also thought
+thus "Those faces equal lotuses by their qualities such as beauty, fragrance, and others".
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -2185,23 +2185,6 @@ _________________
 
 **पदच्छेदः**
 
-*48. anyaaH* = some others; *sukuNDala dharaaH* = wearing nice
-earrings; *vicchinna mR^idita srajaH* = with flower garlands that were torn and disturbed;
-*lataaH iva* = resembled creepers; *gajendra mR^iditaaH iva* = tread upon by an
-elephant; *mahaavane* = in a big forest.
-
-**अनुवादः**
-
-Some others wearing nice earrings with flower garlands that were torn and disturbed,
-resembled creepers, tread upon by an elephant in a big forest.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *45. vyaavR^ittagurupiinasrakprakiirNavarabhuushhaNaaH* = those women
 with dishevelled large thick garlands and scattered excellent jewels;
 *paanavyaayamakaaleshhu* = during the time of drinking dancing etc.;
@@ -2211,6 +2194,23 @@ with dishevelled large thick garlands and scattered excellent jewels;
 
 Those women with dishevelled large thick garlands and scattered excellent jewels
 during the time of drinking, dancing etc., were with consciousness stolen by sleep.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*48. anyaaH* = some others; *sukuNDala dharaaH* = wearing nice
+earrings; *vicchinna mR^idita srajaH* = with flower garlands that were torn and disturbed;
+*lataaH iva* = resembled creepers; *gajendra mR^iditaaH iva* = tread upon by an
+elephant; *mahaavane* = in a big forest.
+
+**अनुवादः**
+
+Some others wearing nice earrings with flower garlands that were torn and disturbed,
+resembled creepers, tread upon by an elephant in a big forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -2330,15 +2330,15 @@ _________________
 
 **पदच्छेदः**
 
-*51. taaH* = those women; *jaghanaiH* = with buttocks;
-*pulinairiva* = resembling sand dunes; *rejuH* = shone; *aapagaa iva* = like
-rivers; *hamsa kaaranDavapakshrNaaH* = filled with swans and bird called Karandas;
-*chakravaakopishobhitaaH* = and decorated by Chakravaka birds.
+*50. aparaasaaM cha* = And for some other women; *vaiDuuryaaH* =
+necklaces made with cat's eye gems; *kaadaMbaaH pakshiNaH iva* = resembled birds called
+Kadambas; *anyaasaam* = and for some others; *hemasuutraaNi* = golden chains;
+*abhavan chakravaakaaH iva* = were like Chakravaka birds.
 
 **अनुवादः**
 
-Those women with buttocks resembling sand dunes, shone like rivers filled with swans
-and birds called Karandas and decorated by Chakravaka birds.
+And of some other women, necklaces made with cat's eye gems resembled birds called
+Kadambas and for some others golden chains were like Chakravaka birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -2352,15 +2352,15 @@ and birds called Karandas and decorated by Chakravaka birds.
 
 **पदच्छेदः**
 
-*50. aparaasaaM cha* = And for some other women; *vaiDuuryaaH* =
-necklaces made with cat's eye gems; *kaadaMbaaH pakshiNaH iva* = resembled birds called
-Kadambas; *anyaasaam* = and for some others; *hemasuutraaNi* = golden chains;
-*abhavan chakravaakaaH iva* = were like Chakravaka birds.
+*51. taaH* = those women; *jaghanaiH* = with buttocks;
+*pulinairiva* = resembling sand dunes; *rejuH* = shone; *aapagaa iva* = like
+rivers; *hamsa kaaranDavapakshrNaaH* = filled with swans and bird called Karandas;
+*chakravaakopishobhitaaH* = and decorated by Chakravaka birds.
 
 **अनुवादः**
 
-And of some other women, necklaces made with cat's eye gems resembled birds called
-Kadambas and for some others golden chains were like Chakravaka birds.
+Those women with buttocks resembling sand dunes, shone like rivers filled with swans
+and birds called Karandas and decorated by Chakravaka birds.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -2650,23 +2650,6 @@ smell of liquor made of Sarkara, served Ravana.
 
 **पदच्छेदः**
 
-*58. kaashchit* = Some; *raavaNa yoshhitaH* = women of Ravana;
-*upaajighran* = smelled; *sapatniinaam* = co-wives'; *mukhaani* = faces;
-*punaH punaH* = again and again; *raavaNaanana shaNkaashcha* = imagining them to be
-face of Ravana.
-
-**अनुवादः**
-
-Some women of Ravana smelled co-wives' faces again and again imagining them to be
-face of Ravana.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *53. shubhaaH* = auspicious; *bhuushhaNa raajayaH* = lines of
 decoration; *saMstitaaH* = which were; *mR^idushhu aNgeshhu* = on smooth parts;
 *kaasaaMchit* = of some other women; *kuchaagreshhu cha* = and on nipples;
@@ -2676,6 +2659,23 @@ decoration; *saMstitaaH* = which were; *mR^idushhu aNgeshhu* = on smooth parts;
 
 Auspicious lines of decoration which were on smooth parts of some other women and on
 nipples, were like jewellery.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*58. kaashchit* = Some; *raavaNa yoshhitaH* = women of Ravana;
+*upaajighran* = smelled; *sapatniinaam* = co-wives'; *mukhaani* = faces;
+*punaH punaH* = again and again; *raavaNaanana shaNkaashcha* = imagining them to be
+face of Ravana.
+
+**अनुवादः**
+
+Some women of Ravana smelled co-wives' faces again and again imagining them to be
+face of Ravana.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -2949,6 +2949,23 @@ _________________
 
 **पदच्छेदः**
 
+*63. saa* = that; *striimaalaa* = garland of women;
+*grathitaa* = tied; *anyonyabhujasuutreNa* = with the rope of each other's shoulders;
+*shushubhe* = shone; *maaleva* = like a flower garland; *mattashhTpataa* =
+with dragon flies on it; *ghrathitaa* = tied; *suutre* = in thread.
+
+**अनुवादः**
+
+That garland of women tied with the rope of each other's shoulders shone like a
+flower garland with dragon flies on it tied in thread.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *64;65. tat striivanam* = that group of women; *raavanasya* = of
 Ravana; *anyonyamaalaagrathitam* = tied by each other as garland;
 *samsaktkusumochchhayam* = with mixed group of flowers; *vyativeshhTitasuskhandham* =
@@ -2965,23 +2982,6 @@ That group of women of Ravana, tied by each other as garland with mixed group of
 flowers, with beautiful shoulders entwined promiscuously, hair like an exalted garden with a flower
 garland tied together of creepers in bloom due to the caress of the lord of wind in the vernal in
 the month of Vaisakha, with entwined beautiful trees.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*63. saa* = that; *striimaalaa* = garland of women;
-*grathitaa* = tied; *anyonyabhujasuutreNa* = with the rope of each other's shoulders;
-*shushubhe* = shone; *maaleva* = like a flower garland; *mattashhTpataa* =
-with dragon flies on it; *ghrathitaa* = tied; *suutre* = in thread.
-
-**अनुवादः**
-
-That garland of women tied with the rope of each other's shoulders shone like a
-flower garland with dragon flies on it tied in thread.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>
@@ -3135,6 +3135,23 @@ those unmarried girls surrendered from lust to Ravana.
 
 **पदच्छेदः**
 
+*66. tadaa* = then; *na shekyaH* = it was not possible;
+*aadhaatum* = to make; *suvyaktam* = clear; *vivekaH* = the knowledge;
+*bhuushhN^gaambarasrajam* = of jewellery body parts and clothes; *taasaamyoshhitaam*
+= of those women; *vuchiteshhvapi* = even for those used (to them).
+
+**अनुवादः**
+
+Then it was not possible to make clear the knowledge of jewellery, body parts and
+clothes of those women even for those used to them.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *69. sarvaaH* = all; *taaH striyaH* = those women;
 *hR^itaaH* = have been stolen; *raavaNena* = by Ravana; *yuddhakaamena* = with
 a desire for war; *kaashchit* = some; *samadaa* = together with heat (of youth);
@@ -3145,23 +3162,6 @@ love.
 
 All those women had been stolen by Ravana with a desire for war, some together with
 heat of youth obtained Ravana being desired by god of love.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*66. tadaa* = then; *na shekyaH* = it was not possible;
-*aadhaatum* = to make; *suvyaktam* = clear; *vivekaH* = the knowledge;
-*bhuushhN^gaambarasrajam* = of jewellery body parts and clothes; *taasaamyoshhitaam*
-= of those women; *vuchiteshhvapi* = even for those used (to them).
-
-**अनुवादः**
-
-Then it was not possible to make clear the knowledge of jewellery, body parts and
-clothes of those women even for those used to them.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga9/sundarasans9.htm)
 </details>

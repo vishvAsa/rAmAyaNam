@@ -520,24 +520,6 @@ relating to kings, entered the assembly-hall of Dasaratha the Lord of Ikshvaku d
 
 **पदच्छेदः**
 
-*11. saH* = Vasistha; *sarvavedajJNaH* = who knew all the
-scriptures; *adhyaastha* = was seated; *piiTham* = in a presidential chair;
-*kaaNchanamayam* = made of gold; *sukhaastaraNa samvR^itam* = and wrapped up with a
-comfortable cushion; *anushashaasa cha* = he ordered; *duutaan* = the messengers (as
-follows)
-
-**अनुवादः**
-
-Vasista, who knew all the scriptures, then sat in a presidential chair made of gold
-and wrapped with a comfortable cushion. He ordered the messengers as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *10. dharmaatma* = the pious minded Vasishta; *sagaNaH* = along
 with his attendants; *pratyapadyata* = entered; (that assembly-hall);
 *shaatakumbhamayiim* = made of gold; *ramyaam* = lovely; *maNiratna
@@ -549,6 +531,24 @@ Sudharma the celestial assembly-hall.
 The pious minded Vasishta along with his attendants entered that lovely
 assembly-hall, made of gold and studded with gems and jewels, resembling Sudharma the celestial
 assembly-hall.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*11. saH* = Vasistha; *sarvavedajJNaH* = who knew all the
+scriptures; *adhyaastha* = was seated; *piiTham* = in a presidential chair;
+*kaaNchanamayam* = made of gold; *sukhaastaraNa samvR^itam* = and wrapped up with a
+comfortable cushion; *anushashaasa cha* = he ordered; *duutaan* = the messengers (as
+follows)
+
+**अनुवादः**
+
+Vasista, who knew all the scriptures, then sat in a presidential chair made of gold
+and wrapped with a comfortable cushion. He ordered the messengers as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>
@@ -594,25 +594,6 @@ assembly-hall.
 
 **पदच्छेदः**
 
-13. (Bring); *shatrughnam* = Shatrughna; *saraajabhR^ityam* =
-with his royal attendants; *bharatam* = Bharata; *yashasvinam* = the illustrious man;
-*yudhajitam* = Yudhajit (maternal uncle of Bharata); *sumantram cha* = Sumantra the
-charioteer; *ye janaaH* = and those people who; *hitaaH* = are royal well-wishers;
-*tatra* = there.
-
-**अनुवादः**
-
-"Bring Shatrughna with his royal attendants, the illustrious Bharata, Yudhaajit
-(Bharata's maternal uncle) Sumantra the charioteer and those people who are royal well-wishers
-there."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. aanayata* = bring; *kshipram* = quickly;
 *braahmaNaan* = Brahmanas; *ksatriyaan* = Kshatriyas; *vaishyaan* = Vaisyas;
 *amaatyaan* = ministers; *gaNavallabhaan* = troop-commanders; *avyagraaH* =
@@ -624,6 +605,25 @@ indeed to be done.
 "Quickly bring Brahmanas (a class of people having divine knowledge), Kshatriyas
 (people belonging to warrior-class), Vaisyas (agriculturists and traders), ministers and troop
 commanders coolly. There is an urgent duty indeed for us to be done.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+13. (Bring); *shatrughnam* = Shatrughna; *saraajabhR^ityam* =
+with his royal attendants; *bharatam* = Bharata; *yashasvinam* = the illustrious man;
+*yudhajitam* = Yudhajit (maternal uncle of Bharata); *sumantram cha* = Sumantra the
+charioteer; *ye janaaH* = and those people who; *hitaaH* = are royal well-wishers;
+*tatra* = there.
+
+**अनुवादः**
+
+"Bring Shatrughna with his royal attendants, the illustrious Bharata, Yudhaajit
+(Bharata's maternal uncle) Sumantra the charioteer and those people who are royal well-wishers
+there."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga81/ayodhyasans81.htm)
 </details>

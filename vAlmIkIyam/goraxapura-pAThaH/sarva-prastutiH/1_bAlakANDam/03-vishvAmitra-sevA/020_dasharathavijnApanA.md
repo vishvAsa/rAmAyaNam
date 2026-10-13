@@ -445,6 +445,23 @@ demons definitely conduct a deceitful warfare, isn't it. [1-19-7, 8a]
 
 **पदच्छेदः**
 
+*8b, 9a. raameNa* = with Rama; *viprayuktaH [vi-pra-yuktaH]* = [I am] alienated
+from; *muhuurtam api* = for a moment, even; *jiivitum na utsahe* = not inclined to live;
+*munishaarduula* = the tigerly sage; *raamam netum na arhasi* =
+unapt of you to take Rama with you.
+
+**अनुवादः**
+
+"Alienated from Rama I am disinclined to live even for a moment, oh, tigerly sage, hence taking
+Rama with you will be unjust. [1-20-8b, 9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *9b, 10a. suvrata* = oh one with best vows; *brahman* = oh Brahman; *vaa*
 = otherwise; *raaghavam netum icChasi yadi* = if you wish to take away Rama; *
 chaturangasamaayuktam* = along with four kinds of troops; *mayaa saha ca* =
@@ -458,23 +475,6 @@ him off along with me, and along with my four kinds of troops. [1-20-9b, 10a]
 **टिप्पनी**
 
 The four kinds of troops are: chariots, elephants, cavalry, and foot soldiers.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*8b, 9a. raameNa* = with Rama; *viprayuktaH [vi-pra-yuktaH]* = [I am] alienated
-from; *muhuurtam api* = for a moment, even; *jiivitum na utsahe* = not inclined to live;
-*munishaarduula* = the tigerly sage; *raamam netum na arhasi* =
-unapt of you to take Rama with you.
-
-**अनुवादः**
-
-"Alienated from Rama I am disinclined to live even for a moment, oh, tigerly sage, hence taking
-Rama with you will be unjust. [1-20-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
@@ -604,23 +604,6 @@ will be unjust of you. [1-20-11b, 12a]
 
 **पदच्छेदः**
 
-*13b, 14a. brahman* = oh Brahman; *kuuTayodhinaam* = deceitful militants;
-*teSaam rakShasaam* = in respect of those, demons; *raameNa* = by Rama; *
-maamakaiH balaiH vaa* = my own, forces, or; *mayaa vaa* = by me, or; *katham
-pratikartavyam* = how to, retaliate.
-
-**अनुवादः**
-
-"Oh, Brahman, how Rama, or my forces, or I myself have to retaliate those demons that are
-deceitful militants. [1-20-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *12b, 13a. munipungava* = oh the eminent sage; *te raakShasaaH kim viiryaaH*
 = of what fortitude are those demons; *kasya putraaH cha* = whose, sons, also; *te
 ke* = they, who; *katham pramaaNaaH* = of what, size; *ke cha etaan rakShanti*
@@ -630,6 +613,23 @@ ke* = they, who; *katham pramaaNaaH* = of what, size; *ke cha etaan rakShanti*
 
 "Oh, eminent sage, of what fortitude are those demons? Whose sons are they? Who are they?
 How is their size and shape? Also who protects all of them? [1-20-12b, 13a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13b, 14a. brahman* = oh Brahman; *kuuTayodhinaam* = deceitful militants;
+*teSaam rakShasaam* = in respect of those, demons; *raameNa* = by Rama; *
+maamakaiH balaiH vaa* = my own, forces, or; *mayaa vaa* = by me, or; *katham
+pratikartavyam* = how to, retaliate.
+
+**अनुवादः**
+
+"Oh, Brahman, how Rama, or my forces, or I myself have to retaliate those demons that are
+deceitful militants. [1-20-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
@@ -700,6 +700,30 @@ _________________
 
 **पदच्छेदः**
 
+14b, 15. *bhagavan* = oh,god; *duSTabhaavaanaam* = evil minded ones; *
+teSaam raNe katham mayaa sthaatavyam* = how to stand by me with them in war - to carry
+out; *sarvam me shamsa* = you inform all to me; *raakShasaaH viiryotsiktaaH
+hi* = demons will be delirious by audacity, isn't it; *tasya tat vachanam shrutvaa* =
+his [Dasharatha's,] on hearing that words; Vishvamitra; *abhyabhaaSata* = spoke.
+
+**अनुवादः**
+
+"Tell me all that, oh, god, how I have to carry on when warring with those evil minded demons,
+for the demons will be delirious by their audacity, isn't it..." Thus Dasharatha asked Vishvamitra
+insistently. On hearing those words Sage Vishvamitra replied this way. [1-20-14b, 15]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+दशरथन ई मातन्नु केळि विश्वामित्ररु हेळिदरु - महाराजा! महर्षि पुलस्त्यन कुलदल्लि उत्पन्ननाद रावणनॆम्ब प्रसिद्ध राक्षसनिद्दानॆ. अवनिगॆ ब्रह्मदेवरिन्द बयसिद वरप्राप्तवागिदॆ. आद्दरिन्द महा बलशालियागि, पराक्रमियाद अवनु अनेक राक्षसरिन्द कूडिकॊण्डु मूरु लोकद निवासिगळिगॆ अत्यन्त कष्ट कॊडुत्तिद्दानॆ. राक्षसराज रावणनु विश्रवामुनिय औरस पुत्रनागिद्दु, कुबेरन तम्मनागिद्दानॆ.॥15-17½॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *16, 17a. paulastyavamshaprabhavaH* = born in Pulastya dynasty; *raaavaNaH naama
 raakShasaH* = Ravana, named, demon [is there]; *mahaabalaH mahaaviiryaH* = greatly
 mighty, greatly brave; *saH* = he; *brahmaNaa dattavaraH* = given boon by Brahma
@@ -715,11 +739,6 @@ torturing the triad of worlds, contemptuously. [1-20-16, 17a]
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-दशरथन ई मातन्नु केळि विश्वामित्ररु हेळिदरु - महाराजा! महर्षि पुलस्त्यन कुलदल्लि उत्पन्ननाद रावणनॆम्ब प्रसिद्ध राक्षसनिद्दानॆ. अवनिगॆ ब्रह्मदेवरिन्द बयसिद वरप्राप्तवागिदॆ. आद्दरिन्द महा बलशालियागि, पराक्रमियाद अवनु अनेक राक्षसरिन्द कूडिकॊण्डु मूरु लोकद निवासिगळिगॆ अत्यन्त कष्ट कॊडुत्तिद्दानॆ. राक्षसराज रावणनु विश्रवामुनिय औरस पुत्रनागिद्दु, कुबेरन तम्मनागिद्दानॆ.॥15-17½॥
-</details>
-
 <details><summary>Desiraju Hanumanta Rao</summary>
 
 **पदच्छेदः**
@@ -733,25 +752,6 @@ so.
 
 "Unequivocally that chief of demons is the brother of Kubera and the son of sage Vishravasa,
 thus we hear. [1-20-17b, 18a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-14b, 15. *bhagavan* = oh,god; *duSTabhaavaanaam* = evil minded ones; *
-teSaam raNe katham mayaa sthaatavyam* = how to stand by me with them in war - to carry
-out; *sarvam me shamsa* = you inform all to me; *raakShasaaH viiryotsiktaaH
-hi* = demons will be delirious by audacity, isn't it; *tasya tat vachanam shrutvaa* =
-his [Dasharatha's,] on hearing that words; Vishvamitra; *abhyabhaaSata* = spoke.
-
-**अनुवादः**
-
-"Tell me all that, oh, god, how I have to carry on when warring with those evil minded demons,
-for the demons will be delirious by their audacity, isn't it..." Thus Dasharatha asked Vishvamitra
-insistently. On hearing those words Sage Vishvamitra replied this way. [1-20-14b, 15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga20/balasans20.htm)
 </details>

@@ -1213,23 +1213,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. tataH* = then; *gajaprepsuH* = with an intent to obtain the
-elephant; *aham* = I; *uddhR^itya* = drew out; *abhilakSya* = targeted;
-*shabdam prati* = towards that sound; *apaatayam* = and released; *sharam* =
-an arrow; *diiptam* = shining; *ashiiviSopamam* = and equal to a serpent.
-
-**अनुवादः**
-
-"With an intent to hit that elephant, I drew out a shining arrow resembling a
-serpent, targeted towards the direction sound and discharged it."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. atha* = thereafter; *andha kaare* = in darkness;
 *achakSur viSaye* = and not within the reach of the eyes; *ashrauSam* = I heard;
 *ghoSham* = the sound; *kumbhasya* = of a pitcher; *puuryataH* = being filled
@@ -1239,6 +1222,23 @@ up; *jale* = in water; *nardataH vaaraNasyeva* = like that of an elephant."
 
 "Meanwhile, in that darkness and not within the react of the eye, I heard the sound
 of a pitcher being filled up, the sound of which appeared like that of an elephant."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. tataH* = then; *gajaprepsuH* = with an intent to obtain the
+elephant; *aham* = I; *uddhR^itya* = drew out; *abhilakSya* = targeted;
+*shabdam prati* = towards that sound; *apaatayam* = and released; *sharam* =
+an arrow; *diiptam* = shining; *ashiiviSopamam* = and equal to a serpent.
+
+**अनुवादः**
+
+"With an intent to hit that elephant, I drew out a shining arrow resembling a
+serpent, targeted towards the direction sound and discharged it."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
@@ -1300,6 +1300,31 @@ of a pitcher being filled up, the sound of which appeared like that of an elepha
 
 **पदच्छेदः**
 
+26; *27. aham* = I; *anuNeham* = discharged nishitam = a sharp;
+*baaNam* = arrow; *ashiiviSopamam* = resembling a serpent; *tatra* = there;
+*uSasi* = at dawn; *praaduraasiit* = arose; *vyaktaa* = a distinct;
+*vaak* = voice; *haa haa iti* = uttering 'Ah! Ah!' vanaukasaH = of an inhabitant of
+forest; *patataH* = dropping down; *toye* = in water; *baaNaabhiihatamarmaNaH*
+= his vital part hit by the arrow.
+
+**अनुवादः**
+
+"I released a sharp arrow, resembling a serpent. There, at dawn, arose a distinct
+voice uttering 'Ah! Ah!' of a forest-inhabitant, dropping down in water after his vital part was
+hit by an arrow."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+यारु ननगॆ बाण हॊडॆदरु? नानु यारदु एनु कॆडिसिदॆ? नानादरो सर्व जीविगळिगॆ पीडॆ कॊडुव वृत्तियन्नु त्यजिसि ऋषि-जीवन नडॆसुत्तिद्दॆ. काडिनल्लिद्दु वनद फल-मूलगळिन्दले जीवन निर्वहिसुत्तिद्दॆ. नन्नन्तह निरपराधी मनुष्यनन्नु शस्त्रदिन्द एकॆ वधिसलागिदॆ? नानु वल्कल, मृग चर्मवन्नु उडुव जटाधारी तपस्वियागिद्देनॆ. नन्नन्नु वधिसि यारु तन्न लाभवन्नु योचिसिदनु? नानु कॊल्लुववन याव अपराध माडिरुवॆनु? नन्न हत्यॆय व्यर्थप्रयत्न माडिदुदागिदॆ. इदरिन्द यारिगू यावुदे लाभवागलारदु, केवल अनर्थवे पालिगॆ बन्दीतु.॥27-29॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *28. tasmin* = (while) that; *baaNe* = arrow; *nipatite*
 = was attacking; *maanushhu* = a human; *vaak* = voice; *abhuut* = was
 manifest; *tatra* = there; *katham* = how; *shastram* = a weapon;
@@ -1312,11 +1337,6 @@ me?
 weapon did rush upon an ascetic like me?' "
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-यारु ननगॆ बाण हॊडॆदरु? नानु यारदु एनु कॆडिसिदॆ? नानादरो सर्व जीविगळिगॆ पीडॆ कॊडुव वृत्तियन्नु त्यजिसि ऋषि-जीवन नडॆसुत्तिद्दॆ. काडिनल्लिद्दु वनद फल-मूलगळिन्दले जीवन निर्वहिसुत्तिद्दॆ. नन्नन्तह निरपराधी मनुष्यनन्नु शस्त्रदिन्द एकॆ वधिसलागिदॆ? नानु वल्कल, मृग चर्मवन्नु उडुव जटाधारी तपस्वियागिद्देनॆ. नन्नन्नु वधिसि यारु तन्न लाभवन्नु योचिसिदनु? नानु कॊल्लुववन याव अपराध माडिरुवॆनु? नन्न हत्यॆय व्यर्थप्रयत्न माडिदुदागिदॆ. इदरिन्द यारिगू यावुदे लाभवागलारदु, केवल अनर्थवे पालिगॆ बन्दीतु.॥27-29॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1333,26 +1353,6 @@ was done; *mayaa* = by me; *karya* = to any one?
 
 'I came to the river, which is away from habitation, in the night to fetch water. By
 whom I was hit by an arrow? On the other hand what wrong have I done to anyone?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-26; *27. aham* = I; *anuNeham* = discharged nishitam = a sharp;
-*baaNam* = arrow; *ashiiviSopamam* = resembling a serpent; *tatra* = there;
-*uSasi* = at dawn; *praaduraasiit* = arose; *vyaktaa* = a distinct;
-*vaak* = voice; *haa haa iti* = uttering 'Ah! Ah!' vanaukasaH = of an inhabitant of
-forest; *patataH* = dropping down; *toye* = in water; *baaNaabhiihatamarmaNaH*
-= his vital part hit by the arrow.
-
-**अनुवादः**
-
-"I released a sharp arrow, resembling a serpent. There, at dawn, arose a distinct
-voice uttering 'Ah! Ah!' of a forest-inhabitant, dropping down in water after his vital part was
-hit by an arrow."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
@@ -1399,6 +1399,29 @@ _________________
 
 **पदच्छेदः**
 
+*30. R^ishhe* = to a sage; *madvidhasya* = like me;
+*nyastadaNdasya* = of having laid down the road; *jiivataH* = and living;
+*vanyena* = on fruits and roots of wild plants; *vane* = in the forest; *katham
+na* = how; *vadhaH* = a killing; *shastreNa* = by an arrow;vidhiiyate = is
+enjoined?
+
+**अनुवादः**
+
+"To a seer like me, of having laid down violence and living a fruits and roots of
+wild plants in the forest, how a killing by an arrow is enjoined?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+ई हत्यॆ माडिदवनन्नु जगत्तिनल्लि ऎल्लियू, यारू ऒळ्ळॆयवनॆन्दु तिळियलारनु. गुरुपत्नी गामियन्नु निन्दिसिदन्तॆ निन्दिसुवरु. नानु सायुवुदर चिन्तॆ ननगिल्ल, आदरॆ नानु सायुवुदरिन्द नन्न तन्दॆ-तायन्दिरिगॆ आगुव कष्टद बग्गॆ पदे-पदे चिन्तिसुत्तिद्देनॆ. नानु ई वृद्धरिब्बरन्नु बहळ कालदिन्द पालनॆ-पोषणॆ माडिरुवॆनु. ईग नानिल्लदॆ इवरु हेगॆ बदुकिरबल्लरु? घातकियु ऒन्दे बाणदिन्द नन्नन्नु मत्तु नन्न वृद्ध माता-पितरन्नू मृत्युमुखवागिसिदनु. याव विवेकहीन, अजितेन्द्रिय पुरुषनु नम्मॆल्लरन्नु ऒट्टिगॆ वधिसिबिट्टनु.॥30-32½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *31. kaH* = who; *syaat* = is desirous of; *vadhena* = in
 killing; *mama* = of me; *jaTaabhaarudharasyaam* = wearing a mass of locks of hair;
 *valka laajina vaasasaH* = with bark of trees and deer-skin as my clothing? kim vaa = what;
@@ -1410,11 +1433,6 @@ killing; *mama* = of me; *jaTaabhaarudharasyaam* = wearing a mass of locks of ha
 of trees and deer-skin? What harm was done to him by me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-ई हत्यॆ माडिदवनन्नु जगत्तिनल्लि ऎल्लियू, यारू ऒळ्ळॆयवनॆन्दु तिळियलारनु. गुरुपत्नी गामियन्नु निन्दिसिदन्तॆ निन्दिसुवरु. नानु सायुवुदर चिन्तॆ ननगिल्ल, आदरॆ नानु सायुवुदरिन्द नन्न तन्दॆ-तायन्दिरिगॆ आगुव कष्टद बग्गॆ पदे-पदे चिन्तिसुत्तिद्देनॆ. नानु ई वृद्धरिब्बरन्नु बहळ कालदिन्द पालनॆ-पोषणॆ माडिरुवॆनु. ईग नानिल्लदॆ इवरु हेगॆ बदुकिरबल्लरु? घातकियु ऒन्दे बाणदिन्द नन्नन्नु मत्तु नन्न वृद्ध माता-पितरन्नू मृत्युमुखवागिसिदनु. याव विवेकहीन, अजितेन्द्रिय पुरुषनु नम्मॆल्लरन्नु ऒट्टिगॆ वधिसिबिट्टनु.॥30-32½॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1431,24 +1449,6 @@ violates his teacher's bed; *saadhu* = as good.
 "A vain act concerning only with a useless objective is undertaken in this manner.
 No one will admire him, as for instance like any man seeking the bed of his preceptor's wife, as
 good."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*30. R^ishhe* = to a sage; *madvidhasya* = like me;
-*nyastadaNdasya* = of having laid down the road; *jiivataH* = and living;
-*vanyena* = on fruits and roots of wild plants; *vane* = in the forest; *katham
-na* = how; *vadhaH* = a killing; *shastreNa* = by an arrow;vidhiiyate = is
-enjoined?
-
-**अनुवादः**
-
-"To a seer like me, of having laid down violence and living a fruits and roots of
-wild plants in the forest, how a killing by an arrow is enjoined?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
@@ -1591,6 +1591,28 @@ me, support themselves when I obtain my death?'
 
 **पदच्छेदः**
 
+*35. vR^ddhau* = the aged; *maataapitaa* = mother and father;
+*ahamca* = me too; *hataH* = are killed; *ekeSaNaa* = by a single arrow;
+*kena* = By whom; *akR^itaatmanaa* = a man without self-control; *subaalena* =
+and very much a fool; *sarve* = all of us; *nihataaH sma* = are killed?
+
+**अनुवादः**
+
+"I and my aged parents are killed by a single arrow. By a man without self control
+and being very much a fool, all of as are virtually killed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+नन्न हृदयदल्लि दीनतॆ आवरिसितु, मनस्सु बहळ दुःखगॊण्डितु. सरयू तीरद आ स्थळक्कॆ होगि नोडिदॆ-ओर्व तपस्वी बाणदिन्द घासिगॊण्डु नॆलदल्लि बिद्दिरुवनु. तलॆय जटॆ कॆदरिदॆ, बिन्दिगॆय नीरु चॆल्लिहोगिदॆ, इडी शरीरवु धूळु मत्तु रक्तदिन्द तॊय्दुहोगिदॆ. अवनु बाण तगुलि बिद्दिद्दनु. अवन स्थितियन्नु नोडि नानु भयगॊण्डॆ, नन्न चित्तस्वास्थ्य कॆट्टुहोयितु. अवनु ऎरडु कण्णुगळिन्द तन्न तेजदिन्द नन्नन्नु सुट्टुबिडुवनो ऎम्बन्तॆ नोडुत्तिद्दनु. अवनु कठोरवाणियिन्द हीगॆ नुडिदनु.॥35-37½॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *36. shrutvaa* = Hearing; *taamgiram* = those words;
 *karaNaam* = which were pitiable; *karaabhyaam* = from the hands; *mama* = of
 me; *dharmaanukaaNkSiNaH* = who is intent on righteousness; *vyathitasya* = and
@@ -1603,11 +1625,6 @@ arrows."
 distressed. The bow and arrow fell down from my hands to the ground."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-नन्न हृदयदल्लि दीनतॆ आवरिसितु, मनस्सु बहळ दुःखगॊण्डितु. सरयू तीरद आ स्थळक्कॆ होगि नोडिदॆ-ओर्व तपस्वी बाणदिन्द घासिगॊण्डु नॆलदल्लि बिद्दिरुवनु. तलॆय जटॆ कॆदरिदॆ, बिन्दिगॆय नीरु चॆल्लिहोगिदॆ, इडी शरीरवु धूळु मत्तु रक्तदिन्द तॊय्दुहोगिदॆ. अवनु बाण तगुलि बिद्दिद्दनु. अवन स्थितियन्नु नोडि नानु भयगॊण्डॆ, नन्न चित्तस्वास्थ्य कॆट्टुहोयितु. अवनु ऎरडु कण्णुगळिन्द तन्न तेजदिन्द नन्नन्नु सुट्टुबिडुवनो ऎम्बन्तॆ नोडुत्तिद्दनु. अवनु कठोरवाणियिन्द हीगॆ नुडिदनु.॥35-37½॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -1624,23 +1641,6 @@ grief."
 
 "Hearing his pathetic cry, weeping profusely during the night, I became unconscious
 frequently, utterly bewildered as I was, due to flare-up of my grief."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*35. vR^ddhau* = the aged; *maataapitaa* = mother and father;
-*ahamca* = me too; *hataH* = are killed; *ekeSaNaa* = by a single arrow;
-*kena* = By whom; *akR^itaatmanaa* = a man without self-control; *subaalena* =
-and very much a fool; *sarve* = all of us; *nihataaH sma* = are killed?
-
-**अनुवादः**
-
-"I and my aged parents are killed by a single arrow. By a man without self control
-and being very much a fool, all of as are virtually killed."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
@@ -2065,6 +2065,24 @@ _________________
 
 **पदच्छेदः**
 
+*46. raaghava* = O; Dasaratha!; *gattvaa* = going;
+*shiighram* = soon; *tvameva* = you alone; *aachakSva* = tell me pituH = my
+father; *naanudahet* = He will not scroch; *tvaam* = you; *kruddhaH* = by
+anger; *vanamiva* = as a forest (in scorched); *edhitaH* = by flared-up;
+*vahniH* = fire
+
+**अनुवादः**
+
+'O, Dasaratha! Going there soon, you alone tell my father; so that he will not
+scorch you by his anger, as a forest is scorched by a flared-up fire.'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *47. raajan* = O; king!; *yataH* = on which side;
 *aashramaH* = the hermitage; *me pituH* = of my father (on that side); *iyam*
 = this; *ekapadii* = foot-path (will go); *gattvaa* = after going ( there);
@@ -2076,24 +2094,6 @@ you."
 
 'O, king! This foot-path will lead you to my father's hermitage. After going there,
 seek his graciousness, lest he should get angry and execrate you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*46. raaghava* = O; Dasaratha!; *gattvaa* = going;
-*shiighram* = soon; *tvameva* = you alone; *aachakSva* = tell me pituH = my
-father; *naanudahet* = He will not scroch; *tvaam* = you; *kruddhaH* = by
-anger; *vanamiva* = as a forest (in scorched); *edhitaH* = by flared-up;
-*vahniH* = fire
-
-**अनुवादः**
-
-'O, Dasaratha! Going there soon, you alone tell my father; so that he will not
-scorch you by his anger, as a forest is scorched by a flared-up fire.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
@@ -2129,25 +2129,6 @@ scorch you by his anger, as a forest is scorched by a flared-up fire.'
 
 **पदच्छेदः**
 
-*49. asya shalyaapakarSaNe* = while I was extracting the arrow-head
-from him; *iti* = this; *chintaa* = thought; *avishat* = entered;
-*maam* = me; *sashalyaH* = with arrow-head in his body; *klishyat* = he will
-suffer; *praaNaiH* = with his lives; *vishalyaH* = without the arrow-head;
-*vinashiSyat* = he will die.
-
-**अनुवादः**
-
-"While extracting the arrow-head from him, this thought entered my mind. With
-arrow-head in his body he will suffer, even though surviving. But after extracting the arrow-head,
-he will die."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *48. raajan* = O; king!; *kuru* = make; *maam* = me;
 *vishalyam* = free from the arrow-head; *nishitaH* = the sharp; *sharaH* =
 arrow; *ruNadhhi* = torments; *me marma* = my vital part; *mR^idu* = which is
@@ -2159,6 +2140,25 @@ delicate; *amburayaH yathaa* = in the same way as a river current (corrodes);
 'O, king! Extract this arrow-head from my body. This sharp arrow torments my
 delicate vital part in the same way as a river-current corrodes the sandy bank, which is at a
 height.'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*49. asya shalyaapakarSaNe* = while I was extracting the arrow-head
+from him; *iti* = this; *chintaa* = thought; *avishat* = entered;
+*maam* = me; *sashalyaH* = with arrow-head in his body; *klishyat* = he will
+suffer; *praaNaiH* = with his lives; *vishalyaH* = without the arrow-head;
+*vinashiSyat* = he will die.
+
+**अनुवादः**
+
+"While extracting the arrow-head from him, this thought entered my mind. With
+arrow-head in his body he will suffer, even though surviving. But after extracting the arrow-head,
+he will die."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>
@@ -2257,24 +2257,6 @@ pitiably, suffering from anguish."
 
 **पदच्छेदः**
 
-*52. samstabhya* = suppressing; *shokam* = my grief;
-*dhairyeNa* = with firmness; *aham* = I; *bhavaami* = am becoming;
-*sthirachittaH* = steady; *taapam* = (let the) torment; *hR^idayaat* = in your
-heart; *brahmahatyaakR^itam* = caused by the thought of your having killed a Brahmana;
-*apaniiyataam* = be removed.
-
-**अनुवादः**
-
-'Suppressing my grief with firmness, I am becoming stable-minded. Let the torment in
-your heart, caused by the thought of your having killed Brahmana be removed.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *51. siidamaanaH* = sinking into despondency; *taamyamaanaH* =
 and being in distress; *vivR^ittaangaH* = distorting the limbs in agony;
 *veSTamaanaH* = coiling round himself; *kSayam* = the end (of life);
@@ -2286,6 +2268,24 @@ and being in distress; *vivR^ittaangaH* = distorting the limbs in agony;
 Sinking into despondency with distress, distorting his limbs in agony, coiling round
 himself on the floor with extreme pain and having approached the end of his life, he spoke to me
 (as follows) with great difficulty.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*52. samstabhya* = suppressing; *shokam* = my grief;
+*dhairyeNa* = with firmness; *aham* = I; *bhavaami* = am becoming;
+*sthirachittaH* = steady; *taapam* = (let the) torment; *hR^idayaat* = in your
+heart; *brahmahatyaakR^itam* = caused by the thought of your having killed a Brahmana;
+*apaniiyataam* = be removed.
+
+**अनुवादः**
+
+'Suppressing my grief with firmness, I am becoming stable-minded. Let the torment in
+your heart, caused by the thought of your having killed Brahmana be removed.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm)
 </details>

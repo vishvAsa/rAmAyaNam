@@ -1440,6 +1440,22 @@ _________________
 
 **पदच्छेदः**
 
+*35. patadbhiH* = by the fall; *bahubhiH* = of a multitude;
+*tayoH shitaiH shara shataiH* = of their sharp arrows in hundreds; *dishashcha* = the
+quarters; *babhuuvuH* = became; *shara samkulaaH* = filled with arrows.
+
+**अनुवादः**
+
+By the fall of a multitude of their sharp arrows in hundreds, the quarters and
+sub-quarters were filled with arrows.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga89/yuddhasans89.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *36. sarvam* = all; *pihitam* = was covered; *tamasaa* =
 iwth darkness; *mahat* = a great; *pratibhayam* = fear; *aasiit* = approached;
 *sahasvaamshau astamgate* = while the sun was settting down; *tamasaa samvR^ite* =
@@ -1450,22 +1466,6 @@ encircling darkness; *rudhiraugha mahaa nadyaH* = large streams of blood in abun
 
 All the space was covered with darkness, showing up great fear. While the sun was
 setting down, encircling darkness all over, large streams of blood in plenty poured out.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga89/yuddhasans89.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*35. patadbhiH* = by the fall; *bahubhiH* = of a multitude;
-*tayoH shitaiH shara shataiH* = of their sharp arrows in hundreds; *dishashcha* = the
-quarters; *babhuuvuH* = became; *shara samkulaaH* = filled with arrows.
-
-**अनुवादः**
-
-By the fall of a multitude of their sharp arrows in hundreds, the quarters and
-sub-quarters were filled with arrows.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga89/yuddhasans89.htm)
 </details>
@@ -1675,23 +1675,6 @@ _________________
 
 **पदच्छेदः**
 
-*43. yantari hate* = (when) the charioteer was killed;
-*mahaatejaaH* = the greatly splendoured; *manDodarii sutaH* = Indrajit;
-*akarot* = did; *saarathyam* = the charioteering; *svayam* = by himself;
-*punashcha* = and also; *aspR^ishat* = took hold of; *dhanuH* = the bow.
-
-**अनुवादः**
-
-When the charioteer was killed, the greatly splendoured Indrajit did the
-charioteering by himself and also took hold of his bow.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga89/yuddhasans89.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 40; 41; *42. tataH* = thereupon; *laaghavaat* = from the
 alacrity of is hand; *saH shriimaan raaghavaH* = that illustrious Lakshmana; *aapareNa
 nishitena baaNaashaninaa* = with another sharp thunderbolt-like arrow; *bhallena* =
@@ -1709,6 +1692,23 @@ and releasing another sharp thunderbolt-like arrow, named Bhalla, which was yell
 with charming plumes, having a good splendour similar to Indra's thunderbolt and echoing a clapping
 sound, severed the head of Indrajit's charioteer from his trunk, even as he was circling
 around.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga89/yuddhasans89.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*43. yantari hate* = (when) the charioteer was killed;
+*mahaatejaaH* = the greatly splendoured; *manDodarii sutaH* = Indrajit;
+*akarot* = did; *saarathyam* = the charioteering; *svayam* = by himself;
+*punashcha* = and also; *aspR^ishat* = took hold of; *dhanuH* = the bow.
+
+**अनुवादः**
+
+When the charioteer was killed, the greatly splendoured Indrajit did the
+charioteering by himself and also took hold of his bow.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga89/yuddhasans89.htm)
 </details>

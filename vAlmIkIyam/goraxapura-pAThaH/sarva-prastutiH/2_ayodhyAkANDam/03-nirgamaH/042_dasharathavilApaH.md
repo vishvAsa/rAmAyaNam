@@ -1118,28 +1118,6 @@ _________________
 
 **पदच्छेदः**
 
-*24. rahitam* = Bereft; *raameNa* = of Rama;vaidehyaa = Sita
-;lakshhmaNenacha = and Lakshmana ;veshma = the palace ;mahaahradam iva = (looked) like a big pool ;
-*akshhobhyam* = rendered unperturbed; *hR^itoragam* = emptied of snakes ;suvarNena =
-by Garuda.
-
-**अनुवादः**
-
-Bereft of Rama Sita and Lakshmana, the palace looked like a big pool rendered
-unperturbed due to emptying of snakes in it by Garuda*
-
-**टिप्पनी**
-
-*Garuda was a mythical bird (chief of feathered race, enemy of the serpent
-race)
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *23. aavekshhya* = seeing; *taam* = that; *sarvaam* =
 entire; *puriim* = city ;shuunya chatvara veshmaantaam = with its road junctions and
 mansions deserted ; *samvR^itaapaNa devataam* = with its shops and temples closed ;
@@ -1154,6 +1132,28 @@ Seeing the entire city with its road-junctions and mansions deserted, its shops 
 temples closed, with its people exhausted with fatigue and plunged in affliction; its highways not
 very crowded ,the king entered his palace wailing and thinking of Rama alone as the sun enters a
 cloud.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*24. rahitam* = Bereft; *raameNa* = of Rama;vaidehyaa = Sita
+;lakshhmaNenacha = and Lakshmana ;veshma = the palace ;mahaahradam iva = (looked) like a big pool ;
+*akshhobhyam* = rendered unperturbed; *hR^itoragam* = emptied of snakes ;suvarNena =
+by Garuda.
+
+**अनुवादः**
+
+Bereft of Rama Sita and Lakshmana, the palace looked like a big pool rendered
+unperturbed due to emptying of snakes in it by Garuda*
+
+**टिप्पनी**
+
+*Garuda was a mythical bird (chief of feathered race, enemy of the serpent
+race)
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>
@@ -1491,23 +1491,6 @@ voice, " Oh, Rama! You have left us both, your mother and I."
 
 **पदच्छेदः**
 
-*32. atha* = thereupon ;raatrayaam = the night ;prasannaam = having
-fallen; *kaala raatryaamiva* = (the night) resembling the hour of death ;aatmanaH = to him;
-*dasarathaH* = Dasaratha; *abraviit* = spoke; *idam* = these words ;kausalyaam
-= to Kausalya; *artharaatre* = at that midnight
-
-**अनुवादः**
-
-Thereupon, the night having fallen, the night resembling the hour of death to him,
-Dasaratha spoke these words to Kausalya when the midnight struck :
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *31. bata* = Alas! Ye = Those; *narottamaH* = jewels among men;
 *jiivishhyanti* = who will survive; *tam kaalam* = the term; *drakshhyanti* =
 and see; *raamam* = Rama;punaH aagatam = come back ;parishhvajantaH = and embracing him
@@ -1517,6 +1500,23 @@ and see; *raamam* = Rama;punaH aagatam = come back ;parishhvajantaH = and embrac
 
 "Alas! Those jewels among men who will survive the term of fourteen years, seeing
 Rama come back and embrace him, will be happy indeed."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*32. atha* = thereupon ;raatrayaam = the night ;prasannaam = having
+fallen; *kaala raatryaamiva* = (the night) resembling the hour of death ;aatmanaH = to him;
+*dasarathaH* = Dasaratha; *abraviit* = spoke; *idam* = these words ;kausalyaam
+= to Kausalya; *artharaatre* = at that midnight
+
+**अनुवादः**
+
+Thereupon, the night having fallen, the night resembling the hour of death to him,
+Dasaratha spoke these words to Kausalya when the midnight struck :
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga42/ayodhyasans42.htm)
 </details>

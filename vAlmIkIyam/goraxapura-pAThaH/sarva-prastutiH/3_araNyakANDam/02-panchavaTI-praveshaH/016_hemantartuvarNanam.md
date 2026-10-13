@@ -1392,22 +1392,6 @@ the soft attitude of Rama. Tiirtha.
 
 **पदच्छेदः**
 
-*27. asmin tu kale* = during this, but, time; *puruSavyaaghra* = manly-tiger Rama; *
-harmaatmaa bharataH* = noble-souled, Bharata; *duHkha samanvitaH* = anguish, along with;
-*tvat bhaktyaa* = in you, with adoration; *pure tapaH carati* = in city, ascesis, he undertakes.
-
-**अनुवादः**
-
-"But during this time, oh, manly-tiger, ushered by anguish that virtue souled one Bharata must be practising
-ascesis in city with adoration to you. [4-16-27]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *26. kamala aakaraaH* = lotus, lakes; *jaraa jarjaritaiH patraiH [padmaiH]* = with aged,
 withered, petals [lotuses]; *siirNa kesara karNikaiH* = with decrepit, fibrils, carpels; *
 naala sheSaa* = peduncles, remnant; *hima dhvastaa* = by cold, impaired; *na bhaanti*
@@ -1423,6 +1407,22 @@ the fibrils and carpels, thus impaired by cold they are ungracious in look. [4-1
 When the demons destroy the lake-like hermitages and their inmates, aged and withered sages and their
 lotus-petal like austerities are shattered by the hostilities of demons, and the remaining hermits are
 just like the stalks of lotuses left behind.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27. asmin tu kale* = during this, but, time; *puruSavyaaghra* = manly-tiger Rama; *
+harmaatmaa bharataH* = noble-souled, Bharata; *duHkha samanvitaH* = anguish, along with;
+*tvat bhaktyaa* = in you, with adoration; *pure tapaH carati* = in city, ascesis, he undertakes.
+
+**अनुवादः**
+
+"But during this time, oh, manly-tiger, ushered by anguish that virtue souled one Bharata must be practising
+ascesis in city with adoration to you. [4-16-27]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga16/aranyasans16.htm)
 </details>

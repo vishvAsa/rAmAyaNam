@@ -190,6 +190,24 @@ in the forest. [3-45-2, 3a]
 
 **पदच्छेदः**
 
+*3b, 4a. simhaanaam* = for lions [under seize]; *go vR^iSam* = bull; *iva* = as
+with; *rakSasaam vasham aapannam* = for demons, subjugation, one who obtained - your brother
+Rama might have come under; *sharaNa eSiNam* = protection, he who is seeking; *tam bhraataram*
+= such a, to brother; *tvam kSipram abhi dhaava* = you, quickly, towards [him] run.
+
+**अनुवादः**
+
+"He might have come under the subjugation of demons as with a bull coming under the seize of lions,
+hence, you hurry up so as to near such a brother of yours who is seeking protection." So said Seetha
+toi Lakshmana. [3-45-3b, 4a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *4b, 5a. tathaa* = that way; *uktaH tu* = he who is spoken to by her, [i.e., Lakshmana,
 though she said a lot to him,] he on his part; *bhraatuH shaasanam aaj~naaya* = brother's, order
 [to stay guard to Seetha,] remembering; *na jagaama* = not, [Lakshmana has not] moved out;
@@ -202,24 +220,6 @@ though she said a lot to him,] he on his part; *bhraatuH shaasanam aaj~naaya* = 
 Although she spoke a lot to him in this way, Lakshmana on his part has not moved out remembering his
 brother's order to stay guard to Seetha, and hence that Janaki, the daughter of Janaka, who is already
 agitated for Rama further spoke to him in the paradox of his not going out of hermitage. [3-45-4b, 5a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*3b, 4a. simhaanaam* = for lions [under seize]; *go vR^iSam* = bull; *iva* = as
-with; *rakSasaam vasham aapannam* = for demons, subjugation, one who obtained - your brother
-Rama might have come under; *sharaNa eSiNam* = protection, he who is seeking; *tam bhraataram*
-= such a, to brother; *tvam kSipram abhi dhaava* = you, quickly, towards [him] run.
-
-**अनुवादः**
-
-"He might have come under the subjugation of demons as with a bull coming under the seize of lions,
-hence, you hurry up so as to near such a brother of yours who is seeking protection." So said Seetha
-toi Lakshmana. [3-45-3b, 4a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
@@ -267,6 +267,23 @@ toi Lakshmana. [3-45-3b, 4a]
 
 **पदच्छेदः**
 
+*5b, 6a. saumitre* = oh, Soumitri; *yaH tvam* = which, you; *asyaam avasthaayaam*
+= in such an, exigency; *bhraataram* = at brother; *na abhi padyase* = not, towards, going;
+such as you are; *tvam* = you; *bhraatuH* = to brother; *shatru vat mitra ruupeNa asi*
+= foe, like, in friend's, mien, you are.
+
+**अनुवादः**
+
+"You are like a foe of your brother in friend's mien, Soumitri, as you are not making a move towards
+a brother even if he is in an emergency. [3-45-5b, 6a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *6b, 7a. lakSmaNa* = oh, Lakshmana; *tvam* = you; *raamam* = Rama be; *vi nashyantam*
 = completely, destroyed; *mat kR^ite* = my, sake of - because of me; *icChasi* = you wish;
 *mat kR^itam* = my, sake of - because of me; *lobhaat tu* = greed for gain - cupidity,
@@ -282,23 +299,6 @@ are not following up on Raghava. It is definite. [3-45-6b, 7a]
 
 The 'real' woman in Seetha is coming out. From now on, she goes on talking unhesitatingly, unilaterally
 and even abusively because her mind is fuddled with the thought 'some damage is being done to her husband.'
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*5b, 6a. saumitre* = oh, Soumitri; *yaH tvam* = which, you; *asyaam avasthaayaam*
-= in such an, exigency; *bhraataram* = at brother; *na abhi padyase* = not, towards, going;
-such as you are; *tvam* = you; *bhraatuH* = to brother; *shatru vat mitra ruupeNa asi*
-= foe, like, in friend's, mien, you are.
-
-**अनुवादः**
-
-"You are like a foe of your brother in friend's mien, Soumitri, as you are not making a move towards
-a brother even if he is in an emergency. [3-45-5b, 6a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
@@ -553,23 +553,6 @@ fiends, demons, no doubt about it.
 
 **पदच्छेदः**
 
-*13b, 14a. raamaH samare a vadhyaH* = Rama, in war, not, killable - inextirpable; *tvam evam
-vaktum na arhasi* = you, to talk, that way, not, apt of you; *tvaam raaghavam vinaa* = you,
-Raghava, without; *asmin vane haatum* = in this, forest, to abandon; *na utsahe* = not,
-I venture.
-
-**अनुवादः**
-
-"It is inapt of you to talk that way as Rama is inextirpable in a given war, and as for me, I do not
-venture to abandon you in this forest in the absence of Raghava. [3-45-13b, 14a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11b, 12, 13a. shobhane* = oh, auspicious one; *devi* = oh, lady; *samare vaasava upamam
 raamam* = in war, Indra, similar - vies with, Rama; *yaH prati yudhyeta* = he who, can counter,
 attacks; *saH* = such a combatant; *deva manuSyeSu* = among gods, humans; *gandharveSu
@@ -582,6 +565,23 @@ kinnaraa-s, beasts, also; *ghoreSu daanaveSu ca* = among horrendous, demons, eve
 "Oh, auspicious one, unmarked is some combatant who can counterattack Rama from among gods, humans,
 gandharva-s, birds, ogres, kinnaraa-s, beasts, or oh, lady, even from horrendous demons, as Rama vies
 with Indra in any given war. [3-45-11b, 12, 13a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*13b, 14a. raamaH samare a vadhyaH* = Rama, in war, not, killable - inextirpable; *tvam evam
+vaktum na arhasi* = you, to talk, that way, not, apt of you; *tvaam raaghavam vinaa* = you,
+Raghava, without; *asmin vane haatum* = in this, forest, to abandon; *na utsahe* = not,
+I venture.
+
+**अनुवादः**
+
+"It is inapt of you to talk that way as Rama is inextirpable in a given war, and as for me, I do not
+venture to abandon you in this forest in the absence of Raghava. [3-45-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
@@ -628,23 +628,6 @@ with Indra in any given war. [3-45-11b, 12, 13a]
 
 **पदच्छेदः**
 
-*15b-16a. te hR^idayam nirvR^itam astu* = your, heart, turn back [be diverted,] let it be;
-*[ayam* = this]; *tava santaapaH tyajyataam* = your, anxiety, be divested; *te bhartaa*
-= your, husband; *mR^iga uttamam hatvaa* = extraordinary, deer, on killing; *shiighram aagamiSyati*
-= quickly, will come back.
-
-**अनुवादः**
-
-"Hence, let your heart be diverted and anxiety divested, as your husband will be returning soon on killing
-that extraordinary deer. [3-45-15b, 16a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14b, 15a. balavataam balaiH api* = of forceful ones [Crowns,] by military forces, even; *
 sa iishvaraiH sa amaraiH api* = [headed by] their lords, with, by gods, even; *samuditaiH tribhiH
 lokaiH* = coming in insurgency, of three, worlds [collectively]; *tasya balam a nivaaryam*
@@ -655,6 +638,23 @@ lokaiH* = coming in insurgency, of three, worlds [collectively]; *tasya balam a 
 "Let the most forceful Crowns with all their military forces, or, all of the gods together with their
 heads, why they, let all the three worlds put together come mutinously, whether jointly or severally,
 Rama's prowess is irrestrainable. [3-45, 14b, 15a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15b-16a. te hR^idayam nirvR^itam astu* = your, heart, turn back [be diverted,] let it be;
+*[ayam* = this]; *tava santaapaH tyajyataam* = your, anxiety, be divested; *te bhartaa*
+= your, husband; *mR^iga uttamam hatvaa* = extraordinary, deer, on killing; *shiighram aagamiSyati*
+= quickly, will come back.
+
+**अनुवादः**
+
+"Hence, let your heart be diverted and anxiety divested, as your husband will be returning soon on killing
+that extraordinary deer. [3-45-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
@@ -1389,6 +1389,30 @@ _________________
 
 **पदच्छेदः**
 
+*31b, 32a. nyaaya vaadii* = conscientiously, [although] reasoning; *aham* = I am; *
+tvayaa* = by you; *yathaa* = as to how; *paruSam vaakyam uktaH* = bitter, words, spoken
+to; for such one like me; *me* = to me; *saakSinaH* = corroborators; *sarve vane caraaH*
+= all of the, forest- itinerants - sylvan deities; *upa shR^iNvantu* = closely, hear; *hi*
+= indeed.
+
+**अनुवादः**
+
+"Let all of the forest-itinerants indeed listen as to how you are addressing me with bitter words, though
+I am reasoning with you conscientiously, and let them become my corroborators for the sake of justice.
+[3-45-31b, 32a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+ई अरण्यदल्लि सञ्चरिसुव ऎल्ल प्राणिगळु साक्षियागि नन्न मातु केळलि. नानु न्याययुक्त मातन्नु हेळिद्दरू नीवु नन्न कुरितु इन्तह कठोर मातन्नु आडिदिरि, खण्डितवागि इन्दु निम्म बुद्धि कॆट्टुहोगिदॆ. नीवु नाशवागलु बयसुत्तिरुविरि. नन्न मेलॆ इन्तह सन्देहपडुत्तिरुव निमगॆ धिक्कारविरलि. नानु अण्णन आज्ञॆयन्नु पालिसलु दृढतॆयिन्द तत्परनागि इरुवॆनु. नीवु सामान्य नारियाद्दरिन्द स्त्रीयर दुष्ट स्वभाववन्नु तन्नदागिसिकॊण्डु नन्न कुरितु संशयपडुत्तिरुविरि. सरि, ईग नानु अण्ण श्रीरामनु होदल्लिगॆ होगुवॆनु. सुमुखि! निमगॆ मङ्गळवागलि.॥31-33॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *32b, 33a. tvaam dhik* = upon you, fie; *striitvaat* = by faminality; *duSTa svabhaavena*
 = with acrimonious, temper; *[tvam* = you]; *adya guru vaakye vyavasthitam* = presently,
 mentor's, ordinance, one who is abiding in; *maam* = me; *yat* = by which [impulsive,
@@ -1405,11 +1429,6 @@ you mistrust me who am presently abiding in my brother's order, may God damn you
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
 
-<details><summary>अनुवाद (कन्नड)</summary>
-
-ई अरण्यदल्लि सञ्चरिसुव ऎल्ल प्राणिगळु साक्षियागि नन्न मातु केळलि. नानु न्याययुक्त मातन्नु हेळिद्दरू नीवु नन्न कुरितु इन्तह कठोर मातन्नु आडिदिरि, खण्डितवागि इन्दु निम्म बुद्धि कॆट्टुहोगिदॆ. नीवु नाशवागलु बयसुत्तिरुविरि. नन्न मेलॆ इन्तह सन्देहपडुत्तिरुव निमगॆ धिक्कारविरलि. नानु अण्णन आज्ञॆयन्नु पालिसलु दृढतॆयिन्द तत्परनागि इरुवॆनु. नीवु सामान्य नारियाद्दरिन्द स्त्रीयर दुष्ट स्वभाववन्नु तन्नदागिसिकॊण्डु नन्न कुरितु संशयपडुत्तिरुविरि. सरि, ईग नानु अण्ण श्रीरामनु होदल्लिगॆ होगुवॆनु. सुमुखि! निमगॆ मङ्गळवागलि.॥31-33॥
-</details>
-
 <details><summary>Desiraju Hanumanta Rao</summary>
 
 **पदच्छेदः**
@@ -1423,25 +1442,6 @@ where he is; to there; *gamiSye* = I will go; *te svasti astu* = to you, safe, b
 
 "I am going there where Rama is, oh, lady with best visage, you be blest, and oh, broad-eyed one, let
 all of the forest deities protect you. [3-45-33b, 34a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*31b, 32a. nyaaya vaadii* = conscientiously, [although] reasoning; *aham* = I am; *
-tvayaa* = by you; *yathaa* = as to how; *paruSam vaakyam uktaH* = bitter, words, spoken
-to; for such one like me; *me* = to me; *saakSinaH* = corroborators; *sarve vane caraaH*
-= all of the, forest- itinerants - sylvan deities; *upa shR^iNvantu* = closely, hear; *hi*
-= indeed.
-
-**अनुवादः**
-
-"Let all of the forest-itinerants indeed listen as to how you are addressing me with bitter words, though
-I am reasoning with you conscientiously, and let them become my corroborators for the sake of justice.
-[3-45-31b, 32a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>
@@ -1607,6 +1607,23 @@ _________________
 
 **पदच्छेदः**
 
+*36. lakSmaNa* = oh, Lakshmana; *raameNa* = with Rama; *hiinaa [vinaa]* = deprived
+of [devoid of]; *godaavariim pravekSyaami* = in Godavari, I plunge myself; *athavaa* =
+or else; *aa bandhiSye* = tie myself [I hang, string up myself]; *[athavaa* = or, else];
+*viSame* = from heights; *aatmanaH deham tyakSye* = my, body, I give up.
+
+**अनुवादः**
+
+"Without Rama I plunge myself in River Godavari, or else I string up myself, or discard this body of
+mine from heights..." Thus Seetha started to vent out her feelings. [3-45-36]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *37. aham tiikSNam viSam pibaami* = I, deadly, poison, I drink; *vaa* = or; *huta ashanam
 pravekSyaami* = into Ritual-fire [rather - flaring fire,] I enter; *tu* = but; *raaghavaat
 anyam puruSam* = than Raghava, other, person; *kadaa api* = never, even; *[or, padaa api*
@@ -1637,23 +1654,6 @@ comes up. But she lists all of them in her anguish for Rama. With the same impet
 fire in the episode of *agni praveshanam *after war, when Rama belittles her. There also, she
 orders the very same Lakshmana to arrange pyre for her, disregarding her own accusations made at Lakshmana,
 at this situation.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*36. lakSmaNa* = oh, Lakshmana; *raameNa* = with Rama; *hiinaa [vinaa]* = deprived
-of [devoid of]; *godaavariim pravekSyaami* = in Godavari, I plunge myself; *athavaa* =
-or else; *aa bandhiSye* = tie myself [I hang, string up myself]; *[athavaa* = or, else];
-*viSame* = from heights; *aatmanaH deham tyakSye* = my, body, I give up.
-
-**अनुवादः**
-
-"Without Rama I plunge myself in River Godavari, or else I string up myself, or discard this body of
-mine from heights..." Thus Seetha started to vent out her feelings. [3-45-36]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga45/aranyasans45.htm)
 </details>

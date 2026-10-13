@@ -1128,22 +1128,6 @@ spoke to her. [4-52-24, 25a]
 
 **पदच्छेदः**
 
-*26b, 27a. niyama upa arjitena* = by self-restraints, acquired; *tapasaH su prabhaavena* = by ascesis',
-sublime, efficacy; *sarvaan eva vaanaraan* = all of the, thus, vanara-s; *asmaat bilaat taarayiSyaami*
-= from this, cavity, I wish to sail them through - make you departure from cavity.
-
-**अनुवादः**
-
-"By the sublime efficacy of ascesis acquired through my practices of numerous self-restraints I wish to sail all
-of the vanara-s through the incarceration, called this cavity. [4-52-26b, 27a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *25b, 26a. hanumataa evam uktaa taapasii* = by Hanuma, thus, she who is said, sainted lady; *vaakyam
 abraviit* = sentence, said; *praviSTena* = he who entered - for incomers; *jiivataa nivartitum*
 = while living, outgoing - from this cavity; *duSkaram manye* = impracticable, I believe.
@@ -1152,6 +1136,22 @@ abraviit* = sentence, said; *praviSTena* = he who entered - for incomers; *jiiva
 
 When Hanuma said thus that sainted lady said sentence, "I believe outgoing is impracticable for the incomers in
 aliveness from this cavity. [4-52-25b, 26a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26b, 27a. niyama upa arjitena* = by self-restraints, acquired; *tapasaH su prabhaavena* = by ascesis',
+sublime, efficacy; *sarvaan eva vaanaraan* = all of the, thus, vanara-s; *asmaat bilaat taarayiSyaami*
+= from this, cavity, I wish to sail them through - make you departure from cavity.
+
+**अनुवादः**
+
+"By the sublime efficacy of ascesis acquired through my practices of numerous self-restraints I wish to sail all
+of the vanara-s through the incarceration, called this cavity. [4-52-26b, 27a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm)
 </details>

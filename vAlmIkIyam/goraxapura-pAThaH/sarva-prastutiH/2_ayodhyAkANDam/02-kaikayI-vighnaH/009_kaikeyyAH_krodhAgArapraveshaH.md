@@ -561,23 +561,6 @@ _________________
 
 **पदच्छेदः**
 
-*13. saH mahaasuraH* = That great demon; *khyaataH* = famous;
-*shambaraH* = as shambara; *shatamaayaH* = who had several magic effects;
-*anarjitaH* = not being defeated; *devasanghaiH* = by celestrial groups;
-*dadau* = gave; *sangraamam* = battle; *shakrasya* = to Devendra.
-
-**अनुवादः**
-
-"That great demon famously called shambara, who had several magic effects, defeated
-all the celestials and conferred battle upon Devendra."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *11;12. devi* = O queen! yuddhe = in a battle; *devaasure* =
 between celestials and demons tava patiH = your husband; *upaadaaya* = taking;
 *tvaam* = you; *raajarshhibhiH saha* = along with holy kings; *agachchhat* =
@@ -593,6 +576,23 @@ Dandaka.
 your husband Dasaratha went along with you and other holy kings to help Indra in battle, to a
 famous city called Vaijayata in which the demon Timidhvaja lived in a southern direction in the
 forest of Dandaka."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. saH mahaasuraH* = That great demon; *khyaataH* = famous;
+*shambaraH* = as shambara; *shatamaayaH* = who had several magic effects;
+*anarjitaH* = not being defeated; *devasanghaiH* = by celestrial groups;
+*dadau* = gave; *sangraamam* = battle; *shakrasya* = to Devendra.
+
+**अनुवादः**
+
+"That great demon famously called shambara, who had several magic effects, defeated
+all the celestials and conferred battle upon Devendra."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
@@ -1634,23 +1634,6 @@ king turn aside his effort to anoint Rama.
 
 **पदच्छेदः**
 
-*37. saa kaikeyi* = That Kaikeyi; *paramadarshanaa* = the good
-natured; *param vismayam gataa* = was very much surprised; *vaakyena* = by words of;
-*kubjaayaaH* = the hunch backed Manthara; *kishoriiva* = and like a small girl;
-*gataa* = got; *utpatham* = into a wrong path.
-
-**अनुवादः**
-
-Though of right thinking in nature, Kaikeyi was very much surprised to hear
-Manthara's words and like a small girl, got into a wrong path.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *36.saa kaikeyii* = that kaikeyi; *grahitaa* = having been
 taught; *anartham* = unworthy matter; *artharuupeNa* = in the form of a worthy
 matter; *tayaa* = by that Manthara; *tataH* = afterwards; *hR^isTaa* = having
@@ -1661,6 +1644,23 @@ Manthara; *idam* = these words.
 
 Kaikeyi, being brain-washed an unworthy matter as the most worthy matter by
 Manthara, accepted her well and having delighted, spoke to her as follows:-
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*37. saa kaikeyi* = That Kaikeyi; *paramadarshanaa* = the good
+natured; *param vismayam gataa* = was very much surprised; *vaakyena* = by words of;
+*kubjaayaaH* = the hunch backed Manthara; *kishoriiva* = and like a small girl;
+*gataa* = got; *utpatham* = into a wrong path.
+
+**अनुवादः**
+
+Though of right thinking in nature, Kaikeyi was very much surprised to hear
+Manthara's words and like a small girl, got into a wrong path.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
@@ -1704,24 +1704,6 @@ Manthara, accepted her well and having delighted, spoke to her as follows:-
 
 **पदच्छेदः**
 
-*39. kubje* = oh; Manthara; *tvameva* = you only;
-*nityayuktaa* = are always interested; *mama* = in my; *artheshhu* = well
-being; *hitaishhiNii* = and wishing my benefit; *aham* = I;
-*nasamavabuddhyeyam* = would not have been aware of; *raaGyaH* = kings's;
-*chikiirshhitam* = intending action.
-
-**अनुवादः**
-
-Oh, Manthara! you always show interest in my well being and wish for my benefit. But
-for you, I would not have been aware of the king's intentions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *38. kubje* = oh; *Manthara the hunch backed! naabhijaanaami* =
 I have not recognised; *tvaam* = you; *shreshhTaam* = as the best;
 *shreshhTaabhidhayiniim* = in telling good things; *uttamaasi* = you are the best;
@@ -1733,6 +1715,24 @@ I have not recognised; *tvaam* = you; *shreshhTaam* = as the best;
 Oh, Manthara! You are telling very good things. Till now, I have not recognised you
 as this good. You are the best among the hunch-backed on this earth in making intellectual
 decisions.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*39. kubje* = oh; Manthara; *tvameva* = you only;
+*nityayuktaa* = are always interested; *mama* = in my; *artheshhu* = well
+being; *hitaishhiNii* = and wishing my benefit; *aham* = I;
+*nasamavabuddhyeyam* = would not have been aware of; *raaGyaH* = kings's;
+*chikiirshhitam* = intending action.
+
+**अनुवादः**
+
+Oh, Manthara! you always show interest in my well being and wish for my benefit. But
+for you, I would not have been aware of the king's intentions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
@@ -2037,6 +2037,23 @@ _________________
 
 **पदच्छेदः**
 
+*45. yaaH* = which; *sahasram maayaaH* = thousand magic effects
+aasan = lying; *shambare* = in shambara; *asuraadhipe* = the lord of demons; *taaH
+sarvaaH* = all those; *bhuuyaH* = and further; *sahasrashaH* = thousands of
+anyaashcha = others nivisTaaH = are lying; *tvayi* = in you.
+
+**अनुवादः**
+
+In addition to all those thousand magic effects lying in shambara, the lord of
+demons, another further thousands of magic effects are lying in you.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *46. yat* = which; *tava* = your; *idam* = this;
 *diirgham* = long; *sthagu* = hunch; *aayatam rathaghaNamiva* = looking like
 long apex of a chariot; *atra* = in it; *vasanti* = are dewelling; *te* =
@@ -2047,23 +2064,6 @@ and magic effects.
 
 In your long hunch, which looks like an apex of a chariot, are dwelling your various
 thoughts, royal arts and magic effects.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*45. yaaH* = which; *sahasram maayaaH* = thousand magic effects
-aasan = lying; *shambare* = in shambara; *asuraadhipe* = the lord of demons; *taaH
-sarvaaH* = all those; *bhuuyaH* = and further; *sahasrashaH* = thousands of
-anyaashcha = others nivisTaaH = are lying; *tvayi* = in you.
-
-**अनुवादः**
-
-In addition to all those thousand magic effects lying in shambara, the lord of
-demons, another further thousands of magic effects are lying in you.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
@@ -2109,23 +2109,6 @@ demons, another further thousands of magic effects are lying in you.
 
 **पदच्छेदः**
 
-*48. manthara* = oh; *Manthara! labdaarthaacha* = after getting
-the benefit; *pratiitaacha* = and having delighted lapayishhyaami = I shall anoint; *te
-sthagu* = your hunch back; *suvisTaptena* = with well refined; *suvarNena* =
-gold; *jaatyena* = of good class.
-
-**अनुवादः**
-
-Oh, Manthara! After accomplishing the benefit desired by me, I shall, with delight,
-get your hunch back anointed with well refined gold of good quality.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *47. kubje* = oh; *Manthara! raagahave* = Rama; *gate* =
 goes to; *vanam* = forest; *bharate cha* = and Bharata; *abhishikte* = gets
 anointed; *pratimokshyaami* = adore; *atra* = this huch back; *maalaam* = with
@@ -2135,6 +2118,23 @@ garland; *hiraNmayiim* = made of gold.
 
 Oh Manthara! When Rama goes to forest and Bharata gets kingdom, I shall adore this
 hunch back with a golden garland.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*48. manthara* = oh; *Manthara! labdaarthaacha* = after getting
+the benefit; *pratiitaacha* = and having delighted lapayishhyaami = I shall anoint; *te
+sthagu* = your hunch back; *suvisTaptena* = with well refined; *suvarNena* =
+gold; *jaatyena* = of good class.
+
+**अनुवादः**
+
+Oh, Manthara! After accomplishing the benefit desired by me, I shall, with delight,
+get your hunch back anointed with well refined gold of good quality.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>
@@ -2492,23 +2492,6 @@ wire and spoke to Manthara as follows:
 
 **पदच्छेदः**
 
-*59.suvarNena* = gold; *na arthaH* = is of no use; *me* =
-to me; *na* = nor; *ratnaiH* = diamonds; *na* = nor; *bhuushhaNaiH cha*
-= ornaments; *ramaH abhishhichyate yadi* = If Rama gets anointed for kingdom;
-*eshhaH* = that itself; *antaH* = is end; *me jiivitasya* = of my life.
-
-**अनुवादः**
-
-Neither gold nor diamonds nor ornaments are of any use to me. on which day Rama gets
-anointed for the kingdom, the same day it will be the end of my life.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *58. kubje* = oh; *Manthara! raaghave* = Rama; *praapte*
 = having reached; *vanamtu* = forest; *bharataH* = Bharata; *praapsyasi* =
 shall get; *kshhitim* = the earth; *vaa* = or ese; *aavedayishhyasi* = inform;
@@ -2519,6 +2502,23 @@ person; *iha* = here.
 
 "After Rama's going to the forest, Bharata shall get the kingdom. Or else, you
 inform the king that I died here itself".
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*59.suvarNena* = gold; *na arthaH* = is of no use; *me* =
+to me; *na* = nor; *ratnaiH* = diamonds; *na* = nor; *bhuushhaNaiH cha*
+= ornaments; *ramaH abhishhichyate yadi* = If Rama gets anointed for kingdom;
+*eshhaH* = that itself; *antaH* = is end; *me jiivitasya* = of my life.
+
+**अनुवादः**
+
+Neither gold nor diamonds nor ornaments are of any use to me. on which day Rama gets
+anointed for the kingdom, the same day it will be the end of my life.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm)
 </details>

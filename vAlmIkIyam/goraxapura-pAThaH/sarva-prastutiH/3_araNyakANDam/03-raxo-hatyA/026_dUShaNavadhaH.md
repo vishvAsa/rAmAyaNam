@@ -368,6 +368,24 @@ _________________
 
 **पदच्छेदः**
 
+*7b, 8a. tataH sam kruddhaH* = then, infuriated [Rama]; *samare viiraH raamaH* = in war,
+valiant one, Rama; *kshureNa* = razor-sharp [arrow with crescent-shaped barb]; *asya mahat
+dhanuH* = his [Duushana's,] sturdy, bow; *caturbhiH caturaH hayaan* = with four [arrows,]
+four, horses; *cicCheda* = shivered [bow broken into shivers] / shredded [horses shredded into
+pieces.]
+
+**अनुवादः**
+
+That valiant one in warring Rama is then infuriated and with his crescent-barbed arrow shivered the
+sturdy bow of Duushana, shredding four of his horses with four more arrows. [3-26-7b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *8b, 9a. tiikshNaiH sharaiH* = with excruciating, arrows; *ashvaan ca hatvaa* = horses,
 even, on destructing; *artha candreNa* = with half, moon-shaped - crescent-barbed arrow; *
 saarathe shiraH jahaara* = charioteer's, head, snatched away - fragmented; *tribhiH* = with
@@ -383,24 +401,6 @@ a crescent-barbed arrow, and even impaled the chest of demon Duushana with some 
 
 One crescent dart he aimed which shred / Clean from his neck the driver's head; / Three more with deadly
 skill addressed / Stood quivering in the giant's breast. - Griffith.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*7b, 8a. tataH sam kruddhaH* = then, infuriated [Rama]; *samare viiraH raamaH* = in war,
-valiant one, Rama; *kshureNa* = razor-sharp [arrow with crescent-shaped barb]; *asya mahat
-dhanuH* = his [Duushana's,] sturdy, bow; *caturbhiH caturaH hayaan* = with four [arrows,]
-four, horses; *cicCheda* = shivered [bow broken into shivers] / shredded [horses shredded into
-pieces.]
-
-**अनुवादः**
-
-That valiant one in warring Rama is then infuriated and with his crescent-barbed arrow shivered the
-sturdy bow of Duushana, shredding four of his horses with four more arrows. [3-26-7b, 8a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>
@@ -1017,6 +1017,22 @@ _________________
 
 **पदच्छेदः**
 
+*23b, 24a. duuSaNam nihatam* = Duushana, as killed; *tasya pada anugaan* = his own, followers;
+*shrutvaa* = on hearing; *kharaH kruddhaH* = Khara, irately; *mahaa balaan sena adhyakshaan*
+= to them who have mighty forces under them, to army, captains; *vyaadidesha* = ordered.
+
+**अनुवादः**
+
+On hearing about the killing of Duushana and also thus of the followers of Duushana, Khara irately ordered
+his army captains, under whose captaincy mighty forces are there. [3-26-23b, 24a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *24b, 25. ayam* = he [Duushana]; *sa pada anugaaH* = with, followers; *duuSaNaH*
 = Duushana; *sankhye* = in war; *vinihataH* = is killed; *sarva raakshasaaH* =
 oh, all, demons; *mahatyaa senayaa saardham* = formidable, army, along with - take; *yuddhvaa*
@@ -1028,22 +1044,6 @@ oh, all, demons; *mahatyaa senayaa saardham* = formidable, army, along with - ta
 "Duushana is killed in war along with his followers, hence all you demons, take formidable army, take
 weapons of diverse designs, combat and kill that evil-human Rama..." Thus Khara ordered the remaining
 demons. [3-26-24b, 25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*23b, 24a. duuSaNam nihatam* = Duushana, as killed; *tasya pada anugaan* = his own, followers;
-*shrutvaa* = on hearing; *kharaH kruddhaH* = Khara, irately; *mahaa balaan sena adhyakshaan*
-= to them who have mighty forces under them, to army, captains; *vyaadidesha* = ordered.
-
-**अनुवादः**
-
-On hearing about the killing of Duushana and also thus of the followers of Duushana, Khara irately ordered
-his army captains, under whose captaincy mighty forces are there. [3-26-23b, 24a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga26/aranyasans26.htm)
 </details>

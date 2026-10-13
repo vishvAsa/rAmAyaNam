@@ -413,22 +413,6 @@ you too have comforted me, isn't it. [3-21-7]
 
 **पदच्छेदः**
 
-*9. sa amarSaaH* = with, envious anger; *shuula paTTisa paaNayaH* = spears, bolts, in
-hands; *te sarve* = they, all; *raameNa* = by Rama; *marma bhedibhiH saayakaiH*
-= crucial-parts, cleavers, with arrows; *samare nihataaH* = in war, killed.
-
-**अनुवादः**
-
-"But they all who handled their spears and bolts along with an envious anger are killed in a fight with
-Rama by his arrows that cleave the crucial parts of his opponents. [3-21-9]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *8. shuuraa* = oh, valiant one; *tvayaa* = by you; *mat priya artham* = to my,
 delight, for the reason of; *sa lakSmaNam* = with, Lakshmana; *ghoram raaghavam nihantum*
 = atrocious, Raghava, to eliminate; *te catur dasha raakSasaaH preSitaaH ca* = by you, fourteen,
@@ -438,6 +422,22 @@ demons, sent, isn't it.
 
 "Oh, valiant brother, for my delight you too have sent fourteen demons to eliminate that atrocious Rama
 along with Lakshmana, isn't it? [3-21-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9. sa amarSaaH* = with, envious anger; *shuula paTTisa paaNayaH* = spears, bolts, in
+hands; *te sarve* = they, all; *raameNa* = by Rama; *marma bhedibhiH saayakaiH*
+= crucial-parts, cleavers, with arrows; *samare nihataaH* = in war, killed.
+
+**अनुवादः**
+
+"But they all who handled their spears and bolts along with an envious anger are killed in a fight with
+Rama by his arrows that cleave the crucial parts of his opponents. [3-21-9]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga21/aranyasans21.htm)
 </details>

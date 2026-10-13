@@ -329,33 +329,6 @@ protects the multitude of gods and demons as well as their worlds by his rays."
 
 **पदच्छेदः**
 
-*9. pitarah* = the Pitrus (Manes); *vasavaH* = the eight Vasns;
-*saadhyaaH* = the twelve Sadhyas; *ashvinau* = the two Ashvins = the physicians of
-gods; *marutaH* = the fortynine Maruts (wind-gods); *manuH* = Manu ( a progenitor of
-the human race); *vaayuH* = Vayu; the wind-god; *vahniH* = the fire-god;
-*prajaaH* = the created beings; *praaNaH* = the life-breath of the universe;
-*R^itikartaa* = the source of the seasons; *prabhaakaraH* = and store-house of
-light.
-
-**अनुवादः**
-
-"The Pitrus (manes), the eight Vasus, the twelve Sadhyas, the two Ashvins the
-physicians of gods, the fortymine Maruts (wind-gods), Manu (a progenitor of the human race), Vayu
-the wind-god, the fire-god, the created beings, the life-breath of the universe, the source of teh
-seasons and the store-house of light."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-इवने ब्रह्मा, विष्णु, शिव, स्कन्द, प्रजापति, इन्द्र, कुबेर, काल, यम, चन्द्र, वरुण, पितृगळु, वसु, साध्य, अश्विनी कुमाररु, मरुद्गण, मनु, वायु, अग्नि, प्रजा, प्राण, ऋतुगळन्नु प्रकटिसुववनू हागू प्रभा पुञ्जनागिद्दानॆ.॥8-.॥
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *8. eShaH* = He; *brahmaacha* = is Brahma the creator;
 *viShNushcha* = Vishnu; the protector of the universe; *shivaH* = Lord Shiva the god
 of destruction; *skandaH* = Skanda (son of Lord Shiva); *prajapatiH* = Prajapati (the
@@ -371,6 +344,33 @@ waters.
 of destruction, Skanda (son of Lord Shiva), Prajapati (the ten lords of creted beings), Indra the
 ruler of gods, Kubera the bestower of riches, Kala the Time-spirit, Yama the god of retribution,
 Soma the moon-god and Varuna the ruler of the waters."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+इवने ब्रह्मा, विष्णु, शिव, स्कन्द, प्रजापति, इन्द्र, कुबेर, काल, यम, चन्द्र, वरुण, पितृगळु, वसु, साध्य, अश्विनी कुमाररु, मरुद्गण, मनु, वायु, अग्नि, प्रजा, प्राण, ऋतुगळन्नु प्रकटिसुववनू हागू प्रभा पुञ्जनागिद्दानॆ.॥8-.॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*9. pitarah* = the Pitrus (Manes); *vasavaH* = the eight Vasns;
+*saadhyaaH* = the twelve Sadhyas; *ashvinau* = the two Ashvins = the physicians of
+gods; *marutaH* = the fortynine Maruts (wind-gods); *manuH* = Manu ( a progenitor of
+the human race); *vaayuH* = Vayu; the wind-god; *vahniH* = the fire-god;
+*prajaaH* = the created beings; *praaNaH* = the life-breath of the universe;
+*R^itikartaa* = the source of the seasons; *prabhaakaraH* = and store-house of
+light.
+
+**अनुवादः**
+
+"The Pitrus (manes), the eight Vasus, the twelve Sadhyas, the two Ashvins the
+physicians of gods, the fortymine Maruts (wind-gods), Manu (a progenitor of the human race), Vayu
+the wind-god, the fire-god, the created beings, the life-breath of the universe, the source of teh
+seasons and the store-house of light."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
@@ -432,18 +432,19 @@ _________________
 
 **पदच्छेदः**
 
-*14. aatapii* = (He is) the radiator of heat; *maN^Dalii* = and
-adorned with a circle of rays; *mR^ityuH* = He is death (himself); *piN^galaH* =
-tawny of hue; *sarva taapanaH* = giver of warmth to all; *kaviH* = (He is) omniscent;
-*vishvaH* = all-formed; *mahaatejaaH* = endowed with extra-ordinary splendour;
-*raktaH* = the one who has an affection in all; *sarvabhavodbhavaH* = and the source
-of all evolutes.
+*10. aadityaH* = an off-spring of Aditi; *savitaa* = the
+progenitor of all; *suuryaH* = Surya; the sun-god and the provocator of acts in people;
+*khagaH* = the courser in the sky; *puuShaa* = the nourisher of all with rain;
+*gabhastimaan* = the possessor of rays; *suvarNa sadR^ishaH* = the golden;
+*bhaanuH* = the brilliant; *hiraNya retaaH* = having golden seed; *divaakraH*
+= and the maker of the day.
 
 **अनुवादः**
 
-"He is the radiator of heat and adrned with a circle of rays. He is death himself,
-tawny of hue, a giver of warmth to all, omniscent, all-formed, endowed with extra-ordinary
-splendour, the one who has an affection in all and the source of all evolutes."
+"An off-spring of Aditi, the progenitor of all, Surya the sun-god and the provocator
+of acts in people, the courser in the sky, the nourisher of all iwth rain, the possessor of rays
+the golden, the brilliant, having golden seed whose energy constitutes the seed of the universe and
+the maker of the day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
@@ -452,17 +453,17 @@ splendour, the one who has an affection in all and the source of all evolutes."
 
 **पदच्छेदः**
 
-*13. vyomanaathaHi* = (He is) the lord of the sky; *tamobhedii*
-= disperser of darkness; *R^igyajuH saamapaaragaH* = the master of the three Vedas (Rik;
-Sama and Yajur); *ghana vR^iShTiH* = the sender of thick rain; *mitraH* = the friend;
-*apaam* = of water; *vindhyaviithiiplavangamaH* = and the one who courses swiftly in
-the path of the sky.
+*11. haridashvaH sapta saptiH* = he has seven green horses;
+*mariichimaan* = full of rays; *timironmathanaH* = the destroyer of darkness;
+*shambhuH* = the source of happiness; *tvaShTaa* = maker of thinness;
+*maartaN^DakaH* = the infuser of life in the lifeless cosmic egg; *amshumaan* = and
+radiant.
 
 **अनुवादः**
 
-"He is the lord of the sky, the disperser of darkness, the master of the three Vedas
-(Viz. Rik, Sama and Yajur), the sender of thick rain, the friend of water and the on who courses
-swiftly in the path of the sky."
+"He has seven green horses, is thousand-rayed, full of rays, the destroyer of
+darkness, the source of happiness, maker of thinness, the infuser of life in the lifeless cosmic
+egg and radiant."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
@@ -490,17 +491,17 @@ in the evening and the destroyer of frost."
 
 **पदच्छेदः**
 
-*11. haridashvaH sapta saptiH* = he has seven green horses;
-*mariichimaan* = full of rays; *timironmathanaH* = the destroyer of darkness;
-*shambhuH* = the source of happiness; *tvaShTaa* = maker of thinness;
-*maartaN^DakaH* = the infuser of life in the lifeless cosmic egg; *amshumaan* = and
-radiant.
+*13. vyomanaathaHi* = (He is) the lord of the sky; *tamobhedii*
+= disperser of darkness; *R^igyajuH saamapaaragaH* = the master of the three Vedas (Rik;
+Sama and Yajur); *ghana vR^iShTiH* = the sender of thick rain; *mitraH* = the friend;
+*apaam* = of water; *vindhyaviithiiplavangamaH* = and the one who courses swiftly in
+the path of the sky.
 
 **अनुवादः**
 
-"He has seven green horses, is thousand-rayed, full of rays, the destroyer of
-darkness, the source of happiness, maker of thinness, the infuser of life in the lifeless cosmic
-egg and radiant."
+"He is the lord of the sky, the disperser of darkness, the master of the three Vedas
+(Viz. Rik, Sama and Yajur), the sender of thick rain, the friend of water and the on who courses
+swiftly in the path of the sky."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
@@ -508,6 +509,26 @@ egg and radiant."
 <details><summary>अनुवाद (कन्नड)</summary>
 
 आदित्य (आदिति पुत्र), सविता (जगत्तन्नु सृष्टिसुववनु), सूर्य (सर्वव्यापक), खग (आकाश सञ्चारि), पूषा (पोषिसुववनु), गभस्तिमान् (प्रकाशवन्तॆ) सुवर्णसदृश, भानु (प्रकाशक), हिरण्यरेता (ब्रह्माण्डद उत्पत्तिय बीज), दिवाकर (हगलिनल्लि प्रकाश हरडुववनु), हरिदश्व (दिक्कुगळल्लि व्यापक हागू हसिरु बण्णद कुदुरॆयुळ्ळवनु), सहस्रार्चि (साविरारु किरणगळिन्द शोभित), सप्तसप्ति (एळु कुदुरॆवुळ्ळवनु), मरीचिमान् (किरणगळिन्द सुशोभित), तिम्मिरोन्मथन (अन्धकारवन्नु नाश माडुववनु), शम्भु (कल्याणद उगमस्थान), त्वष्टा (भक्तर दुःखवन्नु दूरगॊळिसि अथवा जगत्तिन संहार माडुववनु), मार्ताण्डक (ब्रह्माण्डक्कॆ जीव तुम्बुववनु), अंशुमान् (किरणगळन्नु धरिसुववनु), हिरण्यगर्भ (ब्रह्मा), शिशिर (स्वाभाविक सुखकोडुववनु), तपन (सॆकॆ उण्टु माडुववनु), अहस्कर (दिनकर), रवि (ऎल्लर स्तुतिपात्र), अग्निगर्भ (अग्नियन्नु गर्भदल्लि धरिसिदवनु), अदिति पुत्र, शङ्ख (आनन्द स्वरूप हागू व्यापक), शिशिरनाशन (शीतवन्नु नाशमाडुववनु), व्योमनाथ (आकाशद स्वामि), तमोभेदि (अन्धकारवन्नु नाश माडुववनु), ऋक्, यजुः, सामवेदगळल्लि पारङ्गत, घनवृष्टि (भारी मळॆगरॆयु ववनु), अपाम्मित्र (नीरन्नु उत्पन्न माडुववनु), विन्द्यवीथीप्लवङ्गम (आकाशदल्लि तीव्रवागि नडॆयुववनु), आतपी (बॆवरन्नु उण्टुमाडुववनु), मण्डली (किरणगळन्नु धरिसुववनु), मृत्यु (मृत्युविन कारण), पिङ्गळ (पिङ्गळ वर्णदवनु), सर्वतापन (ऎल्लरिगू तापदायकनु), कवि (त्रिकालदर्शि), विश्व (सर्व स्वरूप), महातेजस्वी, रक्त (कॆम्पु बण्णवुळ्ळवनु), सर्वभवोद्भव (ऎल्लर उत्पत्तिगॆ कारणनु), नक्षत्र, ग्रह, तारॆगळ ऒडॆयनु, विश्वभावन (जगत्तन्नु रक्षिसुववनु), तेजस्विगळल्लियू अति तेजस्वी हागू द्वादशात्मा (हन्नॆरडु स्वरूपगळल्लि अभिव्यक्तनू) इवॆल्लवू अवन हॆसरुगळे आगिवॆ.॥10-15॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. aatapii* = (He is) the radiator of heat; *maN^Dalii* = and
+adorned with a circle of rays; *mR^ityuH* = He is death (himself); *piN^galaH* =
+tawny of hue; *sarva taapanaH* = giver of warmth to all; *kaviH* = (He is) omniscent;
+*vishvaH* = all-formed; *mahaatejaaH* = endowed with extra-ordinary splendour;
+*raktaH* = the one who has an affection in all; *sarvabhavodbhavaH* = and the source
+of all evolutes.
+
+**अनुवादः**
+
+"He is the radiator of heat and adrned with a circle of rays. He is death himself,
+tawny of hue, a giver of warmth to all, omniscent, all-formed, endowed with extra-ordinary
+splendour, the one who has an affection in all and the source of all evolutes."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -524,27 +545,6 @@ twelve forms (in the shape of twelve months in a year); *te namaH astu* = hail t
 "He is the controller of all lunar mansions, planets and stars, the creator of all
 and the resplendent among the splendid. O god, appearing in twelve forms (in the shape of twelve
 months in a year), hail to you."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*10. aadityaH* = an off-spring of Aditi; *savitaa* = the
-progenitor of all; *suuryaH* = Surya; the sun-god and the provocator of acts in people;
-*khagaH* = the courser in the sky; *puuShaa* = the nourisher of all with rain;
-*gabhastimaan* = the possessor of rays; *suvarNa sadR^ishaH* = the golden;
-*bhaanuH* = the brilliant; *hiraNya retaaH* = having golden seed; *divaakraH*
-= and the maker of the day.
-
-**अनुवादः**
-
-"An off-spring of Aditi, the progenitor of all, Surya the sun-god and the provocator
-of acts in people, the courser in the sky, the nourisher of all iwth rain, the possessor of rays
-the golden, the brilliant, having golden seed whose energy constitutes the seed of the universe and
-the maker of the day."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>
@@ -1151,6 +1151,24 @@ _________________
 
 **पदच्छेदः**
 
+*28. shrutvaa* = hearing; *etat* = this; *mahaatejaaH* =
+Rama; of extraordinary energy; *tadaa* = then; *abhavat* = became; *naShTa
+shokaH* = bereft of anguish; *supriitaH* = feeling greatly delighted; *raaghavaH*
+= Rama; *dhaarayaamaasa* = retained in memory; (that hymn of praise of the sun-god);
+*prayataatmavaan* = with a devoted mind.
+
+**अनुवादः**
+
+Hearing this, Rama of extra ordinary energy, then became bereft of anguish. Feeling
+greatly delighted, Rama retained that hymn in his memory with a devoted mind.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 29; *30. aachamya* = sipping the water; *triH* = thrice;
 *shuchiH bhuutvaa* = and getting purified; *prekShya* = looking intently;
 *aadityam* = on the orb of the sun; *japtvaa* = and repeating this prayer;
@@ -1167,24 +1185,6 @@ Sipping the water thrice and getting purified looking intently on the orb of the
 and repeating this prayer, the valiant Rama obtained a great rejoice. Seizing hold of his bow and
 seeing Ravana, Rama felt delighted in mind and marched forward for the fight. He stood voed to kill
 Ravana, with an intense and all-sided effort.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*28. shrutvaa* = hearing; *etat* = this; *mahaatejaaH* =
-Rama; of extraordinary energy; *tadaa* = then; *abhavat* = became; *naShTa
-shokaH* = bereft of anguish; *supriitaH* = feeling greatly delighted; *raaghavaH*
-= Rama; *dhaarayaamaasa* = retained in memory; (that hymn of praise of the sun-god);
-*prayataatmavaan* = with a devoted mind.
-
-**अनुवादः**
-
-Hearing this, Rama of extra ordinary energy, then became bereft of anguish. Feeling
-greatly delighted, Rama retained that hymn in his memory with a devoted mind.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddhasans105.htm)
 </details>

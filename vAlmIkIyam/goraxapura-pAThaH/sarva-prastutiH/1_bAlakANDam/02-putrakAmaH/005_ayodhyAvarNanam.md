@@ -957,44 +957,6 @@ _________________
 
 **पदच्छेदः**
 
-*21. simhavyaaghravaraahaaNaam* = lions, tigers, wild boars; *mattaanaam nardataam
-vane* = fattened ones, roaring, in forests; *hantaaraH nishitaiH shastraiH* = killers,
-with sharp, weapons; *balaat baahubalaiH api* = with might by arms might also.
-
-**अनुवादः**
-
-They kill the fattened and roaring lions, tigers and wild boars with the might of their sharp
-weaponry, or even with the might of their own arms alone. [1-4-21]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-आ राष्ट्रद सैनिकरु बाणप्रयोगदल्लि निपुणरू कैचळकवुळ्ळवरू, शस्त्रास्त्र विशारदरू आगिद्दरू, अवरु असहायकनन्नु, एकमात्र पुत्रनिरुववनन्नु पलायन माडुववनन्नु, अडगिकॊण्डिरुववनन्नु, कॊल्लुत्तिरलिल्ल. काडिनल्लि गर्जिसुव सिंह, हुलि, काडुहन्दि मॊदलाद दुष्ट मृगगळन्न कॊल्ललु अवरु समर्थरागिद्दरु. इन्तह साविरारु महारथिगळिन्द अयोध्यॆयु तुम्बिद्दितु. इन्तह महानगरियन्नु दशरथ महाराजनु हिन्दिनवरिगिन्त चॆन्नागि आळुत्तिद्दनु.॥20-22॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*22. taadR^ishaanaam sahasraiH* = that kind of, with thousands [of archers]; *taam
-abhipuurNaam mahaarathaiH* = in her [in city,] filled with, great chariot-warriors;
-*puriim aavaasayaamaasa* = dwelling in the city; *raajaa dasharathaH tadaa*
-= king, Dasharatha, then.
-
-**अनुवादः**
-
-With that kind of thousands of archers, and with speediest chariot-warriors she that Ayodhya
-is filled with, and King Dasharatha made his abode in such a city. [1-5-22]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *20. ye cha baaNaiH na vidhyanti* = those not killed with arrows also; *viviktam
 aparaaparam* = lone one, at his hind [without a successor,] at his fore [without a predecessor];
 *shabdavedhyam cha vitatam* = killing by sound also fleeing away; *laghuhastaaH
@@ -1016,6 +978,44 @@ grumble and swung his arrow that way, killing the boy. Thereby the father of the
 a sage of eminence, cursed Dasharatha to die lamenting for his son, which happens after the
 exile of Rama. Perhaps the sonic-archery may thus have been banned in Ayodhya, lest such sad
 incidents would have recurred.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+आ राष्ट्रद सैनिकरु बाणप्रयोगदल्लि निपुणरू कैचळकवुळ्ळवरू, शस्त्रास्त्र विशारदरू आगिद्दरू, अवरु असहायकनन्नु, एकमात्र पुत्रनिरुववनन्नु पलायन माडुववनन्नु, अडगिकॊण्डिरुववनन्नु, कॊल्लुत्तिरलिल्ल. काडिनल्लि गर्जिसुव सिंह, हुलि, काडुहन्दि मॊदलाद दुष्ट मृगगळन्न कॊल्ललु अवरु समर्थरागिद्दरु. इन्तह साविरारु महारथिगळिन्द अयोध्यॆयु तुम्बिद्दितु. इन्तह महानगरियन्नु दशरथ महाराजनु हिन्दिनवरिगिन्त चॆन्नागि आळुत्तिद्दनु.॥20-22॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*21. simhavyaaghravaraahaaNaam* = lions, tigers, wild boars; *mattaanaam nardataam
+vane* = fattened ones, roaring, in forests; *hantaaraH nishitaiH shastraiH* = killers,
+with sharp, weapons; *balaat baahubalaiH api* = with might by arms might also.
+
+**अनुवादः**
+
+They kill the fattened and roaring lions, tigers and wild boars with the might of their sharp
+weaponry, or even with the might of their own arms alone. [1-4-21]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*22. taadR^ishaanaam sahasraiH* = that kind of, with thousands [of archers]; *taam
+abhipuurNaam mahaarathaiH* = in her [in city,] filled with, great chariot-warriors;
+*puriim aavaasayaamaasa* = dwelling in the city; *raajaa dasharathaH tadaa*
+= king, Dasharatha, then.
+
+**अनुवादः**
+
+With that kind of thousands of archers, and with speediest chariot-warriors she that Ayodhya
+is filled with, and King Dasharatha made his abode in such a city. [1-5-22]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga5/balasans5.htm)
 </details>

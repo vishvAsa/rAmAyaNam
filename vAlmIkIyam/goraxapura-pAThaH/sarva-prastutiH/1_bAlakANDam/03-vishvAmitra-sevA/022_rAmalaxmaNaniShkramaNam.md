@@ -438,23 +438,6 @@ _________________
 
 **पदच्छेदः**
 
-10b, 11a. *adhyardhayojanam gatvaa* = on going one and half yojana;
- *sarayvaaH dakShiNe taTe* = Sarayu river's, southern bank; Vishvamitra;
- *raama iti madhuraam vaaNiim* = 'oh Rama', thus, in harmonious, voice;
- *abhyabhaaSata* = spoke.
-
-**अनुवादः**
-
-And on going one and half yojana distance Vishvamitra addressed Rama in a harmonious
- voice calling, 'oh, Rama', on the southern riverbank of Sarayu. [1-22-10b, 11a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 8, 9, 10a.* tataH* = then; *kumaarau* = youngsters; *chaaruvapuSau*
  = charming bodied ones; *svalankR^itau* = bejewelled ones; *dhanuSpaaNii*
  = bow in hands; *baddhagodhaangulitraaNau* = tied leathern
@@ -484,6 +467,23 @@ two, one Ganesha and the other Kumara, of which Kumara is the Army General of Go
 to Maha Bharata, Kumara is said to have become four in a split-second, known as 1- Skanda,
 2- Vishaakha, 3- Shaaka, 4- Naigamesha. Here the first two aspects of Kumara, namely Skanda
 and Vishaakha, are incorporated in simile to Rama and Lakshmana.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+10b, 11a. *adhyardhayojanam gatvaa* = on going one and half yojana;
+ *sarayvaaH dakShiNe taTe* = Sarayu river's, southern bank; Vishvamitra;
+ *raama iti madhuraam vaaNiim* = 'oh Rama', thus, in harmonious, voice;
+ *abhyabhaaSata* = spoke.
+
+**अनुवादः**
+
+And on going one and half yojana distance Vishvamitra addressed Rama in a harmonious
+ voice calling, 'oh, Rama', on the southern riverbank of Sarayu. [1-22-10b, 11a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>
@@ -527,24 +527,6 @@ and Vishaakha, are incorporated in simile to Rama and Lakshmana.
 
 **पदच्छेदः**
 
-*12b, 13a. te* = to you; *shramaH* = tiredness; *na* = not
- - will not be there; *jvaraH vaa na* = fever, or, no; *ruupasya viparyayaH
- na* = form - personality, misshaping, no; *suptam vaa pramattam* =
- sleeping, either, [or] unvigilant; *nairR^itaaH* = demons; *na dharSayiSyanti* = not, attack [you.]
-
-**अनुवादः**
-
-"On receiving these hymns neither tiredness nor fever, nor disfiguring of personality
- can effect you, nor the demons can charge you either you are sleeping or unvigilant.
- [1-11-12b, 13a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11b, 12a. vatsa salilam gR^ihaaNa* = my boy, you take water; *tvam
  tathaa* = you, like that; *mantragraamam* = group of hymns; *balaam
  atibalaam* = bala, atibala hymns; *gR^ihaaNa* = receive; *kaalasya
@@ -561,6 +543,24 @@ and Vishaakha, are incorporated in simile to Rama and Lakshmana.
 Since the Vedic hymns cannot be taught after sunset, now it shall be evening time
  before sunset, when oblations will be offered at sunset, and hence no time lapse
  is envisaged. Govindaraja.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12b, 13a. te* = to you; *shramaH* = tiredness; *na* = not
+ - will not be there; *jvaraH vaa na* = fever, or, no; *ruupasya viparyayaH
+ na* = form - personality, misshaping, no; *suptam vaa pramattam* =
+ sleeping, either, [or] unvigilant; *nairR^itaaH* = demons; *na dharSayiSyanti* = not, attack [you.]
+
+**अनुवादः**
+
+"On receiving these hymns neither tiredness nor fever, nor disfiguring of personality
+ can effect you, nor the demons can charge you either you are sleeping or unvigilant.
+ [1-11-12b, 13a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga22/balasans22.htm)
 </details>

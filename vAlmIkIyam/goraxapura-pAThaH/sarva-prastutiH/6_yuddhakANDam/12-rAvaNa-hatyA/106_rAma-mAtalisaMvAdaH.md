@@ -487,23 +487,6 @@ and not teaching you."
 
 **पदच्छेदः**
 
-*15. kurvan* = passing; *mahaa ratham* = the huge chariot;
-*raavaNasya* = of Ravana; *apasavyam* = on the right; *tataH* = (the
-charioteer) then; *raavaNam* = (set) Ravana; *vyavadhuunayam* = shaking; *chakra
-sambhuuta rajasaa* = by the dust risen from the wheels (of his own chariot).
-
-**अनुवादः**
-
-Passing the huge chariot of Ravana on the right, the charioteer then set Ravana
-shaking, by the dust risen from the wheels of his own chariot.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *14. parituShTaH* = extremely gratified; *tena vaakyena* = with
 those words; *raamasya* = of Rama; *saH maataliH* = that Matali; *uttamaH* =
 the excellent; *sura saarathiH* = charioteer of gods; *prachodayaamaase* = drove on;
@@ -513,6 +496,23 @@ the excellent; *sura saarathiH* = charioteer of gods; *prachodayaamaase* = drove
 
 Extremely gratified with those words of Rama, that Matali the excellent charioteer
 of gods drove on the chariot.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*15. kurvan* = passing; *mahaa ratham* = the huge chariot;
+*raavaNasya* = of Ravana; *apasavyam* = on the right; *tataH* = (the
+charioteer) then; *raavaNam* = (set) Ravana; *vyavadhuunayam* = shaking; *chakra
+sambhuuta rajasaa* = by the dust risen from the wheels (of his own chariot).
+
+**अनुवादः**
+
+Passing the huge chariot of Ravana on the right, the charioteer then set Ravana
+shaking, by the dust risen from the wheels of his own chariot.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga106/yuddhasans106.htm)
 </details>

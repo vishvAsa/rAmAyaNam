@@ -1976,6 +1976,24 @@ a rattan plant, cane. [1-14-39]
 
 **पदच्छेदः**
 
+*40. braahmaNaiH* = by penultimate parts of Veda-s; *kalpasuutreNa* = according
+to kalpa rules; *tryahaH* = for three days; *ashwamedhaH samkhyaataH* = Horse
+ritual, is said [ to be performed]; *tasya prathamam ahaH chatuSTomaH parikalpitam*
+= chatuhSToma is arranged on its first day.
+
+**अनुवादः**
+
+The Horse Ritual is to be performed for three days as laid down in *kalpasutra*-s,
+the rules governing such rituals, and by *braahmaNa*-s, the penultimate parts of Veda-s,
+and the one performed on the first day is called *chatuSToma* ritual. [1-14-40]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *41. dvitiiyam ukthyam* = second one, is ukthyam; *tathaa uttaram atiraatram samkhyaatam*
 = likewise, later one, said to be as atiraatra; *tatra* = in that ritual; *shaastradarshanaat*
 = as scriptures, have envisaged; *vihitaaH bahavaH kaaritaaH* = as
@@ -1991,24 +2009,6 @@ there in that ritual as envisaged in scriptures. [1-14-41]
 
 The horse-ritual is conducted only for three days. But Dasharatha got it performed with more
 variously connected rituals, in all his eagerness to appease gods for progeny.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*40. braahmaNaiH* = by penultimate parts of Veda-s; *kalpasuutreNa* = according
-to kalpa rules; *tryahaH* = for three days; *ashwamedhaH samkhyaataH* = Horse
-ritual, is said [ to be performed]; *tasya prathamam ahaH chatuSTomaH parikalpitam*
-= chatuhSToma is arranged on its first day.
-
-**अनुवादः**
-
-The Horse Ritual is to be performed for three days as laid down in *kalpasutra*-s,
-the rules governing such rituals, and by *braahmaNa*-s, the penultimate parts of Veda-s,
-and the one performed on the first day is called *chatuSToma* ritual. [1-14-40]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga14/balasans14.htm)
 </details>

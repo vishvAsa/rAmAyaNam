@@ -520,24 +520,6 @@ _________________
 
 **पदच्छेदः**
 
-12. (He mounted the aerial car); *lakShmaNena saha* = along with
-Lakshmana; *bhraatraa* = his brother; *vikraantena* = who was valiant;
-*dhanuShmataa* = wielding a bow; *aadaaya* = taking; *yashasviniim* = the
-illustrious; *vaidehiim* = Seetha; *lajjamaanaam* = who was feeling abashed;
-*aN^kena* = in his arms.
-
-**अनुवादः**
-
-He mounted the aerial car along with Lakshmana, his valiant brother wielding a bow
-and taking the illustrious Seetha, who was feeling abashed, in his arms.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *11. tataH* = thereafter; *dR^iShTvaa* = having seen; *taan
 hariyuuthapaan* = those commanders of monkey-troops; *puujitaan* = honoured;
 *ratnaarthaiH* = with precious stones and gold; *raamaH* = Rama; *tadaa* =
@@ -548,6 +530,24 @@ then; *aaruroha* = mounted; *tat* = that; *anuttamam* = excellent;
 
 Thereafter, having seen on that occasion all those commanders of monkey-troops
 honoured with precious stones and gold, Rama then mounted that excellent aerial car.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+12. (He mounted the aerial car); *lakShmaNena saha* = along with
+Lakshmana; *bhraatraa* = his brother; *vikraantena* = who was valiant;
+*dhanuShmataa* = wielding a bow; *aadaaya* = taking; *yashasviniim* = the
+illustrious; *vaidehiim* = Seetha; *lajjamaanaam* = who was feeling abashed;
+*aN^kena* = in his arms.
+
+**अनुवादः**
+
+He mounted the aerial car along with Lakshmana, his valiant brother wielding a bow
+and taking the illustrious Seetha, who was feeling abashed, in his arms.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga122/yuddhasans122.htm)
 </details>

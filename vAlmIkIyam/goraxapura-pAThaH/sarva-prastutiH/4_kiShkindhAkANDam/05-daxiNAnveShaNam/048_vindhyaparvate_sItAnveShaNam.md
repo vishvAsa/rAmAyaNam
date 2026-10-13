@@ -132,23 +132,6 @@ _________________
 
 **पदच्छेदः**
 
-*4. viiraaH te vaanaraaH* = brave ones, those, vanara-s; *sarve
-sarvataH disham* = all, in all, quarters; *anveSamaaNaaH* = while searching;
-*maithiliim janaka aatmajaam siitaam* = Maithili, Janaka's, daughter, Seetha; *na
-dadR^ishuH* = not, seen.
-
-**अनुवादः**
-
-Though all of those brave vanara-s have searched in all directions they have not
-noticed the princess of Mithila and the daughter of Janaka, namely Seetha. [4-48-4]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *2, 3. saH* = he Hanuma; *sarvaiH taiH kapi sattamaiH* = with
 all, of them, monkey, powerful ones; *duuram upaagamya* = remote [place,] arriving at;
 *tataH* = then; *vindhyasya guhaaH ca gahanaani ca* = Vindhya mountain's, caves,
@@ -163,6 +146,23 @@ Arriving at a remote place with all of those powerful monkeys, then Hanuma searc
 the caves and forests of Vindhya Mountains, and on their mountaintops, at impassable places, at
 rivers and lakes, and in stands of trees with beamy trees, also on diverse mountains, forests and
 trees. [4-48-2, 3]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*4. viiraaH te vaanaraaH* = brave ones, those, vanara-s; *sarve
+sarvataH disham* = all, in all, quarters; *anveSamaaNaaH* = while searching;
+*maithiliim janaka aatmajaam siitaam* = Maithili, Janaka's, daughter, Seetha; *na
+dadR^ishuH* = not, seen.
+
+**अनुवादः**
+
+Though all of those brave vanara-s have searched in all directions they have not
+noticed the princess of Mithila and the daughter of Janaka, namely Seetha. [4-48-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
@@ -713,6 +713,23 @@ uninhabitable and impermeable forest abandoned by birds and animals. [4-48-14b, 
 
 **पदच्छेदः**
 
+*15b, 16a. te* = those [monkeys]; *samaahitaaH* =
+conscientiously; *tasya* = its [that forest's]; *kaanana antaan tu* = forest, up to
+its fringes, but; *giriiNaam kandaraaNi ca* = mountains, caves, even; *nadiinaam* =
+of rivers; *prabhavaaNi ca* = fountains, also; *vicinvanti* = searched.
+
+**अनुवादः**
+
+But those monkeys conscientiously searched such a forest up to its fringes,
+including its mountains, caves, fountains, and rivers. [4-48-15b, 16a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *16b, 17a. mahaatmaanaH* = noble-mined ones [monkeys]; *sugriiva
 priya kaariNaH* = to Sugreeva, acceptable deeds, perfecters of; *tatra ca api* = there,
 also, even; *janaka aatmajaam* = Janaka's, daughter; *hartaaram raavaNam vaa api* =
@@ -724,23 +741,6 @@ forest.
 But not finding the daughter of Janaka or even her kidnapper Ravana there, those
 monkeys who are the perfecters of that which is acceptable to Sugreeva, have entered another
 fearsome forest. [4-48-16b, 17a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*15b, 16a. te* = those [monkeys]; *samaahitaaH* =
-conscientiously; *tasya* = its [that forest's]; *kaanana antaan tu* = forest, up to
-its fringes, but; *giriiNaam kandaraaNi ca* = mountains, caves, even; *nadiinaam* =
-of rivers; *prabhavaaNi ca* = fountains, also; *vicinvanti* = searched.
-
-**अनुवादः**
-
-But those monkeys conscientiously searched such a forest up to its fringes,
-including its mountains, caves, fountains, and rivers. [4-48-15b, 16a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>
@@ -989,6 +989,23 @@ _________________
 
 **पदच्छेदः**
 
+*21b, 22a. vaali putra abhihataH* = by Vali's, son, one who is whacked;
+*saH asuraH* = he, that demon; *vaktraat shoNitam ud vaman* = from throat, blood, up
+spewed [spewed forth]; *paryasta* = upside down - inverted; *bhuumau* = on ground;
+*parvataH iva* = mountain, alike; *nyapatat* = fell down.
+
+**अनुवादः**
+
+When Vali's son whacked him that demon spewed forth blood from his throat and fell
+onto ground alike an inverted mountain. [4-48-21b, 22a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *22b, 23a. tasmin* = he [demon]; *nir ucChvaase* = without,
 exhales [breathed his last]; *jita kaashinaH* = with triumphal, shimmer; *te* = those
 [monkeys]; *tatra* = there; *praayashaH* = wellnigh; *sarvam tat giri gahvaram
@@ -999,23 +1016,6 @@ vyacinvan* = all, that [demon's,] mountain, cave, they searched.
 When that demon breathed his last all of those monkeys with triumphal shimmer have
 wellnigh searched everywhere, and even in that cave of that mountain where that demon appeared,
 presuming that cave belonged to Ravana. [4-48-22b, 23a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*21b, 22a. vaali putra abhihataH* = by Vali's, son, one who is whacked;
-*saH asuraH* = he, that demon; *vaktraat shoNitam ud vaman* = from throat, blood, up
-spewed [spewed forth]; *paryasta* = upside down - inverted; *bhuumau* = on ground;
-*parvataH iva* = mountain, alike; *nyapatat* = fell down.
-
-**अनुवादः**
-
-When Vali's son whacked him that demon spewed forth blood from his throat and fell
-onto ground alike an inverted mountain. [4-48-21b, 22a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga48/kishkindhasans48.htm)
 </details>

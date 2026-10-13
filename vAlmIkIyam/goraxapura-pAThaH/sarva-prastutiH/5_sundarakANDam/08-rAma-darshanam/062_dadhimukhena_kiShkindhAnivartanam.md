@@ -136,22 +136,6 @@ _________________
 
 **पदच्छेदः**
 
-*3. vaakyam* = the words; *akaaryam api* = though improper; *kR^ita
-kaaryasya* = who has accomplished his work; to be obliged; *avashyam* = certainly; *mayaa*
-= by me; *kim aN^ga* = wherefore then; *iidR^isham punaH* = moreover; on such an occasion?
-
-**अनुवादः**
-
-"The words, though improper of Hanuma who had accomplished his task, are to be obliged
-certainly by me. Wherefore then, moreover, on such an occasion?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *2. shrutvaa* = hearing; *vaakyam* = the words; *hanumataH*
 = of Hanuma; *prasannaatmaa* = the gracious minded; *aN^gadaH* = Angada; *pratyuvaacha*
 = repeated the following words; *harayaH* = (Let) the monkeys; *pibantu* = drink; *
@@ -161,6 +145,22 @@ madhu* = the honey.
 
 Hearing the words of Hanuma, the gracious minded Angada the principal among the monkeys
 repeated the words: "Let the monkeys drink the honey."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*3. vaakyam* = the words; *akaaryam api* = though improper; *kR^ita
+kaaryasya* = who has accomplished his work; to be obliged; *avashyam* = certainly; *mayaa*
+= by me; *kim aN^ga* = wherefore then; *iidR^isham punaH* = moreover; on such an occasion?
+
+**अनुवादः**
+
+"The words, though improper of Hanuma who had accomplished his task, are to be obliged
+certainly by me. Wherefore then, moreover, on such an occasion?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
@@ -474,15 +474,17 @@ _________________
 
 **पदच्छेदः**
 
-*11. apare* = some others; *gR^ihya* = seizing; *shaakhaam*
-= a branch of a tree; *vyavasthitaaH* = settled; *vR^ikSa muule* = at the foot of a tree;
-*atyartham mada glaanaaH* = those who were highly intoxicated; *sherate* = laid down;
-*aastiirNa parNaani* = spreading leaves.
+*10. kechit* = some monkeys; *madhu piN^galaaH* = with their skin-colour;
+as yellow as honey; *piitvaa* = having drunk; *madhuuni* = vessels of honey; *pravidhyanti*
+= were throwing (some honey) away; *kechichcha* = some others; *madhu uchchhiShThena*
+= with remnant of honey after drinking; *jagmuH* = whipped up; *anyonyam* = one another;
+*utkaTaaH* = with excessive intoxication.
 
 **अनुवादः**
 
-Some others, seizing a branch of a tree, stood rooted at the foot of a tree. Some, who
-were highly intoxicated, laid down spreading leaves on the ground.
+Some monkeys, with their skin-colour as yellow as honey, after drinking vessels of honey,
+also threw some honey away. Some others, with the remnant of honey in their arms, after drinking, whipped
+up one another with their excessive intoxication.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
@@ -496,17 +498,15 @@ were highly intoxicated, laid down spreading leaves on the ground.
 
 **पदच्छेदः**
 
-*10. kechit* = some monkeys; *madhu piN^galaaH* = with their skin-colour;
-as yellow as honey; *piitvaa* = having drunk; *madhuuni* = vessels of honey; *pravidhyanti*
-= were throwing (some honey) away; *kechichcha* = some others; *madhu uchchhiShThena*
-= with remnant of honey after drinking; *jagmuH* = whipped up; *anyonyam* = one another;
-*utkaTaaH* = with excessive intoxication.
+*11. apare* = some others; *gR^ihya* = seizing; *shaakhaam*
+= a branch of a tree; *vyavasthitaaH* = settled; *vR^ikSa muule* = at the foot of a tree;
+*atyartham mada glaanaaH* = those who were highly intoxicated; *sherate* = laid down;
+*aastiirNa parNaani* = spreading leaves.
 
 **अनुवादः**
 
-Some monkeys, with their skin-colour as yellow as honey, after drinking vessels of honey,
-also threw some honey away. Some others, with the remnant of honey in their arms, after drinking, whipped
-up one another with their excessive intoxication.
+Some others, seizing a branch of a tree, stood rooted at the foot of a tree. Some, who
+were highly intoxicated, laid down spreading leaves on the ground.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
@@ -705,15 +705,16 @@ _________________
 
 **पदच्छेदः**
 
-*16. prakR^iSTaaH* = dragged; *jaanubhiH* = by their knees; *pradarshitaaH*
-= those honey-keepers who were shown; *deva maargam* = the air; *parama udvignaaH* = were
-very much depressed; *gatvaa* = and having gone; *dadhimukham* = to Dadhimukha; *abruvan
-vachaH* = spoke the (following) words.
+*15. madhu paalaaH* = the honey-keepers; *ye* = who; *syuH*
+= were there; *preShyaaH* = as messengers; *dadhimukhasya* = of Dadhimukha; *te.api*
+= they also; *atra* = in that Madhuvana; *pratiShiddhaaH* = were warded off; *bhiimaiH
+vaanaraiH* = by the terrific monkeys; *gataaH* = and went; *dishaH* = towards different
+directions.
 
 **अनुवादः**
 
-Dragged by their knees and tossed up in the air by the monkeys, those honey-keepers were
-very much depressed, went to Dadhimukha and complained as follows:
+The honey-keepers, who were there as messengers of Dadhimukha in that Madhuvana, were
+warded off by the terrific monkeys and they fled to different directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
@@ -727,16 +728,15 @@ very much depressed, went to Dadhimukha and complained as follows:
 
 **पदच्छेदः**
 
-*15. madhu paalaaH* = the honey-keepers; *ye* = who; *syuH*
-= were there; *preShyaaH* = as messengers; *dadhimukhasya* = of Dadhimukha; *te.api*
-= they also; *atra* = in that Madhuvana; *pratiShiddhaaH* = were warded off; *bhiimaiH
-vaanaraiH* = by the terrific monkeys; *gataaH* = and went; *dishaH* = towards different
-directions.
+*16. prakR^iSTaaH* = dragged; *jaanubhiH* = by their knees; *pradarshitaaH*
+= those honey-keepers who were shown; *deva maargam* = the air; *parama udvignaaH* = were
+very much depressed; *gatvaa* = and having gone; *dadhimukham* = to Dadhimukha; *abruvan
+vachaH* = spoke the (following) words.
 
 **अनुवादः**
 
-The honey-keepers, who were there as messengers of Dadhimukha in that Madhuvana, were
-warded off by the terrific monkeys and they fled to different directions.
+Dragged by their knees and tossed up in the air by the monkeys, those honey-keepers were
+very much depressed, went to Dadhimukha and complained as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
@@ -1798,14 +1798,14 @@ _________________
 
 **पदच्छेदः**
 
-*38. dR^iSTvaa* = seeing; *raamam cha* = Rama; *lakShmaNam chaiva*
-= Lakshmana; *sugriivam eva cha* = and Sugreeva; *nipapaata* = (Dadhimukha) descended;
-*sama pratiShThaam jagatiim* = to a well-leveled ground; *aakaashaat* = from the sky.
+*37. saH vana aalayaH* = that Dadhimukha = the monkey; *praaptaH*
+= reached yatra = where; *dhiimaan sugriivaH vaanaraH* = that intelligent monkey; sugreeva (was
+there); *nimeSha antara maatreNa* = within an interval of only a moment.
 
 **अनुवादः**
 
-Seeing Rama, Lakshmana and Sugreeva, Dadhimukha descended to a level ground, from the
-sky.
+That Dadhimukha, the monkey, reached the place where that Sugreeva, the intelligent monkey
+was there, within an interval of only a moment.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>
@@ -1819,14 +1819,14 @@ sky.
 
 **पदच्छेदः**
 
-*37. saH vana aalayaH* = that Dadhimukha = the monkey; *praaptaH*
-= reached yatra = where; *dhiimaan sugriivaH vaanaraH* = that intelligent monkey; sugreeva (was
-there); *nimeSha antara maatreNa* = within an interval of only a moment.
+*38. dR^iSTvaa* = seeing; *raamam cha* = Rama; *lakShmaNam chaiva*
+= Lakshmana; *sugriivam eva cha* = and Sugreeva; *nipapaata* = (Dadhimukha) descended;
+*sama pratiShThaam jagatiim* = to a well-leveled ground; *aakaashaat* = from the sky.
 
 **अनुवादः**
 
-That Dadhimukha, the monkey, reached the place where that Sugreeva, the intelligent monkey
-was there, within an interval of only a moment.
+Seeing Rama, Lakshmana and Sugreeva, Dadhimukha descended to a level ground, from the
+sky.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga62/sundarasans62.htm)
 </details>

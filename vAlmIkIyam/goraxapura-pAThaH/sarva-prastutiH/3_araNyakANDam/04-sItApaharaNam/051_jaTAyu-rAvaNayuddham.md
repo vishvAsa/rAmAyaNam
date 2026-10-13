@@ -887,6 +887,22 @@ _________________
 
 **पदच्छेदः**
 
+*17. puurNa candra pratiikaasham* = full, moon, mirroring in shine; *Chatram ca* = parasol,
+also; *vyajanaiH saha* = white-fur-royal-fans, together with; *graahibhii raakshasaiH saha*
+= with handlers [of fans,] demons, along with; *vegena paatayaamaasa* = swiftly, started to collapse.
+
+**अनुवादः**
+
+Jataayu swiftly collapsed the parasol of Ravana which in shine is mirroring the full moon, along with
+the regalia of white-royal-fur-fans, together with the demons handling them for fanning Ravana. [3-51-17]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *18. punaH* = again; *mahaabalaH* = highly energetic one; *shriimaan* = imposing
 one; *pakshi raajaH* = bird's, king, Jataayu; *asya* = his [Ravana's]; *saaratheH*
 = of charioteer; *mahat shiraH* = robust, head; *vegena* = speedily; *tuNDena vyapaaharat*
@@ -896,22 +912,6 @@ one; *pakshi raajaH* = bird's, king, Jataayu; *asya* = his [Ravana's]; *saarathe
 
 Again that highly energetic and imposing king of birds pecked off the robust head of the charioteer
 of Ravana with beak. [3-51-18]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*17. puurNa candra pratiikaasham* = full, moon, mirroring in shine; *Chatram ca* = parasol,
-also; *vyajanaiH saha* = white-fur-royal-fans, together with; *graahibhii raakshasaiH saha*
-= with handlers [of fans,] demons, along with; *vegena paatayaamaasa* = swiftly, started to collapse.
-
-**अनुवादः**
-
-Jataayu swiftly collapsed the parasol of Ravana which in shine is mirroring the full moon, along with
-the regalia of white-royal-fur-fans, together with the demons handling them for fanning Ravana. [3-51-17]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>
@@ -1639,6 +1639,24 @@ Ravana. [3-51-32]
 
 **पदच्छेदः**
 
+*33. viiryavaan jaTaayuH* = valorous one, Jataayu; *evam shubham vaakyam uktvaa* = this
+way, auspicious [commonsensical,] words, on speaking; *rakSasaH tasya dashagriivasya pR^iSThe*
+= demon, his, Decahedron's, on hind-side, on back; *bhR^isham* = muchly [devastatingly]; *
+ni papaata* = down, fallen - descended on.
+
+**अनुवादः**
+
+Even on speaking those commonsensical words to Ravana, Jataayu found him carrying off Seetha heedlessly,
+then that valorous Jataayu descended on the hind-side of that Decahedral demon Ravana, devastatingly.
+[3-51-33]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *34. tam gR^ihiitvaa* = him [Ravana,] on taking [clasping]; *adhiruuDhaH* = one mounted
 upon - bestriding; *gaja aarohaH* = elephant, mounter - mahout; *duSTa vaaraNam* = bad,
 elephant - an uncontrollable elephant that is running amok; *yathaa* = as with; *syaat*
@@ -1650,24 +1668,6 @@ elephant - an uncontrollable elephant that is running amok; *yathaa* = as with; 
 On clasping Ravana with incisive claws Jataayu lacerated deeply and rampantly, as a mahout, an elephant-trainer-controller,
 sitting astride on it will try to control an uncontrollable elephant that is running amok with an incisive
 goad. [3-51-34]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*33. viiryavaan jaTaayuH* = valorous one, Jataayu; *evam shubham vaakyam uktvaa* = this
-way, auspicious [commonsensical,] words, on speaking; *rakSasaH tasya dashagriivasya pR^iSThe*
-= demon, his, Decahedron's, on hind-side, on back; *bhR^isham* = muchly [devastatingly]; *
-ni papaata* = down, fallen - descended on.
-
-**अनुवादः**
-
-Even on speaking those commonsensical words to Ravana, Jataayu found him carrying off Seetha heedlessly,
-then that valorous Jataayu descended on the hind-side of that Decahedral demon Ravana, devastatingly.
-[3-51-33]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm)
 </details>

@@ -184,24 +184,6 @@ is approaching Lanka.".
 
 **पदच्छेदः**
 
-*6. mahaaraaja* = O; *monarch! Balamcha* = the army;
-*aavR^itya* = is employed around; *aakaasham* = a space; *aayatam* =
-measuring; *sarvataH* = on all sides; *dashayojanam* = ten yojanas(ten miles);archasi
-= you are fit; *veditum* = to ascertain; *kshhipram* = quickly;
-*tattvabhuutam* = this truth.
-
-**अनुवादः**
-
-"O, monarch! Their army is employed around a radius of ten yojanas (eighty miles)on
-all sides. You have to ascertain this truth quickly"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 4; *5. imou* = these; *bhraatarou* = brothers;
 *raamalakshhmaNou* = Rama and Lakshmana; *putrou* = the sons; *dasharathasya*
 = of Dasaratha; *uttamou* = the excellent men; *ruupasampannou* = endowed with
@@ -214,6 +196,24 @@ beauty; *mahaadyuti* = very much dignified men; *aagatou* = have come; *padam*
 "These brothers Rama and Lakshmana, the sons of Dasaratha, the excellent and the
 most dignified men endowed with beauty have arrived in the cause of Sita and settled in a camp
 after reaching the sea shore" .
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*6. mahaaraaja* = O; *monarch! Balamcha* = the army;
+*aavR^itya* = is employed around; *aakaasham* = a space; *aayatam* =
+measuring; *sarvataH* = on all sides; *dashayojanam* = ten yojanas(ten miles);archasi
+= you are fit; *veditum* = to ascertain; *kshhipram* = quickly;
+*tattvabhuutam* = this truth.
+
+**अनुवादः**
+
+"O, monarch! Their army is employed around a radius of ten yojanas (eighty miles)on
+all sides. You have to ascertain this truth quickly"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
@@ -766,6 +766,24 @@ _________________
 
 **पदच्छेदः**
 
+*17. shukaH* = Shuka; *piiDyamaanaH* = being harassed;
+*vaanaraiH* = by monkeys; *abraviit* = spoke; *vachanam* = these words;
+*kakutthsa* = O; *Rama! Duutaan* = messengers; *naghnanti* = are not killed;
+*vaanaraaH* = let the monkeys; *vaaryantaam* = be restrained; *saadhu* =
+properly.
+
+**अनुवादः**
+
+Shuka being harassed by monkeys spoke the following words: "O, Rama! Messengers are
+not to be killed. Let your monkeys be restrained properly."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *18. yaH* = who; *hitvaa* = abandon; *matam* = the
 intent; *bhartuH* = of his lord; *samprabhaashhate* = will speak; *svamatam* =
 about his own intent; *duutaH sau* = through being a messenger; *saH duutaH* = that
@@ -777,24 +795,6 @@ messenger; *anukta vaadii* = who speaks which was not told; *arhati* = is fit;
 "That messenger, who by abandoning the opinion of his king will speak about his own
 opinion though he being a messenger and he who on the other hand speaks that which was not told to
 him, that messenger is indeed fit to be killed."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*17. shukaH* = Shuka; *piiDyamaanaH* = being harassed;
-*vaanaraiH* = by monkeys; *abraviit* = spoke; *vachanam* = these words;
-*kakutthsa* = O; *Rama! Duutaan* = messengers; *naghnanti* = are not killed;
-*vaanaraaH* = let the monkeys; *vaaryantaam* = be restrained; *saadhu* =
-properly.
-
-**अनुवादः**
-
-Shuka being harassed by monkeys spoke the following words: "O, Rama! Messengers are
-not to be killed. Let your monkeys be restrained properly."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
@@ -1365,24 +1365,6 @@ _________________
 
 **पदच्छेदः**
 
-*30. tataH* = thereafter; *angadaH* = Angada;
-*vaalisutaH* = the son of Vali; *harisattamaH* = and the foremost of the monkeys;
-*abraviit* = spoke; *(as follows) mahaa prajN^a* = O; *Sugriva the highly
-intelligent! ayam* = He; *na* = is not; *duutaH* = an ambassador;
-*pratibhaati* = he appears; *me* = to me; *chaarakaH* = as a spy.
-
-**अनुवादः**
-
-Thereafter, Angada the son of Vali and the foremost of the monkeys spoke as follows:
-"O, Sugriva the highly intelligent! He is not an ambassador. He appears to me as a spy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *29. na budhyase* = you are unaware; *mahaabalam* = how much
 strong; *mahaatmaanam* = high soled; *duraadarshham* = and irresistible; *surai
 rapi* = even to celestials; *Raghu shreshhTam* = is this excellent man of Raghu dynasty;
@@ -1393,6 +1375,24 @@ your lives.
 
 "You are unaware how strong, high soled and irresistible even to celestials, is this
 Rama the excellent man of Raghu dynasty, who shall deprive you of your life."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*30. tataH* = thereafter; *angadaH* = Angada;
+*vaalisutaH* = the son of Vali; *harisattamaH* = and the foremost of the monkeys;
+*abraviit* = spoke; *(as follows) mahaa prajN^a* = O; *Sugriva the highly
+intelligent! ayam* = He; *na* = is not; *duutaH* = an ambassador;
+*pratibhaati* = he appears; *me* = to me; *chaarakaH* = as a spy.
+
+**अनुवादः**
+
+Thereafter, Angada the son of Vali and the foremost of the monkeys spoke as follows:
+"O, Sugriva the highly intelligent! He is not an ambassador. He appears to me as a spy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>
@@ -1477,23 +1477,6 @@ captive. Let him not return to Lanka. This indeed finds favor with me."
 
 **पदच्छेदः**
 
-*33. samprapiiDitaah* = harassed; *taiH vaanaraiH* = by those
-monkeys; *chaN^DaiH* = who were fierce; *tatra* = there; *shukastu* = Shuka on
-his part; *vyaachukrosha* = cried loudly; *raamam* = to Rama; *mahaatmaanam* =
-the high soled; *dasharathaatmajam* = son of Dasaratha(as follows):
-
-**अनुवादः**
-
-Harassed by those monkeys there, Shuka on his part cried loudly towards Rama, the
-high soled son of Dasaratha as follows:
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *32. tataH* = then; *samaadishhTaaH* = commanded;
 *raajN^aa* = by the king Sugriva; *valiimukhaaH* = the monkeys; *samutpatya* =
 jumped up; *jagR^ihushcha* = seized; *babandhushcha* = and bound him;
@@ -1503,6 +1486,23 @@ jumped up; *jagR^ihushcha* = seized; *babandhushcha* = and bound him;
 
 Commanded then by the king Sugriva, the monkeys jumped up, seized and bound him, who
 without defence, wailed loudly.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*33. samprapiiDitaah* = harassed; *taiH vaanaraiH* = by those
+monkeys; *chaN^DaiH* = who were fierce; *tatra* = there; *shukastu* = Shuka on
+his part; *vyaachukrosha* = cried loudly; *raamam* = to Rama; *mahaatmaanam* =
+the high soled; *dasharathaatmajam* = son of Dasaratha(as follows):
+
+**अनुवादः**
+
+Harassed by those monkeys there, Shuka on his part cried loudly towards Rama, the
+high soled son of Dasaratha as follows:
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga20/yuddhasans20.htm)
 </details>

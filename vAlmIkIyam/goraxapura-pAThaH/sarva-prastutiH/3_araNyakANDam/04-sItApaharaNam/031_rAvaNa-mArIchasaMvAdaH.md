@@ -520,6 +520,22 @@ and trustfully. [3-31-9]
 
 **पदच्छेदः**
 
+*10. simha samhananaH* = lion like, in built; *yuvaa* = youthful one; *putraH dasharathaH*
+= son, of Dasharatha; *mahaa skandhaH* = with mighty shoulders; *vR^itta aayata mahaa bhujaH*
+= round, lengthy, with great arms; *raamaH naama* = Rama, one known as; *[asti* = is there.]
+
+**अनुवादः**
+
+"He is a youth whose shoulders are mighty, arms round and lengthy, built like that a lion, who is the
+son of Dasharatha and known as Rama. [3-31-10]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *11. That Rama is - shyaamaH* = blue-black - in complexion; *pR^ithu yashaaH* = highly,
 renowned one; *a tulya bala vikramaH* = not, matching, in might, in valour; *shriimaan*
 = a magnificent one; *tena* = by him; *janasthaane* = in Janasthaana; *saha duuSaNaH
@@ -529,22 +545,6 @@ kharaH ca* = with, Duushana, Khara, is also; *hataH* = killed.
 
 "He is blue-black in complexion, a highly renowned one with matchless might and valour, a magnificent
 one such as he is he slew Duushana along with Khara in Janasthaana." [3-31-11]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*10. simha samhananaH* = lion like, in built; *yuvaa* = youthful one; *putraH dasharathaH*
-= son, of Dasharatha; *mahaa skandhaH* = with mighty shoulders; *vR^itta aayata mahaa bhujaH*
-= round, lengthy, with great arms; *raamaH naama* = Rama, one known as; *[asti* = is there.]
-
-**अनुवादः**
-
-"He is a youth whose shoulders are mighty, arms round and lengthy, built like that a lion, who is the
-son of Dasharatha and known as Rama. [3-31-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>
@@ -1176,30 +1176,6 @@ swim, his *matsya* 'Fish...' incarnation is also suggested.
 
 **पदच्छेदः**
 
-*25. vibhuH* = lord Rama; *bhitvaa samudrasya velaam* = breaching, ocean's, shoreline;
-*lokaan aaplaavayet* = worlds, he will deluge; *samudrasya vegam vaa api* = of ocean,
-speed [turbulence,] or, even; *vaaayum vaa* = [or that causer of turbulence,] wind, even if;
-*sharaiH vi dhamet* = with arrows, verily, stalls.
-
-**अनुवादः**
-
-"On breaching the shoreline of the ocean with his arrows that lord Rama can deluge worlds, and he can
-stem the tide of turbulent ocean, or can even stall the agent of that turbulence, namely the wind. [3-31-25]
-
-**टिप्पनी**
-
-The deluging worlds suggest s*amkarSaNa* aspect. Govindaraja. Because he deluges all the worlds, he is
-*yuga antakaH* 'the epoch-ender...' The said 'Air' suggests other elements also, like Fire, Water etc.,
-as said in *pR^idvii apsu liiyate, aapaH tejasa liiyate* 'earth merges in waters, waters merges in fire...'
-thus he can stem the tide of all the elements, taking *samhR^itya* from the next verse. Tiirtha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *24. shriimaan asau raamaH tu* = magnificent one, that, Rama, on his part; *sa taaraa graha
 nakshatram* = with, starlets, planets, stars; *nabhaH ca api* = firmament, also, even that
 also; he can; *ava saadayet* = to down, he collapses; *siidantiim mahiim abhi uddharet*
@@ -1219,6 +1195,30 @@ earth is suggestive of *varaaha *'Wild Boar...' incarnation, where he uplifted d
 of a wild boar. And again *siidantii mahiim uddharet* where *mahi* is taken as people, and it is said 'when
 people on earth are sinking/collapsing under tyranny, he uplifts them...' as he is the ultimate absolver
 and terminator of the creation. Govindaraja and Tiirtha.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*25. vibhuH* = lord Rama; *bhitvaa samudrasya velaam* = breaching, ocean's, shoreline;
+*lokaan aaplaavayet* = worlds, he will deluge; *samudrasya vegam vaa api* = of ocean,
+speed [turbulence,] or, even; *vaaayum vaa* = [or that causer of turbulence,] wind, even if;
+*sharaiH vi dhamet* = with arrows, verily, stalls.
+
+**अनुवादः**
+
+"On breaching the shoreline of the ocean with his arrows that lord Rama can deluge worlds, and he can
+stem the tide of turbulent ocean, or can even stall the agent of that turbulence, namely the wind. [3-31-25]
+
+**टिप्पनी**
+
+The deluging worlds suggest s*amkarSaNa* aspect. Govindaraja. Because he deluges all the worlds, he is
+*yuga antakaH* 'the epoch-ender...' The said 'Air' suggests other elements also, like Fire, Water etc.,
+as said in *pR^idvii apsu liiyate, aapaH tejasa liiyate* 'earth merges in waters, waters merges in fire...'
+thus he can stem the tide of all the elements, taking *samhR^itya* from the next verse. Tiirtha.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyasans31.htm)
 </details>

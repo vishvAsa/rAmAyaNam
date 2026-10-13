@@ -524,14 +524,13 @@ _________________
 
 **पदच्छेदः**
 
-*16. gatiH bhavet* = there may be access; *vivasvataH tanuujasya* = to son
-of Sun God - Sugreeva; *hareH* = the monkey; *kushaparvaNaH* = Kusaparvana; *kapi mukhyasya R^ikshasa*
-= to the chief among monkeys Riksha; *mama cha eva* = and to me.
+*15. iyam* = this; *bhuumiH* = land; *prasiddhaa bhavet* = may become
+conquerable; *kumuda angadayorvaapi* = to Kumuda or Angada; *mahaa kapeH sushheNasya* = to the great
+monkey Sushena; *mainda dvividayorapi* = to Mainda or Dvivida.
 
 **अनुवादः**
 
-There may be access to this land to the son of Sun God Sugreeva, to the monkey Kusaparvana, to
-the chief among monkeys Riksha and to me.
+This land may be conquerable by Kumuda or Angada, to the great monkey Sushena or to Mainda or Dvivida.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
@@ -540,13 +539,14 @@ the chief among monkeys Riksha and to me.
 
 **पदच्छेदः**
 
-*15. iyam* = this; *bhuumiH* = land; *prasiddhaa bhavet* = may become
-conquerable; *kumuda angadayorvaapi* = to Kumuda or Angada; *mahaa kapeH sushheNasya* = to the great
-monkey Sushena; *mainda dvividayorapi* = to Mainda or Dvivida.
+*16. gatiH bhavet* = there may be access; *vivasvataH tanuujasya* = to son
+of Sun God - Sugreeva; *hareH* = the monkey; *kushaparvaNaH* = Kusaparvana; *kapi mukhyasya R^ikshasa*
+= to the chief among monkeys Riksha; *mama cha eva* = and to me.
 
 **अनुवादः**
 
-This land may be conquerable by Kumuda or Angada, to the great monkey Sushena or to Mainda or Dvivida.
+There may be access to this land to the son of Sun God Sugreeva, to the monkey Kusaparvana, to
+the chief among monkeys Riksha and to me.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
@@ -769,22 +769,6 @@ _________________
 
 **पदच्छेदः**
 
-*22. atishhThata* = stood; *purastaat* = in front; *vaayusuunoH* = of
-Hanuma; *kapivarasya* = the best among Vanaras; *munchamaanaa* = leaving; *mahaaa naada*
-= a great sound; *abraviit* = spoke; *pavanaatmajam* = to Hanuma.
-
-**अनुवादः**
-
-She stood in front of the best among Vanaras Hanuma. She made a great sound and spoke to Hanuma
-thus.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *21. dR^ishhTvaa* = seeing; *tam harivaram* = that Hanuma; *tatra* =
 there; *saa laN^kaa* = that Lanka; *raavaNa paalitaa* = ruled by Ravana; *uthitaa* = rose
 up; *svayameva* = herself; *vikR^ita aanana darshanaa* = with a horrific appearence of face and
@@ -794,6 +778,22 @@ eyes.
 
 Seeing that best among monkeys Hanuma there, that Lanka ruled by Ravana, rose up herself with a
 horrific appearance of face an eyes.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*22. atishhThata* = stood; *purastaat* = in front; *vaayusuunoH* = of
+Hanuma; *kapivarasya* = the best among Vanaras; *munchamaanaa* = leaving; *mahaaa naada*
+= a great sound; *abraviit* = spoke; *pavanaatmajam* = to Hanuma.
+
+**अनुवादः**
+
+She stood in front of the best among Vanaras Hanuma. She made a great sound and spoke to Hanuma
+thus.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
@@ -898,15 +898,15 @@ _________________
 
 **पदच्छेदः**
 
-*26. avatishhThasi* = you are standing; *puradvaare* = at the entrance to city;
-*viruupanayanaa* = O one with ugly eyes; *tvam kaa* = who are you; *daaruNaa* = O horrible
-one; *ruddhvaa* = stopping; *maam* = me; *kimartham* = for what reason; *nirbhatyasi*
-= are you threatening me.
+*24. vaanara* = O Vanara; *na shakyam khalu* = it is indeed not possible;
+*tvayaa* = by you; *praveshhTum* = to enter; *iyam laN^kaa* = this Lanka; *rakshitaa*
+= protected; *raavaNa balaiH* = by Ravana's forces; *abhiguptaa* = guarded; *samantataH*
+= all around.
 
 **अनुवादः**
 
-"You are standing at the entrance to the city. O one with ugly eyes! Who are you? O horrible one!
-Stopping me, for what reason are you threatening me?"
+"O Vanara! It is indeed not possible for you to enter this city of Lanka which is protected by
+Ravana's forces and strongly guarded all around."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
@@ -937,15 +937,15 @@ you are asking me, I will tell you that truthfully."
 
 **पदच्छेदः**
 
-*24. vaanara* = O Vanara; *na shakyam khalu* = it is indeed not possible;
-*tvayaa* = by you; *praveshhTum* = to enter; *iyam laN^kaa* = this Lanka; *rakshitaa*
-= protected; *raavaNa balaiH* = by Ravana's forces; *abhiguptaa* = guarded; *samantataH*
-= all around.
+*26. avatishhThasi* = you are standing; *puradvaare* = at the entrance to city;
+*viruupanayanaa* = O one with ugly eyes; *tvam kaa* = who are you; *daaruNaa* = O horrible
+one; *ruddhvaa* = stopping; *maam* = me; *kimartham* = for what reason; *nirbhatyasi*
+= are you threatening me.
 
 **अनुवादः**
 
-"O Vanara! It is indeed not possible for you to enter this city of Lanka which is protected by
-Ravana's forces and strongly guarded all around."
+"You are standing at the entrance to the city. O one with ugly eyes! Who are you? O horrible one!
+Stopping me, for what reason are you threatening me?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>
@@ -1369,23 +1369,6 @@ _________________
 
 **पदच्छेदः**
 
-*36. vaanaraadhama* = O lowly Vanara! durbuddhe = with evil mind; *na shakyam*
-= it is not possible; *te* = to you; *drashhTum* = to see; *adya* = now; *iyam purii*
-= this city; *raakshaseswara paalitaa* = ruled by king of rakshasas; *anirjitya maam* = without
-defeating me.
-
-**अनुवादः**
-
-"O lowly Vanara with an evil mind! It is not possile for you to see this city ruled by king of
-rakshasas, without first defeating me."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *35. shrutvaa* = listening; *tasya* = to His; *tat vachanam* = those
 words; *laN^kaa kaama ruupiNii* = Lanka with the ability to change form according to will; *babhaashhe*
 = spoke; *punaH* = again; *parushhaaksharam* = strong words; *bhuuyaH eve* = stronger than
@@ -1395,6 +1378,23 @@ before.
 
 Listening to Hanuma's words, Lanka with the ability to assume desired form, spoke harsh words stronger
 than before.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*36. vaanaraadhama* = O lowly Vanara! durbuddhe = with evil mind; *na shakyam*
+= it is not possible; *te* = to you; *drashhTum* = to see; *adya* = now; *iyam purii*
+= this city; *raakshaseswara paalitaa* = ruled by king of rakshasas; *anirjitya maam* = without
+defeating me.
+
+**अनुवादः**
+
+"O lowly Vanara with an evil mind! It is not possile for you to see this city ruled by king of
+rakshasas, without first defeating me."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga3/sundarasans3.htm)
 </details>

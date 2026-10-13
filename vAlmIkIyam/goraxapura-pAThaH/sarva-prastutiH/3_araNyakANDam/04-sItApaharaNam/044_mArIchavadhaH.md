@@ -1028,23 +1028,6 @@ indeed happened in that way alone, and the one whom I have killed now is none ot
 
 **पदच्छेदः**
 
-*26. mR^iga ruupam tam raakSasam hatvaa* = in deer's, form, that,
-demon, on killing; *tat svanam shrutvaa ca* = his, yelling [of demon,] on hearing, also;
-*tatra* = in that matter; *raamam* = to Rama; *viSaada jam tiivram bhayam* =
-by gloom, caused, frantic, fear; *aavivesha* = ensorcelled.
-
-**अनुवादः**
-
-On killing that demon in the form of Golden Deer, and also on hearing his yelling,
-Rama is ensorcelled with a frantic fear caused by his own gloom. [3-44-26]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *24. saH* = he; *ayam* = this; *raakSasaH* = demon;
 *haa siite* = ha, Seetha; *lakSmaNa iti evam tu* = Lakshmana, thus, that way, but;
 *mahaa svanam aakrushya* = with blatant, voice, crying out; *mamaara* = dead;
@@ -1060,6 +1043,23 @@ hair-raising, frightened]; *[babhuuva* = Rama became.]
 Lakshmana...' And on hearing this how Seetha will be? And what will be the plight of dextrous
 Lakshmana?" Thus on thinking over them that righteous-souled Rama remained in a hair-raising
 predicament. [3-44-24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*26. mR^iga ruupam tam raakSasam hatvaa* = in deer's, form, that,
+demon, on killing; *tat svanam shrutvaa ca* = his, yelling [of demon,] on hearing, also;
+*tatra* = in that matter; *raamam* = to Rama; *viSaada jam tiivram bhayam* =
+by gloom, caused, frantic, fear; *aavivesha* = ensorcelled.
+
+**अनुवादः**
+
+On killing that demon in the form of Golden Deer, and also on hearing his yelling,
+Rama is ensorcelled with a frantic fear caused by his own gloom. [3-44-26]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyasans44.htm)
 </details>

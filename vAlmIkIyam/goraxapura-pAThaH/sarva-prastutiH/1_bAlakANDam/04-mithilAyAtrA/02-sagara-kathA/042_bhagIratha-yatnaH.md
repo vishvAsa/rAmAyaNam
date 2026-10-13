@@ -521,6 +521,27 @@ That best one among men, namely king Dileepa, on anointing his son
 
 **पदच्छेदः**
 
+*11. raghunandana* = oh Rama, Raghu's descendent; *dhaarmikaH*
+ = self-righteous one; *raajarSiH* = kingly sage; *bhagiirathaH
+ tu* = Bhageeratha, on his part; *anapatyaH* = without children;
+ *saH mahaaraajaH prajaakaamaH* = he, that great-king, longed-for offspring
+ ; *prajaaH ca* = subjects, and - kingdom: he placed
+ in the hands of ministers - these two words are to go into the meaning
+ of next verse.
+
+**अनुवादः**
+
+Oh, Rama, the legatee of Raghu, but on his part that self-righteous
+ and kingly-sage Bhageeratha is childless, and that great king longed-for
+ offspring. [1-42-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *12, 13a. raghunandana* = oh Rama, Raghu's descendent; *[saH*
  = he - Bhageeratha]; *gangaavataraNe rataH* = interested in alighting Ganga
  ; *tat rajyam* = that, kingdom; *[prajaaH ca*
@@ -545,27 +566,6 @@ Interested in the alighting of River Ganga on earth, oh, Rama, the
 
 The five-fires are *pancaagni-s* the four earthly fires in four
  corners of directions and the sun's fire overhead.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*11. raghunandana* = oh Rama, Raghu's descendent; *dhaarmikaH*
- = self-righteous one; *raajarSiH* = kingly sage; *bhagiirathaH
- tu* = Bhageeratha, on his part; *anapatyaH* = without children;
- *saH mahaaraajaH prajaakaamaH* = he, that great-king, longed-for offspring
- ; *prajaaH ca* = subjects, and - kingdom: he placed
- in the hands of ministers - these two words are to go into the meaning
- of next verse.
-
-**अनुवादः**
-
-Oh, Rama, the legatee of Raghu, but on his part that self-righteous
- and kingly-sage Bhageeratha is childless, and that great king longed-for
- offspring. [1-42-11]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>
@@ -632,25 +632,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. tataH* = then; *pitaamahaH* = Forefather - Brahma;
- *suragaNaiH saardham* = along with assemblages of gods;
- *upaagamya* = on arriving; *tapyamaanam* = who is in
- ascesis - deep in the practise of ascesis; *mahaatmaanam bhagiiratham*
- = great-souled one, to Bhageeratha; *atha abraviit* = thus, spoke.
-
-**अनुवादः**
-
-Forefather Brahma then arrived along with assemblages of gods, and
- spoke this way to the great-souled Bhageeratha who is deep in the practise
- of ascesis. [1-42-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *13, 14. mahaabaaho* = oh dextrous Rama; *tasya ghore tapasi
  tiSThataH* = while sat tight - firmly practising in his severe ascesis;
  *varSasahasraaNi atiitaani* = thousand years, lapsed away;
@@ -665,6 +646,25 @@ Thousands of years have rolled by while Bhageeratha stood practising
  his severe ascesis, oh, dextrous Rama, and then the lord and master
  of all beings, namely god Brahma, is well pleased with that great-souled
  king's ascesis. [1-42-13b, 14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. tataH* = then; *pitaamahaH* = Forefather - Brahma;
+ *suragaNaiH saardham* = along with assemblages of gods;
+ *upaagamya* = on arriving; *tapyamaanam* = who is in
+ ascesis - deep in the practise of ascesis; *mahaatmaanam bhagiiratham*
+ = great-souled one, to Bhageeratha; *atha abraviit* = thus, spoke.
+
+**अनुवादः**
+
+Forefather Brahma then arrived along with assemblages of gods, and
+ spoke this way to the great-souled Bhageeratha who is deep in the practise
+ of ascesis. [1-42-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga42/balasans42.htm)
 </details>

@@ -365,24 +365,6 @@ A close friend spoke to Bharata, who was surrounded by his companions, as follow
 
 **पदच्छेदः**
 
-*8. adraakshham* = I have seen; *svapne* = a dream;
-*pitaram* = (in which) my father; *maliname* = with soiled body; *mukta
-muurdhajam* = with his hair disheveled; *patantam* = was falling; *adri
-shikharaat* = from the top of a mountain; *kalushhe* = into a polluted;
-*gomayahrade* = pond defiled with cow dung."
-
-**अनुवादः**
-
-"I have seen a dream in which my father with his soiled body and with his hair
-disheveled, was falling from the top of a mountain into a polluted pond defiled with cow dung.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *7. bharataH* = Bharata; *pratyuvaachaH* = replied;
 *suhR^idam* = to the friend; *bruuvaNam* = who spoke; *evam* = thus;
 *"tvam* = you; *shruNu* = hear; *yannimittam* = for which reason;
@@ -393,6 +375,24 @@ me."
 
 Bharata replied to the friend who spoke thus, as follows "You listen to me the
 reason for which this depression came to me"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. adraakshham* = I have seen; *svapne* = a dream;
+*pitaram* = (in which) my father; *maliname* = with soiled body; *mukta
+muurdhajam* = with his hair disheveled; *patantam* = was falling; *adri
+shikharaat* = from the top of a mountain; *kalushhe* = into a polluted;
+*gomayahrade* = pond defiled with cow dung."
+
+**अनुवादः**
+
+"I have seen a dream in which my father with his soiled body and with his hair
+disheveled, was falling from the top of a mountain into a polluted pond defiled with cow dung.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>
@@ -843,23 +843,6 @@ Lakshmana may die."
 
 **पदच्छेदः**
 
-*19. etannimittam* = for this reason; *aham* = I;
-*diinaH* = am broken hearted. tat = Hence; *na pratipuujaye* = I am not able to
-honor. vaH = you; *me* = My; *kaNThaH* = throat; *shushhyatiivacha* = drying
-up. me = My; *manaH* = mind; *na svastham* = is not at ease."
-
-**अनुवादः**
-
-"For this reason, I have become broken hearted. Hence, I am not able to treat you
-properly. My throat seems to be drying up. My mind is not at ease."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *18. yaH* = which; *naraH* = person; *svapne* = in a
 dream; (sees); *yaati* = going; *yaanena* = in a vehicle; *kharayuktena* =
 yoked with donkeys; *dhuuma* = the smoke; *chitaayaam* = on the funeral pyre;
@@ -870,6 +853,23 @@ yoked with donkeys; *dhuuma* = the smoke; *chitaayaam* = on the funeral pyre;
 
 "If in a dream, a person sees a man going in a chariot, yoked with donkeys, the
 smoke of a funeral pyre will soon be seen ascending him."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. etannimittam* = for this reason; *aham* = I;
+*diinaH* = am broken hearted. tat = Hence; *na pratipuujaye* = I am not able to
+honor. vaH = you; *me* = My; *kaNThaH* = throat; *shushhyatiivacha* = drying
+up. me = My; *manaH* = mind; *na svastham* = is not at ease."
+
+**अनुवादः**
+
+"For this reason, I have become broken hearted. Hence, I am not able to treat you
+properly. My throat seems to be drying up. My mind is not at ease."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga69/ayodhyasans69.htm)
 </details>

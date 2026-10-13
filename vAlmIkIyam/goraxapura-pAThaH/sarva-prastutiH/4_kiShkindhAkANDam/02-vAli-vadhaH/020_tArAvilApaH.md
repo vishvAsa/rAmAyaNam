@@ -74,25 +74,6 @@ empress.
 
 **पदच्छेदः**
 
-*2b, 3. iSuNaa abhihatam* = by arrow, shot down; *kunjara
-upamam* = elephant, in simile; *parvata indra aabham* = [like] mountain, best one, in
-shine; *unmuulam tarum iva* = uprooted, tree, like; *vaanaram vaalinam dR^iSTvaa* =
-vanara, at Vali, on seeing; *taaraa aaturaa* = Tara, agonised; *shoka samtapta
-maanasaa* = by grief, scorched, with heart; *paryadevayat* = wailed fretfully.
-
-**अनुवादः**
-
-Tara is agonised when she saw the elephantine and mountainous vanara, namely Vali,
-reduced to no more than an uprooted tree, and she wailed fretfully with grief scorching heart.
-[4-20-2b, 3]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *1, 2a. taara adhipa aananaa* = stars, lord, faced one [having a lovely
 face like moon, Tara]; *bhaaminii* = resentful lady; *saa taaraa* = such as she is,
 that Tara; *raama caapa visR^iSTena* = Rama's, bow, released; *antakareNa shareNa* =
@@ -105,6 +86,25 @@ reached, and embraced.
 On seeing her husband felled to ground with a terminator like arrow released by
 Rama, that resentful lady Tara whose face is lovely like the moon, reached and embraced him.
 [4-20-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*2b, 3. iSuNaa abhihatam* = by arrow, shot down; *kunjara
+upamam* = elephant, in simile; *parvata indra aabham* = [like] mountain, best one, in
+shine; *unmuulam tarum iva* = uprooted, tree, like; *vaanaram vaalinam dR^iSTvaa* =
+vanara, at Vali, on seeing; *taaraa aaturaa* = Tara, agonised; *shoka samtapta
+maanasaa* = by grief, scorched, with heart; *paryadevayat* = wailed fretfully.
+
+**अनुवादः**
+
+Tara is agonised when she saw the elephantine and mountainous vanara, namely Vali,
+reduced to no more than an uprooted tree, and she wailed fretfully with grief scorching heart.
+[4-20-2b, 3]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga20/kishkindhasans20.htm)
 </details>

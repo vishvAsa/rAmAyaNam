@@ -166,6 +166,54 @@ of females to live with a co-wife. [3-18-2]
 
 **पदच्छेदः**
 
+*3. lakSmaNaH naama* = Lakshmana, named; *eSa anujaH me bhraataa* = he is, younger one,
+my, brother; *shiilavaan* = with good conduct; *priya darshanaH* = good looking one;
+*shriimaan* = promising one; *viiryavaan* = valiant one; *a kR^ita daaraH ca* =
+not, made, wife nearly, not with a wife.
+
+**अनुवादः**
+
+"He is my younger brother named Lakshmana, he is with a good conduct, good looking, a promising and
+valiant one, and he is without a wife. [3-18-3]
+
+**टिप्पनी**
+
+Rama is punning here. In punning apparent meaning will be different than the latent and the apparent
+appears to an untruth. Then if it is questioned whether Rama tells a lie while joking or punning, it
+is not so: *nyaaya - guruuNam api samam haasyam kartavyam kutilam vinaa* 'even with teachers
+one can be humorous, if it is not fraudulent'. According to *dharmaakuutam* which quotes *
+gautam suutra: vivaaha maithuna narma aatra saMyogeSu adoSakakameke anR^itam*; and in *aapad
+dharma suutra: na narma yuktam anR^itam hi na asti na striiSu raajan na vivaaha kaale* 'at the time
+of marriage or copulation or with women talking untruth [or with innuendo, or punning,] is not wrong.'
+
+**टिप्पनी**
+
+Again if it be asked whether Rama really said in jocular way or in real sense, it is said that he has
+not joked. *navevamapi raama vacanam parihaasa ruupamiti katham nishcitamiti cet na* for this
+Rama's words at 3-18-19 will suffice, *saumitre parihaasaH kathaMcana* 'Lakshmana.... no joking
+with this kind of beings please...' dharmaakuutam.
+
+**टिप्पनी**
+
+Rama is known to be a jovial talker, *na vitathaa parihaasa kathhasvapi* Here for the word
+*a kR^ita daaraH* apparently means 'not, made, wife= wife not available.' But Lakshmana is married
+and Rama says here he is unmarried. Then Rama must have bluffed! Not so, that compound is in its subtext
+means: 'one who did not make his wife to come along, hence there is no wife.' Govindaraja.
+
+**टिप्पनी**
+
+In another way, the word *a* in *a kR^ite* also means *antaHpura* according to
+the thesaurus of *a* and it is said as: *akaaro brahma vishNu iisha kamaTheSva~NgaNe, gaurave
+antaHpure* palace-chambers of queens; and thus the meaning is as: 'one who left behind his wife
+in palace-chambers, hence he has no wife.'
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *4. a puurvii* = without, a wife; *bhaaryayaa ca arthii* = for wife, also, in need of;
 *taruNaH* = youthful one; *priya darshanaH* = good, looking; *te ruupasya asya*
 = by your, features, that kind of; *anu ruupaH bhartaa* = fitly, husband;; *bhaviSyati*
@@ -210,54 +258,6 @@ he is undergoing celibacy.' And further 'In Gorresio's text it is there as *taru
 arthii* where *taruNa* is youthfulness. Rama is also youthful. So Rama's expression of
 *apurvii* is just to indicate Lakshmana as a *brahmacaari* a celibate, though he has a
 wife and youthful also. After Prof. Satya Vrat. Unchained is he by nuptial bands: is Griffith's wording.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*3. lakSmaNaH naama* = Lakshmana, named; *eSa anujaH me bhraataa* = he is, younger one,
-my, brother; *shiilavaan* = with good conduct; *priya darshanaH* = good looking one;
-*shriimaan* = promising one; *viiryavaan* = valiant one; *a kR^ita daaraH ca* =
-not, made, wife nearly, not with a wife.
-
-**अनुवादः**
-
-"He is my younger brother named Lakshmana, he is with a good conduct, good looking, a promising and
-valiant one, and he is without a wife. [3-18-3]
-
-**टिप्पनी**
-
-Rama is punning here. In punning apparent meaning will be different than the latent and the apparent
-appears to an untruth. Then if it is questioned whether Rama tells a lie while joking or punning, it
-is not so: *nyaaya - guruuNam api samam haasyam kartavyam kutilam vinaa* 'even with teachers
-one can be humorous, if it is not fraudulent'. According to *dharmaakuutam* which quotes *
-gautam suutra: vivaaha maithuna narma aatra saMyogeSu adoSakakameke anR^itam*; and in *aapad
-dharma suutra: na narma yuktam anR^itam hi na asti na striiSu raajan na vivaaha kaale* 'at the time
-of marriage or copulation or with women talking untruth [or with innuendo, or punning,] is not wrong.'
-
-**टिप्पनी**
-
-Again if it be asked whether Rama really said in jocular way or in real sense, it is said that he has
-not joked. *navevamapi raama vacanam parihaasa ruupamiti katham nishcitamiti cet na* for this
-Rama's words at 3-18-19 will suffice, *saumitre parihaasaH kathaMcana* 'Lakshmana.... no joking
-with this kind of beings please...' dharmaakuutam.
-
-**टिप्पनी**
-
-Rama is known to be a jovial talker, *na vitathaa parihaasa kathhasvapi* Here for the word
-*a kR^ita daaraH* apparently means 'not, made, wife= wife not available.' But Lakshmana is married
-and Rama says here he is unmarried. Then Rama must have bluffed! Not so, that compound is in its subtext
-means: 'one who did not make his wife to come along, hence there is no wife.' Govindaraja.
-
-**टिप्पनी**
-
-In another way, the word *a* in *a kR^ite* also means *antaHpura* according to
-the thesaurus of *a* and it is said as: *akaaro brahma vishNu iisha kamaTheSva~NgaNe, gaurave
-antaHpure* palace-chambers of queens; and thus the meaning is as: 'one who left behind his wife
-in palace-chambers, hence he has no wife.'
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyasans18.htm)
 </details>

@@ -201,23 +201,6 @@ capture Hanuma and equal to the speed of wind in battle.
 
 **पदच्छेदः**
 
-*5. aasaadya* = approaching; *tam* = that; *vanaalayam* =
-monkey; *syaat* = perhaps bhaavyam = you ought to become; *khalu* = indeed; *yatnaiH
-cha* = diligent; *karmachaapi* = samaadheyam = action should be taken by you; *desha kaala
-virodhitam* = which is not out of accord with time and space.
-
-**अनुवादः**
-
-"Approaching that monkey, you ought to become diligent. Action should be taken by you
-which is not out of accord with time and space."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *4. iti* = he ordered as follows; *yaata* = March; *sarve*
 = all of you; *senaagragaaH* = O generals; *mahaabala parigrahaaH* = taking a large army;
 *savaajiratha maataNgaaH* = together with horses; chariots and elephants; *saH kapiH*
@@ -227,6 +210,23 @@ which is not out of accord with time and space."
 
 He ordered as follows: "March, all of you O generals, taking a large army together that
 mokey be punished."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*5. aasaadya* = approaching; *tam* = that; *vanaalayam* =
+monkey; *syaat* = perhaps bhaavyam = you ought to become; *khalu* = indeed; *yatnaiH
+cha* = diligent; *karmachaapi* = samaadheyam = action should be taken by you; *desha kaala
+virodhitam* = which is not out of accord with time and space.
+
+**अनुवादः**
+
+"Approaching that monkey, you ought to become diligent. Action should be taken by you
+which is not out of accord with time and space."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
@@ -557,23 +557,6 @@ before you in the battle-field."
 
 **पदच्छेदः**
 
-*14. tathaapi* = even then; *nayajJNena* = by the one who is skilled
-in strategy; *aakaaN^kSataa* = desirous of; *jayam* = a victory; *raNe* = in battle;
-*rakSyaH* = one is to protect; *aatmaa* = himself; *prayatnena* = with effort;
-*yuddhasiddhiH* = victory in a battle; *chaN^chalaahi* = is indeed unreliable.
-
-**अनुवादः**
-
-"Even then, the one who is skilled in strategy, desirous of a victory in a battle is
-to protect himself. Victory in a battle is indeed unreliable."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. idam JNeyam* = this is to be known; *mahat sattvam* = as a great
 spirit; *vyarasthitam* = standing; *kapiruupam* = the firm of a monkey; *aasthaaya*
 = employing; *mahat* = a great; *prayatnam* = effort; *aya nigrahaH* = let its
@@ -583,6 +566,23 @@ capture; *kriyataam* = be made.
 
 "Keeping in view that it is a great evil spirit standing in the form of a monkey, exert
 a great effort and capture it."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*14. tathaapi* = even then; *nayajJNena* = by the one who is skilled
+in strategy; *aakaaN^kSataa* = desirous of; *jayam* = a victory; *raNe* = in battle;
+*rakSyaH* = one is to protect; *aatmaa* = himself; *prayatnena* = with effort;
+*yuddhasiddhiH* = victory in a battle; *chaN^chalaahi* = is indeed unreliable.
+
+**अनुवादः**
+
+"Even then, the one who is skilled in strategy, desirous of a victory in a battle is
+to protect himself. Victory in a battle is indeed unreliable."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
@@ -812,23 +812,6 @@ _________________
 
 **पदच्छेदः**
 
-*21. aaviddhaH* = pierced; *shirasi* = in the head; *taiH*
-= by those; *paN^chabhiH* = five; *sharaiH* = arrows; *vaanaraH* = Hanuma; *
-nadan* = making a sound; *vinaadayan* = reverberating; *dashadishaH* = in all directions;
-*utpapaata* = leapt; *vyomni* = into the sky.
-
-**अनुवादः**
-
-Pierced in the head by those fire arrows, Hanuma leapt roaring in the sky, making the
-roar reverberating in all directions.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *19. samiikSaiva* = Immediately on seeing; *tam* = that Hanuma;
 *mahaamatim* = of great intellect; *mahaavegam* = of great swiftness; *mahaakaayam*
 = and of a gigantic body; *sarve* = all those demons; stationed; *sarvaasn dikSu* = in
@@ -840,6 +823,23 @@ taiH* = with their respective; *bhiimaiH* = terrific; *praharaNaiH* = weapons.
 Immediately on seeing that Hanuma of great intellect, of great swiftness and of a gigantic
 body, all those demons, stationed in all quarters, attacked him with their terrific weapons from every
 side.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*21. aaviddhaH* = pierced; *shirasi* = in the head; *taiH*
+= by those; *paN^chabhiH* = five; *sharaiH* = arrows; *vaanaraH* = Hanuma; *
+nadan* = making a sound; *vinaadayan* = reverberating; *dashadishaH* = in all directions;
+*utpapaata* = leapt; *vyomni* = into the sky.
+
+**अनुवादः**
+
+Pierced in the head by those fire arrows, Hanuma leapt roaring in the sky, making the
+roar reverberating in all directions.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
@@ -1109,23 +1109,6 @@ _________________
 
 **पदच्छेदः**
 
-*27. samjaata roSau* = engrossed in anger; *dR^iSTvaa* = fallen;
-*bhuvi* = on the ground; *viruupaakSa yuupaakSau* = Virupaksha and Yupaksha; *durdharSau*
-= inviolable; *arimdamau* = and annihilators of enemies; *utpetatuH* = jumped up into
-the air.
-
-**अनुवादः**
-
-Engrossed in anger to see his fallen on the ground, the inviolable virupaksha and Yupaksha,
-the annihilators of enemies, jumped up into the air.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *26. vihaaya* = losing; *ratham* = his chariot; *bhagnaakSakuubaram*
 = whose axle and pole had been broken; *mathitaaSTaashvam* = and all his eight horses destroyed;
 *saH durdharaH* = that Durdhara; *tataH* = then; *nyapatat* = dropped down; *
@@ -1135,6 +1118,23 @@ tyakta jiivitaH* = losing his life; *bhuumau* = to the ground.
 
 Losing his chariot whose axle and pole had been broken and all his eight horses destroyed,
 Durdhara then dropped down, losing his life, to the ground.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*27. samjaata roSau* = engrossed in anger; *dR^iSTvaa* = fallen;
+*bhuvi* = on the ground; *viruupaakSa yuupaakSau* = Virupaksha and Yupaksha; *durdharSau*
+= inviolable; *arimdamau* = and annihilators of enemies; *utpetatuH* = jumped up into
+the air.
+
+**अनुवादः**
+
+Engrossed in anger to see his fallen on the ground, the inviolable virupaksha and Yupaksha,
+the annihilators of enemies, jumped up into the air.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
@@ -1406,15 +1406,16 @@ _________________
 
 **पदच्छेदः**
 
-*34. gaatraiH* = with his limbs; *vikSataiH* = wounded; *taabhyaam*
-= by those two demons; *saH vaanaraH* = that Hanuman; *asR^igdigdhatanuuruhaH* = with
-his body-hair anointed by blood; *abhavat* = became; *kruddhaH* = enraged; *baala suurya
-samaprabhaH* = having his blaze similar to that of rising sun.
+*33. (The two generals) avasthitau* = stood; *ekataH* = by the side;
+*yashasvinam kapishaarduulam* = of the illustrious Hanuma; *praghasaH* = Praghasa; *
+pratya yodhayat* = pierced; *kapisattamam* = Hanuma; *shitaagreNa* = with a sharp
+pointed; *paTTisena* = spear; *bhaasakarNaH* = and Bhasakarna; *raakSasaH* = the
+demon; (attacked); *shuulena* = with a dart.
 
 **अनुवादः**
 
-With his limbs wounded by those two demons, that Hanuma with his body-hair anointed by
-blood, became enraged, with his blaze similar to that of a rising sun.
+The two generals stood by the side of the illustrious Hanuma. Praghasa pierced Hanuma
+with a sharp-pointed spear and Bhasakarna attacked him with a dart.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>
@@ -1428,16 +1429,15 @@ blood, became enraged, with his blaze similar to that of a rising sun.
 
 **पदच्छेदः**
 
-*33. (The two generals) avasthitau* = stood; *ekataH* = by the side;
-*yashasvinam kapishaarduulam* = of the illustrious Hanuma; *praghasaH* = Praghasa; *
-pratya yodhayat* = pierced; *kapisattamam* = Hanuma; *shitaagreNa* = with a sharp
-pointed; *paTTisena* = spear; *bhaasakarNaH* = and Bhasakarna; *raakSasaH* = the
-demon; (attacked); *shuulena* = with a dart.
+*34. gaatraiH* = with his limbs; *vikSataiH* = wounded; *taabhyaam*
+= by those two demons; *saH vaanaraH* = that Hanuman; *asR^igdigdhatanuuruhaH* = with
+his body-hair anointed by blood; *abhavat* = became; *kruddhaH* = enraged; *baala suurya
+samaprabhaH* = having his blaze similar to that of rising sun.
 
 **अनुवादः**
 
-The two generals stood by the side of the illustrious Hanuma. Praghasa pierced Hanuma
-with a sharp-pointed spear and Bhasakarna attacked him with a dart.
+With his limbs wounded by those two demons, that Hanuma with his body-hair anointed by
+blood, became enraged, with his blaze similar to that of a rising sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga46/sundarasans46.htm)
 </details>

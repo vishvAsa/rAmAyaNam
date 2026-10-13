@@ -287,23 +287,6 @@ direction.
 
 **पदच्छेदः**
 
-*7. kimnaam* = why; *abhishamsasi* = are you praising;
-*daivam* = destiney; *kR^ipaNam* = which is pitiable; *ashaktam* = which is
-weak? katham naama = how; *navidyati* = not; *shaNkaa* = doubtful; *te* = to
-you; *tayoH* = in both of them; *paapayoH* = who are sinful?
-
-**अनुवादः**
-
-"Why are you speaking about this weak and pitiable destiny? Why are you not doubting
-the sinful Kaikeyi and Dasaratha?"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *5;6. shauNdiirakshhatriyarshhabha* = oh; *the best of proud
 military community! ayam* = this; *sumahaan* = very great; *sambhramaH* =
 confusion; *asthaane* = which is untimely; *jaataHvai* = born; *yasya* = in
@@ -318,6 +301,23 @@ speak; *etat* = this; *yathaa* = in which way; *daivam* = about destiny;
 "Oh, the best of proud military community! This untimely great confusion is born in
 you due to your conjecture of quilty righteousness and of non suspicion of the world. Can such a
 person like you speak a person like you speak thus doubtlessly of the powerless destiny?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*7. kimnaam* = why; *abhishamsasi* = are you praising;
+*daivam* = destiney; *kR^ipaNam* = which is pitiable; *ashaktam* = which is
+weak? katham naama = how; *navidyati* = not; *shaNkaa* = doubtful; *te* = to
+you; *tayoH* = in both of them; *paapayoH* = who are sinful?
+
+**अनुवादः**
+
+"Why are you speaking about this weak and pitiable destiny? Why are you not doubting
+the sinful Kaikeyi and Dasaratha?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga23/ayodhyasans23.htm)
 </details>

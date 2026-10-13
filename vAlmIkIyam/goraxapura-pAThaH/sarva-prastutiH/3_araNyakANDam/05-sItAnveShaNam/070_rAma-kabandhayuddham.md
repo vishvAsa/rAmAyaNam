@@ -744,22 +744,6 @@ _________________
 
 **पदच्छेदः**
 
-*15. vi jane vane* = without, people, in forest; *vasataH* = while living; *deva prabhaavasya*
-= god [like that of,] in his leverage; *asya bhaaryaa rakSasaa apahR^itaa* = his, wife, by demon,
-abducted; *yaam icChantau iha aagatau* = whom, wishing [to retrieve,] to here, [we] came.
-
-**अनुवादः**
-
-"A demon stole his wife while he whose leverage is like that of god is living in the unpopulated forest...
-and wishing to retrieve her we came here... [3-70-15]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *14. eSa* = this one; *raamaH* = Rama; *maatraa* = by mother; *prati hataH*
 = counter, vailed; *raajye* = from kingdom; *vanam pra vaajitaH* = to forest, bluntly,
 sent to; *mayaa saha* = me, along with; *bhaaryayaa ca* = with his wife, also; *mahat
@@ -769,6 +753,22 @@ vanam carati* = great, forest, he moves about.
 
 "Countervailed from kingdom by mother this Rama is bluntly sent to forests, and he is on the rove in
 great forests along with me ad his wife... [3-70-14]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*15. vi jane vane* = without, people, in forest; *vasataH* = while living; *deva prabhaavasya*
+= god [like that of,] in his leverage; *asya bhaaryaa rakSasaa apahR^itaa* = his, wife, by demon,
+abducted; *yaam icChantau iha aagatau* = whom, wishing [to retrieve,] to here, [we] came.
+
+**अनुवादः**
+
+"A demon stole his wife while he whose leverage is like that of god is living in the unpopulated forest...
+and wishing to retrieve her we came here... [3-70-15]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga70/aranyasans70.htm)
 </details>

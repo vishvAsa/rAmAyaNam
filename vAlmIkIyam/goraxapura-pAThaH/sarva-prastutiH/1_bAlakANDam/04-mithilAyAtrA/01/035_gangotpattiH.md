@@ -1044,27 +1044,6 @@ _________________
 
 **पदच्छेदः**
 
-*24. ramyaa* = marvellous one; *vipaapaa* = without
- sins; *jalavaahinii* = one that flows in the form of waters;
- *saa eSaa* = such as she is; *shailendratanayaa* =
- mountain lord's daughter; *tadaa* = then; *suranadii*
- = divine river; on becoming; *suralokam samaaruuDhaa*
- = well ascended divinity's abode [to heaven].
-
-**अनुवादः**
-
-"As such, that marvellous and sinless daughter of the lordly mountain
- Himavanta, ever-flowing in the form of water, ascended to the abode
- of divinities and became devaganga , Divine
- River. [1-35-24]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *23. gatimataam vara* = best one in cruising [of life] of people
  ; or, one who has beautiful gait - Rama; *taata* = oh
  dear boy; *tripathagaaminii* = cruising three way; *prathamam
@@ -1091,6 +1070,27 @@ The three-way coursing of the river is firstly as Ganga in the lap of
  her coming to earth. And some say that gods have not left her in middle
  of the sky to come to heaven at a later time, and hence her three courses
  are as Ganga, Mandaakini, and Jahnavi.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*24. ramyaa* = marvellous one; *vipaapaa* = without
+ sins; *jalavaahinii* = one that flows in the form of waters;
+ *saa eSaa* = such as she is; *shailendratanayaa* =
+ mountain lord's daughter; *tadaa* = then; *suranadii*
+ = divine river; on becoming; *suralokam samaaruuDhaa*
+ = well ascended divinity's abode [to heaven].
+
+**अनुवादः**
+
+"As such, that marvellous and sinless daughter of the lordly mountain
+ Himavanta, ever-flowing in the form of water, ascended to the abode
+ of divinities and became devaganga , Divine
+ River. [1-35-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga35/balasans35.htm)
 </details>

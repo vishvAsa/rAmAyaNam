@@ -549,24 +549,6 @@ generated in the sky. [1-30-10]
 
 **पदच्छेदः**
 
-12.* bhiimasamkaashaaH* = monstrous in aspect; *maariicaH ca subaahuH
-ca* = Maareecha, also, Subaahu, also; *tayoH* = their; *[ye* =
-who are]; *tathaa anucaraaH* = like that, followers; are there, they
-too; *aagamya* = have come; *rudhiraughaan avaasR^ijan* = started to pour down blood
-spates.
-
-**अनुवादः**
-
-Maareecha and Subaahu are the monstrous demons that have come along with their followers
-and they have started to pour down spates of blood. [1-30-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11. praavR^iSi* = in great - torrential cloudburst; *meghaH yathaa*
 = as to how [massive] cloud; *dR^ishyate [nirgate]* = appears [emerges];
 *tathaa* = likewise; *gaganam aavaarya* = enshrouding sky; *raakSasau
@@ -578,6 +560,24 @@ maayaam vikurvaaNau* = two demons, verily performing wizardry; *abhyadhaavataam*
 As to how massive clouds appear in torrential cloudburst, likewise two demons appeared
 enshrouding the sky, and performing wizardry they are about to swoop down towards
 the Altar of Fire. [1-30-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+12.* bhiimasamkaashaaH* = monstrous in aspect; *maariicaH ca subaahuH
+ca* = Maareecha, also, Subaahu, also; *tayoH* = their; *[ye* =
+who are]; *tathaa anucaraaH* = like that, followers; are there, they
+too; *aagamya* = have come; *rudhiraughaan avaasR^ijan* = started to pour down blood
+spates.
+
+**अनुवादः**
+
+Maareecha and Subaahu are the monstrous demons that have come along with their followers
+and they have started to pour down spates of blood. [1-30-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
@@ -620,6 +620,24 @@ _________________
 
 **पदच्छेदः**
 
+*13. tena rudhiraugheNa* = by that, blood streams; *[maNDitaam* =
+filled]; *taam samukShitaam* = that, verily swamped; *vediim viikShya*
+= on noticing altar of fire [with other paraphernalia ; *tataH sahasaa abhidrutaH*
+= then, swiftly, running towards; *raamaH* = Rama; *taan apashyat divi*
+= saw them [demons] in sky.
+
+**अनुवादः**
+
+On noticing the Altar of Fire swamped with streams of blood, then Rama swiftly ran
+towards that direction and saw the demons in the sky. [1-30-13]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *14. raajiivalocanaH raamaH* = lotus eyed one, Rama; *sahasaa aapatantau*
 = hastily, coming and falling - [about to] swoop; *tau dR^iSTvaa* = them
 two, on perceiving; *lakSmaNam tu* = at Lakshmana, but - however; *atha
@@ -631,24 +649,6 @@ abraviit* = sentence, said.
 Perceiving that the two demons are about to swoop down on Altar of Fire in haste,
 that lotus-eyed Rama however gave a quick checking look at Lakshmana saying this
 sentence. [1-30-14]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*13. tena rudhiraugheNa* = by that, blood streams; *[maNDitaam* =
-filled]; *taam samukShitaam* = that, verily swamped; *vediim viikShya*
-= on noticing altar of fire [with other paraphernalia ; *tataH sahasaa abhidrutaH*
-= then, swiftly, running towards; *raamaH* = Rama; *taan apashyat divi*
-= saw them [demons] in sky.
-
-**अनुवादः**
-
-On noticing the Altar of Fire swamped with streams of blood, then Rama swiftly ran
-towards that direction and saw the demons in the sky. [1-30-13]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>
@@ -980,24 +980,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. mahaayashaaH* = great glorious one; *paramodaaraH* = supremely
-generous one - Rama; *raaghavaH* = Raghava; *muniinaam mudam aavahan*
-= on carrying - in order to bringing on felicity to sages; *vaayavyam aadaaya*
-= on taking missile of Air-god; *sheSaan [raakShasaan]* = remaining [demons];
-*nijaghaana* = hit down.
-
-**अनुवादः**
-
-In order to bring felicity to the sages that great glorious and supremely generous
-Raghava took up the missile of Air-god and hit down the remaining demons. [1-30-23]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *22. iti uktvaa lakShmaNam* = thus, saying, to Lakshmana, also; *raghunandanaH*
 = Raghu's descendent - Rama; *darshayan aashu laaghavam iva*
 = as though to show swift dexterity; *sumahat* = very powerful - missile;
@@ -1011,6 +993,24 @@ Thus saying to Lakshmana, as though to show his swift dexterity Rama, the descen
 of Raghu dynasty, took up a very powerful missile called Aagneya astra, Fire-missile,
 and darted it on the chest of Subaahu, by which that demon Subaahu is struck and
 fell flat on ground. [1-30-22]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*23. mahaayashaaH* = great glorious one; *paramodaaraH* = supremely
+generous one - Rama; *raaghavaH* = Raghava; *muniinaam mudam aavahan*
+= on carrying - in order to bringing on felicity to sages; *vaayavyam aadaaya*
+= on taking missile of Air-god; *sheSaan [raakShasaan]* = remaining [demons];
+*nijaghaana* = hit down.
+
+**अनुवादः**
+
+In order to bring felicity to the sages that great glorious and supremely generous
+Raghava took up the missile of Air-god and hit down the remaining demons. [1-30-23]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga30/balasans30.htm)
 </details>

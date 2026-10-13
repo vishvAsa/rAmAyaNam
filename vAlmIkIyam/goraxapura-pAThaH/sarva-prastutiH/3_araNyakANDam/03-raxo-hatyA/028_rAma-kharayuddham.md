@@ -202,6 +202,23 @@ _________________
 
 **पदच्छेदः**
 
+*4. kharaH* = Khara; *balavat caapam vikR^iSya* = forcefully, bow [string,] drawing out;
+*kruddhaan aashii viSaan iva* = furious one [arrows,] snake, venomous ones, like [arrows];
+*rakta bhojanaan* = that have blood, as their meals; *naaraacaan raamaaya cikSepa* = iron-arrows,
+for Rama, discharged.
+
+**अनुवादः**
+
+Forcefully drawing the bowstring fitted with iron-arrows, which looked like furious serpents of venom
+ingesting only blood, Khara discharged them on Rama. [4-28-4]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *5. ratha gataH kharaH* = chariot, who is on, Khara; *su bahushaH* = in very, many ways;
 *jyaam vidhunvan* = bowstring, fidgeting; *shikSayaa* = by [his] training [skills in warfare];
 *astraaNi darshayan* = missiles, brandishing; *samare* = in war - on battleground; *
@@ -212,23 +229,6 @@ manner, moved about.
 
 Fidgeting with bowstring in many a way, brandishing missiles with many a skill, Khara moved about the
 battleground in many a manner, seated on chariot and showing his expertise with arrows. [4-28-5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*4. kharaH* = Khara; *balavat caapam vikR^iSya* = forcefully, bow [string,] drawing out;
-*kruddhaan aashii viSaan iva* = furious one [arrows,] snake, venomous ones, like [arrows];
-*rakta bhojanaan* = that have blood, as their meals; *naaraacaan raamaaya cikSepa* = iron-arrows,
-for Rama, discharged.
-
-**अनुवादः**
-
-Forcefully drawing the bowstring fitted with iron-arrows, which looked like furious serpents of venom
-ingesting only blood, Khara discharged them on Rama. [4-28-4]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga28/aranyasans28.htm)
 </details>

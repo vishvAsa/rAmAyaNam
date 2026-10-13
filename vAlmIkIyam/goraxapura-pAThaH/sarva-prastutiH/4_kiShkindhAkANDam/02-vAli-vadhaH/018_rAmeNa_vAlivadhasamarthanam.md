@@ -77,6 +77,23 @@ concludes that there is someone superior to him and thus seeks refuge in Rama.
 
 **पदच्छेदः**
 
+*1. raamaH* = Rama; *nihatena* = hit down; *vicetasaa* = without vitality [collapsing];
+*vaalinaa* = with Vali; *dharma artha sahitam* = probity, meaning, containing; *hitam*
+= expedient; *paruSam vaakyam* = exacting, words; *prashritam* = [but] humbly; *iti
+uktaH* = thus, [Rama,] was addressed [by Vali.]
+
+**अनुवादः**
+
+Thus, Vali who is hit down by arrow and who is collapsing humbly spoke exacting words that contained
+probity, meaningfulness, and expedience, to Rama. [4-18-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *2. tadaa* = then; *raamaH* = Rama; *adhikSiptaH* = he who is arraigned [find fault
 with; call into question, an action or statement, imputed, Rama by Vali]; *niS prabham aadityam iva*
 = without, luster, sun, like - to lusterless Vali; *mukta toyam ambudam iva* = released, waters,
@@ -100,23 +117,6 @@ confronting me...' and the meaningfulness in the words like 'a quarrel comes whe
 the cause, I should have brought Ravana without bloodshed, I would have brought Maithili and presented
 before your....' etc. But these words are with the death time wisdom of Vali, and they become parroted
 saying but cannot be practical with the kind of righteousness followed by Vali.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*1. raamaH* = Rama; *nihatena* = hit down; *vicetasaa* = without vitality [collapsing];
-*vaalinaa* = with Vali; *dharma artha sahitam* = probity, meaning, containing; *hitam*
-= expedient; *paruSam vaakyam* = exacting, words; *prashritam* = [but] humbly; *iti
-uktaH* = thus, [Rama,] was addressed [by Vali.]
-
-**अनुवादः**
-
-Thus, Vali who is hit down by arrow and who is collapsing humbly spoke exacting words that contained
-probity, meaningfulness, and expedience, to Rama. [4-18-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
@@ -1307,29 +1307,6 @@ your kind of shatterers of ethics. [4-18-25b, c]
 
 **पदच्छेदः**
 
-*27. tadaa maya* = then - at the time of befriending, by me; *vaanara sannidhau* = vanara-s,
-in presence; *pratij~naa ca dattaa* = promise, also, is given; *mat vidhena* = by my,
-type of [person]; *pratij~naa* = promise; *an avekSitum* = not, to honour; *katham
-shakyaa* = how is, possible.
-
-**अनुवादः**
-
-"I gave a promise to Sugreeva at the time of befriending him in the presence of vanara-s, and how is
-it possible for my kind to dishonour a given promise? [4-18-27]
-
-**टिप्पनी**
-
-In Aranya Kanda he tells Seetha, that he even leaves his life than to feign his promise. *api aham
-jiivitam jahyaam tvaam vaa siite sa lakSmaNaam ||* 4-10-18. Hence there is no question of his going
-back on the word given to them that crave for his mercy.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *26. sugriiveNa me sakhyam* = with Sugreeva, my, association; *lakSmaNena yathaa tathaa*
 = with Lakshmana, as with, so it is; *daara raajya nimittam ca* = wife, kingdom, owing to, also
 [our friendship materialised]; *saH me* = he, to me; *niHshreyasa karaH* = succour, he
@@ -1362,6 +1339,29 @@ whole of monkey force will be with Vali, and these few warriors will be routed d
 all, Rama has promised Sugreeva to eliminate Vali, the abuser of tradition, and Rama becomes blameworthy
 if he fails in his word. Hence the simplest formula 'enemy's friend is my enemy too...' works well and
 Rama followed that only.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*27. tadaa maya* = then - at the time of befriending, by me; *vaanara sannidhau* = vanara-s,
+in presence; *pratij~naa ca dattaa* = promise, also, is given; *mat vidhena* = by my,
+type of [person]; *pratij~naa* = promise; *an avekSitum* = not, to honour; *katham
+shakyaa* = how is, possible.
+
+**अनुवादः**
+
+"I gave a promise to Sugreeva at the time of befriending him in the presence of vanara-s, and how is
+it possible for my kind to dishonour a given promise? [4-18-27]
+
+**टिप्पनी**
+
+In Aranya Kanda he tells Seetha, that he even leaves his life than to feign his promise. *api aham
+jiivitam jahyaam tvaam vaa siite sa lakSmaNaam ||* 4-10-18. Hence there is no question of his going
+back on the word given to them that crave for his mercy.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
@@ -1566,23 +1566,6 @@ in those verses of law. [4-18-30]
 
 **पदच्छेदः**
 
-*32. stenaH* = a thief; *shasanaat vaa api mokshaat vaa* = by punishment, either, even,
-by releasing - by clemency, or; *paapaat pramucyate* = from sin, will be released; *a shaasan
-raajaa tu* = un, punishing, king, but; *paapasya tat kilbiSam aapnoti* = sin's, that, blot,
-he derives.
-
-**अनुवादः**
-
-" 'Either by punishment or by clemency a thief will be absolved from sin, but the king who does not
-impose proper punishment will derive the blot of that sin.' So says the other verse of Manu. [4-18-32]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *31. maanavaaH* = humans; *paapaani kR^itvaa* = sins, on making; *raajabhiH dhR^ita
 daNDaaH ca* = by kings, imposed, punishment, also; *nirmalaaH sukR^itinaH santaH yathaa*
 = unblemished - sinless, with good deeds, pious souled ones, as with; *svargam aayaanti* = to
@@ -1592,6 +1575,23 @@ heaven, they come.
 
 " 'When kings impose proper punishment on the humans who have sinned, they become sinless and enter
 heaven as with the pious souls with good deeds.' So says one verse of Manu. [4-18-31]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*32. stenaH* = a thief; *shasanaat vaa api mokshaat vaa* = by punishment, either, even,
+by releasing - by clemency, or; *paapaat pramucyate* = from sin, will be released; *a shaasan
+raajaa tu* = un, punishing, king, but; *paapasya tat kilbiSam aapnoti* = sin's, that, blot,
+he derives.
+
+**अनुवादः**
+
+" 'Either by punishment or by clemency a thief will be absolved from sin, but the king who does not
+impose proper punishment will derive the blot of that sin.' So says the other verse of Manu. [4-18-32]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
@@ -2343,25 +2343,6 @@ _________________
 
 **पदच्छेदः**
 
-*47b, c. tvam hi dR^iSTa artha tattvaj~naH* = you, alone, seen [knower of,] means [recourses,
-and their] real nature; *prajaanaam ca hite rataH* = in people's, also, welfare, delighted in;
-*avyayaa buddhiH* = with faultless, intellect; *kaarya kaaraNa siddhau ca* = effect, cause,
-in accomplishment; *prasannaa* = serene, clear.
-
-**अनुवादः**
-
-"You alone are the knower of recourses and their real nature, namely probity, prosperity, pleasure seeking,
-and emancipation; *dharma, artha, kaama, moksha* ; and you take delight
-in the welfare of subjects, and your faultless intellect is clear in accomplishing ends by judging the
-causes and effects. [4-18-47b, c]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *46, 47a. raaghava* = oh, Raghava; *prakR^iSTe* = in respect of nobleman; *apa kR^iSTaH*
 = ignoble; *prati vaktum* = in turn, speak - to rebut, disprove; *na shaknuyaat hi* =
 not, capable, indeed; *mayaa puurvam* = by me, earlier; *pramaadaat* = accidentally -
@@ -2375,6 +2356,25 @@ not, apt of you.
 "Indeed an ignoble cannot disprove a nobleman, Raghava, and with regards to the undesirable and improper
 words I have unwittingly spoken earlier, in that mater too it will be truly unapt of you to make me
 blameworthy, as I spoke them in anguish and ignorance. [4-18-46, 47a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*47b, c. tvam hi dR^iSTa artha tattvaj~naH* = you, alone, seen [knower of,] means [recourses,
+and their] real nature; *prajaanaam ca hite rataH* = in people's, also, welfare, delighted in;
+*avyayaa buddhiH* = with faultless, intellect; *kaarya kaaraNa siddhau ca* = effect, cause,
+in accomplishment; *prasannaa* = serene, clear.
+
+**अनुवादः**
+
+"You alone are the knower of recourses and their real nature, namely probity, prosperity, pleasure seeking,
+and emancipation; *dharma, artha, kaama, moksha* ; and you take delight
+in the welfare of subjects, and your faultless intellect is clear in accomplishing ends by judging the
+causes and effects. [4-18-47b, c]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>
@@ -2878,51 +2878,6 @@ achieve the heaven itself. [4-18-56, 57a]
 
 **पदच्छेदः**
 
-*59. saH raamaH* = he, that Rama; *vyakta darshanam* = one who has clear, view - clear
-thought; *tam vaalinam* = him, that Vali; *saadhu sammatayaa* = to savants, agreeable;
-and; *dharma tatva artdha yuktayaa* = probity's, essence, meaning, containing; *vaacaa*
-= with words; *aashvaasayat* = consoled.
-
-**अनुवादः**
-
-Rama consoled Vali with words that are agreeable to savants and that contain the essence and meaning
-of rightness, while Vali is with an evincible perspective of righteousness by now. And Rama spoke to
-Vali this way. [4-18-59]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-श्रीरामचन्द्रनल्लि हीगॆ हेळि वानरराज वालियु सुम्मनादनु. आग अवन ज्ञानशक्तिय विकासवागित्तु. श्रीरामनु धर्मद यथार्थ स्वरूपवन्नु प्रकटपडिसुवन्तह साधु पुरुषरिन्द प्रशंसितवाद मातिनल्लि अवनल्लि हेळिदनु-वानरेश्वरने! नीनु इदक्कागि सन्तापपडबारदु. कपिप्रवर! नीनु नम्म कुरितु हागू निन्न कुरितु चिन्तिसुव आवश्यकतॆ इल्ल; एकॆन्दरॆ नावु निनगिन्त विशेषज्ञरागिद्देवॆ, अदक्कागि नावु धर्मानुकूल कार्यमाडुवुदन्ने निश्चयिसिरुवॆवु.॥58-60॥
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*60. plavan gama* = oh, fly-jumper; *etat artham* = for this, reason; *tvayaa sataapaH
-na kaaryaH* = by you, remorse, not, doable; *hari sattama* = oh, monkey, the best; *bhavataa
-vayam* = by you, we [who are now left behind you, Tara, Angada and us]; *na cintyaa* = not,
-those that are to bothered; *aatmaa api na* = about yourself, even, not [to be bothered]; *
-vayam* = we; *bhavat* = in your respect; *visheSeNa* = [anugraha buddhyaa] = considerateness;
-*dharmataH* = according to rightness; *kR^itaH nishcayaaH* = made, decision - we took
-a decision.
-
-**अनुवादः**
-
-"Oh, fly-jumper, you need not be remorseful about your wife, son and others you leave behind, because
-we take care of them... nor you should bother about us thinking that we have arbitrarily eliminated
-you, nor necessarily bother about yourself for committing sins, as we took this decision according to
-rightness and considerateness in your respect. [4-18-60]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *57b, 58. aham taarayaa vaaryamaaNaH api* = I, by Tara, dissuaded, though; *tvataH vadham
 aakaankshayan* = by you, I, elimination, [as though] aspiring; *bhraataa sugriiveNa saha*
 = with brother, Sugreeva, along with; *dvandva yuddham upaagatam* = duel, combat, I obtained
@@ -2947,6 +2902,51 @@ Rama, he wanted to defeat that unknown Rama, along with suppressing Sugreeva's t
 Tara that he is not going to kill Sugreeva, but wanted to take him to task. On coming to field Rama
 is not evident. Then Vali wanted to see to Sugreeva first and then search for Rama. But what happened
 is the reverse of it. Perhaps gorilla war tactics started from this point onwards.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+श्रीरामचन्द्रनल्लि हीगॆ हेळि वानरराज वालियु सुम्मनादनु. आग अवन ज्ञानशक्तिय विकासवागित्तु. श्रीरामनु धर्मद यथार्थ स्वरूपवन्नु प्रकटपडिसुवन्तह साधु पुरुषरिन्द प्रशंसितवाद मातिनल्लि अवनल्लि हेळिदनु-वानरेश्वरने! नीनु इदक्कागि सन्तापपडबारदु. कपिप्रवर! नीनु नम्म कुरितु हागू निन्न कुरितु चिन्तिसुव आवश्यकतॆ इल्ल; एकॆन्दरॆ नावु निनगिन्त विशेषज्ञरागिद्देवॆ, अदक्कागि नावु धर्मानुकूल कार्यमाडुवुदन्ने निश्चयिसिरुवॆवु.॥58-60॥
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*59. saH raamaH* = he, that Rama; *vyakta darshanam* = one who has clear, view - clear
+thought; *tam vaalinam* = him, that Vali; *saadhu sammatayaa* = to savants, agreeable;
+and; *dharma tatva artdha yuktayaa* = probity's, essence, meaning, containing; *vaacaa*
+= with words; *aashvaasayat* = consoled.
+
+**अनुवादः**
+
+Rama consoled Vali with words that are agreeable to savants and that contain the essence and meaning
+of rightness, while Vali is with an evincible perspective of righteousness by now. And Rama spoke to
+Vali this way. [4-18-59]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*60. plavan gama* = oh, fly-jumper; *etat artham* = for this, reason; *tvayaa sataapaH
+na kaaryaH* = by you, remorse, not, doable; *hari sattama* = oh, monkey, the best; *bhavataa
+vayam* = by you, we [who are now left behind you, Tara, Angada and us]; *na cintyaa* = not,
+those that are to bothered; *aatmaa api na* = about yourself, even, not [to be bothered]; *
+vayam* = we; *bhavat* = in your respect; *visheSeNa* = [anugraha buddhyaa] = considerateness;
+*dharmataH* = according to rightness; *kR^itaH nishcayaaH* = made, decision - we took
+a decision.
+
+**अनुवादः**
+
+"Oh, fly-jumper, you need not be remorseful about your wife, son and others you leave behind, because
+we take care of them... nor you should bother about us thinking that we have arbitrarily eliminated
+you, nor necessarily bother about yourself for committing sins, as we took this decision according to
+rightness and considerateness in your respect. [4-18-60]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm)
 </details>

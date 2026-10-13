@@ -390,23 +390,6 @@ making the City of Lanka debacled?."
 
 **पदच्छेदः**
 
-*8. plavaN^gama* = O Hanuma!; *yaH* = In that; *samayaH* =
-time; *kR^itaH* = given; *mama* = to me; *nR^ishamsena raavaNena* = by the cruel
-RavanaH; *dashamaH* = the tenth; *maasaH* = month; *vartate* = is running; *
-dvau tu* = only two months; *sheshau* = are left.
-
-**अनुवादः**
-
-"O Hanuma! Out of the time-limit given to me by the cruel Ravana for my survival, the
-tenth month is now running. Only two months are left out."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *7. yaavadeva* = till; *ayam* = this; *samvatsara kaalaH*
 = period of one year; *na puuryate* = is not completed; *saH* = that Rama; *vaachyaH*
 = is to be told; *samtvarasveti* = to make haste; *mama* = (since) my; *jiivitam*
@@ -416,6 +399,23 @@ tenth month is now running. Only two months are left out."
 
 "Till the current period of one year is not completed, that Rama is to be told to make
 haste to save me; since my life will be lasting till such time only."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*8. plavaN^gama* = O Hanuma!; *yaH* = In that; *samayaH* =
+time; *kR^itaH* = given; *mama* = to me; *nR^ishamsena raavaNena* = by the cruel
+RavanaH; *dashamaH* = the tenth; *maasaH* = month; *vartate* = is running; *
+dvau tu* = only two months; *sheshau* = are left.
+
+**अनुवादः**
+
+"O Hanuma! Out of the time-limit given to me by the cruel Ravana for my survival, the
+tenth month is now running. Only two months are left out."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
 </details>
@@ -619,23 +619,6 @@ _________________
 
 **पदच्छेदः**
 
-*13. vaanara* = O Hanuma!; *raaghave* = In Rama; *utsaahaH*
-= perseverance; *paruSam* = manliness; *sattvam* = courage; *anR^ishamsyam* = non-mischievousness;
-*kR^itaJNataa* = gratitude; *vikramashcha* = prowess; *prabhaavashcha* = and energy;
-*santi* = are there.
-
-**अनुवादः**
-
-"O Hanuma! In Rama are figured, pesseverence, manliness, courage, non-mischievousness,
-gratitude, prowess and energy."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *12. harishreSTha* = O Hanuma the excellent of monkeys!; *patiH*
 = Rama; my husband; *asamshayam* = without doubt; *praapasyasi* = will obtain; *maam*
 = me; *kSipram* = soon; *me* = My; *antaraatmaacha* = heart; *shuddhaH*
@@ -646,6 +629,23 @@ gratitude, prowess and energy."
 
 "O Hanuma the excellent of monkeys! Rama, my husband, will soon regain me without any
 doubt. Because my heart is pure and in Rama also, there are many good qualities existing."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*13. vaanara* = O Hanuma!; *raaghave* = In Rama; *utsaahaH*
+= perseverance; *paruSam* = manliness; *sattvam* = courage; *anR^ishamsyam* = non-mischievousness;
+*kR^itaJNataa* = gratitude; *vikramashcha* = prowess; *prabhaavashcha* = and energy;
+*santi* = are there.
+
+**अनुवादः**
+
+"O Hanuma! In Rama are figured, pesseverence, manliness, courage, non-mischievousness,
+gratitude, prowess and energy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
 </details>
@@ -711,6 +711,22 @@ doubt. Because my heart is pure and in Rama also, there are many good qualities 
 
 **पदच्छेदः**
 
+*14. yaH* = which Rama; *vinaabhraatraa* = without the help of Lakshmana;
+his brother; *janasthaane* = in Janasthana; part of the forest; *kaH* = which shatruH
+= adversary; *nodvijet* = will not have fear; *tasya* = of such Rama?
+
+**अनुवादः**
+
+"Which Rama, who without the help of Lakshmana his brother, killed fourteen thousand
+demos in Janasthana (part of the forest), what adversary will not have fear of such a man?"
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *15. saH* = that Rama; *puruSarSabhaH* = the excellent of men;
 *na shakyaH* = is not compelled; *tulayitum* = to be moved; *vyasanaiH* = by troubles;
 *aham* = I; *prabhaavaJNaa* = know the energy; *tasya* = of Rama; *pulomajaa*
@@ -720,22 +736,6 @@ doubt. Because my heart is pure and in Rama also, there are many good qualities 
 
 "Rama, the excellent among men, is not compelled to be moved by troubles. I now well
 the energy of Rama, as Shachi the wife of Indra knows the energy of Indra the Lord of celestials."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*14. yaH* = which Rama; *vinaabhraatraa* = without the help of Lakshmana;
-his brother; *janasthaane* = in Janasthana; part of the forest; *kaH* = which shatruH
-= adversary; *nodvijet* = will not have fear; *tasya* = of such Rama?
-
-**अनुवादः**
-
-"Which Rama, who without the help of Lakshmana his brother, killed fourteen thousand
-demos in Janasthana (part of the forest), what adversary will not have fear of such a man?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
 </details>
@@ -1112,14 +1112,17 @@ _________________
 
 **पदच्छेदः**
 
-*23. mahaabalan* = the mighty Rama; *tvaddarshana kR^itotsaaham*
-= with a gusto to see you; *ashramastham* = is staying in a hermitage; *puramdaramiva*
-= even as Indra the destroyer of strong holds; *aasiinam* = sitting; top of Airavata the elephant.
+*22. vaidehi* = O Seetha!; *adyaiva* = now itself; *drakSyasi*
+= you can see; *raaghavam* = Rama; *sahalakSmaNam* = together with Lakshmana; *vyavasaaya
+samaayuktam* = getting ready for a strenuous effort ( to annihilate the demons); *viSnum yathaa*
+= as Vishnu the Lord of preservation; (is getting ready); *daitya vadhe* = for annihilation of
+demons.
 
 **अनुवादः**
 
-"The mighty Rama, with a gusto to see you, is staying in a hermitage, even as Indra the
-destroyer of strong-holds sitting on the back of Airavata the elephant."
+"O Seetha! Now itself, you can see Rama together with Lakshmana, getting ready for a
+strenuous effort to annihilate the demons, as Vishnu the Lord of Preservation getting ready for killing
+of demons."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
 </details>
@@ -1133,17 +1136,14 @@ destroyer of strong-holds sitting on the back of Airavata the elephant."
 
 **पदच्छेदः**
 
-*22. vaidehi* = O Seetha!; *adyaiva* = now itself; *drakSyasi*
-= you can see; *raaghavam* = Rama; *sahalakSmaNam* = together with Lakshmana; *vyavasaaya
-samaayuktam* = getting ready for a strenuous effort ( to annihilate the demons); *viSnum yathaa*
-= as Vishnu the Lord of preservation; (is getting ready); *daitya vadhe* = for annihilation of
-demons.
+*23. mahaabalan* = the mighty Rama; *tvaddarshana kR^itotsaaham*
+= with a gusto to see you; *ashramastham* = is staying in a hermitage; *puramdaramiva*
+= even as Indra the destroyer of strong holds; *aasiinam* = sitting; top of Airavata the elephant.
 
 **अनुवादः**
 
-"O Seetha! Now itself, you can see Rama together with Lakshmana, getting ready for a
-strenuous effort to annihilate the demons, as Vishnu the Lord of Preservation getting ready for killing
-of demons."
+"The mighty Rama, with a gusto to see you, is staying in a hermitage, even as Indra the
+destroyer of strong-holds sitting on the back of Airavata the elephant."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
 </details>
@@ -1212,23 +1212,6 @@ _________________
 
 **पदच्छेदः**
 
-*25. tvam* = you; *adhiruhya* = ascend; *matpR^iSTham* = my
-back; *tara* = and cross; *aakaashamahaarNavau* = the sky and the ocean; *kathayantiiva*
-= as though speaking; *mahaarchiSaa suuryeNa* = to the greatly resplendent sun; *chandreNa*
-= and to the moon.
-
-**अनुवादः**
-
-"You ascend my back and cross the ocean by journeying through the sky, as though speaking
-to the greatly resplendent sun and to the moon."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *24. shobhane devi* = O Seetha the auspicious princess!; *aaroha*
 = Ascend; *mama* = my; *pR^iSTham* = back; *maa vichaaraya* = do not have hesitation;
 *anvichchha* = be inclined; *yogam* = of joining; *raameNa* = with Rama; *rohiNii
@@ -1238,6 +1221,23 @@ iva* = as Rohini moon's favourite wife; *shashaaN^ka* = (went) to the moon
 
 "O Seetha the auspicious princess! Mount on my back. Do not have any hesitation. Be inclined
 of joining Rama even as Rohini, moon's favourite wife, joined the moon."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*25. tvam* = you; *adhiruhya* = ascend; *matpR^iSTham* = my
+back; *tara* = and cross; *aakaashamahaarNavau* = the sky and the ocean; *kathayantiiva*
+= as though speaking; *mahaarchiSaa suuryeNa* = to the greatly resplendent sun; *chandreNa*
+= and to the moon.
+
+**अनुवादः**
+
+"You ascend my back and cross the ocean by journeying through the sky, as though speaking
+to the greatly resplendent sun and to the moon."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
 </details>
@@ -2602,15 +2602,15 @@ down. Then, the wicked demons, catching hold of me fallen, may take me again to 
 
 **पदच्छेदः**
 
-*54. harishreSTha* = O the best of monkeys!; *vaa* = or; *aham*
-= (while) I; *abhitarjitaa* = am frightened; *rakSobhih* = by the demons; *vipadyeyam
-api* = I may get into a calamity; *tvatprayatnaH* = your effort; *bhavet* = will become;
-*niSphala eva tu* = futile indeed.
+*53. maam hareyuH* = (or) they may take me awa; *tvaddhastaat* =
+from your hand; *vaa* = or; *vishaseyuH* = or may even kill (me); *yuddhe* = In
+battle; *jayaapajayau* = victory and defeat; *dR^ishyete hi* = indeed are being seen;
+*avyavasthau* = as unsettled.
 
 **अनुवादः**
 
-"O the best of monkeys! Or while I am frightened by the demons, I may get into a mishap.
-Thus, your effort may become futile indeed!"
+"Or they may take me away from your hand, or may even kill me. In battle, victory and
+defeat are perceived as uncertain."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
 </details>
@@ -2624,15 +2624,15 @@ Thus, your effort may become futile indeed!"
 
 **पदच्छेदः**
 
-*53. maam hareyuH* = (or) they may take me awa; *tvaddhastaat* =
-from your hand; *vaa* = or; *vishaseyuH* = or may even kill (me); *yuddhe* = In
-battle; *jayaapajayau* = victory and defeat; *dR^ishyete hi* = indeed are being seen;
-*avyavasthau* = as unsettled.
+*54. harishreSTha* = O the best of monkeys!; *vaa* = or; *aham*
+= (while) I; *abhitarjitaa* = am frightened; *rakSobhih* = by the demons; *vipadyeyam
+api* = I may get into a calamity; *tvatprayatnaH* = your effort; *bhavet* = will become;
+*niSphala eva tu* = futile indeed.
 
 **अनुवादः**
 
-"Or they may take me away from your hand, or may even kill me. In battle, victory and
-defeat are perceived as uncertain."
+"O the best of monkeys! Or while I am frightened by the demons, I may get into a mishap.
+Thus, your effort may become futile indeed!"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga37/sundarasans37.htm)
 </details>

@@ -1012,23 +1012,6 @@ _________________
 
 **पदच्छेदः**
 
-*23. varaane* = O one with best face!; *bhiiru* = O timid one! daakshiNyena
-= with consideration; *pratikarmaabhi saMyuktaa* = together with decoration; *bhuMksva* = enjoy;
-*bhogaan* = luxuries; *yathaa kaamam* = according to your desire; *piba* = drink; *ramasva
-cha* = Rejoice
-
-**अनुवादः**
-
-"O one with best face! O timid one! With consideration enjoy luxuries according to your desire
-together with decoration. Drink. Rejoice."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 21; *22. iccha* = desire; *maam* = me; *adya* = now; *tava* =
 (let) your; *uttamam* = best; *pratikarma* = decoration; *kriyataam* = be made; *tava*
 = on your; *aN^ge* = body; *bhushhaNaani* = (let) ornaments also; *saprabhaaNi* = with great
@@ -1039,6 +1022,23 @@ brilliance; *avasajya* = be fit; *saadhu pashyaami* = I will see well; *tava* = 
 
 "Desire me! Now let your best decoration be made. On your body let ornaments also with great brilliance
 be fit. I will see well your form together with decoration."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*23. varaane* = O one with best face!; *bhiiru* = O timid one! daakshiNyena
+= with consideration; *pratikarmaabhi saMyuktaa* = together with decoration; *bhuMksva* = enjoy;
+*bhogaan* = luxuries; *yathaa kaamam* = according to your desire; *piba* = drink; *ramasva
+cha* = Rejoice
+
+**अनुवादः**
+
+"O one with best face! O timid one! With consideration enjoy luxuries according to your desire
+together with decoration. Drink. Rejoice."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga20/sundarasans20.htm)
 </details>

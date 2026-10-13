@@ -756,23 +756,6 @@ the time of destruction of the word and is creating an anguish in the night."
 
 **पदच्छेदः**
 
-*19. lakSmaNa* = O; Lakshmana!; *pashya* = behold; *nakSatraaNi*
-= (that) the stars; *dR^ishyante* = are not appearing; *yathaavat* = as they should be;
-*shamsatiiva* = foretelling; *abhivartate* = and intending to quicken; *yugaantam*
-= a final dissolution; *lokasya* = of the world.
-
-**अनुवादः**
-
-"O, Lakshmana! The stars are not appearing as they should be duly foretelling their intention
-to hasten a final dissolution of the world."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *18. lakSmaNa* = O; Lakshamana!; *aaditya maNDale* = In the disk
 of the sun; *hrasvaH* = a small; *pariveSaH* = halo; *niilam* = with a black;
 *lakSma* = mark; *ruukSaH* = fiery; *aprashastaH* = shoren of its radiance; *
@@ -782,6 +765,23 @@ sulohitaH* = and of coppery hue; *lakSyate* = is seen.
 
 "O, Lakshmana! In the disk of the sun, a small halo with a black mark, fiery, shorn of
 its radiance and of coppery hue is seen."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*19. lakSmaNa* = O; Lakshmana!; *pashya* = behold; *nakSatraaNi*
+= (that) the stars; *dR^ishyante* = are not appearing; *yathaavat* = as they should be;
+*shamsatiiva* = foretelling; *abhivartate* = and intending to quicken; *yugaantam*
+= a final dissolution; *lokasya* = of the world.
+
+**अनुवादः**
+
+"O, Lakshmana! The stars are not appearing as they should be duly foretelling their intention
+to hasten a final dissolution of the world."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
@@ -2576,27 +2576,6 @@ than all the celestials and demons put together.
 
 **पदच्छेदः**
 
-*61. saumya* = O; gentle; *kape* = Angada!; *laN^ghayitvaa*
-= after passing; *laNKaam purrim* = the city of Lanka; *tyaktvaa* = abandoning; *bhayam*
-= fear; *gata vyathaH* = free from anxiety; *gatvaa* = and approaching; *dashagriivam*
-= Ravana; *bhraSTa shriikam* = the unfortunate demon; *gataishvaryam* = devoid of sovereignity;
-*mumuurSanaSTa chetasam* = who lost splendour because of his desire for death; *bruuhi*
-= tell (him); *madvachanaat* = as my words.
-
-**अनुवादः**
-
-"Go my gentle Angada on my behalf and, passing thought the city of Lanka without fear
-and anxiety and Lanka without fear and anxiety and approaching Ravana - the unfortunate demon devoid
-of sovereignty and who has lost his splendour because of his inclination to die - admonish him in the
-following words:"
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 58; 59; *60. samviveshya* = having ranged; *svam* = his; *sainyam*
 = forces; *evam* = thus; (in the battle-array); *vadhe* = with a view to destruct; *
 rakSasaam* = the demons; *raaghavaH* = Rama; *karma yogaartha tattva vit* = who knew
@@ -2616,6 +2595,27 @@ the four expedients (to be used against an enemy in the shape of conciliation, g
 and punishment) employed in succession, took counsel again and again with his ministers and arrived
 at a decision. Calling to his mind the duty of the kings, Rama who was eager to undertake what was to
 be done next, in concurrence with Vibhishana, summoned Angada the son of Vali and spoke as follows:
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*61. saumya* = O; gentle; *kape* = Angada!; *laN^ghayitvaa*
+= after passing; *laNKaam purrim* = the city of Lanka; *tyaktvaa* = abandoning; *bhayam*
+= fear; *gata vyathaH* = free from anxiety; *gatvaa* = and approaching; *dashagriivam*
+= Ravana; *bhraSTa shriikam* = the unfortunate demon; *gataishvaryam* = devoid of sovereignity;
+*mumuurSanaSTa chetasam* = who lost splendour because of his desire for death; *bruuhi*
+= tell (him); *madvachanaat* = as my words.
+
+**अनुवादः**
+
+"Go my gentle Angada on my behalf and, passing thought the city of Lanka without fear
+and anxiety and Lanka without fear and anxiety and approaching Ravana - the unfortunate demon devoid
+of sovereignty and who has lost his splendour because of his inclination to die - admonish him in the
+following words:"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>
@@ -4184,23 +4184,6 @@ his own destruction, he became a desponded demon.
 
 **पदच्छेदः**
 
-*95. suSeNastu* = now Sushena; *mahaaviiryaH* = the most valiant;
-*hariH* = girikuuTopamaH = was like the head of the mountain; *tatra* = there; *bahubhiH*
-= samvR^itaH = surrounded by; innumerable; *vaanaraiH* = monkeys; *kaamaruupibhiH* = who
-were able to change their form at will.
-
-**अनुवादः**
-
-Now, Sushena the highly valiant monkey, was stationed there like the head of the mountain
-surrounded by innumerable monkeys, who were bale to change their form at will.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
 *94. vR^itaH* = surrounded; *bahubhiH plavaNgamaiH* = by many monkeys;
 *vinadadbhiH* = roaring; *hR^iSTaiH* = with delight; *raamastu* = Rama on his part;
 *abhivartata* = was proceeding ahead; *yuddhaayaiva* = for the battle already; *ripuvadhaa
@@ -4210,6 +4193,23 @@ kaaN^kSii* = with an intent to wipe out the enemy.
 
 Surrounded by many monkeys, roaring with delight, Rama on his part was proceeding ahead
 already for the battle, with an intent to wipe out the enemy.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
+*95. suSeNastu* = now Sushena; *mahaaviiryaH* = the most valiant;
+*hariH* = girikuuTopamaH = was like the head of the mountain; *tatra* = there; *bahubhiH*
+= samvR^itaH = surrounded by; innumerable; *vaanaraiH* = monkeys; *kaamaruupibhiH* = who
+were able to change their form at will.
+
+**अनुवादः**
+
+Now, Sushena the highly valiant monkey, was stationed there like the head of the mountain
+surrounded by innumerable monkeys, who were bale to change their form at will.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm)
 </details>

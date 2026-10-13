@@ -314,6 +314,23 @@ In its heaviness were Mounts Meru and Mandara. Its shaft was made of ether.
 
 **पदच्छेदः**
 
+*7. supuNkham* = provided with good shaft; *hema bhuuShitam* =
+decked with gold; *jaajvalyamaanam vapuShaa* = (the arrow) which had its body shining;
+*kR^itam* = had been made-up; *tejasaa sarva bhuutaanaam* = of the efficacy of all
+the elements; *bhaaskara varchasam* = and an illuminating power of the sun.
+
+**अनुवादः**
+
+Provided with good shaft decked with gold, the arrow which had its body shining, had
+been made up of the efficacy of all the elements and an illuminating power of the sun.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *8. diiptam* = blazing; *kaalaagnim iva* = like a fire at the
 time of universal dissolution; *sadhuumam* = enveloped in smoke; *aashiiviShopamam* =
 and looking like a venomous snake; *kShipra kaariNam* = it was swift in action;
@@ -325,23 +342,6 @@ elephants and horses.
 Blazing like a fire at the time of universal dissolution enveloped in smoke and
 looking like a venomous snake, it was swift in action and capable of bursting hosts of men,
 elephants and horses.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*7. supuNkham* = provided with good shaft; *hema bhuuShitam* =
-decked with gold; *jaajvalyamaanam vapuShaa* = (the arrow) which had its body shining;
-*kR^itam* = had been made-up; *tejasaa sarva bhuutaanaam* = of the efficacy of all
-the elements; *bhaaskara varchasam* = and an illuminating power of the sun.
-
-**अनुवादः**
-
-Provided with good shaft decked with gold, the arrow which had its body shining, had
-been made up of the efficacy of all the elements and an illuminating power of the sun.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>
@@ -385,6 +385,28 @@ _________________
 
 **पदच्छेदः**
 
+*9. bhedanam* = (It) broke; *dvaaraaNaam* = gate-ways;
+*parighaaNaam* = iron bars; *giriiNamch api* = and even mountains; *naanaarudhira
+digdhaaN^gam* = smeared with the blood of various victims; *medodigdham* = and quoted
+with their marrow; *sudaaruNam* = (it presented) a very terrific appearance.
+
+**अनुवादः**
+
+It broke gate-ways, iron bars, and even mountains. Smeared witht he blood of various
+victims and quoted with their marrow, it presented a very terrific appearance.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
+</details>
+
+<details><summary>अनुवाद (कन्नड)</summary>
+
+दॊड्ड दॊड्ड द्वारगळन्नु, परिघ, पर्वतगळन्नू कूड ऒडॆदु हाकुव शक्ति अदरल्लि इत्तु. अदर शरीर नाना रीतिय रक्तगळिन्दलू मॆदस्सिनिन्दलू परिपुष्टवागित्तु. नोडलू अदु भयङ्करवागित्तु. वज्रदन्तॆ कठोर, महाशब्ददिन्द कूडिद्दु, अनेकानेक युद्धगळल्लि शत्रुसैन्यवन्नु विवीर्णगॊळिसुव, ऎल्लरिगॆ नोवु कॊडुव हागू बुसुगुट्टुत्तिरुव सर्पदन्तॆ भयङ्कर वागित्तु. युद्धदल्लि अदु यमन भयावह रूप धरिसुत्तित्तु. रणरङ्गदल्लि कागॆगळु, हद्दु, कॊक्करॆ, गिडुग हागू पिशाचिगळिगॆ अदु सदाकाल आहार ऒदगिसुत्तित्तु.॥9-11॥
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *10. vajrasaaram* = (It) had an efficacy of a thunder-bolt; mahaanaadam
 it made a great sound; *naanaa samiti daaraNam* = It tore off various kinds of armies of
 adversaries (in many battles); *sarvavitraasanam* = creating fear to all; *shvasantam
@@ -396,11 +418,6 @@ That arrow had an efficacy of a thunder bolt, loud-sounding, tearing off armies 
 adversaries in many battles and creating fear to all, like a hissing serpent.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
-</details>
-
-<details><summary>अनुवाद (कन्नड)</summary>
-
-दॊड्ड दॊड्ड द्वारगळन्नु, परिघ, पर्वतगळन्नू कूड ऒडॆदु हाकुव शक्ति अदरल्लि इत्तु. अदर शरीर नाना रीतिय रक्तगळिन्दलू मॆदस्सिनिन्दलू परिपुष्टवागित्तु. नोडलू अदु भयङ्करवागित्तु. वज्रदन्तॆ कठोर, महाशब्ददिन्द कूडिद्दु, अनेकानेक युद्धगळल्लि शत्रुसैन्यवन्नु विवीर्णगॊळिसुव, ऎल्लरिगॆ नोवु कॊडुव हागू बुसुगुट्टुत्तिरुव सर्पदन्तॆ भयङ्कर वागित्तु. युद्धदल्लि अदु यमन भयावह रूप धरिसुत्तित्तु. रणरङ्गदल्लि कागॆगळु, हद्दु, कॊक्करॆ, गिडुग हागू पिशाचिगळिगॆ अदु सदाकाल आहार ऒदगिसुत्तित्तु.॥9-11॥
 </details>
 
 <details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
@@ -417,23 +434,6 @@ fearful.
 
 It was giving perennial feed to vultures, eagles, cranes, troops of jackals and
 demons in the battle-field, possessing a form of Yama the lord of Death and was fearful.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*9. bhedanam* = (It) broke; *dvaaraaNaam* = gate-ways;
-*parighaaNaam* = iron bars; *giriiNamch api* = and even mountains; *naanaarudhira
-digdhaaN^gam* = smeared with the blood of various victims; *medodigdham* = and quoted
-with their marrow; *sudaaruNam* = (it presented) a very terrific appearance.
-
-**अनुवादः**
-
-It broke gate-ways, iron bars, and even mountains. Smeared witht he blood of various
-victims and quoted with their marrow, it presented a very terrific appearance.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/yuddha/sarga108/yuddhasans108.htm)
 </details>

@@ -390,25 +390,6 @@ _________________
 
 **पदच्छेदः**
 
-*10. yasmaat* = whereby; *bhaagaarthinaH* = desirer of portion [of oblations
-in Vedic-ritual] ; *bhaagam na akalpayata* = apportioned, not,
-made; *me* = to me; *suraaH* = oh gods; *varaangaaNi* = best
-limbs [heads]; *mahaarhaaNi* = highly revered [heads]; *dhanuSaa shaatayaami*
-= I will shred with bow; *vaH* = yours.
-
-**अनुवादः**
-
-'Oh, gods, whereby you have not apportioned my portion [of oblations in Vedic-ritual
-s, as I am also the] desirer of such portion, [thereby] I will shred the highly
-revered heads of yours with this bow...' [So said Shiva to gods.] [1-66-10]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *9. dakSayaj~navadhe* = devastation of Daksha Prajapati's Vedic-ritual;
 *puurvam* = once; *dhanuH aayamya viiryavaan* = outstretching
 [bowstring] bow, mettlesome [god]; *rudraH tu tridashaan* = Rudra, but, to all
@@ -420,6 +401,25 @@ gods; *roSaat saliilam idam abraviit* = rancorously, with playing
 Once, during the devastation of the Vedic-ritual of Daksha Prajapati, the mettlesome
 god Rudra, rancorously outstretching the bowstring of this bow, said this to all
 gods, superciliously... [1-66-9]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*10. yasmaat* = whereby; *bhaagaarthinaH* = desirer of portion [of oblations
+in Vedic-ritual] ; *bhaagam na akalpayata* = apportioned, not,
+made; *me* = to me; *suraaH* = oh gods; *varaangaaNi* = best
+limbs [heads]; *mahaarhaaNi* = highly revered [heads]; *dhanuSaa shaatayaami*
+= I will shred with bow; *vaH* = yours.
+
+**अनुवादः**
+
+'Oh, gods, whereby you have not apportioned my portion [of oblations in Vedic-ritual
+s, as I am also the] desirer of such portion, [thereby] I will shred the highly
+revered heads of yours with this bow...' [So said Shiva to gods.] [1-66-10]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
@@ -568,6 +568,25 @@ the God of Gods, to our ancestor [Devaraata,] for custodial care... [1-66-12, 13
 
 **पदच्छेदः**
 
+*13b, 14a. atha* = later; *me kR^iSataH kSetram* = when ploughing
+ritual-field by me; *laangalaat utthitaa tataH* = then raised from plough [by plough from furrow]
+; *kSetram shodhayataa* = while purifying [consecrating] ritual field;
+*labdhaa* = gained; *naamnaa siitaa iti vishrutaa* = thus by name [named
+as] renowned as Seetha.
+
+**अनुवादः**
+
+Later, when I was ploughing the ritual field then raised by the plough [from the
+furrow is a baby girl... since she is] gained while consecrating the ritual-field,
+she is named as Seetha, and thus she is renowned... [1-66-13b, 14a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *14b, 15a bhuutalaat utthitaa saa tu* = she arose [surfaced] from surface of earth,
 but; *vyavardhata mama aatmajaa* = fostered, my [own,] soul-born girl;
 *viiryashulkaa iti* = boldness is bounty, thus; *me* = by me; *kanyaa*
@@ -593,25 +612,6 @@ is not compulsorily be paid in hard cash, but it may be any kind of gifts mutual
 exchanged, which has slowly developed into a mega havoc these days. Here Janaka
 wants the 'valour' of his prospective son-in-law as bounty due to him in the marriage
 of Seetha.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*13b, 14a. atha* = later; *me kR^iSataH kSetram* = when ploughing
-ritual-field by me; *laangalaat utthitaa tataH* = then raised from plough [by plough from furrow]
-; *kSetram shodhayataa* = while purifying [consecrating] ritual field;
-*labdhaa* = gained; *naamnaa siitaa iti vishrutaa* = thus by name [named
-as] renowned as Seetha.
-
-**अनुवादः**
-
-Later, when I was ploughing the ritual field then raised by the plough [from the
-furrow is a baby girl... since she is] gained while consecrating the ritual-field,
-she is named as Seetha, and thus she is renowned... [1-66-13b, 14a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>
@@ -965,6 +965,23 @@ by a high rancour, they strangled the City of Mithila... [1-66-21b, 22a]
 
 **पदच्छेदः**
 
+*1. tataH prabhaate vimale* = then, in morning, aurora; *kR^itakarmaaH
+naraadhipaH* = on performing duties [morning rites,] king [Janaka]; *vishvaamitram
+mahaatmaanam* = Vishvamitra, great souled one; *aajuhaava saraaghavam*
+= invited, with Raghava-s.
+
+**अनुवादः**
+
+Then on performing morning time rites in the aurora of next morning, king Janaka
+invited great souled Vishvamitra, along with Raghava-s. [1-66-1]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *2. tam arcayitvaa dharmaaatmaa* = on reverencing him [Vishvamitra,] virtue
 souled [Janaka]; *shaastradR^iSTena karmaNaa* = formalities envisaged by scriptures
 ; *raaghavau ca* = Raghava-s, also; *mahaatmaanau* =
@@ -976,23 +993,6 @@ indeed.
 On reverencing Vishvamitra and the noble souled Raghava-s according to the formalities
 envisaged by scriptures, then the virtue souled Janaka spoke these words, indeed.
 [1-66-2]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*1. tataH prabhaate vimale* = then, in morning, aurora; *kR^itakarmaaH
-naraadhipaH* = on performing duties [morning rites,] king [Janaka]; *vishvaamitram
-mahaatmaanam* = Vishvamitra, great souled one; *aajuhaava saraaghavam*
-= invited, with Raghava-s.
-
-**अनुवादः**
-
-Then on performing morning time rites in the aurora of next morning, king Janaka
-invited great souled Vishvamitra, along with Raghava-s. [1-66-1]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm)
 </details>

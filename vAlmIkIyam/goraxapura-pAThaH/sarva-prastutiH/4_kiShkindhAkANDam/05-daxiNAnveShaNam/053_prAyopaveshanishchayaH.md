@@ -382,6 +382,23 @@ _________________
 
 **पदच्छेदः**
 
+*8. harayaH* = oh, monkeys; *vayam sarve* = we, all; *kapi raajasya shaasanaat* = monkey,
+king's, by command of; *vi nir gataaH* = verily, out, came [came out, started]; *bila sthaanaam*
+= in black-hole, while we were; *maasaH puurNaH* = month, zeroed out; *kim na budhyate* = why, not,
+be sensible of it - are you aware of it?
+
+**अनुवादः**
+
+"Oh, monkeys, we all have started at the command of the king of monkeys, and the month fixed by him is zeroed
+out while we were in Black Cavity. Are you aware of it?" Thus Angada started to speak his mind. [4-53-8]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *9. vayam* = we; *kaala sankhyaa vyavasthitaaH* = time, calculation, scheduled to; *aashvayuje
 maasi* = in aashviiyuja, month; *prasthitaaH* = sent out; *saH api atiitaH ca* = that, even,
 lapsed, also; *ataH* = thereby; *uttaram kaaryam kim* = next, to be done, what.
@@ -411,23 +428,6 @@ in cavity, thus this is *phalguNa maasa*. This analogy is based on the analogy u
 Sugreeva *kaartiike samanupraapte tvam raavaNam dheyata* "On the advent of *kaartika* month
 [October, post-rainy season,] you shall try for the elimination of Ravana... this is our accord... hence oh,
 gentle one, enter your mansion for now..." at 4-26-17.
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*8. harayaH* = oh, monkeys; *vayam sarve* = we, all; *kapi raajasya shaasanaat* = monkey,
-king's, by command of; *vi nir gataaH* = verily, out, came [came out, started]; *bila sthaanaam*
-= in black-hole, while we were; *maasaH puurNaH* = month, zeroed out; *kim na budhyate* = why, not,
-be sensible of it - are you aware of it?
-
-**अनुवादः**
-
-"Oh, monkeys, we all have started at the command of the king of monkeys, and the month fixed by him is zeroed
-out while we were in Black Cavity. Are you aware of it?" Thus Angada started to speak his mind. [4-53-8]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>
@@ -524,23 +524,6 @@ all well-disposed in the well-being of your king, and you are the contrivers of 
 
 **पदच्छेदः**
 
-*12. idaaniim* = as of now; *a kR^ita arthaanaam* = not, done [completed,] purpose - our mission
-is incomplete; hence; *martavyam* = we have to die [at the hand of Sugreeva]; *atra sanshayaH na*
-= in this matter, doubt, is not there; *hari raajasya sandesham* = monkeys, king's, directive; *a kR^itvaa*
-= by not, doing - keeping it incomplete; *kaH sukhii bhavet* = who, complacent, can be.
-
-**अनुवादः**
-
-"As of now our mission is incomplete hence we are scheduled to die, and there is no doubt about it. Who can be
-complacent by keeping the directive of monkey's king incomplete? [4-53-12]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *11. sarve* = all of you ['all' is now ellipted to all attributes]; *karmasu a pratimaaH* = in tasks,
 not, paralleled ones; *dikshu vishruta pauruSaaH* = in directions, renowned, asperity; *pinga aksha
 praticoditaaH* = ochreish, eyed [Sugreeva,] impelled by; *maam puraskR^itya niryaataaH* = me, keeping
@@ -550,6 +533,23 @@ afore - as helmsman, started out.
 
 "All of you are unparalleled in all tasks, all your asperity is renowned in all directions, and all of you have
 come impelled by that ochreish eyed Sugreeva keeping me as your helmsman. [4-53-11]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*12. idaaniim* = as of now; *a kR^ita arthaanaam* = not, done [completed,] purpose - our mission
+is incomplete; hence; *martavyam* = we have to die [at the hand of Sugreeva]; *atra sanshayaH na*
+= in this matter, doubt, is not there; *hari raajasya sandesham* = monkeys, king's, directive; *a kR^itvaa*
+= by not, doing - keeping it incomplete; *kaH sukhii bhavet* = who, complacent, can be.
+
+**अनुवादः**
+
+"As of now our mission is incomplete hence we are scheduled to die, and there is no doubt about it. Who can be
+complacent by keeping the directive of monkey's king incomplete? [4-53-12]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm)
 </details>

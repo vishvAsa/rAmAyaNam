@@ -379,22 +379,6 @@ _________________
 
 **पदच्छेदः**
 
-*9b, 10a. kim karomi iti ca* = what, I shall do, thus, also; *mayaa vyaahR^itam dvija sannidhau*
-= by me, said, in Brahmins', in front of; *sarvaiH eva samaagamya* = all, thus, thronging;
-*vaak iyam sam udaahR^itaa* = word, this, spoke out.
-
-**अनुवादः**
-
-"Then I said before the Brahmans, "what shall I do?" All of them thus thronged and spoke this word.
-[4-10-9b, 10a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *7b, 8, 9a. evam teSaam mukhaat cyutam vacanam shrutvaa* = this way, from their, mouth, fel,
 words, on hearing; *mayaa tu* = by me, but; *kR^itvaa vacana shushruSaam* = on making,
 vocal, vassalage - comforting them verbally; *vaakyam etat udaahR^itam* = sentence, this one,
@@ -409,6 +393,22 @@ hi* = this, for me, immense, shame/dishonour, indeed.
 "Be gracious to me... you all... by which reason I am being addressed this way by this kind of eminent
 Brahmans, whom I should have actually addressed my self, this indeed is a dishonour for me... [4-10-7b,
 8, 9a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*9b, 10a. kim karomi iti ca* = what, I shall do, thus, also; *mayaa vyaahR^itam dvija sannidhau*
+= by me, said, in Brahmins', in front of; *sarvaiH eva samaagamya* = all, thus, thronging;
+*vaak iyam sam udaahR^itaa* = word, this, spoke out.
+
+**अनुवादः**
+
+"Then I said before the Brahmans, "what shall I do?" All of them thus thronged and spoke this word.
+[4-10-9b, 10a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>
@@ -599,23 +599,6 @@ as our ultimate course... [4-10-12b, 13a]
 
 **पदच्छेदः**
 
-14b, 15a. Raghava; *tapaH nityam bahu vighnam* = ascesis, always, with many hurdles; *
-duH caram ca eva* = impracticable, also, like that; *tena* = by the reason of it; *raakSasaiH
-bhakSyamaaNaaH* = though being eaten away, by demons; *shaapam na muncaamaH* = thus, curse,
-not, issued.
-
-**अनुवादः**
-
-"Many hurdles are always there in our practice of ascesis, and even the ascesis have become impracticable,
-oh, Raghava, thus though being eaten away by the demons we are not issuing any curse... [4-10-14b, 15a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *13b, 14a. vayam tapaH prabhaaveNa* = we are, by our ascesis, efficacy of; *hantum nishaacaraan*
 = kaamam shakaaH = to eradicate, demons, surely, we are capable of; *tu* = but; *cira arjitam
 tapaH* = for a long time, earned, ascesis [ the effect of]; *na ca icChaamaH khaNDayitum*
@@ -625,6 +608,23 @@ tapaH* = for a long time, earned, ascesis [ the effect of]; *na ca icChaamaH kha
 
 "We by the efficacy of our ascesis are surely capable to eradicate those demons, but we do not wish
 to shorten the effect of our long earned merit of ascesis... [4-10-13b, 14a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+14b, 15a. Raghava; *tapaH nityam bahu vighnam* = ascesis, always, with many hurdles; *
+duH caram ca eva* = impracticable, also, like that; *tena* = by the reason of it; *raakSasaiH
+bhakSyamaaNaaH* = though being eaten away, by demons; *shaapam na muncaamaH* = thus, curse,
+not, issued.
+
+**अनुवादः**
+
+"Many hurdles are always there in our practice of ascesis, and even the ascesis have become impracticable,
+oh, Raghava, thus though being eaten away by the demons we are not issuing any curse... [4-10-14b, 15a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/aranya/sarga10/aranyasans10.htm)
 </details>

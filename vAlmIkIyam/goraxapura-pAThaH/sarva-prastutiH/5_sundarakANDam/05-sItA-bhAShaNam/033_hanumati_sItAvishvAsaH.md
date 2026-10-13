@@ -131,14 +131,15 @@ on his head and spoke the following sweet words:
 
 **पदच्छेदः**
 
-*4. vaari shokajam* = tears of sorrow; *sravati* = are gushing down; *tava*
-= from you; *netraabhyaam* = eyes; *udakam* = as water; *viprakirNam* = scattered down;
-*puNDariika palaashaabhyaam* = from two lotus petals; *kimartham* = why?
+*3. padma palaashakSi* = O Lady with your eyes resembling lotus leaves!; *kliSTa
+kaushaya vaasini* = wearing worn-out sila cloth; *anindita* = O the irreproachable one! tiSThasi =
+you have stood aalambya = taking by the hand; *shaakhaam* = a branch; *drumasya* = of the tree;
+*kaanu* = who are you?
 
 **अनुवादः**
 
-"Tears of sorrow are gushing down from your eyes, as water is scattered down from two lotus-petals.
-Why?"
+"O Lady with your eyes resembling lotus leaves, wearing a worn out silken cloth! O, the irreproachable
+one! You have stood, holding by the hand a branch of the tree who are you?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
@@ -152,15 +153,14 @@ Why?"
 
 **पदच्छेदः**
 
-*3. padma palaashakSi* = O Lady with your eyes resembling lotus leaves!; *kliSTa
-kaushaya vaasini* = wearing worn-out sila cloth; *anindita* = O the irreproachable one! tiSThasi =
-you have stood aalambya = taking by the hand; *shaakhaam* = a branch; *drumasya* = of the tree;
-*kaanu* = who are you?
+*4. vaari shokajam* = tears of sorrow; *sravati* = are gushing down; *tava*
+= from you; *netraabhyaam* = eyes; *udakam* = as water; *viprakirNam* = scattered down;
+*puNDariika palaashaabhyaam* = from two lotus petals; *kimartham* = why?
 
 **अनुवादः**
 
-"O Lady with your eyes resembling lotus leaves, wearing a worn out silken cloth! O, the irreproachable
-one! You have stood, holding by the hand a branch of the tree who are you?"
+"Tears of sorrow are gushing down from your eyes, as water is scattered down from two lotus-petals.
+Why?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
@@ -213,15 +213,15 @@ _________________
 
 **पदच्छेदः**
 
-*6. varaanane* = O Lovely faced woman!; *kaa* = who; *bhavasi* = are
-; tvam- you; *rudraaNaam* = among eleven Rudras; who; *marutaam vaa* = or among Maruts the storm-gods;
-*vasuunaam* = or among eight Vasus; the beneficient gods?; *varaarohe* = O handsome lady with fine
-hips!; *me* = to me; *pratibhaasi* = you appear; *devataa* = as a deity.
+*5. shobhane* = O auspicious lady!; *kaa* = In whom; *tvam* = are you;
+*bhavasi* = born; *suraaNaam* = whether in celestials; *asuraaNaam vaa* = or in ogres;
+*naaga gandharvarakSasaam* = or in serpent-demons or in celestial musicians or in demons; *yakSaaNaam*
+= or in semi-divine being; *kimnaraaNaam* = or in mythical beings.
 
 **अनुवादः**
 
-"O lovely-faced woman! Who are you among eleven Rudras who bestow strength, or among Maruts the
-storm-gods or among eight Vasus the beneficent gods? O Handsome lady with fine hips! You appear to me as a deity."
+"O auspicious lady! In whom are you born-whether in celestials or in ogres or in serpent-demons
+or in celestial musicians or in demons or in semi-divine beings or in mythical beings?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
@@ -235,15 +235,15 @@ storm-gods or among eight Vasus the beneficent gods? O Handsome lady with fine h
 
 **पदच्छेदः**
 
-*5. shobhane* = O auspicious lady!; *kaa* = In whom; *tvam* = are you;
-*bhavasi* = born; *suraaNaam* = whether in celestials; *asuraaNaam vaa* = or in ogres;
-*naaga gandharvarakSasaam* = or in serpent-demons or in celestial musicians or in demons; *yakSaaNaam*
-= or in semi-divine being; *kimnaraaNaam* = or in mythical beings.
+*6. varaanane* = O Lovely faced woman!; *kaa* = who; *bhavasi* = are
+; tvam- you; *rudraaNaam* = among eleven Rudras; who; *marutaam vaa* = or among Maruts the storm-gods;
+*vasuunaam* = or among eight Vasus; the beneficient gods?; *varaarohe* = O handsome lady with fine
+hips!; *me* = to me; *pratibhaasi* = you appear; *devataa* = as a deity.
 
 **अनुवादः**
 
-"O auspicious lady! In whom are you born-whether in celestials or in ogres or in serpent-demons
-or in celestial musicians or in demons or in semi-divine beings or in mythical beings?"
+"O lovely-faced woman! Who are you among eleven Rudras who bestow strength, or among Maruts the
+storm-gods or among eight Vasus the beneficent gods? O Handsome lady with fine hips! You appear to me as a deity."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
@@ -435,15 +435,15 @@ _________________
 
 **पदच्छेदः**
 
-*11. yaani* = which; *vyaN^janaani* = marks on your person; *te lakSaNaamcha*
-= and your form; *lakSaye* = I see; (according to that); *me* = to me; *mataa* = (your are)
-believed to be; *mahiSii* = a queen; *bhuumipaalasya* = of an emperor; *raaja kanyaacha*
-= and a king's daughter.
+*10. rodanaat* = for you lamenting; *atiniH shvaasaat* = for you long sighs;
+*bhuumi sam sparshanaadapi* = also for your touching of the earth; *samjJNaavadharaNaat* = for holding
+the signs; *raajJNaH* = of a king; *aham* = I; *na manye* = do not think; *tvaam*
+= you; *deviim* = as a divine woman.
 
 **अनुवादः**
 
-"Based on the marks on your person and your bodily characteristics, I believe you to be a queen
-of an emperor and the daughter of a king."
+"You are lamenting. You are sighing a lot. You are touching the earth. You have royal insignia
+in you. According to these things, I do not consider you as a divine woman."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
@@ -457,15 +457,15 @@ of an emperor and the daughter of a king."
 
 **पदच्छेदः**
 
-*10. rodanaat* = for you lamenting; *atiniH shvaasaat* = for you long sighs;
-*bhuumi sam sparshanaadapi* = also for your touching of the earth; *samjJNaavadharaNaat* = for holding
-the signs; *raajJNaH* = of a king; *aham* = I; *na manye* = do not think; *tvaam*
-= you; *deviim* = as a divine woman.
+*11. yaani* = which; *vyaN^janaani* = marks on your person; *te lakSaNaamcha*
+= and your form; *lakSaye* = I see; (according to that); *me* = to me; *mataa* = (your are)
+believed to be; *mahiSii* = a queen; *bhuumipaalasya* = of an emperor; *raaja kanyaacha*
+= and a king's daughter.
 
 **अनुवादः**
 
-"You are lamenting. You are sighing a lot. You are touching the earth. You have royal insignia
-in you. According to these things, I do not consider you as a divine woman."
+"Based on the marks on your person and your bodily characteristics, I believe you to be a queen
+of an emperor and the daughter of a king."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
@@ -649,13 +649,15 @@ _________________
 
 **पदच्छेदः**
 
-*16. aham* = I; *duhitaa* = am the daughter; *janakasya* = of Janaka;
-*vaidehasya* = the king of Videha kingdom; *mahaatmanaH* = having a noble nature; Seetha; *naamnaa*
-= by name; *bhaaryaa* = and wife; *raamasya* = of Rama; *dhiimataH* = the wise man.
+*15. aham* = I; *snuSaa* = am the daughter-in-law; *dasharathasya* =
+of Dasaratha; *mukhyasya* = the eminent; *raaja simhaanaam* = among the excellent kings; *pR^ithi
+vyaam* = on earth; *viditaatmanaH* = who understands the nature of the spirit; *shatrusainya prataapinaH*
+= and who torments the army of the adversary.
 
 **अनुवादः**
 
-"I am the daughter of the noble-natured Janaka, the king of Videha kingdom. I am know.
+"I am the daughter-in-law of Dasaratha, eminent among the excellent kings on earth, who understands
+the nature of the spirit and who torments the army of the adversary."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
@@ -669,15 +671,13 @@ _________________
 
 **पदच्छेदः**
 
-*15. aham* = I; *snuSaa* = am the daughter-in-law; *dasharathasya* =
-of Dasaratha; *mukhyasya* = the eminent; *raaja simhaanaam* = among the excellent kings; *pR^ithi
-vyaam* = on earth; *viditaatmanaH* = who understands the nature of the spirit; *shatrusainya prataapinaH*
-= and who torments the army of the adversary.
+*16. aham* = I; *duhitaa* = am the daughter; *janakasya* = of Janaka;
+*vaidehasya* = the king of Videha kingdom; *mahaatmanaH* = having a noble nature; Seetha; *naamnaa*
+= by name; *bhaaryaa* = and wife; *raamasya* = of Rama; *dhiimataH* = the wise man.
 
 **अनुवादः**
 
-"I am the daughter-in-law of Dasaratha, eminent among the excellent kings on earth, who understands
-the nature of the spirit and who torments the army of the adversary."
+"I am the daughter of the noble-natured Janaka, the king of Videha kingdom. I am know.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>
@@ -897,6 +897,22 @@ to Dasaratha, her husband.
 
 **पदच्छेदः**
 
+*20. raamaH yadi abhiSichyate* = If Rama gets anointed; *na pibeyam* = I shall
+not drink water; *na khaadeyam* = I shall not eat; *mama* = my; *bhojanam* = food; *pratyaham*
+= daily; *eSaH* = this is; *antaH* = the end; *me* = to my; *jiivitasya* = life.
+
+**अनुवादः**
+
+"If Rama gets anointed for the kingdom, from now onwards, I shall neither drink water nor take
+my food daily. This is the end to my life."
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
+</details>
+
+<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
+
+**पदच्छेदः**
+
 *21. nR^ipatisattama* = O the excellent king!; *yat* = which; *tat vaakyam*
 = that word; *uktam* = was uttered; *tvayaa* = by you; *priityaa* = with affection; *tat
 yadi* = and if that; *na kaaryam* = for waste; *raaghavaH* = (let) Rama; *gachchatu*
@@ -906,22 +922,6 @@ yadi* = and if that; *na kaaryam* = for waste; *raaghavaH* = (let) Rama; *gachch
 
 "O the excellent king! If that word of pledge was uttered affectionately by you and if it is not
 going to be a waste, let Rama go to the forest."
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
-</details>
-
-<details><summary>Murali Krishnamurthy Kopalle Murthy</summary>
-
-**पदच्छेदः**
-
-*20. raamaH yadi abhiSichyate* = If Rama gets anointed; *na pibeyam* = I shall
-not drink water; *na khaadeyam* = I shall not eat; *mama* = my; *bhojanam* = food; *pratyaham*
-= daily; *eSaH* = this is; *antaH* = the end; *me* = to my; *jiivitasya* = life.
-
-**अनुवादः**
-
-"If Rama gets anointed for the kingdom, from now onwards, I shall neither drink water nor take
-my food daily. This is the end to my life."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga33/sundarasans33.htm)
 </details>

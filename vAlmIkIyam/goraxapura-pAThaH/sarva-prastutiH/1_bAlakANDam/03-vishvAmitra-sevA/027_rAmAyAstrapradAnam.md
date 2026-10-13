@@ -328,26 +328,6 @@ _________________
 
 **पदच्छेदः**
 
-*8b, 9a. raama* = Rama; *aham* = I; *dharmapaasham*
- = dharma noose [Virtue-noose]; *tathaiva ca* = like that, also;
- *kaalapaasham* = Kala noose [Time-noose]; *vaaruNam
- paasham* = Rain god's, noose; *anuttamam astram ca* = unequalled,
- missile, also [of Rain-god]; *dadaami* = I will give.
-
-**अनुवादः**
-
-"Oh, Rama, like that I will be giving three nooses called Dharma paasha
- and kaala-paasha and Varuna paasha, [Virtue noose and Time noose, Rain
- god's noose] as well as an unequalled missile called Varuna astra, Rain-god's
- missile. [1-27-8b, 9a]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *7b, 8a. kaakutstha* = oh Rama; *narashaarduula* = tigerly man;
  *nR^ipaatmaja* = king's son - prince; *pradiipte* =
  radiant ones [the maces]; *dve gade ca eva* = two, maces, also,
@@ -360,6 +340,26 @@ _________________
 "Oh manly tiger prince Rama, I am going to accord two maces that are
  brilliant by their radiance called, the Modaki, [the Beater,] and Shikhari,
  [the Tower of Protection.] [1-27-7b, 8a]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+*8b, 9a. raama* = Rama; *aham* = I; *dharmapaasham*
+ = dharma noose [Virtue-noose]; *tathaiva ca* = like that, also;
+ *kaalapaasham* = Kala noose [Time-noose]; *vaaruNam
+ paasham* = Rain god's, noose; *anuttamam astram ca* = unequalled,
+ missile, also [of Rain-god]; *dadaami* = I will give.
+
+**अनुवादः**
+
+"Oh, Rama, like that I will be giving three nooses called Dharma paasha
+ and kaala-paasha and Varuna paasha, [Virtue noose and Time noose, Rain
+ god's noose] as well as an unequalled missile called Varuna astra, Rain-god's
+ missile. [1-27-8b, 9a]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>
@@ -979,6 +979,25 @@ _________________
 
 **पदच्छेदः**
 
+*24. dhiimataH tasya vishvaamitrasya muneH* = intelligent one,
+ that, Vishvamitra, the saint; *japataH tu* = on chanting, but;
+ *mahaarhaaNi* = highly venerable ones; *astraaNi sarvaani*
+ = missiles, all of them; *raaghavam upatasthuH* = came nigh of Raghava
+ - stood accessible to.
+
+**अनुवादः**
+
+While that intelligent saint Vishvamitra chanted the hymns, all of those
+ highly venerable missiles came nigh and stood accessible to Raghava
+ in their astral form. [1-27-24]
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
 *25, 26a. paramodaaraaH* = highly obliging ones - missiles;
  *[paramodaaraa* = oh most noble Rama]; *sarve* = all
  of the missiles; *tadaa praanjalayaH* = then, with palm-fold;
@@ -995,25 +1014,6 @@ All of those highly obliging missiles in astral bodies, gladdening to
  are your thralls, Sire, we are here to accomplish whatever you bid us
  to do, let safety be with you." So said the deities presiding over the
  missiles to Rama. [1-27-25]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
-*24. dhiimataH tasya vishvaamitrasya muneH* = intelligent one,
- that, Vishvamitra, the saint; *japataH tu* = on chanting, but;
- *mahaarhaaNi* = highly venerable ones; *astraaNi sarvaani*
- = missiles, all of them; *raaghavam upatasthuH* = came nigh of Raghava
- - stood accessible to.
-
-**अनुवादः**
-
-While that intelligent saint Vishvamitra chanted the hymns, all of those
- highly venerable missiles came nigh and stood accessible to Raghava
- in their astral form. [1-27-24]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga27/balasans27.htm)
 </details>

@@ -344,16 +344,15 @@ _________________
 
 **पदच्छेदः**
 
-*8. bhavadbhiH sahitaH* = together with you; *balavadbhiH* = who
-are strong; *kR^itaatmabhiH* = whose spirit is disciplined; *kR^itaastraiH* = who are
-proficient in the use of arms; *shuuraiH* = who are valiant; *vijayaiSibhiH* = longing
-for victory; *plavaN^gaiH* = and who are moving by jumps; *kim punaH* = how much more
-so?
+*7. aham* = I; *paryaaptam* = an sufficient; *eko.api* = even
+alone; *hantum* = to destroy; *taam laN^kaam puriim* = that City of Lanka; *saraakSasagaNaam*
+= together with those troops of demons; *mahaabalam raavaNam cha* = and the mighty Ravana;
+*tarasaa* = rapidly.
 
 **अनुवादः**
 
-"When accompanied by you, who are strong, whose spirit is disciplined, who are proficient
-in the use of arms, valiant, longing for victory and moving by jumps, how much more is required?"
+"I am sufficient, even alone; to destroy rapidly that City of Lanka together with those
+troops of demons as also the mighty Ravana."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
@@ -367,15 +366,16 @@ in the use of arms, valiant, longing for victory and moving by jumps, how much m
 
 **पदच्छेदः**
 
-*7. aham* = I; *paryaaptam* = an sufficient; *eko.api* = even
-alone; *hantum* = to destroy; *taam laN^kaam puriim* = that City of Lanka; *saraakSasagaNaam*
-= together with those troops of demons; *mahaabalam raavaNam cha* = and the mighty Ravana;
-*tarasaa* = rapidly.
+*8. bhavadbhiH sahitaH* = together with you; *balavadbhiH* = who
+are strong; *kR^itaatmabhiH* = whose spirit is disciplined; *kR^itaastraiH* = who are
+proficient in the use of arms; *shuuraiH* = who are valiant; *vijayaiSibhiH* = longing
+for victory; *plavaN^gaiH* = and who are moving by jumps; *kim punaH* = how much more
+so?
 
 **अनुवादः**
 
-"I am sufficient, even alone; to destroy rapidly that City of Lanka together with those
-troops of demons as also the mighty Ravana."
+"When accompanied by you, who are strong, whose spirit is disciplined, who are proficient
+in the use of arms, valiant, longing for victory and moving by jumps, how much more is required?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
@@ -540,15 +540,18 @@ _________________
 
 **पदच्छेदः**
 
-*13. saagaraH* = the ocean; *atiyaadapi* = may overflow; *velaam*
-= its shore; *mandraH* = Mount Mandara; *prachaledapi* = may more from its position;
-*(But) samara* = in battle; *arivaahinii* = an army of adversaries; *na kampayet*
-= cannot stagger; *jaambavantam* = Jambavan.
+11; *12. me* = my; *vikramaH* = prowess; *abhyanuJNaataH*
+= when permitted; *bhavataam* = by you; *ruNaddhi* = will frustrate; *tam raavaNam*
+= that Ravana; *shailavR^iSTiH* = the shower of rocks; *atnlaa* = which will be unequalled;
+*nirantaraa* = and incessant; *visR^iSTaa* = discharged; *mayaa* = by me; *hanyaat*
+= can kill; *devaan api* = even celestials; *raNe* = in battle; *kim punaH* = how
+much more; *taan* = those; *nishaacharaan* = demons?
 
 **अनुवादः**
 
-"The ocean may overflow its shore. Mount Mandara may move from its position. But, in
-battle, no army of adversaries can stagger Jambavan."
+"My prowess, when permitted by you, will frustrate that Ravana. The shower of rocks,
+which will be unequalled and incessant, discharged by me, can kill even celestials. How much more those
+demons?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
@@ -562,18 +565,15 @@ battle, no army of adversaries can stagger Jambavan."
 
 **पदच्छेदः**
 
-11; *12. me* = my; *vikramaH* = prowess; *abhyanuJNaataH*
-= when permitted; *bhavataam* = by you; *ruNaddhi* = will frustrate; *tam raavaNam*
-= that Ravana; *shailavR^iSTiH* = the shower of rocks; *atnlaa* = which will be unequalled;
-*nirantaraa* = and incessant; *visR^iSTaa* = discharged; *mayaa* = by me; *hanyaat*
-= can kill; *devaan api* = even celestials; *raNe* = in battle; *kim punaH* = how
-much more; *taan* = those; *nishaacharaan* = demons?
+*13. saagaraH* = the ocean; *atiyaadapi* = may overflow; *velaam*
+= its shore; *mandraH* = Mount Mandara; *prachaledapi* = may more from its position;
+*(But) samara* = in battle; *arivaahinii* = an army of adversaries; *na kampayet*
+= cannot stagger; *jaambavantam* = Jambavan.
 
 **अनुवादः**
 
-"My prowess, when permitted by you, will frustrate that Ravana. The shower of rocks,
-which will be unequalled and incessant, discharged by me, can kill even celestials. How much more those
-demons?"
+"The ocean may overflow its shore. Mount Mandara may move from its position. But, in
+battle, no army of adversaries can stagger Jambavan."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
@@ -841,15 +841,15 @@ _________________
 
 **पदच्छेदः**
 
-*20.varotsekena* = by the pride of the boons; *viirau plavaN^gamau*
-= these two heroic monkeys; *mattoucha* = excited with joy; *pramathya* = harassing;
-*mahatiim chaamuum* = a great army; *suraaNaam* = of celestials; *piitavantau*
-= drank up; *amR^itam* = the nectar.
+*18. pitaamaha varotsekaat* = proud of having received boons from Brahma
+the creator and their grand-father; *aasthitau* = and abiding; *paramam darpam* = in a
+supreme pride; *etau* = these; *sarva vaanara sattamau* = two foremost among all the monkeys;
+*amR^itapraashinau* = live on Amrita the nectar.
 
 **अनुवादः**
 
-"By the pride of those boons, those two heroic monkeys harassed a great army of celestials
-and thereupon drank up nectar, excited as they were with joy."
+"Proud of having received boons from Brahma the creator and their grandfather and abiding
+in a supreme haughtiness, these two foremost among all the monkeys live on Amrita the nectar."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>
@@ -880,15 +880,15 @@ of Ashvini Kumaras regarding their inviolability."
 
 **पदच्छेदः**
 
-*18. pitaamaha varotsekaat* = proud of having received boons from Brahma
-the creator and their grand-father; *aasthitau* = and abiding; *paramam darpam* = in a
-supreme pride; *etau* = these; *sarva vaanara sattamau* = two foremost among all the monkeys;
-*amR^itapraashinau* = live on Amrita the nectar.
+*20.varotsekena* = by the pride of the boons; *viirau plavaN^gamau*
+= these two heroic monkeys; *mattoucha* = excited with joy; *pramathya* = harassing;
+*mahatiim chaamuum* = a great army; *suraaNaam* = of celestials; *piitavantau*
+= drank up; *amR^itam* = the nectar.
 
 **अनुवादः**
 
-"Proud of having received boons from Brahma the creator and their grandfather and abiding
-in a supreme haughtiness, these two foremost among all the monkeys live on Amrita the nectar."
+"By the pride of those boons, those two heroic monkeys harassed a great army of celestials
+and thereupon drank up nectar, excited as they were with joy."
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/sundara/sarga59/sundarasans59.htm)
 </details>

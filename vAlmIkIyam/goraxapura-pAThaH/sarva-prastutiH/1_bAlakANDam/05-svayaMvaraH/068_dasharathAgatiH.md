@@ -165,35 +165,6 @@ _________________
 
 **पदच्छेदः**
 
-4, 5. *mahaaraaja* = oh exalted emperor [Dasharatha]; *maithilaH*
-= Mithila's [sovereign]; *janakaH* = of Janaka lineage; *raajaa* =
-Janaka, king; *saagnihotrapuraskR^itaH* = you
-who ingratiates yourself with [ever and anon] fire of roituals; *sopaadhyaayapurohitam*
-= along with that of [your] teachers', priests'; *sapuraHsaram* =
-with going before [afore you a convoys of subjects always precedes, in any event,
-safeguarding your interests]; *tvaam* = your [highness]; *madhurayaa*
-= mellowly; *snehasamraktayaa giraa* = with friendship instilled words;
-*kushalam ca* = wellbeing, also; *avyayam ca eva* = unmitigated
-[prosperity,] also, thus; as such; *janakaH* = Janaka - the present king;
-*muhuH muhuH* = again, again; *pR^icChate* = is asking after.
-
-**अनुवादः**
-
-Oh, exalted emperor Dasharatha! Janaka, the lineal king of Janaka-s and the present
-sovereign of Mithila is asking time and time again with mellowly words instilled
-with friendliness, after the wellbeing and after the unmitigated prosperity of your
-highness, along with that of your highness' priests and teachers, also that of your
-highness' subjects, who always precede your highness in convoys in any event, as
-your highness are the one who ingratiates himself with the Ritual-fires, ever and
-anon... [1-68-4, 5]
-
-स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
-</details>
-
-<details><summary>Desiraju Hanumanta Rao</summary>
-
-**पदच्छेदः**
-
 *3. sarve duutaaH* = all, legates; *baddhaanjalipuTaaH* = enfolding
 both palms; *vigatasaadhvasaaH* = completely gone angst [on seeing
 godly Dasharatha]; *raajaanam* = to king; *madhuraakSaram* = mellowly
@@ -215,6 +186,35 @@ daring, dashing, swashbuckling is to be pictured, he will be indicated as 'Dasha
 son...' That is the reason why the angst of envoys is said in this verse as 'vanished'
 just by a glimpse of that godly personality, which hitherto haunted them as to how
 to countenance such a powerful personality.
+
+स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
+</details>
+
+<details><summary>Desiraju Hanumanta Rao</summary>
+
+**पदच्छेदः**
+
+4, 5. *mahaaraaja* = oh exalted emperor [Dasharatha]; *maithilaH*
+= Mithila's [sovereign]; *janakaH* = of Janaka lineage; *raajaa* =
+Janaka, king; *saagnihotrapuraskR^itaH* = you
+who ingratiates yourself with [ever and anon] fire of roituals; *sopaadhyaayapurohitam*
+= along with that of [your] teachers', priests'; *sapuraHsaram* =
+with going before [afore you a convoys of subjects always precedes, in any event,
+safeguarding your interests]; *tvaam* = your [highness]; *madhurayaa*
+= mellowly; *snehasamraktayaa giraa* = with friendship instilled words;
+*kushalam ca* = wellbeing, also; *avyayam ca eva* = unmitigated
+[prosperity,] also, thus; as such; *janakaH* = Janaka - the present king;
+*muhuH muhuH* = again, again; *pR^icChate* = is asking after.
+
+**अनुवादः**
+
+Oh, exalted emperor Dasharatha! Janaka, the lineal king of Janaka-s and the present
+sovereign of Mithila is asking time and time again with mellowly words instilled
+with friendliness, after the wellbeing and after the unmitigated prosperity of your
+highness, along with that of your highness' priests and teachers, also that of your
+highness' subjects, who always precede your highness in convoys in any event, as
+your highness are the one who ingratiates himself with the Ritual-fires, ever and
+anon... [1-68-4, 5]
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm)
 </details>
