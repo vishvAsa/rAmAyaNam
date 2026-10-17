@@ -699,7 +699,7 @@ over my two sons (Rama and Lakshmana) the subduer of their enemies, entering the
 **पदच्छेदः**
 
 *14. kadaa* = when ; *drakshhyaami* = shall I see;
-*shubhakuNdataa* = (the two princes)adorned with splendid ear-rings;udagraayudha mistrimshou
+*shubhakuNdataa* = (the two princes)adorned with splendid ear-rings;udagraayudha nistrimshou
 = and armed with excellent bows and swords; *pravishantou* = entering; *ayodhyaam* =
 Ayodhya;parvataaviva = like(a pair of mountains) ;sashR^ngou = crowned with peaks?"
 
