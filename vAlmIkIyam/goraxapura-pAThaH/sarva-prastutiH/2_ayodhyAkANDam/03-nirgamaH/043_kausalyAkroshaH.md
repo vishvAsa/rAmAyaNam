@@ -750,7 +750,7 @@ fruits; *kanyaa dvijaatiinaam* = to virgins and brahmanas?"
 
 **अनुवादः**
 
-"When will those two princes with Sita merrily go round the city clockwise, giving
++++(Wrong - hindI translation is correct.)+++ "When will those two princes with Sita merrily go round the city clockwise, giving
 away flowers and fruits to virgins and brahmanas?"
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga43/ayodhyasans43.htm)
