@@ -115,7 +115,7 @@ chariot; *naiva samsyavartanta* = did not return.
 
 **अनुवादः**
 
-When the king was forced (in the interests of his son) to turn back, the group of
++++(Wrong - hindI translation is correct.)+++ When the king was forced (in the interests of his son) to turn back, the group of
 friends who were following Rama's chariot did not return.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga45/ayodhyasans45.htm)
