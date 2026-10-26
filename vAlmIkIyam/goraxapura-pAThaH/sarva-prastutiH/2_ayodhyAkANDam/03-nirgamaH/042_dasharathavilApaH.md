@@ -1058,8 +1058,8 @@ not indeed wish to survive without Rama the tiger among men."
 
 *22. ityevam* = Thus; *vilapam* = lamenting; *raajaa* =
 the king; *abhisamvR^itaH* = surrounded; *janoughena* = by his people ;
-*pravivesha* = entered ; *purothamam* = Ayodhya the best of cities; *arishhTam
-iva* = like enering a disastrous house; *apasnaataH* = by the one who has taken the
+*pravivesha* = entered ;  *purothamam* = Ayodhya the best of cities; *arishhTam
+iva* = like a disastrous; *apasnaataH* = by the one who has taken the
 funeral bath.
 
 **अनुवादः**
