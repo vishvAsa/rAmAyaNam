@@ -161,7 +161,7 @@ residence in the forest .You ought not feel anxious. May all be well with you!"
 
 *3. pashya* = look here: mR^iga dvijaiH = animals and birds;
 *aayadbhiH* = returning; *yathaanilayam* = to their respective abodes;
-*miliinaani* = seeking for shelter . shuunyaani = woods; *rudrantiiva* = are crying;
+*niliinaani* = seeking for shelter . shuunyaani = woods; *rudrantiiva* = are crying;
 *samantataH* = from all sides".
 
 **अनुवादः**
