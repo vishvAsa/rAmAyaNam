@@ -303,7 +303,7 @@ exile, abandoning his devoted citizens?"
 *6. "yaH* = which Rama; *shreshhTaH* = the chief;
 *raghuuNaam* = of Raghu's; *paalayati* = who protected; *naH* = us;
 *sadaa* = always; *pita* = like father; *ourasaan putraan iva* = the children
-born of his lions; *katham* = how; *saH* = he; *tyaktvaa* = could leave;
+born of his loins; *katham* = how; *saH* = he; *tyaktvaa* = could leave;
 *naH* = us; *gataH* = and proceed; *vipinam* = to the forest?"
 
 **अनुवादः**
