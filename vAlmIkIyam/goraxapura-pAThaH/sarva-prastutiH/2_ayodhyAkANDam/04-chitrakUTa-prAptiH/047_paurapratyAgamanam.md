@@ -170,7 +170,7 @@ which were compassionate.
 **अनुवादः**
 
 Their faces distorted with sorrow, deprived as they were of sagacious Rama and
-therefore non-pulsed, the citizens broke into piteous exclamations, saying:-
+therefore non-plused, the citizens broke into piteous exclamations, saying:-
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga47/ayodhyasans47.htm)
 </details>
