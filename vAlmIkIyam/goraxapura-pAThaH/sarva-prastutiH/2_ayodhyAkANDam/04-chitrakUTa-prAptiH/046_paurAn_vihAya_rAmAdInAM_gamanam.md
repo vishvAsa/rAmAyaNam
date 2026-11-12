@@ -17,7 +17,7 @@ Having reached the banks of Tamasa river and thinking of the plight of the peopl
 Ayodhya, Rama passes the night on the banks of Tamasa river. Waking up in the meantime, Rama
 instructs the charioteer to drive the chariot in such a way as to elude the citizens and lead them
 to think that the  had turned back towards Ayodhya instead of proceeding towards the forest.
-He then ascends the  along with Sita and Lakshmana and went ahead to the forest.
+He then ascends the  along with Sita and Lakshmana and goes ahead to the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
