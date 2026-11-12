@@ -16,8 +16,8 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 Having reached the banks of Tamasa river and thinking of the plight of the people of
 Ayodhya, Rama passes the night on the banks of Tamasa river. Waking up in the meantime, Rama
 instructs the charioteer to drive the chariot in such a way as to elude the citizens and lead them
-to think that the chariot had turned back towards Ayodhya instead of proceeding towards the forest.
-He then ascends the chariot along with Sita and Lakshmana and went ahead to the forest.
+to think that the  had turned back towards Ayodhya instead of proceeding towards the forest.
+He then ascends the  along with Sita and Lakshmana and goes ahead to the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
 </details>
@@ -1668,8 +1668,7 @@ car-warrior; sa saarathiH; along with the charioteer; *aasthaaya* = mounted; *ra
 
 **अनुवादः**
 
-However, Sumantra placed that chariot by facing it to the north, for he saw omens
-auspicious for journey (in that quarter). Rama (son of Dasaratha) the mighty car-warrior, along
+However, Rama (son of Dasaratha) the mighty car-warrior, having seen omens auspicious for journey (in that quarter) placed that chariot by facing it to the north. He then, along
 with the charioteer mounted the chariot and proceeded to the forest.
 
 स्रोतः: [valmikiramayan.net](https://www.valmikiramayan.net/utf8/ayodhya/sarga46/ayodhyasans46.htm)
