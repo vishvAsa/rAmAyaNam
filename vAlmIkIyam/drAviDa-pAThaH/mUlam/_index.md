@@ -1,5 +1,5 @@
 ---
-title: +गोरक्षपुर-द्राविडपाठौ
+title: +IITK मूलम्
 unicode_script: devanagari
 
 ---
