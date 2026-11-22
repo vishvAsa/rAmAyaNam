@@ -115,6 +115,20 @@ of such Ikshvaku kings this highly revered and reputed epic Ramayana is originat
 
 **3:** In the lineage of those great-souled kings of the Ikṣvāku race has arisen this exalted narrative (_mahad utpannam ākhyānam_) renowned throughout the world as the _Rāmāyaṇa_.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.1–4 (Govindarāja’s Grand Theological Introduction — The Eighteen Meanings, Śaraṇāgati, Dvaya & Gāyatrī)**
+
+$18
+
+_____________
+
+**5.2–4 (Why Sagara is Named & Why Dual vartayiṣyāvaḥ)**
+
+On v. 2, **Tilaka** and **Govindarāja** note that among all the kings from Manu onwards, Sagara is singled out because the ocean itself bears his name (_sāgaraḥ_) and because it was to liberate his 60,000 sons that his descendant Bhagīratha brought down the sacred Gaṅgā. On v. 4, the Southern Recension reads the first-person dual _vartayiṣyāvaḥ_ (“we two—Kuśa and Lava—shall recite”) and the instrumental _anasūyatā_ (“by a listener free of envy”), while the Northern/Baroda text and Govindarāja read the singular _vartayiṣyāmi_ (in Vālmīki’s own voice) and _anasūyayā_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +231,14 @@ is snugly situated on the riverbanks of Sarayu. [1-5-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There was a great, joyous (_muditaḥ_), and densely flourishing country (_sphīto janapado mahān_) named Kosala, situated along the banks of the Sarayū river and abounding in wealth and grain (_prabhūtadhanadhānyavān_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.5–6 (muditaḥ, sphītaḥ & manunā... nirmitā)**
+
+On v. 5, **Govindarāja** observes that there is no redundancy between _sphītaḥ_ and _prabhūtadhanadhānyavān_: since the latter states material and agricultural abundance, _sphītaḥ_ (derived from _sphāyī vṛddhau_ by Pāṇini 6.1.22) specifically denotes a thriving, populous citizenry, while _muditaḥ_ denotes their happiness under the righteous rule of the Ikṣvākus (**Tilaka**).
 </details>
 </details>
 
@@ -372,6 +394,14 @@ measures can be had from The Artha-Shaastra of Kautilya - a republication of Pen
 
 That great and glorious city extended twelve _yojanas_ in length (_āyatā daśa ca dve ca yojanāni_) and three _yojanas_ in breadth (_trīṇi vistīrṇā_), with its great thoroughfares symmetrically laid out (_suvibhaktamahāpathā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.7–9 (Ayodhyā’s Dimensions & mahārāṣṭravivardhanaḥ)**
+
+**Tilaka** and **Govindarāja** note that the twelve-by-three-_yojana_ measurement (approx. 96 by 24 miles) applies to the walled inner metropolis (_mahāpurī = mūlanagaram_) running parallel to the southern bank of the Sarayū; including its outer suburbs (_upanagara-sāhitye_), its extent was even vaster. On v. 9, **Tilaka** and **Govindarāja** explain the active verbal noun _ā-vāsayāmāsa_ (“caused the city to be even more thickly peopled and prosperous than under former kings”) as the fruit of Daśaratha’s righteous administration (_dharmanyāyabalena poṣaṇāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -526,6 +556,14 @@ in such a city. [1-4-10]
 
 It was furnished with massive gates and arched outer portals (_kapāṭatoraṇavatīm_), had well-ordered inner market-streets (_suvibhaktāntarāpaṇām_), possessed mechanical contrivances and weapons of every kind (_sarvayantrāyudhavatīm_), and was inhabited by master artisans of every craft (_uṣitāṃ sarvaśilpibhiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.10–11 (toraṇa, antarāpaṇa, sūtamāgadha & śataghnī)**
+
+The three commentators cite classical lexicons to define each architectural and military feature: (1) _toraṇa_: ornamental outer gateway arches before the massive city doors (_kapāṭa_); (2) _suvibhaktāntarāpaṇām_: market-avenues (_niṣadyāḥ_) laid out with spacious intervals so shops never crowded one another; (3) _sūta_ and _māgadha_: court chroniclers/panegyrists and genealogist bards who awaken the king with recitations of his ancestors’ deeds (_māgadhaḥ syād vāgmī rājaprabodhakaḥ_, **Yādava**); and (4) _śataghnī_: quoting **Yādava Prakāśa’s _Vaijayantī_** (_śataghnī tu catustālā lohakaṇṭakasañcitā_), an iron-spiked defensive column or catapult engine four _tālas_ long stationed atop the ramparts!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -639,6 +677,14 @@ cincture ornament. [1-5-12]
 
 Replete on every side with troupes of actresses and dancers (_vadhūnāṭakasaṅghaiś ca_), and endowed with pleasure-parks and groves of mango trees (_udyānāmravaṇopetām_), that vast city wore its defensive rampart (or ring of _śāla_ forests) like a girdle (_mahatīṃ sālamekhalām_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.12 (vadhūnāṭakasaṅghaiḥ & sālamekhalām)**
+
+**Tilaka** and **Śiromaṇi** gloss _vadhūnāṭakasaṅghaiḥ_ as theatrical companies performed entirely by women (_vadhūnāṃ nāṭakasamūhaiḥ / strīgītanṛtyasaṅghaiḥ_) for the recreation of the queens and citizens. On _sālamekhalām_, **Tilaka** and **Govindarāja** note the double beauty of _sāla_: both an encircling masonry rampart wall (_prākāro varaṇaḥ sālaḥ_, _Amarakośa_) and a green belt of lofty _śāla_ trees!
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -701,6 +747,14 @@ and profound moats, and she is abounding with horses, camels, likewise with cows
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Ringed by a moat vast and fathomlessly deep (_durgagambhīraparikhām_), that impregnable fortress-city was impossible for enemies to assail (_durgām anyair durāsadām_), and teemed with steeds and elephants as well as cattle, camels, and mules.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.13–15 (durgagambhīraparikhām & parvatair iva / parvatair upaśobhitām)**
+
+On v. 13, **Tilaka** and **Govindarāja** point out why _durga-_ appears twice: first in _durgagambhīraparikhām_ (having a wide water-fortress moat, _jaladurga_), and second in _durgām_ (being an impregnable land-fortress, _sthaladurga_, unapproachable even by friends without permission, let alone by foes). On v. 15b, **Śiromaṇi** notes both readings: in the Southern reading _parvatair iva śobhitām_ (endorsed by _Tilaka_ and the Bhaṭṭa recension), the gem-built palaces tower like mountains; in the variant _parvatair upaśobhitām_ (Govindarāja and Baroda CE), _parvataiḥ_ denotes artificial pleasure-hills (_krīḍāparvataiḥ_) alongside the palaces.
 </details>
 </details>
 
@@ -862,6 +916,14 @@ up, and where its seven storied buildings are picturesque. [1-5-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Wondrously laid out in the symmetrical pattern of an eight-by-eight _aṣṭāpada_ game-board (_citrām aṣṭāpadākārām_), graced by throngs of noble women, strewn with every variety of precious gem, and adorned with seven-storied palace mansions (_vimānagṛhaśobhitām_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.16–17 (aṣṭāpadākārām, vimānagṛha & śālitaṇḍula)**
+
+All three commentators highlight the town-planning compound _aṣṭāpadākārām_ (v. 16): citing _Amarakośa_ (_aṣṭāpadaṃ śāriphalam_) and Pāṇini 6.3.125, **Govindarāja** explains that Ayodhyā was laid out like an eight-by-eight _aṣṭāpada_ chessboard, with the royal palace complex at the center and symmetrical avenues and open squares framing it on all four sides (or, per **Tilaka**, adorned with gold, _aṣṭāpadaṃ suvarṇam_). Quoting the lexicon _Nighaṇṭu_ / **Bhāskara** (_vimāno ’strī devayāne saptabhūmau ca sadmani_), all three explain _vimānagṛha_ specifically as seven-storied residential mansions! In v. 17, **Govindarāja** cites _Vaijayantī_ (_śālayaḥ śvetataṇḍulāḥ_) to distinguish fine white winter _śāli_ rice from ordinary coarse grain.
 </details>
 </details>
 
@@ -1124,6 +1186,20 @@ is filled with, and King Dasharatha made his abode in such a city. [1-5-22]
 **21:** —and who, with whetted weapons or even by the sheer might of their bare arms (_balād bāhubalair api_), slay furious lions, tigers, and wild boars roaring in the forest.
 
 **22:** King Daśaratha then governed and populated that city, which was filled with thousands of such great chariot-warriors (_tādṛśānāṃ sahasrais tām abhipūrṇāṃ mahārathaiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.20 (The Fourfold Code of Dharmic Chivalry — viviktam, aparāparam, śabdavedhyam, vitatam)**
+
+$1b
+
+_____________
+
+**5.22–23 (mahārathaiḥ & vedaṣaḍaṅgapāragaiḥ)**
+
+On v. 22, **Tilaka** and **Govindarāja** quote the classical military definition of a _mahāratha_: _ātmānaṃ sārathiṃ cāśvān rakṣan yudhyeta yo naraḥ, sa mahārathasaṃjñaḥ syāt_ (“he who fights while simultaneously protecting himself, his charioteer, and his horses,” and who can contend single-handedly with ten thousand bowmen). Verse 23 complements this kṣatriya valor with the spiritual radiance of Ayodhyā’s brāhmaṇas—maintainers of the _agnihotra_ fires (_agnimadbhiḥ_), masters of the four Vedas and six _Vedāṅgas_, and donors of thousands of cows (_sahasradaiḥ_).
 </details>
 </details>
 

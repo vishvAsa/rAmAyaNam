@@ -83,6 +83,14 @@ that remained with him." Thus Shatananda continued to narrate the legend of Vish
 
 Seeing those sages preparing to depart (_prasthitān vīkṣya tān ṛṣīn_), the resplendent Viśvāmitra (_viśvāmitro mahātejāḥ_), O tiger among men (_naraśārdūla_), spoke to all those forest-dwellers (_sarvāṃs tān vanavāsinaḥ_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.1–2 (Why the Southern Quarter Became Unfit for Tapas)**
+
+**Govindarāja (_Bhūṣaṇa_)** notes that this new cycle of austerity prepares Viśvāmitra with the spiritual power needed to rescue the supplicant Śunaḥśepa (_śaraṇāgataśunaḥśeparakṣaṇocitaśaktiṃ vaktuṃ tapo’ntaram ācikhyāsuḥ_). On _mahāvighnaḥ_, **Rāma Varmā (_Tilaka_)** explains that Triśaṅku—hanging inverted in the southern sky—had consumed their merit and polluted the region with his shadow (_triśaṅkurūpo mahāvighno ’smākaṃ taponāśakatvād apakṛtas tacchāyākrāntatvāc cāyaṃ deśo ’taḥparaṃ tapo’yogyaḥ_), while **Śiromaṇi** glosses it as the fit of wrath provoked by Triśaṅku’s sacrifice (_triśaṅkuyājanamūlakakrodhāveśaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -192,6 +200,14 @@ forest, isn't it.' Thus Vishvamitra said to fellow sages in his camp. [1-61-3]
 
 “In the spacious western quarter (_paścimāyāṃ viśālāyām_), at the sacred lakes of Puṣkara (_puṣkareṣu_), O high-souled ones (_mahātmanaḥ_), we shall happily practice austerity (_sukhaṃ tapaś cariṣyāmaḥ_); for that penance-grove is truly blissful (_sukhaṃ tad dhi tapovanam_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.3–4 (Migration to Puṣkara in the West)**
+
+All three commentators gloss _viśālāyāṃ paścimāyām_ as the western quarter endowed with expansive penance-grooves (_viśālatapovanavatyām_), and _puṣkareṣu_ as the groves along the banks of the sacred Puṣkara lakes (_tattīratapovaneṣu_). **Tilaka** and **Govindarāja** take _mahātmanaḥ_ as an archaic vocative plural addressing the fellow sages (_mahātmānaḥ, dīrghābhāva ārṣaḥ_), whereas **Śiromaṇi** construes it as a generic genitive singular qualifying the grove of high-souled ascetics (_jātyabhiprāyeṇaikavacanam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -285,6 +301,14 @@ to perform a Vedic-ritual. [1-61-5]
 
 At that very time (_etasminn eva kāle tu_), the great lord of Ayodhyā (_ayodhyādhipatir mahān_), renowned by the name of Ambarīṣa (_ambarīṣa iti khyātaḥ_), commenced to perform a sacrifice (_yaṣṭuṃ samupacakrame_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.5 (King Ambarīṣa’s Sacrifice at Ayodhyā)**
+
+**Śiromaṇi** notes that at the very time Viśvāmitra was engaged in fierce penance on roots and fruits at Puṣkara (_viśvāmitratapaścaraṇasamaye eva_), Ambarīṣa, the illustrious sovereign of Ayodhyā revered by all monarchs (_mahān sarvarājapūjyaḥ_), undertook a great Vedic sacrifice.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -339,6 +363,14 @@ this to that king. [1-61-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As that king was performing the sacrifice (_tasya vai yajamānasya_), Indra carried off the sacrificial beast (_paśum indro jahāra ha_). When the victim was lost (_praṇaṣṭe tu paśau_), the priest (_vipro_) spoke these words to the king:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.6–7 (The Abducted Paśu & Royal Negligence)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** identify _vipraḥ_ as the officiating priest (_purohitaḥ_). On _abhyāhṛtaḥ ... praṇaṣṭas tava durnayāt_, **Tilaka** explains that the beast brought by the priests was lost through the carelessness of the guards owing to royal demerit (_tvatpāpavaśāt tāvakarakṣiṇāṃ pramādāt pranaṣṭaḥ_). **Govindarāja** cites _ṇaśa adarśane_ to show that _praṇaṣṭaḥ_ means ‘vanished from sight’, while **Śiromaṇi** takes the negative prefix in _arakṣitāram_ as imperfect protection (_alpārthako nañ_).
 </details>
 </details>
 
@@ -438,6 +470,14 @@ ritual can be continued.' Thus, the priests of the ritual said to king Ambariish
 
 “This requires a great expiation (_prāyaścittaṃ mahad dhy etat_): O bull among men (_puruṣarṣabha_), bring quickly either that sacrificial beast or a human victim in its stead (_naraṃ vā ānayasva paśuṃ śīghram_), before the ritual action proceeds (_yāvat karma pravartate_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.8 (The Expiatory Rule naraṃ vā ānayasva paśum)**
+
+**Tilaka** and **Govindarāja** explain the Vedic _prāyaścitta_ rule: before the principal rite after _paśuvisarjana_ commences (_yāvat karma pravartiṣyate tatpūrvam eva_), the sacrificer must either recover the original consecrated beast or purchase a human victim as its śāstric substitute (_naṣṭaṃ paśum anviṣyānaya tatpratinidhitvena śāstrān naraṃ vā gobhiḥ krītvā paśum ānaya_). **Śiromaṇi** quotes _prāyaḥ pāpam iti proktaṃ cittaṃ tacchodhanaṃ smṛtam_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -491,6 +531,14 @@ of cows. [1-61-9]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing the words of his preceptor (_upādhyāyavacaḥ śrutvā_), that wise king, a bull among men (_sa rājā puruṣarṣabhaḥ mahābuddhiḥ_), searched for a sacrificial victim, offering cattle by the thousands (_anviyeṣa paśuṃ gobhiḥ sahasraśaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.9–10 (Searching with Thousands of Cows)**
+
+All three commentators gloss _sahasraśaḥ gobhiḥ_ as thousands of cows brought along as the purchase price (_niṣkrayabhūtābhiḥ_, **Tilaka**; _mūlyabhūtābhiḥ_, **Govindarāja**) to buy a human substitute as Ambarīṣa searches through realms, cities, forests, and hermitages.
 </details>
 </details>
 
@@ -557,6 +605,14 @@ with his sons and wife. [1-61-10, 11]
 **10:** Searching through those various countries and inhabited realms (_deśāñ janapadāṃs tāṃs tān_), cities, forests, and sacred hermitages (_āśramāṇi ca puṇyāni mārgamāṇaḥ_), the lord of the earth journeyed on.
 
 **11:** There upon Mount Bhṛgutuṅga (_bhṛgutuṅge_), O dear Rāma, delight of the Raghus (_tāta raghunandana_), that king beheld the sage Ṛcīka seated together with his sons and his wife (_sa putrasahitaṃ sabhāryaṃ samāsīnam ṛcīkaṃ saṃdadarśa ha_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.11–12 (Meeting Ṛcīka on Mount Bhṛgutuṅga)**
+
+**Tilaka** and **Śiromaṇi** note that _saḥ_ is a separate word referring to Ambarīṣa (_sa iti pṛthakpadam, so ’mbarīṣaḥ_), and gloss _bhṛgutuṅge_ as a sacred mountain peak associated with Bhṛgu (_parvataśṛṅgaviśeṣaḥ_, **Tilaka**; _bhṛgusaṃbandhisthalaviśeṣe_, **Śiromaṇi**). **Govindarāja**, reading _bhṛgutunde_, explains it as the inner heartland of Bhṛgu’s hermitages (_bhṛgvāśramatrayamadhyamasthānapradeśe vā_).
 </details>
 </details>
 
@@ -669,6 +725,14 @@ purpose of a ritual-animal, oh, the successor Sage Bhrigu, I deem my ends are ac
 
 Inquiring after his welfare in every respect (_pṛṣṭvā sarvatra kuśalam_), he addressed these words to Ṛcīka (_ṛcīkaṃ tam idaṃ vacaḥ_): “If you will sell a son for a hundred thousand cows (_gavāṃ śatasahasreṇa vikrīṇīṣe sutaṃ yadi_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.13–14 (The Offer of One Hundred Thousand Cows)**
+
+**Govindarāja** and **Śiromaṇi** construe vv. 12–13ab as a single syntactical unit (_sārdhaśloka ekānvayī_) where _uvāca_ governs two accusatives (_ṛcīkaṃ tam_ and _idaṃ vacaḥ_). Why does Ambarīṣa say _yajñiyaṃ na labhe paśum_ when other animals exist? **Tilaka** and **Śiromaṇi** explain that he searched every land for the specific beast consecrated for his sacrifice (_yajñe pūrvaṃ parikalpitaṃ paśuṃ kvāpi na labhe_), and failing to recover it, seeks a human substitute (_paśupratinidhyartham_, **Govindarāja**) for a hundred thousand cows.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -762,6 +826,14 @@ When that great-resplendent Sage Riciika is addressed thus, he said this word,
 
 “Therefore, you ought to grant me one son from among these for a price (_dātum arhasi mūlyena sutam ekam ito mama_).” Thus addressed, the resplendent Ṛcīka spoke these words in reply (_evam ukto mahātejā ṛcīkas tv abravīd vacaḥ_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.15 (sutam ekam ito mama)**
+
+**Tilaka** and **Govindarāja** explain the suffix _-tas_ in _itaḥ_ as a pan-case affix bearing a locative sense: ‘one son from among these sons of yours’ (_eteṣu suteṣu, sārvavibhaktikas tasiḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -815,6 +887,14 @@ this word to the tigerly-man Ambariisha. [1-61-16b, 17a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Never under any circumstance, O best of men, would I sell my eldest son (_nāhaṃ jyeṣṭhaṃ naraśreṣṭha vikrīṇīyāṃ kathaṃcana_)!” Hearing those words of Ṛcīka, the mother of those high-souled youths (_teṣāṃ mātā mahātmanām_)
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.16–17 (The Maxim apratiṣiddham anumatam)**
+
+Both **Tilaka** and **Govindarāja** gloss _kathaṃcana_ as ‘even for a vast price’ (_bahumūlyenāpi_), and point out the Mīmāṃsā and Nyāya maxim implied by Ṛcīka’s specific refusal of the eldest alone: by prohibiting only the sale of the eldest, the sage tacitly permits the sale of the other two (_itarayor apratiṣedhād anumatir lakṣyate, ‘apratiṣiddham anumatam’ iti nyāyāt_).
 </details>
 </details>
 
@@ -870,6 +950,14 @@ my youngest son to you, either. [1-61-17b, 18]
 **17:** Spoke these words to Ambarīṣa, that tiger among men (_uvāca naraśārdūlam ambarīṣam idaṃ vacaḥ_): “The venerable descendant of Bhṛgu has declared that the eldest son is not to be sold (_avikreyaṃ sutaṃ jyeṣṭhaṃ bhagavān āha bhārgavaḥ_).
 
 **18:** “Know that the youngest, Śunaka, is likewise dearest to me, O lord (_mamāpi dayitaṃ viddhi kaniṣṭhaṃ śunakaṃ prabho_); therefore, O monarch, I shall not give my youngest son to you (_tasmāt kanīyasaṃ putraṃ na dāsye tava pārthiva_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.18–19 (Parental Partiality & Dharmaśāstra Justification)**
+
+**Tilaka** notes that the youngest son’s name is Śunaka (_śunaka iti kaniṣṭhaputranāma_). To show that her refusal stems from universal human nature rather than miserliness (_kārpaṇyabhramavāraṇāya_, **Śiromaṇi**), the mother states the adage: eldest sons are dearest to fathers and youngest sons to mothers. How could a sage sell his child when Smṛti forbids the gift or sale of offspring? **Govindarāja** explains that just as giving a daughter in the _Brāhma_ marriage is righteous, selling a son in extreme distress or for a Vedic sacrifice incurs no sin (_yajñāyāpatyavikrayo na doṣāyeti bhāvaḥ_).
 </details>
 </details>
 
@@ -984,6 +1072,14 @@ way only, their intermediate son, namely Shunashepa, personally spoke this sente
 
 When that sage had spoken his word, and the sage’s wife likewise (_uktavākye munau tasmin munipatnyāṃ tathaiva ca_), the middle son, Śunaḥśepa, O Rāma, spoke a word of his own accord (_śunaḥśepaḥ svayaṃ rāma madhyamo vākyam abravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.20 (Śunaḥśepa Steps Forward)**
+
+When both father and mother had spoken (locative absolute _uktavākye munau tasmin munipatnyāṃ ca_), the middle son Śunaḥśepa spoke of his own accord (_svayam eva_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1046,6 +1142,14 @@ you may lead me forth. [1-61-21]
 
 “My father has declared the eldest not to be sold, and my mother the youngest (_pitā jyeṣṭham avikreyaṃ mātā cāha kanīyasam_); I therefore deem the middle son to be intended for sale (_vikreyaṃ madhyamaṃ manye_)—O prince, lead me away (_rājaputra nayasva mām_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.21 (Śunaḥśepa’s Inference by arthāpatti)**
+
+**Tilaka** explains that Śunaḥśepa deduces by presumption (_arthād iti śeṣaḥ_) that since his father forbade the sale of the eldest and his mother the youngest, both parents tacitly consent to the sale of the middle son (_madhyamaṃ mātāpitror vikreyatvena saṃmataṃ manye_). Reading _vikrītaṃ madhyamaṃ manye_, **Śiromaṇi** glosses: ‘I consider myself, the middle son, already sold.’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,6 +1209,14 @@ went away highly gladdened to take Shunashepa with him. [1-61-22, 23]
 
 **23:** And with a hundred thousand cows, purchased Śunaḥśepa (_gavāṃ śatasahasreṇa śunaḥśepaṃ gṛhītvā_); filled with supreme joy (_paramaprītaḥ_), the lord of men departed, O delight of the Raghus (_jagāma raghunandana_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.22–23 (Filial Obedience & the Purchase Price)**
+
+**Tilaka** identifies _brahmavādinaḥ_ in v. 22 as the middle son Śunaḥśepa (_madhyamaputrasya_), and glosses _gṛhītvā_ in v. 23 as ‘having purchased’ (_krītvā_). Reconciling the transaction with Dharmaśāstra, **Tilaka** remarks that just as giving a daughter for _dharma_ is commended despite the general ban on selling children, selling a son for a sacrifice—and a son’s total submission to his parents’ wish (_putrasya caivaṃ pitradhīnatociteti_)—is blameless here.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1162,6 +1274,14 @@ continued his narration. [1-61-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Mounting Śunaḥśepa upon his chariot in haste (_ratham āropya satvaraḥ śunaḥśepam_), the royal sage Ambarīṣa, of mighty splendour and great renown, swiftly departed (_jagāmāśu mahāyaśāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**61.24 (Ambarīṣa’s Swift Departure)**
+
+**Tilaka** and **Śiromaṇi** construe _śunaḥśepaṃ ratham āropya_ together: placing the boy upon his chariot in haste (_satvaraḥ_), the royal sage Ambarīṣa sped back toward his sacrificial hall (_svālayam iti śeṣaḥ_).
 </details>
 </details>
 

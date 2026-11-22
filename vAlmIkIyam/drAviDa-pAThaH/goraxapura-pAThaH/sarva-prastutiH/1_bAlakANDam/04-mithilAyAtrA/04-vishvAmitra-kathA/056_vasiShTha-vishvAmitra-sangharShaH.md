@@ -90,6 +90,14 @@ continued his narration of Vishvamitra's legend. [1-56-1]
 
 Addressed thus by Vasiṣṭha, Viśvāmitra of mighty strength aimed the fiery Āgneya missile (_āgneyam astram uddiśya_) and cried out, “Stand! Stand!” (_tiṣṭha tiṣṭheti cābravīt_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.1–2 (āgneyam astram & brahmadaṇḍam)**
+
+Stung by Vasiṣṭha’s warning “you shall cease to live” (_evam ukto na bhaviṣyasīty uktaḥ_, **Tilaka**), Viśvāmitra aims the fiery _Āgneya_ missile and shouts “Stand! Stand!” to intimidate the sage (_bhayajananārthoktiḥ_, **Govindarāja**). Raising his _Brahmadaṇḍa_—the ascetic staff unique to a Brahmin (_brāhmaṇāsādhāraṇaṃ daṇḍam_, **Govindarāja**)—like a second rod of Kāla, Vasiṣṭha declares his utter fearlessness (_svabhītyabhāvam āha_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +193,14 @@ you or your missiles have. [1-56-3]
 
 “O wretched Kṣatriya (_kṣatrabandho_), here I stand (_sthito ’smy eṣa_)! Display whatever strength you possess (_yad balaṃ tad vidarśaya_)! Today, O son of Gādhi, I shall shatter the pride you take in your weapons (_nāśayāmy adya te darpaṃ śastrasya tava gādhija_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.3–4 (kṣatrabandho & kva ca te kṣatriyabalam)**
+
+Addressing Viśvāmitra with the pejoratives _kṣatrabandho_ and _kṣatriyapāṃsana_ (“wretched Kṣatriya, disgrace of the warrior class,” **Govindarāja**, **Śiromaṇi**), Vasiṣṭha bids him display his might and uses the idiom _kva ... kva_ to mark the vast gulf between mundane martial force and supramundane Brahmanic power (_divyaṃ prākṛtavilakṣaṇaṃ brahmabalam_, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -279,6 +295,14 @@ of Gaadhi's son, namely Vishvamitra, as a deluge of water silencing a rage of fi
 
 That terrible and supreme Āgneya missile of Gādhi’s son (_tasyāstraṃ gādhiputrasya ghoram āgneyam uttamam_) was quenched by the _Brahmadaṇḍa_, just as the fury of fire is quenched by water (_brahmadaṇḍena tac chāntam agner vega ivāmbhasā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.5 (agner vega ivāmbhasā)**
+
+No sooner does Gādhi’s son hurl the dread _Āgneya_ missile than Vasiṣṭha’s _Brahmadaṇḍa_ quenches its blaze like water quenching the fury of fire.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -345,6 +369,14 @@ not reiterated here but just catalogued.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Incensed (_kupitaḥ_), the son of Gādhi hurled the Vāruṇa, the Raudra, the Aindra, and the Pāśupata missiles, as well as the reed-missile Aiṣīka (_aiṣīkaṃ cāpi cikṣepa_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.6–7 (vāruṇa, raudra, aindra, pāśupata, aiṣīka & mānava-ādayaḥ)**
+
+Enraged (_kupitaḥ_; var. _ruṣito hiṃsitaprāyaḥ_, **Śiromaṇi**) by the quenching of his _Āgneya_ weapon, Viśvāmitra hurls the sovereign missiles of Varuṇa, Rudra, Indra, and Paśupati, the reed-missile _Aiṣīka_, and the psychic missiles earlier imparted to Rāma in Sargas 27–28: _Mānava_, _Mohana_, _Gāndharva_, _Svāpana_, _Jṛmbhaṇa_, _Mādana_ (var. _Mohana_ in **Śiromaṇi**), _Saṃtāpana_, and _Vilāpana_.
 </details>
 </details>
 
@@ -523,6 +555,26 @@ whole thing has became a spectacular display of Vishvamitra's arsenal. [1-56-12,
 
 **12:** —and the terrible Trident missile Triśūla, together with the Kāpāla and the Kaṅkaṇa (_triśūlam astraṃ ghoraṃ ca kāpālam atha kaṅkaṇam_); all these missiles he hurled (_etāny astrāṇi cikṣepa sarvāṇi_), O delight of the Raghus!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.8–9 (pāśatraya, pināka & śuṣkārdre aśanī)**
+
+Next follow the desiccating (_Śoṣaṇa_), rending (_Dāraṇa_), and thunderbolt (_Vajra_) missiles, the three cosmic nooses (_Brahmapāśa_, _Kālapāśa_, _Vāruṇapāśa_), the _Pināka_ missile beloved of Śiva (_dayitaṃ śivasyeti śeṣaḥ_, **Tilaka**), the dry and wet thunderbolts (_śuṣkārdre aśanī_, exhibiting _pragṛhya_ hiatus of dual _-e_/_-ī_), and the _Daṇḍa_, _Paiśāca_, and _Krauñca_ missiles.
+
+_____________
+
+**56.10 (cakratraya, vāyavya, mathana & hayaśiras)**
+
+He further discharges the three sovereign discuses—_Dharmacakra_, _Kālacakra_, and _Viṣṇucakra_—together with _Vāyavya_, _Mathana_, and _Hayaśiras_.
+
+_____________
+
+**56.11–12 (śaktidvaya, kaṅkāla, musala, triśūla, kāpāla & kaṅkaṇa)**
+
+Completing his volley, Viśvāmitra hurls the two spears (_śaktidvayam_), the skeletal _Kaṅkāla_, the club _Musala_, the _Vaidyādhara_, the dread _Kālāstra_, Śiva’s _Triśūla_, the skull-missile _Kāpāla_, and the bracelet-missile _Kaṅkaṇa_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -575,6 +627,14 @@ all of them are thus silenced, Gaadhi's son Vishvamitra touched off Brahma's mis
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet upon reaching Vasiṣṭha, the foremost of _japa_-reciters, a wondrous marvel came to pass (_vasiṣṭhe japatāṃ śreṣṭhe tad adbhutam ivābhavat_): the son of Brahmā swallowed up every one of those missiles with his staff (_tāni sarvāṇi daṇḍena grasate brahmaṇaḥ sutaḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.13 (vasiṣṭhe japatāṃ śreṣṭhe tad adbhutam ivābhavat)**
+
+Why did this missile-storm become a marvel (_adbhutam iva_) upon reaching Vasiṣṭha? **Govindarāja** and **Śiromaṇi** explain that by the power of his Vedic _japa_ (_japavaibhavam idam_, **Govindarāja**), not a single weapon even grazed its target (_lakṣyasparśābhāvavattvena_, **Śiromaṇi**), for Brahmā’s son swallowed (_grasate agrasat_) them all with his staff.
 </details>
 </details>
 
@@ -633,6 +693,14 @@ with gandharva-s are perplexed, and the triad of worlds itself is perturbed. [1-
 
 **15:** —and the divine seers were struck with agitation, along with the _gandharvas_ and great serpents (_devarṣayaś ca sambhrāntā gandharvāḥ samahoragāḥ_); the entire threefold world trembled in dread when the Brahmāstra was unleashed (_trailokyam āsīt saṃtrastaṃ brahmāstre samudīrite_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.14–15 (brahmāstre samudīrite & sāgnipurogamāḥ)**
+
+When all lesser missiles are neutralized (_teṣu śānteṣu_), Viśvāmitra hurls the supreme _Brahmāstra_. Glossing _devāḥ sāgnipurogamāḥ_, **Tilaka** explains “the gods accompanied by Vāyu whose forerunner is Agni” (_agnipurogamo vāyus tatsahitāḥ_), who together with divine seers, _gandharvas_, and great serpents tremble as all three worlds are seized with terror.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -686,6 +754,14 @@ the seraphic resplendence of Brahma-baton of Sage Vashishta. [1-56-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even that supremely terrible missile of Brahmā (_tad apy astraṃ mahāghoraṃ brāhmam_), O Rāghava, Vasiṣṭha swallowed up completely with his _Brahmadaṇḍa_ through his own Brahmanic radiance (_brāhmeṇa tejasā vasiṣṭho grasate sarvaṃ brahmadaṇḍena_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.16–17 (brāhmeṇa tejasā & trailokyamohanaṃ rūpam)**
+
+**Tilaka** and **Govindarāja** explain that only Brahmanic luster born of contemplative mastery of _brahmavidyā_ (_brahmavidyābhyāsajanitatejasā_) can quell a missile granted by Brahmā himself (_brahmadattatejaḥśamanasya sādhyatvāt_, **Tilaka**). As Vasiṣṭha swallows the _Brahmāstra_, his aspect becomes terrifying even to remember (_raudraṃ smaraṇe ’pi bhayadam_) and unbearable to behold, like Nṛsiṃha or Vīrabhadra (_sudāruṇaṃ durdarśaṃ nṛsiṃhavīrabhadrādivat_, **Tilaka**).
 </details>
 </details>
 
@@ -780,6 +856,14 @@ speak. [1-56-18]
 
 From all the hair-pores of the high-souled Vasiṣṭha (_romakūpeṣu sarveṣu vasiṣṭhasya mahātmanaḥ_) shot forth radiant sparks like those of a fire whose flames are wreathed in smoke (_marīcya iva niṣpetur agner dhūmākulārciṣaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.18–19 (romakūpeṣu marīcyaḥ & prājvalad brahmadaṇḍaḥ)**
+
+From every pore of Vasiṣṭha’s body (_romakūpeṣu romakūpebhyaḥ_, **Tilaka**, **Śiromaṇi**) fly sparks (_marīcyo visphuliṅgāḥ_) of smoky fire, because his bodily fire is agitated by the ingested _Brahmāstra_ of Viśvāmitra (_viśvāmitrabrahmāstrākulatvāt_, **Tilaka**), while the _Brahmadaṇḍa_ in his hand blazes like smokeless Doomsday fire.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -865,6 +949,14 @@ And the _Brahmadaṇḍa_ upraised in Vasiṣṭha’s hand blazed forth (_prāj
 
 Then hosts of sages praised Vasiṣṭha, the foremost of _japa_-reciters (_tato ’stuvan munigaṇā vasiṣṭhaṃ japatāṃ varam_): “Unfailing is your power, O Brahmin; restrain that fiery energy by your own spiritual radiance (_amoghaṃ te balaṃ brahmaṃs tejo dhāraya tejasā_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.20 (tejo dhāraya tejasā)**
+
+Extolling Vasiṣṭha, the sages pray: “Your power is unfailing! Do not hurl that absorbed _Brahmāstra_ back at your foe (_pratibrahmāstraṃ mā prayuṅkṣva_, **Tilaka**); rather, by your own innate spiritual radiance (_svatejasā sahajena_), absorb and quiet that alien fiery energy (_pārakyaṃ tejaḥ ... vilāpyaikīkuru_, **Tilaka**; _upaśamaya_, **Govindarāja**).”
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -927,6 +1019,14 @@ So said saints to Vashishta. [1-56-20, 21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Viśvāmitra of mighty strength has been thoroughly subdued by you, O Brahmin (_nigṛhītas tvayā brahman viśvāmitro mahābalaḥ_)! Unfailing is your power, O foremost of sages; let the worlds be freed from anguish (_lokāḥ santu gatavyathāḥ_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.21–22 (nigṛhītas tvayā & śamaṃ cakre)**
+
+Why should Vasiṣṭha desist from striking when his foe still stands before him? **Tilaka** explains v. 21: with all his missiles swallowed and his potency shattered (_brahmāstragrāsena naṣṭasāmarthyaḥ_), Viśvāmitra is already subdued and as good as dead (_svata eva mṛtaprāyo jātaḥ_). Appeased by the sages, Vasiṣṭha calms his fiery wrath (_kopaśāntim_, **Govindarāja**; _tejaḥśāntim_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1028,6 +1128,14 @@ only with one baton of Brahma all of my missiles are defused. [1-56-23]
 
 “Fie upon Kṣatriya strength (_dhig balaṃ kṣatriyabalam_)! The strength of Brahmanic splendor alone is true strength (_brahmatejobalaṃ balam_)! By a single _Brahmadaṇḍa_, all my celestial missiles have been destroyed (_ekena brahmadaṇḍena sarvāstrāṇi hatāni me_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.23 (dhig balaṃ kṣatriyabalaṃ brahmatejobalaṃ balam)**
+
+Stripped of all his martial power (_vinikṛto nirastasarvaśaktiḥ_, **Tilaka**), Viśvāmitra utters the famous epiphany at the heart of the _Viśvāmitropākhyāna_: “Fie upon Kṣatriya might—merely contemptible strength (_kevalaṃ nindyaṃ balam_, **Tilaka**; _nindyaṃ balam_, **Govindarāja**)! The strength of Brahmanic splendor alone is praiseworthy strength (_brahmatejobalaṃ praśastaṃ balam_, **Tilaka**), for by a single _Brahmadaṇḍa_ all my missiles have been destroyed!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1095,6 +1203,14 @@ narration of Vishvamitra's legend. [1-56-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having clearly perceived this truth (_tad etat prasamīkṣyāham_), with my senses and mind made serene (_prasannendriyamānasaḥ_), I shall betake myself to supreme penance (_tapo mahat samāsthāsye_)—that which is the true cause of Brahminhood (_yad vai brahmatvakāraṇam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**56.24 (prasannendriyamānasaḥ & brahmatvakāraṇam)**
+
+Having witnessed the supremacy of Brahmanic luster, Viśvāmitra casts off his wrathful Kṣatriya disposition (_parityaktakṣatrasvabhāvaḥ_, **Tilaka**; _parityaktakṣatraroṣaḥ_, **Govindarāja**) and resolves with serene mind and senses to undertake supreme penance that confers Brahminhood (_brāhmaṇyāpādakam_).
 </details>
 </details>
 

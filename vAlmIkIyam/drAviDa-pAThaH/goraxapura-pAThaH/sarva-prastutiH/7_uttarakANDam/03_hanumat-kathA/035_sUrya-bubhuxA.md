@@ -1162,6 +1162,206 @@ _________________
 
 “‘Today, on the eclipse day, I came desiring to seize the Sun (_adyāhaṃ parvakāle tu jighṛkṣuḥ sūryam āgataḥ_); thereupon another Rāhu approached and suddenly grabbed the Sun (_athānyo rāhur āsādya jagrāha sahasā ravim_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.35.1–2 (Rāma’s Inquiry and Hanūmān’s Preeminence)**
+
+Introducing Sarga 35, **Rāma Varmā** (_Tilaka_) notes that Rāma—regarding Hanūmān as mightier than both Rāvaṇa and Vālī—prepares to ask why Hanūmān did not slay Vālī for Sugrīva’s sake; he glosses दक्षिणाशा as the southern quarter and takes इदमाह as expanding अपृच्छत. **Śivasahāya** (_Śiromaṇi_) construes अपृच्छत as ‘desired to ask’, and paraphrases 7.35.2 as Rāma’s firm conviction (मतिर्निश्चयः) that neither Vālī nor Rāvaṇa achieves parity with Hanūmān. All three commentators resolve एताभ्याम् as genitive एतयोः, with **Govindarāja** (_Bhūṣaṇa_) citing Vedic license (षष्ठ्यर्थे बहुलं छन्दसि).
+
+_____________
+
+**7.35.3 (The Eightfold Seat of Excellence)**
+
+Observing that Hanūmān surpasses Vālī and Rāvaṇa not in raw strength alone (न केवलं बलमेवाधिकं किन्त्वन्यदपि), **Rāma Varmā** carefully distinguishes the virtues enumerated in 7.35.3: दाक्ष्यम् denotes swiftness in execution (क्षिप्रकारित्वम्), बलम् physical might (शारीरम्), धैर्यम् unshakeability by any force (केनाप्यप्रकम्प्यता), प्राज्ञता rapid discernment of what should and should not be done (शीघ्रं कार्याकार्यनिर्णेतृता), and नयसाधनम् accomplishment of statecraft (राजनीतिकृत्यसंपादनम्). **Govindarāja** concurs on नयसाधनम्, while **Śivasahāya** highlights the unspoken contrast: all eight virtues dwell together in Hanūmān, whereas they are absent in Vālī and Rāvaṇa.
+
+_____________
+
+**7.35.4–6 (From the Ocean Leap to the Siege of Laṅkā)**
+
+Both **Rāma Varmā** and **Śivasahāya** introduce verses 4–6 as vivid demonstrations of those very virtues (तानेव गुणानाह). Both resolve the paired gerunds of seeing in 7.35.4 seamlessly: beholding (दृष्ट्वा) the monkey army sunk in despair upon seeing (वीक्ष्य) the vast ocean, mighty-armed Hanūmān rallied them and crossed a hundred _yojanas_. Verses 5–6 compress the entire _Sundarakāṇḍa_ into two swift strokes—storming Laṅkā and Rāvaṇa’s inner quarters, finding and reassuring Sītā, and felling the vanguard chiefs, the ministers’ sons, the Kiṅkaras, and prince Akṣa completely alone (एकेन).
+
+_____________
+
+**7.35.7–8 (Laṅkā in Ashes and Deeds Beyond the Gods)**
+
+On 7.35.7, **Rāma Varmā** (_Tilaka_) specifies बन्धात् as release from the _brahmāstra_ bond (ब्रह्मास्त्रबन्धात्), and on 7.35.8 both he and **Govindarāja** (_Bhūṣaṇa_) identify कालस्य as Yama. **Śivasahāya** (_Śiromaṇi_) construes verses 7–8 as a single sentence (श्लोकद्वयमेकान्वयि): freed from Indrajit’s _brahmāstra_, Hanūmān addressed Rāvaṇa and burned Laṅkā like fire consuming the earth. Guarding against any theological disparagement of Viṣṇu in 7.35.8, Śivasahāya construes वित्तपस्य with Viṣṇu as ‘whose austerity is knowledge-vision’ and treats the divine list as illustrative (उपलक्षणम्) of Brahmā and Śiva as well.
+
+_____________
+
+**7.35.9–10 (Rāma’s Entire Victory Owed to Hanūmān)**
+
+Rāma’s magnanimous gratitude peaks in verses 9–10 as he credits Hanūmān’s arm-might with every fruit of the war. Both **Rāma Varmā** and **Govindarāja** unpack the compressed clauses of 7.35.9: ‘Laṅkā was gained’ means it was secured to be granted to Vibhīṣaṇa (विभीषणाय देयत्वेन प्रतिश्रुता), while ‘Lakṣmaṇa was gained’ alludes to Hanūmān’s bringing of the medicinal mountain (औषधपर्वतानयनेन). On 7.35.10, all three commentators supply ‘as a helper’ (सहायः / सहायत्वेन) with न स्यात्: without Sugrīva’s ally, no one could have discovered even tidings of Sītā.
+
+_____________
+
+**7.35.11–12 (Why Hanūmān Spared Vālī—Rāma’s Surmise)**
+
+Having established Hanūmān’s unmatched prowess, Rāma poses the central riddle in 7.35.11: when the brothers’ feud erupted, why did Hanūmān not incinerate Vālī like dry creepers (वीरुधः, noted by both **Rāma Varmā** and **Govindarāja** as an _-a_-stem word for shrubs) for Sugrīva’s sake? Rāma Varmā also notes the variant वालिघातेन (‘why did he not strike at Vālī’s slaying’). In 7.35.12, Rāma himself intuits the cause (स्वयमेव राम ऊहति, Tilaka and Bhūṣaṇa): watching Sugrīva—dearer than life (जीवितादपि प्रियम्)—suffer without killing Vālī (**Śivasahāya**), Hanūmān surely knew not his own strength.
+
+_____________
+
+**7.35.13–14 (Rāma’s Appeal in Hanūmān’s Presence)**
+
+Closing his question, Rāma begs Agastya to set forth the entire truth concerning Hanūmān in full detail. All three commentators—**Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_)—gloss the locative हनूमति in 7.35.13 as a locative of reference (हनूमद्विषये पृष्टमेतत्सर्वम्). Verse 14 adds an evocative dramatic detail: hearing Rāma’s reasoned (हेतुयुक्तम्) inquiry, Agastya replies right in Hanūmān’s own presence (हनूमतः समक्षम्), letting the humble devotee hear the forgotten marvels of his own infancy from the sage’s lips.
+
+_____________
+
+**7.35.15–16 (Confirmation of Matchless Might and the Sages’ Curse)**
+
+Agastya at once endorses Rāma’s intuition. Both **Rāma Varmā** and **Govindarāja** clarify सत्यमेतत् ... यद्ब्रवीषि in 7.35.15 as specifically affirming Rāma’s guess that Hanūmān knows not his own power (आत्मनो बलं न जानातीत्येतत्). **Śivasahāya** draws out the logical nexus of 7.35.15cd: because no other being (परः) equals Hanūmān in might, speed, or intellect, what Rāma says of him is completely true. Verse 16 then unveils the cause: sages of unfailing curse (अमोघशापैः) long ago decreed that, mighty though he is, he would remain unaware of his strength—foreshadowing the tale completed in Sarga 36.
+
+_____________
+
+**7.35.17–18 (Childlike Simplicity and the Call to Listen)**
+
+Explaining the Southern reading इति बालतया आस्यते in 7.35.17, both **Rāma Varmā** and **Govindarāja** observe that Hanūmān abides ‘in childlike simplicity, as though unknowing’ (बालभावेन अजानतेव अनेनास्यते). **Śivasahāya**, following the alternate clause अस्य ते, construes the half-verse to mean that the deeds Hanūmān wrought in childish playfulness (बाल्येऽपि बाल्यतया) defy full narration to Rāma (ते तुभ्यं वर्णयितुं न शक्यम्). In 7.35.18, Agastya yields to Rāma’s wish, bidding him steady his mind (मतिं समाधाय स्थिरीकृत्य, Śivasahāya) and listen (निशामय शृणु, all three commentators).
+
+_____________
+
+**7.35.19–20 (Golden Sumeru, Kesarī, Añjanā, and Vāyu)**
+
+Opening Hanūmān’s birth-narrative, Agastya places his parentage upon Mount Sumeru, सूर्यदत्तवरस्वर्णः. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) unpack this compound identically: Sumeru is golden in nature through a boon granted by Sūrya (सूर्यदत्तवरेण स्वर्णरूपः सुवर्णमेरुः), and **Śivasahāya** (_Śiromaṇi_) likewise glosses it as golden-bodied Meru where Kesarī exercises kingship. On 7.35.20, both Tilaka and Bhūṣaṇa gloss परिश्रुता as ‘far-famed’ (प्रसिद्धा): upon Kesarī’s illustrious wife Añjanā, the Wind-god Vāyu begot this peerless son.
+
+_____________
+
+**7.35.21–22 (The Golden-Hued Babe and the Simile of Skanda)**
+
+Verse 21 describes newborn Hanūmān as radiant like the awn of ripening rice (शालिशूकनिभाभासम्). **Rāma Varmā** glosses this as ‘matching the tint of rice-tips’ (शाल्यग्रसमानवर्णम्), **Śivasahāya** as ‘having the luster of a rice-awn’s tip’, and **Govindarāja** as ‘deep tawny-gold like rice-tips, possessing a form lovely as a golden mountain’ (शाल्यग्रवदतिपिङ्गलाभासं काञ्चनाद्रिकमनीयविग्रहमित्युक्तैः), glossing प्रासूत as ‘gave birth’. When hungry Hanūmān cries in Añjanā’s absence, all three commentators identify शरवणे शिशुः in 7.35.22 as infant Kumārasvāmī (Skanda), investing the baby monkey with divine martial destiny.
+
+_____________
+
+**7.35.23–24 (Leaping Toward the Rising Sun)**
+
+Seeing the dawn sun glow like a cluster of scarlet hibiscus blossoms (जपापुष्पोत्करोपमम्), the child springs skyward out of longing for fruit (इदं फलं प्राप्नुयामीत्याकाङ्क्षतः, **Śivasahāya**). Verse 24 showcases Vālmīki’s playful _yamaka_ and alliteration, ringing four changes on बाल across two lines: facing the young sun (बालार्काभिमुखः), the young child (बालः), himself resembling an embodied young sun (बालार्क इव मूर्तिमान्), soars through mid-sky eager to catch the young sun (बालार्कम्)—fusing infant and solar orb in a single blaze of morning radiance.
+
+_____________
+
+**7.35.25–27 (Celestial Wonder at the Infant’s Velocity)**
+
+Watching infant Hanūmān streak upward, gods, Dānavas, and Yakṣas stand transfixed. **Rāma Varmā** (_Tilaka_) glosses शिशुभावे in 7.35.25 as ‘while in the state of infancy’ (बाल्यावस्थायाम्), and **Śivasahāya** (_Śiromaṇi_) parses it as ‘in this one whose nature is childhood’. In 7.35.26–27, the celestials measure the boy against the three classic benchmarks of swiftness—Vāyu, Garuḍa, and thought itself—marveling what velocity he will wield upon reaching youthful vigor (यौवनं बलमासाद्य). Śivasahāya links verses 27 and 28 as a single syntactic movement (श्लोकद्वयमेकान्वयि) connecting their wonder to Vāyu’s vigilance.
+
+_____________
+
+**7.35.28–29 (Vāyu’s Snow-Cool Shield and the Ascent to Sūrya)**
+
+Even as the heavens gaze in awe, paternal affection acts instantly: Vāyu glides behind his flying son, making himself cool as a drift of snow (तुषारचयशीतलः) to guard him from the sun’s blistering rays. In 7.35.29, Vālmīki assigns a poignant twin cause to the boy’s crossing of thousands of _yojanas_ right up to the solar orb (भास्कराभ्याशम्, glossed by **Śivasahāya** as भास्करस्य समीपम्): the inherited strength of his father (पितुर्बलात्) combined with the innocent audacity of childhood (बाल्यात्).
+
+_____________
+
+**7.35.30 (Why Sūrya Spared the Child—Innocence and Rāma’s Mission)**
+
+Verse 30 unveils the Sun-god’s compassionate forbearance. Glossing अदोषज्ञः, both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) cite the _Amarakośa_ (दोषज्ञो वैद्यविद्वांसौ): since _doṣajña_ means a wise or learned person, _adoṣajña_ means an undiscerning child. **Śivasahāya** adds a concrete nuance—‘ignorant of the harm of being scorched’ (दाहादिदोषस्य अज्ञाता)—and explicitly identifies the great task resting upon Hanūmān (अस्मिन् कार्यं समायत्तम्) as ‘Rāma’s future work’ (रामकृत्यं च समायत्तमधीनतया स्थितम्), for whose sake Sūrya stayed his fire.
+
+_____________
+
+**7.35.31–32 (Eclipse Day Coincidence and Rāhu’s Rout)**
+
+Vālmīki blends cosmic astronomy with playful comedy: the very day infant Hanūmān leaps for the Sun happens to be a _parvan_ eclipse when Rāhu arrives to devour Sūrya. On 7.35.32, **Rāma Varmā** (_Tilaka_) glosses सूर्यरथोपरि as ‘in the space above the solar chariot’ (तदुपरितनप्रदेशे) and परामृष्टः as ‘touched/brushed by Hanūmān’ (अनेन हनूमता स्पृष्टः), noting that Rāhu fled the solar orb (मण्डलात्) in fright. **Śivasahāya** (_Śiromaṇi_) likewise glosses ततः as fleeing from that spot—relishing the irony that ‘the crusher of moon and sun’ (चन्द्रार्कमर्दनः) bolts at an infant’s touch.
+
+_____________
+
+**7.35.33–35 (Rāhu’s Indignant Protest Before Indra)**
+
+Knitting his brows in anger (भ्रुकुटिं कृत्वा), Siṃhikā’s son rushes into Indra’s court. Explaining बुभुक्षापनयम् in 7.35.34, **Rāma Varmā** analyzes it instrumentally as ‘that by which hunger is dispelled’ (बुभुक्षापनीयतेऽनेनेति), i.e., his appointed sustenance, while **Śivasahāya** glosses it as ‘banisher of my hunger’ (मम बुभुक्षाया अपनयं दूरीकर्तारम्) and normalizes अन्यस्य to dative अन्यस्मै: having allotted him sun and moon, how is it proper (किमुचितम्) to hand them to a rival? In 7.35.35, Rāhu reports that upon arriving on the eclipse day (पर्वकाले), ‘another Rāhu’ (अन्यो राहुः) abruptly seized the Sun.
+
+_____________
+
+**7.35.36 (Indra’s Alarmed Mobilization)**
+
+Word of an unknown cosmic devourer usurping the solar orb instantly rattles heaven’s king. Filled with sudden agitation (संभ्रमान्वितः), Vāsava leaps up from his throne (आसनं हित्वा उदपपात, **Śivasahāya**), lifting or wearing his golden garland (काञ्चनीं स्रजम्) as he prepares for battle. The rapid shift from Indra’s serene assembly to urgent mobilization—triggered solely by Rāhu’s mistaking a hungry toddler for a rival eclipse-demon—sets in motion the fateful encounter that will win Hanūmān both his broken jaw and his immortal name.
+
+_____________
+
+**7.35.37–38 (Indra’s Departure Atop Airāvata)**
+
+Verse 37 paints a vivid miniature of Indra’s royal mount Airāvata, tall and white as Kailāsa’s summit, four-tusked and streaming with ichor. **Rāma Varmā** (_Tilaka_) glosses शृङ्गारधारिणम् as ‘bearing manifold adornments’ (नानालंकारधारिणम्) and स्वर्णघण्टाट्टहासिनम् as ‘having boisterous laughter in the sound of golden bells’ (स्वर्णघण्टाशब्दरूपाट्टहासवन्तम्), identifying करीन्द्रम् in 7.35.38 as Airāvata. **Śivasahāya** (_Śiromaṇi_) construes verses 37–38 as a single syntactic unit (श्लोकद्वयमेकान्वयि): mounting Airāvata with Rāhu as guide, Indra marched to where Sūrya stood with Hanūmān.
+
+_____________
+
+**7.35.39–40 (Rāhu Mistaken for an Even Larger Fruit)**
+
+Eager to reclaim his quarry, Rāhu outstrips Indra and speeds ahead (अतिरभसेन, glossed by both **Rāma Varmā** and **Śivasahāya** as reaching Hanūmān even before Vāsava, वासवादपि पूर्वम्). Spotting Rāhu hurtling onward like a massive mountain crag (शैलकूटवत्), the infant drops his chase of the Sun and springs into the sky after Siṃhikā’s son instead. **Govindarāja** (_Bhūṣaṇa_) draws out the charming nursery-tale logic of राहुं फलमवेक्ष्य: beholding Rāhu’s vast dark bulk, Hanūmān takes him for an even bigger fruit (महाशैलकूटवद् बृहत्तरफलमवेक्ष्येत्यर्थः).
+
+_____________
+
+**7.35.41–42 (Rāhu’s Flight and Panicked Cries)**
+
+Seeing the monkey abandon Sūrya and charge directly at him, Rāhu turns tail in terror. Both **Rāma Varmā** and **Govindarāja** observe that the epithet मुखशेषः (‘remaining only as a face’) explicitly highlights Rāhu’s disembodied nature (राहोः स्वरूपकथनम्), sharpening the verbal play with पराङ्मुखः (‘turning his face away’). **Śivasahāya** links verses 41–42 into a single sentence (श्लोकद्वयमेकान्वयि): wheeling round in flight and calling upon Indra for rescue (त्राणार्थं कथयमानः), the terrified eclipse-demon cries out over and over, ‘Indra! Indra!’
+
+_____________
+
+**7.35.43–45 (Indra’s Vow and Hanūmān’s Charge at Airāvata)**
+
+Even before Rāhu comes into sight, Indra recognizes his frantic cry. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain प्रागेवालक्षितं स्वरम् in 7.35.43 as ‘already ascertained, prior to seeing Rāhu, to be Rāhu’s voice’ (राहुदर्शनात्पूर्वमेवायं राहोः स्वर इति निश्चितम्). Yet the comedy escalates once more: spotting colossal white Airāvata in 7.35.44, Hanūmān deems the elephant king yet another huge fruit (इदमपि महत्फलमिति मत्वा, Tilaka and Śiromaṇi) and charges him—flashing for an instant (मुहूर्तम्) with a dreadful brilliance rivaling Indra and Agni.
+
+_____________
+
+**7.35.46–47 (Indra’s Restrained Blow and the Broken Jaw)**
+
+Vālmīki carefully softens Indra’s strike in 7.35.46 with नातिक्रुद्धः (‘not overly angry’), which **Śivasahāya** explains as ‘free from excessive wrath on account of Hanūmān’s infancy’ (हनूमद्बाल्येन अतिक्रोधरहितः). Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss हस्तान्तात् as ‘from the very tip of his hand’ (हस्ताग्रात्), implying a restrained flick rather than a full-powered hurl. Even so, the thunderbolt casts the child upon a mountain, breaking his left jaw (वामो हनुः)—an injury that will bestow the name ‘Hanūmān’ in Sarga 36. Tilaka notes lexical authority treating हनुः as feminine (वामा हनुः).
+
+_____________
+
+**7.35.48 (Vāyu’s Wrath Against Indra—Peril to All Creation)**
+
+Seeing his child fallen and stunned by the thunderbolt (वज्रताडनविह्वले), Vāyu erupts in wrath against Indra, spelling disaster for the worlds (प्रजानामहिताय). **Śivasahāya** unfolds a remarkable twofold reading of प्रजानामहिताय: first, taking प्रजानाम् as an honorific plural for Vāyu’s own son (‘against Indra, who wrought harm to his child’, प्रजानां स्वपुत्रस्य अहिताय इन्द्राय); and second, reading it proleptically as ‘for the harm of all creatures’ through Vāyu’s imminent withdrawal of cosmic breath (स्वप्रचारसंहरणद्वारा प्रजानामहितकृते).
+
+_____________
+
+**7.35.49–50 (Vāyu’s Retreat Into the Cave and Cosmic Obstruction)**
+
+Gathering back his life-sustaining flow (प्रचारम्), Vāyu carries his injured infant into a cavern. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain प्रचारम् as Vāyu’s circulation benefiting all embodied beings (देहिमात्रहितभूतं स्वप्रचारम्) and अन्तर्गतः as ‘abiding inside every body’ (सर्वदेहान्तरगतः), while **Śivasahāya** (_Śiromaṇi_) glosses प्रभुः as capable of both setting in motion and arresting (प्रवृत्तिनिवृत्त्योः समर्थः). Blocking the excretory organs in 7.35.50, he halts all activity—just as Indra stops rain, a simile Tilaka and Bhūṣaṇa note as confirming a deity’s power to check cosmic elements.
+
+_____________
+
+**7.35.51–52 (Breathless Petrification and Ritual Collapse)**
+
+As internal winds stagnate, creatures turn breathless (निरुच्छ्वासानि) and stiff as wooden logs (काष्ठभूतानि) while their joints crack. Verse 52 widens bodily torment into universal dharmic paralysis. Both **Rāma Varmā** and **Śivasahāya** gloss स्वाध्यायः as Vedic recitation (वेदाध्ययनम्) and वषट्कारः as Vedic sacrifice (यागः), with Śivasahāya adding that निष्क्रियम् means bereft of daily observances such as bathing (स्नानादिक्रियारहितम्). Stripped of chant, offering, and dharma, the three worlds look like hell (निरयस्थमिव), glossed by Tilaka as ‘filled with extreme suffering’ (अतिशयितदुःखवत्).
+
+_____________
+
+**7.35.53–54 (The Swollen-Bellied Gods Appeal to Brahmā)**
+
+Tormented and desperate for relief (सुखेच्छया), Gandharvas, gods, Asuras, and mortals rush to Brahmā. All three commentators concur on the vivid medical image of महोदरनिभोदराः in 7.35.54: owing to trapped internal air (वायुस्तम्भात्, **Govindarāja**), the celestials’ abdomens swell like bellies afflicted with the dropsy called _mahodara_ (महोदररोगग्रस्तोदरवदुदरं येषां ते, Tilaka, Bhūṣaṇa, and Śiromaṇi). Addressing Brahmā as creator of the four classes of living beings (अण्डजादिभेदेन चतुष्प्रकाराः प्रजाः, **Śivasahāya**—egg-, womb-, moisture-, and sprout-born), they voice their plight.
+
+_____________
+
+**7.35.55–56 (The Gods’ Lament Against the Lord of Breath)**
+
+Construing verses 55–56 as a single syntactic period (श्लोकद्वयमेकान्वयि), **Śivasahāya** (_Śiromaṇi_) underscores the irony of the celestials’ complaint: Brahmā himself gave them Vāyu as lord of their lifespan (आयुषः पतिः) and sovereign of vital breath (प्राणेश्वरः), yet that very guardian now traps them in anguish ‘like women confined in an inner chamber’ (अन्तःपुर इव स्त्रियः). Stricken by Vāyu, they seek Brahmā’s shelter—and in the printed commentary edition (as in Baroda CE 7.35.56), an extra half-verse explicitly implores Brahmā as ‘destroyer of sorrow’ to remove the pain born of Vāyu’s obstruction.
+
+_____________
+
+**7.35.57–59 (Brahmā Discloses Indra’s Rash Act)**
+
+Hearing the creatures’ plea, Brahmā—‘bestower of blessings’ (आशिषां प्रापकः, **Śivasahāya**)—first answers कारणात् (‘for a reason’), which both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) expand as ‘there is a definite cause behind this’ (किंचित्कारणमत्रास्तीत्युक्त्वा). In 7.35.58, Brahmā bids them listen to that cause, which is proper for them to hear and bear (क्षमं क्षन्तव्यम्, Śivasahāya). Verse 59 identifies the trigger directly: relying upon Rāhu’s word (राहोर्वचनमास्थाय), Indra struck down Vāyu’s son, provoking the Wind-god’s fierce indignation.
+
+_____________
+
+**7.35.60 (Bodiless Vāyu as the Indwelling Life-Principle)**
+
+Elevating the crisis into an Upaniṣadic meditation on _prāṇa_, Brahmā teaches the true nature of the offended deity. Himself formless (अशरीरः), Vāyu moves unseen within every physical frame, sustaining and protecting it (शरीरेषु चरति पालयन्, **Śivasahāya**). Deprived of Wind, the body instantly becomes equal to dead wood (दारुभिः समतां याति): as **Rāma Varmā** succinctly glosses, ‘it cannot stir for even an instant’ (क्षणमपि न चलतीत्यर्थः), and Śivasahāya adds that ‘it cannot even remain upright’ (स्थातुं न शक्तमित्यर्थः).
+
+_____________
+
+**7.35.61–62 (Hymn to Vāyu as Breath and Cosmic Joy)**
+
+Continuing his praise, Brahmā equates Vāyu with life-breath, happiness, and the entire universe (वायुः सर्वमिदं जगत्). Forsaken by Vāyu, the world knows no joy (**Śivasahāya**); abandoned this very day by Wind, who is the world’s very lifespan (जगदायुषा), living beings (लोकाः, supplied by Śivasahāya) stand breathless like wooden posts and walls (काष्ठकुड्योपमाः). The threefold repetition of वायुः in 7.35.61 builds an incantatory grandeur honoring _prāṇa_ as creation’s indwelling soul.
+
+_____________
+
+**7.35.63 (The Resolve to Propitiate Vāyu)**
+
+Turning theology into immediate action, Brahmā urges the gods to seek out Vāyu and appease him. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss रुक्प्रदः as ‘inflicter of colic and bodily pain’ (शूलादिरोगप्रदः) and note the hiatus in गमिष्याम अप्रसाद्य as an _ārṣa_ license (असंधिरार्षः). Reading accusative अदितेः सुतम्, **Śivasahāya** construes the line as ‘let us not perish by failing to propitiate Vāyu, Aditi’s son’ (अदितेः सुतं पवनमप्रसाद्य विनाशं मा गमिष्यामः).
+
+_____________
+
+**7.35.64–65 (Brahmā’s Compassion in the Vaṃśastha Finale)**
+
+Shifting into stately twelve-syllable _Vaṃśastha_, Agastya describes Brahmā’s procession to the cave where Vāyu sits (आस्यति आस्ते, all three commentators) cradling his thunderbolt-struck child. Both **Rāma Varmā** and **Govindarāja** gloss सदागतेः in 7.35.65 as ‘of the ever-moving Wind’ and flag the weight-variation in गन्धर्वर्षि as _ārṣa_ (गुरुलघुभेद आर्षः); **Śivasahāya** remarks that the final quarter’s syllabic fullness accentuates the awe of the moment as four-faced Brahmā beholds the radiant child and feels compassion.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

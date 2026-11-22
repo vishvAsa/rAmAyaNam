@@ -73,6 +73,20 @@ At clear dawn, King Janaka summons and honours Viśvāmitra together with Rāma 
 
 **2:** Having worshipped him and the two high-souled Rāghavas with rites prescribed by the scriptures (_śāstradṛṣṭena karmaṇā_), the righteous-souled monarch then spoke these words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.1 (Structural Transition to Sītā’s Marriage)**
+
+**Govindarāja (_Bhūṣaṇa_)** opens Sarga 66 with a luminous reflection on the architecture of the _Bālakāṇḍa_: having concluded Śatānanda’s fifty-one-sarga eulogy of Viśvāmitra—spoken out of gratitude for the sage’s bringing Rāma to redeem Śatānanda’s mother Ahalyā—the poet now turns directly to the central purpose of the Lord’s incarnation: winning the hand of Lakṣmī incarnate in Janaka’s house as Sītā (reborn from Vedavatī’s vow) as the proximate cause for the destruction of Rāvaṇa.
+
+_____________
+
+**66.2–3 (śāstradṛṣṭena karmaṇā & ājñāpyo bhavatā)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja** gloss _śāstradṛṣṭena karmaṇā_ as offering _arghya_, _pādya_, and other scriptural honours due to both the sage and the two royal princes. In v. 3d, **Tilaka** cites Pāṇini 2.3.71 to explain the instrumental _bhavatā_ with the gerundive _ājñāpyaḥ_, tactfully inviting Viśvāmitra to state the purpose of his visit.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -176,6 +190,14 @@ done next,] said these words in reply to that valiant king Janaka. [1-66-4]
 
 Thus addressed by the high-souled Janaka, that righteous-souled foremost of sages, eloquent in speech (_vākyaviśāradaḥ_), spoke in reply:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.4–5 (kṣatriyau lokaviśrutau)**
+
+**Śiromaṇi** notes that Viśvāmitra specifies _kṣatriyau_ (“pure Kṣatriyas of illustrious lineage”) to signal their eligibility for the martial test of the bow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -278,6 +300,14 @@ these two princes will come true, and they will go back as they like... [1-66-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Show this bow to them, may good betide you (_etad darśaya bhadraṃ te_); when these two king’s sons have fulfilled their desire by beholding this bow (_darśanād asya dhanuṣaḥ kṛtakāmau_), they shall return according to their wish (_yatheṣṭaṃ pratiyāsyataḥ_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.6–8 (nimer jyeṣṭhaḥ & nyāsaḥ)**
+
+On v. 8b, **Rāma Varmā (_Tilaka_)** and **Śiromaṇi** read _nimer jyeṣṭhaḥ_ (identifying Devarāta either as Nimi’s son Mithi or as the eldest son of Nimi’s descendant Suketu), whereas **Govindarāja** (with Baroda CE) reads _nimeḥ ṣaṣṭhaḥ_ (sixth in descent excluding Nimi). How could Janaka use a pledged deposit (_nyāsaḥ = nikṣepaḥ_) as a bride-price without incurring sin? **Tilaka** and **Śiromaṇi** cite a second derivation of _nyāsa_ as a sacred object of worship or destroyer of foes (_nitarām āste devatā yatra_ / _nitarām asyante ripavo yena_), given outright by Śiva and the gods (citing _Kūrma_ and _Padma Purāṇas_).
 </details>
 </details>
 
@@ -473,6 +503,14 @@ revered heads of yours with this bow...' [So said Shiva to gods.] [1-66-10]
 
 **10:** “‘Since, O gods, you allotted no sacrificial share to me who sought my rightful share (_yasmād bhāgārthino bhāgaṃ nākalpayata me surāḥ_), I shall sever your precious heads with my bow (_varāṅgāni mahārhāṇi dhanuṣā śātayāmi vaḥ_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.9–10 (dakṣayajñavadhe & varāṅgāni)**
+
+All three commentators gloss _varāṅgāni_ as ‘heads’ (_śirāṃsi_, citing _Amarakośa_), which Rudra threatened to sever because the gods had denied him the _sviṣṭakṛt_ and other sacrificial shares (_sviṣṭakṛdādiyajñabhāgārthinaḥ_, **Tilaka**, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -527,6 +565,14 @@ Bhava, namely Shiva, the God of Gods is gladdened... [1-66-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thereupon, O foremost of sages, all the gods, downcast in heart (_vimanasaḥ sarve devāḥ_), propitiated the Lord of the Gods (_prasādayanta deveśam_); and Bhava (Śiva) grew pleased with them (_teṣāṃ prīto ’bhavad bhavaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.11 (bhavaḥ)**
+
+Propitiated by the downcast gods (_vimanasaḥ = dīnāḥ_), Bhava (Rudra) relented.
 </details>
 </details>
 
@@ -593,6 +639,14 @@ the God of Gods, to our ancestor [Devaraata,] for custodial care... [1-66-12, 13
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Filled with affection, he bestowed upon those high-souled gods that bow (_prītiyuktas tu sarveṣāṃ dadau teṣāṃ mahātmanām_); and this same jewel of a bow belonging to the great-souled God of Gods (_tad etad devadevasya dhanūratnaṃ mahātmanaḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.12–13 (dadau teṣām & kṛṣataḥ kṣetram)**
+
+**Rāma Varmā (_Tilaka_)**, **Govindarāja**, and **Śiromaṇi** supply _dhanuḥ_ as the object of _dadau_: Śiva gave the bow he had raised for their destruction to the gods, who in turn deposited it with Devarāta (or Śiva caused them to deposit it, reconciling _Kūrma Purāṇa_ 1.21’s _pradadau śatrunāśārthaṃ janakāyādbhutaṃ dhanuḥ_). In v. 13c, all three explain that Janaka was plowing the sacrificial enclosure with a team of oxen for the _agnicayana_ altar rite as enjoined by the _Śruti_ text _ṣaḍgavena kṛṣati_.
 </details>
 </details>
 
@@ -685,6 +739,14 @@ of Seetha.
 
 **14:** “—and being found by me as I was clearing and purifying the sacrificial field, she became renowned by the name of ‘Sītā’ (_kṣetraṃ śodhayatā labdhā nāmnā sīteti viśrutā_). Risen from the surface of the earth, she grew up as my own daughter (_bhūtalād utthitā sā tu vyavardhata mamātmajā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.14 (nāmnā sīteti viśrutā)**
+
+Because she rose from the furrow (_sītā = lāṅgalapaddhatiḥ_) as Janaka cleared the field, she was named _Sītā_ and adopted through loving nurture (_matkṛtapoṣaṇāt_, **Govindarāja**) as his own daughter (_mamātmajā_). **Tilaka** quotes the _Padma Purāṇa_ affirming that Mother Lakṣmī herself manifested thus before Janaka.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -741,6 +803,14 @@ is boldness alone,] have come and besought for her... [1-66-15b, 16a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Not born from a womb (_ayonijā_), this maiden of mine has been established with heroic valour as her bride-price (_vīryaśulketi me kanyā sthāpiteyam_). And as that daughter of mine, risen from the earth, grew to maidenhood—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.15–17 (ayonijā & vīryaśulkā)**
+
+Because her birth and beauty were superhuman, Janaka ordained superhuman prowess—the stringing of Śiva’s bow—as her bride-price (_vīryaśulkā_).
 </details>
 </details>
 
@@ -914,6 +984,14 @@ So says the tradition.
 
 —and coming to Mithilā, desired to test its weight and their own strength (_vīryaṃ jijñāsavas tadā_). As they sought to test their strength, that bow of Śiva was brought before them (_teṣāṃ jijñāsamānānāṃ śaivaṃ dhanur upāhṛtam_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.18–19 (vīryaṃ jijñāsavaḥ & grahaṇe ... tolane ’pi vā)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja** gloss _vīryam_ in v. 18b as the tough strength or weight of the bow itself (_dhanuḥsāram_), whereas **Śiromaṇi** takes it as the martial prowess required as the bride-price (_kanyāmūlyabhūtaparākramam_). Far from stringing the bow, the suitors could neither grasp and hold it upright (_grahaṇam = utthāpya dhāraṇam_) nor even heft it with their hands to gauge its weight (_tolanam = bhāraparīkṣaṇārthaṃ hastena cālanam_, all three commentators).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1010,6 +1088,14 @@ a self-mistrust bechanced among them all, about their own valour... [1-66-20b, 2
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—those kings were rejected by me; hear what followed thereupon, O sage rich in austerity (_pratyākhyātā nṛpatayas tan nibodha tapodhana_)! Then, in supreme wrath, O foremost of sages, all the kings—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.20–21 (vīryavatām & vīryasaṃdeham āgatāḥ)**
+
+**Śiromaṇi** notes the irony in _vīryavatām_ (“those who boasted of their valour”). On _vīryasaṃdeham āgatāḥ_, **Tilaka** explains that, realizing their failure to string the bow would make their prowess an object of public ridicule among others (_anyeṣāṃ saṃdehavadviṣayatvaṃ gatāḥ_), they resolved to seize the maiden by brute military force (“_balenaiva kanyāṃ grahīṣyāmaḥ_”), while **Govindarāja** glosses _vīryasaṃdeham_ as despondency over their strength (_vīryaśaithilyam_).
 </details>
 </details>
 
@@ -1147,6 +1233,14 @@ a decline, oh, eminent sage, thereby I am highly anguished [1-66-22b, 23a]
 
 “—filled with mighty rage, harassed the city of Mithilā (_roṣeṇa mahatāviṣṭāḥ pīḍayan mithilāṃ purīm_). Then, when a full year had elapsed, all my defensive stores and provisions were utterly exhausted (_tataḥ saṃvatsare pūrṇe kṣayaṃ yātāni sarvaśaḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.22 (pīḍayan mithilāṃ purīm)**
+
+Besieging the capital for a full year, the kings exhausted Mithilā’s garrison stores.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1205,6 +1299,14 @@ and chariot-warriors.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—all my means of defence, O foremost of sages, whereat I was sorely distressed in heart (_sādhanāni muniśreṣṭha tato ’haṃ bhṛśaduḥkhitaḥ_). Thereupon I propitiated all the hosts of the gods through austerity (_tato devagaṇān sarvāṃs tapasāhaṃ prasādayam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.23–24 (sādhanāni & caturaṅgabalam)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja** gloss _sādhanāni_ as the provisions and defensive equipment of the fortress (_durgarakṣaṇasādhanāni_), exhausted after a year’s siege. Why did the gods so readily grant Janaka a fourfold army? **Tilaka** notes their dual motive: to protect the Mother of the Universe (_jaganmātṛrakṣaṇārtham_) and to preserve Sītā for Rāma so that the gods’ own mission against Rāvaṇa might succeed (_svakāryasiddhyarthaṃ cedam baladānam_).
 </details>
 </details>
 
@@ -1310,6 +1412,14 @@ of Rama's capability or otherwise. Hence, the next verse starts with the clause
 
 “—stripped of their valour, doubting their own prowess, together with their ministers, those evildoers (_avīryā vīryasaṃdigdhāḥ sāmātyāḥ pāpakāriṇaḥ_)! That same supremely radiant bow, O tiger among sages (_tad etan muniśārdūla dhanuḥ paramabhāsvaram_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.25 (vīryasaṃdigdhāḥ)**
+
+**Tilaka** cites Pāṇini 2.2.37 (_āhitāgnyādiṣu_) to explain the Bahuvrīhi compound _vīryasaṃdigdhāḥ_ with the past participle placed second (“those whose own valour had become doubtful to themselves”; **Śiromaṇi**: wondering whether Janaka’s new army was magic or real).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1368,6 +1478,14 @@ whose birth is non-uterine, to Dasharatha's Rama..." [So said Janaka to Vishvami
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—I shall now show to Rāma and Lakṣmaṇa as well, O sage of noble vows (_rāmalakṣmaṇayoś cāpi darśayiṣyāmi suvrata_)! If Rāma should accomplish the stringing of this bow, O sage (_yady asya dhanuṣo rāmaḥ kuryād āropaṇaṃ mune_), I shall bestow my womb-unborn daughter Sītā upon the son of Daśaratha (_sutām ayonijāṃ sītāṃ dadyāṃ dāśarather aham_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**66.26 (kuryād āropaṇam & dāśaratheḥ)**
+
+**Śiromaṇi** explains the genitive _dāśaratheḥ_ with _dadyām_ as expressing deep fitness (“unto Rāma, who alone is worthy of her,” _dāśarather eva yogyām_) or as an _ārṣa_ relational genitive in the sense of the dative _dāśarathaye_.
 </details>
 </details>
 

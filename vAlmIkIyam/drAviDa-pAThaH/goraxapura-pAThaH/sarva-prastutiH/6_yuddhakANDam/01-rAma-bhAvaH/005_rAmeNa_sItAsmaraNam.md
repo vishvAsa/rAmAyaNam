@@ -296,6 +296,80 @@ away. Her age is indeed passing away. Only about this, I am repenting."
 
 “My anguish is not that my beloved is far away (_na me duḥkhaṃ priyā dūre_), nor is my anguish that she was carried off (_hṛteti ca_); this alone do I mourn—that her youth and allotted span are passing away (_vayo &#x27;syā hy ativartate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.5.1–3 (Encampment on the Shore and Awakening of Love-Grief)**
+
+Introducing the fifth sarga, **Govindarāja** (_Bhūṣaṇa_) remarks that after exhibiting Rāma's heroic virtues in Sargas 1–4, the poet now reveals his supreme compassion (कारुण्यरूपं प्रधानगुणं दर्शयितुम्). Once general Nīla pitches camp according to the manuals of statecraft (विधिवत् नीतिशास्त्रोक्तरीत्या) and Mainda and Dvivida patrol every quarter (दिशां सर्वेषु प्रदेशेषु), the sight of the ocean shore and its coastal groves (समुद्रवेलावनाद्युद्दीपकदर्शनात्) kindles Rāma's grief for Sītā on the opposite bank.
+
+_____________
+
+**6.5.4–5 (Sorrow That Defies Time and the Passing of Sītā's Span)**
+
+In 6.5.4, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that while ordinary bereavement fades with time (गच्छता कालेनेष्टान्तरवियोगजः शोकोऽपि गच्छति), Rāma's sorrow increases daily (अहन्यहनि वर्धते). On वयोऽस्या ह्यतिवर्तते in 6.5.5, Rāma Varmā offers two explanations: first, Sītā's two-month deadline of survival is rapidly expiring (प्राणावस्थितिकालोऽतिवर्तते मासद्वयमात्रं जीवनमित्युक्तेः); second, her youth (यौवनम्) is passing in vain. Govindarāja refines the second view: since Sītā is eternally youthful (नित्ययौवनत्वात्तस्याः), Rāma laments that prime days suited for mutual joy are slipping away fruitless (मुधैव यातीति भावः).
+
+_____________
+
+**6.5.6 (The Wind-Messenger and Moon-Conduit)**
+
+Apostrophizing the breeze (वाहि वात), Rāma seeks indirect union (प्रणालिकया): just as gazing at the moon that Sītā also beholds unites their eyes (चन्द्रे दृष्टिसमागमः) and cools his fever, so touching the wind that has brushed her limbs (तदङ्गस्पृष्टं त्वां स्पृशन्) mediates her touch (निदर्शनालंकारः).
+
+_____________
+
+**6.5.7–8 (Sītā's Cry and the Metaphor of the Fire of Love)**
+
+On 6.5.7, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss आशये as resting in the heart or stomach (चित्ते, अन्तःकरणे). **Govindarāja** (_Bhūṣaṇa_) adds a profound theological insight: though Sītā could have reduced Rāvaṇa to ashes by her own chastity (पातिव्रत्याग्निना भस्मीकर्तुं समर्थापि), she refrained lest she detract from Rāma's martial glory, crying हा नाथ to affirm him as her sole protector—and that very cry now sears Rāma's limbs like swallowed venom (पीतं विषमिव). In 6.5.8, the poet constructs a complete metaphor (सावयवरूपकम्): separation is the firewood (इन्धनम्) and unceasing thought of her the flame (अर्चिः).
+
+_____________
+
+**6.5.9 (Sleeping in the Ocean Without Lakṣmaṇa)**
+
+Why does Rāma say ‘without you, O Saumitri’ (भवता विना)? **Rāma Varmā** explains that Lakṣmaṇa never sleeps (त्वद्विधो मन्निकटे नागच्छतु, ऊर्मिलां प्रति निद्रायाः प्रेषितत्वेन); Śivasahāya notes that Lakṣmaṇa must remain awake on guard (जाग्रदेव त्वं तिष्ठ); and Govindarāja remarks that Lakṣmaṇa's presence reminds Rāma of Sītā (कान्तास्मारकेण), while also hinting at Lakṣmaṇa's identity as Ādiśeṣa, the serpent-couch of the ocean (लक्ष्मणस्य शेषावतारत्वमुक्तम्).
+
+_____________
+
+**6.5.10–12 (One Earth and the Parched Paddy-Field Simile)**
+
+Just as lovers take comfort in sharing one couch, Rāma lives by sharing one earth (एकां धरणिमाश्रितौ). In 6.5.11, all three commentators admire the agricultural simile: a dry field (निरूदकः केदारः) survives through underground seepage (उपस्नेहेन उपक्लेदेन) from an irrigated adjacent field (सोदकस्य केदारस्य).
+
+_____________
+
+**6.5.13–14 (The Elixir of Sītā's Lotus Face)**
+
+Longing for reunion in 6.5.13, Rāma compares himself to a fever-stricken patient (आतुरः रोगी, citing _Amarakośa_: आतुरोऽभ्यमितोऽभ्यान्तः) and Sītā's lotus-face to a rejuvenating alchemical elixir (रसायनं शरीरसिद्धिकरमौषधविशेषम्, glossed by **Rāma Varmā** and **Śivasahāya** as processed mercury, युक्तसिद्धपारदमिव). In 6.5.14, **Govindarāja** glosses संहतौ as closely joined without gap (श्लिष्टौ), while Śivasahāya explains भजिष्यतः as ‘will embrace or press against me’ (आश्रयतः).
+
+_____________
+
+**6.5.15–17 (Captivity Among Rākṣasīs and the Autumn Crescent Simile)**
+
+In 6.5.15–16, Rāma contrasts Sītā's threefold noble station—daughter of Janaka, bride of Rāma (मन्नाथा), and daughter-in-law of Emperor Daśaratha—with her helpless encirclement by ogresses (राक्षसीमध्यगा). On 6.5.17, Rāma Varmā explains अविक्षोभ्याणि रक्षांसि विधूय as ‘shaking off the unassailable Rākṣasas through me as her instrument’ (मद्द्वारा तेषां विधूननं कृत्वा): she will emerge like the slender digits of the autumn moon (शशिलेखा चन्द्रकलेव) casting off black monsoon clouds (नीलान् जलदान्).
+
+_____________
+
+**6.5.18 (Three Causes of Emaciation)**
+
+Why is naturally slender Sītā (स्वभावतनुका प्रकृत्या कृशशरीरा) now doubly wasted (तनुतरा)? The commentators note three causes: sorrow (शोकेन), abstaining from food (अनशनेन भोजनाभावेन), and the reversal of congenial place and time (देशकालविपर्ययात् सुखावहयोर्देशकालयोरपगमात्).
+
+_____________
+
+**6.5.19 (Piercing Rāvaṇa and Ending Sorrow)**
+
+On the two readings in 6.5.19b, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_), reading शोकं प्रत्याहरिष्यामि शोकमुत्सृज्य मानसम्, distinguish the two occurrences of शोकम्: discarding his own mental grief (स्वमनसि स्थितं शोकमुत्सृज्य), Rāma will withdraw Sītā's grief (जानक्याः सीतासंतापं कदा प्रत्याहरिष्यामि). **Govindarāja** (_Bhūṣaṇa_), reading सीतां प्रत्याहरिष्यामि शोकमुत्सृज्य, explains the inverted temporal sequence of gerund and finite verb (सीतां प्रत्याहृत्य कदा नु शोकमुत्स्रक्ष्यामि) by citing the standard grammatical parallel आस्यं व्यादाय स्वपिति.
+
+_____________
+
+**6.5.20–21 (Tears of Joy and the Soiled Garment Simile)**
+
+In 6.5.20, Rāma Varmā and Śivasahāya construe मे with कण्ठमालम्ब्य (‘clinging to my neck’), while आनन्दजं जलम् denotes tears of rapture. In 6.5.21, all three commentators gloss the euphemism शुक्लेतरम् (‘other than white’) as a soiled or stained garment (मलिनं वासः).
+
+_____________
+
+**6.5.22–23 (Sunset and the Evening Sandhyā)**
+
+On स्मरन् in 6.5.23, Rāma Varmā notes that the present participle (लक्षणहेत्वोः क्रियायाः — हेतौ शतृप्रत्ययः) expresses the cause of Rāma's agitation (तत्स्मरणाद्धेतोः शोकाकुलीकृतः). Govindarāja explains the archaic verb उपासत as उपास्त and defends the propriety (नानौचित्यम्) of Rāma's amorous lament before his younger brother Lakṣmaṇa on the ground that Lakṣmaṇa is his all-in-all confidential servant (सर्वविधसेवकत्वात्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

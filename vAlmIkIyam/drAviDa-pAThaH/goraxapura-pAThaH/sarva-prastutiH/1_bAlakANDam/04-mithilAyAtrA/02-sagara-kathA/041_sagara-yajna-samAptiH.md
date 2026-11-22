@@ -84,6 +84,14 @@ Realizing that his sixty thousand sons have been gone long, King Sagara dispatch
 
 “Realizing that his sons had been gone for a long time (_putrāṃś ciragatāñ jñātvā_), O delight of the Raghus, King Sagara spoke to his grandson (_naptāram_, Aṃśumān), who was blazing with his own splendor (_dīpyamānaṃ svatejasā_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.1–2 (naptāram & pitṝṇāṃ gatim)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja (_Bhūṣaṇa_)** gloss _naptāram_ as grandson (_pautram_), namely Aṃśumān, son of the banished Asamañja, while _ciragatān_ denotes his uncles who departed long ago and have not returned (_apratyāgacchata iti śeṣaḥ_). On _pitṝṇāṃ gatim anviccha_, **Tilaka** explains _gatim_ as their state or tidings (_vṛttāntam_), whereas **Govindarāja** takes it as their path (_mārgam_) along with the trail of whoever carried off the horse (_yena cāśvo ’pavāhitaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +204,14 @@ The living beings in netherworlds of earth are intrepid and they
 
 “‘The creatures dwelling within the interior of the earth (_antarbhaumāni sattvāni_) are both mighty in valor and huge in form (_vīryavanti mahānti ca_); to ward them off (_teṣāṃ tu pratighātārtham_), take up your bow along with your sword (_sāsiṃ gṛhṇīṣva kārmukam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.3 (antarbhaumāni sattvāni)**
+
+Both **Tilaka** and **Govindarāja** gloss _antarbhaumāni_ as creatures born inside the earth (_bhūmer antarjātāni sattvāni prāṇinaḥ_), **Govindarāja** adding that they are formed of subterranean waters. **Śiromaṇi** specifies that because these subterranean beings are fierce and huge-bodied (_vadhya-duṣṭa-prāṇinaḥ ... bṛhaccharīrāṇi_), Sagara orders Aṃśumān to arm himself with both sword and bow (_sāsiṃ kārmukam_) to repel them (_pratighātārtham_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -252,6 +268,14 @@ The living beings in netherworlds of earth are intrepid and they
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Reverently saluting those worthy of salutation (_abhivādyābhivādyāṃs tvam_) and slaying even those who cause obstruction (_hatvā vighnakarān api_), return with your purpose accomplished (_siddhārthaḥ saṃnivartasva_) and bring my sacrifice to the further shore of completion (_mama yajñasya pāragaḥ_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.4–5 (abhivādyān, yajñasya pāragaḥ & laghuvikramaḥ)**
+
+Unlike his sixty thousand sons who ravaged the underworld indiscriminately, Sagara instructs Aṃśumān to bow to those worthy of veneration (_namaskārārhān_, **Tilaka**; _militābhivādanayogyān_, **Śiromaṇi**) and slay only active obstructors (_vighnakarān_), thereby becoming the completer of his sacrifice (_yajñasya pāragaḥ samāptikaraḥ_, **Govindarāja**). Both **Govindarāja** and **Śiromaṇi** gloss _laghuvikramaḥ_ as swift-striding (_śīghragamanaḥ_).
 </details>
 </details>
 
@@ -359,6 +383,14 @@ Motivated by the King Sagara, oh, Rama, the best one among men, Amshuman
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Urged on by that king (_tena rājñābhicoditaḥ_), O best of men (_naraśreṣṭha_), he reached the subterranean path that had been excavated by his high-souled paternal uncles (_sa khātaṃ pitṛbhir mārgam antarbhaumaṃ mahātmabhiḥ prāpadyata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.6–8 (khātaṃ mārgam & pradakṣiṇaṃ kṛtvā)**
+
+Entering the subterranean passage excavated (_khātaṃ kḷptam_, **Govindarāja**) by his uncles, Aṃśumān beholds the eastern directional elephant (Virūpākṣa) revered by celestials and netherworld beings. Following Sagara’s counsel (v. 4, _abhivādyābhivādyān_), he circumambulates the guardian elephant and inquires after his welfare (_nirāmayaṃ kuśalam_, **Tilaka**) before asking about his uncles and the horse-thief.
 </details>
 </details>
 
@@ -512,6 +544,14 @@ On hearing that enquiry of Amshuman that directional elephant with
 
 “Hearing that, the high-minded directional elephant replied (_diśāgajas tu tac chrutvā pratyuvāca mahāmatiḥ_): ‘O son of Asamañja (_āsamañja_), with your purpose fulfilled, you shall swiftly return together with the horse (_kṛtārthas tvaṃ sahāśvaḥ śīghram eṣyasi_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.9–10 (āsamañja & yathākramam)**
+
+Both **Tilaka** and **Govindarāja** explain the vocative _Āsamañja_ (‘O son of Asamañja’) as an archaic patronymic lacking the _iñ_-suffix (_imabhāva ārṣaḥ_), whereas **Śiromaṇi** derives it via the _śivādi_ suffix _aṇ_. **Govindarāja** notes that _samupacakrame_ (v. 10) highlights Aṃśumān’s humility (_savinayatvaprakaṭanam_) as he visits all four directional elephants in sequence.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,6 +655,14 @@ All the elephants that safeguard the directions of earth which have
 
 “Honored by all those guardians of the quarters, who knew what was fitting to speak and were skilled in eloquent speech (_taiś ca sarvair diśāpālair vākyajñair vākyakovidaiḥ pūjitaḥ_), he was urged on with the words: ‘You shall return together with the horse (_sahayaś caivāgantāsīty abhicoditaḥ_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.11 (vākyajñair vākyakovidaiḥ)**
+
+To avoid tautology, **Tilaka** and **Govindarāja** derive _vākyam_ as the gerundive ‘what ought to be spoken’ (_vaktavyam_, Pāṇini 3.1.124 & 7.3.67), denoting those who know what is fitting to say according to time and place (_kāladeśocitavaktavyatattvajñaiḥ_), while _vākyakovidaiḥ_ denotes masters of eloquent expression (_vākyaprayogakuśalaiḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -671,6 +719,14 @@ On hearing that common blessing of all the directional-elephants, he
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing that speech of theirs (_teṣāṃ tad vacanaṃ śrutvā_), he of swift stride went to the place where his paternal uncles, the sons of Sagara, had been reduced to heaps of ashes (_jagāma laghuvikramaḥ bhasmarāśīkṛtā yatra pitaras tasya sāgarāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.12–14 (duḥkhavaśam āpannaḥ & vadhāt suduḥkhitaḥ)**
+
+Why does v. 13 state twice that Aṃśumān was grieved? **Śiromaṇi** and **Govindarāja** explain that upon arriving in the northeastern cavern, he first fell into sorrow from not seeing his uncles alive (_pūrvam adarśanād duḥkhavaśam āpannaḥ_), and then, upon seeing the heaps of ash and realizing their slaughter (_vadhadarśanāt_), wailed aloud in extreme anguish (_paramārtaḥ cukrośa ruroda_).
 </details>
 </details>
 
@@ -822,6 +878,14 @@ When he that great resplendent Amshuman wanted to offer obsequial waters
 
 “Desiring to perform the obsequial water-rite for those royal princes (_sa teṣāṃ rājaputrāṇāṃ kartukāmo jalakriyām_), that hero of great splendor sought water, yet saw no reservoir of water there (_sa jalārthī mahātejā na cāpaśyaj jalāśayam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.15–16 (jalakriyām & pitṝṇāṃ mātulam)**
+
+Wishing to offer funeral water-libations (_jalakriyāṃ tarpaṇam_, **Govindarāja**), Aṃśumān casts his keen, far-discerning gaze (_nipuṇāṃ dūravivecanasamarthāṃ dṛṣṭim_, **Tilaka**) all around (_visārya_) and beholds Garuḍa (_Suparṇa_). Why is Garuḍa called _pitṝṇāṃ mātulam_ (‘maternal uncle of his uncles’)? **Tilaka** recalls Sarga 38: Sagara’s sixty thousand sons were born of Sumati, sister of Suparṇa (_suparṇabhaginī sumatir iti prāguktatvāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -929,6 +993,14 @@ That great-mighty son of Lady Vinata, namely Garuda, also spoke this
 
 “Then Vinatā’s son of mighty strength spoke this word to him (_sa cainam abravīd vākyaṃ vainateyo mahābalaḥ_): ‘Do not grieve, O tiger among men; this slaying is approved for the welfare of the worlds (_mā śucaḥ puruṣavyāghra vadho ’yaṃ lokasaṃmataḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.17 (vadho ’yaṃ lokasaṃmataḥ)**
+
+Both **Tilaka** and **Govindarāja** gloss _lokasaṃmataḥ_ as ‘beneficial to the worlds’ (_lokahitaḥ_): their death becomes the direct cause for bringing the all-sanctifying Gaṅgā down to the earthly realm (_etanmūlakatayā sarvalokahitagaṅgāyā bhūloke ’vatāraṇāt_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -987,6 +1059,14 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
 
 “‘For these heroes of great strength were burned to ashes by the immeasurable Kapila (_kapilenāprameyeṇa dagdhā hīme mahābalāḥ_); therefore, O wise prince, you ought not to offer them ordinary earthly water (_salilaṃ nārhasi prājña dātum eṣāṃ hi laukikam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.18 (salilaṃ nārhasi ... laukikam)**
+
+Why is Aṃśumān forbidden to offer ordinary terrestrial water (_laukikaṃ salilam_)? Both **Tilaka** and **Govindarāja** cite the _Smṛti_ text: _caṇḍālād udakāt sarpād vaidyutād brāhmaṇād api ... udakaṃ piṇḍadānaṃ ca na teṣāṃ tu vidhīyate_—for sinners slain through a Brāhmaṇa’s wrath, ordinary water and _piṇḍa_ offerings are barred and perish in mid-air (_antarikṣe vinaśyati_), and here Kapila is a Brāhmaṇa (**Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1041,6 +1121,14 @@ In fact, Kapila, the Imponderable Sage, has burnt down those great-mighty
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Gaṅgā is the eldest daughter of Himavān (_gaṅgā himavato jyeṣṭhā duhitā_), O bull among men (_puruṣarṣabha_); in her waters, O mighty-armed one, perform the obsequial water-rite for your paternal uncles (_tasyāṃ kuru mahābāho pitṝṇāṃ tu jalakriyām_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.19–20 (plāvayel lokapāvanī & klinnam idaṃ bhasma)**
+
+Could Aṃśumān simply go to heaven and offer Gaṅgā-water there? **Tilaka** and **Govindarāja** answer no (_na kevalaṃ tatra jalakriyā, tayāocanīyaṃ ca_): Gaṅgā must physically drench (_plāvayet secayet_) their ashes. **Tilaka** notes the dharmic implication: even for mortal sinners beyond ordinary expiation (_manvādyuktaprāyaścittāviṣayatvam_), the touch of Gaṅgā’s water upon their bodily relics (_gaṅgājalaspṛṣṭapañjarakāṇām_) instantly purifies them and bears them to heaven.
 </details>
 </details>
 
@@ -1154,6 +1242,14 @@ World purifier River Ganga will drift them who are rendered as mounds
 
 “‘Depart, O illustrious bull among men, taking the horse with you (_nirgacchāśvaṃ mahābhāga saṃgṛhya puruṣarṣabha_); O hero, you ought to bring your grandfather’s sacrifice to completion (_yajñaṃ paitāmahaṃ vīra nirvartayitum arhasi_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.21–22 (yajñaṃ paitāmaham & punar āyāt)**
+
+Garuḍa instructs Aṃśumān on his immediate duty (_tātkālikakartavyam_, **Śiromaṇi**): take the horse and complete his grandfather’s interrupted sacrifice (_nirvartayituṃ samāpayitum_, **Tilaka**). Reassured, Aṃśumān swiftly returns with the steed.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1360,14 @@ Then on reaching the King Sagara, who is under the vow of the ritual,
 
 “Then approaching the king, who was still under sacrificial initiation (_tato rājānam āsādya dīkṣitam_), O delight of the Raghus, Aṃśumān related everything just as it had happened (_nyavedayad yathāvṛttam_) as well as the counsel of Suparṇa (_suparṇavacanaṃ tathā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.23–24 (dīkṣitaṃ rājānam & yathākalpaṃ yathāvidhi)**
+
+Because a sacrificer under initiation (_dīkṣitam_) cannot leave the sacrificial enclosure until the rite concludes, Aṃśumān comes directly to Sagara at the altar and recounts both his uncles’ fate (_pitṛvṛttāntam_, **Govindarāja**; **Tilaka**) and Garuḍa’s directive. Despite the terrible news (_ghorasaṃkāśaṃ vākyam_), Sagara completes the rite according to ritual sequence (_yathākalpaṃ yathākramam_, **Govindarāja**; _yathāsāmarthyam_, **Śiromaṇi**) and scriptural injunction (_yathāvidhi_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1368,6 +1472,14 @@ On completing the Vedic-ritual King Sagara arrived at his capital,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having completed the sacrifice (_iṣṭayajñaḥ_), the glorious lord of the earth returned to his own capital city (_svapuraṃ tv agamac chrīmān mahīpatiḥ_); yet the king could not arrive at any definite plan for bringing down Gaṅgā (_gaṅgāyāś cāgame rājā niścayaṃ nādhyagacchata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.25–26 (iṣṭayajñaḥ & gaṅgāyāś cāgame niścayam)**
+
+**Tilaka** analyzes _iṣṭayajñaḥ_ as a _bahuvrīhi_ compound (‘he by whom the sacrifice has been offered’) and explains _gaṅgāyāś cāgame niścayaṃ nādhyagacchata_ as Sagara’s inability to determine a practical means for bringing Gaṅgā down to earth (_bhūmāv āgame niścayam upāyaviṣayaṃ nādhyagacchata_).
 </details>
 </details>
 

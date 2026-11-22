@@ -253,6 +253,116 @@ Hanuma asked Rama. [4-4-4]
 
 “For what purpose (_kimartham_) have you come with your younger brother (_sānujaḥ_) to this dread, impassable forest (_vanaṃ ghoram_) adorned by the groves of Pampā and teeming with diverse beasts of prey and deer?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.4.1–2 (Mutual Need and Sugrīva's Restoration)**
+
+**Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain how Hanūmān inferred both points of 4.4.1: from Rāma's calling Sugrīva महात्मनः (4.3.26b) he perceived Rāma's gentle disposition (मधुरभावम्), and from तमेव काङ्क्षमाणस्य (4.3.26c) and Lakṣmaṇa's तमेव चावां मार्गावः (4.3.37c) he recognized that Rāma had an urgent purpose (कृत्यवान्, प्रयोजनसापेक्षः), mentally foreseeing Sugrīva's restoration to the kingdom (राज्यागमः) as virtually accomplished (निष्पन्नप्रायम्).
+
+_____________
+
+**4.4.3–4 (The 9,000th-Verse Gāyatrī Marker)**
+
+On प्लवगर्षभः (4.4.3b), **Govindarāja** records that the syllable ग is the tenth syllable of the _Gāyatrī_ meter, marking the completion of 9,000 verses of the _Rāmāyaṇa_ (गकारो गायत्र्याः दशमाक्षरम्, नवसहस्रश्लोका गताः). He adds that Hanūmān inferred Lakṣmaṇa was Rāma's younger brother (सानुजः) from his likeness and from Rāma's deputing him (तमभ्यभाषेति नियोजनात्).
+
+_____________
+
+**4.4.5–6 (Rāma's Silent Prompting)**
+
+**Rāma Varmā** supplies that Rāma prompted Lakṣmaṇa through a gesture (इङ्गितेन).
+
+_____________
+
+**4.4.7–9 (Like Brahmā and Fulfilling the Father's Word)**
+
+**Rāma Varmā** (_Tilaka_) explains the simile पितामह इवापरः as resting on universal protection (पालकत्वेन), while **Śivasahāya** (_Śiromaṇi_) grounds it in the mutual absence of enmity (कंचन न द्वेष्टि अत एव तस्य... द्वेष्टा न विद्यते). On पितुर्निर्देशपारगः (4.4.9b), **Rāma Varmā** observes that Rāma is called one who has crossed to the end of his father's command because the fourteen-year exile is nearly complete (तस्य समाप्तिकल्पत्वादेवमुक्तम्).
+
+_____________
+
+**4.4.10–11 (The Simile of the Setting Sun)**
+
+**Rāma Varmā** glosses the second संयुक्तः as `being yoked to royal sovereignty' (संयुज्यमानः) on the eve of his coronation. **Govindarāja** (_Bhūṣaṇa_) highlights the poetic force of दिनक्षये (`at day's end'): just as the sun even at sunset is accompanied by its radiance (प्रभया), so Rāma even in the loss of his kingdom is faithfully followed by Sītā (ऐश्वर्यभ्रंशदशायामप्यनुवर्तनद्योतनाय).
+
+_____________
+
+**4.4.12 (Servitude Born of Virtues)**
+
+**Govindarāja** explains that while Lakṣmaṇa is Rāma's brother by birth, Rāma's captivating virtues (गुणवशीकृतहृदयः) draw forth his devoted service (कैङ्कर्यम्).
+
+_____________
+
+**4.4.13–14 (Sītā's Abduction in Solitude)**
+
+**Śivasahāya** (_Śiromaṇi_) construes verses 13–14 as one sentence (श्लोकद्वयमेकान्वयि), glossing महार्हस्य as worthy of honor even from the triad of Brahmā, Viṣṇu, and Śiva (सर्वपूज्यब्रह्मादित्रयेण अर्हस्य) and taking रहिते temporally (`when bereft of us two,' आवाभ्यां शून्यसमये), whereas **Govindarāja** (_Bhūṣaṇa_) takes रहिते locally (`in a secluded spot,' रहितदेशे).
+
+_____________
+
+**4.4.15–17 (Danu's Lineage and Ascent)**
+
+Identifying Danu with Kabandha (दनुः कबन्धः), **Govindarāja** reconciles दितेः पुत्रः (`son of Diti') with his earlier description as son of Śrī by explaining that he belonged to Diti's race (दितिवंशजः). On स्वर्गं... दिवं गतः, **Rāma Varmā** (_Tilaka_) avoids tautology by taking दिवम् as the sky into which he rose to reach heaven (स्वर्गं गन्तुं दिवमाकाशं गतः उत्पतितः).
+
+_____________
+
+**4.4.18 (Supreme Lordship and Gracious Humility)**
+
+**Govindarāja** remarks that लोकनाथः (`lord of the worlds') seeking Sugrīva as नाथम् (`protector') exemplifies the union of divine supremacy and gracious accessibility (परत्वसौशील्ये दर्शयति), citing the Dhātupāṭha entry नाथृ याच्ञोपतापैश्वर्याशीःसु.
+
+_____________
+
+**4.4.19–20 (शरण्यः Seeking शरणम्)**
+
+Reading सीता यस्य स्नुषा चासीत्, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) refer यस्य to Daśaratha, whose daughter-in-law (स्नुषा = पुत्रवधूः) was Sītā and whose son Rāma now approaches Sugrīva as protector (शरणं रक्षकम्). Reading पिता यस्य पुरा ह्यासीत्, **Govindarāja** (_Bhūṣaṇa_) sees here a further illustration of Rāma's gracious condescension (सौशील्यम्) and glosses गुरुर्मे as `my elder brother' (अग्रजः).
+
+_____________
+
+**4.4.21–23 (The World's Benefactor Seeking a Monkey's Grace)**
+
+**Govindarāja** contrasts creatures who attain all aims through Rāma's grace (तत्प्रसादरब्धसकलपुरुषार्थतया) with Rāma's now seeking the grace of a woodland monkey chief (वानरेन्द्रम्). On 4.4.22, **Rāma Varmā** glosses सर्वगुणोपेताः as consecrated kings (मूर्धाभिषिक्ताः) and distinguishes सदा (`daily,' प्रतिदिनम्) from सततम् (`continually,' अनुक्षणम्).
+
+_____________
+
+**4.4.24 (शोकाभिभूते and शोकार्ते)**
+
+**Rāma Varmā** and **Govindarāja** distinguish शोकाभिभूते (`overpowered by grief,' शोकपरतन्त्रे) from शोकार्ते (`pained by grief,' शोकपीडिते), whereas **Śivasahāya** takes शोकाभिभूते as `he who vanquishes sorrow' (शोकपराभवकारिणि).
+
+_____________
+
+**4.4.25–26 (Lakṣmaṇa's Tears and द्रष्टव्याः)**
+
+**Rāma Varmā** (_Tilaka_) explains साश्रुपातनम् as drawing tears at the thought that even Rāma and Lakṣmaṇa must seek another's refuge (अस्माकमप्यन्यशरणापेक्षेत्यश्रुपातनसहितम्), whereas **Govindarāja** (_Bhūṣaṇa_), reading साश्रुलोचनम्, attributes Lakṣmaṇa's tears to beholding Rāma's grief (रामदुःखदर्शनाद्दुःखितत्वम्). On द्रष्टव्याः, **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) gloss `worthy to be seen' (द्रष्टुं योग्याः), while **Govindarāja** glosses `worthy to be sought out' (अन्वेषितव्याः).
+
+_____________
+
+**4.4.27–28 (Shared Calamity and Mutual Aid)**
+
+**Rāma Varmā** observes that स हि (`for he too') highlights that Sugrīva stands in equal need of an ally (तस्यापि सहायापेक्षत्वं दर्शितम्), having likewise lost his kingdom and wife (हृतदारः). **Govindarāja** notes that once Sugrīva aids in searching for Sītā (सीतायाः परिमार्गणे), the slaying of Rāma's enemy goes without saying (का शत्रुवार्तेति भावः).
+
+_____________
+
+**4.4.29–30 (Honoring the Envoy)**
+
+**Govindarāja** glosses यथान्यायम् as honoring Hanūmān in a manner befitting an envoy (दूतानुरूपम्).
+
+_____________
+
+**4.4.31–32 (The Analogy of the Blind and the Lame)**
+
+**Śivasahāya** (_Śiromaṇi_) observes that since both Rāma and Sugrīva have urgent aims (कृत्यवान्), their alliance will accomplish the goals of both on the maxim of the lame man and the blind man (पङ्ग्वन्धन्यायेन द्वयोः सख्यमेव द्वयोः कार्यसाधकं भविता). **Govindarāja** (_Bhūṣaṇa_) notes that Hanūmān's joyful demeanor (हृष्टत्वम्) and bright countenance (प्रसन्नमुखवर्णः) guarantee his veracity (अनृतं न वदेत्).
+
+_____________
+
+**4.4.33–34 (Mounting Hanūmān's Back)**
+
+**Śivasahāya** explains the dative हरिराजाय with जगाम by the rule allowing dative for the goal of motion (गत्यर्थानां कर्मणि चतुर्थी). **Govindarāja** notes that verse 34 explains how Hanūmān took (आदाय) the princes in verse 33—by shedding his mendicant guise and carrying them on his back (पृष्ठमारोप्य), while **Rāma Varmā** (_Tilaka_) notes the _ārṣa_ suffix -अण् in adjectival वानरम् (आर्षोऽण्).
+
+_____________
+
+**4.4.35 (Journey to Ṛṣyamūka)**
+
+**Rāma Varmā** and **Śivasahāya** identify गिरिवरम् as Mount Ṛṣyamūka (ऋष्यमूकम्), with **Śivasahāya** glossing कृतकृत्यवत् as heralding the fulfillment of both princes' aims.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -80,6 +80,14 @@ While Mahādeva practices severe austerity with Umā, the gods led by Indra and 
 
 “While the Great God (Śiva) was thus practicing austerity (_tapyamāne tadā deve_), the gods together with Indra and led by Agni (_sendrāḥ sāgnipurogamāḥ_), desiring a commander for their armies (_senāpatim abhīpsantaḥ_), approached the Grandsire Brahmā.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.1–2 (tapyamāne deve & the Reading surārāma)**
+
+**Govindarāja (_Bhūṣaṇa_)** notes the reflexive-passive _tapyamāne_ (_tapaḥkarmakatvād ātmanepadakarmavadbhāvau_). On v. 2, **Rāma Varmā (_Tilaka_)** rejects the variant _surāḥ sarve_ in pāda c as tautological (_punaruktam_) with pāda a and endorses _surārāma_ (or vocative _surā rāma_); **Śiromaṇi** glosses vocative _sura_ as he through whom sages attain their desired fruit and _surāḥ_ as ‘bestower of supreme bliss’ (_paramānandada rāma_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -187,6 +195,14 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 
 “‘O Lord, that divine Lord (_bhagavatā_) by whom our commander-in-chief was formerly granted in seminal form (_yena senāpatir dattaḥ purā_) has now resorted to supreme austerity (_tapaḥ param āsthāya_) and is practicing penance together with Umā (_tapyate sma sahomayā_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.3 (Two Interpretations of senāpatiḥ)**
+
+Under the Southern reading _yena senāpatiḥ_, **Tilaka** explains that Lord Śiva, who gave the war-leader in the form of his seed (_yena hareṇa senāpatir bījātmanā dattaḥ_), has now embraced supreme silence and penance (_tapas tapyate ’nutiṣṭhati_). Under the reading _yo naḥ senāpatiḥ_, **Govindarāja** and **Śiromaṇi** take Rudra himself as the commander originally appointed by Brahmā, who has now retired with Umā into lifelong austerity.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,6 +251,14 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Whatever course of action is now to be undertaken next out of desire for the welfare of the worlds (_yad atrānantaraṃ kāryaṃ lokānāṃ hitakāmyayā_), pray ordain that, O knower of sacred ordinances (_saṃvidhatsva vidhānajña_); for you alone are our supreme refuge (_tvaṃ hi naḥ paramā gatiḥ_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.4–5 (yad atrānantaraṃ kāryam & sāntvayan)**
+
+Since Śiva cannot be recalled from his vow of penance (_ugre tapasi vartamānasya tasya nivartanam aśakyam_, **Govindarāja**), the gods petition Brahmā to bring the seed to birth as a son (_putrākāratvavṛttaye_, **Tilaka**), and the Grandsire consoles their distress.
 </details>
 </details>
 
@@ -339,6 +363,14 @@ Confirming that Umā’s curse upon their wives is irrevocable, Brahmā reveals 
 
 “‘As for what was spoken by the Mountain’s daughter—“There shall be no progeny for you in your own wives” (_śailaputryā yad uktaṃ tan na prajāḥ svāsu patniṣu_)—that unimpaired word of hers (_tasyā vacanam akliṣṭam_) is absolute truth, without a doubt (_satyam eva na saṃśayaḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.6–7 (Inviolability of Umā’s Curse & Appointment of Ākāśa-Gaṅgā)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** explain that because Pārvatī’s word is unfailing (_amogham_, **Tilaka**, **Govindarāja**; _bādhārahitam_, **Śiromaṇi**), no god can beget a general in his own consort. **Tilaka** defends the Southern reading _na prajāḥ svāsu patniṣu_ (with Vedic shortening in _patniṣu_) and dismisses the conjecture _prajāsyatha_ as superfluous (_pāṭhakalpanā viphalaiva_). Because Ākāśa-Gaṅgā is not one of the gods’ wives, Agni can deposit Rudra’s seed in her without violating the curse.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +474,14 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 
 “‘The eldest daughter of the lord of mountains (_jyeṣṭhā śailendraduhitā_) will honor that son as her own (_mānayiṣyati taṃ sutam_), and that will without doubt be held in high esteem by Umā as well (_umāyās tad bahumataṃ bhaviṣyati na saṃśayaḥ_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.8 (Who is jyeṣṭhā śailendraduhitā?)**
+
+**Tilaka** refutes **Kataka**’s claim that _jyeṣṭhā_ refers to Umā (which contradicts Sarga 35’s statement that Gaṅgā is Himavān’s eldest daughter): rather, the eldest sister Gaṅgā will cherish the child as her younger sister Umā’s offspring (_svakaniṣṭhomāpatyatvān mānayiṣyati_), while Umā will prize that honor because the child sprang from Śiva’s seed and her own generative essence (_umāśivasaṃyogena cyutaretorajobhyām utpatteḥ_; cf. **Śiromaṇi**: _traikālikasarvatobhayaputratvam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -489,6 +529,14 @@ give birth to - Fire-god who can procreate; such a; *iyam aakaashagangaa*
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing that word of his, O delight of the Raghus, all the gods felt their purpose fulfilled (_kṛtārthāḥ_) and, bowing low in prostration, worshipped the Grandsire (_pitāmaham apūjayan_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.9–11 (Mission to Kailāsa)**
+
+Why do the gods travel to Mount Kailāsa in v. 10? **Govindarāja** explains that Kailāsa was the seat where Agni was then stationed while holding the fiery mass of Rudra’s seed, and there they commissioned him to beget the son (_putrotpādanārtham_).
 </details>
 </details>
 
@@ -645,6 +693,14 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 “Giving his pledge to the deities (_devatānāṃ pratijñāya_), Pāvaka (Agni) approached Gaṅgā and said: ‘O Goddess, bear this embryo (_garbhaṃ dhāraya vai devi_); this is dear to the deities (_devatānām idaṃ priyam_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.12–14 (divyaṃ rūpam, avaśīryata, & sarvasrotāṃsi)**
+
+Relinquishing her fluid shape, Gaṅgā assumes the form of a celestial woman (_divyastrīveṣam_, **Govindarāja**). On _avaśīryata_, **Tilaka** offers both an alchemical gloss—quicksilver (_raseśvaratejorūpo ’gniḥ pāradaḥ_), the mineral essence of Śiva’s seed, leaps and disperses toward a female catalyst (_uttamajīvaka_)—and the direct sense that Agni shed the Rudra-seed on every side (_avākīryata_, **Govindarāja**, **Śiromaṇi**), filling all her subtle channels (_nāḍyaḥ_, **Tilaka**) and bodily limbs (_sarvāvayavāḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -799,6 +855,14 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 “Thereupon Gaṅgā spoke to him who walks at the head of all the gods (_sarvadevapurogamam_): ‘O Lord, I am unable to bear your surging fiery energy (_aśaktā dhāraṇe deva tejas tava samuddhatam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.15–16 (Why Gaṅgā Could Not Bear the Seed)**
+
+**Tilaka** explains why Rudra’s seed, already fiery, overwhelmed even the cool waters of Gaṅgā: compounded with Agni’s own igneous energy (_tavāgneyena tejasā saṃbandhāt_), it blazed with doubled intensity (_samuddhatam_). **Govindarāja** and **Śiromaṇi** note that the variant _sarvadevapurohitam_ echoes Ṛgveda 1.1.1 (_‘agnim īḷe purohitam’_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -897,6 +961,14 @@ Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed thr
 
 “‘Let this embryo be deposited right here upon the flank of Himavān (_iha haimavate pārśve garbho ’yaṃ saṃniveśyatām_)!’ Hearing Agni’s words, Gaṅgā took that supremely radiant embryo (_taṃ garbham atibhāsvaram_)
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.17 (iha haimavate pārśve)**
+
+Agni directs Gaṅgā to deposit the embryo at the foot of Himavān, right upon the White Mountain earlier formed from Rudra’s seed (_agnidagdhaśvetaparvatīkṛtarudratejorāśau_, **Govindarāja**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -957,6 +1029,14 @@ As Gaṅgā extrudes the dazzling embryo from her currents, its spilled effulgen
 **18:** “and she of mighty splendor cast it forth from her currents (_utsasarja mahātejāḥ srotobhyo hi_), O sinless Rāma. Whatever issued from her thereby, gleaming like molten Jambūnada gold (_taptajāmbūnadaprabham_),
 
 **19:** “became upon reaching the earth pure gold (_kāñcanam_) and silver of peerless luster (_hiraṇyam atulaprabham_); and from its fiery sharpness (_taikṣṇyād eva_) were born copper and black iron (_tāmraṃ kārṣṇāyasaṃ caiva_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.18–20 (Alchemical Metallogenesis of the Six Metals)**
+
+All three commentators detail how the fluids extruded with the embryo transmuted earthly matter into six metals: direct contact with the pure Rudra-seed produced gold (_kāñcanam_), while adjacent earth pierced by its fragrance became silver (_hiraṇyaṃ rajatam_, **Tilaka**, **Govindarāja**, **Śiromaṇi**); its pungent heat (_taikṣṇyāt_) generated copper (_tāmram_) and iron (_kārṣṇāyasam_), and its embryonic dross (_malam_) became tin (_trapu = raṅgam_) and lead (_sīsakam_). **Tilaka** summarizes this as _sparśavedhitvam_ (alchemical transmutation by touch).
 </details>
 </details>
 
@@ -1035,6 +1115,14 @@ As Gaṅgā extrudes the dazzling embryo from her currents, its spilled effulgen
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And the very moment the embryo was laid down (_nikṣiptamātre garbhe tu_), the entire forest bordering the mountain (_sarvaṃ parvatasaṃnaddhaṃ vanam_), irradiated by its splendors (_tejobhir abhirañjitam_), became golden (_sauvarṇam abhavat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.21–22 (rūpavedhitvam & Etymology of Jātarūpa)**
+
+Beyond contact-transmutation, the embryo’s radiance transmuted the entire mountain reed-forest into gold by mere illumination (_rūpavedhitvam_, **Tilaka**); hence gold acquired the name _jātarūpa_ (‘that whose wondrous form was manifested at Skanda’s birth’, _jātaṃ prakaṭībhūtaṃ rūpaṃ yasya_, **Govindarāja**, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1163,6 +1251,14 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 
 “Then the gods together with Indra and the hosts of Maruts (_sendrāḥ saha marudgaṇāḥ_) appointed the six Kṛttikās to nurse that newborn prince with their milk (_kṣīrasambhāvanārthāya kṛttikāḥ samayojayan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.23 (Appointment of the Kṛttikās)**
+
+Once the embryo matured into Kumāra, Indra and the Maruts commissioned the six Pleiades (_kṛttikāḥ ṣaṭ tārakāḥ_) to nourish him with breast-milk.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1218,6 +1314,14 @@ Forming a solemn pact that the child shall belong equally to them all, the six K
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Making an excellent pact among themselves (_kṛtvā samayam uttamam_) and resolved, ‘This son belongs to all of us alike!’ (_putro ’yam asmākaṃ sarvāsām iti niścitāḥ_), they offered their milk to him the moment he was born (_tāḥ kṣīraṃ jātamātrasya daduḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.24–25 (The Kṛttikās’ Pact & Etymology of Kārtikeya)**
+
+To prevent rivalry over who should nurse the child first, the six Kṛttikās made a mutual compact (_samayaṃ saṅketam_: ‘We shall all nurse him simultaneously as our common son’, **Śiromaṇi**, **Govindarāja**), and the gods ratified their maternity by proclaiming that he would be celebrated across the three worlds as _Kārtikeya_.
 </details>
 </details>
 
@@ -1313,6 +1417,14 @@ the womb of Ganga. [1-37-26]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing those words of theirs, the Kṛttikās bathed (_snāpayan_) the child who had slipped forth in the effusion of the womb (_skannaṃ garbhaparisrave_) and was blazing with supreme luster like fire (_parayā lakṣmyā dīpyamānaṃ yathānalam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.26–27 (The Ritual Bath & Etymology of Skanda)**
+
+Hearing the gods’ blessing, the Kṛttikās bathed the infant both to cleanse the amniotic effusion of Gaṅgā’s womb (_garbhamalanirasyārtham_, **Govindarāja**) and to temper his fiery untouchability (_duḥsparśatānivṛttaye_, **Tilaka**). Because the seed had slipped (_skannam_) first from Śiva and Umā and again from Gaṅgā’s overflowing channels (_garbhaparisrave_), the gods named him _Skanda_—which **Tilaka** derives via the _pṛṣodarādi_ class (Pāṇini 6.3.109) and **Śiromaṇi** from _skandati bahugarbhaṃ prāpnoti_.
 </details>
 </details>
 
@@ -1433,6 +1545,14 @@ It is said that each of the six Krittika-stars came forward to give her milk fir
 
 “Then the peerless milk of the six Kṛttikās flowed forth (_prādurbhūtaṃ tataḥ kṣīraṃ kṛttikānām anuttamam_); and becoming six-faced (_ṣaḍānano bhūtvā_), he drank the milk born of the breasts of all six (_ṣaṇṇāṃ jagrāha stanajaṃ payaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.28 (ṣaṇṇāṃ ṣaḍānano bhūtvā)**
+
+As maternal affection caused the milk of all six Kṛttikās to well up at once, the infant assumed six faces (_ṣaḍānano bhūtvā_) so that none of his six mothers would wait even an instant.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1488,6 +1608,14 @@ ajayat* = triumphed over.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having drunk their milk in a single day (_gṛhītvā kṣīram ekāhnā_), that all-pervading Lord (_vibhuḥ_), though tender and youthful in body (_sukumāravapus tadā_), vanquished the hosts of Daitya armies by his own valor (_ajayat svena vīryeṇa daityasainyagaṇān_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.29–30 (Victory in a Single Day & Narrative Order)**
+
+Nourished by a single day’s nursing (_ekāhnā = ekadinena_, with optional omission of the _ṭac_-suffix explained by **Govindarāja**), young Kumāra routed the Daitya armies by his innate radiance. While **Tilaka** and **Śiromaṇi** take his consecration as _surasenāgaṇapati_ in v. 30 as following his victory over the Asuras, **Govindarāja** notes the logical sequence (_arthakramaḥ_): he was first consecrated as commander-in-chief and thereupon conquered the Daityas (_prathamam abhiṣekas tato jaya ity arthakramaḥ_).
 </details>
 </details>
 
@@ -1584,6 +1712,14 @@ ajayat* = triumphed over.
 
 “Thus, O Rāma, the detailed account of Gaṅgā has been related to you by me (_eṣa te rāma gaṅgāyā vistaro ’bhihito mayā_), together with the auspicious and merit-bestowing birth of Kumāra (_kumārasambhavaś caiva dhanyaḥ puṇyas tathaiva ca_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.31 (dhanyaḥ puṇyas tathaiva ca)**
+
+Concluding the first part of Rāma’s inquiry—Gaṅgā’s celestial history (_divyasambhavaḥ_, **Govindarāja**)—Viśvāmitra declares the _Kumārasambhava_ both _dhanyaḥ_ (conferring worldly prosperity and progeny, _aihalaukikaphalena dhanyatvam_, **Tilaka**; _dhanyatvahetuḥ_, **Śiromaṇi**) and _puṇyaḥ_ (conferring merit in the hereafter, _puṇyatvahetuḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1648,6 +1784,14 @@ ajayat* = triumphed over.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And whatever mortal on earth is devoted to Kārtikeya (_bhaktaś ca yaḥ kārtikeye bhuvi mānavaḥ_), O Kākutstha, shall live long blessed with sons and grandsons (_āyuṣmān putrapautraiś ca_) and attain the very realm of Skanda (_skandasālokyatāṃ vrajet_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37.32 (Phalaśruti — skandasālokyatām)**
+
+Unpacking those twin rewards, v. 32 promises that a devotee of Kārtikeya—and, by the force of _ca_, anyone who hears or recites this sacred narrative (**Śiromaṇi**)—enjoys long life with sons and grandsons on earth before attaining the luminous realm of Skanda (_skandasamānalokatvam_, **Govindarāja**).
 </details>
 </details>
 

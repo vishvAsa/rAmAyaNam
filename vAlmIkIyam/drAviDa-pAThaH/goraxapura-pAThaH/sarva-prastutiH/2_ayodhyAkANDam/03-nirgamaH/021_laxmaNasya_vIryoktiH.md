@@ -1132,6 +1132,206 @@ hearing the un-just words spoken by my co-wife."
 
 “O my son, you have heard what your brother Lakṣmaṇa has spoken; do now whatever is next to be done here (_yad atrānantaram_), if it pleases you.”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.21.1–3 (tatkālasadṛśam and viparītaḥ)**
+
+Nāgeśa Bhaṭṭa (_Tilaka_) explains that Lakṣmaṇa's words are “suited to that moment” (तत्कालसदृशं रामवियोगहेतुककौसल्यादुःखप्रशमनादिकालोचितम्) solely to console Kausalyā, rather than expressing settled defiance toward his father (केवलं कौसल्याशोकशान्त्यर्थं न तु सद्धृदयम्). In v. 3, Daśaratha is विपरीतः (“inverted in nature,” प्राप्तप्रकृतिवैपरीत्यः [_Tilaka_]; विपरीतवयोधर्मा [_Bhūṣaṇa_]) because old age (वृद्धत्वम्) and subjugation to sense-objects (विषयप्रधर्षितत्वम्) have left him infatuated (समन्मथः) and goaded on by Kaikeyī (चोद्यमानः स्त्रिया).
+
+_____________
+
+**2.21.4–5 (aparādham vs. doṣam and svamitraḥ)**
+
+Distinguishing the two terms in v. 4, _Tilaka_ glosses अपराधम् as an offense against the father (पितृविषयकम्) and दोषम् as a sin against the subjects (प्रजावधादिपातकम्), whereas Govindarāja takes अपराधम् as treason (राजद्रोहम्) and दोषम् as a grave sin (महापातकादिकम्). On स्वमित्रोऽपि निरस्तोऽपि (v. 5c), both commentators resolve स्वमित्रः as सुतराम् अमित्रः (“an utter enemy”) who, even when cast out (निरस्तः) for a crime, cannot allege a single fault in Rāma even behind his back (परोक्षमपि).
+
+_____________
+
+**2.21.6 (devakalpam and ripūṇām api vatsalam)**
+
+Govindarāja derives देवकल्पम् (“nearly equal to a god, ever-pure”) by the suffix -कल्पप्, glosses ऋजुम् as upright in thought, word, and deed (करणत्रयार्जवयुक्तम्), and joined with _Tilaka_ notes that Rāma remains affectionate even toward hostile persons like Kaikeyī (रिपूणां कैकेय्यादीनां विषयेऽपि वत्सलं स्निग्धम्).
+
+_____________
+
+**2.21.7–9 (punarbālyam and ātmasthaṃ śāsanam)**
+
+On पुनर्बाल्यमुपेयुषः (v. 7b), _Tilaka_ and Govindarāja explain “second childhood” (बालभावम्) as unreflective impulsiveness and slavery to passion (अविमृष्यकारित्वं कामपरवशत्वम्), while राजवृत्तम् denotes traditional statecraft (राजनीतिम्). In v. 8d, शासनम् means royal rule (शस्यत इति शासनं राज्यम् [_Bhūṣaṇa_]), which Rāma should bring under his own control through consecration (अभिषेकेणात्मस्थं स्वाधीनं कुरु); _Tilaka_ also records the variant शोभनम्. In v. 9, अधिकं कर्तुम् means obstructing the consecration (अभिषेकविघ्नम् [_Tilaka_]) or surpassing Rāma's valor (तव पौरुषाधिकं पौरुषं कर्तुम् [_Bhūṣaṇa_]).
+
+_____________
+
+**2.21.10–11 (pakṣyaḥ and mṛdur hi paribhūyate)**
+
+In v. 11, _Tilaka_ and _Śiromaṇi_ identify Bharata's partisan (पक्ष्यः) with his maternal uncle Yudhājit and others (मातुलादिः), while Govindarāja glosses it as his allied troop (सहायभूतो वर्गः). Since a mild man is despised (मृदुः शान्तस्वभावः परिभूयते), Lakṣmaṇa argues that gentleness is unsuited to the present crisis.
+
+_____________
+
+**2.21.12 (vadhyatāṃ badhyatām api)**
+
+If Daśaratha becomes an enemy (अमित्रभूतः शत्रुपक्षसहायभूतः), _Tilaka_ reads वध्यतां बध्यतामपि (“let him be bound or even slain”), remarking that at the twilight of the Tretā and Dvāpara ages (त्रेताद्वापरयोः संधावयमवतारः) a slight trace of _adharma_ enters Lakṣmaṇa's fiery speech, whereas _Śiromaṇi_ reads doubled बध्यतां बध्यताम् (वीप्सादिरुक्तम्, “let him be firmly bound”).
+
+_____________
+
+**2.21.13 (guror apy avaliptasya)**
+
+To justify restraining a father, Lakṣmaṇa cites a celebrated canonical maxim (स्वोक्तार्थे धर्मशास्त्रं प्रमाणयति [_Bhūṣaṇa_]): even an elder or preceptor (गुरोरपि) who becomes arrogant (अवलिप्तस्य गर्वितस्य), fails to discern right action from wrong (कार्याकार्यमजानतः), and takes to a lawless path (उत्पथम् अमर्यादाम्) must be subjected to punishment or restraint (कार्यं भवति शासनं दण्डः [_Śiromaṇi_]). Hence, adds _Tilaka_, because such restraint has scriptural sanction (शास्त्रसंमतत्वात्), no sin attaches to it.
+
+_____________
+
+**2.21.14–15 (balam vs. hetum)**
+
+In v. 14, Govindarāja and _Śiromaṇi_ distinguish बलम् as military or royal power (सैन्यादिहेतुकपराक्रमम् / राजत्वप्रयुक्तबलम्) and हेतुम् as the legal pretext of the boons (वरदानरूपहेतुम्); _Tilaka_ explains उपस्थितम् as the sovereignty that has devolved upon Rāma by right of primogeniture (ज्येष्ठत्वेन न्यायतस्तवैव प्राप्तमिदं राज्यम्).
+
+_____________
+
+**2.21.16–18 (the fourfold Kṣatriya oath and dīptam agnim)**
+
+Addressing Kausalyā (देवि), Lakṣmaṇa swears by his truthfulness (सत्येन), his bow (धनुषा, the classic Kṣatriya oath: प्रसिद्धश्च क्षत्रियाणां धनुषः शपथः [_Śiromaṇi_]), his charitable gifts (दत्तेन दानेन / वापीकूपादिनिर्माणजनितसुकृतेन), and his sacrifices (इष्टेन यागादिजनितादृष्टेन). In v. 17, whether Rāma enters a blazing fire out of wrath (दीप्तमग्निं क्रोधम् [_Tilaka_]) or the forest by his father's command, Lakṣmaṇa vows to enter there first.
+
+_____________
+
+**2.21.19–21 (sthitam bālye and yadi rocate)**
+
+In v. 19 (omitted in Govindarāja's text, as noted in the apparatus: श्लोकोऽयं गो॰ नास्ति), _Tilaka_ explains that Daśaratha is pitiful (कृपणम्) because his mind is obsessed with Kaikeyī (कैकेय्यासक्तमानसम्), and despised in old age (वृद्धभावेन गर्हितम्) for remaining in amorous folly (बाल्ये कामुकत्वे स्थितम्). In v. 21, when Kausalyā tells Rāma to do what follows next “if it pleases you” (यदि रोचते), _Tilaka_ and Govindarāja observe that out of fear of her supremely righteous son's displeasure (परमधार्मिकराममातृत्वादाग्रहं विहाय) she already senses that Lakṣmaṇa's violent proposal does not please Rāma (स्वानभिमतत्वं लक्ष्मणोक्तस्य ध्वनितम्).
+
+_____________
+
+**2.21.22–23 (śuśrūṣa mām ihasthaḥ)**
+
+Anticipating that Rāma will reject seizing the throne by force, Kausalyā urges him at least to remain at home (इहस्थः) rather than obey a co-wife's unrighteous demand (अधर्म्यं वचः). Govindarāja cites the _smṛti_ maxim गुर्वर्थेभ्यो माता गरीयसी (“the mother is weightier in reverence than other elders”) to ground her command शुश्रूष माम्.
+
+_____________
+
+**2.21.24 (the exemplar Kāśyapa)**
+
+Both _Tilaka_ and Govindarāja cite the Purāṇic narrative of Kāśyapa (कश्यपपुत्रेष्वेकः), who without leaving his own home (स्वगृहे नियतो वसन्) practiced the supreme austerity of serving his mother (मातृशुश्रूषारूपमहातपसा) and thereby attained heaven and the rank of Prajāpati (त्रिदिवं गतः मातृसेवया प्राजापत्यपदं प्राप्तः).
+
+_____________
+
+**2.21.25–27 (gauraveṇa and prāyam ihāsiṣye)**
+
+Invoking the principle that a mother surpasses a father a hundredfold in reverence (पितुर्दशगुणं माता गौरवेणातिरिच्यते [_Tilaka_]), Kausalyā withholds her permission (नानुजानामि आज्ञां न करोमि [_Bhūṣaṇa_]) and begs that if Rāma must go to the forest, he take her with him to eat even grass (त्वया सह मम श्रेयस्तृणानामपि भक्षणम्). Otherwise, she vows to undertake a fast unto death (प्रायम् अनशनदीक्षाम् [_Tilaka_, _Bhūṣaṇa_]).
+
+_____________
+
+**2.21.28 (the Ocean and Pippalāda's kṛtyā)**
+
+All three commentators explain the Purāṇic allusion in ब्रह्महत्यामिवाधर्मात् समुद्रः सरितां पतिः: in a former age, because the Ocean caused grief to his mother (मातृदुःखजननरूपाधर्मात्), or wronged the sage Pippalāda, he was assailed by a fiery female spirit (पिप्पलादब्रह्मर्षिकृतां कृत्यां प्राप्य) and suffered torment equal to the hell reserved for Brāhmaṇa-slayers (ब्रह्महत्याप्राप्यनरकविशेषान् प्राप्तवान्).
+
+_____________
+
+**2.21.29–30 (priority of the father's command)**
+
+Explaining why Rāma says he lacks the power to transgress his father's word (नास्ति शक्तिः पितुर्वाक्यं समतिक्रमितुं मम), _Tilaka_ and Govindarāja note that since executing both contradictory commands is impossible (युगपदनुष्ठानासंभवात्), the father's command prevails because it was received first (पितृवचसः प्रथमप्राप्तत्वेन प्राबल्यात्).
+
+_____________
+
+**2.21.31–33 (the three exemplars: Kaṇḍu, the Sāgaras, and Jāmadagnya)**
+
+$19
+
+_____________
+
+**2.21.34–35 (aklībam)**
+
+_Tilaka_ and Govindarāja gloss अक्लीबम् as free of faintheartedness or hesitation (कातररहितम् / अकातरम् अक्लिष्टम्).
+
+_____________
+
+**2.21.36 (reconciling the primacy of mother and father)**
+
+On पूर्वैरयमभिप्रेतो गतो मार्गः, Govindarāja resolves the apparent conflict between the maxims exalting the mother (पितुर्दशगुणं माता गौरवेणातिरिच्यते) and those exalting the father: the mother's preeminence applies to general reverence and personal service (तत्तु शुश्रूषामात्रे), whereas in executing an explicit command (वचनकरणे) the father alone is the supreme authority (पितुरेव नियन्तृत्वात्).
+
+_____________
+
+**2.21.37–39 (na kaścin nāma hīyate)**
+
+Closing his reply to Kausalyā, Rāma affirms that no one who obeys his father's word ever suffers spiritual loss (न कश्चिन्नाम हीयते धर्मेणेति शेषः [_Tilaka_, _Śiromaṇi_]). Addressing Lakṣmaṇa next (लक्ष्मणं पुनरब्रवीत्), he first praises Lakṣmaṇa's supreme affection (मयि स्नेहमनुत्तमम्), valor, and unassailable energy (तेजश्च सुदुरासदम्) to soften his rebuke.
+
+_____________
+
+**2.21.40 (satyasya ca śamasya ca)**
+
+Explaining why Kausalyā's grief is so overwhelming (मम मातुर्महद् दुःखमतुलम्) and why Lakṣmaṇa seconds her, Govindarāja and _Tilaka_ note that neither has grasped the deeper secret of truthfulness and inner restraint (सत्यस्य शमस्य अभिप्रायं रहस्यमविज्ञाय): even though Rāma understands that secret, asks Govindarāja, why does Lakṣmaṇa speak against _dharma_ (त्वं किमधर्म्यं वदसि)?
+
+_____________
+
+**2.21.41–42 (dharme satyaṃ pratiṣṭhitam and saṃśrutya)**
+
+Unfolding the secret of truth (धर्मतत्त्वमाह [_Bhūṣaṇa_]), Rāma declares that _dharma_ is the supreme end in the world (लोके पुरुषार्थेषु धर्मः परमः), that truth is rooted in and culminates in _dharma_ (धर्मे सत्यं प्रतिष्ठितं धर्मैकपर्यवसायि सत्यम्), and that having solemnly promised (संश्रुत्य प्रतिज्ञाय) to obey a father, mother, or Brāhmaṇa, one standing in _dharma_ must never make that pledge empty (वृथा मोघं न कर्तव्यम्).
+
+_____________
+
+**2.21.43–44 (refuting secular kṣatradharma and lokāyata policy)**
+
+Answering Kausalyā's objection that the command was spoken by her co-wife (v. 22), Rāma replies that Kaikeyī urged him solely on the authority of his father's word (पितुर्हि वचनात् कैकेय्याहं प्रचोदितः). On v. 44, Govindarāja offers a celebrated philosophical synthesis: Rāma bids Lakṣmaṇa abandon this ignoble resolve (अनार्यां दुष्टाम्) rooted in ruthless Kṣatriya realpolitik (रोदनाद्यसहिष्णुक्षत्रधर्माश्रिताम्, citing _Mahābhārata_: क्षत्रधर्मो महारौद्रः शस्त्राजीव इति स्मृतः). In this passage, observes Govindarāja, Vālmīki stages the refutation of the materialistic _Lokāyata_ doctrine that political expediency alone divorced from _dharma_ secures success (तत्र लक्ष्मणमुखेन लोकायतं प्रवर्तितं तन्निरासेन रामेण धर्मः स्थाप्यत इति रहस्यम्).
+
+_____________
+
+**2.21.45–46 (śāpitāsi mama prāṇaiḥ)**
+
+Joining his palms, Rāma binds Kausalyā by an oath on his own life (शापितासि शपथं प्रापितासि गमननिरोधं मा कुर्विति शेषः [_Tilaka_]) to cease obstructing his departure and perform his parting benedictions (स्वस्त्ययनानि).
+
+_____________
+
+**2.21.47–48 (the simile of Yayāti)**
+
+All three commentators explain ययातिरिव राजर्षिः: just as King Yayāti fell from heaven to earth when his merit was exhausted and ascended to heaven again (दिवं हित्वा भूमौ पतितः पुनर्दिवं यथा गतः), so Rāma will return to Ayodhyā once his vow is fulfilled (तीर्णप्रतिज्ञः समापितप्रतिज्ञः).
+
+_____________
+
+**2.21.49–50 (pitur niyoge sthātavyam and sambhārān)**
+
+Extending the obligation beyond himself (न केवलं ममैवायं भारः किंतु युष्माकमपि [_Bhūṣaṇa_]), Rāma declares that Kausalyā, himself, Sītā, Lakṣmaṇa, and Sumitrā must all abide by the king's command. On v. 50a, _Tilaka_ and _Śiromaṇi_ take सम्भारान् as the consecration materials (अभिषेकसम्भारान्, which _Śiromaṇi_'s reading संहृत्य means “putting away”), whereas Govindarāja takes सम्भृत्य सम्भारान् as gathering the auspicious materials needed for parting benedictions (पूजाद्रव्याणि).
+
+_____________
+
+**2.21.51–53 (avyagram aviklavam and svadhayāmṛtena)**
+
+Govindarāja cites _Amara_ (व्यग्रो व्याकुल आकुलः) to gloss अव्यग्रम् as unagitated (अनाकुलम्) and अविक्लवम् as resolute (अविषण्णं दृढनिश्चयप्रतिपादकम्). Reviving from her swoon (मृतेव संज्ञां प्रतिलभ्य मूर्च्छितेति यावत्), Kausalyā protests in v. 53 that without Rāma she cares nothing for relatives or the next world (लोकेनेतरबन्धुजनेन [_Tilaka_]; परलोकेन [_Bhūṣaṇa_]), obsequial offerings (स्वधया पितृपूजनेन), or immortality (अमृतेन).
+
+_____________
+
+**2.21.54 (the torch-assailed elephant)**
+
+Under _Tilaka_'s reading ध्वान्तमभिप्रविष्टः, Rāma's inner anguish blazes like an elephant in darkness tormented by men with firebrands (उल्काभिरलातैरपोह्यमानः); under Govindarāja's reading अध्वानमनुप्रविष्टः, just as an elephant that has entered the road stands firm despite torches, so Rāma stands firm on the path of _dharma_ (स्वमार्ग एव स्थितोऽभूत्).
+
+_____________
+
+**2.21.55–56 (Vālmīki's praise of Rāma's incomparable dharmaniṣṭhā)**
+
+Commenting on यथा स एवार्हति तत्र वक्तुम् (v. 55d), both _Tilaka_ and Govindarāja highlight the poet's figure of self-comparison (अनन्वयालङ्कारः): in such a supreme moral crisis (तत्र तस्मिन् धर्मसङ्कटे अतिकृच्छ्रावस्थायाम्), no other person existed who was so single-mindedly devoted to _dharma_ (एतादृशधर्मैकनिष्णातपुरुषान्तरस्याभावात् स एवार्हतीति वाल्मीकिः स्तौति). In v. 56d, _Tilaka_ notes that अभ्यर्दयसि / अभ्यर्दसि carries an implicit causative sense (अन्तर्भावितण्यर्थता, “you pain me”) and records the variant अभ्यर्थयसि.
+
+_____________
+
+**2.21.57 (the triad of puruṣārthas and the simile of the three-virtued wife)**
+
+Expanding v. 41 (धर्मो हि परमो लोके), _Tilaka_ and Govindarāja explain that when the merit of past _dharma_ ripens (धर्मफलोदयेषु), all three human aims (धर्मार्थकामाः) flow from _dharma_ alone, just as a single wife who is obedient (वश्या अनुकूलवती) fulfills religious duty (धर्मसाधनम्), being beloved (अभिमता प्रिया) fulfills desire (कामसाधनम्), and bearing noble sons (सपुत्रा / सुपुत्रा) secures wealth and the worlds hereafter (अर्थसाधनम्).
+
+_____________
+
+**2.21.58–59 (choosing dharma alone when the three diverge)**
+
+Where all three aims cannot be combined in a single act (यस्मिन् कर्मणि सर्वे धर्मादयोऽसंनिविष्टाः [_Tilaka_, _Bhūṣaṇa_]), one must undertake that from which _dharma_ arises (धर्मो यतः स्यात् तदुपक्रमेत), because one bent on wealth detached from _dharma_ (अर्थपरो धर्मविरुद्धकेवलार्थपरः) is hated, and sensuality (कामात्मता)—exemplified in Daśaratha himself (राज्ञ इव [_Tilaka_])—is condemned. Since Daśaratha unites three titles of authority—preceptor (गुरुः), king (राजा), and aged father (पिता च वृद्धः)—only a cruel man (नृशंसः) would disobey his command, whether issued from anger, joy, or desire.
+
+_____________
+
+**2.21.60–61 (why Kausalyā cannot accompany Rāma to the forest)**
+
+Refuting Kausalyā's plea to take her along (vv. 26, 52), Rāma points out that Daśaratha is her husband, refuge, and _dharma_ (देव्याश्च भर्ता स गतिश्च धर्मः): for a wife, dwelling with her husband—not with her son—is her duty (तेन सह वास एवास्या धर्मः न तु मया सह वासः [_Tilaka_]). While that righteous king lives and stands firm on his own path of truth (स्वे पथि सत्यमार्गे वर्तमाने), only a widow (विधवा स्वामिरहिता नारीव) would leave home to follow her son into the forest (विधवाया एव पुत्रेण सह वनगमनमुचितम् [_Bhūṣaṇa_]).
+
+_____________
+
+**2.21.62–63 (plural naḥ and spurning an unrighteous crown)**
+
+On कुरुष्व नः स्वस्त्ययनानि (“perform benedictions for us,” v. 62b), Govindarāja explains that since Sītā does not yet know of the exile and Lakṣmaṇa has just vowed to precede Rāma into the forest (v. 17), the plural pronoun नः stands for the dual (आवयोः, Rāma and Lakṣmaṇa). In v. 63, Rāma refuses to turn his back on glorious fame (महोदयं महाफलं यशः पृष्ठतः कर्तुं नालम्) or choose a paltry earth (अवरां तुच्छप्रयोजनभूतां महीम्) by unrighteousness for the sake of a fleeting life (अदीर्घकाले चञ्चले जीविते).
+
+_____________
+
+**2.21.64 (hṛdi pradakṣiṇam)**
+
+Having taught Lakṣmaṇa the inner philosophy of _dharma_ (दर्शनं स्वसंमतं धर्मरहस्यमनुशास्य [_Tilaka_]), Rāma circumambulates Kausalyā mentally in his heart (तां हृदि जननीं प्रदक्षिणं चकार), because, notes _Śiromaṇi_, an overt physical circumambulation at that moment would have signaled immediate separation (प्रत्यक्षप्रदक्षिणस्य वियोगज्ञापकत्वात् तन्न कृतम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

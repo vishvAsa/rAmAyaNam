@@ -85,6 +85,80 @@ follows: -
 
 Having heard the speech (_vākyam_) of Hanūmān, spoken strictly in accordance with the facts (_yathāvad abhibhāṣitam_), Rāma, filled with deep delight (_prīti-samāyuktaḥ_), spoke these words in reply (_uttaram_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.1.1–2 (Opening the Yuddhakāṇḍa and the Fourfold Impossible Deed)**
+
+$18
+
+_____________
+
+**6.1.3–5 (The Uncrossable Ocean and Unassailable Citadel)**
+
+Explaining why none else could even conceive the feat, **Śivasahāya** notes on 6.1.3 that महोदधिं तरेत admits no agent outside the triad of Garuḍa, Vāyu, and Hanūmān (गरुडादेरन्यत्र अन्यं न परिपश्यामि), while **Govindarāja** remarks that Garuḍa and Vāyu serve merely as standards of comparison—Hanūmān alone actually crossed (अयं त्वेक एवातरदित्यर्थः). Construing 6.1.4–5 together as a single syntactic unit (सार्धश्लोक एकान्वयी), the commentators gloss सत्त्वम् as one's own innate strength (स्वबलम्); having entered Rāvaṇa's fortress, none save an equal of Hanūmān could emerge alive (जीवन् सन् निष्क्रमेत्).
+
+_____________
+
+**6.1.6 (Service Beyond the Master's Mandate)**
+
+On the three-pāda verse 6.1.6, **Rāma Varmā** explains that by manifesting his own valor (विक्रमस्य सदृशं स्वबलम्) in crossing the sea and entering Laṅkā, Hanūmān accomplished Sugrīva's supreme service (सीतादर्शनलङ्कादाहरूपं कृतम्). **Govindarāja** adds a crucial distinction from the lexicon _Amarakośa_ (विक्रमस्त्वतिशक्तिता): without waiting for a separate command (स्वामिनियोगं विना), Hanūmān supplemented his assigned mission with the devastation of the Aśoka grove (अशोकवनिकाभङ्गादिरूपं पौरुषं व्यापारम्), thereby fulfilling an extraordinary servant's duty (महत् अधिकं कृतम्).
+
+_____________
+
+**6.1.7–9 (The Triad of Servants—Uttama, Madhyama, Adhama)**
+
+$1a
+
+_____________
+
+**6.1.10 (Hanūmān's Unblemished Triumph)**
+
+Applying the first definition to Hanūmān in 6.1.10, **Rāma Varmā** and **Govindarāja** distinguish नियोगे (the specific mandate of searching for Sītā, सीतान्वेषणमात्रे) from कृत्यम् (the broader accomplishments of burning Laṅkā and slaying Rākṣasa champions). By routing the enemy forces single-handedly, Hanūmān ensured that his own heroic stature suffered no humiliation (आत्मा लघुतां न नीतः राक्षसैरपराजितत्वात्), while delighting Sugrīva and his allies through deeds exceeding his instructions (उक्तकार्यातिरिक्तकार्यकरणात्).
+
+_____________
+
+**6.1.11 (Preservation of the House of Raghu)**
+
+Commenting on धर्मतः परिरक्षिताः in 6.1.11, **Rāma Varmā** notes that had Sītā's tidings not been recovered, Rāma would have perished, followed by Lakṣmaṇa, Bharata, and the entire lineage (मम नाशः मन्नाशाच्च लक्ष्मणभरतादीनां च नाश इति सर्वनाशप्रसङ्गः). **Govindarāja** adds a moral dimension: taking धर्मतः with the locative sense of _-tasi_ (सप्तम्यर्थे तसिः), Hanūmān kept Rāma established in _dharma_ by preventing the sin of self-destruction (आत्महानिरूपोऽधर्मः सर्वेषां स्यात्).
+
+_____________
+
+**6.1.12 (The Anguish of Unrequited Benefaction)**
+
+Having lauded Hanūmān, Rāma feels a sudden pang of remorse. **Rāma Varmā** (_Tilaka_) explains that the distress of being unable to offer an immediate counter-gift (तत्प्रत्युपकाराकरणजो विषादः) overshadows even the bliss of hearing Sītā's news (सीताश्रवणजमानन्दमपि तिरोधाय मां संतापयति). Both **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) gloss the archaic verb कुर्मि as करोमि and explain प्रकर्षति as violently agitating or tormenting the mind (व्याकुलयति संतापयति वा).
+
+_____________
+
+**6.1.13–14 (The Embrace as Rāma's All-in-All)**
+
+Why is a mere embrace called Rāma's entire wealth (सर्वस्वभूतः)? **Rāma Varmā** cites Śaṅkara's commentaries on the _Gītā_ and _Viṣṇusahasranāma_ (आनन्द एव हि भगवतः सर्वस्वम्) along with the _Brahmāṇḍapurāṇa_: because the Lord's body is pure Brahman-bliss (शुद्धानन्दरूपत्वात्), his embrace directly imparts supreme beatitude (परिष्वङ्गद्वारा ब्रह्मानन्दार्पणमेव हनुमते कृतम्). **Govindarāja** adds a poignant poetic reflection: when Sītā was about to end her life by binding her braid (वेण्युद्ग्रथनसमये) and Rāma himself was wasting away, Hanūmān saved two bodies (देहद्वयं दत्तवतः)—how then could giving Rāma's single body in embrace be too much (किमेकदेहदानमुचितम्)?
+
+_____________
+
+**6.1.15 (Turning to the Strategic Dilemma)**
+
+After embracing Hanūmān (प्रीतिहृष्टाङ्गः प्रीत्या पुलकितगात्रः), Rāma pauses in thought (ध्यात्वा). Both **Rāma Varmā** and **Govindarāja** explain that Rāma now ponders how the vast monkey hosts will cross the unfordable ocean (दुस्तरं सागरं सर्ववानरवाहिनीसमेतोऽहं कथं नु तरिष्यामीति संचिन्त्य). On सुग्रीवस्योपशृण्वतः, the commentators note that the genitive absolute stands for the locative absolute (सप्तम्यर्थे षष्ठी, सुग्रीवे उपशृण्वति सति).
+
+_____________
+
+**6.1.16 (Joy Eclipsed by the Ocean Barrier)**
+
+Articulating his inner conflict, Rāma contrasts the completed reconnaissance with the impending military campaign. **Govindarāja** (_Bhūṣaṇa_) glosses सर्वथा as ‘in every aspect—leaping the sea, entering the inner apartments, and returning’ (सर्वप्रकारेण समुद्रतरणान्तःपुरप्रवेशादिना), and परिमार्गणम् as the search (अन्वेषणम्). Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain सागरं समासाद्य figuratively as mentally confronting the ocean's uncrossability (दुस्तरत्वमालोच्य); Rāma's mind, though cheered by news of Sītā, falls back into dejection (सीतावृत्तान्तश्रवणेन हृष्टमपि पुनर्विषादं प्राप्तम्).
+
+_____________
+
+**6.1.17 (The Impassable Southern Waters)**
+
+Expanding upon his despondency, **Govindarāja** analyzes दुष्पारस्य from the verbal root पार तीरकर्मसमाप्तौ (‘to bring to the shore or complete’), explaining it as ‘whose far bank is hard to reach’ (दुष्प्रापतीरस्य), and glosses महाम्भसः as having unfathomable waters (अगाधजलस्य). While **Rāma Varmā** and **Śivasahāya** read समागताः (‘gathered together’, मिलिताः), Govindarāja reads समाहिताः and interprets it in the same sense of ‘assembled in force’ (संगताः).
+
+_____________
+
+**6.1.18–19 (Sītā's Shared Doubt and Rāma's Silence)**
+
+On 6.1.18, **Rāma Varmā** and **Śivasahāya** point out a subtle nuance: taking यद्यपि in the sense of simple अपि, they construe वैदेह्या गदितः as ‘this very doubt was also voiced by Vaidehī herself’ (एष संदेहः सीताया अप्यस्ति) when she asked Hanūmān in the _Sundarakāṇḍa_ how the monkeys could cross the sea. Thus किमिवोत्तरम् asks what subsequent course of action (उत्तरकालोचितं कर्म) or crossing-device (तरणोपायः) remains before Rāma sinks into anxious thought (ध्यानमुपागमत्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

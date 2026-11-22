@@ -1055,6 +1055,98 @@ when they are killed in war. [3-19-19]
 
 “I long to drink at the forefront of battle (_raṇa-mūrdhani_) the foaming blood (_saphenaṃ rudhiram_) of that crooked-natured woman (_tasyāś cānṛju-vṛttāyāḥ_) and of those two when they are slain!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.19.1–2 (Khara's Wrath & Distinguishing pramoha from sambhrama)**
+
+**Rāma Varmā** (_Tilaka_) notes that Sarga 19 expands in detail what the final verse of Sarga 18 summarized (पूर्वसर्गान्ते संक्षिप्ततया वर्णितं प्रपञ्च्यते). On 3.19.1, **Govindarāja** (_Bhūṣaṇa_) cites the _Amarakośa_ (ज्ञेया भगिनी ज्येष्ठा) to note that Śūrpaṇakhā was Khara's elder sister. On 3.19.2, both _Tilaka_ and _Bhūṣaṇa_ distinguish प्रमोहः (loss of consciousness, विसंज्ञता) from संभ्रमः (mental agitation or flurry, चित्ताप्रतिष्ठानम्).
+
+_____________
+
+**3.19.3–4 (The Similes of the Black Cobra & Deadly Poison)**
+
+In the Southern Recension verses 3–4, **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** explain that Khara superimposes the image of a fang-venomous black cobra (कृष्णसर्पमाशीविषम्) upon himself: आसीनम् shows he was sitting peacefully unprovoked (अनागसम्), अभिसमापन्नम् indicates readiness for instant retaliation (शीघ्रप्रतीकारबलम्, _Bhūṣaṇa_), and अङ्गुल्यग्रेण लीलया mocks the assailant's ignorance of his lethal power. In 3.19.4, mutilating Śūrpaṇakhā is likened to drinking _kālakūṭa_ poison (उत्तमं विषं कालकूटं, _Bhūṣaṇa_).
+
+_____________
+
+**3.19.5–6 (antakasamā gatā & Partitive Genitive)**
+
+On अन्तकसमागता (3.19.5d), _Tilaka_ and _Bhūṣaṇa_ split अन्तकसमा (equal to Yama) and गता (gone from here or come hither), while in 3.19.6 **Govindarāja** explains the genitives देवगन्धर्वभूतानाम् as partitive (निर्धारणे षष्ठी).
+
+_____________
+
+**3.19.7–8 (Khara's Boast Over Indra & the Swan Simile)**
+
+On 3.19.7, **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) supply the correlative तं (“I do not see even thousand-eyed Mahendra who could offend me”), while **Rāma Varmā** (_Tilaka_) also records the variant अन्तरेण सहस्राक्षं (“excepting Mahendra”), noting that mortals are beneath mention. In 3.19.8, all three gloss सारसः as the _haṃsa_ swan (हंसविशेषः, _Bhūṣaṇa_) famed for separating and drinking milk mixed with water (सलिले आसक्तं क्षीरमादत्ते, _Tilaka_).
+
+_____________
+
+**3.19.9–10 (saphenaṃ rudhiram & patrarathāḥ)**
+
+On सफेनं (3.19.9c), **Rāma Varmā** (_Tilaka_) explains that blood gushing from a severed throat is hot and foamy, while **Govindarāja** attributes the foam to the escaping vital breath at the moment of death (प्राणवायुनिर्गमनकालिकफेनसहितम्). In 3.19.10, all three gloss पत्ररथाः as birds (पक्षिणः) tearing flesh from the corpse (कायाद्देहात् उत्कृत्य उच्छिद्य, _Bhūṣaṇa_).
+
+_____________
+
+**3.19.11–12 (mayāpakṛṣṭam & Recovering Consciousness)**
+
+On अपकृष्टं (3.19.11c), _Śiromaṇi_ glosses marked out for destruction (हिंसितत्वेन विवक्षितं) and _Bhūṣaṇa_ glosses dragged close in battle (आहवे आकृष्टम्).
+
+_____________
+
+**3.19.13–15 (Govindarāja's Threefold Interpretation of Śūrpaṇakhā's Praise)**
+
+Why does mutilated Śūrpaṇakhā praise Rāma and Lakṣmaṇa's beauty (तरुणौ रूपसम्पन्नौ...) before angry Khara instead of simply naming her attackers? **Rāma Varmā** (_Tilaka_) remarks that because Rāma is devoid of all blemishes, she can only describe him through his virtues (श्रीरामस्य दोषाणामभावाद्गुणोक्त्यैव तं बोधयति). **Govindarāja** (_Bhūṣaṇa_) offers three brilliant explanations: (1) out of lingering infatuation (काममोहातिशयेन) she blurts out what fills her heart, just as Hanumān praised Rāma's lotus eyes before Sītā; (2) by irony (विपरीतलक्षणया) she disparages them to reassure Khara—they are mere boys (ऊनषोडशवर्षौ), vain about their looks, pampered (सुकुमारौ), and wide-eyed with fright; or (3) she extols their might (महाबलौ) to rouse Khara to fight at full strength.
+
+_____________
+
+**3.19.16 (devau vā dānavāvetau)**
+
+On 3.19.16, _Tilaka_ and _Bhūṣaṇa_ note that although Rāma told her they were Daśaratha's sons, their superhuman prowess makes her doubt whether they are actually gods in disguise (तत्प्रभावदर्शनेन तदसत्यमेवेति मन्ये, _Bhūṣaṇa_).
+
+_____________
+
+**3.19.17 (Sītā Between the Brothers)**
+
+In 3.19.17, Śūrpaṇakhā describes Sītā standing between Rāma and Lakṣmaṇa in the hermitage (तत्राश्रमे तयोर्भ्रात्रोर्मध्ये, _Śiromaṇi_).
+
+_____________
+
+**3.19.18 (tābhyām ubhābhyāṃ sambhūya & anāthāsatī)**
+
+On 3.19.18, **Rāma Varmā** (_Tilaka_) explains संभूय (“acting together”) as one brother commanding and the other executing the mutilation (एकनियोगादपरेण), while **Govindarāja** (_Bhūṣaṇa_) glosses acting with one accord (ऐकमत्यं प्राप्य), treating her like a protectorless harlot (अनाथा असती कुलटा).
+
+_____________
+
+**3.19.19–20 (Grammatical Construal of tasyāḥ... hatayoḥ)**
+
+On 3.19.19, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) supply a gender-and-number adaptation (लिङ्गवचनविपरिणामः, supplying हतायाः with तस्याः) so that both Sītā and the two brothers are slain on the battlefield (रणमूर्धनि). **Govindarāja** (_Bhūṣaṇa_) rejects this _vipariṇāma_, arguing that Sītā does not go to the battlefield (सीताया रणमूर्धनि गमनासंभवात्); instead, only the two brothers are slain रणमूर्धनि, after which Śūrpaṇakhā wishes to drink Sītā's blood as well. On 3.19.20, **Govindarāja** reads तात as an affectionate term of address to a brother.
+
+_____________
+
+**3.19.21–22 (Why Fourteen Rākṣasas & Their Former Sagehood)**
+
+On 3.19.21, **Rāma Varmā** (_Tilaka_) explains that Khara sends only fourteen _rākṣasas_ without an army out of arrogance and because Rāma is a mere mortal (प्रभुतया रामे मानुषबुद्ध्या च). Remarkably, _Tilaka_ cites Bhīṣma's discourse in the _Mahābhārata_ (_Śāntiparvan_): Khara, Dūṣaṇa, Triśiras, and these fourteen were formerly royal sages and _brahmavids_ cursed by Yājñavalkya to become _rākṣasas_ until slain by Viṣṇu as Daśaratha's son (दाशरथेर्विष्णोर्हस्तेन शापमोक्षश्चोक्तः).
+
+_____________
+
+**3.19.23 (rudhiraṃ mama pāsyati & Ominous Hyperbaton)**
+
+In 3.19.23cd (इयं च भगिनी तेषां रुधिरं मम पास्यति), the intended prose order is मम भगिनी इयं तेषां रुधिरं पास्यति (“this sister of mine shall drink their blood”). However, **Rāma Varmā** (_Tilaka_) points out the striking poetic suggestiveness of the hyperbaton: by placing मम immediately after रुधिरं (रुधिरं मम पास्यति, “she will drink my blood!”) and separating तेषां, Vālmīki makes Khara's own deluded tongue foreshadow his impending death (अत्र रुधिरं मम पास्यतीति विपर्ययेण... बुद्धिम्मोहः सूचितः कविना).
+
+_____________
+
+**3.19.24–25 (apāvartitum vs. upāvartitum)**
+
+While _Tilaka_ and _Śiromaṇi_ read उपावर्तितुम् (“to return after slaying them”), **Govindarāja** (_Bhūṣaṇa_) reads अपावर्तितुम् in the sense of “to bring back” (आनेतुं) their slain bodies so that Śūrpaṇakhā can drink their blood, or in 3.19.25 go to the battlefield (युधि) herself.
+
+_____________
+
+**3.19.26 (ghanā vāteritā iva)**
+
+In 3.19.26, the fourteen _rākṣasas_ speed toward Pañcavaṭī accompanied by Śūrpaṇakhā (तया सार्धं) like dark clouds driven by the wind (वातनुन्ना मेघा इव, _Tilaka_), **Govindarāja** noting that she goes along to point out Rāma and Lakṣmaṇa (तयोर्मार्गं प्रदर्शयन्तीति शेषः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -514,6 +514,98 @@ distance, and then he quickly ran away. [4-9-9]
 
 “Seeing my brother and me approaching from afar (_dūrād avasthitam_), that Asura, seized with terror (_jātasaṃtrāsaḥ_), fled headlong at full speed (_pradudrāva tadā bhṛśam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.9.1–3 (Vālin's Succession and Sugrīva's Filial Service)**
+
+Tilaka explains that although Vālin and Sugrīva were divinely begotten by Indra and Sūrya, they were legal sons (_kṣetraja_) of King Ṛkṣarajas (पितुः क्षेत्रजः औरसश्च भ्रातृत्वं भीमार्जुनादिवत्), just like Bhīma and Arjuna. Upon their father's death (पितर्युपरते मृते सति), the ministers enthroned Vālin as the eldest (ज्येष्ठोऽयमिति हेतोः). Govindarāja traces पितृपैतामहम् genealogically: Brahmā bestowed the realm upon his son Ṛkṣarajas, from whom it descended to Vālin (स्वपितुः ऋक्षरजसः पित्रा ब्रह्मणा तस्मै दत्तत्वात्), while Tilaka notes the epic _uttarapada-vṛddhi_ (आर्षत्वादुत्तरपदवृद्धिः). Throughout Vālin's rule, Sugrīva served him like a humble attendant (प्रेष्यवत् भृत्यवत्).
+
+_____________
+
+**4.9.4 (Who Was Māyāvin?)**
+
+How can Māyāvin be both पूर्वजः (elder brother) and दुन्दुभेः सुतः? Both Śiromaṇi and Govindarāja resolve the construction by supplying मयस्य (दुन्दुभेः पूर्वजः अग्रजः सुतः मयस्येति शेषः), citing the _Uttarakāṇḍa_ genealogy of Maya's sons (मायावी प्रथमस्तात दुन्दुभिस्तदनन्तरः): Māyāvin was the son of Maya and elder brother of Dundubhi. Between him and Vālin a bitter feud had arisen over a woman (स्त्रीकृतं स्त्रीनिमित्तम्).
+
+_____________
+
+**4.9.5–6 (The Midnight Challenge at Kiṣkindhā's Gate)**
+
+Arriving at Kiṣkindhā's gate at dead of night when the populace was asleep (सुप्तजने अर्धरात्र इत्यर्थः, Govindarāja), the enraged Māyāvin roared and challenged Vālin to combat; unable to endure that terrifying bellow (भैरवस्वनं श्रुत्वा न ममृषे), Vālin bolted forth from his slumber (जवात् निष्पपात).
+
+_____________
+
+**4.9.7–8 (Vālin's Sortie and Sugrīva's Brotherly Devotion)**
+
+Though entreated to stay (वार्यमाणः) by his queens and by the deferential Sugrīva (प्रणतात्मना मया च), the impetuous Vālin brushed them all aside (निर्धूय तिरस्कृत्य, Śiromaṇi) and rushed out to slay the demon chief. Prompted purely by fraternal love (सौहार्दात् हेतोः), Sugrīva followed close behind Vālin (वालिना सह अहमपि निःसृतः).
+
+_____________
+
+**4.9.9–10 (The Moonlit Pursuit)**
+
+Catching sight of both Vālin and Sugrīva from afar (दूरादवस्थितं भ्रातरं मां च दृष्ट्वा), Māyāvin was struck with panic (जातसंत्रासः) and bolted away (भृशं प्रदुद्राव). As the terrified demon fled (तस्मिन् द्रवति संत्रस्ते), the two brothers sped after him (द्रुततरं गतौ), while the rising moon illuminated their path (उद्गच्छता उदयं प्राप्नुवता चन्द्रेण मार्गोऽपि प्रकाशः प्रकाशितः कृतः, Śiromaṇi; Govindarāja: उद्यमानेन).
+
+_____________
+
+**4.9.11–12 (The Subterranean Chasm)**
+
+The fleeing Asura plunged at full speed into a vast, grass-shrouded cavern in the earth (तृणैरावृतं छन्नं विवरं बिलम्, Tilaka; अन्यैर्दुर्गमं धरण्या विवरम्, Śiromaṇi). Arriving at the cavern entrance (आसाद्य बिलद्वारमिति शेषः, Govindarāja), the two brothers halted (विष्ठितौ स्थितौ), and Vālin, furious (रोषवशं गतः अत एव क्षुभितेन्द्रियः) at seeing his enemy disappear underground, turned to Sugrīva.
+
+_____________
+
+**4.9.13–14 (The Oath by Vālin's Feet)**
+
+Vālin orders Sugrīva to stand guard attentively at the cavern entrance (इह बिलद्वारि समाहितः तिष्ठ) while he enters to slay the enemy. Hearing this, Sugrīva begged permission to enter alongside him (याचितः सहप्रवेशनमिति शेषः, Tilaka, Śiromaṇi, and Govindarāja), but Vālin forbade him by binding Sugrīva with an oath upon his own two feet (स्वपादाभ्यां शापयित्वा स्वपादशपथपूर्वकं सहप्रवेशनं निवार्य यावन्मदागमनं तावद्बिलद्वारि तिष्ठेति, Tilaka) and plunged into the cave alone.
+
+_____________
+
+**4.9.15–16 (A Full Year of Vigil at the Cave Mouth)**
+
+After Vālin entered the chasm, a whole year and more (साग्रः संवत्सरः किंचिदधिकः संवत्सरः, Tilaka; समग्रः संवत्सरः, Śiromaṇi; साग्रः संपूर्णः, Govindarāja) went by while Sugrīva faithfully kept his post at the entrance. Seeing no sign of his brother for an entire year (साग्रसंवत्सरमदृष्टं बुद्ध्वा, Govindarāja), Sugrīva was overcome with trepidation out of fraternal affection (स्नेहादागतसंभ्रमः), and his heart dreaded Vālin's death (पापशङ्कि मरणशङ्कि मे मनो जातम्, Tilaka and Govindarāja).
+
+_____________
+
+**4.9.17 (The Stream of Foamy Blood)**
+
+After that long interval (दीर्घस्य कालस्य अपगमे सति, Śiromaṇi), Sugrīva saw foamy crimson blood (सफेनं रुधिरम्) issuing out of the cavern mouth and was plunged into deep sorrow (भृशदुःखितः).
+
+_____________
+
+**4.9.18–19 (Why Sugrīva Sealed the Cavern)**
+
+The triumphant roaring of the demons reached Sugrīva's ears, whereas no battle cry came from his elder brother (गुरोः वालिनः स्वनः न श्रोत्रमागतः, Tilaka and Śiromaṇi). Concluding from these converging tokens—the gush of blood, the demons' roars, and Vālin's silence (द्वारि रुधिरनिःसरणासुरीयसङ्ग्रामक्रोशनादिभिः, Tilaka; मरणकालिकस्वरूपैः, Govindarāja)—that Vālin had fallen, Sugrīva sealed the cave entrance with a mountain-like crag (शिलया गिरिमात्रया) solely to prevent the Rākṣasas from coming out (राक्षसनिर्गमशङ्कया, Tilaka; राक्षसकर्तृकबहिर्निगमनाभावाय, Śiromaṇi).
+
+_____________
+
+**4.9.20–21 (Funeral Rites and Unwilling Coronation)**
+
+Performing the funeral water oblation (उदकं कृत्वा) in anguish, Sugrīva returned to Kiṣkindhā. Though he tried hard to hide the news of Vālin's presumed death (तत्त्वं यथार्थं वालिमरणं गूहमानस्य प्रच्छादयतः, Govindarāja) lest enemies attack the kingless city (शत्र्वाक्रमणादिशङ्कया, Śiromaṇi), the ministers discovered the truth through his involuntary lamentations (स्वविषयप्रलापादिना, Govindarāja) and assembled to consecrate him king (समेतैर्मिलितैः... अभिषेचितः, Tilaka).
+
+_____________
+
+**4.9.22 (Vālin's Wrathful Return)**
+
+While Sugrīva was righteously administering Vālin's realm (तस्य राज्यमिति बुद्ध्यैव न्यायतः प्रशासतो मम, Tilaka), Vālin returned victorious after slaying the Dānava and, seeing Sugrīva crowned, glared with eyes reddened by fury (क्रोधात् संरक्तलोचनः).
+
+_____________
+
+**4.9.23–24a (Forbearance Out of Reverence for an Elder Brother)**
+
+Vālin arrested the ministers who had consecrated Sugrīva (मदीयान् मदभिषेककर्तॄन्, Tilaka) and berated him harshly. Why did Sugrīva not resist when he declares himself capable of checking Vālin (निग्रहे समर्थस्यापि)? Govindarāja explains that as the consecrated king backed by the state and army (प्रकृतिबलसंपन्नत्वादिति भावः), Sugrīva possessed the power to restrain Vālin (तत्कर्तृकवाक्यादिनिरोधे, Śiromaṇi), whom he calls पापम् for spurning even humble conciliation (सान्त्वनेऽपि धिक्कारणात् पापिष्ठम्, Govindarāja); yet Sugrīva's mind shrank from force because it was bound by respect for his elder brother (भ्रातृगौरवेण यन्त्रिता संकुचिता, Tilaka).
+
+_____________
+
+**4.9.24b–25 (Retrospective Account of Sugrīva's Salutation)**
+
+Tilaka notes that 4.9.24b–25 recount the actions that took place upon Vālin's entry prior to his harsh tirade (उक्तापवादपूर्वमवशिष्टव्यापारकथनम्), while Govindarāja clarifies the sequence: when Vālin first entered the city after slaying the demon, Sugrīva honored him and offered due salutation (यथावच्चाभिवादयम्) before the ministers were bound. Even then, Vālin withheld the customary benedictions (तेन वालिना च प्रहृष्टेन अन्तरात्मना मनसा आशिषो न उक्ताः, Śiromaṇi).
+
+_____________
+
+**4.9.26 (Touching Vālin's Feet with the Royal Crown)**
+
+Stooping low, Sugrīva laid his royal diadem upon Vālin's feet (पादावहं तस्य मुकुटेनास्पृशम्), yet in his implacable wrath Vālin refused to relent (अपि वाली मम क्रोधान्न प्रसादं चकार सः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -1492,6 +1492,116 @@ thirteen iron arrows that are sharply whetted and similar to the dazzle of sun. 
 
 Thereafter (_tataḥ paścāt_), the wrathful hero of mighty splendour (_mahā-tejāḥ_) smote (_jaghāna_) the _rākṣasa_ with thirteen (_trayodaśa_) sun-bright (_bhāskaropamān_) iron shafts whetted on stone (_nārācān śilā-śitān_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.28.1–3 (Khara's Dismay & hatabhūyiṣṭham)**
+
+Opening Sarga 28 with a benedictory stanza venerating Rāma as the destroyer of egoism and its kin (महामोहसहायस्य दर्पस्याहंमनिपदम् । बलं खरोपकरणं हन्तारं राममाश्रये), **Govindarāja** (_Bhūṣaṇa_) explains हतभूयिष्ठम् (`3a`) as an army whose foremost fourteen thousand warriors had been slain while only a feeble remnant survived (हतप्रवरराक्षसम् ... अवशिष्टं सैन्यं बलहीनमित्यर्थः). **Śivasahāya** (_Śiromaṇi_) notes that verses 2–3 form a single sentence (श्लोकद्वयमेकान्वयि).
+
+_____________
+
+**3.28.4–5 (nārācān & Chariot Maneuvers)**
+
+On नाराचान् रक्तभोजनान् (`4b`), **Govindarāja** (_Bhūṣaṇa_) cites the _Amarakośa_ (प्रक्ष्वेडनास्तु नाराचाः) and explains that iron shafts are called “blood-feasting” because they become smeared with gore (रक्तदूषितत्वेन रक्तभोजनत्वव्यपदेशः). On शिक्षया (`5b`), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** explain that Khara displayed the martial skill acquired from his preceptor (गुरुगृहीतधनुर्विद्याभ्यासेन).
+
+_____________
+
+**3.28.6 (Construing pūrayām āsa)**
+
+On पूरयामास तं दृष्ट्वा रामोऽपि सुमहद् धनुः (`6c–d`), **Śivasahāya** (_Śiromaṇi_) construes Khara as the subject of पूरयामास and supplies नमयामास (“bent”) for Rāma's bow (सुमहद्धनुः नमयामासेति शेषः), whereas **Govindarāja** (_Bhūṣaṇa_) construes Rāma as also filling all directions with arrows (रामोऽपि तं दृष्ट्वा बाणैरुपलक्षितः सर्वा दिशः प्रदिशश्च पूरयामास).
+
+_____________
+
+**3.28.7–8 (avivaram & paryākāśam anākāśam)**
+
+On नभश्चकाराविवरम् (`7c`), all three commentators explain that Rāma packed the sky so densely with spark-like shafts that no gap remained (अविवरं नीरन्ध्रं चकार). On the paradox पर्याकाशमनाकाशम् (`8c`), they explain that the surrounding sky (परितो विद्यमानमाकाशम्, _Tilaka_) became devoid of space (अनवकाशं बभूव, _Bhūṣaṇa_) beneath the volleys of Khara and Rāma.
+
+_____________
+
+**3.28.9–11 (saṃrambhāt & totraiḥ)**
+
+On संरम्भात् (`9c`), **Govindarāja** (_Bhūṣaṇa_) cites the _Amarakośa_ (संरम्भः संभ्रमे कोपे) to gloss wrathful fury (कोपात्), and glosses तोत्रैः (`10d`) as elephant-goads (गजशिक्षणायुधैः). Standing bow in hand in his chariot, Khara appeared to onlookers like Yama holding his noose (पाशहस्तमन्तकमिव, `11d`).
+
+_____________
+
+**3.28.12 (Khara's Delusion Regarding Rāma's Fatigue)**
+
+Commenting on verse 12, **Rāma Varmā** (_Tilaka_) notes that Khara's mistaken belief that Rāma was exhausted (परिश्रान्तं मेने) led Khara to think the moment opportune for a decisive strike, explaining why he immediately charges and severs Rāma's bow (अनेनायं प्रहारावसर इति खरबोधः सूचितः). **Śivasahāya** (_Śiromaṇi_) adds that deeming the Supreme Person fatigued betrays Khara's delusion (एतेन खरस्याज्ञानं सूचितम्).
+
+_____________
+
+**3.28.13–14 (Two Senses of vikrānta & Moth Simile)**
+
+In `13a–b`, **Śivasahāya** (_Śiromaṇi_) distinguishes the two occurrences of विक्रान्त, glossing the first as “valiant” (सिंहविक्रमविशिष्टम्) and the second as “gait, stride” (सिंहगमनवद्गच्छतीति). On पतङ्ग इव पावकम् (`14d`), **Govindarāja** (_Bhūṣaṇa_) observes that comparing Khara to a moth rushing into fire portends his imminent ruin (अचिरात् नशिष्यतीति सूच्यते).
+
+_____________
+
+**3.28.15 (Severing of Rāma's Terrestrial Bow)**
+
+Explaining how Khara could sever Rāma's bow at the grip (मुष्टिदेशे, `15b`), **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) note that Rāma was using an ordinary terrestrial bow (तद्धनुः अदिव्यं स्वयं सज्जितम्, _Śiromaṇi_) and was momentarily preoccupied in thought (किंचिच्चिन्तनेनानवधानात्), while महात्मनः implies that Rāma parried the shaft before it touched his hand (बाणस्पर्शपरिहरणसामर्थ्यं व्यज्यते).
+
+_____________
+
+**3.28.16–18 (marmaṇi/varmaṇi & Rāma's Solar Radiance)**
+
+On मर्मणि (`16b`), **Rāma Varmā** (_Tilaka_) glosses “at the joints of the armor” (कवचबन्धसंधिषु), while **Govindarāja** and **Śivasahāya** read वर्मणि (“upon the armor”). Reading genitive आदित्यवर्चसः (`18d`), **Govindarāja** remarks that once Rāma's armor fell away, his native solar radiance blazed forth (कवचपतनानन्तरं प्रकाशमानतेजोविशेष उच्यते).
+
+_____________
+
+**3.28.19 (vidhūmo 'gnir iva)**
+
+On विधूमोऽग्निरिव ज्वलन् (`19d`), **Govindarāja** (_Bhūṣaṇa_) observes that the epithet “smokeless” (विधूमः) highlights the sheer intensity of the blaze (ज्वालाधिक्यमुच्यते), signifying Rāma's undiminished martial lustre after shedding his shattered armor.
+
+_____________
+
+**3.28.20–21 (The Vaiṣṇava Bow Bestowed by Agastya)**
+
+On वैष्णवं यत् तदतिसृष्टं महर्षिणा (`21a–b`), all three commentators identify this second bow as the supreme bow of Viṣṇu previously presented to Rāma by the sage Agastya (`3.12.32`). **Govindarāja** notes that the paired pronouns यत्तत् convey its peerless renown (प्रसिद्ध्यतिशयवाची), while **Śivasahāya** (_Śiromaṇi_) remarks that Agastya had gifted this bow with the implicit prayer that Rāma use it to slay Khara, who had wronged the sages of the region (मद्दत्तचापेनैव खरो हन्तव्य इत्यगस्त्यप्रार्थना सूचिता).
+
+_____________
+
+**3.28.22–23 (Poetic Fancy in the Falling Sun Simile)**
+
+On सूर्यो देवतानामिवाज्ञया (`23c–d`), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) classify the comparison of Khara's falling golden standard to the sun descending to earth at the command of the gods as a poetic fancy (उत्प्रेक्षेयम्, _Bhūṣaṇa_; कविप्रौढोक्तिः, _Tilaka_), while **Śivasahāya** (_Śiromaṇi_) terms it a hypothetical simile (अभूतोपमात्वम्) since the sun never actually falls.
+
+_____________
+
+**3.28.24–25 (Distributive Sense of caturbhiḥ)**
+
+To reconcile चतुर्भिः (`24a`, “with four arrows”) with बहुभिर्बाणैः (`25a`, “with many arrows”), **Govindarāja** (_Bhūṣaṇa_) explains that चतुर्भिः is used distributively (वीप्सा बोध्या), meaning four arrows in each limb and in the chest. On तोमरैः (`24d`), **Govindarāja** glosses “with iron lances used for goading elephants” (गजविषादण्डैः).
+
+_____________
+
+**3.28.26–27 (Distribution of the Six Arrows)**
+
+On अभिलक्षितान् (`26d`), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss “aimed at specific targets” (लक्ष्योद्देश्यत्वेन शोधितान्), which verse 27 then enumerates: one arrow to the head, two to the two arms—one into each arm (एकैकस्य बाहोरेकैकेनेत्यर्थः, _Bhūṣaṇa_)—and three crescent-headed shafts (अर्धचन्द्राकारमुखैः) into the chest.
+
+_____________
+
+**3.28.28 (The Thirteen Iron Shafts)**
+
+On `28c–d`, **Śivasahāya** (_Śiromaṇi_) construes जघान directly with the thirteen stone-whetted iron shafts (त्रयोदश नाराचान् राक्षसं जघान), whereas **Rāma Varmā** (_Tilaka_) supplies गृहीत्वा after भास्करोपमान्, and **Govindarāja** (_Bhūṣaṇa_) reads जिघांसू राक्षसं क्रुद्धस्त्रयोदश समाददे (“desiring to slay the demon, he took up thirteen shafts”), noting that verses 29–31 detail the targets of all thirteen arrows.
+
+_____________
+
+**3.28.29–31 (Tally of the Thirteen Shafts & triveṇu)**
+
+Detailing Rāma's thirteen iron shafts (`28d`), the commentators tally: one arrow for the yoke (युगम्), four for the four dappled horses (शबलान् चित्रान् हयान्, _Śiromaṇi_), the sixth for the charioteer's head, three for the _triveṇu_—the pole-support beam resting on the chariot shaft (रथकूबरस्थो युगाधारदण्डः, _Tilaka_, _Bhūṣaṇa_)—two for the axle (अक्षं चक्राधारम्), the twelfth for Khara's bow, and the thirteenth to pierce Khara himself.
+
+_____________
+
+**3.28.31b–32 (prahasann iva & Kataka's Gloss)**
+
+On प्रहसन्निव (`31b`), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss “effortlessly, as if in sport” (लीलयेव), and **Rāma Varmā** cites **Kataka** supplying हृदि (“in the chest”) for where the thirteenth shaft pierced Khara (बिभेद खरं हृदीति शेषमाह कतकः).
+
+_____________
+
+**3.28.33 (Distinguishing sametya and sametāḥ)**
+
+On the pairing of समेत्य and समेताः in the closing _Upajāti_ stanza, **Govindarāja** (_Bhūṣaṇa_) distinguishes समेत्य as “having gathered in groups” (समूहीभूय) and समेताः as “having arrived there” (आगताः), while **Śivasahāya** (_Śiromaṇi_) construes समेताः with the sages (समूहवन्तो महर्षयश्च) praising Rāma's shattering of Khara's chariot (खरभङ्गकर्म).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

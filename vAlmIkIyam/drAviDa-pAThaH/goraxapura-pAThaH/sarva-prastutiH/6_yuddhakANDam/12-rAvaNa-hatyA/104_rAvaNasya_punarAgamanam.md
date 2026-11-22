@@ -83,6 +83,14 @@ infatuation, that Ravana spoke to his charioteer as follows:
 
 Beholding the face of that wise Rāma filled with wrath (_tasya kruddhasya vadanam_), all creatures trembled (_vitresuḥ_) and the earth shook.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–2.**
+
+**Govindarāja** (_Bhūṣaṇa_) introduces this sarga as the episode in which Rāvaṇa brandishes his great spike (अथ रावणस्य शूलोद्धरणम्). **Śivasahāya** (_Śiromaṇi_) describes the cosmic tremor triggered by Rāma's wrathful visage: all beings shudder, the earth quakes (सर्वभूतानि वित्रेसुः मेदिनी मही प्राकम्पत च), the mountain sways with its trembling trees, and the ocean heaves (शैलः चञ्चलाः द्रुमा यस्मिन् तादृशस्सन् चचाल समुद्रः क्षुभितश्च बभूव). **Rāma Varmā** (_Tilaka_) parses चलद्द्रुमः as a _bahuvrīhi_ compound (चलद्द्रुम इति बहुव्रीहिः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -143,6 +151,14 @@ conjuring tricks and abandoned by mystic missiles, you are acting as per your di
 **2:** The mountain with its lions and tigers shook along with its swaying trees (_caladdrumaḥ_), and the ocean, lord of rivers (_saritāṃ patiḥ_), was convulsed.
 
 **3:** Harsh-voiced, donkey-shaped clouds (_kharāś ca kharanirghoṣāḥ_), rough and ominous (_autpātikāḥ_), roamed about on all sides in the sky, thundering.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3–4.**
+
+**Śivasahāya** explains खराः as donkey-shaped, harsh-thundering portentous clouds (औत्पातिकाः उत्पातसूचकाः खरनिर्घोषाः खराः गर्दभाकृतयः परुषाः रूक्षाः घनाश्च), whereas **Govindarāja**, reading खगाश्च, takes it as ominous birds wheeling with harsh cries. At the sight of Rāma's fury and these dire omens, dread seizes Rāvaṇa himself (रावणस्य भयमभवच्च).
 </details>
 </details>
 
@@ -250,6 +266,14 @@ prowess, vital power and the trust of people today."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Stationed in their aerial cars (_vimānasthāḥ_), the gods, gandharvas, and great serpents, together with sages, dānavas, daityas, and sky-faring garuḍas,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5–6.**
+
+**Rāma Varmā**, **Govindarāja**, and **Śivasahāya** gloss लोकसंवर्तसंस्थितम् as a battle whose form mirrors the universal dissolution at the end of an eon (लोकसंवर्तस्य प्रलयस्येव संस्थितं संस्थानं यस्य तत्तथोक्तम्).
 </details>
 </details>
 
@@ -369,6 +393,14 @@ any event, this expectation of mine that you stand corrupted by the enemy, will 
 
 Having come to witness the conflict (_vigraham āgatāḥ_), all the gods and asuras, watching that great battle, spoke words with devotion as though thrilled with joy (_prahṛṣṭavat_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7–8.**
+
+**Govindarāja** (_Bhūṣaṇa_) offers two interpretations of विग्रहमागताः: either `having come to behold the battle' (विग्रहं युद्धम् उद्दिश्य आगताः) or, in agreement with **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_), `having fallen into partisan dispute out of allegiance to Rāma or Rāvaṇa' (रामरावणपक्षपातात् परस्परं कलहायमाना इत्यर्थः). Govindarāja perceptively notes that although Rāvaṇa oppressed the asuras too, they cheer him out of envy lest the gods triumph (देवानामभ्युदयो मा भूदित्यसूयया रावणं वर्धयन्तीति बोध्यम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -478,6 +510,14 @@ drive back the chariot swiftly till my enemy does not withdraw."
 
 In the meantime, out of wrath toward Rāghava, the wicked-minded Rāvaṇa, wishing to strike (_prahartukāmaḥ_), touched a mighty weapon—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**9–12.**
+
+**Govindarāja** and **Śivasahāya** construe verses 9–12 as a single four-verse syntactic period (एतस्मिन्नन्तर इत्यादिश्लोकचतुष्टयमेकान्वयम्) culminating in शूलं जग्राह रावणः. Govindarāja explains स्पृशन् (`touching') as Rāvaṇa momentarily deliberating which weapon to wield (किमस्त्रमिदानीं ग्रहीतुमुचितमिति क्षणं चिन्तयन्नित्यर्थः), and glosses कूटैः with Rāma Varmā as the spike's three peak-like iron prongs (शिखराकारैस्त्रिभिः शृङ्गैः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,6 +616,14 @@ I a blunderer. I was not disloyal to you. I have not forgotten the benefits conf
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 sharp-tipped and as if wreathed in smoke, matching a mass of doomsday fire (_yugāntāgnicayopamam_), exceedingly fierce, unapproachable, and hard even for Death to withstand (_kālenāpi durāsadam_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11–12.**
+
+**Govindarāja** distinguishes दारणम् as sawing apart (क्रकचवत्कर्तनम्) and भेदनम् as splitting in two (द्विधाकरणम्), while **Rāma Varmā** glosses अग्निचयः as a mass of fire (अग्निसमूहः).
 </details>
 </details>
 
@@ -688,6 +736,14 @@ me, devoted as I am to your pleasure and good, quilty in this matter."
 
 Supremely enraged in battle, that valorous [Rāvaṇa], surrounded in combat by heroic rākṣasa hosts (_anīkaiḥ_), grasped that spike.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13–14.**
+
+**Rāma Varmā** (_Tilaka_) glosses अनीकैः as multitudes of military divisions (अनीकैरनेकानीकसमूहैः), while **Śivasahāya** (_Śiromaṇi_) links verses 13 and 14 into a four-hemistich unit (अर्धचतुष्टयमेकान्वयि): encircled by rākṣasa troops, Rāvaṇa hoists the spike he has seized and lets out a blood-curdling roar to hearten his own ranks (तत् शूलं समुद्यम्य स्वसैन्यमभिहर्षयन्सन् भैरवं ननाद).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -795,6 +851,14 @@ am not reflecting on the inclination of your valour or on your superiority over 
 
 That dreadful roar of the lord of rākṣasas then caused the earth, the mid-space, the cardinal directions, and the intermediate quarters to tremble (_prākampayat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15–16.**
+
+**Śivasahāya** notes the universal reverberation of the demon king's war-cry, which shakes earth, sky, and quarters alike (राक्षसेन्द्रस्य शब्दः पृथिव्यादि प्राकम्पयत्) and sends all creatures into terror while agitating the sea (दुरात्मनो रावणस्य नादेन सर्वभूतानि वित्रेसुः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -892,6 +956,14 @@ numbers and duly examined by me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having grasped that mighty spike, Rāvaṇa of great valor uttered a tremendous roar (_vinadya sumahānādam_) and spoke harsh words to Rāma:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17–18.**
+
+Addressing the apparent repetition of Rāvaṇa's roaring in verses 14 and 17, **Govindarāja** (_Bhūṣaṇa_) draws a fine distinction: the earlier roar expressed the surge of martial ardor upon lifting the weapon, whereas this second roar voices his elation as he prepares to hurl it (पूर्वं शूलोद्यमनजनितोत्साहकृतो नाद उक्तः । इह प्रक्षेपजनितोत्साहकृतो नाद इति विवेकः). **Śivasahāya** paraphrases Rāvaṇa's taunt that the diamond-cored pike will strip Rāma and his brother of life (भ्रातृसहायस्य तव प्राणान् सम्यक् हरिष्यति).
 </details>
 </details>
 
@@ -1006,6 +1078,14 @@ known (by a charioteer)."
 
 “O boaster in battle (_raṇaślāghin_), slaying you today by force, I shall make you equal (_karomi tarasā samam_) to the heroic rākṣasas slain at the forefront of the army!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19–20.**
+
+**Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) explain Rāvaṇa's grim boast: by slaying Rāma, he will reduce him to the same state of death as the heroic rākṣasas fallen at the vanguard (त्वां निहत्य रक्षसां समं करोमि । रक्षोभिः समं करिष्यामीत्यर्थः). Govindarāja cites the grammatical rule licensing the genitive रक्षसाम् with समम् (तुल्यार्थैरित्यादिना षष्ठी), and Śivasahāya notes the present tense करोमि used with immediate future force (करोमि करिष्यामि).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1100,6 +1180,14 @@ horses of the chariot as also to relieve your terrible fatigue."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Released from Rāvaṇa&#x27;s hand, wreathed in garlands of lightning (_vidyunmālāsamāvṛtam_), fitted with eight bells (_aṣṭaghaṇṭam_) and roaring loudly, it shone brightly as it coursed through the sky.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21–22.**
+
+**Śivasahāya** pictures the spike hurtling from Rāvaṇa's hand, wreathed in lightning-flashes and ringing with eight bells across the sky (रावणकरान्मुक्तं विद्युन्मालाभिस्समाकुलं वियद्गतं तच्छूलमशोभत), while Rāma bends his bow to meet the blazing projectile with a volley of shafts (राघवः ज्वलन्तं तच्छूलं दृष्ट्वा चापमायम्य विशिखान् ससर्ज).
 </details>
 </details>
 
@@ -1207,6 +1295,14 @@ enjoin me to do, with due attention and with a mind which feels relieved of all 
 
 With a flood of arrows Rāghava checked (_vārayāmāsa_) it as it hurtled onward, just as Vāsava [Indra] checks the surging doomsday fire with floods of water (_jalaughair iva vāsavaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.**
+
+**Rāma Varmā** remarks that वारयामास (`checked') means that Rāma initially blunted the weapon's oncoming momentum (वारयामास । प्रथमं वेगभङ्गं कृतवानित्यर्थः), which **Śivasahāya** compares to Indra drenching the apocalyptic fire with torrents of rain (उत्पतन्तं युगान्ताग्निं जलौघैर्वासव इव आपतन्तं शूलं राघवो वारयामास).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1270,6 +1366,14 @@ ways, Ravana who was avaricious of fighting, spoke the following words:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That great spike of Rāvaṇa burned up (_nirdadāha_) those arrows issuing from Rāma&#x27;s bow, just as a blazing fire consumes moths (_pataṅgān iva pāvakaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24–25.**
+
+**Śivasahāya** (_Śiromaṇi_) describes the supernatural potency of Rāvaṇa's spike: it incinerates the shafts sped from Rāma's bow like moths in a flame (महान् रावणस्य शूलः रामकार्मुकनिस्सृतान् बाणान् निर्ददाह). Beholding his mid-air arrows ground to powder and reduced to ash at the mere touch of the spike, Rāma is roused to fierce indignation (शूलसंस्पर्शचूर्णितान् भस्मसाद्भूतान् अन्तरिक्षस्थितान् सायकान् राघवो दृष्ट्वा क्रोधमाहरत्).
 </details>
 </details>
 
@@ -1381,6 +1485,14 @@ drove the chariot back to the battle-field.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Supremely enraged, Rāghava, joy of the Raghus, grasped that spear (_śaktim_) brought by Mātali and cherished by Vāsava [Indra] (_vāsavasammatām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26–27.**
+
+Turning from ordinary shafts to celestial arms, Rāma seizes the spear brought by Mātali, which **Śivasahāya** glosses as prized by Indra himself (वासवस्य सम्मतामभिमतामित्यर्थः मातलिना नीतां शक्तिं रघुनन्दनो जग्राह). Poised and lifted (तोलिता उत्थापितेत्यर्थः) by the mighty prince, the bell-ringing javelin blazes across the firmament like an apocalyptic meteor (सप्रभा शक्तिः युगान्तोल्केव नभः प्रज्वालयामास).
 </details>
 </details>
 

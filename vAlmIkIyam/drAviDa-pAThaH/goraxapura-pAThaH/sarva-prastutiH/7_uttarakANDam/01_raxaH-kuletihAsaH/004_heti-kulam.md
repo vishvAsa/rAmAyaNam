@@ -143,6 +143,116 @@ Then, shaking his head (_śiraḥ kampayitvā_) and gazing repeatedly (_muhur d�
 
 “We had heard (_naḥ śrutam_) that the rākṣasas sprang from the lineage of Pulastya (_pulastya-vaṃśād udbhūtāḥ_); yet now an origin from another source as well (_anyataś cāpi sambhavaḥ_) has been proclaimed by you!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.4.1–2 (Rāma’s Wonder at Pre-Paulastya Rākṣasas)**
+
+Opening Sarga 4, **Rāma Varmā** (_Tilaka_) frames the chapter as Agastya’s exposition prompted by Rāma’s astonishment upon learning of rākṣasas residing in Laṅkā before Kubera (पुरा धनदावस्थितेः पूर्वमपि रक्षसां सम्भवोऽवस्थानादिसम्भव इति यदुक्तं तत्कथमासीदिति विस्मयमागतः). **Govindarāja** (_Bhūṣaṇa_) echoes this exact gloss on सम्भवः (धनदाधिष्ठानात् पूर्वमपि रक्षसां सम्भवोऽवस्थानादिसम्भवः), while **Śivasahāya** (_Śiromaṇi_) pinpoints the source of surprise: rākṣasa origin was famed exclusively from Viśravas (राक्षससम्भवस्य विश्रवस एव प्रसिद्धत्वात्). All three concur on 7.4.2 that स्मयमानः signifies awe rather than smiling (विस्मयं कुर्वन्, _Tilaka_; विस्मयं प्राप्नुवन्, _Śiromaṇi_).
+
+_____________
+
+**7.4.3–4 (A Second Lineage of Rākṣasas)**
+
+Explaining पूर्वमपि in 7.4.3, **Rāma Varmā** specifies ‘even prior to Viśravas’s sons Vaiśravaṇa and Rāvaṇa’ (विश्रवःपुत्रवैश्रवणरावणयोः पूर्वमपि), and Govindarāja similarly glosses it as preceding Rāvaṇa and Kubera (रावणकुबेरयोः पूर्वमपि). On 7.4.4, Rāma Varmā notes that Agastya implied an independent rākṣasa origin by quoting Viśravas’s statement that Laṅkā had been built for rākṣasa habitation (लङ्का राक्षसानां निवासार्थं निर्मितेति विश्रवोवाक्यानुवादेनेत्यर्थः). **Govindarāja** explains नः as a respectful royal plural (अस्माभिः पूजार्थं बहुवचनम्) and supplies कर्णाकर्णिकया (‘by oral tradition’), while **Śivasahāya** remarks that Rāma thereby invites Agastya to narrate the earlier rākṣasas’ genesis (एतेन पूर्वराक्षसोत्पत्तिं वर्णयेति सूचितम्).
+
+_____________
+
+**7.4.5–6 (Strength Greater Than Rāvaṇa’s and Viṣṇu’s Intervention)**
+
+On 7.4.5, **Rāma Varmā** identifies रावणस्य पुत्रेभ्यः as Indrajit, Atikāya, and his other warrior sons (रावणपुत्रा इन्द्रजिदतिकायादयस्तेभ्यस्ते बलवत्तराः किं नु), uncovering the perceptive logic behind Rāma’s question: those ancient rākṣasas must have been formidable indeed if Viṣṇu himself had to intervene to expel them (यतो विष्णुना तन्निद्रावणे यतितमिति भावः). On 7.4.6, Rāma Varmā glosses पूर्वकः as their ancestral founder (कूटस्थः), and **Śivasahāya** glosses it as their first progenitor (तेषां पूर्वराक्षसां पूर्वकः प्रथमः कः), whose offense provoked Viṣṇu to drive them out.
+
+_____________
+
+**7.4.7–8 (Agastya’s Wonder at the Omniscient Inquirer)**
+
+All three commentators gloss संस्कारालङ्कृतम् in 7.4.8 as speech graced by grammatical and semantic refinement (पदवाक्यार्थसंस्कारयुक्तम्, _Tilaka_; पदवाक्यार्थजसंस्कारेति यावत्, _Bhūṣaṇa_). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) uncover the theological irony behind Agastya’s gentle marveling (ईषद्विस्मयमानः): recognizing Rāma as the all-knowing Lord Viṣṇu himself—the very deity who had driven out those rākṣasas—Agastya marvels that the omniscient one plays the human role of an inquisitive listener (सर्वज्ञोऽप्येवं नाटयतीति विस्मयः, _Tilaka_; सर्वज्ञोऽप्यजानन्निव पृच्छतीति विस्मितम्, _Bhūṣaṇa_).
+
+_____________
+
+**7.4.9–11 (Cosmogony of the Primeval Waters and Their Guardians)**
+
+$19
+
+_____________
+
+**7.4.12 (Two Rival Etymologies—Yakṣāma vs. Jakṣāma)**
+
+$1b
+
+_____________
+
+**7.4.13 (Naming the Rākṣasas and Yakṣas)**
+
+All three commentators construe वः as a partitive genitive (‘among you’, वो युष्माकं मध्ये). Consistent with 7.4.12, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) derive यक्षाः straightforwardly from यक्षाम (‘we shall worship’). **Govindarāja** (_Bhūṣaṇa_), steadfastly defending the reading जक्षाम (‘we shall eat’), directly addresses the resulting phonological shift from _j-_ to _y-_ by declaring it an archaic poetic transposition of sounds (यैर्जक्षामेत्युक्तं ते यक्षा भवन्तु वर्णव्यत्यय आर्षः). Thus Vālmīki’s folk-etymology grounds the cosmic division of Rākṣasas and Yakṣas in their primordial response to Brahmā’s charge.
+
+_____________
+
+**7.4.14–15 (Heti and Praheti—Asceticism vs. Progeny)**
+
+On 7.4.14, **Rāma Varmā** explains तत्र as ‘among the rākṣasas differentiated into classes by the Creator’ (भगवत्सृष्टभगवद्विभक्तजातिभेदरक्षोमध्ये) and identifies Madhu and Kaiṭabha as the primordial demons (मधुकैटभावसुरौ)—an ominous simile foreshadowing Viṣṇu’s later clash with their descendants. On 7.4.15, both Rāma Varmā and **Govindarāja** supply ‘having grown detached from worldly life’ (विरक्तः सन्निति शेषः / विरक्तो भूत्वेति शेषः) to explain Praheti’s retirement to the penance grove, while **Śivasahāya** contrasts Praheti’s renunciation with Heti’s active pursuit of marriage (दारक्रियां उद्वाहम्) to perpetuate the rākṣasa line.
+
+_____________
+
+**7.4.16–18 (Heti’s Marriage to Bhayā and Birth of Vidyutkeśa)**
+
+On 7.4.16, **Rāma Varmā** observes that Heti’s courtship directly illustrates the ‘strenuous effort’ (परं यत्नमेव दर्शयति) announced in 7.4.15. Both Rāma Varmā and **Govindarāja** identify कालः as Yama, the son of Vivasvat (कालो वैवस्वतः, _Tilaka_; कालो यमः, _Bhūṣaṇa_), and gloss स्वयमेव as Heti going in person to sue for her hand (गत्वा प्रार्थनां कृत्वेति शेषः, _Tilaka_; प्रार्थनां गत्वेत्यर्थः, _Bhūṣaṇa_). On 7.4.18, **Śivasahāya**—reading अम्बुजम् (‘lotus’) rather than अम्बुदः—highlights the vivid natural simile of Vidyutkeśa flourishing like a lotus amid waters (अम्बुजमिव तोयमध्ये व्यवर्धत).
+
+_____________
+
+**7.4.19–20 (Heti Arranges Vidyutkeśa’s Marriage)**
+
+On 7.4.19, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) identify पिता succinctly as Heti (पिता हेतिः), while **Śivasahāya** (_Śiromaṇi_) notes that as soon as Vidyutkeśa reached auspicious manhood (यौवनं भद्रम्), his father set his mind upon arranging a fitting match. On 7.4.20, Rāma Varmā construes प्रभावतः सन्ध्यातुल्याम् as equal to Sandhyā in supernatural potency and identifies Sandhyā’s unnamed daughter in advance as Sālakaṭaṅkaṭā (सन्ध्यादुहिता सालकटङ्कटाख्या), adding that through the predominance of rākṣasa nature she is classed among rākṣasīs.
+
+_____________
+
+**7.4.21 (Sandhyā’s Pragmatic Consent)**
+
+Paraphrasing Sandhyā’s deliberation in 7.4.21, **Śivasahāya** notes that reflecting ‘a daughter must in any event be bestowed upon another’ (अवश्यं दातव्या इति चिन्तयित्वा), Sandhyā gave her child to Vidyutkeśa (सन्ध्यासुता विद्युत्केशाय दत्ता). Her matter-of-fact reflection invokes the classic social maxim of ancient India that a daughter belongs ultimately to another household (_parakīya_); rather than resisting the formidable rākṣasa suitor Heti, Sandhyā accepts the alliance with calm resignation. The direct vocative राघव subtly re-anchors the mythical genealogy within Agastya’s live discourse to Rāma.
+
+_____________
+
+**7.4.22–23 (Conjugal Delight and Conception of Sukeśa)**
+
+On 7.4.22, **Śivasahāya** briefly paraphrases Vidyutkeśa’s joy with Sandhyā’s daughter, whom Vālmīki likens to Śacī (Paulomī) beside Indra (पौलोम्या मघवानिव), hinting at the rākṣasas’ quasi-celestial vigor before their fall. On 7.4.23, Śivasahāya confirms that सालंकटंकटा is indeed the personal name of Sandhyā’s daughter (सालंकटंकटा तदभिधा सन्ध्यादुहिता). Poetically, Vālmīki’s striking simile (_upamā_) compares her conceiving from Vidyutkeśa (‘Lightning-Haired’) to a line of monsoon clouds (घनराजिः) drawing pregnant rain from the ocean (अर्णवात्), preparing the thundercloud imagery of her son’s birth in 7.4.24.
+
+_____________
+
+**7.4.24 (Birth on Mount Mandara and the Skanda Simile)**
+
+Commenting on घनगर्भसमप्रभम्, **Rāma Varmā** (_Tilaka_) glosses it as radiant like a water-laden cloud (जलगर्भमेघसमकान्तिम्), whereas **Govindarāja** (_Bhūṣaṇa_) offers a bolder lexical reading—taking घनगर्भः as the lightning-bolt born within a cloud (घनगर्भोऽशनिः). All three commentators identify the mythological comparison गङ्गा गर्भमिवाग्निजम् as Gaṅgā giving birth to Śiva’s fiery seed (Skanda) deposited in her by Agni (अग्निविसृष्टं माहेश्वरं गर्भमित्यर्थः, _Tilaka_ and _Bhūṣaṇa_; अग्निना त्यक्तं शाम्भवं गर्भम्, _Śiromaṇi_)—a simile that poignantly foreshadows Śiva and Pārvatī’s own maternal rescue of the abandoned infant.
+
+_____________
+
+**7.4.25–27 (Maternal Abandonment and the Weeping Babe)**
+
+On 7.4.25, **Rāma Varmā** glosses विद्युत्केशरतार्थिनी as craving amorous sport with Vidyutkeśa (विद्युत्केशेन सह रतं क्रीडामर्थयति तादृशी) and notes the bitter irony of सुतमात्मजम्—abandoning the son sprung from her own body (आत्मनः सकाशाज्जातं सुतम्). **Śivasahāya** (_Śiromaṇi_) links 7.4.25–26ab as one sentence (सार्धश्लोक एकान्वयी): rushing back to her husband, she left the thunder-voiced babe (घनशब्दसमस्वनः), who thrust his fist into his own mouth (आस्ये स्ववक्त्रे मुष्टिं निधाय रुरोद) and wept until Śiva, soaring through the sky with Pārvatī, heard his cries.
+
+_____________
+
+**7.4.28 (Pārvatī’s Compassion Moves Śiva)**
+
+Both **Rāma Varmā** and **Govindarāja** dissolve कारुण्यभावात् identically as ‘from a heart filled with compassion’ (कारुण्ययुक्तो भावश्चित्तं तस्मात्, _Tilaka_; कारुण्येन सहितो भावश्चित्तं कारुण्यभावः तस्मात्, _Bhūṣaṇa_). Taking पार्वत्या as instrumental, Rāma Varmā supplies ‘prompted by Pārvatī’ (पार्वत्या प्रेरित इति शेषः), pointing forward to पार्वत्याः प्रियकाम्यया in 7.4.30 as confirmation (इदमेव दर्शयति वक्ष्यमाणप्रियकाम्ययेति). **Śivasahāya**, construing 7.4.28–29ab together (सार्धश्लोक एकान्वयी), treats पार्वत्या as genitive—meaning that Bhava acted directly out of Pārvatī’s compassionate heart (पार्वत्याः कारुण्यभावाद्धेतोः).
+
+_____________
+
+**7.4.29–30 (Mahādeva’s Boons and the Aerial City)**
+
+On 7.4.29, **Rāma Varmā** (_Tilaka_) glosses मातुरेव वयःसमम् as immediately matching his mother’s adult age (मातृवयस्कमित्यर्थः), while **Govindarāja** (_Bhūṣaṇa_) interprets Śiva’s epithets अक्षरोऽव्ययः metaphysically as denoting the Supreme Lord free from the sixfold transformations of physical existence. **Śivasahāya** (_Śiromaṇi_) explains आकाशगं पुरम् as a city-shaped aerial vehicle (पुराकारविमानम्) bestowed to please Pārvatī (पार्वत्याः प्रियकाम्यया), and on 7.4.30d clarifies the genitive राक्षसीनाम् as a dative of recipient (राक्षसीभ्यो वरो दत्तः).
+
+_____________
+
+**7.4.31 (Umā’s Boon to All Rākṣasīs)**
+
+All three commentators call attention to the archaic sandhi in सद्योपलब्धिः (सद्योपलब्धिरित्यार्षः सन्धिः). **Śivasahāya** unpacks the three clauses of Umā’s compassion-born decree: swift conception (गर्भस्य सद्योपलब्धिः शीघ्रं प्राप्तिः), immediate parturition (सद्यःप्रसूतिरुत्पत्तिश्च), and instantaneous growth to the mother’s own age (मातुर्वयःसममेव सद्यो वयःप्राप्तिः), a syntactic construction also affirmed by **Govindarāja** (मातुरेव वयःसमं वयःप्राप्तिरिति योजना). Designed so that no rākṣasa infant will again lie helpless when abandoned, Umā’s boon explains the astonishing speed with which rākṣasa lineages multiply in the epic.
+
+_____________
+
+**7.4.32 (The Naming and Triumph of Sukeśa)**
+
+Closing Sarga 4 in resonant 12-syllable _Vaṃśastha_ meter, Vālmīki refers to the child for the first time by his personal name सुकेशः. Both **Rāma Varmā** and **Govindarāja** note this elliptical narrative technique: although no prior naming ceremony was described, the name is established simply through this retrospective mention (सुकेश इत्यनुवादात्तन्नामकत्वमस्य बोध्यम्, _Tilaka_; सुकेश इत्यनुवादादेव तन्नामकत्वं सिद्धम्, _Bhūṣaṇa_), and both gloss खगम् as ‘sky-faring’ (आकाशगम्). **Śivasahāya** highlights Sukeśa’s Indra-like pride (वरदानगर्वितः), setting the stage for his three formidable sons in Sarga 5.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

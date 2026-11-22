@@ -80,6 +80,14 @@ On this longbow and its giving to god of Rain, some discussion is incorporated i
 
 When Rāma (Paraśurāma) had departed (_gate rāme_), the illustrious Rāma, son of Daśaratha, his spirit calm and serene (_praśāntātmā ... mahāyaśāḥ_), placed that bow into the hand of the immeasurable Varuṇa (_varuṇāyāprameyāya dadau haste_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.1 (varuṇāyāprameyāya dadau haste)**
+
+Why does Śrī Rāma entrust the Vaiṣṇava bow to Varuṇa, and why is Varuṇa called _aprameya_? **Rāma Varmā (_Tilaka_)** explains that Varuṇa was standing invisible in the sky with the gods to witness the marvel, and Rāma handed him the bow in trust (_nyāsātmanā_); Varuṇa is _aprameya_ because, as taught in the _Taittirīyopaniṣad_, he imparted direct knowledge of Brahman to Bhṛgu (_bhṛgave sākṣād brahmavidyāpradatvāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -133,6 +141,14 @@ addressed his agitated father Dasharatha. [1-77-2]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, having bowed in reverence to the sages headed by Vasiṣṭha (_abhivādya tato rāmo vasiṣṭhapramukhān ṛṣīn_), Rāma, the delight of the Raghus, seeing his father still shaken and distraught (_pitaraṃ vikalaṃ dṛṣṭvā_), spoke to him:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.2–3 (pitaraṃ vikalaṃ dṛṣṭvā)**
+
+Both **Tilaka** and **Govindarāja** observe that King Daśaratha remained dazed with terror (_vikalaṃ paraśurāmabhayena_, **Tilaka**; _paravaśam_, **Govindarāja**) because Rāma’s divine _māyā_ veiled the cosmic transaction—Paraśurāma’s recognition of Rāma’s supreme godhead and the handing of the bow to Varuṇa—from the king’s eyes (_dhanurdānavṛttāntasya māyayā tirodhānam anyān prati_).
 </details>
 </details>
 
@@ -254,6 +270,14 @@ that he and his sons took a rebirth. [1-77-4, 5]
 
 **5:** Hearing that Rāma (Paraśurāma) had departed (_gato rāma iti śrutvā_), the king, thrilled and overjoyed (_hṛṣṭaḥ pramudito nṛpaḥ_), deemed both his son and himself to be born anew that day (_punarjātaṃ tadā mene putram ātmānam eva ca_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.4–6 (punarjātaṃ tadā mene & patākādhvajinīm)**
+
+Only when Rāma announces “Jāmadagnya has departed” does Daśaratha recover his senses, embrace Rāma, and feel that both his son and he himself have been reborn (_punarjātaṃ mene_). On _patākādhvajinīm_ (v. 6), **Tilaka** and **Govindarāja** distinguish _patākā_ (the banner cloth or small pennant) from _dhvaja_ (the staff or tall standard).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -356,6 +380,14 @@ at their king's re-entry, and into such an exhilarating city Ayodhya king Dashar
 **7:** Its royal highways sprinkled with water (_siktarājapathāṃ ramyām_) and strewn with heaps of flowers (_prakīrṇakusumotkarām_), the city was thronged with citizens bearing auspicious offerings in their hands and beaming with joy at the king’s entry (_rājapraveśasumukhaiḥ paurair maṅgalapāṇibhiḥ_).
 
 **8:** The king entered the city, which was filled to overflowing and adorned with multitudes of people (_sampūrṇāṃ prāviśad rājā janaughaiḥ samalaṃkṛtām_), having been met from afar by the citizens and city-dwelling Brāhmaṇas advancing to welcome him (_pauraiḥ pratyudgato dūraṃ dvijaiś ca puravāsibhiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.7–9 (maṅgalapāṇibhiḥ & himavatsadṛśaṃ gṛham)**
+
+**Śiromaṇi** glosses _maṅgalapāṇibhiḥ_ as citizens holding auspicious welcoming articles in their hands, while **Govindarāja** (reading _maṅgalavādibhiḥ_) glosses it as uttering auspicious blessings. On v. 9, **Tilaka** explains that the four princes are called _śrīmadbhiḥ_ because they return triumphant over both Hara’s bow and Paraśurāma’s pride (_harapari-grahādāyakulagarvajittvaiḥ_), and the royal palace resembles Himavat by its lofty height, dazzling whiteness, and coolness (_ucchrāyarūpyadhāvalyāc chītyā ca_).
 </details>
 </details>
 
@@ -480,6 +512,14 @@ his affection to Rama, later.
 
 Honored in his palace by his kinsfolk with every wished-for comfort, the king rejoiced (_nananda svajanai rājā gṛhe kāmaiḥ supūjitaḥ_). And Kausalyā, Sumitrā, and slender-waisted Kaikeyī (_kaikeyī ca sumadhyamā_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.10–11 (kāmaiḥ supūjitaḥ & vadhūpratigrahe)**
+
+**Tilaka** and **Govindarāja** gloss _kāmaiḥ_ as fragrant garlands, sandal-paste, and other means of royal enjoyment (_viṣayabhogaparikarasrakcandanādibhiḥ_). Citing _Amarakośa_ (where _vadhū_ denotes a daughter-in-law, _snuṣā_), they explain _vadhūpratigrahe_ as the ceremonial welcoming of the four new daughters-in-law with auspicious waving of lamps (_maṅgalāratrikāpūrvakaṃ darśanasparśane_, **Tilaka**) and conducting them into their respective inner apartments.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -553,6 +593,14 @@ all these waving, flaring, glaring the couples too appeared as the humanly Ritua
 
 **12:** and both daughters of Kuśadhvaja (_kuśadhvajasute cobhe jagṛhur nṛpayoṣitaḥ_), resplendent in silken garments (_śobhitāḥ kṣaumavāsasaḥ_), with auspicious benedictions and oblations into the sacred fire (_maṅgalālāpanair homaiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.12 (maṅgalālāpanair homaiḥ & kṣaumavāsasaḥ)**
+
+Attired in pure linen-silk robes (_paṭṭavastravatyaḥ_, **Śiromaṇi**), the queens receive Sītā, Ūrmilā, Māṇḍavī, and Śrutakīrti with benedictory chants (_svastivācanaiḥ_) and domestic threshold fire-offerings (_gṛhapraveśanīyahomaiḥ_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -624,6 +672,14 @@ parade until their backs are broken.
 
 All those princesses swiftly offered worship at the temples of the family deities (_devatāyatanāny āśu sarvās tāḥ pratyapūjayan_); and having bowed in salutation to all elders worthy of reverence (_abhivādyābhivādyāṃś ca sarvā rājasutās tadā_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.13–14 (devatāyatanāni & kṛtāstrāḥ)**
+
+**Govindarāja** notes that the newly wedded princesses worship the shrines of the household deities with sandal-paste and flowers (_gṛhadevatānām arcāgṛhāṇi gandhapuṣpādibhir apūjayan_), which falls within women’s ritual competence. On _kṛtāstrāḥ_ (v. 14), **Tilaka** notes the variant _kṛtārthāḥ_ (“having fulfilled their father’s commands”).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -689,6 +745,14 @@ Then after sometime that king Dasharatha, the legatee of Raghu-s, spoke to his a
 **14:** all of them, filled with joy, delighted in privacy with their husbands (_remire muditāḥ sarvā bhartṛbhir muditā rahaḥ_). Having wedded their brides and mastered celestial weapons (_kṛtadārāḥ kṛtāstrāś ca_), endowed with wealth and surrounded by loving friends (_sadhanāḥ sasuhṛjjanāḥ_),
 
 **15:** those bulls among men lived happily, serving their father in dutiful attendance (_śuśrūṣamāṇāḥ pitaraṃ vartayanti nararṣabhāḥ_). Then, after some time had passed (_kasyacit tv atha kālasya_), King Daśaratha, the delight of the Raghus,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.15–17 (tvāṃ netum āgato ... yudhājit)**
+
+Both **Govindarāja** and **Śiromaṇi** highlight the poignant delicacy of Daśaratha’s words to Bharata: instead of saying “Go with him,” the king merely says, “Your maternal uncle Yudhājit is staying here, having come to take you” (_ayaṃ ... vasati, tvāṃ netum āgataḥ_), leaving “therefore go” unuttered because his heart shrinks from separation from his son (_gacchety anuktyā putraviyogāsahiṣṇutvaṃ rājñaḥ sūcitam_).
 </details>
 </details>
 
@@ -846,6 +910,14 @@ in undertaking deeds, and even from his mothers, Kaikeyi, Sumitra, and Kausalya,
 
 prepared to depart in the company of Śatrughna (_gamanāyābhicakrāma śatrughnasahitas tadā_), after taking leave of his father, of Rāma of unwearying deeds (_āpṛcchya pitaraṃ śūro rāmaṃ cākliṣṭakāriṇam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.18 (rāmaṃ cākliṣṭakāriṇam)**
+
+Preparing to depart with Śatrughna, Bharata takes leave of his father and of Śrī Rāma, whom Vālmīki calls _akliṣṭakāriṇam_—one who accomplishes the mightiest deeds without effort or causing distress to anyone (_akliṣṭaṃ kasyāpi duḥkhaṃ yathā na bhavati tathā kartāram_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -901,6 +973,14 @@ indeed to the high rejoice of his father, King of Kekaya. [1-77-19b, 20a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and of his mothers as well, that best of men departed accompanied by Śatrughna (_mātṝś cāpi naraśreṣṭhaḥ śatrughnasahito yayau_). And the heroic Yudhājit, having received Bharata together with Śatrughna, was overjoyed (_yudhājit prāpya bharataṃ saśatrughnaṃ praharṣitaḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.19–21 (yudhājit ... svapuraṃ prāviśat & paurakāryāṇi)**
+
+This Southern Recension sequence sets the stage for _Ayodhyākāṇḍa_ by narrating how Bharata and Śatrughna travel with Yudhājit to Kekaya, gladdening their maternal grandfather King Aśvapati (_tasya pitā kekayarājo ’pi tutoṣa_, **Śiromaṇi**), while Rāma and Lakṣmaṇa remain in Ayodhyā serving Daśaratha and administering civic affairs.
 </details>
 </details>
 
@@ -1031,6 +1111,14 @@ time to time. [1-77-22b, 22, 23a]
 
 accomplishing all that was both pleasing and beneficial to them (_cakāra rāmaḥ sarvāṇi priyāṇi ca hitāni ca_). Having fulfilled his duties toward his mothers with supreme self-restraint (_mātṛbhyo mātṛkāryāṇi kṛtvā paramayantritaḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.22 (priyāṇi ca hitāni ca & paramayantritaḥ)**
+
+**Tilaka** distinguishes _priyāṇi_—actions that bring immediate joy (_dṛṣṭahitāni_)—from _hitāni_, actions conducive to lasting welfare (_paryante sukhajanakāni_). All three commentators gloss _paramayantritaḥ_ as strictly observant of the bounds of Śruti and Smṛti (_śrutismṛtimaryādānatilaṅghī_, **Tilaka** and **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1061,6 +1149,14 @@ accomplishing all that was both pleasing and beneficial to them (_cakāra rāma�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 he attentively oversaw the service due to his preceptors at every proper season (_gurūṇāṃ gurukāryāṇi kāle kāle ’nvavaikṣata_). Thus King Daśaratha was deeply pleased, as were the Brāhmaṇas, the merchants (_evaṃ daśarathaḥ prīto brāhmaṇā naigamās tathā_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.23–24 (gurukāryāṇi & naigamāḥ)**
+
+**Tilaka** and **Govindarāja** gloss _gurukāryāṇi_ as sacrificial rites, pious austerities, and personal attendance upon elders (_gurusaṃbandhīṣṭatapādīni_), and _naigamāḥ_ as the merchant guilds of the city (_vaṇijaḥ_). By his noble disposition (_śīlavṛttena_), Rāma wins the hearts of king, Brāhmaṇas, merchants, and countryfolk alike.
 </details>
 </details>
 
@@ -1188,6 +1284,14 @@ its enrichment - the self-content bliss of monogamy.
 
 and became preeminent in virtues like the self-existent Brahmā among all living beings (_svayambhūr iva bhūtānāṃ babhūva guṇavattaraḥ_). And Rāma, together with Sītā, sported happily through many seasons (_rāmaś ca sītayā sārdhaṃ vijahāra bahūn ṛtūn_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.25–26 (bahūn ṛtūn & dārāḥ pitṛkṛtā iti)**
+
+**Tilaka** notes that _bahūn ṛtūn_ refers to the twelve years of conjugal felicity in Ayodhyā before the exile (_dvādaśavarṣāṇīty arthaḥ_, citing _Padma Purāṇa_). Why is Sītā first dear to Rāma as _dārāḥ pitṛkṛtāḥ_? Because a bride bestowed with a father’s sanction in a _brāhma_-like rite is supremely praiseworthy in _dharma_ (_sa vivāha eva sarvathā ślāghyaḥ_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1257,6 +1361,14 @@ thoughts in their heart of hearts, just by their hearts. [1-77-27b, 28a]
 **26:** steadfast in mind, with his heart wholly absorbed in her (_manasvī tadgatamanāḥ_), and enshrined within her heart (_tasyā hṛdi samarpitaḥ_). Sītā was dearly beloved to Rāma because she was the bride chosen and bestowed by his father (_priyā tu sītā rāmasya dārāḥ pitṛkṛtā iti_),
 
 **27:** and his love grew ever greater by reason of her virtues and her beauty (_guṇād rūpaguṇāc cāpi prītir bhūyo ’bhivardhate_); while in her heart, her husband dwelt with redoubled devotion (_tasyāś ca bhartā dviguṇaṃ hṛdaye parivartate_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.27–28 (dviguṇaṃ hṛdaye & ākhyāti hṛdayaṃ hṛdā)**
+
+**Govindarāja** explains that while Rāma’s love for Sītā sprang from two sources—filial respect for his father’s choice and her beauty and virtue—Sītā’s love for Rāma was twice as intense (_dviguṇam_) because it arose solely from his nature as her husband. Thus their hearts read each other’s unspoken thoughts (_iṅgitena_, **Govindarāja**) directly through the heart (_svahṛdayena_, **Tilaka**; _buddhyā_, **Śiromaṇi**; _tarkeṇa_, **Govindarāja**).
 </details>
 </details>
 
@@ -1382,5 +1494,13 @@ of my heartstrings, that are the halters with fastness...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 United with that peerless princess who was wholly devoted to him in love (_tayā ... abhikāmayā sameyivān uttamarājakanyayā_), Rāma, the son of the royal sage, filled with joy (_sa rājarṣisuto ... mudānvito_), shone with surpassing splendor like the all-pervading Lord Viṣṇu, ruler of the immortals, united with Goddess Śrī (_atīva rāmaḥ śuśubhe ... vibhuḥ śriyā viṣṇur ivāmareśvaraḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**77.29 (vibhuḥ śriyā viṣṇur ivāmareśvaraḥ — Vaṃśastha Finale)**
+
+Crowning _Bālakāṇḍa_, Vālmīki compares Śrī Rāma and Sītā to Lord Viṣṇu, ruler of the immortals, united with Goddess Śrī—where **Govindarāja** notes that the simile rests solely on their incarnate distinction of form (_mūrtibhedenopamānatvam_), for Rāma and Sītā are none other than Nārāyaṇa and Lakṣmī themselves.
 </details>
 </details>

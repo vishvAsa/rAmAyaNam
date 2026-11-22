@@ -477,6 +477,170 @@ _________________
 
 **17:** “Therefore, endowed with my own form (_mad-rūpa-sampannāḥ_) and equaling my valor and radiance (_mad-vīrya-sama-tejasaḥ_), monkeys shall be born (_utpatsyanti ... vānarāḥ_) for the utter destruction of your race (_vadhārthaṃ hi kulasya tava_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.16.1–2 (The Golden Śaravaṇa of Skanda)**
+
+Opening the famed Kailāsa episode immediately after Rāvaṇa’s seizure of Puṣpaka in Sarga 15, **Śivasahāya** (_Śiromaṇi_) introduces this canto as the sequel to the chariot’s capture (पुष्पकविमानानयनानन्तरकालिकं वृत्तमाह), while **Govindarāja** (_Bhūṣaṇa_) observes that अपश्यत् and the following verses expand the brief summary given at the close of Sarga 15 (पूर्वसर्गान्तोक्तसंक्षेपप्रपञ्चनम्). All three commentators identify महासेनप्रसूतिम् as the sacred reed-thicket where Skanda was born (महासेनस्य स्कन्दस्य प्रसूतिर्जन्म यस्मात्तच्छरवणम्, **Rāma Varmā**; स्कन्दप्रसूतिस्थानम्, Govindarāja). Its solar simile (_upamā_)—wreathed in rays like a second sun—foreshadows the incandescent sanctity of Śiva’s mountain precinct.
+
+_____________
+
+**7.16.3–4 (Puṣpaka’s Sudden Arrest)**
+
+Reaching the slopes of Kailāsa, Rāvaṇa encounters his first inexplicable check. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** gloss विष्टम्भितम् identically as ‘having its motion arrested’ (निरुद्धसञ्चारम्), while **Śivasahāya** construes verses 2–3 together as a single syntactic unit (सार्धश्लोक एकान्वयी) and notably interprets वन in रम्यवनान्तरम् in its lexical sense of ‘waters’ (वनानि जलान्यन्तरे यस्य). On 7.16.4, Rāma Varmā unpacks the paradox of कामगं कृतम् (‘fashioned to move at will’): constructed to obey its master’s every thought (स्वामिचित्तानुकूलसञ्चारवत्कृतम्), the chariot now stands frozen in defiance of its conqueror.
+
+_____________
+
+**7.16.5–6 (Rāvaṇa’s Conjecture and Mārīca’s Confirmation)**
+
+On 7.16.5, **Rāma Varmā** observes that after wondering why Puṣpaka disobeys his wish, Rāvaṇa immediately infers the presence of a superior power (स्वयमेव तर्कयति)—an arresting act (स्तम्भनरूपं कर्म) worked by some personage dwelling atop the mountain (पर्वतोपरिभागे स्थितस्य, **Śivasahāya**; कस्य पुरुषस्य, **Govindarāja**). In 7.16.6, Rāma Varmā notes that the astute counselor Mārīca echoes and reinforces his king’s deduction (मारीचोऽपि तदुक्तमेवानुवदति), while Śivasahāya paraphrases his double negative नेदं निष्कारणम् affirmatively: there is assuredly a definite cause (किञ्चित्कारणमस्त्येवेत्यर्थः) behind the aerial car’s stoppage.
+
+_____________
+
+**7.16.7 (Mārīca’s Second Hypothesis)**
+
+Continuing his counsel from 7.16.6, Mārīca ventures a plausible alternative (कारणमूहयित्वाऽऽह, **Rāma Varmā**): perhaps Puṣpaka is loyal solely to its rightful owner Kubera (धनदादन्यस्य वाहनं नेत्यर्थः) and therefore refuses to move when separated from the Lord of Wealth. **Śivasahāya** (_Śiromaṇi_) similarly glosses निष्पन्दम् as ‘bereft of motion’ (गमनरहितमभवत्). Dramatically, Mārīca’s suggestion subtly highlights the illegitimacy of Rāvaṇa’s plunder even before the true divine impediment manifests—showing that stolen celestial splendor does not automatically bend to brute force.
+
+_____________
+
+**7.16.8–9 (The Sudden Apparition of Nandīśvara)**
+
+Before Mārīca can even conclude, Śiva’s dread chamberlain intervenes. **Śivasahāya** construes verses 8–9 as a single four-quarter period (अर्धचतुष्टयमेकान्वयि), glossing वाक्यान्तरे as ‘right in the midst of Mārīca’s speech’ (कथनमध्यसमये), करालः as ‘terrifying’ (भयंकरः), and वामनः as ‘hunchbacked/dwarfish’ (कुब्जः). **Rāma Varmā** clarifies the elliptical syntax of 7.16.9 by supplying ‘Rāvaṇa’s side’ (पार्श्वे रावणस्येति शेषः) and linking अशङ्कितः directly with Nandī’s approach: entirely undaunted by the conqueror of Kubera, the humble-looking attendant confronts the demon-king as an equal.
+
+_____________
+
+**7.16.10–12 (The Interdict on Kailāsa and Rāvaṇa’s Fury)**
+
+Construing 7.16.10–11ab together (सार्धश्लोक एकान्वयी), **Śivasahāya** sets forth Nandī’s firm proclamation that Kailāsa is closed to all celestials and demons while Śiva sports there, with **Rāma Varmā** supplying ‘by the Lord’ (ईश्वरेणेति शेषः) as the agent of कृतः in 7.16.11. Yet Rāvaṇa’s intoxicated arrogance cannot brook any boundary. Both Śivasahāya (construing 11cd–12 as one period) and Rāma Varmā (glossing शैलमूलमुपागतः as descending from the sky to the mountain’s base, अन्तरिक्षादवतीर्य प्राप्तः) capture his reckless hubris in the contemptuous sneer कोऽयं शङ्करः—‘Who is this Śaṅkara?’
+
+_____________
+
+**7.16.13–14 (The Second Śaṅkara and Rāvaṇa’s Fatal Mockery)**
+
+Reaching the mountain’s base, Rāvaṇa beholds Nandī stationed close to Śiva (देवस्य शिवस्यादूरतः स्थितम्, **Śivasahāya**) and leaning on a gleaming trident like a second Śaṅkara. Yet blinded by pride of form, Rāvaṇa sees only a monkey’s face (_vānara-mukha_), treats him with scorn (अवज्ञाय अनादृत्य, Śivasahāya), and erupts into booming laughter (प्रहासं मुमुचे कृतवानित्यर्थः, **Rāma Varmā**) likened to a heavy thundercloud (_satoya iva toyadaḥ_). This single act of derision against a seemingly lowly outward appearance becomes a cardinal karmic turning point in the entire Rāmāyaṇa.
+
+_____________
+
+**7.16.15–17 (Nandī’s Curse—The Origin of the Vānara Nemesis)**
+
+Verse 15 explicitly affirms Nandī’s divine potency as ‘a second body of Śaṅkara’ (शङ्करस्यापरा तनुः, noted by **Śivasahāya**). Construing 7.16.16–17 as a unified four-quarter sentence (अर्धचतुष्टयमेकान्वयि), Śivasahāya links the exact offense (_yasmāt_) to its poetic retribution (_tasmāt_): because Rāvaṇa mocked Nandī’s simian visage with a thunderbolt-like jeer, monkeys possessing Nandī’s very form, valor, and luster will arise to annihilate his lineage. Agastya thus reveals to Rāma the deeper cosmic root of the _Yuddhakāṇḍa_: the vānara army that overwhelmed Laṅkā was decreed here at Kailāsa.
+
+_____________
+
+**7.16.18 (The Terrifying Martial Profile of the Vānaras)**
+
+Painting a prophetic portrait of the future monkey warriors—Hanūmān, Sugrīva, Nīla, and their hosts—Vālmīki packs six vivid epithets into a single Anuṣṭubh verse. **Śivasahāya** construes 7.16.18–19 together (अर्धचतुष्टयमेकान्वयि), analyzing मनःसम्पातरंहसः as ‘those whose speed equals the very flight of thought’ (मनःसम्पात इव रंहो वेगो येषाम्) and highlighting the striking simile शैला इव विसर्पिणः (‘striding forth like roaming mountains’). Needing neither forged steel nor sorcery, these claw-and-fang warriors will overturn the heavily fortified citadel of Rāvaṇa.
+
+_____________
+
+**7.16.19–20 (Inward Pride, Outward Bulk, and Self-Inflicted Doom)**
+
+Concluding his prophecy, Nandī promises that the vānaras will dismantle both Rāvaṇa’s दर्प and उत्सेध. **Rāma Varmā** (_Tilaka_) draws a crisp distinction: दर्पः is inward arrogance (आन्तरः), while उत्सेधः is towering bodily height and physical might (शारीरः; शरीरोन्नतत्वम्, **Śivasahāya**). Why does Nandī not strike him dead on the spot? Both commentators resolve 7.16.20 as a concessive statement: although Nandī could slay him instantly, Rāvaṇa is already morally dead through his own evil deeds (स्वदुष्कृतैर्हत एवासि, Rāma Varmā), reserved to be slain in future time by beings bearing Nandī’s very form (कालान्तरे मद्रूपैरेव हन्तव्यो भविष्यसीति भावः).
+
+_____________
+
+**7.16.21–22 (Heaven’s Applause and Rāvaṇa’s Blind Defiance)**
+
+Immediately upon Nandī’s pronouncement (देवे नन्दीशे उदीरितवाक्ये सति, **Śivasahāya**), celestial drums thunder and flowers rain from the sky. **Rāma Varmā** explains the gods’ sudden jubilation: they rejoice at the certainty of Rāvaṇa’s ultimate downfall now sealed by Nandī’s curse (तच्छापेन रावणवधनिश्चयजसंतोषात्). Yet even this unmistakable cosmic omen leaves the demon-king wholly unchastened (नन्दिवाक्यमचिन्तयित्वा, Śivasahāya). Instead of retreating in awe, Rāvaṇa marches straight up to Kailāsa’s base, escalating verbal insolence into physical sacrilege.
+
+_____________
+
+**7.16.23–24 (The Vow to Uproot Kailāsa)**
+
+Turning his wrath upon the mountain itself, Rāvaṇa addresses Nandī with the vocative गोपते, which **Govindarāja** (_Bhūṣaṇa_) glosses as ‘O lord of bulls’ (हे वृषभपते). On यत्कृते in 7.16.23, **Rāma Varmā** explains that Rāvaṇa blames the mountain precisely as the pleasure-ground whose hosting of Śiva’s sport caused Puṣpaka’s arrest (यदाश्रयक्रीडानिमित्तं गच्छतो मम पुष्पकस्य गतिश्छिन्ना). In 7.16.24, his boast reaches peak dramatic irony: mocking Bhava for supposedly failing to recognize an approaching ‘source of peril’ (उपस्थितभयस्थानम्, **Śivasahāya**), Rāvaṇa himself stands wholly blind to the supreme majesty awaiting him above.
+
+_____________
+
+**7.16.25–26 (Kailāsa Shaken and Pārvatī’s Embrace)**
+
+Executing his boast, Rāvaṇa slips his arms underneath the mountain—**Rāma Varmā** (_Tilaka_) explicitly glosses the locative पर्वते as ‘beneath the mountain’ (पर्वताधस्तात्)—and lifts the vast peak until it quakes (अत एव शैलः समकम्पत, **Śivasahāya**). As Śiva’s attendants reel, Pārvatī too feels the tremor and throws her arms around Maheśvara. Rāma Varmā notes the exact grammatical force of आश्लिष्टा in 7.16.26 as an active past participle (आश्लिष्टवती । कर्तरि क्तः), capturing the iconic sculptural motif (_Rāvaṇānugrahamūrti_) celebrated across Indian temple art.
+
+_____________
+
+**7.16.27–28 (The Effortless Great Toe of Mahādeva)**
+
+Vālmīki juxtaposes Rāvaṇa’s utmost physical exertion against Śiva’s serene omnipotence: without even rising or shifting posture, Hara presses Kailāsa back down with a single great toe in sheer playfulness (पादाङ्गुष्ठेन लीलयेव पीडयामास, **Śivasahāya**). Immediately Rāvaṇa’s arms beneath the mountain are pinned and crushed (पर्वतस्याधोभागगता भुजाः पीडिता आसन्, **Rāma Varmā** and **Govindarāja**; Śivasahāya reads शैलस्तम्भोपमाः, ‘like mountain-pillars’). Witnessing their seemingly invincible monarch immobilized by a casual flick of a toe, his counselors stand transfixed in shock.
+
+_____________
+
+**7.16.29–30 (The Roar Like Doomsday’s Thunderbolt)**
+
+Pain and wounded rage fuse into a stupendous cry (विरावो रोदनशब्दः, **Śivasahāya**, who construes 29–30ab as a unified period). **Rāma Varmā** explains that Rāvaṇa’s own ministers mistook his shriek for the shattering clash of thunderbolts at the dissolution of a cosmic age (युगक्षये जायमानं वज्रनिष्पेषं मेनिरे). Interpreting the compressed compound वर्त्मस्थचलिताः in 7.16.30cd, Rāma Varmā clarifies that at the moment of hearing that sound, the gods stationed along their celestial paths were dislodged from their tracks (वर्त्मस्थिता देवा वर्त्मभ्यः प्रचलिताः), while Śivasahāya identifies those paths specifically as the starry firmament (तारापथेषु स्थिताः).
+
+_____________
+
+**7.16.31–33 (Cosmic Upheaval and the Ministers’ Counsel of Surrender)**
+
+Extending the cosmic shockwave of 7.16.30, **Śivasahāya** (_Śiromaṇi_) construes 30cd–31 as a single period (सार्धश्लोक एकान्वयी): seeing the oceans churned and peaks shaken, Yakṣas, Vidyādharas, and Siddhas ask in alarm what cataclysm has struck. Faced with their master’s helpless agony, Rāvaṇa’s counselors (अथ तन्मन्त्रिण आहुः, **Rāma Varmā**) deliver stark realism: because no refuge exists apart from Mahādeva (महादेवं विना अन्यं शरणं न पश्यामः, Śivasahāya), Rāvaṇa must abandon defiance, bow humbly with hymns, and cast himself upon Umā’s Blue-throated Lord.
+
+_____________
+
+**7.16.34–35 (A Millennium of Sāman Chants and Tears)**
+
+Appealing to Śiva’s hallmark attribute of swift compassion (_kṛpāluḥ_), the ministers assure Daśānana that a pleased Śaṅkara will grant grace (तुष्टः शङ्करस्ते प्रसादं विधास्यति, **Śivasahāya**). Heeding them, the proud titan submits and chants diverse hymns for a full thousand years while weeping beneath Kailāsa’s weight. Notably, Śivasahāya glosses सामभिः in 7.16.35 as ‘soothing, conciliatory hymns’ (सान्त्वनकारकैः विविधैः स्तोत्रैः), capturing both the liturgical resonance of Vedic Sāman melodies—later celebrated in tradition as Rāvaṇa’s _Śivatāṇḍavastotra_—and the rhetorical art of appeasement (_sāman_).
+
+_____________
+
+**7.16.36 (The Grace of the Summit-Dwelling Lord)**
+
+After a millennium of unbroken penance and praise, Mahādeva—known across Purāṇic theology as _Āśutoṣa_ (‘easily pleased’)—relents from his station atop Kailāsa (शैलाग्रे विष्ठितः प्रभुः) and lifts the crushing weight from Rāvaṇa’s arms (अस्य रावणस्य भुजान्मुक्त्वा दशाननं प्राह, **Śivasahāya**). The dramatic reversal underscores a core dharmic principle of the _Uttarakāṇḍa_: while brute pride meets immediate humiliation before the divine, even a violent demon who turns genuinely to humility, endurance, and devotional praise receives gracious absolution from Śiva.
+
+_____________
+
+**7.16.37–39 (The Etymology of the Name ‘Rāvaṇa’)**
+
+Having heretofore called the demon Daśagrīva or Daśānana, the epic now unveils the origin of his most famous appellation. **Śivasahāya** (_Śiromaṇi_) glosses शौण्डीर्यात् in 7.16.37 as ‘from surpassing might’ (अतिबलात्), explaining that Śiva is delighted by the tremendous roar emitted even while crushed beneath the peak (शैलाक्रान्तेन ... यो रावस्त्वया मुक्तस्तेन तव रवेण प्रीतोऽस्मि). In 7.16.38, **Rāma Varmā** (_Tilaka_) glosses the causative participle रावितम् as ‘made to resound/cry out’ (शब्दितम्): because he made the three worlds cry aloud in dread, gods, mortals, and Yakṣas alike shall celebrate him as रावणो लोकरावणः (Śivasahāya).
+
+_____________
+
+**7.16.40 (Lifting the Ban on Puṣpaka)**
+
+Dismissing Paulastya graciously, Mahādeva assures him safe passage along any course he chooses. **Śivasahāya** unpacks विस्रब्धम् as ‘with full confidence and trust toward me’ (मद्विषये सविश्वासं यथा भवति तथा), reassuring the shaken demon that no lingering wrath remains. Crucially, both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) connect मयाभ्यनुज्ञातः directly back to the sarga’s opening crisis by supplying ‘permitted to travel aboard Puṣpaka’ (पुष्पकेण गमनायेति शेषः)—signaling that the divine freeze laid upon the aerial car in 7.16.3 is now formally lifted.
+
+_____________
+
+**7.16.41 (Daśānana’s Opportunistic Petition)**
+
+Rather than departing content with his life and a celebrated title, the lord of Laṅkā immediately seizes the moment of divine favor. Both **Rāma Varmā** (यदि प्रीतो यदि च वरं ददासि तदा याचतो मे देहीत्यर्थः) and **Śivasahāya** (यदि त्वं प्रीतस्तदा याचतो मे वरं देहि) note the conditional deference with which Rāvaṇa presses his advantage. Characteristically, even humiliation beneath Kailāsa cannot curb his ambition: having survived Śiva’s toe, he now seeks to convert mercy into fresh martial supremacy.
+
+_____________
+
+**7.16.42–43 (Fatal Contempt for Mortals)**
+
+Specifying the boon he seeks (वराकारं बोधयितुमाह, **Śivasahāya**), Rāvaṇa reviews the shield of invulnerability already won from Brahmā against every celestial and subterranean class, yet fatally repeats his old blind spot: ‘I do not reckon mortals’ (न गणे न गणयामि, **Rāma Varmā**, **Govindarāja**, and Śivasahāya). Rāma Varmā glosses स्वल्पाः as ‘insignificant in strength and valor’ (स्वल्पबलवीर्याः). Spoken directly within Agastya’s narration to Rāma—the mortal prince who has just slain him—this boast rings with exquisite dramatic irony, reaffirming the loophole through which Viṣṇu incarnated as man.
+
+_____________
+
+**7.16.44 (Preserving the Unspent Lifespan)**
+
+Why does Rāvaṇa ask Śiva for the ‘remainder of his lifespan’ (वाञ्छितं चायुषः शेषम्) when Brahmā already gave him long life? Both **Rāma Varmā** and **Govindarāja** resolve this subtle question identically: the opening portion of Brahmā’s granted longevity has already elapsed, so Rāvaṇa begs that the remaining balance not be prematurely cut short by his present offenses (ब्रह्मदत्तदीर्घायुष्याद्यो भागो गतस्तस्माच्छेषमवशिष्टमायुर्वाञ्छितं ... दुष्कर्मभिर्यथा विनष्टं न भवति तथा प्रयच्छ). Rāma Varmā adds that he seeks a divine weapon (शस्त्रं दिव्यम्) to secure universal triumph throughout that remaining span.
+
+_____________
+
+**7.16.45–46 (The Gift of Candrahāsa and Its Solemn Condition)**
+
+Construing 7.16.44cd–45 together (सार्धश्लोक एकान्वयी), **Śivasahāya** records Śiva’s dual gift: the blazing sword renowned as Candrahāsa (‘Moon-laughter’) and the intact remainder of Rāvaṇa’s years. Yet Śambhu attaches a strict liturgical condition in 7.16.46: the weapon must never be slighted (नावज्ञेयम्). Both **Rāma Varmā** (शस्त्रस्यास्य पूजौदासीन्यं न कार्यमित्यर्थः) and **Govindarāja** (इदं खड्गरूपास्त्रं नावज्ञेयम्) explain that Rāvaṇa must never neglect daily reverence toward the blade, lest it depart and return forthwith to Śiva—a solemn reminder that divine armaments endure only with ongoing devotion.
+
+_____________
+
+**7.16.47–48 (Departure from Kailāsa and World-Conquest)**
+
+Having endured a thousand years of penance, received his enduring name directly from Maheśvara (महेश्वरेणैव कृतनामा), and acquired the Candrahāsa sword, Rāvaṇa offers parting obeisance to Mahādeva and reascends Puṣpaka (रावणः पुष्पकमारुरोह, **Śivasahāya**). Yet his humility proves strictly situational. No sooner is the aerial car aloft again than he resumes his campaign of aggression across the earthly realm (महीतलं पर्यक्रामत्, Śivasahāya), sweeping hither and thither to provoke and torment the valiant Kṣatriya kings—setting the immediate stage for his fateful encounter with Vedavatī in Sarga 17.
+
+_____________
+
+**7.16.49 (The Fate of Defiant Warriors)**
+
+Explaining the exact import of बाधमानः (‘harassing’) in 7.16.48, **Śivasahāya** (_Śiromaṇi_) introduces 7.16.49 as an explicit elaboration of that oppression (बाधमेव विशदयन्नाह). High-spirited Kṣatriyas who were fiercely proud of combat (_yuddha-durmadāḥ_) refused to bow to Rāvaṇa’s diktat (_tac-chāsanam akurvantaḥ_), choosing martial honor over vassalage; as a result, they were utterly annihilated by Rāvaṇa together with their armies and royal retinues (क्षत्रिया विनेशुः रावणेन विनाशिताः, Śivasahāya). Their gallant but futile resistance dramatizes the sheer terror of Rāvaṇa’s boon-fortified supremacy.
+
+_____________
+
+**7.16.50 (The Prudence of Wise Kings)**
+
+Contrasting with those fallen heroes, verse 50 depicts sovereigns respected by the wise (प्राज्ञैः सम्मताः, **Śivasahāya**) who apply classical statecraft (_nīti_): assessing accurately that the boon-guarded Rākṣasa was unconquerable by ordinary human might (दुर्जयं रक्षो जानन्तः), they spared their subjects pointless slaughter by formally pronouncing submission—‘We are conquered!’ (जिताः स्म इति राक्षसं रावणमभाषन्त). Sarga 16 thus closes on a masterful double note: Rāvaṇa stands at the zenith of earthly terror, even as Nandī’s unalterable curse already ticks beneath his triumph.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

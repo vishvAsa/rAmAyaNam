@@ -87,6 +87,14 @@ man's son who is firm in his vows, reverently adjoining his palms replied the sa
 
 Having heard that resolute and unwavering utterance of the sage (_muner vacanam aklībam_), Rāghava, the son of the best of men, joined his palms in reverence (_prāñjalir bhūtvā_) and, firm in his vows (_dṛḍhavrataḥ_), replied:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.1–3 (aklībam & pitur vacananirdeśāt)**
+
+Rāma grounds his consent in two authorities: King Daśaratha’s explicit command (पितुर्वचननिर्देशात्) delivered amidst Vasiṣṭha and Vāmadeva in Ayodhyā (गुरुमध्ये वसिष्ठवामदेवादिसन्निधौ, **Tilaka**, **Śiromaṇi**), and the supreme authority of a father’s word (पितुर्वचनगौरवात् परमाप्तवाक्यत्वेनातिप्रमाणत्वाच्च, **Tilaka**). Viśvāmitra’s speech is _aklībam_—“resolute” (दृढम्, **Tilaka**, **Govindarāja**) or “dispelling unmanly hesitation” (क्लीबतानिवर्तकम्, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -221,6 +229,14 @@ satyapi taaDakaavadham angiikR^itavaan - dharmaakuutam*
 
 Having heard my father’s word, therefore, and at the command of you who are an expounder of the Veda (_śāsanād brahmavādinaḥ_), I shall without doubt accomplish the supreme deed of slaying Tāṭakā (_kariṣyāmi na saṃdehas tāṭakāvadham uttamam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.4–5 (tāṭakāvadham uttamam & gobrāhmaṇahitārthāya)**
+
+Why is slaying Tāṭakā called “supreme” (_uttamam_)? **Tilaka** explains that because Viśvāmitra is a sinless _brahmavādin_ (ब्रह्मवादिनस्तस्यापापस्पर्शेन), obeying his command is not merely sinless, but supremely righteous (अपापं पुण्यं चेत्याह — उत्तममिति, उत्कृष्टधर्ममित्यर्थः). **Śiromaṇi** notes the fourfold purpose in v. 5: protecting cows and Brāhmaṇas, aiding the country, winning renown, and obeying a sage of immeasurable potency (अप्रमेयस्य इयत्तारहितप्रभावस्य).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -340,6 +356,14 @@ making all the directions to blast. [1-26-6]
 
 Having spoken thus, that subduer of foes clasped his fist firmly around the middle grip of his bow (_dhanurmadhye baddhvā muṣṭim_) and loosed a piercing bowstring-twang (_jyāghoṣam akarot tīvram_), making all the directions resound with the report (_diśaḥ śabdena nādayan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.6 (dhanurmadhye baddhvā muṣṭim & jyāghoṣam)**
+
+Clasping his bow at the central grip (धनुर्मध्ये बद्ध्वा मुष्टिम्), Rāma—the subduer of his dependents’ foes (अरिंदमः स्वाश्रितारिनिवर्तकः, **Śiromaṇi**)—looses a piercing, harsh-sounding bowstring-twang (ज्याघोषमकरोत् तीव्रम्, **Tilaka**), filling all the quarters with the report (शब्देन दिशः पूरयन्, **Śiromaṇi**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -393,6 +417,14 @@ stupefied by that sound, and she is intolerably infuriated at it. [1-26-7]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Terrified by that thunderous sound were the denizens of Tāṭakā’s forest (_tena śabdena vitrastās tāṭakāvanavāsinaḥ_); and Tāṭakā herself, fiercely enraged, was confounded and stunned by that report (_tāṭakā ca susaṃkruddhā tena śabdena mohitā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.7–8 (mohitā & abhinidhyāya)**
+
+**Śiromaṇi** explains that _tāṭakāvanavāsinaḥ_ denotes Tāṭakā’s forest-followers, who were terrified (वित्रस्ताः भीताः, **Tilaka**; अत्युद्विग्नचित्ताः, **Śiromaṇi**) by Rāma’s bow-twang, whereas Tāṭakā—naturally fierce in wrath (प्रकृत्या अतिकोपना, **Govindarāja**)—was momentarily bewildered (मोहिता = किं कर्तव्यमिति संभ्रान्ता, **Govindarāja**). Ascertaining the direction of the sound (अभिनिध्याय = शब्दनिःसरणावधिदेशं लक्षीकृत्य, **Tilaka**; शब्ददेशं निश्चित्य, **Śiromaṇi**), she rushed toward Rāma.
 </details>
 </details>
 
@@ -502,6 +534,14 @@ by proportions is very gigantic, furthermore infuriated, spoke to Lakshmana. [1-
 
 Beholding her enraged, deformed in body, and hideous of face (_kruddhāṃ vikṛtāṃ vikṛtānanām_), and gigantic in her bodily stature (_pramāṇenātivṛddhāṃ ca_), Rāghava spoke thus to Lakṣmaṇa:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.9–10 (pramāṇenātivṛddhām & bhīrūṇāṃ hṛdayāni ca)**
+
+Pointing out her hideous face (विकृताननाम्) and colossal stature and height (प्रमाणेन = शरीरप्रमाणेन, **Tilaka**; शरीरेयत्तया अतिवृत्ताम्, **Śiromaṇi**; “in height,” **Govindarāja**), Rāma tells Lakṣmaṇa that the sight of her dreadful frame would cleave the hearts of the timid—and by _ca_ in the sense of _api_ (चो अप्यर्थे — अभीरूणामपीत्यर्थः, **Tilaka**), even of the fearless!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -594,6 +634,14 @@ her to readily retreat by lopping off her ears and the tip of nose. [1-26-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Behold this demoness, hard to overmaster and endowed with the power of magical illusion (_durādharṣāṃ māyābalasamanvitām_); today I shall turn her back in flight with her ear-tips and nose severed (_vinivṛttāṃ karomy adya hṛtakarṇāgranāsikām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.11–12 (strīsvabhāvena rakṣitām — Rāma’s Initial Reluctance)**
+
+**Tilaka** and **Govindarāja** explain Rāma’s knightly scruple: by severing her ears and nose (हृतकर्णाग्रनासिकाम्) and lopping off her hands and feet to destroy her strength and movement (वीर्यगतिहननं हस्तपादभञ्जनेन, **Govindarāja**; पाणिपादच्छेदेन, **Tilaka**), she will be forced to turn back in flight (विनिवृत्ताम् = अस्मत्संमुखागमनात्परावृत्ताम्, **Tilaka**), fulfilling the guru’s command (एतावतैव गुरुवचनानुष्ठानसिद्धेरिति भावः, **Govindarāja**) without incurring the reproach of slaying a woman (शूरविगर्हितः स्त्रीवधोऽनुचित इति भावः, **Tilaka**).
 </details>
 </details>
 
@@ -724,6 +772,14 @@ towards Rama alone, swinging her arms. [1-26-13]
 
 Even as Rāma was speaking thus, Tāṭakā, convulsed with wrath (_krodhamūrchitā_), raised both her arms on high and, roaring fiercely, rushed straight at Rāma (_udyamya bāhū garjantī rāmam evābhyadhāvata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.13–14 (rāmam evābhyadhāvata & Viśvāmitra’s huṃkāra)**
+
+Why does Tāṭakā charge at Rāma alone? **Tilaka** explains that knowing Brahmarṣi Viśvāmitra to be unassailable and mistaking Rāma for a mere mortal (विश्वामित्रस्य दुर्धर्षत्वेन तं विसृज्य), she attacks Rāma alone (राममेवेत्यर्थः). **Govindarāja** notes that although Viśvāmitra knew Rāma’s superhuman power (अतिमानुषशक्तिं जानन्नपि), Tāṭakā’s fury stirred paternal solicitude (अतिशङ्कया महर्षिर्मङ्गलमाशास्ते), prompting his menacing _huṃkāra_ and blessing of victory.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -816,6 +872,14 @@ with a massive cloud of dust. [1-26-15]
 
 Stirring up a dreadful cloud of dust (_uddhunvānā rajo ghoram_), Tāṭakā bewildered both Rāghavas for a _muhūrta_ with that vast dust-cloud (_rajomeghena mahatā muhūrtaṃ sā vyamohayat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.15–16 (rajomeghena & māyāṃ samāsthāya)**
+
+Raising a blinding, cloud-like dust-storm (रजोमेघेन = रजोऽन्धकारेण, **Tilaka**; “cloud-like dust” for मोहनानुकूलव्यापारं चकार, **Śiromaṇi**), Tāṭakā bewilders the princes for a _muhūrta_ and uses her illusion of invisibility (मायामन्तर्धानशक्तिम्, **Govindarāja**, **Tilaka**) to rain down boulders. Only then does Rāma grow angry (ततश्चुक्रोध राघवः), casting aside his leniency toward her womanhood (स्त्रीत्वप्रयुक्तदाक्षिण्यं विसृज्येति शेषः, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -907,6 +971,14 @@ both of her arms with arrows while she rushed towards them. [1-26-17]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Checking that mighty shower of boulders of hers with a volley of arrows (_śilāvarṣaṃ mahat tasyāḥ śaravarṣeṇa rāghavaḥ prativārya_), Rāghava severed both hands of the charging demoness with his feathered shafts (_upadhāvantyāḥ karau ciccheda patribhiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.17–18 (Rāma Severs Her Arms, Lakṣmaṇa Her Ears and Nose)**
+
+Checking her boulder-shower with his arrows, Rāma severs both her stone-hurling hands with feathered shafts (शिलावर्षहेतुत्वात् पत्रिभिः शरैः करौ चिच्छेद, **Govindarāja**; एकैकस्य बहुधा खण्डनाभिप्रायेण, **Tilaka**). As she roars nearby (अभ्याशे समीपे), Lakṣmaṇa lops off her ear-tips and nose (हृतकर्णाग्रनासिकाम्).
 </details>
 </details>
 
@@ -1028,6 +1100,14 @@ them with her illusoriness and discharging stone storms she moved about appallin
 
 Possessing the power of assuming any form at will (_kāmarūpadharā sā tu_), that Yakṣī took on manifold shapes (_kṛtvā rūpāṇy anekaśaḥ_) and vanished into invisibility, bewildering them through her magical illusion (_antardhānaṃ gatā yakṣī mohayantī svamāyayā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.19–20 (kāmarūpadharā & antardhānaṃ gatā)**
+
+Though deprived of her hands, ears, and nose in vv. 17–18, Tāṭakā possesses the Yakṣī power of assuming any shape at will (कामरूपधरा = इच्छितस्वरूपधारणसमर्था, **Śiromaṇi**). Multiplying her forms (कृत्वा रूपाण्यनेकशः) and vanishing into invisibility (अन्तर्धानं गता), she continues to hurl a hail of stones from the sky, proving that mere disfigurement cannot stop an illusion-wielding demoness.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1121,6 +1201,14 @@ to Rama. [1-26-22b, 23a]
 **21:** The glorious son of Gādhi (Viśvāmitra) spoke these words: “Enough of your compassion, O Rāma (_alaṃ te ghṛṇayā rāma_)! This sinful creature is of wicked conduct (_pāpaiṣā duṣṭacāriṇī_).
 
 **22:** This sacrifice-obstructing Yakṣī will soon grow even mightier through her magic (_yajñavighnakarī yakṣī purā vardheta māyayā_); let her be slain right now, before evening twilight sets in (_vadhyatāṃ tāvad evaiṣā purā saṃdhyā pravartate_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.21–23 (alaṃ te ghṛṇayā rāma & purā saṃdhyā pravartate)**
+
+Viśvāmitra intervenes decisively: “Enough of your compassion, O Rāma (स्त्री इति घृणा मास्तु, **Tilaka**; विरोपणमात्रत्याजनेऽपि घृणां न कुरु, **Śiromaṇi**)!” **Govindarāja** notes that _duṣṭacāriṇī_ and _yajñavighnakarī_ show she destroys both worldly and Vedic merit (वैदिकनाशकत्वमूलकं पारलौकिकनाशकत्वमप्याह). By Pāṇini 3.3.4 (यावत्पुरानिपातयोर्लट्), she must be slain before dusk, when rākṣasas become unassailable.
 </details>
 </details>
 
@@ -1260,6 +1348,20 @@ too. [1-26-25b, 26a]
 
 **25:** Uttering a terrific roar, she rushed headlong at Kākutstha and Lakṣmaṇa (_abhidudrāva kākutsthaṃ lakṣmaṇaṃ ca vineduṣī_); as she came hurtling onward with the speed and fury of a hurled thunderbolt (_tām āpatantīṃ vegena vikrāntām aśanīm iva_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.24 (darśayañ śabdavedhitvam — Sound-Guided Archery)**
+
+Since Tāṭakā is invisible, Rāma displays _śabdavedhitva_—targeting an unseen foe solely from sound (शब्दमात्रेण लक्ष्यं सम्यगनुमाय वेधकर्तृत्वसाम्यं दर्शयन्, **Tilaka**; श्रूयमाणः शब्दो यस्मादुत्पन्नः तद्वेधित्वम्, **Govindarāja**, **Śiromaṇi**)—and hems her in with a net of arrows.
+
+_____________
+
+**26.25–26a (abhidudrāva & śareṇorasi vivyādha)**
+
+Finding her invisibility neutralized by Rāma’s arrow-net (अप्रयोजकमन्तर्धानं विहायेत्यर्थः, **Govindarāja**, **Tilaka**), Tāṭakā charges roaring with the speed of a hurled thunderbolt (विक्रान्तां प्रक्षिप्तामशनीं वज्रमिव, **Śiromaṇi**). Rāma pierces her chest with a single shaft, and she falls dead. **Śiromaṇi** adds a _citra_-gloss on _mamāra_: touched by Rāma’s shaft, she attained Śiva’s abode and liberation (तद्देशं प्राप्य शिवसंनिधावपतदित्यर्थः)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1310,6 +1412,14 @@ have highly esteemed Rama saying, admirable, admirable is this act. [1-26-26b,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He pierced her in the chest with a single arrow, and she fell to the earth and died (_śareṇorasi vivyādha sā papāta mamāra ca_). Beholding that demoness of dreadful aspect slain, the lord of the gods (Indra) then—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.26b–28 (surapatis tadā & sendrāḥ sarve marudgaṇāḥ)**
+
+Beholding the dread Yakṣī slain before dusk, Thousand-Eyed Indra and the Marut hosts acclaim Rāma with cries of “Well done! Well done!” (साधु साध्विति) and tell Viśvāmitra that all the gods are deeply gratified by this deed (सेन्द्राः सर्वे मरुद्गणाः तोषिताः कर्मणानेन).
 </details>
 </details>
 
@@ -1455,6 +1565,14 @@ weaponry and their birth, c.f. 21st sarga/chapter, verse 10 to 20.
 
 Have been deeply gratified by this deed; show your affectionate favor toward Rāghava (_toṣitāḥ karmaṇānena snehaṃ darśaya rāghave_)! The sons of Prajāpati Kṛśāśva, endowed with unfailing valor (_prajāpateḥ kṛśāśvasya putrān satyaparākramān_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.29–30 (prajāpateḥ kṛśāśvasya putrān & pātrabhūtaś ca te)**
+
+Urging Viśvāmitra to show his affection toward Rāma (स्नेहं दर्शय राघवे = स्नेहमूलं व्यापारं प्रवर्तय, **Tilaka**, **Govindarāja**), the gods ask him to bestow the personified missiles—the sons of Prajāpati Kṛśāśva, sustained by ascetic potency, knowledge, and strength (तपोबलभृतः = तपोबलेन पोषकान्, **Śiromaṇi**; “filled with penance, knowledge, and strength,” **Tilaka**)—upon Rāma, who is a worthy vessel devoted to serving his guru (अनुगमने शुश्रूषणे दृढनिश्चयः, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1556,6 +1674,14 @@ to heavens, and then the sunset has come to pass. [1-26-31b, 32a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A mighty task on behalf of the gods must be accomplished by this king’s son (_kartavyaṃ sumahat karma surāṇāṃ rājasūnunā_)!” Having spoken thus, all the gods departed joyfully into the sky (_evam uktvā surāḥ sarve jagmur hṛṣṭā vihāyasam_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.31–33 (kartavyaṃ sumahat karma & mūrdhni rāmam upāghrāya)**
+
+Before departing, the gods remind Viśvāmitra that a mighty task for the celestials (सुराणां सुमहत् कर्म) awaits this prince. As twilight falls, the delighted sage smells Rāma’s crown (मूर्ध्नि राममुपाघ्राय) in paternal blessing and invites him to pass the night in the liberated forest.
 </details>
 </details>
 
@@ -1700,6 +1826,14 @@ that night there in that forest of Tataka. [1-26-34]
 
 Tomorrow at daybreak we shall proceed to that hermitage of mine (_śvaḥ prabhāte gamiṣyāmas tad āśramapadaṃ mama_).” Hearing the words of Viśvāmitra, the son of Daśaratha rejoiced (_viśvāmitravacaḥ śrutvā hṛṣṭo daśarathātmajaḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.34–35 (muktaśāpaṃ vanaṃ tac ca & caitrarathaṃ vanam)**
+
+Commentators gloss _muktaśāpam_ in two ways: freed from its plague of terror (अपगतोपद्रवम्, **Tilaka**, **Govindarāja**), or freed from the curse-transformed Tāṭakā (क्रुद्धशापया ताटकया मुक्तम्, **Tilaka**), who by the touch of Rāma’s arrow regained her Yakṣī form (रामबाणस्पर्शेन स्वस्वरूपं प्राप्ता, **Śiromaṇi**). That very day and instant (तस्मिन्नेव तदाहनि, **Govindarāja**), the forest shone like Kubera’s celestial pleasure-grove _Caitraratha_ (**Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1810,6 +1944,14 @@ only to be awakened by the next day's sunrise. [1-26-36]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having slain that daughter of a Yakṣa, Rāma, praised by hosts of gods and Siddhas (_praśasyamānaḥ surasiddhasaṅghaiḥ_), dwelt in that forest together with the sage, until at the hour of daybreak he was gently awakened by him (_prabhātavelāṃ pratibodhyamānaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.36 (prabhātavelāṃ pratibodhyamānaḥ)**
+
+Praised by Siddhas and gods, Rāma rests peacefully beside the sage in the grove until gently awakened at dawn (कौसल्या सुप्रजा राम इत्येवं प्रबोधितोऽभूदित्यर्थः, **Govindarāja**).
 </details>
 </details>
 

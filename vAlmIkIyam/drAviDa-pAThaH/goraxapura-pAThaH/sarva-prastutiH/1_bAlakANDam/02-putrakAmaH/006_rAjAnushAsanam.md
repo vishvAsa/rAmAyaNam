@@ -156,6 +156,80 @@ He who is well-versed in Veda-s, who is a gatherer of all scholars, riches and
 
 **4:** Just as Manu Vaivasvata of mighty splendor was the protector of the world, even so was King Daśaratha the protector of the world.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1. Transition from Sacred Space to Sacred Sovereign (गो० टी० on 1.6.1)**
+
+$19
+
+_____________
+
+**1. The Tenfold Kuṭumbī and the Smṛti Definition of Kadarya (गो० टी०, ति० टी०, रा० टी० on 1.6.7–8)**
+
+$22
+
+_____________
+
+**1. Restraint in Pratigraha and Removal of Redundancy (ति० टी०, गो० टी०, रा० टी० on 1.6.13–15)**
+
+$28
+
+_____________
+
+**1. Harmonious Hierarchy of the Four Varṇas (ति० टी०, रा० टी०, गो० टी० on 1.6.19–20)**
+
+Verse 19 summarizes the organic harmony of the social order in Ayodhyā: the warrior class (क्षत्रम्) took the Brāhmaṇas as their head and authority (ब्रह्ममुखम् = ब्राह्मणप्रधानम्, तदाज्ञावर्ति), the Vaiśyas followed the Kṣatriyas (क्षत्रमनुव्रताः), and the Śūdras found fulfillment in their own Dharma through service to the three orders (त्रीन् वर्णानुपचारिणः). Verse 20 closes the section on the citizens (`1.6.6–20`) by reiterating that this entire civic felicity was the direct result of Daśaratha's protection (एतत्सर्वं दशरथपालनकृतमित्याह, गो० टी०), matching the primordial reign of Manu Vaivasvata.
+
+_____________
+
+**1. The Classical Gaja-śāstra Taxonomy of Seven Elephant Breeds (ति० टी०, रा० टी०, गो० टी० on 1.6.25)**
+
+$32
+
+_____________
+
+**2. The Military and Ritual Stature of an Atiratha and Rājarṣi (ति० टी०, रा० टी०, गो० टी० on 1.6.2–5)**
+
+$1c
+
+_____________
+
+**2. Innate Disposition (Śīla) and Righteous Conduct (Vṛtta) (गो० टी० & रा० टी० on 1.6.9)**
+
+In `1.6.9cd` (मुदिताः शीलवृत्ताभ्यां महर्षय इवामलाः), Govindarāja distinguishes शील (noble inner nature, सत्स्वभावः) from वृत्त (outward righteous conduct, आचारः), citing _Amarakośa_, and offers a second gloss of मुदिताः as उदिताः, उत्पन्नाः (`born with innate virtue and conduct'). _Śiromaṇi_ explains अमलाः as मलसम्बन्धशून्याः (free from the taints of passion and deceit, like Vasiṣṭha and the Maharṣis).
+
+_____________
+
+**2. How All Four Varṇas Share in Worship, Charity, and Valor (गो० टी० on 1.6.17–18)**
+
+$2b
+
+_____________
+
+**2. The Fourfold Military Wealth: Warriors, Horses, and the Eight Directional Elephants (ति० टी०, रा० टी०, गो० टी० on 1.6.21–24)**
+
+$2e
+
+_____________
+
+**2. `Satyānāmā' (True to Her Name) and the Esoteric Etymology of Ayodhyā (ति० टी०, रा० टी०, गो० टी० on 1.6.26–28)**
+
+$35
+
+_____________
+
+**3. The Causal Chain of Civic Virtue (रा० टी० & गो० टी० on 1.6.6)**
+
+$1f
+
+_____________
+
+**3. Royal Prosperity, Ritual Purity of Food, and Agnyādhāna (ति० टी०, रा० टी०, गो० टी० on 1.6.10–12)**
+
+$25
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

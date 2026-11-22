@@ -105,6 +105,14 @@ have started to denounce Trishanku. [1-58-2]
 
 **2:** “You have been refused, O foolish-minded one (_durmedho_), by your truth-speaking preceptor (_guruṇā satyavādinā_)! How is it that, transgressing him (_taṃ samatikramya_), you have resorted to another branch (_śākhāntaram upeyivān_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.1–2 (krodhasamanvitam & śākhāntaram)**
+
+**Rāma Varmā (_Tilaka_)**, **Govindarāja (_Bhūṣaṇa_)**, and **Śiromaṇi** construe _krodhasamanvitam_ as qualifying _ṛṣiputraśatam_ (the hundred sons filled with anger at Triśaṅku’s request), while **Govindarāja** notes that this Sarga shows the bitter fruit suffered by those who forsake their guru (_gurutyāgināṃ phalaṃ darśayitum_). In v. 2, **Tilaka** glosses _śākhāntaram_ as another protector through sacrificial officiating (_yājanādinā rakṣakāntaram_), and **Govindarāja** and **Śiromaṇi** gloss it as another refuge (_āśrayāntaram_)—likening one who leaves his root preceptor for his sons to a man forsaking a tree’s trunk for a side branch.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -150,6 +158,14 @@ the word of advise of such a veracious Priest. [1-58-3]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For all the Ikṣvākus, indeed, the royal chaplain is the supreme refuge (_purodhāḥ paramā gatiḥ_); and the word of that speaker of truth cannot be transgressed (_na cātikramituṃ śakyam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.3–4 (purodhāḥ paramā gatiḥ & sovāca)**
+
+Showing the impropriety of bypassing Vasiṣṭha (_tadatikramasyānaucityam_, **Śiromaṇi**), the sons declare that for all Ikṣvākus the royal chaplain is the supreme refuge (_paramā gatiḥ_, SR/**Tilaka**; _paramo guruḥ_, **Śiromaṇi**). On _sovāca_ in v. 4a, **Tilaka** defends the _visarga_-elision via Pāṇini 6.1.134 (_‘so ’ci lope cet’ iti sādhu_).
 </details>
 </details>
 
@@ -249,6 +265,14 @@ are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta
 
 “You are childishly ignorant (_bāliśas tvam_), O best of men! Return again to your own city (_gamyatāṃ svapuraṃ punaḥ_). The revered sage, O lord of earth, is capable of officiating at sacrifices even for all three worlds (_yājane bhagavān śaktas trailokyasyāpi_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.5 (bāliśaḥ & trailokyasyāpi yājane)**
+
+**Tilaka** glosses _bāliśaḥ_ as ignorant (_ajñaḥ_), **Govindarāja** glosses it as _mūrkhaḥ_ citing _Amarakośa_ (_‘mūḍhajālmabāliśāḥ’ ity amaraḥ_), and **Śiromaṇi** explains it as lacking sound judgment (_samīcīnavicārayogyamatyabhāvavān_). Since Vasiṣṭha can officiate even for the three worlds (_trailokyasyāpi siddhyarthaṃ yājane_, **Tilaka**), his refusal proves the rite is intrinsically impossible.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -323,6 +347,14 @@ safety betide you.' So Trishanku bade farewell to the sons of Vashishta, but... 
 **6:** “How could we dare to show disrespect to him (_avamānaṃ kathaṃ kartuṃ tasya śakṣyāmahe vayam_)?” Hearing those words of theirs, whose syllables were agitated with wrath (_krodhaparyākulākṣaram_),
 
 **7:** the king once again spoke these words to them: “Having been refused by the revered preceptor (_pratyākhyāto bhagavatā_) and likewise by the preceptor’s sons (_guruputrais tathaiva hi_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.6–8 (avamānam & ghorābhisaṃhitam)**
+
+**Tilaka** and **Govindarāja** explain that attempting to accomplish an end declared impossible by Vasiṣṭha (_tenāsādhyatayoktārthasya sādhanarūpam_) would constitute direct disrespect (_avamānam_) toward him. When Triśaṅku replies that he will seek another refuge (_anyāṃ gatiṃ yājakāntaram_, **Tilaka**, **Govindarāja**), the commentators explain why his seemingly polite farewell (_svasti vo ’stu_) is described as _ghorābhisaṃhitam_ (harboring a dreadful intent): spurning one’s hereditary _kulaguru_—Brahmā’s own son Vasiṣṭha—to hire a rival priest carries a heinous, transgressive intent (_kulaguror atikrameṇānyāśrayasya kutsitatvāt tadabhiprāyasya ghoratvam_, **Tilaka**; **Govindarāja**).
 </details>
 </details>
 
@@ -412,6 +444,14 @@ elapsed into day then the king lapsed into a state of basely profaner. [1-58-9b,
 
 **9:** filled with supreme wrath (_paramasaṃkruddhāḥ_), cursed him: “You shall pass into the state of a Caṇḍāla (_caṇḍālatvaṃ gamiṣyasi_)!” Having spoken thus, those high-souled ones entered each his own hermitage (_viviśuḥ svaṃ svam āśramam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.9 (caṇḍālatvaṃ gamiṣyasi & svaṃ svam āśramam)**
+
+Enraged by his defiance, Vasiṣṭha’s sons curse him to become a Caṇḍāla and immediately withdraw into their hermitages. **Tilaka** explains their abrupt departure: even looking upon such a grievous offender generates sin (_tādṛśapāpiṣṭhadarśanasya pāpajanakatvāt svasvāśramapraveśas teṣām_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -469,6 +509,14 @@ which were regal emollients, and his royal jewellery is now rendered into iron a
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, when the night had passed away (_rātryāṃ vyatītāyām_), the king passed into the condition of a Caṇḍāla (_rājā caṇḍālatāṃ gataḥ_): a dark-complexioned man clad in dark blue garments (_nīlavastradharo nīlaḥ_), rough-limbed and with cropped, disheveled hair (_puruṣo dhvastamūrdhajaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.10 (caṇḍālatāṃ gataḥ & paruṣo dhvastamūrdhajaḥ)**
+
+**Govindarāja** vividly details the overnight metamorphosis: his sacred thread (_yajñopavītam_) turned into a dog-leash (_śvabandhanarajjuḥ_), his yellow silk waist-garment became a dark blue Caṇḍāla cloth (_nīlavastradharaḥ_), and his royal lustre turned black (_nīlaḥ_). Reading _paruṣaḥ_, **Tilaka** and **Govindarāja** gloss it as rough-limbed (_rūkṣāṅgaḥ_), and _dhvastamūrdhajaḥ_ as having cropped hair (_hrasvakeśaḥ_).
 </details>
 </details>
 
@@ -544,6 +592,14 @@ the ascetically prosperous Vishvamitra. [1-58-12b, 13a]
 **11:** Wearing garlands and body-unguent from the cremation ground (_cityamālyāṅgarāgaś ca_), he came to wear ornaments of iron (_āyasābharaṇo ’bhavat_). Seeing him in the form of a Caṇḍāla and abandoning him (_tyajya caṇḍālarūpiṇam_), all his ministers (_mantriṇaḥ sarve_),
 
 **12:** together with the citizens who had followed him (_paurā ye ’syānugāminaḥ_), fled away in haste (_prādravan sahitāḥ_), O Rāma. Alone, indeed, O Kākutstha, did the king, possessed of supreme fortitude (_paramātmavān_), depart,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.11–12 (cityamālyāṅgarāgaḥ & paramātmavān)**
+
+**Tilaka** and **Govindarāja** derive _cityam_ from _citā_ (cremation ground, _śmaśānam_), explaining that Triśaṅku wore garlands gathered from funeral pyres, smeared his limbs with cremation-ground ashes (_citābhasmarūpo ’ṅgarāgaḥ_), and wore iron ornaments (_ayasvikāra āyasaṃ tadābharaṇaḥ_). Forsaken by his ministers and citizens—who fled in terror to other lands (_bhītāḥ drutaṃ deśāntaram agacchan_, **Śiromaṇi**)—the king remained _paramātmavān_, endowed with unshakable fortitude (_dhīraḥ_, **Tilaka**; _paramadhṛtimān_, **Govindarāja**).
 </details>
 </details>
 
@@ -638,6 +694,20 @@ you are accurst to the state of profaner.' [1-58-15b, 16a]
 
 **15:** spoke these words to the king of dreadful appearance (_rājānaṃ ghoradarśanam_): “Blessings be upon you (_bhadraṃ te_)! What is the purpose of your coming (_kim āgamanakāryaṃ te_), O mighty prince (_rājaputra mahābala_),”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.13–14 (viphalīkṛtam & kāruṇyam āgataḥ)**
+
+**Tilaka** glosses _dahyamānaḥ_ as burning with inner sorrow (_antar duḥkhena_), and perceptively explains why Viśvāmitra felt immediate compassion upon seeing the king _viphalīkṛtam_: because Vasiṣṭha was his rival (_vasiṣṭhavairitvāt_), Viśvāmitra pitied a monarch whose worldly and otherworldly aims had been ruined by Vasiṣṭha and his sons (_vasiṣṭhatatputrair nāśitaihikāmuṣmikakāryam_).
+
+_____________
+
+**58.15 (bhadraṃ te & kim āgamanakāryam)**
+
+Why does the narrator Śatānanda insert _bhadraṃ te_ (“Blessings upon you!”) here? **Govindarāja** explains that Śatānanda soothes Rāma lest the prince grow angry hearing of this humiliation of his own Ikṣvāku ancestor (_svavaṃśāvamānaprakaṭanena rāmasya kopo bhaviṣyatīti sāntvayati_). **Śiromaṇi** notes that by addressing the disguised Caṇḍāla as prince of Ayodhyā, Viśvāmitra shows he already knew of the curse through his yogic vision (_triśaṅkuśāpaḥ pūrvam eva viśvāmitreṇa jñāta iti dhvanitam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -691,6 +761,14 @@ maker spoke this sentence with his palms adjoined to the sententious sage Vishva
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O heroic lord of Ayodhyā (_ayodhyādhipate vīra_), who have fallen into the state of a Caṇḍāla through a curse (_śāpāc caṇḍālatāṃ gataḥ_)?” Then, hearing those words, the king who had been reduced to a Caṇḍāla,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.16–18 (viparyayaḥ & saumyadarśana)**
+
+On _viparyayaḥ_ in v. 18, **Tilaka** explains that Triśaṅku suffered not merely the non-fulfillment of his wish (_kāmam anavāpya_), but its catastrophic opposite—loss of caste and grotesque disfigurement (_jātibhraṃśa evaṃveṣarūpaḥ_; _viparītaprayojano dehaviśeṣaḥ_, **Govindarāja**). While **Tilaka** and **Śiromaṇi** take _saumyadarśana_ as a vocative (“O sage of gentle aspect!”), **Govindarāja** splits it into _saumya_ and _darśanam_ (“my resolve, _buddhiḥ_, was to ascend bodily to heaven”).
 </details>
 </details>
 
@@ -839,6 +917,14 @@ would not save liars...'
 
 “A hundred sacrifices have been offered by me (_mayā ceṣṭaṃ kratuśatam_), yet their fruit is not obtained (_tac ca nāvāpyate phalam_). Never before have I spoken an untruth (_anṛtaṃ noktapūrvaṃ me_), nor shall I ever speak one,
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.19 (iṣṭaṃ kratuśatam & anṛtaṃ noktapūrvam)**
+
+How does _iṣṭaṃ kratuśatam_ (v. 19) differ from _yajñair bahuvidhair iṣṭam_ (v. 20)? **Govindarāja** offers two solutions: either the hundred sacrifices of v. 19 failed to yield bodily heaven (_kratuśataphalaṃ saśarīrasvargaḥ_) while v. 20 refers to obligatory rites (_nityakarma_); or _iṣṭam_ in v. 19 means “undertaken to be performed” (_yaṣṭum upakrāntam_; cf. **Śiromaṇi** _madicchāviṣayībhūtam_). Citing _yajño ’nṛtena kṣarati_ (“a sacrifice perishes through untruth”), **Govindarāja** notes that Triśaṅku attests his truthfulness to prove no falsehood annulled his rites.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -940,6 +1026,20 @@ Destiny is the ultimate course, isn't it? [1-58-22b, 23a]
 
 **22:** “my preceptors do not attain satisfaction (_paritoṣaṃ na gacchanti guravaḥ_), O bull among sages! Therefore I deem destiny alone to be supreme (_daivam eva paraṃ manye_), and human exertion to be in vain (_pauruṣaṃ tu nirarthakam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.20 (kṛcchreṣv api gataḥ & kṣatradharmeṇa te śape)**
+
+Even in dire calamities (_āpadgato ’pi_), Triśaṅku vows never to speak falsely, swearing with his Kṣatriya code as witness (_kṣatradharmeṇa tatsākṣitayā_, **Tilaka**, **Govindarāja**).
+
+_____________
+
+**58.21–22 (daivam eva param vs. pauruṣaṃ tu nirarthakam)**
+
+Though Triśaṅku has gratified his elders with noble conduct (_śīlaṃ sadguṇaḥ vṛttam uttamācāraḥ_, **Tilaka**; _sadācāraḥ_, **Govindarāja**), his preceptors were not pleased (_na gacchanti na gacchanti sma_, past sense, **Tilaka**). Hence he concludes that _daivam_—unseen fructifying past karma (_prārabdhaphalam adṛṣṭam_, **Tilaka**, **Govindarāja**)—is supreme in bringing weal and woe, whereas _pauruṣam_—present righteous exertion (_idānīntanadharmānuṣṭhānam_)—is powerless to override past destiny (_prārabdhakarmatiraskārānarham_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -987,6 +1087,14 @@ apt of you to accord, you be safe, your favour upon me. [1-58-23b, c]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Everything is overpowered by destiny (_daivenākramyate sarvam_); destiny, indeed, is the supreme arbiter (_daivaṃ hi paramā gatiḥ_)! Unto me, thus supremely afflicted (_tasya me paramārtasya_), whose righteous endeavours have been struck down by fate (_daivopahatakarmaṇaḥ_), and who long for your grace (_prasādam abhikāṅkṣataḥ_), you ought to grant favour (_kartum arhasi_)—blessings be upon you!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.23 (daivenākramyate sarvam & prasādam)**
+
+Everything is overwhelmed (_ākramyate abhibhūyate_, **Tilaka**, **Govindarāja**) by fate. With his present ritual undertaking thwarted by destiny (_daivenopahataṃ tiraskṛtam idam anuṣṭhīyamānaṃ karma yasya_, **Tilaka**), Triśaṅku implores Viśvāmitra for _prasādam_—grace capable of rendering hostile fate favorable (_daivānukūlyasamarthaṃ tvadīyaṃ prasādam_, **Tilaka**, **Govindarāja**).
 </details>
 </details>
 
@@ -1054,6 +1162,14 @@ grace of Vishvamitra..." So said Sage Shataananda to Rama and others continuing 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I shall resort to no other refuge (_nānyāṃ gatiṃ gamiṣyāmi_); no other shelter exists for me (_nānyac charaṇam asti me_). You ought to turn back my adverse destiny by your heroic exertion (_daivaṃ puruṣakāreṇa nivartayitum arhasi_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**58.24 (daivaṃ puruṣakāreṇa nivartayitum arhasi)**
+
+Why does Triśaṅku call _pauruṣam_ futile in v. 22 yet ask Viśvāmitra to reverse _daivam_ through _puruṣakāra_ here? While ordinary human effort cannot overcome adverse fate, Viśvāmitra’s sovereign ascetic heroism (_svapauruṣeṇa_, **Śiromaṇi**; _svaprasādarūpānukūlyakaraṇena_, **Govindarāja**) can turn back destiny itself.
 </details>
 </details>
 

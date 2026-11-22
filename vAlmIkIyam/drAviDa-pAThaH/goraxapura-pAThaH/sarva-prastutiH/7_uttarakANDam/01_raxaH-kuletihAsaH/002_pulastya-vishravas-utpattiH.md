@@ -83,6 +83,116 @@ Hearing those words of the high-souled Rāghava (_rāghavasya mahātmanaḥ_), t
 
 “Hear, O Rāma, the true account of his mighty fiery strength (_kathā-vṛttaṃ tasya tejo-balaṃ mahat_), by which he slew his foes (_jaghāna śatrūn_) and could not be slain by enemies (_na ca vadhyaḥ sa śatrubhiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.2.1–2 (Agastya Launches the Paulastya Chronicle)**
+
+**Rāma Varmā** (_Tilaka_) frames Sarga 2 as a necessary genealogical prelude: to account for the origins of Rāvaṇa and Indrajit, Agastya first narrates the origin of their forefather Pulastya (अथ रावणाद्युत्पत्तिशेषतया तत्कुलस्थपौलस्त्योत्पत्तिमाह). **Śivasahāya** (_Śiromaṇi_) construes 7.2.2 smoothly as a single relative clause: ‘Hear as it truly happened that great fiery power by which Indrajit slew his foes and remained invulnerable to enemies’ (येन तेजोबलेन असौ इन्द्रजित् शत्रून् जघान स्वयं च शत्रुभिरवध्यः). Both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) clarify that असौ points specifically to Rāvaṇi, whose invincibility is the cause Rāma must hear (तत्कारणं शृण्विति संबन्धः).
+
+_____________
+
+**7.2.3–4 (From Rāvaṇa’s Lineage to Pulastya in the Kṛta Age)**
+
+Why does Agastya begin with Rāvaṇa when Rāma asked about Indrajit? All three commentators highlight the adverb तावत् (‘first’) in 7.2.3: **Rāma Varmā** and **Govindarāja** explain that Agastya first expounds Rāvaṇa’s lineage, birth, and boons, reserving Indrajit’s account for afterward (तावत्प्रथमं रावणस्य कुलादि ब्रवीमि पश्चाद्रावणेश्च वक्ष्यामीति शेषः). Opening the genealogy in the golden Kṛta age, both Tilaka and Bhūṣaṇa identify Pulastya as one of the ten Prajāpatis (दशप्रजापतिष्वेकः). While Govindarāja glosses पितामह इव simply as ‘like his father Brahmā’ (पितृसदृश इत्यर्थः), Rāma Varmā specifies the exact likeness: his ascetic power to punish and bestow grace (तपोवैभवजनितनिग्रहानुग्रहसामर्थ्यैरिति भावः).
+
+_____________
+
+**7.2.5–6 (Ineffable Virtues and Universal Esteem)**
+
+Explaining the striking claim of 7.2.5, **Rāma Varmā** observes that Pulastya’s virtues of righteousness and character cannot be enumerated exhaustively (वर्णयितुमशक्यत्वात्); therefore, merely declaring his identity as Prajāpati’s son implies his possession of boundless auspicious qualities. **Śivasahāya** offers a complementary interpretation: Pulastya’s virtues are not merely known by external report (अनुकीर्त्या कथनेनैव न ज्ञायन्ते), for they shine forth of their own accord (स्वत एव प्रकटिताः), and the mere utterance of his name reveals him as Prajāpati’s son. On 7.2.6, Śivasahāya paraphrases Pulastya’s standing as dear to the entire world (सर्वस्य लोकस्य च वल्लभः प्रियः), bridging into his austerities upon Mount Meru.
+
+_____________
+
+**7.2.7–8 (Pulastya’s Penance at Tṛṇabindu’s Hermitage)**
+
+Moving from Pulastya’s birth to his ascetic discipline, **Govindarāja** (_Bhūṣaṇa_) glosses धर्मप्रसङ्गेन in 7.2.7 as ‘out of desire to accomplish austerity’ (तपःसंपादनेच्छयेत्यर्थः), noting that Tṛṇabindu is the name of a sage (तृणबिन्दुर्नाम ऋषिः). **Śivasahāya** (_Śiromaṇi_) similarly renders धर्मप्रसङ्गेन as ‘devotion to austerity’ (तपआसक्त्या) at the hermitage standing upon Meru’s flank. On 7.2.8, **Rāma Varmā** (_Tilaka_) thoughtfully exonerates the visiting maidens of malice: they caused distraction (विघ्नं कुर्वन्ति) merely by coming into that quiet precinct, not out of deliberate intent to ruin his penance (तत्रागमनमात्रेण न तु बुद्धिपूर्वम्).
+
+_____________
+
+**7.2.9–11 (The All-Season Grove and Innocent Distraction)**
+
+Explaining why celestial, nāga, and royal-sage maidens flocked there daily, **Śivasahāya** notes that 7.2.10 supplies the cause of their arrival (तत्रागमने हेतुं वदन्नाह): the forest remained inviting in every season. Both **Rāma Varmā** and **Govindarāja** gloss तं देशम् (‘that place’) specifically as the hermitage grounds (आश्रमपदम्). On the three-line verse 7.2.11—which Śivasahāya construes as a single syntactic unit (सार्धश्लोक एकान्वयी)—Rāma Varmā clarifies the maidens’ pastimes: वादयन्त्यः implies playing lutes and other instruments (वीणादिकमिति शेषः), while लासयन्त्यः means dancing gracefully (नृत्यन्त्यः), innocently disrupting (तपोविघातम्) Pulastya’s focus.
+
+_____________
+
+**7.2.12 (The Sage’s Curse of Conception)**
+
+Driven beyond endurance by the recurring interruption of his Vedic study, the fiery sage utters a solemn decree in 7.2.12. **Śivasahāya** marks the sequence directly: immediately following the disruption of his austerity (अथ तपोविघातानन्तरम्), the angered Pulastya proclaimed that whichever maiden came within his field of vision would instantly conceive (या मम दर्शनमागच्छेत् सा गर्भं धारयिष्यति). Remarkably, rather than cursing the innocent maidens with death or disfigurement, Pulastya invokes a strictly deterrent, generative curse—one that will unexpectedly become the providential instrument through which the Paulastya line continues through Viśravas.
+
+_____________
+
+**7.2.13–15 (Unaware of the Curse During Vedic Recitation)**
+
+On the dramatic irony of 7.2.13–14, **Rāma Varmā** (_Tilaka_) glosses तत् as the curse-pronouncement (शापवाक्यम्) and clarifies that the present tense न शृणोति bears past meaning (न शुश्राव). **Śivasahāya** (_Śiromaṇi_) concurs (नाशृणोत्), construing 7.2.13ef–14 as a single unit (सार्धश्लोक एकान्वयी): precisely because she had not heard Pulastya’s warning, she strolled fearlessly (सुनिर्भया सती) into his deserted grove. On 7.2.15, all three commentators gloss स्वाध्यायम् as Vedic study or recitation (वेदाध्ययनम्; **Govindarāja**: वेदमपठदित्यर्थः), while Śivasahāya renders तपसा भावितः as ‘illumined by austerity’ (प्रकाशितः).
+
+_____________
+
+**7.2.16 (Instantaneous Conception at the Sound of the Veda)**
+
+All three commentators explain why Tṛṇabindu’s daughter drew near Pulastya in 7.2.16: hearing the resonant Vedic chant (वेदध्वनिं श्रुत्वा), she approached out of innocent curiosity to see who was reciting (कोऽधीत इति गत्वा; Śivasahāya: उच्चारयितृनिश्चयार्थमवलोक्य). The moment she entered his sight, the Brahmarṣi’s curse took immediate physical effect. Rāma Varmā and Govindarāja gloss पाण्डुदेहा as turning pale from sudden pregnancy (गर्भोत्पत्त्या, गर्भिणीत्वात्), and unpack सुव्यञ्जितशरीरजा as ‘she in whom the body-born fetus became unmistakably manifest’ (शरीराज्जायत इति शरीरजो गर्भः सुप्रकाशितो यस्याः सा).
+
+_____________
+
+**7.2.17–18 (Dismay and a Father’s Grave Question)**
+
+Bewildered by the inexplicable change in her frame, the maiden returns in distress to her father. **Rāma Varmā** glosses तद्दोषम् in 7.2.17 as ‘that blemish consisting in sudden pregnancy’ (गर्भसंभवरूपदोषम्), while **Govindarāja** interprets इदं मे किन्त्विति ज्ञात्वा as reflecting in puzzlement upon what could have caused it (गर्भकारणमिदं किन्त्विति ज्ञात्वेत्यर्थः). When Tṛṇabindu confronts her in 7.2.18, Rāma Varmā glosses असदृशम् as ‘unbecoming of maidenhood’ (कन्यात्वस्यायुक्तम्), and **Śivasahāya** adds ‘unworthy of your noble lineage—a pregnant form during maidenhood’ (स्वकुलायोग्यमेतत् कन्यात्वसमये गर्भयुक्तम्).
+
+_____________
+
+**7.2.19–21 (The Maiden’s Candid Confession)**
+
+Far from concealing her movements, Tṛṇabindu’s daughter responds with filial candor and distress (_dīnā_). **Śivasahāya** (_Śiromaṇi_) observes that in 7.2.20–21 she recounts her exact actions so that her father may discern the unseen cause (कारणज्ञानार्थं स्ववृत्तमाह): she had gone alone to Pulastya’s sacred hermitage solely to look for her friends. **Rāma Varmā** (_Tilaka_) glosses पूर्वं गता as ‘went earlier’ (प्रथमं गता), while Śivasahāya explicitly normalizes her vivid present-tense verb न पश्यामि in 7.2.21 as past (नापश्यम्), underscoring her terrified rush home upon witnessing her body’s transformation (_rūpasya viparyāsam_).
+
+_____________
+
+**7.2.22 (Yogic Insight Into the Unseen Cause)**
+
+Rather than reacting in rash anger, the royal sage Tṛṇabindu exemplifies disciplined spiritual discernment. Radiant with accumulated penance (_tapasā dyotita-prabhaḥ_), he enters deep yogic contemplation (ध्यानं विवेश) to inspect the truth directly. **Rāma Varmā** glosses the pronoun तच्चापि as ‘that too, namely the cause of her pregnancy’ (गर्भकारणमित्यर्थः). **Śivasahāya** expands ऋषिकर्मजम् precisely as ‘arisen from Pulastya’s curse’ (तद्गर्भम् ऋषिकर्मजं पुलस्त्यशापसमुद्भूतम् अपश्यत् अजानात्), confirming that his daughter remained completely blameless and that the child belonged strictly to Pulastya’s ascetic potency.
+
+_____________
+
+**7.2.23 (Taking Responsibility With Dharma and Tact)**
+
+Once Tṛṇabindu perceives the truth in meditation, he acts immediately and without resentment toward the Brahmarṣi. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) clarify the streamlined sequence of gerunds in 7.2.23cd (तनयां गृहीत्वा पुलस्त्यं गत्वेत्यन्वयः): taking his daughter by the hand, he personally escorts her straight to Pulastya’s hermitage. By refraining from counter-cursing or rebuking the elder sage and instead approaching him with dignified humility, Tṛṇabindu transforms an accidental breach into an auspicious alliance that will honor both families.
+
+_____________
+
+**7.2.24 (The Unsolicited Alms—A Dharmaśāstra Appeal)**
+
+How can Tṛṇabindu persuade a strict celibate sage (_ūrdhvaretas_) to accept a bride? Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) identify Tṛṇabindu’s masterstroke in calling her ‘self-offered alms’ (भिक्षां ... स्वयमुद्यताम्). Anticipating Pulastya’s objection—‘How may I, a celibate ascetic, accept a woman, and what need have I of her?’ (ननूर्ध्वरेतसा मया कथं ग्राह्या)—both commentators cite _Manusmṛti_ 4.248: ‘An unsolicited alms brought of its own accord without prior announcement, Prajāpati deemed fit to accept even from a wrongdoer’ (उद्यतामाहृतां भिक्षां पुरस्तादप्रवेदिताम् । भोज्यां मेने प्रजानाथोऽपि दुष्कृतकर्मणः). Because she is offered unsought, dharma itself obliges Pulastya to accept her.
+
+_____________
+
+**7.2.25–26 (Devoted Service and the Sage’s Assent)**
+
+Having invoked the scriptural rule of unsolicited alms, Tṛṇabindu supplies the practical benefit in 7.2.25—which **Rāma Varmā** labels the fruit of acceptance (तत्प्रतिग्रहफलमाह) and **Śivasahāya** (_Śiromaṇi_) its purpose (तत्प्रयोजनमाह): she will attend tirelessly to the sage whose body grows weary from intense austerity (ते शुश्रूषणपरा भविष्यति). Persuaded both by dharma and by the royal sage’s rectitude, Pulastya—already inclined to accept the maiden (कन्यां जिघृक्षुः सन्, Śivasahāya)—gives his succinct, dignified Vedic assent: बाढम् (‘So be it!’).
+
+_____________
+
+**7.2.27–28 (Lawful Marriage and Marital Harmony)**
+
+Crucially, Tṛṇabindu does not simply leave his daughter behind: both **Rāma Varmā** and **Govindarāja** gloss यथान्यायम् (‘according to rule’) in 7.2.27 as signifying formal solemnization through the wedding rite of hand-taking (यथान्यायं पाणिग्रहणपूर्वकमिति शेषः), thereby legitimizing both the union and the unborn son. Returning to his own hermitage, Tṛṇabindu leaves her to win Pulastya’s heart completely. On 7.2.28, **Śivasahāya** notes that Pulastya grew thoroughly gratified by her inner disposition (_śīla_) and outward conduct (_vṛtta_), preparing the auspicious boon of the concluding spread.
+
+_____________
+
+**7.2.29–30a (The Boon of a Son Uniting Both Lineages)**
+
+Rewarding his wife’s faultless service, Pulastya transforms what began as an accidental curse into an explicit paternal blessing. **Śivasahāya** (_Śiromaṇi_) construes 7.2.29–30a as a single six-quarter sentence (सार्धश्लोक एकान्वयी): delighted by her abundance of virtues (गुणानां संपत्त्या), Pulastya grants her a son equal to himself (आत्मसमं स्वसदृशम्), famous as Paulastya. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) clarify the dual genitive उभयोः in 7.2.30a as denoting the lineages of both mother and father (मातुः पितुश्चेत्यर्थः), uniting Tṛṇabindu’s royal-sage house with Pulastya’s Brahmarṣi line.
+
+_____________
+
+**7.2.30b–31a (The Nirukta Etymology of ‘Viśravas’)**
+
+Giving the child his prophetic name, Pulastya offers a classic epic _nirukta_ linking _Viśravas_ directly to _viśruta_ (‘distinctly heard’). All three commentators normalize the archaic participle अध्ययतः as classical अधीयानस्य (‘while I was reciting the Veda’). Both **Rāma Varmā** and **Govindarāja** add a subtle causal link to वेदो विश्रुतः: they supply गर्भहेतुरिति शेषः—because the Veda distinctly heard by her during Pulastya’s recitation became the very occasion and seed of her conception, the child born from that sacred encounter shall be named Viśravas (विश्रवा नाम भविष्यति).
+
+_____________
+
+**7.2.31b–33 (Birth and Ascetic Stature of Viśravas)**
+
+Rejoicing in her inner heart (_prahṛṣṭenāntarātmanā_), Tṛṇabindu’s daughter soon gives birth to Viśravas, whom **Śivasahāya** links across 7.2.31c–32 as a single unit (सार्धश्लोक एकान्वयी). The closing portrait of 7.2.33 establishes Viśravas as a figure of spotless Brahminical stature—learned in Vedic lore (_śrutimān_), impartial toward all beings (_samadarśī_), steadfast in vows, and matching Pulastya himself in austerity—pointing out an _ārṣa_ hiatus (पूर्वरूपाभाव आर्षः) in his reading of 7.2.33d. This luminous origin heightens the moral tragedy to follow, as this very ascetic lineage will produce both Kubera and Rāvaṇa in the sargas ahead.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

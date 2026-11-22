@@ -89,6 +89,14 @@ On listening the narration of Vishvamitra, Rama, the delighter of Raghu's
 
 Hearing the words of Viśvāmitra at the conclusion of that episode (_kathānte_), the delight of the Raghus, supremely pleased (_paramaprītaḥ_), spoke to the sage who shone like a blazing fire (_muniṃ dīptam ivānalam_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.1–3 (kathānte & prahasann iva)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja (_Bhūṣaṇa_)** gloss _kathānte_ as “at the conclusion of the prelude concerning Sagara’s resolution to sacrifice” (_yajñopakramakathānte_). Why does Viśvāmitra smile (_prahasann iva_, “with a beaming countenance,” _vikasitavadanaḥ_) upon hearing Rāma’s question? **Tilaka** explains that the sage is delighted by Rāma’s filial curiosity regarding his own royal forebear (_svapūrvajavṛttāntatayā śravaṇakautukena rāmabhadrasyāyaṃ praśnaḥ_), while **Govindarāja** adds two further nuances: Rāma asks for the very sequel Viśvāmitra intended to tell, or the omniscient Lord asks as if unacquainted with his own dynasty’s past (_ajānann iva pṛcchatīti vā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -278,6 +286,20 @@ Oh, best one among men, Rama, that Vedic-ritual of Sagara started
 
 **5:** “—stretching toward the Vindhya mountain range, gazes upon it face to face (_vindhyaparvatam āsādya nirīkṣete parasparam_); in the sacred plain between those two ranges (_tayor madhye_), O best of men, that sacrifice took place (_samabhavad yajñaḥ sa puruṣottama_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.4–5 (nirīkṣete parasparam & Āryāvarta)**
+
+How can the dual verb _nirīkṣete_ (“the two gaze at each other”) govern singular _Himavān_ with accusative _vindhyaparvatam_? All three commentators explain that by the reciprocal force of _parasparam_, the parallel clause _vindhyo ’pi himavantam āsādya_ is supplied by _adhyāhāra_: because no rival peak obstructs the view between them (_madhye mahāparvatavirodhābhāvāt_), Himavān and Vindhya stand gazing upon one another.
+
+_____________
+
+**39.5cd (tayor madhye — The Sacred Land of Sacrifice)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** cite the canonical Smṛti definition _āryāvartaḥ puṇyabhūmir madhyaṃ vindhyahimālayoḥ_ to identify the expanse between Himavān and Vindhya as Āryāvarta.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -342,6 +364,14 @@ Details regarding the release of horse are at Bala Kanda 1-14-1
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For that region, O tiger among men, is celebrated as supremely auspicious for sacrificial rites (_sa hi deśo naravyāghra praśasto yajñakarmaṇi_). In that sacrifice, O Kākutstha, the great chariot-warrior of firm bow (_dṛḍhadhanvā mahārathaḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.6–7 (aśvacaryām & parvaṇi)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** gloss _aśvacaryām_ as following and guarding the consecrated Aśvamedha horse (_rakṣārtham aśvasamīpe ’nugamanam_). On _parvaṇi_, **Tilaka** and **Govindarāja** identify the _parvan_ as the _Ukthya_ day (_parvaṇy ukthyāhe_), **Tilaka** explaining that the Aśvamedha comprises three _Ukthya_ soma-pressing days (_aśvamedhe ukthyasaṃsthātrayam_) and that on the second day, prior to the horse’s immolation, Indra assumed an illusory demonic form (_rākṣasīṃ māyāmayīṃ tanum_, **Govindarāja**) to foil the sacrifice (_taṃ yajñaṃ vihantum_).
 </details>
 </details>
 
@@ -500,6 +530,20 @@ While that ritual-horse of the great-souled Sagara is stolen, all the
 
 **10:** “‘Slay the abductor, O Kākutstha, and let the steed be brought back at once (_hartāraṃ jahi kākutstha hayaś caivopanīyatām_)! This ritual breach in the sacrifice brings calamity upon us all (_yajñacchidraṃ bhavaty etat sarveṣām aśivāya naḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.8–9 (upādhyāyagaṇāḥ & apanīyate)**
+
+**Śiromaṇi** notes that because the officiating priests (_upādhyāyagaṇāḥ ṛtviggaṇāḥ_)—and not Aṃśumān—report the abduction, Indra’s stealth had bypassed even the vigilant prince (_aṃśumatāśvaharaṇaṃ na jñātam iti dhvanitam_). **Govindarāja** explains the present tense _apanīyate_ via Pāṇini 3.3.131 for an abduction that had just occurred in immediate proximity to the present.
+
+_____________
+
+**39.10–11 (yajñacchidram & yajño ’cchidraḥ)**
+
+**Tilaka** and **Śiromaṇi** gloss _yajñacchidram_ as a ritual obstruction (_yajñavighnaḥ_), and **Tilaka** resolves _yajñocchidraḥ_ in v. 11b as _yajño ’cchidraḥ_, while **Govindarāja** cites the _Vaijayantī_ lexicon (_chidraṃ randhrāparādhayoḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -586,6 +630,14 @@ On hearing the words of religious-teachers that king Sagara indeed
 
 **12:** “—spoke this command to his sixty thousand sons (_ṣaṣṭiṃ putrasahasrāṇi vākyam etad uvāca ha_): ‘O bulls among men, O my sons, I perceive no access for rākṣasas here (_gatiṃ putrā na paśyāmi rakṣasāṃ puruṣarṣabhāḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.12–13 (gatiṃ putrā na paśyāmi rakṣasām)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** explain Sagara’s deduction: because this great sacrifice is presided over by sages sanctified by Vedic mantras (_mantrapūtair mahābhāgair āsthito hi mahākratuḥ_), ordinary rākṣasas could never penetrate the enclosure (_ato ’tra kratau rakṣasāṃ gatiṃ na paśyāmi_); hence the steed must have been stolen by a deity in disguise (_tasmāt kenāpi devena hṛta iti tam anveṣayata_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -670,6 +722,14 @@ _________________
 
 **15:** “‘Until the steed is sighted, dig up the earth itself (_yāvat turagasaṃdarśas tāvat khanata medinīm_), tracking down that very abductor of the horse by my royal command (_tam eva hayahartāraṃ mārgamāṇā mamājñayā_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.14–15 (ekaikaṃ yojanam & khanata medinīm)**
+
+**Govindarāja** explains that the princes must first search the ocean-garlanded earth (_samudramālinīm_) systematically one _yojana_ after another (_prathamam ekaṃ yojanaṃ vicitya paścād yojanāntaram_), and if the steed is not found on the surface (**Tilaka**, **Govindarāja**, **Śiromaṇi**), they must excavate the earth itself until the horse is sighted.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -718,6 +778,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Consecrated for the sacrifice (_dīkṣitaḥ_), accompanied by my grandson Aṃśumān and the assembly of officiating preceptors (_pautrasahitaḥ sopādhyāyagaṇas tv aham_), I shall remain right here until the horse is seen (_iha sthāsyāmi yāvat turagadarśanam_); may auspiciousness attend you!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.16 (dīkṣitaḥ pautrasahitaḥ)**
+
+**Tilaka** explains why neither Sagara nor Aṃśumān joins the search: as a consecrated sacrificer (_dīkṣitaḥ_), Sagara is ritually forbidden from leaving the hall (_svasya pravāsaniṣedhāt_), while his grandson Aṃśumān is still a youth (_pautrasya bālakatvāc ca_).
 </details>
 </details>
 
@@ -842,6 +910,14 @@ But, oh, tigerly-man Rama, on going round the earth in its entirety
 
 “Having traversed the entire earth without sighting that steed (_gatvā tu pṛthivīṃ sarvām adṛṣṭvā tam_), those tigers among men of mighty strength (_puruṣavyāghrā mahābalāḥ_), with arms whose impact matched the thunderbolt (_vajrasparśasamair bhujaiḥ_), cloven the surface of the earth, each excavating a trench one _yojana_ in length and breadth (_yojanāyāmavistāram ekaiko dharaṇītalaṃ bibhiduḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.18 (yojanāyāmavistāram & vajrasparśasamair bhujaiḥ)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** gloss _āyāma_ as length (_dairghyam_) and _vistāra_ as breadth (_viśālatā_): each of the sixty thousand princes marked out and excavated a square tract of one _yojana_ by one _yojana_ (_tad dharaṇītalam ekaiko vibhajya_, **Śiromaṇi**). On _vajrasparśasamair bhujaiḥ_ (where **Govindarāja** reads _nakhaiḥ_, “with nails”), all three commentators note the _abhedopacāra_ equating the arms with their thunderbolt-like impact (_vajrasparśasadṛśasparśair bhujaiḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -888,6 +964,14 @@ Mother Earth bewailed while she is ruptured with spears also that are
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Rent asunder by tridents resembling thunderbolts (_śūlair aśanikalpaiś ca_) and by dreadful plowshares (_halaiś cāpi sudāruṇaiḥ_), the earth cried out in anguish (_bhidyamānā vasumatī nanāda_), O delight of the Raghus!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.19–20 (vasumatī nanāda & nāgānāṃ vadhyamānānām)**
+
+**Tilaka** supplies _svataḥ_ in v. 19 (“the earth herself groaned aloud as she was rent by thunderbolt-like tridents and plowshares”). **Govindarāja** notes that the Nāgas, Asuras, and Rākṣasas slain during the excavation were the denizens of the netherworld (_asurarākṣasāḥ pātālavāsinaḥ_).
 </details>
 </details>
 
@@ -994,6 +1078,14 @@ Oh, Rama, the legatee of Raghu's dynasty, thus sixty thousand square
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Across sixty thousand _yojanas_ (_yojanānāṃ sahasrāṇi ṣaṣṭiṃ tu_), O delight of the Raghus, they cloven the earth, O Rāma, right down to the peerless netherworld of Rasātala (_bibhidur dharaṇīṃ rāma rasātalam anuttamam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.21–22 (rasātalam anuttamam & parvatasaṃbādham)**
+
+**Tilaka** construes _rasātalam anuttamam_ with an implied infinitive (_anuttamaṃ rasātalaṃ vicetum iva_, “as if to search out peerless Rasātala”), while **Govindarāja** explains that they dug across sixty thousand _yojanas_ until the earth became the chasm of Pātāla itself (_rasātalaṃ pātālaṃ yathā bhavati tathā dharaṇīṃ bibhiduḥ_).
 </details>
 </details>
 
@@ -1112,6 +1204,14 @@ All the gods along with gandharva-s, asura-s, and reptiles who are
 
 “Thereupon the gods, together with the Gandharvas, Asuras, and mighty serpents (_tato devāḥ sagandharvāḥ sāsurāḥ sahapannagāḥ_), their minds bewildered with alarm (_saṃbhrāntamanasaḥ sarve_), approached the Grandfather Brahmā (_pitāmaham upāgaman_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.23–24 (sāsurāḥ sahapannagāḥ & viṣaṇṇavadanāḥ)**
+
+**Śiromaṇi** and **Govindarāja** observe that the indiscriminate excavation of all sixty thousand _yojanas_ of the earth afflicted all classes of beings alike, uniting the gods and Gandharvas with the Asuras and Pannagas (serpents of Pātāla) and driving them with pallid, dejected faces (**Śiromaṇi**) to praise and petition Pitāmaha Brahmā (**Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1208,6 +1308,14 @@ They the gods who are very highly scared, and who are chap-fallen,
 
 “‘O Lord, the entire earth is being dug up by the sons of Sagara (_bhagavan pṛthivī sarvā khanyate sagarātmajaiḥ_), and many high-souled aquatic and subterranean beings are being slain (_bahavaś ca mahātmāno vadhyante jalacāriṇaḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.25 (mahātmāno jalacāriṇaḥ vs. talavāsinaḥ)**
+
+**Tilaka** glosses _mahātmānaḥ_ as Siddhas, Gandharvas, and mighty Nāgas. In v. 25d, the Southern Recension and Baroda Critical Edition (with **Tilaka** and **Śiromaṇi**) read _vadhyante jalacāriṇaḥ_ (“aquatic beings are being slain”), whereas **Govindarāja** glosses the variant _talavāsinaḥ_ as “denizens of Rasātala.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1267,6 +1375,14 @@ They the gods who are very highly scared, and who are chap-fallen,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Crying, “This one is the destroyer of our sacrifice! By this one our horse was carried off!” (_ayaṃ yajñaharo ’smākam anenāśvo ’panīyate_), those sons of Sagara are slaughtering all creatures (_iti te sarvabhūtāni hiṃsanti sagarātmajāḥ_)!’”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**39.26 (ayaṃ yajñaharo ’smākam)**
+
+**Tilaka** and **Govindarāja** record both _yajñaharaḥ_ (“spoiler of the sacrifice”) and the _pacādi_-derivative _yajñahanaḥ_. **Tilaka** notes that _sarvabhūtāni_ includes even innocent creatures who had no connection whatever with the abduction of the horse.
 </details>
 </details>
 

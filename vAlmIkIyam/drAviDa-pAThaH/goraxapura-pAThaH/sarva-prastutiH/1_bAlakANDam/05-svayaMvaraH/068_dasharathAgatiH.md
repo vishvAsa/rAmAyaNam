@@ -86,6 +86,14 @@ so fast to loose no time. [1-68-1]
 
 Commanded by Janaka (_janakena samādiṣṭāḥ_), those envoys (_dūtās te_), their mounts wearied by the swift journey (_klāntavāhanāḥ_), spent three nights on the road (_trirātram uṣitā mārge_) and entered the city of Ayodhyā (_te ’yodhyāṃ prāviśan purīm_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.1–2 (trirātram uṣitā mārge & rājavacanād)**
+
+Riding hard until their steeds were exhausted (_klāntavāhanāḥ_), Janaka’s envoys camped for three nights along the road before entering Ayodhyā. On _rājavacanāt_, **Rāma Varmā (_Tilaka_)** and **Govindarāja** explain that by announcing King Janaka’s name at the gate (_janako ’smān iha preṣitavān iti svarājanāmasaṃkīrtanāt_), they were ushered into Daśaratha’s palace, whereas **Śiromaṇi** takes it as Daśaratha’s command to his doorkeepers to admit them.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +246,20 @@ anon... [1-68-4, 5]
 
 **5:** “King Janaka inquires after your welfare and undiminished prosperity, O great monarch (_kuśalaṃ cāvyayaṃ caiva janakas tvāṃ mahārāja pṛcchate_), together with your preceptors, family priest, and attendants (_sopādhyāyapurohitam sapuraḥsaram_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.3 (vigatasādhvasāḥ)**
+
+Why were the envoys completely free of nervousness before the mighty emperor? **Śiromaṇi** explains that because they bore Janaka’s tidings of supreme joy (_atiharṣaprāpakajanakasaṃdeśasya vaktavyatvena_), they stood fearless, while **Govindarāja** notes that Daśaratha’s serene and gracious countenance (_daśarathasantoṣajanyena_) put them at ease.
+
+_____________
+
+**68.4–5 (sāgnihotrapuraskṛtaḥ & pṛcchate)**
+
+**Tilaka** and **Govindarāja** construe _sāgnihotrapuraskṛtaḥ_ via the _āhitāgnyādi_ class (_puraskṛtāgnihotrasahitaḥ_), and explain the middle-voice _pṛcchate_ as standing for _āpṛcchate_ (“takes affectionate leave / inquires after welfare”) with prefix-ellipsis. **Govindarāja** remarks that repeating the royal name _janakaḥ_ in v. 5 emphasizes the illustrious title of the Videha house (_prakṛṣṭajanakaśabdāvismaraṇārthaḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -294,6 +316,14 @@ indorse of Kaushika... [1-68-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having inquired after your unruffled welfare (_pṛṣṭvā kuśalam avyagram_), Vaideha, the lord of Mithilā (_vaideho mithilādhipaḥ_), with the concurrence of Kauśika (_kauśikānumate_), has addressed these words to Your Majesty (_vākyaṃ bhavantam idam abravīt_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.6–7 (kauśikānumate & vimukhīkṛtāḥ)**
+
+Speaking with Viśvāmitra’s blessing (_kauśikānumate = viśvāmitrasaṃmatau satyām_, **Śiromaṇi**), Janaka recalls two facts already known across the world: that Sītā is _vīryaśulkā_ (whose bride-price is peerless valor) and that the rival kings who came to woo her proved unequal to the bow and departed humiliated (_dhanurāropaṇāsamarthā vimukhīkṛtāḥ_, **Govindarāja**).
 </details>
 </details>
 
@@ -409,6 +439,14 @@ tava pureNa nirjitaa ||* which uses only singular for Rama.
 
 “‘That very daughter of mine, O King (_seyaṃ mama sutā rājan_), has now been won by your young sons (_nirjitā tava putrakaiḥ_), who arrived here as though by providence (_yadṛcchayāgatai rājan_), led by Viśvāmitra (_viśvāmitrapuraskṛtaiḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.8 (yadṛcchayāgataiḥ & tava putrakaiḥ)**
+
+Why does Janaka say Rāma and Lakṣmaṇa came “by chance” (_yadṛcchayā_)? **Śiromaṇi** and **Govindarāja** gloss it as “by our good fortune and ripened merit” (_asmatprārabdhavaśena_ / _madbhāgadheyāt_). On the plural diminutive _putrakaiḥ_ (“by your young sons”), **Tilaka** and **Govindarāja** explain that the suffix _-ka_ highlights their tender boyhood (_bālyadyotanam_) despite their superhuman might, while the plural expresses honor toward Rāma as Janaka’s prospective son-in-law and toward both royal brothers (_jāmātṛtvādhyavasāyān mahārājakumāratvād vā pūjāyāṃ bahuvacanam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +496,14 @@ of people... [1-68-9]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Moreover, that jewel of a divine bow (_tac ca ratnaṃ dhanur divyam_) was snapped in two at its middle (_madhye bhagnam_), O mighty-armed monarch (_mahābāho_), by the high-souled Rāma (_mahātmanā rāmeṇa hi_) in the midst of a vast assembly of people (_mahatyāṃ janasaṃsadi_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.9–10 (mahatyāṃ janasaṃsadi & pratijñāṃ tartum icchāmi)**
+
+**Govindarāja** observes the precision of v. 9: calling Rāma _mahātmanā_ shows it was no conjurer’s trick (_nedam aindrajālikam_), and _mahatyāṃ janasaṃsadi_ proves it is no partial claim (_pakṣapātoktiḥ_). Janaka therefore begs Daśaratha’s formal consent so he may cross the ocean of his solemn vow (_pratijñāṃ tartum_).
 </details>
 </details>
 
@@ -561,6 +607,14 @@ to take a look at your ennobled son Rama, and Lakshmana, too... [1-68-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Accompanied by your preceptors (_sopādhyāyo_), O great monarch (_mahārāja_), and preceded by your family priest (_purohitapuraskṛtaḥ_), come swiftly (_śīghram āgaccha_)—may auspiciousness attend you (_bhadraṃ te_)! You ought to behold the two Rāghavas (_draṣṭum arhasi rāghavau_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.11–12 (putrayor ubhayor eva prītim)**
+
+Why does Janaka promise that Daśaratha will experience the joy of _both_ his sons (_putrayor ubhayor eva_)? **Tilaka** and **Govindarāja** point out the delicate foreshadowing (_dhvani_): this hints that Janaka has already resolved in his heart to bestow Urmilā upon Lakṣmaṇa alongside Sītā’s marriage to Rāma (_etena lakṣmaṇāyormilāpradānaṃ sūcitam_, **Tilaka**). **Govindarāja** also offers an alternative _ekaśeṣa_ analysis: _putrayoḥ_ = “of daughter (Sītā, your daughter-in-law) and son (Rāma)” (_putrī ca putraś ca tayoḥ_).
 </details>
 </details>
 
@@ -668,6 +722,14 @@ Thus the envoys conveyed the proposal and paused. [1-68-13]
 
 “Thus spoke the lord of the Videhas in sweet words (_evaṃ videhādhipatir madhuraṃ vākyam abravīt_), sanctioned by Viśvāmitra (_viśvāmitrābhyanujñātaḥ_) and abiding by the counsel of Śatānanda (_śatānandamate sthitaḥ_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.13 (viśvāmitrābhyanujñātaḥ śatānandamate sthitaḥ)**
+
+The envoys conclude by emphasizing that Janaka’s proposal carries the dual spiritual authority of Sage Viśvāmitra, who acts as Rāma’s guardian and sanctioned the bestowal of the bride (_abhyanujñātopāttatatkanyāpradānakṛtyaḥ_, **Tilaka**), and Sage Śatānanda, the royal preceptor of Mithilā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -715,6 +777,14 @@ and said this way to Vashishta, Vaamadeva, and to his other ministers, as well.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech of the envoys (_dūtavākyaṃ tu tac chrutvā_), the king, supremely overjoyed (_rājā paramaharṣitaḥ_), spoke thus to Vasiṣṭha, Vāmadeva, and his counselors (_vasiṣṭhaṃ vāmadevaṃ ca mantriṇaś caivam abravīt_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.14–15 (videheṣu vasaty asau)**
+
+Thrilled by the news, Daśaratha addresses Vasiṣṭha, Vāmadeva, and his ministers. **Tilaka** and **Govindarāja** explain _videheṣu_ via Pāṇini 4.2.81 (_janapade lup_) as the country inhabited by the Videhas, while **Govindarāja** notes that the demonstrative _asau_ (“yonder Rāma”) conveys how vividly Rāma is ever present in his father’s mind (_buddhisaṃnikarṣeṇa_).
 </details>
 </details>
 
@@ -816,6 +886,14 @@ daughter as bride to Raghava Rama... [1-68-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The valor of Kākutstha has been witnessed by the high-souled Janaka (_dṛṣṭavīryas tu kākutstho janakena mahātmanā_), and he now desires to bestow his daughter in marriage upon Rāghava (_saṃpradānaṃ sutāyās tu rāghave kartum icchati_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.16–17 (yadi vo rocate vṛttam & kālasya paryayaḥ)**
+
+Even in his elation, Daśaratha observes royal protocol by asking his preceptors and ministers whether the marital alliance with Janaka’s house meets with their approval (_vṛttaṃ = yaunasaṃbandhayogyam ity arthaḥ_, **Tilaka**, **Govindarāja**). He urges immediate departure lest there be any delay or lapse in the auspicious hour of marriage (_paryayaḥ = atikramaḥ_, **Tilaka**, **Govindarāja**; _vivāhasamayavilambo mā bhūt_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -925,6 +1003,14 @@ and then that highly pleased king Dasharatha said to the ministers, "we travel t
 
 The counselors, together with all the great sages (_saha sarvair maharṣibhiḥ_), replied, “By all means (_mantriṇo bāḍham ity āhuḥ_)!” And the king, deeply delighted (_suprītaś cābravīd rājā_), told his ministers: “The march shall be tomorrow (_śvo yātreti ca mantriṇaḥ_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.18 (śvo yātreti)**
+
+Upon the unanimous _bāḍham_ (“Indeed, most auspicious!”) of the sages and ministers, Daśaratha commands: “Tomorrow is the march!”—implying, as **Tilaka** and **Govindarāja** note, that all preparations for the expedition should be made at once (_tadarthaṃ udyamaḥ kriyatām iti śeṣaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -986,6 +1072,14 @@ sIta kalyANam... [1-68-19]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The ministers of the lord of men, endowed with every excellence (_mantriṇas tu narendrasya guṇaiḥ sarvaiḥ samanvitāḥ_) and supremely honored (_paramasatkṛtāḥ_), passed that night in great joy (_rātrim ūṣuḥ pramuditāḥ sarve_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**68.19 (mantriṇas tu narendrasya)**
+
+**Tilaka** and **Govindarāja** take _narendrasya mantriṇaḥ_ as Janaka’s envoy-ministers (_janakamantriṇaḥ_), who spent the night at Ayodhyā lavished with royal hospitality (_guṇaiḥ = satkārātiśayaiḥ_), while **Śiromaṇi** notes that they were adorned with all diplomatic virtues (_sarvaguṇair mantridharmaiḥ samanvitāḥ_).
 </details>
 </details>
 

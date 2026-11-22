@@ -322,6 +322,116 @@ standing nearby, as follows: -
 
 Seeing Rāma’s nurse (_dhātrīm_) standing not far away (_avidūre sthitām_), clad in white linen (_pāṇḍurakṣaumavāsinīm_) and her eyes wide with joy (_harṣotphullanayanām_), Mantharā questioned her:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.7.1 (jñātidāsī yato jātā)**
+
+$18
+
+_____________
+
+**2.7.2–4 (prāsādād anvavaikṣata and mālyamodakahastaiḥ)**
+
+On प्रासादादन्ववैक्षत (v. 2d), _Tilaka_ and Govindarāja explain the ablative प्रासादात् via ellipsis of the gerund (ल्यब्लोपे पञ्चमी प्रासादे स्थित्वा प्रेक्षतेत्यर्थः). In v. 4a, _Tilaka_ offers two explanations of माल्यमोदकहस्तैः द्विजेन्द्रैः: the _brāhmaṇas_ held garlands and sweetmeats either because they had just received them as gifts (दानप्राप्तमाल्यमोदकहस्तैः) or to present them as auspicious offerings to Rāma (रामोपायनार्थम्, Govindarāja).
+
+_____________
+
+**2.7.5–6 (prahṛṣṭavarahastyaśvām and ucchritadhvajamālinīm)**
+
+Both _Tilaka_ (तिरश्चामपि रामाभिषेकाद्धर्ष इति सूचितम्) and Govindarāja (रामाभिषेकस्य तिरश्चामप्यानन्दावहत्वात्) remark that v. 5’s depiction of jubilant elephants, horses, and bellowing bulls shows that Rāma’s coronation delighted even the animals of Ayodhyā. Govindarāja distinguishes the two mentions of banners in vv. 3b and 6b: ध्वजैश्च समलंकृताम् (v. 3b) refers to Ayodhyā’s permanent standards (नित्यबद्धध्वजत्वम्), whereas उच्छ्रितध्वजमालिनीम् (v. 6b) refers to the festive banners newly hoisted for the coronation (प्रकृतोत्सवकृतध्वजसंबन्ध उच्यते).
+
+_____________
+
+**2.7.7–8 (dhātrīm and arthaparā satī)**
+
+Both _Tilaka_ (धात्रीं रामस्येति शेषः) and Govindarāja (धात्रीमुपमातरम् ... रामोपमाता) identify the nurse as Rāma’s own foster-mother, which explains why her eyes are blooming with joy (हर्षोत्फुल्लनयनाम्). On Mantharā’s spiteful phrase अर्थपरा सती (v. 8b), _Tilaka_ and Govindarāja note the envious insinuation: Kausalyā, whom Mantharā portrays as ordinarily attached to wealth (स्वल्पाभिमतधनलुब्धा, _Tilaka_; अर्थपरा सत्यपि, Govindarāja), is now lavishing riches; alternatively, Govindarāja suggests अर्थपरा means intent on securing higher aims (उत्तरोत्तरार्थसिद्ध्यै धनं प्रयच्छति).
+
+_____________
+
+**2.7.9–10 (Narrative timing of śvaḥ and vidīryamāṇā harṣeṇa)**
+
+Why does the nurse say श्वः (“tomorrow”, v. 11a) after Sarga 6 already reached the dawn of the coronation day? Both Govindarāja (पूर्वदिवसप्रवृत्तकैकेयीवृत्तान्तं वक्तुमुपक्रमते) and _Tilaka_ (अभिषेकप्राग्दिनीयसायंकाळे मन्थरायास्तद्दर्शनेन) explain that having completed the continuous account of Rāma’s vigil in Sarga 6, Vālmīki now turns back to the previous evening to narrate the parallel episode in Kaikeyī’s palace. On विदीर्यमाणा हर्षेण (v. 10a), _Tilaka_ and Govindarāja explain that her inner rapture seemed to burst forth through horripilation and beaming cheeks (अन्तर्गतानन्दोत्कल्पांरोहकपोलदलविकासादिना बहिः प्रसरणात्), prompting her to confide even in a hostile listener (प्रतिकूलायै तस्यै अकथनीयमप्यकथयदिति भावः).
+
+_____________
+
+**2.7.11–12 (jitakrodham anagham)**
+
+Govindarāja notes that the nurse’s epithets जितक्रोधमनघम् summarize Rāma’s moral qualifications for sovereignty (अभिषेकोपयुक्तगुणजातोपलक्षणम्), and takes the instrumental यौवराज्येन as expressing purpose (यौवराज्यार्थम्).
+
+_____________
+
+**2.7.13–14 (pāpadarśinī and upaplutam aghaughena)**
+
+_Tilaka_ explains पापदर्शिनी in v. 13b as “she who sees (and points out) harm to Kaikeyī and Bharata even in Rāma’s coronation” (रामाभिषेके कैकेय्यै भरतविषयपापप्रदर्शिका). In v. 14c, _Tilaka_ and Govindarāja cite the lexicons (अंहोदुःखव्यसनेष्वघम्, _Amarakośa_) to gloss अघौघेन as a flood of sorrow or calamity (दुःखसमूहेनोपप्लुतं पीडितम्), and _Tilaka_ identifies the figure of speech as _atiśayokti_ inverting cause and effect (कारणकार्ययोः पौर्वापर्यविपर्ययरूपातिशयोक्तिः), since Mantharā speaks of future grief as having already submerged Kaikeyī.
+
+_____________
+
+**2.7.15 (aniṣṭe subhagākāre and nadyāḥ srota ivoṣṇage)**
+
+All three commentators unpack the oxymoron अनिष्टे सुभगाकारे: in reality Kaikeyī is unloved by her husband (वस्तुतः पत्युरनिष्टे, Govindarāja), yet she wears the outward appearance of a favored queen (आपाततः सौभाग्यवतीव भासमाने) and boasts that the king is wholly under her sway (ममैवाधीनो मे स्वामी मदाज्ञायां वर्तत इत्यादिप्रकारेण वृथा श्लाघसे, _Tilaka_). Like a river-current in the summer heat (उष्णगे), her supposed favor has shrunk to nothing (चलम् क्षीणप्रायमित्याशयः, _Tilaka_).
+
+_____________
+
+**2.7.16–17 (viṣādam agamat and kaccit kṣemaṃ na)**
+
+In v. 16d, _Tilaka_ explains that Kaikeyī’s initial distress (विषादम्) arose only because Mantharā insinuated that the king had grown cold toward her (तस्मिन् राजवैरस्योद्भावनात्). In v. 17b, _Tilaka_ construes कच्चित् क्षेमं न together as an anxious inquiry (“Is all not well for me?”, कच्चित्क्षेमं न मह्यमिति शेषः).
+
+_____________
+
+**2.7.19–20 (viṣaṇṇatarā, bhedayantī rāghavam, and akṣayam)**
+
+On विषण्णतरा भूत्वा (v. 19a), _Tilaka_ remarks that since Mantharā was an _apsaras_ acting on the gods’ behalf, she felt no real grief but feigned deeper dejection (तदाकारेव भूत्वा । अप्सरस्त्वे सर्वज्ञत्वाद्वास्तवविषादाभावात्). Both _Tilaka_ (राघवं प्रति पुत्रत्वप्रयुक्तं तस्याः स्नेहं नाशयन्ती) and Govindarāja explain भेदयन्ती च राघवम् as severing Kaikeyī’s maternal affection toward Rāma. In v. 20a, _Tilaka_ and Govindarāja gloss अक्षयम् / अक्षय्यम् as “incapable of being counteracted or remedied” (क्षयः प्रतीकारः, अशक्यप्रतीकारमित्यर्थः).
+
+_____________
+
+**2.7.21–23 (duḥkhaśokasamanvitā and ugratvaṃ rājadharmāṇām)**
+
+In v. 21b, _Tilaka_ and Govindarāja distinguish दुःख (pain caused by an unwelcome event, Rāma’s coronation: अनभिमतरामाभिषेकश्रवणजनितव्यसनजं दुःखम्) from शोक (grief over losing a desired goal, Bharata’s kingship: अभिमतभरताभिषेकहानिजन्यः शोकः). In v. 23, _Tilaka_ explains Mantharā’s warning (उग्रत्वं राजधर्माणाम्): statecraft is merciless (क्रौर्यम्, Govindarāja), and once a rival co-wife’s son (सापत्नो हि सः) gains the throne, he will never allow a rival queen to live in comfort (राज्यलाभे त्वां सुखं न धारयिष्यतीति भावः).
+
+_____________
+
+**2.7.24 (dharmavādī śaṭhaḥ and śuddhabhāvena)**
+
+All three commentators highlight the rhetorical force of v. 24: Daśaratha talks of _dharma_ with his lips (वाङ्मात्रेण धार्मिकः, _Tilaka_; धर्मवादीव भासमानः, Govindarāja) while harboring guile (अन्तस्तु शठोऽसत्यावान्), and speaks sweet words above the throat (कण्ठादुपरि प्रियवचनशीलः, Govindarāja) to mask a ruthless heart (आन्तरक्रौर्यगोपनायैव, _Tilaka_). In the Southern Recension (शुद्धभावेन जानीषे), _Tilaka_ and Govindarāja construe it as “you judge him to be pure-hearted (शुद्धस्वभावेनोपलक्षितं जानासि).”
+
+_____________
+
+**2.7.25–26 (sāntvam anarthakam vs. arthena and apavāhya)**
+
+All three commentators point out the sharp play on अनर्थकम् and अर्थेन in v. 25: Daśaratha gives Kaikeyī empty, fruitless words of comfort (अनर्थकं फलरहितं सान्त्वं प्रियवचनम्, _Tilaka_), while endowing Kausalyā with real अर्थ—royal wealth and sovereignty (अर्थेन राज्यलक्ष्म्या कौसल्यामेव योजयिष्यति). In v. 26, Mantharā portrays Bharata’s visit to his maternal uncle’s kingdom as a calculated banishment (अपवाह्य उद्वास्येत्यर्थः, _Tilaka_, Govindarāja) engineered so that Rāma can be crowned in a realm “cleared of thorns” (निहतकण्टके).
+
+_____________
+
+**2.7.27–29 (śatruḥ patipravādena and sānubandhā)**
+
+On v. 27, Govindarāja explains the double simile: like a tender-hearted mother (मात्रेव) who fondles a venomous snake (आशीविष इव) on her lap (अङ्गेन or अङ्केन, उत्सङ्गेन) out of a desire to nourish it (हितकाम्यया), Kaikeyī has cherished a hidden enemy who merely goes by the title of “husband” (पतिप्रवादेन पतिव्यपदेशेन शत्रुः छन्नहृदयः शात्रवः पतिः). In v. 29d, सानुबन्धा means together with her son, friends, and retinue (पुत्रमित्रादिपरिकरसहिता, Govindarāja).
+
+_____________
+
+**2.7.30 (vismayadarśane)**
+
+The three commentators offer three distinct readings of the vocative विस्मयदर्शने: _Tilaka_ takes it ironically as “O you who still wear a look of amazed complacency even upon hearing terrible news (अतिदुःखजनकवार्ताश्रवणेऽपि स्वेष्टवार्ताश्रवणेनैव विस्मयसूचकदर्शने)!”; _Śiromaṇi_ takes it as “O you of wondrous beauty (विस्मयमाश्चर्यकारकमिह लोके दर्शनं यस्याः परमसुन्दरीत्यर्थः)”; and Govindarāja suggests that by praising her beauty, Mantharā hints at the very weapon Kaikeyī must use to bend Daśaratha to her will (अनेन हितकरणहेतुदशरथवशीकरणसाधनसौन्दर्यमुच्यते).
+
+_____________
+
+**2.7.31–33 (Kaikeyī’s innate nobility and the gift of the jewel)**
+
+_Tilaka_ highlights the dramatic contrast at v. 31: although Mantharā has just portrayed Rāma’s coronation as a catastrophe, Kaikeyī’s naturally noble disposition (निसर्गकल्याणगुणा) causes her to hear only the joyful news that Rāma is being crowned (सर्वथा तं स्वेष्टार्थमेव मन्यते स्म), rising from her couch like the bright autumn moon (चन्द्रलेखेव शारदी). In vv. 32–33, _Tilaka_ explains that she bestows a jewel upon Mantharā because Rāma is even dearer to her than he is to Kausalyā (कौसल्याया अपि मम रामः प्रियतर इति भावः).
+
+_____________
+
+**2.7.34–35 (Repetition of priyam ākhyātam and viśeṣaṃ nopalakṣaye)**
+
+On the repetition of प्रियमाख्यातम् in v. 34b and 34c in the Southern Recension, both _Tilaka_ (पुनरुक्तिर्वक्तृया हर्षातिशयद्योतकत्वान्न दोषावहा) and _Śiromaṇi_ point out that the repetition expresses the speaker’s overflowing rapture; Govindarāja and _Śiromaṇi_ also explain the reading प्रियमाख्यातुः ... ते (“what more can I do for you, the teller of this welcome news?”). In v. 35, Kaikeyī declares that she perceives no difference in maternal love between Rāma and Bharata (पुत्रत्वप्रयुक्तस्नेहविशेषं नोपलक्षये, _Tilaka_).
+
+_____________
+
+**2.7.36 (priyottaraṃ varam)**
+
+In the closing _Vaṃśastha_ verse, _Tilaka_ glosses प्रियोत्तरं वरम् as a further reward (पारितोषिकरूपं परं श्रेष्ठं वरं वृणु) following upon her initial gift of the ornament (प्रियदानानन्तरम्), while Govindarāja cites _Amarakośa_ (उपर्युदीच्यश्रेष्ठेष्वप्युत्तरः) to render प्रियोत्तरम् as “most excellent among prized gifts” (प्रीतिविषयेषु श्रेष्ठम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

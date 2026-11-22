@@ -3638,6 +3638,296 @@ demons."
 
 “Equal to Indrajit in archery (_dhanuṣīndrajitas tulyaḥ_) and to Rāvaṇa in fiery splendor (_pratāpe rāvaṇasya ca_), you today are the foremost in the world of Rākṣasas in strength and valor (_śreṣṭho &#x27;si balavīryataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.76.1–3 (Aṅgada's Slaying of Kampana)**
+
+Opening Sarga 76, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) gloss संकुले as densely packed (निरन्तरे, निबिडे). On आहूय, **Govindarāja** cites the Dhātupāṭha (ह्वेञ् स्पर्धायां शब्दे च) to explain it as challenging to a duel (स्पर्धयित्वा), and derives वेगितः via the _tārakādi_ class (तारकादित्वादितच्) before Aṅgada crushes Kampana's chest (कम्पनोरसि).
+
+_____________
+
+**6.76.4–5 (Śoṇitākṣa's Counter-Charge)**
+
+Seeing Kampana slain, Śoṇitākṣa charges Aṅgada on his chariot. On अभीतवत्, **Govindarāja** takes it adverbially ('fearlessly', अभीतमिति क्रियाविशेषणम्), whereas **Rāma Varmā** (_Tilaka_) explains it with _-vati_ as 'in a manner befitting a fearless warrior' (अभीतार्हम्), piercing Aṅgada with arrows shaped like doomsday fire (कालाग्नितुल्याकारैः).
+
+_____________
+
+**6.76.6 (Taxonomy of Eight Arrow-Types)**
+
+Citing **Maheśvara Tīrtha** (तीर्थादयः), all three commentators distinguish the eight arrow-types: क्षुरः (barber's razor-tip, नापितक्षुराकारफलः), क्षुरप्रः (crescent-shaped, अर्धचन्द्राकृतिः), नाराचः (all-iron shaft, सर्वायसः), वत्सदन्तः (calf-tooth tip), शिलीमुखः (_kaṅka_-feather winged, कङ्कपत्रसदृशः), कर्णी (ear-barbed on both sides), शल्यः (long-bladed half-_nārāca_), and विपाठः (oleander-leaf tip, करवीरपत्रसदृशः).
+
+_____________
+
+**6.76.7–8 (Destruction of the Chariot & Sword-and-Shield Leap)**
+
+Construing verses 6–7 together (श्लोकद्वयमेकान्वयि), **Śivasahāya** (_Śiromaṇi_) notes that Aṅgada, though pierced by Śoṇitākṣa's diverse shafts, crushes his opponent's bow, chariot, and quiver. On असिचर्म, **Govindarāja** (_Bhūṣaṇa_) explains the singular compound (एकवद्भावः) and supplies रथात् ('leaped from his shattered chariot') with उत्पपात.
+
+_____________
+
+**6.76.9–10 (Mid-Air Disarming & Diagonal Slash)**
+
+Glossing परामृश्य as seizing firmly (धृत्वा in **Rāma Varmā**'s _Tilaka_, स्पृष्ट्वा in **Govindarāja**), the commentators describe Aṅgada wrenching away Śoṇitākṣa's sword (बलादादाय) and slashing him across the shoulder-blade (अंसरूपे फलके) diagonally like a sacred thread (यज्ञोपवीतवत्). Both note that Śoṇitākṣa, though gashed, survives (छिन्नस्तु न मृतः).
+
+_____________
+
+**6.76.11–12 (Aṅgada's Rampage & Yūpākṣa's Advance)**
+
+Wielding the great sword captured from Śoṇitākṣa (शोणिताक्षीयम् in **Rāma Varmā**, शोणिताक्षाद्गृहीतम् in **Śivasahāya**), Aṅgada charges other Rākṣasa warriors (अपरान् प्रजङ्घादीन् in **Govindarāja**) at the battlefront (रणशीर्षे), prompting Yūpākṣa and Prajaṅgha to rush to Śoṇitākṣa's aid.
+
+_____________
+
+**6.76.13–15 (The Moon Between Viśākhā Stars)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that कनकाङ्गदः ('wearing golden armlets', कनकमयोऽङ्गदो यस्य) is an epithet of Śoṇitākṣa. Explaining why v. 15 names only Śoṇitākṣa and Prajaṅgha (शोणिताक्षप्रजङ्घयोः) when Yūpākṣa is also present, **Govindarāja** (_Bhūṣaṇa_) observes that Yūpākṣa stood slightly further back (यूपाक्षस्य दूरस्थत्वादनुक्तिः).
+
+_____________
+
+**6.76.16 (Mainda & Dvivida's Vigil)**
+
+Flanking Aṅgada to protect him (परिरक्षन्तौ), Mainda and Dvivida stand close by. On परस्परदिदृक्षया, **Rāma Varmā** and **Govindarāja** offer two explanations: watching for an opening to strike (युद्धावसरपरिदृष्ट्या) or eager to gauge their respective demon opponents (स्वाढ्यप्रतिभटराक्षसजिज्ञासया), while **Śivasahāya** interprets it as vying to display their own skill (स्वस्वयुद्धचातुरीबोधनेच्छया).
+
+_____________
+
+**6.76.17–18 (Clash of the Three Champions)**
+
+**Rāma Varmā** and **Śivasahāya** gloss प्रतियत्ताः as alert and prepared (सावधानाः), while **Govindarāja** explains it as infusing fresh vigor (आरोपितवीर्याः). **Rāma Varmā** and **Śivasahāya** identify the two triads (त्रयाणाम्, त्रिभिः) as Aṅgada, Mainda, and Dvivida against Śoṇitākṣa, Prajaṅgha, and Yūpākṣa.
+
+_____________
+
+**6.76.19–21 (Interception of Hurled Trees & Boulders)**
+
+In the three-on-three exchange, **Śivasahāya** (_Śiromaṇi_) explains that Prajaṅgha cleaves the trees hurled by Aṅgada's party with his sword (खड्गेन प्रतिचिच्छेद). Reading द्रुमैः शैलैः in v. 20, **Govindarāja** (_Bhūṣaṇa_) supplies प्रति after रथानश्वान् ('hurled rocks and trees against the chariots and horses'), which Yūpākṣa splinters with arrow-volleys.
+
+_____________
+
+**6.76.22 (Dative of Purpose in Prajaṅgha's Charge)**
+
+As Śoṇitākṣa smashes the trees uprooted and cast (उत्पाट्य सृष्टान्) by Dvivida and Mainda in mid-course (मध्ये), Prajaṅgha charges Aṅgada with a broadsword. Both **Govindarāja** and **Rāma Varmā** (_Tilaka_) explain the dative वालिपुत्राय as 'in order to slay Vālin's son' (वालिपुत्रं हन्तुम्), citing Pāṇini (क्रियार्थोपपदस्य च कर्मणि स्थानिनः).
+
+_____________
+
+**6.76.23–24 (Aṅgada Disarms Prajaṅgha)**
+
+Identifying वानरेन्द्रः as Aṅgada (**Govindarāja** and **Śivasahāya**), the commentators note that when Prajaṅgha closes in (अभ्याशगतम्), Aṅgada first batters him with an uprooted _aśvakarṇa_ tree and then delivers a crushing fist-blow to his sword-arm (सनिस्त्रिंशं खड्गसहितं बाहुम्), knocking the blade to the earth.
+
+_____________
+
+**6.76.25–27 (Prajaṅgha's Decapitation)**
+
+Disarmed of his bludgeon-like sword (मुसलसंनिभम्), Prajaṅgha clenches his thunderbolt-like fist (वज्रकल्पम्) and stuns Aṅgada with a blow to the brow. Recovering his poise, Aṅgada severs Prajaṅgha's head from his trunk—either with a bare-fisted blow (पातयामास मुष्टिना) or, in **Govindarāja**'s (_Bhūṣaṇa_) reading, with Prajaṅgha's own fallen sword (खड्गेनापातयत्क्षितौ).
+
+_____________
+
+**6.76.28 (Kinship of Yūpākṣa & Prajaṅgha)**
+
+Verse 28 reveals that Prajaṅgha was the paternal uncle (पितृव्ये निहते) of Yūpākṣa and Śoṇitākṣa. His eyes brimming with tears (अश्रुपूर्णाक्षः) at his uncle's death and his quiver emptied by his earlier arrow-volleys (क्षीणेषुः), Yūpākṣa leaps down from his chariot drawing his sword.
+
+_____________
+
+**6.76.29–30 (Dvivida's Grapple with Yūpākṣa & Śoṇitākṣa)**
+
+Intercepting Yūpākṣa's charge, Dvivida smites him on the chest and grapples him by brute force (जग्राह च बलात्). Seeing his brother (भ्रातरम्) captured, Śoṇitākṣa rushes in and strikes Dvivida on the breast (or strikes Dvivida's elder brother Mainda in the variant द्विविदाग्रजम्).
+
+_____________
+
+**6.76.31–33 (Grappling of the Four Champions)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that when Dvivida reels from Śoṇitākṣa's mace-blow and wrests the mace away, Mainda hastens to his brother's aid (भ्रातृसहायार्थम्). On आकर्षोत्पाटनम्, **Govindarāja** (_Bhūṣaṇa_) glosses it as mutual dragging and striking (आकर्षणताडने), while **Śivasahāya** explains उत्पाटनम् as lifting off one's feet (स्वस्थानात् पातनम्).
+
+_____________
+
+**6.76.34–35 (Slaying of Śoṇitākṣa & Yūpākṣa)**
+
+In the fatal clinch, Dvivida lacerates Śoṇitākṣa's face with his claws (नखैर्मुखे विददार), whirls him down against the earth (क्षितावाविध्य), and pulverizes him (निष्पिपेष). Simultaneously, Mainda crushes Yūpākṣa in a bear-hug between his arms (बाहुभ्यां पीडयामास) until he drops dead.
+
+_____________
+
+**6.76.36 (Flight of the Demon Host to Kumbha)**
+
+With Kampana, Prajaṅgha, Śoṇitākṣa, and Yūpākṣa all slain (हतप्रवीरा), the demoralized Rākṣasa army (व्यथिता राक्षसेन्द्रचमूः) flees toward Kumbha. **Rāma Varmā** and **Śivasahāya** explain the relative adverb यतः as locative in sense ('where Kumbhakarṇa's son stood', यत्र तत्रेत्यर्थः).
+
+_____________
+
+**6.76.37–39 (Kumbha Rallies the Routed Host)**
+
+All three commentators note that सान्त्वयत् lacks the imperfect augment (असान्त्वयत्), describing how Kumbha reassures the fleeing Rākṣasa troops. Construing verses 37c–38d as a single sentence (सार्धश्लोक एकान्वयी), **Govindarāja** (_Bhūṣaṇa_) glosses लब्धलक्षैः as irresistible (अप्रतिद्वन्द्विभिः) and **Śivasahāya** (_Śiromaṇi_) as having gained their opportunity (प्राप्तावसरैः).
+
+_____________
+
+**6.76.40 (Simile of the Second Rainbow & Airāvata)**
+
+Citing _Vaijayantī_ (इन्द्रायुधं शक्रधनुस्तद्वीर्यमृजुरोहितम् । ऐरावतं च), **Govindarāja** and **Maheśvara Tīrtha** (quoted in **Rāma Varmā**'s _Tilaka_) explain ऐरावतम् as a straight, elongated rainbow (दीर्घेन्द्रधनुः) appearing alongside the curved rainbow during portents (उत्पातकाले), with lightning matching the bowstring; alternatively, **Rāma Varmā** takes Airāvata as Indra's cloud-elephant (अभ्रमातङ्गः).
+
+_____________
+
+**6.76.41–42 (Dvivida Felled by the Golden-Notched Shaft)**
+
+**Govindarāja** glosses हाटकम् as gold (स्वर्णम्), पत्रिणा as arrow (बाणेन), and पत्रवाससा as clothed in heron-feathers (वासःस्थानीयकङ्कपत्रेण). Struck by this ear-drawn shaft, Dvivida falls like a mountain peak with faltering steps (शिथिलपदविन्यासः in **Govindarāja**, परस्खलितौ पादौ in **Śivasahāya**).
+
+_____________
+
+**6.76.43–45 (Mainda's Boulder Shattered by Kumbha)**
+
+Seeing his younger brother Dvivida felled (भग्नम्), Mainda charges Kumbha and hurls a massive boulder. **Rāma Varmā** (_Tilaka_) glosses प्रसन्नैः in v. 44 as whetted and polished (उत्तेजितैः), while **Śivasahāya** (_Śiromaṇi_) explains it as gleaming (भासमानैः), with which Kumbha shatters the rock before striking Mainda's chest.
+
+_____________
+
+**6.76.46–47 (Kinship of Mainda & Dvivida as Aṅgada's Uncles)**
+
+On the dual तेन ... तेन in v. 46, **Śivasahāya** distinguishes the agent (तेन कुम्भेन कर्त्रा) from the instrument (तेन कुम्भकृतेन प्रहारेण). Verse 47 reveals that Mainda and Dvivida are Aṅgada's maternal uncles (मातुलौ मैन्दद्विविदौ), whom **Śivasahāya** glosses as nearly slain (मथितौ हिंसितप्रायौ).
+
+_____________
+
+**6.76.48 (Aṅgada Pierced Like a War-Elephant)**
+
+As Aṅgada rushes Kumbha to avenge his fallen uncles, Kumbha pierces him first with five all-iron shafts (पञ्चभिरायसैः) and then with three sharp arrows like an elephant goaded with lances (तोमरैः, glossed as elephant-goads, अङ्कुशैः, by **Govindarāja** in his _Bhūṣaṇa_).
+
+_____________
+
+**6.76.49–51 (Epithets of Kumbha's Shafts & Cloven Missiles)**
+
+Construing 48e–49b with Kumbha's volley, **Govindarāja** (_Bhūṣaṇa_) glosses अकुण्ठधारैः as having unblunted tips (अभग्नाग्रैः), निशितैः as whetted (शातितैः), and cites _Ratnamālā_ (तीक्ष्णं खरे शस्त्रे लोहे) to explain तीक्ष्णैः as forged of iron (अयोमयैः). Unfazed, Aṅgada showers trees and rocks that Kumbha splits.
+
+_____________
+
+**6.76.52–53 (Blinded by Blood & One-Handed Grasp)**
+
+As Aṅgada charges again, Kumbha pierces both his eyebrows with two arrows like twin torches thrust against a charging elephant (उल्काभ्यामिव कुञ्जरम्). With blood streaming over his eyes (लोचने पिहिते रुधिरेणाच्छादिते in **Śivasahāya**'s _Śiromaṇi_), Aṅgada shields his eyes with one hand and seizes a _sāla_ tree with the other.
+
+_____________
+
+**6.76.54 (Mechanics of One-Handed Uprooting)**
+
+**Govindarāja** perceptively explains why Aṅgada presses the trunk against his chest (उरसि संपीड्य): because one hand is occupied shielding his bleeding eyes (एकहस्तस्य नेत्रपिधानव्यावृतत्वात्), he cannot uproot the giant tree with a single hand alone, and so braces it against his breast and strips its foliage (निष्पत्रं कृतवान् in **Rāma Varmā**'s _Tilaka_).
+
+_____________
+
+**6.76.55–56 (The Sāla Tree Splintered & Aṅgada's Swoon)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain समुत्सृजत as an unaugmented imperfect equivalent to समुदसृजत्. As Aṅgada hurls the trunk resembling Indra's banner-staff (इन्द्रकेतुप्रतिमम्), Kumbha splinters it with seven shafts; exhausted by continuous combat (पुनः पुनः क्रियमाणेन युद्धेन), Aṅgada collapses in a faint.
+
+_____________
+
+**6.76.57–58 (Appeal to Rāma & Dispatch of Jāmbavān)**
+
+Seeing Prince Aṅgada sinking like a swimmer in a fathomless sea (सागरे इव सीदन्तम्), the monkey captains report the crisis to Rāma (राघवाय न्यवेदयन्). Rāma immediately orders a relief force led by the veteran bear-king Jāmbavān (जाम्बवत्प्रमुखान्) to rescue the crown prince.
+
+_____________
+
+**6.76.59–60 (Charge of the Relief Force)**
+
+**Śivasahāya** observes that verses 60–61 restate the relief charge in fuller detail (तदेव भङ्ग्यन्तरेणाह). Armed with uprooted trees and boulders (द्रुमशिलाहस्ताः) and eager to protect Aṅgada (रिरक्षिषन्तः रक्षितुमिच्छन्तः in **Govindarāja**'s _Bhūṣaṇa_), the monkey chiefs storm toward Kumbha's position.
+
+_____________
+
+**6.76.61–62 (Kumbha Dams the Monkey Charge)**
+
+As Jāmbavān, Suṣeṇa, and Vegadarśī rush forward, Kumbha checks them with a barrage of shafts (आववार अवरुरोध). On नगेनेव जलाशयम्, all three commentators gloss जलाशयम् as a rushing stream of water (जलप्रवाहम्), while **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) take नगेन as a mountain (पर्वतेन, शैलेनेव) and **Śivasahāya** (_Śiromaṇi_) as a tree (वृक्षेण).
+
+_____________
+
+**6.76.63–64 (The Ocean-Shore Simile & Chronological Marker)**
+
+Reading अतिवर्तितुम् in 63b, **Govindarāja** and **Śivasahāya** explain that the monkey lords could no more cross Kumbha's arrow-line than the ocean can overstep its shoreline (वेलामिव). Remarkably, **Rāma Varmā** notes on v. 64 that the eighth night's battle ends here and the ninth day's battle begins (एतदन्तमष्टमीरात्रौ युद्धम् । अतः परं नवमीदिनयुद्धम्).
+
+_____________
+
+**6.76.65–66 (Sugrīva's Lion-Charge)**
+
+Placing his wounded nephew Aṅgada (भ्रातृजम्) safely behind his back (पृष्ठतः कृत्वा), King Sugrīva charges Kumbha like a swift lion (वेगवानिव केसरी) springing upon a mountain-roaming elephant (शैलसानुचरं नागम्), uprooting and hurling whole groves of _aśvakarṇa_ and _dhava_ trees.
+
+_____________
+
+**6.76.67–68 (Trees Bristling Like Śataghnīs)**
+
+**Govindarāja** (_Bhūṣaṇa_) glosses अभिलक्ष्येण as unerring in aim (अभिगतलक्ष्येण) and आचिताः as densely studded all over (सर्वतो नीरन्ध्रतया व्याप्ताः). Pierced mid-air by Kumbha's shafts, Sugrīva's flying trees resemble iron-spiked _śataghnī_ engines (शङ्कुचिता आयुधविशेषाः), yet Sugrīva remains undaunted.
+
+_____________
+
+**6.76.69–71 (Snapping Kumbha's Bow & Tuskless Elephant Simile)**
+
+Enduring Kumbha's shafts (शरान् सहमानः), Sugrīva snatches and snaps his rainbow-bright bow (धनुराक्षिप्य बभञ्ज). **Śivasahāya** (_Śiromaṇi_) glosses भग्नशृङ्गं द्विपमिव as like an elephant with shattered tusks (विध्वस्तदन्तं द्विपमिव), while **Rāma Varmā** (_Tilaka_) notes that वेग in बाणवेगम् belongs to the _ardharcādi_ common-gender list.
+
+_____________
+
+**6.76.72 (Devotion to Kin & Majesty)**
+
+On संनतिः, **Rāma Varmā** and **Śivasahāya** explain it as devotion to one's own clan (स्वजनप्रावण्यम्), while **Govindarāja** adds humility toward the Rākṣasas (राक्षसे विनयः) demonstrated by Kumbha's routing of Aṅgada, Mainda, and Dvivida; both संनतिः and प्रभावः belong exclusively to Kumbha and Rāvaṇa (तव वा रावणस्य वा).
+
+_____________
+
+**6.76.73–74 (Resemblance to Kumbhakarṇa & Simile of the Sage)**
+
+All three commentators gloss पितरमनुजातोऽसि as 'you are born the true likeness of your father' (पित्रा सदृशोऽसि), with **Govindarāja** (_Bhūṣaṇa_) reading बलवृत्ततः ('in deeds of strength', बलव्यापारेण). Construing 73c–74b together (सार्धश्लोक एकान्वयी), **Śivasahāya** (_Śiromaṇi_) explains that the gods cannot overcome Kumbha just as mental anxieties (आधयः) cannot shake a self-controlled sage (जितेन्द्रियम्).
+
+_____________
+
+**6.76.75–76 (Boon-Born vs. Innate Might)**
+
+Drawing a pointed contrast, **Govindarāja**, **Rāma Varmā** (_Tilaka_), and **Śivasahāya** note that Kumbha's paternal uncle Rāvaṇa (पितृव्यो रावणः) withstands gods and Dānavas only by virtue of Brahmā's boon (वरदानात्), whereas his father Kumbhakarṇa did so by sheer bodily might (शारीरबलेन)—and Kumbha combines both (त्वं तु ताभ्यामुभाभ्याम्).
+
+_____________
+
+**6.76.77–78 (The Duel of Śakra & Śambara)**
+
+Glossing महाविमर्दम् as a great grinding combat (महायुद्धम्), the commentators note that Sugrīva acknowledges Kumbha's peerless feat (अप्रतिममन्यस्यासदृशं कर्म) in felling the monkey champions and invites all beings to witness their duel like that of Indra and the demon Śambara.
+
+_____________
+
+**6.76.79–80 (Fear of Reproach & Disdainful Praise)**
+
+All three commentators explain उपालम्भभयात् as Sugrīva's fear of public censure (निन्दाभीतेः, अपवादभयात्): people would say Sugrīva slew Kumbha only after Kumbha was worn out from fighting a multitude (बहुभिः सह युद्धेन श्रान्तः कुम्भः सुग्रीवेण हतः). Stung by this praise veiled in insult (बहुमानेन व्याजेनावमानितः in **Govindarāja**'s _Bhūṣaṇa_), Kumbha blazes like a ghee-fed fire.
+
+_____________
+
+**6.76.81–83 (Grapple of the Rutting Elephants)**
+
+Construing 81c–82d together (सार्धश्लोक एकान्वयः), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read अवीतमदौ ('of unabated rut', अनपगतमदौ, or आवीतमदौ, 'suffused with rut'), whereas **Govindarāja** reads आहितमदौ ('infused with rut-fury', आहितमदवेगौ) as their trampling feet depress the earth and churn the sea.
+
+_____________
+
+**6.76.84 (Hurling Kumbha to the Ocean Floor)**
+
+On दर्शयन्नुदधेस्तलम्, **Govindarāja** and **Śivasahāya** explain that Sugrīva hurled Kumbha into the brine with such force that Kumbha saw the very bottom of the sea (निमग्नो यथा उदधितलं पश्येत्तथा), while **Rāma Varmā** also records the reading उदधेः स्थलम् ('hurling him across the coastal beach into the sea').
+
+_____________
+
+**6.76.85–86 (The Tidal Wave & Kumbha's Rebound)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that Sugrīva's hurling Kumbha from the island battlefield of Laṅkā into the ocean demonstrates Sugrīva's immeasurable strength (सुग्रीवस्यापरिमेयबलवत्ता चोच्यते). Displacing a wave as huge as Vindhya or Mandara, Kumbha leaps back out of the water (जलात्समुत्पत्य) to strike Sugrīva's chest.
+
+_____________
+
+**6.76.87 (Kumbha's Fist Checked by Sugrīva's Ribcage)**
+
+On तस्य वर्म च पुस्फोट, **Śivasahāya** (_Śiromaṇi_) glosses वर्म as armor (कवचम्, or skin in CE's चर्म), which splits open (पुस्फोट विभिदम्) and bleeds. Yet Kumbha's speeding fist is stopped cold and blunted (प्रतिजघ्ने प्रतिहतः मोघो बभूवेत्यर्थः in **Govindarāja**) against Sugrīva's solid ribcage (सुग्रीवास्थिमण्डले).
+
+_____________
+
+**6.76.88–89 (Sparks on Mount Meru & Sugrīva's Fist)**
+
+**Govindarāja** explains that the friction of Kumbha's fist against Sugrīva's breastbone (सुग्रीववक्षसि) kindles a flash of fire (तेजः संघट्टजम्) like the flame sparked on golden Mount Meru when Indra struck its wings with his thunderbolt (इन्द्रेण पक्षच्छेदकाले). Undeterred, Sugrīva clenches his own fist (संवर्तयामास चकार).
+
+_____________
+
+**6.76.90–91 (Sugrīva's Sun-Bright Fist)**
+
+All three commentators gloss विकचम् in अर्चिःसहस्रविकच- as expanded or illuminated by a thousand rays (प्रकाशितम् in **Śivasahāya**'s _Śiromaṇi_, आवृतम् in **Govindarāja**'s _Bhūṣaṇa_), giving Sugrīva's fist the effulgence of the solar disc (रविमण्डलसमानवर्चस्कम् in **Rāma Varmā**'s _Tilaka_) as Kumbha collapses like an extinguished fire.
+
+_____________
+
+**6.76.92 (Simile of the Planet Mars)**
+
+**Rāma Varmā** and **Śivasahāya** identify लोहिताङ्गः ('red-limbed') as the fiery planet Mars (भौमः), and **Rāma Varmā** explains यदृच्छया as falling by destiny or when its celestial merit is exhausted (दैवाधीनतः, पुण्यक्षयात् पतितः) as the bloodied Kumbha plummets to earth.
+
+_____________
+
+**6.76.93–94 (The Sun Smitten by Rudra & Quaking Earth)**
+
+On गवां पतेः, **Govindarāja**, **Rāma Varmā**, and **Śivasahāya** all interpret गो- as light-rays and identify 'the lord of rays' as the Sun-god Sūrya (गवां पतेः सूर्यस्य) when assailed by Rudra (रुद्रेणाभिहतस्य) at Dakṣa's sacrifice. In the closing _upajāti_ verse, Kumbha's fall shakes the mountain-girt earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

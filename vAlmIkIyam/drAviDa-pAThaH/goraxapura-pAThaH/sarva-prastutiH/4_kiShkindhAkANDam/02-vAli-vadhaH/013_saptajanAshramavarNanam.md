@@ -62,6 +62,14 @@ Raising his gold-decked bow and sun-bright arrows, Rāma marches from Ṛṣyam�
 
 From Ṛṣyamūka, that righteous-souled (_dharmātmā_) elder brother of Lakṣmaṇa (_lakṣmaṇāgrajaḥ_), accompanied by Sugrīva (_sahasugrīvaḥ_), set out for Kiṣkindhā, which was guarded by Vālī&#x27;s valor (_vālivikramapālitām_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.1–3 (The Order of March and Sugrīva's Compact Neck)**
+
+Commenting on **13.1–3**, **Śiromaṇi** construes the opening three verses as a single syntactic unit (श्लोकत्रयमेकान्वयि) describing Rāma's advance with his gold-adorned bow. On **13.3c** (संहतग्रीवः), **Tilaka** and **Bhūṣaṇa** explain the epithet either as naturally thick-necked (निबिडकण्ठ इत्यर्थः) or as having his neck bound with the _gajapuṣpī_ creeper (गजपुष्पीबन्धनेन वा).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -212,6 +220,14 @@ followed them rearward. [4-13-4]
 
 Behind (_pṛṣṭhataḥ_) came the hero Hanumān, Nala, valiant Nīla (_nīlaś ca vīryavān_), and Tāra of mighty splendor (_mahātejāḥ_), the commander of monkey troop-commanders (_hariyūthapayūthapaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.4–5 (The Rearguard of Monkey Commanders)**
+
+On **13.4d** (हरियूथपयूथपः), **Tilaka** explains that Tāra is the overlord who commands even the troop-leaders among the Vānaras (हरियूथपानामपि यूथपः), marching behind Rāma alongside Hanūmān, Nala, and Nīla while the party gazes upon trees bowed down under the weight of blossoms (पुष्पभारावलम्बिनः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -291,6 +307,14 @@ divinities - Rama Tilaka.
 **5:** Gazing upon (_vīkṣamāṇāḥ_) trees weighed down with loads of blossoms (_puṣpabhārāvalambinaḥ_), and ocean-bound rivers (_saritaḥ sāgaraṃgamāḥ_) bearing pellucid waters (_prasannāmbuvahāś caiva_)—
 
 **6:** —and house-like mountain caverns (_kandarāṇi ca_), crags (_śailāṃś ca_), rock-fissures (_nirdarāṇi_), natural caves (_guhās tathā_), prominent peaks (_śikharāṇi ca mukhyāni_), and pleasing ravines (_darīś ca priyadarśanāḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.6 (Four Distinct Types of Mountain Cavities)**
+
+Glossing the four terms for caves in **13.6** to rule out tautology (इति न पौनरुक्त्यं, **Śiromaṇi**), **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** distinguish कन्दराणि as house-shaped mountain caverns (मन्दिराकारपर्वतविवराणि), निर्दराणि as split rock-fissures (स्फुटितशैलरन्ध्रविशेषान्), गुहाः as natural self-formed hollows (देवखातबिलानि), and दरीः as vast or fearsome gorges (महारन्ध्राणि; भयंकरगुहाः).
 </details>
 </details>
 
@@ -374,6 +398,14 @@ the unbroken compound and segregated word order are given below for reading plea
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —and beholding along the way (_mārge_) water-filled lakes (_sajalān taṭākāṃś ca_) resplendent with waters pure as beryl (_vaidūryavimalais toyaiḥ_) and with lotuses bearing buds opening to the tip of their sheaths (_padmaiś cākośakuḍmalaiḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.7–8 (Beryl-Clear Lakes and Half-Opened Lotus Buds)**
+
+Commenting on **13.7b** (आकोशकुड्मलैः), **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain that the lotuses were adorned with buds extending right to the tip of their sheaths, meaning slightly opened blossoms (ईषद्विकसितमुकुलैः). On **13.8a**, **Tilaka** glosses कारण्डैः as _kāraṇḍava_ ducks (कारण्डवैः), while **Bhūṣaṇa** cites the _Vaijayantī_ lexicon (कारण्डको महापक्षी इति वैजयन्ती).
 </details>
 </details>
 
@@ -490,6 +522,14 @@ in the forest, and else where standing. [4-13-9]
 
 —and seeing on every side (_sarvataḥ paśyan_) fearless deer (_nirbhayān hariṇān_) roaming in the woods (_vanagocarān_), feeding on tender shoots of young grass (_mṛduśaṣpāṅkurāhārān_), and standing on open glades (_sthalīṣu sthitān_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.9–10 (Grazing Deer and Bank-Battering Solitary Tuskers)**
+
+On **13.9a** (मृदुशष्पाङ्कुराहारान्), **Tilaka** and **Śiromaṇi** gloss शष्पं as tender grass-shoots (कोमलतृणाङ्कुरभक्षणकर्तॄन्) eaten by deer standing on dry ground (जलाकृत्रिमभूमिषु). On **13.10**, **Tilaka** and **Bhūṣaṇa** explain the wild tuskers are called `enemies of lakes' (तटाकवैरिणः) because they batter down the embankments (कूलघातित्वादेव तटाकवैरित्वम्) and roam alone (असहायचरान्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,6 +645,14 @@ cognate word and *khecara* is its adjective, as observed by Dr. Satya Vrat in hi
 
 **12:** —beholding other forest-roaming creatures in the woods (_vane vanacarāṃś cānyān_) and sky-faring birds (_khecarāṃś ca vihaṃgamān_), those followers of Sugrīva (_sugrīvavaśavartinaḥ_) marched swiftly on (_tvaritā jagmuḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.11–12 (Moving Mountains and Dust-Covered Monkeys)**
+
+Glossing **13.10d–11** (द्विरदान्), **Bhūṣaṇa** notes that `two-tusked' excludes four-tusked celestial elephants (चतुर्दन्तन्यावृत्तिः), and explains गिरितटोत्कृष्टान् as those who have gouged the mountain slopes (उल्लिखितगिरितटान्). On **13.11c**, **Tilaka** and **Śiromaṇi** note the forest monkeys looked like walking mountains and elephants because their bodies were powdered with earth-dust (महीरेणुव्याप्तशरीरान्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -663,6 +711,14 @@ and he asked Sugreeva like this. [4-13-13]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As they were advancing swiftly there (_teṣām tu gacchatām tatra tvaritam_), Rāma, the delight of the Raghus (_raghunandanaḥ_), beheld a wooded grove of clustered trees (_drumaṣaṇḍavanam dṛṣṭvā_) and spoke to Sugrīva:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.13–14 (The Cloud-Dark Grove Ringed by Plantains)**
+
+On **13.13c** (द्रुमषण्डवनं), **Tilaka** and **Śiromaṇi** gloss षण्डः as a dense cluster of trees (द्रुमसमूहनिबिडं काननं), citing the _Medinī_ lexicon, while **Bhūṣaṇa** notes that specifying `tree-groves' excludes mere creeper-thickets (लतागुल्मव्यावृत्तिः). On **13.14**, **Bhūṣaṇa** remarks the grove is compared to a cloud because of its dark-blue hue (नीलवर्ण उपमा).
 </details>
 </details>
 
@@ -765,6 +821,14 @@ tvayaa* = inquisitiveness, to be clear, be made, I, wish to, by you.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “What is this (_kim etat_)? I wish to know (_jñātum icchāmi_), O friend, for curiosity (_kautūhalam_) has arisen in me; I wish to have my curiosity dispelled (_kautūhalāpanayanam kartum_) by you!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.15–17 (Rāma's Curiosity and the Hermitage That Dispels Fatigue)**
+
+On **13.15c–d** (कौतूहलापनयनं), **Tilaka** and **Śiromaṇi** explain that Rāma asks Sugrīva to remove his eager curiosity regarding the grove's origin (त्वया कर्त्रा कौतूहलस्यौत्सुक्यस्यापनयनं निवर्तनं). On **13.17**, **Śiromaṇi** notes that Sugrīva describes the vast hermitage while walking (गच्छन्नेव), praising its sweet roots, fruits, and fatigue-dispelling waters.
 </details>
 </details>
 
@@ -924,6 +988,14 @@ the upside-down yogic body posture, and who always reclined in water. [4-13-18]
 
 “Here dwelt seven sages of rigid vows (_munayaḥ saṃśitavratāḥ_) known by the name of Saptajanas (_saptajanā nāma_), who constantly slept in water (_niyatam jalaśāyinaḥ_) with their heads pointed downward (_adhaḥśīrṣāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.18 (The Austerities of the Seven Saptajana Sages)**
+
+Commenting on **13.18**, **Tilaka** and **Śiromaṇi** explain that seven ascetics renowned collectively as the _Saptajanas_ (सप्तजना इति प्रसिद्धाः) practiced fierce vows (तीक्ष्णव्रतपरायणाः) here, constantly performing penance with their heads planted downward toward the earth (भूप्रतिष्ठापितशिरसः) and making their beds within the water (विहितजलशयनादिमन्तः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -986,6 +1058,14 @@ they practised their asceticism for seven hundred years and went to heavens with
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Subsisting on air (_kṛtāhārā vāyunā_) once every seven nights (_saptarātre_), those mountain-dwellers (_acalavāsinaḥ_) ascended to heaven (_divam yātāḥ_) after seven hundred years (_varṣaśataiḥ saptabhiḥ_) together with their physical bodies (_sakalevarāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.19–21 (Bodily Ascension and the Unassailable Hermitage)**
+
+On **13.19**, **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain that the sages fed solely on wind once every seven nights (सप्तरात्रस्य एकवारं कृताहाराः) and ascended to heaven in their physical bodies (शरीरसहिताः) after seven hundred years. On **13.21d** (न निवर्तन्ति), **Tilaka** and **Bhūṣaṇa** note that intruding creatures perish on the spot (अत्रैव म्रियन्ते इत्यर्थः).
 </details>
 </details>
 
@@ -1147,6 +1227,14 @@ audible, and oh, Raghava, one can sense a divine fragrance too. [4-13-22]
 
 “And here are heard the tinklings of ornaments (_vibhūṣaṇaravāś cātra śrūyante_) accompanied by melodious syllables (_sakalākṣarāḥ_), the sound of musical instruments and song (_tūryagītasvanaś cāpi_), and a celestial fragrance (_gandho divyaś ca_), O Rāghava!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.22 (Celestial Damsels Sporting in the Hermitage)**
+
+Explaining why ornament-tinklings and music are heard in an empty hermitage (**13.22**), **Bhūṣaṇa** remarks that the sages, though ascended to heaven, return in subtle bodies to sport with celestial nymphs (दिवं गताः शरीराणामन्तरेण पुनरत्रागत्याप्सरोभिः क्रीडन्तीत्याशयेनाह), whose ornament-chimes imply dancing (भूषणरवेण नृत्तमुपलक्ष्यते), accompanied by sweet-syllabled song (सकलाक्षराः) and divine fragrance.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1287,14 @@ pigeon is apparent muffling the treetops. [4-13-23]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The three sacred fires (_tretāgnayo &#x27;pi_) blaze here, and yonder dense smoke is seen (_dhūmo hy eṣa pradṛśyate_), tawny-gray like a dove&#x27;s limb (_kapotāṅgāruṇo ghanaḥ_), enveloping the treetops (_veṣṭayann iva vṛkṣāgrān_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.23–24 (The Perpetual Sacred Fires and Beryl-Mountain Trees)**
+
+On **13.23–24**, **Tilaka** observes that the grove remains not merely a realm of celestial enjoyment (_bhogabhūmi_) but also of Vedic ritual (न केवलं भोगभूमिः कर्मभूमिरपीत्याह), for the three sacred fires still blaze, shrouding the emerald-green treetops in dense dove-gray smoke (कपोताङ्गवदरुणो धूसरो घन इव) like cloud-wrapped beryl mountains.
 </details>
 </details>
 
@@ -1308,6 +1404,14 @@ along with brother Lakshmana [4-13-25]
 
 “Perform obeisance (_kuru praṇāmam_) toward them (_teṣām uddiśya_), O righteous-souled Rāghava (_dharmātman rāghava_), together with your brother Lakṣmaṇa, devoutly (_prayataḥ_) and with folded hands (_saṃhatāñjaliḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.25–26 (The Protective Blessing of Bowing to the Sages)**
+
+As summarized in the sarga preface and commentary on **13.25–26**, Sugrīva urges Rāma and Lakṣmaṇa to bow with folded hands toward the seven sages (कल्याणकामैरवश्यप्रणम्यानि तान्प्रणमेति रामं प्रवर्तयति), assuring Rāma that no bodily harm or ill fortune (अशुभं किंचिच्छरीरे) ever befalls warriors who salute those purified souls.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1414,6 +1518,14 @@ as Seven Persons, and offered salutations to them. [4-13-27]
 
 Thereupon Rāma, together with his brother Lakṣmaṇa, folded his hands in reverence (_kṛtāñjaliḥ_) and, facing toward them (_samuddiśya_), saluted those great-souled sages (_mahātmānas tān ṛṣīn abhyavādayat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.27–28 (Rāma's Reverent Salutation and Joyful Advance)**
+
+On **13.27–28**, the commentators note that righteous Rāma, together with his brother Lakṣmaṇa, folded his hands in reverence (कृताञ्जलिः) and bowed in the direction of those great-souled sages (तानृषीनभ्यवादयत्), whereafter Sugrīva and the Vānaras marched onward with joyful hearts (संहृष्टमानसाः), confident of victory.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1519,6 +1631,14 @@ ruled city namely Kishkindha. [4-13-29]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having gone a long distance (_dūram adhvānam_) from that hermitage of the Saptajanas (_tasmāt saptajanāśramāt_), they beheld that unassailable Kiṣkindhā (_dṛdṛśus tām durādharṣām kiṣkindhām_) guarded by Vālī (_vālipālitām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.29–30 (Arrival at Indra's Son's Capital Kiṣkindhā)**
+
+On **13.29–30**, having traversed the remaining distance beyond the Saptajana hermitage (तस्मात् सप्तजनाश्रमात्), Rāma, Lakṣmaṇa, and the Vānaras—blazing with fierce energy (उदितोग्रतेजसः) and grasping their weapons—beheld once more the unassailable city of Kiṣkindhā guarded by the valor of Indra's son Vālī (सुरेशात्मजवीर्यपालितां) for the slaying of their foe.
 </details>
 </details>
 

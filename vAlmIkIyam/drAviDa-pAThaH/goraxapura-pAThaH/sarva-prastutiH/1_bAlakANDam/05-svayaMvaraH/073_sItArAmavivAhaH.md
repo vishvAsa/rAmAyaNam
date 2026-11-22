@@ -94,6 +94,14 @@ asked after the wellbeing of Dasharatha said this to him. [1-73-2]
 
 **2:** The son of the King of Kekaya and the own full maternal uncle of Bharata (_sākṣād bharatamātulaḥ_), upon seeing the king and inquiring after his welfare (_dṛṣṭvā pṛṣṭvā ca kuśalam_), spoke these words to him:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.1–2 (sākṣād bharatamātulaḥ)**
+
+**Śiromaṇi** construes vv. 1–2 as a single syntactic sentence (_ślokadvayam ekānvayi_). Why does Vālmīki qualify Yudhājit as _sākṣād bharatamātulaḥ_ (“Bharata’s direct maternal uncle”)? **Govindarāja** explains that _sākṣāt_ indicates he was Kaikeyī’s full uterine brother, implying that Bharata also had half-uncles born of his maternal grandfather’s co-wives (_sākṣātpadena bhinnodaramātulo ’py astīti gamyate_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -158,6 +166,20 @@ and for that reason I am sent to Ayodhya... [1-73-4]
 **3:** “The sovereign lord of the Kekayas has affectionately inquired after your welfare (_snehāt kuśalam abravīt_); those whose well-being you wish for (_yeṣāṃ kuśalakāmo ’si_) are at present in perfect health (_teṣāṃ sampraty anāmayam_).
 
 **4:** “O Indra among kings, my royal father is eager to see my sister’s son (_svasrīyaṃ mama ... draṣṭukāmo mahīpatiḥ_); for that purpose I journeyed to Ayodhyā, O delight of the Raghus (_tadartham upayāto ’ham ayodhyām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.3 (kekayādhipatī rājā ... anāmayam)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** note that _kekayādhipatī rājā_ refers to Yudhājit’s father (King Aśvapati of Kekaya), who sends affectionate greetings to Daśaratha (_kekayādhipatir yudhājitpitā kuśalam abravīd iti yuṣmān pratīti śeṣaḥ_, **Tilaka**) and assures him that his Kekaya in-laws enjoy good health (_yeṣāṃ kekayānām asmākaṃ tvaṃ kuśalakāmo ’si teṣāṃ sampratīdānīm anāmayam_, **Śiromaṇi**).
+
+_____________
+
+**73.4–6 (svasrīyaṃ ... tvarayābhyupayāto ’ham)**
+
+Glossing _svasrīyam_ as “sister’s son, i.e., Bharata” (_svasrīyaṃ bharatam_, **Tilaka**; _madbhaginīputraṃ bharatam_, **Śiromaṇi**), the commentators note that Yudhājit had first traveled to Ayodhyā to bring Bharata to Kekaya (_tadānayanārtham_, **Śiromaṇi**), and upon hearing there of the princes’ wedding in Mithilā, hastened hither without delay.
 </details>
 </details>
 
@@ -338,6 +360,14 @@ Vedic-ritual hall, thus it is to be assumed.
 
 **8:** —rising again at dawn and performing his morning rites, that knower of truth (_kṛtvā karmāṇi tattvavit_), placing the sages at his fore, approached the sacrificial pavilion (_yajñavāṭam upāgamat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.7–8 (yajñavāṭam upāgamat)**
+
+Completing the sentence begun in v. 6cd, Daśaratha honors Yudhājit and approaches the _yajñavāṭa_ at dawn. **Tilaka** glosses _yajñavāṭam_ as the entrance to the sacrificial hall (_yajñaśālādvāram_), while **Govindarāja** notes that since Janaka’s sacrifice had already concluded, _yajñavāṭa_ here denotes the wedding festival pavilion (_atra yajñavāṭaśabdenotsavavāṭocyate_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -412,6 +442,14 @@ health wise: *mR^itaa durluptam madhumat suvarNam dhanam jananam ruNam daarayiSu
 
 **10:** —placed Vasiṣṭha and the other great sages as well at his fore (_vasiṣṭhaṃ purataḥ kṛtvā_). Then the revered Vasiṣṭha approached the Vaideha king and spoke these words (_vaideham idam abravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.9–10 (yukte muhūrte vijaye & kṛtakautukamaṅgalaḥ)**
+
+While **Tilaka** takes _vijaye_ as the specific _muhūrta_ named _Vijaya_ (_vijaye tadākhye_), **Govindarāja** argues that the _Vijaya_ _muhūrta_ falls in the afternoon whereas weddings occur in the forenoon, so _vijaye_ means “victory-bringing” (_vijayāvahe na tu vijayākhye tasyāparāhṇikatvāt_). On _kṛtakautukamaṅgalaḥ_, **Govindarāja** cites _Amarakośa_ on _kautuka_ as the auspicious bridal wrist-cord (_hastasūtre_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -458,6 +496,14 @@ looking forward for the donor... [1-73-10b, 11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “King Daśaratha, O King, foremost of the best of men, together with his sons who have completed their auspicious nuptial rites (_kṛtakautukamaṅgalaiḥ putraiḥ_), awaits the giver of the brides (_dātāram abhikāṅkṣate_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.11–12 (dātāram abhikāṅkṣate)**
+
+Waiting at the threshold, Daśaratha awaits Janaka’s leave to enter (_praveṣṭum_, **Tilaka**) as the giver of the brides (_kanyādānakartāram_, **Śiromaṇi**). On _dātṛpratigrahītṛbhyām_, **Tilaka** and **Govindarāja** supply _yoge_: all fruits of _dharma_ arise only when giver and receiver unite, urging Janaka to fulfill his _svadharma_ by granting entry (_praveśājñādānarūpam_, **Tilaka**) and redeeming his pledge (_pratijñārūpam_, **Govindarāja**).
 </details>
 </details>
 
@@ -565,6 +611,14 @@ this sentence to that right honourable Vashishta. [1-73-13]
 
 Thus addressed by the high-souled Vasiṣṭha, the supremely munificent Janaka (_paramodāro_), of great splendor and a supreme knower of _dharma_ (_paramadharmavit_), spoke these words in reply:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.13–14 (svagṛhe ko vicāro ’sti)**
+
+Replying with courtly warmth (_paramodāraḥ paramadātā_, **Tilaka**), Janaka asks what doorkeeper (_pratihāro dvārapālaḥ_) could bar Daśaratha or whose permission he awaits. **Śiromaṇi** identifies the figure _kāvyārthāpatti_ in _yathā rājyam idaṃ tava_: if my entire kingdom is yours, it goes without saying that this palace is your own home (_yadi rājyaṃ tava tadā gṛham idaṃ taveti kiṃ vaktavyam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -651,6 +705,14 @@ jets of flames of radiant fire... [1-73-15]
 **14:** “What doorkeeper of mine stands in the way (_kaḥ sthitaḥ pratihāro me_), and whose command is being awaited (_kasyājñāṃ sampratīkṣate_)? What hesitation can there be in one’s own home (_svagṛhe ko vicāro ’sti_), since this kingdom is yours just as much as mine (_yathā rājyam idaṃ tava_)?
 
 **15:** “Having completed the entirety of the auspicious bridal rites (_kṛtakautukasarvasvā_), my daughters have already come to the base of the sacrificial altar (_vedimūlam upāgatāḥ_), O best of sages, shining like bright tongues of fire (_dīptā vahner ivārciṣaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.15–16 (kṛtakautukasarvasvā & tvatpratīkṣo ’smi)**
+
+Showing his own eagerness for the wedding (_svasyātīva vivāhāpekṣitatvam_, **Śiromaṇi**), Janaka declares that his daughters, having completed every auspicious bridal rite (_aṅgīkṛtavivāhopayogisarvamaṅgalācārāḥ_, **Govindarāja**), stand at the altar’s base shining like flames of fire, while he himself awaits Vasiṣṭha alone to proceed without delay (_avilambam_, **Tilaka** and **Govindarāja**).
 </details>
 </details>
 
@@ -755,6 +817,14 @@ one by one, four in all, into marriage hall along with all of the assemblages of
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words spoken by Janaka, Daśaratha thereupon caused his sons and all the hosts of sages to enter (_praveśayām āsa sutān sarvān ṛṣigaṇān api_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.17–18 (praveśayām āsa)**
+
+Receiving Janaka’s message through Vasiṣṭha or his envoy (_vasiṣṭhamukhāt_, **Tilaka**; _vasiṣṭhapreritapuruṣamukhāt_, **Govindarāja**), Daśaratha brings his sons and the sages inside, where Janaka requests Vasiṣṭha to conduct the entire marriage liturgy.
 </details>
 </details>
 
@@ -976,6 +1046,26 @@ effused oblational liquids into that Altar of Fire, with short-handled and long-
 
 **24:** —and having established the sacred fire upon that altar with prescribed rites and mantras (_agnim ādhāya taṃ vedyāṃ vidhimantrapuraskṛtam_), Vasiṣṭha, bull among sages of great splendor, offered oblations into the fire (_juhāvāgnau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.19–20 (lokarāmasya & prapāmadhye)**
+
+**Govindarāja** derives _lokarāma_ as “he in whom all worlds delight” (_lokā ramante ’sminn iti_), while **Tilaka** glosses it as “beloved of the world” (_lokapriyasya_). What is _prapāmadhye_? **Tilaka** cites **Kataka** (_yajñaśālāmadhye_) and explains that the wedding hall is metaphorically called a _prapā_ (wayside water-bower) because it quenches all heat and fatigue (_tṛṣṇāśāmakatvena prapātvāropaḥ_), whereas **Govindarāja** glosses it as a cool pavilion woven with coconut fronds (_nālikerādipatraracitamaṇḍapaḥ_).
+
+_____________
+
+**73.21–22 (suvarṇapālikābhiḥ & citrakumbhaiḥ)**
+
+Both **Tilaka** and **Govindarāja** construe _sāṅkuraiḥ_ by gender-adaptation (_liṅgavipariṇāmena_) with _suvarṇapālikābhiḥ_ as well: sprout-bearing golden pots. On _citrakumbhaiḥ_, **Tilaka** records two variant readings: _acchidrakumbhaiḥ_ (“unpierced golden jars,” **Kataka**) and _chidrakumbhaiḥ_ (“spouted water-vessels, _karakaiḥ_,” adopted by **Govindarāja** and **Śiromaṇi**, who also read _srugbhiḥ_ for _sragbhiḥ_, pairing the _sruk_ and _sruva_ ladles).
+
+_____________
+
+**73.23–24 (akṣataiḥ saṃskṛtaiḥ & juhāvāgnau)**
+
+**Govindarāja** glosses _saṃskṛtaiḥ_ as unbroken rice consecrated with turmeric paste (_haridrālepanādisaṃskāravadbhiḥ_) and _samaiḥ_ as _darbha_ blades cut to equal scriptural length (_śāstroktaparimāṇaviśiṣṭaiḥ_, **Śiromaṇi**). He notes that Vasiṣṭha’s oblation here is the preliminary _ābhyudayika_ _homa_ performed prior to _pāṇigrahaṇa_ (_atra pāṇigrahaṇāt pūrvaṃ homaḥ ābhyudayikaḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1130,6 +1220,20 @@ they are living separately so far, that farness is now washed off by this holy w
 
 **27:** “Accept her—may auspiciousness attend you (_pratīccha caināṃ bhadraṃ te_)! Clasp her hand with your hand (_pāṇiṃ gṛhṇīṣva pāṇinā_)! Devoted to her lord and supremely fortunate, she will ever follow you like your own shadow (_pativratā mahābhāgā chāyevānugatā sadā_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.25–26 (iyaṃ sītā mama sutā sahadharmacarī tava)**
+
+In this celebrated _kanyādāna_ verse, **Tilaka** explains that _iyam_ (“this bride won by your valor,” _tvadbhujavīryanirjitā_), _mama sutā_ (“of noble lineage,” _ābhijātyasūcanam_), and _sahadharmacarī_ (“with whom all your religious duties are to be performed,” _anena yat kartavyaṃ tad anayā saheti_) state the three grounds of eligibility. **Govindarāja** adds that _sītā_ highlights her non-uterine (_ayonija_) birth from the furrow (_lāṅgalapaddhatiḥ_), while _sahadharmacarī_ anticipates her future counsel of universal forbearance matching Rāma’s own compassion.
+
+_____________
+
+**73.27 (pāṇiṃ gṛhṇīṣva pāṇinā)**
+
+How can Rāma clasp Sītā’s hand if a Kṣatriya bride grasps an arrow? **Govindarāja** resolves this by citing _Manusmṛti_ 3.43–44 (_pāṇigrahaṇasaṃskāraḥ savarṇāṣūpadiśyate / asavarṇāsv ayaṃ jñeyo vidhir udvāhakarmaṇi_): the arrow-grasping rule applies only to _asavarṇa_ marriages, whereas _pāṇigrahaṇa_ is prescribed across all four _varṇas_ when the bride is _savarṇā_!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1191,6 +1295,14 @@ some more flower-showers and drumbeats and dances, later.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, the king thereupon poured water sanctified by mantras (_prākṣipad rājā mantrapūtaṃ jalaṃ tadā_), while the gods and sages cried out, “Well done! Well done!” (_sādhu sādhv iti devānām ṛṣīṇāṃ vadatāṃ tadā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.28–30 (mantrapūtaṃ jalam & ūrmilām udyatām)**
+
+Janaka pours water sanctified by the _kanyādāna_ mantra into Rāma’s hand (_rāmahasta iti śeṣaḥ_, **Tilaka**, **Govindarāja**) amid divine acclaim, and calls Lakṣmaṇa to receive Ūrmilā (_udyatāṃ dātuṃ kṛtaniścayām_, **Tilaka**).
 </details>
 </details>
 
@@ -1320,6 +1432,14 @@ palm into your palm... [1-73-31b-32a]
 
 “—accept her and clasp her hand; let there be no lapse of the auspicious time (_mā bhūt kālasya paryayaḥ_)!” Having spoken thus to him, Janaka addressed Bharata as well (_bharataṃ cābhyabhāṣata_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.31–32 (Why Lakṣmaṇa Weds Before Bharata Without Parivedana)**
+
+Why is Lakṣmaṇa given Ūrmilā before his elder brother Bharata weds Māṇḍavī? Both **Tilaka** (_jyeṣṭhād bharatāt pūrvaṃ lakṣmaṇapāṇigrahas tu bhinnodaratvān na doṣāya_) and **Govindarāja** explain that because they are born of different mothers (_bhinnamātṛkatvāt_), no fault of _parivedana_ arises, citing the Dharmaśāstra rule: _pitṛvyaputre sāpatne paranārīsuteṣu vā / vivāhadānayajñādau parivedo na dūṣaṇam_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1390,6 +1510,14 @@ Kakutstha lineage... without lapse of time take up other ceremonies..." So said 
 **32:** “Clasp the hand of Māṇḍavī with your hand, O delight of the Raghus (_gṛhāṇa pāṇiṃ māṇḍavyāḥ pāṇinā raghunandana_)!” And the righteous lord of Mithilā also spoke to Śatrughna (_śatrughnaṃ cāpi dharmātmā abravīt_):
 
 **33:** “O mighty-armed prince, clasp the hand of Śrutakīrti with your hand (_śrutakīrter mahābāho pāṇiṃ gṛhṇīṣva pāṇinā_)! Gentle are you all, and all of you are steadfast in noble vows (_sarve bhavantaḥ saumyāś ca sarve sucaritavratāḥ_);—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.32–33 (Who Poured the Water for Māṇḍavī & Śrutakīrti?)**
+
+**Govindarāja** notes that as the elder brother and head of the house, Janaka uttered the formal command (_jyeṣṭhatvād ājñāmātraṃ kṛtam_), while Kuśadhvaja himself poured the _kanyādāna_ water for his two biological daughters Māṇḍavī and Śrutakīrti (_udakaprakṣepaṇaṃ tu māṇḍavīśrutakīrtyoḥ kuśadhvajenaiva_), in accordance with Yājñavalkya’s law of guardianship (_pitā pitāmaho bhrātā..._).
 </details>
 </details>
 
@@ -1493,6 +1621,20 @@ fire, daylong.
 
 **36:** —and the high-souled sages too, those upholders of the Raghu line together with their brides (_sahabhāryā raghūdvahāḥ_) duly performed the marriage rites in accordance with scriptural ordinance (_yathoktena tataś cakrur vivāhaṃ vidhipūrvakam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.34–35 (catvāras te catasṛṇām)**
+
+Guided by Vasiṣṭha (_vasiṣṭhasya mate sthitāḥ_), all four princes simultaneously clasp the hands of their brides and circumambulate the fire, the altar, and King Janaka (_rājānaṃ janakam_, **Tilaka**, **Govindarāja**).
+
+_____________
+
+**73.36 (One Common Altar Fire vs. Four Nuptial Fires)**
+
+Why does v. 36 state that the princes performed the marriage rites (_cakrur vivāham_) after v. 34 already described _pāṇigrahaṇa_? **Govindarāja** explains that Vasiṣṭha first offered the preliminary _ābhyudayika_ _homa_ in a single fire on Janaka’s altar, where all four princes clasped their brides’ hands and circumambulated the fire, altar, king, and sages; thereafter, each prince established his own individual nuptial fire according to his _Kalpasūtra_ to perform the _vivāhahoma_ (_svakalpoktavidhānena pratyekam agniṃ pratiṣṭhāpya vivāhahomāṃś cakrur ity arthaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1548,6 +1690,14 @@ and because it is the marriage of celebrated bridegrooms from Raghu's dynasty, s
 **37:** From the firmament there fell a great and radiant shower of flowers (_puṣpavṛṣṭir mahaty āsīd antarikṣāt subhāsvarā_), accompanied by the peals of divine kettle-drums and the sounds of song and musical instruments (_gītavāditraniḥsvanaiḥ_).
 
 **38:** Hosts of Apsarases danced and Gandharvas sang melodiously (_nanṛtuś cāpsaraḥsaṅghā gandharvāś ca jaguḥ kalam_); at the wedding of the chiefs of the Raghus, that wondrous spectacle was beheld (_tad adbhutam adṛśyata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.37–39 (trir agniṃ te parikramya ūhur bhāryāḥ)**
+
+**Govindarāja** notes that while vv. 28–29 described the auspicious portents at Sītā’s _kanyādāna_, vv. 37–38 portray the cosmic celebration for all four weddings (_sarvasādhāraṇyena_). In v. 39, _trir agniṃ parikramya_ refers to the three circumambulations accompanying the _lājāhoma_, culminating in seating the brides on their left side (_ūhuḥ svasvavāmabhāgaṃ ninyuḥ_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1661,6 +1811,14 @@ the assemblages of sages, kinfolks, queens and wives included, and Dasharatha fe
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then those delights of the Raghus, accompanied by their wives, departed to the royal camp (_athopakāryaṃ jagmus te sabhāryā raghunandanāḥ_); and the king too followed behind, beholding them (_rājāpy anuyayau paśyan_), together with the host of sages and his kinsmen.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**73.40 (upakāryaṃ jagmuḥ)**
+
+The newly wedded princes proceed to their royal pavilion (_śibiram_, **Tilaka**; _paṭuracitagṛham_, **Śiromaṇi**), followed by Daśaratha gazing fondly upon the brides and grooms (_vadhūvarasaṃbandhakalyāṇam_, **Tilaka**).
 </details>
 </details>
 

@@ -613,6 +613,152 @@ Then mighty Rāvaṇa, by force and martial prowess (_vikrameṇa balād balī_)
 
 **22:** While the departed spirits were thus being freed by that mighty rākṣasa (_preteṣu mucyamāneṣu rākṣasena mahīyasā_), the wardens of the dead, fiercely enraged (_pretagopāḥ susaṅkruddhāḥ_), rushed upon the lord of rākṣasas (_rākṣasendram abhidravan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.21.1–2 (Nārada’s Journey and Yama’s Cosmic Court)**
+
+**Śivasahāya** (_Śiromaṇi_) introduces the sarga as Nārada’s swift flight to Yama’s palace to report Rāvaṇa’s boastful march (नारदकर्तृकयमसदनगमनं वर्णयन्नाह). All three commentators illuminate the solemn epithet अग्निपुरस्कृतम् in 7.21.2: **Rāma Varmā** (_Tilaka_) glosses it as ‘having Fire placed before him as universal witness’ (अग्निः पुरस्कृतः सर्वसाक्षितया येन तम्), echoed by **Śivasahāya** and **Govindarāja** (_Bhūṣaṇa_). On विधानमुपतिष्ठन्तम्, Rāma Varmā gives two complementary senses—dispensing fruits proportionate to each creature’s merit or sin (पुण्यपापरूपं कर्म ... तत्तदनुरूपफलं प्रयच्छन्तम्), or administering acts of chastisement and grace (निग्रहानुग्रहरूपं कृत्यमनुतिष्ठन्तम्)—the first adopted by Śivasahāya and the second by Govindarāja.
+
+_____________
+
+**7.21.3–4 (Dharmic Hospitality and Inquiry)**
+
+True to his title as Dharmarāja, Yama interrupts his judicial duties the moment he sees Nārada arrive, offering _arghya_ strictly according to dharma (धर्मतोऽर्घ्यमावेद्य, noted by **Śivasahāya**) and allowing his guest to sit comfortably before speaking. On Yama’s anxious double question in 7.21.4, **Rāma Varmā** supplies लोके (‘is all well in the world, and does dharma suffer no decline?’), while **Śivasahāya** glosses आगमनकृत्यम् directly as ‘the purpose of your coming’ (आगमनस्य प्रयोजनं किम्). Addressing Nārada as honored by gods and gandharvas underscores the sage’s celestial authority.
+
+_____________
+
+**7.21.5–6 (Nārada’s Urgent Warning)**
+
+Nārada responds with dramatic brevity, pairing a promise to explain with a call for immediate action: विधानं च विधीयताम्. Both **Rāma Varmā** and **Govindarāja** gloss विधानम् here not as karmic ordinance (as in 7.21.2) but as a timely countermeasure against impending peril (मत्तः श्रुताया आपदः प्रतिक्रियाम्), creating an ironic echo across the two occurrences of the word. **Śivasahāya** construes 7.21.6–7 together as one syntactic period (श्लोकद्वयमेकान्वयि): Daśagrīva is advancing even against the invincible King of the Ancestors to test his martial supremacy.
+
+_____________
+
+**7.21.7 (The Staff-Bearer’s Uncertain Fate)**
+
+Concluding his counsel, Nārada sharpens the dramatic tension by addressing Yama as दण्डप्रहरणः, analyzed by all three commentators as a _bahuvrīhi_: ‘he whose weapon is the dread Staff of Time’ (दण्डः कालदण्डः प्रहरणं यस्य). **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) all gloss Nārada’s pointed question किं नु भविष्यति as ‘whether victory or defeat will befall you today’ (जयः पराजयो वेत्यर्थः). Having warned of Rāvaṇa’s boons, Nārada subtly tests how Yama’s absolute office will fare against Brahmā’s favor.
+
+_____________
+
+**7.21.8–10 (Puṣpaka Illuminates Yama’s Realm)**
+
+Before Yama can reply, Rāvaṇa arrives on cue. **Śivasahāya** notes the immediacy of एतस्मिन्नन्तरे (‘at that very instant’) as Yama and Nārada glimpse Puṣpaka blazing from afar like the newly risen sun (_aṃśumantam ivoditam_). Its radiance dispels the gloom of the underworld (_vitimiram_), turning Rāvaṇa’s intrusion into a vivid tour of karmic retribution. In 7.21.10, Rāvaṇa surveys the overarching moral duality of Yama’s dominion: creatures reaping both their good (_sukṛta_) and evil (_duṣkṛta_) deeds.
+
+_____________
+
+**7.21.11–12 (Yama’s Wardens and the Torment of Sinners)**
+
+Linking the instrumental यमस्य पुरुषैः in 7.21.11 directly into 7.21.12, **Śivasahāya** construes the embodied souls as being struck by Yama’s dread emissaries (यमस्य पुरुषैर्वध्यमानान् देहिनोऽपश्यत्). Both **Rāma Varmā** and **Govindarāja** gloss तीव्रनिष्टनः as agonized, piercing wails (दुःखितशब्दः, क्रूरशब्दः), while **Śivasahāya** glosses सारमेयैः as ‘hounds’ (श्वभिः) and vividly imagines their shrieks as desperate cries of ‘O Lord Yamarāja, save us!’ (देव यमराज रक्षेत्यादिशब्दः), inaugurating a sweeping five-verse period across the realms of hell.
+
+_____________
+
+**7.21.13 (The Blood-River Vaitaraṇī and Epic Hypermeter)**
+
+Continuing his catalogue of hellish torments, Vālmīki presents the iconic river _Vaitaraṇī_ running thick with blood (_śoṇitodakā_). **Śivasahāya** (_Śiromaṇi_) glosses श्रोत्रायासकराः as cries inflicting agony upon the listener’s ear (श्रवणदुःखोत्पादिकाः). On the metrically swollen third quarter सन्तार्यमाणान्वैतरणीम् (yielding a seventeen-syllable second line), **Rāma Varmā** (_Tilaka_) explicitly notes the excess syllable as an epic license (सन्तार्यमाणान्वैतरणीमित्यक्षराधिक्यमार्षम्), and **Govindarāja** (_Bhūṣaṇa_) likewise flags the extra syllable in the _pāda_ (पादाक्षराधिक्यम्).
+
+_____________
+
+**7.21.14–16 (The Classical Geography of Naraka)**
+
+**Śivasahāya** sweeps all these accusative participles into a single syntactic period terminating in ददर्श रावणो मार्गे (7.21.17a). The passage maps a vivid Purāṇic topography of retribution: blazing sands (_taptāsu vālukāsu_), the Sword-Leaf Forest (_Asipatravana_), the dread hell _Raurava_, the Caustic River (_Kṣāranadī_), and razor-bladed paths (_Kṣuradhārā_). The piling up of gaunt physical epithets in 7.21.16—corpse-like, pale, filthy, disheveled—underscores how karmic vice manifests directly upon the subtle suffering body.
+
+_____________
+
+**7.21.17–18 (Karmic Symmetry of Meritorious Gifts)**
+
+Turning from torment to reward, 7.21.17c–18 showcases the dharmic doctrine of _yathā-dāna_—exact reciprocity between charity and heavenly enjoyment. **Govindarāja** glosses स्वकैः सुकृतैः as ‘caused by their own virtuous deeds’ (स्वकैः सुकृतैर्हेतुभिः), enabling music-filled bliss in stately residences. On 7.21.18, **Rāma Varmā** glosses गृहदातारः as builders and donors of dwellings (गृहकृतः) and अश्नतः as ‘experiencing’ (अनुभवतः), while **Śivasahāya** links 7.21.18–19 as one period contrasting charitable givers with the damned.
+
+_____________
+
+**7.21.19–20 (Rāvaṇa’s Defiant Subversion of Karma)**
+
+Completing his survey of the radiant righteous (_svatejasā dīpyamānān_), Rāvaṇa intervenes directly in the machinery of cosmic justice by forcibly liberating the damned. On 7.21.20a, **Rāma Varmā** (_Tilaka_) glosses भिद्यमानान् as ‘being afflicted’ (पीड्यमानान्) while explicitly noting the variant reading वध्यमानान् (adopted by Baroda CE). **Śivasahāya** (_Śiromaṇi_) expands कर्मभिर्दुष्कृतैः as those suffering manifold torments from their own sins (नानायातनाः प्राप्तान्), whom Rāvaṇa releases purely through arrogant force (_balād balī_) to provoke Yama.
+
+_____________
+
+**7.21.21–22 (A Momentary Respite and the Wardens’ Fury)**
+
+Rāvaṇa’s lawless act grants the sinners a fleeting miracle—one _muhūrta_ of relief—before cosmic order reasserts itself. On 7.21.21d, **Rāma Varmā** clarifies the near-synonymous pair by treating अचिन्तितम् (‘unimagined’) as an intensifying qualifier of अतर्कितम् (‘unexpected’, अतर्कितमित्यस्यैव विशेषणम्), while **Śivasahāya** underscores that the pleasure lasted only an instant (_muhūrtam_). On 7.21.22, Rāma Varmā glosses प्रेतगोपाः as ‘guardians of the dead’ (प्रेतरक्षाः), and Śivasahāya highlights the locative absolute (प्रेतेषु मुच्यमानेषु सत्सु) triggering their furious countercharge.
+
+_____________
+
+**7.21.23–24 (The Battle-Cry and Assault on Puṣpaka)**
+
+The onomatopoeic uproar हलहलाशब्दः marks the instant Yama’s realm shifts from a judicial court into a battlefield. **Śivasahāya** paraphrases 7.21.23–24 briskly: as Dharmarāja’s brave soldiers surge from every direction, hundreds of thousands of Yama’s emissaries (यमदूताः) unleash a dense hail of lances, clubs, tridents, pestles, javelins, and darts directly upon the hovering Puṣpaka chariot. By targeting the captured celestial vehicle first, Yama’s host initiates an escalating clash that will force Rāvaṇa down onto the ground.
+
+_____________
+
+**7.21.25–26 (Puṣpaka’s Indestructible Brahma-Tejas)**
+
+Comparing Yama’s darting soldiers to a swarm of bees (_madhukarā iva_) dismantling a jeweled pavilion, Vālmīki showcases the miraculous resilience of Kubera’s stolen car. On 7.21.26, **Rāma Varmā** (_Tilaka_) glosses देवनिष्ठानभूतम् as ‘serving as the seat of the gods’ (देवाधिष्ठानभूतम्) and resolves the paradox भज्यमानं तथैवासीत् as ‘even while battered, it remained completely unbroken’ (अभग्नमासीत्) through Brahmā’s creative potency (_brahma-tejas_). **Śivasahāya** (_Śiromaṇi_) concurs, emphasizing its imperishable stature (_akṣayam_) conferred by Brahmā.
+
+_____________
+
+**7.21.27–28 (Yama’s Countless Vanguard and Rāvaṇa’s Counter-Barrage)**
+
+Clarifying the ambiguous pronoun तस्य महात्मनः in 7.21.27, both **Rāma Varmā** and **Śivasahāya** specify that it refers to Yama (तस्य यमस्य), whose army of foremost champions (अग्रयातृणाम्) was too vast to compute (संख्यातुमशक्या). **Śivasahāya** construes the six-quarter verse 7.21.28 as a single sentence (सार्धश्लोक एकान्वयी): Daśānana and his counselors hurl trees, crags, and hundreds of pavilion fragments to widen the battle to the full limit of their might.
+
+_____________
+
+**7.21.29–30 (Stalwart Duel of the Rival Ministers)**
+
+Addressing Rāma directly (_mahābāho_), Agastya portrays a grimly balanced clash of retainers. **Rāma Varmā** glosses आयोधनम् as ‘combat’ (युद्धम्), while **Śivasahāya** highlights the stubborn resilience of Rāvaṇa’s blood-soaked counselors (शोणितदिग्धाङ्गा अपि) fighting on despite every wound. By pitting Yama’s ministers against Rāvaṇa’s ministers (यमस्य रावणस्य च मन्त्रिणोऽन्योन्यं जघ्नुः), the poet builds dramatic scale before Yama’s host focuses its full fury on Rāvaṇa alone.
+
+_____________
+
+**7.21.31–32 (Daśānana Like a Blossoming Aśoka)**
+
+Recognizing Rāvaṇa as the true center of resistance, Yama’s troops abandon his counselors and swarm Daśānana alone with volleys of tridents (अमात्यान् संत्यज्य दशाननमेवाभ्यधावन्त, **Śivasahāya**). Battered and bathed in crimson blood, the rākṣasa monarch gleams atop Puṣpaka like a flowering _aśoka_ tree (फुल्लाशोक इवाभाति). This quintessential Vālmīki simile (_upamā_), recurring across the _Yuddhakāṇḍa_, aestheticizes martial carnage through vernal splendor, contrasting Rāvaṇa’s dark frame and scarlet blood against the golden aerial car.
+
+_____________
+
+**7.21.33–34 (Rāvaṇa’s Missile-Born Rain of Arms)**
+
+Stung by their assault, Rāvaṇa resorts to celestial sorcery. On 7.21.33, **Rāma Varmā** (_Tilaka_) glosses अस्त्रबलात् specifically as ‘by the potency of a celestial missile’ (अस्त्रसामर्थ्यात्), generating an entire arsenal of tridents, maces, lances, rocks, and trees. The commentators offer two neat ways to construe the dual locatives यमसैन्येषु ... धरणीतले in 7.21.34: **Rāma Varmā** reads them sequentially—falling upon Yama’s ranks and crashing down to the earth (यमसैन्येषु पतित्वा धरणीतले पपात)—whereas **Śivasahāya** (_Śiromaṇi_) takes them attributively: falling upon Yama’s armies arrayed on the earth’s surface.
+
+_____________
+
+**7.21.35 (One Titan Against Hundreds of Thousands)**
+
+Yama’s host proves equal to Rāvaṇa’s first divine volley. All three commentators unpack 7.21.35 with sharp precision: **Rāma Varmā** identifies तान् as the tridents, maces, and lances, glossing विनिर्भिद्य as ‘having shattered’ (भग्नं कृत्वा) and तदस्त्रमपहत्य as ‘having nullified that missile’ (निरस्य). **Govindarāja** (_Bhūṣaṇa_) specifies तदस्त्रम् as the missile producing the preceding weapon-rain, while **Śivasahāya** highlights the staggering numerical odds: hundreds of thousands of Yama’s emissaries converge simultaneously upon the solitary rākṣasa (एकं रावणं जघ्नुः).
+
+_____________
+
+**7.21.36–37 (Driven from Puṣpaka to Solid Earth)**
+
+Comparing Yama’s swarming soldiers to clouds shrouding a mountain peak (_meghotkarā iva_, correcting the scribal slip मोघोत्करा), Vālmīki depicts Rāvaṇa pushed to the brink of collapse. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) construe निरुच्छ्वासम् adverbially—‘pounded him until he was left breathless’ (निरुच्छ्वासं यथा भवति तथा अपोथयन्). On 7.21.37, **Śivasahāya** glosses विमुक्तकवचः as ‘with his armor shattered away’ (छिन्नवर्मा), normalizing the epic augmentless verb अवतिष्ठत as अवातिष्ठत as Rāvaṇa plants his feet on earth.
+
+_____________
+
+**7.21.38 (The Titan Recovers Like Antaka Himself)**
+
+Grounded and stripped of armor, Rāvaṇa demonstrates the terrifying tenacity that made him scourge of the worlds. **Śivasahāya** glosses अभिवर्तत as ‘waxed once more in martial ardor’ (उत्साहवानभवदित्यर्थः): recovering consciousness within a single _muhūrta_ with bow and arrows in hand, he stands raging like Death the Destroyer (_yathāntakaḥ_). The simile carries sharp dramatic irony: fighting in the very capital of Antaka (Yama), Rāvaṇa mirrors Death’s own fury before deploying Śiva’s supreme weapon.
+
+_____________
+
+**7.21.39–40 (The Pāśupata Missile and the Tripura Parallel)**
+
+Turning the tide instantaneously, Rāvaṇa invokes the divine _Pāśupata_ missile—a reminder of his deep, tempestuous bond with Lord Śiva from earlier Uttarakāṇḍa episodes. **Śivasahāya** traces each gesture of classical heroic archery: fitting the missile to his bow, hurling the defiant challenge ‘Stand! Stand!’ (तिष्ठ तिष्ठेति) at Yama’s fleeing emissaries, drawing the string back to his ear (आकर्णात् कर्णपर्यन्तम्), and releasing the shaft like Śaṅkara burning the triple demon-citadel (_Tripura_)—an ominous portent for Yama’s host.
+
+_____________
+
+**7.21.41–42 (The Pāśupata Shaft as Raging Wildfire)**
+
+Vālmīki lingers over the terrifying epiphany of the loosed _Pāśupata_ arrow. Reading सधूमज्वालमण्डलम्, **Śivasahāya** (_Śiromaṇi_) unpacks the simile of 7.21.41: the shaft’s fiery aura resembled a roaring summer wildfire (घर्मे वनं दहिष्यतः मूर्च्छितस्य दावाग्नेः) poised to swallow an entire woodland. On 7.21.42, both **Śivasahāya** and **Govindarāja** (_Bhūṣaṇa_) underscore the macabre battle-imagery: encircled by garlands of fire (ज्वालामाली ज्वालासमूहवान्) and trailed by carrion-eaters (क्रव्यादैरनुगतः), the missile scorches shrubs and trees to ash in its very wake.
+
+_____________
+
+**7.21.43 (Annihilation of Vaivasvata’s Host)**
+
+The wildfire metaphor reaches its devastating climax as Yama’s vast army collapses in a single sweep. While **Śivasahāya** comments on the Parimal variant माहेन्द्रा इव केतवः (‘felled like Indra’s ceremonial banners’), our Southern and Baroda CE reading दावदग्धा नगा इव (‘like trees consumed by a forest fire’) preserves complete poetic continuity with the wildfire imagery of 7.21.41–42. The sudden reduction of Yama’s countless wardens to ash sets the stage for the god of Death himself to enter the field.
+
+_____________
+
+**7.21.44 (The Earth-Shaking Lion-Roar)**
+
+**Śivasahāya** paraphrases the closing verse as Rāvaṇa roaring alongside his ministers so thunderously as to seem to shake the very earth (मेदिनीं कम्पयन्निव महान्तं नादं ननाद). Structurally, this boastful _siṃhanāda_ functions as a masterful narrative bridge across sarga boundaries: unheard until now by Yama in his inner chamber, this very roar (_mahānāda_) immediately opens Sarga 22, alerting Vaivasvata to his army’s destruction and drawing Death incarnate onto the battlefield.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

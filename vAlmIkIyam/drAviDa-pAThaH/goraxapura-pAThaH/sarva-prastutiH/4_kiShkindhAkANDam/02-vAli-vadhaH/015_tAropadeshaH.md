@@ -91,6 +91,14 @@ Sugreeva from his palace chambers. [4-15-1]
 
 Then within the inner apartments (_antaḥpuragataḥ_), unforgiving Vālī (_vālī amarṣaṇaḥ_) heard that roar (_ninādam tam śuśrāva_) of his great-souled brother Sugrīva (_tasya sugrīvasya mahātmanaḥ bhrātuḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.1–3 (The Portents of Vālī's Wrath and Eclipsed Luster)**
+
+On **15.2c** (एकपदे), **Tilaka** and **Śiromaṇi** gloss `in that very instant' (तत्क्षणे), while **Bhūṣaṇa** takes it spatially (एकस्मिन्नेव स्थाने). On **15.3c** (उपरक्त इवादित्यः), **Tilaka** and **Śiromaṇi** compare wrath-darkened Vālī to the sun eclipsed by Rāhu (राहुग्रस्तः आदित्य इव), which **Tilaka** notes is an omen of impending death (आसन्नमृत्युलक्षणानि).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +261,14 @@ turning reddish due to the elephant's heaving of the slushy red-mud. Maheshvara 
 
 Fierce with bared fangs (_daṃṣṭrākarālas tu_) and with eyes blazing like fire in wrath (_krodhād dīptāgnilocanaḥ_), Vālī looked like a lake with bare lotus-stalks (_samṛṇāla iva hradaḥ_) from which the beauty of its lotuses has vanished (_utpatitapadmābhaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.4 (Two Rival Readings of the Lotus-Lake Simile)**
+
+Commenting on **15.4c–d** (भात्युत्पतितपद्माभः समृणाल इव ह्रदः), **Tilaka** and **Śiromaṇi** explain that with his natural beauty lost to rage and his fangs bared like bare stalks (दंष्ट्रा मृणालस्थानीया), Vālī looked like a lake stripped of its lotuses (उत्पतिता विनष्टा पद्माभा यस्य), whereas **Bhūṣaṇa** takes उत्पतितपद्मः as `blooming with red lotuses' (विकसितरक्तोत्पलः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -304,6 +320,14 @@ chambers thumping his feet as though to shatter the earth. [4-15-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having heard that insufferable roar (_śabdam durmarṣaṇam śrutvā_), the Vānara rushed forth from there (_niṣpapāta tato hariḥ_), as though cleaving the earth (_dārayann iva medinīm_) with his impetuous footsteps (_vegena ca padanyāsaiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.5–6 (Tārā's Affectionate Embrace and Salutary Counsel)**
+
+On **15.6**, **Śiromaṇi** and **Bhūṣaṇa** explain that Tārā embraced Vālī out of affection so that he would pause to hear her plea (स्ववचनश्रवणाभिमुख्ययालिङ्ग्य), and though frightened and agitated (त्रस्तसम्भ्रान्ता), spoke words whose ultimate consequence was salutary (हितोदर्कं हितरूपोत्तरकालिकफलकं).
 </details>
 </details>
 
@@ -422,6 +446,14 @@ gushing river as is done with an enjoyed chaplet on getting up from bed in early
 
 “O hero, cast aside completely (_sādhu tyaja_) this wrath (_krodham imam_) that has surged upon you like the current of a river (_nadīvegam ivāgatam_), just as one who has risen from his bed at dawn (_śayanād utthitaḥ kālyam_) casts aside a garland worn overnight (_bhuktām iva srajam_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.7–8 (Casting Off Wrath Until Daybreak)**
+
+On **15.7**, **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain Tārā's double simile: Vālī should cast off his wrath—which has rushed in like a river torrent (नदीवेगमिव आगतम्)—just as a man rising from his bed at dawn (काल्यं प्रातःकाले शयनादुत्थितः) casts aside a faded garland worn overnight (भुक्तां स्रजमिव त्यज), and fight tomorrow morning (**15.8**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -505,6 +537,14 @@ be listened as I tell. [4-15-9]
 **8:** “Tomorrow morning (_kālyam_) you shall wage battle with him (_etena saṃgrāmam kariṣyasi_), O Vānara! O hero, there is neither any multiplicity of foes (_śatrubāhulyam_) nor any pettiness in you (_phalgutā vā na vidyate_).
 
 **9:** “Your hasty sallying forth (_sahasā tava niṣkrāmaḥ_) does not please me at all (_mama tāvan na rocate_); hear (_śrūyatām_), I shall tell you (_abhidhāsyāmi_) the reason for which you are held back (_yannimittam nivāryate_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.8c–10 (Why Postponing Battle Brings No Dishonor)**
+
+Glossing **15.8c–d** (शत्रुबाहुल्यं फल्गुता वा न विद्यते), **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain that delaying until morning will neither multiply Vālī's foes (शत्रुगौरवं वा) nor impute any weakness or pettiness to him (फल्गुता लाघवं वा न विद्यते), whereas his sudden sortie (सहसा तव निष्क्रामः, **15.9**) alarms her.
 </details>
 </details>
 
@@ -610,6 +650,14 @@ here again and inviting you for a duel is causing a doubt in me. [4-15-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That he who was thus routed and especially tormented by you (_tvayā tasya nirastasya pīḍitasya viśeṣataḥ_) has come here and issued a challenge once more (_ihaitya punar āhvānam_) surely arouses apprehension in me (_śaṅkām janayatīva me_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.11–12 (Logical Inference from Sugrīva's Fierce Roar)**
+
+On **15.11d** (शङ्कां जनयतीव मे), **Tilaka** and **Śiromaṇi** note that इव has the emphatic sense of एव (`certainly arouses my apprehension'). On **15.12**, **Tilaka** remarks that Tārā infers a powerful underlying cause from the extraordinary effect—Sugrīva's pride, resolve, and roaring fury (अयं दर्पादिः कारणविशेषपूर्वकः कार्यविशेषत्वादित्यनुमितम्).
 </details>
 </details>
 
@@ -723,6 +771,14 @@ dependant must be an unflinching support foregathered by Sugreeva. [4-15-13]
 
 “I do not deem that Sugrīva has come here without an ally (_nāsahāyam aham manye sugrīvam tam ihāgatam_); and he has secured a firm ally (_avaṣṭabdhasahāyaś ca_), relying upon whom he roars thus (_yam āśrityaiṣa garjati_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.13–14 (Sugrīva's Prudence and Tested Ally)**
+
+On **15.13c** (अवष्टब्धसहायश्च), **Tilaka** and **Bhūṣaṇa** gloss `having secured a powerful ally' (परिगृहीतसहाय एव). On **15.14**, **Tilaka** and **Śiromaṇi** note Tārā's syllogism: since Sugrīva is naturally clever and discerning (प्रकृत्या निपुणश्चैव बुद्धिमांश्चैव), he would never form an alliance with anyone whose enemy-destroying valor had not been tested (अपरीक्षितशत्रुनाशकवीर्येण).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -832,6 +888,14 @@ now relate that helpful word to you. [4-15-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Previously indeed, O hero (_pūrvam eva mayā vīra_), I heard the words spoken (_śrutam kathayato vacaḥ_) by Prince Aṅgada (_aṅgadasya kumārasya_); today I shall tell you that salutary word (_vakṣyāmy adya hitam vacaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.15–16 (Confirmation by Testimony—Prince Aṅgada's Report)**
+
+On **15.15–16**, **Tilaka** and **Bhūṣaṇa** point out that Tārā supports her logical inference (अनुमित) with direct verbal testimony (शब्दप्रमाणादप्यवगत इत्याह): Prince Aṅgada had gone to the forest border for recreation (विहारार्थं गतः, **Bhūṣaṇa**), learned the news (प्रवृत्तिः सुग्रीववृत्तान्तः) from spies (चारैर्निवेदिता), and reported it to her.
 </details>
 </details>
 
@@ -944,6 +1008,14 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 
 “The two heroic sons of the lord of Ayodhyā (_ayodhyādhipateḥ putrau śūrau_), invincible in battle (_samaradurjayau_), born in the lineage of the Ikṣvākus (_ikṣvākūṇām kule jātau_), the renowned Rāma and Lakṣmaṇa (_prathitau rāmalakṣmaṇau_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.17–18 (The Arrival of Rāma and Lakṣmaṇa)**
+
+Commenting on **15.17–18**, **Tilaka** and **Śiromaṇi** note that Aṅgada reported how King Daśaratha's two invincible sons, Rāma and Lakṣmaṇa, born in the Ikṣvāku line, had arrived on Mount Ṛṣyamūka to fulfill Sugrīva's cherished wish (सुग्रीवप्रियकामार्थं), and that Rāma had become Sugrīva's famed ally in battle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1052,6 +1124,14 @@ woebegone, a hospice for the agonised, and for grace Rama is the only abode. [4-
 
 “Rāma is the crusher of enemy hosts (_parabalāmardī_), risen like the fire at the end of a world-age (_yugāntāgnir ivotthitaḥ_); he is the sheltering tree of the righteous (_nivāsavṛkṣaḥ sādhūnām_) and the supreme refuge of the helpless (_āpannānām parā gatiḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.19–20b (Bhūṣaṇa's Celebrated Theological Exposition of Rāma's Saving Grace)**
+
+On **15.19–20b**, **Bhūṣaṇa** offers a famous Śrīvaiṣṇava reading: whereas Rāma rises like the doomsday fire against enemy hosts (परबलामर्दी), he is the permanent shade-giving residential tree (निवासवृक्षः) for the righteous (साधूनाम्), the supreme refuge (परा गतिः) for the helpless (आपन्नानाम्), the shelter (संश्रयः) of the distressed (आर्तानाम्), and the sole repository of protective glory (यशसश्चैकभाजनम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,6 +1185,14 @@ the greatest mine of merits. [4-15-20b, 21a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—the sanctuary of the distressed (_ārtānām saṃśrayaś caiva_) and the sole repository of glory (_yaśasaś caikabhājanam_), richly endowed with higher knowledge and practical wisdom (_jñānavijñānasampannaḥ_), and ever devoted to his father&#x27;s command (_nideśe nirataḥ pituḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.20c–21 (Omniscience, Filial Obedience, and the Himālaya of Virtues)**
+
+On **15.20c–21b**, **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain ज्ञानविज्ञानसम्पन्नः as endowed with both higher spiritual knowledge and practical mastery (लौकिकज्ञानं शास्त्रजन्यज्ञानं), devoted to his father's command (पितुर्निदेशे निरतः), and a vast mine of countless auspicious virtues like Himavān (शैलेन्द्रो हिमवान्) teeming with minerals.
 </details>
 </details>
 
@@ -1218,6 +1306,14 @@ the pursuit to establish dharma.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—a vast mine of virtues (_guṇānām ākaro mahān_), like the lord of mountains [Himavān] teeming with minerals (_dhātūnām iva śailendraḥ_)! Therefore hostility on your part (_virodhas te_) is not fitting (_tat kṣamo na_) with that great-souled one (_saha tena mahātmanā_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.21c–23 (Renouncing Hostility and Consecrating Sugrīva as Crown Prince)**
+
+On **15.21c–23**, **Tilaka** and **Bhūṣaṇa** explain न चेच्छाम्यभ्यसूयितुम् as Tārā's plea that Vālī should not take offense at her unvarnished advice (मया वक्ष्यमाणे हिते त्वया अभ्यसूया न कार्येत्यर्थः): instead of fighting invincible Rāma, he should swiftly consecrate Sugrīva in the office of crown prince (यौवराज्येन).
 </details>
 </details>
 
@@ -1388,6 +1484,14 @@ effect is appropriate for you, thus I deem. [4-15-24b, 25a]
 
 “Do not wage war (_vigraham mā kṛthāḥ_), O hero, O king, with your younger brother (_bhrātrā rājan yavīyasā_)! For I deem friendship with that Rāma (_tena rāmeṇa sauhṛdam_) to be advantageous for you (_aham hi te kṣamam manye_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.24–25 (Reconciliation with Rāma and Cherishing the Younger Brother)**
+
+Commenting on **15.24–25**, **Śiromaṇi** construes the verses together (सार्धश्लोकद्वयमेकान्वयि): Tārā urges Vālī not to quarrel with his brother, judging friendship with Rāma (रामेण सौहृदं) and affection with Sugrīva (सुग्रीवेण संप्रीतिं) to be his proper course (ते क्षमं योग्यं मन्ये), since a younger brother (यवीयान् कनिष्ठः) deserves to be cherished (लालनीयः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1437,6 +1541,14 @@ and whether he is here or there in Rishyamuka he is just your brother. [4-15-25b
 **25:** “—and affectionate concord with Sugrīva (_sugrīveṇa ca samprītim_), casting enmity far aside (_vairam utsṛjya dūrataḥ_)! For this Vānara, your younger brother (_bhrātā yavīyān eṣa vānaraḥ_), ought to be cherished by you (_lālanīyo hi te_).
 
 **26:** “Whether dwelling afar there [on Ṛṣyamūka] or standing right here [in Kiṣkindhā] (_tatra vā sann ihastho vā_), he is in every way your kinsman (_sarvathā bandhur eva te_); for I do not behold any kinsman on earth equal to him (_nahi tena samam bandhum bhuvi paśyāmi kaṃcana_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.26 (Sugrīva as Vālī's Incomparable Kinsman Near or Far)**
+
+On **15.26a–b** (तत्र वा सन्निहस्थो वा सर्वथा बन्धुरेव ते), **Tilaka** and **Śiromaṇi** explain that whether Sugrīva remains afar on Mount Ṛṣyamūka (तत्र ऋष्यमूके सन् स्थितो वा) or dwells right here beside Vālī in Kiṣkindhā (इहस्थः किष्किन्धायां स्थितो वा), he is in every way Vālī's true kinsman, unequaled on earth.
 </details>
 </details>
 
@@ -1489,6 +1601,14 @@ at your side. [4-15-26b, 27]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By honors such as gifts and marks of respect (_dānamānādisatkāraiḥ_), make him your intimate next-in-rank (_kuruṣva pratyanantaram_); having cast aside this enmity (_vairam etat samutsṛjya_), let him stand at your side (_tava pārśve sa tiṣṭhatu_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.27 (Winning Sugrīva Over as Next-in-Rank and Confidant)**
+
+Glossing **15.27b** (कुरुष्व प्रत्यनन्तरम्), the three commentators offer complementary nuances: **Tilaka** glosses `make him devoted to you' (स्वाधीनम्), **Śiromaṇi** glosses `make him your intimate confidant free of estrangement' (प्राप्तान्तररहितम् अन्तरङ्गमित्यर्थः), and **Bhūṣaṇa** glosses `make him next in rank after yourself or standing at your side' (त्वदनन्तरं समीपवर्तिनं वा कुरुष्व) through gifts and honors.
 </details>
 </details>
 
@@ -1551,6 +1671,14 @@ and hence brace yourself with the fondness of brotherhood, as there is no other 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Broad-necked Sugrīva (_sugrīvo vipulagrīvaḥ_) is esteemed as your great kinsman (_mahābandhur matas tava_); apart from embracing fraternal affection (_bhrātṛsauhṛdam ālambya_), there is no other refuge for you here (_nānyā gatir ihāsti te_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.28–29 (Fraternal Amity as Vālī's Sole Refuge)**
+
+On **15.28**, **Tilaka** and **Śiromaṇi** explain that apart from embracing fraternal affection with broad-necked Sugrīva (भ्रातृसौहृदमालम्ब्यैव तव गतिः), Vālī has no other path of safety (नान्या गतिरस्तीत्यर्थः), while **Bhūṣaṇa** reads imperative आलम्ब (`embrace!'). On **15.29b**, **Śiromaṇi** and **Bhūṣaṇa** gloss अवैषि as `you know me to be wishing your welfare' (जानासि).
 </details>
 </details>
 
@@ -1674,6 +1802,14 @@ Vali. [4-15-30]
 
 “Be gracious and hear my salutary speech (_prasīda pathyam śṛṇu jalpitam hi me_); you ought not to follow the impulse of wrath alone (_na roṣam evānuvidhātum arhasi_)! For hostility on your part (_vigrahas te_) with the son of the king of Kosala (_kośalarājasūnunā_), who equals Śakra [Indra] in splendor (_śakrasamānatejasā_), is not fitting (_kṣamo hi na_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.30 (Why Rāma Surpasses Even Indra's Son Vālī)**
+
+Commenting on **15.30**, **Śiromaṇi** and **Bhūṣaṇa** note Tārā's plea that Vālī lay aside his wrath (प्रसीद त्यक्तक्रोधो भव) and heed her salutary counsel (पथ्यं हितं जल्पितं वचनं), while **Bhūṣaṇa** observes that calling Rāma `equal in splendor to Indra' (शक्रसमानतेजसा) subtly indicates Rāma's superiority over Vālī, who is merely Indra's son (अनेन वालिनो रामस्याधिक्यमुक्तम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1743,6 +1879,14 @@ for he is impounded by fatality and driven by time to his doom. [4-15-31]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then indeed Tārā spoke to that Vālī (_tadā hi tārā tam vālinam babhāṣe_) this beneficial and salutary speech (_hitam eva vākyam pathyam idam_); yet at the hour of his destruction (_vināśakāle_), that speech did not please him (_na rocate tad vacanam hi tasya_), overtaken as he was by Death (_kālābhipannasya_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.31 (The Poet's Tragic Epilogue—Seized by Death at the Hour of Doom)**
+
+On **15.31**, **Tilaka** notes this closing verse is the poet Vālmīki's own comment (कविवाक्यम्). **Śiromaṇi** and **Bhūṣaṇa** explain that Tārā's wholesome counsel did not please Vālī (न रोचते तद्वचनं हि तस्य, with genitive तस्य standing for dative तस्मै under रुच्यर्थानाम्) because at the hour of his destruction he was already seized by Death (मृत्युना गृहीतस्येत्यर्थः).
 </details>
 </details>
 

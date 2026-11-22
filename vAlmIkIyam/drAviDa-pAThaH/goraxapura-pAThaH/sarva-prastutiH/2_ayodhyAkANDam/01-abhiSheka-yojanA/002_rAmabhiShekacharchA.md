@@ -82,6 +82,170 @@ clear terms.
 
 **2:** With a mighty, deep, and resonant voice resembling the sound of a kettledrum (_dundubhi-svara-kalpena_), the king spoke, making the hall reverberate like a thundercloud (_jīmūta iva nādayan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.2.1–3 (dundubhisvarakalpena & Royal Voice)**
+
+Introducing Sarga 2, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) note that Daśaratha consults the assembly because a royal consecration concerns the welfare of all subjects (सर्वप्रजार्थत्वात्). On दुन्दुभिस्वरकल्पेन (vv. 2–3), **Govindarāja** explains the suffix -कल्प as denoting close resemblance (ईषदसमाप्तौ कल्पप्), while **Rāma Varmā** glosses राजलक्षणयुक्तेन as a voice deep and soothing, and रसयुक्तेन as suffused with the sentiment of wonder (अद्भुतरसयुक्तेन) or sweetness (माधुर्यवता, _Bhūṣaṇa_).
+
+_____________
+
+**2.2.4–5 (sutavat paripālitam & Welfare of the Realm)**
+
+In v. 4, **Govindarāja** (_Bhūṣaṇa_) explains the genitive भवताम् with विदितम् as expressing present knowledge (क्तस्य च वर्तमाने इति षष्ठी), reminding the court how ancient Ikṣvākus like Raghu cherished the realm like their own child (सुतवत्). In v. 5, **Rāma Varmā** (_Tilaka_) defines श्रेयसा as the supreme happiness brought about through Rāma's consecration (रामराज्याभिषेकद्वारा विशिष्टेन सुखेन).
+
+_____________
+
+**2.2.6 (anidreṇa & yathāśakti)**
+
+Glossing अनिद्रेण, **Rāma Varmā** (_Tilaka_) interprets it as unconcerned with personal comfort (स्वसुखनिरपेक्षेण) and **Govindarāja** (_Bhūṣaṇa_) as ever vigilant (जागरूकेण), while both note that यथाशक्ति (“to the best of my ability”) is an expression of royal modesty (विनयोक्तिः).
+
+_____________
+
+**2.2.7–8 (pāṇḍurasyātapatrasya & Sixty Thousand Years)**
+
+In v. 7, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that aging beneath the white umbrella (पाण्डुरस्यातपत्रस्य च्छायायां जरितं) proves Daśaratha never neglected statecraft for sensual indulgence. On वर्षसहस्राणि बहून्यायूंषि (v. 8), all three commentators explain that Daśaratha lived for sixty thousand years (षष्टिवर्षसहस्राणि), spanning many hundred-year human lifetimes (वत्सरशतरूपानेकपुरुषावधीनि, _Tilaka_), and now seeks retirement from royal care—unlike Yayāti, who retired out of sensual attachment (_Bhūṣaṇa_).
+
+_____________
+
+**2.2.9–10 (gurvīṃ dharmadhuram & Consent of the Wise)**
+
+In v. 9, **Śivasahāya** (_Śiromaṇi_) defines धर्मधुरं as the heavy burden of righteous administration (धर्मपूर्वकं रक्षणभारं), which cannot be borne by those of unsubdued senses (अजितेन्द्रियैः). Hence in v. 10 Daśaratha seeks the formal approval (अनुमानय = कृतानुमतिकान् कृत्वा, _Tilaka_, _Bhūṣaṇa_) of the assembled sages.
+
+_____________
+
+**2.2.11–12 (anujāto hi mām & the Puṣya Conjunction)**
+
+All three commentators explain the accusative माम् with अनुजातः as governed by अनु as a _karmapravacanīya_. **Govindarāja** (_Bhūṣaṇa_) adds that Daśaratha modestly calls Rāma merely equal to himself (अनुजातो मां) so that the assembly may step forward to proclaim Rāma's far superior virtues. In v. 12, पुष्येण युक्तं refers both to the moon's conjunction with the Puṣya asterism and to consecrating Rāma on Puṣya day (_Bhūṣaṇa_).
+
+_____________
+
+**2.2.13–14 (lakṣmīvāṃl lakṣmaṇāgrajaḥ & nāthavattaram)**
+
+On v. 13, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that with Rāma as ruler, not only Kosala but all three worlds (त्रैलोक्यमपि) possess a supreme protector (नाथवत्तरम्). **Govindarāja** (_Bhūṣaṇa_) unfolds multiple theological layers: लक्ष्मीवान् signifies eternal union with Śrī, while लक्ष्मणाग्रजः denotes his companionship with Lakṣmaṇa, who ever augments his auspiciousness (लक्ष्मणो हि मतिवर्धनः). In v. 14, consecrating Rāma accomplishes two fruits at once: supreme welfare (श्रेयसा) for the earth and relief from toil (गतक्लेशः) for Daśaratha (_Bhūṣaṇa_).
+
+_____________
+
+**2.2.15–16 (madhyasthacintā & the Friction of Debate)**
+
+In v. 16, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) define मध्यस्थचिन्ता as the counsel of impartial arbiters free from passion or bias (रागद्वेषरहितानां चिन्ता), and explain विमर्दाभ्यधिकोदया as yielding superior insight (अधिकार्थप्रादुर्भाववती) through the criticalexamination of opposing arguments (पूर्वापरपक्षघर्षणेन).
+
+_____________
+
+**2.2.17–18 (barhiṇaḥ & the Roar of Acclaim)**
+
+Comparing the assembly to peacocks (बर्हिणः) welcoming a rain-cloud (v. 17), **Rāma Varmā** (_Tilaka_) notes the variant विमानम् (“the royal pavilion”, adopted by _Bhūṣaṇa_ and _Śiromaṇi_) alongside मेदिनीम् in v. 18d.
+
+_____________
+
+**2.2.19–21 (samatāgatabuddhayaḥ & yuvarājānam)**
+
+Reading vv. 19–20 together, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain समतागतबुद्धयः as reaching complete unanimity (ऐकमत्यं प्राप्ताः) after collective deliberation and inward reflection (मनसा ज्ञात्वा). In v. 21, all three commentators note that अनेकवर्षसाहस्रः takes the pleonastic suffix अण् (स्वार्थे अण्), and that युवराजानम् retains the epic ending -राजानम् because the compound suffix टच् is optional (समासान्तविधेरनित्यत्वाट्टजभावः).
+
+_____________
+
+**2.2.22 (gajena mahatā yāntam & the State Procession)**
+
+On v. 22, **Govindarāja** (_Bhūṣaṇa_) remarks that the citizens ask for Rāma's consecration not from any lack of protection under Daśaratha, but out of longing to feast their eyes on Rāma's beauty (सौन्दर्यविशेषानुभवार्थम्) riding the royal elephant Śatruñjaya beneath the white parasol (छत्रावृताननम्).
+
+_____________
+
+**2.2.23–24 (ajānann iva jijñāsuḥ & Testing the Assembly)**
+
+In vv. 23–24, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Daśaratha feigns ignorance (अजानन्निव) so the assembly may openly proclaim Rāma's virtues (तन्मुखेनैव श्रोतुमिच्छुः), asking whether they endorse Rāma merely out of deference to his royal word (तन्निबन्धादेव केवलं).
+
+_____________
+
+**2.2.25–27 (mayi dharmeṇa pṛthivīm anuśāsati & Countless Virtues)**
+
+On v. 25, **Govindarāja** (_Bhūṣaṇa_) explains Daśaratha's implied question: “While I rule vigilantly by _dharma_, what fault have you found in me?” (को वा मेऽपराधः). In v. 26, the assembly replies that the “fault” lies only in Rāma's countless auspicious virtues (बहवः कल्याणा गुणाः), which **Govindarāja** links to Yāmunācārya's definition of the Lord's natural, boundless excellences (स्वाभाविकानवधिकातिशयासंख्येयकल्याणगुणगणः). In v. 27, **Rāma Varmā** (_Tilaka_) notes that Rāma's virtues delight even his foes (शत्रूणामप्यानन्दनान्).
+
+_____________
+
+**2.2.28–29 (ikṣvākubhyo 'tiriktaḥ & dharmaś cāpi śriyā saha)**
+
+In v. 28, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss दिव्यैर्गुणैः as non-mortal, celestial excellences (अमानुषैः) whereby Rāma surpasses even all earlier Ikṣvākus (अतिरिक्तः = समधिकः). In v. 29, both explain साक्षाद् रामाद् विनिर्वृत्तो धर्मश्चापि श्रिया सह as showing that Rāma unfailingly upholds both _dharma_ and royal prosperity (धर्मार्थयोरितरनिरपेक्षतया निर्वाहकः, _Bhūṣaṇa_) without conflict.
+
+_____________
+
+**2.2.30 (prajāsukhatve candrasya)**
+
+In v. 30, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) observe that because Rāma's virtues cannot be found together in any single being (एकत्रासंभवात्), the kings compare him Distributively to the Moon in gladdening the people, the Earth in patience, Bṛhaspati in wisdom, and Indra in valour.
+
+_____________
+
+**2.2.31–32 (anasūyakaḥ Twice & Pleasant-Yet-Truthful Speech)**
+
+Addressing the repetition of अनसूयकः in vv. 31b and 32b, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that the first means Rāma feels no envy toward others (अन्यविषयासूयारहितः), while the second means he gives others no cause to envy him (अन्यनिष्ठासूयाया अविषयः). In v. 32c–d, **Govindarāja** (_Bhūṣaṇa_) cites Manu (सत्यं ब्रूयात् प्रियं ब्रूयान् न ब्रूयात् सत्यमप्रियम्) to show how प्रियवादी च सत्यवादी च mutually qualify each other: Rāma speaks only pleasant truths and never flattering falsehoods.
+
+_____________
+
+**2.2.33 (kīrtiḥ, yaśaḥ, & tejaḥ)**
+
+On v. 33, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) distinguish the three nouns: कीर्तिः is fame born of valour or liberality, यशः is renown from munificence, and तेजः is the power to overwhelm foes (पराभिभवनसामर्थ्यम्), all nourished by humble service to learned elders (बहुश्रुतानां).
+
+_____________
+
+**2.2.34–36 (gāndharve & grāmārthe)**
+
+In v. 35, all three commentators gloss गान्धर्वे as the science of music (संगीतशास्त्रे), **Govindarāja** noting its sacred utility in Sāmavedic chant (सामगानोपकारकत्वात्). In v. 36d, _Tilaka_ and _Bhūṣaṇa_ explain ग्राम (ग्रामार्थे) as a stem-form with elided genitive ending matching नगरस्य वा अर्थे.
+
+_____________
+
+**2.2.37–39 (putreṣv agniṣu dāreṣu & Differentiated Inquiry)**
+
+Connecting vv. 36–37, **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) note that Rāma never returns from campaign without victory (नाविजित्य निवर्तते). On vv. 38–39, **Rāma Varmā** (_Tilaka_) explains how Rāma tailors his inquiries in due order (आनुपूर्व्या): to Brāhmaṇas he asks after their sacred fires (अग्निषु) and whether their pupils render obedient service (शुश्रूषन्ते च वः शिष्याः), while to Kṣatriyas he asks whether their soldiers stand armoured and ready (वर्मसु दंशिताः, noting also the variant कर्मसु दंशिताः).
+
+_____________
+
+**2.2.40–41 (vyasaneṣu & Paternal Sympathy)**
+
+In vv. 40–41, **Govindarāja** (_Bhūṣaṇa_) marvels at Rāma's universal empathy: when any citizen suffers misfortune (व्यसनेषु), Rāma grieves deeply (भृशं भवति दुःखितः), blaming his own rule, and in every household festival (उत्सवेषु)—such as the birth of a child—he rejoices like a father (पितेव परितुष्यति).
+
+_____________
+
+**2.2.42 (smitapūrvābhibhāṣī & na vigṛhyakathāruciḥ)**
+
+On न विगृह्यकथारुचिः, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Rāma shuns contentious caviling and sophistry (जल्पवितण्डादिकथारुचिः), while _Tilaka_ and _Śiromaṇi_ also record the variant विगर्ह्यकथारुचिः (“discourse worthy of censure”).
+
+_____________
+
+**2.2.43–44 (sākṣād viṣṇur iva & śaurya-vīrya-parākrama)**
+
+In v. 43, **Śivasahāya** (_Śiromaṇi_) glosses आयतताम्राक्षः as having eyes long and red like lotus petals (आयतकमलपत्रसदृशनेत्रवान्), appearing like Lord Viṣṇu himself (साक्षाद् विष्णुरिव स्वयम्). In v. 44, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) carefully distinguish the triad शौर्यवीर्यपराक्रमैः: शौर्यम् is fearless entry into battle (मरणनिर्भयत्वम्), वीर्यम् is remaining unshaken while routing the foe (स्वयमविकृतः सन् परान् विद्रावयति), and पराक्रमः is overwhelming even impregnable enemy formations (युद्धे शत्रुसंहारः).
+
+_____________
+
+**2.2.45–46 (niyamād vadhyān & Unfailing Justice)**
+
+Glossing भोक्तुम् in v. 45 as “to protect and govern” (पालयितुम्), **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain in v. 46 why Rāma's anger and grace are never in vain: he punishes the guilty strictly according to scriptural law (नियमात् = शास्त्रोक्तवध्यान्) and rewards the deserving with abundant wealth (युनक्त्यर्थैः).
+
+_____________
+
+**2.2.47–48 (dāntaiḥ & the Earth's Desire)**
+
+On v. 47a, **Rāma Varmā** (_Tilaka_) glosses दान्तैः as born of mental self-control (स्वमनोदमनजैः), while **Govindarāja** (_Bhūṣaṇa_) reads शान्तैः (शमप्रधानैः) and records दान्तैः as enduring ascetic toil (तपःक्लेशसहैः).
+
+_____________
+
+**2.2.49–51 (mārīca iva kaśyapaḥ & Universal Prayer)**
+
+In v. 49, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that just as the Prajāpati Marīci was blessed in his son Kaśyapa (मरीचिप्रजापतेः पुत्रः कश्यप इव), so Daśaratha is fortunate (दिष्ट्या) in Rāma, who possesses the true filial virtue of delivering his father (पुत्रगुणैर्युक्तः, _Bhūṣaṇa_). Reading vv. 50–51 together, all three commentators note that every class of beings—from gods and sages down to inner palace attendants (आभ्यन्तरः) and country-folk (बाह्यः)—prays (आशंसते) for Rāma's strength, health, and longevity.
+
+_____________
+
+**2.2.52 (striyo vṛddhās taruṇyaś ca & Devotion at Dawn and Dusk)**
+
+On the six-quarter stanza v. 52, **Govindarāja** (_Bhūṣaṇa_) remarks that even aged women (वृद्धाः) and young maidens (तरुण्यः) worship all the gods morning, noon, and evening (सायं प्रातः = त्रिसंध्यम्) solely for Rāma's welfare (रामस्यार्थे), praying that Daśaratha may fulfill their petition (याचितम्).
+
+_____________
+
+**2.2.53–54 (indīvaraśyāmam & devadevopamam)**
+
+In v. 53, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) explain the present tense पश्यामः (“we behold”) as expressing eager imminence (वर्तमानसामीप्ये लट्), while in v. 54 all three gloss देवदेवोपमम् as resembling Lord Viṣṇu (देवदेवो विष्णुस्तत्सदृशम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

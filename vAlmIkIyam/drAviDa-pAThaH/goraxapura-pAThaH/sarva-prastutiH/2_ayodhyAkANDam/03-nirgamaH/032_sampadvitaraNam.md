@@ -1619,6 +1619,152 @@ his body and set out towards the track wherein lies Rama's palace.
 
 Hearing his wife&#x27;s words and wrapping around himself a tattered garment (_śāṭīm ācchādya duśchadām_) that could scarcely cover him, he set out along the road where Rāma&#x27;s palace stood.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.32.1–2 (priyakaraṃ hitam and agnyagārastham)**
+
+Govindarāja (_Bhūṣaṇa_) introduces this chapter as Rāma's parting gifts (यात्रादानं प्रस्तूयते द्वात्रिंशे) once Sītā and Lakṣmaṇa's accompaniment is settled (निश्चितसीतालक्ष्मणादियात्रस्य). Under शुभतरं प्रियम्, Rāma's command is auspicious because it benefits Brahmins (ब्राह्मणोपकारत्वात्) and dear to Lakṣmaṇa because it confirms his leave to accompany Rāma (आत्मनोऽनुगमनाङ्गीकारफलत्वात्). Finding Suyajña in his fire-sanctuary (अग्न्यगारमग्निहोत्रशाला), Lakṣmaṇa invites him to witness the act of Rāma, who relinquishes a kingdom already gained to depart for the forest (प्राप्तराज्यस्याशोकं वनं जिगमिषोः [_Tilaka_]).
+
+_____________
+
+**2.32.3–4 (saṃdhyām upāsthāya and agnim ivārcitam)**
+
+Concluding his midday worship (संध्यां माध्याह्निकीम् [_Tilaka_]) or obligatory fire-rite (नियताग्निहोत्रम् [_Bhūṣaṇa_]), Suyajña enters the palace, where Rāma and Sītā greet him like a worshiped sacrificial fire (अर्चितमग्निमिव होमकाले [_Tilaka_]).
+
+_____________
+
+**2.32.5–6 (aṅgadaiḥ, keyūraiḥ, and sītāpracoditaḥ)**
+
+Nāgeśa (_Tilaka_) and Govindarāja distinguish अङ्गद as an upper-arm ornament (बाहुमूलधार्यं भूषणम्) and केयूर as worn below it or serpent-hooded (भुजगशिरोव्यापिफणाकारशिखरयुक्तबाहुभूषणैः), while सहेमसूत्रैर्मणिभिः denotes gem necklaces strung on gold thread (स्वर्णसूत्रस्यतमुक्तादिरत्नमालाभिः).
+
+_____________
+
+**2.32.7–8 (hemasūtram, raśanām, and gacchatī)**
+
+Nāgeśa (_Tilaka_), Govindarāja (_Bhūṣaṇa_), and Bansīdhara (_Śiromaṇi_) gloss हेमसूत्रम् as a golden neck-chain (कण्ठभूषणविशेषः) and रशनाम् as a waist-girdle (काञ्ची / क्षुद्रघण्टिकाम्), which Rāma asks Suyajña to convey to his wife through attendants (हारय सेवकद्वारा प्रापय). In तुभ्यं भार्यायै, Sītā gives the armlets to Suyajña (तुभ्यं प्रतिग्रहीत्रे) for his wife's adornment (भार्याधारणार्थम्). All three note that गच्छती (for गच्छन्ती) lacks the nasal augment नुम् (नुमभाव आर्षः [_Tilaka_, _Bhūṣaṇa_]; आगमशास्त्रस्यानित्यत्वान्नुमभावः [_Śiromaṇi_]).
+
+_____________
+
+**2.32.9–10 (agryāstaraṇam and śatruñjayo nāma)**
+
+Sītā also presents her jewel-studded couch (उत्तमास्तरणविशिष्टम्), while Rāma adds the elephant Śatruñjaya—gifted by his maternal uncle and distinct from Daśaratha's elephant (दशरथीयशत्रुंजयव्यावृत्तिः [_Bhūṣaṇa_])—with a thousand gold coins (स्वनामाङ्कितनिष्कसहस्रदक्षिणया [_Tilaka_]).
+
+_____________
+
+**2.32.11–12 (pratigṛhya and brahmeva tridaśeśvaram)**
+
+Suyajña accepts the gift outright rather than as a deposit (न्यासभूतत्वं व्यावर्यते [_Bhūṣaṇa_]), and Rāma then commands Lakṣmaṇa just as Brahmā commands Indra, illustrating supreme lordship in both (नियोक्तृनियोज्ययोः परमैश्वर्यमुखे दृष्टान्तः [_Tilaka_]).
+
+_____________
+
+**2.32.13–14 (agastyaṃ kauśikaṃ caiva and sasyam ivāmbubhiḥ)**
+
+Under the reading आगस्त्यं कौशिकं चैव, Govindarāja (_Bhūṣaṇa_) and Bansīdhara (_Śiromaṇi_) identify the recipients as the sons of Agastya and Viśvāmitra (आगस्त्यमगस्त्यपुत्रं कौशिकं विश्वामित्रपुत्रम्), whereas Nāgeśa (_Tilaka_) takes कौशिकः directly as Viśvāmitra. Rāma bids Lakṣmaṇa summon and gratify them with jewels, cows, gold, and silver just as rain invigorates crops (सस्यमिवाम्बुभिः).
+
+_____________
+
+**2.32.15–16 (taittirīyāṇām and kauśeyāni)**
+
+Verses 15–16 form a single syntactic unit (श्लोकद्वयमेकान्वयम्) describing the preceptor of the Taittirīya school (तित्तिरिशाखाध्येतृणामाचार्यः) who daily blesses Kausalyā; अभिरूपः means of praiseworthy virtue or learned (श्लाघ्यगुणः [_Tilaka_]; बुधः [_Bhūṣaṇa_]), and कौशेयानि denotes silk garments spun from cocoons (कृमिकोशोत्थानि).
+
+_____________
+
+**2.32.17–18 (citrarathaḥ, paśukābhiḥ, and daṇḍamāṇavāḥ)**
+
+The venerable counselor and charioteer Citraratha—distinct from Sumantra (सुमन्त्रादन्यः सूतः)—is rewarded with robes, cattle, and small livestock (पशुका अजादयोऽल्पपशवः, taking diminutive कन्). Verse 18cd introduces the दण्डमाणवाः, celibate Vedic students carrying palāśa staffs (पलाशदण्डधारिणो ब्रह्मचारिणः) who study the Kaṭha and Kalāpa branches (कठकालापशाखाध्यायिनः).
+
+_____________
+
+**2.32.19–20 (alasāḥ svādukāmāś ca and bhadrakān)**
+
+Nāgeśa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) explain that because the दण्डमाणवाः are absorbed in Vedic study (नित्यस्वाध्यायशीलत्वात्), they are indolent toward begging or fasts (भिक्षादौ अलसाः [_Tilaka_]) and fond of savory food (स्वादुकामाः), yet revered by the great because scripture declares Vedic study itself to be penance (तपो हि स्वाध्याय इति श्रुतेः [_Tilaka_]). Rāma grants them eighty carts filled with gems or silver (रजतादिपूर्णानि), a thousand bullocks carrying rice (शालिधान्यवाहकबलीवर्दसहस्रम्), and two hundred भद्रकान्—plowing oxen (कर्षणयोग्याननडुहः [_Bhūṣaṇa_]) or fine pulses (चणकमुद्गादिरूपान् [_Tilaka_]).
+
+_____________
+
+**2.32.21–22 (vyañjanārtham and mekhalīnām)**
+
+For seasoning their rice with milk, curds, and ghee (व्यञ्जनार्थं दधिघृतार्थम्), Rāma adds a thousand cows, and to each girdle-wearing celibate student (मेखलीनां ब्रह्मचारिणाम्, with epic long -ई-) attending Kausalyā he grants a thousand cows or gold coins for marriage expenses (विवाहार्थम्).
+
+_____________
+
+**2.32.23–24 (dhanado yathā and bāṣpagalān)**
+
+Lakṣmaṇa distributes the wealth like Kubera (धनदो यथा), and Rāma then addresses his weeping dependents (बाष्पगलान् बाष्पगद्गदान् [_Tilaka_]; बाष्पकलान् [_Bhūṣaṇa_]).
+
+_____________
+
+**2.32.25–26 (aśūnyaṃ kāryam and dhanādhyakṣam)**
+
+Nāgeśa (_Tilaka_), Govindarāja (_Bhūṣaṇa_), and Bansīdhara (_Śiromaṇi_) explain अशून्यं कार्यमेकैकम् as Rāma's instruction that his palace and Lakṣmaṇa's mansion must each be guarded in rotation until his return (पर्यायेणैकैकशः स्थित्वा पूर्ववद्रक्षणीयम् [_Tilaka_]). Rāma then orders his treasurer (धनाध्यक्षं कोशाध्यक्षम्) to bring out his remaining treasure.
+
+_____________
+
+**2.32.27–28 (rāśiḥ sumahān and kṛpaṇebhyaḥ)**
+
+When his attendants pile up the vast heap of treasure (राशिः धनसमूहः), Rāma and Lakṣmaṇa distribute it to Brahmins, children, the elderly, and the destitute (कृपणेभ्यो दीनेभ्यः).
+
+_____________
+
+**2.32.29–30 (kṣatavṛttiḥ, phālakuddālalāṅgalī, and bhartā hi devatā)**
+
+The commentators gloss क्षतवृत्तिः as living by digging the earth for roots (क्षतेन खननेन वृत्तिर्यस्य), noting the variant उञ्छवृत्तिः (“gleaning grains”). They distinguish फाल as an iron blade (लोहमयम्), कुद्दाल as a spade (खननसाधनम्), and लाङ्गल as a crooked fruit-pulling pole (दण्डाकारः फलाकर्षणसाधनभूतो दण्डविशेषः). Under स्त्रीणां भर्ता हि देवता, Nāgeśa notes she speaks out of affection; _Śiromaṇi_ records the reading दारिद्र्येणाभिपीडिता.
+
+_____________
+
+**2.32.31–32 (rāmaṃ darśaya and śāṭīṃ duśchadām)**
+
+Govindarāja (_Bhūṣaṇa_) notes that कुद्दालम् in verse 31 stands by synecdoche for the hooked staff as well (लाङ्गलस्याप्युपलक्षणम्), and that दर्शय takes a double accusative with “yourself accompanied by wife and sons” understood (भार्यापुत्रसहितमात्मानम्). Wrapping himself in a garment so threadbare that it could barely cover his body (अतिजीर्णत्वादाच्छादनायोग्याम् [_Tilaka_]; छिद्रादिविशिष्टत्वेन छदनाशक्ताम् [_Śiromaṇi_]), Trijaṭa sets out for Rāma's palace.
+
+_____________
+
+**2.32.33 (bhṛgvaṅgiraḥsamam and āpañcamāyāḥ kakṣyāyāḥ)**
+
+Shining with Brahmanical luster (दीप्त्या ब्रह्मवर्चसेन [_Tilaka_]) like Bhṛgu and Aṅgiras—where Govindarāja notes the epic _a_-stem form under भृग्वङ्गिरसमम् (अङ्गिरेत्यत्र अकारान्तत्वमार्षम्)—Trijaṭa passes unchallenged by any doorkeeper all the way through the fifth palace courtyard (पञ्चमकक्ष्यापर्यन्तं कश्चिन्न अवारयत्).
+
+_____________
+
+**2.32.34–35 (pratyavekṣasva and parihāsasamanvitam)**
+
+Pleading his poverty and large family (निर्धनत्वादिलक्षितोऽहमस्मि), Trijaṭa begs Rāma for a compassionate glance (प्रत्यवेक्षस्व मयि कटाक्षं कुरु). Rāma answers with a playful smile (परिहाससमन्वितं लीलया स्मितसमन्वितम् [_Bhūṣaṇa_]) to test how much wealth this aged, family-burdened Brahmin has the vigor to claim (कियती शक्तिरस्येति जिज्ञासया).
+
+_____________
+
+**2.32.36–37 (na ca viśrāṇitam and āvidhya daṇḍam)**
+
+Nāgeśa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) explain न च विश्राणितं मया as meaning that among Rāma's countless herds, not even one thousand cows has yet been given away (अनेकगोसहस्राणां मध्ये एकमपि सहस्रं न दत्तम्); Nāgeśa adds that Rāma devises the throw to display the Brahmin's eager alacrity (गोग्रहणचापलकौतुकदर्शनार्थम्). Tying his cloth around his waist to brace his belly (उदरोत्तम्भनार्थम्), Trijaṭa whirls (आविध्य भ्रामयित्वा) and hurls his staff with all his might (सर्वप्राणेन सर्वबलेन).
+
+_____________
+
+**2.32.38 (sarayūpāram and ukṣāṇasaṃnidhau)**
+
+The staff flies across the Sarayū and lands beside the bulls (वृषभाणां संनिधिः) in a herd of many thousands. Under उक्षाणसंनिधौ, Bansīdhara (_Śiromaṇi_) notes the epic form उक्षाण-, while Govindarāja reads उक्षणसंनिधौ as a thematic stem (अकारान्तत्वम्).
+
+_____________
+
+**2.32.39–40 (ā tasmāt sarayūtaṭāt and parihāso hy ayam)**
+
+Embracing Trijaṭa, Rāma has all the cattle from that bank of the Sarayū (आ तस्मात्सरयूतटात्) driven to his hermitage, and asks him not to resent the jest (मन्युः कोपः न कर्तव्यः).
+
+_____________
+
+**2.32.41–42 (jijñāsitum and na te sma yantraṇā)**
+
+Explaining why he risked provoking a Brahmin's anger with a jest, Rāma states that although he already knew Trijaṭa's power, he wished to make that irresistible energy manifest to the assembly (जिज्ञासितुं जिज्ञापयिषितुमिच्छता भवत्प्रभावप्राकट्यं वाञ्छता [_Śiromaṇi_]; अविदित इव ज्ञातुमिच्छता [_Tilaka_]). He urges Trijaṭa to feel no hesitation or restraint (यन्त्रणा संकोचः [_Tilaka_]; निरोधः [_Bhūṣaṇa_]), swearing that all his wealth exists solely for Brahmins (विप्रकारणात् विप्रार्थमेव).
+
+_____________
+
+**2.32.43 (gavām anīkam and upabṛṃhiṇīḥ)**
+
+Delighted (मोदितः) with the vast herd (गवामनीकम्)—which shows he desired nothing further (गोभ्योऽन्यन्नापेक्षितवान् [_Bhūṣaṇa_])—Trijaṭa and his wife bestow blessings that augment Rāma's renown, strength, joy, and felicity (उपबृंहिणीर्वर्धिनीः).
+
+_____________
+
+**2.32.44–45 (dharmabalaiḥ and daridrabhikṣācaraṇaḥ)**
+
+Rāma then distributes his wealth, acquired through righteous valor (धर्मबलैर्धर्मयुक्तपराक्रमैः), among friends, servants, and indigent mendicants (दरिद्रभिक्षाचरणः, derived by Govindarāja with agentive ल्युट्). Through the two negatives in न तत्र कश्चिन्न बभूव तर्पितः, every single person was gratified with due honor and eager generosity (संभ्रमस्त्वरा).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

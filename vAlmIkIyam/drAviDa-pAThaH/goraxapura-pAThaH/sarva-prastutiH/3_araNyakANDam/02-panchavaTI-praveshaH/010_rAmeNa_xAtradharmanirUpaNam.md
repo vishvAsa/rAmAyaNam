@@ -513,6 +513,80 @@ you shall protect us... [4-10-10b, 11a]
 
 Then all of them together uttered this speech: ‘By many _rākṣasas_ in the Daṇḍaka forest who assume any form at will (_kāma-rūpibhiḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.10.1–2 (Vindicating Dharma Without Contradicting Sītā)**
+
+Opening the sarga, **Rāma Varmā** (_Tilaka_) observes that Rāma establishes the righteousness of his mission without contradicting Sītā’s own premises (तद्वाक्याविरोधेनैव धर्मत्वं प्रतिपादयति). **Govindarāja** (_Bhūṣaṇa_) remarks that धर्मे स्थितः signals Rāma’s resolve to fulfil his vow to the sages even at the cost of enduring separation from Sītā (सीताविरहक्लेशमङ्गीकृत्यापि प्रतिज्ञातनिर्वहणपरता द्योत्यते), while praising her noble Janaka lineage (जनकात्मजे).
+
+_____________
+
+**3.10.3–4 (Turning Sītā’s Maxim & Surrender of the Sages)**
+
+On 3.10.3, all three commentators note that Rāma paraphrases Sītā’s own statement in 3.9.26 (धनुषा कार्यमेतावदार्तानामभिरक्षणम्) as the famous maxim क्षत्रियैर्धार्यते चापो नार्तशब्दो भवेदिति. In 3.10.4, **Rāma Varmā** (_Tilaka_) explains that because the sages approached him of their own accord for refuge (स्वयमागम्य शरणं गताः), hostility toward his suppliants constitutes hostility toward himself (अस्मच्छरणागतेषु वैरेण ममापि वैरमर्थान्दायातम्), removing any charge of unprovoked violence.
+
+_____________
+
+**3.10.5–6 (The Plight of the Forest Ascetics)**
+
+Glossing कालकालेषु in 3.10.5, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) take the reduplication to mean “at all times and seasons” (सर्वकालेष्वित्यर्थः). Verse 3.10.6cd (ते भक्ष्यमाणा मुनयो...) construes directly by enjambment (_yugmaka_) with the verb माम् ऊचुः in 3.10.7b.
+
+_____________
+
+**3.10.7–8 (abhyavapadya & Rāma’s Noble Shame)**
+
+All three commentators gloss अभ्यवपद्य in 3.10.7a as “bestow grace and protect” (अनुगृहाणेति), flagging the _parasmaipada_ imperative termination on root पद् as an _ārṣa_ licence (आर्षं परस्मैपदम्, _Tilaka_, _Bhūṣaṇa_). On ह्रीरेषा तु ममातुला in 3.10.8d, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) take ह्रीः as Rāma’s deep shame (लज्जा) at failing to approach the sages first, whereas **Rāma Varmā** (_Tilaka_) prefers dividing मेऽह्रीरेषा (“this shamelessness or infamy is mine”, अह्रीरकीर्तिः) while noting _Tīrtha_’s reading ह्रीः.
+
+_____________
+
+**3.10.9–10 (The First-Person Present kiṃ karomi)**
+
+In 3.10.9, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain the present tense किं करोमि as expressing modal deliberation or request for command in the sense of the imperative/subjunctive (लोटर्थे लट्, किं करवाणीत्यर्थः). In 3.10.10–11a, अर्दिताः स्म stands for अर्दिताः स्मः with _ārṣa_ elision of final _visarga_ (आर्षः सलोपः, _Śiromaṇi_).
+
+_____________
+
+**3.10.11–12 (Disruption of Vedic Oblations)**
+
+Glossing होमकाले and पर्वकालेषु, **Govindarāja** (_Bhūṣaṇa_) specifies the daily _agnihotra_ and the new- and full-moon sacrifices (दर्शपूर्णमासादिष्वसकाले), pointing out to Sītā that obstructing Vedic sacrifices is the gravest of offenses (यज्ञविघ्नकरं हन्यामिति).
+
+_____________
+
+**3.10.13–15 (Why the Sages Refrain from Cursing)**
+
+Explaining why the sages call Rāma their “supreme refuge” (परमा गतिः), **Śivasahāya** (_Śiromaṇi_) and **Rāma Varmā** (_Tilaka_) note that although the ascetics possess sufficient yogic power to destroy the night-roamers (तपःप्रभावेण निशाचरान् हन्तुं कामं शक्ताः), unleashing a wrathful curse expends hard-won ascetic merit (अतिक्लेशार्जिततपोव्ययभयेन, _Tilaka_; तपस्विकर्तृकहिंसादिकर्मारम्भे तत्तपो नश्यतीति, _Śiromaṇi_).
+
+_____________
+
+**3.10.16 (Complete Protection through Eradicating the Foe)**
+
+On त्वन्नाथाः, all three commentators analyze the compound as a _bahuvrīhi_ (त्वं नाथो येषां ते), showing the sages’ exclusive dependence (_ananya-gatitva_) on Rāma. Glossing कार्त्स्न्येन परिपालनम्, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain that “complete protection” requires wholly eradicating the demonic tormentors (रक्षोवधपर्यन्तपरिपालनं संश्रुतं).
+
+_____________
+
+**3.10.17 (Rāma’s Jurisdiction in Exile)**
+
+Addressing Sītā’s argument in 3.9.28 that Rāma should resume _kṣatra-dharma_ only upon returning to Ayodhyā, **Rāma Varmā** (_Tilaka_) counters that Rāma’s royal bond remains unsevered during the fourteen years, and moreover that protecting the distressed belongs to the _kṣatriya_ birth itself (क्षत्रजातेरेवात्राधिकारः न तु राज्यपदस्थस्यैव).
+
+_____________
+
+**3.10.18–19 (Rāma’s Supreme Vow of Truth)**
+
+Answering Sītā’s hidden fear that war with the demons will part them, **Govindarāja** (_Bhūṣaṇa_) cites scriptural maxims on the dearness of one’s life, brother (भ्राता भ्रातृव्यः स्वा मूर्तिरात्मनः), and wife (अर्धो वा एष आत्मनः यत्पत्नी) to show the climax: Rāma would renounce life, Lakṣmaṇa, and Sītā herself rather than break a word given to Anyone—above all to brahmins (ब्राह्मणेभ्यः ब्रह्मविद्भ्यः कृतां प्रतिज्ञां विशेषतो न जह्याम्).
+
+_____________
+
+**3.10.20 (anuktenāpi & Distinguishing sneha from sauhārda)**
+
+On अनुक्तेनापि, all three commentators supply ऋषिभिः कार्यम् (“even unasked by the sages, protecting them would be my duty; how much more so having promised it!”). In 3.10.20cd, **Rāma Varmā** (_Tilaka_) finely distinguishes स्नेहः (affection, प्रीतिः) from सौहार्दं (good-heartedness seeking the beloved’s welfare, शोभनहृदयता), since mere fondness without noble candour would not offer corrective counsel.
+
+_____________
+
+**3.10.21–22 (Sītā as Sadharma-cāriṇī & Departure)**
+
+Glossing सदृशं चानुरूपं च, **Govindarāja** (_Bhūṣaṇa_) links Sītā’s exaltation of _dharma_ to her Janaka heritage (कर्मणैव हि संसिद्धिमास्थिता जनकादयः) and her mercy toward the unoffending to her own compassionate nature (पापानां वा शुभानां वा). Yet as his सधर्मचारिणी, she must share his vowed _dharma_ as he journeys into the penance-groves bow in hand (धनुष्मान्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

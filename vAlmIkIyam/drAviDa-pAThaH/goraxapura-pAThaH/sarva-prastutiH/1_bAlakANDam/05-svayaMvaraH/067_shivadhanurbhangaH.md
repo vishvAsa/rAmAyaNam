@@ -79,6 +79,14 @@ On listening to the words of Janaka, the eminent-saint Vishvamitra indeed said t
 
 Hearing the words of Janaka (_janakasya vacaḥ śrutvā_), the great sage Viśvāmitra (_viśvāmitro mahāmuniḥ_) spoke thus to the monarch (_iti hovāca pārthivam_): “Show the bow to Rāma (_dhanur darśaya rāmāya_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.1–3 (dhanur darśaya rāmāya & prāviśan puram)**
+
+**Rāma Varmā (_Tilaka_)** notes the optional hiatus in _rāmāya iti_ and observes that Viśvāmitra’s concise command carries an implicit assurance: Rāma will string the bow and win Sītā (_āropayiṣyati sītāṃ prāpsyati ceti bhāvaḥ_). Since Janaka sat at the sacrificial enclosure outside, the ministers entered the city (_yajñavāṭād ity arthaḥ_, **Tilaka**) to fetch the bow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,6 +225,14 @@ Thus clearly instructed by Janaka those high souled ministers have gone out from
 
 Five thousand (_śatāni pañcāśat_) tall and stalwart men of great vigor (_nṛṇāṃ vyāyatānāṃ mahātmanām_) drew along with great effort (_samūhus te kathaṃcana_) that eight-wheeled chest (_mañjūṣām aṣṭacakrāṃ tām_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.4 (nṛṇāṃ śatāni pañcāśad & mañjūṣām aṣṭacakrām)**
+
+All three commentators gloss _śatāni pañcāśat_ as five thousand (_pañcasahasrāṇīty arthaḥ_) tall, stalwart men (_vyāyatānāṃ dīrghadehānāṃ puṣṭaśarīrāṇām_, **Tilaka**, **Govindarāja**). Even five thousand men could haul (_samūhuḥ_, glossed as _ācakarṣuḥ_, **Govindarāja**) that eight-wheeled wagon-chest (_aṣṭacakravacchakaṭāropitāṃ khaḍgapeṭikām_, **Govindarāja**) only with immense strain (_kathaṃcana mahatā prayatnena_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +288,14 @@ On fetching that iron coffer wherein that bow is there, those ministers of the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having brought that fine iron chest (_tām ādāya sumañjūṣām āyasīm_) wherein rested that bow (_yatra tad dhanuḥ_), the royal ministers (_nṛpatimantriṇaḥ_) spoke to Janaka, who resembled a god (_suropamaṃ te janakam ūcuḥ_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.5–6 (sumañjūṣām āyasīm & darśanīyaṃ yadīcchasi)**
+
+**Tilaka** glosses _āyasīm_ as forged of eight metals (_aṣṭalohanirmitām_), while **Śiromaṇi** renders it as iron-wrought (_lohanirmitām_). Addressing Janaka, the ministers announce that the bow revered by all kings has arrived: “If you wish it to be shown, here it is!” (_yadīcchasi darśanīyam iti tad idam ity anvayaḥ_, **Tilaka**).
 </details>
 </details>
 
@@ -389,6 +413,14 @@ On listening the announcement of his ministers the king spoke to the noble soule
 
 Hearing their words, the king, with joined palms (_kṛtāñjaliḥ_), spoke (_abhāṣata_) to the high-souled Viśvāmitra (_viśvāmitraṃ mahātmānam_) and to both Rāma and Lakṣmaṇa (_tāv ubhau rāmalakṣmaṇau_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.7–8 (tāv ubhau & aśaktaiḥ pūritaṃ tadā)**
+
+**Tilaka** explains that Janaka addresses Viśvāmitra with reference to both princes (_ubhau rāmalakṣmaṇau tadubhayaṃ taddhanuḥpradarśanam uddiśya_). On _aśaktaiḥ pūritam_, **Tilaka** construes the phrase via rhetorical intonation (_kāku_): how could suitors unable even to lift it have drawn it? **Govindarāja** (_pūjitaṃ purā_) notes that defeated suitors merely bowed to it.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,6 +506,14 @@ Here is that exquisite bow, oh, Brahman, which is held as a time-honoured bow by
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Neither all the hosts of gods together with the asuras (_naitat suragaṇāḥ sarve sāsurāḥ_), nor the rākṣasas (_na ca rākṣasāḥ_), nor the foremost of gandharvas and yakṣas along with kinnaras and great serpents (_gandharvayakṣapravarāḥ sakiṃnaramahoragāḥ_) [are able to string it]—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.9–10 (Five Technical Operations of Archery)**
+
+By _kaimutika-nyāya_ (**Śiromaṇi**), if gods and titans fail, how can mortals succeed? All three commentators distinguish five operations in descending difficulty: (1) _prapūraṇa_ (drawing full circle, _ākarṇākarṣaṇa_ / _namrīkaraṇa_), (2) _āropaṇa_ (stringing, _sajyīkaraṇa_), (3) _samāyoga_ (nocking a shaft, _śareṇa yojanam_), (4) _vepana_ (twanging the string, _jyāsphāṭana_), and (5) _tolana_ (lifting to test its weight, _bhāraparīkṣārthaṃ kampana_).
 </details>
 </details>
 
@@ -585,6 +625,14 @@ None in all the assemblages of gods, inclusive of demigods, demons, gandharva-s,
 
 “That very finest of bows has now been brought here, O bull among sages (_tad etad dhanuṣāṃ śreṣṭham ānītaṃ munipuṃgava_); show it, O illustrious one (_darśayaitan mahābhāga_), to these two royal princes (_anayo rājaputrayoḥ_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.11–12 (vatsa rāma dhanuḥ paśya)**
+
+Though human strength seems unequal to it, Janaka defers to Viśvāmitra’s command (_tvadājñayānītam_, **Tilaka**), whereupon the sage bids Rāma: “My child Rāma, behold the bow!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -695,6 +743,14 @@ Upon the word of the great sage Vishvamitra, Rama on unclosing the lid of that
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 At the word of the great sage (_maharṣer vacanād_), Rāma opened that chest (_mañjūṣāṃ tām apāvṛtya_) wherein rested that bow (_yatra tiṣṭhati tad dhanuḥ_), and beholding the bow (_dṛṣṭvā dhanuḥ_), spoke thus (_athābravīt_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.13–14 (apāvṛtya & saṃspṛśāmīha pāṇinā)**
+
+Opening the iron chest (_apāvṛtya = apagatāvaraṇaṃ kṛtvā_, **Govindarāja**; _udghāṭya_, **Śiromaṇi**), Rāma modestly asks permission in the present tense (_saṃspṛśāmi kim ity apṛcchat_, **Tilaka**): “Shall I touch this divine bow and try to lift and draw it?”
 </details>
 </details>
 
@@ -856,6 +912,14 @@ A bow has a definite height and it is a measure of length, from the ages even
 
 **16:** While many thousands of men looked on (_paśyatāṃ nṛsahasrāṇāṃ bahūnām_), that righteous-souled delight of the Raghus (_sa dharmātmā raghunandanaḥ_) strung that bow as though in sport (_āropayat salīlam iva tad dhanuḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.15–16 (līlayā sa dhanur madhye jagrāha)**
+
+Upon Janaka’s and Viśvāmitra’s _bāḍham_ (“Indeed!”), Rāma grasps the bow’s middle effortless as play (_līlayā = anāyāsena_). **Tilaka** cites the _Padma Purāṇa_ (_rāmo ’pi taddhanuṣkoṭiṃ dhṛtvā pādāṅguṣṭhataḥ / unnataṃ cāpam āropya babhañje_): pressing one tip under his toe, he raised and strung it. **Govindarāja** notes that at Rāma’s wondrous touch, the tall bow bowed down (_karasparśād evāvanataṃ dhanuḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +985,14 @@ The bow is not broken by itself because of its oldness or dryness, but let us
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having strung the bowstring (_āropayitvā maurvīṃ ca_), he drew that bow to its full circle (_pūrayāmāsa tad dhanuḥ_); and that best of men, of mighty renown (_naraśreṣṭho mahāyaśāḥ_), snapped the bow in the middle (_tad babhañja dhanur madhye_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.17–18 (tad babhañja dhanur madhye & nirghātasamaniḥsvanaḥ)**
+
+Drawing the string to his ear (_pūrayāmāsa = ākarṇam ākṛṣṭavān_, **Govindarāja**), Rāma snaps the bow in the middle. Its crash rivals a thunderbolt (_nirghāto ’śanidhvaniḥ_, **Tilaka**, **Śiromaṇi**), shaking the earth like a splitting mountain.
 </details>
 </details>
 
@@ -1079,6 +1151,14 @@ Bewildered by that raucous caused by the breakage of bow, all the people swooned
 
 Stunned by that thunderous sound (_tena śabdena mohitāḥ_), all the people fell to the ground (_nipetuś ca narāḥ sarve_), save the foremost of sages, the king, and the two Rāghavas (_varjayitvā munivaraṃ rājānaṃ tau ca rāghavau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.19–20 (varjayitvā munivaraṃ & vigatasādhvasaḥ)**
+
+Only four figures remain standing amidst the sonic shockwave: Viśvāmitra, Janaka, Rāma, and Lakṣmaṇa. All three commentators offer a penetrating psychological gloss on _vigatasādhvasaḥ_ (“his fear dispelled”): Janaka’s fear was not of the crash, but his anxious dread that if even Rāma failed to string the bow, Sītā would remain forever unwed and Rāma would not become his son-in-law (_rāmeṇa dhanuranāropaṇe kanyā ’vivāhitaiva sthāsyatīti yā bhīḥ_, **Tilaka**; _rāmajāmātṛkatāprāpakaṃ dhanurāropaṇam api na bhaved iti pūrvaṃ bhīto ’bhūt_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1199,6 +1279,14 @@ Oh, godly sage, the gallantry of Dasharatha's Rama is evidently seen... and the
 
 “O venerable Lord (_bhagavan_), I have beheld the valor of Rāma, son of Daśaratha (_dṛṣṭavīryo me rāmo daśarathātmajaḥ_)! This feat is utterly marvelous (_atyadbhutam_), inconceivable (_acintyaṃ ca_), and beyond anything I had ever imagined (_atarkitam idaṃ mayā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.21 (atyadbhutam acintyam atarkitam)**
+
+**Govindarāja** distinguishes the three epithets: Rāma’s feat is _acintyam_ because it was never seen anywhere before (_anyatrādarśanāt_), _atarkitam_ because it was deemed impossible among mortals (_manuṣyeṣv asaṃbhāvitatvāt_), and _atyadbhutam_ because it was accomplished by a tender youth (_bālena kṛtatvāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1270,6 +1358,14 @@ This verse explains the advantageous status of Seetha than Rama in her birth
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “My daughter Sītā (_me sutā sītā_) shall bring peerless renown to the lineage of the Janakas (_janakānāṃ kule kīrtim āhariṣyati_), having gained for her husband Rāma, son of Daśaratha (_bhartāram āsādya rāmaṃ daśarathātmajam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.22–23 (janakānāṃ kule kīrtim & prāṇair bahumatā)**
+
+**Govindarāja** notes that Rāma fulfills every traditional criterion of a bridegroom (_bhartāram_ = wealth to sustain, _rāmam_ = beauty desired by the bride, _daśarathātmajam_ = noble lineage prized by kinsmen). On _prāṇair bahumatā_, all three commentators take the instrumental _prāṇaiḥ_ in the ablative sense (_prāṇebhyaḥ priyatamā_).
 </details>
 </details>
 
@@ -1414,6 +1510,14 @@ With their observant submissions those ministers will narrate in detail about th
 
 **25:** “With deferential words (_praśritair vākyaiḥ_), let them conduct the king to my city (_rājānam ānayantu puraṃ mama_), and let them recount in full (_kathayantu ca sarvaśaḥ_) the bestowal of the bride whose bride-price is valor (_pradānaṃ vīryaśulkāyāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.24–25 (bhavato ’numate & pradānaṃ vīryaśulkāyāḥ)**
+
+**Śiromaṇi** notes that vv. 23–24 form a single syntactic unit (_ślokadvayaṃ saṃmilitānvayi_): Sītā must be given to Rāma with Viśvāmitra’s consent (_bhavato ’numate = bhavadanumatyā_, **Govindarāja**), and therefore Janaka’s counselors should hasten to Ayodhyā to report the promised bestowal of Sītā (_vīryaśulkāyāḥ pradānam_) and invite Emperor Daśaratha with humble words (_praśritair = vinayānvitaiḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1467,6 +1571,14 @@ With their observant submissions those ministers will narrate in detail about th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let them also announce to the monarch (_kathayantu nṛpāya vai_) that the two Kākutsthas are thriving under the sage’s protection (_muniguptau ca kākutsthau_), and traveling at top speed (_suśīghragāḥ_), let them bring the joyous king (_prītiyuktaṃ tu rājānam ānayantu_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.26 (muniguptau ca kākutsthau)**
+
+**Tilaka** and **Śiromaṇi** gloss _muniguptau_ as “protected by Sage Viśvāmitra” (_viśvāmitrarakṣitau_): hearing both that his two sons are safe under the sage’s guardianship and that Rāma has won Sītā, Daśaratha will be filled with joy (_prītiyuktam_).
 </details>
 </details>
 
@@ -1539,6 +1651,14 @@ Vishvamitra said, "so be it," and then that right-minded king Janaka on consulti
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Kauśika replied, “So be it (_kauśikas tu tathety āha_)!” And the righteous-souled king, summoning his counselors (_rājā cābhāṣya mantriṇaḥ_), dispatched them to Ayodhyā entrusted with his royal missive (_ayodhyāṃ preṣayāmāsa dharmātmā kṛtaśāsanān_), to report everything as it had transpired and to escort the monarch back (_yathāvṛttaṃ samākhyātum ānetuṃ ca nṛpaṃ tathā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**67.27 (kṛtaśāsanān & yathāvṛttaṃ samākhyātum)**
+
+Both **Tilaka** and **Govindarāja** gloss _kṛtaśāsanān_ as envoys furnished with written letters of auspicious tidings (_dattakalyāṇasaṃdeśapatrikān_) and _ābhāṣya_ as summoning and instructing them (_āhūya saṃbodhya ca_), while **Śiromaṇi** notes that the six-pāda verse forms a single unified sentence (_sārdhaśloka ekānvayī_) culminating in the twin infinitives _samākhyātum_ and _ānetum_.
 </details>
 </details>
 

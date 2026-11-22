@@ -91,6 +91,14 @@ Sugriva, which was drawn up in a battle array.
 
 **2:** A spy (_cāraḥ_) of the evil-souled Rāvaṇa, king of the _rākṣasas_, having surveyed that [host], which was wholly unperturbed (_sarvato &#x27;vyagrām_), that _rākṣasa_ returned—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.1–3 (Śārdūla's Reconnaissance of the Monkey Camp)**
+
+Shifting the narrative to Laṅkā after Vibhīṣaṇa's departure (विभीषणनिर्गमनानन्तरं लङ्कावृत्तान्तं प्रस्तौति), **Govindarāja** (_Bhūṣaṇa_) notes that the spy Śārdūla is called `valiant' (वीर्यवान्) to explain how he dared approach so formidable a camp (दर्शनसामर्थ्योक्तिः). **Rāma Varmā** (_Tilaka_) supplies `on the ocean shore' (सागरतीर इति शेषः) for निविष्टाम्, while **Śivasahāya** (_Śiromaṇi_)—reading व्यग्रम्—construes it with the anxious king Rāvaṇa (व्यग्रं राजानं रावणमिदमब्रवीत्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -174,6 +182,14 @@ And entering Laṅkā with speed, spoke these words to the king: “Yonder flood
 
 “Fathomless (_agādhaḥ_) and immeasurable (_aprameyaḥ_), like a second ocean (_dvitīya iva sāgaraḥ_)! And these two sons of Daśaratha, the brothers Rāma and Lakṣmaṇa—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.4–5 (The Second Ocean and Sītā's Track)**
+
+On the simile द्वितीय इव सागरः, **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain the double application of the adjectives: applied to the monkey army, अगाधः means `impenetrable to enter' (सेनापक्षे दुष्प्रवेशः) and अप्रमेयः means `impossible to count or measure' (अपरिच्छेद्यः). On सीतायाः पदमागतौ, **Tilaka** and **Śiromaṇi** cite the lexicon (पदं व्यवसितत्राणस्थानलक्ष्माङ्घ्रिवस्तुषु) to gloss पदम् either as coming with the resolve to rescue Sītā (त्राणबुद्ध्यागतौ) or as tracking her abode (स्थानम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +259,14 @@ all sides. You have to ascertain this truth quickly"
 
 **6:** “And their army, covering the sky (_ākāśam āvṛtya_) for ten _yojanas_ on every side [stands encamped]; O great king, you ought swiftly to ascertain the true state of affairs (_tattvabhūtam_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.6 (The Ten-Yojana Encampment)**
+
+**Govindarāja** and **Śiromaṇi** gloss आकाशम् not as the upper sky but as open ground (अवकाशम्), explaining that the monkey army covers a space of ten _yojanas_ on all four sides (चतुःपार्श्वेषु दशयोजनपरिमितमवकाशमावृत्य स्थितम्). On तत्त्वभूतम्, **Govindarāja** explains Śārdūla's plea: `What I have observed only in general outline, your Majesty should swiftly investigate in its exact particulars (यथार्थभूतं यथा भवति तथा ज्ञातुमर्हसि).'
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -301,6 +325,14 @@ ranks) may be employed."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Your envoys (_dūtāḥ_), O great king, ought swiftly to ascertain [their designs]; let bribery (_upapradānam_), conciliation (_sāntvam_), or dissension (_bhedaḥ_) be employed here!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.7–9 (Śārdūla's Counsel and Śuka's Commission)**
+
+Explaining why Śārdūla names only three of the four classical _upāyas_—gifts (उपप्रदानम्), conciliation (सान्त्वम्), and sowing dissension (भेदः)—**Govindarāja** (_Bhūṣaṇa_) remarks that open military force (_daṇḍa_) has no scope here (दण्डस्य त्ववकाश एव नास्तीति भावः). **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) take उपप्रदानम् as restoring Sītā to Rāma (सीतायाः समर्पणम्) and सामभेदौ as directed toward Sugrīva. In verse 9, **Tilaka** glosses अक्लीबम् as `unflinchingly' (अकातरम्), while **Govindarāja** glosses श्लक्ष्णया as `free of harshness' (पारुष्यरहितया).
 </details>
 </details>
 
@@ -476,6 +508,14 @@ and are a son of Riksharaja. No gain whatsoever or any harm will accrue to you (
 
 “‘You are born in a lineage of great kings (_mahārājakulaprasūtaḥ_), of great strength, and the son of Rikṣarajas (_ṛkṣarajaḥsutaḥ_); you have neither any gain (_arthaḥ_) nor any loss (_anarthaḥ_) [from me], and even so, O lord of monkeys, you are like a brother (_bhrātṛsamaḥ_) to me.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.10–11 (Rāvaṇa's Appeal to Kinship and Self-Interest)**
+
+**Tilaka** and **Śiromaṇi** construe महाराजकुलप्रसूतः as a single compound (`born in a royal house'), whereas **Govindarāja** separates vocative हे महाराज! and takes कुलप्रसूतः as `high-born, being Sūrya's son' (सूर्यपुत्रत्वादिति भावः). All three commentators explain Rāvaṇa's argument: Sugrīva gains nothing by aiding Rāma and suffers no injury from Rāvaṇa (न कश्चनार्थस्तव नास्त्यनर्थः); moreover, as Vālin's brother and Rikṣarajas's son, Sugrīva is Rāvaṇa's own brother-in-alliance (भ्रातृसमः), so abducting a human prince's wife causes him no loss (तत्र हरणविषये तव का हानिरित्यर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -581,6 +621,14 @@ celestials and Gandharvas (celestial musicians), why to talk about men and monke
 
 “‘For this Laṅkā cannot by any means be reached by monkeys (_haribhiḥ_)—not even by the gods together with the _gandharvas_, how much less by men and monkeys (_kiṃ punar naravānaraiḥ_)!’”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.12 (The Kaimutika Argument on Laṅkā's Impregnability)**
+
+Noting the apparent repetition between हरिभिः in the first half-verse and वानरैः in the second, **Śiromaṇi** ingeniously takes the first हरिभिः to mean `lords like Viṣṇu' (अत्र हरिपदवाच्यो विष्ण्वादिर्ज्ञेयः), whereas **Govindarāja** explains that हरिभिः first states `by monkeys' directly and नरवानरैः repeats it in the _kaimutika_ (`a fortiori') clincher after `even by gods and _gandharvas_.'
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -634,6 +682,14 @@ quickly flew into the sky.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then that night-roamer (_rajanīcaraḥ_) Śuka, commanded by the lord of _rākṣasas_, having assumed the form of a bird (_vihaṃgamo bhūtvā_) and swiftly leaped into the sky—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.13–14 (Śuka's Flight in Bird-Form)**
+
+**Rāma Varmā** (_Tilaka_) notes that the _rākṣasa_ Śuka (`Parrot'), true to his name, assumes the form of a parrot-bird (शुकपक्षी भूत्वा) and leaps into the sky. On the construction उपर्युपरि सागरम्, **Tilaka** glosses it as `in the sky close above the ocean' (सागरसमीपोर्ध्वदेशे), while **Govindarāja** (_Bhūṣaṇa_) cites the Pāṇinian rule governing the accusative case after the doubled _āmreḍita_ preposition (उपर्यध्यधसः सामीप्ये इति द्विवचनम्; आम्रेडितान्तत्वादुभसर्वतसोः इति द्वितीया).
 </details>
 </details>
 
@@ -745,6 +801,14 @@ off his wings and to smite him by their fists.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Everything was spoken by him just as commanded (_yathādiṣṭam_) by the evil-souled Rāvaṇa; and as he was delivering (_prāpayantam_) that speech, the monkeys swiftly leaped up—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.15–17 (The Monkeys Seize and Pluck the Aerial Envoy)**
+
+As Śuka recites Rāvaṇa's message (तत् प्रापयन्तं वचनम्), the outraged monkeys leap into the sky and surround him (प्रापद्यन्त पर्यवारयन् in **Bhūṣaṇa**; गृहीतवन्तः in **Tilaka**). Both **Tilaka** and **Śivasahāya** (_Śiromaṇi_) supply `wings' (पक्षाविति शेषः) as the object of लोप्तुम् (`to pluck or tear off'). Dragged down from the sky to the earth (गगनाद् भूतलेऽवतारितः), the battered envoy appeals directly to Rāma.
 </details>
 </details>
 
@@ -884,6 +948,14 @@ him, that messenger is indeed fit to be killed."
 
 **18:** “Men do not slay envoys (_na dūtān ghnanti_), O Kākutstha! Let the monkeys be rightly restrained (_vāryantām_)! Only that envoy who, abandoning his master&#x27;s mind (_matam bhartuḥ_), advances his own opinion—speaking what was not commissioned (_anuktavādī_)—deserves death!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.18 (The Law of Diplomatic Immunity)**
+
+Anticipating the objection that even an envoy may be slain if he acts improperly (दूतोऽप्ययुक्तकारी वध्य एवेत्याशङ्क्य), **Govindarāja** explains that Śuka exonerates himself by citing the canon of statecraft: kings never slay faithful envoys (न दूतान् घ्नन्ति राजान इति शेषः); only a treacherous envoy who suppresses his sovereign's message (हित्वा मतं भर्तुः) and invents his own words to save himself (आत्मत्राणार्थमन्यदेव किंचिद्यदि भाषते) is an अनुक्तवादी deserving execution.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -946,6 +1018,14 @@ beating him as aforesaid, saying "Do not kill him"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing Śuka&#x27;s lamenting (_paridevitam_) speech, Rāma said to the monkey chiefs who were striking him (_ghnataḥ_): “Do not slay him!” (_mā vadhiṣṭeti_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.19–20 (Rāma's Intervention and the Meaning of Patralaghuḥ)**
+
+On मा वधिष्ट, **Rāma Varmā** (_Tilaka_) takes it as an _ārṣa_ singular for plural मा वधिध्वम्, whereas **Govindarāja** (_Bhūṣaṇa_) explains it as addressed distributively to each monkey (प्रत्येकोक्त्यभिप्रायेणैकवचनम्). On पत्रलघुः, **Tilaka** glosses it as `swift-moving by means of his wings' (पत्रैः पतत्रेण शीघ्रगतिः), explicitly rejecting _Kataka_'s gloss `light of feather because his wings were plucked out' (परिलूनपक्ष इति तीर्थोक्तम्) since a wingless bird could not rise into the sky (तादृशस्यान्तरिक्षगमनासंभवात्); **Śivasahāya** (_Śiromaṇi_) and **Bhūṣaṇa**, however, accept `having thinned or partially plucked feathers' (पुनर्विचितपक्षरोमा / प्रायेण लूनपक्षः).
 </details>
 </details>
 
@@ -1051,6 +1131,14 @@ tell Ravana, whose nature is to cause world to cry?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Sugrīva, endowed with courage (_sattvasampanna_), of great strength and valor! What, pray, is Rāvaṇa, the make-wail of the worlds (_lokarāvaṇaḥ_), to be told by me?”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.21–22 (Śuka's Request for a Reply)**
+
+Both **Tilaka** and **Govindarāja** remark that Śuka's epithet लोकरावणः (`he who makes the worlds cry out') reveals his terror of returning empty-handed: if he brings back no reply from Sugrīva, the ruthless Rāvaṇa will surely execute him (प्रतिवचनानादाने मां हनिष्यतीति भावः). **Govindarāja** notes the metrical shift to _upajāti_ in verse 22 and glosses महाबलः as `counting Rāvaṇa as a blade of grass' (तृणीकृतरावणः).
 </details>
 </details>
 
@@ -1189,6 +1277,14 @@ army from all sides, speedily returned to Lanka and spoke to their king as follo
 
 “You are no friend (_mitram_) of mine, nor worthy of compassion (_anukampyaḥ_), nor a benefactor, nor dear to me; you are Rāma&#x27;s enemy, and therefore, O you who deserve death (_vadhārha_), you are to be slain along with your followers like Vālin (_vālīva_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.23–24 (Sugrīva's Point-by-Point Refutation)**
+
+**Govindarāja** shows how Sugrīva dismantles Rāvaṇa's message point by point: answering `you are like a brother to me' (v. 10), Sugrīva declares `you are neither friend, nor pitiable, nor benefactor, nor dear to me' (न मेऽसि मित्रम्); answering the appeal to Vālin's kinship, he retorts that just as Vālin was slain, so too Rāvaṇa—as the enemy of Sugrīva's friend Rāma (अरिमित्रस्याप्यरित्वादिति भावः)—will be slain with all his clan (सज्ञातिवर्गम्, excluding righteous Vibhīṣaṇa) and Laṅkā burned to ashes.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1294,6 +1390,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O fool (_mūḍha_), you shall not escape (_na mokṣyase_) from Rāghava even if protected by the gods together with Indra, or vanished (_antarhitaḥ_) and gone upon the path of the sun (_sūryapatham_), or likewise entered into Pātāla, or clinging to the lotus-feet of Girīśa [Śiva] (_girīśapādāmbujasaṃgataḥ_)—you along with your younger brother [Kumbhakarṇa] are as good as slain (_hato &#x27;si_) by Rāma!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.25–26 (No Sanctuary in the Three Worlds)**
+
+All three commentators note that राघवस्य in verse 25 stands for the ablative राघवात् (`from Rāghava', पञ्चम्यर्थे षष्ठी). Even if Rāvaṇa vanishes by magic (अन्तर्धानशक्त्या), ascends the solar path (सूर्यपथं सूर्यद्वारम्), plunges into Pātāla, or clasps the lotus feet of his patron Śiva (गिरीशपादाम्बुजसंगतो वा), he is already as good as slain (हतो निहतप्रायोऽसि). In verse 26, addressing the fivefold repetition of न, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that four negatives negate each class individually (_piśāca_, _rākṣasa_, _gandharva_, _asura_) while the fifth negates all of them combined (समुदायस्येति वर्णयन्ति).
 </details>
 </details>
 
@@ -1407,6 +1511,14 @@ you."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “You slew Jaṭāyu, the king of vultures, infirm with old age (_jarāvṛddham_); why then did you not carry off wide-eyed Sītā in the presence of Rāma (_rāmasāṃnidhye_) or before Lakṣmaṇa? Having seized her, you do not realize (_na budhyase_) [whom you have provoked]—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.27–28 (The Taunt Over Jaṭāyu and Stealthy Abduction)**
+
+Exposing Rāvaṇa's cowardice (चौरवृत्त्या), **Tilaka** explains the compound जरावृद्धम्: some long-lived beings remain free of senility through elixirs, while some young beings age prematurely through curses; Jaṭāyu was both aged in years (वृद्धः) and enfeebled by decrepitude (जरायुक्तः). **Govindarāja** (_Bhūṣaṇa_) unpacks the taunt: `What valor was there in slaying a frail old vulture? Why was Sītā not carried off by you (ते त्वया) in Rāma's or Lakṣmaṇa's presence (रामसांनिध्ये सकाशे लक्ष्मणस्य च)?' Having stolen her by stealth, Rāvaṇa fails to grasp his own impending doom (न बुध्यसे स्ववधम्).
 </details>
 </details>
 
@@ -1550,6 +1662,20 @@ Thereafter, Angada the son of Vali and the foremost of the monkeys spoke as foll
 
 **30:** “For as he stood here, all your army has been measured (_tulitaṃ hi balaṃ sarvam_) by him! Let him be seized (_gṛhyatām_)—let him not return (_māgamat_) to Laṅkā; for this pleases me!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.29 (Aṅgada Unmasks Śuka as a Spy)**
+
+Discerning Śuka's true activity from his roving gaze (इङ्गितप्रेक्षणादिज्ञः), Aṅgada warns Sugrīva that Śuka is not a legitimate envoy (स्वामिसंदेशप्रापणमात्रवृत्तो दूत एव न) who enjoys diplomatic immunity, but a covert spy (चारकः / चारिकः) sent to gauge their military strength—and as **Govindarāja** notes, while an envoy may not be slain, a spy is subject to capture and punishment (दूतो हि न वध्यः चारस्तु वध्य एवेति भावः).
+
+_____________
+
+**20.30–31 (Aṅgada's Proof and the Binding of Śuka)**
+
+Justifying his charge of espionage, Aṅgada points out that by hovering overhead Śuka has weighed and measured Sugrīva's entire army (तुलितं हि बलं सर्वम्—glossed by **Rāma Varmā** [_Tilaka_] and **Govindarāja** [_Bhūṣaṇa_] as तुलया मितम् / परिच्छिन्नम्). At King Sugrīva's command (राज्ञा सुग्रीवेण), the monkeys leap up, seize him, and bind him fast (जगृहुश्च बबन्धुश्च).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1668,6 +1794,14 @@ high soled son of Dasaratha as follows:
 
 **33:** “Whatever evil (_aśubham_) has been done by me in the interval between the night on which I was born (_jāye rātriṃ ca yām aham_) and the night on which I shall die—all that may you incur (_upapadyethāḥ_), should I abandon my life!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.32–33 (Śuka's Imprecation of Lifelong Sin)**
+
+**Govindarāja** remarks that Śuka addresses Rāma specifically as `son of Daśaratha' (दशरथात्मजम्) to awaken filial memory of royal _dharma_ and compassion (पितृसंबन्धकीर्तने दया भवेदिति), crying out that his wings are being torn out (लुप्येते छिद्येते). In verse 33, all three commentators note that `night' (रात्रिः) stands by synecdoche for a full day-and-night (अहोरात्रवचनः), and that present जाये (`I am born') is used in past sense without the augment (अनित्यमागमशासनमित्यडभावः): if Śuka dies unrescued, may Rāma inherit every sin committed between his birth and death (जन्ममरणावधिके काले यदशुभं पापं मया कृतं तत्सर्वं त्वमुपपद्येथाः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1728,6 +1862,14 @@ the sins incurred by me between my birth and my death would fall to your share."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that lamentation (_tatparidevitam_), Rāma did not let him be slain (_nāghātayat_) then; and Rāma said to the monkeys: “Let the envoy who has come be released (_mucyatām_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.34 (Release from Bonds vs. Detention in Camp)**
+
+How can Rāma order मुच्यतां दूत आगतः (`let the envoy be released') here when in a later _sarga_ Śuka is still found detained in the camp? **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** resolve this _virodha_ with precision: here मुच्यताम् means only `release him from his bonds and stop beating him' (बन्धनान्मुच्यताम् / बन्धनताडनादयस्त्यज्यन्ताम्), while keeping him under watch until he is finally dismissed to Laṅkā after the ocean crossing (निर्यापणं तु दक्षिणतीरे).
 </details>
 </details>
 

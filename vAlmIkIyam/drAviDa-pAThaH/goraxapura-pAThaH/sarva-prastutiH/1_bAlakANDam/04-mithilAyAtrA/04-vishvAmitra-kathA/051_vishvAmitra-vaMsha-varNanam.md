@@ -64,6 +64,14 @@ Thrilled with horripilation at the news of his mother Ahalyā’s liberation and
 
 Hearing that speech of the wise Viśvāmitra (_tasya tad vacanaṃ śrutvā_), Śatānanda—possessed of great splendor (_mahātejāḥ_) and mighty austerity (_mahātapāḥ_)—had the hairs of his body stand on end with joy (_hṛṣṭaromā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.1–2 (hṛṣṭaromā & Scope of Sargas 51–65)**
+
+**Govindarāja (_Bhūṣaṇa_)** notes that Vālmīki now inaugurates a fifteen-sarga cycle (Sargas 51–65) recounting Viśvāmitra’s life so that Rāma may know his preceptor’s majesty (_ācāryavaibhavasya jñeyatvābhiprāyeṇa viśvāmitracaritraṃ prastauti pañcadaśabhiḥ sargaiḥ_). **Rāma Varmā (_Tilaka_)** explains Śatānanda’s horripilation (_hṛṣṭaromā_) as joy at his mother’s liberation (_svamātuḥ śāpoddhāraśravaṇajasantoṣeṇa_), and his wonder at beholding the Lord (_bhagavaddarśanasyānyadurlabhatvāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +181,14 @@ bending down submissively, then Shataananda spoke to the eminent sage Vishvamitr
 
 Beholding those two royal princes seated at their ease (_etau niṣaṇṇau saṃprekṣya ... sukhāsīnau nṛpātmajau_), Śatānanda then spoke to Viśvāmitra, the foremost of sages (_muniśreṣṭham_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.3–4 (tapo dīrgham upāgatā & yaśasvinī)**
+
+**Tilaka** notes that Śatānanda asks again out of filial longing to confirm the news (_utkaṇṭhātiśayena punaḥ pṛcchati dārḍhyāya_). **Govindarāja** remarks that _tapo dīrgham upāgatā_ proves that the notion of Ahalyā turning into stone is not Vālmīki’s view (_anena pāṣāṇībhūya sthiteti pakṣo na vālmīkeḥ_), while **Śiromaṇi** notes _yaśasvinī_ signals her status as foremost of chaste wives (_pativratāgraṇītvam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +288,14 @@ worthy of worship by every corporeal being, with forest produce, is it so! [1-51
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O sage of great splendor, did my illustrious mother, radiant with great energy (_mahātejā_), offer worship with forest produce (_vanyair upāharat pūjām_) to Rāma, who is worthy of the worship of all embodied beings (_pūjārhe sarvadehinām_)?
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.5–6 (pūjārhe sarvadehinām & devena duranuṣṭhitam)**
+
+**Govindarāja** notes that _pūjārhe sarvadehinām_ manifests Rāma’s supreme godhead (_paratvaṃ vyañjitam_), while **Tilaka** glosses _duranuṣṭhitam_ as the deceitful misconduct perpetrated by Indra in Gautama’s guise (_gautamaveṣadhāraṇapūrvakaṃ tatkapaṭaduranuṣṭhānarūpam_; cf. **Śiromaṇi**: _vañcanānuṣṭhitam_).
 </details>
 </details>
 
@@ -386,6 +410,14 @@ beholding and giving hospitality to Rama - Really! [1-51-7]
 
 “O Kauśika, may all be well with you (_bhadraṃ te_)! Was my mother, O foremost of sages, reunited with my venerable father (_guruṇā mama saṃgatā mama mātā_) following this sight of Rāma (_rāmasaṃdarśanād itaḥ_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.7–8 (dvivāraṃ mameti prayogaḥ & pūjāṃ prāpya)**
+
+Why does Śatānanda repeat _mama_ twice in v. 7? **Rāma Varmā (_Tilaka_)** explains that the double possessive springs from overflowing filial joy (_dvivāraṃ mameti prayogo harṣātiśayāt_), and on v. 8 notes that Śatānanda rephrases the inquiry (_pṛṣṭasyaivārthasya bhaṅgyantareṇa praśnaḥ_), while **Govindarāja** and **Śiromaṇi** construe _pūjām_ as Gautama’s regaining of Ahalyā through Rāma (_rāmakartṛkāhalyālābharūpasatkṛtim_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,6 +525,14 @@ sage Shataananda exclaimed at the marvel occurred through Rama. [1-51-9]
 
 “And O son of Kuśika, when Rāma arrived there and was honored (_ihāgatena rāmeṇa pūjitena_), was my venerable father saluted by him (_gurur me ... abhivāditaḥ_) and did he receive him with a serene, unruffled mind (_śāntena manasā_)?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.9 (śāntena manasā & pūjitenābhivāditaḥ)**
+
+**Tilaka** explains v. 9: did Gautama, with a serene mind free of wrath (_śāntena koparahitena manasā_, **Govindarāja**), accept Rāma’s salutation rather than spurning him for my mother’s fault (_pūjāṅgīkāravandane atiraskāracihnam_)? **Śiromaṇi** records _pūjitenābhivāditaḥ_ as the _Bhaṭṭa_ reading.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -547,6 +587,14 @@ replied the sentence-precisionist Sage Shataananda. [1-51-10]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech of his, the great sage Viśvāmitra, skilled in speech (_vākyajñaḥ_), replied to Śatānanda, who was himself an expert in eloquent discourse (_vākyakovidam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.10–12 (nātikrāntam & bhārgaveṇeva reṇukā)**
+
+Viśvāmitra replies _nātikrāntam_—nothing was forgotten (_na vismṛtam_, **Tilaka**) or delayed past its time (_samayātikramo na kṛtaḥ_, **Govindarāja**). Just as Paraśurāma’s mother Reṇukā, though struck by her husband’s wrath (_tatkopahatā_, **Tilaka**), was reunited with Bhārgava Jamadagni, so has Ahalyā been reunited with Gautama (_bhārgaveṇa jamadagninā reṇukā paraśurāmamāteva_, **Govindarāja**, **Śiromaṇi**).
 </details>
 </details>
 
@@ -721,6 +769,14 @@ to the legend of Vishvamitra through Shataananda.
 
 “Welcome to you, O foremost of men (_svāgataṃ te naraśreṣṭha_)! By good fortune have you arrived here, O Rāghava (_diṣṭyā prāpto &#x27;si rāghava_), placing before you as your guide the unconquered great sage Viśvāmitra (_viśvāmitraṃ puraskṛtya maharṣim aparājitam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.13–14 (acintyakarmā & paramāṃ gatim)**
+
+Praising Viśvāmitra as the cause of Ahalyā’s redemption, **Tilaka** glosses _acintyakarmā_ as one who performs deeds inconceivable to others, such as creating a rival cosmos for Triśaṅku (_manasāpy anyenāśakyacintanapratisṛṣṭyādikartā_), and _paramāṃ gatim_ as supreme benefactor of the world (_jagataḥ paramahitapradam_). **Govindarāja** reads _vetsi_ as a rhetorical question (_kākur draṣṭavyā_: ‘Do you know him as your supreme refuge?’).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -831,6 +887,14 @@ care of Vishvamitra, the scion of Kushika, who has practised supreme ascesis. [1
 
 “There is none on earth more fortunate and blessed than you, O Rāma (_nāsti dhanyataro rāma tvatto &#x27;nyo bhuvi kaścana_), since your protector and guardian (_goptā_) is the son of Kuśika, by whom mighty penance has been performed (_yena taptaṃ mahat tapaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.15–16 (goptā & yathābalaṃ yathātattvam)**
+
+In v. 15, **Tilaka** notes that Viśvāmitra is Rāma’s _goptā_ through bestowing the celestial missiles (_astradānādinā_). In v. 16, **Tilaka** glosses _balam_ as ascetic power (_tapobalam_) and _tattvam_ as his attainment of _brahmarṣi_-hood (_brahmarṣitvam_), noting the variant _yathāvṛttam_ (‘his life-history’, **Govindarāja**, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -936,6 +1000,14 @@ was there as a king for a long time. [1-51-17]
 
 “This righteous-souled sage was for a long time a king and tamer of foes (_rājāsīd eṣa dharmātmā dīrghakālam ariṃdamaḥ_), a knower of _dharma_ (_dharmajñaḥ_), accomplished in all branches of learning (_kṛtavidyaś ca_), and ever devoted to the welfare of his subjects (_prajānāṃ ca hite rataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.17–18 (rājāsīd eṣa & Royal Genealogy)**
+
+In v. 17, **Śiromaṇi** notes that because Viśvāmitra had mastered all sciences (_kṛtavidyaḥ_), he was devoted solely to his subjects’ welfare (_prajānāṃ hite eva rataḥ_). To establish his noble lineage (_tatpāramparyaṃ bodhayitum_, **Śiromaṇi**), v. 18 traces Prajāpati’s son Kuśa and Kuśa’s righteous son Kuśanābha.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1035,6 +1107,14 @@ son is this great-saint of great resplendence, Vishvamitra. [1-51-19]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And the son of Kuśanābha was renowned by the name of Gādhi (_kuśanābhasutas tv āsīd gādhir ity eva viśrutaḥ_); and the son of Gādhi is this great sage Viśvāmitra of mighty splendor (_gādheḥ putro mahātejā viśvāmitro mahāmuniḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.19–20 (pālayām āsa & rājyam akārayat)**
+
+On the two verbs in v. 20, **Govindarāja** takes the second half as an amplification of the first (_pālayām āsety asya vivaraṇaṃ bahv iti_), whereas **Śiromaṇi** distinguishes his protection of the earth as crown prince (_yuvarājāvasthāyām_) from his rule as consecrated king (_rājā san_) for thousands of years, noting that _akārayat_ has a pleonastic causative suffix (_svārthe ṇic_, **Tilaka**, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1139,6 +1219,14 @@ The army unit called *akshauhini* consists of 21,870 elephants, as many chariots
 
 “Once, having marshaled his fourfold army (_yojayitvā varūthinīm_), that monarch of great splendor ranged across the earth surrounded by a full _akṣauhiṇī_ host (_akṣauhiṇīparivṛtaḥ paricakrāma medinīm_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.21–22 (varūthinīm & akṣauhiṇīparivṛtaḥ)**
+
+**Tilaka** and **Govindarāja** gloss _varūthinīm_ as a fourfold army (_caturaṅgabalam_) of one _akṣauhiṇī_ (_akṣauhiṇīsaṃkhyasenāparivṛtaḥ_). **Śiromaṇi** alternatively suggests that he stationed the rest of his army to guard his capital (_purarakṣāyāṃ niyujya_) while touring the earth with one _akṣauhiṇī_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1180,6 +1268,14 @@ _________________
 **22:** “Traversing in due order through cities and realms, rivers and great mountains, and ascetic hermitages (_nagarāṇi ca rāṣṭrāṇi saritaś ca mahāgirīn āśramān kramaśo rājā vicaran_), the king arrived (_ājagāma ha_)—
 
 **23:** “—at the hermitage of Vasiṣṭha (_vasiṣṭhasyāśramapadam_), filled with manifold flowering creepers and trees (_nānāpuṣpalatādrumam_), teeming with diverse herds of forest beasts (_nānāmṛgagaṇākīrṇam_), and frequented by Siddhas and Cāraṇas (_siddhacāraṇasevitam_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.23–24 (praśāntahariṇākīrṇam & Purpose of the Description)**
+
+Why do six verses (vv. 23–28) magnify Vasiṣṭha’s hermitage? **Govindarāja** explains that showing how even so transcendent a sage honored Viśvāmitra redounds to Viśvāmitra’s glory (_evaṃbhūtenāpi saṃmānito viśvāmitra iti tasya vaibhavakathanārtham_). In v. 24, even the deer are tranquil due to the grove’s supreme ascetic peace (_tapo'tiśayāt praśāntahariṇatvam_, **Tilaka**).
 </details>
 </details>
 
@@ -1363,6 +1459,26 @@ Sage Shataananda continued his narration. [1-51-28]
 **27:** “and by sages subsisting on fruits and roots (_phalamūlāśanaiḥ_), self-restrained (_dāntaiḥ_), who had conquered all faults and mastered their senses (_jitadoṣair jitendriyaiḥ_), and by Vālakhilya sages wholly devoted to _japa_ and _homa_ oblations (_ṛṣibhir vālakhilyaiś ca japahomaparāyaṇaiḥ_);
 
 **28:** “and adorned on all sides by other Vaikhānasa ascetics as well (_anyair vaikhānasaiś caiva samantād upaśobhitam_)—that hermitage of Vasiṣṭha, which was like a second world of Brahmā (_vasiṣṭhasyāśramapadaṃ brahmalokam ivāparam_), the mighty Viśvāmitra, foremost of victors (_jayatāṃ śreṣṭhaḥ_), beheld (_dadarśa_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**51.25–26 (brahmarṣi vs. devarṣi & brahmakalpaiḥ)**
+
+**Rāma Varmā (_Tilaka_)** explains that _devarṣis_ like Nārada are qualified for knowledge alone and roam the heavens (_jñānamātrādhikṛtā nāradādyāḥ_), whereas _brahmarṣis_ are qualified for both knowledge and ritual and dwell on earth (_jñānakarmobhayādhikṛtāḥ_). While **Tilaka** glosses _agnikalpaiḥ_ and _brahmakalpaiḥ_ as ‘equal to Agni and Four-faced Brahmā’ (_caturmukhatulyaiḥ_), **Śiromaṇi** derives both from the root _kḷp_ (क्लृप्): _agnihotrins_ and arrangers of the Vedic branches (_vedaśākhāvibhāgakartāraḥ_).
+
+_____________
+
+**51.27–28 (dāntaiḥ & the Śruti on Vālakhilyas)**
+
+**Śiromaṇi** distinguishes _dāntaiḥ_ (masters of external senses, _niyamitabahīrindriyaiḥ_) from _jitendriyaiḥ_ (masters of the mind, _niyamitāntaḥkaraṇaiḥ_). On _vālakhilyaiḥ_ and _vaikhānasaiḥ_, all three commentators (**Tilaka** citing _Kataka_, **Śiromaṇi**, and **Govindarāja**) quote the Vedic _śruti_: _‘ye nakhās te vaikhānasā ye vālās te vālakhilyāḥ’_—the Vaikhānasas sprang from Brahmā’s nails and the Vālakhilyas from his hairs.
+
+_____________
+
+**51.28 (brahmalokam ivāparam)**
+
+Why is Vasiṣṭha’s hermitage compared to a second world of Brahmā? **Tilaka** explains that the simile rests on its nature of supreme auspiciousness (_paramakalyāṇasvabhāvād brahmalokopamā_), beheld by Viśvāmitra, foremost of victors (_jayatāṃ śūrāṇāṃ śreṣṭhaḥ_).
 </details>
 </details>
 

@@ -93,6 +93,14 @@ replied him with estimable words. [1-25-1]
 
 Then, having heard that weighty utterance of the sage of immeasurable spiritual might (_tasyāprameyasya muner vacanam uttamam_), Rāma, that tiger among men (_puruṣaśārdūlaḥ_), spoke auspicious words in reply:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.1–2 (alpavīryā yadā yakṣī śrūyate & abalā)**
+
+All three commentators note that _yadā_ here carries causal force (_yadā = yataḥ / yasmāt_): since Yakṣas are known in the Purāṇas to possess far less martial might than Rākṣasas or Asuras (_purāṇādāv iti śeṣaḥ_, **Tilaka**), and since Tāṭakā is moreover a woman (_abalā_—used with pointed significance, _sābhiprāyam_), how can she wield the strength of a thousand elephants?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,6 +214,14 @@ bestowal of a boon. [1-25-3, 4]
 
 **4:** Viśvāmitra spoke this word: “Hear whereby this woman, fierce in might (_śṛṇu yena balotkaṭā_), bears both valor and physical strength born of the bestowal of a boon (_varadānakṛtaṃ vīryaṃ dhārayaty abalā balam_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.4 (vīryam & balam)**
+
+Why does Viśvāmitra answer with both _vīryam_ and _balam_ when Rāma asked only about _balam_? **Tilaka** explains: _balamātrapraśne vīryābhidhānaṃ śauryādayo ’nye ’pi guṇās tasyāṃ santīti jñāpanārtham_—to alert Rāma that through Brahmā’s boon she possesses not only raw bodily strength (_balam_) but also heroic martial prowess (_vīryam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +267,14 @@ conduct performed a great ascesis. [1-25-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In former times there was a great and valiant Yakṣa named Suketu (_pūrvam āsīn mahāyakṣaḥ suketur nāma vīryavān_); being childless and of pure conduct, he practiced a mighty penance (_anapatyaḥ śubhācāraḥ sa ca tepe mahat tapaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.5–6 (Suketu’s Penance for Offspring)**
+
+**Tilaka** and **Śiromaṇi** note that the juxtaposition of _anapatyaḥ_ (“childless”) with _tepe mahat tapaḥ_ indicates that the virtuous Yakṣa chieftain Suketu performed his severe penance specifically to obtain a child from Pitāmaha Brahmā (_apatyārtham eva tasya tapa iti dhvanitam_).
 </details>
 </details>
 
@@ -358,6 +382,14 @@ remarkable Brahma did not give a son to that yaksha, anticipating male to be mor
 
 The Grandsire bestowed upon her the strength of a thousand elephants (_dadau nāgasahasrasya balaṃ cāsyāḥ pitāmahaḥ_); yet that glorious Lord Brahmā did not grant a son to the Yakṣa (_na tv eva putraṃ yakṣāya dadau cāsau mahāyaśāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.7 (Why Brahmā Withheld a Son from Suketu)**
+
+**Tilaka** and **Śiromaṇi** explain v. 7cd (_na tv eva putraṃ yakṣāya dadau_): foreseeing that a male child endowed with the titanic might Suketu craved would inflict unbearable devastation upon the worlds (_tadabhisaṃhitaguṇavatā putreṇātyantaṃ janapīḍā bhaved iti vicārya putraṃ na dadau_, **Tilaka**), Brahmā withheld a son and bestowed the thousand-elephant strength upon his daughter Tāṭakā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -406,6 +438,14 @@ Jambha's son Sunda as wife. [1-25-8]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When that illustrious maiden grew up, radiant with beauty and youth (_tāṃ tu bālāṃ vivardhantīṃ rūpayauvanaśālinīm_), her father gave her in marriage to Sunda, the son of Jambha (_jambhaputrāya sundāya dadau bhāryāṃ yaśasvinīm_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.8–9 (Marriage to Sunda & the Yakṣa Birth of Mārīca)**
+
+On _jambhaputrāya sundāya_ (variants _jharjhaputrāya_, _sunduputrāya_), **Tilaka** and **Śiromaṇi** (citing Nāgojī Bhaṭṭa) note that marriage between a Yakṣa maiden and an Asura prince was fitting since both belong to the semi-divine _devayoni_ class (_asurayakṣayor devayonitvenocitaḥ saṃbandhaḥ_). Notice too that Mārīca was born a Yakṣa and became a Rākṣasa solely by Agastya’s curse (_yaḥ śāpād rākṣaso ’bhavat_).
 </details>
 </details>
 
@@ -500,6 +540,14 @@ that eminent sage along with her son Mareecha. [1-25-10]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When Sunda had been slain, O Rāma, Tāṭakā, together with her son, sought to assault and overpower Agastya, the foremost of sages (_agastyam ṛṣisattamam tāṭakā sahaputreṇa pradharṣayitum icchati_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.10–12 (Agastya’s Curse Upon Mother & Son)**
+
+When Sunda was slain by Agastya’s curse, Tāṭakā and Mārīca charged at the sage to devour him (_bhakṣārtham_). Why did Agastya not slay them outright as he had slain Sunda? **Śiromaṇi** answers: _tāṭakāyāḥ sundavac chāpena prāṇaviyogākaraṇaṃ tu strītvenānarhatvān mārīcasya tathātvaṃ tu bālatvena ajñātatvāt_—he spared their lives because Tāṭakā was a woman and Mārīca was then an ignorant youth!
 </details>
 </details>
 
@@ -623,6 +671,14 @@ face contorted, and shape monstrous.' [1-25-12b, 13]
 
 **13:** ‘Forsaking forthwith this fair Yakṣī form (_idaṃ rūpaṃ vihāyāśu_), become a man-eating great Yakṣī, deformed and hideous-faced—let a dreadful form be yours (_puruṣādī mahāyakṣī vikṛtā vikṛtānanā... dāruṇaṃ rūpam astu te_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.13–14 (puruṣādī mahāyakṣī & agastyācaritam)**
+
+**Tilaka** notes that Agastya’s curse stripped Tāṭakā of her divine Yakṣī beauty and gave her the monstrous, man-eating form of a Rākṣasī (_idaṃ yakṣiṇīrūpaṃ vihāya dāruṇaṃ rākṣasīrūpam astu_), explaining why she is called both a _yakṣī_ (by birth) and a _rākṣasī_ (by transformation). Terrified of Agastya himself, she vents her fury upon the surrounding region where the sage had formerly practiced penance (_agastyācaritam = agastyatapaḥsthānam_, **Tilaka**, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,6 +778,14 @@ eliminate this yakshii for the welfare of Brahmans and cows. [1-25-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For the welfare of cows and Brāhmaṇas, O Rāghava (_gobrāhmaṇahitārthāya_), slay this evil-living, supremely dreadful Yakṣī of wicked valor (_enāṃ rāghava durvṛttāṃ yakṣīṃ paramadāruṇām... jahi duṣṭaparākramām_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.15 (jahi duṣṭaparākramām — Śiromaṇi**
+
+’s Mīmāṃsā Note): How can Rāma promise in 1.26.2 to obey Viśvāmitra without hesitation, yet in 1.26.12 say he will only lop off Tāṭakā’s nose and ears? **Śiromaṇi** invokes the Mīmāṃsā rule _saviśeṣaṇe hi vidhiniṣedhau viśeṣaṇam upasaṃkrāmataḥ sati viśeṣyabādhe_: because slaying a woman is prima facie barred, Rāma initially construes _jahi duṣṭaparākramām_ as targeting the qualifier—“destroy her wicked assault” (_viśeṣaṇībhūta-duṣṭaparākramamātranivartane tātparyam_)!
 </details>
 </details>
 
@@ -823,6 +887,14 @@ a prince has to effectuate it intending the welfare of four categories of societ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Nor ought you to feel any compunction or pity on account of slaying a woman, O best of men (_nahi te strīvadhakṛte ghṛṇā kāryā narottama_); for a king’s son must perform whatever is required for the welfare of the fourfold social order (_cāturvarṇyahitārthaṃ hi kartavyaṃ rājasūnunā_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.17–18 (cāturvarṇyahitārtham & prajarakṣaṇakāraṇāt)**
+
+**Tilaka** notes that _gobrāhmaṇahitārthāya_ and _cāturvarṇyahitārtham_ establish the supreme _rājadharma_ principle: an act that seems harsh (_nṛśaṃsam_) or sinful (_pātakam_) becomes pure _dharma_ when performed by a ruler for the protection of the subjects.
 </details>
 </details>
 
@@ -930,6 +1002,14 @@ the legatee of Kakutstha, eliminate this infamy, as goodness is inevident in her
 
 This is the eternal _dharma_ of those who are charged with bearing the burden of sovereignty (_rājyabhāraniyuktānām eṣa dharmaḥ sanātanaḥ_). Slay this lawless demoness, O Kākutstha, for no _dharma_ whatsoever abides in her (_adharmyāṃ jahi kākutstha dharmo hy asyāṃ na vidyate_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.19–20 (adharmyāṃ jahi & the Precedent of Virocana’s Daughter Mantharā)**
+
+To prove from _śiṣṭācāra_ and _itihāsa_ that slaying a world-destroying woman is righteous (_strīvadhasya kartavyatve itihāsadvayam āha_, **Govindarāja**), Viśvāmitra cites two Purāṇic precedents. First (v. 20), Indra (_Śakra_) slew the Asura princess Mantharā, daughter of Virocana, when she sought to destroy the earth and its creatures (_pṛthivīṃ = tadadhiṣṭhātrīṃ devatāṃ tasyāḥ prajā vā_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1027,6 +1107,20 @@ when she wished the world to become one without a governing factor, namely Indra
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And in ancient times, O Rāma, the devoted wife of Sage Bhṛgu, the mother of Kāvya (Śukrācārya), was slain by Lord Viṣṇu when she sought to render the world devoid of Indra (_viṣṇunā ca purā rāma bhṛgupatnī pativratā anindraṃ lokam icchantī kāvyamātā niṣūditā_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25.21 (Viṣṇu’s Slaying of Bhṛgu’s Wife, Kāvyamātā)**
+
+Second, Lord Viṣṇu decapitated with his discus the wife of Sage Bhṛgu, the mother of Kāvya/Śukrācārya (_kāvyamātā = śukrācāryajananī_). Citing the _Matsya-purāṇa_ (_matsyapurāṇe prasiddham_), **Śiromaṇi** and **Govindarāja** recall that when the defeated Daityas took refuge with Śukra’s mother, she used her ascetic power to immobilize Indra; Viṣṇu slew her as she strove to render the universe devoid of Indra (_anindram = indrarahitam_) or devoid of peaceful sleep (_anidram = nidrāsukharahitam_, **Tilaka**, **Śiromaṇi**).
+
+_____________
+
+**25.21–22 (Kāvyārthāpatti in pativratā / dṛḍhavratā)**
+
+**Śiromaṇi** highlights the rhetorical figure _kāvyārthāpatti_ in _pativratā_ (_dṛḍhavratā_): if Viṣṇu slew even a chaste Brāhmaṇa sage’s wife when she threatened cosmic order, why hesitate over slaying a cannibal Yakṣī devoid of all _dharma_?
 </details>
 </details>
 

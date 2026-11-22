@@ -134,6 +134,80 @@ sorrowful like this. Abandon your grief, as an ungrateful man abandons friendshi
 
 “Why do you torment yourself (_kiṃ tvayā tapyate_), O hero, just as some ordinary, uncultivated man would (_yathānyaḥ prākṛtas tathā_)? Do not be thus (_maivaṃ bhūḥ_)! Cast away this anguish (_tyaja saṃtāpam_), even as an ungrateful man casts off friendship (_kṛtaghna iva sauhṛdam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.2.1–2 (Sugrīva's Duty as a True Friend)**
+
+Seeing Rāma cast down immediately after rejoicing, Sugrīva intervenes unasked. **Govindarāja** (_Bhūṣaṇa_) quotes Kāmandaka's definition of a true ally's virtues (समानसुखदुःखता) and the maxim that a well-wisher must speak salutary words unbidden in times of crisis (अपृष्टोऽपि हितान्वेषी ब्रूयात्कल्याणभाषितम्). Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss शोकपरिद्यूनम् as tormented by sorrow (शोकसंतप्तम्) and admire the striking simile in 6.2.2: Rāma should discard grief as abruptly and completely as an ingrate discards affection (कृतघ्नः सौहृदमिव संतापं त्वं त्यज).
+
+_____________
+
+**6.2.3–4 (Four Facets of Wisdom vs. Vulgar Despair)**
+
+$18
+
+_____________
+
+**6.2.5–6 (The Peril of Dejection)**
+
+Dismissing the ocean's terror in 6.2.5, **Rāma Varmā** explains आरोहयिष्यामः as ‘we shall cause Laṅkā to be beleaguered on all sides’ (आरोढां करिष्यामः). In 6.2.6, **Śivasahāya** and **Govindarāja** trace the fatal chain of grief: when sorrow overwhelms the mind (शोकपर्याकुलात्मनः), enthusiasm dies (निरुत्साहस्य), all enterprises collapse (सर्वार्था व्यवसीदन्ति नश्यन्ति), and grave misfortune (व्यसनम्) ensues.
+
+_____________
+
+**6.2.7–8 (Inferring Heroic Resolve from Facial Joy)**
+
+How does Sugrīva know that his monkey commanders are ready even to walk into fire (प्रवेष्टुमपि पावकम्)? On 6.2.7, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that हर्षेण functions as an inferential mark (हेतुना): from the blooming radiance of their faces (मुखप्रसादानुमानेन) whenever crossing the sea and fighting Rāvaṇa are mentioned, Sugrīva infers their boundless enthusiasm (उत्साहमनुमिनोमि), and his logical conviction is unshakable (तर्कश्चास्मिन् दृढो मम). Therefore, in 6.2.8, Rāma need only summon his own resolve (स्वोत्साहं कर्तुमर्हसि).
+
+_____________
+
+**6.2.9–10 (The Causeway and Instant Victory at Sight)**
+
+Answering what Rāma himself must do, **Rāma Varmā** notes on 6.2.9 that Rāma should employ his celestial weapons (दिव्यास्त्रावलम्बनेन) so that a bridge is constructed (सेतुरत्र यथा बध्येत्). On 6.2.10, Rāma Varmā takes दर्शनात् as ‘immediately upon beholding Laṅkā’ (तद्दर्शनसमनन्तरमेव), whereas **Śivasahāya** interprets it as ‘upon catching sight of Rāvaṇa through Your unfailing arrows’ (रावणदर्शनात् रामबाणदृष्टिं प्राप्य), Rāvaṇa is as good as dead.
+
+_____________
+
+**6.2.11–12 (The Strategic Necessity of the Setu)**
+
+Why must a bridge be built at all? **Rāma Varmā** explains on 6.2.11 that even if one warrior leaps across, Laṅkā cannot be pulverized without an army (एकैकोऽपि गत्वा जेतुं न शक्तः), while **Śivasahāya** sees an allusion to the ocean's pride in sheltering Rāvaṇa (अब्धिसंश्रयमानो देवादिभीतिराहित्यं सूचितम्). Once the bridge reaches Laṅkā (यावल्लङ्कासमीपतः), crossing and victory are simultaneous because the shape-shifting monkeys (कामरूपिणः) are invincible.
+
+_____________
+
+**6.2.13–14 (Grief Saps Valor; Heroic Pride Adorns the Doer)**
+
+$1a
+
+_____________
+
+**6.2.15 (Fortitude When Things Are Lost or Vanished)**
+
+Addressing Rāma's hidden heartache over Sītā's separation, the three commentators carefully distinguish विनष्टे and प्रणष्टे in 6.2.15: **Rāma Varmā** explains विनष्टे as temporarily out of sight like Sītā (सीतावददर्शनं गते) and प्रणष्टे as permanently departed like Daśaratha (दशरथवत्सर्वथादर्शनं गते), while **Govindarāja** derives प्रणष्टे from √ṇaś (णश अदर्शने, ‘vanished from view’, अन्तर्हिते). In either case, great souls must rely on courage (सत्त्वमातिष्ठ).
+
+_____________
+
+**6.2.16–18 (Rāma's Unrivaled Bow and Monkey Allies)**
+
+On 6.2.17–18, **Śivasahāya** and **Govindarāja** observe that victory is doubly assured: first by Rāma's own bow, before which none in the three worlds can stand (स्थातुं न शक्नुयात्); and second because a mission resting upon the mighty monkeys (वानरेषु समासक्तम्) can never miscarry (न विपत्स्यते न विनङ्क्ष्यति).
+
+_____________
+
+**6.2.19–20 (Righteous Wrath and Strategic Deliberation)**
+
+Urging Rāma to exchange grief for martial anger in 6.2.19, **Govindarāja** (_Bhūṣaṇa_) cites the grammatical rule अलंखल्वोः प्रतिषेधयोः प्राचां क्त्वा to explain अलं शोकमालम्ब्य as ‘do not cling to grief’ (नावलम्बस्वेत्यर्थः), and quotes the _Amarakośa_ (चण्डस्त्वत्यन्तकोपनः) on चण्डस्य. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that Kṣatriyas devoid of timely wrath (उचितक्रोधहेतुकव्यापाररहिताः) are despised and bound by foes (शत्रुकृतबन्धनादिना), whereas all fear a fierce ruler. Hence in 6.2.20, Rāma should apply his keen intellect (सूक्ष्मबुद्धिः) with his counsellors to devise the ocean crossing (नदीपतेर्लङ्घनार्थम्).
+
+_____________
+
+**6.2.21–22 (The Invincible Monkey Host)**
+
+On 6.2.21, **Rāma Varmā** and **Śivasahāya** construe the locative absolute लङ्घिते तत्र (‘once the ocean is crossed’) with तैः सैन्यैः (‘by your armies’) to mean that Rāvaṇa's host is already conquered (रावणसैन्यं जितमित्येव निश्चिनु). In 6.2.22, the monkey warriors will annihilate (विधमिष्यन्ति, glossed by Govindarāja as धक्ष्यन्ति) the enemy with volleys of crags and trees (शिलापादपवृष्टिभिः).
+
+_____________
+
+**6.2.23–24 (Crossing by Any Means and Auspicious Omens)**
+
+In 6.2.23, **Govindarāja** notes that even without a bridge, by some expedient (कथंचित् केनाप्युपायेन) the sea is as good as crossed; he also explains the variant vocative समितिनन्दन from समिति (‘battle’, युद्धोत्सुक). Concluding in 6.2.24, Śivasahāya and Govindarāja point out the twofold sign of victory: external good omens such as the throbbing of the right eye (निमित्तानि शुभशकुनान् नेत्रस्फुरणादीनि) and the inward exhilaration of the heart (मनःसंप्रहर्षश्च कार्यसिद्धिनिमित्तम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

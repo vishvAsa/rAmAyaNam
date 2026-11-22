@@ -971,6 +971,134 @@ Mighty in illusion, invisible and coursing through the sky (_māyā-balavān ad�
 
 When Rāvaṇi perceived that Indra had grown utterly exhausted (_yadā pariśrāntam indraṃ jajñe ’tha rāvaṇiḥ_), he bound him with illusion (_tadainaṃ māyayā baddhvā_) and led him toward his own army (_svasainyam abhito ’nayat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.29.1–3 (Slaughter in the Arrow-Born Darkness)**
+
+Resuming directly from the end of Sarga 28—where **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explained that the dense arrow-showers of Indra and Rāvaṇa shrouded all directions in darkness—**Śivasahāya** (_Śiromaṇi_) opens this canto as the sequel to that blackening of the sky (तमआवरणानन्तरकालिकं वृत्तान्तमाह). Rāma Varmā analyzes देवराक्षसाः as a straightforward _dvandva_ (देवाश्च राक्षसाश्च). Even though Parimal brackets 7.29.2–3 as Govindarāja’s expansion, their dramatic weight is decisive: the gods annihilate nine-tenths of Laṅkā’s host before blindness engulfs both armies.
+
+_____________
+
+**7.29.4 (Three Unshaken Titans Amid the Gloom)**
+
+Against the chaos of mutually blinding warriors, Vālmīki isolates the three supreme protagonists of the canto—Indra, Rāvaṇa, and Rāvaṇi—as the sole fighters immune to confusion (इन्द्रादयस्त्रय एव मोहं नेयुः, **Śivasahāya**). This deliberate triad foreshadows the canto’s structural arc: while Rāvaṇa and Indra are locked in an indecisive clash of titanic pride, the quiet inclusion of Rāvaṇi (_mahābalaḥ_) among the undazed trio anticipates his decisive intervention once his father is cornered.
+
+_____________
+
+**7.29.5–6 (Rāvaṇa’s Roar and Reckless Command)**
+
+Seeing nearly his whole host obliterated in a flash, Rāvaṇa unleashes a terrible roar (**Śivasahāya**) and orders his charioteer to plunge straight through the center of the divine host to its farthest limit. All three commentators resolve the elliptical Southern reading यावदन्तः identically as a correlative clause: ‘as far as the end of the enemy army extends, drive me through its midst’ (परसैन्यस्यान्तो यावत्तावन्मां परसेनामध्यमार्गेण नयस्व, **Rāma Varmā**; echoed by **Govindarāja** and **Śivasahāya**).
+
+_____________
+
+**7.29.7–8 (The Brāhmaṇa-Vasiṣṭha Maxim in Rāvaṇa’s Vaunt)**
+
+Having vowed to send ‘all thirty gods’ to Yama’s hall in 7.29.7 (where **Śivasahāya** reads महासाराणि for the weapons), why does Rāvaṇa immediately repeat that he will slay Indra, Kubera, Varuṇa, and Yama? **Śivasahāya** (_Śiromaṇi_) resolves the apparent redundancy through a celebrated scholastic rule—the _brāhmaṇa-vasiṣṭha-nyāya_ (ब्राह्मणवसिष्ठन्यायेन न पूर्वेण पौनरुक्त्यम्), whereby naming the foremost members after the whole group highlights their eminence. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss अथोपरि as Rāvaṇa’s boast to reign supreme ‘above all beings’ (सर्वेषामुपरिष्टादित्यर्थः).
+
+_____________
+
+**7.29.9 (Rebuking the Reluctant Charioteer)**
+
+Why does Rāvaṇa suddenly tell his driver not to despair and remind him ‘Twice now I tell you’? Both **Rāma Varmā** and **Govindarāja** reconstruct the unspoken dramatic beat: seeing his charioteer falter in dread at the prospect of plunging into the heart of the divine host (देवसेनामध्ये प्रवेशे किं भविष्यतीति विषण्णं सारथिम्), Rāvaṇa repeats his order sharply, implying ‘why then do you not drive?’ (तत्कथं न नयसीति शेषः). **Śivasahāya** concurs that यावदन्तम् means all the way to the enemy host’s farthest edge (रिपुसेनान्तपर्यन्तम्).
+
+_____________
+
+**7.29.10–12 (A Battlefield Stretching from Nandana to Mount Udaya)**
+
+Because the bounds of the measureless celestial army are impossible to discern (अपरिमितदेवसेनाया अन्तस्य दुर्ज्ञेयत्वात्, **Rāma Varmā**), Rāvaṇa defines its cosmic scale in 7.29.10. All three commentators unpack his geography identically: the heavenly Nandana grove where they stand is the army’s vanguard (सेनाया आदिः), while the eastern Sunrise Mountain (Udaya) marks its rear limit (उदयपर्वतो यत्र ... सोऽन्तो देवसेनायाः, **Govindarāja** and **Śivasahāya**). When the charioteer obeys and urges the horses straight into the enemy ranks (चालयामास, Śivasahāya), Indra discerns Rāvaṇa’s suicidal charge and rallies the gods.
+
+_____________
+
+**7.29.13–15 (The Strategy of Capture Over Slaughter)**
+
+Faced with Rāvaṇa’s tidal onslaught—vividly compared in 7.29.14 to an ocean swelling at full or new moon (_parvaṇi_) as he charges on his wind-powered chariot—Indra proposes seizing him alive. **Śivasahāya** (_Śiromaṇi_) frames 7.29.15 as answering the gods’ unspoken question, ‘Why not simply kill him?’ (ननु वध्यतामेव किमर्थं निगृह्यते): because Brahmā’s boons render him invulnerable to deities (_varadānāt sunirbhayaḥ_), lethal force is futile, so the gods must stay alert (यत्ता उद्यताः) to capture him.
+
+_____________
+
+**7.29.16 (The Precedent of Bali’s Confinement)**
+
+Indra justifies non-lethal containment by citing the mythic precedent of the asura sovereign Bali. All three commentators identify बलौ as the great Daitya Bali (बलिदैत्ये, **Rāma Varmā**; महाबलौ, **Govindarāja**). **Govindarāja** (_Bhūṣaṇa_) pinpoints the exact parallel: just as Indra enjoys cosmic sovereignty because Bali was confined _without being slain_ (अहत्वैव कृतनिरोधे सति), so confining Rāvaṇa will neutralize his threat. **Rāma Varmā** (_Tilaka_) underscores Indra’s kingly motive: such restraint appeals to him as his duty for protecting the three worlds (त्रैलोक्यरक्षार्थं मम कर्तव्यत्वेन रोचते).
+
+_____________
+
+**7.29.17–18 (Tactical Disengagement and the Dual Flanking Charge)**
+
+Why does Indra leave Rāvaṇa’s direct front (रावणं सन्त्यज्य) in 7.29.17? Both **Rāma Varmā** and **Govindarāja** explain the battlefield logic identically: since Rāvaṇa cannot be struck down even by the thunderbolt (_vajra_), standing head-to-head before him serves no purpose (वज्रपातादिना प्रहर्तुमशक्यत्वात्पुरःस्थितिर्निष्प्रयोजनेत्याशयेन). Moving to another sector (रावणावस्थितदेशादन्यं देशम्), Indra ravages the rākṣasa ranks from the south while the relentless Rāvaṇa (अनिवर्तकः, Tilaka) bores into the divine host (देवसेनाम्) from the north.
+
+_____________
+
+**7.29.19–21 (Indra’s Counter-Encirclement and the Rākṣasa Cry)**
+
+Rāvaṇa carves a hundred _yojanas_ into the celestial lines, yet Indra refuses to panic (_asambhrāntaḥ_). **Govindarāja** (_Bhūṣaṇa_) explains 7.29.20 as Indra surrounding Daśānana with his troops and forcing him back (स्वसेनया दशाननं समावृत्य न्यवर्तयत्), while **Rāma Varmā** (_Tilaka_) notes that his calm encirclement explains how he repelled Rāvaṇa; **Śivasahāya** (_Śiromaṇi_) adds that Indra simultaneously rallied his scattered host (दशाननं समावृत्य बलं न्यवर्तयत्). Seeing Rāvaṇa engulfed (_grastam_) by Śakra, the demons raise the despairing wail हा हताः स्म (‘Alas, we are ruined!’).
+
+_____________
+
+**7.29.22–23 (Rāvaṇi’s Entry and Deployment of Śiva’s Tāmasī Illusion)**
+
+Stung by that cry (नादश्रवणानन्तरम्, **Śivasahāya**), Meghanāda surges into the divine army (देवसैन्यम्, **Govindarāja**). Why does he immediately invoke illusion? **Rāma Varmā** pinpoints his sober battlefield calculus: realizing the divine host cannot be overcome by open, face-to-face fighting (पुरःस्थित्या देवसेनाजयस्याशक्यत्वान्मायां प्रयुङ्क्ते), he deploys the _Tāmasī_ illusion won earlier from Śiva (गोपतिना शिवेन, Govindarāja; recalling Sarga 25.9–11). Both Tilaka and Śiromaṇi gloss समभिद्रवत् causatively as समभ्यद्रावयत् (‘put the host to flight’).
+
+_____________
+
+**7.29.24 (The Invisible Predator Stalks the King of Heaven)**
+
+Disdaining lesser targets, Rāvaṇi bypasses the entire pantheon to hunt Śakra alone (शक्रमेवाभ्यधावत, **Śivasahāya**). Vālmīki’s abrupt closing half-line—‘and glorious Mahendra could not see his enemy’s son’—signals the decisive shift in the war: the boon granted by Paśupati in 7.25.11 (‘neither gods nor asuras can discern his movements’) is now fulfilled before the audience’s eyes, stripping Indra of his supreme visual and martial advantage.
+
+_____________
+
+**7.29.25–27 (Fearless Endurance and Indra’s Turn to Airāvata)**
+
+Verse 7.29.25 presents an idiomatic ellipsis—‘Rāvaṇi did not make anything’ (न चकार च किञ्चन). Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) supply the understood noun भयम् (‘fear’): even battered by the gods and stripped of his mail, he felt no terror whatsoever (किमपि भयमित्यर्थः). Disabling Indra’s charioteer Mātali (इन्द्रस्य सारथिम्, Śivasahāya) and smothering Mahendra in arrows, Rāvaṇi forces Indra to abandon his car, dismiss Mātali, and mount his celestial elephant Airāvata to hunt his unseen assailant.
+
+_____________
+
+**7.29.28–29 (Binding the King of Heaven in Illusion)**
+
+From the sky, the invisible prince wraps Indra in a web of illusion (मायापरिक्षिप्तं कृत्वा) and pelts him with arrows (**Śivasahāya**) until the divine sovereign wears down. Watching for the exact moment of exhaustion (_pariśrāntam_), Rāvaṇi binds Indra with _māyā_ and drags him away—with both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) glossing स्वसैन्यमभितः specifically as ‘to the side/flank of his own army’ (स्वसैन्यपार्श्वम् / स्वसेनायाः पार्श्वे), sealing the feat that will earn him the title _Indrajit_.
+
+_____________
+
+**7.29.30 (The Immortals’ Consternation)**
+
+Beholding their king led away by force from the battlefield, the gods are struck with stunned helplessness. **Śivasahāya** unpacks their anxious question किं नु स्यात् as practical bewilderment: ‘What must we do now?’ (अस्माभिः कर्तव्यमित्यर्थः). Notably, **Rāma Varmā**’s commentary lemma reflects the variant reading एतत्किं न्विति चुक्रुशुः (‘they cried out, “What is this?”’, matching Baroda CE 7.29.29d), capturing the shocked outcry rippling through the celestial ranks at the unthinkable abduction of Indra.
+
+_____________
+
+**7.29.31–33 (Indra’s Counter-Lore Defeated and Rāvaṇa Overwhelmed)**
+
+Explaining why Indra’s capture astounds the gods in 7.29.31, all three commentators gloss विद्यावानपि specifically as ‘possessed of the sacred lore that shatters asura illusions’ (असुरमायासंहारविद्यावानपि, **Rāma Varmā** and **Govindarāja**; आसुरमायाविघातकविद्यायुक्तोऽपि, **Śivasahāya**)—proving that Paśupati’s _Tāmasī_ transcends ordinary demonic sorcery. Meanwhile, verses 32–33 set up a stark ironic reversal: even as his son captures heaven’s king, Rāvaṇa himself is battered by the Ādityas and Vasus until he can fight no more—answering Rāma’s opening question in Sarga 1 about why the son surpassed the father.
+
+_____________
+
+**7.29.34 (Why Rāvaṇi Speaks While Remaining Invisible)**
+
+Though the printed text shows युद्धे दर्शनस्थः without an avagraha, all three commentators read युद्धेऽदर्शनस्थः (‘standing concealed from sight’, अन्तर्हित एवाब्रवीत्, **Rāma Varmā**) and uncover a striking tactical subtlety: why did Rāvaṇi stay invisible even while addressing his own father? Both **Rāma Varmā** and **Govindarāja** explain: ‘for fear that if he appeared in view, Mahendra himself would destroy him’ (दर्शने सति महेन्द्र एव नाशयेदिति भावः), proving Indra’s terrifying latent power even in captivity.
+
+_____________
+
+**7.29.35–36 (Declaring Victory Won and the Gods’ Pride Broken)**
+
+Addressing his bruised father with tender filial reassurance, Rāvaṇi calls off the fight (रणकर्म निवर्तताम्, ‘let battle end’, **Rāma Varmā** and **Govindarāja**). Both Tilaka and Bhūṣaṇa point out the grammatical precision of जितं नः as an impersonal neuter participle (भावे निष्ठा, ‘victory is achieved by us’). All three commentators read देवबलात् in 7.29.36 as ‘seized right out of the divine army’ (देवसेनायाः), proving that with their king captive, the gods’ pride is broken.
+
+_____________
+
+**7.29.37–38 (Cessation of Battle and the Gods’ Retreat)**
+
+Rāvaṇi’s closing logic is crisp and pragmatic: with the enemy captured, further exertion is wasted (युद्धं निष्फलमतो वृथा श्रमेण किं निवर्ततामित्यर्थः, **Śivasahāya**). Instantly the divine hosts break off combat and depart (स्वं स्वं स्थानम्, Śivasahāya), while Daśānana—hearing his son’s announcement—regains complete composure (_svasthacetāḥ_). Notably, the Southern reading preserved by Govindarāja shifts smoothly from the retreating gods in 38ab to Rāvaṇa’s quiet relief in 38cd.
+
+_____________
+
+**7.29.39–40 (Lyric Meter and a Father’s Exultant Praise)**
+
+Switching from _Anuṣṭubh_ to resonant lyric cadences to celebrate heaven’s downfall, Vālmīki depicts Rāvaṇa freed from the anguish of battle (विगतरणज्वरः, **Govindarāja**). Overflowing with pride, Rāvaṇa hails his son’s triumph as worthy of their race’s supreme valor (सदृशैः अस्मत्कुलोचितैः, **Śivasahāya**), acknowledging openly that it was his son—not himself—who vanquished peerless Indra and elevated the Paulastya line’s prestige.
+
+_____________
+
+**7.29.41–42 (The Triumphal Return to Laṅkā)**
+
+Rāvaṇa gives his son the honor of leading the triumphal procession, bidding him place Vāsava atop his chariot and march to Laṅkā (नगरं लङ्कां नय, **Śivasahāya**) while Rāvaṇa himself follows behind with his counselors—an extraordinary public deference from the ten-headed monarch. Returning in splendor with his captive king, Rāvaṇi dismisses his battle-worn rākṣasas to their respective homes (स्वस्वभवनं प्रति, **Rāma Varmā** and **Govindarāja**), setting the stage for Brahmā’s embassy in Sarga 30.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

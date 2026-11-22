@@ -56,6 +56,134 @@ Following the destruction of the rākṣasas and Rāma’s enthronement, illustr
 
 **2:** Kauśika, and likewise Yavakrīta, Gārgya, and Gālava, and Kaṇva, the son of Medhātithi (_medhātitheḥ putraḥ_)—all those who dwelt in the eastern quarter (_pūrvasyāṃ diśi ye śritāḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.1.1 (Opening the Uttarakāṇḍa and the Twenty-First Gāyatrī Syllable)**
+
+$18
+
+_____________
+
+**7.1.2–5 (The Four-Quarter Assembly and the Two Vasiṣṭhas)**
+
+On 7.1.2–3, **Rāma Varmā** glosses पूर्वस्यां दिशि ये श्रिताः as sages dwelling preeminently in the east (पूर्वदिशि प्रधानतया ये स्थिताः), and all three commentators analyze स्वस्त्यात्रेयः as ‘the auspicious descendant of Atri’ (स्वस्तिकर आत्रेयः). Both **Rāma Varmā** and **Govindarāja** address an apparent paradox in 7.1.5: since royal preceptor Vasiṣṭha resides constantly in Ayodhyā, how does he arrive from the north with the Seven Sages? Just as Agastya abides both in the starry firmament (ज्योतिर्मण्डलस्थः) and in his earthly hermitage through yogic power (योगवैभवात्), so too Vasiṣṭha dwells simultaneously in the northern _Saptarṣi_ constellation and in Ayodhyā; it is the celestial Vasiṣṭha who comes here. Govindarāja adds that the eastern Kauśika of 7.1.2 is distinct from Viśvāmitra.
+
+_____________
+
+**7.1.6 (Waiting at the Royal Portal)**
+
+Reaching Rāma’s palace, the fiery, Veda-learned sages pause courteously at the gate rather than entering unannounced. **Rāma Varmā** glosses प्रतिहारार्थम् as ‘for the sake of the doorkeeper, to announce their arrival to Rāma through him’ (प्रतिहारो द्वाःस्थः । तद्द्वारेण रामाय स्वागमननिवेदनार्थम्), and विष्ठिताः as standing at the door (द्वारि स्थिताः). **Govindarāja** cites the lexicon _Amarakośa_ (द्वारि द्वाःस्थे प्रतीहारः) to establish _pratihāra_ as ‘gatekeeper’. **Śivasahāya** construes the six-quarter verse as a single sentence (सार्धश्लोक एकान्वयी), observing that they waited specifically so that their entry would be preceded by Rāma’s express permission (प्रतीहारद्वारा रामाज्ञापूर्वकत्वादेवात्मप्रवेशार्थम्).
+
+_____________
+
+**7.1.7–8 (Agastya’s Summons and the Doorkeeper’s Threefold Haste)**
+
+After the sages pause at the portal, Agastya acts as spokesman for the entire assembly. **Śivasahāya** (_Śiromaṇi_) resolves the construction of 7.1.7cd by supplying समीपे (‘announce in Daśaratha’s son’s presence that we sages have come’, दाशरथेः समीपे निवेद्यतामिति). On the apparent accumulation of three adverbs of speed in 7.1.8—तूर्णम्, द्रुतम्, and आशु—**Rāma Varmā** (_Tilaka_) carefully distinguishes their nuances to eliminate redundancy: तूर्णम् denotes inner mental alacrity (तूर्णमिति मानसी त्वरा), द्रुतम् signifies swift physical movement, and आशु conveys the absence of delaying to test whether the king was at leisure (आश्वित्यनेन राजावसरपरीक्षाभावो विवक्षितः), so great is the urgency accorded to visiting sages.
+
+_____________
+
+**7.1.9–10 (The Ideal Chamberlain and Rāma’s Immediate Welcome)**
+
+Verse 7.1.9 sketches the classical virtues of a royal chamberlain (_pratīhāra_): versed in statecraft and subtle facial cues (_nayeṅgitajña_), upright, prompt, and composed. **Śivasahāya** construes 7.1.8c–9 together as a single syntactic unit (सार्धश्लोक एकान्वयी), explicitly glossing the epic absolutive दृश्य as दृष्ट्वा. As the doorkeeper enters and beholds Rāma glowing like the full moon (_pūrṇacandra-samaprabha_), the poet pairs that cool lunar serenity in 7.1.10 with the fierce, nascent solar brilliance (_bāla-sūrya-samaprabha_) of the approaching sages. On 7.1.10, Śivasahāya supplies रामः as subject of प्रत्युवाच: Rāma instantly commands the doorkeeper to usher them in without formality (_yathāsukham_).
+
+_____________
+
+**7.1.11–12 (Vedic Hospitality—Pādya, Arghya, and Madhuparka)**
+
+Rāma exemplifies the dharma of a sovereign toward Brahmin seers by rising from his throne (_pratyutthāya_) with joined palms before offering the traditional guest-rites (_madhuparka_). Both **Rāma Varmā** and **Śivasahāya** gloss गां निवेद्य in 7.1.11 as respectfully dedicating a cow to each sage individually (प्रत्येकमिति शेषः), alongside water for the feet and guest-offerings (_pādyārghyādi_). **Govindarāja** (_Bhūṣaṇa_) notes that Rāma’s obeisance (अभिवाद्य) is directed to the entire assembly (समुदायं प्रतीति शेषः). On 7.1.12, Rāma Varmā glosses वरेषु as ‘costly’ (बहुमूल्येषु), while Śivasahāya explains महत्सु as ‘spacious’ (विस्तारेषु) and आदिदेश as courteously inviting them to sit.
+
+_____________
+
+**7.1.13–14 (Seats Prepared for Ascetics and Mutual Courtesy)**
+
+Continuing the sentence from 7.1.12 (सार्धश्लोक एकान्वयी), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain the compound कुशान्तर्धानदत्तेषु in 7.1.13: _kuśa_ grass was laid down beneath the deerskins as an intervening layer (कुशैरन्तर्धानं दत्तं कृतं येषु । कुशास्तृतेष्वित्यर्थः), rendering even golden royal chairs ritually appropriate for forest ascetics. Once seated according to seniority (_yathārham_), the sages receive Rāma’s courteous inquiry after their welfare. On 7.1.14, Rāma Varmā glosses सपुरोगमाः as ‘accompanied by their foremost leaders’ (पुरोगमैः प्रधानैः सहिताः), highlighting the ordered dignity of the convocation.
+
+_____________
+
+**7.1.15 (The Sages’ Welfare Rooted in Rāma’s Victory)**
+
+Opening their panegyric—structured around the auspicious refrain दिष्ट्या (‘by good fortune’, glossed by **Govindarāja** as दैवात्)—the sages link their own spiritual peace directly to Rāma’s triumph. **Govindarāja** (_Bhūṣaṇa_) glosses सर्वत्र as ‘in all realms, including the higher worlds’ (सर्वत्र परलोकादिषु) and हतशात्रवम् as ‘with foes destroyed’ (हतशत्रुम्). Both **Rāma Varmā** and **Śivasahāya** clarify the causal force of the second half: because they behold Rāma safe and victorious over the demon host (निहतशत्रुसमूहम्), that very victory is the source of their well-being (यत्त्वया शत्रुर्हतस्तेनैवास्माकं कुशलमित्यर्थः).
+
+_____________
+
+**7.1.16–18 (Rāvaṇa No Burden to the Conqueror of the Three Worlds)**
+
+**Rāma Varmā** observes a delicate rhetorical turn in 7.1.16: having first hailed Rāvaṇa’s death as a great fortune, the sages immediately reconsider (पुनर्विचार्याहुः)—even surrounded by sons and grandsons, Rāvaṇa was no burden to Rāma, for slaying him was effortless (तद्वधस्तवेषत्कर इत्यर्थः). **Govindarāja** concurs (तद्वधस्ते ईषत्करमेवेत्यर्थः), and **Śivasahāya** links 7.1.17 directly as proof: one who with bow in hand could conquer all three worlds feels no oppressive weight (भारवत्पीडाप्रदः) in Rāvaṇa. Both Tilaka and Bhūṣaṇa cite Pāṇini’s rule विपराभ्यां जेः for the middle voice विजयेथाः, and note that दिष्ट्या carries into 7.1.18cd.
+
+_____________
+
+**7.1.19 (Reunion in Ayodhyā and the First Roll of Fallen Generals)**
+
+Completing their greeting of the royal household, the sages rejoice to see Rāma reunited with his mothers and brothers. **Rāma Varmā** (_Tilaka_) clarifies the compressed syntax of 7.1.19a by supplying दिष्ट्या (‘by good fortune’) and युक्तम् (‘united with his mothers’), while **Śivasahāya** (_Śiromaṇi_) likewise carries दिष्ट्या forward from the preceding verse. Transitioning immediately from domestic joy to martial remembrance, 7.1.19c–f opens a litany of Laṅkā’s fallen commanders—Prahasta, Vikaṭa, Virūpākṣa, Mahodara, and Akampana—each of whom had played a formidable role in the _Yuddhakāṇḍa_.
+
+_____________
+
+**7.1.20 (Kumbhakarṇa’s Unrivaled Colossal Frame)**
+
+Singling out Rāvaṇa’s gigantic brother, the sages devote a full verse to Kumbhakarṇa’s stupendous physical magnitude. All three commentators concur in taking प्रमाणम् here specifically of bodily dimensions: **Rāma Varmā** glosses यस्य प्रमाणात् as ‘than his bodily proportions’ (आकारप्रमाणात्), **Govindarāja** (_Bhūṣaṇa_) as ‘bodily size’ (शरीरपरिमाणात्), and **Śivasahāya** as ‘bodily vastness, than which no greater magnitude exists’ (शरीरमहत्त्वाद् विपुलमधिकं महत्त्वं न विद्यते), supplying त्वया (‘by you’) as the agent of निपातितः. Naming him prominently prepares Rāma’s subsequent astonishment when the sages nevertheless rank Indrajit even higher.
+
+_____________
+
+**7.1.21–24 (The Expanded Catalogue of Laṅkā’s Champions)**
+
+In the Southern Recension preserved by Govindarāja, verses 7.1.21–24 extend the roll of fallen heroes to include Rāvaṇa’s sons Triśiras, Atikāya, Devāntaka, and Narāntaka, Kumbhakarṇa’s sons Kumbha and Nikumbha, and the commanders Yuddhonmatta, Matta, Yajñakopa, and Dhūmrākṣa. Although these verses—bracketed in the Parimal edition as a three-verse expansion of Govindarāja’s text (पद्यत्रयमिदमधिकं गो. पाठे)—receive only brief lemma notices in the commentaries, their poetic function is unmistakable: by attributing every champion’s demise to Rāma’s death-like arrows (including foes actually felled by Lakṣmaṇa, Hanūmān, or Sugrīva under his command), the sages build a grand crescendo whose climax will unexpectedly single out Indrajit.
+
+_____________
+
+**7.1.25–26 (Rāvaṇa’s Defeat Eclipsed by Indrajit’s Fall)**
+
+Having applauded Rāma’s duel with Rāvaṇa—where **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) construe द्वन्द्वयुद्धमुपागतः सन् विजयं प्राप्तवानसि—the sages deliver the pivotal statement that launches the entire narrative of Rāvaṇa’s lineage in Book VII. **Rāma Varmā** (_Tilaka_) explains their startling comparison in 7.1.26: although Rāvaṇa’s death lifted the world’s burden, slaying Rāvaṇi was far more arduous (रावणिवधस्तु दुष्करः). Hence Rāvaṇa’s defeat in battle counts as nothing (न किञ्चित्) beside the destruction of Indrajit, whose mastery of concealment and aerial combat made his downfall truly extraordinary. Śivasahāya concurs that Rāvaṇa’s overthrow pales beside Rāvaṇi’s slaying in duel (रावणकर्मकपराभूतिः किञ्चिन्न).
+
+_____________
+
+**7.1.27 (Escape from Indrajit’s Death-Like Onslaught)**
+
+Explaining the elliptical ablative तस्य ... सुररिपोः मुक्तः (‘freed from that foe of the gods’), all three commentators recall Indrajit’s terrifying weapons in the _Yuddhakāṇḍa_. **Govindarāja** supplies शरबन्धात् (‘freed from Rāvaṇi’s serpent-arrow bonds’, तस्य रावणेः शरबन्धादिति शेषः). **Rāma Varmā** expands this as ‘delivered from the extreme peril wrought by his arrow-bonds and kindred arts’ (शरबन्धादिकृतपरमकृच्छ्रादिति शेषः), while **Śivasahāya** specifies deliverance from the _brahmāstra_ and other missiles hurled by Indrajit (तत्प्रक्षेपितब्रह्मास्त्रादिना रहितोऽभव इति शेषः), whereby victory was finally secured.
+
+_____________
+
+**7.1.28–29 (The Sages’ Wonder at the Invincible Master of Illusion)**
+
+On 7.1.28, **Śivasahāya** normalizes the epic verb अभिनन्दाम as अभिनन्दामः and construes विस्मयः as the amazement born of hearing that Indrajit had fallen (इन्द्रजिद्वधश्रवणजनितो विस्मयो बभूव). **Rāma Varmā** identifies the exact cause of their wonder (विस्मयहेतुः): precisely because Indrajit possessed invulnerability to all creatures and supreme battle-illusion (अवध्यत्वादिगुणः), his death itself is a marvel (एष इन्द्रजिद्वधोऽस्माकं विस्मयकरः), filling the seers with joy upon hearing it. Verse 7.1.29—flagged in the Parimal apparatus as Govindarāja’s closing summary verse—rounds off the catalogue of shape-shifting demons before the sages bestow their final blessing.
+
+_____________
+
+**7.1.30 (The Sacrificial Fee of Fearlessness)**
+
+Closing their felicitation, the sages frame Rāma’s martial victory in liturgical terms: अभयदक्षिणाम् (‘sacrificial fee of fearlessness’). **Rāma Varmā** (_Tilaka_) glosses the compound as the gift of safety bestowed upon the sages (अभयदक्षिणामभयदानं दत्त्वा ऋषिभ्य इति शेषः), while **Govindarāja** (_Bhūṣaṇa_) extends the recipients to both gods and sages (देवर्षिभ्य इत्यर्थः). **Śivasahāya** (_Śiromaṇi_) links the gift directly back to the preceding verses, glossing इमाम् as ‘this fee of fearlessness born specifically of Indrajit’s slaying’ (इन्द्रजिद्वधसंभूतामभयदक्षिणाम्). Both Tilaka and Bhūṣaṇa explicitly note the epic active verb वर्धसि as equivalent to classical वर्धसे.
+
+_____________
+
+**7.1.31–32 (Rāma’s Reverent Astonishment)**
+
+The sages’ praise produces a striking narrative pivot: rather than basking in flattery, Rāma feels genuine wonder (_vismaya_). Both **Rāma Varmā** and **Govindarāja** specify the trigger of his amazement in 7.1.31 as the sages’ extraordinary words singling out the slaying of Rāvaṇi (रावणिवधविषयवाक्येनेति शेषः). Addressing them respectfully with joined palms (_prāñjali_) and the honorific भगवन्तः (which Rāma Varmā notes as a vocative of reverence), Rāma raises the natural warrior’s objection: why pass over Rāvaṇa himself and the colossal Kumbhakarṇa—the two foremost pillars of Laṅkā—to magnify Rāvaṇa’s son?
+
+_____________
+
+**7.1.33–34 (The Triple Refrain of Inquiry)**
+
+In 7.1.32–34, Vālmīki employs the emphatic rhetorical refrain अतिक्रम्य महावीर्यान् किं प्रशंसथ रावणिम् (‘passing over those mighty heroes, why do you praise Rāvaṇi?’) three times in succession. **Śivasahāya** observes that verses 33–34 restate the same perplexity from another angle (तदेव भङ्ग्यन्तरेणाह), construing the six-quarter verse 33 as a unified sentence (सार्धश्लोक एकान्वयी). By echoing the very roster of fallen rākṣasas that the sages themselves had just praised in 7.1.19–24, Rāma deftly draws out Agastya’s vast mythological account of the Paulastya dynasty, Rāvaṇa’s boons, and Indrajit’s conquest of heaven.
+
+_____________
+
+**7.1.35 (Three Dimensions of Indrajit’s Might)**
+
+Pressing his inquiry, Rāma poses a triad of precise questions about Indrajit’s stature. **Rāma Varmā** (_Tilaka_) carefully distinguishes the first two nouns: प्रभावः denotes spiritual power born of austerity (प्रभावस्तपःप्रभावः), whereas बलम् denotes sheer physical strength (बलं शारीरम्), with _parākrama_ then representing heroic valor displayed in combat. **Śivasahāya** (_Śiromaṇi_) glosses रावणादतिरिच्यते as ‘appears greater than Rāvaṇa himself’ (अधिकं प्रतीयते), prompting the sages to justify why the son could overshadow the ten-headed monarch.
+
+_____________
+
+**7.1.36 (The Etiquette of a Righteous King Before Sages)**
+
+Verse 7.1.36 exemplifies Rāma’s legendary humility (_vinaya_) even after his imperial consecration. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) unpack the threefold polite proviso: ‘If it is not a secret (यदि गुह्यं न भवति), if it is proper for you to speak (यदि युष्माभिर्वक्तुं शक्यम्), and if I am qualified to hear it (यदि मया च श्रोतुम्), then pray tell it—I merely desire to hear, and by no means issue a command’ (अहं तु श्रोतुमिच्छामि केवलं न तु वक्तुमित्याज्ञापयामि). **Śivasahāya** aligns this directly with Agastya as respondent (त्वया वक्तुं शक्यम्).
+
+_____________
+
+**7.1.37–38 (The Fourfold Query and Upajāti Finale)**
+
+Turning specifically to Agastya (_munīndra_), Rāma sharpens his wonder into four concrete questions: Indrajit’s conquest of Indra, his acquisition of boons, his martial preeminence, and why he surpassed his father. Both **Rāma Varmā** and **Govindarāja** clarify the negation in 7.1.37d (न पिता तस्य रावणः) as strictly comparative—‘how is the father Rāvaṇa not as strong relative to his son?’ (पिता रावणो न बलवान् पुत्रापेक्षयेति कथम्). **Śivasahāya** paraphrases the closing hybrid _Upajāti_ verse (7.1.38) as Rāma’s direct entreaty to Agastya to recount the entire history in his assembly (सर्वं मे सन्निधौ कथयस्व), bridging directly into Sarga 2.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -85,6 +85,14 @@ ritualistic chores of dawn. [1-24-1]
 
 Then at clear daybreak (_prabhāte vimale_), those two tamers of foes, Rāma and Lakṣmaṇa, placing Viśvāmitra—who had completed his morning ritual duties (_kṛtāhnikam_)—at their head (_puraskṛtya_), approached the bank of the river Gaṅgā (_nadyās tīram upāgatau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.1–2 (kṛtāhnikam & upasthāpya śubhāṃ nāvam)**
+
+**Śiromaṇi** explains that after completing their dawn ablutions and _sandhyā_ worship at the bathing ghat near Kāmāśrama, Rāma and Lakṣmaṇa followed Viśvāmitra—who had likewise completed his morning rites (_kṛtāhnikam_)—to the ferrying point (_taraṇārthaṃ taraṇaghaṭṭe samāyātau_). There the resident ascetics brought forward a sturdy boat (_upasthāpya = ānāyya_, **Tilaka**, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +201,14 @@ prosperous route without the shift of time." So said the sages. [1-24-3]
 
 “May your venerable self board the boat, attended by the two royal princes (_rājaputrapuraskṛtaḥ_); journey along an auspicious, unobstructed path (_ariṣṭaṃ gaccha panthānam_)—let there be no lapse or delay of time (_mā bhūt kālasya paryayaḥ_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.3 (ariṣṭaṃ gaccha panthānam — The Sages’ Benediction)**
+
+**Govindarāja** notes that the hermits utter the benediction _ariṣṭaṃ gaccha panthānam_ (“journey upon an auspicious, unharmed path”) specifically with an eye toward the impending confrontation with Tāṭakā on the southern shore (_tāṭakāvadhābhiprāyeṇāhuḥ_), citing the lexicon _Hāralatā_ (_ariṣṭaṃ pāpāśubhayoḥ_). _Kālasya paryayaḥ_ (variant _kālaviparyayaḥ_) means a delay or lapse of the appointed hour (_kālavilambaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +254,14 @@ cruised the river that itself is cruising towards ocean, along with both the pri
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Saying “So be it!” and honoring those sages in return (_tān ṛṣīn pratipūjya ca_), Viśvāmitra, accompanied by those two princes, began to cross the river that flows to the ocean (_tatāra sahitas tābhyāṃ saritaṃ sāgaraṅgamām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.4–5 (saritaṃ sāgaraṅgamām & toyasaṃrambhavardhitam)**
+
+On _sāgaraṅgamām_ (“the river that goes to the ocean”), **Tilaka** offers a striking Purāṇic gloss: the Gaṅgā is called _sāgaraṅgamā_ because she restored the ocean itself to its watery fullness after Sage Agastya had drunk it dry (_agastyaśoṣitasya samudrasya gaṅgayā pūraṇaṃ kṛtam iti prasiddheḥ_). In v. 5, _toyasaṃrambhavardhitam_ describes the roar magnified by the mutual collision of opposing river waves (_parasparaṃ taraṅgasaṃghaṭṭakṣobheṇa vardhitam_).
 </details>
 </details>
 
@@ -356,6 +380,14 @@ sound sire, as though slashing water?" [1-24-6b, 7a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —eager to know (_jñātukāmaḥ_), the illustrious Rāma, together with his younger brother Lakṣmaṇa, then questioned the foremost of sages in the middle of the river (_sarinmadhye papraccha munipuṅgavam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.6–8 (vāriṇo bhidyamānasya & tasya śabdasya niścayam)**
+
+**Tilaka** and **Govindarāja** gloss _bhidyamānasya_ as the waters clashing against one another at the confluence (_parasparaṃ saṃghaṭṭamānasya_). When Rāma asks whether this thunderous roar (_tumulo dhvaniḥ_) is natural or caused by the meeting of two rivers, Viśvāmitra explains its true cause (_niścayam = kāraṇaniścayam_) by tracing the sacred lineage of the Sarayū.
 </details>
 </details>
 
@@ -485,6 +517,14 @@ The righteous-souled sage declared the true cause of that sound (_tasya śabdasy
 
 By Lord Brahmā, O tiger among men; therefore this lake is known as the _Mānasa_ Lake (_tenedaṃ mānasaṃ saraḥ_). From that lake flowed forth a river which lovingly embraces Ayodhyā (_tasmāt susrāva sarasaḥ sāyodhyām upagūhate_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.9–10 (Etymology & Geography of the Sarayū)**
+
+All three commentators derive _mānasaṃ saraḥ_ from its mental creation by Brahmā on Kailāsa (_manasā nirmitatvena mānasam_). **Tilaka** and **Govindarāja** derive _sarayūḥ_ from _sarasaḥ rauti_ or _saraso yāti_ (“she who flows or roars forth from the lake,” with _pararūpa-sandhi_ under _śakandhvādi_ and suffix _ūṅ_ by Pāṇini 4.1.66), while **Śiromaṇi** cites the _Padma-purāṇa_ teaching that _brahmasaraḥ_ denotes the tear-lake born from the eye of the Supreme Brahman (_paramātmanetrāt saṃbhūtā_). Encircling Ayodhyā (_āyodhyām upagūhate_), she pours from the north into the Gaṅgā at Sthāṇvāśrama.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +579,14 @@ So said Vishvamitra to the princes. [1-24-9b, 10, 11a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The holy river Sarayū, issuing from that lake (_saraḥpravṛttā sarayūḥ_) and descended from Brahmā’s own pool (_brahmasaraścyutā_). This peerless roar belongs to her as she flows headlong into the Jāhnavī (Gaṅgā) (_tasyāyam atulaḥ śabdo jāhnavīm abhivartate_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.10–11 (praṇāmaṃ niyataḥ kuru)**
+
+**Govindarāja** observes: _tadutpattikathanaṃ tannamasyatvāya_—Viśvāmitra recounted the Sarayū’s descent from Brahmā’s Mānasa Lake to show that she and the Gaṅgā (_tābhyāṃ = sarayūgaṅgābhyām_) must be saluted with reverent devotion.
 </details>
 </details>
 
@@ -648,6 +696,14 @@ the eminent sage Vishvamitra. [1-24-12b, 13a]
 
 —reached the southern bank (_tīraṃ dakṣiṇam āsādya_) and strode forward with swift paces (_jagmatur laghuvikramau_). Beholding a forest of terrifying aspect (_vanaṃ ghorasaṃkāśaṃ dṛṣṭvā_), that son of the foremost of men,
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.12–13 (tīraṃ dakṣiṇam & aviprahatam)**
+
+**Govindarāja** clarifies the itinerary: having spent the night at Kāmāśrama on the northern bank at the confluence, the party crossed the Gaṅgā southward at dawn, landing directly on the southern bank where Tāṭakāvana begins (_gaṅgādakṣiṇatīre tāṭakāvanam iti jñeyam_). All three commentators gloss _aviprahatam_ as “untrodden and unbeaten by merchant caravans or travelers” (_sārthagamāgamābhāvād akṣuṇṇam_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,6 +786,14 @@ render this forest atypical. [1-24-14b, 15a]
 
 **14:** Strewn with ferocious beasts of prey (_bhairavaiḥ śvāpadaiḥ kīrṇam_) and vultures of dreadful cry (_śakuntair dāruṇāravaiḥ_), and echoing with birds of manifold kinds screaming with hideous screeches (_nānāprakāraiḥ śakunair vāśyadbhir bhairavasvanaiḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.14 (śakuntaiḥ vs. śakunaiḥ — Resolving Apparent Redundancy)**
+
+Why does Verse 14 use _śakuntaiḥ_ in Pāda b and _śakunaiḥ_ in Pāda c? **Tilaka**, **Śiromaṇi**, and **Govindarāja** all cite _Amarakośa_ (_śakunto bhāsapakṣiṇoḥ_) to demonstrate Vālmīki’s lexical precision: _śakuntaiḥ_ specifically denotes flesh-eating _bhāsa_ vultures (_śakuntair bhāsaiḥ_), whereas _śakunaiḥ_ denotes ominous forest birds of every species crying out with harsh, inauspicious shrieks (_vāśyadbhiḥ = kutsitaṃ śabdāyamānaiḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -796,6 +860,14 @@ omitted the Kutaja (Echites) and the Tinduka (Diospyrus). Griffith.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Filled with lions, tigers, wild boars, and elephants as well (_siṃhavyāghravarāhaiś ca vāraṇaiś cāpi śobhitam_), and overgrown with _dhava_, _aśvakarṇa_, _kakubha_, _bilva_, _tinduka_, and _pāṭala_ trees,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.15–17 (kiṃ nv idaṃ dāruṇaṃ vanam)**
+
+On _śobhitam_ (v. 15b, amidst lions, tigers, boars, and wild elephants), the word carries the ironic sense of “thickly furnished or teeming with” (_yuktam_, **Tilaka**). When Rāma asks both the name and the ruler of this terrifying jungle (**Śiromaṇi**), Viśvāmitra replies that this very wilderness was once two flourishing kingdoms (_etau janapadau sphītau_).
 </details>
 </details>
 
@@ -963,6 +1035,14 @@ demon Vritra was incidentally a Brahman. [1-24-18b, 19a]
 
 —named Malada and Karūṣa, fashioned by the workmanship of the gods themselves (_maladāś ca karūṣāś ca devanirmāṇanirmitau_). In ancient times, O Rāma, upon the slaying of Vṛtra, when the thousand-eyed Indra was overwhelmed with impurity (_malena samabhiplutam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.18–19 (vṛtravadhe... brahmahatyā samāviśat)**
+
+**Tilaka** notes that slaying Vṛtra entailed _brahmahatyā_ because Vṛtra was the offspring of Tvaṣṭṛ of Brāhmaṇic lineage (_vṛtrasya brahmasantānatvāt_). **Śiromaṇi** and **Govindarāja** explain that as a direct consequence of _brahmahatyā_, two physical afflictions first seized Indra: bodily impurity (_mala = aśucitvam_) and ravenous hunger (_kṣudhā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1054,6 +1134,14 @@ gods were gladdened. [1-24-20b, 21a]
 
 Bathed with sacred water-jars (_kalaśaiḥ snāpayām āsuḥ_) and freed him of his taint (_malaṃ cāsya pramocayan_). Having consigned that taint and his ravenous hunger as well here upon the earth (_iha bhūmyāṃ malaṃ dattvā devāḥ kārūṣam eva ca_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.20–21 (kārūṣam & the Ablution of Mahendra)**
+
+The gods and sages bathed Indra with jars filled with sacred Gaṅgā water consecrated by mantras (_kalaśaiḥ_, **Tilaka**, **Śiromaṇi**) and deposited his bodily taint (_mala_) and hunger (_kārūṣa = karūṣam eva svārthe ’ṇ, kṣudham ity arthaḥ_) into the soil here. Thus rendered _nirmala_ (free of taint), _niṣkarūṣa_ (free of hunger), and _śuddha/śuci_ (purified of _brahmahatyā_), Indra rejoiced.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1135,6 +1223,14 @@ attain renown in world as Malada and Karusha." Thus Indra gave boon to this plac
 **21:** Which had sprung from the body of Mahendra (_śarīrajaṃ mahendrasya_), the gods then attained great joy (_tato harṣaṃ prapedire_). When Indra thus became free of taint, free of hunger, and purified of sin (_nirmalo niṣkarūṣaś ca śuddha indro yathābhavat_),
 
 **22:** Well-pleased, the Lord bestowed a supreme boon upon this land (_dadau deśasya suprīto varaṃ prādād anuttamam_): ‘These two prosperous realms shall attain renown throughout the world (_imau janapadau sphītau khyātiṃ loke gamiṣyataḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.22–23 (maladāś ca karūṣāś ca — Pāṇinian Etymology)**
+
+**Govindarāja** derives _Malada_ as “that which cleaves or removes taint” (_malaṃ dyati khaṇḍayatīti maladaḥ_, with suffix _ḍa_ by Pāṇini 3.2.75) and _Karūṣa_ as “that which holds _karūṣa_ (hunger)” (with possessive suffix _ac_ by Pāṇini 5.2.127), noting that the plural forms _maladāḥ_ and _karūṣāḥ_ follow the standard Sanskrit idiom for country names (like _Matsyāḥ_ and _Pāñcālāḥ_).
 </details>
 </details>
 
@@ -1244,6 +1340,14 @@ Rama, and people were happy with wealth and provisions. [1-24-24b, 25a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding that honor bestowed upon the land by the wise Śakra (_deśasya pūjāṃ tāṃ dṛṣṭvā kṛtāṃ śakreṇa dhīmatā_), the gods acclaimed him. For a long time thereafter, O tamer of foes, these two prosperous realms (_etau janapadau sphītau dīrghakālam ariṃdama_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.24–25 (deśasya pūjāṃ tāṃ dṛṣṭvā)**
+
+**Tilaka** and **Śiromaṇi** note that v. 24ab completes the syntax of v. 23cd: seeing the high honor (_pūjām = varapradānena satkāram_) conferred upon that land by wise Indra, the gods and sages cried “Well done!” Thereafter, the twin realms of Malada and Karūṣa flourished in peace and plenty until Tāṭakā’s arrival.
 </details>
 </details>
 
@@ -1361,6 +1465,20 @@ one, and he is always terrifying the people. [1-24-27b, 28a]
 **26:** Possessing the strength of a thousand elephants, came to be there (_balaṃ nāgasahasrasya dhārayantī tadā hy abhūt_)—Tāṭakā by name, may auspiciousness be yours (_tāṭakā nāma bhadraṃ te_), the wife of the sagacious Sunda (_bhāryā sundasya dhīmataḥ_),
 
 **27:** Whose son is the rākṣasa Mārīca, equal in valor to Indra himself (_mārīco rākṣasaḥ putro yasyāḥ śakraparākramaḥ_)—round-armed, huge-headed, of cavernous mouth and gigantic frame (_vṛttabāhur mahāśīrṣo vipulāsyatanur mahān_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.26 (The Auspicious Interjection bhadraṃ te)**
+
+Why does Viśvāmitra insert the blessing _bhadraṃ te_ (“May all be well with you!”) immediately upon naming Tāṭakā? All three commentators highlight its psychological and poetic beauty: (1) Since Rāma is a tender youth, the sage utters a protective benediction so that hearing the name of a shape-shifting Yakṣiṇī endowed with the strength of a thousand elephants (_nāgasahasrasya balam_) may cause no tremor of fear (_bālakatvena tādṛśayakṣiṇīnāmaśravaṇena trāso mā bhūd iti viśvāmitrasyāśīrvacanam_, **Tilaka**); or (2) **Tilaka** adds a second reading: “Tāṭakā is _bhadram_ (auspicious) for you,” because slaying her will be the inaugural theatre of Rāma’s martial glory (_prathamaśauryasthānatvena śauryaprasiddhikaratvarūpaṃ bhadratvam asyāḥ_)!
+
+_____________
+
+**24.27–28 (Mārīca & Tāṭakā’s Twin Depredations)**
+
+After describing Tāṭakā’s monstrous son Mārīca—whose might rivals Indra’s (_śakraparākramaḥ_) and who terrorizes the subjects—Viśvāmitra turns in v. 28cd to the mother’s own devastation of Malada and Karūṣa (_putrakṛtam upadravaṃ nivedya mātṛkṛtopadravam āha_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1513,6 +1631,20 @@ mahataam, nopakaraNe* not by their hardware.
 
 **30:** For this very reason we must proceed to the forest of Tāṭakā, since our path lies that way (_ata eva ca gantavyaṃ tāṭakāyā vanaṃ yataḥ_). Relying upon the might of your own arms, slay this wicked-living demoness (_svabāhubalam āśritya jahīmāṃ duṣṭacāriṇīm_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.29–30 (atyardhayojane & ata eva ca gantavyam)**
+
+**Tilaka** explains _atyardhayojane_ (variant _adhyardhayojane_) as “at a distance of one and a half _yojanas_” (_ardham atikrāntam atyardhaṃ tādrśe yojane_). Why must they enter her lair? **Govindarāja** and **Tilaka** explain _ata eva ca gantavyaṃ tāṭakāyā vanaṃ yataḥ_: because the road to Siddhāśrama runs directly through Tāṭakā’s forest, they must march by this very path and clear the obstruction.
+
+_____________
+
+**24.30–31 (manniyogāt — Anticipating Rāma’s Scruple Against Strīvadha)**
+
+Both **Tilaka** and **Śiromaṇi** call attention to the pointed phrase _manniyogāt_ (“by my command”) alongside _duṣṭacāriṇīm_ (“wicked-living”): anticipating that a righteous Kṣatriya prince will recoil from slaying a woman, Viśvāmitra preemptively commands him to cast aside all hesitation over _strīvadha_ upon the authority of his guru’s injunction (**Tilaka**; _manniyogād ity uktyā striyaṃ na haniṣyāmīti pratyuttaraṃ tvayā na vaktavyam iti bhāvo dhvanitaḥ_, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1632,6 +1764,14 @@ Rama. [1-24-32]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Which has been laid waste by that dreadful and unbearable Yakṣiṇī, O Rāma (_yakṣiṇyā ghorayā rāma utsāditam asahyayā_). Thus have I recounted to you in full how this forest became so dreadful (_etat te sarvam ākhyātaṃ yathaitad dāruṇaṃ vanam_), and how, devastated by that Yakṣī, it still does not recover or desist from her ravages even today (_adyāpi na nivartate_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.32 (adyāpi na nivartate)**
+
+On the closing words _adyāpi na nivartate_, **Tilaka** supplies “the former inhabitants” as the subject (“even today the former inhabitants do not return to resettle the land”), while **Śiromaṇi** and **Govindarāja** construe _sā yakṣī adyāpi utsādanān na nivartate_ (“even today that Yakṣī does not desist from her devastation”).
 </details>
 </details>
 

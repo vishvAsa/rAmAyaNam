@@ -76,6 +76,14 @@ bow, also thus I have thoroughly heard about your others deeds like elimination 
 
 “O Rāma, son of Daśaratha! O hero! Your wondrous valor is heard of everywhere (_vīryaṃ te śrūyate ’dbhutam_), and the breaking of the bow (_dhanuṣo bhedanaṃ caiva_) has been heard by me in full detail (_nikhilena mayā śrutam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.1–2 (dhanuṣo bhedanaṃ caiva & acintyam)**
+
+Opening his commentary on Sarga 75, **Govindarāja** notes that after showing Viṣṇu’s supremacy as cause of the universe, Vālmīki now demonstrates Rudra’s subordination through the history of the two bows (_prayatnaśaktikatvena tasyāparatvam āha_). Both **Rāma Varmā (_Tilaka_)** and **Govindarāja** observe that _caiva_ in v. 1 gathers in Rāma’s earlier feats such as slaying Tāṭakā (_cakāreṇa tāṭakāvadhādi samuccīyate_), while _acintyam_ (v. 2) means inconceivable even by the mind of another (_anyena manasāpy aśakyam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +175,14 @@ to your ear, and in that way show your capability... [1-75-3]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Draw to its full circle with an arrow (_pūrayasva śareṇaiva_) this mighty bow of Jamadagni (_jāmadagnyaṃ mahad dhanuḥ_) of terrible appearance (_ghorasaṃkāśam_), and display your own strength (_svabalaṃ darśayasva ca_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.3–4 (jāmadagnyaṃ mahad dhanuḥ & dvandvayuddham)**
+
+**Śiromaṇi** remarks that Paraśurāma’s demand to string the Vaiṣṇava bow betrays his disbelief that Śiva’s bow was broken by sheer strength (_paraśurāmasya viśvāsābhāvaḥ sūcitaḥ_) and reveals how the Supreme Lord’s will deludes even the wise (_īśvarecchāyāḥ śiṣṭabuddhimohakatvaṃ vyaktam_). Only if Rāma strings this bow will Paraśurāma deem him worthy of a duel that redounds to the praise of his valor (_vīryaślāghyam_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -269,6 +285,14 @@ palms said this. [1-75-5]
 
 Hearing those words of his, King Daśaratha, with a dejected countenance (_viṣaṇṇavadano_) and stricken with distress (_dīnaḥ_), joined his palms in supplication (_prāñjaliḥ_) and spoke these words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.5–6 (kṣatraroṣāt praśāntaḥ & abhayaṃ dātum arhasi)**
+
+Why does Daśaratha tremble despite knowing Rāma’s valor against Tāṭakā and Mārīca? **Govindarāja** explains that paternal love overwhelms the king (_snehabharākrānto rāmavaibhavaṃ ... jānann api_), prompting him to appeal to Paraśurāma’s Brāhmaṇa nature and renunciation of wrath against Kṣatriyas (_kṣatraroṣāt kṣatravadhāt_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -354,6 +378,14 @@ classis...
 **6:** “You have calmed down from your wrath against the Kṣatriyas (_kṣatraroṣāt praśāntas tvam_), and you are a Brāhmaṇa of great asceticism (_brāhmaṇaś ca mahātapāḥ_); therefore, you ought to grant safety (_abhayaṃ dātum arhasi_) to my young sons (_bālānāṃ mama putrāṇām_).
 
 **7:** “Born in the lineage of the Bhārgavas, who shine with Vedic study and sacred vows (_svādhyāyavrataśālinām_), you solemnly pledged before the thousand-eyed Indra (_sahasrākṣe pratijñāya_) and cast aside your weapons (_śastraṃ prakṣiptavān asi_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.7–8 (sahasrākṣe pratijñāya & mahendrakṛtaketanaḥ)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** construe the locative _sahasrākṣe_ in the sense of proximity (_tatsaṃnidhau_): in Indra’s very presence, Paraśurāma vowed never again to take up weapons (_śastragrahaṇam_), gave the earth to Kaśyapa, and made Mount Mahendra his ascetic abode (_tapase mahendrakṛtaketanatvam_, **Tilaka**).
 </details>
 </details>
 
@@ -463,6 +495,14 @@ and Rama alone...'
 
 “O great sage, you have arrived here for my utter destruction (_mama sarvavināśāya_); for if Rāma alone is slain (_ekasmin hate rāme_), none of us shall survive (_na ... sarve jīvāmahe vayam_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.9–10 (mama sarvavināśāya & anādṛtya)**
+
+**Śiromaṇi** explains Daśaratha’s logic: why would a single duel with Rāma destroy the entire dynasty (_sarvavināśāya_)? Because if Rāma alone is harmed, the king, queens, and brothers will perish instantly from grief (_vayaṃ sarve na jīvāmahe_). Yet Paraśurāma ignores the pleading father and speaks solely to Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -554,6 +594,14 @@ other in my hand... [1-75-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There are these two supreme, celestial bows (_ime dve dhanuṣī śreṣṭhe divye_), revered throughout the worlds (_lokābhipūjite_), firm, mighty, and preeminent (_dṛḍhe balavatī mukhye_), masterfully fashioned by Viśvakarman (_sukṛte viśvakarmaṇā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.11–12 (ime dve dhanuṣī & tripuraghnam)**
+
+**Tilaka** glosses _ime dve_ as the two bows directly in view—the one just broken by Rāma and the one held in Paraśurāma’s hand (_yat tvayā bhagnaṃ yac ca mayā dhṛtam_), both crafted with special care and effort (_nirmite_, **Tilaka** and **Govindarāja**) by Viśvakarman, and the first given to Śiva to destroy Tripura (_tripuraghnaṃ taddhananasādhanam_).
 </details>
 </details>
 
@@ -672,6 +720,14 @@ this is an indestructible and enemy-citadel conquering longbow... and this is id
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This second bow, unassailable (_idaṃ dvitīyaṃ durdharṣam_), was given by the foremost of the gods to Viṣṇu (_viṣṇor dattaṃ surottamaiḥ_); this, O Rāma, is that bow of Viṣṇu, the conqueror of hostile citadels (_dhanuḥ parapuraṃjayam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.13–15 (samānasāram & balābalanirīkṣayā)**
+
+Why did the gods ask Brahmā to test who was stronger after Tripura’s fall? **Tilaka** and **Govindarāja** explain that since Viṣṇu had served as the arrow in Śiva’s destruction of Tripura (_viṣṇor tripura-saṃhāre śaratvena rudraparikarāntarbhāvaśravaṇāt_), the gods wondered whether Viṣṇu was inferior (_avara_) or equal (_samaḥ_) to Rudra.
 </details>
 </details>
 
@@ -801,6 +857,14 @@ himself... [1-75-16b, 17a]
 
 “foremost of the truthful (_satyavatāṃ varaḥ_), brought about a conflict between the two (_virodhaṃ janayām āsa tayoḥ_). And in that conflict, there ensued a mighty, hair-raising battle (_mahad yuddham abhavad romaharṣaṇam_)
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.16 (satyavatāṃ varaḥ & virodhaṃ janayām āsa)**
+
+How did Brahmā provoke a clash between them? **Govindarāja** explains that verbal instruction alone could not dispel the gods’ doubt, so Brahmā decided to demonstrate their hierarchy through action itself (_kriyayaiva_), telling Viṣṇu that Rudra claimed sole credit as archer and telling Rudra that Viṣṇu claimed sole credit as the arrow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -851,6 +915,14 @@ of Shiva's pride' and some info about is given in endnote.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “between blue-throated Śiva and Viṣṇu, each seeking victory over the other (_parasparajayaiṣiṇoḥ_). Then, Śiva’s bow of terrible might became unstrung and slackened (_tadā tu jṛmbhitaṃ śaivaṃ dhanur bhīmaparākramam_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.17–18 (jṛmbhitaṃ śaivaṃ dhanuḥ & huṃkāreṇa ... stambhitaḥ)**
+
+At the height of battle, Viṣṇu’s mere _huṃkāra_ caused Śiva’s terrible bow to slacken and yawn apart (_jṛmbhitaṃ śithilīkṛtam_, **Tilaka** and **Śiromaṇi**; _bhagnam_, **Govindarāja**), while three-eyed Mahādeva himself stood paralyzed (_stambhito vyāpārarahita āsīt_, **Śiromaṇi**), rendering even his third eye powerless (_tṛtīyaṃ locanam api nirarthakaṃ kṛtam_, **Govindarāja**).
 </details>
 </details>
 
@@ -967,6 +1039,14 @@ of sages deemed Vishnu to be the paramount... [1-75-19b, 20a]
 
 “entreated by them, those two foremost of gods came to peace there (_yācitau praśamaṃ tatra jagmatus tau surottamau_). Beholding that bow of Śiva unstrung and slackened by the prowess of Viṣṇu (_jṛmbhitaṃ tad dhanur dṛṣṭvā śaivaṃ viṣṇuparākramaiḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.19–20 (adhikaṃ menire viṣṇum)**
+
+**Govindarāja** notes that the testimony of the _ṛṣigaṇas_—seers of supersensible truth free of bias (_atīndriyārthadṛśaḥ_)—establishes Viṣṇu as the supreme reality (_viṣṇur eva paraṃ tattvam_), refuting the plea that Rudra’s defeat was merely a temporary predominance of _tamas_. **Tilaka** adds that Paraśurāma implies Rāma’s breaking of Śiva’s bow was no great feat since Viṣṇu had already slackened it (_śivasya dhanuṣas tadārabhya śithilatvena tad-bhaṅga-kṛtaṃ na te gauravam iti bhārgavābhiprāyaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1021,6 +1101,14 @@ to Shiva.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “the gods together with the hosts of sages deemed Viṣṇu to be superior (_adhikaṃ menire viṣṇuṃ devāḥ sarṣigaṇās tathā_). And the illustrious Rudra, enraged (_dhanū rudras tu saṃkruddho_), in the land of the Videhas,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.20cd–21 (dhanū rudras tu ... devarātasya)**
+
+Reconciling this verse with Janaka’s earlier statement in Sarga 66 that Śiva gave the bow to the gods after Dakṣa’s sacrifice, **Tilaka** and **Govindarāja** explain that angry Śiva handed his slackened bow through the gods (or Varuṇa) into the hand of King Devarāta at the conclusion of his sacrifice.
 </details>
 </details>
 
@@ -1121,6 +1209,14 @@ to become *jamadagni* so oh, lady know me as one born and having Ritual-fire... 
 
 “Viṣṇu bestowed as a supreme trust upon Bhārgava Ṛcīka (_ṛcīke bhārgave prādād viṣṇuḥ sa nyāsam uttamam_). And Ṛcīka of great fiery splendor bestowed that celestial bow upon his son of unmatched deeds (_putrasyāpratikarmaṇaḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.22–23 (ṛcīke ... nyāsam uttamam & apratikarmaṇaḥ)**
+
+Tracing the Vaiṣṇava bow’s lineage from Viṣṇu to Ṛcīka and Jamadagni, **Tilaka** and **Śiromaṇi** gloss _apratikarmaṇaḥ_ carefully: though Jamadagni possessed ascetic power, he abstained from retaliating with a curse even against his own slayer (_svahantary api śāpādipratikriyārahitasya_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1208,6 +1304,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Arjuna (Kārtavīrya), resorting to a base and vulgar mindset (_prākṛtāṃ buddhim āsthitaḥ_), wrought his death (_vidadhe mṛtyum_). Hearing of that unmatched and most cruel slaying of my father (_vadham apratirūpaṃ tu pituḥ śrutvā sudāruṇam_), out of wrath I exterminated the Kṣatriya race again and again as each generation arose (_kṣatram utsādayaṃ roṣāj jātaṃ jātam anekaśaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.24–26 (jātaṃ jātam anekaśaḥ & yajñasyānte dakṣiṇām)**
+
+**Govindarāja** and **Śiromaṇi** explain that after Kārtavīrya Arjuna murdered unarmed Jamadagni, Paraśurāma exterminated the Kṣatriyas twenty-one times (_anekaśas triḥsaptakṛtvaḥ_) and, at the close of an expiatory sacrifice (_vadhaprāyaścittarūpayāgasya ante_, **Śiromaṇi**), gave the entire earth to Kaśyapa as _dakṣiṇā_ before retiring to Mount Mahendra.
 </details>
 </details>
 
@@ -1371,6 +1475,20 @@ you be capable of it, thereafter I will give you a duel... [1-75-27]
 **27:** “Therefore, O Rāma, honoring the duty of a Kṣatriya (_kṣatradharmaṃ puraskṛtya_), take up this supreme, mighty bow of Viṣṇu (_tad evaṃ vaiṣṇavaṃ rāma ... gṛhṇīṣva dhanur uttamam_), handed down from my father and grandfather (_pitṛpaitāmaham_)!
 
 **28:** “Fit an arrow, the conqueror of hostile citadels, to this foremost of bows (_yojayasva dhanuḥśreṣṭhe śaraṃ parapuraṃjayam_); if you are able to do so, O Kākutstha (_yadi śakto ’si kākutstha_), I shall then grant you single combat (_dvandvaṃ dāsyāmi te tataḥ_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**75.27 (pitṛpaitāmaham & kṣatradharmaṃ puraskṛtya)**
+
+Both **Tilaka** and **Govindarāja** note the Ārṣa _vṛddhi_ of the second member in _pitṛpaitāmaham_ (“handed down from father and grandfather”). Citing **Kataka**, they explain _kṣatradharmaṃ puraskṛtya_: “Do not adopt a Brāhmaṇa’s quietism and say ‘I am unable’—take up the bow as a Kṣatriya!” (_brāhmaṇavac chāntim āsthāya nāhaṃ śakta iti mā brūhi_).
+
+_____________
+
+**75.28 (yadi śakto ’si ... dvandvaṃ dāsyāmi)**
+
+**Tilaka** and **Govindarāja** point out the haughty challenge behind Paraśurāma’s closing words: “Even if you manage to string this bow and fit the arrow, I shall not let you go unchallenged, but will fight you in single combat—or else surrender to me!” (_tāvatāpi na tvāṃ tyakṣyāmi, api tu dvandvaṃ dāsyāmi, anyathā māṃ śaraṇaṃ vrajeti tātparyam_).
 </details>
 </details>
 

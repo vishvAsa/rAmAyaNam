@@ -82,6 +82,14 @@ of Vishvamitra to Rama and others. [1-53-1]
 
 Thus addressed by Vasiṣṭha, O destroyer of foes (_śatrusūdana_), the wish-milking cow Śabalā brought forth all desired delicacies for each guest just as he wished (_vidadhe kāmadhuk kāmān yasya yasyepsitaṃ yathā_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.1–2 (madhūn, maireyān & varāsavān)**
+
+Both **Śiromaṇi** and **Govindarāja (_Bhūṣaṇa_)** note the epic masculine accusative plural _madhūn_ (‘honeys’). Distinguishing the fermented cordials in v. 2, **Śiromaṇi** quotes Mādhava: _‘sīdhur ikṣurasaiḥ pakvair apakvair āsavo bhavet / maireyaṃ dhātakīpuṣpaguḍadhānāmlasaṃhitam’_ (_āsava_ is distilled from unboiled sugarcane juice, while _maireya_ is infused with _dhātakī_ blossoms, jaggery, and grain), and **Govindarāja** cites _Vaijayantī_ (_‘maireyam āsavo dhātrīdhātakīguḍavāribhiḥ’_; cf. **Rāma Varmā (_Tilaka_)**: _dhātrīdhātakīguḍavāribhiḥ kṛtaṃ madyam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,6 +181,14 @@ sugarcanes, honeys, and parched grains (_ikṣūn madhūṃs tathā lājān_), s
 
 mountain-like heaps of piping-hot boiled rice (_uṣṇāḍhyasyaudanasyātra rāśayaḥ parvatopamāḥ_), sweet milk-rice puddings, seasoned broths, and veritable rivers of curds (_mṛṣṭāny annāni sūpāṃś ca dadhikulyās tathaiva ca_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.3 (mṛṣṭāny annāni & dadhikulyāḥ)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** gloss _uṣṇāḍhyasya_ as rice rich in warmth (_uṣṇatvaguṇayuktasya_), _mṛṣṭāny annāni_ as sweet milk-rice puddings (_pāyasabhedāḥ_), and _sūpān_ as seasoned split-pea and pulse broths (_paripakvāḍhakīdvidalādayaḥ_, **Śiromaṇi**). By metonymy (_upalakṣaṇam_), _dadhikulyāḥ_ (‘canals of curds’) includes streams of milk and clarified butter as well (**Tilaka**, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -227,6 +243,14 @@ six tastes have come up together with delectable foodstuffs made out of treacly 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and by the thousands, silver banquet vessels brimful of confections and candied sweets of manifold delicious flavors (_nānāsvādurasānāṃ ca khāṇḍavānāṃ tathaiva ca bhojanāni supūrṇāni gauḍāni ca sahasraśaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.4–5 (khāṇḍavānām & gauḍāni bhojanāni)**
+
+Citing _Kataka_ (_‘rajate guḍaḥ’ ity abhidhānam_), **Tilaka** and **Śiromaṇi** gloss _gauḍāni bhojanāni_ as thousands of silver banquet vessels (_rājatāni bhojanapātrāṇi_) filled with _khāṇḍavānām_ (sugar-candies), whereas **Govindarāja** reads _ṣāḍavānāṃ ... bhājanāni ... gauḍāni_ (vessels filled with six-taste confections and jaggery sweets, _guḍavikārāḥ_).
 </details>
 </details>
 
@@ -336,6 +360,14 @@ and energetic. [1-53-6]
 
 The royal sage Viśvāmitra himself became joyous and well-satisfied then (_viśvāmitro hi rājarṣir hṛṣṭapuṣṭas tadābhavat_), along with the chief ladies of his inner apartments and his brāhmaṇas and royal chaplain (_sāntaḥpuravaro rājā sabrāhmaṇapurohitaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.6–7 (hṛṣṭapuṣṭaḥ & amātya vs. mantrin)**
+
+**Govindarāja** explains that Viśvāmitra was _hṛṣṭaḥ_ (delighted) by Vasiṣṭha’s courteous regard (_ādareṇa_) and _puṣṭaḥ_ (nourished) by the banquet (_bhojanādinā_). How do _amātya_ and _mantrin_ differ in v. 7? **Tilaka**, **Govindarāja**, and **Śiromaṇi** explain that _amātyas_ are executive ministers assisting in state affairs (_karmasacivāḥ_), whereas _mantrins_ are privy counselors deliberating on secret policy (_mantrasya sacivāḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -428,6 +460,14 @@ in sententiousness, now I wish to say for myself to which you may please listen.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I have been honored and sumptuously entertained by you, O Brāhmaṇa, who are yourself worthy of all worship (_pūjito &#x27;haṃ tvayā brahman pūjārheṇa susatkṛtaḥ_). Hear now the word that I shall speak, O master of eloquent speech (_śrūyatām abhidhāsyāmi vākyaṃ vākyaviśārada_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.8–9 (gavāṃ śatasahasreṇa & ratnaṃ hi bhagavann etad)**
+
+In v. 8, **Tilaka** notes that _susatkṛtaḥ_ either explicates _pūjitaḥ_ or repeats it without fault out of overflowing joy (_harṣād vā punaruktir adoṣaḥ_). In v. 9, all three commentators gloss _gavāṃ śatasahasreṇa_ as an instrumental of purchase price (_niṣkrayabhūtena_). **Govindarāja** cites _Amarakośa_ (_‘ratnaṃ svajātiśreṣṭhe'pi’_) to explain why a cow is called a _ratnam_ (anything supreme of its kind), while **Śiromaṇi** notes that the pronoun _etad_ takes neuter gender by attraction to the predicate _ratnam_.
 </details>
 </details>
 
@@ -532,6 +572,14 @@ eminent saint, on his part replied the king in this way. [1-53-10b, 11a]
 
 “Therefore give Śabalā to me; by right of royal _dharma_ she belongs to me, O twice-born sage (_tasmān me śabalāṃ dehi mamaiṣā dharmato dvija_)!” Thus addressed by Viśvāmitra, the venerable Vasiṣṭha, bull among sages (_vasiṣṭho munipuṃgavaḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.10 (mamaiṣā dharmato dvija)**
+
+Why does Viśvāmitra claim that Śabalā belongs to him ‘by _dharma_’ (_dharmataḥ nyāyataḥ_)? **Tilaka** and **Govindarāja** explain the royal syllogism: since the king is the rightful lord and collector of all jewels produced in the earth (_pārthivasya ratnasvāmitvād ratnaharatvāc ca_), this jewel-cow rightfully belongs to the monarch.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -607,6 +655,14 @@ mine, as with the everlasting and inseparable respectability of a self-respectfu
 
 **12:** “—nor for heaps of silver, O King, will I give away Śabalā (_rājan dāsyāmi śabalāṃ rāśibhī rajatasya vā_)! She ought never to be parted from my side, O tamer of foes (_na parityāgam arheyaṃ matsakāśād ariṃdama_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.11–13ab (śāśvatī śabalā mahyam & kīrtir ātmavato yathā)**
+
+Rejecting even hundreds of crores of cows or heaps of silver, Vasiṣṭha compares Śabalā to the eternal fame of an _ātmavān_. **Rāma Varmā (_Tilaka_)** glosses _ātmavataḥ_ as one endowed with royal yoga and self-mastery (_rājayogavataḥ_), whose fame born of learning and austerity is forever inseparable from him (_nityasaṃbaddhā_); even so, Śabalā, bestowed upon Vasiṣṭha by Brahmā (_brahmadattā_), can never be parted from him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +723,14 @@ darshapaurNamaasi, all are dependent on her. [1-53-13b, 14a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Śabalā is eternally bound to me, just as spotless fame abides with a self-mastered sage (_śāśvatī śabalā mahyaṃ kīrtir ātmavato yathā_). Upon her depend my oblations to the gods, my offerings to the ancestors, and the very maintenance of my life (_asyāṃ havyaṃ ca kavyaṃ ca prāṇayātrā tathaiva ca_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.13cd–14a (havya, kavya, prāṇayātrā, agnihotra, bali & homa)**
+
+**Govindarāja** and **Tilaka** distinguish each ritual category resting upon Śabalā: _havyam_ (oblations to the gods), _kavyam_ (offerings to the Pitṛs), _prāṇayātrā_ (bodily sustenance or the internal _prāṇāgnihotra_), _agnihotram_ (the morning and evening fire-oblations), _baliḥ_ (_bhūtabali_ offerings to all creatures), and _homaḥ_ (_vaiśvadeva_ and fortnightly rites).
 </details>
 </details>
 
@@ -732,6 +796,14 @@ at wish, without a hassle, either to the teacher or to the taught.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—as well as my daily _agnihotra_ fire-oblation, my _bali_ offerings, and my _homa_ sacrifices (_āyattam agnihotraṃ ca balir homas tathaiva ca_), my _svāhākāra_ and _vaṣaṭkāra_ invocations, and my manifold sacred sciences (_svāhākāravaṣaṭkārau vidyāś ca vividhās tathā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.14b–15 (How vidyāḥ Depend on Śabalā)**
+
+How do the ritual calls _svāhākāra_ and _vaṣaṭkāra_ and the manifold Vedic sciences (_vidyāś ca vividhāḥ_) depend on a cow? **Tilaka**, **Śiromaṇi**, and **Govindarāja** explain that _svāhā_ and _vaṣaṭ_ denote the sacrifices accomplished through those calls (_tatsādhyayajñau_), while the Vedic sciences depend on mental purity, vital satisfaction, and bodily vigor—all of which arise from partaking of Śabalā’s pure milk (_etatpayaḥprāśanena cittaśuddheḥ prāṇatṛpter dehapāṭavāc ca tatsādhyavidyānām etadāyattatvam_).
 </details>
 </details>
 
@@ -834,6 +906,14 @@ compellingly and argumentatively. [1-53-16b, 17a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—and therefore for many reasons, O King, I will not give Śabalā to you (_kāraṇair bahubhī rājan na dāsye śabalāṃ tava_)!” Thus addressed by Vasiṣṭha, Viśvāmitra then spoke (_vasiṣṭhenaivam uktas tu viśvāmitro &#x27;bravīt tadā_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.16–18a (kāraṇair bahubhiḥ & hairaṇyakakṣagraiveyān)**
+
+**Tilaka** and **Govindarāja** gloss Vasiṣṭha’s phrase _kāraṇair bahubhiḥ_ as ‘for many reasons yet unspoken’ (_kāraṇair anuktaiḥ_), and **Tilaka** remarks that it is pregnant with hidden significance (_sābhiprāyaṃ caitad bodhyam_), foreshadowing how Śabalā will shortly rout Viśvāmitra’s army. Speaking with heightened insistence (_saṃrabdhataram atyāgrahayuktam_, **Tilaka**), Viśvāmitra offers 14,000 elephants with golden girths (_kakṣā / kakṣyā_, citing _Amarakośa_: _‘kakṣyā prakoṣṭhe harmyādeḥ kāñcyāṃ madhyebhabandhane’_, **Govindarāja**, **Śiromaṇi**) and golden neck-chains (_graiveyān_).
 </details>
 </details>
 
@@ -979,6 +1059,20 @@ be came of age as milker, thereby, let this do-all cow Shabala be given to me. [
 
 **20:** “And of youthful cows distinguished by manifold colors (_nānāvarṇavibhaktānāṃ vayaḥsthānāṃ tathaiva ca_), I give you a full ten million—let Śabalā be given to me (_dadāmy ekāṃ gavāṃ koṭiṃ śabalā dīyatāṃ mama_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.18b–19 (caturyujām, deśajātānām & kulajānām)**
+
+On _śvetāśvānāṃ caturyujām_, all three commentators note that although _catur-_ semantically construes with _śvetāśvānām_ (‘yoked to four white horses each’), the compound is licensed by clarity of sense (_sāpekṣatve'pi gamakatvāt samāsaḥ_, **Govindarāja**). In v. 19, **Tilaka**, **Śiromaṇi**, and **Govindarāja** gloss _deśajātānām_ as horses bred in Kāmboja and Bāhlīka, and _kulajānām_ as born of the celestial Gandharva breed, quoting the Purāṇic dictum _‘gandharvakulajās tv aśvāḥ’_ (**Tilaka**).
+
+_____________
+
+**53.20 (vayaḥsthānāṃ gavāṃ koṭim)**
+
+Escalating his initial offer of 100,000 cows (v. 9) a hundredfold to one crore (10,000,000 cows), Viśvāmitra specifies that they are _nānāvarṇavibhaktānām_ (distinctly variegated in color) and _vayaḥsthānām_—youthful prime milk-cows (_taruṇīnām_), citing the lexicon _‘vayaḥsthas taruṇo yuvā’_ (**Tilaka**, **Śiromaṇi**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1032,6 +1126,14 @@ much as you can yearn, let Shabala be given to me." Thus Vishvamitra entreated a
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever jewels or gold you desire, O best of the twice-born (_yāvad icchasi ratnāni hiraṇyaṃ vā dvijottama_), all that I will give to you in full—only let Śabalā be given to me (_tāvad dadāmi te sarvaṃ dīyatāṃ śabalā mama_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.21–23 (etad eva hi me ratnam ... jīvitam)**
+
+In the Southern Recension stanza v. 21, Viśvāmitra offers unlimited treasure beyond the specified crores (_ito'py adhikaṃ vā yāvad icchasi_, **Rāma Varmā (_Tilaka_)**). Answering Viśvāmitra’s claim in v. 9 that Śabalā is a royal jewel, Vasiṣṭha declares in four parallel clauses (_etad eva hi..._) that she alone is his jewel (_ratnaṃ maṇyādi_), his gold and silver (_dhanam_), his property (_sarvasvam_), and his very life-breath (_jīvitam_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1179,6 +1281,14 @@ activities of mine. [1-53-24]
 
 “My new-moon and full-moon sacrifices, my _yajñas_ complete with abundant priestly gifts, and my manifold sacred rites as well—she alone is all these to me, O King (_darśaś ca paurṇamāsaś ca yajñāś caivāptadakṣiṇāḥ etad eva hi me rājan vividhāś ca kriyās tathā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.24 (darśapaurṇamāsa & āptadakṣiṇāḥ)**
+
+Why does Vasiṣṭha specify _yajñāś caivāptadakṣiṇāḥ_ (sacrifices with abundant priestly gifts)? **Tilaka** explains that just as the _havya_ and _kavya_ oblations come from Śabalā, even the sacrificial gifts (_dakṣiṇā_) required to complete his Vedic _yajñas_ depend on her wish-fulfilling power (_havyādivad dakṣiṇāpy etadadhīneti sūcitam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1245,6 +1355,14 @@ Shataananda continued his narration of the legend of Sacred Cow. [1-53-25]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “All my sacred rites without doubt have their root in her, O King (_atomūlāḥ kriyāḥ sarvā mama rājan na saṃśayaḥ_). What use is much talk? I will never give away this wish-milking cow (_bahunā kiṃ pralāpena na dāsye kāmadohinīm_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**53.25 (atomūlāḥ kriyāḥ sarvāḥ & kāmadohinīm)**
+
+**Tilaka** and **Śiromaṇi** note that _atomūlāḥ_ (‘having their root in her’) justifies why v. 24 identified Śabalā with the sacrifices themselves. **Govindarāja** derives _kāmadohinīm_ by Pāṇini 3.2.78 (_‘supy ajātau—’ iti ṇiniḥ_), while **Śiromaṇi** notes that _bahunā kiṃ pralāpena_ warns the king to abandon all hope of obtaining her.
 </details>
 </details>
 

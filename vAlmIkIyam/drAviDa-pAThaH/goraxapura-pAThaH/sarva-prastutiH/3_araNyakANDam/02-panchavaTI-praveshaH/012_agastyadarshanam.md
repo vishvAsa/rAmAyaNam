@@ -628,6 +628,134 @@ saying that "as you say." [3-12-12b, 13a]
 
 “—be ushered into my presence (_praveśyatāṃ samīpaṃ me_); why was he not brought in at once (_kim asau na praveśitaḥ_)?” Thus addressed by the righteous and high-souled sage—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.12.1–3 (sa praviśyāśramapadam & Lakṣmaṇa’s Humility)**
+
+Opening the sarga, **Govindarāja** (_Bhūṣaṇa_) observes that Lakṣmaṇa enters first while Rāma waits outside to highlight Rāma’s supreme dignity (तदस्यापूज्यत्वमाह), and adds that Lakṣmaṇa specifies his own subordinate status (अवरजो हितः) so the hermitage hosts will not accord him honours equal to Rāma (अग्रजत्वादिविशेषणानि रामेण तुल्यप्रतिपत्तिवारणाय). **Rāma Varmā** (_Tilaka_) distinguishes the three epithets: हितः as benefactor (शुभकारी), अनुकूलः as conforming to Rāma’s will (तदिच्छावशवर्ती), and भक्तः as possessing reverent love (पूज्यविषयानुरागो भक्तिस्तद्वान्भक्तः).
+
+_____________
+
+**3.12.4 (te vayam & The Seven-Thousandth Śloka)**
+
+On भगवन्तं निवेद्यताम्, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) supply the ellipsis “let our arrival be announced in the guru’s presence” (गुरुसन्निधाविति शेषः), while **Govindarāja** (_Bhūṣaṇa_) records an important scribal-recitational milestone at ते वयम्: with this stanza, seven thousand eight-syllable Gāyatrī verses of the Rāmāyaṇa have been completed (अष्टाक्षरसप्तसहस्रसंख्याकाः श्लोका गताः).
+
+_____________
+
+**3.12.5–6 (agniśaraṇam & añjasā)**
+
+All three commentators gloss अग्निशरणम् as the sacrificial fire-chamber (अग्निहोत्रगृहं, _Tilaka_; यागशालाम्, _Śiromaṇi_; अग्निगृहम्, _Bhūṣaṇa_). On अञ्जसा, **Rāma Varmā** and **Śivasahāya** gloss “swiftly” (शीघ्रम्), whereas **Govindarāja** glosses “accurately” (यथातथम्).
+
+_____________
+
+**3.12.7–9 (śuśrūṣārtham & yad atrānantaram)**
+
+**Govindarāja** (_Bhūṣaṇa_) explains संमतः as esteemed among the disciples (शिष्येषु मान्यत्वेन संमतः) and construes यदत्रानन्तरं तत्त्वम् as requesting the sage to declare what should properly be done following Rāma’s arrival (तदागमनानन्तरं यद्वक्तव्यं वस्तु तस्य भावं प्रकारं). On उपश्रुत्य, **Rāma Varmā** (_Tilaka_) cites Kataka (_Tīrtha_), who interprets the prefix उप- as experiencing the bliss of hearing of the Lord’s arrival (भगवदागमनश्रवणानन्दमनुभूयेत्यर्थ इति तीर्थः).
+
+_____________
+
+**3.12.10 (diṣṭyā rāmaś cirasyādya)**
+
+Explaining Agastya’s exclamation “after a long time” (चिरस्य), **Rāma Varmā** (_Tilaka_) recalls that Śarabhaṅga had previously told Rāma that Agastya was awaiting him, making the intervening years of forest wandering seem long (चिरकालस्य गमनेऽप्यागतस्तद्दिनं मम बहुवत्सरप्रायमेवेत्यर्थः). **Śivasahāya** (_Śiromaṇi_) glosses दिष्ट्या as “by good fortune” (भाग्यमेतत्).
+
+_____________
+
+**3.12.11–12 (manasā kāṅkṣitam & The Sage’s Reproof)**
+
+**Rāma Varmā** (_Tilaka_) glosses सत्कृतः as revered with mental devotion and auspicious blessings (मनसा सेव्ययाशिषा वन्दित इत्यर्थः), while all three commentators note that किमसौ न प्रवेशितः gently reproves the disciple for waiting to ask permission (कस्माद्धेतोर्विलम्बः कृत इत्यर्थः, _Tilaka_; मामपृष्ट्वैवेति शेषः, _Śiromaṇi_).
+
+_____________
+
+**3.12.13–14 (abhivādya & ko ’sau rāmaḥ)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that the disciple bows (अभिवाद्य) to expiate his offence in keeping Rāma waiting outside (विलम्बकरणापचारनिवृत्त्यर्थं वन्दनम्), which also motivates his haste (सम्भ्रान्तः). On कोऽसौ रामो, **Rāma Varmā** (_Tilaka_) explains कः in the locative sense of क्व (“where is Rāma?”, कशब्देन क्वेति सप्तम्यर्थो विवक्षितः), and notes that in दर्शयामास the secondary object शिष्यम् is supplied by ellipsis (शिष्यमिति प्रयोज्यमाक्षिप्यते).
+
+_____________
+
+**3.12.15–16 (agastyavacanam & susatkṛtam)**
+
+**Govindarāja** (_Bhūṣaṇa_) analyses अगस्त्यवचनम् as that which was spoken by Agastya (अगस्त्येनोच्यत इत्यगस्त्यवचनम्), while **Rāma Varmā** (_Tilaka_) glosses सुसत्कृतम् as honoured with foot-water, _arghya_, rising to welcome, and guiding along the path (पाद्यार्घ्यादिभिः प्रत्युद्गत्या मार्गप्रदर्शनेन च सत्कृतम्).
+
+_____________
+
+**3.12.17–18 (The Deities’ Sanctuaries)**
+
+Because अग्नेः स्थानम् stands between Brahmā and Viṣṇu, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) interpret अग्निः as Śiva (अग्निशब्देन शंभुरुच्यते), whereas **Govindarāja** (_Bhūṣaṇa_) takes it literally as Fire (पावकस्य) within a Vedic group of seventeen deities.
+
+_____________
+
+**3.12.19–20 (Seventeen Vedic Sanctuaries)**
+
+**Rāma Varmā** (_Tilaka_) identifies धाता as the creator Prajāpati (कार्यप्रजापतिः) and विधाता as Viśvakarman (citing Kataka), while both _Tilaka_ and **Śivasahāya** (_Śiromaṇi_) note that गायत्री includes Sāvitrī and Sarasvatī by synecdoche (गायत्रीति सरस्वतीसावित्र्योरप्युपलक्षणम्). **Govindarāja** (_Bhūṣaṇa_) explains that these seventeen shrines installed by the sacrificing sage (यायजूकेन मुनिना पूजार्थं प्रतिष्ठिताः) correspond to the seventeen ritual syllables of the _yājyā-anuvākyā_ call (आश्रावयादिचतुर्दशाक्षरदेवताः).
+
+_____________
+
+**3.12.21–22 (abhiniṣpatat & Agastya’s Emergence)**
+
+All three commentators flag अभिनिष्पतत् as an _ārṣa_ omission of the past augment (अड्भाव आर्षः) signifying that Agastya rose and came forward to welcome Rāma (अभ्युत्थानं कृतवानित्यर्थः), walking at the head of the hermitage sages (मुनीनामग्रतः स्थितमिति शेषः).
+
+_____________
+
+**3.12.23–24 (audāryeṇa & Clasping the Sage’s Feet)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss औदार्येण as preeminent splendour born of austerity (तेजोविशेषजनितौन्नत्येन), by which Rāma recognizes Agastya and clasps his feet as he approaches (आपतत आश्रमादागच्छतस्तस्य ऋषेः पादौ जग्राह).
+
+_____________
+
+**3.12.25–26 (Non-Redundancy of rāmaḥ & pratigṛhya)**
+
+Addressing the twice-stated रामः in 3.12.25, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that there is no tautology because one is etymological (“he who delights all,” आरामः सर्वाभिरामदाता) and the other conventional (योगरूढिभ्यां रामशब्दस्यापुनरुक्तत्वम्). _Tilaka_ glosses प्रतिगृह्य as raising Rāma up from his prostration and embracing him (उत्थापनपूर्वकमालिङ्ग्येत्यर्थः).
+
+_____________
+
+**3.12.27–28 (agniṃ hutvā & prathamaṃ copaviśya)**
+
+All three commentators explain अग्निं हुत्वा as performing the _Vaiśvadeva_ oblation (वैश्वदेवहोमं कृत्वेत्यर्थः) before serving forest roots and fruits (कन्दमूलादिकं, _Bhūṣaṇa_). On प्रथमं, **Rāma Varmā** (_Tilaka_) prefers construing it with भोजनं ददौ, observing that out of eagerness to serve his guests, Agastya did not sit until they had dined (अतिथिपूजाव्यग्रतया तावत्पर्यन्तमनुपवेशनमिति).
+
+_____________
+
+**3.12.29 (Foreshadowing Sītā’s Hospitality to Rāvaṇa)**
+
+Since Rāma is already called धर्मकोविदम्, **Govindarāja** (_Bhūṣaṇa_) remarks that this maxim on guest-worship is really addressed to Sītā through Rāma (अयं रामव्याजेन सीतां प्रत्युपदेशः), foreshadowing why she will later feel duty-bound to receive the mendicant Rāvaṇa (अत एव सीता रावणं सत्करिष्यति).
+
+_____________
+
+**3.12.30–31 (rājā sarvasya lokasya & Supreme Lordship)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) observe that राजा सर्वस्य लोकस्य intimates Rāma’s supreme lordship over the three worlds (सर्वलोकनियन्तृत्वेनेश्वरत्वं गर्भितम्, _Tilaka_; भुवनत्रयस्य राजा स्वामी, _Bhūṣaṇa_), rendering him पूजनीयः through ritual acts (कर्मभिराराध्यः) and मान्यः through yogic contemplation (मन्तव्यः योगिभिः).
+
+_____________
+
+**3.12.32 (How Viṣṇu’s Bow Reached Agastya)**
+
+Resolving how Viṣṇu’s bow (वैष्णवम्) appears here after Rāma had already taken it from Paraśurāma in the Bālakāṇḍa and handed it to Varuṇa, **Rāma Varmā** (_Tilaka_, citing Kataka) and **Govindarāja** (_Bhūṣaṇa_) explain that Varuṇa placed that very bow in Indra’s and Agastya’s keeping so it could be restored to Rāma for the slaying of Khara (वरुणः खरवधाद्यर्थमपेक्षित इति अगस्त्यहस्ते निक्षिप्तवानित्यवगम्यते).
+
+_____________
+
+**3.12.33 (brahmadattaḥ & Indra’s Quivers)**
+
+**Rāma Varmā** (_Tilaka_) notes that ब्रह्मदत्तः signifies both “given by Brahmā” and the proper name of the arrow (ब्रह्मणा दत्तो ब्रह्मदत्तस्तदाख्यश्च), while **Śivasahāya** (_Śiromaṇi_) glosses अमोघः as never failing of its mark (फलरहितप्रहारशून्यः).
+
+_____________
+
+**3.12.34 (mahārājatakośaḥ & The Golden Sword)**
+
+All three commentators explain महारजतम् (and its derivative महाराजत-) as gold (महारजतं सुवर्णम्, _Tilaka_, _Bhūṣaṇa_; सुवर्णनिर्मितपट्टिविशेषेण युक्तः कोशो यस्य, _Śiromaṇi_). To avoid redundancy with हेमविभूषितः, **Govindarāja** (_Bhūṣaṇa_) specifies that कोशः refers to the scabbard (असिपिधानं), whereas **Rāma Varmā** (_Tilaka_) notes that हेमविभूषितः refers to the sword’s hilt (मुष्टिदेशे).
+
+_____________
+
+**3.12.35 (ājahāra śriyaṃ dīptām)**
+
+**Śivasahāya** (_Śiromaṇi_) explains that with this bow in battle (संख्ये संग्रामे) Viṣṇu of yore slew the great Asuras and recovered the radiant royal fortune (श्रियं) of the gods (दिवौकसां देवानां).
+
+_____________
+
+**3.12.36–37 (vajraṃ vajradharo yathā & varāyudham)**
+
+On the simile of Indra receiving the thunderbolt, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) highlight the suggestive implication (_dhvani_): Rāma is simply reclaiming his own divine weapons as Viṣṇu (तदीयमेव त्वया स्वीक्रियत इति ध्वनितम्, _Tilaka_; तावकं त्वमेव गृहाणेत्युक्तम्, _Bhūṣaṇa_), and _Tilaka_ glosses वरायुधम् as the weaponry of Vara, i.e., Viṣṇu (वरस्य विष्णोरायुधं च).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

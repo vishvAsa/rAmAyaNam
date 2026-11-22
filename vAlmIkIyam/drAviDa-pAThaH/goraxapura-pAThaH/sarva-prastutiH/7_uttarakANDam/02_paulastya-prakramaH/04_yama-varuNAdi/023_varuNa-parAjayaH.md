@@ -713,6 +713,170 @@ Rāvaṇa beheld there that supreme fire-stick—the very mother—of the lord o
 
 Depending upon which subsist the supreme foam-drinking sages (_yaṃ samāśritya jīvanti phenapāḥ paramarṣayaḥ_), and wherein arose both nectar (_amṛtam_) and the _svadhā_-offering of the _svadhā_-eating ancestors (_svadhā ca svadha-bhojinām_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.23.1–3 (Reunion After the Battle with Yama)**
+
+Transitioning from Rāvaṇa’s harrowing clash with Yama in Sarga 22, **Śivasahāya** (_Śiromaṇi_) introduces this sarga as the narrative of events following Rāvaṇa’s departure from Yama’s realm (यमपुराद्गमनानन्तरकालिकं वृत्तान्तमाह). On 7.23.2, **Rāma Varmā** (_Tilaka_) explains the rākṣasas’ astonishment upon beholding their blood-drenched king (विस्मयम् in the Parimal text): ‘How could he possibly escape alive even from Yama?’ (यमादपि मुक्त इति विस्मयः). **Govindarāja** (_Bhūṣaṇa_), who reads इष्टवत् (‘as one cherished’), captures their parallel relief—rejoicing that they had somehow been spared from Death himself (वयं यमादपि कथंचिन्मुक्ता इति हृष्टाः सन्तः). After congratulating him, Mārīca and his comrades reboard Puṣpaka.
+
+_____________
+
+**7.23.4–5 (Descent Through the Ocean to Bhogavatī)**
+
+Turning his campaign of universal conquest beneath the earth, Rāvaṇa plunges into the ocean on his way to Rasātala. Both **Rāma Varmā** and **Govindarāja** explain why he enters the sea en route to the netherworld: simply because it lies directly along the path (मार्गवशादिति शेषः), and both Rāma Varmā and **Śivasahāya** gloss अध्युष्टम् as ‘inhabited’ (अध्युषितम्) by Daityas and serpents. On 7.23.5, Rāma Varmā and Govindarāja identically locate Vāsuki’s capital Bhogavatī as ‘the city of the Nāgas situated in Pātālaloka beneath the ocean’ (समुद्रादधः पाताललोकवर्तिनी नागपुरी), explaining नागान्वशे कृत्वा as reducing the serpents into loyal vassals (स्वीयत्वेन स्थापयित्वा).
+
+_____________
+
+**7.23.6 (Challenging the Boon-Protected Nivātakavacas)**
+
+Reaching the jeweled citadel of Maṇimayī, Rāvaṇa confronts the formidable Daityas called the Nivātakavacas. All three commentators normalize the epic verb वसन् as अवसन्, with **Rāma Varmā** explicitly calling the omission of the temporal augment _ārṣa_ (वसन्नित्यडभाव आर्षः). Both Rāma Varmā and **Govindarāja** clarify the source of their epithet लब्धवराः: they had obtained their boons directly from Brahmā (ब्रह्मणः सकाशादिति भावः). Rāma Varmā incisively observes that this very fact—that both the Nivātakavacas and Rāvaṇa hold invincibility boons from the same Creator—foreshadows Brahmā’s imminent intervention to forge an alliance between them (अत एवाग्रे भगवता तैः सह रावणस्य सख्यकरणम्).
+
+_____________
+
+**7.23.7–9 (A Year-Long Deadlock of Titans)**
+
+Confronting Rāvaṇa’s host without flinching, the Nivātakavacas—renowned in epic lore as the invincible submarine Daityas later vanquished by Arjuna—revel in war (_yuddha-durmadāḥ_). **Śivasahāya** (_Śiromaṇi_) supplies the verb बभूवुः in 7.23.7 and glosses साग्रः संवत्सरः in 7.23.9 as ‘somewhat more than a full year’ (किंचिदधिकः संवत्सरः). He further clarifies क्षयः as ‘defeat or downfall’ (पराभवः), supplying नाभवत्: for over twelve months neither the rākṣasas nor the Dānavas could gain the slightest advantage, demonstrating the exact equivalence of their Brahmā-given invulnerability.
+
+_____________
+
+**7.23.10–11 (Brahmā’s Descent as Primordial Arbiter)**
+
+Because two recipients of his own boons cannot mutually destroy one another, the imperishable Creator (_avyayaḥ_, _trailokya-gatiḥ_) himself intervenes swiftly to prevent an endless cosmic attrition. On 7.23.11, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss the epithet वृद्धः not merely as aged, but as the primeval ancestor standing at the root of all gods and Asuras (अनादिवृद्धः । सर्वदेवासुरकूटस्थ इत्यर्थः), explaining why both warring parties instantly obey his mediation. Rāma Varmā glosses विदितार्थवत् as ‘bearing a clear and unmistakable purport’ (सुस्पष्टावगताभिधेयम्), while Śivasahāya renders it as ‘endowed with renowned, self-evident truth’ (प्रसिद्धार्थविशिष्टम्).
+
+_____________
+
+**7.23.12 (The Mutuality of Invincibility)**
+
+Brahmā resolves the stalemate through pure logic grounded in the cosmic order of boons. **Śivasahāya** unfolds the implicit parallel syntax of 7.23.12cd: just as Rāvaṇa cannot be overcome by gods or Asuras, so too the Nivātakavacas cannot be brought to ruin even by all the worlds joined with immortals and Dānavas (अमरदानवसहितैर्लोकैः सहिता भवन्तः क्षयं नेतुं न शक्याः इति शेषः). By publicly affirming the equal invincibility of both sides, the Creator spares the martial pride of both the Daityas and Ten-Neck, opening a graceful diplomatic path from mutual deadlock to solemn alliance.
+
+_____________
+
+**7.23.13–15 (The Fire-Witnessed Compact and Shared Riches)**
+
+Proposing peace, Brahmā declares an alliance agreeable to himself—both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply कर्तव्यत्वेन ममेति शेषः (‘it pleases me as the proper course’). On the proverb अविभक्ताश्च सर्वार्थाः सुहृदाम्, Rāma Varmā explains that all wealth, grain, and instruments of enjoyment—as well as victory, defeat, and honor—become common property among true friends (धनधान्यादिसमस्तभोगोपकरणपदार्था जयाजयाभिमानाश्च सुहृदामविभक्ताः साधारणगताः). **Śivasahāya** (_Śiromaṇi_) adds that such undivided fellowship removes the very root of enmity (सखित्वे सति युद्धकारणं नश्यति). Sealing this covenant with Agni as witness (_agnisākṣikam_), Rāvaṇa spends a contented year as their honored guest.
+
+_____________
+
+**7.23.16 (Learning a Hundred Asura Illusions)**
+
+During his year in Maṇimayī, Rāvaṇa gains far more than hospitality. Both **Rāma Varmā** and **Govindarāja** gloss उपधार्य as diligently practicing and mastering their sorceries—Rāma Varmā specifying ‘studying them as a pupil’ (शिष्यत्वेनाभ्यस्य), and Govindarāja identifying मायानाम् as the arts of the asura masters of illusion (असुरमायायोगिनाम्). **Śivasahāya** interprets the clause slightly differently: Rāvaṇa took a hundred of the illusion-wielding Nivātakavacas along as auxiliaries (मायानां निवातकवचानामेकं शतं साहाय्यार्थं गृहीतवान्) as he resumed his quest for Varuṇa’s capital. Notably, Baroda CE 7.23.14 reads शतमेकोनम् (‘ninety-nine illusions’).
+
+_____________
+
+**7.23.17–18 (Aśmanagara and the Slaying of Vidyujjihva)**
+
+Continuing through Rasātala, Rāvaṇa storms the stone-fortress Aśmanagara held by the Kālakeya Dānavas. Among their ranks fights Vidyujjihva, husband of Rāvaṇa’s own sister Śūrpaṇakhā—whose death here sows the seed of Sarga 24 and ultimately of Śūrpaṇakhā’s settlement in the Daṇḍaka forest. On 7.23.18c, **Rāma Varmā** explicitly clarifies the epic kinship usage of श्यालम्: although classical Sanskrit restricts _śyāla_ to a wife’s brother, here it unmistakably denotes a sister’s husband (श्यालो भगिनीपतिः). **Śivasahāya** construes verses 17–19 as a single syntactic sequence narrating the lightning conquest of the Kālakeyas.
+
+_____________
+
+**7.23.19 (Why Rāvaṇa Slew His Own Brother-in-Law)**
+
+Explaining the startling fact that Rāvaṇa cut down his own sister’s husband, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) identify the immediate provocation (श्यालस्य वधे निमित्तमाह): out of savage ferocity, Vidyujjihva was literally licking up and devouring Rāvaṇa’s own rākṣasa soldiers on the battlefield (नृशंसत्वाद्रावणीयान् राक्षसान् जिह्वया संलिहन्तमास्वादयन्तम् । भक्षयन्तमिति यावत्). In a single _muhūrta_ Rāvaṇa annihilates him along with four hundred Kālakeyas—a figure notably smaller than the fourteen thousand Kālakeyas Śūrpaṇakhā will lament in 7.24.26.
+
+_____________
+
+**7.23.20–22 (Varuṇa’s Citadel and the Celestial Cow Surabhi)**
+
+Approaching Varuṇa’s Kailāsa-bright palace, Rāvaṇa encounters Surabhi, the primordial mother of cattle, streaming milk without cease. All three commentators supply समभवत् (‘arose’) in 7.23.21 to complete the origin of the Sea of Milk (_Kṣīroda_). On the striking metaphor गोवृषेन्द्रवरारणिम् in 7.23.22, **Rāma Varmā** and **Govindarāja** identically gloss ‘the supreme fire-stick—that is, the direct mother—of the great Lord of Bulls’ (गोवृषेन्द्रस्य महावृषभस्य वरारणिं साक्षान्मातरम्), with **Śivasahāya** (_Śiromaṇi_) likewise glossing वरारणिम् as ‘mother’ (मातरम्) and construing 7.23.21–24ab as a single grand sentence.
+
+_____________
+
+**7.23.23–24 (Nectar, Svadhā, and Rāvaṇa’s Reverence)**
+
+Both **Rāma Varmā** and **Govindarāja** clarify that the relative pronouns in 7.23.22c–23 (यस्मात्, यम्, यत्र) refer to the Milk Ocean generated by Surabhi, whence came the moon, the foam sustaining the _Phenapa_ ascetics, divine _amṛta_, and ancestral _svadhā_. Both commentators explicitly note the epic shortening in स्वधभोजिनाम् (आर्षो ह्रस्वः), defining _svadhā_ as the oblation consumed by the forefathers just as _amṛta_ is by the gods (स्वधा पितृभक्ष्यं कव्यम् । देवानाममृतवत्). Even the hubristic Rāvaṇa performs respectful circumambulation (_pradakṣiṇa_) around Surabhi before storming Varuṇa’s palace.
+
+_____________
+
+**7.23.25 (Varuṇa’s Cascade-Ringed Palace)**
+
+Carrying forward the syntax from 7.23.24, **Śivasahāya** (_Śiromaṇi_) construes Rāvaṇa’s circumambulation of Surabhi directly into his entry of Varuṇa’s heavily guarded residence. All three commentators gloss धाराशताकीर्णम् as ‘abounding in hundreds of water-streams’ (जलधाराशतैराकीर्णम्), a poetic hallmark of the Water Lord’s subterranean paradise, which gleams spotless like an autumn cloud (_śāradābhra-nibham_). **Rāma Varmā** (_Tilaka_) further glosses नित्यप्रहृष्टम् as ‘constantly inhabited by joyous folk’ (प्रहृष्टजनम्), sharpening the abrupt intrusion of Rāvaṇa’s martial violence.
+
+_____________
+
+**7.23.26–27 (The Imperious Challenge to Varuṇa)**
+
+After cutting down Varuṇa’s gate-commanders despite their retaliatory blows (तैर्वरुणबलाध्यक्षैस्ताडितस्तान् समरे हत्वाभिताड्य, **Rāma Varmā**), Rāvaṇa delivers his trademark ultimatum: fight or submit. **Śivasahāya** glosses राजा शीघ्रं निवेद्यताम् as ‘let King Varuṇa be apprised of my arrival’ (मदागमनं बोध्यताम्). Both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) unpack the conditional assurance embedded in 7.23.27cd: ‘Either grant battle, or declare with joined palms “I am conquered”—if so, you have nothing to fear’ (निर्जितोऽस्मीति वद । एवं चेत्ते भयं नास्तीत्यब्रवीदिति राजा निवेद्यतामित्यन्वयः).
+
+_____________
+
+**7.23.28–30 (Gau, Puṣkara, and the Sons of Varuṇa Sally Forth)**
+
+Answering the challenge in Varuṇa’s absence, his sons and grandsons ride forth in sun-bright, wish-going chariots alongside Gau and Puṣkara. Crucially, all three commentators—**Rāma Varmā**, **Śivasahāya**, and **Govindarāja**—identify Gau and Puṣkara not merely as unnamed kinsmen, but specifically as the two military commanders of Varuṇa’s sons and grandsons (गौश्च पुष्करश्च पुत्राणां पौत्राणां च बलाध्यक्षौ). Śivasahāya supplies प्राप्तुः (‘sallied forth’) in 7.23.29, noting that गुणैः denotes heroic virtues such as courage (शौर्यादिभिः), launching a hair-raising clash.
+
+_____________
+
+**7.23.31–33 (Tactical Withdrawal and Ascent to the Sky)**
+
+On the rapid collapse of Varuṇa’s ground host in 7.23.31–32, **Śivasahāya** (_Śiromaṇi_) supplies निपातितम् after समीक्ष्य स्वबलम्—seeing their troops cut down under an arrow-net, Varuṇa’s sons disengage. **Rāma Varmā** (_Tilaka_) illuminates their brilliant tactical shift: at first they fought Rāvaṇa from the ground (प्रथमं महीतलगता एव रावणेन युद्धमकुर्वन्), but seeing their army felled by Rāvaṇa’s airborne ministers, they judged ground combat ill-matched against an aerial foe (तादृशयुद्धस्याननुरूपतां निश्चाय), abandoned the earth, and rose in swift chariots into the heavens to match Puṣpaka.
+
+_____________
+
+**7.23.34–35 (An Aerial Battle Worthy of Gods and Dānavas)**
+
+Once Varuṇa’s sons gain the heavens, the fighting shifts dramatically in their favor. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss तुल्यं स्थानम् as ‘equal footing in the form of the sky’ (स्थानमाकाशरूपम्), explaining आकाशयुद्धम् as a _saptamī-tatpuruṣa_ (‘combat in the sky’). Matching the primordial myth of the Deva–Dānava war, the young sea-gods actually force the ten-headed conqueror to turn his face away (_vimukhīkṛtya_) with fire-bright shafts, raising manifold battle-cries—which **Śivasahāya** glosses specifically as lion-roars (विविधान् रवान् सिंहनादान् विनेदुः).
+
+_____________
+
+**7.23.36 (Mahodara’s Fearless Intervention)**
+
+Vālmīki’s combat choreography here preserves both Rāvaṇa’s formidable reputation and the dignity of Varuṇa’s offspring: Rāvaṇa is momentarily checked, triggering the fierce loyalty of his counselor Mahodara. **Śivasahāya** paraphrases the scene directly—beholding his king assailed (राजानं रावणं धर्षितं वीक्ष्य), Mahodara casts off all dread of death (मृत्युभयं त्यक्त्वा) and scans the sky thirsting for battle (युद्धाकाङ्क्षी सन् व्यलोकयत्). Mahodara’s selfless charge prepares his devastating mace-assault against the celestial chariots in the next spread.
+
+_____________
+
+**7.23.37–39 (Mahodara’s Devastating Mace-Charge)**
+
+Charging into the aerial fray, Mahodara wields his heavy mace to shatter the mobility of Varuṇa’s sons. On 7.23.37, where the Parimal text prints वारणाः while Govindarāja preserves दारुणाः, **Śivasahāya** (_Śiromaṇi_) clarifies that Mahodara’s mace struck down Varuṇa’s wind-swift steeds and warriors alike (ते वारणाः हया योधाश्च गदया हता बभूवुः), sending horses, chariots, and charioteers tumbling earthward in 7.23.39. Beholding the sea-princes stripped of their cars (_virathān_), Mahodara unleashes a thunderous victory roar—a premature triumph that immediately meets an awe-inspiring divine riposte.
+
+_____________
+
+**7.23.40 (Poised in Midair by Innate Divinity)**
+
+Losing their chariots in the midst of the sky would doom ordinary mortals, yet Varuṇa’s sons do not falter for a heartbeat. Explaining how they remain suspended effortlessly in the heavens (आकाशे विष्ठिताः ... स्वप्रभावान्न विव्यथुः), **Rāma Varmā** (_Tilaka_) glosses स्वप्रभावात् as ‘through the inherent majesty arising from their innate godhood, they stood firm in the sky itself and suffered no dismay’ (सहजदेवतात्वप्रयुक्तवैभवेनाकाश एव स्थिता न विव्यथुश्च व्यथिताश्च नाभवन्). **Govindarāja** (_Bhūṣaṇa_) concurs concisely (देवतात्वप्रभावात्), as does **Śivasahāya**, highlighting the supernatural grace of Varuṇa’s lineage.
+
+_____________
+
+**7.23.41–42 (The Counterattack Like Storm-Clouds on a Mountain)**
+
+Undeterred by Mahodara’s roar, Varuṇa’s chariotless sons string their bows (सज्जानि / सज्यानि), pierce Mahodara to neutralize him, and converge together upon Rāvaṇa himself. On 7.23.41–42, **Śivasahāya** traces their relentless volley (संक्रुद्धाः वारुणाः सायकैर्दारयन्ति स्म), which Vālmīki captures in a quintessential epic simile (_upamā_): their thunderbolt-like shafts beat upon Ten-Neck like monsoon clouds lashing a towering mountain (मेघा इव महागिरिम्). The image subtly honors both sides—the sea-princes’ tempestuous fury and Rāvaṇa’s mountainous endurance before his wrath erupts.
+
+_____________
+
+**7.23.43–45 (Rāvaṇa’s Aerial Barrage from Puṣpaka)**
+
+Stung by the sea-princes’ arrows, Rāvaṇa unleashes his full fury like the eschatological _kālāgni_ (‘fire of world-destruction’). On 7.23.44–45, **Rāma Varmā** (_Tilaka_) clarifies the instrumental तेनैव as ‘by that very arrow-shower discharged by Rāvaṇa’ (रावणप्रयुक्तेन शरवर्षेण), while **Śivasahāya** (_Śiromaṇi_) construes the catalogue of weapons—maces, crescent-arrows, spears, javelins, _śataghnī_s, and lances—as a single syntactic unit, explaining विष्ठितः as Rāvaṇa hovering above them in the aerial car Puṣpaka (पुष्पके संस्थितो दशग्रीवः ... तेषां वारुणानामुपरि पातयामास).
+
+_____________
+
+**7.23.46 (Sixty-Year-Old Elephants Sunk in Deep Mire)**
+
+Driven from the skies onto foot (_padātayaḥ_), Varuṇa’s sons stagger under the overwhelming rain of missiles. Vālmīki compares them to majestic sixty-year-old tuskers trapped in deep mud (_mahāpaṅkam_). Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss the compound षष्टिहायनाः literally as ‘sixty years old’ (षष्टिवर्षाः / षष्टिहायनं परिमाणं येषां ते)—the traditional prime of a bull elephant’s strength and bulk, rendering their helplessness in the mire all the more poignant. **Śivasahāya** explicitly highlights the simile (तत्र दृष्टान्तः महापङ्कमासाद्य कुञ्जरा इव).
+
+_____________
+
+**7.23.47–48 (The Cloud-Roar Simile Inverted)**
+
+Having just likened Varuṇa’s sons to storm-clouds in 7.23.42, Vālmīki now transfers the monsoon-cloud imagery to the victorious Rāvaṇa: beholding Varuṇa’s sons (सुतान् वरुणस्येति and वारुणान् वरुणपुत्रान्, **Rāma Varmā**) faltering, Rāvaṇa thunders like a vast raincloud (_ambudhara_) and rains down missiles like torrential cloudbursts (_dhārāpātair ivāmbudaḥ_). **Śivasahāya** glosses नानाप्रहरणोपेतैः as ‘laden with manifold weapons ready at hand’ (उपस्थितानेकप्रहरणैः). The ironic echo of water-and-cloud imagery underscores Rāvaṇa’s triumph inside the very kingdom of the Lord of Waters.
+
+_____________
+
+**7.23.49–50 (Retreat to the Palace and the Minister’s Answer)**
+
+On 7.23.49, **Śivasahāya** (_Śiromaṇi_) traces the collapse of the Vāruṇa host—fallen to earth and turned back from combat (सङ्ग्रामाद्रहिताः), they are hurried indoors by their guards while Rāvaṇa again demands that Varuṇa be summoned. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss वारुणः in 7.23.50 as a possessive derivative meaning ‘belonging to Varuṇa’ (वरुणस्यायम्), clarifying that this minister Prahasta (named Prahāsa in Parimal/Śiromaṇi and Prabhāsa in Baroda CE) is Varuṇa’s own counselor, not Rāvaṇa’s Laṅkā general.
+
+_____________
+
+**7.23.51 (Diplomacy in Varuṇa’s Absence)**
+
+With quiet dignity, the Water Lord’s minister deflects further bloodshed without surrendering Varuṇa’s personal honor: the sovereign is away in Brahmaloka enjoying celestial Gandharva music, while the princes on hand have already acknowledged defeat. Both **Rāma Varmā** and **Śivasahāya** supply न किमपि (‘nothing at all’) to complete the rhetorical question तत्किं तव वृथा वीर परिश्रम्य गते नृपे—‘once the king has departed, what gain can you win by further useless exertion?’ The polite acknowledgment of Rāvaṇa’s victory over the princes satisfies Ten-Neck’s vanity.
+
+_____________
+
+**7.23.52–53 (Proclaiming His Name and Returning Toward Laṅkā)**
+
+Just as he proclaimed his name when departing Yama’s city at the close of Sarga 22, Rāvaṇa broadcasts his identity (_nāma viśrāvya_) and lets loose a triumphant roar before exiting Varuṇa’s submarine realm. **Śivasahāya** paraphrases 7.23.52–53 cleanly: hearing the minister’s speech, Rāvaṇa emerges from Varuṇa’s palace, retraces his exact route back to the sky (_nabhastala-gataḥ_), and heads homeward toward Laṅkā—a return journey that in Sarga 24 will bring the fateful curse of the abducted women upon his head.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

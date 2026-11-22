@@ -83,6 +83,14 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 
 “Hearing that speech of the wise Kuśanābha (_tasya tad vacanaṃ śrutvā kuśanābhasya dhīmataḥ_), the hundred maidens touched his feet with their heads and spoke thus (_śirobhiś caraṇau spṛṣṭvā kanyāśatam abhāṣata_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.1–2 (śirobhiś caraṇau spṛṣṭvā & aśubhaṃ mārgam)**
+
+Recovering their composure before their father, the hundred princesses bow with their heads to Kuśanābha’s feet (_pādayoḥ praṇamya_) and report Vāyu’s assault. All three commentators explain the present-tense verbs _icchati_ and _pratyavekṣate_ as immediate-past usages (_vartamānasāmīpye bhūte laṭ_), and gloss _aśubhaṃ mārgam_ as the path of violent coercion (_balātkārarūpam_, **Rāma Varmā [_Tilaka_]**, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -177,6 +185,14 @@ On hearing that sentence of scholarly Kushanaabha those hundred
 
 “‘[We told him:] “We have a father living—may auspiciousness attend you (_pitṛmatyaḥ sma bhadraṃ te_)! We do not stand at our own independent disposal (_svacchande na vayaṃ sthitāḥ_); ask our father for our hand, if he will bestow us upon you (_pitaraṃ no vṛṇīṣva tvaṃ yadi no dāsyate tava_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.3 (pitṛmatyaḥ sma & svacchande na vayaṃ sthitāḥ)**
+
+Recounting their respectful defense of _dharma_, the maidens explain why they declined Vāyu’s solicitation: being _pitṛmatyaḥ_ (“under the guardianship of a living father,” _pitradhīnāḥ_, **Tilaka**), they have no independent authority regarding marriage (_patisvīkāraviṣaye svātantryeṇa na vartāmahe_). Hence they properly directed Vāyu to petition their father (_pitaraṃ no vṛṇīṣva_), with _tava_ standing for the dative _tubhyam_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -238,6 +254,14 @@ Since then, because the Wind-God bent / The damsels' forms for punishment,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Even as we spoke thus, all of us were sorely struck down by Vāyu (_evaṃ bruvantyaḥ sarvāḥ sma vāyunābhihatā bhṛśam_), whose mind was bent upon sin and who refused to heed our words (_tena pāpānubandhena vacanaṃ na pratīcchatā_).’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.4–5 (pāpānubandhena & kanyāśatam anuttamam)**
+
+Because Vāyu’s mind remained wedded to sin (_adharmabaddhacittena_, **Tilaka**; _pāpānusāriṇā_, **Govindarāja**), he rejected their counsel and crippled their limbs. Why does v. 5 call the disfigured maidens _anuttamam_ (“matchless”)? **Govindarāja** answers: “because of their peerless forbearance” (_kṣamāvattvāt_).
 </details>
 </details>
 
@@ -341,6 +365,14 @@ Extolling his daughters’ unanimous forbearance as the supreme ornament of woma
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘You have shown forbearance, O daughters, and accomplished the supreme duty of the forgiving (_kṣāntaṃ kṣamāvatāṃ putryaḥ kartavyaṃ sumahat kṛtam_); uniting in unanimous accord, you have safeguarded the honour of my royal house (_aikamatyam upāgamya kulaṃ cāvekṣitaṃ mama_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.6–7 (Double Conquest of Kāma & Krodha)**
+
+All three commentators admire how v. 6 praises the princesses’ twofold self-mastery over desire and wrath (**Śiromaṇi**): by refraining from cursing Vāyu when he broke their limbs, they conquered wrath (_gātrabhaṅgotthakrodhavegasahanam_, **Tilaka**; _niṣkrodhatvam_, **Govindarāja**), and by unanimously rejecting a celestial suitor (_aikamatyam upāgamya_), they conquered desire (_kāmavegasahanam_) and upheld their father’s honour. In v. 7d, **Tilaka** and **Govindarāja** take _tridaśeṣu_ as objective (“forbearance toward gods”), whereas **Śiromaṇi** takes it as locative (“rare even among the gods”).
 </details>
 </details>
 
@@ -468,6 +500,14 @@ _________________
 
 “‘such forbearance as belongs to all of you without exception, O daughters (_yādṛśī vaḥ kṣamā putryaḥ sarvāsām aviśeṣataḥ_)! Forbearance is charity, forbearance is truth, and forbearance is sacrifice, O dear daughters (_kṣamā dānaṃ kṣamā satyaṃ kṣamā yajñāś ca putrikāḥ_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.8–9ab (The Panegyric to Kṣamā)**
+
+Forgiveness is identified with charity, truth, sacrifice, glory, and _dharma_ because it yields the fruit of all those virtues (_dānādi-sakaladharma-phalā kṣamā_, **Tilaka**, **Govindarāja**), and the universe rests upon forbearance (_kṣamāyām_, with **Govindarāja** noting the pun on _kṣamā_, ‘the earth’).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -528,6 +568,14 @@ _________________
 **9:** “‘forbearance is glory, forbearance is _dharma_, and upon forbearance the entire universe rests established (_kṣamā yaśaḥ kṣamā dharmaḥ kṣamāyāṃ viṣṭhitaṃ jagat_)!’ Having thus comforted and dismissed his daughters, O Kākutstha, the king of godlike valor (_visṛjya kanyāḥ kākutstha rājā tridaśavikramaḥ_),
 
 **10:** “skilled in counsel, deliberated together with his ministers concerning their bestowal in marriage (_mantrajño mantrayām āsa pradānaṃ saha mantribhiḥ_)—how they should be given at the proper place and time to a bridegroom of worthy lineage (_deśe kāle ca kartavyaṃ sadṛśe pratipādanam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.9cd–11 (Deliberation on Marriage & Sage Cūlī’s Brāhmaṃ Tapaḥ)**
+
+While Kuśanābha deliberates with his ministers on finding a worthy groom (_sadṛśe pātre_), the celibate sage Cūlī (_ūrdhvaretāḥ_) practices _brāhmaṃ tapaḥ_—one-pointed meditation on Brahman (_brahmaviṣayaṃ cittaikāgryam_, **Tilaka**) or Vedic austerity (**Govindarāja**, **Śiromaṇi**).
 </details>
 </details>
 
@@ -642,6 +690,14 @@ name, the daughter of Urmila. [1-33-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “As that sage was practicing austerity there, a Gandharva maiden—may auspiciousness attend you (_bhadraṃ te_)!—named Somadā, the daughter of Ūrmilā, reverently waited upon him (_tapasyantam ṛṣiṃ tatra gandharvī paryupāsate somadā nāma ūrmilātanayā tadā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.12–14 (tapasyantam & kālayogena — Pure Ascetic Service)**
+
+On Somadā’s attendance upon Cūlī, **Śiromaṇi** remarks that _tapasyantam_ and _uvāsa kāle_ delicately signify that she approached the sage only during his daytime rites and never at hours of rest (_śayanādisamaye tatsamīpe tasyāgamanābhāvaḥ sūcitaḥ_). **Tilaka** adds that _kālayogena_ (“when her service ripened into merit”) highlights the pure, passionless yoga of both the sage and the maiden (_divyayoginīyoginor akalmaṣatapaḥpravṛttiḥ_).
 </details>
 </details>
 
@@ -795,6 +851,14 @@ name, the daughter of Urmila. [1-33-12]
 
 “Perceiving that the sage was well pleased, the Gandharva maiden, skilled in speech and filled with supreme joy (_parituṣṭaṃ muniṃ jñātvā gandharvī paramaprītā vākyajñā_), spoke in sweet tones to that master of eloquence (_madhurasvaram uvāca vākyakovidam_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.15–16 (brahmabhūtaḥ & brāhmeṇa tapasā yuktam)**
+
+Extolling Cūlī as radiant with Vedic luster (_brāhmyā lakṣmyā brahmavarcasena_) and merged in realization of Brahman (_brahmabhūto brahmātmabhāvanayā_, **Tilaka**)—capable, like Brahmā, of creating by sheer will (**Śiromaṇi**)—Somadā petitions for a righteous son.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -893,6 +957,14 @@ name, the daughter of Urmila. [1-33-12]
 
 “‘I have no husband—may auspiciousness attend you!—nor am I to be the wife of anyone (_apatiś cāsmi bhadraṃ te bhāryā cāsmi na kasyacit_); therefore, by your Brāhmaic yoga, you ought to bestow a son upon me who have sought refuge in you (_brāhmeṇopagatāyāś ca dātum arhasi me sutam_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.17 (apatiś cāsmi bhāryā cāsmi na kasyacit)**
+
+**Govindarāja** notes that since a widow is also _apatiḥ_, the second clause clarifies she has never been wed; **Tilaka** and **Śiromaṇi** explain that _apatiś cāsmi_ denotes the present while _bhāryā cāsmi na kasyacit_ uses the present for the future (“nor shall I ever wed,” _naiṣṭhikabrahmacāriṇītvam_), asking Cūlī for a mind-born son (_mānasaputraḥ_) by spiritual yoga (_brāhmeṇa tapomahimnā_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -954,6 +1026,14 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 “Well pleased with her, the Brahmarṣi bestowed upon her a matchless son endowed with Brāhmaic power (_tasyāḥ prasanno brahmarṣir dadau brāhmam anuttamam_)—the mind-born son of Cūlin, renowned by the name of Brahmadatta (_brahmadatta iti khyātaṃ mānasaṃ cūlinaḥ sutam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.18 (mānasaṃ cūlinaḥ sutam — Etymology of Brahmadatta)**
+
+Granting Somadā’s prayer, Sage Cūlī generates a mind-born son by sheer meditative resolve (_mānasasaṅkalpamātreṇa siddham_, **Śiromaṇi**; _manaḥsaṅkalpajam_, **Govindarāja**). Why is he named _Brahmadatta_? **Tilaka** and **Śiromaṇi** explain it as “bestowed by a brāhmaṇa sage” (_brāhmaṇadattatvād brahmadattaḥ_), while **Govindarāja** derives it as “given through _brahman_, i.e., ascetic yoga” (_brahmaṇā tapoyogena dattaḥ_). **Tilaka** also notes that the sage bears two valid stem-forms in Sanskrit: _Cūlī_ (v. 11) and _Cūlin_ (_cūlinaḥ_, v. 18), just like _phalī / phalin_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1001,6 +1081,14 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 
 “That King Brahmadatta then dwelt in the royal city of Kāmpilyā (_sa rājā brahmadattas tu purīm adhyavasat tadā kāmpilyām_) with supreme splendor, even as Indra the king of the gods dwells in heaven (_parayā lakṣmyā devarājo yathā divam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.19 (sa rājā brahmadattaḥ — Kṣatriya Status & Kāmpilyā)**
+
+How could a Brahmarṣi’s mind-born son rule as a kṣatriya king (_rājā_) and wed King Kuśanābha’s daughters? All three commentators explain that because his mother, the Gandharvī Somadā, belonged to the royal kṣatriya order (_gandharvyāḥ somadāyāḥ kṣatriyatvāt_, **Tilaka**; _kṣatrajatvāt_, **Govindarāja**), Brahmadatta inherited royal kṣatriya status and ruled over the city of Kāmpilyā (founded by King Kampilya).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1047,6 +1135,14 @@ The word 'cuuli' also read as Cuulina, another name for this sage
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then the supremely righteous King Kuśanābha formed the resolve, O Kākutstha (_sa buddhiṃ kṛtavān rājā kuśanābhaḥ sudhārmikaḥ kākutstha_), to bestow his hundred daughters upon Brahmadatta (_brahmadattāya dātuṃ kanyāśataṃ tadā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.20–22 (yathākramaṃ pāṇiṃ jagrāha)**
+
+Recognizing Brahmadatta as the ideal match, Kuśanābha summons him from Kāmpilyā and gives him all hundred princesses, whose hands Brahmadatta clasps in due order of seniority (_jyeṣṭhādikramam anatikramya_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1217,6 +1313,14 @@ The moment Brahmadatta’s hand touches theirs in wedlock, the hundred princesse
 
 “The very instant their hands were touched by him (_spṛṣṭamātre tadā pāṇau_), those hundred maidens were freed from their crookedness and cured of all feverish anguish (_vikubjā vigatajvarāḥ_), and shone forth endowed with supreme loveliness (_yuktaṃ paramayā lakṣmyā babhau kanyāśataṃ tadā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.23 (spṛṣṭamātre tadā pāṇau vikubjāḥ — The Healing Touch)**
+
+The moment Brahmadatta touches their hands in the _pāṇigrahaṇa_ rite (with singular _pāṇau_ used collectively for the class, _jātyabhiprāyeṇaikavacanam_, **Śiromaṇi**, **Govindarāja**), Vāyu’s curse is broken and the hundred princesses stand straight, freed from feverish grief (_vigatajvarāḥ_). **Tilaka** explains why his touch healed them: “Because the king was endowed with the ascetic energy of Brahman (_brāhmatapoyuktatvāt_), such spiritual power resided in his touch.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1368,14 @@ The moment Brahmadatta’s hand touches theirs in wedlock, the hundred princesse
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Beholding them released from the affliction of Vāyu (_sa dṛṣṭvā vāyunā muktāḥ_), King Kuśanābha was filled with supreme delight and experienced joy again and again (_kuśanābho mahīpatiḥ babhūva paramaprīto harṣaṃ lebhe punaḥ punaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.24–25 (vāyunā muktāḥ & Departure for Kāmpilyā)**
+
+Beholding his daughters released from Vāyu’s deformity (**Śiromaṇi**; **Tilaka** notes the variant _bhagnāḥ_, “formerly bent crooked”), Kuśanābha rejoices repeatedly and dispatches the newly wedded king to Kāmpilyā with his brides and royal preceptors.
 </details>
 </details>
 
@@ -1391,6 +1503,14 @@ kriyaam* = worthwhile deed of son; in getting such daughter-in-laws;
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And the Gandharvī Somadā too, beholding her son and the marriage worthy of her son (_somadāpi sutaṃ dṛṣṭvā putrasya sadṛśīṃ kriyām_), welcomed those daughters-in-law in due order (_yathānyāyaṃ ca gandharvī snuṣās tāḥ pratyanandata_), fondly caressing those princesses again and again and praising King Kuśanābha (_spṛṣṭvā spṛṣṭvā ca tāḥ kanyāḥ kuśanābhaṃ praśasya ca_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33.26 (kuśanābhaṃ praśasya ca — Somadā’s Threefold Praise)**
+
+Welcoming her daughters-in-law in order of seniority (_yathānyāyam_) and caressing them (_spṛṣṭvā spṛṣṭvā_), Somadā praises Kuśanābha. **Tilaka** articulates her threefold acclaim: “Wondrous is the fortitude of these maidens who spurned even a god; blessed is the king who has such daughters; and fortunate am I to gain such daughters-in-law! Thus this episode demonstrates the twin glory of forbearance and penance (_kṣamāmāhātmyaṃ tapomāhātmyaṃ ca darśitam_).”
 </details>
 </details>
 

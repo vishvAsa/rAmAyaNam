@@ -92,6 +92,14 @@ especially when he offers a bride... thereby oh, great sage, let all be informed
 
 **2:** “For at the time of bestowing a daughter in marriage, O best of sages, one born of a noble house must declare his lineage in its entirety without omission (_kulaṃ niravaśeṣataḥ vaktavyaṃ kulajātena_); hear that lineage of ours, O great-minded sage!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.1–2 (Why Janaka Recites His Own Genealogy)**
+
+Whereas Daśaratha entrusted the proclamation of the groom’s dynasty to Vasiṣṭha, why does King Janaka recite the Videha genealogy himself instead of delegating it to Śatānanda? **Rāma Varmā (_Tilaka_)** explains that as the father of the bride (_kanyāpitṛtvāt_), humble self-declaration of one’s full lineage is required at the moment of _kanyādāna_, whereas **Śiromaṇi** (on v. 24) adds that the king’s personal recitation of his lineage betokens his overflowing joy (_harṣātiśayaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,6 +144,14 @@ seraphic-souled and a best one among all stalwart emperors... [1-71-3]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There was a king renowned throughout the three worlds by his own sacred deeds (_viśrutaḥ svena karmaṇā_)—Nimi, supremely righteous of soul and the foremost of all beings endowed with strength and virtue (_sarvasattvavatāṃ varaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.3 (King Nimi & sarvasattvavatāṃ varaḥ)**
+
+Tracing the Videha house to its founder Nimi, **Govindarāja** glosses _sattvavatām_ as ‘those endowed with heroic strength and fortitude’ (_balavatām_), while **Śiromaṇi** highlights _viśrutaḥ svena karmaṇā_—renowned across the three worlds through his own sacrifices and righteous rule.
 </details>
 </details>
 
@@ -187,6 +203,14 @@ that Janaka it is Udaavasu who took birth... [1-71-4]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “His son was named Mithi, and Mithi’s son was Janaka; that King Janaka was the first of the Janakas (_prathamo janako rājā_), and from Janaka came Udāvasu.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.4–5 (Mithi & the Dynastic Title Janaka)**
+
+On v. 4, **Tilaka** notes that the capital city Mithilā took its name from Nimi’s son Mithi (_mithināmnā ca mithileti_; cf. **Govindarāja’s** variant stating that Mithilā was founded by him). All three commentators explain _prathamo janakaḥ_: Mithi’s son was the first monarch personally named Janaka, and from him all subsequent kings of Videha inherited _Janaka_ as their dynastic title (_sarveṣām asmākaṃ janakaśabdavyavahārārthatve mūlabhūtaḥ_, **Tilaka**).
 </details>
 </details>
 
@@ -291,6 +315,14 @@ who took birth, thus we have heard... [1-71-6]
 
 “From Suketu came the righteous-souled Devarāta of mighty strength; and the son of the royal sage Devarāta is remembered as Bṛhadratha (_devarātasya rājarṣer bṛhadratha iti smṛtaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.6 (Devarāta & Bṛhadratha)**
+
+Continuing the unbroken father-to-son succession of Videha, Janaka names Suketu’s son Devarāta—the same royal sage whom he had earlier celebrated in Sarga 66 (1.66.8) as the custodian to whom the gods entrusted Śiva’s bow as a sacred deposit (_nyāsaḥ_)—followed by Devarāta’s son Bṛhadratha.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,6 +367,14 @@ from Mahaaviira... [1-71-7]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bṛhadratha’s valiant and mighty son was Mahāvīra; and Mahāvīra’s steadfast son, unfailing in valor, was Sudhṛti (_mahāvīrasya dhṛtimān sudhṛtiḥ satyavikramaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.7–8 (Etymological Significance of Sudhṛti & Dhṛṣṭaketu)**
+
+On v. 7cd (_mahāvīrasya dhṛtimān sudhṛtiḥ satyavikramaḥ_), **Govindarāja** points out that the poet attaches the two adjectives _dhṛtimān_ (‘endowed with unshakable fortitude’) and _satyavikramaḥ_ (‘of unfailing valor’) specifically to reveal that King Sudhṛti’s name was an _anvarthasaṃjñā_—a name true to its literal meaning (_sudhṛtir ity anvarthasaṃjñājñāpanārthaṃ viśeṣaṇadvayam_). Similarly, **Śiromaṇi** connects _dharmātmā_ and _sudhārmikaḥ_ in v. 8ab as cause and effect: because Dhṛṣṭaketu’s mind was steeped in _dharma_ (_dharmabuddhiḥ_), his conduct was supremely righteous (_ata eva sudhārmikaḥ_).
 </details>
 </details>
 
@@ -425,6 +465,14 @@ Haryashva's son is Maru, and Maru's, son is Pratiindhaka, and the son of Pratiin
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Haryaśva’s son was Maru, and Maru’s son was Pratīndhaka; and Pratīndhaka’s righteous-souled son was King Kīrtiratha.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.9–10 (Haryaśva to Mahīdhraka)**
+
+In the sequence Haryaśva → Maru → Pratīndhaka → Kīrtiratha → Devamīḍha → Vibudha → Mahīdhraka, **Govindarāja** records the variant spelling _Prasindhaka_ for _Pratīndhaka_.
 </details>
 </details>
 
@@ -524,6 +572,14 @@ Mahiidraka's son is the great mighty king Kiirtiraata, and the son born to sagel
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Mahīdhraka’s son of mighty strength was King Kīrtirāta; and from the royal sage Kīrtirāta was born Mahāroman.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.11–13 (Kīrtirāta to Hrasvaroman & His Two Sons)**
+
+Concluding the twenty-generation genealogy of the Videha kings (Nimi → Mithi → Janaka I → Udāvasu → Nandivardhana → Suketu → Devarāta → Bṛhadratha → Mahāvīra → Sudhṛti → Dhṛṣṭaketu → Haryaśva → Maru → Pratīndhaka → Kīrtiratha → Devamīḍha → Vibudha → Mahīdhraka → Kīrtirāta → Mahāroman → Svarṇaroman → Hrasvaroman), King Sīradhvaja Janaka identifies himself and Kuśadhvaja as the two sons of Hrasvaroman.
 </details>
 </details>
 
@@ -677,6 +733,14 @@ after Kushadhvaja in me, he departed to forests... [1-71-14]
 
 “Having consecrated me, the elder son, upon the throne of the kingdom, my father placed Kuśadhvaja and the burden of rule in my care and retired to the forest (_kuśadhvajaṃ samāveśya bhāraṃ mayi vanaṃ gataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.14 (kuśadhvajaṃ samāveśya bhāraṃ mayi)**
+
+How do the two accusatives _kuśadhvajam_ and _bhāram_ construe in v. 14cd? **Rāma Varmā (_Tilaka_)** offers two elegant explanations: first, taking _bhāram_ in apposition to _kuśadhvajam_ in the sense of ‘entrusting Kuśadhvaja to me as a sacred charge to be nurtured’ (_kuśadhvajaṃ bhāraṃ bharaṇīyam_, endorsed also by **Govindarāja**: _bhāraṃ bharaṇīyaṃ poṣaṇīyam iti yāvat_); or second, supplying a conjunctive _ca_ to mean ‘entrusting both Kuśadhvaja and the burden of the state to me’ (_kuśadhvajaṃ bhāraṃ rājyabhāraṃ ca mayi samāveśya_, endorsed by **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,6 +786,14 @@ around the burden of this kingship... [1-71-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When our aged father ascended to heaven (_vṛddhe pitari svaryāte_), I bore the yoke of sovereignty righteously (_dharmeṇa dhuram āvaham_), looking after my godlike brother Kuśadhvaja with tender affection (_snehāt paśyan kuśadhvajam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.15 (dhuram āvaham & snehāt paśyan)**
+
+All three commentators gloss _dhuram_ as the burden of royal governance (_rājyabhāram_), and **Tilaka** glosses _snehāt paśyan_ as ‘cherishing and protecting with paternal affection’ (_pālayan_).
 </details>
 </details>
 
@@ -783,6 +855,14 @@ Then after sometime, a valorous king named Sudhanva came beleaguering Mithila, f
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then after some time had passed (_kasyacit tv atha kālasya_), the valorous King Sudhanvā came forth from the city of Sāṅkāśyā to lay siege to Mithilā (_mithilām avarodhakaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.16–17 (Sudhanvā’s Siege & avarodhakaḥ)**
+
+Explaining why Kuśadhvaja rules in Sāṅkāśyā (as mentioned in 70.2–3), Janaka recalls how King Sudhanvā of Sāṅkāśyā marched on Mithilā to besiege it (_avaroddhum_, **Tilaka** and **Govindarāja**). **Govindarāja** derives _avarodhakaḥ_ by Pāṇini 3.3.10 with the _ṇvul_ (_-aka_) suffix expressing purpose (‘coming in order to besiege Mithilā’).
 </details>
 </details>
 
@@ -886,6 +966,14 @@ in that war I have put that Sudhanva to the sword..." [1-71-18]
 
 “Because those two treasures were not surrendered to him, O great sage (_tasyāpradānān maharṣe_), a battle ensued between him and me; and as King Sudhanvā confronted me, he was slain by me in battle (_sa hato &#x27;bhimukho rājā sudhanvā tu mayā raṇe_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.18–19 (tasyāpradānāt, abhimukho, & vimukho)**
+
+In v. 18a, **Tilaka**, **Śiromaṇi**, and **Govindarāja** note that the singular pronoun _tasya_ refers collectively to the two demanded treasures—Śiva’s bow and Sītā (_tasyoktavastudvayasya_, **Tilaka**; _sītādhanuṣor apradānāt_, **Govindarāja**). In v. 18c, **Govindarāja** reads _abhimukho_ (slain while fighting face-to-face), whereas **Tilaka** and **Śiromaṇi** read _vimukho_ (routed in battle). After slaying Sudhanvā, Janaka installed Kuśadhvaja on the throne of Sāṅkāśyā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -985,6 +1073,14 @@ brides with a highly gladdened heart... Seetha for Rama, and Urmila for Lakshman
 
 “This brother of mine is the younger, O great sage, and I am the elder. Filled with supreme joy, O bull among sages, I bestow these two brides upon you (_dadāmi paramaprīto vadhvau te munipuṃgava_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.20 (dadāmi ... vadhvau te munipuṃgava)**
+
+Why does Janaka say ‘I give the two brides to you, O bull among sages’ (addressing Vasiṣṭha)? **Govindarāja** explains that because Vasiṣṭha formally solicited the brides on behalf of the princes in 70.45 (_varaye_), Janaka addresses his formal acceptance to Vasiṣṭha as their representative (_vasiṣṭhena varaṇāt te dadāmīty uktam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1058,6 +1154,14 @@ of 'munipungava.'
 
 **22:** “and my second daughter Ūrmilā as well—thrice I declare it, without a shadow of doubt (_trir vadāmi na saṃśayaḥ_): filled with supreme joy, I bestow these two brides upon you, O bull among sages!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.21–22 (ūrmilām & trir vadāmi)**
+
+**Tilaka** and **Govindarāja** note that while Sītā is _ayonijā_, Ūrmilā is Janaka’s biological daughter (_ūrmilāṃ yonijāṃ nijaputrīm_, **Tilaka**; _janakasyaurasaputrī_, **Govindarāja**), and **Govindarāja** adds that _vīryaśulkām_ extends to Ūrmilā since Rāma’s breaking of the bow won both brides. Repeating his pledge thrice (_trir vadāmi_) seals the gift in thought, word, and deed (_trivāraṃ tribhiḥ karaṇair vā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1117,6 +1221,14 @@ hair itself is not there...' is the objection. Whether they have hair or not, th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O King, cause the _godāna_ (_keśānta_ tonsure and graduation rite) of Rāma and Lakṣmaṇa to be performed (_rāmalakṣmaṇayo rājan godānaṃ kārayasva ha_), as well as the ancestral _nāndīmukha_ rite (_pitṛkāryaṃ ca_), may prosperity attend you, and thereafter celebrate the wedding (_tato vaivāhikaṃ kuru_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.23 (godānam & pitṛkāryam)**
+
+All three commentators explain _godānam_ as the pre-nuptial _keśānta_ or _samāvartana_ sacrament (in which the hair, _gāvaḥ keśāḥ_, is ritually tonsured and kine are gifted), and _pitṛkāryam_ as the auspicious _nāndīmukha-śrāddha_.
 </details>
 </details>
 
@@ -1198,6 +1310,14 @@ a problem, and dating with Ramayana prospered.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For today is the constellation _Maghā_, O mighty-armed lord (_maghā hy adya mahābāho_); on the third day from today, O Sovereign, when the moon enters the constellation _Uttara-Phalgunī_ (_tṛtīyadivase prabho phalgunyām uttare rājan_), celebrate the wedding ceremony on that day, and let bountiful gifts that bring auspicious prosperity be bestowed on behalf of Rāma and Lakṣmaṇa (_rāmalakṣmaṇayor arthe dānaṃ kāryaṃ sukhodayam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**71.24 (Astrological Exegesis of maghā hy adya ... phalgunyām uttare)**
+
+While some construed _tṛtīyadivase_ with _adya_ and took _phalgunyām uttare_ as ‘tomorrow in Pūrva-Phalgunī,’ **Tilaka**, **Śiromaṇi**, and **Govindarāja** establish the literal reading (_yathāśrutam eva samyag iti tattvam_): today is _Maghā_; on the third day hence (_tṛtīyadivase_), under _Uttara-Phalgunī_ (_phalgunyām uttare_), celebrate the wedding—citing the _Taittirīya Brāhmaṇa_ (_aryamṇaḥ pūrve phalgunī bhagasyottare_) and _Jyotiṣa_ (_trīṇy uttarāṇy api..._) to show that Bhaga presides over _Uttara-Phalgunī_, whereas _Pūrva-Phalgunī_ is unfit for marriage.
 </details>
 </details>
 

@@ -92,6 +92,38 @@ not begotten though his heart is burning to beget children. [1-8-1]
 
 To that high-souled monarch of such mighty splendor, knower of Dharma, who was performing austerities (and grieving in heart) for the sake of a son, there was born no son to perpetuate his royal lineage.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1. Why Had Daśaratha No Son for Sixty Thousand Years? (ति० टी०, रा० टी०, गो० टी० on 1.8.1–2)**
+
+$18
+
+_____________
+
+**1. How Suyajña and Others Are Called `Gurus' Alongside Vasiṣṭha (ति० टी० & गो० टी० on 1.8.6)**
+
+$1c
+
+_____________
+
+**1. Why Daśaratha Asked for `a Son' (Sutārtham) and Vasiṣṭha Promised `Sons' (Putrān) (गो० टी० on 1.8.11–13)**
+
+In `1.8.1–2` and `1.8.8`, King Daśaratha spoke in the singular (सुतार्थम् — `for the sake of a son'), yet in `1.8.12c` Vasiṣṭha and the sages bless him in the plural: सर्वथा प्राप्स्यसे पुत्रानभिप्रेतांश्च पार्थिव (`You shall surely obtain the sons whom you desire'). Govindarāja explains this striking shift by quoting the Vedic and _Smṛti_ maxim that `an only son is almost no son' (एकपुत्रस्यापुत्रप्रायत्वात्, `एष्टव्या बहवः पुत्राः' इति वचनाच्च पुत्रानिति बहुवचनम्), prophetically foreshadowing the birth of the four brothers (Rāma, Lakṣmaṇa, Bharata, and Śatrughna)! On संभाराः (`1.8.11c`), _Tilaka_ notes the twenty-one sacrificial posts (एकविंशतियूपादिरूपाः) and Govindarāja notes the golden and silver vessels (यूपाश्वादीनि) required specifically for the _Aśvamedha_.
+
+_____________
+
+**1. Why Petty Kings Dare Not Perform the Aśvamedha: The Brahmarākṣasas (ति० टी०, रा० टी०, गो० टी० on 1.8.16–18)**
+
+$26
+
+_____________
+
+**1. Why Kausalyā and the Queens Are Called Patnīḥ (ति० टी० & गो० टी० on 1.8.23)**
+
+$29
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +196,32 @@ Horse ritual...[and thus appease the gods in order to beget worthy sons..."] [1-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As that high-souled king pondered thus, this thought arose in his mind: `Why do I not perform a sacrifice with the Vājimedha (Horse-Sacrifice) for the sake of obtaining a son?&#x27;
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2. Consultation with Ministers Before Summoning the Preceptors (ति० टी०, रा० टी०, गो० टी० on 1.8.3–5)**
+
+Verses 3–4 form a single syntactic unit (श्लोकद्वयमेकान्वयम्, गो० टी० & रा० टी०): Daśaratha first consults his secular ministers (मन्त्रिभिः सह) to ensure that the treasury and realm are ready for the vast undertaking of an _Aśvamedha_ (यष्टव्यमिति निश्चितां मतिं कृत्वा), and only then dispatches Sumantra to summon Vasiṣṭha and the spiritual preceptors (गुरून् सपुरोहितान्) for ritual prescription.
+
+_____________
+
+**2. Lālapyamānasya vs. Tātapyamānasya and the Esoteric Question (ति० टी०, रा० टी०, गो० टी० on 1.8.8–10)**
+
+$1e
+
+_____________
+
+**2. The Śruti Injunctions on Guarding the Horse and the Daily Pada-homa (ति० टी०, रा० टी०, गो० टी० on 1.8.14–15)**
+
+$22
+
+_____________
+
+**2. Poetics of the Closing Simile: Lotus-Faces at the End of Winter (ति० टी०, रा० टी०, गो० टी० on 1.8.24)**
+
+The Sarga closes with an exquisite compound figure of speech in `1.8.24ef` (मुखपद्मान्यशोभन्त पद्मानीव हिमात्यये), which Rāma's _Tilaka_ analyzes as a fusion of metaphor (रूपकम् in मुखपद्मानि, `lotus-faces') and seasonal simile (वसन्तकालावच्छिन्नपद्मोपमा in पद्मानीव हिमात्यये, `like lotuses at the passing of winter frost'): for millennia the queens' faces had been wan and blighted by the winter frost of childlessness; at the warm vernal sunbeam of Daśaratha's promise (यक्ष्येऽहं सुतकारणात्), their faces blossomed with radiant joy.
 </details>
 </details>
 

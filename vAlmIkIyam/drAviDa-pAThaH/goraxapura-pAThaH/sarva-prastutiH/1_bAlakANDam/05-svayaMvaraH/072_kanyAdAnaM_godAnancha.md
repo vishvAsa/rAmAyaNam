@@ -66,6 +66,14 @@ just said about his lineage. [1-72-1]
 
 To that heroic King Vaideha (Janaka) who had spoken thus, the great sage Viśvāmitra, accompanied by Vasiṣṭha (_vasiṣṭhasahito_), spoke these words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.1–2 (acintyāny aprameyāṇi & Mutual Equality)**
+
+**Śiromaṇi** explains why Viśvāmitra calls the Ikṣvāku and Videha lineages _acintyāni_ and _aprameyāṇi_: their purity is so transcendent that it admits of no doubt or scrutiny regarding marital eligibility (_atiśuddhatvena vivāhārthaṃ saṃdeṣṭum anarhāṇi_), and their majesty knows no superior (_uttararahitaprabhāvaviśiṣṭāni_). Because no third dynasty in the world equals them, the two houses can only be matched with each other (_eṣāṃ tulyo vyatirekeṇāparo nāsti_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -157,6 +165,14 @@ and even it is befitting to the winsome charms of the brides and bridegrooms, bu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Worthy and well-matched is this righteous marital alliance (_sadṛśo dharmasambandhaḥ_), and equally matched in beauty and perfection (_sadṛśo rūpasampadā_) are Sītā and Ūrmilā with Rāma and Lakṣmaṇa, O King!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.3 (Twofold sadṛśaḥ)**
+
+**Govindarāja** and **Śiromaṇi** point out the dual harmony celebrated in v. 3: first, the alliance itself is equal in family _dharma_ and lineage (_sadṛśo dharmasambandhaḥ = ubhayakulasadṛśaḥ_); second, the brides Sītā and Ūrmilā are a perfect match for Rāma and Lakṣmaṇa in youthful beauty and grace (_sadṛśo rūpasampadā_). **Tilaka** also notes the smooth variant _sītayormilayā_.
 </details>
 </details>
 
@@ -251,6 +267,20 @@ your brother's daughters... [1-72-6]
 **5:** “We both formally request in marriage (_patnyarthaṃ varayāmahe_), O best of men, the two daughters of this righteous-souled monarch, who are peerless in beauty upon the earth (_asya dharmātmano rājan rūpeṇāpratimaṃ bhuvi sutādvayaṃ_)—
 
 **6:** “—on behalf of those two great-souled princes, the royal youth Bharata and the wise Śatrughna, O King, I request those two daughters (_varaye te sute rājaṃs tayor arthe mahātmanoḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.4–5 (Viśvāmitra’s Initiative for Kuśadhvaja’s Daughters)**
+
+Joining Vasiṣṭha (_vasiṣṭhasahitaḥ_, hence the plural _varayāmahe_), Viśvāmitra now proposes that Janaka’s younger brother Kuśadhvaja also bestow his two peerless daughters (Māṇḍavī and Śrutakīrti) upon Daśaratha’s remaining two sons.
+
+_____________
+
+**72.6–7 (varaye te sute & lokapālasamāḥ)**
+
+While **Śiromaṇi** and **Govindarāja** construe _te sute_ in v. 6c as ‘those two daughters (of Kuśadhvaja) for the sake of those two (Bharata and Śatrughna),’ **Rāma Varmā (_Tilaka_)** links _bharatasya ... śatrughnasya ca_ backward with _sutādvayam_ in v. 5 and takes _te sute_ as summarizing Janaka’s own two daughters for Rāma and Lakṣmaṇa. On v. 7, **Tilaka** notes that Viśvāmitra praises all four princes as equals of the four Lokapālas so Janaka will not think the younger grooms any less worthy (_daśarathaputreṣu na kasminn api varaguṇanyūnatā_).
 </details>
 </details>
 
@@ -351,6 +381,14 @@ as well, be interlocked by these wedlock-s..." Thus Vishvamitra advised Janaka. 
 
 “With unhesitating mind, O Lord of Kings, let the house of Ikṣvāku be bound in marital alliance with both of you brothers of meritorious deeds (_ubhayor api rājendra sambandhenānubadhyatām ikṣvākukulam avyagram_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.8 (ubhayor api & avyagram)**
+
+All three commentators explain _ubhayor api_ as ‘of both you royal brothers (_bhrātroḥ_), Janaka and Kuśadhvaja.’ **Tilaka** takes _avyagram_ as urging Janaka to harbour no anxiety about celebrating four royal weddings simultaneously (_katham īdṛśena mahārājena yugapan mayā sambandhacatuṣṭayaṃ kāryam iti vyagracittaṃ māstu_), whereas **Govindarāja** construes _avyagram_ (_nirdoṣam_) with _ikṣvākukulam_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,6 +433,14 @@ eminent-saints. [1-72-9]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing the words of Viśvāmitra, spoken in full accord with Vasiṣṭha’s counsel (_vasiṣṭhasya mate tadā_), King Janaka, with folded hands, addressed those two bulls among sages:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.9–10 (vasiṣṭhasya mate & svayam)**
+
+**Tilaka** and **Govindarāja** emphasize _svayam_ in v. 10d: Janaka counts his dynasty blessed because the two supreme sages Vasiṣṭha and Viśvāmitra personally command this alliance, rather than speaking through disciples or intermediaries (_svayam, na tu śiṣyādimukhataḥ_).
 </details>
 </details>
 
@@ -501,6 +547,14 @@ as a pair of wives to the paired brothers, namely Bharata and Shatrughna, respec
 
 “So let it be! May prosperity attend you all (_evaṃ bhavatu bhadraṃ vaḥ_)! Let the ever-inseparable Bharata and Śatrughna both wed these two daughters of Kuśadhvaja as their wives (_kuśadhvajasute ime patnyau bhajetāṃ sahitau śatrughnabharatāv ubhau_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.11–12 (śatrughnabharatau, ekāhnā, & catasṝṇām)**
+
+In _śatrughnabharatau_ (v. 11d), **Tilaka** notes that the compound’s word order carries no seniority implication (_tātparyam_). On v. 12a, all three commentators explain _ekāhnā_ (‘in a single day’) via _anityāḥ samāsāntāḥ_ (omitting the _ṭac_ suffix of Pāṇini 5.4.91), and _catasṝṇām_ as an _ārṣa_ lengthening (_chandasy ubhayathā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,6 +659,14 @@ uttaraphalgunii-svaati iti vivaahasya nakShatraaNi | bodhaayana suutraaNi*
 
 “On the latter day of the two _Phalgunī_ constellations, O _brahman_—namely _Uttara-Phalgunī_, wherein Bhaga Prajāpati is the presiding deity (_bhago yatra prajāpatiḥ_)—wise astrologers commend the celebration of marriage (_vaivāhikaṃ praśaṃsanti_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.13 (uttare divase phalgunībhyām & Four Simultaneous Weddings)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** construe _phalgunībhyām uttare divase_ as ‘on the latter of the two Phalgunī days, namely _Uttara-Phalgunī_,’ presided over by Bhaga (_bhago yatra prajāpatiḥ_), with **Tilaka** citing **Kataka** on why Bhaga’s lordship makes _Uttara-Phalgunī_ auspicious for marriage. **Govindarāja** cites Parāśara and the _Daivajñavilāsa_ (_bhinnodarodbhavatāṃ vivāhe kalpayet pṛthag vedim..._) to show that four brothers—even uterine twins like Lakṣmaṇa and Śatrughna with distinct natal _aṃśakas_—may auspiciously wed on the same day (_ekasmin dine tu kartavya eva_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,6 +711,14 @@ and Vashishta, reverently said this sentence. [1-72-14]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken these gracious words, King Janaka rose from his seat with folded hands (_pratyutthāya kṛtāñjaliḥ_) and addressed both foremost sages:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.14–15 (āsanamukhyāni āsyatām)**
+
+Rising with folded hands, Janaka offers the three royal thrones of himself, Kuśadhvaja, and Daśaratha (_trayāṇāṃ trīṇi siṃhāsanāni_, **Tilaka** and **Govindarāja**) to Vasiṣṭha and Viśvāmitra, placing all three kingdoms at their feet (_rājyatrayam api yuṣmadīyam_).
 </details>
 </details>
 
@@ -762,6 +832,14 @@ as aptly as you can..." So said Janaka to the sages. [1-72-16]
 
 “Just as this city of Mithilā belongs to Daśaratha, even so does the city of Ayodhyā belong to me (_yathā daśarathasyeyaṃ tathāyodhyā purī mama_); there is no doubt as to your sovereign authority over both—pray act as you deem fitting (_yathārhaṃ kartum arhatha_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.16 (yathā daśarathasyeyaṃ tathāyodhyā purī mama)**
+
+Anticipated by **Tilaka** and **Govindarāja**, someone might ask how Janaka in v. 15 could offer Daśaratha’s throne alongside his own to the sages (_nanu daśarathasiṃhāsanaṃ kathaṃ tvayā śakyaṃ dātum_). Janaka answers in v. 16: through this fourfold marriage alliance, Mithilā belongs as completely to Daśaratha as Ayodhyā does to Janaka, and all three kings stand under the command of the two sages (_pūjāyāṃ bahuvacanam — vayaṃ sarve bhavadadhīnāḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -806,6 +884,14 @@ he replied king Janaka in this way. [1-72-17]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As Vaideha Janaka was speaking thus, the delighted King Daśaratha, scion of Raghu (_raghunandanaḥ_), spoke in reply to the lord of the earth:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.17–18 (hṛṣṭaḥ & asaṃkhyeyaguṇau)**
+
+**Tilaka** and **Govindarāja** note that Daśaratha is delighted (_hṛṣṭaḥ_) specifically by Janaka’s declaration of complete unity between the two royal houses (_evam aikyavādeneti śeṣaḥ_). In v. 18, **Tilaka** observes that by such humility Janaka and Kuśadhvaja have exalted all the sages and royal ancestors of their own dynasty (_anena vinayena sarvotkarṣaṃ prāpitāḥ_).
 </details>
 </details>
 
@@ -919,6 +1005,14 @@ the tributary rituals..." Dasharatha said thus. [1-72-19]
 
 “May auspiciousness and prosperity attend you (_svasti prāpnuhi bhadraṃ te_)! We shall now depart to our own residence; I shall duly perform the ancestral _śrāddha_ rites according to precept (_śrāddhakarmāṇi vidhivad vidhāsye_),” so he spoke.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.19–20 (svasti prāpnuhi & āpṛṣṭvā)**
+
+Why does Daśaratha bestow a benediction (_svasti prāpnuhi_) upon Janaka when both are kṣatriya equals? **Tilaka** explains that in a marriage rite, the recipient of the maiden (_pratigrahītṛ_) blesses the giver of the bride (_dātari janake āśīḥ_). On _āpṛṣṭvā_ (‘having taken leave’) in v. 20a, **Śiromaṇi** notes the _ārṣa_ non-substitution of _-lyap_ for _-ktvā_ despite the prefix _ā-_ (_lyababhāvaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1022,6 +1116,14 @@ part. [1-72-21]
 
 Returning to his royal residence and performing the ancestral _śrāddha_ rite in accordance with sacred ordinance (_śrāddhaṃ kṛtvā vidhānataḥ_), the king rose early at daybreak and celebrated the supreme _godāna_ sacrament (_prabhāte kālyam utthāya cakre godānam uttamam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.21 (Chronology of the Nāndīmukha-śrāddha & Godāna)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** trace the ritual sequence: returning to his camp on the day of _Maghā_, Daśaratha performed the ancestral _nāndīmukha-śrāddha_ (_śrāddhaṃ kṛtvā vidhānataḥ_), and rising at dawn the next morning (_prabhāte kālyam utthāya_, under _Pūrva-Phalgunī_), he celebrated the _godāna_ (_keśānta_ / _samāvartana_) sacrament for all four princes.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1066,6 +1168,14 @@ four sons. [1-72-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 On behalf of each of his sons individually (_ekaikaśo ... putrān uddiśya_), the righteous ruler of men bestowed upon the brahmins a hundred thousand cows in accordance with _dharma_ (_gavāṃ śatasahasraṃ ca brāhmaṇebhyo narādhipaḥ dadau_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.22–24 (Two Senses of Godāna & Four Hundred Thousand Cows)**
+
+**Rāma Varmā (_Tilaka_)** notes the double sense of _godāna_: in v. 21d it denotes the _keśānta_ tonsure rite (from _go_ = hair), whereas in vv. 22–23 Daśaratha performs literal _go-dāna_ (gift of kine) as its subsidiary rite (_tadaṅgatvena prasiddhagodānam āha_), gifting 100,000 golden-horned cows per prince (400,000 in all), each rich in milk (_kṣīrasampannāḥ_, **Govindarāja**), with calf and bronze milking pail (_kāṃsyamayadohanapātrāḥ_).
 </details>
 </details>
 
@@ -1202,6 +1312,14 @@ who are being readied to administer *dharma* in the world.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surrounded by his four sons who had completed their _godāna_ sacrament (_sa sutaiḥ kṛtagodānair vṛtaḥ san_), that serene monarch shone forth like the benign Prajāpati Brahmā surrounded by the four world-guardians (_lokapālair ivābhāti vṛtaḥ saumyaḥ prajāpatiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**72.25 (lokapālair ivābhāti vṛtaḥ saumyaḥ prajāpatiḥ)**
+
+Surrounded by his four newly consecrated sons, Daśaratha shines like four-faced Prajāpati Brahmā flanked by the four world-guardians. **Tilaka** and **Śiromaṇi** derive _saumyaḥ_ from _soma_ with the pleonastic _svārthe ṣyañ_ suffix.
 </details>
 </details>
 

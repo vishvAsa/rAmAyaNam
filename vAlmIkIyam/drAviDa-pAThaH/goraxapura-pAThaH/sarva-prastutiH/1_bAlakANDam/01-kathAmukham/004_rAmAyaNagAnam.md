@@ -99,6 +99,14 @@ and meaningfully. [1-4-1]
 
 When Rāma had attained the sovereignty of his kingdom (_prāptarājyasya rāmasya_), the venerable sage Vālmīki composed his entire history in wondrous diction fraught with deep import (_vicitrapadam arthavat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.1 (prāptarājyasya rāmasya & vicitrapadam — Vāmana’s Poetics)**
+
+**Govindarāja** quotes two foundational aphorisms of **Vāmana’s _Kāvyālaṅkārasūtravṛtti_** on v. 1: first, _upaślokyasya māhātmyād ujjvalāḥ kāvyasampadaḥ_ (“the splendors of a poem shine forth through the majesty of its hero,” signaled by _prāptarājyasya rāmasya_); second, _rītir ātmā kāvyasya, viśiṣṭapadaracanā rītiḥ_ (“style is the soul of poetry, consisting in a distinctive arrangement of words,” signaled by _vicitrapadam_, i.e., the _Vaidarbhī rīti_ endowed with all ten poetic excellences).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,6 +206,14 @@ salvation.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Twenty-four thousand _ślokas_ (_caturviṃśatsahasrāṇi ślokānām_) the sageuttered, arranged in five hundred _sargas_ (_sargaśatān pañca_) and six _kāṇḍas_, together with the concluding _Uttara_ book (_ṣaṭkāṇḍāni tathottaram_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.2 (The 24,000 Ślokas, 500 Sargas, and Kataka’s Objection)**
+
+$18
 </details>
 </details>
 
@@ -423,6 +439,20 @@ Ramayana. *poulasthyavadha* . Giving one to many names to poem/epics is usual as
 
 **7:** The sage of accomplished vows composed the entire poem _Rāmāyaṇa_—known also as _“The Great History of Sītā”_ (_sītāyāś caritaṃ mahat_) and _“The Slaying of Paulastya (Rāvaṇa)”_ (_paulastyavadham ity evam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.6 (vedopabṛṃhaṇārthāya)**
+
+Why did Vālmīki teach the _Rāmāyaṇa_ to two princes who were already thoroughly versed in the Vedas (_vedeṣu pariniṣṭhitau_)? **Govindarāja** and **Tilaka** explain that bare Vedic study yields only the prima facie verbal text (_āpātapratipanna-vedārthatvāt_); the _Rāmāyaṇa_ was imparted as _vedopabṛṃhaṇam_—the authoritative amplification and determination of the hidden purport of the _Śrutis_.
+
+_____________
+
+**4.7 (The Three Titles & Why the Epic is Called Sītāyāś caritaṃ mahat)**
+
+$1b
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -537,6 +567,20 @@ leaping ocean, burning Lanka, and the entire Rama-Ravana war are amazing
 **8:** Sweet both in spoken recitation and in musical song (_pāṭhye geye ca madhuram_), measured in the three tempos (_pramāṇais tribhir anvitam_), set to the seven primary melodic modes (_jātibhiḥ saptabhir yuktam_), and harmonized with the strings of the _vīṇā_ and rhythmic beat (_tantrīlayasamanvitam_)—
 
 **9:** This poem, replete with the aesthetic sentiments of love (_śṛṅgāra_), pathos (_karuṇa_), mirth (_hāsya_), fury (_raudra_), terror (_bhayānaka_), heroism (_vīra_), and the rest (_vīrādibhī rasair yuktam_), the two brothers sang.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.8–10 (Classical Musicology — Pramāṇas, Jātis, Sthānas & Mūrcchanās)**
+
+All three commentators quote **Bharata** and **Śāṇḍilya** to explain the technical musical terms: (1) _pāṭhye geye ca madhuram_: unlike ordinary poems that please only when recited or only when sung, the _Rāmāyaṇa_ is exquisite in both; (2) _pramāṇais tribhiḥ_: the three musical tempos—_druta_ (fast), _madhya_ (medium), and _vilambita_ (slow); (3) _jātibhiḥ saptabhiḥ_: the seven foundational melodic modes (_ṣāḍjī, āṛṣabhī, gāndhārī, madhyamī, pañcamī, dhaivatī, naiṣādī_) corresponding to the seven notes; (4) _sthāna_: the three vocal registers—chest (_uraḥ / mandra_), throat (_kaṇṭha / madhya_), and head (_śiraḥ / tāra_); and (5) _mūrcchanā_: full-scale melodic ascents and descents.
+
+_____________
+
+**4.9 (The Nine Rasas)**
+
+**Govindarāja** illustrates how Vālmīki’s epic encompasses all nine _rasas_: _saṃbhoga-śṛṅgāra_ (from Rāma’s marriage up to the forest idyll), _vipralambha-śṛṅgāra_ (after Sītā’s abduction), _hāsya_ (in Śūrpaṇakhā’s comical advances), _karuṇa_ (in Daśaratha’s bereavement), _vīra_ (in Rāma and Lakṣmaṇa’s resolve), _raudra_ (in Rāvaṇa’s fury), _bhayānaka_ (in Mārīca’s terror), _bībhatsa_ (in Virādha and Kabandha), _adbhuta_ (in the marvels of the war), and _śānta_ (in the hermitages of the sages).
 </details>
 </details>
 
@@ -768,6 +812,14 @@ of sages, scholars and also of eminent persons, with their best concentration [1
 
 **13:** —sang it with serene concentration (_susamāhitau_) exactly as instructed by their preceptor (_yathopadeśam_), knowing its innermost truth (_tattvajñau_), in the assembly of seers, twice-born brāhmaṇas, and righteous saints (_sādhūnāṃ ca samāgame_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.12–13 (vācovidheyam & ṛṣīṇāṃ ca dvijātīnāṃ sādhūnām)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** explain _vācovidheyam_ (“obedient to the voice”) as having mastered the entire 24,000-verse text through repeated recitation so thoroughly that it flowed effortlessly from their lips without consulting a manuscript (_pustakāvalokanādy antarāpi vacanādhīnatām abhyāsataḥ sampādya_). In v. 13, **Tilaka** explains the sequence _ṛṣīṇāṃ ca dvijātīnāṃ sādhūnām_ by _go-balīvarda-nyāya_: seers, twice-born brāhmaṇas in general, and righteous souls of all classes.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -917,6 +969,14 @@ happened long-ago it is shown like the one happening presently... [1-4-17]
 
 —praised the praiseworthy Kuśa and Lava as they sang: “Ah, the sweetness of the music, and above all the sweetness of the _ślokas_ (_aho gītasya mādhuryaṃ ślokānāṃ ca viśeṣataḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.17–18 (aho gītasya mādhuryaṃ ślokānāṃ ca viśeṣataḥ & pratyakṣam iva darśitam)**
+
+**Govindarāja** highlights the ascending praise of the sages: first they marvel at the melodic sweetness of the singing (_aho gītasya mādhuryam_), and then even more at the poetic sweetness and lucidity of Vālmīki’s verses themselves (_gānato ’pi ślokamādhuryam atiśayitam_). Why? Because through the crystalline maturity of Vālmīki’s poetic style (_pākaviśeṣāt_), events that occurred long ago (_ciranirvṛttam api_) are placed vividly before the listener’s immediate perception (_pratyakṣam iva darśitam_)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -964,6 +1024,14 @@ and rapturously, marinating the pitch and tune..." So said the saints. [1-4-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Though these events transpired long ago (_ciranirvṛttam apy etat_), they have been made to appear as though directly before our eyes (_pratyakṣam iva darśitam_)!” Entering deeply into the emotional mood (_praviśya... tathābhāvam_), the two youths sang with consummate artistry.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.18 (praviśya tāv ubhau suṣṭhu tathābhāvam agāyatām)**
+
+Both **Tilaka** and **Śiromaṇi** note the secret of the twins’ performance: they did not merely vocalize notes externally, but “entered completely into the inner emotional state” (_bhāvaṃ kāvyābhiprāyaṃ tattadrasarūpaṃ praviśya tanmayībhūya_) so that the corresponding _rasa_ welled up in the hearts of their audience.
 </details>
 </details>
 
@@ -1018,6 +1086,14 @@ sang very effectually and very meaningfully. [1-4-19]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Together in perfect unison (_sahitau_), they sang sweetly, impassionedly (_raktam_), and with consummate fullness of musical tone (_sampannaṃ svarasampadā_); and, thus praised by those great seers glorious in their austerities (_tapaḥślāghyair maharṣibhiḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.19–20 (sahitau & saṃsthitaḥ kalaśaṃ dadau)**
+
+**Govindarāja** and **Śiromaṇi** gloss _sahitau_ as singing in flawless rhythmic and tonal unison (_samalayādiyuktau_): because the two brothers shared the exact same vocal timbre, their duet sounded like a single celestial voice. On _saṃsthitaḥ_ (v. 20), **Govindarāja** cites the lexicographer **Bhāskara** to explain that the sage was so overcome with joy that he spontaneously stood up in the assembly (_prītyatiśayenotthāya dadau_) to offer his own water-vessel!
 </details>
 </details>
 
@@ -1076,6 +1152,14 @@ sage, lauding them contributed a jute robe. [1-4-20]
 **20:** —the two youths sang with even deeper passion and surpassing sweetness (_saṃraktataram atyarthaṃ madhuram_). Delighted, one sage rose up in the assembly (_saṃsthitaḥ_) and presented them with an earthenware water-pitcher (_kalaśam_);
 
 **21:** Another sage of great renown, pleased at heart, gave them a garment of bark-cloth (_valkalam_); another presented a black-antelope skin (_kṛṣṇājinam_), and yet another a sacred sacrificial thread (_yajñasūtram_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.21cd–26ab (Śivasahāya’s Manuscript Note on the Sages’ Gifts)**
+
+$1e
 </details>
 </details>
 
@@ -1272,6 +1356,14 @@ poets... and this is completed sequentially, as well... [1-4-26]
 
 Thus did all those truth-speaking sages bestow boons upon the two boys, declaring: “Wondrous is this historical narrative (_āścaryam idam ākhyānam_) proclaimed by the sage Vālmīki!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.26–27 (paraṃ kavīnām ādhāram — Vālmīki as the Fountainhead of All Poets)**
+
+All three commentators underscore the historic literary-critical pronouncement in v. 27a: _paraṃ kavīnām ādhāram_ (“the supreme foundation for all poets”). **Govindarāja** explains: _kāryaṃ kāvyasya lakṣaṇam ity uktarītyā kavīnāṃ kāvyanirmāṇamūlam ity arthaḥ_—because Vālmīki’s _Ādi-kāvya_ is the archetype of poetic creation, all subsequent Sanskrit poets (Vyāsa, Kālidāsa, Bhavabhūti, Māgha, Murāri, Rājaśekhara) draw their themes, tropes, and structural models from this fountainhead (**Tilaka**: _varṇanīyārthasya prakārabhedalābhadvārā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1302,6 +1394,14 @@ Thus did all those truth-speaking sages bestow boons upon the two boys, declarin
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “It is the supreme foundation and model for all poets (_paraṃ kavīnām ādhāram_), and has been brought to full completion in due order (_samāptaṃ ca yathākramam_). O you who are skilled in every form of song, you have sung this poem to perfection (_abhigītam idaṃ gītam_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.27–28 (āyuṣyaṃ puṣṭijananam & sarvaśrutimanoharam)**
+
+Note that although Lines `4.27cd–28ab` are omitted in the Baroda Critical Edition, they ARE present in **Govindarāja’s _Bhūṣaṇa_** (as his verses 22–23) as well as in **Tilaka** and **Śiromaṇi**! **Govindarāja** offers a fine medical and musical observation here: why does the verse pair _puṣṭijananam_ (“conferring bodily vigor and thriving”) immediately with _āyuṣyam_ (“conferring long life”)? Because mere longevity accompanied by emaciation or debility is of little value (_saty api āyuṣi kārśye tasyākiñcitkaratvāt puṣṭikaram_); and on _sarvaśrutimanoharam_, **Govindarāja** quotes a musicological definition of _śruti_ as the twenty-two microtonal intervals that constitute the musical notes (_prathamaśravaṇāc chabdaḥ śrūyate yaḥ svamātrataḥ, sā śrutiḥ saṃparijñeyā svarāvayavalakṣaṇā_)!
 </details>
 </details>
 
@@ -1471,6 +1571,20 @@ for it contains versatile words and meanings...' and thus he motivated the singe
 
 **32:** —and Rāma spoke to Lakṣmaṇa, Śatrughna, and Bharata: “Let this narrative be heard (_śrūyatām etad ākhyānam_) from these two youths of godlike radiance (_anayor devavarcasoḥ_),—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.29–30 (bharatāgrajaḥ & pūjayāmāsa pūjārhau)**
+
+**Govindarāja** notes why Vālmīki refers to Rāma here specifically as _bharatāgrajaḥ_ (“elder brother of Bharata”): just as Bharata is the supreme exemplar of loving submission to Rāma’s devotees, Rāma himself, upon seeing the two young ascetic singers in the streets of Ayodhyā, brought them into his own palace hall (_svayajñaśālāgṛham_) and honored them (_pūjayāmāsa_) because they were worthy of reverence both by their ascetic garb and by their radiant likeness to himself (_tulyavayorūpādimattvenāścaryakarau_).
+
+_____________
+
+**4.31–32 (upopaviṣṭaiḥ & devavarcasoḥ)**
+
+On _upopaviṣṭaiḥ_ (v. 31), **Govindarāja** cites Pāṇini 8.1.6 (_prasamupodaḥ pādapūraṇe_) explaining the doubled prepositional prefix _upa + upa_ as denoting “seated all around in close attendance” while fulfilling the metrical cadence. On _devavarcasoḥ_ (“of godlike splendor,” v. 32), **Govindarāja** remarks that the sheer physical grace and radiance of the two young performers itself enhances the aesthetic delight of their song (_rūpasampattir api gītiramyatāsāmagrīti bhāvaḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1559,6 +1673,14 @@ is for all ears, bearing a comfort in its manifestation, among the gathering of 
 
 **34:** —blending seamlessly with the rhythm of the strings (_tantrīlayavat_) and making the lofty meaning crystal clear (_viśrutārtham_). Gladdening all limbs, minds, and innermost hearts (_hlādayat sarvagātrāṇi manāṃsi hṛdayāni ca_), and delightful to the ear (_śrotrāśrayasukham_), that song shone forth in the assembly of the people.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.34 (sarvagātrāṇi manāṃsi hṛdayāni ca — Threefold Aesthetic Rapture)**
+
+**Rāma Varmā (_Tilaka_)** explains with Upaniṣadic precision why v. 34 distinguishes _gātrāṇi_ (limbs), _manāṃsi_ (minds), and _hṛdayāni_ (hearts): the rapture of the limbs (_sarvagātrāṇi_) manifests as horripilation and tears of joy; the rapture of the mind (_manasa āhlādaḥ_) is the cessation of all external mental distraction, as in deep sleep (_nidrāyām iva vismṛtānyavyāpāratā_); and the rapture of the heart (_hṛdayam_, which by Upaniṣadic etymology _hṛdy ayam_ denotes the innermost Self, _pratyagātmā_) is the direct experience of spiritual bliss!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1618,6 +1740,14 @@ he is asking all of us to listen to *siitaayaH caritam mahat* ...
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “These two young ascetics (_imau munī_), though singers (_kuśīlavau_) and great tapasvins, are endowed with the marks of royal sovereigns (_pārthivalakṣaṇānvitau_); they proclaim a history of mighty spiritual power (_mahānubhāvaṃ caritam_) that is auspicious and sustaining even to me (_mamāpi tad bhūtikaram_)—listen to it attentively (_nibodhata_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.35 (mamāpi tad bhūtikaram — The Debate Between Govindarāja and Śiromaṇi)**
+
+Why does Śrī Rāma say that hearing this poem is _mamāpi bhūtikaram_ (“auspicious/sustaining even to me”)? **Govindarāja** argues that because a _dhīrodātta_ hero never praises his own deeds (_avikatthanaḥ_), _caritam_ here denotes Sītā’s glorious history (_sītācaritram_), which sustains Rāma’s very life in separation (_virahiṇo ’pi me sattāpradam_) and surpasses even Rāma’s own glory (_mahānubhāvam_) because Sītā protected the very rākṣasa women who tormented her in Laṅkā, declared _na kaścin nāparādhyati_ (“who never errs?”), and intercedes with maternal tenderness for offending souls! **Śivasahāya (_Śiromaṇi_)**, explicitly citing Govindarāja (_iti bhūṣaṇakārokta-śaṅkāsamādhānam āpātato ramaṇīyam_), counters that the prohibition against hearing one’s own praise is meant only to curb pride in ordinary mortals, and that Rāma’s and Sītā’s stories are one and indivisible.
 </details>
 </details>
 
@@ -1698,5 +1828,13 @@ listening Seetha's story...] [1-4-36]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, inspired by Rāma’s words, the two youths sang with the full perfection of the classical _Mārga_ musical tradition (_mārgavidhānasampadā_); and Rāma himself, stepping gently down into the midst of the assembly (_pariṣadgataḥ śanaiḥ_), became wholly absorbed in heart, longing to experience the song (_bubhūṣayāsaktamanā babhūva ha_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.36 (pariṣadgataḥ śanaiḥ — Why Rāma Stepped Quietly Down from His Throne)**
+
+**Govindarāja** offers an unforgettable insight into _pariṣadgataḥ śanaiḥ_: had Emperor Rāma risen abruptly from his golden lion-throne, the entire assembly would have stood up in royal protocol, shattering the musical rapture (_jhaṭity utthāya gamane pariṣado ’py utthānād rasabhaṅgo bhaviṣyatīti_). Remembering the maxim _ekaḥ svādu na bhuñjīta_ (“one should not enjoy a sweet feast alone”) and feeling solitary upon his lofty throne, Rāma stepped down slowly and quietly (_śanaiḥ_) to sit in the midst of his people as a fellow listener!
 </details>
 </details>

@@ -94,6 +94,14 @@ When that sage Vishvamitra has finished narration of the legend of the
 
 When that sage had finished speaking (_uktavākye munau tasmin_), both heroic brothers, Rāghava and Lakṣmaṇa, joyfully applauded the tale (_pratinandya kathām_) and addressed that bull among sages:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.1–2 (divyamānuṣasambhavam)**
+
+**Govindarāja (_Bhūṣaṇa_)** notes that _ubhau_ in v. 1 shows that Rāma’s question in Sarga 35 also represented Lakṣmaṇa. Having heard Gaṅgā’s ascent to the firmament and heaven, the brothers now ask for her full history across both the divine and mortal worlds (_divyaloke mānuṣaloke ca sambhavam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +222,14 @@ When that sage had finished speaking (_uktavākye munau tasmin_), both heroic br
 
 “For what reason does that sanctifier of the worlds (_lokapāvanī_) flood the three paths (_trīn pathaḥ plāvayet_), and how is Gaṅgā, the foremost of rivers, renowned as the three-pathed stream (_tripathagā viśrutā_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.3–4 (Rāma’s Threefold Question on Tripathagā)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja** distinguish three nested inquiries: (1) by what cause did Gaṅgā flood the three paths of earth, atmosphere, and heaven (_bhūr-bhuvaḥ-svarmārgān_)? (2) how did she acquire the title _Tripathagā_? and (3) with what sacred deeds (_karmabhiḥ kaiḥ_) is she celebrated across the three worlds?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -312,6 +328,14 @@ When Kakutstha-s have enquired that way, the ascetically-wealthy sage
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 recounted the entire narrative in full detail (_nikhilena kathāṃ sarvām_) in the midst of the sages: “In days of old, O Rāma, the blue-throated Lord Śiva (_śitikaṇṭhaḥ_), of mighty austerity, having wedded (_kṛtodvāhaḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.5–6 (kṛtodvāhaḥ śitikaṇṭhaḥ & One Hundred Divine Years)**
+
+Why does Viśvāmitra begin with Śiva’s marriage to Umā? **Tilaka** and **Govindarāja** explain that Gaṅgā’s glory is first revealed in bearing Rudra’s fiery seed (_vakṣyamāṇagaṅgāvaibhavakathanopayogitvena_). **Govindarāja** notes that _kṛtodvāhaḥ_ underscores lawful wedlock before conjugal union (_maithunāya_), while **Śiromaṇi** glosses _śitikaṇṭhaḥ_ as dark-throated and _dhīmataḥ_ as firm in fortitude throughout a hundred celestial years of sport.
 </details>
 </details>
 
@@ -443,6 +467,14 @@ Dreading that no creature could endure a child born of Śiva and Umā after a ce
 
 “Yet no son was born of her, O Rāma, scorcher of foes (_na cāpi tanayas tasyām āsīt_). Thereupon all the gods, with the Grandsire Brahmā at their head, rose up in urgent effort (_samudyuktāḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.7–9 (Why the Gods Intervened — samudyuktāḥ)**
+
+**Rāma Varmā (_Tilaka_)** addresses the seeming paradox that the gods, having themselves arranged Śiva and Umā’s marriage to obtain a war-leader, now strive (_samudyuktāḥ_) to halt their union: after a hundred divine years without seminal emission (_tanayaprāpakaretovisargaḥ_, **Govindarāja**), the accumulated potency would produce an offspring so overwhelming that no world could endure him (_kas tat pratisahiṣyate_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -566,6 +598,14 @@ This prolonged act of copulation is an act of yoga called *mahaa-
 
 “‘The worlds will not be able to bear your fiery energy (_na lokā dhārayiṣyanti tava tejaḥ_), O foremost of gods! Endowed with Brāhmic austerity (_brāhmeṇa tapasā yuktaḥ_), practice asceticism together with the Goddess (_devyā saha tapaś cara_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.10 (brāhmeṇa tapasā yuktaḥ)**
+
+The gods entreat Mahādeva to desist from amorous sport and practice Vedic yoga with Umā as his spiritual consort (**Govindarāja**: _brāhmeṇa vedāvagatena tapasā yogena yuktaḥ san tadaṅgatayā devyā saha tapaś cara_; **Tilaka**: _brahmānanyatālakṣaṇena tapasā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -635,6 +675,14 @@ The word *tejas* also means semen, or offspring, besides resplendence
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Out of desire for the welfare of the three worlds (_trailokyahitakāmārtham_), hold your fiery seed within your own fiery essence (_tejas tejasi dhāraya_)! Protect all these worlds; you ought not to reduce the universe to non-existence (_nālokaṃ kartum arhasi_).’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.11–12 (tejas tejasi dhāraya & Vedic Cosmology)**
+
+On v. 11, **Śiromaṇi** and **Govindarāja** explain _tejas tejasi dhāraya_ as retaining the seminal energy (_retaḥ_) within his own luminous body (_tejomayasvaśarīre_). **Tilaka** cites the Śruti _‘yad etat puruṣe reto bhavati ādityasya tad rūpam’_ (seminal virility is the form of the Sun): by holding his seed within, Śiva sustains the solar orb and preserves the cosmos from dissolution into void (_alokam_).
 </details>
 </details>
 
@@ -748,6 +796,14 @@ Restraining his unshaken energy within himself, Śiva releases upon the Earth th
 
 “‘Together with Umā, I shall hold back my fiery energy by my own fiery power (_dhārayiṣyāmy ahaṃ tejas tejasaiva sahomayā_); let the thirty gods and the Earth attain peace and tranquility (_tridaśāḥ pṛthivī caiva nirvāṇam adhigacchatu_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.13–14 (sahomayā & kṣubhitaṃ sthānāt)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** explain that while Śiva agrees to restrain his unaroused virility (_akṣubhitavīryam_) and Umā restrains her own generative energy (_śoṇitarūpaṃ tejaḥ_, citing Śruti _‘yad etasyāṃ lohitaṃ bhavati agnes tad rūpam’_), the portion already dislodged from its seminal receptacle (_kṣubhitaṃ sthānāt_) cannot be recalled and requires a bearer so that the worlds may find peace (_nirvāṇaṃ śarma_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -848,6 +904,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus addressed, the gods replied to the bull-bannered Lord (_pratyūcur vṛṣabhadhvajam_): ‘Whatever fiery seed has been stirred today (_yat tejaḥ kṣubhitaṃ hy adya_), the Earth (_dharā_) shall bear it!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.15–17 (Earth Overwhelmed & Agni-Vāyu Appointed)**
+
+Naming the Earth _dharā_ (‘the all-bearing one’, _sarvadhāraṇaśaktimatī_, **Govindarāja**), the gods nominate her to receive the seed. Yet when Śiva releases it, it floods the entire globe with its mountains and forests; the gods therefore command Agni—as presiding deity of Pṛthivī (_pṛthivyadhipatitvena_, **Tilaka**)—together with Vāyu as the kinetic force (_cālanalakṣaṇaḥ praveśopāyaḥ_) to enter and gather the dispersed Rudra-energy.
 </details>
 </details>
 
@@ -1014,6 +1078,14 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 
 “Pervaded again by Agni (_tad agninā punar vyāptam_), that seed became the White Mountain (_saṃjātaṃ śvetaparvatam_) and the divine reed-forest _Śaravaṇa_ (_divyaṃ śaravaṇaṃ caiva_), blazing like fire and the sun combined (_pāvakādityasaṃnibham_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.18 (śvetaparvatam & pāvakādityasaṃnibham)**
+
+Concentrated by Vāyu and infused by Agni, the white mass of Rudra’s seed solidifies into the silver-bright White Mountain (_kevalaraupyamayarūpaṃ śvetaparvatam_, **Tilaka**) and the divine reed-grove _Śaravaṇa_, whose splendor **Śiromaṇi** analyzes as an _abhūtopamā_—comparable only if the Sun itself were stationed inside blazing fire (_pāvakasthitādityasadṛśam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1077,6 +1149,14 @@ Though the gods and sages worship Umā and Śiva in relief, the incensed daughte
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “wherein was born the mighty-splendored Kārtikeya, sprung from Agni (_kārtikeyo ’gnisambhavaḥ_). Then the gods together with the hosts of sages (_devāḥ sarṣigaṇās tadā_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.19–20 (kārtikeyo ’gnisambhavaḥ & Appeasing Umā First)**
+
+**Govindarāja** and **Tilaka** note that Skanda is called _agnisambhavaḥ_ because Agni bore and cast the seed into the reed-grove, and _kārtikeyaḥ_ because the Kṛttikās nursed him. Why does v. 19 name Umā before Śiva (_athomāṃ ca śivaṃ caiva_)? **Śiromaṇi** observes that the gods worshipped Umā first out of dread of her impending wrath at having her maternal union interrupted (_pūrvam umāṃ pūjayām āsur ity anena umātaḥ surā bhītā iti dhvanitam_).
 </details>
 </details>
 
@@ -1204,6 +1284,14 @@ Thus the celestials do not directly breed. They take the agency of humans
 
 **22:** “‘you shall no longer be able to beget offspring in your own wives (_apatyaṃ sveṣu dāreṣu notpādayitum arhatha_); from this day forth, let your consorts remain barren (_adyaprabhṛti yuṣmākam aprajāḥ santu patnayaḥ_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.21–22 (Umā’s Curse of Childlessness upon the Gods)**
+
+Rejecting their propitiation, the mountain’s daughter pronounces a twofold curse in v. 22: **Śiromaṇi** explains that the first half-verse bars legitimate issue begotten by the gods themselves (_aurasaputrotpattiṃ saṃnivārya_), while _aprajāḥ santu patnayaḥ_ bars even levirate or surrogate offspring (_kṣetrajaputrotpattim api_). Moreover, _putrakāmyayā_ proves that Pārvatī’s union was solely for a son, not sensual pleasure, establishing her nature as supreme bliss (_paramānandasvarūpatā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1234,6 +1322,14 @@ Thus the celestials do not directly breed. They take the agency of humans
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having spoken thus to all the gods, she cursed the Earth as well (_śaśāpa pṛthivīm api_): ‘O Earth (_avane_), you shall become manifold in form (_naikarūpā_) and the wife of many lords (_bahubhāryā bhaviṣyasi_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.23 (naikarūpā & bahubhāryā)**
+
+Turning upon the Earth for consenting to bear the seed, Umā curses her to be _naikarūpā_—yielding disparate crops in a single field (**Tilaka**) or scarred with barren alkaline wastes (_ūṣarādirūpeṇa nānāvidhā_, **Govindarāja**, **Śiromaṇi**)—and _bahubhāryā_, the simultaneous consort of many kings (_anekabhūpatibhogyā_).
 </details>
 </details>
 
@@ -1311,6 +1407,14 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
 
 “‘And sullied by my wrath (_matkrodhakaluṣīkṛtā_), O dull-witted one (_sudurmedhaḥ_), you shall never obtain the joy born of a son (_na ca putrakṛtāṃ prītiṃ prāpsyasi_), since you did not wish me to have a son (_mama putram anicchatī_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.24 (na ca putrakṛtāṃ prītim & sudurmedhaḥ)**
+
+Why did Umā accuse the Earth of not wishing her a son (_mama putram anicchatī_)? **Tilaka** explains that had the Earth refused to receive the dislodged seed, that child would have been born to Umā herself (_yady eṣā tattejodhāraṇaṃ nānumanyeta tarhi sa putro mamaiva syāt_). Because of this curse, even when Bhūmi later bore Narakāsura to Varāha, she suffered the grief of seeing him slain by Kṛṣṇa in his avatāra (**Tilaka**). Grammatically, **Tilaka** vindicates the Southern vocative _sudurmedhaḥ_ via Pāṇini 5.4.122 (_asIC_-suffix).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1359,6 +1463,14 @@ The sin of earth to bear the curse of Uma Devi is to accept the semen
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Beholding all those gods thus afflicted (_tān sarvān pīḍitān dṛṣṭvā_), the Lord of the gods (Śiva) set out to depart (_gamanāyopacakrāma_) toward the quarter guarded by Varuṇa (_diśaṃ varuṇapālitām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.25–26 (Departure to the West & Northern Peak of Himavān)**
+
+Since a beloved consort’s curse cannot be revoked and the gods’ shame (_vrīḍitān_, **Govindarāja**) and anguish (_pīḍitān_, **Tilaka**, **Śiromaṇi**) were painful to witness, Śiva departed toward Varuṇa’s western quarter and ascended the northern peak called _Himavatprabhava_ to observe lifelong ascetic vows with Umā.
 </details>
 </details>
 
@@ -1479,6 +1591,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus, O Rāma, the detailed account of the Mountain’s daughter has been related to you (_eṣa te vistaro śailaputryā niveditaḥ_); now hear from me, together with Lakṣmaṇa, the glorious origin and power of Gaṅgā (_gaṅgāyāḥ prabhavaṃ caiva śṛṇu me_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**36.27 (Transition to Gaṅgā’s Prabhāva)**
+
+**Tilaka** and **Govindarāja** note the Vedic shortening in _prabhavam_ for _prabhāvam_: having completed the prelude of Umā (_śailaputryāḥ_), Viśvāmitra now turns to Gaṅgā’s supreme feat—bearing Rudra’s fiery seed.
 </details>
 </details>
 

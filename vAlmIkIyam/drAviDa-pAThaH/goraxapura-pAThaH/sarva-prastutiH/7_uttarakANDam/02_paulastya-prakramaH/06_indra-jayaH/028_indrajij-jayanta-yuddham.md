@@ -903,6 +903,170 @@ Surrounded by the Rudras, Vasus, Ādityas, and Sādhyas together with the Marut 
 
 Yet as Śakra went forth (_nirgacchatas tu śakrasya_), the wind blew harshly (_paruṣaṃ pavano vavau_), the sun grew lusterless (_bhāskaro niṣprabhaś cāsīt_), and mighty meteors fell from the sky (_maholkāś ca prapedire_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.28.1–2 (Meghanāda’s Entry After Sumālin’s Fall)**
+
+Opening the sarga immediately after Sāvitra’s destruction of Sumālin in Sarga 27, **Śivasahāya** (_Śiromaṇi_) introduces the episode as the sequel to Sumālin’s slaying (सुमालिवधानन्तरकालिकं वृत्तमाह). Construing verses 1 and 2 as a single syntactic period (श्लोकद्वयमेकान्वयि), he supplies बभूव with व्यवस्थितः: seeing his maternal grand-uncle reduced to ashes and his own army broken by the gods, Meghanāda halts the rout, regroups the fleeing rākṣasas, and steps forward to turn the tide of war.
+
+_____________
+
+**7.28.3–4 (The Wildfire Charge and Panic of the Gods)**
+
+Mounted in his wish-coursing, fire-colored car, Meghanāda bursts upon the celestial lines like a forest conflagration. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) specify the bare demonstrative तां सेनाम् as ‘the army of the gods’ (देवसेनाम्), while **Śivasahāya** highlights the dramatic hyperbole of 7.28.4: even before a blow is struck, the mere sight of the weapon-laden prince entering the fray sends the immortals scattering across every quarter, foreshadowing his eventual title _Indrajit_.
+
+_____________
+
+**7.28.5–6 (Pierced by Shafts or by Rebuke—Śakra’s Rally)**
+
+Commentators diverge incisively on the gerund आविध्य in 7.28.5c. Both **Rāma Varmā** and **Govindarāja** take it passively of the gods themselves—‘having suffered piercing and grown terrified’ (आविध्य वेधं प्राप्य वित्रस्तान्). **Śivasahāya**, however, construes Śakra as its active agent: stinging the terrified gods with harsh reproaches befitting fugitives (पलायमानोचितदुरुक्त्या सन्ताड्य), Indra commands them in 7.28.6 not to retreat (अपसर्तव्यम्) and to turn back from flight (निवर्तध्वमपसरणादिति शेषः), deploying his invincible son Jayanta to stem Meghanāda’s advance.
+
+_____________
+
+**7.28.7–8 (Jayanta’s Arrival and the Gods’ Counterattack)**
+
+Answering Indra’s summons, Jayanta rolls into battle as the celestial counterpart to Rāvaṇa’s heir. **Śivasahāya** (_Śiromaṇi_) analyzes अद्भुतकल्पेन in 7.28.7c as ‘a chariot whose design and workmanship are wondrous’ (अद्भुतः कल्पः कल्पना यस्य तेन रथेन). Emboldened by the young prince’s entry, the thirty gods immediately rally around Śacī’s son (_parivārya śacīsutam_) and press forward in unison to strike Meghanāda, restoring morale after the panic of the preceding verses.
+
+_____________
+
+**7.28.9 (An Evenly Matched Duel of Crown Princes)**
+
+Verse 7.28.9 frames the clash as a mirror-image duel between two royal heirs—Mahendra’s son and the rākṣasa sovereign’s son—backed by their respective hosts. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss सदृशम् specifically as ‘commensurate with their strength and valor’ (बलवीर्यानुरूपमित्यर्थः), while **Śivasahāya** glosses it as ‘worthy and fitting’ (योग्यम्), underscoring that neither prince yields an inch in the opening exchange.
+
+_____________
+
+**7.28.10–12 (Targeting the Charioteers and Rāvaṇi’s Fury)**
+
+In classical chariot warfare, disabling an opponent’s driver was a decisive tactical stroke. **Govindarāja** identifies गोमुखः in 7.28.10 as the personal name of Mātali’s son (गोमुख इति मातलिपुत्रनाम), whom Rāvaṇi targets first with gold-ornamented shafts. **Śivasahāya** clarifies the compressed syntax of 7.28.11: Jayanta retaliates by piercing Rāvaṇi’s charioteer, whereupon the infuriated Rāvaṇi pierces Jayanta from every side. He notes further that 7.28.12 restates this fierce barrage from another angle (तदेव भङ्ग्यन्तरेणाह), showing Rāvaṇi’s rising wrath.
+
+_____________
+
+**7.28.13–15 (The Arsenal of Terror and Sorcerous Darkness)**
+
+Escalating from arrows to an overwhelming deluge of arms, Meghanāda unleashes every engine of war. **Śivasahāya** (_Śiromaṇi_) notes that 7.28.14 enumerates by name the diverse weapons announced generally in 7.28.13 (प्रहरणानां नाम निर्दिशन्नाह). On 7.28.15, **Rāma Varmā** (_Tilaka_) glosses लोकाः as ‘the earth and other worlds together with their inhabitants’ (भूरादयस्तत्प्रजाश्च), while all three commentators—Rāma Varmā, Śivasahāya, and **Govindarāja** (_Bhūṣaṇa_)—supply रावणपुत्रमायया (‘through the battle-illusion of Rāvaṇa’s son’) to explain the sudden engulfing gloom.
+
+_____________
+
+**7.28.16 (The Divine Host Broken Around Jayanta)**
+
+The elliptical accusative समन्तात्तं शचीसुतम् elicits two contrasting syntactic reconstructions. **Rāma Varmā** supplies the absolutive हित्वा (‘forsaking that son of Śacī on every side’, तं शचीसुतं हित्वेति शेषः), showing the arrow-riddled celestials abandoning their champion in distress. **Śivasahāya**, by contrast, supplies स्थितम्, construing दैवतबलम् as ‘the divine host stationed all around Śacī’s son’ that became utterly distraught under the enemy’s shafts. Together, the two readings capture both the initial defensive ring around Jayanta and its rapid disintegration.
+
+_____________
+
+**7.28.17–18 (Friendly Fire in the Blinding Gloom)**
+
+Under Meghanāda’s magic darkness, the battlefield collapses into tragic chaos. Both **Rāma Varmā** and **Govindarāja** gloss विपर्यस्तम् in 7.28.17c as ‘shattered and scattered’ (विशीर्णम्), while **Śivasahāya** glosses it as ‘running contrariwise in total confusion’ (विपरीतं यथा भवति तथा)—all three reading the Parimal form परिधावत as augmentless पर्यधावत. Introducing 7.28.18 as ‘the bitter fruit of that confusion’ (विपर्ययफलमाह), Śivasahāya underscores the grim irony: blinded by darkness, gods slay gods and rākṣasas slay rākṣasas alike.
+
+_____________
+
+**7.28.19–20 (Puloman’s Rescue of His Grandson Jayanta)**
+
+Amid the blinding melee, kinship cuts across cosmic factions: the Daitya Puloman rescues his daughter Śacī’s child from Meghanāda’s onslaught and conceals him in the sea. **Rāma Varmā** (_Tilaka_) identifies तेन as ‘Jayanta’s maternal grandfather Puloman’ (जयन्तमातामहेन पुलोम्ना), and all three commentators resolve the elliptical clause येन सा शची by supplying उत्पादिता (‘by whom that Śacī was begotten’). **Govindarāja** (_Bhūṣaṇa_) adds that this lineage explains her celebrated patronymic (तस्मात् शची पौलोमीति नामवती जाता), while **Śivasahāya** (_Śiromaṇi_) glosses आर्यकः explicitly as मातामहः.
+
+_____________
+
+**7.28.21–22 (Vanishing Taken for Defeat and Rāvaṇi’s Roar)**
+
+Unaware that Puloman has safely spirited Jayanta away, the gods panic at his sudden absence. All three commentators—**Rāma Varmā**, **Śivasahāya**, and **Govindarāja**—carefully gloss प्रणाशम् not as death but as ‘disappearance from sight’ (प्रणाशमदर्शनम्), and link the two participles causally: ‘distressed, and hence cheerless and dejected’ (व्यथिताः अत एवाप्रहृष्टाः खिन्नाः). Seizing the collapse of celestial morale, Rāvaṇi charges forward amid his rākṣasa troops with a thunderous battle-cry.
+
+_____________
+
+**7.28.23–24 (Indra Summons Mātali and the Celestial Car)**
+
+Witnessing both his son’s disappearance and the rout of his forces, Indra resolves to enter the fray personally. Both **Rāma Varmā** and **Śivasahāya** gloss the unusual neuter participle विद्रुतम् in 7.28.23b as ‘flight’ (पलायनम्), clarifying the locative दैवतेषु as flight breaking out among the gods. On 7.28.24, Śivasahāya supplies बभूव (‘stood ready’): Mātali instantly brings forward the already harnessed, awe-inspiring divine chariot, setting the stage for the supreme sovereign of heaven to confront Rāvaṇa.
+
+_____________
+
+**7.28.25–26 (Heaven’s Martial Pageantry)**
+
+Indra’s departure unfolds with full regal splendor. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) anchor ततः specifically to the moment right after Indra mounts the car (इन्द्रस्य तद्रथारोहणानन्तरम्), with Śivasahāya placing the thunderclouds at the chariot’s vanguard (अग्रभागे स्थिताः). Rāma Varmā glosses वायुचपलाः as ‘impelled by the wind’ (वायुप्रवर्तिताः), and **Govindarāja** (_Bhūṣaṇa_) as ‘driven by the wind’ (वायुचलिताः). On 7.28.26, both Tilaka and Śiromaṇi normalize epic वाद्यन्त to अवाद्यन्त, depicting attentive Gandharvas playing music while Apsarases dance.
+
+_____________
+
+**7.28.27–28 (The Divine Phalanx and Ominous Portents)**
+
+Marshaling the Vedic classes of deities—Rudras, Vasus, Ādityas, Sādhyas, and Maruts—Indra marches out as sovereign of heaven. Yet Vālmīki immediately undercuts this celestial triumphalism with classic epic ill omens (_utpātas_) in 7.28.28: a harsh wind, a dimmed sun, and falling meteors (**Śivasahāya** glosses प्रपेदिरे as ‘appeared / fell’). In the narrative logic of the _Uttarakāṇḍa_, these sinister signs already foreshadow the unthinkable reversal ahead—Indra’s impending capture by Meghanāda in Sarga 29.
+
+_____________
+
+**7.28.29–30 (Rāvaṇa’s Serpent-Wreathed Chariot)**
+
+Matching Indra’s entry with dark grandeur, Rāvaṇa ascends his own divine chariot crafted by the celestial architect Viśvakarman. **Śivasahāya** construes verses 29 and 30 as a single unified sentence (श्लोकद्वयमेकान्वयि), following the widespread reading सुमहाकायैः (‘of colossal bodies’) for the colossal serpents coiled around the car. The poetic fancy (_utprekṣā_) of 7.28.30cd—that the hot breath of these hissing serpents makes the chariot appear engulfed in flame—contrasts Rāvaṇa’s venomous, fiery aura with Indra’s storm-cloud majesty.
+
+_____________
+
+**7.28.31–33 (Rāvaṇa Relieves His Son and the General Clash)**
+
+As Rāvaṇa confronts Mahendra directly, he waves back Meghanāda to take command himself. On 7.28.31, **Śivasahāya** (_Śiromaṇi_), reading दिव्यः, makes the chariot itself the subject advancing on Indra. On 7.28.32, **Rāma Varmā** (_Tilaka_) glosses युद्धात् as ‘from the battlefield’ (युद्धस्थानात्) and समुपाविशत् as ‘sat quietly’ (तूष्णीमास्त), with Śivasahāya concurring (तूष्णीमतिष्ठत्). Rāvaṇi’s tactical withdrawal preserves his strength for his decisive return in Sarga 29, while both armies clash in 7.28.33 like rain-clouds pouring down steel.
+
+_____________
+
+**7.28.34 (Kumbhakarṇa’s Waking Frenzy)**
+
+All three commentators pause over Kumbhakarṇa’s wild rampage. **Rāma Varmā** draws a notable inference regarding his boon of sleep: ‘from this we learn that once awakened on occasions such as war, he remains awake even for multiple days’ (अस्य जागरितस्य युद्धादिप्रसङ्गेऽनेकदिनमपि जागरणमित्यतो ज्ञायते). Both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) explain that Kumbhakarṇa targeted no single adversary, fighting indiscriminately with everyone he met (प्राप्तेन सर्वेणाप्ययुध्यत), while **Śivasahāya** adds that he fought friend and foe alike (स्वकीयैः परकीयैश्च), marking his extreme frenzy (मत्ततातिशयः).
+
+_____________
+
+**7.28.35–36 (No Rule of Arms and the Rudras’ Counterstroke)**
+
+Continuing that theme in 7.28.35, **Rāma Varmā** remarks that Kumbhakarṇa observed no restriction even in his choice of weapons (अपि च प्रहरणनियमोऽपि नास्तीत्याह), and **Śivasahāya** attributes this indiscriminate battering with teeth, limbs, and arms alike to the same battle-madness (मत्ततावशादेव). In 7.28.36, the dread Rudras finally check his rampage: both Tilaka (कृतप्रकृष्टयुद्धः) and Govindarāja (प्रकृष्टयुद्धः) highlight the intensity of प्रयुद्धः, while Śivasahāya notes that Kumbhakarṇa was incessantly wounded by their weapons.
+
+_____________
+
+**7.28.37–38 (Kumbhakarṇa as Storm-Cloud and the Rākṣasa Rout)**
+
+Preserved in Govindarāja’s Southern text, 7.28.37 elevates Kumbhakarṇa’s battered figure through a striking full simile (_pūrṇopamā_): his weapon-studded frame glints like lightning, his battle-cries echo like thunder, and his gushing blood pours like monsoon rain from a towering cloud. Yet despite his resilience, the tide swings decisively in 7.28.38. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) supply देवैः (‘by the gods together with the Marut hosts’, मरुद्गणसहितैर्देवैरिति शेषः) as the agents who break and scatter the entire rākṣasa host.
+
+_____________
+
+**7.28.39 (The Wounded and the Dead Still Mounted)**
+
+Vālmīki now zooms in with grim pictorial realism upon the fallen. Both **Rāma Varmā** and **Śivasahāya** gloss कृत्ताः as ‘severed / hacked’ (छिन्नाः), contrasting those convulsing on the ground with warriors whose bodies remain locked upon their vehicles. Rāma Varmā observes that even when their frames slumped from shock or swoon, they remained hooked to their mounts (मोहाद्वाहनेभ्यो निपतितदेहा अपि वाहनेष्ववसक्ता एव स्थिताः); Śivasahāya glosses अवसक्ताः as ‘holding a rigid grip’ (दृढग्रहणवन्तः), adding that they stayed poised thus even in death (मरणेऽपीति शेषः).
+
+_____________
+
+**7.28.40–41 (The Menagerie of Mounts and Frozen Embrace)**
+
+Expanding on 7.28.39 (तदेवाह, Tilaka), verses 40–41 form a single syntactic unit (श्लोकद्वयमेकान्वयि, **Śivasahāya**; श्लोकद्वयमेकं वाक्यम्, **Govindarāja**), cataloging the fantastic demonic cavalry from elephants and camels to crocodiles and piśāca-faced steeds. Commentators interpret विष्टब्धाः with subtle nuance: **Govindarāja** glosses it as ‘remaining propped upon them’ (अवलम्ब्य स्थिताः, with उच्छ्रिताः as ‘merely remaining erect’); **Śivasahāya** as ‘fixed motionless’ (चेष्टाराहित्येन स्थिताः); and **Rāma Varmā** (reading उत्थिताः) notes that some revived when their swoon passed, while others died cloven by divine arms.
+
+_____________
+
+**7.28.42 (The Carnage as a Painted Tableau)**
+
+Arrested in mid-gesture upon the field, the fallen rākṣasas look uncannily like figures painted upon a canvas. All three commentators address the grammatical hiatus चित्रकर्म इव: **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) identify it as epic non-sandhi (असन्धिरार्षः), while **Govindarāja** (_Bhūṣaṇa_) invokes the grammatical principle that sandhi across words in a sentence is optional (वाक्ये सन्धिरनित्यः). Rāma Varmā compares the eerie spectacle to a wondrous picture conjured by Siddhas’ magic (सिद्धमायानिर्मितं चित्रकर्माश्चर्यकरम्), and Govindarāja glosses रणसम्प्लवः as the ‘tumultuous throng of battle’ (रणसम्मर्दः).
+
+_____________
+
+**7.28.43 (The River of Blood—A Sustained Rūpaka)**
+
+Shifting from static painting to kinetic horror, Vālmīki deploys the classic epic trope of the battlefield river (_raṇa-nadī_). **Śivasahāya** analytically unfolds every member of this sustained metaphor (_sāṅga-rūpaka_): blood serves as the river’s gushing stream (शोणितरूपोदकस्य निष्यन्दः प्रसवो यस्याम्), carrion birds—herons/crows and vultures—crowd its banks like water-fowl, and fallen blades and spears lurk beneath the crimson surface as its deadly crocodiles (शस्त्राण्येव ग्राहाः तद्वती नदी), surging at the very vanguard of the battle (संयुगमुखे सङ्ग्राममूर्धनि).
+
+_____________
+
+**7.28.44–45 (Rāvaṇa Plunges Through the Ocean of Gods)**
+
+Seeing his legions devastated, Rāvaṇa refuses to let the rout stand. **Śivasahāya** construes verses 44 and 45 as a single sentence (श्लोकद्वयमेकान्वयि) and glosses प्रविगाह्य as ‘entering / plunging boldly into’ (प्रविश्य). Extending the aquatic imagery from the river of 7.28.43 to the ‘swelling ocean of the enemy army’ (_pravṛddhaṃ sainya-sāgaram_), Vālmīki depicts the Ten-Necked One cleaving directly through the ranks of the thirty gods to lock eyes with Śakra alone, channeling the sprawling battle into a single supreme duel.
+
+_____________
+
+**7.28.46 (The Thunder of Indra’s Bow)**
+
+Meeting Rāvaṇa’s charge head-on, Indra announces his presence not by speech but by the cosmic resonance of his bowstring, whose twang sets all ten directions thundering. While Govindarāja’s reading आगात् supplies a crisp finite verb (‘Śakra came forth’), **Śivasahāya** (_Śiromaṇi_), following the Parimal reading ततः शक्रः, supplies the predicate ‘stood firm at the forefront of battle’ (रणमूर्धनि अतिष्ठदिति शेषः), underscoring Indra’s unshakable majesty as the king of the gods takes center stage.
+
+_____________
+
+**7.28.47–48 (The Fiery Exchange Between Heaven and Laṅkā)**
+
+Verses 47 and 48 mirror each other with stark martial symmetry. First, Indra draws his great bow and rains sun- and fire-bright arrows straight upon Rāvaṇa’s crown (_rāvaṇa-mūrdhani_), a gesture of supreme royal dominance. Yet Rāvaṇa does not flinch: standing firmly planted (_vyavasthitaḥ_), the mighty-armed monarch immediately answers arrow-storm with arrow-storm (**Śivasahāya**: दशग्रीवः शक्रं शरैरवाकिरत्). Neither sovereign yields ground, raising the duel to an equilibrium of cosmic intensity.
+
+_____________
+
+**7.28.49 (The Arrow-Born Darkness Closing Sarga 28)**
+
+Unlike the sorcerous gloom Meghanāda conjured earlier in 7.28.15, the darkness closing Sarga 28 arises purely from the sheer density of missiles filling the sky. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain तमसा वृतम् in nearly identical terms: ‘caused by the arrow-showers of both warriors blanketing every quarter’ (उभयशरवर्षसर्वदिगाच्छादनेनेति भावः / -कृतेनेति शेषः). **Śivasahāya** explicitly supplies जगत् (‘the whole world was shrouded in darkness as Śakra and Daśagrīva fought’), leaving the battle suspended in total eclipse as Sarga 29 opens.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

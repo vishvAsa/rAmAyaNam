@@ -255,6 +255,98 @@ entered the three gateways of the house by the chariot itself.
 
 Reaching Rāma’s mansion, which gleamed like a dense mass of white clouds (_pāṇḍurābhraghanaprabham_), that best of sages (_munisattamaḥ_) entered right through three courtyards (_tisraḥ kakṣyāḥ_) in his chariot itself.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.5.1–2 (purohita-saṅkalpa and śreyase)**
+
+Govindarāja introduces Sarga 5 by explaining why Daśaratha dispatches Vasiṣṭha after already instructing Rāma: the pre-coronation fast requires formal _saṅkalpa_ and Vedic mantras administered by the royal chaplain (अथोपवासस्य पुरोहितसंकल्पमन्त्रादिसाध्यत्वात्पुरोहितं प्रहिणोति पञ्चमे). _Tilaka_ concurs (उपवाससंकल्पादेः पुरोहितसाध्यत्वादिति भावः) and glosses श्रेयसे as the removal of obstacles (विघ्ननिवृत्तिरूपश्रेयोर्थम्), whereas _Śiromaṇi_ takes it as conducive to public welfare (प्रजाकल्याणजनकाय राज्यलाभाय).
+
+_____________
+
+**2.5.3–4 (ślokadvayam ekānvayi and brāhmaṃ ratham)**
+
+Both _Tilaka_ (ययाविति पूर्वेणान्वयः) and _Śiromaṇi_ (श्लोकद्वयमेकान्वयि) construe verses 3 and 4 as a single syntactic unit in which the infinitive उपवासयितुम् and gerund आस्थाय in v. 4 depend on the finite verb ययौ in v. 3d. They gloss ब्राह्मं रथवरम् as a chariot suitable for a _brāhmaṇa_ to mount (ब्राह्मणारोहणयोग्यम्, _Tilaka_; ब्राह्मणवहनयोग्यम्, Govindarāja).
+
+_____________
+
+**2.5.5–6 (pāṇḍurābhraghanaprabham and mānayiṣyan)**
+
+On Rāma’s palace (पाण्डुराभ्रघनप्रभम्), _Tilaka_ and _Śiromaṇi_ take घन as “dense, compact” (पाण्डुराभ्रनिबिडप्रभम्), while Govindarāja cites _Amarakośa_ (घनो मेघे मूर्तिगुणे त्रिषु मूर्ते निरन्तरे) to render it as gleaming like a mass of white clouds (पाण्डुराभ्रसंहतिप्रभम्). Govindarāja notes that the future participle मानयिष्यन् expresses the motive of Rāma’s exit (माननाहेतोः).
+
+_____________
+
+**2.5.7 (rathābhyāśam)**
+
+In v. 7b, Govindarāja glosses रथाभ्याशम् simply as the proximity of the chariot (रथसमीपम्), while _Śiromaṇi_ cites the _Nānārtha_ lexicon (योग्यायामन्तिकेऽभ्यासोऽभिरूपानतिदूरयोः) to confirm the sense of “nearness” as Rāma personally clasps Vasiṣṭha’s hand (स्वयं परिगृह्य) to assist his descent.
+
+_____________
+
+**2.5.8 (praśritam and sambhāṣyābhiprasādya)**
+
+Govindarāja cites _Amarakośa_ (विनीतप्रश्रितौ समौ) to gloss प्रश्रितम् as humble (विनीतम्). On सम्भाष्याभिप्रसाद्य च, _Tilaka_ explains that Vasiṣṭha first addressed Rāma affectionately (वत्सेत्यादि संबोध्य) and then blessed him with praises (स्तुतिभिरिति शेषः). Govindarāja also records the variant समाप्य, deriving it from सम् + आप् in the sense of generating joy through inquiries after welfare (कुशलप्रश्नाधीनप्रीतिं जनयित्वेत्यर्थः).
+
+_____________
+
+**2.5.11–12 (upavāsaṃ kārayām āsa and abhyanujñāpya)**
+
+In v. 11, _Tilaka_ explains the double accusative construction राममुपवासं कारयामास by noting that “fast” (उपवासम्) stands for its formal ritual resolve (तमुपवासं तत्संकल्पं कारयामासेति), governed as a secondary object with causative कृ (ह्रक्रोरिति द्विकर्मकत्वम्). _Śiromaṇi_ adds that अभ्यनुज्ञाप्य in v. 12c signifies taking formal leave after instructing Rāma in the observance (यथाविध्युपदिश्य).
+
+_____________
+
+**2.5.13–14 (sabhājitaḥ and the lotus-lake simile)**
+
+Both _Tilaka_ (विवेश स्ववेश्म) and _Śiromaṇi_ (विवेश स्वभवनमिति शेषः) explain that after Vasiṣṭha’s departure, Rāma dismissed his outer circle of friends (तान्सुहृदः) and retired into his inner sanctum to observe the fast. In v. 14, _Śiromaṇi_ unpacks the two _Bahuvrīhi_ epithets of the lake (सरः): Rāma’s palace teeming with joyful men and women resembles a lake filled with flocks of intoxicated birds (मत्ता द्विजगणाः पक्षिसमूहाः यस्मिन् तत्) and blooming lotuses (प्रफुल्लानि नलिनानि कमलानि यस्मिन् तत्).
+
+_____________
+
+**2.5.15–16 (rājabhavanaprakhyāt and vṛndavṛndaiḥ)**
+
+In v. 15a, _Tilaka_ glosses राजभवनप्रख्यात् as resembling the main royal palace of Daśaratha (मूलराजभवनं सदृशमत्र). On वृन्दवृन्दैः in v. 16a, _Tilaka_ and _Śiromaṇi_ take it as “multitudes upon multitudes” (वृन्दानां वृन्दैः), whereas Govindarāja construes it as a _Bahuvrīhi_ qualifying the eager citizens (वृन्दाद्वृन्दानि येषां ते वृन्दवृन्दाः तैः कुतूहलजनैः) and also records the adverbial reading वृन्दवृन्दम्.
+
+_____________
+
+**2.5.17 (sāgaropama in janavṛndormisaṃgharṣa)**
+
+All three commentators analyze जनवृन्दोर्मि- as an internal metaphor (_rūpaka_): the surging crowds themselves are the ocean waves (जनवृन्दान्येवोर्मयः). Govindarāja points out that the compound combines their mutual jostling (संघर्षः अन्योन्यघट्टनम्) and their overflowing joy (हर्षः आनन्दोद्रेकः), which together generate the roar (ताभ्यां जनितः स्वनोऽस्यास्तीति स्वनवान्) that justifies comparing the highway to the ocean (एतेन सागरोपमा समर्थिता).
+
+_____________
+
+**2.5.18 (vanamālinī)**
+
+In describing Ayodhyā’s festive preparation, _Tilaka_ glosses सिक्ताः as sprinkled with fragrant water (सुगन्धिजलसिक्ताः) and वनमालिनी as festooned with arch-garlands (तोरणमालावती). Govindarāja interprets वनमालिनी more specifically as lined with rows of ornamental trees (अलंकारार्थं विरचितक्रमुककदल्यादिवनपङ्क्तियुक्तेति यावत्) such as areca-nut and plantain trees erected along the avenues.
+
+_____________
+
+**2.5.19 (sastrībālākulaḥ / sastrībālābalaḥ)**
+
+On v. 19b, _Tilaka_ and _Śiromaṇi_ read सस्त्रीबालाकुलः while also noting Govindarāja’s reading सस्त्रीबालाबलः, where अबलाः (“those devoid of strength”, बलरहिताः) denotes the aged (वृद्धाः), encompassing women, children, and elders alike. Govindarāja remarks that from the moment the news of Rāma’s morrow coronation broke, the citizens abandoned food and sleep (आहारनिद्रादिव्यापारान्विहाय), yearning solely for the next day’s sunrise (परदिवससूर्योदयमाकाङ्क्षदिति भावः).
+
+_____________
+
+**2.5.21–22 (vyūhann iva and sitābhraśikharaprakhyam)**
+
+On Vasiṣṭha’s return through the thronged avenue (व्यूहन्निव जनौघं तम्, v. 21c), _Tilaka_ explains that he parted the crowd to either side (राजमार्गं व्याप्य स्थितानेकतस्ततश्चालयन्निव), whereas Govindarāja suggests that his presence marshaled the ecstatic citizens into orderly groups (तत्र तत्र समूहीकुर्वन्निव). Both _Tilaka_ and _Śiromaṇi_ take सिताभ्रशिखरप्रख्यम् in v. 22a as a _madhyamapadalopī_ compound meaning “resembling the peak of the snowy mountain (Himālaya), which is like a white cloud” (सिताभ्रसदृशहिमगिरिशिखरसदृशम्).
+
+_____________
+
+**2.5.23–24 (hitvā rājāsanam and tulyam)**
+
+All three commentators highlight Daśaratha’s exemplary reverence toward his preceptor: upon seeing Vasiṣṭha return, the king immediately left his throne to rise in greeting (राजासनं हित्वा प्रत्युत्थायेत्यर्थः, _Tilaka_, Govindarāja). In the Southern Recension (स्वमतं पप्रच्छ), the king inquires whether his desired task has been fulfilled (स्वाभिमतं कृत्यं पप्रच्छ, _Tilaka_; स्वेप्सितं रामोपवासकरणमित्यर्थः, _Śiromaṇi_), and Vasiṣṭha replies with a single decisive word, कृतम्. In v. 24, तेन तुल्यम् signifies at the exact same moment as the king’s rising (तुल्यकालम्, _Tilaka_; तदा दशरथसमुत्थानकाले तस्य युगपत्, Govindarāja).
+
+_____________
+
+**2.5.25 (guruṇā tv abhyanujñātaḥ)**
+
+_Tilaka_ explains why Vasiṣṭha grants leave to the king (अभ्यनुज्ञातः): since every preparatory duty for the morrow’s coronation has now been duly completed, the preceptor bids the monarch retire and take rest (सर्वस्य कर्तव्यस्य कृतत्वाद्विश्रम्यतामित्यर्थः).
+
+_____________
+
+**2.5.26 (śaśīva tārāgaṇasaṃkulaṃ nabhaḥ)**
+
+In the closing _Vaṃśastha_ verse, _Śiromaṇi_ draws out the full correspondence of the simile: Daśaratha (पार्थिवः) is the moon (शशी), his inner palace (निवेशनम्) is the sky (नभः), the richly attired ladies (अग्र्यवेषप्रमदाजनाः) are the clusters of stars (तारागणः), and the king’s radiant entry (विदीपयन्, glossed by Govindarāja as तेजोविशेषेण द्योतयन्) illuminates the entire chamber.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

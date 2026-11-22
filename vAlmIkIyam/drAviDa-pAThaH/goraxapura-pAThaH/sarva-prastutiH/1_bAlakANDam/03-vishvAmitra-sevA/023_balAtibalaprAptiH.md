@@ -81,6 +81,14 @@ and Lakshmana, those that are sleeping on a grass bed. [1-23-1]
 
 When the night had dawned (_prabhātāyāṃ tu śarvaryām_), the great sage Viśvāmitra addressed Kākutstha, who was reposing upon a couch of leaves (_śayānaṃ parṇasaṃstare_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.1–2 (kausalyā suprajā rāma — Govindarāja**
+
+’s Exegesis): **Rāma Varmā (_Tilaka_)** and **Śiromaṇi** note that _parṇasaṃstare_ (“couch of leaves”) harmonizes with _tṛṇaśayane_ (22.24b) as a bed of grass and leaves. On v. 2—the fountainhead of the _Śrī Veṅkaṭeśa Suprabhātam_—**Govindarāja (_Bhūṣaṇa_)** notes that beholding Rāma’s sleeping beauty (_nidrākālikaśriyam avalokya_), Viśvāmitra praises Kausalyā because unlike Daśaratha, who clung to Rāma, she sent him forth promptly despite maternal tenderness (_kevalavātsalyaparāpi drutaṃ sādaraṃ preṣitavatī_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +167,14 @@ son [in you.]
 
 “Blessed with a noble son is Kausalyā (_kausalyā suprajā_), O Rāma! The eastern morning twilight is breaking (_pūrvā saṃdhyā pravartate_); arise, O tiger among men (_uttiṣṭha naraśārdūla_)! The sacred morning rites pertaining to the gods must now be performed (_kartavyaṃ daivam āhnikam_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.2 (Five Layers of pūrvā saṃdhyā pravartate)**
+
+**Govindarāja** unfolds five resonances: (1) Like the eastern dawn bearing the sun, Kausalyā bore Rāma; (2) The hour to dispel rākṣasa darkness has come; (3) “My night of ignorance has ended in direct vision of the Lord (_bhagavatsākṣātkāro me jātaḥ, adya me suprabhātam_)”; (4) Arise as _naraśārdūla_ (foremost of men) to model _sandhyā_ worship for the world (citing _Bhagavadgītā_ 3.21); and (5) _daivam āhnikam_ denotes the daily rites ordained by God.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -214,6 +230,14 @@ to be meditated placing her in ones own heart or amid the solar system.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those supremely noble and resonant words of the sage (_tasyarṣeḥ paramodāraṃ vacaḥ śrutvā_), those two heroic best of men (_narottamau_), having bathed and offered water libations (_snātvā kṛtodakau_), silently recited the supreme _Gāyatrī_ prayer (_jepatuḥ paramaṃ japam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.3–6 (paramaṃ japam & sarayvāḥ saṃgame)**
+
+All three commentators identify _paramaṃ japam_ as the _Gāyatrī_ mantra (_na sāvitryāḥ paraṃ japyam_, **Govindarāja**), after which the party beholds the confluence of the Sarayū and three-pathed Gaṅgā (_tripathagām_).
 </details>
 </details>
 
@@ -498,6 +522,14 @@ asked. [1-23-8]
 
 “Whose is this sacred hermitage (_kasyāyam āśramaḥ puṇyaḥ_), and what personage dwells herein (_ko nv asmin vasate pumān_)? O venerable Lord, we two wish to hear (_bhagavañ śrotum icchāvaḥ_), for great indeed is our curiosity (_paraṃ kautūhalaṃ hi nau_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.8–9 (prahasya — The Sage’s Smile)**
+
+Why did Viśvāmitra smile (_prahasya_) upon hearing the princes’ question? **Tilaka** and **Govindarāja** offer two explanations: first, out of delight at the sweet curiosity of the young princes (_bālakavacanaśravaṇaja-saṃtoṣād dhāsaḥ_, **Tilaka**; **Govindarāja**); or second, marveling that the omniscient Lord himself plays the role of an inquiring human youth (_sarvajño ’py evaṃ nāṭayatīti vā_, **Tilaka**; _mānuṣabhāvanaṭanāt_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -580,6 +612,14 @@ Hearing those words of the two brothers (_tayos tad vacanaṃ śrutvā_), that b
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Kandarpa, who is called Kāma by the wise (_kāma ity ucyate budhaiḥ_), formerly possessed a corporeal form (_mūrtimān āsīt_). While Lord Sthāṇu (Śiva) was practicing austerity right here (_tapasyantam iha sthāṇum_), absorbed in meditation under a strict vow (_niyamena samāhitam_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.10–11 (tapasyantam iha sthāṇum & kṛtodvāham)**
+
+To harmonize _tapasyantam_ (“practicing austerity”) with _kṛtodvāham_ (“having married”), **Tilaka** glosses _kṛtodvāham_ as having risen from yogic _samādhi_ (_samādheḥ kṛtavyutthānam_), whereas **Govindarāja** construes _kṛtodvāham_ proleptically—Kāma infused Śiva with desire so that he would wed Pārvatī (_yadā ayaṃ kṛtodvāho bhavati tadā taṃ pārvatyāṃ sābhilāṣacittam akarot_).
 </details>
 </details>
 
@@ -720,6 +760,14 @@ editions have this as *dagdhasya tasya raudreNa chakShuShA*
 
 “And as he was glared upon by Rudra with his fiery third eye (_avadhyātaś ca rudreṇa cakṣuṣā_), O delight of the Raghus, all the limbs of that foolish god (_sarvagātrāṇi durmateḥ_) withered and fell away from his own body (_vyaśīryanta śarīrāt svāt_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.12 (avadhyātaś ca rudreṇa cakṣuṣā)**
+
+Rebuked with a _huṃkāra_ and glared upon (_avadhyātaḥ_, **Tilaka** and _Bhaṭṭa_; var. _avadagdhasya raudreṇa_, **Govindarāja**) by Rudra’s third eye, all the limbs (_sarvagātrāṇi_) of foolish Kāma disintegrated from his body.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -779,6 +827,14 @@ physical form of love, whereby only kaama, the mental desire, is remaining.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There the body of Kāma, utterly consumed by that high-souled deity (_tasya gātraṃ hataṃ tatra nirdagdhasya mahātmanā_), was destroyed; and through the wrath of the Lord of the gods (_krodhād deveśvareṇa ha_), Kāma was rendered bodiless (_aśarīraḥ kṛtaḥ kāmaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.13–14 (Etymology of Anaṅga & Aṅga-viṣaya)**
+
+All three commentators highlight Vālmīki’s double etiological derivation: rendered bodiless (_aśarīraḥ kṛtaḥ_) by Deveśvara Śiva’s wrath, Kāma became renowned as _Anaṅga_ (_anaṅga iti vikhyātaḥ_); and the prosperous land where, fleeing in terror (**Tilaka**), he shed his limbs (_yatrāṅgaṃ sa mumoca ha_) became celebrated as _Aṅga-viṣaya_ (_aṅgadeśa iti vikhyātaḥ_, **Śiromaṇi**, **Govindarāja**).
 </details>
 </details>
 
@@ -889,6 +945,14 @@ na vidyate ityarthaH||* Govindaraja.
 
 “His is this sacred hermitage (_tasyāyam āśramaḥ puṇyaḥ_), and these sages dwelling here were from of old his disciples devoted to _dharma_ (_tasya ime munayaḥ purā śiṣyā dharmaparāḥ_); in them no sin whatsoever is found (_teṣāṃ pāpaṃ na vidyate_), O hero!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.15 (tasyāyam āśramaḥ & Kalpa-bheda)**
+
+Answering Rāma’s inquiry in v. 8, **Tilaka** and **Śiromaṇi** refer _tasya_ to Lord Sthāṇu (Śiva), whose disciplic lineage (_pūrvakālasaṃtānaparamparayā śiṣyāḥ_) still inhabits the grove. **Govindarāja** notes that _tasya_ may also refer to Kāma (though once Kāma’s disciples, they are now righteous and sinless), and explains that Purāṇic accounts placing Kāma’s burning on Himavat refer to another _kalpa_ (_kalpāntaram apekṣya_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -934,6 +998,14 @@ and Sarayu, oh, Rama with auspicious mien, tomorrow we will cross over the River
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let us pass the night here today (_ihādya rajanīṃ rāma vasema_), O Rāma of auspicious aspect (_śubhadarśana_), between the two sacred rivers (_puṇyayoḥ saritor madhye_); tomorrow we shall cross over (_śvas tariṣyāmahe vayam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.16–18 (tapodīrgheṇa cakṣuṣā)**
+
+Before the guests even enter the grove, the resident ascetics perceive their arrival—and Rāma’s mission to slay Tāṭakā—through their far-reaching eye of yogic austerity (_tapojanyajñānena viprakṛṣṭārthagrahaṇasamarthena cakṣuṣā_, **Govindarāja**, **Tilaka**).
 </details>
 </details>
 
@@ -1082,6 +1154,14 @@ and feet wash and then offered hospitality firstly to Sage Vishvamitra. [1-23-18
 
 Perceiving their arrival (_vijñāya_), the sages were supremely pleased (_paramaprītā munayaḥ_) and experienced great joy (_harṣam āgaman_). Having first offered water for honoring the hands (_arghyam_), water for washing the feet (_pādyam_), and hospitable refreshments (_tathātithyam_) unto the son of Kuśika (_nivedya kuśikātmaje_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.19–20 (nivedya kuśikātmaje & rāmalakṣmaṇayoḥ paścāt)**
+
+Why did the sages of Kāmāśrama offer _arghya_, _pādya_, and _ātithya_ first to Viśvāmitra and only afterwards (_paścāt_) to Rāma and Lakṣmaṇa? **Tilaka** explains that because the Supreme Lord had assumed a human princely form and honored Viśvāmitra as his preceptor (_bhagavato ’pi manuṣyarūpadhāritvena viśvāmitre gurutvanāṭanena_), the ascetics scrupulously observed the protocol of guru and disciples.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1193,6 +1273,14 @@ have very comfortably stayed in the precincts of Shiva's hermitage. [1-23-21]
 
 With collected minds (_samāhitāḥ_), those sages duly recited the evening _sandhyā_ prayers (_yathārham ajapan saṃdhyām ṛṣayas te_); and escorted by the resident ascetics of noble vows (_tatra vāsibhir ānītā munibhiḥ suvrataiḥ saha_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.21 (yathārham ajapan saṃdhyām)**
+
+**Govindarāja** construes _saṃdhyām_ as an accusative of continuous duration (_atyantasaṃyoge dvitīyā_) with _gāyatrīm_ supplied as the object of _ajapan_, citing the Smṛti ordinance on _Gāyatrī_ repetition according to capacity (_yathāśakti_: _sahasraparamāṃ devīṃ śatamadhyāṃ daśāvarām_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1255,6 +1343,14 @@ then that virtuous sage Vishvamitra, saint the eminent, delighted the delightful
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 They dwelt together most happily there in the precinct of Kāmāśrama (_nyavasan susukhaṃ tatra kāmāśramapade tathā_); and with delightful narratives (_kathābhir abhirāmābhiḥ_), the righteous-souled Kauśika, that bull among sages (_dharmātmā kauśiko munipuṅgavaḥ_), regaled the two delightful princes (_abhirāmau nṛpātmajau ramayām āsa_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23.22 (kāmāśramapade & Concluding Anuprāsa)**
+
+**Govindarāja** explains the name _Kāmāśrama_ historically as the hermitage where Kāma was burned (_kāmadāhāt kāmāśramanāmakasya pade_), while **Tilaka** offers a luminous second etymology: the hermitage of Lord Bhaga (Śiva) that fulfills all desires (_sarvakāmaparipūrake bhagāśrame_). **Śiromaṇi** and **Govindarāja** admire the chime of the closing _anuprāsa_ (_kathābhir abhirāmābhir abhirāmau ... ramayām āsa_).
 </details>
 </details>
 

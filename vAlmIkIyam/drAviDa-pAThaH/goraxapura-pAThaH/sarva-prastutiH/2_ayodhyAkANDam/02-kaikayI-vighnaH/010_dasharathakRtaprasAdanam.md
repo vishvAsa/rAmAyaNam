@@ -562,6 +562,134 @@ the good news first (thinking that she has not yet heard the news).
 
 dismissed the royal assembly (_upasthānam anujñāpya_) and entered his inner apartments, knowing that Rāma&#x27;s consecration was now publicized (_adya rāmābhiṣeko vai prasiddha iti jajñivān_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.10.1–2 (vidarśitā and digdhaviddhā)**
+
+Introducing this Sarga, Govindarāja and _Tilaka_ note that the poet recapitulates Kaikeyī's state to link it with the king's arrival (उक्तानुवादपूर्वं राज्ञः कैकेयीदर्शनायागमनं दर्शयति). Both gloss विदर्शिता as “instructed perversely” (विपरीतं बोधिता) and दिग्धविद्धा as “pierced by a poison-smeared shaft” (विषलिप्तबाणेन विद्धा, Govindarāja, citing _Amarakośa_: विषाक्ते दिग्धलिप्तकौ).
+
+_____________
+
+**2.10.3–4 (dīnā and nāgakanyeva)**
+
+Observing the narrative order, Govindarāja remarks that the three half-verses beginning सा दीना logically precede her declaration in v. 2 (निश्चित्येतिपूर्वश्लोकात्पूर्वमेव निवेशनीयमर्थसंगतिस्वारस्यात्): anxious as to whether her plot will succeed (स्वोद्योगः फलिष्यति नवेति शङ्कया दीना), she hisses like a serpent maiden (नागकन्येव) and ponders the path to her own happiness.
+
+_____________
+
+**2.10.5–6 (siddhim / nidhim and bhrukuṭim)**
+
+In v. 5, _Tilaka_ explains सिद्धिम् as magical or alchemical perfection (रसरसायनादिसिद्धिम्) and also records the variant निधिम् (“as though she had found a treasure,” धनं प्राप्येव). Govindarāja notes that Kaikeyī's lying down is mentioned again in v. 6 to highlight her fierce frown (भ्रुकुटीं क्रोधजनिताकारविशेषम्) and the scattering of her ornaments.
+
+_____________
+
+**2.10.7–9 (apaviddhāni, ekaveṇīm, and gatasattvā)**
+
+In v. 6–7, Govindarāja notes that in her rage Kaikeyī flung her jewels onto the floor instead of placing them in a casket (तानि भूमिं प्रपेदिरे न तु मञ्जूषिकां क्रोधातिशयसूचनाय), where they lay scattered like stars. In v. 9, _Tilaka_ explains एकवेणीम् as unbraiding her two side-plaits and tying her hair into a single braid of sorrow (उरोभागीयवेणीद्वयमुन्मुच्य). Govindarāja cites _Amarakośa_ (द्रव्यासुव्यवसायेषु सत्त्वमस्त्री तु जन्तुषु) to gloss गतसत्त्वा as “bereft of strength or life-breath” (क्षीणबला विगतासुरिति वार्थः).
+
+_____________
+
+**2.10.10–11 (upasthānam, jajñivān, and vaśī)**
+
+In v. 10, Govindarāja and _Tilaka_ gloss उपस्थानम् as the royal assembly hall (आस्थानं सदः), or else Vasiṣṭha and the ministers who had taken their seats (कृतासनाविषयस्य मन्त्रिपुरोहितादेः, _Tilaka_). Realizing that the consecration was now public knowledge (इतः पूर्वं कैकेय्या न श्रुतिगोचर इति ज्ञातवान्, _Tilaka_), the king goes himself to tell Kaikeyī. _Tilaka_ wryly qualifies वशी (“self-controlled”): “in matters other than his own beloved wife” (वशी स्वस्त्रीव्यतिरिक्तविषये इति बोध्यम्).
+
+_____________
+
+**2.10.12 (rāhuyuktaṃ niśākaraḥ)**
+
+_Tilaka_ explains the ominous simile in v. 12ab: Kaikeyī's whitewashed palace (सुधाधवलतया) resembles a sky of pale white clouds (पाण्डुराभ्रमिवाकाशम्), yet because it harbors the wrathful Kaikeyī inside, it is like a sky where Rāhu waits to swallow the entering moon-king (रुष्टकैकेयीयुक्ततया सुधाधवलतया च राहुयुक्तपाण्डुराभ्राकाशसादृश्यम्).
+
+_____________
+
+**2.10.13 (vāditrarava, kubjāvāmanikā, and citragṛhaiḥ)**
+
+Govindarāja observes that the poet describes the sensuous stimulants (रतिभावोद्दीपनम्) of Kaikeyī's palace to heighten the pathos of Daśaratha's impending shock (उद्वेगं दर्शयितुम्), citing _Amarakośa_ on the four classes of musical instruments (ततं वीणादिकं वाद्यमानद्धं मुरजादिकम्... चतुर्विधमिदं वाद्यं वादित्रातोद्यनामकम्). _Tilaka_ explains that hunchbacked and dwarf maids (ह्रस्वा वामनिकाः) are employed in royal harems because beauteous maids would arouse co-wife jealousy (सुरूपादासीनां सापत्न्यसंभवामयान्तःपुरेऽनवतारः), and glosses चित्रगृहैः as galleries hung with paintings (चित्रयुक्तगृहैः).
+
+_____________
+
+**2.10.14–16 (nityapuṣpaphalaiḥ)**
+
+On the trees bearing perpetual flowers and fruit (नित्यपुष्पफलैर्वृक्षैः) in v. 14, Govindarāja attributes the marvel to special arboricultural treatments (दोहदविशेषादिति ज्ञेयम्), whereas _Tilaka_ traces it to a divine boon granted when Daśaratha aided Indra (देवराजसाहाय्यकरणेन दैवप्रसादात्).
+
+_____________
+
+**2.10.17–18 (kāmabalasaṃyuktaḥ and tāṃ velām)**
+
+Stimulated by the garden bowers and by the hour of tryst (रतिकालत्वाच्चेति भावः, Govindarāja), the king looks for Kaikeyī on her couch. Both Govindarāja and _Tilaka_ explain his immediate dismay (विषादहेतुमाह): never before had Kaikeyī missed the hour of his coming to her bedchamber (कामवशात्स्वशयनागमवेलां नात्यवर्तत, _Tilaka_; तां वेलां रतिवेलाम्, Govindarāja).
+
+_____________
+
+**2.10.19–20 (śūnyam, svārthalipsum, and apaṇḍitām)**
+
+In v. 19, _Tilaka_ and _Śiromaṇi_ gloss शून्यम् as “devoid of Kaikeyī” (कैकेयीरहितम्). In v. 20, _Tilaka_ explains अपण्डिताम् as lacking discrimination between right and wrong (कार्याकार्यविवेकरहिताम्) and स्वार्थलिप्सुम् as craving Bharata's consecration (भरताभिषेकेच्छावतीम्); ignorant of this, the king asks the female doorkeeper (प्रतिहारी दौवारिकी, _Tilaka_) after her just as on previous occasions (यथापुरं यथापूर्वम्, Govindarāja and _Tilaka_).
+
+_____________
+
+**2.10.21–22 (lulitavyākulendriyaḥ and atathocitām)**
+
+Already dejected at not seeing her, the king sinks into redoubled grief (भूयोऽधिको विषादः, _Tilaka_) upon hearing she has entered the chamber of wrath. _Tilaka_ distinguishes the two elements of लुलितव्याकुलेन्द्रियः: his outer senses such as sight become unsteady (चक्षुरादेर्लुलितत्वमतिचञ्चलत्वम्), while his inner mind is bewildered wondering what provoked her wrath (चित्तस्य किंनिमित्तः कोप इति शङ्कया व्याकुलत्वम्). Both Govindarāja and _Tilaka_ gloss अतथोचिताम् as “unworthy of lying on the bare floor” (भूमिशयनानर्हाम्, Govindarāja).
+
+_____________
+
+**2.10.23–24 (vṛddhaḥ / taruṇīm and apāpaḥ / pāpasaṃkalpām)**
+
+Asking why Daśaratha failed to guess that the co-wife's mother was angry over Rāma's consecration (सपत्नीमातुः कोपस्तन्निमित्त इति कुतो राजा न ज्ञातवान्), Govindarāja points to the two contrasting pairs in vv. 23–24: because he was guileless at heart (अकुटिलसत्त्वतया = अपापः) and infatuated as an old man with a young bride (वृद्धः तरुणीं भार्याम्... मोहाच्च), he could not suspect her wicked resolve (पापसंकल्पां रामाभिषेकविघातादिमनोरथाम्, _Tilaka_).
+
+_____________
+
+**2.10.25–26 (The String of Six Similes)**
+
+Govindarāja masterfully synthesizes the sequence of similes in vv. 24cd–26ab: Kaikeyī resembles a severed creeper (लतामिव) in lying flat on the ground, a fallen goddess (देवतामिव) in the shock her fall provokes, a trembling Kinnarī (किंनरीमिव) in her pitiable state, a fallen Apsaras in her loveliness, a baffled illusion (मायामिव; or, in the variant वामीमिव, a strayed mare, वामीं वडवाम्, citing _Amarakośa_: वाम्यश्ववडवा) in her stupefaction, a netted doe (हरिणीमिव संयतां वागुराबद्धाम्) in her helplessness, and a poisoned cow-elephant (करेणुमिव) in her mortal anguish (जीवितावहतेति क्रमाल्लताद्यौपम्येन लभ्यन्ते).
+
+_____________
+
+**2.10.27–28 (abhisaṃtrastacetanaḥ and abhiyuktāsi)**
+
+Like a bull elephant tending his wounded mate, the king strokes her with both hands (पाणिभ्यां परिमृश्य पृष्ट्वा, _Tilaka_). Govindarāja explains अभिसंत्रस्तचेतनः as terrified by three possibilities: whether she desires some treasure, is stricken by illness, or is angry (किमर्थेच्छा उत रोगग्रस्ता उत क्रुद्धेति त्रासः). In v. 28, _Tilaka_ construes आत्मनि as “directed against me” (मयि संश्रितम्), while Govindarāja allows “in you or in me” (त्वयि मयि वा).
+
+_____________
+
+**2.10.29–30 (kalyāṇacetasi and bhūtopahatacitteva)**
+
+In v. 29, _Tilaka_ glosses कल्याणचेतसि मयि as “while I, who never wrong you, am alive” (अनपकारिणि मयि जीवति सति). Seeing her lie in the dust like one possessed by a spirit (पिशाचग्रस्तचित्तेव, Govindarāja; ग्रहाविष्टेव, _Tilaka_), the king first addresses the hypothesis of illness (रोगपक्षं परिहरति, Govindarāja), assuring her that his well-rewarded royal physicians (अभितुष्टाः दानमानादिभिः, Govindarāja) can cure any malady.
+
+_____________
+
+**2.10.31–32 (kasya vā and mā rautsīḥ / mā rodīḥ)**
+
+Turning from the hypothesis of illness to that of anger (क्रोधपक्षे परिहारमाह, Govindarāja), the king asks whom she wishes favoured or punished. On कस्य वा in v. 31c, Govindarāja and _Śiromaṇi_ note that the genitive may stand for the instrumental agent (तृतीयार्थे षष्ठी केन वा ते प्रियं कृतम्, Govindarāja; कृत्यानां कर्तरि वा इति षष्ठी, _Śiromaṇi_). On मा रौत्सीः in v. 32c, _Tilaka_ and _Śiromaṇi_ derive it from रुध् (“do not lock up or conceal your intention,” आत्मनोऽभिप्रायं रुद्धं गुप्तं मा कार्षीः), whereas Govindarāja reads मा रोदीः (“do not weep,” रोदनं मा कार्षीः).
+
+_____________
+
+**2.10.33 (Absolute Royal Arbitrariness)**
+
+Elaborating how he will reward or punish at her pleasure (तदेव प्रपञ्चयति, _Tilaka_), the infatuated monarch offers to execute even one who shouldn't be slain (अवध्यो वध्यतां को वा), release a condemned criminal, enrich a pauper, or reduce a wealthy man (द्रव्यवान्) to a beggar (अकिंचनो दरिद्रः, _Śiromaṇi_).
+
+_____________
+
+**2.10.34–35 (ātmano jīvitenāpi and balam ātmani)**
+
+Addressing the third hypothesis—that she desires some rare gift (अर्थेच्छापक्षं परिहरति, Govindarāja)—Daśaratha declares that he would sacrifice his own life rather than thwart her wish (मम जीवनेनापि हेतुना त्वत्प्रियं व्याहन्तुं नोत्सहे, Govindarāja; आत्मनो जीवितेन हेतुनापि, _Tilaka_). Both Govindarāja and _Tilaka_ explain बलमात्मनि जानन्ती as “knowing the power of my affection for you” (त्वयि विद्यमानं वात्सल्यबलम्, Govindarāja; मत्प्रेमबलं जानन्ती, _Tilaka_).
+
+_____________
+
+**2.10.36 (sukṛtenāpi te śape and cakram)**
+
+In v. 36, _Tilaka_ explains the solemn oath सुकृतेनापि ते शपे: “If I do not perform what you ask, may all my accumulated merit be yours” (यदि त्वदुक्तं न कुर्यां तर्हि सर्वं सुकृतं मे तवास्त्विति शपथं ददामि). On चक्रम्, _Tilaka_ and _Śiromaṇi_ gloss it as the orb of the sun (सूर्यमण्डलमावर्तते प्रकाशयति, _Tilaka_; रविमण्डलम्, _Śiromaṇi_), while Govindarāja offers three interpretations: the sun's wheel, the king's chariot wheel, or the wheel of his imperial command (चक्रं सूर्यस्य रथचक्रमाज्ञा वा).
+
+_____________
+
+**2.10.37–39 (Imperial Tribute and nīhāram iva raśmivān)**
+
+Enumerating the tributary provinces from Sindhu-Sauvīra and Saurāṣṭra to Vaṅga, Aṅga, Magadha, Kāśi, and Kosala, Daśaratha places all their treasure at her disposal (तत्र जातं द्रव्यमपि मदधीनमेव, _Tilaka_). In the six-quarter stanza v. 39, Govindarāja glosses आयासेन as the self-inflicted exhaustion of lying on the floor (भूशयनायासेन) and रश्मिवान् as the sun (सूर्यः) scattering frost.
+
+_____________
+
+**2.10.40 (paripīḍayituṃ bhūyaḥ)**
+
+Having bound the king by his oath, Kaikeyī is reassured (समाश्वस्ता) and prepares to torment him further (भूयः परिपीडयितुम्): _Tilaka_ explains that having already pained him by lying on the bare floor, she now proceeds to torture him with her cruel words (निजभूशयनादिना पूर्वं पीडितमेवाप्रियवचनादिना पुनः पीडयितुम्), while Govindarāja glosses it as binding him fast in the noose of his vow (प्रतिज्ञापाशेन निबन्धयितुम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

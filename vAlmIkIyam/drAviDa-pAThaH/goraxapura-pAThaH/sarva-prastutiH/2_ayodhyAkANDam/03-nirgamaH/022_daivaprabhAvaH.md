@@ -1125,6 +1125,98 @@ are all the acts of destiny"
 
 “Pleasure and pain, fear and anger, gain and loss, birth and death (_bhavābhavau_)—whatever of this kind befalls anyone, is not all that the work of Destiny (_nanu daivasya karma tat_)?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.22.1–2 (saviśeṣam amarṣitam and dhārayan sattvam)**
+
+Construing vv. 1–2 as a single sentence (श्लोकद्वयमेकं वाक्यम्), Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) explain that Lakṣmaṇa is “peculiarly indignant” (सविशेषम् अन्तरङ्गजनापेक्षया सातिशयम् अमर्षितम्) beyond all other intimates at Rāma's loss of the throne. Approaching him affectionately (आसाद्य अभिमुखीकृत्य), the self-mastered (आत्मवान् वश्यमनस्कः) Rāma manifests his unshakable mental strength (सत्त्वं चित्तमविकारितया धारयन् प्रकटयन्).
+
+_____________
+
+**2.22.3–5 (avamānaṃ nirasya and sambhārasambhramaḥ)**
+
+In vv. 3–4, Rāma bids Lakṣmaṇa curb his wrath against the father and grief for Rāma (रोषं पित्रादिविषयं शोकं मद्विषयम् [_Bhūṣaṇa_]), dismiss the sense of humiliation (अवमानम्) because the exile arises not from any fault or enemy's triumph, and embrace the supreme joy (उत्तमं हर्षम्) of rescuing their father through truth (सत्यपरिपालनेन पितरं तारयिष्याम इति हर्षम्). In v. 5, the same zeal (सम्भ्रमः त्वरा उत्साहः) spent on consecration supplies must now be redirected toward forest attire (वनगमनपरिकरसंपादनायास्तु).
+
+_____________
+
+**2.22.6 (mātā naḥ sā)**
+
+While _Śiromaṇi_ takes “our mother” (माता नः सा) as Kausalyā, Govindarāja and _Tilaka_ (in its second gloss) identify her as Kaikeyī, whose mind is tormented by the fear that Rāma and Lakṣmaṇa might conspire to seize the kingdom (लक्ष्मणेन संमन्त्र्य राज्यं पुनः किं रामो ग्रहीष्यतीति शङ्कावती).
+
+_____________
+
+**2.22.7–8 (śaṅkāmayaṃ duḥkham and na buddhipūrvam)**
+
+Even the momentary pain born of suspicion in Kaikeyī's mind (तस्याः कैकेय्याः मनसि प्रतिसंजातं शङ्कामयं दुःखम्) is something Rāma cannot bear to ignore (उपेक्षितुम्) or witness (उदीक्षितुं द्रष्टुम् in the variant cited by _Tilaka_ and _Śiromaṇi_), for he cannot remember ever having committed even the smallest offense (अल्पमपि विप्रियम्) against his mothers or father, whether deliberately (बुद्धिपूर्वम्) or inadvertently (अबुद्धम् अज्ञानपूर्वं वा).
+
+_____________
+
+**2.22.9–10 (paralokabhayād bhītaḥ and tasya tāpas tapec ca mām)**
+
+Distinguishing the three epithets in v. 9a, _Tilaka_ and Govindarāja gloss सत्यः as truthful by nature (सत्यवचनस्वभावः), सत्याभिसंधः as true to his promises (सत्यप्रतिज्ञः), and सत्यपराक्रमः as of unfailing prowess (अमोघपराक्रमः). Fearing spiritual ruin in the hereafter if his word fails (परलोकभयात् परलोकहानेरिति यावत्), Daśaratha would suffer torment (मनस्तापः) if the consecration were not called off (अप्रतिसंहृते अनिवर्तिते), and his father's torment would burn Rāma with the thought that his birth as a son was in vain (पितृहितमकुर्वतो मम जन्म व्यर्थमिति पीडयेत् [_Tilaka_]).
+
+_____________
+
+**2.22.11–12 (anvag eva and abhiṣecayatām)**
+
+Govindarāja cites _Amara_ (अन्वगन्वक्षमनुगेऽनुपदम्) to gloss अन्वगेव as “immediately, on the spot” (अनुपदमेव / शीघ्रमेव). Under Govindarāja's reading अभिषेचयिता (v. 12d), the periphrastic future (लुट्) means “she will have Bharata consecrated.”
+
+_____________
+
+**2.22.13–14 (buddhiḥ praṇītā yeneyam)**
+
+Explaining v. 14, _Tilaka_ identifies the agent (येन) who instilled this resolve in Kaikeyī through Mantharā as the Supreme Creator (येनेश्वरेण विधात्रेयं बुद्धिः कैकेय्याः प्रणीता मन्थराद्वारा दत्ता), hinting esoterically that Rāma himself as the Lord willed it to relieve the gods' distress (मत्संकल्पकृतमेव तदिति गूढं व्यङ्ग्यम्). Govindarāja alternatively takes येन as Rāma himself, who has firmly fixed his own mind on forest exile (येन मया इयं वनवासबुद्धिः प्रणीता) and ought not to trouble himself (तं मां संक्लेष्टुं नार्हामि).
+
+_____________
+
+**2.22.15–16 (kṛtāntaḥ as Destiny or Divine Will)**
+
+Citing _Nighaṇṭu_ (कृतान्तो यमसिद्धान्तदैवाकुशलकर्मसु), Govindarāja glosses कृतान्तः as दैवम्—which some define as unseen past karma (प्राक्तनादृष्टमित्येके) and the venerable teachers as the Lord Himself (ईश्वर एवेत्याचार्याः). _Tilaka_ carefully adds that for the Supreme Lord Rāma, अदृष्टम् is not any personal past karma of his own (भगवतस्तस्याभावात्), but the collective unseen destiny of his subjects and the gods (इन्द्रादीनां दुःखनिवर्तकादृष्टम्).
+
+_____________
+
+**2.22.17–18 (Kaikeyī's prior maternal impartiality)**
+
+Citing _Nighaṇṭu_ (अन्तरम् ... भेदतादर्थ्यम्), Govindarāja glosses अन्तरम् as difference or partiality (भेदः): just as Rāma never discriminated among his three mothers, so Kaikeyī never before discriminated between Rāma and her own son Bharata (मयि वा सुते भरते वा विशेषो न भूतपूर्वः). Hence her sudden harsh words can only be the work of Destiny (दैवादन्यद् बुद्धिभेदकारणं न समर्थये न निश्चिनोमि).
+
+_____________
+
+**2.22.19–20 (prakṛtisampannā and the twofold viparyayaḥ)**
+
+Citing _Nighaṇṭu_ (प्रकृतिर्भूतेषु स्वभावे मूलकारणे), Govindarāja glosses प्रकृतिसम्पन्ना as endowed with a noble disposition (साधुस्वभावसम्पन्ना). That such a high-born princess should openly demand Rāma's affliction in her husband's presence like a vulgar woman (प्राकृतेव स्त्री) proves that inscrutable Destiny (अचिन्त्यं दैवम्)—which even creator-gods like Brahmā cannot resist (भूतेषु भूताधिष्ठातृषु ब्रह्मादिष्वपि न हन्यते [_Tilaka_])—has wrought a double reversal (विपर्ययः): for Rāma, the loss of a kingdom already in hand (हस्तगतराज्यभ्रंशरूपः), and for Kaikeyī, the loss of her former maternal affection (पूर्वस्थितवात्सल्यापगमरूपः).
+
+_____________
+
+**2.22.21–22 (Destiny known only by its fruit, kāryānumeya)**
+
+All three commentators explain v. 21c–d (यस्य न ग्रहणं किंचित् कर्मणोऽन्यत्र दृश्यते): here कर्मन् means the visible effect or fruit (क्रियत इति कर्म कार्यं फलम् [_Bhūṣaṇa_]), apart from which Destiny has no means of apprehension (ग्रहणं ज्ञानसाधनम्). Since Destiny is inferable only from its effect (नित्यकार्यानुमेयतया प्रागज्ञातत्वाद् योद्धुमशक्यम् [_Tilaka_]), no man can fight it beforehand; and once the fruit has arisen, effort is futile. In v. 22b, भवाभवौ means bondage and liberation (बन्धमोक्षौ [_Tilaka_]) or birth and death (उत्पत्तिविनाशौ [_Bhūṣaṇa_, _Śiromaṇi_]).
+
+_____________
+
+**2.22.23–24 (sages like Viśvāmitra and sudden reversal)**
+
+Even great ascetics like Viśvāmitra (ऋषयः विश्वामित्रादयः) fall from their vows through desire or wrath (काममन्युभिः, plural because of manifold instances: व्यक्तिबहुत्वात् बहुवचनम्) when impelled by Destiny; and when an unforeseen event (असंकल्पितम्) suddenly halts an undertaking already begun (आरब्धम्), that is the hallmark of Destiny.
+
+_____________
+
+**2.22.25–26 (etayā tattvayā buddhyā and ābhiṣecanikīṃ kriyām)**
+
+Steadying his inner mind by himself (आत्मानमन्तःकरणमात्मना स्वयमेव संस्तभ्य) through this true philosophical discernment (तत्त्वया याथार्थ्यविशिष्टया बुद्धया), Rāma feels no anguish at the thwarted consecration and bids Lakṣmaṇa follow suit (मामनुविधाय अनुसृत्य) by calling off the coronation preparations (आभिषेचनिकीं क्रियाम् अलङ्करणादि प्रतिसंहारय निवर्तय).
+
+_____________
+
+**2.22.27–28 (retracting the use of the consecration jars, ākṣepa)**
+
+At first (v. 27) Rāma suggests using the consecration pitchers (एभिरेव घटैः) for his bath of ascetic initiation (तापस्ये व्रतस्नानम्); then in v. 28 (अथवा किं मयैतेन) he immediately retracts that thought, lest Kaikeyī suspect that by bathing from the royal vessels laden with auspicious coronation ingredients (राज्यद्रव्यमयेन राज्यार्थमङ्गलद्रव्यप्रचुरेण [_Tilaka_, _Bhūṣaṇa_]) he is covertly claiming the throne (राज्यलिप्सया स्नानं कृतवानिति कैकेय्याः शङ्का मा भूदिति स्नानं निषेधति). Instead, water drawn by his own hand (स्वयं स्वहस्तेनोद्धृतं तोयम्) will inaugurate his ascetic vow (व्रतादेशम्).
+
+_____________
+
+**2.22.29–30 (vanavāso mahodayaḥ and mātā yavīyasī)**
+
+Comparing kingship and forest exile, Rāma pronounces forest exile far greater in fruit (वनवासो महोदयः महाफलः), since it is free from the cares of statecraft (राज्यव्यापारक्लेशाभावात्), fulfills his father's word, and accomplishes the gods' mission (अपूर्वदेवकार्यत्वादिति भावः [_Bhūṣaṇa_]). On माता यवीयसी (“youngest mother,” v. 30b), Govindarāja reconciles this with earlier passages calling Kaikeyī the middle queen (न तेऽम्बा मध्यमा): among the three principal queens she is the youngest (महिषीत्रयापेक्षया कनिष्ठा), whereas among all the royal wives she is intermediate (सर्वराजपत्न्यपेक्षया मध्यमात्वम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

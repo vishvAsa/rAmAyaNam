@@ -258,6 +258,152 @@ _________________
 
 “Being the father of a daughter (_kanyā-pitṛtvam_) is truly a sorrow (_duḥkhaṃ hi_) for all who cherish honor (_māna-kāṅkṣiṇām_), for it is never known who may seek a maiden’s hand (_kaḥ kanyāṃ varayed iti_), my girl.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.9.1–2 (Sumālī Emerges from Rasātala with Kaikasī)**
+
+Opening the lineage of Rāvaṇa, Agastya turns to Sumālī, one of the surviving rākṣasa patriarchs exiled to the netherworld by Viṣṇu in Sarga 8. **Rāma Varmā** (_Tilaka_) supplies निःसृत्य (‘having emerged’) with the ablative रसातलात्, and glosses कन्याम् as ‘unmarried’ (अविवाहिताम्) and विना पद्मम् as Śrī standing without her lotus (पद्मं त्यक्त्वा स्थिताम्). **Śivasahāya** (_Śiromaṇi_) construes 7.9.1–2 as a single sentence (श्लोकद्वयमेकान्वयि), noting that Sumālī wandered over the mortal world accompanied by his lovely unmarried daughter (कन्यां कमनीयां दुहितरं गृह्य), quietly searching for a means to revive his displaced clan.
+
+_____________
+
+**7.9.3–4 (The Sight of Kubera in Puṣpaka)**
+
+While roaming the earth, Sumālī catches sight of Kubera soaring in the aerial chariot Puṣpaka to visit his father Viśravas, son of Pulastya. On 7.9.4, **Rāma Varmā** remarks that the epithet अमरसङ्काशम् (‘resembling an immortal’) underscores a striking transformation: though born merely as a sage’s son, Kubera now possesses the majesty of a supreme god (ऋषिपुत्रत्वेऽपि परदेवरूपम्). **Śivasahāya** links 7.9.4cd directly with 7.9.5 as a unified clause (सार्धश्लोक एकान्वयी), emphasizing how this sudden vision of a half-rākṣasa kinsman’s solar splendor strikes Sumālī with awe (_sa-vismaya_) and ignites his dynastic ambition.
+
+_____________
+
+**7.9.5–6 (Sumālī’s Strategic Deliberation)**
+
+Retreating to Rasātala—where **Rāma Varmā** also records the variant reading रसातलात्प्रविष्टः सन्मर्त्यलोकम् (‘having entered the mortal world from Rasātala’)—the astute patriarch weighs how to elevate his fallen race. **Śivasahāya** unpacks his inner question (चिन्ताकारमाह): ‘By doing what may we attain prosperity equal to Kubera’s (किं कृत्वा एवं कुबेरसदृशं श्रेयः प्राप्नुयाम), and how may we grow strong?’ **Govindarāja** (_Bhūṣaṇa_) similarly glosses किं कृतं श्रेयः as asking by what means the rākṣasas’ welfare could be secured (केनोपायेन हितं स्यात्). Recognizing that the secret of Kubera’s glory lies in his father Viśravas, Sumālī turns at once to his daughter Kaikasī.
+
+_____________
+
+**7.9.7–8 (The Dilemma of an Unmatched Daughter)**
+
+Sumālī’s paternal counsel opens with a blend of genuine anxiety and shrewd persuasion. On 7.9.7, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that as Kaikasī’s marriageable youth passes (विवाहसमयः), suitors hesitate to seek her hand out of dread of refusal (प्रत्याख्यानशङ्कया / अनङ्गीकारसंशयाद्भीतैः), leaving her unasked (प्रतिग्रहं न प्राप्नोषि, **Govindarāja**). On 7.9.8, both Tilaka and Govindarāja gloss यन्त्रिताः as ‘constrained and exerting every effort’ (कृतप्रयासाः) and धर्मबुद्धयः as ‘deeply anxious regarding the dharma of marriage’ (विवाहधर्मनिमित्तचिन्तावन्तः); comparing her to Śrī herself, Tilaka notes, implies how rare a husband equal to her must be (त्वत्सदृशः पतिर्दुर्लभ इति द्योतितम्).
+
+_____________
+
+**7.9.9–10 (A Daughter’s Burden upon Three Lineages)**
+
+Verses 7.9.9–10 articulate a classic epic maxim on paternal honor (_māna-kāṅkṣā_). All three commentators observe that 7.9.9cd supplies the reason for 7.9.9ab: fathering a daughter brings anguish to proud men because no one can foresee what sort of suitor will ask for her (को वरयेदिति न ज्ञायते). Expanding this in 7.9.10, **Rāma Varmā** and **Govindarāja** note that anxiety persists even after marriage (वरणानन्तरमपि दुःखमेव): a maiden holds her mother’s house, her father’s house, and her husband’s house in constant suspense. **Śivasahāya** specifies that doubt as ‘how will her virtuous conduct be upheld?’ (कथमस्याः सदाचारो निर्वहिष्यतीति विचिकित्सायाम्), while normalizing स्थाप्य as स्थापयित्वा.
+
+_____________
+
+**7.9.11–12 (Choosing Viśravas to Rival Kubera)**
+
+Having framed the crisis, Sumālī reveals his bold stratagem: Kaikasī must bypass ordinary suitors and personally seek Viśravas, scion of Prajāpati Pulastya. **Rāma Varmā** glosses भज as ‘wait upon him in devoted service’ (सेवस्व), and through that attendance choose him as her husband (सेवनेन च भर्तृत्वेन वरय); **Śivasahāya** concurs (स्वयं वरय भज च). On 7.9.12, Tilaka addresses the singular भास्करसमः alongside plural ईदृशाः पुत्राः: the epithet directly qualifies the exemplar Kubera (यादृशोऽयं धनेश्वरः) and transfers to her future sons by grammatical adjustment of number (वचनविपरिणामेनात्राप्यन्वेयः).
+
+_____________
+
+**7.9.13–14 (Approaching the Fourth Sacred Fire at Dusk)**
+
+Prompted by filial obedience (पितृगौरवाद्धेतोः, **Śivasahāya**), Kaikasī arrives at Viśravas’s hermitage precisely as he worships the sacred fire. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) identify अग्निहोत्रमुपातिष्ठत् specifically as the evening fire-rite performed at dusk (प्रदोषेऽग्निहोत्रं कृतवानित्यर्थः). Comparing Viśravas to a ‘fourth fire’ (_caturtha iva pāvakaḥ_) alongside the three Vedic fires (_gārhapatya_, _āhavanīya_, and _dakṣiṇa_) establishes both his blazing ascetic sanctity and the fateful twilight hour that will shape his progeny.
+
+_____________
+
+**7.9.15 (Ignoring the Dread Hour—Two Readings of Pitṛ-gaurava)**
+
+All three commentators identify तां वेलां दारुणाम् as the inauspicious twilight (_pradoṣa-kāla_), unfit for conjugal solicitation. While **Govindarāja** takes पितृगौरवात् as simple reverence for her father (पितरि बहुमानात्), **Rāma Varmā** offers a sharper psychological reading: proud of her mighty father Sumālī’s renown, Kaikasī felt no ordinary sage could refuse her (सुमालिनः पुत्री अहमतो न प्राकृतेनर्षिणानादरणीयेत्याशयेन). **Śivasahāya** construes the three-line verse as one sentence (सार्धश्लोक एकान्वयी), gazing down at the sage’s feet (ऋषिचरणमवलोकयन्ती), while Govindarāja notes that scratching the earth with her toe betrays anxious embarrassment (विलिखन्तीति चिन्ताकुलभावः).
+
+_____________
+
+**7.9.16–18 (Gentle Inquiry and Maidenly Modesty)**
+
+Beholding her full-moon loveliness, the magnanimous sage poses four courteous questions, which **Rāma Varmā** and **Govindarāja** unpack: ‘from what region?’ (कस्माद्देशात्), ‘what service is to be rendered by us?’ (अस्माभिः कर्तव्यम्), and ‘for what purpose?’ (कस्मै प्रयोजनाय). On 7.9.18, **Tilaka** explains मे मतम् as her wish to be accepted as his wife (अभिमतं भर्तृत्वापेक्षालक्षणम्), noting that maidenly bashfulness makes stating it aloud unseemly (लज्जावशात्स्ववाचा कथनमनुचितमिति भावः); **Govindarāja** concurs (त्वद्भार्यात्वाभिलाषित्वम्), and **Śivasahāya** glosses आत्मप्रभावेण as ‘by the power of your own penance’ (स्वस्य तपोबलेन).
+
+_____________
+
+**7.9.19–20 (Modest Disclosure and Yogic Perception)**
+
+Continuing from 7.9.18, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) observe that having withheld what bashfulness forbids speaking, Kaikasī now states the portion proper for her to utter (स्ववक्तव्यांशमाह / वक्तुमुचितमाह): her name and her father’s command (शासनात् आज्ञातः, **Śivasahāya**). Rather than pressing her further, Viśravas enters meditative concentration (ध्यानं गत्वा ध्यात्वा, Śivasahāya) and immediately perceives the unvoiced motive of her visit (आगमनकारणम्, all three commentators), demonstrating the effortless clairvoyance of a _brahmarṣi_.
+
+_____________
+
+**7.9.21–23 (The Dread Hour and the Triple Dāruṇa Prophecy)**
+
+Confirming her silent desire for offspring from him (मत्तस्ते सुताभिलाषोऽस्तीति शेषः, **Śivasahāya**), Viśravas pronounces the inexorable karmic law of ritual time: approaching a sage for progeny during the fierce twilight hour (_pradoṣa_) imprints that very fierceness upon her children. In 7.9.22, the poet hammers the word _dāruṇa_ three times (_anuprāsa_), and all three commentators carefully differentiate the compounds: दारुणान् means cruel of disposition (क्रूरस्वभावान्), दारुणाकारान् means hideous in appearance (क्रूररूपान्), and दारुणाभिजनप्रियान् means fond of fierce rākṣasa kinsmen (क्रूरबन्धवो राक्षसरूपाः प्रिया येषां तान्, **Rāma Varmā** and **Govindarāja**).
+
+_____________
+
+**7.9.24 (Kaikasī’s Supplication for a Virtuous Son)**
+
+Dismayed by a prophecy that threatens to undo her father’s hope of Kubera-like sons, Kaikasī falls prostrate at Viśravas’s feet (_praṇipatya_). Appealing directly to his Vedic stature as a _brahmavādin_ (‘expounder of Brahman’), she protests that she does not seek wicked progeny from such a sage. **Rāma Varmā** clarifies the elliptical plea प्रसादं कर्तुमर्हसि by supplying its exact goal: ‘be pleased to show grace for the sake of a virtuous son’ (अत उत्तमपुत्रार्थं प्रसादं कर्तुमर्हसीत्यन्वयः). **Śivasahāya** likewise links her rejection of evil sons directly to her entreaty for mercy, preparing the exception granted in 7.9.26.
+
+_____________
+
+**7.9.25–26 (The Grace of a Righteous Youngest Son)**
+
+Softening his stern verdict with the tender simile of the full moon comforting his favorite consort Rohiṇī (_pūrṇendur iva rohiṇīm_), Viśravas grants Kaikasī’s prayer without annulling the karmic effect of the twilight hour. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss पश्चिमः as ‘youngest’ (कनिष्ठः), and Śivasahāya explicitly identifies this promised child as Vibhīṣaṇa (तव सुतः विभीषण इत्यर्थः), who alone will mirror Viśravas’s own Brahminical lineage and righteousness (मम वंशानुरूपो धर्मात्मा भविष्यति). Thus Vālmīki plants the seed of Vibhīṣaṇa’s eventual defection to Rāma at the very moment of the brothers’ conception.
+
+_____________
+
+**7.9.27–28 (The Monstrous Nativity of Daśagrīva)**
+
+Construing 7.9.27–28 as a single syntactic sentence (अर्धचतुष्टयमेकान्वयि, **Śivasahāya**), Agastya unveils the infant Rāvaṇa in seven stark _bahuvrīhi_ epithets: ten-necked, massive-fanged, dark as a heap of blue-black collyrium (_nīlāñjana-cayopama_), copper-lipped, twenty-armed, cavernous-mouthed, and flame-haired. The aesthetic mood is deliberately _bībhatsa_ and _bhayānaka_—loathsome and dreadful—immediately validating Viśravas’s warning in 7.9.22 (_dāruṇākārān_). Even as an infant, Rāvaṇa embodies excess and disruption, combining the towering radiance of a sage’s seed with the grotesque terror of a twilight rākṣasa.
+
+_____________
+
+**7.9.29–30 (Blood-Rain, Meteors, and Fire-Bearing Jackals)**
+
+Marking what **Śivasahāya** terms ‘that time productive of cruelty’ (तस्मिन् क्रूरत्वसंपादके काले), nature itself revolts at Daśagrīva’s birth. All three commentators unpack the haunting compound सज्वालकवलाः in 7.9.29: **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** (_Bhūṣaṇa_) explain it as jackals (शिवाः, glossed by Govindarāja as जम्बुकाः) holding blazing morsels of fire inside their jaws (ज्वालारूपास्यान्तर्गतकवलसहिताः), while carrion-eaters like vultures (गृध्रादयः, Śivasahāya) wheel in inauspicious left-hand circles (_apasavya_). On 7.9.30, Govindarāja identifies देवः as the rain-god (पर्जन्यदेवः) pouring blood as the sun dims and meteors fall.
+
+_____________
+
+**7.9.31–32 (Naming Daśagrīva and His Shape-Shifting Form)**
+
+Rounding off the omens as even the unshakable sea heaves (अक्षोभ्योऽपि समुद्रः क्षुभितोऽभवत्, **Śivasahāya**), Viśravas performs the naming rite (_nāmakaraṇa_), explaining that the infant born ten-necked shall bear the name Daśagrīva (**Śivasahāya**). Here **Rāma Varmā** (_Tilaka_) resolves a classic narrative question across the epic: if Rāvaṇa was born with ten heads and twenty arms, why does he appear single-headed and two-armed in Laṅkā’s inner apartments during the _Sundarakāṇḍa_? Because rākṣasas are shape-shifters (कामरूपत्वात्), Rāvaṇa voluntarily assumes a single face and two arms within his palace (लङ्कान्तःपुरादावेकवक्त्रत्वं द्विभुजत्वं चास्येति बोध्यम्).
+
+_____________
+
+**7.9.33–35 (Kumbhakarṇa, Śūrpaṇakhā, and Vibhīṣaṇa’s Auspicious Birth)**
+
+Verse 7.9.33 repeats verbatim the formula praising Kumbhakarṇa’s matchless bulk from 7.1.20; **Śivasahāya** glosses प्रमाणात् as bodily size (शरीरपरिमाणात्), and **Govindarāja** (_Bhūṣaṇa_) supplies ‘among all measured beings’ (प्रमाणभूतेष्विति शेषः). After hideous Śūrpaṇakhā comes the youngest son (कनिष्ठः सुतः, Śivasahāya), Vibhīṣaṇa. Inverting every portent of 7.9.29–31, flowers rain down, celestial drums boom, and shouts of साधु साधु echo in the sky—where **Rāma Varmā** supplies आसीत् (‘arose’) and Śivasahāya construes 7.9.34ef–35 together (सार्धश्लोक एकान्वयी), supplying अश्रूयत (‘was heard’).
+
+_____________
+
+**7.9.36 (Growing Up in the Hermitage Forest)**
+
+Transitioning from infancy to youth, Agastya singles out the two elder brothers, Kumbhakarṇa and Daśagrīva, as twin scourges of creation (_lokodvegakarau_). Both **Rāma Varmā** and **Govindarāja** specify तत्र महारण्ये (‘in that great forest’) as the woodland surrounding their father Viśravas’s hermitage (पितुर्विश्रवस आश्रमारण्ये). The spatial setting sharpens the moral irony: reared within the very precincts of a great Brahmin sage’s forest sanctuary, the elder pair nevertheless grow into ferocious oppressors of the worlds, setting up the stark behavioral divergence detailed in the very next spread.
+
+_____________
+
+**7.9.37–38 (The Gluttonous Giant and the Ascetic Brother)**
+
+$19
+
+_____________
+
+**7.9.39–40 (Kubera’s Return Ignites Maternal Ambition)**
+
+Just as the sight of Kubera soaring in Puṣpaka triggered Sumālī’s plot in 7.9.3–6, Kubera’s repeat visit to his father Viśravas now acts as the second catalyst in the narrative. Blazing with splendor (_jvalantam iva tejasā_), Vaiśravaṇa embodies everything Sumālī had promised Kaikasī in 7.9.12. **Śivasahāya** glosses राक्षसी in 7.9.40 as ‘the rākṣasa’s daughter’ (राक्षसकन्या), reminding the listener of her lineage even within the sage’s hermitage—a nuance made explicit in the Baroda CE reading आस्थाय राक्षसीं बुद्धिम् (‘assuming a rākṣasa mentality’). Rather than rejoicing in her stepson’s radiance, Kaikasī immediately seeks out her eldest son.
+
+_____________
+
+**7.9.41–42 (Kaikasī’s Goad to Daśagrīva)**
+
+Kaikasī’s two-verse speech is a masterstroke of maternal provocation. Invoking the concessive locative भ्रातृभावे समे चापि—‘though the condition of brotherhood is equal’ (समे तुल्येऽपि भ्रातृणां धर्मे, **Śivasahāya**)—she forces Daśagrīva to contrast Kubera’s divine glory with his own obscurity. Both **Rāma Varmā** and **Govindarāja** explain the biting phrase आत्मानमीदृशं पश्य (‘look at yourself like this’): ‘bereft of Kubera’s celestial wealth and majesty, existing in the wretched state of an ordinary rākṣasa’ (कुबेरवद्दिव्यवैभवरहितं प्राकृतरक्षोरूपमित्यर्थः, Tilaka; दरिद्रमित्यर्थः, Govindarāja). In 7.9.42, she channels his wounded pride into concrete striving (यथा त्वमपि वैश्रवणोपमो भवेस्तथा यत्नं कुरुष्व, Śivasahāya).
+
+_____________
+
+**7.9.43–44 (Indignation and the Vow to Outstrip Kubera)**
+
+Kaikasī’s words strike home instantly: Daśagrīva is filled with matchless resentment (_amarṣam atulam_)—a classic heroic impulse when wounded pride meets high ambition—and swears a binding vow (प्रतिज्ञामकरोत्, **Śivasahāya**). Promising to equal or exceed Vaiśravaṇa in native vigor (_ojas_), he urges his mother to shed her inward sorrow (सन्तापं त्यज). Notice how Rāvaṇa’s entire imperial career is born not from selfless devotion to dharma, but from fraternal envy (_amarṣa_) deliberately kindled by his mother’s wounded pride.
+
+_____________
+
+**7.9.45–46 (Journey to Gokarṇa for Arduous Penance)**
+
+Impelled by that very anger (_tenaiva kopena_), Daśagrīva draws Kumbhakarṇa and Vibhīṣaṇa along (_sahānujaḥ_) to undertake austere penance. On 7.9.45, **Rāma Varmā** (_Tilaka_) glosses तपसे as ‘for the sake of austerity’ (तपोऽर्थम्) and धृतमानसः as ‘with firmly resolved heart’ (निश्चितान्तःकरणः). On 7.9.46, Tilaka distinguishes the two absolutives—taking the thought to heart (इति कृत्वा इति हृदि कृत्वा) and determining firmly upon it (अध्यवस्य तथा निश्चित्य च)—which **Śivasahāya** parallels as ‘deliberating and deciding’ (विचार्य निश्चित्य च) before marching to Gokarṇa’s sacred hermitage.
+
+_____________
+
+**7.9.47 (The Vaṃśastha Preview of Brahmā’s Boons)**
+
+Shifting from narrative _Anuṣṭubh_ to the stately twelve-syllable _Vaṃśastha_ meter, the concluding stanza summarizes in advance the great tapasya that Rāma will ask Agastya to unpack in Sarga 10. **Śivasahāya** paraphrases the closing action cleanly: performing peerless austerity there with his brothers, Rāvaṇa gratified Grandfather Brahmā, who in delight granted victory-bringing boons (पितामहं ब्रह्माणमतोषयत् अत एव तुष्टः पितामहः जयावहान् वरान् ददौ). Thus Sarga 9 completes its dramatic arc from Sumālī’s exile in Rasātala to the threshold of Rāvaṇa’s world-shaking sovereignty.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

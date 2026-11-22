@@ -1036,6 +1036,116 @@ an army against me."
 
 Repeatedly shattered by me in battle with their banners crushed (_vimṛditadhvajāḥ_), gods and asuras (_surāsurāḥ_) are unable to stand in opposing ranks (_pratyanīkeṣu_) against me.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.20.1–3 (Rāvaṇa’s Expressive Flattery and Sītā’s Shrinking Modesty)**
+
+$18
+
+_____________
+
+**5.20.4–5 (Dispelling Fear and Asserting Rākṣasa Svadharma)**
+
+On 5.20.4, _Tilaka_ distinguishes two possible causes of Sītā’s terror: fear of other men or fear of losing her virtue through Rāvaṇa’s touch. Rāvaṇa answers the first with नेह, assuring her that no men or shape-shifting rākṣasas can approach her there. Addressing the second fear in 5.20.5, _Tilaka_ and _Śiromaṇi_ explain that approaching or forcibly abducting (संप्रमथ्य) another’s wives is the perpetual _svadharma_ of rākṣasas, so no sin attaches to him or to a helpless woman.
+
+_____________
+
+**5.20.6 (Forbearance from Unwilling Touch despite Kāma’s Torment)**
+
+On 5.20.6, _Tilaka_ explains that even though forcible union incurs no fault under rākṣasa law, Rāvaṇa refrains from touching an unwilling (अकामाम्) Sītā because force ruins aesthetic rapture (रसाभासकत्वाच्च). Instead, he lets Love (कामः, मन्मथः) act at will (यथाकामम्, यथेच्छम्) within his own body. _Śiromaṇi_ interprets कामम् adverbially as 'exceedingly' (अत्यन्तम्), noting that Rāvaṇa withholds forced union while allowing his own longing for her service to proceed.
+
+_____________
+
+**5.20.7–8 (Plea for Trust and Unsuitability of Ascetic Austerities)**
+
+$1a
+
+_____________
+
+**5.20.9–11 (The Offer of Royal Luxuries to the Jewel among Women)**
+
+Construing 5.20.9 and 5.20.10 together (श्लोकद्वयमेकान्वयि), _Tilaka_ and _Śiromaṇi_ connect the accusative series of garlands, unguents, robes, drinks, and musical arts directly to the imperative लभ ('obtain, enjoy') in 5.20.10d after accepting Rāvaṇa (मां प्राप्य). On 5.20.11, _Tilaka_ supplies भूषणानाम् ('unworthy of ornaments') to complete अनर्हा, while _Śiromaṇi_ glosses it directly as 'unadorned' (अभूषिता) and _Bhūṣaṇa_ takes हि as an emphatic particle meaning 'even' (अप्यर्थो वा).
+
+_____________
+
+**5.20.12 (The Irrevocable Current of Passing Youth)**
+
+On 5.20.12, _Tilaka_ glosses अतिवर्तते as 'passes by' (अतिक्रम्य गच्छति) and explains स्रोतस्विनः as water-currents (जलप्रवाहाः) whose flowing water (स्रोतस्तत्र प्रवहज्जलम्) never returns once past, implying that she should enjoy pleasures now (अतो भुङ्क्ष्व भोगानिति शेषः). _Śiromaṇi_ adds that this reminder of fleeting youth (यौवनं वयस्था) is meant to urge Sītā that the very time for wearing ornaments is now (भूषणधारणसमयोऽयमेवेति).
+
+_____________
+
+**5.20.13–14 (Brahmā’s Cessation from Creation and Universal Captivation)**
+
+On 5.20.13, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain the poet’s fancy: Brahmā (विश्वकृत्), the creator of divine beauty (रूपकर्ता), ceased (उपरतः, निवृत्तः) after creating Sītā because no higher beauty could ever be fashioned, leaving her without peer (रूपोपमा नास्ति). On 5.20.14, _Tilaka_ glosses को नातिवर्तेत as 'who would not be agitated with passion?' (क्षुभ्येतेत्यर्थः), and notes that under the variant कः पुमानतिवर्तेत the sense is 'what man could transcend the power of passion, even Brahmā himself?'
+
+_____________
+
+**5.20.15–16 (The Riveted Gaze and the Offer of Chief Queenship)**
+
+On 5.20.15, _Tilaka_ and _Śiromaṇi_ gloss निबध्यते as 'becomes bound, cannot turn away' (बद्धं जायते), manifesting the supreme loveliness of every limb from her feet upward. On 5.20.16, _Śiromaṇi_ offers an ingenious courtly analysis of भव मैथिलि, taking ममाग्रमहिषी भव as 'become the supreme queen over my many noble wives' and urging her to cast off (विसर्जय) her present perplexity (मोहम्, वैचित्त्यम्).
+
+_____________
+
+**5.20.17–18 (Bestowal of World-Spoils and the Earth upon Janaka)**
+
+On 5.20.17, _Tilaka_ notes that under the reading अहं च ते ('and I myself am yours'), Rāvaṇa declares himself her submissive servant (तव वशो भविष्यामि), while _Śiromaṇi_ explains the instrumental-genitive मे as 'carried off by me' (मया हृतानि) after conquering his foes (प्रमथ्य रिपून् जित्वा). On 5.20.18, _Tilaka_ glosses तव हेतोः as 'to please you' (तत्प्रीत्यर्थः), and _Śiromaṇi_ adds that gifting the conquered earth to King Janaka implies reuniting Sītā with her kinsmen.
+
+_____________
+
+**5.20.19–20 (Rāvaṇa’s Unrivalled Martial Supremacy over Gods and Asuras)**
+
+On 5.20.19, **Rāma Varmā** (_Tilaka_) glosses प्रतिबलः as 'a conqueror in battle' (युद्धे जेता), while **Śivasahāya** (_Śiromaṇi_) equates it with an equal adversary (प्रतिद्वन्द्वः). Expounding that valour in 5.20.20, _Śiromaṇi_ and **Govindarāja** (_Bhūṣaṇa_) explain विमृदितध्वजाः as having their banners shattered (भग्नध्वजाः), and gloss प्रत्यनीकेषु as standing in opposing battle-arrays (प्रतिसैनिकभावेषु, युद्धमध्ये), where neither gods nor asuras can endure before him.
+
+_____________
+
+**5.20.21–22 (The Call for Toilet, Ornaments, and Complaisant Grace)**
+
+On 5.20.21, _Tilaka_ and _Bhūṣaṇa_ define प्रतिकर्म as cosmetic adornment (प्रसाधनम्, अलंकारः), citing _Amarakośa_ (प्रतिकर्म प्रसाधनम्), and _Bhūṣaṇa_ glosses अवसज्यन्ताम् as 'let them be placed' (अर्प्यन्ताम्). On 5.20.22, both _Śiromaṇi_ and _Bhūṣaṇa_ interpret the present indicative पश्यामि with optative force (पश्येयम्, 'may I behold'), while _Tilaka_ notes the figure _bhāvikam_ and glosses दाक्षिण्येन as 'with kindness toward me' (मद्विषयककृपया); _Bhūṣaṇa_ takes it as 'with gracious candour' (सरलत्वेन), citing दक्षिणः सरलोदारौ.
+
+_____________
+
+**5.20.23–24 (Unfettered Enjoyment and the Prosperity of Kinsmen)**
+
+On 5.20.23–24, _Śiromaṇi_ explains रमस्व as sporting attended by Mandodarī and other queens reduced to handmaids, and glosses ललस्व as 'desire freely' (वाञ्छां कुरु); _Tilaka_ and _Bhūṣaṇa_ cite the verbal root लल ईप्सायाम् ('to wish for or sport in'). Under the reading मत्प्रसादात् in 5.20.24b, _Tilaka_ explains that as Sītā flourishes through Rāvaṇa’s favour (मयि प्रसादात्), her own kinsmen too (बान्धवास्तव) shall revel (ललन्ताम्) with every wish fulfilled.
+
+_____________
+
+**5.20.25–26 (Contrast between Rāvaṇa’s Opulence and Rāma’s Forest Destitution)**
+
+On 5.20.25, **Rāma Varmā** (_Tilaka_) distinguishes ऋद्धिम् as martial and personal magnificence (पराक्रमादिसंपदम्) from श्रियम् as material wealth (धनादिसंपदम्). Introducing 5.20.26, **Govindarāja** (_Bhūṣaṇa_) notes that after praising himself, Rāvaṇa disparages Rāma (आत्मानं प्रशस्य रामं निन्दति): निक्षिप्तविजयः means one who has abandoned victory (त्यक्तविजयः, or in _Tilaka_ and **Śivasahāya**’s _Śiromaṇi_, one whose means and enthusiasm for victory are destroyed, निरस्तविजयसाधनः), while स्थण्डिलशायी means sleeping on the bare earth (भूशयः).
+
+_____________
+
+**5.20.27–28 (Moonlight Shrouded by Storm-Clouds and the Myth of Hiraṇyakaśipu)**
+
+On 5.20.27, _Tilaka_ explains the passive present उपलभ्यते as standing by _vyatyaya_ for the active sense 'is able' (समर्थो भवति), or under the future variant उपलप्स्यते, 'will be able.' All three commentators gloss पुरोबलाकैः as huge dark clouds having lines of white cranes in front (पुरो बलाका बकपङ्क्तयो येषां तैः), which _Bhūṣaṇa_ notes indicates massive rain-clouds (महामेघेष्वाव बलाकासंचारदर्शनात्). On 5.20.28, _Tilaka_ and _Bhūṣaṇa_ identify the Purāṇic allusion to the _Bhāgavata_: when Indra carried off Hiraṇyakaśipu’s wife Kayādhu (कीर्तिसञ्ज्ञां भार्याम्), Nārada rescued her, making this a contrastive simile (वैषम्ये दृष्टान्तः) since Rāma can never recover Sītā.
+
+_____________
+
+**5.20.29–30 (Garuda Snatching the Serpent and Disaffection for His Queens)**
+
+On 5.20.29, _Śiromaṇi_ observes that Rāvaṇa uses the image of Suparṇa seizing a serpent (सुपर्णः पन्नगमिव) to dispel any suspicion of his indifference. On 5.20.30, _Tilaka_ notes that स्वेषु दारेषु ('among my own wives') includes even Mandodarī (मन्दोदर्यामपि), while _Śiromaṇi_ remarks that beholding Sītā’s sorrowful, unadorned state (अनलंकृताम्) deprives Rāvaṇa of all pleasure (रतिम्, प्रीतिम्) elsewhere.
+
+_____________
+
+**5.20.31–32 (Sovereignty over the Inner Apartments and Attendance by Peerless Women)**
+
+On 5.20.31, **Rāma Varmā** (_Tilaka_) glosses ऐश्वर्यम् as supreme overlordship (आधिपत्यम्), while **Govindarāja** (_Bhūṣaṇa_) specifies it as rule over the royal harem (अन्तःपुरैश्वर्यम्), urging Sītā to make herself mistress over all his accomplished wives (स्वामिनीं कुरु). On 5.20.32, **Śivasahāya** (_Śiromaṇi_) explains the vocative असितकेशान्ते as 'O lady of dark hair-tresses' (अवदातकेशभागे), whom the foremost beauties of the three worlds will serve like Apsarases attending Lakṣmī (अप्सरसः श्रियमिव).
+
+_____________
+
+**5.20.33–34 (Kubera’s Treasures and Rāma’s Inferiority in Every Virtue)**
+
+On 5.20.33, _Śiromaṇi_ explains वैश्रवणे as the jewels and riches formerly acquired from Kubera (कुबेरे), and under the variant मां च भुङ्क्ष्व ('enjoy me too'), glosses भुङ्क्ष्व as 'bring under your own control' (स्वाधीनत्वं प्रापय), a gloss echoed by _Bhūṣaṇa_ (स्वाधीने कुरु). On 5.20.34, _Śiromaṇi_ notes that Rāvaṇa denies Rāma’s equality in asceticism, strength, valour, wealth, lustre, and fame to extinguish her hope that Rāma will ever reach Laṅkā (रामाभियोगमाशां निवर्तयितुम्).
+
+_____________
+
+**5.20.35–36 (Concluding Invitation in Mālinī and Puṣpitāgrā Meters)**
+
+On the two concluding lyric verses (5.20.35–36), _Bhūṣaṇa_ supplies मधु ('sweet wine') as the object of पिब ('drink') and explains विहर as 'stroll' (संचर), since √हृ with वि is used of leisurely roaming. _Tilaka_ glosses प्रदिश (or प्रदिशामि) as 'bestow upon those you favour' and ललन्तु as 'let your kinsmen have every wish fulfilled' (प्राप्तसमस्तेप्सिता भवन्तु), while _Śiromaṇi_ construes the final invitation to roam the bee-thronged seaside groves (समुद्रतीरजानि काननानि) as Rāvaṇa’s summation (उपसंहारमाह).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

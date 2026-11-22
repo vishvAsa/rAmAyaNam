@@ -84,6 +84,14 @@ having encamped on Suvela Mountain.
 
 Then the spies reported (_pratyavedayan_) to the overlord of Laṅkā (_laṅkādhipataye_) that Rāghava, with his unshakeable army (_tam akṣobhyabalam_), had encamped upon Mount Suvela (_suvele śaile niviṣṭam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–2.**
+
+Govindarāja (_Bhūṣaṇa_) explains the locative सुवेले शैले as denoting proximity (`near Mount Suvela', सुवेलसमीपे सामीप्ये सप्तमी) in harmony with 6.29.24. Both Rāma Varmā (_Tilaka_) and Govindarāja construe the genitive चाराणाम् ablatively (`hearing from the spies' words', चारेभ्यः; चाराणां वचनात्), while Śivasahāya (_Śiromaṇi_) links किंचित् with जातोद्वेगः (`somewhat perturbed').
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +198,14 @@ that you have not fallen a victim to the enraged monkeys."
 
 “Your color is unnatural (_ayathāvac ca te varṇaḥ_) and you look wretched (_dīnaś cāsi_), O night-stalker! I trust you did not fall (_nāsi kaccit ... vaśam āgataḥ_) into the power of our wrathful enemies (_amitrāṇāṃ kruddhānām_)?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3–4.**
+
+Govindarāja notes that from Śārdūla's altered complexion (अयथावच्च ते वर्णः) and dejected bearing, Rāvaṇa infers that the spies were seized by the enemy (शत्रुगृहीतत्वेन). All three commentators gloss अनुशिष्टः as questioned (पृष्टः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +309,14 @@ of being spied upon."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Those bulls among Vānaras (_vānarapuṅgavāḥ_) cannot be spied upon (_na te cārayituṃ śakyāḥ_), O king; they are valorous and mighty, and they are protected by Rāghava (_rāghaveṇa ca rakṣitāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5–6.**
+
+Govindarāja glosses चारयितुम् as to make the object of espionage (चारविषयीकर्तुम्). _Tilaka_ and _Śiromaṇi_ explain that because one cannot even strike up a conversation (संभाषितुमशक्याः) with the mountain-like Vānara sentries guarding every path, no opportunity for probing inquiries (संप्रश्नो विचारहेतुपृच्छायोगः) can be found.
 </details>
 </details>
 
@@ -410,6 +434,14 @@ me in various ways."
 
 The moment that army was entered (_praviṣṭamātre bale tasmin_) and begun to be reconnoitered (_vicārite_), I was detected (_jñāto &#x27;ham_); forcibly seized by the Rākṣasas (_balād gṛhīto rakṣobhiḥ_), I was roughly handled in many ways (_bahudhāsmi vicāritaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7–8.**
+
+All three commentators identify the रक्षोभिः who unmasked Śārdūla as Vibhīṣaṇa's Rākṣasa attendants (विभीषणपरिवारैः, विभीषणसचिवैः). Rāma Varmā (_Tilaka_) glosses the first विचारिते as `when begun to be spied out' (विचारयितुं प्रक्रान्ते) and the second विचारितः as `tossed about by blows' (बहुप्रहारगत्या चालितः), whereas Govindarāja (_Bhūṣaṇa_) reads अचारिते (`before it was even reconnoitered') and विचालितः (`rolled on the ground'). Both note that the monkeys paraded him (परिणीतः) proclaiming `Here is an enemy spy!' (शत्रुचारोऽयमिति घोषणपूर्वकम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -516,6 +548,14 @@ disturbed."
 
 And after parading me everywhere (_pariṇīya ca sarvatra_), I was led into Rāma&#x27;s assembly (_nīto &#x27;haṃ rāmasaṃsadi_), my wretched limbs streaming with blood (_rudhirasrāvidīnāṅgaḥ_), swooning and with my senses reeling (_vihvalaś calitendriyaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**9–10.**
+
+_Tilaka_ and Śivasahāya (_Śiromaṇi_) analyze रुधिरस्राविदीनाङ्गः as a _karmadhāraya_ (रुधिरस्रावी चासौ दीनाङ्गश्च) and explain मा मेति as Rāma's merciful command `Do not strike him!' (मा मा वध्यतामिति). Reading जीवामीति यदृच्छया, Govindarāja takes इति as Śārdūla pointing to his own battered body (स्वशरीरप्रदर्शनम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -620,6 +660,14 @@ gates of Lanka and stands there, well-equipped with weapons."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having filled up the great ocean with mountains and boulders (_śailaśilābhis tu pūrayitvā mahārṇavam_), this Rāma stands armed (_tiṣṭhati sāyudhaḥ_), having taken up his station at the gate of Laṅkā (_dvāram āśritya laṅkāyāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11–12.**
+
+Govindarāja explains the present द्वारमाश्रित्य तिष्ठति as denoting imminent proximity (वर्तमानसामीप्ये वर्तमानवत्प्रयोगः), while _Tilaka_ notes that Rāma shifts from the stationary पुरुषव्यूह to the eagle formation (गरुडव्यूह) for the advance.
 </details>
 </details>
 
@@ -737,6 +785,14 @@ Seetha immediately or even offer him battle."
 
 Before he reaches the rampart (_purā prākāram āyāti_), swiftly do one of the two (_kṣipram ekataraṃ kuru_): either restore Sītā at once (_sītāṃ vāpi prayacchāśu_), or else let battle be given (_yuddhaṃ vāpi pradīyatām_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.**
+
+All three commentators note that the present tense आयाति with the particle पुरा expresses the near future (आयास्यतीत्यर्थः), Govindarāja (_Bhūṣaṇa_) citing Pāṇini (यावत्पुरानिपातयोर्लट्) and explaining एकतरम् as one of the two courses (द्वयोरेकम्) specified in 13b: restoring Sītā or giving battle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -789,6 +845,14 @@ spoke the following significant words to Shardula.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having heard that and pondered it then in his mind (_manasā tat tadā prekṣya_), that Rāvaṇa, overlord of the Rākṣasas, thereupon spoke this momentous declaration (_sumahad vākyam_) to Śārdūla:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14–15.**
+
+Pondering Śārdūla's dilemma, Rāvaṇa categorically rejects the first option of surrendering Sītā (सीतामस्मै प्रदीयतामित्यस्योत्तरमाह यदीति) even against the combined might of gods, Gandharvas, and Dānavas.
 </details>
 </details>
 
@@ -894,6 +958,14 @@ the army been espied by you? Who are the valiant monkeys among them?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, Rāvaṇa of great splendor spoke again (_punar abravīt_): “That army has been traversed by you (_caritā bhavatā senā_); who are the heroic monkeys there (_ke &#x27;tra śūrāḥ plavaṃgamāḥ_)?
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16–18.**
+
+Adopting the second alternative of war (द्वितीयपक्षं करिष्यमाणः), Rāvaṇa asks for the enemy leaders' divine parentage. Rāma Varmā (_Tilaka_) savors the dramatic irony of चरिता भवता सेना (`the army has been traversed by you'): Śārdūla indeed toured the entire camp when dragged around by the monkeys for public proclamation (दैवगत्या घोषणार्थं प्रणयनेनेति भावः). Govindarāja glosses active प्रतिपत्स्यामि as middle प्रतिपत्स्ये (`I shall determine what to do', कृत्यं ज्ञास्यामि).
 </details>
 </details>
 
@@ -1066,6 +1138,14 @@ words for Ravana's information:
 
 Thus addressed by Rāvaṇa, Śārdūla, that foremost of spies (_uttamaś caraḥ_), then began to speak these words (_idaṃ vacanam ārebhe vaktum_) in Rāvaṇa&#x27;s presence (_rāvaṇasaṃnidhau_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19–20.**
+
+Identifying the son of Ṛkṣarajas as Sugrīva (राजा सुग्रीवः), all three commentators reconcile Jāmbavān's description as son of Gadgada (गद्गदस्याथ पुत्रः) with his origin from Brahmā's yawn (जाम्बवान्जृम्भमाणस्य मम वक्त्रादजायत): Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain that Brahmā's yawning potency entered Gadgada's consort (भगवच्छक्तेर्गद्गदक्षेत्रमाविश्य तेन रूपेण परिणामाददोषः), while Govindarāja (_Bhūṣaṇa_) explains that Gadgada fostered him after his birth from Brahmā (पाञ्चालीन्यायेन गद्गदेन पोषितत्वात्तत्पुत्रः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1173,6 +1253,14 @@ destroyed."
 
 And there is another son of Gadgada [Dhūmra], as well as [Kesarī,] the son of Śatakratu&#x27;s preceptor [Bṛhaspati] (_guruputraḥ śatakratoḥ_), by whose son alone (_yasya putreṇaikena_) a great slaughter of Rākṣasas was wrought (_kadanaṃ kṛtaṃ rakṣasām_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.**
+
+All three commentators distinguish two heroes in 21a: `another son of Gadgada' (अन्यः पुत्रः) is Jāmbavān's brother Dhūmra (धूम्रः), while `the son of Indra's preceptor Bṛhaspati' (शतक्रतोर्गुरोः बृहस्पतेः पुत्रः) is Kesarī (स केसरी), whose son Hanumān single-handedly slaughtered Akṣa and the Rākṣasas in Laṅkā (यस्य केसरिणः पुत्रेण हनुमतैकेन रक्षसां कदनं कृतम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1225,6 +1313,14 @@ virtuous, as well as a monkey called Dadhimukha, the cool-minded, who is the son
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Here too is the righteous-souled and valorous Suṣeṇa, son of Dharma (_putro dharmasya_); and here, O king, is the gentle monkey Dadhimukha, son of Soma (_saumyaḥ somātmajaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22–24.**
+
+On Suṣeṇa being called son of Dharma here versus son of Varuṇa in the _Bālakāṇḍa_, Govindarāja suggests that Varuṇa is called Dharma as lord of truth, or that the terrified Śārdūla misspoke (भयाकुलोऽन्यथा शंसति), or that this is a namesake (अन्योऽयं सुषेणः), adding that dual paternity (e.g. Vāyu and Kesarī for Hanumān) reflects divine progenitor (बीजित्वात्) versus marital father (क्षेत्रित्वात्).
 </details>
 </details>
 
@@ -1375,6 +1471,14 @@ _________________
 
 Here is the youthful, mighty, and unassailable Aṅgada, grandson of Śakra (_naptā śakrasya_); and both Mainda and Dvivida, mighty sons of the Aśvins (_balināv aśvisambhavau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25–26.**
+
+Govindarāja (_Bhūṣaṇa_) and Śivasahāya (_Śiromaṇi_) note that नप्ता here specifically denotes a son's son (पौत्रे वर्तते, पुत्रपुत्रः)—Aṅgada being the son of Indra's son Vālin—and Rāma Varmā (_Tilaka_) notes the grouping of Yama's five monkey sons (पञ्च यमपुत्रपरिगणनम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1469,6 +1573,14 @@ sickness; they are considered as the physicians of heaven.
 
 And there are ten crores of Vānaras (_daśa vānarakoṭyaś ca_)—heroic, eager for battle (_yuddhakāṅkṣiṇām_), glorious sons of the gods (_śrīmatāṃ devaputrāṇām_); the rest I am unable to recount (_śeṣaṃ nākhyātum utsahe_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.**
+
+All three commentators explain how the genitive plurals शूराणां युद्धकाङ्क्षिणां श्रीमतां देवपुत्राणाम् construe with वानर- in वानरकोट्यः: _Tilaka_ and _Śiromaṇi_ treat वानर as a separate word with elided genitive plural ending (लुप्तषष्ठीबहुवचनान्तम्), while Govindarāja cites Pāṇini's _vārttika_ (लुप्ताद्वा) for the stem-form standing for वानराणाम्, and glosses शेषम् as their remaining details such as habitat (जन्मस्थानादि).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1521,6 +1633,14 @@ Dushana ws killed as also Khara and Trishana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Here is this youthful son of Daśaratha (_putro daśarathasyaiṣa_), lion-framed (_siṃhasaṃhananaḥ_), by whom Dūṣaṇa was slain, as well as Khara and Triśiras (_kharaś ca triśirās tathā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28–30.**
+
+Turning to Rāma, Govindarāja cites _Amarakośa_ to gloss सिंहसंहननः as having a symmetrically knit frame (वराङ्गरूपोपेतो यः सिंहसंहननो हि सः) and explains यावन्तः ... तावन्तः as denoting the entirety (साकल्ये) of the Janasthāna Rākṣasas.
 </details>
 </details>
 
@@ -1663,6 +1783,14 @@ No man upon the earth is able to recount the virtues of Rāma (_vaktuṃ na śak
 
 And here is the righteous-souled Lakṣmaṇa, like a bull among elephants (_mātaṅgānām ivarṣabhaḥ_), coming within the range of whose arrows (_yasya bāṇapathaṃ prāpya_) not even Vāsava [Indra] could survive (_na jīved api vāsavaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31–33.**
+
+Govindarāja (_Bhūṣaṇa_) notes that the particle च in लक्ष्मणश्चात्र carries over पुत्रो दशरथस्य from verse 28 (चशब्देन दशरथस्य पुत्र इत्यनुकृष्यते), and glosses मातङ्गानामिवर्षभः as standing like a lordly elephant (गजर्षभ इव स्थितः). Reading सुदुर्धरः in 33b, he takes `Sudurdhara' as the proper name of the Vasus' monkey son (सुदुर्धरनामा).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1718,6 +1846,14 @@ survive
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And here is the righteous-souled Lakṣmaṇa, like a bull among elephants (_mātaṅgānām ivarṣabhaḥ_), coming within the range of whose arrows (_yasya bāṇapathaṃ prāpya_) not even Vāsava [Indra] could survive (_na jīved api vāsavaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31–33.**
+
+Govindarāja (_Bhūṣaṇa_) notes that the particle च in लक्ष्मणश्चात्र carries over पुत्रो दशरथस्य from verse 28 (चशब्देन दशरथस्य पुत्र इत्यनुकृष्यते), and glosses मातङ्गानामिवर्षभः as standing like a lordly elephant (गजर्षभ इव स्थितः). Reading सुदुर्धरः in 33b, he takes `Sudurdhara' as the proper name of the Vasus' monkey son (सुदुर्धरनामा).
 </details>
 </details>
 
@@ -1826,6 +1962,14 @@ of Lanka (as a prospective gift from Rama) remains devoted to the good of Rama."
 
 And your brother Vibhīṣaṇa, the noblest of Rākṣasas (_rākṣasānāṃ variṣṭhaḥ_), having accepted the city of Laṅkā [from Rāma] (_pratigṛhya purīṃ laṅkām_), is devoted to Rāghava&#x27;s welfare (_rāghavasya hite rataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.**
+
+Both Śivasahāya (_Śiromaṇi_) and Govindarāja explain प्रतिगृह्य पुरीं लङ्काम् as having received the sovereignty of Laṅkā from Rāma (लङ्कां रामात् प्रतिगृह्य) and therefore devoting himself to Rāma's cause.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1890,5 +2034,13 @@ Suvela. Now, it is for you to decide what remains to be done!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus has this entire Vānara host (_sarvaṃ vānaraṃ balam_), stationed upon Mount Suvela (_suvele &#x27;dhiṣṭhitaṃ śaile_), been truly recounted to you; in what remains to be done (_śeṣakārye_), Your Majesty is the sole authority (_bhavān gatiḥ_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.**
+
+All three commentators gloss भवान् गतिः as `you are the sole authority and judge of what remains to be done' (प्रमाणम् निर्णायक इति यावत्). Addressing why Suṣeṇa, Śarabha, and Gandhamādana are assigned different divine fathers here than in the _Bālakāṇḍa_, Rāma Varmā (_Tilaka_, citing Maheśvara Tīrtha) and _Śiromaṇi_ explain that multiple monkey chiefs bore those names (तत्तत्संज्ञकानामनेकेषामपि सत्त्वादविरोध इति तीर्थः), while Govindarāja notes that some regard this Sarga as a secondary insertion (प्रायशो विनापि पूर्वोत्तरकथासंबन्धमेष सर्गोऽयं कल्पित इत्याहुः).
 </details>
 </details>

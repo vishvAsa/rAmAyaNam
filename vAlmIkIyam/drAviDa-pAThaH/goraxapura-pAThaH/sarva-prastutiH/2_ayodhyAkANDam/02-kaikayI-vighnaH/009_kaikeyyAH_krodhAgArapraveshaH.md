@@ -498,6 +498,206 @@ not get it under any circumstances."
 
 “Declare to me the stratagem, O Mantharā—by what means (_kenopāyena_) Bharata may obtain the kingdom, and never Rāma by any means!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.9.1–2 (jvalitānanā and prasthāpayāmi)**
+
+Govindarāja (_Bhūṣaṇa_) observes that although Kaikeyī knew Rāma's virtues, she was overwhelmed by low company and rage at the threat of servitude (दास्यप्राप्तिश्रवणजकोपेन). _Tilaka_ glosses प्रस्थापयामि as initiating the effort to send Rāma away (प्रस्थापनोद्यमं करोमि), while _Śiromaṇi_ reads ज्वलितानना esoterically as shining with secret joy (प्रकाशितवदना प्रसन्नवदनेत्यर्थः) so that Rāma might fulfill the mission of the gods.
+
+_____________
+
+**2.9.3–4 (kenopāyena and rāmārtham)**
+
+In v. 3, _Tilaka_ explains that Kaikeyī asks Mantharā to ponder the means (इदमिदानीं संपश्य विचारय) because mere zeal cannot accomplish the goal (उत्साहमात्रेण नेदं साध्यम्). Govindarāja notes that seeing Mantharā's superlative cunning (अतिशयितबुद्धियोगं दृष्ट्वा), Kaikeyī turns to her. In v. 4, Govindarāja and _Tilaka_ gloss रामार्थम् as the purpose of Rāma's consecration (रामाभिषेकरूपप्रयोजनम्), which Mantharā seeks to obstruct (उपहिंसन्ती निवर्तयन्ती, _Śiromaṇi_).
+
+_____________
+
+**2.9.5–6 (hanta, kevalam, and nigūhase)**
+
+Both Govindarāja and _Śiromaṇi_ identify हन्त in v. 5 as an exclamation of joy (हन्तशब्दो हर्षे वर्तते) triggered by recalling the ancient boons (वरस्मरणहेतुको वा). Govindarāja cites _Amarakośa_ (निर्णीतकेवलमिति त्रिलिङ्गं त्वेककृत्स्नयोः) to gloss केवलम् as the entire kingdom (कृत्स्नं राज्यम्), whereas _Tilaka_ takes it as “Bharata alone, not Rāma” (केवलं भरतो न तु रामः). In v. 6, Govindarāja construes उच्यमानम् with त्वया (“often recounted by you”), asking why she feigns forgetfulness (स्मरन्ती वा निगूहसे किम्).
+
+_____________
+
+**2.9.7–8 (chandaḥ and svāstīrṇāt)**
+
+In v. 7, Govindarāja cites _Amarakośa_ (छन्दः पद्येऽभिलाषे च) to gloss छन्दः as desire (अभिलाषः). In v. 8, both Govindarāja and _Śiromaṇi_ draw out the poetic implication of Kaikeyī rising slightly (किंचिदुत्थाय) from her well-spread bed (स्वास्तीर्णात्): her half-rising expresses heightened respect toward her advisor (किंचिदुत्थानमादरातिशयात्, Govindarāja), while स्वास्तीर्णात् proves the bed itself was faultless, so discomfort was not the cause of her rising (उत्थानहेतुर्न शय्यादोष इत्याशयेनाह, Govindarāja; शय्याया निर्दोषत्वं सूचितम्, _Śiromaṇi_).
+
+_____________
+
+**2.9.9–10 (Repetition of the Queen's Inquiry)**
+
+_Tilaka_ notes that Kaikeyī's gesture and words display her eagerness both to hear and to execute the plot (श्रवणेऽनुष्ठाने चोत्साहं दर्शयति). In v. 10, _Śiromaṇi_ explicitly addresses the near-verbatim recurrence of v. 4, observing that the earlier verse read सा whereas here it reads तदा (अयं श्लोकः पूर्वत्रापि पठितः परं तत्र तु सेति अत्र तदेति भेदः).
+
+_____________
+
+**2.9.11–12 (vaijayantam and timidhvajaḥ)**
+
+Govindarāja and _Śiromaṇi_ construe vv. 11–13 as a unified syntactic period (श्लोकत्रयमेकान्वयि, _Śiromaṇi_) recounting the backstory of the two boons (वरं स्मारयितुं पूर्वकथामाह, Govindarāja). Accompanied by tributary royal sages (राजर्षिभिः स्वाश्रितैः सह) and taking Kaikeyī along (उपादाय गृहीत्वा, _Tilaka_), Daśaratha marched south toward the Daṇḍaka realm (दण्डकान्जनपदान्प्रति, _Tilaka_) to Vaijayanta, ruled by Timidhvaja.
+
+_____________
+
+**2.9.13–14 (śambaraḥ and kṣatavikṣatān)**
+
+In v. 13, _Tilaka_ notes that Timidhvaja himself was known in the world as Śambara (स एव लोके शम्बर इति ख्यातः). In v. 14, Govindarāja distinguishes क्षताः (wounded by arrows and spears, बाणशूलादिभिः संजातव्रणाः) from विक्षताः (hacked in diverse ways by swords and axes, खड्गपरशुपट्टिशादिभिर्विविधं प्रहृताः), inferring that warriors wounded in daytime combat were dragged from their beds (अपास्यास्तरणादाकृष्य, _Tilaka_) while sleeping at night.
+
+_____________
+
+**2.9.15–16 (śakalīkṛtaḥ and Two Rescues)**
+
+In v. 15, _Tilaka_ glosses शकलीकृतः as wounded across every limb (सर्वाङ्गेषु विक्षतः). Both Govindarāja and _Tilaka_ explain why Daśaratha granted two boons (द्विधा रक्षणात् द्वौ वरौ दत्ताविति भावः, Govindarāja): first, when the king fell unconscious (नष्टचेतनः मूर्च्छितः), Kaikeyī acted as his charioteer (त्वया सारथ्यं कुर्वाणया) and drove him away from the battlefield (संग्रामादपवाह्य अन्यत्र नीत्वा); second, even at that refuge (तत्रापि), when enemy missiles struck him again (दूरपातिभिररीषुभिः, _Tilaka_), she protected him.
+
+_____________
+
+**2.9.17–18 (yad eccheyam and anabhijñā hy aham)**
+
+Govindarāja notes that the optative इच्छेयम् after यदा expresses open-ended time (इच्छेयमित्यनवक्लृप्ते लिङ्), leaving the boons as a standing deposit (तथेत्युक्तं महात्मना). In v. 18cd, Mantharā anticipates Kaikeyī's question of how a palace maid knew of a battlefield pact (कथमिदं त्वया ज्ञातमित्यत्राह, Govindarāja) by adding अनभिज्ञा ह्यहं देवि त्वयैव कथितं पुरा: she was ignorant of the war itself, but Kaikeyī had proudly recounted the story to her in bygone days.
+
+_____________
+
+**2.9.19–20 (nigṛhya and the Two Boons)**
+
+In v. 19, _Tilaka_ glosses निगृह्य as binding the king in the snare of the boons (भर्तारं वरपाशेन निगृह्य) to halt the consecration preparations, while _Śiromaṇi_ explains it as bringing him under her control by extracting a solemn promise (वरं दास्यामीति प्रतिज्ञां कारयित्वा). Once he consents, she must demand in turn (ताभ्यां क्रमेण, _Tilaka_) Bharata's consecration and Rāma's fourteen-year exile.
+
+_____________
+
+**2.9.21 (prajābhāvagatasnehaḥ and sthiraḥ)**
+
+Both Govindarāja and _Tilaka_ explain why Mantharā specifies fourteen years (चतुर्दशसंख्या किमर्थमित्यत्राह, Govindarāja; चतुर्दशसंख्याफलमाह, _Tilaka_): during that long absence, Bharata will implant affection in the inner hearts of the citizens (प्रजानां भावेऽन्तःकरणे गतः प्राप्तः स्नेहो यस्य, _Tilaka_; प्रजानां भावमभिप्रायं गतः, Govindarāja) and become unshakable on the throne (स्थिरः अप्रकम्प्यः, Govindarāja).
+
+_____________
+
+**2.9.22–24 (krodhāgāram and anantarhitāyām)**
+
+Govindarāja defines क्रोधागारम् as the chamber where queens retire when angered in love-quarrels (प्रणयकलहादिना क्रुद्धाः स्त्रियो यत्र वसन्ति तत् क्रोधागारम्). All three commentators gloss अनन्तर्हितायाम् as “uncovered, bare of any carpet” (अनास्तृतायां भूमौ, Govindarāja and _Tilaka_; आस्तरणरहितायाम्, _Śiromaṇi_). _Tilaka_ notes that क्रुद्धेव means feigning implacable wrath, knowing the king would enter fire to please her (त्वत्प्रीतिनिमित्तम्, Govindarāja).
+
+_____________
+
+**2.9.25–26 (pratyudīkṣitum and saubhāgyabalam)**
+
+In v. 25, _Śiromaṇi_ glosses प्रत्युदीक्षितुम् as bearing to look upon her when angry (क्रुद्धां प्रत्युदीक्षितुं द्रष्टुम्). In v. 26, _Tilaka_ remarks that Kaikeyī's hesitation stems solely from forgetting the might of her own conjugal favour (स्वसौभाग्यवैभवविस्मरणमूलिका ते एषा मन्दाशङ्केति भावः), while Govindarāja glosses the vocative मन्दस्वभावे as “O indolent-natured one” (अलसस्वभावे).
+
+_____________
+
+**2.9.27–28 (Refusing Jewels and so 'rtho na tvā kramed ati)**
+
+In v. 27, Mantharā warns that the king will try to pacify her with pearls and gems (विविधान्यनुनयैः राजा त्वां लोभयिष्यति, _Śiromaṇi_); she must reject all gifts short of the boons (वरदानव्यतिरिक्तं मण्यादिकं च न स्वीकुर्वित्याह, Govindarāja). On v. 28d, _Tilaka_ records two readings: with prohibitive मा त्वा, it means “do not forget that purpose” (तमर्थं मा विस्मरेत्यर्थः); with न त्वा क्रमेदति, _Tilaka_ cites _Kataka_ (इति कतकः) and concurs with Govindarāja that because the king is bound by truth (राज्ञः सत्यप्रतिज्ञत्वात्), the object cannot fail (सर्वथा सिध्यत्येव).
+
+_____________
+
+**2.9.29–30 (vyavasthāpya and Enacting the Demand)**
+
+In v. 29, both Govindarāja and _Tilaka_ gloss राघवः as Daśaratha (राघवो दशरथः) and explain व्यवस्थाप्य as binding the king firmly in his oath of truth before naming the boons (शपथैः सत्ये स्थापयित्वा, _Tilaka_; सत्ये स्थापयित्वा, Govindarāja). In v. 30, _Tilaka_ notes that Mantharā rehearses the exact words Kaikeyī is to speak to the king (वरमभिनयति—रामेति).
+
+_____________
+
+**2.9.31–32 (rūḍhaḥ and kṛtamūlaḥ)**
+
+In v. 31, _Tilaka_ compares Bharata to a tree nurtured for fourteen years (यथा चतुर्दशवर्षं पालितः प्रवृद्धशाखः कृतमूलो बद्धमूलो वृक्षो दुरुन्मूलो भवति): once firmly rooted (रूढो बद्धराज्यः कृतमूलो वशीकृतसुहृत्प्रकृतिदेशः), he will abide for the rest of his life (चतुर्दशवर्षोत्तरशेषाः कालं स्थास्यत्येव) and even Rāma's return will not shake him (न तु पुनरागतेनापि रामेण कम्पनं भविष्यति).
+
+_____________
+
+**2.9.33–34 (rāmo 'rāmaḥ and antarbahiś ca)**
+
+In v. 33, Govindarāja resolves रामोऽरामः as अराम इति पदच्छेदः, explaining that Rāma will cease to be the object of the citizens' delight (इदानीमिव प्रकृतिस्नेहपात्रं न भविष्यतीत्यर्थः, Govindarāja; प्रजाभी रमणानर्हः, _Śiromaṇi_). On v. 34, _Śiromaṇi_ explains अन्तर्बहिश्च as within Ayodhyā and throughout the outer realm (अन्तरयोध्यामध्ये बहिः राज्ये), while _Tilaka_ refers it to inner ministers and outer subjects (प्रकृतीनामिति शेषः).
+
+_____________
+
+**2.9.35–36 (saṃgṛhītamanuṣyaḥ and anartham artharūpeṇa)**
+
+By winning over the populace through good governance (संगृहीताः अनुरञ्जिताः मनुष्याः पौरजानपदाः येन, Govindarāja), Bharata will stand secure. In v. 36cd, Vālmīki pronounces his moral verdict: Kaikeyī was made to seize grave ruin disguised as her own interest (अनर्थं विरुद्धार्थमर्थरूपेण अनुकूलाथेरूपेण ग्राहिता बोधिता, Govindarāja).
+
+_____________
+
+**2.9.37–39 (kiśorīvotpathaṃ gatā and kubjānām uttamā)**
+
+In v. 37, Govindarāja and _Tilaka_ gloss किशोरी as a young filly (बालवडवा): just as an untamed filly bolts off the road (उत्पथं कुमार्गं गता) even when guided by a rider holding a whip (कशाहस्तेनारूढापि, _Tilaka_), so Kaikeyī strayed despite her noble husband. In v. 38, _Tilaka_ offers a double reading of परमदर्शना: either “of supreme beauty” or, resolving परम-अदर्शना, “utterly blinded to what is right” (अत्यर्थमदर्शना विरुद्धदर्शना).
+
+_____________
+
+**2.9.40 (The Brahmin's Curse on Kaikeyī)**
+
+Explaining why the noble Kaikeyī fell into such delusion in v. 40, _Tilaka_ cites a traditional stanza (न हि तद्बुबुधे पापं शापदोषेण मोहिता): in her childhood in Kekaya, proud of her beauty, she mocked a rough-featured Brahmin (ब्राह्मणं रूक्षरूपिणम् असूयितवती बाला), who cursed her to incur the world's reviling (तस्मादसूयां त्वमपि लोके प्राप्स्यसि कुत्सिताम्). Blinded by that curse, she fell under Mantharā's sway (शापसमाच्छन्ना मन्थरावशमागता).
+
+_____________
+
+**2.9.41–42 (padmam iva vātena saṃnatā and sunābham iva lajjitam)**
+
+Deluded by passion, Kaikeyī praises Mantharā's crooked spine as a lotus bent by the wind (वातेन संनतं पद्ममिव) and says that beneath her shoulder-high chest (स्कन्धपर्यन्तमुन्नतमुरः), her sunken belly shrinks as if bashful (उरस उन्नतिं दृष्ट्वा लज्जितमिव कृशम्, _Tilaka_; शातं कृशम्, Govindarāja).
+
+_____________
+
+**2.9.43–44 (nirmṛṣṭam / nirghuṣṭam and sakthibhyām)**
+
+In v. 43, _Tilaka_ explains निर्मृष्टम् as smooth and free of blemish (रोमादिकश्मलहीनम्), while noting the variant निर्घुष्टम् (“resounding with the little bells on her girdle,” रशनास्थक्षुद्रघण्टाभिः शब्दायमानम्). In v. 44, Govindarāja cites _Amarakośa_ (सक्थि क्लीबे पुमानूरुः) to gloss सक्थिभ्याम् as “thighs” (ऊरुभ्याम्), whereas _Tilaka_ records _Kataka_'s gloss as the two sides of the back (सक्थिनी पृष्ठफलके इति कतकः).
+
+_____________
+
+**2.9.45–46 (rājahaṃsīva and rathaghoṇam)**
+
+Both _Tilaka_ and _Śiromaṇi_ note the celebrated variant राजहंसीव राजसे (“you shine like a royal swan”) in v. 45b. On v. 46, _Tilaka_ and _Śiromaṇi_ gloss रथघोणम् as the rounded hub of a chariot wheel (रथचक्रपिण्डिका), while Govindarāja takes it as the nose-like front projection of a chariot (नासिकाकाररथावयवविशेषः), comparing it to Mantharā's protruding hump (स्थगु).
+
+_____________
+
+**2.9.47–48 (matayaḥ, kṣatravidyāḥ, and jātyena)**
+
+In v. 47, both Govindarāja and _Tilaka_ quote the classical lexical verse distinguishing mental faculties (स्मृतिर्व्यतीतविषया मतिरागामिगोचरा । बुद्धिस्तात्कालिकी ज्ञेया प्रज्ञा त्रैकालिकी मता) to explain मतयः (far-seeing counsels) alongside क्षत्रविद्याः (royal statecraft, राजनीतयः), all humorously said to reside inside her hump (अत्र स्थगुनि). In v. 48, जात्येन denotes gold of the purest kind (उत्तमस्वर्णजातौ भवं जात्यम्, Govindarāja).
+
+_____________
+
+**2.9.49–50 (lepayiṣyāmi te sthagu and tilakam)**
+
+Connecting v. 49a with v. 48cd, Govindarāja offers two explanations of coating Mantharā's hump with refined gold (सुनिष्टप्तेन सुवर्णेन लेपयिष्यामि): either encasing it in a golden bodice (स्वर्णकञ्चुकेनालङ्करिष्यामीत्यर्थः) or smearing it with sandal-paste mixed with liquid gold (चन्दनरसमिश्रितस्वर्णेन सह लेपयिष्यामीत्यर्थः). Her brow-ornament (तिलकम्) will be fashioned of gold studded with gems (नानारत्नखचिततया नानावर्णम्, Govindarāja).
+
+_____________
+
+**2.9.51–52 (āhvayamānena and garvayantī)**
+
+In v. 51, Govindarāja explains the middle participle आह्वयमानेन (“vying with the moon,” स्पर्धमानेन) as taking _Ātmanepada_ in the sense of challenging (स्पर्धायामाङः इत्यात्मनेपदम्), while गर्वयन्ती (“acting haughtily toward rival co-wives' servants,” मत्सपत्नीजनं प्रति गर्वं कुर्वन्ती) is a denominative from गर्व. Even hunchbacked maids (कुब्जाः) will serve Mantharā's feet.
+
+_____________
+
+**2.9.53–54 (gatodake setubandhaḥ and rājānam anudarśaya)**
+
+Cutting short Kaikeyī's idle flattery (वृथावार्ताभिः कालात्ययो न कार्य इत्याह, _Tilaka_), Mantharā cites the famous maxim in v. 54: गतोदके सेतुबन्धो न कल्याणि विधीयते—a dam is useless once the water has drained away (गतं शुष्कमुदकं यस्य तस्मिन्नदादौ, _Śiromaṇi_), meaning that claiming the boons after Rāma is consecrated will be futile (रामाभिषेके वृत्ते वरग्रहणादि व्यर्थमिति भावः, _Tilaka_). She bids Kaikeyī show herself to the king in the chamber of wrath (क्रोधागारे आत्मानमिति शेषः, _Tilaka_).
+
+_____________
+
+**2.9.55–57 (anekaśatasāhasram and hemopamā)**
+
+Govindarāja construes vv. 55–57 as a single sentence (श्लोकत्रयमेकान्वयम्). On अनेकशतसाहस्रम् in v. 56, Govindarāja explains the secondary derivative (क्रीतार्थेऽण्) as denoting a pearl necklace bought for many hundreds of thousands of gold pieces (अनेकशतसहस्रमुद्रामूल्यं बहुमूल्यकमिति यावत्, _Śiromaṇi_; तावत्स्वर्णमूल्यम्, _Tilaka_). Casting off her priceless jewels (वरार्हाणि बहुमूल्यानि, _Tilaka_), the golden-complexioned Kaikeyī (हेमोपमा स्वर्णवर्णा, _Tilaka_) lies on the floor.
+
+_____________
+
+**2.9.58–59 (nṛpāyāvedayiṣyasi and jīvitasyāntaḥ)**
+
+In v. 58, both Govindarāja and _Tilaka_ gloss the dative नृपाय with bitter irony as “to the king who slights me” (मदभीष्टमददते मदुपेक्षकाय राज्ञे दशरथाय, _Tilaka_; नृपाय मदुपेक्षकाय, Govindarāja): Kaikeyī swears there is no third option between her death in the wrath-chamber and Bharata's kingship (न तु पक्षान्तरमस्तीति भावः, _Tilaka_).
+
+_____________
+
+**2.9.60 (mahāparākramaiḥ and rāmam upetya)**
+
+In v. 60, as the meter shifts to twelve-syllable _Vaṃśastha_, Govindarāja notes that Mantharā speaks again to harden Kaikeyī's resolve (कैकेयीनिश्चयं द्रढयति), using words of ruthless potency (महापराक्रमैरतिक्रूरैः, _Tilaka_) that appear beneficial to Bharata while aimed at Rāma's ruin (राममुद्दिश्य अहितम्, Govindarāja).
+
+_____________
+
+**2.9.61–62 (vāgiṣubhiḥ and nidhāya hastau hṛdaye)**
+
+In v. 62, _Tilaka_ glosses वागिषुभिः as the shafts of Mantharā's earlier speeches (पूर्वोक्तवचनरूपैर्बाणैः समाहता ताडिता). Govindarāja explains the gesture निधाय हस्तौ हृदये (“placing both hands on her heart”) as the dramatic mime of astonishment (इति विस्मयाभिनयः): utterly bewildered (अतिविस्मिता अतिविमुग्धा) that the king could act against her wishes (राजा मामेवं प्रतारितवानिति, _Tilaka_), she rages against her husband (रामाभिषेकप्रवर्तकं भर्तारमुद्दिश्य कुपितेत्यर्थः, Govindarāja).
+
+_____________
+
+**2.9.63–65 (āstaraṇāni, medinīm adhiśiśye, and patiteva kiṃnarī)**
+
+In v. 64, _Tilaka_ identifies अञ्जनपानभोजनम् as a collective singular _Dvandva_ (समाहारद्वन्द्वः), while Govindarāja notes that the present tense इतो गच्छति expresses immediate futurity (वर्तमानसामीप्ये लट्). On v. 65, both Govindarāja and _Śiromaṇi_ cite the grammatical rule (अधिशीङ्स्थासां कर्म) whereby शी prefixed with अधि- governs the accusative मेदिनीम् in the sense of the locative (सप्तम्यर्थे द्वितीया). _Tilaka_ explains पतितेव किंनरी as a celestial nymph fallen to earth upon the exhaustion of her merit (पुण्यक्षयाद्भूमौ पतिता).
+
+_____________
+
+**2.9.66 (udīrṇasaṃrambhatamovṛtānanā and magnatārakā)**
+
+All three commentators admire the closing simile comparing Kaikeyī to an overcast night sky (तमोवृता द्यौरिव मग्नतारका): Govindarāja and _Tilaka_ explain that surging wrath itself is the darkness (उदीर्णः उत्कटः संरम्भः कोपः स एव तमः तेन वृतानना) eclipsing her formerly spotless face, while her cast-off garlands and jewels correspond to the sunken stars (मग्नतारका अस्तमिततारका द्यौराकाशम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

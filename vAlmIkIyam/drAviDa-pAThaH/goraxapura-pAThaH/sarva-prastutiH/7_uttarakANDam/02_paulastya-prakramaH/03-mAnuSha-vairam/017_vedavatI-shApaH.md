@@ -525,6 +525,134 @@ _________________
 
 “Nārāyaṇa is my husband, and none other than the Supreme Person (_na tv anyaḥ puruṣottamāt_); I resort to this dreadful discipline (_āśraye niyamaṃ ghoram_) out of longing to attain Nārāyaṇa (_nārāyaṇa-parīpsayā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.17.1–2 (Setting the Vedavatī Episode in the Himālayas)**
+
+Introducing this pivotal narrative, **Rāma Varmā** (_Tilaka_) announces that Agastya now recounts Vedavatī’s curse upon Rāvaṇa to reveal that she is none other than Janaka’s daughter Sītā (अथ वेदवत्या रावणस्य शापदानकथनपूर्वकं सैवेयं जनकात्मजेति कथनम्). Wandering into the Himālayan woods, Rāvaṇa discovers a maiden radiant as a divinity yet garbed in black deerskin and ascetic locks. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss आर्षेण विधिना as ‘through the practice of austerity’ (तपोऽनुष्ठानेन), while **Śivasahāya** (_Śiromaṇi_) explains her as performing the sacred rites prescribed by the brahmarṣis (ब्रह्मर्षिप्रोक्तकर्मकर्त्रीमित्यर्थः).
+
+_____________
+
+**7.17.3 (Rāvaṇa’s Predatory Smile)**
+
+Rather than feeling awe before a woman of blazing ascetic stature, Rāvaṇa is instantly seized by lust and delusion (_kāma-moha-parītātmā_) and addresses her प्रहसन्निव (‘as if laughing’). **Rāma Varmā** preserves Kataka’s pointed psychological gloss: his smile arises from predatory smugness at thinking, ‘I have found an unprotected maiden alone in the wilderness’ (अरण्ये मयानाथा कन्या प्राप्तेति संतोषजः प्रहास इति कतकः). **Govindarāja** concurs, noting his delight at chancing upon a rare and precious maiden (दुर्लभकन्यालाभात्प्रहसितः), setting the stark moral contrast between his carnal gaze and her vow.
+
+_____________
+
+**7.17.4–6 (Seduction Disguised as Worldly Wisdom)**
+
+On 7.17.4, **Rāma Varmā** glosses प्रतिक्रिया as ‘this mode of conduct’ (इदमाचरणम्), **Govindarāja** specifies ‘action contrary to youth’ (यौवनप्रतिकूलक्रिया), and **Śivasahāya** renders it as ‘a perverse inversion’ (विपर्ययः) unworthy of her beauty. On 7.17.5, Rāma Varmā glosses निर्गतः as ‘well-established’ (प्रसिद्धः), supplying ‘among the wise’ (वृद्धानामिति शेषः), whereas Śivasahāya reads it as Rāvaṇa’s boastful ‘well known to us’ (अस्माभिर्ज्ञातः). On 7.17.6, Rāma Varmā supplies ‘whose daughter’ (दुहितेति शेषः) and ‘what vow’ (व्रतमित्यर्थः), while Śivasahāya construes 7.17.6 with 7.17.7ab as a single six-quarter sentence (सार्धश्लोक एकान्वयी).
+
+_____________
+
+**7.17.7–8 (Ascetic Hospitality and Noble Lineage)**
+
+On Rāvaṇa’s closing query कस्य हेतोः in 7.17.7, **Rāma Varmā** (_Tilaka_) glosses ‘for the sake of what fruit’ (किंफलनिमित्तम्). Despite Rāvaṇa’s brazenness, **Śivasahāya** (_Śiromaṇi_) notes Vedavatī’s scrupulous adherence to hermitage dharma: she first performs formal guest-rites (विधिवदातिथ्यं कृत्वा) before speaking. Introducing herself, she names her father Kuśadhvaja, son of Bṛhaspati and his peer in wisdom, establishing her exalted Brahmin birth and spiritual composure.
+
+_____________
+
+**7.17.9 (Vedavatī as Speech-Born Śakti of Viṣṇu)**
+
+**Rāma Varmā** unfolds a rich theological reading of Vedavatī’s birth from Kuśadhvaja’s daily Vedic recitation: born as a maiden whose very substance is sacred speech (वाङ्मयी वेदशरीरा), she is in truth the Lord’s divine Śakti Lakṣmī descending beforehand upon earth specifically to compass Rāvaṇa’s destruction (भगवतः शक्तिर्लक्ष्मीरेव रावणवधाय पूर्वं भूम्यावतीर्णा). Her speech-nature (वाङ्मयित्वम्) springs from her identification with Sarasvatī/Vāk, foreshadowing why her father could envision no groom for her save Viṣṇu himself.
+
+_____________
+
+**7.17.10–12 (Suitors Refused for Viṣṇu Alone)**
+
+On 7.17.10, **Rāma Varmā** elucidates the idiomatic phrase वरणं रोचयन्ति by explaining that √ruc here bears a general verbal sense—‘those gods and celestial beings sought my hand in marriage’ (रुचिः क्रियासामान्ये । वरणं कुर्वन्ति स्मेत्यर्थः). On 7.17.12, both **Rāma Varmā** and **Śivasahāya** normalize the epic genitive अन्यस्य to the dative अन्यस्मै (‘to any other’), and Śivasahāya binds 7.17.12 directly to 7.17.13ab–cd as a single four-hemistich period (अर्धचतुष्टयमेकान्वयि).
+
+_____________
+
+**7.17.13–14 (The Murder of Kuśadhvaja and Maternal Devotion)**
+
+Reading the Daitya king’s name as Śambhu (whereas the Southern text reads Dambhu), **Śivasahāya** (_Śiromaṇi_) traces the tragedy concisely: thwarted in his bid for Vedavatī, the demon cowardly slew her sleeping father by night, whereupon her bereaved mother embraced his body and ascended the fire (_havyavāhana_) as a devoted _satī_. The sequence establishes both Vedavatī’s isolation in the wilderness and the sacred solemnity of the paternal wish she now carries alone.
+
+_____________
+
+**7.17.15 (The Etymology of Nārāyaṇa)**
+
+Resolving to fulfill her slain father’s longing, Vedavatī enshrines Nārāyaṇa alone within her heart. **Rāma Varmā** (_Tilaka_) pauses to offer two classical derivations of the divine name नारायण: either ‘the resting-place (_ayana_) of the multitude of living souls (_nāra_)’ (नारस्य जीवसमूहस्यायनम्), or ‘He whose primordial abode is the cosmic waters (_nārāḥ_)’ (नारा आपोऽयनं यस्येति वा). **Śivasahāya** highlights the filial causality of इति हेतोः: honoring her father’s wish is the very engine of her devotion.
+
+_____________
+
+**7.17.16–18 (Ascetic Omniscience and Dismissal of Rāvaṇa)**
+
+On 7.17.16, **Rāma Varmā** glosses प्रतिज्ञामारुह्य as firmly adopting the resolve centered on her father’s wish (आरुह्य कृत्वा), while **Śivasahāya** reads it as ‘following her father’s pledge’ (पितृकृतां प्रतिज्ञामनुसृत्य). On 7.17.17, Śivasahāya explicitly identifies पुरुषोत्तमात् as Rāma (रामात्), tightening the link to Book VII’s listener. On 7.17.18, Rāma Varmā notes that 18cd explains how she recognized Rāvaṇa (कथं विज्ञातस्तत्राह जानामीति), and Śivasahāya glosses मे as मया: her ascetic sight pierces all three worlds, leaving Rāvaṇa unmasked and dismissed.
+
+_____________
+
+**7.17.19–20 (Rāvaṇa’s Sophistry Against Youthful Penance)**
+
+Descending from Puṣpaka under the sting of desire, Rāvaṇa tries to undermine Vedavatī’s vow through worldly cynicism. On 7.17.20, **Śivasahāya** (_Śiromaṇi_) glosses अवलिप्ता as ‘puffed up with pride and ignorant of what truly befits you’ (गर्वविशिष्टासि स्वकर्तव्यं न जानासीति तात्पर्यम्), noting that to forestall the objection that penance would lack practitioners altogether, Rāvaṇa concedes it to the old. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) concur: storing up merit (पुण्यसंचयः) adorns only the elderly, not the young (वृद्धानामेव भ्राजते न तु बालयूनोः).
+
+_____________
+
+**7.17.21–22 (Carpe Diem and the Royal Proposal)**
+
+Continuing his persuasion, Rāvaṇa appeals to the transience of youth—‘your youth is receding’ (निवर्तते in Govindarāja’s text; अतिवर्तते, ‘passing by’, in Śiromaṇi). **Śivasahāya** traces the rhetorical progression into 7.17.22: anticipating Vedavatī’s unspoken retort that abandoning penance would leave her without Viṣṇu and unwed (तपश्चरणाभावे विष्णोरप्राप्तौ ममोद्वाहाभावापत्तिरित्यत आह), Rāvaṇa flaunts his title as ten-headed sovereign of Laṅkā, inviting her to become his queen and revel in boundless pleasures.
+
+_____________
+
+**7.17.23–24 (Blasphemous Hubris Against Viṣṇu)**
+
+Rāvaṇa seals his doom when seduction turns into blasphemy against Nārāyaṇa. On his contemptuous question कश्च तावदसौ (‘who, pray, is this Viṣṇu?’) in 7.17.23, **Rāma Varmā** brings out the sneering implication: ‘one of meager valor and power compared to me’ (मदपेक्षयात्यल्पवीर्यादियुक्तः). **Śivasahāya** observes that 7.17.23cd–24ab restates the boast in another turn (तदेव भङ्ग्यन्तरेणाह): measuring himself against the Supreme Lord in prowess, austerity, pleasure, and strength, Rāvaṇa claims superiority—provoking Vedavatī’s immediate rebuke in 7.17.24cd.
+
+_____________
+
+**7.17.25–26 (Defending Viṣṇu and the Outrage of Seizing Her Hair)**
+
+On Vedavatī’s sharp cry मा मैवम्, **Rāma Varmā** (_Tilaka_) supplies ‘do not speak thus concerning Viṣṇu’ (विष्णुविषये वदेति शेषः), while **Govindarāja** (_Bhūṣaṇa_) glosses त्वदृते as ‘except for you’ (त्वां विना)—no wise being would scorn the Lord of the three worlds. Stung by her fearless fidelity, Rāvaṇa seizes her hair (_mūrdhaja_) with his fingertips, crossing from verbal arrogance into sacrilegious physical violation of an ascetic woman.
+
+_____________
+
+**7.17.27–28 (The Hand Turned Sword and the Kindled Pyre)**
+
+Both **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) address the immediate wonder of 7.17.27ab: ‘How could she cut off her hair with her bare hand?’ (हस्तेन केशच्छेदः कथम्?). They show that 7.17.27cd supplies the answer: empowered by her immense tapas, her very hand became a blade (असिर्भूत्वा) and sheared away the polluted locks. Her incandescent wrath (_jvalantīva roṣeṇa_) mirrors the literal fire (_agniṃ samādhāya_) she instantly prepares for self-immolation.
+
+_____________
+
+**7.17.29–30 (Pollution by Touch and the Vow of Rebirth)**
+
+On 7.17.29, **Rāma Varmā** defines धर्षितायाः precisely as ‘reduced to humiliation through the touching of her hair’ (केशस्पर्शेन ह्रीभावं प्रापितायाः), explaining why Vedavatī rejects further life in that body and enters the fire before Rāvaṇa’s very gaze (पश्यतस्ते). On 7.17.30, both Rāma Varmā and Śivasahāya gloss the Northern/Parimal active future समुत्पत्स्यामि by classical middle समुत्पत्स्ये—the exact form preserved in our Southern text—sealing her solemn pledge of rebirth for Rāvaṇa’s death.
+
+_____________
+
+**7.17.31 (Why Vedavatī Withholds a Curse)**
+
+Why does a seer’s daughter capable of turning her hand into a sword not incinerate Rāvaṇa with a curse? **Rāma Varmā** (_Tilaka_) pinpoints the exact theological constraint: because Brahmā’s boon shields Rāvaṇa from death at that moment, a curse would merely waste her tapas in vain (ब्रह्मवरदानादिदानीं तस्य मरणाभावेन वृथा व्यय इत्यर्थः). **Śivasahāya** (_Śiromaṇi_) adds that engaging a wicked man directly in violence does not befit a virtuous maiden, and by noting the depletion of tapas she signals her subtler resolve to bring about his downfall through an indirect stratagem (उपायतः त्वां घातयिष्यामीति सूचितम्).
+
+_____________
+
+**7.17.32–33 (Act of Truth and Celestial Applause)**
+
+Vedavatī’s dying prayer takes the classical Vedic form of a truth-act (_satyakriyā_), staking her rebirth upon her accumulated merit of pious deeds, charity, and oblations (_kṛtaṃ dattaṃ hutam_). Both **Rāma Varmā** and **Śivasahāya** identify धर्मिणः सुता explicitly as King Janaka’s daughter by righteous adoption (अयोनिजा भूत्वा धर्मिणो जनकस्य न्यायतः सुता भवेयम्). On the shower of celestial flowers greeting her leap into the fire (7.17.33), Rāma Varmā explains that the gods rain blossoms out of joy at the certainty of Rāvaṇa’s eventual destruction (रावणवधनिश्चयजसंतोषादेव).
+
+_____________
+
+**7.17.34–36 (The Southern Lotus-Rebirth Episode)**
+
+Verses 7.17.34–38ab represent an extraordinary narrative expansion preserved in Govindarāja’s Southern Recension (and bracketed in Parimal as absent from Tilaka, Śiromaṇi, and Baroda CE). Rather than passing straight from Vedavatī’s pyre to Janaka’s furrow, this tradition supplies a vivid intermediate marvel: Vedavatī re-emerges radiant inside a lotus, Rāvaṇa unknowingly carries her to Laṅkā, and a minister versed in physiognomy (_lakṣaṇajña_) warns that keeping her in his palace spells his ruin—a striking motif anticipating regional _Rāmāyaṇa_ traditions linking Sītā’s discovery to Rāvaṇa’s own hand.
+
+_____________
+
+**7.17.37–38 (From the Sea to Janaka’s Furrow—Sītā as Lakṣmī)**
+
+Completing the Southern lotus-interlude, Rāvaṇa flings the child into the sea, whence she arrives at Janaka’s sacrificial ground to emerge as Sītā. On Agastya’s climactic revelation विष्णुस्त्वं हि सनातनः in 7.17.38, **Rāma Varmā** (_Tilaka_) notes that it decisively proves Sītā’s identity as Lakṣmī, quoting Parāśara’s _Viṣṇu Purāṇa_: ‘In the Rāma incarnation she became Sītā, and Rukmiṇī in Kṛṣṇa’s birth’ (राघवत्वेऽभवत्सीता रुक्मिणी कृष्णजन्मनि). **Śivasahāya** (_Śiromaṇi_) explains सनातनः via the _Taittirīya Upaniṣad_ (यतो वा इमानि भूतानि) as luminous Brahman pervading and directing all creation.
+
+_____________
+
+**7.17.39 (Sītā as the True Agent of Rāvaṇa’s Fall)**
+
+Commenting on this compressed verse, **Rāma Varmā** draws out a stunning theological insight: Rāvaṇa, the mountain-like foe (शैलाभः) already doomed by Vedavatī’s wrath, has now been slain by her once more through resorting to her husband Rāma’s superhuman prowess—indicating that Sītā herself is the primary cause of Rāvaṇa’s destruction, while slaying is attributed to Rāma (अनेन सीतैव रावणवधे मुख्यं कारणम्, रामे तु हन्तृत्वमारोपितमिति सूचितम्). **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** concur, glossing क्रोधाहितः/क्रोधहतः as ‘virtually slain already by her wrath’.
+
+_____________
+
+**7.17.40–42 (Cosmic Recurrence and Sītā’s Advent)**
+
+Resolving why 7.17.40 employs the future tense उत्पत्स्यते (‘she will be born again’) for Sītā’s already-past advent, **Rāma Varmā** invokes the Puranic hermeneutic maxim ‘kalpa is explained by kalpa’ (कल्पेन कल्पो व्याख्येयः): in future world-cycles too, both Sītā and the Lord will manifest identically. **Govindarāja** simply labels the future form an epic tense-shift (व्यत्यय आर्षः). Closing the sarga, Rāma Varmā cites the _Mahāsundarītantra_ dating Sītā’s manifestation to the bright ninth of Vaiśākha (वैशाखे शुक्लनवम्याम्) and glosses जनकस्योत्पन्ना as daughterhood by righteous adoption.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

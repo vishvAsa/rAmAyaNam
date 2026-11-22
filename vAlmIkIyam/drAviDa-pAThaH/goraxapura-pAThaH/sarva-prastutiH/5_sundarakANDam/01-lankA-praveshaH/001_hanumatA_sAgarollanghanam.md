@@ -82,6 +82,110 @@ celestials like chaaranas tread, to search for Seetha, who was taken away by Rav
 
 Then that tormentor of foes (_śatrukarṣaṇaḥ_) wished to seek out the track (_padam_) of Sītā, who had been carried off by Rāvaṇa, along the sky-path frequented by Cāraṇas (_cāraṇācarite pathi_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1. Opening Exegesis of the Sundarakāṇḍa (5.1.1)**
+
+Following Jāmbavān’s exhortation (जाम्बवत्प्रोत्साहनानन्तरं), Hanumān prepares to leap across the sea. **Śivasahāya** (_Śiromaṇi_) and **Rāma Varmā** (_Tilaka_) gloss पथि as the sky-path (आकाशमार्गे) traversed by celestial Cāraṇas. **Govindarāja** (_Bhūṣaṇa_) offers both a literal reading (अन्तरिक्षचारिणो देवगायकाः) and a Śrīvaiṣṇava allegory in which Hanumān exemplifies the spiritual preceptor (आचार्यकृत्यमुच्यते) walking the path of ancient teachers (पूर्वाचार्याः) to seek the captive soul (सीतायाः), noting that this verse inaugurates the epic’s twelfth thousand (द्वादशसहस्रस्यादिमोऽयं श्लोकः).
+
+_____________
+
+**1. The Lake-Elephant Simile and Travel Prayer (5.1.7–8)**
+
+Completing the syntactic unit of verses 5–7, **Rāma Varmā** (_Tilaka_) notes that the mountain resembles a deep lake through its dark sheen (गिरौ ह्रदसाम्यं श्यामलत्वेन), while **Śivasahāya** (_Śiromaṇi_) glosses both नाग terms as elephants (नागो गज इव). On **5.1.8**, **Rāma Varmā** remarks that Hanumān’s salutation teaches the traditional code of conduct (सदाचारो बोधितः) that a journey must begin with prayers to one’s tutelary deities to remove all obstacles, while **Govindarāja** (_Bhūṣaṇa_) glosses स्वयम्भुवे as four-faced Brahmā (चतुर्मुखाय) and भूतेभ्यः as divine beings (देवयोनिभ्यः).
+
+_____________
+
+**1. The Flower-Mantled Peak and Mineral Streaks (5.1.13–15)**
+
+On **5.1.13**, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain पुष्पमयः with the suffix _-mayaṭ_ of abundance (प्रचुरपुष्पवानिव बभौ). On **5.1.14–15**, crushed by Hanumān, Mount Mahendra sweats water like an elephant in musth (मदमत्तो द्विप इव) and extrudes metallic veins (रीतीः). **Rāma Varmā** glosses रीतीः as flowing stream-streaks (स्रोतसः प्रकारान्) gleaming like gold, antimony, and silver, while **Śivasahāya** and **Govindarāja** (_Bhūṣaṇa_) take रीतीः as mineral lines (रेखाः) or oozing fissures (भेदधाराः) bursting from the splitting rocks.
+
+_____________
+
+**1. Hood-Markings and Venom-Shattered Boulders (5.1.19–21)**
+
+On **5.1.19**, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain the स्वस्तिक as the dark line on a serpent’s hood (फणास्थनीलरेखा), whereas **Govindarāja** (_Bhūṣaṇa_) identifies it as the half-moon mark visible atop the hood (फणोपरि दृश्यमानार्धचन्द्रकं) and notes that biting rocks is an expression of rage (दंशनं कोपव्यापारः). On **5.1.20–21**, **Rāma Varmā** and **Govindarāja** gloss बिभिदुः as split apart (भिन्ना बभूवुः) and शमितुं as causative in sense (शमयितुम्, 'to quell'), as even the mountain’s antivenom herb-clusters (औषधसमूहाः) fail against the Nāgas' fiery venom.
+
+_____________
+
+**1. The Wine-Flushed Vidyādharas and Their Consorts (5.1.25–26)**
+
+Completing the three-verse unit (श्लोकत्रयमेकान्वयि in _Śiromaṇi_, 23–25), the fleeing Vidyādharas reach the sky. All three commentators gloss कण्ठगुणाः as necklaces or garlands (स्रजः) and क्षीबाः as intoxicated (मत्ताः). **Govindarāja** (_Bhūṣaṇa_) distinguishes रक्ताक्षाः ('red-eyed from drinking wine', मधुपानात्) from पुष्कराक्षाः ('naturally lotus-eyed', स्वभावतः). On **5.1.26**, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** cite Kataka taking पारिहार्य as 'excellent' (श्रेष्ठवाची) and Tīrtha taking it as a bracelet (वलयः, followed by **Govindarāja**).
+
+_____________
+
+**1. The Vidyādharas’ Realization and the Garuḍa Similes (5.1.31–34)**
+
+On **5.1.31**, **Rāma Varmā** (_Tilaka_) remarks that before hearing the celestial sages’ words (**5.1.29–30**), the Vidyādharas had supposed the mountain was being shattered by elemental spirits (भूतैरयं गिरिर्भिद्यत इति ज्ञातवन्तः); only now do they behold Hanumān as the cause. On **5.1.33–34**, **Rāma Varmā** glosses आनुपूर्व्या वृत्तं as coiled in three rings (त्रिवलयं) and आविद्धं as lashed and curved (आस्फोटितं भुग्नं च), while **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) take आनुपूर्व्या वृत्तं as tapering roundly in due sequence (क्रमशः वृत्तं वर्तुलं), likening the brandished tail behind his back to a great serpent carried off by Garuḍa.
+
+_____________
+
+**1. Breath Control and Launch Stance (5.1.37–38)**
+
+On **5.1.37**, **Rāma Varmā** (_Tilaka_) glosses हृदये as the seat where the vital breaths abide (प्राणप्रतिष्ठास्थाने), while **Govindarāja** (_Bhūṣaṇa_) explains that restraining the breath (प्राणनिरोधः) is practiced specifically for leaping into the sky (व्योमोत्पतनार्थम्). On **5.1.38**, **Rāma Varmā** notes that contracting the ears (कर्णसंकोचः) naturally accompanies the tensing of the body for a leap (उत्पतनसंनाहवशात्), and **Śivasahāya** (_Śiromaṇi_) observes that verses 38–39a form a single syntactic unit.
+
+_____________
+
+**1. The Effortless Leap and Garuḍa Self-Conception (5.1.43–44)**
+
+On **5.1.43**, **Rāma Varmā** (_Tilaka_) compares Hanumān’s vow to uproot Laṅkā to his later feat of uprooting the herb-mountain (औषधिपर्वतोत्पाटनवत्). On **5.1.44**, **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) gloss अविचारयन् as reckoning the leap across the ocean to involve no fatigue whatsoever (उल्लङ्घनक्लेशमप्यगणयन् / किंचिदपि श्रमजनकमित्यगणयन्), which the second half-verse elaborates through his deeming himself equal to Garuḍa (सुपर्णमिव).
+
+_____________
+
+**1. Heartwood Trees and the Myth of Winged Mountains (5.1.49–50)**
+
+On **5.1.49**, **Rāma Varmā** (_Tilaka_) explains पर्वताकारः as resembling a mountain both by his vast bulk and by bearing flowering trees (तत्समबृहत्त्वेन पुष्पितवृक्षवत्त्वेन च). On **5.1.50**, all three commentators gloss सारवन्तः as trees heavy with dense heartwood (गुरुत्वातिशययुक्ताः खदिरादयः in _Tilaka_; citing the lexicon सारो बले स्थिरांशे च in _Śiromaṇi_ and _Bhūṣaṇa_), which plunge immediately into the sea just as the ancient mountains hid in the ocean from fear of Indra’s wing-clipping thunderbolt (पक्षच्छेदभयात्), implying that lighter trees travelled further before falling.
+
+_____________
+
+**1. Five-Hooded Serpents and Drinking Ocean and Sky (5.1.55–57)**
+
+On **5.1.55**, **Rāma Varmā** (_Tilaka_) glosses रामाभिः as lovely (रमणीयाभिः). After comparing Hanumān’s two outstretched five-fingered arms to five-hooded serpents darting from a mountain peak (**5.1.56**), Vālmīki depicts him as drinking the sea and sky (**5.1.57**). **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) explain that with his mouth gaping wide (विवृतवक्त्रत्वात्), whenever he looks down (अधोवक्त्रत्वे) he seems to drink the ocean, and whenever he looks up (ऊर्ध्वमुखत्वे) he seems to thirst for the sky; **Govindarāja** (_Bhūṣaṇa_) adds that his sheer speed makes the receding expanse of sea and sky appear as though being swallowed up (पीड्यमान इव भवति).
+
+_____________
+
+**1. Indra’s Banner, the Solar Halo, and Red Chalk Ore (5.1.61–63)**
+
+On **5.1.61–62**, all three commentators gloss समाविद्धं as raised and curved (उन्नतीकृतं), comparing the upright tail to Indra’s festival banner (शक्रध्वजमिव) and its circular coil around Hanumān to a halo around the sun (परिवेषी मण्डलवान् भास्कर इव); **Rāma Varmā** (_Tilaka_) notes that शुक्लदंष्ट्रः is descriptive of his natural form (स्वरूपकथनमात्रम्) rather than part of the halo simile. On **5.1.63**, **Rāma Varmā** explains that because only his hip-region (कटिप्रदेशेन) is bright coppery red, the rest of the mountain-like monkey resembles a peak split open to reveal a single great seam of red ochre (दारितगैरिकधातुयुक्तगिरिणापमा).
+
+_____________
+
+**1. The Wind-Driven Ship and the Frenzied Sea (5.1.67–68)**
+
+On **5.1.67**, all three commentators admire the double image of Hanumān’s body coursing through the sky above (उपरिष्टात्) while his reflection or shadow plunges into the sea below (अवगाढया छायया): **Govindarāja** (_Bhūṣaṇa_) explains that just as a ship has its hull submerged in water and its upper deck in the air, so Hanumān’s sky-borne body and water-plunged shadow form a single ship-like figure (एकाकारः सन्) driven by the wind (मारुताविष्टा नौरिवासीत्). On **5.1.68**, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain सोन्माद इव ('like one possessed by epilepsy/madness', सापस्मार इव) through the shared symptoms of whirling, foaming, and roaring (घूर्णनफेनवमनविक्रोशनादिविकारसाम्यात्).
+
+_____________
+
+**1. Sky-Borne Spray and Unclothed Sea Creatures (5.1.73–74)**
+
+On **5.1.73**, **Govindarāja** (_Bhūṣaṇa_), reading वेगसमुद्धूतं, explains that the gale of Hanumān’s thighs flings ocean water up into the clouds (ऊरुवातेन समुत्थापितं सजलदं जलं), where the mingled spray and cloud shine like an expansive white autumn cloud (शारदाभ्रमिवाततम्). On **5.1.74**, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** explain विवृताः as exposed when the water covering them is swept aside by his blast (वेगाज्जलोत्सारणेन व्यक्तदेहाः / जलरूपप्रावरणरहिताः), comparing the bared whales (तिमयो महामत्स्याः), crocodiles (नक्राः ग्राहाः), and turtles to human bodies stripped of their garments (वस्त्रापकर्षणेन).
+
+_____________
+
+**1. The Furrowed Ocean and the Bird-Path (5.1.79–80)**
+
+On **5.1.79**, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss द्रोणी as a wooden roof-gutter or water-channel (हर्म्यादौ जलनिर्गमकाष्ठयन्त्रं), while **Govindarāja** (_Bhūṣaṇa_) glosses it as a basin or cauldron (कटाहः), describing the deep trough carved in the sea by Hanumān’s blast. On **5.1.80**, all three commentators derive आपाते in the sense of locus as the sky-track along which birds fly (आपतन्त्यस्मिन्नित्यापातो मार्गः), where Hanumān speeds like Garuḍa and drags cloud-banks like his father Vāyu.
+
+_____________
+
+**1. Universal Acclaim for the Tireless Emissary (5.1.85–86)**
+
+Watching Hanumān bound across the sky without fatigue (विगतक्लमम्) despite performing a feat impossible for others (अन्यासाध्यव्यापारवत्त्वेऽपि in _Tilaka_), sages, gods, Gandharvas, Nāgas, and Yakṣas praise him. On **5.1.86**, **Govindarāja** (_Bhūṣaṇa_) explains that the Rākṣasas who join in praising Hanumān are not Rāvaṇa’s partisans, but the attendants of Kubera, regent of the northern quarter (दिक्पालकुबेरसंबन्धीनि).
+
+_____________
+
+**1. Golden-Peaked Maināka as the Bolt of Pātāla (5.1.91–93)**
+
+On **5.1.91**, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) cite the lexicon नाभिः प्रधाने कस्तूर्याम् to gloss हिरण्यनाभं as 'predominantly golden' (हिरण्यप्रधानम्), whereas **Govindarāja** (_Bhūṣaṇa_) cites नाभिरध्यक्षे कस्तूर्याम् to gloss it as 'having a golden peak' (हिरण्यशृङ्गं, since a peak is the chief part of a mountain). On **5.1.92–93**, **Rāma Varmā** explains that after Maināka hid in the sea out of fear of Indra’s wing-clipping, Indra stationed him like a door-bar (परिघवत्) at the subterranean exit to block the Asuras of Pātāla, whose valor Indra already knew (ज्ञातवीर्याणां देवराजेनेति शेषः).
+
+_____________
+
+**1. The Ethics of Hospitality and Duty (5.1.97–99)**
+
+Continuing the Ocean’s exhortation, **Govindarāja** (_Bhūṣaṇa_) glosses कार्यं as the pressing duty of providing rest (विश्रान्त्यादि), warning that neglecting an obligatory duty provokes the righteous anger (मन्युं कोपम्) of the good (**5.1.97**). Addressing Maināka as चामीकरमहानाभ ('possessing great peaks of gold', स्वर्णमयमहाशृङ्ग, **5.1.99**), the Ocean invokes the sacred status of a guest (अतिथिः, **5.1.98**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -127,6 +231,110 @@ any obstacles, with his stretched neck and raised head.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Desiring to perform (_cikīrṣan_) a feat hard to accomplish and peerless (_niṣpratidvandvam_), the Vānara, with his head and neck held high (_samudagraśirogrīvaḥ_), shone like a lord of cattle [a bull] (_gavāṃ patir iva_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2. The Peerless Feat and Heroic Similes (5.1.2–4)**
+
+On **5.1.2**, **Rāma Varmā** explains निष्प्रतिद्वन्द्वं as devoid of any companion or obstacle (सहायान्तररहितं प्रतिबन्धरहितं), while **Śivasahāya** glosses it as having no rival doer (द्वितीयः कर्तापि वा यस्य); all three commentators take गवां पतिः as a bull (वृषभः). **Śivasahāya** notes that **5.1.3–4** form a single syntactic unit (श्लोकद्वयमेकान्वयि): the cat’s-eye meadows (शाद्वलेषु) resemble ocean water (सागरजलसदृशेषु), where Hanumān roams like a full-grown lion (केसरी सिंह इव), scattering birds (द्विजान् पक्षिणः).
+
+_____________
+
+**2. Syntactic Debate on Facing East and Growing (5.1.9–10)**
+
+On **5.1.9**, all three commentators gloss दक्षिणः as skilful or capable (कुशलः / सर्वकार्यदक्षः / समर्थः) and आत्मयोनये as his sire Vāyu. **Govindarāja** critiques the reading अञ्जलिं प्राङ्मुखः कुर्वन्, arguing that the present participle (शतृप्रत्ययेन) would make facing east simultaneous with setting out south (विरोधात्), and therefore supplies कृत्वा ('having made'). On **5.1.10**, **Rāma Varmā** glosses रामवृद्ध्यर्थं as for Rāma’s triumph (रामाभ्युदयाय).
+
+_____________
+
+**2. Realgar Boulders and the Middle Flame (5.1.16)**
+
+All three commentators gloss समनःशिलाः as boulders containing realgar ore (मनःशिलासहिताः / धातुविशेषसहिताः). On मध्यमेनार्चिषा जुष्टः, **Rāma Varmā** notes two readings: taking धूमराजिरिव in the singular with an supplied genitive (यस्येत्यध्याहारः), or following Tīrtha (Maheśvaratīrtha), who reads accusative plural धूमराजीरिव ('masses of smoke', धूमनिचयानिव) and takes मध्यमेन as Agni’s tongue named Madhyamā. **Govindarāja** explains that the middle flame, unlike the side flames, is what emits smoke (मध्यमया ज्वालया पार्श्वज्वाला हि न धूमनिर्वर्तिका).
+
+_____________
+
+**2. The Flight of Ascetics and Vidyādharas (5.1.22)**
+
+Terrified by the quaking peak, ascetics and Vidyādharas leap skyward with their women. **Rāma Varmā** glosses भूतैः as great elemental spirits (मरुत्प्रभृतिमहाभूतैः), while **Śivasahāya** explains it as powerful divine beings pervading earth, water, and fire (पृथिव्यापस्तेजःप्रभृतिदेवविशेषैः).
+
+_____________
+
+**2. The Mystic Lore and Compound Analysis (5.1.27–28)**
+
+**Rāma Varmā** notes that Kataka regards verses 27–28 as an interpolation (श्लोकद्वयं प्रक्षिप्तं क्वचिदिति कतकः). **Śivasahāya** explains महाविद्यां as the mystic power of standing unsupported in mid-air (निरवलम्बनस्थितिरूपां स्वशक्तिं), while **Govindarāja** takes it as the eight great yogic powers beginning with _aṇimā_ (अणिमाद्यष्टमहासिद्धिम्) and analyzes विद्याधरमहर्षयः not as a _dvandva_ (द्वन्द्वसमासो न युक्तः) but as an _upamita-samāsa_ ('chief Vidyādharas like great sages', विद्याधरश्रेष्ठाः) because **5.1.31** names only Vidyādharas as the listeners.
+
+_____________
+
+**2. The Crouching Posture Before the Leap (5.1.35)**
+
+All three commentators analyze the physical mechanics of Hanumān’s launch posture (उत्पतनसंनाहाभिनयः). **Rāma Varmā** explains बाहू संस्तम्भयामास as planting both arms firmly atop the mountain (पर्वतोपरि दृढप्रतिष्ठानम्) and कट्यामाससाद as narrowing his waist (कायप्रसारणात् कृशोऽभूत्) while extending his chest and head upward and contracting his back and feet below. **Śivasahāya** and **Govindarāja** similarly gloss it as contracting his torso (शरीरं संचकोचेत्यर्थः).
+
+_____________
+
+**2. The Simile of Rāghava’s Arrow (5.1.39–41)**
+
+All three commentators gloss श्वसनविक्रमः as having the velocity of the wind (पवनवेगः). On **5.1.40**, **Rāma Varmā** notes that तद्वद्गमिष्यामि implies not merely flying like Rāma’s arrow, but returning successful just like it (तद्वदेव गत्वा कृतकार्य आगमिष्यामीति सूचितम्). On **5.1.41**, **Śivasahāya** reads कृतश्रमः ('having exerted myself'), whereas **Govindarāja** reads अकृतश्रमः and glosses it as 'unwearied' (अप्राप्तश्रमः).
+
+_____________
+
+**2. Uprooted Trees and Excited Lapwings (5.1.45–46)**
+
+On **5.1.45**, all three commentators construe समुत्पतति as a locative absolute and gloss नगरोहिणः as mountain trees (पर्वतस्थवृक्षाः) drawing in their boughs (विटपान्) as the suction of Hanumān’s launch pulls them skyward. On **5.1.46**, **Rāma Varmā** and **Śivasahāya** explain कोयष्टिभकः and कोयष्टिकः as synonymous names for the lapwing water-bird (कोयष्टिकोयष्टिभौ पर्यायौ) nesting in the flowering treetops.
+
+_____________
+
+**2. Fireflies and Returning Friends (5.1.51–52)**
+
+On **5.1.51**, **Śivasahāya** distinguishes अङ्कुरः ('unopened bud', कलिकात्वम्) from कोरकः ('blossoming bud', विकसितत्वम्), and **Govindarāja** supplies 'at night' (रात्राविति शेषः) to complete the simile of a dark mountain glowing with fireflies (खद्योतैः). On **5.1.52**, both **Rāma Varmā** and **Govindarāja** note the _ārṣa_ absence of the past augment _aṭ_ (आर्षोऽडभावः) in the reading अवशीर्यन्त, and compare the trees dropping into the waves after shedding their flowers to friends turning homeward (निवृत्ताः सुहृदो यथा) after escorting a departing kinsman.
+
+_____________
+
+**2. Forest Fires and the Twin Luminaries (5.1.58–59)**
+
+On **5.1.58**, **Rāma Varmā** and **Śivasahāya** gloss अनलौ as two mountain forest-fires (दावानलौ). On **5.1.59**, all three commentators explain पिङ्गाक्षमुख्यस्य as chief among tawny-eyed Vānaras (पिङ्गाक्षाणां वानराणां मुख्यस्य). **Rāma Varmā** notes that his two round eyes ringed with golden light (परिमण्डले) resemble the moon and the sun rising simultaneously atop the eastern mountain (उदयगिरावुदये), which **Govindarāja** classifies as an _abhūtopamā_ (a simile of an impossible phenomenon).
+
+_____________
+
+**2. The Thunder in His Armpits and the Tailed Meteor (5.1.64–65)**
+
+On **5.1.64**, all three commentators take present गर्जति as past (अगर्जत्); **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) note that Kataka reads locative जीमूते ('in a cloud'), which **Śivasahāya** rejects for lack of decisive evidence (विनिगमनाविरहः). On **5.1.65**, **Rāma Varmā** and **Śivasahāya** gloss उत्तरान्तात् as the upper northern sky (उत्तरोर्ध्वदिग्भागात्) and सानुबन्धा as a meteor with a trailing fiery tail (सपुच्छोल्का), matching Hanumān and his tail.
+
+_____________
+
+**2. The Partitive Genitive of the Waves (5.1.69)**
+
+All three commentators gloss शैलवर्ष्मणाम् as having the bulk of mountains (पर्वताकाराणाम्), with **Govindarāja** citing Sajjana’s lexicon (वर्ष्म देहप्रमाणयोः). Both **Rāma Varmā** and **Śivasahāya** explain the genitive plural ऊर्मिजालानाम् with अभिघ्नन् as a genitive expressing general relation in place of the direct object (कर्मणः शेषत्वविवक्षया षष्ठी), which **Rāma Varmā** notes implies striking only a fraction (एकदेशस्पर्शेन) of the countless ocean waves.
+
+_____________
+
+**2. Mistaken for Garuḍa by Sea-Serpents (5.1.75)**
+
+Watching the giant monkey striding across the sky (व्योम्नि क्रममाणं), the serpents dwelling in the sea (सागरंगमाः भुजगाः) take him for their ancient foe Suparṇa (Garuḍa).
+
+_____________
+
+**2. Multi-Hued Clouds and the Moon Simile (5.1.81–82)**
+
+Drawn in his wake, white, crimson, dark-blue, and madder-red clouds gleam across the sky (**5.1.81**), and as Hanumān plunges into and out of the cloud-banks (अभ्रजालानि), he resembles the moon alternately veiled and revealed (प्रच्छन्नश्च प्रकाशश्च चन्द्रमा इव, **5.1.82**).
+
+_____________
+
+**2. The Ocean’s Gratitude to the House of Ikṣvāku (5.1.87–88)**
+
+All three commentators explain इक्ष्वाकुकुलमानार्थी by pointing to the etymology of सागरः ('Ocean'): because the sons of the Ikṣvāku monarch Sagara excavated and expanded his basin (स्वोत्पादकस्य / स्वजन्मकारणीभूतस्य), the Ocean seeks to honor their lineage (सत्कारमर्थयते). On **5.1.88**, **Rāma Varmā**, **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** gloss सर्ववाच्यः as 'universally blameworthy' (सर्वनिन्दास्पदं / सर्वैर्वक्तव्यो निन्दनीयः) among all speaking beings (विवक्षताम्).
+
+_____________
+
+**2. Growing Without Unbarring Pātāla (5.1.94–95)**
+
+On **5.1.94**, **Rāma Varmā** explains why the Ocean mentions Maināka’s power to expand sideways, upward, and downward: Maināka can keep his base blocking Pātāla below while expanding upward to break the surface (अविहितपातालद्वार एव सन् वृद्धिशक्त्या वर्धमानः सन्नूर्ध्वमुत्तिष्ठ). On **5.1.95**, **Rāma Varmā** notes that Kataka regards the four and a half verses between खमाप्लुतः (**95b**) and श्रमं च (**100b**) as later interpolations (प्रक्षिप्ताः परैरिति कतकः).
+
+_____________
+
+**2. The Threefold Motive for Rising (5.1.100)**
+
+In the verse-half retained even in Kataka’s shorter recension (श्रमं च प्लवगेन्द्रस्य समीक्ष्योत्थातुमर्हसि), the Ocean appeals to three motives: Rāma’s tender compassion toward Sītā (रामस्य सीताविषयां दयाम् in _Bhūṣaṇa_), Sītā’s cruel abduction and exile (मैथिल्याश्च विवासनम्), and Hanumān’s mid-ocean toil (श्रमं च).
 </details>
 </details>
 
@@ -182,6 +390,110 @@ hue of an emerald, which looked like still water from a distance.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then across the cat’s-eye-colored (_vaidūryavarṇeṣu_) grassy meadows (_śādvaleṣu_) that resembled waters (_salilakalpeṣu_), the resolute hero of great might roamed at ease (_yathāsukham_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3. Mineral Hues of Mount Mahendra (5.1.5–6)**
+
+**Śivasahāya** observes that verses 5–7 form one syntactic unit (श्लोकत्रयमेकान्वयि) qualifying the mountain slope (तलं) in **5.1.7**. **Rāma Varmā** glosses नीललोहितः as dark-red (रक्तश्यामः) and सितासितैः as variegated black-and-white (कल्माषः कृष्णपाण्डुरिति यावत्). **Govindarāja**, reading पत्रवर्णैः, explains it as leaf-dark (पत्रश्यामैः) and glosses स्वभावविहितैः as naturally formed (स्वतःसिद्धैः) mineral ores.
+
+_____________
+
+**3. Pressing the Mountain (5.1.11–12)**
+
+On **5.1.11**, **Rāma Varmā** glosses निष्प्रमाणशरीरः as having a body transcending limit (परिच्छेदातिक्रान्तदेहः), and **Govindarāja** explains that Hanumān presses with his arms as well (बाहुभ्यामित्युक्तिः) because monkeys move on all fours (वानरस्य चतुर्भिः संचारात्). On **5.1.12**, **Śivasahāya** glosses अशातयत् as caused to fall (अपातयदित्यर्थः).
+
+_____________
+
+**3. The Roar of Crushed Cave-Creatures (5.1.17–18)**
+
+On **5.1.17**, **Rāma Varmā** and **Śivasahāya** supply पर्वतेन with हरिणा पीड्यमानेन ('by the mountain being pressed by Hanumān'), whereas **Govindarāja** reads गिरिणा पीड्यमानेन directly and glosses विकृतैः as piteous (दैन्यव्यञ्जकैः). On **5.1.18**, **Rāma Varmā** cites both महासत्त्वसंनादः ('roar of mighty beasts') and महान् सत्त्वसंनादः.
+
+_____________
+
+**3. Abandoned Banqueting Vessels and Weapons (5.1.23–24)**
+
+**Rāma Varmā** notes that the fleeing Vidyādharas are the subject of the gerund हित्वा ('abandoning', हित्येत्यत्र विद्याधराः कर्तारः), linking verses 22–24. **Śivasahāya** glosses आसवभाजनं as a golden wine-bowl (मद्यपात्रं), आर्षभाणि चर्माणि as shields covered in bull-hide (ऋषभचर्मपिनद्धानि फलकानि), and त्सरुः as a sword-hilt (खड्गमुष्टिः).
+
+_____________
+
+**3. The Celestial Proclamation (5.1.29–30)**
+
+**Śivasahāya** notes that verses 29–30 form a single syntactic unit (श्लोकद्वयमेकान्वयि) reporting the words spoken by the sky-dwelling sages and Siddhas, while **Govindarāja** observes that **5.1.30** states the twin purpose (प्रयोजनकथनाय) of Hanumān’s crossing: serving both Rāma and the Vānaras.
+
+_____________
+
+**3. Gathering Threefold Power (5.1.36)**
+
+**Rāma Varmā** and **Śivasahāya** explain भुजौ संहृत्य and शिरोधरां as drawing his arms into his shoulders (अंसप्रदेशे) and his neck into his throat (कण्ठदेशे). **Rāma Varmā** distinguishes the three powers Hanumān summons: तेजः is the capacity to overwhelm foes (पराभिभवसामर्थ्यम्), सत्त्वं is bodily strength (बलं शारीरम्), and वीर्यम् is inner vigor (आन्तरं उत्साहम्).
+
+_____________
+
+**3. Grammatical Notes on Hanumān’s Vow (5.1.42)**
+
+Both **Śivasahāya** and **Govindarāja** explain the unshortened compound form राक्षसराजानम् by the non-obligatory character of the _samāsānta_ rule (समासान्तविधेरनित्यत्वान्न टच् / टच्प्रत्ययाभाव आर्षः), and gloss the epic future आनयिष्यामि as equivalent to आनेष्यामि ('I shall bring'). **Śivasahāya** adds that binding Rāvaṇa implies forcing him to reveal Sītā’s whereabouts (सीतावृत्तान्तं कथयिष्यत्येवेति सूचितम्).
+
+_____________
+
+**3. The Similes of Kinsmen and Soldiers (5.1.47–48)**
+
+As the trees follow Hanumān briefly into the sky, Vālmīki compares them first to kinsmen accompanying a traveler (**5.1.47**) and then to soldiers marching behind a king (**5.1.48**). **Rāma Varmā** and **Śivasahāya** note that सैन्य belongs to the _ardharcādi_ class (अर्धर्चादिः), while **Govindarāja** (_Bhūṣaṇa_) cites the _Amarakośa_ (सेनायां समवेता ये सैन्यास्ते सैनिकाश्च ते) to confirm its meaning as 'soldiers'.
+
+_____________
+
+**3. Star-Strewn Sea and Lightning-Ringed Cloud (5.1.53–54)**
+
+Carried further by their lightness (लघुत्वेनोपपन्नं), the multicolored blossoms scatter across the ocean like stars in the sky (**5.1.53**), while those clinging to Hanumān make him gleam like a rising cloud (मेघ इवोद्यन्) wreathed in lightning (**5.1.54**).
+
+_____________
+
+**3. The Twilight Sun Simile (5.1.60)**
+
+All three commentators construe the instrumental ताम्रया नासिकया as 'endowed with a coppery nose' (नासिकया युक्तं), comparing Hanumān’s crimson face to the solar disc (सूर्यमण्डलं) tinged by evening twilight (संध्यया).
+
+_____________
+
+**3. The Girth-Bound Elephant (5.1.66)**
+
+All three commentators gloss पतत्पतङ्गसंकाशः as resembling the coursing sun (गच्छत्सूर्यसंकाशः). **Rāma Varmā** and **Śivasahāya** explain that Hanumān, encircled by his own tail (कपिवालेन), looks like a great elephant bound around the middle by a girth-rope (कक्ष्यया गजमध्यबन्धनरज्ज्वा), while **Govindarāja** (_Bhūṣaṇa_) adds that an elephant stretches out (दीर्घो भवति) while its girth is being tied.
+
+_____________
+
+**3. Twin Winds and Mountainous Billows (5.1.70–72)**
+
+On **5.1.70**, **Rāma Varmā** and **Śivasahāya** distinguish कपिवातः (the gale raised by Hanumān’s body) from मेघवातः (the wind from the cloud-sphere he traverses), which together shake the sea as he bounds over Meru-like waves as if counting them (**5.1.72**).
+
+_____________
+
+**3. The Thirty-Yojana Shadow and Winged Mountain (5.1.76–78)**
+
+Measuring ten _yojanas_ in width and thirty in length (**5.1.76**), Hanumān’s vast shadow trailing over the briny sea gleams like a dense bank of white clouds (श्वेताभ्रघनराजीव, **5.1.77**), while he himself soars through the supportless sky (निरालम्बे वायुमार्गे) like a winged mountain (**5.1.78**).
+
+_____________
+
+**3. Celestial Flower-Showers and Elemental Service (5.1.83–84)**
+
+On **5.1.83**, **Rāma Varmā** construes तत्र locatively as 'upon that leaper' (तत्र प्लवगे). On **5.1.84**, all three commentators note that Sūrya refrains from scorching Hanumān and Vāyu blows gently to remove his fatigue (श्रमापनयनाय / श्रमनिवर्तनाय) so that Rāma’s mission—the search for Sītā (रामकार्यं सीतान्वेषणं)—may succeed.
+
+_____________
+
+**3. Offering a Mid-Ocean Resting Place (5.1.89–90)**
+
+On **5.1.89**, **Rāma Varmā** notes that सगरेण विवर्धितः includes Sagara’s descendants (सगरवंश्यानामप्येतत्संबद्धः), and all three commentators gloss अवसादितुम् as 'to suffer exhaustion' (श्रमं गन्तुं नार्हति), resolving in **5.1.90** that Hanumān should rest mid-crossing before completing the remaining distance (मार्गशेषम्).
+
+_____________
+
+**3. Why the Ikṣvākus Are Supremely Worthy of Maināka’s Worship (5.1.96)**
+
+**Govindarāja** gives two reasons why the Ikṣvākus are even more worshipful (पूज्यतमाः) to Maināka than to the Ocean: through his bond with the Ocean who shelters him (मत्संबन्धात्), or because Hanumān is the son of Vāyu, Maināka’s own benefactor (सहोपकारकवायुपुत्रसहायाः).
+
+_____________
+
+**3. Maināka’s Emergence Like the Sun from a Cloud (5.1.101–102)**
+
+On **5.1.101**, all three commentators supply वचनम् ('speech') with the genitive लवणाम्भसः ('hearing the words of the salt sea'). On **5.1.102**, **Śivasahāya** (_Śiromaṇi_) highlights the simile (दृष्टान्तः) of golden Maināka cleaving the dark ocean water (सागरजलं भित्त्वा) just as the blazing-rayed sun (दीप्तरश्मिर्दिवाकरः) bursts through a dark rain-cloud (जलधरं मेघं भित्त्वा).
 </details>
 </details>
 
@@ -5216,6 +5528,14 @@ Enjoined by Sāgara, golden-peaked Mount Maināka rises from the brine to scrape
 
 Enjoined (_niyojitaḥ_) by the Ocean, that great-souled mountain, enveloped in water (_salilāvṛtaḥ_), displayed his peaks within an instant (_muhūrtena_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**103–106 (The Golden Emergence of Maināka)**
+
+Obeying Sāgara's command, Maināka bursts from the deep within a single _muhūrta_. Commenting on the striking simile शस्त्रसंकाशम् in 5.1.105c, Rāma Varmā's _Tilaka_ and Śivasahāya's _Śiromaṇi_ explain that the natural sky is dark like a burnished steel blade (शस्त्रवच्छ्याममाकाशम्, श्यामलत्वेन खड्गसदृशमाकाशम्), while Govindarāja's _Bhūṣaṇa_ simply glosses it as deep blue (नीलमित्यर्थः). As the mountain's peaks of pure _jātarūpa_ and _jāmbūnada_ gold pierce the heavens, that dark sword-hued vault blazes with golden effulgence (काञ्चनप्रभमभवत्) like a hundred rising suns.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5424,6 +5744,14 @@ the salty ocean suddenly, decided that it as an obstacle.
 
 Seeing him risen up without delay (_asaṅgena_) and standing directly ahead in the midst of the salt waters (_lavaṇatoyasya_), Hanūmān resolved (_niścitaḥ_): ‘This is an obstacle (_vighnaḥ_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**107 (Hanūmān's Instantaneous Appraisal)**
+
+Confronted by a massive ridge suddenly blocking his aerial path across the salt sea (लवणतोयस्य मध्ये), Hanūmān immediately diagnoses it as a deliberate impediment (विघ्नोऽयमिति). Both _Tilaka_ and _Śiromaṇi_ gloss the adverbial instrumental असङ्गेन as `without delay or hesitation' (अविलम्बेन, विलम्बराहित्येन), characterizing either Maināka's abrupt emergence or Hanūmān's swift cognitive judgment.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5469,6 +5797,14 @@ His chest just as the God of wind would a cloud.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then that great monkey of mighty speed (_mahāvegaḥ_) struck down (_pātayāmāsa_) with his chest (_urasā_) that exceedingly lofty mountain, just as the wind scatters a storm-cloud (_jīmūtam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**108 (The Chest-Strike and Active Participle)**
+
+Both Govindarāja and Śivasahāya note the grammatical anomaly in निश्चितः (5.1.107d), explaining it as a past participle used with active force (निश्चितः निश्चितवान् । कर्तरि निष्ठा). Without slowing his momentum, the wind-born hero batters the towering peak downward with his bare chest (उरसा पातयामास), scattering the golden rock-mass as effortlessly as his father Māruta drives away a monsoon cloud (जीमूतमिव मारुतः).
 </details>
 </details>
 
@@ -5532,6 +5868,14 @@ Hanuma's speed and lauded him with pleasure.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck down (_āsāditaḥ_) then by that monkey, that foremost of mountains (_parvatottamaḥ_), recognizing the speed (_vegam_) of that monkey, both rejoiced and roared (_nanāda ca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**109–111 (Maināka's Joy and Anthropomorphic Form)**
+
+Far from taking offense at Hanūmān's chest-blow, Maināka marvels at his power. Rāma Varmā's _Tilaka_ glosses आसादितः as `brought low' (अधःकृत इति यावत्) and explicitly defends the older reading जहर्ष च ननाद च (इति प्राचीनः पाठः), explaining that the mountain rejoiced upon witnessing Hanūmān's strength and bellowed (ननाद शब्दं कृतवान्) to announce the friendly purpose of his rising. Govindarāja instead takes जहर्ष as `was astonished' (विसिष्मिये). Assuming human form atop his own peak (आत्मनः शिखरे स्थितः), Maināka hails the airborne hero.
 </details>
 </details>
 
@@ -5674,6 +6018,14 @@ ocean. Do come down on to my peaks and rest for a while to your comfort."
 
 ‘Alighting upon my peaks (_śṛṅgeṣu_), rest at ease (_sukhaṃ viśramya_) and then proceed! The ocean (_udadhiḥ_) was expanded (_parivardhitaḥ_) by those born in the lineage of Rāghava.’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**112–113 (The Debt to Sagara's Lineage)**
+
+Why should the sea care for a monkey? _Tilaka_ and _Śiromaṇi_ explain that the ocean was excavated and expanded by the sons of Sagara born in Rāghava's dynasty (राघवस्य कुले जातैः सगरैरुदधिः परिवर्धितः), earning the patronymic सागरः. Reciprocity for a prior benefit (कृते उपकृते प्रत्युपकारः कर्तव्यम्) is the timeless moral law (सनातनो धर्मः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5779,6 +6131,20 @@ respect by you."
 **114:** ‘Desiring to repay that debt (_tatpratikārārthī_), he deserves respect (_sammānam_) from you; on your account (_tvannimittam_) I have been urged forward by him out of high regard (_bahumānāt_).’
 
 **115:** ‘[saying:] Having leaped into the sky (_kham āplutaḥ_) across a hundred _yojanas_, let this monkey rest upon your ridges (_tava sānuṣu_) and then traverse the remainder (_śeṣam_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**114 (Honoring the Host by Accepting Hospitality)**
+
+How does Hanūmān owe Sāgara respect (त्वत्तः सम्मानमर्हति)? _Tilaka_ explains that Sāgara seeks to honor the Ikṣvāku house through Hanūmān as its worthy intermediary (सत्क्रियमाणाद्द्वारभूतात्). Govindarāja adds a delicate courtesy: accepting the ocean's offered hospitality is itself the highest honor Hanūmān can bestow upon him (त्वया तत्कृतातिथ्यपरिग्रह एवास्य संमाननमित्यर्थः).
+
+_____________
+
+**115–116 (The Ocean's Exact Mandate and Mountain Fare)**
+
+Both _Tilaka_ and Govindarāja's _Bhūṣaṇa_ explain that 5.1.115 quotes the exact terms of Sāgara's commission (प्रेरणाप्रकारः, चोदनाप्रकारमाह), with इति linking back to प्रचोदितः in 5.1.114d (प्रचोदित इति पूर्वेणान्वयः). Having leaped into the sky to cross a hundred _yojanas_, Hanūmān should pause upon Maināka's tablelands before completing the remaining distance (प्रक्रान्तावशिष्टम्). Maināka points to his rich mountain store of fragrant tubers, roots, and fruits (तदिदं कन्दादि मयि बहु विद्यते).
 </details>
 </details>
 
@@ -5888,6 +6254,14 @@ while."
 
 ‘Having tasted that, O best of monkeys, and rested, you shall then proceed! Moreover, O chief of monkeys, we too have a bond (_sambandhaḥ_) with you, renowned through the three worlds and embracing great virtues (_mahāguṇaparigrahaḥ_).’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**117–118 (The Three-World-Famous Bond)**
+
+Beyond Sāgara's debt to Rāma, Maināka invokes his own personal bond with Hanūmān (अस्माकमपि सम्बन्धः). While _Tilaka_ and _Śiromaṇi_ construe महागुणपरिग्रहः (`embracing great virtues such as strength and loyalty to his master') as an epithet of Hanūmān (भवान्महागुणपरिग्रहः बहुव्रीहिरयम्), Govindarāja takes both प्रख्यातः and महागुणपरिग्रहः as qualifiers of their relationship itself (प्रख्यात इति सम्बन्धविशेषणं महागुणानां परिग्रहो यस्मिन्स तथा).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5982,6 +6356,14 @@ very important among those vanaras who are fast and who are capable of flying."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘Even an ordinary (_prākṛtaḥ_) guest (_atithiḥ_) is verily worthy of worship by a wise man seeking to know _dharma_ (_dharmaṃ jijñāsamānena_)—how much more so (_kiṃ punaḥ_) one such as you!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**119–120 (The Law of Hospitality to a Divine Guest)**
+
+Maināka argues from the general to the particular (_kaimutika-nyāya_): anyone seeking to understand _dharma_ (धर्मं जिज्ञासमानेन ज्ञातुमिच्छता) must revere even a common guest (प्राकृतोऽपि अतिथिः पूजार्हः), let alone (किं पुनर्यादृशो भवान्) the son and equal in speed of the wind-god Māruta.
 </details>
 </details>
 
@@ -6092,6 +6474,14 @@ best in speed among the Devas. In speed you are equal to him alone."
 
 ‘When you, knower of _dharma_, are worshiped (_pūjite tvayi_), Māruta receives worship (_pūjāṃ prāpnoti_); therefore you are worthy of my worship—and hear also the reason (_kāraṇam_) herein!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**121 (Honoring the Father Through the Son)**
+
+Maināka transitions from general guest-law to his specific debt of gratitude toward Vāyu. As Rāma Varmā's _Tilaka_ and Śivasahāya's _Śiromaṇi_ note, worshiping the righteous son serves as the direct instrument for worshiping his father Māruta (त्वद्द्वारकमारुतपूजायां कारणान्तरमप्याह—शृणु चापीति).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6141,6 +6531,14 @@ you are to be worshipped by me. Also listen to another reason in this matter."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘Formerly in the Kṛta age (_kṛtayuge_), dear one, the mountains possessed wings (_pakṣiṇaḥ_); swift as Garuḍas (_garuḍā iva veginaḥ_), they coursed through all the directions.’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**122–124 (The Myth of the Winged Mountains)**
+
+Recounting primeval history from the Kṛta Yuga—glossing कृतयुगे in _Śiromaṇi_ as the dawn of creation (पूर्वसृष्टिसमये)—Maināka explains that mountains once had wings (पक्षिणः पक्षविशिष्टाः, पक्षवन्तः) and hurtled through the skies like Garuḍa. Terrified that these flying peaks might plummet onto the earth (तेषां पर्वतानां पतनशङ्कया), the gods, sages, and living creatures panicked, prompting Indra (शतक्रतुः) to shear off the mountains' wings by the thousands with his _vajra_.
 </details>
 </details>
 
@@ -6297,6 +6695,14 @@ wings of thousands of mountains by his weapon vajra then and there."
 
 ‘When the wrathful king of the gods (_devarāṭ_) approached me with upraised thunderbolt (_vajram udyamya_), I was at once swept away (_kṣiptaḥ_) by the great-souled Wind-god (_śvasanena_).’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**125–126 (Vāyu's Rescue of Maināka)**
+
+When the furious king of the gods advanced upon Maināka with raised thunderbolt, the great-souled Wind-god (श्वसनेन वायुना) snatched him up—_Tilaka_ glosses क्षिप्तः as `hurled through the sky' (आकाशे क्षिप्तः) and _Śiromaṇi_ as `whisked out of reach' (अस्पृष्टं प्रापितः)—and plunged him into the salt sea. Both Govindarāja and _Śiromaṇi_ note the reading गुप्तपक्षसमग्रश्च, explaining that Vāyu preserved Maināka whole with his wings safely hidden beneath the waves (समग्रः समग्रपक्षः गुप्तसमग्रपक्षश्च यथा भवामि तथा अभिरक्षितोऽस्मीत्यर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6388,6 +6794,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘Therefore I honor you (_mānayāmi tvām_), and you are worthy of my honor, O son of Māruta! This bond of mine with you, O chief of monkeys, bears great virtue (_mahāguṇaḥ_).’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**127–129 (Maināka's Final Plea)**
+
+Because Vāyu saved his wings, Maināka reveres Vāyu's son (तत उक्तकारणादेष सम्बन्धः पूजाप्रयोजकः). Rāma Varmā's _Tilaka_ explains अस्मिन्नेवंगते कार्ये as `now that this long-awaited opportunity for reciprocation has finally arrived' (चिरप्रवृत्ते सति), urging Hanūmān to gladden both Sāgara and Maināka by accepting their hospitality (पूजास्वीकारेण तयोः प्रीतिं कर्तुमर्हसि).
 </details>
 </details>
 
@@ -6549,6 +6963,14 @@ love. I am happy by your manifestation."
 
 Thus addressed, the best of monkeys spoke to that foremost of mountains: ‘I am pleased (_prīto &#x27;smi_), hospitality has already been rendered (_kṛtam ātithyam_); let this distress (_manyuḥ_) be set aside!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**130–131 (Gracious Refusal and the Twofold Urgency)**
+
+Hanūmān replies with consummate diplomacy: `I am pleased; hospitality is already accomplished (कृतमातिथ्यम्) simply by your affectionate words and sight (तव दर्शनादिनेति भावः)!' Commenting on मन्युरेषोऽपनीयताम्, _Tilaka_ and _Śiromaṇi_ gloss मन्युः as `dejection' (पूजानङ्गीकारजं दैन्यम्) over his not halting, whereas Govindarāja glosses it as `anger' (मत्कृता पूजा न गृहीतेति कोपो निरस्यताम्). Hanūmān gives three reasons for not stopping: his mission's deadline presses (कार्यकालः त्वरते), daylight is waning—proving, as _Śiromaṇi_ notes, that he must reach Laṅkā within the single day (एतेन दिन एव लङ्का गन्तव्येति सूचितम्)—and he pledged before the monkeys not to pause mid-ocean (समुद्रे अन्तरे मध्ये मया न स्थातव्यमिति वानरसन्निधौ प्रतिज्ञा कृता).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6652,6 +7074,14 @@ also been given by me. I should not stand here in the middle neglecting my duty.
 
 Having spoken thus, the heroic bull among monkeys touched (_ālabhya_) the mountain with his hand (_pāṇinā_) and, entering the sky, sped on as though smiling (_prahasann iva_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**132 (The Touch of Grace and Smiling Departure)**
+
+Touching the peak with his hand (शैलमालभ्य स्पृष्ट्वा), Hanūmān bounds back into the sky `as if smiling' (प्रहसन्निव). While Govindarāja takes प्रहसन्निव as `with a cheerful face' (प्रसन्नवदनः), _Tilaka_ discerns a gentle, heroic amusement: how quaint that Maināka and Sāgara imagine so brief a leap could tire him (एतावत्प्लवनेऽपि श्रममारोप्य वृथाभ्यां प्रयास एतयोरिति प्रहासः)!
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -6708,6 +7138,14 @@ sky and flew on with a smile.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Regarded with high esteem (_bahumānād avekṣitaḥ_) by both the mountain and the ocean, and honored, he was hailed with fitting (_upapannābhiḥ_) benedictions (_āśīrbhiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**133–135 (The Embodied Ocean and the Higher Wind-Path)**
+
+Leaving behind both the mountain and the great ocean (हित्वा शैलमहार्णवौ) after receiving their fitting blessings (उपपन्नाभिस्तत्काले युक्ताभिः), Hanūmān climbs to a still higher stratum of the sky (यत्र देशे स्थितस्ततोऽपि बहूर्ध्वम्), entering his father's wind-track (वायुमार्गम्). Govindarāja makes a perceptive observation on हित्वा शैलमहार्णवौ: like Maināka, the Ocean too had assumed an embodied personal form (मूर्तिमन्तौ तौ हित्वेत्यर्थः। अनेन शैलवत्समुद्रोऽपि मूर्तिमत्तया तत्रादृश्यतेति सूचितम्) to witness and bless the hero.
 </details>
 </details>
 
@@ -6869,6 +7307,14 @@ mountain below, went in the clear sky which had no support.
 
 Beholding that second feat (_tad dvitīyaṃ karma_) of Hanūmān, most difficult to accomplish (_suduṣkaram_), all the gods, _siddhas_, and supreme sages praised him (_praśaśaṃsuḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**136 (What Was Hanūmān's `Second Feat'?)**
+
+The commentators offer three distinct explanations of why the gods hail this as Hanūmān's `second feat' (तद्द्वितीयं कर्म): Rāma Varmā's _Tilaka_ identifies it as his bounding upward a second time without even resting (अविश्रम्यैव पुनरुत्प्लवनरूपं कर्म); Śivasahāya's _Śiromaṇi_ defines it as his refusal of rest and conquest of the mountain following his initial leap (उत्प्लवनापेक्षया द्वित्वसंख्यापूरकं विश्रान्त्यकरणद्वितीयं तत्पर्वतजयरूपं कर्म); and Govindarāja explains it as second relative to his leaping over the ocean itself (समुद्रप्लवनापेक्षया).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6900,6 +7346,14 @@ Beholding that second feat (_tad dvitīyaṃ karma_) of Hanūmān, most difficul
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The deities stationed there (_tatrasthāḥ_) were delighted by the action of that golden (_kāñcanasya_), fair-navelled (_sunābhasya_) mountain, as was Thousand-Eyed Vāsava.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**137–138 (Indra's Reconciliation with Sunābha)**
+
+Witnessing golden Maināka—here called सुनाभः (`having a fair central ridge', शोभनमध्यस्य)—suddenly rise to aid Rāma's envoy, the gods stationed in the sky (तत्रस्था मेनाकस्था गगनस्था वा) and Indra (वासवः) himself rejoice. Overcome with pleasure, Śacī's lord addresses his ancient fugitive in a voice choked with emotion (गद्गदं स्खलद्वाग्विशिष्टं वच उवाच).
 </details>
 </details>
 
@@ -7021,6 +7475,14 @@ happiness, to Mainaka, the best among mountains.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘O Hiraṇyanābha, lord of mountains, I am exceedingly pleased (_parituṣṭo &#x27;smi_) with you! I grant you immunity from fear (_abhayam_); go, gentle one (_saumya_), at your ease (_yathāsukham_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**139–141 (Indra's Amnesty and the Paradox of Fearlessness)**
+
+$1e
 </details>
 </details>
 
@@ -7157,6 +7619,14 @@ _________________
 
 That foremost of mountains experienced boundless joy (_praharṣaṃ vipulam_) upon beholding Śatakratu, the lord of the deities, thoroughly pleased (_parituṣṭam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**142–143 (Maināka's Abiding Stance)**
+
+Rejoicing at Indra's pleasure, Maināka remains अवस्थितः—interpreted by _Tilaka_ as `submerged again beneath the waters' (जलान्तरमग्न एव) and by _Śiromaṇi_ as `standing tall above the sea without fear' (उर्ध्वोदितः). Meanwhile Hanūmān swiftly leaves the Maināka-sector of the ocean behind (मैनाकाधिष्ठितसागरप्रदेशम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7250,6 +7720,14 @@ Having been granted that boon (_dattavaraḥ_), that mountain then remained secu
 
 Then the gods together with the _gandharvas_, _siddhas_, and supreme sages spoke to Surasā, the mother of the _nāgas_ (_nāgamātaram_), who shone like the sun (_sūryasaṃkāśām_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**144 (The Commissioning of Surasā)**
+
+As _Tilaka_ explains, because Hanūmān is about to enter Rāvaṇa's demon-infested citadel, the celestials now dispatch the serpent-mother Surasā to test his resourcefulness and fitness for the mission (अथ देवैर्लङ्कां प्रविश्य हनुमतः कार्यक्षमत्वपरीक्षणार्थं सुरसाप्रवर्तनम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -7305,6 +7783,14 @@ Surasa, the mother of Nagas, equal to the Sun in brilliance.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘This glorious son of the Wind (_vātātmajaḥ_), named Hanūmān, is leaping across the ocean; create an obstacle (_vighnam ācara_) for him for a brief moment (_muhūrtam_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**145–147 (Testing Both Might and Wit)**
+
+The gods ask Surasā to obstruct Hanūmān momentarily (मुहूर्तं विघ्नमाचर) by assuming a mountain-sized demoness form with a sky-scraping maw—where Rāma Varmā's _Tilaka_ notes the epic neuter shortening in नभःस्पृशमिति ह्रस्वमार्षम्. Commenting on 5.1.147ab, _Tilaka_ explains that बलम् denotes both physical might and tactical ingenuity (काकबलमुपायबलं च), while Śivasahāya's _Śiromaṇi_ distinguishes बलम् (`strength of vital breath and senses', प्राणेन्द्रिययोः सामर्थ्यम्) from पराक्रमम् (`enemy-crushing valor', शत्रुविघातकं शौर्यम्). Will he overcome her by a clever stratagem (उपायेन) or succumb to despondency (विषादम्)?
 </details>
 </details>
 
@@ -7462,6 +7948,14 @@ can win over you or obtain sorrow."
 
 **149:** Deformed (_vikṛtam_), hideous (_virūpam_), and terrifying to all (_sarvasya ca bhayāvaham_)—blocked (_āvṛtya_) the leaping Hanūmān and spoke this word:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**148–149 (The Monstrous Apparition)**
+
+Honored by the gods, Surasā rises from mid-ocean wearing a hideous _rākṣasa_ form—glossed in _Śiromaṇi_ as deformed with mutilated nose and ears (छिन्ननासिकाकर्णाद्यनेकविकारविशिष्टम्) and contrary to auspicious beauty (शुभरूपाद्विरुद्धम्). _Tilaka_ records the striking variant भयस्य च भयावहम् (`terrifying even to the fear of all worlds').
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7512,6 +8006,14 @@ all, and stopping Hanuma who was flying, spoke these words.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘You have been assigned (_pradiṣṭaḥ_) by the lords (_īśvaraiḥ_) as my food (_mama bhakṣyaḥ_), O bull among monkeys! I shall devour you (_tvāṃ bhakṣayiṣyāmi_)—enter this mouth of mine!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**150 (The Claim of Divine Allotment)**
+
+Blocking Hanūmān's path (आवृत्य रुद्ध्वा), Surasā announces that the gods (ईश्वरैर्देवैः) have allotted him as her lawful prey (मम भक्ष्यः प्रदिष्टः) and commands him to walk straight into her jaws.
 </details>
 </details>
 
@@ -7576,6 +8078,14 @@ Enter inside my mouth."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘This boon (_vara eṣaḥ_) was granted to me of old by the Creator (_dhātrā_)!’—so saying, in haste (_satvarā_), she opened wide her capacious mouth (_vaktraṃ vipulam_) and stood before Māruti.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**151–153 (Hanūmān's Cheerful Poise and Summary of the Epic)**
+
+$21
 </details>
 </details>
 
@@ -7720,6 +8230,14 @@ _________________
 
 ‘At Rāma&#x27;s command (_rāmaśāsanāt_) I am going as an envoy (_dūtaḥ_) to her presence; you ought to render assistance (_sāhyam_) to Rāma, O dweller in his realm (_viṣayavāsini_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**154–155 (The Appeal to Subjecthood and the Vow of Return)**
+
+Hanūmān first appeals to Surasā as a subject residing within Rāma's imperial domain (रामस्य विषयवासिनि), since Rāma is the sovereign lord of the entire earth (तस्य सर्वाधिपतित्वात्, _Tilaka_; रामराज्यवासिनी, Govindarāja). Failing that, like a true satyavādin, he pledges (सत्यं प्रतिशृणोमि ते) to behold Sītā, report the news back to Rāma (रामं च दृष्ट्वा वृत्तान्तं च निवेद्येति शेषः), and then return to enter her jaws.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7834,6 +8352,14 @@ without troubles, I will obtain your mouth. I am promising truthfully to you."
 
 Thus addressed by Hanūmān, Surasā, able to assume any form at will (_kāmarūpiṇī_), said: ‘None may pass me by (_nātivarten mām_)—this is my boon (_varo mama_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**156 (The Inexorable Boon)**
+
+Unmoved, the shape-shifting Surasā insists that no one may pass without entering her mouth (नातिवर्तेन्मां ममाननमप्रविश्य न गच्छेत्), where both _Tilaka_ and Govindarāja note the _ārṣa_ active optative अतिवर्तेत् (परस्मैपदमार्षम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -7896,6 +8422,14 @@ Thus being spoken to by Hanuma, Surasa with power to take desired form, spoke th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding him setting forth (_taṃ prayāntam_), Surasā, the mother of the _nāgas_, desiring to test (_jijñāsamānā_) Hanūmān&#x27;s strength, spoke these words:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**157–159 (The Crucial Literal Clue in Surasā's Demand)**
+
+Even as Hanūmān turns to proceed after offering his promise of return (वरदानं कृत्वाऽग्रे प्रयाणोन्मुखम्), Surasā blocks him again with the exact wording of her boon: `Only after entering my mouth today may you go (निविश्य वदनं मेऽद्य गन्तव्यम्)!' Rāma Varmā's _Tilaka_ highlights the decisive implication of her words: she stipulates only that he must enter her mouth before departing—not that he must remain inside or be chewed (प्रविश्यैव गन्तव्यं यदि शक्तिरस्तीत्यर्थः)! That verbal loophole gives Hanūmān his winning strategy.
 </details>
 </details>
 
@@ -8025,6 +8559,14 @@ mouth twenty yojanas long.
 
 **161:** Hanūmān then expanded to a breadth of ten _yojanas_ (_daśayojanavistāraḥ_). Seeing him cloud-like and ten _yojanas_ wide, Surasā too made her maw twenty _yojanas_ wide (_viṃśadyojanam āyatam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**160–161 (The Contest of Expansion Begins)**
+
+Feigning anger (क्रुद्धः), Hanūmān challenges her to open a mouth large enough to hold him (येन यादृशेन मां विषहिष्यसि ग्रहीष्यसि तादृशं वक्त्रं कुरु). Both _Tilaka_ and Śivasahāya's _Śiromaṇi_ construe the feminine accusative दशयोजनमायताम् as qualifying Surasā, whose jaws already gaped ten _yojanas_ wide (दशयोजनविस्तृतमुखां सुरसाम्). When Hanūmān matches her ten-_yojana_ span, she doubles her maw to twenty _yojanas_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8097,6 +8639,14 @@ forty yojanas high. The courageous Hanuma then became fifty yojanas high.
 
 Then Hanūmān, incensed, swelled to thirty _yojanas_ in breadth (_triṃśadyojanam āyataḥ_), and Surasā made her mouth forty _yojanas_ high (_catvāriṃśat tathocchritam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**162 (Text-Critical Debate Over the Escalating Numbers)**
+
+Both _Tilaka_ and Govindarāja discuss at length the authenticity of the incremental ten-by-ten expansion verses (from twenty up to a hundred _yojanas_). Govindarāja rejects the entire escalation sequence as an inconsistent interpolation (प्रक्षिप्ताः असङ्गताश्च), arguing that a hundred-_yojana_-wide Hanūmān would already touch Laṅkā (शतयोजनायतत्वे वानरैर्लङ्कावासिभिश्च दृष्टः स्यादिति विरोधात्), while _Tilaka_ similarly notes that older manuscripts jump directly from twenty _yojanas_ to Hanūmān shrinking to thumb-size (इति श्लोकास्तु प्रक्षिप्ता इति कतकः). _Śiromaṇi_, however, comments upon every step of the traditional Vulgate sequence.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -8138,6 +8688,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The heroic Hanūmān became fifty _yojanas_ high (_pañcāśadyojanocchritaḥ_), and Surasā made her mouth sixty _yojanas_ high (_ṣaṣṭiṃ yojanam ucchritam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**163–165 (The Climactic Escalation to a Hundred Yojanas)**
+
+While Govindarāja and Rāma Varmā's _Tilaka_ regard the ten-by-ten escalation from thirty to ninety _yojanas_ as an interpolation lacking in older manuscripts, Śivasahāya's _Śiromaṇi_ glosses each stage in detail. On 5.1.164d and 165b, _Śiromaṇi_ specifically explains the bold epic syntax (बहिर्भूतत्वेऽप्यन्वय आर्षः) whereby the accusative numerals अशीतिम् and नवतिम् stand outside the compound योजनोच्छ्रित- (`eighty/ninety _yojanas_ high').
 </details>
 </details>
 
@@ -8332,6 +8890,14 @@ thumb.
 
 **167:** Contracting (_saṃkṣipya_) his own body like a cloud, Māruti Hanūmān at that very instant (_tasmin muhūrte_) became the size of a thumb (_aṅguṣṭhamātrakaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**166–167 (Shrinking Like a Cloud to Thumb-Size)**
+
+Beholding Surasā's yawning (व्यादितं ध्यातम्), long-tongued, hell-like maw stretched to a hundred _yojanas_, the sagacious son of Vāyu instantly reverses his tactic. Just as a monsoon cloud condenses its vaporous bulk in the sky (जीमूत इव), Hanūmān contracts his colossal frame (संक्षिप्यात्मनः कायम्) within a single _muhūrta_ down to the size of a thumb (बभूवाङ्गुष्ठमात्रकः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8381,6 +8947,14 @@ it and standing in the sky spoke these words to Surasa.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, darting into (_abhipadya_) that mouth and emerging (_niṣpatya ca_) again, the glorious one of mighty strength stood in mid-air (_antarikṣe sthitaḥ_) and spoke these words:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**168 (Fulfilling the Letter of Brahmā's Boon)**
+
+In that miniature thumb-sized body (अङ्गुष्ठमात्रकशरीरो हनुमान्), he flashes into Surasā's open mouth (अभिपद्य प्राप्य) and darts right back out (निष्पत्य वक्त्रान्निर्गम्य च) before she can snap her jaws shut, hovering triumphantly in mid-air (अन्तरिक्षे स्थितः) to address her.
 </details>
 </details>
 
@@ -8439,6 +9013,14 @@ where Seetha is. Your boon also came true."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘I have indeed entered your mouth (_praviṣṭo &#x27;smi hi te vaktram_), O daughter of Dakṣa (_dākṣāyaṇi_)—homage to you! I shall now go where Vaidehī is, and your boon has proved true (_satyaś cāsīd varas tava_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**169–171 (The Daughter of Dakṣa and the Eclipse Simile)**
+
+Saluting Surasā with gentle irony (इतीषद्धसः) as दाक्षायणि (`daughter of Dakṣa Prajāpati', दक्षप्रजापतिसंताने, which Govindarāja notes was implied when she earlier cited the Creator's boon), Hanūmān points out that by entering her mouth he has rendered Brahmā's boon literally true (सत्यश्चासीद्वरस्तव). Seeing him emerge from her jaws like the full moon freed from Rāhu's eclipse (चन्द्रं राहुमुखादिव), Surasā sheds her demonic guise for her own divine form (स्वेन रूपेण) and blesses him to reunite Sītā with Rāghava (राघवेण सह वैदेहीं समानय संगमयस्व).
 </details>
 </details>
 
@@ -8586,6 +9168,14 @@ Hanuma saying "Good! Good!".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding that third feat (_tat tṛtīyaṃ karma_) of Hanūmān, most difficult to accomplish, all beings praised the monkey then, crying: ‘Bravo! Bravo (_sādhu sādhv iti_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**172–173 (The Third Feat and Return to the Sky)**
+
+All beings acclaim this escape from Surasā's jaws (सुरसावक्त्रान्निष्क्रमणरूपम्) as Hanūmān's `third feat' (तत्तृतीयं कर्म), following his initial leap and his conquest of Maināka. Skimming over Varuṇa's unassailable sea, he rockets back into the upper firmament like Garuḍa.
 </details>
 </details>
 
@@ -8785,6 +9375,32 @@ in various ways by excellent courageous groups of Vidyadharas.
 
 **180:** Frequented manifoldly by heroes and encompassed by troops of _vidyādharas_ (_vidyādharagaṇair vṛte_)—along that path of the Wind (_vāyumārge_) coursed Māruti like Garutmān (_garutmān iva_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**174 (The Seven-Verse Portrait of the Sky)**
+
+As Govindarāja and _Śiromaṇi_ note, verses 174–180 form a single seven-verse syntactic period (सप्तकमेकान्वयि) describing the exalted aerial path (वायुमार्गे). Govindarāja glosses कैशिकाचार्यैः as celestial Vidyādhara masters skilled in the _kaiśika_ musical mode (कैशिके रागविशेषे आचार्यैः विद्याधरविशेषैरित्यर्थः).
+
+_____________
+
+**175–176 (Celestial Chariots and Fiery Conquerors of Heaven)**
+
+Continuing the grand seven-verse description of the upper sky (आकाशस्वरूपं वर्ण्यते), the poet depicts spotless aerial palaces (विमानैः) drawn by lions, elephants, tigers, birds, and serpents (पतगोरगाः पक्षिसर्पाः). On 5.1.176, Rāma Varmā's _Tilaka_ and Śivasahāya's _Śiromaṇi_ construe पावकैरिव as a simile modifying the righteous winners of heaven (स्वर्गजिद्भिः): they blaze like the five ascetic fires (पञ्चाग्निभिरिव) whose touch is as fierce and unapproachable as Indra's thunderbolt (वज्राशनिसमस्पर्शैस्तद्वदस्पृश्यैः). Govindarāja instead reads वज्राशनिसमाघातैः पावकैः, taking them as literal celestial lightning-fires struck by thunderbolts (वज्राशनिसमाघातैर्मेघाभिघातैः पावकैः).
+
+_____________
+
+**177–178 (Citrabhānu and the Solitary All-Pervading Vault)**
+
+There the fire-god Citrabhānu (चित्रभानुना वह्निना) carries sacrificial oblations upward to the gods (देवेभ्यो हव्यवहनार्थं गतेन) amid planets, constellations, sun, and moon. _Tilaka_ glosses विविक्ते as `tranquil and restful' (विश्रामयोग्ये), while Govindarāja glosses विश्वे as `all-pervading' (विश्वगते व्यापके इत्यर्थः).
+
+_____________
+
+**179–180 (The Canopy of the Living World)**
+
+Treaded by the quarter-elephants of the gods (देवेन्द्राणां गजाः पुण्डरीकादयः, _Tilaka_; ऐरावताभ्रमुदिग्गजाक्रान्ते, Govindarāja), the sky stretches forth as the Brahma-wrought canopy (विताने वितानसदृशे) over the living world, through which Hanūmān hurtles like Garutmān.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -8821,6 +9437,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Drawing along (_prākarṣan_) banks of clouds (_meghajālāni_) like the wind—clouds the color of black aloe-wood (_kālāgurusavarṇāni_), as well as red, yellow, and white (_raktapītasitāni ca_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**181–184 (The Monsoon-Moon Simile)**
+
+Dragging behind him trails of clouds dark as black agallochum (कालागुरुसवर्णानि) or tinted red, yellow, and white by the sun's rays, Hanūmān plunges into cloud-banks and bursts out again (अभ्रजालानि पुनः पुनः प्रविशन्निष्पतंश्च सन्). Śivasahāya's _Śiromaṇi_ highlights the poetic beauty of 5.1.183a: ducking in and out of the clouds, the hero gleams like the full moon playing hide-and-seek behind monsoon clouds (प्रावृषि प्रावृट्कालिकमेघे इन्दुरिवाभाति), coursing through the supportless vault like the winged mountain-king Himavān (पक्षाद्युक्तोऽद्रिराडिव).
 </details>
 </details>
 
@@ -9044,6 +9668,14 @@ forcefully, with disabled power."
 
 Grown old (_pravṛddhā_) and able to assume any form at will (_kāmarūpiṇī_), reflected in her mind: ‘Today, after a long time (_dīrghasya kālasya_), I shall be well fed (_bhaviṣyāmy aham āśitā_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**185 (Siṃhikā's Hunger)**
+
+Down in the briny deep, the ancient demoness Siṃhikā—glossed in _Śiromaṇi_ as swollen to immense bulk through age and age-long fasting (प्रवृद्धा वयोऽतिवृद्धिं प्राप्ता)—gloats that after a long fast (दीर्घस्य कालस्य बहुकालपर्यन्तम्) she will finally feast (आशिता कृतभोजना, _Tilaka_; आशित्री भुक्तवती, Govindarāja).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -9141,6 +9773,20 @@ Sugriva. There is no doubt in that."
 **186:** ‘After a long time (_cirasya_), this great creature (_mahāsattvam_) has come within my power (_vaśam āgatam_)!’ Reflecting thus in her mind, she seized hold (_samākṣipat_) of his shadow (_chāyām asya_).
 
 **187:** As his shadow was being seized (_chāyāyāṃ gṛhyamāṇāyām_), the monkey reflected: ‘I have been suddenly dragged back (_samākṣipto &#x27;smi sahasā_), my valorous stride crippled (_paṅgūkṛtaparākramaḥ_)—’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**186 (The Brahmā-Granted Power of Shadow-Seizure)**
+
+Without rising to confront him face-to-face, Siṃhikā clutches Hanūmān's shadow cast upon the water (छायामस्य समाक्षिपत्). As Rāma Varmā's _Tilaka_ explains, Brahmā had endowed her with the uncanny power of immobilizing any creature simply by seizing its reflection or shadow (छायाग्रहणेन तद्वस्तुनिरोधशक्तिस्तस्या ब्रह्मदत्ता).
+
+_____________
+
+**187–188 (The Ship in a Headwind Simile)**
+
+Because Siṃhikā clutches his shadow invisibly from below (अदृष्टत्वात्), Hanūmān first feels only the sudden braking of his flight (पङ्गूकृतः स्तब्धगतिः पराक्रमो यस्य). Rāma Varmā's _Tilaka_ offers two acute interpretations of the ship simile (महानौरिव सागरे): either his forward progress toward his destination is arrested just as a great vessel is stalled by a contrary headwind (गम्यदेशगतिनिरोध एवात्र स्तब्धगतित्वम्), or else, just as a ship blown backward by a headwind is held fast in place by mechanical anchors (यन्त्रैः स्तब्धगतिः क्रियते), so too is he invisibly anchored in mid-air!
 </details>
 </details>
 
@@ -9252,6 +9898,14 @@ be equal to the middle of Patala.
 
 **190:** ‘As was described by the monkey-king (_kapirājñā yathākhyātam_), a creature of wondrous aspect (_adbhutadarśanam_), shadow-seizing (_chāyāgrāhi_) and of mighty power—this is that very one, of this there is no doubt!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**189–190 (Recalling Sugrīva's Warning)**
+
+Scanning every direction, Hanūmān spots the hideous monster rising from the brine and immediately recalls Sugrīva's earlier briefing (कपिराज्ञा यथाख्यातम्): `This is undoubtedly that shadow-seizing (छायाग्राहि) creature!' Śivasahāya's _Śiromaṇi_ notes that कपिराज्ञा (instead of कपिराजेन) illustrates the non-mandatory nature of Pāṇinian compound-final -टच् (समासान्तविधेरनित्यत्वान्नाभावः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9277,6 +9931,14 @@ be equal to the middle of Patala.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Recognizing her by the reality of her action (_arthatattvena_) to be Siṃhikā, the wise, huge-bodied monkey expanded (_vyavardhata_) like a storm-cloud in the rainy season (_prāvṛṣīva balāhakaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**191–192 (Identifying Siṃhikā by Her Deed and Expanding)**
+
+Inferring her identity from her signature act of shadow-seizure (अर्थतत्त्वेन छायाग्रहणरूपार्थक्रियया, _Tilaka_; सुग्रीवोपदिष्टच्छायाग्रहणरूपवस्तुनः तत्त्वेन, _Śiromaṇi_), Hanūmān swells like a monsoon thunderhead to bait her into opening her cavernous jaws—which gape as wide as the chasm between sky and netherworld (पातालाकाशमध्यभागसदृशम्).
 </details>
 </details>
 
@@ -9388,6 +10050,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Roaring like a bank of clouds (_ghanarājīva garjantī_), she rushed (_samabhidravat_) at the monkey; then he saw her deformed, cavernous mouth (_sumahan mukham_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**193–195 (Spotting the Vital Organs and Plunging Within)**
+
+As Siṃhikā charges roaring like a thundercloud—where Śivasahāya's _Śiromaṇi_ notes the epic omission of the past augment in समभिद्रवत् (आगमशास्त्रस्यानित्यत्वान्न ट्भावः)—the sagacious Hanūmān peers inside her gaping maw and spots her exposed internal vital organs (मर्माणि च भेदनाय ददर्श). On कायमात्रम् (5.1.194a), Rāma Varmā's _Tilaka_ cites two classic views: Tīrtha takes it as `just wide enough to swallow his expanded body' (स्वशरीरकवलनपर्याप्तं शरीरप्रमाणमित्यर्थ इति तीर्थः), whereas Kataka takes -मात्र as `small' relative to his bulk (मात्रशब्दोऽल्पवाचीति कतकः). Instantly shrinking his frame again (आत्मानं मुहुः संक्षिप्याधिकं संकुच्य), he dives straight down her throat while the _siddhas_ watch him vanish like the full moon swallowed by Rāhu.
 </details>
 </details>
 
@@ -9544,6 +10214,14 @@ Contracting (_saṃkṣipya_) himself in an instant (_muhuḥ_), the great monke
 
 Like the full moon (_candraṃ pūrṇam_) at the _parvan_ being swallowed (_grasyamānam_) by Rāhu. Then, tearing open (_utkṛtya_) her vital organs with his sharp claws (_nakhais tīkṣṇaiḥ_), the monkey—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**196–197 (Clawing the Vitals and the Threefold Triumph)**
+
+Shredding her internal vitals with his razor-sharp claws (नखैस्तीक्ष्णैर्मर्माण्युत्कृत्य), he rockets back out with the speed of mind (मनःसम्पातविक्रमः मनोवेगतुल्यवेगः). _Tilaka_ glosses the three instruments of his victory in 5.1.197cd: दिष्ट्या (`by the good fortune of the enemies of the demons', दैववृद्ध्या, or under the variant दृष्ट्या, `by keen discernment'), धृत्या (`by innate courage', सहजधैर्येण), and दाक्षिण्येन (`by timely tactical dexterity', कालोचितक्रियाचातुर्येण).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9637,6 +10315,14 @@ Sprang upward (_utpapāta_) with speed, his stride swift as thought (_manaḥsam
 
 That foremost hero among monkeys, self-possessed (_ātmavān_), grew great again with speed! With her heart torn out (_hṛtahṛt_) by Hanūmān, she fell lifeless (_vidhurā_) into the waters; Hanūmān had been created by the Self-Born himself (_svayaṃbhuvaiva_) for her destruction (_tasyā nipātane_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**198 (Regaining Flight and Brahmā's Predestined Creation)**
+
+How does Hanūmān resume his sky-flight mid-ocean after his initial momentum was halted? _Tilaka_ explains आत्मवान्: like his father Vāyu, his power of aerial locomotion is completely self-dependent (वायोरिव स्वाधीन एव तद्गमनविषयो यत्नः); scaling Mahendra at the start was merely to gain the wind-path or inspire his peers! With her heart ripped out (हृतहृदुत्पाटितहृदयलक्षणप्राणस्थाना), Siṃhikā plunges into the sea—for just as Rāma was born to slay the otherwise invincible Rāvaṇa, Brahmā himself had fashioned Hanūmān to destroy her (रावणनाशाय स्वात्मरूपरामवत्स्वस्वरूपो हनुमान्सृष्टः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -9713,6 +10399,14 @@ like the Garuda with a determined goal.
 
 Beholding Siṃhikā swiftly slain (_hatām_) by the monkey and fallen, the sky-roaming beings (_bhūtāny ākāśacārīṇi_) spoke to that best of leapers:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**199–200 (Did Hanūmān Kill Siṃhikā or Merely Disable Her?)**
+
+Witnessing Siṃhikā struck down, the sky-beings hail Hanūmān's terrible feat. While Rāma Varmā's _Tilaka_ and Govindarāja take हतम् in its straightforward sense—that Hanūmān slew (संहृता) a demoness who, like Rāvaṇa, could not be killed by anyone else (रावणवदशक्यसंहारा त्वया संहृतेत्यर्थः)—Śivasahāya's _Śiromaṇi_ advances a fascinating apologetic argument: because the supremely righteous Hanūmān would never take a female's life (परमधर्मज्ञहनुमतोऽत्र स्त्रीप्राणवियोगकर्तृत्वस्यासंभवात्), just as he later spares Laṅkādhidaivatā thinking `she is a woman', हतम् and हृतहृत् must mean only that he crushed her pride and knocked her senseless (गर्वविध्वंसपूर्वकं ताडितम्, विवेकराहित्यं प्रापितम्)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9783,6 +10477,14 @@ decorated by a variety of trees and also the forests in the region of Malaya.
 
 ‘He who possesses these four (_etāni catvāri_), O lord of monkeys, just as you do—steadfastness (_dhṛtiḥ_), vision (_dṛṣṭiḥ_), wisdom (_matiḥ_), and dexterity (_dākṣyam_)—never falters in his undertakings (_karmasu na sīdati_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**201 (The Four Pillars of Unfailing Success)**
+
+The celestials formulate the golden maxim of Sundarakāṇḍa: whoever possesses धृतिः (unshakable courage when facing obstacles), दृष्टिः (foresight into future consequences, आयतिलीनसत्कर्मदर्शनम्), मतिः (decisive judgment of reality, अर्थतत्त्वनिश्चयः), and दाक्ष्यम् (swift executive skill, क्रियापटुत्वम्) never sinks into failure (कर्मसु न सीदति).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9831,6 +10533,14 @@ series of trees at the end of his journey of hundred yojanas.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Honored (_sampūjitaḥ_) by them whose purpose was thus assured (_pratipannaprayojanaiḥ_), that worshipful monkey entered the sky and coursed on like the consumer of serpents, Garuḍa (_pannagāśanavat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**202–203 (Sighting the Forest Fringe at the Hundredth Yojana)**
+
+Note how _Tilaka_ construes प्रतिपन्नप्रयोजनैः with the sky-spirits (`confident now that he will accomplish their desired goal'), whereas Govindarāja reads nominative प्रतिपन्नप्रयोजनः qualifying Hanūmān, praising his discriminating wisdom in humoring Surasā while slaying the murderous Siṃhikā (सुरसाया अनुप्रतिपत्तिः सिंहिकाया वधप्रतिपत्तिश्च). Having nearly completed his crossing (प्राप्तभूयिष्ठः प्राप्तकल्पः पारो येन), he spots the timberline of Laṅkā.
 </details>
 </details>
 
@@ -9915,6 +10625,14 @@ thought the great Hanuma.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even as he descended (_patann eva_), the best of tree-leapers (_śākhāmṛgaśreṣṭhaḥ_) beheld the island (_dvīpam_) adorned with manifold trees, and the groves of Mount Malaya (_malayopavanāni ca_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**204–205 (The Southern Malaya and the Ocean's River-Brides)**
+
+Gliding downward (पतन्नेव गच्छन्नेव), Hanūmān surveys the island of Laṅkā, its coastal marshlands (अनूपः कच्छदेशः), and the groves of Mount Malaya (मलयोपवनानि). Both Rāma Varmā's _Tilaka_ and Govindarāja point out the geographical significance of this phrase: just as there is a famed Malaya mountain on the northern mainland shore, there is also a southern Malaya peak on the island of Laṅkā itself (अनेनोत्तरतीर इव दक्षिणतीरेऽपि मलयसंज्ञः पर्वतोऽस्तीति गम्यते, लङ्कामलय इति दक्षिणतीरे स्थितमलयः). He also gazes upon the `faces/mouths of the ocean's wives' (सागरस्य पत्नीनां मुखानि)—poetically denoting the estuaries where rivers flowing down from Trikūṭa enter the sea (समुद्रं प्रविशन्तीनां नदीनां मुखानि संगमस्थानानि).
 </details>
 </details>
 
@@ -10007,6 +10725,14 @@ form, like Vishnu who mitigated the strength of Bali by taking three strides.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding himself (_samīkṣyātmānam_) resembling a massive cloud (_mahāmeghasaṃkāśam_) and as though blocking up the sky (_nirundhantam ivākāśam_), that self-possessed, wise one formed a resolve (_cakāra matim_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**206–207 (Prudent Concealment Before Landing)**
+
+Noticing that his own gigantic, cloud-like body is practically choking the sky (निरुन्धन्तमिवाकाशम्), the prudent ambassador reflects that such a colossal figure hurtling at high speed would instantly draw a crowd of curious _rākṣasas_ (कौतूहलम् आश्चर्येण दिदृक्षामित्यर्थः).
 </details>
 </details>
 
@@ -10144,6 +10870,14 @@ Uddalaka and coconut trees.
 
 Then, contracting (_saṃkṣipya_) that mountain-like body (_tan mahīdharasaṃnibham_), he resumed his natural form (_punaḥ prakṛtim āpede_), like a self-realized sage freed from delusion (_vītamoha ivātmavān_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**208 (The Vedāntic Simile of the Liberated Yogin)**
+
+Shrinking his mountain-huge bulk, Hanūmān returns to his natural monkey stature (प्रकृतिं निजमाकारम्) `like a self-possessed sage freed from delusion' (वीतमोह इवात्मवान्). Both _Tilaka_ and Śivasahāya's _Śiromaṇi_ unpack the profound Vedāntic resonance of this simile: just as a liberated living sage (जीवन्मुक्तयोगी) sheds karmic delusion (वासनावशादागतः कामादिमोहः) and withdraws from gross bodily identification to abide in his own true nature of eternal bliss and devotion (भगवदनन्यपरतालक्षणस्वभावम्, नित्यानन्दस्वभावमिव), so does Hanūmān shed his assumed cosmic bulk to stand in his native form.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -10208,6 +10942,14 @@ that mountain.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having contracted that form to the utmost (_tadrūpam atisaṃkṣipya_), Hanūmān stood in his natural state (_prakṛtau sthitaḥ_), like Hari, the spoiler of Bali&#x27;s prowess (_balivīryaharo hariḥ_), after striding his three steps (_trīn kramān iva vikramya_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**209–210 (The Trivikrama Simile and Recapitulation of Powers)**
+
+Reinforcing the yogic simile of 5.1.208 with a Purāṇic one (दृष्टान्तान्तरार्थमनुवदति), the poet compares Hanūmān shrinking back into his native form after spanning the ocean to Lord Viṣṇu (हरिः) resuming his dwarf Vāmana stature after measuring out the three worlds to strip Bali of his sovereignty (त्रीन्क्रमान्पदानि विक्रम्य प्रक्षिप्य बलेर्वीर्यस्य हरो हरिरिव प्रकृतौ स्थितः). Rāma Varmā's _Tilaka_ notes that चारुनानाविधरूपधारी foreshadows the lovely forms—such as a diminutive monkey or a scholarly Brāhmaṇa—that Hanūmān will assume in the coming cantos, while समीक्षितात्मा (`having checked his oversized body') and समवेक्षितार्थः (`having planned his next course of action') summarize his strategic poise.
 </details>
 </details>
 
@@ -10303,6 +11045,14 @@ _________________
 
 Then that great-souled one, resembling a massive bank of clouds (_mahābhrakūṭapratimaḥ_), alighted (_nipapāta_) upon the opulent, wondrous-peaked summit (_vicitrakūṭe kūṭe_) of Mount Lamba (_lambasya gireḥ_), abounding in _ketaka_, _uddālaka_, and coconut trees (_saketakoddālakanārikele_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**211 (Alighting on Mount Lamba)**
+
+Crossing the sea that no other monkey could traverse (परैरशक्यं तरितुम्), Hanūmān touches down upon Mount Lamba—another name for Trikūṭa (त्रिकूटस्य लम्बापरपर्यायस्य, _Tilaka_), or so called because its sheer cliffs appear to hang suspended in air (लम्बमानस्येव स्थितस्य अविश्रान्तपातेनेत्यर्थः, Govindarāja). Both commentators gloss उद्दालकः as the _śleṣmātaka_ (Cordia) tree (उद्दालकाः श्लेष्मातकाः) and explain the double कूट in विचित्रकूटे ... कूटे as `upon the principal peak (प्रधानशिखरे) endowed with wondrous secondary crags (अवान्तरशिखराणि)'.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10342,6 +11092,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having thus gained the ocean shore and beheld Laṅkā upon the crest of the best of mountains (_girivaryamūrdhni_), the monkey alighted upon that mountain, casting off (_vidhūya_) his giant form and startling the beasts and birds (_vyathayan mṛgadvijān_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**212–213 (Startling the Wildlife and Sighting Amarāvatī-Like Laṅkā)**
+
+Even after shedding his colossal ocean-crossing bulk (प्राचीनं रूपं विधूय), the sheer impact of his landing upon the mountain peak terrifies the deer and birds (मृगद्विजान् व्यथयन्). Standing triumphant upon the shore of the billow-garlanded ocean, Hanūmān gazes up at Rāvaṇa's island citadel of Laṅkā, gleaming atop the mountain crest like Indra's own capital Amarāvatī (अमरावतीमिव).
 </details>
 </details>
 

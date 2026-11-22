@@ -2495,6 +2495,170 @@ a bow; alertly kept a vigil over Rama.
 
 Guha too, bow in hand and vigilant (_apramatto dhanur-dharaḥ_), conversing with Saumitri together with the charioteer (_saha sūtena saumitrim anubhāṣayan_), kept watch over Rāma (_anvajāgrat tato rāmam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.50.1–3 (āpṛcche tvām & Taking Leave at the Border)**
+
+Why does Rāma salute Ayodhyā and its tutelary deities only now at the southern frontier of Kosala? **Govindarāja** (_Bhūṣaṇa_) explains that in the haste of departing from the capital he had not performed the customary valedictory salutation to the city deities (निर्गमनावसरे शिष्टाचारप्राप्तस्य पुरदेवतानमस्कारस्य कार्यसङ्कटेनाकृतत्वात्), and now prays for the unhindered completion of his fourteen-year vow (निर्विघ्नपरिसमाप्त्यर्थम्), while **Rāma Varmā** (_Tilaka_) notes that Rāma acts out of love for his birthplace and to conceal his supreme divinity (जन्मभूमिप्रणयक्लेदेन ... स्वस्वरूपगोपनाय).
+
+_____________
+
+**2.50.4 (rudhiratāmrākṣaḥ vs. ruciratāmrākṣaḥ)**
+
+Reading रुधिरताम्राक्षः, **Govindarāja** (_Bhūṣaṇa_) attributes Rāma's reddened eyes to the dust of the swift chariot journey (रजोभ्रमणं रथवेगेन दूरगमनात्), whereas **Śivasahāya** (_Śiromaṇi_), reading रुचिरताम्राक्षः and separating अदीनः, takes Rāma's eyes as naturally clear and lotus-red (स्वाभाविकस्वच्छारुणे अक्षिणी).
+
+_____________
+
+**2.50.5–6 (ciraṃ duḥkhasya pāpīyaḥ)**
+
+All three commentators explain that prolonging grief is unwholesome (दुःखस्य चिरमनुभवः पापीयोऽशोभनम्), so Rāma bids the countryfolk return to their household duties (गृहकृत्यादिकरणाय) while implying that he too must proceed to fulfill his father's command and his incarnate mission (अवतारप्रयोजनार्थसिद्धये, _Tilaka_).
+
+_____________
+
+**2.50.7–10 (caityayūpasamāvṛtān & lakṣaṇīyān/rakṣaṇīyān)**
+
+Observing that Vālmīki lavishes three verses (vv. 8–10, श्लोकत्रयमेकान्वयि) on the opulence of Kosala to show how Rāma renounced a matchless empire like a blade of grass (दुस्त्यजामपि राज्यश्रियं तृणीकृत्य गतवान् राम इति द्योतयितुम्), **Govindarāja** (_Bhūṣaṇa_) glosses चैत्यानि as temples (देवतायतनानि) and यूपाः as sacrificial pillars proclaiming Vedic rites (सर्वतोमुखादियागप्रख्यापकाः स्तम्भाः). Reading लक्षणीयान्, **Govindarāja** and **Rāma Varmā** (_Tilaka_) remark that every single village in Kosala rivalled another king's capital (इतरनरेन्द्रराज्यतुल्यैकैकग्रामान्).
+
+_____________
+
+**2.50.11 (dhṛtimatāṃ varaḥ)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that the poet marvels at Rāma's unshakable fortitude (धृतिमतां वरः) in relinquishing so rich a realm without a tremor, while **Rāma Varmā** (_Tilaka_) takes v. 11 as referring to the neighboring territory south of Kosala.
+
+_____________
+
+**2.50.12 (tripathagām & aśaivalām)**
+
+All three commentators derive त्रिपथगाम् as “flowing through heaven, earth, and Pātāla” (स्वर्गमर्त्यपाताललोकगामिनीम्) and gloss अशैवलाम् as free from aquatic moss (शैवालरहिताम्).
+
+_____________
+
+**2.50.13–15 (satataṃ śivām & devapadminīm)**
+
+On सततं शिवाम् (“ever auspicious”), **Rāma Varmā** (_Tilaka_) cites the _Mahābhārata_ (रात्रौ वा यदि वा दिवा न कालनियमः कश्चिद्गङ्गां प्राप्य सरिद्वराम्) to show that bathing in the Gaṅgā is sanctifying at every hour, even at midnight or when entered merely for sport (क्रीडार्थं सेवनेऽपि पावनाम्, _Bhūṣaṇa_). All three commentators gloss देवाक्रीड- as the pleasure-hills of the gods along her banks (क्रीडापर्वतैः) and देवपद्मिनीम् as bearing golden lotuses fit for the immortals (देवभोग्यहेमपद्मवतीम्).
+
+_____________
+
+**2.50.16 (jalāghātāṭṭahāsogrām & veṇīkṛtajalām)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that v. 16 personifies the white, cool Gaṅgā as Lord Śiva (गङ्गां शिवत्वेन रूपयति): the roar of waters crashing against rocks is His boisterous laugh (अट्टहासः), the white foam is His gentle smile (फेनमेव निर्मलहासः), and the currents converging over ledges form a braided plait (वेणीकृतजलाम्).
+
+_____________
+
+**2.50.17–18 (gambhīranirghoṣām & ābhogapulinām)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) compare the deep murmur (गम्भीरनिर्घोषः) to a _mṛdaṅga_ drum and the fearful roar (भैरवो निःस्वनः) to a thunderbolt (अशन्यादेरिव), and cite the _Amarakośa_ (आभोगः परिपूर्णता) to gloss आभोगपुलिनाम् as having broad sandbanks (विशालसैकताम्).
+
+_____________
+
+**2.50.19–21 (phullotpalacchannām & samadām iva)**
+
+Why does v. 20 mention blue lotuses (फुल्लोत्पलच्छन्नाम्) when v. 18 already called the river निर्मलोत्पलशोभिताम्? **Govindarāja** (_Bhūṣaṇa_) explains that v. 18 described sparse lotuses adorning the water, whereas v. 20 depicts reaches completely carpeted with blossoms (पूर्वमल्पशोभोक्ता अत्र तच्छन्नत्वमिति विशेषः). On नानापुष्परजोध्वस्तां समदामिव, he explains that reddened with fallen flower-pollen, the river resembles a flushed damsel (रक्तवर्णत्वात् समदामिव स्थिताम्), while **Śivasahāya** (_Śiromaṇi_) sees her sportive overflow beyond her banks at Prayāga (स्वेच्छयोत्पथगत्यादिभिः).
+
+_____________
+
+**2.50.22 (vyapetamalasaṅghātām & maṇinirmaladarśanām)**
+
+Identifying मणि as crystal (स्फटिकमणिः), **Rāma Varmā** (_Tilaka_) points out the poetic figure of _atiśayokti_: even when elephants of the quarters, wild elephants, and royal tuskers plunge into her waters, the Gaṅgā remains crystal-clear and free of all impurity (दिग्गजाद्यालोडनेऽपि निर्मलत्वमित्यतिशयोक्तिरलंकारः).
+
+_____________
+
+**2.50.23–24 (bhūṣitāṃ bhūṣaṇottamaiḥ & śiṃśumāraiḥ)**
+
+**Govindarāja** (_Bhūṣaṇa_) construes the fruits, flowers, and shoots of v. 24 as a metaphor (_rūpaka_) for the choice ornaments adorning the river-maiden (फलैः पुष्पैः किसलयैरेव भूषणोत्तमैरिति व्यस्तरूपकम्). All three commentators cite the _Vaijayantī_ lexicon (शिंशुमारो जलकपिः) to gloss शिंशुमार as the Gangetic dolphin.
+
+_____________
+
+**2.50.25–26 (viṣṇupādacyutām, apāpām & sāgaratejasā)**
+
+How does “fallen from Viṣṇu's foot” (विष्णुपादच्युताम्) harmonize with Bālakāṇḍa's statement that the Gaṅgā springs from Himavat? Both **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) explain that she first issued from Viṣṇu's supreme foot and only later manifested on Himavat (हिमवत्प्रभवत्वं तत्र प्रादुर्भावमात्रेण). Rejecting **Kataka**'s gloss on अपापाम्, **Rāma Varmā** (_Tilaka_) explains that she is free of even the faintest trace of sin because she destroys sin by her mere sight (पापनाशिनीं दर्शनमात्रेण तादृशीम्). All three commentators gloss सागरतेजसा as “by the ascetic might of Bhagīratha, scion of Sagara” (भगीरथतपोबलेन).
+
+_____________
+
+**2.50.27–28 (iṅgudīvṛkṣaḥ)**
+
+All three commentators identify the _iṅgudī_ tree as the traditional “ascetics' tree” (तापसतरुः), flourishing with blossoms and shoots because it stands close to the Gaṅgā (नद्यविदूरत्वं बहुपुष्पप्रवालत्वे हेतुः, _Tilaka_).
+
+_____________
+
+**2.50.29–30 (sammānyasalilām)**
+
+On संमान्यसलिलाम्, **Rāma Varmā** (_Tilaka_) remarks that the compound implies that Gaṅgā water, even when carried elsewhere from the main stream, retains its power to destroy all sins (प्रवाहादन्यत्राहृतमपि सकलपापक्षयसमर्थमिति ध्वनितम्).
+
+_____________
+
+**2.50.31–33 (niṣādajātyaḥ sthapatiḥ & the Mīmāṃsā Maxim)**
+
+$18
+
+_____________
+
+**2.50.34–35 (saha saumitriṇā samāgacchat)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that Rāma rose and walked forward to embrace Guha, treating him with the same fraternal affection as Lakṣmaṇa (लक्ष्मणवत्तस्मिन् भ्रातृत्वबुद्धिमकरोत्).
+
+_____________
+
+**2.50.36 (ārtaḥ)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Guha was anguished (आर्तः) upon seeing Rāma clad in coarse bark-garments (धृतवल्कलदर्शनेन संतप्तः).
+
+_____________
+
+**2.50.37–39 (The Fourfold Viands & praśādhi)**
+
+Glossing the fourfold culinary offering in v. 39, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) distinguish भक्ष्यम् as foods requiring chewing such as cakes and condiments (चर्व्यं व्यञ्जनादि), भोज्यम् as soft boiled rice and milk-pudding (अन्नम्, पायसादि), पेयम् as spiced drinks (पानकादि), and लेह्यम् as confections and syrups to be licked (रसायनादि), with च adding suckable sugarcane (चोष्यम् इक्षुदण्डादि). On राज्यं प्रशाधि नः, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** explain that Guha entreats Rāma to govern his forest kingdom (आटविकराज्यम्, _Bhūṣaṇa_) and accept his hospitality.
+
+_____________
+
+**2.50.40 (arcitāś caiva hṛṣṭāś ca)**
+
+**Rāma Varmā** (_Tilaka_) explains that because Guha, though a powerful king (महाप्रभुरपि सन्), walked on foot from his capital and offered his entire realm, Rāma declares himself already fully worshipped (अर्चिता एव).
+
+_____________
+
+**2.50.41 (bhujābhyāṃ pīḍayan)**
+
+All three commentators note that Rāma embraces Guha a second time (पुनरालिङ्गति) to manifest his supreme affection.
+
+_____________
+
+**2.50.42–43 (vaneṣu/dhaneṣu & sarvaṃ tad anujānāmi)**
+
+Reading वनेषु च in 42d, **Rāma Varmā** (_Tilaka_) notes that because Guha is a forest king, Rāma fittingly inquires after the welfare of his woodlands (तस्याटविकत्वाद्वनकुशलप्रश्नः), while also recording the variant धनेषु. On सर्वं तदनुजानामि, all three commentators explain that Rāma mentally accepts Guha's affectionate offering so that Guha reaps the full merit of giving, and then returns it (अङ्गीकृत्य ददामि प्रतिभोगफलकम्, _Tilaka_; मम सर्वं सम्यक् कृतमित्यनुजानामि, _Bhūṣaṇa_) because a Kṣatriya under a vow may not accept gifts (न हि वर्ते प्रतिग्रहे).
+
+_____________
+
+**2.50.44 (kuśacīrājinadharam & Guha's Purity)**
+
+Why does Rāma decline Guha's cooked food by citing his Kṣatriya non-acceptance of gifts and his ascetic vow of eating only wild roots and fruits (क्षत्रधर्मोपन्यासेन ... व्रतस्थत्वरूपहेतूपन्यासेन च), rather than Guha's Niṣāda birth? **Rāma Varmā** (_Tilaka_) remarks that this proves that the food of an enlightened devotee like Guha is intrinsically pure and fit to be eaten (एतेन तत्त्वज्ञः सर्वोऽपि भोज्यान्न एवेति ध्वनितम्).
+
+_____________
+
+**2.50.45–46 (aśvānāṃ khādanena)**
+
+All three commentators explain that Rāma accepts fodder solely for Daśaratha's cherished chariot-horses (सुविहितैः पोषितैः).
+
+_____________
+
+**2.50.47 (pratipānam & khādanam)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain the technical equine distinction between खादनम्—barley-meal mixed with clarifyied butter and sugar (घृतशर्करादियुतयवचूर्णादि)—and प्रतिपानम्, the draught of milk or water given to thoroughbred royal steeds after they have eaten dry fodder (घासदानानन्तरं यत्पाय्यते क्षीरादि तत्प्रतिपानम्).
+
+_____________
+
+**2.50.48–49 (jalam evādade & Washing Rāma's Feet)**
+
+Why did Rāma drink only water on this night as well? **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that arriving at a sacred pilgrimage ford (_tīrtha_) like the Gaṅgā requires a day's fast (तीर्थप्राप्तिनिमित्तकोपवासस्यावश्यकत्वात्). **Govindarāja** (_Bhūṣaṇa_) notes that wearing a second bark-cloth as an upper mantle (चीरोत्तरासङ्गः) implies Rāma had bathed before evening worship, and that Lakṣmaṇa washed Rāma's feet at bedtime as an act of devoted servitude (स्वशेषवृत्त्यनुरूपत्वात्) before standing watch by a nearby tree (तस्य निद्राभावः सूचितः, _Tilaka_).
+
+_____________
+
+**2.50.50–51 (anvajāgrat & cireṇa śarvarī)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note the _ārṣa_ imperfect अन्वजाग्रत् for अजागरीत्. On the night passing slowly (चिरेण शर्वरी), **Rāma Varmā** remarks that because Rāma slept peacefully, the night seemed long to the wakeful watchers.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

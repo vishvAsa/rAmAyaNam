@@ -762,6 +762,116 @@ the Fury-gods, and two Ashvinis, the medicine-gods, total thirty-three of them. 
 
 “—and Kālakā too, O mighty-armed one; but the remaining wives were indifferent in mind (_śeṣās tv amanaso ’bhavan_). Of Aditi were born (_adityāṃ jajñire_) the thirty-three gods (_devās trayastriṃśat_), O tamer of foes:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.14.1–2 (vanastham vs. vaṭastham & pakṣim)**
+
+**Śivasahāya** (_Śiromaṇi_) notes that Rāma and Lakṣmaṇa mistook Jaṭāyu for a Rākṣasa because of his colossal frame (महाकायमत एव राक्षसं). **Govindarāja** (_Bhūṣaṇa_), reading वटस्थम्, explains that the bird was perched on the landmark banyan tree described by Agastya (अगस्त्योपदिष्टवटस्थं), and flags पक्षिम् as a Vedic form (पक्षिं इति छान्दसं रूपं).
+
+_____________
+
+**3.14.3–4 (prīṇayann iva & pitur ātmanaḥ)**
+
+**Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) take इव in प्रीणयन्निव as emphatic (इवशब्देन एवकारार्थः, “truly gladdening them”), while **Rāma Varmā** (_Tilaka_) construes आत्मनः पितुः reflexively as “of your own father” (तव पितुरित्यर्थः).
+
+_____________
+
+**3.14.5–6 (ātmānam & Cosmic Genealogy)**
+
+All three commentators gloss आत्मानम् as “his own name” (आत्मनाम चेत्यर्थः) and explain that to trace his own lineage from the dawn of the _kalpa_ (ब्रह्मणोऽहरादिकल्पे), Jaṭāyu incidentally narrates the origin of all creatures (स्वोत्पत्तिकथनप्रसङ्गात्सर्वभूतसमुद्भवमाचचक्षे).
+
+_____________
+
+**3.14.7–9 (The Seventeen Prajāpatis)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) count seventeen Prajāpatis in sequence from Kardama to Kaśyapa (कश्यपान्ताः सप्तदश प्रजापतयो बभूवुः), whereas **Govindarāja** (_Bhūṣaṇa_) construes अरिष्टनेमिः as an epithet qualifying Kaśyapa (अरिष्टनेमिरिति काश्यपविशेषणम्).
+
+_____________
+
+**3.14.10 (ṣaṣṭir duhitaraḥ & Vocative mahāyaśaḥ)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) point out that महायशः is a vocative singular addressing Rāma (महायश इति रामसंबुद्धिः) alongside the sixty renowned daughters of Dakṣa.
+
+_____________
+
+**3.14.11–12 (Reconciling Eight Wives with Purāṇic Thirteen)**
+
+Addressing why Vālmīki names eight wives of Kaśyapa here whereas the _Bhāgavata_ and other Purāṇas count thirteen, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that अष्टौ is a selective synecdoche (_upalakṣaṇa_) highlighting the eight wives whose progeny pertain to the epic’s account (वक्ष्यमाणवंशोपयोगिस्त्रीत्वेनाष्टावेवात्र विवक्षिता इति न तद्विरोधः).
+
+_____________
+
+**3.14.13–14 (tanmanāḥ vs. amanasaḥ)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss तन्मनाः as eagerly desiring the promised sons (तदुक्तपुत्राभिलाषवती), whereas the remaining four wives (शेषास्त्वमनसोऽभवन्) were indifferent to bearing sons and therefore gave birth to daughters first (अत एवासां कन्यैव वंश्यो भविष्यति, _Śiromaṇi_). **Govindarāja** (_Bhūṣaṇa_) observes that their offspring illustrate the fruits of honouring or disregarding a husband’s word (भर्तृवचनादरानादरफले दर्शयति).
+
+_____________
+
+**3.14.14–15 (The Thirty-Three Gods)**
+
+**Govindarāja** (_Bhūṣaṇa_) enumerates the thirty-three Vedic deities (त्रयस्त्रिंशत्) born of Aditi: twelve Ādityas, eight Vasus, eleven Rudras, and the two Aśvins (द्वादशादित्याः अष्टौ वसवः एकादश रुद्राः अश्विनौ द्वौ एवं त्रयस्त्रिंशत्).
+
+_____________
+
+**3.14.16–18 (Rule of the Daityas & Tāmrā’s Line)**
+
+All three commentators construe तेषाम् in 3.14.16a with the sons of Diti (तेषां दितिपुत्राणाम्), who held sovereignty over the earth and seas before the rise of the gods.
+
+_____________
+
+**3.14.19–20 (Why Jaṭāyu Interjects bhadraṃ te)**
+
+All three commentators explain why Jaṭāyu inserts the benediction भद्रं ते midway through the genealogy: to keep Rāma’s attention engaged during the collateral account leading up to Jaṭāyu’s own birth (अप्रकृतवृत्तान्तानादरप्रतिषेधाय मध्ये भद्रं ते इत्युक्तिः, _Bhūṣaṇa_; श्रवणे रुच्युत्पादनायाह, _Śiromaṇi_). **Govindarāja** also notes that विजज्ञे and similar verbs carry an implicit causative sense (अन्तर्भावितण्यर्थाः शब्दाः).
+
+_____________
+
+**3.14.21–22 (The Ten Daughters of Krodhavaśā)**
+
+**Śivasahāya** (_Śiromaṇi_) notes that verses 21 and 22 form a single syntactic unit (श्लोकद्वयमेकान्वयि) enumerating the ten daughters of Kaśyapa’s wife Krodhavaśā.
+
+_____________
+
+**3.14.23–24 (sṛmarāḥ vs. camarāḥ)**
+
+**Rāma Varmā** (_Tilaka_) distinguishes सृमराः as dark-tailed deer (श्यामकपुच्छाः) and चमराः as white-tailed yaks (श्वेतकपुच्छा इति भेदः), while **Govindarāja** (_Bhūṣaṇa_) adds that सृमराः possess long dark tail-hairs prized by women for braiding their hair (स्त्रीणां केशसंग्रहायोपयुक्तसुनीलदीर्घवाला मृगाः).
+
+_____________
+
+**3.14.25–26 (harayaḥ & golāṅgūlāḥ)**
+
+All three commentators gloss हरयः as lions (सिंहाः). On गोलाङ्गूलाः (black-faced langurs with long cow-like tails, अत्यन्तदीर्घलाङ्गूलाः मर्कटजातिविशेषाः, _Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_) construes the nominative with the preceding clause as offspring of Harī (गोलाङ्गूला इति पूर्वान्वयि), whereas **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (reading गोलाङ्गूलांश्च) construe it with Śārdūlī.
+
+_____________
+
+**3.14.27–28 (nāgān vs. pannagān)**
+
+Distinguishing Surasā’s नागान् from Kadrū’s पन्नगान्, **Rāma Varmā** (_Tilaka_) cites two commentarial traditions: Tīrtha explains Nāgas as multi-hooded serpents and Pannagas as single-hooded (नागा बहुफणाः सर्पाः, तदन्ये पन्नगा इति तीर्थः, followed by _Bhūṣaṇa_), whereas Kataka explains Nāgas as non-venomous and Pannagas as venomous (निर्विषा नागाः, तदन्ये पन्नगा इति कतकः).
+
+_____________
+
+**3.14.29–30 (Manu’s Progeny & the Puruṣasūkta)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that 3.14.30 cites the Vedic _Puruṣasūkta_ (इति श्रुतिः), glossing उरसः as the upper torso between the arms (बाहुमध्यात्).
+
+_____________
+
+**3.14.31–33 (Kadrū’s Mention & How Aruṇa Wedded Śyenī)**
+
+**Govindarāja** (_Bhūṣaṇa_), reading नागं सहस्रास्यं, explains that Jaṭāyu mentions Kadrū again to show that his own house is allied to thousand-hooded Ādiśeṣa (धरणीधरशेषजनकत्वेन स्वकुलतुल्यत्वं वक्तुं), while **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that verse 32 specifies the thousand earth-bearing serpents among the Pannagas of verse 28. On how Aruṇa (Śukī’s great-grandson) could wed Śyenī (Śukī’s sister), _Tilaka_ and _Bhūṣaṇa_ explain either that this Śyenī is a different namesake (अन्यैषा श्येनीत्यदोषः) or that kinship prohibitions do not apply to birds (विधिनिषेधयोस्तिर्यग्विषयत्वाभावात्).
+
+_____________
+
+**3.14.34–35 (Jaṭāyu’s Foresight)**
+
+**Rāma Varmā** and **Govindarāja** supply मृगयार्थम् (“when you go out hunting with Lakṣmaṇa”) on त्वयि याते, **Śivasahāya** adding that this foreshadowing reveals Jaṭāyu’s knowledge of past, present, and future (जटायुषः त्रिकालज्ञत्वं सूचितम्).
+
+_____________
+
+**3.14.36 (sītāṃ paridāya)**
+
+**Rāma Varmā** and **Govindarāja** cite the Vedic idiom यमाय त्वा परिददामि to establish that परिदाय means “having entrusted Sītā to Jaṭāyu for protection” (रक्षणार्थं जटायुष इति शेषः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -776,6 +776,170 @@ Explaining that Madhu carried off Kumbhīnasī while Meghanāda sacrificed, Vibh
 
 **26:** “And while Kumbhakarṇa, O great King, was immersed in sleep (_nidrām anubhavaty atha_); slaying your foremost rākṣasa ministers honored here (_nihatya rākṣasa-śreṣṭhān amātyān iha sammatān_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.25.1–2 (To the Grove of Nikumbhilā)**
+
+Linking directly to Sarga 24, **Śivasahāya** (_Śiromaṇi_) introduces this canto as the sequel to dispatching Khara (खरप्रेषणानन्तरकालिकं वृत्तान्तमाह): having settled Śūrpaṇakhā in Daṇḍaka, Rāvaṇa feels relieved (_svasthatara_). All three commentators identify Nikumbhilā with remarkable topographical precision: **Govindarāja** (_Bhūṣaṇa_) calls it the grove situated at Laṅkā’s western gate (लङ्कायाः पश्चिमद्वारवर्ति काननम्), while **Rāma Varmā** (_Tilaka_) and **Śivasahāya** specify that this western-gate grove served expressly as the consecrated site for achieving ritual mastery (लङ्कापश्चिमद्वारदेशवर्ति कर्मसिद्धिहेतुभूतं काननम्), foreshadowing Indrajit’s fateful final rite there in Book VI.
+
+_____________
+
+**7.25.3–5 (Meghanāda’s Consecrated Garb)**
+
+On 7.25.3, **Rāma Varmā** and **Govindarāja** gloss चैत्यम् as a shrine (देवायतनम्) and विष्ठितम् as already underway (प्रवृत्तम्), while **Śivasahāya** takes यज्ञम् as the sacrificial pavilion (यागशालाम्) glowing with splendor. Explaining the ascetic marks of 7.25.4 (कमण्डलुशिखाध्वजम्, taking ध्वज as staff, दण्ड), both **Rāma Varmā** and **Govindarāja** clarify a crucial ritual point: this antelope-skin and water-pot signify the temporary celibate consecration of a sacrificer, not the student stage of life (अनेन ब्रह्मचर्यं सूचितं न तु ब्रह्मचर्याश्रमः), since Meghanāda is immediately named as performer of _Agniṣṭoma_ and other householder rites.
+
+_____________
+
+**7.25.6 (Why Uśanas Answers for the Silent Son)**
+
+When Rāvaṇa embraces Meghanāda and questions him, it is the preceptor Uśanas (Śukrācārya), not the son, who replies. All three commentators unpack this telling detail. **Rāma Varmā** observes that as the consecrated _yajamāna_, Meghanāda is bound by ritual silence (पुत्रस्य यजमानत्वेन मौनित्वात्), and maintaining that vow unbroken ensures the sacrifice’s perfection (यजमानस्य मौनात्यागेन तत्समृद्धिर्भवति). **Śivasahāya** likewise reads Uśanas’s intervention as subtly conveying Meghanāda’s vow of silence (एतेन पुत्रस्य मौनव्रतित्वं ध्वनितम्), while **Govindarāja** adds that Śukrācārya answered himself as the presiding director (प्रवर्तकत्वात्) of the ritual.
+
+_____________
+
+**7.25.7–8 (The Seven Royal and Vedic Sacrifices)**
+
+Uśanas reveals that Meghanāda has not merely performed an isolated rite, but a monumental cycle of seven classical sacrifices. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss the demonstrative ते in 7.25.7 as referring to ‘those renowned seven sacrifices’ (ते प्रसिद्धाः सप्त यज्ञाः), while **Śivasahāya** (_Śiromaṇi_) clarifies प्राप्ताः as ‘duly performed’ (कृताः). The roster spans the foundational Soma rite (_Agniṣṭoma_), imperial consecrations (_Aśvamedha_, _Rājasūya_), lavish gifting (_Bahusuvarṇaka_), _Gomedha_, and the sectarian _Vaiṣṇava_, demonstrating the rākṣasa prince’s mastery of orthodox Vedic liturgy.
+
+_____________
+
+**7.25.9 (Paśupati’s Direct Grace in the Māheśvara Rite)**
+
+Construing 7.25.8 and 7.25.9 as a single unified sentence (श्लोकद्वयमेकान्वयि), **Śivasahāya** marks the seventh rite—the _Māheśvara_ sacrifice—as the climax: once the preceding six were completed and the rare _Māheśvara_ commenced, Meghanāda won boons directly from Paśupati (साक्षात्पशुपतेः). **Rāma Varmā** likewise highlights Paśupati’s direct agency (पशुपतेर्वराः). The epithet _pumbhiḥ sudurlabhe_ (‘hard for mortals to attain’) underscores why this ritual yields powers surpassing ordinary sacrificial fruits, preparing the ground for Indrajit’s later triumph over Indra in Sarga 29.
+
+_____________
+
+**7.25.10–12 (The Arsenal of Tāmasī Illusion and Celestial Arms)**
+
+Supplying लब्धवान् (‘he obtained’) across verses 10–12, **Śivasahāya** unpacks each gift in turn. Beyond the wish-driven sky-chariot (_kāmaga syandana_), Meghanāda receives the _Tāmasī_ illusion, whose ‘darkness’ (तमः) Śivasahāya interprets not merely as physical gloom but as cognitive bewilderment of foes (रिपूणामज्ञानं संपद्यते). On 7.25.11, he glosses गतिः as the movement of illusion-wielders (मायाकर्तॄणां गमनम्), undetectable even to gods and asuras; on 7.25.12, he glosses इषुधी as quivers (तूणीरौ), completing the formidable panoply that will make Indrajit Laṅkā’s deadliest warrior.
+
+_____________
+
+**7.25.13–15 (Rāvaṇa’s Ideological Rebuke and Quick Softening)**
+
+Rāvaṇa’s sharp reaction in 7.25.14 exposes the theological divide between rākṣasa austerity and Vedic sacrifice. **Rāma Varmā** (_Tilaka_) clarifies his objection: gods like Brahmā should be propitiated through sheer austerity (_tapas_), not through sacrifices that gratify his rivals led by Indra (तपसैव ब्रह्मादयो देवास्तोषणीयाः, न त्विन्द्रादिप्रीणनोपेतयागेनेति भावः). Yet in 7.25.15 Rāvaṇa relents: **Śivasahāya** (_Śiromaṇi_) observes that he speaks to dispel the fear aroused in Meghanāda by his displeasure (स्वासन्तोषजन्यतद्भीतिनिवारणायाह), while **Rāma Varmā** paraphrases his pragmatic warning—since what is done cannot be undone, let him not repeat it hereafter.
+
+_____________
+
+**7.25.16–17 (The Captive Women and Vibhīṣaṇa’s Intervention)**
+
+Construing 7.25.16–17ab as a single one-and-a-half-verse sentence (सार्धश्लोक एकान्वयी), **Śivasahāya** supplies स्वभवनम् (‘having gone to his palace’) as the destination where Rāvaṇa disembarks the weeping women seized during his conquests. **Rāma Varmā** glosses लक्षिण्यः as endowed with auspicious physical marks (सुलक्षणयुक्ताः) and रत्नभूताः as peerless treasures (उत्तमवस्तुभूताः). Seeing Rāvaṇa’s lustful intent toward these captives (तासु स्त्रीषु मतिं दुष्टाभिप्रायं ज्ञात्वा, Śivasahāya), righteous Vibhīṣaṇa steps forward as the moral conscience of Laṅkā.
+
+_____________
+
+**7.25.18 (Transgressing Dharma and Scripture by Self-Will)**
+
+All three commentators sharpen the ethical sting of Vibhīṣaṇa’s indictment. **Rāma Varmā** explains ज्ञात्वा as acting in full awareness of sinfulness (तेषां पापजनकत्वं ज्ञात्वापि) and स्वमतेन as willfully violating the bounds of dharma and justice (उल्लङ्घितधर्मन्यायमर्यादया स्वेच्छयेत्यर्थः). **Govindarāja** (_Bhūṣaṇa_) echoes this closely, defining स्वमतेन as defying scriptural bounds (उल्लङ्घितशास्त्रमर्यादयेत्यर्थः). **Śivasahāya** likewise takes ज्ञात्वा as ‘knowing good from ill’ (इष्टानिष्टं बुद्ध्वापि) and glosses धर्षणम् as torment (पीडामित्यर्थः), underscoring that Rāvaṇa’s ruin stems from deliberate hubris.
+
+_____________
+
+**7.25.19–21 (The Immediate Karma of Abduction)**
+
+Vibhīṣaṇa delivers a stinging lesson in moral symmetry. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss तान् ज्ञातीन् in 7.25.19 as ‘the kinsmen of the abducted women’ (आनीतस्त्रीबन्धून्), while **Śivasahāya** (_Śiromaṇi_) takes ज्ञातीन् as ‘men of noble birth’ (प्रशस्तजातिमतः), noting that Vibhīṣaṇa demonstrates how swiftly adharma bears fruit (अधर्मणः फलं झटिति भवतीति बोधयन्नाह). When baffled Rāvaṇa asks what happened and who Madhu is (नेमं वृत्तान्तं जानामि, Tilaka), both Tilaka and Bhūṣaṇa gloss अस्य पापस्य कर्मणः फलम् in 7.25.21 as the forcible seizure of Rāvaṇa’s own sister in direct payback for stealing others’ wives.
+
+_____________
+
+**7.25.22–23 (Mālyavān, the Elder Maternal Grandfather)**
+
+Construing 7.25.22–23 as a single grammatical period (श्लोकद्वयमेकान्वयि), **Śivasahāya** clarifies how Mālyavān—elder brother of Sumālin, father of Rāvaṇa’s mother Kaikasī—is called जनन्या ज्येष्ठः पिता, i.e., our mother’s elder paternal uncle (ज्येष्ठपितृव्यः), and hence our venerable elder (आर्यकः श्रेष्ठः). Both **Rāma Varmā** and **Govindarāja** gloss आर्यकः specifically as maternal grandfather (मातामहः / ज्येष्ठमातामहः), anchoring Kumbhīnasī firmly within the senior branch of the rākṣasa matriarchal line.
+
+_____________
+
+**7.25.24 (Distinguishing the Two Kumbhīnasīs)**
+
+Because Book VII earlier named a daughter of Sumālin as Kumbhīnasī (7.5.39), both **Rāma Varmā** and **Govindarāja** carefully prevent genealogical confusion here. As **Rāma Varmā** explains (अत्रेदं बोध्यम्), Sumālin’s daughter Kaikasī had an elder sister Puṣpotkaṭā and a younger sister Kumbhīnasī; meanwhile, Sumālin’s brother Mālyavān had a daughter named Analā (तस्य कन्यानला), whose daughter is _this_ Kumbhīnasī—distinct from Sumālin’s child (सुमाल्यपत्यभूतकुम्भीनस्या अन्या). Because Analā stands as a maternal aunt (_mātṛṣvasā_), both commentators conclude that her daughter Kumbhīnasī is, like Śūrpaṇakhā, Rāvaṇa’s sister by sacred law (धर्मतो न्यायतः स्वसा भवति).
+
+_____________
+
+**7.25.25–26 (Why Laṅkā’s Three Guardians Could Not Intervene)**
+
+All three commentators explain why none of Laṅkā’s champions stopped Madhu. **Rāma Varmā** (_Tilaka_) notes that Meghanāda’s sacrificial consecration barred him from fighting (दीक्षावत्त्वाद्युद्धप्रवृत्तिनिवारणम्), while noting Govindarāja’s variant यज्ञप्रमत्ते (‘absorbed in sacrifice, oblivious to household affairs’). All three supply तपोर्थम् (‘for austerity’) for Vibhīṣaṇa’s underwater retreat (अन्तर्जलोषिते). Construing 25–26 together, **Śivasahāya** (_Śiromaṇi_) adds that with Kumbhakarṇa asleep, Madhu slew the trusted ministers (प्रसिद्धान्, Tilaka and Bhūṣaṇa) and seized Kumbhīnasī.
+
+_____________
+
+**7.25.27–28 (Forbearance and the Sting of Adharma)**
+
+Explaining why Madhu was spared (क्षान्तमेव हतो न सः), **Śivasahāya** links 27–28ab as a single sentence (सार्धश्लोक एकान्वयी): since a girl must eventually be bestowed upon a husband by her brothers or elders (भ्रातृभिः गुरुपरम्, Tilaka; अस्माभिः, Bhūṣaṇa), they endured the union. Yet both **Rāma Varmā** and **Govindarāja** stress the crucial distinction in 28cd: that she was abducted by force without lawful marriage rites (ब्राह्मादिन्याय्यविधिं विना बलात्कन्याहरणरूपम्) is the humiliating karmic fruit of Rāvaṇa’s own abduction of others’ wives.
+
+_____________
+
+**7.25.29–30 (A Lesson for the World and Rāvaṇa’s Boiling Wrath)**
+
+On 7.25.29ab, **Rāma Varmā** glosses अस्मिन्नेव as ‘in this very instant’—let the world witness how swiftly stealing another’s wife bears bitter fruit, so people may recoil from it (परदारहरणस्य झटिति फलदतेति ज्ञात्वा लोकस्ततो निवर्ततेति भावः). Rather than repenting, Rāvaṇa erupts: as both **Rāma Varmā** and **Śivasahāya** note, tormented by his own wickedness (आत्मना कृतेन दौरात्म्येनोद्धूतः), he seethes like a boiling ocean and immediately orders his chariot and warriors readied.
+
+_____________
+
+**7.25.31–33 (The Double Objective and Four Thousand Akṣauhiṇīs)**
+
+Rāvaṇa turns a family insult into the prelude for his cosmic campaign against heaven. All three commentators unpack रावणनिर्भयम् in 7.25.32 identically as an ablative compound—‘devoid of fear of Rāvaṇa’ (रावणान्निर्भयम्, **Rāma Varmā** and **Govindarāja**; रावणान्निर्गतं भयं यस्य तम्, **Śivasahāya**). Answering his summons, four thousand elite _akṣauhiṇī_ armies pour forth, with both Rāma Varmā and Śivasahāya glossing अग्र्याणि in 7.25.33 as ‘foremost, principal’ (मुख्यानि), emphasizing the overwhelming martial scale of Laṅkā’s mobilization.
+
+_____________
+
+**7.25.34–35 (Battle Formation, Kumbhakarṇa’s Waking, and Vibhīṣaṇa’s Abstention)**
+
+Describing the classic three-part march—Indrajit commanding the vanguard (सर्वसैन्यस्य पुरस्तात्सेनासमवेताः सैनिकास्तान्परिगृह्य ययौ, **Rāma Varmā**), Rāvaṇa in the center, and Kumbhakarṇa guarding the rear (**Śivasahāya**)—Vālmīki implicitly raises a continuity question: was Kumbhakarṇa not asleep in 7.25.26? **Rāma Varmā** deftly resolves this: ‘Understand that Kumbhakarṇa had by destiny awakened and come forth for battle’ (कुम्भकर्णस्तु दैवाल्लब्धजागरो युद्धाय निर्गत इति बोध्यम्). Equally telling is 7.25.35: Vibhīṣaṇa refuses to join an unjust campaign, staying in Laṅkā (तत्रैव स्थितः, Tilaka) to practice dharma.
+
+_____________
+
+**7.25.36 (The Fantastical Aerial Armada)**
+
+Verse 36 paints a vivid tableau of rākṣasa military pageantry: instead of ordinary cavalry alone, the demon hosts darken the sky on asses, camels, blazing horses, aquatic _śiṃśumāras_ (crocodiles or river-porpoises), and colossal serpents. **Śivasahāya** highlights the visual hyperbole of कृत्वाकाशं निरन्तरम्—leaving not an inch of open air between the soaring mounts. This eerie aerial procession heightens the contrast between Rāvaṇa’s apocalyptic fury and the domestic scene of a pleading sister that will abruptly disarm him at Madhupura.
+
+_____________
+
+**7.25.37–38 (The Daitya Allies and Kumbhīnasī’s Prostration)**
+
+Drawn by shared hostility to the gods, hundreds of Daityas swell Rāvaṇa’s column (दैत्याः गच्छन्तं रावणमन्वगच्छन्, **Śivasahāya**). Yet the anticipated battle turns unexpectedly intimate: entering Madhupura, Rāvaṇa finds Madhu absent and meets his terrified sister instead. **Rāma Varmā** (_Tilaka_) glosses प्रह्वाञ्जलिः as joining her palms in a posture of humble prostration (कृतनम्रत्वचिह्नाञ्जलिः), while Śivasahāya supplies अभवत् to complete her touching gesture of touching her head to the rākṣasa king’s feet.
+
+_____________
+
+**7.25.39–40 (Rāvaṇa’s Chivalrous Assurance and Her Swift Plea)**
+
+Raising his prostrate sister from his feet (पादपतितां स्वसारम्, **Rāma Varmā**), Rāvaṇa instinctively reassures her with ‘Fear not!’ and asks what further boon he may grant. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss किं चापि करवाणि ते as ‘what other favor dear to you may I do?’ (अन्यदपि तव प्रियमित्यर्थः). With admirable presence of mind, Kumbhīnasī invokes his own graciousness (_prasanna_) and honor-giving dignity (_mānada_) to ask for her husband’s life.
+
+_____________
+
+**7.25.41 (Widowhood as the Supreme Dread of Noble Women)**
+
+Though omitted in Baroda CE, this poignant Southern Recension maxim is glossed by all three commentators. **Rāma Varmā** explains ईदृशं भयम् as ‘a terror equal to a husband’s slaying’ (भर्तृवधसमानम्), and **Govindarāja** as ‘terror born of a husband’s slaughter’ (भर्तृवधसंभवं भयम्). **Śivasahāya** frames the verse as Kumbhīnasī’s formal justification against killing Madhu (हननाभावे हेतुमाह): among all sources of dread, widowhood is the gravest misfortune for well-born women, so no fear rivals losing one’s husband.
+
+_____________
+
+**7.25.42 (Binding a King by His Own Word)**
+
+Kumbhīnasī crowns her plea with consummate diplomatic tact, reminding Rāvaṇa that he has already uttered the sovereign pledge न भेतव्यम् (‘fear not’). **Govindarāja** (_Bhūṣaṇa_) glosses सत्यवाग्भव succinctly as ‘make true your own promise of fearlessness’ (न भेतव्यमिति वचनं सत्यं कुर्वित्यर्थः). **Śivasahāya** (_Śiromaṇi_) normalizes the epic participle याचतीम् as याचन्तीम् and glosses मामवेक्षस्व as ‘grant what I entreat’ (मत्प्रार्थितं देहीत्यर्थः), showing how she turns Rāvaṇa’s regal pride into her husband’s shield.
+
+_____________
+
+**7.25.43–44 (From Vengeance to Strategic Alliance)**
+
+Disarmed by his sister’s devotion, Rāvaṇa shifts instantly from fury to familial warmth and imperial calculation. **Śivasahāya** observes that while accepting her plea to halt Madhu’s execution, Rāvaṇa immediately declares his larger purpose (वधविराममङ्गीकुर्वन् तत्प्रयोजनमाह): sparing Madhu out of compassion and affection for Kumbhīnasī (_kāruṇya-sauhārdāt_), he will recruit him as an ally in the campaign against heaven. The moment reveals Rāvaṇa’s complex character—capable of genuine affection toward his sisters even amid overweening ambition.
+
+_____________
+
+**7.25.45–46 (Kumbhīnasī’s Tactful Mediation)**
+
+Hastening indoors, Kumbhīnasī awakens the sleeping Madhu (प्रसुप्तं निशाचरं पतिं समुत्थाप्य अब्रवीत्, **Śivasahāya**)—a humorous and striking detail that Madhu slept peacefully even as four thousand _akṣauhiṇīs_ reached his city! Framing Rāvaṇa’s arrival with utmost diplomacy, she omits any mention of wrath or reprisal and presents her brother strictly as a mighty kinsman honoring Madhu by requesting his martial aid against the gods. The qualifier _samprahṛṣṭeva_ (‘as if overjoyed’) captures her immense relief at averting bloodshed between brother and husband.
+
+_____________
+
+**7.25.47 (Kumbhīnasī’s Ethic of Kinship and Madhu’s Consent)**
+
+Kumbhīnasī completes her reconciliation by appealing to the duties of alliance. **Rāma Varmā** (_Tilaka_) unpacks both participles with warm precision: स्निग्धस्य means ‘affectionate toward you for my sake’ (मदपेक्षया त्वयि स्निग्धस्य), भजमानस्य means ‘honoring you as his brother-in-law’ (त्वयि जामातृभावं भजतः), and अर्थाय कल्पितुम् means ‘fitting to furnish aid for his enterprise’ (प्रयोजनाय साहाय्यं संपादयितुं युक्तम्). **Śivasahāya** (_Śiromaṇi_) concurs, noting that Madhu accepts immediately with a simple _tathā_ (‘so be it’).
+
+_____________
+
+**7.25.48–49 (Honoring the Sovereign Guest at Madhupura)**
+
+Construing 7.25.48 as a single syntactic unit (अर्धद्वयमेकान्वयि), **Śivasahāya** traces how Madhu formally waits upon Rāvaṇa and honors him according to righteous custom. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss यथान्यायम् as offering proper guest-rites such as _arghya_ (उपचारपूर्वकम् / अर्घ्याद्युपचारमित्यर्थः). Having accepted hospitality in Madhu’s palace and rested a single night, Rāvaṇa resumes his campaign—a brief domestic interlude before his impending moral fall on Kailāsa.
+
+_____________
+
+**7.25.50 (Encamping Upon Vaiśravaṇa’s Mountain)**
+
+Marching north to Mount Kailāsa—significantly recalled as Vaiśravaṇa’s (Kubera’s) former seat (_vaiśravaṇālayam_)—Rāvaṇa camps his vast army, glowing like Mahendra (_mahendrābhaḥ_), the very king of heaven he intends to dethrone. **Śivasahāya** normalizes the epic verb उपनिवेशयत् as उपन्यवेशयत्. Narratively, this serene alpine encampment sets the stage directly for Sarga 26, where the moonlit slopes of Kailāsa become the scene of Rāvaṇa’s fateful encounter with Rambhā and Nalakūbara’s binding curse.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

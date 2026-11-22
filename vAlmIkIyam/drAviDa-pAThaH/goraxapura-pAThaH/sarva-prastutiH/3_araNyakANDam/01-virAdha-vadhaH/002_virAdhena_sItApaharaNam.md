@@ -168,6 +168,98 @@ Rama followed by Lakshmana has indeed seen that midst of the forest which is
 
 **3:** Its birds silent and ceased from warbling (_niṣkūjamāna-śakunim_), and echoing with swarms of crickets (_jhillikā-gaṇa-nāditam_)—accompanied by Lakṣmaṇa (_lakṣmaṇānucaraḥ_), Rāma beheld the heart of the forest (_vana-madhyam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.2.1 (Transition from Sarga 1 & udayanaṃ prati)**
+
+Linking Sarga 2 to Sarga 1, **Govindarāja** (_Bhūṣaṇa_) explains that after depicting the sages' hospitable service (कैङ्कर्यम्) in the opening canto, Vālmīki now demonstrates Rāma's protective might (शरण्यत्वोपयोगिसामर्थ्यम्) through the slaying of Virādha, which serves as an earnest of protection before Rāma visits Śarabhaṅga (विराधवधोपहारबलेन शरभङ्गं दृष्टवान्). On उदयनं प्रति, he notes that Rāma departed at sunrise after completing his morning rites (प्रातःस्नानादिकर्मावसान इत्यर्थः).
+
+_____________
+
+**3.2.2–3 (Signs of the Demon-Haunted Forest)**
+
+Construing verses 2–3 together (श्लोकद्वयमेकान्वयि), **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) explain that the trees and thickets were crushed (ध्वस्तवृक्षलतागुल्मम्) and water-pools obscured (दुर्दर्शसलिलाशयम्) by Virādha's massive, violent frame (तुङ्गकठिनविराधदेहसंपर्कात्). Out of terror of the demon (विराधभयात्, _Tilaka_), even the birds hid in silence (भिया निःशब्दं लीयते, _Bhūṣaṇa_), leaving only crickets chirping (झिल्लिकागणनादितम्).
+
+_____________
+
+**3.2.4–6 (Virādha's Monstrous Form)**
+
+Construing verses 4–8 as one sentence (सार्धश्लोकचतुष्टयमेकान्वयम्), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss गभीराक्षम् as having eyes sunken like deep wells (कूपवद्गाम्भीर्यवत्, निम्नाक्षम्), विषमम् as having disproportionate limbs (न्यूनोन्नतसंस्थानम्), and वसा as marrow-fat (मांसान्तर्गतस्नेहः).
+
+_____________
+
+**3.2.7–9 (pṛṣatān & kāla ivāntakaḥ)**
+
+Completing the multi-verse description of Virādha (सार्धश्लोकचतुष्टयमेकान्वयम्), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss पृषतान् as spotted deer (बिन्दुचित्रमृगान्) impaled upon an iron pike (आयसे शूले अवसज्य प्रोतान् कृत्वा) for food (भक्षणार्थम्). In काल इवान्तकः, all three commentators read काले as the cosmic dissolution (संहारकाले, युगान्तकाले) when Death (अन्तकः) rushes upon living beings.
+
+_____________
+
+**3.2.10 (aṅkenādāya & The Dual sabhāryau)**
+
+On अङ्केनादाय, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss अङ्केन as upon his hip (कटिप्रदेशेन), whereas **Śivasahāya** (_Śiromaṇi_) interprets it as swift movement (शीघ्रगत्या) placing her on his shoulders. On the dual सभार्यौ (“with a wife”), _Tilaka_ and _Bhūṣaṇa_ note that while some take भार्या generically for “woman” (योषिन्मात्रवाची) or invoke _chatri-nyāya_, the best explanation is that the wicked demon insolently accuses both brothers of sharing one wife (द्वयोरेका भार्यास्तीति दुष्टबुद्धिनेदमुक्तमिति सम्यक्, _Bhūṣaṇa_).
+
+_____________
+
+**3.2.11–12 (munidūṣakau & Enclitic vām)**
+
+On तापसयोर्वां च, **Govindarāja** (_Bhūṣaṇa_) notes the enclitic वाम् with च as _ārṣa_ (ननु वाहेति निषेधेऽपि वामादेश आर्षः), and explains मुनिदूषकौ as disgracing ascetic garb by carrying weapons (मुनिवेषविरुद्धशरचापासिधारणात्).
+
+_____________
+
+**3.2.13–14 (Ironic dhvani in Virādha's Boast)**
+
+On वरारोहा and मम भार्या भविष्यति, **Śivasahāya** (_Śiromaṇi_) discerns an auspicious double meaning hidden within Virādha's threat: taking आरोहः as her mounting upon his shoulders (मम स्कन्धयोरारोहणं यस्याः सा) and भार्या etymologically as “one to be borne and nourished” (मत्पोष्या भविष्यति), the demon's words unwittingly acknowledge Sītā as his revered mistress (सीतायां तस्य सेव्यत्वबुद्धिः संजातेति ध्वनितम्). On मृधे, all three commentators gloss it as in battle (युद्धे).
+
+_____________
+
+**3.2.15 (sagarvitam & pravāte kadalī yathā)**
+
+On सगर्वितम्, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain the -क्त suffix as forming an abstract action noun (भावे क्तः), making सगर्वितम् equivalent to सगर्वम् (“arrogant”). Glossing उद्वेगात् as out of fear (भयात्), **Śivasahāya** (_Śiromaṇi_) explains प्रवाते कदली यथा as trembling like a plantain tree buffeted by a gale (महावाते कदलीव).
+
+_____________
+
+**3.2.16–17 (mukhena pariśuṣyatā)**
+
+On परिशुष्यता, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss Rāma's parched face as contracted with grief (शोकसंकुचितेन मुखेन) upon seeing Janaka's high-born daughter seized by the monster.
+
+_____________
+
+**3.2.18–19 (dīrghadarśinī & Kaikeyī's Ulterior Design)**
+
+Unpacking या न तुष्यति राज्येन and दीर्घदर्शिनी, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Kaikeyī was not content merely with Bharata's coronation (राज्याभिषेकमात्रेण न तुष्यति), but calculated that forest exile would draw Sītā along, expose her to abduction by demons (राक्षसादिभिरपह्रियेत), plunge Rāma into fatal grief, and render her son's throne thornless (मत्पुत्रस्य राज्यं निष्कण्टकं स्यादिति कैकेयी नूनममन्यत).
+
+_____________
+
+**3.2.20 (mātā madhyamā Reconciled with kanīyasī)**
+
+Harmonizing माता मध्यमा (“middle mother”) with earlier verses calling Kaikeyī the youngest (कनीयसी), **Rāma Varmā** (_Tilaka_) explains that she is younger than Kausalyā and older than Sumitrā (कौसल्यातः कनिष्ठत्वात्सुमित्रातो ज्येष्ठत्वात्), while citing _Tīrtha_ and **Govindarāja** (_Bhūṣaṇa_) that she is youngest of the three chief queens (महिषीत्रयापेक्षया कनीयसी) yet middle relative to Daśaratha's three hundred fifty other wives (सर्वदशरथपत्न्यपेक्षया मध्यमात्वम्). _Tilaka_ adds that Rāma's lament aims to rouse Lakṣmaṇa's ardour (लक्ष्मणोत्साहवर्धनाय).
+
+_____________
+
+**3.2.21–22 (parasparśāt & ruddho nāga iva)**
+
+All three commentators construe 3.2.21 to mean that another's touch upon Sītā causes greater pain (दुःखतरम्) than Daśaratha's death or loss of sovereignty. Seeing Rāma's grief, Lakṣmaṇa hisses like a cobra confined in a charmer's basket (अहितुण्डिकेन मन्त्रबद्धः पेटीरुद्धो वा सर्प इव, _Tilaka_).
+
+_____________
+
+**3.2.23–24 (anātha iva bhūtānāṃ nāthaḥ & Lakṣmaṇa's Vow)**
+
+On मया प्रेष्येण, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply सहितः (“attended by me, your servant”). **Govindarāja** adds an esoteric interpretation (वास्तवार्थस्तु): as the Supreme Lord of all worlds (सर्वलोकानां नाथः) to whom Indra himself is compared (वासव उपमीयतेऽनेनेति वासवोपमः), why should Rāma grieve as though he were other than the Lord (अनाथ इव नाथभिन्न इव)? In 3.2.24, Lakṣmaṇa vows that the earth shall drink Virādha's lifeblood.
+
+_____________
+
+**3.2.25 (rājyakāme bharate Explained)**
+
+Addressing why Lakṣmaṇa still calls Bharata राज्यकामे (“desirous of the kingdom”) after Citrakūṭa, **Rāma Varmā** (_Tilaka_) explains that the epithet recalls the earlier appearance that first kindled Lakṣmaṇa's wrath (प्रदर्शितत्वात्तद्व्यपदेशः). **Govindarāja** (_Bhūṣaṇa_) notes that because that anger could not be loosed upon the surrendered Bharata (शरणागते भरते दुर्विमोचत्वात्), Lakṣmaṇa now discharges it upon Virādha like Indra's thunderbolt upon a mountain.
+
+_____________
+
+**3.2.26 (bhujabalavegavegitaḥ & vighūrṇitaḥ)**
+
+In the concluding _Aparavaktra_ verse, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss वेगितः (आनीतवेगः) as propelled by the speed of Lakṣmaṇa's bow-drawing arm (धनुर्राकर्षणवेगेन, _Bhūṣaṇa_), and विघूर्णितः as reeling convulsively (संजातभ्रमणः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

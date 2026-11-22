@@ -3586,6 +3586,368 @@ force and released it.
 
 Taking it up, Lakṣmaṇa fitted it to his foremost of bows (_dhanuḥśreṣṭhe yojayām āsa_), drew it back with force (_vicakarṣa ca vegena_), and loosed the shaft (_visasarja ca sāyakam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.71.1–3 (Syntactic Unity and Kinship)**
+
+_Śiromaṇi_ notes that the opening three verses form a single syntactic unit (श्लोकत्रयमेकान्वयि) linking the fall of Mahāpārśva to Atikāya's wrath. Both _Tilaka_ and _Bhūṣaṇa_ address the apparent contradiction between पितृव्यौ (`two paternal uncles') and भ्रातरौ (`two brothers') in 6.71.2: they are Atikāya's uncles (Rāvaṇa's brothers), while भ्रातरौ denotes that they were brothers to one another (अन्योन्यं भ्रातरौ), stated to emphasize their deep mutual affection (परस्परसौहार्दातिशयप्रतिपादनाय).
+
+_____________
+
+**6.71.2 (Identifications of the Uncles)**
+
+_Śiromaṇi_ identifies the two epithets युद्धोन्मत्तं (`mad for battle') and मत्तं (`frenzied') not as separate minor demons, but as descriptive appellations for Rāvaṇa's fallen brothers Mahodara and Mahāpārśva respectively (युद्धोन्मत्तं महोदरं मत्तं महापार्श्वं भ्रातरौ). Both had just been slain in the preceding cantos, prompting Atikāya's furious entry.
+
+_____________
+
+**6.71.4–6 (Chariot and Martial Panoply)**
+
+On 6.71.4, _Tilaka_ glosses the solar simile as shining like a mass of a thousand suns (सूर्यसहस्रसमुदायवद्भास्वरम्). On 6.71.5, _Bhūṣaṇa_ explains मृष्टकुण्डलः as wearing purified, burnished earrings (शुद्धकुण्डलः), while _Śiromaṇi_ traces how Atikāya stretches his bow, proclaims his lineage, and terrifies the monkeys with his bowstring's twang.
+
+_____________
+
+**6.71.7 (The Kumbhakarṇa Delusion)**
+
+All three commentators note that an unexpressed _iti_ (`thinking thus') must be supplied after कुम्भकर्णोऽयमुत्थितः, as _Bhūṣaṇa_ explicitly states (उत्थित इत्यनन्तरमितिकरणं द्रष्टव्यम्). _Śiromaṇi_ explains that upon seeing the colossal bulk of Atikāya's body (अतिकायशरीरस्य महत्त्वं दृष्ट्वा), the monkeys imagine Kumbhakarṇa himself has risen again, and as _Tilaka_ adds, they huddle together for mutual protection (परस्परं संश्रयन्ते रक्षणार्थमिति शेषः).
+
+_____________
+
+**6.71.8–9 (The Trivikrama Simile and Flight)**
+
+On 6.71.8, _Tilaka_ resolves the repeated pronoun _te_ by construing it emphatically (`those very Vānaras fled', ते एव वानरा एव विद्रवन्तीति तच्छब्दद्वयनिर्वाहः). _Śiromaṇi_ glosses _viṣṇos trivikrame_ as Viṣṇu's cosmic form at the time of striding across the three worlds (त्रयाणां लोकानां विक्रमे पादतलाक्रमणसमये विष्णोरिव), driving the bewildered monkeys to seek shelter in Rāma.
+
+_____________
+
+**6.71.11–12 (Rāma's Comfort and Inquiry)**
+
+On 6.71.11, _Tilaka_ explains सान्त्वयित्वा as reassuring the monkeys with the words `Fear not!' (मा भैष्टेत्युक्त्वा), while _Śiromaṇi_, reading महात्मानं, glosses it as `huge-bodied' (बृहच्छरीरमतिकायं दृष्ट्वा). On 6.71.12, both _Tilaka_ and _Bhūṣaṇa_ interpret हरिलोचनः as `having the gaze of a lion' (सिंहदृष्टिः).
+
+_____________
+
+**6.71.12–14 (Maheśvara Simile and Chariot-Spears)**
+
+_Śiromaṇi_ connects 6.71.12–13 as a two-verse syntactic unit (श्लोकद्वयमेकान्वयि): just as Maheśvara is encircled by fiery _bhūtas_, Atikāya stands on his thousand-horse chariot bristling with radiant pikes (भूतैर्वृतो महेश्वर इव शूलादिभिर्वृतो). On 6.71.14, _Tilaka_ notes the epic lengthening in रथशक्तीभिरिति दीर्घो छान्दसः, while _Bhūṣaṇa_ and _Śiromaṇi_ gloss it as spears mounted on the chariot gleaming like Death's tongues (कालजिह्वावत् प्रकाशो यासां ताभिः).
+
+_____________
+
+**6.71.15–17 (The Rāhu Standard)**
+
+On 6.71.15, _Śiromaṇi_ explains that the strung bows arrayed around the chariot deck it like rainbows in the sky (शक्रचापमम्बरमिव रथश्रेष्ठं शोभयन्ति). On 6.71.17, _Tilaka_ and _Bhūṣaṇa_ observe that this verse establishes Atikāya's personal emblem as the Rāhu-banner (अनेन राहुध्वजत्वमित्युक्तम्), which _Śiromaṇi_ specifies is painted or mounted atop the banner-staff (ध्वजोपरि चित्रितेन राहुणा).
+
+_____________
+
+**6.71.18 (The Thrice-Curved Bow)**
+
+_Tilaka_ glosses हेमपृष्ठं as having its outer back overlaid with gold (हेममण्डितपृष्ठभागम्). _Bhūṣaṇa_ explains त्रिणतः (_trinatam_) as curved at three points—the two tips and the central grip (त्रिषु आद्यन्तयोर्मध्ये च नतम्)—and _meghanirhrādam_ as roaring like a thundercloud (मेघस्तनिततुल्यस्वनम्).
+
+_____________
+
+**6.71.19–20 (Chariot Anatomy and Quivers)**
+
+_Bhūṣaṇa_ carefully distinguishes the chariot's fixtures in 6.71.19: ध्वजः is the distinctive personal standard (असाधारणकेतनम्), पताका is a general pennant (साधारणा), अनुकर्षः is the wooden Spare-axle beam beneath the car (रथाधःस्थदारु), and चतुःसादिसमायुक्तः means driven by four charioteers (चतुःसारथियुक्तः), matching _Tilaka_ (सादिभिः सारथिभिः). On 6.71.20, _Tilaka_ notes the sandhi division तूणा अस्येति छेदः, while _Bhūṣaṇa_ explains that कार्मुकाणि denotes special types of bows (धनुर्भेदा इति न पौनरुक्त्यम्), avoiding repetition after 6.71.15.
+
+_____________
+
+**6.71.21 (The Colossal Swords)**
+
+Commenting on the twin swords, _Bhūṣaṇa_ cites Amarasimha (त्सरुः खड्गादिमुष्टौ स्यादित्यमरः) to define _tsaru_ as a sword-hilt: the blades have hilts four cubits long (चतुर्हस्तप्रमाणाभ्यां त्सरुभ्यां खड्गमुष्टिभ्यां) and extend ten cubits in full length (दशहस्तपरिमाणेनायतौ). _Śiromaṇi_ takes _vyakta_ as `resplendent' (अतिकान्तिविशिष्टावेव).
+
+_____________
+
+**6.71.22–24 (Garland, Complexion, and Lunar Simile)**
+
+On 6.71.22, _Tilaka_ glosses रक्तकण्ठगुणो as wearing a red neck-garland (रक्तकण्ठमाल्यः), the first कालः as dark-complexioned (कृष्णवर्णः), and _kālamahāvaktraḥ_ as having a cavernous mouth like Death (कालस्य मृत्योरिव महावक्त्रं यस्य सः), framed between two earrings like the full moon between the twin stars of Punarvasu.
+
+_____________
+
+**6.71.25–27 (Rāma's Question and Rāvaṇa's Lineage)**
+
+Concluding his description of the terrifying chariot-warrior before whom all the Vānaras have scattered (यं दृष्ट्वा वानराः सर्वे भयार्ता विद्रुता दिशः), Rāma asks Vibhīṣaṇa to identify him (आचक्ष्व मे महाबाहो). Vibhīṣaṇa begins from the paternal lineage, introducing Rāvaṇa (दशग्रीवो महातेजा राजा वैश्रवणानुजः), the younger brother of Kubera and lord of the Rākṣasas.
+
+_____________
+
+**6.71.28–29 (Atikāya's Martial and Political Accomplishment)**
+
+Unlike his reckless kinsmen, Atikāya is portrayed as a cultured and disciplined prince: he serves the aged (वृद्धसेवी), retains scriptural learning (श्रुतिधरः), and excels among masters of divine missiles (सर्वास्त्रविदुषां वरः). In 6.71.29, his expertise spans both martial mounts (अश्वपृष्ठे नागपृष्ठे) and the classical instruments of royal policy—dissension, conciliation, liberality, strategy, and counsel (भेदे सान्त्वे च दाने च नये मन्त्रे च सम्मतः).
+
+_____________
+
+**6.71.30 (Maternal Parentage and Guardian of Laṅkā)**
+
+Vibhīṣaṇa culminates his introduction by naming the hero and his mother: he is Atikāya, born of Rāvaṇa's queen Dhānyamālinī (तनयं धान्यमालिन्या अतिकायमिमं विदुः), upon whose mighty arm the city of Laṅkā relies to remain fearless (यस्य बाहुं समाश्रित्य लङ्का भवति निर्भया).
+
+_____________
+
+**6.71.31–33 (Asceticism and Brahmā's Boons)**
+
+_Śiromaṇi_ glosses भावितात्मना as one whose inner self was disciplined and purified (भावितः परिशीलितः आत्मा), explaining the causal chain: because he propitiated Brahmā, he acquired celestial missiles and conquered his foes (ब्रह्मा आराधितः अत एव अस्त्राणि अवाप्तानि). On 6.71.32, both _Tilaka_ and _Śiromaṇi_ note that Brahmā granted him three distinct gifts: invulnerability to gods and demons, divine armor, and his sun-bright chariot (रविभास्वरो रथश्च दत्तः).
+
+_____________
+
+**6.71.34–35 (Baffling Indra and Varuṇa)**
+
+Both _Śiromaṇi_ and _Bhūṣaṇa_ construe 6.71.34–35 as a two-verse syntactic unit (श्लोकद्वयमेकान्वयि) pairing the relative pronoun _yena_ with _eṣo 'tikāyaḥ_. _Bhūṣaṇa_ glosses विष्टम्भितं as rendered motionless in mid-air (निश्चलीकृतम्), celebrating how Atikāya arrested Indra's thunderbolt and repelled Varuṇa's noose (सलिलराजस्य पाशः प्रतिहतः).
+
+_____________
+
+**6.71.36 (Urgency of Vibhīṣaṇa's Warning)**
+
+All three commentators highlight the syntactic force of पुरा (`before/ere long') with the present tense नयति, which by Pāṇinian idiom conveys future sense (पुरा नयति नेष्यतीत्यर्थः). _Śiromaṇi_ glosses यत्नः specifically as devising a stratagem to slay him (वधोपायः क्रियताम्) before he annihilates the monkey hosts.
+
+_____________
+
+**6.71.37–39 (The Vānara Chiefs' Assault)**
+
+_Śiromaṇi_ traces how Atikāya enters the monkey ranks twanging his bow, provoking the principal Vānara heroes to charge him (ये महात्मानो वनौकसः ते अभिपेतुः). On 6.71.39, _Tilaka_ and _Śiromaṇi_ gloss समभिद्रवन् with the standard augmented imperfect समभ्युदद्रवन्, while _Bhūṣaṇa_ explains the absence of the augment _aṭ_ by invoking the grammatical maxim that the rules of augment-insertion are non-mandatory in epic Sanskrit (आगमशास्त्रस्यानित्यत्वादडभावः).
+
+_____________
+
+**6.71.40–41 (Shattering of Crags and Iron Shafts)**
+
+_Śiromaṇi_ notes that Atikāya first intercepts and slices apart the trees and boulders hurled by Kumuda and his peers in mid-flight (तेषां कुमुदादीनां वृक्षादीन् अतिकायः चिच्छेद), and then pierces all the monkeys with all-iron shafts (सर्वान् हरीन् शरैर्विव्याध). Reading nominative अभिमुखः in 6.71.41, _Bhūṣaṇa_ supplies स्थित इति शेषः (`standing facing them').
+
+_____________
+
+**6.71.42 (Helplessness of the Vānara Vanguard)**
+
+_Śiromaṇi_ summarizes the rout of the five Vānara commanders: mangled and overwhelmed by Atikāya's incessant hail of arrows (बाणवर्षेणार्दिताः अत एव पराजिताः), they lacked the power to mount any counter-attack (ते वानराः प्रतिकर्तुं न शेकुः).
+
+_____________
+
+**6.71.43–45 (Chivalrous Disdain and Challenge)**
+
+On 6.71.43, _Tilaka_ and _Bhūṣaṇa_ gloss the second हरिः as a young lion (तरुणसिंह इव). On 6.71.44, _Tilaka_ remarks that out of true martial chivalry Atikāya refuses to strike any non-combatant (वीरत्वादयुध्यमानं कंचिदपि न निजघान). Both _Tilaka_ and _Bhūṣaṇa_ gloss कलापी as `quiver-bearing' (तूणीरवान्), whereas _Śiromaṇi_ cites Amarasimha (बर्हे तूणीरे संहतावपीत्यमरः) to interpret धनुःकलापी as carrying a bundle of bows (चापसमूहवान्). In 6.71.45, _Śiromaṇi_ explains प्राकृतं as an ordinary monkey of scant strength (अल्पबलं वानरमित्यर्थः) and व्यवसायः (with _Bhūṣaṇa_) as martial enthusiasm (उत्साहः).
+
+_____________
+
+**6.71.46–47 (Lakṣmaṇa's Disdainful Smile)**
+
+Although Atikāya's challenge was addressed to Rāma, _Tilaka_ and _Śiromaṇi_ note that Lakṣmaṇa cannot tolerate the boast (तद्वाक्यं रामं प्रत्युक्तमपि). Both _Tilaka_ and _Bhūṣaṇa_ explain स्मयित्वा not as mere laughter, but as `scorning/disdaining' (अनादृत्य), citing the Dhātupāṭha entry स्मिङ् अनादरे इति धातुः. On 6.71.47, _Tilaka_ and _Śiromaṇi_ gloss आक्षिप्य as drawing an arrow from his quiver (बाणं गृहीत्वेत्यर्थः).
+
+_____________
+
+**6.71.48 (Ellipsis of the Verb)**
+
+All three commentators observe that 6.71.48 consists of nominative participles (पूरयन्, त्रासयन्) modifying ज्याशब्दो लक्ष्मणस्योग्रः, and therefore supply a finite verb to complete the sentence: उदभूदिति शेषः (_Tilaka_), उदगादिति शेषः (_Śiromaṇi_), or अभूदिति शेषः (_Bhūṣaṇa_).
+
+_____________
+
+**6.71.49–51 (Atikāya's Amazement and Scorn)**
+
+Hearing the thunderous twang of Lakṣmaṇa's bowstring (सौमित्रेश्चापनिर्घोषं श्रुत्वा प्रतिभयं तदा), Atikāya is first struck with wonder (विसिस्मिये), but quickly turns wrathful when he sees the young prince stepping forth instead of Rāma. Nocking a sharp shaft (आदाय निशितं बाणम्), he dismisses Lakṣmaṇa as an inexperienced youth (बालस्त्वमसि सौमित्रे विक्रमेष्वविचक्षणः) courting destruction against a foe equal to Kāla.
+
+_____________
+
+**6.71.52–53 (The Sleeping Fire of Doomsday)**
+
+Atikāya boasts that neither Mount Himavān, nor the sky, nor the earth can withstand the velocity of the shafts discharged by his arms (नहि मद्बाहुसृष्टानां बाणानां हिमवानपि). Likening himself to the cosmic conflagration of Doomsday slumbering at ease (सुखप्रसुप्तं कालाग्निं विबोधयितुमिच्छसि), he counsels Lakṣmaṇa to ground his bow and retreat rather than cast away his life (न्यस्य चापं निवर्तस्व).
+
+_____________
+
+**6.71.54 (The Ultimatum)**
+
+On 6.71.54, _Tilaka_ glosses प्रतिस्तब्धो (variant _pratiṣṭabdhaḥ_) as stiffened with pride or arrogance (प्रतिस्तब्धोऽहंकारवान्निवर्तितुं नेच्छसि): if out of stubbornness Lakṣmaṇa refuses to withdraw, he is told to stand his ground (तदा तिष्ठ), only to surrender his life on the spot and depart to Yama's realm (तत्रैव प्राणान्परित्यज्य यमक्षयं गमिष्यसि).
+
+_____________
+
+**6.71.55–57 (Śiva's Trident and the Six-Pāda Verse)**
+
+On 6.71.55, _Bhūṣaṇa_ identifies the `weapon of Īśvara' (ईश्वरायुधं) to which Atikāya compares his gold-adorned arrows as Śiva's trident (त्रिशूलम्). On 6.71.56, _Śiromaṇi_ notes that the third hemistich (इत्येवमुक्त्वा संक्रुद्धः शरं धनुषि संदधे) stands as a separate syntactic clause (अयं पृथक्) bridging Atikāya's lion-and-elephant boast to Lakṣmaṇa's weighty reply (महार्थं वाक्यमुवाच).
+
+_____________
+
+**6.71.58 (Words Versus Worth)**
+
+Both _Tilaka_ and _Śiromaṇi_ explicate Lakṣmaṇa's maxim on heroism: _Tilaka_ glosses प्रधानः as `preeminent' (श्रेष्ठः), कत्थनात् as `from mere self-praise' (आत्मनः श्लाघामात्रात्), and सत्पुरुषाः as men endowed with praiseworthy virtues (श्लाघ्यगुणयुक्ता न भवन्ति). _Śiromaṇi_ paraphrases: since good men never arise from boastful self-glorification (गर्वतः कत्थनात् स्वश्लाघातः), Atikāya cannot make himself supreme merely by uttering grandiloquent words, and must instead prove his mettle against an armed opponent (मयि स्थिते सति आत्मबलं निदर्शयस्व).
+
+_____________
+
+**6.71.59–60 (Deeds as the Measure of a Hero)**
+
+On 6.71.59, _Śiromaṇi_ glosses कर्मणा specifically as `by the action of battle' (युद्धक्रियया आत्मानं सूचय): a warrior who stands on a war-chariot fully armed must demonstrate his valor through shafts or celestial missiles (शरैर्वा यदि वाप्यस्त्रैर्दर्शयस्व पराक्रमम्), not empty vaunts.
+
+_____________
+
+**6.71.61–62 (The Palmyra Simile and Arrow-Wounds)**
+
+On 6.71.61, both _Śiromaṇi_ and _Bhūṣaṇa_ cite Amarasimha (वृन्तं प्रसवबन्धनमित्यमरः) to gloss वृन्तात् as `from the fruit-stem': Lakṣmaṇa will sever Atikāya's head as effortlessly as a gale detaches a fully ripened palmyra fruit. On 6.71.62, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain बाणशल्यान्तरोत्थितम् as blood gushing from the deep cavities bored by his arrowheads (बाणशल्यकृतच्छिद्रान्निःसृतं रुधिरं).
+
+_____________
+
+**6.71.63–64 (Youth No Bar to Valor—The Vāmana Exemplum)**
+
+On 6.71.63, _Tilaka_ and _Bhūṣaṇa_ supply मामिति शेषः (`know me, standing before you, to be Death himself', मृत्युं जानीहि). On 6.71.64, _Tilaka_ observes that to prove youth is no impediment to martial might (बाल्यं न प्रतिबन्धकं पराक्रमे), Lakṣmaṇa adduces the exemplar of Viṣṇu in His dwarf incarnation (वामनेनेत्यर्थः), who as a boy measured out the three worlds in three strides (बालेन विष्णुना त्रिविक्रमैस्त्रिभिः पादैः त्रयो लोकाः क्रान्ताः).
+
+_____________
+
+**6.71.65–66 (Celestial Spectators and the Sky-Swallowing Shaft)**
+
+As Vidyādharas and sages gather aloft, Atikāya fires his opening shaft. Both _Tilaka_ and _Bhūṣaṇa_ explain the vivid poetic fancy (_utprekṣā_) संक्षिपन्निव चाम्बरम्: by the sheer velocity of the arrow, he seemed to swallow or collapse the intervening expanse of sky (बाणवेगेनान्तरालस्थितमाकाशं ग्रसन्निव).
+
+_____________
+
+**6.71.67–68 (The Crescent Arrow and the Lopped Serpent)**
+
+_Śiromaṇi_ notes that Lakṣmaṇa intercepts Atikāya's venomous oncoming shaft with a specialized crescent-tipped arrow (अर्धचन्द्रेण शरविशेषेण लक्ष्मणः चिच्छेद). Seeing his shaft sliced in two in mid-air like a snake with its hood cut off (कृत्तभोगमुरगमिव निकृत्तं तं शरं दृष्ट्वा), the furious demon immediately nocks five arrows at once (पञ्च बाणान् समादधे).
+
+_____________
+
+**6.71.69–71 (Mid-Air Interception and Counter-Attack)**
+
+_Śiromaṇi_ traces the rapid exchange: Bharata's younger brother cuts down all five of Atikāya's shafts before they can reach their mark (अप्राप्तान् तान् शरान् बाणैश्चिच्छेद), selects another blazing arrow (बाणं शरान्तरमाददे), fits it to his great bow, draws it with full vigor, and releases it.
+
+_____________
+
+**6.71.72 (The Smooth-Knotted Shaft)**
+
+All three commentators gloss the technical archery epithets in 6.71.72: _Tilaka_ and _Śiromaṇi_ explain पूर्णायतविसृष्टेन as discharged after being drawn back to the ear's full span (पूर्णाकर्षणपूर्वकं विसृष्टेन त्यक्तेन), while _Bhūṣaṇa_ explains नतपर्वणा as having sunken, flush reed-joints—that is, perfectly straight and smooth (निलीनपर्वणा ऋजुनेति यावत्)—striking Atikāya squarely in the forehead (ललाटे आजघान).
+
+_____________
+
+**6.71.73–74 (Serpent on a Crag and the Gateway of Tripura)**
+
+_Śiromaṇi_ explains the double simile as Lakṣmaṇa's arrow lodges in Atikāya's brow: bathed in blood (अक्तः सिषिचे, _Bhūṣaṇa_), the shaft looks like a king-cobra on a mountain peak (अचले पन्नगेन्द्र इव ददृशे), while the staggering giant sways like the towering city-gate of the triple demon fortress (त्रिपुरगोपुरं त्रिपुरद्वारम्, _Bhūṣaṇa_) when struck by Śiva's arrow (रुद्रबाणेन हतं त्रिपुरगोपुरं यथा).
+
+_____________
+
+**6.71.75–76 (Chivalrous Tribute and Posture)**
+
+Both _Śiromaṇi_ and _Bhūṣaṇa_ construe 6.71.75–76 as a single syntactic sentence (चिन्तयामासेत्यादिश्लोकद्वयमेकान्वयम्). _Tilaka_ and _Bhūṣaṇa_ explain that after regaining consciousness (आश्वस्य संज्ञां प्राप्य) and deliberating on his course of action (विमृश्य करणीयं निश्चित्य), Atikāya commends Lakṣmaṇa as a praiseworthy adversary (मे साधु श्लाघनीयो रिपुरसीति). Glossing विधायैवं as `having spoken thus' (अभिधाय) and reading विनम्यास्यं, _Bhūṣaṇa_ describes him bowing his head slightly and steadying his arms (भुजौ नियम्य वशे स्थापयित्वा) as he maneuvers his chariot.
+
+_____________
+
+**6.71.77–78 (Escalating Volleys)**
+
+Reading एकं त्रीन्पञ्च सप्तेति, _Śiromaṇi_ and _Bhūṣaṇa_ note that Atikāya escalates his rate of fire in progressive salvos of one, three, five, and seven gold-feathered shafts, making the firmament appear ablaze (अम्बरं दीप्तमिव चक्रुः).
+
+_____________
+
+**6.71.79–82 (The Chest-Wound and the Rutting Elephant Simile)**
+
+After Lakṣmaṇa calmly slices through Atikāya's arrow-volleys (राक्षसोत्सृष्टान् शरौघान् शरैः प्रचिच्छेद), the enraged demon strikes him between the breasts (स्तनान्तरे आजघान). On 6.71.82, _Śiromaṇi_ brings out the force of the elephant simile: far from weakening him, the crimson blood flowing from Lakṣmaṇa's chest betokens heightened martial ardor, just like the rut-fluid streaming from an elephant in musth (मदं युद्धोत्साहविशिष्टं यथा भवति तथा मत्तो द्विप इव सुस्राव).
+
+_____________
+
+**6.71.83 (Instantaneous Extraction of the Dart)**
+
+How did Lakṣmaṇa rid himself of the embedded arrowhead without surgery? _Tilaka_ and _Śiromaṇi_ point to the pregnant epithet विभुः (`lordly/omnipotent') as supplying the reason (आत्मानं विशल्यं चकारेत्यत्र हेतुः विभुरिति): _Tilaka_ explains that he possessed knowledge of the mystic missile-spell for extracting darts (निष्कर्षकशस्त्रानुसंधानवानित्यर्थः), while _Śiromaṇi_ adds that by the mere touch of his divine body the dart was neutralized (शरीरसम्बन्धमात्रेण शल्यो ध्वस्त इत्यर्थः), whereupon he consecrated a fresh shaft with an _astra_-mantra (अस्त्रेण मन्त्रेण समादधे अभिमन्त्रयामास).
+
+_____________
+
+**6.71.84 (The Āgneya Missile)**
+
+_Bhūṣaṇa_ notes that 6.71.84 specifies the general statement of the preceding verse (पूर्वोक्तस्यैव विवरणम्): the mantra with which Lakṣmaṇa charges his shaft is the missile of Agni (आग्नेयेन तदास्त्रेण), causing both arrow and bow to burst into flame.
+
+_____________
+
+**6.71.85–87 (The Āgneya and Sūrya Missiles)**
+
+On 6.71.85, _Bhūṣaṇa_ glosses समाददे as mentally invoking the missile-spell (अनुससारेत्यर्थः). While our text calls Atikāya's weapon रौद्रमस्त्रं (`fierce missile') in 6.71.85 and specifies it as सूर्यास्त्रयोजितम् (`conjoined with the Sun-missile') in 6.71.87, the Baroda Critical Edition reads _sauram astram_ directly in 6.71.85. On 6.71.86, _Tilaka_ explains शरमाहितम् as an arrow infused with celestial missile-potency (आहितदिव्यास्त्रशक्तिम्), while _Bhūṣaṇa_ glosses आहितं as `fitted to the bowstring' (संहितम्).
+
+_____________
+
+**6.71.88–89 (Mutual Annihilation of the Fiery Shafts)**
+
+Because both Agni and Sūrya are igneous principles, neither missile can overpower the other: _Śiromaṇi_ describes how the two shafts collide in mid-air with flaming tips like two furious cobras (तेजसा संप्रदीप्ते अग्रे ययोस्तौ उभौ बाणौ अम्बरे आकाशे अन्योन्यमभिजघ्नतुः). As _Tilaka_ notes on 6.71.89, though both had blazed brilliantly in flight, their mutual impact reduces them to cold ash on the ground (दीप्यमानौ तावपि परस्पराभिघातान्न भ्राजेते).
+
+_____________
+
+**6.71.90 (Tvāṣṭra-Aiṣīka Countered by Aindra)**
+
+Escalating the duel of celestial weapons, Atikāya hurls the reed-missile of Tvaṣṭṛ (त्वाष्ट्रमैषीकमुत्सृजत्), which Lakṣmaṇa promptly shatters with Indra's missile (अस्त्रमैन्द्रेण).
+
+_____________
+
+**6.71.91–93 (The Yāmya and Vāyavya Exchange)**
+
+_Śiromaṇi_ explains that upon seeing his Tvāṣṭra reed-missile baffled, Atikāya invokes the missile presided over by Yama (याम्येन यमदैवत्यमन्त्रेणास्त्रेण), which Lakṣmaṇa neutralizes with the Wind-god's missile (वायव्येनास्त्रेण निजघान तदस्त्रमिति शेषः) before unleashing torrents of ordinary shafts like a storm-cloud (वर्षाभिस्तोयद इव लक्ष्मणः शरधाराभिः रावणात्मजमभ्यवर्षत).
+
+_____________
+
+**6.71.94–95 (Arrows Shattered on Diamond Armor)**
+
+Both _Tilaka_ and _Śiromaṇi_ explain the compound भग्नाग्रशल्याः: when Lakṣmaṇa's arrows strike Atikāya's diamond-studded corselet (वज्रभूषिते कवचे), the very tips of their metal heads snap off (भग्नोऽग्रशल्यो शल्याग्रभागो येषां ते सन्तो महीतले पेतुः). Seeing his shafts fall uselessly (तान् बाणान् मोघान् निष्फलानभिसंप्रेक्ष्य), Lakṣmaṇa redoubles his assault with a thousand arrows.
+
+_____________
+
+**6.71.96 (The Impenetrable Corselet)**
+
+_Tilaka_ glosses the epic passive participle वृष्यमाणः as `being rained upon' (क्रियमाणवर्षः), while _Śiromaṇi_ notes that because Atikāya wears Brahmā's invulnerable armor (अवध्यकवचोऽतिकायः), he feels no pain despite the deluge of shafts (नैव विव्यथे).
+
+_____________
+
+**6.71.97–100 (The Expanded Chariot-Destruction Episode)**
+
+Verses 97–100 (printed in brackets in the Nirṇayasāgara text and absent from the Baroda Critical Edition) narrate a brief reversal in which Atikāya momentarily stuns Lakṣmaṇa with a serpent-shaft in a vital spot (मर्मदेशे शरेण ह), whereupon the recovered prince slays his horses and charioteer with four shafts (निजघान हयान् संख्ये सारथिं च) and shreds his Rāhu banner (ध्वजस्योन्मथनं कृत्वा).
+
+_____________
+
+**6.71.101 (Vāyu's Epiphany)**
+
+Resuming the main text, _Śiromaṇi_ glosses रुजं as bodily injury (अङ्गमर्दं कर्तुं न शशाक): seeing that even Lakṣmaṇa's deadliest shafts cannot harm Atikāya, the Wind-god Vāyu approaches the prince in person on the battlefield to reveal the secret of the demon's vulnerability (एनं लक्ष्मणमभ्युपागम्य वायुर्वाक्यमुवाच).
+
+_____________
+
+**6.71.102 (The Mandate of the Brāhma Missile)**
+
+_Śiromaṇi_ traces the tight syllogistic reasoning of Vāyu's counsel: because Atikāya holds Brahmā's boon and wears impenetrable armor (अत एव अवध्येन कवचेनावृतः), only Brahmā's own presiding weapon can cleave him (ब्राह्मेणास्त्रेण एनं राक्षसं भिन्धि); in the six-pāda verse's closing hemistich, _Śiromaṇi_ glosses कवची as `wearing that celestial corselet' (कवचधारी बली एष राक्षसः अन्येषामवध्यः).
+
+_____________
+
+**6.71.103–104 (Invocation of the Brahmāstra and Cosmic Portents)**
+
+On 6.71.103, _Bhūṣaṇa_ glosses ब्राह्ममस्त्रं नियोज्य as mentally reciting the spell of the Brahmāstra (ब्रह्मास्त्रमन्त्रं नियोज्य जपित्वेति यावत्). On 6.71.104, both _Śiromaṇi_ and _Bhūṣaṇa_ explain the grammatical agreement of the singular verb तत्रास (`trembled') with the plural subjects (दिशश्च चन्द्रार्कमहाग्रहाश्च): by syntactic modification of number (वचनविपरिणामेनान्यत्राप्यन्वयः), the plural तस्रुः is understood (दिशश्चेत्यादौ तस्रुरिति विपरिणम्यानुषज्यते), while `the quarters' denote their presiding deities (दिक्पदेन तद्देवतानां ग्रहणात्त्राससंभवः).
+
+_____________
+
+**6.71.105 (The Thunderbolt-Like Envoy of Yama)**
+
+_Śiromaṇi_ traces the chain of epithets modifying the fatal shaft: because it is infused with Brahmā's supreme missile (ब्रह्मणोऽस्त्रेण युक्तम्), it is resistless as Indra's thunderbolt (अत एव वज्रकल्पम्) and deadly as Yama's emissary (अत एव यमदूतकल्पं), which Lakṣmaṇa launches at Rāvaṇa's son (इन्द्रारिसुतस्योपरि ससर्ज).
+
+_____________
+
+**6.71.106–107 (The Unstoppable Flight)**
+
+_Śiromaṇi_ analyses लक्ष्मणोत्सृष्टविवृद्धवेगं as a shaft whose natural velocity is multiplied by Lakṣmaṇa's mighty release (लक्ष्मणोत्सृष्टेन विवृद्धो वेगो यस्य तं) and whose fletching gleams like Garuḍa's wings and diamonds (सुपर्णवज्रोत्तमवत् चित्रं पुङ्खं यस्य तं), brushing aside Atikāya's desperate counter-volleys.
+
+_____________
+
+**6.71.108 (Atikāya's Final Defensive Barrage)**
+
+Even as the Brahmāstra closes in like the flaming Fire of Doomsday (प्रदीप्तान्तककालकल्पम्), Atikāya displays unyielding martial composure (अविपन्नचेष्टः), hurling a whole arsenal of hand-weapons—javelins, swords, maces, axes, and pikes (जघान शक्त्यृष्टिगदाकुठारैः शूलैः शरैश्चाप्यविपन्नचेष्टः)—in a futile attempt to deflect the shaft.
+
+_____________
+
+**6.71.109–110 (Decapitation and the Himavān Simile)**
+
+Nullifying every miraculous weapon in its path (तान्यायुधान्यद्भुतविग्रहाणि मोघानि कृत्वा), the fire-bright arrow shears off Atikāya's crowned head (किरीटजुष्टं तदातिकायस्य शिरो जहार). Still encased in its war-helmet (सशिरस्त्राणं), the giant head crashes to the ground like a sundered peak of Mount Himavān (पपात सहसा भूमौ शृङ्गं हिमवतो यथा)—fulfilling Lakṣmaṇa's vow in 6.71.61.
+
+_____________
+
+**6.71.111 (Dismay of the Surviving Rākṣasas)**
+
+On 6.71.111, _Bhūṣaṇa_ records the variant reading तं तु भूमौ निपतितं दृष्ट्वा विक्षिप्तभूषणम् (`seeing him fallen on the ground with his ornaments scattered'), as the surviving Rākṣasa troops stand paralyzed with grief and terror.
+
+_____________
+
+**6.71.112–113 (The Rout of Atikāya's Retinue)**
+
+Exhausted by Lakṣmaṇa's arrow-storm (प्रहारजनितश्रमाः) and crestfallen at their champion's decapitation, the surviving demons raise hoarse, discordant shrieks (विनेदुरुच्चैर्बहवः सहसा विस्वरैः स्वरैः). In 6.71.113, _Bhūṣaṇa_ notes the smoother reading ते त्वरितमिति (`they fled swiftly') for तत्परितं, as the leaderless troops abandon the field without looking back (निरपेक्षा निशाचराः) and stampede toward the gates of Laṅkā (पुरीमभिमुखा भीता द्रवन्तो नायके हते).
+
+_____________
+
+**6.71.114 (The Lotus-Faced Vānaras' Acclaim)**
+
+In contrast to the wailing demons, the Vānaras—who at the opening of the sarga had fled in terror mistaking Atikāya for Kumbhakarṇa—now beam with faces like blossoming lotuses (प्रफुल्लपद्मप्रतिमाननास्तदा) and acclaim Lakṣmaṇa as the achiever of his cherished aim (अपूजयँल्लक्ष्मणमिष्टभागिनं) upon the fall of that unassailable foe (हते रिपौ भीमबले दुरासदे).
+
+_____________
+
+**6.71.115 (Triumphant Return to Rāma)**
+
+The sarga closes in a grand long-meter coda as Lakṣmaṇa, having felled the cloud-huge giant (अतिबलमतिकायमभ्रकल्पं युधि विनिपात्य), receives the homage of the monkey hosts and hastens back to his elder brother's side—setting the stage for Rāvaṇa's despair in Sarga 72 (अतिकायं हतं श्रुत्वा लक्ष्मणेन महात्मना).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

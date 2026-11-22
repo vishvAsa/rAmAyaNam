@@ -2828,6 +2828,206 @@ since the bondage of that missile does not indeed coexist with another bondage.
 
 Bound with that bark-rope (_baddhas tena valkena_), that valiant one was released by the mystic missile (_vimukto &#x27;streṇa_); for that missile-bond does not coexist with another bond (_astrabandhaḥ sa cānyaṃ hi na bandham anuvartate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.48.1–2**
+
+Rāma Varmā's _Tilaka_ explains मनः समाधाय as steadying his mind, though grieved by his son's death, so as not to betray fear (पुत्रनाशखिन्नमपि चेतो धीरतयाऽप्रकाशितभयं प्रतिपाद्य), while Śivasahāya's _Śiromaṇi_ glosses it as casting off grief (शोकं विहाय) and Govindarāja's _Bhūṣaṇa_ as summoning fortitude (धैर्यं कृत्वेत्यर्थः). On 5.48.2, _Tilaka_ and _Bhūṣaṇa_ explain पितामहाराधनसंचितास्त्रः as having acquired the _brahmāstra_ by propitiating Brahmā (लब्धब्रह्मास्त्रोऽसीत्यर्थः).
+
+_____________
+
+**5.48.3–4**
+
+_Tilaka_ and _Śiromaṇi_ note that even when sheltered by Indra (सुरेश्वरसमाश्रिता अपि), the gods and Maruts could not withstand Indrajit's missile-power (त्वदस्त्रबलमासाद्य). On 5.48.4, all three commentaries explain the double negative न कश्चित् ... न गतश्रमः: in the three worlds, no one fighting Indrajit fails to become exhausted (सर्वे प्राप्तश्रमा इत्यर्थः); _Bhūṣaṇa_ analyzes गतश्रमः as प्राप्तश्रमः (प्रादिसमासः) and remarks that even Hari and Hara grow weary before him (हरिहरादयोऽपि श्रमं प्राप्नुवन्तीत्यर्थः).
+
+_____________
+
+**5.48.5–6**
+
+_Tilaka_ and _Bhūṣaṇa_ explain त्रिषु संग्रहेषु as in the three worlds, which are gathered as objects of enjoyment by living beings (भोक्तृभिः कर्मणा संगृह्यन्त इति संग्रहा लोकास्तेषु). On 5.48.6, all three commentaries gloss रणावमर्दे as the press of battle (युद्धसंघट्टे, रणसंकटे) and श्रमं न गच्छति as does not sink into despondency (विषादं न गच्छति), since Rāvaṇa's mind is assured of victory (निश्चितार्थं निश्चितजयरूपार्थं).
+
+_____________
+
+**5.48.7–9**
+
+Recounting the fall of the Kiṅkaras, Jambumālin, the ministers' sons, the five generals, and Akṣa (सूदितो निहतः), Rāvaṇa declares in 5.48.8c that his true confidence (सारः उत्कर्षबुद्धिः in _Tilaka_; उत्कर्षप्रत्ययः in _Bhūṣaṇa_; सारो बलं in _Śiromaṇi_) abides in Indrajit alone, not in those slain warriors (त्वयि मे यः सारः ... स तेषु न त्वेवेत्यन्वयः). On 5.48.9, _Bhūṣaṇa_ distinguishes बलम् as bodily strength (शारीरम्), प्रभावम् as inner potency (अन्तःशक्तिम्), and पराक्रमम् as valor (पौरुषम्).
+
+_____________
+
+**5.48.10–11**
+
+All three commentaries explain that when Indrajit—by whom foes are quelled (शान्तशत्रौ शमितशत्रौ)—draws near Hanūmān (त्वयि संनिकृष्टे), the slaughter of Rāvaṇa's troops (बलावमर्दः सेनानाशः) will cease (शाम्यति). On 5.48.11, _Tilaka_ explains why armies and ordinary weapons fail: troops perish in droves (सेना गणशो च्यवन्ति प्रलायन्ते नश्यन्ति च, noting the archaic sandhi गणशो च्यवन्तीत्यत्रोत्वमार्षम्), the Wind-son's speed is boundless (गतेः सामर्थ्यस्य प्रमाणं परिच्छेदो नास्ति), and being like fire (अग्निकल्पः), he cannot be slain with steel (करणेन शस्त्ररूपेण हन्तुं न शक्यः).
+
+_____________
+
+**5.48.12**
+
+_Tilaka_ and _Bhūṣaṇa_ explain that because Hanūmān cannot be subdued without mystic missiles (अस्त्रबलं विना स निग्रहीतुमशक्यः), Indrajit must proceed with single-minded concentration (समाहितात्मा एकाग्रचित्तः), recalling the divine missile-potency of his bow (दिव्यास्त्रमोक्षसामर्थ्यं स्मरन्), and accomplish an unblemished feat (अक्षतं परकीयप्रहारहीनं).
+
+_____________
+
+**5.48.13–14**
+
+Reading vocative मतिश्रेष्ठ (हे मतिश्रेष्ठ प्रशस्तबुद्धे), _Tilaka_ supplies उचिता: sending so beloved a son into such peril is not welcome (इयं प्रेषणा नोचिता खलु), yet it is sanctioned by royal polity and the Kṣatriya code (राजधर्माणामस्माकं तथा क्षत्रस्य क्षत्रियस्य च मतैव). _Śiromaṇi_ and _Bhūṣaṇa_, reading मतिः श्रेष्ठा, explain that although sending a young prince seems harsh, dispatching the chief warrior when others have fallen conforms to statecraft (नीतिशास्त्रविहितम्). On 5.48.14, all three gloss वैशारद्यम् as skill in weapons (प्रहरणसामर्थ्यम्, नैपुण्यम्) to be recalled (बोद्धव्यं स्मर्तव्यम्).
+
+_____________
+
+**5.48.15–16**
+
+All three commentaries explain दक्षसुतप्रभावः as possessing the might of the gods, the sons of Dakṣa (दक्षसुता देवाः, with _Bhūṣaṇa_ citing _Viṣṇupurāṇa_). Hearing his father's command, Indrajit circumambulated his lord Rāvaṇa (भर्तारं राजानं रावणं प्रदक्षिणं चकार) and set forth honored by his courtier-companions (स्वगणैरन्यैः सभ्यै राक्षसैः).
+
+_____________
+
+**5.48.17–18**
+
+_Tilaka_ and _Śiromaṇi_ note that Indrajit surged forth like the ocean swelling at the full moon (पर्वणि वर्धमानः समुद्र इव). On 5.48.18, _Tilaka_ explains पक्षिराजोपमतुल्यवेगैः as matching Garuḍa in speed and equal in speed to one another (पक्षिराजोपमैरन्योन्यतुल्यवेगैश्च), as Indrajit mounted his chariot yoked with four fierce tigers (व्याघ्रैः).
+
+_____________
+
+**5.48.19–21**
+
+Foremost of archers and master of weapons and mystic missiles, Indrajit drove swiftly to Hanūmān's station. Hearing the rumble of his chariot and the twang of his bowstring (रथनिर्घोषं ज्यास्वनं कार्मुकस्य च), the monkey-hero grew even more exhilarated (सम्प्रहृष्टतरोऽभवत्), while battle-skilled Indrajit took up his bow and sharp-barbed arrows (शितशल्यान् तीक्ष्णाग्रभागान् सायकान्, _Śiromaṇi_) and advanced toward Hanūmān (हनुमन्तमभिप्रेत्य जगाम).
+
+_____________
+
+**5.48.22–23**
+
+_Tilaka_ construes संयति जातहर्षे as rejoicing in the prospect of combat (संयति तद्विषये जातहर्षे) and notes that 5.48.22cd describes ominous portents (उत्पातवर्णनम्): all directions grew dark (दिशश्च सर्वाः कलुषा बभूवुः) and fierce beasts such as jackals howled (रौद्रा मृगाः क्रोष्टुप्रभृतयः). Meanwhile, Nāgas, Yakṣas, great sages, and Siddhas coursing through all quarters (चक्रचराः सर्वदिश्चारिणः, _Bhūṣaṇa_), along with flocks of birds covering the sky, cried out aloud in joy (नभः समावृत्य उच्चैर्विनेदुः).
+
+_____________
+
+**5.48.24**
+
+Both _Tilaka_ and _Śiromaṇi_ explain इन्द्रध्वजम् as a chariot bearing a banner marked with the emblem of Indra (इन्द्राकारचिह्नध्वजम्, इन्द्राकारचिह्नध्वजविशिष्टं रथं); beholding it speeding toward him, Hanūmān uttered a thunderous roar and expanded his body (ननाद व्यवर्धत च).
+
+_____________
+
+**5.48.25–26**
+
+_Tilaka_ and _Śiromaṇi_ gloss तडिदूर्जितनिःस्वनम् as resounding mightily like lightning (तडिदिवोर्जितस्वनं च). _Bhūṣaṇa_ explains that तडित् here denotes the thunderbolt born of lightning (अत्र तडिच्छब्देन तत्सङ्घातोऽशनिरुच्यते), meaning crashing like a thunderclap (अशनिसदृशनिःस्वनमित्यर्थः). On 5.48.26, meeting fearless on the battlefield, the monkey and Rāvaṇa's son clashed like Indra and the lord of Asuras (सुरासुरेन्द्राविव बद्धवैरौ).
+
+_____________
+
+**5.48.27–29**
+
+_Tilaka_ glosses व्यहनत् as shattered (अभिनत्) and _Śiromaṇi_ as warded off (अवारयदित्यर्थः), as immeasurable Hanūmān coursed along his father Vāyu's aerial path (पितुर्वायोर्मार्गे चचार च). In 5.48.28–29, _Tilaka_ glosses सुपत्रिणः as winged with vulture feathers (कङ्कादिपक्षयुक्तान्) and सुसंततान् as unceasing (अविरतान्, or अतिदृढान् in _Śiromaṇi_); hearing the din of Indrajit's chariot (तत्स्यन्दनस्य इन्द्रजिद्रथस्य निःस्वनं), battle-drums, and drawn bow, Hanūmān leaped skyward again.
+
+_____________
+
+**5.48.30**
+
+_Tilaka_ and _Bhūṣaṇa_ gloss अभिलक्ष्यस्य as famed for hitting the mark (लक्ष्यवेधने प्रसिद्धस्य) or aiming at his chosen target (अभिमतलक्ष्यस्य), लक्ष्यसंग्रहम् as the arrows' striking of the target (लक्ष्यविषयवेधमिति यावत्), and मोक्षयन् as frustrating (मोघीकुर्वन्, वितथयन्), as Hanūmān wheeled rapidly (व्यावर्तत परिवर्तते स्म) between the shafts.
+
+_____________
+
+**5.48.31–33**
+
+_Śiromaṇi_ explains that Hanūmān darted ahead of Indrajit's speeding arrows, outrunning them in mid-air (तच्छरेण सह धावन् धावन् ततोऽग्रे निर्गच्छतीत्यर्थः), and leaped aloft spreading his hands (हस्तौ प्रसार्य उत्पपात). Both warriors waged a supreme duel captivating the minds of all creatures (सर्वभूतमनोग्राहि), and neither could detect an opening or flaw (अन्तरं छिद्रम् in _Bhūṣaṇa_; अवकाशं in _Śiromaṇi_) in the other, proving mutually intolerable (निर्विषहौ दुःसहवेगौ, असह्यौ).
+
+_____________
+
+**5.48.34**
+
+_Tilaka_ and _Bhūṣaṇa_ explain लक्ष्ये विहन्यमाने by taking root _han-_ in its sense of motion (हन्तेर्गत्यर्थात् कर्मकर्तरि शानच्): even as unerring shafts rained down, the target Hanūmān was slipping away of his own accord (शरेभ्यः स्वयमेव मुच्यमाने, स्वयं तेभ्यो विच्च्यवमाने सति). _Śiromaṇi_ alternatively takes विहन्यमाने as being struck yet not deprived of life (ताड्यमाने सत्येव न तु प्राणैर्विमुक्ते). Concentrating his mind in meditation (समाधिसंयोगेन ध्यानसंबन्धेन), Indrajit fell into deep reflection.
+
+_____________
+
+**5.48.35–36**
+
+All three commentaries explain that perceiving Hanūmān's invulnerability to death (अवध्यतां तस्य कपेः समीक्ष्य), Indrajit pondered how to immobilize and capture him (निग्रहार्थं बन्धनार्थं ... कथं निगच्छेत् कथं निश्चेष्टो भवेदिति) and aimed the missile of Brahmā (पैतामहमस्त्रं संदधे ब्रह्मास्त्रसंधानमकरोत्).
+
+_____________
+
+**5.48.37–38**
+
+_Tilaka_ notes that realizing Hanūmān could not be slain even by the _brahmāstra_ (ब्रह्मास्त्रेणाप्यवध्यतां ज्ञात्वा), Indrajit bound him (निजग्राह अस्वतन्त्रयत्; बबन्ध in _Bhūṣaṇa_) with that missile; bound by the Rākṣasa with that weapon (राक्षसेन अस्त्रेण करणेन बद्धः), the monkey became motionless (निर्विचेष्टोऽभवत्) and fell to the earth.
+
+_____________
+
+**5.48.39–40**
+
+_Tilaka_ explains प्रभोः प्रभावाद् विगताल्पवेगः as free from even the slightest pain or fear (विगतोऽप्राप्तोऽल्पोऽपि वेगः पीडा येन तादृशः अभीतचित्त इति यावत्) through the grace of Lord Brahmā's boon (प्रभोर्ब्रह्मणः प्रभावाद्वरदानात्), whereas _Śiromaṇi_ takes प्रभोः as Lord Rāma. Recognizing the _brahmāstra_ consecrated with mantras sacred to Svayambhū (स्वायम्भुवैः स्वयंभूदैवत्यैः मन्त्रैरभिमन्त्रितं), Hanūmān recalled the Grandsire's boon that its restraint would last only a single _muhūrta_ (मुहूर्तमात्रेण मदस्त्रनिरोधमुक्तिरित्येवंरूपम्).
+
+_____________
+
+**5.48.41–42**
+
+All three commentaries explain that out of reverence for the World-Preceptor Brahmā (लोकगुरोर्ब्रह्मणः प्रभावात्), Hanūmān reflects that he must submit to the missile-bond of the Self-born (आत्मयोनेरस्त्रबन्धो मयानुवर्तितव्य एव मुहूर्तमात्रं सोढव्य एव), and while contemplating his power of release after a _muhūrta_ (मुहूर्तानन्तरभाविनीं विमोक्षशक्तिं चिन्तयित्वा), he honored the Grandsire's command (पितामहाज्ञामनुवर्तते स्म).
+
+_____________
+
+**5.48.43–44**
+
+_Tilaka_ and _Bhūṣaṇa_ recall the boons of immunity granted by Brahmā, Mahendra, and Vāyu in Hanūmān's childhood after he leaped toward the sun (स्वस्यादित्यग्रासानन्तरं पितामहमहेन्द्राभ्यामनिलैश्च रक्षितत्वान्न मे भयमित्यर्थः). Moreover, in being captured by the Rākṣasas, Hanūmān foresees a great strategic benefit (महद्गुणदर्शनम्, glossed by _Bhūṣaṇa_ as गुणपर्यवसायी): a direct interview with Rāvaṇa (राक्षसेन्द्रेण संवादः).
+
+_____________
+
+**5.48.45–47**
+
+Acting with deliberation (समीक्ष्यकारी विचारपूर्वकं कार्यकर्ता) and suspending his movements (विनिवृत्तचेष्टः), Hanūmān feigned pain and cried out (पीडित इव ननाद) when seized and menaced by the Rākṣasas, who bound him with cords of hemp-bark and tree-bast (शणवल्कैश्च द्रुमचीरैश्च संहतैः); intent on gaining an audience with Rāvaṇa (कौतूहलान्मां द्रष्टुं व्यवस्येदिति निश्चितार्थः), he gladly accepted (रोचयामास) both their binding and their rough treatment (अभिगर्हणं दुःखं च).
+
+_____________
+
+**5.48.48**
+
+_Tilaka_ and _Śiromaṇi_ note that his release from the mystic missile occurred at that very instant (अस्त्रबन्धमोक्षोऽपि तदैवाजायत): once bound with bark-ropes (वल्केन बद्धः), Hanūmān was freed from the _brahmāstra_ (अस्त्रेण तु विमुक्तः), because a mantra-bond never abides alongside an ordinary physical bond (अस्त्रबन्धो मन्त्रबन्धोऽन्यं बन्धं नानुवर्तते इतरबन्धेन सह न तिष्ठति).
+
+_____________
+
+**5.48.49–50**
+
+_Tilaka_ explains that Indrajit too perceived Hanūmān's release from the missile (अस्त्रमोक्षमिन्द्रजिदपि ज्ञातवानित्याह), marveling that although bound with bark-cords, Hanūmān still acted as if bound by the missile (अन्येन बद्धोऽपि हनुमानस्त्रमनुवर्ततेऽस्त्रेण बद्ध इव वर्तत इत्यपि विचार्य चिन्तां जगाम); under the variant नान्येन बद्धो ह्यनुवर्ततेऽस्त्रम् (adopted by _Bhūṣaṇa_: अन्येन शणवल्कादिना बद्धः अस्त्रं नानुवर्तते), Indrajit laments that the Rākṣasas ruined his feat (मया कृतं महत्कर्म निरर्थं कृतं राक्षसैः) by ignoring the law of mantras (मन्त्रगतिर्न विमृष्टा न विचारिता), for once the _brahmāstra_ is frustrated (अस्त्रे विहते ब्रह्मास्त्रे प्रतिहते), no other missile avails (अन्यदस्त्रं न प्रवर्तते).
+
+_____________
+
+**5.48.51**
+
+_Tilaka_ interprets नात्मानमवबुध्यते with an implicit causative sense (अन्तर्भावितण्यर्थतया): although Hanūmān was fully aware of his release through Brahmā's boon (अस्त्रविमोक्षं स्वमोक्षवरदपरोक्षतया ज्ञातवानपि), he did not make his release known (नाविबोधयति स्म अस्त्रमोक्षं न प्रकाशयति स्मेत्यर्थः), whereas _Śiromaṇi_ takes it literally (मुक्तत्वेन न जानाति).
+
+_____________
+
+**5.48.52–53**
+
+Beaten by cruel Rākṣasas with fists or clubs (कालमुष्टिभिः; काष्ठमुष्टिभिः in _Bhūṣaṇa_), Hanūmān was dragged before Rāvaṇa and presented (व्यदर्शयत्) by Indrajit to the king and his court (सगणाय राज्ञे).
+
+_____________
+
+**5.48.54–55**
+
+_Śiromaṇi_ notes that the Rākṣasas presented (न्यवेदयन्) the bound chief of monkeys—resembling a rutting elephant (मत्तमिव मातङ्गम्)—to Rāvaṇa. Beholding him, mutual questioning arose (कथाः परस्परमुक्तयः संजज्ञिरे) among the Rākṣasa warriors: “Who is this? Whose messenger is he (कस्य दूत इति शेषः in _Tilaka_)? Whence has he come? What is his mission, and who is his patron or ally (कोऽभ्युपाश्रयः कस्याश्रयेणैवं निर्भय इत्यर्थः in _Tilaka_; अभ्युपाश्रयः अस्य सहायः कः in _Śiromaṇi_)?”
+
+_____________
+
+**5.48.56**
+
+_Tilaka_ and _Śiromaṇi_ explain that other infuriated Rākṣasas standing in Rāvaṇa's assembly (यत्र रावणः स्थितस्तत्रस्था राक्षसाः) clamored to one another (परस्परमथाब्रुवन्): “Let him be slain! Or let him be burned! Or let him be devoured (हन्यतां दह्यतां वापि भक्ष्यतामिति)!”
+
+_____________
+
+**5.48.57**
+
+_Tilaka_ and _Śiromaṇi_ gloss परिचारवृद्धान् as aged attendants (वृद्धान् परिचारकानित्यर्थः), whereas _Bhūṣaṇa_ glosses it as senior ministers (अमात्यवृद्धान्): having swiftly crossed the palace pathway (मार्गमतीत्य अतिक्रम्य), great-souled Hanūmān beheld at Rāvaṇa's feet the king's senior courtiers and his jewel-decked hall (महारत्नविभूषितं राज्ञो रावणस्य गृहं च ददर्श).
+
+_____________
+
+**5.48.58–59**
+
+_Śiromaṇi_ explains that Rāvaṇa of mighty splendor beheld the foremost of monkeys being dragged hither and thither (रक्षोभिः इतस्ततः कृष्यमाणं कपिसत्तमं ददर्श) by deformed Rākṣasas, and the foremost of monkeys in turn beheld the lord of Rākṣasas endowed with fiery energy and might like the blazing sun (तपन्तं भास्करमिव राक्षसाधिपतिं कपिसत्तमो ददर्श).
+
+_____________
+
+**5.48.60**
+
+_Tilaka_ notes the archaic epic _i_-stem plural मुख्यमन्त्रीन् for मुख्यमन्त्रिणः (मन्त्रीन् मन्त्रिण इत्यर्थः). _Śiromaṇi_ explains that ten-faced Rāvaṇa, his coppery eyes rolling in wrath (रोषेण संवर्तिते ताम्रदृष्टी अरुणनयने यस्य सः), scrutinized Hanūmān (कपिं हनुमन्तमन्ववेक्ष्य) and ordered (समादिशत् प्रष्टुमाज्ञापयत्) his seated chief ministers, senior in noble birth and conduct (कुलशीलवृद्धान्), to interrogate him.
+
+_____________
+
+**5.48.61**
+
+_Tilaka_ and _Śiromaṇi_ analyze कार्यार्थम् as a collective _dvandva_ (कार्यं कर्तव्यमर्थस्तत्प्रयोजनं च समाहारद्वन्द्वः) and अर्थस्य मूलम् as the instigator of that mission (उक्तप्रयोजनप्रवर्तकम्, कार्यप्रवृत्तेर्मूलं कारणं च), while _Bhūṣaṇa_ takes मूलम् directly as the sender (प्रेषयितारमित्यर्थः). Questioned in order, Hanūmān summarized both answers—his office as envoy and his sender Sugrīva (उत्तरांशस्तु दूतत्वं कृत्यम्, प्रेरकः सुग्रीव इति): “I have come as an envoy from the presence of the lord of monkeys (हरीश्वरस्य सुग्रीवस्य सकाशात्).”
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

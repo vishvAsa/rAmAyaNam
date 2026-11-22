@@ -1823,6 +1823,224 @@ Shiva. This mansion is a construction of Vishvakarma, the Heavenly Architect. [4
 
 “And there the mansion of Vinatā&#x27;s son [Garuḍa], adorned with manifold jewels, resembling Mount Kailāsa, and fashioned by Viśvakarman.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.40.1–2 (Sugrīva Presents the Mustered Hosts)**
+
+Govindarāja introduces the fortieth _sarga_ as Sugrīva's dispatch of Vinata to the eastern quarter to search for Sītā (अथ सीतान्वेषणाय पूर्वस्यां दिशि सुग्रीवेण विनतप्रेषणं चत्वारिंशे). Śivasahāya (_Śiromaṇi_) glosses समृद्धार्थः as possessing all fulfilled prosperity (समृद्धसर्वसंपत्तिः) after requesting Rāma to inspect the army. On विनिविष्टाः (v. 2), Rāma Varmā (_Tilaka_) explains that the chiefs have been stationed in their respective troop encampments (स्वस्वसेनानिवेशे निवेशिता इत्यर्थः), while Govindarāja interprets मद्विषयवासिनः either as dwelling in regions known to Sugrīva (मदवगतदेशवासिनः) or as subjects of his kingdom (मद्राज्यवासिनः).
+
+_____________
+
+**4.40.3–4 (Past Exploits and Tireless Valor)**
+
+Śivasahāya observes that verses 3 and 4 form a single syntactic unit (सार्धश्लोक एकान्वयी). _Tilaka_ explains बहुविक्रान्तैः as accompanied by their own troops who have performed valorous deeds in many places (बहुस्थलेषु कृतपराक्रमैः स्वगणैः सहेति शेषः). Both _Tilaka_ and Govindarāja distinguish the two members of ख्यातकर्मापदानाः: Govindarāja defines कर्म as martial action such as marching to battle (युद्धगमनादिक्रिया) and अपदानं as astonishing prior routing of enemies (पूर्वं विस्मयनीयशत्रुनिरसनम्).
+
+_____________
+
+**4.40.5–6 (Uncountable Servants of Rāma)**
+
+On अम्बुचराः (v. 5), _Tilaka_ specifies that these monkeys roam the islands in the midst of the ocean (समुद्रमध्यद्वीपचराः), while both _Tilaka_ and Govindarāja treat कोट्योघाः (or the variant कोट्यग्रशः) as an indicator of uncountability (असंख्यत्वोपलक्षणम्). Both commentators gloss गुरुहिते (v. 6) as devoted to the welfare of their master (स्वामिहिते).
+
+_____________
+
+**4.40.7–8 (Transferring Command to Rāma)**
+
+Govindarāja explains the demonstrative त इमे (v. 7) as a deictic gesture pointing out the assembled hosts with the finger (बहुसाहस्रैः भीमविक्रमैरनीकैः सहिताः त इमे इत्यंगुल्या निर्देशः), and both he and _Tilaka_ gloss प्राप्तकालं as suited to the occasion (कालोचितम्). Anticipating the objection that the monkey host belongs to Sugrīva rather than Rāma, _Tilaka_ points out that Sugrīva deliberately calls it “your army” (नन्विदं त्वत्सैन्यं न मन्नियोज्यतामर्हति तत्राह-त्वत्सैन्यमिति).
+
+_____________
+
+**4.40.9 (Deference Despite Full Knowledge)**
+
+_Tilaka_ and Śivasahāya identify इदं कार्यं as the mission of searching for Sītā (इदं कार्यं सीतान्वेषणरूपम्), while Govindarāja construes एषां कार्यम् objectively as what must be accomplished by these monkeys (एभिः कर्तव्यम्). Śivasahāya paraphrases Sugrīva's courtesy: even though the task is thoroughly known to the monkeys and to Sugrīva himself, Rāma should still issue his direct command as is fitting (तथाऽपि यथायुक्तं युक्तमनतिक्रम्यैव यथेच्छमाज्ञापयितुमर्हसि).
+
+_____________
+
+**4.40.10–12 (Reconnaissance Before Campaign)**
+
+Śivasahāya notes that verses 11 and 12 form a single syntactic unit (श्लोकद्वयमेकान्वयि). Rāma distinguishes two stages of action: first, intelligence must be gathered on whether Sītā survives and where Rāvaṇa dwells; second, on तस्मिन्काले—which _Tilaka_ glosses as the time immediately after learning the news (वृत्तान्तावगत्यनन्तरकाले)—Rāma will undertake the timely military campaign alongside Sugrīva.
+
+_____________
+
+**4.40.13–14 (Sugrīva as Sole Director of the Search)**
+
+_Tilaka_ specifies अस्मिन्कार्ये as the task of dispatching the monkeys (वानरप्रेषणरूपे) and supplies सिद्धेः after कार्यस्य (the cause of the task's accomplishment). Govindarāja similarly explains that in issuing search commands (अन्वेषणाज्ञापने) neither Rāma nor Lakṣmaṇa is the master, so Sugrīva alone is both cause and director (हेतुः कारणं प्रभुः तत्र समर्थश्च त्वमेव). To resolve the double मे/मम in v. 14, _Tilaka_ construes the second मम forward with सुहृद् in v. 15 (हे वीर ! त्वं मम सुहृदित्यन्वयः).
+
+_____________
+
+**4.40.15 (Five Qualifications of an Ally)**
+
+On सुहृद्द्वितीयो, _Tilaka_ explains that Sugrīva is Rāma's “second friend” relative to Lakṣmaṇa (द्वितीयो मल्लक्ष्मणापेक्षया), whereas Govindarāja records the variant सुहृद्विनीतः. Śivasahāya links the epithets causally: being valorous (विक्रान्तो बलवान्) and all-knowing (प्राज्ञः सर्वविषयकज्ञानवान्), Sugrīva knows the right occasions (कालविशेषवित्) and is supreme among discerners of true ends (अर्थवित्तमः याथाथ्र्यविज्ञातृषु श्रेष्ठः).
+
+_____________
+
+**4.40.16–18 (Commissioning General Vinata)**
+
+Śivasahāya notes that Sugrīva's summons to Vinata spans verses 16–17a (सार्धश्लोक एकान्वयी) and that Vinata's instruction runs across four half-verses from 17b to 19a (अर्धचतुष्टयमेकान्वयि). _Tilaka_ glosses सोमसूर्यनिभैः as possessing radiance like the moon and sun (तत्सदृशकान्तिभिः) and नयो as policy (नीतिः). Govindarāja explains देशकालनयैः as policies adapted to place and time in discerning what should and should not be done (कार्याकार्यविषये देशोचितनीतिभिः कालोचितनीतिभिश्चेत्यर्थः).
+
+_____________
+
+**4.40.19–21 (Syntax of the Eastern Itinerary)**
+
+Both Govindarāja (रजताकरामित्यन्तमेकं वाक्यम्) and Śivasahāya (सार्धश्लोकपञ्चकमेकान्वयि) observe that verses 19–24 form a single continuous sentence. _Tilaka_ explains मार्गध्वमिति (v. 20) as the general commission (सामान्यतो नियोगः), followed by specific regions in the accusative case for which प्राप्य (“having reached”) must be supplied (द्वितीयान्तानां प्राप्येति शेषः). On v. 21, both _Tilaka_ and Śivasahāya identify कालिन्दीं with the Yamunā and the यामुनो गिरिः with Mount Kalinda, the mountain source of the Yamunā (यमुनोत्पत्तिस्थानभूतः कलिन्दगिरिः).
+
+_____________
+
+**4.40.22 (Boundary of the Eastern Quarter)**
+
+Both _Tilaka_ and Śivasahāya identify the Mahī and Kālamahī as rivers (महीकालमह्यौ नद्यौ). Explaining why northern and central regions appear in the eastern list, _Tilaka_ notes that the division of quarters here is reckoned relative to Āryāvarta between the Himālaya and the Vindhya (हिमवद्विन्ध्यमध्यवर्त्यार्यावर्तापेक्षया प्राच्यादिविभागोऽत्र विवक्षित इत्याहुः). Govindarāja cites the geographical tradition of a ring-like river named Śarāvatī in the midland, relative to which the eastern direction is defined (शरावती नाम काचिन्नदी हिमवद्विन्ध्यमध्यदेशे वलयाकारेण प्रवहति। तदपेक्षया प्राची दिगिदानीं विचेतव्या).
+
+_____________
+
+**4.40.23–24 (Lands of Silk and Silver)**
+
+On कोशकाराणां भूमिं, _Tilaka_ explains the region as the habitat producing silkworms that spin silk threads (कौशेयकतन्तूत्पादकजन्तूत्पत्तिस्थानभूतां भूमिम्), while Śivasahāya offers a dual gloss: either a particular dynasty of kings or silkworms (कोशकाराः राजविशेषाः क्रिमिविशेषा वा). _Tilaka_ glosses रजताकरां as a land of silver mines (रजतखनिम्) and explains that every part of these lands must be searched in detail (सावयवं विचेतव्यम्).
+
+_____________
+
+**4.40.25–26 (Wondrous Peoples of Mount Mandara)**
+
+_Tilaka_ glosses समुद्रमवगाढान् as extending into the sea (समुद्रान्तर्गतान्) and आलयाः as villages (ग्रामाः), whereas Govindarāja reads आयताम् qualifying Mandara's broad peak (मन्दरस्य आयतां कोटिं). On the marvelous tribes of v. 26, _Tilaka_ and Śivasahāya explain कर्णप्रावरणाः as people with ear-flaps vast enough to serve as garments (स्वकर्णकृतवस्त्राः विशालकर्णा इत्यर्थः), while Govindarāja alternatively glosses it as “earless” (आच्छादितकर्णाः निष्कर्णा इत्यर्थः); ओष्ठकर्णकाः have ears hanging down to their lips (ओष्ठपर्यन्तकर्णाः), and एकपादकाः move swiftly despite having a single foot.
+
+_____________
+
+**4.40.27–28 (Kirātas and Man-Tigers)**
+
+_Tilaka_ explains अक्षयाः as tribes of unfailing lineage (अक्षयसंतानाः) and Śivasahāya as deathless or houseless (नाशरहिता गृहरहिता वा), while both identify पुरुषादकाः as cannibal Rākṣasas. The island Kirātas have needle-sharp topknots (तीक्ष्णसूच्यग्रसदृशतैक्ष्ण्यवती चूडा केशपाशो येषाम्) and eat raw fish (अपक्वमत्स्यभुजः); _Tilaka_ and Śivasahāya explain that they are called नरव्याघ्राः because they are shaped like men below and like tigers above (अधःप्रदेशे नराकार एव सन्त उपरिभागे व्याघ्राकाराः).
+
+_____________
+
+**4.40.29–30 (Crossing to Yavadvīpa)**
+
+All three commentators take काननौकसः as a vocative addressing the monkeys (संबोधनम्) and explain that these regions are reached across mountains (गिरिभिः), by leaping (प्लवनेन कूर्दनेन), or by boat (प्लवेनोडुपेन). Govindarāja notes that after Jambūdvīpa, Sugrīva now directs the search to outer ocean islands like Yavadvīpa and Suvarṇarūpyakadvīpa (लङ्काद्वीपवत् समुद्रान्तर्वर्तिनौ द्वीपविशेषौ).
+
+_____________
+
+**4.40.31–32 (Mount Śiśira Beyond Yavadvīpa)**
+
+Śivasahāya observes that verses 30–32 form a three-verse syntactic unit (श्लोकत्रयमेकान्वयि) culminating in रामपत्नीं मार्गध्वम्. _Tilaka_ refers the genitive एतेषां (v. 32) to the aforementioned islands (एतेषामुक्तद्वीपानाम्), while Śivasahāya glosses गिरिदुर्गेषु as mountain caves (पर्वतगुहासु) and प्रपातेषु as waterfalls (निर्झरेषु).
+
+_____________
+
+**4.40.33–34 (Plakṣadvīpa and the Red River Śoṇa)**
+
+Govindarāja notes that after describing Jambūdvīpa and the Salt Ocean, Sugrīva now describes Plakṣadvīpa beyond the farther shore of the Salt Ocean (लवणसमुद्रापरपारस्थं). Both _Tilaka_ and Śivasahāya explain that the river is named शोण because of its red-colored waters (रक्तवर्णजलम् अत एव शोणाख्यं नदं). On वैदेह्या सह रावणो मार्गितव्यः, Govindarāja remarks that the monkeys must not return after seeing Rāvaṇa alone or Sītā alone, but must locate both so that Rāvaṇa may be slain and Sītā brought back (उभावपि दृष्ट्वा आगन्तव्यमिति भावः).
+
+_____________
+
+**4.40.35–36 (The Roaring Sugarcane Ocean)**
+
+_Tilaka_ and Śivasahāya gloss बहुनिष्कुटाः as possessing many pleasure-groves (बहूपवनप्रदेशाः), whereas Govindarāja glosses निष्कुटाः as hollow caverns (बिलानि विवराः). On v. 36, all three commentators identify the billowy, roaring sea (ऊर्मिमन्तम्) with the Ikṣusamudra (Sugarcane-juice Ocean), Govindarāja citing the traditional sequence of seven concentric oceans (लवणेश्चुरससुरासर्पिर्दधिदुग्धजलैः समम् इति समुद्रक्रमः).
+
+_____________
+
+**4.40.37–38 (Shadow-Seizing Demons of the Ikṣusamudra)**
+
+Govindarāja notes that v. 37 illustrates the impassability of the Sugarcane Ocean (इक्षुसमुद्रस्य दुर्गमत्वं दर्शयति). Both _Tilaka_ and Śivasahāya explain that in this ocean (तत्रेक्षुसमुद्रे), famished Asuras have been granted permission by Brahmā to immobilize creatures by seizing their shadows and devour them (गृहीतच्छायभोजनाय, छायागृहीतप्राणिभक्षणानुमतिमन्तश्च). _Tilaka_ explains that the Sugarcane Ocean resembles a dark cloud because sugarcane juice is dark in hue (इक्षुरसस्यापि श्यामत्वात्तदुदधेः कालमेघप्रतिमत्वम्), while all three commentators gloss तीर्थेन as “by a stratagem or safe way” (उपायेन) so as to avoid the shadow-seizing demons (छायाग्राहिपरिहारेण गन्तव्यमित्यर्थः).
+
+_____________
+
+**4.40.39–40 (The Lohita Sea, Kūṭaśālmalī, and Garuḍa's Mansion)**
+
+Beyond the Sugarcane Ocean lies the red-watered Lohita Sea—which Govindarāja equates with the Wine Ocean (लोहितं नाम सागरं मधुसमुद्रं)—and Śālmalīdvīpa. _Tilaka_ explains कूटशाल्मलीं as the giant silk-cotton tree that gives Śālmalīdvīpa its name, just as the Jambu tree names Jambūdvīpa (शाल्मलीद्वीपसंज्ञाप्रयोजकवृक्षम्। जम्बूद्वीपे जम्बूवत्). Near it stands Garuḍa's jewel-decked mansion (वैनतेयस्य गरुडस्य गृहं) built by Viśvakarman.
+
+_____________
+
+**4.40.41–42 (The Mandeha Rākṣasas)**
+
+_Tilaka_ and Śivasahāya explain that on the mountain peaks bordering the Wine Ocean, the Mandeha Rākṣasas hang head-downward (लम्बन्ते अधोमुखा इति शेषः); at sunrise they battle the rising sun, are scorched by its rays, fall into the ocean, and revive to hang again. _Tilaka_ also records Kataka's critical view that the two verses on the Mandehas are an interpolation (प्रक्षिप्तम्) lacking in ancient manuscripts.
+
+_____________
+
+**4.40.43 (Gāyatrī Energies and the Omitted Oceans)**
+
+_Tilaka_ and Govindarāja explain ब्रह्मतेजोभिः as the solar Gāyatrī-mantra energies impelled daily by twice-born sacrificers (त्रैवर्णिकप्रवर्तितैस्तां गायत्रीविद्यातेजोभिर्निहताः, गायत्रीप्रभवैः). Addressing why the narrative passes directly from the Wine Ocean to the Milk Ocean (क्षीरोदं) without naming the Ghee and Curd oceans or Kuśa and Krauñca islands, _Tilaka_ cites Kataka's view that they lack fastnesses requiring search (तत्र विचेतव्यदुर्गस्थलाभावादिति कतकः) and Tīrtha's view that they are implied (अर्थतोऽवगन्तव्यमिति तीर्थः), while Govindarāja concurs that reaching the Milk Ocean presupposes crossing the intervening seas and islands (अनुक्तावपि तदुक्तावेव समुद्रौ द्वीपौ चेति बोध्यम्).
+
+_____________
+
+**4.40.44–47b (Mount Ṛṣabha and Lake Sudarśana)**
+
+_Tilaka_ and Govindarāja explain that the white Milk Ocean with its rolling waves resembles a surface decked with a pearl necklace (ऊर्मिभिर्मुक्ताहारं मुक्ताहारयुक्तमिव स्थितम्). In its midst rises white Mount Ṛṣabha, surrounded by silver trees (राजतैः रजतमयैर्नगैस्तरुभिर्वृतः, Śivasahāya), and Lake Sudarśana filled with silver lotuses having golden filaments (हेमकेसरैः स्वर्णमयकेसरविशिष्टैः), where celestials gather desiring to sport (रिरंसवो रन्तुमिच्छवः).
+
+_____________
+
+**4.40.47c–48 (The Jaloda Sea and the Submarine Mare-Fire)**
+
+Beyond the Milk Ocean lies the terrifying Jaloda Ocean, housing the horse-faced submarine fire (हयमुखं) born of wrath (कोपजं तेजः).
+
+_____________
+
+**4.40.48–49 (The Aurva Mare-Fire and Its Cosmic Fuel)**
+
+All three commentators identify the wrath-born submarine fire (हयमुखं वडवामुखं तेजः) as sprung from the anger of the sage Aurva (और्वब्रह्मर्षिकोपजं). Both _Tilaka_ and Govindarāja explain that the ocean water with all its creatures is called the “food” or fuel (ओदनं) of this fire at the cosmic dissolution (सर्वं जगद्युगान्ते ओदनं वदन्ति, संहारवेलायामिन्धनमाहुरित्यर्थः), _Tilaka_ adding that this hints at its identity with the supreme Brahman (अनेन तस्य ब्रह्मरूपता सूचिता). The roar heard there is the wailing of marine creatures helpless to avoid falling into the mare's mouth (तत्पतनपरिहारकसामथ्र्यरहितानां, Śivasahāya).
+
+_____________
+
+**4.40.50–52 (Mount Jātarūpaśila and Lord Ananta)**
+
+All three commentators equate स्वादूदस्य with the Fresh-water Ocean (शुद्धोदकस्य समुद्रस्य) named जलोद in v. 48. Thirteen _yojanas_ past its northern shore stands golden-rocked Mount Jātarūpaśila, upon whose peak sits the moon-white (चन्द्रप्रतीकाशं श्वेतवर्णम्), thousand-headed serpent deity Ananta supporting the earth (धरणीधरम्).
+
+_____________
+
+**4.40.53–54 (Ananta's Palm Banner as Eastern Boundary-Marker)**
+
+_Tilaka_ and Śivasahāya gloss त्रिशिराः as three-branched or three-trunked at the crown (शिरःप्रदेशवर्तित्रिस्कन्धवान्, शाखात्रयविशिष्टः) and सवेदिकः as furnished with a pedestal-base (आधारवेदिबन्धसहितः). Both _Tilaka_ and Govindarāja explain पूर्वस्यां दिशि निर्माणं कृतं (v. 54) as the gods' establishment of this golden palm-banner as the boundary-marker or gnomon of the eastern quarter (अभिज्ञाशङ्कुवत्प्रमाणनिर्माणं कृतमित्यर्थः, पूर्वदिगवधित्वेन तालरूपः केतुः कल्पित इत्यर्थः).
+
+_____________
+
+**4.40.55–57 (The Golden Summit and Peak Saumanasa)**
+
+_Tilaka_ glosses कोटिः as summit (शिखरम्) and सवेदिका as furnished with a supporting terrace (साधारपर्वता). Śivasahāya notes that this hundred-_yojana_ golden crest of Mount Udaya shines with sun-bright golden _sāla_ and other trees, and bears upon its ridge the firm golden peak named Saumanasa, one _yojana_ wide and ten _yojanas_ high.
+
+_____________
+
+**4.40.58 (Viṣṇu's Strides on Saumanasa and Meru)**
+
+_Tilaka_ and Śivasahāya explain त्रिविक्रमे as the occasion when Viṣṇu strode across the three worlds (त्रिभिः पदैस्त्रिलोक्या आक्रमणप्रस्तावे), placing his first foot on Peak Saumanasa and his second on Mount Meru's summit. Govindarāja first suggests taking मेरोः as Sāvarṇi-Meru on the western horizon so that the stride spans Bali's earthly realm from east to west, and then concludes (वस्तुतस्तु) that it refers to central Meru itself because Meru's peak is heaven (मेरुशिखरस्य स्वर्गत्वात्), citing the Paurāṇika verse भूम्येकं स्वर्गं द्वितीयं तृतीयं ब्रह्मलोकः.
+
+_____________
+
+**4.40.59–60 (The Sun's Northern Circuit and Solar Sages)**
+
+Govindarāja notes that उत्तरेण takes the adverbial suffix _-enap_ governing जम्बूद्वीपं in the accusative (एनपा द्वितीया). After setting, the sun circles north of Jambūdvīpa and, reaching the Saumanasa peak, becomes visible to dwellers of Jambūdvīpa—a phenomenon which both _Tilaka_ and Śivasahāya remark belongs to the Satyayuga (इदं सत्ययुगाभिप्रायम्). On v. 60, Govindarāja cites the _Taittirīya Āraṇyaka_ etymology deriving the Vaikhānasas from Brahmā's nails and the Vālakhilyas from his hairs (ये नखास्ते वैखानसाः। ये वालास्ते वालखिल्याः).
+
+_____________
+
+**4.40.61–62 (Etymology of Sudarśanadvīpa)**
+
+_Tilaka_ and Śivasahāya construe यस्य as referring to Peak Saumanasa, in front of which (पुरस्तात्समीपे एव) shines this island of Sudarśana; when the sun rises on that peak, all living beings gain vital energy and visual perception (सर्वप्राणभृतां प्राणिनां तेजःसंबन्धो भवति, चक्षुश्च प्रकाशते). Govindarāja explains that v. 61 gives the etymological reason for the name सुदर्शनो द्वीपः (सुदर्शनसंज्ञाया अन्वर्थतामाह): in the presence of its solar light, the eyes of all creatures become capable of perceiving objects (विषयग्रहणशक्तं भवति).
+
+_____________
+
+**4.40.63–65 (Crimson Dawn and the Primeval Portal)**
+
+_Tilaka_ and Śivasahāya explain that the eastern dawn (पूर्वा संध्या) glows red because it is pervaded by the combined luster of the golden mountain and the sun (काञ्चनशैलस्य सूर्यस्य च तेजसाऽऽविष्टा). On v. 64, all three commentators explain why the eastern direction is named पूर्वा: at the beginning of creation, Brahmā fashioned Mount Udaya first (पूर्वं प्रथमं) as the gateway linking earth and heaven (पृथिव्याः भुवनस्य च द्वारं) and as the rising-place of the sun. Govindarāja notes that v. 65 repeats the command to search Mount Udaya's ridges and caves to ensure thoroughness (सम्यगन्वेषणाय पुनरुक्तिः).
+
+_____________
+
+**4.40.66 (The Dark Realm Beyond Udayācala)**
+
+All three commentators explain that beyond Mount Udaya (उदयाद्रेः परम्), the eastern quarter is occupied solely by presiding deities (त्रिदशाधिष्ठिता), lacks moon and sun, is enveloped in darkness, and is therefore impassable to mortals and monkeys (अगम्या).
+
+_____________
+
+**4.40.67–68 (Summing Up the Eastern Limit)**
+
+Both _Tilaka_ (उक्तार्थोपसंहारः) and Govindarāja (उपसंहरति) note that v. 67 concludes the eastern itinerary by instructing the monkeys to search even unnamed intermediate districts (ये मया नोक्तास्तेषु). Śivasahāya glosses एतावद् (v. 68) as extending only as far as Mount Udaya (उदयगिरिपर्यन्तमेव वानरैर्गन्तुं शक्यम्); beyond it lies a realm without sun or moon (अभास्करं) and without boundaries of villages or cities, consisting solely of darkness (अमर्यादं ग्रामनगरादिमर्यादारहितं केवलान्धकारयुक्तमित्यर्थः, Govindarāja).
+
+_____________
+
+**4.40.69–70 (The One-Month Deadline and Capital Penalty)**
+
+Śivasahāya glosses मासे पूर्णे as “within the completion of a month” (मासाभ्यन्तरे इत्यर्थः): having reached Mount Udaya and ascertained Sītā and Rāvaṇa's dwelling, the troop must return within one month. Any monkey remaining beyond a month (मासादूध्र्वं वसन्) incurs the death penalty from Sugrīva (मम वध्यो भवेत्). _Tilaka_ glosses सिद्धार्थाः as having fulfilled the mission of search (कृतान्वेषणकृत्याः).
+
+_____________
+
+**4.40.71 (Benediction in Upajāti Meter)**
+
+Both Śivasahāya (महेन्द्रस्वामिकां) and Govindarāja (इन्द्रप्रियाम्) explain महेन्द्रकान्तां as the eastern quarter presided over and loved by Indra; having searched its forest-groves with skill (निपुणेन नैपुण्येन) and found Sītā, the monkeys will return and enjoy royal favor and happiness.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

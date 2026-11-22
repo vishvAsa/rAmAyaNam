@@ -448,6 +448,116 @@ unwarily, has now suddenly chanced before you... [3-9-9]
 
 Yet this third terrible vice—the slaughter of others’ lives (_para-prāṇābhihiṃsanam_) committed out of delusion without enmity (_nirvairam_)—has now presented itself before you.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.9.1–2 (Sītā’s Loving Counsel & Subtle Dharma)**
+
+Opening the sarga, **Rāma Varmā** (_Tilaka_) remarks that Sītā provisionally opposes slaying the _rākṣasas_ to render Rāma’s vow rock-firm (राक्षसवधप्रतिज्ञां दृढतरां कारयितुं) and rouse his martial splendour (तेजोवृद्ध्यर्थं च). **Govindarāja** (_Bhūṣaṇa_) attributes her plea to overwhelming conjugal love (प्रेमान्धतया), fearing that hostility with the demons will cause her separation from Rāma (मद्विरहद्वारा महान् क्लेशो भवेत्). On प्राप्यते महान्, _Tilaka_ defends the reading अधर्मं तु via a Vedic active verb termination (छान्दसः श्यन्), whereas _Bhūṣaṇa_ reads अयं धर्मः (“this ascetic _dharma_ is attained by subtle discernment”).
+
+_____________
+
+**3.9.3–4 (The Triad of Desire-Born Vices)**
+
+Expounding the three vices born of passion (कामजानि रागकृतानि), **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) take परमं (परमकं) as “primary” (प्रथममित्यर्थः), since falsehood arises from attachment to bodily comfort, while adultery and unprovoked cruelty (विना वैरं रौद्रता) are still heavier (गुरुतरौ). **Śivasahāya** (_Śiromaṇi_) derives परमं from परमा (“supreme prosperity”) to mean speech covetous of others’ wealth.
+
+_____________
+
+**3.9.5–6 (Eliminating the First Two Vices)**
+
+By logical elimination (परिशेषमाह), **Govindarāja** (_Bhūṣaṇa_) notes that spanning past and future in 3.9.4cd (न ते भूतं न भविष्यति) inherently includes the present (वर्तमानस्यान्तर्भावः). In 3.9.5–6, _Tilaka_ observes that denying even mental longing (मनस्यपि) rules out envy as well, since Rāma remains ever devoted to his own wife (स्वदारनिरतः).
+
+_____________
+
+**3.9.7–8 (Mastery of the Senses as the Root of Virtue)**
+
+Explaining how Sītā can be certain that Rāma will never lapse in future, **Rāma Varmā** (_Tilaka_) notes that self-mastery (जितेन्द्रियत्वं) is the cause of sustaining all virtues (तत्परिपालनकारणं). **Govindarāja** (_Bhūṣaṇa_), reading जानामि शुभदर्शन, cites Rāma’s auspicious form itself as proof of his inner purity, whereas **Śivasahāya** (_Śiromaṇi_), reading भूतानां, sees an _arthāpatti_: if even those who meditate on Rāma conquer their senses (त्वच्चिन्तनकर्तॄणां वश्येन्द्रियत्वं), how much more so Rāma himself.
+
+_____________
+
+**3.9.9–11 (The Looming Third Vice in Daṇḍakā)**
+
+Turning to the third vice, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that because the _rākṣasas_ have committed no direct offense against Rāma (राक्षसैः स्वापराधाकरणान्नैर्वैरत्वमस्य), slaying them appears as unprovoked hostility (निर्वैरं परप्राणाभिहिंसनं). **Govindarāja** (_Bhūṣaṇa_) adds on 3.9.11 that Rāma did not merely promise protection when petitioned by the sages, but entered Daṇḍakā armed from the outset with that primary resolve (प्रथमसंकल्पश्च तव तस्यैवेत्याह).
+
+_____________
+
+**3.9.12 (Sītā’s Dilemma over Niḥśreyasa)**
+
+Glossing निःश्रेयसं हितम्, **Rāma Varmā** (_Tilaka_) distinguishes otherworldly felicity (पारलौकिकं सुखं) from worldly welfare (इहलोकसुखं). **Govindarāja** (_Bhūṣaṇa_) unpacks Sītā’s deeper anxiety: true to his vow, Rāma will neither abandon slaying the demons nor strike without provocation; if a cause for enmity must arise, she herself will be abducted (तदहमेव स्यां), and Rāma will not endure separation from her (मद्विरहे च त्वमेकदारव्रतनिरतः न सोढुमर्हसि).
+
+_____________
+
+**3.9.13–14 (Driving In the Post & Discharging Arrows)**
+
+On Sītā’s statement that going to Daṇḍakā displeases her, **Govindarāja** (_Bhūṣaṇa_) remarks that she advances a second argument to reinforce her point by the maxim of driving in a post (स्थूणानिखननन्यायेन दृढयितुं). In 3.9.14, **Rāma Varmā** (_Tilaka_) takes वनचरान् specifically as the forest-roaming _rākṣasas_ (वनचरान् राक्षसान्), while _Bhūṣaṇa_ notes that कच्चित् expresses anxious apprehension (कच्चिदिति कामप्रवेदने) lest Rāma loose his shafts (शरव्ययं शरमोक्षं).
+
+_____________
+
+**3.9.15 (The Exemplum of the Bow and Firewood)**
+
+All three commentators admire the parallel in 3.9.15, which **Govindarāja** (_Bhūṣaṇa_) classifies as _dṛṣṭāntālaṅkāra_ (दृष्टान्तालंकारः). **Rāma Varmā** (_Tilaka_) explains that a bow kept near a warrior (समीपतः स्थितं धनुः) excites his martial ardour (तेजोबलं तेजस आधिक्यं करोति) just as proximate fuel feeds fire (हुताशस्येन्धनानि च), while **Śivasahāya** (_Śiromaṇi_) adds that such blinding valour eclipses sober discrimination (विवेकं विनाशयतीत्यर्थः).
+
+_____________
+
+**3.9.16–18 (Indra’s Sword Deposited in Trust)**
+
+Introducing the ancient parable (ऐतिह्यमाह), **Rāma Varmā** (_Tilaka_) glosses रतमृगद्विजे as a grove whose beasts and birds are tranquil and free of mutual hostility (उपशान्तमृगपक्षिके). On न्यासविधिना दत्तः in 3.9.18, **Govindarāja** (_Bhūṣaṇa_) cites the legal definition of a deposit (स्थाप्यतेऽन्यगृहे द्रव्यं न्यासः स परिकीर्तितः) and explains the genitive तिष्ठतः as a dative of the recipient (चतुर्थ्यर्थे षष्ठी).
+
+_____________
+
+**3.9.19–20 (Guarding Trustworthiness)**
+
+On प्रत्ययमात्मनः in 3.9.19, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss प्रत्ययं as personal credibility or trust (आत्मनः प्रत्ययं विश्वासं रक्षन्), whereas **Govindarāja** (_Bhūṣaṇa_), citing the _Amarakośa_ (प्रत्ययोऽधीनशपथज्ञानविश्वासहेतुषु), interprets it metonymically as the object entrusted in confidence (विश्वासस्थापितं वस्तु). Because he feared losing the deposit, the sage carried the sword even when foraging for roots and fruits (यत्र गच्छत्युपादातुं).
+
+_____________
+
+**3.9.21–22 (Gradual Corruption & Fall into Hell)**
+
+Tracing the sage’s moral decline, **Rāma Varmā** (_Tilaka_) notes that while merely bearing the sword (परिवहन्) he grew tainted in mind (कलुषबुद्धिः), abandoned his vow of penance (तपसि निश्चयरूपां स्वां बुद्धिं त्यक्त्वा), and turned to cruelty (रौद्रीं क्रूरां चकार). In 3.9.22, all three commentators gloss संवासात् as constant bearing or proximity (धारणात्, _Tilaka_; संपर्कात्, _Bhūṣaṇa_), and अधर्मकर्षितः as dragged down or afflicted by sin (अधर्मेण कर्षितः पीडितः).
+
+_____________
+
+**3.9.23 (Weapon-Contact Like Fire-Contact)**
+
+Summing up the parable in the Southern Recension verse 3.9.23, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) analyze शस्त्रसंयोगकारणम् as a _bahuvrīhi_ modifier of पुरावृत्तं. **Govindarāja** (_Bhūṣaṇa_) explains the simile अग्निसंयोगवद्धेतुः: just as contact with fire inevitably alters the nature of an object (यथा वस्तुनो विकारहेतुः), so contact with weapons transforms the mind of the bearer (शस्त्रिणो विकारहेतुर्भवति).
+
+_____________
+
+**3.9.24–25 (smāraye tvāṃ tu śikṣaye & Enjambed buddhiḥ)**
+
+On 3.9.24b, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) read न शिक्षये (“I merely remind what you already know, I do not instruct you”). **Rāma Varmā** (_Tilaka_) defends तु शिक्षये against _Kataka_, arguing that Sītā’s proud conjugal claim (मदीयोऽयं भर्तेत्येवमभिमानः) emboldens her to instruct Rāma in the next clause (न कथंचन सा कार्या), which construes by _yugmaka_ with बुद्धिः in 3.9.25a.
+
+_____________
+
+**3.9.26 (The Scope of the Bow in the Forest)**
+
+Answering why Rāma carries a bow at all, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain that for self-restrained warriors (नियतात्मनां) the bow’s sole office is warding off immediate aggressors to protect the distressed (आर्तानां पीडितानां रक्षणं बाधकोत्सारणमित्येतावदेव), not hunting down unoffending beings.
+
+_____________
+
+**3.9.27–28 (Incompatibility of Arms and Asceticism)**
+
+On the fourfold क्व च in 3.9.27, all three commentators note the sharp incongruity (परस्परविरुद्धम्) between bearing arms (क्षात्रं) and wearing bark-garments and matted locks (तपः), urging observance of the law of the hermitage (देशधर्मस्तपोवनधर्मस्तु पूज्यतां). In 3.9.28, _Tilaka_ glosses कदर्यकलुषा as a mind turbid like that of misers (कदर्याणां कृपणानामिव कलुषा बुद्धिर्जायते), deferring royal _kṣatra-dharma_ until their return to Ayodhyā.
+
+_____________
+
+**3.9.29–30 (The Joy of Parents-in-Law & Dharma as Cosmic Essence)**
+
+On श्वश्रूश्वशुरयोः, **Rāma Varmā** (_Tilaka_) explains that Daśaratha in heaven rejoices at Rāma’s righteous forest vow, while his mother rejoices at his safe life free from battle (युद्धाद्यभावेन सुखवासजा प्रीतिः); **Govindarāja** (_Bhūṣaṇa_) identifies the pair as Kaikeyī and Daśaratha (कैकेयीदशरथयोः) and notes the _ārṣa_ non-application of _ekaśeṣa_ (एकशेषाभाव आर्षः). In 3.9.30, _Bhūṣaṇa_ glosses सर्वं as including even liberation through spiritual knowledge (मुक्तिमपि ज्ञानद्वारा लभते).
+
+_____________
+
+**3.9.31–32 (Ascetic Discipline & Rāma’s Omniscience)**
+
+On न सुखाल्लभते सुखम् in 3.9.31, **Śivasahāya** (_Śiromaṇi_) explains that true felicity is never won through indulgent ease (सुखात्कष्टराहित्यात्), but only by chastening body and mind with vows such as _cāndrāyaṇa_ (चान्द्रायणादिव्रतैः, _Bhūṣaṇa_). In 3.9.32, _Tilaka_ and _Bhūṣaṇa_ gloss त्रैलोक्यमपि as the entire web of human goals and their means across the three worlds (त्रिलोकभवं पुरुषार्थतत्साधनतदङ्गकलापम्), with dative तुभ्यं used in the agentive/genitive sense.
+
+_____________
+
+**3.9.33 (Humble Apology & Hidden Intention)**
+
+Concluding in _Upajāti_ meter, Sītā apologizes for speaking out of feminine impulse (स्त्रीचापलात्), where मे stands for मया. Summarizing Sītā’s true intention (गूढतात्पर्यं), **Rāma Varmā** (_Tilaka_) observes that by contrasting unprovoked slaughter with 3.9.26 (आर्तानामभिरक्षणम्), she implies that protecting the afflicted sages from aggressive _rākṣasas_ is indeed Rāma’s inescapable _kṣatriya_ duty (वनेष्वपि वसतां क्षत्रियाणां वीराणामात्त्रायणमावश्यकमिति).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

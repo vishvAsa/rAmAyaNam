@@ -79,6 +79,14 @@ continued his narration of Trishanku's legend. [1-60-1]
 
 Knowing that the sons of Vasiṣṭha together with Mahodaya had been struck down by the might of his asceticism (_tapobalahatān jñātvā vāsiṣṭhān samahodayān_), Viśvāmitra of great splendour spoke thus in the midst of the sages (_ṛṣimadhye mahātejā viśvāmitro ’bhyabhāṣata_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.1–3 (jñātvā & svenānena śarīreṇa)**
+
+Reading _jñātvā_, **Rāma Varmā (_Tilaka_)** explains that Viśvāmitra perceived through his yogic power (_yogabalena_) that Vasiṣṭha’s sons and Mahodaya had perished by his ascetic might. By praising Triśaṅku as an Ikṣvāku scion (_ikṣvākudāyādaḥ_), supremely righteous (_dharmiṣṭhaḥ_) and munificent (_vadānyaḥ_), Viśvāmitra affirms his qualification to be a sacrificial patron (_evamādiguṇair yāgādhikāritvaṃ sūcitam_, **Tilaka**). Reading _tenānena śarīreṇa_, **Govindarāja (_Bhūṣaṇa_)** glosses _tena_ as his former Kṣatriya body and _anena_ as his present Caṇḍāla form.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,6 +243,14 @@ Vedic-rituals, but such a ritual is desultory. [1-60-4b, 5a]
 
 **5:** knowers of _dharma_ (_dharmajñāḥ_), coming together at once, spoke words consonant with prudence and _dharma_ (_ūcuḥ sametāḥ sahasā dharmasaṃhitam_): “This scion of Kuśika is a sage of supreme wrath (_ayaṃ kuśikadāyādo muniḥ paramakopanaḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.4–5 (dharmasaṃhitam & paramakopanaḥ)**
+
+Hearing Viśvāmitra’s call, the assembled sages confer among themselves (_ūcur ity asyānyonyam iti śeṣaḥ_, **Tilaka**, **Govindarāja**; _parasparaṃ kathayāmāsuḥ_, **Śiromaṇi**) in a manner consonant with _dharma_ (_dharmasaṃhitam_), recognizing that self-preservation before a wrathful ascetic is itself a dharmic duty.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -316,6 +332,20 @@ preside over it.' Thus, the officiators conceded among themselves. [1-60-7, 8a]
 **6:** “Whatever word he has spoken must be thoroughly carried out—of this there is no doubt (_yad āha vacanaṃ samyag etat kāryaṃ na saṃśayaḥ_). For the revered sage is like blazing fire, and in wrath will surely pronounce a curse (_agnikalpo hi bhagavān śāpaṃ dāsyati roṣataḥ_)!
 
 **7:** “Therefore let the sacrifice be set in motion (_tasmāt pravartyatāṃ yajñaḥ_), so that the scion of Ikṣvāku may ascend to heaven in his very body through the fiery splendour of Viśvāmitra (_saśarīro yathā divi gacched ikṣvākudāyādo viśvāmitrasya tejasā_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.6 (agnikalpaḥ)**
+
+**Tilaka** explains that Viśvāmitra is like blazing fire (_agnikalpaḥ_) because he has not yet conquered passion and wrath (_ajitakāmakrodhatvāt_), so any refusal will instantly provoke a destructive curse.
+
+_____________
+
+**60.7–10 (yājakaḥ adhvaryuḥ & yathākalpaṃ yathāvidhi)**
+
+All three commentators explain that _yājakaḥ_ in v. 9 specifically denotes the chief _Adhvaryu_ priest (_yājakaḥ adhvaryur iti yāvat_, **Tilaka**, **Govindarāja**, **Śiromaṇi**), which accounts for Viśvāmitra holding the _sruva_ ladle in v. 12 (_‘sruvam udyamya’ iti_). On _yathākalpaṃ yathāvidhi_, **Govindarāja** and **Śiromaṇi** gloss them as according to the _Kalpasūtras_ and _Śāstras_, while **Tilaka** distinguishes _yathākalpam_ (according to śāstra) from _yathāvidhi_ (according to living ritual tradition, _yathāsampradāyānuṣṭhānam_).
 </details>
 </details>
 
@@ -469,6 +499,14 @@ oblations in that ritual. [1-60-10b, 11a]
 
 **11:** performed the invocation of all the deities there to receive their sacrificial shares (_cakārāvāhanaṃ tatra bhāgārthaṃ sarvadevatāḥ_); yet none of the deities came thither at that time to accept their shares (_nābhyāgamaṃs tadā tatra bhāgārthaṃ sarvadevatāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.10cd–11 (kālena mahatā & nābhyāgaman)**
+
+Why did the invocation take “a long time” (_kālena mahatā_)? **Tilaka** explains that Viśvāmitra recited the mantras with prolonged effort (_adhikakālasādhyayatnapūrvakamantrapāṭhena_), and **Govindarāja** notes that he repeated the invocation mantras twice or thrice (_dvistrir mantrāvṛttyā_). Yet the gods refused to come because a rite performed by an unqualified priest and patron is ritually void (_anadhikāriṇā anyāyena ca kṛtam akṛtam iti nyāyāt_, **Govindarāja**; **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -520,6 +558,14 @@ and said this to Trishanku. [1-60-11b, 12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the great sage Viśvāmitra, filled with wrath (_tataḥ kopasamāviṣṭo viśvāmitro mahāmuniḥ_), lifting up the sacrificial ladle in anger (_sruvam udyamya sakrodhaḥ_), spoke these words to Triśaṅku:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.12 (sruvam udyamya)**
+
+Brandishing the ladle aloft in wrath (_ūrdhvaṃ krodhena prakṣipya_, **Tilaka**; _kopajaceṣṭāviśeṣaḥ_, **Govindarāja**), Viśvāmitra resolves to raise Triśaṅku by his own asceticism.
 </details>
 </details>
 
@@ -585,6 +631,14 @@ of people, now you will go to heaven with your own mortal body, which is otherwi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Behold the potency of my own hard-won asceticism (_paśya me tapaso vīryaṃ svārjitasya_), O lord of men! Here do I convey you to heaven in your very body by my spiritual might (_eṣa tvāṃ svaśarīreṇa nayāmi svargam ojasā_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.13–15 (tapaso vīryaṃ svārjitasya)**
+
+Setting aside the sacrifice since the gods refused their shares (_bhāgārthaṃ devānām anāgamanenāsādhyatve ’pi_, **Tilaka**; _tvadabhimatayāgas tāvad āstām_, **Govindarāja**), Viśvāmitra expends his own accumulated ascetic merit (_svatapovyayena_, **Tilaka**) to send Triśaṅku bodily to heaven. **Tilaka** remarks that the thrice-repeated command to ascend to heaven in vv. 13–15 is a natural expression of vehement wrath and not a stylistic fault (_kruddhatvāt punaruktyādi na doṣaḥ_).
 </details>
 </details>
 
@@ -693,6 +747,14 @@ with his mortal body, before the very eyes of other sages." Sage Shataananda con
 
 “by the fiery energy of that asceticism, O King, proceed bodily to heaven (_rājaṃs tvaṃ tejasā tasya saśarīro divaṃ vraja_)!” No sooner had that sage spoken these words (_uktavākye munau tasmin_) than the lord of men, in his very body (_saśarīro nareśvaraḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.15cd–16 (munīnāṃ paśyatām)**
+
+The instant Viśvāmitra uttered these words (_uktavākye munau tasmin_), Triśaṅku rose bodily into the heavens before the eyes of all the assembled sages (_munīnāṃ paśyatāṃ muniṣu paśyatsu_, genitive absolute in the sense of the locative, **Tilaka**, **Govindarāja**, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,6 +859,14 @@ inversed. [1-60-17b, 18a]
 
 together with all the hosts of the gods (_saha sarvaiḥ suragaṇaiḥ_), spoke these words: “O Triśaṅku, go back again (_triśaṅko gaccha bhūyas tvam_)! You have earned no abode in heaven (_nāsi svargakṛtālayaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.17–18 (nāsi svargakṛtālayaḥ & pata bhūmim avākśirāḥ)**
+
+Indra (_pākaśāsanaḥ_) intercepts Triśaṅku. **Tilaka** and **Śiromaṇi** gloss _svargakṛtālayaḥ_ as one who has prepared a dwelling in heaven through his own meritorious deeds (_svarge nijapuṇyakarmeṇa kṛta ālayo yasya_), which Triśaṅku lacks (_svargavāsārho nāsi_, **Tilaka**, **Govindarāja**). Blighted by his preceptors’ curse (_guruśāpahataḥ_), he is hurled back headfirst (_avākśirāḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -899,6 +969,14 @@ abnormal anger and also said, 'wait... wait...' [1-60-19b, 20a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 crying out piteously, “Save me (_trāhīti_)!” unto Viśvāmitra rich in asceticism. Hearing that cry of the screaming monarch (_tac chrutvā vacanaṃ tasya krośamānasya_), Kauśika
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.19–21 (tiṣṭha tiṣṭha & prajāpatir ivāparaḥ)**
+
+Halting Triśaṅku mid-air with the cry “Stop! Stop!”, Viśvāmitra acts like a second Creator (_prajāpatir ivāparaḥ_), fashioning another Seven Sages in the southern sky (_dakṣiṇamārgasthān_) and a new zodiac of twenty-seven constellations (_saptaviṃśatinakṣatramālām_, **Tilaka**, **Govindarāja**). Just as motionless Dhruva stands in the north encircled by the Saptarṣi-maṇḍala and constellations, so Triśaṅku shall stand in the south encircled by a southern Saptarṣi-maṇḍala and zodiac (_yathottarato dhruvo ’calas tiṣṭhati evaṃ triśaṅkus tiṣṭhatu_, **Tilaka**, **Govindarāja**).
 </details>
 </details>
 
@@ -1038,6 +1116,14 @@ without any Indra,' and when he is about to proceed to clone even gods in his wr
 
 **23:** declared: “I shall create another Indra, or else let that realm be without an Indra (_anyam indraṃ kariṣyāmi loko vā syād anindrakaḥ_)!” And in his wrath he even began to create new deities (_daivatāny api sa krodhāt sraṣṭuṃ samupacakrame_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.22–23 (anyam indraṃ kariṣyāmi loko vā syād anindrakaḥ)**
+
+Glossing _nakṣatravaṃśam_ in v. 22 as minor star-clusters (_kṣudranakṣatragaṇam_), **Tilaka** and **Govindarāja** explain Viśvāmitra’s twofold threat: either “I shall create another Indra, or else let my newly created heaven be without a separate Indra (_anindrakaḥ_) because Triśaṅku himself shall reign there as Indra (_triśaṅkur eva tatrendro bhavatu_)!” **Govindarāja** rejects Ācārya’s gloss (_anindrakaḥ_ = “I shall destroy Indra”) as contradicting the context of counter-creation (_sṛṣṭyantaropakramavirodhāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1082,6 +1168,14 @@ of hermits addressed the great-souled Vishvamitra with placatory words. [1-60-24
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, utterly bewildered and terrified (_tataḥ paramasambhrāntāḥ_), the gods and asuras together with the hosts of sages (_sarṣisaṅghāḥ surāsurāḥ_) spoke conciliatory words to the high-souled Viśvāmitra (_viśvāmitraṃ mahātmānam ūcuḥ sānunayaṃ vacaḥ_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.24 (paramasambhrāntāḥ surāsurāḥ)**
+
+Seeing Viśvāmitra initiate a counter-creation of gods (_devapratisargam_), both gods and asuras feared he would create rivals to replace them all (_svasyāpi pratisargaṃ kuryād iti hetoḥ_, **Tilaka**).
 </details>
 </details>
 
@@ -1137,6 +1231,14 @@ wealthy sage, he is not at all eligible to go to heaven with his mortal body.' S
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This king, O illustrious sage, is blighted by his preceptors’ curse (_ayaṃ rājā mahābhāga guruśāpaparikṣataḥ_); he simply ought not to ascend to heaven in his physical body, O sage rich in asceticism (_saśarīro divaṃ yātuṃ nārhaty eva tapodhana_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.25–26 (guruśāpaparikṣataḥ & nārhaty eva)**
+
+Approaching Viśvāmitra with soothing conciliation (_sānunayaṃ sasāntvam_, **Govindarāja**), the gods explain why Triśaṅku was repulsed: heaven can be attained only through unblemished merit (_aduṣṭasukṛtakarmaniṣṭhalabhyatvāt svargasya_, **Govindarāja**), whereas Triśaṅku has been reduced to a Caṇḍāla by his preceptors’ curse (_guruśāpena parikṣataś caṇḍālatvaṃ prāptaḥ_, **Tilaka**) and therefore cannot enter the heaven created by Brahmā (_divaṃ brahmasṛṣṭaṃ svargam_, **Tilaka**).
 </details>
 </details>
 
@@ -1232,6 +1334,14 @@ his mortal body, and I am not interested to make it untrue. [1-60-27]
 
 “Blessings be upon you (_bhadraṃ vaḥ_)! Ascension to heaven in his very body has been promised by me to this monarch Triśaṅku (_saśarīrasya triśaṅkor asya bhūpateḥ ārohaṇaṃ pratijñātam_); I cannot bear to make my pledge false (_nānṛtaṃ kartum utsahe_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.27 (bhadraṃ vaḥ & nānṛtaṃ kartum utsahe)**
+
+Returning the gods’ courtesy with _bhadraṃ vaḥ_ (_anunayaḥ_, **Tilaka**; _pratisāntvanam_, **Govindarāja**), Viśvāmitra accepts their rule regarding Brahmā’s heaven (_bhavadbhir uktaṃ tathaivāstu_, **Śiromaṇi**), yet insists that his own pledged word to Triśaṅku must also stand unbroken (_maduktam api tathaivāstu_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1295,6 +1405,14 @@ It will be apt of you all gods to accede to this.' So said Vishvamitra to gods. 
 **28:** “Therefore let there be an eternal heaven for this Triśaṅku in his bodily form (_svargo ’stu saśarīrasya triśaṅkor asya śāśvataḥ_), and let all these constellations of mine abide firm and permanent (_nakṣatrāṇi ca sarvāṇi māmakāni dhruvāṇy atha_)!
 
 **29:** “As long as the worlds shall endure, let these constellations stand in every respect (_yāval lokā dhariṣyanti tiṣṭhantv etāni sarvaśaḥ_); all of you gods ought to sanction what I have fashioned (_yat kṛtāni surāḥ sarve tad anujñātum arhatha_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.28–30 (svargo ’stu ... śāśvataḥ & yāval lokā dhariṣyanti)**
+
+How can both conflicting principles hold true simultaneously (_viruddhaṃ dharmadvayam_, **Śiromaṇi**)? Viśvāmitra proposes that the very region where Triśaṅku now hangs remain his eternal heaven (_svargo ’stv ayaṃ triśaṅkusthitideśa eva_, **Govindarāja**), and that his newly created stars endure as long as the worlds from Bhūrloka to Satyaloka (_bhūrādisatyāntāḥ_, **Tilaka**) endure.
 </details>
 </details>
 
@@ -1410,6 +1528,20 @@ of a simulative Universe. [1-60-32b, 33a]
 
 **32:** “let Triśaṅku stand with head hanging downward, resembling an immortal (_avākśirās triśaṅkuś ca tiṣṭhatv amarasaṃnibhaḥ_)! And these shining constellations shall attend upon that best of kings (_anuyāsyanti caitāni jyotīṃṣi nṛpasattamam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.31 (vaiśvānarapathād bahiḥ & jājvalan)**
+
+Ratifying Viśvāmitra’s creation, the gods decree that his southern constellations shall shine outside the _vaiśvānarapatha_—glossed by **Tilaka**, **Govindarāja**, and **Śiromaṇi** as the primeval zodiacal path of the luminaries taught in _Jyotiḥśāstra_ (_jyotiḥśāstraprasiddhānādijyotiścakramārgād bahiḥ_, **Tilaka**; _vaiśvānaraḥ jyotirgaṇas tasyādhvā_, **Govindarāja**). Amidst those stars, Triśaṅku shall blaze brightly (_jājvalan bhṛśaṃ jvalan_, **Tilaka**).
+
+_____________
+
+**60.32–33ab (avākśirās triśaṅkuḥ & anuyāsyanti)**
+
+Why does Triśaṅku remain inverted (_avākśirāḥ_) in his starry apotheosis? **Tilaka** explains that both the gods’ command (that he fall headfirst) and Viśvāmitra’s halting command must hold true (_asmadājñayāvākśirastvavān eva tvaddhṛtadeśe devatulyaḥ san tiṣṭhatu_), while **Govindarāja** adds that his inverted posture proclaims the consequence of offending one’s guru (_gurvapakāraphalaprakāṭanāyādhomukhaḥ_). Like the northern stars circling Dhruva, these stars attend upon Triśaṅku (_svarganakṣatrāṇi dhruvam iva_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1461,6 +1593,14 @@ stirring himself from among the sages said to all gods, 'Agreed!' [1-60-33]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “who has fulfilled his purpose and won enduring renown, just as if he had entered the celestial realm itself (_kṛtārthaṃ kīrtimantaṃ ca svargalokagataṃ yathā_)!” Then the righteous Viśvāmitra of great splendour, praised by all the gods (_sarvadevair abhiṣṭutaḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**60.33cd–34 (bāḍham & yajñasyānte)**
+
+Recognizing that obstinacy brings ruin (_durāgrahasyānarthahetutāṃ pratisaṃdhāya_, **Tilaka**), Viśvāmitra consents with _bāḍham_. **Govindarāja** notes that Viśvāmitra completed the sacrifice using a ritual substitute for the absent patron (_yajamānapratinidhiṃ kṛtvā yajñaḥ samāpitaḥ_).
 </details>
 </details>
 

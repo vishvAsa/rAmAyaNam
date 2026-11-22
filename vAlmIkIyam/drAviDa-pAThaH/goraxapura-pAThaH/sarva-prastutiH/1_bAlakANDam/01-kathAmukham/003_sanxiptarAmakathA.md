@@ -100,6 +100,14 @@ On hearing the essence of Ramayana from Sage Narada, which is abound with probit
 
 Having heard that complete narrative (_vastu samagram_) fraught with _dharma_ and supreme purpose (_dharmārthasahitam_) and salutary to all beings (_hitam_), the wise sage sought to explore even more vividly (_vyaktam anveṣate bhūyaḥ_) the entire conduct and history of that sagacious prince.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.1 (vastu-vailakṣaṇya & dharmārthasahitam)**
+
+**Govindarāja (_Bhūṣaṇa_)** opens Sarga 3 by explaining its structural role: whereas Sarga 2 established the supreme majesty of the poem’s subject-matter as the Supreme Person (_paramātma-svarūpaṃ vastu-vailakṣaṇyam_), Sarga 3 establishes its twofold epistemic and poetic distinction: first, that every detail was directly apprehended through infallible yogic perception (_samyag-jñānāvagatatvam_), and second, that it is adorned with the transcendent virtues of its hero. **Rāma Varmā (_Tilaka_)** notes that _dharmārthasahitam_ stands by _upalakṣaṇa_ for the entire threefold human pursuit (_trivarga_: _dharma, artha, kāma_), while _hitam_ signifies that the poem’s ultimate fruit is liberation (_mokṣa-phalakam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +173,14 @@ Comment: Touching/sipping waters *aachamana, pariSechana* , before undertaking
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having duly sipped water in ritual purification (_upaspṛśyodakaṃ samyak_) and seated himself with folded hands upon _darbha_ blades pointing eastward (_prācīnāgreṣu darbheṣu_), the sage through the power of _dharma_ (_dharmeṇa_) contemplated the entire course of events (_gatim_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.2 (upaspṛśyodakam & prācīnāgreṣu darbheṣu)**
+
+All three commentators gloss _upaspṛśyodakam_ via _Amarakośa_ (_upasparśas tv ācamanam_) as performing ritual _ācamana_ according to Śāstric ordinance. Seated upon _darbha_ grass with tips pointing eastward and joining his palms in reverence toward his preceptor (_nijagurum uddiśya kṛtāñjaliḥ san_, **Govindarāja**), Vālmīki meditates _dharmeṇa_—by the spiritual merit born of yoga and Lord Brahmā’s boon (_yogajena brahmavaraprasādarūpeṇa ca_, **Tilaka**).
 </details>
 </details>
 
@@ -232,6 +248,14 @@ Of Rama, Lakshmana and Seetha, also of King Dasharatha and his wives, and what b
 **3:** Whatever was truly experienced there by Rāma, Lakṣmaṇa, and Sītā, as well as by King Daśaratha together with his queens and his entire realm—
 
 **4:** Every laugh (_hasitam_), every utterance (_bhāṣitam_), every movement (_gatiḥ_), and every deed and gesture (_yāvac ca ceṣṭitam_)—all of that he beheld directly as it actually transpired (_yathāvat saṃprapaśyati_) through the spiritual potency of _dharma_ (_dharmavīryeṇa_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.3–6 (strītṛtīyena & pāṇāv āmalakaṃ yathā)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** observe that Verses 3–4 form a single syntactic period (_ślokadvayam ekaṃ vākyam_) encompassing the Ayodhyā period—every smile (_hasitam_), conversation (_bhāṣitam_), walk (_gatiḥ_), and action (_ceṣṭitam_)—while Verse 5 turns to the forest exile (_vanavāsakālīna-vṛttānta_), where Rāma is memorably called _strītṛtīyaḥ_ (“he of whom a woman, Sītā, is the third companion,” Lakṣmaṇa being the second). On v. 6, **Tilaka** remarks: _nedaṃ darśanaṃ svapnavad ity āha_—“this vision was not indistinct like a dream, but as immediate as an _āmalaka_ myrobalan held on the open palm of one’s hand.”
 </details>
 </details>
 
@@ -506,6 +530,14 @@ That godly saint Valmiki composed the legend of Rama, the legatee of Raghu, exac
 
 **9:** Just as had been previously recounted in brief by the great-souled Nārada, the venerable sage composed the history of the dynasty of Raghu (_raghuvaṃśasya caritam_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.8 (kāmārthaguṇasaṃyuktaṃ dharmārthaguṇavistaram & sarvaśrutimanoharam)**
+
+The three classical commentators offer jewel-like interpretations of this programmatic verse. **Govindarāja**, citing the lexicon _Vaijayantī_ (_arthaḥ syād viṣaye mokṣe śabdavācye prayojane_), takes the second _artha_ in the sense of _mokṣa_: in _kāmārthaguṇasaṃyuktam_, _guṇa_ means ‘subordinate’ (_aprādhānyam_)—the poem treats _kāma_ and worldly _artha_ only subordinately to show their transience—whereas in _dharmārthaguṇavistaram_, _guṇa_ means ‘supreme excellence’ (_atiśayaḥ_), expanding at length the paramount ends of _dharma_ and _mokṣa_, just as the ocean, though containing shells, chiefly bears gems (_samudram iva ratnāḍhyam_). **Tilaka** adds a profound Vedāntic gloss on _sarvaśrutimanoharam_: not only “delighting all ears,” but “expounding the essence of the _Upaniṣads_, which are the very heart (_manaḥ/sāraḥ_) of all the _Śrutis_ (Vedas)”!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -552,6 +584,14 @@ The birth of Rama as an incarnation of Vishnu, his very great valour, his gracef
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The glorious birth of Rāma (_janma rāmasya sumahat_), his heroic valor, his benevolent disposition toward all creatures (_sarvānukūlatām_), his universal dearness to the world (_lokasya priyatām_), his forbearance (_kṣāntim_), his gentle grace (_saumyatām_), and his steadfastness in truth (_satyaśīlatām_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.10 (lokasya priyatām — Tilaka’s Definition of Prema)**
+
+**Rāma Varmā (_Tilaka_)** defines the love (_prema_) that Śrī Rāma inspires in the world: it is a spontaneous affection drawn by sheer beauty of soul that cannot endure separation (_viśleṣāsahatva-paryavasāyinī_), that overlooks faults even when present (_vidyamānānām api doṣāṇām adarśanakarī_), that never ceases even amid a thousand calamities, and that, by purifying the mind, culminates in liberating realization (_cittaśuddhidvārā... bhaktijanakajñānaparyavasāyī_).
 </details>
 </details>
 
@@ -603,6 +643,14 @@ Narrated are very many other amusing stories, Rama's breaking the great bow; his
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Various wondrous tales and other discourses during his journey in the company of Viśvāmitra (_viśvāmitrasahāyane_), the wedding of Jānakī (Sītā), and the breaking of the great bow of Śiva;
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.11–12 (nānā citrāḥ kathāś cānyāḥ & rāmarāmavivādam)**
+
+On v. 11, **Tilaka** explains why both _citrāḥ kathāḥ_ and _anyāḥ_ are used: during the journey with Viśvāmitra (_viśvāmitrasahāyane_), _citrāḥ kathāḥ_ refers to the marvellous narratives of the Gaṅgā, Tāṭakā, and Ahalyā, while _anyāḥ_ refers to the spiritual discourses in Daśaratha’s court (such as the _Yogavāsiṣṭha_). On v. 12, **Śiromaṇi** and **Govindarāja** explain the compound _rāmarāmavivādam_ (“the dispute of Rāma with Paraśurāma”) by _yogavibhāga_ on Pāṇini 2.1.32 (_tṛtīyā_), which prevents the two identical names from collapsing into a dual _ekaśeṣa_ (_rāmau_).
 </details>
 </details>
 
@@ -705,6 +753,14 @@ The grief of the subjects; Rama leaving them off; his conversing with tribal chi
 **13:** The thwarting of the royal consecration (_vighātaṃ cābhiṣekasya_) and the banishment of Rāma to the forest; the King’s grief and lamentation, and his departure to the other world (_paralokasya cāśrayam_);
 
 **14:** The sorrow of the citizens (_prakṛtīnāṃ viṣādam_) and his taking leave of the subjects (_prakṛtīnāṃ visarjanam_); the dialogue with Guha, lord of the Niṣādas, and the return of the charioteer Sumantra (_sūtopāvartanam_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.14 (prakṛtīnāṃ visarjanam)**
+
+All three commentators note that after the citizens of Ayodhyā insisted on following Rāma into the forest out of unbearable grief (_prakṛtīnāṃ viṣādam_), Rāma had to slip away by night while they slept on the banks of the Tamasā so that they would return to protect the capital—an act of compassionate dismissal here called _prakṛtīnāṃ visarjanam_ (_vañcanāpūrvaka-visarjanam ayodhyāṃ prati parāvartanam_, **Tilaka** and **Govindarāja**).
 </details>
 </details>
 
@@ -1378,6 +1434,86 @@ Comment: In this verse, some take the word *uttare* as Uttara Ramayana, the even
 **38:** The dispatching of Vāyu’s son Hanumān ahead and the joyful reunion with Bharata; the grand festival of Rāma’s imperial consecration (_rāmābhiṣekābhyudayam_), the dismissal of all the allied armies to their homes, the gladdening of his own kingdom (_svarāṣṭrarañjanam_), and the subsequent banishment of Vaidehī (_vaidehyāś ca visarjanam_).
 
 **39:** And whatever future events (_anāgataṃ ca yat kiṃcit_) remained to transpire for Rāma upon the face of the earth—all that the venerable sage Vālmīki composed in the concluding book of the poem (_uttare kāvye_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.16–17 (vāstukarma & pādukāgryābhiṣekam)**
+
+On v. 16, **Govindarāja** distinguishes _vāstukarma_ (constructing the thatched hermitage at Citrakūṭa according to Śāstric rules of architecture) from _niveśam_ (entering and taking up residence after performing _vāstu-pūjā_). On v. 17, **Tilaka**, **Śiromaṇi**, and **Govindarāja** analyze _pādukāgryābhiṣekam_ as the royal consecration of Rāma’s two supreme sandals (_pādukāgryayoḥ = śreṣṭhapādukayoḥ_) as the regents of the kingdom, while **Tilaka** adds that _nandigrāmanivāsanam_ implies that once Bharata took up his ascetic residence at Nandigrāma, the hearts and affairs of all the subjects dwelt there with him.
+
+_____________
+
+**3.17–18 (Why Anasūyā is Listed After Virādha)**
+
+In the epic narrative, Sītā’s visit to Atri’s wife Anasūyā occurs at the close of _Ayodhyākāṇḍa_ (Sargas 117–118), before the slaying of Virādha at the opening of _Araṇyakāṇḍa_. **Tilaka**, **Śiromaṇi**, and **Govindarāja** all explicitly address this sequence: _yady apy etad virādhavadhāt pūrvam eva, tathāpi krame tātparyābhāvād vyatyayenābhidhānam_—“although this episode precedes the slaying of Virādha in the text, strict sequence is not intended here, because the sole purport of this Sarga is a synoptic inventory of the topics treated in the _Rāmāyaṇa_.”
+
+_____________
+
+**3.19 (śūrpaṇakhyāḥ — Pāṇinian Note on the Ārṣa Feminine)**
+
+Both **Śiromaṇi** and **Govindarāja** call attention to the genitive form _śūrpaṇakhyāḥ_ (from stem _śūrpaṇakhī_ ending in _ṅīp_): although Pāṇini 4.1.58 (_nakhamukhāt saṃjñāyām_) specifically prohibits the feminine suffix _ṅīṣ/ṅīp_ after _-nakha_ and _-mukha_ in proper names (yielding standard classical _śūrpaṇakhā_), Vālmīki’s use of _śūrpaṇakhī_ is a venerable _ārṣa_ (epic/seeric) licence.
+
+_____________
+
+**3.21–22 (gṛdhrarājanibarhaṇam & śabarīdarśanam)**
+
+In v. 21, **Śiromaṇi** notes that _gṛdhrarājanibarhaṇam_ denotes Rāvaṇa’s mortal wounding of the vulture-king Jaṭāyu, while the particle _api_ encompasses Rāma’s performance of filial funeral rites for Jaṭāyu. Note also the textual contrast in v. 22: whereas the Baroda Critical Edition (CE 1.3.14) contracts v. 22 into a single line (_śarbaryā darśanaṃ caiva hanūmaddarśanaṃ tathā_), the Southern Recension and all three classical commentaries preserve both lines, explicitly recording Rāma’s partaking of Śabarī’s forest fruits and roots (_phalamūlāśanam_) and his vernal lament at Lake Pampā (_pralāpaṃ caiva pampāyām_) before meeting Hanumān.
+
+_____________
+
+**3.23–24 (pratyayotpādanam, samayam & varṣarātranivāsanam)**
+
+On v. 23, **Tilaka** and **Govindarāja** explain _pratyayotpādanam_ as Rāma’s instilling of unshakeable confidence in Sugrīva by kicking Dundubhi’s skeleton and piercing the seven _sāla_ trees with a single arrow. On v. 24, **Govindarāja** cites the lexicon _Ratnamālā_ (_samayaḥ kālasiddhāntapratijñāśapatheṣu ca, saṅketācārayoś ca_) to gloss _samayam_ as the solemn pact (_saṅketam_) between Rāma and Sugrīva that the search for Sītā would commence immediately upon the close of the autumn rains.
+
+_____________
+
+**3.25–26 (pṛthivyāś ca nivedanam & ṛkṣasya biladarśanam)**
+
+All three commentators explain _pṛthivyāś ca nivedanam_ (v. 25) as Sugrīva’s detailed cosmographical exposition of the earth’s continents, mountains, rivers, and oceans (_Kiṣkindhākāṇḍa_ Sargas 40–43) as he dispatches the monkey legions to the four quarters. In v. 26, **Śiromaṇi** and **Govindarāja** note that _ṛkṣasya bilam_ is the proper name of the subterranean cavern built by Maya and guarded by the female ascetic Svayamprabhā (_svayamprabhābilaṃ tasya tathā saṃjñā_).
+
+_____________
+
+**3.27–28 (samudravacanāt, rākṣasītarjanam & laṅkāmalayadarśanam)**
+
+These two verses preserve the iconic triad of trials during Hanumān’s ocean crossing, which the Southern Recension and commentaries retain in full while the Baroda CE omits them here: (1) Mount Maināka rising from the deep at the Ocean’s command to offer rest to Vāyu’s son (v. 27cd); (2) Hanumān’s outwitting and rebuking of Surasā and the guardian Laṅkinī (_rākṣasyoḥ surasālaṅkinyos tarjanam_, **Śiromaṇi**); and (3) his slaying of the shadow-catching demoness Siṃhikā (_chāyāgrāhasya siṃhikāyāḥ_). On _laṅkāmalayadarśanam_, **Govindarāja** quotes the lexicon _Ratnamālā_ showing that _malaya_ denotes both a pleasure-hill and the mountain crest supporting Laṅkā.
+
+_____________
+
+**3.29 (ekasyāpi vicintanam & āpānabhūmigamanam)**
+
+**Tilaka** glosses _ekasyāpi vicintanam_ as Hanumān’s solitary reflection, unaided in an enemy citadel at midnight, on how best to accomplish his master’s mission without raising alarm (_asahāyasya kartavyārthavicāram_). **Govindarāja** glosses _āpānabhūmiḥ_ as Rāvaṇa’s banquet and drinking pavilion (_madyapānabhūmiḥ_) and _avarodhaḥ_ as the royal women’s quarters (_antaḥpuram_).
+
+_____________
+
+**3.31–32 (trijaṭāsvapnadarśanam & vṛkṣabhaṅgam)**
+
+Notice why v. 31 places _rākṣasītarjanam_ and _trijaṭāsvapnadarśanam_ after _abhijñānapradānam_: as the commentators noted earlier on v. 18, the _Anukramaṇikā_ groups related motifs topically rather than strictly chronologically. On _vṛkṣabhaṅgam_ (v. 32), **Śiromaṇi** observes with devotional precision that Hanumān uprooted all the trees of Aśokavanikā _except_ the _śiṃśapā_ tree sheltering Sītā (_sītāśrayībhūta-śiṃśapātiriktāśokavanikotpāṭanam_)!
+
+_____________
+
+**3.33 (grahaṇaṃ vāyusūnoś ca laṅkādāhābhigarjanam)**
+
+**Govindarāja** notes that _grahaṇam_ refers to Hanumān allowing himself to be bound by Indrajit’s _brahmāstra_ so that he might confront Rāvaṇa face to face in his court. On _laṅkādāhābhigarjanam_, **Tilaka** and **Śiromaṇi** record two interpretations and a variant reading: (a) the wailing of the citizens or the triumphant roar of Hanumān during the burning of Laṅkā; or (b) the variant _laṅkādāhābhimardanam_ (“the crushing of the rākṣasas through the conflagration of Laṅkā”).
+
+_____________
+
+**3.34–35 (rāghavāśvāsanam & vadhopāyanivedanam)**
+
+**Śiromaṇi** links _rāghavāśvāsanam_ (v. 34) directly to Hanumān’s famous opening words upon returning from across the sea—_dṛṣṭā sītā_ (“Seen is Sītā!”)—followed by his presentation of her crest-jewel (_maṇiniryātanam_). On v. 35, **Govindarāja** and **Śiromaṇi** explain _vadhopāyanivedanam_ as Vibhīṣaṇa’s strategic disclosure of the secret sacrificial rites and vulnerabilities of Indrajit, Kumbhakarṇa, and Rāvaṇa.
+
+_____________
+
+**3.36 (sītāvāptim areḥ pure — Śauryātiśayokti)**
+
+**Govindarāja** highlights the pointed locative phrase _areḥ pure_ (“recovering Sītā right inside the enemy’s own capital”) as an expressive figure of heroic pre-eminence (_śauryātiśayoktiḥ_): Rāma did not recover Sītā by stealth or treaty, but after annihilating Kumbhakarṇa, Meghanāda, and Rāvaṇa in open battle within the walls of Laṅkā.
+
+_____________
+
+**3.38–39 (vaidehyāś ca visarjanam & uttare kāvye)**
+
+Unlike the shorter summary in Sarga 1 (which concluded at Rāma’s golden reign in _Yuddhakāṇḍa_), the great _Anukramaṇikā_ of Sarga 3 explicitly includes the events of the _Uttarakāṇḍa_—both here in v. 38ef (_vaidehyāś ca visarjanam_, the banishment of Vaidehī) and in v. 39 (_tac cakārottare kāvye_). Note critically that both lines are present in the **Baroda Critical Edition** as well (CE 1.3.28cd–29)! **Govindarāja**, **Tilaka**, and **Śiromaṇi** all explain that the six principal _kāṇḍas_ narrate the past and present deeds up to the coronation, while the _Uttara-kāvya_ (_Uttarakāṇḍa_) narrates the future episodes (_anāgatam = bhaviṣyatkālikam_, such as the revival of the Brāhmaṇa’s child and the _Aśvamedha_ sacrifice), with the pronoun _yat kiṃcit_ indicating that the _Uttarakāṇḍa_ forms a briefer epilogue compared to the vast body of the preceding six books.
 </details>
 </details>
 

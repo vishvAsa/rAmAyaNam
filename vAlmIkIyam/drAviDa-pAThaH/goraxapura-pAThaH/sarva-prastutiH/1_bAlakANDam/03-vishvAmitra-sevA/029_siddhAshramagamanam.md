@@ -88,6 +88,14 @@ When that matchlessly illustrious Rama has asked for details, that highly
 
 Then, upon hearing the words of that immeasurable prince who was thus inquiring (_tasyāprameyasya vacanaṃ paripṛcchataḥ_), Viśvāmitra of mighty splendor began to expound the history of that grove (_vyākhyātum upacakrame_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.1–3 (Viṣṇu’s Ancient Tapas & the Double iha)**
+
+On v. 2, **Tilaka** and **Govindarāja** explain the double locative _iha_: the first denotes the forest at large (_iha vane_), while the second pinpoints this exact hermitage spot within it. Just as Nārāyaṇa performs _tapas_ at Badarikāśrama to establish righteous conduct for the world (_svācāreṇa lokapravartanāya_, **Tilaka**; _badrikāśrama iva nārāyaṇasya_, **Govindarāja**), Viṣṇu practiced ascetic yoga here prior to His _Vāmanāvatāra_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +256,20 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 
 **5:** “Having vanquished the hosts of the gods together with Indra and the troops of the Maruts (_daivatagaṇān sendrān sahamarudgaṇān_), ruled over their sovereignty, renowned throughout the three worlds (_triṣu lokeṣu viśrutaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.4 (Etymology of Siddhāśrama — siddho hy atra mahātapāḥ)**
+
+All three commentators derive _Siddhāśrama_ from v. 4b: **Tilaka** takes _mahātapāḥ_ as Viṣṇu attaining ascetic fulfillment here (_viṣṇus tapaḥsiddho jātaḥ_); **Govindarāja** takes _mahātapāḥ_ as Maharṣi Kaśyapa attaining the fruit of his penance here; and **Śiromaṇi** reads _siddhaḥ_ causatively (_antarbhāvita-ṇijarthaḥ_), meaning Viṣṇu perfected the meditation of sages here.
+
+_____________
+
+**29.4cd–5 (Bali Vairocani’s Conquest of the Three Worlds)**
+
+During Viṣṇu’s ascetic residence, Bali—son of Virocana and grandson of Prahlāda (**Govindarāja**)—defeated Indra and the Marut wind-troops (_āvahādivāyugaṇān_, **Tilaka**) and ruled over Indra’s realm (_kārayām āsa tad rājyam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -309,6 +331,14 @@ When Bali commences a grand sacrifice, the gods led by Agni implore Viṣṇu in
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That mighty lord of the Asuras then commenced a great sacrifice (_yajñaṃ cakāra sumahān asurendro mahābalaḥ_). While Bali was thus performing the sacrifice (_bales tu yajamānasya_), the gods with Agni at their head (_devāḥ sāgnipurogamāḥ_) came in person and spoke to Viṣṇu here in this hermitage:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.6–7 (How Can an Enemy of the Devas Offer Sacrifice? — Karma-devas vs. Ājāna-devas)**
+
+Both **Tilaka** and **Govindarāja** address a classic Mīmāṃsā-Vedānta question—how an Asura hostile to the gods can offer a Vedic sacrifice: since Vedic deities are sentient, embodied beings (_devatāyā vigrahavattvasyottaramīmāṃsāyāṃ siddhāntitatvāt_), how can Bali sacrifice while warring against Indra? **Tilaka** distinguishes _Karma-devas_ (souls who attained posts like Indra’s by merit, whom Bali opposes) from eternal _Ājāna-devas_ (primordial Vedic deities intrinsic to the mantras, whom Bali propitiates). **Govindarāja** answers that Bali’s rite worships Bhagavān Viṣṇu directly (_bhagavadārādhanabhūtaḥ_), and Viṣṇu disciplines His devotee Bali just as a father disciplines one son who wrongs another (_putrāntaravirodhiputraśikṣaṇavat_).
 </details>
 </details>
 
@@ -407,6 +437,14 @@ When Bali commences a grand sacrifice, the gods led by Agni implore Viṣṇu in
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Whoever approaches him as a suppliant from this quarter or that (_ye cainam abhivartante yācitāra itas tataḥ_), he bestows upon them everything they ask—whatever it be, wherever it be, and with due honor (_yac ca yatra yathāvac ca sarvaṃ tebhyaḥ prayacchati_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.8–9 (Bali’s Munificence & māyāyoga)**
+
+Before Bali completes his rite (_asamāptavrate_), the gods led by Agni implore Viṣṇu to veil His majesty through _māyā_ (_viṣṇutvācchādikā śaktiḥ_, **Govindarāja**) and beg back their realm as Vāmana, since Bali grants every petitioner’s request with honor (_yathāvat_).
 </details>
 </details>
 
@@ -540,6 +578,14 @@ The ascetic practises conducted along with wife are said to yield best
 
 **11:** “That venerable sage, aided by his consort the goddess (_devīsahāyo bhagavān_), having completed an ascetic vow lasting a thousand divine years (_divyaṃ varṣasahasrakam_), praised Madhusūdana, the bestower of boons (_tuṣṭāva madhusūdanam_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.10–11 (Kaśyapa’s Vow & the Double Vocative rāma)**
+
+**Tilaka** explains the repetition of _rāma_ in v. 10ac as expressing Viśvāmitra’s joy (_harṣātiśayāt_) in recounting Rāma’s own prior incarnation in his hermitage.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -610,6 +656,14 @@ The word 'tapaH' also means j~naana, gnosis, knowledge, intellect, spirit,
 
 “‘Abounding in asceticism (_tapomayam_), the treasury of all asceticism (_taporāśim_), the embodiment of asceticism (_tapomūrtim_), whose very essence is spiritual knowledge (_tapātmakam_)—through my well-performed penance (_tapasā sutaptena_), I behold You, the Supreme Person (_paśyāmi puruṣottamam_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.12 (Fourfold Analysis of tapomayaṃ taporāśiṃ tapomūrtiṃ tapātmakam)**
+
+All three commentators distinguish the four _tapas_-epithets: (1) _tapomayam_: abounding in austerity (_pracuratapoyuktam_, **Tilaka**) or propitiable through austerity (_tapasārādhyam_, **Govindarāja**); (2) _taporāśim_: the bestower of the fruits of all austerities (_tapaḥphaladam_); (3) _tapomūrtim_: whose very form is _tapas_, preserving _Advaita-śruti_ by showing non-difference between the Lord and His ascetic radiance (_tapasas tadananyatvena nādvaitahāniḥ_, **Tilaka**); and (4) _tapātmakam_: derived from तप आलोचने with suffix _-ka_, meaning whose essence is Supreme Consciousness (_tapanaṃ tapo jñānaṃ tadātmakam_, **Tilaka** and **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,6 +716,14 @@ This is the concept of *vishvaruupa*, Physique of the Universes,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Within Your body I behold this entire universe, O Lord (_śarīre tava paśyāmi jagat sarvam idaṃ prabho_)! You are beginningless and beyond all definition (_tvam anādir anirdeśyaḥ_); unto You have I come for refuge (_tvām ahaṃ śaraṇaṃ gataḥ_).’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.13 (Vision of the Virāṭ-Rūpa — śarīre tava paśyāmi jagat sarvam)**
+
+Beholding the cosmic form (_vairājaṃ rūpam_, **Tilaka**), Kaśyapa sees the universe within Viṣṇu’s body—a vision **Govindarāja** parallels to _Bhagavad-Gītā_ 11.15—and takes refuge in the Lord who is beginningless (_anādiḥ_) and beyond spatial or conceptual limitation (_anirdeśyaḥ = aśakyaparicchedaḥ_).
 </details>
 </details>
 
@@ -718,6 +780,14 @@ Vishnu is gladdened for the devotion of sage Kaashyapa who is absolved
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Well-pleased, Lord Hari spoke to Kaśyapa, who was cleansed of all stain (_gatakalmaṣam_): ‘Choose a boon (_varaṃ varaya_), may auspiciousness attend you! You are deemed by Me worthy of a boon (_varārho ’si mato mama_).’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.14–17 (Kaśyapa’s Boon — Birth as Upendra)**
+
+Kaśyapa Mārīca (“son of Marīci”) prays that Viṣṇu be born of Aditi and himself (_putratvaṃ gaccha_) as Indra’s younger brother (_yavīyān = kaniṣṭhaḥ_) to succor the gods by outwitting Bali (_sāhāyyaṃ = balicchalanarūpam_, **Tilaka**).
 </details>
 </details>
 
@@ -901,6 +971,14 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
 
 “‘By Your grace this precinct shall henceforth be renowned as _Siddhāśrama_ (_ayaṃ siddhāśramo nāma prasādāt te bhaviṣyati_); now that our ascetic rite has reached fulfillment, O Lord of the gods, arise from this place, O Bhagavān (_siddhe karmaṇi deveśa uttiṣṭha bhagavann itaḥ_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.18 (siddhe karmaṇi & the Blessing of Siddhāśrama)**
+
+Concluding his prayer, Kaśyapa declares that through Viṣṇu’s grace (_prasādāt te_) this hermitage shall be renowned as _Siddhāśrama_, and bids the Lord arise from this spot to incarnate for the work of the gods (_mattapasi siddhe sati... itas āśramād uttiṣṭha avatareti śeṣaḥ_, **Govindarāja** and **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -948,6 +1026,14 @@ The wording *siddhe karmaNi* is interpreted in two ways. One
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thereupon Viṣṇu of mighty splendor was born of Aditi (_adityāṃ samajāyata_); assuming the form of the dwarf Vāmana (_vāmanaṃ rūpam āsthāya_), He approached Bali, son of Virocana.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.19–21 (Vāmana’s Three Strides, lokātmā & Binding Bali)**
+
+On _lokātmā_ (variant for _lokārthī_), **Govindarāja** explains how a dwarf could stride across the cosmos: having begged in dwarf form, He encompassed the worlds with His all-pervading universal body (_vāmanarūpeṇa yācitvā sarvalokavyāpiśarīreṇa jagrāha_). On _niyamya balim ojasā_, **Govindarāja** notes that because the triple world was exhausted by two strides, Bali was bound for failing to deliver the promised third stride (_trailokyasyāpi padadvayākrāntatvena tṛtīyapadālābhāt tadarthaṃ baddhvā_).
 </details>
 </details>
 
@@ -1120,6 +1206,14 @@ _________________
 
 “This hermitage that banishes all weariness was thus first occupied by Him alone (_tenaiva pūrvam ākrānta āśramaḥ śramanāśanaḥ_); and out of devotion to that very Vāmana, it is now inhabited and enjoyed by me as well (_mayāpi bhaktyā tasyaiva vāmanasyopabhujyate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.22–23 (Answering Both of Rāma’s Questions)**
+
+**Tilaka** and **Govindarāja** note that v. 22 answers “Whose hermitage is this?”—it was first occupied by Vāmana, and Viśvāmitra dwells here out of devotion (_bhaktyā_) to Him—while v. 23 answers Rāma’s second question (_pūrvasargāntakṛta-dvitīyapraśnottaram_, **Tilaka**): right here (_atra_) the obstructing Rākṣasas must be slain.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1230,6 +1324,14 @@ This hermitage is my benefice now for I am practising my asceticism
 
 “Today, O Rāma, we enter the peerless _Siddhāśrama_ (_adya gacchāmahe rāma siddhāśramam anuttamam_); that hermitage precinct, my dear child, is just as much yours as it is mine (_tad āśramapadaṃ tāta tavāpy etad yathā mama_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.24 (tavāpy etad yathā mama — The Hidden Resonance of Viṣṇvavatāratva)**
+
+When Viśvāmitra tells Rāma, “That hermitage precinct, my dear child, is yours just as much as it is mine (_tavāpy etad yathā mama_),” the surface meaning is affectionate hospitality, but **Rāma Varmā (_Tilaka_)** points out the deeper intention (_gūḍhābhisandhiḥ_): because Rāma is none other than Lord Viṣṇu-Vāmana incarnate (_viṣṇvavatāratvāt_), Siddhāśrama is literally Rāma’s own primeval abode!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1287,6 +1389,14 @@ So saying that great sage Vishvamitra is highly gladdened to lead Rama
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, the great sage, supremely delighted, took Rāma along with Lakṣmaṇa and, as he entered the hermitage precinct, shone forth like the Moon freed from mist when conjoined with the twin stars of _Punarvasu_ (_śaśīva gatanīhāraḥ punarvasusamanvitaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.25 (Astronomical Precision of śaśīva gatanīhāraḥ punarvasusamanvitaḥ)**
+
+Entering Siddhāśrama flanked by Rāma and Lakṣmaṇa, Viśvāmitra shone like the Moon freed from winter mist (_gatanīhāraḥ = gatahimaḥ_) in conjunction with the asterism _Punarvasu_. All three commentators (**Tilaka**, **Śiromaṇi**, and **Govindarāja**) highlight the astronomical precision of Vālmīki’s simile: the _nakṣatra_ Punarvasu (α and β Geminorum) consists specifically of **two bright twin stars** (_punarvasū dve tāre_), providing the exact celestial counterpart to Viśvāmitra accompanied by the twin princes Rāma and Lakṣmaṇa (_rāmalakṣmaṇasāmyāpekṣayā_).
 </details>
 </details>
 
@@ -1356,6 +1466,14 @@ Those sages reverenced Vishvamitra according to their deservedness,
 **26:** Beholding him, all the sages dwelling in Siddhāśrama (_munayaḥ sarve siddhāśramanivāsinaḥ_) sprang up at once one after another and paid homage to Viśvāmitra (_utpatyotpatya sahasā viśvāmitram apūjayan_).
 
 **27:** In accordance with due ordinance they offered worship to the wise Viśvāmitra (_yathārhaṃ cakrire pūjāṃ viśvāmitrāya dhīmate_), and in like manner they performed the rites of hospitality for the two royal princes (_rājaputrābhyām akurvann atithikriyām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.26–28 (utpatyotpatya & muhūrtam atha viśrāntau)**
+
+On _utpatyotpatya_, **Govindarāja** notes that the iterative reduplication conveys both the overflowing joy of the ascetics (_prītyatiśayoktiḥ_) and their vast multitude (_munibahutvaṃ sūcyate_). Having rested for a single _muhūrta_ (_nivartitādhvaśramau_, **Śiromaṇi**), the princes immediately request the commencement of the sacrifice.
 </details>
 </details>
 
@@ -1466,6 +1584,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Enter upon your sacrificial consecration this very day (_adyaiva dīkṣāṃ praviśa_), may auspiciousness attend you, O bull among sages! Let this _Siddhāśrama_ become truly fulfilled (_siddhāśramo ’yaṃ siddhaḥ syāt_), and let your word come true (_satyam astu vacas tava_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.29 (adyaiva dīkṣāṃ praviśa & Etymological Fulfillment of Siddhāśrama)**
+
+Urging Viśvāmitra to enter _dīkṣā_ on the very day of their arrival (_adyaiva = praveśadina eva, kālavilambe phalābhāvāt_, **Tilaka**), the princes pray that _Siddhāśrama_ may prove true to its name (_tvadyajñasiddhyā anvarthasiddhasaṃjñaḥ syāt_, **Tilaka** and **Govindarāja**) and that Viśvāmitra’s word in v. 23 may be fulfilled—expressing Rāma’s ardent martial resolve to slay the demons (_etena rāme atīva yuddhotsāho vyaktaḥ_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1583,6 +1709,20 @@ jaagaruukatayaa yaj~naadi dharmaanuShTaatR^isamrakShNam kartavyam iti suucitam
 **31:** The two young princes also, having passed that night in deep composure (_tāṃ rātrim uṣitvā susamāhitau_), rose at the hour of dawn and worshiped the morning _sandhyā_ twilight (_prabhātakāle cotthāya pūrvāṃ saṃdhyām upāsya ca_);
 
 **32:** Supremely pure (_praśucī_), having completed the supreme mystic recitation in accordance with sacred rule (_paramaṃ jāpyaṃ samāpya niyamena ca_), they saluted Viśvāmitra as he sat after offering the _agnihotra_ oblation (_hutāgnihotram āsīnaṃ viśvāmitram avandatām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.30–31 (niyato niyatendriyaḥ & kumārāv iva)**
+
+Viśvāmitra enters _dīkṣā_ with mind and senses subdued (_nigṛhītāntaḥkaraṇaḥ_). On v. 31a, **Tilaka** (reading _kumārāv iva_) compares the two princes to the twin war-gods Skanda and Viśākha.
+
+_____________
+
+**29.32 (The Śrauta Problem of hutāgnihotram During Dīkṣā)**
+
+Since Vedic śruti forbids a consecrated sacrificer from offering the daily _Agnihotra_ during _dīkṣā_ (दीक्षामध्ये नाग्निहोत्रम्, न दर्शपूर्णमासाभ्यां यजते), all three commentators resolve _hutāgnihotram_ in three ways: (1) **Śiromaṇi** construes it as a prior-action bahuvrīhi (“he who had offered the _agnihotra_ prior to taking _dīkṣā_”); (2) **Tilaka** and **Govindarāja** cite authorities taking it as the domestic _Aupāsana-homa_; and (3) **Govindarāja** notes the view that it denotes the mental _Mānasa-agnihotra_.
 </details>
 </details>
 

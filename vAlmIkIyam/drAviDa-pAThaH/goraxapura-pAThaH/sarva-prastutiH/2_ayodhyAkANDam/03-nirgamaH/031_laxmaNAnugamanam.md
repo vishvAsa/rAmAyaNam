@@ -1530,6 +1530,134 @@ being worshipped and decorated by garlands.
 
 **31:** “All these have been reverently deposited in the house of our preceptor (_ācāryasadmani_); take all those weapons, O Lakṣmaṇa, and return quickly!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.31.1–2 (pūrvam āgataḥ and sītām uvāca)**
+
+Having accompanied Rāma from Kausalyā's palace earlier (कौसल्यागृहाद्रामेण सह पूर्वमेवागतः), Lakṣmaṇa hears Rāma grant Sītā permission and fears being left behind (शोकं सोढुमशक्नुवन्). Clasping Rāma's feet (भ्रातुश्चरणौ गाढं निपीड्य), he addresses Sītā first and then Rāma (सीतामुवाच ... राघवं च): Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) explain that Lakṣmaṇa takes Sītā as his intercessor (सीतां पुरुषकारत्वेन परिगृह्योवाच [_Bhūṣaṇa_]; सीताशरणगमनमेव मद्गमनमङ्गीकारयितुं मुख्य उपायः [_Tilaka_]).
+
+_____________
+
+**2.31.3–4 (agre dhanurdharaḥ and mayā sametaḥ)**
+
+Because the woods abound in wild beasts (मृगगजायुतम्), Lakṣmaṇa begs to walk in front bearing his bow (अग्रे धनुर्धरः) so that Rāma and Sītā may roam peacefully through groves resonant with birds and deer (संघुष्टानि समन्ततः).
+
+_____________
+
+**2.31.5–6 (devalokākramaṇam and amaratvam)**
+
+Rejecting every aim apart from Rāma's service, Lakṣmaṇa spurns heaven or supreme liberation (देवलोकाक्रमणम्), immortality (अमरत्वम्), and cosmic sovereignty (लोकानामैश्वर्यम्) without Rāma (त्वया विना).
+
+_____________
+
+**2.31.7–8 (anujñātas tu bhavatā pūrvam eva)**
+
+Asking why he is now held back (क्रियते मे निवारणम्), Lakṣmaṇa recalls Rāma's earlier words implicitly permitting his departure: _Tilaka_ and Govindarāja cite Rāma's command in Sarga 22 (तस्मादपरितापः सन् त्वमप्यनुविधाय माम् । प्रतिसंहारय क्षिप्रमाभिषेचनिकीः क्रियाः, `2.22.15`), while Govindarāja also cites `2.26.32` (त्वया भरतशत्रुघ्नौ प्राणैः प्रियतरौ मम), where Sītā was told to care for Bharata and Śatrughna alone, implying that Lakṣmaṇa would accompany Rāma.
+
+_____________
+
+**2.31.9–11 (prāggāminam and ko bhajiṣyati)**
+
+Addressing Lakṣmaṇa who stands ready to lead the way (प्राग्गामिनम्), Rāma acknowledges his brother's devotion (प्राणसमो वश्यः) but explains the reason for holding him back: if Lakṣmaṇa departs too (त्वयि गच्छति), who will serve or support (को भजिष्यति [_Tilaka_]; को भरिष्यति [_Bhūṣaṇa_, CE]) Kausalyā and Sumitrā?
+
+_____________
+
+**2.31.12 (kāmapāśaparyastaḥ)**
+
+Though Daśaratha once showered blessings like a rain-cloud (पर्जन्यः पृथिवीमिव), he cannot protect the queens now because he is bound by infatuation for Kaikeyī (कामपाशेन पर्यस्तः कैकेय्यनुरागेण बद्धः [_Tilaka_]).
+
+_____________
+
+**2.31.13–14 (aśvapateḥ sutā and kaikeyyāṃ paryavasthitaḥ)**
+
+Anticipating the objection that Kaikeyī or Bharata will care for the senior queens, Rāma notes that Aśvapati's daughter (अश्वपतेः सुता) will show no kindness to her grieving co-wives (सपत्नीनाम्), nor will Bharata—standing under his mother Kaikeyī's sway (कैकेय्यां पर्यवस्थितः [_Tilaka_, _Bhūṣaṇa_])—support (न भरिष्यति) or even remember (न स्मरिष्यति) Kausalyā and Sumitrā.
+
+_____________
+
+**2.31.15–16 (rājānugrahaṇena vā and gurupūjāyām)**
+
+Should Lakṣmaṇa ask how he alone can maintain her, Rāma advises him to support Kausalyā either through Daśaratha's favor (राजानुग्रहणेन दशरथानुग्रहसंपादनेन [_Tilaka_]) or by his own effort (स्वयमेव वा). By serving Rāma's mother (मन्मात्रादिशुश्रूषायाम्), Lakṣmaṇa will simultaneously prove his devotion to Rāma (मयि भक्तिः सुदर्शिता) and earn peerless merit (अतुलो धर्मः).
+
+_____________
+
+**2.31.17–18 (asmābhir viprahīṇāyāḥ and vākyajño vākyakovidam)**
+
+Govindarāja notes that plural अस्माभिः refers to Rāma, Lakṣmaṇa, and Sītā together (आवाभ्यां सीतया च). Skilled in persuasive speech (वाक्यज्ञः), Lakṣmaṇa replies to the master of speech (वाक्यकोविदम्).
+
+_____________
+
+**2.31.19–21 (tavaiva tejasā and trailokyam api)**
+
+Refuting Rāma's concern, Lakṣmaṇa argues that out of awe for Rāma's might (तवैव तेजसा) Bharata will dutifully honor both mothers (पूजयिष्यति); and should Bharata ever grow arrogant (दुःस्थो दुर्मार्गस्थः) and neglect them, Lakṣmaṇa vows to slay him along with his allies and the three worlds (तत्पक्षानपि तान् सर्वान् त्रैलोक्यमपि).
+
+_____________
+
+**2.31.22–23 (sahasraṃ grāmāṇām)**
+
+Joining किं तु सा (v. 21d) to v. 22 (उत्तरश्लोकान्वयि), Lakṣmaṇa points out that Kausalyā needs no financial support from anyone: she holds a thousand villages (सहस्रं ग्रामाणाम्) assigned for her retainers or maintenance (उपजीविनाम् [_Tilaka_]; उपजीवनम् [_Bhūṣaṇa_, CE]), making her amply able (पर्याप्ता) to support herself, Sumitrā, and a thousand men like Lakṣmaṇa (सहस्रं मद्विधानपि बिभृयात्).
+
+_____________
+
+**2.31.24 (kuruṣva mām anucaram and vaidharmyam)**
+
+Begging Rāma to accept him as his attendant (अनुचरम्), Lakṣmaṇa declares that no breach of duty (वैधर्म्यम्) is involved: Govindarāja expounds this verse as the quintessential statement of _śeṣatva_ (natural servitude to the Lord) and _kaiṅkarya_ (selfless service) by which both servant (कृतार्थोऽहं भविष्यामि) and master (तव चार्थः प्रकल्पते) are served.
+
+_____________
+
+**2.31.25–26 (khanitrapiṭakādharaḥ and svāhārhāṇi)**
+
+Detailing his forest service, Lakṣmaṇa vows to carry his bow to ward off wild beasts (श्वापदादिभ्यो रक्षार्थं धनुर्ग्रहः [_Tilaka_]), along with a digging-hoe (खनित्रं कुदालादि) for roots and a bamboo basket (पिटका वंशपेटी [_Tilaka_]; कण्डोलपिटकौ [_Bhūṣaṇa_ from _Amara_]). On स्वाहार्हाणि, _Tilaka_ and _Śiromaṇi_ gloss “fit for fire-oblations” (होमयोग्यानि हविर्भूतानि), while noting the variant स्वाहाराणि (“wholesome ascetics' fare,” सुखैनाहर्तुं भोक्तुं योग्यानि [_Bhūṣaṇa_]).
+
+_____________
+
+**2.31.27 (jāgrataḥ svapataś ca te)**
+
+While Rāma sports with Sītā on mountain plateaus (गिरिसानुषु), Lakṣmaṇa will perform every task for him both waking and sleeping (जाग्रतः स्वपतश्च ते): _Tilaka_ and _Śiromaṇi_ remark that this intimates Lakṣmaṇa's own renunciation of sleep at night (रात्रौ स्वस्य निद्रानिवृत्तिं ध्वनयति), while Govindarāja hails it as the supreme formula of ceaseless service (सर्वदेशसर्वकालसर्वावस्थोचितकैङ्कर्यम्).
+
+_____________
+
+**2.31.28–29 (āpṛcchasva and dhanuṣī)**
+
+Delighted (सुप्रीतः), Rāma grants leave and bids him take farewell of his friends (सुहृज्जनमापृच्छस्व) and fetch the two divine bows given by Varuṇa to Janaka.
+
+_____________
+
+**2.31.30–31 (varuṇaḥ, tūṇī, and ācāryasadmani)**
+
+Completing the three-verse sentence (श्लोकत्रयमेकान्वयि) begun in v. 29, Rāma describes the bridal gift (यौतकत्वेन दत्तम् [_Tilaka_]) originally presented by Varuṇa to Janaka and transferred at Rāma's wedding: two divine bows, two impenetrable corselets (अभेद्ये कवचे दिव्ये), two inexhaustible quivers (तूणी चाक्षय्यसायकौ), and two sun-bright swords (खड्गौ हेमपरिष्कृतौ). _Tilaka_ and Govindarāja note that although this bridal gift was not narrated in the _Bālakāṇḍa_, it is established here by retrospective reference (अनुवादात्सिद्धः), just like the crest-jewel and the crow episode recalled in the _Sundarakāṇḍa_.
+
+_____________
+
+**2.31.32 (ikṣvākugurum)**
+
+Govindarāja points out that इक्ष्वाकुगुरुम् in v. 32c confirms that आचार्यसद्मनि in v. 31b refers to the house of Vasiṣṭha (आचार्यो वसिष्ठः), where the divine arms were kept for worship (पूजार्थं निहितम्).
+
+_____________
+
+**2.31.33 (satkṛtaṃ mālyabhūṣitam)**
+
+Fetching the weapons honored with sandal-paste and garlands (सत्कृतं पूजितमत एव माल्यभूषितम् [_Śiromaṇi_]), Lakṣmaṇa presents them to Rāma.
+
+_____________
+
+**2.31.34–35 (kāle kāṅkṣite and māmakaṃ dhanam)**
+
+Welcoming Lakṣmaṇa at the exact moment needed to distribute his parting gifts (मदभीष्टप्रयोजननिधिसमर्पणादनोचितकाले [_Tilaka_]), Rāma expresses his wish to give away his own acquired wealth (मामकं मदुपार्जितं धनम् [_Śiromaṇi_]) to Brāhmaṇas and ascetics (तपस्विभ्यः) in Lakṣmaṇa's company (त्वया सह).
+
+_____________
+
+**2.31.36 (guruṣu dvijasattamāḥ and upajīvinām)**
+
+On v. 36, _Tilaka_ notes that steadfast devotion to preceptors (गुरुषु दृढं भक्त्योपेताः) marks those Brāhmaṇas living near Rāma (इह मत्समीपे) as worthy recipients (दानपात्रत्वम्), while Govindarāja explains भूयः as giving them even more lavishly than his daily allowances (नित्यदेयादधिकतया दातुमिच्छामि), along with all his household dependents (सर्वेषां चोपजीविनाम्).
+
+_____________
+
+**2.31.37 (vasiṣṭhaputraṃ suyajñam)**
+
+Why summon Vasiṣṭha's son Suyajña (सुयज्ञमार्यम्) first? _Tilaka_ explains that just as Vasiṣṭha is the royal chaplain of King Daśaratha, so Vasiṣṭha's son Suyajña is the special companion and priest of the prince (अल्पप्रभोर्दशरथस्य वसिष्ठः पुरोहितस्तत्पुत्रस्य तत्पुत्र इति न्यायेन), and in Suyajña's house the divine weapons will be placed back in safekeeping (अस्यैव गृहे आयुधस्थापनम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

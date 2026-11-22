@@ -1389,6 +1389,134 @@ familiar to him, by behaving with him conformably.
 
 “Nor must I ever be spoken of by you with special partiality (_ahaṃ te nānuvaktavyo viśeṣeṇa kadācana_); only through compliant adaptability (_anukūlatayā_) is it possible to dwell in his presence.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.26.1–2 (dharmiṣṭhe vartmani & āmamantheva)**
+
+Connecting vv. 1–2 as a single sentence (श्लोकद्वयमेकं वाक्यम्), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss धर्मिष्ठे as supremely righteous (अतिशयेन धर्मवति), while **Govindarāja** explains that Rāma's preeminent virtues—such as speaking gently first (पूर्वभाषी प्रियवादी च)—churned (विलोडयामास) the hearts of the citizens lining the highway.
+
+_____________
+
+**2.26.3–4 (kṛtajñā & abhijñā rāja-dharmāṇām)**
+
+Why is Sītā called कृतज्ञा and राजधर्माणामभिज्ञा? _Tilaka_ and **Śivasahāya** (_Śiromaṇi_) take कृतज्ञा as grateful to the gods who granted Rāma's consecration, whereas **Govindarāja** explains that she knows the queenly etiquette of worshipping a newly consecrated husband's feet with sandal-paste and flowers, and knows the royal insignia—white umbrella, chowries, and throne—she expects to see accompanying him.
+
+_____________
+
+**2.26.5–6 (hriyā kiṃcid avāṅmukhaḥ)**
+
+Why is Rāma's face downcast with shame (ह्रिया)? _Tilaka_ attributes it to embarrassment at having to tell Sītā of his parents' unjust act, **Govindarāja** to seeing the festive palace decorations, and **Śivasahāya** to Rāma's distress that without his father's permission he cannot take Sītā along.
+
+_____________
+
+**2.26.7–8 (vivṛtatāṃ gataḥ & Theological Debate on Rāma's Grief)**
+
+On v. 7–8, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) explain that Rāma, hitherto untouched by sorrow, breaks down (व्यक्तदुःखताम्) upon seeing Sītā and thinking of the hardships awaiting her. **Rāma Varmā** (_Tilaka_), however, rejects this view (तदनुचितम्), arguing that since the Supreme Lord is untouched by real sorrow (भगवति कथमपि दुःखासंबन्धात्), Rāma's pallor and perspiration in Sītā's presence are a dramatic display through His Māyā-śakti illustrating that a husband hides nothing from his beloved.
+
+_____________
+
+**2.26.9 (bārhaspataḥ & Conjunction with Puṣya)**
+
+_Tilaka_ construes बार्हस्पतः with चन्द्रः (the Moon conjoined with Jupiter's asterism Puṣya), whereas **Govindarāja** and **Śivasahāya** read युक्तः पुष्योऽनु and take बार्हस्पतः directly as an epithet of the Puṣya constellation presided over by Bṛhaspati (बृहस्पतिदैवत्यः).
+
+_____________
+
+**2.26.10–12 (śata-śalākena & Royal Panegyrists)**
+
+**Govindarāja** notes that “white as water-foam” excludes a dark umbrella, glosses व्यजनाभ्याम् as yak-tail chowries (वालव्यजनाभ्याम्), and distinguishes बन्दिनः (panegyrists), सूताः (chroniclers of ancient deeds), and मागधाः (heralds of royal lineage).
+
+_____________
+
+**2.26.13–14 (kṣaudraṃ ca dadhi ca & prakṛtayaḥ)**
+
+**Rāma Varmā** (_Tilaka_) supplies sacred river-water mixed with honey and curds (तीर्थोदकमिश्रितम्) used to anoint a prince whose head has been bathed (शिरःस्नातस्य). On प्रकृतयः and श्रेणीमुख्याः, **Govindarāja** (_Bhūṣaṇa_) glosses the ministers of state (अमात्यादयः) and heads of city quarters (वीथीप्रधानाः), while _Tilaka_ and **Śivasahāya** (_Śiromaṇi_) take श्रेणीमुख्याः as assembly leaders (परिषन्मुख्याः).
+
+_____________
+
+**2.26.15–16 (puṣpa-rathaḥ & kṛṣṇa-megha-giri-prabhaḥ)**
+
+Citing Amara (पुष्परथश्चक्रयानं न समराय यत्), _Tilaka_ and **Govindarāja** define पुष्परथः as a ceremonial state chariot used for festivity rather than war (उत्सवाय कल्पितो रथः), led before a king for royal pageantry. On कृष्णमेघगिरिप्रभः, _Tilaka_ and **Śivasahāya** take a double comparison (dark as a cloud and huge as a mountain), whereas **Govindarāja** construes “shining like a mountain mantled by a black cloud” (कृष्णमेघयुक्तगिरिप्रभः) to avoid a split simile.
+
+_____________
+
+**2.26.17–18 (bhadrāsanaṃ puraskṛtya)**
+
+_Tilaka_ and **Śivasahāya** construe यान्तम् with a forerunner servant (पुरःसरं सेवकम्) carrying the golden throne, whereas **Govindarāja** (reading वीरपुरस्कृतम्) takes यान्तम् as Rāma's own procession.
+
+_____________
+
+**2.26.19–21 (tatrabhavāṃs tātaḥ & Fortifying Sītā's Mind)**
+
+Citing Halāyudha (तत्रभवानत्रभवानिति शब्दो बुधैः प्रयुज्यते पूज्ये), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that Rāma calls Daśaratha तत्रभवान् (“revered”) to show his father remains worthy of honour even while exiling him. Both explain that in v. 20 Rāma extols Sītā's high birth and righteousness (विविधगुणकीर्तनेन संबोधयति) to steady her mind (चित्तदार्ढ्यार्थम्) lest the sudden shock cause her to faint.
+
+_____________
+
+**2.26.22–23 (pracoditaḥ sa samayaḥ & dharmeṇa pratinirjitaḥ)**
+
+Citing Amara (समयाः शपथाचारकालसिद्धान्तसंविदः), all three gloss समयः as the ancient oath or pact of the two boons (कृतशपथः, वरसङ्केतः) pressed by Kaikeyī, whereby the king was conquered by his own bond of truth (तद्भूतधर्मेण स्वायत्तीकृतः).
+
+_____________
+
+**2.26.24 (nāhaṃ kathyaḥ & Provoking Sītā's Love-Anger)**
+
+All three gloss न कथ्यः as “not to be praised” (न श्लाघनीयः); **Govindarāja** remarks that Rāma feigns instructions for her stay in Ayodhyā to awaken her loving indignation (प्रणयरोषमुत्पादयन्) and test her heart (सीताहृदयं ज्ञातुम्).
+
+_____________
+
+**2.26.25–26 (ahaṃ te nānuvaktavyo vs. nāpi tvaṃ tena bhartavyā)**
+
+On v. 26a, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) champion the ancient reading (प्राचीनः पाठः) attested by Kataka—अहं ते नानुवक्तव्यो विशेषेण कदाचन (“you must never speak of my preeminence even among your female companions in Bharata's hearing”)—remarking that the newer reading (आधुनिकपाठः) adopted by **Govindarāja** (_Bhūṣaṇa_), नापि त्वं तेन भर्तव्या विशेषेण कदाचन (“nor should you expect to be maintained by him with special distinction above Lakṣmaṇa's and Śatrughna's wives”), lacks poetic charm (न तथा चमत्कारी).
+
+_____________
+
+**2.26.27–28 (sa prasādyas tvayā & sthirībhava)**
+
+Why must Sītā act compliantly toward Bharata? All three commentators explain that since King Daśaratha has bestowed the permanent regency upon Bharata, Sītā must conciliate both Bharata and the king, remaining steady in heart (स्थिरीभव) while Rāma departs to fulfil his father's pledge.
+
+_____________
+
+**2.26.29 (vratopavāsa-parayā)**
+
+All three gloss याते as locative absolute (“when I have gone to the sage-frequented forest”), instructing Sītā to pass the time in vows and fasts.
+
+_____________
+
+**2.26.30–31 (kalyam utthāya & Honouring Kausalyā for Dharma Alone)**
+
+On कल्यम् (and **Govindarāja**'s काल्यम्, citing Amara प्रत्यूषोऽहर्मुखं काल्यम्), all three gloss daybreak (उषसि). Why should Sītā honour Kausalyā when Rāma is away and cannot reward her? **Rāma Varmā** (_Tilaka_) explains that Rāma says धर्ममेवाग्रतः कृत्वा: she should revere her grief-stricken mother-in-law placing _dharma_ alone as her primary reward (धर्म एव तत्फलं मुख्यं पुरो कृत्वा), while **Govindarāja** (_Bhūṣaṇa_) construes it as an epithet of Kausalyā herself.
+
+_____________
+
+**2.26.32 (sneha-praṇaya-sambhogaiḥ)**
+
+Citing the _Vaijayantī_ lexicon, **Govindarāja** and **Śivasahāya** (_Śiromaṇi_) distinguish the three terms: स्नेहः is maternal affection (प्रीतिः), प्रणयः is intimate cordiality (सौहृदम्), and सम्भोगः is nurturing maintenance with food and drink (पालनम्), wherein Sumitrā and Kaikeyī treated Rāma no differently from Kausalyā.
+
+_____________
+
+**2.26.33–34 (prāṇaiḥ priyatarau & King of Realm and Clan)**
+
+All three explain the instrumental प्राणैः as standing for the ablative of comparison (प्राणेभ्यः प्रियतरौ), and **Govindarāja** notes that Bharata is both sovereign of the country (देशस्य) and head of the royal family (कुलस्य).
+
+_____________
+
+**2.26.35–36 (aurasyān api putrān & Royal Policy)**
+
+**Govindarāja** (_Bhūṣaṇa_) glosses शीलेन as guileless rectitude (अकुटिलवृत्त्या) and प्रयत्नैः as tireless service (आलस्यत्यागादिभिः). In v. 36, all three commentators note that Rāma subtly alludes to his own exile—kings abandon even their own legitimate sons (औरसान्) if deemed unfavourable (अहितकारिणः), while embracing unrelated strangers (जनान् = अबन्धून्, संबन्धलेशहीनान्) who serve their interests (समर्थान्).
+
+_____________
+
+**2.26.37 (satya-vrata-parāyaṇā)**
+
+**Śivasahāya** (_Śiromaṇi_) construes राज्ञः with Daśaratha and भरतस्य समनुवर्तिनी with Bharata, while **Govindarāja** glosses सत्यव्रतम् as an unfailing vow (अमोघव्रतम्).
+
+_____________
+
+**2.26.38 (yathā vyalīkaṃ kuruṣe na kasyacit)**
+
+On व्यलीकम्, **Rāma Varmā** (_Tilaka_) glosses “making false” (अलीकत्वम् अनृतत्वम्): just as you never falsify anyone's word, do not falsify mine. **Govindarāja** and **Śivasahāya** gloss व्यलीकम् as “displeasure or offence” (अप्रियम्): act here so as to offend no one, and obey my command to remain in Ayodhyā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

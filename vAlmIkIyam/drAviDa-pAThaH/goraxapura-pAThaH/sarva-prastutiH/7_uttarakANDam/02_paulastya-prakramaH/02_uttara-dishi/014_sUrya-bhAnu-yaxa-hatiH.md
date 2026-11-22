@@ -402,6 +402,98 @@ Struck by the weapons of the Yakṣas (_yakṣa-śastraiḥ samāhataḥ_), he f
 
 Lifting high a mace resembling the rod of Death (_samudyamya kāla-daṇḍopamāṃ gadām_), that wicked-souled one (_sa durātmā_) thereupon penetrated the army (_praviveśa tataḥ sainyam_), dispatching Yakṣas to Yama’s abode (_nayan yakṣān yama-kṣayam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.14.1–3 (Rāvaṇa’s Wrathful March on Kailāsa)**
+
+Introducing Sarga 14 as the campaign for the conquest of Kubera (अथातः कुबेरजयः), **Rāma Varmā** (_Tilaka_) picks up immediately after Rāvaṇa’s slaughter of Kubera’s ambassador at the close of Sarga 13. **Śivasahāya** (_Śiromaṇi_) construes verses 7.14.1–2 as a single syntactic unit (श्लोकद्वयमेकान्वयि): flanked by his six aggressive ministers—Mahodara, Prahasta, Mārīca, Śuka, Sāraṇa, and the battle-hungry Dhūmrākṣa—Rāvaṇa advances as though incinerating the worlds with his rage (क्रोधात् लोकान्दहन्निव संप्रययौ). In 7.14.3, sweeping effortlessly across cities, rivers, peaks, and groves within a single moment (_muhūrtena_), he descends upon Mount Kailāsa.
+
+_____________
+
+**7.14.4–5 (The Yakṣas’ Deference to Their King’s Brother)**
+
+On 7.14.4d, **Rāma Varmā** specifies समन्त्रिणम् as ‘accompanied by the six ministers headed by Mahodara’ (महोदरादिषण्मन्त्रिसहितम्). Why did Kubera’s formidable Yakṣa garrison shrink from blocking the intruder on the spot? Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) clarify that 7.14.5c supplies the exact motive (न शेकुरित्यत्र हेतुः): recognizing Rāvaṇa as their sovereign Kubera’s own brother (राज्ञो भ्रातेति कुबेरस्य भ्रातेत्यर्थः), they would not presume to strike a royal kinsman unbidden. **Śivasahāya** joins verses 7.14.4–5 as a single period (श्लोकद्वयमेकान्वयि), noting their orderly withdrawal to inform Dhaneśvara.
+
+_____________
+
+**7.14.6 (Kubera’s Authorization for Defensive War)**
+
+Reaching their lord, the Yakṣas lay bare every detail of Rāvaṇa’s hostile purpose (_cikīrṣitam_). **Śivasahāya** paraphrases cleanly: having reported his brother’s intent in Kubera’s presence (तस्य धनदस्य समीपे आचख्युः), and now duly authorized by Dhanada (धनदेन अनुज्ञाताः सन्तः), they sally forth eagerly to meet the invaders. Vālmīki quietly underscores the moral gulf between the two brothers’ courts: even under imminent assault, Kubera’s disciplined Yakṣas seek lawful royal sanction before lifting weapons against a kinsman, whereas Rāvaṇa had just murdered his elder brother’s peaceful envoy in cold blood.
+
+_____________
+
+**7.14.7–8 (The Oceanic Surge of Kubera’s Armies)**
+
+As Kubera’s legions pour forth, the tremor threatens Mount Kailāsa itself. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) supply the comparative particle यथा / इव to unlock the compressed genitive महोदधेः in 7.14.7b: the upheaval of the Nairṛta-lord’s armies swelled like the surging of the great ocean (उदधेः क्षोभो यथा), appearing to shake Kailāsa (शैलं कैलासं चालयन्निव). In 7.14.8, battle locks into a dense melee of Yakṣas and Rākṣasas, and Rāvaṇa’s six ministers are immediately shaken (_vyathitāḥ_) by the sheer volume of the counterattack.
+
+_____________
+
+**7.14.9–10 (Rāvaṇa’s Lion-Roar and the Thousand-to-One Clash)**
+
+Far from recoiling, Rāvaṇa greets the vast host with ecstatic battle-cries. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss हर्षनादान् in 7.14.9c as ‘roars of triumphant zeal, i.e., lion-roars’ (हर्षजसिंहनादान् / सिंहनादम्), while **Śivasahāya** notes that he charged forward driven by fury (क्रोधसहिताद्धेतोः). On 7.14.10, commentators split according to verb number: reading singular एकैकः ... समयोधयत्, Tilaka and Śiromaṇi make each single Rākṣasa minister battle a thousand Yakṣas (तेषामेकैकः यक्षाणां सहस्रमयोध्यत्), whereas Govindarāja—reading plural एकैकं ... समयोधयन्, as here—construes a thousand Yakṣas as engaging each individual minister (सहस्राणां यक्षाणामेकैकं सहस्रं समयोधयन्).
+
+_____________
+
+**7.14.11–12 (Plunging Into the Storm of Weapons)**
+
+Undaunted by maces, pestles, swords, spears, and lances raining down upon his frame, Rāvaṇa plunges straight into the enemy ranks (समगाहत अप्रापत्, **Śivasahāya**). Verse 7.14.12 vividly renders the initial Yakṣa onslaught: pummeled so incessantly that he seemed unable even to draw breath (_nirucchvāsavat_), the ten-headed invader was hemmed in on all sides as though engulfed by monsoon cloudbursts. Śivasahāya glosses धाराभिः specifically as ‘unbroken streams of arrows’ (बाणपरम्पराभिः) and normalizes the epic passive अवरुध्यत to classical अवारुध्यत, setting up Rāvaṇa’s unyielding mountain-like resilience in the next spread.
+
+_____________
+
+**7.14.13–14 (The Rain-Drenched Mountain and the Mace of Death)**
+
+Completing the raincloud metaphor from 7.14.12, Southern verse 7.14.13 depicts Rāvaṇa standing wholly impervious to the Yakṣa barrage. **Rāma Varmā** (_Tilaka_) glosses धाराशतसमुक्षितः as ‘drenched by hundreds of water-torrents poured from clouds’ (जलदजन्यवारिधाराशतसमुक्षितः): just as a mountain feels no sting from rain, Rāvaṇa registers no pain. Heaving aloft a mace likened to Yama’s fatal staff (_kāla-daṇḍopamām_), he storms into the host to send Yakṣas to Yama’s realm—where **Śivasahāya** (_Śiromaṇi_) clarifies the present participle नयन् with final force (यमक्षयं नेतुं सैन्यं प्रविवेश).
+
+_____________
+
+**7.14.15–16 (Wildfire in Dry Brushwood and Wind-Scattered Clouds)**
+
+Two swift elemental similes capture the abrupt reversal of the battle. On 7.14.15, **Rāma Varmā** glosses कक्षम् as ‘dry grass or thicket’ (तृणम्), explaining that शुष्केन्धनमिवाकुलम् emphasizes how instantaneously parched tinder is engulfed by flame (झटिति वह्निव्याप्यत्वम्): like wind-whipped fire, Rāvaṇa incinerates the Yakṣa lines. Simultaneously, as Rāma Varmā notes on 7.14.16, Rāvaṇa’s ministers—reinforced by their lord’s breakout (रावणेन कृतसहायैः)—whittle the defenders down to a tiny remnant, dispersing them like stormclouds shredded by winds (वातैरम्बुदा इव विनाशिताः, **Śivasahāya**).
+
+_____________
+
+**7.14.17–18 (Shattered Warriors and Crumbling Riverbanks)**
+
+Vālmīki lingers over the physical pathos of the collapsing Yakṣa army. On 7.14.17, both **Rāma Varmā** and **Śivasahāya** gloss भग्नाः as ‘with broken limbs’ (भग्नगात्राः): felled upon the field yet burning with unspent defiance, the wounded Yakṣas gnaw their own lips with sharp teeth. On 7.14.18, Rāma Varmā notes the epic masculine plural कूलाः (लिङ्गव्यत्ययः), while Śivasahāya normalizes it to neuter कूलानि and takes ह emphatically (ह एवार्थे): drained and disarmed, the Yakṣas cling to one another and cave in like riverbanks eroded by surging water.
+
+_____________
+
+**7.14.19 (No Open Space Left in Heaven)**
+
+Capturing the staggering scale of the slaughter, Vālmīki fills both earth and sky. All three commentators explain न बभूवान्तरं दिवि as ‘there remained no room to stand in the heavens’ (आकाशे अवस्थातुमवकाशो न बभूव, **Govindarāja**, adding व्योम्नि निबिडमासीदित्यर्थः): slain heroes rising to heaven (स्वर्गं गच्छताम्) packed the firmament alongside throngs of sages hovering above to witness the ground battle (प्रेक्षताम्, normalized by **Rāma Varmā** and Govindarāja to प्रेक्षमाणानाम्). **Śivasahāya** likewise underscores that the continuous ascent of fallen warriors left no gap in the crowded sky.
+
+_____________
+
+**7.14.20–22 (Saṃyodhakaṇṭaka Fells Mārīca Like a Falling Star)**
+
+Seeing his first wave shattered, Kubera dispatches fresh champions (महायक्षान्तराणि, **Śivasahāya** on 7.14.20). Into the breach rushes a formidable Yakṣa named Saṃyodhakaṇṭaka, whose martial epithet **Rāma Varmā** (_Tilaka_) etymologizes on 7.14.22 as ‘the thorn or destroyer of seasoned warriors’ (संयोधानां सम्यग्योद्धॄणां कण्टकः संहर्तेति संयोधकण्टकः). Hurling a discus like Viṣṇu himself, he strikes (हतः ताडितः, Śiromaṇi) Mārīca cleanly off Mount Kailāsa down to the earth below (शैलात्कैलासाद्भूतले पतितः, Tilaka), plummeting like a star whose celestial merit has run dry.
+
+_____________
+
+**7.14.23–24 (Mārīca’s Recovery and Rāvaṇa’s Entry Into the Palace Portal)**
+
+Mārīca’s reversal is brief: reviving within a moment (_muhūrtena_), he rallies, engages Saṃyodhakaṇṭaka anew, and puts him to flight—where **Rāma Varmā** explicitly identifies the fleeing subject of स च as the Yakṣa (स च यक्षश्च). With the outer defenses broken, Rāvaṇa advances directly into Kubera’s jeweled palace gateway in 7.14.24: both Rāma Varmā and **Śivasahāya** supply रावणः as the subject of आविशत्, glossing मर्यादां प्रतिहाराणाम् as ‘the boundary of public entry kept by the gatekeepers’ (जनप्रवेशावधिम्, Tilaka) and तोरणान्तरम् as ‘the interior of the outer portal’ (बहिर्द्वारमध्यम्, Śiromaṇi).
+
+_____________
+
+**7.14.25–27 (Sūryabhānu’s Defiance and the Uprooted Portal Beam)**
+
+At the threshold of Kubera’s palace, the renowned chamberlain Sūryabhānu tries to turn back the intruder. When Rāvaṇa forces his way past regardless, Sūryabhānu rips up the massive gateway beam and crashes it upon him. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) specify तोरणम् as the heavy timber or beam of the arch (तोरणस्थदण्डम्), while Śivasahāya construes 7.14.26c–27 as a single six-quarter sentence (सार्धश्लोक एकान्वयी). Streaming blood, Rāvaṇa gleams like a mountain veined with red mineral torrents (धातुस्रवैर्युक्तः शैल इव, Tilaka).
+
+_____________
+
+**7.14.28–29 (Brahmā’s Boon and the Pulverizing Counterblow)**
+
+Struck by a beam vast as a crag, Rāvaṇa suffers no lasting harm (_kṣati_) purely because of Brahmā’s boon of invulnerability to Yakṣas granted in Sarga 10 (स्वयंभुवो वरदानाद्धेतोः, **Śivasahāya**). Snatching up that very arch-beam, Rāvaṇa strikes Sūryabhānu back so ferociously that the gatekeeper vanishes completely. All three commentators—**Rāma Varmā**, **Śivasahāya**, and **Govindarāja** (_Bhūṣaṇa_)—agree that भस्मीकृततनुः signifies ‘pulverized to dust by Rāvaṇa’s blow with the gateway beam’ (चूर्णीकृततनुरित्यर्थः; रावणकृततोरणदण्डप्रहारेण चूर्णित इत्यर्थः, Bhūṣaṇa).
+
+_____________
+
+**7.14.30 (The Complete Rout of the Yakṣa Defenders)**
+
+Witnessing their stalwart gatekeeper obliterated in a single stroke, the surviving Yakṣas lose all heart. **Śivasahāya** notes that this closing six-quarter verse (सार्धश्लोक एकान्वयी) wraps up the sarga’s action: flinging down their arms, exhausted, and drained of color, the terrified Yakṣas scatter into rivers and mountain caverns. With Kubera’s outer army routed and his palace portal smashed, the narrative pivots directly into Sarga 15, where the Lord of Wealth dispatches his supreme general Maṇibhadra before facing Rāvaṇa himself.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

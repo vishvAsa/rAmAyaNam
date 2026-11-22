@@ -1621,6 +1621,206 @@ invoke despite, indeed, to a fault. [4-33-33]
 
 “What ground for anger (_roṣasthānam_) on the prince&#x27;s part do you see, O blameless lady (_anindite_)? Surely that bull among men (_narapuṅgavaḥ_) would not conceive anger without cause (_akāraṇe_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.33.1–3 (Lakṣmaṇa's Unchecked Entry into Kiṣkindhā)**
+
+Following Hanūmān's counsel (हनुमद्वचनानन्तरम्, _Tilaka_), Aṅgada invites Lakṣmaṇa inside. **Rāma Varmā** (_Tilaka_) glosses प्रतिसमादिष्टः as having received the return message from Aṅgada (अङ्गदात्प्रतिसंदेशं प्राप्तः), while **Govindarāja** (_Bhūṣaṇa_) renders it `conducted back' (प्रत्यानीतः) and **Śivasahāya** (_Śiromaṇi_) as `entreated by Aṅgada to enter the cave' (गुहाप्रवेशाय अङ्गदेन प्रार्थितः). On न चैनं पर्यवारयन् (**v. 3**), all three commentators explain that out of fear the guards could not even approach or accompany him (भयेन लक्ष्मणमुपगन्तुं नाशक्नुवन्, _Bhūṣaṇa_; प्राप्य सह नागच्छन्, _Śiromaṇi_).
+
+_____________
+
+**4.33.4 (Wrought of Gems and Strewn with Treasures)**
+
+Distinguishing the twin epithets रत्नमयीम् and रत्नसमाकीर्णाम्, Govindarāja explains the first as `built of gems' (रत्ननिर्मिताम्) and the second as `strewn with jewels displayed in bazaar stalls' (आपणस्थरत्नैः समाकीर्णाम्). Tilaka and Śivasahāya take रत्नसमाकीर्णाम् more broadly as filled with choice valuables of every kind (अनेकोत्तमवस्त्वाक्रान्ताम्).
+
+_____________
+
+**4.33.5–6 (Mansions, Temples, and Celestial Monkeys)**
+
+Glossing हर्म्यप्रासादसम्बाधाम् (**v. 5**), Govindarāja differentiates हर्म्याः as mansions of the wealthy (धनिनां वासाः) and प्रासादाः as temples or royal palaces (देवगृहाः); reading नानापण्योपशोभिताम्, he glosses पण्यानाम् as unguents and merchandise for sale (आलेपविक्रेयाणाम्). The trees yield whatever fruit is desired at any season (सर्वदाऽपेक्षितफलयुक्तैः, _Tilaka_).
+
+_____________
+
+**4.33.7 (Fragrances of Aromatic Woods and Royal Liquors)**
+
+Continuing the syntax from **v. 4** (श्लोकचतुष्टयमेकान्वयि, _Śiromaṇi_), the poet describes the sensory opulence of the city. **Rāma Varmā** (_Tilaka_) identifies पद्मम् in चन्दनागुरुपद्मानाम् as the aromatic wood _padmaka_ (पद्मकाख्यं गन्धद्रव्यम्), and supplies गन्धैः with मधूनां च. **Śivasahāya** (_Śiromaṇi_) explains सम्मोदितमहापथाम् as a city whose broad thoroughfares are perfumed by _maireya_ and other wines (मैरेयादिभिः संमोदिताः महान्तः पन्थानो यस्यां सा).
+
+_____________
+
+**4.33.8 (Towering Palaces and Clear Mountain Streams)**
+
+On the form गिरिनद्यः governed by ददर्श, **Govindarāja** (_Bhūṣaṇa_) explains it as an epic case-substitution of the nominative plural for the accusative गिरिनदीः (व्यत्ययेन द्वितीया), whereas Śivasahāya construes the nominal clause विमला नद्यः as a whole as the object of perception (वाक्यस्य कर्मतयाऽन्वयान्न द्वितीया).
+
+_____________
+
+**4.33.9–12 (The Mansions of the Twenty-Two Monkey Chiefs)**
+
+Linking **vv. 9–12** into a single syntactic period, Śivasahāya and Govindarāja gloss महासाराणि (**v. 12**) as `exceedingly sturdy' (अतिदृढानि). Śivasahāya explains गृहमुख्यानि as the central residential halls within each chief's palace complex (उक्ततत्तद्गृहाणां मध्यवर्तिवेश्मानि) lining the royal highway.
+
+_____________
+
+**4.33.13–14 (The White-Walled Citadel of the Monkey King)**
+
+Completing the description of the chiefs' mansions (**v. 13**), the poet turns in **v. 14** to the royal palace (वानरेन्द्रगृहम्). Reading पाण्डुरेण तु शैलेन, **Rāma Varmā** (_Tilaka_) explains it as encircled by a rampart of crystal rock (स्फाटिकशिलामयवप्रेण वेष्टितम्), and **Śivasahāya** (_Śiromaṇi_) as surrounded on all four sides by a swan-white mountain wall rendering it unassailable to foes (दुरासदं रिपुभिर्गन्तुमशक्यम्). Reading सालेन, **Govindarāja** (_Bhūṣaṇa_) glosses it as a whitewashed enclosure-wall (सुधाधवलितप्राकारेण).
+
+_____________
+
+**4.33.15–16 (Terrestrial and Celestial Wish-Granting Trees)**
+
+Both Tilaka and Śivasahāya identify the trees gifted by Mahendra (महेन्द्रदत्तैः) as celestial _kalpavṛkṣas_ (कल्पतरुभिः) dark as rainclouds (नीलमेघसदृशैः). Govindarāja explains why trees are mentioned in both **v. 15** and **v. 16**: the trees in **v. 15** are earthly wish-yielding trees (पूर्वोक्ता वृक्षा भौमाः), whereas those in **v. 16** are heavenly trees bestowed by Indra (इन्द्रदत्ताः स्वर्गीया वृक्षा उच्यन्ते).
+
+_____________
+
+**4.33.17–18 (Entering Sugrīva's Golden-Gated Palace)**
+
+Śivasahāya glosses तोरणम् as the outer gateway (बहिर्द्वारम्) of refined gold and supplies प्रतीहारैः (`by the doorkeepers') with अवार्यमाणः. Govindarāja resolves the repetition of गृहं रम्यम् in **vv. 14** and **18**: either **v. 14** states its intrinsic beauty (स्वरूपतो रम्यम्) and **v. 18** its beauty as adorned by the intervening qualifiers, or वानरेन्द्रगृहम् denotes the ancestral palace of Ṛkṣarāja and Vālī within which Lakṣmaṇa now enters Sugrīva's personal residence (सुग्रीवस्य गृहम्).
+
+_____________
+
+**4.33.19–20 (Seven Courtyards and the Guarded Inner Palace)**
+
+Advancing into the palace interior, Lakṣmaṇa traverses seven successive courtyards (सप्त कक्ष्याः) crowded with palanquins, chariots, and seats (यानासनसमावृताः) before beholding the vast, secluded royal harem (सुमहद्गुप्तं ददर्शान्तःपुरं महत्). The chambers are appointed throughout with golden and silver couches (हैमराजतपर्यङ्कैः) draped in priceless coverlets (महार्हास्तरणोपेतैः), signaling Sugrīva's newly acquired royal luxury.
+
+_____________
+
+**4.33.21 (The Strains of Lutes and Measured Song)**
+
+As summarized in the commentators' sarga preface (अनेकातोद्यमधुरध्वनिमिश्रितगीतध्वनिम्), no sooner does Lakṣmaṇa step inside (प्रविशन्नेव) than his ears are greeted by continuous music (मधुरस्वनम्) in which the notes of stringed lutes (तन्त्री) blend with vocal song (गीत), executed with rhythmic precision of beat (ताल), word-division (पद), and syllable (अक्षर).
+
+_____________
+
+**4.33.22–24 (Noblewomen and Contented Royal Retainers)**
+
+Within Sugrīva's mansion, Lakṣmaṇa observes noble-born women (अभिजनसम्पन्नाः) proud of their youth and beauty (रूपयौवनगर्विताः), absorbed in stringing choice flower garlands (वरमाल्यकृतव्यग्राः). Equally telling of the court's prosperity are Sugrīva's personal attendants (सुग्रीवानुचरान्, **v. 24**), described through triple litotes: none are unfulfilled (नातृप्तान्), none unduly flustered or idle (नाति चाव्यग्रान्), and none dressed incheap or ignoble attire (नानुदात्तपरिच्छदान्).
+
+_____________
+
+**4.33.25–26 (Lakṣmaṇa's Modesty and the Bowstring's Twang)**
+
+Explaining why Lakṣmaṇa feels shame (लज्जितोऽभवत्) upon hearing women's anklets and girdles, **Rāma Varmā** (_Tilaka_) cites two views: shame at seeing luxury surpassing even Ayodhyā (अयोध्यातोऽप्यधिकसौभगवद्दर्शनाल्लज्जा), or modesty at encountering another man's wives (परस्त्रीदर्शनकृता लज्जेत्यन्ये) — the latter endorsed by **Śivasahāya** (_Śiromaṇi_, बहुस्त्रीमात्रसान्निध्यप्राप्त्या व्रीडितः) and **Govindarāja** (_Bhūṣaṇa_, परस्त्रीरसयोत्कटत्वात्). In **v. 26**, Tilaka notes that the ornament-sounds heighten his anger because Sugrīva still has not renounced sensual pleasure (नेदानीमपि कामभोगं त्यजतीति कोपवृद्धिः), so he twangs his bowstring to make the women withdraw (स्त्रीणां ततो निवृत्तये).
+
+_____________
+
+**4.33.27 (Restrained by Righteous Conduct)**
+
+All three commentators admire Lakṣmaṇa's self-restraint in चारित्रेण अपकृष्टः: reflecting that it is improper to enter a gathering of women (स्त्रीगोष्ठ्यां प्रवेष्टुं नोचितमित्याचारपर्यालोचनया, _Tilaka_; स्त्रीसमुदायदर्शनानर्हस्वसदाचारेण, _Śiromaṇi_), he steps aside into a secluded spot free of women (एकान्तं स्त्रीप्रसङ्गरहितप्रदेशम्, _Bhūṣaṇa_).
+
+_____________
+
+**4.33.28–30 (Sugrīva's Terror and Parched Face)**
+
+Recognizing Lakṣmaṇa's arrival from the bow-twang, Sugrīva shakes on his throne (चचाल वरासनात्) — which Govindarāja vividly interprets as lapsing into monkey-like nervous habits such as twitching his tail and tearing his garland (लाङ्गूलचालनमाल्यच्छेदादिकापेयव्यापारानकरोत्). Confirmed by both Aṅgada's report and the bowstring (अङ्गदेन ज्यास्वनेन च समाख्यातः), Sugrīva's face parches with fear (एतेन तस्य भीतत्वं व्यक्तम्, _Śiromaṇi_).
+
+_____________
+
+**4.33.31–33 (Sugrīva's Composure Amid Terror)**
+
+Resolving the apparent tension between त्राससम्भ्रान्तमानसः (`mind agitated by fear') and अव्यग्रः (`unflustered'), **Śivasahāya** (_Śiromaṇi_) explains that despite inward dread, Sugrīva steadies himself (सावधानो भूत्वा) to consult Tārā on what is beneficial (हितं वाक्यम्); **Govindarāja** (_Bhūṣaṇa_) glosses अव्यग्रः as purposeful for the task at hand (कार्यार्थम्). In **vv. 32–33**, **Rāma Varmā** (_Tilaka_) notes that सरोष इव means `truly enraged' (सरोष एव), and glosses रोषस्थानम् as `my offense that caused his anger' (रोषकारणं ममापराधम्).
+
+_____________
+
+**4.33.34–35 (Deliberation Gives Way to Tārā's Mediation)**
+
+After first asking Tārā to identify any wrong committed against Rāma (अस्य रामस्य किंचिदपि अप्रियम्, _Śiromaṇi_), Sugrīva immediately adopts a safer alternative (पक्षान्तरं गृह्णाति, _Tilaka_ and _Bhūṣaṇa_) in **v. 35**: since it is unwise for him to confront Lakṣmaṇa before knowing the cause (निमित्तं चानिर्णीय स्वस्य समीपगमनमनुचितमिति, _Tilaka_), and since an angry friend must be appeased regardless of whether an offense is proved (अपराधनिश्चयस्य सद्भावे असद्भावे वा क्रुद्धस्तु सर्वथा सान्त्वनीय एवेति, _Bhūṣaṇa_), Tārā herself should go first.
+
+_____________
+
+**4.33.36 (Why Noble Men Never Harm Women)**
+
+Glossing विशुद्धात्मा, Tilaka renders it `freed from wrath' (गतक्रोधचित्तः), while Śivasahāya explains that at the mere sight of Tārā, Lakṣmaṇa's heart will be cleared of suspicion against Sugrīva (विगतमदपराधशङ्कावान् आत्मा यस्य), since great souls never do anything harsh to women (महात्मानः स्त्रीषु कदाचिदपि दारुणं कर्म न कुर्वन्ति).
+
+_____________
+
+**4.33.37–38 (Tārā's Approach to Lakṣmaṇa)**
+
+In **v. 37**, **Rāma Varmā** (_Tilaka_) glosses उपक्रान्तम् as `having his agitation calmed' (उपशान्तक्षोभम्). On **v. 38**, Tilaka and **Śivasahāya** (_Śiromaṇi_) take Tārā's state literally: stumbling from wine-languor (मदालसतया पदे पदे स्खलन्ती), her eyes rolling from drink (मदेन विह्वले आघूर्णिते अक्षिणी यस्याः), and her frame bent by the weight of her bosom (स्तनभारेण). **Govindarāja** (_Bhūṣaṇa_) adds that she came just as she was from the inner chamber on the filial principle `what is there to hide even from a mother?' (किं मातुरपि गोप्यमस्तीत्यागता), or alternatively that she stumbled from haste and bowed in humility (नम्रतैव).
+
+_____________
+
+**4.33.39–40 (Lakṣmaṇa's Downcast Gaze and Tārā's Bold Eloquence)**
+
+Beholding Sugrīva's queen (हरीशपत्नीम्), Lakṣmaṇa stands indifferent to her beauty (उदासीनतया तत्कान्तिनिर्वर्णनानादरतया, _Bhūṣaṇa_) and lowers his gaze (अवाङ्मुखः), his wrath subsiding in a woman's presence. Emboldened both by wine (पानयोगाच्च) and by Lakṣmaṇa's benign glance (प्रसन्नतयैवावलोकनाच्च, _Śiromaṇi_), Tārā speaks words bold with friendship (प्रणयप्रगल्भं मैत्रीसमर्थनसमर्थम्, _Tilaka_).
+
+_____________
+
+**4.33.41–42 (The Metaphor of the Forest Fire)**
+
+Asking who would dare disobey his word (कस्ते न संतिष्ठति वाङ्निदेशे), Tārā compares provoking Lakṣmaṇa to a moth-like fool rushing into a wildfire sweeping through dry timber (दावाग्निमासीदति). Reassured that Sugrīva harbors no treachery (सुग्रीवकापत्यशङ्कानिवर्तकम्, _Śiromaṇi_), Lakṣmaṇa answers with affectionate candor (प्रणयदृष्टार्थम्).
+
+_____________
+
+**4.33.43–45 (Reproaching Sugrīva's Sensual Torpor Through Tārā)**
+
+Addressing Tārā as one devoted to her husband's true welfare (हे भर्तृहिते युक्ते), Lakṣmaṇa asks why she fails to notice that Sugrīva has abandoned `dharma` and `artha` for sensual indulgence (कामवृत्तः). Proof of his neglect (स्वकर्मचिन्तनाभावे गमकम्, _Śiromaṇi_) appears in **v. 45**: having set four months as the boundary for the search (चतुरो मासान् प्रमाणम् अन्वेषणमर्यादां कृत्वा, _Śiromaṇi_), he is so befuddled by intoxicating drink (मादकरसविशेषपानादिमोहः) and absorbed in sporting with her (विहरंस्त्वया क्रीडन्, _Tilaka_) that he does not notice the deadline has expired.
+
+_____________
+
+**4.33.46–47 (How Intoxication Destroys Dharma, Artha, and Kāma)**
+
+Justifying why drink ruins all three aims of human life (पानादर्थादिनाशमुपपादयति, _Tilaka_), Lakṣmaṇa explains in **v. 47** that failing to reciprocate a favor done (कृते उपकारे अप्रतिकुर्वतः) incurs a grave loss of `dharma` (महान्धर्मलोपः प्रतिज्ञाहानिरूपः, _Tilaka_), while losing the friendship of a virtuous ally (गुणवतो मित्रस्य मैत्रीनाशे) incurs a grave loss of `artha`. Both **Govindarāja** (अर्थादायातः कामलोपश्च) and **Śivasahāya** (धर्मार्थयोर्लोपे कामलोपस्य अर्थसिद्धत्वात्) point out that the ruin of `kāma` follows automatically from the loss of `dharma` and `artha`.
+
+_____________
+
+**4.33.48 (The Twofold Virtue of Friendship Abandoned)**
+
+Glossing **v. 48**, **Rāma Varmā** (_Tilaka_) takes अर्थगुणश्रेष्ठम् (`excelling in accomplishing a friend's purpose') and सत्यधर्मपरायणम् (`devoted to truth and righteousness') as the two defining virtues of a true friend, both of which Sugrīva has cast aside (तद्द्वयं गुणद्वयमपि तव भर्त्रा परित्यक्तम्).
+
+_____________
+
+**4.33.49–50 (Invitation to Counsel and Tārā's Reassurance)**
+
+Unpacking the three occurrences of कार्य in **v. 49**, **Govindarāja** (_Bhūṣaṇa_) explains the first (प्रस्तुते कार्ये) as the crisis of abandoning a friend (मित्रपरित्यागलक्षणे कार्ये), the second (उत्तरं कार्यम्) as the next step, and the third as what must be done by us (कर्तव्यम्). In **v. 50**, **Rāma Varmā** (_Tilaka_) glosses गतार्थे as a royal undertaking whose success is already assured (सिद्धप्रयोजने मनुजेन्द्रकार्ये), whereas **Śivasahāya** (_Śiromaṇi_), reading आगतार्थे, explains it as `once the purpose of Lakṣmaṇa's arrival became known' (लक्ष्मणागमनप्रयोजनं यस्मिन्).
+
+_____________
+
+**4.33.51–52 (Appealing to Lakṣmaṇa's Sattva and Self-Mastery)**
+
+Why is it `not a time for anger' (न कोपकालः)? Tilaka answers: because the time for the quest has not yet been lost (अर्थस्यातीतत्वात्); Śivasahāya: because anger only delays the work (क्रोधस्य कार्यविलम्बकारकत्वम्); Govindarāja: because Sugrīva is love-smitten (सुग्रीवस्य कामार्तत्वात्). In **v. 52**, Govindarāja glosses सत्त्वावरुद्धः as resolute (व्यवसाययुक्तः) and तपसः प्रसूतिः as the source of forbearance (शान्तिरूपस्य उत्पत्तिस्थानम्), while Śivasahāya renders तपसः as reflective wisdom (विचारस्य).
+
+_____________
+
+**4.33.53–54 (The Sixfold Anaphora of `I Know')**
+
+Through six clauses governed by जानामि, Tārā acknowledges Rāma's righteous wrath (हरिवीरबन्धोः रामस्य कोपम्, _Tilaka_), the delay in the search (कालसङ्गं विलम्बम्), the slaying of Vālī done for their sake (वालिवधरूपं कार्यं नः कृतम्, _Bhūṣaṇa_), the duty now owed in return, the irresistible might of Kāma (शरीरजस्य कामस्य अविषह्यं बलम्), and how Sugrīva is bound by passion to his women (यस्मिन् जने स्त्रीजने कामेनावबद्धम्).
+
+_____________
+
+**4.33.55–56 (Lakṣmaṇa's Inexperience in the Laws of Kāma)**
+
+Explaining why Lakṣmaṇa is so harsh, **Rāma Varmā** (_Tilaka_) remarks that because he has long abstained from the company of women (चिरकालं स्त्रीसङ्गाभावात्), he has no insight into the nature of love (कामतन्त्रे कामस्वभावपरिज्ञाने तव बुद्धिर्नास्ति). A lover heeds neither suitable time and place nor `artha` and `dharma`. In **v. 56**, Tilaka glosses मम संनिकृष्टम् as `remaining in my company out of passion' (स्वभार्यया मम समीपे कामवशाद्वर्तमानम्) and **Śivasahāya** (_Śiromaṇi_) glosses त्वद्भ्रातरम् as `your kinsman through friendship with Rāma' (रामसखत्वेन त्वद्बन्धुम्).
+
+_____________
+
+**4.33.57 (The A Fortiori Argument from Great Sages to a Monkey King)**
+
+All three commentators highlight the rhetorical force (काव्यार्थापत्तिरलंकारः, _Śiromaṇi_) of **v. 57**: if even great sages whose delight is in `dharma` and penance (धर्मतपोभ्यामभिरामाः) fall prey to desire (कामानुकामाः) and become infatuated with women (स्त्रीषु प्रतिबद्धमोहाः, _Tilaka_), how could a creature who is both a naturally fickle monkey and a king (कपिस्तत्रापि राजा, _Tilaka_) fail to indulge in pleasures?
+
+_____________
+
+**4.33.58–60 (Sugrīva's Prior Mobilization of the Monkey Hosts)**
+
+Speaking with anxious earnestness (सखेदं सोद्वेगम्, _Bhūṣaṇa_), Tārā reveals the decisive fact (**vv. 59–60**): even while yielding to desire (कामस्य विधेयेनापि), Sugrīva issued orders for the expedition long before Lakṣmaṇa's arrival (चिराज्ञप्तः त्वदागमनात्पूर्वमेव, _Tilaka_), and myriad mountain-dwelling monkeys have already assembled in Kiṣkindhā.
+
+_____________
+
+**4.33.61–62 (Tārā's Vindication of Friendly Regard)**
+
+Removing the scruple of modesty (चारित्रम्) that had kept Lakṣmaṇa standing in a secluded corner since **v. 27**, Tārā invites him inside (तदागच्छ महाबाहो): for righteous men (सताम्), looking upon a friend's wives in pure friendship (मित्रभावेन दारावलोकनम्) is entirely blameless (अच्छलम्). Reassured by her permission and urged on by haste for Rāma's work (त्वरया चापि चोदितः), Lakṣmaṇa steps into the inner apartment (अभ्यन्तरम्).
+
+_____________
+
+**4.33.63–65 (Sugrīva's Mahendra-Like Splendor and Lakṣmaṇa's Renewed Wrath)**
+
+Inside, Lakṣmaṇa sees Sugrīva enthroned in sun-like radiance upon a golden seat draped with priceless coverlets (महार्हास्तरणोपेते), wearing divine ornaments, garlands, and robes like Mahendra himself (महेन्द्रमिव दुर्जयम्). Yet seeing him encircled by women (प्रमदाभिः समावृतम्), Lakṣmaṇa's wrath flares up anew: **Govindarāja** (_Bhūṣaṇa_) glosses संरब्धतररक्ताक्षः as `even more enraged, and therefore red-eyed' (कुपिततरः अत एव रक्ताक्षश्च), looking like Yama the Destroyer (अन्तकसंनिभः).
+
+_____________
+
+**4.33.66 (The Closing Tableau: Sugrīva Embracing Rumā)**
+
+In the concluding _vaṃśastha_ stanza, both **Rāma Varmā** (_Tilaka_, परिरभ्यावस्थित एव संददर्श) and **Śivasahāya** (_Śiromaṇi_, रुमां गाढं परिरभ्य स्थितः) underscore the dramatic irony of the moment: Sugrīva is still tightly embracing Rumā on his throne when his wide eyes meet the wide, blazing eyes of the undaunted Saumitri.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

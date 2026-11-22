@@ -2587,6 +2587,170 @@ obtains betwixt you and the son of Dasharatha. [3-47-47]
 
 “Whatever gulf lies between a crow and Vinatā&#x27;s son Garuḍa (_vāyasa-vainateyayoḥ_), whatever gulf between a cormorant and a peacock (_madgu-mayūrayor api_), whatever gulf between a swan and a vulture in the forest (_haṃsaka-gṛdhrayor vane_)—that is the gulf between Daśaratha&#x27;s son and you!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.47.1–3 (Sītā's Candor & Fear of a Guest's Curse)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that although Rāvaṇa questioned Sītā with deceitful intent (कापट्येन पृष्टापि), she answered with guileless candor out of reverence for his ascetic emblems (यतिलिङ्गं पुरस्कृत्य स्वयाथात्म्यमुक्तवती). On 3.47.2, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain why Sītā did not stop at silent hospitality: fearing that an unanswered Brāhmaṇa guest might curse her (अदत्तप्रतिवचनः शपेत), she disclosed her lineage in order to answer his questions (कासि, कस्य) in due sequence.
+
+_____________
+
+**3.47.4 (mānuṣān bhogān & sarvakāmasamṛddhinī)**
+
+On भुञ्जाना मानुषान् भोगान्, **Govindarāja** explains that Sītā speaks of “human pleasures” out of modesty, or refers to pleasures enjoyed with Rāma incarnate as man (मनुष्यत्वेनावतीर्णरामकृतान् भोगान्); alternatively, splitting the _sandhi_ as अमानुषान्, he glosses them as superhuman, celestial delights (मनुष्यदुर्लभान् दिव्यान् भोगान्). On सर्वकामसमृद्धिनी, **Śivasahāya** derives -इनि from the past participle समृद्ध rather than the _vrīhyādi_ class, whereas **Govindarāja** also records the locative reading समृद्धिनि qualifying निवेशने.
+
+_____________
+
+**3.47.5–6 (rājamantribhiḥ & mamāryā)**
+
+On राजमन्त्रिभिः, **Govindarāja** analyses the compound as “chief among ministers” (मन्त्रिराजैः मन्त्रिश्रेष्ठैः) with _rājadantādi_ inversion of members, and all three commentators gloss ममार्या as Sītā's venerable mother-in-law (पूज्या मम श्वश्रूः).
+
+_____________
+
+**3.47.7–9 (sukṛtena & arthair anvarthaiḥ)**
+
+On सुकृतेन परिगृह्य (प्रतिगृह्य in _Bhūṣaṇa_), **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) offer two interpretations: Kaikeyī either bound Daśaratha by reminding him of her past life-saving service (स्वकृतप्राणप्रदानोपकारस्मारणेन राजानं वशीकृत्य) or adjured him by his own merit and _dharma_ (धर्मेण शापयित्वा). On अर्थैरन्वर्थैः, all three commentators explain that Daśaratha offered Kaikeyī countless treasures and jewels as a substitute for the two boons (वरद्वयप्रतिनिधित्वेनैतानर्थान् प्रतिगृहाण, _Bhūṣaṇa_), which she spurned.
+
+_____________
+
+**3.47.10–11 (Chronology of Rāma's & Sītā's Ages)**
+
+Reconciling Rāma's twenty-five years (पञ्चविंशकः) and Sītā's eighteen (अष्टादश) at the time of exile with Bālakāṇḍa's ऊनषोडशवर्षो मे and 3.47.4's twelve years in Ayodhyā, **Govindarāja** and **Śivasahāya** (_Śiromaṇi_) compute the chronology: Rāma went with Viśvāmitra in his twelfth year, dwelt twelve years in Ayodhyā after wedding Sītā (who was six at marriage), and entered the forest at twenty-five; adding thirteen years in the forest makes Rāma thirty-eight and Sītā in her thirty-second year (इदानीं तु द्वात्रिंशो वर्षो वर्तते, _Bhūṣaṇa_). **Rāma Varmā** also notes a mystical reading identifying Rāma with the twenty-fifth _tattva_ (पञ्चविंशं तत्त्वं चैतन्यम्) and Sītā with the eighteen-fold _prakṛti_ (तन्मूलीभूता प्रकृतिरियम्).
+
+_____________
+
+**3.47.12 (The 8,000th Verse Gāyatrī Marker)**
+
+**Govindarāja** notes here the completion of the 8,000th verse of the epic (अष्टसहस्रश्लोकाः गताः), marked by the ninth syllable भ of the _Gāyatrī_ in मम भर्ता.
+
+_____________
+
+**3.47.13–15 (Daśaratha's Pledge & Rāma's Summons)**
+
+On कामार्तश्च... प्रियकामार्थम्, **Govindarāja** (_Bhūṣaṇa_) explains that Daśaratha, initially smitten by passion, had promised to grant Kaikeyī's wish (तव यत्प्रियं तत्करिष्यामीति प्रतिज्ञाय); when she later demanded Rāma's exile, the king withheld the consecration because he could not bear to break his pledged word (प्रतिज्ञाभङ्गं सोढुमक्षमो नाभ्यषेचयत्). On अभिषेकाय, **Govindarāja** notes that Rāma had been summoned without specification, yet assumed the summons was for his consecration (भवितुमर्हति मदाह्वानमित्यागतम्).
+
+_____________
+
+**3.47.16–17 (akutobhayaḥ & Rāma's Supreme Vow)**
+
+Glossing अकुतोभयः, **Govindarāja** explains that Rāma was equally fearless of relinquishing sovereignty and of dwelling in the wilderness (राज्यत्यागवनवासाभ्यां भयरहितः). **Śivasahāya** (_Śiromaṇi_) notes that 3.47.17cd (दद्यान्न प्रतिगृह्णीयात्...) answers why a prince capable of resisting obeyed such a command: munificence without receiving and unswerving truthfulness constituted Rāma's supreme vow (व्रतमनुत्तमम्).
+
+_____________
+
+**3.47.18 (vaimātraḥ vs. dvaimātraḥ)**
+
+While **Rāma Varmā** (_Tilaka_) and **Śivasahāya** read वैमात्रः (“born of a stepmother,” विमातुः पुत्रः), **Govindarāja** reads द्वैमात्रः (“son of two mothers”) and explains the absence of the usual _it_ replacement for मातृ as an _ārṣa_ licence.
+
+_____________
+
+**3.47.19–21 (jaṭī & kṛte)**
+
+On तापसरूपेण qualified by जटी in 3.47.20c, **Govindarāja** (_Bhūṣaṇa_) explains that because ascetic attire takes many forms, Sītā specifies that Rāma wore matted locks (तापसरूपस्यानेकरूपत्वाज्जटीति विशेषयति). On कृते, **Govindarāja** derives the noun कृत् (“purpose, cause”) via the _sampadādi_ suffix -क्विप् in the locative singular (प्रयोजनाय क्रियते सम्पाद्यत इति कृत्).
+
+_____________
+
+**3.47.22–23 (śakyaṃ vastum & āmiṣam)**
+
+On शक्यं वस्तुमिह त्वया, **Govindarāja** explains that Sītā reassures her guest that the hermitage is a pure and secure sanctuary (पवित्रदेशत्वादिति भावः). On 3.47.23cd (रुरून् गोधान्...), **Rāma Varmā** (_Tilaka_) glosses आमिषम् metaphorically as “that which is relished, i.e., coveted deer-skins and the like” (आदनमादृतं तदर्थमित्यर्थः), whereas **Śivasahāya** (_Śiromaṇi_) takes it literally as game meat (भोज्यवस्तु), and the apparatus notes that 3.47.23cd is absent in **Govindarāja** (अर्धमेतत् गो. नास्ति).
+
+_____________
+
+**3.47.24 (Questioning an Ascetic's Gotra)**
+
+Addressing the objection that one should not ask a _sannyāsin_ his _gotra_ or why he wanders alone, **Govindarāja** answers that Sītā asks about his pre-monastic lineage (पूर्वाश्रमनामगोत्रप्रश्नोऽयम्) and wonders how a mendicant subsists in a deep forest far from any village for alms (भिक्षाप्रदजनरहितश्चरसीति).
+
+_____________
+
+**3.47.25–26 (uttaraṃ tīvram)**
+
+On प्रत्युवाचोत्तरं तीव्रम्, **Govindarāja** (_Bhūṣaṇa_) explains that Rāvaṇa had been waiting for just such an opening to proclaim his own majesty (आत्मवैभवप्रकटनाअवसरप्रतीक्षकतया), and therefore answered with fierce pride (तीव्रम् = सटितीत्युक्तम्).
+
+_____________
+
+**3.47.27–28 (Distaste for His Own Consorts)**
+
+On दृष्ट्वा, **Rāma Varmā** (_Tilaka_) notes that it encompasses both Rāvaṇa's earlier sight of her and his present gaze (दृष्ट्वा पूर्वं त्वाम्, अद्य दृष्ट्वा च), while **Śivasahāya** (_Śiromaṇi_) observes that losing all pleasure in his own consorts (स्वकेषु दारेषु) highlights how Sītā's beauty eclipses every worldly attachment (सर्वलौकिकसुखविस्मारकत्वं सूचितम्).
+
+_____________
+
+**3.47.29–30 (samudrasya vs. sāgareṇa & vaneṣu)**
+
+Distinguishing समुद्रस्य from सागरेण in 3.47.29, **Govindarāja** explains that Laṅkā sits on a mountain peak in the middle of the ocean (समुद्रमध्ये वर्तमाने नगमूर्धनि), encircled by the sea excavated by King Sagara's sons (सगरनिर्मितेन समुद्रेण परितः आश्रिता). All three commentators gloss वनेषु in 3.47.30b as royal pleasure-gardens (उपवनेषु, _Tilaka_, _Bhūṣaṇa_).
+
+_____________
+
+**3.47.31–32 (Rāvaṇa's Delusion & Sītā's Indignation)**
+
+On Rāvaṇa's deluded proposal in 3.47.31, **Rāma Varmā** (_Tilaka_) cites a lengthy discourse from the _Viṣṇu Purāṇa_ and _Bhāgavata Purāṇa_ explaining why Rāvaṇa, unlike Śiśupāla, did not recognize Rāma as the Supreme Lord: blinded by _tamas_ and passion for Jānakī (अनङ्गपराधीनतया जानकीसमासक्तचेतसः), Rāvaṇa saw in Daśaratha's son only a mortal (मानुषबुद्धिरेव केवलाभूत्). On कुपिता in 3.47.32, **Rāma Varmā** remarks that the illusory Sītā (_māyā-Sītā_) feigned anger (कुपितेव).
+
+_____________
+
+**3.47.33–34 (nyagrodhaparimaṇḍalam)**
+
+**Rāma Varmā** notes that the mountain and ocean similes establish Rāma's unshakable fortitude and depth (धैर्यगाम्भीर्ये दर्शिते). On the _sāmudrika_ mark न्यग्रोधपरिमण्डलम्, **Rāma Varmā** cites the physiological canon that a man whose arm-span equals his height is _nyagrodha-parimaṇḍala_ (बाहुयामसमः कायो यस्य), whereas **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) compare Rāma to a great banyan tree that shelters all dependents and dispels their distress (स्वाश्रितसंतापध्वंसकम्).
+
+_____________
+
+**3.47.35–36 (nṛsiṃham & Fourfold Refrain)**
+
+**Rāma Varmā** notes that calling Rāma नृसिंहम् hints at his avataric identity as the slayer of Hiraṇyakaśipu (हिरण्यकशिपुहन्तृत्वं व्यङ्ग्यम्), while **Śivasahāya** observes that the fourfold refrain अहं राममनुव्रता underscores the utter impossibility of parting her from Rāma.
+
+_____________
+
+**3.47.37 (Jackal & Lioness Metaphor; Sun's Radiance)**
+
+Contrasting the jackal (जम्बुकः) with the lioness (सिंहीम्), **Govindarāja** (_Bhūṣaṇa_) identifies the rhetorical figure as a consummate _rūpaka_ metaphor (निरवयवशुद्धरूपकम्). On आदित्यस्य प्रभा यथा, **Rāma Varmā** (_Tilaka_) notes the theological resonance that just as sunlight cannot be severed from the sun, Sītā is inseparable from Rāma as _śakti_ from the _śaktimat_ (शक्तिशक्तिमतोर्वियोगात्), while **Śivasahāya** (_Śiromaṇi_) adds that she is veiled in the fiery radiance of Rāma's _tejas_ (रामतेजोरूपवह्निना आवृतत्वम्).
+
+_____________
+
+**3.47.38 (Seeing Golden Trees as an Omen of Death)**
+
+All three commentators explain that seeing golden trees (पादपान् काञ्चनान्) is a proverbial omen of imminent death (आसन्नमरणाः वृक्षान् स्वर्णमयान् पश्यन्तीति प्रसिद्धिः, _Bhūṣaṇa_; मुमूर्षुलक्षणम्, _Tilaka_).
+
+_____________
+
+**3.47.39–41 (Chain of Nidarśanā Illustrations)**
+
+On the series of impossible feats—plucking a fang from a famished lion or venomous serpent (आशीविषस्य), lifting Mandara by hand, drinking _kālakūṭa_ poison, rubbing one's eye with a needle, and licking a razor—all three commentators identify the figure of speech as _nidarśanā_ (सदृशयोर्वाक्यार्थयोरैक्यारोपान्निदर्शनालंकारः, _Bhūṣaṇa_).
+
+_____________
+
+**3.47.42–44 (Swimming with a Boulder & Walking on Spikes)**
+
+Continuing the chain of _nidarśanā_ illustrations, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) link 3.47.42–43a as a single sentence (सार्धश्लोक एकान्वयः): trying to violate Rāma's beloved wife is like swimming the ocean with a boulder tied to one's neck or wrapping blazing fire in a cloth (वस्त्रेणाहर्तुमिच्छसि). Where **Śivasahāya** reads मध्ये in 3.47.44d (“walking amidst iron-tipped pikes”), **Govindarāja** reads अग्रे and glosses it as treading upon a row of spike-tips (शूलाग्रपङ्क्तिषु सञ्चरितुमिच्छसि).
+
+_____________
+
+**3.47.45 (syandanikā, surāgrya, & sauvīraka)**
+
+Introducing the series of contrasts (अन्तरम् = तारतम्यम्) between Rāma's excellence and Rāvaṇa's baseness (रामोत्कृष्टत्वं रावणनिकृष्टत्वं च सदृष्टान्तमाह), all three commentators gloss स्यन्दनिका (स्यन्दिनिका) as a tiny brook (क्षुद्रनदी), सुराग्र्यम् as divine ambrosia (अमृतम्, _Tilaka_; श्रेष्ठमद्यम्, _Bhūṣaṇa_), and सौवीरकम् as sour rice-gruel (काञ्जिकम्, for which **Govindarāja** cites _Amarakośa_).
+
+_____________
+
+**3.47.46 (kāñcanasīsalohayoḥ)**
+
+On काञ्चनसीसलोहयोः, **Govindarāja** and **Śivasahāya** note that लोह (“metal”) construes distributively with both gold and lead (प्रत्येकमभिसंबध्यते, _Bhūṣaṇa_; धातुसामान्यपरत्वात्, _Śiromaṇi_).
+
+_____________
+
+**3.47.47–48 (madguḥ & makṣikayāvagīrṇam)**
+
+All three commentators identify मद्गुः as a diving water-crow or cormorant (जलकाकः, _Tilaka_, _Śiromaṇi_; जलवायसः, _Bhūṣaṇa_). On 3.47.48cd, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read आज्यं यथा मक्षिकयावगीर्णम्: just as clarified butter swallowed by a fly cannot be digested (जरां जीर्णत्वं न गमिष्ये) and instead destroys the fly (तद्वत् त्वां नाशयति, _Tilaka_), so Sītā will prove fatal to Rāvaṇa. **Govindarāja** (_Bhūṣaṇa_), reading वज्रं यथा, glosses वज्रम् either as a diamond swallowed by a fly mistaking it for a grain of rice (तण्डुलखण्डभ्रान्त्या ग्रस्तं हीररत्नम्) or as sacrificial _ājya_ by the Vedic equation वज्रो वा आज्यम्.
+
+_____________
+
+**3.47.49 (suduṣṭam vs. sudṛṣṭam & Plantain Simile)**
+
+Where **Rāma Varmā** takes सुदुष्टम् as an adverbial modifier of वाक्यम् (“words harsh and painful to Rāvaṇa,” अत्यन्तदुःखजनकम्), **Śivasahāya** construes it with रजनीचरम् (“the thoroughly wicked night-stalker”), and **Govindarāja** reads सुदृष्टम् (“well-reasoned”). **Śivasahāya** notes that the plantain simile (कदलीव) implies that her trembling was purely physical, not inward grief.
+
+_____________
+
+**3.47.50 (bhayakāraṇārtham)**
+
+On भयकारणार्थम्, **Govindarāja** explains that Rāvaṇa, inferring Sītā's fear from her trembling (तत्कम्पेन तद्भयमुपलक्ष्य), boasted of his lineage and prowess to cow her into submission (भयजननेन एषा वशीकर्तुं शक्येति मत्वा).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

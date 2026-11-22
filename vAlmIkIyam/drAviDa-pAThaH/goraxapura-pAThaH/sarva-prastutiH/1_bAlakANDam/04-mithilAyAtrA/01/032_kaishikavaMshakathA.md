@@ -91,6 +91,14 @@ Tracing the royal lineage of his own ancestors, Viśvāmitra recounts how Brahm�
 
 “There was of yore a great royal sage named Kuśa (_mahān āsīt kuśo nāma_), sprung directly from Brahmā (_brahmayoniḥ_) and rich in ascetic penance (_mahātapāḥ_), who knew the _dharma_ of unblemished vows (_akliṣṭavratadharmajñaḥ_) and ever revered the righteous (_sajjanapratipūjakaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.1 (brahmayoniḥ kuśaḥ — Viśvāmitra’s Ancestral Dynasty)**
+
+Answering Rāma’s inquiry regarding the Śoṇā valley, Viśvāmitra reveals that this land belongs to his own royal forebears (_madvaṃśyānām ayaṃ deśaḥ_, **Tilaka**, **Govindarāja**). All three commentators gloss _brahmayoniḥ_ as a mind-born son of Brahmā (_ayonijo brahmaputraḥ_). **Govindarāja** offers an etymology of _Kuśa_ (“he who dwells upon the earth”): unlike Nārada and other celestials who remained in Brahmaloka, Kuśa descended to dwell upon the earth (_ku_) out of devotion to protecting creatures, thereby inaugurating the kṣatriya vocation (_kṣatriyavyāpārāt kṣatriyo ’yam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -147,6 +155,14 @@ Tracing the royal lineage of his own ancestors, Viśvāmitra recounts how Brahm�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Upon a high-born and worthy princess of Vidarbha (_kulīnāyāṃ yuktāyāṃ vaidarbhyām_), that high-souled monarch (_sa mahātmā_) begot four sons worthy of himself (_janayām āsa caturaḥ sadṛśān sutān_) and endowed with exceeding might (_sumahābalān_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.2–3 (vaidarbhyām & asūrtarajasam)**
+
+On his high-born Vidarbha queen—glossed as endowed with every womanly virtue (_aśeṣastrīguṇayuktāyām_, **Tilaka**) and worthy of him (_ātmasadṛśāyām_, **Śiromaṇi**, **Govindarāja**)—Kuśa begot four sons to further the kṣatriya duty of protecting subjects (_kṣatradharmacikīrṣayā_). For the third son’s name, **Tilaka** explains the Southern reading _Asūrtarajas_ as “one in whom passion (_rajas_) is never engendered (_sūrtam = prasūtam_),” whereas **Govindarāja** (with Baroda CE) reads _Ādhūrtarajas_ and **Śiromaṇi** reads _Amūrtirajas_.
 </details>
 </details>
 
@@ -218,6 +234,14 @@ _________________
 **3:** “Kuśāmba, Kuśanābha, Asūrtarajas, and Vasu (_kuśāmbaṃ kuśanābhaṃ ca asūrtarajasaṃ vasum_)—resplendent with fiery luster and possessed of high energy (_dīptiyuktān mahotsāhān_)—out of a desire to advance the _dharma_ of the kṣatriya order (_kṣatradharmacikīrṣayā_).
 
 **4:** “To those supremely righteous and truth-speaking sons (_tān putrān dharmiṣṭhān satyavādinaḥ_), Kuśa spoke thus (_uvāca kuśaḥ_): ‘Perform the protection of the subjects, O sons (_kriyatāṃ pālanaṃ putrāḥ_), and you shall attain abundant merit (_dharmaṃ prāpsyatha puṣkalam_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.4–5 (kriyatāṃ pālanam & purāṇāṃ niveśam)**
+
+Charged by their father to rule righteously and earn abundant merit (_puṣkalaṃ sampūrṇaṃ dharmam_), the four princes establish four great capitals (_niveśaṃ nirmāṇaṃ cakrire_).
 </details>
 </details>
 
@@ -327,6 +351,14 @@ While Kuśāmba founds Kauśāmbī, Kuśanābha Mahodaya, and Asūrtarajas Dharm
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Kuśāmba of great fiery splendor built the city of Kauśāmbī (_kuśāmbas tu mahātejāḥ kauśāmbīm akarot purīm_), while the righteous-souled Kuśanābha built the city named Mahodaya (_kuśanābhas tu dharmātmā puraṃ cakre mahodayam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.6–8 (Four Royal Capitals & Five Peaks of Girivraja)**
+
+Each of Kuśa’s four sons founds a famed capital: Kuśāmba builds Kauśāmbī, Kuśanābha Mahodaya (later Kānyakubja), Asūrtarajas Dharmāraṇya, and Vasu Girivraja. Pointing to the landscape around them, Viśvāmitra identifies _eṣā vasumatī_ (the territory of Girivraja, **Tilaka**) ringed by five mountain peaks rising from the city’s base (_girivrajasaṃlagnamūlāḥ pañca śailavarāḥ_, **Govindarāja**).
 </details>
 </details>
 
@@ -567,6 +599,14 @@ This river is said to be the present day River Son
 
 “The lovely and renowned river Sumāgadhī flowed into the land of the Māgadhas (_sumāgadhī nadī ramyā māgadhān viśrutā ’’yayau_), shining like a garland in the midst of those five chief mountains (_pañcānāṃ śailamukhyānāṃ madhye māleva śobhate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.9–10 (sumāgadhī & pūrvābhicaritā)**
+
+Winding through the five hills like a garland (_māleva śobhate_) flows the river Sumāgadhī (Māgadhī). **Govindarāja** holds that Māgadhī designates the Śoṇa emerging from Magadha (_magadhadeśād āgatā māgadhīti śoṇa evocyate_) and glosses _pūrvābhicaritā_ as “flowing westward from the eastern country,” whereas **Tilaka** and **Śiromaṇi** gloss _pūrvābhicaritā_ as “flowing eastward” (_pūrvadiggāminī_) and identify her as the river Śoṇā/Sumāgadhī of Vasu’s realm, lined with fertile grain-fields (_sukṣetrā sasyamālinī_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -697,6 +737,14 @@ Children begotten through celestial maidens are of superior nature for
 
 “Now the royal sage Kuśanābha, righteous of soul, O delighter of the Raghus (_kuśanābhas tu rājarṣiḥ dharmātmā raghunandana_), begot upon the Apsaras Ghṛtācī a hundred matchless daughters (_kanyāśatam anuttamaṃ janayām āsa ghṛtācyām_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.11 (ghṛtācyāṃ kanyāśatam)**
+
+Turning to his ancestor Kuśanābha, Viśvāmitra relates that the royal sage begot a hundred daughters on the Apsaras Ghṛtācī—derived by **Govindarāja** as “she who melts like clarified butter (_ghṛtavat_) upon beholding a hero.”
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -772,6 +820,14 @@ As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the
 **12:** “Endowed with the bloom of youth, radiant with beauty, and splendidly adorned (_tās tu yauvanaśālinyo rūpavatyaḥ svalaṅkṛtāḥ_), those maidens entered the royal pleasure-garden (_udyānabhūmim āgamya_) like flashes of lightning in the rainy season (_prāvṛṣīva śatahradāḥ_).
 
 **13:** “Singing, dancing, and playing upon musical instruments, O Rāghava (_gāyantyo nṛtyamānāś ca vādayantyas tu rāghava_), decked in choice ornaments (_varābharaṇabhūṣitāḥ_), they attained supreme delight (_āmodaṃ paramaṃ jagmuḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.12–14 (śatahradāḥ & tārā iva ghanāntare)**
+
+Construing vv. 12–13 as a single syntactic unit (_ślokadvayam ekānvayi_, **Govindarāja**, **Śiromaṇi**), the commentators distinguish _svalaṅkṛtāḥ_ (adorned with flowers and sandal-paste) from _varābharaṇabhūṣitāḥ_ (decked with jewelled anklets). Playing lutes (_vīṇāḥ_), singing, and dancing in the grove, the hundred princesses dazzle like lightning (_śatahradāḥ vidyutaḥ_) in the rains and shine like stars among parted clouds (_ghanāntare meghamadhye tārā iva rejuḥ_, **Tilaka**).
 </details>
 </details>
 
@@ -881,6 +937,14 @@ As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the
 
 “Beholding them all endowed with every excellence and blessed with beauty and youth (_tāḥ sarvā guṇasampannā rūpayauvanasaṃyutāḥ dṛṣṭvā_), the all-pervading Wind-god Vāyu spoke these words (_sarvātmako vāyur idaṃ vacanam abravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.15–16 (sarvātmako vāyuḥ & mānuṣas tyajyatāṃ bhāvaḥ)**
+
+**Govindarāja** glosses _sarvātmakaḥ_ as “moving everywhere.” On Vāyu’s plea _mānuṣas tyajyatāṃ bhāvaḥ_, **Govindarāja** and **Śiromaṇi** interpret _bhāvaḥ_ as “affection for mortal suitors” (_manuṣyaviṣayako ’nurāgaḥ_), whereas **Tilaka** takes it ontologically: by consenting to wed a god, a miraculous power will manifest in them, casting off their mortal state and conferring divinity (_mad-aṅgīkāramātreṇa vilakṣaṇaśaktyāvirbhāvān mānuṣabhāvatyāge svata eva devāmartyatvaṃ bhaviṣyati_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -982,6 +1046,14 @@ As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the
 
 “‘For youth is ever fleeting, especially among mortal beings (_calaṃ hi yauvanaṃ nityaṃ mānuṣeṣu viśeṣataḥ_); winning imperishable youth, you shall become immortal goddesses as well (_akṣayaṃ yauvanaṃ prāptā amaryaś ca bhaviṣyatha_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.17 (akṣayaṃ yauvanam & amaryaś ca)**
+
+In v. 17 (preserved in the Southern Recension), Vāyu tempts the princesses with unfading youth and the status of immortal goddesses (_amaryaḥ_; **Śiromaṇi** notes the variant _amarīḥ = amarītvam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1037,6 +1109,14 @@ Dismissing Vāyu’s proposal with derisive laughter, the hundred daughters of K
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing that speech of Vāyu of unwearied deeds (_tasya tad vacanaṃ śrutvā vāyor akliṣṭakarmaṇaḥ_), the hundred maidens laughed it to scorn (_apahāsya_) and then spoke these words in reply (_tato vākyaṃ kanyāśatam athābravīt_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.18–19 (antaś carasi bhūtānām — Vāyu as Inner Witness)**
+
+Laughing off Vāyu’s advances in derision (_apahāsya hāsapūrvakam apamānya_, **Tilaka**), the princesses remind him that he moves within all creatures as the vital breath (_prāṇarūpeṇa_, **Govindarāja**). **Śiromaṇi** unpacks the subtle _dhvani_: “Because you move within all beings, you are the inner witness of our hearts and already know we bear no passion for you; knowing this, it is unworthy of you to insult us!”
 </details>
 </details>
 
@@ -1163,6 +1243,14 @@ _________________
 
 “‘We are all the daughters of Kuśanābha, O god, O best of celestials (_kuśanābhasutā deva samastāḥ surasattama_), fully capable of toppling even a deity from his station (_sthānāc cyāvayituṃ devam_); yet we guard our ascetic penance (_rakṣāmas tu tapo vayam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.20 (sthānāc cyāvayitum & rakṣāmas tu tapo vayam)**
+
+Under the Southern reading _samastāḥ_, **Tilaka** supplies _samarthāḥ_ (explicit in Baroda CE and **Govindarāja**): as Kuśanābha’s daughters, they can hurl even Vāyu down from his cosmic office (_vāyupadāc cyāvayitum_), yet refrain from cursing him because a curse expends ascetic merit (_śāpena tathākaraṇe hi tadvyayaḥ syāt_, **Tilaka**, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1211,6 +1299,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘May that time never come, O foolish-minded one (_mā bhūt sa kālo durmedhaḥ_), when, despising our truth-speaking father (_pitaraṃ satyavādinam avamanya_), we choose a husband by our own independent will (_svadharmeṇa svayaṃ varam upāsmahe_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.21–22 (pitaraṃ satyavādinam avamanya & Filial Dharma)**
+
+On v. 21c, **Tilaka** defends the Southern reading _avamanya svadharmeṇa_ (“May that day never come, O fool, when, despising our truth-speaking father, we choose a groom by our own willful impulse!”), rejecting _nāvamanyasva dharmeṇa_ (**Govindarāja**, Baroda CE) as a corruption (_apapāṭhaḥ_). Verse 22 crowns their reply with the maxim of _pitṛ-paratantratā_.
 </details>
 </details>
 
@@ -1338,6 +1434,14 @@ On hearing their sentence of rejection, Vayu, the Air-god whose impact
 
 “Hearing that reply of theirs, the mighty Lord Hari (Vāyu), filled with fierce wrath (_tāsāṃ tu vacanaṃ śrutvā hariḥ paramakopanaḥ bhagavān prabhuḥ_), entered into all their limbs and bent them crooked (_praviśya sarvagātrāṇi babhañja_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.23 (hariḥ paramakopanaḥ & praviśya sarvagātrāṇi)**
+
+In the Southern reading _hariḥ_, **Tilaka** and **Śiromaṇi** note that _Hari_ is a classical lexicon name for Vāyu (_harir vāyuḥ_), who entered the interior of the maidens’ bodies (_tac-charīrāntaḥ prāpya_) and bent their frames crooked without killing them (_babhañja_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1400,6 +1504,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Reduced to the stature of a single cubit, their limbs fractured and afflicted with terror (_aratnimātrākṛtayo bhagnagātrā bhayārditāḥ_), those maidens bent crooked by Vāyu entered the palace of the king (_tāḥ kanyā vāyunā bhagnā viviśur nṛpater gṛham_)—entering utterly distraught, overcome with shame, and their eyes brimming with tears (_praviśya ca susambhrāntāḥ salajjāḥ sāsralocanāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.24–25 (aratnimātrākṛtayaḥ & salajjāḥ)**
+
+Bowed down to the measure of a cubit (_aratnimātrākṛtayaḥ_), the hundred princesses return weeping to the palace. Why are they “overcome with shame” (_salajjāḥ_) when innocent? **Govindarāja** attributes their shame to bodily disfigurement (_śarīravairūpyāt_), while **Tilaka** observes that they feared bystanders might suspect their punishment stemmed from some unchaste transgression (_anyasyāsatītvaprasaṅgataḥ salajjāḥ_).
 </details>
 </details>
 
@@ -1532,5 +1644,13 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘What is this? Tell me, O daughters! Who despises _dharma_ (_kim idaṃ kathyatāṃ putryaḥ ko dharmam avamanyate_)? By whom have you all been made hunchbacked, that you writhe in distress yet utter not a word (_kubjāḥ kena kṛtāḥ sarvāś ceṣṭantyo nābhibhāṣatha_)?’ Sighing deeply after speaking thus, the king then entered into focused stillness (_evaṃ rājā viniḥśvasya samādhiṃ saṃdadhe tataḥ_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32.26 (ko dharmam avamanyate & samādhiṃ saṃdadhe)**
+
+**Tilaka** and **Govindarāja** gloss _dharmam avamanyate_ as “commits violent outrage” (_balātkāraṃ karoti_). Seeing them gesturing in tears without speaking (_rodanādinā ceṣṭantyaḥ_), Kuśanābha sighs and enters _samādhi_—fixed attention to hear their explanation (_tadvacaḥśravaṇaikāgracitto ’bhūt_, **Tilaka**, **Govindarāja**), or meditative reflection (**Śiromaṇi**).
 </details>
 </details>

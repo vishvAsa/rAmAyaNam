@@ -395,6 +395,134 @@ Cordially received in Laṅkā by Vibhīṣaṇa and conducted into Rāvaṇa’
 
 Proceeding to the city of Laṅkā (_gatvā nagarīṃ laṅkām_), he approached Vibhīṣaṇa (_āsasāda vibhīṣaṇam_), was duly honored by him according to dharma (_mānitas tena dharmeṇa_), and was asked concerning the purpose of his coming (_pṛṣṭaś cāgamanaṃ prati_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.13.1–2 (Brahmā’s Boon-Born Slumber Takes Form)**
+
+Transitioning from the marriages of Sarga 12 to Kumbhakarṇa’s fate, all three commentators identify लोकेश्वरेण as Brahmā, who had diverted Kumbhakarṇa’s boon into prolonged sleep in Sarga 10. **Rāma Varmā** (_Tilaka_) glosses लोकेश्वरोत्सृष्टा as ‘sent forth by Brahmā’ (ब्रह्मणोत्सृष्टा प्रेषिता) and रूपिणी as visibly manifest through yawning and drowsiness (जृम्भादिरूपेण रूपवती). **Śivasahāya** (_Śiromaṇi_) explains that it sprang from the potency of Brahmā’s decree (तद्वचनप्रभावेणोत्पन्ना) and glosses Kumbhakarṇa’s requested आलयम् as a chamber fit for long slumber (चिरशयनयोग्यं गृहम्), while **Govindarāja** (_Bhūṣaṇa_) renders रूपिणी simply as ‘embodied’ (मूर्ता).
+
+_____________
+
+**7.13.3–4 (Reconciling the Palace’s Dimensions Across Books VI and VII)**
+
+Both **Rāma Varmā** and **Govindarāja** pause on 7.13.3cd to resolve a seeming contradiction with the _Yuddhakāṇḍa_. Here the Viśvakarman-like artisans make Kumbhakarṇa’s hall one _yojana_ in breadth (विस्तीर्णं योजनं तिर्यग्मानेनेति शेषः) and twice as long—two _yojanas_—in length (ततो द्विगुणमायतम्); hence where Book VI speaks of it as योजनायताम्, both commentators instruct that it must be understood elliptically as ‘twice a _yojana_ long’ (युद्धकाण्डे यद्योजनायतामित्युक्तं तद्द्विगुणयोजनायतामित्यर्थकं ज्ञेयम्). **Śivasahāya** construes verses 7.13.3–5 together as a single syntactic unit (श्लोकत्रयमेकान्वयि).
+
+_____________
+
+**7.13.5–6 (Architectural Opulence Like a Cavern of Meru)**
+
+Detailing the hall’s jeweled craftsmanship, **Rāma Varmā** analyzes किङ्किणीजालकम् as a _bahuvrīhi_ (‘furnished with bell-lattices’) and दान्ततोरणविन्यस्तम् as fitted with arched ivory gateways. **Govindarāja** specifies that the tinkling nets of bells hung along the eaves (प्रान्तेषु किङ्किणीजालयुक्तम्) and derives दान्तः as ‘fashioned of tusk’ (दन्तविकारः), which **Śivasahāya** renders explicitly as elephant ivory (गजदन्तनिर्मितेन). Comparing this tranquil, Meru-like sanctuary (मेरुगुहामिव मनोहरमालयम्) to a mountain cavern highlights the irony that Kumbhakarṇa’s palatial rest leaves Rāvaṇa unchecked.
+
+_____________
+
+**7.13.7–8 (Kumbhakarṇa’s Slumber and Rāvaṇa Unbridled)**
+
+With Kumbhakarṇa sunk in millennial sleep (न बुध्यते न जागर्ति, **Śivasahāya**), the narrative pivots abruptly to Rāvaṇa’s reign of terror. The poet’s epithet निरङ्कुशः (‘without an elephant-goad’) is sharply evocative: once the one colossal brother who could match or check him lies inert, Rāvaṇa behaves like a rogue tusker rampaging across the cosmos, assailing gods, sages, yakṣas, and gandharvas alike. Though **Śivasahāya** (_Śiromaṇi_) paraphrases both verses succinctly, the juxtaposition of Kumbhakarṇa’s stillness with Rāvaṇa’s fury establishes the causal link between the boon’s aftermath and heaven’s crisis.
+
+_____________
+
+**7.13.9–10 (A Vendetta Against Heaven and the Triple Simile)**
+
+Why is Rāvaṇa described as ‘fiercely enraged’ (सुसङ्क्रुद्धः) while wrecking Nandana and other celestial groves in 7.13.9? **Śivasahāya** uncovers a striking psychological motive: Rāvaṇa burns with fury born of recalling how the gods had twisted Kumbhakarṇa’s tongue when he petitioned Brahmā (देवकृतकुम्भकर्णवचनविपरीतकरणस्मृतिजनितक्रोधविशिष्टः). Thus the vandalism of heaven’s gardens is calculated reprisal. Verse 7.13.10 then amplifies Rāvaṇa’s violence through an escalating triple _upamā_—an elephant churning a stream in sport, a gale toppling trees, and a thunderbolt cleaving mountains—showing cosmic ruin executed with effortless malice.
+
+_____________
+
+**7.13.11–12 (Kubera’s Fraternal Forbearance)**
+
+Against Rāvaṇa’s lawlessness, Vālmīki sets the quiet dignity of Kubera (_Vaiśravaṇa_). Construing 7.13.11–12 as one unified sentence (श्लोकद्वयमेकान्वयि), **Śivasahāya** highlights Kubera’s recollection of ancestral dharma before dispatching his envoy. **Rāma Varmā** (_Tilaka_) supplies बोधनीयत्वेन on 7.13.11 (‘recalling his own lineage-worthy conduct as an example to instruct his brother’) and वक्तुम् on 7.13.12 (‘to speak what is salutary’), glossing सौभ्रात्रदर्शनार्थम् as ‘to manifest brotherliness’ (तद्दर्शयितुम्). **Govindarāja** (_Bhūṣaṇa_) supplies अनुरक्तम् on 7.13.11 and glosses हितम् as ‘devoted to his welfare’ (हितपरम्).
+
+_____________
+
+**7.13.13–16 (Vibhīṣaṇa’s Courtesy and Royal Protocol)**
+
+Arriving in Laṅkā, Kubera’s envoy naturally meets righteous Vibhīṣaṇa first—a subtle foreshadowing of Vibhīṣaṇa’s lifelong devotion to dharma. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) complete the elliptical आगमनं प्रति in 7.13.13 by supplying कार्यम् (‘asked regarding the business of his arrival’), which **Śivasahāya** (_Śiromaṇi_) glosses as आगमनप्रयोजनम्. All three identify राज्ञः in 7.13.14 as Kubera (धनदस्य / कुबेरस्य) and तम् as the envoy. On 7.13.15, Rāma Varmā supplies क्षणमात्रम् (‘waited silently for a moment’) after the salute जय, and Śivasahāya glosses समभिवर्तत as समीपेऽतिष्ठत्.
+
+_____________
+
+**7.13.17 (Appealing to Both Parents’ Heritage)**
+
+Before repeating Kubera’s admonition, the messenger tactfully frames it as consonant with Rāvaṇa’s own dignity. All three commentators—**Rāma Varmā**, **Śivasahāya**, and **Govindarāja**—interpret the dual उभयोः in 7.13.17c specifically as both parents, father and mother (उभयोर्मातापित्रोः कुलस्य तयोर्वृत्तस्य च सदृशम्), reminding the monarch that the austere Brahmin sage Viśravas and his noble ancestry (अभिजनस्य, Bhūṣaṇa) demand upright behavior (सदाचारस्य, Śiromaṇi) rather than wanton violence. By appealing simultaneously to maternal and paternal honor, Kubera elevates his rebuke above personal rivalry into a plea for dynastic integrity.
+
+_____________
+
+**7.13.18 (A Textual Pivot and Tactful Diplomacy)**
+
+Verse 7.13.18 draws rich exegetical attention. Reading कृत्यश्चारित्रसङ्ग्रहः, **Rāma Varmā** and **Śivasahāya** construe एतावत् पर्याप्तम् as ‘enough of this much sin—henceforth righteous conduct must be gathered’ (एतावदेव पापमलम्, इतः परं चारित्रसङ्ग्रहः कृत्यः कार्यः). Rāma Varmā then cites the older exegete **Kataka** for our printed reading कृतश्चारित्रसङ्ग्रहः (followed by **Govindarāja**): ‘Enough of the conduct you have gathered thus far; now establish yourself in dharma.’ Both Tilaka and Bhūṣaṇa highlight the courteous proviso यदि शक्यते (‘if it be possible’), observing that it deftly removes any suggestion of an elder issuing a command (गुरुस्वामिनियोगबुद्धिर्व्यावर्त्यते).
+
+_____________
+
+**7.13.19–20 (Heaven’s Mobilization and Brotherly Patience)**
+
+Setting out the immediate grounds for his warning, Kubera cites both eyewitness and reported offenses. **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) clarify देवतानां समुद्योगः in 7.13.19 as the gods’ concerted effort to devise retaliation (प्रतिक्रियासंपादनविषयः), which **Śivasahāya** (_Śiromaṇi_) sharpens into plotting Rāvaṇa’s death (त्वद्वधोपायकरणम्). On 7.13.20, Rāma Varmā and Śivasahāya (reading सापराधोऽपि बालो हि रक्षितव्यः) note that even an offending younger kinsman must be shielded by his elders—subtly warning that spurning this counsel means ruin (मद्वचनानादरे तव कल्याणं न भवितेति ध्वनितम्). Govindarāja glosses रमणीयाः as ‘to be conciliated’ (तोषणीयाः) despite youthful errors (बाल्यादज्ञानादपराद्धाः).
+
+_____________
+
+**7.13.21–22 (The Kedāra Vow on Himālaya)**
+
+Answering the unspoken question of why he did not restrain Rāvaṇa while those crimes were underway (न च पापाचरणसमये एव कुतो न निवारितम्, **Śivasahāya**), Kubera explains that he had withdrawn to Himālaya to practice the _raudra-vrata_—glossed by both **Rāma Varmā** and **Govindarāja** as an austerity propitiating Rudra (रुद्रप्रसादकरं व्रतम्). Remarkably, **Govindarāja** identifies this specific observance by name as the traditional _Kedāra-vrata_ (इदं तु केदारव्रतमित्याहुः). There, encountering Śiva with Umā, Kubera’s left eye fell upon the Goddess solely by chance (दैवात् भाग्यवशात्, Śivasahāya).
+
+_____________
+
+**7.13.23–24 (Innocent Wonder and the Scorched Left Eye)**
+
+Anticipating any misconstruction of that glance, **Rāma Varmā** explains नान्येन हेतुना in 7.13.23 as excluding all sensual passion or impropriety (विकारादिनेत्यर्थः): Kubera looked purely in spontaneous awe (विस्मयहेतुमाह) at Rudrāṇī’s peerless form. Construing 7.13.22–23 together (श्लोकद्वयमेकान्वयि), **Śivasahāya** normalizes तिष्ठति to अतिष्ठत्. On 7.13.24, both Rāma Varmā and Śivasahāya interpret दग्धम् as the scorching/loss of the left eye by Umā’s divine radiance, while its luster turned tawny like a flame clouded by dust (रेणुध्वस्तमिव ज्योतिः पिङ्गलत्वमुपागतम्).
+
+_____________
+
+**7.13.25–26 (Eight Centuries of Silent Tapas)**
+
+Undeterred by the scorching of his eye, Kubera withdraws discreetly to another wide slope of Himālaya and fulfills eight hundred years of silent _mahāvrata_. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) normalize the unusual epic past form समधारम् / समाधारम् into standard समधारयम् (‘I steadily sustained’). In 7.13.26, the reduplicated phrase प्रीतः प्रीतेन मनसा (‘pleased, with a gladdened mind’) accentuates the fullness of Maheśvara’s grace once the discipline reaches completion (नियमे समाप्ते सति, Śiromaṇi), elevating Kubera from supplicant to intimate confidant of the Supreme Lord.
+
+_____________
+
+**7.13.27–28 (A Vow Shared Only by Śiva and Kubera)**
+
+In the Parimal sequence adopted by **Rāma Varmā** and **Śivasahāya**, line 27ab (पैङ्गल्यं यदवाप्तम्...) stands after 30cd to introduce the title _Ekākṣipiṅgalī_, allowing Śiva’s speech to open directly with प्रीतोऽस्मि. Rāma Varmā glosses एतद्व्रतम् in 7.13.28 as ‘this _mahāvrata_ observed by you’ (त्वदाचरितं महाव्रतम्), while Śivasahāya construes 7.13.27cd–28 as one syntactic unit (सार्धश्लोक एकान्वयी): Śiva is delighted precisely because no third being in creation can match the vow practiced solely by himself and Kubera.
+
+_____________
+
+**7.13.29–30 (Won Over by Austerity—The Gift of Companionship)**
+
+Explaining why no third practitioner exists, **Śivasahāya** links 7.13.29 directly as its cause: Śiva himself originated this exceedingly arduous vow (सुदुष्करम्) in ancient times, and because Kubera has accomplished Śiva’s own primordial discipline, the Lord invites him into friendship (मया सखित्वं समारोचय, अत एव मम सखा भव). **Govindarāja** (_Bhūṣaṇa_) glosses रोचयस्व crisply as ‘make it pleasing to yourself’ (स्वरुचितं कुरु). The phrase तपसा निर्जितश्चैव (‘conquered by austerity’) voices a beloved Purāṇic motif—the Almighty gladly letting himself be won by steadfast devotion.
+
+_____________
+
+**7.13.31–32 (The Eternal Epithet and Final Warning)**
+
+Joining 7.13.30cd with 31a, **Śivasahāya** (_Śiromaṇi_) explains how Śiva transforms Kubera’s scorched eye into the enduring title _Ekākṣipiṅgalī_. On 7.13.31ef, **Govindarāja** (_Bhūṣaṇa_) glosses आगत्य as returning home (स्वगृहमागत्य), while Śivasahāya notes this implies Kubera had been unaware of Rāvaṇa’s crimes while they occurred (पापाचरणसमये मया न श्रुतमिति व्यञ्जितम्). On 7.13.32, **Rāma Varmā** (_Tilaka_), Śivasahāya, and Govindarāja all gloss epic निवर्त as निवर्तस्व: because heaven already plots his doom, Rāvaṇa must abandon his lineage-defiling course (कुलदूषणादधर्मिष्ठसंसर्गात्).
+
+_____________
+
+**7.13.33–34 (Fury and the Sentence of Death)**
+
+Rāvaṇa’s bodily reaction in 7.13.33—bloodshot eyes, clenched hands (plural हस्तान् in Śiromaṇi and CE, vividly evoking his twenty arms), and gnashing teeth—marks the abrupt collapse of diplomacy. On 7.13.34, both **Rāma Varmā** and **Govindarāja** gloss वाक्यं विज्ञातम् as grasping the message’s true drift (वाक्यतात्पर्यार्थो विज्ञातः), while **Śivasahāya** interprets the ominous negation नैव त्वमसि नैवासौ as an explicit threat of death against both messenger and sender (उभावपि हनिष्यामीति तात्पर्यम्), and Rāma Varmā glosses नैवासि as ‘shall cease to exist’ (न भविष्यति).
+
+_____________
+
+**7.13.35 (Hubris Misreading Counsel as a Boast)**
+
+Exposing the psychology of Rāvaṇa’s outburst, **Rāma Varmā** observes that even though Kubera narrated his friendship with Śiva purely as part of his truthful history (कुबेरेण स्ववृत्तान्तोक्त्यापि), Rāvaṇa’s perverse intellect twists it into an intimidating brag (स्वदुर्मत्या विपरीतं गृहीतवान्). **Śivasahāya** echoes this contrast: Kubera does not speak for my good, Rāvaṇa snarls, but parades his tie to Maheśvara. Reading second-person श्रावयसे, **Govindarāja** paraphrases Rāvaṇa’s scorn: ‘This treasure-keeper’s speech is neither fitting nor helpful—fool, you boast of Śiva’s friendship merely to frighten me!’
+
+_____________
+
+**7.13.36–37 (The Last Fraternal Restraint Shattered)**
+
+Explaining Rāvaṇa’s sudden pivot from tolerance to total conquest, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) clarify the impersonal present मन्यते in 7.13.37b: until this moment, Rāvaṇa’s inner conscience (मदन्तरात्मा) had spared Kubera as an elder kinsman (पूर्वमयं ज्येष्ठो गुरुर्न हन्तव्य इति मन्यते स्म). **Śivasahāya** (_Śiromaṇi_) likewise normalizes मन्यते to अमन्यत. Provoked by what he construes as Kubera’s arrogance, that last scruple snaps, hardening into a vow to subjugate all three worlds by sheer force of arms (बाहुवीर्यमुपाश्रितः).
+
+_____________
+
+**7.13.38 (The Four Lokapālas Doomed for One Brother’s Sake)**
+
+Expanding a fraternal grievance into cosmic aggression, Rāvaṇa swears to send all four World-Guardians (Kubera, Indra, Yama, and Varuṇa) to Death’s realm this very instant (अस्मिन्मुहूर्ते, **Rāma Varmā**). Both **Rāma Varmā** and **Govindarāja** explain the idiomatic तस्यैकस्य कृते as ‘in the course of slaying that single brother’ (वधप्रसङ्गे इत्यर्थः)—making Kubera the mere trigger for overthrowing the entire heavenly order. **Śivasahāya** construes 7.13.37ef–38 as a unified six-quarter sentence (सार्धश्लोक एकान्वयी) and silently standardizes the epic future नयिष्यामि as नेष्यामि.
+
+_____________
+
+**7.13.39–40 (Slaughter of the Envoy and March on Kailāsa)**
+
+Cutting down an unarmed ambassador violates a cardinal law of _rājadharma_—an outrage pointedly reversed when Vibhīṣaṇa later shields Hanūmān in Book V. **Śivasahāya** clarifies the genitive राक्षसानाम् as dative राक्षसेभ्यः (‘gave him to rākṣasas to eat’), while **Rāma Varmā** and **Govindarāja** gloss एनम् as the sword-cloven corpse (खड्गच्छिन्नम्). The chilling juxtaposition in 7.13.40—commissioning auspicious departure-blessings (कृतस्वस्त्ययनः) right after diplomatic murder—propels Rāvaṇa’s chariot toward Kailāsa and the war of Sargas 14–15.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

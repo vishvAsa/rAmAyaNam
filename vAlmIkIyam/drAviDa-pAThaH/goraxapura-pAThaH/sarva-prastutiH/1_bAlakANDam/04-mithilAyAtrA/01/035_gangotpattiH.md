@@ -78,6 +78,14 @@ On sojourning the remaining night on the bank of river Sona along with
 
 Having passed the remainder of the night on the bank of the Śoṇa together with the great sages (_upāsya rātriśeṣaṃ tu śoṇākūle maharṣibhiḥ_), when the night had brightened into auspicious dawn (_niśāyāṃ suprabhātāyām_), Viśvāmitra spoke:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.1–2 (upāsya rātriśeṣaṃ tu & Dawn Benediction)**
+
+**Tilaka** and **Śiromaṇi** gloss _upāsya rātriśeṣam_ as passing the rest of the night in sleep (_nidrayātivāhya_, _śayitvā_). **Govindarāja** notes that _rātriśeṣam_ confirms that “midnight had passed” in 34.14 naturally meant literal midnight (_niśīthaparatvaṃ svarasam_), and offers a second gloss where _upāsya_ means meditating on the Supreme Self at _brāhma-muhūrta_ (_upāsya paramātmānam_). At dawn (_pūrvā saṃdhyā_), Viśvāmitra wakes Rāma with _uttiṣṭhottiṣṭha bhadraṃ te_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,6 +188,14 @@ On hearing the words of Sage Vishvamitra, Rama woke up and on completion
 
 Hearing those words of his, Rāma performed his morning ritual observances (_kṛtapūrvāhṇikakriyaḥ_), showed his readiness for the march (_gamanaṃ rocayām āsa_), and spoke this word:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.3–4 (gādhaḥ vs. agādhaḥ on the Śoṇa)**
+
+Having performed his morning _saṃdhyā_ rites (_kṛtapūrvāhṇikakriyaḥ_), Rāma asks by which of two paths (_katareṇa pathā_) they should cross the Śoṇa. Commentators divide on _śubhajalo (’)gādhaḥ pulinamaṇḍitaḥ_: **Tilaka** reads _agādhaḥ_ (“unfathomably deep,” _atalasparśaḥ_), whereas **Govindarāja** and **Śiromaṇi** (with Baroda CE) read _gādhaḥ_ (“shallow,” _svalpajalaḥ_), noting that because its waters are shallow and sandy-shoaled (_pulinamaṇḍitaḥ_), it is fordable on foot without a boat (**Govindarāja**: _nāvaṃ vinā gantuṃ śakyate_; **Śiromaṇi**: _agādha iti padacchedo na ramaṇīyaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -277,6 +293,14 @@ When Rama spoke to him thus sage Vishvamitra replied, "I propose the
 
 Thus addressed by Rāma, Viśvāmitra spoke this in reply: “Here is the path pointed out by me, by which the great sages pass across (_eṣa panthā mayoddiṣṭo yena yānti maharṣayaḥ_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.5 (The Ford of the Maharṣis)**
+
+Answering Rāma’s dual inquiry (_katareṇa_), Viśvāmitra points out the sacred ford regularly traversed by the great sages (_eṣa panthā mayoddiṣṭo yena yānti maharṣayaḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -336,6 +360,14 @@ Thus spoken by that astute Sage Vishvamitra, the other great sages travelled
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by the wise Viśvāmitra, those great sages set forth (_prayātā vai_), beholding diverse woodlands along the way (_paśyantas te vanāni vividhāni ca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.6–8 (Crossing the Śoṇa & Sighting the Jāhnavī at Midday)**
+
+Crossing the Śoṇa by the sages’ ford and marching a long distance while beholding diverse woodlands (v. 6, preserved in **Govindarāja**’s manuscripts), the party reaches the sacred Jāhnavī (Gaṅgā)—the daughter of Sage Jahnu (_jahnuprādurbhūtām_, **Śiromaṇi**), frequented by sages, swans (_haṃsa_), and Sarus cranes (_sārasa_, **Tilaka**)—precisely at midday (_gate ’rdhadivase_).
 </details>
 </details>
 
@@ -509,6 +541,20 @@ Then they sojourned on the riverbank of Ganga, and next on taking bath
 
 **10:** —and having offered oblations into their sacred fires and partaken of the nectar-like sacrificial oblation (_hutvā caivāgnihotrāṇi prāśya cāmṛtavad dhaviḥ_), they sat down radiant and joyful-minded upon the pure bank of the Jāhnavī (_viviśur jāhnavītīre śubhā muditamānasāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.9–10 (Midday Ablutions, Tarpaṇa & Agnihotra on Gaṅgā’s Bank)**
+
+Selecting and sweeping clean a halting-place on the riverbank (_vāsaparigraham_: _saṃmārjanādinā vāsasthānaṃ cakruḥ_, **Tilaka** and **Govindarāja**), the sages and princes bathe according to Vedic precept (_yathānyāyam_: reciting the _Aghamarṣaṇa-sūkta_ and other mantras, **Govindarāja**), offer libations to the _pitṛ_s, gods, and _ṛṣi_s (_saṃtarpya pitṛdevatāḥ_), perform the five great sacrifices and fire-oblations (_agnihotrāṇi_), and partake of the nectar-like sacrificial remnant (_amṛtavad dhaviḥ_: _pañcamahāyajñāvaśiṣṭam annam_, **Tilaka**), recalling the _Smṛti_ maxim _yajñaśiṣṭāmṛtabhujo yānti brahma sanātanam_ (**Govindarāja**).
+
+_____________
+
+**35.10cd (śubhā vs. śucau)**
+
+In v. 10d, **Tilaka** reads _śubhā muditamānasāḥ_ (“radiant and joyful-minded”), whereas **Govindarāja** and **Śiromaṇi** (with Baroda CE) read _jāhnavītīre śucau_ (“on the pure bank of the Jāhnavī, at a clean spot separate from where they had dined,” _bhojanasthānād anyatra_, **Govindarāja**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -571,6 +617,14 @@ When sages are sitting at ease then even Rama and Lakshmana sat down
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surrounding the high-souled Viśvāmitra on all sides (_viśvāmitraṃ mahātmānaṃ parivārya samantataḥ_), the sages were seated in due order, and the two Rāghavas according to their rank (_viṣṭhitāś ca yathānyāyaṃ rāghavau ca yathārhataḥ_); then Rāma, his heart filled with joy, spoke to Viśvāmitra:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.11–12 (Rāma’s Inquiry into the Three-Pathed Gaṅgā)**
+
+Seated around Viśvāmitra (_viṣṭhitāś ca yathānyāyaṃ rāghavau ca yathārhataḥ_, endorsed by **Tilaka** and cited by **Śiromaṇi** as _Bhaṭṭasaṃmata_), Rāma asks how the three-pathed Gaṅgā (_tripathagāṃ nadīm_) traversed the three worlds to reach the ocean, lord of westward _nada_s and eastward _nadī_s (_nadanadīpatim_). **Govindarāja** remarks that Rāma asks in order to propagate in the world the glory of Gaṅgā, who had sprung from his own divine foot as Viṣṇu (_svapādodbhavagaṅgāvaibhavaṃ loke pravartayitum_).
 </details>
 </details>
 
@@ -668,6 +722,14 @@ Motivated by Rama's words the eminent-sage Vishvamitra commenced to
 
 Impelled by Rāma’s words (_codito rāmavākyena_), the great sage Viśvāmitra began to recount the expansion and the birth of Gaṅgā (_vṛddhiṃ janma ca gaṅgāyā vaktum evopacakrame_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.13 (vṛddhiṃ janma ca gaṅgāyāḥ)**
+
+Answering both parts of Rāma’s inquiry in inverse order, Viśvāmitra undertakes to narrate Gaṅgā’s _vṛddhi_—her expansion across heaven, earth, and the netherworld (**Tilaka**: _trailokyavyāptirūpām_; **Śiromaṇi**: _jalarūpeṇa trilokapūraṇatvam_)—and her _janma_ (her birth from Himavān).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -719,6 +781,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There is the king of mountains, Himavān, O Rāma, a mighty mine of minerals and ores (_śailendro himavān rāma dhātūnām ākaro mahān_). To him were born two daughters, O Rāma, peerless in beauty upon the earth (_tasya kanyādvayaṃ rāma rūpeṇāpratimaṃ bhuvi_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.14–15 (Himavān & Menā, Daughter of Meru)**
+
+Viśvāmitra begins with Himavān, lord of mountains and great mine of minerals (_dhātūnām ākaraḥ_: gold and red chalk in **Tilaka**, iron and copper in **Govindarāja**). His beloved consort, the slender-waisted daughter of Mount Meru (_meruduhitā_), is the mother of his two daughters: **Tilaka** (with _Bhaṭṭa_ and Baroda CE) reads _Menā manojñā vai_, whereas **Śiromaṇi** reads _Menakā nāma_ and **Govindarāja** reads _Manoramā nāma_.
 </details>
 </details>
 
@@ -829,6 +899,14 @@ _________________
 
 “Of her (Menā) was born this Gaṅgā, the elder daughter of Himavān (_tasyāṃ gaṅgeyam abhavaj jyeṣṭhā himavataḥ sutā_); and the second maiden born to him was known by the name of Umā (_umā nāma dvitīyābhūt kanyā tasyaiva_), O Rāghava.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.16–17 (Birth of Gaṅgā & Umā; The Gods’ Petition)**
+
+From Menā are born Himavān’s elder daughter Gaṅgā (also called Kuṭilā in the _Vāmanapurāṇa_, **Tilaka**) and his younger daughter Umā. Why did the gods petition Himavān for Gaṅgā (_devakāryacikīrṣayā_)? **Tilaka**, **Govindarāja**, and **Śiromaṇi** explain that the gods foresaw the need for a celestial stream capable of bearing the fiery seed of Śiva (_bhavavīryadhāraṇam_) to produce Skanda, commander of the divine armies, as well as providing sacred waters for their ablutions and worship. Calling her _tripathagāṃ nadīm_ here is proleptic (_vartamānāpadeśena_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -924,6 +1002,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Out of desire for the welfare of the three worlds (_trailokyahitakāmyayā_), Himavān righteously bestowed his daughter (_dadau dharmeṇa himavāṃs tanayām_)—Gaṅgā, purifier of the worlds, who courses along paths of her own free will (_lokapāvanīṃ svacchandapathagāṃ gaṅgām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.18–19 (svacchandapathagām & Purāṇic Synthesis)**
+
+Honouring the code of a supplicant’s request (_dharmeṇa_), Himavān bestows Gaṅgā, who moves at will along the cosmic wind-paths and cloud-currents of the sky (_svacchandapathagām_: _pravahādivāyumārgagamanaśīlām_, **Tilaka**; _meghajalavaddhārāgativiśeṣeṇākāśe ’pi gatiḥ_, **Govindarāja**). **Tilaka** cites the _Vāmanapurāṇa_, _Kāmikāgama_, and _Śaṅkarasaṃhitā_ to harmonize how Himavān’s maiden daughter became liquid water in the upper vault of the cosmic egg, washed Viṣṇu’s Trivikrama foot into Brahmā’s _kamaṇḍalu_, and was later released to Bhagīratha.
 </details>
 </details>
 
@@ -1030,6 +1116,14 @@ _________________
 
 “And that other daughter of the mountain who remained a maiden (_yā cānyā śailaduhitā kanyāsīt_), O delight of the Raghus, rich in asceticism, adopted a fierce and noble vow and practised severe penance (_ugraṃ suvratam āsthāya tapas tepe tapodhanā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.20 (Umā’s Fierce Penance)**
+
+Meanwhile, the younger maiden (_kanyā_: _avṛtapatikā_, **Tilaka**) Umā undertakes fierce austerity—renouncing even fallen leaves (_parṇabhojanasyāpi tyāgasaṃkalparūpam_, hence _Aparṇā_)—and meditates exclusively on Śiva (**Tilaka**, **Śiromaṇi**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1086,6 +1180,14 @@ Himavān bestows Umā upon the peerless Rudra; Viśvāmitra concludes his accoun
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The foremost of mountains bestowed that daughter Umā, endowed with fierce asceticism and venerated by all the worlds (_ugreṇa tapasā yuktāṃ dadau śailavaraḥ sutām umāṃ lokanamaskṛtām_), upon the peerless Rudra (_rudrāyāpratirūpāya_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.21–22 (Marriage of Umā to Rudra)**
+
+Bestowed by the lord of mountains upon the peerless Rudra (_rudrāyāpratirūpāya_—glossed by **Śiromaṇi** as matchless in form, _sādṛśyānuyogitvānākrāntāya_, and by **Govindarāja** as well-suited and pleased by her penance, _anukūlāya ... prasannāya_), Umā becomes the consort of Śiva. Thus both daughters of Himavān—Gaṅgā, foremost of rivers, and Goddess Umā—are venerated by all the worlds (_lokanamaskṛte_).
 </details>
 </details>
 
@@ -1232,6 +1334,20 @@ The three-way coursing of the river is firstly as Ganga in the lap of
 **23:** “All this has been recounted to you, O dear prince, foremost of those endowed with noble course (_etat te sarvam ākhyātaṃ tāta gatimatāṃ vara_)—how she who courses through the three paths first went to the firmament as her path (_yathā tripathagāminī khaṃ gatā prathamaṃ gatim_).
 
 **24:** “Thus that enchanting daughter of the lord of mountains, the river of the gods (_saiṣā suranadī ramyā śailendratanayā tadā_), ascended to the world of the gods as a sin-destroying stream of sanctifying waters (_suralokaṃ samārūḍhā vipāpā jalavāhinī_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35.23 (khaṃ gatā prathamaṃ tāta)**
+
+Having answered Rāma’s question regarding Gaṅgā’s birth, Viśvāmitra addresses the first stage of her three-pathed course (**Govindarāja**: _prathamapraśnottaram uktvā dvitīyapraśnottaraṃ tripathagāmitvam ucyate_): first (_prathamam_), she ascended to the sky (_kham_—her celestial path, _khātmikāṃ gatim_, **Govindarāja**; the resort of all moving beings, **Śiromaṇi**).
+
+_____________
+
+**35.24 (suralokaṃ samārūḍhā vipāpā jalavāhinī)**
+
+Flowing as a sacred stream (_jalavāhinī_), the enchanting daughter of the mountain-king ascended to the heaven of the gods (_suralokaṃ samārūḍhā_) as the sinless and sin-destroying celestial river (_vipāpā_: _sakalapāpahantrī_, **Tilaka**; _sakalalokapāpavigamakartrī_, **Śiromaṇi**).
 </details>
 </details>
 

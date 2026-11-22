@@ -70,6 +70,14 @@ Spreading sacred darbha grass along the seashore and folding his hands toward th
 
 Then, spreading sacred _darbha_ grass (_darbhān āstīrya_) along the shore of the sea (_sāgaravelāyām_), Rāghava, facing east (_prāṅmukhaḥ_), folded his hands in salutation (_añjaliṃ kṛtvā_) and lay down before the great Ocean—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.1–2 (Pathos of the Royal Supplicant)**
+
+**Govindarāja** (_Bhūṣaṇa_) admires the _karuṇa-rasa_ evoked by Vālmīki's epithets: how tragic that Rāghava, scion of the refuge-giving Ikṣvākus and slayer of foes (अरिसूदनः), now lies on rough sand and sharp-tipped _darbha_ grass (शिताग्रकुशान्) pillowed only on his own serpent-like arm (बाहुमुपधाय उपधानीकृत्य)! Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that verses 1–7/8 form a single continuous syntactic period (सप्तकमेकान्वयि) describing the royal arm Rāma places beneath his head.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -131,6 +139,14 @@ The slayer of foes (_arisūdanaḥ_), using as his pillow (_upadhāya_) his arm 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 [That arm] which had been caressed in many ways (_abhimṛṣṭam anekadhā_) by the arms of noble women (_paramanārīṇām_) adorned with gems, golden armlets, and choice pearls;
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.3–4 (The Debate on Paramanārīṇām and Ekapatnīvrata)**
+
+How could Rāma's arm be touched by the arms of `supreme women' (भुजैः परमनारीणाम्) when Rāma is famously wedded to Sītā alone (_ekadāra-vrata_)? All three commentators address this crux: **Tilaka** and **Govindarāja** explain that `noble women' refers to royal ladies and female attendants (सैरन्ध्रिकाणाम्) anointing Rāma during wedding and palace baths (स्नपनालंकरणादिकाले). **Govindarāja** also records—and refutes at length through _śruti_, _smṛti_, and the golden-image _yajña_ of _Uttarakāṇḍa_—the view that Rāma had other wives, adding that esoterically परमनार्यः refers to Viṣṇu's consorts Śrī, Bhūmi, and Nīlā. In verse 4, all three gloss the second चन्दनैः (`bright as the rising sun') as red sandalwood or saffron (रक्तचन्दनपरः / कुङ्कुमैः).
 </details>
 </details>
 
@@ -229,6 +245,14 @@ resembled the body of Takshaka. (A snake) supported on the water of the Ganga.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Which in former days upon his couch had been graced by the head (_uttamāṅgena_) of Sītā, like the body (_sambhogam_) of [the serpent-king] Takṣaka frequented by the waters of the Gaṅgā (_gaṅgājalaniṣevitam_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.5–6 (Sītā's Head and the Serpent Takṣaka)**
+
+On the simile in verse 5, **Tilaka** and **Śiromaṇi** explain that Rāma's dark, rounded arm resting with fair Sītā's head (सीताया उत्तमाङ्गेन शिरसा) resembles the dark body (संभोगं शरीरम्) of the serpent-king Takṣaka laved by the white waters of the Gaṅgā (गङ्गाजलनिषेवितम्). In verse 6, the commentators gloss युगसंकाशम् as `like a massive city-gate bolt' (गोपुरार्गलवत्) and सागरान्तव्यपाश्रयम् as `the support of the entire ocean-girt earth' (सागरान्तो भूमण्डलं तस्य व्यपाश्रयम्).
 </details>
 </details>
 
@@ -377,6 +401,20 @@ restraining his speech and with a pious disposition according to tradition.
 
 **9:** Having formed this resolve (_dhṛtiṃ kṛtvā_), mighty-armed Rāma lay down beside the great Ocean according to sacred rule (_vidhivat_), self-controlled (_prayataḥ_), restrained, and silent as an ascetic (_muniḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.7–8 (The Right Arm and the Vow of Prāyopaveśa)**
+
+$19
+
+_____________
+
+**21.9–10 (The Threefold Ascetic Discipline)**
+
+**Govindarāja** distinguishes the three epithets in verse 9b as the threefold ascetic restraint of body, speech, and mind: प्रयतः is bodily discipline (कायिकनियमयुक्तः), नियतः is verbal restraint (वाचिकनियमवान्), and मुनिः is mental contemplation and silence (मानसनियमोपेतः / मौनी). **Śiromaṇi** notes that अधिशिश्ये governs the accusative महोदधिम् by Pāṇini's rule (अधिशीङ्स्थासां कर्म). On अभिजग्मतुः in verse 10, **Tilaka** glosses the _ārṣa_ dual as plural अभिजग्मुः (where **Bhūṣaṇa** and **Śiromaṇi** read अतिचक्रमुः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,6 +535,14 @@ did not appear in his personal form to Rama.
 
 **12:** Yet the dull-witted (_mandaḥ_) Ocean did not show his form (_na ca darśayate rūpam_) to Rāma, even though duly worshiped (_yathārham abhipūjitaḥ_) by the self-controlled Rāma.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.11–12 (Why Rāma's Supplication Went Unanswered)**
+
+Why did the Ocean, labeled dull-witted or sluggish (मन्दः मन्दबुद्धिः / अलसः), fail to appear despite Rāma's three-night fast? **Śiromaṇi** suggests that the Ocean longed to witness Rāma's martial majesty (तस्य रामप्रभावदर्शनाकाङ्क्षित्वं व्यक्तम्), whereas **Govindarāja** offers a striking theological insight: _śaraṇāgati_ belongs only to the helpless (_akiñcana_); performed by the omnipotent Lord himself, it is like a _brāhmaṇa_ performing the royal _rājasūya_ sacrifice—invalidated by lack of qualification (अनाधिकारिणा कृतत्वाद्व्राह्मणकृतराजसूयवत्)!
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -576,6 +622,14 @@ turned eastward, lied down with his arm, resembling the body of a snake , as his
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Rāma, enraged at the Ocean (_samudrasya_), with the corners of his eyes reddened (_raktāntalocanaḥ_), spoke these words to Lakṣmaṇa of auspicious marks (_śubhalakṣaṇam_), who stood nearby:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.13–14 (Rāma's Controlled Wrath and the Ocean's Pride)**
+
+$1b
 </details>
 </details>
 
@@ -688,6 +742,14 @@ about in all directions advertising himself and commits every kind of excess"
 
 “These virtues of the good (_satāṃ guṇāḥ_) yield only the fruit of [perceived] impotence (_asāmarthyaphalāḥ_) among the meritless (_nirguṇeṣu_)! A man who boasts of himself (_ātmapraśaṃsinam_), wicked, insolent (_dhṛṣṭam_), running about everywhere—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.15–16 (Why Virtues Fail Among the Base)**
+
+$1d
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -791,6 +853,14 @@ crocodiles floated on all sides and broken asunder by my arrows".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Or victory in the forefront of battle (_raṇamūrdhani_) be won in this world, O Lakṣmaṇa! Today, with _makaras_ torn apart by my arrows (_madbāṇanirbhagnaiḥ_), [behold] the abode of _makaras_—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.17–18 (Choking the Sea with Cloven Monsters)**
+
+Connecting verses 17b–19a syntactically, all three commentators explain that Rāma vows to choke and cover the ocean's waters (निरुद्धतोयम् प्रच्छादिततोयम्) with floating _makaras_ torn apart by his arrows (मद्बाणनिर्भग्नैः प्लवद्भिः मकरैः) and with the cloven bodies (भोगानि शरीराणि, citing _Amarakośa_: भोगः सुखे स्त्र्यादिभृतावहेश्च फणकाययोः) of great sea-serpents (भोगिनां नागानाम्).
 </details>
 </details>
 
@@ -904,6 +974,14 @@ crocodiles, dry up now in this great battle"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And [behold] here the huge bodies (_mahābhogāni_) of fishes and the trunks of sea-elephants (_kariṇāṃ ca karān_)! Today, along with its masses of conchs and pearl-oysters (_saśaṅkhaśuktikājālam_) and its fishes and _makaras_—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.19–21 (Fie Upon Forbearance Toward the Ignoble)**
+
+Continuing from verse 18, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) supply भिन्नानि पश्य (`behold cloven') for the huge bodies of fishes (महाभोगानि मत्स्यानाम्—noting the _ārṣa_ neuter plural of _bhoga_) and the trunks of elephant-shaped sea-monsters (करिणां मत्स्यानां करान् शुण्डादण्डान्, citing _Halāyudha_). On धिक् क्षमामीदृशे जने, **Govindarāja** explains why an Ikṣvāku prince ever renounces patience: forbearance has its proper season (विनियोगकाले हि क्षमा स्वीकार्या), and toward a base creature corrupted by evil neighbors like the _rākṣasas_ (ईदृशे जने पापरक्षःसहवासदोषे), righteous wrath (क्रोध एवाङ्गीकर्तव्यः) is required.
 </details>
 </details>
 
@@ -1021,6 +1099,14 @@ feet."
 
 **22:** “Bring my bow (_cāpam ānaya_), O Saumitri, and arrows resembling venomous serpents (_āśīviṣopamān_)! I shall dry up the ocean (_samudraṃ śoṣayiṣyāmi_); let the monkeys cross over on foot (_padbhyāṃ yāntu plavaṃgamāḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.22 (The Command to Fetch Bow and Serpent-Arrows)**
+
+Unpacking the dramatic nuances of चापमानय सौमित्रे शरांश्चाशीविषोपमान्, **Govindarāja** observes that Rāma first threatens verbally and then calls for his bow in stages to give the Ocean time to repent (विलम्ब्य करणं क्रमेण निर्भर्त्स्य कार्यं कारयितुम्). Why do Rāma's arrows dry up water? Because fiery _astras_ possess scorching power (रामशराणां दाहकत्वसंभवात्), and why plural `arrows' (शरान्) when a single shaft suffices? Because Rāma is ready to dry up all seven oceans at once (सप्तसागरानपि शोषयितुमिच्छया)! On the dual पद्भ्यां यान्तु प्लवंगमाः, **Govindarāja** charmingly notes that monkeys walk on two hind feet while using their two forelimbs as hands (वानराणां हि द्वावेव पादौ द्वौ हस्तौ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1086,6 +1172,14 @@ by my arrows. I will agitate the great ocean, thronged with great demons."
 
 **24:** “I shall make the abode of Varuṇa transgress its bounds (_nirmaryādaṃ kariṣyāmi_) with my shafts; I shall agitate the great deep teeming with mighty _dānavas_ (_mahādānavasaṃkulam_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.23–24 (Shattering the Ocean's Ancient Bounds)**
+
+**Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain that the Ocean, which by cosmic law never oversteps its shores (वेलासु तीरेषु कृतमर्यादम् अनतिवर्तमानम्), will now be made निर्मर्यादम्—forced by Rāma's arrows to flood over the dry land (भूतले प्लावयिष्यामीत्यर्थः), while the subterranean _dānavas_ long sheltered in its depths (महार्णवं महादानवसंकुलम्) are violently churned up.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1145,6 +1239,14 @@ with his hand, became dreadful to look at, as a blazing fire at the end of the w
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, bow in hand (_dhanuṣpāṇiḥ_), his eyes wide with wrath (_krodhavisphāritekṣaṇaḥ_), Rāma became unassailable (_durdharṣaḥ_), blazing like the fire at the end of a _yuga_ (_yugāntāgnir iva jvalan_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.25–27 (Rāma Blazing Like Doomsday Fire)**
+
+$20
 </details>
 </details>
 
@@ -1319,6 +1421,14 @@ maids).
 
 That mighty surge of the Ocean&#x27;s waters (_toyavegaḥ_), with its fishes and _makaras_, became exceedingly dreadful (_mahāghoraḥ_) and roared with the sound of tempest winds (_samārutaravaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.28–29 (Tempest Roars and Smoking Billows)**
+
+Glossing तोयवेगः as the violent agitation and spreading of waves (संक्षोभः / तरङ्गविततिः), **Tilaka** and **Śiromaṇi** explain समारुतरवः as accompanied by the roar of hurricane winds unleashed by the velocity of Rāma's shafts (बाणवेगहेतुकप्रचण्डमारुतजनितरवविशिष्टः). In verse 29, **Govindarāja** contrasts the outer shore and the deep: along the shore the sea is overspread with garlands of giant waves (तीरे महोर्मिमालाविततः), while in the depths the entry of fiery arrows sends up clouds of steam and smoke (प्रज्वलच्छरप्रवेशेन सधूमः) and boils the water into whirling eddies (जलमध्ये शराग्निशोषणेन परिवृत्तोर्मिरासीत्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1426,6 +1536,14 @@ residing in nethermost subterranean region of the sea, were perturbed.
 
 The serpents (_pannagāḥ_), with blazing mouths and blazing eyes (_dīptāsyā dīptalocanāḥ_), were anguished (_vyathitāḥ_), and so too the mighty _dānavas_ who dwell in the depths of Pātāla.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.30 (Anguish in the Subterranean Depths)**
+
+**Govindarāja** notes that Rāma's shafts penetrate all the way to the abyssal floor (अधस्तादपि शराः प्रविष्टा इति भावः), scorching the subterranean _nāgas_—whose mouths and eyes blaze with venom (दीप्तास्या दीप्तलोचनाः)—and tormenting the mighty _dānavas_ dwelling in Pātāla (पातालतलवासिनः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1485,6 +1603,14 @@ from the sea with its crocodiles and sea monsters.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The waves (_ūrmayaḥ_) of the king of rivers, along with crocodiles and _makaras_ (_sanakramakarāḥ_), leaped up (_samutpetuḥ_) by the thousands, resembling Mount Vindhya and Mount Mandara (_vindhyamandarasaṃkāśāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.31–32 (Waves Like Vindhya and Mandara)**
+
+Describing the terrifying height of the tsunami-like billows (तात्कालिकतरङ्गौन्नत्यं वर्णयति), **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) note that thousands of waves carrying crocodiles and _makaras_ (सनक्रमकराः) leap skyward like Mount Vindhya and Mount Mandara. In verse 32, **Govindarāja** observes that the three participial qualifiers—whirling waves (आघूर्णिततरङ्गौघः), bewildered serpents and _rākṣasas_ (सम्भ्रान्तोरगराक्षसः), and upturned giant sharks (उद्वर्तितमहाग्राहः)—reinforce one another in depicting the Ocean's total convulsion (आघूर्णितसंभ्रान्तोद्वर्तितपदान्येकार्थानि).
 </details>
 </details>
 
@@ -1598,6 +1724,14 @@ bow.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, as that Rāghava of fierce impetuosity (_ugravegam_), breathing heavily (_viniḥśvasantam_), was drawing his immeasurable bow, Saumitri [Lakṣmaṇa] sprang forward (_utpatya_), crying “No! No!” (_mā meti_), and laid hold of his bow (_dhanur ālalabe_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.33–34 (Lakṣmaṇa Grasps Rāma's Bow)**
+
+As Rāma, hissing with wrath (विनिःश्वसन्तम् / समुच्छ्वसन्तम् कोपेनेति शेषः), draws his bow to fit an unerring shaft of destruction (अमोघशरसन्धानायेति भावः), Lakṣmaṇa leaps forward crying मा मा (`No! No!'—reduplicated in extreme alarm, भयातिशयाद्वीप्सा) and grasps the bow (धनुराललम्बे). In verse 34, **Rāma Varmā** (_Tilaka_) and **Śiromaṇi** explain Lakṣmaṇa's plea: even without destroying the sea (एतद्विनाशनं विनापि), Rāma's crossing will succeed; great souls never yield to anger (भवद्विधाः क्रोधवशं न यान्ति), so Rāma should look to a far-sighted, righteous expedient (दीर्घं सार्वकालिकं साधुवृत्तं समीचीनोपायमेव पश्यतु).
 </details>
 </details>
 
@@ -1726,5 +1860,13 @@ loud voices, saying "No farther, no farther" and making a noise "Ah,Oh,Alas!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And in the sky, invisible (_antarhitaiḥ_) _brahmarṣis_ and _devarṣis_ (_surarṣibhiś ca_) raised a loud cry (_śabdaḥ kṛtaḥ_), exclaiming “Alas!” (_kaṣṭam iti_) and crying “No! No!” (_mā meti_) in a mighty voice.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.35 (The Cry of the Invisible Sages)**
+
+Simultaneously, invisible _brahmarṣis_ and _devarṣis_ stationed in mid-air (अन्तरिक्षे अन्तर्हितैः तिरोहिततया संस्थितैः) raise an anguished cry of `Alas!' (कष्टमिति हाहाशब्दः कृतः) and `Do not! Do not!' (मा मेति). **Śiromaṇi** ingeniously notes an alternative parsing of मामेति: read as a single word (मां माम्), the sages cry `Spare me! Spare me!'—identifying the cosmic welfare with their own lives!
 </details>
 </details>

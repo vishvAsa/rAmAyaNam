@@ -76,6 +76,14 @@ relatives then said this to his minister Sumantra. [1-69-1]
 
 Then, when the night had passed (_tato rātryāṃ vyatītāyām_), King Daśaratha, filled with joy (_rājā daśaratho hṛṣṭaḥ_), accompanied by his preceptors and kinsmen (_sopādhyāyaḥ sabāndhavaḥ_), spoke these words to Sumantra (_sumantram idam abravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.1–2 (dhanādhyakṣāḥ & suvihitāḥ)**
+
+At daybreak, Daśaratha orders his treasury superintendents (_dhanādhyakṣāḥ = kośarakṣādhikāriṇaḥ_, **Rāma Varmā [_Tilaka_]**, **Govindarāja**) to march ahead bearing abundant, choice wealth (_puṣkalam_, glossed via _Amarakośa_ as both _bahu_ and _śreṣṭham_). **Tilaka** and **Govindarāja** gloss _suvihitāḥ_ either as well-guarded by cavalry escorts (_aśvavārādibhiḥ surakṣitāḥ_, **Śiromaṇi**) or as having duly prepared everything required for the auspicious wedding rites (_susaṃpāditakalyāṇocitakarmāṇaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -193,6 +201,14 @@ gold and gems in bright array
 
 “Let the fourfold army also sally forth swiftly in full force (_caturaṅgabalaṃ cāpi śīghraṃ niryātu sarvaśaḥ_), and simultaneously with my command (_mamājñāsamakālaṃ ca_), let the finest palanquins, chariots, and mounts go forth (_yānaṃ yugyam anuttamam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.3 (yānaṃ yugyam anuttamam)**
+
+Alongside the fourfold army (chariots, elephants, cavalry, and infantry), Daśaratha orders out the finest conveyances (_yānam_ = palanquins and litters, _śibikāndolikādi_) and draft mounts (_yugyam_ = horses and chariots) specifically for Sage Vasiṣṭha and the accompanying Brāhmaṇas (_vasiṣṭhādyartham iti śeṣaḥ_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -265,6 +281,14 @@ for the travel without time lapse..." Thus Dasharatha ordered. [1-69-4, 5]
 
 **5:** “let these twice-born sages proceed in front (_ete dvijāḥ prayāntv agre_). Yoke my chariot (_syandanaṃ yojayasva me_) so that there may be no delay of the appointed hour (_yathā kālātyayo na syāt_), for the envoys urge me to hasten (_dūtā hi tvarayanti mām_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.4–5 (Six Royal Sages in the Vanguard)**
+
+Six illustrious sages lead the procession: Vasiṣṭha, Vāmadeva, Jābāli, Kaśyapa, the long-lived Mārkaṇḍeya, and Kātyāyana. **Tilaka** notes that placing Brāhmaṇas at the head of a royal march ensures auspiciousness on the journey (_agre dvijaprayāṇaṃ prayāṇe kalyāṇāya_), while Sumantra yokes the royal chariot so Daśaratha may follow directly behind them (_pṛṣṭhata uktayānair anuyāyām iti śeṣaḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -325,6 +349,14 @@ are going afore of him. [1-69-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 At the command of the lord of men (_vacanāc ca narendrasya_), the fourfold army (_senā ca caturaṅgiṇī_) followed behind (_pṛṣṭhato ’nvayāt_) the king as he journeyed together with the sages (_rājānam ṛṣibhiḥ sārdhaṃ vrajantam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.6–7 (Why Envoys Took Three Days & Daśaratha Four)**
+
+How did Janaka’s envoys cover the road in three nights (1.68.1), whereas Daśaratha took four days (_caturahaṃ mārgam_)? **Tilaka** resolves the apparent discrepancy with practical realism: though the distance was a three-day ride for light couriers, marching with a massive fourfold army required four days (_dūtānāṃ tridinagamyo ’pi mārgaś caturaṅgabalopetaprayāṇatvena caturdinaṃ vyāpya gamyaḥ_).
 </details>
 </details>
 
@@ -445,6 +477,14 @@ of Dasharatha. [1-69-8]
 
 Then, approaching the aged King Daśaratha (_tato rājānam āsādya vṛddhaṃ daśarathaṃ nṛpam_), the delighted King Janaka experienced supreme rapture (_mudito janako rājā praharṣaṃ paramaṃ yayau_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.8–9 (mudito ... praharṣaṃ paramaṃ yayau)**
+
+Why does the poet say that Janaka, already delighted (_muditaḥ_), attained supreme joy (_praharṣam yayau_)? **Tilaka**, **Śiromaṇi**, and **Govindarāja** explain the two distinct stages of joy: Janaka was first _muditaḥ_ upon hearing of Daśaratha’s arrival (_āgamanaśrutijanitaharṣaviśiṣṭaḥ_, **Śiromaṇi**), and then attained _praharṣaḥ_ upon beholding him face to face and realizing the wedding was imminent (_vivāhaḥ śīghrabhāvīti harṣaṃ yayau_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -563,6 +603,14 @@ with all gods... [1-69-10b, 11a]
 
 “You shall now experience the joy of both your sons, won by their valor (_putrayor ubhayoḥ prītiṃ lapsyase vīryanirjitām_)! By good fortune has the venerable sage Vasiṣṭha of mighty splendor arrived (_diṣṭyā prāpto mahātejā vasiṣṭho bhagavān ṛṣiḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.10 (vīryanirjitām)**
+
+**Tilaka** glosses _vīryam_ as heroic valor (_śauryam_), while **Govindarāja** explains _vīryanirjitām_ (modifying _prītim_) as the joy brought about by his two sons’ valorous feat of breaking Śiva’s bow (_dhanurbhaṅgādinā_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -625,6 +673,14 @@ noble-souled Raghava-s, who are the most valorous among all the valorous people.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “together with all the foremost of the twice-born, like Śatakratu (Indra) accompanied by the gods (_saha sarvair dvijaśreṣṭhair devair iva śatakratuḥ_)! By good fortune have my obstacles been vanquished (_diṣṭyā me nirjitā vighnāḥ_); by good fortune has my lineage been honored (_diṣṭyā me pūjitaṃ kulam_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.11–12 (devair iva śatakratuḥ & nirjitā vighnāḥ)**
+
+Both **Tilaka** and **Govindarāja** note that Vasiṣṭha is compared to Indra (_śatakratuḥ_) because of his perfection in Vedic ritual (_pūrṇadharmatvena_). The “obstacles” (_vighnāḥ_) now vanquished are the impediments to Sītā’s bestowal—specifically, as **Śiromaṇi** explains, the hostile suitors who had besieged Mithilā (_kanyāvivāhapratibandhakībhūtaduṣṭanṛpāḥ_).
 </details>
 </details>
 
@@ -734,6 +790,14 @@ the king Janaka from amongst the sages. [1-69-13b, 14a]
 
 “at the conclusion of the sacrifice, O best of men, the marriage rite with the foremost of sages (_yajñasyānte naraśreṣṭha vivāham ṛṣisattamaiḥ_)!” Hearing those words of his in the midst of the sages, the lord of men (_tasya tad vacanaṃ śrutvā ṛṣimadhye narādhipaḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.13 (śvaḥ prabhāte ... yajñasyānte)**
+
+**Tilaka** glosses _yajñasyānte_ simply as “at the conclusion of the sacrifice” (_avasāne_), whereas **Govindarāja**—harmonizing this with the subsequent narrative in Sargas 70–71 where Kuśadhvaja is summoned from Sāṅkāśyā—notes that “tomorrow at dawn” initiates the preliminary rites leading to the wedding at the sacrifice’s close three or four days later (_tricaturadinānantarabhāvinīti śeṣaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -787,6 +851,14 @@ giver's bounty...' for this expression.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 foremost of those skilled in speech, spoke in reply to the lord of the earth (_vākyaṃ vākyavidāṃ śreṣṭhaḥ pratyuvāca mahīpatim_): “‘The acceptance of a gift is subject to the giver’s will (_pratigraho dātṛvaśaḥ_)’—this maxim I have heard of old (_śrutam etan mayā purā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.14–15 (pratigraho dātṛvaśaḥ)**
+
+Why does Emperor Daśaratha add “I have heard this of old” (_śrutam etan mayā purā_)? **Tilaka** offers a brilliant _dhvani_ insight: as a Kṣatriya monarch who only bestows gifts and never accepts them (_kṣatriyatayā pratigrahadharmasyādyāpy ajñānam eva_), Daśaratha has only heard of the law of _pratigraha_ (receiving a gift) by report, and is experiencing it for the first time today in receiving a bride (_kanyāgavādīnām_) for his son!
 </details>
 </details>
 
@@ -909,6 +981,14 @@ all the sages have attained extreme joy and they spent that night happily. [1-69
 
 the lord of the Videhas was filled with supreme wonder (_śrutvā videhādhipatiḥ paraṃ vismayam āgataḥ_). Thereafter, all the hosts of sages, rejoicing in their mutual reunion (_tataḥ sarve munigaṇāḥ parasparasamāgame_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.16 (paraṃ vismayam āgataḥ)**
+
+Why was Janaka struck with wonder at Daśaratha’s brief reply? **Tilaka**, **Govindarāja**, and **Śiromaṇi** explain that although Rāma had already won Sītā by right of valor as her bride-price and needed no further indulgence from the bride’s father (_madanumatyanapekṣāyām_, **Tilaka**), Emperor Daśaratha—despite his supreme majesty—spoke with extraordinary humility, placing himself entirely at Janaka’s disposal (_ativinayoktyā_, **Śiromaṇi**; _vinayokteḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -957,6 +1037,14 @@ with Lakshmana, strutted to touch the feet of his father Dasharatha. [1-69-17]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 passed that night happily, filled with great joy (_harṣeṇa mahatā yuktās tāṃ rātrim avasan sukham_). Then Rāma of mighty splendor came together with Lakṣmaṇa (_atha rāmo mahātejā lakṣmaṇena samaṃ yayau_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.17–18 (pituḥ pādāv upaspṛśan & niśāmya)**
+
+In the Southern Recension couplet (17cd–18ab), Rāma and Lakṣmaṇa arrive led by Viśvāmitra to touch Daśaratha’s feet (**Śiromaṇi** construes _upaspṛśan_ as a purposive participle under Pāṇini 3.2.126). **Govindarāja** notes that _niśāmya_ (“beholding”) retains its long radical vowel because _śam_ is shortened only when it does not mean “to see” (_śamo ’darśane_).
 </details>
 </details>
 
@@ -1086,6 +1174,14 @@ life of the newly wed.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and dwelt there supremely pleased, honored by Janaka (_uvāsa paramaprīto janakenābhipūjitaḥ_). Janaka too, of mighty splendor, knower of truth, having duly performed according to _dharma_ the rites of the sacrifice and the preliminary nuptial ceremonies for his two daughters, passed the night (_janako ’pi mahātejāḥ kriyā dharmeṇa tattvavit / yajñasya ca sutābhyāṃ ca kṛtvā rātrim uvāsa ha_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**69.19 (yajñasya ca sutābhyāṃ ca)**
+
+Both **Tilaka** and **Govindarāja** explain that that night Janaka completed the remaining rites of his sacrifice (_yajñasyāvaśiṣṭakriyām_) as well as the auspicious pre-wedding ceremonies such as _aṅkurāropaṇa_ (sowing the ritual shoots) for both his daughters, Sītā and Urmilā (_sutābhyāṃ duhitṛbhyāṃ kanyādāneṣṭayā yat kartavyam aṅkurāropaṇādi_).
 </details>
 </details>
 

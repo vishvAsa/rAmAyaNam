@@ -90,6 +90,14 @@ succeeding year to the one referred in last chapter.
 
 When the spring season arrived once again (_punaḥ prāpte vasante tu_), a full year had been completed (_pūrṇaḥ saṃvatsaro ’bhavat_); and the valiant monarch went forth (to Vasiṣṭha) in order to sacrifice with the _Hayamedha_ for the sake of progeny (_prasavārtham_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.1 (punaḥ prāpte vasante... pūrṇaḥ saṃvatsaro ’bhavat)**
+
+All three commentators cite the Śrauta aphorism _saṃvatsarānte dīkṣeta_ (“at the close of the year after loosing the horse, the sacrificer undergoes _dīkṣā_”): when the second spring arrived and the year of daily _Sāvitra_ offerings was completed on the final new-moon day (_prathamasaṃvatsarāntimāmāvāsyāyām_, **Govindarāja**, citing Bhaṭṭa Bhāskara), Daśaratha approached Vasiṣṭha to inaugurate the main _Aśvamedha_ rites.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +148,14 @@ words to him. [1-13-2]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having reverently saluted Vasiṣṭha (_abhivādya vasiṣṭhaṃ ca_) and honored him in accordance with rule, he spoke these humble words (_praśritaṃ vākyam_) to that foremost of the twice-born for the sake of obtaining offspring:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.2–4 (Why Vasiṣṭha as Adhvaryu Bears the Entire Burden)**
+
+**Govindarāja** explains why Daśaratha places the entire operational burden of the sacrifice upon Vasiṣṭha (_voḍhavyo bhavatā caiva bhāro yajñasya_): citing Bhaṭṭa Bhāskara (_snāto ’nataḥ paścād adhvaryoḥ parivīyate, rājyāya sa ca rājā syād yāvat saṃtiṣṭhate kratuḥ_), once the preliminary _brahmaudana_ rite is performed, the royal sacrificer’s independent secular agency is restricted until the completion of the sacrifice, so the _Adhvaryu_ (Vasiṣṭha) must direct all sacrificial arrangements on his behalf!
 </details>
 </details>
 
@@ -366,6 +382,20 @@ _________________
 
 **8:** And pure, deeply learned men well-versed in the ritual manuals (_śucīñ śāstravidaḥ puruṣān subahuśrutān_): “By the King’s command, do you all earnestly set about the work of the sacrifice (_yajñakarma samīhantām_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.6 (sthāpatye niṣṭhitān)**
+
+**Tilaka** glosses _sthāpatye_ as the architectural craft of the master builder or _rathakāra_ (_sthapate rathakārasya karma_), while **Govindarāja** explains it as the office of supervising the procurement and construction of all sacrificial structures.
+
+_____________
+
+**13.7 (Precise Technical Distinctions Among the Seven Guilds)**
+
+$18
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -444,6 +474,14 @@ the many tradesmen are listed in a bird's eye view as above.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let bricks by the many thousands (_iṣṭakā bahusāhasrī_) be swiftly brought hither, and let royal pavilions (_upakāryāḥ_) endowed with every excellence be erected for the King (and visiting monarchs)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.9–10 (iṣṭakā bahusāhasrī, upakāryāḥ & suniṣṭhitāḥ)**
+
+On _iṣṭakā bahusāhasrī_, all three commentators note the collective generic singular (_jātyekavacanam_) referring to the thousands of bricks required for piling the bird-shaped _Aśvamedha_ fire-altar (_agnicayana_). Citing _Amarakośa_ (_rājasadanam upakāryopakārikā_), **Śiromaṇi** and **Govindarāja** explain _upakāryāḥ / aupakāryāḥ_ as royal pavilions, while **Tilaka**, **Śiromaṇi**, and **Govindarāja** gloss _suniṣṭhitāḥ_ as structures built solidly enough to withstand heavy wind and rain (_mahāvarṣavātādinivāraṇakṣamāḥ_).
 </details>
 </details>
 
@@ -589,6 +627,14 @@ along with their soldiers. [1-13-12]
 
 “And stables for steeds and elephants (_vājivāraṇaśālāś ca_), as well as sleeping pavilions (_śayyāgṛhāṇi ca_), and spacious encampments for the soldiers and guests dwelling in foreign lands (_vaideśikanivāsinām_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.12 (mahadāvāsāḥ)**
+
+On the compound _mahadāvāsāḥ_ in v. 12c, **Tilaka** notes the _ārṣa_ absence of the substitution _mahā-_ (Pāṇini 6.3.46, _mahatāvasā ity atrātvābhāva ārṣaḥ_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -645,6 +691,14 @@ and for others coming from distant countries, and a very grand food be given in 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Residences stocked with abundant edibles and furnished with every desired comfort (_sarvakāmair upasthitāḥ_), as well as plentiful and splendid provisions for the townsfolk and country-dwellers (_paurajanasyāpi janasya bahuśobhanam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.13–14 (satkṛtya na tu līlayā — The Ethics of Sacrificial Annadāna)**
+
+**Rāmavarman (_Tilaka_)** and **Govindarāja** highlight the spiritual principle behind Vasiṣṭha’s instruction _dātavyam annaṃ vidhivat satkṛtya na tu līlayā_: food at a Vedic sacrifice must be served with garland, sandal-paste, and reverent consciousness of transcendent merit (_paralokaprayojanabuddhyā śāstroktasatkārapūrvakam_), and never _līlayā_—as a mere secular festivity or with casual indifference (_utsavamātrabuddhyā anādareṇa_).
 </details>
 </details>
 
@@ -731,6 +785,14 @@ disrespect be shown, even when overcome by passion or anger at anyone. [1-13-14,
 
 “Nor must disrespect ever be shown to anyone, even under the sway of passion or anger (_kāmakrodhavaśād api_)! And those men and artisans who are intently engaged in the works of the sacrifice (_yajñakarmasu ye vyagrāḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.15–16 (kāmakrodhavaśād api & Honoring the Artisans with vasubhir bhojanena ca)**
+
+Why does Vasiṣṭha add _api_ after _kāmakrodhavaśāt_ (“not even out of desire/favoritism or anger”)? **Śiromaṇi** and **Govindarāja** note that _api_ forbids disrespect even in jest (_vilāsāt / līlā_). Furthermore, in vv. 15cd–16, Vasiṣṭha insists that the laborers and artisans (_śilpinaḥ_) toiling on the sacrifice must be specially honored according to seniority (_yathākramaṃ jyeṣṭhānukrameṇa_, **Tilaka**) with both generous wages (_vasubhir dhanaiḥ_) and food, because only when the workers are well-honored does every ritual task succeed without omission.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -801,6 +863,14 @@ in all your cooperation and good spirit." Thus Sage Vashishta spoke to the organ
 **16:** “To them also special honor and hospitality must be rendered in due order (_viśeṣeṇa pūjā kāryā yathākramam_), so that they may all be well-honored and contented with gifts of wealth and food (_vasubhir bhojanena ca_).
 
 **17:** “Do you all act with an affectionate and joyful heart (_prītiyuktena cetasā_) in such a way that everything is thoroughly provided for (_suvihitam_) and nothing whatsoever is left defective or neglected (_na kiṃcit parihīyate_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.17–18 (prītiyuktena / prītisnigdhena cetasā)**
+
+Both **Śiromaṇi** and **Govindarāja** gloss _prītisnigdhena_ as “a heart moistened with affectionate devotion” (_snehārdreṇa cetasā_), while **Śiromaṇi** records _prītiyuktena_ as Bhaṭṭa’s reading.
 </details>
 </details>
 
@@ -927,6 +997,14 @@ said Vashishta to Sumantra. [1-13-19b, 20, 21a]
 
 **20:** “Invite the monarchs across the earth who are devoted to _dharma_ (_pṛthivyāṃ ye ca dhārmikāḥ_), as well as Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras by the thousands (_sahasraśaḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.20–21 (brāhmaṇān kṣatriyān vaiśyāñ śūdrāṃś caiva & mānavān)**
+
+Notice the universality of the _Aśvamedha_ invitation: Vasiṣṭha instructs Sumantra to bring thousands of guests from all four _varṇas_ across every realm, and **Tilaka** and **Śiromaṇi** note that _mānavān_ in v. 21b further includes those of mixed classes beyond the four _varṇas_ (_cāturvarṇyātiriktāḥ saṅkarādayaḥ_) so that no human being is excluded from the royal hospitality.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -985,6 +1063,14 @@ hence I am telling you in the first instance. [1-13-21b,22]
 **21:** “Having duly honored them, bring hither men from all lands! And as for the heroic lord of Mithilā, King Janaka of truthful speech (_janakaṃ satyavādinam_)—
 
 **22:** “Go yourself in person (_svayam eva_) and bring that supremely fortunate monarch with all due honor (_susatkṛtam_); knowing him to be an ancient (and future) kinsman (_pūrvaṃ sambandhinaṃ jñātvā_), I name him to you first of all (_tataḥ pūrvaṃ bravīmi te_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.21–22 (pūrvaṃ sambandhinaṃ jñātvā — Why Janaka of Mithilā Is Named First)**
+
+Why does Vasiṣṭha command Sumantra to travel in person (_svayam eva_, not by courier) to bring King Janaka of Mithilā first among all monarchs? **Govindarāja** explains _pūrvasambandhinam_ as “an ancient hereditary ally of the Ikṣvākus” (_cirantanasuhṛdam_), whereas **Rāmavarman (_Tilaka_)** and **Śiromaṇi** offer a luminous prophetic interpretation: through his yogic omniscience (_yogabalena jñātvā_), Vasiṣṭha already foresees that Janaka is destined to become Daśaratha’s _sambandhin_ (father-in-law of Śrī Rāma) when Sītā weds Rāma, and therefore accords him first place (_bhāvisambandhitvahetoḥ sarvebhyaḥ pūrvaṃ tadānayanaṃ bravīmi_)!
 </details>
 </details>
 
@@ -1085,6 +1171,14 @@ Dasharatha, you personally invite him along with his sons. [1-13-24]
 
 “And likewise the aged and supremely righteous King of Kekaya (_kekayarājānaṃ vṛddham_), father-in-law of this lion among kings—bring him hither together with his son (Yudhājit)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.24 (kekayarājānam — Pāṇinian Note on the Absence of ṭac)**
+
+All three commentators (**Tilaka**, **Śiromaṇi**, and **Govindarāja**) point out why the compound _kekayarājānam_ retains its stem _-rājan_ instead of taking the _samāsānta_ suffix _ṭac_ (_-rāja_) prescribed by Pāṇini 5.4.91: because rules governing _samāsānta_ suffixes are non-mandatory in epic usage (_samāsāntavidher anityatvān na ṭac_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1144,6 +1238,14 @@ invited well honoured, for he is the friend of our lion-king Dasharatha. [1-13-2
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And the mighty archer Romapāda, lord of Aṅga and dear friend of this lion among kings—bring him hither together with his son, duly honored!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.25–27 (Distinguishing Personal Escort from Invitation by Royal Courier)**
+
+Notice how Vasiṣṭha distinguishes two tiers of diplomatic protocol across vv. 21–29: for Daśaratha’s closest peers and kinsmen—Janaka of Mithilā, the King of Kāśī, the King of Kekaya, Romapāda of Aṅga, Bhānumān of Kosala, and the King of Magadha—Sumantra himself goes in person (_svayam eva_, cf. v. 31), whereas for the wider circle of monarchs across the four quarters (vv. 27ef–29), he dispatches noble royal envoys bearing Daśaratha’s edict (_dūtamukhena_, **Tilaka** and **Govindarāja**).
 </details>
 </details>
 
@@ -1239,6 +1341,14 @@ the kings of Sindhu, Sauviira and Sauraastra kingdoms may also be invited. [1-13
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That bull among men, supremely munificent, honored, and expert in timely counsel (_prāptijñaṃ paramodāram_); and taking the King’s royal decree (_rājñaḥ śāsanam ādāya_), summon the foremost monarchs—the kings of the Eastern realms (_prācīnān_), of Sindhu and Sauvīra, and of Surāṣṭra (_saurāṣṭhreyāṃś ca pārthivān_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.27ef–28 (Imperial Geography — East, West & South)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** map the compass of realms invited to Ayodhyā: _prācīnān_ (kings of the eastern countries), _sindhusauvīrān_ (kings of the Indus and Sauvīra realms in the west), _saurāṣṭhreyān_ (kings of Surāṣṭra/Kathiawar, where **Tilaka** notes the _ārṣa_ suffix _ḍhak_ yielding _-eya_), and _dākṣiṇātyān_ (monarchs of the Deccan and southern realms).
 </details>
 </details>
 
@@ -1354,6 +1464,14 @@ all those kings to their kingdom. [1-13-30]
 
 Hearing that speech of Vasiṣṭha, Sumantra immediately commissioned capable and trusty emissaries (_vyādiśat puruṣāṃs tatra... śubhān_) to bring those monarchs.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.30 (puruṣān... śubhān)**
+
+**Govindarāja** glosses _śubhān_ as trusted inner-circle royal officers (_antaraṅgān_), while **Śiromaṇi** glosses it as skilled diplomatic envoys (_nipuṇān puruṣān_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1412,6 +1530,14 @@ the rulers on the earth. [1-13-31]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And at the sage’s command, the righteous-souled Sumantra of vast intellect set forth in haste in person (_svayam eva hi dharmātmā prayātaḥ_) in order to bring those foremost monarchs.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.31–32 (svayam eva... prayātaḥ & karmāntikāḥ)**
+
+All three commentators note that after dispatching couriers to the distant realms in v. 30, Sumantra himself sets out in person (_svayam eva_) to escort the principal kings specifically designated by Vasiṣṭha (Janaka, Kāśīrāja, Kekayarāja, and Romapāda). In v. 32, **Govindarāja** notes that _karmāntikāḥ_ stands by synecdoche (_upalakṣaṇam_) for all the guilds of brick-makers, carpenters, and artisans reporting the completion of the sacrificial complex.
 </details>
 </details>
 
@@ -1518,6 +1644,14 @@ will kill the donor and there is no doubt about it." [1-13-33, 34a]
 
 Well pleased, that foremost of the twice-born, the sage Vasiṣṭha, spoke again to them all: “Nothing must ever be given to anyone with disrespect, nor even in careless sport (_avajñayā na dātavyaṃ kasyacil līlayāpi vā_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.33–34ab (avajñayā kṛtaṃ hanyād dātāram — Why Vasiṣṭha Repeats His Warning)**
+
+Why does Vasiṣṭha repeat his injunction against disrespectful giving here after already stating it in vv. 14–15? **Tilaka** and **Govindarāja** remark: _āvaśyakatvād etat punaḥ śikṣitam_—“because this rule is of paramount importance at a grand sacrifice where thousands are fed daily, he inculcates it a second time!” As _Bhagavadgītā_ 17.22 likewise teaches, charity given without respect (_asatkṛtam avajñātam_) is _tāmasa_ and spiritually destructive to the patron.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1571,6 +1705,14 @@ for Dasharatha. [1-13-34b, 35a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A gift bestowed with disrespect inevitably destroys the giver—of this there is no doubt (_avajñayā kṛtaṃ hanyād dātāraṃ nātra saṃśayaḥ_)!” Then, within a few days and nights (_kaiścid ahorātraiḥ_), the monarchs arrived—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.34cd–35 (bahūni ratnāny ādāya)**
+
+**Govindarāja** and **Tilaka** gloss _ratnāni_ as the finest objects and choice tributary gifts of every kind—gems, pearls, coral, fine garments, ornaments, and sandalwood (_maṇimuktāpravālavastrābharaṇacandanādīni_).
 </details>
 </details>
 
@@ -1694,6 +1836,14 @@ the ritual place that is nearby, to perform your ritual." Said Sage Vashishta to
 
 “And every sacrificial preparation (_yajñiyaṃ ca kṛtaṃ sarvam_) has been completed by the attentive workmen; therefore let Your Majesty come forth to sacrifice at the sacrificial enclosure close at hand (_yajñāyatanam antikāt_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.37–38 (antikāt & manaseva vinirmitam)**
+
+On _antikāt_ in v. 37d, **Govindarāja** cites Pāṇini 2.3.35, explaining the ablative as denoting proximity (“come forth to the sacrificial hall situated nearby,” **Tilaka**). In v. 38d, **Śiromaṇi** and **Govindarāja** explain the poetic figure _manaseva vinirmitam_ (“as though fashioned by the mind alone”): so swiftly and marvelously had the architects erected the vast sacrificial city on the bank of the Sarayū that it seemed conjured by a single wish.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1806,6 +1956,14 @@ conducting any auspicious work.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Accordingly, at the word of both Vasiṣṭha and Ṛṣyaśṛṅga (_vasiṣṭhavacanād ṛṣyaśṛṅgasya cobhayoḥ_), on an auspicious day and under a propitious constellation (_divase śubhanakṣatre_), the lord of the earth came forth.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.39 (vasiṣṭhavacanād ṛṣyaśṛṅgasya cobhayoḥ)**
+
+Both **Tilaka** and **Govindarāja** analyze _vasiṣṭha-_ as an uninflected stem word (_avibhaktiko nirdeśaḥ_) construed in the genitive parallel to _ṛṣyaśṛṅgasya_ (“at the word of both Vasiṣṭha and Ṛṣyaśṛṅga”). Why is Ṛṣyaśṛṅga’s word required alongside Vasiṣṭha’s? Because Vasiṣṭha is the _Adhvaryu_ and Ṛṣyaśṛṅga has been appointed the presiding _Brahmā_ priest (_ṛṣyaśṛṅgasya brahmatvena vṛtatvāt tadvacanam apy apekṣitam_, **Govindarāja**).
 </details>
 </details>
 
@@ -1953,6 +2111,14 @@ along with his wives undertook vow of ritual. [1-13-41]
 **40:** Thereupon all the foremost of the twice-born, headed by Vasiṣṭha, placing Ṛṣyaśṛṅga at their forefront (_ṛṣyaśṛṅgaṃ puraskṛtya_), commenced the sacrificial rites at that time (_yajñakarmārabhaṃs tadā_).
 
 **41:** Having all entered the sacrificial enclosure (_yajñavāṭaṃ gatāḥ sarve_) in accordance with the Śāstras and ritual ordinance, the glorious monarch, together with his queens (_saha patnībhī rājā_), entered upon the sacred consecration (_dīkṣām upāviśat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.40–41 (yajñakarmārabhan & saha patnībhī rājā dīkṣām upāviśat)**
+
+On _ārabhan_ (v. 40d), **Govindarāja** notes the Vedic/epic active ending (_chāndasaḥ parasmaipadaprayogaḥ_) for middle _ārabhanta_. Entering the _yajñavāṭa_ in accordance with the _Kalpasūtras_ (_yathāśāstraṃ yathāvidhi_, **Tilaka**), King Daśaratha undergoes the formal _Aśvamedha dīkṣā_ accompanied by his consecrated queens (_saha patnībhiḥ_).
 </details>
 </details>
 

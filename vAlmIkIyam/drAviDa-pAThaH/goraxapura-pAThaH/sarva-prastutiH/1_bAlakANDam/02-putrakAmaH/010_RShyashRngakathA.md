@@ -92,6 +92,44 @@ that may please be listened from me along with ministers... [1-10-1]
 
 Urged by the King, Sumantra then spoke these words: `In what manner and by what stratagem Ṛśyaśṛṅga was brought by the ministers—hear from me in full all that I now relate, together with your ministers!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1. Govindarāja on the Sarga Boundary and `A Strategy Without Disaster' (Upāyo Nirapāyaḥ) (गो० टी०, ति० टी०, रा० टी० on 1.10.1–2)**
+
+At the close of Sarga 9 (`1.9.20`), Govindarāja makes a remarkable textual-critical observation: because `1.9.20` (`Thereupon Daśaratha replied to Sumantra: tell me by what stratagem Ṛśyaśṛṅga was brought') leads immediately into `1.10.1` (`Urged by the King, Sumantra spoke...'), the chapter break here appears to have been introduced by scribes (उत्तरेणैकः श्लोकः, अत्र सर्गविच्छेदो लेखकदोषकृत इति प्रतिभाति). In `1.10.2c`, the Purohita announces उपायो निरपायोऽयम् (`this is a stratagem free from all disaster or failure', अव्यभिचारिफलः): it neither exposes the priest and ministers to Vibhāṇḍaka's curse nor fails to bring the young sage.
+
+_____________
+
+**1. Courtly Decorum in the Chain of Command (ति० टी० & गो० टी० on 1.10.6)**
+
+$1a
+
+_____________
+
+**1. The Psychology of First Sight (Dṛṣṭi) and Affection (Hārda) (ति० टी० on 1.10.12–13)**
+
+In `1.10.12`, the courtesans ask three questions (`Who are you? How do you live? Why do you roam this forest?'). In `1.10.13`, Rāma's _Tilaka_ traces the exact aesthetic psychology by which the solitary ascetic youth responds: first comes दृष्टिः (`sight'), defined in the erotological canons as the irresistible attraction of a previously indifferent mind toward a new object (द्रष्टृस्य चेतसो या स्यादुदासीनेषु वस्तुषु । अवारणीया सक्तिः सा दृष्टिशब्देन कथ्यते॥); from sight arises हार्दम् (`affection'), defined as a disposition of love that overlooks all faults or reservations (दोषानालोचिनी प्रीत्याख्यचित्तवृत्तिर्हार्दम्), prompting him to answer all three of their questions in verses 14–15!
+
+_____________
+
+**1. Sweetmeats Presented as `Forest Fruits' and the Pretext of `Vratacaryā' (ति० टी०, रा० टी०, गो० टी० on 1.10.18–22)**
+
+$22
+
+_____________
+
+**1. What Was Ṛśyaśṛṅga Pondering on the Second Day? (ति० टी० on 1.10.24–27)**
+
+On मनसाचिन्तयन्मुहुः (`1.10.24d`), Rāma's _Tilaka_ gives two complementary explanations corresponding to the outward narrative and the inner spiritual truth: (i) outwardly, he was recalling the sight, touch, and graceful bearing of the visitors (तासां दर्शनस्पर्शनगमनादिप्रकारान् स्मरन्); (ii) inwardly, as a knower of the three times, he was reflecting: `My going to the Aṅga kingdom through their instrumentality is predestined and must now be fulfilled' (तत्र गमनमेतद्द्वारकमवश्यं भावीति चिन्तयन्नित्यर्थश्च)! In `1.10.26–27`, the courtesans anticipate his reluctance to leave his daily hospitality duties by assuring him that at `their hermitage' too there are wondrous fruits and roots (चित्राण्यत्र बहूनि स्युर्मूलानि च फलानि च) and that the special rite of hospitality (एष विधिः) will be celebrated there in even grander style.
+
+_____________
+
+**1. Appeasing Both Son and Father: The Double Sense of Mā Vipraṃ Manyur Āviśet (ति० टी०, रा० टी०, गो० टी० on 1.10.29–32)**
+
+$26
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,6 +174,44 @@ plan, well thought over by us..." [1-10-2]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `Accompanied by the ministers, the family priest (Purohita) spoke thus to King Romapāda: &quot;A stratagem free from all risk or disaster has been devised by us.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2. How Could a Master of Svādhyāya Not Know What a Woman Is? (गो० टी० & ति० टी० on 1.10.3–5)**
+
+$18
+
+_____________
+
+**2. Why the Courtesans Halted Outside the Hermitage and the Working of Destiny (रा० टी०, ति० टी०, गो० टी० on 1.10.7–10)**
+
+$1c
+
+_____________
+
+**2. How Can Ṛśyaśṛṅga Call Himself an Aurasa Son? (गो० टी० & रा० टी० on 1.10.14)**
+
+$1f
+
+_____________
+
+**2. The Awakening of Longing (ति० टी०, रा० टी०, गो० टी० on 1.10.23)**
+
+In `1.10.23a` (काश्यपस्यात्मजः), Govindarāja and _Śiromaṇi_ note that काश्यपः here denotes Vibhāṇḍaka himself as the son of Kaśyapa (कश्यपपुत्रविभाण्डकस्यात्मजः). Once the visitors depart, the young ascetic experiences for the first time mental restlessness (अस्वस्थहृदयः = कम्पितचित्तः) and paces to and fro unable to remain still in one spot (परिवर्तते = एकदेशानवस्थितिः, ति० टी०).
+
+_____________
+
+**2. Conveyance by the Floating Barge on the Ganges (ति० टी०, रा० टी०, गो० टी० on 1.10.28)**
+
+On तं च निन्युस्तदा स्त्रियः (`1.10.28d`), all three commentators supply from the parallel narrative in the _Mahābhārata_ (_Āraṇyakaparvan_ 110–113) the celebrated detail of how the courtesans transported him swiftly before Vibhāṇḍaka could return: गङ्गायां पूर्वस्थापितां नावमारोप्य प्रवाहेणैवाङ्गदेशं निन्युरिति महाभारते — they led him aboard a barge decked out like a woodland hermitage that had been moored in readiness on the river, cast off the ropes, and bore him downstream with the current straight into the Aṅga realm!
+
+_____________
+
+**2. Rāma's Tilaka on the Spiritual Spotlessness of Ṛśyaśṛṅga (ति० टी० on 1.10.33)**
+
+$2a
 </details>
 </details>
 

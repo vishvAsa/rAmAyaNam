@@ -81,6 +81,14 @@ to Rama. [1-55-1]
 
 Seeing those warriors thrown into confusion and bewildered by Viśvāmitra’s missiles (_viśvāmitrāstramohitān_), Vasiṣṭha urged the wish-granting cow: “O Kāmadhuk, create by your yogic power (_kāmadhuk sṛja yogataḥ_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.1 (kāmadhuk sṛja yogataḥ)**
+
+Seeing her first warriors routed and bewildered by Viśvāmitra’s missiles (_ākulān palāyamānān_, **Tilaka**), Vasiṣṭha commands the wish-milking cow: “O Kāmadhuk, create through your yogic potency!” (_yogato yogamahimnā_, **Tilaka**, **Govindarāja**). **Govindarāja** notes that although bovine (_tiryaktve ’pi_), she possesses yogic power through Brahmā’s grace (_brahmaprasādād yogaśaktir asti_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -114,6 +122,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From her roaring _huṃkāra_ were born Kāmbojas radiant as the sun (_kāmbojā ravisaṃnibhāḥ_), and from her udder sprang forth Barbaras wielding weapons in their hands (_ūdhasaś cātha sambhūtā barbarāḥ śastrapāṇayaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.2–4 (kāmbojāḥ, barbarāḥ, yavanāḥ, śakāḥ, mlecchāḥ, hārītāḥ & kirātakāḥ)**
+
+From Śabalā’s _huṃkāra_ (var. _humbhārava_) spring sun-bright _Kāmbojas_; from her udder (_ūdhasaḥ stanāt_, **Govindarāja**) armed _Barbaras_ (var. _Pahlavas/Paplavas_); from her reproductive tract _Yavanas_; from her dung-passage _Śakas_; and from her hair-pores (_romakūpeṣu romakūpebhyaḥ_, **Tilaka**) _Mlecchas_, _Hārītas_, and _Kirātas_, who instantly annihilate Viśvāmitra’s fourfold army.
 </details>
 </details>
 
@@ -284,6 +300,14 @@ sounds. [1-55-5, 6]
 
 **6:** —rushed in furious wrath (_abhyadhāvat susaṃkruddham_) against Vasiṣṭha, the foremost of _japa_-reciters (_japatāṃ varam_); with a mere _huṃkāra_ syllable (_huṃkāreṇaiva_), the great seer burned them all to ashes (_tān sarvān nirdadāha mahān ṛṣiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.5–6 (viśvāmitrasutānāṃ śatam & huṃkāreṇaiva nirdadāha)**
+
+Realizing that Vasiṣṭha himself is the source of the cow’s might (_ṛṣir eva dhenor balam_, **Tilaka**), Viśvāmitra’s hundred sons charge the sage. Why did Vasiṣṭha incinerate them with a single _huṃkāra_ after sparing the king in 54.11? **Tilaka** explains that unlike an anointed sovereign (_pṛthivīpatitvābhāvāt_), these princes were murderous aggressors (_ātatāyitvāc ca_) whom the foremost of _japa_-reciters (_japatāṃ varam_, **Govindarāja**) could lawfully consume with ascetic fire (_tapobalasaṃbhṛtena huṃkāreṇa_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -343,6 +367,14 @@ their horses, chariots, and foot-soldiers to ashes. [1-55-7]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Together with their horses, chariots, and foot-soldiers (_sāśvarathapādātāḥ_), those sons of Viśvāmitra were reduced to ashes in a single moment (_bhasmīkṛtā muhūrtena_) by the high-souled Vasiṣṭha.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.7–8 (muhūrtena bhasmīkṛtāḥ)**
+
+Both **Tilaka** and **Govindarāja** cite Pāṇini 2.3.6 (_apavarge tṛtīyā_, illustrated by _māsenānuvāko ’dhītaḥ_) to explain the instrumental _muhūrtena_: within a single instant the action of reducing the princes and their fourfold retinue to ashes achieved complete fulfillment.
 </details>
 </details>
 
@@ -457,6 +489,14 @@ forces are ruined along with his sons. [1-55-9, 10a]
 
 Like an ocean bereft of its surging waves (_samudra iva nirvegaḥ_), like a serpent with its fangs broken (_bhagnadaṃṣṭra ivoragaḥ_), and like the sun eclipsed by Rāhu (_uparakta ivādityaḥ_), he was instantly stripped of his splendor (_sadyo niṣprabhatāṃ gataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.9–10 (mālopamā & nirvedaḥ)**
+
+**Tilaka** analyzes the garland of similes: in his loss of surging momentum (_nirvegatve_), Viśvāmitra resembles a tideless ocean (_ūḍhapravṛttirahitaḥ_, **Govindarāja**); in his loss of striking power and radiance (_niṣprabhatve_), a fangless serpent and the sun swallowed by Rāhu (_uparakto rāhugrastaḥ_). Bereft of all physical, military, and missile force (_śārīrabālāstrādīni_, **Tilaka**), he sinks into despondency (_nirvedaṃ sarvatra niṣphalatvabuddhijaṃ cittakhedam_) like a wing-clipped bird (_lūnapakṣa iva dvijaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,6 +578,14 @@ took recourse to forests. [1-55-10b, 11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Appointing his one surviving son over the kingdom (_sa putram ekaṃ rājyāya niyujya_) with the charge, “Rule the earth according to Kṣatriya _dharma_ (_pālayeti pṛthivīṃ kṣatradharmeṇa_),” he betook himself to the forest (_vanam evābhyapadyata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.11–12 (putram ekam & mahādevaprasādārtham)**
+
+Installing his one surviving son (_ekam avaśiṣṭam iti śeṣaḥ_, **Tilaka**, **Govindarāja**; besides the four forest-dwelling sons later named in Sarga 57) to rule by Kṣatriya _dharma_, Viśvāmitra repairs to Himavat to propitiate Mahādeva.
 </details>
 </details>
 
@@ -647,6 +695,14 @@ to that great-saint Vishvamitra, for He is a ready boon-giver. [1-55-13]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then after some time (_kenacit tv atha kālena_), the boon-granting Lord of the gods whose banner bears the bull (_deveśo vṛṣabhadhvajaḥ varadaḥ_) revealed himself (_darśayāmāsa_) to the great sage Viśvāmitra:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.13–15 (vṛṣabhadhvajaḥ & varado ’smi)**
+
+After a period of severe penance, the bull-bannered Lord Mahādeva manifests himself (_darśayāmāsa ātmānam iti śeṣaḥ_, **Tilaka**, **Govindarāja**) before Viśvāmitra and bids him name his desired boon.
 </details>
 </details>
 
@@ -790,6 +846,14 @@ doctrines... they may kindly be bestowed upon me... [1-55-16]
 
 “If you are pleased with me, O sinless Mahādeva (_yadi tuṣṭo mahādeva_), let the science of archery and missiles (_dhanurvedaḥ_) be bestowed upon me, complete with its limbs, sub-limbs, esoteric mantras (_sāṅgopāṅgopaniṣadaḥ_), and secret doctrines (_sarahasyaḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.16 (sāṅgopāṅgopaniṣadaḥ sarahasyaḥ dhanurvedaḥ)**
+
+All three commentators distinguish the fourfold apparatus of _Dhanurveda_: _aṅgas_ are direct auxiliaries (_sākṣādupakārakāṇi_ / _sannipatyopakārakam_); _upāṅgas_ are indirect auxiliaries (_ārādupakārakāṇi_); _upaniṣads_ are esoteric mantras (_mantrā upaniṣadaḥ_, **Tilaka**; _rahasyamantraḥ_, **Govindarāja**); and _rahasya_ is the secret doctrine accessible solely from a preceptor’s lips (_ācāryamukhaikagamyaṃ vidyājātam_, **Tilaka**). While **Govindarāja** views the _-a_ stem in _-upaniṣadaḥ_ as archaic (_ārṣam_), **Tilaka** and **Śiromaṇi** justify it via the samāsānta suffix _-ṭac_ in a collective _dvandva_ (_indrāc chud-gṛhāntāt samāhāre_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -847,6 +911,14 @@ aspiration.' Thus Vishvamitra entreated God Shiva. [1-55-17, 18a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever missiles exist among the gods, the _dānavas_, and the great seers (_yāni deveṣu cāstrāṇi dānaveṣu maharṣiṣu_), and among the _gandharvas_, _yakṣas_, and _rākṣasas_—may they all flash forth in my mind (_pratibhāntu mamānagha_), O sinless Lord!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.17–18 (pratibhāntu mamānagha)**
+
+By asking that all missiles flash forth spontaneously in his mind through Śiva’s grace (_tava prasādāt_), Viśvāmitra seeks immediate intuition without needing step-by-step instruction (_na tūpadeśāpekṣeti bhāvaḥ_, **Tilaka**).
 </details>
 </details>
 
@@ -920,6 +992,14 @@ like a plethoric ocean? [1-55-19]
 **18:** “By your grace, O God of gods, may my cherished desire be fulfilled (_tava prasādād bhavatu devadeva mamepsitam_)!” Having spoken the words “So be it!” (_evam astv iti vākyam uktvā_), the Lord of the gods then departed (_gatastadā_).
 
 **19:** Having obtained those celestial missiles from the Lord of the gods (_prāpya cāstrāṇi deveśāt_), Viśvāmitra of mighty strength, already endowed with great pride, became utterly brimming with arrogance (_darpeṇa mahatā yukto darpapūrṇo ’bhavat tadā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.19–20 (darpeṇa yukto darpapūrṇaḥ & samudra iva parvaṇi)**
+
+How does one already “endowed with pride” (_darpeṇa yuktaḥ_) become “full of pride” (_darpapūrṇaḥ_)? **Tilaka** (_kṣatriyatvāt sahaja eva darpaḥ, tasya pūrtir astralābhāt_) and **Govindarāja** (_viśeṣāstralābhād idānīṃ darpapūrṇo ’bhūt_) explain that Viśvāmitra’s innate Kṣatriya pride reached full measure upon acquiring Śiva’s missiles. Swelling like the ocean at full moon (_samudra iva parvaṇi_), he deemed Vasiṣṭha already dead.
 </details>
 </details>
 
@@ -1022,6 +1102,14 @@ of which missiles that ascetic woodland is completely burnt down in its entirety
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, proceeding to the hermitage (_tato gatvāśramapadam_), the monarch unleashed his missiles (_mumocāstrāṇi pārthivaḥ_), by whose fiery energy that entire penance-grove was burned to ashes (_yais tat tapovanaṃ nāma nirdagdhaṃ cāstratejasā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.21–23 (nirdagdhaṃ tapovanam & nānādigbhyaḥ)**
+
+Hurling his newly won missiles (_udīryamāṇaṃ vimucyamānam_, **Tilaka**), Viśvāmitra burns Vasiṣṭha’s penance-grove, sending hundreds of sages, thousands of disciples, and even the forest deer and birds fleeing in all directions (_nānādigbhyaḥ_, parsed by **Tilaka** and **Govindarāja** as dative/ablative for accusative by epic license, and by **Śiromaṇi** as dative of motion).
 </details>
 </details>
 
@@ -1174,6 +1262,14 @@ evacuee. [1-55-24]
 
 The hermitage of the high-souled Vasiṣṭha became utterly deserted (_śūnyam āsīn mahātmanaḥ_); for an hour it stood devoid of all sound, resembling a barren, saline desert (_muhūrtam iva niḥśabdam āsīd īriṇasaṃnibham_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.24 (īriṇasaṃnibham)**
+
+Emptied of every living creature (_sarvaprāṇipalāyanāt_, **Tilaka**), the great sage’s hermitage becomes silent and resembles an arid, saline desert devoid of trees or men (_īriṇam ūṣaram, nirvṛkṣanirmanuṣyakāntārasadṛśam_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1236,6 +1332,14 @@ fled. [1-55-25]
 
 —even while Vasiṣṭha was repeatedly calling out (_vadato vai vasiṣṭhasya muhur muhuḥ_): “Fear not (_mā bhaiḥ_)! Today I shall destroy the son of Gādhi as the sun dispels the morning mist (_nāśayāmy adya gādheyaṃ nīhāram iva bhāskaraḥ_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.25 (vadato vai vasiṣṭhasya & nīhāram iva bhāskaraḥ)**
+
+Why did the disciples flee in v. 23 when their protector Vasiṣṭha was present? All three commentators construe _vadato vai vasiṣṭhasya_ with _vidravanti_ as a genitive absolute of disregard (_ṣaṣṭhī cānādare_, Pāṇini 2.3.38): in their panic, they fled in spite of Vasiṣṭha repeatedly crying, “Fear not (_mā bhaiḥ_)! Today I shall dispel Gādhi’s son as the sun dispels the mist!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1281,6 +1385,14 @@ meditators rancorously said this word to Vishvamitra. [1-55-26]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus to his fleeing disciples, Vasiṣṭha of mighty splendor, the foremost of _japa_-reciters (_japatāṃ varaḥ_), then spoke these wrathful words to Viśvāmitra (_viśvāmitraṃ tadā vākyaṃ saroṣam idam abravīt_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.26–27 (cirasaṃvṛddham āśramam & tvaṃ na bhaviṣyasi)**
+
+Addressing his fleeing followers first (_palāyamānaprāṇijātaṃ prati_, **Tilaka**), Vasiṣṭha turns in righteous anger upon Viśvāmitra: “Because (_yad yasmāt_) you have destroyed this ancient hermitage and are a deluded transgressor (_durācāro mūḍhaḥ_), therefore you shall perish (_na bhaviṣyasi naṅkṣyasi_, **Tilaka**, **Śiromaṇi**).”
 </details>
 </details>
 
@@ -1404,6 +1516,14 @@ Vishvamitra." Thus, Sage Shataananda continued his narration of Vishvamitra's le
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Speaking thus in supreme wrath (_ity uktvā paramakruddhaḥ_), blazing like the smokeless fire of Doomsday (_vidhūma iva kālāgniḥ_), he swiftly raised his ascetic staff like a second rod of Yama (_daṇḍam udyamya satvaraḥ yamadaṇḍam ivāparam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**55.28 (vidhūma iva kālāgnir yamadaṇḍam ivāparam)**
+
+Blazing like the smokeless fire of cosmic dissolution (_vidhūmaḥ kālāgnir iva_), Vasiṣṭha swiftly raises his ascetic staff and stands ready for battle (_daṇḍam udyamya tasthāv iti śeṣaḥ_, **Tilaka**, **Govindarāja**) like a second rod of Yama.
 </details>
 </details>
 

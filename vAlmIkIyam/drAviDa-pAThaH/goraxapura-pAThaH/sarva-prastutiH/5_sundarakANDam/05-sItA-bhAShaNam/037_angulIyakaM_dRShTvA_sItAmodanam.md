@@ -2040,6 +2040,224 @@ defensive walls and arches together with its Lord Ravana himself."
 
 Resembling Mount Meru or Mandara (_meru-mandara-saṃkāśaḥ_), that bull among monkeys shone with the radiance of a blazing fire (_dīptānala-prabhaḥ_) and stood squarely before Sītā (_agrato vyavatasthe_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.37.1–2 (Nectar Mingled with Poison)**
+
+Opening this Sarga (स्ववियोगजनितरामशोकातिरेकश्रवणखिन्ना जानकी), Rāma Varmā's _Tilaka_ (ति० टी०), Śivasahāya's _Śiromaṇi_ (रा० टी०), and Govindarāja's _Bhūṣaṇa_ (गो० टी०) unpack Sītā's paradox in v. 2: Hanūmān's assurance that Rāma's heart belongs to none other is nectar (यच्चानन्यमना इति वाक्यमाख्यायते तदमृतम्), whereas the tidings of his consuming grief are poison (यच्च शोकपरायण इति वाक्यमाख्यायते तद्विषम्). Thus his speech tastes like ambrosia blended with venom (विषेण संमिश्रं अमृतं प्रतीयते).
+
+_____________
+
+**5.37.3–4 (The Rope of Destiny)**
+
+On v. 3, _Tilaka_ identifies ऐश्वर्ये and व्यसने as locatives of domain (विषयसप्तमी), while _Śiromaṇi_ observes that Sītā's maxim simultaneously foreshadows Rāvaṇa's downfall at the height of his imperial fortune (इदानीं रावणस्य अत्यैश्वर्यावसरेऽपि विध्वंसो भविष्यतीति बोधयन्ती आह), glossing कृतान्तः कालः (Govindarāja: कृतान्तः दैवम्). In v. 4, विधिः is glossed as दैवम् or परमात्मनियोगः, and असंहार्यः as अशक्यप्रतिक्रियः (`impossible to counteract') or अनिवार्यः.
+
+_____________
+
+**5.37.5–6 (Shipwreck on the Sea of Sorrow)**
+
+Both _Tilaka_ and _Śiromaṇi_ explain हतनौः in v. 5 as one whose vessel is destroyed in mid-ocean (हतप्लवः, हता विनष्टा नौर्यस्य), and take परिक्रान्तः in the active sense of swimming with heroic exertion of both arms (कृतपराक्रमो बाहुभ्यां प्लवमानः). Just as a shipwrecked swimmer reaches the shore only with extreme travail (सागरे पारमतिक्लेशेनाधिगच्छति), Sītā wonders when her lord (पतिः रामः) will cross his ocean of grief and crush Laṅkā.
+
+_____________
+
+**5.37.7–8 (The Twelve-Month Ultimatum)**
+
+Śivasahāya's _Śiromaṇi_ (रा० टी०) glosses संवत्सरः in v. 7 as the twelve-month term fixed by Rāvaṇa (द्वादशमासात्मकोऽयं कालः यावन्न पूर्यते तावदेव मम जीवितम्), wherefore Rāma must be urged by Hanūmān to hasten (अतः संत्वरस्वेति स रामः त्वया वाच्यः). On v. 8, Govindarāja's _Bhūṣaṇa_ (गो० टी०) clarifies that दशमो मासः means the close of the tenth month (दशममासान्तः), leaving two months (द्वौ तु शेषौ).
+
+_____________
+
+**5.37.9–10 (Vibhīṣaṇa's Entreaty Rejected)**
+
+On v. 9, Govindarāja glosses निर्यातनं प्रत्यर्पणम् and Rāma Varmā's _Tilaka_ (ति० टी०) निर्यातनं पुनः समर्पणम् (`handing back'), while _Śiromaṇi_ expands मत्कर्मकरामोद्देश्यकसमर्पणं प्रति अनुनीतः प्रार्थितोऽपि. In v. 10, _Śiromaṇi_ explains the causal link: because Death is already stalking Rāvaṇa in battle (कालवशं गतं रावणं संख्ये संग्रामे मृत्युर्मार्गते), returning Sītā finds no favor in his doomed mind (अत एव रावणस्य मम प्रतिप्रदानं न रोचते).
+
+_____________
+
+**5.37.11–12 (Kalā/Analā and the Dramatic Seed of Vibhīṣaṇa's Consecration)**
+
+Defining कन्या as an unmarried maiden (कन्याऽजातपुरुषसंबन्धा), _Tilaka_ highlights the structural significance of v. 11: when subsequently reported to Rāma, this testimony becomes the seed of Rāma's unhesitating acceptance and consecration of Vibhīṣaṇa (इदमेवाग्रे रामश्रुतं विभीषणस्य निःशङ्कपरिग्रहाभिषेकयोर्बीजम्). _Śiromaṇi_ reads the daughter's name as Analā (अनला नाम ज्येष्ठा कन्या) and notes that vv. 12–13 form a single syntactic unit (श्लोकद्वयमेकान्वयि).
+
+_____________
+
+**5.37.13–14 (Avindhya's Warning and Sītā's Dual Ground of Hope)**
+
+Completing the sentence begun in v. 12, Śivasahāya's _Śiromaṇi_ (रा० टी०) explains that Avindhya warned Rāvaṇa of the destruction awaiting the demons from Rāma (रामात् रक्षसां प्राप्तं क्षयं प्रत्यचोदयत् अकथयत्), thereby urging Sītā's surrender (सीतां रामाय समर्पयेति तेन प्रार्थितमिति सूचितम्). On v. 14, Rāma Varmā's _Tilaka_ (ति० टी०) and _Śiromaṇi_ note the twofold cause (हेतु) of Sītā's certainty: her own pure conscience (मे अन्तरात्मा शुद्धः) and Rāma's abundant virtues (तस्मिन् रामे च बहवो गुणाः).
+
+_____________
+
+**5.37.15–17 (Unshakable Valor Known to Sītā as Śacī Knows Indra)**
+
+Enumerating Rāma's seven kingly virtues in v. 15 and his single-handed slaughter of fourteen thousand demons in Janasthāna in v. 16 (संभवत्येव को न उद्विजेत् संचलेत्), _Tilaka_ and _Śiromaṇi_ interpret व्यसनैः in v. 17 by metonymy as the calamity-inflicting demons (व्यसनैर्व्यसनदातृभी राक्षसैस्तुलयितुं कंपयितुम्; Govindarāja: तुलयितुं चालयितुम्), while Sītā affirms her direct knowledge of his might (अनुभावज्ञाहमस्मि).
+
+_____________
+
+**5.37.18 (The Consequential Metaphor of the Rāma-Sun)**
+
+_Tilaka_ identifies the poetic figure in v. 18 as a _paramparitarūpaka_ (शरजालेत्यादि परम्परितरूपकम्, consequential metaphor), which _Śiromaṇi_ unpacks in detail: the Rāma-sun (रामदिवाकरः रामसूर्यः), whose clustering shafts are its scorching rays (शरजालांशुमान् शरसमूहरूपकिरणविशिष्टः), will evaporate the floodwaters consisting of the hostile _rākṣasas_ (शत्रुरक्षोमयं शत्रुरूपराक्षसप्रचुरं तोयम् उपशोषं नयिष्यति).
+
+_____________
+
+**5.37.19–21 (Hanumān's Proposal to Carry Sītā on His Back)**
+
+Unable to bear Sītā's anguish (सीताशोकासहनो हनुमान्), Hanumān offers an immediate alternative to waiting for the monkey army: mounting his back (पृष्ठारोपणेनाहं त्वां रामसमीपं प्रापयामीति). In v. 21, Śivasahāya's _Śiromaṇi_ (रा० टी०) construes सराक्षसात् directly with दुःखात् (सराक्षसात् दुःखात् मोचयिष्यामि, `I shall free you from this demon-accompanied sorrow'), whereas Govindarāja reads the vocative वरानने.
+
+_____________
+
+**5.37.22–23 (Strength to Lift All Laṅkā and the Sacrificial Fire Simile)**
+
+Anticipating Sītā's doubt as to how merely mounting his back could carry her across the sea (ननु पृष्ठारोहणमात्रेण कथं दुःखापगमो भविष्यतीत्यत आह), _Śiromaṇi_ explains v. 22: since Hanumān possesses the power to bear even Laṅkā along with Rāvaṇa (सरावणां रावणसहितां लङ्कां वोढुं हि यतो मे शक्तिरस्ति), carrying Sītā across the ocean is effortless. In v. 23, supplying त्वामिति शेषः, he likens Hanumān delivering Sītā to Rāma on Prasravaṇa to Agni conveying the oblation to Indra (शक्राय हुतं हव्यमनल इव प्रापयिष्यामि).
+
+_____________
+
+**5.37.24 (Rāma Like Viṣṇu Poised to Slay the Daityas)**
+
+Both Rāma Varmā's _Tilaka_ (ति० टी०) and _Śiromaṇi_ gloss व्यवसायसमायुक्तं विष्णुं दैत्यवधे यथा as comparing Rāma's martial resolve to Viṣṇu girded for the destruction of the Daityas (दैत्यवधे व्यवसाययुक्तं विष्णुमिव स्थितम्). _Śiromaṇi_ notes that vv. 24–25 form a single continuous sentence (श्लोकद्वयमेकान्वयि).
+
+_____________
+
+**5.37.25–26 (Indra on the Mountain Peak and Rohiṇī with the Moon)**
+
+Rāma Varmā's _Tilaka_ (ति० टी०) notes the reading नाकराजस्य मूर्धनि (`upon the summit of the lord of heaven's mount') alongside नगराजस्य (`of Meru', मेरोरित्यर्थः). In v. 26, _Tilaka_, Śivasahāya's _Śiromaṇi_ (रा० टी०), and Govindarāja's _Bhūṣaṇa_ (गो० टी०) gloss मा विकाङ्क्षस्व as `do not entertain hesitation or indifference' (मोपेक्षां कुरु, औदासीन्यं नोत्पादय, मापेक्षस्व), urging Sītā to reunite with Rāma as Rohiṇī joins the moon (शशाङ्केन रोहिणी इव).
+
+_____________
+
+**5.37.27–28 (Instantaneous Flight Beyond the Reach of Laṅkā's Hosts)**
+
+On the Starred verse 27, _Tilaka_ explains कथयन्तीव in two ways: either Sītā will reach Rāma at the very instant she says `Let us go to Rāma' (गन्तव्यो राम इति वचनं कथयन्तीव ... एतद्वचनसमकालमेव), or as effortlessly as uttering a word (यथा तद्वचने न प्रयासः). Govindarāja construes चन्द्रेण कथयन्तीव चन्द्रेण भाषमाणेव तर. In v. 28, _Śiromaṇi_ stresses that no resident of Laṅkā can overtake Hanumān's flight (मे गतिमनुगन्तुं सर्वे लङ्कानिवासिनो न शक्ताः).
+
+_____________
+
+**5.37.29–30 (Sītā's Joy and Amazement)**
+
+Glossing उद्यम्य in v. 29 as placing her upon his back (पृष्ठे कृत्वा, पृष्ठे संस्थाप्य), _Tilaka_ and _Śiromaṇi_ transition to Sītā's reaction in v. 30: both _Tilaka_ and Govindarāja explain हर्षविस्मितसर्वाङ्गी as having all her limbs horripilating with joy (हर्षपुलकितसर्वाङ्गी) upon hearing Hanumān's astonishing proposal.
+
+_____________
+
+**5.37.31–32 (Sītā's Doubt at Hanūmān's Diminutive Stature)**
+
+Rāma Varmā's _Tilaka_ (ति० टी०) glosses तदेव in v. 31 as `this very proposal now before my eyes' (तदेव दृश्यमानमेव), while Śivasahāya's _Śiromaṇi_ (रा० टी०) explains कपित्वम् as the proverbial fickleness of monkeys (तत्प्रसिद्धं कपित्वं कपिचापल्यं तु मन्ये): how can one of such tiny frame (अल्पशरीरस्त्वं) wish to carry her across so vast a distance (दूरमध्वानं वोढुं मां कथमिच्छसि)?
+
+_____________
+
+**5.37.33–35 (The Novel Slight and Assumption of Cosmic Stature at Will)**
+
+Both _Tilaka_ and _Śiromaṇi_ explain नवं परिभवम् in v. 33 as the unprecedented humiliation of being deemed puny and incapable (अल्पशरीरोऽशक्त इत्येवंरूपम्, नवं प्रथमं परिभवं स्वानादरं). In v. 34, कामतः means `assumed at will' (इच्छाकृतम्, स्वेच्छया). Govindarāja's _Bhūṣaṇa_ (गो० टी०) defends the reading न मे जानाति (`she does not know my strength'), noting that reading नाहं जानामि would contradict the sequel (अन्यथा पाठे वक्ष्यमाणेन विरोधः स्यात्).
+
+_____________
+
+**5.37.36 (Why Hanūmān Leaps Down from the Śiṃśapā Tree)**
+
+_Tilaka_ offers a perceptive dramatic reason why Hanūmān leaps down from the _śiṃśapā_ tree (तस्मात्पादपाच्छिंशपातः) before expanding: had he swollen his body while perched in the branches, the crashing of the boughs under his weight would have awakened the sleeping demonesses (तद्भारजातशालाभङ्गध्वनिना राक्षस्यो बुध्येरन्तीति तत आप्लुतिः). Govindarāja harmonizes this with his earlier descent: he stepped down from the platform adjacent to the tree onto the open ground (अत्र भूमाविति बोध्यम्).
+
+_____________
+
+**5.37.37–38 (Hanumān's Mountain-Like Manifestation in Open Ground)**
+
+Rāma Varmā's _Tilaka_ (ति० टी०) glosses अग्रतो व्यवतस्थे in v. 37 as standing in an open space before Sītā large enough to accommodate his colossal form (योग्यपुरोदेशे स्थितः). Śivasahāya's _Śiromaṇi_ (रा० टी०) connects his fiery, Meru- and Mandara-like stature (मेरुमन्दरसंकाशः सन् बभौ) directly to his purpose of dispelling Sītā's doubt (सीताप्रत्ययकारणात् in v. 36).
+
+_____________
+
+**5.37.39–40 (Power to Uproot Fortified Laṅkā with Its Ruler)**
+
+Having demonstrated his gigantic body (स्वरूपं स्वस्य शरीरम्, Govindarāja), Hanumān repeats with visible proof his boast from v. 22: he can bear away not merely Sītā, but all of Laṅkā with its mountains, woods, watchtowers, ramparts, gateways (सपर्वतवनोद्देशां साट्टप्राकारतोरणाम्), and its lord Rāvaṇa (सनाथां वा). He therefore bids her fix her mind firmly (तदवस्थाप्यतां बुद्धिः) and end Rāma's and Lakṣmaṇa's sorrow.
+
+_____________
+
+**5.37.41–42 (Sītā Acknowledges the True Son of Vāyu)**
+
+Beholding him towering like a mountain (अचलसंकाशम्), Sītā recognizes Hanumān as the true-born son of the Wind-god (मारुतस्यौरसं सुतम्) and retracts her playful taunt of v. 31: she now fully knows his courage and physical might (तव सत्त्वं बलं चैव विजानामि), his wind-like velocity (वायोरिव गतिश्चापि), and his wondrous fire-like radiance (तेजश्चाग्नेरिवाद्भुतम्).
+
+_____________
+
+**5.37.43–44 (Weighing True Success Beyond Mere Physical Power)**
+
+Rāma Varmā's _Tilaka_ (ति० टी०) and Śivasahāya's _Śiromaṇi_ (रा० टी०) note that v. 43 proves Sītā's recognition of Hanumān's superhuman stature (तदेवानुमानं दर्शयति): how could any ordinary being (प्राकृतः अन्यः त्वद्भिन्नः) cross the unfathomable ocean to Laṅkā? Yet on v. 44, _Tilaka_ draws a subtle distinction: Hanumān has judged success solely by the yardstick of his own physical might (त्वया तु स्वबलवैभवेन विचारिता कार्यसिद्धिः), whereas Sītā insists they must deliberate upon what truly fulfills their goal (तद्वदेव ममाप्यात्मनः कार्यसिद्धिरवश्यं संप्रधार्या विचार्या).
+
+_____________
+
+**5.37.45–47 (The First Obstacle: Vertigo and Falling into the Sea)**
+
+Beginning a series of arguments dissuading Hanumān (अनेकवचनोपन्यासैस्तेन सह गमनं निषेधयन्ती जानकी), Sītā explains why riding on his back is impractical (अयुक्तं तु): dizzy from his wind-like speed high above the ocean (उपर्युपरि सागरम्), she might faint (वेगो मां मोहयेत्) and plunge from his back into the sea to become prey for whales, crocodiles, and sea-monsters (यादसामन्नमुत्तमम्).
+
+_____________
+
+**5.37.48 (The Second Obstacle: Vulnerability While Escorting a Woman)**
+
+Advancing from her own physical frailty to tactical prudence, Sītā observes in v. 48 that even for a hero like Hanumān, traveling burdened with a woman to protect (कलत्रवति त्वयि) introduces grave uncertainty (संदेहस्त्वयि स्यादप्यसंशयम्) when pursued by armed _rākṣasas_.
+
+_____________
+
+**5.37.49–50 (Pursuit by Armed Demons and the Peril of Guarding a Charge)**
+
+Expanding upon the danger stated in v. 48 (एतदेव प्रपञ्चयति, Govindarāja), Śivasahāya's _Śiromaṇi_ (रा० टी०) explains that Rāvaṇa would immediately order his fierce warriors to pursue them (रावणेन आदिष्टा राक्षसा अनुगच्छेयुः). On v. 50, Rāma Varmā's _Tilaka_ (ति० टी०) glosses संशयम् as mortal peril (प्राणसंशयम्) and accounts for the repeated pronoun त्वम् across two clauses (तैस्त्वं परिवृतो भवेः । ततस्त्वं संशयं प्राप्तो भवेरिति त्वंशब्दद्वयनिर्वाहः), while Govindarāja glosses कलत्रवान् as `encumbered with one who must be protected' (रक्ष्यवान्).
+
+_____________
+
+**5.37.51–52 (Unarmed in the Supportless Sky)**
+
+_Tilaka_ glosses व्योम्नि in v. 51 as `in a supportless region' (निरालम्बप्रदेश इत्यर्थः), and Govindarāja explains संयातुम् as `to fight properly' (सम्यग्योद्धुम्): outnumbered by weapon-bearing demons (राक्षसाः सायुधाः) while himself unarmed (त्वं निरायुधः) in mid-air, how could Hanumān simultaneously wage battle and keep Sītā from falling in terror (ते पृष्ठात् प्रपतेयम्)?
+
+_____________
+
+**5.37.53–54 (Recapture During the Distraction of Combat)**
+
+Glossing साम्पराये as `in battle' (युद्धे) and कथंचित् as `by some great effort' (महता यत्नेन), all three commentators explain विमुखस्य in v. 54 not as retreating, but as having his attention diverted from guarding Sītā because of absorption in fighting (युद्धपारवश्यान्मद्रक्षणविमुखस्येत्यर्थः, युद्धपरवशस्य, मदुपरि दृष्टिरहितस्य). _Śiromaṇi_ notes that vv. 53–54 form a single syntactic unit (श्लोकद्वयमेकान्वयि).
+
+_____________
+
+**5.37.55–56 (The Uncertainty of Battle and Peril to Sītā's Life)**
+
+Rāma Varmā's _Tilaka_ (ति० टी०) explains विशसेयुः in v. 55 as slaughtering Sītā out of malice toward Rāma (रामविषयकद्वेषवशात्), while Śivasahāya's _Śiromaṇi_ (रा० टी०) glosses अनवस्थौ as `uncertain' (अनिश्चितौ दृश्येते). Even if untouched by weapons, Sītā adds in v. 56 that she might die of sheer terror at the demons' threats (रक्षोभिरभितर्जिताऽहं वा यदि विपद्येयं), rendering Hanumān's mission fruitless (तदा त्वत्प्रयत्नः निष्फल एव भवेत्).
+
+_____________
+
+**5.37.57 (Preserving Rāghava's Kṣatriya Glory)**
+
+Conceding that Hanumān alone can slay all the demons (यद्यपि सर्वराक्षसान्निहन्तुं त्वं पर्याप्तोऽसि), _Tilaka_ and _Śiromaṇi_ explain why even his victory would be flawed: if the _rākṣasas_ are slain (शस्तैर्हिंसितैः) by an envoy, Rāma's fame would suffer the reproach that he could not rescue his own wife (यशो हीयेत् स्वयं प्रत्याहर्तुमशक्त इत्यपयशोवृद्धिः स्यादिति भावः).
+
+_____________
+
+**5.37.58–59 (The Danger of Secret Concealment vs. Rāma's Arrival)**
+
+Glossing संवृते as a hidden place (गुप्ते, Govindarāja; अदृष्टे स्थले, _Śiromaṇi_), the commentators connect vv. 58–59 (श्लोकद्वयमेकान्वयि): if the demons hide Sītā where neither monkeys nor Rāma can find her, Hanumān's feat of crossing the ocean (आरम्भः समुद्रतरणादिरूपः) becomes futile (निरर्थकः), whereas bringing Rāma here with him secures every advantage (राघवानयनपक्ष एव गुणवान्).
+
+_____________
+
+**5.37.60–61 (Universal Ruin if Sītā Is Lost)**
+
+Warning that her loss would entail the destruction of all (रामेण मन्त्राप्तौ सर्वनाशप्रसङ्ग इत्याह), Rāma Varmā's _Tilaka_ (ति० टी०), Śivasahāya's _Śiromaṇi_ (रा० टी०), and Govindarāja's _Bhūṣaṇa_ (गो० टी०) gloss भ्रातॄणाम् as Lakṣmaṇa and the other brothers (लक्ष्मणादीनाम्) and तव राजकुलस्य as Sugrīva's royal house (सुग्रीवराजकुलस्य). In v. 61, प्राणसंग्रहम् means the bond or preservation of life (प्राणसंबन्धम्, प्राणानां रक्षणम्).
+
+_____________
+
+**5.37.62–63 (The Supreme Moral Ground: Chastity and Unwilling Abduction)**
+
+Presenting her decisive dharmic reason for declining Hanumān's offer (हनुमता सह गमनाभावे मुख्यं हेतुमाह), Sītā declares in v. 62 that out of devotion to her lord she can never willingly (स्वतः स्वेच्छया) touch another man's body. Anticipating the objection that Rāvaṇa touched her (रावणगात्रस्पर्शस्तु न स्वत इत्याह), _Tilaka_ and Govindarāja distinguish the three terms in v. 63: अनीशा (`powerless as a woman', स्त्रीत्वात्स्वयमसमर्था), विनाथा (`bereft of Rāma and Lakṣmaṇa after Mārīca's cry', असंनिहितरामलक्ष्मणा), and विवशा (`helpless', विचेष्टा).
+
+_____________
+
+**5.37.64 (Fulfilling the Purpose of Rāma's Incarnation)**
+
+_Tilaka_ uncovers the deep theological import of v. 64: Rāma's slaying Rāvaṇa with his host and reclaiming Sītā is alone worthy of his majesty (तत्तस्य सदृशं स्वमहिम्ना तुल्यम्), because his very incarnation is for destroying Rāvaṇa (ससद्गणरावणवधार्थमेवावतारात्)—indeed, had Sītā returned on Hanumān's back, Rāma would be displeased at his unfulfilled mission (स्वकार्यानिष्पत्त्या गतायामपि कुप्येदिति गूढम्).
+
+_____________
+
+**5.37.65 (Exploits Heard of and Witnessed Firsthand)**
+
+Rāma Varmā's _Tilaka_ (ति० टी०) distinguishes the two classes of Rāma's valorous deeds cited by Sītā: his defense of Viśvāmitra's sacrifice and slaying of Vālin were heard of by report (विश्वामित्रयज्ञरक्षणे कृता बालिवधादयश्च श्रुताः), whereas others—such as his single-handed victory in Janasthāna—were witnessed with her own eyes (अन्ये दृष्टाः). Govindarāja's _Bhūṣaṇa_ (गो० टी०) explains the two हि particles: the first establishes the renown of his virtues, the second his peerlessness (प्रथमहिशब्दो गुणप्रसिद्धौ । द्वितीयो निस्समत्वप्रसिद्धौ).
+
+_____________
+
+**5.37.66–67 (The Wind-Driven Fire, Directional Elephant, and Doomsday Sun)**
+
+Śivasahāya's _Śiromaṇi_ (रा० टी०) unpacks Sītā's triad of martial similes in vv. 66–67: accompanied by Lakṣmaṇa, Rāma is as irresistible in battle as a blazing fire fanned by the wind (अनिलेरितं दीप्तं हुताशनमिव राघवं समीक्ष्य को विषहेत), stands unshakable like a rutting directional elephant (दिशागजमिव व्यवस्थितम्), and scorches his foes like the doomsday sun whose rays are flaming arrows (युगान्तसूर्यप्रतिमं शराः अर्चींषि यस्य तं रामम्).
+
+_____________
+
+**5.37.68 (The Final Charge and Allegory of the Sole Means)**
+
+Both _Tilaka_ and _Śiromaṇi_ gloss सयूथपम् in v. 68 as accompanied by Sugrīva, lord of the monkey host (सयूथपं यूथपसुग्रीवमुपपादयानय). Closing the Sarga, Govindarāja offers a Śrīvaiṣṇava allegorical reflection: Sītā here exemplifies the devotee who relinquishes every secondary expedient (उपायान्तरं) and insists that the Lord Himself is the sole means of deliverance (भगवत्प्राप्तौ स एवोपाय इति दर्शितः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

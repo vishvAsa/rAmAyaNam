@@ -1084,6 +1084,116 @@ you are suited to return me to this Rama."
 
 Propitiate (_prasādayasva_) him, who is tender to suppliants; and becoming humble (_prayato bhūtvā_), you ought to restore (_niryātayitum_) me to him.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.21.1–3 (The Interposed Blade of Grass and Pure Smile in Grief)**
+
+$18
+
+_____________
+
+**5.21.4–5 (The Sinner’s Unfitness for Siddhi and Noble Lineage)**
+
+On 5.21.4, _Tilaka_ glosses सिद्धिम् as the attainment of Brahmā’s world (ब्रह्मलोकप्राप्तिम्) and अकार्यम् as touching another man (परपुरुषस्पर्शरूपम्); _Bhūṣaṇa_ derives एकपत्नी ('having one husband') via the special rule prescribing _-n_ and _ṅīp_ (नित्यं सपत्न्यादिषु). On 5.21.5, _Tilaka_ and _Śiromaṇi_ supply विवाहविधिना ('by marriage rites') to explain how she entered the pure Ikṣvāku race after being born in Janaka’s house.
+
+_____________
+
+**5.21.6 (Turning Her Back in Disdain)**
+
+On 5.21.6, _Tilaka_ glosses पृष्ठतः कृत्वा literally as standing with her face turned away (परावृत्य स्थित्वा), whereas _Bhūṣaṇa_ takes it figuratively as 'disregarding, spurning' (अनादृत्य). All three gloss औपयिकी as 'fit or proper to be enjoyed' (भोगयोग्या, उचिता) because she is another’s chaste wife (सती परभार्या).
+
+_____________
+
+**5.21.7–8 (Self-Comparison and the Ruin of the Adulterer)**
+
+On 5.21.7–8, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain आत्मानमुपमां कृत्वा: just as Rāvaṇa knows that Mandodarī and his own queens would suffer if seized by another and must be guarded, so too must he guard (रक्ष्याः, i.e., परिहार्याः, 'shun') the wives of others. _Tilaka_ glosses निकृतिप्रज्ञम् as one whose intellect is steeped in base transgression (साधुकृतधिक्कारः), whereas _Bhūṣaṇa_ takes it as one whose scriptural wisdom is humiliated (निकृता शास्त्रे प्रज्ञा यस्य तम्), leading to the loss of life and sovereignty (पराभवम्).
+
+_____________
+
+**5.21.9–10 (Absence of Wise Counsellors or Perverse Refusal to Heed Them)**
+
+On 5.21.9, _Bhūṣaṇa_ notes that since Vibhīṣaṇa and Avindhya dwell in Laṅkā, good men (सन्तः) do exist there, so Rāvaṇa simply fails to bow and serve them (सतो वा नानुवर्तसे), as proved by his perverse, unrighteous conduct (आचारवर्जिता). On 5.21.10, _Tilaka_ and _Śiromaṇi_ explain मिथ्याप्रणीतात्मा as one whose mind is drawn to unreal objects or who deems wise counsel false (मिथ्यावस्तुभूतम्), and who thus rejects salutary advice (पथ्यं वचः) so that the rākṣasas may perish (राक्षसानामभावाय).
+
+_____________
+
+**5.21.11–12 (The Undisciplined King and the Imminent Destruction of Laṅkā)**
+
+On 5.21.11–12, _Tilaka_ glosses अकृतात्मानम् as a king incapable of grasping good counsel (सदुपदेशाग्रहणार्हम्), while _Śiromaṇi_ explains it as one who has not brought his own mind under control (न कृतः स्ववशं प्रापितः आत्मा मनो येन तम्). Because a ruler’s single crime destroys his entire realm (राजापराधतोऽशेषप्रजानाशस्य), jewel-filled Laṅkā will soon perish through Rāvaṇa alone.
+
+_____________
+
+**5.21.13–14 (Universal Rejoicing at the Downfall of the Short-Sighted Tyrant)**
+
+On 5.21.13, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) resolve the sandhi रावणादीर्घदर्शिनः into the vocative रावण and the genitive अदीर्घदर्शिनः, which **Rāma Varmā** (_Tilaka_) and _Śiromaṇi_ gloss as 'blind to future calamity' (भाव्यनर्थदर्शनासमर्थस्य). On 5.21.14, all three gloss निकृताः as those previously humiliated, cheated, or tormented by Rāvaṇa (तिरस्कृताः, वञ्चिताः), who will hail his ruin with दिष्ट्या ('by good fortune!').
+
+_____________
+
+**5.21.15–17 (Sunlight and the Sun, the Honoured Arm, and Vedic Vidyā)**
+
+On 5.21.15, _Bhūṣaṇa_ interprets अनन्या राघवेणाहं भास्करेण यथा प्रभा theologically: Sītā is Lakṣmī, eternally inseparable (अविभक्ता) from Viṣṇu incarnate in Raghu’s line, and just as sunlight enhances the sun’s own splendour, Sītā’s presence magnifies Rāma’s unmeasurable fiery energy (अप्रमेयं हि तत्तेजः). On 5.21.16, _Tilaka_ and _Bhūṣaṇa_ explain उपधाय भुजम् as having slept pillowed on the honoured right arm of the Lord petitioned by Indra and the gods (याच्यमानस्य). On 5.21.17, _Tilaka_ compares Sītā’s exclusive union with Rāma to _brahmavidyā_, which belongs solely to a twice-born sage who has completed the _samāvartana_ bath (व्रतस्नातस्य).
+
+_____________
+
+**5.21.18 (The Simile of the Cow-Elephant and the Tusker)**
+
+On 5.21.18, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ address the inverted case-syntax (विभक्तिव्यत्यासः) in वासितया सार्धं करेण्वेव गजाधिपम्: instead of saying 'unite me with Rāma like a cow-elephant with a bull-elephant,' Sītā says 'unite the bull-elephant with the longing cow-elephant (वाशितया करेण्वा),' which _Tilaka_ excuses as the agitated speech of a bereaved lover (विरहिण्युक्तित्वात्) and _Bhūṣaṇa_ explains as demanding that Rāvaṇa summon Rāma to Laṅkā to receive her.
+
+_____________
+
+**5.21.19 (Maternal Compassion and the Counsel of Surrender)**
+
+Introducing 5.21.19, **Govindarāja** (_Bhūṣaṇa_) offers a celebrated theological reflection: seeing Rāvaṇa prattle deliriously, the Mother of the universe is moved by maternal tenderness (मातृत्वप्रयुक्तवात्सल्येन) and counsels him herself (स्वयमेवोपदिशति). Because proud Rāvaṇa would recoil from the word 'surrender' (रामं शरणं गच्छ), she tactfully says 'make Rāma your friend' (मित्रमौपयिकं कर्तुम्), for the Lord treats a suppliant as a friend (मित्रभावेन संप्राप्तं न त्यजेयं कथंचन). **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss स्थानं परीप्सता as 'wishing to save Laṅkā' (लङ्कां रिरक्षयिषता).
+
+_____________
+
+**5.21.20–22 (Rāma’s Tenderness to Suppliants and the Duty of Restitution)**
+
+On 5.21.20–22 (retained in the Southern commentarial vulgate though starred in Baroda CE), _Tilaka_ anticipates Rāvaṇa’s doubt—how can one who has committed such an offense win Rāma’s friendship?—and answers with सर्वधर्मज्ञः शरणागतवत्सलः: Rāma knows the sacred law that even an enemy who seeks refuge must be protected (शत्रुरपि शरणागतो रक्षणीयः). _Bhūṣaṇa_ notes that त्वं च ('you too') in 5.21.21a implies 'I also shall intercede for you' (अहमपि प्रसादयिष्यामि), and glosses प्रयतो भूत्वा as 'abandoning mental crookedness' (मनःकौटिल्यं त्यक्त्वा) and निर्यातयितुम् as 'to restore' (प्रत्यर्पयितुम्).
+
+_____________
+
+**5.21.23–24 (The Inescapable Wrath of Rāghava and the Thunder of His Bow)**
+
+On 5.21.23, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain वर्जयेत् as 'might spare, might refrain from slaying' (न नाशयेत्, न हन्यात्): Indra’s hurled bolt or Yama himself might spare Rāvaṇa, but enraged Rāghava never will. On 5.21.24, _Tilaka_ and _Bhūṣaṇa_ gloss महास्वनम् as a mighty resonant roar (महानादम्) that will echo across Laṅkā’s palaces like Indra’s thunderbolt (अशनेरिव).
+
+_____________
+
+**5.21.25–26 (Blazing Arrows Stamped with Royal Names Leaving No Space)**
+
+On 5.21.25, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain रामलक्ष्मणलक्षिताः (variant लक्षणाः) as arrows engraved with the names of Rāma and Lakṣmaṇa (तन्नामाङ्काः), while **Śivasahāya** (_Śiromaṇi_) takes it as 'discharged by them' (ताभ्यां विसृष्टाः). On 5.21.26, all three explain कङ्कवाससः as arrows fledged with heron plumes (कङ्कपत्रविशिष्टपुङ्खाः बाणाः), and gloss असम्पातम् as 'leaving no empty space' (अनवकाशम्, अवकाशराहित्यम्) throughout Laṅkā; _Tilaka_ also notes a variant असम्बाधम् meaning 'unimpeded by rākṣasas.'
+
+_____________
+
+**5.21.27–28 (Rāma-Garuḍa and Viṣṇu’s Three Strides)**
+
+On 5.21.27, _Bhūṣaṇa_ points out how the poet reinforces the metaphor (_rūpaka_) of राक्षसेन्द्रमहासर्पान् and रामगरुडः with the explicit simile (_upamā_) वैनतेय इवोरगान् to highlight the swiftness of their uprooting (उद्धरणवेगे). On 5.21.28, both _Tilaka_ and _Bhūṣaṇa_ note that अपनेष्यति मां भर्ता directly refutes Rāvaṇa’s boast in 5.20.28 (न चापि मम हस्तात् त्वां प्राप्तुमर्हति राघवः), comparing Rāma’s recovery of Sītā to Viṣṇu’s recovery of Lakṣmī from the asuras by His three cosmic strides (त्रिभिः क्रमैः).
+
+_____________
+
+**5.21.29 (The Cowardly Theft after the Slaughter of Janasthāna)**
+
+On 5.21.29, _Tilaka_ glosses हतस्थाने as 'having its military outpost destroyed' (हतास्पदे), while _Śiromaṇi_ explains it as 'when the rākṣasas’ settlement had been eradicated' (निवृत्तराक्षसनिवासे). Because Khara’s army was annihilated there, Rāvaṇa proved himself powerless (अशक्तेन) to face Rāma openly and resorted to a base theft (चौरिणापहरणम् in _Bhūṣaṇa_).
+
+_____________
+
+**5.21.30–31 (The Thief in the Empty Hermitage and the Dog before Two Tigers)**
+
+On 5.21.30, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain गोचरं गतयोः as 'when the two brothers had gone into the forest region (वनप्रदेशं गतयोः) to investigate the phantom deer,' leaving the hermitage empty (शून्यम्); **Govindarāja** (_Bhūṣaṇa_) matches this with वनं गतयोः. On 5.21.31, all three commentators highlight the devastating comparison: just as a dog (शुना) catching the scent of two tigers (शार्दूलयोः) cannot stand before them for an instant (क्षणमात्रम्), Rāvaṇa cannot endure the sight of Rāma and Lakṣmaṇa.
+
+_____________
+
+**5.21.32 (The Simile of One-Armed Vṛtra against Two-Armed Indra)**
+
+On 5.21.32, _Tilaka_ glosses युगग्रहणम् as the marshalling of allied forces (सहायसंपत्तिः), while _Śiromaṇi_ and _Bhūṣaṇa_ explain it as seizing victory in battle (संयुगे जयग्रहणम्) or undertaking combat (युद्धारम्भः), which will prove unstable (अस्थिरम्, अध्रुवम्). All three cite the Purāṇic episode where Vṛtra, after one of his arms was severed by Indra’s thunderbolt (वज्रच्छिन्नैकबाहुः), fought with a single arm against Indra’s two arms (इन्द्रबाहुभ्याम्) and was swiftly subdued (निग्रहः)—so too single-handed Rāvaṇa cannot withstand the two brothers.
+
+_____________
+
+**5.21.33–34 (The Sun Drinking Scanty Water and Flight to Kailāsa or Varuṇa’s Hall)**
+
+On 5.21.33, _Tilaka_ and _Bhūṣaṇa_ divide स नाथो मे as the demonstrative सः ('that renowned Rāma') and नाथः ('my protector'), who will drink up Rāvaṇa’s life-breaths as the sun evaporates a puddle (तोयमल्पमिवादित्यः). On 5.21.34, _Tilaka_ and _Bhūṣaṇa_ identify Kubera’s mountain abode as Kailāsa (कैलासम्), paired with Varuṇa’s nether assembly to signify the highest and lowest worlds (ऊर्ध्वाधःस्थसकललोकोपलक्षणम्); under the reading विमोक्ष्यसे (which Kataka praises as पेशलः पाठः), _Tilaka_ and _Śiromaṇi_ supply प्राणान् ('you will be parted from your life-breaths').
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -338,6 +338,170 @@ While Apsarases dance and blossoms shower upon Vibhīṣaṇa’s serene ten-tho
 
 “Meanwhile the ten-faced Rāvaṇa (_daśānanaḥ_) remained without food for ten thousand years (_daśa-varṣa-sahasraṃ tu nirāhāraḥ_), and at the completion of each thousand years (_pūrṇe varṣa-sahasre tu_) he offered a head into the sacrificial fire (_śiraś cāgnau juhāva saḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.10.1–2 (Rāma’s Inquiry and Agastya’s Detailed Exposition)**
+
+Having heard in Sarga 9 that the brothers retired to Gokarṇa for penance, Rāma now asks for the exact nature of their discipline. **Rāma Varmā** (_Tilaka_) identifies भ्रातरः as Rāvaṇa, Kumbhakarṇa, and Vibhīṣaṇa (भ्रातरो रावणकुम्भकर्णविभीषणाः), and glosses तांस्तान्धर्मविधीन् in 7.10.2c as ‘those manifold observances of dharma’ (धर्माधिष्ठानानि). **Śivasahāya** (_Śiromaṇi_) observes that Rāma’s question is designed to elicit the full chronicle of Rāvaṇa’s austerity (रावणतपोवर्णनफलकं रामप्रश्नमाह), explaining समाविशन् as ‘undertook and performed’ (अकुर्वन्), which Agastya now recounts in detail to the delighted king.
+
+_____________
+
+**7.10.3–5 (Kumbhakarṇa’s Three-Season Tapas and Vīrāsana)**
+
+$18
+
+_____________
+
+**7.10.6 (Vibhīṣaṇa’s Single-Footed Devotion)**
+
+Shifting from Kumbhakarṇa’s grueling seasonal ordeal to the youngest brother, Vālmīki introduces Vibhīṣaṇa with three moral epithets—_dharmātmā_ (‘righteous-souled’), _nityaṃ dharma-paraḥ_ (‘ever devoted to dharma’), and _śuciḥ_ (‘pure’)—that immediately distinguish his inner disposition from his brothers’ ambition. **Śivasahāya** paraphrases his initial five-thousand-year austerity simply as standing steadily upon a single foot (एकेन पादेन तस्थिवान्). By presenting Kumbhakarṇa first, Vibhīṣaṇa second, and reserving Rāvaṇa’s bloody self-immolation for the climax, Agastya builds a dramatic triad contrasting sheer bodily endurance, serene righteousness, and fierce obsession.
+
+_____________
+
+**7.10.7–8 (Heavenly Acclaim and Vibhīṣaṇa’s Solar Vigil)**
+
+On 7.10.7, **Śivasahāya** (_Śiromaṇi_, following the reading तुष्टुवुः) explains that upon the completion of Vibhīṣaṇa’s first five-thousand-year vow, Apsarases danced and the gods sang his praise, whereas the Southern text followed by **Govindarāja** (_Bhūṣaṇa_) reads क्षुभिताः, depicting the gods astir at his ascetic potency. On 7.10.8, **Rāma Varmā** (_Tilaka_) notes that ऊर्ध्वशिरोबाहुः defines the precise manner of tracking the sun (अनुवर्तनप्रकारमाह), while Govindarāja points out that the particle च in सूर्यं चैव conveys that Vibhīṣaṇa continued standing upon one foot throughout this second five-thousand-year vigil (चकारेण पूर्ववदेकपादस्थितिः समुच्चीयते).
+
+_____________
+
+**7.10.9 (Austerity Experienced as Heavenly Delight)**
+
+All three commentators prize the evocative Nandana-grove simile closing Vibhīṣaṇa’s penance. Both **Rāma Varmā** and **Govindarāja** explain that comparing Vibhīṣaṇa to a deity abiding in Indra’s celestial garden reveals his effortless joy in practicing austerity (स्वर्गस्थस्य देवस्य नन्दन इवेत्यनेन तपःप्रवृत्तिसंतोषो दर्शितः). **Śivasahāya** adds a fine _alaṅkāra_ observation: by this simile (_upamālaṅkāra_), Vālmīki intimates Vibhīṣaṇa’s complete freedom from worldly craving and inner distress (एतदुपमालङ्कारेण विभीषणस्य वासनाराहित्यं सूचितम्), so that ten thousand years glided past like a holiday in paradise.
+
+_____________
+
+**7.10.10–12 (Rāvaṇa’s Terrifying Offering of Nine Heads)**
+
+In dramatic counterpoint to Vibhīṣaṇa’s tranquil joy, Rāvaṇa’s penance is an act of relentless self-mutilation. **Śivasahāya** supplies the implied verb in 7.10.10 (निराहारोऽभवदिति शेषः) and traces the grim arithmetic across 7.10.11: fasting continuously, at the end of every thousand years Rāvaṇa severed one of his heads and cast it as an oblation into the sacrificial fire (प्रतिवर्षसहस्रं शिरोहवनप्रकारेण). Thus nine millennia elapsed and nine heads entered the flames. Only in the tenth millennium, at the exact moment Daśagrīva raised his blade to offer his tenth and final head (7.10.12), did Brahmā himself hasten to intervene.
+
+_____________
+
+**7.10.13–14 (Brahmā’s Gracious Arrival and Offer)**
+
+Appearing flanked by the gods just in time to prevent Rāvaṇa’s fatal self-decapitation, Brahmā rewards the ten-thousand-year austerity with immediate favor. **Śivasahāya** (_Śiromaṇi_) construes verses 7.10.13–14 as a single connected period (श्लोकद्वयमेकान्वयि): gratified by Daśagrīva’s perseverance, the Grandsire bids him name his longed-for boon without delay, assuring him that his immense exertion (_pariśrama_) will not go unrewarded. Brahmā’s vocative धर्मज्ञ (‘knower of dharma’) acknowledges the scrupulous rigor of the vow itself, even though the petition that follows will expose Rāvaṇa’s profoundly self-centered vision of existence.
+
+_____________
+
+**7.10.15–16 (Rāvaṇa’s Demand for Immortality)**
+
+Overjoyed at the Creator’s presence, Rāvaṇa bows his head and speaks with a voice trembling with elation (_harṣa-gadgadayā girā_). **Śivasahāya** paraphrases Rāvaṇa’s stark existential premise in 7.10.16: among living creatures there is no real terror other than death (मरणादन्यत्र अन्यत् प्राणिनां भयं न), hence no foe equals Death himself, and therefore Rāvaṇa petitions outright for immortality (अमरत्वमहं वृणे). The philosophical foil to Vibhīṣaṇa is already set in motion: whereas Vibhīṣaṇa will later equate ultimate fulfillment with steadfast righteousness, Rāvaṇa conceives supreme power solely as physical invulnerability.
+
+_____________
+
+**7.10.17–18 (The Cosmic Limit Upon Absolute Deathlessness)**
+
+In this two-verse exchange preserved by the Southern Recension, Brahmā enforces the fundamental law of created existence: unconditional immortality (_sarvāmaratvam_) is barred to Rāvaṇa, and he must select another boon. **Rāma Varmā** (_Tilaka_) clarifies the enclitic मे in 7.10.17d in an ablative sense—‘choose another boon from me’ (मे मत्तः)—while **Śivasahāya** paraphrases the refusal directly (सर्वामरत्वं ते नास्ति अतोऽन्यं वरं वृणीष्व). Accepting the Creator’s boundary without protest, Daśagrīva joins his palms in 7.10.18 to craft the fateful conditional invulnerability that fatally omits humankind.
+
+_____________
+
+**7.10.19–20 (Rāvaṇa’s Fatal Contempt for Mortals)**
+
+Denied absolute immortality, Daśagrīva enumerates every superhuman order in creation—Suparṇas, Nāgas, Yakṣas, Daityas, Dānavas, Rākṣasas, and Devas. **Rāma Varmā** (_Tilaka_) notes that he now specifies the boon conditionally (उक्तमेव वरं सविशेषमाह), while **Śivasahāya** (_Śiromaṇi_) supplies the implied optative (अवध्योऽहं भवेयमिति शेषः). Anticipating the objection ‘if peril remains from other creatures, what use is such a prayer?’ (ननु अन्येभ्यो भयसंभवे किमनया प्रार्थनयेत्यत आह), Śivasahāya highlights Rāvaṇa’s hubris in 7.10.20: dismissing ordinary mortals (प्राकृता मनुष्यप्रभृतयः प्राणिनः) as mere grass before him (ममाग्रे तृणभूताः), he unwittingly crafts the exact opening for Viṣṇu’s human incarnation as Rāma.
+
+_____________
+
+**7.10.21–22 (The Grandsire Seals the Boon)**
+
+Brahmā promptly ratifies Rāvaṇa’s petition before the assembled deities. **Śivasahāya** construes verses 7.10.21–23a as a single unified sentence (श्लोकत्रयमेकान्वयि), glossing ते वचः as ‘your longed-for request’ (अभिलषितमित्यर्थः): ‘Even so shall your word come to pass, O bull among Rākṣasas!’ Having bound cosmic law to Rāvaṇa’s invulnerability against every celestial and demonic host, the Grandsire’s epithet _dharmātmā_ underscores the impartiality of ascetic merit—yet Brahmā does not stop with what was requested, proceeding immediately to reward Rāvaṇa’s severe physical self-sacrifice.
+
+_____________
+
+**7.10.23–24 (Restoration of the Nine Heads and a Second Unsolicited Boon)**
+
+**Rāma Varmā** clarifies Brahmā’s transition in 7.10.23ab: ‘Listen as well, for another auspicious boon is now being granted to you’ (भूयोऽन्यः शुभो वरो दीयते तच्छृणु). **Śivasahāya** paraphrases 7.10.23cd–24ab cleanly: all nine heads previously cast into the fire shall be restored to Rāvaṇa exactly as they were (पुनस्तथैव भविष्यन्ति). Linking the Southern half-verse 7.10.24cd directly to the next verse, Śivasahāya glosses वितरामि as ‘I bestow’ (ददामि), introducing the ‘hard-to-attain’ (_durāsada_) power of shape-shifting at will.
+
+_____________
+
+**7.10.25–26 (Shape-Shifting at Will and Restoration of the Ten Heads)**
+
+Completing the extra gift announced in 7.10.24cd, **Rāma Varmā** (_Tilaka_) explains 7.10.25: whatever form Rāvaṇa conceives in his mind shall manifest purely by his will (मनसा यद्यथेप्सितं रूपं तत्तच्छन्दत इच्छामात्रेण भविष्यति), accounting for the illusionistic disguises Daśagrīva employs throughout the epic. Immediately upon Brahmā’s pronouncement, as **Śivasahāya** (_Śiromaṇi_) notes on 7.10.26, the nine heads offered into the fire rose up anew (पुनरुत्थितानि अभवन्निति शेषः), leaving Rāvaṇa physically whole and ten-headed once more.
+
+_____________
+
+**7.10.27–29 (Brahmā’s Affection and the Lunar Simile for Vibhīṣaṇa)**
+
+Turning from Rāvaṇa to Vibhīṣaṇa, the Grandsire’s tone shifts noticeably to paternal tenderness: ‘Child (_vatsa_), righteous-souled one of steadfast vows, I am wholly gratified by your dharma-centered intellect.’ **Śivasahāya** glosses परितुष्टः as ‘thoroughly pleased by you’ (त्वया परितोषितोऽस्मि) and notes on 7.10.29 how Vibhīṣaṇa—surrounded by every noble virtue just as the full moon is surrounded by its cool rays (सर्वगुणैर्वृतः)—speaks with joined palms. The cool, luminous lunar imagery sets Vibhīṣaṇa’s serene harmony in vivid poetic opposition to Rāvaṇa’s fiery, violent ambition.
+
+_____________
+
+**7.10.30 (Selfless Fulfillment in the Lord’s Grace Alone)**
+
+Vibhīṣaṇa’s opening response exemplifies _niṣkāma-bhakti_ (desireless devotion). **Rāma Varmā** illuminates the theology of कृतकृत्योऽहम्: ‘O Lord, preceptor of the worlds who bestows even liberation (लोकगुरुर्मुक्तिदाता), simply because you are pleased with me I have attained every human end (सर्वपुरुषार्थलाभवान्), since your favor alone is the means to all goals of life (त्वत्प्रीतेरेव सर्वपुरुषार्थसाधनत्वात्).’ **Śivasahāya** supplies the immediate context: because the Lord of the worlds has come in person to his presence (स्वयं मे समीपमागत इति शेषः), Vibhīṣaṇa already counts himself fulfilled, and speaks a petition only out of obedience to Brahmā’s pleasure.
+
+_____________
+
+**7.10.31 (Dharma as Nārāyaṇa and the Untaught Brahmāstra)**
+
+**Rāma Varmā** (_Tilaka_) gives 7.10.31 a celebrated Vedāntic reading: to avoid redundancy with 7.10.32 (‘may every thought be righteous’), he cites the epic dictum रामो विग्रहवान्धर्मः (‘Rāma is Dharma incarnate’) and interprets धर्मे here as Lord Nārāyaṇa himself—‘even in supreme worldly calamity, may my mind stay fixed on Nārāyaṇa!’ He further glosses अशिक्षितम् as ‘even without formal instruction’ (समुपदेशं विनापि) and takes ब्रह्मास्त्रम् spiritually as _Brahmavidyā_ removing all obstacles to liberation, whereas **Govindarāja** (_Bhūṣaṇa_) glosses it as the _brahmāstra_ mantra (ब्रह्मास्त्रमन्त्रम्) and links 31–32 as one sentence.
+
+_____________
+
+**7.10.32–33 (Righteousness Across All Āśramas as the Supreme Boon)**
+
+Both **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** normalize the epic verb पालये to optative पालयेयम् (‘may I uphold’). Śivasahāya explains that in every stage of life (येषु येषु आश्रमेषु), Vibhīṣaṇa prays for intellect aligned with the proper duties of that station (तत्तदाश्रमोचितधर्मविशिष्टा). Anticipating the query ‘why does he not ask for dominion or wealth?’ (ननु ऐश्वर्यादिः कुतो न प्रार्थ्यत इत्यत आह), Śivasahāya points to 7.10.33cd: nothing in the world is out of reach for those devoted to dharma, making this boon supreme (परमकः अत्युत्तमः). Rāma Varmā glosses परमोदार as ‘most munificent giver’ (परमदातः).
+
+_____________
+
+**7.10.34–36 (Unsolicited Immortality and the Gods’ Alarm)**
+
+Deeply moved, Brahmā grants Vibhīṣaṇa’s prayer and freely adds the very gift he had denied Rāvaṇa—immortality (मरणराहित्यम्, **Śivasahāya**). **Rāma Varmā** draws the defining moral of the entire sarga: because Vibhīṣaṇa’s mind never swerves to adharma despite his Rākṣasa birth, he effortlessly receives unasked immortality from Brahmā, demonstrating that selfless worship of the divine secures every human goal (निष्कामतया देवोपासनं सर्वार्थसाधनमिति बोध्यम्). Immediately in 7.10.36, as Brahmā turns toward Kumbhakarṇa, the terrified gods rush forward with joined palms to stay his hand.
+
+_____________
+
+**7.10.37–38 (The Gods’ Catalogue of Kumbhakarṇa’s Ravages)**
+
+Alarmed at the prospect of an empowered Kumbhakarṇa, the deities intercede directly before Brahmā can speak to him. **Rāma Varmā** (_Tilaka_) links 7.10.37 and 7.10.38 closely: after reminding the Creator that he already knows how this wicked-minded giant terrorizes the worlds, the gods supply the concrete proof (तदेव दर्शयति). **Śivasahāya** (_Śiromaṇi_) specifies नन्दने as Indra’s celestial park (इन्द्रवने), where Kumbhakarṇa devoured seven Apsarases and ten of Mahendra’s retainers, supplying बहवः (‘multitudes’) for the sages and mortals he also consumed.
+
+_____________
+
+**7.10.39 (The Peril to the Triple World)**
+
+Expounding this verse peculiar to the Southern Recension, **Govindarāja** (_Bhūṣaṇa_) resolves अलब्धवरपूर्वेण as ‘previously without a boon’ (पूर्वमलब्धवरणेन) and normalizes the inverted compound वरलब्धः to लब्धवरः: given the voracious deeds he already perpetrated unassisted, were he now to acquire a boon he would swallow all three worlds (भुवनत्रयमपि भक्षयेदित्यर्थः). **Śivasahāya**, commenting on the variant अलब्धवरपूर्णेन, draws the same causal inference (_yasmāt ... tasmāt_): Kumbhakarṇa’s insatiable hunger makes any martial boon an existential threat to cosmic order.
+
+_____________
+
+**7.10.40–41 (Delusion as Boon and the Summoning of Sarasvatī)**
+
+Because Kumbhakarṇa’s ten-thousand-year austerity cannot simply go unrewarded, the gods devise an ingenious compromise: grant him bewilderment (_moha_) in the guise of a boon. **Rāma Varmā** and **Govindarāja** gloss मोहः as ‘loss of judgment’ (अज्ञानम्), and **Śivasahāya** as ‘absence of discernment’ (विवेकाभावः). Commentators diverge subtly on the closing noun: reading सम्मतिः, Tilaka and Śiromaṇi interpret it as ‘due honor’ (माननम् / सम्माननम्) saving face for the ascetic, whereas Govindarāja reads सन्नतिः and glosses it as ‘chastening restraint’ (शिक्षा). On 7.10.41, all three supply देवीम् / सरस्वतीम् as the object of अचिन्तयत्: summoned by sheer thought, Goddess Sarasvatī appears instantly.
+
+_____________
+
+**7.10.42–43 (Brahmā’s Mandate to Goddess Vāṇī)**
+
+Appearing obediently beside Brahmā with joined palms, Sarasvatī asks what mission awaits her. All three commentators unpack Brahmā’s terse charge in 7.10.43cd with crisp precision. **Rāma Varmā** (_Tilaka_) explains: ‘Within his mouth become the speech coveted by the deities, so that words favorable to the gods issue from the petitioning Kumbhakarṇa’s lips’ (अस्यास्ये देवतेप्सिता देवानामिष्टा वाग्भव । याचतः कुम्भकर्णस्य वदनाद्देवानुकूला वाङ्निःसरेदित्यर्थः). **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) concur, glossing देवतेप्सिता as ‘providing what the gods desire’ (देवानामीप्सितप्रदा) and ‘taking the very form longed for by the deities’ (यादृशी दैवतैः काङ्क्षिता तादृशी भव).
+
+_____________
+
+**7.10.44 (Sarasvatī’s Entry Before the Invitation)**
+
+Consenting with ‘So be it’, the goddess of speech slips unseen into Kumbhakarṇa’s faculty of utterance. **Śivasahāya** explicitly supplies the locus of प्रविष्टा: ‘she entered into Kumbhakarṇa’s mouth’ (कुम्भकर्णस्य मुखे इति शेषः), while **Govindarāja** clarifies that she entered specifically in the form directed by the deities (देवतोक्तरूपा प्रविष्टा). **Rāma Varmā** highlights the deliberate timing of अथाब्रवीत्: only _after_ Sarasvatī has taken hold of Kumbhakarṇa’s tongue (सरस्वतीप्रवेशानन्तरमित्यर्थः) does Prajāpati formally invite the giant to choose whatever boon he wishes (यो मत ईप्सितः, Śiromaṇi).
+
+_____________
+
+**7.10.45 (The Boon of Sleep and Its Reconciliation with the Yuddhakāṇḍa)**
+
+Guided by Sarasvatī, Kumbhakarṇa asks to sleep for ‘many years’ (_varṣāṇy anekāni_). **Śivasahāya** invokes the Mīmāṃsā _Kapiñjalādhikaraṇa_ maxim (where an unspecified plural signifies at least three), explaining that preventing Kumbhakarṇa from requesting an invincibility boon already satisfied the gods; he reconciles this verse with the _Yuddhakāṇḍa_ account (where Brahmā, entreated by Rāvaṇa, grants one waking day every six months) by noting that the boon here sets no contradiction with that subsequent modification. **Rāma Varmā** likewise harmonizes both passages (on 45–46): the rule forbids waking before six months while allowing sleep to extend far longer, fully matching Vibhīṣaṇa’s earlier report.
+
+_____________
+
+**7.10.46–47 (Brahmā’s Departure and Kumbhakarṇa’s Awakening)**
+
+Sealing the stratagem with an instant ‘So be it’, Brahmā ascends skyward with the deities while Sarasvatī quits Kumbhakarṇa’s tongue. **Śivasahāya** (_Śiromaṇi_) paraphrases both Southern verses crisply: once the gods had risen into the sky (देवेषु नभःस्थलं गतेषु सत्सु), Kumbhakarṇa, released by Sarasvatī, recovered his own natural awareness (स्वां संज्ञां प्रकृतिं गतोऽभवदिति शेषः). **Rāma Varmā** (_Tilaka_) likewise glosses स्वां संज्ञां गतः as regaining his former understanding (यथापूर्वबुद्धिं प्राप्तः), heightening the comic-tragic jolt of his sudden sobriety.
+
+_____________
+
+**7.10.48–49a (Realization of Divine Delusion)**
+
+Recovering his wits a moment too late, the grieving giant reflects upon his own disastrous words. **Śivasahāya** explains किम् in 7.10.48c as ‘for what reason?’ (किमर्थं च्युतम्)—how could such a request slip from my lips?—and marks 7.10.49a as his bitter certainty (निश्चयमाह): he has been duped by the visiting gods. The ironic symmetry of the three boons is complete: Rāvaṇa demanded immortality and got a flawed invulnerability; Vibhīṣaṇa asked only for dharma and received immortality; Kumbhakarṇa sought power and won endless sleep.
+
+_____________
+
+**7.10.49b–f (Return to Viśravas’s Śleṣmātaka Grove)**
+
+Closing the tenth sarga with a six-quarter verse, Agastya brings the brothers’ forest austerities to a quiet close: endowed with their respective boons, the three radiant brothers withdraw to the Śleṣmātaka forest and reside there in contentment. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) identify श्लेष्मातकवनम् specifically as their father Viśravas’s hermitage grove abounding in _śleṣmātaka_ trees (तत्प्रचुरं पितुस्तपोवनमित्यर्थः). This brief peace immediately sets the stage for Sarga 11, where their maternal grandfather Sumālī rises from Rasātala to incite Rāvaṇa toward Laṅkā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

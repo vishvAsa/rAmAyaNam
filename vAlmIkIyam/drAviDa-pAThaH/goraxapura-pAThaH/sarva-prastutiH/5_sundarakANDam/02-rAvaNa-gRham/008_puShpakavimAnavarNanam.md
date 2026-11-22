@@ -520,5 +520,43 @@ appearance than even the spring season.
 
 **8:** Lovely to behold with heaps of vernal blossoms (_vasantapuṣpotkaracārudarśanam_), and even lovelier to behold than the season of spring itself (_vasantamāsād api cārudarśanam_)—that foremost of monkey heroes beheld there that supreme aerial palace Puṣpaka (_sa puṣpakaṃ tatra vimānam uttamaṃ dadarśa tad vānaravīrasattamaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.8.1–2 (Viśvakarman's Masterpiece and the Wind-Path)**
+
+$18
+
+_____________
+
+**5.8.3 (Fourfold Emphatic Litotes)**
+
+Through four double negatives (न तत्र किंचिन्न...), the poet emphasizes that every single part of Puṣpaka is painstakingly crafted, studded with priceless gems, and endowed with artistic excellences (रचनाविशेषाः) unmatched even in the aerial cars of the gods (सुरविमानेष्वपि न).
+
+_____________
+
+**5.8.4 (Won by Austerity and Guided by Thought)**
+
+Construing verses 4–8 as a five-stanza syntactic period (पञ्चकं कुलकम्) governed by ददर्श in verse 8, the commentators note that Puṣpaka was first won by Kubera through asceticism and mental absorption and then by Rāvaṇa through valor (तपस्समाधानेन पराक्रमेण च अर्जितम्). On the masculine accusative मनःसमाधानविचारचारिणम् qualifying विमानम्, **Tilaka** and **Śiromaṇi** explain that विमान belongs to the _ardharcādi_ class of nouns admitting both masculine and neuter gender (विमानशब्दोऽर्धर्चादिर्वा).
+
+_____________
+
+**5.8.5 (Prosodic Shortening vs. Possessive Suffix in Maharddhinām)**
+
+Moving as soon as its master focuses his mind—because its presiding deity is sentient (तदभिमानिदेवतायाश्चित्त्वरूपत्वात्)—Puṣpaka is like the celestial abode of Indra and the blessed (अग्र्यमुदाम् इन्द्रादीनाम्). On the short _i_ in महर्द्धिनाम्, **Tilaka** calls the absence of lengthening Vedic/epic (दीर्घाभावश्छान्दसः), and **Govindarāja** quotes the prosodic maxim permitting short for long to avoid breaking the meter (अपि माषं मषं कुर्याच्छन्दोभङ्गं न कारयेत्); **Śiromaṇi**, however, defends it as regular Pāṇinian grammar by deriving it as an _in_-stem (महर्द्धिनः) rather than an _i_-stem (महर्द्धिरस्ति येषु तेषाम् एतेन दीर्घाभाव आर्ष इति भट्टोक्तिश्चिन्त्या).
+
+_____________
+
+**5.8.6 (Distinguishing the Repeated Vicitrakūṭam)**
+
+On the threefold play on कूट in verse 6, **Tilaka** glosses the first विचित्रकूटं as `a repository of wondrous objects' (आश्चर्यवस्तूनां कूटं समवायभूतम्), बहुकूटमण्डितं as `adorned with many halls' (बहुभिः कूटैः शालाभिर्मण्डितम्), and the second विचित्रकूटं as `having variegated subsidiary crags like a mountain peak' (विचित्रावान्तरशृङ्गवच्छिखरमिव), while **Govindarāja** distinguishes minor peaks (कूटः अवान्तरशृङ्गं) from the main summit (शिखरं महाशृङ्गम्).
+
+_____________
+
+**5.8.7–8 (The Aerial Bhūtagaṇa Bearers and Vernal Beauty)**
+
+Thousands of sky-coursing _bhūtagaṇas_ with rolling, unblinking eyes (विवृत्तानि आघूर्णितानि विध्वस्तानि निमेषरहितानि) bear the Puṣpaka car, which is even lovelier than the month of spring itself (वसन्तमासादपि चारुदर्शनम्).
+</details>
 </details>
 

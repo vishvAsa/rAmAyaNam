@@ -852,6 +852,80 @@ the sky. There were royal houses named vardhamana which were adorned with a net 
 
 **19:** that peerless palace upon the earth resembled the abode of Mahendra himself; blazing with royal splendor, the prince entered that residence of his father.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.17.1–3 (patākādhvaja and madhyena)**
+
+Govindarāja (_Bhūṣaṇa_) introduces the seventeenth canto as Rāma’s royal procession to the king (अथ रामस्य राजसमीपगमनं सप्तदशे) and distinguishes the two banner types in पताकाध्वजसंपन्नम्: पताकाः are pennants unmarked with specific insignia (अनामाङ्किताः), whereas ध्वजानि bear emblems (तदङ्कितानि). Śivasahāya (_Śiromaṇi_) notes that vv. 1–2a form a single one-and-a-half-_śloka_ syntactic unit (सार्धश्लोक एकान्वयी). On मध्येन (v. 3b), Nāgeśa Bhaṭṭa (_Tilaka_) glosses उभयश्रेणीमध्येन (“between the two flanking rows”), while Govindarāja explains the instrumental case via the प्रकृत्यादि class (वीथीमध्येन प्रकृत्यादित्वात्तृतीया).
+
+_____________
+
+**2.17.4 (kṣaumakauśāmbara and aviddhābhiḥ)**
+
+_Tilaka_ and _Śiromaṇi_ explain क्षौमम् as flax-linen (अतसीजम्) and कोशं as woven silk (पट्टवस्त्रम्), whereas Govindarāja cites _Amara_ (क्षौमं दुकूलम्) to gloss क्षौमम् as fine _dukūla_ cloth and कोशाम्बरम् as कौशेयम्. On the pearls (मुक्ताभिः), _Tilaka_ and _Śiromaṇi_ read आविद्धाभिः (कृतच्छिद्राभिः, “pierced for stringing”) while recording अविद्धाभिः (अकृतच्छिद्राभिः), which Govindarāja adopts to denote large unpierced pearls (अकृतरन्ध्राभिः स्थूलाभिरिति यावत्).
+
+_____________
+
+**2.17.5–6 (rājapatham syntax)**
+
+Both _Śiromaṇi_ and Govindarāja address the syntactic unity of vv. 3–6 (अर्धनवकमेकान्वयि): Govindarāja notes that the repeated accusative तं राजपथम् construes first with ददर्श (v. 6a) and second with ययौ (v. 8b), while _Tilaka_ links v. 5b to ददर्श and vv. 6–7 to ययौ (एवं दृष्ट्वा तं राजपथं ययाविति संबन्धः).
+
+_____________
+
+**2.17.7–8 (abhyarcitacatvaram and yathārham)**
+
+Govindarāja (_Bhūṣaṇa_) cites _Amara_ (अङ्गणं चत्वराजिरे) to gloss अभ्यर्चितचत्वरम् as courtyards worshiped on every side (प्रतिपूजिताङ्गणम्), and explains along with Nāgeśa Bhaṭṭa (_Tilaka_) that Rāma honored all citizens according to rank (यथार्हम्) through glances, eyebrow-gestures, kind words, and folded hands (वीक्षणभ्रूक्षेपवचनाञ्जलिप्रणामादिभिः).
+
+_____________
+
+**2.17.8c–10 (pitāmahaiḥ and paramārthaiḥ)**
+
+Śivasahāya (_Śiromaṇi_) identifies vv. 8c–9 as the citizens’ prayer (प्रजोक्तिम्), specifying पितामहैः as Raghu and Aja (रघ्वजाभ्याम्). On v. 10, _Tilaka_ explains that if they behold Rāma emerging consecrated (प्राप्तराज्याभिषेकं), they need neither worldly food (भुक्तेन) nor heaven-winning rites (परमार्थैः स्वर्गसाधनैश्च कर्मभिः), noting an ominous dramatic irony in यदि (यद्यन्तर्भावेण विपरीतसंभावनादर्शनम्); Govindarāja reads यथा पश्याम as an optative prayer (प्रार्थनायां लोट्) and glosses परमार्थैः as _japa_, _homa_, and meditation (जपहोमध्यानादिभिः).
+
+_____________
+
+**2.17.11–12 (rājyena and udāsīnaḥ)**
+
+_Tilaka_ justifies the instrumental राज्येन in v. 11d as a causal instrumental (हेतौ चेति विहिता) where the result (फल) is viewed as cause (फलस्यापि हेतुत्वेन विवक्षा). In v. 12, all three commentators highlight उदासीनः: Rāma remains inwardly unmoved by elation or pride while hearing his own praises (स्तुतिजहर्षादिविकाररहितः [_Tilaka_]; स्वाभिषेकोत्साहरहितः [_Śiromaṇi_]; स्तुतिश्रवणेन निर्विकारः [_Bhūṣaṇa_]).
+
+_____________
+
+**2.17.13 (atikrānte 'pi rāghave)**
+
+Explaining why no citizen can tear mind or eyes away from Rāma even after he has passed beyond their line of sight (दृष्टिपथम्), Nāgeśa Bhaṭṭa (_Tilaka_) notes that through intense devotion he continues to flash directly before them (अत्यन्तभक्तासक्त्या पुर इव परिस्फुरणात्). Govindarāja (_Bhūṣaṇa_) adds two _a fortiori_ (किमुत) inferences: if even men (नरः) cannot look away, how much less the women (किमुत नारीजन इति भावः); and if so when he has passed by, how much more when he stands before them (किमुत संनिहित इत्याशयः).
+
+_____________
+
+**2.17.14 (yaś ca rāmaṃ na paśyet)**
+
+On this celebrated Southern Recension verse, _Tilaka_ offers both Advaitic and devotional readings: one who fails to behold Rāma as the inner Self (आत्मस्वरूपत्वेनान्तर्यामित्वेन वा) or in his incarnate form (यथास्थितवेषधारिणं वा) is reviled even by his own conscience (स्वात्मा स्वान्तःकरणमप्येनं विगर्हते), illustrating the figure _vinokti_ (विनोक्तिरलंकारः). Govindarāja gives a Śrīvaiṣṇava reading: Rāma plunges beholders into a full ocean of nectar (परिपूर्णामृतसरसि मज्जयन्तमपि), and since the Lord’s merciful glance responds to human turning toward Him (नरस्याभिमुख्ये हि भगवान् कटाक्षयति), one who fails to look upon Rāma forfeits His grace.
+
+_____________
+
+**2.17.15–16 (vayaḥsthānām and pradakṣiṇam)**
+
+Both _Tilaka_ and Govindarāja construe वयःस्थानाम् either as an adjective (वयोऽनुरूपां दयाम्, “compassion suited to each person’s age”) or as “the aged” (वृद्धानाम्). In v. 16, _Tilaka_ and _Śiromaṇi_ explain प्रदक्षिणं परिहरन् as passing to the left of crossroads and shrines so as to keep them auspiciously on his right (दक्षिणभागगमनं परिहरन्नित्यर्थः).
+
+_____________
+
+**2.17.18–19 (vardhamānagṛhaiḥ and gṛhavaram)**
+
+Completing the _ardha-ṣaṭka_ sentence spanning vv. 17–19 (अर्धषट्कमेकान्वयि), Nāgeśa Bhaṭṭa (_Tilaka_) and Śivasahāya (_Śiromaṇi_) gloss वर्धमानगृहैः as royal pleasure-pavilions (क्रीडागृहैः / क्रीडावेश्मभिः) adorned with jewel-lattice windows (रत्नगवाक्षालंकृतैः), whereas Govindarāja (_Bhūṣaṇa_) interprets them architecturally as mansions built upon bases conforming to _vimāna_ Vāstu specifications (वैमानलक्षणाधिष्ठानसमेतगृहैः). Govindarāja also cites _Amara_ (कुलं गृहेऽपि) to show that राजकुलम् (v. 17a) denotes the royal palace, peerless upon the earth (पृथिव्यां गृहवरं पृथिव्यामद्वितीयम्).
+
+_____________
+
+**2.17.20–21 (pañca-kakṣyā protocol and śuddhāntaḥpuram)**
+
+All three commentators trace the five-courtyard (उक्तपञ्चकक्ष्याः) protocol of Daśaratha’s palace: Rāma traverses the first three archer-guarded outer courtyards (तिस्रः कक्ष्याः) by horse-drawn chariot (वाजिभी रथयुक्तैः) and crosses the remaining two inner courts (अपरे द्वे कक्ष्ये) on foot (पदातिः पादचारी). Dismissing his retinue (अनुयायिवर्गं संनिवर्त्य), he enters the inner royal apartments (शुद्धान्तःपुरम्).
+
+_____________
+
+**2.17.22 (candramasaḥ saritpatiḥ)**
+
+On the concluding _Upajāti_ simile, _Śiromaṇi_ explains that once Rāma entered his father’s presence (तस्मिन् रामे प्रविष्टे सति), the joyous multitude outside eagerly awaited his re-emergence (निर्गमं राजगृहादागमनं पुनः प्रतीक्षते स्म) just as the ocean (सरित्पतिः समुद्रः) awaits the rising of the moon (चन्द्रमसः उदयम्), whose sight causes it to swell with joy.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

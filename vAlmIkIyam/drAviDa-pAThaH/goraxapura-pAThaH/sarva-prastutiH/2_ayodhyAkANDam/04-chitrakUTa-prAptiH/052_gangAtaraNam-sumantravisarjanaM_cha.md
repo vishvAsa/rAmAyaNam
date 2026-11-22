@@ -2771,6 +2771,314 @@ your loving assent with the words �be my close associate!"
 
 Be gracious! I wish to remain right beside you in the forest (_te ’raṇye bhavituṃ pratyanantaraḥ_); I long for it to be spoken by you with affection: ‘Stay right beside me (_bhava me pratyanantaraḥ_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.52.1–2 (pṛthuvakṣāḥ & kokilaḥ)**
+
+On v. 1, **Govindarāja** (_Bhūṣaṇa_) notes that पृथुवक्षाः conveys Rāma's vigour (उत्साहातिरेकोक्तिः) and महायशाः his adherence to _dharma_. On v. 2, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that कोकिलः denotes a crow (“nursed by the cuckoo,” कोकिलपालकत्वात्), since uttering काक at dawn is inauspicious (काकेति नामग्रहणस्य प्रातर्निन्द्यत्वादेवमुक्तिः); **Govindarāja** (_Bhūṣaṇa_) takes सुकृष्णो विहगः as the _Bharadvāja_ bird and the cuckoo (भरद्वाजः कोकिलः कोकिलश्चेत्यर्थः).
+
+_____________
+
+**2.52.3–4 (śīghragām & vijñāya)**
+
+In v. 3, **Govindarāja** (_Bhūṣaṇa_) remarks that वने नदताम् highlights the deep calls of wild peacocks, while शीघ्रगाम् implies that the river cannot be crossed without a boat (नावं विना दुस्तरत्वोक्तिः). On v. 4, all three explain that Lakṣmaṇa grasped Rāma's implied wish for a boat (तरणसाधनं शीघ्रमानेयम्) and conveyed it by addressing Guha and Sumantra.
+
+_____________
+
+**2.52.5–6 (vāhanasaṃyuktām & karṇagrāhavatīm)**
+
+On v. 6, all three commentators gloss वाहन as an oar (अरित्रम्) and कर्णग्राहः as a helmsman (कर्णधारः), _Bhūṣaṇa_ citing the _Nighaṇṭu_ (कर्णः श्रोत्रमरित्रं च).
+
+_____________
+
+**2.52.7–9 (upohya & amarasutaprakhya)**
+
+On v. 7, all three commentators gloss उपोह्य as bringing the boat near the bank (समीपं प्रापय्य). On v. 9, **Śivasahāya** (_Śiromaṇi_) offers an ingenious analysis of अमरसुतप्रख्य: taking अमरा as “undying” (ध्वंसाप्रतियोगिनी) and सुतप्रख्या as the renown of being King Daśaratha's son (दशरथसुतेति नाम), the compound addresses Rāma as one whose filial fame is imperishable.
+
+_____________
+
+**2.52.10 (āropyatām)**
+
+On v. 10, **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) supply the unexpressed subject of the passive imperative आरोप्यताम्: the spades, baskets, and Vaidehī's garments and ornaments (खनित्रपिटकवैदेहीवस्त्राभरणादिकमिति शेषः) should be loaded onto the boat first.
+
+_____________
+
+**2.52.11–12 (sannahya & rāmam eva tu)**
+
+In v. 11, all three commentators take संनह्य independently as “having donned their armour” (कवचं बद्ध्वा) before strapping on their quivers (कलापान् तूणीरान्) and swords. On v. 12, _Tilaka_ explains एवं तु (reading राममेवं तु) as “while Rāma was thus walking on foot without his chariot” (रथादिनिरपेक्षं गच्छन्तं तु).
+
+_____________
+
+**2.52.13–15 (uttamadakṣiṇena & etāvad dhi)**
+
+On v. 13, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain उत्तमदक्षिणेन as Rāma's noble right hand whose very touch dispels all sorrow (स्पर्शमात्रेण सकलदुःखहारकत्वात्), whereas **Govindarāja** (_Bhūṣaṇa_) takes उत्तम as a vocative addressing Sumantra. On v. 14, all three commentators note that the particle हि indicates that riding the chariot as far as the Gaṅgā fulfilled King Daśaratha's express command (राजाज्ञाद्योतनम्, _Bhūṣaṇa_).
+
+_____________
+
+**2.52.16 (nātikrāntam)**
+
+On v. 16, **Rāma Varmā** (_Tilaka_) gives two explanations of नातिक्रान्तम्: first, that no mortal can transgress destiny (दैवं केनाप्यतिक्रान्तं लङ्घितं न); second, aligning with **Govindarāja** (_Bhūṣaṇa_), that no citizen of Ayodhyā ever consented to (नातिक्रान्तं नाङ्गीकृतम्) Rāma's living in the woods like a commoner (प्राकृतवत् क्षुद्रस्येव).
+
+_____________
+
+**2.52.17–18 (mārdavārjavayoḥ & gatim)**
+
+In v. 17, **Śivasahāya** (_Śiromaṇi_) distinguishes मार्दवम् (compassionate tenderness, दयालुत्वम्) from आर्जवम् (sincere speech toward even enemies). In v. 18, _Tilaka_ and _Śiromaṇi_ gloss गतिम् as bliss (सुखम्), while _Bhūṣaṇa_ glosses it as peerless fame (कीर्तिम्).
+
+_____________
+
+**2.52.19–20 (upavañcitāḥ & ātmasamam)**
+
+On v. 19, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain उपवञ्चिताः as “tricked by you”: the citizens were slipped away from at night while asleep, and Sumantra is now forcibly turned back after being led near the woods. Reading यत्त्वया सह वञ्चिताः, **Śivasahāya** (_Śiromaṇi_) construes कैकेय्या as Kaikeyī's maid Mantharā, who deceived them along with Rāma. On v. 20, _Tilaka_ and _Śiromaṇi_ take आत्मसमम् adverbially as “befitting a wise minister” (अमात्योचितम्).
+
+_____________
+
+**2.52.21–22 (spṛṣṭodakam)**
+
+On v. 21, **Govindarāja** (_Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_), and **Śivasahāya** (_Śiromaṇi_) note that because shedding tears causes ritual impurity (रोदनस्याशुचिताहेतुत्वात्, _Bhūṣaṇa_), Sumantra performed _ācamana_ (आचान्तम्) to become pure (शुचिम्) before listening to Rāma.
+
+_____________
+
+**2.52.23–24 (kāmabhārāvasannaḥ & avikāṅkṣayā)**
+
+In v. 23, _Tilaka_ explains कामभारावसन्नः either as afflicted by passion or as crushed by the collapse of his cherished desire to crown Rāma (अवसन्नो मदभिषेकादिमनोरथसमूहः). In v. 24, all three gloss अविकाङ्क्षया as without disrespect or hesitation (अनादराभावेन).
+
+_____________
+
+**2.52.25–26 (praśāsati & alīkam)**
+
+On v. 25, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that प्रशासति is 3rd plural with elision of the nasal as a reduplicated-class verb (अभ्यस्तत्वाददादेशः), and explain सर्वकृत्येषु as extending even to actions prompted by desire or anger (कामात् क्रोधाद्वा प्रवृत्तेषु). In v. 26, _Tilaka_ and _Bhūṣaṇa_ gloss अलीकम् as what is displeasing (अप्रियम्, citing _Amara_), while **Śivasahāya** (_Śiromaṇi_) glosses it as listlessness (औदासीन्यम्).
+
+_____________
+
+**2.52.27–28 (mama hetoḥ & vatsyāmaheti)**
+
+On v. 27, _Tilaka_ and _Bhūṣaṇa_ explain मम हेतोः as “acting as my representative” (मम प्रतिनिधित्वेन). On v. 28, all three commentators flag the irregular epic sandhi in वत्स्यामहेति (वत्स्यामहे + इति).
+
+_____________
+
+**2.52.29–30 (punaḥ punaḥ & kaikeyīṃ ca)**
+
+In v. 29, _Bhūṣaṇa_ takes पुनः पुनः as iterative (_vīpsā_) expressing constant affectionate beholding (आदरातिशयेन सदा द्रक्ष्यसि). On v. 30, _Tilaka_ stresses that including Kaikeyī is not ironic (न व्यङ्ग्योक्तिः), since Rāma views his exile as the work of destiny and holds her blameless (दैवकृतत्वेनास्या अनपराधित्वम्).
+
+_____________
+
+**2.52.31 (pādābhivandanam & āryasya)**
+
+On v. 31, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) take आर्यस्य with मम (“of me, the eldest”), whereas **Govindarāja** (_Bhūṣaṇa_) connects आर्यस्य with लक्ष्मणस्य, praising Lakṣmaṇa's noble fidelity to his elder brother (शास्त्रोदितज्येष्ठानुवर्तनरूपपरमधर्मवेदित्वात्). _Bhūṣaṇa_ also explains why foot-obeisance (पादाभिवन्दनम्) is specified for Kausalyā alone: Dharmaśāstra forbids touching a stepmother's feet (सपत्नीमातृष्वपि तुल्यत्वात्), though **Śivasahāya** extends it to all the queens (कौशल्यादिचरणप्रणामम्).
+
+_____________
+
+**2.52.32–33 (nṛpamate pade)**
+
+In v. 32, _Bhūṣaṇa_ glosses नृपमते पदे as the office of Crown Prince (यौवराज्ये) and connects v. 33 directly to the message addressed to King Daśaratha; _Tilaka_ and _Śiromaṇi_, however, take v. 33 as Rāma's assurance to Sumantra himself that embracing Bharata after his consecration will dispel Sumantra's grief.
+
+_____________
+
+**2.52.34–36 (aviśeṣataḥ & apekṣatā)**
+
+On v. 35, _Bhūṣaṇa_ notes that Sumitrā is mentioned because of Lakṣmaṇa's devotion to Rāma (लक्ष्मणस्य रामपक्षपातात्). In v. 36, all three gloss अपेक्षता (var. अवेक्षता) as accepting (अङ्गीकुर्वता) the regency.
+
+_____________
+
+**2.52.37–39 (nopacāreṇa & tāta)**
+
+On v. 38, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain उपचारः as the deferential protocol expected of a servant toward his lord (स्वामिभृत्योचितः सत्कारः, _Tilaka_; भृत्यत्वकर्तव्यत्वेन, _Śiromaṇi_); Sumantra asks pardon for speaking boldly (अविक्लबः धृष्टः सन्, _Bhūṣaṇa_) out of sheer love. On v. 39, _Bhūṣaṇa_ reads तव तावद्वियोगेन and notes that on the variant तात it means “O lord” (स्वामिन्) or, given Sumantra's advanced age, “my child” (वृद्धत्वाद्वत्सेति संबोधनं वा).
+
+_____________
+
+**2.52.40–41 (vidīryetāpi sā purī)**
+
+On v. 40, _Tilaka_ and _Śiromaṇi_ explain that at a distance the citizens might still hope Rāma is aboard (सरामं संभावयमानो जनः), but seeing the chariot empty up close, the very city—which _Bhūṣaṇa_ takes as including even its beasts and birds (जनव्यतिरिक्तपश्वादिपरः)—would burst with grief.
+
+_____________
+
+**2.52.42 (mānasenāgrataḥ sthitam)**
+
+In v. 42, all three commentators note that through intense meditation (भावनाप्रकर्षेण, _Bhūṣaṇa_) the citizens keep Rāma's image before their eyes while fasting on the day of Sumantra's return.
+
+_____________
+
+**2.52.43–44 (saṅkulaṃ vṛttam & śataguṇam)**
+
+On v. 43, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) observe that Sumantra appeals to Rāma's own eyewitness experience (त्वदनुभव एव प्रमाणम्, _Śiromaṇi_) of the citizens' tumult (संकुलं संक्षोभः, _Bhūṣaṇa_) during his departure, arguing in v. 44 that seeing the chariot return with Sumantra alone (सरथं मामेव निशाम्य) will multiply their wailing a hundredfold.
+
+_____________
+
+**2.52.45–46 (Sumantra's Dilemma Before Kausalyā)**
+
+On vv. 45–46, all three commentators frame Sumantra's moral dilemma through the famous _Manusmṛti_ maxim (सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम्): telling Kausalyā that Rāma went to his maternal uncle's house would be pleasant but false, whereas telling her he was left in the wilderness is true but fatally cruel (देव्या हानिप्रसङ्गात्, _Bhūṣaṇa_). _Tilaka_ explicitly rejects Kataka's reading that Sumantra intends to tell the lie.
+
+_____________
+
+**2.52.47–48 (tvadbandhujanavāhinaḥ & pravakṣyanti)**
+
+In v. 47, _Bhūṣaṇa_ glosses त्वद्बन्धुजनः as either Rāma's royal dynasty or Sītā and Lakṣmaṇa, and identifies प्रवक्ष्यन्ति as the future of वह् (“how will they draw?”).
+
+_____________
+
+**2.52.49–50 (tyaktamātraḥ & pratibādhiṣye)**
+
+On v. 49, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss त्यक्तमात्रः temporally (“at the very instant of abandonment,” त्यागक्षण एव), whereas **Śivasahāya** (_Śiromaṇi_) takes it restrictively (“abandoned without any fault of mine,” कारणाभावेनापि त्यक्त एव). On v. 50, _Tilaka_ and _Bhūṣaṇa_ explain रथेन प्रतिबाधिष्ये as “becoming a chariot-warrior (रथी भूत्वा) myself, I shall repel them.”
+
+_____________
+
+**2.52.51 (tvatkṛte na vs. tvatkṛtena)**
+
+Reading त्वत्कृते न मयाऽवाप्तम् in 51a and त्वत्कृतेनाहम् in 51c, _Bhūṣaṇa_ explains that although Sumantra missed the joy of driving a crowned Rāma's chariot, he now hopes for the joy of serving him in the woods. Reading त्वत्कृतेन मया प्राप्तम् in both halves, _Tilaka_ notes that Sumantra, though chief minister, accepted the charioteer's post solely through Rāma's grace—recognizing his divine incarnation (तवावतारं ज्ञात्वैव).
+
+_____________
+
+**2.52.52–54 (pratyanantaraḥ & devalokaṃ vā)**
+
+On v. 52, all three gloss प्रत्यनन्तरः as a close attendant (समीपवर्ती). On v. 54, _Tilaka_ remarks that devotees spurn even heaven if it obstructs service to the Lord (भक्त्यन्तरायभूतदेवलोकप्राप्तिरपि हेयैव).
+
+_____________
+
+**2.52.55–56 (rājadhānī mahendrasya & manorathaḥ)**
+
+On v. 55, **Śivasahāya** (_Śiromaṇi_) glosses राजधानी महेन्द्रस्य as Indra's capital Amarāvatī, and **Govindarāja** (_Bhūṣaṇa_) as heaven (स्वर्गः), which no sinner can enter. On v. 56, all three commentators note that Sumantra's further motive in keeping the chariot in the forest is his wish to drive Rāma home in that very car as soon as the fourteen years end (नियमितवनवासकाले क्षयं प्राप्ते).
+
+_____________
+
+**2.52.57 (kṣaṇabhūtāni & śatasaṅkhyāni)**
+
+In v. 57, **Govindarāja** (_Bhūṣaṇa_) explains क्षणभूतानि as “like instants” (क्षणतुल्यानि) and अतोऽन्यथा (“otherwise,” i.e., in separation from Rāma, त्वद्विरहे) as making the fourteen years feel multiplied a hundredfold (शतगुणितानि). Reading शतसङ्ख्यानि अन्यथा with hiatus, **Śivasahāya** (_Śiromaṇi_) justifies the absence of sandhi as an optional Śākalya pause.
+
+_____________
+
+**2.52.58–60 (स्थितं स्थित्याम्)**
+
+On v. 58, _Bhūṣaṇa_ glosses स्थित्यां स्थितम् as never swerving from the bounds of loyal service (अस्खलितमर्यादम्), and _Tilaka_ as wholly free of fault in his duties (कदाप्यपराधरहितम्).
+
+_____________
+
+**2.52.61–62 (Reassuring Kaikeyī)**
+
+On vv. 61–62, **Govindarāja** (_Bhūṣaṇa_) construes vv. 61–63 as a single syntactic period (श्लोकत्रयमेकान्वयम्). **Śivasahāya** (_Śiromaṇi_) remarks that if Rāma kept the chariot, Kaikeyī might suspect that someone had secretly conveyed him to a comfortable realm (केनचिद्वा स्वदेशं प्रापित इति शङ्का भविष्यति); Sumantra's return alone convinces her and spares King Daśaratha the accusation of deceit (मिथ्यावादीति).
+
+_____________
+
+**2.52.63–64 (prathamaḥ kalpaḥ)**
+
+In v. 63, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_, citing _Amara_: मुख्यः स्यात्प्रथमः कल्पः) explain प्रथमः कल्पः as Rāma's primary purpose (मुख्यं प्रयोजनम्), noting that Bharata's speedy recall from Kekaya depends upon Sumantra's return (भरतानयनस्य त्वदधीनत्वात्, _Tilaka_).
+
+_____________
+
+**2.52.65–66 (hetumat & sajane vane)**
+
+On vv. 65–66, _Tilaka_ and _Bhūṣaṇa_ observe that Rāma anticipates Guha's impending request that he stay right there in Guha's territory (इहैव वस्तव्यमिति गुहप्रार्थनं द्योतितम्), explaining that his father's mandate requires dwelling in an unpeopled ascetic hermitage (जनपदरहिते आश्रमे) and adopting ascetic matted locks (तद्गतो विधिः).
+
+_____________
+
+**2.52.67–68 (hitakāmaḥ sītāyāḥ)**
+
+On vv. 67–68, **Govindarāja** (_Bhūṣaṇa_) explains how Rāma's matting of his hair benefits Sītā and Lakṣmaṇa: as his सहधर्मचारिणी, Sītā shares in the merit of his vow, while Lakṣmaṇa earns merit by matting his own locks. **Rāma Varmā** (_Tilaka_), however, construes सीताया लक्ष्मणस्य च as “with the consent (अनुमत्या) of Sītā and Lakṣmaṇa.”
+
+_____________
+
+**2.52.69–71 (vaikhānasaṃ mārgam & Why Rāma Did Not Shave)**
+
+On v. 71, _Tilaka_ notes that Rāma and Lakṣmaṇa matted their hair without shaving at the Gaṅgā, Prayāga, or on hearing of their father's death, proving that Kṣatriyas are exempt from tīrtha-tonsure (क्षत्रियाणां तीर्थादिषु मुण्डननिषेधम्). _Bhūṣaṇa_ derives वैखानसम् from the sage Vikhanas and explains that Rāma adopted a special votive observance (सांकल्पिकनियमविशेषः) rather than formal _vānaprastha-āśrama_, which would have barred his return to kingship.
+
+_____________
+
+**2.52.72 (durārakṣatamam)**
+
+On v. 72, all three commentators gloss दुरारक्षतमम् as “most difficult to protect thoroughly” (अतिशयेन दुःखेन समन्ताद्रक्षितुं शक्यम्).
+
+_____________
+
+**2.52.73–75 (anvakṣam & manasvinīm)**
+
+On v. 75, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) offer two ways of construing अन्वक्षम् (“immediately afterwards”): either Lakṣmaṇa should help Sītā aboard first and mount after her, or mount first to steady the boat and then lift her aboard. _Bhūṣaṇa_ adds that परिगृह्य means lending her his hand (कराग्रयोर्गृहीत्वा), while मनस्विनीम् here delicately implies her natural timidity toward deep water (भीरुमिति यावत्).
+
+_____________
+
+**2.52.76–77 (ātmavān)**
+
+On v. 76, **Govindarāja** (_Bhūṣaṇa_) remarks that by calling Lakṣmaṇa आत्मवान् (“self-mastered, knowing Rāma's mind”) right after calling Sītā मनस्विनीम् (“virtuous-minded”), Vālmīki underscores the utter purity of both as Lakṣmaṇa helps her into the boat (उभाभ्यामारोपणे दोषशङ्काराहित्यं चोक्तम्).
+
+_____________
+
+**2.52.78 (brahmavat kṣatravac caiva)**
+
+On v. 78, _Tilaka_ and _Bhūṣaṇa_ explain ब्रह्मवत् क्षत्रवच्चैव either with the suffix -वति (“befitting Brāhmaṇas and Kṣatriyas,” referring to the boat-mounting mantra देवीं नावम्) or with possessive -मतुप् (“containing the words _brahma_ and _kṣatra_,” viz. the hymn सुत्रामाणम्).
+
+_____________
+
+**2.52.79–80 (ācamya & praṇamat)**
+
+On v. 79, **Govindarāja** (_Bhūṣaṇa_) notes that vv. 79–80 elaborate the ritual manner of Rāma's embarkation (पूर्वोक्तं नावारोहणं विवृण्वन्नाह). Reading प्रणमत् without the augment, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note the epic omission of the augment अट् (अड्भाव आर्षः), whereas _Bhūṣaṇa_ reads the regular augmented imperfect form प्राणमत्.
+
+_____________
+
+**2.52.81–82 (sphya & Why Sītā Prays)**
+
+On v. 81, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ gloss स्फ्यम् as a wooden oar (अरित्रम्) and अभिहता as propelled forward (प्रणुन्ना). On v. 82, **Rāma Varmā** (_Tilaka_) explains that Sītā herself addresses the prayer to Gaṅgā because Gaṅgā is both a supreme deity and a female deity (गङ्गाया महादेवतात्वात्स्त्रीदेवतात्वाच्च सीता प्रार्थितवती).
+
+_____________
+
+**2.52.83–84 (pārayitvā vs. pālayatu)**
+
+Reading पारयित्वेमम् in v. 83, _Bhūṣaṇa_ construes vv. 83–84 as a single sentence (“having completed this fourteen-year forest mandate without obstacle, he will return”); reading पालयत्वेनम्, _Tilaka_ equates पालयतु with पारयतु (“may he complete”) via _ra/la_ interchange (रलयोः समानशक्तिर्वा).
+
+_____________
+
+**2.52.85–86 (samīkṣase vs. samakṣase)**
+
+On v. 86, reading ब्रह्मलोकं समीक्षसे (“you behold Brahmā's world”), **Govindarāja** (_Bhūṣaṇa_) explains that Gaṅgā abides as liquid _dharma_ within Brahmā's water-pot after springing from Viṣṇu's feet washed by Brahmā (ब्रह्मप्रक्षालितविष्णुपादोद्भवत्वात्). Reading समक्षसे, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) derive it from अक्षू व्याप्तौ (“you pervade Brahmā's world”).
+
+_____________
+
+**2.52.87–89 (surāghaṭasahasreṇa & māṃsabhūtaudanena)**
+
+On v. 88, _Bhūṣaṇa_ remarks that the gods accept offerings through the mouths of Brāhmaṇas (ब्राह्मणमुखेन हि देवतानां ग्रहणम्). On v. 89, _Tilaka_ and _Bhūṣaṇa_ take मांसभूतोदनेन straightforwardly as a great _bali_ offering of meat-rice (मांसरूपात्रेण), whereas **Śivasahāya** (_Śiromaṇi_)—to avoid animal and liquor offerings—ingeniously analyses सुराघट as “rare treasures not found even among the gods” (सुरेषु देवेषु न घटन्ते) and मांसभूतोदन as tax-free land (मा नास्ति अंसो राजभागो यस्यां सा भूः), woven cloth (उतम्), and rice (ओदनम्)!
+
+_____________
+
+**2.52.90 (tīrthāny āyatanāni)**
+
+On v. 90, _Tilaka_ and _Śiromaṇi_ exemplify तीर्थानि as Prayāga and आयतनानि as Kāśī, while _Bhūṣaṇa_ gives Maṇikarṇikā and Kāśī.
+
+_____________
+
+**2.52.91–93 (dakṣiṇā dakṣiṇaṃ tīram)**
+
+On v. 92, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss the first दक्षिणा as “devoted and compliant toward her husband” (भर्तुरनुकूला, _Tilaka_; पत्यनुकूला, _Śiromaṇi_), playing upon दक्षिणं तीरम् (“the southern bank of the Gaṅgā”).
+
+_____________
+
+**2.52.94–95 (Marching Order in the Forest)**
+
+On v. 94, all three commentators supply सावधानः (“vigilant”) with भव and सीतायाः with संरक्षणार्थाय. On v. 95, **Rāma Varmā** (_Tilaka_) notes that placing Lakṣmaṇa in front with Sītā behind him shows that in times of practical necessity even an elder may walk behind (कार्यवशाद्गुरोरप्यग्रतो गमनमदोषाय), though others cite the maxim that along a road one should keep a woman in front of oneself rather than behind (मार्गे एव स्त्रियोऽग्रतो गमनमदोषाय).
+
+_____________
+
+**2.52.96 (anyonyasya rakṣā)**
+
+Commenting on the _Tilaka_/_Śiromaṇi_ half-verse अन्योन्यस्य हि नो रक्षा कर्तव्या in v. 96cd, _Tilaka_ remarks that Sītā too protects both brothers in the wilderness through the power of her chastity (सीतयापि पातिव्रत्यमहिम्नेतररक्षणम्).
+
+_____________
+
+**2.52.97–99 (sukarā vs. asukarā)**
+
+Reading सुकरा in v. 97, **Govindarāja** (_Bhūṣaṇa_) explains that once the right moment has passed (अतिक्रान्तकाला), no precaution can easily repair the damage (पुनः संधातुं न शक्या). Reading असुकरा, **Rāma Varmā** (_Tilaka_) cites the proverb that once a blow has fallen it is too late to guard (न हि प्रहृते प्रतिहृतमेव). In v. 98, all three gloss प्रपातम् as full of ravines (गर्तादिबहुळम्).
+
+_____________
+
+**2.52.100–101 (tapasvī & the Vatsa Country)**
+
+In v. 100, _Bhūṣaṇa_ glosses तपस्वी as pitiable (शोचनीयः) or anguished (संतापयुक्तः). On v. 101, _Bhūṣaṇa_ defends प्रभाववान् on metrical grounds (अन्यथा वृत्तभङ्गः स्यात्) and rejects the scribal error मत्स्यान् for वत्सान्, noting that Vatsa lies between the Gaṅgā and Yamunā near Prayāga.
+
+_____________
+
+**2.52.102 (caturo mahāmṛgān & medhyam)**
+
+On v. 102, _Tilaka_ and _Bhūṣaṇa_ note that hunting clean game (मेध्यम्) is lawful for Kṣatriyas as forest fare, while **Śivasahāya** (_Śiromaṇi_) construes हत्वा as striking game in sport (खेलनार्थं संताड्य) and मेध्यम् as gathering pure roots and fruits (कन्दादिकम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

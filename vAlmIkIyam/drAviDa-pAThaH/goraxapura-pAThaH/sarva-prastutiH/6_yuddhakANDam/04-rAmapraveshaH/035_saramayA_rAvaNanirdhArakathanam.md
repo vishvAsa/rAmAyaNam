@@ -1824,6 +1824,134 @@ dwellings, both morning and evening. These and such other sinister omens appear.
 
 **36:** Make peace, O Rāvaṇa, with Rāma, the king of men, by whom that supremely wondrous bridge (_setuḥ_) was built across the ocean! Having known and weighed his deeds, let what is salutary for the future (_āyatikṣamam_) be done!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.35.1–3 (Rāvaṇa's Reflection in the Council Hall)**
+
+Opening the thirty-fifth _sarga_ (अथ माल्यवदुपदेशः पञ्चत्रिंशे), _Tilaka_ and _Śiromaṇi_ supply लङ्कामिति शेषः with उपयाति, indicating that Rāma approaches Laṅkā heralded by the swelling clamour of war-drums mingled with conchs (शङ्खशब्दविमिश्रेण). Hearing that roar, Rāvaṇa pauses in anxious deliberation (किं मयेदानीं कर्तव्यमिति ध्यानं कृत्वेत्यर्थः in _Bhūṣaṇa_) before surveying and addressing his ministers across the royal assembly pavilion (सभां आस्थानमण्डपम्).
+
+_____________
+
+**6.35.4–5 (Rebuking the Dispirited Ministers)**
+
+_Śiromaṇi_ connects verses 3–5 as a single syntactic unit wherein Rāvaṇa rebukes his counselors for praising the enemy's virtues (रिपुगुणवर्णनं न कर्तव्यमिति चित्तम्), specifically Rāma's crossing of the ocean and martial strength (अस्य रामस्य सागरस्य तरणं विक्रमम्). Citing _Amarakośa_ (तूष्णींशीलस्तु तूष्णीक इत्यमरः), Govindarāja glosses तूष्णीकान् as despondent and silent (निरुत्साहानित्यर्थः), exposing their timidity as they stare helplessly at one another.
+
+_____________
+
+**6.35.6 (Mālyavān's Kinship to Rāvaṇa)**
+
+Commenting on the variant मातुः पैतामहः, _Tilaka_ cites Maheśvara Tīrtha (रावणमातुः पितामहपुत्रस्तस्याः पितेत्यर्थः इति तीर्थः). Govindarāja, however, invokes the _Uttarakāṇḍa_ genealogy (कैकसी सुमालिपुत्रीत्युत्तररामायणेऽभिधानात्): since Rāvaṇa's mother Kaikasī is Sumāli's daughter and Mālyavān is Sumāli's brother, पैतामहः signifies “son of the paternal grandfather,” i.e., her paternal uncle (पितामहस्य पुत्रः पैतामहः । पितृव्य इत्यर्थः), while noting the variant मातामहोऽब्रवीदिति क्वचित्पाठः.
+
+_____________
+
+**6.35.7 (The Four Royal Sciences)**
+
+Introducing Mālyavān's counsel on statecraft, _Tilaka_ and _Bhūṣaṇa_ explain विद्यासु as the four traditional sciences of kingship (आन्वीक्षिकीत्रयीवार्तादण्डनीत्याख्यासु चतसृषु विद्यासु अभिविनीतः). Govindarāja quotes Kāmandaka's _Nītisāra_ at length (आन्वीक्षिकीं त्रयीं वार्तां दण्डनीतिं च पार्थिवः) to show that a monarch disciplined in logic, Vedic lore, economics, and governance never falters (विद्याविनीतो नृपतिर्न जात्वप्यवसीदति).
+
+_____________
+
+**6.35.8–9 (Timely Treaty and War)**
+
+Unfolding the nature of policy (नयस्वरूपम्), Govindarāja glosses कालेन distributively: a ruler should conclude peace during a time of his own military decline (स्वबलक्षयकालेन संदधानः संधानं कुर्वन्) and wage war only during a period of waxing strength (स्वबलवृद्धिकालेन विगृह्णन्). A declining or equal king must seek treaty (हीयमानेन हीयमानबलेन समेन समबलेन च), while _Śiromaṇi_ warns against despising an enemy as trivial (तुच्छबुद्ध्या न त्यजेत्).
+
+_____________
+
+**6.35.10–12 (Surrendering Sītā and the Two Cosmic Sides)**
+
+Since treaty with a stronger foe requires restitution (बलवता संधिर्दानेन विना न घटते तच्च सीताप्रत्यर्पण एव सेत्स्यति in _Bhūṣaṇa_), Mālyavān urges returning Sītā to Rāma, who is fortified by divine allies (रामस्य देवबलबलात् बलवत्त्वमित्यर्थः). _Tilaka_ explains that Brahmā created two sides consisting of Vedic injunction and prohibition (विधिनिषेधरूपौ द्वावेव पक्षावसृजत्), identifying _dharma_ with injunction (विधिविषयो धर्मो निषेधविषयश्चाधर्मः).
+
+_____________
+
+**6.35.13 (Gods and Demons Aligned with Dharma and Adharma)**
+
+Distinguishing the two cosmic factions, _Tilaka_ notes that while the immortals adhere to Vedic injunction, _rākṣasas_ are dominated by _rajas_ and _asuras_ by _tamas_ (राक्षसा राजसा असुरास्तामसा इति भेदः). Govindarāja construes महात्मनाम् as a causal epithet (महात्मनामिति हेतुगर्भविशेषणम्) signifying noble nature (समीचीनप्रकृतीनामिति यावत्), whereas _Śiromaṇi_ adds that even demonic sacrifices become _adharma_ when rooted in hostility toward the Lord (भगवद्विरोधमूलकस्य धर्मस्याप्यधर्मप्रायत्वान्नादोषात्).
+
+_____________
+
+**6.35.14 (The Cosmic Cycles of Kṛta and Tiṣya)**
+
+Citing _Amarakośa_ (तिष्यः कलौ च पुष्ये च इत्यमरः), _Śiromaṇi_ identifies तिष्यः with the Kali age. _Tilaka_ elaborates a threefold taxonomy of _adharma_—heterodox pseudo-dharma, active transgression such as violence, and omission of obligatory rites (धर्मान्यस्तद्विरोधी तदभावश्चेति)—explaining that in the Kṛta age all three are absent, whereas in Kali _dharma_ subsists on a single quarter (कलौ पादेन धर्मस्थितेः).
+
+_____________
+
+**6.35.15–18 (The Serpent of Adharma and Ascetic Wrath)**
+
+In verse 16, _Tilaka_ explains the metaphor अधर्मोऽहिः: swollen by Rāvaṇa's heedless transgressions, the serpent of unrighteousness now devours the _rākṣasas_ (इदानीं प्रवृद्धोऽधर्मरूपोऽहिर्नोऽस्मान्ग्रसते). Conversely, _dharma_—constantly practiced and cherished by the gods (सुरभावनः सुरैः भाव्यते परिशील्यतेऽसौ धर्मः in _Śiromaṇi_)—strengthens the celestial faction, all the more since Rāvaṇa has provoked fire-like ascetics.
+
+_____________
+
+**6.35.19–20 (Vedic Chants Scattering the Rākṣasas)**
+
+Explaining how the sages' rites empower the gods, _Śiromaṇi_ glosses तैस्तैः as the manifold sacrifices enjoined in the Vedas (तत्तद्वेदविहितैर्मुख्यैर्यज्ञैः). _Tilaka_ construes ब्रह्मघोषान् as the loud recitation of Vedic mantras (वेदघोषानुदीरयन्), before which the _rākṣasas_ scatter in every direction like rainclouds dispersing in summer (उष्णगे ग्रीष्मे स्तनयित्नुरिव मेघ इव in _Bhūṣaṇa_), citing _Amarakośa_ (स्तनयित्नुर्बलाहकः).
+
+_____________
+
+**6.35.21–23 (Sacrificial Smoke and the Limits of Rāvaṇa's Boon)**
+
+As the smoke rising from the sages' _agnihotra_ fires fills the ten quarters and saps demonic energy (रक्षसां तेजः आदत्ते), _Tilaka_ and _Śiromaṇi_ anticipate Rāvaṇa's boast of Brahmā's boon (ब्रह्मणः सकाशादवध्यत्ववरो लब्ध इति चेत्तत्राह). Because that immunity was claimed only from gods, _dānavas_, and _yakṣas_ (देवादिभ्यः एव त्वया वरो गृहीतः न तु द्विपदमानुष्यादिभ्यः), mortal men and _vānaras_ remain lethal foes.
+
+_____________
+
+**6.35.24 (Threefold Portents of Doom)**
+
+Shifting from military and dharmic arguments to ominous prodigies (अशुभनिमित्तदर्शनेनापि भयमनुमेयमित्याह in _Bhūṣaṇa_), both _Tilaka_ and _Bhūṣaṇa_ classify विविधान् उत्पातान् according to the three cosmic spheres—celestial, atmospheric, and terrestrial (दिव्यान्तरिक्षभौमभेदभिन्नान्)—and explain बहुविधान् as their manifold subdivisions within each realm (भौमादिषु प्रत्येकं विविधान्).
+
+_____________
+
+**6.35.25–26 (Showers of Blood and Weeping Mounts)**
+
+Enumerating celestial and atmospheric portents, _Śiromaṇi_ and _Bhūṣaṇa_ explain खराभिस्तनिताः as clouds rumbling with harsh, grating thunder (श्रुतिकटुत्वेन रूक्षः अभिस्तनितशब्दो येषाम्; परुषगर्जिताः) that drench Laṅkā in hot blood. In verse 26, while mounts shed tears, _Tilaka_ and _Śiromaṇi_ supply दिश इति शेषः with न प्रभान्ति, noting that others construe the faded, dust-covered subjects as the steeds themselves or the banners (ध्वजा इति गो. पाठः).
+
+_____________
+
+**6.35.27–28 (Jackals in the Groves and Nightmarish Kālikās)**
+
+In verse 27, _Tilaka_ glosses व्यालाः as carnivorous beasts (व्याला मांसादाः पशवः) and समवायान् as packs (संघान्) congregating inside Laṅkā's gardens. In verse 28, _Tilaka_ and _Śiromaṇi_ interpret कालिकाः as monstrous women seen in dreams (महाकराल्यः स्त्रियः स्वप्नेषु) who utter hostile words (प्रतिकूलभाषणं कृत्वा), plunder household goods, and laugh with gleaming white teeth, while Govindarāja compares them to Pūtanā-like ogresses (नीलवर्णाः स्त्रियः पूतनाप्रमुखा इति यावत्).
+
+_____________
+
+**6.35.29 (Desecrated Offerings and Unnatural Births)**
+
+On बलिकर्माणि, _Tilaka_ notes that household ritual offerings of ghee, curds, and rice—or the oblations meant for crows—are defiled and eaten by dogs (बलिहरणानि श्वान एव भुञ्जते न तु वायसाः). Simultaneously, unnatural births occur as cows bring forth asses (गोषु खराः प्रजायन्ते) and mongooses either birth or consort with mice (नकुलैः सह वर्तन्त इति शेषः in _Bhūṣaṇa_).
+
+_____________
+
+**6.35.30–31 (Unnatural Unions and Doom-Boding Pigeons)**
+
+All three commentators gloss समेयुः in verse 30 as unnatural sexual union (मिथुनीभावं जग्मुः in _Tilaka_) between cats and leopards (द्वीपिभिः शार्दूलैः) and between _kiṃnaras_, _rākṣasas_, and spectral humans (मानुषाश्चात्रोत्पातजनिता एव लङ्कायां मानुषाभावात् in _Bhūṣaṇa_). In verse 31, Govindarāja explains कालचोदिताः as impelled by fate (दैवप्रेरिताः), construing विनाशाय as a dative of portent (विनाशसूचनायेत्यर्थः) as pale, red-footed pigeons stalk the halls.
+
+_____________
+
+**6.35.32 (Screeching Śārikās Falling in Entangled Combat)**
+
+_Tilaka_ and _Śiromaṇi_ identify चीचीकूचीति as an onomatopoetic imitation of harsh bird-cries (शब्दानुकारः). Govindarāja notes that domestic _śārikā_ birds, reared in cages for sweet speech, abandon their pleasant chatter for harsh shrieks (मधुरभाषणानि विहाय वीचीकूचीति शब्दं वाश्यन्ति), while defeated birds and beasts knot together in pugnacious frenzy and plummet (परस्परमाबध्य पतन्ति in _Tilaka_).
+
+_____________
+
+**6.35.33 (Weeping toward the Sun and the Apparition of Kāla)**
+
+Glossing प्रत्यादित्यम् as facing the sun (सूर्याभिमुखीभूय रुदन्ति in _Tilaka_), _Śiromaṇi_ and _Bhūṣaṇa_ link the second half of verse 33 syntactically with verse 34 (श्लोकद्वयमेकान्वयि): a terrifying, deformed, bald (मुण्डः लुप्तकेशः), dark-tawny figure personifying Death (करालो विकटो मुण्डः पुरुषः कृष्णपिङ्गलः) peers into every household at twilight.
+
+_____________
+
+**6.35.34 (The Apparition of Kāla at Twilight)**
+
+Completing the portrait of the dark-tawny man from verse 33, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain काले काले as morning and evening twilight (संध्याकालेषु; सायं प्रातश्च), when Death personified (कालः मृत्युः) peers into all the mansions of Laṅkā (सर्वेषां नो गृहाण्यवेक्षते) amidst rising portents of doom.
+
+_____________
+
+**6.35.35–36a (Rāma Recognized as Viṣṇu and Textual History)**
+
+_Śiromaṇi_ derives विष्णुम् as He who pervades all through His majesty (स्वप्रतापद्वारा सर्वत्र पूर्णं मन्यामहे), proving Rāghava is the Supreme Person beyond ordinary mortals (प्राकृतविलक्षणः परपुरुष इत्यर्थः) since He bridged the ocean. Notably, _Tilaka_ records Kataka's observation that an ancient commentator regarded the two verses beginning विष्णुं मन्यामहे as an interpolation (इत्यादि श्लोकद्वयं प्रक्षिप्तमिति प्राचीनेन व्याख्यातमिति कतकः), though both _Śiromaṇi_ and the Critical Edition retain them.
+
+_____________
+
+**6.35.36b–37 (Weighing the Future and Mālyavān's Silence)**
+
+Both _Tilaka_ and _Śiromaṇi_ gloss आयतिक्षमम् as action conducive to future well-being (उत्तरकालसुखदं यत्कर्म तदवधार्य). Having delivered this counsel and observed Rāvaṇa's unyielding disposition, Mālyavān falls silent.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

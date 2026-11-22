@@ -548,6 +548,116 @@ Anaraṇya showers eight hundred shafts upon Rāvaṇa’s head, which strike ha
 
 Thereupon that delight of the Ikṣvāku lineage (_ikṣvāku-kula-nandanaḥ_) let fall eight hundred arrows (_bāṇa-śatāny aṣṭau pātayāmāsa_) upon the head (_mūrdhani_) of that king of the rākṣasas.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.19.1–3 (Rāvaṇa’s Ultimatum to Earthly Sovereigns)**
+
+Introducing the episode after Rāvaṇa’s triumph over King Marutta (रावणकर्तृकमरुत्तविजयोत्तरकालिकं वृत्तम्), **Śivasahāya** (_Śiromaṇi_) construes verses 2–3 as a single syntactic sentence (श्लोकद्वयमेकान्वयि) conveying Rāvaṇa’s arrogant choice: give battle or verbally concede defeat. **Rāma Varmā** (_Tilaka_) clarifies अन्यथा कुर्वताम् in 7.19.3: for kings who refuse either to fight or to utter निर्जिताः स्मः, there is no escape from his siege (मदुपरोधात् मोक्षो नास्तीत्यर्थः). Śivasahāya likewise glosses मोक्षः as ‘being spared or released by me’ (मत्कर्तृकस्त्यागः).
+
+_____________
+
+**7.19.4–5 (Wise Surrender and the Chronology of Ancient Kings)**
+
+On 7.19.4, both **Rāma Varmā** and **Śivasahāya** stress that these kings were not cowards (अभीरवः सन्तोऽपि): taking counsel together as a single six-quarter period (सार्धश्लोक एकान्वयी), they pragmatically acknowledged defeat because they understood the power of Rāvaṇa’s boon (वरबलं ज्ञात्वा). Addressing a seeming chronological paradox in 7.19.5—where kings of different epochs appear together—Rāma Varmā explains that Duṣyanta, Suratha, Gādhi, Gaya, and Purūravas belonged to distinct ages (भिन्नकालवर्तिनः), each acknowledging defeat to the long-lived Rāvaṇa during his own era on account of Brahmā’s boon.
+
+_____________
+
+**7.19.6 (Arrival Before Anaraṇya’s Ayodhyā)**
+
+Shifting the narrative to Rāma’s own ancestral capital, Agastya compares Ayodhyā under Anaraṇya to Indra’s celestial stronghold Amarāvatī. **Śivasahāya** supplies the verb अतिष्ठत् (‘stood/halted’) after अयोध्यां समासाद्य in 7.19.5ef and links the Southern hemistich 7.19.6cd directly into 7.19.7 as one six-quarter sentence. Unlike the prudent monarchs who bowed to Rāvaṇa’s boon, the Ikṣvāku sovereign Anaraṇya—explicitly matched with Purandara in martial prowess—is introduced as a king who will uphold kṣatriya honor to the death.
+
+_____________
+
+**7.19.7–9 (Anaraṇya’s Defiant Acceptance of Combat)**
+
+Completing the sentence begun in 7.19.6cd, **Śivasahāya** (_Śiromaṇi_) supplies आज्ञा अस्ति with एवं मम शासनम् (‘such is my command’) in 7.19.7. Anaraṇya’s reply in 7.19.9 embodies the unyielding code of the Solar Dynasty: he neither parleys nor delays, offering immediate duel (_dvandva-yuddha_). All three commentators—**Rāma Varmā** (_Tilaka_), **Śivasahāya**, and **Govindarāja** (_Bhūṣaṇa_)—resolve the concise closing phrase एवं भवाम्यहम् identically: ‘just as I bid you be ready (आयत्तो भव), so too I make myself ready (आयत्तो भवामीत्यर्थः).’
+
+_____________
+
+**7.19.10 (Foresight of a Vigilant Monarch)**
+
+Verse 7.19.10 reveals that Anaraṇya was not caught off guard. **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** all gloss पूर्वं श्रुतार्थेन as ‘by Anaraṇya, who had already heard news of Rāvaṇa’s advance before his arrival’ (श्रुतरावणवृत्तान्तेन), and normalize the epic verb निष्क्रामत् as निरक्रामत्. To explain the Southern reading निर्जितम् (where Baroda CE reads the transparent सज्जितम्, ‘readied’), Rāma Varmā analyzes it as an abstract past participle (भावे क्तः): ‘that great host appointed for victory’ (निर्जयं प्रति यत्सुमहद्बलं नियुक्तम्).
+
+_____________
+
+**7.19.11–12 (The Fourfold Army of Ayodhyā Marches Forth)**
+
+**Śivasahāya** notes that verses 7.19.11–12ab detail the numerical strength of Ayodhyā’s fourfold host (_caturaṅga-bala_)—elephants, cavalry, chariots, and infantry—as a single six-quarter sentence (सार्धश्लोक एकान्वयी). The repeated vocatives addressed by Agastya to Rāma—नरोत्तम (‘foremost of men’) in 7.19.11d and युद्धविशारद (‘skilled in warfare’) in 7.19.12d—vividly connect this ancient defense of Ayodhyā to Rāma’s own recent war against Rāvaṇa, heightening the narrative anticipation as the clash commences.
+
+_____________
+
+**7.19.13–15 (Oblations in Fire and Moths in the Flame)**
+
+Constructing a somber triad of fire-similes, Vālmīki depicts the annihilation of Ayodhyā’s army. **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that despite fighting long with supreme valor, the royal host vanished into Rāvaṇa’s ranks like sacrificial ghee in fire. On 7.19.15, Śivasahāya construes 14cd–15ab as one six-quarter sentence where the surviving remnant (अवशेषितं बलम्) plunges into the enemy throng like moths into a blazing fire, whereas Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) take प्रज्वलन्तं तम् as the fiery Rāvaṇa himself, before whom the host swiftly dwindled (अल्पावशिष्टमभवत्).
+
+_____________
+
+**7.19.16 (A Hundred Rivers Swallowed by the Ocean)**
+
+Changing the elemental imagery from fire to water, verse 7.19.16 likens the vanishing host to rivers disappearing into the sea. Both **Rāma Varmā** and **Śivasahāya** gloss वनम् in वनापगशतम् in its Vedic lexical sense of ‘water’ (वनं जलं तत्पूर्णं नदीशतम्), while Rāma Varmā explicitly notes the metrical shortening of आ in आपगा (आपा ह्रस्वः). Śivasahāya also allows the secondary sense of forest-born streams losing their identity upon entering the boundless ocean—a striking contrast with the Baroda CE reading पञ्चापगा जलम्.
+
+_____________
+
+**7.19.17–18 (Anaraṇya’s Countercharge and the Rout of Rāvaṇa’s Ministers)**
+
+Seeing his army annihilated, Anaraṇya steps forward personally (स्वयम्, emphasized by **Śivasahāya**), stringing a bow radiant as Indra’s rainbow (_śakra-dhanuḥ-prakhyam_). The Southern Recension’s verse 7.19.18 underscores the Ikṣvāku monarch’s extraordinary personal prowess: single-handedly he shatters Rāvaṇa’s chief counselors—Mārīca, Śuka, Sāraṇa, and Prahasta—sending them fleeing like startled deer (मृगा इव व्यद्रवन्त), thereby proving that Anaraṇya’s imminent fall stems from destiny rather than any lack of martial supremacy.
+
+_____________
+
+**7.19.19–20 (Eight Hundred Arrows Like Rain on a Mountain)**
+
+Closing directly with Rāvaṇa, Anaraṇya looses eight hundred arrows squarely upon his adversary’s head. **Śivasahāya** (_Śiromaṇi_) follows the vivid natural simile (_upamā_) in 7.19.20: just as torrents of rain cascading from clouds cannot dent a granite summit (गिरिमूर्धनि), so Anaraṇya’s volley inflicts not the slightest wound (क्वचित् क्षतं न चक्रिरे). The image highlights Rāvaṇa’s terrifying physical imperviousness at the zenith of his world-conquest, while simultaneously setting up the tragic dignity of a mortal king who refuses to yield.
+
+_____________
+
+**7.19.21–22 (Struck Down Like a Lightning-Blasted Sāla Tree)**
+
+Disdaining even to draw a weapon, the enraged Rāvaṇa fells Anaraṇya from his chariot with a single open-handed blow (_tala-prahāra_) to the head. On the poignant simile in 7.19.22, **Rāma Varmā** (_Tilaka_) glosses वज्रदग्धः as ‘struck by a thunderbolt’ (अशनिहतः), while **Śivasahāya** supplies the verb अदृश्यत (‘was seen lying upon the earth, trembling and shattered’). Likening a noble fallen warrior to a towering forest _sāla_ felled by lightning is a signature Vālmīkian motif, honoring Anaraṇya’s majesty even in mortal defeat.
+
+_____________
+
+**7.19.23 (Rāvaṇa’s Derisive Taunt to the Ikṣvāku Sovereign)**
+
+Standing over the prostrate monarch, Rāvaṇa bursts into scornful laughter (_prahasya_). Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) explain the metonymic accusative इक्ष्वाकुम् as ‘the descendant of Ikṣvāku, Anaraṇya’ (तद्वंश्यमनरण्यम्), and both supply the biting implication left unspoken in Rāvaṇa’s question किं फलं प्राप्तम्: ‘What have you gained—by refusing to utter the simple words “I am vanquished”?’ (निर्जितोऽस्मीति वचनमनुक्त्वेति शेषः). That very insult to the Ikṣvāku house will provoke Anaraṇya’s fateful curse.
+
+_____________
+
+**7.19.24–25 (Rāvaṇa’s Boast and Anaraṇya’s Composed Reply)**
+
+Continuing his mockery, Rāvaṇa claims no warrior in the three worlds dares face him, sneering that luxury blinded Anaraṇya to his fame. **Śivasahāya** (_Śiromaṇi_) glosses शङ्के as मन्ये (‘I suppose’) and notes that the present न शृणोषि carries past reference (अशृणोः). Unruffled even as his life ebbs (मन्दासुः), Anaraṇya answers not with lamentation but with philosophical clarity: since Time (_kāla_) cannot be transgressed by any mortal (दुरतिक्रमः), resistance against one’s appointed hour is beyond human power.
+
+_____________
+
+**7.19.26 (Time as the True Agent, Rāvaṇa Mere Instrument)**
+
+Verse 7.19.26 delivers one of the epic’s finest expressions of kṣatriya detachment. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) underscore Anaraṇya’s refusal to concede moral victory to his boastful foe (_ātma-praśaṃsin_): ‘I have not been conquered by you; rather, I have fallen solely through Time whose hour had arrived’ (प्राप्तेनैव कालेन विपन्न इत्यर्थः). **Śivasahāya** glosses विपन्नः as ‘attained dissolution’ (पञ्चत्वं प्राप्तः) and draws a striking inference: Anaraṇya implies that he marched to war fully aware that his appointed hour of death had come (स्वमृत्युकालं ज्ञात्वैवाहं युद्धे प्रवृत्तोऽस्मीति सूचितम्).
+
+_____________
+
+**7.19.27 (Dying Without Turning One’s Back in Battle)**
+
+In the Southern Recension’s 7.19.27, Anaraṇya affirms the supreme warrior’s creed: at the moment when life departs (प्राणापगमसमये, **Śivasahāya**), nothing further remains to be done in combat—yet his honor stands unblemished. Śivasahāya glosses विमुखी as ‘turning away from battle’ (युद्धात्पराङ्मुखः): unlike monarchs who fled or capitulated, Anaraṇya fell facing the enemy (_yudhyamāna_), thereby securing heaven and earning the moral authority to pronounce the curse that follows.
+
+_____________
+
+**7.19.28 (The Truth-Act Provoked by Dynastic Insult)**
+
+Anaraṇya utters his curse not out of personal rancor, but to avenge the slight against his sacred dynasty. **Rāma Varmā** (_Tilaka_) explains इक्ष्वाकुपरिभावित्वात् as ‘because your mocking words constitute an insult to the Ikṣvāku house’ (त्वदुक्तावमाननवाक्यस्येक्ष्वाकुकुलपरिभवरूपत्वात्), glossing वचः as a curse (शापरूपम्). **Govindarāja** (_Bhūṣaṇa_) agrees (तत्कुलपरिभावित्वात्), while **Śivasahāya** (_Śiromaṇi_) analyzes it agentively (‘because you are disposed to humiliate the Ikṣvākus’). Anaraṇya seals his oath by a fourfold act of truth (_satyakriyā_) invoking charity, sacrifice, austerity, and royal protection.
+
+_____________
+
+**7.19.29 (The Prophecy of Rāma Dāśarathi)**
+
+The curse culminates in a luminous prophecy directly linking Anaraṇya’s martyrdom to Agastya’s royal listener in Ayodhyā: रामो दाशरथिर्नाम shall arise in this very Ikṣvāku lineage to claim Rāvaṇa’s life. **Śivasahāya** emphasizes the emphatic placement of इक्ष्वाकूणां कुले एव (‘in the very race of the Ikṣvākus’), rendering poetic justice upon the boastful demon. The Baroda CE variant (राजा परमतेजस्वी) keeps the prophecy unnamed, whereas the Southern Recension explicitly names Rāma as the destined fulfiller of his ancestor’s vow.
+
+_____________
+
+**7.19.30–31 (Heavenly Ratification and Anaraṇya’s Ascension)**
+
+Nature and the gods instantly ratify the dying king’s curse. **Śivasahāya** glosses जलधरोदग्रः as ‘resounding mightily like a thundercloud’ (अधिकशब्दवान्) and शापे as ‘the utterance portending Rāvaṇa’s destruction’, while **Rāma Varmā** notes that the shower of celestial blossoms occurs here just as in earlier fateful moments (पुष्पवृष्टिरत्रापि प्राग्वत्). On 7.19.31, Śivasahāya identifies त्रिविष्टपम् as heaven, and all three commentators normalize the epic verb अपसर्पत as अपासर्पत् (‘withdrew’), leaving Rāvaṇa outwardly victorious yet silently marked for doom.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

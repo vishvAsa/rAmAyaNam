@@ -84,6 +84,14 @@ Vibhishana the brother of Ravana bent down and glanced towards the earth.
 
 When safety (_abhaye_) was granted by Rāghava, Rāvaṇa&#x27;s younger brother Vibhīṣaṇa, of great wisdom (_mahāprājñaḥ_), bowed low (_saṃnataḥ_) and gazed down upon the earth.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.1–2 (The Act of Physical Surrender)**
+
+**Govindarāja** (_Bhūṣaṇa_) interprets these opening verses as the transition from verbal petition (_vācikā prapatti_) to bodily surrender (_kāyika-śaraṇāgati_). Even after safety was granted, Vibhīṣaṇa bows low (संनतः) because beholding Rāma's auspicious qualities overwhelms him. Looking at the ground (भूमिं समवलोकयन्) cleared for him amidst the monkey assembly, he descends from the sky—an unsuitable place for prostration—and falls at Rāma's feet with his four ministers (भक्तैरनुचरैः सह). **Rāma Varmā** (_Tilaka_) supplies पादयोरित्यनुषङ्गः in verse 2, connecting `Rāma's' (रामस्य) directly to `two feet' in the following verse.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,6 +188,14 @@ the following words which were equitable suitable and delightful.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then he fell at [Rāma&#x27;s] two feet together with his four _rākṣasas_, and Vibhīṣaṇa spoke these words to Rāma—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.3–4 (The Sixfold Limbs of Prapatti)**
+
+Reading शरणान्वेषी, **Śivasahāya** (_Śiromaṇi_) glosses it as स्वरक्षणेच्छुः ('desiring his own protection'), and explains that Vibhīṣaṇa's words are righteous (धर्मयुक्तम्), therefore fitting (युक्तम्), and hence immediately gladdening (साम्प्रतं संहर्षणम्). **Govindarāja** maps the theology of _śaraṇāgati_ onto the text: धर्मात्मा expresses supreme faith (_mahāviśvāsa_), शरणान्वेषी marks the choice of protector (_goptrtva-varaṇa_), and confessing dishonor at Rāvaṇa's hands (अनुजो रावणस्याहं तेन चास्म्यवमानितः) declares utter helplessness (_ākiñcanya_).
 </details>
 </details>
 
@@ -284,6 +300,14 @@ at your disposal."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I have come for refuge to you, the refuge of all beings (_sarvabhūtānāṃ śaraṇyam_); Laṅkā has been abandoned by me, along with my friends and riches.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.5–6 (Renunciation and Total Dependence)**
+
+On सर्वभूतानां शरण्यम्, **Tilaka** remarks that this epithet reveals Vibhīṣaṇa's recognition of Rāma as a divine incarnation (भगवदवतारत्वावगमः सूचितः), while claiming his kingdom rests in Rāma (मे राज्यं च भवद्गतम्) shows his certainty that Rāma will slay Rāvaṇa. **Govindarāja** explains that abandoning Laṅkā, friends, and wealth rejects all other ends (_prāpyāntara-nirasana_), placing kingdom, life, and happiness wholly within Rāma's service (भवत्कैङ्कर्यान्तर्गतम्).
 </details>
 </details>
 
@@ -397,6 +421,14 @@ about the detailed strength of Ravana.
 
 **8:** Thus addressed then by Rāma of unwearying deeds (_akliṣṭakarmaṇā_), the _rākṣasa_ began to recount in full the military might (_balam_) of Rāvaṇa:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.7–8 (Rāma's Affectionate Gaze and Inquiry)**
+
+**Śivasahāya** (_Śiromaṇi_) notes that verses 6b and 7 form a single syntactic unit (सार्धश्लोक एकान्वयी). **Govindarāja** (_Bhūṣaṇa_) explains that Rāma consoles Vibhīṣaṇa (सान्त्वयित्वा) by apologizing for the brief delay caused by the council's deliberation, and `drinks him in with his eyes' (लोचनाभ्यां पिबन्निव) by gazing upon him with supreme affection (अत्यादरेण विलोकयन्). **Rāma Varmā** (_Tilaka_) adds that since bodily service (_kāyika-kaiṅkarya_) will come later in war, Rāma first invites verbal service (_vācika-kaiṅkarya_) through intelligence gathering.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -442,6 +474,14 @@ not be killed by all beings, Gandharvas (celestial musicians), serpents, and bir
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O prince (_rājaputra_), through the boon granted by the Self-existent Brahmā (_svayambhuvaḥ_), Ten-necked Rāvaṇa is invulnerable (_avadhyaḥ_) to all beings—_gandharvas_, serpents, and birds.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.9–11 (Rāvaṇa's Boon, Kumbhakarṇa, and Prahasta)**
+
+On अवध्यः सर्वभूतानाम्, **Govindarāja** points out that `all beings' means beings other than humans, and that Vibhīṣaṇa's vocative `O prince' (राजपुत्र) subtly intimates that Rāvaṇa is vulnerable to a human prince (मानुषवध्यत्वं द्योतयति). **Tilaka** glosses शक्रप्रतिबलः as equal to Indra in strength (शक्रतुल्यबलवान्), while **Govindarāja** identifies Maṇibhadra in verse 11 as Kubera's general (मणिभद्रः कुबेरसेनापतिः), whom Prahasta routed on Kailāsa.
 </details>
 </details>
 
@@ -600,6 +640,14 @@ in battle wielding a bow, becomes invisible."
 
 “And there is Indrajit, wearing a lizard-skin finger-guard (_baddhagodhāṅgulitrāṇaḥ_) and impenetrable armor in battle, who, taking up his bow, becomes invisible (_adṛśyaḥ_) as he stands [fighting].
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.12 (Indrajit's Armor and Invisibility)**
+
+All three commentators cite _Amarakośa_ (गोधा तला ज्याघातवारणम्) to explain बद्धगोधाङ्गुलित्राणः as wearing a leather finger-protector that wards off bowstring strikes; **Govindarāja** notes this implies his ceaseless arrow-fire (निरन्तरशरसन्धायीति गम्यते). **Śiromaṇi** and **Bhūṣaṇa** gloss अवध्यकवचः as possessing unpierceable armor (अभेद्यकवचः), while **Govindarāja** observes that Vibhīṣaṇa omits stating Indrajit is Rāvaṇa's son because his capture of Hanumān had already made him well known.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -658,6 +706,14 @@ enemy while remaining invisible in the battle field with a huge battle array (on
 
 “In battle of vast array (_sumahadvyūhe_), having propitiated the sacrificial fire (_hutāśanam_), the glorious Indrajit, gone into invisibility (_antardhānagataḥ_), slays [his foes], O Rāghava.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.13 (Indrajit's Fire-Oblation and Stealth)**
+
+Explaining how Indrajit attains invisibility, **Govindarāja** (_Bhūṣaṇa_) remarks that he propitiates the fire-god with oblations (तर्पयित्वा होमैः प्रीणयित्वा) when battle arrays are drawn (सङ्ग्रामसमयकृतव्यूहे). **Rāma Varmā** (_Tilaka_) glosses सुमहद्व्यूहे as a battle where vast military formations are deployed (सुमहान्तो व्यूहा यथोचितसेनासंनिवेशा यस्मिन्), while **Śivasahāya** (_Śiromaṇi_) supplies the object जनं शत्रून् (`people, that is, enemies') for the verb हन्ति (`slays').
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -709,6 +765,14 @@ guardians of the world in battle - they are the commanders of his army."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Mahodara and Mahāpārśva, and the _rākṣasa_ Akampana—these are his army commanders (_anīkapāḥ_), equal to the world-guardians (_lokapālasamāḥ_) in battle.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.14–16 (The Sub-Commanders and Ten Thousand Crores)**
+
+On अनीकपाः, **Tilaka** glosses the term specifically as deputy commanders (उपसेनापतयः), whereas **Śiromaṇi** and **Bhūṣaṇa** (reading अनीकस्थाः) render it broadly as generals (सेनापतयः). **Śiromaṇi** adds that Vibhīṣaṇa's omission of Indrajit's parentage subtly confirms his conviction that Rāma already knows Indrajit to be Rāvaṇa's son (इन्द्रजितं रावणपुत्रत्वेन रामो जानातीति विभीषणनिश्चयो ध्वनितः). **Govindarāja** connects verses 14 and 15 syntactically (महोदर इत्यादि श्लोकद्वयम्), noting that these generals command ten thousand crores of _rākṣasas_.
 </details>
 </details>
 
@@ -834,6 +898,14 @@ spoke the following words:
 
 Hearing those words of Vibhīṣaṇa, the best of the Raghus (_raghusattamaḥ_) pondered everything with his mind (_anvīkṣya manasā_) and spoke these words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.17–18 (Rāma's Calm Assessment of Rāvaṇa's Deeds)**
+
+Glossing अन्वीक्ष्य as `having weighed what should and should not be done' (आलोच्य सर्वं कर्तव्याकर्तव्यम्), **Govindarāja** and **Śiromaṇi** cite _Amarakośa_ (अपदानं कर्म वृत्तम्) on कर्मापदानानि (`feats of valor accomplished in action'). Both **Tilaka** and **Śiromaṇi** observe that Rāma's declaration `I know them' (अवगच्छामि) implies that Rāvaṇa's vaunted exploits are utterly powerless against him (अस्मद्विषये तान्यकिञ्चित्कराणीति सूचितम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -943,6 +1015,14 @@ the king. Hear this truth from me."
 
 “Having slain Ten-necked Rāvaṇa along with Prahasta and his sons (_sahātmajam_), I shall make you king (_rājānam_); hear this truth of mine!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.19 (The Pledge of Kingship)**
+
+**Rāma Varmā** (_Tilaka_) connects Rāma's vow directly to Vibhīṣaṇa's earlier surrender in verse 6 (भवद्गतं हि मे राज्यम्): Rāma now solemnly pledges to fulfill that word by crowning him king (राजानं त्वां करिष्यामि) after slaying Rāvaṇa. **Śivasahāya** (_Śiromaṇi_) adds that Rāma makes this solemn promise specifically to dispel any lingering doubt in Vibhīṣaṇa's mind (विभीषणस्य पाक्षिकशङ्कां निवर्तयितुं प्रतिजानीते) raised by the formidable catalog of _rākṣasa_ warriors.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1069,14 @@ left alive by me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whether Rāvaṇa should enter Rasātala, or even Pātāla, or the presence of the Grandsire Brahmā (_pitāmahasakāśam_), he shall not escape from me (_me_) alive.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.20–21 (The Cosmic Reach of Rāma's Oath)**
+
+Distinguishing the cosmic realms of flight, **Tilaka** defines रसातलम् as the netherworld immediately beneath the earth (भूसंनिहिताधोलोकम्) and पातालम् as the lowest subterranean world (अधोलोकावधिभूतं लोकम्). **Govindarāja** (_Bhūṣaṇa_) glosses रसातलम् as a chasm in the earth (भूविवरम्), पातालम् as the underworld, and पितामहसकाशम् as Satyaloka, the highest cosmic plane where Rāvaṇa's boon-giver Brahmā dwells (स्ववरप्रदसमीपम् उपरितनलोकावधिभूतं सत्यलोकं वा). All three commentators take मे in the ablative sense of मत्तः (`from me').
 </details>
 </details>
 
@@ -1098,6 +1186,14 @@ Vibhishana saluted him by bowing his head and started telling as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of Rāma of unwearying deeds, the righteous-souled [Vibhīṣaṇa] bowed his head in salutation (_śirasābhivandya_) and began to speak thus:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.22–24 (Vibhīṣaṇa's Counter-Pledge and Rāma's Embrace)**
+
+Moved by Rāma's oath sworn upon his three brothers (त्रिभिस्तैर्भ्रातृभिः शपे), Vibhīṣaṇa salutes with his head (शिरसावन्द्य) and vows to assist to the limit of his strength (यथाप्राणम्) in storming Laṅkā and slaying the _rākṣasas_. **Govindarāja** highlights Rāma's immediate embrace (परिष्वज्य) and his joyous command to Lakṣmaṇa to fetch ocean water (समुद्राज्जलमानय) so that Vibhīṣaṇa's royal consecration may be performed on the spot.
 </details>
 </details>
 
@@ -1242,6 +1338,14 @@ this greatly intelligent Vibhishana with that water, so that I am pleased."
 **24:** Embracing (_pariṣvajya_) Vibhīṣaṇa as he spoke thus, Rāma, pleased, said to Lakṣmaṇa: “Bring water from the ocean (_samudrāt_)!
 
 **25:** “And with that [water], O bestower of honor (_mānada_), quickly consecrate (_abhiṣiñca_) this wise Vibhīṣaṇa as king of the _rākṣasas_, since I am graciously pleased (_prasanne mayi_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.25–27 (The Coronation of Vibhīṣaṇa)**
+
+**Govindarāja** (_Bhūṣaṇa_) remarks that Rāma adds the locative absolute प्रसन्ने मयि (`since I am pleased') to show that Vibhīṣaṇa himself sought only pure service, not kingship (अभिषेको विभीषणेनानाकांक्षित इति गम्यते), and that consecrating him in the midst of the monkey chiefs (मध्ये वानरमुख्यानाम्) makes the royal investiture publicly binding and inviolable. Witnessing Rāma's grace, the monkeys raise joyous acclamations (प्रचुक्रुशुः हर्षनादं चक्रुः); **Rāma Varmā** (_Tilaka_) glosses प्रचुक्रुशुः specifically as sounding auspicious vocal trills of joy (संतोषान्किलिकिलामकुर्वन्).
 </details>
 </details>
 
@@ -1427,6 +1531,14 @@ monkeys possessing a great splendor?"
 
 And Hanūmān and Sugrīva spoke to Vibhīṣaṇa: “How shall we cross the imperturbable (_akṣobhyam_) ocean, the abode of Varuṇa (_varuṇālayam_), surrounded as we all are by the armies of mighty monkeys?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.28–29 (The Strategic Consultation on Crossing the Sea)**
+
+**Govindarāja** notes that at a later moment in a private spot (समयान्तरे कत्रचिदेकान्ते प्रदेशे), Hanūmān and Sugrīva consult Vibhīṣaṇa as a shrewd strategist on how the monkey host can cross the ocean, which is formidable because it is unfathomable (अक्षोभ्यम्) and Varuṇa's seat (वरुणालयम्). Reading उपायैरभिगच्छाम, **Tilaka** and **Śivasahāya** (_Śiromaṇi_) construe verse 29 as asking by what means they should approach the lord of rivers; reading उपायं नाधिगच्छामो, **Govindarāja** renders it: `Even upon reflection, we find no expedient.'
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1531,6 +1643,14 @@ prince Rama seeks ocean as his refuge"
 
 Thus addressed, the righteous-souled (_dharmātmā_) Vibhīṣaṇa replied: “King Rāghava ought to go for refuge (_śaraṇaṃ gantum arhati_) to the Ocean.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.30 (Vibhīṣaṇa's Counsel to Supplicate the Ocean)**
+
+Answering their query, Vibhīṣaṇa advises that King Rāghava (राघवो राजा) should petition the Ocean (समुद्रं शरणं गन्तुमर्हति). **Govindarāja** observes that the specific title `King' (राजा) is used to exclude Lakṣmaṇa and designate Rāma alone as the proper royal supplicant (लक्ष्मणव्यावृत्तये राजेत्युक्तिः), while **Śiromaṇi** anticipates the next verse by glossing शरणम् as virtually Rāma's own ancestral house (स्वगृहप्रायं समुद्रम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1596,6 +1716,14 @@ will be inclined to do the act for Rama, his kinsman".
 
 “This immeasurable (_aprameyaḥ_) great ocean was excavated by Sagara (_khānitaḥ sagareṇāyam_); the great ocean ought therefore to accomplish the work of Rāma, its kinsman (_jñāteḥ_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.31 (The Ancestral Bond of Sagara's Ocean)**
+
+Explaining why supplicating the sea is sure to succeed, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) recall that the ocean basin was dug out by King Sagara through his sons (सगरेण स्वपुत्रैरिति शेषः). Because Sagara is Rāma's Ikṣvāku forebear (रामकूटस्थेन), the Ocean stands as a kinsman (ज्ञातेः रामस्य) and, reading महामतिः, **Govindarāja** glosses the epithet as `mindful of past favors' (उपकारज्ञ इत्यर्थः), noting that both its origin and its immeasurable expansion (अप्रमेयो महोदधिः) depend on Rāma's lineage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1650,6 +1778,14 @@ place where Rama and Lakshmana were there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus advised by the wise (_vipaścitā_) _rākṣasa_ Vibhīṣaṇa, Sugrīva then came to where Rāma was with Lakṣmaṇa (_salakṣmaṇaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.32–34 (Sugrīva's Report and Rāma's Approval)**
+
+**Tilaka** construes सलक्ष्मणः in verse 32 with Sugrīva (`Sugrīva, accompanied by Lakṣmaṇa, came to where Rāma was'), whereas the base text takes सलक्ष्मणः with Rāma. On सागरस्योपवेशनम्, **Tilaka** glosses it as going for refuge (शरणगमनम्) and **Govindarāja** as sitting in formal supplication (उपासनम्). **Tilaka** adds that although Rāma is himself the refuge of all worlds (सकलजगच्छरण्यभूतस्य), he approves this humble course because it accords with righteous propriety (प्रकृत्या धर्मशीलस्य).
 </details>
 </details>
 
@@ -1809,6 +1945,14 @@ is agreeable to you."
 
 **36:** “Sugrīva is ever wise (_paṇḍitaḥ_), and you are discerning in counsel (_mantravicakṣaṇaḥ_); having deliberated together on the matter (_ubhābhyāṃ sampradhāryārtham_), declare whatever pleases you both.”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.35–36 (Honoring Vibhīṣaṇa's Counsel)**
+
+On सत्क्रियार्थम्, **Tilaka** and **Govindarāja** explain that Rāma consults Lakṣmaṇa and Sugrīva specifically to honor Vibhīṣaṇa's advice (विभीषणमन्त्रबहुमानार्थम्), while **Śiromaṇi** takes it as honoring Sugrīva and Lakṣmaṇa themselves (सुग्रीवादिसत्कारः) even though Rāma is fully capable of acting alone. In verse 36, **Govindarāja** notes that the dual उभाभ्याम् functions both as instrumental agent with सम्प्रधार्य (`having deliberated') and as dative with रोचते (`what pleases you both').
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1871,6 +2015,14 @@ proper courtesy, the following words: .
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed, those two heroes, Sugrīva and Lakṣmaṇa, spoke these words endowed with respectful courtesy (_samudācārasaṃyuktam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.37–38 (The Courteous Endorsement of Sugrīva and Lakṣmaṇa)**
+
+**Rāma Varmā** (_Tilaka_) glosses समुदाचारः as respectful etiquette (उपचारः), which **Śivasahāya** (_Śiromaṇi_) explains as due deference (सत्कारेण) and **Govindarāja** (_Bhūṣaṇa_) specifies as folding the hands in _añjali_ (अञ्जलिबन्धाद्युपचारः). On किमर्थं नौ न रोचिष्यति, all three commentators note that the rhetorical question affirms complete agreement (सर्वथाभीष्टमेवेत्यर्थः): **Govindarāja** explains that at a moment when no other means was in sight, Vibhīṣaṇa's counsel effortlessly accomplishes their goal (अयत्नेन कार्यसाधकम्).
 </details>
 </details>
 
@@ -1976,6 +2128,14 @@ Varuna, even the celestials and demons along with Indra cannot reach the city of
 
 “Without binding a bridge (_abaddhvā sāgare setum_) across this dreadful ocean, the abode of Varuṇa, Laṅkā cannot be reached (_nāsādituṃ śakyā_) even by the gods and _asuras_ together with Indra.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.39–40 (The Necessity of the Bridge and Urgency of Action)**
+
+**Govindarāja** observes that verse 39 reveals the true fruit of supplicating the Ocean—namely, the construction of a causeway (समुद्रशरणागतेः फलं सेतुबन्धनम्) across waters teeming with monstrous _timiṅgilas_ (तिमितिमिङ्गिलादिसंवाधितत्वेन दुस्तरे), which even Indra and the gods could not cross unbridged, much less monkeys (किं पुनरस्माभिरिति भावः). In verse 40, **Govindarāja** glosses शूरस्य as `valiant in counsel' (मन्त्रशूरस्य) and नियुज्यताम् as `let the Ocean be entreated' (प्रार्थ्यताम्), while **Tilaka** (reading सागराय नियुज्यताम्) supplies स्वात्मेति शेषः (`let yourself be dedicated to propitiating the Ocean').
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2068,6 +2228,14 @@ city being ruled by Ravana."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed, Rāma then seated himself (_saṃviveśa_) upon the shore of the lord of rivers and streams strewn with _kuśa_ grass (_kuśāstīrṇe_), like the sacrificial fire (_hutāśanaḥ_) upon an altar (_vedyām iva_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.41 (Rāma Seated Like Sacrificial Fire)**
+
+Accepting their united counsel without delay, Rāma seats himself in formal _prāyopaveśana_ upon the ocean shore strewn with sacred _kuśa_ grass (कुशास्तीर्णे तीरे). The epic poet closes the _sarga_ with a luminous _upamā_: Rāma on the _kuśa_-strewn beach blazes with ascetic and martial majesty like the sacrificial fire (हुताशनः) kindled upon a Vedic altar (वेद्यामिव).
 </details>
 </details>
 

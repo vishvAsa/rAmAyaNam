@@ -1683,6 +1683,152 @@ path of my magnanimous Lord."
 
 Join (_yojaya_) my head with his head, and my body with his body (_kāyaṃ kāyena_); O Rāvaṇa, I shall follow (_anugamiṣyāmi_) the path (_gatim_) of my great-souled husband!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.32.1–3 (Tokens of Recognition and the Osprey's Cry)**
+
+**Govindarāja** and **Śivasahāya** construe the first three verses as a single syntactic sentence (श्लोकत्रयमेकं वाक्यम्). Seeing the phantom head, the bow, the hairline along the forehead (केशान्तं ललाटम्), and the crest-jewel, and recalling the alliance between Rāma and Sugrīva previously reported by Hanūmān (सुग्रीवप्रतिसंसर्गं रामसुग्रीवयोः संबन्धं)—which lends credence to Rāvaṇa's tale of the monkey army's slaughter—Sītā identifies the tokens (एतैः सर्वैरभिज्ञानैः चिह्नैः अभिज्ञाय रामलोकान्तरगमनं ज्ञात्वा) and wails like an osprey (कुररीव क्रोशन्ती विलपन्ती). **Śivasahāya** curiously takes `Kaikeyī' to include her maid Mantharā (कैकेयीं कैकेयीदासीं मन्थरां विजगर्हे).
+
+_____________
+
+**6.32.4–5 (The Bitter Apostrophe to Kaikeyī)**
+
+Addressing the absent queen in bitter irony, Sītā cries `Be satisfied!' (सकामा भव सम्पूर्णकामा भवेत्यर्थः). **Govindarāja** explains the biting implication: though Kaikeyī plotted Rāma's exile to secure the throne for Bharata, the death of Rāma, the very life-thread of the race, destroys Bharata and the whole dynasty as well (कुलतन्तुभूतरामहननेन तदेकपराः सर्वे भरतादयो हता एव), leaving strife itself as her only fruit (कलहशीलया कलहस्वभावया कलहप्रयोजनयेति यावत्). In 6.32.5, **Govindarāja** glosses _āryeṇa_ as `dear to all' (आर्येण सर्वप्रियकारिणेत्यर्थः), while **Rāma Varmā** supplies _saha_ with _mayā_ (चीरवसनं दत्त्वा मया सह प्रव्राजित इत्यन्वयः).
+
+_____________
+
+**6.32.6 (Sītā's Collapse)**
+
+Overcome by trembling, the pitiable princess crashes to the ground like a cut plantain stalk. **Govindarāja** glosses _tapasvinī_ as `worthy of pity' (तपस्विनी शोचनीया), explains `went to the earth' (जगतीं भूमिं जगाम) as `fell unconscious in a swoon', and interprets _bālā_ (`young girl') as `simple-minded, unschooled in detecting demonic illusions' (बाला मुग्धबुद्धिरित्यर्थः).
+
+_____________
+
+**6.32.7–8 (Recovering Consciousness and the Warrior's Vow)**
+
+On 6.32.7, **Govindarāja** explains that after catching her breath (समाश्वस्य उच्छ्वासं प्राप्य) and recovering awareness (चेतनां ज्ञानम्), Sītā opened wide her tear-filled eyes (आयतेक्षणा अश्रुभिः प्लुतत्वेन शिरोवलोकनार्थं विस्तृतलोचनेत्यर्थः). **Rāma Varmā** glosses _samupāsthāya_ as placing the head beside her (समुपास्थाय स्वसमीपे स्थापयित्वा) and records the variant समुपाघ्राय (`kissing/smelling the head'). In 8, **Govindarāja** defines Rāma's warrior-vow as never returning without slaying the foe (वीरव्रतं शत्रुमविनाश्य न निवर्तिष्ये इति संकल्पम्), and invokes the maxim गत्यर्था ज्ञानार्था इति न्यायात् to gloss _gatāsmi_ as `I have witnessed' (गतास्मि दृष्टवत्यस्मि).
+
+_____________
+
+**6.32.9–10 (The Paradox of the Chaste Wife's Widowhood)**
+
+Commenting on 6.32.9, **Govindarāja** and **Śivasahāya** note the popular maxim that a husband's premature death stems from a fault in the wife (भर्तुर्मरणं भार्यादोषनिमित्तकं भवति); yet Sītā protests that since she has lived with spotless chastity (साधुवृत्तायाः सम्यग्जीवनवत्याः ममाग्रतस्त्वं गतोऽसि), his passing cannot be due to any unfaithfulness of hers (मद्वैगुण्यहेतुकं न भवतीति ज्ञापितम्). **Rāma Varmā** alternatively takes _vaiguṇyam_ simply as `the supreme calamity' (महान् अनर्थः उच्यते), avoiding the implication that all widows are unchaste. Reading दुःखाद्दुःखम् in 10a, **Govindarāja** traces her sequence of sorrows from forest exile to abduction (वनप्रस्थानं प्रथमं दुःखं तस्मादपि दुःखं रावणेनापहरणं) and now her rescuer's death.
+
+_____________
+
+**6.32.11–12 (Kausalyā's Bereavement and Falsified Prophecies)**
+
+In 6.32.11, Sītā grieves for her mother-in-law: like a fond mother-cow robbed of its calf, Kausalyā is left childless (विवत्सा नष्टवत्सा) by her slain son (सा मम श्वश्रूः कौसल्या वत्सला धेनुर्यथा धेनुरिव त्वया हतेन पुत्रेण वत्सेनेव विवत्सा कृता). In 12, **Rāma Varmā** identifies the _daivajñāḥ_ as Vasiṣṭha and the royal seers (दैवज्ञैः वसिष्ठादिभिरिति शेषः), while **Śivasahāya** glosses them as astrologers (दैवज्ञैर्ज्योतिर्विद्भिस्ते आयुर्दीर्घमुद्दिष्टं) whose prediction of Rāma's long life now seems proven false (यतोऽल्पायुरसि अतस्तेषां वचनं मिथ्या).
+
+_____________
+
+**6.32.13–14 (The Inscrutable Power of Time over Policy)**
+
+Retracting her doubt about the seers' veracity, Sītā reflects on the power of Fate: **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** explain that Time (_kālaḥ_), the primal cause of all beings (कालो भूतानां प्रभवः प्रभवाय हेतुस्तस्मादयमेनं प्राणिनं तथा पचति), ripens every creature toward its destined karmic fruit (कालः परमात्मा यथा येन प्रकारेण एनं पचनविषयभूतम् पचति) by first eclipsing even a wise man's foresight (अतः प्राज्ञोऽपि त्वमप्राज्ञो जात इति भावः). Otherwise, asks **Govindarāja** on 6.32.14, how could Rāma, so skilled in warding off disasters, fall victim to an unforeseen night-attack (हि यस्माद्व्यसनानां वर्जने प्रतिरोधे कुशलोऽसि अतः अदृष्टम् अचिन्तितं सौप्तिकत्वेनादृष्टं वा मृत्युम् कस्मादापन्नः)?
+
+_____________
+
+**6.32.15–16 (Sītā as Kālarātrī and the Earth as Rival Bride)**
+
+On 6.32.15, **Govindarāja** explains both readings: with ममाच्छिद्य, the ruthless Night of Doom (_kālarātryā_) tore Rāma away from Sītā; with मया कालरात्र्येत्यन्वयः (favored by **Rāma Varmā** and **Śivasahāya**), Sītā identifies herself in a metaphor (मया कालरात्र्येति व्यस्तरूपकम्) as the cruel Kālarātrī whose embrace brought about his destruction (रौद्रया अतिनृशंसया अत्यन्तनिर्दयया कालरात्र्या रूपया मया करणभूतया संपरिष्वज्य आच्छिद्य बलात्कृत्य तथा हत इति). In 16, lying on the ground, he embraces the Earth like a rival bride (मां विहाय प्रियां नारीमिव पृथिवीमालिङ्ग्य शेषे); **Govindarāja** notes that the vocative _puruṣarṣabha_ hints that such faithlessness is unbecoming of a courteous hero (पुरुषर्षभेत्यनेन दक्षिणस्य शठत्वमनुचितमिति सूच्यते).
+
+_____________
+
+**6.32.17–18 (The Worshiped Bow and Reunion with Daśaratha)**
+
+Gazing at the counterfeit bow, Sītā recalls how she and Rāma used to honor it with sandal-paste and garlands (मया सह तव त्वयार्चितं मत्प्रियं ते धनुरिदमेतादृशं जातम्), only for it to lie cast at her feet by an enemy. In 6.32.18, **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** construe Rāma as now united in heaven with his father Daśaratha and all his royal ancestors (सर्वैः पितृभिः सार्धं स्थितेन दशरथेन श्वशुरेण स्वर्गे समागत इत्यन्वयः).
+
+_____________
+
+**6.32.19–20 (The Star-Crowned Dynasty and the Silent Husband)**
+
+On 6.32.19, **Rāma Varmā** explains that the Ikṣvāku race is `constellation-become in heaven' (दिवि नक्षत्रभूतम्) because royal ancestors like Triśaṅku and the Sun shine among the stars (त्रिशङ्कुनक्षत्रत्वाच्छतजित्सूर्यत्वेन वंशस्य तथात्वम्), and that Rāma now abandons that line after fulfilling his great duty to his father (महता पितृवचःपालनरूपेण कर्मणा कृतम्). Reading नक्षत्रभूतस्त्वं, **Govindarāja** takes Rāma himself as now dwelling in a celestial car and gazing down upon his lineage (दिवि नक्षत्रभूतः विमानस्थः त्वम् समुपेक्षसे पश्यसि). In 20, **Govindarāja** (reading बाल्येन) notes that she was wedded by him in early youth (बालां बाल्येन संप्राप्ताम् बाल्य एव त्वयोढामित्यर्थः) and begs him to speak (सहचारिणीं मां किं न प्रेक्षसे किं न प्रतिभाषसे).
+
+_____________
+
+**6.32.21–22 (The Pāṇigrahaṇa Vow and the Departure to Yonder World)**
+
+In 6.32.21, **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** explain the allusion to the Vedic wedding rite of clasping the bride's hand (_pāṇigrahaṇa_), where the groom vows to practice dharma together with his bride (पाणिं गृह्णता त्वया त्वया सह चरिष्यामि धर्मादिकम् इति यत्संश्रुतं प्रतिज्ञातं तत्स्मर); remembering that pledge, he should take her with him in death. In 22, **Śivasahāya** notes the morphology of _apahāya_ (अपहायेति अपपूर्वकगत्यर्थकहाधातुप्रकृतिकल्यबन्तम्), asking why he has departed from this world to the next (अस्माल्लोकात् अमुं लोकं परलोकम् कस्माद्धेतोः गतोऽसि) leaving her behind.
+
+_____________
+
+**6.32.23–24 (The Desecrated Body Denied Its Agnihotra Rites)**
+
+In 6.32.23, Sītā shudders to think that Rāma's body, once adorned with auspicious unguents and embraced by her alone (कल्याणैरनेकमाङ्गलिकोपचारैः रुचिरं यत्तव गात्रं मया परिष्वक्तं तत्ते शरीरं क्रव्यादैर्विपरिकृष्यते), is now being torn by carrion-beasts; **Govindarāja** remarks that `embraced by me alone' (मयेव परिष्वक्तं) proves Rāma's strict monogamy (रामस्य दारान्तरं नास्तीति गम्यते). Worse still, though he performed great soma-sacrifices headed by the Agniṣṭoma with generous priestly fees, his headless trunk on a foreign battlefield is denied cremation with his own sacred Agnihotra fire.
+
+_____________
+
+**6.32.25–27 (Lakṣmaṇa's Solitary Return and Kausalyā's Broken Heart)**
+
+In 6.32.25, **Rāma Varmā** and **Śivasahāya** read परिप्रेक्ष्यति (`will see', द्रक्ष्यतीत्यर्थः), whereas **Govindarāja** reads परिप्रक्ष्यति (`will question') and cites Pāṇini's व्रजयजोर्भावे क्यप् for the suffix in _pravrajyām_: of the three who went into exile (प्रव्रज्यां प्रवासमुपपन्नानां त्रयाणामस्माकं मध्ये एकं लक्ष्मणं), Kausalyā, drowned in grief (शोकलालसा शोकमग्ना), will confront Lakṣmaṇa returning alone. Hearing from him of the monkey army's rout (मित्रबलस्य वानरबलस्य) and Rāma's death in sleep (सुप्तं हतं त्वद्दशायां हतमित्यर्थः), Kausalyā will die of a cleft heart (अवदीर्णेन विदीर्णेनोपलक्षिता सती नूनं न भविष्यति म्रियेतेत्यर्थः).
+
+_____________
+
+**6.32.28–29 (Drowning in a Hoofprint after Crossing the Sea)**
+
+On 6.32.28, all three commentators highlight the proverbial irony (_laukika-nyāya_) of `crossing the ocean only to perish in a puddle' (सागरमुत्तीर्य गोष्पदे हतस्तद्वन्नाशकस्येति या लोकवार्ता तद्वदिदं जातमित्यर्थः): **Govindarāja** notes that after vanquishing mighty foes like Khara and bridging the sea, Rāma was allegedly slain in sleep by the petty Prahasta (खरतरखरादीन् हत्वा क्षुद्रेण प्रहस्तेन हत इत्यर्थः). Calling herself a stain upon her family (स्वकुलपांसनी स्वकुलदूषणी), Sītā laments that Rāma wedded her in ignorance (मोहाद् अज्ञानात्), or that her own infatuation with the golden deer (कपटमृगादिविषयकमोहं प्राप्य) made his bride his death.
+
+_____________
+
+**6.32.30 (Karmic Obstruction of a Gift in a Past Life)**
+
+Searching for the karmic root of her widowhood, Sītā concludes that in a former birth she must have prevented an excellent gift—specifically, notes **Rāma Varmā** and **Govindarāja**, the gift of a bride in marriage (अन्यां जातिमन्यस्मिन्जन्मन्युत्तमं दानं कन्यादानं गोभूहिरण्यादिदानं च वारितं न कृतम्)—whereby even as the wife of Rāma, who honored every guest and sheltered all beings (सर्वे अतिथयो यस्य तस्य सर्वातिथेः सर्वरक्षितुरित्यर्थः), she is condemned to weep in the prime of life.
+
+_____________
+
+**6.32.31–33 (Sītā's Plea for Death Beside Rāma's Remains)**
+
+Instead of yielding to Rāvaṇa's demand, Sītā begs him to slay her directly over Rāma's remains (रामस्योपरि संस्थाप्येत्यर्थः). **Rāma Varmā** and **Govindarāja** gloss _samānaya_ as `unite' (समानय योजय), explaining that for a devoted wife the highest good (_kalyāṇam uttamam_) is union with her husband in death (उत्तमं कल्याणं पतिसंयोगरूपम्). In 6.32.32, **Śivasahāya** paraphrases her plea: `join my severed head with Rāma's head and my torso with his headless trunk (मे शिरः अस्य रामस्य शिरसा कायं शेषशरीरं कायेन च योजय), so that I may follow my husband's path (भर्तुर्गतिम् अनुगमिष्यामि)'.
+
+_____________
+
+**6.32.34 (Why Sītā's Life Did Not Depart)**
+
+On 6.32.34, **Govindarāja** and **Rāma Varmā** gloss _lālapyamānāyām_ as `while she was lamenting bitterly' (लालप्यमानायां प्रलपन्त्याम्) and identify _anīkasthaḥ_ as a palace gate-warder (अनीकस्थो द्वाररक्षी) sent by Prahasta, while **Śivasahāya** takes him as an intelligence officer (अनीकस्थः कश्चन चारविशेषः). **Govindarāja** addresses a classic literary question: why did Sītā not die instantly of grief upon seeing Rāma's severed head? Because for an ideal couple (_divyadampatī_), the actual survival of the spouse—not mere belief or delusion—is the ontological cause that sustains life (भर्तृजीवितवैकल्यभावात्सा जीवति स्म).
+
+_____________
+
+**6.32.35 (The Guard's Salutation and Announcement of Prahasta)**
+
+The warder bows low, propitiates Rāvaṇa for intruding into the pleasure-grove, and announces that the commander-in-chief Prahasta is waiting at the gate (अनुप्राप्तं द्वारीति शेषः). **Rāma Varmā** notes a point of dramatic lexicon regarding the greeting _āryaputra_: although in dramatic convention _āryaputra_ is most commonly used by wives addressing their husbands, it is also properly employed by servants addressing a venerable royal master (आर्यपुत्रशब्दो यद्यपि स्त्रीभिर्भर्तरि प्रयुज्यते प्रायेण तथापि पूज्यमात्रे सामान्यतः प्रयोगोऽपि बोध्यः).
+
+_____________
+
+**6.32.36–37 (The Urgent Summons from Prahasta)**
+
+Reporting Prahasta's arrival with the council of ministers, the messenger excuses his intrusion at an unseasonable hour. Reading the plural वयं प्रस्थापिताः in 36b, **Govindarāja** remarks that the solitary guard uses the plural out of trepidation, since a crowd of messengers could not enter the inner grove (वयमिति भयेन बहुवचनं बहूनामन्तःपुरे समागमासंभवात्). On 6.32.37, **Rāma Varmā** and **Śivasahāya** read the vocative क्षमान्वित (`O forbearing king, pardon my intrusion because of urgent state business', किंचिदात्ययिकमावश्यकं कार्यमस्ति), whereas **Govindarāja** reads क्षमान्वितम् (`an urgent matter that has nonetheless waited patiently upon your royal pleasure', मया त्वदाज्ञाप्रतीक्षणेनान्वितम्).
+
+_____________
+
+**6.32.38–39 (Rāvaṇa's Departure and War-Council)**
+
+Leaving the Aśoka grove, Rāvaṇa goes to grant audience to his ministers (मन्त्रिणां दर्शनम् अवलोकनार्थं ययौ). On 6.32.39, **Rāma Varmā** notes that Rāvaṇa first conferred privately with his inner circle (दुष्टमन्त्रिभिरेकान्ते स इत्यं विचार्येत्यर्थः) and then entered the formal assembly hall to issue orders. **Govindarāja** and **Śivasahāya** explain that having learned from his spies the true measure of Rāma's prowess (रामविक्रमं विदित्वा सभां प्रविश्य आत्मनः सर्वं कृत्यं मन्त्रिभिः सह समर्थ्य निश्चित्य विदधे), Rāvaṇa assigned each commander his respective duty.
+
+_____________
+
+**6.32.40 (The Vanishing of the Phantom Head and Bow)**
+
+The very instant Rāvaṇa stepped out of the grove (निर्याणं निर्गमनम्), the severed head and bow disappeared (निर्याणसमनन्तरमेवेति योजना). **Rāma Varmā** points out the causal reason: because they were fabricated of rākṣasa sorcery (मायामयत्वादिति भावः), the illusion dissolved as soon as the conjurer's patron withdrew from the scene.
+
+_____________
+
+**6.32.41–42 (Settling the War-Plan and Summoning the Marshals)**
+
+Expanding upon the summary statement in 6.32.39, **Govindarāja**, **Rāma Varmā**, and **Śivasahāya** explain _rāmakāryaviniścayam_ as the definitive resolution of Rāvaṇa's military measures against Rāma (रामकार्यविनिश्चयं रामविषयं स्वकर्तव्यनिश्चयम्). Having settled the plan with his counselors, Rāvaṇa turns to his loyal troop-commanders (बलाध्यक्षान् रावणोऽब्रवीत्) standing nearby.
+
+_____________
+
+**6.32.43 (The Drum-Summons and the Secrecy Order)**
+
+Rāvaṇa orders the armies mustered by the loud booming of kettle-drums beaten with heavy drumsticks (स्फुटकोणाहतेन उल्बणवादनदण्डाहतिजनितेन), adding the curious proviso: `and the reason for the muster must not be announced' (कारणं न वक्तव्यमिति भावः). **Rāma Varmā** explains that heralds should simply proclaim `The king summons you!' without mentioning Rāma's siege. **Govindarāja** offers a subtler psychological motive: if heralds proclaimed throughout the city that the army was mustering to fight Rāma, Sītā would overhear the proclamation and realize that Rāvaṇa's tale of Rāma's midnight slaughter was a lie (तदानीं देव्याः सन्निधौ कथितं स्वकीयं रामसैन्यवधवृत्तान्तवाक्यमसत्यमिति तस्याः विदितं स्यादिति भावः).
+
+_____________
+
+**6.32.44 (Muster of the Host and Theological Note)**
+
+The officers swiftly assemble the host and report to their battle-eager sovereign (समागतं बलं भर्तरि न्यवेदयँश्च, where **Govindarāja** glosses the locative _bhartari_ as भर्तरि विषये). Concluding the sarga, **Rāma Varmā** adds an overarching theological reflection: Sītā's grief-stricken lamentation over the illusory head serves to manifest her assumed human nature (अत्र सीताप्रलापः स्वस्य मानुषधर्मप्रकटनायेति बोध्यम्) within the divine play.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

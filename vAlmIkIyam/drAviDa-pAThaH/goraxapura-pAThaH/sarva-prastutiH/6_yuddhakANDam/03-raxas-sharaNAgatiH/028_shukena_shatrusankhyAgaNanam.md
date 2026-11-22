@@ -68,6 +68,14 @@ Hearing Sāraṇa's account, Śuka points out the remaining Kiṣkindhā monkey 
 
 Having heard Sāraṇa&#x27;s speech, Śuka then pointed out (_ādiśya_) all the rest of that army (_balaṃ tat sarvam_) and spoke these words to Rāvaṇa, overlord of the Rākṣasas:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–3.**
+
+Rāma Varmā (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) note that Śuka now describes the remainder of the army left unmentioned by Sāraṇa (सारणानुक्तं कंचिच्छुको वक्तीत्याह), pointing them out with his finger (आदिश्य अङ्गुल्या निर्दिश्य) and addressing Rāvaṇa deferentially as राक्षसाधिपम् (सविनयोक्तिद्योतनाय). All three commentators gloss गाङ्गेयान् as growing on the Gaṅgā's banks (गङ्गातटरुहान्), न्यग्रोधान् as banyans (वटान्), and हैमवतान् as Himālayan (हिमवत्पर्वतोद्भवान्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -223,6 +231,14 @@ musicians, are able to change their form at will and always stay in Kishkindha."
 
 **5:** These are Sugrīva&#x27;s companions (_sugrīvasacivāḥ_), ever dwelling in Kiṣkindhā (_kiṣkindhānilayāḥ_)—monkeys begotten by gods and Gandharvas (_devagandharvair utpannāḥ_) and able to change their form at will (_kāmarūpiṇaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4–5.**
+
+Both _Tilaka_ and _Bhūṣaṇa_ remark that Śuka himself will define the numerical units शङ्कु and वृन्द at the close of this Sarga (शङ्कुवृन्दादिस्वरूपमुत्तरत्र स्वयमेव वक्ष्यति). Citing _Amarakośa_ (मन्त्री सहायः सचिवः), Govindarāja glosses सचिवाः as companions (सुग्रीवसहायाः) and explains that repeating कामरूपिणः in 5b after 3a avoids tautology by specifying that their shape-shifting power is innate from birth (उत्पत्तिकालत्वमुच्यत इति न पुनरुक्तिः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -306,6 +322,20 @@ destroying Lanka by their power."
 **6:** And those two youths of godlike form (_kumārau devarūpiṇau_) whom you see standing there are Mainda and Dvivida; there is none equal to those two in battle (_tābhyāṃ nāsti samo yudhi_).
 
 **7:** Both have partaken of ambrosia (_amṛtaprāśinau_) with the sanction of Brahmā (_brahmaṇā samanujñātau_), and these two aspire to crush Laṅkā as she stands (_yathā_) by their own might (_ojasā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.**
+
+Introducing Mainda and Dvivida, Govindarāja glosses कुमारौ as youths (युवानौ) and construes देवरूपिणौ either as a compound or as vocative देव (`O king') plus रूपिणौ (`of handsome form', प्रशस्तरूपौ).
+
+_____________
+
+**7.**
+
+Explaining why Mainda and Dvivida are peerless in battle, Govindarāja (_Bhūṣaṇa_) and Śivasahāya (_Śiromaṇi_) note that by Brahmā's leave both drank divine ambrosia (समनुज्ञातौ सन्तौ अमृतप्राशिनावित्यर्थः). Rāma Varmā (_Tilaka_) cites Śākalya's rule (लोपः शाकल्यस्य) for the hiatus in समनुज्ञाता अमृतप्राशिनौ, while _Śiromaṇi_ glosses यथा as `just as she stands' (यथावत्).
 </details>
 </details>
 
@@ -395,6 +425,20 @@ known as the son of wind-god and famously called as Hanuman."
 **9:** —he is the one who came into Laṅkā to find Vaidehī and to spy out you (_vaidehyās tava cābhigantā_), O lord! Behold this Vānara, whom you saw before (_purā dṛṣṭam_), now returned (_punar āgatam_).
 
 **10:** Eldest son of Kesarī (_jyeṣṭhaḥ kesariṇaḥ putraḥ_), renowned as the son of the Wind-god (_vātātmaja iti śrutaḥ_), he is famed as Hanūmān, by whom the ocean was leaped across (_laṅghito yena sāgaraḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**8–9.**
+
+Introducing Hanumān (हनुमन्तं वर्णयति), all three commentators gloss प्रभिन्नम् as rutting (मत्तम्, citing _Amarakośa_: प्रभिन्नो गर्जितो मत्तः). On वैदेह्यास्तव चाभिगन्ता, Govindarāja observes that `approaching' (अभिगमनम्) means searching in reference to Sītā (वैदेहीपक्षे अन्वेषणम्) and reconnoitering in reference to Rāvaṇa (रावणपक्षे दर्शनम्).
+
+_____________
+
+**10–12.**
+
+Govindarāja reconciles केसरिणः पुत्रः with वातात्मजः by explaining that Hanumān is Kesarī's _kṣetraja_ son sired by Vāyu (तस्य क्षेत्रजः पुत्रः). He explains बलरूप via the praise-suffix _rūpap_ (`wondrous strength', प्रशस्तबलसमन्वितः प्रशंसायां रूपप् प्रत्ययः) and glosses सततगः as the Wind (वायुः).
 </details>
 </details>
 
@@ -522,6 +566,14 @@ intoxicated as he was with his own strength."
 **12:** When a mere child (_bālaḥ_), it is told (_kila_), being hungry (_bubhukṣitaḥ_) and beholding the rising sun (_udyantaṃ bhāskaram_), he traversed a course of three thousand _yojanas_ (_triyojanasahasram adhvānam_),—
 
 **13:** —resolving in his mind (_iti niścitya manasā_), ‘I shall seize the sun (_ādityam āhariṣyāmi_), and my hunger will not remain (_na me kṣut pratiyāsyati_),’ he leaped up, proud of his strength (_baladarpitaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13–15.**
+
+Explaining the child Hanumān's resolve (आदित्यमाहरिष्यामि), Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) note that because terrestrial fruits could not appease his hunger (फलादिभिर्न निवर्तिष्यते), he mistook the rising sun for a fruit and thought his hunger would not return once he seized it (मे क्षुत् न प्रतियास्यति). Falling upon the Sunrise Mountain (भास्करोदयने गिरौ), one jaw was slightly chipped on a rock, earning the firm-jawed hero the name हनूमान्.
 </details>
 </details>
 
@@ -728,6 +780,14 @@ whom this fire was lighted and is still blazing up Lanka."
 
 **17:** He aspires to churn up Laṅkā all alone (_ekaḥ_) by his might (_ojasā_). Indeed, how do you forget that monkey (_kathaṃ vismarase kapim_), by whom that fire (_dhūmaketuḥ_) set in Laṅkā blazes fiercely for you even today (_jājvalyate &#x27;sau vai tavādya vai_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16–17.**
+
+Śuka affirms that he knows Hanumān's immeasurable might through authoritative tradition (आगमयोगेन) and reminds Rāvaṇa that the conflagration (धूमकेतुः, fire) kindled by Hanumān in Laṅkā still blazes before his eyes today (जाज्वल्यते).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -758,6 +818,14 @@ whom this fire was lighted and is still blazing up Lanka."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And he who stands next to him (_yaś caiṣo &#x27;nantaraḥ_), a dark-complexioned hero (_śūraḥ śyāmaḥ_) with lotus-like eyes (_padmanibhekṣaṇaḥ_), the supreme warrior of the Ikṣvākus (_ikṣvākūṇām atirathaḥ_) whose manly valor is renowned throughout the world (_loke viśrutapauruṣaḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.**
+
+Turning from Hanumān to the warrior standing immediately beside him (अनन्तरः), Śuka introduces Rāma as dark-complexioned (श्यामः), lotus-eyed (पद्मनिभेक्षणः), and the supreme chariot-warrior (अतिरथः) of the Ikṣvāku line.
 </details>
 </details>
 
@@ -800,6 +868,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —in whom righteousness never wavers (_yasmin na calate dharmaḥ_) and who never transgresses righteousness (_yo dharmaṃ nātivartate_), who knows Brahmā&#x27;s missile and the Vedas (_brāhmam astraṃ vedāṃś ca veda_), the foremost of knowers of the Veda (_vedavidāṃ varaḥ_),—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19–21.**
+
+Completing the portrait of Rāma, Śuka emphasizes both his absolute fidelity to _dharma_ (यस्मिन् न चलते धर्मो यो धर्मं नातिवर्तते) and his mastery of the _brahmāstra_ and the Vedas (ब्राह्ममस्त्रं वेदांश्च वेद). Pairing Rāma's cosmic martial power to cleave the sky and rend the earth with Rāvaṇa's abduction of Sītā from Janasthāna (जनस्थानात् सीता चापि हृता त्वया), Śuka warns that this very Rāma now marches upon Rāvaṇa.
 </details>
 </details>
 
@@ -968,6 +1044,14 @@ among the wielders of all weapons."
 
 **23:** —he is Lakṣmaṇa by name, devoted to what is dear and beneficial to his brother (_bhrātuḥ priyahite rataḥ_), skilled in policy and in warfare (_naye yuddhe ca kuśalaḥ_), the foremost of all wielders of weapons (_sarvaśastrabhṛtāṃ varaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22–23.**
+
+Introducing Lakṣmaṇa at Rāma's right side (दक्षिणे पार्श्वे), Śuka contrasts Rāma's dark hue with Lakṣmaṇa's luster of pure Jāmbūnada gold (शुद्धजाम्बूनदप्रभः), broad chest, copper-red eyes, and dark curling hair (नीलकुञ्चितमूर्धजः), highlighting his twin mastery of statecraft and battle (नये युद्धे च कुशलः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1020,6 +1104,14 @@ mighty. He has always been the right arm of Rama and in outward moving life (of 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Unforgiving (_amarṣī_), invincible (_durjayaḥ_), a conqueror (_jetā_), valorous, victorious, and mighty, he is Rāma&#x27;s right arm (_rāmasya dakṣiṇo bāhuḥ_) and his external life-breath ever moving abroad (_nityaṃ prāṇo bahiścaraḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.**
+
+The acumulatio of martial epithets—अमर्षी दुर्जयो जेता विक्रान्तश्च जयी बली—culminates in the celebrated metaphor of Lakṣmaṇa as Rāma's right arm (रामस्य दक्षिणो बाहुः) and his very life-breath moving outside his body (प्राणो बहिश्चरः).
 </details>
 </details>
 
@@ -1080,6 +1172,14 @@ all the demons in battle."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For the sake of Rāghava (_rāghavasyārthe_), this one does not spare his own life (_na jīvitaṃ parirakṣati_); he alone aspires (_eṣaivāśaṃsate_) to slay all the Rākṣasas in battle (_yuddhe_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25–26.**
+
+Concluding Lakṣmaṇa's description in 25, Śivasahāya (_Śiromaṇi_) notes that he gladly risks his life for Rāma (जीवनमपि त्यक्तुमिच्छतीत्यर्थः). On Vibhīṣaṇa at Rāma's left flank (सव्यं पक्षम्), Rāma Varmā (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) explain रक्षोगणपरिक्षिप्तः as surrounded by his four ministers, whose valor equals a whole host (चतुर्णामेव रक्षसां गणतुल्यविक्रमत्वात्तथोक्तम्), whereas _Śiromaṇi_ glosses परिक्षिप्तः as `abandoned' by the Rākṣasa hosts (रक्षोगणैः परिक्षिप्तः त्यक्तः).
 </details>
 </details>
 
@@ -1157,6 +1257,14 @@ kings, is enraged really with you and is to attack us in the battle."
 
 **27:** Consecrated to the sovereignty of Laṅkā (_laṅkāyām abhiṣecitaḥ_) by the glorious King of kings [Rāma] (_śrīmatā rājarājena_), he now advances against you for battle (_tvām asau yuddhāyābhivartate_), filled with counter-rage (_pratisaṃrabdhaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.**
+
+All three commentators identify श्रीमता राजराजेन as Rāma (रामेणाभिषेचितः). Govindarāja explains that Rāma is called श्रीमान् because, having all desires fulfilled, he does not covet Laṅkā's throne (अवाप्तसमस्तकामत्वेन लङ्काराज्यानभिलाषिणा), and राजराजः (`King of kings') because his imperial status requires installing kings like Vibhīṣaṇa (विभीषणादिराजत्वानिर्वहणे स्वस्य राजराजत्वं न निर्वहेदिति मन्वानेन).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1187,6 +1295,14 @@ kings, is enraged really with you and is to attack us in the battle."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And he whom you see standing in the center like an immovable mountain (_madhye girim ivācalam_), the lord of all the chiefs of branch-roaming monkeys (_sarvaśākhāmṛgendrāṇāṃ bhartāram_), of boundless energy (_amitaujasam_),—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28–30.**
+
+Introducing Sugrīva (अथ सुग्रीवं वर्णयति), Govindarāja glosses मध्ये as standing between Rāma and Vibhīṣaṇa (रामविभीषणयोर्मध्ये) and distinguishes innate discernment (बुद्ध्या) from scriptural learning (ज्ञानेन शास्त्रजन्यज्ञानेन).
 </details>
 </details>
 
@@ -1289,6 +1405,14 @@ And he whom you see standing in the center like an immovable mountain (_madhye g
 
 —whose golden garland of a hundred lotuses (_kāñcanī mālā śatapuṣkarā_) shines here, coveted by gods and mortals (_kāntā devamanuṣyāṇām_), wherein Fortune herself abides (_yasyāṃ lakṣmīḥ pratiṣṭhitā_),—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31–32.**
+
+Both Rāma Varmā (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) gloss पुष्करम् as lotus (शतपुष्करा शतपद्मा). Govindarāja identifies the लक्ष्मीः abiding in the golden garland as Martial Fortune (वीरलक्ष्मीः): tradition holds that Vālin never suffered defeat while wearing it, which is why Rāma slew Vālin from cover rather than face to face (तद्धारणादेव हि रामस्तदनभिमुख एव वालिनं हतवान्). Śivasahāya (_Śiromaṇi_) construes हत्वा as causative (घातयित्वा, `having caused Vālin to be slain by Rāma') or directly with the agent रामेण.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1384,6 +1508,14 @@ having killed Vali (Sugreeva's brother)."
 
 A hundred hundred-thousands (_śataṃ śatasahasrāṇām_) the wise declare to be a _koṭi_; a hundred thousand _koṭis_ (_śataṃ koṭisahasrāṇām_) is called a _śaṅku_.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**33–34.**
+
+Turning to the enumeration of the entire Vānara host (अथ सर्वबलसंख्यां दर्शयितुं संख्यास्वरूपं निरूपयति), Govindarāja notes that because numbers up to a hundred thousand (लक्ष) are familiar, Śuka defines the higher powers (शतपर्यन्तसंख्यायाः सुगमत्वात्तदूर्ध्वसंख्या अत्र संकीर्त्यन्ते): 100 _lakṣas_ = 1 _koṭi_ ((10^7)); (10^5) _koṭis_ = 1 _śaṅku_ ((10^12)); (10^5) _śaṅkus_ = 1 _mahāśaṅku_ ((10^17)); and (10^5) _mahāśaṅkus_ = 1 _vṛnda_ ((10^22)).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1467,6 +1599,14 @@ _________________
 
 A hundred thousand _vṛndas_ (_śataṃ vṛndasahasrāṇām_) is remembered as a _mahāvṛnda_; a hundred thousand _mahāvṛndas_ is here called a _padma_.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**35–36.**
+
+Continuing the progression by factors of (10^5) (शतं सहस्राणाम्), Śuka defines a _mahāvṛnda_ ((10^27)), a _padma_ ((10^32)), a _mahāpadma_ ((10^37)), and a _kharva_ ((10^42)).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1548,6 +1688,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A hundred thousand _kharvas_ (_śataṃ kharvasahasrāṇām_) is remembered as a _mahākharva_; [a hundred] thousand _mahākharvas_ is called a _samudra_; and a hundred thousand _samudras_ (_śataṃ samudrasāhasram_) is called an _ogha_.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**37–40.**
+
+Concluding the numerical scale with _mahākharva_ ((10^47)), _samudra_ ((10^52)), _ogha_ ((10^57)), and _mahaugha_ ((10^62)), Śuka tallies the total monkey host (अथ प्रकृतसंख्यामाह in _Tilaka_). Govindarāja (_Bhūṣaṇa_) explains that listing intermediate units separately (एवं कोटिसहस्रेण...) reflects the distinct contingents of individual sub-commanders (अवान्तरसंख्याभेदकीर्तनमवान्तरसेनापतिभेदात्), while समुद्रसदृशेन in 40b is a simile (`ocean-like', सागरसदृशेन) rather than the numerical unit.
 </details>
 </details>
 
@@ -1644,6 +1792,14 @@ one Mahaugha."
 
 **41:** —and surrounded by the heroic Vibhīṣaṇa together with his ministers (_vibhīṣaṇena vīreṇa sacivaiḥ parivāritaḥ_), this Sugrīva, lord of the Vānaras, ever encompassed by a mighty host (_mahābalavṛtaḥ_) and of mighty strength and valor (_mahābalaparākramaḥ_), advances upon you for battle (_tvāṃ yuddhārtham anuvartate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.**
+
+Śivasahāya (_Śiromaṇi_) construes महाबलवृतः either as surrounded by a mighty army or as accepted in alliance by the mighty Rāma (महाबलेन रामेण वृतः स्वीयत्वेन स्वीकृतः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1723,5 +1879,13 @@ identical of an ocean."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having surveyed this army (_imāṃ vāhinīṃ samīkṣya_) that has drawn near, O great king, resembling a blazing planet (_prajvalitagrahopamām_), let the supreme effort now be made (_prayatnaḥ paramo vidhīyatām_) so that victory may be yours, and not defeat at the hands of your foes (_na paraiḥ parābhavaḥ_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.**
+
+Rāma Varmā (_Tilaka_) glosses प्रज्वलितग्रहोपमाम् as resembling the flames of a blazing planet (प्रज्वलितग्रहज्वालोपमाम्), and Govindarāja glosses it as a fierce malign planet (क्रूरग्रहोपमाम्), discerning a covert warning (ध्वन्यते) that without peace Rāvaṇa faces certain defeat (परैः पराजय एव स्यात्).
 </details>
 </details>

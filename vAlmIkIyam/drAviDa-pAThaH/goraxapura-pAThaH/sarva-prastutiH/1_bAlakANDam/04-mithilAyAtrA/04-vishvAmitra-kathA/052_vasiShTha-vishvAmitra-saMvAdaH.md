@@ -81,6 +81,14 @@ is highly rejoiced and obediently made an obeisance to the sage. [1-52-1]
 
 Beholding him (_taṃ dṛṣṭvā_), the heroic and mighty Viśvāmitra was supremely delighted (_paramaprītaḥ_), and out of humility bowed low (_praṇato vinayād vīraḥ_) to Vasiṣṭha, the foremost of those who recite sacred prayers (_vasiṣṭhaṃ japatāṃ varam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.1–2 (praṇato vinayāt & vyādideśa)**
+
+**Rāma Varmā (_Tilaka_)** links vv. 1–2: having bowed to Vasiṣṭha (_vasiṣṭhaṃ praṇataḥ_), Viśvāmitra was greeted with ‘Welcome!’ (_svāgataṃ tavety uktaḥ_), whereas **Govindarāja (_Bhūṣaṇa_)** takes _praṇataḥ_ as a finite verb (_praṇanāma_). **Tilaka** glosses _vyādideśa_ as ‘caused to be given’ (_adāpayat_), and **Śiromaṇi** notes that _ca_ implies Vasiṣṭha extended seats to the king’s attendants as well (_cakāreṇa tatsahacarebhyaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +180,14 @@ who by now has assumed a seat. [1-52-3]
 
 And when the wise Viśvāmitra had taken his seat (_upaviṣṭāya ca tadā viśvāmitrāya dhīmate_), the foremost of sages offered him fruits and roots in accordance with sacred custom (_yathānyāyaṃ munivaraḥ phalamūlam upāharat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.3–4 (phalamūlam & tapo'gnihotraśiṣyeṣu)**
+
+Both **Tilaka** (_jātitvād ekavadbhāvaḥ_) and **Govindarāja** explain the singular _phalamūlam_ by Pāṇini 2.4.6 (_jātir aprāṇinām_: class-singular for inanimate collectives). Following _Dharmaśāstra_ etiquette, Viśvāmitra first inquires after the brāhmaṇa’s three spiritual treasures: his asceticism, his _agnihotra_ fires, and his disciples.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -236,6 +252,14 @@ to the matchless king about the all round well-being of every activity. [1-52-4,
 **4:** Accepting that homage of hospitality from Vasiṣṭha (_pratigṛhya tu tāṃ pūjāṃ vasiṣṭhāt_), the best of kings inquired after the welfare of his asceticism, sacred fire-oblations, and disciples (_tapo&#x27;gnihotraśiṣyeṣu kuśalaṃ paryapṛcchata_)—
 
 **5:** —and Viśvāmitra of great splendor inquired also after the welfare of the grove of forest trees (_vanaspatigaṇe tadā_); and Vasiṣṭha declared to the best of kings that all was well everywhere (_sarvatra kuśalaṃ prāha vasiṣṭho rājasattamam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.5–6 (vanaspatigaṇe & japatāṃ śreṣṭhaḥ)**
+
+Why does the king ask after the hermitage trees (_vanaspatigaṇe_)? **Tilaka** explains that great sages cherish their grove with parental affection just as Kaṇva did in _Śākuntala_ (_kaṇvavat teṣu snehāt tadviṣaye'pi kuśalaṃ paryapṛcchata_), and glosses _japatām_ in v. 6 as ‘ascetics’ (_tapasvinām_).
 </details>
 </details>
 
@@ -345,6 +369,14 @@ the state, righteously...'
 
 “Is all well with you, O King (_kaccit te kuśalaṃ rājan_)? Delighting your subjects through righteous governance (_kaccid dharmeṇa rañjayan_), do you protect them, O righteous monarch, in accordance with the fourfold royal code (_prajāḥ pālayase rājan rājavṛttena dhārmika_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.7 (kaccit & the Fourfold rājavṛtta)**
+
+**Govindarāja** cites _Amarakośa_ (_kaccit kāmapravedane_) to note that _kaccit_ expresses an affectionate inquiry. On _rājavṛttena_, all three commentators (**Tilaka**, **Śiromaṇi**, and **Govindarāja**) quote the classical _nīti_ stanza defining the fourfold conduct of a king: _‘nyāyenārjanam arthasya vardhanaṃ pālanaṃ tathā / satpātre pratipattiś ca rājavṛttaṃ caturvidham’_—justly acquiring wealth, increasing it, guarding it, and bestowing it upon worthy recipients.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -396,6 +428,14 @@ of adversaries, I hope that you have surely vanquished all of your adversaries. 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Are your servants and ministers properly maintained (_kaccit te saṃbhṛtā bhṛtyāḥ_), and do they abide obediently by your command (_kaccit tiṣṭhanti śāsane_)? And have all your enemies been vanquished by you, O destroyer of foes (_kaccit te vijitāḥ sarve ripavo ripusūdana_)?
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.8–10 (saṃbhṛtāḥ & the Double vasiṣṭham)**
+
+In v. 8, **Tilaka** glosses _saṃbhṛtāḥ_ as maintained through timely wages (_vetanadānādinā_; _poṣitāḥ_, **Govindarāja**, **Śiromaṇi**). Why does _vasiṣṭham_ appear twice in v. 10? **Tilaka** explains that one _vasiṣṭham_ is the superlative of _vasu_ meaning ‘most eminent’ (_variṣṭhavācī_), while **Śiromaṇi** derives the second as _ā-vasiṣṭham_ (‘supremely radiant’, from _āṅ + vas_, आङ् + वस्).
 </details>
 </details>
 
@@ -546,6 +586,14 @@ heightening and gladdening one another. [1-52-11]
 
 Having conversed thus for a very long time upon those righteous topics (_kṛtvā tau suciraṃ kālaṃ dharmiṣṭhau tāḥ kathās tadā_), those two, filled with supreme joy, delighted one another (_mudā paramayā yuktau prīyetāṃ tau parasparam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.11–12 (prīyetām & prahasann iva)**
+
+**Tilaka** identifies _prīyetām_ as an epic augmentless imperfect (_aḍabhāva ārṣo laṅi_), and explains that Vasiṣṭha’s smile (_prahasann iva_) springs from joy at obtaining so noble a guest (_uttamātithilābhaharṣeṇa_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,6 +693,14 @@ one like you and to this military force of yours, kindly accept it from me. [1-5
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O mighty monarch (_mahābala_), I wish to offer hospitality to this army of yours (_ātithyaṃ kartum icchāmi balasyāsya_), and to you as well, who are of immeasurable majesty (_tava caivāprameyasya_); pray accept it from me in due measure (_yathārhaṃ saṃpratīccha me_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.13–14 (aprameyasya & atithiśreṣṭhaḥ)**
+
+**Śiromaṇi** glosses _aprameyasya_ as one of immeasurable power (_iyattārahitaprabhāvasya_), noting that _ātithyam_ governs both the army (_balasyāsya_) and the king. In v. 14, **Tilaka** and **Śiromaṇi** explain _atithiśreṣṭhaḥ_ as a causal epithet (_hetugarbhaṃ viśeṣaṇam_): because a king is the foremost of guests, he must be honored with special effort (_prayatnataḥ pūjanīyaḥ_).
 </details>
 </details>
 
@@ -756,6 +812,14 @@ is deemed to have been offered to me with your reverential words, it is enough a
 
 Thus addressed by Vasiṣṭha, the high-minded King Viśvāmitra (_viśvāmitro mahāmatiḥ_) replied: “My hospitality has already been accomplished by you through your honoring words alone (_kṛtam ity abravīd rājā pūjāvākyena me tvayā_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.15–16 (pūjāvākyena & the Implied dhvani)**
+
+Reluctant to burden a forest hermitage, Viśvāmitra says his hospitality is already accomplished (_kṛtam_) by Vasiṣṭha’s courteous offer (_pūjāvākyena_, **Tilaka**; _priyavākyena_, **Govindarāja**) and by the fruits and roots in the grove. **Tilaka** notes the polite suggestion (_dhvaniḥ_): since royal delicacies are absent in a forest hermitage, we are content with these offerings (_rājabhojyābhāvād anenaiva vayaṃ saṃtuṣṭā iti dhvaniḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -843,6 +907,14 @@ The reverential salutation *namas te astu* is discussed in the endnote.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In every way, O sage of supreme wisdom, I have been richly honored by you who are yourself worthy of all worship (_sarvathā ca mahāprājña pūjārheṇa supūjitaḥ_). Salutations be to you—I shall now depart; look upon me with a friendly eye (_namas te &#x27;stu gamiṣyāmi maitreṇekṣasva cakṣuṣā_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.17–18 (maitreṇa & punaḥ punaḥ nyamantrayata)**
+
+**Tilaka** and **Govindarāja** explain _maitreṇa_ (‘affectionate’, _snehayuktena_) as formed with possessive _-aṇ_ (_matvarthīyāṇantam_), and **Govindarāja** notes that despite the king’s repeated refusals (_bahuśaḥ pratyuttare'pi_), Vasiṣṭha pressed his banquet invitation again and again.
 </details>
 </details>
 
@@ -953,6 +1025,14 @@ sage. So be it!" [1-52-19]
 
 “So be it!” replied the son of Gādhi to Vasiṣṭha (_bāḍham ity eva gādheyo vasiṣṭhaṃ pratyuvāca ha_); “as it pleases Your Reverence, so let it be, O bull among sages (_yathāpriyaṃ bhagavatas tathāstu munipuṃgava_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.19–20 (bāḍham & kalmāṣīṃ dhūtakalmaṣām)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja (_Bhūṣaṇa_)** note that _yathāpriyaṃ bhagavatas tathāstu_ explicates the particle of assent _bāḍham_. In v. 20, **Tilaka** glosses _kalmāṣīm_ as Vasiṣṭha’s dappled _homa_-cow (_citravarṇāṃ homadhenum_) and **Govindarāja** cites _Amarakośa_ (_‘citraṃ kirmīrakalmāṣa—’_), while **Śiromaṇi** explains _dhūtakalmaṣām_ as ‘washed clean of all stain’ (_prakṣālitapaṅkādikām_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1054,6 +1134,14 @@ me. [1-52-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Come, come quickly, O Śabalā, and hear my word (_ehy ehi śabale kṣipraṃ śṛṇu cāpi vaco mama_)! I have resolved to offer hospitality to this royal sage together with his army (_sabalasyāsya rājarṣeḥ kartuṃ vyavasito &#x27;smy aham_); arrange that reception for me with a sumptuous feast (_bhojanena mahārheṇa satkāraṃ saṃvidhatsva me_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.21–22 (ṣaḍraseṣu & kṛte mama)**
+
+In v. 22, **Tilaka** glosses _ṣaḍraseṣu_ as the six culinary tastes—sweet, sour, salty, pungent, bitter, and astringent (_madhurādiṣu_)—and _yathākāmam_ as ‘in full accordance with each guest’s satisfaction’ (_tatparitṛptyanatikrameṇa_). **Govindarāja** cites the _Nighaṇṭu_ (_arthe kṛte ca tādarthye_) on _kṛte_ (‘for my sake’).
 </details>
 </details>
 
@@ -1169,6 +1257,14 @@ Vishvamitra continued his narration. [1-52-23]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bring forth quickly, O Śabalā, a complete abundance of foods (_annānāṃ nicayaṃ sarvaṃ sṛjasva śabale tvara_), endowed with savory juices, solid dishes, beverages, and delicacies to be licked and sucked (_rasenānnena pānena lehyacoṣyeṇa saṃyutam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**52.23 (The Fivefold Culinary Classification)**
+
+**Tilaka** distinguishes the five categories of food Śabalā is asked to create: _rasena_ (sweet juices and soups), _annena_ (chewed dishes such as cakes and boiled rice, _bhakṣyabhojyādinā_), _pānena_ (spiced drinks, _pānakarasādinā_), _lehyam_ (confections licked with the tongue, _jihvāgrāhyaṃ phāṇitādi_), and _coṣyam_ (juicy fruits sucked with the lips, _adharapuṭagrāhyam āmraphalādi_).
 </details>
 </details>
 

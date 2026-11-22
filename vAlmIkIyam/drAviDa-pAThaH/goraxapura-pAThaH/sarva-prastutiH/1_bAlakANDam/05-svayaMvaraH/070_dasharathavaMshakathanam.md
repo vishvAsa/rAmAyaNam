@@ -77,6 +77,14 @@ this to sage Shataananda, the royal priest. [1-70-1]
 
 Then at daybreak, King Janaka, having completed his morning rites along with the great sages (_kṛtakarmā maharṣibhiḥ_), eloquent in speech (_vākyajñaḥ_), spoke these words to his royal _purohita_ Śatānanda:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.1–2 (kṛtakarmā & Reciprocal Family Protocol)**
+
+**Rāma Varmā (_Tilaka_)** observes that in a marital alliance between equal houses, mutual recitation of lineage and custom is required (_vivāhasambandhasadṛśe yaunasambandhe bandhvapekṣitaḥ parasparakulācāraḥ_). He glosses _kṛtakarmā_ as having performed the morning daily rites (_kṛtanityakriyaḥ_), whereas **Govindarāja** takes it as having completed the remaining sacrificial rites (_samāptayajñaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -148,6 +156,14 @@ that are famous for health keeping.
 
 **3:** “—whose ramparts and moat are ringed with defensive engines and stakes (_vāryāphalakaparyantām_), drinking the waters of the Ikṣumatī river (_pibann ikṣumatīṃ nadīm_): the city of Sāṅkāśyā, radiant as celestial merit itself (_puṇyasaṃkāśām_) and resembling the aerial palace Puṣpaka (_vimānam iva puṣpakam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.3 (vāryāphalakaparyantām & pibann ikṣumatīm)**
+
+The commentators offer two rich explanations of _vāryāphalakaparyantām_: **Tilaka** and **Śiromaṇi** take _vārī_ as a defensive rampart holding war-engines (_parabalaṃ vārayitum arho vāryaḥ prākāras tatsthā āphalakā yantraphalakāḥ_), while **Govindarāja** construes it as wooden stakes planted across the moat of the Ikṣumatī river (_vāriṇi ākīrṇāḥ nikhātāḥ phalakāḥ śūlāni_). Both note the variant _vāryāmalakaparyantām_ (bordered by _vāryāmalaka_ groves).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,6 +214,14 @@ hence he is the benefactor of the ritual.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I wish to behold him, for he is esteemed by me as the protector of my sacrifice (_yajñagoptā sa me mataḥ_); possessing great splendor, he too shall share with me in this supreme joy (_prītiṃ so &#x27;pi mahātejā imāṃ bhoktā mayā saha_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.4–6 (yajñagoptā & viṣṇum indrājñayā yathā)**
+
+Why is Kuśadhvaja called _yajñagoptā_ while residing in Sāṅkāśyā? **Tilaka**, **Śiromaṇi**, and **Govindarāja** explain that from Sāṅkāśyā he protected the sacrifice by supplying all requisite materials (_sāṅkāśyāyām eva sthitvāsmadyajñāpekṣitasāmagrīsaṃpādakatvena rakṣitā_). In v. 6, **Govindarāja** and **Śiromaṇi** gloss _viṣṇum_ as Upendra, Indra’s younger brother summoned to share in celestial enterprises.
 </details>
 </details>
 
@@ -348,6 +372,14 @@ has two.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Reaching the city of Sāṅkāśyā, those envoys beheld Kuśadhvaja and reported to him all that had transpired as well as King Janaka’s intention (_janakasya ca cintitam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.7–9 (kuśadhvajasyāgamanam & Order of Salutation)**
+
+When Kuśadhvaja arrives from Sāṅkāśyā, why does v. 9 state that he greeted Śatānanda first and then his elder brother King Janaka (_so 'bhivādya śatānandaṃ janakaṃ cātidhārmikam_)? **Rāma Varmā (_Tilaka_)** explicitly highlights this ritual order of precedence (_pūrvaṃ śatānandam abhivādya tato janakaṃ cābhivādyety arthaḥ_): the _purohita_ and spiritual preceptor receives salutation even before the sovereign elder brother.
 </details>
 </details>
 
@@ -514,6 +546,14 @@ acts have started to send Sudaamana, the distinguished minister. [1-70-10b, 11a]
 
 **11:** —dispatched their foremost minister Sudāman (_mantriśreṣṭhaṃ sudāmanam_), saying: “Go quickly, O chief of ministers, to the descendant of Ikṣvāku of immeasurable radiance (_ikṣvākum amitaprabham_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.10–11 (āsanaṃ so 'dhyarohata & sudāmanam)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** all note that Kuśadhvaja took his royal seat only after receiving the express permission of both Śatānanda and Janaka (_purohitajanakayor anumatyā_, **Tilaka**; _tayor ājñayā_, **Śiromaṇi**). Both brothers then jointly instruct their chief minister Sudāman (_sudāmanākhyaṃ mantriśreṣṭham_) to summon Daśaratha.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -576,6 +616,14 @@ said this on appearing before that king duly bowing down and hailing the king. [
 
 “and bring that unassailable monarch here along with his sons and his ministers (_ātmajaiḥ saha durdharṣam ānayasva samantriṇam_).” Proceeding to the royal pavilion (_aupakāryāṃ sa gatvā tu_), Sudāman approached the enhancer of the house of the Raghus (Daśaratha).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.12 (aupakāryām)**
+
+All three commentators gloss _aupakāryām_ as King Daśaratha’s temporary royal residence or camp-pavilion (_daśarathaśibirasaṃniveśam_), formed from _upakāryā_ (a royal tent or guest-palace) with the pleonastic _svārthe ṣyañ_ suffix.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -629,6 +677,14 @@ The minister Sudaamana said so to Dasharatha. [1-70-13b, 14a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding him and bowing his head in reverent salutation (_śirasā cainam abhivādya_), Sudāman spoke these words: “O heroic Lord of Ayodhyā! Vaideha, the ruler of Mithilā,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.13–15 (sopādhyāyapurohitam & Royal Arrival)**
+
+Chief Minister Sudāman’s invitation explicitly includes Daśaratha’s _upādhyāyas_ (Viśvāmitra, Vāmadeva, and the accompanying _ṛṣis_) and _purohita_ (Vasiṣṭha). Accompanied by his four sons, kinsmen (_sabāndhavaḥ_), counselors, and sages, Daśaratha enters Janaka’s assembly hall to conduct the formal betrothal (_kanyāvaraṇam_).
 </details>
 </details>
 
@@ -772,6 +828,14 @@ and in all affairs he is our internuncio... [1-70-16b, 17a]
 
 foremost among those skilled in speech (_vākyavidāṃ śreṣṭho_), spoke these words to Vaideha: “It is well known to you, O Great King, that the tutelary deity of the Ikṣvāku dynasty (_ikṣvākukuladaivatam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.16 (ikṣvākukuladaivatam)**
+
+**Govindarāja** explains the syntax of _viditaṃ te_ via Pāṇini 3.2.188 and 2.3.67 (present-sense _kta_ taking a genitive agent: ‘is known to you’) and glosses _kuladaivatam_ as the supreme spiritual preceptor of the dynasty (_daivataṃ paramagurur ity arthaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,6 +869,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “and the spokesman in all our sacred undertakings (_vaktā sarveṣu kṛtyeṣu_), is the revered sage Vasiṣṭha. With the cordial assent of Viśvāmitra and all the great sages (_viśvāmitrābhyanujñātaḥ saha sarvair maharṣibhiḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.17–18 (viśvāmitrābhyanujñātaḥ & daśapuruṣavikhyātāt)**
+
+Why does Daśaratha specify that Vasiṣṭha speaks ‘with the permission of Viśvāmitra’ (_viśvāmitrābhyanujñātaḥ_)? **Śiromaṇi** notes that this highlights the deep amity between the two former rivals (_tayor atimaitrīti sūcitam_), while **Govindarāja** adds that it forestalls any displeasure on Viśvāmitra’s part (_viśvāmitrasya kopaparihārāya_). Both **Tilaka** and **Govindarāja** cite the _Smṛti_ injunction _daśapuruṣavikhyātāt_ requiring the recitation of a groom’s unblemished lineage before marriage.
 </details>
 </details>
 
@@ -946,6 +1018,26 @@ and after, since Vishnu gave rise to Him. Up to here is ultramundane order of pr
 **19:** —skilled in speech, addressed these words to Vaideha together with his _purohita_ (_vaidehaṃ sapurodhasam_): “Brahmā, sprung from the Unmanifest Supreme Being (_avyaktaprabhavo brahmā_), is eternal, imperishable, and immutable (_śāśvato nitya avyayaḥ_).
 
 **20:** “From him was born Marīci, and Marīci’s son was Kaśyapa; from Kaśyapa was born Vivasvān (the Sun-god), and Manu is declared to be Vivasvān’s son (_manur vaivasvataḥ smṛtaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.19 (avyaktaprabhavo brahmā)**
+
+The three commentators offer a celebrated philosophical exegesis of _avyaktaprabhavaḥ_. **Rāma Varmā (_Tilaka_)** glosses _avyakta_ as the Supreme Brahman endowed with _māyā_ (_avyaktaśabdena māyāśabalaṃ brahma, brahmā caturmukhaḥ_) and notes that four-faced Brahmā’s eternity is relative (_āpekṣikāṇi_, lasting two _parārdhas_). **Govindarāja** cites _Ayodhyākāṇḍa_ (_ākāśaprabhavo brahmā_) and _Uttarakāṇḍa_ to show that _avyakta_ denotes Nārāyaṇa, from whose navel-lotus Brahmā arose.
+
+_____________
+
+**70.19 (Śiromaṇi’s Fourfold Interpretation)**
+
+**Śiromaṇi** proposes four distinct derivations of _avyaktaprabhavaḥ_: (1) self-existent (_svayaṃbhūḥ_), having no known material parent; (2) lotus-born (_ayonijaḥ_), where _avyakta_ denotes the navel-lotus arisen from the primeval waters; (3) the impeller of unmanifest _prakṛti_ (_pradhānaguṇakṣobhahetuḥ_); and (4) born from the Supreme Self (_paramātmaprakāśabhūtaṃ paraṃ brahma_).
+
+_____________
+
+**70.20–24 (Ikṣvāku to Dhundhumāra)**
+
+Tracing the Solar line from Marīci, Kaśyapa, Vivasvān, and Manu, **Tilaka** explains that Ikṣvāku is called _pūrvakam_ because he was the very first sovereign crowned in Ayodhyā (_pūrvakam ādyam_). On v. 24, **Govindarāja** notes that Dhundhumāra is an epithet of the first Yuvanāśva (_dhundhumāraḥ yuvanāśvāparanāmadheyaḥ_).
 </details>
 </details>
 
@@ -1198,6 +1290,14 @@ Yuvanaashva... [1-70-25]
 
 “From Dhundhumāra came the great-splendored warrior Yuvanāśva (_yuvanāśvo mahārathaḥ_); and Yuvanāśva’s son was the lord of the earth Māndhātā.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.25–27 (Māndhātā to Asita & jāyata)**
+
+Tracing the succession from Yuvanāśva and Emperor Māndhātā through Susandhi, Dhruvasandhi (brother of Prasenajit), and Bharata to Asita, **Śiromaṇi** explains the unaugmented imperfect _jāyata_ in v. 27d by the grammatical maxim that the _aṭ_-augment rule is non-mandatory in epic Sanskrit (_āgamaśāstrasyānityatvād aḍvirahaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1287,6 +1387,14 @@ From Dhruvasandhi, an illustrious one named as Bharata is begotten, and Bharata 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Dhruvasandhi’s renowned son was known by the name Bharata; and from Bharata was born the great-splendored king named Asita (_asito nāma jāyata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.27–28 (Purpose of the Asita-vṛttānta)**
+
+Why does Vasiṣṭha digress from a bare list of names to narrate Asita’s defeat by the Haihayas, Tālajaṅghas, and Śaśabindus? **Govindarāja** explains that the episode of Asita’s exile is introduced specifically to showcase the extraordinary majesty surrounding the birth of Emperor Sagara (_madhye asitavṛttāntakathanaṃ sagaravaibhavātiśayaprakaṭanāya_).
 </details>
 </details>
 
@@ -1386,6 +1494,14 @@ While counterattacking those kings, Asita is dethroned in war and then he reache
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Fighting against them in battle (_tāṃś ca sa pratiyudhyan vai_), the king was driven into exile from his kingdom (_yuddhe rājā pravāsitaḥ_); repairing to Mount Himavān accompanied by his two queens,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.29–30 (pravāsitaḥ & bhṛguprasravaṇe)**
+
+All three commentators gloss _pravāsitaḥ_ as ‘banished or driven out of his kingdom’ (_rājyān niḥsāritaḥ_, **Tilaka** and **Śiromaṇi**; _bhraṃśitaḥ_, **Govindarāja**). **Govindarāja** also records an instructive variant in v. 29c reading _bhṛguprasravaṇe_ (‘he dwelt at Bhṛguprasravaṇa on Himavān’), identifying it with the sacred peak earlier called Bhṛgutuṅga.
 </details>
 </details>
 
@@ -1540,6 +1656,20 @@ reverenced the sage who is godly in his glow... [1-70-32b-33a]
 
 **33:** “and lotus-petal-eyed, longing for a noble son (_kāṅkṣantī sutam uttamam_), she bowed in veneration; approaching that sage for refuge, Queen Kālindī reverently saluted him (_tam ṛṣiṃ sābhyupāgamya kālindī cābhyavādayat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.31 (sagaraṃ dadau & abhirato muniḥ)**
+
+In v. 31b, **Tilaka**, **Śiromaṇi**, and **Govindarāja** all point out that _sagaram_ is an adjective modifying an implied _bhakṣyam_ (food mixed with _gara_, poison: _garaṃ viṣaṃ tatsahitaṃ bhakṣyam_). On _abhirataḥ_ in v. 31d, **Govindarāja** notes that Sage Cyavana was pleased by the queen’s residence in his Himalayan hermitage and thus stood ready to grant her a boon (_svadeśavāsābhimānena prītaḥ san tadvarapradānāya saṃnihito 'bhūt_).
+
+_____________
+
+**70.32–33 (Queen Kālindī’s Refuge with Cyavana)**
+
+**Tilaka** and **Śiromaṇi** clarify that _ekā_ in v. 32c refers to the queen who had swallowed the poisoned food (_ekā prāśitagarā_), whose personal name is revealed in v. 33d as Kālindī (_kālindīti sagaropayoktṛpatnyā nāma_, **Govindarāja**). **Tilaka** adds that the particle _ca_ in _cābhyavādayat_ implies she also rendered devoted service to the sage (_cakāreṇa śuśrūṣaṇam apy akarot_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1616,6 +1746,14 @@ So said Sage Cyavana to the queen of Asita who received the poison. [1-70-35]
 
 **35:** “‘of great valor and great splendor, shall soon be born (_acirāt saṃjaniṣyati_), glorious even together with the poison (_gareṇa sahitaḥ śrīmān_); do not grieve, O lotus-eyed one (_mā śucaḥ kamalekṣaṇe_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.34–35 (gareṇa sahitaḥ & mā śucaḥ)**
+
+Why does Cyavana say ‘do not grieve’ (_mā śucaḥ_)? **Śiromaṇi** explains that through the sage’s grace, the lethal potency of the poison itself will perish (_viṣavīryam_), while **Tilaka** notes that her son will bring her joy, dispelling her grief over both her husband’s death and her co-wife’s poisoning (_patimaraṇajaṃ garadānajaṃ ca śokaṃ tyaja_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1670,6 +1808,14 @@ On reverencing Sage Cyavana that husband devout princess whose husband is no mor
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having bowed in reverence to Cyavana, that devoted princess and queen, though bereft of her husband (_patyā virahitā_), gave birth to a son through the sage’s grace (_tasmāt putraṃ devī vyajāyata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.36–37 (tasmāt & Etymology of Sagara)**
+
+In v. 36c, **Tilaka**, **Śiromaṇi**, and **Govindarāja** all caution that the ablative _tasmāt_ means ‘by reason of Cyavana’s boon’ (_tasmāc cyavanaprasādāt_ / _cyavanavarapradānāt_). Both **Tilaka** and **Śiromaṇi** also record the archaic variant _patinā rahitā_ (with _ārṣa_ instrumental _-inā_ for classical _patyā_). Born together with the poison (_tenaiva gareṇa saha jātaḥ_), the prince received the etymological name _Sagara_.
 </details>
 </details>
 
@@ -1780,6 +1926,14 @@ Bhageeratha... [1-70-38]
 
 “Sagara’s son was Asamañja, and from Asamañja came Aṃśumān; Dilīpa was Aṃśumān’s son, and Dilīpa’s son was Bhagīratha.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.38–39 (Sagara to Raghu & pravṛddhaḥ puruṣādakaḥ)**
+
+Tracing the famous line from Sagara through Asamañja, Aṃśumān, Dilīpa, Bhagīratha, and Kakutstha to Raghu, v. 39cd names Raghu’s son as Pravṛddha. **Tilaka**, **Śiromaṇi**, and **Govindarāja** explain that Pravṛddha was his original name (_pūrvaṃ pravṛddhākhyaḥ_), and that he temporarily became a man-eating rākṣasa (_puruṣādakaḥ_) due to Vasiṣṭha’s curse (_vasiṣṭhaśāpavaśād rākṣaso 'bhavat_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1873,6 +2027,14 @@ water blemished him via his feet. Hence, he is also termed as Kalmashapaada.
 
 “—and was also known as Kalmāṣapāda; and from him was born Śaṅkhaṇa. Sudarśana was Śaṅkhaṇa’s son, and from Sudarśana came Agnivarṇa.”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.40 (Origin of the Name Kalmāṣapāda)**
+
+Why was King Pravṛddha called _Kalmāṣapāda_ (‘Spotted-Foot’)? All three commentators recount the Purāṇic episode: when he took up consecrated water in his palm to hurl a counter-curse at Vasiṣṭha, his queen Madayantī entreated him to desist; he poured that fiery curse-water onto his own feet, turning them mottled black and white (_svapatnyanunayena svapādayor visṛṣṭavān, tataḥ kalmāṣavarṇapādas tadākhyaś cābhavat_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1926,6 +2088,14 @@ son is Maru and from Maru it is Prashushruka, and Ambariisha is the son of Prash
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Śīghraga was Agnivarṇa’s son, and Śīghraga’s son was Maru; Maru’s son was Praśuśruka, and from Praśuśruka came Ambarīṣa.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.41–43 (Solar Nahuṣa–Yayāti & Harmonizing Purāṇic Genealogies)**
+
+Noting the presence of Nahuṣa and Yayāti in the Solar lineage between Ambarīṣa and Nābhāga, **Govindarāja** points out that these are distinct from the famous Lunar Dynasty kings of the same names (_nahuṣayayātī candravaṃśyābhyām anyau_). Addressing the wider variations between Vālmīki’s _vaṃśāvalī_ and the Purāṇas (_purāṇādiṣu_), both **Tilaka** and **Govindarāja** formulate the classical hermeneutic principle: differences in genealogical order across texts are resolved either by difference of cosmic aeons (_kalpabhedena virodhaparihāraḥ_) or because single monarchs bore multiple names (_ekasyānekanāmakatvād vā_).
 </details>
 </details>
 
@@ -2030,6 +2200,14 @@ Rama and Lakshmana are born... [1-70-43]
 
 “On behalf of Rāma and Lakṣmaṇa—scions of kings pure in lineage from the very beginning (_ādivaṃśaviśuddhānām_), supremely devoted to _dharma_, born in the house of Ikṣvāku, heroic, and ever truthful in speech (_vīrāṇāṃ satyavādinām_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.44 (ādivaṃśaviśuddhānām)**
+
+**Tilaka** and **Govindarāja** gloss _ādivaṃśaviśuddhānām_ as ‘kings whose lineage has remained unblemished from the very beginning, starting from Brahmā’ (_ādito brahmāṇam ārabhya vaṃśena śuddhānām_), while **Śiromaṇi** interprets _ādivaṃśa_ as ‘the primordial dynasty prior even to the Lunar race’ (_somavaṃśāpekṣayā āyaś ca vaṃśaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2091,6 +2269,14 @@ to king Janaka. [1-70-44, 45]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—I formally request your two daughters in marriage, O King (_rāmalakṣmaṇayor arthe tvatsute varaye nṛpa_). Unto two princes who are their worthy equals, O best of men, you ought to give your two worthy daughters (_sadṛśābhyāṃ naraśreṣṭha sadṛśe dātum arhasi_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**70.45 (varaye & sadṛśābhyāṃ sadṛśe)**
+
+**Govindarāja** notes that Vasiṣṭha uses the first-person verb _varaye_ (‘I request in marriage’) because formal bride-solicitation is the prerogative of the royal _purohita_ (_varaṇasya purohitakṛtyatvāt_), and explains the un-coalesced dual _sadṛśe dātum_ as an _ārṣa_ instance of _prakṛtibhāva_.
 </details>
 </details>
 

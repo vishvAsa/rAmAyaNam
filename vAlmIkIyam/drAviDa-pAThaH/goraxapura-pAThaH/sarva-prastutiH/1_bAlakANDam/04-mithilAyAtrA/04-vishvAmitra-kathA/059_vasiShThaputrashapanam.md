@@ -77,6 +77,14 @@ and who in reality attained a state of profaner." Thus Sage Shataananda continue
 
 When the king, who had visibly passed into the state of a Caṇḍāla (_sākṣāc caṇḍālatāṃ gatam_), had spoken thus (_uktavākyam_), the son of Kuśika (_kuśikātmajaḥ_), moved by compassion (_kṛpayā_), spoke these sweet words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.1–2 (jāticaṇḍāla vs. karmacaṇḍāla)**
+
+Why could Viśvāmitra converse with Triśaṅku and admit him to a Vedic sacrifice despite his Caṇḍāla form? Reading _sākṣāccaṇḍālarūpiṇam_, **Govindarāja (_Bhūṣaṇa_)** and **Śiromaṇi** distinguish a Caṇḍāla by birth (_jāticaṇḍālaḥ_) from one bearing Caṇḍāla marks by curse (_caṇḍālaliṅgadhāritvam_, _karmacaṇḍālaḥ_): lacking birth-impurity (_śāstragamyacaṇḍālatvābhāvaḥ_, **Govindarāja**; _jāticaṇḍālatvābhāvāc ca yajñapravṛttiḥ_, **Rāma Varmā [_Tilaka_]** on v. 4), he is barred neither from speech nor sacrifice.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -177,6 +185,14 @@ then you can perform the ritual self-composedly. [1-59-3]
 
 “I shall invite all the great sages of meritorious deeds (_sarvān maharṣīn puṇyakarmaṇaḥ_) who will assist in the sacrifice (_yajñasāhyakarān_), O King; then you shall perform your sacrifice in peace and joy (_tato yakṣyasi nirvṛtaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.3–4 (anena saha rūpeṇa)**
+
+Why does Viśvāmitra vow to send Triśaṅku to heaven in his very Caṇḍāla form (_guruśāpakṛtaṃ rūpam_) rather than lifting the curse? **Tilaka** and **Govindarāja** explain that a sage’s curse cannot be annulled even by Brahmā (_ṛṣiśāpasya brahmaṇāpy avāryatvena_, **Govindarāja**; _anyathākartum aśakyatvāt_, **Tilaka**), while **Śiromaṇi** notes that this hints at Viśvāmitra’s inability to undo the preceptors’ curse (_guruśāpanivāraṇe svāśakyatvaṃ sūcitam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +258,14 @@ Vishvamitra and sought shelter.' Thus Vishvamitra solaced Trishanku. [1-59-5]
 **4:** “This form wrought by your preceptors’ curse which now abides in you (_guruśāpakṛtaṃ rūpaṃ yad idaṃ tvayi vartate_)—together with this very form (_anena saha rūpeṇa_), you shall ascend to heaven in your body (_saśarīro gamiṣyasi_)!
 
 **5:** “I deem heaven to be already within the grasp of your hand (_hastaprāptam ahaṃ manye svargaṃ tava_), O lord of men, since you have come unto Kauśika, the true giver of shelter, seeking refuge (_śaraṇyaṃ śaraṇāgataḥ_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.5–6 (hastaprāptam & yajñasambhārakāraṇāt)**
+
+Having sought refuge in Kauśika, Triśaṅku holds heaven in the palm of his hand (_hastaprāptam anāyāsalabhyam_, **Tilaka**; _anāyāsena labdhuṃ śakyam_, **Govindarāja**), and the sage orders his sons to procure the sacrificial materials (_yajñasāmagrīsampādanārtham_, **Tilaka**).
 </details>
 </details>
 
@@ -355,6 +379,14 @@ of rituals at my order.' [1-59-7, 8a]
 
 Summoning all his disciples (_sarvān śiṣyān samāhūya_), he spoke these words: “By my command, bring hither all the sages together with the descendants of Vasiṣṭha (_sarvān ṛṣīn savāsiṣṭhān ānayadhvaṃ mamājñayā_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.7–8 (savāsiṣṭhān & sartvijaḥ)**
+
+Calling his disciples (_śiṣyān bhṛtyān_, **Govindarāja**; _svāntevāsinaḥ_, **Śiromaṇi**), Viśvāmitra orders them to summon all sages together with Vasiṣṭha’s sons (_savāsiṣṭhān_), their pupils, friends (_suhṛdaḥ svasya_, **Tilaka**; _matsuhṛdaḥ śobhanahṛdayān vā_, **Govindarāja**), and their officiating priests (_sartvijaḥ_) deeply learned in the Vedas and Śāstras (_subahuśrutān_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -401,6 +433,14 @@ word it may be, all that is to be reported to me, whatever it is.' Thus Vishvami
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “along with their disciples, their friends, and their deeply learned officiating priests (_saśiṣyān suhṛdaś caiva sartvijaḥ subahuśrutān_). And whatever word anyone may utter when impelled by the authority of my message (_madvākyabalacoditaḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.8cd–9 (madvākyabalacoditaḥ & anādṛtam)**
+
+Anticipating defiance, Viśvāmitra warns that if anyone summoned by the authority of his word (_madvākyabalena coditaḥ āhūtaḥ_, **Govindarāja**; or even an uninvited bystander, _āhūto ’nyo vā_, **Tilaka**, **Śiromaṇi**) utters a disrespectful reply (_anādṛtam_)—whether dismissive indifference (_upekṣārūpam_) or censure that he is officiating for a Caṇḍāla (_caṇḍālayājanarūpaṃ nindātmakam vā_, **Tilaka**, **Govindarāja**)—it must be reported to him in full (_akhilena_).
 </details>
 </details>
 
@@ -472,6 +512,14 @@ words spoken by all the Vedic scholars. [1-59-10b, 11a]
 **9:** “all that is spoken, even if disrespectful or dismissive (_anādṛtam_), must be reported to me in its entirety (_tat sarvam akhilenoktaṃ mamākhyeyam_).” Hearing those words of his, they departed in all directions at his command.
 
 **10:** Then expounders of the Veda arrived from all lands (_ājagmur atha deśebhyaḥ sarvebhyo brahmavādinaḥ_); and those disciples, returning unto the sage of blazing splendour (_muniṃ jvalitatejasam_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.10–12 (varjayitvā mahodayam & vāsiṣṭhaṃ śatam)**
+
+Returning ahead of the invited sages (_āhūtarṣyāgamanāt pūrvam_, **Śiromaṇi**), the disciples report that Brahmins from all lands have come—save the sage named Mahodaya (_mahodayanāmānam ṛṣim_, **Śiromaṇi**; _tadākhyaṃ ṛṣim_, **Govindarāja**; _tannāmānam ṛṣim_, **Tilaka**; a partisan of Vasiṣṭha’s sons, _vasiṣṭhaputrapakṣapātitvaṃ dhvanitam_, **Śiromaṇi**) and the hundred sons of Vasiṣṭha.
 </details>
 </details>
 
@@ -653,6 +701,14 @@ to heaven even after their demise, partaking of the food of a profaner? [1-59-14
 
 **14:** “‘how in that sacrificial assembly shall the gods and sages partake of his oblation (_kathaṃ sadasi bhoktāro havis tasya surarṣayaḥ_)? Or how shall high-souled Brahmins, having eaten the food of a Caṇḍāla (_bhuktvā cāṇḍālabhojanam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.13–14 (kṣatriyo yājakaḥ & surarṣayaḥ)**
+
+**Tilaka** and **Govindarāja** explain the double ritual disqualification mocked by Vasiṣṭha’s sons: only a Brahmin may officiate (_viprasya yājanādhikārāt_), whereas here the priest is a Kṣatriya; and a Caṇḍāla is barred from being patron (_caṇḍālasya yājyatvānadhikārāt_). Dividing _surarṣayaḥ_, they note that the gods (_surāḥ_) partake of the oblation as deities (_surāṇāṃ devatātvena bhoktṛtvam_), while the sages (_ṛṣayaḥ_) eat the remnants as priests (_ṛtviktvena yajñaśiṣṭabhoktṛtvam_, **Tilaka**; _katham iṣṭaśiṣṭabhoktāraḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -707,6 +763,14 @@ with their eyes reddening in anger.' Thus, the disciples reported to Vishvamitra
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘ascend to heaven, protected by Viśvāmitra (_kathaṃ svargaṃ gamiṣyanti viśvāmitreṇa pālitāḥ_)?’ Such were the harsh words (_etad vacananaiṣṭhuryam_) that they spoke with bloodshot eyes (_saṃraktalocanāḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.15–16 (viśvāmitreṇa pālitāḥ & vacananaiṣṭhuryam)**
+
+All three commentators identify _viśvāmitreṇa pālitāḥ_ (“protected by Viśvāmitra!”) as biting irony (_vyaṅgyoktiḥ_, **Tilaka**; _kṣepoktiḥ_, **Govindarāja**): how will Brahmins who eat food owned by a Caṇḍāla (_caṇḍālasvāmikam annam_, **Śiromaṇi**) reach heaven merely through Viśvāmitra’s guardianship? On _vacananaiṣṭhuryam_, **Tilaka** construes it as an inverted compound meaning harsh speech (_naiṣṭhuryavad vacanam_).
 </details>
 </details>
 
@@ -809,6 +873,14 @@ merit, that irreverent person will be reduced to ashes, and there is no doubt ab
 
 his eyes reddened with wrath (_krodhasaṃraktanayanaḥ_), angrily spoke thus: “Since they revile me who am blameless and steadfast in fierce asceticism (_yad dūṣayanty aduṣṭaṃ māṃ tapa ugraṃ samāsthitam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.17–18 (aduṣṭaṃ māṃ tapa ugraṃ samāsthitam)**
+
+Why does Viśvāmitra call himself blameless (_aduṣṭam_) while officiating for a Caṇḍāla? **Tilaka** and **Govindarāja** cite the maxim that for ascetics of blazing spiritual lustre, even officiating for a Caṇḍāla is digested without sin (_‘teṣāṃ tejoviśeṣeṇa pratyavāyo na vidyate’ iti nyāyena caṇḍālayājanam api jīryati_, **Govindarāja**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -891,6 +963,14 @@ deformed beings in the ruthless sect of Mustika-s that always feed on dog's fles
 
 **19:** “for seven hundred births (_saptajātiśatāny eva_) let them be born as gatherers of corpse-shrouds (_mṛtapāḥ sambhavantu te_)—pitiless outcastes named Muṣṭikas (_muṣṭikā nāma nirghṛṇāḥ_), whose constant diet is dog’s flesh (_śvamāṃsaniyatāhārāḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.19–20 (mṛtapāḥ & muṣṭikā nāma)**
+
+Vasiṣṭha’s sons are cursed to wander for seven hundred births (_saptajanmaśatāni_, **Tilaka**, **Govindarāja**). **Tilaka** glosses _mṛtapāḥ_ as strippers of corpse-shrouds (_mṛtānāṃ śavānāṃ vastrādihāriṇaḥ_), **Govindarāja** as corpse-eaters (_śavabhakṣakāḥ_), and **Śiromaṇi** as _śvapākāḥ_; and **Tilaka** notes that the outcaste tribe named _Muṣṭikāḥ_ are known in the vernacular as ‘Ḍombāḥ’ (_idānīṃ ‘ḍombā’ iti prasiddhāḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -959,6 +1039,14 @@ through a worst possible living for a long time. [1-59-21b, 22a]
 
 **21:** “condemned across all the worlds (_dūṣitaḥ sarvalokeṣu_), he shall pass into the state of a Niṣāda hunter (_niṣādatvaṃ gamiṣyati_)! Addicted to the slaughter of living beings (_prāṇātipātanirataḥ_) and sunk into utter pitilessness (_niranukrośatāṃ gataḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.20cd–21 (mahodayaḥ & niṣādatvam)**
+
+**Govindarāja** observes that the separate curse on Mahodaya confirms that the prior curse applied specifically to Vasiṣṭha’s sons. Mahodaya is condemned to become a pitiless (_niranukrośatāṃ nirdayatvam_, **Śiromaṇi**; _nirghṛṇatām_, **Govindarāja**) hunter (_niṣādaḥ_) addicted to slaughtering living creatures (_jantuprāṇanāśanīrataḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1025,6 +1113,14 @@ come at the cost of their Brahman-hood.'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “for a long time through my wrath he shall endure a wretched existence (_dīrghakālaṃ mama krodhād durgatiṃ vartayiṣyati_)!” Having spoken thus much (_etāvad uktvā vacanam_), the great ascetic Viśvāmitra of mighty splendour ceased speaking in the midst of the sages (_virarāma mahātejā ṛṣimadhye mahāmuniḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**59.22 (durgatiṃ vartayiṣyati & Theological Synthesis)**
+
+How could Viśvāmitra curse truth-speaking Brahmins who objected that a Kṣatriya officiating for a Caṇḍāla violates śāstra? **Govindarāja** answers that this was the fruit of Viśvāmitra’s fierce _tapas_ bent on avenging his feud with Vasiṣṭha (_vasiṣṭhavairaniyātanakāmasya_), while **Tilaka** remarks that the gods themselves engineered this transgression to expend the _tapas_ Viśvāmitra was accumulating toward Brahminhood (_brāhmaṇatvecchayā pravartamānatapaso vināśāya devakṛtam_).
 </details>
 </details>
 

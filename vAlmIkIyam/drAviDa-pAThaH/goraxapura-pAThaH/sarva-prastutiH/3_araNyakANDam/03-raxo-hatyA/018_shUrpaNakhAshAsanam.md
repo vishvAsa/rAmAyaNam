@@ -1097,6 +1097,98 @@ down on Seetha said to Lakshmana. [3-18-18]
 
 Restraining (_vigṛhya_) her as she lunged forward like the noose of Death (_mṛtyu-pāśa-pratimām_), the mighty Rāma, filled with wrath, then spoke to Lakṣmaṇa:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.18.1–2 (kāmapāśāvapāśitām & the Grammar of sasapatnatā)**
+
+On 3.18.1, **Rāma Varmā** (_Tilaka_) notes that Rāma speaks स्वेच्छया in playful jest (परिहासविनोदेन), while **Govindarāja** (_Bhūṣaṇa_) reads स्वच्छया (clear in meaning). On ससपत्नता (3.18.2d), both _Tilaka_ and _Bhūṣaṇa_ explain the masculine stem treatment (पुंवद्भावः) before abstract -तल् by taking ससपत्नी as an adjectival quality (गुणवचनत्वात्) meaning “accompanied by a rival co-wife,” or taking सपत्न in the sense of an enemy (शत्रुता, _Tilaka_).
+
+_____________
+
+**3.18.3–4 (How Truthful Rāma Calls Lakṣmaṇa akṛtadāraḥ & apūrvī)**
+
+Since Rāma never utters an untruth even in jest (न वितथा परिहासकथास्वपि, _Bhūṣaṇa_), all three commentators resolve the double entendre in 3.18.3–4: अकृतदारः means “one who has not brought his wife to the forest” (अत्र निहितदारः, _Tilaka_) or “one who has not taken another's wife,” or splits as अलं कृतदारः (“already thoroughly married,” _Bhūṣaṇa_). Likewise अपूर्वी means long separated from marital enjoyment (चिरादज्ञातभार्यासुखः, _Bhūṣaṇa_), while भार्यया चार्थी hints that he serves Rāma together with Sītā (स्वभार्यायां सीतया सेवया प्रयोजनवान्).
+
+_____________
+
+**3.18.5–6 (merum arkaprabhā yathā)**
+
+On the simile of sunlight and Mount Meru, **Govindarāja** notes the covert irony: just as sunlight striking golden Meru is turned back, so too will she be repulsed by Lakṣmaṇa (मेरुं प्राप्ता यथा निवर्तते तथेत्यर्थः).
+
+_____________
+
+**3.18.7–8 (Why शूर्पनखीं Takes -ङीष् & Lacks णत्व)**
+
+All three commentators explain the morphological shift from शूर्पणखा to शूर्पनखीं in 3.18.8c: because the word is used here as a purely descriptive compound (शुद्धयौगिकम्, _Tilaka_, _Śiromaṇi_) rather than a proper name (संज्ञाया अविवक्षितत्वात्, _Bhūṣaṇa_), the feminine suffix -ङीष् applies regularly and the proper-name cerebralization of न to ण is blocked.
+
+_____________
+
+**3.18.9–10 (Lakṣmaṇa's Servitude & Double Entendre)**
+
+On 3.18.9–10, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) construe: “By becoming the wife of a slave (दासस्य मे भार्या भूत्वा), how do you wish to become a slave yourself (कथं दासी भवितुमिच्छसि)?” **Govindarāja** notes covert word-splits (_śleṣa_): अकमलवर्णिनी (“unlike a lotus in hue”), अमुदिता (“joyless”), मलवर्णिनी (“foul-complexioned”), and यवीयसी (“inferior/vile,” हीना).
+
+_____________
+
+**3.18.11–12 (Viparīta-lakṣaṇā & Hidden Praise of Sītā)**
+
+On Lakṣmaṇa's apparent echo of Śūrpaṇakhā's insults against Sītā, **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** invoke irony (विपरीतलक्षणा) or supply “in your estimation” (त्वद्बुद्ध्या), while **Govindarāja** also construes एनां as pointing to Śūrpaṇakhā herself (“abandoning you, who are ugly and aged, he will cleave to his wife”). **Rāma Varmā** (_Tilaka_) gives a benevolent etymology for Sītā: विशिष्टरूपां (peerlessly beautiful), असतीं (having no equal among chaste women, न विद्यतेऽन्या सती यस्याः), निर्णतोदरीं (slender-waisted), and वृद्धां (primordial Śrī).
+
+_____________
+
+**3.18.13–14 (parihāsāvicakṣaṇā & Lakṣmaṇa Stationed Outside)**
+
+On 3.18.13, all three commentators gloss परिहासाविचक्षणा as ignorant of witty banter (परिहासानभिज्ञा, _Bhūṣaṇa_). On 3.18.14, **Govindarāja** (_Bhūṣaṇa_) deduces from पर्णशालायामुपविष्टं that Rāma and Sītā were seated inside the cottage while Lakṣmaṇa had been standing outside when Śūrpaṇakhā approached him (पर्णशालामित्यनेन लक्ष्मणो बहिरेव स्थित इति गम्यते).
+
+_____________
+
+**3.18.15–16 (avaṣṭabhya & Genitive of Disregard)**
+
+On 3.18.15, **Śivasahāya** (_Śiromaṇi_) notes that verses 15–16 form a single syntactic period (श्लोकद्वयमेकान्वयि). On पश्यतस्तव (3.18.16b), **Rāma Varmā** (_Tilaka_) explains the genitive as expressing defiance or disregard (पश्यन्तं त्वामनादृत्य, by Pāṇinian _ṣaṣṭhī cānādare_), while **Govindarāja** glosses निःसपत्ना as free of any rival obstacle (निष्प्रतिबन्धिका).
+
+_____________
+
+**3.18.17 (alātasadṛśekṣaṇā & the Portent of the Meteor)**
+
+In 3.18.17, Śūrpaṇakhā's eyes glaring like live firebrands (निर्वालकाष्ठाग्नितुल्येक्षणा, _Bhūṣaṇa_) are contrasted with fawn-eyed Sītā (मृगशावाक्षीम्), and her charge is likened to a portentous meteor (महोल्का पतितोत्पातविशेषः, _Śiromaṇi_) assailing the lunar mansion Rohiṇī.
+
+_____________
+
+**3.18.18–19 (Restraining Śūrpaṇakhā & the Moral Against Jesting)**
+
+On निगृह्य (3.18.18c), **Rāma Varmā** (_Tilaka_) supplies “with his voice” (वाचेति शेषः) and **Govindarāja** (_Bhūṣaṇa_) glosses “checking her with a menacing roar” (हुंकारेण प्रतिषिध्य). In 3.18.19, _Tilaka_ notes that Rāma blames their own banter for putting Sītā in mortal peril (अस्मत्कृतपरिहासदोषात्), while **Govindarāja** glosses कथंचिज्जीवतीं as Sītā barely recovering her breath after witnessing Śūrpaṇakhā's ferocity.
+
+_____________
+
+**3.18.20 (virūpayitum arhasi)**
+
+On Rāma's command to disfigure her who is already ugly (स्वतो विरूपां विरूपय, _Tilaka_), **Govindarāja** explains that Rāma had hitherto refrained from punishing her because she had committed no overt crime, but now orders her mutilation for assaulting Sītā (अथ सीताक्रमणव्याजेनेमां विरूपयेत्यर्थः), while **Śivasahāya** (_Śiromaṇi_) notes that mutilation will cure her lust (काममदध्वंसो भविष्यति).
+
+_____________
+
+**3.18.21–22 (karṇanāse & Offending the Lord's Consort)**
+
+On 3.18.21, **Govindarāja** draws a theological moral: even though Śūrpaṇakhā felt attraction toward Rāma, her offence against Sītā (तदीयापचारेण) brought about her ruin.
+
+_____________
+
+**3.18.23–24 (Cognate Accusative nanāda nādān & Raising Both Arms)**
+
+On ननाद विविधान्नादान् (3.18.23), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain the cognate object construction by paraphrasing ननाद with the general verb of action (नादान् चकारेत्यर्थः), comparing it to the grammatical example ओदनपाकं पचति. In 3.18.24, _Tilaka_ and _Bhūṣaṇa_ gloss प्रगृह्य बाहू as throwing up both arms in distress (उद्यम्य).
+
+_____________
+
+**3.18.25 (Falling Before Khara Like a Thunderbolt)**
+
+Switching to 12-syllable _Vaṃśastha_ meter, 3.18.25 depicts Śūrpaṇakhā collapsing before Khara in Janasthāna like a bolt from the sky (अशनिरिव गगनाद्भूमौ पपात, _Tilaka_), **Govindarāja** noting that the demonstrative तं marks Khara as already famous as Rāma's destined victim (रामवध्यत्वेन प्रसिद्धं).
+
+_____________
+
+**3.18.26 (Chronology of the Thirteenth Year of Exile)**
+
+On 3.18.26, **Govindarāja** notes that the poet summarizes Śūrpaṇakhā's report here before giving the full dialogue in Sarga 19 (उत्तरसर्गार्थमनेनैकेन सङ्गृह्णाति). **Rāma Varmā** (_Tilaka_) adds an important chronological note: after ten years at Sutīkṣṇa's hermitage and two years in Pañcavaṭī (द्वादशाब्दानि), Śūrpaṇakhā's arrival occurs near the close of the thirteenth year of exile (त्रयोदशे किंचिदवशिष्टे शूर्पणखागमनम्), followed by Sītā's abduction in Māgha.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

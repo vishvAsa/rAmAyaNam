@@ -77,6 +77,14 @@ taking hold of his bow, fixed an arrow on the bow-string.
 
 Beholding the heroic Lakṣmaṇa struck down in battle by the mighty Rāvaṇa with his lance and bathed in torrents of blood (_śoṇitaughapariplutam_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**797.1–2 (Immediate Turn from Victory to Lakṣmaṇa's Care)**
+
+Introducing the episode of Lakṣmaṇa's revival (अथ लक्ष्मणसंजीवनम्), all three commentators construe verses 1 and 2 as a single sentence (श्लोकद्वयमेकान्वयि). Rāma Varmā explains that once Rāvaṇa had been put to flight by Rāma's fierce assault, Rāma immediately addressed the physician Suṣeṇa to relieve Lakṣmaṇa's suffering (तस्मिन्पलायिते लक्ष्मणपीडानिवृत्त्यर्थं सुषेणमिदमब्रवीत्). Govindarāja observes that the present participle _visṛjann eva_ ('even while discharging arrows') underscores Rāma's instant, unhesitating solicitude for his brother's welfare the moment Rāvaṇa retreated (विसृजन्नित्यादिवर्तमाननिर्देशेन रावणपलायनानन्तरं लक्ष्मणयोगक्षेमदर्शने अविलम्बः सूचितः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +198,14 @@ arrows, as a cloud strikes gushes of rain on a huge mountain.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Here lies the heroic Lakṣmaṇa fallen upon the earth through Rāvaṇa&#x27;s prowess (_rāvaṇavīryeṇa_), writhing like a serpent (_sarpavac ceṣṭate_) and arousing my grief (_mama śokam udīrayan_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**797.3–5 (Dearer than Life-Breaths)**
+
+Glossing _udīrayan_ as 'generating' (शोकमुदीरयञ्जनयन्), Rāma Varmā and Govindarāja explain the instrumental _prāṇaiḥ_ as standing for the ablative of comparison (प्राणैः प्राणेभ्यः). Śivasahāya paraphrases Rāma's anguish: if this hero who is dearer than life has passed into the five elements, neither life nor joy holds any meaning (अयं मे भ्राता यदि पञ्चत्वमापन्नः तदा प्राणैस्सुखेन वा मे किम्).
 </details>
 </details>
 
@@ -346,6 +362,14 @@ called Matali and spoke as follows:
 
 “Indeed, my prowess seems to shrink with shame (_lajjatīva hi me vīryam_), the bow slips from my hand (_bhraśyatīva karād dhanuḥ_), my arrows lose their force, and my sight is overcome by tears (_dṛṣṭir bāṣpavaśaṃ gatā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**797.6 (Epic Parasmaipada in 'Lajjatīva')**
+
+Both Rāma Varmā and Govindarāja note that the active ending in _lajjatīva_ (for standard middle _lajjate_) is an epic grammatical license (लज्जतीवेति परस्मैपदमार्षम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -411,6 +435,14 @@ gods."
 
 “My limbs sink down (_avasīdanti gātrāṇi_) like those of men walking in a dream (_svapnayāne nṛṇām iva_); fierce anxiety grows within me, and a desire to die (_mumūrṣā_) arises in me—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**798.7 (The Simile of Walking in a Dream)**
+
+Glossing the striking psychological simile _svapnayāne nṛṇām iva_, Govindarāja explains that when men attempt to walk in a dream, their feet feel as though dragged backward and unable to move (स्वप्नयाने स्वप्नगमने स्वप्ने हि गच्छतां नराणां पादाः पश्चादाकृष्टा इव भवन्ति). Rāma Varmā notes that using the compound _svapnayāne_ in the simple sense of 'in a dream' (स्वप्ने इत्यर्थे) is an epic usage, while Śivasahāya glosses _mumūrṣā_ as the wish to abandon the world (मुमूर्षा लोकत्यागेच्छा जायते).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -462,6 +494,14 @@ him by bowing his head, spoke then the following words:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—upon beholding my brother struck down by the wicked-souled Rāvaṇa, groaning in anguish (_viṣṭanantaṃ tu duḥkhārtam_) and sorely smitten in his vitals (_marmaṇy abhihataṃ bhṛśam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**798.8–10 (The Poet's Frame and Lakṣmaṇa's Groans)**
+
+Rāma Varmā observes that the poet's narrative voice resumes in verses 8 through 10 (सार्धश्लोकः कविवाक्यम्) before Rāma's lament continues. The commentators offer complementary glosses on _viṣṭanantam_: Govindarāja explains it as 'breathing heavily' (विष्टनन्तं निःश्वसन्तम्), while Rāma Varmā and Śivasahāya render it as 'uttering cries of pain' (विकृतशब्दं कुर्वन्तम्; दुःखसूचकस्वनवन्तम्) as Lakṣmaṇa lies in the battle-dust (रणपांसुषु लुठन्तमिति शेषः).
 </details>
 </details>
 
@@ -563,6 +603,14 @@ _________________
 
 **12:** “What use have I for battle, what use for life-breaths? There is no purpose left in fighting (_yuddhakāryaṃ na vidyate_) where this Lakṣmaṇa lies struck down at the forefront of battle (_raṇamūrdhani_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**798.11–12 (The Moon Before a Blind Man)**
+
+Śivasahāya unpacks the proverbial illustration in verse 11: just as the moon standing before a blind man yields no delight (अचक्षुर्विषयः अन्धजनसमीपस्थश्चन्द्रः कां प्रीतिं जनयिष्यति), so victory without Lakṣmaṇa brings Rāma no joy.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -628,6 +676,14 @@ approached Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Just as this hero of great radiance followed me (_māṃ anuyāti_) when I went to the forest, even so shall I follow him (_aham apy anuyāsyāmi_) to the abode of Yama (_yamakṣayam_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**799.13–14 (Reciprocating Lakṣmaṇa's Devotion Unto Death)**
+
+Śivasahāya explains Rāma's resolve in verse 13: with the very same love with which Lakṣmaṇa followed him into exile, Rāma vows to follow Lakṣmaṇa to the realm of Yama (यथा यत्प्रकारकप्रीत्या अयं मामनुयाति अनुसरति तथाहमपि यमक्षयं नियमानामाश्रयमेनमनुयास्यामि), lamenting that a brother ever devoted to his kin has been brought low by deceitful demons (इष्टबन्धुजनः स लक्ष्मणः राक्षसैरिमामवस्थां गमितः).
 </details>
 </details>
 
@@ -734,6 +790,14 @@ Rama, the destroyer of adversaries!"
 
 “In country after country wives may be found (_deśe deśe kalatrāṇi_), and in country after country kinsmen (_bāndhavāḥ_); yet I see no land where a uterine brother (_bhrātā sahodaraḥ_) may be found!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**799.15 (The Celebrated Subhāṣita on the Irreplaceable Brother)**
+
+Commenting on the famous maxim _deśe deśe kalatrāṇi_, Śivasahāya observes that while a man who leaves everything behind can still acquire wives and relatives elsewhere, a full brother can never be replaced (कलत्रादिप्राप्तिस्सम्भवति सहोदरप्राप्तिस्तु न सम्भवतीत्यर्थः); hence a brother must be protected above all else (एतेन सोदरोऽवश्यं परिरक्षणीय इति सूचितम्). Addressing how Rāma and Lakṣmaṇa can be called _sahodara_ ('born of the same womb') despite having different mothers, Śivasahāya explains the word etymologically as a brother who bears every burden without fear (सोढा अदरः निखिलभयरहितो भ्राता).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -785,6 +849,14 @@ bright as sun and a stainless auspicious spear."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “What use is the kingdom to me without the unassailable Lakṣmaṇa? And how shall I speak to Mother Sumitrā, so fond of her son (_ambāṃ sumitrāṃ putravatsalām_)?
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**799.16–18 (Dreading the Reproach of Sumitrā and Bharata)**
+
+Śivasahāya supplies the elliptical question in verse 18: Rāma dreads how he could ever answer Bharata and Śatrughna when they ask how he went to the forest accompanied by Lakṣmaṇa yet returned alone (तेन लक्ष्मणेन सह वनं यातः त्वं तेन विना कथमागत इति पृच्छन्तमिति शेषः भरतं किं वक्ष्यामि), or endure the just reproach of Mother Sumitrā (सुमित्रया दत्तं तमुपालम्भं निन्दां सोढुं न शक्ष्यामि).
 </details>
 </details>
 
@@ -958,6 +1030,14 @@ Ravana, the demon.
 
 “Death right here (_ihaiva maraṇaṃ śreyaḥ_) is better than the censure of kinsmen (_bandhuvigarhaṇam_)! What evil deed (_duṣkṛtaṃ karma_) was committed by me in another birth—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**800.19–20 (Rāma's Questioning of Past Karma)**
+
+Śivasahāya explains Rāma's preference for dying on the battlefield over facing family reproach (बन्धुविगर्हणं न श्रेयः). Addressing how the sinless Lord could ask what evil deed he committed in another birth (मया किं दुष्कृतमपराधः कर्म कृतम्), Śivasahāya ingeniously construes _anyatra janmani_ as referring to his extraordinary divine incarnation: what wrong did I ever commit against this rākṣasa before, that he has struck down my righteous brother (येन राक्षसेन मे भ्राता निहतः)?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1057,6 +1137,14 @@ extra-ordinarily terrific missile presided over by demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Why do you depart alone (_ekākī_) for the other world, abandoning me? And why, O brother, do you not speak (_kimarthaṃ nāvabhāṣase_) to me as I lament?
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**800.21–23 (Pleading with the Silent Consoler)**
+
+Glossing the dative in _paralokāya gacchasi_ by the rule of verbs of motion (गत्यर्थे चतुर्थी), Śivasahāya explains the double imperative _paśya_ in verse 22: the first _paśya_ means 'awake, regain consciousness,' and the second means 'behold me with your eyes' (पश्य प्रबुध्य अत एव मां पश्य अवलोकयस्व). Rāma recalls that throughout their forest wanderings, Lakṣmaṇa alone consoled him in every sorrow (शोकार्तस्य मे समाश्वासयिता त्वमेव).
 </details>
 </details>
 
@@ -1208,6 +1296,14 @@ quarters stood enveloped by them.
 
 —Suṣeṇa consoled him and spoke these supreme words (_paramaṃ vacaḥ_): “Cast aside, O tiger among men, this frame of mind that breeds faintheartedness (_buddhiṃ vaiklabhyakāriṇīm_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**800.24 (Suṣeṇa's Timely Intervention)**
+
+Stepping forward to steady the grief-stricken Rāma (एवं ब्रुवाणं राममाश्वासयन् सुषेण इदं वाक्यमुवाच), the wise physician Suṣeṇa urges him to abandon this unmanly despondency.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1265,6 +1361,14 @@ terrific and dangerous missile presided over by Garuda the eagle (an enemy of se
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—and this grief-begetting anxiety (_śokasaṃjananīṃ cintām_), which pierces like arrows at the van of battle (_tulyāṃ bāṇaiś camūmukhe_)! Lakṣmaṇa, enhancer of auspicious fortune (_lakṣmivardhanaḥ_), has by no means met his dissolution (_naiva pañcatvam āpannaḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**801.25–26 (Clinical Signs of Life in Lakṣmaṇa's Countenance)**
+
+Completing Suṣeṇa's exhortation from verse 24, Rāma Varmā glosses _tulyāṃ bāṇaiḥ_ as anxiety that pierces the vitals like enemy shafts (बाणैः शत्रुप्रैषितैस्तुल्यां मर्मस्पृशं चिन्तां त्यज). Suṣeṇa then adduces diagnostic signs proving Lakṣmaṇa is alive (पञ्चत्वाभावे गमकमाह): his face is neither contorted nor darkened in pallor (अस्य वक्त्रं विकृतं न श्यामत्वं च नागतमत एव सुप्रभमस्य मुखं लक्ष्यते). Citing the _Amarakośa_ (श्यावः स्यात्कपिश इति अमरः), Govindarāja glosses his reading _śyāvam_ as 'discolored or brownish' (श्यावं कपिशम् विवर्णमिति यावत्).
 </details>
 </details>
 
@@ -1359,6 +1463,14 @@ eagles and destroyed all those arrows, which flew with a great speed in the form
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “His palms are like lotus-petals (_padmapatratalau hastau_) and his eyes are clear (_suprasanne ca locane_); such an appearance is never seen in those whose life-breaths have departed (_gatāsūnām_), O lord of men!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**801.27–29 (Lotus Palms and Palpitating Heart)**
+
+Rāma Varmā explains _padmapatratalau_ as having palms the hue of red lotus petals (पद्मपत्रतुल्यवर्णकरतलवन्तौ), an appearance never found in the dead (गतासूनां रूपमीदृशं न दृश्यते). Construing verses 28 and 29 together, all three commentators note that Lakṣmaṇa's repeatedly throbbing chest proves he retains his vital breath like a man asleep on the ground (लक्ष्मणस्य कम्पमानं हृदयं सोच्छ्वासं प्राणसहितमाख्याति बोधयति). Govindarāja notes that the future _ākhyāsyate_ in his text stands in the sense of the present (लडर्थे लृट्).
 </details>
 </details>
 
@@ -1523,6 +1635,20 @@ Indra's horses with a multitude of arrows.
 
 **31:** “—which was previously described to you, O hero, by Jāmbavān, bring here the great herb (_mahauṣadhim ihānaya_) that grows upon its southern peak (_dakṣiṇe śikhare jātām_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**801.30 (Commissioning Hanūmān)**
+
+Turning to Hanūmān, Suṣeṇa directs him to fly immediately to the herb-mountain Mahodaya previously described by Jāmbavān (जाम्बवता योऽसौ पूर्वं कथितस्तं महोदयं पर्वतमितो गत्वा).
+
+_____________
+
+**802.31–32 (The Four Sovereign Medicinal Herbs)**
+
+Completing Suṣeṇa's commission, Śivasahāya and Rāma Varmā enumerate the herbs growing on the southern peak of the mountain previously indicated by Jāmbavān (योऽसौ जाम्बवता तव कथितस्तमौषधिपर्वतं गत्वा तस्य दक्षिणशिखरे जातामोषधीमानय): Viśalyakaraṇī, which extracts embedded darts (विशल्याः क्रियन्तेऽनयेति विशल्यकरणी ताम्); Sāvarṇyakaraṇī, which restores the body's natural hue (सावर्ण्यकरणीं पूर्ववत्समानवर्णकरणीम्); Saṃjīvakaraṇī; and Saṃdhānī.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1634,6 +1760,14 @@ to all created beings.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bring them yourself for the revival (_saṃjīvanārtham_) of the heroic Lakṣmaṇa!” Addressed thus, the illustrious Hanūmān went to the herb-mountain (_auṣadhiparvatam_), and not recognizing those great herbs (_ajānaṃs tā mahauṣadhīḥ_), fell into reflection (_cintām abhyagamat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**802.33–35 (Hanūmān's Deduction by Inference)**
+
+Reaching the mountain, Hanūmān cannot distinguish the specific herbs by sight (ताः ओषधीः अजानन् हनूमान् चिन्तामभ्यगमत्). Yet he deduces by reasoned inference (प्रतर्केण स्वतर्कबलेन अवगच्छामि जानामि)—or as Govindarāja explains, by the inner clarity of his mind (अन्तःकरणप्रसादादिना लिङ्गेन) combined with Suṣeṇa's pointer to the southern peak—that the life-giving herbs reside upon this very summit, and resolves to uproot the peak itself (गिरेः शिखरं गृहीत्वा गमिष्यामि).
 </details>
 </details>
 
@@ -1791,6 +1925,14 @@ over by the gods Indra and Agni (the god of fire), which is adorned by the kings
 
 “If I depart without taking Viśalyakaraṇī (_agṛhya yadi gacchāmi_), disaster would ensue through loss of time (_kālātyayena doṣaḥ syāt_), and great would be the distress (_vaiklavyam_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**802.36 (The Peril of Delay)**
+
+Rāma Varmā, Śivasahāya, and Govindarāja explain Hanūmān's prudence: returning without the true herb or tarrying to search would risk Lakṣmaṇa's life through fatal delay (कालात्ययेन लक्ष्मणस्य प्राणनाशो दोषः स्यात्; दोषः लक्ष्मणहानिरूपः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1844,6 +1986,14 @@ looked like Mount Mainaka.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Reflecting thus, the mighty Hanūmān went swiftly, approached that foremost of mountains (_āsādya parvataśreṣṭham_), and shook the summit of the mountain three times (_triḥ prakampayya gireḥ śiraḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**803.37–39 (Uprooting and Weighing the Mountain Peak)**
+
+Construing verses 37 and 38 together (इति संचिन्त्येत्यादिश्लोकद्वयमेकान्वयम्), Rāma Varmā explains why Hanūmān shook the summit three times (त्रिः प्रकम्प्य): to loosen its deep roots in the earth so it could later be reset firmly in place. Glossing _samatolayat_, Govindarāja renders it as 'hoisted aloft' (समतोलयत् उदक्षिपत्), while Rāma Varmā explains it literally as 'weighed in his hands to gauge its mass' (तद्गुरुत्वज्ञानादित्यर्थः). Śivasahāya notes the simile comparing the tree-clad peak carried through the sky to a dark rain-cloud heavy with water (तोयपूर्णमत एव नीलं जीमूतमिव गिरेः शिखरं गृहीत्वा उत्पपात).
 </details>
 </details>
 
@@ -2001,6 +2151,14 @@ beings got frightened. The earth too began to tremble.
 
 Arriving with great speed (_samāgamya mahāvegaḥ_), setting down the peak of the mountain (_saṃnyasya śikharaṃ gireḥ_), and resting a moment (_viśramya kiṃcit_), Hanūmān spoke these words to Suṣeṇa:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**803.40–41 (Hanūmān's Report to Suṣeṇa)**
+
+Setting the mountain crest down beside Suṣeṇa (संन्यस्य सुषेणसमीप इति शेषः) and catching his breath for a moment (किंचिद्विश्रम्य च), Hanūmān explains that because he could not identify the specific plants individually, he brought the entire herb-bearing peak (ताः ओषधीरहं नावगच्छामि विशेषतो न जानामि तस्माद्धेतोः तस्य ओषधविशिष्टस्य गिरेरिदं शिखरं मयाहृतम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2099,6 +2257,14 @@ the sky, thundering.
 
 Praising the son of the Wind-god (_praśasya pavanātmajam_) who spoke thus, Suṣeṇa, foremost of monkeys, plucked and took up the herbs (_jagrāhotpāṭya cauṣadhīḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**803.42 (Suṣeṇa Gathers the Herbs)**
+
+Govindarāja notes that Suṣeṇa first commended Hanūmān's extraordinary feat and then uprooted and gathered the required medicinal herbs (सुषेणः पवनात्मजं प्रशस्य ओषधीरुत्पाट्य जग्राह).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -2164,6 +2330,14 @@ beings were frightened. Fear seized Ravana too.
 
 **44:** Then Suṣeṇa of great radiance, foremost of monkeys, crushed that herb (_saṃkṣodayitvā tām oṣadhīm_) and administered it into Lakṣmaṇa&#x27;s nostrils (_lakṣmaṇasya dadau nastaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**804.43–44 (Nasal Administration of the Crushed Herb)**
+
+Amid the monkeys' awe at Hanūmān's superhuman deed, Śivasahāya explains that Suṣeṇa thoroughly pulverized the medicinal herb and administered it through Lakṣmaṇa's nasal passage (सुषेणः तामोषधीं संक्षोदयित्वा सम्यक् संचूर्ण्य लक्ष्मणस्य लक्ष्मणाय नस्तो नासामार्गेण ददौ), the classical Āyurvedic route (_nasya_) for reviving one in a swoon.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2220,6 +2394,14 @@ various dreadful weapons and looking like the final dissolution of the world.
 
 Inhaling it (_samāghrāya_) while the dart was still within him (_saśalyaḥ_), Lakṣmaṇa, slayer of hostile heroes, swiftly rose up from the surface of the earth freed of the dart and freed of pain (_viśalyo virujaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**804.45 (Instantaneous Extraction and Healing)**
+
+Reconciling _saśalyaḥ_ ('having the dart') here with Rāma's earlier extraction of Rāvaṇa's lance in 6.101.43, Śivasahāya explains _saśalyaḥ_ as suffering from the burning pain left by the lance (समीपपतितशल्यजनिततापसहितः) or from embedded arrow-points, and _viśalyaḥ_ as completely freed from all dart-born torment and wound-pain (विशल्यः शल्यसंसर्गजन्यव्यथारहितः सन् उदतिष्ठत्) the instant he inhaled the herb.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2269,6 +2451,14 @@ come to witness the conflict at that time, responded:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding Lakṣmaṇa risen from the ground, the monkeys, supremely delighted (_suprītāḥ_), acclaimed Lakṣmaṇa with cries of “Well done! Well done (_sādhu sādhv iti_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**804.46–47 (The Joyous Acclamation and Fraternal Embrace)**
+
+As the monkeys hail the risen hero with cries of _sādhu sādhu_ (साधु साध्विति लक्ष्मणं प्रत्यपूजयन्), Rāma Varmā and Śivasahāya picture Rāma calling out 'Come, come!' (उत्थितं लक्ष्मणं राम एह्येहीत्यब्रवीत्) and folding his brother in a tear-drenched embrace (गाढमालिङ्ग्य सस्वजे च).
 </details>
 </details>
 
@@ -2376,6 +2566,14 @@ _________________
 
 **49:** “Indeed, I would have no use for life (_na hi me jīvitenārthaḥ_), nor for Sītā, nor for victory! For what use would life be to me had you gone to dissolution (_tvayi pañcatvam āgate_)?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**805.48–49 (Rāma's Outpouring of Fraternal Love)**
+
+Construing verses 48 and 49 together (अब्रवीच्चेत्यादिश्लोकद्वयमेकान्वयम्), Śivasahāya explains Rāma's exclamation of relief upon seeing Lakṣmaṇa restored as though from death itself (मरणात्पुनरागतमिव त्वां दिष्ट्या पश्यामि): had Lakṣmaṇa perished, neither Sītā's recovery, nor triumph in war, nor life itself would hold any purpose for Rāma (त्वयि पञ्चत्वमागते सति मे जीवितेन कोऽर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2406,6 +2604,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As the great-souled Rāghava was speaking thus (_ity evaṃ bruvatas tasya_), Lakṣmaṇa, distressed (_khinnaḥ_), spoke these words in a faint voice (_śithilayā vācā_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**805.50 (Why Lakṣmaṇa Felt Distressed)**
+
+Glossing _khinnaḥ_ ('distressed') and _śithilayā vācā_ ('with a faltering voice'), Rāma Varmā offers a fine psychological insight: Lakṣmaṇa's voice faltered not from lingering physical weakness—since the divine herb had already healed him completely—but out of anguish at hearing Rāma declare that he would abandon Sītā and his mission for Lakṣmaṇa's sake (न हि मे जीवितेनार्थ इत्येवमुक्त्वा खिन्न इत्यर्थः).
 </details>
 </details>
 
@@ -2471,6 +2677,14 @@ for all beings, capable as it was of tearing and splitting them and blazing as i
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having formerly made that solemn vow (_tāṃ pratijñāṃ pratijñāya purā_), O hero of unfailing valor (_satyaparākrama_), you ought not to speak thus like some light-minded man devoid of fortitude (_laghuḥ kaścid ivāsattvaḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**805.51–52 (The Vow of Slaying Rāvaṇa and Crowning Vibhīṣaṇa)**
+
+All three commentators identify the vow (_tāṃ pratijñām_) invoked by Lakṣmaṇa as Rāma's solemn pledge to slay Rāvaṇa and consecrate Vibhīṣaṇa as king of Laṅkā (रावणवधविभीषणराज्यदानप्रतिज्ञाप्रभृतिरूपाम्; रावणं हत्वा विभीषणमभिषेक्ष्यामीत्येवंरूपाम्). Śivasahāya underscores the maxim in verse 52: because upholding one's word defines true greatness, men of truth never let their pledges fail (प्रतिज्ञापरिपालनं हि महत्त्वस्य लक्षणमतः सत्यवादिनः पुरुषाः प्रतिज्ञां वितथां न कुर्वन्ति).
 </details>
 </details>
 
@@ -2578,6 +2792,14 @@ and bringing rejoice to his own army, roared terribly in battle.
 
 “And it does not befit you to yield to despair on my account (_nairāśyam upagantuṃ ca nālaṃ te matkṛte_), O sinless one! By slaying Rāvaṇa today, fulfill your vow (_pratijñām anupālaya_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**806.53 (Steadying Rāma's Resolve)**
+
+Rāma Varmā and Śivasahāya gloss _matkṛte nairāśyam upagantum nālam_ as Lakṣmaṇa's selfless plea: even if calamity were to befall me by fate (दैवाद्विपत्तावपीति शेषः), it is unworthy of you to abandon your vow in despair on my account (हे अनघ मत्कृते मदर्थमपि नैराश्यं प्रतिज्ञात्यागमुपगन्तुं ते नालम्); now that I am restored to health, be at peace in mind and fulfill your pledge by slaying Rāvaṇa today (ममापि स्वस्थतया स्वस्थचित्तः सन्प्रतिज्ञां पालय).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2624,6 +2846,14 @@ quarters and the angles of the compass
 
 “Having come within range of your arrows (_tava bāṇapathaṃ gataḥ_), the enemy shall not depart alive (_na jīvan yāsyate śatruḥ_), any more than a great elephant [escapes] a roaring, sharp-fanged lion (_nardatas tīkṣṇadaṃṣṭrasya siṃhasyeva mahāgajaḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**806.54 (The Lion and the Great Elephant)**
+
+Lakṣmaṇa reinforces Rāma's earlier confidence with a martial simile: once Rāvaṇa enters the path of Rāma's shafts (_bāṇapathaṃ gataḥ_), he can no more escape with his life than a tusker confronting a roaring, sharp-fanged lion.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2669,6 +2899,14 @@ were frightened. The ocean too got agitated.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Indeed, I wish to behold the swift slaying of this wicked-souled wretch (_vadham icchāmi śīghram asya durātmanaḥ_) before this sun, having accomplished its daily course, goes to its setting (_yāvad astaṃ na yāty eṣa kṛtakarmā divākaraḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**806.55–56 (Urgency Before Sunset and the Threefold Appeal)**
+
+Pointing to the sun completing its daily round (_kṛtakarmā divākaraḥ_), Lakṣmaṇa urges Rāma to dispatch the demon king before sunset, sealing his exhortation with a threefold appeal to Rāma's martial duty, his pledged word, and his love for Sītā (_rājasutābhilāṣaḥ_).
 </details>
 </details>
 

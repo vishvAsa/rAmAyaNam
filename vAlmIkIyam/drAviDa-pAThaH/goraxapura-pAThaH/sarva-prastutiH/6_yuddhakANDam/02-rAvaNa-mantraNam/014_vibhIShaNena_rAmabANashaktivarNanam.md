@@ -869,6 +869,80 @@ talk."
 
 “Whetted shafts loosed by Rāghava, life-ending (_prāṇāntikāḥ_) and matching the thunderbolt in speed (_aśanitulya-vegāḥ_), have not yet cloven your frame and entered in, O Prahasta; for that reason alone do you boast!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.14.1–2 (The Metaphor of the Sītā-Serpent)**
+
+Rejecting Kumbhakarṇa's empty roars (गर्जितानि निरर्थकवचनानि), Vibhīṣaṇa counsels Rāvaṇa with true policy (अर्थयुक्तं वास्तवार्थम्). All three commentators admire the sustained metaphor (_rūpaka_) in 6.14.2 casting Sītā as a deadly serpent (सीतामहाहिः): her bosom (बाह्वन्तरं वक्षः) forms its coiled hood (भोगराशिः फणापरिणाहः), the anxiety she breeds is its venom (चिन्ताविषः), her gentle smile is its sharp fangs (सुस्मिततीक्ष्णदंष्ट्रः), and the five fingers supporting her sorrowful cheek (चिन्तावशेन वदनोपधानीकृतपाणेः) are its five heads (पञ्चशिरोऽतिकायः). Why has Rāvaṇa hung this fatal snake around his neck (कण्ठ इति शेषः)?
+
+_____________
+
+**6.14.3–4 (Urgent Plea for Restoration)**
+
+**Śivasahāya** (_Śiromaṇi_) derives बलीमुखाः either as a proper name for monkeys or as `wrinkled-faced ones' (वलीकानि मुखानि येषाम्). **Govindarāja** (_Bhūṣaṇa_) cites यावत्पुरानिपातयोर्लट् to explain the future force of present समभिद्रवन्ति, while **Rāma Varmā** (_Tilaka_) rejects manuscripts that insert 6.14.14 here because Prahasta has not yet spoken (अन्यथा प्रकरणविरोधः स्यात्).
+
+_____________
+
+**6.14.5–6 (No Refuge in the Cosmos)**
+
+Neither Kumbhakarṇa nor Indrajit can withstand Rāma; **Govindarāja** takes रामस्य as an ablative (रामात्) and supplies अङ्कगतः (`seated on the lap') with मृत्योः as well.
+
+_____________
+
+**6.14.7–9 (Prahasta's Boast and Vibhīṣaṇa's Rejoinder)**
+
+Interrupting Vibhīṣaṇa, Prahasta boasts that the Rākṣasas know no fear from gods, Dānavas, Yakṣas, Gandharvas, or Garuḍas (पतगोरगेभ्यः गरुडेभ्यः), asking how fear could arise from a mere mortal prince (नरेन्द्रपुत्रात् मानुषबालात्). Hearing this pernicious speech, Vibhīṣaṇa—whose intellect is fixed on his master's _dharma_, _artha_, and _kāma_ (स्वामिन इति शेषः)—responds with weighty counsel.
+
+_____________
+
+**6.14.10–11 (The Boatless Swimmer)**
+
+Vibhīṣaṇa declares that the boasts of Rāvaṇa, Mahodara, Prahasta, and Kumbhakarṇa are as impossible to realize as heaven is for the unrighteous (अधर्मबुद्धेः स्वर्गं प्रति गतिर्यथा); **Govindarāja** (_Bhūṣaṇa_) infers from the mention of Mahodara that he too had spoken earlier (पूर्वमुक्तमिति). Slaying the resourceful Rāma (अर्थविशारदस्य कार्यदक्षस्य) is as hopeless as a boatless man (अप्लवस्य नौरहितस्य) trying to swim across the ocean, directly refuting Rāvaṇa's demand वध्यौ दशरथात्मजौ.
+
+_____________
+
+**6.14.12 (The Great Chariot-Warrior)**
+
+**Govindarāja** cites the martial definition of a महारथः as one who fights while protecting himself, his charioteer, and his horses (आत्मानं सारथिं चाश्वान् रक्षन् युध्येत यो नरः). Before Rāma, even the gods stand bewildered (मूढाः भवन्ति) by a fortiori reasoning (_kaimutika-nyāya_).
+
+_____________
+
+**6.14.13–14 (Rebuking Prahasta's Vainglory)**
+
+Turning directly to Prahasta, Vibhīṣaṇa warns that he indulges in empty self-praise before Rāvaṇa (विकत्थसे वृथात्मश्लाघां करोषि) only because Rāma's life-ending (प्राणान्तिकाः), heron-feathered (कङ्कपत्राः) shafts have not yet pierced his frame. **Govindarāja** (_Bhūṣaṇa_), reading नताः, explains it as `having flat, straight nodes' (नतपर्वाणः ऋजव इत्यर्थः) so that the arrows pass clean through the target.
+
+_____________
+
+**6.14.15–16 (The Roll of Rākṣasa Champions)**
+
+Vibhīṣaṇa declares that neither Rāvaṇa, nor Triśiras (त्रिशीर्षस्त्रिशिराः), nor Kumbhakarṇa's son Nikumbha, nor Indrajit, nor Rāvaṇa's sons Devāntaka, Narāntaka, and Atikāya (देवान्तकादयो रावणपुत्राः), nor Akampana can withstand Rāma. **Govindarāja** glosses महात्मा here as `huge-bodied' (महाशरीरः) and cites Amara (सारो बले स्थिरे च) on अद्रिसमानसारः (`matching a mountain in strength').
+
+_____________
+
+**6.14.17 (Foes in the Guise of Friends)**
+
+Naturally harsh (तीक्ष्णः उग्रः) and rash, Rāvaṇa is attended upon (अन्वास्यते सेव्यते) by ministers who act like enemies (अमित्रप्रतिमैः). **Govindarāja** quotes Kāmandaka's verse listing the seven royal vices (व्यसनं सप्तधा प्रभोः): harshness of speech and punishment, squandering wealth, drink, women, hunting, and gambling.
+
+_____________
+
+**6.14.18–19 (Coiled by Śeṣa and Possessed by Demons)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) identify the figure in 6.14.18 as _nidarśanālaṃkāra_: provoking Rāma is like being tightly coiled by the thousand-headed serpent Śeṣa (नागेन शेषेण). In 6.14.19, **Govindarāja** (_Bhūṣaṇa_) cites the maxim आकेशग्रहणान्मित्रमकार्यतः निवर्तयेत्: friends whose desires the king has fulfilled (परिपूर्णकामैः) must forcibly restrain him even by seizing his hair (केशग्रहणपर्यन्तम्), just as one restrains a man possessed by fierce spirits (भीमैः भूतैः गृहीतः).
+
+_____________
+
+**6.14.20–21 (The Rāghava-Ocean and Submarine Fire)**
+
+Avoiding tautology between राघव and काकुत्स्थ, **Govindarāja** takes राघवसागरेण as the Lakṣmaṇa-ocean (लक्ष्मणसमुद्रेण) and काकुत्स्थपातालमुखे as the submarine fire of Rāma (रामवडवाग्निमुखे, citing पातालं वडवाग्नौ च), explaining सुवारिणा via _śleṣa_ as `fair-watered' and `fair-charioted' (वारः स्यन्दनः), or `rich in arrow-multitudes' (सुबाणसमूहवता, _Tilaka_). Reading ददाम पत्नीम्, he urges the ministers themselves to restore Sītā forcibly (वयं बलादेव ददामः).
+
+_____________
+
+**6.14.22 (The True Minister)**
+
+Defining a true councillor (स मन्त्री), **Rāma Varmā** notes that a minister must weigh stasis (स्थानम्), decline (क्षयम्), and growth (वृद्धिम्) on both sides: Rāma's power is growing through Sugrīva's alliance, whereas Rāvaṇa's is declining after Khara's fall and Laṅkā's burning.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

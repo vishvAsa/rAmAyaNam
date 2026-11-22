@@ -796,6 +796,188 @@ Boasting himself supreme lord of the three worlds, Rāvaṇa begs Rambhā to acc
 
 “Therefore thus with joined palms and bowed head (_prāñjaliḥ prahvaḥ_), Daśānana entreats you (_yācate tvāṃ daśānanaḥ_)—I, the lord even of the lord (_bhartur bhartā_) and ordainer of the three worlds (_vidhātā ca trailokyasya_): accept me (_bhajasva mām_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.26.1–2 (Encampment Beneath the Kailāsa-Bright Moon)**
+
+Opening the sarga, **Rāma Varmā** (_Tilaka_) announces its theme as Rāvaṇa’s fateful incurring of Nalakūbara’s curse (अथ रावणस्य नलकूबरशापप्राप्तिः), while **Śivasahāya** (_Śiromaṇi_) links it directly to Rāvaṇa’s halting on Kailāsa at the close of Sarga 25. On तुल्यपर्वतवर्चसि in 7.26.2b, both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) gloss the moon as matching the silver luster of Kailāsa itself (स्वनिविष्टकैलासपर्वततुल्यप्रभे). Śivasahāya, however, splits चन्द्रेऽतुल्यपर्वतवर्चसि, praising Kailāsa as an ‘incomparable’ mountain that even Rāvaṇa could not weigh or lift (अतुल्यः रावणेन तोलयितुमशक्यो यः कैलासः).
+
+_____________
+
+**7.26.3 (Rāvaṇa Awake Amid Kailāsa’s Delights)**
+
+While his entire demon host slumbers, Rāvaṇa sits wakeful on the summit, absorbing the sensuous splendor of Kubera’s mountain. Both **Rāma Varmā** and **Govindarāja** gloss गुणान् as all the objects and attractions fit for sensual enjoyment on Kailāsa (कैलासपर्वतीयसकलकामभोगादिधर्मान् / भोगार्हधर्मान्), foreshadowing the lust soon to overtake him. **Śivasahāya**, adhering to the Southern reading चन्द्रपादपशोभितान्, construes the compound as ‘adorned by both the moon and flowering trees’ (चन्द्रैः पादपैश्च शोभितान्) and takes गुणान् as the scenic features of Kailāsa (कैलासावयवान्).
+
+_____________
+
+**7.26.4–6 (Night-Blooming Waters and the Botanical Tapestry)**
+
+Verses 4–6 unroll a lush catalogue of Kailāsa’s flora that sets the erotic backdrop (_uddīpana-vibhāva_) for Rambhā’s arrival. **Rāma Varmā** astutely addresses a botanical objection in 7.26.4c: since day-lotuses close after sunset, how are the lotus ponds (पद्मिन्यः) described as blooming (फुल्लाभिः) at moonrise? He resolves this by taking _padminyaḥ_ as lakes whose nocturnal bloom belongs to night-opening white lilies (कह्लारादिभिर्बोध्यम्). **Śivasahāya** binds verses 4–7 into a single syntactic period (श्लोकचतुष्टयमेकान्वयि), and Rāma Varmā confirms that वनान्तरे in 6d connects directly to the kinnaras’ singing in 7.26.7.
+
+_____________
+
+**7.26.7–9 (Celestial Music and Revelry on Kailāsa)**
+
+Continuing the nocturnal panorama of Kubera’s realm, the poet fills the groves with amorous sound and revelry. On 7.26.7, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss रक्ताः as ‘steeped in passion’ (रागयुक्ताः), मधुरकण्ठिनः as ‘sweet-voiced’ (मधुरकण्ठध्वनयः), and supply ‘together with their consorts’ (स्वस्त्रीभिः) for समम्. **Śivasahāya** (_Śiromaṇi_) glosses the vidyādharas’ मदक्षीबाः as ‘intoxicated’ (मत्ताः) and सङ्क्रान्ताः as ‘closely mingled’ (मिलिताः), while noting in 7.26.9 the apt simile comparing the distant chorus of singing apsarases to the silver chime of temple bells.
+
+_____________
+
+**7.26.10 (Trees Perfuming the Peak with Eternal Spring)**
+
+In a graceful _utprekṣā_, wind-tossed trees rain petals down to scent the entire mountainside. Both **Rāma Varmā** and **Govindarāja** gloss वासयन्ति as ‘impart fragrance / perfume’ (अधिवासयन्ति / अधिवासं कुर्वन्ति). On the compound मधुमाधवगन्धिनः, Govindarāja offers a luminous calendrical reading: Kailāsa’s groves are perpetually fragrant with the twin spring months _Madhu_ (Caitra) and _Mādhava_ (Vaiśākha) (नित्यमेव मधुमाधवाभ्यां चैत्रवैशाखाभ्यां वसन्तमासाभ्यां गन्धिनः). Rāma Varmā concurs (‘having the scent of all spring flowers’), while **Śivasahāya** glosses पवनताडिताः as ‘swayed by the wind’ (प्रकम्पिताः) and takes _madhu_ as floral nectar within vernal _mādhava_.
+
+_____________
+
+**7.26.11–12 (The Sixfold Stimulants of Rāvaṇa’s Desire)**
+
+All three commentators unpack मधुपुष्परजःपृक्तम् in 7.26.11 as breeze-borne fragrance blended with floral nectar (_makaranda_) and pollen (मधुना मकरन्देन पुष्परजसा च संपृक्तम्). Verse 7.26.12 then gathers six classical erotic excitants (_uddīpana-vibhāvas_) into a tightly braided causal string—shifting gracefully across ablative, instrumental, and locative absolute cases: song, floral profusion, cool breeze, mountain beauty, deepening night, and moonrise. **Śivasahāya** explicitly binds 7.26.12 and 7.26.13 into a single syntactic unit (श्लोकद्वयमेकान्वयि): this sensuous convergence overwhelms Rāvaṇa’s self-restraint just as Rambhā approaches.
+
+_____________
+
+**7.26.13–15 (Rāvaṇa’s Longing and Rambhā’s Radiant Approach)**
+
+Overcome by the moonlit evening, Rāvaṇa sighs repeatedly just as Rambhā enters the scene. All three commentators unpack मन्दारकृतमूर्धजा in 7.26.15 as ‘her hair decked with blossoms of the celestial _mandāra_ coral tree’ (मन्दारैः कल्पतरुकुसुमैः कृतालङ्कारा मूर्धजाः कचा यस्याः). **Rāma Varmā** (_Tilaka_) clarifies दिव्योत्सवकृतारम्भा as signifying that Rambhā had already set out on her journey toward a heavenly festival of amorous union (दिव्योत्सवाय दिव्यरतये कृत आरम्भो गमनरूपो यया), preparing her coming plea that she is pledged to Nalakūbara.
+
+_____________
+
+**7.26.16 (Tribute to Love and Six-Season Floral Designs)**
+
+Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss रतिप्राभृतम् as ‘a gift or tribute dedicated to amorous delight’ (रत्युपायनभूतम् / रत्युपदाभूतम्). On 7.26.16ef, Rāma Varmā and **Śivasahāya** (_Śiromaṇi_) gloss विशेषकैः as delicate cheek and forehead patterns painted with yellow sandalpaste and floral extracts (हरिचन्दनादिचित्रितैः कपोलादिचित्रविशेषैः), while all three commentators independently flag the epic _guṇa_ in षडर्तु (षडर्त्वित्यत्र गुण आर्षः / ऋकारस्य गुणश्छान्दसः), reflecting the mythic perennial spring of Kailāsa where blooms of all six seasons coexist.
+
+_____________
+
+**7.26.17–18 (The Nocturnal Veil and Classical Poetic Portrait)**
+
+Explaining his own compound reading श्रीकान्तिद्युतिमतिह्रियाम् in 7.26.17, **Govindarāja** observes that Rambhā shone as one among those five personified goddesses, and notes that her cloud-dark blue veil marks her specifically as an _abhisārikā_—a heroine slipping quietly through the night to meet her beloved (अभिसारित्वेन नीलवस्त्रमादाय समवकुण्ठिता प्रावृतवती). **Rāma Varmā** and **Śivasahāya**, commenting on the alternate reading कान्तिश्रीद्युतिकीर्तिभिः, distinguish bodily beauty (_kānti_), ornament (_śrī_), and inner luster (_dyuti_). Śivasahāya links 17cd–18 into one continuous vision as Rāvaṇa spies her crossing the camp.
+
+_____________
+
+**7.26.19–20 (Rāvaṇa Intercepts Rambhā)**
+
+Acting on impulse, Rāvaṇa seizes the bashful Rambhā by the hand—a gesture **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) construe cleanly as the immediate fruit of Cupid’s arrows (कामबाणवशं गतः). Opening his seductive interrogation in 7.26.20, Rāvaṇa asks कां सिद्धिं भजसे स्वयम्, which both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) gloss as ‘whose fulfillment of amorous union are you serving?’ (कस्य संभोगसिद्धिम्). Śivasahāya detects an implicit causative force in the root √bhaj (अन्तर्भावितणिजर्थो भजिः), rendering it ‘whose wealth of enjoyment do you fulfill?’
+
+_____________
+
+**7.26.21–23 (Sensuous Praise from Face to Hips)**
+
+Rāvaṇa’s courtly flattery proceeds systematically in classical _śṛṅgāra_ fashion. On 7.26.21, **Rāma Varmā** glosses आननरसस्य as the nectar of her lower lip (अधरामृतेन), while **Govindarāja** notes the genitive governed by तृप्तिम्; **Śivasahāya** catches a double irony—asking both who will attain satiety and implying that no one could ever grow satiated with such ambrosia (न कोऽपीत्यर्थः). On 7.26.22–23, Śivasahāya glosses निरन्तरौ as ‘closely pressed together’ (संश्लिष्टौ), and both Tilaka and Śiromaṇi unpack स्वर्गरूपिणम् as ‘embodying unsurpassed heavenly bliss’ (निरतिशयसुखहेतुभूतम्).
+
+_____________
+
+**7.26.24 (Imperial Hubris Above the Gods)**
+
+Having praised Rambhā’s beauty, Rāvaṇa pivots sharply to naked self-glorification, naming Indra, Viṣṇu, and the handsome twin Aśvins only to dismiss them all as inferior to himself. Both **Rāma Varmā** and **Śivasahāya** supply the rhetorical answer implicit in मद्विशिष्टः पुमान् कोऽद्य: ‘not even Śakra or any other god surpasses me—no one does! Therefore, passing me by to visit another is altogether unbecoming’ (न कोऽपीत्यर्थः । अतः मामतीत्य यं त्वं यासि तन्न शोभनम्). The boast unwittingly invites cosmic nemesis, since Rāvaṇa’s arrogance blinds him to familial dharma.
+
+_____________
+
+**7.26.25–26 (Mock Humility Masking Supreme Arrogance)**
+
+Rāvaṇa pairs a theatrical gesture of supplication (प्राञ्जलिः प्रह्वः) with dizzying claims of cosmic dominion. On 7.26.25, **Rāma Varmā** (_Tilaka_) draws out the underlying presumption: ‘since no sovereign of the three worlds exists besides me, seeking another is utterly improper’ (त्रैलोक्यप्रभोर्ममान्यापेक्षा न युक्तेति भावः), and **Śivasahāya** (_Śiromaṇi_) concurs. Both commentators highlight the hyperbole of भर्तुर्भर्ता विधाता च in 7.26.26: Rāvaṇa styles himself ‘lord even of the lord of the three worlds’ (त्रैलोक्यस्य भर्तुरपि भर्ता स्वामी) and its ‘disposer and sustainer’ (पालयिता).
+
+_____________
+
+**7.26.27–28 (Rambhā’s Dharmic Shield)**
+
+Rather than replying with anger, the trembling Rambhā invokes sacred kinship dharma. Calling Rāvaṇa her _guru_ (venerable elder), she reminds him of a guardian’s primary duty: as both **Rāma Varmā** and **Śivasahāya** emphasize, because she is truly his daughter-in-law by dharma (धर्मतः स्नुषा), even if others threatened her with outrage (अन्येभ्योऽपि यदि धर्षणं प्राप्नुयाम्), Rāvaṇa himself would be duty-bound to shield her (त्वया रक्ष्या)—still less should he utter such improper words (अत एवं वक्तुं नार्हसि).
+
+_____________
+
+**7.26.29–30 (Terror and Rāvaṇa’s Narrow Literalism)**
+
+Verse 7.26.29 vividly paints Rambhā’s dread: both **Rāma Varmā** and **Śivasahāya** gloss चरणाधोमुखीम् as ‘standing with head bowed, eyes fixed only upon the tips of her own feet’ (स्वचरणाग्रमात्रावलोकनकर्त्रीम्), while Śivasahāya explicitly notes that रोमहर्षम् here denotes horripilation born of fear (भयहेतुकरोमोद्गमम्), not pleasure. In 7.26.30, Rāvaṇa counters with narrow legalism: ‘Only if you were my son’s wife would you be my daughter-in-law!’—where Rāma Varmā acutely glosses सुतस्य as ‘of Indrajit’ (इन्द्रजित इत्यर्थः), oblivious to his nephew Nalakūbara’s claim.
+
+_____________
+
+**7.26.31–32 (Nalakūbara’s Kinship and Fourfold Majesty)**
+
+Accepting Rāvaṇa’s premise (‘Indeed it is so!’), Rambhā invokes the traditional family law whereby a brother’s son ranks as one’s own son. **Rāma Varmā** (_Tilaka_) glosses धर्मतः in 7.26.31 as ‘by the sacred code of a pledged tryst’ (सङ्केतधर्मतः), and both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) explain धर्मतः in 7.26.32 as ‘in the observance of righteous duty’ (धर्मानुष्ठानविषये). Rambhā’s fourfold portrait of Nalakūbara—brahmin in dharma, kṣatriya in might, fire in wrath, earth in patience—carries a veiled warning of the fiery curse awaiting Rāvaṇa.
+
+_____________
+
+**7.26.33–34 (Exclusive Devotion and the Act of Truth)**
+
+Both **Rāma Varmā** and **Govindarāja** gloss कृतसङ्केता in 7.26.33 as ‘having made a formal tryst of love’ (कृतरतिसङ्केता), explaining why she is richly decked with jewels and blossoms. **Śivasahāya** (_Śiromaṇi_) links 7.26.31–34 into one periodic sentence (श्लोकचतुष्टयमेकान्वयि). On 7.26.34ab, both Tilaka and Bhūṣaṇa clarify the reciprocal exclusivity: just as Nalakūbara’s devotion rests upon her and none other, so too her heart abides solely in him (यथा तस्य भावो मां प्रति तिष्ठति तथा ममापि भावस्तं प्रति तिष्ठति). She invokes this fidelity as a _satya-kriyā_ (‘by that truth, release me’).
+
+_____________
+
+**7.26.35–36 (Appealing to Paternal Duty and the Path of the Good)**
+
+**Śivasahāya** links 7.26.34cd and 7.26.35, glossing तेन सत्येन as ‘by that solemn truth of Nalakūbara’s eager expectation of me’ (तेन नलकूबरकृतेन सत्येन मत्प्रतीक्षणेन), reinforcing Rambhā’s plea not to obstruct his own nephew-son. Her closing appeal in 7.26.36 crystallizes epic ethics in crisp symmetry: माननीयो मम त्वं हि पालनीया तथास्मि ते (‘you are to be revered by me, and I am to be protected by you’). By framing the relationship in reciprocal dharma, Rambhā deprives Rāvaṇa of any moral pretext.
+
+_____________
+
+**7.26.37–38 (Rāvaṇa’s Smooth Sophistry)**
+
+Responding विनीतवत् (‘with feigned politeness’), Rāvaṇa twists heavenly precedent into a license for violence. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply quotative इति after स्नुषास्मि. **Śivasahāya** (_Śiromaṇi_) defines एकपत्नीषु with scholastic precision as ‘women bound by wifehood to a single husband’ (एकपतिनिरूपितपत्नीत्वविशिष्टास्वेव) and glosses शाश्वती as ‘unbroken/perpetual’ (निरन्तरा). Rāma Varmā glosses देवलोकस्थितिः as ‘heavenly custom’ (देवलोकमर्यादा): Rāvaṇa slyly conflates the absence of exclusive marriage among apsarases (अप्सरसां नियतः पतिर्नास्ति) with consent, ignoring that Rambhā has explicitly refused him.
+
+_____________
+
+**7.26.39–40 (The Outrage and the Churned River)**
+
+Without awaiting further reply, Rāvaṇa forces Rambhā down upon the stone slab. In 7.26.40, all three commentators clarify the elliptical participle विमुक्ता by supplying ‘after the forcible intercourse’ (संभोगानन्तरमिति शेषः in Tilaka and Bhūṣaṇa; रत्यनन्तरम् in Śiromaṇi). Both Govindarāja and Śivasahāya dissolve गजेन्द्राक्रीडमथिता as an instrumental _tatpuruṣa_ (‘churned by the rough sport of a lordly elephant’). The simile captures the stark disproportion between Rāvaṇa’s brutal mass and Rambhā’s delicate purity, muddied and scattered like a disturbed mountain stream.
+
+_____________
+
+**7.26.41–42 (The Wind-Shaken Creeper at Nalakūbara’s Feet)**
+
+Vālmīki’s second simile deepens the pathos (_karuṇa-rasa_): Rambhā appears like a flowering vine lashed by a gale, her hair tangled and ornaments stripped. Both **Rāma Varmā** and **Govindarāja** resolve the inverted compound करवेपितपल्लवा as वेपितकरपल्लवा (‘whose sprout-like hands trembled’). **Śivasahāya**, taking _pallava_ literally as a lotus held in her hand (करे वेपितः पल्लवः कमलं यस्याः), binds 7.26.41cd–42 into a single poignant sentence (सार्धश्लोक एकान्वयी) as the terrified, shame-stricken apsaras collapses at Nalakūbara’s feet.
+
+_____________
+
+**7.26.43–45 (Nalakūbara’s Inquiry and the Night on Kailāsa)**
+
+Seeing Rambhā in the shattered condition just described (सा वर्णितावस्था यस्याः, **Śivasahāya**), Nalakūbara asks gently why she lies at his feet. Beginning her factual account (_yathātattvam_), Rambhā first identifies the intruder: Daśagrīva, encamped with his host en route to invade heaven (_triviṣṭapa_). On परिणामिता in 7.26.45d, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss ‘passed/spent’ (यापिता) and supply इह (‘here on Kailāsa’); Śivasahāya adds a sharper dramatic nuance, supplying मया सह (‘he spent this night with me’).
+
+_____________
+
+**7.26.46–47 (The Double ‘Sarvam’ of Terror)**
+
+Recounting her interception and interrogation, Rambhā stresses that she concealed nothing of her bond with Nalakūbara. Verse 7.26.47ab repeats the word सर्वम् twice within a single half-verse (मया तु सर्वं यत्सत्यं तस्मै सर्वं निवेदितम्). Whereas the Baroda Critical Edition smooths this to तद्धि तस्मै, **Rāma Varmā** perceptively defends the Southern repetition as deliberate psychological realism rather than a rhetorical blemish of redundancy (_punarukti-doṣa_): ‘the twofold utterance of _sarvam_ here is no fault, being driven by fear’ (अत्र सर्वपदस्य द्विरुपादानं भयवशान्न दोषाय).
+
+_____________
+
+**7.26.48 (The Plea Cast Behind Rāvaṇa’s Back)**
+
+Reaching the climax of her testimony, Rambhā underscores both her explicit moral appeal—‘I am your daughter-in-law’—and Rāvaṇa’s calculated contempt for it. **Śivasahāya** glosses the vivid idiom पृष्ठतः कृत्वा (‘having placed behind his back’) as ‘utterly disregarding my entreaty’ (तन्मयाचितं पृष्ठतः कृत्वा अनादृत्येत्यर्थः). Crucially, by stating बलात्तेनास्मि धर्षिता (‘by force I was violated by him’), she establishes her complete lack of consent—the exact moral hinge upon which Nalakūbara’s impending curse will turn.
+
+_____________
+
+**7.26.49 (Rambhā’s Apology and the Disparity of Force)**
+
+Closing her tearful plea, Rambhā humbly asks pardon for the involuntary breach of her tryst, grounding her defense in an undeniable physical truth: a woman’s strength is not equal to a man’s. **Śivasahāya** (_Śiromaṇi_) traces the tight causal chain (हि यतः स्त्रियाः पुरुषस्य बलं तुल्यं न तस्मादेवमुक्तप्रकारेण जातं मेऽपराधं क्षन्तुमर्हसि). Far from blaming her, Nalakūbara recognizes her utter blamelessness and directs his righteous indignation entirely against Rāvaṇa’s abuse of superior physical power.
+
+_____________
+
+**7.26.50–51 (Yogic Verification Before Judgment)**
+
+A striking detail of Vālmīki’s ethics appears in 7.26.50: although blazing with wrath (_saṅkruddhaḥ_), Nalakūbara does not curse rashly on hearsay alone, but first enters yogic meditation (_dhyāna_). All three commentators highlight this judicial scruple: **Rāma Varmā** (_Tilaka_) notes he meditated ‘to ascertain whether her report was true or false’ (एतदुक्तार्थः सत्योऽसत्यो वेति जिज्ञासार्थम्), **Govindarāja** (_Bhūṣaṇa_) concurs (सत्यो वाऽसत्यो वेति ज्ञातुम्), and **Śivasahāya** specifies ‘to verify its truth with certainty’ (तत्सत्यत्वनिश्चयाय), glossing मुहूर्तात् in 7.26.51 as ‘through a brief moment of contemplation’ (मुहूर्तमात्रध्यानात्).
+
+_____________
+
+**7.26.52–53 (The Ritual Purification and the Decree)**
+
+Once his inner vision confirms the crime, Nalakūbara performs solemn ritual purification (_ācamana_) to empower his verbal decree. Explaining the word सर्वम् in सर्वमुपस्पृश्य (7.26.52), both **Rāma Varmā** and **Govindarāja** supply ‘all the sense organs—eyes, ears, and the rest’ (सर्वमिन्द्रियगणम् / चक्षुरादीन्द्रियमिति शेषः), touched with consecrated water according to Vedic rule (_yathāvidhi_). Framing his curse in exact talionic proportion (यस्मात् ... तस्मात्), he declares that because Rāvaṇa forced an unwilling woman (_akāmā_), he shall never again approach any unwilling maiden.
+
+_____________
+
+**7.26.54 (The Sevenfold Shattering of Rāvaṇa’s Head)**
+
+**Śivasahāya** (_Śiromaṇi_) notes that 7.26.54 supplies the dreadful sanction enforcing the ban of 7.26.53 (तत्र हेतुमाह). On the striking numeral सप्तधा (‘into seven parts’), **Govindarāja** (_Bhūṣaṇa_) glosses ‘in sevenfold manner’ (सप्तप्रकारेण), while **Rāma Varmā** (_Tilaka_) offers a physiological correlation with the seven bodily elements (_sapta-dhātus_): his head will burst sevenfold in accordance with the seven vital constituents (सप्तधातुवशात्सप्तप्रकारेण). Thus Nalakūbara places a permanent, self-executing boundary upon the otherwise invincible demon-king.
+
+_____________
+
+**7.26.55–56 (Heaven’s Applause and the Foreseen Fall of Rāvaṇa)**
+
+The fiery curse immediately draws celestial celebration—divine drums, falling blossoms, and the rejoicing of Brahmā, gods, sages, and manes. **Rāma Varmā** observes that the drums and flower-showers arise from sheer relief (दुन्दुभिवाद्यादयः सन्तोषात्), and both he and **Govindarāja** gloss लोकगतिम् in 7.26.56 as ‘the wretched plight of the worlds rooted in Rāvaṇa’s oppression’ (लोकस्य तत्कृतपीडामूलदुर्दशाम्). **Śivasahāya** binds 55ef–56ab together: foreseeing how this curse will both protect future victims and hasten Rāvaṇa’s doom, all heaven exults.
+
+_____________
+
+**7.26.57–58 (Rāvaṇa’s Restraint and the Assurance of Sītā’s Purity)**
+
+Hearing the terrifying curse, Rāvaṇa checks his lust toward unwilling women, bringing profound relief to the chaste wives previously abducted into his palace (प्राक् स्वान्तःपुरे नीताः पतिव्रताः स्त्रियः, **Rāma Varmā**). Crucially, both **Rāma Varmā** and **Govindarāja** uncover the deepest narrative purpose of Agastya’s entire discourse here: ‘this statement is intended to assure Rāma completely of Lady Sītā’s untouched purity’ (इदं च वचनं सीतादेव्या अक्षतत्वस्य सम्यग्रामं प्रति बोधनार्थम्), answering in advance how Sītā remained inviolate in Laṅkā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

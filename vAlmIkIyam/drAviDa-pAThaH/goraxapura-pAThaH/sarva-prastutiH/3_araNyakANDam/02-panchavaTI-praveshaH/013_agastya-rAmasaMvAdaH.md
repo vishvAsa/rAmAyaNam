@@ -772,6 +772,98 @@ Agastya started to tell. [3-13-13]
 
 “Two _yojanas_ from here (_ito dvi-yojane_), dear child (_tāta_), lies an auspicious region (_deśaḥ śrīmān_) abounding in roots, fruits, and water (_bahu-mūla-phalodakaḥ_) and teeming with deer, renowned as Pañcavaṭī (_pañcavaṭy abhiviśrutaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.13.1–2 (prīto ’smi vs. parituṣṭo ’smi & kāvyārthāpatti)**
+
+**Govindarāja** (_Bhūṣaṇa_) remarks that the sarga break here is an archaic division (एतादृशस्थले सर्गविच्छित्तिरार्षीति प्रतीयते), as Agastya’s speech continues directly. **Rāma Varmā** (_Tilaka_) differentiates प्रीतोऽस्मि (love for Rāma) from परितुष्टोऽस्मि (satisfaction with Lakṣmaṇa’s devoted service, रामसेवातत्परत्वेन परितोषः). In 3.13.2, **Śivasahāya** (_Śiromaṇi_) identifies _kāvyārthāpatti_: if travel-weariness afflicts even hardy Rāma and Lakṣmaṇa, how much more must it afflict Sītā (यदि युवामिव बाधते तर्हि मैथिलीं बाधत इति किमु वक्तव्यम्), while **Govindarāja** glosses प्रचुरश्रमः as causing profuse perspiration (प्रचुरः श्रमः स्वेदजलं येन सः).
+
+_____________
+
+**3.13.3–4 (prājyadoṣam & Sītā’s Fortitude)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss प्राज्यदोषम् as abounding in forest perils (प्रभूतदोषम्) and न विमानिता as never before humbled by suffering (दुःखैर्न परिभूता च).
+
+_____________
+
+**3.13.5–6 (The Triple Comparison)**
+
+All three commentators explain that ordinary women (प्राकृतस्त्रीणां) resemble lightning in restlessness (एकत्रानवस्थानाद्विद्युतां चाञ्चल्यमनुगच्छन्ति), weapons in severing old bonds of affection (बहुकालागतस्नेहबन्धच्छेदेन शस्त्रतैक्ष्ण्यानुगमः), and Garuḍa and the wind in acting rashly (अविचारेण कार्यकरणादिति भावः).
+
+_____________
+
+**3.13.7–8 (ślāghyā ca vyapadeśyā ca & alaṃkṛto ’yaṃ deśaḥ)**
+
+All three commentators gloss श्लाघ्या as praiseworthy by the good (सद्भिः प्रशंसनीया) and व्यपदेश्या as foremost to be cited among devoted wives (पतिव्रतास्वग्रगण्या), **Govindarāja** (_Bhūṣaṇa_) adding that Agastya extols Sītā to inspire Rāma toward freeing the captive celestial women (वक्ष्यमाणदेवबन्दीमोचनोत्साहनाय). In 3.13.8, **Rāma Varmā** (_Tilaka_) notes that since Agastya’s hermitage (अयं देशः) is graced merely by Rāma’s visit, the region where Rāma will actually reside will be all the more adorned (यत्र देश इतःपरं वत्स्यसि सोऽलंकृतो भविष्यतीति किं वक्तव्यमित्यर्थः).
+
+_____________
+
+**3.13.9–11 (dhanyo ’smi & Requesting a Hermitage Site)**
+
+**Rāma Varmā** (_Tilaka_) explains किं तु as introducing a further request (परं तु किंचिद्वक्तव्यमस्तीत्यर्थः) and निरतः as delighted (प्रीतः), while **Śivasahāya** (_Śiromaṇi_) glosses आश्रमपदं as a resting place that dispels fatigue (श्रमनिवर्तकं स्थानं).
+
+_____________
+
+**3.13.12 (dhyātvā muhūrtam)**
+
+**Govindarāja** (_Bhūṣaṇa_) explains that Agastya meditated for a moment upon what would best serve the impending mission against the Rākṣasas (भाविकार्योचितमर्थं ध्यात्वा), while **Rāma Varmā** (_Tilaka_) supplies “upon a suitable dwelling-place” (वासोचितं देशमिति शेषः).
+
+_____________
+
+**3.13.13–14 (Etymology of Pañcavaṭī)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that पञ्चवटी is a collective _Dvigu_ compound (पञ्चानां वटानां समाहारः पञ्चवटी) transferred by secondary signification (_lakṣaṇā_) to the region marked by five banyan trees (तद्युक्तदेशो लक्षणया पञ्चवटीत्युच्यते).
+
+_____________
+
+**3.13.15 (Why Both Austerity and Affection Are Cited)**
+
+Explaining why Agastya pairs तपसश्च प्रभावेण with स्नेहाद् दशरथस्य च, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) point out that affection is the motive that prompts a yogin to direct his meditative vision toward a friend’s affairs (न ह्यस्निग्धवृत्तान्तं तपसा ज्ञातुं यतते कश्चित्, _Tilaka_; तपःप्रभावेन तवालोचनकरणे निमित्तमाह—स्नेहादिति, _Bhūṣaṇa_).
+
+_____________
+
+**3.13.16–17 (hṛdayasthaṃ chandaḥ & The Vow to Slay Rākṣasas)**
+
+All three commentators reconcile Rāma’s earlier promise to stay with Agastya (3.11.87) with his request for another site: learning that Rākṣasas never enter Agastya’s hermitage, Rāma wished to move where he could fulfil his vow to destroy them (अत्रावस्थाने प्रतिज्ञातराक्षसवधनिर्वाहो न भवति, अत्र राक्षसागमनाभावात्, _Tilaka_).
+
+_____________
+
+**3.13.18–19 (nātidūre ca & Preserving Rāma’s Vow)**
+
+**Śivasahāya** (_Śiromaṇi_) explains that Agastya stresses नातिदूरे च (“not far from my hermitage”) so Rāma will be assured that settling at Pañcavaṭī does not violate his earlier pledge to dwell near the sage (तत्र गमने मन्निकटवासाभावप्रयुक्तमत्प्रतिज्ञाहानिर्न भविष्यतीति). **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss विविक्तः as solitary (एकान्तः, विजनः).
+
+_____________
+
+**3.13.20 (bhavān api & Protecting the Ascetics)**
+
+On भवानपि ... शक्तश्च परिरक्षणे, **Rāma Varmā** (_Tilaka_) notes that the particle अपि (“you too, like me, are able to protect ascetics”) explains why Rākṣasas shun Agastya’s hermitage while inviting Rāma to defend the sages at Pañcavaṭī (स्वस्यापि तापसरक्षणे सामर्थ्यबोधनेन स्वाश्रमे रक्षस्त्रासपीडा सूचिता).
+
+_____________
+
+**3.13.21 (The Route Past the Madhūka Forest)**
+
+**Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) clarify the directions: after passing through the _madhūka_ forest, one must take the path to its north leading toward the great banyan tree (इदं मधूकवनं गत्वा तदुत्तरेण मार्गेण गन्तव्यं स मार्गो न्यग्रोधं प्रापयतीत्यर्थः).
+
+_____________
+
+**3.13.22 (sthalam upāruhya & Ever-Blossoming Pañcavaṭī)**
+
+All three commentators gloss स्थलम् as an open, treeless tableland (निर्वनं देशं, _Tilaka_; समभूमिम्, _Śiromaṇi_) beyond the banyan tree, ascending which one beholds Pañcavaṭī near a mountain (पर्वतस्याविदूरतः) with ever-flowering woods (नित्यपुष्पितकाननः).
+
+_____________
+
+**3.13.23–24 (satkṛtyāmantrayām āsa)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss सत्कृत्य as honouring Agastya through circumambulation and prostration (प्रदक्षिणनमस्कारादिभिः), while **Śivasahāya** (_Śiromaṇi_) explains आमन्त्रयामास as requesting permission to depart (गमनाय प्रार्थयामास).
+
+_____________
+
+**3.13.25 (viṣaktatūṇī vs. viṣaktatūṇau)**
+
+On the closing _Vaṃśastha_ stanza, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain विषक्ततूणी as a _Bahuvrīhi_ from feminine तूणी (विषक्ते तूण्यौ ययोस्तौ), whereas **Govindarāja** (_Bhūṣaṇa_), reading विषक्ततूणौ, notes the _a_-stem तूण (अकारान्तोऽपि तूणशब्दः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

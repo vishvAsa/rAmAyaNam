@@ -91,6 +91,14 @@ Bhageeratha stood on one big-toe with an unwavering intent and bodily
 
 “When that God of gods (Brahmā) had departed (_devadeve gate tasmin_), O Rāma, Bhagīratha pressed the earth with the tip of his big toe (_so ’ṅguṣṭhāgranipīḍitāṃ kṛtvā vasumatīm_) and worshipped Lord Śiva for a full year (_vatsaraṃ samupāsata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.1–3 (aṅguṣṭhāgranipīḍitām & umāpatiḥ paśupatiḥ)**
+
+After Brahmā’s departure, Bhagīratha stands for a year supporting his weight solely on the tip of his left big toe (_vāmapādāṅguṣṭhāgramātrāśritām_, **Śiromaṇi**) while meditating upon Śiva (_samupāsata = samupāsta_, **Tilaka**). **Govindarāja** and **Śiromaṇi** note that the twin titles _umāpatiḥ paśupatiḥ_ indicate that Śiva appeared accompanied by Goddess Umā and Nandīśvara, promising to receive Himavān’s daughter upon his head.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +251,14 @@ Afterwards, she who is reverenced by all the worlds and who is the
 
 “Thereupon Haimavatī, the eldest daughter of Himavān, who is revered by all the worlds (_tato haimavatī jyeṣṭhā sarvalokanamaskṛtā_), assumed an exceedingly vast form and an irresistible velocity (_tadā sātimahad rūpaṃ kṛtvā vegaṃ ca duḥsaham_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.4–5 (śive śivaśirasi & paramadurdharā)**
+
+Both **Tilaka** and **Govindarāja** gloss the first _śive_ as ‘auspicious’ or ‘pure’ (_śobhane, śuddhe_), qualifying Śiva’s head (_śivaśirasi_). Why did Gaṅgā assume a colossal form and unbearable speed? As vv. 5cd–6ab explain, she was _paramadurdharā_ (‘impossible for anyone else to sustain’) and plotted to carry Śaṅkara himself down into Pātāla.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +364,14 @@ Discerning her egotism god Shiva is infuriated, and then on his part
 
 “‘Sweeping Śaṅkara himself away with my torrent, I shall enter Pātāla (_viśāmy ahaṃ hi pātālaṃ srotasā gṛhya śaṅkaram_)!’ Perceiving her arrogant pride, however, the Blessed Lord Hara grew wrathful (_tasyāvalepanaṃ jñātvā kruddhas tu bhagavān haraḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.6 (tasyāvalepanam)**
+
+**Tilaka** and **Govindarāja** point out the archaic double sandhi in _tasyāvalepanam_ (_tasyāḥ_ + _avalepanam_, ‘her pride’, _garvam_, with **Govindarāja** citing _Amarakośa_), which prompts Hara to humble her.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -428,6 +452,14 @@ Though she strove hard in one way or another to reach the earth that
 **7:** “Then the three-eyed Lord resolved in his mind to make her vanish from sight (_tirobhāvayituṃ buddhiṃ cakre trinayanas tadā_). When that sacred goddess fell upon the sacred head of Rudra (_sā tasmin patitā puṇyā puṇye rudrasya mūrdhani_)—
 
 **8:** “—within the cavern of his circle of matted locks, which resembled Mount Himavān, O Rāma (_himavatpratime rāma jaṭāmaṇḍalagahvare_), despite exerting every effort, she could by no means reach the earth (_sā kathaṃcin mahīṃ gantuṃ nāśaknod yatnam āsthitā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.7–9 (jaṭāmaṇḍalagahvare & antataḥ)**
+
+Trapped inside the Himavān-like cavern of Rudra’s matted locks (_jaṭāmaṇḍalam eva gahvaraṃ guhā_, **Govindarāja**), Gaṅgā wanders for many years. On _jaṭāmaṇḍalam antataḥ_, **Tilaka** explains that even when she reached the outer edge (_tatprāntam āgatāpi_), the Lord’s _māyā_ created the illusion that she was still in the middle (_prāntabhāge ’pi tanmadhyatvabhramasya māyayā bhagavatotpādanāt_)—a divine _līlā_ humbling her pride.
 </details>
 </details>
 
@@ -539,6 +571,14 @@ Oh, Rama, the legatee of Raghu, with that ascesis of Bhageeratha god
 
 “Beholding her trapped there, Bhagīratha again entered upon supreme austerity (_tām apaśyat punas tatra tapaḥ paramam āsthitaḥ_); and by that penance, O delight of the Raghus, Lord Hara was supremely pleased (_sa tena toṣitaś cāsīd atyantaṃ raghunandana_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.10–11 (bindusaraḥ prati & sapta srotāṃsi)**
+
+Seeing Gaṅgā hidden inside the forest of Śiva’s locks (_jaṭāṭavītirohitām_, **Tilaka**), Bhagīratha performs supreme penance again until Hara releases her toward _Bindusaras_—which all three commentators identify as a sacred lake on Mount Himavān fashioned by Brahmā (_himavatsthitabrahmanirmitasaroviśeṣam_)—where she parts into seven streams.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -621,6 +661,14 @@ While god Shiva released Ganga into Bindu Lake seven streams have emerged
 
 “Hlādinī, Pāvanī, and Nalinī as well (_hlādinī pāvanī caiva nalinī ca tathaiva ca_)—these three auspicious Gaṅgās of pure, salutary waters flowed toward the eastern quarter (_tisraḥ prācīṃ diśaṃ jagmur gaṅgāḥ śivajalāḥ śubhāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.12 (hlādinī pāvanī caiva nalinī ca)**
+
+Naming the eastern triad first, the poet describes _Hlādinī_, _Pāvanī_, and _Nalinī_—three auspicious Gaṅgās of pure, salutary waters (_śivajalāḥ_, auspicious like Śaṅkara himself and the cause of all welfare, _sakalaśubhahetubhūtāḥ_, **Śiromaṇi**)—flowing toward the eastern quarter.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -682,6 +730,14 @@ Also thus Sucakshu, Seetha, and the excellent river Sindhu are the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Sucakṣuḥ, Sītā, and the great river Sindhu (_sucakṣuś caiva sītā ca sindhuś caiva mahānadī_)—these three auspicious rivers flowed toward the western quarter (_tisraś caitā diśaṃ jagmuḥ pratīcīṃ tu diśaṃ śubhāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.13–15 (sucakṣuś caiva sītā ca & Why Gaṅgā is Tripathagā)**
+
+With three streams flowing east (v. 12), three flowing west (_Sucakṣuḥ_, _Sītā_, and _Sindhu_), and the seventh following Bhagīratha south toward the ocean, **Tilaka** and **Govindarāja** observe that vv. 12–15 answer Rāma’s earlier question (Sarga 35) as to why Gaṅgā is called _Tripathagā_: both because she courses in three directions (_diktrayagamanāt_) and because she traverses three cosmic realms—heaven, Śaṅkara’s head, and earth (_svargākāśabhūmigamanāt_, v. 15cd).
 </details>
 </details>
 
@@ -828,6 +884,14 @@ The earth then verily shone forth with the shoals of fish, schools
 
 “—her water surged forward there preceded by a thunderous roar (_asarpata jalaṃ tatra tīvraśabdapuraskṛtam_); and with shoals of fish and tortoises and hosts of gangetic dolphins as well (_matsyakacchapasaṅghaiś ca śiṃśumāragaṇais tathā_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.16–17 (tīvraśabdapuraskṛtam & śiṃśumāragaṇaiḥ)**
+
+**Tilaka** notes that her double drop from heaven to Śiva’s head and thence to earth explains why her waters surge with a deafening roar (_tīvraśabdapuraskṛtam_). **Śiromaṇi** distinguishes _patadbhiḥ_ (aquatic creatures currently cascading in mid-air) from _patitaiḥ_ (those already fallen upon the ground).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -909,6 +973,14 @@ Some of the gods with aircrafts that are like cities in their shape
 
 **18:** “—beheld her there as she descended then from the sky onto the earth (_vyalokayanta te tatra gaganād gāṃ gatāṃ tadā_), mounted upon aerial cars shaped like cities and upon horses and lordly elephants (_vimānair nagarākārair hayair gajavarais tadā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.18 (gaganād gāṃ gatām)**
+
+**Tilaka** and **Govindarāja** gloss _gaganāt_ here specifically as ‘from the sky of Rudra’s matted locks’ (_rudrajaṭāgaganāt_) and _gām_ as the earth (_bhūmim_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -977,6 +1049,14 @@ The gods whose animation is unlimited, and who are anxious to see the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And deities riding in swaying palanquins or seized with eager wonder stood stationed there (_pāriplavagatāś cāpi devatās tatra viṣṭhitāḥ_); to behold that supreme descent of Gaṅgā, most wondrous in the world (_tad adbhutam imaṃ loke gaṅgāvataram uttamam_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.19–21 (pāriplavagatāḥ & śatādityam iva)**
+
+On _pāriplavagatāḥ_, **Tilaka** records two views: either the deities were ‘seized with excited flurry’ (_saṃbhramaṃ gatāḥ_, adopted by **Govindarāja** and **Śiromaṇi** as an adjective to _vimānaiḥ_) or they rode in palanquins (_śibikādiyānasthāḥ_). As the gods streak across the cloudless sky (_gatatoyadam_), the brilliance of their ornaments makes the firmament blaze like a hundred suns.
 </details>
 </details>
 
@@ -1075,6 +1155,14 @@ At that time, with the falling and rising of scores of porpoises and
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—the cloudless firmament shone as though lit by a hundred suns (_śatādityam ivābhāti gaganaṃ gatatoyadam_); and with hosts of gangetic dolphins and serpents and darting fishes flung aloft (_śiṃśumāroragagaṇair mīnair api ca cañcalaiḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.21cd–23ab (Three Cosmic Similes—vidyudbhiḥ, śāradābhraiḥ, haṃsasamplavaiḥ)**
+
+All three commentators admire Vālmīki’s cascade of similes: leaping dolphins, serpents, and flashing fish flung into the air (_vikṣiptair niḥsṛtaiḥ_) look like bolts of lightning (_vidyudbhir iva_), while white crests of foam (_pāṇḍuraiḥ salilotpīḍaiḥ phenaiḥ_) scattered a thousandfold by the wind resemble autumn clouds (_śāradābhraiḥ_) and flying flocks of swans (_haṃsasamplavaiḥ_).
 </details>
 </details>
 
@@ -1216,6 +1304,14 @@ Somewhere her water repeatedly knocking against her own water is recurrently
 
 **24:** “—in some places it dipped into deep chasms, in some it leaped upward, and in some it glided gently, ever so gently (_vinataṃ kvacid uddhūtaṃ kvacid yāti śanaiḥ śanaiḥ_); and in some places water was dashed against water once more (_salilenaiva salilaṃ kvacid abhyāhataṃ punaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.23cd–24 (āyatam, vinatam, uddhūtam)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** gloss _āyatam_ as broad-streamed, _vinatam_ as contracted in deep gorges (_agādhadeśe saṃkucitam_), and _uddhūtam_ as leaping upward over rocks (_pāṣāṇaskhalanādinā ūrdhvacalam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1278,6 +1374,14 @@ That impeccable and immaculate water of Ganga then became outstanding
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Rising repeatedly into the upper sky, it fell once more upon the earth (_muhur ūrdhvapathaṃ gatvā papāta vasudhāṃ punaḥ_); having first fallen upon Śaṅkara’s head and then fallen upon the surface of the earth (_tac chaṅkaraśirobhraṣṭaṃ bhraṣṭaṃ bhūmitale punaḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.25–26 (nirmalaṃ gatakalmaṣam)**
+
+Why is Gaṅgā’s water both physically crystal-clear (_nirmalam_) and sin-destroying (_gatakalmaṣam_)? **Tilaka** explains that her twofold fall—first onto Śaṅkara’s head and thence to the earth (_prāguktabhraṃśadvayaṃ hetuḥ_)—freed her from all earthy turbidity and empowered her to destroy the sins of all who touch her.
 </details>
 </details>
 
@@ -1405,6 +1509,20 @@ When sins are washed away with the hallowing water of Ganga, they again
 **27:** “—reverently touched that water which had fallen from the body of Bhava (Śiva), thinking: ‘It is supremely sanctifying!’ (_bhavāṅgapatitaṃ toyaṃ pavitram iti paspṛśuḥ_). And those who had fallen from the sky to the surface of the earth on account of a curse (_śāpāt prapatitā ye ca gaganād vasudhātalam_)—
 
 **28:** “—having performed their ablution there, became freed from all taint of sin (_kṛtvā tatrābhiṣekaṃ te babhūvur gatakalmaṣāḥ_); with their sins shaken off by that water and endowed with auspiciousness (_dhūtapāpāḥ punas tena toyenātha śubhānvitāḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.27 (bhavāṅgapatitaṃ toyaṃ pavitram)**
+
+Why did sages and Gandharvas touch her water as _pavitram_ because it fell from Bhava’s body? **Govindarāja** offers several Vaiṣṇava-compatible construals (having sprung from Viṣṇu’s foot, it purified even Śiva, citing _Bhāgavata_ 3.28.22 _śivaḥ śivo ’bhūt_, or remained pure despite falling from Bhava’s body), whereas **Śiromaṇi** refutes this at length, showing that although inherently pure, Gaṅgā acquired transcendent sanctifying power (_atipavitratvam_) by touching Śiva’s body.
+
+_____________
+
+**43.28–30 (śāpāt prapatitāḥ & mudito mumude)**
+
+**Tilaka** observes that Gaṅgā-snāna not only removes even a Brāhmaṇa’s curse (_brahmaśāpaparihāraḥ_), but restores fallen celestials to their heavenly worlds; on v. 29cd, people were joyful (_muditaḥ_) merely at seeing her and rejoiced again (_mumude_) upon bathing and drinking.
 </details>
 </details>
 
@@ -1598,6 +1716,14 @@ Oh, Rama, all of the gods along with the assemblages of sages, ogres,
 
 **32:** “—the foremost of Gandharvas and Yakṣas together with Kinnaras and great serpents (_gandharvayakṣapravarāḥ sakinnaramahoragāḥ_), and all the Apsarases, O Rāma, following behind the chariot of Bhagīratha (_sarvāś cāpsaraso rāma bhagīratharathānugāḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.31–33 (bhagīratharathānugāḥ & yato bhagīrathaḥ)**
+
+As Bhagīratha drives ahead in his celestial chariot, Gaṅgā follows behind him, attended by a cosmic procession of gods, sages, Daityas, Gandharvas, and Apsarases. Both **Tilaka** and **Śiromaṇi** explain _yato ... tataḥ_ as instrumental (_tṛtīyāntāt tasiḥ_): by whatever path King Bhagīratha travelled, by that very path flowed the all-sin-destroying Gaṅgā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1703,6 +1829,14 @@ While in flow she started to completely inundate the field of Vedic-ritual
 
 “—the foremost of rivers, the destroyer of all sins (_jagāma saritāṃ śreṣṭhā sarvapāpapraṇāśinī_). Then, as the high-souled Jahnu of wondrous deeds was performing a sacrifice (_tato hi yajamānasya jahnor adbhutakarmaṇaḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.34–35 (jahnor adbhutakarmaṇaḥ & yajñavāṭam)**
+
+Why is the sacrificing royal sage Jahnu called _adbhutakarmaṇaḥ_ (‘of wondrous deed’)? Both **Tilaka** and **Govindarāja** note that this epithet anticipates his miraculous act of drinking up the entire Gaṅgā (_vakṣyamāṇagaṅgāopasaṃhārābhiprāyam_, **Tilaka**; _vakṣyamāṇagaṅgāpānābhiprāyam_, **Govindarāja**) when she floods his sacrificial enclosure (_yajñavāṭaṃ yajñakṣetram_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1784,6 +1918,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—and drank up all the water of Gaṅgā—a most wondrous feat (_apibat tu jalaṃ sarvaṃ gaṅgāyāḥ paramādbhutam_)! Thereupon the gods together with the Gandharvas, and the sages as well, were struck with utter astonishment (_tato devāḥ sagandharvā ṛṣayaś ca suvismitāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.36 (apibat tu jalaṃ sarvam)**
+
+**Tilaka** compares Jahnu’s feat to Agastya’s sipping of the ocean through yogic power (_agastyaḥ samudrajalam iva yogaśaktyā_). While **Tilaka** and **Govindarāja** take _kruddhaḥ_ straightforwardly as ‘wrathful’ at her pride (_tasyāvalepanam_), **Śiromaṇi** proposes splitting _jñātvā_ and _akruddhaḥ_ (_krodharahita eva_)—claiming Jahnu drank her without anger out of devotion to make her his daughter!
 </details>
 </details>
 
@@ -1868,6 +2010,14 @@ That greatly radiant and godly sage Jahnu is then delighted and released
 
 **38:** “Pleased thereby, the mighty lord of great splendor released her through his two ears (_tatas tuṣṭo mahātejāḥ śrotrābhyām asṛjat prabhuḥ_); therefore Gaṅgā, as the daughter of Jahnu, is celebrated by the name of Jāhnavī (_tasmāj jahnusutā gaṅgā procyate jāhnavīti ca_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.37–38 (duhitṛtve & śrotrābhyām asṛjat ... jāhnavī)**
+
+Appeasing Jahnu with hymns, the gods promise that if Gaṅgā issues from his body, she will be renowned as his daughter (_duhitṛtve nayanti sma = duhitaraṃ kurvanti_, **Govindarāja**). Why did Jahnu release her specifically through his two ears (_śrotrābhyām_)? **Govindarāja** explains: because among all limbs of the human body, the ear is the purest (_narāvayaveṣu śrotrasyātipāvanatvāt_). Reborn from Jahnu, she is celebrated as _Jāhnavī_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1927,6 +2077,14 @@ Some take the word *saagaram* as the netherworld dug by the sons
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then Gaṅgā flowed onward once more, following behind the chariot of Bhagīratha (_jagāma ca punar gaṅgā bhagīratharathānugā_); and having reached the ocean as well, that foremost of rivers then (_sāgaraṃ cāpi samprāptā sā saritpravarā tadā_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.39–40 (sāgaram & rasātalam upāgacchat)**
+
+**Tilaka** glosses _sāgaram_ as the vast basin excavated by Sagara’s sons (_sagarasutakhātam_), which Gaṅgā fills before descending into _Rasātala_ (Pātāla) to fulfill Bhagīratha’s ancestral vow (_tasya karmaṇaḥ = bhagīrathasya svavaṃśoddhārakarmaṇaḥ_), adding that the ocean’s salinity (_kṣāratvam_) arose later when Agastya drank and discharged its waters.
 </details>
 </details>
 
@@ -2047,6 +2205,14 @@ Even kingly-sage Bhageeratha making every effort ushered Ganga to netherworld,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—beheld his grand-uncles reduced to ashes, his mind overcome with sorrow (_pitāmahān bhasmakṛtān apaśyad gatacetanaḥ_). Then the supreme water of Gaṅgā drenched that heap of ashes (_atha tadbhasmanāṃ rāśiṃ gaṅgāsalilam uttamam plāvayat_); and cleansed of all sin, O best of the Raghus, the sixty thousand sons of Sagara attained heaven (_pūtapāpmānaḥ svargaṃ prāptā raghūttama_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.41 & Colophon (plāvayat pūtapāpmānaḥ)**
+
+As Gaṅgā’s supreme water drenches (_plāvayat = aplāvayat_) the heap of ashes consumed by Kapila’s wrath, all sixty thousand sons of Sagara are cleansed of sin (_pūtapāpmānaḥ_) and ascend to heaven.
 </details>
 </details>
 

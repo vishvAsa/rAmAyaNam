@@ -73,6 +73,32 @@ will tell an early legend, an early legendary narration that I listened... [1-9-
 
 Hearing this, the royal charioteer and counselor Sumantra spoke these words to the King in private: `Pray hear that ancient narrative which I heard of old in the Purāṇas.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1. Why Sumantra Speaks in Private (Rahaḥ) and His Dual Role as Sūta and Mantrin (ति० टी०, रा० टी०, गो० टी० on 1.9.1–3)**
+
+Govindarāja introduces Sarga 9 as introducing the extraordinary instrumental cause (भगवदवतारासाधारणकारणं पुत्रेष्टिं प्रक्षिपति) of the Lord's incarnation: the _Putreṣṭi_ sacrifice officiated by Ṛśyaśṛṅga. Why is Sumantra called सूतः here after being named eighth of the अमात्याः/मन्त्रिणः in `1.7.3`? All three commentators explain that Sumantra held both offices simultaneously (स हि राज्ञ उभयधर्मा सूतो मन्त्री च): as counselor he knew high state policy, and as royal charioteer/_Paurāṇika_ bard (सूतः) he had privileged access to the inner palace (अन्तःपुरमागत्य रहः एकान्ते उक्तवान्, गो० टी०) and had heard the ancient prophetic lore of Sanatkumāra.
+
+_____________
+
+**1. Service to the Sacred Fires and the Father (ति० टी०, रा० टी०, गो० टी० on 1.9.6–7)**
+
+In `1.9.7a` (अग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्), Govindarāja explains that while Ṛśyaśṛṅga was still in his first stage of celibacy (प्रथमे ब्रह्मचर्ये वर्तमानस्य), his entire life consisted in tending the sacred fires and serving his father Vibhāṇḍaka—the two highest duties of a _brahmacārin_. The verb समभिवर्तत (`1.9.6d`), though morphologically an unaugmented imperfect (लङ्), has future meaning (सम्पत्स्यति) because Sanatkumāra is speaking prophetically before the event (छन्दसि लुङ्लङ्लिटः).
+
+_____________
+
+**1. Etymology of Prāyaścitta and Bestowing a Bride upon a Pure Brahmacārin (रा० टी० & गो० टी० on 1.9.11–13)**
+
+On प्रायश्चित्तम् (`1.9.11b`), _Śiromaṇi_ quotes the traditional _Smṛti_ etymology: प्रायः पापमिति प्रोक्तं चित्तं तच्छोधनं स्मृतम् (`_prāya_ means sin/transgression, and _citta_ means its purification'). Both _Tilaka_ and Govindarāja emphasize the supreme expiatory principle stated by the Brāhmaṇas in `1.9.12–13`: ब्रह्मचारिणे कन्याप्रदानमेव परमं प्रायश्चित्तम् — bestowing one's adorned daughter in marriage (_kanyādāna_) upon a pure, Veda-knowing _Brahmacārin_ (here triggering his transition to the second, householder stage of _Brahmacarya_ foretold in `1.9.5cd`!) is the highest expiation for royal sin and the surest means to bring rain.
+
+_____________
+
+**1. How `No Fault Shall Ensue' (Na ca doṣo bhaviṣyati) and the Tense Shift in Verse 18 (ति० टी०, रा० टी०, गो० टी० on 1.9.16–18)**
+
+$1c
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -123,6 +149,32 @@ presence of other sages, and sage Sanat Kumara said... [1-9-2, 3a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `This sacrificial rite enjoined by the officiating priests was heard by me in an ancient account: the blessed sage Sanatkumāra aforetime related a prophetic narrative—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2. The Three Interpretations of `Twofold Celibacy' (Brahmacaryasya Dvaividhyam) (ति० टी०, गो० टी०, रा० टी० on 1.9.5)**
+
+$19
+
+_____________
+
+**2. King Romapāda's Transgression and the Definition of Prāyaścitta (ति० टी०, रा० टी०, गो० टी० on 1.9.8–10)**
+
+In `1.9.8c` (तस्य व्यतिक्रमाद् राज्ञः), the commentators explain that King Romapāda of Aṅga committed a transgression of royal Dharma (धर्मातिक्रमात् / deceiving a Brāhmaṇa, as recounted in the _Mahābhārata_ and _Purāṇas_), which brought down a devastating multi-year drought (सुदारुणा = बहुकालव्यापिनी, सुघोरा = सर्वराष्ट्रव्यापिनी). Summoning the elders learned both in Veda (श्रुतकर्माणः / श्रुतधर्माणः) and in worldly custom (लोकचारित्रवेदिनः — essential because bringing Ṛśyaśṛṅga will require worldly stratagem as well as Vedic ritual!), Romapāda asks them to prescribe a penance (प्रायश्चित्तम्).
+
+_____________
+
+**2. Why the King First Sends His Priest and Ministers (ति० टी०, रा० टी०, गो० टी० on 1.9.14–15)**
+
+In `1.9.14d`, Ṛśyaśṛṅga is called वीर्यवान्, which _Tilaka_ glosses as `possessed of mastery over his senses and the triple energy of Vedic learning, conduct, and austerity' (जितेन्द्रियत्वं विद्यावृत्ततपोवीर्यं च) and Govindarāja as `steadfast in celibacy' (नियतब्रह्मचर्यः). Thinking that only learned Brāhmaṇas can persuade a Brāhmaṇa (ब्राह्मणं ब्राह्मणा एवानेष्यन्तीति निश्चित्य, गो० टी०), Romapāda first commissions his _Purohita_ and ministers (`1.9.15`).
+
+_____________
+
+**2. How Is Ṛśyaśṛṅga Called Daśaratha's `Son-in-Law' (Jāmātā)? (ति० टी०, रा० टी०, गो० टी० on 1.9.19)**
+
+In `1.9.19a` (ऋश्यशृङ्गस्तु जामाता पुत्रांस्तव विधास्यति), why is Śāntā's husband Ṛśyaśṛṅga called `your son-in-law' (तव जामाता) when Śāntā was given in marriage by King Romapāda of Aṅga? Govindarāja states the celebrated genealogical tradition directly: दशरथस्यौरसी शान्ता दत्ता रोमपादस्य — Śāntā was born as the biological daughter (_aurasī_) of King Daśaratha and had been given in adoption to his close friend, the childless King Romapāda! Both _Tilaka_ and _Śiromaṇi_ add that even by friendship alone, the son-in-law of Daśaratha's bosom friend Romapāda is his own son-in-law (मित्रजामाता स्वस्यापि जामातैव), and note that the explicit account of their kinship will be told in Sarga 11.
 </details>
 </details>
 

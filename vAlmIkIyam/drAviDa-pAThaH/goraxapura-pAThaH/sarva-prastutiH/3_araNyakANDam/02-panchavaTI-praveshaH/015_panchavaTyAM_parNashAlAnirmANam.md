@@ -810,6 +810,116 @@ and as superb streaks of paintings on the bodies of elephants.
 
 “With golden, silver, and copper mineral veins (_sauvarṇai rājatais tāmrair dhātubhiḥ_) in place after place (_deśe deśe ca_), they shine like elephants (_ivābhānti gajāḥ_) checkered with lattice-like ornamental paintings (_gavākṣitāḥ parama-bhaktibhiḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.15.1–2 (vyālamṛgāyutām & dīptatejasam)**
+
+**Rāma Varmā** (_Tilaka_) cites the lexicon (व्यालः श्वापदसर्पयोः इति कोशः) to gloss व्यालाः as beasts of prey or serpents and मृगाः as deer (हरिणाः). **Govindarāja** (_Bhūṣaṇa_) interprets दीप्ततेजसम् as glowing with enthusiasm for devoted service (रामकैंकर्याद्युक्तं दीप्ततेजसं कैंकर्योचितदेशलाभेन संतुष्टमित्यर्थः).
+
+_____________
+
+**3.15.3–4 (ramate yatra vaidehī)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply the matching first- and second-person verbs त्वं रमसे and अहं रमे alongside रमते वैदेही in 3.15.4ab.
+
+_____________
+
+**3.15.5–6 (Threefold Beauty & sītāsamakṣam)**
+
+**Govindarāja** (_Bhūṣaṇa_) distributes the three requirements of verse 5 among the three exiles: वनरामण्यकम् (flowering groves) for Sītā (कुसुमाभिलाषिण्याः सीताया रतिहेतुः), स्थलरामण्यकम् (level ground) for Rāma (तल्पशयनादिकाङ्क्षिणो रामस्य), and nearby fuel and water (सन्निकृष्टसमिदादिमत्त्वम्) for Lakṣmaṇa who serves them (शुश्रूषमाणस्य सौमित्रेः), adding that सीतासमक्षम् invokes Sītā’s mediating presence (पुरुषकारसान्निध्योक्तिः).
+
+_____________
+
+**3.15.7 (paravān asmi & Eternal Servitude)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) highlight the theological depth of परवानस्मि: Lakṣmaṇa’s very being (अस्मिता) consists in perpetual subservience to Rāma (पारतन्त्र्यमेवैषा ममास्मितेति भावः, _Bhūṣaṇa_; न कदाचिदपि मे स्वातन्त्र्यमित्यर्थः, _Tilaka_), where वर्षशतम् signifies all eternity (शतशब्दः आनन्त्यपरः सार्वकालिकं मम पारतन्त्र्यमिति भावः).
+
+_____________
+
+**3.15.8–10 (hastau gṛhītvā hastena)**
+
+**Govindarāja** (_Bhūṣaṇa_) explains that Rāma clasped Lakṣmaṇa’s joined palms in his own hand (हस्तौ बद्धाञ्जलिकौ स्वहस्तेन गृहीत्वा), which **Rāma Varmā** (_Tilaka_) notes displays overflowing affection, intimacy, and lordship (अनेन स्नेहाधिक्यमन्तरङ्गत्वं स्वामित्वं च दर्शितम्).
+
+_____________
+
+**3.15.11–12 (padminī padmaśobhitā)**
+
+Alongside the literal sense of a lotus-pond bright with sun-like lotuses, **Govindarāja** (_Bhūṣaṇa_) notes an esoteric Vaiṣṇava reading in which पद्मशोभिता (shortened from पद्मा-शोभिता) signifies “graced by Lakṣmī and the ever-present Hari” (हरिसान्निध्येन तन्नित्यानपायिन्या श्रिया च युक्तेत्यर्थः).
+
+_____________
+
+**3.15.13–14 (mṛgayūthanipīḍitā & phullaiḥ)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss मृगयूथनिपीडिता as thronged along the banks by herds of deer coming to drink (पानायागतमृगसङ्घनिबिडा), while **Govindarāja** (_Bhūṣaṇa_) explains फुल्लैः as covered with full-blown blossoms (विकसितपुष्पैः).
+
+_____________
+
+**3.15.15 (gavākṣitā ivābhānti gajāḥ)**
+
+Explaining the simile of the mountains, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that the crags streaked with golden, silver, and copper mineral ores (धातुभिः गैरिकैः) resemble caparisoned elephants painted with lattice-window ornamental patterns (भक्तिभिर्गवाक्षाकारनीलपीतादिवर्णरचनालङ्कारैरलंकृताः, _Tilaka_; गजानां हि गवाक्षाकाराः भक्तीः कुर्वन्ति, _Bhūṣaṇa_).
+
+_____________
+
+**3.15.16–18 (Catalog of Mountain Trees)**
+
+**Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) construe verses 16–18 with गिरयो दृश्यन्ते from verse 14 (श्लोकत्रयमेकान्वयि), **Govindarāja** glossing नीवारैः here as aquatic _kadamba_ trees (जलकदम्बैः).
+
+_____________
+
+**3.15.19–20 (puṇyam vs. medhyam)**
+
+**Govindarāja** (_Bhūṣaṇa_) distinguishes पुण्यम् as generating religious merit (पुण्यप्रदं) and मेध्यम् as ritually pure (पवित्रम्), and notes that एतेन पक्षिणा refers to Jaṭāyu who accompanied them.
+
+_____________
+
+**3.15.21 (maskaraiḥ & kṛtavaṃśām)**
+
+All three commentators explain the cottage’s construction: सङ्घातमृत्तिकाम् means having mud compacted into walls (भित्तीकृतमृत्तिकामित्यर्थः, _Bhūṣaṇa_), मस्करैः means “with bamboos” (वेणुभिः), and कृतवंशाम् means fitted with cross-beams supporting the roof (कृतगृहोर्ध्वकाष्ठाम्, _Bhūṣaṇa_, citing _Vaijayantī_).
+
+_____________
+
+**3.15.22–23 (Thatching & Leveling the Cottage)**
+
+**Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) explain that _śamī_ branches were laid across the bamboo rafters (तिर्यग्वंशोपरि), bound with strong bark-cords (दृढवल्कलादिकृतपाशैरवपाशितां), and thatched with _kuśa_, _kāśa_, and _śara_ reeds over a leveled courtyard and floor (समीकृततलां).
+
+_____________
+
+**3.15.24 (saphalaḥ punar āgataḥ)**
+
+All three commentators explain सफलः literally as “accompanied by fruits” gathered from trees along the way back from the Godāvarī (मार्गस्थवृक्षेभ्यो गृहीतफलः, _Tilaka_; फलानि चादायेत्यर्थः, _Bhūṣaṇa_; फलसहितः सन्, _Śiromaṇi_).
+
+_____________
+
+**3.15.25 (puṣpabalim & śāntim)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss पुष्पबलिम् as the ritual worship of the site-deities (वास्तुपूजां) and शान्तिम् as the auspicious house-consecration rite performed by Lakṣmaṇa himself according to the _Vāstukalpa_ (वास्तुशान्तिं, _Tilaka_; आभ्युदयिकीं क्रियां यथाविधि वास्तुकल्पानुसारेण, _Bhūṣaṇa_).
+
+_____________
+
+**3.15.26–27 (harṣam āhārayat & Rāma’s Embrace)**
+
+All three commentators gloss आहारयत् as “attained/experienced” (प्राप्तवान्), while **Govindarāja** (_Bhūṣaṇa_) construes अतिस्निग्धं च गाढं च adverbially with परिष्वज्य (“having embraced him most affectionately and tightly,” परिष्वङ्गक्रियाविशेषणम्).
+
+_____________
+
+**3.15.28 (The Embrace as Sole Forest Reward)**
+
+All three commentators capture the pathos of प्रदेयो यन्निमित्तं ते परिष्वङ्गो मया कृतः: having no royal wealth in the forest to bestow as a reward (पारितोषिकान्तराभावात्) for Lakṣmaṇa’s building of the cottage, Rāma gives his own embrace in place of a gift (अन्यस्य देयस्याभावात्, _Tilaka_; देयवस्तुप्रतिनिधिभूतमिदमालिङ्गनमित्यर्थः, _Śiromaṇi_).
+
+_____________
+
+**3.15.29 (na saṃvṛttaḥ pitā mama)**
+
+**Rāma Varmā** (_Tilaka_) glosses न संवृत्तः as “is not dead, but lives on” (न संवृत्तो न मृतः, किन्तु जीवत्येव) because Lakṣmaṇa cherishes Rāma like Daśaratha himself (पितृवदेव त्वया परिपालनादिति भावः). **Govindarāja** (_Bhūṣaṇa_) explains भावज्ञेन as discerning Rāma’s unstated wishes (मच्चित्तज्ञेन) and कृतज्ञेन as recalling how halls were built in Ayodhyā.
+
+_____________
+
+**3.15.30–31 (svargaloke yathāmaraḥ)**
+
+Reading वशी in 3.15.30d, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) gloss it as self-controlled (विषयचापलरहितः), dwelling at Pañcavaṭī like Indra in heaven (देवराज इव).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -83,6 +83,14 @@ Upon the completion of the great-souled monarch’s Aśvamedha and Putreṣṭi 
 
 When that great horse-sacrifice (_hayamedhe_) of the high-souled monarch (conjoined with the _Putreṣṭi_) was duly brought to completion (_nirvṛtte tu kratau tasmin_), the immortals, having accepted their respective sacrificial shares (_pratigṛhyāmarā bhāgān_), returned to their abodes even as they had come (_pratijagmur yathāgatam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.1 (Narrative Resumption After the Celestial Digression)**
+
+All three commentators—**Rāma Varmā (_Tilaka_)**, **Śivasahāya (_Śiromaṇi_)**, and **Govindarāja (_Bhūṣaṇa_)**—point out the seamless syntactic and structural link across Sargas 14–18: having narrated the incidental descent of the celestial hosts as the _vānara_ heroes in Sarga 17 (_prāsaṅgika-devatāvatāram uktvā_), Vālmīki now returns to the principal incarnation (_pradhānāvatāra_) by resuming the thread from the close of the sacrifice in Sarga 14. **Govindarāja** and **Tilaka** note that _hayamedhe_ implies “the _Aśvamedha_ together with the _Putreṣṭi_” (_putreṣṭi-sahite_), and that vv. 1–7 form a recapitulatory _anuvāda_ connecting the queens’ conception (_1.16.30_) directly to the royal births in v. 8.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -128,6 +136,14 @@ with the company of his queens, servants, guards and vehicles. [1-18-2]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having concluded the rules and observances of his sacrificial initiation (_samāptadīkṣāniyamaḥ_), the King, accompanied by his assembly of queens (_patnīgaṇasamanvitaḥ_), entered the capital city along with his servants, armies, and mounts (_sabhṛtyabalavāhanaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.2–4 (praviveśa & śubhrāṇi)**
+
+Noting that Daśaratha is said to enter the city in v. 2 (_praviveśa purīṃ rājā_) and again in v. 5 (_praviveśa purīṃ śrīmān_), **Tilaka** and **Govindarāja** explain _praviveśa_ in v. 2 as inceptive (_praveśābhimukho babhūva / praveṣṭum upacakrame, ādikarmadyotakaḥ praśabdaḥ_), whereas **Śiromaṇi** explains on v. 5 that the King first entered the city from the sacrificial ground, stepped out to escort his royal guests at their departure, and then re-entered (_punaḥ praveśoktyā pūrvaṃ purīṃ praviśya rājaprasthāpanārthaṃ bahir nirgata iti dhvanitam_). On v. 4, **Tilaka** and **Govindarāja** gloss _śubhrāṇi_ as “gleaming with the splendid garments and ornaments bestowed by Daśaratha” (_daśarathadatta-vastrābharaṇādinātyujjvalāni_).
 </details>
 </details>
 
@@ -175,6 +191,14 @@ sage Vashishta. [1-18-3]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Duly honored according to their rank (_yathārhaṃ pūjitāḥ_) by that monarch, the lords of the earth (_pṛthivīśvarāḥ_), filled with joy, paid their obeisance to the foremost of sages (_praṇamya munipuṃgavam_) and departed for their respective realms.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.3, 5 (munipuṃgavam & dvijottamān)**
+
+On _munipuṃgavam_ (v. 3), **Tilaka** includes both Vasiṣṭha and Ṛṣyaśṛṅga, while **Śiromaṇi** takes the singular as generic (_jātyabhiprāyeṇa_) encompassing Vasiṣṭha, Ṛṣyaśṛṅga, and Vāmadeva, who then lead the procession back into Ayodhyā (_dvijottamān = vasiṣṭhādīn_, v. 5).
 </details>
 </details>
 
@@ -437,6 +461,20 @@ _________________
 
 **10:** While the day was advancing toward midday (_prodyamāne_), Kausalyā gave birth to Rāma, the Lord of the Universe (_jagannātham_), adored by all the worlds (_sarvalokanamaskṛtam_) and endowed with every divine mark of grace (_divyalakṣaṇasaṃyutam_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.8–9 (The Planetary Exaltation Chart at Śrī Rāma’s Birth)**
+
+$18
+
+_____________
+
+**18.9–10 (pañcocce lokanāyakaḥ & jagannātham)**
+
+**Govindarāja** quotes standard _Horāśāstra_ maxims showing why Vālmīki specifies five exalted planets without naming them individually: while four exalted planets produce a universal emperor, birth under five exalted planets proclaims the Lord of the Universe (पञ्चोच्चे लोकनायकः)—which Vālmīki immediately confirms with the epithet _jagannātham_! Moreover, Jupiter’s conjunction with the Moon in the _Karkaṭa-kendra_ cancels all _Kemadruma_ and house-lord blemishes (_doṣaparihāra_). **Tilaka** adds a luminous devotional touch on _sarvalokanamaskṛtam_: at the moment of birth, Kausalyā first beheld the Lord’s cosmic _Virāṭ_ form, bowed in awe, and prayed for Him to assume the form of a tender infant.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -546,6 +584,14 @@ the incarnation of Rama is a *pUrNaavatAra*, *ardhaavatAra* or *aMshaavatAra*.
 
 The glorious son who was the very half of Viṣṇu’s own essence (_viṣṇor ardhaṃ mahābhāgam_), the delight of the Ikṣvāku line (_putram aikṣvākunandanam_), lotus-red of eye, mighty-armed, with coral-red lips and a voice deep as the kettledrum (_dundubhisvanam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.11 (viṣṇor ardham — Three Exegetical Traditions)**
+
+How can the indivisible Supreme Person be called _viṣṇor ardham_ (“half of Viṣṇu”)? (1) **Govindarāja** explains it through the sacrificial medium: Rāma manifested from the half-portion of the Viṣṇu-infused _pāyasa_ given to Kausalyā (_viṣṇumayasya pāyasasyārdhāṃśapariṇāmabhūtam_). (2) **Tilaka** takes _ardham_ to mean “slightly less in outward insignia” because as a two-armed human prince He concealed His four-armed _śaṅkha-cakra_ form. (3) **Śivasahāya (_Śiromaṇi_)** rejects both as secondary (_lākṣaṇika_) and derives _ardha_ etymologically from the root meaning “to cause to prosper or grow” (citing Bṛhadāraṇyaka Upaniṣad 5.9): Śrī Rāma is “the Enhancer (_vardhaka_) of Viṣṇu’s own glory!”
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -598,6 +644,14 @@ once stood out with her son Indra, the best one among gods. [1-18-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Kausalyā shone resplendently with that son of boundless radiance (_putreṇāmitatejasā_), just as Aditi, mother of the gods, shone with Indra, the wielder of the thunderbolt and best of the celestials (_yathā vareṇa devānām aditir vajrapāṇinā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.12 (aditir vajrapāṇinā)**
+
+**Govindarāja** offers four insightful explanations for comparing Kausalyā and Rāma to Aditi and Indra (or Upendra/Vāmana): (1) treating _devānāṃ vareṇa_ as Vāmana (Upendra), whose palm bears the auspicious _vajra_-mark of supreme lordship, and whom Aditi obtained through the _Payovrata_ just as Kausalyā obtained Rāma through the _pāyasa_; (2) following popular convention where Indra is the standard of sovereignty; (3) employing a lesser comparison (_hīnopamā_) as a protective charm to ward off the evil eye (_dṛṣṭidoṣa-parihārāya_) from the newborn child; and (4) astrological confirmation that the Moon (significator of the mother, _mātṛkāraka_) aspected by exalted Jupiter in Cancer elevates the mother’s glory.
 </details>
 </details>
 
@@ -653,6 +707,14 @@ entity. Here it is half of one-fourth i.e., one-eighth of dessert given to Kaike
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Of Kaikeyī was born Bharata by name, of unfailing valor (_satyaparākramaḥ_), the very fourth part of Viṣṇu incarnate (_sākṣād viṣṇoś caturbhāgaḥ_), endowed with all auspicious virtues (_sarvaiḥ samudito guṇaiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.13–15 (The Shares of the Pāyasa & the Birth-Charts of Bharata and the Twins)**
+
+To reconcile _viṣṇoś caturbhāgaḥ_ (v. 13) and _viṣṇor ardhasamanvitau_ (v. 14) with the division of the _pāyasa_ in Sarga 16, **Tilaka** and **Govindarāja** explain that _ardha_ here denotes a fraction/part (_bhāgavācī_, citing _Amarakośa_: _bhittaṃ śakalakhaṇḍe vā puṃsy ardho ’ṃśe_): Lakṣmaṇa and Śatrughna embody the twin quarters/eighths of Sumitrā’s two shares, or from a _Pāñcarātra_ perspective, Bharata, Lakṣmaṇa, and Śatrughna are incarnations of the _Pāñcajanya_ conch, _Ananta-Śeṣa_, and _Sudarśana-cakra_. On v. 15, **Govindarāja** notes that Bharata was born on the next day (_Daśamī_) under _Puṣya_ in Jupiter’s sign _Mīna_ (hence _prasannadhīḥ_), and the twins under _Āśleṣā_ (_sārpe_) on _Daśamī_ at midday in _Karkaṭa_ while the five planets remained exalted.
 </details>
 </details>
 
@@ -867,6 +929,14 @@ their portion of sacrificial oblation returned to their abodes as they have come
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus four high-souled sons of the King were born separately (_catvāro jajñire pṛthak_), rich in virtues, worthy of their sire, and in their splendor resembling the four stars of the constellation _Proṣṭhapadā_ (_rucyā proṣṭhapadopamāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.16 (proṣṭhapadopamāḥ)**
+
+**Tilaka** cites the _Taittirīya_ śruti (चत्वार एकमभिकर्म देवाः प्रोष्ठपदा इति यान् वदन्ति): just as the double constellation _Pūrva-_ and _Uttara-Proṣṭhapadā_ (_Bhādrapadā_) consists of four stars arranged in two inseparable pairs (or the four hooves of a bull, _proṣṭho gauḥ_, **Śiromaṇi** and **Govindarāja**), so too the four brothers shone in two inseparable pairs (Rāma–Lakṣmaṇa and Bharata–Śatrughna).
 </details>
 </details>
 
@@ -1227,6 +1297,14 @@ gave funds and wealth in the form of thousands of cows. [1-18-20]
 
 The King bestowed rich rewards upon the bards, genealogists, and eulogists (_sūtamāgadhavandinām_), and gave wealth and cows by the thousands to the Brāhmaṇas (_godhanāni sahasraśaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.20 (sūtamāgadhavandinām)**
+
+All three commentators distinguish the three classes of court panegyrists who received Daśaratha’s largesse (_pradeyān = pāritoṣikān_): _sūtāḥ_ are the reciters of ancient Purāṇic lore (_paurāṇikāḥ_), _māgadhāḥ_ are the chroniclers of royal genealogies (_vaṃśāvalī-kīrtakāḥ_), and _vandinaḥ_ are the singers of heroic eulogies (_stutipāṭhakāḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1325,6 +1403,20 @@ of the kingdom, named these princes with a vision into the future.
 **21:** Then, after the eleven-day period (counting from the twins’ birth, completing the twelve-day ritual impurity from Rāma’s birth) had elapsed (_atītyaikādaśāhaṃ tu_), he duly performed the naming ceremony (_nāmakarma tathākarot_): naming the eldest, of supreme soul, Rāma, and Kaikeyī’s son Bharata,
 
 **22:** And naming one son of Sumitrā Lakṣmaṇa and the other Śatrughna—Preceptor Vasiṣṭha, supremely delighted (_paramaprītaḥ_), conferred those auspicious names at that time (_nāmāni kurute tadā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.21 (atītyaikādaśāham — Resolving the Twelve-Day Kṣatriya-Sūtaka Rule)**
+
+$1b
+
+_____________
+
+**18.21–22 (The Sacred Etymologies of the Four Names)**
+
+**Tilaka** quotes the _Padma Purāṇa_ (श्रियः कमलवासिन्या रमणोऽयं यतो हरिः । तस्माच्छ्रीराम इत्यस्य नाम सिद्धं पुरातनम्), while **Govindarāja** derives **Rāma** from रमन्ते सर्वे जना गुणैरस्मिन् (“in whose virtues all beings delight”), **Bharata** from _rājyabharaṇāt_ (“he who sustains the realm”), **Lakṣmaṇa** by the _Pāmādi_ rule लक्ष्म्या अच्छम् as “possessed of the wealth of service to Rāma” (_rāmakaiṅkaryalakṣaṇa-sampad-yuktatvāt_), and **Śatrughna** as “the slayer of foes (both outer and inner).”
 </details>
 </details>
 
@@ -1456,6 +1548,14 @@ and he became acceptable to all beings like the self-created Brahma. [1-18-24b, 
 
 He caused all their subsequent sacraments following the birth-rites (_teṣāṃ janmakriyādīni sarvakarmāṇi_) to be duly performed. Among them, the eldest, Rāma, like a lofty banner of his race (_ketur iva jyeṣṭhaḥ_) and the delight of his father (_ratikaraḥ pituḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.24–25 (janmakriyādīni & ketur iva)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** explain that _janmakriyādīni sarvakarmāṇi_ encompasses the entire sequence of childhood _saṃskāras_ beginning after the birth-rites—namely _annaprāśana_ (first feeding of solid food), _caula_ (tonsure), and _upanayana_ (investiture with the sacred thread). On _ketur iva_ (“like a banner”), **Tilaka** and **Govindarāja** remark that just as a lofty temple or royal banner proclaims from afar a house’s munificence, so Rāma proclaimed the glory of the Ikṣvāku dynasty (_dhvaja iva nijakulaprakāśakaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1507,6 +1607,14 @@ the world, all are intellectuals and all of them possess an air of probity. [1-1
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Became supremely honored by all living beings, even like the Self-born Creator Brahmā Himself (_babhūva bhūyo bhūtānāṃ svayambhūr iva sammataḥ_). All four brothers were learned in the Vedas and heroic (_sarve vedavidaḥ śūrāḥ_); all were devoted to the welfare of the world (_sarve lokahite ratāḥ_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.25–27 (sarve vedavidaḥ & teṣām api mahātejāḥ)**
+
+**Govindarāja** traces the logical progression of the four brothers’ education in vv. 25cd–26ab: _vedavidaḥ_ denotes their mastery of the Vedic texts after _upanayana_; _śūrāḥ_ their mastery of the _Dhanurveda_ (an _upaveda_); _lokahite ratāḥ_ their dedication of martial skill to the protection of the world; _jñānopasampannāḥ_ their grasp of the inner philosophical meaning of the Vedas; and _samuditā guṇaiḥ_ the resulting virtues of compassion and self-command. Then, by the maxim of the lion’s backward glance (_siṃhāvalokana-nyāya_, **Śiromaṇi**), v. 26cd singles out Śrī Rāma as shining like the spotless autumn moon (_śaśāṅka iva nirmalaḥ_) even among such brothers.
 </details>
 </details>
 
@@ -1655,6 +1763,14 @@ alter ego. [1-18-29b, 30a]
 
 **29:** Always to his eldest brother Rāma, the delighter of the world (_rāmasya lokarāmasya bhrātur jyeṣṭhasya nityaśaḥ_); and even more than his own body (_śarīrataḥ_), Lakṣmaṇa did everything that was dear to Rāma (_sarvapriyakaras tasya rāmasyāpi_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.28–29 (bālyāt prabhṛti susnigdhaḥ & lakṣmivardhanaḥ)**
+
+On Lakṣmaṇa’s spontaneous devotion to Rāma from earliest infancy, **Govindarāja** offers an unforgettable poetic image: अङ्कुरादेव रभसि परिमलेनेवोत्पन्नस्तुलसीकाण्ड इव जन्मनः प्रभृति निरवधिकभक्तिसम्पन्नः—“like a shoot of sacred _tulasī_ that breathes forth fragrance from its very first sprout, Lakṣmaṇa was endowed with boundless devotion from the very moment of his birth, refusing even in infancy to sleep unless his cradle was joined to Rāma’s couch!”
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1714,6 +1830,14 @@ not eat food brought for him, however delicious it may be, without Lakshmana. [1
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Lakṣmaṇa, richly endowed with the wealth of service (_lakṣmisampannaḥ_), was like a second life-breath moving outside him (_bahiḥprāṇa ivāparaḥ_). Without him, the Supreme Person (_puruṣottamaḥ_, Rāma) would not even fall asleep (_na ca tena vinā nidrāṃ labhate_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.30–31 (bahiḥprāṇa ivāparaḥ & puruṣottamaḥ)**
+
+$1d
 </details>
 </details>
 
@@ -1782,6 +1906,14 @@ Shatrughna dearer than his own lives. [1-18-32b, 33a]
 **31:** Nor would he partake of any savory food brought before him without Lakṣmaṇa by his side (_mṛṣṭam annam upānītam aśnāti na hi taṃ vinā_). And whenever Rāghava mounted his steed and rode forth to the hunt (_mṛgayāṃ yāti rāghavaḥ_),
 
 **32:** Lakṣmaṇa, bow in hand, followed closely behind him, guarding him on every side (_pṛṣṭhato ’bhyeti sadhanuḥ paripālayan_). Likewise, Lakṣmaṇa’s younger brother Śatrughna (_lakṣmaṇāvarajo hi saḥ_) was to Bharata—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.32–33 (paripālayan & lakṣmaṇāvarajo hi saḥ)**
+
+On v. 32ab, **Govindarāja** remarks that when Rāma rode out on a swift steed to hunt, Lakṣmaṇa ran behind with drawn bow out of protective love that fears danger even where none can exist (_asthāne bhayaśaṅkitayā_). On v. 32cd, all three commentators highlight the causal particle _hi_ in _lakṣmaṇāvarajo hi saḥ_: because Śatrughna was Lakṣmaṇa’s uterine twin brother, he shared the exact same nature of selfless service (_tattulyaprakṛtikatvāt_) toward Bharata!
 </details>
 </details>
 
@@ -1888,6 +2020,14 @@ radiantly brilliant and potential princes, like Brahma. [1-18-34b, 35, 36a]
 
 **35:** Modest (_hrīmantaḥ_), glorious in renown (_kīrtimantaś ca_), all-knowing (_sarvajñāḥ_), and far-seeing in wisdom (_dīrghadarśinaḥ_)—beholding all of them of such mighty power and blazing splendor (_teṣām evaṃprabhāvāṇāṃ sarveṣāṃ dīptatejasām_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.34–35 (devair iva pitāmahaḥ & hrīmantaḥ)**
+
+**Tilaka** and **Govindarāja** explain _devaiḥ_ (v. 34b) as the four Lokapāla regents of the quarters (_caturbhir dikpālaiḥ_) surrounding Brahmā. In v. 35, **Govindarāja** distinguishes _sarvajñāḥ_ (masters of all affairs of the present world) from _dīrghadarśinaḥ_ (foreseeing distant future consequences).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1970,6 +2110,14 @@ to render service to their father and they are also the experts in art of archer
 
 Their father Daśaratha rejoiced, just like Lord Brahmā, the sovereign of the worlds (_brahmā lokādhipo yathā_). And those tigers among men (_te cāpi manujavyāghrāḥ_), ever devoted to Vedic study (_vaidikādhyayane ratāḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.36–37 (vaidikādhyayane ratāḥ & dārakriyāṃ prati)**
+
+Why does v. 36 mention the princes’ study a second time after v. 25? **Govindarāja** and **Śiromaṇi** explain that whereas v. 25 referred to their primary memorization of the _Vedas_ right after _upanayana_, _vaidikādhyayane_ here refers to the auxiliary sciences that reinforce the Vedas—_Smṛti_, _Itihāsa_, _Purāṇa_, and _Nyāya_—studied up to the completion of _brahmacarya_ (_samāvartana_), which naturally leads Daśaratha in v. 37 to deliberate upon their marriage (_dārakriyāṃ prati_). **Tilaka** adds an allusion to the _Yogavāsiṣṭha_: seeing Rāma’s pensive detachment after his pilgrimage, Daśaratha initially wondered whether the prince’s pallor arose from youth and thus took counsel regarding his marriage.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2050,6 +2198,14 @@ the highly powerful sage Vishvamitra arrived. [1-18-38b, 39a]
 **37:** Delighted in serving their father and were consummately grounded in the science of archery (_dhanurvede ca niṣṭhitāḥ_). Then the righteous King Daśaratha, regarding the marriage of his sons (_teṣāṃ dārakriyāṃ prati_),
 
 **38:** Entered into deliberation together with his preceptors and kinsmen (_cintayām āsa dharmātmā sopādhyāyaḥ sabāndhavaḥ_). While that high-souled monarch was thus deliberating in the midst of his ministers (_mantrimadhye_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.38–39 (Transition from Avatāra to Avatāra-Prayojana)**
+
+**Govindarāja** marks v. 38cd as a major structural pivot in the _Bālakāṇḍa_: having completed the narrative of the Lord’s incarnation (_iyata prabandhena bhagavadavatāro darśitaḥ_), Vālmīki now initiates the threefold purpose of the incarnation—protecting the righteous (_sādhuparitrāṇa_), destroying evildoers (_duṣkṛdvināśana_), and establishing _dharma_ (_dharmasaṃsthāpana_). Just as a farmer weeds a field in order to nurture the crop, protecting the sages’ sacrifice is the primary goal and slaying the _rākṣasas_ is its necessary corollary. Though Viśvāmitra is _mahātejāḥ_—fully capable of destroying the demons himself by ascetic power—he comes to Ayodhyā specifically to manifest Śrī Rāma’s glory and unite Him with Sītā.
 </details>
 </details>
 
@@ -2143,6 +2299,14 @@ quickly rushed to the place of Dasharatha. [1-18-40b, 41a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Quickly announce that I have arrived—Kauśika, the son of Gādhi (_śīghram ākhyāta māṃ prāptaṃ kauśikaṃ gādhinaḥ sutam_)!” Hearing those words of his, the gatekeepers ran in haste to the King’s palace (_rājño veśma pradudruvuḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.40–41 (sambhrāntamanasaḥ)**
+
+**Tilaka** attributes the gatekeepers’ haste to fear of the fiery sage’s curse if delayed (_vilambe śāpatrāsāt_), whereas **Śiromaṇi** quotes the lexical rule संभ्रमत्रयमिच्छन्ति भयमुद्वेगमादरम् to interpret _sambhrānta_ as “filled with eager reverence (_atyādara_)” because they knew how deeply Daśaratha cherished great sages.
 </details>
 </details>
 
@@ -2245,6 +2409,14 @@ go towards Brahma. [1-18-42b, 43a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Had arrived, reporting the news to the monarch of the Ikṣvāku line (_prāptam āvedayām āsur nṛpāyekṣvākave tadā_). Hearing those words of theirs, the King, collected in mind and accompanied by his family priest Vasiṣṭha (_sapurodhāḥ samāhitaḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.42–43 (nṛpāyekṣvākave & brahmāṇam iva vāsavaḥ)**
+
+Why does Vālmīki call Daśaratha simply _Ikṣvāku_ (_nṛpāyekṣvākave_) here? **Tilaka** and **Govindarāja** explain that the ancestral name is applied to his descendant to suggest the hereditary virtue of the dynasty: the scions of Ikṣvāku never brook the slightest delay in honoring an arriving guest (_abhyāgatavilambāsahiṣṇava iti bhāvaḥ_). On _brahmāṇam iva vāsavaḥ_ (v. 43b), **Tilaka** quotes the Vedic śruti बृहस्पतिर्देवानां ब्रह्म to identify _brahmāṇam_ as Bṛhaspati, the preceptor of the gods, whereas **Govindarāja** takes it as the four-faced Creator Brahmā, and **Śiromaṇi** accepts both.
 </details>
 </details>
 
@@ -2353,6 +2525,14 @@ well-being and welfare of king Dasharatha. [1-18-44b, 45a]
 
 The King, with a joyful countenance, caused the ritual _arghya_ offering of water to be presented to him (_tato ’rghyam upahārayat_). Having accepted the _arghya_ from the King in accordance with Śāstric ordinance (_śāstradṛṣṭena karmaṇā_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.44 (arghyam upahārayat)**
+
+All three commentators examine the causative verb _upahārayat_ (“he caused the _arghya_ to be offered”). **Tilaka** and **Govindarāja** supply _vasiṣṭhena_: in strict ritual protocol, the King had his royal _purohita_ Vasiṣṭha present the _arghya_ vessel on his behalf (_rājapreraṇayā vasiṣṭhānītam_), so that in v. 44c Viśvāmitra receives what is simultaneously “the King’s _arghya_” (_rājñaḥ pratigṛhyārghyam_). **Śiromaṇi** alternatively notes that the _ṇic_ suffix can be a pleonastic _svārthika ṇic_ (like _rāmo rājyam acīkarat_), meaning the King himself presented it.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2398,6 +2578,14 @@ rural areas, friends and relatives. [1-18-45b, 46a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Viśvāmitra inquired of the lord of men concerning his welfare and unfailing prosperity (_kuśalaṃ cāvyayaṃ caiva paryapṛcchan narādhipam_)—in his capital city, his treasury, his countryside, his kinsmen, and his friends (_pure kośe janapade bāndhaveṣu suhṛtsu ca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.45–46 (kuśalaṃ cāvyayaṃ caiva)**
+
+**Tilaka** cites _Manu-smṛti_ (क्षत्रबन्धुमनामयम्) to note that _kuśalam_ stands by _upalakṣaṇa_ for _anāmayam_ (the proper greeting to a Kṣatriya), while **Govindarāja** distinguishes _kuśalam_ (acquisition of new prosperity, _apūrvārthaprāptiḥ_) from _avyayam_ (the preservation of existing wealth without loss across the seven limbs of statecraft: capital, treasury, territory, kinsmen, allies, and vassals).
 </details>
 </details>
 
@@ -2516,6 +2704,14 @@ to custom Vishvamitra asked after their well-being. [1-18-47b, 48a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And are both your divine rites and human duties of statecraft being well performed by you (_daivaṃ ca mānuṣaṃ caiva karma te sādhv anuṣṭhitam_)?” Then, approaching Vasiṣṭha, that foremost of sages inquired after his welfare,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.47–48 (Why Viśvāmitra Greeted Daśaratha Before Vasiṣṭha)**
+
+**Rāma Varmā (_Tilaka_)** makes a penetrating psychological and dramatic observation on v. 47: why did Viśvāmitra inquire after the King’s welfare first (vv. 45–47ab) and only afterward greet the royal preceptor Vasiṣṭha (v. 47cd)? Ostensibly because the King had initiated the _arghya_ offering, yet subtly Vālmīki hints at a lingering trace of their ancient rivalry (_anena rājapurohitatvakṛtaḥ pūrvaspardhayeṣad apamāno vasiṣṭhasya viśvāmitrakṛtaḥ sūcitaḥ_)! **Tilaka** even records a manuscript variant (वसिष्ठं च समागम्य प्रहसन् मुनिपुङ्गवः) where Viśvāmitra smiles inwardly upon meeting Vasiṣṭha. On v. 48, **Tilaka** adds that while Daśaratha and Vasiṣṭha had walked out to the gate, Vāmadeva and the other sages remained in the court and were greeted upon entry.
 </details>
 </details>
 
@@ -2684,6 +2880,26 @@ and the gladness at a great happening, oh, great saint, welcome to you." [1-18-5
 
 **52:** Even so do I regard your coming! Welcome to you, O great sage (_tathaivāgamanaṃ manye svāgataṃ te mahāmune_)! What supreme desire of yours may I fulfill, and in what manner, filled with joy as I am (_kaṃ ca te paramaṃ kāmaṃ karomi kim u harṣitaḥ_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.50–51 (The Five Similes of Supreme Joy — Mālopamā)**
+
+Across vv. 50cd–52ab, Daśaratha welcomes Viśvāmitra with a celebrated garland of five similes (_mālopamā_): (1) winning nectar (_amṛtasya samprāptiḥ_), (2) rain in a parched land (_varṣam anūdake_), (3) the birth of a son from a wife of noble rank to a childless man (_sadṛśadāreṣu putrajanmāprajasya_—speaking directly from Daśaratha’s own recent experience!), (4) the recovery of a lost treasure (_pranaṣṭasya nidhyāder lābhaḥ_), and (5) the rapture arising from a great festival (_mahodayaḥ_, citing _Amarakośa_ on _maha_ in the sense of “festival,” _utsavaḥ_).
+
+_____________
+
+**18.51–52 (Svakavihata-sādṛśya — Tilaka’s Poetic Insight)**
+
+**Tilaka** points out the exquisite rhetorical turn in comparing the sage’s arrival directly to “joy itself” in the fifth simile (_yathā harṣo mahodayaḥ_): by collapsing the distinction between the cause of joy and joy itself, the King suggests that the bliss born of Viśvāmitra’s arrival is beyond all comparison (_anirvācyatvaṃ vyajyate_).
+
+_____________
+
+**18.52–53 (pātrabhūto ’si me vipra & sujīvitam)**
+
+**Tilaka** and **Śiromaṇi** gloss _pātrabhūtaḥ_ as “worthy of every form of reverent service” (_sarvasevāyogyaḥ_), while **Govindarāja** explains it more specifically as “a fit recipient of royal gifts” (_dānayogyaḥ_): although Viśvāmitra was born a Kṣatriya king (who could not ordinarily accept _pratigraha_ gifts), by attaining Brāhmaṇahood he has now become _pātrabhūtaḥ_—hence Daśaratha deliberately addresses him as _vipra_ (“O Brāhmaṇa!”) and _viprendram_ (v. 54a)! On _sujīvitam_, **Tilaka** notes that all the past years of the King’s life have been validated today by beholding such a saint.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2832,6 +3048,20 @@ sacred place.
 
 **55:** You have now attained the rank of _Brahmarṣi_, and are thus worthy of being worshiped by me in manifold ways (_pūjyo ’si bahudhā mayā_). Your coming, O Brāhmaṇa, is a wondrous miracle and a supreme sanctification for me (_pavitraṃ paramaṃ mama_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.54–55 (pūjyo ’si bahudhā mayā)**
+
+Why does Daśaratha say “you are worthy of being worshiped by me in manifold ways” (_bahudhā = bahuprakāreṇa_)? **Tilaka**, **Śiromaṇi**, and **Govindarāja** all highlight the double honor due to Viśvāmitra: formerly he was venerable as a _Rājarṣi_ illuminated by austerity, and now he is venerable as a _Brahmarṣi_ (_rājarṣitvena brahmarṣitvena ca pūjyo ’si_)!
+
+_____________
+
+**18.55–56 (pavitraṃ paramaṃ mama)**
+
+**Tilaka** and **Govindarāja** observe that while ordinary pilgrims must travel far to sacred _tīrthas_ for purification, Viśvāmitra’s arrival at Daśaratha’s own palace is both a supreme purifier (_paramaṃ pavitram_) and a marvel (_adbhutam_), transforming the King’s very body and court into a holy _kṣetra_.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -2892,6 +3122,14 @@ blessed and wish to make it happen to achieve results. [1-18-56b, 57a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By beholding you, O lord, I have as it were entered a sacred place of pilgrimage (_śubhakṣetragataś cāhaṃ tava saṃdarśanāt prabho_). Declare, I pray you, the purpose that you desire regarding your coming hither (_brūhi yat prārthitaṃ tubhyaṃ kāryam āgamanaṃ prati_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.56 (śubhakṣetragataś cāham)**
+
+The three commentators offer three complementary readings of _śubhakṣetragataḥ_: (1) **Śiromaṇi** explains that by beholding Viśvāmitra, Daśaratha has reaped at home the merit of visiting all holy _tīrthas_ (_sarvaśubhakṣetrayātrāphalaṃ prāpto ’ham_); (2) **Govindarāja** takes _kṣetra_ as the realm of Ayodhyā itself, now rendered a sacred pilgrimage site by the sage’s footsteps (_tvadāgamanād idaṃ matkṣetraṃ tīrthabhūtaṃ jātam_); and (3) **Tilaka**, citing _Bhagavadgītā_ 13.1 (इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते), explains _śubhakṣetra_ as the King’s own human body, now purified of all sin and made an instrument of pure _dharma_!
 </details>
 </details>
 
@@ -2954,6 +3192,14 @@ while I am the fulfiller of it without any reminder, since you are god to me, in
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Favored by you, I wish to carry out your purpose to its full accomplishment (_icchāmy anugṛhīto ’haṃ tvadarthaṃ parivṛddhaye_). And you ought not to entertain any doubt or hesitation concerning your task, O sage of noble vows (_kāryasya na vimarśaṃ ca gantum arhasi suvrata_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.57–58 (na vimarśaṃ gantum arhasi & kartā cāham aśeṣeṇa)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** note the dramatic irony of Daśaratha’s unconditional promise here—which will bind him in Sargas 20–21 when Viśvāmitra asks for young Rāma: the King begs the sage not to harbor any doubt (_vimarśam = kariṣyati na veti saṃdeham_) and pledges solemnly, “I shall fulfill it in its entirety (_kartā cāham aśeṣeṇa_)!” On the repetition of the vocative _dvija_ at the close of both lines 58cd and 58ef, **Tilaka** remarks: _harṣātiśayād dvijeti punaruktir na doṣāya_ (“born of overflowing joy, the repetition is no blemish”).
 </details>
 </details>
 
@@ -3076,5 +3322,13 @@ rejoice. [1-18-59]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech, so delightful to the heart and pleasing to the ear (_hṛdayasukhaṃ ... śrutisukham_), uttered with humility by that self-possessed monarch (_ātmavatā vinītam uktam_), the supreme sage of renowned virtues, pre-eminent in every excellence, experienced the highest joy (_paramaṛṣiḥ paramaṃ jagāma harṣam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.59 (hṛdayasukham ... śrutisukham & paramaṛṣiḥ)**
+
+**Govindarāja** distinguishes _hṛdayasukham_ (delighting the heart by the nobility of its meaning, _arthasauṣṭhavāt_) from _śrutisukham_ (pleasing the ear by the sweetness of its diction, _śabdamādhuryāt_). Both **Tilaka** and **Govindarāja** cite Pāṇini 6.1.128 (ऋत्यकः) to explain the uncoalesced hiatus (_prakṛtibhāva_) in _parama-ṛṣiḥ_, which preserves the four opening short syllables required by the concluding _Puṣpitāgrā_ meter.
 </details>
 </details>

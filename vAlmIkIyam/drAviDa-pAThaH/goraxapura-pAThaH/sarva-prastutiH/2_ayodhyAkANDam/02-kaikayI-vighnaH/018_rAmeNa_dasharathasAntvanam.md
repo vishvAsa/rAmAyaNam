@@ -974,6 +974,134 @@ Tell me the true position."
 
 “Tell me this truly, O queen, as I question you thoroughly: from what cause has this unprecedented perturbation arisen in the lord of men?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.18.1–2 (āsane śubhe and susamāhitaḥ)**
+
+Both Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) gloss आसने शुभे as the royal couch (पर्यङ्के), with Govindarāja citing मूर्छितो न्यपतत्तस्मिन् पर्यङ्के हेमभूषिते ahead to show that the king was seated on his golden couch, and explaining मुखेन as an instrumental of characteristic mark (उपलक्षणे तृतीया). On सुसमाहितः (v. 2d), _Tilaka_ observes that Rāma bowed to Kaikeyī with a serene and joyful mind (तस्यां प्रसन्नचित्तः) because he regarded her as deeply devoted to his welfare (अतिस्वेष्टकरत्वेन जगद्धितकरत्वेन च).
+
+_____________
+
+**2.18.3–4 (rāmety uktvā and bhayam āpannaḥ)**
+
+_Tilaka_ and Govindarāja explain that नाभिभाषितुम् means the tear-choked king could not utter a single syllable beyond the two syllables “Rāma!” (रामेत्यक्षरद्वयाधिकम् / रामेत्यस्मादधिकम्). On v. 4c, _Tilaka_ notes that Rāma himself was seized with fear (रामोऽपि भयमापन्नः) because he suspected that Daśaratha’s unprecedented distress might have arisen from some unwitting offense of his own (दशरथविषादस्य स्वापराधजन्यत्वशङ्कया).
+
+_____________
+
+**2.18.5–6 (threefold simile of the stricken king)**
+
+All three commentators link vv. 5–6 back to दृष्ट्वा in v. 4 (दृष्ट्वा भयमापन्न इत्यत्र तद्दृष्ट्वेत्यनुकृष्य संबध्यते): Daśaratha resembles the imperturbable ocean (अक्षोभ्यं सागरम्) suddenly churned (क्षुभ्यन्तम्), the sun eclipsed by Rāhu (उपप्लुतं राहुग्रस्तम्), and a sage (ऋषिम्) stripped of his luster after uttering a falsehood (उक्तानृतं निस्तेजस्कम्).
+
+_____________
+
+**2.18.7 (acintyakalpam and samudra iva parvaṇi)**
+
+Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) gloss अचिन्त्यकल्पम् as utterly unexpected (अत्यन्तमसंभावितम्) and उपधारयन् as pondering the cause of the king’s grief (किंहेतुकोऽयं शोक इति चिन्तयन्). On the simile समुद्र इव पर्वणि (“like the ocean at the full moon”), _Tilaka_ resolves an apparent discrepancy: although the ocean’s swelling on the full-moon day (पर्वणि) arises from joy at the moon’s rise (चन्द्रोदयात्), the comparison rests solely on the shared feature of intense agitation (तथापि क्षोभमात्रे दृष्टान्तः).
+
+_____________
+
+**2.18.8–9 (adyaiva vyavaccheda)**
+
+Both _Tilaka_ and Govindarāja explain that v. 9 explicitly unfolds the force of the restrictive particle एव in अद्यैव (v. 8c, अद्यैवेत्येवकारव्यवच्छेद्यमाह): on every other day (अन्यदा), even when angry (कुपितोऽपि), Daśaratha grows serene the moment he sees Rāma; why then on this very day of consecration does the sight of Rāma provoke anguish (आयासः खेदः / चिन्ताक्लेशः)?
+
+_____________
+
+**2.18.10–12 (dīna iva and kaccin mayā nāparāddham)**
+
+_Tilaka_ and Śivasahāya (_Śiromaṇi_) note that इव in v. 10a (दीन इव) construes with all three adjectives (दीन इव विषण्णवदनद्युतिरिव शोकार्त इव), indicating that Rāma, though inwardly self-possessed, appeared afflicted out of filial empathy. In v. 11, Rāma asks Kaikeyī whether he has committed any offense through inadvertence (अज्ञानात् प्रमादात्) and begs her to propitiate his father (त्वमेवैनं प्रसादय).
+
+_____________
+
+**2.18.13–14 (saṃtāpo vābhitāpo vā and durlabhaṃ sukham)**
+
+All three commentators pair शारीरः with संतापः as bodily disease (व्याधिः) and मानसः with अभितापः as mental anguish (आधिः). On the maxim दुर्लभं हि सदा सुखम् (“for uninterrupted happiness is ever hard to obtain”), Nāgeśa Bhaṭṭa (_Tilaka_) attributes it to the human body’s being produced by both _puṇya_ and _pāpa_ (मनुष्यशरीरस्य पापपुण्यारब्धत्वादिति भावः), while Govindarāja (_Bhūṣaṇa_) adds that unmixed bliss belongs only to the transcendent realm beyond _saṃsāra_ (बीजशून्यप्रपञ्चोर्ध्वत्वान्मादृशशरीरस्येति भावः).
+
+_____________
+
+**2.18.15–16 (yatomūlam and pratyakṣe daivate)**
+
+In v. 16, Rāma venerates a father as a visible deity (प्रत्यक्षे सति दैवते) from whom one’s very existence springs (प्रादुर्भावमुत्पत्तिं यतोमूलं यत्कारणकं पश्येत्). _Tilaka_ notes that यतोमूलम् (for यन्मूलम्) is an archaic epic (_ārṣa_) compound (यतोमूलम् यन्मूलमित्यर्थे आर्षमेतत्), whereas Śivasahāya (_Śiromaṇi_) construes यतः as an independent ablative and मूलम् as appositional to प्रादुर्भावम् to avoid invoking _ārṣa_ license (भट्टयुक्तिश्चिन्त्या).
+
+_____________
+
+**2.18.17–18 (te ... bhavatyā pleonasm)**
+
+Addressing the apparent redundancy of ते and भवत्या in v. 17, _Tilaka_ explains ते as a general relational genitive (ते संबन्धसामान्ये षष्ठी) or excuses the repetition as natural to anxious speech (दुःखितोक्तित्वादधिकपदत्वादि न दोषः).
+
+_____________
+
+**2.18.19–21 (sunirlajjā, dhṛṣṭam, and āśrutam)**
+
+Nāgeśa Bhaṭṭa (_Tilaka_) explains सुनिर्लज्जा as utterly shameless in inflicting such torment upon her own husband (पत्युरेवंविधक्लेशकरणलज्जारहिता) and धृष्टम् as brazenly demanding to Rāma’s face that he depart for the forest (प्रत्यक्षतो वनं गच्छेत्येवंरूपम्), while Govindarāja (_Bhūṣaṇa_) glosses it as devoid of hesitation in uttering what is unwelcome to Rāma (रामानिष्टवचनविषयवैक्लव्यरहितम्). All three commentators gloss आश्रुतम् in v. 21d as प्रतिज्ञातम् (“promised”).
+
+_____________
+
+**2.18.22–23 (prākṛtaḥ and gatajale setum)**
+
+In v. 22, Kaikeyī taunts Daśaratha for repenting after granting her boon (वरं दत्त्वा ... पश्चात्तप्यते) like an ordinary man (यथान्यः प्राकृतस्तथा). On the proverb गतजले सेतुं बन्धितुमिच्छति (v. 23, “he wishes to build a dam after the water has flowed away”), _Tilaka_ and Govindarāja explain that since the gift of the boon was already completed in the past, any effort now to avert its execution is futile (दानस्य पूर्वमेव कृतत्वादिदानीं तत्परिहारव्यापारो व्यर्थ इति भावः).
+
+_____________
+
+**2.18.24 (dharmamūlam and satām)**
+
+Glossing धर्ममूलमिदं ... तत्सत्यम्, _Tilaka_ and Śivasahāya (_Śiromaṇi_) explain that truthfulness is the root of all _dharma_ (इदं सत्यं धर्मस्य मूलम्). Govindarāja justifies the genitive सताम् with विदितम् by citing the rule permitting a genitive agent with -क्त in the present sense (क्तस्य च वर्तमाने इति षष्ठी).
+
+_____________
+
+**2.18.25–26 (Kaikeyī’s binding condition)**
+
+Nāgeśa Bhaṭṭa (_Tilaka_) observes that just as Kaikeyī bound Daśaratha by an advance oath, she now binds Rāma (दशरथमिव राममपि निबध्नाति): only if the king’s decree will not fail in Rāma (त्वयि न विपत्स्यते व्यर्थं न भविष्यति) will she disclose it, since Daśaratha himself cannot bear to speak it to his beloved son face-to-face (त्वत्प्रियत्वाच्च त्वत्समक्षं साक्षादिति शेषः). Śivasahāya (_Śiromaṇi_) notes that the future tense (लृट्) in वक्ष्यते and करिष्यसि is used conditionally without strict restriction to future time (लृडपात्तभविष्यत्कालस्याविवक्षा).
+
+_____________
+
+**2.18.27–29 (vyathitaḥ and fourfold ground of obedience)**
+
+Both _Tilaka_ and Govindarāja (_Bhūṣaṇa_) explain that Rāma was pained (व्यथितः) not by the prospect of hardship, but because Kaikeyī doubted whether he would obey his father’s command (गुरुवचनोल्लङ्घनममयापि शङ्कितमिति संतप्तः [_Tilaka_]; गुरुवचनं करिष्यति न वेति शङ्कया व्यथितः [_Bhūṣaṇa_]). On v. 29c–d, Govindarāja identifies the four distinct grounds compelling obedience in गुरुणा पित्रा नृपेण च हितेन च: preceptorhood, fatherhood, kingship, and devotion to one’s welfare (गुरुत्वपितृत्वनृपत्वहितपरत्वानि वचनकरणहेतवः).
+
+_____________
+
+**2.18.30 (rāmo dvir nābhibhāṣate)**
+
+Glossing Rāma’s famous maxim रामो द्विर्नाभिभाषते, all three commentators explain that द्विः means speaking a second time in contradiction to what one has once promised (यदुक्तं तदुक्तमेव तद्विरुद्धं न पुनर्वदतीत्यर्थः [_Tilaka_]; प्रतिज्ञाविपरीतं न अभिभाषते [_Śiromaṇi_]; विना प्रतिज्ञया रामो द्विर्वचनं न करोतीत्यर्थः [_Bhūṣaṇa_]).
+
+_____________
+
+**2.18.31–33 (saśalyena and dvikarmaka yācitaḥ)**
+
+On सशल्येन and रक्षितेन in v. 32, Nāgeśa Bhaṭṭa (_Tilaka_) clarifies the sequence: Daśaratha was first pierced with enemy darts in the Deva-Asura war and then saved by Kaikeyī after she extracted the darts (पूर्वं सशल्येन पश्चाच्छल्यापाकरणपूर्वं मया रक्षितेन). In v. 33, तत्र means on account of those two boons (तयोर्वरयोः [_Tilaka_]; वरप्रदाननिमित्तकम् [_Bhūṣaṇa_]), and अद्यैव means this very instant (तत्क्षण एव).
+
+_____________
+
+**2.18.34–35 (satyapratijñaṃ pitaram ātmānaṃ ca)**
+
+Explaining why Kaikeyī tells Rāma to make both his father and himself true to their word (पितरं ... आत्मानं च), _Tilaka_ points out that both have now bound themselves by solemn oath—Daśaratha to Kaikeyī, and Rāma just now in v. 30 (राज्ञा त्वया च मदुक्तकृतेः सशपथं प्रतिज्ञातत्वादिति भावः). On संनिदेशे (v. 35a), _Tilaka_ and Śivasahāya (_Śiromaṇi_) gloss it as fulfilling his father’s pledge (पितृप्रतिज्ञासंपादने), while Govindarāja glosses it as his command (नियमने).
+
+_____________
+
+**2.18.36 (abhiṣecanam as consecration apparatus)**
+
+All three commentators point out that अभिषेचनम् in v. 36b denotes not the act of consecration (as in v. 33b), but the concrete materials and vessels assembled for it (अभिषेकोपकरणम् [_Tilaka_]; अभिषेकद्रव्यम् [_Śiromaṇi_]; अभिषेकसाधनम् [_Bhūṣaṇa_]), with which Bharata is now to be consecrated (तेन सर्वेण राज्ञा भरतोऽभिषिच्येत).
+
+_____________
+
+**2.18.37–38 (sapta sapta ca and jaṭācīradharaḥ)**
+
+Śivasahāya (_Śiromaṇi_) explains सप्त सप्त च वर्षाणि as fourteen years (चतुर्दश वर्षाणीत्यर्थः) and notes that चीर (bark-cloth) stands by synecdoche for ascetic deerskin as well (चीरमजिनाद्युपलक्षणम्). Nāgeśa Bhaṭṭa (_Tilaka_) notes that अभिषेकमिदम् again refers to the prepared consecration apparatus (तदुपकरणम्). In v. 38a, _Śiromaṇi_ construes कोसलपतेः as a genitive modifying वसुधामिमाम् (“this earth belonging to the lord of Kosala”), whereas Govindarāja (_Bhūṣaṇa_) reads the locative कोसलपुरे (“in the capital city of Kosala”).
+
+_____________
+
+**2.18.39–40 (etena kāruṇyena and satyena tārayasva)**
+
+_Tilaka_ and Govindarāja construe एतेन in v. 39a as a causal instrumental (एतेन वरद्वयप्रदाननिमित्तेन, “on account of granting the two boons”), while _Śiromaṇi_ links एतेन कारुण्येन to Daśaratha’s compassion born of impending separation from Rāma (संभावितत्वद्वियोगजनितेन कारुण्येन). In v. 40d, सत्येन ... तारयस्व means rescuing the king by fulfilling his pledge (सत्यपरिपालनेन [_Tilaka_]; तत्सत्यप्रतिज्ञत्वं निर्वाहयेत्यर्थः [_Śiromaṇi_]).
+
+_____________
+
+**2.18.41 (na praviveśa śokam vs. pravivyathe)**
+
+Analyzing the closing _Upajāti_, all three commentators emphasize Rāma’s unshakable equanimity: while Kaikeyī spoke thus harshly (तस्यां परुषं वदन्त्याम्—where इव implies she uttered other harsh words as well, इवशब्देन अन्यान्यपि परुषाणि बहून्युक्तानीति गम्यते [_Bhūṣaṇa_]), Rāma entered neither outer grief (शोकम् अश्रुवैवर्ण्यादिबाह्यविकारम्) nor inner agitation, whereas the king (राजा तु), scorched by separation from his son and pained even more on seeing Rāma remain wholly unperturbed (रामविकारादर्शनेनाप्यधिकं विव्यथ इत्यर्थः [_Bhūṣaṇa_]), trembled in anguish.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

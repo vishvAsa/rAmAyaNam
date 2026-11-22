@@ -1128,6 +1128,152 @@ _________________
 
 Then that foremost of monkeys released Rāvaṇa from his armpit (_rāvaṇaṃ tu mumocātha svakakṣāt kapisattamaḥ_), and laughing heartily again and again (_prahasan ... muhuḥ_), asked Rāvaṇa: “Whence have you come (_kutas tvam iti covāca_)?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.34.1–3 (Undaunted Pride and the Challenge at Kiṣkindhā)**
+
+Launching the episode of Vālī’s humbling of Rāvaṇa (अथ रावणस्य वालिधर्षणम्, **Rāma Varmā**), the poet explains why defeat by Kārtavīrya Arjuna failed to curb Rāvaṇa’s arrogance. **Rāma Varmā** (_Tilaka_) glosses अनिर्विण्णः कृतः as ‘freed from the dejection born of defeat’ (पराभवजनितनिर्वेदरहितः कृतः), since Pulastya had secured his release, forged friendship between them, and Arjuna dismissed him with honors. **Śivasahāya** (_Śiromaṇi_) concurs (युद्धवैराग्यरहितः), while all three commentators gloss युद्धे ह्वयति as issuing challenges for battle (युद्धनिमित्तमाह्वयति स्म, **Govindarāja**) until Rāvaṇa arrives before Kiṣkindhā.
+
+_____________
+
+**7.34.4 (Who Addressed Rāvaṇa at Kiṣkindhā?)**
+
+The string of singular nouns in 7.34.4—वानरामात्यः, तारः, तारापिता, प्रभुः, and वानरः—prompts lively exegetical distinction among the commentators. **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) identify three distinct spokesmen: the minister Tāra, Tārā’s father Suṣeṇa (तारापिता सुषेणः), and the crown prince Sugrīva (प्रभुर्युवराजः सुग्रीवश्चोवाच). **Śivasahāya** goes further, distinguishing four figures—Tāra, Suṣeṇa, lord Aṅgada (प्रभुरङ्गदश्च), and the monkey Sugrīva—while also offering an alternative construal taking all these epithets strictly as qualifiers of Tāra and Tārā’s father (तारतारापित्रोरेव सर्वविशेषणं वा).
+
+_____________
+
+**7.34.5–6 (Vālī’s Daily Twilight Circuit Across Four Seas)**
+
+Tactfully deferring combat, the ministers declare Vālī absent—gone to the ocean shores (समुद्रसमीप इति शेषः, **Śivasahāya**)—and uniquely able to match Rāvaṇa in battle (ते तुभ्यं प्रतिबलः युद्धं दातुमिति शेषः, **Rāma Varmā** and **Govindarāja**). On 7.34.6, both Tilaka and Śiromaṇi normalize the ablative चतुर्भ्यः समुद्रेभ्यः as locative ‘in the four oceans’ (चतुर्षु समुद्रेषु), with Rāma Varmā defining सन्ध्याम् philosophically as meditating upon Brahman, the deity duly contemplated at twilight (सम्यग्ध्येयदेवतां ब्रह्मरूपामन्वास्य ध्यात्वा), before Vālī’s swift return.
+
+_____________
+
+**7.34.7–8 (The Conch-White Bones and the Limits of Ambrosia)**
+
+Turning from polite notice to stern deterrent, the ministers warn Rāvaṇa that fighting Vālī is beyond his measure (तेन ते युद्धमयोग्यमित्याह, **Rāma Varmā**; वालिना युद्धयोग्यता तव नास्ति, **Śivasahāya**). Pointing to the bleached bone-heaps of earlier challengers slain by Vālī’s prowess, **Govindarāja** (_Bhūṣaṇa_) draws their pointed implication: ‘so too shall you perish’ (एवं त्वमपि मरिष्यसीति भावः). All three commentators take यद्वा ... तदा in 7.34.8 as concessive (यद्यपि ... तथापि): even had Rāvaṇa drunk nectar, his life lasts only until confronting Vālī (तत्समीपगमनपर्यन्तम्, Tilaka; तद्वालियुद्धमेवान्तोऽवसानं यस्य, Śiromaṇi).
+
+_____________
+
+**7.34.9–10 (A Marvel of the World and Fire Upon the Earth)**
+
+Commenting on the Southern Recension verse 7.34.9, the exegetes offer two vivid readings of जगच्चित्रम्: **Rāma Varmā** takes masculine इमम् of Vālī himself (‘behold this Vālī, marvel of the world’, सर्वाश्चर्यभूतम् इमं वालिनं पश्य) and supplies जीवितम् (‘life will be hard to keep’); **Govindarāja** glosses जगच्चित्रम् as ‘the wondrous spectacle of the entire world’ (आश्चर्यभूतं व्यापारम्), while **Śivasahāya** reads ‘behold this wondrous world now, for soon it will be hard for you to see since you are about to die’ (मरिष्यमाणत्वादित्यर्थः). In 7.34.10 they point Rāvaṇa southward to Vālī, blazing like earthly fire.
+
+_____________
+
+**7.34.11–12 (Rāvaṇa’s Contempt and the Vision on the Southern Shore)**
+
+Stung by the warning, Rāvaṇa brusquely reviles Tāra—glossed by both **Rāma Varmā** and **Govindarāja** as ‘Tāra and the other ministers’ (तारादीन्), though Govindarāja also notes a construal in which Tāra alone had spoken earlier (पूर्वं तार एवोक्तवान्). Ascending Puṣpaka to the southern sea, Rāvaṇa beholds a majestic contrast to his own arrogance: Vālī, golden-mountain-like and dawn-faced, completely immersed in meditating upon Brahman at twilight (सम्यग्ध्येयब्रह्मध्यानतत्परम्, Rāma Varmā). **Śivasahāya** supplies अतिष्ठत् (‘paused’) after दृष्ट्वा, preparing Rāvaṇa’s stealthy descent.
+
+_____________
+
+**7.34.13–15 (Stealthy Approach and Lion-Like Unconcern)**
+
+Visual contrast sharpens the comedy of the encounter: golden, sun-faced Vālī sits motionless while collyrium-black Rāvaṇa tiptoes forward with hushed footfalls (निःशब्दचरणविन्यासम्, **Govindarāja**; शब्दरहितचरणप्रक्षेपविशिष्टम्, **Śivasahāya**). Glancing up by chance, Vālī spots him bent on capturing him (बन्धनाभिप्रायवान्, Govindarāja) yet feels zero alarm. In 7.34.15, both **Rāma Varmā** (_Tilaka_) and Govindarāja gloss the particle वा in सिंहो वा as comparative इव (‘like a lion spotting a hare’), while Śivasahāya notes historic present न चिन्तयति as past ‘reckoned as nothing’ (अचिन्तयत् अगणयत्).
+
+_____________
+
+**7.34.16–17 (Vālī’s Inner Resolve and the Garuḍa Simile)**
+
+All three commentators explicitly delimit verses 16–17 (through इत्येवम् in 7.34.18) as Vālī’s unspoken mental plan (वालिनो विचारः). Resolving to complete his remaining three-ocean circuit with Rāvaṇa clamped beneath his arm, Vālī pictures the public humiliation awaiting his foe: **Rāma Varmā** and **Govindarāja** supply देवादयः (‘the gods and celestials will behold’), while **Śivasahāya** supplies लोकाः (‘the worlds’). Tilaka and Bhūṣaṇa gloss अङ्कस्थम् as ‘tucked under my armpit’ (कक्षस्थम्) and carry it into the simile of a limp serpent dangling from Garuḍa’s flank.
+
+_____________
+
+**7.34.18 (Attentive Ear and Vedic Mantras on a Vānara’s Lips)**
+
+Two illuminating exegetical points anchor 7.34.18. Explaining Govindarāja’s reading कर्णमुपाश्रितः (whereas Śivasahāya follows मौनमुपास्थितः, ‘abiding in silence’), **Govindarāja** glosses it as ‘keeping his mind intently focused upon his ear to detect footsteps’ (पादशब्दश्रवणार्थं कर्णमुपाश्रितमनाः). Both Tilaka and Bhūṣaṇa gloss नैगमान् as ‘Vedic’ (वैदिकान्) and address why a vānara recites Vedic hymns: **Rāma Varmā** affirms that all Vedas shine spontaneously within Vālī and his peers (स्वयंप्रतिभातसकलवेदाः), while Govindarāja grounds his Vedic eligibility in his divine birth as Indra’s son (देवकुमारत्वान्मन्त्रवत्वम्).
+
+_____________
+
+**7.34.19–20 (The Blind Backhand Capture)**
+
+As both proud monarchs strain toward the same act of capture (तत्कर्म ग्रहणकर्म, **Rāma Varmā** and **Śivasahāya**), Vālī’s composure triumphs over Rāvaṇa’s stealth. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss हस्तग्राहम् as ‘intent on seizing with his hands’ (हस्तग्रहणाभिप्रायवन्तम्) and पादशब्देन as ‘by the faint rustle of footsteps’ (सूक्ष्मपादशब्देन). Tilaka also notes the variant हस्तग्राह्यम् (‘within hand’s reach’), glosses पराङ्मुखोऽपि as ‘without even turning to look back’ (प्रतिवलोकनरहितोऽपि), and identifies अण्डजः as Garuḍa (अण्डजो गरुडः, echoed by Śivasahāya).
+
+_____________
+
+**7.34.21–22 (Helpless Struggles in Mid-Air)**
+
+Inverting Rāvaṇa’s ambition with crisp verbal irony (ग्रहीतुकामं तं गृह्य), Vālī tucks the conqueror of the three worlds under his arm and vaults skyward. In 7.34.22, the Southern text keeps Rāvaṇa as the object of both participles: **Śivasahāya** explains that Rāvaṇa repeatedly pierced Vālī with his nails and thereby tried to torment him (नखैर्वितुदन्तमत् एव पीडयमानं रावणम्), yet Vālī carried him off as effortlessly as a gale sweeps a dark cloud. **Govindarāja** invokes Pāṇini’s rule णिचश्च (1.3.74) to justify the middle participle आपीडयमानम्.
+
+_____________
+
+**7.34.23–24 (The Screaming Pursuit and the Solar Simile)**
+
+Seeing their king whisked aloft, Rāvaṇa’s ministers charge through the sky clamoring to free him. **Rāma Varmā** analyzes the rare desiderative derivative मुमोक्षयिषवः as formed from the denominative-causative stem of मोक्ष (मोक्षशब्दात्तत्करोतीति ण्यन्तात्सन्) and glosses रवमाणाः as ‘shouting aloud’ (क्रोशन्तः); **Śivasahāya** paraphrases ‘desiring to liberate Rāvaṇa’ (रावणं मोचयितुमिच्छवः). Verse 7.34.24 closes the tableau with a striking _upamā_: golden Vālī pursued by dark rākṣasas mirrors the blazing sun trailed by black storm-clouds across the zenith.
+
+_____________
+
+**7.34.25–26 (Exhausted Pursuers and Recoiling Mountains)**
+
+Resolving the sandhi तेऽशक्नुवन्तः (अशक्नुवन्त इति पदम्, **Rāma Varmā** and **Govindarāja**), the poet shows Rāvaṇa’s ministers halting breathless in Vālī’s slipstream (व्यवस्थिता बभूवुः, **Śivasahāya**). Verse 7.34.26 then deploys the classical _kaimutika-nyāya_ (argument _a fortiori_): as all three commentators explain, if even immovable mountain lords drew back from Vālī’s path, what need to speak of flesh-and-blood beings clinging to life? Śivasahāya additionally remarks on Parimal’s reading पर्वतेन्द्रापीत्यत्र सन्धिरार्षः, while Govindarāja records the plural variant पर्वतेन्द्रा हि.
+
+_____________
+
+**7.34.27–28 (Oceans Beyond Birds’ Flight and Sky-Dweller Acclaim)**
+
+Defining अपक्षिगणसम्पातान्, **Rāma Varmā** and **Govindarāja** explain that no flock of birds could traverse those four oceans within the brief span Vālī took (यावता कालेन वाली गच्छति तावता कालेन पक्षिगणैरप्यप्राप्यान्), while **Śivasahāya** takes it simply as seas uncrossed by birds. Both Tilaka and Bhūṣaṇa gloss सन्ध्याकालम् as worshiping Brahman embodied in the morning twilight deity (प्रातःसन्ध्याकालध्येयदेवतारूपं ब्रह्म). Honored by celestials (सभाज्यमानः पूज्यमानः, Govindarāja), Vālī reaches the western sea with Rāvaṇa still pinned beneath his arm (कक्षस्थरावणसहितः, Tilaka).
+
+_____________
+
+**7.34.29–30 (A Celebrated Debate on Performing Sandhyā at Four Seas)**
+
+How could Vālī perform morning _sandhyā_ sequentially at four oceans? **Govindarāja** adopts the older view of Kataka and Tīrtha, distributing the rite’s limbs across the seas—purification (शौचम्) in the south, bathing in the west, sprinkling (प्रोक्षणादिकम्) in the north, and अर्घ्य in the east—each limb metonymically called _sandhyā_. **Rāma Varmā** sharply refutes Kataka and Tīrtha, citing 7.34.18 (जपन्वै नैगमान्मन्त्रान्) to prove Vālī was already chanting Vedic mantras at the southern sea, and concluding that meditating upon Brahman as the essence of Gāyatrī is the primary meaning of _sandhyā_ across _śruti_, _smṛti_, and _purāṇa_.
+
+_____________
+
+**7.34.31–33 (Completing the Four-Ocean Circuit and Alighting at Kiṣkindhā)**
+
+Concluding his astonishing aerial pilgrimage at the northern and eastern oceans, Vālī—whom all three commentators gloss as Indra’s son (वासवस्यापत्यं वासविः)—sweeps back to Kiṣkindhā’s pleasure-grove. **Śivasahāya** (_Śiromaṇi_) carefully glosses अपतत् in 7.34.33 not as falling in weakness but simply as descending to earth (किष्किन्धोपवने अपतत् प्राप्तोऽभूत्), acknowledging that bearing the mountainous rākṣasa across four seas had finally produced a touch of fatigue (रावणोद्वहनः अत एव श्रान्तः) even in Indra’s peerless son.
+
+_____________
+
+**7.34.34–35 (Vālī’s Mirth and Rāvaṇa’s Exhausted Wonder)**
+
+Setting Rāvaṇa down in the garden, Vālī laughs repeatedly and asks “Whence are you?” Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) capture the comic irony behind Vālī’s laughter (प्रहसन्): ‘Seeking to seize me, this wicked fool has been seized himself!’ (मां निगृह्णन् स्वयमेव दुरात्मा निगृहीत इति प्रहसन्). For once stripped of bluster, Rāvaṇa is overcome by genuine awe (_vismaya_), his eyes unsteady from the ordeal (श्रमेण लोलानि चञ्चलानि निरीक्षणानि नयनानि यस्य, **Śivasahāya**).
+
+_____________
+
+**7.34.36 (Candid Confession Before Indra’s Likeness)**
+
+Addressing Vālī with unstinted respect as ‘equal to Mahendra’ (महेन्द्राभ)—aptly recognizing Indra’s own radiance in his son—Rāvaṇa introduces himself plainly and admits his humiliation. The commentators highlight two complementary nuances in the past participle आसादितः: both **Rāma Varmā** and **Govindarāja** read it with wry literalism as ‘consigned to a lodging inside your armpit’ (कक्षनिवेशं प्रापितः / कक्षनिक्षेपं प्रापितः), while **Śivasahāya** renders it more broadly as ‘overcome and afflicted’ (पीडितः).
+
+_____________
+
+**7.34.37–38 (Rāvaṇa’s Threefold Praise and Mountainous Weight)**
+
+With triple exclamations of awe (अहो आश्चर्यम्, **Śivasahāya**), Rāvaṇa salutes Vālī’s physical power (_bala_), heroic energy (_vīrya_), and serene inner depth (_gāmbhīrya_)—evinced by carrying him off like a trussed beast (पशुवद्गृहीत्वा) without interrupting his prayers. On 7.34.38, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss अश्रान्तवत् as ‘wholly unwearied’ (अश्रान्तः सन्) and unpack the emphatic मां चैव as ‘carrying even me, whose bulk equals a great mountain’ (पर्वतसमानभारम्, Tilaka; महाद्रिसमानभारम्, Govindarāja), while Śivasahāya underscores the rhetorical negative न कोऽपीत्यर्थः.
+
+_____________
+
+**7.34.39 (Velocity Equal to Mind, Wind, and Garuḍa)**
+
+Elevating Vālī’s feat to cosmic proportions, Rāvaṇa ranks his aerial swiftness beside the three proverbial paragons of speed in Indian lore: thought (_manas_), the wind (_anila_), and Garuḍa (_suparṇa_). **Śivasahāya** paraphrases cleanly that such velocity belongs solely to those three and to Vālī as well (एषा एतादृशी गतिः मनआदीनां त्रयाणां तव च). The comparison subtly foreshadows Book V and Book VII’s praise of Hanūmān, son of the Wind, whom Rāma will immediately inquire about in Sarga 35.
+
+_____________
+
+**7.34.40–41 (The Fire-Witnessed Pact of Undivided Brotherhood)**
+
+Recognizing superior prowess with pragmatic shrewdness, Rāvaṇa proposes an enduring covenant before Agni (_pāvakāgrataḥ_). All three commentators flag the idiomatic dative तुभ्यम् in 7.34.40 as equivalent to genitive तव (‘having witnessed _your_ strength’, दृष्टबलस्तवेत्यर्थः). In 7.34.41, **Śivasahāya** observes that Rāvaṇa spells out the exact terms of their fellowship (सख्याकारमाह): everything from wives and sons to kingdom and fare shall remain undivided between them (नौ आवयोः, **Rāma Varmā** and Śiromaṇi)—a sweeping formula whose irony will later echo when Vālī’s own brother Sugrīva allies with Rāma before fire.
+
+_____________
+
+**7.34.42–43 (Sworn Brotherhood Before Agni)**
+
+Sealing their sudden reconciliation with Vedic solemnity, Vālī and Rāvaṇa kindle fire, embrace, and formally adopt brotherhood (भ्रातृत्वमुपसम्पन्नौ). **Śivasahāya** (_Śiromaṇi_) links verses 42 and 43 smoothly into a continuous narrative sequence, supplying बभूवतुः with उपसम्पन्नौ and normalizing the archaic dual विशतुः as classical विविशतुः. Linking hands (अन्योन्यं लम्बितकरौ), the two titans stride into Kiṣkindhā like a pair of lions entering a mountain cave—a memorable image of warrior chivalry transcending animosity once supremacy has been decisively proven.
+
+_____________
+
+**7.34.44 (A Month in Kiṣkindhā Like Sugrīva)**
+
+Rāvaṇa remains Vālī’s honored guest for a full month before his ministers come to retrieve him for renewed campaigns of conquest (त्रैलोक्योत्सादनार्थिभिः). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply सह with आगतैः (‘accompanied by his arriving ministers’), and Govindarāja unpacks the telling comparison सुग्रीव इव as ‘dwelling with the intimate affection of a brother’ (भ्रातृभावेनेत्यर्थः)—an ironic portrait of harmony before the later fraternal rift between Vālī and Sugrīva.
+
+_____________
+
+**7.34.45–46 (Agastya’s Finale: The Moth in Rāma’s Fire)**
+
+Drawing his tale of Rāvaṇa’s earthly humiliations to its close (उपसंहारमाह, **Śivasahāya**), Agastya summarizes how Vālī first subdued Rāvaṇa and then befriended him before Agni with uterine-brother affection (सोदरभावतया स्नेहः कृतः, **Rāma Varmā**; सोदरभावतया स्नेहीकृतः, **Govindarāja**). Verse 7.34.46 pivots the entire sarga back to Rāma’s own transcendent might: even Vālī, whose peerless prowess toyed with Rāvaṇa across four seas, was burned to ash by Rāma like a moth in flame (वह्निना शलभ इव त्वया निर्दग्धः, Śiromaṇi), prompting Rāma’s next question on Hanūmān in Sarga 35.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

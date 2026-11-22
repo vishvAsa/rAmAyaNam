@@ -1747,6 +1747,134 @@ the conduct of his forebears"
 
 “For once Rāma is established in the regency (_rāme hi yauvarājya-sthe_), King Daśaratha, the wielder of the mighty bow, will himself enter the forest, remembering the ancient custom of his predecessors (_vanaṃ pravekṣyati maheṣvāsaḥ pūrva-vṛttam anusmaran_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.35.1–4 (kaṭakaṭāyya, pūrvocitaṃ varṇam & The Four-Verse Syntactical Unit)**
+
+**Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) construe vv. 1–4 as a single syntactical unit (श्लोकचतुष्टयमेकान्वयि) portraying Sumantra's physical gestures of wrath (कोपविकाराभिनयः). **Tilaka** glosses पूर्वोचितं वर्णम् both as his natural complexion (अङ्गकान्तिम्) and as the deferential bearing proper to a royal minister (राजमन्त्रिण उचितं च), which he casts aside (जहत्). Discerning Daśaratha's mind (मनः समीक्षमाणः)—perceiving that the king feels no partiality toward Kaikeyī (कैकेयीविषयकपक्षपातरहितं जानन्, _Tilaka_)—Sumantra pierces her vitals (सर्वमर्माणि) with arrow-like words and thunderbolt-like speeches.
+
+_____________
+
+**2.35.5 (yasyās tava patis tyaktaḥ)**
+
+Both **Tilaka** and **Govindarāja** explain the genitive यस्यास्तव in the instrumental sense of the agent (यया त्वया), **Govindarāja** supplying the correlative तस्याः before तव in v. 6.
+
+_____________
+
+**2.35.6 (pati-ghnīṃ kula-ghnīm api cāntataḥ)**
+
+Because Rāma's exile will inevitably cause Daśaratha's death (रामगमने राजमरणस्यावश्यकत्वात्, _Tilaka_) and ruin the entire royal line (पतिहननद्वारा सर्वेषां विनाशनात्, _Bhūṣaṇa_), Sumantra brands Kaikeyī a husband-slayer and ultimately (अन्ततः) a destroyer of the dynasty.
+
+_____________
+
+**2.35.7–8 (mahendram ivājayyam & bhartur icchā)**
+
+All three commentators connect यत् (“because”) in v. 7 with v. 6: because Kaikeyī torments with cruel acts (कर्मभिः क्रूरैः, _Tilaka_) a monarch invincible like Indra, unshakable like a mountain, and unfathomable like the ocean, she is truly a husband-slayer. In v. 8, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) gloss भर्तुरिच्छा as compliance with a husband's wish (भर्तुरिच्छानुसरणमेव), which for wives outweighs ten million sons (पुत्रकोट्याः).
+
+_____________
+
+**2.35.9–10 (yathāvayaḥ & nṛpa-kṣaye)**
+
+In v. 9, **Tilaka** and **Govindarāja** explain यथावयः as “in order of seniority” (वयःक्रममनतिक्रम्य ज्येष्ठक्रमेण) and नृपक्षये as “upon the royal father's demise” (राजभूतपितृक्षये), whereas Kaikeyī seeks to abolish that immemorial Ikṣvāku custom while Daśaratha still lives (दशरथे जीवत्येव). **Śivasahāya** takes नृपक्षये as “on the royal throne” (राज्यासने).
+
+_____________
+
+**2.35.11–12 (amaryādam & Total Desertion)**
+
+**Tilaka** and **Govindarāja** explain अमर्यादम् as violating eldest-son succession (अतिक्रमितज्येष्ठराज्यादिव्यवहारम्), so heinous that no Brāhmaṇa or righteous person (सत्पुरुषमात्रोपलक्षणम्) will remain in her territory (विषये देशे).
+
+_____________
+
+**2.35.13–15 (na vivṛtā medinī & dhig-vāg-daṇḍāḥ)**
+
+In vv. 14–15, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Sumantra marvels (आश्चर्यमिव पश्यामि) that the earth does not split open (न विवृता न विदीर्णा) beneath Kaikeyī as she perpetrates such a lawless atrocity (ईदृशममर्यादं व्रतसमाचारमाचरन्त्याः), and that blazing rods of reproachful curses (धिग्वाग्दण्डाः—धिगित्येवंरूपा वाग्दण्डाः) hurled by Brahmarṣis like Vasiṣṭha do not consume her like fire (अग्निवद्भस्मकरणसमर्थाः) while she stands bent on Rāma's exile (रामप्रव्राजने स्थिताम्).
+
+_____________
+
+**2.35.16 (āmraṃ chittvā nimbaṃ paricaret)**
+
+**Tilaka** and **Govindarāja** identify v. 16 as an allegorical censure (अन्यापदेशेन निन्दति): banishing sweet-fruited Rāma (आम्रं मधुरफलदम्) while gratifying bitter Kaikeyī (निम्बं कटुफलम्) is like felling a mango tree with an axe and watering a neem tree with milk (पयसा क्षीरेण)—it never grows sweet (मधुरो नैव भवेत्).
+
+_____________
+
+**2.35.17–18 (ābhijātyam & asad-grāham)**
+
+All three commentators gloss आभिजात्यम् (_Bhūṣaṇa_ अभिजातम्) as innate disposition (स्वभावः), citing the proverb that honey never drips from a neem tree (न हि निम्बात्स्रवेत्क्षौद्रम्) to introduce her mother's obstinate malice (असद्ग्राहम्).
+
+_____________
+
+**2.35.19–20 (sarva-bhūta-rutam & The Identity of jṛmbha)**
+
+**Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that through a sage's boon (तस्माद्वरदानात्), Kaikeyī's father understood all creatures' cries (सर्वभूतरुतम्). On his couch (शयने), he understood the intent (भावोऽभिप्रायः) of a जृम्भ from its cry (विरुतात्) and laughed (बहुधाहसत्); **Tilaka** and **Śiromaṇi** identify जृम्भ as a golden bird (सुवर्णकान्तेर्जृम्भाख्यस्य पक्षिणः), whereas **Govindarāja** glosses it as an ant (पिपीलिकाविशेषस्य) beneath the bed (पर्यङ्काधःप्रदेशे).
+
+_____________
+
+**2.35.21–22 (mṛtyu-pāśam abhīpsatī & The Sage's Stipulation)**
+
+Suspecting he was laughing at her (मामयं हसतीति क्रुद्धा), Kaikeyī's mother—courting the noose of death (मृत्युपाशमभीप्सती)—demanded the cause of his laughter (हासं जिज्ञासामि). As **Śiromaṇi** notes on v. 22, the boon-giver had stipulated that revealing any creature's speech would bring instant death (ततो मे मरणं सद्यो भविष्यति).
+
+_____________
+
+**2.35.23–24 (jīva vā mā vā)**
+
+**Govindarāja** observes that her demand—“Tell me, whether you live or die!”—proves the husband-slaying nature (कैकेयीमातुः पतिघ्नीत्वम्) inherited by Kaikeyī, prompting the king to report her obstinacy truthfully (तत्त्वतः) to the sage.
+
+_____________
+
+**2.35.25–26 (dhvaṃsatāṃ veyam & The Banishment of Kaikeyī's Mother)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain ध्वंसताम् as “let her depart to her father's house” (स्वपित्रादिसमीपं गच्छतु वा), while **Govindarāja** (_Bhūṣaṇa_) glosses it as “let her fall from her queenly office” (स्वाधिकारात्प्रच्युता स्यात्); on मा कृथाः, **Tilaka** supplies अस्या वचः. Heeding the sage, the king cast out Kaikeyī's mother (मातरं ते निरस्याशु) and lived like Kubera.
+
+_____________
+
+**2.35.27–28 (asad-grāham & pitṝn samanujāyante narāḥ)**
+
+Applying the exemplar to Kaikeyī (उक्तमर्थं प्रकृते निगमयति, _Bhūṣaṇa_), all three commentators explain that she too walks the path of the wicked (दुर्जनाचरिते पथि स्थिता) and forces the king into an evil course (असद्ग्राहम्), verifying the proverb (लौकिकः प्रवादः) that sons take after their fathers and daughters after their mothers. **Govindarāja** notes that मा (माम्) is governed by प्रति- in प्रतिभाति.
+
+_____________
+
+**2.35.29 (naivaṃ bhava / neyā bhava)**
+
+Both **Tilaka** and **Govindarāja** record नेया भव (विधेया भव) alongside नैवं भव, urging Kaikeyī to become the people's refuge (जनस्यास्य गतिर्भव).
+
+_____________
+
+**2.35.30 (protsāhitā pāpaiḥ & asad-dharmam upādadha)**
+
+All three commentators gloss पापैः as wicked instigators like Mantharā (मन्थरादिभिः प्रोत्साहिता प्रेरिता) and असद्धर्मम् as banishing the eldest son to consecrate the youngest (कनिष्ठाभिषेकपूर्वकज्येष्ठविवासनरूपम्, _Tilaka_ and _Bhūṣaṇa_) or breaking the king's pledge (अभिषेकप्रतिज्ञात्यागम्, _Śiromaṇi_), noting the variants उपादधाः and उपावह.
+
+_____________
+
+**2.35.31 (na hi mithyā pratijñātaṃ kariṣyati)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) offer two complementary readings of v. 31: **Tilaka** explains that the sinless king will surely not fulfill a false boon-promise uttered in jest (तव मिथ्याप्रतिज्ञातं लीलया उक्तं वचो राजा न करिष्यति खलु), whereas **Govindarāja** explains that if Kaikeyī relents, Daśaratha will not let his promised boons go unfulfilled (प्रतिश्रुतं वरद्वयं तन्मिथ्या न करिष्यति), but will honour them with jewels and treasures exceeding the kingdom (राज्यादप्यधिकमूल्यरत्नभूषणसंमानादिभिः सफलं करिष्यति).
+
+_____________
+
+**2.35.32–33 (vadānyaḥ karmaṇyaḥ & parivādo mahān)**
+
+All three commentators gloss वदान्यः as munificent (उदारः), कर्मण्यः as skilled in righteous deeds (कर्मणि साधुः), and परिवादः as grave infamy (अपवादः) if Rāma enters the forest.
+
+_____________
+
+**2.35.34 (vigata-jvarā & na hi te rāghavād anyaḥ kṣamaḥ)**
+
+In v. 34, **Rāma Varmā** (_Tilaka_) explains that none other than Rāma residing in the capital (पुरवरे वसन्) will be so dutifully obedient to Kaikeyī (ते क्षमो वश्यो नहि भवेत्), whereas Bharata will remain aloof (भरतस्त्वत्तः प्रतिदूर एव भविष्यति). **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) add that a younger son cannot fittingly be installed over the elder (कनिष्ठस्त्वया राज्ये स्थापयितुं न युक्तः) nor promote her welfare (हिते न क्षमः).
+
+_____________
+
+**2.35.35 (rāme hi yauvarājya-sthe & pūrva-vṛttam)**
+
+All three commentators gloss पूर्ववृत्तम् as the hereditary practice of Ikṣvāku monarchs (इक्ष्वाकुकुलक्रमागतवृत्तम्, _Bhūṣaṇa_; पूर्वराजाचारम्, _Tilaka_): once Rāma is installed as regent (यौवराज्यस्थे), Daśaratha will retire to the forest.
+
+_____________
+
+**2.35.36–37 (sāntvaiś ca tīkṣṇaiś ca & Kaikeyī's Stony Obduracy)**
+
+**Tilaka** highlights the correspondence between Sumantra's twofold speech and Kaikeyī's hardness: she is neither softened by gentle entreaties (सान्त्वेन न क्षुभ्यते) nor pained by biting reproaches (तीक्ष्णेन न परिदूयते), nor does any change (विक्रिया) appear in her face (मुखवर्णस्य).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

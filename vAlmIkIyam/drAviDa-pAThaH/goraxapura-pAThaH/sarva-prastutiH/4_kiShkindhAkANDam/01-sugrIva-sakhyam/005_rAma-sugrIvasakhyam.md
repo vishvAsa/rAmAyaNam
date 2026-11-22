@@ -248,6 +248,116 @@ to his word, such Dasharatha's son is this Rama, who has to come to forests owin
 
 **5:** “and by whom the earth (_vasudhā_) was protected through austerity and truthful speech (_tapasā satyavākyena_); on account of a woman (_strīhetoḥ_), this son of his, Rāma, has come to the forest.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.5.1 (From Ṛṣyamūka to Malaya)**
+
+Addressing how Hanūmān went `from Ṛṣyamūka to the Malaya mountain' (ऋष्यमूकात्... मलयं गिरिम्) after bringing the princes to Ṛṣyamūka in 4.4.35, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that fearful Sugrīva had withdrawn from his dwelling on Ṛṣyamūka to a dense adjoining peak called Malaya (ऋष्यमूकैकदेशं मलयाख्यं गिरिम्); Hanūmān stationed Rāma and Lakṣmaṇa on Ṛṣyamūka (ऋष्यमूके... राघवौ स्थापयित्वा) and went to Malaya to fetch Sugrīva.
+
+_____________
+
+**4.5.2–3 (Pointing Out Rāma)**
+
+**Rāma Varmā** explains अयं रामः (`this Rāma here') as indicating that Rāma was visible from Sugrīva's vantage on Malaya (मलयस्थसुग्रीवदृष्टिपथवर्तित्वात्) and notes that repeating रामोऽयम् expresses reverence (पुनराह आदरात्), while **Govindarāja** glosses सत्यविक्रमः as capable of slaying Sugrīva's enemy (त्वच्छत्रुनिबर्हणक्षमः).
+
+_____________
+
+**4.5.4–6 (Kaikeyī's Boon)**
+
+**Rāma Varmā** and **Śivasahāya** explain स्त्रीहेतोः as fulfilling the boon granted by Daśaratha to Kaikeyī (पित्रा कैकेय्यै दत्तस्य वरस्य पालनहेतोः).
+
+_____________
+
+**4.5.7–8 (Sugrīva Assumes a Handsome Form)**
+
+**Rāma Varmā** (_Tilaka_) glosses प्रगृह्य as granting an audience (दर्शनाकाङ्क्षिणोर्दर्शनं दत्त्वा), while **Śivasahāya** (_Śiromaṇi_) takes it as welcoming them into his presence (स्वसंनिधिं... आनीय). On दर्शनीयतमो भूत्वा, **Rāma Varmā** supplies `by his own will' (इच्छावशात्), whereas **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** read the expanded text stating that Sugrīva cast off his feverish fear and assumed a handsome human form (स कृत्वा मानुषं रूपम्).
+
+_____________
+
+**4.5.9–10 (सुतपाः and Sugrīva's Humility)**
+
+**Śivasahāya** glosses सुतपाः as possessing deep deliberation (अतिविचारवान्). On वानरेण मया सह, **Rāma Varmā** notes Sugrīva's humility as a woodland creature (तिर्यग्योनिनाऽपि).
+
+_____________
+
+**4.5.11–12 (Clasping Right Hands in Covenant)**
+
+**Rāma Varmā** glosses ध्रुवा मर्यादा as an unbreakable pact of mutual aid (अन्योन्यकार्यसंपादनविषयो निश्चयः) sealed by clasping right hand with right hand (दक्षिणहस्तेन दक्षिणहस्तं गृहीतवान्), which **Śivasahāya** explains as the vow never to abandon one whose hand is grasped (गृहीतकरो न त्यक्तव्यः).
+
+_____________
+
+**4.5.13–14 (Why Hanūmān Again Shed His Mendicant Guise)**
+
+Why does 4.5.13d say Hanūmān `cast aside his mendicant guise' (संत्यज्य भिक्षुरूपम्) after he had already resumed his monkey form in 4.4.34? **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that since Sugrīva had ordered him to go in an ordinary guise (4.2.24a), Hanūmān briefly resumed the mendicant form when reporting back to Sugrīva to show obedience and win his trust (सुग्रीवाज्ञाकरणप्रतीतये, तद्विश्वासार्थं पुनर्भिक्षुरूपं जग्राह), and now cast it off to churn fire from two _śamī_ sticks (अरणिभूतशमीकाष्ठयोः).
+
+_____________
+
+**4.5.15–16 (Fire-Witnessed Friendship)**
+
+**Rāma Varmā** and **Govindarāja** note that Rāma and Sugrīva circumambulated the fire hand in hand (अन्योन्यं पाणिं गृहीत्वा) to seal a fire-witnessed pact (दनूपदिष्टाग्निसाक्षिकत्वसिद्धये).
+
+_____________
+
+**4.5.17–18 (Shared Joy and Sorrow)**
+
+**Govindarāja** sees in एकं दुःखं सुखं च नौ the soul's fellowship with the Lord (परसाम्यापत्त्यनुसंधानम्), while **Rāma Varmā** notes that prior to the fire-rite Sugrīva had sat apart (पृथगासनस्थ एवासीत्).
+
+_____________
+
+**4.5.19–20 (Sharing One Seat and Sandalwood for Lakṣmaṇa)**
+
+**Govindarāja** (_Bhūṣaṇa_) highlights सराघवः (`together with Rāghava') as showing that Sugrīva and Rāma now shared a single seat as equals (एकासनत्वमुक्तम्). On Hanūmān's presenting a blossoming sandalwood branch (चन्दनवृक्षस्य शाखाम्) to Lakṣmaṇa, **Rāma Varmā** (_Tilaka_) explains that cool sandalwood was chosen to soothe Lakṣmaṇa's sorrow (विषादपरिहारार्थं चन्दनशाखास्तरणदानम्).
+
+_____________
+
+**4.5.21–22 (Resolving the Double त्रस्तः)**
+
+Addressing the repetition of त्रस्तः in both halves of 4.5.22, **Govindarāja** offers two explanations: either the repetition expresses ever-deepening terror (उत्तरोत्तरं भीतः), or the first is त्रस्तः (`frightened of Vālin') while the second is resolved as अत्रस्तः/अभीः (`dwelling fearless upon this inaccessible Ṛṣyamūka,' वालित्रस्तोऽहमस्मिन् दुर्गमे अभीर्बिभ्यान्न वसामीत्यर्थः).
+
+_____________
+
+**4.5.23 (Pledge of Fearlessness)**
+
+**Rāma Varmā** glosses अभयं कुरु as making a formal vow of protection (अभयप्रतिज्ञां कुरु), while **Śivasahāya** (_Śiromaṇi_) glosses उद्भ्रान्तचेतनः as bereft of discernment regarding what should or should not be done (कर्तव्याकर्तव्यविषयकविवेकरहितचित्तवान्).
+
+_____________
+
+**4.5.24–25 (Rāma's Gentle Smile and the Fruit of Friendship)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that Sugrīva repeats his plea in 4.5.24a out of intense fear in order to secure firm assurance (आत्यन्तिकभयेन दार्ढ्याय पुनरुच्यते). On प्रहसन्निव (`as if smiling'), they explain that Rāma smiled gently (मन्दस्मिते) to think how slight a task slaying Vālin was—achievable even with a fingernail (नखमात्रसाध्यत्वात् प्रहसति, कियन्मात्रमेतदिति हसन्निव). On उपकारफलं मित्रम्, **Govindarāja** analyzes it as a _bahuvrīhi_ (उपकारः फलं यस्य तत्), while **Śivasahāya** (_Śiromaṇi_) glosses `a friend is one who renders aid' (उपकारकारकम्).
+
+_____________
+
+**4.5.26–27 (Heron-Feathered Arrows)**
+
+**Govindarāja** glosses कङ्कपत्रप्रतिच्छन्नाः as fletched with heron feathers (कङ्कपक्षिपत्रबद्धाः), while **Rāma Varmā** explains वेगिताः as endowed with speed (सजातवेगाः).
+
+_____________
+
+**4.5.26c–28b (Syntactic Continuity)**
+
+**Śivasahāya** construes the four half-verses from 4.5.26c to 4.5.28b as one sentence (अर्धचतुष्टयमेकान्वयि) describing Rāma's unerring shafts falling upon wicked Vālin (दुराचरणशीले वालिनि).
+
+_____________
+
+**4.5.28–29 (Immediacy of Rāma's Vow)**
+
+**Govindarāja** (_Bhūṣaṇa_) remarks that Rāma's saying `behold Vālin felled today!' (अद्य वालिनं पश्य) conveys the lightning-swiftness of his deed (क्रियाचाटुल्यमुक्तम्), while **Śivasahāya** (_Śiromaṇi_) glosses प्रकीर्णमिव पर्वतम् as like a mountain shattered upon the earth (भूमौ प्रक्षिप्तं पर्वतमिव).
+
+_____________
+
+**4.5.30 (Enmity Born of Hostile Deeds)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** construe ममाग्रजम् with वैरिणम् (`deal so with my hostile elder brother that he may not harm me again'). Reading वैरिणं यथा निहंस्यद्य रिपुं ममाग्रजम्, **Govindarāja** explains that the double epithet वैरिणम्... रिपुम् shows Vālin's enmity stems from active wrongdoings rather than mere birth (द्विरुक्त्या वैरकृतं शात्रवं न तु जात्येत्युक्तम्).
+
+_____________
+
+**4.5.31 (Simultaneous Omen of the Left Eyes)**
+
+All three commentators note the _yathāsaṃkhya_ (क्रमेणान्वयः) in the closing verse: at the Rāma–Sugrīva pact, Sītā's lotus-like left eye (राजीवोपमम्), tawny-eyed Vālin's gold-like left eye (कपीन्द्रो वली... पिङ्गाक्षत्वात्), and Rāvaṇa's fire-like left eyes (ज्वलनोपमानि) throbbed simultaneously—auspicious for women, but portending doom for men (पुंसां वामनेत्रस्पन्दोऽशुभशंसी, स्त्रीणां तु शुभशंसी).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -83,6 +83,14 @@ valour, that great resplendent Rama took-up bow to inculcate credence in Sugreev
 
 And having heard this eloquent (_subhāṣitam_) speech of Sugrīva, Rāma of mighty splendor (_mahātejāḥ_) took up his bow (_kārmukam_) in order to instill confidence (_pratyayārtham_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.1–3 (The Piercing of the Seven Sālas and Subterranean Worlds)**
+
+Commenting on **12.1c** (प्रत्ययार्थं), **Śiromaṇi** explains Rāma took up his bow strictly to instill confidence in Sugrīva (सुग्रीवविश्वासार्थं). On **12.3**, **Tilaka** and **Śiromaṇi** note that although aimed at a single tree (एकसालोद्देशेनैव क्षिप्तोऽपि), the gold-feathered arrow (स्वर्णपुङ्खालंकृतः, **Bhūṣaṇa**) pierced all seven _sālas_, their mountain plateau (तदाश्रयगिरिप्रस्थमपि), and the seven subterranean realms (सप्तभूमिरसातलं विवेशेत्यर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +255,14 @@ talaatala* are the names of six strata of earth.
 
 Having pierced the _sāla_ trees in an instant (_muhūrtena_), that shaft of tremendous speed (_mahājavaḥ_) emerged once more (_niṣpatya ca punaḥ_) and re-entered that very same quiver (_tūṇam tam eva_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.4–5 (The Sentient Arrow's Return and Sugrīva's Wonder)**
+
+On **12.4c–d** (निष्पत्य च पुनस्तूणं), **Tilaka** remarks that the arrow traveled to Rasātala, slew the subterranean demons (तत्रत्यासुरान्हत्वा), and re-entered its original quiver (पूर्वाधारं तूणम्), demonstrating that Rāma's arrows are presided over by sentient deities (चेतनपराक्रमदेवताधिष्ठितत्वं सूचयति). **Bhūṣaṇa** attributes the inanimate shaft's return to mantra-power (मन्त्रप्रभावेनाचेतनस्यापि पुनरागमनम्), while on **12.5** noting Sugrīva saw only the cloven trees.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +364,14 @@ ornaments dangled, and prostrated before Raghava with his head touching the grou
 
 Supremely delighted (_paramaprītaḥ_), Sugrīva folded his hands in reverence (_kṛtāñjaliḥ_) and prostrated himself on the ground with his head (_mūrdhnā_) before Rāghava, his ornaments hanging loosely down (_pralambīkṛtabhūṣaṇaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.6 (The Etiquette of Prostration Before the Lord)**
+
+Glossing **12.6b** (प्रलम्बीकृतभूषणः), **Tilaka** and **Śiromaṇi** explain that as Sugrīva fell flat in prostration (साष्टाङ्गप्रणामवशाल्लम्बमानावस्थापनोःकण्ठादिवर्तिसकलभूषणः), his forest-garlands and neck-ornaments hung loosely down. **Bhūṣaṇa** adds that this indicates his belly did not touch the ground (उदरास्पर्श उक्तः), thereby teaching the proper mode of bowing before the Lord (भगवद्विषये प्रणामप्रकारः शिक्षितो भवति).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -408,6 +432,14 @@ him. [4-12-7]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thrilled by that feat (_karmaṇā tena harṣitaḥ_), he spoke this word to Rāma, the knower of _dharma_ (_dharmajñam_), the foremost of all who know missile-weapons (_sarvāstraviduṣām śreṣṭham_), the steadfast hero (_śūram avasthitam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.7–8 (Sugrīva's Eulogy of Rāma's Martial Supremacy)**
+
+On **12.7**, **Śiromaṇi** notes that Sugrīva, exhilarated by the feat of cleaving the _sāla_ trees (तेन सालादिभेदनरूपेण कर्मणा हर्षितः), addressed righteous Rāma. On **12.8**, **Śiromaṇi** unpacks the _arthāpatti_ (a fortiori reasoning): since Rāma can slay all the gods together with Indra in battle (सेन्द्रान् सर्वान् सुरानपि समरे बाणैर्हन्तुं त्वं समर्थः), slaying Vālī requires no effort (तर्हि वालिनं हन्तुं समर्थ इति किम्).
 </details>
 </details>
 
@@ -519,6 +551,14 @@ only one arrow, oh Kakutstha, who then can stand up to you in the vanguard of wa
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Kākutstha, before you who have cloven (_dāritāḥ_) seven great _sāla_ trees, the mountain, and the earth with a single arrow (_bāṇenaikena_), who can stand in the forefront of battle (_raṇāgrataḥ_)?
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.9–11 (The Cloven Netherworlds and the Plea for Immediate Action)**
+
+On **12.9b** (गिरिर्भूमिश्च), **Tilaka** explains that the particle च includes the seven netherworlds and their inhabitants (चात्सप्तपातालस्तद्वर्तिनोऽसुराश्च), while **Śiromaṇi** glosses भूमिः as the envelopes of the seven lower worlds (सप्ताधोलोकावरणानि). On **12.10–11**, **Śiromaṇi** notes that beholding Rāma's supreme valor dispelled Sugrīva's grief (भवदतिपराक्रमदर्शनसमये मे शोको विगतः), prompting his folded-hand plea against his brother-shaped foe.
 </details>
 </details>
 
@@ -673,6 +713,14 @@ and then Rama said these words to such a Sugreeva in reply. [4-12-12]
 
 Thereupon Rāma of great wisdom (_mahāprājñaḥ_), having embraced (_pariṣvajya_) Sugrīva of pleasing aspect (_priyadarśanam_), replied in words shared in spirit by Lakṣmaṇa (_lakṣmaṇānugatam vacaḥ_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.12 (Lakṣmaṇa's Concurrence and Brotherhood)**
+
+On **12.12d** (लक्ष्मणानुगतं), **Tilaka** offers two interpretations: either Rāma spoke words shared equally by Lakṣmaṇa (तत्सममित्यर्थः), or Rāma embraced Sugrīva, whom he had accepted as dear as Lakṣmaṇa (लक्ष्मणवत्प्रियत्वेनानुगतं स्वीकृतं सुग्रीवमित्यर्थः). **Śiromaṇi** similarly explains that through friendship Sugrīva had attained Lakṣmaṇa's own brotherly status (मैत्र्या लक्ष्मणतुल्यत्वं प्राप्तं), while **Bhūṣaṇa** reads लक्ष्मणानुमतम् as an adverbial modifier (क्रियाविशेषणम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -746,6 +794,14 @@ of cruelty alone, but not any brotherliness. Rama Tilaka.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “From this [mountain] (_asmāt_) let us go to Kiṣkindhā; go quickly ahead of us (_kṣipram gaccha tvam agrataḥ_)! And having gone there, O Sugrīva, challenge (_āhvaya_) Vālī, that brother only in name (_bhrātṛgandhinam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.13–14 (The March to Kiṣkindhā and Concealment in the Woods)**
+
+Glossing **12.13d** (भ्रातृगन्धिनम्), **Tilaka** explains the epithet as one whose title of brother is futile (अनर्थकभ्रातृव्यपदेशम्), whereas **Bhūṣaṇa** derives it from the verbal root गन्धनावक्षेपणे (`to injure or revile') to mean `brother-destroyer' (भ्रातृहिंसकम्). On **12.14c** (आत्मानम्), **Tilaka** and **Bhūṣaṇa** note the singular functions distributively (स्वं स्वमित्यर्थः), while **Śiromaṇi** explains they hid to adopt a hunter's ambush (मृगयुव्यापारं कृत्वा).
 </details>
 </details>
 
@@ -851,6 +907,14 @@ the sky. [4-12-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Tightly girded (_gāḍham parihitaḥ_), Sugrīva too uttered a dreadful roar (_anadad ghoram_) to summon Vālī (_vālino hvānakāraṇāt_), as though splitting the sky (_bhindann ivāmbaram_) with his cries out of impetuous force (_vegāt_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.15–16 (Sugrīva's Tightly Girded Challenge and Vālī's Sortie)**
+
+On **12.15c** (गाढं परिहितो), **Tilaka** explains that Sugrīva bound his waist-cloth tightly for combat (वाससा दृढं कटिं बद्ध्वेत्यर्थः) and roared to summon Vālī (आह्वाननिमित्तं). On **12.16d** (भास्करोऽस्ततटादिव), the commentators note Vālī rushed forth from Kiṣkindhā like the blazing sun emerging from the western mountain ridge (अस्तगिरिरिव), portending his imminent setting in death.
 </details>
 </details>
 
@@ -975,6 +1039,14 @@ their jarring spheres / compound." Paradise Lost. Book VI. - So say Griffith.
 
 Then a tumultuous battle (_sutumulam yuddham_) arose between Vālī and Sugrīva, dreadful like the clash of the two planets Mercury and Mars (_budhāṅgārakayor iva_) in the sky (_gagane_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.17–18 (Planetary Collision and Thunderbolt Blows)**
+
+On **12.17d** (बुधाङ्गारकयोरिव), **Śiromaṇi** and **Bhūṣaṇa** compare the brothers' fierce aerial clash to a planetary conjunction of Mercury and Mars (बुधाङ्गारकाख्ययोर्ग्रहयोरिव), while **Tilaka** notes a variant comparing them to Mounts Vajra and Gokarṇa (वज्रगोकर्णौ तदाख्यपर्वतौ). On **12.18a**, **Tilaka** glosses अशनिः as the thunderbolt (दम्भोलिः), while **Bhūṣaṇa** takes it as lightning (मेघज्योतिः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1095,6 +1167,14 @@ or the Dioskuri are the Ashwin twins of Hindus.
 
 Then Rāma, bow in hand (_dhanuṣpāṇiḥ_), observed (_samudaikṣata_) those two heroes, who were identical to one another (_anyonyasadṛśau_) like the twin Aśvin gods (_devāv ivāśvinau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.19–20 (Why Rāma Withheld His Fatal Arrow)**
+
+Commenting on **12.19–20**, **Bhūṣaṇa** reads समुदीक्ष्य तु to construe both verses as a single sentence (श्लोकद्वयमेकान्वयम्): seeing both warriors looking identical like the twin Aśvins (उभावश्विनौ देवाविव स्थितौ), Rāma could not distinguish them (विविच्येति शेषः, **Tilaka**) and therefore did not resolve to loose his lethal shaft (तस्माद्रामः शरं मोक्तुं बुद्धिं न कृतवानित्यन्वयः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1147,6 +1227,14 @@ arrow, as confusion is the only reason for Rama. [4-12-20]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Because Rāghava could not distinguish (_yan nāvagacchat_) either Sugrīva or Vālī, he therefore did not make up his mind (_na kṛtavān buddhim_) to loose the fatal arrow (_moktum antakaram śaram_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.20 (Śiromaṇi's Mystical Reading of Fraternal Reconciliation)**
+
+Offering a deeper psychological reading on **12.20**, **Śiromaṇi** suggests that because the two brothers were locked together and identical in form (मिलितत्वात्समानाकारत्वाच्च), Rāma wished not to separate them (विविच्य बोद्धुं नेच्छत्), subtly revealing his affection even for Vālī (एतेन वालिनि रामस्य स्नेहः सूचितः) and his unspoken wish that if the brothers reconciled even now, he would not slay Vālī (यदि द्वयोर्मैत्री स्यात्तर्हि न हनिष्यामीति रामाभिप्रायो व्यक्तः).
 </details>
 </details>
 
@@ -1202,6 +1290,14 @@ down, and thereby he immediately fled to Mt. Rishyamuka. [4-12-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In the meantime (_etasminn antare_), routed (_bhagnaḥ_) by that Vālī and not beholding his protector Rāghava (_apaśyan rāghavam nātham_), Sugrīva fled headlong (_pradudruve_) toward Ṛṣyamūka.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.21–24 (Sugrīva's Rout to Ṛṣyamūka and Vālī's Restraint)**
+
+On **12.21–24**, the commentators explain that when Sugrīva was battered by Vālī's blows and could not see his protector Rāma (अपश्यन् राघवं नाथम्), he fled bleeding into the great forest of Ṛṣyamūka, where Vālī stopped out of fear of Mataṅga's curse (शापभयात्) before Rāma rejoined Sugrīva.
 </details>
 </details>
 
@@ -1420,6 +1516,14 @@ to earth and piteously spoke this without eyeing Rama [4-12-25]
 
 Seeing that Rāma had arrived together with Lakṣmaṇa (_sahalakṣmaṇam_), Sugrīva, abashed (_hrīmān_) and gazing down at the earth (_vasudhām avalokayan_), spoke this piteous word (_dīnam uvācedam_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.25–26 (Sugrīva's Shame and Reproach)**
+
+On **12.25c–d**, **Tilaka** and **Śiromaṇi** explain Sugrīva was abashed due to his defeat (पराभवहेतुकलज्जावान्), while **Bhūṣaṇa** notes that gazing down at the earth is the physical symptom of shame (वसुधामवलोकयन्निति लज्जानुभावः). On **12.26d** (किमिदानीं त्वया कृतम्), **Tilaka** glosses the rhetorical question as `you have done what was improper' (अनुचितमेव कृतमित्यर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1494,6 +1598,14 @@ not kill Vali, then I would not have come here, to Kishkindha. [4-12-27]
 **26:** “Having displayed your valor (_darśayitvā ca vikramam_), having told me `Challenge him!&#x27; (_āhvayasveti mām uktvā_), and having caused me to be battered by my foe (_vairiṇā ghātayitvā_), what have you done now (_kim idānīm tvayā kṛtam_)?
 
 **27:** “At that very moment (_tām eva velām_), O Rāghava, you ought to have told me truly (_vaktavyam tvayā tattvataḥ_), `I will not slay Vālī&#x27; (_vālinam na nihanmīti_); then I would not have gone from here (_tato nāham ito vraje_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.27–28 (The Syntax of Time and Rāma's Compassionate Reply)**
+
+Glossing **12.27a** (तामेव वेलां), **Tilaka** and **Śiromaṇi** take the accusative in the sense of the locative (सप्तम्यर्थे द्वितीया, `at the moment of my departure'), whereas **Bhūṣaṇa** explains it as continuous extent (अत्यन्तसंयोगे द्वितीया, `throughout the time of my plea'). On **12.28c**, **Bhūṣaṇa** glosses करुणं as `compassionately' (सदयम्).
 </details>
 </details>
 
@@ -1597,6 +1709,14 @@ reason may be heard and let the anger be discarded. [4-12-29]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hear, O Sugrīva, dear friend (_tāta_)—and let your wrath be cast aside (_krodhaś ca vyapanīyatām_)—the reason (_kāraṇam_) why that arrow of mine was not loosed (_na visarjitaḥ_) by me!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.29–30 (The Identical Appearance of the Combatants)**
+
+On **12.29**, **Tilaka** specifies that `that arrow' (स बाणः) means the shaft destined to destroy Vālī (वालिसंहारको बाणः). On **12.30**, **Bhūṣaṇa** glosses वेषेण as outward guise (आकल्पेन), प्रमाणेन as stature (औन्नत्येन), and गतेन as gait (गमनेन), showing why Rāma could not tell the two apart.
 </details>
 </details>
 
@@ -1704,6 +1824,14 @@ speech, oh monkey, I could not mark any difference. [4-12-31]
 
 “In voice (_svareṇa_), in bodily luster (_varcasā caiva_), in glance (_prekṣitena ca_), O Vānara, in valor (_vikrameṇa ca_), and in battle-cries (_vākyaiś ca_), I could not discern any distinction between you two (_vyaktim vām nopalakṣaye_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.31–32 (Why the Omniscient Lord Feigned Confusion)**
+
+On **12.32a** (मोहितः), **Tilaka** and **Bhūṣaṇa** address the theological objection: how could the omniscient Lord be bewildered, or why did Vālī not wear his golden necklace (काञ्चनमालारूपो वालिनो विशेषोऽस्ति)? **Bhūṣaṇa** answers that Vālī had left his divine necklace behind in haste, while **Tilaka** notes Vālī's lifespan was not yet exhausted (वालिन आयुर्दायाप्त्या) and Rāma spoke thus to console Sugrīva.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1810,6 +1938,14 @@ life-taking arrow, otherwise the basic object of ours will be ruined, isn't it. 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—this life-ending, terrible shaft (_jīvitāntakaram ghoram_), being apprehensive on account of your resemblance (_sādṛśyāt tu viśaṅkitaḥ_), thinking: `Let there not be a destruction of the very root (_mūlaghāto na nau syād dhi_) for both of us (_dvayor iti_) caused by me!&#x27;
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.33–34 (Destruction of the Root and Rashness)**
+
+On **12.33c** (मूलघातो न नौ स्याद्धि), **Tilaka** and **Bhūṣaṇa** explain that if Sugrīva had been slain by mistake, the root cause of both their goals—Sugrīva's kingdom and Rāma's recovery of Sītā—would have been destroyed (तव नाशेन मूलघातो न स्यान्मा भूदित्येतदर्थं). On **12.34b**, **Tilaka** glosses लाघवात् as rashness (चापल्यात्).
 </details>
 </details>
 
@@ -1928,6 +2064,14 @@ are our shelterer in this forest. [4-12-35, 36a]
 
 **36:** “—all of us are dependent upon you (_tvadadhīnā vayam sarve_), and in this forest you are our refuge (_śaraṇam bhavān_). Therefore fight once more (_tasmād yudhyasva bhūyas tvam_), and do not doubt me (_mā māśaṅkīś ca_), O Vānara!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.35–36 (The Sin of Slaying a Supplicant and Mutual Dependence)**
+
+On **12.35–36**, **Tilaka** and **Śiromaṇi** note that slaying one who has been granted sanctuary is a notorious mortal sin (दत्तमभयं यस्मै स दत्ताभयस्तस्य वधो महत्पातकमिति नाम प्रसिद्धम्), and since Rāma, Lakṣmaṇa, and Sītā all depend on Sugrīva (त्वदधीना वयं सर्वे), Sugrīva must not doubt Rāma.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1987,6 +2131,14 @@ squirming on the ground. [4-12-36, 37],
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Within this very hour (_etan muhūrte tu_), behold Vālī in battle (_āhave_) struck down by me with a single arrow (_nirastam iṣuṇaikena_) and writhing upon the surface of the earth (_ceṣṭamānam mahītale_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.37–38 (The Promise of Immediate Victory and the Token of Recognition)**
+
+On **12.37**, **Śiromaṇi** explains that within this very hour of renewed combat (तत्कर्तृकपुनर्युद्धसमये), Sugrīva will behold Vālī struck down by a single shaft and writhing on the ground (महीतले चेष्टमानं). On **12.38**, **Bhūṣaṇa** glosses अभिज्ञानम् as a distinguishing mark (चिह्नम्) for close combat.
 </details>
 </details>
 
@@ -2094,6 +2246,14 @@ this noble souled Sugreeva be garlanded with that." So said Rama to Lakshmana. [
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Lakṣmaṇa, having plucked (_utpāṭya_) this blooming, auspiciously marked _gajapuṣpī_ creeper (_gajapuṣpīm imām phullām śubhalakṣaṇām_), place it around the neck (_kuru kaṇṭhe &#x27;sya_) of this great-souled Sugrīva!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.39–40 (The Auspicious Gajapuṣpī Creeper)**
+
+On **12.39a–b** (गजपुष्पीमिमां फुल्लां), **Tilaka** and **Bhūṣaṇa** identify the _gajapuṣpī_ as the flowering _nāgapuṣpī_ creeper (नागपुष्पी लता), which is called `auspiciously marked' (शुभलक्षणाम्) because it heralds imminent victory (शुभं सम्यक्सूचयतीति). On **12.40d** (व्यसर्जयत्), all three commentators note the verb means Lakṣmaṇa tied or draped the garland (समर्पितवानित्यर्थः, **Tilaka**; अबध्नात्, **Śiromaṇi**; बद्धवान्, **Bhūṣaṇa**).
 </details>
 </details>
 
@@ -2205,6 +2365,14 @@ of herons adorning that cloud like a garland. [4-12-41]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With that creeper clinging to his neck (_latayā kaṇṭhasaktayā_), that glorious one shone (_sa tayā śuśubhe śrīmān_) like a rain-cloud tinged with twilight (_sasaṃdhya iva toyadaḥ_) encircled by a garland of cranes (_mālayeva balākānām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.41–42 (The Simile of the Twilight Cloud and Crane Garland)**
+
+On **12.41**, **Tilaka** explains the double simile: tawny-bodied Sugrīva wearing the white-blossomed _nāgapuṣpī_ creeper (शुक्लपुष्पनागपुष्पीलतया) around his neck shone like a dark rain-cloud tinged with red twilight (संध्यानुषहिततोयद इव) encircled by a white garland of cranes (बलाकानां मालयेव) as they marched back to Kiṣkindhā.
 </details>
 </details>
 

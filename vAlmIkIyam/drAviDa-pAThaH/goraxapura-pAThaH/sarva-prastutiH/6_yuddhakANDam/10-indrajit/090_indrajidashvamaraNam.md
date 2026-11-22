@@ -4088,6 +4088,170 @@ the scene).
 While that Indrajit, who was the terror of all the worlds, had fallen, the waters
 and the sky became clear. The celestials and demons were rejoiced and arrived on the scene.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.90.1–2 (Vibhīṣaṇa's Vigil at the Front)**
+
+Both _Tilaka_ and _Bhūṣaṇa_ construe the opening two verses as one syntactic unit (श्लोकद्वयमेकान्वयम्), likening Lakṣmaṇa and Indrajit to rutting tuskers (प्रभिन्नौ मत्तौ मातङ्गाविव). Govindarāja (_Bhūṣaṇa_) explains why Vibhīṣaṇa initially watches (द्रष्टुकामः): he pauses silently to gauge their relative strength (तयोर्बलाधिक्यं द्रष्टुं तूष्णीं स्थितः), and seeing their parity (तयोस्तौल्ये दृष्टे), enters the fray to forestall any reproach before Rāma.
+
+_____________
+
+**6.90.3–4 (The Occasional Bow and Fiery Shafts)**
+
+On अवस्थितः, Rāma Varmā (_Tilaka_) supplies भूमौ (`standing on the ground'). Govindarāja notes that since Vibhīṣaṇa normally wields only a mace (विभीषणस्य केवलगदापाणित्वात्), this great bow is adopted for the occasion (धनुः तादात्विकं किंचित्). Śivasahāya (_Śiromaṇi_) glosses शिखिसंस्पर्शाः as arrows burning like fire (वह्निवत् संस्पर्शो येषां ते), while Govindarāja glosses वज्राणि as thunderbolts (अशनयः).
+
+_____________
+
+**6.90.5–6 (The Four Counselors)**
+
+_Tilaka_ identifies the accompanying Rākṣasas (राक्षसैस्तैः) as Vibhīṣaṇa's four ministers (सचिवरूपैः), amidst whom he shines like a bull elephant among young calves (कलभानां करिशावकानाम्).
+
+_____________
+
+**6.90.7 (Vibhīṣaṇa's Timely Exhortation)**
+
+Rāma Varmā (_Tilaka_) explains the participial form संचोदमानः as equivalent to the causative संचोदयमानः (`inciting to battle'). Śivasahāya (_Śiromaṇi_) identifies रक्षसां वरः (`best of Rākṣasas') as Vibhīṣaṇa, who knows the precise tactical moment (कालज्ञः) to rally the Vānara chiefs eager for Rākṣasa slaughter (रक्षोवधप्रियान् हरीनुवाच).
+
+_____________
+
+**6.90.8–9 (Indrajit as Rāvaṇa's Sole Mainstay)**
+
+_Tilaka_ and _Bhūṣaṇa_ gloss परायणम् as supreme refuge (परा गतिः), and _Śiromaṇi_ as chief support (उत्तमाश्रयः). _Tilaka_ explains एतच्छेषं बलं तस्य to mean Rāvaṇa's army (तस्य रावणस्य बलं सेना) has only Indrajit remaining, urging the Vānaras not to stand idle (तत्किं तिष्ठथ). _Śiromaṇi_ links verses 8–9 (श्लोकद्वयमेकान्वयि), supplying हते सति (`once he falls, the remaining host save Rāvaṇa is destroyed').
+
+_____________
+
+**6.90.10–12 (Roll of the Fallen Generals)**
+
+All three commentators read verses 10–14 as a five-verse syntactic unit (श्लोकपञ्चकमेकान्वयि) governed by निहतः. Govindarāja notes that Vibhīṣaṇa recounts both previously named and unnamed slain Rākṣasas specifically to fire the monkeys' zeal (उक्ताननुक्तांश्च राक्षसान् युद्धे हतान् कांश्चित्परिगणयत्युत्साहनाय).
+
+_____________
+
+**6.90.13–15 (The Ocean and the Hoofprint)**
+
+Concluding the five-verse catalogue, Govindarāja (_Bhūṣaṇa_) notes that singular निहतः (v. 10) undergoes number adjustment (निहताविति विपरिणामः कार्यः) for dual देवान्तकनरान्तकौ. In verse 15, he identifies the proverb of swimming the ocean only to balk at a cow's hoofprint as _nidarśanā_ (गोष्पदतरणमिवेति निदर्शना): after crushing mighty Rākṣasas, slaying Indrajit is a trifling puddle (इन्द्रजिद्धननरूपं स्वल्पं कार्यं लङ्घ्यताम्).
+
+_____________
+
+**6.90.16–17 (Vibhīṣaṇa's Moral Dilemma)**
+
+Govindarāja glosses एतावदेव as Indrajit alone (इन्द्रजिन्मात्रमेव). On पुत्रस्य जनितुर्मम, Śivasahāya (_Śiromaṇi_) takes जनितुः as a brother of the same womb (समानगर्भे जातस्य भ्रातुरित्यर्थः), while _Tilaka_ renders it जनयितृभ्रातुः पुत्रस्य: though slaying a nephew is unseemly (निधनं नाशं कर्तुमयुक्तम्), Vibhīṣaṇa discards pity (घृणां दयामपास्य) for Rāma's sake.
+
+_____________
+
+**6.90.18 (Tears Blinding the Uncle's Eyes)**
+
+_Tilaka_ adds that Vibhīṣaṇa destroys him by directing the means (हननोपायप्रवर्तनेनेति भावः), for when wishing to strike directly (साक्षात्प्रहर्तुकामस्य), tears block his sight (चक्षुः बाष्पमश्रु निरुणद्धि); thus Lakṣmaṇa will dispatch him (लक्ष्मण एव शमयिष्यति).
+
+_____________
+
+**6.90.19 (The Order to Strike Indrajit's Escort)**
+
+Śivasahāya (_Śiromaṇi_) links the first half of verse 19 directly to Vibhīṣaṇa's speech (सार्धः श्लोक एकान्वयी): because Lakṣmaṇa himself will dispatch Indrajit, Vibhīṣaṇa commands the Vānaras to unite and slaughter the retainers guarding Indrajit's flanks (अतः हे वानराः अस्येन्द्रजितः समीपगान् भृत्यान् घ्नत). Rāma Varmā (_Tilaka_) flags the imperative घ्नत (`strike down!') as an archaic epic formation (घ्नतेत्यार्षम्) for standard हत.
+
+_____________
+
+**6.90.20 (Peacock-Cries and Lashing Tails)**
+
+_Śiromaṇi_ explains that, cheered by Vibhīṣaṇa's words (तेन विभीषणेन इत्यभिचोदिताः), the monkey lords rejoiced and lashed their tails in martial ardor (वानरेन्द्रा जहृषिरे अत एव लाङ्गूलानि विव्यधुः). Roaring battle-cries again and again (क्ष्वेडन्तः कपिशार्दूलाः), they raised manifold shouts like peacocks beholding dark storm-clouds (मेघान् दृष्ट्वा बर्हिण इव विविधान् नादान् मुमुचुः).
+
+_____________
+
+**6.90.21–24 (Jāmbavān's Bear Phalanx)**
+
+_Śiromaṇi_ notes that Jāmbavān, encircled by his own bear-troop (स्वयूथ्यैरभिसंवृतः जाम्बवान्), battered the Rākṣasas with boulders, claws, and fangs, while Govindarāja reads singular अश्मभिस्ताडयामास making Jāmbavān the sole subject.
+
+_____________
+
+**6.90.25–26 (Hanūmān's Onslaught and Lakṣmaṇa's Respite)**
+
+Rāma Varmā (_Tilaka_) explains that Hanūmān sets Lakṣmaṇa down upon the ground (भूमाववस्थाप्य) and slaughters Rākṣasas by the thousands to aid Vibhīṣaṇa (विभीषणसहायार्थं हनूमान्कदनं चक्रे), though Govindarāja's manuscript omits the half-verse स लक्ष्मणं... (इदमर्धं गो. पु. नास्ति). Govindarāja (_Bhūṣaṇa_) observes that describing Hanūmān's assault here implies that bow-wielding Lakṣmaṇa briefly rested (किंचिद्विश्रान्तं तस्य शार्ङ्गिणो लक्ष्मण इत्यवगम्यते).
+
+_____________
+
+**6.90.27–29a (Sun and Moon Veiled at Monsoon's Onset)**
+
+_Tilaka_ glosses प्रयुद्धौ as commencing combat (योद्धुमुपक्रान्तौ) and उष्णान्ते as the onset of the rains (वर्षारम्भे), when sun and moon are veiled by clouds; he also records a variant मेघौ (`cloud-like with their own shafts', मेघाविति पाठे).
+
+_____________
+
+**6.90.29b–30 (Eight Imperceptible Feats of Archery)**
+
+Anticipating ददृशे in v. 31, _Tilaka_ and _Bhūṣaṇa_ define the rapid manual actions: संधानम् is nocking (संयोजनम्); धनुषः परिग्रहः is shifting the bow between left and right hands (सव्यापसव्येन कार्मुकग्रहणम्); विग्रहः is adopting stances like _ālīḍha_ (आलीढाद्यवस्थानविशेषः); मुष्टिप्रतिसंधानम् is locking the fist on string and bow (ज्याकार्मुकयोर्मुष्टिबन्धनम्); and लक्ष्यप्रतिपादनम् is striking the mark (लक्ष्यप्रापणम्).
+
+_____________
+
+**6.90.31–32a (Invisible Hand-Speed and Darkened Sky)**
+
+Completing the sentence begun in v. 29b (न ह्यादानमित्यादिश्लोकद्वयमेकान्वयम्), Śivasahāya (_Śiromaṇi_) and Govindarāja (_Bhūṣaṇa_) explain that through their lightness of hand (पाणिलाघवाद्धेतोः) none of the eight archery motions could be seen—nothing was visible save flying shafts (बाणव्यतिरेकेण न किंचित्तदानीं दृश्यत इति भावः). Once the sky was packed with arrow-nets, physical forms vanished (रूपाणि वस्तूनि न चकाशिरे).
+
+_____________
+
+**6.90.32b–33a (Debate on Ugrā Avyavasthā)**
+
+Govindarāja interprets उग्रा अव्यवस्था as fierce uncertainty from moment to moment over who would prevail (अयमेनं निगृह्णाति अयं वा एनमिति निश्चयो नाभवत्), while _Śiromaṇi_ glosses it as mental agitation (सर्वमनसामस्वास्थ्यम्). Rāma Varmā (_Tilaka_) rejects Govindarāja's view (व्याख्यानं तच्चिन्त्यम्) since mere uncertainty cannot be called `terrible' (उग्रेति विशेषणवैयर्थ्याच्च), explaining it instead as the dreadful slaughter of non-combatants by stray shafts (तत्तद्बाणैरयुध्यद्वानरराक्षसवधरूपा).
+
+_____________
+
+**6.90.33b–36 (Sunset and Rivers of Blood)**
+
+_Tilaka_ glosses प्रतिभयम् as terrifying (भयंकरम्); _Śiromaṇi_ notes that as the thousand-rayed sun set (सहस्रांशौ अस्तं गते), great rivers of blood flowed in thousands.
+
+_____________
+
+**6.90.37–38 (Portents and the Flight of the Gandharvas)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) gloss क्रव्यादाः as carrion-feeding vultures and jackals (गृध्रादयः), while Govindarāja (_Bhūṣaṇa_) glosses चिक्षिपुः as uttered (चक्रुः). While the great sages pray for the welfare of the worlds (लोकेभ्यः स्वस्त्यस्तु), Govindarāja—reading संप्राप्ताः—explains सम्पेतुः to mean that the Gandharvas and Cāraṇas previously assembled on the field fled elsewhere out of terror at the horrific duel (अतिघोरयुद्धदर्शनभयादिति भावः).
+
+_____________
+
+**6.90.39–41 (The Gold-Decked Bhalla Shaft)**
+
+After Lakṣmaṇa pierces Indrajit's four gold-trapped black steeds with four shafts, all three commentators construe vv. 40–42a as one two-and-a-half-verse sentence (सार्धश्लोकद्वयमेकान्वयम्). _Tilaka_ and _Śiromaṇi_ gloss पीतेन as gold-adorned (स्वर्णभूषितेन) and सम्पूर्णायतमुक्तेन as drawn full to the ear before release (आकर्णपर्यन्तमायतेनाकृष्टेन ततो मुक्तेन).
+
+_____________
+
+**6.90.41–42 (Decapitation of the Charioteer)**
+
+_Tilaka_ explains विचरिष्यतः as the driver about to wheel the car (रथसंचारं करिष्यतः), and तलशब्दानुनादिना as echoing the bowstring's slap against the leather arm-guard (तलं ज्याघातवारणं तस्य शब्देन), whereby Lakṣmaṇa severs the driver's head.
+
+_____________
+
+**6.90.43 (Indrajit as His Own Charioteer)**
+
+Connecting v. 42b with v. 43, Śivasahāya (_Śiromaṇi_) explains that once his driver fell (यन्तरि हते सति), Mandodarī's son Indrajit handled the reins himself and repeatedly snatched up his bow (सारथ्यं स्वयमकरोत् धनुरस्पृशच्च). To those watching in battle, his charioteering was a marvel (सारथ्यं पश्यतां जनानां तत्सारथ्यकरणमद्भुतमभूत्), where Govindarāja reads सामर्थ्यम् (`feat of skill').
+
+_____________
+
+**6.90.44–45 (Exploiting Tactical Openings)**
+
+Rāma Varmā (_Tilaka_) and _Śiromaṇi_ highlight Lakṣmaṇa's precision: whenever Indrajit's hands were occupied with guiding the steeds (हयेषु तन्नियमनेषु व्यग्रहस्तम्), Lakṣmaṇa pierced Indrajit with whetted shafts; whenever Indrajit was busy grasping his bow (धनुर्ग्रहणे व्यग्रं ज्ञात्वा), Lakṣmaṇa shot his horses. Through those tactical openings (छिद्रेषु रन्ध्रेषु in _Bhūṣaṇa_; उक्तावसरेषु in _Śiromaṇi_), swift-handed Lakṣmaṇa harried him.
+
+_____________
+
+**6.90.46–48 (Indrajit's Dejection and the Four Vānaras' Rush)**
+
+_Tilaka_ and _Śiromaṇi_ gloss समरोद्धर्षम् as battle-enthusiasm (युद्धोत्साहम्), and _Bhūṣaṇa_ as martial pride (युद्धगर्वम्). Seeing Indrajit crestfallen, the four chiefs led by Pramāthī, brooking no longer his survival (इन्द्रजिज्जीवनमसहमानाः), charged forward.
+
+_____________
+
+**6.90.49–51 (Crushing of the Steeds and Chariot)**
+
+Śivasahāya (_Śiromaṇi_) explains that when the four mountain-like Vānaras led by Pramāthī (प्रमाथिप्रभृतयः) leaped upon Indrajit's four finest horses (वानरैरधिष्ठितानां हयानाम्), blood gushed from the steeds' mouths (रक्तं शोणितम् in Govindarāja's reading). Crushed and broken-limbed (भग्नाः अङ्गभङ्गं प्रापिताः), the lifeless horses collapsed to earth (व्यसवो हयाः धरणीं गताः); smashing the great chariot as well (महारथं प्रमथ्य च), they bounded back to Lakṣmaṇa's side.
+
+_____________
+
+**6.90.52–53 (Indrajit Dismounted and Riven on Foot)**
+
+Leaping from his horse-slain car (हताश्वात् रथादवप्लुत्य), Indrajit charges Lakṣmaṇa on foot while pouring a shower of shafts. In verse 53 (forming the final _vaṃśastha_ coda), _Śiromaṇi_ construes निहतैर्हयोत्तमैः as an instrumental of cause (हयोत्तमैर्निहतैर्हेतुभिः पदातिनम्): because his finest steeds were slain, Indrajit was reduced to a foot-soldier.
+
+_____________
+
+**6.90.53 (Derivation of Padātin)**
+
+Govindarāja (_Bhūṣaṇa_) derives पदातिनम् (`advancing on foot', पदाभ्यामापतन्तं गच्छन्तम्) from the root अत् (`continuous motion') with the suffix _ṇini_ (अत सातत्यगमने इत्यस्माण्णिनिः), reading न्यवारयत् (`checked him with arrow-flights').
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

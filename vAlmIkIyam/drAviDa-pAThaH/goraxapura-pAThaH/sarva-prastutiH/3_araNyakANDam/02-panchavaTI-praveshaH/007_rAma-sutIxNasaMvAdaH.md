@@ -424,6 +424,80 @@ with both of his hands, and spoke this sentence. [3-7-7]
 
 Then that steadfast sage (_dhīraḥ_), beholding Rāma, the foremost of upholders of dharma, embraced him with both arms (_samāśliṣya ca bāhubhyām_) and spoke these words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.7.1–2 (Reconciling Distance & śailam)**
+
+To harmonize दूरमध्वानं with Śarabhaṅga's earlier statement that Sutīkṣṇa dwelt nearby, **Govindarāja** (_Bhūṣaṇa_) proposes dividing the sandhi as अदूरम् (अदूरमिति छेदः) and, reading विपुलं शैलं महामेघमिवोन्नतम्, takes शैलं as the mountain forest dark as a storm-cloud (शैलसम्बन्धि वनं... श्यामलिका), whereas **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read विमलं शैलं महामेरुमिवोन्नतम्.
+
+_____________
+
+**3.7.3–4 (cīramālāpariṣkṛtam)**
+
+All three commentators gloss सततं (सन्ततं) as densely overspread (व्याप्तं) with trees, and explain चीरमालापरिष्कृतम् as the hermitage precincts adorned with garlands of bark-cloths hung out (वल्कलपङ्क्त्या परिष्कृतमलंकृतम्, _Bhūṣaṇa_; खण्डपटसमूहैः, _Śiromaṇi_).
+
+_____________
+
+**3.7.5–6 (malapaṅkajadhāriṇam & Addressing the Meditating Sage)**
+
+On 5b, **Rāma Varmā** (_Tilaka_) cites Tīrtha's reading मलपङ्कजटाधरम्—wearing matted locks caked with bodily dirt from shunning bathing (उद्वर्तनादिसंस्काराभावाच्छरीरजं मलं पङ्कवत्)—while **Śivasahāya** (_Śiromaṇi_) construes मलपङ्कजधारिणम् as holding in his heart the lotus of the Supreme Lord (मस्य परमात्मनो लः... पङ्कजं). **Govindarāja** (_Bhūṣaṇa_) notes that because Sutīkṣṇa's eyes were closed in yoga (मीलितनयनत्वेन), Rāma announces his own name and asks for a greeting (मा अभिवद).
+
+_____________
+
+**3.7.7–8 (sanātha iva & Esoteric Dhvani)**
+
+**Rāma Varmā** (_Tilaka_) notes that at Rāma's voice Sutīkṣṇa rose from yogic absorption (समाधितो व्युत्थाय). While **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) take सनाथ इव as emphatic (सनाथ एव), _Tilaka_ discerns a Vedāntic suggestion (ध्वनिः): the sage's body (आश्रमः), though ever indwelt by the Lord, becomes manifestly lorded when beheld by the outward eyes (बहिश्चक्षुषाऽनुभवन्).
+
+_____________
+
+**3.7.9–10 (News of Citrakūṭa via Indra)**
+
+Glossing चित्रकूटमुपादाय, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) take it as “having settled at Citrakūṭa” (चित्रकूटमुपादाय प्राप्य स्थितः), whereas **Govindarāja** (_Bhūṣaṇa_) renders it “since going to Citrakūṭa” (चित्रकूटगमनमारभ्य). All three explain 10cd (इहोपयातः... शतक्रतुः) as the source of Sutīkṣṇa's knowledge: Indra visited him after leaving Śarabhaṅga.
+
+_____________
+
+**3.7.11–12 (Triple Epithets & Offering Ascetic Merit)**
+
+In देवो महादेवः सुरेश्वरः, **Rāma Varmā** (_Tilaka_) observes that multiple epithets in reverential speech involve no tautology (पूजावचनेषु पौनरुक्त्यं न दोषाय), and notes in verse 12 that Sutīkṣṇa surrenders all his hard-won merit to the Lord (सर्वं पुण्यमनन्तफलत्वाय भगवत्यर्पयति).
+
+_____________
+
+**3.7.13–14 (Accepting Inner Devotion While Declining Worlds)**
+
+On Rāma's reply अहमेवाहरिष्यामि, **Rāma Varmā** (_Tilaka_) notes that while the surface sense declines a gift unfitting for a kṣatriya (क्षत्रियस्य प्रतिग्रहे नाहमधिकारीति आपाततोऽर्थः), the deeper import is that the Lord Himself bestows the fruits of all actions (सर्वकर्मफलदाता त्वदुपासनात्त्वहमेवेति सूचितम्), whereas **Śivasahāya** (_Śiromaṇi_) construes it as Rāma promising to bring those worlds right here for Sutīkṣṇa.
+
+_____________
+
+**3.7.15–16 (Śarabhaṅga's Lineage as Gautama)**
+
+All three commentators explain गौतमेन in 15d as identifying Śarabhaṅga's clan (गौतमगोत्रेण शरभङ्गेन, _Tilaka_, _Śiromaṇi_; गौतमवंश्येन, _Bhūṣaṇa_), while **Rāma Varmā** (_Tilaka_) glosses सर्वत्र कुशलः as skilled in matters of both this world and the hereafter (इह परत्र च कुशलः).
+
+_____________
+
+**3.7.17–18 (The Hermitage Deer & Distraction of Samādhi)**
+
+On verse 18, **Govindarāja** (_Bhūṣaṇa_), reading महायशः and अटित्वा (“roaming about”), explains that the fearless deer (अकुतोभयाः) disrupt the ascetics' meditation by captivating their minds (लोभयित्वा समाधिभङ्गं जनयित्वा), whereas **Śivasahāya** (_Śiromaṇi_), reading महीयसः and अहत्वा, takes it as deer coming without injuring the orchard trees.
+
+_____________
+
+**3.7.19–21 (Double Entendre on mṛga & Sparing the Sage's Grief)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) observe a play on मृगेभ्यः: Sutīkṣṇa hints at shape-shifting rākṣasas like Mārīca roaming Daṇḍakāraṇya in deer-form, whereas Rāma takes मृगसंघान् as tame hermitage deer—which he could slay (हन्याम्), but doing so would grieve the sage (भवान् मया अभिषज्येत अभिभूयेत, _Bhūṣaṇa_).
+
+_____________
+
+**3.7.22–23 (uparamam & Evening Sandhyā)**
+
+Because slaying the deer would pain Sutīkṣṇa, Rāma declines a long stay (चिरं वासं न समर्थये). On उक्त्वोपरमं, **Rāma Varmā** (_Tilaka_) takes it adverbially (उपरम्य), **Śivasahāya** (_Śiromaṇi_) as an adjective for the tranquil sage (अतिनिवृत्तचित्तं), and **Govindarāja** (_Bhūṣaṇa_) reads वरदं, adding that अन्वास्य पश्चिमां संध्यां means performing _japa_ by the water until nightfall.
+
+_____________
+
+**3.7.24 (Hospitality for the Brothers & Sītā's Share)**
+
+In the closing _Upajāti_, **Govindarāja** (_Bhūṣaṇa_) notes that Sutīkṣṇa served the ascetic fare (नीवारादि) himself rather than through disciples (स्वयं न तु शिष्यमुखेन), and explains the dual पुरुषर्षभाभ्याम् by noting that Sītā partook of the remnants of Rāma's portion (सीता तु रामभुक्तशेषं भुङ्क्त इत्याशयः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

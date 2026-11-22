@@ -456,6 +456,134 @@ fear".
 
 Thinking of your son, I tremble in fear of Rāma, who is learned in Kṣatriya statecraft, astute, and prompt in executing what is opportune!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.8.1–3 (abhyasūyya and manasā prahasāmi)**
+
+Opening the sarga, Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) observe how Vālmīki illustrates the maxim that even a noble heart is corrupted by evil company (कुमतिजनसंसर्गेण महतामपि कालुष्यं स्यात्, Govindarāja; cf. 2.4.27 चलं चित्तं मनुष्याणाम्, _Tilaka_). Mantharā’s wrath (कोपः) springs from Kaikeyī’s disregard of her warning, while her grief (दुःखम्) anticipates the ruin to come. Under Govindarāja’s reading मनसा प्रहसामि त्वाम् in v. 3, Mantharā mocks Kaikeyī inwardly as one laughs at the ravings of a madman (यथोन्मत्तप्रलपिते).
+
+_____________
+
+**2.8.4–5 (rājya-sādhāraṇāt and bhayaṃ bhītād dhi jāyate)**
+
+All three commentators unpack Mantharā’s Machiavellian syllogism in v. 5: because Bharata shares an equal royal claim (राज्यं साधारणं यस्य तस्माद् भरतादेव), Rāma necessarily fears him; and in worldly experience—as with a frightened snake or tiger (व्याघ्रसर्पादिविषये तथा दर्शनात्, Govindarāja)—one who fears another inevitably seeks to destroy the source of his fear (यो यस्माद् भीतः स तस्य भयमवश्यमुत्पादयति).
+
+_____________
+
+**2.8.6 (lakṣmaṇo hi mahābāhuḥ)**
+
+Why does Rāma fear neither Lakṣmaṇa nor Śatrughna? As _Tilaka_ and Govindarāja explain, Lakṣmaṇa is wholly absorbed in Rāma in thought, word, and deed (मनोवाक्कायव्यापारै रामैक्यं गतः), whereas Śatrughna is wholly subordinate to Bharata (भरतपरतन्त्रत्वेन) and would perish with Bharata’s fall (तन्नाशेनैव तन्नाशात्).
+
+_____________
+
+**2.8.7–8 (pratyāsanna-krameṇa and kṣatracāritre)**
+
+Govindarāja (_Bhūṣaṇa_) explains the birth-star sequence (पुनर्वसुपुष्यनक्षत्रजननक्रमेण): because Bharata was born under Puṣya immediately after Rāma (born under Punarvasu), Bharata stands second in line (प्रथमं रामस्य राज्यं प्राप्तं ततो भरतस्य), whereas the twins Lakṣmaṇa and Śatrughna (born under Āśleṣā) are further removed (विप्रकृष्टः व्यवहितः); in royal politics, the first claimant always seeks to eliminate the immediate second (प्रथमो द्वितीयं जिघांसति). In v. 8, _Tilaka_ and Govindarāja gloss क्षत्रचारित्रे as the sixfold royal policy of peace and war (बलनेपाये संधिविग्रहादिप्रयोगे).
+
+_____________
+
+**2.8.9–11 (subhagā kila kausalyā)**
+
+Having stoked fear for Bharata, Mantharā now kindles co-wife jealousy (कैकेय्या ईर्ष्योत्पादनार्थम्, Govindarāja) by picturing Kaikeyī standing with folded hands like a servant (दासीवत्) before Kausalyā.
+
+_____________
+
+**2.8.12 (rāmasya paramāḥ striyaḥ — Defense of Rāma’s ekapatnīvrata)**
+
+All three commentators address a classic exegetical question: why is the plural स्त्रियः used if Rāma has only one wife, Sītā? _Tilaka_ explains the plural as including Sītā’s female companions (सीतासख्यः), while Govindarāja and _Śiromaṇi_ write extensive disquisitions demonstrating that स्त्रियः denotes the women of Rāma’s retinue (परिचारिकाभिप्रायेण) or is an honorific plural for Sītā (सीताया आदरार्थम्), citing 7.99.7 (न सीतायाः परं भार्यां वव्रे स रघुनन्दनः । यज्ञे यज्ञे च पत्न्यर्थं काञ्चनी जानकी भवेत्) to prove Rāma’s absolute vow of monogamy (एकपत्नीव्रतत्वम्).
+
+_____________
+
+**2.8.13 (paramāprītām and devī)**
+
+Both Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) resolve परमप्रीताम् as परम-अप्रीताम् (‘utterly displeased or hostile toward Rāma’). They admire Vālmīki’s epithet देवी (‘the luminous queen’) here: even when subjected to Mantharā’s fiery provocation, Kaikeyī initially remains unshaken in her noble nature (निजकल्याणस्वभावान्न चचाल, _Tilaka_; क्षोभहेतौ नितरां विद्यमानेऽप्यक्षोभ्यमनस्कत्वाद् देवीति तामृषिः श्लाघते, Govindarāja).
+
+_____________
+
+**2.8.14–16 (dharmajño guṇavān dāntaḥ)**
+
+As Govindarāja notes, Kaikeyī refutes Mantharā’s claim of equal royal entitlement (मन्थरोक्तराज्यसाधारण्यं निवर्तयति) point by point: Rāma is धर्मज्ञः (knower of duty), दान्तः (disciplined by His elders, गुरुभिर्दान्तः), and कृतज्ञः (mindful of the care shown to Him in childhood, बाल्ये स्वकृतपालनाद्युपकारस्मरणेन स्वानिष्टशङ्कानिरासः, _Tilaka_), and above all He is the king’s eldest son (राजसुतो ज्येष्ठः).
+
+_____________
+
+**2.8.17–18 (kausalyāto ’tiriktaṃ ca)**
+
+Highlighting Rāma’s impartial filial love, Kaikeyī testifies that Rāma serves her even more attentively than He serves His own mother Kausalyā (कौसल्यातोऽतिरिक्तं च मम शुश्रूषते बहु).
+
+_____________
+
+**2.8.19–21 (anarthadarśinī maurkhyāt)**
+
+When Kaikeyī declares in v. 19 that Rāma’s kingship is virtually Bharata’s own because Rāma loves His brothers as Himself, Mantharā sighs deeply and attacks her premise in v. 21. Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) gloss अनर्थदर्शिनी as “imagining an unreal fantasy” (अनर्थमभूतमर्थं पश्यतीति)—namely, her naive belief that Bharata will inherit the throne after Rāma touches a hundred years.
+
+_____________
+
+**2.8.22 (bhavitā rāghavo rājā rāghavasya ca yaḥ sutaḥ)**
+
+Refuting Kaikeyī’s claim in v. 16 (भरतश्चापि रामस्य ध्रुवं वर्षशतात् परम्), Mantharā points out the law of primogeniture: once Rāma is consecrated, Rāma’s own son (राघवस्यानु यः सुतः) will succeed Him, so that Bharata will be cast out from the royal dynasty altogether (राजवंशात् परिहास्यते बहिष्करिष्यते, Govindarāja).
+
+_____________
+
+**2.8.23–24 (na hi rājñaḥ sutāḥ sarve)**
+
+Answering the objection that Rāma and Bharata might rule jointly, Mantharā cites political science: a kingdom cannot be shared among all sons without inviting chaos and mutual destruction (सुमहाननयो भवेत्), for which reason monarchs entrust the machinery of state (राज्यतन्त्राणि) to a single eldest son even when younger brothers are virtuous (गुणवत्स्वितरेष्वपि).
+
+_____________
+
+**2.8.25–27 (atyantanirbhagnaḥ and lokāntaram)**
+
+Having shown that Bharata is excluded from the throne, Mantharā now argues that he will lose even the ordinary comforts of a prince (अनाथवत् सुखेभ्यश्च राजवंशाच्च अत्यन्तनिर्भग्नः, _Tilaka_ and Govindarāja). In v. 27, all three commentators gloss लोकान्तरं नाययिता (‘will cause him to be sent to another world’) bluntly as “will put him to death” (हनिष्यतीति यावत्, _Tilaka_; हन्तेति यावत्, _Śiromaṇi_).
+
+_____________
+
+**2.8.28 (bāla eva tu mātulyam and saṃnikarṣāc ca sauhārdam)**
+
+Mantharā points out that Daśaratha’s partiality toward Rāma is Kaikeyī’s own doing (केकेयीकृतमप्यनर्थं दर्शयति, Govindarāja): by sending young Bharata away to his maternal uncle’s house (मातुल्यं मातुलसम्बन्धि गृहम्), she severed his daily closeness with the king, whereas constant proximity (संनिकर्षात्) breeds attachment even among motionless trees and creepers (तृणगुल्मलतावृक्षादिषु तत्र सौहार्दमन्योन्याश्लेषरूपम्, _Tilaka_).
+
+_____________
+
+**2.8.29 (bharatānuvaśāt)**
+
+Even Śatrughna—whose presence at court might have kept Bharata’s interests alive in the king’s heart—departed with Bharata out of fraternal devotion (भरतस्यासंनिधानेऽपि शत्रुघ्नसंनिधाने भरते प्रीतिः स्यात् तदपि नास्तीत्याह, Govindarāja).
+
+_____________
+
+**2.8.30 (śrūyate hi drumaḥ kaścit — The fable of the tree and the thorny reeds)**
+
+All three commentators admire this Southern Recension stanza illustrating v. 28’s maxim (स्थावरेष्विव): a forest tree marked for the axe by woodcutters (वनजीविभिः छेत्तव्यः प्राप्तच्छेदनकालः) was spared from being felled (परमाद् भयात् मोचितः) because dense, thorny reed-bushes (इषीकाभिः कण्टकबहुलगुल्मैः) surrounded its trunk closely on all sides (संनिकर्षात् परितः परिवारणरूपात्). Both _Tilaka_ and Govindarāja note the dramatic realism of श्रूयते हि (‘so it is heard’): being a lifelong inmate of the women’s quarters (नित्यान्तःपुरवर्तित्वेन), Mantharā has never seen forest logging herself and cites it by hearsay.
+
+_____________
+
+**2.8.31–32 (aśvinor iva saubhrātram)**
+
+Because Rāma and Lakṣmaṇa guard each other like the twin Aśvins, Rāma will never harm Lakṣmaṇa; all three commentators gloss पापम् in v. 32 as “slaying” (पापं वधम्).
+
+_____________
+
+**2.8.33–34 (rājagṛhād eva vanaṃ gacchatu)**
+
+Notice the double interpretation of v. 33 across the recensions: under the Southern reading वनं गच्छतु राघवः, Mantharā first proposes that Rāma be banished to the forest directly from the palace; under the reading राजगृहादेव वनं गच्छतु ते सुतः (commented upon by _Tilaka_, _Śiromaṇi_, and Govindarāja), Mantharā argues that if Rāma becomes king, it would be safer for Kaikeyī’s own son Bharata to flee into the forest directly from his maternal uncle’s city of Rājagṛha (राजगृहाख्यान्मातुलनगरात्) rather than return to Ayodhyā to be slain (एकपुत्रायाः पुत्रमरणापेक्षया वने तज्जीवनं सम्यक्, _Tilaka_)!
+
+_____________
+
+**2.8.35–36 (sahajo ripuḥ and siṃhena gajayūthapam)**
+
+Govindarāja (_Bhūṣaṇa_) glosses सहजो रिपुः as “an innate enemy by virtue of being a co-wife’s son” (सपत्नीपुत्रत्वात् सहजः शत्रुः), while Śivasahāya (_Śiromaṇi_) notes that रामस्य in v. 35 construes by fitness with three words (स्थलब्रयान्वयि): Bharata is Rāma’s brother (सहजः), deemed a rival (रिपुः) by the prosperous Rāma (समृद्धार्थस्य), and forced to live under Rāma’s dominion (वशे). In v. 36, Mantharā likens Rāma to a lion (सिंहेन) and Bharata to a fleeing elephant-leader (गजयूथपम्).
+
+_____________
+
+**2.8.37 (darpān nirākṛtā pūrvam)**
+
+Reminding Kaikeyī of her past haughtiness toward Kausalyā due to the king’s doting affection (सौभाग्यवत्तया पतिवात्सल्यम्, _Tilaka_), Mantharā warns that Kausalyā will surely requite that grudge (वैरयापनं वैरशुद्धिः) by reducing Kaikeyī to servitude.
+
+_____________
+
+**2.8.38–39 (saṃcintaya rājyam ātmaje)**
+
+Shifting into two sonorous twelve-syllable _Vaṃśastha_ stanzas to close the sarga, Mantharā delivers her final ultimatum: invoking the ruthless maxim that no trace of a rival should be left behind (शत्रुशेषो न स्थाप्यः इति न्यायेन, _Tilaka_), she bids Kaikeyī contrive both Bharata’s enthronement and Rāma’s banishment (विवासकारणम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

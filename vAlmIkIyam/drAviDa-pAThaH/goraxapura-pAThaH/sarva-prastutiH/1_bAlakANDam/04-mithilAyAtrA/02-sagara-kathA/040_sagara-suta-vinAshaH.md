@@ -85,6 +85,14 @@ Lord Brahmā consoles the terrified gods by revealing that the Earth is the belo
 
 “Hearing the words of the deities, the worshipful Grandfather Brahmā (_bhagavān vai pitāmahaḥ_) replied to those gods, who were utterly terrified and bewildered by the death-like might of Sagara’s sons (_susaṃtrastān kṛtāntabalamohitān_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.1–3 (kṛtāntabalamohitān & mahiṣī mādhavasyaiṣā)**
+
+**Rāma Varmā (_Tilaka_)**, **Govindarāja (_Bhūṣaṇa_)**, and **Śiromaṇi** explain _kṛtāntabalamohitān_ as “bewildered by the irresistible might of Sagara’s sons, who acted like Death (_Kṛtānta_) in destroying creatures” (_kṛto ’nto jananāśo yais te kṛtāntāḥ sagaraputrāḥ_). Consoling the gods, Brahmā reveals that the Earth is the beloved consort (_mahiṣī_) of Lord Vāsudeva (_mādhavasya ramāpateḥ_, **Śiromaṇi**), who perpetually sustains her through his yogic power (_yogabaleneti śeṣaḥ_, **Tilaka**) in his incarnation as Sage Kapila.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -224,6 +232,14 @@ This is the cosmic routine. Every day of Brahma is one *kalpa*
 
 “‘Moreover, this cleaving of the earth has been foreseen from eternity as inevitable in every cosmic age (_pṛthivyāś cāpi nirbhedo dṛṣṭa eva sanātanaḥ_), and so too has the destruction of Sagara’s sons been foreseen by far-seeing sages (_sagarasya ca putrāṇāṃ vināśo dīrghadarśinām_).’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.4 (nirbhedo dṛṣṭa eva sanātanaḥ & dīrghadarśinām)**
+
+Why did Kapila not stop the excavation earlier? **Tilaka** and **Govindarāja** explain that the cleaving of the earth to form the ocean basin (_sāgara_) is eternally ordained in every _kalpa_ and revealed in the eternal Vedas (_pratikarpam avaśyaṃbhāvyaḥ, śrutismṛtiṣu sāgarādiśabdair eva_). On _dīrghadarśinām_, **Tilaka** either takes the genitive as agentive (_dīrghadarśibhiḥ dṛṣṭaḥ_) or resolves _vināśo ’dīrghadarśinām_ (“destruction of the short-sighted princes,” matching **Govindarāja**’s _adīrghajīvinām_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -287,6 +303,14 @@ The gods that have come to appeal to Brahma are said to be thirty-three
 
 “Hearing the Grandfather’s words, the thirty-three gods, subduers of foes (_trayastriṃśad ariṃdamāḥ devāḥ_), filled with supreme joy (_paramasaṃhṛṣṭāḥ_), returned once more just as they had come (_punar jagmur yathāgatam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.5 (trayastriṃśad devāḥ)**
+
+All three commentators enumerate the thirty-three Vedic deities: the eight Vasus, eleven Rudras, twelve Ādityas, and two Aśvins (_aṣṭau vasavaḥ ekādaśa rudrā dvādaśādityā aśvinau ca_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -340,6 +364,14 @@ When the sons of Sagara are digging the earth then there emerged an
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “As the earth was being cloven asunder (_pṛthivyāṃ bhidyamānāyām_), there arose from the sons of Sagara a tremendous uproar resembling the crash of a portentous thunderbolt (_prādur āsīn mahāsvanaḥ nirghātasamanisvanaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.6 (nirghātasamanisvanaḥ)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** gloss _nirghāta_ as a portentous atmospheric crash or whirlwind-thunder presaging calamity (_utpātaviśeṣaḥ_, **Govindarāja**; _aśubhasūcakaḥ śabdaviśeṣaḥ_, **Śiromaṇi**). As the sixty thousand princes rent the surface of the earth, the resulting din rivaled a cosmic cataclysm (_nirghātaśabdasadṛśaśabdaḥ mahāsvanaḥ prādur āsīt_).
 </details>
 </details>
 
@@ -397,6 +429,14 @@ Then on hollowing the entire earth, and on making trips around her
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, having dug up the entire earth and circumambulated it (_tato bhittvā mahīṃ sarvāṃ kṛtvā cāpi pradakṣiṇam_), all the sons of Sagara assembled together and spoke these words to their father (_sahitāḥ sāgarāḥ sarve pitaraṃ vākyam abruvan_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.7–8 (bhittvā mahīṃ sarvām & sattvavantaś ca sūditāḥ)**
+
+**Śiromaṇi** explains that in their first campaign the sons of Sagara circumambulated the globe and tore open particular surface tracts wherever they suspected the thief might be hiding (_aśvāpahārakasyāntarnilīnatvaśaṅkayā pṛthivyavayavaviśeṣaṃ vidārya_), slaying the mighty beings (_sattvavanto balavantaḥ_, **Tilaka** and **Govindarāja**) who stood in their path before returning to report to King Sagara.
 </details>
 </details>
 
@@ -465,6 +505,14 @@ Then on hollowing the entire earth, and on making trips around her
 **8:** “‘The entire earth has been traversed by us, and mighty beings have been slain (_parikrāntā mahī sarvā sattvavantaś ca sūditāḥ_)—gods, Dānavas, and Rākṣasas, together with Piśācas, Uragas, and Pannagas (_devadānavarakṣāṃsi piśācoragapannagāḥ_)!
 
 **9:** “‘Yet we behold neither your sacrificial horse nor the abductor of the horse (_na ca paśyāmahe ’śvaṃ te aśvahartāram eva ca_)! What shall we do next? May auspiciousness attend you; let a plan of action be determined in this matter (_kiṃ kariṣyāma bhadraṃ te buddhir atra vicāryatām_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.9–10 (kiṃ kariṣyāma & samanyuḥ)**
+
+All three commentators note the archaic Vedic/Ārṣa elision of the final visarga in _kariṣyāma_ (for _kariṣyāmaḥ_: _salopaś chāndasaḥ_, **Tilaka**; _visargalopaś cārṣaḥ_, **Govindarāja** and **Śiromaṇi**), while **Śiromaṇi** also points out the ārṣa ātmanepada _paśyāmahe_. **Govindarāja** glosses _samanyuḥ_ in v. 10 as Sagara’s fierce indignation at the failure to recover the steed (_aśvālābhakṛtakrodhavān_).
 </details>
 </details>
 
@@ -569,6 +617,14 @@ Commanded by Sagara to pierce deeper into the subterranean depths, the sixty tho
 
 “‘Dig once again—may auspiciousness attend you—piercing right through the surface of the earth (_bhūyaḥ khanata bhadraṃ vo vibhedya vasudhātalam_)! Only when you have found the abductor of the horse and accomplished your purpose shall you return (_aśvahartāram āsādya kṛtārthāś ca nivartata_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.11–12 (kṛtārthāś ca nivartata & abhidravan)**
+
+**Tilaka** explains the predicate _kṛtārthāś ca nivartata_ as an emphatic condition: “Return only after you have accomplished your mission by capturing the horse-thief—otherwise there is no returning!” (_kṛtārthāś cet tadā nivartata nivartadhvam ity arthaḥ, anyathā na nivṛttiḥ_). Both **Tilaka** and **Govindarāja** note the ārṣa active imperative _nivartata_ (for _nivartadhvam_) and the unaugmented imperfect _abhidravan_ (for _abhyadravan_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -670,6 +726,14 @@ While digging the earth there they beheld a mountain similar easterly
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, as that subterranean region was being excavated (_khanyamāne tatas tasmin_), they beheld the directional elephant Virūpākṣa, huge as a mountain, upholding the surface of the earth (_dadṛśuḥ parvatopamaṃ diśāgajaṃ virūpākṣaṃ dhārayantaṃ mahītalam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.13–14 (diśāgajaṃ virūpākṣam & kṛtsnāṃ pṛthivīm)**
+
+**Tilaka** and **Govindarāja** note the feminine _ā_-stem _diśā-_ in _diśāgajam_ (_diśā ity ābantam_) and address an apparent cosmology question in v. 14: if four directional elephants support the quarters, how does eastern Virūpākṣa bear the “entire earth” (_kṛtsnāṃ pṛthivīm_)? **Tilaka** explains that _kṛtsnām_ means the entire eastern sector of the earth (_tadekapradeśalakṣitām iti śeṣaḥ_).
 </details>
 </details>
 
@@ -775,6 +839,14 @@ On certain occasions, oh, Rama of Kakutstha, when that great-elephant
 
 “Whenever on sacred lunar _parvan_ days, O Kākutstha, that great elephant shakes his head from fatigue to gain relief (_yadā parvaṇi viśramārthaṃ mahāgajaḥ khedāc cālayate śīrṣam_), then an earthquake occurs upon the earth (_bhūmikampas tadā bhavet_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.15 (khedāc cālayate śīrṣam — Cause of Earthquakes)**
+
+All three commentators explain that on sacred lunar junctures (_parvaṇi kāle_), when Virūpākṣa gently shifts his head to relieve his fatigue (_viśramārthaṃ śramaśāntyartham, kareṇa bhūmiṃ dhṛtvā kiṃcic calati_), a tremor shakes the earth.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -835,6 +907,14 @@ They circumambulated the great elephant in supplication, oh Rama, and
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having circumambulated that great elephant, the guardian of the eastern quarter, clockwise (_te taṃ pradakṣiṇaṃ kṛtvā diśāpālaṃ mahāgajam_), and paying him due honor (_mānayanto hi te rāma_), they pierced through into Rasātala and proceeded onward (_jagmur bhittvā rasātalam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.16–17 (mānayantaḥ & dakṣiṇāṃ bibhiduḥ)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** note that despite their ruthless slaughter of subterranean Asuras and Nāgas, Sagara’s sons showed reverent veneration (_mānayantaḥ pūjayantaḥ_) toward the cosmic directional elephants (_diggajas_) who sustain the world, circumambulating Virūpākṣa clockwise before leaving the eastern quarter (_pūrvāṃ diśaṃ bhittvā_ / _hitvā tyaktvā_, **Śiromaṇi**) to excavate the south.
 </details>
 </details>
 
@@ -926,6 +1006,14 @@ After splitting the eastern direction then they split opened the southern
 
 “—Mahāpadma of noble soul, resembling a gigantic mountain (_mahāpadmaṃ mahātmānaṃ sumahatparvatopamam_), upholding the earth upon his head; seeing him, they were struck with supreme wonder (_śirasā dhārayantaṃ gāṃ vismayaṃ jagmur uttamam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.18 (mahāpadmam & sumahatparvatopamam)**
+
+In the southern quarter the princes behold the directional elephant _Mahāpadma_ bearing the earth (_gāṃ pṛthivīm_) upon his head and are filled with supreme wonder (_uttamaṃ paramaṃ vismayaṃ jagmuḥ_, **Śiromaṇi**) at his colossal form (_adbhutarūpadarśanāt_). **Govindarāja** notes that the un-lengthened stem _sumahat-_ in _sumahatparvatopamam_ (where Pāṇini 6.3.46 prescribes _sumahā-_) is an Ārṣa usage (_sumahad ity ārṣam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -972,6 +1060,14 @@ On circumabulating that elephant Mahaapada in supplication, they the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having circumambulated him clockwise (_te taṃ pradakṣiṇaṃ kṛtvā_), the sixty thousand sons of the high-souled Sagara cloven the western quarter (_ṣaṣṭiḥ putrasahasrāṇi paścimāṃ bibhidur diśam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.19–20 (paścimāṃ diśam & saumanasam)**
+
+**Govindarāja** and **Śiromaṇi** point out that _diśam_ (“direction”) stands by metonymy for the subterranean tract of land in that quarter (_dikśabdena deśa ucyate_), where the princes circumambulate Mahāpadma and encounter the mountain-like western directional elephant _Saumanasa_ (_saumanasasaṃjñakaṃ diśāgajam_).
 </details>
 </details>
 
@@ -1088,6 +1184,14 @@ Circumambulating that elephant namely Sumanasa in western side, and
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having circumambulated him clockwise and inquired after his well-being (_taṃ te pradakṣiṇaṃ kṛtvā pṛṣṭvā cāpi nirāmayam_), they proceeded, digging as they went, toward the northern quarter presided over by Soma (_khanantaḥ samupakrāntā diśaṃ somavatīṃ tadā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.21–23 (diśaṃ somavatīm, bhadram & samālabhya)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** gloss _nirāmayam_ as “well-being” (_kuśalam_). On _diśaṃ somavatīm_, **Tilaka** explains it as the northern quarter presided over by Soma (_udīcīm_), and **Śiromaṇi** notes that _somavatīm_ is the reading endorsed by Bhaṭṭa (_somavatīm iti bhaṭṭasaṃmataḥ pāṭhaḥ_), whereas **Govindarāja** and **Śiromaṇi** read _haimavatīm_ (“the direction of Himavān”). In the north they behold the snow-white (_himapāṇḍuram_) directional elephant _Bhadra_ and reverently touch him (_samālabhya spṛṣṭvā_, **Tilaka**, **Govindarāja** citing _Amarakośa_).
 </details>
 </details>
 
@@ -1236,6 +1340,14 @@ The sons of Sagara have then gone to the auspicious northeast direction,
 
 “Then, repairing to the celebrated northeastern quarter (_tataḥ prāguttarāṃ gatvā sāgarāḥ prathitāṃ diśam_), all the sons of Sagara furiously dug up the earth in wrath (_roṣād abhyakhanan sarve pṛthivīṃ sagarātmajāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.24 (prāguttarāṃ prathitāṃ diśam)**
+
+All three commentators identify _prāguttarāṃ diśam_ as the northeastern quarter (_aiśānīṃ diśam_), celebrated as auspicious for all sacred rites (_sarvakarmārhatvena prasiddhām_, **Tilaka**). Why does v. 24 use both _sāgarāḥ_ and _sagarātmajāḥ_? **Govindarāja** explains that the two patronymics distinguish the two successive actions of marching and digging (_gamanakhananakriyābhedāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1266,6 +1378,14 @@ The sons of Sagara have then gone to the auspicious northeast direction,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There, all those high-souled princes of terrible speed and mighty strength (_te tu sarve mahātmāno bhīmavegā mahābalāḥ_) beheld the eternal Vāsudeva in the form of Sage Kapila (_dadṛśuḥ kapilaṃ tatra vāsudevaṃ sanātanam_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.25 (kapilaṃ vāsudevaṃ sanātanam)**
+
+In the northeast those princes of gigantic stature (_mahātmānaḥ mahākāyāḥ_, **Govindarāja**) and relentless effort (_atiprayatnāḥ_, **Śiromaṇi**) behold the eternal Lord Vāsudeva manifest as Sage Kapila (_kapilarūpadhāriṇam_, **Tilaka**).
 </details>
 </details>
 
@@ -1328,6 +1448,14 @@ But all those great-souled and great-mighty ones with terrible dash
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—and they beheld the sacrificial horse grazing not far from that divine sage (_hayaṃ ca tasya devasya carantam avidūrataḥ_); thereupon all of them attained peerless exultation, O delight of the Raghus (_praharṣam atulaṃ prāptāḥ sarve te raghunandana_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.26–27 (carantam avidūrataḥ & yajñahanam)**
+
+**Śiromaṇi** notes that _dadṛśuḥ_ from v. 25 carries over to govern _hayam_ (“they saw the horse grazing on grass near that divine sage,” _tṛṇāni bhakṣayantam_, **Govindarāja**). **Tilaka** derives _yajñahanam_ with the _pacādi_ suffix _ac_ (_hantīti hanaḥ_) and underscores the princes’ fatal rashness: without inquiry (_avicārataḥ_), they mistook Kapila himself for the horse-thief. **Śiromaṇi** observes that although Kapila sat alone and serene (_svasthatayā sthite ekākiny api_), all sixty thousand princes armed themselves with spades, plows, trees, and boulders and cried “Stand! Stand!”—thereby betraying their own terror and highlighting Kapila’s overwhelming spiritual radiance.
 </details>
 </details>
 
@@ -1444,6 +1572,14 @@ You the malicious one, you have indeed stolen our ritual-horse, and
 
 “—they rushed upon him in fury and shouted, ‘Stand! Stand!’ (_abhyadhāvanta saṃkruddhās tiṣṭha tiṣṭheti cābruvan_): ‘For it is you who have stolen our sacrificial steed (_asmākaṃ tvaṃ hi turagaṃ yajñiyaṃ hṛtavān asi_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.28–29 (durmedhaḥ & viddhi naḥ sagarātmajān)**
+
+**Govindarāja** and **Śiromaṇi** parse _durmedhaḥ_ as vocative singular (“O dull-witted one!”), while **Śiromaṇi** explains the menace implied in “Know that we are Sagara’s sons” (_aparādhatulyadaṇḍam avaśyaṃ tvaṃ prāpsyasīti dhvanitam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1551,6 +1687,14 @@ On hearing their words, oh, Rama, the descendant of Raghu, then sage
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—filled with mighty wrath, uttered a single resonant _huṃkāra_ syllable of fury then (_roṣeṇa mahatāviṣṭo huṃkāram akarot tadā_); and thereupon, by that high-souled Kapila of unfathomable majesty (_tatas tenāprameyena kapilena mahātmanā_), all those sons of Sagara, O Kākutstha, were reduced to heaps of ashes (_bhasmarāśīkṛtāḥ sarve kākutstha sagarātmajāḥ_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.30 (huṃkāram akarot & bhasmarāśīkṛtāḥ)**
+
+By a single syllable of wrath (_huṃkāra_), the unfathomable sage Kapila (_aprameyena aniyataprabhāveṇa_) instantly reduced all sixty thousand princes to heaps of ashes (_bhasmasamūhatāṃ prāpitāḥ_, **Śiromaṇi**).
 </details>
 </details>
 

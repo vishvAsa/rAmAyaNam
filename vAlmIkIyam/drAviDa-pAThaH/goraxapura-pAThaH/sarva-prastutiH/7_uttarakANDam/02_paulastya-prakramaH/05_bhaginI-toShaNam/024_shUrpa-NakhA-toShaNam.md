@@ -731,6 +731,134 @@ At that very moment, a terrifying, shape-shifting rākṣasī (_ghorā rākṣas
 
 Raising up that sister of his and gently consoling her (_tāṃ svasāraṃ samutthāpya rāvaṇaḥ parisāntvayan_), Rāvaṇa spoke: “What is this, gentle sister (_kim idaṃ bhadre_)? Speak quickly what you desire to tell me (_vaktukāmā ’si me drutam_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.24.1–3 (Indiscriminate Abduction of Maidens and Wedded Wives)**
+
+Introducing Sarga 24, **Rāma Varmā** (_Tilaka_) frames its twofold arc: Rāvaṇa’s return to Laṅkā and his consolation of his newly widowed sister (अथ लङ्कागतेन हतभर्तृकायाः स्वसुराश्वासनम्), while **Śivasahāya** (_Śiromaṇi_) links it straight to Rāvaṇa’s homeward flight at the end of Sarga 23. On 7.24.2, both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) note the masculine agreement of रक्षः सः and sharply distinguish कन्याम् from स्त्रीम्: ‘_kanyā_ denotes an unmarried maiden, whereas _strī_ denotes a married woman with a living husband’ (कन्या अनूढा । स्त्री सभर्तृका), corroborated by Śivasahāya (स्त्रियं सभर्तृकां वा). Neither maidenhood nor marriage restrains Ten-Neck’s hubris.
+
+_____________
+
+**7.24.4 (Tears Like Tongues of Flame)**
+
+Vālmīki marks the captives’ anguish with a stark elemental paradox: water born of fire. Explaining शोकाग्निभयसंभवम्, **Rāma Varmā** analyzes the compound as tear-water generated jointly by the blazing fire of grief and by sheer terror (शोकाग्निना भयेन च संभवो यस्य तद्बाष्पजं जलम्), so scalding that each drop resembles a tongue of flame (_agnyarciṣām tulyam_). **Śivasahāya** glosses समम् as ‘simultaneously, all at one instant’ (सममेककालमेव), conveying the collective shock wave of sorrow that erupts across the entire chariot as hundreds of women mourn their slain kinsmen.
+
+_____________
+
+**7.24.5–6 (Inauspicious Floods of Grief)**
+
+Extending the poetic hyperbole (_atiśayokti_), Vālmīki likens the flower-chariot Puṣpaka brimming with tears to the ocean fed by rushing rivers (_nadībhir iva sāgaraḥ_). Both **Rāma Varmā** and **Govindarāja** highlight the ominous adjective अशिव within the compound भयशोकाशिवाश्रुभिः: their tears of fear and grief are ‘inauspicious, foreboding doom’ (भयशोकाभ्यामशिवा अशुभा अश्रवो यासां ताभिः). Because every cosmic lineage—Nāgas, Gandharvas, great sages, Daityas, Dānavas, Yakṣas, and mortals—is represented among those weeping captives, Rāvaṇa gathers against himself the united moral indictment of all three worlds.
+
+_____________
+
+**7.24.7–9 (Golden Grace Under Suffering)**
+
+Vālmīki juxtaposes classic _kāvya_ beauty—full-moon faces, slender waists, and burnished-gold radiance—against sheer terror. **Śivasahāya** (_Śiromaṇi_) construes 7.24.7–10ab as a single grand periodic sentence, interpreting मध्ये वज्रवेदिसमप्रभाः (in the Parimal reading) as ‘radiant like a diamond altar between their breasts’ (स्तनयोरन्तराले वज्रवेदिसमा प्रभा यासाम्). **Rāma Varmā** (_Tilaka_) notes an alternate lexical gloss for वज्रवेदि: a yellow-hued altar-platform of diamond luster, underscoring the women’s lustrous complexion even amid distress.
+
+_____________
+
+**7.24.10 (Puṣpaka Like a Pent-Up Agnihotra Hearth)**
+
+As the captives’ scorching sighs fill the enclosed aerial car, Vālmīki introduces a potent ritual simile (_upamā_). Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss the compound सन्निरुद्धाग्नि identically: ‘Puṣpaka shone like an _agnihotra_ fire-pit in which the sacred fires have been pent up and constrained’ (सन्निरुद्धा अग्नयो यस्मिंस्तादृशमग्निहोत्रमग्निकुण्डमिव पुष्पकं भाति). The image foreshadows spiritual retribution: Rāvaṇa has trapped inside his own vehicle a sacred fire of chaste women’s agony that is bound to consume him.
+
+_____________
+
+**7.24.11–12 (Does in a Lion’s Clutch)**
+
+Pivoting to the captives’ inner dread, **Śivasahāya** links 7.24.10cd–11 directly: fallen into Ten-Neck’s grasp like helpless does in a lion’s power (सिंहवशा मृग्य इव), the women remain gripped by grief. Both **Rāma Varmā** and Śivasahāya supply बभूव with चिन्तयती in 7.24.11 to express their stunned terror—one fearing cannibalism (_bhakṣayiṣyati_), another sudden execution (_mārayet_)—before memory of parents, husbands, and brothers breaks their silence into collective lamentation.
+
+_____________
+
+**7.24.13–15 (Grief, Longing for Death, and Past Karma)**
+
+Individual voices swell into a chorus of despair. On 7.24.14a, **Rāma Varmā** (_Tilaka_) resolves the elliptical syntax as ‘deprived of that husband, what can I do—nothing at all!’ (तस्माद्भर्तुर्विनाकृताहं कथं नु करिष्यामि), while **Śivasahāya** (_Śiromaṇi_) glosses तस्मात् as ‘that renowned, cherished husband’ (तस्मात्प्रसिद्धात्). In classic Indian ethical reflection, the women turn from pleading with Death (_Mṛtyu_) to searching their own past lives (_dehāntare_) for whatever grave misdeed (_duṣkṛtaṃ karma_) could have brought so boundless a calamity.
+
+_____________
+
+**7.24.16–17 (Fie Upon Mortal Frailty)**
+
+Confronting Rāvaṇa’s overwhelming boon-given strength, the captives cry out against human helplessness. Both **Rāma Varmā** and **Śivasahāya** supply मानुषात् लोकात् to complete नास्ति खल्वधमः परः: no other world is lower than the human realm—mortal existence itself is the most vulnerable (मनुष्यलोक एवाधम इत्यर्थः). Just as the rising sun effortlessly eclipses the stars, mighty Rāvaṇa sweeps away their husbands. Rāma Varmā glosses वधोपायेषु in 7.24.17 as ‘means producing slaughter, such as weapon-strikes’ (वधोत्पादकेषूपायेषु शस्त्रघातादिषु), while Śivasahāya (reading रज्यते) notes his perverse delight in killing (अनुरक्तोऽभवत्).
+
+_____________
+
+**7.24.18 (A Prowess Befitting Austerity, Yet Devoid of Shame)**
+
+Moving from grief to moral judgment, the captives marvel that Rāvaṇa feels no self-reproach (जुगुप्सते निन्दति, **Rāma Varmā**) despite his depravity. Yet they carefully distinguish martial valor from sexual predation: his prowess (_vikrama_) is altogether fitting (_sadṛśaḥ_)—Rāma Varmā supplying ‘befitting one who earned Brahmā’s favor through penance’ (तपःसंपादितभगवत्प्रसादस्येति शेषः), and **Śivasahāya** glossing ‘befitting his noble lineage’ (कुलोचितः). This measured concession sharpens the devastating moral indictment and curse delivered in the very next verse.
+
+_____________
+
+**7.24.19–20 (The Pativratās’ Curse: Death Through a Woman)**
+
+Delivering the moral climax of the sarga, the captives declare that violating other men’s wives (_paradārābhimarśanam_) is utterly beneath a warrior. All three commentators—**Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_)—gloss the archaic form परक्यासु as परकीयासु (‘other men’s women’). Śivasahāya further glosses स्त्रीकृतेन as ‘specifically through the agency or cause of a woman’ (स्त्रीप्रयत्नेनैव). Together with Vedavatī’s earlier curse (7.17) and Nalakūbara’s coming imprecation (7.26), this pronouncement seals Rāvaṇa’s fate to perish on account of Sītā.
+
+_____________
+
+**7.24.21–22 (Heavenly Ratification and Rāvaṇa’s Dimmed Splendor)**
+
+The cosmos instantly ratifies the chaste wives’ (_pativratāḥ_) curse: divine drums thunder in the heavens and flowers rain down—the unmistakable sign of _satya-vacana_ (infallible truth-speech). **Śivasahāya** observes that struck simultaneously by the curse of virtuous women, Rāvaṇa loses his radiance and turns downcast, interpreting the particle इव in विमना इव emphatically as एव (‘he truly grew crestfallen’, विमना एव बभूव). Yet ignoring the warning, he enters Laṅkā amid his demons’ adulation.
+
+_____________
+
+**7.24.23–24 (Śūrpaṇakhā’s Sudden Collapse)**
+
+Even before the echo of the captives’ curse fades, domestic tragedy confronts Rāvaṇa at his own threshold: his sister Śūrpaṇakhā collapses suddenly at his feet (रावणसमीपदेशे पतिता, **Śivasahāya**). Tenderly lifting her up, Rāvaṇa asks what has befallen her. **Rāma Varmā** makes a sharp psychological observation on 7.24.24: by asking ‘What do you wish to tell me?’, Rāvaṇa betrays that in the heat of conquering Aśmanagara he had not even specifically realized that Vidyujjihva had fallen by his sword (एवं वदता विद्युज्जिह्ववधोऽपि विशिष्य न ज्ञायत इति द्योत्यते).
+
+_____________
+
+**7.24.25–27 (Śūrpaṇakhā’s Grief and Accusation)**
+
+Unfolding 7.24.26–28 as one impassioned outpouring (सार्धश्लोकत्रयमेकान्वयि, **Śivasahāya**), Śūrpaṇakhā accuses Rāvaṇa of destroying her own life along with her husband Vidyujjihva among the fourteen thousand Kālakeyas. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) unpack the stark equation of 7.24.27cd: ‘Because my husband has been slain, I myself have been slain by you, my own brother’ (यतो मे भर्ता हतः अतोऽहं बन्धुना त्वया स्वयमेव हतास्मि). Notably, Parimal’s reading भ्रातृगन्धिना (‘brother in name only’) intensifies her bitter rebuke.
+
+_____________
+
+**7.24.28 (Kinship Duty Even in War)**
+
+Mourning the lifelong stigma of widowhood (_vaidhavya-śabdam_), Śūrpaṇakhā appeals to elementary family dharma: a brother-in-law (_jāmātā_, used in epic kinship idiom for sister’s husband) must be shielded even on the battlefield. Both **Rāma Varmā** and **Govindarāja** note the rhetorical intonation (_kāku_) in ननु नाम: ‘Is a brother-in-law not to be protected even in battle? Assuredly he must be!’ (नन्विति पृथक्पदम् । जामाता नाम समरेष्वपि रक्ष्यो न वा । काकुः । रक्ष्य एवेत्यर्थः). **Śivasahāya** highlights her closing barb—slaying him with his own hand without shame (_na lajjase_).
+
+_____________
+
+**7.24.29–30 (Rāvaṇa’s Conciliatory Comfort)**
+
+Faced with his sister’s tears, the usually ruthless conqueror responds with surprising gentleness (_sāma-pūrvam_), addressing her affectionately as वत्से (‘dear child’). **Rāma Varmā** explains the reassurance न भेतव्यं च सर्वशः (‘fear nothing on any side’) specifically in light of a widow’s social vulnerability: ‘Do not fear neglect or ill-treatment even from kinsmen and others—move about freely!’ (बान्धवादिभ्योऽपि मा भैषीः । स्वैरं चरेति भावः). **Śivasahāya** paraphrases 7.24.30a concisely (रुदित्वा अलं रोदनं न कर्तव्यम्), as Rāvaṇa pledges gifts and honors.
+
+_____________
+
+**7.24.31–32 (The Plea of Battle-Frenzy)**
+
+Rather than offering an idle excuse, Rāvaṇa pleads the blind fury of combat (_yuddha-pramattaḥ_)—consistent with **Rāma Varmā**’s observation on 7.24.24 that he had not consciously recognized Vidyujjihva in the melee. **Śivasahāya** (_Śiromaṇi_) paraphrases 7.24.31–32 directly (following the Parimal reading नाहमज्ञासिषम्): swept away by combat while showering shafts, he failed to distinguish kinsmen from foes and unwittingly slew his brother-in-law. By calling her शुभे (‘fair one’) and स्वसः (‘sister’), Rāvaṇa shifts seamlessly from apology to royal recompense.
+
+_____________
+
+**7.24.33 (Why Rāvaṇa Sends Her to Khara)**
+
+Addressing what is proper at this moment (कर्तव्यत्वेनेति शेषः, **Rāma Varmā** and **Govindarāja**), Rāvaṇa dispatches Śūrpaṇakhā to live beside Khara. Both Rāma Varmā and Govindarāja clarify the kinship term भ्रातुः—Khara is called her brother because he is her maternal aunt’s son (मातृष्वसेयस्य खरस्य भ्रातृत्वाद्भ्रातुरित्युच्यते)—and uncover a shrewd political motive behind sending her away from Laṅkā: ‘Because I am fully occupied by the burdens of imperial rule, I have no leisure to attend constantly to honoring you’ (मम तु राज्यपारवश्येन त्वत्संमाननेऽवकाशाभावादिति भावः).
+
+_____________
+
+**7.24.34–35 (Lordship in Expedition, Largesse, and Obedience)**
+
+To sweeten her relocation, Rāvaṇa matches the fourteen thousand slain Kālakeyas with a garrison of fourteen thousand rākṣasas under Khara. Both **Rāma Varmā** and **Govindarāja** gloss प्रयाणे दाने च as authority in ‘dispatching troops on campaigns and distributing food, drink, and garments’ (प्रयाणे प्रेरणे दाने अन्नपानवस्त्रादिदाने). **Śivasahāya** draws out a pointed warning embedded in 7.24.35cd: Khara shall remain sovereign _precisely while carrying out her orders_—implying that should he ever violate her command, Rāvaṇa will strip away his lordship (तवाज्ञाभङ्गकरणे तत्प्रभुत्वं विनाशयिष्यामीति सूचितम्).
+
+_____________
+
+**7.24.36–37 (Dūṣaṇa’s Commission and Khara’s Mandate)**
+
+Completing his settlement, Rāvaṇa dispatches Khara to garrison the Daṇḍaka wilderness with the mighty Dūṣaṇa as army commander (_balādhyakṣaḥ_). **Śivasahāya** (_Śiromaṇi_) underscores the repeated condition in 7.24.37: ‘When Khara obeys your word, he shall remain sovereign over the rākṣasas—his lordship will never perish’ (खरः यदा ते वचनं करिष्यति तदा रक्षसां प्रभुरेव भविष्यति तत्प्रभुत्वं न कदापि नङ्क्ष्यतीत्यर्थः). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) concisely conclude their glosses on this pledge of unwavering obedience (तवादेशं सदा कुर्वन्भविष्यति).
+
+_____________
+
+**7.24.38–39 (The Garrison of Fourteen Thousand Rākṣasas)**
+
+Following his word with swift action, Ten-Neck assigns fourteen thousand formidable rākṣasas to serve as Khara’s standing army (अस्य खरस्य सैन्यं भवितुमिति शेषः आदिदेश, **Śivasahāya**). Escorted by that fearsome host, the undaunted (_akutobhayaḥ_) Khara marches straight into the Daṇḍaka forest. Through this exact troop figure—fourteen thousand rākṣasas under Khara and Dūṣaṇa—Agastya seamlessly bridges the primordial backstory of Book VII into the celebrated Janasthāna battle of the _Araṇyakāṇḍa_ (3.20–30), where Rāma will annihilate this very garrison single-handedly.
+
+_____________
+
+**7.24.40 (A Thornless Realm—and the Seed of Rāvaṇa’s Doom)**
+
+Installing himself in Daṇḍaka, Khara establishes an unchallenged, ‘thornless’ dominion (_nihatakaṇṭakam_—free of rival foes), while Śūrpaṇakhā takes up residence in those very woods. The dramatic irony spanning Sarga 24 is complete: the curse of the abducted _pativratā_ wives (7.24.20) has just decreed that Rāvaṇa shall perish because of a woman, and in the very same hour his attempt to placate his widowed sister places Śūrpaṇakhā in the Daṇḍaka forest—the exact catalyst that will bring Sītā’s abduction and Ten-Neck’s ruin.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

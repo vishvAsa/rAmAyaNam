@@ -3946,6 +3946,242 @@ asleep fully get up at the close of night.
 
 **74:** Through the fragrance of those supreme herbs (_gandhena tāsāṃ pravarauṣadhīnām_), all the foremost monkey heroes—and those who had been slain (_hatāś ca ye syuḥ_)—became in an instant freed of arrows and healed of pain (_viśalyā virujāḥ kṣaṇena_), awakening like sleepers at the close of night (_suptā niśānteṣv iva samprabuddhāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.74.1–2 (Stupor of the Vānara Host)**
+
+Rāma Varmā (_Tilaka_) glosses आसादितयोः as rendered motionless (निश्चेष्टीकृतयोः), Śivasahāya (_Śiromaṇi_) as afflicted and unconscious (दुःखितयोर्विसंज्ञयोः), and Govindarāja (_Bhūṣaṇa_) as prostrated (अवसादितयोः). When Rāma and Lakṣmaṇa collapsed, Sugrīva and the other leaders were paralyzed (करणाक्षमा बभूवुः), prompting Vibhīṣaṇa to comfort them with words that _Tilaka_ glosses as eminently suited to the hour (अप्रतिमैरत्यन्तं कालोचितैः).
+
+_____________
+
+**6.74.3–4 (Honoring Brahmā's Decree)**
+
+_Tilaka_ explains that the two princes possess divine counter-weapons in their quivers capable of shattering the _Brahmāstra_ (राघवाभ्यामिदं हन्तुं योग्यमस्त्रं तूणीरेऽस्ति), yet out of reverence for Brahmā's boon (स्वयंभुवो वाक्यं मन्त्ररूपमुद्वहन्तौ मानयन्तौ) they refrain from counter-attacking and will rise again shortly (क्षणानन्तरमुत्थास्यत इति शेषः). _Śiromaṇi_ adds that मानयन्तौ (“honoring it as their own”) exemplifies Rāma's innate virtue of protecting those devoted to him (स्वकीयपरिपालकत्वं स्वाभाविको गुणः).
+
+_____________
+
+**6.74.5–6 (Hanūmān's Submission to the Missile)**
+
+Both _Śiromaṇi_ and _Bhūṣaṇa_ explain ब्राह्ममस्त्रं मानयित्वा as Hanūmān's submitting to the _Brahmāstra_ for a single _muhūrta_ (मुहूर्तमात्रं ब्रह्मास्त्रपरवशः स्थित्वा) before rising to succor the surviving Vānaras.
+
+_____________
+
+**6.74.7–9 (Torchlight Inspection of the Carnage)**
+
+Commenting on तदा रात्रौ, Rāma Varmā (_Tilaka_) observes that Indrajit unleashed the _Brahmāstra_ at dusk as night fell (सन्ध्यायां रात्रावेवमस्त्रप्रयोग इति ध्वनितम्), requiring Hanūmān and Vibhīṣaṇa to carry torches (उल्काहस्तौ). Both Śivasahāya (_Śiromaṇi_) and Govindarāja (_Bhūṣaṇa_) note that verses 8–9 form a single syntactic unit (श्लोकद्वयमेकान्वयम्), and all three commentators explain the contrast between स्रवद्भिः क्षतजं and प्रस्रवद्भिः by supplying urine for the latter (मूत्रमिति शेषः; _Bhūṣaṇa_: प्रस्रवद्भिर्मूत्रयद्भिः), describing the involuntary agony of the wounded monkeys.
+
+_____________
+
+**6.74.10–11 (The Fallen Commanders)**
+
+_Śiromaṇi_ and _Bhūṣaṇa_ construe verses 10–11 as a two-verse unit (श्लोकद्वयमेकान्वयम्), and all three gloss हतान् as struck down or nearly dead (हतप्रायान्, प्रहृतानिति वा).
+
+_____________
+
+**6.74.12 (The Five Divisions of the Day)**
+
+All three commentators divide the thirty-_ghaṭikā_ daytime into five six-_ghaṭikā_ periods (प्रातःसङ्गवमध्याह्नापराह्णसायाह्नाः): after spending the first four divisions performing his ritual at Nikumbhilā (चतुर्भिर्भागैश्च ब्रह्मास्त्रसाधनम्), Indrajit felled sixty-seven crores of Vānaras in the fifth period, _sāyāhna_ (पञ्चमेन सायाह्नसंज्ञेन नाडिकाषट्केनेत्यर्थः), through the missile dear to Brahmā (स्वयंभुवो वल्लभेन).
+
+_____________
+
+**6.74.13–15 (Why They Seek Out Jāmbavān)**
+
+Explaining why Hanūmān and Vibhīṣaṇa search for Jāmbavān (मार्गते जाम्बवन्तं) after already spotting him in verse 10, Rāma Varmā (_Tilaka_) remarks that they seek him out specifically to obtain wise counsel suited to the crisis (तस्य बाहुल्येन प्रकृतसदृशोपदेशलाभार्थमिति भावः), and Śivasahāya (_Śiromaṇi_) adds that Hanūmān is confident Jāmbavān's supreme wisdom will restore everyone to life (तद्दर्शनेन सर्वे प्राणा भविष्यन्तीति हनूमन्निश्चयस्सूचितः). On स्वभावजरया युक्तं वृद्धं, _Tilaka_ distinguishes physical signs of age (वलिपलितरूपां) from seniority, while _Śiromaṇi_ glosses स्वभाव as his innate fortitude (स्वाभाविकधैर्यादिना).
+
+_____________
+
+**6.74.16–17 (Faltering Speech and Blinded Eyes)**
+
+_Tilaka_ glosses कृच्छ्रादभ्युद्गिरन् वाक्यम् as articulating faltering words with effort (प्रस्फुरद्वाक्यमभ्युद्गिरन् उच्चारयन्), and Govindarāja (_Bhūṣaṇa_) explains it as speaking with indistinct syllables (अस्पष्टवर्णम्) while recognizing Vibhīṣaṇa by voice alone (स्वरेण त्वाभिलक्षये).
+
+_____________
+
+**6.74.18 (Inquiry After Hanūmān)**
+
+_Śiromaṇi_ unpacks सुप्रजाः as blessed with a noble son (शोभनपुत्रवती), applying to both Añjanā and the Wind-god Mātariśvā, while _Tilaka_ and _Bhūṣaṇa_ explain क्वचित् as an interrogative particle equivalent to कच्चित् (क्वचिदिति प्रश्नार्थकम्).
+
+_____________
+
+**6.74.19–20 (Vibhīṣaṇa's Astonishment)**
+
+Govindarāja (_Bhūṣaṇa_) notes that verses 19–20 form a single sentence (श्रुत्वेत्यादिश्लोकद्वयमेकं वाक्यम्). Rāma Varmā (_Tilaka_) glosses आर्यपुत्रौ as the two Rāghavas (राघवौ) and Śivasahāya (_Śiromaṇi_) as the two sons of the noble Daśaratha (आर्यस्य दशरथस्य पुत्रौ): Vibhīṣaṇa wonders why Jāmbavān passes over Rāma, Lakṣmaṇa, King Sugrīva, and Prince Aṅgada to display supreme affection (परः स्नेहः) for the Wind-god's son.
+
+_____________
+
+**6.74.21–23 (Hanūmān as the Army's Sole Lifeline)**
+
+Addressing Vibhīṣaṇa as tiger among Nairṛtas (नैर्ऋतशार्दूल), the aged bear-king explains the paradox in verse 22: if Hanūmān survives, the fallen host is as good as unslain (हतमप्यहतं बलम्), whereas if Hanūmān has perished, even the survivors are dead (जीवन्तोऽपि मृता वयम्), for only Māruti—who matches the wind in velocity and Agni (वैश्वानर) in might—can bring back the means of revival (जीविताशा ततो भवेत्).
+
+_____________
+
+**6.74.24 (Hanūmān's Filial Reverence)**
+
+Hearing Jāmbavān's tribute, Hanūmān steps forward, clasps the elder's feet (गृह्य जाम्बवतः पादौ), and salutes him reverently (विनयेनाभ्यवादयत्).
+
+_____________
+
+**6.74.25–27 (Jāmbavān's Revival and Charge to Hanūmān)**
+
+Govindarāja (_Bhūṣaṇa_) explains हनूमतो वाक्यं in verse 25 as Hanūmān's formal self-introduction (“I am Hanūmān,” हनूमानहमस्मीत्यभिवादनवाक्यम्) uttered while clasping the elder's feet: though his faculties were anguished (विव्यथितेन्द्रियः), Jāmbavān felt reborn. On विक्रमपर्याप्तः in verse 27, Rāma Varmā (_Tilaka_) and _Bhūṣaṇa_ gloss it as an inverted compound for पर्याप्तविक्रमः (“fully endowed with valor,” विक्रमपूर्ण इति यावत्).
+
+_____________
+
+**6.74.28–29 (The Sky-Path Above the Ocean)**
+
+_Tilaka_ glosses सादितौ as tormented (पीडितौ) and Śivasahāya (_Śiromaṇi_) as covered with shafts (बाणैराच्छादितौ), whom Hanūmān must free of embedded arrows (विशल्यौ कुरु). Both _Tilaka_ and _Bhūṣaṇa_ note that the accusative सागरम् is governed by the reduplicated preposition उपर्युपरि (“directly above the ocean,” सागरस्योपरिप्रदेशे).
+
+_____________
+
+**6.74.30 (Mount Ṛṣabha and Kailāsa)**
+
+All three commentators identify ऋषभम् as the golden mountain peak named Ṛṣabha (स्वर्णमयं ऋषभं तदाख्यम्) situated upon Himavān beside the summit of Kailāsa.
+
+_____________
+
+**6.74.31–32 (The Luminous Herb Mountain)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) identify the two peaks (तयोः शिखरयोः) flanking the Herb Mountain as Ṛṣabha and Kailāsa (ऋषभकैलासशृङ्गयोः मध्ये). Both _Tilaka_ and Govindarāja (_Bhūṣaṇa_) note the epic case-interchange in ओषधयो दीप्ताः, where nominative plural stands for the accusative object (व्यत्ययेन द्वितीयार्थे प्रथमा) of द्रक्ष्यसि.
+
+_____________
+
+**6.74.33 (Functions of the Four Mahauṣadhis)**
+
+All three commentators define the four herbs precisely: _Mṛtasañjīvanī_ restores the dead to life (मृतं सञ्जीवयतीति मृतसञ्जीवनी); _Viśalyakaraṇī_ expels embedded arrowheads so the revived warrior can move (जीवनानन्तरं संचारक्षमतायै विशल्यं करोतीति); _Saṃdhānī_ knits together torn skin, sinews, and even severed heads and trunks (छिन्नशिरःकबन्धयोरपि यथापूर्वं नाडीसंधानकरणीम्); and _Suvarṇakaraṇī_ (or _Sāvarṇyakaraṇī_) erases wound-discoloration to restore the body's natural golden hue (व्रणकृतवैवर्ण्यं विहाय प्रदेशान्तरसावर्ण्यं करोतीति).
+
+_____________
+
+**6.74.34–36 (Swelling on Mount Trikūṭa)**
+
+Filled with surges of strength (बलोद्धर्षैः = बलोद्रेकैः), Hanūmān mounts the summit of Trikūṭa (पर्वततटाग्रस्थस्त्रिकूटशिखरस्थः) like a second mountain.
+
+_____________
+
+**6.74.37–38 (Trikūṭa Sinking Under Hanūmān's Tread)**
+
+Rāma Varmā (_Tilaka_) glosses निषसाद as sank down (निम्नीभूतोऽभवत्) under the weight of Hanūmān's feet. On हरिवेगाच्च जज्वलुः, _Tilaka_ and Śivasahāya (_Śiromaṇi_) explain that the mountain's trees (नगाः वृक्षाः) toppled from the tremor of Hanūmān's launch-posture and caught fire from mutual friction (परस्परसंघर्षजाग्निवशतो जज्वलुश्च), while Govindarāja (_Bhūṣaṇa_) attributes the blaze to the fiery energy of Hanūmān's assumption of strength for his trans-Himalayan flight (हिमवदुत्तरप्रदेशस्थौषधिपर्वतपर्यन्तगमनोचितशक्त्यास्थानवेगात्).
+
+_____________
+
+**6.74.39–41 (Why Both the Vānaras and Laṅkā Reel)**
+
+Both _Tilaka_ and _Bhūṣaṇa_ explain the geography linking verses 39 and 40: because the slopes of Mount Trikūṭa served as the battlefield (त्रिकूटस्यैव युद्धभूमित्वात्) while the city of Laṅkā crowned its summit (तच्छिखरस्य च लङ्कात्वात्), Hanūmān's compression of Trikūṭa simultaneously threw the Vānaras off balance below and set Laṅkā's gates and towers swaying above as though dancing (प्रनृत्तेवाभवत्).
+
+_____________
+
+**6.74.42 (The Malaya Peak in Laṅkā)**
+
+_Bhūṣaṇa_ notes that verses 42–45 form an additional four-verse passage in his recension (इदं चतुःश्लोक्यधिका गो. पुस्तके), where मलयपर्वतम् designates the Malaya ridge of Laṅkā (लङ्कायां मलय उच्यते).
+
+_____________
+
+**6.74.43–46 (The Strategic Purpose of Hanūmān's Roar)**
+
+After expanding to cloud-like stature (मेघसंकाशो ववृधे) on the sixty-_yojana_ peak, Hanūmān opens his jaws like the blazing submarine fire (वडवानलवज्जाज्वल्यमानं मुखं) and bellows. Both Rāma Varmā (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) explain the tactical motive behind त्रासयन् रजनीचरान्: Hanūmān roared to strike terror into the Rākṣasas so that none of them would sally forth from Laṅkā against the helpless Vānara camp before he returned with the herbs (यावदोषध्यानयनं तावद्रक्षोनिर्गमो मा भूदिति तेषां त्रासार्थं ननादेति भावः).
+
+_____________
+
+**6.74.47 (Paralysis of the Garrison in Laṅkā)**
+
+Śivasahāya (_Śiromaṇi_) glosses राक्षसव्याघ्राः as the foremost of Rākṣasas (राक्षसश्रेष्ठाः), who upon hearing the intensive roar (नानद्यमानस्य) were unable to move even slightly (किञ्चिच्चलितुमपि न शेकुः).
+
+_____________
+
+**6.74.48 (Homage Before the Leap)**
+
+While _Tilaka_ glosses समीहत as contemplated (चिन्तितवान्) and _Śiromaṇi_ as undertook (समैहत अकरोत्) after bowing to the Ocean, _Bhūṣaṇa_ reads नमस्कृत्वाथ रामाय and explains it as invoking his tutelary deity Rāma (इष्टदेवतानमस्कारः) to crown his mission with success.
+
+_____________
+
+**6.74.49 (Naturalism of the Launch Posture)**
+
+Rāma Varmā (_Tilaka_) praises verse 49 as a vivid _svabhāvokti_ (जातिवर्णनम्), while Govindarāja (_Bhūṣaṇa_) explains the significance of each gesture: raising his tail (पुच्छमुद्यम्य) signals surging enthusiasm (उत्साहातिरेक उक्तः); bending his back (पृष्ठविनमनेन) regulates the vital breath for aerial flight (आकाशगमनानुकूलप्राणवायुनिरोध उक्तः); flattening his ears (श्रवणनिकुञ्चनेन) shows unswerving steadiness (अलोलीभवनम्); and opening his jaws (वक्त्रव्यादानेन) marks fierce concentration (अभिनिवेशः).
+
+_____________
+
+**6.74.50 (Wild Monkeys Swept into the Sea)**
+
+All three commentators clarify प्राकृतवानरान्: these are not soldiers of Rāma's army, but ordinary wild monkeys inhabiting the forests of Mount Trikūṭa (त्रिकूटवननित्यवासिनः) swept aloft with trees and rocks by the slipstream of Hanūmān's arms and thighs (बाहूरुवेगेन उद्धताः), which splashed into the ocean as their momentum subsided (क्रमेण क्षीणवेगाः सन्तः).
+
+_____________
+
+**6.74.51–54 (Flight Like Garuḍa and Viṣṇu's Discus)**
+
+_Tilaka_ glosses भुजंगारिः as Garuḍa (गरुडः). On the variant जगाम मेरुं in verse 51c, _Śiromaṇi_ and _Bhūṣaṇa_ explain that it denotes Himavān or a peak within the Himavān range near Kailāsa (अस्ति ह्यन्यो हिमवदन्तर्वर्ती मेरुः).
+
+_____________
+
+**6.74.55–58 (Arrival at Cloud-White Himavān)**
+
+Racing with the speed of the wind (वातरंहसा) while keeping Jāmbavān's directions in mind (स्मरञ्जाम्बवतो वाक्यं), Hanūmān reaches Mount Himavān, whose peaks gleam like banks of white clouds (श्वेताभ्रचयसंकाशैः) and whose holy hermitages (महाश्रमाणि) are thronged by celestial sages.
+
+_____________
+
+**6.74.59 (Sacred Landmarks of the Gods)**
+
+The commentators identify the mythic sanctums of Himavān: ब्रह्मकोशं is the seat of Hiraṇyagarbha; रजतालयं is silver Kailāsa; रुद्रशरप्रमोक्षम् is where Rudra discharged his arrow against Tripura; and हयाननं and ब्रह्मशिरः mark the shrines of Hayagrīva and Brahmā's severed fifth head.
+
+_____________
+
+**6.74.60 (The Binding of the Sun and the Earth's Navel)**
+
+Reading वज्रालयं in 60a, Govindarāja (_Bhūṣaṇa_) explains it as the spot where Brahmā bestowed the _vajra_ upon Indra (इन्द्राय ब्रह्मणा वज्रप्रदानस्थानम्). On सूर्यनिबन्धनं, Śivasahāya (_Śiromaṇi_) glosses it as the gathering-place of all suns (सकलसूर्यसमावेशस्थानम्), whereas _Bhūṣaṇa_ explains it as where Viśvakarman bound the Sun upon his lathe to pare his rays for Saṃjñā's sake (संज्ञादेवीप्रीतये विश्वकर्मणा भ्रमणारोपणाय सूर्यनिबन्धस्थानम्). Rāma Varmā (_Tilaka_) glosses नाभिं च वसुन्धरायाः as the aperture leading to Pātāla (पातालप्रवेशरन्ध्रम्).
+
+_____________
+
+**6.74.61–62 (The Blazing Herb Mountain and Vāsava's Messenger)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain हिमवच्छिलां as the meditation rock of Lord Śiva (भगवतो रुद्रस्य तपःसमाधिपीठम्) and वृषं (or ऋषभं in Govindarāja's _Bhūṣaṇa_) as the golden mountain peak described by Jāmbavān. _Bhūṣaṇa_ notes that the herbs glowed visibly in the night (रात्रौ ज्वलन्तीभिः तृणज्योतिर्भिः). On the epithet वासवदूतसूनुः (“son of Indra's messenger”), _Tilaka_ and _Bhūṣaṇa_ explain that Vāyu drives the storm-clouds at Indra's bidding (वासवादेशेन मेघप्रेरकत्वात्), and _Bhūṣaṇa_ adds that Indra dispatched Vāyu to present a necklace to Rāma at his coronation (अभिषेकसमये इन्द्रेण प्रेरितो हारं रामायोपाहरत्).
+
+_____________
+
+**6.74.63–64 (The Herbs Conceal Themselves)**
+
+Perceiving a seeker arriving to pluck them (विज्ञायार्थिनमायान्तं), all the divine herbs on the mountain hid themselves from Hanūmān's sight (तस्य हनुमतः अदर्शनं जग्मुः).
+
+_____________
+
+**6.74.65–66 (Hanūmān's Rebuke to the Mountain)**
+
+Intolerant of their disappearance (तददर्शनमसहमानः), Hanūmān warns the mountain against withholding pity from Rāghava (यद्राघवे नासि कृतानुकम्पः), threatening to blast its peaks apart (विकीर्णं विधूनितं पश्य).
+
+_____________
+
+**6.74.67–68 (Uprooting the Peak with Trees and Elephants)**
+
+Rāma Varmā (_Tilaka_), Śivasahāya (_Śiromaṇi_), and Govindarāja (_Bhūṣaṇa_) all gloss सनागं as together with its elephants (सगजम्), सनगं as together with its trees, and उन्ममाथ as wrenched up by the roots (उत्पाटयामास). Tearing loose the entire glowing summit with its gold mines and mineral veins, Hanūmān leaps into the firmament with Garuḍa's speed while celestial beings extol him.
+
+_____________
+
+**6.74.69–70 (The Counter-Sun and Viṣṇu's Flaming Discus)**
+
+Commenting on रवेः समीपे प्रतिभास्कराभः, _Tilaka_ points out that Hanūmān's proximity to the risen sun indicates that he returned to Laṅkā just after daybreak (रवेः समीपे इत्यनेन सूर्योदयोत्तरमेतदानयनमिति गम्यते), shining like a counter-sun (प्रतिसूर्यसदृशः). Both _Tilaka_ and _Bhūṣaṇa_ gloss सपावकेन as wreathed in flames (अग्निज्वालावता) and अर्पितेन as poised in the hand (हस्तार्पितेन), likening Hanūmān bearing the blazing peak to Viṣṇu wielding his thousand-spoked _Sudarśana_ discus.
+
+_____________
+
+**6.74.71–72 (Revival from Afar and Landing on Trikūṭa)**
+
+_Bhūṣaṇa_ notes that तं वानराः प्रेक्ष्य implies the Vānaras were already reviving from the distant scent of the herbs (दूरादेव गन्धाघ्राणेन सर्वे जीविता इति गम्यते) before Hanūmān alighted on Trikūṭa (शैलोत्तमे त्रिकूटशिखरे).
+
+_____________
+
+**6.74.73–74 (Instantaneous Healing of the Vānara Host)**
+
+Śivasahāya (_Śiromaṇi_) and Govindarāja (_Bhūṣaṇa_) explain how all four herbs acted through their fragrance (गन्धमाघ्राय): Rāma, Lakṣmaṇa, and the wounded Vānaras were freed of arrowheads (विशल्याः) by _Viśalyakaraṇī_ and healed of wounds (विरुजः) by _Saṃdhānakaraṇī_—which _Bhūṣaṇa_ notes implicitly includes _Sāvarṇyakaraṇī_ (अनेन सावर्ण्यसिद्धिरप्युक्ता)—while those who had perished (हताश्च ये स्युः) rose revived by _Mṛtasañjīvanī_ like men waking at dawn (सुप्ता निशान्तेष्विव सम्प्रबुद्धाः).
+
+_____________
+
+**6.74.75–76 (Why the Slain Rākṣasas Did Not Revive)**
+
+All three commentators highlight the narrative objection answered by verses 75–76: since the wind-borne scent of the herbs was common to the entire battlefield, why did the dead Rākṣasas not revive as well (निहताः राक्षसाः कुतो न प्रबुद्धा इत्यत्राह)? Because from the outset of the war, Rāvaṇa—to conceal his casualties and protect his prestige (मानार्थं हतराक्षसानां इयत्ताया अपरिज्ञानार्थम्)—had ordered every slain Rākṣasa (हता हता इति वीप्सा) to be thrown immediately into the sea.
+
+_____________
+
+**6.74.77 (Returning the Mountain)**
+
+Rāma Varmā (_Tilaka_) notes the _ārṣa_ vowel-lengthening in ओषधीशैलम् (दीर्घ आर्षः), which Hanūmān restored to its place on Himavān (यथापूर्वं संस्थापयामासेत्यर्थः) before rejoining Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

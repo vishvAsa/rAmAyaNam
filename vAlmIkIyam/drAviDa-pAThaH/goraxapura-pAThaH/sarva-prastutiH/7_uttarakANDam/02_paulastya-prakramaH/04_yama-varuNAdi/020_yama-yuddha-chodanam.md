@@ -677,6 +677,116 @@ _________________
 
 **21:** “Behold, this exceeding hard-to-traverse, unassailable road (_ayaṃ khalu sudurgamyaḥ ... mārgo ... durdharṣaḥ_) leads directly toward the city of the King of the Departed (_pretarāja-puraṃ prati_), Yama’s realm, O crusher of foes (_amitra-karśana_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.20.1–3 (The Aerial Encounter Between Nārada and Rāvaṇa)**
+
+Resuming after Rāvaṇa’s withdrawal from Ayodhyā (अयोध्यातो निर्गमनानन्तरकालिकं रावणवृत्तम्, **Śivasahāya**), Vālmīki stages a striking meeting in midair: Nārada seated upon a cloud (मेघपृष्ठस्थः) facing Rāvaṇa aboard Puṣpaka. All three commentators resolve the elliptical locative घने तस्मिन् in 7.20.1 as ‘at that time, stationed upon or near a cloud’ (तस्मिन्काले घने घनस्थम्, **Rāma Varmā** and **Govindarāja**; मेघसमीपे स्थितम्, Śivasahāya). On 7.20.2, Rāma Varmā and Śivasahāya gloss हेतुमब्रवीत् as ‘asked’ (अपृच्छत्), while Govindarāja links पृष्ट्वा to both welfare and purpose.
+
+_____________
+
+**7.20.4–5 (Nārada’s Diplomatic Flattery)**
+
+Playing his classic role as divine catalyst of cosmic confrontations, Nārada halts Rāvaṇa (तिष्ठ, with मद्वचः श्रोतुम् supplied by **Rāma Varmā** and **Govindarāja**) by flattering his lofty lineage and martial prowess (ऊर्जितैः प्रौढैः, **Śivasahāya**). The commentators diverge subtly on 7.20.5: Rāma Varmā separates past from future—delighted before by Viṣṇu’s slaying of Daityas, Nārada now looks forward to Rāvaṇa’s clashes with Gandharvas and Nāgas; Śivasahāya construes both clauses as parallel martial spectacles equally pleasing to the sage; Govindarāja notes Viṣṇu’s feats as an illustrative precedent (दृष्टान्तार्थः).
+
+_____________
+
+**7.20.6 (Summoning Single-Pointed Attention)**
+
+Having disarmed Rāvaṇa’s pride with praise, Nārada prepares a pivot that will steer the demon away from defenseless mortals toward Yama himself. By making his counsel conditional upon Rāvaṇa’s willingness to listen and act at once (श्रुत्वा चानन्तरं कार्यम्), the sage piques the conqueror’s curiosity. All three commentators—**Rāma Varmā**, **Śivasahāya**, and **Govindarāja**—gloss समाधिम् in 7.20.6f as ‘single-pointed concentration of mind’ (चित्तैकाग्र्यम्), underscoring the gravity and calculated artistry of Nārada’s approaching persuasion.
+
+_____________
+
+**7.20.7–8 (The Futility of Slaying Those Already Claimed by Death)**
+
+Nārada opens his dissuasion with a pointed appeal to Rāvaṇa’s martial pride. **Rāma Varmā** (_Tilaka_) identifies अयं लोकः as the mortal realm (मर्त्यलोकः), while **Śivasahāya** (_Śiromaṇi_) spells out the syllogism: because humanity already stands under the dominion of Death (मृत्युवशं गतः), it is as good as slain already (हत एव); for a champion invulnerable to gods, Dānavas, and Daityas alike, harassing fragile mortals is beneath heroic dignity (क्लेष्टुं न योग्यः).
+
+_____________
+
+**7.20.9–10 (Human Blindness to the Supreme Good)**
+
+Deepening his existential portrait in the Southern Recension’s 7.20.9–10, Nārada depicts humanity as perpetually lost to its highest spiritual goal. **Rāma Varmā** glosses श्रेयसि सम्मूढम् as ‘devoid of discernment regarding the means to ultimate welfare’ (श्रेयःसाधने बुद्धिहीनम्), noting that its calamities (व्यसनानि) are exemplified immediately by aging and disease; **Śivasahāya** glosses श्रेयसि as ‘the path of spiritual well-being’ (कल्याणमार्गे). On 7.20.10, all three commentators render युद्धेन प्रणयी as ‘eager to wage war and slay’—no discerning hero (मतिमान्) would stoop to such a fight (न कोऽपि).
+
+_____________
+
+**7.20.11–12 (Dejection, Grief, and the Unknowable Course of Mortals)**
+
+Introducing 7.20.11, both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) observe that slaying mortals is as pointless as striking the already dead (हतमारणवद्युद्धेन तेषां वधो व्यर्थः). Rāma Varmā incisively distinguishes विषादः as distress arising from bodily ills like disease (व्याध्यादिजं दुःखम्) from शोकः, grief born of separation from loved ones (बन्धुवियोगादिजं दुःखम्). On 7.20.12, he glosses विचित्रार्थम् as ‘absorbed in manifold petty aims’ despite lacking knowledge of its destined course (गतिः; glossed by Śivasahāya as अवस्थितिः).
+
+_____________
+
+**7.20.13–14 (Joy, Tears, and the Blindness of Worldly Attachment)**
+
+Verse 7.20.13 captures the poignant volatility of saṃsāra in a single antithetical couplet: music and dance beside streaming tears, where all three commentators analyze धाराश्रुनयनाननैः as ‘faces whose eyes pour continuous streams of tears’ (धाराभूताश्रुनयनयुक्तवदनैः). On 7.20.14, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read मनोरथैः (‘longings concerning wife and kin’), whereas **Govindarāja** (_Bhūṣaṇa_) defends मनोरमैः (‘delights found in wife and kinsmen’). Both Tilaka and Bhūṣaṇa gloss ध्वस्तः as ‘fallen low’ (अधःपतितः) and स्वं क्लेशम् as ‘suffering in the next world’ (पारलौकिकं दुःखम्).
+
+_____________
+
+**7.20.15–17a (Nārada’s Masterstroke—Diverting Rāvaṇa to Yama)**
+
+Having emptied mortal conquest of all glory (मोहनिराकृतम्, glossed by **Rāma Varmā** and **Govindarāja** as ‘deprived of true purpose by ignorance’), Nārada springs his trap in 7.20.16–17a. **Śivasahāya** construes 16–17ab as a single six-quarter sentence (सार्धश्लोक एकान्वयी): because every mortal must inevitably enter Yama’s realm, Yama stands supreme over all (यम एव सर्वेभ्यः परः); therefore conquering Yama means conquering the universe at a single stroke.
+
+_____________
+
+**7.20.17b–18 (Rāvaṇa’s Courteous Response and Ambition for Rasātala)**
+
+Far from taking offense, Rāvaṇa laughs graciously and salutes the glowing sage—in the Southern reading दीप्यमानं स्वतेजसा qualifies Nārada, whereas Baroda CE’s nominative दीप्यमान इवौजसा applies to Rāvaṇa. All three commentators unpack Rāvaṇa’s playful vocatives for Nārada in 7.20.18: **Rāma Varmā** and **Govindarāja** gloss समरप्रिय as ‘lover of witnessing battles’ (समरदर्शनप्रिय) and देवगन्धर्वविहार as ‘sporting amid the realms of gods and Gandharvas’, as Rāvaṇa reveals his immediate plan to invade the netherworld Rasātala.
+
+_____________
+
+**7.20.19 (Rāvaṇa’s Hubristic Plan to Churn the Ocean)**
+
+Rāvaṇa’s ambition knows no cosmic boundary: after conquering Rasātala (रसातलजयानन्तरम्, **Rāma Varmā**) and subjugating both Nāgas and gods, he intends to reenact the primeval Churning of the Ocean to seize immortality itself. All three commentators unpack the poetic epithet रसालयम्: Rāma Varmā glosses it as ‘abode of the nectar-essence’ (अमृतरूपरसस्यालयम्), **Govindarāja** (_Bhūṣaṇa_) as ‘storehouse of the elixir’ (अमृतरसालयम्), and **Śivasahāya** (_Śiromaṇi_) as ‘receptacle of all waters and essences’ (रसानामाश्रयम्).
+
+_____________
+
+**7.20.20–21 (Nārada Points Out the Road to Yama’s City)**
+
+Seizing his cue, Nārada redirects Rāvaṇa with effortless irony. Both **Rāma Varmā** and **Govindarāja** unpack Nārada’s sly query in 7.20.20: ‘Intending to go to Rasātala, where indeed are you heading by a path other than the road to Rasātala?’ (रसातलमार्गव्यतिरिक्तमार्गेण). **Śivasahāya** reads क्व खलु as ‘why go by any other way?’—and on 7.20.21 explains how Nārada subtly indicates the formidable road right beside them (मत्समीपस्थ एव मार्गः) leading to Pretarājapura, thereby steering Rāvaṇa straight toward Yama (यमपुरमेव गच्छेति सूचितम्).
+
+_____________
+
+**7.20.22–23 (Rāvaṇa’s Exultant Acceptance)**
+
+Rāvaṇa takes the bait with theatrical gusto. While poetic convention likens white laughter to an autumn cloud, **Rāma Varmā** and **Govindarāja** notably construe शारदमेघाभम् with Nārada himself (‘radiant as an autumn cloud’), glossing Rāvaṇa’s laconic कृतम् as ‘Consider it accomplished—marching down Yama’s road and conquering him are as good as done!’ (तज्जयश्च मम सिद्ध एव); **Śivasahāya** glosses कृतम् as ‘Your proposal is accepted’ (भवदुक्तमङ्गीकृतम्). Both Tilaka and Bhūṣaṇa link तस्मात् in 7.20.23 both to Nārada’s pointer and to Rāvaṇa’s prior vow.
+
+_____________
+
+**7.20.24–25 (Rāvaṇa’s Oath Against the Four Lokapālas)**
+
+Completing his reply, Rāvaṇa grounds his sudden southward march in an earlier martial vow (तत्र गमनस्यावश्यकत्वमाह, **Śivasahāya**): he has sworn to subdue all four guardians of the cardinal directions—Indra, Yama, Varuṇa, and Kubera. Verse 7.20.25 closes with a daring rhetorical paradox (_virodhābhāsa_): mocking Yama as the tormentor of creatures (प्राणिसङ्क्लेशकर्तारम्), Rāvaṇa boasts that he will ‘join Death’s lord with Death’ (मृत्युना योजयिष्यामि)—hubris that even the cosmic trickster Nārada finds astonishing.
+
+_____________
+
+**7.20.26–27 (Rāvaṇa’s Departure and Nārada’s Smokeless Radiance)**
+
+Ever meticulous in outward courtesy toward Brahmins despite his demonic arrogance, Rāvaṇa bows to Nārada before marching south. **Rāma Varmā** (_Tilaka_) cleanly separates the two actions in 7.20.26: first Rāvaṇa departed from Nārada’s vicinity (नारदसमीपदेशात्), and then entered the southern quarter (दक्षिणामाशां प्रविष्टः). Watching him go, Nārada pauses for a _muhūrta_ in silent contemplation (ध्यानमास्थितः चित्ते चिन्तयामास, **Śivasahāya**), compared to a smokeless sacrificial flame (विधूम इव पावकः)—pure, unclouded insight untainted by passion.
+
+_____________
+
+**7.20.28 (The Cosmic Majesty of Dharmic Time)**
+
+Nārada’s interior soliloquy shifts the sarga’s register from witty intrigue to solemn metaphysics. On 7.20.28, **Rāma Varmā** glosses धर्मेण as ‘by the righteous path of dharma’ (धर्ममार्गेण) and क्लिश्यन्ते as ‘are chastised or brought to account’ (दण्ड्यन्ते), while **Śivasahāya** identifies कालः explicitly as Yama (स कालो यमः) and glosses क्लिश्यन्ते as बाध्यन्ते. Because Yama acts strictly by cosmic law once a being’s allotted lifespan ends—even over Indra himself—Nārada marvels how any rākṣasa could possibly conquer Time.
+
+_____________
+
+**7.20.29–30 (Yama as Universal Witness and Object of Cosmic Dread)**
+
+Expanding his meditation on Yama’s majesty, Nārada likens him to a second Agni (द्वितीय इव पावकः) who sees every mortal act. **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain स्वदत्तकृतसाक्षी as ‘witness to each creature’s charity (including Vedic sacrifices) and austerity of bodily discipline (कायक्लेशरूपं तपः)’, supplying यस्य महात्मनः अनुग्रहात् (‘by whose grace’, or प्रभावात् in **Śivasahāya**) for the worlds gaining awareness and acting (Parimal विचेष्टन्ते). Śivasahāya links 29–30 as one unit, wondering how Rāvaṇa dares approach him from whom all three worlds flee.
+
+_____________
+
+**7.20.31 (Ordainer and Dispenser of Karmic Fruits)**
+
+Verse 7.20.31 elevates Yama from lord of death to cosmic moral governor. Both **Rāma Varmā** and **Govindarāja** gloss the paired nouns धाता विधाता as ‘creator/ordainer both generally and specifically’ (सामान्यतो विशेषतश्च कर्ता), taking सुकृतं दुष्कृतम् metonymically for their karmic fruits (तत्फलम्). **Śivasahāya** draws a crisp philosophical distinction: विधाता is the one who impels good and evil actions (कारयिता), whereas धाता is the dispenser who brings creatures to their due fruition (तत्फलप्रापकः). All three commentators normalize the epic verb विजयिष्यते to classical विजेष्यते.
+
+_____________
+
+**7.20.32 (Nārada’s Curiosity and the Bridge to Yama’s Realm)**
+
+The sarga closes with an engaging cliffhanger. Reading कृत्वायम्, **Rāma Varmā** and **Govindarāja** articulate Nārada’s riddle: since Time itself is the sole instrument of all accomplishment (काल एव सर्वसाधनम्), what other means beyond Time (कालातिरिक्तमपरं किं विधानम्) can Rāvaṇa contrive to achieve victory over Time? Reading कृत्वैवम्, **Śivasahāya** asks what Rāvaṇa will attempt next after engaging Yama in battle. Stirred by keen curiosity (कौतूहलसमुत्पन्नः), Nārada resolves to fly to Yamasādana himself to behold their collision (विमर्दं सङ्गरम्), launching Sarga 21.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

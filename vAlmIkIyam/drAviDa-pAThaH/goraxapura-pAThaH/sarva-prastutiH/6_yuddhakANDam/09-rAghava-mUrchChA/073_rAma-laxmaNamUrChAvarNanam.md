@@ -3805,6 +3805,242 @@ thrill of rapture in battle.
 
 Then those two [Rāma and Lakṣmaṇa] were struck down (_viśastau_) there by Indrajit&#x27;s networks of missiles (_indrajito &#x27;strajālaiḥ_); and having reduced them to prostration there in battle, that lord of Rākṣasas roared with joy (_nanāda harṣāt_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.73.1–2 (Rāvaṇa's Renewed Grief)**
+
+Commenting on ततो हतांस्तान्, Govindarāja (_Bhūṣaṇa_) explains why Rāvaṇa grieves anew after earlier reports of Kumbhakarṇa's and his sons' deaths: previously the slaughter was heard only in general terms, whereas now the surviving Rākṣasas recount the catastrophe in full detail (पूर्वं कुम्भकर्णादिवधः सामान्येन श्रुतः संप्रत्येतैः सविशेषं श्रुत इत्याह तत इति). Rāma Varmā (_Tilaka_) unpacks the compound देवान्तकादित्रिशिरोऽतिकायान् as grouping those headed by Devāntaka together with Triśiras and Atikāya (देवान्तकादयश्च त्रिशिरोऽतिकायौ च तान्), while Śivasahāya (_Śiromaṇi_) glosses विपुलं प्रदध्यौ as pondered deeply (विपुलमत्यन्तं प्रदध्यौ विचारयामास).
+
+_____________
+
+**6.73.3–4 (Indrajit's Reassurance)**
+
+Both _Tilaka_ and _Bhūṣaṇa_ derive संपरिपुप्लुवानम् as a perfect participle of √प्लु, which _Tilaka_ glosses as plunged into an ocean of sorrow (शोकार्णवमग्नमित्यर्थः) and रथर्षभः as foremost of chariot-warriors (रथस्थानां श्रेष्ठः). On यत्रेन्द्रजिज्जीवति, _Tilaka_ takes यत्र causally (यस्मादिन्द्रजिज्जीवति), whereas _Śiromaṇi_ and _Bhūṣaṇa_ take it temporally (यदा). All three identify इन्द्रारिः (“Indra's foe”) as Indrajit himself.
+
+_____________
+
+**6.73.5–6 (Valor and Divine Boons)**
+
+On पौरुषदैवयुक्ताम्, _Tilaka_ and _Śiromaṇi_ gloss पौरुषेण as innate martial valor (सहजशौर्यबलेन) and दैवेन as the grace of divine boons (भगवद्वरदानानुग्रहेण), while _Bhūṣaṇa_ similarly explains them as personal effort and divine boons (भगवद्दत्तवरेण). _Śiromaṇi_ glosses सन्तर्पयिष्यामि as “I shall fill completely” (पूरयिष्यामि) with unfailing arrows.
+
+_____________
+
+**6.73.7–8 (Bali's Sacrificial Enclosure and the Chariot)**
+
+Śivasahāya (_Śiromaṇi_) explains बलियज्ञवाटे as Bali's sacrificial hall (यागशालायां), where the gods headed by Indra will witness Indrajit's immeasurable prowess just as they beheld Viṣṇu's fierce Trivikrama stride (विष्णोरुग्रमप्रमेयं विक्रममिव). On खरश्रेष्ठसमाधियुक्तम्, Rāma Varmā (_Tilaka_) and _Śiromaṇi_ derive समाधयः instrumentally (समाधीयते युद्धमेभिरिति समाधयो धनुःखड्गादयः) to mean weapons and war-gear such as bows and swords alongside the finest mules (खरश्रेष्ठैः), whereas Govindarāja (_Bhūṣaṇa_) glosses it as yoked with excellent mules and firm concentration (खरैः समाधिना समाधानेन च युक्तम्).
+
+_____________
+
+**6.73.9 (The Chariot of Hari)**
+
+Commenting on हरिरथोपमम्, _Tilaka_ takes हरिरथः to mean the chariot of Indra (इन्द्ररथः), whereas _Bhūṣaṇa_ interprets it as the chariot of the Sun (सूर्यरथः), citing the _Amarakośa_ verse listing the senses of _hari_ (यमानिलेन्द्रचन्द्रार्कविष्णुसिंहांशुवाजिषु). On यत्र युद्धम्, _Bhūṣaṇa_ supplies the future passive participle कर्तव्यम् (“where the battle was to be conducted”).
+
+_____________
+
+**6.73.10–12 (The Rākṣasa Retinue)**
+
+_Tilaka_ notes that संहर्षमाणाः is an epic (_ārṣa_) form, which _Śiromaṇi_ glosses as संहृष्यमाणाः (“rejoicing”). Both _Śiromaṇi_ and _Bhūṣaṇa_ observe that verses 11–13 form a single syntactic unit (श्लोकत्रयमेकान्वयि) governed by अनुजग्मुः from verse 10.
+
+_____________
+
+**6.73.13–14 (Martial Array and Drumbeats)**
+
+Concluding the three-verse syntactic chain (श्लोकत्रयमेकान्वयि) carried over from verses 11–12, Śivasahāya (_Śiromaṇi_) explains that the Rākṣasa warriors bearing _prāsa_ lances, swords, axes, maces, and _bhuśuṇḍis_ followed Indrajit (अनुजग्मुरित्यनुकृष्यते). On verse 14, Rāma Varmā (_Tilaka_) and _Śiromaṇi_ gloss आजिम् as battle (युद्धम्, सङ्ग्रामम्), toward which Indrajit sped accompanied by resonant conchs and kettle-drums.
+
+_____________
+
+**6.73.15–16 (The Moon-White Parasol and Golden Chowries)**
+
+Both _Tilaka_ and _Śiromaṇi_ analyze शङ्खशशिवर्णेन as an elliptical comparison (शङ्खस्य शशिनश्च वर्ण इव वर्णो यस्य तत्), comparing Indrajit beneath his white royal parasol to the firmament (नभ इव) illumined by the full moon (प्रतिपूर्णेन चन्द्रमसा). On हैमैः modifying the yak-tail fans (चामरमुख्यैः), _Tilaka_ glosses it as equipped with golden handles (हिरण्मयदण्डैः), while Govindarāja (_Bhūṣaṇa_), reading अवीज्यत and हेमविभूषितैः, explains it as fitted with golden ribs (हेमशलाकायुक्तैः).
+
+_____________
+
+**6.73.17–18 (Rāvaṇa's Benediction)**
+
+As the apparatus notes record (इदं सार्धं गो. पाठे), Govindarāja's text preserves Rāvaṇa's parting address praising Indrajit as an unrivalled chariot-warrior (अप्रतिरथः) who vanquished Indra and will effortlessly slay the mortal Rāghava.
+
+_____________
+
+**6.73.19–21b (Arrival at Nikumbhilā)**
+
+Śivasahāya (_Śiromaṇi_) remarks that Laṅkā shone through Indrajit of peerless prowess just as the sky shines with the sun (अर्केण द्यौरिव रराज). Commenting on युद्धभूमिम्, both Rāma Varmā (_Tilaka_) and _Śiromaṇi_ explain that it denotes not the open battlefield but the sacred precinct of Nikumbhilā where the _homa_ securing victory in battle is performed (युद्धजयसंपादकहोमसाधनभूमिम् । निकुम्भिलास्थानमित्यर्थः). On रथं प्रति, _Śiromaṇi_ glosses it as in all four directions around his chariot (रथस्य समीपे समन्ततश्चतुर्दिक्षु), while Govindarāja (_Bhūṣaṇa_) takes it as facing the chariot (रथमुद्दिश्य).
+
+_____________
+
+**6.73.21c–23b (The Abhicāra Oblation)**
+
+_Tilaka_ glosses हुतभोक्तारम् as Agni (अग्निम्) and विधिवत् as according to the ritual procedure prescribed in its magic manual (तत्कल्पोक्तप्रकारः). On हविर्लाजसत्कारैर्माल्यगन्धपुरस्कृतैः, _Tilaka_ and _Śiromaṇi_ explain that Indrajit first honored the fire with garlands, unguents, and parched grain before offering the animal oblation (हविर्वक्ष्यमाणच्छागरूपं जुहुवे), whereas _Bhūṣaṇa_, reading हविर्लाजसंस्कारैः, interprets it as consecrated oblations and parched rice (संस्कृतहविर्लाजैः).
+
+_____________
+
+**6.73.23c–24 (Sorcerous Implements)**
+
+Indrajit's dark _abhicāra_ rite substitutes arrow-blades (शरपत्राणि) for _darbha_ grass, _bibhītaka_ sticks for sacrificial fuel, red garments, and a black-iron ladle (स्रुवं कार्ष्णायसं).
+
+_____________
+
+**6.73.25–27b (The Black Goat and Agni's Epiphany)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain that after strewing the fire with arrow-blades in place of _kāśa_ grass—as prescribed in destructive _abhicāra_ rites (अभिचारकर्मणि तेषामेव विनियोगात्)—Indrajit seized a live black goat by the throat to offer it whole into the fire (सजीवस्य होमार्धमिति शेषः). From the smokeless fire kindled at once (सकृदेव समिद्धस्य) arose tokens of victory (विजयं यान्यदर्शयन्): Agni himself rose up (स्वयमुत्थितः, glossed by Govindarāja's _Bhūṣaṇa_ as पुरुषरूपेणोत्थितः, whereas on his own reading स्वयमास्थितः he glosses स्वयमास्थावान्) with clockwise-spiraling flames (प्रदक्षिणावर्तशिखः) to accept the oblation.
+
+_____________
+
+**6.73.27c–28 (Invoking the Brahmāstra)**
+
+_Tilaka_ explains आहारयामास ब्राह्मम् as invoking the _Brahmāstra_ and charging his bow and chariot with its _mantra_ (सिद्धब्रह्मास्त्रमन्त्रेणाभ्यमन्त्रयत्). While the presiding deity of the missile was summoned (तदस्त्रमन्त्रदैवते क्रियमाणावाहने), the sky with sun, planets, and stars trembled (वितत्रास नभःस्थलम्).
+
+_____________
+
+**6.73.29–30 (Vanishing into the Sky)**
+
+All three commentators note the _ārṣa_ elision of the initial vowel of आत्मानम् in खेऽन्तर्दधेऽत्मानम् (आत्मशब्दाकारलोप आर्षः), and _Bhūṣaṇa_ observes that अन्तर्दधे carries an implicit causative sense (अन्तर्भावितण्यर्थोऽयम्, “he rendered himself invisible”).
+
+_____________
+
+**6.73.31–33 (Indrajit's Exhortation to the Rākṣasas)**
+
+On verse 32, Rāma Varmā (_Tilaka_), Śivasahāya (_Śiromaṇi_), and Govindarāja (_Bhūṣaṇa_) all supply a verb of speaking (आहेति शेषः / उवाचेति शेषः) to govern Indrajit's direct command हृष्टा भवन्तो युध्यन्तु. Commenting on the two occurrences of ततः in verse 33, _Bhūṣaṇa_ explains the first causally (“on account of that speech of Rāvaṇa's son,” तस्माद् रावणिवचनात्) and the second temporally (द्वितीयस्ततःशब्दः पश्चाच्छब्दार्थः), while _Śiromaṇi_ glosses अभ्यवर्षन् as covered (आच्छादयन्).
+
+_____________
+
+**6.73.34 (How the Invisible Warrior is Surrounded)**
+
+Both _Tilaka_ and _Bhūṣaṇa_ address how Indrajit can be described as surrounded by Rākṣasas (रक्षोभिः संवृतः) after vanishing into the sky in verse 29: they explain that he hovered in the region of the sky immediately above the middle of the Rākṣasa host (राक्षससैन्योपरि प्रत्यासन्नाकाशदेशे स्थितः; _Bhūṣaṇa_: रक्षोगणमध्यत उपरिस्थित इत्यर्थः । अन्यथा खेऽन्तर्दध इति पूर्वोक्तेन विरुध्येत). _Bhūṣaṇa_ glosses नालीकः as a broad-headed arrow (विशालाग्रः शरः).
+
+_____________
+
+**6.73.35–36 (Aiming at the Unseen Foe)**
+
+On अभ्यवर्षन्त सहसा रावणिम्, _Tilaka_ and _Bhūṣaṇa_ explain that since Indrajit was invisible, the Vānaras hurled their trees and boulders toward the sky-sector inferred from his army's position or the trajectory of his incoming missiles (रावणिमुक्तायुधागमनप्रदेशम्).
+
+_____________
+
+**6.73.37–39 (Slaughter of the Vānara Ranks)**
+
+Śivasahāya (_Śiromaṇi_) explains नव पञ्च च सप्त च as piercing groups of nine, five, and seven monkeys successively with a single shaft (एकेन शरेण नवपञ्चसप्तसङ्ख्याकान् हरीन् बिभेद). On मथितसंकल्पाः in verse 39, Rāma Varmā (_Tilaka_) glosses it as having their determination to fight broken (संहृतयुद्धसंकल्पाः), _Śiromaṇi_ as having their desire for battle uprooted (निकोचितयुद्धेच्छाः), and Govindarāja (_Bhūṣaṇa_) as having their hopes destroyed (नाशितमनोरथाः).
+
+_____________
+
+**6.73.40–41 (Charging the Arrow-Sun and Recoiling)**
+
+_Śiromaṇi_ unpacks the metaphor बाणगभस्तिभिः as rays consisting of arrows (बाणरूपकिरणैः) with which Indrajit scorched the battlefield like the sun (प्रतपन्तमादित्यमिवेन्द्रजितं). _Tilaka_ notes that the Vānara chiefs charged toward the sky-region conjectured to hold him (तदधिष्ठितमित्युत्प्रेक्षितदिग्भागेनेति शेषः). On verse 41, _Śiromaṇi_ traces the sequence of effects: their bodies cleft (भिन्ना विदीर्णा देहा येषाम्) and drenched in blood, the anguished and bewildered monkeys scattered in every direction (इतस्ततश्चरन्ति स्म).
+
+_____________
+
+**6.73.42 (Heroic Stand for Rāma)**
+
+_Tilaka_ glosses त्यक्तजीविताः as having renounced the wish to live (त्यक्तजीवितेच्छाः) and सशिलायुधाः as bearing boulders for weapons (शिलारूपायुधैः सहिताः).
+
+_____________
+
+**6.73.43–45 (Warding Off the Boulder-Shower)**
+
+Standing their ground (समवस्थिताः), the Vānara warriors hurled a lethal rain of trees, crags, and boulders toward the unseen Indrajit, which the battle-conquering (समितिंजयः) Rākṣasa prince effortlessly swept away (व्यपोहत) before cleaving their divisions with fiery, serpent-like shafts (पावकसंकाशैः शरैराशीविषोपमैः).
+
+_____________
+
+**6.73.46–48 (Syntax of the Catalogue of Wounded Chiefs)**
+
+Govindarāja (_Bhūṣaṇa_) points out that the three and a half verses beginning with अष्टादशशरैस्तीक्ष्णैः (verses 46–49b) constitute a single connected sentence (अष्टादशेत्यादिसार्धश्लोकत्रयमेकान्वयम्). Stationed invisibly at a distance (दूरादवस्थितम्), Indrajit methodically targets the Vānara high command: piercing Gandhamādana with eighteen keen arrows, Nala with nine, Mainda with seven vitals-rending shafts (मर्मविदारणैः), and Gaja with five _viśikha_ arrows.
+
+_____________
+
+**6.73.48 (Jāmbavān, Nīla, Sugrīva, and Aṅgada)**
+
+Continuing the same syntactic unit, Indrajit strikes Jāmbavān with ten shafts and the field-marshal Nīla with thirty (नीलं त्रिंशद्भिरेव च), while the accusatives सुग्रीवमृषभं चैव सोऽङ्गदं द्विविदं तथा are governed by निष्प्राणानकरोत् तदा in the opening half of verse 49.
+
+_____________
+
+**6.73.49–50 (Boon-Endowed Shafts and Doomsday Fire)**
+
+Concluding the three-and-a-half-verse sentence (अष्टादशेत्यादिसार्धश्लोकत्रयमेकान्वयम्) identified by Govindarāja (_Bhūṣaṇa_), verse 49a–b supplies the predicate निष्प्राणानकरोत् तदा governing Sugrīva, Ṛṣabha, Aṅgada, and Dvivida from verse 48. _Bhūṣaṇa_ glosses दत्तवरैः as arrows empowered by divine boons (वरदत्तैः), with which Indrajit left the Vānara leaders breathless and harassed (अर्दयामास) the remaining chiefs like the swollen fire of cosmic dissolution (कालाग्निरिव मूर्च्छितः).
+
+_____________
+
+**6.73.51–53 (The Blood-Soaked Vānara Host)**
+
+Verses 51c–52 form a connected unit: beholding the Vānara army bewildered (आकुलां), afflicted by his net of shafts (शरजालेन पीडिताम्, where _Bhūṣaṇa_ reads मोहिताम्), and drenched in blood (क्षतजोक्षिताम्), Rāvaṇa's son rejoiced with supreme satisfaction (परया प्रीत्या) and crushed their ranks on all sides.
+
+_____________
+
+**6.73.54 (Advancing Beyond His Own Lines)**
+
+Commenting on स्वसैन्यमुत्सृज्य, Rāma Varmā (_Tilaka_) explains that Indrajit departed from the sky-space directly above his own Rākṣasa troops (स्वसैन्योपरिभागाकाशमुत्सृज्य) to plunge invisibly (अदृश्यमानः) into the Vānara divisions like a dark storm-cloud (नीलाम्बुधरः).
+
+_____________
+
+**6.73.55–56 (Slaughter by an Unseen Assailant)**
+
+Śivasahāya (_Śiromaṇi_) glosses मायाहताः as bewildered by the enemy's deceitful illusion (मायया शत्रुनिर्मितच्छलेन हता मोहिताः), causing the mountain-huge monkeys to topple like peaks struck by Indra's _vajra_. On verse 56, _Śiromaṇi_ notes that the Vānaras perceived only (केवलं) the incoming sharp-tipped shafts without glimpsing Indrajit himself, whom Govindarāja (_Bhūṣaṇa_), reading मायानिगूढं and आवृतं, describes as veiled and unmanifest (अत एव आवृतम् अप्रकाशम्).
+
+_____________
+
+**6.73.57–58 (Fiery Pikes, Swords, and Battle-Axes)**
+
+While Rāma Varmā (_Tilaka_) and _Śiromaṇi_ read विदारयामास (“he tore the Vānara chiefs apart”), _Bhūṣaṇa_ reads विषादयामास (“he cast them into dejection”). On verse 58, _Śiromaṇi_ explains that the pikes, swords, and axes shone like brandished firebrands (व्याविद्धो यो दीप्तानलः तस्य सन्निभानि) because they were wreathed in sparking flames (सविस्फुलिङ्गा विस्फुलिङ्गसहिताः उज्ज्वलपावका येषु तानि).
+
+_____________
+
+**6.73.59–60 (Crimson Kiṃśuka Blossoms)**
+
+_Tilaka_ and _Śiromaṇi_ supply आसन् or बभूवुः in verse 59, comparing the blood-streaked Vānara commanders to flowering red _kiṃśuka_ trees, whereas _Bhūṣaṇa_ construes verses 59–60 as a single sentence (श्लोकद्वयमेकान्वयम्).
+
+_____________
+
+**6.73.61 (Blinded Warriors Clinging Together)**
+
+Rāma Varmā (_Tilaka_) construes शरैः with नेत्रेषु ताडिताः (केचिन्नेत्रेषु ताडिताः शरैरित्यन्वयः): as the monkeys peered up into the sky to locate their unseen attacker, arrows pierced their eyes. On विविशुरन्योन्यं, _Tilaka_ explains that the blinded Vānaras clasped one another's bodies (अन्योन्यगात्रं समाश्लिष्य तस्थुः), while Govindarāja (_Bhūṣaṇa_) glosses it as toppling upon one another for support (अन्योन्योपर्यालम्बनार्थं पेतुरित्यर्थः) before collapsing on the ground.
+
+_____________
+
+**6.73.62–65 (The Four-Verse Catalogue of Twenty-One Chiefs)**
+
+Both Śivasahāya (_Śiromaṇi_) and _Bhūṣaṇa_ note that verses 62–65 form a single four-verse syntactic unit (श्लोकचतुष्टयमेकान्वयि) governed by the finite verb विव्याध in verse 65c. The accusative list enumerates twenty-one tigers among monkeys (हरिशार्दूलान्) headed by Hanūmān, Sugrīva, Aṅgada, Gandhamādana, Jāmbavān, and Suṣeṇa.
+
+_____________
+
+**6.73.65 (Mantra-Empowered Missiles)**
+
+_Śiromaṇi_ glosses मन्त्रसंहितैः as consecrated with incantations (अभिमन्त्रितैः), qualifying the lances (प्रासैः), pikes (शूलैः), and keen arrows with which Indrajit pierced the entire Vānara leadership.
+
+_____________
+
+**6.73.66–67 (Rāma's Serene Disregard of the Volley)**
+
+Govindarāja (_Bhūṣaṇa_) notes that गदाभिः in verse 66 stands by synecdoche (_upalakṣaṇa_) for all the previously mentioned lances and pikes (पूर्वोक्तप्रासादीनामुपलक्षणम्). On verse 67, Śivasahāya (_Śiromaṇi_) and _Bhūṣaṇa_ explain that Rāma treated the torrent of arrows like trifling raindrops (बाणवर्षं तृणीकृत्येत्यर्थः). _Bhūṣaṇa_ highlights परमाद्भुतश्रीः and समीक्षमाणः: retaining his wondrous composure, Rāma glanced significantly at Lakṣmaṇa to convey that countering the _Brahmāstra_ by force would be improper (ब्रह्मास्त्रप्रतिक्रियां कर्तुमयुक्तमिङ्गितैरभिवीक्षमाणः).
+
+_____________
+
+**6.73.68–69 (The Unseen Foe and Martial Dharma)**
+
+All three commentators gloss नष्टदेहः as invisible-bodied (अदृष्टदेहः) because his form is hidden (अन्तर्हितभीमकायः). _Śiromaṇi_ observes that Rāma considers striking a covert trickster—like striking a fleeing foe—contrary to _kṣatriya_ rectitude, and endures the blow solely to uphold the truth of Brahmā's boon (स्वधर्मसत्यपालनायैवेति ध्वनितम्).
+
+_____________
+
+**6.73.70 (Reverence for Self-Born Brahmā)**
+
+Rāma Varmā (_Tilaka_) explains why Rāma refrains from slaying the invisible Indrajit with a sound-guided missile (शब्दवेध्यादिदिव्यास्त्रैः): just as Hanūmān honored Brahmā's noose earlier, Rāma and Lakṣmaṇa must revere the Self-born Creator (योऽस्य सकलसंसारस्य प्रभवः स्रष्टा) by enduring the volley through meditation on the Lord (भगवद्ध्यानबलेन सहस्व).
+
+_____________
+
+**6.73.71–72 (Rāma's Strategic Submission to the Boon)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) gloss पतिताग्र्यशूरम् as the Vānara host whose finest warriors lie felled (पतिता अग्र्यशूराः प्रशस्तवीरा यस्मिन् तत्). Explaining why passive endurance is the surest way to terminate the _Brahmāstra_ assault (एतत्सहनस्यैवैतदुपरमोपायत्वम्), _Tilaka_ notes that when Indrajit beholds the two brothers fallen motionless (पतितौ विसंज्ञौ) with every outward sign of ardor or anger suppressed (अप्रकाशितहर्षरोषविकारौ; Govindarāja's _Bhūṣaṇa_ on गतरोषहर्षौ: मृताविति यावत्, “as good as dead”), he will believe he has achieved victory and will withdraw into Laṅkā (अमरारिवासं लङ्कां).
+
+_____________
+
+**6.73.72d (Surface Glory Versus Root Victory)**
+
+Reading रणाग्रलक्ष्मीम्, _Bhūṣaṇa_ offers a penetrating insight into the word अग्र (“tip, surface”): Indrajit can seize only superficial battle-glory, whereas the root fortune of war (रणमूललक्ष्मीर्न ग्रहीतुं शक्येति सूच्यते) remains beyond his grasp because he cannot destroy the root (मूलघातः कर्तुं न शक्यत इत्युच्यते).
+
+_____________
+
+**6.73.73–74 (Indrajit's Triumphal Return)**
+
+_Tilaka_ glosses विशस्तौ as afflicted (पीडितौ) and _Śiromaṇi_ as seemingly slain (हिंसितसदृशौ बभूवतुः), whereupon Indrajit roared in triumph and returned to Laṅkā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -187,6 +187,116 @@ know all that, as though viewed with an eye."
 
 “How many citadels and defences (_kati durgāṇi_) belong to inaccessible Laṅkā (_durgāyā laṅkāyāḥ_)? Tell me that (_tad bravīṣva me_), O monkey; I wish to know all of it as though from direct sight (_darśanād iva_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.3.1–2 (Threefold Power to Cross the Sea)**
+
+Restored to composure by his friend's counsel, Rāma turns to military intelligence (लङ्कादुर्गस्वरूपशोधनाय). On 6.3.1, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) take परमार्थवत् as modifying Sugrīva's speech (परमार्थबोधकम्), whereas **Govindarāja** (_Bhūṣaṇa_), reading परमार्थवित्, construes it with Rāma as one who discerns essential reality (सारासारग्राहित्वम्). In 6.3.2, Rāma Varmā explains तपसा as unfailing yogic resolve (तपःकार्यसंकल्पसिद्ध्या) and सागरोच्छोषणेन as drying the waters with celestial arrows (दिव्यास्त्रबलतः); Govindarāja also records the variant तरसा (‘by sheer velocity’, वेगेन).
+
+_____________
+
+**6.3.3–4 (Inquiring into Fortifications and Troop Strength)**
+
+On 6.3.3, the commentators contrast feminine दुर्गायाः (‘hard to approach’, दुर्गमायाः दुःप्रापायाः) with neuter दुर्गाणि (the fourfold natural and artificial defences: water, mountain, forest, and rampart, जलगिरिवनस्थलात्मकानि दुर्गाणि). In 6.3.4, **Rāma Varmā** and **Govindarāja** distinguish बलस्य परिमाणम् (troop numbers, संख्यापरिच्छेदम्), द्वारदुर्गक्रियाम् (rendering the gates impassable via moats and spikes, द्वाराणां दुष्प्रवेशत्वसंपादनम्), and गुप्तिकर्म (emplacement of defensive engines along the walls, प्राकारादिषु यन्त्रादिस्थापनम्).
+
+_____________
+
+**6.3.5–6 (Hanūmān's Unhurried Reconnaissance)**
+
+Glossing यथासुखम् in 6.3.5 as ‘fearlessly and unhindered’ (निःशङ्कम्), **Govindarāja** notes that कुशलः praises Hanūmān's dual mastery in both observing and reporting (सर्वथा द्रष्टुं वक्तुं च).
+
+_____________
+
+**6.3.7–9 (Synopsis of the Reconnaissance Report)**
+
+$19
+
+_____________
+
+**6.3.10–11 (Fearless Populace and Barred Gates)**
+
+On हृष्टप्रमुदिता in 6.3.10, **Govindarāja** remarks that the citizens of Laṅkā live wholly free from fear (भयरहिता हृष्टान्तर्जना). On महापरिघवन्ति in 6.3.11, Rāma Varmā and Śivasahāya quote the lexicon _Viśvaprakāśa_ (परिघो योगभेदे स्यान्मुद्गरेऽर्गलघातयोः) and Govindarāja cites the _Nighaṇṭu_ to gloss परिघ as massive iron locking-beams (महार्गलवन्ति) securing the iron-pinned gate-leaves (अयस्कीलादिभिर्दृढीकृतकवाटानि).
+
+_____________
+
+**6.3.12 (Mechanical Artillery at the Gates)**
+
+Explaining इषूपलयन्त्राणि, all three commentators gloss it as mechanical catapults and ballistae that discharge volleys of arrows and boulders (शरशिलाक्षेपकयन्त्राणि), repelling any attacking force (प्रतिसैन्यं शत्रुसेना प्रतिनिवार्यते).
+
+_____________
+
+**6.3.13–14 (Iron Śataghnīs and the Jeweled Golden Rampart)**
+
+On शतघ्न्यः in 6.3.13, **Rāma Varmā** (_Tilaka_) quotes the lexicon _Vaijayantī_ (शतघ्नी तु चतुर्हस्ता लोहकण्टकिनी गदा) to define it as a four-cubit iron-spiked cylinder or mace capable of slaying a hundred foes at once (शतमेकप्रयोगेण घ्नन्तीति). **Govindarāja** (_Bhūṣaṇa_) explains the compound कालायसमयाः (‘made of black steel’, अयःसारमयाः) via Pāṇini's samāsānta rule अनोश्मायस्सरसां जातिसंज्ञयोः and the agent suffix _-ṭak_ (अमनुष्यकर्तृके च). In 6.3.14, Laṅkā's golden rampart (सौवर्णः प्राकारः) is inlaid with rubies (मणयः पद्मरागाः), coral, cat's-eye, and pearls.
+
+_____________
+
+**6.3.15–17 (The Moats and Mechanized Drawbridges)**
+
+Surrounding the rampart are fathomless moats (अगाधाः परिखाः) whose icy waters foster fierce crocodiles (शीततोयत्वेन दुष्प्रवेशत्वसूचकम्). Spanning the moats before the four gates are four long wooden bridges (संक्रमाः दारुफलकनिर्मितसंचारमार्गाः), flanked by rows of sentry-booths (गृहपङ्क्तिभिः रक्षिजनावासस्थानपङ्क्तिभिः). On 6.3.17, Rāma Varmā and **Śivasahāya** (_Śiromaṇi_) explain that when enemy troops advance, the bridges are guarded while mechanical engines hurl the invaders into the moats (परसैन्यानि परिखासु अवकीर्यन्ते क्षिप्यन्ते); Govindarāja alternatively interprets अवकीर्यन्ते as retracting or scattering the bridge-planks themselves so that no foe can cross.
+
+_____________
+
+**6.3.18 (The Great Northern Bridge)**
+
+Identifying एकः संक्रमः as the main northern bridge (उत्तरद्वारस्थः) used by Rāvaṇa himself (तेनैव रावणो निर्गच्छति), the commentators note its golden support-pillars (स्तम्भैः) and sentry-platforms (वेदिकाभिः).
+
+_____________
+
+**6.3.19 (Rāvaṇa's Personal Vigilance)**
+
+Turning from the fortress to its lord (पुरस्वरूपं प्रवर्ण्य तदधिपतिस्वरूपमाह), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain प्रकृतिमापन्नः as Rāvaṇa remaining unshaken in his innate martial resolve even amidst sensual pleasures (मद्यपानादावपि स्वभावपरिणामरहितः), while **Govindarāja** (_Bhūṣaṇa_), reading प्रकृतिसंपन्नः, glosses it as free from the vices of negligence (प्रमत्तादिव्यसनरूपविकाररहितः), personally supervising his armies (बलानामनुदर्शने उत्थितः जागरूकः).
+
+_____________
+
+**6.3.20 (The Classical Fourfold Durga)**
+
+Why is Laṅkā so formidable? All three commentators highlight the synthesis of the four canonical types of fortification (चतुर्विधं दुर्गम्) in 6.3.20: it is निरालम्बा because Trikūṭa's sheer, polished precipices offer no handhold (आरोहणालम्बनरहिता), and देवदुर्गा because it was built by Viśvakarman or is unassailable even by gods. It combines water-defence (नादेयम्, ringed by rivers and the sea), mountain-defence (पार्वतम्, resting on Trikūṭa), forest-defence (वान्यम्, encircled by dense woods, वनानां समूहो वन्या तत्संबन्धि), and artificial defence (कृत्रिमम्, ramparts and moats).
+
+_____________
+
+**6.3.21–23 (The Trackless Sea and Mountain Crest)**
+
+On 6.3.21, the commentators note that no ship-lane (नौपथः नौसंचारः) reaches Laṅkā, rendering the surrounding ocean निरुद्देशः—devoid of landmarks or habitable islands (प्रदेशविभागरहितः)—or, reading निरादेशः, untraveled even by messengers (वार्तासंचाररहितः). Verses 6.3.22–23 recapitulate the natural (वनगिरिदुर्गम्) and artificial (कृत्रिमदुर्गम्) defences.
+
+_____________
+
+**6.3.24–26 (Garrisons of the Eastern, Southern, and Western Gates)**
+
+$1b
+
+_____________
+
+**6.3.27 (The Elite Northern Garrison)**
+
+At the northern gate—where the main bridge stands—stationed are a न्यर्बुदम् of Rākṣasas. Both **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) note that कुलपुत्राः denotes either the royal guard known as _Kiṅkaras_ (किंकराभिधाः) or warriors born of noble lineages (सत्कुलप्रसूताः), whom Govindarāja describes as deeply trusted and honored by Rāvaṇa (विश्वसनीयाः रावणेन बहुमताः).
+
+_____________
+
+**6.3.28 (The Central Reserve Encampment)**
+
+On मध्यमं स्कन्धम्, all three commentators gloss it as the central military cantonment inside the capital (पुरमध्यसेनानिवेशस्थानम्, नगरमध्यमस्थानम्). Rāma Varmā and Śivasahāya explain साग्रकोटिः as a crore plus a quarter (सपादकोटिः).
+
+_____________
+
+**6.3.29–30 (Hanūmān's Preemptive Demolition of the Defences)**
+
+Lest his daunting description of Laṅkā's fortifications dishearten the monkey troops (लघूनां भीतिर्मा भूदिति), Hanūmān immediately adds in 6.3.29 that he himself already wrecked those drawbridges (संक्रमा भग्नाः), choked the moats with debris and masonry (परिखाः मञ्चसामग्र्या पाषाणादिना च पूर्णतां प्रापिताः), burned the city, leveled the ramparts, and wiped out a quarter of the Rākṣasa host (बलैकदेशः सेनाचतुर्थांशः क्षपितः, where महात्मनाम् means ‘huge-bodied’, महाकायानाम्). Hence in 6.3.30, by whatever expedient Rāma chooses (येन केन भवदाज्ञापितेन मार्गेण), once they cross the sea, Laṅkā is as good as destroyed.
+
+_____________
+
+**6.3.31–32 (Seven Vanguard Champions Suffice)**
+
+Construing 6.3.31–32 together, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain Hanūmān's bold alternative (पक्षान्तरम्): Rāma need not even worry about transporting the entire host (बलशेषेण किं तव)—the seven named champions (Aṅgada, Dvivida, Mainda, Jāmbavān, Panasa, Nala, and general Nīla) can leap the ocean (प्लवमानाः समुद्रं लङ्घितवन्तः), tear up Laṅkā with its mountains, woods, moats (सखाताम् सपरिखाम्), gateways, walls, and palaces, and carry it (or Sītā) back!
+
+_____________
+
+**6.3.33 (Call for Immediate Mobilization)**
+
+In 6.3.33, Rāma Varmā notes the dual implication: either dispatch those champions now, or if Rāma prefers to lead the whole army, command the muster of all forces (बलानां सर्वसंग्रहम्) and set forth at an auspicious astrological hour (युक्तेन यात्रायोग्येन मुहूर्तेन).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

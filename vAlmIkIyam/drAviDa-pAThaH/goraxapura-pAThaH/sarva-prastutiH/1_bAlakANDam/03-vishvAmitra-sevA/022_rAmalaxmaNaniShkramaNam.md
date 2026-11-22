@@ -88,6 +88,20 @@ When Vashishta said that way king Dasharatha with an air of satisfaction persona
 
 **2:** Over whom auspicious rites of benediction had been performed (_kṛtasvastyayanam_) by his mother Kausalyā and by his father Daśaratha, and who had been consecrated with auspicious Vedic mantras (_maṅgalair abhimantritam_) by the royal chaplain Vasiṣṭha—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.1 (salakṣmaṇam — Inseparable Brotherhood)**
+
+Why did King Daśaratha summon Rāma together with Lakṣmaṇa (_salakṣmaṇam_) when Viśvāmitra had requested only Rāma? Both **Rāma Varmā (_Tilaka_)** and **Govindarāja (_Bhūṣaṇa_)** explain that the king knew the two brothers could never bear separation from one another (_tayor avinābhāvajñānād iti bhāvaḥ_).
+
+_____________
+
+**22.2–3 (kṛtasvastyayanam & the Yogavāsiṣṭha Discourse)**
+
+**Tilaka** and **Govindarāja** observe that vv. 2–3 form a single syntactic period (_ślokadvayam ekānvayam_). On v. 2, **Tilaka** notes that _abhimantritam_ signifies spiritual instruction (_bodhitam_) and remarks that Vasiṣṭha’s philosophical enlightenment of Rāma at this juncture is celebrated in the _Yogavāsiṣṭha_ (_tadbodhanaṃ ca yogavāsiṣṭhe prasiddham_), while **Govindarāja** understands _maṅgalaiḥ_ as Vedic benedictory hymns such as _svasti no mimītām_ (_Ṛgveda_ 5.51.11).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -278,6 +292,14 @@ Then on seeing the lotus-eyed Rama following Vishvamitra, dustless
 
 **5:** As that high-souled sage set forth (_prayāte tu mahātmani_), a great shower of blossoms fell from the sky accompanied by the reverberations of celestial kettledrums (_puṣpavṛṣṭir mahaty āsīd devadundubhinisvanaiḥ_), along with the resonance of conches and drums (_śaṅkhadundubhinirghoṣaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.4–5 (Auspicious Omens of Departure)**
+
+All three commentators highlight the three cosmic and royal omens greeting the expedition (_prayāte tu mahātmani_, as Viśvāmitra and Rāma set out upon their mission): a cool, dust-free tailwind blowing from behind (**Tilaka**), a shower of celestial blossoms with divine kettledrums in the sky (_devadundubhinisvanaiḥ_), and the festive sounding of conches and drums within Ayodhyā (**Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -336,6 +358,14 @@ Rama with jet-black hair-locks handling his bow followed Vishvamitra who walked
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Viśvāmitra walked in front (_viśvāmitro yayāv agre_); behind him walked Rāma of great renown (_tato rāmo mahāyaśāḥ_), wearing charming side-locks of hair (_kākapakṣadharo_) and bearing his bow (_dhanvī_); and Sumitrā’s son Lakṣmaṇa followed close behind him (_taṃ ca saumitrir anvagāt_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.6 (kākapakṣadharaḥ & dhanvī)**
+
+**Śiromaṇi** glosses _kākapakṣadharaḥ_ as wearing the youthful Kṣatriya side-locks flanking the central crest (_śikhāpārśvadvayasaṃbandhi-kekipakṣasadṛśa-keśasaṃhatiḥ_), while **Tilaka** explains _dhanvī_ not merely as carrying a bow, but as having thoroughly mastered the science of archery (_dhanurvidyākṛtaśramaḥ_).
 </details>
 </details>
 
@@ -410,6 +440,14 @@ The meaning of As'vins from as'va a horse, Persian asp, Greek
 
 Wearing quivers of arrows (_kalāpinau_) and holding bows in their hands (_dhanuṣpāṇī_), illuminating all ten directions (_śobhayānau diśo daśa_), they followed the high-souled Viśvāmitra like two three-headed serpents (_triśīrṣāv iva pannagau_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.7 (kalāpinau & triśīrṣāv iva pannagau)**
+
+Why are Rāma and Lakṣmaṇa compared to two three-headed serpents (_triśīrṣāv iva pannagau_)? All three commentators explain that each prince’s head flanked by the two quivers (or bow-tip and quiver) rising above his shoulders resembled three reared hoods (_pratyekaṃ tūṇīradvayadhāraṇāc chirobhyāṃ ca triśīrṣāv ivety upamānam_). **Tilaka** further cites the _Padmapurāṇa_ (_pakṣī tārkṣyaḥ samāgamya trīṇi cāstrāṇi kārmukam..._) stating that Garuḍa invisibly bestowed divine Vaiṣṇava quivers, swords, and bows upon the two brothers for the slaying of Tāṭakā and Subāhu.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -443,6 +481,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Those two high-minded princes (_akṣudrau_) followed him just as the twin Aśvins follow Pitāmaha Brahmā (_pitāmaham ivāśvinau_); following in his train (_anuyātau_), radiant with beauty (_śriyā dīptau_) and irreproachable (_aninditau_), the two adorned the sage (_śobhayetām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.8–10 (baddhagodhāṅgulitrāṇau)**
+
+All three commentators explain _baddhagodhāṅgulitrāṇau_ as wearing archer’s finger-guards crafted of iguana leather (_godhācarmakṛtāṅgulitrāṇam_) bound upon their hands; **Tilaka** rejects the view that _godhā_ alone means an arm-guard here, noting that pairing it separately with _aṅgulitrāṇa_ would create tautology (_paunaruktyāpatteḥ_).
 </details>
 </details>
 
@@ -622,6 +668,20 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 
 **12:** Viśvāmitra spoke in a sweet voice, calling out, “O Rāma!” (_rāmeti madhurāṃ vāṇīṃ viśvāmitro ’bhyabhāṣata_): “Take water for ritual sipping, my child (_gṛhāṇa vatsa salilam_); let there be no lapse of the proper hour (_mā bhūt kālasya paryayaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.11 (kumārāv iva pāvakī & adhyardhayojanam)**
+
+Completing the periodic sentence begun in v. 9, all three commentators explain _pāvakī kumārau_ as the fire-born youths Skanda and Viśākha (_pāvakāt prādurbhūtau skandaviśākhau_, **Govindarāja**, citing _Mahābhārata_ 3.217 on the fourfold manifestation of Skanda, Viśākha, Śākha, and Naigameṣa) attending upon Śiva (_sthāṇuṃ rudram_). **Tilaka** and **Govindarāja** gloss _adhyardhayojanam_ as one and a half _yojanas_ (six _krośas_).
+
+_____________
+
+**22.12 (rāmeti madhurāṃ vāṇīm & kālasya paryayaḥ)**
+
+Why was Viśvāmitra’s voice so sweet? **Govindarāja** remarks: because he spoke with love and because the very name _Rāma_ delights the ear (_bhaktipūrvakoccāraṇād rāmanāmnaḥ śravaṇānandakaratvāc ca_)! Knowing the young princes would feel hunger and thirst after six _krośas_ (**Tilaka**), the sage bids Rāma perform _ācamana_ (_salilaṃ gṛhāṇa = śuddhācamanaṃ kuru_) before mealtime passes (_kālasya paryayaḥ = annabhojanakālasyātikramaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -674,6 +734,14 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Receive from me the sacred body of mantras (_mantragrāmaṃ gṛhāṇa tvam_) known as _Balā_ and _Atibalā_ (_balām atibalāṃ tathā_). Thereby neither fatigue (_na śramo_) nor feverish heat (_na jvaro vā_) shall afflict you, nor shall your bodily beauty suffer any change (_na rūpasya viparyayaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.13–15 (mantragrāmaṃ balām atibalāṃ tathā)**
+
+All three commentators explain _mantragrāmam_ as the mantra-body of _Balā_ and _Atibalā_ (while **Tilaka** also notes a view referring it to the hundred missiles). **Tilaka** notes that _gṛhāṇa tvam_ includes Lakṣmaṇa by _upalakṣaṇa_, freeing both from fatigue, fever, and rākṣasa ambush.
 </details>
 </details>
 
@@ -811,6 +879,14 @@ Viśvāmitra extols Balā and Atibalā as the mind-born daughters of Pitāmaha B
 
 “Neither in winning grace (_na saubhāgye_), nor in dexterous skill and courtesy (_na dākṣiṇye_), nor in philosophical wisdom (_na jñāne_), nor in decisive judgment (_buddhiniścaye_), nor in furnishing a ready reply in debate (_nottare prativaktavye_) shall anyone in the world be your equal (_samo loke tavānagha_), O sinless one!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.16–17 (jñāne, buddhiniścaye & sarvajñānasya mātarau)**
+
+**Tilaka** distinguishes _jñānam_ (_tattvajñānam_, higher metaphysical knowledge) from _buddhiniścayaḥ_ (_aihikaviṣayaḥ_, decisive judgment in worldly affairs) and _uttare prativaktavye_ (_vādinaṃ prativaktavye uttare_, refuting an disputant in debate). Why are _Balā_ and _Atibalā_ called the “mothers of all knowledge” (_sarvajñānasya mātarau_)? **Tilaka** explains that by dispelling mental stupor, fainting, and hunger (_apratibhāmūrcchākṣudhādinivṛtti-sāmarthyavattvāt sarvajñānajanake_), they keep the intellect ever luminous.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -921,6 +997,14 @@ Viśvāmitra extols Balā and Atibalā as the mind-born daughters of Pitāmaha B
 
 “Neither hunger nor thirst shall ever touch you (_kṣutpipāse na te rāma bhaviṣyete_), O best of men, when you recite _Balā_ and _Atibalā_ along the way (_balām atibalāṃ caiva paṭhataḥ_), O beloved Rāghava!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.18–19 (kṣutpipāse & sarvalokasya guptaye)**
+
+**Śiromaṇi** observes that as the Supreme Person whose form is non-material bliss (citing Śruti _ānandarūpam amṛtaṃ yad vibhāti_ and Smṛti _yo vetti bhautikaṃ dehaṃ rāmasya paramātmanaḥ..._), Rāma is never subject to physical hunger or thirst; yet, as v. 19a declares, he accepts the twin _vidyās_ for the protection of the world (_sarvalokasya guptaye_) and to model righteous conduct (_svamaryādā-pālakatvam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -957,6 +1041,14 @@ Viśvāmitra extols Balā and Atibalā as the mind-born daughters of Pitāmaha B
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Receive them for the protection of the entire world (_gṛhāṇa sarvalokasya guptaye_), O delight of the Raghus! When you study and recite this pair of _vidyās_ (_vidyādvayam adhīyāne_), boundless renown shall be yours upon the earth (_yaśaś cātha bhaved bhuvi_); for these two radiant sciences are the very daughters of Pitāmaha Brahmā (_pitāmahasute hy ete vidye tejaḥsamanvite_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.19ef–20 (pitāmahasute & kāmaṃ bahuguṇāḥ sarve)**
+
+Looking back after the manner of a lion’s gaze (_siṃhāvalokananyāyena_, **Śiromaṇi**), Viśvāmitra reveals why these two sciences possess such cosmic potency: they are the mind-born daughters of Lord Brahmā himself (_pitāmahasute = brahmaṇaḥ pūrvaṃ prādurbhūte_, **Tilaka**, **Śiromaṇi**), and Rāma alone is worthy to receive them.
 </details>
 </details>
 
@@ -1079,6 +1171,14 @@ Then Rama on touching water to purify himself received those teachings from the
 
 “Yet these two sciences, nurtured through asceticism (_tapasā saṃbhṛte_), shall assume manifold fruitful forms in you (_bahurūpe bhaviṣyataḥ_).” Thereupon Rāma, having sipped water in ritual purification (_jalaṃ spṛṣṭvā_), pure (_śuciḥ_) and with a joyful countenance (_prahṛṣṭavadanaḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.21–22 (tapasā saṃbhṛte & bahurūpe bhaviṣyataḥ)**
+
+Completing v. 20cd, **Govindarāja** and **Śiromaṇi** explain that although Rāma already possesses every virtue innately, the two sciences nurtured by Viśvāmitra’s asceticism (_tapasā saṃbhṛte_) will gain manifold glory in the world by being imparted to Rāma (_tvadupadeśāl loke bahudhā vistṛte bhaviṣyataḥ_). **Tilaka** adds that when held (_dhṛte_) by Rāma—the embodied goal of all _tapas_ (_taporūpeṇa bhavatā_)—they yield fruits surpassing even Śāstric promise.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1196,6 +1296,14 @@ _________________
 
 Like the glorious thousand-rayed sun in autumn (_sahasraraśmir bhagavāñ śaradīva divākaraḥ_). Having performed all the duties of service due to a preceptor (_gurukāryāṇi sarvāṇi niyujya_) toward the son of Kuśika (_kuśikātmaje_), the three of them spent that night most happily there on the bank of the Sarayū (_ūṣus tāṃ rajanīṃ tatra sarayvāṃ susukhaṃ trayaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.23 (gurukāryāṇi sarvāṇi niyujya kuśikātmaje)**
+
+Under the locative reading _kuśikātmaje_, all three commentators explain that Rāma and Lakṣmaṇa rendered all evening services due to a preceptor—such as pressing his feet (_pādasaṃvāhanādīni_)—unto Viśvāmitra; **Tilaka** also notes the nominative _kuśikātmajaḥ_ (“having instructed the princes in a disciple’s duties”).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1372,14 @@ Though both Rama and Lakshmana slept on an undeserving grass bed, nestled by the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And for those two foremost sons of King Daśaratha (_daśarathanṛpasūnusattamābhyām_), resting then upon an unaccustomed couch of grass (_tṛṇaśayane ’nucite tadoṣitābhyām_) yet tenderly caressed by the affectionate words of Kuśika’s son (_kuśikasutavaco’nulālitābhyām_), that night shone forth full of felicity (_sukham iva sā vibabhau vibhāvarī ca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.24 (tṛṇaśayane ’nucite — Puṣpitāgrā Coda)**
+
+Though sleeping on an unaccustomed bed of grass (_tṛṇaśayane ’nucite_), the night shone blissfully because the princes were soothed by the sage’s affectionate words (_kuśikasutavaco’nulālitatvam_, **Tilaka**). **Govindarāja** notes that Rāma shared the _vidyās_ with Lakṣmaṇa.
 </details>
 </details>
 

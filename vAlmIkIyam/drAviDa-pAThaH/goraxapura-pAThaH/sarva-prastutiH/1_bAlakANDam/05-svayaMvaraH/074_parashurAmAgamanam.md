@@ -80,6 +80,14 @@ When that night is elapsing into the wee hours of next day, then the eminent-sai
 
 Then, when the night had passed away, the great sage Viśvāmitra took formal leave of both those kings (_āpṛṣṭvā tau ca rājānau_) and departed for the northern mountain (_jagāmottaraparvatam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.1–2 (uttaraparvatam & jagāmāśu)**
+
+Taking leave (_āpṛṣṭvā_ = _āpṛcchya_) of Daśaratha and Janaka at dawn, Viśvāmitra retires to the northern mountain—glossed by **Tilaka** as the Himālayan range bordering his beloved Kauśikī river (_kauśikītaṭāvacchinnam_) and by **Govindarāja** as his Himālayan hermitage (_svāvāsaṃ himavantam_). In v. 2, **Tilaka** glosses _jagāma_ inchoatively as “prepared to depart” (_gantum_), setting the stage for Janaka’s farewell gifts.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,6 +227,14 @@ Then that king Janaka of Mithila, the one from Videha lineage, gave innumerable
 
 **4:** —and of the finest woolen blankets, linen robes, and crores of costly garments (_kambalānāṃ ca mukhyānāṃ kṣaumān koṭyambarāṇi ca_), together with elephants, horses, chariots, and foot-soldiers, divinely fair and splendidly arrayed (_hastyaśvarathapādātaṃ divyarūpaṃ svalaṃkṛtam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.3–4 (kanyādhanam & kambalānāṃ mukhyānām)**
+
+**Tilaka** defines _kanyādhanam_ as _yautaka_—the bridal dowry gifted to a daughter at marriage (_vivāhakāle kanyāyai deyaṃ dhanaṃ yautakākhyam_). Both **Śiromaṇi** and **Govindarāja** carry over _śatasahasrāṇi_ to _kambalānām_ (“hundreds of thousands of fine blankets from Nepāl and elsewhere,” _nepālādibhavānām_, **Tilaka**), while _hastyaśvarathapādātam_ takes singular _samāhāradvandva_ inflection as a fourfold army division (_senāṅgatvād ekavadbhāvaḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -274,6 +290,14 @@ King Janaka gave beau idéal bridal riches in gold, silver, pearls and corals ev
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He gave to those princesses a hundred peerless high-born maidens as companions and male and female attendants (_dadau kanyāśataṃ tāsāṃ dāsīdāsam anuttamam_), along with vast stores of silver, gold, pearls, and coral (_hiraṇyasya suvarṇasya muktānāṃ vidrumasya ca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.5 (kanyāśatam & hiraṇyasya suvarṇasya)**
+
+**Tilaka** explains that Janaka gave a hundred maidens as companions to each of the four brides (_sakhītvena tāsāṃ rājakumārīṇāṃ pratyekam_). Distinguishing _hiraṇya_ (“silver,” _rajatam_) from _suvarṇa_ (“gold,” _hema_), **Tilaka** and **Govindarāja** supply _koṭi_ or _śatam_ to govern the partitive genitives.
 </details>
 </details>
 
@@ -380,6 +404,14 @@ Even the king Dasharatha, the sovereign of Ayodhya proceeded with his noble-soul
 
 **7:** —the lord of Mithilā re-entered his own abode, the city of Mithilā (_praviveśa svanilayaṃ mithilāṃ mithileśvaraḥ_). And the king, sovereign lord of Ayodhyā, together with his high-souled sons,—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.6–8 (samanujñāpya pārthivam & sabalānugaḥ)**
+
+Having accompanied Daśaratha a short distance and taken formal leave of him (_pārthivaṃ daśaratham_, **Tilaka**), Janaka re-enters Mithilā. Placing Vasiṣṭha and the sages at the head of his column, Daśaratha marches toward Ayodhyā with his fourfold army (_caturaṅgaiḥ_) and retinue of attendants (_kiṅkaraiḥ_, **Tilaka** and **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -454,6 +486,14 @@ Also thus, all of the earth bound animals are going his leftward, and on seeing
 
 **9:** —birds uttered dreadful cries on all sides (_ghorās tu pakṣiṇo vāco vyāharanti samantataḥ_), while all the beasts of the earth moved clockwise around them (_bhaumāś caiva mṛgāḥ sarve gacchanti sma pradakṣiṇam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.9 (Contradictory Aerial and Terrestrial Portents)**
+
+All three commentators highlight the striking juxtaposition in v. 9: birds such as crows (_karaṭādayaḥ_, **Tilaka**; _vāyasādayaḥ_, **Govindarāja**) utter harsh, ominous cries overhead, while terrestrial deer pass clockwise (_pradakṣiṇam_) on the ground. **Tilaka** notes that the bird-cries portend an initial peril while the clockwise deer portend subsequent good fortune (_pakṣiṇāṃ ghoravyāharaṇam ādau durnimittaṃ tato mṛgapradakṣiṇagamanaṃ sunimittam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -507,6 +547,14 @@ Also thus, all of the earth bound animals are going his leftward, and on seeing
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding those portents, that tiger among kings questioned Vasiṣṭha (_tān dṛṣṭvā rājaśārdūlo vasiṣṭhaṃ paryapṛcchata_): “Why are the birds uttering harsh and dreadful cries, while the beasts of the earth move clockwise around us (_asaumyāḥ pakṣiṇo ghorā mṛgāś cāpi pradakṣiṇāḥ_)?
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.10 (Why Vālmīki Specifies bhaumāḥ)**
+
+**Govindarāja** explains that the adjective _bhaumāḥ_ (“terrestrial”) is expressly used to contrast the inauspicious omen in the sky with the auspicious omen on the earth (_antarikṣe aśubhasūcanaṃ bhūmau śubhasūcanam ity arthasya dyotanārthaṃ bhaumā iti padam_).
 </details>
 </details>
 
@@ -605,6 +653,20 @@ On hearing all that is said by king Dasharatha, the instinctual sage Vashishta
 
 **12:** —spoke in a sweet and soothing voice: “Hear what the outcome of this portent shall be (_śrūyatām asya yat phalam_)! A dreadful danger is at hand, heralded from the sky by the mouths of the birds (_upasthitaṃ bhayaṃ ghoraṃ divyaṃ pakṣimukhāc cyutam_);—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.11 (Why Daśaratha’s Mind Sinks)**
+
+Why does Daśaratha say _mano mama viṣīdati_ (“my mind despairs”) when the deer are moving auspiciously to the right? **Tilaka** and **Govindarāja** explain that witnessing both auspicious and inauspicious omens simultaneously leaves him unable to determine whether the ultimate result will be weal or woe (_kim idaṃ duḥkhodarkaṃ sukhodarkaṃ veti praśnaḥ, aniścayān me mano viṣīdati_, **Tilaka**; _śubhāśubhasūcanadarśanenobhayatra nirṇayakāraṇābhāvāt_, **Govindarāja**).
+
+_____________
+
+**74.12–13 (divyaṃ pakṣimukhāc cyutam & mṛgāḥ praśamayanti)**
+
+**Tilaka** glosses _divyam_ as “aerial” (_divi khe bhavam_): the cry falling from the birds’ beaks heralds an imminent, terrifying danger (_ghoraṃ bhayam upasthitam āśu vedayati_), whereas **Śiromaṇi** derives _divyam_ from the root _div-_ with the suffix _ṇyat_ (without _guṇa_, by _anityatva_). Yet the clockwise deer signify that this peril will promptly subside (_praśamaṃ sūcayanti_, **Tilaka**, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -683,6 +745,14 @@ Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
 
 **14:** —shaking the entire earth and felling mighty trees (_kampayan medinīṃ sarvāṃ pātayaṃś ca mahādrumān_). The sun was veiled in darkness, and none could discern the quarters of the sky (_tamasā saṃvṛtaḥ sūryaḥ sarve nāvediṣur diśaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.14–15 (tamasā & bhasmanā)**
+
+Even as they speak (_saṃvadatāṃ saṃvadatsu_, **Govindarāja**), a hurricane shakes the earth and shrouds the army in portents of darkness and ash-like dust (_tamo bhasma cobhayam apy utpātajam_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -746,6 +816,14 @@ Then Vashishta and the other sages, the king Dasharatha along with his sons
 **15:** Everything was shrouded in ash-like dust, and that entire army seemed stupefied (_bhasmanā cāvṛtaṃ sarvaṃ sammūḍham iva tad balam_). Only Vasiṣṭha, the other sages, and the king together with his sons at that time—
 
 **16:** —remained conscious, as it were, while all the rest stood bereft of sense (_sasaṃjñā iva tatrāsan sarvam anyad vicetanam_). In that dreadful darkness, that army, as though buried in ashes (_bhasmacchanneva sā camūḥ_),—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.16–17 (sasaṃjñā iva & jāmadagnyeyam)**
+
+**Tilaka** glosses _sasaṃjñā iva_ as “retaining partial consciousness” (_īṣatsaṃjñā ity arthaḥ_), while the rest of the host stood utterly stunned. On _jāmadagnyeyam_, **Govindarāja** explains the double patronymic suffix (_yañ_ followed by _ḍhak_ under _Pāṇini_ 4.1.122 _itaś cāniñaḥ_), and also notes the reading _jāmadagnyam_ used figuratively for an immediate son (_anantarāpatye ’pi yañ gotratvāropāt_).
 </details>
 </details>
 
@@ -829,6 +907,14 @@ In that catastrophic darkness, that sand-muffled military of king Dasharatha has
 
 **19:** Having slung his battle-axe upon his shoulder and grasping a bow dazzling like a cluster of lightning bolts (_skandhe cāsajya paraśuṃ dhanur vidyudgaṇopamam_) along with a fierce arrow, he shone like Śiva the destroyer of Tripura (_tripuraghnaṃ yathā śivam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.18–19 (kailāsam iva & tripuraghnaṃ yathā śivam)**
+
+**Tilaka** notes that _kailāsam iva_ conveys Paraśurāma’s towering stature (_mahākāratvam_) and _pṛthagjanaiḥ_ means ordinary mortals (_pāmarajanaiḥ_), while **Śiromaṇi** also offers an alternative construction of _tejobhiḥ pṛthag durnirīkṣyam_: so incandescent that his body cannot be distinguished apart from his radiance! Bearing axe, lightning-like bow, and arrow, he resembles Śiva poised to burn Tripura.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,6 +967,14 @@ On seeing him who is perilous in his propensity and flaming like the Ritual-fire
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding him of terrifying appearance, blazing like a flaming fire (_jvalantam iva pāvakam_), the brahmins headed by Vasiṣṭha, ever devoted to _japa_ and _homa_ oblations (_japahomaparāyaṇāḥ_),—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.20 (japahomaparāyaṇāḥ on the March)**
+
+How could the sages perform _homa_ while marching on the highway? **Tilaka** records two explanations: either they offered the internal breath-oblation of _prāṇa_ into _apāna_ (_kecit_) or the compound is a standing characteristic epithet (_upalakṣaṇam_); **Govindarāja** concisely glosses _homaḥ mānasaḥ_ (“mental oblation”).
 </details>
 </details>
 
@@ -955,6 +1049,14 @@ An account of Parashu Rama's elimination of Kshatriya clans is given in
 
 **22:** “Yet having already slaughtered the Kṣatriyas of old, his wrath and fever of grief have passed away (_pūrvaṃ kṣatravadhaṃ kṛtvā gatamanyur gatajvaraḥ_); surely the extermination of the Kṣatriyas a second time is not his intention (_kṣatrasyotsādanaṃ bhūyo na khalv asya cikīrṣitam_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.21–22 (The Sages’ Doubt and Reassurance)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** trace the two stages of the sages’ deliberation (_manaso vimarśe_, **Govindarāja**): in v. 21, remembering how Kārtavīrya’s sons slew Jamadagni, they fear that Paraśurāma (_pitṛvadhāmarṣī_) may again annihilate the Kṣatriyas; in v. 22, they reassure themselves (_vitarke_, **Tilaka**) that since he already avenged his father twenty-one times and his wrath and anguish have subsided (_gatamanyur gatajvaraḥ_), he cannot intend another slaughter of the Kṣatriya race.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1009,6 +1111,14 @@ After their susurrus the sages have approached him, who in his very look is like
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus among themselves and taking up the _arghya_ offering, the sages addressed the Bhārgava of terrifying aspect with sweet words, saying, “O Rāma, O Rāma!” (_ṛṣayo rāma rāmeti madhuraṃ vākyam abruvan_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.23 (arghyam ādāya ... rāma rāmeti)**
+
+Having calmed their fears, Vasiṣṭha and the sages step forward with _arghya_ water and greet the terrifying Bhārgava with the gentle, auspicious address “O Rāma, O Rāma!” (_rāma rāmeti madhuraṃ vākyam_).
 </details>
 </details>
 
@@ -1070,6 +1180,14 @@ On receiving the deference paid by the sage Vashishta, that inexorable Rama of
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Accepting that homage offered by the sages (_pratigṛhya tu tāṃ pūjām ṛṣidattām_), the mighty Rāma Jāmadagnya addressed Rāma Dāśarathi (_rāmaṃ dāśarathiṃ rāmo jāmadagnyo ’bhyabhāṣata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**74.24 (Rāma Jāmadagnya Confronts Rāma Dāśarathi)**
+
+Accepting the _arghya_ worship presented by Vasiṣṭha (_ṛṣidattāṃ vasiṣṭhapratisamarpitām_, **Śiromaṇi**)—and disregarding King Daśaratha altogether—Rāma Jāmadagnya turns directly to challenge Rāma Dāśarathi, setting up the dramatic test of the Vaiṣṇava bow in Sarga 75.
 </details>
 </details>
 

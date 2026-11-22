@@ -1259,6 +1259,134 @@ for kingdom to her son by creating obstacle to your coronation."
 
 “I shall burn to ashes that hope (_ahaṃ tadāśāṃ dhakṣyāmi_) of your father and of her, which seeks the kingship for her son through the destruction of your consecration!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.23.1 (the midpoint between grief and joy)**
+
+All three commentators explain why Lakṣmaṇa momentarily stands midway between sorrow and joy (दुःखहर्षयोर्मध्यं जगाम): he rejoices at beholding Rāma's unshakable steadfastness in _dharma_ (रामस्य धर्मे धैर्यं दृष्ट्वा हर्षः), yet grieves at Rāma's loss of the kingdom (तस्य राज्यभ्रंशाद् दुःखम्). Bowing his head (अवाक्शिराः / अधःशिराः) signals his outward deference to his elder brother, while the particle इव indicates that this equanimity lasts only an instant before his fiery nature as Śeṣa flares up again (उत्तरक्षणे माध्यस्थ्यत्यागस्य वक्ष्यमाणत्वात् [_Bhūṣaṇa_]).
+
+_____________
+
+**2.23.2–4 (wrathful gestures and agrahastam)**
+
+Knitting his brow, Lakṣmaṇa hisses like a serpent confined in a basket (पेटिकाबिलस्थः न तु वल्मीकस्थः [_Bhūṣaṇa_]). Shaking the forearm that Rāma had clasped to calm him (अग्रहस्तं रामेण क्षमापनाय गृहीतम् [_Tilaka_]) and tossing his neck sideways, upwards, and downwards (तिर्यगूर्ध्वमधश्च पातयित्वा), he shoots a sidelong glance (अग्राक्ष्णा कटाक्षेण).
+
+_____________
+
+**2.23.5–6 (asthāne sambhramaḥ and lokasyānatiśaṅkayā)**
+
+Construing vv. 5–7 together, _Tilaka_ and Govindarāja explain that Rāma's haste to depart (सम्भ्रमः वनगमनत्वरा) is “out of place” (अस्थाने अयुक्तः): Rāma fears violating _dharma_ by disobeying his father (धर्मदोषप्रसङ्गेन) and fears public distrust—that people might say, “How can one who disobeys his father protect us?” (लोकस्यानतिशङ्कया अतिशङ्कापरिहाराय).
+
+_____________
+
+**2.23.7–8 (kṛpaṇaṃ daivam and dharmopadhāḥ)**
+
+Citing Bṛhaspati (कृपणं बुद्धिपौरुषहीनानां जीविका), Govindarāja and _Tilaka_ explain that Destiny is “wretched” (कृपणं दुर्बलैकपरिग्राह्यतया शोच्यम्) because only the weak invoke it, and “powerless” (अशक्तम्) against heroic effort (पौरुषसंनिधौ कार्यासमर्थम्). Turning in v. 8 to Daśaratha and Kaikeyī (तयोः पापयोः), Lakṣmaṇa warns that the world contains smooth-spoken hypocrites who use _dharma_ as a fraudulent pretext (धर्मः उपधा छलं व्याजो येषां ते धर्मोपधाः श्लक्ष्णाः धर्माचरणकञ्चुकेन स्वदोषपिधानचतुराः [_Tilaka_, _Bhūṣaṇa_]).
+
+_____________
+
+**2.23.9 (proof that the boon-story is a fabrication)**
+
+Both _Tilaka_ and Govindarāja unpack Lakṣmaṇa's presumption test (अर्थोत्पत्त्या साधयति): if Daśaratha and Kaikeyī had not colluded by fraud (शाठ्यात्) to stage this interruption, why was the boon never mentioned or fulfilled before Rāma's consecration was proclaimed (स वरोऽभिषेकारम्भात् पूर्वमेव दत्तः स्यात्)? Therefore, concludes Lakṣmaṇa, the story of the boons is a sheer fabrication (तस्माद् वरप्रदानकथा मिथ्यैवेति भावः).
+
+_____________
+
+**2.23.10–12 (so 'pi dharmo mama dveṣyaḥ)**
+
+Begging forgiveness for contradicting Rāma (त्वद्विषये प्रतिवचनदानरूपं ममापराधं क्षन्तुमर्हसि [_Tilaka_]), Lakṣmaṇa declares that a pseudo-_dharma_ (धर्माभासत्वात्) that makes Rāma waver (द्वैधम् आगता) and obey a uxorious father's censured command is hateful to him.
+
+_____________
+
+**2.23.13–14 (kilbiṣād bhedaḥ and śatrvoḥ pitrabhidhānayoḥ)**
+
+Explaining v. 13, _Tilaka_ and Govindarāja gloss भेदः as the disruption of the consecration (अभिषेकविघटनात्मा विपर्यासः) and किल्बिषात् as born of the fraudulent fiction of the boons (मृषावरप्रकल्पनात्): Lakṣmaṇa grieves that Rāma accepts a treacherous plot as genuine obligation (कपटकृतमप्यर्थमसाधुं साधुतया गृह्णातीति मम व्यथा [_Tilaka_]). In v. 14 (where _Tilaka_ supplies त्वां विनान्यः with कुर्यात्, while Govindarāja reads कुर्यास्त्वम्), Daśaratha and Kaikeyī are called wanton enemies who merely bear the name of parents (कामवृत्तयोरहितयोर्नित्यं पितृनामकशत्र्वोः).
+
+_____________
+
+**2.23.15–17 (primacy of puruṣakāra over daiva)**
+
+Even granting Rāma's thesis (Sarga 22) that the parents' resolve is impelled by Destiny (तयोः पित्रोः प्रतिपत्तिः दैवी दैवकृता [_Tilaka_, _Bhūṣaṇa_]), Lakṣmaṇa insists it must be spurned (उपेक्षणीयम्). Only a coward (विक्लवः कातरः) submits to fate; self-respecting heroes (संभावितात्मानः सर्वलोकश्लाघ्यशौर्यादिमन्तः) overpower fate through manly exertion (पुरुषकारेण पौरुषबलेन दैवं बाधितुं समर्थः) and never lose heart (नावसीदति).
+
+_____________
+
+**2.23.18 (vyaktā vyaktiḥ)**
+
+Both _Tilaka_ and Govindarāja gloss व्यक्तिः as the decisive discrimination of which of the two—Destiny or human effort—is stronger and which weaker (प्रबलदुर्बलत्वविवेकः).
+
+_____________
+
+**2.23.19–20 (turning back Destiny like a rutting elephant)**
+
+Under _Tilaka_'s reading यैर्दैवादाहतं तेऽद्य दृष्टं राज्याभिषेचनम् (v. 19), the citizens (यैर्जनैः) who witnessed Rāma's consecration struck down by Destiny will today see Destiny itself struck down by Lakṣmaṇa's valor (मत्पौरुषहतम्); Govindarāja records the variant यद् दैवादाहतम्. In v. 20, both commentators gloss अत्यङ्कुशम् as defying the driver's hook (अतिक्रान्ताङ्कुशव्यापारम्) and उद्दामम् as having burst its tether (उत्कृष्टदामं निरर्गलम् / छिन्ननिगडम्): just as a champion subdues a rampaging elephant, so Lakṣmaṇa's valor will turn back adverse Destiny.
+
+_____________
+
+**2.23.21–22 (addressing Rāma as rājan)**
+
+Declaring that not even the world-guardians (लोकपालाः) or all three worlds could obstruct Rāma's consecration, Lakṣmaṇa addresses Rāma in v. 22b as “O king!” (राजन्)—treating Rāma's kingship as already an accomplished fact secured by Lakṣmaṇa's valor (स्वपौरुषेण राजत्वं सिद्धवत् कृत्याह राजन्निति [_Tilaka_, _Bhūṣaṇa_]). Those who secretly (मिथः रहसि) plotted Rāma's exile shall themselves dwell in the forest for fourteen years.
+
+_____________
+
+**2.23.23–24 (āśām and pauruṣam)**
+
+Citing _Vaijayantī_ (आशा दिगतितृष्णयोः), Govindarāja and _Śiromaṇi_ gloss आशाम् as greedy craving (अतितृष्णाम्), which Lakṣmaṇa vows to burn (धक्ष्यामि) or sever (छेत्स्यामि).
+
+_____________
+
+**2.23.25–26 (when vānaprastha retirement is scripturally enjoined)**
+
+Pointing out the proper time for forest life (वनवासोचितं कालं स्वयमेवाह [_Tilaka_]), Lakṣmaṇa declares that only after Rāma has ruled for a thousand years (ऊर्ध्वं वर्षसहस्रान्ते) and retired to the third stage of life (वानप्रस्थाश्रमस्थे सति [_Bhūṣaṇa_]) should Rāma's own sons (आर्यपुत्राः आर्यस्य तव पुत्राः) succeed him—leaving no opening for Bharata even then (तदानीमप्यन्येषां नावकाशः). By the practice of ancient royal sages (पूर्वराजर्षिवृत्त्या), forest retirement is prescribed (अभिधीयते / विधीयते) only after placing the subjects in the care of one's sons.
+
+_____________
+
+**2.23.27–29 (rājany anekāgre and veleva sāgaram)**
+
+Construing vv. 27–28 together (श्लोकद्वयमेकान्वयम्), _Tilaka_ and Govindarāja explain that if Rāma hesitates to accept the throne out of fear that the fickle-minded king's opposition (राजनि दशरथे अनेकाग्रे चलचित्ते अव्यवस्थितचित्ते सति) might provoke civil turmoil and destabilize the realm (राज्यविभ्रमशङ्कया), Lakṣmaṇa swears on his hope of the heroes' heaven (मा भूवं वीरलोकभाक्) to contain all disorder just as the shoreline (वेला) contains the ocean.
+
+_____________
+
+**2.23.30 (the fourfold martial equipment)**
+
+Lakṣmaṇa's two arms are not for display, his bow is not an ornament, his sword is not strapped to his belt for show (कक्ष्याबन्धनरूपप्रयोजनाय [_Bhūṣaṇa_]), and his arrows are not for propping up loads or targets (स्तम्भहेतवः [_Tilaka_, _Bhūṣaṇa_]).
+
+_____________
+
+**2.23.31–32 (catuṣṭayam and vajriṇaṃ vā na kalpaye)**
+
+Linking v. 31a to v. 30, the commentators note that “all this quartet” (सर्वमेतच्चतुष्टयम्) refers to Lakṣmaṇa's arms, bow, sword, and arrows (बाह्वादि), which exist solely to crush foes. Construing v. 31c–d with v. 32 (सार्धश्लोक एकं वाक्यम्), _Tilaka_ explains न कल्पये as “I shall hack to pieces” (खण्डशः कल्पये), whereas Govindarāja glosses “I do not reckon even Indra (वज्रिणमपि) a standing foe; I shall hew him down” (न स्थापयामि हन्मीत्यर्थः).
+
+_____________
+
+**2.23.33–34 (khaḍganiṣpeṣa- and blazing foes or mountain-like elephants)**
+
+Hewn by the strokes of Lakṣmaṇa's sword (खड्गनिष्पेषनिष्पिष्टैः खड्गताडनेन खण्डितैः), the trunks of elephants and limbs of horses and warriors will render the battlefield dense as a forest (गहना काननमिव निरन्तरा). Under _Tilaka_'s reading इवाग्नयः ... द्विषः (v. 34), enemies streaming with blood blaze like fires and fall like lightning-lit clouds; under Govindarāja's reading इवाद्रयः ... द्विपाः, war-elephants (द्विपाः) struck by the sparking sword-blade (सविस्फुलिङ्गया) fall like flaming mountains and dark clouds.
+
+_____________
+
+**2.23.35–36 (godhāṅgulitrāṇa and atyasyan)**
+
+Citing _Amara_ (गोधातलं ज्याघातवारणे), the commentators explain गोधा as the leathern bowstring-guard and अत्यस्यन् (from अस् क्षेपे) as showering arrows.
+
+_____________
+
+**2.23.37 (astraprabhāvasya prabhāvaḥ)**
+
+Citing _Vaijayantī_ (प्रतापमाहात्म्ययोः प्रभावः स्यात्), all three commentators explain that the repetition of प्रभावः is free from tautology: the first (अस्त्रप्रभावस्य) means the majesty or power of Lakṣmaṇa's divine missiles (अस्त्रसामर्थ्यस्य / अस्त्रमाहात्म्यस्य), while the second (प्रभावः) means its blazing martial valor (प्रतापः), which will depose Daśaratha (राज्ञश्चाप्रभुतां कर्तुम्) and enthrone Rāma.
+
+_____________
+
+**2.23.38–40 (keyūrāmokṣaṇasya and tavāsmi kiṃkaraḥ)**
+
+Construing vv. 38–39 as a single sentence (श्लोकद्वयमेकं वाक्यम्), the commentators cite _Amara_ (केयूरमङ्गदम्) to gloss केयूरामोक्षणस्य as wearing royal armlets (अङ्गदधारणस्य) and वसूनां विमोक्षस्य as bestowing wealth in charity (धनानां दानस्य): setting aside those princely pastimes, Lakṣmaṇa's arms will now perform their true warrior work of routing the obstructers of Rāma's consecration. In v. 40a, _Śiromaṇi_ notes the epic form ब्रवीहि (= ब्रूहि, with _ārṣa_ ईट् and absence of guṇa).
+
+_____________
+
+**2.23.41 (wiping Lakṣmaṇa's tears and satpathaḥ)**
+
+Wiping away the tears from Lakṣmaṇa's eyes (बाष्पं लक्ष्मणनयनजं विमृज्य परिमृज्य [_Tilaka_, _Śiromaṇi_]), Rāma consoles him repeatedly and invokes the canonical definition of a true son (जीवतो वाक्यकरणात् ... त्रिभिः पुत्रस्य पुत्रता [_Tilaka_]) to declare that abiding by his parents' word is the eternal path of the righteous (सत्पथः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

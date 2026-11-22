@@ -147,6 +147,80 @@ from the above *aatmavaan* normally means sagacious one.
 
 Having entered the vast forest (_mahāraṇyam_)—the forest of Daṇḍaka (_daṇḍakāraṇyam_)—the self-possessed (_ātmavān_) and unassailable (_durdharṣaḥ_) Rāma beheld a circle of ascetic hermitages (_tāpasāśrama-maṇḍalam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.1.1–2 (Purpose of the Araṇyakāṇḍa & brāhmyā lakṣmyā)**
+
+Opening his _Ratnamekhalā_ commentary on the Araṇyakāṇḍa, **Govindarāja** (_Bhūṣaṇa_) observes that whereas the previous book exemplified filial obedience (पितृवचनपरिपालनरूपो धर्मः), this book inaugurates the _dharma_ of protecting the righteous (सज्जनसंरक्षणरूपं धर्मविशेषम्). All three commentators note that King Daṇḍaka's realm became a wilderness through Śukra's curse (शुक्रशापवशादरण्यमभूत्, _Tilaka_). Reading दुर्धर्षः as Rāma unassailable by foes (द्विषद्भिरधृष्यः, _Tilaka_) or दुर्धर्षम् for the hermitage circle impervious to demons, **Govindarāja** likens the grove ringed by Vedic lustre (ब्राह्म्या लक्ष्म्या) to the midday sun unassailable by the Mandeha demons (मन्देहाख्यरक्षोभिराक्रमणं नतु मध्याह्ने).
+
+_____________
+
+**3.1.3–4 (śaraṇyam & upanṛttam)**
+
+On शरण्यम्, **Govindarāja** (_Bhūṣaṇa_) explains that the hermitage affords fearless shelter to all creatures because innate animosities between predator and prey cease there (सहजवैरप्रयुक्तवध्यघातकभावाभावेन). On चोपनृत्तम् (प्रनृत्तम् in _Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that troops of _apsarases_ dance nearby (समीपे कृतनर्तनम्) owing to the enchanting beauty of the locale (अतिमनोरमदेशत्वात्, _Tilaka_), while **Govindarāja** cites the _Vaijayantī_ lexicon on स्रुग्भाण्डैः (पात्रे भाण्डम्).
+
+_____________
+
+**3.1.5–6 (balihomārcitam & Forest Blossoms)**
+
+On बलिहोमार्चितम्, **Govindarāja** (_Bhūṣaṇa_) distinguishes _bhūta-bali_ offerings (भूतबलिप्रभृतिभिः) from _Vaiśvadeva_ fire-oblations (होमैर्वैश्वदेवाग्निहोत्रैः), and reads वन्यैः as flowers offered in divine worship (देवपूजार्थसमर्पितैः).
+
+_____________
+
+**3.1.7–9 (sūryavaiśvānarābhaiḥ & Ascetic Radiance)**
+
+On दान्तैः, **Śivasahāya** (_Śiromaṇi_) glosses the ascetics as masters of both internal and external organs (यमितोभयकरणैः), wearing bark-garments and black deerskins (चीराणि वृक्षपटाः कृष्णाजिनानि च तान्येवाम्बराणि येषां तैः). **Govindarāja** (_Bhūṣaṇa_) explains the dual simile सूर्यवैश्वानराभैः—shining like the sun and fire—as reflecting gradations of spiritual lustre among the sages (मुनिषु तारतम्यदर्शनाय तद्वदुपमानद्वयम्), while both **Rāma Varmā** (_Tilaka_) and **Govindarāja** gloss पुराणैः as venerable elders (वृद्धैः; चिरन्तनमुनिभिः in _Śiromaṇi_).
+
+_____________
+
+**3.1.10 (vijyaṃ kṛtvā mahad dhanuḥ & Divine Sight)**
+
+Construing verses 8–10a as a single syntactic unit (सार्धश्लोकद्वयमेकान्वयम्), **Rāma Varmā** (_Tilaka_) notes that Rāma unstrung his mighty bow (महद्धनुर्विज्यं कृत्वा अभ्यगच्छत्) before entering the peaceful sanctuary. Endowed with clairvoyant wisdom (दिव्यज्ञानोपपन्नाः), the great sages recognized Rāma's true nature and came forward in joy (प्रीताः सन्तः) to meet him and Vaidehī.
+
+_____________
+
+**3.1.11–12 (somam ivodyantam & Auspicious Welcome)**
+
+On सोममिवोद्यन्तम्, **Govindarāja** (_Bhūṣaṇa_) compares Rāma to the rising moon setting out to dispel the world's darkness (अन्धकारनिवर्तनप्रवृत्तं चन्द्रमिव स्थितम्). Pronouncing auspicious blessings (मङ्गलानि प्रयुञ्जानाः), the sages of firm vows (दृढव्रताः) welcomed Rāma, Lakṣmaṇa, and Sītā as honored guests (अतिथित्वेन स्वीचक्रुः, _Śiromaṇi_; प्रतिगृहीतवन्तः, _Tilaka_).
+
+_____________
+
+**3.1.13–14 (Aesthetic Definitions & Unblinking Gaze)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) quote classical definitions distinguishing natural beauty needing no ornament (येन भूषितवद्भान्ति तद्रूपमिति कथ्यते), well-knit bodily symmetry (सुश्लिष्टसन्धिबन्धः for संहननम्), and pearly lustre (मुक्ताफलेषु छायायास्तरलत्वमिवान्तरा for लक्ष्मीम्). Where _Tilaka_ construes वनवासिनः (gen. sg.) with रामस्य—marveling that even in forest exile Rāma retains such grace—**Śivasahāya** (_Śiromaṇi_) and **Govindarāja** take it as nom. pl. for the ascetics who, though normally unmoved (अविकृतचित्ताः), gaze with unblinking eyes (नेत्रैरनिमिषैरिव) lest blinking interrupt their bliss (रूपदर्शनजनितानन्दभङ्गभीरुतया).
+
+_____________
+
+**3.1.15–16 (parṇaśālāyām & rāmasya satkṛtya)**
+
+On पर्णशालायाम्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that the sages lodged Rāma in their own respective leaf-cottages (प्रातिस्विक्याम्, स्वस्वपर्णशालायाम्). On रामस्य सत्कृत्य, **Govindarāja** flags the genitive with a gerund as _ārṣa_ (षष्ठ्यार्षी 'न लोकाव्ययनिष्ठा-' इति निषेधात्), whereas _Tilaka_ justifies it via शेषत्वविवक्षायां षष्ठी.
+
+_____________
+
+**3.1.17–18 (prāñjalayaḥ & Surrender of the Hermitage)**
+
+On प्राञ्जलयः, **Rāma Varmā** (_Tilaka_) remarks that although _brāhmaṇas_ should not fold their palms before a _kṣatriya_ (क्षत्रिये ब्राह्मणाञ्जलिकरणस्यानौचित्यं स्यात्), they do so recognizing Rāma as their incarnate deity (निजकुलदेवतावतारत्वात्), while **Govindarāja** sees them surrendering all belongings (इमानि भवदीयानि) to the supreme _śeṣī_.
+
+_____________
+
+**3.1.19–20 (indrasyaiva caturbhāgaḥ & Sovereign in Forest or City)**
+
+On इन्द्रस्यैव चतुर्भागः, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) first cite the _Smṛti_ doctrine that a king embodies portions of Indra and the world-guardians (लोकपालान्तरस्याप्युपलक्षणम्), while **Govindarāja** adds a theological reading deriving इन्द्रः from इदि परमैश्वर्ये for the Supreme Brahman (परमात्मपरः), of whose fourfold manifestation Rāma is one (व्यक्तिचतुष्टये एकव्यक्तिभूतः). Because Rāma is universal monarch (सार्वभौमत्वात्, _Tilaka_) and unconditional Lord (निरुपाधिकसर्वशेषी, _Bhūṣaṇa_), Daṇḍakāraṇya remains his realm (भवद्विषयवासिनः) whether he dwells in city or forest (नगरस्थो वनस्थो वा).
+
+_____________
+
+**3.1.21 (nyastadaṇḍāḥ & garbhabhūtāḥ)**
+
+Explaining why potent sages seek protection, all three commentators note that they have renounced cursing (न्यस्तदण्डाः) and conquered wrath (जितक्रोधाः) lest anger consume their penance (तपोनाशभयात्, _Tilaka_). On गर्भभूताः, _Tilaka_ likens them to an embryo protected solely by its mother (यथा मातृगर्भः प्राप्तो जीवो मात्रा रक्ष्यते), while **Govindarāja** sees the dependencia of surrendered souls (अनन्यार्हाः).
+
+_____________
+
+**3.1.22–23 (salakṣmaṇam & siddhāḥ)**
+
+On सलक्ष्मणम्, **Rāma Varmā** (_Tilaka_) notes that this confirms Lakṣmaṇa also partook of forest food (लक्ष्मणस्याप्याहारभक्षणं स्पष्टीकृतम्), while **Govindarāja** (_Bhūṣaṇa_) adds that worshipping Rāma inherently includes Sītā through their inseparable bond (प्रभाप्रभावन्न्यायेन तयोरेकत्वभावात्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

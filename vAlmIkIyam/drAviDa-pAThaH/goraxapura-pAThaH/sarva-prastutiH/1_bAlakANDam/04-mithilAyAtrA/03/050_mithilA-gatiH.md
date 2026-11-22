@@ -81,6 +81,14 @@ This direction is presided over by *iishaana* The God.
 
 Proceeding northeast from that hermitage (_tataḥ prāguttarāṃ gatvā_), Rāma, together with Sumitrā’s son Lakṣmaṇa, placed Viśvāmitra in front and approached the sacrificial enclosure (_rāmaḥ saumitriṇā saha viśvāmitraṃ puraskṛtya yajñavāṭam upāgamat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.1–2 (prāguttarām & Transition to the Sītā-vivāha)**
+
+**Govindarāja (_Bhūṣaṇa_)** introduces Sarga 50 by noting the theological transition: having established Rāma’s supreme purifying power (_paramapāvanatvam_) in the redemption of Ahalyā, Vālmīki now inaugurates the narrative of Sītā’s marriage to manifest Rāma as the Lord of Śrī (_śriyaḥ patitvaṃ pratipādayitum_). Proceeding northeast (_prāguttarām = aiśānīṃ diśam_, **Rāma Varmā (_Tilaka_)**, **Govindarāja**, **Śiromaṇi**) from Gautama’s grove, they reach Janaka’s sacrificial complex (_yajñavāṭam_), where Rāma praises the opulence of the ritual preparations (_yajñasamṛddhiḥ = yajñasaṃbhārasāmagrī_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,6 +144,14 @@ Janaka is excellent, indeed with bountifully garnered paraphernalia of the ritua
 **2:** Then Rāma, together with Lakṣmaṇa, spoke to that tiger among sages (_rāmas tu muniśārdūlam uvāca sahalakṣmaṇaḥ_): “Magnificent indeed is the sacrificial opulence of the high-souled Janaka (_sādhvī yajñasamṛddhir hi janakasya mahātmanaḥ_)!
 
 **3:** “Here, O illustrious sage, are seen many thousands of brāhmaṇas dwelling in diverse lands and illustrious in the study of the Vedas (_bahūnīha sahasrāṇi nānādeśanivāsinām brāhmaṇānāṃ mahābhāga vedādhyayanaśālinām_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.3–4 (ṛṣivāṭāḥ śakaṭīśatasaṃkulāḥ)**
+
+Construing vv. 3–4 as a single syntactic unit (_ślokadvayam ekānvayi_, **Śiromaṇi**), the commentators explain _ṛṣivāṭāḥ_ as the residential quarters of visiting sages who maintain their sacred fires (_sāgnihotrarṣīṇāṃ nivāsāḥ_, **Tilaka**), crowded with hundreds of carts (_śakaṭīśatasaṃkulāḥ_) bearing their _agnihotra_ implements (_agnihotrasaṃbhāravāhakam_, **Tilaka**).
 </details>
 </details>
 
@@ -243,6 +259,14 @@ has refreshing water. [1-50-5]
 
 Hearing the words of Rāma, the great sage Viśvāmitra established their lodging in a secluded and pure spot well supplied with water (_rāmasya vacanaṃ śrutvā viśvāmitro mahāmuniḥ nivāsam akarod deśe vivikte salilānvite_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.5 (deśe vivikte salilānvite)**
+
+Because Rāma and Viśvāmitra observe distinct royal and ascetic rules (_svācāravaidharmyāt_, **Tilaka**), Rāma asks the sage to select a separate camp (_deśo vidhīyatām = vicāryatām_, **Tilaka**). Viśvāmitra accordingly chooses a spot both secluded and pure (_vivikte = vijane pūte vā_, **Govindarāja** citing _Amara_) and well supplied with water for daily rites (_salilānvite = anuṣṭhānasaukaryam_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -308,6 +332,14 @@ Vishvamitra. [1-50-6, 7a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing then that Viśvāmitra had arrived, that blameless best of kings placed his family priest Śatānanda in front (_viśvāmitram anuprāptaṃ śrutvā nṛpavaras tadā śatānandaṃ puraskṛtya purohitam aninditaḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.6–7 (śatānandaṃ puraskṛtya ... pratyujjagāma)**
+
+How could King Janaka, already consecrated (_dīkṣita_) for his Vedic sacrifice, come forth to greet Viśvāmitra? **Govindarāja** explains that _pratyujjagāma_ means Janaka advanced up to the boundary of the consecrated sacrificial hall without overstepping it (_dīkṣitavimitapradeśasīmānam anatikramyeti_), placing his blameless royal chaplain Śatānanda (Gautama and Ahalyā’s eldest son) and the officiating _ṛtvij_ priests in front.
 </details>
 </details>
 
@@ -411,6 +443,14 @@ the king Janaka, as well about the unhindered proceedings of that Vedic-ritual. 
 
 and presented to Viśvāmitra according to sacred law the offering accompanied by scriptural honors (_viśvāmitrāya dharmeṇa dadau dharmapuraskṛtam_). Accepting that homage of the high-souled Janaka (_pratigṛhya tu tāṃ pūjāṃ janakasya mahātmanaḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.8 (dharmapuraskṛtam vs. mantrapuraskṛtam)**
+
+On the Southern Recension reading _dadau dharmapuraskṛtam_, **Tilaka** explains that Janaka offered _arghya_ accompanied by the scriptural honors enjoined for a great Vedic sage (_“mahājaṃ vā mahokṣaṃ vā śrotriyāyopakalpayet” iti śāstroktena dharmasādhanena puraskṛtam_). **Govindarāja** and **Śiromaṇi**, reading _dadur mantrapuraskṛtam_, explain that the priests presented the _madhuparka_ and _arghya_ consecrated with Vedic mantras.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -456,6 +496,14 @@ and joined the company of all of the sages as a happy-souled sage. [1-50-9b, 10a
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Viśvāmitra inquired after the king’s welfare and the unobstructed progress of his sacrifice (_papraccha kuśalaṃ rājño yajñasya ca nirāmayam_); and having likewise inquired after those sages together with the officiating priests and the _purohita_ (_sa tāṃś cātha munīn pṛṣṭvā sopādhyāyaurodhasaḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.9–10 (yajñasya ca nirāmayam & samāgacchat prahṛṣṭavat)**
+
+Accepting Janaka’s homage, Viśvāmitra inquires after the welfare of the kingdom (_rāṣṭrādyupadravarāhityam_, **Śiromaṇi**), the unobstructed progress of the sacrifice (_yajñasya nirāmayam = nirupadravatvam_, **Govindarāja**), and the well-being of the officiating priests (_upādhyāyāḥ = ṛtvijaḥ_) and the _purohita_ Śatānanda, before joyfully embracing the assembled sages according to rank (_yathārham ... samāgacchat = āliṅganam akarot_, **Tilaka** and **Śiromaṇi**).
 </details>
 </details>
 
@@ -587,6 +635,14 @@ then spoke to Vishvamitra. [1-50-12b, 13a]
 
 **12:** The family priest Śatānanda, the officiating priests, and the king together with his ministers (_purodhā ṛtvijaś caiva rājā ca sahamantribhiḥ_) seated themselves all around upon their appointed seats in due order (_āsaneṣu yathānyāyam upaviṣṭāḥ samantataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.11–12 (Ritual Seating Protocol in the Sacrificial Assembly)**
+
+At Janaka’s respectful invitation (_āsane bhagavān āstām_), Viśvāmitra takes the principal seat first; only after the Brahmarṣi is seated (_viśvāmitravacanād ity arthasiddham_, **Govindarāja**) do the _purohita_ Śatānanda, the officiating _ṛtvij_ priests, and King Janaka with his ministers take their appointed seats around him (_viśvāmitrasya caturdikṣv eva_, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -640,6 +696,14 @@ you here today. [1-50-13b, 14a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding them seated there, the king then spoke to Viśvāmitra (_dṛṣṭvā sa nṛpatis tatra viśvāmitram athābravīt_): “Today my sacrificial opulence has been rendered fruitful by the gods (_adya yajñasamṛddhir me saphalā daivataiḥ kṛtā_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.13–14 (adya yajñasamṛddhir me saphalā ... bhagavaddarśanān mayā)**
+
+Why does Janaka say first that the gods have made his sacrifice fruitful today, and immediately add that he has already obtained the fruit of the sacrifice? **Govindarāja** explains the rhetorical ascent: “Let the sacrifice itself stand aside—the mere sight of Your Holiness (_bhagavaddarśanān mayā_) is already the supreme fruit of my sacrifice!” **Śiromaṇi** adds that without divine grace (_daivānugraham antarā_) a sage of Viśvāmitra’s stature would never have arrived at his sacrificial hall (_yajñopasadanam_).
 </details>
 </details>
 
@@ -744,6 +808,14 @@ ritual." So said king Janaka to Vishvamitra. [1-50-15b, 16a]
 
 “has come with the sages to my sacrificial hall, O Brāhmaṇa (_yajñopasadanaṃ brahman prāpto ’si munibhiḥ saha_)! The learned priests declare that twelve days of sacrificial consecration remain, O Brahmarṣi (_dvādaśāhaṃ tu brahmarṣe dīkṣām āhur manīṣiṇaḥ_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.15 (dvādaśāhaṃ tu brahmarṣe dīkṣām āhur manīṣiṇaḥ)**
+
+**Tilaka** (reading _dīkṣām āhuḥ_) and **Govindarāja** / **Śiromaṇi** (reading _śeṣam āhuḥ_) concur on the ritual meaning: the learned officiating priests (_manīṣiṇaḥ = ṛtvijaḥ_) declare that twelve days of sacrificial consecration remain before the concluding oblations (_dīkṣāyās tāvanti dināny avaśiṣṭānīty ṛtvija āhuḥ_, **Tilaka**). **Govindarāja** cites Pāṇini 5.4.91 and 5.4.89 to explain why the _samāhāra dvigu_ compound _dvādaśāham_ takes the suffix _ṭac_ without substituting _ahna_ for _ahan_.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -797,6 +869,14 @@ inquisitively with adjoined palms and with a gladdened face. [1-50-16b, 17a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “after which, O Kauśika, you shall behold the gods coming to claim their sacrificial shares (_tato bhāgārthino devān draṣṭum arhasi kauśika_).” Having spoken thus to that tiger among sages, with a joyful countenance (_ity uktvā muniśārdūlaṃ prahṛṣṭavadanas tadā_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.16 (tato bhāgārthino devān draṣṭum arhasi kauśika)**
+
+Why does Janaka invite Viśvāmitra to “behold the gods coming for their sacrificial shares” at the end of the twelve days? **Govindarāja** explains that on the twelfth day the climactic _sutyāhoma_ (Soma-pressing oblation) will take place, drawing the gods in person, while **Tilaka** notes that through his yogic power (_yogena sarvasāmarthyāt_) Viśvāmitra can directly perceive the celestials receiving their offerings.
 </details>
 </details>
 
@@ -929,6 +1009,26 @@ Import of verses is the same as at 1-48-5, 6, with a little difference in *anvay
 
 **21:** “Resembling each other in stature, inner expression, and outward demeanor (_parasparasya sadṛśau pramāṇeṅgitaceṣṭitaiḥ_), wearing juvenile _kākapakṣa_ sidelocks and heroic—I wish to hear of them in truth (_kākapakṣadharau vīrau śrotum icchāmi tattvataḥ_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.17–18 (The Epic Oral-Formulaic Echo of Sumati’s Inquiry)**
+
+With his face beaming with joy—a sign that his heart has already been inwardly drawn by Rāma’s grace (_prahṛṣṭeti hṛdayavikāraviśeṣaḥ sūcyate_, **Govindarāja**)—Janaka joins his palms and asks Viśvāmitra about the two princes in almost the exact five-stanza formula used earlier by King Sumati at Viśālā (48.2–6; _evaṃrūpāḥ pūrvam apy uktāḥ_, **Tilaka**, **Govindarāja**, **Śiromaṇi**).
+
+_____________
+
+**50.19–20 (kathaṃ padbhyām iha prāptau & kasya putrau)**
+
+**Tilaka** observes that in Janaka’s version of the inquiry, the general question _kasya vā_ (“and to whom do they belong?”) in v. 19d is explicitly specified in v. 20b as _kasya putrau mahāmune_ (“whose sons are they, O great sage?”), rejecting as redundant the view of those who supply _puruṣasya kāryaṃ sādhayitum_ after _kasya vā_.
+
+_____________
+
+**50.21 (kākapakṣadharau vīrau)**
+
+Where King Sumati had concluded with _varāyudhadharau vīrau_ (48.6c), Janaka adds the tender detail _kākapakṣadharau vīrau_—the two heroic youths still wear the juvenile _kākapakṣa_ sidelocks of young kṣatriya princes, heightening the marvel of their martial grandeur.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -975,6 +1075,14 @@ that those two as the sons of king Dasharatha. [1-50-22]
 
 Hearing that speech of the high-souled Janaka (_tasya tad vacanaṃ śrutvā janakasya mahātmanaḥ_), the sage of immeasurable soul announced that those two were the sons of Daśaratha (_nyavedayad ameyātmā putrau daśarathasya tau_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.22–23 (nyavedayad ameyātmā ... tatrāgamanam avyagram)**
+
+In reply, Viśvāmitra introduces them as the sons of King Daśaratha (_putrau daśarathasya tau_) and recounts their fearless journey along a path infested by thousands of rākṣasas (_avyagraṃ = rakṣaḥsahasrāvṛte mārge nirbhayāgamanam_, **Govindarāja**; **Tilaka** also notes the Ārṣa unaugmented variant _nivedayat_ for _nyavedayat_), their defense of Siddhāśrama, the slaying of the demons, and their visit to Viśālā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1016,6 +1124,14 @@ _________________
 **23:** and he recounted their residence at Siddhāśrama and the slaying of the rākṣasas (_siddhāśramanivāsaṃ ca rākṣasānāṃ vadhaṃ tathā_), their fearless journey thither and their visit to Viśālā (_tatrāgamanam avyagraṃ viśālāyāś ca darśanam_),
 
 **24:** their beholding of Ahalyā and meeting with Gautama (_ahalyādarśanaṃ caiva gautamena samāgamam_), and their coming here to behold and test the great bow (_mahādhanuṣi jijñāsāṃ kartum āgamanaṃ tathā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**50.24–25 (ahalyādarśanaṃ ... mahādhanuṣi jijñāsām)**
+
+Viśvāmitra crowns his narrative by reporting the sight and redemption of Ahalyā (_ahalyādarśanam_), her reunion with Sage Gautama (_gautamena samāgamam_—which will immediately prompt Śatānanda’s thrilled outburst in Sarga 51!), and the purpose of their coming to Mithilā: _mahādhanuṣi jijñāsāṃ kartum_—both to behold Śiva’s great bow (_jñānam iha darśanarūpam_, **Tilaka**) and to test its strength and string it (_dhanuḥsārāsāraparīkṣām / sajyīkaraṇādikam_, **Tilaka** and **Govindarāja**).
 </details>
 </details>
 

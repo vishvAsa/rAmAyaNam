@@ -1168,6 +1168,152 @@ of wife has been done."
 
 Since you are a hero, the brother of Dhanada [Kubera], and exalted with armies (_balaiḥ samuditena_), why did you lure Rāma away (_apohya rāmam_) and commit a cowardly theft of a wife (_dāracauryam_)?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.22.1–3 (The Despised Lover and Passion Curbing Wrath like a Charioteer)**
+
+On 5.22.1, **Rāma Varmā** (_Tilaka_) observes that Rāvaṇa speaks unpleasant words (विप्रियम्) even to the lovely Sītā (प्रियदर्शनाम्) because she rejected his entreaties. On 5.22.2, _Tilaka_, **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain सान्त्वयिता as a speaker of conciliatory words (साम्नवचनवक्ता, अनुनेता): the more a lover flatters women, the more he is scorned (परिभूतः). On 5.22.3, _Tilaka_ and _Bhūṣaṇa_ resolve द्रवतोऽमार्गमासाद्य with elided _a-_ (अमार्गमिति च्छेदः): just as a skilled charioteer (सुसारथिः) reins in horses bolting down a wrong path (अमार्गम्), Rāvaṇa’s passion restrains his lethal anger.
+
+_____________
+
+**5.22.4 (The Perverse Power of Kāma)**
+
+On 5.22.4, why does passion overpower righteous anger rather than anger destroying passion? _Tilaka_ and _Śiromaṇi_ gloss वामः as 'cruel, fierce, or intoxicating' (क्रूरः, उत्कटः), citing the lexicon सव्ये कोपे सुन्दरे च वामः, whereas _Bhūṣaṇa_ glosses it as 'perverse, contrary' (प्रतिकूलः): even when insulted, a lover’s perverse passion breeds pity (अनुक्रोशः, दया) and tenderness toward the beloved.
+
+_____________
+
+**5.22.5–6 (False Asceticism and Forbearance from Execution)**
+
+On 5.22.5, _Tilaka_ explains मिथ्या प्रव्रजने रताम् as delighting in a pointless vow of asceticism that spurns royal pleasures (निष्प्रयोजनमेव भोगत्यागरूपप्रव्रजने रताम्); under the variant मिथ्याप्रव्रजिते रताम् (preferred by _Bhūṣaṇa_), it means 'devoted to Rāma, who has falsely assumed the guise of a forest ascetic' (कपटेन वन्यवृत्तिभाजि रामे रताम्). For every harsh insult in 5.22.6, she deserves a cruel death.
+
+_____________
+
+**5.22.7–9 (The Two Remaining Months of the Twelve-Month Term and the Kitchen Threat)**
+
+$19
+
+_____________
+
+**5.22.10–11 (Silent Reassurance by Captive Divine Maidens)**
+
+On 5.22.10, _Tilaka_ identifies the देवगन्धर्वकन्याः as celestial and gandharva maidens whom Rāvaṇa had likewise abducted by force (सीतावदेव बलादाहृताः). On 5.22.11, all three commentators explain that out of fear of Rāvaṇa the maidens silently signal to Sītā with lip-movements (ओष्ठप्रकारैः) and eye-gestures (नेत्रैर्वक्त्रैः) meaning 'Do not fear—what can this wretch do to you?' (मा भैषीः किं करिष्यति वराकः).
+
+_____________
+
+**5.22.12 (Speech Proud with Chaste Conduct and Heroic Firmness)**
+
+On 5.22.12, _Tilaka_ interprets आत्महितम् as 'salutary for Rāvaṇa’s own soul' (रावणात्मनो हितम्) and analyses वृत्तशौटीर्यगर्वितम् as a dvandva of her own pure conduct (वृत्तेन सदाचारेण) and her husband’s valour (शौटीर्येण पतिशौर्येण), whereas _Bhūṣaṇa_ takes it as 'proud with the strength (शौण्डीर्यं बलम्) of her chastity (पातिव्रत्यम्).'
+
+_____________
+
+**5.22.13–15 (Absence of Well-Wishers, the Śacī Simile, and Inescapable Sin)**
+
+On 5.22.13, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain निःश्रेयसि स्थितः (or निःश्रेयसे स्थितः) as a counsellor committed to Rāvaṇa’s true prosperity (त्वत्कल्याणे स्थितः) who would restrain him from this shameful utterance (दुरुक्तिरूपात् कर्मणः). On 5.22.14, Sītā likens herself to Indra’s consort Śacī (शचीपतेः शचीमिव), whom no sane being in the three worlds would dare desire. On 5.22.15, _Tilaka_ identifies the sinful speech (यत्पापम्) as Rāvaṇa’s demand 'ascend my couch,' while _Bhūṣaṇa_ explains the genitive तस्य as ablative in sense (तस्मान्मोक्ष्यसे, 'from that sin/Rāma you shall not escape').
+
+_____________
+
+**5.22.16 (The Proud Tusker and the Puny Hare)**
+
+On 5.22.16, _Tilaka_ and _Śiromaṇi_ explain that when a proud elephant (मातङ्गः) and a hare (शशः) meet by chance in the forest, the hare is utterly puny (अतिक्षुद्रः); _Bhūṣaṇa_ remarks that the second half (तथा द्विरदवद् रामस्त्वं नीच शशवत् स्मृतः) is added explicitly lest conceited Rāvaṇa delude himself into thinking that he is the elephant in the comparison (तत्र गज इव रामः, शश इव त्वम्).
+
+_____________
+
+**5.22.17–18 (Shameless Boasting Out of Sight and the Unfallen Eyes)**
+
+On 5.22.17, _Tilaka_ and _Śiromaṇi_ gloss क्षिपन् as 'reviling, slandering' (निन्दन्) Rāma while out of reach of his eyes, whereas _Bhūṣaṇa_ takes क्षिपन् as 'luring Rāma far away through the phantom deer' (मायामृगव्याजेन दूरं निरस्यन्). On 5.22.18, _Śiromaṇi_ connects the genitive participle निरीक्षतः ('as you gaze wickedly upon me') with ते नयने: why do his cruel, dark-yellow eyes not drop to the ground?
+
+_____________
+
+**5.22.19–20 (Why Sītā Refrains from Burning Rāvaṇa to Ashes)**
+
+On 5.22.19, **Śivasahāya** (_Śiromaṇi_) glosses शीर्यति as 'falls away, splits' (पतति) when Rāvaṇa dares address Daśaratha’s daughter-in-law. On 5.22.20, **Rāma Varmā** (_Tilaka_) anticipates the objection: if her chastity (पातिव्रत्यशक्तिः) is so potent, why have his eyes and tongue not fallen, and why does she not burn him herself? Sītā gives two reasons: she has no command from Rāma to curse her enemies (असंदेशात्, शापविषये रामाज्ञानायातात्), and she wishes to preserve her accumulated ascetic merit (तपसश्चानुपालनात्). **Govindarāja** (_Bhūṣaṇa_) notes that कुर्मि for करोमि exhibits the archaic epic (_ārṣa_) retention of the vowel without _guṇa_/elision.
+
+_____________
+
+**5.22.21–22 (Destiny’s Ordainment and Biting Irony on Cowardly Wife-Theft)**
+
+On 5.22.21, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain that Sītā’s abduction through the golden deer was contrived by Destiny (दैवेन विहितः) solely to bring about Rāvaṇa’s death (तव वधार्थाय). On 5.22.22, _Tilaka_ identifies शूरेण धनदभ्रात्रा as biting sarcasm (अपहासोक्तिः): if he was truly a hero and Kubera’s brother backed by armies, why did he lure Rāma away by Mārīca’s illusion (अपोह्य, मृगच्छद्मनापवाह्य) and steal a woman like a common thief (दारचौर्यम्)?
+
+_____________
+
+**5.22.23–24 (Rāvaṇa’s Furious Glare and Lion-Like Frame)**
+
+On 5.22.23–24, _Bhūṣaṇa_ glosses विवृत्य as 'rolling wide' (विस्तार्य) his cruel eyes, and explains सिंहसत्त्वगतिः as having the strength and stride of a lion (सिंहस्येव बलगमने यस्य); under दीप्तजिह्वाग्रलोचनः, both his tongue-tip and his eyes blaze with rage.
+
+_____________
+
+**5.22.25–26 (The Quivering Diadem and the Dark Girdle Coiled like Vāsuki)**
+
+Continuing the portrait of Rāvaṇa’s wrathful majesty across verses 23–30, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain चलाग्रमुकुटप्रांशुः as tall of stature (प्रांशुः) with a crown whose gem-tips tremble. On 5.22.26, all three gloss श्रोणीसूत्रेण as a waist-band (कटिसूत्रेण, रशनया) and मेचकेन as dark-blue (नीलेन, मयूरचन्द्रकवर्णेन, citing _Medinīkośa_) because it is set with sapphires (इन्द्रनीलनिबद्धरत्नमणिभिः), comparing it to the dark serpent Vāsuki (भुजङ्गेन) coiling around Mount Mandara during the churning of the ocean (अमृतोत्पादने).
+
+_____________
+
+**5.22.27–28 (The Dual Arms of a Shape-Shifter and Aśoka-Like Earrings)**
+
+On 5.22.27, _Tilaka_ and _Śiromaṇi_ address why twenty-armed Rāvaṇa is described in the dual (ताभ्यां भुजाभ्याम्): as a shape-shifter (कामरूपत्वात्), he either manifests two arms at will in courtly settings or the dual refers generically to his left and right arm-clusters (वामदक्षेषु भुजत्वजात्यैकवचनम्). In 5.22.28, his two sun-red earrings gleam against his dark frame like two crimson-blossoming aśoka trees on a dark mountain.
+
+_____________
+
+**5.22.29–30 (The Wish-Granting Tree and the Cremation-Ground Caitya)**
+
+On 5.22.29, **Govindarāja** (_Bhūṣaṇa_) and _Tilaka_ highlight the striking contrast: in his sumptuous ornaments Rāvaṇa resembles a celestial कल्पवृक्ष or incarnate Spring (वसन्त इव मूर्तिमान्), yet in his ferocious aspect he resembles a श्मशानचैत्य—a sacred tree or pavilion standing in a cremation ground (श्मशानवृक्षः श्मशानमण्डपो वा), which one shuns looking upon (दर्शनायोग्यत्वेन).
+
+_____________
+
+**5.22.31–32 (The Sun Dispelling Twilight and Commanding the Rākṣasī Guards)**
+
+On 5.22.31, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) construe अनुव्रते as a vocative addressed to Sītā, who clings to a penniless (अर्थहीनम्) and impolitic (अनयेनाभिसम्पन्नम्) Rāma; _Tilaka_ notes that अर्थहीनम् may also modify her futile vow (प्रयोजनहीनं व्रतम्), and glosses संध्याम् as the lingering darkness of dawn (तत्कालिकमन्धकारम्) dispelled by the rising sun. On 5.22.32, under the reading सन्दिदेश ('commanded'), _Śiromaṇi_ links the verb across the four-and-a-half-verse catalogue of grotesque rākṣasīs (सार्धश्लोकचतुष्टयमेकान्वयि).
+
+_____________
+
+**5.22.33–34 (Resolving the Repetition of Ekākṣīm in the Catalogue of Deformities)**
+
+Why does एकाक्षीम् ('one-eyed') appear in both 5.22.33a and 5.22.34c? All three commentators offer solutions to absolve the poet of tautology (पुनरुक्तिः): _Tilaka_ explains that two distinct individual rākṣasīs are meant (व्यक्तिभेदात्); _Śiromaṇi_ suggests the second means 'tiny-eyed' (अल्पनेत्रकार्थकत्वात्); and **Govindarāja** (_Bhūṣaṇa_) proposes either a distinction between chief and subordinate guards (प्रधानाप्रधानभेदेन) or taking अक्षम् in the second instance as 'sense-organ' (इन्द्रियम्), meaning a monster possessing only one aperture for ear, nose, and eye (एकैकेन्द्रियाम्).
+
+_____________
+
+**5.22.35–36 (Monstrous Proportions Ordered to Subdue Jānakī)**
+
+Completing the catalogue in 5.22.35–36—monsters with huge heads, necks, breasts, and bellies, or lacking noses and tongues (अजिह्विकाम् in _Bhūṣaṇa_)—_Śiromaṇi_ links यथा मद्वशगा सीता क्षिप्रं भवति directly to the imperative तथा कुरुत in 5.22.37a.
+
+_____________
+
+**5.22.37–38 (The Four Upāyas and Brandishing Punishment)**
+
+On 5.22.37–38, **Rāma Varmā** (_Tilaka_) explains सर्वाः समेत्य वा as ordering the guards to act either individually or all together (प्रत्येकं वा मिलित्वा वा). All three commentators gloss प्रतिलोमानुलोमैः as harsh and gentle dealings (प्रतिकूलानुकूलव्यवहारेः), combined with the classic political expedients of conciliation, gifts, dissension (सामदानादिभेदनैः), and the threatening display of force (दण्डस्योद्यमनेन, भयादिप्रदर्शनेन)—not actual striking—in order to win Sītā over (आवर्जयत, वशीकुरुत in **Govindarāja**’s _Bhūṣaṇa_).
+
+_____________
+
+**5.22.39–40 (Dhānyamālinī’s Intervention and Identity with Mandodarī)**
+
+On 5.22.39–40, seeing Rāvaṇa’s terrifying roar (प्रति गर्जत, प्रत्यगर्जत्), Dhānyamālinī embraces him—which _Tilaka_ notes physically restrains him from striking Sītā (परिष्वङ्गनेन प्रहारादिप्रवृत्तिं निरुध्य) out of pity for her (सीतायां दयया). Both **Śivasahāya** (_Śiromaṇi_) and _Bhūṣaṇa_ remark that धान्यमालिनी is Rāvaṇa’s younger consort (रावणस्य कनिष्ठपत्नी), or serves here as a synecdoche (उपलक्षणम्) including Queen Mandodarī herself, since Hanumān later tells the monkeys that Mandodarī intervened to save Sītā.
+
+_____________
+
+**5.22.41 (The Pale Mortal Unfit for Celestial Pleasures)**
+
+Construing 5.22.41 with 5.22.42a, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain Dhānyamālinī’s tactful argument: Brahmā and the gods (देवाः, अमरश्रेष्ठाः) have not destined (न विदधति) this pale, miserable human woman (विवर्णया कृपणया मानुष्या) to enjoy the supreme celestial pleasures (भोगसत्तमान्) won by Rāvaṇa’s arms, because she lacks the merit (अदृष्टहीना, भाग्यं नास्ति).
+
+_____________
+
+**5.22.42–43 (Torment in Unrequited Wooing and Rāvaṇa’s Face-Saving Withdrawal)**
+
+On 5.22.42, **Śivasahāya** (_Śiromaṇi_) notes that under the singular variant अमरश्रेष्ठः ('Brahmā') the plural देवाः / अमरश्रेष्ठाः is honorific (आदराद् बहुवचनम्), and explains that wooing a woman devoid of desire (अकामाम्) only scorches one’s own body (शरीरमुपतप्यते), whereas wooing a willing partner (इच्छतीम्) yields true joy. On 5.22.43, **Rāma Varmā** (_Tilaka_) and _Śiromaṇi_ gloss समुत्क्षिप्तः as 'diverted, led away elsewhere' (अन्यतोऽपसारितः, अन्यत्र प्रचलितः); _Tilaka_ remarks that Rāvaṇa laughs (प्रहसन्) in relief because Dhānyamālinī’s timely intervention saves him from the disgrace of striking a woman (प्रहारापकीर्तिपरिहारेण च प्रसन्नः).
+
+_____________
+
+**5.22.44–45 (Return to the Sun-Bright Palace with Captive Damsels)**
+
+On 5.22.44–45, shaking the earth with his stride, Daśagrīva returns to his palace gleaming like the blazing sun (ज्वलद्भास्करसंकाशम्), accompanied by the daughters of gods, gandharvas, and nāgas. On the verb प्रविशुः in 5.22.45d, _Tilaka_ supplies the standard reduplicated perfect प्रविविशुः (which **Govindarāja**’s _Bhūṣaṇa_ and _Śiromaṇi_ read directly as विविशुस्तद् गृहोत्तमम्).
+
+_____________
+
+**5.22.46 (Lyric Recapitulation of Sarga 22)**
+
+On the concluding _Vaṃśastha_ stanza (5.22.46), both _Śiromaṇi_ (उपसंहारमाह) and _Bhūṣaṇa_ (सर्गार्थं संक्षेपेण दर्शयति) note that the poet summarizes the entire canto: leaving the trembling yet dharmically unshakable Maithilī (धर्मपरामवस्थिताम्), love-dazed Rāvaṇa retires to his own abode.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

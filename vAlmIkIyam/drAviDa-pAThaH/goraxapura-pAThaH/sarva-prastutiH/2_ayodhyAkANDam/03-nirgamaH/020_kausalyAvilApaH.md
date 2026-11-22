@@ -1097,6 +1097,188 @@ colt.
 
 Seeing her son, the delighter of his mother, arrive after a long time, she stepped forward in great joy, like a mare hastening toward her foal (_kiśoraṃ vaḍavā yathā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.20.1–3 (gatiś ca śaraṇaṃ ca and yuktaḥ)**
+
+As Rāma exits with folded hands (निष्क्रामति कृताञ्जलौ), the royal women raise a great cry of anguish (आर्तशब्दः). Nāgeśa Bhaṭṭa (_Tilaka_) distinguishes गतिः as the means of attaining what is desired (प्राप्यस्य वस्तुनः प्राप्तिः मार्गः) and शरणम् as protection (रक्षणम्), while Govindarāja (_Bhūṣaṇa_) cites _Amara_ (शरणं गृहरक्षित्रोः) to gloss शरणम् as protector (रक्षिता). In v. 3, all three commentators note that from birth onward (जन्मप्रभृति) Rāma served all his stepmothers (अस्मासु) with the same attentive devotion (युक्तः सेवातत्परः [_Tilaka_]; सावधानः [_Bhūṣaṇa_]) as his own mother Kausalyā.
+
+_____________
+
+**2.20.4 (double negation of anger)**
+
+Analyzing न क्रुध्यत्यभिशप्तोऽपि क्रोधनीयानि वर्जयन्, _Tilaka_ remarks that Vālmīki denies that Rāma is ever either the subject or the object of anger (अनेन क्रोधक्रियाकर्तृत्वकर्मत्वयोः प्रतिषेधः): even when reviled with harsh words (अभिशप्तोऽप्यन्येन कृतवाक्पारुष्योऽपि), he does not grow angry; and out of compassion he avoids actions that might provoke anger in others (क्रोधनीयान्यन्यस्य क्रोधोत्पादकान्यनुकम्पया वर्जयन्), while pacifying those who are angry (क्रुद्धान् प्रसादयन्).
+
+_____________
+
+**2.20.5–6 (jīvalokaṃ carati and ācukruśuḥ vs. cukruśuḥ)**
+
+On जीवलोकं चरत्ययम् in v. 5b, _Tilaka_ and Govindarāja take चर् in its sense of consuming or destroying (चर गतिभक्षणयोरिति धातुः): by abandoning Rāma, the foolish king destroys all his subjects (सर्वप्रजारूपं भक्षयति नाशयतीति यावत्). In v. 6c–d, all three commentators explain that the repetition of चुक्रुशुः is non-redundant: with आ- (आचुक्रुशुः) it means “reproached” (निनिन्दुः), whereas simple चुक्रुशुः means “wept aloud” (रुरुदुः).
+
+_____________
+
+**2.20.7 (vyālīyatāsane)**
+
+On व्यालीयतासने, all three commentators vividly depict the king’s shame and grief upon hearing the wailing of the queens: Daśaratha veiled his body with his garment, bowed his head low, and shrank into his couch as though dissolving into it (देहमवगुण्ठ्यावाङ्मुखो विलीन इवाभूदित्यर्थः [_Tilaka_]; वस्त्रेण स्वशरीरमाच्छाद्यावाङ्मुखोऽतिष्ठत् [_Śiromaṇi_]; लज्जादुःखभरेण शय्यायां विलीनोऽभूत् [_Bhūṣaṇa_]).
+
+_____________
+
+**2.20.8 (bhṛśam āyastaḥ and vaśī)**
+
+Reconciling Rāma’s being “sorely distressed” (भृशमायस्तः) and sighing like an elephant (निःश्वसन्निव कुञ्जरः) with his epithet वशी (“master of his senses”), _Tilaka_ and Govindarāja (_Bhūṣaṇa_) explain that Rāma felt no sorrow over losing the kingdom (वशी राज्यनाशाददुःखितः), but was deeply pained solely by hearing the lamentations of his loved ones (स्वजनदुःखतः प्राप्तखेदः), exemplifying the noble trait described earlier (व्यसनेषु मनुष्याणां भृशं भवति दुःखितः [_Bhūṣaṇa_]).
+
+_____________
+
+**2.20.9–12 (three courtyards of Kausalyā’s palace)**
+
+Crossing the three courtyards of his mother’s apartments, Rāma sees the revered aged chamberlain (वृद्धं पुरुषं द्वारपाळाध्यक्षम्) at the outer gate, who greets him with cries of “Victory!” (जयेन जयाशिषा वर्धयन्ति स्म), then Veda-learned elders in the second courtyard (द्वितीयायाम्), and young and old female warders in the third (तृतीयायाम्).
+
+_____________
+
+**2.20.13–14 (priyam and rātriṃ sthitvā)**
+
+Nāgeśa Bhaṭṭa (_Tilaka_) and Śivasahāya (_Śiromaṇi_) gloss प्रियम् in v. 13d as the glad tidings of Rāma’s arrival (प्रियं समागमनम्). In v. 14, Govindarāja (_Bhūṣaṇa_) explains the accusative रात्रिम् by the rule governing continuous duration (कालाध्वनोरत्यन्तसंयोगे इति द्वितीया): having kept a devout vigil throughout the night (नियमयुक्ता), Kausalyā worships Lord Viṣṇu at dawn for her son’s welfare (पुत्रहितैषिणी).
+
+_____________
+
+**2.20.15–16 (agniṃ juhoti sma vs. hāvayantīṃ hutāśanam)**
+
+All three commentators explain why Kausalyā is said to offer into the fire (अग्निं जुहोति स्म) in v. 15c and to cause oblations to be offered (हावयन्तीं हुताशनम्) in v. 16d: because women do not perform Vedic _homa_ directly (स्त्रिया अष्टकादिहोमानधिकारात्), जुहोति in v. 15c means she causes the officiating priests (ऋत्विग्भिः [_Tilaka_]; ब्राह्मणैः [_Bhūṣaṇa_, _Śiromaṇi_]) to offer the oblations, as explicitly confirmed by हावयन्तीम् in v. 16d (जुहोति हावयति अत एव हावयन्तीमिति वक्ष्यति ब्राह्मणैरिति शेषः).
+
+_____________
+
+**2.20.17–18 (haviṣaḥ and kṛsaram)**
+
+On हविषः in v. 17d, all three commentators note that it stands for the neuter plural हवींषि via an _ārṣa_ gender shift (लिङ्गव्यत्यय आर्षः). They gloss कृसरम् in v. 18b as rice cooked with sesame and split pulse (तिलमुद्गतण्डुलोदनम् [_Tilaka_]; तिलौदनम् [_Bhūṣaṇa_]).
+
+_____________
+
+**2.20.19–20 (tarpayantīm and kiśoraṃ vaḍavā yathā)**
+
+Clad in white silk (शुक्लक्षौमसंवीताम्) and emaciated by fasts undertaken for her son’s elevation (पुत्रराज्योदयकामनया [_Tilaka_]), Kausalyā is offering water libations (अद्भिः तर्पयन्तीम्) to the deities when she sees Rāma and steps forward joyfully like a mare (वडवा अश्वस्त्री) hastening toward her foal (किशोरम् अश्वबालकम् [_Tilaka_, _Bhūṣaṇa_]).
+
+_____________
+
+**2.20.21–23 (upasaṃgṛhya and lakṣaṇā in āyuḥ)**
+
+Both Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) gloss उपसंगृह्य in v. 21b in its technical _Dharmaśāstra_ sense of clasping an elder’s feet in salutation (अभिवाद्य स्थितः), whereupon Kausalyā embraces Rāma and smells his head (अवघ्रातश्च मूर्धनि). On v. 23 (वृद्धानां ... राजर्षीणां ... प्राप्नुह्यायुश्च कीर्तिं च), Śivasahāya (_Śiromaṇi_) points out that since one cannot literally obtain the past lifespans of ancient royal sages, आयुः and कीर्तिम् operate by secondary figuration (_lakṣaṇā_) to mean longevity and renown equal to theirs (आयुःशब्दः स्वसदृशे लाक्षणिकः मुख्यस्येहासंभवात्).
+
+_____________
+
+**2.20.24 (dramatic irony of Kausalyā’s blessing)**
+
+All three commentators highlight the poignant irony of v. 24: wholly unaware of what has transpired in Kaikeyī’s palace (राजगृहगमनादिव्यापारापरिज्ञानादेवमुक्तिः [_Tilaka_]), Kausalyā tells Rāma to behold his father as “true to his word” (सत्यप्रतिज्ञम्) because he will consecrate Rāma today, little knowing that the king’s truth to his word has just decreed Rāma’s exile.
+
+_____________
+
+**2.20.25–26 (dattam āsanam ālabhya)**
+
+Invited by his mother to partake of food (भोजनेन निमन्त्रितः), Rāma merely touches the offered seat with his hand without sitting down (केवलमासनमालभ्य स्पृष्ट्वा न तूपविश्य [_Tilaka_]). Govindarāja (_Bhūṣaṇa_) cites traditional etiquette (दत्तासने उपवेशनाभावेऽपि स्पर्शमात्रं कार्यमित्यागमात्): even when one cannot sit upon a seat offered by an elder, one must honor it by touching it. Out of innate modesty (स्वभावविनीतः) and reverence for his mother (गौरवात् मातरि बहुमानात्), Rāma bows low and extends his folded hands (प्रसार्याञ्जलिम्) to ask leave to depart (आप्रष्टुमनुज्ञापनं कारयितुम्).
+
+_____________
+
+**2.20.27–28 (tava ca duḥkhāya and viṣṭarāsana)**
+
+On v. 27c–d, Nāgeśa Bhaṭṭa (_Tilaka_) points out that Rāma names Kausalyā, Vaidehī, and Lakṣmaṇa alone as those who will suffer grief, excluding himself because he is wholly untouched by sorrow (स्वस्यादुःखत्वात्). In v. 28, all three commentators quote the _Smṛti_ definition of विष्टर (पञ्चाशद्भिर्भवेद्ब्रह्मा तदर्धेन तु विष्टरः): a bundle of twenty-five _darbha_ blades serving as an ascetic’s seat (पञ्चविंशतिदर्भनिर्मितस्तापसासनविशेषः), contrasting with the jeweled palace seat (अनेन रत्नमयेन आसनेन मे किम्).
+
+_____________
+
+**2.20.29–30 (hitvā munivad āmiṣam)**
+
+Reconciling Rāma’s vow to abandon आमिषम् like a sage (मुनिवत्) with later passages where he hunts deer in the forest (इदं मेध्यमिदं स्वादु निष्टप्तमिदमग्निना), _Tilaka_ and Govindarāja explain that आमिषम् here means palace-seasoned culinary meats (सर्वविधिरससंस्कारसंस्कृतं मांसम् [_Tilaka_]; वेसवारसंसकृतं मांसम् [_Bhūṣaṇa_]), whereas in the forest he partakes only of unseasoned venison permissible to forest-hermits (केवलं मृगमांसस्वीकारस्योत्तरत्र वक्ष्यमाणत्वात्), while Śivasahāya (_Śiromaṇi_) cites _Medinī_ (भोग्यवस्तुनि संभोगे) to gloss आमिषम् as royal luxuries (राजभोग्यं वस्तु).
+
+_____________
+
+**2.20.31–32 (ṣaṭ cāṣṭau ca and sālasya yaṣṭiḥ)**
+
+Explaining why Rāma rephrases “fourteen years” (v. 29a) as “six and eight years” (षट् चाष्टौ च वर्षाणि) in v. 31a, Govindarāja (_Bhūṣaṇa_) observes a tender psychological nuance: because “fourteen” sounds like a single crushing span to his mother, Rāma breaks it into two small numbers (“six” and “eight”) to make the period feel lighter (लघुत्वप्रदर्शनाय षट् चाष्टौ चेत्युक्तं चतुर्दशपदे हि गौरवं गम्यते). Both Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja gloss वन्यानि as the observances proper to a forest-hermit (वानप्रस्थयोग्यकर्माणि). Hearing this, Kausalyā falls suddenly like a slender _sāla_ bough (सालस्य यष्टिः शाखा) felled by an axe in the forest—where Govindarāja notes that वने is specified because trees in the city are protected from ruthless felling (नगरे तथा छेदनाभावात्).
+
+_____________
+
+**2.20.33–34 (vaḍavām iva vāhitām)**
+
+Raising his unconscious mother (गतचेतसं मूर्छिताम्), Rāma gently brushes the dust from her limbs (पाणिना विममर्श) as she rises after rolling on the ground (उपावृत्योत्थितां भूमनिलुठ्य तिर्यग्वेष्टनं कृत्वोत्थिताम् [_Tilaka_, _Bhūṣaṇa_]), like a mare exhausted by bearing a heavy burden (वाहितां पूर्वं वाहितभारां).
+
+_____________
+
+**2.20.35–36 (ato bhūyaḥ duḥkham)**
+
+In v. 36, Kausalyā laments to Rāma in Lakṣmaṇa’s hearing (उपशृण्वति लक्ष्मणे): had he not been born (यदि पुत्र न जायेथाः), she would have remained childless (अप्रजाः वन्ध्या), but would never have suffered this far greater grief of separation from a beloved son (अतो वन्ध्यात्वाद्भूयो वन्ध्याधिकं पुत्रवियोगदुःखं न पश्येयम् [_Tilaka_]).
+
+_____________
+
+**2.20.37–38 (aprajāsmīti and patipauruṣe)**
+
+$1a
+
+_____________
+
+**2.20.39–40 (avarāṇāṃ parā/varā satī)**
+
+Though she is the senior queen (परा / वरा सती), Kausalyā must now endure the heart-piercing, unpleasant taunts (अमनोज्ञानि वाक्यानि) of her junior co-wives (सपत्नीनामवराणाम्). Govindarāja remarks that अमनोज्ञानि (“disagreeable”) is even sharper than परुषाणि (which might still admit occasional pleasantness) and that the plural सपत्नीनाम् is used indignantly for Kaikeyī (क्रोधेन सपत्नीनामिति बहुवचनोक्तिः).
+
+_____________
+
+**2.20.41–42 (nirākṛtā and atantritā)**
+
+Even while Rāma was present (त्वयि संनिहितेऽपि), Kausalyā was spurned (निराकृता) and reduced to the level of—or lower than—Kaikeyī’s servant-maids (कैकेय्या दासीजनेन समा अथवावरा). On the reading अतन्त्रिता in v. 42b, Govindarāja and Śivasahāya (_Śiromaṇi_) cite the _Nighaṇṭu_ (तन्त्रं प्रधाने सिद्धान्ते) to gloss it as “stripped of preeminence” (अप्रधानीकृतास्मि).
+
+_____________
+
+**2.20.43–44 (kaikeyyāḥ putram anvīkṣya and kharavādi tat)**
+
+Kausalyā laments that even her own attendants who serve or follow her (मां सेवते परिचरति अनुवर्तते प्रियोक्तिं करोति [_Bhūṣaṇa_]) fall silent out of fear whenever they see Kaikeyī’s son Bharata (कैकेय्याः पुत्रं भरतमन्वीक्ष्य तद्भयान्मां नाभिभाषते). In v. 44b, Nāgeśa Bhaṭṭa (_Tilaka_) reads खरवादिनम् modifying वदनम् with an _ārṣa_ masculine shift (पुंस्त्वमार्षम्), whereas Govindarāja (_Bhūṣaṇa_) reads the neuter खरवादि तत् ... वदनम् (“that harsh-speaking face of hers”).
+
+_____________
+
+**2.20.45 (daśa sapta ca varṣāṇi—the chronological reconciliation)**
+
+$1c
+
+_____________
+
+**2.20.46–47 (viprakāram and kṛpaṇajīvikā)**
+
+Worn down by age and co-wife insults (विप्रकारमपकाररूपं दुःखम्), Kausalyā asks how she can sustain a wretched existence (कृपणजीविका शोच्यजीवना [_Tilaka_]; दीनजीवनं वर्तयिष्यामि [_Bhūṣaṇa_]) without beholding Rāma’s full-moon face.
+
+_____________
+
+**2.20.48–49 (yogaiḥ and mahānadyāḥ kūlam)**
+
+Both Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) gloss योगैः in v. 48a as meditations upon the deities (देवताध्यानैः): Kausalyā laments that she reared Rāma through fasts, meditations, and austerities all in vain (मोघं निष्फलम्) if she is now deprived of beholding his royal fortune (त्वद्दर्शनजफलालाभादिति भावः [_Tilaka_]). In v. 49, she marvels that her heart does not burst upon hearing of his exile, unlike the bank of a great river (महानद्याः गङ्गादेः [_Śiromaṇi_]) struck by the fresh floodwaters of the monsoon (प्रावृषि वर्षासु नवाम्भसा स्पृष्टं कूलमिव).
+
+_____________
+
+**2.20.50 (yamakṣaye avakāśaḥ and mṛgīm iva)**
+
+Shifting to the twelve-syllable _Vaṃśastha_ meter to heighten pathos, Kausalyā cries that surely death does not exist for her (ममैव नूनं मरणं न विद्यते) nor is there any room left for her in Yama’s abode (यमक्षये अवकाशोऽवस्थितये स्थलं नास्ति [_Tilaka_]), since the Ender (अन्तकः) does not snatch her away today as a lion forcibly seizes a weeping doe (प्रसह्य सिंहो रुदतीं मृगीमिव).
+
+_____________
+
+**2.20.51 (bheda vs. vidāraṇa and akāle maraṇam)**
+
+Distinguishing न भिद्यते from नो विदीर्यते in v. 51b, _Tilaka_ explains भेदः as splitting in two (द्विधा भवनम्) and विदारणम् as shattering into fragments (अनेकच्छिद्रवत्त्वम्), while noting that देहम् is neuter here (अर्धर्चादिः). Govindarāja construes न भिद्यते with हृदयम् and नावदीर्यते with अनेन दुःखेन अर्पितम् आहतं देहम् (“my body smitten by this grief”), concluding the proverb ध्रुवं ह्यकाले मरणं न विद्यते (“surely there is no death before the appointed time”).
+
+_____________
+
+**2.20.52 (anarthakāni and bījam ivoptam ūṣare)**
+
+Govindarāja (_Bhūṣaṇa_) explains why the predicate अनर्थकानि is neuter plural when coordinated with neuter दानानि and masculine संयमाः: when nouns of different genders are grouped together, the common predicate takes the neuter plural (सामान्ये नपुंसकमिति नपुंसकत्वम्). Kausalyā laments that all her vows, gifts, restraints (संयमाः ध्यानानि), and austerities practiced out of desire for a son have proved as fruitless as seed sown in barren saline ground (ऊषरे उप्तं बीजमिव सुनिष्फलम्).
+
+_____________
+
+**2.20.53–54 (paretasaṃsadam and dhenur iva)**
+
+Developing the maxim of v. 51d (अकाले मरणं न विद्यते), all three commentators explain v. 53: if anyone wasted by heavy grief (गुरुदुःखकर्शितः) could obtain untimely death by their own wish (यदृच्छया / स्वेच्छया), Kausalyā would have departed this very day to Yama’s court (परेतसंसदं यमसभां गता स्याम्), like a cow bereft of her calf (विना त्वया धेनुरिवात्मजेन). Since untimely death is impossible (अथापि मरणाभावेऽपि [_Tilaka_, _Bhūṣaṇa_]), she declares in v. 54 that her wretched life (किंजीवितं कुत्सितं जीवितम्) is useless without him, and resolves to follow him to the forest like a feeble cow following her calf out of maternal yearning (अभिकांक्षया वात्सल्येन).
+
+_____________
+
+**2.20.55 (sutam iva baddham avekṣya kiṃnarī)**
+
+On the closing lyric tag-verse, _Tilaka_ explains that beholding Rāma bound by the noose of his father’s truth (सत्यपाशबद्धम्), Kausalyā lamented wildly like a _Kiṃnarī_ beholding her own son captured by a hunter (सुतमिव बद्धमवेक्ष्य किंनरी). Govindarāja adds that this closing lament prepares the stage for Lakṣmaṇa’s fiery intervention in the next canto, which is spoken solely to console Kausalyā’s unbearable grief (एतेन वक्ष्यमाणलक्ष्मणवचनं केवलं कौसल्याशोकशान्त्यर्थं न तु सहृदयमिति गम्यते).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

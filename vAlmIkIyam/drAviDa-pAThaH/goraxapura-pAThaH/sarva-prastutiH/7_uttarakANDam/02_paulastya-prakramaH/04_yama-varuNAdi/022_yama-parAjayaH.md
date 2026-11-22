@@ -731,6 +731,170 @@ _________________
 
 Beholding that marvel in the presence of gods and dānavas (_tad āścaryam atho dṛṣṭvā deva-dānava-sannidhau_), Death and Time became exceedingly jubilant and fiercely roused (_praharṣitau susaṃrabdhau mṛtyu-kālau babhūvatuḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.22.1–3 (Vaivasvata Mobilizes and Death Takes His Post)**
+
+Connecting seamlessly to Sarga 21’s closing roar, **Śivasahāya** (_Śiromaṇi_) notes that Yama instantly deduces both Rāvaṇa’s triumph and his own army’s ruin (शत्रुं विजयिनं स्वबलस्य संक्षयं च मेने). On 7.22.2, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) clarify the direct command उपनीयतामित्यब्रवीत्. As Yama ascends his celestial chariot, personified Death (_Mṛtyu_) takes his station at the prow—which **Śivasahāya** highlights as signifying Death’s subordinate status as Yama’s attendant (एतेन मृत्योर्यमानुचरत्वं सूचितम्).
+
+_____________
+
+**7.22.4 (The Imperishable Yet Dissolving Triple World)**
+
+Describing Mṛtyu as he who dissolves the entire _avyaya_ (‘imperishable’) triple world poses a philosophical puzzle. Both **Rāma Varmā** and **Govindarāja** resolve it identically: at the close of an aeon, Death gathers the entire cosmos back in (युगान्ते सर्वं संह्रियते), and the world is called अव्ययम् not as statically unchanging, but as ‘eternal in continuous cyclic stream’ (अव्ययं प्रवाहनित्यम्). Alongside Mṛtyu stands the incarnate _Kāladaṇḍa_, Yama’s fiery divine Staff (**Śivasahāya**).
+
+_____________
+
+**7.22.5–6 (Time’s Embodied Arsenal and Cosmic Tremor)**
+
+Verse 7.22.5—bracketed in Parimal as anticipating 7.22.32—completes the terrifying iconography of Yama’s war-chariot: **Govindarāja** glosses निच्छिद्राः as ‘unbroken, gapless’ (निरन्तराः) of the Time-nooses arrayed at Yama’s flanks beside the incarnate fire-searing Mace (_Mudgara_). **Śivasahāya** traces the immediate cosmic reaction in 7.22.6: seeing wrathful Time (_Kāla_) arrayed for war, the three worlds are shaken and even the immortal gods quake in dread.
+
+_____________
+
+**7.22.7–8 (The Twenty-Second Gāyatrī Syllable and Mind-Swift Steeds)**
+
+Marking a cherished traditional milestone in the 24,000-verse epic, **Govindarāja** (_Bhūṣaṇa_) observes on 7.22.7 that the syllable चो in प्रचोदयन् marks the twenty-second syllable of the sacred _Gāyatrī_ mantra (ततः प्रचोदयन्सूतस्तान् ... इत्यत्र चो इति गायत्री). On 7.22.8, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** gloss मनसस्तुल्याः as ‘equal to thought in velocity’ (मनःसमानवेगाः), and Rāma Varmā glosses प्रस्तुतम् as ‘already commenced’ (प्रारब्धम्): Yama’s Indra-like steeds bridge the distance in an instant.
+
+_____________
+
+**7.22.9–10 (Flight of Rāvaṇa’s Ministers)**
+
+Confronted with Death’s dread chariot, Rāvaṇa’s counselors—so staunch against Yama’s foot-soldiers in Sarga 21—collapse in panic. On 7.22.9, **Rāma Varmā** glosses विकृतम् as ‘terrifying and hideous in its roar’ (घोरं विकृतसंनादं च), echoed by **Govindarāja** (घोरसंनादरूपविकारवन्तम्) and **Śivasahāya** (_Śiromaṇi_). On 7.22.10, all three explain लघुसत्त्वतया as ‘because of their meager fortitude’ (अल्पबलतया, अल्पवीर्यतया), with Śivasahāya specifying their feebleness in comparison with Death (मृत्यूपेक्षयाल्पबलेन हेतुना).
+
+_____________
+
+**7.22.11–12 (Daśagrīva’s Unshaken Fortitude and First Clash)**
+
+The counselors’ flight throws Rāvaṇa’s titanic courage into bold relief. **Śivasahāya** emphasizes that Daśagrīva neither flinched nor admitted terror (नाक्षुभ्यत भयं नाविशत्) even before the world-appalling chariot of Death. Seizing the initiative in 7.22.12, the enraged Yama closes within weapon range, unleashing a storm of javelins and darts that tear straight into Rāvaṇa’s vital organs (मर्माणि), launching the direct duel between Death and the Ten-Headed king.
+
+_____________
+
+**7.22.13–14 (Cloud of Arrows and Yama’s Crushing Counter-Volley)**
+
+Undaunted by his wounds, Rāvaṇa regains poise (_svasthaḥ_) and showers Yama’s car with arrows like a monsoon cloud (**Śivasahāya**, _Śiromaṇi_). Yet Yama’s immediate counter-barrage briefly overwhelms him: reading महाशक्तिशतैः (‘hundreds of mighty spears’), **Govindarāja** (_Bhūṣaṇa_) highlights the sheer physical toll on Rāvaṇa’s broad chest (_mahorasi_) as embedded shafts render him temporarily incapable of striking back (प्रतिकर्तुं नाशक्नोत्).
+
+_____________
+
+**7.22.15–16 (Seven Nights of Unyielding Combat)**
+
+On the temporal accusative सप्तरात्रम् in 7.22.15, **Rāma Varmā** (_Tilaka_) supplies युद्धं कृत्वा (‘having waged battle for seven nights’), while **Śivasahāya** traces how Yama’s relentless barrage left Rāvaṇa dazed (_visañjñaḥ_) and driven back (_vimukhaḥ_)—a notable divergence from Baroda CE’s ‘neither broken nor vanquished’. Linking 7.22.16 directly to the close of that week (सप्तरात्रातिकाले, **Śivasahāya**), the poet portrays both champions rebounding into an even fiercer struggle, neither willing to yield a step.
+
+_____________
+
+**7.22.17–18 (Brahmā’s Assembly and the Specter of Saṃvarta)**
+
+As the clash escalates beyond mortal scale, heaven itself gathers as audience. On 7.22.17, **Rāma Varmā** glosses समेताः as ‘arrived’ (प्राप्ताः), and **Śivasahāya** supplies बभूवुः: gods, gandharvas, siddhas, and great sages descend with Prajāpati Brahmā at their head. On 7.22.18, **Śivasahāya** glosses संवर्तः as ‘the age of universal dissolution’ (प्रलयकालः)—dramatically foreshadowing why Brahmā himself has arrived to prevent cosmic catastrophe.
+
+_____________
+
+**7.22.19–21 (Yama’s Delayed Wrath and the Fire from His Mouth)**
+
+**Śivasahāya** (_Śiromaṇi_) follows Rāvaṇa’s sudden escalation—filling the sky seamlessly with shafts and piercing Death, the charioteer, and Yama’s own vitals—until a roaring flame of fury erupts from Yama’s mouth. On 7.22.21, **Rāma Varmā** (_Tilaka_) offers a penetrating theological insight: Yama’s sudden blaze of wrath proves that until this moment Lord Yama, mindful of Brahmā’s boon, had deliberately withheld lethal intent and confined himself to mere combat (एतावत्पर्यन्तं भगवान्यमो ब्रह्मवरदानं स्मृत्वा मारणबुद्धिं विहाय युद्धमात्रं कृतवानिति सूचितम्).
+
+_____________
+
+**7.22.22–23 (Death and Time Rejoice; Death Demands Leave)**
+
+Seeing flames pour from Yama’s mouth (**Śivasahāya**), Death and Time surge with fierce anticipation. **Rāma Varmā** clarifies that they rejoiced specifically ‘for Rāvaṇa’s destruction’ (प्रहर्षितौ वधायेति शेषः) and glosses संरब्धौ as ‘exceedingly enraged’ (अतिक्रुद्धौ). On 7.22.23, Rāma Varmā glosses मुञ्च as ‘command, grant me permission’ (आज्ञापय) and unpacks मर्यादा निसर्गतः as Death’s innate, nature-born decree (स्वभावसिद्धा) that no foe he confronts shall live out the day.
+
+_____________
+
+**7.22.24 (The Catalogue of Fallen Primordial Titans)**
+
+**Śivasahāya** explains the rhetorical transition into Death’s mythic roll-call: anticipating the objection of how so formidable a titan as Rāvaṇa can be felled, Death invokes the greatest asuras of ancient epochs—Hiraṇyakaśipu, Namuci, Śambara, Visandhi, Dhūmaketu, and Bali Vairocana—none of whom could evade his universal law. The catalogue steadily builds Death’s case before Yama himself asserts supreme authority.
+
+_____________
+
+**7.22.25–27 (All Creation Perishes at Death’s Glance)**
+
+Completing Death’s sweeping catalogue—where **Govindarāja** (_Bhūṣaṇa_) identifies Dambha/Dambhu simply as an ancient asura (कश्चिदसुरः)—**Śivasahāya** (_Śiromaṇi_) construes 7.22.24–27a as a single sentence climaxing in the dissolution of earth, seas, mountains, and rivers at _yugānta_. On 7.22.27e, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** gloss विनिपन्नाः as ‘brought to ruin’ (विनाशं प्राप्ताः) and sharpen दृष्टाः to ‘merely beheld’ (दृष्टमात्रा एव): beside cosmic dissolution, a single rākṣasa is nothing.
+
+_____________
+
+**7.22.28–29 (Cosmic Ordinance, Not Personal Boast)**
+
+On 7.22.28b, **Govindarāja** cites Pāṇini’s rule (यावद्योगे भविष्यते लट्) explaining why present निहन्मि carries future force (हनिष्यामि, **Rāma Varmā**). On 7.22.29, both **Rāma Varmā** and **Govindarāja** clarify बलं मम न खल्वेतत्: Death is not boasting of personal prowess (बलप्रकाशनमात्रपरं न खलु), but stating the beginningless cosmic boundary (अनादिसृष्टिसमयेनैषा मर्यादा) fixed by nature upon every mortal lifespan—a point **Śivasahāya** echoes.
+
+_____________
+
+**7.22.30 (Yama Claims the Final Blow Himself)**
+
+Rather than unleashing his eager subordinate, Dharmarāja takes personal command of the decisive stroke. While **Śivasahāya** paraphrases our reading directly (त्वं तिष्ठ अहमेव निहन्मि), both **Rāma Varmā** and **Govindarāja** comment on the variant अयमेनं निहन्म्यहम्, glossing the emphatic demonstrative as ‘right here, without delay, I slay him’ (अविलम्बेन हन्मीत्यर्थः)—setting up Yama’s fateful raising of the _Kāladaṇḍa_.
+
+_____________
+
+**7.22.31–33 (Poising the Infallible Kāladaṇḍa)**
+
+The duel reaches its zenith as Vaivasvata raises the ultimate emblem of cosmic mortality. **Śivasahāya** (_Śiromaṇi_) construes verses 7.22.31–33 as a single grammatical unit (श्लोकत्रयमेकान्वयि), glossing तोलयामास as ‘lifted up and grasped’ (उत्थाप्य जग्राह): flanked by the Time-nooses and embodied lightning-mace, the _Kāladaṇḍa_ strips away life by its mere glance—making the effect of its actual touch or descent unthinkable. **Rāma Varmā** (_Tilaka_) likewise carries यस्य पार्श्वे smoothly into the weapon’s terrifying retinue.
+
+_____________
+
+**7.22.34–35 (The Throbbing Weapon and Universal Panic)**
+
+On 7.22.34, **Śivasahāya** analyzes ज्वालापरिवारः as a _bahuvrīhi_ (‘having flame itself as its retinue’, ज्वालैव परिवारो यस्य सः): at Yama’s mighty touch, the dread weapon pulsates (_asphurat_) as though already incinerating Rāvaṇa. In 7.22.35, **Rāma Varmā** glosses दण्डोद्यतम् as ‘with Staff raised aloft’ (उद्यतदण्डम्) and reads सर्वे universally as all living beings present on the field (सर्वे प्राणिनः), whereas **Śivasahāya** specifies the rākṣasa onlookers (सर्वे राक्षसाः) while even the celestials tremble.
+
+_____________
+
+**7.22.36 (Brahmā’s Timely Epiphany)**
+
+Frozen at the exact split-second before impact (_prahartu-kāme_), the scene shifts from martial fury to cosmic jurisprudence. Grandfather Brahmā intervenes in person. Both **Rāma Varmā** and **Śivasahāya** unpack the compressed causative यमं साक्षाद्दर्शयित्वा: Tilaka explains it as ‘becoming directly visible to Yama in his own divine form’ (स्वदिव्यमूर्त्या प्रत्यक्षो भूत्वा), while Śiromaṇi supplies आत्मानम् (‘having shown himself directly to Yama’), arresting the blow before an irreversible contradiction can occur.
+
+_____________
+
+**7.22.37–38 (Brahmā’s Urgent Prohibition and the Boon)**
+
+Brahmā’s opening double negative न खलु ... न हन्तव्यः captures the urgency of the moment: **Rāma Varmā** (_Tilaka_) explains it as emphatic repetition (‘must not be slain, must not be slain!’, न हन्तव्यो न हन्तव्य इत्यावृत्तिः), while **Śivasahāya** (_Śiromaṇi_) ingeniously cites the lexicon _Medinī_ to read the first न as a vocative meaning ‘protector’. On 7.22.38, both Tilaka and Śiromaṇi identify वरः specifically as Rāvaṇa’s invulnerability to gods and divine beings (देवगणावध्यत्वरूपः), which Yama must uphold.
+
+_____________
+
+**7.22.39–40 (Why Brahmā’s Word Upholds Cosmic Truth)**
+
+On 7.22.39, **Govindarāja** (_Bhūṣaṇa_) glosses अनृतम् as ‘a speaker of falsehood’ (असत्यवादिनम्), and **Rāma Varmā** states the ontological ground of Brahmā’s warning: ‘because I am the sum and source of all three worlds’ (सर्वसमष्टित्वात् ममेति भावः), falsifying the Creator unravels truth throughout creation. On 7.22.40, both **Rāma Varmā** and **Śivasahāya** anticipate a subtle objection—might the Staff spare Rāvaṇa out of deference to Brahmā’s boon? No: hurled in fury, it obliterates dear and hated alike (प्रियाप्रिये, a _samāhāra-dvandva_, Tilaka).
+
+_____________
+
+**7.22.41 (The Primordial Design of the Kāladaṇḍa)**
+
+Brahmā grounds his warning in the Staff’s own origin, for he himself fashioned it (_mayā sṛṣṭaḥ pūrvam_). **Śivasahāya** glosses अमोघः as ‘never barren of fruit’ (मिथ्याफलको न), and **Rāma Varmā** supplies विनिपातने (‘for the felling of every creature created by Brahmā’, echoing Baroda CE). Both **Rāma Varmā** and **Govindarāja** observe that मृत्युपुरस्कृतः can be parsed either as a _tatpuruṣa_ (‘honored/placed forward by Death’) or a _bahuvrīhi_ (‘having Death marching in its vanguard’).
+
+_____________
+
+**7.22.42–43 (The Metaphysical Dilemma—Ubhayato ’nṛtam)**
+
+Verse 7.22.43 crystallizes one of the finest logical knots in the _Uttarakāṇḍa_: a collision between two divine absolutes fashioned by Brahmā himself—the infallible _Kāladaṇḍa_ and Rāvaṇa’s boon of invulnerability. All three commentators unpack उभयतोऽनृतम् (‘falsehood either way’) identically: **Rāma Varmā** (_Tilaka_) explains that if Rāvaṇa survives the Staff’s fall, the Staff’s infallibility becomes a lie; if he dies, Brahmā’s boon becomes a lie (दण्डपातेऽपि रावणजीवने दण्डस्यानृतत्वं रक्षोमरणे मदुक्तवरवचनस्यानृतत्वमित्यर्थः), echoed verbatim in sense by **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_).
+
+_____________
+
+**7.22.44 (Appeal to Lokasaṅgraha)**
+
+Only one course preserves both cosmic institutions intact: withholding the blow. Brahmā seals his plea with an appeal to Yama’s highest vocation as guardian of universal order (लोकांस्त्वं यद्यवेक्षसे, ‘if you watch over the welfare of the worlds’): turn back the raised Staff from Laṅkā’s king and keep Brahmā’s word true. **Śivasahāya** highlights the clear conditional structure linking cosmic preservation directly to retracting the weapon.
+
+_____________
+
+**7.22.45 (Dharmarāja’s Instant Obedience)**
+
+Without a trace of bruised pride or hesitation, Yama earns his epithet _dharmātmā_: ‘Here is the Staff withdrawn, for you are our sovereign lord!’ All three commentators gloss प्रभविष्णुः as ‘supreme master / sovereign’ (**Rāma Varmā** and **Govindarāja**: स्वामी; **Śivasahāya** paraphrases Yama’s humble deference). By submitting his invincible weapon to cosmic truth, Yama demonstrates that true divine power serves _ṛta_ rather than ego.
+
+_____________
+
+**7.22.46–47 (Yama’s Dignified Withdrawal)**
+
+Explaining why he leaves the arena altogether, Yama reasons that if this boon-protected adversary cannot be killed, lingering in battle serves no purpose (न किमपीत्यर्थः, **Śivasahāya**; both **Rāma Varmā** and **Govindarāja** supply संचिन्त्य). On 7.22.47, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss दर्शनात् as ‘from the path of sight’ (दर्शनपथात्), with Govindarāja citing the Dhātupāṭha root √naś (णश अदर्शने) to render प्रणश्यामि as ‘I shall become invisible’ (अन्तर्हितो भविष्यामि), and both note that Yama spoke these parting words directly to Brahmā (ब्रह्माणमिति शेषः).
+
+_____________
+
+**7.22.48 (Rāvaṇa’s Technical Victory by Grace)**
+
+Left alone on the battlefield, Daśagrīva observes the ancient kṣatriya custom of proclaiming his own name (आत्मनो नाम विश्राव्य, **Śivasahāya**) as conqueror before remounting Puṣpaka and exiting Yama’s domain. Lest anyone misread तं जित्वा (‘having conquered Yama’) as genuine superiority over Death, **Rāma Varmā** supplies a piercing theological qualification: ‘having conquered him strictly through the grace of the Lord’s boon’ (भगवत्कृपयेति शेषः). Rāvaṇa’s apparent triumph over Death itself thus ironically tightens the noose of the human-mortality loophole that awaits him in Rāma.
+
+_____________
+
+**7.22.49 (Why Vaivasvata Ascends Joyful to Heaven)**
+
+The sarga’s final verse presents a poignant surprise: Yama departs to heaven with the Brahmā-led gods and the witnessing sage Nārada not in humiliation, but _joyful_ (हृष्टः). **Rāma Varmā** resolves this paradox cleanly: ‘Yama and the gods rejoiced because Brahmā’s truthfulness had been faithfully preserved’ (ब्रह्मणः सत्यपरिपालनं संवृत्तमिति यमादीनां हर्षः). **Śivasahāya** and **Govindarāja** close the episode with Vaivasvata and Nārada ascending together to _tridiva_, their cosmic harmony unbroken even as Rāvaṇa marches onward toward Varuṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

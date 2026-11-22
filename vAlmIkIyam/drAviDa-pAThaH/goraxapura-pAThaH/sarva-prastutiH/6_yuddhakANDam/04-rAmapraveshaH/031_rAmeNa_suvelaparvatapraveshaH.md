@@ -1442,6 +1442,152 @@ Concluding his fictitious battle-account, Rāvaṇa describes Aṅgada's fall an
 
 “Closed in upon (_āsādya_) by the rākṣasas and pierced by many arrows, Aṅgada—vomiting blood on every side (_parito rudhirodgārī_)—has fallen (_nipatitaḥ_) to the earth, even Aṅgada!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.31.1–2 (Spies Report the Suvela Encampment)**
+
+Opening the episode of Sītā's delusion, **Govindarāja** notes that the narrative transition serves structural continuity (कथासंघटनाय). **Śivasahāya** explains that the spies report directly to Rāvaṇa (रावणं प्रति) that Rāghava is encamped on Suvela (निविष्टं प्रत्यवेदयन्). Both **Govindarāja** and **Śivasahāya** gloss the genitive _cārāṇām_ in an ablative sense (चाराणां चारेभ्यः, `from the spies'). **Rāma Varmā** defines _sacivān_ as deputy counselors (सचिवानुपमन्त्रिणः), while **Govindarāja** takes them as attendants standing nearby (मन्त्रिणः समीपस्थान्).
+
+_____________
+
+**6.31.3–4 (The Urgent Summons to Council)**
+
+Analyzing Rāvaṇa's summons, **Govindarāja** offers two syntactic construals: either the vocative `O rākṣasas!' governs the statement that the hour of counsel has arrived (मन्त्रकालः प्राप्तः इति हेतोः), or _rākṣasāḥ_ qualifies the ministers themselves, while _susamāhitāḥ_ means `skilled in statecraft' (नीतिकुशला इत्यर्थः). **Śivasahāya** simply paraphrases _no_ as `for us' (अयं नोऽस्माकं) and notes that upon hearing Rāvaṇa's decree (तस्य रावणस्य तच्छासनं श्रुत्वा), the ministers hastened to deliberate.
+
+_____________
+
+**6.31.5–6 (Enlisting Vidyujjihva's Sorcery)**
+
+On 6.31.5, **Govindarāja**, reading _samanantaram_, explains it as `immediately after Rāma's approach' (समनन्तरं रामस्य समीपागमनानन्तरम्), whereas **Śivasahāya** connects _kṣamam_ with what is feasible regarding Sītā or the war. After entering his inner apartments (वेश्मप्रवेशानन्तरं), Rāvaṇa recruits Vidyujjihva: **Rāma Varmā** distinguishes _māyāvinam_ as `possessing celebrated magical powers' (प्रशस्तमायावन्तम्) and _mahāmāyam_ as `an active practitioner of potent illusions' (सारमायाप्रयोगकर्तारम्).
+
+_____________
+
+**6.31.7–8 (The Command to Forge Rāma's Severed Head)**
+
+Commenting on Rāvaṇa's pact with his conjurer, **Śivasahāya** notes the dual verb मायया सीतां मोहयिष्यावहे (`you and I shall delude Sītā by magic'), where Rāvaṇa provides the verbal fabrication and Vidyujjihva supplies the visual prop. In 6.31.8, **Śivasahāya** explains the command: `bringing an illusory head of Rāghava (मायामयं राघवस्य शिरः) and his great bow with its arrow, wait closely upon me (मत्समीपे समुपतिष्ठस्व)' inside the grove.
+
+_____________
+
+**6.31.9–10 (Testing the Illusion and Rewarding the Sorcerer)**
+
+Before entering the grove, Vidyujjihva demonstrates his craft in Rāvaṇa's presence (रावणसन्निधौ). On 6.31.10a, **Govindarāja** explains the genitive _tasya_ as locative in sense (तस्य तस्मिन्), while **Śivasahāya** expands it as `pleased with Vidyujjihva' (तस्य विद्युज्जिह्वस्योपरि तुष्टोऽभवत्). **Rāma Varmā** remarks that Rāvaṇa bestows an ornament upon him just as Kaikeyī once rewarded the hunchback Mantharā (कुब्जायै कैकेयीदास्यै) for her welcome malice. **Govindarāja** glosses _lālasaḥ_ as `filled with desire' (लालसः साभिलाषः).
+
+_____________
+
+**6.31.11–12 (Sītā's Vigil in the Aśoka Grove)**
+
+**Rāma Varmā** and **Śivasahāya** observe that the four half-verses from 6.31.10b to 6.31.12b form a single syntactic unit (अर्धचतुष्टयमेकान्वयि): eager to see Sītā, Rāvaṇa entered the Aśoka grove (अशोकवनिकायां संविवेश, glossed संविवेश प्रविवेश) and beheld her guarded nearby by fierce rākṣasīs (समीपे घोराभी राक्षसीभिरुपास्यमानां सीतां धनदानुजो ददर्श). Reading अदीनार्हां, **Śivasahāya** explains that she who never deserved misery now sat downcast (अधोमुखीं), absorbed solely in contemplating her lord.
+
+_____________
+
+**6.31.13–15 (Feigned Exultation and the Claim of Rāma's Death)**
+
+On प्रहर्षं नाम कीर्तयन् (13b), **Govindarāja** and **Rāma Varmā** take the particle _nāma_ in the sense of unreality (नामेत्यपरमार्थे), meaning Rāvaṇa proclaimed a counterfeit joy over Rāma's supposed defeat (अपरमार्थभूतं रामजयजं प्रहर्षं कीर्तयन्), whereas **Śivasahāya** takes _nāma_ as Rāvaṇa's own royal title announced joyously as he drew near (सीतामुपसृत्य सीतासमीपं प्राप्य). Reading वल्गसे, **Govindarāja** glosses it as `you speak harshly to me' (वल्गसे जल्पसि); **Śivasahāya** reads _vimanyase_ (`you spurn my suit'). Your root—your sole support (आधारभूतम्) and cause (मूलं सर्वकारणं सर्वथा छिन्नम्)—is now severed.
+
+_____________
+
+**6.31.16 (Coercion Through Bereavement)**
+
+Explaining _vyasanenātmanaḥ_, **Rāma Varmā** notes that by this calamity of widowhood Sītā will become Rāvaṇa's wife of her own accord, having no other refuge (आत्मनस्तव व्यसनेन मम भार्या भविष्यसि), while **Govindarāja** takes _vyasanena_ as the instrumental cause requiring no further entreaty from him. **Rāma Varmā** takes _etāṃ matim_ as her devotion to Rāma (एतां मतिं रामविषयां मतिं), whereas **Śivasahāya** anticipates her thought of following Rāma in death: afflicted by separation (पतिवियोगदुःखेनोपलक्षिता), she must abandon the resolve to die, for a departed husband cannot be regained.
+
+_____________
+
+**6.31.17–18 (Ironic Vocatives and the Vṛtra Simile)**
+
+$18
+
+_____________
+
+**6.31.19–20 (The Fabricated Encampment and Midnight Reconnaissance)**
+
+Continuing Rāvaṇa's mendacious narrative, **Govindarāja**, **Rāma Varmā**, and **Śivasahāya** construe the locative absolute दिवाकरे अस्तं व्रजति सति (`as the sun was setting'): Rāma, accompanied by a vast host, pressed hard upon the northern shore of the ocean (समुद्रस्योत्तरं तीरं महता बलेन पीड्य पीडयित्वा)—that is, the shore north of Laṅkā's citadel—and pitched camp. In 6.31.20, **Rāma Varmā** identifies _balam_ as Rāma's army (बलं रामसेना) and explains _caritam_ in a causative passive sense (चरितं चारितम्): while sleeping soundly at midnight after their weary march, the camp was first scouted by Rāvaṇa's spies.
+
+_____________
+
+**6.31.21–23 (Prahasta's Imaginary Night-Assault)**
+
+Rāvaṇa claims that once his scouts reported the monkeys' stupor, a massive rākṣasa force commanded by his chief general Prahasta fell upon the camp at night where Rāma and Lakṣmaṇa lay. Verses 22–23 catalogue the barrage of heavy rākṣasa weaponry—spears, iron clubs, discs, swords, pikes, and spiked maces (_kūṭamudgarān_)—lifted again and again (_udyamyodyamya_) and rained down upon the helpless monkeys. The shift from accusative weapon-nouns in verse 22 to the nominative plural passive participle _nipātitāḥ_ in 23b reflects epic syntactic attraction across the two-verse list.
+
+_____________
+
+**6.31.24 (The Lie of Rāma's Decapitation)**
+
+Climactically, Rāvaṇa tells Sītā that while Rāma was still fast asleep, the ruthless and dexterous (_kṛtahastena_) Prahasta severed his head with a great broadsword. Commenting on the adverb _asaktam_ (`unimpededly, in a single clean stroke'), the commentators explain that the blow fell without meeting any obstruction in bone or sinew (यथा भवति तथा छिन्नम्). By attributing the deed to Prahasta during a midnight rout rather than to a duel in open daylight, Rāvaṇa attempts to make the sudden death of the invincible Rāma seem plausible to Sītā.
+
+_____________
+
+**6.31.25–26 (Fates Invented for Vibhīṣaṇa, Lakṣmaṇa, Sugrīva, and Hanūmān)**
+
+Extending his fabrication, Rāvaṇa claims that even as Vibhīṣaṇa leaped into the sky to escape (समुत्पत्य उड्डीय विभीषणो गृहीतः प्रहस्तेनेति शेषः), he was captured, while Lakṣmaṇa fled in all directions (प्रव्राजितः पलायितः). In 6.31.26, Rāvaṇa matches each chief's wound to his name through etymological wordplay: **Śivasahāya**, reading शेते in both halves, notes that Sugrīva (`Handsome-Necked') lies with a broken neck (भग्नया ग्रीवया सुग्रीवः शेते), while Hanūmān (`Prominent-Jawed') lies slain with his jaw smashed (निरस्ता हनुर्यस्य अत एव हतो हनूमान् शेते).
+
+_____________
+
+**6.31.27–29 (The Fall of Jāmbavān, Mainda, Dvivida, and Panasa)**
+
+As Jāmbavān struggled to rise from his knees (जानुभ्यामुत्पतन् जाम्बवान् बहुभिः पट्टिशैर्निहतः, or struck on both knees, जानुभ्यां जानुनोः निहतः), he was felled by spears like a chopped tree (निकृत्तः छिन्नः पादप इव छिन्नः). **Śivasahāya** construes 28–29a as a one-and-a-half-verse unit (सार्धश्लोक एकान्वयी): the tall-bodied (व्यायतौ दीर्घशरीरौ) brothers Mainda and Dvivida were sliced across the waist (मध्ये कटिस्थाने). In 29b, Panasa groans like a burst ripe jackfruit (विदीर्णपक्वपनसफलमिव पनसोऽनुश्वसिति); **Govindarāja**, reading अनुतिष्ठति, glosses it as `lies hacked like a jackfruit' (अनुतिष्ठति शेते).
+
+_____________
+
+**6.31.30 (Darīmukha and Kumuda)**
+
+The paronomasia continues in 6.31.30a, where Darīmukha (`Cave-Faced') lies riddled with iron arrows inside a mountain cave (_daryām_). In 30b, **Rāma Varmā** confirms that the reading कुमुदस्तु महातेजा निष्कूजन्सायकैर्हतः represents the ancient recension (इति प्राञ्चः पाठः). **Govindarāja** glosses the present participle _niṣkūjan_ as `voiceless, uttering no sound' (निष्कूजन् निःशब्दः)—an ironic contrast to the joyful opening of the night-lotus (_kumuda_)—while **Śivasahāya** simply glosses _sāyakaiḥ_ as `by arrows' (सायकैः शरैर्हतः).
+
+_____________
+
+**6.31.31–32 (Aṅgada's Fall and the Crushing of the Host)**
+
+On 6.31.31, **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** explain the gerund _āsādya_ (`having closed in upon', राक्षसैरासाद्य प्राप्य छिन्नः) with the instrumental _rākṣasaiḥ_ as logical agent: overtaken by rākṣasas and riddled with shafts, Aṅgada fell disgorging blood (शरैः छिन्नः अत एव रुधिरोद्गारी सन् क्षितौ निपतितः). The repetition of _aṅgadaḥ_ frames the verse with mock pathos. In 32, reading शायिताः (`felled, laid prostrate', शायिताः शयानाः), **Govindarāja** and **Śivasahāya** note that the sleeping monkeys were trampled by war-elephants and chariot-squadrons (नागैर्गजैः रथजालैश्च मथिताः) like clouds scattered by gales.
+
+_____________
+
+**6.31.33–34 (Panic, Flight, and Bears Turning into Tree-Climbers)**
+
+In 6.31.33, **Rāma Varmā** links _jaghanyataḥ_ with the pursuit (जघन्यतोऽनुद्रुता इत्यन्वयः), while **Govindarāja** and **Śivasahāya** gloss it as `from behind' (जघन्यतः पृष्ठतः): struck in the rear as they fled in terror (त्रस्ताः अत एवाभिद्रुताः), the monkeys were hunted down like elephants by lions (सिंहैः प्रहृता महाद्विपा इव अनुद्रुताः). In 34b, where **Govindarāja** reads वानरीं वृत्तिमाश्रिताः (`the ground-dwelling bears adopted the tree-climbing habit of monkeys'), **Śivasahāya** reads वानरैर्व्यतिमिश्रिताः, explaining that the bears mingled indiscriminately with monkeys up in the branches (वानरैर्व्यतिमिश्राः विभक्ताः ऋक्षाः वृक्षानुपारूढाः).
+
+_____________
+
+**6.31.35 (Summary of the Slaughter)**
+
+**Śivasahāya** notes that Rāvaṇa sums up his battle narrative across verses 35–36 (उपसंहरन्नाह सागरस्येति द्वाभ्याम्). Across shore, hill, and woodland, multitudes of tawny monkeys (पिङ्गलाः वानराः) have been slaughtered by the monstrous-eyed night-rangers (विरूपाक्षैः राक्षसैः बहवः पिङ्गलाः वानरा हताः). By contrasting the tawny forest-dwellers (_piṅgalāḥ_) with the fierce-eyed rākṣasas (_virūpākṣaiḥ_), Rāvaṇa seeks to impress upon Sītā the utter annihilation of every potential rescuer.
+
+_____________
+
+**6.31.36–37 (Stage-Managing the Visual Proof)**
+
+Having completed his verbal fabrication, Rāvaṇa announces the physical token meant to break Sītā's spirit: **Śivasahāya** paraphrases 6.31.36, noting that her husband has been slain and his head, dripping with gore (क्षतजार्द्रं रुधिरार्द्रम् अस्य रामस्य शिरस्तु आहृतम्) and begrimed with battlefield dust, has been carried back. To make the arrival of the head appear uncontrived, Rāvaṇa addresses a female guard standing near Sītā (राक्षसीं सीतासमीपवर्तिनीम्, glossed by **Govindarāja** as राक्षसीं समीपवर्तिनीं कांचित्) within Sītā's direct hearing (_sītāyām upaśṛṇvantyām_).
+
+_____________
+
+**6.31.38–39 (Vidyujjihva's Entrance with the Phantom Head and Bow)**
+
+Rāvaṇa commands the rākṣasī to fetch the ruthless Vidyujjihva, claiming that he personally retrieved Rāghava's severed head from the fray (येन राघवशिरः स्वयमाहृतं तं विद्युज्जिह्वं समानय). **Śivasahāya** explains that Vidyujjihva, who had been waiting on standby just outside, immediately stepped forward carrying the illusory head and bow (मायाकल्पितं सशरासनं शिरः गृह्य गृहीत्वा रावणस्याग्रतः स्थितः) and bowed low before the king.
+
+_____________
+
+**6.31.40 (Addressing the Waiting Conjurer)**
+
+On 6.31.39–40, **Govindarāja** (reading ततो गृह्य) emphasizes the immediate sequence: right upon hearing the order dispatching the rākṣasī (राक्षसीप्रस्थापनवचनश्रवणानन्तरमेव), Vidyujjihva appeared and stood close beside Rāvaṇa (_samīpaparivartinam_). Calling him _mahājihvam_ (`great-tongued', matching his name `Lightning-Tongued'), Rāvaṇa now addresses the conjurer (विद्युज्जिह्वं रावणोऽब्रवीत्) to command the final unveiling of the phantom head before Sītā's eyes.
+
+_____________
+
+**6.31.41–42 (Displaying the Head and the Sorcerer's Disappearance)**
+
+Glossing 6.31.41, **Govindarāja** and **Śivasahāya** explain `the final state of her husband' (भर्तुः पश्चिमाम् अन्तिमामवस्थां कृपणा सीता पश्यतु) as his death (पश्चिमामवस्थाम् मरणमित्यर्थः). In 42, **Rāma Varmā** notes that the phantom head remained `lovely to behold' just like Rāma's true face (रामशिरोवत्प्रियदर्शनमित्यर्थः). Setting it near her (अस्याः समीपे), Vidyujjihva vanished (अन्तरधीयतापागच्छत्); citing **Kataka** (_Śrīgopyāḥ_), **Rāma Varmā** suggests he withdrew out of secret sympathy for Sītā (अनुकूलतयेवेति भावः), or lest closer inspection betray the illusion.
+
+_____________
+
+**6.31.43–44 (Casting Down the Counterfeit Bow)**
+
+On _cikṣepa_ in 6.31.43a, **Rāma Varmā** and **Govindarāja** offer the gloss `drew forth' from Vidyujjihva's hand (चिक्षेप आचकर्ष, विद्युज्जिह्वहस्तादित्यर्थः), while **Śivasahāya** takes it in its primary sense (`hurled down' before Sītā). **Govindarāja** explains why the bow is famed throughout the three worlds: because it is the divine bow of Viṣṇu (त्रिषु लोकेषु विख्यातम् वैष्णवत्वादिति भावः). In 44, **Śivasahāya** harmonizes the two claims by noting that Prahasta took the bow after slaying the mortal Rāma and Vidyujjihva carried it hither (मानुषं रामं हत्वा प्रहस्तेन विद्युज्जिह्वेनानीतम्).
+
+_____________
+
+**6.31.45 (The Final Demand for Submission)**
+
+In the concluding Vaṃśastha verse, **Rāma Varmā** and **Govindarāja** note that in some manuscripts _vidyujjihvena_ drops a syllable metrically (विद्युज्जिह्वेनेति छन्दोवशाल्लकारलोपः). Where our text reads _vinikīryamāṇaḥ_ (`casting down', विनिकीर्यमाणः विकिरन्नित्यर्थः), **Govindarāja** reads विनिकीर्य रावणः and explains _sahaiva_ as `simultaneously' (सहस्रं युगपदेव): Vidyujjihva cast down the head while Rāvaṇa flung down the bow before Sītā (विद्युज्जिह्वः शिरः प्रक्षिप्तवान् स्वयं धनुरिति भेदः), culminating in Rāvaṇa's blunt command: `Submit to my will!' (_bhava me vaśānugā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

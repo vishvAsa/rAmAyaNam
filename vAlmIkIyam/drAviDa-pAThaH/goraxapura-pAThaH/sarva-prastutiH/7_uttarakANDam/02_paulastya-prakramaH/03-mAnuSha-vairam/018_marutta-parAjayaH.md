@@ -575,6 +575,116 @@ That great sage spoke with affection (_sneha-saṃyuktam_) to Marutta: “If my 
 
 **18:** Desisting at his preceptor’s word (_sa nivṛtto guror vākyāt_), Marutta, lord of the earth (_pṛthivīpatiḥ_), laid down his bow with its arrows (_visṛjya saśaraṃ cāpam_) and, restored to composure, turned his face toward the sacrifice (_svastho makhamukho ’bhavat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.18.1–2 (From Vedavatī’s Pyre to Marutta’s Sacrifice)**
+
+**Śivasahāya** (_Śiromaṇi_) marks 7.18.1 as the immediate sequel to Vedavatī’s self-immolation (वेदवत्या वह्निप्रवेशानन्तरकालिकं वृत्तमाह): untouched by remorse, Rāvaṇa reboards Puṣpaka to pursue his campaign of world-conquest. Reaching Uśīrabīja—which **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** all identify explicitly as the proper name of a country (उशीरबीजमिति देशनाम)—he discovers the famed Emperor Marutta offering a magnificent sacrifice in the manifest presence of the gods.
+
+_____________
+
+**7.18.3–4 (Saṃvarta’s Rite and the Gods’ Flight)**
+
+Presiding over Marutta’s rite is the brahmarṣi Saṃvarta, Bṛhaspati’s full brother. On देवगणैर्वृतः in 7.18.3, **Rāma Varmā** clarifies that the deities were visibly present in person to receive their sacrificial shares (अपरोक्षतया हविर्भागार्थमवस्थितैरिति शेषः). Yet the instant they spot Rāvaṇa—rendered invincible by Brahmā’s boon—those very celestials, dreading even his glance (or his outrage, धर्षणभीरवः in Śiromaṇi and Baroda CE), hastily conceal themselves by entering the bodies of birds and beasts (तिर्यग्योनिं समाविष्टाः).
+
+_____________
+
+**7.18.5–6 (The Four Disguises and the Impure Hound)**
+
+Verse 7.18.5 enumerates the four world-guardians’ transformations—Indra into a peacock, Yama into a crow, Kubera into a chameleon (_kṛkalāsa_), and Varuṇa into a swan (_haṃsa_)—with **Śivasahāya** glossing संवृत्तः as ‘entered into / assumed’ (आविष्टेन बभूव). On 7.18.6, both **Rāma Varmā** and Śivasahāya explain एवं गतेषु as the remaining gods likewise assuming animal forms (तिर्यग्योनिरूपं गतेषु). Śivasahāya glosses सारमेयः as ‘dog’ (श्वा): Vālmīki’s biting simile portrays Rāvaṇa desecrating the Vedic altar like an unclean stray hound.
+
+_____________
+
+**7.18.7–9 (Marutta’s Calm and Rāvaṇa’s Sarcasm)**
+
+Confronted with Rāvaṇa’s blunt ultimatum, Marutta refuses to be intimidated and asks simply, ‘Who are you?’ Rāvaṇa answers with a scornful laugh (अपहासम्, **Rāma Varmā** glossing मुक्त्वा as कृत्वा). All three commentators illuminate the biting irony of अकुतूहलभावेन in 7.18.9: **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss it identically as ‘your unawed, fearless, disdainful composure even on beholding me’ (मां दृष्ट्वाप्यविस्मयनिर्भयानादरभावेन), while **Śivasahāya** (_Śiromaṇi_) emphasizes Marutta’s utter lack of fear (मां दृष्ट्वापि भयाद्यकृततया).
+
+_____________
+
+**7.18.10–11 (Boast of Fratricide Met with Vyājastuti)**
+
+On Rāvaṇa’s rhetorical challenge कोऽन्योऽस्ति in 7.18.10, **Rāma Varmā** notes that it asserts universal notoriety (‘everybody knows my prowess’, सर्वेऽपि जानन्तीत्यर्थः), as Rāvaṇa parades his seizure of Puṣpaka from Kubera. Marutta punctures that vanity with razor-sharp sarcasm in 7.18.11: Rāma Varmā explicitly identifies the figure of speech as _vyājastuti_ (‘veiled censure disguised as praise’, अथ मरुत्तो व्याजस्तुत्याह)—mocking Rāvaṇa as ‘blessed’ for assaulting his own elder brother, a flagrant breach of Vedic family dharma.
+
+_____________
+
+**7.18.12 (Condemning Adharma and a Commentarial Text-Note)**
+
+Dropping irony in 7.18.12, Marutta declares that no unrighteous deed wins worldly honor, rebuking Rāvaṇa for glorying in villainy against his elder brother. Notably, **Rāma Varmā** records a striking textual observation here: in the exemplar before him this verse was flagged as an interpolation (इत्येकः श्लोकः प्रक्षिप्तः), yet the earlier commentator Kataka held it to be genuine (उक्तः स्यादिति कतकः). Both Govindarāja’s Southern text and the Baroda Critical Edition (CE 7.18.11) preserve the verse.
+
+_____________
+
+**7.18.13–14 (Marutta’s Indignation and Challenge)**
+
+Unpacking 7.18.13, **Govindarāja** (_Bhūṣaṇa_) sharpens Marutta’s pointed contrast: ‘I had heard before that one wins a boon by practicing flawless righteousness (दोषहीनं धर्मं चरित्वा), yet never before have I heard anyone boast of the unrighteousness of defeating an elder brother (भ्रातृविजयरूपमधर्मं भाषसे तन्न श्रुतपूर्वम्)!’ **Rāma Varmā** (_Tilaka_) likewise glosses केवलम् as pure, unmixed dharma, underscoring the moral absurdity of Rāvaṇa’s pride. In 7.18.14, Marutta answers arrogance with kṣatriya resolve, threatening to send him straight to Yama.
+
+_____________
+
+**7.18.15–16 (Saṃvarta’s Intervention and the Maheśvara Satra)**
+
+As the enraged king marches out with bow and arrows, Saṃvarta blocks the way (मार्गमावृणोत्). Commentators diverge subtly on whose path he bars: **Rāma Varmā** takes it as blocking the approaching Rāvaṇa (रणायागतस्य रावणस्येति भावः), whereas **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** read it as halting the sallying king Marutta (मरुत्तपथमावृणोत् / निर्गतस्येति शेषः). Addressing him tenderly, Saṃvarta warns that fighting is improper (न क्षमः = न युक्तः): this _satra_ dedicated to Śiva (माहेश्वरं तद्दैवत्यम्, Tilaka) will incinerate his dynasty if aborted.
+
+_____________
+
+**7.18.17–18 (Sacrificial Discipline Over Martial Pride)**
+
+Saṃvarta pairs ritual law with pragmatic realism: a consecrated sacrificer (_dīkṣita_) must renounce both violence and anger (क्रोधित्वम्), battle’s outcome is ever uncertain, and Rāvaṇa is formidable. Marutta’s instant compliance in 7.18.18 exemplifies the Vedic ideal of royal deference to one’s _guru_: laying aside his weapons, he recovers inner calm (_svastha_) and becomes मखमुखः—glossed by **Rāma Varmā** as ‘intent upon bringing the sacrifice to completion’ (मखसमाप्त्युन्मुखः).
+
+_____________
+
+**7.18.19–20 (Hollow Triumph and Savagery at the Altar)**
+
+Mistaking Marutta’s pious forbearance for surrender, Rāvaṇa’s minister Śuka (रावणामात्यः, **Śivasahāya**) trumpets a hollow victory. Worse still, Rāvaṇa perpetrates an atrocity against the unarmed brahmarṣis gathered for the rite, feasting upon them until utterly glutted with their blood—**Rāma Varmā** (_Tilaka_) glossing वितृप्तः as ‘intensely sated’ (विशेषेण तृप्तः). The gruesome act strips away any pretense of chivalric conquest and deepens the moral necessity of Rāvaṇa’s eventual doom.
+
+_____________
+
+**7.18.21–22 (The Gods Reclaim Their Forms and Indra’s First Boon)**
+
+Once Rāvaṇa leaves, Indra and the deities return to स्वां योनिम्—glossed identically by **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) as ‘each their own proper nature’ (स्वस्वप्रकृतिम्)—and turn gratefully to the creatures (तानि सत्त्वानि) that had served as their shelters (स्वस्वप्रवेशाधिकरणीभूतानि सत्त्वानि, **Śivasahāya**). Addressing the dark-plumed peacock first, Indra blesses it with absolute fearlessness before venomous snakes, inaugurating an enchanting sequence of four etiological myths.
+
+_____________
+
+**7.18.23–24 (Origin of the Peacock’s Eyespots and Monsoon Dance)**
+
+Transferring his own thousand eyes (_netra-sahasra_) onto the peacock’s tail, Indra decrees that his rain-clouds will forever stir in the bird a joy serving as the emblem of his favor (प्रीतिलक्षणाम् = मत्प्रीतिचिह्नभूताम्, Tilaka and Bhūṣaṇa). All three commentators explain 7.18.24: earlier, peacocks’ tails were plain dark blue without eyespots (नेत्ररहिताः केवलं नीलाः, Tilaka/Bhūṣaṇa); through Indra’s boon they became _barhiṇaḥ_ in the full sense—adorned with eye-jeweled splendid plumage (प्रशस्तबर्हविशिष्टा नेत्रयुक्तपुच्छवन्तो बभूवुः, Śiromaṇi).
+
+_____________
+
+**7.18.25–26 (Yama’s Boon to the Crow—Freedom from Disease)**
+
+Turning to the crow perched on the _prāgvaṃśa_, the commentators clarify this technical ritual site: **Rāma Varmā** (_Tilaka_) glosses it as the eastern altar-beam (प्राग्वेदिः), **Śivasahāya** (_Śiromaṇi_) as the eastern oblation-hall (प्राग्हविर्गृहम्), and **Govindarāja** (_Bhūṣaṇa_) as the eastern front of the sacrificial pavilion (यज्ञशालाप्राग्भागः). On the witty wordplay ते न ते in 7.18.26, all three gloss ‘those diseases (ते रोगाः) shall not overpower you (ते तव)’, Govindarāja noting the metrical cadence of प्रीते.
+
+_____________
+
+**7.18.27–28 (Mortality’s Limit and the Etiology of Śrāddha Crows)**
+
+Granting freedom from natural death (अकारणकमृत्योः, **Śivasahāya**), Yama adds a crucial proviso: the crow shall live so long as humans do not kill it. Both **Rāma Varmā** and **Govindarāja** explain this qualification by noting that death cannot be wholly abolished (मृत्योरशक्यपरिहारत्वात्), Govindarāja citing _Bhagavadgītā_ 2.27 (जातस्य हि ध्रुवो मृत्युः). On 7.18.28, all three gloss मद्विषयस्थाः as ‘souls dwelling in Yama’s realm’ (यमलोकस्थाः / संयमनीं प्राप्ताः): when descendants feed the crow at ancestral rites (तत्पुत्रादिना भोजिते सति, Śiromaṇi), the departed ancestors are nourished.
+
+_____________
+
+**7.18.29–30 (Varuṇa Addresses the Haṃsa of the Gaṅgā)**
+
+Third in sequence, Varuṇa addresses the wild swan sporting in the sacred Gaṅgā (_gaṅgā-toya-vihāriṇam_), honoring it with the lofty vocative पत्ररथेश्वर (‘lord of those whose chariots are wings’). Promising a serene, moon-like radiance rivaling stainless white foam (_śuddha-phena-samaprabha_), Varuṇa prepares the striking natural-history revelation of 7.18.32—that swans were not originally pure white, but gained their dazzling luminance from the water-god’s gratitude.
+
+_____________
+
+**7.18.31–32 (Varuṇa’s Watery Body and the Swan’s Ancient Plumage)**
+
+On Varuṇa’s promise in 7.18.31, all three commentators gloss मच्छरीरम् (‘my body’) as ‘water’ (जलम् / जलमूर्तिम्), **Rāma Varmā** (_Tilaka_) explaining that water is Varuṇa’s own physical form (जलमूर्तित्वात्तस्य); hence plunging into water ever keeps the swan radiant and joyful. On 7.18.32, all three illuminate the swan’s primeval coloration: its wings were edged at the tips with blue (नीलवर्णेनाग्रे संवीताः), while its breast (क्रोडम् = भुजान्तरम्) gleamed like tender green grass-tips (शष्पं बालतृणं तदग्रवन्निर्मलाः कोमलश्यामवर्णा इत्यर्थः, Tilaka and Bhūṣaṇa) prior to Varuṇa’s boon.
+
+_____________
+
+**7.18.33–34 (Kubera’s Golden Boon to the Chameleon)**
+
+Completing the quartet of Lokapālas, Vaiśravaṇa addresses the mountain chameleon (_kṛkalāsa_) and grants it a lustrous golden color. All three commentators clarify सद्रव्यं शिरः (‘a head endowed with treasure/gold’) in 7.18.34 directly through the following half-verse (एष काञ्चनको वर्णः): it means ‘golden-hued’ (सुवर्णवर्णमित्यर्थः), **Rāma Varmā** noting from everyday observation that chameleons are indeed visibly golden-headed. **Śivasahāya** (_Śiromaṇi_) construes 7.18.33–34 as a single connected period (श्लोकद्वयमेकान्वयि).
+
+_____________
+
+**7.18.35 (Heavenly Ascent with King Marutta)**
+
+Concluding the sarga, the deities depart for their celestial realm after rewarding their animal hosts at Marutta’s sacrificial festival. Strikingly, both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) take सह राज्ञा स्वभवनं गताः literally as escorting King Marutta himself to heaven (मरुत्तेन सह स्वर्गमित्यर्थः)—a fitting vindication of the monarch who set sacrificial _dharma_ above injured martial pride. **Śivasahāya** construes the Parimal/CE locative निवृत्ते with यज्ञोत्सवे: ‘when the sacrificial festival had concluded, the gods returned with the king to heaven.’
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

@@ -2187,6 +2187,170 @@ a foal caught in asnare would not properly look at its dam.
 
 Like a colt bound with a tether that cannot look back at its dam (_baddha iva pāśena kiśoro mātaraṃ yathā_), he, bound fast by the noose of _dharma_ (_dharma-pāśena saṃyuktaḥ_), could not gaze upon her openly (_prakāśaṃ nābhyudaikṣata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.40.1–3 (upasaṅgṛhya, dīnāḥ & anvakṣam)**
+
+All three commentators gloss उपसंगृह्य as “clasping the feet in prostration” (पादग्रहणपूर्वकं प्रणम्य). On दीनाः, **Rāma Varmā** (_Tilaka_) explains that they appeared distressed at beholding their parents' grief (मातापित्रोः शोकदर्शनाद्दीना इव), while **Govindarāja** (_Bhūṣaṇa_) attributes their sorrow to losing the opportunity to serve their aged parents. Citing _Amarakośa_ (अन्वगन्वक्षमनुपदे), **Govindarāja** glosses अन्वक्षम् as “immediately following” (अनुपदम्).
+
+_____________
+
+**2.40.4–5 (sṛṣṭas tvaṃ vanavāsāya & pramādaṃ mā kārṣīḥ)**
+
+On सृष्टस्त्वं वनवासाय, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain सृष्टः as “permitted and sent forth by me” (मया वनवासाय सृष्टोऽनुमतः). **Govindarāja** (_Bhūṣaṇa_) offers a celebrated two-fold interpretation: just as Kausalyā bore a son to protect the world, Sumitrā bore Lakṣmaṇa expressly for serving Rāma in the forest (वने रामानुवर्तनायोत्पादितः), warning him not to grow slack in guarding Rāma while Rāma wanders absorbed in viewing flowering woods with Sītā.
+
+_____________
+
+**2.40.6 (vyasanī vā samṛddho vā & jyeṣṭhavaśagaḥ)**
+
+On व्यसनी वा समृद्धो वा, all three commentators explain that whether Rāma is deprived of his kingdom (राज्याभावेन) or reigning in sovereign opulence, he alone is Lakṣmaṇa's supreme refuge (गतिः), since scriptural law enjoins that a younger brother must ever obey his elder (कनीयसो ज्येष्ठानुवर्तनं परमो धर्मः, _Tilaka_).
+
+_____________
+
+**2.40.7–8 (tanutyāgo mṛdheṣu & gaccha gaccheti)**
+
+On Verse 7, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) explain that Sumitrā cites the ancestral Ikṣvāku code—liberality, sacrificial initiation, and laying down one's life in battle (मृधेषु युद्धेषु तनुत्यागेनापि)—to instruct Lakṣmaṇa that in the forest he must protect Rāma from _rākṣasas_ even at the cost of his own body (रामो रक्षणीय इति भावः). In Verse 8, **Govindarāja** derives संसिद्धम् from षिधु गत्याम् (“ready to depart”).
+
+_____________
+
+**2.40.9 (rāmaṃ daśarathaṃ viddhi & Four Exegetical Layers)**
+
+On Sumitrā's famous verse, **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) first give the direct sense: lest Lakṣmaṇa's mind waver through homesickness, he should regard Rāma as his father Daśaratha, Sītā as his mother Sumitrā, and the forest as Ayodhyā. **Govindarāja** adds three further _vyākhyās_, including an esoteric Vaiṣṇava etymology: दशरथम् = Viṣṇu whose chariot is Garuḍa (दशः पक्षी स गरुडो रथो यस्य), जनकात्मजाम् = Lakṣmī, and अयोध्याम् = unconquerable Vaikuṇṭha—an etymology which _Śiromaṇi_ critically debates at length.
+
+_____________
+
+**2.40.10–12 (mātalir vāsavaṃ yathā & upakramitavyāni)**
+
+All three commentators note that Sumantra urges Rāma to begin the fourteen years today itself (तान्यद्यैवारम्भणीयानि) because Kaikeyī commanded immediate departure (अद्यैव गच्छेति कैकेय्या चोदितत्वात्), and **Govindarāja** adds that every single day elapsed counts toward completing the fourteen-year term (एकदिवसापनयनमपि महान् लाभः).
+
+_____________
+
+**2.40.13–14 (hṛṣṭena cetasā & Sītā's Auspicious Joy)**
+
+Commenting on हृष्टेन चेतसा in Verse 13, **Rāma Varmā** (_Tilaka_) cites the omen-maxim अङ्गिरा मन उत्साहम् to show that inward cheerfulness at the moment of departure is the foremost auspicious omen (मुख्यः शकुनो ध्वनितः). **Govindarāja** (_Bhūṣaṇa_) notes that in his manuscript order Verse 16 (अथो ज्वलनसंकाशम्) precedes Verse 14, and links Verses 14, 15, and 17 into a single syntactic period.
+
+_____________
+
+**2.40.15–16 (sacarma kaṭhinam & the Fire-Bright Chariot)**
+
+All three commentators explain सचर्म कठिनम् as referring back to the basket and spade requested by Rāma in 2.37.5: सचर्म is a wicker basket covered in leather (चर्मपिनद्धं पेटकम्, _Tilaka_; अल्पकण्डोलम्, _Bhūṣaṇa_), and कठिनम् is the hard iron digging spade (खनित्रम्). On ज्वलनसंकाशम्, **Govindarāja** remarks that the chariot blazed like fire because it was filled with radiant weapons (आयुधपूर्णत्वादिति भावः).
+
+_____________
+
+**2.40.17–18 (sītātṛtīyān & Threefold Swooning in Ayodhyā)**
+
+In Verse 18, **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) distinguish the three groups overcome by fainting (मूर्च्छा): नगरे मूर्च्छा refers to the women and children inside the city, बलमूर्च्छा to the horses, elephants, and royal troops, and जनस्य च to the countryfolk who had gathered for the consecration (उत्सवाय समागतजनपदजनस्य, _Bhūṣaṇa_).
+
+_____________
+
+**2.40.19–20 (hayasiñjitanirghoṣam & the Parched Traveller Simile)**
+
+Citing _Amarakośa_ (भूषणानां तु शिञ्जितम्), **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain हयसिञ्जितनिर्घोषम् as the clamour of the horses' ornaments (हयानां भूषणरवेण संजातघोषम्) as they tossed restlessly in grief, whereas **Śivasahāya** (_Śiromaṇi_) takes सिञ्जितैः as the horses' neighing. On Verse 20, _Śiromaṇi_ notes that पुरी परमपीडिता attributes sentient grief to the city itself.
+
+_____________
+
+**2.40.21–22 (lambamānāḥ & drakṣyāma)**
+
+On लम्बमानाः, **Govindarāja** (_Bhūṣaṇa_) glosses “clinging to parts of the chariot” (रथैकदेशमाश्रित्य), while **Śivasahāya** (_Śiromaṇi_) glosses द्रक्ष्याम as an _ārṣa_ form for द्रक्ष्यामः (“let us behold Rāma's face before it becomes impossible to see”).
+
+_____________
+
+**2.40.23–24 (devagarbhapratime & Sunlight on Mount Meru)**
+
+On देवगर्भप्रतिमे, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss “resembling Skanda, son of the gods” (स्कन्दतुल्ये देवकुमारसदृशे), _Tilaka_ adding “or resembling Hiraṇyagarbha” (देवनिधिहिरण्यगर्भस्तत्प्रतिमे). On मेरुमर्कप्रभा यथा in Verse 24, both _Tilaka_ and _Bhūṣaṇa_ explain that because the sun perpetually circumambulates Mount Meru (नित्यं तत्प्रदक्षिणसंचारात्), its radiance never leaves the golden mountain.
+
+_____________
+
+**2.40.25–27 (siddhārthaḥ & Both Worldly and Heavenly Felicity)**
+
+On Verses 25–26, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that serving Rāma accomplishes every human end (सिद्धार्थः कृतार्थः): अभ्युदयो महान् denotes supreme prosperity in this world (ऐहिकः), while स्वर्गस्य मार्गश्च denotes the path to supreme beatitude hereafter (साभ्यातिशयरहितसुखविशेषस्य मार्गः, _Śiromaṇi_).
+
+_____________
+
+**2.40.28–29 (baddhe mahati kuñjare & the Herd-Leader Simile)**
+
+On Verse 29, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) compare the loud lamentation of the royal women walking ahead of Daśaratha to the distressed cries of female elephants (करेणूनां हस्तिनीनाम्) when the great bull-elephant who protects their herd (तत्पालकद्विपः) has been captured and bound.
+
+_____________
+
+**2.40.30 (graheṇopapluto yathā & the Eclipsed Full Moon)**
+
+All three commentators gloss सन्नः as “sunk in grief, his splendour dimmed” (खिन्नः अवसन्नतेजाः) and ग्रहेण as “by Rāhu” (राहुणा) at the astrological hour of eclipse (ज्योतिःशास्त्रोक्तसमये). **Śivasahāya** (_Śiromaṇi_) also notes an alternative word-division अवभौ (with privative अ-) meaning “he shone not”.
+
+_____________
+
+**2.40.31–32 (acintyātmā & Sumantra’s Dilemma)**
+
+On Verse 31, **Rāma Varmā** (_Tilaka_) glosses अचिन्त्यात्मा as “of unfathomable nature, free from egoism and attachment” (अहंममताभिमानराहित्येन दुर्विभाव्यस्वरूपः), whereas **Govindarāja** (_Bhūṣaṇa_) renders it “of immeasurable fortitude” (इयत्तया परिच्छेत्तुमशक्यधैर्यः). Caught between Rāma’s order to drive (याहि) and the crowd’s cry to halt (तिष्ठ), Sumantra drove neither too slowly nor too fast (नातिमन्दं नातिवेगमवाहयत्, _Tilaka_).
+
+_____________
+
+**2.40.33–35 (mīna-saṃkṣobha-calitaiḥ & the Weeping Lotuses)**
+
+On Verse 33, dust raised by the chariot wheels (रथनेम्युद्धतम्, _Tilaka_) is sprinkled (सिक्तम्, _Bhūṣaṇa_) and settled by the citizens’ tears. On Verse 35, the commentators explain the instrumentals नयनैः and पङ्कजैः in an ablative sense (अपादानस्यैव करणत्वविवक्षा, _Tilaka_): tears stream from the women’s eyes like water-drops shaken from lotuses (पद्मेभ्यः सलिलमिव, _Śiromaṇi_) by darting fish.
+
+_____________
+
+**2.40.36 (eka-citta-gatam & the Felled Tree)**
+
+The commentators gloss एकचित्तगतम् as the entire city becoming of one mind in grief over Rāma’s separation (दुःखेनैकचित्ततां प्राप्तम्, _Tilaka_), seeing which Daśaratha falls like a tree with severed roots (छिन्नं मूलं यस्य स द्रुम इव, _Śiromaṇi_).
+
+_____________
+
+**2.40.37–38 (hala-halā-śabdaḥ & the Cry Behind the Chariot)**
+
+On Verse 37, **Śivasahāya** (_Śiromaṇi_) explains हलहलाशब्दः as a great tumult of grief (शोककारस्वरूपो महास्वनविशेषः) erupting behind Rāma when the crowd sees Daśaratha sinking down (सीदन्तं भ्रश्यन्तम्, _Tilaka_). On Verse 38, **Rāma Varmā** (_Tilaka_) construes अन्तःपुरसमृद्धं क्रोशन्तम् of the weeping king accompanied by his queens (अन्तःपुरसहितम्), whereas **Govindarāja** (_Bhūṣaṇa_) reads क्रोशन्तः and takes समृद्धमन्तःपुरम् separately.
+
+_____________
+
+**2.40.39–40 (kiśoro mātaraṃ yathā & the Bound Colt Simile)**
+
+On Verse 39, **Śivasahāya** (_Śiromaṇi_) notes the masculine dual अनुगतौ encapsulating both father and mother by _ekaśeṣa_. On Verse 40, bound by the noose of _dharma_ (धर्मपाशेन संयुक्तः)—or “restrained” in _Bhūṣaṇa_’s संक्षिप्तः—Rāma could not gaze openly (संकुचितदर्शनव्यापारोऽभूत्, _Tilaka_; अपाङ्गेनाभ्युदैक्षत, _Bhūṣaṇa_) at his mother, like a tethered colt (किशोरोऽश्वबालः).
+
+_____________
+
+**2.40.41 (padātinau ca yānārhau)**
+
+Seeing his parents—ever worthy of carriages and accustomed to felicity (नित्यं यानगमनयोग्यौ सुखोचितौ, _Śiromaṇi_)—walking on foot, Rāma urges his charioteer to drive swiftly.
+
+_____________
+
+**2.40.42 (tottrair nunna iva dvipaḥ & the Goaded Elephant)**
+
+On Verse 42, **Rāma Varmā** (_Tilaka_) derives दुःखजम् as “that from which sorrow arises” (दुःखं जायतेऽस्मात्) while noting the variant दुःखदम्. Just as an elephant pierced by goads (तोत्त्रमङ्कुशः, _Tilaka_; वेणुकम्, _Bhūṣaṇa_) cannot turn to see what lies behind its back (स्वपृष्ठवर्तिवस्तुदर्शनाशक्तः), so Rāma—goaded by Kaikeyī’s word (कैकेयीवाक्यमेवाङ्कुशः)—could not bear beholding his anguished parents.
+
+_____________
+
+**2.40.43–45 (baddha-vatsā yathā dhenuḥ & Kausalyā’s Frantic Chase)**
+
+On Verse 43, Kausalyā runs after the chariot like a cow rushing toward the stall where her calf is tied (बद्धवत्सा धेनूर्यथा); **Rāma Varmā** (_Tilaka_) remarks that the repetition of सवत्सा, वत्सकारणात्, and बद्धवत्सा is no blemish because the poet himself is overwhelmed with grief (कवेरपि शोकाविष्टत्वान्न दोषाय). In Verse 45, नृत्यन्तीमिव describes her staggering to and fro (इतस्ततः परिभ्रमन्तीम्, _Tilaka_, _Bhūṣaṇa_).
+
+_____________
+
+**2.40.46 (cakrayor iva cāntarā)**
+
+Sumantra’s mind wavers between the King’s cry and Rāma’s order like a man caught between two warring armies (युयुत्सुसेनयोरन्तरा, _Tilaka_) or between front and rear chariot wheels (_Bhūṣaṇa_).
+
+_____________
+
+**2.40.47 (nāśrauṣam iti & Rāma’s Counsel to Sumantra)**
+
+Fearing the King’s wrath for disobeying his cry to halt, Sumantra is instructed by Rāma to reply upon his return, even when rebuked (उपालब्धोऽपि), “I did not hear” (नाश्रौषमिति), since prolonging a scene of sorrow is worst of all (चिरं विलम्बो दुःखस्य पापिष्ठम्, _Tilaka_, _Bhūṣaṇa_). **Śivasahāya** (_Śiromaṇi_) defends Rāma’s truthfulness (न मिथ्योपदेशकत्वम्) by explaining that नाश्रौषम् negates deliberate, volitional listening aimed at halting the chariot (कृतिजन्यव्यापारजनितश्रुतेर्निषेधेऽपि).
+
+_____________
+
+**2.40.48–49 (jano rājño vs. mānuṣam)**
+
+After Sumantra urges the already running horses to greater speed (व्रजतोऽपि हयान् शीघ्रम्), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) distinguish the King’s retinue (राज्ञो जनः), who circumambulate Rāma and turn back physically though not in mind (मनसा तु न न्यवर्तत), from the general populace (मानुषम्), who turn back neither in mind nor in body.
+
+_____________
+
+**2.40.50–51 (nainaṃ dūram anuvrajet & the Maxim of Return)**
+
+The ministers cite the auspicious maxim that one should not follow far behind a traveller whose return one desires (यमिच्छेत् पुनरायातं नैनं दूरमनुव्रजेत्), halting the grieving Daśaratha (व्यवस्थितः स्थितवान्, _Bhūṣaṇa_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -2073,6 +2073,134 @@ submission of Rama, which was in consonance with righteousness.
 
 All those women, their minds overwhelmed by grief (_śokopahata-cetasaḥ_), heard this calm and righteous speech (_dharma-yuktaṃ samāhitam_) of Rāghava.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.39.1–3 (vigatacetanaḥ & na pratyavaikṣata)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply the finite verb अभूत् after विगतचेतनः in Verse 1, while **Śivasahāya** (_Śiromaṇi_) glosses it as “bereft of any resolve as to what should be done” (कर्तव्यविषयकनिश्चयाभाववान्). On Verse 2, _Tilaka_ explains न प्रत्यवैक्षत as “he had not the strength to look upon him” (द्रष्टुं नाशक्नोत्), and _Śiromaṇi_ notes that even when glancing briefly (किंचिदवलोक्यापि) the King could not speak.
+
+_____________
+
+**2.39.4 (vivatsā bahavaḥ kṛtāḥ & Karmic Retribution)**
+
+All three commentators supply धेनवः (“cows”) with विवत्साः: Daśaratha infers from his separation from his beloved son that in a past life or earlier reign he must have separated many mother cows from their calves (वत्सरहिताः कृताः बहवो धेनवः); **Śivasahāya** (_Śiromaṇi_) alternatively construes विवत्साः with प्राणिनः as “creatures deprived of their dear offspring” (प्रियापत्यरहिताः).
+
+_____________
+
+**2.39.5–6 (anāgate kāle & tāpasācchādam)**
+
+Linking Verses 5 and 6 into a single sentence (श्लोकद्वयमेकान्वयि), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain अनागते काले as “until the time arrives for the exhaustion of the karma that sustains the body” (देहारम्भककर्मविनाशकाले), while _Tilaka_ analyses तापसाच्छादम् as a _Bahuvrīhi_ meaning “wearing the covering of ascetics” (तापसानामाच्छादो यस्य).
+
+_____________
+
+**2.39.7–9 (nikṛtim & Tear-Choked Silence)**
+
+Citing _Amarakośa_ (मृषावादो निकृतिः शाठ्यम्), **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) gloss निकृतिम् as treacherous deceit (शाठ्यम्) in the form of the two boons, on account of which every citizen save Kaikeyī suffers (कैकेयीव्यतिरिक्तः सर्वोऽपि जनः खिद्यते). On नेत्राभ्याम् in Verse 9, all three commentators note the instrumental of characteristic mark (उपलक्षणे तृतीया, “marked by tear-filled eyes”).
+
+_____________
+
+**2.39.10 (aupavāhyaṃ ratham)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain औपवाह्यम् as a royal chariot meant specifically for riding excursion rather than warfare (वाहनमात्रोपयुक्तं युद्धानर्हम्, _Tilaka_; उपवहनमात्रयोग्यं राजयोग्यमिति वा, _Bhūṣaṇa_), while **Śivasahāya** (_Śiromaṇi_) reads उपवाह्यम् and notes that औपवाह्यम् is formed with a pleonastic ष्यञ् suffix.
+
+_____________
+
+**2.39.11–12 (guṇānāṃ phalam & yayau)**
+
+On Verse 11, **Rāma Varmā** (_Tilaka_) identifies the figure _Utprekṣā_ born of overwhelming grief: since righteous Rāma is exiled by his parents, banishment itself must be what the world calls the reward of virtue (अतो गुणा नार्जनीयाः सुतैरिति भावः, _Bhūṣaṇa_). On योजयित्वा ययौ, **Govindarāja** resolves the sandhi as योजयित्वा आययौ (“he came”).
+
+_____________
+
+**2.39.13–14 (vyāpṛtaṃ vittasaṃcaye & sarvataḥ śuciḥ)**
+
+All three commentators gloss वित्तसंचये व्यापृतम् as the superintendent of the royal treasury (धनाध्यक्षम्). On निश्चितं सर्वतः शुचिः, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read nominative शुचिः qualifying Daśaratha (“spotless in word and deed”), whereas **Govindarāja** (_Bhūṣaṇa_) reads accusative निश्चितं सर्वतः शुचिम् qualifying the treasurer as “tested in honesty both outwardly and inwardly” (बाह्यान्तरशुद्धियुक्तम्).
+
+_____________
+
+**2.39.15–16 (varṣāṇy etāni saṅkhyāya)**
+
+On एतानि वर्षाणि संख्याय, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that Daśaratha ordered garments and ornaments sufficient for each of the fourteen years of exile (चतुर्दशवर्षेषु धारणयोग्यवस्त्राणि); _Tilaka_ adds that this precise count intimates that the exile will not last a day beyond fourteen years (एतन्मित एव वनवासो नाधिक इति सुहृदाश्वासो ध्वनितः).
+
+_____________
+
+**2.39.17–18 (sujātā sujātāni & Dawn-Radiance Simile)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain the double सुजात in Verse 17: the feminine सुजाता means “nobly born, not born of a mortal womb” (अयोनिजा), while the neuter सुजातानि गात्राणि means “limbs endowed with all auspicious marks of palmistry and physiognomy” (सामुद्रिकोक्तलक्षणवन्ति). In Verse 18, _Tilaka_ notes that comparing Sītā to the rising dawn-sun (प्रातःकाले) shows her utter freedom from dejection.
+
+_____________
+
+**2.39.19–21 (anācarantīṃ kṛpaṇam & duṣyanti)**
+
+On कृपणम् अनाचरन्तीम्, **Rāma Varmā** (_Tilaka_) glosses “free from any mean conduct” (क्षुद्राचारहीनाम्), while **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) take कृपणम् as grief or self-pity (दुःखमकुर्वतीम्). In Verse 21, _Tilaka_ and _Śiromaṇi_ explain दुष्यन्ति in the causative sense (दूषयन्ति, “they impute manifold faults to their husband”) before forsaking him (प्रजहत्यपि).
+
+_____________
+
+**2.39.22–23 (virāgiṇaḥ & Veiled Censure of Kaikeyī)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) flag क्षणमात्रविरागिणः as an _ārṣa_ masculine form standing for feminine विरागिण्यः (स्त्रीत्वभाव आर्षः), while **Śivasahāya** (_Śiromaṇi_) explains it as a generic neuter plural (सामान्ये नपुंसकम्). On Verse 23, **Govindarāja** remarks that by enumerating noble birth, past favours, gifts, and marriage (संग्रहम् अग्निसाक्षिकपाणिग्रहणम्), Kausalyā obliquely censures Kaikeyī (एवं कैकेयी व्याजेन निन्दिता).
+
+_____________
+
+**2.39.24 (śīle satye śrute sthite & the Husband as Supreme Sanctifier)**
+
+Contrasting chaste wives (साध्वीनाम्) with unchaste women, **Rāma Varmā** (_Tilaka_) glosses स्थिते as “abiding within the bounds of family custom” (स्वकुलोचितमर्यादावस्थितौ), whereas **Govindarāja** (_Bhūṣaṇa_) reads श्रुते शमे (“in scriptural instruction and inner peace”). All three affirm that for a devoted wife her husband alone excels all other means of _dharma_ (सर्वधर्मसाधनेभ्यो विशिष्यते).
+
+_____________
+
+**2.39.25–27 (devasamaḥ & Sītā's Instruction in Pātivratya)**
+
+On तव देवसमस्त्वेष, **Rāma Varmā** (_Tilaka_) glosses “preeminent among gods” (देवमुख्यः), **Govindarāja** (_Bhūṣaṇa_) reads दैवतमस्तु (“let him be your deity”), and **Śivasahāya** (_Śiromaṇi_) ingeniously analyses देव from दिवु क्रीडादौ as “joy” and सम as “all” (सर्वप्रमोदः). In Verse 27, all three supply मातापितृभ्याम् with श्रुतं च मे (“heard by me from my mother and father in Mithilā”).
+
+_____________
+
+**2.39.28–29 (candrād iva prabhā & Lute and Chariot Similes)**
+
+Commenting on असज्जनेन समानयितुम्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss “to equate me with unchaste women” (असतीजनेन समानां कर्तुम्). In Verse 29, _Tilaka_ and _Śiromaṇi_ read विद्यते in both halves, supplying वादनसमर्था (“fit to be played”) for the stringless lute and गमनसमर्थः (“fit to travel”) for the wheelless chariot, while _Bhūṣaṇa_ reads वाद्यते and वर्तते.
+
+_____________
+
+**2.39.30 (mitam vs. amitasya dātāram)**
+
+Explaining why a father, brother, and son give only what is measured (मितम्) whereas a husband gives what is measureless (अमितस्य), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) observe that kinsmen confer only limited worldly goods (अल्पम् ऐहिकमात्रम्), whereas the husband bestows boundless felicity both in this world and in the hereafter (ऐहिकामुष्मिकसकलसुखस्य, _Tilaka_).
+
+_____________
+
+**2.39.31–32 (śrutadharmaparāvarā & duḥkhaharṣajam)**
+
+On श्रेष्ठा श्रुतधर्मपरावरा, **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) explain परावरा as the higher and lower—general and special—injunctions of _dharma_ heard from noble mothers (श्रेष्ठाभ्यो मात्रादिपतिव्रताभ्यः श्रुतसामान्यविशेषरूपधर्मोत्कर्षा, _Bhūṣaṇa_). On दुःखहर्षजम् in Verse 32, _Tilaka_ and _Bhūṣaṇa_ explain that Kausalyā's tears sprang simultaneously from grief over the princes' departure and joy at Sītā's unwavering fidelity (दृढपातिव्रत्ययुक्तसीतावचःश्रवणजो हर्षः).
+
+_____________
+
+**2.39.33–35 (suptāyās te & samagram)**
+
+On अभिक्रम्य, **Govindarāja** (_Bhūṣaṇa_) glosses “having circumambulated her” (प्रदक्षिणीकृत्य). In Verse 35, all three commentators treat सुप्तायास्ते as an implicit simile (सुप्ताया इव): fourteen years will pass like a single night's sleep (एकस्यां रात्रौ संप्राप्तस्वापाया इव, _Bhūṣaṇa_), after which she will see Rāma returned समग्रम्—either “with his brother and wife” (_Tilaka_) or “having fulfilled his father's word” (_Bhūṣaṇa_).
+
+_____________
+
+**2.39.36 (trayaḥ śataśatārdhāḥ & the 350 Queens)**
+
+All three commentators explain त्रयःशतशतार्धाः मातरः as referring to Daśaratha's three hundred and fifty junior wives (त्रीणि शतानि शतार्धं पञ्चाशच्च संख्या यासां ताः), noting that त्रयस् for त्रि is an _ārṣa_ substitution (त्रेश्त्रयसादेश आर्षः) and मातरः stands as an accusative plural.
+
+_____________
+
+**2.39.37–38 (saṃvāsāt & samupajānīta)**
+
+On तथैवार्ताः, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss “distressed just like Kausalyā” (कौसल्यावदेव दुःखिताः). In Verse 38, **Govindarāja** explains संवासात् as “out of long familiarity from living together in one palace” (एकत्र सहवासाच्चिरपरिचयात्), and all three commentators gloss समुपजानीत (or समनुजानीत) as “pray forgive and grant pardon” (क्षान्तमित्यनुजानीत) and आमन्त्रयामि as “I bid farewell” (आपृच्छामि).
+
+_____________
+
+**2.39.39–40 (samāhitam & the Cry of Krauñcī Birds)**
+
+On समाहितम् in Verse 39, **Rāma Varmā** (_Tilaka_) glosses “calm and composed” (धीरम्), **Govindarāja** (_Bhūṣaṇa_) “fraught with fitting meaning” (समीचीनार्थयुक्तम्), and **Śivasahāya** (_Śiromaṇi_) “bringing consolation” (समाधानकारकम्). In Verse 40, Rāma's gentle farewell triggers a collective cry (संनादः) like that of bereaved female _krauñca_ herons.
+
+_____________
+
+**2.39.41 (murajapaṇavameghaghoṣavat & Palace Lamentation)**
+
+On मुरजपणवमेघघोषवत्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) offer two explanations: either मेघ is a specific type of deep-toned drum alongside the _muraja_ and _paṇava_ (मुरजादिसहपाठात् मेघोऽपि वाद्यविशेषः), forming a singular _Samāhāra Dvandva_ of musical instruments, or else the drums themselves are compared to thunderclouds. Both distinguish विलपितम् (recounting Rāma's virtues and Kaikeyī's faults) from परिदेवनम् (weeping aloud, रोदनम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

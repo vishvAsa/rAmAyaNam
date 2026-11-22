@@ -883,6 +883,98 @@ manner, he will be ceasing to exit at this moment. O, destroyer of race! A curse
 
 “Should anyone else utter such a speech as this, O night-stalker (_yo &#x27;nyas tv evaṃvidhaṃ brūyād vākyam etan niśācara_), he would cease to exist this very moment (_asmin muhūrte na bhavet_); fie upon you, O disgrace of our lineage (_tvāṃ tu dhik kulapāṃsana_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.16.1–2 (The Enemy Within)**
+
+Impelled by Time (कालचोदितः), Rāvaṇa spurns Vibhīṣaṇa's salutary counsel (सुनिविष्टं सुनिविष्टार्थतत्त्वम्). **Govindarāja** (_Bhūṣaṇa_) derives रावणः from causative √रु (`he who makes the worlds weep', रावयति रोदयतीति), and contrasts an external rival (सपत्नेन बाह्यशत्रुणा) with a congenital enemy posing as a friend (सहजशत्रुणा), noting that Rāvaṇa implicitly orders Vibhīṣaṇa to quit Laṅkā (अस्मान्नगरात्सद्यो गन्तव्यम्). **Rāma Varmā** (_Tilaka_) remarks that शत्रुसेविना unwittingly intimates Vibhīṣaṇa's devotion to the Lord (भगवद्भक्तत्वं सूचितम्).
+
+_____________
+
+**6.16.3–5 (The Perfidy of Kinsmen)**
+
+Rāvaṇa inveighs against kinsmen (ज्ञातयः), who ever rejoice in a relative's calamity (हृष्यन्ति व्यसनेष्वेते) and despise even a preeminent, learned (वैद्यं विद्यावन्तम्), and righteous leader. Glossing आततायिनः (`murderous aggressors') in 6.16.5, **Rāma Varmā** quotes the Smṛti definition of the six _ātatāyins_: incendiary, poisoner, armed assailant, plunderer of wealth, and seizer of land or wife (अग्निदो गरदश्चैव...).
+
+_____________
+
+**6.16.6 (The Song of the Wild Elephants)**
+
+To corroborate his charge, Rāvaṇa introduces the ancient verses sung by wild elephants in a lotus-wood upon seeing noose-bearing trappers (पाशहस्तान् नरान्) aided by tame decoy elephants.
+
+_____________
+
+**6.16.7–8 (The Decoy Elephants)**
+
+Quoting the wild elephants' ballad (6.16.7–9), Rāvaṇa explains that neither fire, weapons, nor nooses (पाशाः गजग्रहणरज्जवः) terrify elephants so much as their own captured kinsmen (स्वजातिभूताः पूर्वगृहीता गजाः), who out of greed for choice fodder from their mahouts (हस्तिपकायाकरणे उत्तमभोजनलाभादिस्वार्थपराः) reveal the means of trapping the herd (ग्रहणे उपायम्). Thus fear from kinsmen is known (विदितम्) as the most grievous of all perils (सुकष्टमतिदुःसहम्).
+
+_____________
+
+**6.16.9–10 (Proverbial Certainties and Sarcasm)**
+
+In the proverbial quatrain 6.16.9, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss सम्पन्नम् as abundant dairy wealth (गोरससम्पत्तिः) or sacrificial offerings (हव्यकव्यादिसाधकद्रव्यम्); just as milk abides in cows, fickleness in women, and self-restraint (दमः इन्द्रियनियतिः) or austerity in Brāhmaṇas, so danger ever abides in kinsmen. In 6.16.10, **Rāma Varmā** notes that vocative सौम्य (`O gentle one!') is biting irony (सोल्लुण्ठनं वचः).
+
+_____________
+
+**6.16.11–12 (Lotus Leaves and Autumn Clouds)**
+
+Even long cohabitation breeds no affection in the base (अनार्येषु दुर्जनेषु): friendship slides off them like water-drops on lotus leaves (पुष्करपत्रेषु) and proves as fruitless as thundering autumn clouds (शरदि मेघानाम्) that never soak the earth (न भवत्यम्बुसंक्लेदः).
+
+_____________
+
+**6.16.13–15 (The Bee, the Kāśa Flower, and the Elephant's Bath)**
+
+Continuing his invective, Rāvaṇa compares Vibhīṣaṇa's ingratitude toward his benefactor (उपजीव्यविषये) to a bee that sips nectar (रसं मकरन्दम्) and immediately abandons the flower (न तिष्ठति). In 6.16.14 (commented on by **Rāma Varmā** and **Śivasahāya**, omitted by **Govindarāja**), friendship with the base is likened to a bee sipping a dry _kāśa_-blossom (काशपुष्पं पिबन्नपि) and finding no sap (रसमत्र न विन्देत), and in 6.16.15 to an elephant's bath (गजस्नानवदन्ते दुष्यति), where the beast washes itself only to fling dust over its body with its trunk.
+
+_____________
+
+**6.16.16 (Spared Only as a Brother)**
+
+Rāvaṇa declares that anyone else (अनुजादन्यः) who spoke thus would be slain that very instant (अस्मिन् मुहूर्ते न भवेत्); as **Rāma Varmā** (_Tilaka_) notes, because a full brother may not be executed, public reviling serves as his punishment (सोदरत्वेन वधानर्हत्वाद्धिक्कृतिरेव ते दण्डः).
+
+_____________
+
+**6.16.17 (Vibhīṣaṇa Springs into the Sky)**
+
+Mace in hand, Vibhīṣaṇa springs into the air with four ministers as if quitting red-hot iron ground (संतप्ततिक्तायोमयभूमिस्थित इव, _Bhūṣaṇa_); **Rāma Varmā** cites the Smṛti sanctioning abandonment of an erring elder (गुरोरप्यवलिप्तस्य परित्यागो विधीयते).
+
+_____________
+
+**6.16.18–19 (True Glory and the Erring Elder)**
+
+Asking how Vibhīṣaṇa can be called श्रीमान् (`possessed of Śrī') at the very moment he forsakes kingdom and wealth, **Govindarāja** (_Bhūṣaṇa_) answers that turning away from the hostile Rāvaṇa toward Rāma is itself his supreme fortune (प्रतिकूलनिवृत्तिपूर्वकानुकूलरामविषयाभिमुख्यलक्ष्मीसंपन्नः). Although an elder brother is venerable as a father (पितृसमः), Rāvaṇa has strayed from _dharma_ (न च धर्मपथे स्थितः); **Rāma Varmā** (_Tilaka_) cites the Smṛti rule that one should take leave of a fallen kinsman and depart (यदृच्छासंनिपाते उपसंगृह्य तूष्णीं व्रजेत्), refusing to stomach false accusations.
+
+_____________
+
+**6.16.20–21 (The Rare Speaker and Hearer of Salutary Truth)**
+
+Men of unchastened mind (अकृतात्मानः चञ्चलचित्ताः) ensnared by Time reject sound policy (सुनीतम्). In 6.16.21, **Rāma Varmā** notes that Vibhīṣaṇa repeats Mārīca's celebrated maxim (पुनर्मारीचोक्तस्मरणेनाह): flatterers (प्रियवादिनः) are ever easy to find, whereas both the speaker and the listener of unpleasant yet salutary counsel (अप्रियस्य च पथ्यस्य वक्ता श्रोता च) are rare.
+
+_____________
+
+**6.16.22 (The Burning House)**
+
+Explaining why he spoke despite Rāvaṇa's deafness, Vibhīṣaṇa says he could not passively watch (नोपेक्षेयम्) his brother perish in Time's noose, like a house on fire (प्रदीप्तं शरणं गृहमिव).
+
+_____________
+
+**6.16.23–24 (Dams of Sand)**
+
+Vibhīṣaṇa declares that he departs because he cannot bear to witness Rāvaṇa slain by Rāma's fire-bright, gold-decked shafts (दीप्तपावकसंकाशैः). Countering Rāvaṇa's pride in his martial prowess (शौर्यबलानुयायिनो मे कुतो विपदिति), **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain 6.16.24: even valiant, mighty warriors accomplished in missiles (कृतास्त्राः), once overtaken by Death (कालाभिपन्नाः मृत्युगृहीताः) through unrighteousness, crumble on the battlefield like dams of sand (वालुकसेतव इव सीदन्ति विनश्यन्ति).
+
+_____________
+
+**6.16.25 (The Final Farewell)**
+
+Begging Rāvaṇa to forgive (मर्षयतु क्षमताम्) whatever harsh truth he spoke out of duty to an elder (गुरुत्वात् तव ज्येष्ठत्वहेतोः), Vibhīṣaṇa bids him guard himself and Laṅkā, adding with poignant irony (व्यङ्ग्योक्तिः, _Tilaka_): “Be happy without me (सुखी भव मया विना), freed from my unwelcome counsel (रहितमन्त्रः)!”
+
+_____________
+
+**6.16.26 (Deafness at the Hour of Death)**
+
+Concluding the Sarga, **Śivasahāya** glosses परान्तकाले as the hour of death (मरणसमये), while **Govindarāja** reads परीतकालाः (`encompassed by Time'): men whose life is spent (गतायुषः) spurn the salutary words of friends.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

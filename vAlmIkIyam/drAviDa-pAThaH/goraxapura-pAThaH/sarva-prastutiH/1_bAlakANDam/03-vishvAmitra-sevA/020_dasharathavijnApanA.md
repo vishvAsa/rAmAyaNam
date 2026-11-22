@@ -86,6 +86,14 @@ a time, and on redeeming senses he said this. [1-20-1]
 
 Hearing that speech of Viśvāmitra (asking for Rāma to slay the sacrifice-obstructing rākṣasas), that tiger among kings lost consciousness for a moment as it were (_muhūrtam iva niḥsaṃjñaḥ_); then, regaining his senses (_saṃjñāvān_), he spoke these words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.1–2 (The Famous Chronological Debate on ūnaṣoḍaśavarṣo me Rāmaḥ)**
+
+Few verses in the _Rāmāyaṇa_ have received richer exegetical discussion than v. 2. Since Sītā later tells Rāvaṇa in _Araṇyakāṇḍa_ (3.47.4, 10) that she dwelt twelve years in Ayodhyā after her marriage (समा द्वादश तत्राहं राघवस्य निवेशने) and that Rāma was twenty-five at the time of exile (मम भर्ता महातेजा वयसा पञ्चविंशकः), while Kausalyā says seventeen years had passed since Rāma’s _janma_ (2.20.45: दश सप्त च वर्षाणि जातस्य तव पुत्रक) and Mārīca recalls Rāma as twelve years old at Viśvāmitra’s sacrifice (3.38.14: बालो द्वादशवर्षोऽयम्), how are these four statements harmonized? **Tilaka**, **Śiromaṇi**, and **Govindarāja** set forth two principal schools:
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +183,14 @@ eliminating the vice. This is again rounded off with Vishvamitra's wording in la
 
 “My lotus-eyed Rāma is less than sixteen years of age (_ūnaṣoḍaśavarṣo me rāmo rājīvalocanaḥ_); I do not see in him the fitness to wage battle against the rākṣasas (_na yuddhayogyatām asya paśyāmi saha rākṣasaiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.2 (The Two Exegetical Solutions — Dvādaśavarṣa vs. īṣad-ūna-ṣoḍaśavarṣa)**
+
+$18
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -235,6 +251,14 @@ and 1,09,350 of foot soldiers.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Here is this full _akṣauhiṇī_ army of which I am the protector and sovereign lord (_iyam akṣauhiṇī senā yasyāhaṃ patir īśvaraḥ_); marching forth accompanied by this host, I myself shall fight against those night-prowlers (_yoddhāhaṃ tair niśācaraiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.3 (The Akṣauhiṇī Calculation)**
+
+All three commentators quote the canonical _Mahābhārata_ (_Ādiparvan_ 1.2.15–18) table of military units (एको रथो गजश्चैको नराः पञ्च पदातयः । त्रयश्च तुरगास्तज्ज्ञैः पत्तिरित्यभिधीयते ... अनीकिनीं दशगुणां प्राहुरक्षौहिणीं बुधाः): 1 chariot, 1 elephant, 5 foot-soldiers, and 3 horses form a _patti_; multiplying successively by 3 yields _senāmukha_, _gulma_, _gaṇa_, _vāhinī_, _pṛtanā_, _camū_, and _anīkinī_, and 10 _anīkinīs_ constitute one _akṣauhiṇī_ (21,870 chariots, 21,870 elephants, 65,610 cavalry, and 109,350 infantry = 218,700 warriors).
 </details>
 </details>
 
@@ -451,6 +475,14 @@ demons definitely conduct a deceitful warfare, isn't it. [1-19-7, 8a]
 
 He is still a tender boy, his martial training not yet complete (_bālo hy akṛtavidyaś ca_), nor does he know how to gauge the comparative strength and weakness of foes (_na ca vetti balābalam_); he is neither equipped with the power of celestial missiles (_na cāstrabalasaṃyuktaḥ_) nor experienced in pitched battle (_na ca yuddhaviśāradaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.7 (akṛtavidyaḥ — Reconciling Daśaratha’s Words with 1.18.25)**
+
+How can Daśaratha call Rāma _akṛtavidyaḥ_ (“untrained in martial science”) when Sarga 18 just declared _sarve vedavidaḥ śūrāḥ_ and _dhanurvede ca niṣṭhitāḥ_ (1.18.25, 37)? **Tilaka**, **Śiromaṇi**, and **Govindarāja** offer two answers: (1) **Tilaka** attributes it to overwhelming paternal affection (_snehātiśayena_), which makes a father view his teenage son as still an untried child, so there is no contradiction with the poet’s objective statement in Sarga 18 (_tena pūrvoktyā na virodhaḥ_); (2) **Govindarāja** and **Śiromaṇi** distinguish general mastery of archery (_dhanurveda_) from initiation into the secret divine _astras_ (_aśikṣitadhanurvidyaḥ / anupadiṣṭa-mantrāstravidyaḥ_), which Rāma will indeed receive from Viśvāmitra Himself in Sarga 27!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -524,6 +556,14 @@ The four kinds of troops are: chariots, elephants, cavalry, and foot soldiers.
 
 **9:** To remain alive, O tiger among sages! You ought not to take Rāma away (_jīvituṃ muniśārdūla na rāmaṃ netum arhasi_)! Or if, O Brāhmaṇa of noble vows, you are resolved upon taking Rāghava (_yadi vā rāghavaṃ brahman netum icchasi suvrata_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.8–9 (viprayukto hi rāmeṇa muhūrtam api notsahe jīvitum)**
+
+**Govindarāja** and **Śiromaṇi** highlight the poignant shift in Daśaratha’s argument: “Even setting aside Rāma’s tender age, consider _my_ nature (_tiṣṭhatu rāmasvabhāvaḥ, matsvabhāva evam_): parted from Rāma, I cannot survive for a single _muhūrta_!”—a tragic foreshadowing of _Ayodhyākāṇḍa_. Recognizing in v. 9cd that his refusal might seem to break his promise in Sarga 18, the King proposes a compromise in v. 10ab: “If you must take Rāghava, take him along with me and my fourfold army!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -577,6 +617,14 @@ of you. [1-20-10b, 11a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then take him accompanied by a fourfold army and together with me as well (_caturaṅgasamāyuktaṃ mayā saha ca taṃ naya_)! Sixty thousand years have passed since my birth, O Kauśika (_ṣaṣṭir varṣasahasrāṇi jātasya mama kauśika_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.10–12 (ṣaṣṭir varṣasahasrāṇi & dharmapradhāne)**
+
+Having lived for sixty thousand years before obtaining Rāma through the _Aśvamedha_ and _Putreṣṭi_ penances (_kṛcchreṇa = yajñadīkṣādikleśena_), Daśaratha explains why his love is supreme for his eldest son: **Tilaka** points out on _dharmapradhāne_ (v. 12a) that in the _Smṛtis_ the eldest son alone is the chief performer of the father’s _śrāddha_ and royal _dharma_; if anything befell him, the ancestral rites and protection of the subjects would be severed (तदपाये पिण्डदानाद्यभावेन सर्वधर्मविच्छेद एव भवेत्).
 </details>
 </details>
 
@@ -698,6 +746,14 @@ deceitful militants. [1-20-13b, 14a]
 **12:** Rests upon him, the eldest and the chief upholder of _dharma_ (_jyeṣṭhe dharmapradhāne ca_); you ought not to take Rāma away! Of what might are those rākṣasas, whose sons are they, and who are they by name (_kiṃvīryā rākṣasās te ca kasya putrāś ca ke ca te_)?
 
 **13:** Of what stature and measure are they, and who protects them at their head, O foremost of sages (_kathaṃpramāṇāḥ ke caitān rakṣanti munipuṃgava_)? And how are those rākṣasas to be countered by Rāma (_kathaṃ ca pratikartavyaṃ teṣāṃ rāmeṇa rakṣasām_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.12cd–15ab (Daśaratha’s Five Strategic Questions)**
+
+**Govindarāja** and **Tilaka** trace how Viśvāmitra systematically answers every one of Daśaratha’s questions across vv. 16–19: (1) _kasya putrāḥ_ (“Whose sons are they?”) → Rāvaṇa, their overlord, is born in the line of Pulastya as the son of Sage Viśravas (vv. 16a, 18b) and his two lieutenants Mārīca and Subāhu are the sons of Sunda and Upasunda; (2) _ke ca te_ (“Who are they by name?”) → Rāvaṇa (v. 16b), Mārīca, and Subāhu (v. 19c); (3) _kiṃvīryāḥ_ (“Of what valor are they?”) → empowered by Brahmā’s boon, Rāvaṇa afflicts the three worlds (v. 16cd); and (4) _ke caitān rakṣanti_ (“Who backs and protects them?”) → Rāvaṇa himself, the brother of Kubera, instigates and shields them (vv. 17–19). **Śiromaṇi** observes that Daśaratha’s anxious questioning reveals how paternal love (_vātsalya-rasa_) eclipses even his innate heroic ardor (_vīra-rasa_).
 </details>
 </details>
 
@@ -831,6 +887,14 @@ thus we hear. [1-20-17b, 18a]
 
 **17:** Possessed of mighty strength and vast valor, and surrounded by multitudes of rākṣasas (_mahābalo mahāvīryo rākṣasair bahubhir vṛtaḥ_). This Rāvaṇa, the overlord of the rākṣasas, O great King, is renowned throughout the world (_śrūyate ca mahārāja rāvaṇo rākṣasādhipaḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.16–18 (Why Viśvāmitra Names Rāvaṇa First)**
+
+Although Mārīca and Subāhu are the immediate obstructors of the sacrifice at Siddhāśrama, Viśvāmitra begins his reply by describing Rāvaṇa (vv. 16–18). **Śiromaṇi** and **Govindarāja** explain the reason: first, Rāvaṇa is their sovereign instigator (_tena saṃcoditau_, v. 19a); second, by mentioning that Rāvaṇa holds Brahmā’s boon of invulnerability to gods and demons—yet is vulnerable to a human warrior—Viśvāmitra subtly hints why Daśaratha’s conventional armies cannot prevail and why the incarnate human prince Śrī Rāma alone must be sent!
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -895,6 +959,14 @@ by him." Thus Sage Vishvamitra said to Dasharatha. [1-20-18b, 19]
 
 **19:** Impelled by him, those two rākṣasas of exceeding might, Mārīca and Subāhu, will obstruct the sacrifice (_mārīcaś ca subāhuś ca yajñavighnaṃ kariṣyataḥ_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.18cd (yadā na khalu yajñasya vighnakartā)**
+
+**Tilaka** and **Govindarāja** explain why Rāvaṇa does not come in person to defile Viśvāmitra’s sacrifice: out of haughty disdain for a mere sage’s rite (_anādarāt_, **Tilaka**) or because he considers such raids beneath his royal dignity (_aśakyatvādinā_, **Govindarāja**), he delegates the task to his mighty generals Mārīca and Subāhu.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -942,6 +1014,14 @@ question of deputing my young Rama to confront him? [1-20-20]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by that sage, the King then spoke to the sage: “Indeed I am not able to stand in battle against that evil-souled one (_na hi śakto ’smi saṃgrāme sthātuṃ tasya durātmanaḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.20–21 (Why Daśaratha Withdraws Even His Own Offer to Fight)**
+
+Notice the dramatic reversal between Spread 131 (where Daśaratha offered to lead his _akṣauhiṇī_ army in person) and v. 20 here (_na hi śakto ’smi saṃgrāme sthātuṃ tasya durātmanaḥ_): **Tilaka** remarks that the mere mention of Rāvaṇa’s name causes the King to lose all hope of countering the demons even himself (_rāvaṇanāma śrutvā svayam eva naṣṭapratīkārapratyāśo rājāha_)! On _alpabhāgyasya_ (v. 21c), **Tilaka** and **Govindarāja** explain why the King calls himself “of scant fortune”: because out of paternal terror he is failing to carry out the command of a great sage who came to his door (_tvanniyogākaraṇena_), whereas **Śiromaṇi** construes it as “one who obtained the fortune of sons only after a long, painful wait.”
 </details>
 </details>
 
@@ -1035,6 +1115,14 @@ are incapable to bear the brunt of that Ravana in fight, why tell again about hu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even the gods, Dānavas, Gandharvas, Yakṣas, birds (Garuda and his race), and serpents are unable to withstand Rāvaṇa in battle—how much less mere mortal men (_na śaktā rāvaṇaṃ soḍhuṃ kiṃ punar mānavā yudhi_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.22–23 (kiṃ punar mānavā yudhi & vīryam ādatte)**
+
+**Śiromaṇi** points out the figure _kāvyārthāpatti_ in v. 22: if even the celestials, Dānavas, Gandharvas, and Yakṣas cannot withstand Rāvaṇa, how much less mortal men? Because Viśvāmitra said only “granted a boon by Brahmā” (v. 16c) without disclosing that Brahmā omitted human beings from the boon, Daśaratha assumes Rāvaṇa is invincible to all beings alike! On _vīryavatāṃ vīryam ādatte_ (v. 23ab), **Tilaka** and **Govindarāja** explain that Rāvaṇa drains and neutralizes the strength of his opponents in battle, so retreating from him is no dishonor for a warrior (_rāvaṇasaṃgrāmavaimukhyaṃ na doṣāya, sarvāśakyatvāt_).
 </details>
 </details>
 
@@ -1135,6 +1223,14 @@ spare my son in anyway. [1-20-24b, 25a]
 
 Whether accompanied by my army, O foremost of sages, or together with my sons (_sabalo vā muniśreṣṭha sahito vā mamātmajaiḥ_). How then could I possibly hand over my tender son, godlike in beauty yet unacquainted with battles (_katham apy amaraprakhyaṃ saṃgrāmāṇām akovidam_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.24 (amaraprakhyam)**
+
+**Tilaka** highlights the poignant force of _amaraprakhyam_ (“resembling an immortal in beauty”): Daśaratha means, “My Rāma only _looks_ like a god in loveliness, he is not actually a god (_amaratulyarūpam eva, na tv amaram iti tātparyam_)—and even if he were a god, v. 22 just proved that the gods themselves cannot withstand Rāvaṇa!”
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1198,6 +1294,14 @@ no, I cannot spare my son, in any case. [1-20-25b, 26a]
 
 **26:** Those two obstructors of your sacrifice! I will never give away my little son to you (_yajñavighnakarau tau te naiva dāsyāmi putrakam_)! Both Mārīca and Subāhu are mighty in valor and thoroughly trained in warfare (_mārīcaś ca subāhuś ca vīryavantau suśikṣitau_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.25–26 (tanayaṃ ... putrakam & sutau sundopasundayoḥ)**
+
+Why does Daśaratha use both _tanayam_ and _putrakam_ in v. 25ab and repeat _naiva dāsyāmi putrakam_ in both v. 25b and v. 26b? **Tilaka** and **Govindarāja** observe that in the mouth of an anguished father stricken with terror for his child, such repetition is a supreme psychological ornament rather than a fault (_atiduḥkhitoktitvāt tanayaputrakaśabdayoḥ paunaruktyaṃ na doṣaḥ_), with the diminutive suffix _-ka_ (_anukampāyāṃ kan_) expressing tender pity. On _sutau sundopasundayoḥ_, **Govindarāja** and **Tilaka** note that Mārīca was the son of the Daitya Sunda (by the Yakṣa maiden Tāṭakā) and Subāhu the son of Upasunda, both transformed into fierce _rākṣasas_ through Sage Agastya’s curse (which Viśvāmitra will narrate in Sarga 25).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1247,6 +1351,14 @@ implore upon you for your exoneration in my failure to comply my own promises. [
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Against either one of those two I shall march forth to fight along with my host of friends and allies (_tayor anyataraṃ yoddhuṃ yāsyāmi sasuhṛdgaṇaḥ_); or else, accompanied by my kinsmen, I shall humbly entreat and propitiate you (_anyathā tv anuneṣyāmi bhavantaṃ sahabāndhavaḥ_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.27 (tayor anyataraṃ yoddhum & anyathā tv anuneṣyāmi)**
+
+Even in his final offer, Daśaratha no longer claims he can fight both demons at once: he offers to march with his allies against _one_ of the two at a time (_tayor anyataraṃ yoddhum_), or else (_anyathā_), if Viśvāmitra refuses to accept him in Rāma’s stead, to fall at the sage’s feet with all his kinsmen to beg forgiveness (_anuneṣyāmi bhavantaṃ sahabāndhavaḥ_, **Tilaka**).
 </details>
 </details>
 
@@ -1322,6 +1434,14 @@ and which is drenched with a lot of clarified butter, whereby it is flaring up i
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 At this wild and incoherent prattle of the monarch (_iti narapatijalpanāt_), a towering wrath entered the foremost of twice-born sages, the son of Kuśika (_dvijendraṃ kuśikasutaṃ sumahān viveśa manyuḥ_); like a sacrificial fire well-fed with dry fuel in a rite and drenched with clarified butter, the fire of that great sage blazed up fiercely (_samabhavad ujjvalito maharṣivahniḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20.28 (narapatijalpanāt & maharṣivahniḥ)**
+
+All three commentators call attention to the noun _jalpanāt_ (“incoherent prattle”): going back on a solemn royal promise (1.18.58: _kartā cāham aśeṣeṇa_) is unworthy speech (_asaṅgatokteḥ_, **Govindarāja**). In the closing _Puṣpitāgrā_ metaphor (_maharṣivahniḥ_), **Tilaka** and **Govindarāja** explain the two stages of the blaze: Viśvāmitra’s asceticism had already kindled him like dry sacrificial fuel (_ādau śuṣkasamidbhiḥ suhutaḥ_), and Daśaratha’s refusal poured clarified butter (_ājyasiktaḥ_) straight onto that fire!
 </details>
 </details>
 

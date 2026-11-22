@@ -1140,6 +1140,188 @@ Then the great sages, sprung from the lineages of Bhṛgu and Aṅgiras (_bhṛg
 
 Now there was a king named Ṛkṣarajas (_atharkṣarajaso nāma_), father of Vālin and Sugrīva (_vāli-sugrīvayoḥ pitā_), sovereign of all the monkeys (_sarva-vānara-rājā_), radiant as the sun in splendor (_tejasā bhāskara-prabhaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.36.1–2 (Vāyu’s Threefold Prostration Before Brahmā)**
+
+Picking up seamlessly from Sarga 35, where Brahmā sought out the aggrieved Wind-god in his subterranean retreat, **Śivasahāya** (_Śiromaṇi_) opens the sarga by noting that Vāyu rises holding his stricken child (अङ्कस्थितं सुतं समादाय) before the Creator. All three commentators analyze Vāyu’s golden adornments in 7.36.2, with Śivasahāya resolving तपनीयविभूषणः as ‘adorned with ornaments of gold’ (स्वर्णमयानि विभूषणानि यस्य). On तिस्रोपस्थाय, **Govindarāja** (_Bhūṣaṇa_) glosses it as an _ārṣa_ form of त्रिरुपस्थाय (‘prostrating thrice with all eight limbs after reverent approach’, उपस्थानपूर्वकं त्रिः साष्टाङ्गमनमत्), concurring with **Rāma Varmā** (_Tilaka_).
+
+_____________
+
+**7.36.3–4 (Brahmā’s Reviving Touch)**
+
+Addressing the unusual syntax of 7.36.3, **Rāma Varmā** glosses वेदविदा as ‘knower of the meaning of all the Vedas’ (अशेषवेदार्थविदा) and परिमृष्टवान् as ‘gently stroked’. **Govindarāja** likewise explains वेदविदा as Brahmā ‘who knows all Veda and Vedānta’. **Śivasahāya**, however, adds an ingenious alternative: वेदविदा may directly qualify Brahmā’s hand (हस्तस्यैवेदमपि विशेषणं वेदस्थापनक्षमेणेति)—the very hand capable of establishing the Vedas now restores life! In 7.36.4, Vālmīki’s simile compares the effortlessly revived infant (सलीलम्) to parched grain revived by a sudden shower (जलसिक्तं यथा सस्यम्).
+
+_____________
+
+**7.36.5–6 (Breath Restored to the Three Worlds)**
+
+Commentators diverge subtly over संनिरुद्धम् in 7.36.5. **Rāma Varmā** construes it adverbially as ‘so that the blockage was cast off, moving as _prāṇa_ and _apāna_ as before’ (संत्यक्तनिरोधं यथा भवति तथा ... प्राणापानात्मना चचार). **Govindarāja** glosses it as ‘firmly established within all creatures’ (अन्तःप्रतिष्ठितं यथा भवति तथा). **Śivasahāya** proposes taking चचार in an implied causative sense—Vāyu ‘set in motion the arrested vital airs’ (संनिरुद्धं प्राणादिजातं चालयामास)—or else taking संनिरुद्धम् as a general neuter epithet of Vāyu himself. On 7.36.6, Govindarāja glosses शीतदाहः as ‘frost-burn’ (हिमेन दाहः).
+
+_____________
+
+**7.36.7 (Brahmā’s Threefold Cosmic Epithets)**
+
+Introducing Brahmā’s solemn assembly speech, all three commentators unpack his rare triple epithets in 7.36.7. **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) concur that त्रियुग्मः means ‘possessing the three pairs’ of supreme attributes (_bhagas_): fame and valor (यशोवीर्ये), sovereignty and splendor (ऐश्वर्यश्रियौ), and knowledge and detachment (ज्ञानवैराग्ये). Likewise, all three gloss त्रिककुत् as ‘foremost among the Trimūrti’ (त्रिमूर्तिप्रधानः) and त्रिधामा as ‘whose abode is the three worlds’ (त्रिलोकस्थानः), underscoring Brahmā’s supreme authority as mediator between Indra and Vāyu.
+
+_____________
+
+**7.36.8–9 (Summoning the Lokapālas for a Future Mission)**
+
+On the roster of deities in 7.36.8, **Govindarāja** identifies ईश as Rudra and प्रजेश्वर as Yama; both he and **Rāma Varmā** explicitly remark on the irregular heavy syllable in वक्ष्यामि श्रूयताम् as an archaic epic license (गुरुवैषम्यमार्षम्). **Śivasahāya** paraphrases 7.36.8–9 smoothly: even though the omniscient gods already foresee the coming war with Rāvaṇa, Brahmā reminds them that through this very infant their own divine purpose (कर्तव्यं वः कार्यम्) will be accomplished, urging them to grant boons to appease Vāyu.
+
+_____________
+
+**7.36.10–12 (Indra’s Garland, Etymology, and First Boon)**
+
+Taking the lead as the very deity whose thunderbolt had felled the child, Indra responds with immediate grace. All three commentators gloss कुशेशयमयीं मालाम् in 7.36.10 as ‘a garland of golden lotuses’ (काञ्चनपद्ममयीम्), with **Śivasahāya** explaining उत्क्षिप्य as ‘lifting and placing it upon the boy’s neck’ (गलक्षेपणपूर्वकं प्रदाय). Having memorialized his own strike in the celebrated etymology of हनुमान् (‘the jaw-marked one’) in 7.36.11, Indra adds a boon preceded by the garland-gift (मालापूर्वं वरम्, Tilaka): perpetual invulnerability to the _vajra_ itself.
+
+_____________
+
+**7.36.13–15b (Sūrya’s Solar Brilliance and Scriptural Eloquence)**
+
+Sūrya—whose blazing disk the infant had leaped to seize in Sarga 35—answers generously with a two-stage boon. All three commentators gloss शतिकां कलाम् as ‘a hundredth part’ (शततममंशम्). On 7.36.14, **Rāma Varmā** (_Tilaka_) glosses शास्त्रम् as both scriptural study and comprehension, **Śivasahāya** (_Śiromaṇi_) explains दास्यामि as ‘I shall personally teach him’ (अध्यापयिष्यामि), and **Govindarāja** (_Bhūṣaṇa_) specifies that the scripture conferring eloquence (वाग्मी) is grammar (व्याकरणम्), foreshadowing Hanūmān’s aerial studies in 7.36.43–45.
+
+_____________
+
+**7.36.15c–17 (The Boons of Varuṇa, Yama, and Kubera)**
+
+On Varuṇa’s promise in 7.36.15, **Govindarāja** clarifies that it guarantees immunity specifically from death caused by Varuṇa’s noose or water (स्वदण्डनिमित्तमरणाभावमात्रम्). Navigating the abrupt shift from third to first person in 7.36.16–17, **Śivasahāya** construes 16c–17 together (सार्धश्लोक एकान्वयी): Yama grants immunity to his staff and freedom from illness, while Kubera (एकाक्षिपिङ्गलः) declares, ‘Pleased, I grant freedom from dejection in battle and immunity to my mace.’ **Rāma Varmā** notes the epic hiatus in सन्तुष्ट अविषादम्.
+
+_____________
+
+**7.36.18 (Śaṅkara’s Supreme Boon)**
+
+Concluding this series of divine guardians, Śiva (शङ्करः) promises that Hanūmān will be invulnerable both to himself and to all his armaments. Both **Rāma Varmā** and **Govindarāja** specify मदायुधानाम् as Śiva’s trident, the _Pāśupata_ missile, and kindred weapons (शूलपाशुपतास्त्राद्यवध्यत्वमित्यर्थः). Collectively, the boons in 7.36.12–18 systematically shield Hanūmān against every elemental and divine force—sky, sun, water, death, wealth-guardian’s mace, and Rudra’s missiles—preparing his invincible role in Laṅkā.
+
+_____________
+
+**7.36.19 (Brahmā’s Immunity to the Brahmadaṇḍa)**
+
+All three commentators examine the precise scope of ब्रह्मदण्डानाम् in 7.36.19. **Rāma Varmā** (_Tilaka_) glosses महात्मा as ‘great-minded, unconquerable’ (अधृष्यः) and explains ब्रह्मदण्डाः as both _brahmāstra_ missiles and fatal Brahmin curses intended to destroy (संहारोद्देश्यकः शापो न भविष्यति)—a crucial qualification that reconciles this boon with the sages’ non-lethal curse in 7.36.34! **Govindarāja** (_Bhūṣaṇa_) agrees (ब्रह्मशापानां ब्रह्मायुधानां वा), while **Śivasahāya** (_Śiromaṇi_) glosses महात्मा as ‘of extraordinary exertion’ (अतिप्रयत्नवान्).
+
+_____________
+
+**7.36.20–21 (Viśvakarmā’s Comprehensive Weapon-Shield)**
+
+Since Indra’s thunderbolt, Kubera’s mace, and Śiva’s trident were themselves forged by the divine architect, **Govindarāja** notes why Viśvakarmā’s boon in 7.36.20–21 is not redundant: even though the _vajra_ and other weapons were fashioned by Viśvakarmā, this boon specifically covers all _other_ celestial weapons (वज्राद्यायुधानामपि विश्वकर्मनिर्मितत्वेऽपि तदतिरिक्तायुधपरमिदम्). **Śivasahāya** construes the two verses as a single syntactic unit (सार्धश्लोक एकान्वयी in Parimal’s layout) granting both universal invulnerability to divine arms and enduring longevity (चिरजीवी).
+
+_____________
+
+**7.36.22–24 (Brahmā’s Prophecy to Vāyu)**
+
+With the child now ‘adorned with the boons of the gods’ (सुराणां वरैरलङ्कृतम्), Brahmā turns directly to console the Wind-god. The balanced antithesis of 7.36.23 (अमित्राणां भयकरो मित्राणामभयङ्करः) encapsulates Hanūmān’s dual martial and protective character, while the three _kāma_-compounds of 7.36.24 (कामरूपः कामचारी कामगः) anticipate his feats across the ocean and in Laṅkā. **Śivasahāya** remarks on 7.36.24 that the present verb भवति carries future force (भवति भविष्यति), matching भविष्यति at the close of the verse.
+
+_____________
+
+**7.36.25–27 (The Prophecy Fulfilled and Return to Añjanā)**
+
+Brahmā’s climactic prophecy in 7.36.25 links Hanūmān’s childhood directly to the main narrative of the _Rāmāyaṇa_: his thrilling deeds are destined to uproot Rāvaṇa and delight Rāma. On 7.36.26, **Śivasahāya** (_Śiromaṇi_) glosses आमन्त्र्य as courteously taking Vāyu’s leave (तदाज्ञां गृहीत्वा), while **Rāma Varmā** (_Tilaka_) clarifies that Indra and the other gods departed with Brahmā at their head. In 7.36.27, both Tilaka and **Govindarāja** (_Bhūṣaṇa_) resolve वरदत्तम् as an inverted compound meaning ‘to whom boons had been granted’ (दत्तवरम्), while Śivasahāya supplies गृहात् (‘departed from the house’).
+
+_____________
+
+**7.36.28–29 (Swelling Like the Ocean with Unchecked Power)**
+
+Agastya turns directly to Rāma (प्राप्य राम वरान्) to explain how divine invulnerability turned the boy into an irrepressible prankster. Comparing Hanūmān’s burgeoning inner energy to an ocean swelling to fullness (अपूर्यत यथार्णवः), Vālmīki captures the natural exuberance of a child suddenly freed from every fear (निर्भयः). **Śivasahāya** highlights the causal link across 7.36.28–29: fortified by the gods’ boons and brimming with innate vigor, the young monkey began trespassing repeatedly into the quiet forest hermitages of the great seers.
+
+_____________
+
+**7.36.30 (Boyish Havoc in the Hermitages)**
+
+All three commentators underscore the contrast between Hanūmān’s boisterous mischief and the serene forbearance of the ascetics, with **Rāma Varmā** glossing संशान्तानाम् as ‘thoroughly tranquil’ (सम्यक्शान्तानाम्) and **Govindarāja** as ‘preeminent in peace’ (शान्तिप्रधानानाम्). Both gloss स्रुग्भाण्डानि as ‘sacrificial utensils’ (यज्ञोपकरणानि). **Rāma Varmā** further discerns a neat rhetorical symmetry (_yathāsaṅkhya_) in the compound भग्नविच्छिन्नविध्वस्तान्: the ladles and pots were _broken_ (भग्न), the fire-rites _disrupted_ (विच्छिन्न), and the bark-garments and skins _scattered_ (विध्वस्त).
+
+_____________
+
+**7.36.31–32 (Forbearance Toward Brahmā’s Boon)**
+
+All three commentators explain why शम्भुना in 7.36.31 refers not to Śiva but to Brahmā, with **Govindarāja** (_Bhūṣaṇa_) citing the _Amarakośa_ (शम्भू ब्रह्मत्रिलोचनौ). Likewise, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and Govindarāja all gloss तस्य शक्तितः as ‘out of regard for Brahmā’s boon-power’ (ब्रह्मणो वरसामर्थ्यात्). On 7.36.32, Śivasahāya glosses मर्यादाम् as ‘the path honored by elders’ (वृद्धसेवितपथम्), noting that even Kesarin’s and Vāyu’s warnings failed to curb his boyish exuberance.
+
+_____________
+
+**7.36.33–34 (The Measured Curse of the Bhṛgu-Āṅgirasa Sages)**
+
+Commentators admire the sages’ restraint in 7.36.33 (नातिक्रुद्धातिमन्यवः). Both **Rāma Varmā** and **Govindarāja** distinguish the two nouns: क्रोधः is the desire to injure (जिघांसा), whereas मन्युः is resentful impatience (अमर्षः); the sages felt neither in excess. **Śivasahāya** adds that reflecting ‘a child’s prank must not be harshly punished’, they assumed only mild displeasure (स्वीकृतेषत्कोपाः) to uphold _maryādā_, issuing a reversible amnesia-curse (यदा ते स्मार्यते कीर्तिः) rather than destroying him.
+
+_____________
+
+**7.36.35–36 (Hanūmān Gentled and Transition to Ṛkṣarajas)**
+
+Instantly humbled by the sages’ word, Hanūmān becomes gentle (मृदुभावम्). Both **Rāma Varmā** and **Govindarāja** carefully gloss हृततेजौजाः as ‘stripped of awareness of his own prowess and strength’ (अपहतस्ववीर्यबलज्ञानः)—not of the power itself—and note the archaic sandhi in एषोश्रमाणि. Introducing Ṛkṣarajas in 7.36.36 (noting the thematic stem ऋक्षरजस alongside ऋक्षरजस् in 37c), Agastya shifts smoothly to Kiṣkindhā’s royal succession to explain why Hanūmān did not crush Vālin.
+
+_____________
+
+**7.36.37–39 (Kiṣkindhā’s Succession and Friendship Like Wind and Fire)**
+
+On 7.36.38, all three commentators gloss वालिनः पदे as ‘in the office of crown prince’ (यौवराज्ये), to which Sugrīva succeeded upon Vālin’s coronation. In 7.36.39, **Rāma Varmā** (_Tilaka_) glosses अद्वैधम् as ‘uniform, undivided’ (एकप्रकारम्), while **Śivasahāya** (_Śiromaṇi_) adds that छिद्रवर्जितम् means ‘free from mutual fault-finding’ (परस्परं दोषदर्शनरहितम्). Vālmīki’s celebrated simile—Wind allied with Fire (अनिलस्याग्निना यथा)—simultaneously recalls Hanūmān’s paternity (Vāyu) and Sugrīva’s solar brilliance.
+
+_____________
+
+**7.36.40–41 (Why Hanūmān Did Not Overthrow Vālin)**
+
+Resolving the puzzle Rāma had raised back in Sarga 35, **Rāma Varmā** anticipates an objection on 7.36.40–41: even if Hanūmān forgot his own strength, why did Sugrīva not remind him? Because Sugrīva too remained unaware of it until the gods’ mission came due, when Jāmbavān awakened Hanūmān on the ocean shore (तदा तु जाम्बवता स्मारितः समुद्रतीरे तज्ज्ञातवान्). Both Tilaka and **Śivasahāya** explain 7.36.41ef: staying faithfully with Sugrīva (सुग्रीवसहितः), the curse-bound hero did not unleash battle, like a lion hemmed in.
+
+_____________
+
+**7.36.42 (The Twelvefold Upajāti Panegyric of Hanūmān)**
+
+Shifting abruptly from _Anuṣṭubh_ to stately _Upajāti_, Agastya extols Hanūmān’s twelve unmatched virtues. **Rāma Varmā** defines each with precision: _parākrama_ (ardor in great martial deeds), _utsāha_ (vigor in other tasks), _mati_ (ascertainment of truth), _pratāpa_ (majesty), _sauśīlya_ (noble nature), _mādhurya_ (sweetness of speech), _nayānayau_ (discerning right engagement and abstention), _gāmbhīrya_ (unshaken composure in crisis), _cāturya_ (dexterity), _suvīrya_ (defeating foes while guarding oneself), and _dhairya_ (unshakeable steadfastness). **Śivasahāya** adds that _naya_ is humility toward the great.
+
+_____________
+
+**7.36.43–44 (Hanūmān’s Aerial Study of the Grammatical Corpus)**
+
+Facing Sūrya across the sky, Hanūmān masters the entire grammatical tradition. All three commentators map 7.36.44 directly onto the classical Pāṇinian curriculum: सूत्र is the _Aṣṭādhyāyī_, वृत्ति its concise gloss, अर्थपद the _Vārttika_, and महार्थ Patañjali’s _Mahābhāṣya_, with **Rāma Varmā** (_Tilaka_) identifying संग्रह as Vyāḍi’s _Saṅgraha_ and glossing छन्दगति as Vedic exegesis via Mīmāṃsā (whereas **Govindarāja** and **Śivasahāya** take it as prosody). Tilaka also cites Kataka’s note that Hanūmān is renowned as author of the ninth grammar.
+
+_____________
+
+**7.36.45–46 (Future Brahmā and Apocalyptic Might)**
+
+Verses 45–46 unite supreme intellect with cosmic force: rivaling Bṛhaspati in learning and austerity, the ‘knower of the nine grammars’ is destined by Rāma’s grace to attain the rank of Brahmā himself. On the three doomsday similes of 7.36.46, **Rāma Varmā** and **Govindarāja** read प्रवीविविक्षोः as the ocean eager to engulf the earth at cosmic dissolution (युगान्ते भूमिमाप्लावयितुम्), whereas **Śivasahāya** intriguingly construes it with Viṣṇu plunging into the ocean to slay Pañcajana (पञ्चजनवधोद्यतविष्णोरिव).
+
+_____________
+
+**7.36.47–48 (The Divine Purpose of the Vānara Host)**
+
+Widening the lens from Hanūmān to his companions, Agastya declares in 7.36.47 that Sugrīva, Mainda, Dvivida, Nīla, Tāra, Aṅgada (तारेयः, glossed by Tilaka and Govindarāja), Nala, and Rambha were all manifested by the gods specifically to serve Rāma (त्वत्सेवारूपहेतोः, Śivasahāya). Closing his long narration of the rākṣasas and Hanūmān in 7.36.48, the sage returns to crisp _Anuṣṭubh_, leaving Rāma and his assembly marveling at Hanūmān’s boyhood.
+
+_____________
+
+**7.36.49–50 (Astonishment and Agastya’s Farewell)**
+
+The narrative cycle that began in Sarga 1—when Rāma marveled at the sages’ praise of Indrajit and launched Agastya’s vast chronicle of Rāvaṇa, Vālin, and Hanūmān—now draws to a close. Hearing of Hanūmān’s childhood, Rāma, Lakṣmaṇa, and even the monkeys and rākṣasas are filled with wonder (विस्मयं परमं जग्मुः). **Śivasahāya** (_Śiromaṇi_) paraphrases Agastya’s courteous leave-taking in 7.36.50: having narrated all that Rāma wished to hear, and having beheld and conversed with the newly consecrated monarch, the sage announces their departure.
+
+_____________
+
+**7.36.51–53 (Rāma’s Reverence and Humble Petition)**
+
+True to the _vinaya_ he displayed in Sarga 1, Rāma rises with joined palms and bowed head (प्राञ्जलिः प्रणतश्चापि) to honor the departing seers, declaring in 7.36.52 that their very presence (दर्शनादेव) gratifies his gods, forefathers, and kin alike. On 7.36.53, all three commentators illuminate Rāma’s polite formula: **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss एतत् as ‘this petition I am about to voice’ and मम कृते as ‘for my sake’ (मन्निमित्तम्), while **Śivasahāya** explains आगतस्पृहः as ‘filled with longing for the rites I intend to perform’.
+
+_____________
+
+**7.36.54 (Civic Order Before Vedic Sacrifice)**
+
+Verse 7.36.54 reveals the classical sequence of _rājadharma_: before undertaking grand Vedic _kratu_ sacrifices, a king newly returned from exile must first stabilize the realm by restoring both townspeople and countryfolk to their respective vocations (पौरजानपदान् स्थाप्य स्वकार्येषु). Both **Rāma Varmā** and **Govindarāja** specifically gloss आगतः as ‘returned from forest exile’ (वनवासादागतः), while **Śivasahāya** glosses प्रभावात् as ‘through the grace of you noble sages’ (प्रसादात्), foreshadowing Rāma’s great _Aśvamedha_ later in Book VII.
+
+_____________
+
+**7.36.55–56 (Sadasyas of the Royal Sacrifices)**
+
+Inviting the assembled seers to preside over his coming sacrifices, Rāma calls them सदस्याः and महावीर्याः. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss सदस्याः as ‘overseers of ritual correctness’ (विधिदर्शिनः) and महावीर्याः as ‘endowed with supreme ascetic potency’ (महातपोवीर्याः). In 7.36.56, Rāma links service to purified ascetics (तपोनिर्धूतकल्मषान्) directly to ancestral blessing (पितृभिरनुग्रहीतः), where Govindarāja normalizes the epic participle अनुग्रहीतः as अनुगृहीतः and construes अनिशम् (‘continually’) with सुनिर्वृतः.
+
+_____________
+
+**7.36.57–58 (The Sages’ Assent and Rāma’s Reflection)**
+
+On 7.36.57a, **Rāma Varmā** notes the sandhi division तदा आगन्तव्यम् (‘then you must come’), and **Śivasahāya** (_Śiromaṇi_) specifies तदा as ‘at the time preceding the start of the sacrifice’ (यागारम्भपूर्वकाले). With a brief एवमस्तु (‘so be it’), Agastya and the seers depart. Remarkably, all three commentators concur on the exact referent of तमेवार्थम् (‘that very matter’) in 7.36.58cd: Rāma remains lost in wonder contemplating his upcoming sacrificial enterprise (यागरूपं प्रयोजनम्), smoothly bridging the mythological prologue into Ayodhyā’s royal chronicle.
+
+_____________
+
+**7.36.59 (Dusk, Sandhyā, and the Close of the First Day)**
+
+Verse 7.36.59 closes the massive thirty-six-sarga frame conversation with quiet liturgical cadence. As sunset arrives (अस्तं भास्करे याते), Rāma courteously dismisses the visiting monarchs and monkey chiefs (विसृज्य नृपवानरान्), performs his evening twilight worship strictly according to Vedic precept (सन्ध्यामुपास्य विधिवत्), and only after nightfall withdraws to the inner palace (अन्तःपुरचरः). **Śivasahāya** notes the unified six-quarter syntax (सार्धश्लोक एकान्वयी), preparing Sarga 37’s dawn awakening.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

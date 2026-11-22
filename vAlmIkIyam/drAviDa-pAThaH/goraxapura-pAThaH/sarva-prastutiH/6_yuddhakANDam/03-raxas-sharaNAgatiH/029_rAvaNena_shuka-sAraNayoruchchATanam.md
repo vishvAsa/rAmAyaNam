@@ -80,6 +80,14 @@ Beholding Rāma, Lakṣmaṇa, Vibhīṣaṇa, Sugrīva, and the monkey commande
 
 **4:** —along with Suṣeṇa, Kumuda, Nīla, and Nala, that bull among leapers (_plavagarṣabham_), and Gaja, Gavākṣa, Śarabha, Mainda, and Dvivida as well,—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–4.**
+
+Śivasahāya (_Śiromaṇi_) construes verses 1–5 as a single five-verse sentence (श्लोकपञ्चकमेकान्वयि) culminating in Rāvaṇa's rebuke (भर्त्सयामास). Govindarāja (_Bhūṣaṇa_), omitting verses 3–4 in his text, notes that the particle च in सर्ववानरराजं च (2b) implicitly includes the vast monkey hosts numbered in _padmas_ and _mahaughas_ (दशपद्मादिसमुच्चयार्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -144,6 +152,14 @@ their report.
 
 —Rāvaṇa, his heart somewhat agitated (_kiṃcid āvignahṛdayaḥ_) and his wrath aroused (_jātakrodhaś ca_), upbraided (_bhartsayāmāsa_) those two heroes, Śuka and Sāraṇa, at the close of their report (_kathānte_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.**
+
+Glossing आविग्नहृदयः as fearful at heart (भीतहृदयः), Govindarāja explains that Rāvaṇa's simultaneous anger (जातक्रोधः) is provoked by hearing his enemies extolled (परस्तवाकर्णनेन कुपित इत्यर्थः). Rāma Varmā (_Tilaka_) perceptively remarks that Rāvaṇa's outburst against Śuka and Sāraṇa is a calculated show meant to mask his own inner trepidation (स्वकीयभीताकारगोपनार्थोऽयं व्यापारः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -195,6 +211,14 @@ Shuka and Sarana who stood saluting with their faces bent down.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 To those two, Śuka and Sāraṇa, who stood bowed with downcast faces (_adhomukhau tau praṇatau_), he spoke angry and harsh words (_saṃrabdhaṃ paruṣaṃ tathā_) in a voice choked with rage (_roṣagadgadayā vācā_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.**
+
+Both _Tilaka_ and _Śiromaṇi_ note that Śuka and Sāraṇa stand with downcast faces (अधोमुखौ) because of Rāvaṇa's tongue-lashing (भर्त्सनेन नताननौ), while Govindarāja glosses रोषगद्गदया as faltering with rage (कोपस्खलितया).
 </details>
 </details>
 
@@ -255,6 +279,14 @@ who has the power to mete out any punishment or reward."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Surely it is not at all befitting (_na tāvat sadṛśaṃ nāma_) for dependent ministers (_sacivair upajīvibhiḥ_) to speak what is displeasing to a king (_vipriyaṃ nṛpateḥ_) who has the power to punish and to reward (_nigrahe pragrahe prabhoḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7–8.**
+
+All three commentators gloss प्रग्रहे as royal favor (अनुग्रहे) paired with punishment (निग्रहे). On 8b, Rāma Varmā (_Tilaka_) explains सदृशं नाम as an ironic question (काकुः: `is it fitting?—nay, wholly improper!'): commissioned merely to report the enemy captains and their numbers, they had no business declaring that any single commander could crush Laṅkā (तेषामन्यतम एवैको नाशयितुं शक्त इत्यादि वक्तुं न युक्तम्).
 </details>
 </details>
 
@@ -363,6 +395,14 @@ since the essence to be followed from political sciences has not been grasped by
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In vain have preceptors, elders, and the aged (_ācāryā guravo vṛddhāḥ_) been waited upon by you two (_vṛthā vāṃ paryupāsitāḥ_), since the vital essence of royal treatises (_sāraṃ yad rājaśāstrāṇām_), by which a courtier must live (_anujīvyam_), has not been grasped (_na gṛhyate_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**9–10.**
+
+_Tilaka_ and Govindarāja (_Bhūṣaṇa_) distinguish आचार्याः (`teachers of statecraft', नीतिशास्त्रोपदेष्टारः), गुरवः (`fathers and elders', पित्रादयः), and वृद्धाः (`seniors in wisdom and age', ज्ञानवयोवृद्धाः). Reading भारो ज्ञानस्य वोढ्यते in 10a, Govindarāja explains that they carry dead weight of unapplied learning (ज्ञातमपि ज्ञानं नानुष्ठानपर्यवसायि), whereas _Tilaka_ and Śivasahāya (_Śiromaṇi_) read भारोऽज्ञानस्य वाह्यते (`a load of sheer ignorance'). All three supply राज्यम् with धरामि (`by luck I still hold my realm').
 </details>
 </details>
 
@@ -473,6 +513,14 @@ you dare tongue dispenses good and evil?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Have you no fear of death (_kiṃ nu mṛtyor bhayaṃ nāsti_) in speaking harsh words to me (_māṃ vaktuṃ paruṣaṃ vacaḥ_), whose tongue, as I rule (_yasya me śāsataḥ_), dispenses weal and woe (_prayacchati śubhāśubham_)?
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11–12.**
+
+Glossing शुभाशुभम् as reward and punishment (निग्रहानुग्रहम्) decreed by the monarch's mere tongue (जिह्वा वचनमात्रम्), Govindarāja explains 12 as an _a fortiori_ warning: forest trees touched by fire might survive, but never offenders touched by royal wrath (राजकोपः).
 </details>
 </details>
 
@@ -589,6 +637,14 @@ killed thse two miscreants who are praising the band of enemies."
 
 I would slay these two wretches (_hanyām ahaṃ tv imau pāpau_) who praise the enemy&#x27;s faction (_śatrupakṣapraśaṃsinau_), were it not that my wrath is softened (_mṛdutāṃ vrajet_) by their past services (_pūrvopakāraiḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13–14.**
+
+Govindarāja (_Bhūṣaṇa_) notes that Rāvaṇa speaks verse 13 as an aside to himself (स्वमनः प्रत्याह) before addressing the two spies directly in 14. Both Rāma Varmā (_Tilaka_) and Govindarāja explain the plural imperatives अपध्वंसत नश्यध्वम् addressed to two persons as an _ārṣa_ number shift expressive of Rāvaṇa's fury (क्रोधवशाद्वचनव्यत्यासो न दोषाय; परस्मैपदं बहुवचनं चार्षम्). On हतावेव, all three observe that being branded as ungrateful traitors is itself a moral death even without weapons (विनापि शस्त्रं धिक्कारादेवेति शेषः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -699,6 +755,14 @@ to him saying, "Be thou victorious!" and went away.
 
 Thus addressed, those two, Śuka and Sāraṇa, looking upon Rāvaṇa with shame (_savrīḍau_), saluted him with cries of victory (_jayaśabdena pratinandya_) and went forth (_abhiniḥsṛtau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.**
+
+Glossing प्रतिनन्द्य as praising (प्रशस्य), _Tilaka_ remarks that Śuka and Sāraṇa's dismissal here marks the termination of the curse that had condemned them to Rākṣasa birth (अयमेव तयो राक्षसत्वप्रापकशापस्यान्त इत्यन्यत्र स्पष्टम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -756,6 +820,14 @@ spies here quickly."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the night-stalker Daśagrīva spoke to Mahodara, who stood nearby (_samīpastham_): “Bring spies before me at once (_upasthāpaya me śīghraṃ cārān_)!” And Mahodara, thus addressed, immediately commanded the spies (_śīghram ājñāpayac carān_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16–18.**
+
+Summoned through Mahodara, the new spies greet Rāvaṇa with blessings of victory (जयाशिषा वर्धयित्वा). _Tilaka_ and Govindarāja derive प्रत्यायिकान् from प्रत्ययः (`proven trustworthy', विश्वासोपेतान्, विश्वसनीयान्).
 </details>
 </details>
 
@@ -899,6 +971,14 @@ faithful, brave, energetic and free from fear:
 
 “Go hence to examine Rāma&#x27;s strategic resolve (_rāmasya vyavasāyaṃ parīkṣitum_), and those who are his intimate confidants in counsels (_mantreṣv abhyantarā ye &#x27;sya_) and have joined him out of affection (_prītyā tena samāgatāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19–20.**
+
+Govindarāja (_Bhūṣaṇa_) unpacks the strategic motive behind each point of Rāvaṇa's inquiry: testing Rāma's resolve (व्यवसायम् कर्तव्यनिश्चयम्) to see if he can be intimidated (शिथिलव्यवसायश्चेदद्यैव भीषयामः); probing his inner circle of allies (मन्त्रिष्वभ्यन्तराः) to see if they can be suborned (तच्छैथिल्ये तान् भेत्स्यामः); learning how he sleeps (कथं स्वपिति) to launch a night attack if his guards are lax (अद्य रात्रावेव युद्धं प्रवर्तयिष्यामः); and observing how he wakes (कथं जागर्ति) to strike if he is anxious (व्याकुलं प्रहरिष्यामि).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -952,6 +1032,14 @@ towards him."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 How he sleeps, how he keeps watch (_kathaṃ svapiti jāgarti_), and what he intends to do today (_kim adya ca kariṣyati_)—having ascertained all this with skill (_vijñāya nipuṇaṃ sarvam_), you must return with a complete report (_āgantavyam aśeṣataḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20–21.**
+
+Glossing निपुणम् adverbially as secretly (प्रच्छन्नमिति यावत्), Govindarāja explains अशेषतः either as `exhaustively' (सर्वप्रकारेण) or as `returning with none of your party missing'. Śivasahāya (_Śiromaṇi_) glosses चारेण विदितः as an enemy whose movements have been learned through spies (ज्ञाताचरणः शत्रुः).
 </details>
 </details>
 
@@ -1056,6 +1144,14 @@ little of effort."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Saying “So be it!” (_tathety uktvā_), those delighted spies placed Śārdūla at their head (_śārdūlam agrataḥ kṛtvā_) and then circumambulated the lord of Rākṣasas (_cakruḥ pradakṣiṇam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22–24.**
+
+Placing the chief spy Śārdūla at their head (शार्दूलं प्रधानचारमग्रतः कृत्वा), the spies circumambulate Rāvaṇa. Govindarāja notes that repeating कृत्वा प्रदक्षिणम् in 23b conveys their immediate departure without delay (मध्ये विलम्बाभावद्योतनार्थम्), disguised in foreign attire (प्रच्छन्नाः वेषान्तरधारिणः).
 </details>
 </details>
 
@@ -1217,6 +1313,14 @@ Sugreeva and Vibhishana in the neighbourhood of Mountain Suvela.
 
 As they surveyed that army (_prekṣamāṇāś camūṃ tām_), they became overwhelmed with fear (_babhūvur bhayavihvalāḥ_). Then those Rākṣasas were spotted by the righteous-souled lord of Rākṣasas (_dharmātmanā dṛṣṭā rākṣasendreṇa_),—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25–26.**
+
+All three commentators identify धर्मात्मना राक्षसेन्द्रेण as Vibhīṣaṇa (विभीषणेनेत्यर्थः). Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain that while Vibhīṣaṇa detained all the spies (निगृहीताः बद्धाः), he singled out the chief spy Śārdūla to be handed over to the monkeys (ग्राहितः ग्रहणं प्रापितः) by declaring him especially wicked (पापोऽयमिति अतिदुष्ट इत्यर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1321,6 +1425,14 @@ Shardula among them was wicked and got him alone seized.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even he, as he was being beaten by the monkeys (_vadhyamānaḥ plavaṃgamaiḥ_), was released by Rāma (_mocitaḥ so &#x27;pi rāmeṇa_); and out of compassion (_ānṛśaṃsyena_) the other Rākṣasas too were released by Rāma (_mocitā rākṣasāḥ pare_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27–28.**
+
+Even as the monkeys beat Śārdūla (प्लवंगमैर्वध्यमानः), Rāma rescued him from their blows (मोचितः प्रहारादिति शेषः in _Bhūṣaṇa_) and out of pure clemency (आनृशंस्येन क्रूरत्वसंसर्गरहितेन) freed the other spies as well. On विक्रान्तैर्लघुविक्रमैः, Govindarāja notes that the first epithet denotes valor while the second specifies swiftness of stride (जवमात्रं विक्रमस्य विशेष्यते).
 </details>
 </details>
 
@@ -1441,6 +1553,14 @@ insensible, heaved a sigh and reached back Lanka.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then those mighty night-stalking spies, who ever roamed abroad (_bahirnityacarāḥ_), presented themselves before Daśagrīva (_daśagrīvam upasthitāḥ_) and reported Rāma&#x27;s host encamped near Mount Suvela (_gireḥ suvelasya samīpavāsinaṃ rāmabalaṃ nyavedayan_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.**
+
+_Tilaka_ and Govindarāja gloss बहिर्नित्यचराः as foreign intelligence agents ever roaming outside their own land to gather enemy secrets (स्वदेशाद्बहिः परवृत्तान्तपरिज्ञानाय नित्यचरितव्रताः). On समीपवासिनं रामबलम्, Govindarāja notes the masculine ending as an _ārṣa_ gender shift (लिङ्गं चार्षम्), whereas _Śiromaṇi_ construes समीपवासिरामं बलम् as a _bahuvrīhi_ (`the army whose leader Rāma dwells near Suvela').
 </details>
 </details>
 

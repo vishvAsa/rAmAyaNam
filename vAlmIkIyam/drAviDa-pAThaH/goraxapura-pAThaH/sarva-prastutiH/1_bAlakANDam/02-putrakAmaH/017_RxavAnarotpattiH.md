@@ -82,6 +82,14 @@ When Vishnu attained the sonship of the great-souled king Dasharatha, then Brahm
 
 Now when Lord Viṣṇu had entered upon filial status (_putratvaṃ tu gate viṣṇau_) as the son of that great-souled monarch Daśaratha, the self-existent Lord Brahmā (_svayambhūr bhagavān_) spoke these words to all the gods:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.1 (putratvaṃ tu gate viṣṇau — Narrative Sequence)**
+
+**Govindarāja (_Bhūṣaṇa_)** explains the narrative transition from Sarga 16: after Viṣṇu vanished from the celestial assembly (1.16.10), two events ensued—the rise of the fiery Prājāpatya Puruṣa with the _pāyasa_ in Ayodhyā and Brahmā’s command to the gods in heaven. Having completed the _pāyasa_ episode first for narrative continuity, Vālmīki now turns to Brahmā’s decree. Both **Tilaka** and **Govindarāja** gloss the past participle _gate_ in an inceptive sense: “when Viṣṇu had set out to assume filial status.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -140,6 +148,20 @@ Now when Lord Viṣṇu had entered upon filial status (_putratvaṃ tu gate vi�
 **3:** Conversant with magic and illusion (_māyāvidaḥ_), valiant, matching the speed of the wind in swiftness (_vāyuvegasamān jave_), skilled in policy (_nayajñān_), endowed with high intelligence, and equal to Viṣṇu Himself in valor (_viṣṇutulyaparākramān_);
 
 **4:** Invincible (_asaṃhāryān_), knowing all strategic expedients (_upāyajñān_), endowed with celestial frames (_divyasaṃhananānvitān_), accomplished in the virtues and powers of all weapons (_sarvāstraguṇasampannān_), and like unto the immortals who partake of nectar (_amṛtaprāśanān iva_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.2 (satyasandhasya & kāmarūpiṇaḥ)**
+
+Why does Brahmā call Viṣṇu _satyasandhaḥ_ (“true to His promise”) here? **Rāma Varmā (_Tilaka_)** notes that it preempts any doubt among the gods as to whether the Supreme Lord would actually descend to earth: having pledged His word, He will unfailingly incarnate (_nanu kadācid bhagavān pratijñāyāpi nāvatared ata uktam_). **Govindarāja** explains _kāmarūpiṇaḥ_ (“assuming any form at will”) as essential for combating deceitful _rākṣasas_ who fight with illusion (_kapaṭa-rākṣasa-yuddha-kṣama-dharmadhāriṇaḥ_).
+
+_____________
+
+**17.3–4 (māyāvidaḥ & sarvāstraguṇasampannān)**
+
+**Tilaka** glosses _māyāvidaḥ_ as “possessing divine counter-powers capable of dispelling demoniac illusions” (_asurādi-māyā-saṃhāra-samartha-devamāyā-śaktimataḥ_), and offers two explanations of _sarvāstraguṇasampannān_: either endowed with the power to neutralize all enemy missiles (_sarvāstra-nivāraṇa-sāmarthya_), or conversant with the projection and withdrawal (_prayogopasaṃhārādayaḥ_) of all divine weapons.
 </details>
 </details>
 
@@ -228,6 +250,14 @@ Gandharva-s (Southey's Glendoveers) are celestial musicians inhabiting Indra's
 **5:** Among the foremost _apsarases_ and in the forms of _gandharva_ women, among the daughters of _yakṣas_ and _pannagas_ (serpents), and among female bears (_ṛkṣīs_) and _vidyādharīs_—
 
 **6:** And in the limbs of _kinnarīs_ and in the bodies of female monkeys (_vānarīṇāṃ tanūṣu ca_), procreate sons in monkey form (_harirūpeṇa_) equal to yourselves in valor (_tulyaparākramān_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.6–7 (Why Apsarases & Harirūpeṇa? — Nandi’s Curse & Jāmbavān)**
+
+$18
 </details>
 </details>
 
@@ -447,6 +477,14 @@ Indra procreated the lord of vanara-s, namely Vali, who by his physique is like
 
 Indra begot as his son Vālin, the lord of _vānaras_, who resembled Mahendra himself (or Mount Mahendra) in splendor; and Tapana (the Sun), supreme among all luminous bodies (_tapatāṃ varaḥ_), begot Sugrīva.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.10 (Why Was Vālin Created as an Ally of Rāma?)**
+
+Since Vālin is later slain by Rāma without fighting in the Laṅkā war, all three commentators address the famous objection: how can Vālin be included among those sired to assist Viṣṇu? **Tilaka**, **Govindarāja**, and **Śiromaṇi** offer three answers: (1) Vālin assisted Rāma through his son Aṅgada (_aṅgadotpādana-dvārā_) and by slaying the demon Dundubhi beforehand; (2) had Vālin not existed and driven Sugrīva into exile, Sugrīva would never have sought Rāma’s alliance, nor would the monkey hosts have been marshaled under Rāma’s banner (_sugrīva-sakhya-nimittatvāt_); and (3) as **Govindarāja** remarks, had Rāma allied with Vālin instead, Rāvaṇa—terrified of Vālin, who had once bound him under his arm—would have surrendered Sītā instantly without a war (_vālimaitryāṃ tu rāvaṇaḥ kṣaṇād eva sītāṃ dadyāt_), leaving the _rākṣasa_ hosts unslain!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -504,6 +542,14 @@ Tara here is a vanara hero but not Lady Tara, the wife of Vali. Here we have the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bṛhaspati, for his part, begot the great monkey named Tāra, the most intelligent and peerless among all the foremost _vānara_ chiefs (_sarvavānaramukhyānāṃ buddhimantam anuttamam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.11 (bṛhaspatis tv ajanayat tāram)**
+
+**Govindarāja** notes that Tāra is supreme in intelligence (_buddhimantam anuttamam_) precisely because he is the son of Bṛhaspati, the preceptor of the gods (_bṛhaspati-putratvāt_).
 </details>
 </details>
 
@@ -568,6 +614,14 @@ The brilliant Gandhamaadana is the son of Kubera, while the divine architect Vis
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The glorious monkey Gandhamādana was the son of Dhanada (Kubera); and Viśvakarmā, the divine architect, begot the great monkey named Nala.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.12–14 (Gandhamādana, Nala, Nīla, Mainda & Dvivida)**
+
+**Govindarāja** highlights the appropriateness of each epithet to the deity who sired the hero: Gandhamādana is called _śrīmān_ (“endowed with fortune”) because he is the son of Kubera, the lord of wealth (_kuberaputratvāt_); Nala, son of the divine architect Viśvakarmā, is skilled in constructing all works such as the ocean causeway (_sarvakārya-nirmāṇa-dakṣam_); and the Aśvins are _rūpadraviṇasampannau_ (“whose very wealth is their beauty,” **Govindarāja**, or “rich in both beauty and wealth,” **Tilaka**). Both **Govindarāja** and **Śiromaṇi** note that _svayam_ in v. 14d signifies mental creation (_mānasasṛṣṭiḥ_) without a maternal medium.
 </details>
 </details>
 
@@ -722,6 +776,14 @@ The Rain-god procreated the vanara named Sushena, and Thunder-god gave rise
 
 Varuṇa begot the monkey named Suṣeṇa; and Parjanya of mighty strength begot Śarabha.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.15 (Suṣeṇa & Śarabha — Resolving the Yuddhakāṇḍa Variance)**
+
+Here Suṣeṇa is the son of Varuṇa, whereas in _Yuddhakāṇḍa_ (6.30.25) the spy Śārdūla tells Rāvaṇa that Suṣeṇa is the son of Dharma and that Śarabha and Gandhamādana are sons of Vaivasvata (Yama). **Tilaka** (on v. 15) and **Śiromaṇi** (on v. 37) offer two solutions: either there were two Suṣeṇas, or Varuṇa himself is called Dharma as the upholder of cosmic law (or Śārdūla spoke under the confusion of fear in Rāvaṇa’s court); **Govindarāja** (on v. 37) rules that Vālmīki’s own direct statement here in Sarga 17—uttered under Brahmā’s boon of infallibility (_na te vāg anṛtā kāvye_)—is the authoritative truth, whereas the demon spy Śārdūla reported mere hearsay under the influence of error!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -797,6 +859,14 @@ Garuda: The bird and vehicle of Vishnu. He is generally represented as a being
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The glorious monkey named Hanumān was the legitimate son of Māruta (the Wind-god) (_mārutasyaurasaḥ_), endowed with a body hard as Indra’s thunderbolt (_vajrasaṃhananopetaḥ_) and equal to Garuḍa (Vainateya) in speed (_vainateyasamo jave_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.16–17 (Hanumān & Why Rudra Is Not Named)**
+
+On v. 16, all three commentators celebrate Hanumān’s diamond-hard frame (_vajravad abhedya-śarīrayuktaḥ_), Garuḍa-like speed, and supreme wisdom and strength (17ab). Why is Rudra not mentioned here among the gods who sired Vānaras? **Govindarāja** remarks on v. 17: _rudro brahmaṇā niyukto ’pi rakṣaḥ-pakṣapātitvān na kaṃcana sṛṣṭavān_—“Although Rudra too was commanded by Brahmā, out of his partiality toward the _rākṣasa_ Rāvaṇa, he did not create anyone!”
 </details>
 </details>
 
@@ -894,6 +964,14 @@ Thus the gods have procreated many thousands of such valorous and guise changing
 
 Heroes of immeasurable strength, valiant and able to assume any form at will (_kāmarūpiṇaḥ_), resembling elephants and mountains in bulk (_gajācalasaṃkāśāḥ_), endowed with stalwart frames and immense might—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.18–19 (ṛkṣavānaragopucchāḥ & kṣipram evābhijajñire)**
+
+All three commentators distinguish the three forest-dwelling tribes named in v. 19a: _ṛkṣāḥ_ are bears (_bhallukāḥ_), _vānarāḥ_ are monkeys proper, and _gopucchāḥ_ are black-faced langurs with cow-like tails (_golāṅgūlāḥ_, _gopuccha-sadṛśa-puccha-viśiṣṭa-vānarajāti-viśeṣaḥ_). **Govindarāja** notes that _kṣipram eva_ (“instantaneously”) indicates mental or non-gestational creation, while **Tilaka** explains it as birth immediately upon the gods’ entry into those forms without waiting for the usual gestation period (_tat-tad-yonyo devānāṃ gaty-avyavahitottarakālam eva_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -975,6 +1053,14 @@ Those that are procreated have attained the shape, getup and valour of the god
 
 **20:** Endowed with that very same form and valor (_samaṃ tena_) was the son born to each deity separately (_tasya tasya pṛthak pṛthak_). Some of exalted valor (_kiṃcid unnatavikramāḥ_) were born among female langurs (_golāṅgūlīṣu_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.19cd–20 (ajāyata samaṃ tena & kiṃcid unnatavikramāḥ)**
+
+**Govindarāja** remarks on vv. 19cd–20ab that although all the offspring shared the outward generic form of monkeys, bears, or langurs (_aṅgamātre vānarākāratve ’pi_), in beauty (_rūpam_), bodily configuration (_veṣaḥ = saṃsthānaviśeṣaḥ_), and valor (_parākramaḥ_), each son distinctly mirrored his own divine father! On _kiṃcid unnatavikramāḥ_ (v. 20d), **Tilaka** gives the striking gloss: “possessing valor even slightly surpassing that of their own celestial fathers in their divine state” (_devāvasthāto ’pi kiṃcid adhikaparākramāḥ_), whereas **Govindarāja** notes that v. 20cd–21ab teaches cross-species birth (_vijātīyāsv api vānarotpattiḥ_)—true _vānaras_ being born even from _golāṅgūlīs_, _ṛkṣīs_, and _kinnarīs_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1031,6 +1117,14 @@ Some of the vanara-s endowed with superior valour are born to female langoors,
 **21:** And others likewise were born as _vānaras_ among female bears (_ṛkṣīṣu_) and _kinnarīs_. The gods, great sages, _gandharvas_, glorious _tārkṣyas_ (Garuḍas), and _yakṣas_—
 
 **22:** As well as numerous _nāgas_, _kimpuruṣas_, _siddhas_, _vidyādharas_, and _uragas_—rejoicing, begot sons there by the thousands (_sahasraśaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.21–23 (Resolving the Double vanacāriṇaḥ)**
+
+In v. 23, the word _vanacāriṇaḥ_ appears at the end of both pāda b and pāda d. **Tilaka** resolves the apparent repetition (_punarukti_): the first _vanacāriṇaḥ_ means “dwellers in the forest” (_vanavāsinaḥ_), while the second means “partakers of forest fruits” (_vanastha-phala-bhakṣakān_).
 </details>
 </details>
 
@@ -1184,6 +1278,14 @@ They are endowed with guise changing faculties, with bodily might and by their
 
 Resembling lions and tigers in pride and in strength, all of them fought with crags and boulders as their missiles (_śilāpraharaṇāḥ sarve_), and all battled with uprooted trees (_sarve pādapayodhinaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.25–26ab (How Are Tree- and Boulder-Fighters Sarvāstrakovidāḥ?)**
+
+Verse 25 declares that all the Vānaras fight with boulders (_śilāpraharaṇāḥ_), trees (_pādapayodhinaḥ_), claws, and fangs (_nakhadaṃṣṭrāyudhāḥ_, 26a), yet pāda 26b calls them all “skilled in all divine weapons” (_sarvāstrakovidāḥ_). How are these two statements reconciled? Both **Tilaka** and **Govindarāja** give a brilliant explanation: because they themselves fight only with boulders and trees, they do not project _astras_ (_na tv astraprayoktāraḥ_), yet because they are born as portions of the gods (_devāṃśatvena_), they possess the innate knowledge of how to counter and evade every divine missile hurled at them (_svayaṃ-pratibhāta-sarvāstra-prahāra-parihāropāyāḥ_)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1249,6 +1351,14 @@ Rama and Lakshmana will use arrows and missiles as their weaponry in the ensuing
 
 All of them had their claws and fangs as weapons (_nakhadaṃṣṭrāyudhāḥ sarve_), and all were skilled in the lore of every weapon (_sarve sarvāstrakovidāḥ_). They could shake the foremost of mountains (_vicālayeyuḥ śailendrān_) and shatter firm-rooted trees;
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.26cd (vicālayeyuḥ — Pāṇinian Optative of Capability & Mit-Shortening)**
+
+All three commentators note that the series of optative verbs beginning with _vicālayeyuḥ_ is governed by _Pāṇini_ 3.3.172 (_śaki liṅ ca_), expressing capability (_śakyārthe liṅ_, “they had the power to shake”). Why does _vicālayeyuḥ_ have a long root vowel (_cāl-_) when the root _cal-_ (“to shake”) is listed among the _mit_ roots requiring vowel shortening (_calī kampane_, _mitāṃ hrasvaḥ_ 6.4.92)? **Govindarāja** explains the non-shortening as an archaic epic license (_hrasvābhāvaś chāndasaḥ_), while **Śiromaṇi** invokes the grammatical maxim that _mit_-shortening is optional (_sarveṣāṃ mitāṃ vaikalpikatvāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1294,6 +1404,14 @@ They can rock greatest mountains, rip firm rooted trees, and with their speed
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By their impetuous speed they could churn up the ocean, lord of rivers (_kṣobhayeyuś ca vegena samudram_); they could rend the earth with their feet (_dārayeyuḥ kṣitiṃ padbhyām_) and leap across the mighty seas (_āplaveyur mahārṇavān_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.27–28 (āplaveyur mahārṇavān & gṛhṇīyur api toyadān)**
+
+**Tilaka** and **Govindarāja** gloss _āplaveyuḥ_ as “they could leap across the great oceans” (_saṃtareyuḥ_)—foreshadowing the great deliberation at the southern shore in _Kiṣkindhākāṇḍa_—and gloss _pravrajataḥ_ (v. 28d) as “roaming at will with impetuous speed” (_svacchandagatīn_, _vegena gacchataḥ_).
 </details>
 </details>
 
@@ -1432,6 +1550,20 @@ Thus the gods and others have procreated millions of such noble souled Vaanaras
 **29:** And by their thunderous roar alone (_nādena_), they could bring screaming birds plummeting down from the sky (_nardamānāṃś ca pātayeyur vihaṅgamān_). Of such shape-shifting monkeys who were thus brought forth—
 
 **30:** There came into being a hundred hundred-thousands—ten million (_śataṃ śatasahasrāṇi_)—of great-souled troop-leaders (_yūthapānāṃ mahātmanām_). And those monkey troop-leaders, heading the principal troops of monkeys—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.29–30 (śataṃ śatasahasrāṇi — Ten Million Yūthapas)**
+
+On v. 29ab, **Tilaka** construes the instrumental _nādena_ directly with _pātayeyuḥ_: “by their roar they could fell screaming birds on the wing.” Why does v. 30 enumerate only the troop-leaders (_yūthapānām_)? Both **Govindarāja** and **Śiromaṇi** note that because the rank-and-file Vānara hosts were literally innumerable (_anyeṣām aparicchedyatvāt_), the poet states the count of their commanders alone: _śataṃ śatasahasrāṇi_—a hundred _lakṣas_, or one _koṭi_ (ten million)!
+
+_____________
+
+**17.30cd–31 (yūthapaśreṣṭhān & ṛkṣavataḥ prasthān)**
+
+All three commentators explain that the principal divine sons catalogued earlier (Sugrīva through Suṣeṇa) became the supreme commanders of the chief divisions (_pradhāneṣu yūtheṣu_), and in turn sired further heroic troop-leaders (_vīrāṃś cājanayan harīn_). On v. 31cd, **Tilaka**, **Govindarāja**, and **Śiromaṇi** identify _Ṛkṣavat_ as the great mountain range (the eastern Vindhya/Ṛkṣavat chain) upon whose tablelands and peaks (_prasthān = sānūni / śikharāṇi_) thousands of them dwelt.
 </details>
 </details>
 
@@ -1596,6 +1728,20 @@ All of those who are well-versed in warfare and endowed with the might of divine
 **33:** Did all those monkey troop-leaders attend in service (_bhrātarāv upatasthus te_), as well as upon Nala, Nīla, Hanumān, and the other monkey troop-commanders.
 
 **34:** Endowed with the strength of Tārkṣya (Garuḍa) and all skilled in warfare (_sarve yuddhaviśāradāḥ_), as they roamed through the forests they harassed and subdued all the lions, tigers, and great serpents (_siṃha-vyāghra-mahoragān_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.32cd–33 (King, Crown Prince, and Ministers)**
+
+How did all the troop-leaders attend upon Vālin and Sugrīva as well as upon Nala, Nīla, and Hanumān? **Govindarāja** explains the political hierarchy of the Vānara realm concealed in this one-and-a-half-verse sentence: they served Vālin as King (_rājānam_), Sugrīva as Crown Prince (_yuvarājam_), and Nala, Nīla, and Hanumān as the high Ministers of State (_nalādīn mantriṇaḥ_), approaching the royal brothers either directly or through their ministers (_kecit sākṣāt kecin nalādidvārā_, **Tilaka**).
+
+_____________
+
+**17.34–36 (ardayan, Vālin’s Rule, & nānāvyañjanalakṣaṇaiḥ)**
+
+On v. 34, **Tilaka** notes the epic omission of the past augment (_aḍ-abhāva ārṣaḥ_) in _ardayan_ for _ārdayan_ (“they harassed”). Why did Vālin rule and protect all the bears, langurs, and monkeys (v. 35)? **Tilaka** observes: _devarājāvatāratvād iti bhāvaḥ_—because Vālin was the incarnation of Indra, the king of the gods! On v. 36, **Tilaka** and **Govindarāja** distinguish _vividhasaṃsthānaiḥ_ (diverse bodily statures and builds) from _nānāvyañjanalakṣaṇaiḥ_ (distinctive marks and traits that differentiated each warrior from the others).
 </details>
 </details>
 
@@ -1786,6 +1932,20 @@ The earth is thus suffused with those mighty army generals of Vanara race whose
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By those mighty lords of the monkey troop-leaders—resembling masses of storm-clouds and mountain peaks (_meghavṛndācalakūṭasannibhaiḥ_), and awesome in their bodily forms—the earth became completely covered for the purpose of assisting Rāma (_rāmasahāyahetoḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.37 (The Chronological Problem of Vālin, Sugrīva, and Mainda-Dvivida)**
+
+At the close of Sarga 17, **Govindarāja** raises a celebrated chronological question: how can Vālin, Sugrīva, Mainda, Dvivida, and Krodhana be described as born after Viṣṇu’s entry into the queens’ wombs, when _Uttarakāṇḍa_ shows that Vālin defeated Rāvaṇa during the era of Kārtavīrya Arjuna (long before Rāma’s birth), Mainda and Dvivida drank _amṛta_ at the churning of the ocean, and Krodhana fought in the ancient _Devāsura_ war? Calling Vālin a contemporary in age with Rāma (_kārtavīryārjunakāliko vālī kathaṃ rāmasamavayaskaḥ syāt_) seems to contradict the rest of the epic!
+
+_____________
+
+**17.37 (The Preceptor’s Resolution — Atrāsmad-gurucaraṇāḥ)**
+
+**Govindarāja** cites his revered teacher’s resolution (_atrāsmad-gurucaraṇāḥ_): while Brahmā issued his general decree at the time of Rāma’s incarnation—and thousands of gods who had not previously sired sons then begot Vānaras “at that time” (_tatra_ = _tatkāle_ in v. 22d)—verses 10–16 (like v. 7 on Jāmbavān) restate the pre-existing creations of Indra, Sūrya, the Aśvins, and Vāyu, which is why v. 10 says simply _janayām āsa_ without _tadā_! Alternatively (_yadvā_), Sargas 15–17 recount the ancient celestial council that preceded the Avatar as an introductory flashback.
 </details>
 </details>
 

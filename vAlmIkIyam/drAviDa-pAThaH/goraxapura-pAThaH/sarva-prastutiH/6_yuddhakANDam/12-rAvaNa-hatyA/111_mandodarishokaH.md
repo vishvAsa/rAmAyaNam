@@ -4452,6 +4452,116 @@ around him with their faces filled in tears. Lifting up that palanquin, which ha
 with colorful flags and flowers and taking up blocks of wood, all the demons for their part, with
 Vibhishana in front, proceeded with their face turned towards the south.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.111.1–2 (Mātali's Reminder and the Appointed Hour)**
+
+Opening the climactic canto of Rāvaṇa's slaying (अथ रावणवधः), **Govindarāja** (_Bhūṣaṇa_) explains अजानन्निव as acting as though unaware of the Brahmā-missile (ब्रह्मास्त्रमजानन्निव), and एनमनुवर्तसे as merely countering Rāvaṇa's weapons (अस्त्रस्य प्रत्यस्त्रप्रयोगमात्रं करोषि) instead of striking him down, now that the foretold hour (विनाशकालः) has arrived.
+
+_____________
+
+**6.111.3–5 (Lineage of the Brahmā-Shaft)**
+
+Both **Govindarāja** and **Śivasahāya** (_Śiromaṇi_) note that the eleven verses from 6.111.3 to 6.111.13 form a single periodic sentence (एकादशश्लोकानामन्वयः) qualifying the shaft Rāma grasped (जग्राह). **Rāma Varmā** (_Tilaka_) traces its transmission: fashioned by Brahmā for Indra, it was given through Agastya to Rāma in Daṇḍakāraṇya.
+
+_____________
+
+**6.111.6 (Cosmic Deities Presiding Over the Shaft)**
+
+On the anatomy of the missile, **Rāma Varmā** and **Govindarāja** explain that the wind-god presides over its feathers (वाजेषु = वेगसाधनपक्षेषु) to grant swiftness, fire and sun over its tip (फले = शल्ये) to make it unbearable, ether over its shaft, and Meru and Mandara over its crushing weight.
+
+_____________
+
+**6.111.7–9 (Essence of the Elements and Cleaver of Gates)**
+
+Continuing the eleven-verse description of the Brahmā-shaft, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain तेजसा सर्वभूतानाम् as forged from the concentrated essence of earth and all elements (पृथिव्यादीनां सारांशेन). Both gloss द्वाराणाम् (6.111.9) as the fortified gateways of enemy citadels (रिपुगोपुराणाम्).
+
+_____________
+
+**6.111.9–10 (Why Two Serpent Similes Appear)**
+
+Why does the poet compare the arrow to a serpent in 6.111.3 (निःश्वसन्तमिवोरगम्), 6.111.8 (दीप्तमाशीविषोपमम्), and 6.111.10 (श्वसन्तमिव पन्नगम्)? **Govindarāja** points out that the distinct attributes of blazing (दीप्तम्) and hissing (श्वसन्तम्) differentiate the similes (भेदादुपमानभेदः), while glossing नानासमितिदारणम् as shattering even multitudinous armies (संकुलयुद्धस्यापि निवर्तकम्).
+
+_____________
+
+**6.111.11–12 (Feast for Carrion-Eaters and Garuḍa's Plumes)**
+
+Reading कङ्कगृध्रबलानाम् in 6.111.11, **Govindarāja** glosses बलाः as a species of crow (काकविशेषाः) and रक्षसाम् as carrion-feeding spirits accompanying Piśācas (पिशाचसहचारिणाम्). In 6.111.12, all three commentators explain वाजितम् as winged with the variegated feathers (वाजैः = पक्षैः) of Garuḍa.
+
+_____________
+
+**6.111.13–14 (Vedic Consecration of the Brahmā-Missile)**
+
+On इक्ष्वाकुभयनाशनम् (6.111.13), **Rāma Varmā** (_Tilaka_) explains `Ikṣvākus' as Rāma together with his allies (इक्ष्वाकूणां रामस्तत्सखानां भयनाशनम्). In 6.111.14, he glosses अभिमन्त्र्य as consecrating the shaft with the formula of the Brahmā-missile (ब्रह्मास्त्रविद्यया), and वेदप्रोक्तेन विधिना as following the procedural canons of the _Dhanurveda_ (वेदो धनुर्वेदः).
+
+_____________
+
+**6.111.15–16 (The Trembling Cosmos and Supreme Effort)**
+
+As Rāma fits the arrow to his bowstring, **Śivasahāya** (_Śiromaṇi_) observes that the trembling of all creatures and the quaking of the earth reveal the terrifying cosmic potency of the shaft (तद्बाणस्यातीव भयंकररूपत्वं सूचितम्). In 6.111.16, **Rāma Varmā** glosses परमायत्तः as exerting supreme effort (परमयत्नवान्).
+
+_____________
+
+**6.111.17–18 (Thunderbolt and Death Upon Rāvaṇa's Chest)**
+
+On वज्रिबाहुविसर्जितः (6.111.17), **Rāma Varmā**, **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** note that it construes primarily with the simile वज्र इव (`irresistible like the thunderbolt cast by Indra's arm'), or secondarily as cast by Rāma's Indra-like arm (वज्रितुल्यबलरामबाहुविनिःसृतः), cleaving Rāvaṇa's heart.
+
+_____________
+
+**6.111.19–20 (The Humble Return of the Shaft)**
+
+After piercing Rāvaṇa's heart and plunging into the earth to cleanse itself, the blood-brightened shaft (रुधिरार्द्रकृतच्छविः), having fulfilled its mission (साधितरामकार्यः in _Śiromaṇi_), re-entered Rāma's quiver निभृतवत्—which all three commentators gloss as `like a humble, well-disciplined servant' (विनीतवत्).
+
+_____________
+
+**6.111.21–22 (The Fall of Rāvaṇa Like Vṛtra)**
+
+Addressing the apparent redundancy in 6.111.21 between `along with his vital breaths' (सह प्राणैः) and `slipping away from life' (भ्रश्यमानस्य जीवितात्), **Govindarāja** (_Bhūṣaṇa_) explains जीवितात् as the active effort to sustain life (प्राणधारणयत्नात्). Lifeless (गतासुः), Rāvaṇa toppled from his chariot like Vṛtra felled by Indra's bolt.
+
+_____________
+
+**6.111.23–24 (The Rout of the Rākṣasas)**
+
+On the syntax of 6.111.23–24, **Śivasahāya** (_Śiromaṇi_) links 6.111.23 with 6.111.24a (सार्धश्लोक एकान्वयी), while **Govindarāja** takes 6.111.24a as a self-contained sentence and joins 6.111.24b (दशग्रीववधं दृष्ट्वा...) with 6.111.25 to describe the monkeys pursuing the fleeing rākṣasas (प्रद्रुतराक्षसान्).
+
+_____________
+
+**6.111.25–26 (Weeping Rākṣasas and Roaring Monkeys)**
+
+On 6.111.25, **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) note that मुखैः is an instrumental of characteristic mark (उपलक्षिताः): their protector slain (हताश्रयत्वात्), the surviving rākṣasas fled into Laṅkā with tear-streaming, sorrowful faces (शोकवद्भिः), while the monkeys roared in triumph.
+
+_____________
+
+**6.111.27–28 (Celestial Drums and Flower-Showers)**
+
+Contrast the cosmic portents of terror during the battle with the signs of grace upon Rāvaṇa's death: **Śivasahāya** notes that because the wind now bore divine scents (दिव्यगन्धवहः), it blew with supreme comfort (सुसुखः), while a rare celestial flower-shower (दुरवापा = अन्यैर्दुर्लभा) covered Rāma's chariot.
+
+_____________
+
+**6.111.29 (Acclamation in the Heavens)**
+
+Commenting on साधुसाध्विति वागग्र्या, all three commentators construe राघवस्तवसंयुक्ता directly with वाक्: across the firmament resounded the exalted voice of the high-souled gods, accompanied by hymns of praise to Rāghava (राघवस्तवेन संयुक्ता), proclaiming `Well done! Well done!'
+
+_____________
+
+**6.111.30–31 (Fulfilling the Allies' Desires)**
+
+Why does 6.111.31 state that Rāvaṇa's death fulfilled the desires (सकामं चकार) not only of Vibhīṣaṇa, who gained Laṅkā, but also of Sugrīva and Aṅgada? **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that by repaying Rāma's help, their own sovereignty in Kiṣkindhā became permanently secure (राज्यं शाश्वतं प्रतिष्ठितं भवति).
+
+_____________
+
+**6.111.32 (How to Construe the Negation `Na')**
+
+In मही चकम्पे न च मारुतो ववौ, **Govindarāja** and **Śivasahāya** (_Śiromaṇi_) construe न with चकम्पे (`the earth ceased trembling', since earthquakes are inauspicious, महीकम्पामात्रस्य अशुभसूचकत्वात्) and supply सुखम् with मारुतो ववौ (`the wind blew pleasantly'). **Rāma Varmā** notes that on the fifth lunar day Rāvaṇa fell with one watch of daylight remaining.
+
+_____________
+
+**6.111.33–34 (Rāma Like Mahendra)**
+
+In the concluding ornate meters, **Rāma Varmā** glosses रणेऽभिरामम् (6.111.33) as one whose valor in battle is adored by the whole world (सर्वजगत्पूजनीयपराक्रमम्), and in 6.111.34 notes the implicit simile (_luptopamā_): Rāma surrounded by his allied host shone like Mahendra surrounded by the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

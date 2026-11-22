@@ -1932,5 +1932,133 @@ the ways of her beloved husband.
 
 Even while that foremost of brahmins, the King’s preceptor of peerless spiritual power (_apratima-prabhāve_), was speaking thus, Sītā did not at all turn back in her resolve (_naiva sma sītā vinivṛtta-bhāvā_), desiring only to emulate her beloved husband’s state (_pratikāra-kāmā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.37.1–2 (mahāmātravacaḥ & Renunciation of Retinue)**
+
+All three commentators identify महामात्रः as the senior minister Siddhārtha (महामात्रः सिद्धार्थः, _Tilaka_, _Bhūṣaṇa_), while **Śivasahāya** (_Śiromaṇi_) alternatively analyses महामात्रवचः as the combined speech of both the great King and the minister (राजा च अमात्रश्च तयोर्वचः). On त्यक्तसङ्गस्य सर्वतः, **Govindarāja** (_Bhūṣaṇa_) notes that whereas ordinary men retain subtle attachment even after relinquishing outward enjoyments, Rāma has abandoned both enjoyment and inner clinging; **Rāma Varmā** (_Tilaka_) cites the Upaniṣadic dictum असङ्गो ह्ययमात्मा (“For this Self is unattached”).
+
+_____________
+
+**2.37.3–4 (kakṣyāyām & the Parable of the Girth-Rope)**
+
+Citing _Amarakośa_ (कक्ष्या प्रकोष्ठे हर्म्यादौ काञ्च्यां मध्येभबन्धने), **Govindarāja** (_Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_), and **Śivasahāya** (_Śiromaṇi_) gloss कक्ष्या as the rope binding an elephant's middle (गजमध्यबन्धनरज्जुः). Having surrendered the sovereign realm—the best of elephants—Rāma compares retaining an army (ध्वजिन्या) to clinging to its girth-cord, and cedes all royal forces to Bharata (भरताय ददामि).
+
+_____________
+
+**2.37.5–6 (khanitrapiṭake & Shameless Kaikeyī)**
+
+On खनित्रपिटके, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) explain खनित्रम् as a digging spade for forest roots (अवदारणं कन्दादिखननयोग्यकुद्दालविशेषः) and पिटकम् as a wicker basket (कण्डोलः) for gathered fruits. On निरपत्रपा, **Rāma Varmā** (_Tilaka_) notes that Kaikeyī's shameless haste stems from the brahmin's curse recorded in the _Adhyātma Rāmāyaṇa_.
+
+_____________
+
+**2.37.7–8 (avasta & Dual vs. Plural Garments)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) derive अवस्त from the root वस आच्छादने (“he wore”), explaining the dual चीरे as referring to the lower and upper garments (अन्तरीयोत्तरीयरूपे). **Śivasahāya** (_Śiromaṇi_) reconciles the dual चीरे, singular सूक्ष्मवस्त्रम्, and plural मुनिवस्त्राणि by noting that the singular denotes the class (जात्यभिप्रायेण), the dual marks the lower and upper pieces, and the plural reflects their separate sections.
+
+_____________
+
+**2.37.9–11 (pṛṣatī vāgurām iva & Sītā's Three-Verse Syntax)**
+
+Citing _Amarakośa_ (वागुरा मृगबन्धनी), **Govindarāja** (_Bhūṣaṇa_) glosses पृषती as a female deer (मृगी) terrified at the sight of a hunting net. **Śivasahāya** (_Śiromaṇi_) observes that Verses 9–11 form a single syntactic unit (श्लोकत्रयमेकान्वयि), while **Govindarāja** explains धर्मज्ञा धर्मदर्शिनी as knowing the law of wifely fidelity (पातिव्रत्यधर्मज्ञा) and demonstrating it through her own conduct.
+
+_____________
+
+**2.37.12 (akuśalā & Sītā's Bewilderment in Binding the Bark)**
+
+On अकुशला and मुमोह, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that through lack of familiarity with ascetic dress (अपरिचयाच्चीरबन्धनेऽनिपुणा), Sītā could not determine where or how to tie the bark cloth (बन्धनस्थलनिश्चयं न प्राप), while **Govindarāja** (_Bhūṣaṇa_) glosses मुमोह as standing petrified (स्तब्धा बभूव).
+
+_____________
+
+**2.37.13–14 (kṛtvā kaṇṭhe & Binding Bark Over Silk)**
+
+Explaining एकम्, **Śivasahāya** (_Śiromaṇi_) notes that Sītā placed one bark cloth over her shoulder (कण्ठप्रदेशे स्कन्धे) while holding the other in her hand (एकमित्युभयान्वयि). Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** point out that Rāma tied the bark directly over her silk (कौशेयस्योपरि) because she had made no vow to discard her auspicious royal attire (तस्याः कौशेयत्यागप्रसक्त्यभावात्, _Tilaka_; कौशेयत्यागस्यौचित्याभावः सूचितः, _Śiromaṇi_).
+
+_____________
+
+**2.37.15–16 (paramāyattāḥ & the Palace Women's Plea)**
+
+On परमायत्ताः, **Rāma Varmā** (_Tilaka_) cites the lexicon यत्तः खेदोपस्करयोः to gloss it as “deeply anguished” (परमखिन्नाः), whereas **Govindarāja** (_Bhūṣaṇa_) reads परमायस्ताः. All three commentators explain नैवं नियुक्तेयम् as stating that Sītā—unlike Rāma—was never commanded by her father-in-law to enter forest exile (त्वमिव इयं सीता वनवासे न नियुक्ता पित्रेति यावत्, _Bhūṣaṇa_).
+
+_____________
+
+**2.37.17–18 (darśanam asyā naḥ & Comfort in Rāma's Absence)**
+
+On Verse 17, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read अस्याः दर्शनम्, explaining that gazing upon Sītā until Rāma's return will sustain the citizens' lives (तेन च नो जीवनं सफलं भवतु, _Tilaka_). **Govindarāja** (_Bhūṣaṇa_) records the locative variant अस्याम्, construing तव दर्शनम् अस्यां सफलं भवतु (“may our beholding of you find its fruit in beholding her as if she were yourself”).
+
+_____________
+
+**2.37.19–21 (tulyaśīlayā & Vasiṣṭha's Intervention)**
+
+On सीतया तुल्यशीलया, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) construe the instrumental as “urged by Sītā, whose resolve matched Rāma's refusal to remain in the city” (अनङ्गीकृतनगरस्थित्या सीतया प्रेरितः, _Tilaka_), while **Govindarāja** (_Bhūṣaṇa_) takes सीतया in the sense of accompaniment (सहार्थे तृतीया) and notes that Rāma acted without waiting for Kaikeyī's leave. On सबाष्पः, _Tilaka_ commends the variant समीक्ष्य adopted by _Bhūṣaṇa_ and _Śiromaṇi_.
+
+_____________
+
+**2.37.22 (atipravṛtte & Transgressing the Measure of the Boon)**
+
+Citing _Amarakośa_ (प्रमाणं तु मर्यादाशास्त्रहेतुषु), **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain न प्रमाणेऽवतिष्ठसि as overstepping the strict boundary of the granted boons (मर्यादातिक्रमेण प्रवृत्ते यावद्वरं तावत्प्रमाणे नावतिष्ठसि), since Sītā's exile was never part of Kaikeyī's stipulation; _Tilaka_ rejects the corrupt reading सप्रमाणेव.
+
+_____________
+
+**2.37.23–24 (ātmā hi dārāḥ & Sītā's Regency by Vedic Authority)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) ground Vasiṣṭha's declaration आत्मा हि दाराः in the Vedic Brāhmaṇa text अर्धो वा एष आत्मनो यत्पत्नी (“A wife is indeed half of one's own self”), concluding that among householders (दारसंग्रहवर्तिनाम्) Sītā is Rāma's own self and is therefore entitled to occupy his consecrated throne (प्रकृतमासनम् अधिष्ठास्यति).
+
+_____________
+
+**2.37.25–26 (antapālāḥ & the Exodus of Realm and City)**
+
+On वयम् in Verse 25, **Rāma Varmā** (_Tilaka_) glosses “we brahmins, headed by myself” (मदाद्या ब्राह्मणाः). All three commentators explain अन्तपालाः as the frontier commanders and wardens of the realm (राष्ट्रान्तरक्षकाः दण्डनायकाः, _Tilaka_, _Bhūṣaṇa_), while **Govindarāja** (_Bhūṣaṇa_) glosses सहोपजीव्यम् as “along with animate and inanimate wealth” (जीवाजीवरूपधनसहितम्) and सपरिच्छदम् as “with servants, maids, and carts” (दासदासीशकटादिपरिकरयुक्तम्).
+
+_____________
+
+**2.37.27 (anuvatsyati pūrvajam & Bharata's Fraternal Fidelity)**
+
+Commenting on भरतश्च सशत्रुघ्नः, **Rāma Varmā** (_Tilaka_) notes that Bharata will share the very same forest state as his elder brother (तत्सदृशावस्थयैव स्थास्यति) because such noble fidelity is natural to one born of Daśaratha (दशरथजातस्य तत्स्वभावताया एवोद्भवत्वमिति भावः). **Śivasahāya** (_Śiromaṇi_) adds that भरतश्च by implication includes Kausalyā and the other queens, dashing Kaikeyī's hope of Bharata's rule.
+
+_____________
+
+**2.37.28–29 (pādapaiḥ saha & the Forest Turned Kingdom)**
+
+On पादपैः सह त्वमेका शाधि, **Rāma Varmā** (_Tilaka_) observes that leaving Kaikeyī to rule over trees alone intimates that Ayodhyā itself will be reduced to a wilderness (अनेनाटवीभूतामिति द्योत्यते), while **Śivasahāya** (_Śiromaṇi_) glosses शाधि as “chastise and govern” (शिक्षय) and points to Verse 29's inversion: wherever Rāma dwells, that forest becomes the true realm.
+
+_____________
+
+**2.37.30 (adattām & yadi jāto mahīpateḥ)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss अदत्ताम् as “not given with loving consent” (प्रीतिपूर्वमदत्ताम्), since Daśaratha yielded only under the compulsion of Kaikeyī's bond. On यदि जातो महीपतेः, _Tilaka_ cites the maxim पितॄन् समनुजायन्ते नराः (“men take after their fathers”), explaining that यदि either expresses unshakable certainty—like वेदाश्चेत्प्रमाणम्—or casts a biting reproach upon Kaikeyī (कैकेय्या धिक्कारान्तरमिदम्).
+
+_____________
+
+**2.37.31–32 (pitṛvaṃśacaritrajñaḥ & Harm Done to Bharata)**
+
+On पितृवंशचरित्रज्ञः, **Rāma Varmā** (_Tilaka_) explains that the ancestral custom of the Ikṣvākus forbids a younger brother from ruling while the elder lives (ज्येष्ठे विद्यमाने कनिष्ठस्य राज्याधिकारो नेति तज्ज्ञः). On पुत्रगर्धिन्या, **Govindarāja** (_Bhūṣaṇa_) glosses “filled with fondness for your son” (पुत्रविषयस्नेहयुक्तया), while _Tilaka_ renders it “greedy for royal sovereignty for your son” (पुत्रराज्याभिलाषवत्या).
+
+_____________
+
+**2.37.33 (pādapāṃś ca tadunmukhān & Sentient Trees of Ayodhyā)**
+
+Commenting on पादपांश्च तदुन्मुखान्, **Rāma Varmā** (_Tilaka_) remarks that if even trees turn toward Rāma, how much more will human citizens (किमुत वक्तव्यं मनुष्यानिति शेषः)! **Govindarāja** (_Bhūṣaṇa_) explains the trees' turning toward Rāma as their loving attachment (रामविषयस्नेहासक्तत्वम्), citing the later verse अपि वृक्षाः परिम्लानाः सपुष्पाङ्कुरकोरकाः (2.59.6).
+
+_____________
+
+**2.37.34 (pravidhīyateti & Vasiṣṭha's Prohibition of the Bark)**
+
+All three commentators flag the sandhi in प्रविधीयतेति (प्रविधीयते + इति) as an _ārṣa_ epic licence: **Rāma Varmā** (_Tilaka_) explains it through _ārṣa_ elision of initial इ (इकारलोप आर्षः), **Govindarāja** (_Bhūṣaṇa_) notes that standard grammar would yield प्रविधीयत इति (प्रविधीयत इतीति वक्तव्ये प्रविधीयतेति सन्धिरार्षः), and **Śivasahāya** (_Śiromaṇi_) justifies it by suspending the non-operation of _tripādī_ rules via _yogavibhāga_ on अदसोऽसेर्दादु दो मः.
+
+_____________
+
+**2.37.35–36 (pratikarmanityā & vidhānaiḥ)**
+
+On प्रतिकर्मनित्या, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss प्रतिकर्म as personal adornment and cosmetics (प्रसाधनव्यापारः अलंकारः) so as to delight her husband (स्वभर्तृभूषार्थम्), whereas **Śivasahāya** (_Śiromaṇi_) interprets it as “ever participating in all rites of Rāma” (रामसंबन्धिनी सर्वक्रिया तत्र नित्या). On विधानैः, all three gloss “with royal appliances and requisites” (उपकरणैः).
+
+_____________
+
+**2.37.37 (vinivṛttabhāvā & pratikārakāmā)**
+
+On प्रतिकारकामा, **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) explain प्रतिकार not as retaliation, but as “fashioning a state matching her husband's” (प्रतिकारं सदृशकरणं कामयमाना भर्तृसदृशतया वनवासकरणमिच्छन्ती, _Bhūṣaṇa_; वेषादिभिस्तदवस्थासदृशावस्थासंपादनकामा, _Tilaka_), so that Sītā never wavered from wearing the bark cloth (चीरपरिग्रहाद्विनिवृत्तभावा नैव बभूव).
+</details>
 </details>
 

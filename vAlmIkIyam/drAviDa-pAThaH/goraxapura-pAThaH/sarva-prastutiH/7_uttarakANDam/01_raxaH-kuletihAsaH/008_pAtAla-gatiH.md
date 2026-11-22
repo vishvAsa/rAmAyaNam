@@ -275,6 +275,98 @@ Declaring that he must uphold his vow of fearlessness to the gods even at the co
 
 “Indeed, I must ever accomplish what is dear to the gods even at the cost of my own life (_prāṇair api priyaṃ kāryam_); therefore I shall slay you all (_vo nihaniṣyāmi_), even though you flee to Rasātala (_rasātala-gatān api_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.8.1–2 (Mālyavān's Counter-Surge)**
+
+Introducing the eighth sarga as the decisive rout of Sumālī and Mālyavān and their flight to Pātāla (सुमालिमाल्यवतोः पराजितयोर्लङ्कां विहाय पातालगमनेऽष्टमः), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) both supply अवप्लुत्य (‘leaping in pursuit from behind’) with पृष्ठतः. Rāma Varmā elucidates the ocean simile: just as the sea turns back upon reaching its shore, so Mālyavān wheeled around (अर्णवो वेलामेत्य यथा निवर्तते तथा निवृत्त इत्यर्थः). **Śivasahāya** (_Śiromaṇi_) construes 7.8.1–2 as a single period (श्लोकद्वयमेकान्वयि), noting how wrath causes Mālyavān's eyes to blaze and his crown to tremble (क्रोधात्संरक्तनयनः अत एव चलन्मौलिः).
+
+_____________
+
+**7.8.3–5 (The Charge of Violating Kṣatriya Law)**
+
+Glossing the reproach यथेतरः in 7.8.3d, **Rāma Varmā** renders it as ‘like a vulgar commoner’ (प्राकृतजन इव), **Govindarāja** as ‘like a base man’ (क्षुद्रजन इव), and **Śivasahāya** as ‘like a wicked soul’ (पापात्मेव). On 7.8.4c, Rāma Varmā explains गतः as ‘departed from the body, i.e., deceased’ (मृतो देहाद्गतः सन् स्वर्गं न लभते) and records the variant न हतः (‘smitten by fate’, दैवहत इत्यर्थः), whereas Śivasahāya joins गतः with the perpetrator of the sin. On 7.8.5, Rāma Varmā construes Mālyavān's taunt smoothly: ‘Display your strength in such a way that I may witness it’ (तत्तव बलमहं यथा पश्यामि तथा दर्शयेत्यर्थः).
+
+_____________
+
+**7.8.6 (Framing Viṣṇu's Moral Vindication)**
+
+Before Viṣṇu even speaks, both **Rāma Varmā** and **Govindarāja** explicitly preview the dharmic resolution of Mālyavān's accusation: the fault of slaying a retreating enemy does not attach to one engaged in fulfilling a solemn vow of protection (पराङ्मुखवधदोषः स्वप्रतिज्ञापालनपरस्य नास्तीत्याह). **Śivasahāya** identifies देवराजानुजः as Viṣṇu (Upendra, younger brother of Indra). Visually, the paronomasia (_yamaka_) comparing Mālyavān to the mountain of the same name (माल्यवन्तं स्थितं दृष्ट्वा माल्यवन्तमिवाचलम्) elevates the Rākṣasa's defiant stand right before Viṣṇu's crushing rejoinder.
+
+_____________
+
+**7.8.7–8 (The Higher Duty of Protecting Refugees)**
+
+Answering Mālyavān's appeal to conventional battlefield rules, Viṣṇu invokes the overriding imperative of a sworn promise of refuge (_abhaya-dāna_). **Rāma Varmā** (_Tilaka_) clarifies the apposition: ‘I granted fearlessness to the terrified gods, and that gift of fearlessness is upheld by accomplishing the extirpation of the Rākṣasas’ (तदेतदभयदानं राक्षसोत्सादनं कृत्वा मयानुपाल्यते). **Śivasahāya** (_Śiromaṇi_) similarly analyzes राक्षसोत्सादनम् as a _bahuvrīhi_ defining the boon (राक्षसानामुत्सादनं यस्मिन् तदभयम्), emphasizing that Viṣṇu strikes solely to honor his oath (प्रतिज्ञापालनार्थमेव हन्यत इत्यर्थः) and will pursue the Rākṣasas even into Rasātala.
+
+_____________
+
+**7.8.9–10 (Lightning in a Rain-Cloud)**
+
+Answering Viṣṇu's solemn oath not with further argument but with an instant weapon-strike, the enraged Mālyavān hurls a bell-resounding spear straight into the Lord's chest (भुजान्तरे). **Śivasahāya** (_Śiromaṇi_) underscores both the heroic suddenness of the blow—aimed even while the lotus-eyed God of gods was speaking—and the arresting color contrast of 7.8.10: the golden, bell-ringing spear flashing against Hari's dark cloud-hued breast shines like a bolt of lightning embedded inside a dark rain-cloud (मेघस्था शतह्रदा विद्युदिव बभ्राज). The simile conveys both visual splendor and Viṣṇu's serene invulnerability, as the weapon adorns rather than disables the Supreme Lord.
+
+_____________
+
+**7.8.11–12 (Skanda's Spear Returned by Govinda)**
+
+Plucking out the very spear lodged in his own chest (तामेव स्ववक्षोलग्नामेव, **Govindarāja**), Viṣṇu hurls it back. Both **Rāma Varmā** and **Śivasahāya** offer a twofold compound analysis of शक्तिधरप्रियः: either a _bahuvrīhi_ (‘to whom the spear-wielding Guha/Skanda is dear’, शक्तिधरो गुहः स प्रियो यस्य) or a _tatpuruṣa_ (‘who is dear to Skanda’, तस्य प्रियो वा); Govindarāja glosses it simply as ‘dear to Subrahmaṇya’ (सुब्रह्मण्यप्रियः). On 7.8.12, Śivasahāya glosses काङ्क्षन्ती as ‘eager to slay’ (हन्तुमिच्छन्ती सती) and reads महोल्केव (‘like a great meteor’) for माहेन्द्रीव.
+
+_____________
+
+**7.8.13–15 (Thunderbolt on the Peak and Mālyavān's Recovery)**
+
+Tracing the spear's impact on Mālyavān, **Rāma Varmā** (_Tilaka_) glosses हारभारः as ‘a profusion of necklaces’ (हारसमूहस्तेनावभासिते) and गिरिकूटे as ‘upon a mountain peak’ (गिरिशृङ्गे), whereas **Govindarāja** (_Bhūṣaṇa_), reading हारभासा, explains it as ‘by the sheen of pearl garlands’ (मुक्ताहारकान्त्या). All three commentators gloss तमः in 7.8.14b as a momentary swoon (तमो मोहम्). **Śivasahāya** (_Śiromaṇi_) notes that though his armor was split (भिन्नं तनुत्राणं यस्य), Mālyavān swiftly rallied (पुनराश्वस्तः) and drove a spiked iron pike straight into Viṣṇu's chest.
+
+_____________
+
+**7.8.16–17 (The Fist-Blow and the Acclaim of the Rākṣasas)**
+
+Explaining Mālyavān's audacious close-quarters assault upon the Lord, both **Rāma Varmā** and **Govindarāja** gloss रणरक्तः as ‘fond of battle, exulting in combat’ (रणप्रियः) and clarify अपक्रान्तः as withdrawing backward a full bow-length immediately after landing his fist-blow (पृष्ठतः परावृत्तः). On the sky-borne applause resounding in 7.8.17, **Śivasahāya** supplies the implicit speakers—it was the watching hosts of Rākṣasas who cheered ‘Well done! Well done!’ (अम्बरे साधुसाध्विति महान् शब्द उत्थितो राक्षसानामिति शेषः)—just before Mālyavān rashly compounds his boldness by striking Viṣṇu's divine mount Garuḍa as well.
+
+_____________
+
+**7.8.18 (Garuḍa's Wing-Tempest)**
+
+Mālyavān's blow against Garuḍa seals the decisive turning point of the duel. All three commentators—**Rāma Varmā**, **Śivasahāya**, and **Govindarāja**—underline the effortless disproportion captured in the closing simile: enraged Vainateya does not even employ his talons or beak, but merely sweeps the colossal Rākṣasa warrior away (व्यपोहत् अचालयत्) with the hurricane blast of his wings, just as a gusting wind scatters a weightless heap of dry leaves (वायुः शुष्कपर्णचयं यथा). This sudden humiliation breaks the Rākṣasas' last resistance and directly triggers Mālyavān's shamed retreat in the following spread.
+
+_____________
+
+**7.8.19–22 (Flight from Laṅkā to Pātāla)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss the archaic unprefixed gerund दृश्य in 7.8.19b as classical दृष्ट्वा (‘having seen’) and सहपत्नयः in 7.8.22d as ‘together with their wives’ (सस्त्रीकाः / सदारा इत्यर्थः). **Śivasahāya** (_Śiromaṇi_) traces the collapse of Rākṣasa morale: seeing his elder brother blown back by Garuḍa's wings, Sumālī retreats toward Laṅkā, followed closely by the shamed Mālyavān (ह्रिया वृतः); repeatedly broken by Hari and unable to withstand Viṣṇu, the survivors vacate Laṅkā altogether to take refuge in the netherworld (लङ्कां त्यक्त्वा पातालं वस्तुं गताः).
+
+_____________
+
+**7.8.23 (The Matronymic Lineage of Sālakaṭaṅkaṭā)**
+
+All three commentators—**Rāma Varmā**, **Śivasahāya**, and **Govindarāja**—identify सालकटङ्कटे वंशे as the celebrated matronymic clan named after **Sālakaṭaṅkaṭā**, the wife of Vidyutkeśa and paternal grandmother of Mālyavān, Sumālī, and Mālin (सालकटङ्कटा माल्यवदादीनां पितामही विद्युत्केशपत्नी तस्याः सम्बन्धी). Śivasahāya adds that the defeated yet renowned warriors rallied around Sumālī in Pātāla as the custodian of that lineage (सुमालिनं समासाद्याश्रित्य). Furthermore, both Rāma Varmā and Govindarāja make a precise Pāṇinian note: because _sālakaṭaṅkaṭā_ is a _vṛddha_ stem, Pāṇini 4.2.114 (_vṛddhāc chaḥ_) would require the suffix _-īya_ (_sālakaṭaṅkaṭīye_); its absence here is an _ārṣa_ archaism (वृद्धाच्छाभाव आर्षः).
+
+_____________
+
+**7.8.24 (A Striking Exegetical Divergence on Rāvaṇa's Strength)**
+
+On the comparison in 7.8.24, the commentators split sharply. Both **Rāma Varmā** and **Govindarāja** read the verse as exalting the older Sukeśa brothers above Rāvaṇa's clan: Mālyavān, Sumālī, Mālin, and their vanguard were even mightier than Rāvaṇa and all the Paulastyas (Kumbhakarṇa and the rest) slain by Rāma (ये त्वया कुम्भकर्णादयो हतास्तेभ्यस्तथा रावणाच्च माल्यवदादयो बलवत्तराः). Conversely, **Śivasahāya** construes रावणात् as an ablative of cause (‘on account of Rāvaṇa's offense’, रावणापराधाद्धेतोः) and argues the opposite—that the Paulastyas slain by Rāma surpassed Mālyavān's host in might.
+
+_____________
+
+**7.8.25 (Why Viṣṇu's Glory Belongs to Rāma Alone)**
+
+Anticipating Rāma's silent doubt after 7.8.24—‘If those ancient Rākṣasas routed by Viṣṇu were even mightier than Rāvaṇa, why then do the sages praise me?’ (तर्हि किं मे प्राशस्त्यं भवद्भिरुच्यते)—both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) reply that this very glory belongs to Rāma alone (तत्प्राशस्त्यमपि तवैव), since none save Nārāyaṇa can slay the Rākṣasas. Rāma Varmā cites Pāṇini 2.3.69 (न लोक इति षष्ठीनिषेधः) on राक्षसान्हन्ता, while **Śivasahāya** (_Śiromaṇi_) etymologizes नारायणः as _Maryādā-puruṣottama_—he who moves solely by righteous conduct (नारो नीतिस्तेनैव अयते गच्छतीति नारायणः).
+
+_____________
+
+**7.8.26–27 (Rāma Unveiled as Eternal Nārāyaṇa)**
+
+Affirming the direct identity (उक्तमेवार्थमन्वयमुखेनाह), **Rāma Varmā** glosses उत्पन्नः as ‘having assumed a body through _māyā_’ (मायया गृहीतदेहः). **Śivasahāya** unpacks each divine epithet in 7.8.26 devotionally: चतुर्बाहुः means ‘he who conveys the four human ends to his devotees’ (चतुरोऽर्थादीन् वाहयति आश्रितेभ्यः प्रापयतीति), प्रभुः is ‘controller even of the controller’ (नियन्तुरपि नियन्ता), and अव्ययः is ‘devoid of all modification’ (सर्वविकारशून्यः). On 7.8.27—echoing the _Bhagavadgītā_'s avatāra-vow—Śivasahāya notes that the refuge-protecting Lord manifests age after age to destroy brigand-like oppressors (दस्युवधे).
+
+_____________
+
+**7.8.28–29 (Transition to Rāvaṇa's Birth and Kubera's Reign)**
+
+Shifting into lyrical _Vasantatilakā_ (7.8.28) and _Vaṃśastha_ (7.8.29) meters to mark the structural closure of the pre-Rāvaṇa Rākṣasa cycle, Agastya formally concludes the account of Rākṣasa origins (राक्षसानामुत्पत्तिः) and prepares Rāma for the birth and splendor of Rāvaṇa in Sarga 9 (रावणस्य जन्म प्रभावञ्च निबोध, **Śivasahāya**). With Sumālī and his descendants banished to Rasātala in dread of Viṣṇu, Śivasahāya notes that Kubera, the lord of wealth (धनेश्वरः कुबेरः), then occupied empty Laṅkā—setting the stage for Sumālī's fateful scheme to reclaim it through his daughter Kaikasī.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

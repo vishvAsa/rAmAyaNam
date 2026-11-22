@@ -88,6 +88,14 @@ legend. [1-62-1]
 
 Having taken Śunaḥśepa, O best of men (_śunaḥśepaṃ naraśreṣṭha gṛhītvā tu_), the illustrious king rested at Puṣkara at midday, O delight of the Raghus (_vyaśramat puṣkare rājā madhyāhne raghunandana_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.1–3 (Viśvāmitra as Śunaḥśepa’s Maternal Uncle)**
+
+**Śiromaṇi** explains the genitive _tasya viśramamāṇasya_ by Pāṇini 2.3.38 (_ṣaṣṭhī cānādare_): disregarding the resting king, Śunaḥśepa approached Viśvāmitra. Why is Viśvāmitra called his maternal uncle (_mātulam_) and why did the boy fall into his lap (_papātāṅke_)? **Govindarāja** and **Tilaka** recall Sarga 34: Viśvāmitra’s elder sister Satyavatī (Kauśikī) was wedded to Sage Ṛcīka (_ṛcīkāya kauśikī pratipāditety uktatvāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -216,6 +224,14 @@ you to protect me according to saintliness. [1-62-4b, 5a]
 
 He fell into the sage’s lap, O Rāma, and spoke these words (_papātāṅke mune rāma vākyaṃ cedam uvāca ha_): “I have no mother and no father; whence could I have kinsmen or friends (_na me ’sti mātā na pitā jñātayo bāndhavāḥ kutaḥ_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.4–5 (Orphaned by Parental Abandonment)**
+
+Why does Śunaḥśepa say ‘I have no mother and no father’ when both live? **Govindarāja** explains that because his parents forsook him for a price, they are as good as non-existent as protectors (_arakṣakatvād asatprāyāḥ_; cf. **Śiromaṇi** _mannirūpitamukhyamātṛtvādyabhāvena_). **Tilaka** and **Govindarāja** gloss _tṛṣṇayā_ doubly as physical thirst and the craving to live (_pipāsayā jijīviṣayā ca_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,6 +288,14 @@ and indeed on performing an unexcelled ascesis, I wish to enjoy in heavenly worl
 **5:** “You ought to save me in accordance with _dharma_, O gentle bull among sages (_trātum arhasi māṃ saumya dharmeṇa munipuṃgava_)! For you, O best of men, are the protector of all, and you are the shelter and benefactor of all (_sarveṣāṃ tvaṃ hi bhāvanaḥ_).
 
 **6:** “Act so that the king may accomplish his ritual purpose (_rājā ca kṛtakāryaḥ syāt_), while I, remaining unharmed and endowed with long life (_ahaṃ dīrghāyur avyayaḥ_), may attain the heavenly realm after practicing supreme austerity (_svargalokam upāśnīyāṃ tapas taptvā hy anuttamam_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.6 (Saving Life Without Ruining the Sacrifice)**
+
+All three commentators supply _tathā kuru_: Śunaḥśepa asks to be saved in a way that fulfills Ambarīṣa’s sacrifice while preserving his own life for penance.
 </details>
 </details>
 
@@ -332,6 +356,14 @@ like a father protecting his own son.' Thus Shunashepa appealed to Vishvamitra.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With a gracious heart, therefore, become the protector of me who am protectorless (_sa me nātho hy anāthasya bhava bhavyena cetasā_)! Like a father saving his son, O righteous-souled one, you ought to rescue me from this peril (_trātum arhasi kilbiṣāt_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.7–8 (Refuge from Peril)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** gloss _kilbiṣāt_ not as sin itself, but as the mortal calamity arising from past karma (_jīvavipattirūpāt_, **Tilaka**; _pāpaviśeṣajanitavipatteḥ_, **Śiromaṇi**), and _bhavyena cetasā_ as with a gracious and auspicious mind (_prasannena_, **Tilaka**; _śubhena_, **Govindarāja**).
 </details>
 </details>
 
@@ -435,6 +467,14 @@ me in heavens...'
 
 “That very purpose for the sake of which fathers, desiring auspicious merit, beget sons for their welfare in the other world (_yatkṛte pitaraḥ putrāñ janayanti śubhārthinaḥ paralokahitārthāya_)—the time for that has now arrived (_tasya kālo ’yam āgataḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.9–10 (The Smṛti Rule jīvato vākyakaraṇāt)**
+
+Why do fathers beget sons for the sake of the other world? **Tilaka** and **Govindarāja** cite the renowned Smṛti half-verse _jīvato vākyakaraṇāt pratyabdaṃ bhūribhojanāt_: a son secures higher worlds through obeying his father’s command while the father lives. Thus, by giving life to Śunaḥśepa (_asya jīvitapradānamātreṇa_), they will accomplish both their father’s command and their own spiritual welfare.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -527,6 +567,14 @@ in lieu of this boy Shunashepa. [1-62-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “All of you are doers of virtuous deeds, all of you are devoted to _dharma_ (_sarve sukṛtakarmāṇaḥ sarve dharmaparāyaṇāḥ_); becoming the sacrificial victim for the lord of men, grant satisfaction to the sacrificial fire (_paśubhūtā narendrasya tṛptim agneḥ prayacchata_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.11–12 (One Son as Substitute & Fourfold Fulfillment)**
+
+Why does Viśvāmitra use the plural _paśubhūtāḥ ... prayacchata_ when only one victim is needed? **Govindarāja** explains that the plural invites whichever one among them is willing to step forward (_bahuvacanena yuṣmāsu yaḥ kaścana bhavatīti sūcyate_). **Tilaka** notes that _mama cāpi kṛtaṃ vacaḥ_ echoes the same Smṛti duty of fulfilling a living father’s word.
 </details>
 </details>
 
@@ -641,6 +689,14 @@ and the other sons of Vishvamitra said this, haughtily and disparagingly. [1-62-
 
 Hearing those words of the sage, his sons headed by Madhucchandas (_madhucchandādayaḥ sutāḥ_), O best of men, spoke these words with arrogance and mocking derision (_sābhimānaṃ naraśreṣṭha salīlam idam abruvan_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.13–14 (The Sons’ Derision & Dog-Flesh Simile)**
+
+**Tilaka** and **Govindarāja** gloss _sābhimānam_ as ‘with haughty pride’ (_sāhaṅkāram_) and _salīlam_ as ‘with mocking derision’ (_saparihāsam_). On _śvamāṃsam iva bhojane_, all three commentators explain: just as abandoning wholesome food like milk-rice to eat dog-flesh violates both worldly reason and Vedic law (_lokataḥ śāstrataś cānarthakatve dṛṣṭāntaḥ_, **Tilaka**), so too is sacrificing one’s own sons to save a stranger’s son.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -740,6 +796,14 @@ them while fury reddened his eyes. [1-62-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of his sons, that bull among sages (_munipuṃgavaḥ_), his eyes bloodshot with wrath (_krodhasaṃraktanayanaḥ_), began to speak (_vyāhartum upacakrame_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.15–17 (Turning the Simile into a Curse)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** gloss _niḥsādhvasam_ as devoid of filial awe (_pitṛbhītirahitam_), and _dharmād api vigarhitam_ as fallen from the duty of obeying a living father. Turning their own simile back upon them, Viśvāmitra curses them to eat dog-flesh among degraded castes (_adhikṣiptajātiṣu_, **Tilaka**, **Govindarāja**) like Vasiṣṭha’s cursed sons.
 </details>
 </details>
 
@@ -863,6 +927,14 @@ Shunashepa, on making unharmed invulnerability to him with sanctifying hymns. [1
 
 Having thus laid his sons under that curse, the foremost of sages (_kṛtvā śāpasamāyuktān putrān munivaras tadā_) placed an unfailing protective charm upon the distressed Śunaḥśepa and spoke to him (_śunaḥśepam uvācārtaṃ kṛtvā rakṣāṃ nirāmayām_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.18 (The Protective Charm rakṣāṃ nirāmayām)**
+
+**Tilaka** glosses _nirāmayāṃ rakṣām_ as a protection that destroys all sorrow (_sarvaduḥkhanāśikām_), which **Govindarāja** specifies as casting mantra-consecrated sacred ash over the boy (_mantritabhasmadhūlyādiprakṣeparūpām_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -947,6 +1019,14 @@ Vedic hymns to the boy. [1-62-20]
 
 **20:** “And sing these two celestial _gāthās_, O young son of a sage (_ime ca gāthe dve divye gāyethā muniputraka_), in this sacrifice of Ambarīṣa; thereby you shall attain deliverance and fulfillment (_tataḥ siddhim avāpsyasi_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.19–20 (The Vaiṣṇava Yūpa & Two Celestial Gāthās)**
+
+**Tilaka** and **Govindarāja** gloss _pavitrapāśaiḥ_ as cords woven of purifying _darbha_ grass (_darbharaśanābhiḥ_) and quote the Vedic Śruti _vaiṣṇavo vai devatayā yūpaḥ_ to explain why the sacrificial post is called _vaiṣṇavam_ (presided over by Viṣṇu). At the post, Śunaḥśepa must first praise Agni with Vedic mantras (_agnim udāhara stuhi_, **Tilaka**; _agnyabhimukho bhūtvā_, **Govindarāja**) and then chant two secret celestial _gāthās_ addressed respectively to Indra and Upendra (Viṣṇu, _indropendradaivatye_, **Tilaka**, **Govindarāja**), whereby he will win the preservation of his life (_jīvitasiddhim_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -996,6 +1076,14 @@ gone to that lion-king Ambariisha and indeed spoke to him. [1-62-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having received those two _gāthās_ with a concentrated mind (_śunaḥśepo gṛhītvā te dve gāthe susamāhitaḥ_), Śunaḥśepa hastily spoke to that lion among kings, Ambarīṣa (_tvarayā rājasiṃhaṃ tam ambarīṣam uvāca ha_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.21–22 (Śunaḥśepa’s Fearless Urgency)**
+
+**Śiromaṇi** glosses _susamāhitaḥ_ as freed from all fear of death through Viśvāmitra’s mantra-instruction, enabling the boy himself to urge King Ambarīṣa to hasten back to the sacrificial hall (_sadaḥ_) and resume the rite.
 </details>
 </details>
 
@@ -1093,6 +1181,14 @@ and proceeded to the ritual hall immediately and spiritedly. [1-62-23]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of the sage’s son, the monarch, filled with joy (_harṣasamanvitaḥ_), went swiftly and unweariedly to the sacrificial enclosure (_jagāma nṛpatiḥ śīghraṃ yajñavāṭam atandritaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.23–24 (Binding at the Post)**
+
+With the approval of the learned priests of the assembly (_sadasyānumate_), Ambarīṣa adorns Śunaḥśepa in red robes and purifying _darbha_ insignia as a consecrated victim and binds him to the _yūpa_.
 </details>
 </details>
 
@@ -1201,6 +1297,14 @@ and Upendra as well, with those two hymns he got from Vishvamitra. [1-62-25]
 
 Thus bound, that young son of a sage duly praised with those sublime hymns the two deities (_sa baddho vāgbhir agryābhir abhituṣṭāva vai surau_)—Indra and Indra’s younger brother Upendra (Viṣṇu) (_indram indrānujaṃ caiva yathāvan muniputrakaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.25–26 (Praise of Indra and Upendra & the Secret Stuti)**
+
+**Govindarāja** notes that Śunaḥśepa praised Viṣṇu (_indrānujam_, Upendra) alongside Indra: _prītaḥ_ means pleased by his own praise, while _rahasyastutitarpitaḥ_ means gratified by the esoteric hymn to his overlord Viṣṇu (_svasvāmibhūtaviṣṇurahasyastutyā toṣitaḥ_). **Tilaka** adds that _sahasrākṣaḥ_ synecdochically includes Viṣṇu (_upalakṣaṇaṃ viṣṇor api_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1300,6 +1404,14 @@ of that Vedic-ritual in manyfold, resulted from the grace of Thousand-eyed Indra
 
 And that king, O best of men, obtained the manifold fruit of his sacrifice, O Rāma, born of the grace of the thousand-eyed Indra (_yajñasya ca samāptavān phalaṃ bahuguṇaṃ rāma sahasrākṣaprasādajam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.27 (Harmonizing Vālmīki with the Bahvṛca-Brāhmaṇa)**
+
+Both **Tilaka** and **Govindarāja** address the Vedic parallel in the _Bahvṛca-Brāhmaṇa_ (Aitareya Brāhmaṇa 7.13ff., _‘hariścandro ha vaidhasa aikṣvāko rājā’_, **Tilaka**), where Śunaḥśepa is sold by Ajīgarta for Hariścandra’s sacrifice: either the event recurred across kalpas, or ‘Hariścandra’ and ‘Ajīgarta’ are secondary epithets applied to Ambarīṣa and Ṛcīka (_sutavikrayadoṣapradarśanāt_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1357,6 +1469,14 @@ Sage Shataananda continued the narration of Vishvamitra's legend. [1-62-28]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Righteous-souled Viśvāmitra too, of mighty austerity, practiced penance once again at Puṣkara, O best of men, for ten hundred years (_bhūyas tepe mahātapāḥ puṣkareṣu naraśreṣṭha daśavarṣaśatāni ca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**62.28 (Why Viśvāmitra Resumed Penance)**
+
+**Tilaka** explains _bhūyas tepe_: because his prior merit was depleted by his wrath against his sons, Viśvāmitra resolved never again to yield to anger and practiced penance anew (_pūrvatapasaḥ putreṣu krodhena nāśāt punas tapo ’karot_).
 </details>
 </details>
 

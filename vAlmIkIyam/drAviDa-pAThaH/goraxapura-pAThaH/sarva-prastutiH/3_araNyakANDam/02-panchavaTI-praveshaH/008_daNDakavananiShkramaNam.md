@@ -396,6 +396,80 @@ at the feet of that sage Suteekshna. [3-8-8, 9]
 
 **9:** “—by then we wish to depart.” Having spoken thus, Rāghava together with Saumitri and Sītā bowed to the two feet of the sage.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.8.1–2 (Morning Ablutions & upaspṛśya)**
+
+Glossing परिणाम्य निशां as passing the night (अतिवाह्य), all three explain उपस्पृश्य as bathing (स्नात्वा). **Śivasahāya** (_Śiromaṇi_) notes that the gerund उपस्पृश्य requires supplying a verb (अवर्ततेति शेषः), whereas **Govindarāja**'s (_Bhūṣaṇa_) reading उपास्पृशत् needs none (तत्पक्षे क्रियाध्याहारस्य न प्रयोजनम्). _Bhūṣaṇa_ adds that उत्पलगन्धिना implies bathing in a lotus pond (तटाकस्नानं सूच्यते), while सह सीतया intimates that Lakṣmaṇa had bathed earlier.
+
+_____________
+
+**3.8.3–4 (The Single Domestic Fire & Worship at Dawn)**
+
+Uniting verses 3–4 as one sentence (श्लोकद्वयमेकान्वयि), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) construe काल्यं adverbially with अभ्यर्च्य (“at daybreak”). _Bhūṣaṇa_ observes that singular अग्निम् shows they maintained the single household _aupāsana_ fire (अग्निमित्येकवचनेन एकाग्नित्वावगमात्), and interprets सुरान् as Nārāyaṇa with His attendants (सपरिकरापेक्षया बहुवचनम्).
+
+_____________
+
+**3.8.5–6 (āpṛcchāmaḥ & the Circle of Hermitages)**
+
+Linking verses 5–7 syntactically (त्रिश्लोक्येकान्वया), **Govindarāja** (_Bhūṣaṇa_) notes that आपृच्छामः takes an _ārṣa_ _parasmaipada_ ending for आपृच्छामहे in the sense of requesting permission to depart (गमनानुज्ञानं प्रार्थयामहे).
+
+_____________
+
+**3.8.7 (Simile of the Flameless Fires)**
+
+On विशिखैरिव पावकैः, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss विशिखैः as smokeless fires (विधूमैः), whereas **Govindarāja** (_Bhūṣaṇa_) cites Amara (शिखा ज्वाला) to explain it as fires without leaping flames—signifying ascetics who keep their inner glory concealed (गुप्तमाहात्म्यैरित्यर्थः).
+
+_____________
+
+**3.8.8–9 (The Simile of the Unjust Upstart & Rāvaṇa-vadha)**
+
+Comparing the scorching sun (अविषह्यातपः) to a low-born man (अन्वयवर्जितः) who gained fortune unjustly (अमार्गेणागतां लक्ष्मीं), **Rāma Varmā** (_Tilaka_) glosses अन्वयः as noble birth or good company (गुरुसाधुजनसेवारहितो दुष्प्रभुरिवाकुलज इव वा). **Govindarāja** (_Bhūṣaṇa_) notes that this covertly alludes to Rāma's haste to slay Rāvaṇa (रावणवधत्वरा व्यज्यते), averting the fault of comparing the sun to a base object (अतो न हीनोपमादोषोऽपि).
+
+_____________
+
+**3.8.10–11 (Sītā Like a Shadow & Blessing of Victory)**
+
+Raising the brothers, Sutīkṣṇa blesses Rāma to tread a safe path (अरिष्टं निरुपद्रवम्) with Sītā following like his shadow (छाययेवानुवृत्तया), which **Govindarāja** (_Bhūṣaṇa_) notes also conveys a benediction for victory over Rāvaṇa (अनेनापि रावणविजयाशास्रं सूच्यते).
+
+_____________
+
+**3.8.12–13 (Collective Singular & Tranquil Birds)**
+
+On आश्रमपदं, **Rāma Varmā** (_Tilaka_) explains the singular as generic for all the hermitages (जातावेकवचनम्), and notes that the bird-flocks are tranquil (शान्तपक्षिगणानि) because all mutual hostility ceases within the sages' precincts (परस्परविरोधाभावात्). **Govindarāja** (_Bhūṣaṇa_) cites Amara (प्रभूतं प्रचुरं प्राज्यम्) to gloss प्राज्यम् as abundant.
+
+_____________
+
+**3.8.14–15 (Distinguishing taṭākāni from sarāṃsi)**
+
+Defending 14d against tautology, **Śivasahāya** (_Śiromaṇi_) distinguishes तटाकानि as still reservoirs without currents (स्रोतोहितानि तटाकानि) and सरांसि as lakes fed by flowing streams (तत्सहितानि सरांसीति न पौनरुक्त्यम्). All three gloss कारण्डव as water-fowl (जलकुक्कुटः) and गिरिप्रस्रवणानि as mountain cascades (गिरिनिर्झरान्).
+
+_____________
+
+**3.8.16 (Benediction to Both Brothers & Invitation to Return)**
+
+In 16ab, **Govindarāja** (_Bhūṣaṇa_) construes गम्यतां with त्वया (addressing Lakṣmaṇa as वत्स सौमित्रे) and भवान् as addressing Rāma (भवानिति राम उच्यते), while **Rāma Varmā** (_Tilaka_) notes that Sutīkṣṇa bids Rāma return to his hermitage after visiting all the sages (सकलमुनीनामाश्रमान् दृष्ट्वा पुनरपि ममाश्रमं प्रत्यागन्तव्यम्).
+
+_____________
+
+**3.8.17–18 (Why Sītā Hands the Brothers Their Weapons)**
+
+Explaining the two occurrences of ततः in verse 18, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) take the first as “after preparing to depart” and the second as “after handing the quivers and bows” (धनुरादिदानानन्तरम्). _Bhūṣaṇa_ adds a perceptive insight: upon entering the hermitage, Sītā—deeming weapons needless in a peaceful grove (आश्रमप्रवेशे किमस्माकमायुधैरिति मन्यमाना)—had set them aside in the sage's hut, and now fetches them upon hearing the allusions to Rāvaṇa's destruction.
+
+_____________
+
+**3.8.19 (Dual Gender of cāpa)**
+
+On the neuter dual चापे चादाय सस्वने, **Rāma Varmā** (_Tilaka_) notes that the noun चाप is attested in both masculine and neuter genders (चापशब्दो द्विलिङ्गः), whereas **Govindarāja** (_Bhūṣaṇa_) reads the masculine dual चापौ चादाय सस्वनौ.
+
+_____________
+
+**3.8.20 (dhṛtacāpāsī & Transition to Sarga 9)**
+
+**Śivasahāya** (_Śiromaṇi_) explains धृतचापासी as bearing bows and swords, while **Govindarāja** (_Bhūṣaṇa_) remarks that Sītā's act of handing Rāma his weapons here directly sets the stage for her affectionate plea against unprovoked warfare in the opening of Sarga 9 (अनन्तरसर्गे स्वाशयं व्यनक्ति).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

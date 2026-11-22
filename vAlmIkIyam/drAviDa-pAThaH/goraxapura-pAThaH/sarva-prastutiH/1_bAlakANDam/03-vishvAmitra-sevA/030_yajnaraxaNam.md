@@ -93,6 +93,14 @@ and place, those princes then spoke this sentence to Vishvamitra. [1-30-1]
 
 Then those two royal princes, quellers of their foes, who knew well the proprieties of place and time (_deśakālajñau_), skilled in speech fitting the occasion and place (_deśe kāle ca vākyajñau_), spoke these words to Kauśika:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.1–2 (Three Grammatical Analyses of saṃrakṣaṇīyau)**
+
+Why are the two demons Mārīca and Subāhu called _saṃrakṣaṇīyau_? The commentators offer three explanations: (1) **Tilaka** and **Govindarāja** gloss it as _nivāraṇīyau_ (“to be warded off to protect the sacrifice”), deriving this sense from verbal polysemy, antiphrasis (_viparītalakṣaṇā_), or because _rakṣaṇa_ includes averting the undesired (_aniṣṭanivṛttiḥ_, **Govindarāja**); (2) **Śiromaṇi** derives _saṃrakṣaṇīyau_ with _-anīyar_ in the ablative sense (_apādāne ’nīyar_: “they _from whom_ the sacrifice must be guarded”); and (3) **Śiromaṇi** adds an ironic sense: the demons must be “saved” from plunging deeper into hell by being restrained from their sins!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -197,6 +205,14 @@ them. [1-30-3]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When the two scions of Kakutstha spoke thus, hastening in their eagerness for battle (_tvaramāṇau yuyutsayā_), all those sages, well-pleased, praised the two royal princes (_sarve te munayaḥ prītāḥ praśaśaṃsur nṛpātmajau_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.3–4 (Why the Resident Ascetics Reply — Viśvāmitra’s Śrauta Silence)**
+
+Although the princes address Viśvāmitra (_kauśikam_), the resident ascetics reply in v. 4 because Viśvāmitra, having entered Śrauta _dīkṣā_, is already bound by the consecrated sacrificer’s vow of silence (_adyāpi dīkṣitatvān mauny eva_, **Tilaka**) for the six-day rite (_ṣaḍrātraṃ maunitvaṃ gamiṣyati_, **Govindarāja**).
 </details>
 </details>
 
@@ -304,6 +320,14 @@ safeguarded that woodland of the ritual for six nights and days. [1-30-5]
 
 Hearing those words of theirs, the two glorious royal princes guarded the penance-grove without sleep for six days and six nights (_anidraṃ ṣaḍahorātraṃ tapovanam arakṣatām_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.5 (anidraṃ ṣaḍahorātram)**
+
+Empowered by the _Balā_ and _Atibalā_ sciences, the princes guard the grove without sleep for six full days and nights.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -358,6 +382,14 @@ the wielders of great bows and valiant ones have protected the best sage Vishvam
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Armed and vigilant, those two supreme bowmen and heroes, quellers of their foes (_vīrau yattau paramadhanvinau_), waited upon and guarded the best of sages, Viśvāmitra (_rarakṣatur munivaraṃ viśvāmitram ariṃdamau_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.6–7 (The Seven-Day Sattra Calendar & the Sutyā Day)**
+
+On v. 7, **Govindarāja** and **Śiromaṇi** explain the Śrauta chronology: “when that five-day period had elapsed (_kāle pañcadinātmake gate_) and the principal sixth day—the _Sutyā_ (Soma-pressing) day (_pradhāne ahani sutyādine_)—arrived.” Combining the first day of _dīkṣā_-entry in Sarga 29 with these six days, **Govindarāja** deduces that Viśvāmitra’s rite is a seven-night Śrauta session (_saptarātranirvartyaḥ satraviśeṣaḥ_).
 </details>
 </details>
 
@@ -465,6 +497,14 @@ thereby. The demons enter just at this juncture to spoil the ritual.
 
 Even as Rāma, eager for battle, was speaking thus (_rāmasyaivaṃ bruvāṇasya tvaritasya yuyutsayā_), the sacrificial altar, attended by the chief preceptor and officiating priests, blazed up suddenly (_prajajvāla tato vediḥ sopādhyāyapurohitā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.8–9 (The Blazing of the Altar — Portent vs. Ritual Climax)**
+
+**Govindarāja** and **Śiromaṇi** interpret the sudden flaring of the altar in v. 8 as a fiery portent heralding the Rākṣasas’ arrival (_vediprajvalanam utpāto rākṣasāgamanasūcakaḥ_), while **Tilaka** on v. 9 notes that the blazing altar marks the climax of the sacrificial oblation (_yajñodrekadyotakam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,6 +609,14 @@ generated in the sky. [1-30-10]
 
 As that sacrifice proceeded in due order with Vedic mantras (_mantravac ca yathānyāyaṃ yajño ’sau sampravartate_), a mighty and terrifying roar arose in the sky (_ākāśe ca mahāñ śabdaḥ prādur āsīd bhayānakaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.10–11 (Why the Demons Attacked from the Sky & Bhaṭṭa’s Reading)**
+
+**Govindarāja** notes that while the demon-repelling Vedic formulas (_rakṣoghna-mantrajapa_) were being chanted, the Rākṣasas could not set foot on the ground and had to rain blood from the sky like monsoon clouds. In v. 11b, **Śiromaṇi** notes that _prāvṛṣi dṛśyate_ is the reading endorsed by Nāgojī Bhaṭṭa.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -647,6 +695,14 @@ and they have started to pour down spates of blood. [1-30-12]
 
 **12:** Mārīca and Subāhu, together with their followers (_mārīcaś ca subāhuś ca tayor anucarās tathā_), arrived in terrifying forms and showered down torrents of blood (_āgamya bhīmasaṃkāśā rudhiraughān avāsṛjan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.12–13 (The Shower of Blood & Spotting the Demons Overhead)**
+
+Mārīca, Subāhu, and their followers shower torrents of blood (_rudhiraughān_—which **Śiromaṇi** notes includes flesh and pus by synecdoche, _māṃsapūyādisaṃgrāhakaḥ_). On v. 13, **Tilaka** brings out the realism of _abhidrutaḥ_: seeing the altar spattered with blood from above, Rāma first darted around on the ground in all directions, and not finding the attackers there (_tatrādṛṣṭvā_), looked up and spotted them in the sky!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -721,6 +777,14 @@ sentence. [1-30-14]
 **13:** Beholding that sacrificial altar bespattered with that torrent of blood (_tāṃ tena rudhiraugheṇa vedīṃ vīkṣya samukṣitām_), Rāma darted forward at once and then espied them in the sky (_sahasābhidruto rāmas tān apaśyat tato divi_).
 
 **14:** Beholding the two of them hurtling down headlong (_tāv āpatantau sahasā dṛṣṭvā_), lotus-eyed Rāma looked toward Lakṣmaṇa and spoke these words (_lakṣmaṇaṃ tv abhisamprekṣya rāmo vacanam abravīt_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.14–16 (Why Rāma Spares Mārīca — notsahe hantum īdṛśān)**
+
+In the Southern Recension (**Tilaka** and **Śiromaṇi**), v. 15c construes with _kariṣyāmi_ in v. 16a (“I shall scatter them with the _Mānavāstra_”), where Rāma adds _notsahe hantum īdṛśān_ (“I do not wish to kill such creatures”). **Tilaka** glosses _īdṛśān_ as “cowed or weak as straw,” while **Govindarāja** (on v. 19) notes the overarching epic design: Mārīca is spared so that he can later serve as the golden deer in the _Araṇyakāṇḍa_ (_bhāvikāryāntarasādhanāya_).
 </details>
 </details>
 
@@ -828,6 +892,14 @@ it on the chest of Maareecha. [1-30-16b, 17]
 
 **17:** And in supreme wrath, Rāghava hurled that supremely noble, blazing _Mānava_ missile straight at Mārīca’s chest (_mānavaṃ paramodāram astraṃ paramabhāsvaram cikṣepa paramakruddho mārīcorasi rāghavaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.17 (paramodāram & Targeting Mārīca)**
+
+**Govindarāja** notes that the plural _rākṣasān_ in v. 15b refers generically to Mārīca (_mārīcamātraparatvāt_), while **Śiromaṇi** derives _paramodāram_ as the shaft that bestows the Supreme Self (_paramaḥ ut paramātmā, tam āsamantād rāti_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -885,6 +957,14 @@ yojana lengths in full, and flung down into an ocean rocking with tidewaters. [1
 
 Struck square by that supreme _Mānava_ missile (_sa tena paramāstreṇa mānavena samāhataḥ_), Mārīca was hurled a full hundred _yojanas_ into the surging swell of the ocean (_sampūrṇaṃ yojanaśataṃ kṣiptaḥ sāgarasamplave_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.18 (Mārīca Hurled 100 Yojanas & the Second Syllable of the Gāyatrī — स)**
+
+Struck by the _Mānavāstra_, Mārīca is flung a full hundred _yojanas_ into the surging sea (_sāgarasamplave = samudramadhye_). Both **Govindarāja** and **Śiromaṇi** record a celebrated milestone in the 24,000-śloka Gāyatrī-Rāmāyaṇa tradition (where every 1,000th verse opens with the next syllable of the 24-syllable Gāyatrī mantra, beginning with त in 1.1.1): the opening syllable स of 1.30.18 (स तेन परमास्त्रेण...) is the **second syllable of the Gāyatrī** (_gāyatrī-dvitīyavarṇaḥ_), marking the completion of the first thousand verses of the epic!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -931,6 +1011,14 @@ with the strength of that Cold arrow Rama said this to Lakshmana. [1-30-19]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding Mārīca cast away, knocked senseless, and whirling round under the force of the _Śīteṣu_ shaft (_vicetanaṃ vighūrṇantaṃ śīteṣubalapīḍitam nirastaṃ dṛśya mārīcam_), Rāma spoke to Lakṣmaṇa:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.19–20 (Śīteṣu as Synonym of Mānavāstra & Its Righteous Restraint)**
+
+All three commentators explain that _Śīteṣu_ (“the Cool-Tempered / Non-Lethal Shaft,” bestowed in 1.27.20d) is here the alternate name of the _Mānavāstra_ itself (_śīteṣur iti mānavāstranāmāntaram_, **Tilaka**). Calling Lakṣmaṇa’s attention to this missile presided over by Manu (_manusaṃhitam = manudaivatyam_, **Tilaka**) or conformed to _dharma_ (_dharmasaṃhitam_, **Śiromaṇi**), Rāma points out how it stuns Mārīca and sweeps him out to sea without taking his life.
 </details>
 </details>
 
@@ -1042,6 +1130,14 @@ ritual-hinderers and blood-drinkers." So said Rama to Lakshmana. [1-30-21]
 
 “These other pitiless, evil-conducting Rākṣasas, however, who abide in sinful deeds, destroy sacrifices, and drink blood—them I shall now slay outright (_imān api vadhiṣyāmi nirghṛṇān duṣṭacāriṇaḥ... yajñaghnān rudhirāśanān_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.21–22 (Turning Against Subāhu with the Āgneyāstra)**
+
+Vowing to slay the remaining blood-drinking sacrifice-destroyers (_imān api vadhiṣyāmi_), Rāma deftly seizes the fiery _Āgneyāstra_.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1130,6 +1226,14 @@ Raghava took up the missile of Air-god and hit down the remaining demons. [1-30-
 
 **23:** He hurled it at Subāhu’s chest, and pierced through, Subāhu fell dead upon the earth (_subāhūrasi cikṣepa sa viddhaḥ prāpatad bhuvi_); then, taking up the wind-missile (_vāyavyam ādāya_), the supremely noble and glorious Rāghava slew the remaining demons, bringing joy to the sages (_munīnāṃ mudam āvahan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.23 (Slaying Subāhu with the Āgneyāstra & Scattering the Rest with the Vāyavyāstra)**
+
+Hurling the _Āgneyāstra_ into Subāhu’s chest, Rāma strikes him dead upon the ground (_sa viddhaḥ prāpatad bhuvi_—which **Śiromaṇi** glosses as falling on the same ground where his mother Tāṭakā had fallen, _tāṭakāpatanabhūmau_). Taking up the wind-missile (_Vāyavyāstra_), Rāma then destroys the remaining demon followers, where **Tilaka** notes the specific effect of the _Vāyavyāstra_: sweeping the demons far away while destroying them (_dūrotsāraṇapūrvake nāśane vāyavyāstraphalaṃ bodhyam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1182,6 +1286,14 @@ idealised him as Indra was idealised once, when he became victories on demons. [
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having slain all those sacrifice-destroying Rākṣasas (_sa hatvā rākṣasān sarvān yajñaghnān_), the delight of Raghu’s line was worshiped there by the sages, even as Indra of old upon his victory over the Asuras (_ṛṣibhiḥ pūjitas tatra yathendro vijaye purā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.24–25 (yathendro vijaye purā & Breaking the Six-Day Silence)**
+
+Honored by the sages like Indra after his victory over the Asuras, Rāma completes the defense; only when the six-day sacrifice is concluded (_yajñe samāpte_) does Viśvāmitra break his Śrauta vow of silence (_maunitvam_) upon seeing the quarters free of calamity (_nirītikāḥ = nirbādhāḥ_, **Govindarāja**).
 </details>
 </details>
 
@@ -1294,6 +1406,14 @@ vespertine prayers on Sandhya, the goddess of gloaming. [1-30-26]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “My purpose is fulfilled, O mighty-armed prince, and your preceptor’s command has been accomplished by you (_kṛtārtho ’smi mahābāho kṛtaṃ guruvacas tvayā_)! You have today made this _Siddhāśrama_ truly fulfilled in name, O hero of mighty renown (_siddhāśramam idaṃ satyaṃ kṛtaṃ vīra mahāyaśaḥ_)!” Having thus praised Rāma, the sage repaired with the two brothers to perform the evening _sandhyā_ worship (_tābhyāṃ saṃdhyām upāgamat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**30.26 (guruvacaḥ & Making Siddhāśrama True to Its Name)**
+
+Viśvāmitra acclaims Rāma for fulfilling his father Daśaratha’s command (_guruvacaḥ = pitṛvacaḥ_, **Govindarāja**) and rendering _Siddhāśrama_ true to its name (_satyaṃ kṛtam = anvarthanāmakaṃ kṛtam_, **Tilaka**).
 </details>
 </details>
 

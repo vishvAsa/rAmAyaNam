@@ -86,6 +86,14 @@ Grief-stricken over the slaughter of her sons, Diti implores her husband Kaśyap
 
 When those sons of hers had been slain, Diti, stricken with supreme grief (_hateṣu teṣu putreṣu ditiḥ paramaduḥkhitā_), spoke these words to her husband Kaśyapa, the son of Marīci (_mārīcaṃ kaśyapaṃ nāma bhartāram idam abravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.1–2 (The Futility of Opposing Viṣṇu’s Party & dīrghatapo’rjitam)**
+
+**Govindarāja (_Bhūṣaṇa_)** introduces Sarga 46 with its overarching theological lesson: even the mightiest ascetic endeavour proves fruitless when directed against those sheltered by Lord Viṣṇu (_viṣṇupakṣavirodhe mahān api yatno viphalaḥ syāt_). On _dīrghatapo’rjitam_ (v. 2d), **Rāma Varmā (_Tilaka_)** analyses it as ‘won by long penance’, whereas **Govindarāja** takes it as Ārṣa sandhi for _tapasā ūrjitam_ (‘strengthened by austerity’).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -198,6 +206,14 @@ A sage's wife requires permission of her husband if she wishes to undertake
 
 “Therefore I shall practise severe penance; deign to grant me an embryo (_sāhaṃ tapaś cariṣyāmi garbhaṃ me dātum arhasi_). Deign to grant me your permission for a lordly son who shall be the slayer of Śakra (_īśvaraṃ śakrahantāraṃ tvam anujñātum arhasi_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.3–4 (Why Diti Seeks Her Husband’s Permission)**
+
+Why does Diti ask Kaśyapa both to grant her an embryo (_garbhaṃ dātum arhasi_) and to permit her penance (_tvam anujñātum arhasi_)? **Govindarāja** explains that according to Dharmaśāstra a wife has no independent authority to undertake ascetic vows without her husband’s express consent (_bhartranujñāṃ vinā tapasi striyā asvātantryāt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -293,6 +309,14 @@ Hearing those words of hers, Kaśyapa the son of Marīci, of great fiery splendo
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “So be it—may all be well with you! Remain ritually pure, O lady rich in penance (_evaṃ bhavatu bhadraṃ te śucir bhava tapodhane_); you shall give birth to a son who will slay Śakra in battle (_janayiṣyasi putraṃ tvaṃ śakrahantāram āhave_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.5–6 (The Condition of Thousand-Year Purity)**
+
+Kaśyapa grants her request on one strict condition: she must remain ritually pure (_śuciḥ_) for a full thousand years until delivery (_yāvat putrotpattim_, **Tilaka**, **Govindarāja**), thereby planting the seed of Indra’s opportunity.
 </details>
 </details>
 
@@ -419,6 +443,14 @@ Saying thus that great resplendent sage patted her, and then on his
 
 Having spoken thus, that sage of great splendour stroked her with his hand (_evam uktvā mahātejāḥ pāṇinā sammamārja tām_); then, embracing her and pronouncing ‘May all be well with you (_svasti_)!’, he departed for his own penance (_tapase yayau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.7–8 (Kaśyapa’s Blessing & the Grove of Kuśaplava)**
+
+Why did Kaśyapa stroke Diti with his hand (_pāṇinā sammamārja_) before imparting the embryo (_tām ālabhya_)? Both **Tilaka** and **Śiromaṇi** explain that he wiped away any residual sin that might obstruct the birth of so mighty a son (_tādṛśaputrapratibandhakahetupāpakṣayārtham_). All three commentators identify _Kuśaplava_ (or _Kuśaplavana_) as the eastern penance-grove that later became the site of the city of Viśālā (_kuśaplavaṃ viśālākhyam pūrvadeśasthatapovanam_, **Tilaka**; the former site of Viśālā, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -525,6 +557,14 @@ While she is truly practising asceticism, oh, the best among men Rama,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 While she was performing that penance, O best of men, the Thousand-Eyed Indra (_sahasrākṣo naraśreṣṭha_) rendered personal attendance upon her with supreme excellence of virtues (_paricaryāṃ cakāra ha parayā guṇasaṃpadā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.9–11 (Indra’s Disguised Attendance upon His Step-Mother)**
+
+**Tilaka** and **Govindarāja** note that as her step-son (_mātṛtvāt_), Indra could propriety-wise massage her fatigued limbs and fan her (_śramāpanayanaiḥ_) while secretly watching at every hour for any lapse in her ritual purity (_tasyā aśucitvapratīkṣayā_, **Tilaka**). How could Diti accept service from the very foe she sought to slay? **Tilaka** answers: through divine delusion (_daivamāyayeti gṛhāṇa_).
 </details>
 </details>
 
@@ -677,6 +717,14 @@ Oh, Rama, the descendent of Raghu, when ten years are less to complete
 
 When the thousand years were completed save for ten, O delighter of the Raghus (_pūrṇe varṣasahasre sā daśone raghunandana_), Diti, supremely delighted, spoke thus to the Thousand-Eyed Indra (_ditiḥ paramasaṃhṛṣṭā sahasrākṣam athābravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.12 (daśone varṣasahasre)**
+
+When nine hundred and ninety years have passed and only ten remain (_daśabhir nyūne_), Diti’s heart melts with maternal affection for her devoted attendant.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -735,6 +783,14 @@ Oh, best one among the valiant ones, Indra, to me who am practising
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Only ten years remain for me as I practise this penance, O best of the valorous (_tapaś carantyā varṣāṇi daśa vīryavatāṃ vara avaśiṣṭāni_); may all be well with you—thereafter you shall behold your younger brother (_bhrātaraṃ drakṣyase tataḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.13–15 (Diti’s Naive Fondness & Fatal Carelessness)**
+
+Won over by Indra’s nine hundred and ninety years of service, Diti promises to pacify her son (_samādhāsye = vigatavairaṃ bhrātṛsnehavantam eva kariṣyāmi_, **Tilaka**, **Govindarāja**) to share the three worlds with him. **Govindarāja** notes her artless simplicity in speaking affectionately to her own enemy, while **Śiromaṇi** observes that this relief relaxed her vigilance (_anavadhānatā_).
 </details>
 </details>
 
@@ -922,6 +978,14 @@ Hence her meticulousness is defeated.
 
 Having spoken thus, the goddess Diti, when the lord of day had reached mid-heaven (_ity uktvā ca ditis tatra prāpte madhyaṃ dineśvare_), was overcome by sleep, placing her feet where her head should rest (_nidrayāpahṛtā devī pādau kṛtvātha śīrṣataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.16–17 (The Threefold Breach of Śauca & Indra’s Laughter)**
+
+Why did Diti become impure (_aśuci_) at midday (_prāpte madhyaṃ dineśvare_)? The commentators give three explanations: (1) sleeping at midday (_divāsvāparūpapāpena_) with her feet on the head-pillow of her mat and her hair at the foot-end (_pādopadhāne śīrṣaṃ śīrṣopadhāne pādau ca kṛtvā_, **Govindarāja**); (2) stretching her feet toward the sacred East or South (_dakṣiṇapūrvadiśoḥ śiraḥsthāpanayogyatāyāḥ smṛtiṣūktes tadvaiparītyena_, **Tilaka**, **Śiromaṇi**); or (3) nodding forward while seated until her hair touched her feet, which defiles like a Brāhmaṇa touching a Śūdra (**Tilaka**). Indra rejoiced (_mumoda_) at finding the long-sought flaw and laughed (_jahāsa_) at her vain boast (_vṛthāgarviteyam iti hāsaḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1019,6 +1083,14 @@ Oh, Rama, being a highly courageous one, Indra the destroyer of enemy
 
 Purandara entered the aperture of her body (_tasyāḥ śarīravivaraṃ praviveśa puraṃdaraḥ_), and, self-possessed in the highest degree, O Rāma, he cleft that embryo into seven pieces (_garbhaṃ ca saptadhā rāma ciccheda paramātmavān_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.18 (śarīravivaram)**
+
+With resolute composure (_paramātmavān = sāvadhānaḥ / dhairyavān_), Purandara enters her womb and cleaves the fetus into seven.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1076,6 +1148,14 @@ Oh, Rama, then that foetus wailed clamorously while being sliced with
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Being cleft by the hundred-jointed thunderbolt (_bhidyamānas tato garbho vajreṇa śataparvaṇā_), that embryo wept aloud in a piercing voice, O Rāma, and thereupon Diti awoke (_ruroda susvaraṃ rāma tato ditir abudhyata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.19–20 (śataparvaṇā vajreṇa & mā rudaḥ)**
+
+All three commentators gloss _śataparvaṇā_ as ‘hundred-edged’ (_śatakoṭinā_). Awakened by the loud weeping (_susvaraṃ rodanam_) of her embryo as Indra’s thunderbolt divides it, Diti hears Indra repeatedly addressing the fetus with the words _mā rudo mā rudaḥ_ (‘Do not weep, do not weep!’—derived by **Govindarāja** from the root _rud_ in the unaugmented imperfect after _māṅ_), which in Sarga 47 will furnish the etymology of the seven _Maruts_.
 </details>
 </details>
 
@@ -1179,6 +1259,14 @@ Being cleft by the hundred-jointed thunderbolt (_bhidyamānas tato garbho vajre�
 
 ‘It must not be slain! It must not be slain (_na hantavyaṃ na hantavyam_)!’—so cried Diti; and thereupon, out of reverence for his mother’s word, Śakra came forth from her womb (_niṣpapāta tataḥ śakro mātur vacanagauravāt_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.21 (na hantavyam & mātur vacanagauravāt)**
+
+Both **Tilaka** and **Govindarāja** explain Diti’s urgent cry _na hantavyam_: ‘Even though you have divided the embryo into pieces, do not bereave those pieces of life (_vibhāge ’pi prāṇaviyojanaṃ mā kuru_)!’ Honouring his step-mother’s command (_mātur vacanagauravāt_), Indra immediately emerges from her womb without slaying the seven fragments.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1266,6 +1354,14 @@ Indra humbly folding his palms that are still handling his bloody Thunderbolt
 **22:** Standing with palms joined in reverence, thunderbolt in hand, Śakra addressed Diti (_prāñjalir vajrasahito ditiṃ śakro ’bhyabhāṣata_): ‘O Goddess, you fell asleep in a state of ritual impurity, with your hair resting at your feet (_aśucir devi suptāsi pādayoḥ kṛtamūrdhajā_).
 
 **23:** “‘Seizing upon that fatal lapse of yours, O Goddess, I have cleft into seven pieces him who was to have been the slayer of Śakra in battle (_tad antaram ahaṃ labdhvā śakrahantāram āhave abhindaṃ saptadhā devi_); deign, therefore, to forgive me this deed (_tan me tvaṃ kṣantum arhasi_)!’”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46.22–23 (tad antaram ahaṃ labdhvā)**
+
+Standing before her with folded hands while still holding the thunderbolt (_prāñjalir vajrasahitaḥ_), Indra points out the exact ritual loophole (_antaram_, ‘flaw, opening’, **Tilaka**, **Govindarāja**, **Śiromaṇi**)—her sleeping impurely at midday with her hair touching her feet—that annulled Kaśyapa’s condition and justified his pre-emptive strike in self-defence.
 </details>
 </details>
 

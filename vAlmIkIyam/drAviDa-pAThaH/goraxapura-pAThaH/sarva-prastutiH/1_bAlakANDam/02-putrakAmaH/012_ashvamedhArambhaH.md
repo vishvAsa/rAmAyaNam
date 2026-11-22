@@ -135,6 +135,14 @@ to maintaining his family line. [1-12-2]
 
 Thereupon, bowing his head in reverence to that twice-born sage of celestial effulgence (_taṃ vipraṃ devavarṇinam_), he formally chose him to officiate at the sacrifice for the continuation of his lineage (_saṃtānārthaṃ kulasya ca_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.2 (devavarṇinam & Appointing Ṛṣyaśṛṅga as Brahmā)**
+
+Both **Śiromaṇi** and **Govindarāja** observe that at the _ṛtvig-varaṇa_ (formal selection of priests) for the _Sāṃgrahaṇī iṣṭi_, Daśaratha bows his head and first appoints the divinely effulgent Ṛṣyaśṛṅga to the supreme supervisory office of _Brahmā_ (_prathamam ṛṣyaśṛṅgaṃ brahmatvena vṛtavān_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -275,6 +283,14 @@ as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4,
 
 **5:** “O Sumantra, summon swiftly the officiating priests who are expounders of the Veda (_ṛtvijo brahmavādinaḥ_)—Suyajña, Vāmadeva, Jābāli, and Kāśyapa,
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.4–5 (sumantrāvāhaya — Vedic Protocol of Bringing the Ṛtviks)**
+
+On _sumantrāvāhaya kṣipram ṛtvijaḥ_, **Govindarāja** cites the Śrauta injunction _apadātīn ṛtvijaḥ samāvahanty ā subrahmaṇyāyāḥ_: royal officers must go to the home of each chosen priest (the _Adhvaryu_, _Brahmā_, _Hotṛ_, _Udgātṛ_, and their assistants up to the _Subrahmaṇya_) and convey them to the king’s palace mounted on elephants, horses, or chariots—never on foot (_apadātīn_)!
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -401,6 +417,14 @@ Brought together all those sages who had crossed to the farthest shore of the Ve
 
 Spoke these gentle, well-reasoned words fraught with _dharma_ and purpose (_dharmārthasahitaṃ yuktaṃ ślakṣṇaṃ vacanam_): “Tormented as I am by longing for a son (_mama tātapyamānasya putrārtham_), I know no happiness at all.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.8–9 (Why Daśaratha Repeats His Declaration Before the Sages)**
+
+Both **Tilaka** and **Śiromaṇi** observe that Verses 5cd–9 echo Daśaratha’s earlier consultation with his gurus in Sarga 8; **Tilaka** explains that whereas Sarga 8 expressed his initial intention (_saṅkalpa_), the formal restatement here (_punarupanyāsaḥ_) is made in the presence of Ṛṣyaśṛṅga for the immediate commencement of the ritual performance (_anuṣṭhānārambhāya_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -455,6 +479,14 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 
 “Therefore my resolve is fixed: ‘I shall sacrifice with the _Hayamedha_ for the sake of a son!’ Accordingly, I desire to worship through the sacrificial rite of the _Hayamedha_—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.9–10 (hayamedhena karmaṇā & ṛṣiputraprabhāveṇa)**
+
+How do the _Aśvamedha_ and Ṛṣyaśṛṅga’s _Putrakāmeṣṭi_ work together? **Govindarāja** explains the two-stage ritual causality: Daśaratha desires to perform the _Hayamedha_ first in order to expiate the karmic obstacles blocking progeny (_pratibandhakaduritaśāntyartham_), and subsequently, through the spiritual power of the _Putrakāmeṣṭi_ officiated by Ṛṣyaśṛṅga (_ṛṣyaśṛṅgakṛtayajñaprabhāveṇa_), he will obtain his desired sons (_paścāt kāmān putrān avāpsyāmi ca_). **Śiromaṇi** adds that the particle _api_ in _cāpy aham_ intimates that the cosmic mission of the gods will simultaneously be accomplished!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -487,6 +519,14 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And through the spiritual potency of the sage’s son (_ṛṣiputraprabhāveṇa_), I shall surely obtain my cherished desires!” Thereupon all the Brāhmaṇas applauded that speech, exclaiming “Excellent! Excellent!” (_sādhv iti_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.10–11 (vasiṣṭhapramukhāḥ & ṛṣyaśṛṅgapurogāḥ)**
+
+Why does v. 11a call the applauding Brāhmaṇas _vasiṣṭhapramukhāḥ_ (“headed by Vasiṣṭha”), whereas v. 11c calls them _ṛṣyaśṛṅgapurogāḥ_ (“with Ṛṣyaśṛṅga at their fore”)? **Govindarāja** offers a charming psychological insight: because the young forest-reared Ṛṣyaśṛṅga is naturally modest and diffident in court (_ṛṣyaśṛṅgasyādhṛṣṇoḥ_), Vasiṣṭha takes the lead in acclaiming the King’s speech, and then places Ṛṣyaśṛṅga at the forefront of their formal priestly reply.
 </details>
 </details>
 
@@ -607,6 +647,14 @@ The Vedic seers thus blessed Dasharatha. [1-12-12, 13]
 
 “By every means you shall obtain four sons of boundless valor (_putrāṃś caturo ’mitavikramān_), since this righteous resolve (_dhārmikī buddhiḥ_) has arisen in your heart for the sake of progeny!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.13–14 (caturo ’mitavikramān, dhārmikī buddhiḥ & Repetition of rājā)**
+
+Why do the priests promise _four_ sons when Daśaratha only spoke of progeny in general? **Govindarāja** notes that they do so from having heard Sanatkumāra’s prophecy (_sanatkumāravacaḥśravaṇāc catura ity uktam_), while **Tilaka** explains _dhārmikī buddhiḥ_ as a resolve whose motive is the _dharma_ of protecting the world (_prajāsaṃrakṣaṇarūpadharmaprayojanā_). On the repetition of _rājā_ in both halves of v. 14, **Govindarāja** notes that there is no tautology because the two clauses have distinct verbal actions (_kriyābhedān na rājapadapunaruktiḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -695,6 +743,14 @@ Hearing that utterance of the twice-born sages, the King was filled with joy; an
 
 “At the bidding of my preceptors, let the sacrificial requisites be swiftly gathered for me (_sambhārāḥ sambhriyantu me_), and let the sacrificial horse—guarded by capable warriors and accompanied by its officiating preceptors (_samarthādhiṣṭhitaś cāśvaḥ sopādhyāyo vimucyatām_)—be loosed to wander!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.15 (sambhārāḥ, samarthādhiṣṭhitaḥ & sopādhyāyaḥ — Śrauta Details of the Horse’s Release)**
+
+**Govindarāja** provides a rich _Śrauta_ exposition citing the Taittirīya Brāhmaṇa and Bhaṭṭa Bhāskara: (1) _sambhārāḥ_ denotes the ritual equipment for loosing the steed, including the twelve-cubit _mañjā_-grass rope (_dvādaśāratnī raśanā bhavati_) and the fourfold waters (_catuṣṭayya āpo bhavanti_: sun-shower rain, well water, standing water, and flowing water); (2) _samarthādhiṣṭhitaḥ_ refers to the four hundred armed princes, _rājanyas_, _sūtas_, and _kṣattṛs_ who guard the wandering horse; and (3) _sopādhyāyaḥ_ refers to the four principal _Ṛtviks_ (Adhvaryu, Brahmā, Hotṛ, and Udgātṛ) who preside over the four companies of guards!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -727,6 +783,14 @@ Hearing that utterance of the twice-born sages, the King was filled with joy; an
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “On the northern bank of the Sarayū let the sacrificial ground be laid out, and let the propitiatory rites of peace go forward in full measure (_śāntayaś cābhivardhantām_) according to the _Kalpa_ precepts and Śāstric ordinance (_yathākalpaṃ yathāvidhi_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.16 (sarayvāś cottare tīre & śāntayaḥ)**
+
+**Govindarāja** cites the Vedic injunction _puṇyaṃ nāma devayajanam adhyavasyati_ to explain why the northern bank of the Sarayū is selected as the _devayajana_ (_uttaraṃ hi puṇyam iti tatparigrahaḥ_), and glosses _śāntayaḥ_ as propitiatory rites (_śāntikarmāṇi_) conducted to avert all obstacles.
 </details>
 </details>
 
@@ -801,6 +865,14 @@ Warning that learned Brahmarākṣasas ever watch for any ritual flaw and that t
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For these learned _Brahmarākṣasas_ (_vidvāṃso brahmarākṣasāḥ_) ever watch for a ritual flaw or loophole (_chidraṃ hi mṛgayanty ete_); and when a sacrifice is bereft of prescribed Śāstric rule (_vidhihīnasya yajñasya_), its patron perishes forthwith (_sadyaḥ kartā vinaśyati_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.18 (vidvāṃso brahmarākṣasāḥ & vidhihīnasya yajñasya)**
+
+**Govindarāja** glosses _chidram_ as a ritual lapse or omission (_aparādham_): why are the _Brahmarākṣasas_ called _vidvāṃsaḥ_ (“learned”)? Because, having formerly been Brāhmaṇas erudite in the Vedas and Kalpas before falling into demoniac birth, they are able to spot even subtle defects in mantra or procedure—and when a sacrifice is spoiled by lack of Śāstric rule (_vidhihīnasya_ or _vighnitasya_), its royal patron faces immediate ruin.
 </details>
 </details>
 
@@ -922,6 +994,14 @@ and indeed they have faultlessly carried out works as ordered. [1-12-20]
 
 Thereupon all the ministers applauded that speech of the chief of monarchs, saying “So be it!”, and executed everything just as they had been commanded (_yathājñaptam akurvata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.20–21 (yathājñaptam akurvata & punar jagmur yathāgatam)**
+
+What did the ministers execute immediately in v. 20d? **Govindarāja** explains that _akurvata_ encompasses the entire preliminary sequence from the vernal _Sāṃgrahaṇī iṣṭi_ through the binding, bathing, consecrating, and loosing of the sacrificial steed (_sāṃgrahaṇyeṣṭiprabhṛty-aśvavimocanāntam akurvan_). Once the horse was loosed to roam for a full year, the Brāhmaṇas praised the King and returned to their own hermitages (_svasvāśramam_, **Śiromaṇi**) until the horse’s return at year’s end (_saṃvatsarānte yāgārtham_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1036,6 +1116,14 @@ there for further orders from the king, and then he the great resplendent king h
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When those Brāhmaṇas had departed, the lord of men of vast intellect dismissed his ministers as well (_mantriṇas tān... visarjayitvā_) and entered his own royal abode (_svaṃ veśma praviveśa_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.22 (gatānāṃ tu dvijātīnām / gateṣu teṣu vipreṣu & svaṃ veśma)**
+
+Under the reading _gatānāṃ tu dvijātīnām_ (CE / **Tilaka** / **Śiromaṇi**), both commentators note the _ārṣa_ genitive absolute used in the sense of the locative absolute (_saptamyarthe ṣaṣṭhī = dvijātiṣu gateṣu satsu_). On _svaṃ veśma praviveśa_, **Govindarāja** notes that Daśaratha went from the sacred fire-chamber (_agnigṛhāt_) back into his royal inner apartments (_antaḥpuram_).
 </details>
 </details>
 

@@ -530,6 +530,152 @@ _________________
 
 Held fast in combat by him (_saṃyudhyamānena viṣṭabdhaḥ_), [Rāvaṇa] did not waver (_na vyakampata_); from that day onward, that yakṣa became renowned as Pārśvamauli [“Wry-Crowned”] (_pārśvamaulir iti smṛtaḥ_). Then, O King, a tremendous uproar arose upon that mountain (_sannādaḥ sumahān ... tasmin śaile ’bhyavartata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.15.1–3 (Kubera Summons General Maṇibhadra)**
+
+Introducing Sarga 15 as ‘the seizure of Puṣpaka’ (अथ पुष्पकग्रहः, **Rāma Varmā**), the narrative resumes directly after Rāvaṇa’s slaughter of Sūryabhānu and the yakṣas’ rout in Sarga 14. All three commentators—**Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_)—identify माणिचारम् in 7.15.1d as Kubera’s chief commander Maṇibhadra (माणिचारो माणिभद्रः), while Tilaka and Śiromaṇi normalize the epic absolutive लक्ष्य as लक्षयित्वा (‘having perceived’). Charged to become the shelter (शरणमाश्रयः, Śivasahāya) of his beleaguered warriors, Maṇibhadra leads four thousand elite yakṣas back into the fray.
+
+_____________
+
+**7.15.4–5 (Hawk-Like Fury and Elliptical Battle-Cries)**
+
+Wielding six heavy shock weapons—maces, pestles, darts, spears, javelins, and hammers—the yakṣas counterattack with hawk-like speed (श्येनवल्लघु क्षिप्रम्). **Śivasahāya** supplies the implied martial objects behind each abrupt, clipped cry in 7.15.5cd: ‘Give me combat!’ (प्रयच्छ युद्धमिति शेषः), ‘I have no wish to turn back!’ (नेच्छामि निवर्तितुमिति शेषः), and ‘Yield your weapon—or let this foe’s weapon be hewn down!’ (दीयतां स्वशस्त्रम् ... छिद्यतामस्य शस्त्रमिति शेषः). Such staccato imperatives vividly convey the breathless din of hand-to-hand melee.
+
+_____________
+
+**7.15.6 (Celestial Spectators of the Tumult)**
+
+Hovering in the sky above Kailāsa, the gods, gandharvas, and Vedic seers (_brahmavādinaḥ_) watch the clash in supreme amazement (परं विस्मयमागमन्). Although omitted in the Baroda CE, verses 7.15.5–6 heighten the heroic mood (_vīra-rasa_) in the Southern Recension: by building up the ferocity and discipline of Maṇibhadra’s counteroffensive before heaven’s eyes, the poet sharpens the dramatic shock of the very next verses, where Rāvaṇa’s ministers annihilate all four thousand yakṣas in an instant.
+
+_____________
+
+**7.15.7–8 (Exact Annihilation of Four Thousand Yakṣas)**
+
+The poet tallies the rout with stark precision: Prahasta slays one thousand, Mahodara another thousand, and the battle-hungry Mārīca fells the remaining two thousand in a single blink (निमेषान्तरमात्रेण)—erasing Maṇibhadra’s entire division. **Śivasahāya** (_Śiromaṇi_) summarizes each commander’s toll verbatim, underscoring the lethal stature of Rāvaṇa’s senior generals (all of whom Rāma’s host would later confront in Book VI). Agastya’s framing vocatives राजन् (7.15.8) and पुरुषव्याघ्र (7.15.9) gently remind the listener that this ancient campaign is being narrated in Rāma’s court.
+
+_____________
+
+**7.15.9 (Straightforward Valor Versus Demonic Māyā)**
+
+Pausing mid-battle, Agastya explains why righteous bravery succumbed so abruptly. **Śivasahāya** unfolds the rhetorical idiom क्व च ... क्व च: an unbridgeable gulf (अनयोर्महदन्तरम्) divides the candid, straightforward fighting of the yakṣas (यक्षाणामार्जवं सरलता यस्मिंस्तद्युद्धम्) from the rākṣasas’ reliance on deceptive sorcery (मायाबलाश्रयम्). Precisely for that reason, ते—explicitly glossed as the rākṣasas (ते राक्षसाः) by **Rāma Varmā** (_Tilaka_)—proved superior in combat, foreshadowing Rāvaṇa’s own resort to _māyā_ against Kubera later in this sarga.
+
+_____________
+
+**7.15.10–12 (Maṇibhadra Fells Dhūmrākṣa, Provoking Rāvaṇa)**
+
+Undismayed though his troops lie slain, Maṇibhadra proves his individual mettle against Dhūmrākṣa. Absorbing a furious pestle-blow on the chest without flinching (उरसि मुसलेन ताडितोऽपि न कम्पितः, **Śivasahāya**), he grips and swings his mace firmly (गदां समाविध्य दृढं गृहीत्वा, Śivasahāya) to crack Dhūmrākṣa’s skull. Seeing his commander drop blood-drenched to the earth (पतितं शोणितोक्षितम्), Rāvaṇa personally storms into the duel, escalating the battle toward its climactic encounter between brothers.
+
+_____________
+
+**7.15.13–15 (The Etiology of Pārśvamauli)**
+
+Pierced by Maṇibhadra’s three spears, Rāvaṇa retaliates with his mace—explicitly supplied as गदया by both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_)—smashing Maṇibhadra’s crown (मुकुटस्थले) askew to one side (एकपार्श्वमागतम्). On line 15ab, Govindarāja clarifies that though hard-pressed by the battling Maṇibhadra, Rāvaṇa stood unshaken (युध्यमानेन माणिभद्रेण विष्टब्धो निरुद्धो न व्यकम्पत), leaving the yakṣa forever named _Pārśvamauli_. Rāma Varmā identifies the ensuing roar (संनादः) as the rākṣasas’ shout (रक्षसाम्), while **Śivasahāya** (_Śiromaṇi_) links it to Maṇibhadra’s retreat from battle.
+
+_____________
+
+**7.15.16 (Kubera’s Retinue of Treasures and Ministers)**
+
+Drawn by the tumult on Kailāsa, Kubera himself enters the battlefield mace in hand. All three commentators carefully distinguish the two pairs flanking him: **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** concur that पद्मशङ्खसमावृतः denotes the presiding deities of the divine _nidhis_ Padma and Śaṅkha (शङ्खपद्मनिध्यभिमानिदेवैर्वृतः), while Tilaka and Śiromaṇi identify Śukra and Prauṣṭhapada as treasure-guarding ministers (निधिरक्षकमन्त्रिभ्याम्) and Bhūṣaṇa glosses them simply as counsellors (मन्त्रिणौ). Advancing with these sacred guardians rather than sorcery, Kubera embodies legitimate royal sovereignty confronting usurping aggression.
+
+_____________
+
+**7.15.17–18 (Viśravas’s Curse and the Warning of Hell)**
+
+All three commentators explain शापाद्विभ्रष्टगौरवम् in 7.15.17 by recalling Viśravas’s prenatal pronouncement to Kaikasī (Sarga 9) that her sons would be fierce of nature (पितृकृतदारुणस्वभावो भविष्यतीति शापात्), leaving Rāvaṇa devoid of the reverence due an elder (वन्दनादिप्रयोजकज्येष्ठगौरवरहितम्). Speaking words befitting Brahmā’s line (पैतामहे कुले उत्पत्तेः), Kubera warns in 7.15.18 that spurning restraint from evil (असद्वृत्तात्, Tilaka) will bring bitter remorse once Rāvaṇa’s transgressions ripen in hell (परिपाकं प्राप्य ... परितप्स्यसे).
+
+_____________
+
+**7.15.19 (The Maxim of Swallowed Poison)**
+
+Answering the implicit objection—how can deeds bring hell if the doer perceives no sin in them?—**Śivasahāya** (_Śiromaṇi_) explains 7.15.19 as a proof of objective karma: just as a fool who swallows poison out of ignorance (अविवेकात्) detects no harm at the moment, yet discovers its lethality once digestion completes (परिणामान्ते रूपान्तरप्राप्तौ), so too even unrecognized wrongdoing inevitably yields its fruit (अज्ञातस्यापि कर्मणः फलं भवतीति सिद्धम्). **Rāma Varmā** (_Tilaka_) likewise calls this a _dṛṣṭānta_ (illustrative analogy) of harm perceived only upon karmic maturation.
+
+_____________
+
+**7.15.20 (Divine Aversion and Moral Blindness)**
+
+The commentators offer two illuminating constructions of 7.15.20. **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) take धर्मयुक्तेन with Rāvaṇa’s absent virtue: because dharma has vanished from him, the gods—Brahmā, Rudra, and the rest—turn away from him (धर्माभावात्त्वयि विमुखा भवन्ति), and through that divine estrangement (देवतावैमुख्येन) he has been reduced to such cruelty (क्रूरं भावम्) that he cannot see his doom. **Śivasahāya** instead links धर्मयुक्तेन to the dharma-abiding gods who take no delight in Rāvaṇa’s violence against sages, signaling that his hour of ruin has arrived (तव विनाशकालः संप्राप्त इति सूचितम्).
+
+_____________
+
+**7.15.21–24 (Reverence for Elders and the Impermanent Body)**
+
+On 7.15.21, **Rāma Varmā** notes that ‘mother, father, and teacher’ stand as synecdoche for all venerable elders (मात्रादिपदं पूज्योपलक्षणम्)—pointedly including Kubera himself—while **Śivasahāya** observes that scorning them delivers the offender to Yama. On 7.15.22, all three gloss तपोर्जनम् as earning austerity (तपःसंपादनम्, specified by Śivasahāya as penance pleasing to the Supreme Self, परमात्मतोषकतपसः संग्रहम्) before this fleeting body perishes. Verses 7.15.23–24, preserved in Govindarāja’s recension, crystallize Kubera’s discourse into two crisp _subhāṣita_ maxims on dharma and self-inflicted suffering.
+
+_____________
+
+**7.15.25–26 (Right Mind Born of Service and Merit)**
+
+Explaining why Rāvaṇa’s intellect remains blinded, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) all converge on छन्दतः in 7.15.25: wholesome wisdom (शुभमतिः) never arises by mere self-will (स्वेच्छामात्रेण) without humble service to parents and teachers (पितृमात्रादिसेवां विना / गुर्वादिसेवामन्तरा). Deprived of such discipline, the fool reaps the exact fruit of forbidden acts—underscored by the proverbial line 25cd on fate’s compulsion—whereas intelligence, beauty, sons, and valor (7.15.26) are won solely through meritorious deeds (पुण्यकर्मभिः).
+
+_____________
+
+**7.15.27–28 (Severing Speech and Routing the Ministers)**
+
+Concluding his moral rebuke, Kubera declares that silence is the sole settled verdict toward the incorrigibly wicked—glossed uniformly by all three commentators as असद्वृत्तेषु सतां भाषणाभाव एव निर्णयः. Remarkably, reading passive plural एवमुक्ताः in 7.15.28, **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** all construe it to mean that Rāvaṇa’s ministers—Mārīca and the rest—were told they too were unworthy of discourse like their master (रावणवदेव यूयमप्यसंभाष्या इत्युक्ताः) before Kubera’s fierce blows drove them turning their backs in rout across the mountainside.
+
+_____________
+
+**7.15.29–30 (The Brothers Locked in Stalemate)**
+
+Immediately after scattering the ministers (ततो विद्रावणानन्तरम्, **Śivasahāya**), Kubera brings his heavy mace crashing down upon Rāvaṇa’s head, yet the boon-fortified king refuses to budge even a single step (स्थानान्न प्रकम्पितः). Verse 7.15.30 portrays the fratricidal duel at peak physical equilibrium: trading thunderous blows in close quarters, neither wrathful half-brother yields to dizziness or exhaustion (न विह्वलौ न च श्रान्तौ), proving Rāvaṇa’s immense physical resilience and compelling Kubera to escalate from maces to celestial missiles.
+
+_____________
+
+**7.15.31–32 (Elemental Missiles and Descent into Illusion)**
+
+Shifting from hand-to-hand combat to divine astras, Kubera launches the fire-missile (आग्नेयमस्त्रम्), which Rāvaṇa neutralizes with Varuṇa’s water-missile (वारुणेन). Unable to break his brother cleanly, Rāvaṇa resorts to demonic sorcery (राक्षसीं मायाम्). **Govindarāja** (_Bhūṣaṇa_) glosses मायां प्रविष्टः as becoming invisible (अदृश्यत्वं प्राप्तः), while **Rāma Varmā** (_Tilaka_) specifies विनाशाय as ‘for Dhanada’s destruction’ (धनदनाशाय) and **Śivasahāya** (_Śiromaṇi_) as ‘for the ruin of his foes’ (अरीणां विध्वंसाय), unleashing a hundred thousand phantoms.
+
+_____________
+
+**7.15.33–34 (The Protean Phantasmagoria)**
+
+Verses 7.15.33–34 enumerate eight shifting guises—tiger, boar, storm-cloud, mountain, ocean, tree, yakṣa, and daitya—spanning beast, inanimate nature, and superhuman spirit. Both **Rāma Varmā** and **Śivasahāya** untangle the compressed clause बहूनि च करोति स्म दृश्यन्ते न त्वसौ in 7.15.34ab: Rāvaṇa kept fabricating manifold illusory forms (बहूनि मायारूपाणि), and only those conjured tigers and phantoms remained visible to the eye, never Rāvaṇa’s own true body (मायाप्रयुक्तव्याघ्रादय एव दृश्यन्ते न त्वसौ), screening his ambush from Kubera’s sight.
+
+_____________
+
+**7.15.35 (Kubera Felled Like an Aśoka Tree)**
+
+Connecting 7.15.34cd directly to 35ab, **Śivasahāya** identifies the महदस्त्रम् seized by Rāvaṇa as the colossal mace itself (महदस्त्रं गदां प्रतिगृह्य व्याविध्य प्रक्षिप्य धनदं मूर्ध्नि जघान). Blind-sided from within _māyā_, Kubera collapses blood-soaked to the earth—confirming Agastya’s earlier judgment in 7.15.9 that rākṣasa deceit alone overcame yakṣa valor. Vālmīki’s poignant _upamā_—कृत्तमूल इवाशोकः (‘like an _aśoka_ tree cut at its root’, glossed तदभिधवृक्ष इव by Śivasahāya)—pairs Kubera’s scarlet blood with crimson blossoms while echoing the sorrow (_śoka_) now befalling Alakā.
+
+_____________
+
+**7.15.36 (Revival by the Divine Nidhis and Ārṣa Sandhi)**
+
+As Kubera falls unconscious, his guardian Treasures immediately intervene. **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) all gloss निधिभिः as the presiding deities of the divine _nidhis_ (निधिदेवताभिः), who convey Kubera to the celestial Nandana grove and restore his breath (नन्दनमानीय उच्छ्वासितः). Remarkably, all three commentators pause on the striking coalescence धनदोच्छ्वासितः (for धनद उच्छ्वासितः) to register it explicitly as an archaic epic sandhi (सन्धिरार्षः).
+
+_____________
+
+**7.15.37 (Puṣpaka Seized as a Trophy of Conquest)**
+
+Exulting over his humbled elder brother, Rāvaṇa appropriates Puṣpaka. Both **Rāma Varmā** and **Govindarāja** gloss जयलक्षणम् as ‘a visible token proclaiming his victory’ (जयचिह्नम्, supplying ख्यापयन्तीति शेषः), underscoring that Rāvaṇa claims the celestial car not merely as spoil, but as a monument to his triumph over a World-Guardian. **Śivasahāya** construes the entire five-verse expanse from 7.15.37 through 7.15.41 as one grand periodic sentence (श्लोकपञ्चकमेकान्वयि) governed by तस्य विमानं जग्राह.
+
+_____________
+
+**7.15.38–39 (Jeweled Splendor of the Flying Palace)**
+
+Beginning a lavish five-verse ekphrasis of the chariot that Rāma himself will one day ride back to Ayodhyā (and return to Kubera in Sarga 41), Vālmīki fuses celestial architecture with living magic. **Śivasahāya** unpacks each compound systematically: वैडूर्यमणितोरणम् denotes outer portals of cat’s-eye gem (बहिर्द्वारम्), सर्वकामफलद्रुमम् wish-yielding trees growing aboard it, and तप्तकाञ्चनवेदिकम् platforms of refined gold; interestingly, he reads कामरूपं विहङ्गमम् as a _bahuvrīhi_ (‘housing shape-shifting birds’), alongside the simpler sense of a shape-shifting sky-chariot.
+
+_____________
+
+**7.15.40–41 (Brahmā’s Masterpiece and All-Season Comfort)**
+
+Completing the five-verse portrait of Puṣpaka, both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) clarify ब्रह्मणा परिनिर्मितम् in 7.15.40d: Brahmā caused the vehicle to be fashioned through the divine artisan Viśvakarman (ब्रह्मणा विश्वकर्मणा परिनिर्मापितम्). Śivasahāya glosses भक्तिचित्रम् as adorned with well-proportioned architectural chambers (यथोचितगृहविभागेन चित्रम्), and explains न शीतं न चोष्णम् in 7.15.41cd as free from extremes of biting cold or scorching heat (अतिशीतभिन्नम् ... अत्युष्णभिन्नम्), keeping it comfortable across every season.
+
+_____________
+
+**7.15.42 (The Intoxication of Hubris and Kataka’s Count)**
+
+Boarding the self-moving car won by force (वीर्यनिर्जितम्), Rāvaṇa yields completely to swollen pride (दर्पोत्सेकात्सुदुर्मतिः): having felled his elder brother, he imagines all three worlds already subdued (त्रिभुवनं जितं मेने, **Śivasahāya**), and descends from Kailāsa straight toward his humiliating encounter with Śiva in Sarga 16. At the sarga’s end, **Rāma Varmā** records that the ancient exegete **Kataka** counted only thirty-three verses in Sarga 15 (त्रयस्त्रिंशच्छ्लोकसंख्यामत्र सर्गे लिलेख), closely echoing the shorter text preserved in Baroda CE.
+
+_____________
+
+**7.15.43 (The Puṣpitāgrā Finale—Fire in the Hall)**
+
+Shifting from _Anuṣṭubh_ into the stately lyric rhythm of _Puṣpitāgrā_, Vālmīki seals the sarga with a luminous closing tableau. **Śivasahāya** paraphrases the stanza concisely: gleaming with spotless diadem and garlands (विमलकिरीटहारवान्) after winning his vast triumph, Rāvaṇa shines atop the supreme aerial car like a bright fire set within an assembly hall (सदसि गतः सन् अनल इव रराज). The image captures Rāvaṇa’s perilous grandeur—dazzling in sovereign splendor, yet a consuming flame poised to scorch the cosmos.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

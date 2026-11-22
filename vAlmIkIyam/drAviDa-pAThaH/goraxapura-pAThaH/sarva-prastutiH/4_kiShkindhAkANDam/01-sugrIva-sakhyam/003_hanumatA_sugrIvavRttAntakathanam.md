@@ -233,6 +233,134 @@ on making reverent obeisance to both of them. [4-3-4b, 5a]
 
 **5:** —spoke a gentle speech in accordance with [Sugrīva&#x27;s] wish (_kāmataḥ_) to those two of unfailing valor, who resembled royal sages and gods (_rājarṣidevapratimau_), two ascetics of sharpened vows (_saṃśitavratau_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.3.1–2 (Why Hanūmān Took a Mendicant's Guise)**
+
+**Govindarāja** (_Bhūṣaṇa_) frames Sarga 3 as the mediating office of the spiritual preceptor (आचार्यकृत्यं दर्शयति तृतीये) and glosses भिक्षुरूपम् as a renunciant's garb (संन्यासिवेषम्) assumed through strategic guile (वञ्चकबुद्धितया). **Rāma Varmā** (_Tilaka_) takes शठबुद्धितया as wary distrust (अविश्वस्तबुद्धितया), while **Śivasahāya** (_Śiromaṇi_) explains that since monkeys are proverbially deemed tricksters (लोके वानराणां शठबुद्धित्वम्), Hanūmān concealed his ape form lest Rāma decline to speak with him.
+
+_____________
+
+**4.3.3–4 (A Mendicant Bowing to Princes)**
+
+Addressing why a mendicant bowed (प्रणिपत्य) to householders, **Govindarāja** rejects theories that Hanūmān forgot his guise in wonder or was merely a _brahmacārin_, concluding that a renunciant may rightly bow to those superior in wisdom (ज्ञानाधिकं दृष्ट्वा).
+
+_____________
+
+**4.3.5–6 (कामतः and वरवर्णिनौ)**
+
+**Rāma Varmā** glosses कामतः as speaking freely within Sugrīva's mandate (सुग्रीवोपदेशाविरुद्धस्वेच्छातः) and वरवर्णिनौ as foremost of celibates (ब्रह्मचारिश्रेष्ठौ), whereas **Govindarāja** takes कामतः as out of heartfelt devotion (भक्त्या).
+
+_____________
+
+**4.3.7 (Searching round Pampā)**
+
+**Rāma Varmā** (_Tilaka_) notes that समन्ततो वीक्षमाणौ hints that the princes are searching for something (किंचिद्वस्त्वन्वेषमाणाविव). Since Pampā is a lake (सरस्), **Govindarāja** (_Bhūṣaṇa_) justifies calling it नदीम् because mountain-streams feed its current (पर्वतझरप्रवाहवत्त्वेन नदीत्वमविरुद्धम्), while **Rāma Varmā** cites its vast expanse (विस्तृतत्वेन नदीत्वोपचारः).
+
+_____________
+
+**4.3.8 (Reconciling सुवर्णाभौ)**
+
+Since Rāma is dark-complexioned (श्याम) and Lakṣmaṇa golden (पीतवर्ण), **Govindarāja** explains the dual सुवर्णाभौ (`golden-hued') via _chatrinyāya_ (छत्रिन्यायात्), whereas **Śivasahāya** (_Śiromaṇi_) analyzes सुवर्ण as `of noble hue' (सुष्ठु वर्णः), covering both dark and fair complexions. On पीडयन्ताविमाः प्रजाः, **Govindarāja** explains that their novel sight scatters forest beasts (अपूर्वदर्शनेन विद्रावकौ), while **Śivasahāya** adds that their sorrowful sighs grieve the onlookers.
+
+_____________
+
+**4.3.9–12 (Beauty versus Martial Radiance)**
+
+**Govindarāja** rules out tautology between श्रीमन्तौ (`graced with beauty') and द्युतिमन्तौ (`resplendent with martial luster,' तेजस्तु श्रियो भिन्नमिति न पुनरुक्तिः), construing 4.3.11c–14b together to contrast royal sovereignty with forest exile (राज्यभोग एवोचितः न तु वनवासः).
+
+_____________
+
+**4.3.14–15 (The Plural बाहवः and सर्वभूषणभूषार्हाः)**
+
+**Govindarāja** (_Bhūṣaṇa_) offers three reasons for the plural बाहवः: Lakṣmaṇa is Rāma's right arm (लक्ष्मणस्य रामबाहुत्वात्), Hanūmān's devotion beheld Rāma in four-armed form (चतुर्भुजवेषेण दृश्योऽभवत्), or two men possess four arms combined (द्वयोर्बाहुचतुष्टयवत्त्वात्). On सर्वभूषणभूषार्हाः, he explains that their limbs adorn the very ornaments they wear (भूषणान्यपि भूषयितुमर्हाः) or that their unadorned beauty is even more captivating (निरावरणसौन्दर्यदर्शनम्).
+
+_____________
+
+**4.3.16–17 (Gold-Inlaid Bows and Four Quivers)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss चित्रानुलेपने as lacquered with liquid gold (स्वर्णजलभूषणे). **Govindarāja** explains the plural तूणाः (`quivers') by noting that each bowman wears two quivers, one on either side (एकैकस्य पार्श्वद्वयेऽपि तूणीरद्वयसत्त्वात्).
+
+_____________
+
+**4.3.18 (Length and Breadth of the Swords)**
+
+Linking verse 18 to खड्गावेतौ (4.3.19a), **Govindarāja** distinguishes महाप्रमाणौ as length (दीर्घत्वम्) from विपुलौ/विस्तीर्णौ as breadth (विशालता), glossing तप्तहाटकम् as molten gold (द्रुतकनकम्), while **Śivasahāya** glosses तप्तहाटकभूषणौ as chased with liquid gold (द्रुतस्वर्णलिखितौ).
+
+_____________
+
+**4.3.19 (Serpents Shedding Their Slough)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss निर्मुक्तभुजगाविव as like serpents that have cast off their sloughs (मुक्तकञ्चुकौ) and read 2nd dual नाभिभाषथः (`why do you two not reply?'). Reading नाभिभाषतः, **Govindarāja** (_Bhūṣaṇa_) explains the ending as an _ārṣa_ substitution for 2nd dual _ātmanepada_ नाभिभाषेथे (व्यत्यय आर्षः).
+
+_____________
+
+**4.3.20–21 (Disclosing Sugrīva's Plight)**
+
+**Govindarāja** observes that seeing the brothers remain silent despite his graceful praise (स्ववाक्सौष्ठवेन तूष्णींभूतौ दृष्ट्वा), Hanūmān states his errand (स्वकार्यमावेदयति). **Rāma Varmā** notes that Hanūmān extols Sugrīva first to show his nobility (सुग्रीवस्याक्षुद्रत्वबोधनाय), glossing विनिकृतः as expelled (निरस्तः; **Śivasahāya**: निःसारितः; **Govindarāja**: defrauded, वञ्चितः).
+
+_____________
+
+**4.3.22–24 (Diplomatic Silence)**
+
+**Śivasahāya** distinguishes वाक्यज्ञः as knowing the purport of speech (वाक्यतात्पर्यज्ञाता) from वाक्यकुशलः as skilled in delivery (वाक्यप्रयोगे निपुणः), while **Govindarāja** explains that Hanūmān fell silent wishing to hear their reply (तद्वचनश्रवणेच्छया) after accounting for his mendicant guise (कथं भिक्षुरूपो).
+
+_____________
+
+**4.3.25–27 (Royal Protocol in Addressing Envoys)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that since statecraft forbids a sovereign from replying directly to a minister (मन्त्रिणा स्वामिनो वचनं न नीतिः), Rāma deputes Lakṣmaṇa, and notes that अभ्यभाष is an _ārṣa_ imperative for अभिभाषस्व (अडागमपरस्मैपदे आर्षे).
+
+_____________
+
+**4.3.28 (The Three Vedas in Hanūmān's Speech)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** explain the three distinct epithets: the _Ṛgveda_ requires disciplined phonetic training (प्रातिशाख्यादिज्ञानपूर्वकाभ्यासः), the _Yajurveda_ requires retaining prose formulas without confusion (धारणस्य दुष्करत्वात्), and the _Sāmaveda_ demands mastery of intricate chants (गानविशेषाणां दुर्विज्ञेयत्वात्). **Govindarāja** further traces Hanūmān's praises to the _Aitareya_, the _Yajurveda_ (अजायमानो बहुधा विजायते), and the _Chāndogya_ (यथा कप्यासं पुण्डरीकमेवमक्षिणी).
+
+_____________
+
+**4.3.29 (Mastery of Grammar)**
+
+**Govindarāja** explains that श्रुतम् (`studied') accounts for avoiding solecisms, कृत्स्नम् (`complete') ensures faultlessness across stems, suffixes, compounds, and sandhi (प्रकृतिप्रत्ययसमाससंध्यादिषु), and बहुधा (`repeatedly') rules out slips from a single hearing (एकवारश्रवणे), while **Rāma Varmā** notes that grammatical correctness includes logic governing word and meaning (पदतदर्थस्वरूपनिर्णयोपयोगिन्यायसहितम्).
+
+_____________
+
+**4.3.30 (Composure and the Śikṣā Vedāṅga)**
+
+**Rāma Varmā** (_Tilaka_) notes that Hanūmān's bodily gestures confirm his trustworthiness (इङ्गितैरप्यसौ विश्वासयोग्यः). **Govindarāja** (_Bhūṣaṇa_) remarks that verses 30–33 celebrate Hanūmān's mastery of phonetics (शिक्षा चानेन श्रुता), quoting the _Śikṣā_ censure of head-shaking reciters (गीती शीघ्री शिरःकम्पी... षडेते पाठकाधमाः).
+
+_____________
+
+**4.3.31–32 (Madhyamā, Vaikharī, and Phonetic Virtues)**
+
+**Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) explain उरःस्थम् as speech resting in the chest as _madhyamā_ (मध्यमारूपेण) and कण्ठगम् as issuing from the throat as _vaikharī_ (वैखरीत्वेन), glossing अव्यथम् as free from ear-grating syllables (अश्रुतिकटुवर्णम्). **Govindarāja** quotes the _Śikṣā_'s six elocutionary virtues (माधुर्यमक्षरव्यक्तिः), glossing संस्कार as grammatical purity (शब्दशुद्धिः) and क्रम as syllabic sequence (वर्णानां क्रमिकता).
+
+_____________
+
+**4.3.33–34 (The Three Vocal Registers and Envoy Craft)**
+
+On त्रिस्थानव्यञ्जनस्थया, **Rāma Varmā** notes that manifestation across chest, throat, and head (उरःकण्ठशिरःसु) intimates the eternal _sphoṭa_ (नित्य एव स्फोटरूपः शब्दः). **Govindarāja** adds that Hanūmān's diplomatic genius lies in asking after Rāma's lineage and exile under the guise of praise (अस्मत्प्रशंसाव्याजेन).
+
+_____________
+
+**4.3.35–36 (Triumph Through an Envoy's Speech)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that verse 35 restates positively (अन्वयमुखेन) what verse 34 stated negatively: such an envoy accomplishes royal aims by his words alone without requiring his master's effort (दूतवाक्यमूला एव सिध्यन्ति न प्रधानापेक्षाः). **Śivasahāya** (_Śiromaṇi_) sees here Rāma's deep affection for Hanūmān (हनुमति रामस्य प्रीत्यतिशयः), while **Govindarāja** notes on वाक्यज्ञो वाक्यज्ञम् that Lakṣmaṇa matched Hanūmān's eloquence.
+
+_____________
+
+**4.3.37–38 (Seeking Sugrīva Together)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** gloss नौ as `to us two' (आवयोः) and मार्गावः as `we two seek' (मार्गयावः, अन्वेषयावः). **Govindarāja** notes the honorific vocative विद्वन् (`O learned one!') and reads 4.3.38 as the Lord's pledge to act at the preceptor's word (आचार्याभिमाननिष्ठाः).
+
+_____________
+
+**4.3.39 (Confidence in Victory)**
+
+**Rāma Varmā** supplies `of Sugrīva' (सुग्रीवस्य) with जयोपपत्तौ and takes ताभ्याम् as between Rāma and Sugrīva (रामसुग्रीवाभ्याम्), while **Govindarāja** specifies victory over Vālin (वालिजयोपपत्तिनिमित्तम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

@@ -702,6 +702,98 @@ Ravana not yet seen."
 
 “Therefore I shall put forth supreme effort (_yatnaṃ ceṣṭe &#x27;ham uttamam_) born of undaunted resolve (_anirvedakaraṃ_), and I shall search the places guarded by Rāvaṇa (_deśān rāvaṇapālitān_) that I have not yet seen (_adṛṣṭān_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.12.1–2 (Pleasure-Bowers and Foreboding for Sītā)**
+
+Śivasahāya (_Śiromaṇi_) defines the three pleasure-structures of Rāvaṇa's palace: लतागृहान् are bowers roofed with creepers (लताच्छादितवेश्मानि), चित्रगृहान् are galleries adorned with diverse paintings (अनेकविधचित्रलिखितभवनानि), and निशागृहान् are sleeping pavilions (रात्रिनिवासयोग्यभवनानि). Govindarāja (_Bhūṣaṇa_) cites the lexical rule गृहाः पुंसि च भूम्न्येव to explain the masculine plural endings, and on 5.12.2c Rāma Varmā (_Tilaka_) glosses न ध्रियते as न जीवति स्म, noting the variant ध्रुवं हि सीता म्रियते.
+
+_____________
+
+**5.12.3–4 (Death by Rāvaṇa's Cruelty or by Fright)**
+
+Rāma Varmā and Śivasahāya explain प्रतिदुष्टकर्मणा as one whose deeds are wicked toward everyone (सकलसज्जनानर्थकारिणा / सर्वं प्रति दुष्टाचरणेन), while Govindarāja takes प्रति in the intensive sense of _vīpsā_ (अतिदुष्टकर्मणा वीप्सायां प्रतिः). Anticipating why Rāvaṇa might not have killed Sītā himself, Rāma Varmā notes that in verse 4 Hanumān surmises she died of sheer fright upon seeing Rāvaṇa's hideous female guards (राक्षसराजयोषितस्तदाज्ञाकारिणीः), whose eyes (दर्शनानि चक्षूंषि, _Bhūṣaṇa_) are long and deformed.
+
+_____________
+
+**5.12.5–6 (The Expired Time-Limit and Sugrīva's Wrath)**
+
+All three commentators gloss विहृत्य कालं as having overstepped the one-month time limit fixed by Sugrīva (सुग्रीवकृतं कालमतिक्रम्य), and पौरुषं as the fruit of manly exertion (समुद्रलङ्घनरूपपराक्रमसाध्यं प्रयोजनम्, _Tilaka_), concluding that because Sugrīva inflicts severe punishment (सुतीक्ष्णदण्डः), returning to him empty-handed is impossible (सुग्रीवसमीपगतिः मयाग्राह्येत्यर्थः).
+
+_____________
+
+**5.12.7–8 (Shame Before the Search Party and Fasting Unto Death)**
+
+Rāma Varmā (_Tilaka_) explains the progression from verse 5: even setting aside Sugrīva, Hanumān shrinks from facing Aṅgada and the waiting monkeys (अस्तु सुग्रीवसमीपगमनवार्ता, अङ्गदादिसमीपगमनमपि दुर्लभम्). On 5.12.8c, Rāma Varmā and Śivasahāya (_Śiromaṇi_) read 1st singular प्रायमुपासिष्ये (`I myself shall fast unto death'), whereas Govindarāja (_Bhūṣaṇa_), reading 3rd plural प्रायमुपैष्यन्ति, supplies Jāmbavān and the monkeys on the northern shore as the subject (जाम्बवत्प्रभृतय इति शेषः).
+
+_____________
+
+**5.12.9 (Facing Jāmbavān and Aṅgada)**
+
+Rāma Varmā glosses किं वा वक्ष्यति as `how deeply will they reproach me!' (मां धिक्करिष्यतीत्यर्थः), while Śivasahāya notes the change of grammatical number (वचनविपरिणामेनान्वयः) required to supply plural वक्ष्यन्ति for वानराश्च. Govindarāja offers two explanations: either `what can they possibly say to fault me when I have crossed the ocean?' or, citing Amara (किं पृच्छायां जुगुप्सने), `what words of censure (जुगुप्सितं) will Jāmbavān and Aṅgada utter?'
+
+_____________
+
+**5.12.10–12 (The Maxim of Anirveda)**
+
+After a moment's despondency (एवं क्षणमात्रं निर्विद्य), Hanumān embraces perseverance (अनिर्वेदः उत्साहः). Rāma Varmā defines अनिर्वेदः as the buoyant readiness of the faculties to act (करणग्रामस्य प्रहर्षेण कार्ये सद्भाव उत्साहः), and glosses अनिर्वेदकरं यत्नं (12a) as effort that generates enthusiasm and steadiness of mind (उत्साहजननं यत्नं चित्तस्थैर्यं), whereas Govindarāja (reading अनिर्वेदकृतं) and Śivasahāya explain it as effort prompted by perseverance (तत्प्रयुक्तं / अनिर्वेदेनोत्थापितं).
+
+_____________
+
+**5.12.13–14 (Taking Stock of the Search)**
+
+Śivasahāya (_Śiromaṇi_) explains Hanumān's reflection (इति संचिन्त्य): since the drinking halls, flower-bowers, and garden lanes (निष्कुटान्तररथ्याः गृहारामवीथ्यः) have already been searched, he must now examine other types of structures (अतः अन्यत्र विचेतव्यमित्यर्थः); Govindarāja (_Bhūṣaṇa_), however, supplies the thought: `Although these have been searched, I shall search them yet again' (एता विचिताः अथापि पुनर्विचेष्यामीत्यध्याह्रियते).
+
+_____________
+
+**5.12.15 (Subterranean Vaults and Gṛhātigṛhakān)**
+
+All three commentators define the three architectural terms: भूमीगृहान् are subterranean vaults (बिलगृहान्, _Tilaka_; भुवोऽन्तराले निर्मितभवनानि, _Śiromaṇi_), and चैत्यगृहान् are pavilions at four-way crossroads (चतुष्पथमण्डपान्, _Bhūṣaṇa_). For गृहातिगृहकान्, both Rāma Varmā (_Tilaka_) and Śivasahāya cite two preceptors: Kataka takes them as upper-story chambers (गृहोपरिगृहा इति कतकः), whereas Tīrtha explains them as secluded pleasure-retreats built at a small distance beyond the main apartments (गृहानतीत्यानतिदूरे स्वैरविहारार्थं निर्मितगृहा इति तीर्थः).
+
+_____________
+
+**5.12.16–17 (Exhaustive Inspection of Every Four Finger-Breadths)**
+
+Govindarāja distinguishes the pairs of participial actions: उत्पतन् निपतन् denotes climbing high structures and descending (उच्चस्थानान्यधिरुह्य ततोऽवरोहन्), while प्रपतन्नुत्पतन् denotes plunging first into underground vaults (बिलगृहादीनि नीचस्थानानि) and springing back up. Rāma Varmā glosses अवघट्टयन् as closing or pushing back door-panels (संवरणम्), whereas Govindarāja (reading अवघाटयन्) glosses it as forcing them open (पाटयन्).
+
+_____________
+
+**5.12.18ab (Rampart Avenues and Crossroads Tree-Platforms)**
+
+Rāma Varmā (_Tilaka_) defines प्राकारान्तरवीथ्यः as the streets running between the rampart walls where the mansions of the ministers and princes stand (प्राकारमध्यवर्तिमन्त्रिकुमारादिगृहवीथ्यः). All three commentators explain चैत्य here not as a building (as in 5.12.15a) but as a sacred tree standing at a crossroads (चैत्यः चतुष्पथवर्ती वृक्षः), so that वेदिकाश्चैत्यसंश्रयाः denotes the masonry platforms built around the base of such trees (चैत्यवृक्षभूमिरूपिकाबन्धाः, _Bhūṣaṇa_).
+
+_____________
+
+**5.12.18cd (Pits vs. Oblong Lagoons)**
+
+Rāma Varmā glosses श्वभ्राः as subterranean pits or chasms (गर्ताः), whereas Govindarāja (_Bhūṣaṇa_) records the variant दीर्घिकाः (`oblong garden-lagoons') paired with पुष्करिण्यश्च (`lotus-ponds').
+
+_____________
+
+**5.12.19–21 (The Refrain of Unfulfilled Search)**
+
+Rāma Varmā and Śivasahāya (_Śiromaṇi_) highlight the dramatic contrast structured by the refrain दृष्टा हनुमता तत्र न तु... across verses 19–21: in searching every outer and inner precinct, Hanumān encounters both the hideous female warders of Laṅkā (राक्षस्यो विविधाकाराः) and the most radiant celestial captives—_vidyādhara_ women of matchless beauty (रूपेणाप्रतिमाः) and moon-faced _nāga_ princesses—yet nowhere beholds Rāma's beloved (राघवनन्दिनी रामप्रिया, _Tilaka_).
+
+_____________
+
+**5.12.22 (Non-Tautology of the Two Mentions of Nāgakanyāḥ)**
+
+Addressing why नागकन्याः are mentioned again in verse 22 immediately after verse 21, Rāma Varmā (_Tilaka_) explains that there is no tautology (अतो न पुनरुक्तिः): verse 21 referred to _nāga_ maidens bestowed upon Rāvaṇa as gifts (पूर्वं दत्तानां नागकन्यानां ग्रहणम्), whereas verse 22 (प्रमथ्य... बलाद्धृताः) refers specifically to princesses held as captives after being carried off by force (अनेन बन्दीकृतानां ग्रहणम्). Śivasahāya (_Śiromaṇi_) alternatively takes verse 22 as restating the thought of verse 21 in another manner (तदेव भङ्ग्यन्तरेणाह).
+
+_____________
+
+**5.12.23 (Double Occurrence of Mahābāhuḥ)**
+
+Explaining the repetition of the epithet महाबाहुः in both 23a and 23c, Śivasahāya construes the first महाबाहुः figuratively as `possessed of mighty exertion in the search' (अतिप्रयत्नवान्), while the second retains its literal heroic sense.
+
+_____________
+
+**5.12.24–25 (Fruitless Exertion and Descent from Puṣpaka)**
+
+Śivasahāya glosses वानरेन्द्राणां उद्योगं as the entire search enterprise undertaken by the monkey leaders (अन्वेषणं), alongside Hanumān's own crossing of the ocean (सागरस्य प्लवनं च). Viewing both as rendered fruitless (व्यर्थं वीक्ष्य), Hanumān steps down from the Puṣpaka palace (अवतीर्य विमानाच्च) onto the palace rampart, overwhelmed by grief (शोकोपहतचेतनः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

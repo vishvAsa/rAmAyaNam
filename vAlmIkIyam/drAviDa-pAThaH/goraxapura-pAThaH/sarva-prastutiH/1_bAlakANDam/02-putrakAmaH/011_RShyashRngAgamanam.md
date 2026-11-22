@@ -98,6 +98,14 @@ regarding the era-system of ancient India at endnote.
 
 “Once again, O chief of kings (_rājendra_), hear my salutary words (_vacanaṃ hitam_), just as that wise and foremost of celestial sages (Sanatkumāra) recounted in his discourse:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.1–2 (Why Sumantra Resumes Sanatkumāra’s Prophecy)**
+
+**Rāmavarman (_Tilaka_)** explains the narrative transition at the opening of Sarga 11: having first narrated Sanatkumāra’s ancient prophecy in Sarga 9 and then answered Daśaratha’s parenthetical inquiry in Sarga 10 as to how Ṛṣyaśṛṅga was brought to Aṅga, the aged minister Sumantra now resumes the remainder of Sanatkumāra’s prophecy (_bhūya eva... śṛṇu me vacanaṃ hitam_) specifically to counsel Daśaratha that the King himself must travel in person to bring the sage (_tadānayanārthaṃ mahārājenaiva gantavyam iti bodhayitum_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +249,20 @@ over that Vedic ritual at you behest, for the sake of progeny in my dynasty. [1-
 
 **5:** “‘“I am childless, O righteous-souled one (_anapatyo ’smi dharmātman_); let Śāntā’s husband (Ṛṣyaśṛṅga), at your command (_tvayājñaptaḥ_), conduct a sacrifice for me for the continuation of my lineage (_saṃtānārthaṃ kulasya ca_).”’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.3 (kanyā cāsya mahābhāgā śāntā nāma — Whose Daughter Was Śāntā?)**
+
+A celebrated exegetical point arises on the pronoun _asya_ in v. 3c. **Govindarāja** and **Tilaka** take _asya_ as referring to the King of Aṅga (Romapāda) through adoption, whereas **Śivasahāya (_Śiromaṇi_)** insists that by the Mīmāṃsā rule that a pronoun refers to the principal subject (_sarvanāmnām utsargataḥ pradhānaparāmarśitvam_), _asya_ refers to King Daśaratha: Śāntā was born to Daśaratha and given in adoption to his childless friend Romapāda, as corroborated by _Bhāgavata Purāṇa_ 9.23.7–8 (_romapāda iti khyātas tasmai daśarathaḥ sakhā, śāntāṃ svakanyāṃ prāyacchad ṛṣyaśṛṅga uvāha tām_) and by the ancient _gāthā_ quoted by both **Tilaka** and **Śiromaṇi** under vv. 17–18.
+
+_____________
+
+**11.4–5 (putras tv aṅgasya rājñas tu & anapatyo ’smi)**
+
+To clarify why Romapāda was called _aṅgarāja_ in v. 3, v. 4 notes that he was the son of King Aṅga, eponymous monarch of the Aṅga realm (_aṅganāmakasya_, **Tilaka** and **Śiromaṇi**). In v. 5, Daśaratha’s plea _tvayājñaptaḥ śāntābhartā mama kratum āhareta_ shows why he must approach Romapāda first: since Romapāda is Śāntā’s adoptive father, Ṛṣyaśṛṅga will officiate at Daśaratha’s sacrifice at his father-in-law’s affectionate bidding.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -305,6 +327,14 @@ agniin adhiita... *according to *shruti* scripture.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Having heard that speech of the King and reflected upon it in his own mind (_manasā sa vicintya ca_), that self-possessed monarch (Romapāda) shall grant him Śāntā’s husband, who is blessed with a son (_putravantaṃ śāntābhartāram_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.6 (manasā sa vicintya & putravantaṃ śāntābhartāram)**
+
+$18
 </details>
 </details>
 
@@ -426,6 +456,14 @@ svargo naiva ca naiva ca* There is no way out [in other worlds] for those withou
 
 **9:** “‘For the sake of the sacrifice, for the sake of progeny, and for the sake of heaven (_yajñārthaṃ prasavārthaṃ ca svargārthaṃ ca_); and that lord of the people shall obtain his cherished desire from that chief of the twice-born.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.8–9 (yajñārthaṃ prasavārthaṃ ca svargārthaṃ ca)**
+
+All three commentators join vv. 8–9 as a single syntactic sentence (_ślokadvayam ekavākyam_) explaining the causal chain of Daśaratha’s threefold purpose: he chooses Ṛṣyaśṛṅga for the sacrifice (_yajñārtham = putrakāmeṣṭyartham_), through the sacrifice for progeny (_taddvārā prasavārtham = putrārtham_), and through progeny for the attainment of heaven and deliverance from the debt to the ancestors (_taddvārā svargārtham_), in accordance with the Śruti _nāputrasya loko ’sti_ (“there is no celestial world for one who is sonless,” **Govindarāja** and **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -539,6 +577,14 @@ Please refer endnote for *yuga* / era classification.
 
 “Thus did that foremost of celestial sages, the venerable Lord Sanatkumāra, formerly recount this prophetic narrative in the ancient age of the gods (_purā devayuge_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.11 (purā devayuge)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** gloss _devayuge_ as the ancient _Kṛtayuga_ (_Satyayuga_), when Sanatkumāra originally proclaimed this prophecy before the sages.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -605,6 +651,14 @@ his narration. [1-11-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Therefore, O tiger among men (_puruṣaśārdūla_), go yourself in person (_svayam eva mahārāja gatvā_) with your army and mounts (_sabalavāhanaḥ_), and bring him hither with all due honor (_susatkṛtam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.12–13 (Why Daśaratha Goes in Person & Consults Vasiṣṭha)**
+
+On v. 12, **Tilaka** and **Govindarāja** note that Sumantra insists on _svayam eva_ (“in person, not through a family priest or envoy”) to show supreme reverence to Ṛṣyaśṛṅga. On v. 13 (_anumānya vasiṣṭham_), both commentators explain the delicate ritual etiquette: before inviting another priest to conduct a sacrifice, Daśaratha first recounts Sumantra’s report before his hereditary _purohita_ Vasiṣṭha and obtains his explicit blessing—for otherwise Vasiṣṭha might justly feel slighted (_anyathā mayi purohite sthite yajñārthaṃ katham anyānayanam iti tasya kopaḥ syāt_).
 </details>
 </details>
 
@@ -839,6 +893,14 @@ where that eminent Brahman is there. [1-11-14b, 15a]
 
 Accompanied by the queens of his inner apartments and by his ministers (_sāntaḥpuraḥ sahāmātyaḥ_), he set forth toward the land where that twice-born sage dwelt, crossing forests and rivers stage by stage (_śanaiḥ śanaiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.14 (Why Daśaratha Brings His Queens — sāntaḥpuraḥ)**
+
+Why did Daśaratha travel _sāntaḥpuraḥ_, accompanied by the queens of his inner apartments? **Govindarāja** and **Tilaka** explain that it was both so the queens could rejoice in beholding their daughter Śāntā (_kanyāsnehāt_) and to invite their son-in-law home under the gracious custom of a family visit with Śāntā (_jāmātṛ-upalālana-rītyā śāntayā sahānayanārtham_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -889,6 +951,14 @@ like ritual fire. [1-11-15b, 16a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He arrived at that region where the bull among sages resided; and approaching that foremost of the twice-born, who was seated beside King Romapāda (_romapādasamīpagam_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.15–17 (dadarśātho / dadarśādau & Who Honored Whom)**
+
+Under the reading _dadarśādau_ (CE / **Govindarāja** / **Śiromaṇi**), even though Ṛṣyaśṛṅga was seated beside Romapāda, Daśaratha’s gaze fell _first_ upon the blazing sage out of supreme devotion (_tasmin bhaktyatiśayadyotanārtham_). In v. 16cd–17ab, all three commentators clarify that _rājā_ is King Romapāda, who with a heart thrilled by friendship (_sakhitvāt_) offered special hospitality to King Daśaratha.
 </details>
 </details>
 
@@ -957,6 +1027,14 @@ and then that sage worshipped king Dasharatha in his return. [1-11-17b, 18a]
 **16:** He beheld the sage’s son blazing like a radiant fire (_dīpyamānam ivānalam_). Thereupon King Romapāda, in accordance with due protocol (_yathāyogyam_), offered special hospitality and honor to King Daśaratha—
 
 **17:** With his inmost heart overflowing with joy by reason of his friendship for that monarch (_sakhitvāt tasya vai rājñaḥ_); and Romapāda also made known to the wise son of the sage (Ṛṣyaśṛṅga)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.17cd–18ab (sakhyaṃ sambandhakaṃ caiva & the Ancient Gāthā)**
+
+**Govindarāja** explains _sambandhakam_ as Daśaratha’s relationship as the biological father of Śāntā (_śāntāyā janakapitṛtvarūpaṃ sambandham_). Both **Tilaka** and **Śiromaṇi** quote an ancient traditional _gāthā_ summarizing Romapāda’s words to his son-in-law: _anena me ’napatyāya datteyaṃ varavarṇinī, yācate putratulyaiṣā śāntā priyatarātmajā, so ’yaṃ te śvaśuro brahman yathaivāhaṃ tathā nṛpaḥ_ (“By this king was this fair maiden Śāntā given to me when I was childless; therefore, O Brāhmaṇa, he is your father-in-law just as much as I am!”).
 </details>
 </details>
 
@@ -1040,6 +1118,14 @@ indeed." So said Dasharatha to Romapada. [1-11-19b, 20a]
 
 **19:** For seven or eight days (_saptāṣṭadivasān_), after which King Daśaratha spoke thus to King Romapāda: “O King, lord of the people, let your daughter Śāntā, together with her husband (_saha bhartrā_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.19 (saptāṣṭadivasān)**
+
+Whereas **Śiromaṇi** takes the compound _saptāṣṭadivasān_ as an additive _dvandva_ meaning fifteen days (_pañcadaśadināni_), **Govindarāja** explains it with idiomatic precision as the natural Sanskrit conversational expression “for seven or eight days” (_saptāṣṭeti lokavacanaparipāṭī_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1115,6 +1201,14 @@ been permitted by the king he set forth along with his wife. [1-11-21b, 22a]
 **20:** “Proceed to my capital city (_madīyaṃ nagaraṃ yātu_), for a great sacrificial undertaking has been set in motion (_kāryaṃ hi mahad udyatam_)!” Saying “So be it!” and promising the departure of that wise sage (_saṃśrutya gamanaṃ tasya dhīmataḥ_), King Romapāda—
 
 **21:** Spoke these words to the Brāhmaṇa sage: “Go you together with your wife (_gaccha tvaṃ saha bhāryayā_)!” Having listened to that request, the sage’s son replied “So be it!” to the King at that time.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.20–21 (saṃśrutya & pratiśrutya)**
+
+All three commentators distinguish the two compounds of _śru_ in vv. 20–21: in v. 20c, _saṃśrutya_ means “having promised/consented” (_pratijñāya_, Pāṇini 1.3.59), whereas in v. 21c, _pratiśrutya_ means “having listened” (_ākarṇya_) before replying _tatheti_.
 </details>
 </details>
 
@@ -1192,6 +1286,14 @@ along with Sage Rishyasringa. [1-11-23b, 24a]
 **22:** Taking leave with the King’s affectionate permission (_nṛpeṇābhyanujñātaḥ_), he set forth accompanied by his wife; and those two monarchs, joining their palms to one another and embracing heart to heart out of deep affection (_snehāt saṃśliṣya corasā_)—
 
 **23:** Both Daśaratha and the valiant Romapāda rejoiced exceedingly. Then, having bidden farewell to his dear friend (_suhṛdam āpṛcchya_), the delight of the Raghus set out on his homeward journey.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.23–24 (suhṛdam āpṛcchya & svalaṃkṛtam)**
+
+All three commentators gloss _suhṛdam_ as Romapāda (_suhṛdaṃ romapādam_): having obtained his royal friend’s affectionate leave, Daśaratha dispatches swift couriers to Ayodhyā ordering the capital to be adorned with flowers, plantain stalks, and festive arches (_puṣpakadalīkāṇḍādibhiḥ_, **Govindarāja**).
 </details>
 </details>
 
@@ -1296,6 +1398,14 @@ all those works exactly as ordered by their king. [1-11-25b, 26a]
 
 “Perfumed with fragrant incense, sprinkled with water and swept clean (_dhūpitaṃ siktasammṛṣṭam_), and gayly festooned with banners!” Then those citizens, overjoyed upon hearing that the King had arrived near,
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.25 (dhūpitaṃ siktasammṛṣṭam & rājānam āgatam)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** analyze _siktasammṛṣṭam_ by Pāṇini 2.1.49 (_pūrvakālaika..._): the streets were first sprinkled with water and then swept clean (_ādau siktaṃ toyaiḥ paścāt sammṛṣṭam_). In v. 25d, **Śiromaṇi** and **Govindarāja** gloss the past participle _āgatam_ as _āgataprāyam_ (“hearing that the King had almost arrived at the outskirts”).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1350,6 +1460,14 @@ amidst the full sounding of conch shells and drumbeats. [1-11-26b, 27a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Carried out in full everything that had been commanded by the King. Thereupon the monarch entered the gloriously adorned city—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.26–27 (puraskṛtvā dvijarṣabham)**
+
+**Śiromaṇi** notes that the particle _ha_ in v. 26d expresses festive joy (_ha iti harṣe_): placing the radiant Ṛṣyaśṛṅga at the head of the royal procession amid the thunderous sound of conches and drums, Daśaratha enters Ayodhyā before the jubilant eyes of all the citizens.
 </details>
 </details>
 
@@ -1437,6 +1555,14 @@ when Vishnu incarnated as Dwarf boy Vamana.
 
 **28:** As he was being escorted in with high honor by that lord of men of Indra-like deeds (_narendreṇendrakarmaṇā_), even as Kaśyapa’s son (Vāmana) is welcomed in heaven by the thousand-eyed lord of the gods (_sahasrākṣeṇa kāśyapam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.28 (narendreṇendrakarmaṇā & sahasrākṣeṇa kāśyapam)**
+
+**Tilaka** and **Śiromaṇi** explain _indrakarmaṇā_ as “he whose martial deeds serve to aid Indra” in the wars against the Asuras (while **Govindarāja** takes it as “he whose valorous deeds resemble Indra’s”). In v. 28cd (preserved in the Southern Recension and noted by **Śiromaṇi** as _bhaṭṭasammata_), **Tilaka** glosses _kāśyapam_ as Lord Vāmana, son of Kaśyapa, welcomed into heaven by thousand-eyed Indra.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1493,6 +1619,14 @@ that his desired is fulfilled. [1-11-28]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having conducted him into the inner apartments and offered him worship in accordance with the Śāstras (_pūjāṃ kṛtvā tu śāstrataḥ_), the King accounted himself to have fulfilled his life’s purpose (_kṛtakṛtyaṃ tadātmānaṃ mene_) by virtue of having brought him home (_tasyopavāhanāt_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.29–30 (upavāhanāt & tathāgatām)**
+
+All three commentators gloss _upavāhanāt_ as “from having brought the sage to his own capital.” On _tathāgatām_ (“arrived thus, i.e., together with her husband”), **Govindarāja** observes that the qualifier implies she had previously visited Ayodhyā in her maidenhood, while **Tilaka** notes the queens’ joy on reuniting with her after long separation (_bahukālaviśleṣottaraṃ militvā_).
 </details>
 </details>
 
@@ -1624,5 +1758,13 @@ by these Ritwik-s. Hence, Ritwik-hood is the highest.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Honored with special fondness by those queens and by the King himself, she dwelt there in happiness for some time accompanied by her twice-born husband (_sahadvijā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**11.31 (Why Śāntā Is the Principal Subject in sahadvijā)**
+
+On _sahadvijā_ / _sahartvijā_ in v. 31d (“she dwelt there accompanied by her Brāhmaṇa husband”), both **Śiromaṇi** and **Govindarāja** highlight a charming point of social custom: why is Śāntā made the grammatical subject and Ṛṣyaśṛṅga the subordinate accompaniment? Because in her father’s house, a married daughter holds the primary place of affection!
 </details>
 </details>

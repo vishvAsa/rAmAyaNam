@@ -726,6 +726,224 @@ while meditating upon Rama's face."
 
 “Or meditating (_dhyāyatī_) upon the countenance of Rāma (_rāmasya vaktraṃ_), which resembles the full moon (_sampūrṇacandrapratimaṃ_) and has eyes like lotus-petals (_padmapatranibhekṣaṇam_), that piteous lady (_kṛpaṇā_) has passed into the five elements (_pañcatvaṃ gatā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.13.1–2 (Like Lightning Upon the Dark Rampart)**
+
+Rāma Varmā (_Tilaka_) remarks that the simile of lightning flashing amid dark clouds (यथा विद्युद्घनान्तरे) poetically suggests that Laṅkā's rampart was dark blue like a cloud (प्राकारस्य नीलकृतत्वमनेन ध्वन्यते), while Govindarāja (_Bhūṣaṇa_) notes that Hanumān's descent from Puṣpaka proves he had re-ascended it during Sarga 12 (मध्ये विमानमभिरूढ इत्यवगम्यते). On 5.13.2b, Rāma Varmā and Śivasahāya (_Śiromaṇi_) take निवेशनान् as accusative plural masculine (गृहान्), whereas Govindarāja reads ablative निवेशनात् and supplies प्राकारम् as the object of संपरिक्रम्य.
+
+_____________
+
+**5.13.3–5 (Exhaustive Search vs. Sampāti's Testimony)**
+
+All three gloss लोलिता (or लोडिता) as searched repeatedly (बहुशोऽन्विष्टा). In verse 4, Govindarāja distinguishes सरितः (small streams, क्षुद्रनद्यः) from नद्यः (great rivers), and glosses अनूपवनान्ताः as watery woodland borders (जलप्रायवनप्रदेशाः). In verse 5, Rāma Varmā explains that although non-perception (अनुपलब्धिप्रमाण) would ordinarily prove Sītā's absence, Sampāti's authoritative testimony (आख्याता गृध्रराजेन) prevents Hanumān from concluding she is not here.
+
+_____________
+
+**5.13.6 (The Four Pregnant Epithets of Sītā)**
+
+All three commentators unpack the four significant epithets proving Sītā could never yield to Rāvaṇa (किं नु उपतिष्ठेत... नैवेत्यर्थः): she is सीता (miraculously born from the furrow, अयोनिजा), वैदेही (sprung from the illustrious Videha lineage, जन्मभूमिप्रयुक्तातिशयवती), मैथिली (reared in Mithilā, seat of righteous conduct, आचारप्रधानोत्कर्षवती), and जनकात्मजा (daughter of the _brahmavid_ sage Janaka, ब्रह्मवित्पुत्री).
+
+_____________
+
+**5.13.7–8 (Conjectures Born of Grief)**
+
+Rāma Varmā (_Tilaka_) observes that these dark conjectures spring from extreme grief making Hanumān momentarily forget Sampāti's assurance that Sītā had reached Laṅkā (एते पक्षा दुःखातिशयात्संपातिवचनविस्मरणमूलकाः). On बिभ्यतो रामबाणानाम् (7c), Govindarāja (_Bhūṣaṇa_) and Śivasahāya (_Śiromaṇi_) take the genitive in the sense of the ablative (रामबाणेभ्यः), while Rāma Varmā supplies आघातात् (`fearing the impact of Rāma's arrows'). On पतितं हृदयं (8d), Rāma Varmā explains that her mind departed in terror (मन उत्क्रान्तम्), which amounts to death (मनउत्क्रमणस्य मरणत्वान्मृतेत्यर्थः), whereas Govindarāja takes it as her body falling into the sea when her terrified heart failed (तन्मूलतया तच्छरीरं सागरे पतितम्).
+
+_____________
+
+**5.13.9–10 (Crushed in Flight or Falling into the Sea)**
+
+All three commentators gloss पीडितेन (9b) as an action noun (पीडनेन, `by the tight squeezing of his arms'). In 5.13.10a, Govindarāja cites the grammatical rules governing the reduplicated preposition उपर्युपरि (उपर्यध्यधसः सामीप्ये इति द्विर्वचनम्) and the accusative case of सागरं (उभयसर्वतसोः कार्यादिगुपर्यादिषु त्रिषु इति द्वितीया).
+
+_____________
+
+**5.13.11–12 (Devoured by Rāvaṇa or by His Jealous Consorts)**
+
+Rāma Varmā explains the transition from verse 11 to verse 12: since Rāvaṇa had abundant royal fare (बहुभक्षणसामग्रीमत्त्वात्) and was infatuated with Sītā (अनुरागवत्त्वाच्च), he would not have eaten her himself; hence Hanumān conjectures in verse 12 that Rāvaṇa's consorts devoured her out of co-wifely jealousy (सापत्न्यरोषादिभिः, _Tilaka_; सापत्न्यप्रयुक्तकोपाभिः, _Bhūṣaṇa_).
+
+_____________
+
+**5.13.13–15 (The Caged Sārikā Simile)**
+
+Rāma Varmā (_Tilaka_) notes that Kataka regards verses 13–14 (संपूर्णचन्द्रप्रतिमं... भविष्यति) as an interpolation (श्लोकद्वयं प्रक्षिप्तमिति कतकः), and the footnote confirms their absence in Govindarāja's manuscripts (श्लोकद्वयमेतन्नास्ति गो. पाठे). On verse 15, Rāma Varmā explains that even if Sītā were hidden in a secret vault (गुप्ततया स्थापिता), she would be crying out `Rāma! Rāma!' ceaselessly like a caged _sārikā_ mynah (पञ्जरस्था सारिकेव भृशं मुहुर्मुहू रामेति लालप्यते), which could not have escaped his hearing (न च तच्छ्रूयत इति भावः).
+
+_____________
+
+**5.13.17 (Distinguishing Vinaṣṭā, Praṇaṣṭā, and Mṛtā)**
+
+All three commentators distinguish the three participles विनष्टा वा प्रणष्टा वा मृता वा: Rāma Varmā cites Tīrtha's triple distinction between vanishing through magic within a visible place (दृश्यदेशे माययादर्शनं विनाशः), being concealed in an invisible place (अदृश्यदेशेऽवस्थापनं प्रणाशः), and dying (मरणं मृता). Govindarāja (_Bhūṣaṇa_), citing Pāṇini's णश अदर्शने and उपसर्गादसमासेऽपि णोपदेशस्य, contrasts विनष्टा (hidden from sight in a subterranean chamber, भूगृहादौ स्थापनेन दर्शनं गता) with प्रणष्टा (perished by falling into the sea) and मृता (dead from the grief of separation from Rāma, रामविरहदुःखासहिष्णुतया).
+
+_____________
+
+**5.13.18 (The Two Horns of Hanumān's Dilemma)**
+
+Rāma Varmā defines the two horns of Hanumān's dilemma (निवेदनानिवेदनरूपमुभयमपि विषमं दुर्धरं): reporting that Sītā was not seen (निवेद्यमाने) will cause Rāma—whose very life depends on her—to abandon his life (तन्मात्रप्राणरामप्राणत्यागरूपः दोषः), whereas concealing the truth (अनिवेदने) constitutes treason against his master (स्वामिवञ्चनादिरूपो दोषः).
+
+_____________
+
+**5.13.19–21 (Weighing the Fruitlessness of Return)**
+
+Expanding upon the dilemma posed in verse 18 (निवेदनानिवेदनरूपमुभयमपि विषमं), Hanumān first examines the consequences of returning to Kiṣkindhā (वानरेन्द्रपुरीम्) without having found Sītā (सीतामदृष्ट्वा): his three great feats—leaping across the ocean (लङ्घनं सागरस्य), entering Laṅkā undetected, and surveying the _rākṣasa_ forces—will all be rendered fruitless (व्यर्थं भविष्यति) without the primary goal (पुरुषार्थः).
+
+_____________
+
+**5.13.22–23 (The Fatal Impact of Reporting Failure to Rāma)**
+
+Turning to the first horn of the dilemma (निवेद्यमाने दोषः स्यात्), Hanumān reflects that if he returns to Kiṣkindhā and utters the harsh words (परुषं वचः; Govindarāja: परमप्रियम्, `most unwelcome words') `Sītā was not seen by me' (न दृष्टेति मया सीता), Rāma, whose life hangs solely upon news of her (तन्मात्रप्राणरामप्राणत्यागरूपः, _Tilaka_), will immediately abandon his life (ततस्त्यक्ष्यति जीवितम्).
+
+_____________
+
+**5.13.24 (Sense-Scorching Ill Tidings)**
+
+Commenting on the five cumulative adjectives qualifying दुर्वाक्यं in verse 24, the commentators gloss इन्द्रियतापनम् as agitating and scorching all the senses (इन्द्रियक्षोभकम्) and सीतानिमित्तं as concerning Sītā (सीताविषयम्), upon hearing which Rāma will surely perish (स न भविष्यति).
+
+_____________
+
+**5.13.25–27 (The Chain of Bereavement in Ayodhyā)**
+
+Śivasahāya (_Śiromaṇi_) introduces this sequence as demonstrating how failure to bring news of Sītā will trigger universal destruction (सीतावृत्तान्ताप्राप्तौ सर्वेषां विध्वंसो भविता). Both Govindarāja (_Bhūṣaṇa_) and Śivasahāya gloss पञ्चत्वगतमानसम् (25b) not as already dead, but as having resolved his mind upon dying (मरणे कृतनिश्चयम्). Seeing Rāma in that plight, deeply devoted (भृशानुरक्तः निरतिशयानुरागवान्) Lakṣmaṇa will die, followed in turn by Bharata, Śatrughna, and the three royal mothers (कौसल्याप्रभृतयः मातरः).
+
+_____________
+
+**5.13.28–29 (The Death of Sugrīva and Rumā)**
+
+Rāma Varmā (_Tilaka_) glosses ततः (28d) as `upon seeing Rāma ascend to heaven' (दिविस्थरामदर्शनात्): bound by gratitude (कृतज्ञः) for his kingdom and true to his alliance (सत्यसंधः), Sugrīva will abandon his life, and Queen Rumā, overwhelmed by grief for her lord (भर्तृशोकेन पीडिता), will follow him.
+
+_____________
+
+**5.13.30 (Proleptic Sense of Pañcatvam Āgatā)**
+
+Explaining how पञ्चत्वमागता (`having reached death') can be predicated of Tārā before न भविष्यति (`will cease to live'), Rāma Varmā and Śivasahāya interpret पञ्चत्वमागता proleptically as `resolved upon dying' (पञ्चत्वं प्राप्तुं निश्चयवती / मरणे कृतनिश्चया) under the cumulative weight of her earlier grief for Vālin's slaying (वालिमरणजेन / वालिवधजनितेन दुःखेन).
+
+_____________
+
+**5.13.31–32 (Aṅgada's Death and the Grief of the Vānaras)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) gloss तस्मात् (31c) temporally as `immediately after that' (तदनन्तरम्), and Śivasahāya explains the epic future विजहिष्यति as equivalent to विहास्यति (`will cast away'). In verse 32, overwhelmed by grief for their master's ruin (स्वस्वामिविघातजनितेन दुःखेन), the monkeys will strike their heads with their palms (तलैः पाण्यन्तभागैः) and fists.
+
+_____________
+
+**5.13.33–34 (Royal Conciliation and the End of Woodland Sport)**
+
+Śivasahāya links verses 33 and 34 (श्लोकद्वयमेकान्वयि), while Govindarāja (_Bhūṣaṇa_) illustrates मानेन (`with honour') as Sugrīva's rising from his seat to greet his chiefs (प्रत्युत्थानादिना), and glosses निरोधेषु (34b) as enclosed palace courtyards or walled pleasure-parks (गृहादिसंवृतप्रदेशेषु).
+
+_____________
+
+**5.13.35–36 (Five Modes of Self-Destruction)**
+
+Rāma Varmā notes that सपुत्रदाराः सामात्याः in verse 35 continues to qualify कपिकुञ्जराः (`elephant-like monkey chiefs') from verse 34 (कपिकुञ्जरा इति विशेष्यम्). In verse 36, all three commentators gloss शस्त्रं as falling upon a blade (शस्त्रपातं / शस्त्रपतनम्) and प्रचरिष्यन्ति as `will practise or execute' (करिष्यन्ति) these five modes of self-destruction—poison, hanging, fire, fasting, and the sword.
+
+_____________
+
+**5.13.37–39 (Sustaining Life Through Hope by Not Returning)**
+
+Govindarāja (_Bhūṣaṇa_) glosses आरोदनम् as wailing on every side (आसमन्ताद्रोदनम्). Turning to the second horn of his dilemma—not returning (अनिवेदने)—Śivasahāya (_Śiromaṇi_) notes that remaining in Laṅkā offers one crucial advantage (लङ्कायामेव स्थितौ गुणोऽप्यस्तीति): so long as Hanumān does not return, Rāma, Lakṣmaṇa, and the monkeys will sustain their lives in the hope of hearing news of Sītā (सीतावृत्तान्तश्रवणप्रत्याशया धरिष्येते प्राणान्, _Tilaka_).
+
+_____________
+
+**5.13.40–41 (Ascetic Subsistence and the Pyre by the Sea)**
+
+All three commentators explain the ascetic epithets हस्तादानो मुखादानः: subsisting only on fruits that drop of themselves into one's hand (हस्तपतितभोजी) or directly into one's mouth (मुखपतितभोजी), while dwelling beneath trees (वृक्षमूलवासी). In verse 41, अरणीसुतम् is glossed as fire churned from the _araṇi_ wood (अग्निम् / अरण्युत्पन्नम्), and Govindarāja notes that बहुमूलफलोदके describes the natural character (स्वरूपकथनम्) of the coastal tract (सागरानूपजे).
+
+_____________
+
+**5.13.42 (Liṅginaṃ vs. Liṅginīṃ Sādhayiṣyataḥ)**
+
+Glossing उपविष्टस्य as sitting in _prāyopaveśana_ (प्रायोपविष्टस्य), the commentators offer three interpretations of लिङ्गिनं साधयिष्यतः: Rāma Varmā (_Tilaka_) takes लिङ्गिनं as the soul endowed with the subtle body (लिङ्गशरीरवन्तं वात्मानं), which he prepares to separate from the gross body (शरीरेण वियोजयिष्यतः); Śivasahāya takes it as a discipline leading to a higher state (ऊर्ध्वगतिसाधकविधिं); and Govindarāja, preferring feminine लिङ्गिनीं, explains it as the _saṃnyāsa_ vow of fasting (लिङ्गं संन्यासः अनशनं तद्वती लिङ्गिनी), while also recording लिङ्गिनम् (शरीरादात्मानं मोचयिष्यतः).
+
+_____________
+
+**5.13.43–44 (Entering the Waters and the Shattered Garland of Fame)**
+
+$18
+
+_____________
+
+**5.13.45–46 (Renunciant Asceticism vs. Self-Destruction)**
+
+Distinguishing तापसः (45a) from वानप्रस्थः (40c), Rāma Varmā defines तापसः as a renunciant ascetic wearing matted locks and bark-garments (जटावल्कलादिचिह्नो यतिः), while Govindarāja notes that वा here is emphatic (वाशब्दोऽवधारणे): asceticism is preferable to suicide (आत्मत्यागापेक्षया तापसभाव एव ज्यायान्).
+
+_____________
+
+**5.13.47–48 (Choosing Life for the Sake of Auspicious Union)**
+
+Rejecting suicide altogether, Rāma Varmā explains मरणजीवितयोः किं श्रेयः: in death lie all the evils previously enumerated (दोषा बहवः प्रागुक्ताः), since after a long absence Rāma and the others will conclude Sītā is dead and perish, whereas so long as Hanumān lives (मयि जीवति सति) auspicious union (संगमः इष्टसंगमः / श्रेयःसंगमः) remains assured.
+
+_____________
+
+**5.13.49–50 (Slaying Rāvaṇa or Offering Him Like a Sacrificial Beast)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain how verse 49 unfolds the promise of ध्रुवो जीवति संगमः (47d): even if Sītā has been slain, killing Rāvaṇa will accomplish righteous retaliation (प्रत्याचीर्णं वैरनिर्यातनं कृतं भविष्यति; Govindarāja: प्रत्याचरितं प्रतिकृतमिति यावत्). And lest Rāma doubt his report or grieve without seeing the foe punished, Hanumān proposes in verse 50 to carry Rāvaṇa alive across the ocean and offer him to Rāma like a sacrificial beast to Rudra (पशुपतेः रुद्रस्य पशुम् अजमिव), where Govindarāja cites the Vedic text अग्निं वै पशुपतिर्यजते अजः.
+
+_____________
+
+**5.13.51–52 (Cintā, Dhyāna, and Renewed Search)**
+
+Govindarāja (_Bhūṣaṇa_) distinguishes the three psychological terms in verse 51 to avoid tautology: the first चिन्ता is initial deliberation (परविचारः), ध्यानं is continuous meditation upon the object (ज्ञातव्यविषयनिरन्तरप्रत्ययः), and चिन्तयामास denotes bottomless anxiety (दुरन्तचिन्तोच्यते). Rāma Varmā also notes why Hanumān drops the plan of abducting Rāvaṇa: terrified of Rāvaṇa's capture, the _rākṣasas_ might murder Sītā in secret (रावणस्य बद्ध्वा नयनेऽपि सीतां रक्षसा हन्युरिति).
+
+_____________
+
+**5.13.53–54 (Why Rāma Cannot Be Fetched Before Sītā Is Seen)**
+
+Addressing why he does not simply fetch Rāma on the strength of Sampāti's testimony (संपातिवचनाच्चापि), Rāma Varmā and Govindarāja explain that if Sītā is not located beforehand and Rāma arrives only to find her still missing (मयेवान्विष्यमाणा न दृश्येत रामेणापि), Rāma in his fury will consume all the monkeys (राघवः सर्ववानरान् निर्दहेत्).
+
+_____________
+
+**5.13.55–57 (Sighting the Aśoka Grove and Propitiating the Thirty-Three Gods)**
+
+Rāma Varmā (_Tilaka_) describes the turning point of the _Sundarakāṇḍa_: while scanning Laṅkā in anguish, Hanumān spots the great Aśoka grove (अनन्विष्टं देशं दृष्ट्वा) and, recalling Sampāti's words, feels certain Sītā is there (तत्र सीतास्थितिं निश्चिन्वन्). Yet fearing that past demerit might obstruct his vision of her (तद्दर्शनप्रतिबन्धकदुरितक्षयाय), he resolves to propitiate the thirty-three Vedic gods—the eight Vasus, eleven Rudras, twelve Ādityas, and two Aśvins (त्रयस्त्रिंशद्देवान्)—along with the Maruts. On तपस्विने सिद्धीमिव (57d), Rāma Varmā supplies `as a deity pleased by penance bestows perfection (तपःफलम्) upon an ascetic' (तपःप्रसन्ना देवतेति शेषः).
+
+_____________
+
+**5.13.58 (Inward Collection and Rising for Action)**
+
+Both Rāma Varmā and Śivasahāya (_Śiromaṇi_) gloss चिन्ताविग्रथितेन्द्रियः as having his senses bound up and pervaded by anxiety (चिन्तया विग्रथितानि संबद्धानि व्याकुलानीन्द्रियाणि यस्य), and Śivasahāya explains मुहूर्तमिव ध्यात्वा as collecting himself in inward meditation (आत्मानुसंधानं कृत्वेव) before rising for action.
+
+_____________
+
+**5.13.59 (The Maṅgala Invocation Namo 'stu Rāmāya)**
+
+Commenting on the celebrated _maṅgala_ verse नमोऽस्तु रामाय सलक्ष्मणाय, Rāma Varmā remarks that bowing first to Rāma, Lakṣmaṇa, and Sītā before the Vedic gods indicates Rāma's status as the supreme divine incarnation (अनेन रामस्य भगवदवतारत्वं सूचितम्), while bowing to Rudra, Indra, Yama, and the cosmic deities honours the universal form (विराजो भगवतो नतिः). Govindarāja (_Bhūṣaṇa_) cites the traditional maxim सर्वान् देवान्नमस्यन्ति रामस्यार्थे यशस्विनः to show that invoking all the gods ensures the fulfilment of one's desired mission (अभिमतलाभः).
+
+_____________
+
+**5.13.60–61 (Bowing to Sugrīva and Journeying First in Mind)**
+
+Rāma Varmā (_Tilaka_) notes that Hanumān bows to Sugrīva both as his sovereign and as Sūrya's son (स्वामित्वात्सूर्यांशत्वाच्च सुग्रीवनतिः). Linking verses 60 and 61 as a single sentence (श्लोकद्वयमेकान्वयम्), Govindarāja (_Bhūṣaṇa_) explains why सः appears twice in verse 60: it corresponds to the two distinct actions of bowing and scanning the quarters (नमस्कृत्यालोकनरूपक्रियाभेदेन तच्छब्दद्वयम्) to fix the direction of the Aśoka grove, after which he travels there first in thought (मनसा गत्वा) and deliberates on his subsequent steps (उत्तरं गमनोत्तरकर्तव्यकृत्यम्, _Tilaka_).
+
+_____________
+
+**5.13.62–63 (Horticultural Refinements and Vāyu's Gentle Breath)**
+
+Rāma Varmā and Govindarāja gloss वनाकुला either as dense with woodland groves (काननावृता) or, taking वन as water, as abounding in streams (जलावृता). All three explain सर्वसंस्कारसंस्कृता as tended with every horticultural care such as digging basins, watering, and weeding (खननसेकादिरूपकृतसंस्कारा / कर्षणतृणनिरसनादिभिः संस्कृता). In 63cd, out of fear of Rāvaṇa, even the all-pervading Wind-god (विश्वात्मा / सर्वात्मा वायुः) does not blow roughly through those trees (अतिकम्पनपूर्वकं नात्र संचरतीत्यर्थः, _Bhūṣaṇa_).
+
+_____________
+
+**5.13.64 (Diminutive Form and the Elliptical Genitive Rāvaṇasya)**
+
+Explaining how Hanumān can enter so closely guarded a grove, all three gloss संक्षिप्तोऽयं मयात्मा as `I have contracted my body to diminutive size' (अयमात्मा देहः... संक्षिप्तः अल्पीकृतः). For the elliptical genitive रावणस्य च alongside रामार्थे, Rāma Varmā and Govindarāja supply `to avoid being seen by Rāvaṇa and his guards' (रावणवञ्चनायर्थं च / रावणप्रयुक्तदर्शनपरिहारायेत्यर्थः), while Śivasahāya (_Śiromaṇi_) alternatively construes अर्थ with रावणस्य in the sense of Rāvaṇa's destruction (रावणसंबन्ध्यर्थशब्दस्य विनाशपरत्वं).
+
+_____________
+
+**5.13.65–67 (From Prayer to Assurance and the Identity of Bhūtānāṃ Prabhuḥ)**
+
+$1b
+
+_____________
+
+**5.13.68 (The Recognition-Tokens of Sītā's Countenance)**
+
+All three commentators note that Hanumān knows the exact features of Sītā's face—its high nose (उन्नता नासिका यस्य तदुन्नसम्), white teeth, and spotless complexion (अव्रणम् अनवद्यम्)—from the recognition-tokens previously described to him by Rāma (अभिज्ञानत्वेन रामेण निवेदितम्, _Bhūṣaṇa_; राममुखात् श्रुतम्, _Śiromaṇi_).
+
+_____________
+
+**5.13.69 (Rāvaṇa's Deceptive Mendicant Guise)**
+
+Interpreting the compound सुदारुणालंकृतवेषधारिणा, Rāma Varmā and Śivasahāya explain that Rāvaṇa, though intrinsically terrible (सुदारुणोऽपि), assumed a winsome, trustworthy mendicant guise (विश्वसनीयवेषधारी / स्वकार्यसाधकवेषविशिष्टेन) to abduct Sītā; Govindarāja takes it as wearing an outwardly adorned mendicant garb while remaining terrible within (सुदारुणत्वेऽप्यापातप्रसन्नवेषधारिणा).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

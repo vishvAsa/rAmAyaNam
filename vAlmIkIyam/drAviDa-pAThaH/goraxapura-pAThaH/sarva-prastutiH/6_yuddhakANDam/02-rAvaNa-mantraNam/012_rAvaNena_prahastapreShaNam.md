@@ -647,6 +647,134 @@ frequented by demons."
 
 “And this beloved consort of Rāma (_rāmasya mahiṣī priyā_), the daughter of Janaka, has been brought [by me] from the Daṇḍaka forest, a region frequented by Rākṣasas (_rakṣobhiś caritoddeśāt_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.12.1–2 (Alerting the Citadel Guards)**
+
+Surveying the full council, Rāvaṇa first secures Laṅkā's defenses before broaching his deliberations. **Govindarāja** (_Bhūṣaṇa_) derives समितिंजयः as समितौ युद्धे जयतीति (`he who conquers in battle') and glosses कृतविद्याः as warriors trained in missiles and weapons (शिक्षितास्त्रशस्त्रविद्याः), comprising the fourfold army of chariots, elephants, cavalry, and infantry (रथिहस्तिसादपदातिरूपेण चतुर्विधाः). **Rāma Varmā** (_Tilaka_) perceptively remarks that this sudden defensive order shows Rāvaṇa has already learned through spies of Rāma's arrival on the ocean shore (समुद्रतीरे रामागमनं चारमुखेन ज्ञातवानिति गम्यते).
+
+_____________
+
+**6.12.3–4 (Prahasta's Deployment)**
+
+Executing the royal mandate, Prahasta stations troops inside and outside. **Rāma Varmā** glosses प्रणीतात्मा as attentive (सावधानचित्तः) and takes मन्दिरे broadly as the city (पुरे), whereas **Śivasahāya** (_Śiromaṇi_) renders प्रणीतात्मा as self-controlled (वशीकृतचित्तः) and **Govindarāja** takes मन्दिरे specifically as Rāvaṇa's palace (रावणगृहे), explaining विनिक्षिपत् as an unaugmented imperfect (विन्यक्षिपत् व्यधात्). Seating himself before the king (प्रमुखे अग्रे), Prahasta reports completion.
+
+_____________
+
+**6.12.5–6 (Opening the Deliberation)**
+
+Prahasta urges Rāvaṇa to pursue his desired object with an untroubled mind (अविमनाः), glossed by **Rāma Varmā** as unagitated (अव्याकुलचित्तः) and by **Govindarāja** as composed (स्वस्थहृदयः). On सुखेप्सुः (`desirous of pleasure') in 6.12.6c, **Govindarāja** pointedly notes that Rāvaṇa seeks sensual gratification rather than martial victory (कामपुरुषार्थेप्सुः न विजयेच्छुः).
+
+_____________
+
+**6.12.7–9 (Conciliating the Ministers)**
+
+To win his councillors' goodwill, Rāvaṇa praises their discernment. **Govindarāja** (_Bhūṣaṇa_) explains that when crises arise regarding which of the three aims to pursue (धर्मकामार्थसंकटेषु), the ministers can determine the resulting pleasant or unpleasant things (प्रियाप्रिये), immediate joy or sorrow, gain or loss, and future benefit or harm (उत्तरकालफलवत्). **Rāma Varmā** (_Tilaka_) glosses मन्त्रकर्मनियुक्तानि as undertakings guided by prior counsel (मन्त्रकरणपूर्वं नियुक्तानि). In 6.12.9, **Govindarāja** distinguishes ग्रहाः as planets other than the Moon, such as the Sun (सोमभिन्नाः सूर्यादयः), accompanying the Maruts.
+
+_____________
+
+**6.12.10–11 (Kumbhakarṇa's Awakening)**
+
+Addressing why he restates a matter already known to the assembly, **Rāma Varmā** and **Govindarāja** note that Rāvaṇa had refrained from formally proclaiming this deliberation (नेममर्थमचोदयम्) because of Kumbhakarṇa's slumber (स्वप्नात् निद्रायाः हेतोः). Now that the warrior has awakened after six continuous months (षण्मासानित्यत्यन्तसंयोगे द्वितीया), Rāvaṇa apprises him.
+
+_____________
+
+**6.12.12 (Abduction from Janasthāna)**
+
+Both **Rāma Varmā** and **Govindarāja** observe that Rāvaṇa describes Sītā here both to inform the newly awakened Kumbhakarṇa (अजानन्तं कुम्भकर्णं प्रति) and to signal that victory must be devised without surrendering her (सीतासमर्पणं विना राघवजयोपायो विचार्यताम्), identifying the demon-haunted region (रक्षोभिश्चरितोद्देशात्) as Janasthāna (जनस्थानात्).
+
+_____________
+
+**6.12.13–15 (Sītā's Peerless Beauty)**
+
+Explaining why he neither abandons nor forces Sītā, Rāvaṇa extols her beauty. **Śivasahāya** (_Śiromaṇi_) remarks that her refusal to mount his couch suggests her limbs are too delicate for sleeping on the bare ground (भूमावेव शेते). **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss हेमबिम्बनिभा as resembling a golden statue (स्वर्णप्रतिमातुल्या) and मायेव as an ever-new marvel crafted by Maya (प्रतिक्षणमपूर्ववदाश्चर्यावहवस्तुवत्). Gazing at her well-set (सुप्रतिष्ठितौ समतलौ), copper-nailed feet inflames Rāvaṇa's passion (शरीरजः कामः).
+
+_____________
+
+**6.12.16–18b (Torment of Passion)**
+
+**Govindarāja** notes the _ārṣa_ sibilant stem in अर्चिःसंकाशाम् (अर्चिःशब्दस्य सकारान्तत्वमार्षम्) and construes 6.12.16–18b as a single sentence describing Rāvaṇa's own infatuation: love acts alike in anger and joy (क्रोधहर्षयोः समानेन), causes pallor (वैवर्ण्यकारिणा), and perpetually breeds mental grief and bodily torment (शोकसंतापनित्येन). **Śivasahāya** alternatively construes कलुषीकृतः with Rāma, suggesting Rāvaṇa claims he detains Sītā to afflict Rāma (रामदुःखप्राप्तये एव सीतानिरोधः).
+
+_____________
+
+**6.12.18c–d (The One-Year Stipulate)**
+
+Both **Rāma Varmā** and **Govindarāja** expose Rāvaṇa's boast that Sītā begged him for a year's respite (सा तु संवत्सरं कालं मामयाचत) as a face-saving fiction (इदं चारोप्योक्तम्); fearing death from Nalakūbara's curse if he forced her (बलात्कारे शापान्मरणभिया), Rāvaṇa himself stipulated the deadline.
+
+_____________
+
+**6.12.19–20 (Weariness of Unfulfilled Desire)**
+
+Continuing his pretence, Rāvaṇa claims he graciously assented to the wide-eyed Sītā's plea (प्रतिज्ञातं वचः शुभम्) as she awaited her husband Rāma (प्रतीक्षमाणा भर्तारम्). Yet, worn out by ceaseless passion like a horse exhausted on a long road (यातो हय इवाध्वनि), he tries to reassure himself that the forest-dwelling monkeys cannot possibly cross the imperturbable ocean (कथं सागरमक्षोभ्यं तरिष्यन्ति वनौकसः). **Śivasahāya** (_Śiromaṇi_) alternatively glosses कामात् as his intense desire to defeat Rāma (रामपराभवविषयकाभिलाषात्).
+
+_____________
+
+**6.12.21–22 (The Enigma of Destiny)**
+
+Dismissing how either the monkey host or the two sons of Daśaratha could traverse an ocean teeming with sea-monsters and giant fish (बहुसत्त्वझषाकीर्णम्), Rāvaṇa abruptly checks his own complacency: after all, a single monkey (कपिनैकेन, Hanūmān) wrought great slaughter among them (कृतं नः कदनं महत्). Since the courses of events are inscrutable (दुर्ज्ञेयाः कार्यगतयः), he bids each minister speak according to his judgment (यस्य यथामति), adding that although they have no fear from a mortal (मानुषान्नो भयं नास्ति), they must still deliberate (तथापि तु विमृश्यताम्).
+
+_____________
+
+**6.12.23–24 (The Enemy at the Shore)**
+
+Recalling how he conquered the gods in the Deva-Asura war aided by these same ministers (युष्माभिः सहितोऽजयम्), Rāvaṇa links verses 24–26 into a single syntactic unit (श्लोकत्रयमेकान्वयि): having discovered Sītā's whereabouts (सीतायाः पदवीं प्राप्य), the two princes heading Sugrīva's monkeys have reached the farther shore of the ocean (वरुणालयम्).
+
+_____________
+
+**6.12.25–26 (Rāvaṇa's Stipulations)**
+
+Concluding his address, Rāvaṇa insists that his ministers devise sound policy (सुनीतं सुनिश्चितं मन्त्रतत्त्वम्) whereby Sītā is not surrendered (अदेया) and the two sons of Daśaratha are slain (वध्यौ). **Rāma Varmā** (_Tilaka_) explains 6.12.26 as Rāvaṇa's boast that not even Indra has the power to vanquish him (जगति कस्यचिदिन्द्रादेरप्यस्मज्जये शक्तिं न पश्यामि), whereas **Govindarāja** (_Bhūṣaṇa_) construes अन्यस्य to mean that none save Rāma could cross the ocean with monkeys (रामादन्यस्य शक्तिं न पश्यामि).
+
+_____________
+
+**6.12.27–28 (Kumbhakarṇa's Indignation)**
+
+Hearing Rāvaṇa's love-sick lamentation (परिदेवितं कामशोकप्रलापम्), Kumbhakarṇa is incensed that a monarch weeps like a woman in open assembly (महाराजः स्त्रीवत् सभायां प्रलपतीति क्रोधः). Both **Rāma Varmā** and **Govindarāja** explain that when Sītā was abducted after a mere hasty impulse (सकृत्समीक्ष्यैव), Rāvaṇa's mind should then have embraced firm counsel (सुनिश्चितं भजेत) just as the Yamunā fills its deep pool (यामुनं महाह्रदविशेषम्) at its descent; deliberating now is like damming water already gone (गतजलसेतुबन्धनसमः).
+
+_____________
+
+**6.12.29–30 (Timely Deliberation)**
+
+**Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) take अप्रतिमम् as “unbecoming” (अनुचितम्), whereas **Govindarāja** renders it “matchless” (समञ्जसम्) had consultation occurred at the outset (आदावेव). A king who acts with due deliberation (न्यायेन विचारणेन) never repents afterward.
+
+_____________
+
+**6.12.31–32 (Inverted Statecraft)**
+
+Kumbhakarṇa censures actions undertaken without proper counsel (अनुपायेन मन्त्राद्युपायराहित्येन). **Rāma Varmā** (_Tilaka_) explains that such perverse deeds (विपरीतानि अन्यायकृत्यानि) recoil upon the doer like oblations cast into impure black-magic fires (अप्रयतेष्वभिचारत्वादपवित्रेषु यज्ञेषु हुतानि हवींषीव), quoting the Vedic maxim प्रत्यगेनमभिचारः स्तृणुते. **Govindarāja** (_Bhūṣaṇa_) glosses पूर्वकार्याणि as prior deliberations (मन्त्रकर्माणि) and अपरकार्याणि as subsequent military undertakings; reversing their order betrays ignorance of policy and impolicy (नयानयौ).
+
+_____________
+
+**6.12.33–34 (The Krauñca Pass and Poisoned Meat)**
+
+All three commentators explain the mythological simile in 6.12.33: even when a rash king (चपलस्य असमीक्ष्यकारिणः) possesses superior might, foes exploit his carelessness and penetrate the breach (खं रन्ध्रम्), just as swans (द्विजाः हंसाः) fly through the gap cloven by Skanda's spear in the lofty Krauñca mountain (कुमारशक्तिकृतं खं रन्ध्रमिव). By sheer fortune (दिष्ट्या भाग्यवशेनैव) Rāma did not immediately destroy Rāvaṇa like poisoned meat (विषमिश्रमामिषम्) killing its consumer.
+
+_____________
+
+**6.12.35 (Fraternal Loyalty)**
+
+Seeing Rāvaṇa's displeasure at stern counsel, Kumbhakarṇa vows to set right (समीकरिष्यामि) this rashly begun enterprise by slaying the enemy, implying—as **Rāma Varmā** notes—that unlike Vibhīṣaṇa he will never desert his brother (न तु विभीषणवत्त्वां त्यक्ष्यामि).
+
+_____________
+
+**6.12.36–37 (Defying the Cosmic Guardians)**
+
+To reassure the king, Kumbhakarṇa reiterates his vow: even if Daśaratha's sons were Indra and Vivasvān, Agni and Vāyu, or Kubera and Varuṇa (तत्तद्देवतात्मकौ स्याताम्), he would fight and annihilate them (उत्सादयिष्यामि नाशयिष्यामि). **Govindarāja** (_Bhūṣaṇa_) explains गिरिमात्रशरीरस्य as having a mountain-sized frame (गिरिप्रमाणदेहस्य) via the measure suffix मात्रच्, noting that the genitive functions as an ablative of fear (पञ्चम्यर्थे षष्ठी) with बिभीयात्: even Purandara would tremble at his roar.
+
+_____________
+
+**6.12.38 (Surface Boast and Ominous Undertone)**
+
+**Rāma Varmā** (_Tilaka_) construes 6.12.38 to mean that before Rāma, having struck once, can strike a second arrow (द्वितीयेन शरेण निहनिष्यति यावत्ततः पूर्वमेव), Kumbhakarṇa will drink his blood. **Govindarāja** uncovers an ominous double meaning (अत्राश्लोकमपि ध्वन्यते): Rāma will surely slay him with a second shaft, making him drink his own blood (स्वकीयमेव रुधिरं पास्यामि) while Rāvaṇa sighs in grief (निःश्वस).
+
+_____________
+
+**6.12.39–40 (Ironic Prophecy)**
+
+**Rāma Varmā** notes that यतिष्ये (`I shall strive') leaves the result to fate (फलं तु दैवायत्तम्). **Govindarāja** again reads ironic _dhvani_: taking √हन् as motion (हन् हिंसागत्योः, `going to Rāma'), Kumbhakarṇa's death will leave Sītā forever devoted to Rāma (रामस्य वशगा भविष्यति).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

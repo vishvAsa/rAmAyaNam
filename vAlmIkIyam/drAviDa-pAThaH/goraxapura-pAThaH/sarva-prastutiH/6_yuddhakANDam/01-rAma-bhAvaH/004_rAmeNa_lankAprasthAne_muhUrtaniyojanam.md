@@ -259,6 +259,386 @@ ambrosia at the end of his life."
 
 “Having carried off Sītā, where indeed shall that demon (_yātu_) go and remain alive? Hearing of my expedition (_abhiyānam_), Sītā will regain hope for life, like a sick man at life’s end who has touched and drunk nectar (_amṛtam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.4.1–2 (The Resolve to March)**
+
+Following Hanūmān's account of Laṅkā's defenses, **Govindarāja** (_Bhūṣaṇa_) notes that Rāma orders an immediate march, glossing सत्यपराक्रमः as अमोघविक्रमः ('of unfailing valor') and reading मथिष्यामि (विध्वंसयिष्यामि, 'I shall demolish'). **Rāma Varmā** (_Tilaka_) explains that Rāma acknowledges Hanūmān's power to crush Laṅkā alone yet insists on leading the campaign himself.
+
+_____________
+
+**6.4.3–4 (The Midday Abhijit Muhūrta)**
+
+On मुहूर्ते विजये, all three commentators identify the midday auspicious period called _Abhijit_. **Govindarāja** cites astrological treatises to answer the objection that _Abhijit_ is forbidden for southward travel (दक्षिणयात्रायां), explaining that Laṅkā actually lies southeast (दक्षिणपूर्वस्यां) of Kiṣkindhā. On सीतां हृत्वा, **Rāma Varmā** construes जीवितः with active force (कर्तरि निष्ठा, 'remaining alive').
+
+_____________
+
+**6.4.5–6 (Astrological Alignment of Uttarā Phālgunī)**
+
+Regarding the lunar mansions, **Rāma Varmā** remarks that Uttarā Phālgunī is Sītā's birth star (सीताया जन्मतारा), guaranteeing her release, while **Govindarāja** identifies Hasta as Rāma's निधनतारा against enemies and Uttarā Phālgunī as his साधनतारा.
+
+_____________
+
+**6.4.7–8 (The Omen of the Throbbing Eye)**
+
+**Śivasahāya** (_Śiromaṇi_) and **Rāma Varmā** (_Tilaka_) construe मनोरथम् as appositional to विजयम् ('victory, which is my heart's desire, namely the recovery of Sītā'). **Govindarāja** (_Bhūṣaṇa_) quotes a verse from the _Jyotiḥśāstra_ stating that throbbing at the top of the eye (नेत्रस्योर्ध्वे) dispels all mental sorrow in the left eye, whereas the right eye yields the opposite, and thus critiques specifying the right eye here.
+
+_____________
+
+**6.4.9–10 (Nīla's Vanguard Mission)**
+
+On अर्थकोविदः, **Govindarāja** glosses Rāma as an expert in statecraft (नीतिशास्त्रनिपुणः) who now arranges the military march according to strategic canons. **Śivasahāya** and **Rāma Varmā** explain the compound शीतकाननवारिणा as a _bahuvrīhi_ (शीतानि काननवारीणि यस्मिन्), directing Nīla to choose a path where the troops will find ample mountain honey, roots, and cool forest streams.
+
+_____________
+
+**6.4.11–12 (Guarding Against Sabotage and Ambush)**
+
+All three commentators supply विषादिना ('with poison and the like') to explain how Rākṣasas might defile (दूषयेयुः) the water and provisions. On निहितं बलम्, **Rāma Varmā** glosses गुप्तप्रहारार्थं लीनतया स्थापितम् ('stationed in concealment for a surprise attack').
+
+_____________
+
+**6.4.13–14 (Selecting Valor Over Numbers)**
+
+On फल्गु बलम्, **Rāma Varmā** (_Tilaka_) glosses निःसारं बलं ('unfit troops'), noting they should stay in Kiṣkindhā to guard the capital (राजगृहादिरक्षणार्थं). **Govindarāja** (_Bhūṣaṇa_) remarks that the indefinite किंचित् implies weak soldiers are rare among the Vānaras, and explains the reading प्रयुध्यताम् via an archaic participial suffix (आर्षः शतृप्रत्ययः).
+
+_____________
+
+**6.4.15–17 (Vanguard and Flank Commanders)**
+
+Citing the military maxim of Kāmandaka (यतश्च भयमाशङ्केत् तां प्राचीं परिकल्पयेत्), **Govindarāja** explains that because the army marches south toward the enemy, दक्षिणं पार्श्वम् guarded by Ṛṣabha refers to the western flank (पश्चिमपार्श्वम्), while सव्यं पार्श्वम् guarded by Gandhamādana denotes the eastern flank (प्राचीभागम्). **Rāma Varmā** defines a गन्धहस्ती as a rutting elephant whose scent alone puts rival elephants to flight (यस्य मदगन्धादन्ये गजाः पलायन्ते).
+
+_____________
+
+**6.4.18 (Rāma Mounted on Hanūmān)**
+
+All three commentators gloss ईश्वरः as Indra. **Govindarāja** observes that Rāma rides in the center to inspire the entire host (अभिहर्षयन्) and compares Hanūmān to Airāvata because of his unmatched heroism.
+
+_____________
+
+**6.4.19 (Lakṣmaṇa Mounted on Aṅgada)**
+
+All three commentators explain the instrumental अङ्गदेन as denoting a mount (वाहनभूतेन / अङ्गदमारुह्य). **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) identify सार्वभौमेन as the directional elephant of the north (उत्तरदिग्गजेन) belonging to Kubera, and gloss भूतेशः as lord of Yakṣas (यक्षेशः) rather than Śiva, qualifying द्रविणाधिपतिः ('lord of wealth'). **Govindarāja** adds that Rāma thereby implies Sugrīva himself should travel in a litter alongside them.
+
+_____________
+
+**6.4.20–21 (Guarding the Rear)**
+
+On कुक्षिं रक्षन्तु, **Rāma Varmā**, **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** all interpret कुक्षिम् ('belly') by metonymy (लक्षितम्) as the rear guard of the army (सेनापश्चाद्भागम्), entrusted to the veteran trio of Jāmbavān, Suṣeṇa, and Vegadarśī.
+
+_____________
+
+**6.4.22–24 (The Departure from Kiṣkindhā)**
+
+**Rāma Varmā** glosses गुहाभ्यः शिखरेभ्यश्च as the monkeys' natural mountain dwellings (वसतिप्रदेशेभ्यः). On पूजितः in verse 23, **Śivasahāya** explains it as respectfully entreated (प्रार्थितः), while **Govindarāja** renders it as praised (स्तुतः) and glosses धर्मात्मा as one versed in the dharma of statecraft (नीतिरूपधर्मज्ञः).
+
+_____________
+
+**6.4.25–26 (The Boisterous March)**
+
+Distinguishing हृष्टाः and प्रमुदिताः, **Rāma Varmā** (_Tilaka_) notes that the two terms express outward and inward joy (हर्षप्रमोदयोर्बाह्याभ्यन्तरकृतौ भेदः). In verse 26, **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) cite the lexicon क्ष्वेलितं सिंहनादः स्यात् to gloss क्ष्वेलन्तः as uttering lion-roars, while गर्जन्तः denotes deep cloud-like rumbling (मेघध्वनिं कुर्वन्तः) and आप्लवन्तः refers to leaping in circles on all sides to guard the host.
+
+_____________
+
+**6.4.27–28 (Playful Feats of Strength)**
+
+**Śivasahāya** (_Śiromaṇi_) links verses 27 and 28 into a single syntactic unit (सार्धश्लोक एकान्वयी): as the monkeys feast on honey and uproot blossoming trees for sport (लीलार्थं), they lift (निर्वहन्ति = उद्वहन्ति) and hurl one another down. **Govindarāja** notes the variant पतन्तश्चाक्षिपन्त्यन्ये, where falling monkeys pull their throwers down with them.
+
+_____________
+
+**6.4.29–30 (Vows of Victory and Trailblazers)**
+
+On नो निहन्तव्यः, **Rāma Varmā** cites Pāṇini's rule (कृत्यानां कर्तरि वा) for the genitive agent नः ('by us'). In verse 30, he clarifies that this vanguard Ṛṣabha assisting Nīla is distinct from the Ṛṣabha assigned to the right flank (दक्षिणपार्श्वनियुक्तादन्यो नीलसहकारी).
+
+_____________
+
+**6.4.31–32 (The Central Column and Śatabali's Guard)**
+
+On अवष्टभ्य, **Rāma Varmā** (_Tilaka_) glosses that Śatabali encompassed the entire host from every direction (समन्तादावृत्य), while **Śivasahāya** (_Śiromaṇi_) explains it as keeping the vast army under disciplined control (स्ववशीकृत्य), and **Govindarāja** (_Bhūṣaṇa_) renders it as enveloping (अपिधाय).
+
+_____________
+
+**6.4.33–34 (Flank and Rear Dispositions)**
+
+Regarding the four commanders in verse 33—Kesarī, Panasa, Gaja, and Arka—**Rāma Varmā** cites **Kataka**'s view that two guarded the right flank and two the left (द्वौ द्वौ तस्य बलस्य दक्षिणं वामं चैवं पार्श्वमभिरक्षतः), and notes **Maheśvara Tīrtha**'s observation that this Gaja is distinct from the vanguard Gaja (पूर्वभागनियुक्तादन्यः). **Govindarāja** instead takes एकं पार्श्वम् as the eastern flank (सव्यं पार्श्वम्) and explains that vanguard Gaja also assists on the flank through his extraordinary vigor (शक्त्यतिशयात्).
+
+_____________
+
+**6.4.35–36 (Discipline on the March)**
+
+Both **Rāma Varmā** and **Śivasahāya** explain पर्यवारयत् as Nīla restraining the monkeys from wandering at will and harassing towns along the route (मार्गवर्तिपुरादिपीडानिवारणार्थं).
+
+_____________
+
+**6.4.37–38 (The Sight of Mount Sahya and First Encampment)**
+
+**Rāma Varmā** (_Tilaka_) notes that the army's arrival at the Sahya range marks the first day's halt (अत्र प्रथमदिनविश्राम इति ज्ञायते). **Govindarāja** (_Bhūṣaṇa_) supplies दूरात् ('from afar') for अपश्यन्त and explains भीतवत् as an active past participle (कर्तरि क्तवतुप्रत्ययः, 'fearing Rāma's wrath').
+
+_____________
+
+**6.4.39–40 (Sparing Inhabited Lands)**
+
+**Śivasahāya** (_Śiromaṇi_) links verses 39 and 40 into one sentence (श्लोकद्वयमेकान्वयि): having learned Rāma's strict order through Nīla that cities and villages must be given a wide berth (नगरादिभ्यो दूरत एव गन्तव्यमित्याज्ञां), the monkey host bypasses urban outskirts (नगराभ्याशान् वर्जयत्) and surges ahead like the roaring sea.
+
+_____________
+
+**6.4.41–42 (The Simile of the Sun, Moon, and Planets)**
+
+On महद्भ्यां ग्रहाभ्यां, **Rāma Varmā** identifies the two planets touching the moon and sun as Rāhu and Ketu (राहुकेतुभ्यां), whereas **Govindarāja** identifies them as Venus and Jupiter (शुक्रबृहस्पतिभ्याम्), discerning an implied poetic suggestion (वस्तुध्वनिः) that a four-planet conjunction portends mass destruction for the enemy.
+
+_____________
+
+**6.4.43–45 (Lakṣmaṇa's Words of Encouragement)**
+
+On पूर्णार्थप्रतिभानवान्, **Rāma Varmā** (_Tilaka_) explains that Lakṣmaṇa possesses intuitive insight into all means of accomplishing their goal (पूर्णस्यार्थस्य कार्यस्य क्लृप्तेः प्रतिभानवान्), while परिपूर्णार्थम् qualifies Rāma. Adopting the reading स्मृतिमान्, **Govindarāja** (_Bhūṣaṇa_) glosses it as remembering the science of omens (निमित्तशास्त्रार्थस्मरणवान्).
+
+_____________
+
+**6.4.46–47 (Terrestrial Omens and the Tailwind)**
+
+**Rāma Varmā** notes that मृदुहितः सुखः in verse 46 expresses the three classic qualities of an ideal breeze—gentleness, coolness, and fragrance (मांद्यशैत्यसौरभाण्युक्तानि)—blowing from behind the army (सेनापृष्ठभागेन वाति). On पूर्णवल्गुस्वराः, he glosses पूर्णाः as unbroken (विच्छेदरहिताः) and वल्गवः as pleasing to the ear (श्रोत्रसुखाः).
+
+_____________
+
+**6.4.48 (The Favorable Transit of Venus and the Northern Stars)**
+
+Both **Govindarāja** and **Rāma Varmā** emphasize that Venus (उशना भार्गवः) trails behind Rāma (पश्चाद्भागं गतः), avoiding the astrological prohibition against marching toward a frontal Venus (प्रतिशुक्रं). **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) identify ब्रह्मराशिः as the Pole Star region (ध्रुवः) where the Seven Sages (सप्तर्षयः) revolve free of atmospheric haze.
+
+_____________
+
+**6.4.49–50 (Triśaṅku and the Ikṣvāku Star Viśākhā)**
+
+All three commentators note that Triśaṅku shines directly ahead in the southern sky (दक्षिणदिग्वर्तित्वेन), accompanied by his priest (सपुरोहितः), identified as either Viśvāmitra or the Vasiṣṭha created in Viśvāmitra's southern constellation. On विशाखे, **Govindarāja** (_Bhūṣaṇa_) explains the dual number by its twin stars (नक्षत्रद्वयात्मकत्वात्) and cites the _Jyautiṣadarpaṇa_ confirming Viśākhā as the Ikṣvāku dynastic star.
+
+_____________
+
+**6.4.51–52 (Affliction of the Rākṣasa Star Mūla)**
+
+On मूलो मूलवता स्पृष्टो, **Rāma Varmā** (_Tilaka_) explains that the Rākṣasa asterism Mūla (ruled by Nirṛti) is scorched (धूप्यते) by a comet rising with a rod-like tail (उदग्दण्डाकारेणाभ्युत्थितेन धूमकेतुना), portending doom for those seized by Death (कालगृहीतानां).
+
+_____________
+
+**6.4.53–54 (Seasonal Harmony and the Tārakāmaya Simile)**
+
+Citing Varāhamihira, **Govindarāja** shows that unseasonable flowers portend calamity, so यथर्तुकुसुमाः ('blossoming in due season') is a positive omen. On तारकामये, the commentators explain it either as the war for the destruction (आमयः = विनाशः) of the demon Tāraka or the war fought over Bṛhaspati's wife Tārakā.
+
+_____________
+
+**6.4.55–57 (The Dust Cloud Darkening the Sun)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that verse 55 concludes the extended syntactic period begun at the end of the previous section (प्रथमसर्गान्तोक्तः श्लोकत्रयानुवर्तन इति ज्ञायते). **Śivasahāya** (_Śiromaṇi_) links verses 55b–57 into a single four-line sentence (पद्यचतुष्टयमेकान्वयि): the dust kicked up by the claws, hands, and feet (कराग्रैश्चरणाग्रैश्च = करणैः) of the bears and monkeys blocks the sun's rays and envelops the world.
+
+_____________
+
+**6.4.58–59 (Rivers Flowing Backward)**
+
+On सस्यन्दुर्विपरीतवत्, **Rāma Varmā** (_Tilaka_) cites **Kataka**'s poetic view that just as moving clouds make the moon appear to race in the opposite direction, the army's rapid southward march made river currents seem to flow backward; yet **Rāma Varmā** and **Śivasahāya** prefer the physical explanation that millions of monkeys plunging across the rivers pushed the water upstream (प्रवाहाभिमुखं चेलुरित्यर्थः).
+
+_____________
+
+**6.4.60 (The Second Night's Encampment)**
+
+Both **Rāma Varmā** and **Śivasahāya** remark on साविशत् ('that army settled in') that this verse marks the army's second night of encampment (अयं द्वितीयो यामः / निवास इति प्रतीयते).
+
+_____________
+
+**6.4.61–63 (Youthful Exuberance on the March)**
+
+On समारोपितविक्रमाः, **Rāma Varmā** (_Tilaka_) explains that each monkey resolved to accomplish even the impossible by himself (असाध्येऽप्यहं चिन्त्यमयेन विक्रमप्रकारः), while **Govindarāja** (_Bhūṣaṇa_) glosses it as having their valor fully roused (अभिवृद्धविक्रमाः). **Śivasahāya** (_Śiromaṇi_) links verses 62 and 63 (श्लोकद्वयमेकान्वयि), taking यौवनोत्सेकजाद् दर्पात् as the ablative cause of their exuberant antics (विलासान् चक्रुः).
+
+_____________
+
+**6.4.64 (Monkey Calls and Gestures)**
+
+All three commentators identify किलकिलाम् as an onomatopoeic cry of joy characteristic of monkeys (वानराणां हर्षादिजनितशब्दः / वानरशब्दानुकरणम्). On प्रास्फोटयन् and संनिजघ्नुः, **Rāma Varmā** and **Govindarāja** supply भूमौ ('on the ground'), describing how the monkeys slapped their tails and stamped their feet against the earth.
+
+_____________
+
+**6.4.65–66 (Shattering Crags and Creepers)**
+
+On भुजान् विक्षिप्य, the commentators gloss प्रसार्य ('stretching out their arms'). **Rāma Varmā** and **Govindarāja** gloss ममृदुः as मर्दनं चक्रुः ('crushed'), while **Śivasahāya** renders क्ष्वेडाम् as a playful war-cry (हास्यविशेषम्).
+
+_____________
+
+**6.4.67–68 (The Third Encampment and Night March)**
+
+On जृम्भमाणाः, **Śivasahāya** (_Śiromaṇi_) glosses गात्रविक्षेपं कुर्वन्तः ('stretching their limbs') as the monkeys toss boulders and trees in sport. On श्रीमत्परिवृता, **Rāma Varmā** (_Tilaka_) takes श्रीमत् adverbially ('magnificently encompassed') and remarks on दिवारात्रम् that this marks the third day's halt (अयं तृतीयो वासः), resting only at midnight (मध्यरात्रे एव याममात्रे वासः).
+
+_____________
+
+**6.4.69 (The Desiderative Form Pramokṣayiṣavaḥ)**
+
+All three commentators analyze प्रमोक्षयिषवः ('desirous of liberating'): derived from the tenth-class root मोक्ष् ('to release') with the desiderative suffix _san_ and nominal suffix _u_, it lacks reduplication by archaic license (सनि द्विवचनाभाव आर्षः), since Pāṇinian reduplication rules are non-universal (संज्ञापूर्वकविधेरनित्यत्वात्).
+
+_____________
+
+**6.4.70–72 (Ascending Sahya and Malaya)**
+
+**Rāma Varmā** and **Śivasahāya** note **Maheśvara Tīrtha**'s variant reading सह्यपर्वतमासेदुर्मलयं च महीधरम् in verse 70b. On verse 72, **Govindarāja** (_Bhūṣaṇa_) identifies the flora broken by the monkeys, glossing सिन्दुवारकान् as निर्गुण्डीवृक्षान् and तिनिशान् as नेमिवृक्षान्.
+
+_____________
+
+**6.4.73–75 (Botanical Glosses and the Sandal Breeze)**
+
+On verse 73, **Govindarāja** (_Bhūṣaṇa_) provides standard lexical identifications for the mountain trees: अङ्कोलान् (निकोचकवृक्षान्), करञ्जान् (नक्तमालवृक्षान्), प्लक्षान् (जटीवृक्षान्), न्यग्रोधान् (वटान्, banyans), and नीपाः (कदम्बाः). On प्रस्तरेषु in verse 74, **Rāma Varmā** (_Tilaka_) glosses पाषाणेषु ('on rock-slabs') and **Govindarāja** explains वायुवेगः as the wind raised by the rushing monkey host itself.
+
+_____________
+
+**6.4.76–77a (The Canopy of Mineral Dust)**
+
+Both **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) gloss धातुभ्यः as red chalk and other mountain minerals (गैरिकादिभ्यः). **Govindarāja** notes that verse 76a introduces the mountain's mineral wealth specifically to explain how the entire monkey army came to be dusted with vermilion ore (वानराणां धातुरेणुरूषितत्वं वक्तुं).
+
+_____________
+
+**6.4.77b–78 (Flowering Shrubs on the Plateaus)**
+
+**Govindarāja** links verses 77b–82 into a five-and-a-half-verse sentence (सार्धपञ्चश्लोक्येकान्वया), explaining वासन्त्यः as an adjective qualifying माधव्यः ('spring-blooming mādhavī creepers', वसन्ते पुष्प्यन्तीति वासन्त्यः).
+
+_____________
+
+**6.4.79–82a (The Catalogue of Mountain Trees)**
+
+Completing the multi-verse botanical period, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss the rarer species: चिरिबिल्वाः (नक्तमालाः), मधूकाः (गुडपुष्पाः), वञ्जुलाः (वानीराः, cane-trees), नागवृक्षाः (नागकेसराः), कोविदाराः (पीतकर्ण्टकः / चमरिकः), अर्जुनाः (ककुभाः), कुटजाः (गिरिमल्लिकाः), हिन्तालाः (a species of palm, तालविशेषाः), and पद्मकाः (fragrant-flowered trees). All these are shaken and tossed about (पर्याकुलीकृताः) by the delighted monkeys.
+
+_____________
+
+**6.4.82b–83 (Mountain Wells and Waterfowl)**
+
+**Śivasahāya** (_Śiromaṇi_) notes that the feminine plural रम्याः modifies वाप्यः directly and extends to neuter पल्वलानि by gender adjustment (लिङ्गविपरिणामेनान्वयः). **Govindarāja** distinguishes the aquatic birds: कारण्डवाः as water-hens (जलकुक्कुटाः) and प्लवाः as cormorants (जलकाकाः).
+
+_____________
+
+**6.4.84 (Wild Beasts at the Watering Holes)**
+
+On तरक्षुभिः, **Śivasahāya** glosses it as a deer-eating predator (मृगभक्षको जन्तुविशेषः, hyena), while **Govindarāja** renders it as मृगादनैः, showing that predators and prey alike gather around the mountain pools.
+
+_____________
+
+**6.4.85–86 (Lotus Pools and Birdsong)**
+
+On सौगन्धिकैः, **Govindarāja** (_Bhūṣaṇa_) glosses कल्हारैः (fragrant red-or-white water-lilies). On तस्य सानुषु कूजन्ति, **Rāma Varmā** (_Tilaka_) refers तस्य to both Sahya and Malaya (सह्यस्य मलयस्य च), while **Govindarāja** adds that the flocks of birds cry out in alarm (भीताः) at the sight of the vast monkey army.
+
+_____________
+
+**6.4.87–88a (Water Sport and the Fourth Encampment)**
+
+Both **Govindarāja** and **Śivasahāya** (_Śiromaṇi_) gloss प्लावयन्ति as सिञ्चन्ति ('splash/sprinkle one another with pool water'), and render अमृतगन्धीनि as nectar-sweet (अमृतस्वादूनि / अमृतोपमानि). **Rāma Varmā** and **Śivasahāya** note that verse 87 marks the fourth day's halt (अयं चतुर्थो वासः).
+
+_____________
+
+**6.4.88b–90 (Droṇa-Sized Honeycombs and Resounding Peaks)**
+
+**Govindarāja** defines a द्रोण as a measure of two _śivas_ (द्रोणं शिवद्वयं) and takes मधूनि as honeycombs (मधुपटलानि). On विधमन्तः, he cites the Dhātupāṭha entry ध्मा शब्दाग्निसंयोगयोः ('filling the mountains with reverberating sound').
+
+_____________
+
+**6.4.91 (The Simile of Ripe Rice-Fields)**
+
+Reading कलमकेदारैः, **Rāma Varmā** (_Tilaka_) explains the simile carefully: the earth covered by tawny-gold monkeys who have drunk golden honey (पीतमधुभिर्हरिभिः) gleams like agricultural plots heavy with golden-ripe _kalama_ rice (पक्वैः फलितैः कलमकेदारैर्व्रीहिक्षेत्रैर्यथा भाति). He also notes that the repeated particle इव after यथा carries correlative force (इवशब्दस्तथाथे).
+
+_____________
+
+**6.4.92–94 (Rāma Ascends Mahendra as the Host Arrives)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that Rāma climbs Mount Mahendra's peak out of eagerness (कुतूहलित्वमुक्तम्) to survey the ocean. On आनुपूर्व्येण in verse 94, **Rāma Varmā** notes that this summarizes several intervening days of marching (वासद्वयमन्त्याद्बोध्यम्) as the divisions arrive in their prescribed marching order (सेनासन्निवेशक्रमेण).
+
+_____________
+
+**6.4.95–96 (Descending to the Wave-Washed Shore)**
+
+On रमयतां श्रेष्ठः, **Govindarāja** remarks that Rāma enchants Lakṣmaṇa and Sugrīva by pointing out the beauty of the coastal woods (वेलावनम्). On सहसोत्थितैः, **Rāma Varmā** explains that the ocean's waves surge up suddenly due to the wind raised by the approaching monkey host (वानरप्रयाणानिलक्षोभेण).
+
+_____________
+
+**6.4.97–98 (The Shoreless Ocean)**
+
+On अतः परमतीरोऽयम्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) separate परम् ('beyond this shore') and take अतीरः as a privative compound ('shoreless, lacking any footing for ships or swimmers', नौकायनाचायनरूपालम्बनविहीनः / अविद्यमानतीरः). **Śivasahāya** (_Śiromaṇi_) alternatively construes परमतीरः as having a shore that is extraordinarily difficult to reach (दुष्प्रापलङ्कासंबन्धिविशिष्टतीरवान्).
+
+_____________
+
+**6.4.99–101 (The Ostensible and True Motives for Halting)**
+
+Commenting on इतीव in verse 100, **Govindarāja** discerns a subtle psychological nuance: Rāma states the need for a war council on crossing the sea as his ostensible reason (बाह्यो हेतुः) for halting, whereas his true inner reason (वस्तुतस्तु) is his overwhelming exhaustion from grief over Sītā's abduction (सीताहरणकर्शितः).
+
+_____________
+
+**6.4.102 (Guarding Against Concealed Rākṣasa Attacks)**
+
+All three commentators explain छन्नं भयम् as the danger of unseen ambushes by illusion-wielding Rākṣasas (रक्षोमायाकृतत्वाद्गूढं भयम्), requiring heroic scouts to patrol all four quarters around the camp.
+
+_____________
+
+**6.4.103–105 (The Tawny Second Ocean)**
+
+On the poetic fancy (_utprekṣā_) in verse 104, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain मधुपाण्डुजलः: through association with मधु ('honey'), the word पाण्डु here denotes a tawny-gold hue (पिङ्गलवर्णवाची), so the mass of honey-colored monkeys looks like a second ocean of golden water.
+
+_____________
+
+**6.4.106 (Drowning Out the Surf)**
+
+All three commentators gloss सैन्यसंनाहनिःस्वनः as the din of the troops moving into camp (सेनासंचारस्य निःस्वनः), which muffled (अन्तर्धाय) the booming surf of the sea.
+
+_____________
+
+**6.4.107–108 (The Threefold Encampment)**
+
+The commentators offer three interpretations of त्रिधा निविष्टा ('encamped in three divisions'): (1) by the three species of bears, _golāṅgūlas_, and _vānaras_ (ऋक्षगोलाङ्गूलवानररूपत्रियूथभेदेन); (2) by three grades of troop strength—supreme, medium, and light (अतिमहन्महल्लघुयूथभेदेन); or (3) by the three battle formations of right wing, left wing, and center (दक्षिणसव्यमध्यभेदेन).
+
+_____________
+
+**6.4.109–110 (Dusk Over the Ocean)**
+
+**Śivasahāya** (_Śiromaṇi_) links verses 109–113 into a picturesque nocturnal description (अर्धनवकमेकान्वयि). On असम्बाधम्, **Rāma Varmā** (_Tilaka_) glosses it as unobstructed by islands or mountains (मध्ये गिर्याद्याश्रयरहितं), while **Govindarāja** (_Bhūṣaṇa_) renders it as unfathomably vast (अनवधिरहितम्). At dusk (क्षपादौ दिवसक्षये), the white foam looks like laughter and the rolling waves like dancing.
+
+_____________
+
+**6.4.111 (Reflected Moons and Leviathans)**
+
+As the moon rises, the swelling sea is filled with प्रतिचन्द्रसमाकुलम्—countless moons reflected on every wave (प्रतिवीचि प्रतिफलितचन्द्रत्वात्). All three commentators quote the traditional verse अस्ति मत्स्यस्तिमिर्नाम शतयोजनमायतः defining a तिमि as a hundred-_yojana_ whale and a तिमिङ्गिल as the monster that swallows it whole.
+
+_____________
+
+**6.4.112–113 (Glowing Nāgas and Billowing Waves)**
+
+On दीप्तभोगैः, the commentators note that the marine serpents illuminate the depths with their crest-jewels (शिरोरत्नकान्त्या प्रकाशितफणैः), while जलराशयः denotes the wind-tossed billows (तरङ्गाः).
+
+_____________
+
+**6.4.114 (Fiery Spray and Glowing Serpents)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that the crest-gems of giant sea-serpents (भास्वराम्बुमहोरगम्) make the dark ocean look as if scattered with fiery sparks (अग्निचूर्णमिवाविद्धम् = विस्फुलिङ्गरूपम्). **Govindarāja** (_Bhūṣaṇa_) adds that at night ocean spray naturally gleams like phosphorescent fire-dust (रात्रौ सागरस्य सलिलशीकराः अग्निचूर्णा इव दृश्यन्ते), and applies all the epithets of verse 114 equally to both sea and sky.
+
+_____________
+
+**6.4.115 (Reciprocal Simile of Sea and Sky)**
+
+**Rāma Varmā** identifies the figure in verse 115 as _upameyopamā_ (उपमेयोपमालंकारः), where sea and sky serve as mutual standards of comparison in vastness (वैपुल्यात्), culminating in निर्विशेषम् ('indistinguishable'). **Govindarāja** notes that the masculine accusative सागरम् is used as a neuter nominative by epic license (क्लीबत्वमार्षम्).
+
+_____________
+
+**6.4.116–117 (Stars, Gems, Clouds, and Waves)**
+
+All three commentators explain the compound तारारत्नसमाकुले distributively: the sky is filled with stars (ताराः) and the sea with glowing gems (रत्नानि), while rising clouds mirror the garlands of white-crested waves (मेघवीचिमालयोर्बिम्बप्रतिबिम्बभावेन).
+
+_____________
+
+**6.4.118 (Waves Booming Like Kettle-Drums)**
+
+Commenting on अन्योन्यैराहताः सक्ताः, **Govindarāja** (_Bhūṣaṇa_) reverses the logical sequence of the participles (प्रथमं सक्ताः अथ आहाताः): the crowded waves first press continuously together (सक्ताः = निरन्तराः) and then crash into one another, booming like war-drums in the sky or on the battlefield.
+
+_____________
+
+**6.4.119–120 (The Wind-Lashed Ocean Leaping Skyward)**
+
+On रत्नौघजलसंनादम्, **Govindarāja** notes that the clashing sound of gems and water reveals how the fierce gale churns up jewels from the seabed (अन्तर्गतरात्नानामुद्गमनमवगम्यते). Both **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** analyze वाताहतजलाशयम् as a _karmadhāraya_ compound ('the ocean whose waters are struck by the wind') and justify the repetition of अनिलोद्धूतम् as specifying how the gale lifts the waves into the sky.
+
+_____________
+
+**6.4.121 (The Wonder of the Monkey Host)**
+
+On प्रवल्गन्तम् / प्रलपन्तम्, **Govindarāja** prefers 'galloping/bounding with waves', while **Śivasahāya** explains प्रलपन्तम् as the ocean seeming to speak aloud (किंचित्कथयन्तमिव) through its roaring surf, leaving the monkeys awestruck (विस्मयमापन्नाः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

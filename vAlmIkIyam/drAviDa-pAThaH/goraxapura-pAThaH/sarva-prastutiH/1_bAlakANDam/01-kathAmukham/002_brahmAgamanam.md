@@ -90,6 +90,14 @@ Then, the great sage Valmiki, a skilled orator and a virtue-minded one, having h
 
 Having heard that nectar-like discourse of Nārada, the righteous-souled Vālmīki—himself a master of eloquent speech (_vākyaviśāradaḥ_)—accompanied by his disciples, reverently worshipped the great sage.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.1–2 (vākyaviśāradaḥ & āpṛṣṭvaivābhyanujñātaḥ)**
+
+**Govindarāja (_Bhūṣaṇa_)** and **Śivasahāya (_Śiromaṇi_)** explain the pointed epithet _vākyaviśāradaḥ_ (“master of speech”): only one who himself knows the subtle essence of poetic and Vedic diction can fully appreciate the conciseness and pregnant depth of Nārada’s discourse (_vākyasya sārāsārajñaḥ san pūjayāmāsa_). In v. 2, **Rāma Varmā (_Tilaka_)** notes the two-step courtesy of guest and host: Nārada first intimates his wish to depart (_āpṛṣṭvā_), and Vālmīki—though reluctant to part from him—grants his respectful consent (_abhyanujñātaḥ_) only because a celestial sage cannot be detained from his cosmic duties.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,6 +196,14 @@ Then, on Narada's going to the world of gods in a trice, that sage Valmiki went 
 
 A brief while (_muhūrtam_) after Nārada had departed for the celestial realm, the sage Vālmīki set forth for the bank of the Tamasā river, situated not far from the sacred Jāhnavī (Gaṅgā).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.3 (jāhnavyās tv avidūrataḥ)**
+
+All three commentators (**Tilaka**, **Śiromaṇi**, and **Govindarāja**) ask why Vālmīki chose the Tamasā when the sacred Jāhnavī (Gaṅgā) flowed nearby. **Govindarāja** and **Śiromaṇi** offer two reasons: first, proximity to the Gaṅgā already sanctifies the Tamasā (_gaṅgā-sāmīpyāt tamasāyā api pāvanatva-prācuryaṃ dhvanyate_); second, whereas the Gaṅgā’s banks are crowded with sages performing austerities and deep swift currents, the secluded wood-lined banks of the Tamasā afford tranquil solitude for midday contemplation.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -282,6 +298,20 @@ Having reached the bank of the Tamasā, the sage beheld a ford wholly free of mu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Behold (_niśāmaya_), O Bharadvāja, how free of mire is this sacred ford! Delightful to the heart and pellucid in its waters (_prasannāmbu_), it shines like the mind of a virtuous man (_sanmanuṣyamano yathā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.5 (niśāmaya — Pāṇinian Dhātupāṭha Excursus)**
+
+Every classical commentator highlights the imperative _niśāmaya_. While the root _śam_ in the sense of ‘quieting’ (_śamu upaśame_) is marked with the indicatory letter _m_ (_mit_) and therefore shortens its radical vowel in the causative (_śamayati_, _niśamayati_ = ‘hears’) by Pāṇini 6.4.92 (_mitāṃ hrasvaḥ_), the _Dhātupāṭha_ explicitly excepts _śamo darśane_ (‘in the sense of seeing, _śam_ lacks _mit_-status’): hence _niśāmaya_ with long _ā_ rigorously means “Behold with your own eyes!” (_paśya_).
+
+_____________
+
+**2.5–6 (sanmanuṣyamano yathā — Kāvyārtha-sūcana)**
+
+**Govindarāja** inaugurates his celebrated allegorical reading (_kāvyārtha-sūcana_) on v. 5: this entire _Rāmāyaṇa-tīrtha_ is _akardamam_ (free from the mire of worldly fault), _ramaṇīyam_ (delightful), and _prasannāmbu_ (serene, or yielding the grace of the Divine Mother _Ambā_), mirroring the pure mind of the _san-manuṣya_—the Supreme Person who has assumed human birth as Śrī Rāma. In v. 6, Vālmīki addresses his pupil Bharadvāja as _tāta_ (“father/dear son”): **Govindarāja** quotes the lexical rule that _tāta_ denotes both one’s sire and one’s cherished disciple or son.
 </details>
 </details>
 
@@ -380,6 +410,14 @@ Thus being said by the great-souled Valmiki, Bharadwaaja who was obedient to his
 
 Thus addressed by the magnanimous Vālmīki, Bharadvāja—ever disciplined and reverent toward his preceptor (_niyato guroḥ_)—handed the bark-garment to that sage.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.7–8 (prāyacchata munes tasya & niyatendriyaḥ)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja** note the archaic genitive _munes tasya_ used in the dative sense of recipient (_caturthyarthe ṣaṣṭhī_). In v. 8, **Govindarāja** remarks that Vālmīki specifies _niyatendriyaḥ_ (“with senses subdued”) lest anyone think the sage was distracted by sensual pleasure while admiring the woodland beauty: his appreciation of nature was purely contemplative, free from attachment, making his subsequent grief for the bird pure _karuṇā_ (disinterested compassion) rather than egoistic infatuation.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -474,6 +512,14 @@ foreshore, flying there about in togetherness and cooing charmingly. [1-2-9]
 
 Near that bank, the worshipful sage beheld a pair of _krauñca_ (sarus crane) birds wandering together in inseparable union (_anapāyinam_), warbling sweet and melodious notes (_cāruniḥsvanam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.9–10 (anapāyinam, vairanilayaḥ & tasya paśyataḥ)**
+
+Why does Vālmīki call the fowler _pāpaniścayaḥ_ (“of sinful resolve”) and _vairanilayaḥ_ (“abode of enmity”) when hunting is the livelihood of a Niṣāda? **Śivasahāya (_Śiromaṇi_)** and **Govindarāja** explain: first, the birds were _anapāyinam_ (never parting even for a moment, absorbed in conjugal union) and _cāruniḥsvanam_ (delighting the forest with sweet song), so killing one violated the scriptural prohibition against slaying creatures in mating; second, by Pāṇini 2.3.38 (_ṣaṣṭhī cānādare_), the genitive absolute _tasya paśyataḥ_ (“in blatant disregard of the sage looking on right before him”) proves the hunter’s brazen defiance of a holy ascetic in an _āśrama_ precinct.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -550,6 +596,14 @@ Out of that pair, a Niṣāda fowler of sinful resolve (_pāpaniścayaḥ_)—th
 
 Beholding him struck down, his limbs bathed in blood (_śoṇitaparītāṅgam_) and writhing in agony upon the ground (_ceṣṭamānaṃ mahītale_), his mate (_bhāryā_) uttered a heart-rending cry of lamentation.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.11–12 (Why the Male Bird’s Qualities Magnify the Female’s Grief)**
+
+In v. 11, **Tilaka**, **Śiromaṇi**, and **Govindarāja** unanimously read _ceṣṭamānam_ (“writhing and rolling on the ground in death-throes,” _luṭhantam_). On v. 12 (preserved in all Southern manuscripts and commentaries), **Govindarāja** explains how each of the five instrumental epithets deepens the female bird’s bereavement: he was her lawful spouse (_patinā_), of noble twice-born birth (_dvijena_), her inseparable companion in every flight (_sahacāriṇā_), in the prime of youth with his crimson crest (_tāmraśīrṣeṇa_), and overflowing with tender affection (_mattena_, _sahitena_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -600,6 +654,14 @@ husband.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Torn apart from that lord of hers—a twice-born bird (_dvijena_), her constant companion (_sahacāriṇā_), crimson-crested (_tāmraśīrṣeṇa_), transported with love-joy (_mattena_), strong-winged (_pattriṇā_), and ever united with her (_sahitena_)—she wailed piteously.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.12 (Govindarāja’s Double Kāvyārtha-sūcana Allegory)**
+
+**Govindarāja** unveils a remarkable two-fold _dhvani_ encoded in vv. 9–12: **(1) Rāvaṇa & Mandodarī:** The inseparable pair in the pleasure-grove of Laṅkā is Rāvaṇa and Mandodarī; Rāvaṇa is _dvija_ (great-grandson of Brahmā, son of Viśravas), _tāmraśīrṣa_ (wearing ruby-studded crowns), _matta_ (intoxicated with power), and _pattrin_ (borne on aerial chariots and steeds), slain by _Niṣāda_ (= Mahāviṣṇu, _niṣīdanty asmin bhūtāni_, in whom all beings rest!). **(2) Rāma & Sītā at Pañcavaṭī:** By _vipariṇāma_, the forest by the river is Pañcavaṭī by the Godāvarī, where the cruel Rāvaṇa separates Jānakī from her beloved companion Śrī Rāma.
 </details>
 </details>
 
@@ -702,6 +764,14 @@ the killing of male bird as unjust, the sage uttered this sentence... [1-2-14]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, out of his tender sensitivity to another’s sorrow (_karuṇaveditvāt_), judging “This is a grievous transgression of _dharma_!” (_adharmo ’yam iti_), the twice-born sage, hearing the female _krauñcī_ weeping, uttered these words:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.14 (adharmo ’yam iti — Why Killing a Mating Bird Violates Dharma)**
+
+**Govindarāja** cites the identical moral law from the _Mahābhārata_ (_Ādiparva_ 118.10), where the dying sage Kindama—struck while mating in deer-form—rebukes King Pāṇḍu: _“asvargyam ayaśasyaṃ tvam anutiṣṭhasi bhārata | ko hi vidvān mṛgaṃ hanyāc carantaṃ maithunaṃ vane”_ (“You commit an act that bars heaven and brings infamy, O Bhārata! What man of wisdom would slay a creature engaged in conjugal union in the forest?”). Hence Vālmīki’s pronouncement does not spring from capricious anger, but from clear perception of _dharma_ (_adharmo ’yam iti_) fused with tender compassion (_karuṇaveditvāt_).
 </details>
 </details>
 
@@ -884,6 +954,20 @@ suggested.
 
 “O Niṣāda, may you not attain enduring continuance (_pratiṣṭhām_) for eternal years to come (_śāśvatīḥ samāḥ_), since out of a pair of _krauñca_ birds you have slain one while he was absorbed in the transport of love (_kāmamohitam_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.15 (The Commentators on ‘mā niṣāda pratiṣṭhāṃ tvam agamaḥ’)**
+
+The commentators reveal four simultaneous layers of meaning in the _Ādi-śloka_: **(1) Literal Curse on the Fowler:** “O hunter, may you never attain long life or stable footing for eternal years!” **(2) Kataka (quoted in _Tilaka_):** _niṣāda_ = _nitarāṃ sadevarṣigaṇaṃ trailokyaṃ sādayati pīḍayatīti niṣādo rāvaṇaḥ_—“O Rāvaṇa, tormentor of the three worlds, you shall never endure, because from the united pair of Rāma and Sītā you tore away one!” **(3) Maheśvara Tīrtha (quoted in _Tilaka_) & Govindarāja (Benediction / _Maṅgalācaraṇa_):** Dividing _mā-niṣāda_ as a _bahuvrīhi_ vocative—_mā lakṣmīr niṣīdaty asmin_ (“O Consort in whom Goddess Lakṣmī ever abides, O Śrī Rāma!”)—and taking _agamo ’vadhīḥ_ positively: “May You attain supreme glory (_pratiṣṭhām_) for eternal years, since from the _rākṣasa_ couple (Rāvaṇa and Mandodarī) You slew the lust-infatuated male!”
+
+_____________
+
+**2.15 (Śiromaṇi’s Saptakāṇḍārtha-sūcana — All Seven Kāṇḍas Encoded in One Verse)**
+
+**Śivasahāya (_Rāmāyaṇa-śiromaṇi_)** demonstrates how the _Ādi-śloka_ prophetically yields the central theme of each of the seven _Kāṇḍas_: **(1) Bālakāṇḍa:** _mānināṃ garvaviśiṣṭānāṃ ṣaḥ śreṣṭhaḥ paraśurāmaḥ tam āsamantād dadate khaṇḍayatīti māniṣādaḥ_ (He who humbles Paraśurāma and weds Sītā); **(2) Ayodhyākāṇḍa:** He who renounces royal fortune (_mā_) and enters the forest; **(3) Araṇyakāṇḍa:** He who slays Virādha, Khara, and Mārīca; **(4) Kiṣkindhākāṇḍa:** He who fells Vālī (from the pair Vālī and Tārā); **(5) Sundarakāṇḍa:** Hanumān bearing the news of Sītā; **(6) Yuddhakāṇḍa:** The slaying of lust-blinded Rāvaṇa (_kāmamohitam_); and **(7) Uttarakāṇḍa:** Śrī Rāma’s eternal sovereignty.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1045,6 +1129,14 @@ kiirti
 
 “Bound in four metrical quarters (_pādabaddhaḥ_), equal in syllables (_akṣarasamaḥ_), and endowed with the rhythmic cadence of lute-strings (_tantrī-laya-samanvitaḥ_)—since this utterance sprang forth from me while I was stricken with grief (_śokārtasya_), let it be a _śloka_, and nothing otherwise!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.18 (pādabaddho ’kṣarasamaḥ ... śloko bhavatu)**
+
+**Rāma Varmā (_Tilaka_)** cites the _Nighaṇṭu_ (_“śloko yaśasi padye ca”_): because this utterance is bound in four quarters (_pādabaddhaḥ_), has eight equal syllables per quarter (_akṣarasamaḥ_), and possesses the musical tempo adaptable to the lute and the three _layas_—_druta_, _madhya_, and _vilambita_ (**Govindarāja** cites the _Ratnamālā_: _“nāśe saṃśleṣaṇe tauryatrika-sāmye bhavel layaḥ”_)—let it be renowned both as a metrical stanza (_śloka_) and as immortal poetic fame (_yaśas_) born of grief (_śoka_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1105,6 +1197,14 @@ by which the saint too, was delighted. [1-2-19]
 
 As that sage spoke, his disciple Bharadvāja joyfully received and committed to memory (_pratijagrāha saṃhṛṣṭaḥ_) that peerless utterance; and the preceptor was deeply pleased with him.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.19 (pratijagrāha saṃhṛṣṭas tasya tuṣṭo ’bhavad guruḥ)**
+
+What does _pratijagrāha_ (“received”) signify here? **Rāma Varmā (_Tilaka_)** and **Govindarāja** explain: _pratijagrāha kaṇṭhaṃ cakārety arthaḥ; ādarārthaḥ kaṇṭhapāṭhaḥ_—recognizing the miraculous birth of metrical poetry, Bharadvāja immediately memorized the stanza word-for-word with faultless intonation, and his spontaneous devotion delighted his guru Vālmīki. Thus the oral _guru-śiṣya-paramparā_ of the _Rāmāyaṇa_ begins at the very moment the _Ādi-śloka_ is uttered.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1159,6 +1259,14 @@ on him are on the analogy of poetic verses of Ramayana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having performed his ritual ablutions (_abhiṣekam_) in that sacred ford according to scriptural ordinance (_yathāvidhi_), the sage turned back toward his hermitage, pondering that very matter in his heart.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.20–21 (abhiṣekaṃ tataḥ kṛtvā & śrutavān guroḥ)**
+
+Even while shaken by the bird’s tragedy and the birth of the _śloka_, Vālmīki does not neglect a single detail of his midday _mādhyandina-snāna_ and _tarpaṇa_ rites (_tīrthe tasmin yathāvidhi_), illustrating how a _dharmavit_ sage unites deep emotional sensitivity with unwavering ritual discipline. In v. 21, **Govindarāja** construes _śrutavān guroḥ_ by Pāṇini 1.4.29 (_ākhyātopayoge_): Bharadvāja had learned the sciences systematically from his preceptor’s own lips and humbly carried the full water-pitcher behind him.
 </details>
 </details>
 
@@ -1254,6 +1362,14 @@ is preoccupied in cogitation on the verse. [1-2-22]
 
 Entering the hermitage precinct accompanied by his disciple, that knower of _dharma_ took his seat and, though conversing on other matters of sacred lore, remained inwardly absorbed in meditation (_dhyānam āsthitaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.22 (kathāś cānyāś cakāra dhyānam āsthitaḥ)**
+
+How could Vālmīki simultaneously engage in other discussions (_kathāś cānyāś cakāra_) and remain absorbed in meditation (_dhyānam āsthitaḥ_)? **Rāma Varmā (_Tilaka_)** and **Śivasahāya (_Śiromaṇi_)** explain that _kathāś cānyāḥ_ refers to brief, necessary exchanges on scriptural or _dharma_ topics with the sages of the hermitage; the moment those duties were concluded, his mind returned immediately to one-pointed meditation on the mystery of the _śloka_ and the plight of the _krauñcī_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1313,6 +1429,14 @@ i.e. authoring the epic, Ramayana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the four-faced Lord Brahmā of transcendent splendor—the self-manifest Creator of the worlds (_lokakartā svayaṃ prabhuḥ_)—came in person to behold that bull among sages.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.23–24 (The Arrival of Four-Faced Brahmā & Vālmīki’s Silent Reverence)**
+
+Why does v. 23 describe Brahmā as _lokakartā svayaṃ prabhuḥ_ (“the Lord and Creator of the worlds in person”)? To show the extraordinary honor bestowed upon Vālmīki: the cosmic Creator who governs all beings laid aside his celestial affairs and descended in his four-faced form solely to visit the sage. In v. 24, **Tilaka** explains _vāgyataḥ_ (“speech-restrained”) as _laukika-vacana-śūnyaḥ_: struck with awe before the Creator, Vālmīki refrained from all ordinary speech until he had first offered silent prostration and ritual hospitality.
 </details>
 </details>
 
@@ -1446,6 +1570,14 @@ now arrives to ordain Valmiki to author Ramayana.
 
 Bowing down in accordance with scriptural rule and inquiring after his unblemished well-being (_nirāmayam_), Vālmīki worshipped that Effulgent Lord with water for the feet (_pādya_), oblation-water (_arghya_), a seat of honor (_āsana_), and reverent salutations.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.25–26 (pṛṣṭvā caiva nirāmayam & vālmīkaye ca ṛṣaye)**
+
+How can a mortal sage inquire after the “health and well-being” (_nirāmayam_) of the Creator Brahmā, who is exempt from bodily disease? **Govindarāja** and **Rāma Varmā (_Tilaka_)** explain that according to the _Smṛtis_, polite inquiry after welfare (_kuśala-praśna_) is an obligatory limb of welcoming any honored guest; toward Brahmā, it signifies inquiring whether the cosmic order of the worlds he governs proceeds without obstruction. On _vālmīkaye_ (v. 26c), **Tilaka** notes the _ārṣa_ stem-treatment alongside the metrical hiatus _ca ṛṣaye_ sanctioned by Śākalya’s rule (Pāṇini 6.1.127–128: _ṛty akaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1577,6 +1709,20 @@ to capture the kill, is an evil souled one that caused hardship..." [1-2-28b-29a
 **27:** Permitted by Brahmā (_brahmaṇā samanujñātaḥ_), he too sat down upon his seat. Even while the Grandfather of the worlds sat visibly before him in person (_sākṣāl lokapitāmahe_), Vālmīki, his mind wholly absorbed in that earlier tragedy, sank into brooding contemplation:
 
 **28:** “Alas, a cruel deed was perpetrated by that sinful-souled wretch of hostile intent, in that without any cause (_akāraṇāt_) he slew such a sweet-voiced _krauñca_ bird!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.27 (The Three-Line Sārdhaśloka & the Tilaka vs. Govindarāja Boundary)**
+
+Both **Govindarāja (_Bhūṣaṇa_)** and **Śivasahāya (_Śiromaṇi_)** explicitly mark Verse 27 as a three-line syntactical unit (_“sārdhaśloka ekānvayī”_). Why? Because Line 1 (_brahmaṇā samanujñātaḥ..._, preserved in the Southern Recension) completes the seating protocol of v. 26, while Lines 2–3 (_upaviṣṭe tadā tasmin..._) form a single locative-absolute sentence introducing Vālmīki’s meditation. (In Rāmavarman’s _Tilaka_, counting every two lines mechanically from v. 27 to v. 37 splits every subsequent sentence in half—even severing _yāvat sthāsyanti girayaḥ_ from _tāvad rāmāyaṇakathā_! Following Govindarāja and Śiromaṇi keeps every couplet 28–38 syntactically whole and in 1-to-1 alignment with Baroda CE 1.2.27–37.)
+
+_____________
+
+**2.27–29 (Why Vālmīki Was Distracted Even Before Lord Brahmā)**
+
+**Govindarāja** highlights the force of _sākṣāl lokapitāmahe_: ordinarily, the visible presence of the Creator would command total absorption, yet Vālmīki’s heart was so pierced by the _krauñcī_’s grief—and so pregnant with the impending _Rāmāyaṇa_—that he recited the stanza aloud right before Brahmā (_upaślokam imaṃ jagau_).
 </details>
 </details>
 
@@ -1728,6 +1874,20 @@ you shall render the legend of Rama, in its entirety... [1-2-31]
 
 **31:** “By my own will alone (_macchandād eva_), O Brāhmaṇa, has this goddess of speech (_sarasvatī_) issued forth from your lips! Compose, therefore, in its entirety (_kṛtsnam_), the sacred history of Rāma, O noblest of seers!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.30 (prahasan & nātra kāryā vicāraṇā)**
+
+Why did Lord Brahmā smile (_prahasan_)? **Rāma Varmā (_Tilaka_)** and **Govindarāja** explain: Vālmīki was anxiously wondering, “Have I committed a fault in cursing a hunter out of grief, or is this a mere cry of anguish?” Brahmā smiled with paternal delight because what Vālmīki mistook for his own sorrowful outburst was in truth the divine meter which Brahmā himself had awakened on the sage’s tongue to inaugurate the _Ādikāvya_!
+
+_____________
+
+**2.31 (macchandād eva te brahman pravṛtteyaṃ sarasvatī)**
+
+Both **Govindarāja** and **Śivasahāya (_Śiromaṇi_)** cite the lexicon _Viśvaprakāśa_ (_“chandaḥ padye ’bhilāṣe ca”_) to explain _macchandāt_ in two complementary ways: **(1) “By my divine will/desire” (_mad-icchā-vaśād eva_):** Since Goddess Sarasvatī is the consort seated upon Brahmā’s own tongue, she manifested in Vālmīki’s heart at Brahmā’s command so that the sage might compose the _Rāmāyaṇa_. **(2) “Through the Vedic meters that belong to me”:** Just as the four Vedas issued from Brahmā’s four mouths in Gayatrī and Anuṣṭubh meters, this _Ādi-śloka_ has flowed in the sacred Vedic _Anuṣṭubh_ meter to become the fifth Veda.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1796,6 +1956,14 @@ a godlike person in this world as well, as you have heard it from sage Narada. [
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Narrate the deeds of Rāma—the righteous-souled (_dharmātmanaḥ_), the Lord possessed of sixfold divine majesty in this world (_bhagavataḥ_), the wise and steadfast hero (_dhīmataḥ_, _dhīrasya_)—just as you have heard them from Nārada.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.32 (dharmātmano bhagavato loke rāmasya)**
+
+Why does the Southern Recension read _bhagavataḥ_ here (where Northern manuscripts simplify to _guṇavataḥ_)? **Rāma Varmā (_Tilaka_)** and **Govindarāja** explain that Brahmā intentionally pairs _dharmātmanaḥ_ (His exemplary human observance of _dharma_) with _bhagavataḥ_ (His possession of the six transcendent divine attributes—_aiśvarya, vīrya, yaśas, śrī, jñāna, vairāgya_—per _Viṣṇu Purāṇa_ 6.5.74), reminding Vālmīki that the hero of his poem is the Supreme Lord Himself incarnate in the world (_loke_).
 </details>
 </details>
 
@@ -1874,6 +2042,14 @@ it were to be unknown, as yet... [1-2-33-34]
 
 **34:** “And whatever befell Vaidehī (Sītā)—whether in public view or in solitude (_rahaḥ_)—all that too, though hitherto unknown to you (_aviditaṃ sarvam_), shall become directly known to your inner vision (_viditaṃ te bhaviṣyati_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.33–34 (rahasyaṃ ca prakāśaṃ ca — The Boon of Yogic Omniscience)**
+
+Nārada had given Vālmīki only a 100-verse epitome (_Saṅkṣepa-Rāmāyaṇa_). How then could Vālmīki narrate intimate conversations spoken in solitude by Rāma, Sītā, and Lakṣmaṇa, or secret counsels held by Rāvaṇa and his ministers inside Laṅkā? **Govindarāja** notes that Brahmā’s first boon (vv. 33–34) grants Vālmīki direct perception (_pratyakṣa-sākṣātkāra_) of every private word, thought, and gesture of Rāma, Lakṣmaṇa, Sītā, and the _rākṣasas_ across all three times.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1927,6 +2103,14 @@ word of yours will not be false in this epic... [1-2-35]
 
 “Not a single word of yours in this poem shall ever prove untrue (_na te vāg anṛtā kāvye kācid atra bhaviṣyati_)! Compose, therefore, the sacred, heart-ravishing story of Rāma bound in melodious _ślokas_.”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.35 (na te vāg anṛtā kāvye — The Boon of Poetic Infallibility)**
+
+Why is a second boon needed in v. 35 after omniscience in v. 34? **Rāma Varmā (_Tilaka_)**, **Śivasahāya (_Śiromaṇi_)**, and **Govindarāja** give a brilliant explanation: poets often introduce imaginative embellishments, hyperboles (_atiśayokti_), or descriptive details carried by the momentum of meter and _rasa_ even beyond what they directly observed; Brahmā guarantees that _even whatever Vālmīki utters by poetic inspiration in this work shall correspond entirely to reality—not a single syllable shall ever be false!_
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1965,6 +2149,14 @@ Bestowing the immortal benediction ‘yāvat sthāsyanti girayaḥ...’, Lord B
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “As long as the mountains and the rivers shall endure upon the surface of the earth, so long shall the story of the _Rāmāyaṇa_ circulate throughout the worlds!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.36 (yāvat sthāsyanti girayaḥ saritaś ca mahītale)**
+
+This immortal stanza stands at the threshold of Sanskrit literature as the charter of the _Rāmāyaṇa_’s eternity. **Govindarāja** and **Śivasahāya (_Śiromaṇi_)** observe that mountains and rivers are the enduring pillars and life-arteries of the earth across cosmic ages (_ā-kalpa-sthāyinaḥ_); by linking the circulation of the _Rāmāyaṇa-kathā_ to their existence, Lord Brahmā ordains that as long as human civilization inhabits the earth, the story of Rāma will never fade from living memory.
 </details>
 </details>
 
@@ -2034,6 +2226,14 @@ heavenly, in netherworlds, and even in my abode, namely Abode of Brahma... [1-2-
 
 “And as long as the story of Rāma composed by you (_tvatkṛtā_) shall circulate, so long shall you dwell aloft and below across all my cosmic realms (_mallokeṣu nivatsyasi_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.37 (ūrdhvam adhaś ca tvaṃ mallokeṣu nivatsyasi)**
+
+What do “aloft and below across my worlds” (_ūrdhvam adhaś ca mallokeṣu_) signify? **Govindarāja** explains: _adhobhūloke kīrtyā, ūrdhvaloke svarūpeṇa ca nivatsyasi_—below upon the earth Vālmīki abides forever through his undying poetic fame (_kīrti-śarīreṇa_), while aloft in Brahmā’s highest realm (_Satyaloka_) he dwells in his own luminous spiritual form! **Rāma Varmā (_Tilaka_)** adds that since every sphere from _Pātāla_ up to _Satyaloka_ belongs to Brahmā’s creation, Vālmīki receives unimpeded freedom to roam across all worlds at will.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2084,6 +2284,14 @@ Valmiki came by astonishment, along with his disciples. [1-2-38]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, the worshipful Lord Brahmā vanished on that very spot (_tatraivāntaradhīyata_); thereupon the worshipful sage Vālmīki, together with his disciples, entered into supreme wonder.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.38 (tatraivāntaradhīyata)**
+
+Why did Brahmā vanish on that very spot instead of departing visibly through the sky as Nārada had done in v. 2? **Govindarāja** notes that whereas Nārada is a celestial sage who travels across the ether, Brahmā is the all-pervading Hiranyagarbha who simply withdraws his manifest form back into subtle invisibility right where he was seated, filling Vālmīki and his disciples with awe.
 </details>
 </details>
 
@@ -2137,6 +2345,14 @@ much astonished they also recited this verse, reciprocally. [1-2-39]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then all of his disciples chanted this _śloka_ again and again (_muhur muhuḥ_); filled with rapture and supreme astonishment, they declared to one another:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.39–40 (śokaḥ ślokatvam āgataḥ — The Aesthetics of Karuṇa-Rasa)**
+
+On v. 40, **Rāma Varmā (_Tilaka_)** gives a complete _Alaṅkāra-śāstra_ analysis of how _śoka_ (the _sthāyibhāva_ of grief) becomes _karuṇa-rasa_ in poetry: the slain male bird and weeping female are the _ālambana-vibhāva_, the blood-soaked feathers and cries are the _uddīpana-vibhāva_, the sage’s tears and spontaneous metrical utterance are the _anubhāva_, and anxious reflection (_cintā_, v. 16) is the _vyabhicāribhāva_. Transmuted through universalized poetic expression (_sādhāraṇīkaraṇa_) and chanted repeatedly by the disciples (_anuvyāharaṇāt_), personal sorrow (_śoka_) becomes aesthetic rapture (_śloka_)!
 </details>
 </details>
 
@@ -2260,6 +2476,14 @@ entire Ramayana, the epic, in suchlike verses...' [1-2-41]
 
 Then this resolve arose in the mind of Vālmīki, whose inner self was purified by contemplation (_bhāvitātmanaḥ_): “With verses such as this (_īdṛśaiḥ_), I shall compose the entire _Rāmāyaṇa_ poem!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.41–42 (Classical Mahākāvya-lakṣaṇa in Govindarāja’s Bhūṣaṇa)**
+
+On v. 42, **Govindarāja** demonstrates that Vālmīki’s own words here are the fountainhead of all later Sanskrit poetics (_Alaṅkāra-śāstra_). Quoting **Daṇḍin’s _Kāvyādarśa_** (1.14–19: _“sargabandho mahākāvyam ucyate tasya lakṣaṇam... caturvargaphalāyattaṃ caturodāttanāyakam”_), **Mammaṭa’s _Kāvyaprakāśa_** (_“kāvyaṃ yaśase ’rthakṛte...”_), and **Vāmana’s _Kāvyālaṅkārasūtravṛtti_**, Govindarāja shows how _udāra-vṛtta_ denotes both exalted meters and the hero’s sublime conduct, _udāra-artha_ denotes the fourfold ends of human life (_dharma, artha, kāma, mokṣa_), and _manorama-pada_ denotes the _Vaidarbhī rīti_ endowed with all ten poetic excellences (_daśa-guṇāḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2339,6 +2563,14 @@ meanings semantically, prosody free-flowing, and with hundreds of such verses. [
 
 Then that illustrious seer of noble vision (_udāradarśanaḥ_) composed for this glorious Rāma a fame-bestowing poem (_yaśaskaraṃ kāvyam_) in hundreds of equal-syllabled _ślokas_, adorned with exalted meters, pregnant meanings, and heart-ravishing words (_udāra-vṛttārtha-padair manoramaiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.42 (Drākṣāpāka & Śayyā — The Grape-Nectar Maturity of Vālmīki’s Verse)**
+
+**Govindarāja** further quotes the classical definitions of _pāka_ (poetic ripeness) and _śayyā_ (the effortless repose of words in mutual friendship, _padānāṃ parivṛtty-asahiṣṇutva-rūpā maitrī_): just as a ripe grape (_drākṣāpāka_) yields sweet juice the instant it touches the tongue without harshness, Vālmīki’s _ślokas_ yield their profound _rasa_ effortlessly to both scholar and lay listener. On _yaśaskaram_, Govindarāja notes that the epic bestows imperishable glory upon three recipients simultaneously: its divine hero Śrī Rāma (_yaśasvinaḥ_), its poet Vālmīki (_kīrtimān_), and all who recite or hear it.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2413,5 +2645,19 @@ attentively.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Pray listen attentively (_niśāmayadhvam_) to the sacred history of the noblest of the Raghus (_raghuvaracaritam_) and the slaying of the ten-headed Rāvaṇa, composed by the sage in sentences where compounds and euphonic junctions blend effortlessly (_tad-upagata-samāsa-saṃdhi-yogam_) and where harmonious, sweet words naturally yield their meaning (_sama-madhuropanatārtha-vākya-baddham_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.43 (tad-upagata-samāsa-saṃdhi-yogam — Lucid Compounds & Musicality)**
+
+On v. 43, **Rāma Varmā (_Tilaka_)**, **Śivasahāya (_Śiromaṇi_)**, and **Govindarāja** explain the hallmarks of Vālmīki’s diction: unlike artificial court poetry burdened with tortured compounds, here compounds and euphonic junctions arise naturally to suit the narrative mood (_tad-upagata-samāsa-saṃdhi-yogam_); the syllables are free of harsh conjuncts (_sama_), mellifluous (_madhura_), and yield their meaning the moment they are heard (_upanatārtha_).
+
+_____________
+
+**2.43 (Why Vālmīki Names Both Raghuvaracaritam and Daśaśirasaś ca Vadham)**
+
+Why does the concluding verse invite listeners (_niśāmayadhvam_—said either by the poet to the assembly of sages or by Kuśa and Lava to their audience) to hear both “the history of the noblest of the Raghus” and “the slaying of the ten-headed Rāvaṇa”? **Govindarāja** and **Tilaka** explain that the entire _Rāmāyaṇa_ rests on two complementary pillars of _avatāra-prayojana_: _sādhu-paritrāṇa_ (manifesting Śrī Rāma’s auspicious virtues and righteous rule for the refuge of the virtuous) and _duṣkṛtāṃ vināśa_ (eradicating cosmic adharma personified in the ten-headed Rāvaṇa).
 </details>
 </details>

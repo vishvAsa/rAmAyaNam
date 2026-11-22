@@ -135,6 +135,98 @@ one place. [4-2-2]
 
 With an agitated heart (_udvignahṛdayaḥ_), scanning all directions on every side, that bull among Vānaras could not remain still in any single spot.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.2.1–3 (Sugrīva's Agitation at Ṛṣyamūka)**
+
+**Govindarāja** (_Bhūṣaṇa_) introduces the second Sarga as Sugrīva's dispatch of Hanūmān (सुग्रीवेण हनूमत्प्रेषणं द्वितीये), glossing महात्मानौ as noble-bodied (महाशरीरौ भद्राकृती) and उद्विग्नहृदयः as fearful-minded (भीतमनस्कः). Reading स्थाने in 4.2.3a, he explains it as standing steady in one's place (स्वस्थाने निश्चलम्), whereas **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss व्यवससाद as sinking into grief (विषण्णमभूत्, दुःखं प्राप).
+
+_____________
+
+**4.2.4 (Weighing Gravity and Lightness)**
+
+On गुरुलाघवम्, **Rāma Varmā** (_Tilaka_) explains that Sugrīva weighed the pros and cons of staying versus departing (अवस्थितिप्रस्थानयोर्गुरुलाघवं विमृश्य); **Govindarāja** concurs (स्थाने पलायने च), glossing धर्मात्मा as one whose mind rests on statecraft (राजधर्मे आत्मा मतिर्यस्य). **Śivasahāya** (_Śiromaṇi_) instead interprets it as comparing the heaviness of Vālin's strength against the lightness of his own (तद्बलस्य गुरुत्वं स्वबलस्य लाघवम्).
+
+_____________
+
+**4.2.5–6 (Suspecting Vālin's Spies)**
+
+**Govindarāja** glosses प्रणिहितौ as spies (चारौ) and छद्मना as the pretext of sage's attire (ऋषिवेषव्याजेन). **Rāma Varmā** notes that ध्रुवम् marks poetic conjecture (उत्प्रेक्षायाम्), while **Śivasahāya** takes it as certainty (निश्चितमेतत्).
+
+_____________
+
+**4.2.7–8 (Retreat to a Higher Peak)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that upon hearing Sugrīva's words, his counselors moved with him from their former ridge to another peak of the same mountain (तस्यैव गिरेः शिखरं जग्मुः सुग्रीवेण सह), with **Rāma Varmā** noting the _ārṣa_ masculine variant अन्यं शिखरम् (पुंस्त्वमार्षम्). **Govindarāja** (_Bhūṣaṇa_) adds that having fled in various directions (नानादिक्षु पलायिताः), they reassembled together (एकत्र समागम्य).
+
+_____________
+
+**4.2.9–10 (Syntax of एकायनगताः)**
+
+**Śivasahāya** construes verses 9–10 as one sentence (श्लोकद्वयमेकान्वयि), glossing एकायनगताः as taking a single path (एकमार्गं प्राप्ताः). **Rāma Varmā** takes it as sharing identical states of motion, fear, and joy (एकवत्मसमानत्वं गताः). Reading एकमेकायनगताः, **Govindarāja** links एकम् to उपतस्थिरे (4.2.8d): converging at one spot (क्रमेणैकस्थानगताः), they waited upon the solitary Sugrīva (एकाकिनं सुग्रीवम्).
+
+_____________
+
+**4.2.11–12 (Gathering on Ṛṣyamūka)**
+
+**Govindarāja** explains that after bounding across surrounding hills, they returned to Ṛṣyamūka (पुनस्तमेव ऋश्यमूकं ययुः). **Śivasahāya** glosses समाहिताः as single-minded (एकाग्रचित्ताः), and **Rāma Varmā** identifies the counselors as Hanūmān and others (हनुमदादयः).
+
+_____________
+
+**4.2.13–14 (वालिकिल्बिष and मलय)**
+
+On वालिकिल्बिषशङ्कितम्, **Govindarāja** (_Bhūṣaṇa_) glosses किल्बिष as Vālin's deceit (वालिकपटेन शङ्कितम्), **Rāma Varmā** (_Tilaka_) takes it as fearing slaughter instigated by Vālin (किल्बिषाद् वधाच्छङ्कितम्), and **Śivasahāya** (_Śiromaṇi_) explains it as fearing his own perceived offense before Vālin (भासमानस्वापराधेन भीतम्). On मलयोऽयम्, **Rāma Varmā** and **Govindarāja** identify Ṛṣyamūka with the Malaya range (मलयपर्वतो ऋष्यमूकः), whereas **Śivasahāya** derives मलयः as the place where Vālin faces ruin through the sage's curse (ऋषिशापाद्विध्वंसो यस्मिन्).
+
+_____________
+
+**4.2.15–17 (Dispelling Fear and Monkey-Fickleness)**
+
+**Govindarāja** notes that Hanūmān dispels the illusion that Vālin himself has come in disguise (वाली वेषान्तरधारी समागत इति भ्रमं वारयति), glossing पापकर्मणः as abducting a younger brother's wife (अनुजभार्यापहारिणः). **Śivasahāya** construes verses 16–17 together (श्लोकद्वयमेकान्वयि), observing that अहो implies Sugrīva is above ordinary monkey-nature (प्राकृतवानरधर्मः).
+
+_____________
+
+**4.2.18 (King's Discernment)**
+
+**Govindarāja** distinguishes बुद्धिः as general knowledge (सामान्यतो ज्ञानम्) from विज्ञानम् as specific discernment (विशेषतो ज्ञानम्), while **Rāma Varmā** glosses विज्ञानम् as reading others' inner intent (पारकीयाशयज्ञानेन).
+
+_____________
+
+**4.2.19–21 (Cross-Species Royal Alliances)**
+
+**Rāma Varmā** (_Tilaka_) notes that Sugrīva shows his caution stems not from fickleness (नेदं भयं चापलमूलकम्) and explains बहुमित्राः: kings have allies across species, so just as Daśaratha befriended the vulture-king, Vālin too could have human allies (यथा दशरथो गृध्रराजेन मित्रवान्, एवं वालिनापि नरमैत्र्यं संभावितम्). **Govindarāja** (_Bhūṣaṇa_) clarifies that Sugrīva fears them as Vālin's emissaries, not Vālin himself (नाहं वाली समागत इति बिभेमि किंतु तत्प्रेषिताविति).
+
+_____________
+
+**4.2.22–23 (Striking at Vulnerabilities)**
+
+**Rāma Varmā** glosses छिद्रेषु as openings for a blow (प्रहारावकाशेषु), **Śivasahāya** (_Śiromaṇi_) as opportunities (अवसरेषु), and **Govindarāja** (reading रन्ध्रेषु) as lapses of vigilance (प्रमादेषु). On प्राकृतैर्नरैः, **Rāma Varmā** and **Govindarāja** explain that kings must be probed through spies in humble guise (प्राकृतवेषेश्चरैः, दीनवेषधरैः), whereas **Śivasahāya** construes प्राकृतैः as through natural means (स्वाभाविकोपायैः).
+
+_____________
+
+**4.2.24 (Approaching in Disguise)**
+
+**Rāma Varmā** glosses प्राकृतेनैव as like an unconcerned person (उदासीनेनेव), **Govindarāja** as in an ordinary form (प्रकृतवेषेण), and **Śivasahāya** as by a natural approach (स्वाभाविकेन गमनेन).
+
+_____________
+
+**4.2.25–26 (ममैवाभिमुखं स्थित्वा)**
+
+**Rāma Varmā** (_Tilaka_) explains that Hanūmān should stand facing Sugrīva while questioning the archers so as to preclude any suspicion of covertly saying something else (स्वाभिमुखस्थितिकथनमन्यादृशवचनकथनसंभावनया तन्निरासाय). **Śivasahāya** (_Śiromaṇi_) likewise construes verses 25–26 together (श्लोकद्वयमेकान्वयि), whereas **Govindarāja** (_Bhūṣaṇa_) interprets ममैवाभिमुखम् figuratively as making the two princes favorably disposed toward Sugrīva (अनुकूलं यथा भवति तथा स्थापयित्वा).
+
+_____________
+
+**4.2.27 (Resolving दुष्टतानयोः)**
+
+To match शुद्धात्मानौ (`pure-hearted') in the first half, **Rāma Varmā** resolves दुष्टतानयोः by _tantra_ to yield both corruptness and innocence (दुष्टताऽदुष्टता वेति तन्त्रेण पदच्छेदः), whereas **Śivasahāya** and **Govindarāja** extract अदुष्टता (`freedom from fault,' अदुष्टतेति छेदः), and **Govindarāja** also records विज्ञेया स्याद्दुष्टादुष्टता तयोः while glossing रूपैः as facial expressions (आकाराभिप्रायैः).
+
+_____________
+
+**4.2.28–29 (Hanūmān's Departure)**
+
+**Śivasahāya** takes सुभीतस्य as describing the terrified Sugrīva. Reading सुभीमस्य दुरासदस्य (`formidable and unassailable'), **Govindarāja** observes that these epithets indicate Sugrīva's sound statecraft (सुनीतित्वं सूचितम्) and glosses महानुभावः as Hanūmān's power to assume another guise (वेषान्तरधारणसमर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

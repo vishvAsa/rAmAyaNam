@@ -87,6 +87,14 @@ Describing that legend of Kaartikeya to Rama, the descendent of Kaushi,
 
 Having related to Rāma that narrative of sweet syllables (_tāṃ kathāṃ madhurākṣarām_), Kauśika (Viśvāmitra) once again spoke this further discourse (_punar evāparaṃ vākyam_) to Kākutstha:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.1 (aparaṃ vākyam — Resuming the Question of Gaṅgā’s Tripathagā Course)**
+
+**Rāma Varmā (_Tilaka_)**, **Śiromaṇi**, and **Govindarāja (_Bhūṣaṇa_)** observe that having completed the celestial narrative (_divyasaṃbhavaṃ vistaraṃ pratipādya_) of Umā, Gaṅgā, and Skanda’s birth, Viśvāmitra now initiates the terrestrial history (_mānuṣalokasaṃbhavavistaram_, **Govindarāja**) to answer Rāma’s original question from Sarga 35 (_tripatho hetunā kena_: how Gaṅgā came to flow through the three worlds, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -139,6 +147,14 @@ Having related to Rāma that narrative of sweet syllables (_tāṃ kathāṃ mad
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In days of yore, O hero (_vīra_), there was a righteous-souled monarch, a lord of men and sovereign of Ayodhyā (_ayodhyādhipatiḥ_), named Sagara (_sagaro nāma dharmātmā_); though longing for progeny (_prajākāmaḥ_), he was childless (_sa cāprajaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.2–4 (sagaro nāma & ariṣṭanemer duhitā)**
+
+On v. 2, **Tilaka** and **Govindarāja** construe _aprajaḥ_ as the cause of _prajākāmaḥ_ (“because he was childless, he longed for offspring”). On v. 4, all three commentators identify _Ariṣṭanemi_ as a title of Prajāpati Kaśyapa (_ariṣṭanemiḥ kaśyapaḥ_), confirmed by the epithet _suparṇabhaginī_ (“sister of Garuḍa,” since Suparṇa was born to Kaśyapa by Vinatā, **Tilaka**).
 </details>
 </details>
 
@@ -300,6 +316,14 @@ Having related to Rāma that narrative of sweet syllables (_tāṃ kathāṃ mad
 
 “Accompanied by those two queens (_tābhyāṃ saha patnībhyām_), the great king repaired to the Himavān range and practiced austere penance (_taptavāṃs tapaḥ_) upon the mountain named Bhṛguprasravaṇa (_bhṛguprasravaṇe girau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.5 (bhṛguprasravaṇe girau)**
+
+**Tilaka** and **Govindarāja** explain _Bhṛguprasravaṇa_ as a foothill peak of Himavān (_himavatpādaparvate_ / _paryantaparvate_) whose mountain cascades (_prasravaṇaṃ vāripravāhaḥ_) were sanctified by the presence of Sage Bhṛgu (_bhṛgvadhiṣṭhitam_), while **Śiromaṇi** adds that the peak was also where Bhṛgu frequently roamed (_bhṛgoḥ prasravaṇam atipracāro yasmin_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -355,6 +379,14 @@ Propitiated after a full hundred years of penance, Sage Bhṛgu grants Sagara th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, when a full hundred years had elapsed (_atha varṣaśate pūrṇe_), the sage Bhṛgu, foremost of the truthful (_satyavatāṃ varaḥ_), propitiated by that penance (_tapasā ārādhito muniḥ_), granted a boon to Sagara (_sagarāya varaṃ prādāt_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.6–8 (apatyalābhaḥ sumahān & janayitā)**
+
+**Govindarāja** notes that the greatness (_sumahattvam_) of Sagara’s promised progeny lies in its extraordinary number (_subahvapatyaviṣayatvāt_), through which (_teneti śeṣaḥ_) the king will win matchless fame. On v. 8, **Tilaka** and **Govindarāja** explain _tāta_ as a term of paternal endearment (_tātety upalālane_) and _janayitā_ as the periphrastic future (_luṭ_, equivalent to _janayiṣyati_), while **Tilaka** justifies the apposition of singular _ṣaṣṭim_ with plural _sahasrāṇi_ because _ṣaṣṭi_ is an invariant singular noun (_nityaikavacanāntatvāt sāmānādhikaraṇyam_).
 </details>
 </details>
 
@@ -508,6 +540,14 @@ Highly gladdened are the daughters of kings of Vidarbha and Aristanemi,
 
 “Propitiating that high-souled sage as he was speaking thus (_bhāṣamāṇaṃ mahātmānaṃ prasādya tam_), the two princesses (_rājaputryau_), filled with supreme delight and joining their hollowed palms in reverence (_kṛtāñjalipuṭe_), spoke to him then:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.9 (rājaputryau — Application of Chatri-Nyāya)**
+
+Since Keśinī is the daughter of the King of Vidarbha whereas Sumati is the daughter of the sage Kaśyapa, how can both be called _rājaputryau_ (“two princesses”)? **Tilaka** and **Govindarāja** invoke the classical _chatri-nyāya_ (“maxim of the umbrella-bearers,” where a mixed pair is denoted by the attribute of one: _chatrinyāyād uktam, sumateḥ kāśyapaputrītvāt_), while **Śiromaṇi** construes _rājan_ to encompass both the _kṣatriyarāja_ Vidarbha and the _dvijarāja_ Kaśyapa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,6 +599,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Whose shall be the single son, O Brāhmaṇa, and which of us shall give birth to the many (_ekaḥ kasyāḥ suto brahman kā bahūñ janayiṣyati_)? We both desire to hear this, O Brāhmaṇa; may your word come true (_satyam astu vacas tava_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.10 (satyam astu vacas tava)**
+
+**Govindarāja** and **Śiromaṇi** explain that by praying “May your word come true,” the two queens express complete submission to whichever distribution the sage has already ordained in mind (_yasyā ekam icchasi tasyā ekaḥ, yasyā bahūn icchasi tasyā bahavaḥ santu_).
 </details>
 </details>
 
@@ -640,6 +688,20 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 
 **12:** “‘Whether it be the single son who will perpetuate the dynasty (_eko vaṃśakaro vāstu_), or the many sons of great strength, renown, and high energy (_bahavo vā mahābalāḥ kīrtimanto mahotsāhāḥ_)—which of you desires which boon (_kā vā kaṃ varam icchati_)?’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.11 (svacchando ’tra vidhīyatām)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** gloss _svacchando ’tra vidhīyatām_ as Sage Bhṛgu’s gracious permission for the two queens to exercise and declare their own free preference in dividing the two boons (_svacchandaḥ svecchā vidhīyatāṃ jñāpyatām; svecchayaivaikaputratā bahuputratā vā vriyatām_, **Tilaka**).
+
+_____________
+
+**38.12 (eko vaṃśakaraḥ — Narrative Dhvani)**
+
+**Tilaka** glosses _vaṃśakaraḥ_ as “cause of the perpetuation of the lineage” (_vaṃśavṛddhihetuḥ_). **Śiromaṇi** highlights a profound narrative _dhvani_ via the maxim _sarvaṃ vākyaṃ sāvadhāraṇaṃ bhavati_: by applying _vaṃśakaraḥ_ exclusively to the single son while calling the sixty thousand sons “mighty, famous, and energetic” (_mahābalāḥ kīrtimanto mahotsāhāḥ_), Bhṛgu’s words subtly foreshadow that the sixty thousand will perish without continuing the royal line (_ekasminn eva vaṃśakaratvoktyā bahūnāṃ vaṃśakaratvābhāvo dhvanitaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -687,6 +749,14 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing the sage’s words, O delight of the Raghus, Keśinī, O Rāma, accepted in the presence of the king (_jagrāha nṛpasaṃnidhau_) the single son who would perpetuate the dynasty (_putraṃ vaṃśakaram_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.13–15 (nṛpasaṃnidhau & suparṇabhaginī)**
+
+Why does v. 13 specify that Keśinī chose her boon “in the presence of the king” (_nṛpasaṃnidhau_)? **Tilaka** explains that King Sagara remained an impartial witness to his queens’ choices rather than dictating which wife should take which boon (_tasyāpi sākṣitvamātraṃ na tu varaṇaniyamakartṛteti sūcitam_).
 </details>
 </details>
 
@@ -850,6 +920,14 @@ When the time rolled by then the elder wife Keshini gave birth to the
 
 “Then, when the appointed time had passed (_atha kāle gate_), his elder queen Keśinī gave birth to a son of Sagara renowned by the name of Asamañja (_jyeṣṭhā keśinī asamañja iti khyātaṃ sagarātmajaṃ putraṃ vyajāyata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.16 (asamañja iti khyātam)**
+
+**Tilaka** (on v. 22) and **Śiromaṇi** note that the name of Keśinī’s son is grammatically attested both as a vowel-stem (_a_-stem _Asamañja_) and as a sibilant-stem (_as_-stem _Asamañjas_), so there is no contradiction between Vālmīki’s _asamañja iti_ and the _Bhāgavata Purāṇa_’s _Asamañjasa_ (_etadvācī asamañjaśabdo ’dantaḥ sāntaś ceti bodhyam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -902,6 +980,14 @@ But the second queen Sumati on part, oh, tigerly-man Rama, verily
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And Sumati, O tiger among men, gave birth to a gourd-shaped mass of flesh (_garbhatumbaṃ vyajāyata_); upon the bursting open of that gourd (_tumbabhedāt_), sixty thousand sons came forth (_ṣaṣṭiḥ putrasahasrāṇi viniḥsṛtāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.17–19 (garbhatumbam & ghṛtapūrṇeṣu kumbheṣu)**
+
+All three commentators gloss _garbhatumbam_ as a round, bottle-gourd-shaped embryo (_tumbaphalākāraṃ garbhapiṇḍam_, **Tilaka**; _vṛttākāraṃ garbhapiṇḍam_, **Govindarāja**). **Govindarāja** observes that _tumbabhedāt_ indicates the sixty thousand miniature infants emerged spontaneously when the gourd split open—unlike Gāndhārī’s fetus in the _Mahābhārata_, which had to be divided externally (_na tu gāndhāryā iva paścād vibhajanīya ity arthaḥ_)—and were then incubated by foster-nurses (_dhātryaḥ upamātaraḥ_) in jars of ghee. On v. 19, **Tilaka** and **Govindarāja** explain _dīrgheṇa kālena_ as an instrumental of cause (Pāṇini 2.3.23 _hetau_).
 </details>
 </details>
 
@@ -1055,6 +1141,14 @@ But, oh, best one among men, oh, Rama, the elder son of the king Sagara,
 
 “Now that eldest son born of Sagara himself (_sa ca jyeṣṭhaḥ sagarasyātmasaṃbhavaḥ_), O foremost of men, used to seize the young children of the city and cast them into the waters of the Sarayū (_bālān gṛhītvā tu jale sarayvā_), O delight of the Raghus—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.20 (sa ca jyeṣṭhaḥ — Syntactic Enjambment)**
+
+**Tilaka** and **Govindarāja** note that v. 20 forms a continuous sentence (_kulakam_) with v. 21, where _gṛhītvā_ and _prakṣipya_ govern _prāhasat_.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1115,6 +1209,14 @@ This Asamanja appears to be the person from the first-generation of
 
 “—and having hurled them in, he would laugh constantly as he watched them sink and drown (_prakṣipya prāhasan nityaṃ majjatas tān nirīkṣya vai_)! Of such sinful conduct was he, a tormentor of virtuous folk (_evaṃ pāpasamācāraḥ sajjanapratibādhakaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.21 (prāhasan nityam & sajjanapratibādhakaḥ)**
+
+**Tilaka** records both the finite imperfect _prāhasat_ (“he laughed”) and the participial variant _prahasan_ (endorsed by **Govindarāja** and **Śiromaṇi**, for which _sthito bhavati_ is supplied), and glosses _sajjanapratibādhakaḥ_ as “tormentor of the virtuous” (_sajjanapīḍakaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1163,6 +1265,14 @@ But Asamanja's son is a valorous one, who by name is Anshuman, and who
 
 “Because he was bent upon harming the citizens (_paurāṇām ahite yuktaḥ_), he was banished from the city by his own father (_pitrā nirvāsitaḥ purāt_). Now that Asamañja had a heroic son named Aṃśumān (_tasya putro ’ṃśumān nāma asamañjasya vīryavān_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.22 (pitrā nirvāsitaḥ purāt & aṃśumān)**
+
+Because Asamañja delighted in drowning the citizens’ children in the Sarayū and was ever bent on harming the populace (_paurāṇām ahite yuktaḥ_), righteous King Sagara banished his own eldest son from Ayodhyā (_nirvāsito niṣkāsitaḥ_, **Tilaka**), while Asamañja’s heroic and universally beloved son Aṃśumān fulfilled Bhṛgu’s promise of a _vaṃśakara_ heir.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1209,6 +1319,14 @@ But Asamanja's son is a valorous one, who by name is Anshuman, and who
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—who was esteemed by the entire world and kindly spoken toward all (_saṃmataḥ sarvalokasya sarvasyāpi priyaṃvadaḥ_). Then, after a long course of time, a settled resolve arose in Sagara’s mind (_tataḥ kālena mahatā matiḥ samabhijāyata_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38.23–24 (samabhijāyata & yajñakarmaṇi niścayam)**
+
+On v. 23, **Tilaka**, **Govindarāja**, and **Śiromaṇi** note the ārṣa omission of the _aṭ_-augment in _samabhijāyata_ (for _samabhyajāyata_, _āgamaśāstrasyānityatvād aḍvirahaḥ_). On v. 24, **Tilaka** construes _yajñakarmaṇi_ directly with _niścayaṃ kṛtvā_ (_yajñakarmaṇīty asya niścayaṃ kṛtveti prāktanenānvayaḥ_), as Sagara gathers his assembly of preceptors (_sopādhyāyagaṇaḥ_) to begin the sacrifice.
 </details>
 </details>
 

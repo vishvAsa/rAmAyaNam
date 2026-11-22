@@ -1041,6 +1041,224 @@ Thereupon those ministers of the king (_amātyāḥ pārthivasya tu_) were struc
 
 Then a tumultuous roar of “Halāhalā!” arose upon the bank of the Narmadā (_tato halahalā-śabdo narmadā-tīra ābabhau_) from the attendants of Arjuna (_arjunasyānuyātrāṇām_) and the ministers of Rāvaṇa (_rāvaṇasya ca mantriṇām_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.32.1–4 (Kārtavīrya’s Aquatic Sport and Trial of Strength)**
+
+Introducing Sarga 32 as the incident coinciding with Rāvaṇa’s Śiva-worship (रावणकर्तृकशिवार्चनकालिकं वृत्तान्तमाह), **Śivasahāya** (_Śiromaṇi_) links 7.32.1–2 into a single syntactic period (श्लोकद्वयमेकान्वयि), glossing कुरुते in a past sense (अकरोत्) and अदूरतः as ‘nearby’ (निकटे). Just as Rāvaṇa worships solemnly upon the sandbank, King Arjuna Kārtavīrya of Māhiṣmatī sports playfully downstream amid his queens like a tusker amid a thousand cow-elephants. On 7.32.4, Śivasahāya observes that बाहुभिः construes doubly (उभयान्वयि) with both वृतः and रुरोध: encircled by his own thousand arms, Arjuna impulsively tests their supreme strength by damming the Narmadā.
+
+_____________
+
+**7.32.5 (The Backflow and the Two Senses of Kūlopahāra)**
+
+Struck against Kārtavīrya’s living weir, the Narmadā reverses course. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss प्रतिस्रोतः as ‘against the flow’ (प्रतिप्रवाहम्), Rāma Varmā adding प्रतिकूलमिति यावत्. On कूलोपहारं कुर्वाणम्, **Śivasahāya** offers an ingenious syntactic reading: rather than describing the flood eroding the banks (as in Baroda CE’s कूलापहारम्), he supplies रावणम् as object of प्राप्य—the reversed water surged upstream ‘reaching Rāvaṇa, who was performing his worship-offering upon the riverbank’ (कूले पूजां कुर्वाणं रावणं प्राप्य), sharpening the narrative collision between ascetic devotion and royal sport.
+
+_____________
+
+**7.32.6 (Monsoon Fury in Clear Weather)**
+
+Turning a serene river into an unseasonal torrent, the backwash sweeps up fish, crocodiles, _makaras_, blossoms, and mats of sacred _kuśa_ grass. Both **Rāma Varmā** and **Govindarāja** gloss कुशसंस्तरः as ‘strewn layers of _kuśa_ grass’ (कुशास्तरणम्), with Rāma Varmā adding a realistic riverside detail: those grass mats had been spread along the sandbank by companies of sages for their daily Vedic rites (स तु तत्पुलिने कर्मनिमित्तं ऋषिगणकृतः). **Śivasahāya** notes that laden with aquatic creatures and floral debris, the Narmadā’s sudden spate resembled the full fury of the monsoon (प्रावृट्काले इव).
+
+_____________
+
+**7.32.7–9 (The Disrupted Worship and Ocean-Tide Comparison)**
+
+Supplying रावणं प्रति (‘dispatched against Rāvaṇa’) in 7.32.7, **Rāma Varmā** (_Tilaka_) frames the flood as Kārtavīrya’s unwitting gauntlet. Forced to break off his Śiva-worship midway, Rāvaṇa looks upon the lovely Narmadā flowing backward like a cross mistress (_pratikūlā_, punning on ‘against the banks’ and ‘contrary’). On 7.32.9, Rāma Varmā explains सागरोद्गारः as the moonrise tidal bore (चन्द्रोदयकालिकसमुद्रपरिवृद्धिः), noting that ocean-bound rivers are well known to reverse course near the coast; citing Kataka (कतकसम्मतश्च), he defends प्रविश्य तु of the flood advancing eastward, whereas **Govindarāja** (_Bhūṣaṇa_) glosses समुद्रपरीवाहसन्निभम् and takes Rāvaṇa as subject of प्रविश्य.
+
+_____________
+
+**7.32.10 (Diagnosing an Artificial Disturbance)**
+
+Comparing the westward backwash with the eastward river, Rāvaṇa deduces human interference. Reading स्वभावे परमे and joining 7.32.9–10 (श्लोकद्वयमेकान्वयि), **Śivasahāya** (_Śiromaṇi_) observes that since the river shows no monsoon agitation (प्रावृट्कालाभावेन विकारसमयरहिताम्) and its birds remain unstartled (अनुद्भ्रान्तशकुनाम्), Rāvaṇa concludes that some outside agent caused this upheaval (अन्येन केनचिदयमुपद्रवः कृत इति रावणेन निर्धारितम्). Commenting on our text’s स्वभावोपरमे, **Govindarāja** glosses it as ‘standing in the cessation of its river-nature’ (नदीस्वभावस्योपरमेऽभावे), adding that Rāvaṇa looked specifically to determine whether the surge arose naturally or from an external cause.
+
+_____________
+
+**7.32.11–12 (The Right-Hand Signal to Śuka and Sāraṇa)**
+
+The commentators offer two vivid portraits of Rāvaṇa’s command in 7.32.11. Commenting on सशब्दं च, **Govindarāja** explains that Rāvaṇa beckoned with his right forefinger accompanied by a sharp finger-snap and stern exclamation (हुङ्कारसहितम्), while **Rāma Varmā** glosses सव्येतरकराङ्गुल्या as gesturing urgently with his right hand (दक्षिणहस्ताङ्गुल्या शीघ्रान्वेषणद्योतकाभिनयं कृत्वा). Reading the Parimal variant निःशब्दास्यः, **Śivasahāya** explains that Rāvaṇa remained strictly silent under his ritual vow of worship (नियमेन मौनीभूतः), mutely motioning Śuka and Sāraṇa westward along the sky-path (आकाशमार्गगौ, Tilaka) to trace the current’s source (वेगोत्पत्तिकारणम्).
+
+_____________
+
+**7.32.13–15 (The Vision of the Thousand-Armed Titan)**
+
+Flying just half a _yojana_ upstream, Rāvaṇa’s scouts discover the living cause of the flood. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) normalize the epic optative पश्येताम् in 7.32.13 as past indicative अपश्यताम्. Construing 7.32.14–17 as a single four-verse sentence (श्लोकचतुष्टयमेकान्वयि), **Śivasahāya** (_Śiromaṇi_) offers two nuances for तोयव्याकुलमूर्धजम्—hair dipping into the waters or thoroughly drenched and tangled—and notes मदरक्तान्तनयनम् as eyes flushed red at their corners with drink. In 7.32.15, Rāma Varmā highlights the monumental simile comparing Arjuna’s thousand arms damming the river to a mountain’s thousand foothills (_pāda_) spanning the earth.
+
+_____________
+
+**7.32.16–17 (The Elephant-Lord Amid His Queens and the Scouts’ Awe)**
+
+Echoing the poet’s own opening simile in 7.32.3, Vālmīki now filters that regal tableau through the astonished eyes of the rākṣasa spies: Arjuna is ringed by a thousand young beauties like a tusker surrounded by a thousand rutting cow-elephants. The superlative अद्भुततमम् (‘most wondrous’) in 7.32.17 captures the shock of veteran demon scouts who have witnessed the conquerors of heaven yet have never beheld a mortal monarch of such stupendous scale. Wisely refraining from confrontation, Śuka and Sāraṇa wheel back immediately to report to Rāvaṇa.
+
+_____________
+
+**7.32.18 (A Living Dam—Grammatical Notes on Rodhavat and Krīḍāpayati)**
+
+Reporting breathlessly to their king, the scouts do not yet know the stranger’s name (कोऽप्यसौ) and describe him solely through his awe-inspiring stature and feat. All three commentators pause over the pair of epic forms in 7.32.18cd. **Rāma Varmā** derives रोधः instrumentally as a dam or barrage (रुध्यतेऽनेनेति रोधः सेतुस्तद्वदित्यर्थः, echoed by **Śivasahāya** as सेतुवत्), whereas **Govindarāja** glosses तटवत् (‘like an embankment’) and notes the thematic stem in _-a_ as epic (अकारान्तत्वमार्षम्). Both Tilaka and Bhūṣaṇa likewise flag the causative क्रीडापयति (for क्रीडयति) as taking an archaic _p_-augment (पुगार्षः).
+
+_____________
+
+**7.32.19–20 (Rāvaṇa’s Instant Recognition)**
+
+Closing their report, Śuka and Sāraṇa describe the river hurling repeated swells like moonrise tides (चन्द्रोदयकालिकसागरवृद्धिसदृशान्, **Śivasahāya**). Rāvaṇa needs no name to identify the stranger: both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that he exclaims “Arjuna!” by immediate inference that no other being possesses such thousand-armed power (अन्यस्यैवंविधसामर्थ्यासंभवयुक्त्या). While both gloss निशाम्य as ‘seeing’ (दृष्ट्वा), Śivasahāya reads निशम्य (‘hearing their report’) and notes how Rāvaṇa’s hunger for combat (_yuddha-lālasa_) instantly overrides his interrupted devotion.
+
+_____________
+
+**7.32.21–22 (Dire Portents of Blood and Storm)**
+
+As Rāvaṇa marches toward Arjuna, nature itself warns of his impending humiliation. **Śivasahāya** analyzes the violent, roaring, dust-choked gale (सरजाः) of 7.32.21, while all three commentators stress the sinister portent (_utpāta_) of 7.32.22ab: a solitary thunderclap accompanied by bloody rain-drops. **Rāma Varmā** cites the earlier exegete Kataka (रक्तवर्षकमेघानां सकृद्रावोऽप्युत्पात इति कतकः), and **Govindarāja** agrees that a single isolated boom from rain-bearing clouds is a classic ill omen. Blinded by hubris, Rāvaṇa ignores every warning and advances flanked by his five foremost captains.
+
+_____________
+
+**7.32.23–24 (Arrival at the Narmadā Pool)**
+
+Moving swiftly with Mahodara, Mahāpārśva, Dhūmrākṣa, Śuka, and Sāraṇa, the collyrium-dark titan reaches the deep Narmadā pool where Arjuna still sports carefree among his queens. On 7.32.24, **Govindarāja** cites the _Amarakośa_ (वाशिता स्त्री करेण्वां च) to gloss वाशिताभिः as ‘cow-elephants’ (करेणुभिः), and both he and **Rāma Varmā** gloss पश्यते as पश्यति स्म. The closing hemistich (_roṣād rakta-nayanaḥ ... baloddhataḥ_) carries directly into the next spread as Rāvaṇa thunders his challenge to Arjuna’s ministers.
+
+_____________
+
+**7.32.25–27 (Rāvaṇa’s Challenge and the Ministers’ Irony)**
+
+Continuing the syntax of 7.32.24, Rāvaṇa demands that Arjuna’s counselors immediately summon their monarch. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss इत्येवम् as ‘in the following manner’ (वक्ष्यमाणप्रकारेण). Unintimidated, the Haihaya ministers rise armed and answer with biting sarcasm, which both Tilaka and Bhūṣaṇa label व्यङ्ग्योक्तिः (‘ironic speech’). Rāma Varmā unpacks their taunt: “Bravo, Rāvaṇa! How finely you judge the proper hour for war—daring to challenge a king flushed with drink (मदपानमत्तम्) in the company of his ladies!” **Śivasahāya** (_Śiromaṇi_) adds that विज्ञातः ironically signifies न विज्ञातः (‘utterly uncomprehended’).
+
+_____________
+
+**7.32.28–29 (Warrior Dharma vs. Predatory Ambush)**
+
+The ministers’ simile in 7.32.28ef exposes the breach of _kṣatriya_ code: attacking an unarmed king enjoying water-sport before his queens is like a tiger ambushing a rutting bull elephant amid his herd. **Govindarāja** glosses क्षीबम् as मत्तम् and supplies इह (‘spend the night here’) with उष्यताम्. On 7.32.29, **Rāma Varmā** notes that they drop sarcasm to speak in earnest (स्वमतेनाहुः): endure today’s delay (युद्धविलम्बं सहस्व) and fight Arjuna at dawn, supplying the elliptical verb युध्यस्व (while **Śivasahāya** supplies युद्धं प्रवर्तयेः).
+
+_____________
+
+**7.32.30 (The Ministers’ Defiant Ultimatum)**
+
+Anticipating that Rāvaṇa’s belligerent pride will reject civilized restraint, the counselors draw a firm line in 7.32.30: if his thirst for combat cannot wait until sunrise, he must first cut his way through them before ever reaching Arjuna. Both **Rāma Varmā** and **Śivasahāya** paraphrase the Parimal reading (यदि वापि त्वरा तुभ्यं ... निपात्यास्मान्), while our text preserves Govindarāja’s reading (यद्यद्यास्ति मतिर्योद्धुं ... निहत्यास्मान्). Their loyal stand immediately triggers the skirmish on the Narmadā bank.
+
+_____________
+
+**7.32.31–32 (Cannibal Violence and the Uproar on the Bank)**
+
+Without deigning to reply, Rāvaṇa’s followers answer the ministers’ chivalrous appeal with rākṣasa savagery—not merely slaying Arjuna’s counselors (हिंसिताः, **Śivasahāya**), but devouring them on the spot (_bhakṣitāś ca bubhukṣitaiḥ_). Instantly the quiet riverbank erupts into pandemonium. On 7.32.32, **Rāma Varmā** (_Tilaka_) notes the acoustic figure (शब्दालङ्कारः) in the tumultuous cry हलहला and glosses अनुयात्राः as Arjuna’s attendant officers and counselors (अनुचराः मन्त्रिणः), while **Śivasahāya** (_Śiromaṇi_) likewise glosses अनुयात्राणाम् as ‘followers’ (अनुयायिनाम्), confirming the proper reading behind the corrupted Southern print अनुयातऽणाम्.
+
+_____________
+
+**7.32.33–34 (The Haihaya Counter-Surge)**
+
+Rallied by the uproar, the Haihaya host closes in around the invaders. Both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) identify कर्षणम् in 7.32.33 as a distinct weapon class (आयुधविशेषः, a hooked or tearing shaft), and both Tilaka and Śivasahāya supply अर्जुनयोधाः ... अभूवुः as the understood subject harassing Rāvaṇa and his retinue (रावणसहितान् राक्षसान्). In 7.32.34, **Śivasahāya** matches the terrifying momentum (_vega_) of the Haihaya warriors directly to the roar of a monster-filled sea (नक्रादिसहितसमुद्रस्य निःस्वन इव सुदारुण आसीत्), echoing the aquatic imagery of 7.32.6.
+
+_____________
+
+**7.32.35–36 (Rāvaṇa’s Captains Prevail and the Alarm Reaches Arjuna)**
+
+Despite the Haihaya army’s bravery, Rāvaṇa’s seasoned warlords—Prahasta, Śuka, and Sāraṇa—turn the tide, consuming Kārtavīrya’s ranks with fiery martial energy (_tejas_). Only now does the crisis interrupt the royal recreation: on 7.32.36, **Rāma Varmā** glosses समन्त्रिणः as ‘of Rāvaṇa together with his ministers’ (मन्त्रिसहितस्य रावणस्य). Whereas the Parimal text depicts the messengers as ‘terrified men’ (पुरुषैर्भयविह्वलैः), our Southern text follows Govindarāja’s reading द्वाररक्षिभिः (‘by the royal gatekeepers’ posted to guard the king’s riverside pavilion).
+
+_____________
+
+**7.32.37–38 (From Aquatic Sport to Doomsday Fire)**
+
+Arjuna’s transformation from playful monarch to cosmic avenger occupies a single breath. On 7.32.37, both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) supply उक्त्वा to bridge the compressed syntax (‘having heard, and having told the women “Do not fear!”’—a reading Baroda CE explicitly adopts), and Rāma Varmā identifies अञ्जनः as the directional elephant (दिग्गजः) emerging from the Gaṅgā. On 7.32.38, Rāma Varmā points out the metaphor (रूपकम्) in अर्जुनपावकः (‘the fire that is Arjuna’) and glosses युगान्ते as the hour of cosmic dissolution (प्रलयकाले).
+
+_____________
+
+**7.32.39–40 (Solar Charge and Garuḍa’s Swoop)**
+
+Gleaming in golden armlets (वरहेमाङ्गदः, **Śivasahāya**), Arjuna charges the night-roamers like the sun scattering darkness—a verb (अभिदुद्राव) that **Rāma Varmā** glosses with causative force as ‘put them to flight’ (द्रावयामास). On 7.32.40, all three commentators unpack बाहुविक्षेपकरणाम् as a mace whose whirling is wrought by the sweep of his arms (बाहुभिर्विक्षेपकरणं भ्रमसंपादनं यस्यास्ताम्, Tilaka; भ्रमणम्, **Govindarāja**). All three likewise highlight the emphatic एव in आपपातैव: adopting Garuḍa’s velocity, Arjuna descended upon them instantaneously without the slightest delay (न तु विलम्बितवान्, Tilaka and Bhūṣaṇa; मनागपि विलम्बं न चक्रे, Śiromaṇi).
+
+_____________
+
+**7.32.41–42 (Prahasta as Mount Vindhya)**
+
+Stepping boldly between Arjuna and Rāvaṇa, the veteran general Prahasta halts the king’s charge. On 7.32.41, **Rāma Varmā** recalls the Purāṇic myth behind the double Vindhya simile: jealous of Meru, Mount Vindhya once grew skyward to obstruct the sun’s daily chariot (विन्ध्यपर्वतोऽर्कमार्गं रुद्ध्वा स्थित इति कथा) until humbled by Agastya—an apt comparison for Prahasta barring the solar Arjuna. On 7.32.42, both Rāma Varmā and **Govindarāja** clarify the genitive अस्य प्रेषयन् as ‘hurling it for Arjuna’s destruction’ (अर्जुनस्य संहाराय प्रक्षिपन्), as Prahasta lets fly his iron-bound pestle with a thunderous roar.
+
+_____________
+
+**7.32.43–44 (The Blazing Pestle and Arjuna’s Unimpaired Valor)**
+
+All three commentators elucidate अशोकापीडः in 7.32.43 as a bright red crest or chaplet of Aśoka blossoms (अशोकपुष्पशिखा, **Rāma Varmā** and **Śivasahāya**; अशोकपुष्पकृतः आपीडः, **Govindarāja**), capturing the crimson trail of fire streaming from Prahasta’s iron weapon. On 7.32.44, Govindarāja directly glosses our text’s playful alliteration सगदोऽगदविक्रमः: ‘holding a mace (गदासहितः) and possessing unimpaired, unobstructed valor’ (अगदः अरोगः अप्रतिबन्ध इति यावत् विक्रमो यस्य), glossing वञ्चयामास as ‘parried’ (प्रतिहतवान्). Reading the Parimal variant गदया गतविह्वलः, Tilaka glosses ‘fearless’ (गतभयः), while Śivasahāya takes निपुणम् either of Prahasta’s skilled throw or Arjuna’s deft parry.
+
+_____________
+
+**7.32.45–46 (The Five-Hundred-Armed Blow and Prahasta’s Fall)**
+
+Counterattacking at once, Arjuna wields a weapon scaled to his mythic anatomy. All three commentators analyze पञ्चबाहुशतोच्छ्रयाम् in 7.32.45 as a massive mace whose upward heave requires five hundred arms (पञ्चबाहुशतैरुच्छ्रयः उत्क्षेपो यस्यास्ताम्). The single impact shatters Prahasta’s mountain-like stance from 7.32.41: while **Rāma Varmā** and **Govindarāja** construe स्थितः directly with the mountain (शैल इव स्थितो निपपात), **Śivasahāya** takes it of the stalwart demon himself (स्थिरबुद्धिः प्रहस्तः), felled like a crag split by Indra’s thunderbolt (_vajri-vajra_).
+
+_____________
+
+**7.32.47–48 (Flight of the Demon Captains and Rāvaṇa’s Entry)**
+
+Prahasta’s sudden collapse breaks the nerve of Laṅkā’s veteran commanders: Mārīca, Śuka, Sāraṇa, Mahodara, and Dhūmrākṣa hastily withdraw (निवृत्ता बभूवुः, **Śivasahāya**) from the field. Left standing alone in 7.32.48—framed by the crisp double locative absolute of his ministers’ flight and Prahasta’s fall—Rāvaṇa wastes no words and charges directly at Arjuna, initiating the epic clash between twenty arms and a thousand.
+
+_____________
+
+**7.32.49–52 (A Ninefold Simile Garland of Cosmic Combat)**
+
+Introducing the duel through the stark numerical contrast of a thousand arms against twenty, Vālmīki unleashes an unbroken three-verse cascade of nine dual similes—oceans, uprooted mountains, suns, fires, elephants, rival bulls, thunderclouds, lions, and finally Rudra and Time the Destroyer. **Śivasahāya** (_Śiromaṇi_) construes 7.32.50–52 as a single periodic sentence (श्लोकत्रयमेकान्वयि) culminating in their ferocious mace exchange. On 7.32.51, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss वाशितार्थे as ‘contending for a female’ (करिणीरूपप्रयोजनाय युयुधाते), applying _vāśitā_ to a prized cow or cow-elephant.
+
+_____________
+
+**7.32.53 (Mountain-Like Endurance)**
+
+Moving from aggressive simile to defensive fortitude, 7.32.53 compares the combatants’ resilience to primeval winged mountains absorbing Indra’s thunderbolts (_vajra-prahāra_). **Śivasahāya** highlights the exact symmetry of the verse: just as steadfast peaks bore dread thunder-strokes without yielding, so man and rākṣasa (_nara-rākṣasau_) withstood each other’s crushing mace impacts. The juxtaposition of _nara_ (‘mortal man’) and _rākṣasa_ subtly foreshadows Book VI, where another mortal king will finally break Rāvaṇa’s boon-shielded pride.
+
+_____________
+
+**7.32.54 (Thunderbolt Echoes Across the Quarters)**
+
+Completing the sensory crescendo with sound, 7.32.54 matches the clang of iron maces to lightning crashes reverberating through the sky. All three commentators elucidate its rare vocabulary: **Rāma Varmā** glosses अशनिरवेभ्यः as the booming of falling thunderbolts (अशनिपातध्वनिभ्यः), प्रतिश्रुतिः as ‘echo’ (प्रतिध्वनिः), गदापोथैः as ‘mace impacts’ (गदापातैः), and प्रतिश्रुताः as ‘resounding with echoes’ (प्रतिध्वनिमत्यः). **Govindarāja** likewise glosses गदापोथैः as गदापातैः and analyzes प्रतिश्रुताः as a possessive participle (प्रतिश्रुतवन्तः, मत्वर्थीयः), with **Śivasahāya** concurring.
+
+_____________
+
+**7.32.55–56 (Lightning and Meteor Upon Titanic Chests)**
+
+Shifting from sound to visual brilliance, Vālmīki contrasts the two combatants’ strikes. On 7.32.55, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) read a double illumination: just as Saudāminī lightning turns the sky bright gold, Arjuna’s mace falling upon his foe’s chest (अहितोरसि रावणोरसि) lit up Rāvaṇa’s breast with golden sparks (सौदामनी नभ इव रावणोरः काञ्चनाभं स्वर्णवर्णं चकार). **Śivasahāya** (_Śiromaṇi_) construes नभः directly as object of चक्रे (‘turned the sky golden’), and on 7.32.56 pairs this with Rāvaṇa’s mace blazing like a meteor (_ulkā_) against the immovable mountain of Arjuna’s torso.
+
+_____________
+
+**7.32.57–58 (Tireless Parity and the Duel of Bali and Indra)**
+
+Neither warrior shows a trace of fatigue (खेदं नायाति), prompting **Śivasahāya** to connect their stamina directly to the mythological precedent: because both remain equally unwearied, their battle rivaled the ancient contest of the asura emperor Bali and Indra (बलीन्द्रयोरिव सममासीत्)—a motif that will culminate in Rāvaṇa’s capture in 7.32.63 and 7.32.72. On 7.32.58, **Rāma Varmā** unpacks the compressed वृषायुध्यन् as ‘like bulls’ (वृषाविव), while Śivasahāya notes the epic number-shift (_vacana-vyatyaya_) in the plural verb अयुध्यन् used of the two duelists.
+
+_____________
+
+**7.32.59–60 (The Shattered Mace Against Brahmā’s Boon)**
+
+Pouring his entire vital force (सर्वप्राणेन सर्वप्रयत्नेन, **Śivasahāya**) into a decisive throw, Arjuna drives his mace square between Rāvaṇa’s breasts. Yet the weapon breaks in half. All three commentators pinpoint the theological cause in वरदानकृतत्राणे: shielded by Brahmā’s boon of invulnerability, Rāvaṇa’s chest remains unpierced. Both **Rāma Varmā** and **Govindarāja** explain दुर्बलेव यथावेगम् closely: as if stripped of strength (बलरहितेव) and unable to deliver a blow equal to its own velocity (स्ववेगोचितं प्रहर्तुमसमर्था), the mace split in two on its own and dropped to the ground.
+
+_____________
+
+**7.32.61–63 (Stunned by Shock and Bound Like Bali)**
+
+Though Brahmā’s boon saves Rāvaṇa’s life, it cannot spare him the sheer concussive impact of Arjuna’s blow. On 7.32.61, **Rāma Varmā** (_Tilaka_) notes that अपासर्पत् implies staggering backward without turning tail (अपराङ्मुख एव पृष्ठतोऽगच्छत्), while both he and **Govindarāja** (_Bhūṣaṇa_) gloss निष्टनन् as ‘groaning in pain’ (रुदन्; **Śivasahāya** शब्दयन्). Spotting his foe dazed (_vihvala_), Arjuna turns instantly from weaponry to bare-handed grappling—pouncing like Garuḍa on a snake and binding Daśānana with his thousand arms just as Vāmana-Nārāyaṇa bound the asura sovereign Bali.
+
+_____________
+
+**7.32.64 (Heavenly Applause and the Grammar of Sādhvīti)**
+
+The celestials’ relief bursts forth in floral rain and cries of acclaim. All three commentators address the lengthened _ī_ in साध्वीतिवादिनः (where साधु + इति would classically yield साध्विति). **Rāma Varmā** treats the lengthening as epic license (दीर्घ आर्षः), whereas **Govindarāja** takes साध्वी as a regular feminine adjective modifying an understood ‘deed’ (इयं क्रिया साध्वीति वदन्तः). **Śivasahāya** (_Śiromaṇi_) cites both positions, observing that while elders (वृद्धाः) call the long vowel _ārṣa_, construing साध्वी with an implied feminine noun such as बन्धनक्रिया (‘this act of binding is noble’) eliminates any need to posit irregularity.
+
+_____________
+
+**7.32.65–66 (Triumphant Roar and Prahasta’s Rally)**
+
+Holding the dreaded overlord of Laṅkā as easily as a tiger carries a deer or a lion subdues an elephant, Arjuna lets out repeated roars of exhilaration (आनन्दस्वनं चकार, **Śivasahāya** on the variant ररास). Yet the battle has one last flare-up: recovering consciousness just in time to see his master captive, the loyal general Prahasta rallies the scattered rākṣasas and launches a desperate final charge to rescue Daśānana.
+
+_____________
+
+**7.32.67–68 (The Monsoon Charge and Irregular Sandhi)**
+
+Advancing like dark rainclouds rising over the sea at summer’s end (आतपापाये वर्षाकाले, **Rāma Varmā**; ग्रीष्मापगमे, **Śivasahāya**), the rākṣasas shout frantically for Rāvaṇa’s release. The singular verb सोत्ससर्ज in 7.32.68 following plural भाषन्तः prompts two solutions: **Rāma Varmā** (_Tilaka_) flags the form as _ārṣa_ with plural sense (सर्व एव त्यक्तवन्तः, matching Baroda CE’s उत्ससर्जुः), whereas **Śivasahāya** (_Śiromaṇi_) supplies प्रापुः for the shouting rākṣasas and takes सः of Prahasta hurling pestles and pikes, noting the _ārṣa_ sandhi in स + उत्ससर्ज.
+
+_____________
+
+**7.32.69–70 (Midair Interception with Spare Arms)**
+
+Even while pinning down the ten-headed emperor, Arjuna remains completely unruffled (_asambhrānta_). **Rāma Varmā** vividly clarifies the physical feat in 7.32.69: while part of his thousand arms secured Rāvaṇa, Arjuna caught the oncoming demon missiles in midair before they reached his body (स्वसमीपमनागतान्येव अन्तरिक्षस्थान्येव) with his remaining free hands (रावणग्राहि-करव्यतिरिक्त-करैः जग्राह). Turning those very weapons back upon their throwers in 7.32.70, he disperses the cloud-like rākṣasa host like a gale scattering storm clouds.
+
+_____________
+
+**7.32.71–72 (Triumphal Entry into Māhiṣmatī in Vaṃśastha)**
+
+Routing the remnant forces, Arjuna marches captive Rāvaṇa into Māhiṣmatī flanked by jubilant friends. Shifting into the ornate twelve-syllable _Vaṃśastha_ meter for the finale—which **Śivasahāya** notes restates the triumph in elevated lyrical mode (तदेव भङ्ग्यन्तरेणाह)—Vālmīki pictures Brahmins and townsfolk raining heaps of blossoms and auspicious unbroken rice (कुसुमाक्षतानां समूहैः) upon the victor. The closing simile comparing thousand-armed Arjuna to thousand-eyed Indra (_sahasra-locana_) leading captive Bali crowns the sarga’s sustained Indra–Bali parallel.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -91,6 +91,14 @@ and gaining indications as to which ritual is to be performed, then said the kin
 
 Having meditated for a brief moment (_tato dhyātvā kiṃcit_), that wise sage who knew the Vedas (_medhāvī sa vedajñaḥ_), regaining outward awareness (_labdhasaṃjñaḥ_), spoke this reply to the king (_idam uttaraṃ taṃ tu nṛpam abravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.1 (medhāvī, vedajñaḥ & labdhasaṃjñaḥ)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** explain that as a master of all Vedic _śākhās_ (_vedajñaḥ_) endowed with retentive intellect (_medhāvī_), Ṛṣyaśṛṅga entered brief yogic contemplation (_dhyātvā kiṃcit_) to determine which Vedic rite would unerringly fulfil his promise of four sons; rising from that absorption (_labdhasaṃjñaḥ = samādhyutthitaḥ_, **Tilaka**; _prāptasmṛtiḥ_, **Govindarāja**), he announced the _Putrakāmeṣṭi_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -138,6 +146,14 @@ your benefit." [1-15-2]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For the sake of sons (_putrakāraṇāt_), I shall perform for you the _Putrīyā_ sacrifice (_iṣṭiṃ te ’haṃ kariṣyāmi putrīyām_), efficacious and accomplished according to precept (_siddhāṃ vidhānataḥ_) through the mantras declared in the _Atharvaśiras_ (_atharvaśirasi proktair mantraiḥ_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.2–3 (iṣṭiṃ putrīyām & atharvaśirasi proktair mantraiḥ)**
+
+**Tilaka** and **Śiromaṇi** explain _atharvaśirasi proktair mantraiḥ_ as the mantras of the upper/crowning books of the _Atharvaveda_ (_atharvavedoparitanabhāge_), while **Govindarāja** derives _putrīyām_ via Pāṇini 5.1.40 (_putrāc cha ca_).
 </details>
 </details>
 
@@ -242,6 +258,14 @@ of the Vedic ritual whenever a yajna is conducted on earth, to receive oblations
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon the gods together with the Gandharvas, the Siddhas, and the supreme sages (_tato devāḥ sagandharvāḥ siddhāś ca paramarṣayaḥ_) assembled according to ritual rule in order to receive their respective shares of the oblation (_bhāgapratigrahārthaṃ vai samavetā yathāvidhi_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.4–6 (tasmin sadasi devatāḥ)**
+
+**Govindarāja** notes that the sequel to Ṛṣyaśṛṅga’s oblation (the appearance of the Prājāpatya Puruṣa with the divine _pāyasa_) resumes in Sarga 16; in between, the gods—present invisibly in the sacrificial hall by _antardhāna_ (**Tilaka**)—petition Brahmā and Viṣṇu to incarnate.
 </details>
 </details>
 
@@ -453,6 +477,14 @@ themselves as demons.
 
 “Pleased with him at that time, O Revered Lord, you granted him a boon (_tvayā tasmai varo dattaḥ prītena bhagavaṃs tadā_); and ever honouring that boon (_mānayantaś ca taṃ nityam_), we patiently endure all that he does (_sarvaṃ tasya kṣamāmahe_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.7–9 (mānayantaś ca taṃ nityam & śakraṃ pradharṣayitum icchati)**
+
+All three commentators explain _taṃ nityaṃ mānayantaḥ_ as “honouring that boon of yours” (_taṃ varam pūjayantaḥ_). On v. 8, **Tilaka** makes a sharp chronological observation: because Rāvaṇa at the time of the _Putrakāmeṣṭi_ only _desired_ to overthrow Indra, Indrajit’s capture of Indra must have occurred _after_ this council (_etaduttarakālam indrajitkṛta indrabandha iti jñāyate_)! On _asurān_ (v. 9), **Tilaka** and **Govindarāja** note that Rāvaṇa bullied even Rāhu.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -630,6 +662,14 @@ may abduct as in the case of Seetha.
 
 “The Sun does not scorch him (_nainaṃ sūryaḥ pratapati_), the Wind does not blow fiercely beside him (_pārśve vāti na mārutaḥ_), and upon beholding him, even the Ocean garlanded with restless billows does not stir (_calormimālī taṃ dṛṣṭvā samudro ’pi na kampate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.10 (calormimālī... samudro ’pi na kampate — Virodhālaṃkāra)**
+
+**Tilaka** highlights the figure of apparent contradiction (_virodhālaṃkāraḥ_): though the ocean is by nature garlanded with tossing waves (_calormimālī_), upon sighting Rāvaṇa it stands motionless! **Govindarāja** supplies the dramatic context: the Sun softens its rays when Rāvaṇa strolls, the Wind dares not scatter blossoms in his gardens, and the Ocean stills its surf lest its spray wet his robes.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -758,6 +798,20 @@ by gods, or by other demons...' and I also said 'so be it..." [1-15-13]
 **12:** Thus addressed by all the gods, Lord Brahmā reflected and then spoke (_evam uktaḥ suraiḥ sarvaiś cintayitvā tato ’bravīt_): “Aha! Here is the means of slaying that wicked-souled one, now known (_hantāyaṃ viditas tasya vadhopāyo durātmanaḥ_)!
 
 **13:** “By him this plea was uttered: ‘May I be invulnerable to Gandharvas, Yakṣas, Gods, Dānavas, and Rākṣasas!’ (_tena gandharvayakṣāṇāṃ devadānavarakṣasām avadhyo ’smīti vāg uktā_), and to that I replied, ‘So be it!’ (_tathety uktaṃ ca tan mayā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.12 (hantāyaṃ viditas tasya vadhopāyaḥ)**
+
+**Tilaka** takes _hanta_ as expressing sympathy (_anukampāyām_), while **Govindarāja** and **Śiromaṇi** take it as an exclamation of joy upon recalling the loophole in Rāvaṇa’s boon (_upāyasmaraṇajaharṣe_).
+
+_____________
+
+**15.13–14 (nākīrtayad avajñānāt... tasmāt sa mānuṣād vadhyaḥ)**
+
+**Tilaka** and **Govindarāja** explain _avajñānāt_ as _avamānāt_—out of disdain, Rāvaṇa deemed mortals beneath mention. **Śiromaṇi** adds that since ordinary mortals could never vanquish Rāvaṇa, Brahmā’s words point to the Supreme Person Himself assuming human form.
 </details>
 </details>
 
@@ -964,6 +1018,20 @@ Ravana, and the sun by showering the gratuitous and cooling rains.
 
 **17:** Mounted upon Vinatā’s son Garuḍa, like the radiant Sun riding upon a rain-cloud (_vainateyaṃ samāruhya bhāskaras toyadam yathā_), wearing armlets of burnished gold and adored by the foremost of the gods (_taptahāṭakakeyūro vandyamānaḥ surottamaiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.16 (The Epiphany of Viṣṇu — śaṅkhacakragadāpāṇiḥ pītavāsā jagatpatiḥ)**
+
+**Govindarāja (_Bhūṣaṇa_)** gives a celebrated Śrīvaiṣṇava exegesis of v. 16: (1) _etasminn antare_ shows that the omniscient Lord was awaiting the gods’ appeal (citing **Śaunaka**: _saṃsāratantranāthitvād rakṣāpekṣāṃ pratīkṣate_); (2) _mahādyutiḥ_ denotes the radiance of joy upon gaining an occasion to save His devotees; (3) _śaṅkhacakragadāpāṇiḥ_ shows that He ever holds His weapons ready lest there be an instant’s delay in rescuing the surrendered, citing **Parāśara Bhaṭṭar**: _kṣamāt praṇatarakṣāyāṃ vilambam asahann iva, sadā pañcāyudhīṃ bibhrat sa naḥ śrīraṅganāyakaḥ_; (4) _pītavāsāḥ_ marks His auspicious _maṅgala-dīkṣā_; and (5) _jagatpatiḥ_ declares His eternal bond as Master of all.
+
+_____________
+
+**15.17–18 (bhāskaras toyadam yathā & samāhitaḥ)**
+
+Riding upon Garuḍa like the blazing Sun upon a rain-cloud, Lord Viṣṇu stands in the sacrificial hall wholly intent upon the work of protection (_samāhitaḥ = kariṣyamāṇarakṣaṇakṛtye ekāgraḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1116,6 +1184,20 @@ for gods. [1-15-21b, 22a]
 
 **21:** “O Viṣṇu, do You enter into sonship, dividing Yourself into four forms (_viṣṇo putratvam āgaccha kṛtvātmānaṃ caturvidham_)! Becoming a human being there, slay that full-grown thorn of the worlds (_tatra tvaṃ mānuṣo bhūtvā pravṛddhaṃ lokakaṇṭakam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.19 (tvāṃ niyokṣyāmahe viṣṇo)**
+
+How can the subordinate gods say _niyokṣyāmahe_ (“we shall commission You”) after bowing low in praise (_samabhiṣṭūya saṃnatāḥ_, v. 18)? **Govindarāja** explains that _niyokṣyāmahe_ here means _utsāhayiṣyāmahe_ or _prārthayāmahe_—“we eagerly encourage and entreat You who are already spontaneously inclined to protect Your own,” just like Sītā’s later words _smāraye tvāṃ na śikṣaye_.
+
+_____________
+
+**15.20–21 (hrīśrīkīrtyupamāsu & kṛtvātmānaṃ caturvidham)**
+
+Daśaratha’s three queens are compared to _Hrī_, _Śrī_, and _Kīrti_, the three daughters of Dakṣa (**Govindarāja**). On _kṛtvātmānaṃ caturvidham_, both **Tilaka** and **Govindarāja** explain the fourfold teleology (slaying Rāvaṇa, Indrajit, Lavaṇa, and the Gandharvas), while **Tilaka** cites the _Padma Purāṇa_ (_śaṅkhaḥ pāñcajanyātmā kaikeyyāṃ bharato ’bhavat, śeṣo ’nantātmā ca lakṣmaṇaḥ, sudarśanātmā śatrughnaḥ_), noting that _ātmānam_ proves that the Lord’s eternal attributes share His own divine form!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1167,6 +1249,14 @@ with eminent saints, gandharva-s, and siddha-s. [1-15-22b, 23a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Rāvaṇa, who is invulnerable to the gods, in battle, O Viṣṇu (_avadhyaṃ daivatair viṣṇo samare jahi rāvaṇam_)! For that rākṣasa Rāvaṇa torments the gods together with the Gandharvas, the Siddhas, and the foremost of sages (_sa hi devān sagandharvān siddhāṃś ca ṛṣisattamān_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.22–24 (krīḍanto nandanavane)**
+
+The gods recount how Rāvaṇa, swollen with arrogance (_vīryodrekeṇa_), struck down even the sages, Gandharvas, and Apsarases sporting in Indra’s Nandana grove.
 </details>
 </details>
 
@@ -1329,6 +1419,14 @@ to Vishnu that way. [1-15-25b, 26a]
 
 “The Siddhas, Gandharvas, and Yakṣas have therefore sought refuge in You (_siddhagandharvayakṣāś ca tatas tvāṃ śaraṇaṃ gatāḥ_); O Lord, You are the supreme refuge of us all, the scorcher of foes (_tvaṃ gatiḥ paramā deva sarveṣāṃ naḥ paraṃtapaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.25–26 (tvaṃ gatiḥ paramā deva & devaśatṝṇām)**
+
+**Govindarāja** notes that v. 25 answers why the gods turn to Viṣṇu even when Rudra and Brahmā are present: _tvaṃ gatiḥ paramā deva sarveṣāṃ naḥ_—“You alone are the supreme refuge and means of deliverance for us all, and none other (_nānye_).” The plural _devaśatṝṇām_ confirms the fourfold incarnation to destroy Rāvaṇa, Indrajit, Lavaṇa, and the Gandharvas.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1381,6 +1479,14 @@ and that are in the assemblage, keeping the Forefather Brahma at their helm. [1-
 **26:** “Set Your mind upon descending to the world of men for the destruction of the enemies of the gods (_vadhāya devaśatṝṇāṃ nṛṇāṃ loke manaḥ kuru_)!” Thus praised, the Lord of the gods, Viṣṇu, the foremost of the celestials (_evaṃ stutas tu deveśo viṣṇus tridaśapuṅgavaḥ_),
 
 **27:** Revered by all the worlds (_sarvalokanamaskṛtaḥ_), spoke to all those righteous gods who had assembled there with Pitāmaha (Brahmā) at their head (_pitāmahapurogāṃs tān abravīt tridaśān sarvān sametān dharmasaṃhitān_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.27 (pitāmahapurogāṃs tān... dharmasaṃhitān)**
+
+Both **Govindarāja** and **Śiromaṇi** highlight the pregnant compound _dharmasaṃhitān_: it denotes the supreme _dharma_ of unconditional self-surrender (_śaraṇāgati-rūpa-dharmasaṃyutān_, **Govindarāja**) enacted by the gods in v. 25 (_tvāṃ śaraṇaṃ gatāḥ_)!
 </details>
 </details>
 
@@ -1464,6 +1570,14 @@ world ruling this earth for eleven thousand years." Thus Vishnu assured the gods
 **28:** “Cast off your fear! May auspiciousness attend you (_bhayaṃ tyajata bhadraṃ vaḥ_)! For your welfare, having slain Rāvaṇa in battle (_hitārthaṃ yudhi rāvaṇam_), together with his sons and grandsons, his ministers, his counsellors, his kinsmen, and his allies (_saputrapautraṃ sāmātyaṃ samantrijñātibāndhavam_)—
 
 **29:** “Having slain that cruel, unassailable monster who strikes terror into the gods and sages (_hatvā krūraṃ durādharṣaṃ devarṣīṇāṃ bhayāvaham_), for ten thousand years and ten hundred years (_daśavarṣasahasrāṇi daśavarṣaśatāni ca_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.28–30 (bhayaṃ tyajata bhadraṃ vaḥ & Eleven Thousand Years of Reign)**
+
+Forming a single period across two and a half ślokas (_sārdhaślokadvayam ekānvayi_), Lord Viṣṇu’s reply opens with the quintessential assurance of grace—_bhayaṃ tyajata bhadraṃ vaḥ_—and promises that after slaying Rāvaṇa with all his kin, He will rule the earth for 10,000 + 1,000 = 11,000 years to establish _dharma_.
 </details>
 </details>
 
@@ -1586,6 +1700,14 @@ paraphernalia. There is no unanimity on this, as yet.
 
 Reflected upon a birthplace for Himself in the human world (_mānuṣye cintayāmāsa janmabhūmim athātmanaḥ_); then the lotus-petal-eyed Lord, dividing Himself into four forms (_tataḥ padmapalāśākṣaḥ kṛtvātmānaṃ caturvidham_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.31–32 (padmapalāśākṣaḥ & pitaraṃ rocayāmāsa daśarathaṃ nṛpam)**
+
+**Govindarāja** gives three exquisite explanations of _padmapalāśākṣaḥ_ (“lotus-petal-eyed”) at the moment Viṣṇu chooses Daśaratha as His father: (1) His eyes blossomed wide like lotus petals in joy at recalling Daśaratha’s virtues; (2) He whose lotus-eyes are desired by all Himself desired an earthly father; and (3) His lotus-eyes (Chāndogya Upaniṣad 1.6.7: _yathā kapyāsaṃ puṇḍarīkam evam akṣiṇī_) mark Him as the unborn Supreme Brahman who lovingly desired fourfold birth (_janirahitasya api janir abhilaṣitā_)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1642,6 +1764,14 @@ He is also called Madhusuudana. This is one the thousand names of Vishnu.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Chose King Daśaratha at that time as His father (_pitaraṃ rocayāmāsa tadā daśarathaṃ nṛpam_). Thereupon the divine sages and Gandharvas, together with the Rudras and hosts of Apsarases (_tato devarṣigandharvāḥ sarudrāḥ sāpsarogaṇāḥ_), praised the slayer of Madhu with hymns of celestial beauty (_stutibhir divyarūpābhis tuṣṭuvur madhusūdanam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.32–33 (sarudrāḥ, madhusūdanam & virāvaṇaṃ rāvaṇam)**
+
+On _sarudrāḥ_, **Govindarāja** notes that Śiva too was among the supplicant gods, and that they address Viṣṇu as _Madhusūdana_ to intimate that Rāvaṇa must be crushed as effortlessly as the demon Madhu (_madhuvad ayam api nirasaniya iti_).
 </details>
 </details>
 
@@ -1783,6 +1913,14 @@ and faultless Vaikuntha. [1-15-34]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having slain that very Rāvaṇa of fierce prowess who makes the worlds wail, together with his armies and his kinsmen (_tam eva hatvā sabalaṃ sabāndhavam virāvaṇaṃ rāvaṇam ugrapauruṣam_), return free of all care for a long time to Your transcendental heaven (_svarlokam āgaccha gatajvaraś ciram_), guarded by the chief of the immortals and free from every taint and stain (_surendraguptaṃ gatadoṣakalmaṣam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15.34 (tam eva hatvā... svarlokam āgaccha)**
+
+**Govindarāja** observes that _eva_ in _tam eva hatvā_ expressly excludes righteous Vibhīṣaṇa (_evakāreṇa vibhīṣaṇavyavacchedaḥ_)! All three commentators explain that _svarlokam_—qualified as _gatadoṣakalmaṣam_ (free from _rāga_ and _dveṣa_), _ciram_ (eternal), and _surendraguptam_ (guarded by Viṣvaksena)—denotes the supreme transcendental abode of **Vaikuṇṭha** (**Tilaka**, **Govindarāja**) or **Sāketa** (**Śiromaṇi**).
 </details>
 </details>
 

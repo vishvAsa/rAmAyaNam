@@ -595,6 +595,98 @@ to exile, revealing that wish from her mind, uttered unspeakable wordswith bias 
 
 With her mind set solely upon that purpose (_tad-arthamanāḥ_), the queen, seeing that his intention had fallen into her grasp, spoke out of partiality (_nirmādhyasthyāc ca_) and glee a speech most cruel to utter (_durvacaṃ vacaḥ_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.11.1–3 (viprakṛtā and pratijñāṃ pratijānīṣva)**
+
+Govindarāja notes that Kaikeyī now executes Mantharā's instruction (व्यवस्थाप्य महाराजम्) to bind the king in an oath before naming her demand. In v. 2, Govindarāja glosses विप्रकृता as “stricken by illness” (रोगग्रस्ता) to answer the king's first query, whereas _Tilaka_ takes it as “humiliated by a rival wife” (सपत्न्या पराभूता) and अवमानः as verbal insult (शब्देन तिरस्कारः). In v. 3, she demands an explicit verbal oath (प्रतिज्ञां प्रतिजानीष्व शपथं कुरु, Govindarāja).
+
+_____________
+
+**2.11.4 (īṣadutsmayaḥ and mūrdhajeṣu)**
+
+Why does Daśaratha smile faintly (ईषदुत्स्मयः / ईषदुत्स्मितः)? Both Govindarāja and _Tilaka_ explain that he finds her demand for a formal oath amusing when he is already eager to obey her every command (आज्ञाकारिणि मयि शपथाकाङ्क्षा मुधेत्युत्स्मयः, _Tilaka_; भवदाज्ञाकारिणि मयि फलं शपथेनेति किंचिदुत्स्मितः, Govindarāja). Lifting her head from the floor by her hair (शिरोऽस्या उत्थापयितुमिति भावः, Govindarāja and _Tilaka_) or holding her single braid to face him (स्वाभिमुखीकरणाय वेणीमवलम्ब्येति वार्थः, Govindarāja), he speaks.
+
+_____________
+
+**2.11.5–6 (avalipte and Swearing by Rāma)**
+
+Addressing her as अवलिप्ते (“O lady proud of your conjugal fortune,” सौभाग्यगर्विते, Govindarāja), Daśaratha declares that no woman is dearer to him than she, and no man save Rāma (स्त्रीणां मध्ये त्वत्तः पुंसां मध्ये रामादन्य इति योज्यम्, _Tilaka_)—or, as _Tilaka_ adds, not knowing her hatred of Rāma, he means Rāma alone is even dearer than she (रामेऽस्या द्वेषमजानत एवमुक्तिः राम एव त्वत्तोऽधिकः प्रिय इत्याशयः). He therefore swears by Rāma himself, who is dearer than life (जीवनादपि पूज्येन, Govindarāja).
+
+_____________
+
+**2.11.7–8 (Tragic Foreshadowing in the Oath by Rāma)**
+
+_Tilaka_ points out the dramatic irony (भाव्यर्थं सूचयन्) in v. 7: by swearing that he cannot live for a single hour without seeing Rāma (यं मुहूर्तमपश्यंस्तु न जीवे), the king unwittingly foretells his own death upon Rāma's exile and hints that she must not ask anything harmful to Rāma (तद्विषयकदुष्टप्रार्थना न कार्येति सूचयति). In v. 8, Govindarāja explains the instrumental आत्मना चात्मजैश्चान्यैः as comparative value: weighed against his own body, his other sons such as Bharata, and his kinsmen (तुल्यभूतैरेतैर्यं रामं वृणे), he would abandon them all to embrace Rāma alone (सर्वान्परित्यज्यापि राममेव परिगृह्णामीति भावः).
+
+_____________
+
+**2.11.9–10 (hṛdayam apy etad anumṛśyoddharasva)**
+
+In v. 9, _Tilaka_ cites the proverb यन्मनसा ध्यायति तद्वाचा वदति (“what one meditates in the mind, one speaks in word”): the king bids her inspect his heart (अनुमृश्य विचार्य), see that his words and heart are one (वाङ्मनसयोरैकरूप्यं समीक्ष्य, Govindarāja), and rescue him from his torment (मामस्माद्दुःखादुद्धर, _Tilaka_; उद्धरस्व उज्जीवय, Govindarāja).
+
+_____________
+
+**2.11.11–12 (nirmādhyasthyāt and abhyāgatam ivāntakam)**
+
+Both Govindarāja and _Tilaka_ gloss निर्माध्यस्थ्यात् in v. 11 as abandoning maternal impartiality out of partisan bias for her own son (निर्गतमध्यस्थभावात् पक्षपातादित्यर्थः, Govindarāja; स्वपुत्रपक्षपातेनेति यावत्, _Tilaka_), uttering words that even foes could scarcely speak (दुर्वचं शत्रुभिरपि वक्तुमशक्यम्, _Tilaka_). Rejoicing at his triple oath (त्रिवाचा रामशपथपूर्वकस्ववचनक्रियावाक्येन, _Tilaka_), she pronounces her design like Death itself (अन्तकमिव घोरं राज्ञः प्राणहरम्, _Tilaka_).
+
+_____________
+
+**2.11.13–15 (yathā krameṇa and Cosmic Witnesses)**
+
+Suspecting that the king will try to retract his promise once he hears how cruel her demand is (दुष्करार्थविषयत्वेन वैपरीत्यमाशङ्क्य, _Tilaka_), Kaikeyī locks in his vow by invoking all cosmic witnesses (अशेषसाक्षीकरणेन स्थिरयति). Both Govindarāja and _Tilaka_ explain क्रमेण in v. 13 as the progressive escalation of his oaths—first by his own good deeds, and then by his beloved son Rāma (अतिप्रियपुत्रसुकृतादिक्रमेण, _Tilaka_; प्रियपुत्रसुकृतक्रमेण, Govindarāja). On जगच्च पृथिवी चेयम् in v. 14, _Tilaka_ distinguishes the unseen deities of heaven (परोक्षस्वर्गादिभुवनदेवता) from the visible deity of Earth (प्रत्यक्षभुवनदेवता).
+
+_____________
+
+**2.11.16–17 (daivatāḥ, parigṛhya, and abhiśasya)**
+
+In v. 16, _Tilaka_ cites the lexical rule (दैवतानि वा पुंसि इति कोशः) to justify the masculine plural सर्वे दैवताः. In v. 17, all three commentators gloss परिगृह्य as binding the king fast in the snare of dharma so he cannot turn back (धर्मपाशेन बद्ध्वा, Govindarāja; परिवर्तनानर्हं कृत्वा, _Tilaka_), and अभिशस्य as praising his truthfulness (सत्यसंध इत्यादिना स्वकार्यस्थैर्याय स्तुत्वा च, _Tilaka_).
+
+_____________
+
+**2.11.18 (च्यावयत् and tava jīvitam antarā)**
+
+In v. 18, _Tilaka_ and _Śiromaṇi_ read the unaugmented epic imperfect च्यावयत् (अडभाव आर्षः, _Tilaka_) and construe तव जीवितमन्तरा as “without taking your life” (प्राणं विना त्वां च्यावयत् प्रच्युतवीर्यमकरोत्): Śambara stripped Daśaratha of consciousness and strength, stopping just short of death. Govindarāja reads चाच्यावयत् (with augment after च) and construes अन्तरा as “in the midst of the night-battle” (तत्र रात्रियुद्धे अन्तरा मध्ये तव जीवितमच्यावयच्चालयत्).
+
+_____________
+
+**2.11.19–21 (yatamānāyāḥ and nikṣepau mṛgayāmi)**
+
+In v. 19, Govindarāja glosses यतमानायाः as “striving in charioteering” (सारथ्ये यत्नं कुर्वाणायाः), while _Śiromaṇi_ notes that the genitive stands for the dative with प्रददौ (संबन्धसामान्यविवक्षया षष्ठी). In v. 20, all three commentators explain the legal metaphor of निक्षेपौ: the two boons were left in the king's custody like a pledged deposit (त्वत्समीपे निक्षेपौ न्यासभूतत्वेन स्थापितौ, _Śiromaṇi_; निक्षेपभूतो त्वय्येव स्थापितौ, _Tilaka_), which she now demands back (मृगयामि अन्वेषयामि इच्छामीत्यर्थः, Govindarāja), threatening suicide in v. 21 if he refuses.
+
+_____________
+
+**2.11.22 (vāṅmātreṇa and pracaskanda pāśaṃ mṛga iva)**
+
+Govindarāja and _Tilaka_ offer a rich twofold analysis of v. 22. First, taking स्कन्दिर् गतिशोषणयोः in the sense of motion (गति), just as a deer is lured by the hunter's decoy-cry (मृगवञ्चनादकारिणा लुब्धककल्पितेन वाङ्मात्रेण, Govindarāja) and leaps into the net (वागुरां मृग इव), so the king, ensnared by Kaikeyī's mere words recalling the old boons (पूर्वदत्तवरस्मारकवचनमात्रेण), leaped into the noose of dharma (धर्मपाशं प्रचस्कन्द गतवान्) to his own ruin. Second, taking स्कन्द् in the sense of withering (शोषण), like a deer caught in a snare, the king withered away inside (प्रचस्कन्द शोषणं प्राप इत्यर्थः, Govindarāja).
+
+_____________
+
+**2.11.23–24 (vakṣyāmi and abhiṣekasamārambhaḥ)**
+
+In v. 24, both Govindarāja and _Tilaka_ gloss तौ तावदहमद्यैव वक्ष्यामि as “I shall now specify and apportion the two boons one by one” (तौ वरौ विभज्य प्रदातुं प्रकारं वक्ष्यामीत्यर्थः, Govindarāja; मम दातव्यौ वराविमाविति विभज्य वक्ष्यामि, _Tilaka_), beginning with the consecration materials (अभिषेकसमारम्भः अभिषेकसामग्री, Govindarāja) prepared for Rāma.
+
+_____________
+
+**2.11.25–27 (The Two Boons Specified: cīrājinadharaḥ and akaṇṭakam)**
+
+In v. 25, Govindarāja and _Śiromaṇi_ explain अनेनैवाभिषेकेण as “with the very consecration apparatus prepared for Rāma” (अभिषेकेण अभिषेकसामग्र्या), which constitutes the first boon. Turning to the second boon in vv. 26–27, Govindarāja glosses चीरम् as bark-cloth (वल्कलम्) and _Śiromaṇi_ glosses अकण्टकम् as “free of all obstacles or rivals” (विघ्नरहितम्).
+
+_____________
+
+**2.11.28 (dattam eva varaṃ vṛṇe and adya caiva)**
+
+Why does Kaikeyī insist in v. 28, “I choose only the boon already granted” (दत्तमेव वरं वृणे)? Both Govindarāja and _Tilaka_ explain that she forestalls any shame on the king's part by reminding him that she is asking nothing new (दत्तमेव न तु नूतनं किंचिदर्थये, Govindarāja), since among the virtuous, failing to repay an old debt brings disgrace (दत्तग्रहणे तस्य व्रीडा भवतीति न कश्चिद्दोषः, _Tilaka_). By adding अद्य चैव (“this very day”), she bars all delay (कालविलम्बो निरस्तः, _Tilaka_).
+
+_____________
+
+**2.11.29 (satyasaṃgaraḥ and paratra vāse)**
+
+Shifting to twelve-syllable _Vaṃśastha_ in the concluding verse, Kaikeyī exhorts the king of kings to be सत्यसंगरः (“true to his pledge,” derived by _Tilaka_ from सम् + गॄ in the sense of promising, संपूर्वाद्गिरतेः कथनार्थात्कर्मण्यप्; सत्यप्रतिज्ञः, Govindarāja), warning him to guard the three pillars of his dynasty, character, and high birth (कुलादित्रयं रक्ष, Govindarāja and _Śiromaṇi_) for the sake of the hereafter (परत्रवासे स्वर्गलोकादिवासे, Govindarāja).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

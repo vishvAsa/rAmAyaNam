@@ -78,6 +78,14 @@ Shataananda continued the legend of Vishvamitra. [1-65-1]
 
 Then, abandoning the northern quarter of the Himālaya (_haimavatīṃ diśaṃ tyaktvā_), O Rāma, the great sage repaired to the eastern quarter (_pūrvāṃ diśam anuprāpya_) and practised the most dreadful austerity (_tapas tepe sudāruṇam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.1–2 (haimavatīṃ diśam & maunam)**
+
+**Rāma Varmā (_Tilaka_)** and **Śiromaṇi** note that Viśvāmitra abandoned the northern quarter (_haimavatīm = uttarām_) where Rambhā had disrupted his penance and moved east. **Tilaka** explains _maunam_ here as _kāṣṭhamaunam_—total cessation of speech and gesture.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,6 +192,14 @@ hearts, for he stood fast in an unmitigated ascesis on making a firm determinati
 
 When the thousand years were fulfilled, though that great sage—who stood motionless as a block of wood (_kāṣṭhabhūtam_)—was assailed by manifold obstacles (_vighnair bahubhir ādhūtam_), wrath found no entry into his heart (_krodho nāntaram āviśat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.3 (kāṣṭhabhūtam & nāntaram āviśat)**
+
+Standing motionless as a block of wood (_kāṣṭhabhūtam = kāṣṭhavad avasthitam_, **Govindarāja**), he endured every obstacle and provocation (_aparādhādisahanena_, **Śiromaṇi**) without letting wrath enter his inner mind or find any opening (_āntaram = antaḥkaraṇam_, **Tilaka**; _antaram = avakāśam_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +262,14 @@ sambhojya iti suucitam - dk*
 **4:** Having formed that firm resolve (_sa kṛtvā niścayam_), O Rāma, he practised imperishable austerity; and when the vow of that thousand years was completed, that sage of mighty vows (_mahāvrataḥ_)—
 
 **5:** —prepared to partake of food at that hour of breaking his fast (_bhoktum ārabdhavān annaṃ tasmin kāle_), O best of the Raghus; whereupon Indra, assuming the form of a twice-born Brahmin (_indro dvijātir bhūtvā_), begged from him that cooked food (_taṃ siddham annam ayācata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.4–6 (siddham annam & niścitaḥ)**
+
+In the Southern Recension’s celebrated test of Viśvāmitra’s patience, Indra arrives as a Brahmin at the exact moment of his _vratapāraṇa_ (breaking of the thousand-year fast, **Tilaka**, **Govindarāja**) and begs all his cooked food (_siddham = pakvam_). Convinced that a supplicant must never be refused (_tapasiddhaye sarvathaivānnaṃ dātavyam_, **Govindarāja**), and lacking other grain to cook afresh, he gives it all away and remains fasting.
 </details>
 </details>
 
@@ -346,6 +370,14 @@ Like that, he indeed carried on his ascesis. [1-65-6, 7]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Abiding in his vow of silence (_maunavratam upāsthitaḥ_), he spoke not a single word to the Brahmin (_na kiṃcid avadad vipram_); remaining just as before, he once again practised silence and suspension of breath (_punar maunam anucchvāsaṃ cakāra ha_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.7–9 (mūrdhni dhūmo vyajāyata)**
+
+Having given away his meal without breaking silence, Viśvāmitra embarks upon a second thousand-year _kumbhaka_ (v. 8). **Rāma Varmā (_Tilaka_)** explains _dhūmaḥ_ as the fiery comet-like radiance of pure _sattva_ (_dhūmaketur ity arthaḥ; ayaṃ śuddhasattvaguṇaprabhavo ’gniḥ_), which scorches the _rajas_- and _tamas_-bound beings of the three worlds (_ātāpitam_, or _ādīpitam_ in **Govindarāja** and **Śiromaṇi**).
 </details>
 </details>
 
@@ -466,6 +498,14 @@ all of them addressed the Grandparent, Brahma. [1-65-9b, 10]
 **9:** —whereby the three worlds were thrown into turmoil and seemed scorched with heat (_trailokyaṃ yena sambhrāntam ātāpitam ivābhavat_). Thereupon the gods, sages, and Gandharvas, together with the Pannagas, Uragas, and Rākṣasas—
 
 **10:** —bewildered by his austerity (_mohitās tapasā tasya_), their own lustre dimmed by his fiery splendour (_tejasā mandaraśmayaḥ_), and stricken with dejection (_kaśmalopahatāḥ sarve_), spoke thus to the Grandfather Brahmā:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.10–11 (lobhitaḥ krodhitaś caiva)**
+
+**Govindarāja** points out how v. 11 summarizes both trials: he was enticed by lures of passion such as Rambhā (_lobhakāraṇaiḥ rambhādarśanādibhiḥ_) and provoked by triggers of wrath such as the begging of his meal after a thousand-year fast (_krodhakāraṇair varṣasahasrāntasiddhakṛtsnānnayācanādibhiḥ_), yet transcended both.
 </details>
 </details>
 
@@ -605,6 +645,20 @@ the mountains are eruptive, and nothing is bright. [1-65-13b, 14a]
 **12:** “Not even the slightest flaw or sin is seen in him (_nahy asya vṛjinaṃ kiṃcid dṛśyate sūkṣmam apy uta_). If that which is desired by his heart is not granted to him (_na dīyate yadi tv asya manasā yad abhīpsitam_)—
 
 **13:** “—he will destroy the three worlds together with all their moving and unmoving beings by his austerity (_vināśayati trailokyaṃ tapasā sacarācaram_)! All the quarters are confounded in darkness (_vyākulāś ca diśaḥ sarvāḥ_), and nothing whatever shines forth (_na ca kiṃcit prakāśate_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.12 (sūkṣmam api vṛjinam)**
+
+Since not even a microscopic trace of passion or anger (_sūkṣmam api vṛjinaṃ rāgadveṣādilakṣaṇam_, **Govindarāja**, **Tilaka**; or distress from our obstacles, _asmatkṛtavighnajanitaduḥkham_, **Śiromaṇi**) remains in him, his desired _Brahmarṣitva_ must be granted before his penance consumes the universe.
+
+_____________
+
+**65.13–15 (na pratijānīmaḥ & nāstiko jāyate)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja** supply _pratikriyām_ after _na pratijānīmaḥ_ (“we know of no countermeasure to this cosmic crisis”) and explain _nāstiko jāyate janaḥ_ as meaning that, amid such universal upheaval, people have ceased performing Vedic rites just like unbelievers (_jagatkṣobhavaśān nāstika iva karmānanuṣṭhāyī_). **Śiromaṇi** alternatively derives _nāstikaḥ_ as ‘one who has no joy left’ (_nāsti kaṃ sukhaṃ yasya saḥ_).
 </details>
 </details>
 
@@ -767,6 +821,14 @@ total destruction of all worlds he is to be placated. [1-65-16b, 17a]
 
 “Even the sun has been rendered lustreless by the splendour of that great sage (_bhāskaro niṣprabhaś caiva maharṣes tasya tejasā_)! Before that great sage sets his mind upon universal destruction (_buddhiṃ na kurute yāvan nāśe_), O God—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.16–17 (bhāskaro niṣprabhaḥ & kālāgninā)**
+
+**Śiromaṇi** notes that v. 16ab is preserved in manuscripts bearing _Bhaṭṭa_’s commentary (_bhaṭṭīkāṅkitapustakeṣu_). Before Viśvāmitra resolves upon universal destruction like the doomsday fire (_kālāgni_), he must be propitiated.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -870,6 +932,14 @@ appeared before that great souled Vishvamitra and said this harmonious word. [1-
 
 “Even if he should desire the sovereignty of the gods (_devarājyaṃ cikīrṣeta_), let whatever his heart desires be granted to him (_dīyatām asya yan manaḥ_)!” Then all the hosts of the gods, headed by the Grandfather Brahmā (_pitāmahapurogamāḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.18 (devarājyaṃ cikīrṣeta)**
+
+**Tilaka** records two interpretations: (1) “Even if he should desire the throne of Indra, grant it to him!” or (2) “If his wish for _Brahmarṣitva_ is denied, he might seek to seize rule over the gods (or create a rival heaven); therefore grant what is in his mind!”
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -923,6 +993,14 @@ Kaushika, you have achieved Bahaman-hood by your rigorous ascesis. [1-65-19b, 20
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —spoke these sweet words to the high-souled Viśvāmitra: “Welcome to you, O Brahmarṣi (_brahmarṣe svāgataṃ te ’stu_)! We have been thoroughly pleased by your austerity (_tapasā sma sutoṣitāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.19–22 (dīrgham āyuḥ & yadi)**
+
+Why does Brahmā grant an unasked boon of long life (_dīrgham āyuḥ_) in v. 20? **Rāma Varmā (_Tilaka_)** explains that longevity is the natural fruit of beholding Brahmā face to face (_svadarśanaphalam_), and is needed to enjoy his newly won status, while **Śiromaṇi** notes that _samarudgaṇaḥ_ hints his renown will endure as long as the winds blow. In v. 22, _yadi_ expresses logical entailment rather than doubt (_asaṃdigdhavacane, vedāḥ pramāṇaṃ ced itivat_, **Tilaka**).
 </details>
 </details>
 
@@ -1107,6 +1185,20 @@ the gods. [1-65-23b, 24]
 
 **24:** “—Vasiṣṭha, the son of Brahmā, himself declare me thus (_brahmaputro vasiṣṭho mām evaṃ vadatu_), O gods! If this supreme desire of mine is fulfilled (_yady evaṃ paramaḥ kāmaḥ kṛtaḥ_), then let the foremost of the gods depart.”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.23 (oṃkāro ’tha vaṣaṭkāraḥ)**
+
+**Tilaka** and **Govindarāja** explain Viśvāmitra’s prayer: _Oṃkāra_ is the instrument of _brahmajñāna_, _Vaṣaṭkāra_ of Vedic sacrifice, and the Vedas of all auxiliary sciences; “may they choose me (_varayantu_) as they choose born Brahmins like Vasiṣṭha, granting me eligibility to teach and officiate at sacrifices (_adhyāpanayājanayor arhatiḥ_)!”
+
+_____________
+
+**65.24 (vasiṣṭho mām evaṃ vadatu)**
+
+Since recognition by one’s peers (_sajātīyaparigrahaḥ_, **Govindarāja**) is essential, Vasiṣṭha—foremost in both _Kṣatraveda_ (archery/royal rites) and _Brahmaveda_ (Upaniṣads)—must personally hail him as _Brahmarṣi_.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1162,6 +1254,14 @@ way to Vishvamitra, 'you are a Brahma-sage.' [1-65-25]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, propitiated by the gods, the Brahmarṣi Vasiṣṭha, foremost of mutterers of sacred prayers (_japatāṃ varaḥ_), entered into friendship with him (_sakhyaṃ cakāra_) and said: “So be it (_evam astu_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.25–26 (sarvaṃ sampadyate tava)**
+
+**Rāma Varmā (_Tilaka_)** remarks that Vasiṣṭha’s declaration “everything pertaining to Brahminhood is accomplished for you” implies that Viśvāmitra’s attainment of Brahminhood extended for three generations of his lineage, citing Patañjali’s _Mahābhāṣya_ on Pāṇini 5.1.124 (_anena tripuruṣaparyantaṃ viśvāmitrasya brāhmaṇyalābhaḥ sūcitaḥ, etac ca ‘anuṣyānantarye’ iti sūtre mahābhāṣye spaṣṭam_).
 </details>
 </details>
 
@@ -1261,6 +1361,14 @@ the supreme among meditators and his counterpart Brahma-sage, namely Vashishta.
 
 Having attained supreme Brahminhood (_labdhvā brāhmaṇyam uttamam_), the righteous-souled Viśvāmitra, too, worshipped the Brahmarṣi Vasiṣṭha, foremost of mutterers of prayers (_pūjayām āsa brahmarṣiṃ vasiṣṭhaṃ japatāṃ varam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.27 (pūjayām āsa)**
+
+Why did Viśvāmitra worship Vasiṣṭha in v. 27? **Tilaka** explains his heartfelt gratitude: “By entertaining me and my army and refusing to surrender Śabalā, Your Reverence spurred me toward the means of attaining _Brahmarṣitva_ (_brahmarṣitāprāpakasādhanonmukhyasaṃpādanena_); through you I have achieved my highest goal!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1308,6 +1416,14 @@ and oh, Rama, this great souled sage Vishvamitra achieved Brahman-hood in this w
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With his desire fulfilled (_kṛtakāmaḥ_), he roamed over the entire earth, steadfast in austerity (_mahīṃ sarvāṃ cacāra tapasi sthitaḥ_). Thus, O Rāma, was Brahminhood attained by this great-souled sage (_evaṃ tv anena brāhmaṇyaṃ prāptaṃ rāma mahātmanā_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.28–30 (vigrahavāṃs tapaḥ & vīryasya parāyaṇam)**
+
+Returning in v. 28cd to his direct address to Rāma, Śatānanda hails Viśvāmitra as _vigrahavāṃs tapaḥ_—where **Govindarāja** notes the archaic masculine stem _tapa-_ (or neuter _vigrahavat tapaḥ_ in **Śiromaṇi**)—and as the supreme repository of ascetic power (_tapovīryasya_, **Tilaka**).
 </details>
 </details>
 
@@ -1493,6 +1609,14 @@ I reckon that I have achieved many boons just glancing at you. [1-65-32b, 33a]
 
 **32:** “—sacrifice you have come accompanied by the two scions of Kakutstha (_yajñaṃ kākutsthasahitaḥ prāptavān asi_), O Kauśika! I have been sanctified by you through your very sight (_pāvito ’haṃ tvayā brahman darśanena_), O great sage.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.31–32 (dhanyo ’smi & pāvito ’ham)**
+
+**Śiromaṇi** traces the causal chain of Janaka’s gratitude in inverse order: “Because you have come to my sacrifice accompanied by Rāma and Lakṣmaṇa, I have been purified by beholding you (_pāvito ’smi_); therefore I am graced (_anugṛhīto ’smi_); and therefore I am truly blessed (_dhanyo ’smi_)!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1551,6 +1675,14 @@ your great ascesis when Sage Shataananda extolled it comprehensively. [1-65-33b,
 
 **34:** “—it has been heard by me and by the high-souled Rāma (_śrutaṃ mayā mahātejo rāmeṇa ca mahātmanā_), O sage of great splendour; and the priests and assessors, having assembled in the sacrificial hall, have likewise heard your manifold virtues (_sadasyaiḥ prāpya ca sadaḥ śrutās te bahavo guṇāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.33–34 (guṇā bahuvidhāḥ & sadasyaiḥ)**
+
+What are the ‘manifold virtues/benefits’ (_guṇā bahuvidhāḥ_) Janaka has gained? **Rāma Varmā (_Tilaka_)** glosses them as the faultless completion of his sacrificial rite and pre-eminence among kings (_karmanaiṣkalyajātiśreṣṭhatvalakṣaṇāḥ_), while **Śiromaṇi** explains them as serenity of mind, renown, and spiritual joy (_cittaprasādapratiṣṭhitatvasukhādayaḥ_). Not only Janaka and Rāma, but all the sacrificial priests seated in the assembly hall (_sadaḥ prāpya sthitaiḥ sadasyaiḥ_, **Tilaka**, **Govindarāja**) have been sanctified by hearing Śatānanda’s chronicle.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1599,6 +1731,14 @@ and oh, son of Kushika, your talents are everlastingly invaluable. [1-65-34b, 35
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Immeasurable is your austerity (_aprameyaṃ tapas tubhyam_), immeasurable too is your power (_aprameyaṃ ca te balam_), and immeasurable ever are your virtues, O son of Kuśika (_aprameyā guṇāś caiva nityaṃ te kuśikātmaja_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.35 (aprameyam)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** gloss _aprameyam_ (and plural _aprameyāḥ_) as transcending all measure (“impossible to bound as ‘so much and no more’,” _iyattayā jñātum aśakyāḥ_, **Govindarāja**; _pramātum aśakyam_, **Śiromaṇi**), construing the dative _tubhyam_ in the sense of the possessive genitive _tava_.
 </details>
 </details>
 
@@ -1656,6 +1796,14 @@ is dangling westward. [1-65-36]
 
 “There is no satiety for me in listening to your wondrous narratives (_tṛptir āścaryabhūtānāṃ kathānāṃ nāsti me_), O mighty lord! Yet the hour for ritual duties has arrived, O foremost of sages, and the orb of the sun is declining toward the west (_karmakālo muniśreṣṭha lambate ravimaṇḍalam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.36 (tṛptir ... kathānām & lambate ravimaṇḍalam)**
+
+To explain the genitive _kathānām_ with _tṛptiḥ_ (where Pāṇini 2.3.69, _pūraṇaguṇa-_, ordinarily bars the genitive with words meaning ‘satiety’), **Rāma Varmā (_Tilaka_)** and **Śiromaṇi** supply the participle _śṛṇvataḥ_, while **Govindarāja** construes it as a genitive in the sense of the instrumental (glossing _tṛptiḥ_ as _alaṃbuddhiḥ_). **Tilaka** and **Śiromaṇi** note that Śatānanda’s fifty-one-sarga narrative has occupied the afternoon until sunset approaches (_lambate = astaṃ gacchati_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1702,6 +1850,14 @@ leave from Vishvamitra. [1-65-37]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Tomorrow at dawn, O sage of mighty splendour, deign to grant me your sight again (_śvaḥ prabhāte mahātejo draṣṭum arhasi māṃ punaḥ_)! Hail to your auspicious arrival, O foremost of mutterers of prayers; deign to grant me leave to depart (_mām anujñātum arhasi_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.37–38 (draṣṭum arhasi māṃ punaḥ)**
+
+**Śiromaṇi** perceives a delicate poetic suggestion (_dhvani_) in Janaka’s request to adjourn until dawn: seeing the tender young princes Rāma and Lakṣmaṇa sitting for hours after their long journey on foot, the discerning king hastens to let them rest!
 </details>
 </details>
 
@@ -1803,6 +1959,14 @@ to Vishvamitra in veneration. [1-65-39]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus to the foremost of sages, Vaideha, the lord of Mithilā, swiftly circumambulated him in reverence (_pradakṣiṇaṃ cakārāśu_), accompanied by his preceptor and his kinsmen (_sopādhyāyaḥ sabāndhavaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**65.39–40 (cakārāśu & svavāsam)**
+
+**Śiromaṇi** notes that _āśu_ hints at Janaka’s eagerness to recount these wonders in his palace (_gṛhaṃ gatvā kadā imāṃ kathāṃ varṇayiṣyāmi_), while **Tilaka** and **Govindarāja** gloss _svavāsam_ (var. _svavāṭam_) as his assigned guest-enclosure (_svaniveśam_).
 </details>
 </details>
 

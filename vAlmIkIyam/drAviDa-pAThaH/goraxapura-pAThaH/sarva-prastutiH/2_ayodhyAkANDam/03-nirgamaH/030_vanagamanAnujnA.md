@@ -1690,6 +1690,152 @@ righteousness, like Suvarchala(wife of the sun) following the sun."
 
 “O lady with thighs like an elephant&#x27;s trunk (_gajanāsoru_), I shall follow the righteous path practiced of old by the virtuous; do you follow me just as Suvarcalā follows the sun (_yathā sūryaṃ suvarcalā_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.30.1–2 (vanavāsanimittārtham and paricikṣepa)**
+
+On वनवासनिमित्तार्थम्, Nāgeśa Bhaṭṭa (_Tilaka_) explains that Sītā speaks to win Rāma's consent for her forest departure (वनवासनिमित्तानुमतिस्वीकारार्थम्). Driven by love (प्रणयात् स्नेहात्) and proud confidence that he belongs solely to her (अभिमानात् मदीयोऽयमित्यभिमानात् [_Bhūṣaṇa_]), she taunts (परिचिक्षेप सोपहासवचनमुक्तवती [_Tilaka_]) the broad-chested hero (विपुलवक्षसं शूरम्).
+
+_____________
+
+**2.30.3–4 (striyaṃ puruṣavigraham and tejo nāsti)**
+
+Taunting Rāma as a woman in male guise (स्त्रियं पुरुषविग्रहम्, inward timidity beneath a manly frame, अन्तःस्त्रीस्वभावं बहिःपुरुषवेषम् [_Bhūṣaṇa_]) because he fears he cannot protect his wife, Sītā asks what her father Janaka thought when accepting him as his son-in-law (जामातरं प्राप्य). In v. 4, _Tilaka_ and Govindarāja explain that if Rāma leaves her behind, people will falsely declare (अनृतं वक्ष्यति) that Rāma lacks supreme valor (तेजो नास्ति परं रामे), or else that comparing his splendor to the blazing sun (तपतीव दिवाकरे) was spoken in ignorance (अज्ञानात्).
+
+_____________
+
+**2.30.5–6 (kiṃ hi kṛtvā and sāvitrīm iva)**
+
+Asking why he is despondent (किं हि कृत्वा किं मनसि विचार्य [_Tilaka_, _Bhūṣaṇa_]) toward a wife who has no other refuge (अनन्यपरायणाम्), she likens her unwavering fidelity (आत्मवशवर्तिनीम्) to that of Sāvitrī following Satyavān (सावित्रीमिव).
+
+_____________
+
+**2.30.7–8 (kulapāṃsanī and śailūṣa iva)**
+
+Contrasting herself with an unchaste woman who disgraces her lineage (यथान्या कुलपांसनी), Sītā declares she cannot look upon another even in thought (मनसाप्यन्यं न द्रष्टास्मि). In v. 8, she reproaches Rāma for wishing to leave behind his chaste wife wedded in youth (कौमारीं कुमारावस्थायामेव परिणीताम्) and long cherished (चिरमध्युषिताम्), likening him to a शैलूषः—glossed by _Tilaka_ and Govindarāja from _Amara_ (शैलालिनस्तु शैलूषा जायाजीवाः कृशाश्विनः) as an actor who lives by handing his wife over to others (जायाजीव इव).
+
+_____________
+
+**2.30.9–10 (pathyaṃcarām and avarudhyase)**
+
+Answering Rāma's earlier command to remain compliant to Bharata, Sītā retorts in v. 9 that Rāma himself may be submissive (वश्यश्च विधेयश्च) to Bharata, for whose coronation he is barred from the kingdom (यस्य चार्थेऽवरुध्यसे निरुद्धाभिषेकोऽसि [_Tilaka_]), whereas she will share austerity, forest, or heaven with Rāma alone (v. 10).
+
+_____________
+
+**2.30.11–12 (vihāraśayaneṣv iva and tūlājinasamasparśāḥ)**
+
+Walking behind him (पृष्ठतस्तव गच्छन्त्या), she will feel no fatigue (परिश्रमः), and sharp grasses and thorny trees (कुशकाशशरेषीकाः ... कण्टकिनो द्रुमाः) will feel as soft to the touch as cotton and antelope skins (तूलाजिनसमस्पर्शाः).
+
+_____________
+
+**2.30.13–14 (parārghyaṃ candanam and kuthāstaraṇayukteṣu)**
+
+Reversing Rāma's warnings point by point, Sītā declares that wind-blown forest dust (महावातसमुद्भूतं रजः) strewing her body (अवकरिष्यति विक्षेप्स्यति) will feel like priceless perfumed sandal-powder (परार्घ्यं चन्दनं वासितं चन्दनचूर्णम् [_Bhūṣaṇa_]). Sleeping beside him on green turf (शाद्वलेषु शाद्वलवत्सु प्रदेशेषु) will surpass couches spread with variegated woollen blankets (कुथाः चित्रकम्बलाः) and silk coverlets (आस्तरणानि कौशेयोत्तरच्छदाः).
+
+_____________
+
+**2.30.15–16 (svayam āhṛtya and ārtavāni)**
+
+Whatever leaf, root, or fruit Rāma himself gathers (स्वयमाहृत्य, sparing her the toil of foraging, तदाहरणप्रयुक्तश्रमाभावः सूचितः [_Tilaka_]) will taste like nectar (अमृतरसोपमम्). Partaking of seasonal blossoms and fruits (आर्तवानि तत्तदृतुसमुत्पन्नानि), she will not wistfully remember (स्मरिष्यामि, governing the genitive in मातुः पितुः वेश्मनः) her parents or home.
+
+_____________
+
+**2.30.17–18 (durbharā and yas tvayā saha sa svargaḥ)**
+
+Promising never to be a burden (दुर्भरा दुःखेन भर्तव्या), she sums up her plea in v. 18: dwelling with Rāma is heaven (यस्त्वया सह स स्वर्गः) and separation from him is hell (निरयो नरकोपमः); knowing her love incapable of bearing separation (विश्लेषासहां प्रीतिं जानन्), he must take her with him.
+
+_____________
+
+**2.30.19–20 (avyagrām, dviṣatām, and tadaiva maraṇaṃ varam)**
+
+Declaring herself fearless regarding forest perils (अव्यग्रां वनगमनविषयभीतिरहिताम् [_Bhūṣaṇa_]), Sītā vows to drink poison that very day (विषमद्यैव पास्यामि) rather than fall under the power of hostile rivals (द्विषतां भरतादीनाम् [_Tilaka_, _Bhūṣaṇa_]). Even after Rāma's departure (पश्चादपि त्वद्गमनानन्तरमपि), she could not survive the sorrow of abandonment (उज्झितायास्त्वया), so dying while still in his presence (तदैव त्वत्सन्निधानकाल एव [_Bhūṣaṇa_]) is preferable (वरम्).
+
+_____________
+
+**2.30.21–22 (daśa varṣāṇi trīṇi caikaṃ ca and āyastā)**
+
+On the divided phrasing दश वर्षाणि त्रीणि चैकं च (“ten years, and three, and one”) for fourteen years, _Tilaka_ explains that breaking up the number emphasizes how unendurably long the exile feels (विभज्य कथनेन वनवासकालसंख्याया अतिदुस्तरत्वं ध्वनयति), while Govindarāja adds that to a separated wife three years or even a single year feels as interminable as ten (तुल्यतया भाति विरहिण्याः). Exhausted (आयस्ता प्रशिथिलगात्री), she embraces Rāma and weeps aloud (सस्वरम्).
+
+_____________
+
+**2.30.23–24 (digdhair iva and agnim ivāraṇiḥ)**
+
+Pierced by Rāma's dissuading words like a she-elephant struck by poisoned shafts (दिग्धैः विषलिप्तैर्बाणैः), she sheds her long-held tears (चिरसंनियतं बाष्पम्) like a churned fire-stick (अरणिः) emitting fire, crystal-clear and hot (स्फटिकसंकाशं वारि संतापसम्भवम्) like nectar-drops from twin lotuses (पङ्कजाभ्याम्).
+
+_____________
+
+**2.30.25–26 (sitāmalacandrābham and pariviśvāsayan)**
+
+Comparing Sītā's face to the spotless full moon (सिता पौर्णमासी तत्संबन्ध्यमलश्चन्द्रः [_Tilaka_]) and to a lotus pulled from water (जलोद्धृतमिवाम्बुजम्) scorched by hot tears (बाष्पेण ऊष्मणा), Vālmīki describes how Rāma embraces her when she is nearly faint (विसंज्ञामिव) and revives her confidence (परिविश्वासयन् उज्जीवयन्).
+
+_____________
+
+**2.30.27–28 (svayambhor iva and abhiprāyam avijñāya)**
+
+Assuring her that he would not welcome even heaven at the cost of her grief (तव दुःखेन स्वर्गमपि न रोचये), Rāma declares himself as fearless of all creatures as Brahmā or Nārāyaṇa (स्वयम्भोरिव, with _ārṣa_ -उ stem inflection noted by Govindarāja). Though fully capable of protecting her (शक्तिमानपि रक्षणे), he had withheld consent only to test her inner resolve (तवान्तराभिप्रायानभिज्ञानात्).
+
+_____________
+
+**2.30.29–30 (sṛṣṭāsi and suvarcalā)**
+
+Created by providence to share his forest exile (यत्सृष्टासि मया सार्धम्), Sītā can no more be forsaken by him than compassion (प्रीतिः दयेति यावत् [_Tilaka_]) or good fame (कीर्तिः [_Bhūṣaṇa_, CE]) by a self-controlled sage (आत्मवता). Practicing the ancient _vānaprastha_ law of royal sages (धर्मः वानप्रस्थधर्मः), he bids her follow him as Suvarcalā follows the sun (यथा सूर्यं सुवर्चला).
+
+_____________
+
+**2.30.31–32 (na khalv ahaṃ na gaccheyam and vaśyatā)**
+
+Using a double negative for emphatic affirmation (अहं वनं न गच्छेयमिति न अपि तु गच्छेयमेव), Rāma explains that his father's truth-bound word (सत्योपबृंहितम्) compels his departure. Obedience to parents (पितुर्मातुश्च वश्यता) is the supreme duty (धर्मः), which he cannot transgress and live (व्यतिक्रम्य जीवितुं नोत्सहे).
+
+_____________
+
+**2.30.33–34 (asvādhīnaṃ daivam vs. svādhīnam)**
+
+Answering the possible suggestion that he stay home and propitiate unseen deities (अस्वाधीनमप्रत्यक्षत्वाददृश्यं दैवम् [_Tilaka_]), Rāma asks how invisible gods can be pleased if one slights the three visible deities within one's direct service (स्वाधीनं प्रत्यक्षदृश्यमानम्): mother, father, and preceptor (मातरं पितरं गुरुम्). In v. 34, honoring this triad (त्रयम्) secures the three aims of life (धमार्थकामरूपम्) and the three worlds (त्रयो लोकाः), no earthly purifier being its equal (तत्समं पवित्रं भुवि नान्यदस्ति).
+
+_____________
+
+**2.30.35–36 (balakarāḥ and guruvṛttyanurodhena)**
+
+Neither truthfulness, liberality, nor sacrifices with rich gifts (आप्तदक्षिणाः) confer such merit in the hereafter (बलकराः परलोकबलकराः [_Tilaka_, _Bhūṣaṇa_]) as filial service (सेवा पितुः); through devoted attendance on elders (गुरुवृत्त्यनुरोधेन), nothing from heaven to progeny is hard to win (न किंचिदपि दुर्लभम्).
+
+_____________
+
+**2.30.37–38 (mātāpitṛparāyaṇāḥ and mā pitā yathā śāsti)**
+
+Concluding his praise of filial devotion, Rāma notes that those devoted to mother and father (मातापितृपरायणाः) ascend to the realms of gods, Gandharvas, cows (गोलोकान्), and Brahmā. Hence he will obey his father (मा मां शास्ति आज्ञापयति), for filial obedience is the eternal law (स हि धर्मः सनातनः).
+
+_____________
+
+**2.30.39–40 (sannā matiḥ, diṣṭā, and sahadharmacarī)**
+
+On मम सन्ना मतिः सीते नेतुं त्वां दण्डकावनम्, _Tilaka_ and Govindarāja explain that Rāma's earlier determination not to take her to the Daṇḍaka forest has now melted away (सन्ना विलीना [_Tilaka_]; त्वद्भावपरिज्ञानात् क्षीणा [_Bhūṣaṇa_]) upon seeing her unshakable resolve (सुनिश्चिता). In v. 40, reading दिष्टा, _Tilaka_ and _Śiromaṇi_ gloss “permitted by me” (मयानुज्ञाता), whereas Govindarāja reads सृष्टा (“created by providence for the forest”). Rāma bids her follow him as his सहधर्मचरी.
+
+_____________
+
+**2.30.41–42 (vyavasāyam and vanavāsakṣamāḥ kriyāḥ)**
+
+Praising her resolve (व्यवसायम्) as worthy of both families (मम स्वस्य कुलस्य च, Raghu's and Janaka's), he directs her to begin the charitable rites befitting forest departure (वनवासक्षमाः क्रियाः दानादिक्रियाः).
+
+_____________
+
+**2.30.43 (ratnāni, bhojanam, and āśaṃsamānebhyaḥ)**
+
+Instructing Sītā on the pre-exile gifts, Rāma bids her give precious gems (रत्नानि उत्तमवस्तूनि) to Brāhmaṇas and food (भोजनम्) to mendicants (भिक्षुकेभ्यः) and petitioners (आशंसमानेभ्यः अर्थयमानेभ्यः [_Bhūṣaṇa_]; _Śiromaṇi_ glosses “those who pronounce auspicious blessings,” मङ्गलमुच्चारयद्भ्यः).
+
+_____________
+
+**2.30.44–45 (krīḍārthāḥ upaskarāḥ and brāhmaṇānām anantaram)**
+
+Construing vv. 44–45 as a single sentence (श्लोकद्वयमेकान्वयि), the commentators explain क्रीडार्था उपस्कराः as golden dolls, toy cooking vessels, and recreational furnishings (जातरूपमयकृत्रिमपुत्रिकालीलापाकभाजनादिविचित्रोपकरणानि [_Bhūṣaṇa_]). After first honoring the Brāhmaṇas (ब्राह्मणानामनन्तरम्), Sītā is to distribute the remaining jewelry, garments, beds, and carriages to their household servants (स्वभृत्यवर्गस्य).
+
+_____________
+
+**2.30.46–47 (anukūlam and pratipūrṇamānasā)**
+
+Rejoicing that her departure has won her husband's consent (अनुकूलं संमतम्), Sītā—now wholly relieved of anxiety (प्रतिपूर्णमानसा निश्चिन्ता [_Bhūṣaṇa_]) and resolute in mind (मनस्विनी)—immediately begins bestowing wealth and gems upon righteous Brāhmaṇas (धर्मभृतां धर्मभृद्भ्यः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

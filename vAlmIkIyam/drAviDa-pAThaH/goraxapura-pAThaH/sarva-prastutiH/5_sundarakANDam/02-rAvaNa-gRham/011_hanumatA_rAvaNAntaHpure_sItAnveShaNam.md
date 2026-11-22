@@ -547,6 +547,152 @@ Hanuma saw there in that bar, meat of dear and of buffalo, of wild boar kept sep
 
 In the midst of those women (_tāsāṃ madhye_), the mighty-armed lord of _rākṣasas_ (_rākṣaseśvaraḥ_) shone (_śuśubhe_) like a bull (_vṛṣaḥ_) in the midst of choice kine (_mukhyānāṃ gavāṃ madhye_) within a great cowpen (_goṣṭhe mahati_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.11.1 (The Recovery of Discernment)**
+
+On 5.11.1, Rāma Varmā (_Tilaka_) glosses तां बुद्धिं as Hanumān's momentary suspicion regarding Sītā (सीतासंभावनया प्रवृत्तां) and explains अवस्थितः as regaining steadiness of mind (स्थिरतास्वभावे प्रतिष्ठितः). Śivasahāya (_Śiromaṇi_) similarly defines तां बुद्धिं as इयं सीतेत्येतादृशीं बुद्धिम् (`the notion that she is Sītā'), while Govindarāja (_Bhūṣaṇa_) glosses अवस्थितो बभूव as स्वस्थितो बभूव (`he became self-possessed').
+
+_____________
+
+**5.11.2–4 (Sītā's Incomparable Fidelity)**
+
+Śivasahāya explains उपस्थातुं (5.11.3a) as sitting near another man with a calm mind (स्वस्थचित्ततया समीपे आसितुं), while Rāma Varmā renders it अङ्गीकर्तुं (`to accept'). Because Govindarāja omits the second half of 5.11.4 and reads पानभूमौ in 5.11.4a, he glosses पानभूमौ as ततोऽन्यत्रेत्यर्थः (`somewhere other than Rāvaṇa's bed'), whereas Rāma Varmā takes it specifically as the drinking pavilion (पानशालायां).
+
+_____________
+
+**5.11.5–6 (Slumbering Consorts in the Banquet Hall)**
+
+Govindarāja connects verses 5 and 6 into a single syntactic sentence (एकं वाक्यम्) by supplying the verb ददर्श (ददर्शेत्यध्याह्रियते), notes that क्रीडितेन is an impersonal passive participle used as an action noun (भावे निष्ठा), and glosses विप्रहताः as क्लान्ताः and संस्थिताः as sleeping while using the drums as pillows (उपधानीकृत्य शयिताः). Rāma Varmā identifies चेलिका as a specific musical instrument (वाद्यविशेषः).
+
+_____________
+
+**5.11.7–8 (Accomplishments of the Royal Consorts)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) construe verses 7 and 8 as a single sentence (श्लोकद्वयमेकान्वयि) qualifying the banquet hall (पानभूमिं ददर्श), where Rāma Varmā notes that the women's talk of beauty and fitting speech occur unconsciously in their sleep (निद्रोद्भ्रमवशादेव बोध्यम्). Govindarāja (_Bhūṣaṇa_), who reads रताभिरतसंसुप्तं in 8b and omits verses 9–10, takes Rāvaṇa himself (रावणमिति शेषः) as the direct object of ददर्श.
+
+_____________
+
+**5.11.8b (Govindarāja's Erotic Analysis)**
+
+Govindarāja distinguishes the two members of his compound रताभिरतसंसुप्तं: रत denotes external amorous play (बाह्यरतिरुच्यते), while अभिरत denotes intimate union (करणबन्धादिकमुच्यते), forming an elliptical compound of the _śākapārthivādi_ class (शाकपार्थिवादित्वाद्विभक्तिलोपि समासः) meaning `asleep from the fatigue of amorous sport' (क्रीडाखेदेन सुप्तमित्यर्थः).
+
+_____________
+
+**5.11.9–12 (Textual Status of 9–10 and the Two Similes)**
+
+Both Rāma Varmā and Śivasahāya explicitly record that verses 9–10 (अन्यत्रापीत्यादिश्लोकद्वयं) are read out of negligence by modern scribes (नव्याः प्रमादात् पठन्ति); for those who retain them, Rāma Varmā explains the scene as Hanumān returning from the outer banquet hall to Rāvaṇa's inner sleeping chamber (पुनरभ्यन्तरे शयनस्थाने आगत्यान्वेषणम्), where Rāvaṇa shines among his consorts like a bull among kine or a tusker surrounded (परिकीर्णो परिवृतः) by cow-elephants.
+
+_____________
+
+**5.11.13–15 (Return to the Banquet Hall and Metonymy)**
+
+Explaining why the banquet hall (पानभूमिं) is mentioned again after 5.11.4, Rāma Varmā (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) note that Hanumān had first viewed only the hall and its sleeping women, and now inspects the specific viands laid out within it (तत्रस्थपदार्थकथनाय). Govindarāja remarks that animal names like मयूरान् refer metonymically to their dressed meats (मयूरादिशब्दाः मयूरादिपिशिते लक्षणाः) placed in heaps (भागशः पिण्डशः), while Śivasahāya (_Śiromaṇi_) glosses अभक्षितान् as untouched (अवशिष्टानित्यर्थः).
+
+_____________
+
+**5.11.16 (Three Identifications of Vādhrīṇasa)**
+
+All three commentators cite legal and lexical authorities to identify वाध्रीणस: Rāma Varmā and Śivasahāya quote the _Viṣṇudharmottara_ (कृष्णग्रीवो रक्तशिराः श्वेतपक्षो विहंगमः) for a bird species, a _Smṛti_ text (त्रिपिबं त्विन्द्रियक्षीणं... वाध्रीणसं च ते प्राहुर्याज्ञिकाः) for an old goat whose tongue and two ears touch water while drinking (जिह्वाकर्णौ च पानसमये जलं स्पृशन्ति), and Halāyudha (वाध्रीणसः खड्गमृगः) for a rhinoceros; Govindarāja adds Amara's glosses on शल्यान् (श्वाविदः, porcupines) and सौवर्चल (रुचकाख्यो लवणविशेषः).
+
+_____________
+
+**5.11.17–18 (Culinary Glosses on Rāga and Khāṇḍava)**
+
+All three gloss एकशल्यान् as single-boned fish (मत्स्यविशेषान्) and कृतनिष्ठितान् as thoroughly cooked (पर्याप्तपक्वान्). For रागखाण्डवैः (Govindarāja रागषाडवैः), all three quote the culinary maxim सितामध्वादिमधुरो द्राक्षादाडिमजो रसः । विरलश्चेत्कृतो रागः सान्द्रश्चेत्खाण्डवः स्मृतः: sweetened grape or pomegranate juice is called _rāga_ when liquid and _khāṇḍava_ (or _ṣāḍava_) when thick, seasoned with sour and salt (अम्ललवणोत्तंसैः) to dispel sluggishness of the tongue (जिह्वाजाड्यपरिहारकत्वं).
+
+_____________
+
+**5.11.19–21ab (The Banquet Hall Ablaze Without Fire)**
+
+Śivasahāya (_Śiromaṇi_) links 19–20ab as one sentence (सार्धश्लोक एकान्वयी) describing how the floor, strewn with cast-off ornaments (अपविद्धैः विस्रस्तैः), scattered drinking vessels, fruits, and floral offerings (पुष्पबलिः), nourishes heightened beauty (अधिकां श्रियं पुष्यति). In 20cd–21ab, Rāma Varmā (_Tilaka_) explains that the banquet hall appears ablaze even without fire (वह्निं विनापि प्रदीप्तेवोपलक्ष्यते) because its well-fitted (सुश्लिष्टैः सुकृतसंधिबन्धैः) couches and seats are wrought of gold and gems (सुवर्णरत्नमयशयनासनैः).
+
+_____________
+
+**5.11.21cd–22 (Dressed Meats and Natural vs. Brewed Liquors)**
+
+Rāma Varmā glosses बहुप्रकारैः as meats of diverse quadrupeds and birds (चतुष्पादादिभेदैः), वरसंस्कारसंस्कृतैः as seasoned with choice culinary ingredients (श्रेष्ठसंस्कारकद्रव्ययोगेन—Śivasahāya specifies camphor and musk, कर्पूरादिभिः), and कुशलसंयुक्तैः as cooked by expert chefs (निपुणपाचकपक्वैः). He distinguishes दिव्याः सुराः—natural wines springing spontaneously from _kadamba_ and other trees (वृक्षेभ्यः कदम्बादिभ्यः स्वतः प्रादुर्भूताः; Govindarāja: अमृतमथनोद्भूतवारुणीजातीयाः)—from कृतसुराः, liquors brewed by distillers (शौण्डिकैरुत्पादिताः).
+
+_____________
+
+**5.11.23–24 (The Four Classes of Āsava Wines)**
+
+All three commentators classify the four brewed wines (कृतसुरावान्तरभेदाः): शर्करासव (distilled from cane sugar), माध्वीक (from honey, मधुजनितः, or grapes, द्राक्षोपादानकः), पुष्पासव (from _madhūka_ blossoms, मधूकपुष्पादिजः), and फलासव (from dates and other fruits, खर्जूरफलादिजः), each scented with fragrant powders (वासचूर्णैः सुगन्धद्रव्यचूर्णैर्मृष्टाः अधिवासिताः).
+
+_____________
+
+**5.11.25–26 (Vessels of Silver, Gold, and Gems)**
+
+Concluding his note on हिरण्मयैः (24c), Govindarāja (_Bhūṣaṇa_) cites the lexical rule कृताकृतं हेमरूप्यं हिरण्यमभिधीयते to interpret हिरण्मयैः as wrought of silver (रजतमयैः), avoiding tautology with जाम्बूनदमयैः (`golden') in 25a. On 5.11.25–26, Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) construe पानश्रेष्ठां भूमिं as the floor where the finest drinks stand in silver and golden jars (राजतादिषु कुम्भेषु पानानि श्रेष्ठानि यस्यां तां भूमिं), while सीधोः (`of rum') governs भाजनानि (`vessels') in verse 27.
+
+_____________
+
+**5.11.27–28 (Goblets Untouched, Half-Drained, and Apportioned)**
+
+All three commentators note that पानानि in 28ab denotes drinking vessels (पानपात्राणि / पानभाजनानि) by metonymy (नैव प्रपीतानि पूर्णाम्रसवान्येव). Reading क्वचित्पानं विभागशः in 28d, Rāma Varmā explains that the liquors were apportioned separately for specific guests (इदममुकमिदममुकमिति विभज्य ददर्शेत्यर्थः).
+
+_____________
+
+**5.11.29–30 (Empty Couches and Slumbering Embraces)**
+
+Rāma Varmā explains why the women's own couches stood empty (शून्यानि पतिशून्यानि): bereft of their lord, they had gathered on shared couches and fallen asleep embracing one another (अत एव परस्परं समाश्लिष्येति). In verse 30, a woman overcome by sleep (निद्राबलपराजिता) approaches another's couch (तच्छयनस्थानं प्राप्य), snatches her companion's garment (बलाद्गृहीत्वा), and sleeps embracing either the garment (प्रावृत्य, _Tilaka_) or the companion herself (तामालिङ्ग्य, _Śiromaṇi_).
+
+_____________
+
+**5.11.31–33ab (Breathing Zephyrs and the Puṣpaka Breeze)**
+
+All three commentators gloss गात्रजं (31b) idiomatically as resting upon the limbs (गात्रस्थम्), while the garments and garlands barely flutter (अत्यर्थं न स्पन्दते) in the soft breath-wind of the sleeping women. On 32–34ab, Rāma Varmā (_Tilaka_) notes that Hanumān now steps out of the banquet hall onto the Puṣpaka terrace (पानभूमितोऽपि बहिरागत्य तत्र स्थिते पुष्पके), or else that the banquet hall itself lies within Puṣpaka (पानभूम्यादिकमपि पुष्पकस्थमेवेत्यन्ये).
+
+_____________
+
+**5.11.33cd (Rasānām vs. Snānānām)**
+
+Both Govindarāja (_Bhūṣaṇa_) and Śivasahāya (_Śiromaṇi_) read रसानां चन्दनानां (`of culinary juices and sandal-pastes'), while Rāma Varmā and Śivasahāya record the reading स्नानानां चन्दनानाम्, explaining it as an elliptical compound for bath-unguents and sandal-woods worthy of the bath (स्नानार्हचन्दनानामित्यर्थः). All three gloss मूर्च्छितः as thickened or pervasive (प्रवृद्धः / व्याप्तः).
+
+_____________
+
+**5.11.34cd–36 (The Simile of Slumbering Night-Lotuses)**
+
+Govindarāja notes that in श्यामावदाताः the initial _a-_ of अवदाताः (`fair, white') is elided according to Bhāguri's rule (भागुरिमतेनाकारलोपः शुक्ला इत्यर्थः). Rāma Varmā and Śivasahāya link 35–36ab as a single sentence (श्लोकद्वयमेकान्वयि): overcome by sleep and heightened passion (मदनेन तद्धेतुकातिरत्या विमूर्च्छितं कान्तं), the women's beauty resembled lotus-clusters folded in slumber at night (रात्रौ संकुचितानां पद्मिनीनामिव).
+
+_____________
+
+**5.11.37–39 (Moral Scruple and the Sight of Another's Consorts)**
+
+Rāma Varmā (_Tilaka_) traces Hanumān's sudden moral alarm (धर्मसाध्वसशङ्कितः धर्मलोपनिमित्तं यत्साध्वसं भयं तेन शङ्कितः) to his recollection of the scriptural injunction नेक्षेत नग्नां परस्त्रियम् (`One must not look upon another's wife undressed'), since in sleep their garments had slipped (प्रसुप्तस्य अनेन नग्नप्रायत्वं सूचितम्). On 39cd (परदारपरिग्रहः), Govindarāja (_Bhūṣaṇa_) takes it as Rāvaṇa's harem (परदाररूपान्तःपुरस्य), whereas Rāma Varmā and Śivasahāya (_Śiromaṇi_) also interpret it as Rāvaṇa himself, the sinful abductor of another's wife (सीतापहारकः अयं रावणो मया दृष्टः).
+
+_____________
+
+**5.11.40–41 (Resolution of Scruple Through Purity of Mind)**
+
+Rāma Varmā glosses निश्चितैकान्तचित्तस्य as one whose mind rests on a settled philosophical conclusion (निश्चिते प्रमाणप्रतिपन्ने एकान्ते सिद्धान्ते चित्तं यस्य), while Śivasahāya explains it as a mind unwaveringly resolved that fulfilling his master's mission entails no fault (स्वामिकार्यस्यासाध्यत्वाच्चैतद्दर्शनमपि न दोषावहमिति). All three gloss विश्वस्ताः (41b) as sleeping without fear of strangers (इतरालोकनशङ्कारहिताः) and वैकृत्यं as passion or mental perturbation (विकारः).
+
+_____________
+
+**5.11.42 (The Mind as Arbiter of Merit and Sin)**
+
+Expounding the ethical maxim मनो हि हेतुः, Rāma Varmā remarks that sense-activity leads to sin only when impelled by a mind tainted by passion or hatred (मनःक्षोभजतदुभयरागद्वेषवत इन्द्रियप्रवृत्तिर्हि पापाय), whereas in matters of merit and sin (पुण्यपापव्यवस्थायां) one's own unperturbed conscience is the witness (स्वचित्तमेव साक्षीति भावः).
+
+_____________
+
+**5.11.43–45 (Searching Within the Same Species)**
+
+Anticipating the objection that even a self-controlled sage should avoid the proximity of sleeping women (ननु वशीकृतेन्द्रियाणामपि स्त्रीसन्निधावागमनमनुचितम्, _Śiromaṇi_), Hanumān invokes the pragmatic necessity (अनन्यथासिद्धत्व, _Tilaka_) of his royal commission: a lost creature must be sought among its own species (सजातीयेष्वेव मार्गणं प्रामाणिकम्), where योनिः denotes class (योनिः जातिः सजातीय इत्यर्थः, _Bhūṣaṇa_), for a lost woman cannot be sought among does (मृगीषु). Rāma Varmā adds that this necessity also absolves him of the fault of having looked upon Rāvaṇa (एतेन रावणदर्शनजोऽपि दोषः परिहृतः).
+
+_____________
+
+**5.11.44cd (Impersonal Neuter Construction)**
+
+Śivasahāya (_Śiromaṇi_) notes the impersonal neuter syntax (सामान्ये नपुंसकम्) of न शक्यं प्रमदा नष्टा मृगीषु परिमार्गितुम्, contrasting with the personal feminine agreement शक्या वैदेही in 43ab.
+
+_____________
+
+**5.11.46–48 (Departure from the Banquet Hall)**
+
+Govindarāja (_Bhūṣaṇa_) points out the epic _ātmanepada_ form अपश्यत for standard अपश्यत् (अपश्यत अपश्यत्). In 47cd–48, Rāma Varmā explains अपक्रम्य as stepping out of the inner apartment into the outer court (रावणान्तःपुरबहिःकक्षात्), while Govindarāja, reading तद्विचेतुं in 48d, construes तत् as referring to the remaining sections of Rāvaṇa's palace complex (तत् रावणान्तःपुरम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

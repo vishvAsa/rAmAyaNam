@@ -414,6 +414,98 @@ wife, why tell about a great soul like you who are well read and courageous... [
 
 “Even though I am an ordinary monkey (_prākṛto vānaro &#x27;pi san_), I do not grieve thus over her—how much less (_kiṃ punaḥ_) one who is great-souled (_mahātmā_), self-disciplined (_vinītaḥ_), steadfast (_dhṛtimān_), and great [or: you (_bhavān_)]!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.7.1–2 (Why Sugrīva Disclaims Knowledge of Rāvaṇa's Abode)**
+
+Govindarāja notes that seeing Rāma's tears, Sugrīva himself becomes choked with tears (रामबाष्पदर्शनेन स्वयमपि बाष्पगद्गदः), offering the first illustration of their pact of shared sorrow and joy (एकं दुःखं सुखं च नावित्यस्य प्रथमोदाहरणमिदम्). Addressing the famous crux—how Sugrīva can say न जाने निलयं तस्य here yet describe Laṅkā and Rāvaṇa in Sarga 41—Govindarāja explains that wise Sugrīva feigns ignorance (अज्ञानमभिनीतवान् सुमतिः सुग्रीवः) lest Rāma, in his intense grief, rush off to seek Sītā first while Vālin (an ally of Rāvaṇa, रावणेन कृतसख्यो वाली) still rules Kiṣkindhā; Tilaka and Śiromaṇi alternatively take निलयम् as Rāvaṇa's secret hiding place (गुप्तवासस्थानम्).
+
+_____________
+
+**4.7.3–4 (Sugrīva's Solemn Assurance)**
+
+Tilaka remarks that since merely describing Rāvaṇa's lair now would be fruitless before Vālin's removal, Sugrīva instead pledges Sītā's recovery (सत्यं तु प्रतिजानामि). In 4.7.4, Govindarāja construes परितोष्य with an understood भवन्तम् (सगणं सपरिवारं रावणं हत्वा भवन्तं परितोष्य आत्मपौरुषं तथा कर्तास्मि), whereas Śiromaṇi takes आत्मपौरुषम् as referring to his monkey army (सेनामित्यर्थः, परितोष्य संतोष्य).
+
+_____________
+
+**4.7.5–6 (Appeal to Innate Fortitude)**
+
+Govindarāja glosses वैक्लव्यम् as दैन्यम् (dejection) and Tilaka glosses न सदृशम् as अयुक्तम् (unbefitting). Sugrīva cites his own plight: though afflicted by the great calamity of separation from his wife (भार्याविरहजं व्यसनम्), he neither laments thus nor forsakes his courage (धैर्यं न परित्यजे).
+
+_____________
+
+**4.7.7–8 (The Boundary of the Resolute)**
+
+Govindarāja glosses प्राकृतः as दीनः (humble/lowly; Śiromaṇi: स्वाभाविको वानरः) and विनीतः as शास्त्रशिक्षितः (trained in the śāstras): if even a lowly monkey does not mourn his wife (तां प्रियाम्, Tilaka) to excess, how much less should the noble Rāma! On मर्यादां सत्त्वयुक्तानां धृतिम्, Govindarāja explains firmness (धृतिम्) as the fixed moral boundary (मर्यादां व्यवस्थारूपां धृतिम्) of energetic souls (सत्त्वयुक्तानां व्यवसायवताम्), citing Amarakośa (द्रव्यासुव्यवसायेषु सत्त्वमस्त्री तु जन्तुषु).
+
+_____________
+
+**4.7.9–10 (Threefold Crisis and the Overloaded Boat)**
+
+Tilaka and Śiromaṇi distinguish the three crises in 4.7.9: व्यसने is sorrow from separation from a loved one (इष्टवियोगजे / प्रियवियोगे), अर्थकृच्छ्रे is loss of wealth (धननाशे), and भये जीवितान्तगे is mortal danger (चोरव्याघ्रादिजे जीवितनाशप्रापके). Deliberating with his own wisdom (स्वया बुद्ध्या विमृशन् विचारयन्), the steadfast man never sinks, whereas the unreflecting fool (बालिशः विचाररहितः) who indulges in helplessness sinks in sorrow like an overburdened boat in water (जले भाराक्रान्ता नौरिव शोके मज्जति).
+
+_____________
+
+**4.7.11–12 (The Wasting of Vital Luster)**
+
+Folding his hands out of friendship (प्रणयात्), Sugrīva entreats Rāma to reclaim his valor (पौरुषं श्रय) and grant no room or foothold (अन्तरम् अवकाशम्, Govindarāja; अवसरम्, Tilaka) to grief, warning that those who follow sorrow lose both joy and their fiery splendor (तेजश्च क्षीयते).
+
+_____________
+
+**4.7.13–14 (Counsel Offered in Friendship, Not Presumption)**
+
+Śiromaṇi notes that when a man is engulfed by sorrow (शोकेनाभिप्रपन्नस्य), his very life in this world is endangered (जीविते लोकस्थितावपि संशयः). In 4.7.14—where Tilaka, Śiromaṇi, and Govindarāja all read and gloss ब्रूमि ब्रवीमि—Sugrīva modestly disclaims any superior authority: he speaks what is salutary out of the duty of friendship (वयस्यभावेन सख्यधर्मेण हितं ब्रूमि), not by way of didactic instruction (नोपदिशामि ते), asking Rāma to honor their bond of companionship (वयस्यतां मित्रत्वम्, Govindarāja).
+
+_____________
+
+**4.7.15–16 (Rāma Wipes His Tears and Regains Equanimity)**
+
+Gently consoled by Sugrīva, Rāma wipes his tear-wet face with the edge of his garment (वस्त्रान्तेन प्रमार्जयत्). Govindarāja explains प्रमार्जयत् as carrying a pleonastic -णिच् (स्वार्थे णिच्) without the past augment अट् (अनित्यमागमशासनमिति नाड्भावः). Restored to his natural state (प्रकृतिस्थः—glossed as स्वभावस्थः दुःखहीन इत्यर्थः by Tilaka and त्यक्तशोक इत्यर्थः by Śiromaṇi), Rāma embraces Sugrīva.
+
+_____________
+
+**4.7.17 (The Duty of a True Friend)**
+
+Rāma commends Sugrīva: whatever is to be done to dispel grief (कर्तव्यं यत् शोकनाशार्थमिति शेषः, Tilaka) by a loving and benevolent friend (स्निग्धेन सौहृदयुक्तेन अत एव हितेन वयस्येन, Śiromaṇi)—worthy of their friendship (अनुरूपं मित्रत्वानुरूपम्) and suited to removing sorrow (युक्तं शोकनिवारणयोग्यम्, Govindarāja)—has been accomplished by Sugrīva's words (कृतम् उक्तमित्यर्थः).
+
+_____________
+
+**4.7.18–19 (A Rare Friend in Adversity)**
+
+Guided back to wisdom by Sugrīva (अनुनीतः नीतिं प्रापितः, Śiromaṇi), Rāma declares himself restored to equanimity (प्रकृतिस्थः स्वभावस्थः दुःखहीन इत्यर्थः, Tilaka) and observes that a friend like Sugrīva is rare indeed in an hour of calamity (अस्मिन् काले व्यसनकाले, Tilaka; शोकग्रस्तसमये, Śiromaṇi). In 4.7.19, Śiromaṇi construes राक्षसस्य either with वशंगतायाः modifying Maithilī or directly with परिमार्गणे (searching out both Maithilī and Rāvaṇa), while Tilaka supplies रावणस्य संहारे चेति शेषः (and in destroying Rāvaṇa).
+
+_____________
+
+**4.7.20 (The Simile of the Rain-Fed Field)**
+
+Glossing विस्रम्भेन / विस्रब्धेन as प्राप्तविश्वासेन (Śiromaṇi, “with complete trust”) and स्निग्धेन (Govindarāja), Rāma invites Sugrīva to state his own task unreservedly. Just as seed sown in a good field during the monsoon (वर्षास्विव च सुक्षेत्रे उप्तं बीजमिति शेषः, Tilaka) yields a rich harvest of grain (तदीरितनानाविधसस्यमिव, Śiromaṇi), so all of Sugrīva's wishes will be fulfilled (संपद्यते सफलं भविष्यतीत्यर्थः). Tilaka notes that the present tense सम्पद्यते conveys rapid certainty (शैघ्र्यप्रत्यायनाय वर्तमानप्रयोगः).
+
+_____________
+
+**4.7.21 (Vow Uttered in Heroic Pride)**
+
+Referring to his vow to slay Vālin (इदं वाक्यं वालिनं वधिष्यामीति वाक्यम्, Tilaka), Rāma assures Sugrīva that what he spoke out of conscious heroic might (अभिमानात् शौर्याभिमानात् स्वशक्त्यभिमानाद्वा, Govindarāja) must be regarded as absolute truth (तत्त्वं यथार्थम्).
+
+_____________
+
+**4.7.22–23 (Rāma's Oath by Truth)**
+
+Confirming his promise (तत्र हेतुमाह—अनृतमिति, Śiromaṇi), Rāma declares that he has never uttered an untruth (अनृतं मृषा) in the past nor will he ever speak one in the future, swearing by Truth itself (सत्येनैव शपाम्यहम्; Śiromaṇi: शपथं करोमीत्यर्थः). Tilaka explains that Rāma invokes his own lifelong veracity to instill unshakable conviction in Sugrīva (एतदनृतवचनाभावं सत्येन तत्प्रतीत्यर्थम्). Hearing this explicit pledge (विशेषतः प्रतिज्ञातं वचः), Sugrīva and his counselors are filled with joy.
+
+_____________
+
+**4.7.24 (Intimate Converse of Man and Vānara)**
+
+Tilaka glosses एकान्तसम्पृक्तौ as कृतसख्यसंपर्कौ (joined in the bond of friendship) and supplies the standard middle form अभाषतामभाषेताम्. Govindarāja offers two explanations of एकान्तसम्पृक्तौ—either conversing together in seclusion (एकान्ते रहसि संयुक्तौ) or unreservedly united (एकान्तं नियतं यथा तथा संपृक्तौ वा)—and notes that अभाषताम् displays both an _ārṣa_ shift to _parasmaipada_ and omission of the अट्-augment (व्यत्ययेन परस्मैपदम् अडभावश्च).
+
+_____________
+
+**4.7.25 (Sugrīva Deems His Task Accomplished)**
+
+Having heard the words of that mighty-souled overlord of kings (नृपाणामधिपस्य रामस्य वचो निशम्य), the wise foremost of monkey heroes (हरिवीरमुख्यः विद्वान् सुग्रीवः) inwardly reckoned his mission already accomplished in his heart (हृदयेन मनसा कार्यं कृतं मेने, Śiromaṇi).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

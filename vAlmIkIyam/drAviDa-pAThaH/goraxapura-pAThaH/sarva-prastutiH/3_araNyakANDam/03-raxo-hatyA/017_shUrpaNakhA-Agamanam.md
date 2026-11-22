@@ -742,6 +742,98 @@ king and my father, and by my mother, as well. [3-17-17]
 
 “Bound (_yantritaḥ_) by the command of the king my father and of my mother, and desiring _dharma_ (_dharma-kāṅkṣī_), I have come here to dwell in the forest for the sake of righteousness (_dharmārtham_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.17.1–2 (paurvāhṇikaṃ karma & Returning to the Cottage)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that in 3.17.1 आश्रमं denotes the wider penance-grove (तपोवनम्), where Rāma performs his forenoon rites (पौर्वाह्णिकं कर्म)—specifically Vedic recitation (ब्रह्मयज्ञादि) rather than the morning fire-oblation, which precedes sun-worship—before entering the inner residential cottage (पर्णशालाम्). **Rāma Varmā** (_Tilaka_) conversely takes पर्णशालां as the outer reception hall (बाह्याम्).
+
+_____________
+
+**3.17.3–4 (citrayā candramā iva & Purāṇic Discourses)**
+
+**Śivasahāya** (_Śiromaṇi_) construes verses 3–4 as a single syntactic unit (श्लोकद्वयं संमिलितान्वयि). All three commentators explain चित्रया चन्द्रमा इव as the full moon conjoined with the _Citrā_ asterism (चित्रानक्षत्रेण चित्रापौर्णमास्याम्, _Bhūṣaṇa_), while **Govindarāja** glosses कथाः चकार as narrating ancient _Purāṇa_ and _Itihāsa_ histories (चकार उवाचेत्यर्थः).
+
+_____________
+
+**3.17.5–6 (Śūrpaṇakhā's Arrival)**
+
+On 3.17.5, **Govindarāja** explains the genitive रामस्य आसीनस्य in the locative absolute sense (रामे आसीने), and on 3.17.6 notes the Pāṇinian rule governing the proper name शूर्पणखा.
+
+_____________
+
+**3.17.7–8 (Rāma's Royal Marks & Beauty)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that the epithets in verses 7–8—such as महासत्त्वं (mighty-strength) and पार्थिवव्यञ्जनान्वितम् (bearing the marks of a universal monarch, महाराजलक्षणानि)—detail the causes that awaken Śūrpaṇakhā's infatuation (कामकृतमोहहेतवो विशेषणानि). **Rāma Varmā** (_Tilaka_) glosses गजविक्रान्तगमनं as walking with the slow, majestic stride of an elephant (गजस्येव मन्दतया विक्रान्तं गमनं यस्य).
+
+_____________
+
+**3.17.9–11 (The Figure Viṣama & the Poet's Irony)**
+
+On the eleven antithetical pairings contrasting Rāma's perfection with Śūrpaṇakhā's deformity, **Rāma Varmā** (_Tilaka_) identifies the rhetorical figure of incongruity (विषमालंकारोऽत्र), while **Govindarāja** remarks that the poet himself mocks her absurd passion (तस्यास्तस्मिन् मनःप्रवृत्तिं कविः परिहसति). In 3.17.11a, _Tilaka_ and _Bhūṣaṇa_ note that दारुणा (“harsh/grim”) implies its opposite अदारुणम् or सौम्यं (“gentle”) as an additional epithet of तरुणं Rāma.
+
+_____________
+
+**3.17.12 (śarīrajasamāviṣṭā & ThreeContradictory Guises)**
+
+All three commentators gloss शरीरजः as Kāma (मन्मथः), while **Govindarāja** highlights the apparent contradiction Śūrpaṇakhā questions in 12cd: ascetic in his matted locks (तापसरूपेण जटी), amorous householder in having a wife (कामुकरूपेण सभार्यः), and warrior in bearing bow and arrows (क्षत्रियरूपेण शरचापधृत्).
+
+_____________
+
+**3.17.13–14 (rākṣasasevitam & Rāma's Candour)**
+
+On 3.17.13, **Govindarāja** (_Bhūṣaṇa_) glosses राक्षससेवितम् as frequented by Dūṣaṇa and Khara's forces (दूषणादिः सेवितम्), while on 3.17.14 he explains ऋजुबुद्धितया as possessing a guileless kṣatriya mind (क्षत्रियत्वाव्यावृतबुद्धितया) that never speaks untruth, especially in a hermitage and in the presence of women.
+
+_____________
+
+**3.17.15–17 (dharmārthaṃ dharmakāṅkṣī ca)**
+
+To avoid tautology between धर्मार्थं and धर्मकांक्षी in 3.17.17, **Rāma Varmā** (_Tilaka_) explains धर्मकांक्षी as desiring the _dharma_ of fulfilling his father's word (पितृवाक्यनिर्वहणरूपधर्माभिलाषी) and धर्मार्थं as for the sake of preserving that very _dharma_, whereas **Govindarāja** distinguishes obeying his father's command (धर्मकांक्षी) from practicing forest asceticism (तपोरूपधर्मसिद्ध्यर्थं).
+
+_____________
+
+**3.17.18 (manojñāṅgī & Shape-Shifting Disguise)**
+
+On 3.17.18b, _Tilaka_ and _Śiromaṇi_ distinguish the two कस्य questions as “whose daughter?” (कस्य त्वं कन्या) and “whose wife?” (कस्य वराङ्गना). On मनोज्ञाङ्गी, _Tilaka_ notes that such beauty in the forest implies a shape-shifting _rākṣasī_, while **Govindarāja** reconciles this with the earlier epithets (दुर्मुखी, etc.) by noting that she had assumed an alluring illusory form before Rāma (रामदर्शनकाले तथारूपं कृतवती कामरूपत्वात्).
+
+_____________
+
+**3.17.19–21 (kāmarūpiṇī, ekā & Rāvaṇa's Fame)**
+
+On 3.17.20–21, **Govindarāja** (_Bhūṣaṇa_) notes that Śūrpaṇakhā calls herself कामरूपिणी to boast that she can assume even more alluring forms (इतोऽप्यधिकरूपधारणे समर्था), and सर्वभयंकरा to assure Rāma that she can ward off any obstacle to their dalliance. **Rāma Varmā** (_Tilaka_) glosses यदि ते श्रोत्रमागतः as implying “surely you have heard of him” (प्रायः श्रुत एव भवेत्).
+
+_____________
+
+**3.17.22–23 (Kumbhakarṇa, Vibhīṣaṇa, Khara & Dūṣaṇa)**
+
+All three commentators highlight the contrast in 3.17.23: though born a _rākṣasa_, Vibhīṣaṇa is righteous by nature and free of demonic conduct (जन्मना राक्षसोऽपि न राक्षसव्यापारः, _Bhūṣaṇa_), whereas Khara and Dūṣaṇa command Janasthāna nearby.
+
+_____________
+
+**3.17.24 (samatikrāntā & tvāpūrvadarśanāt)**
+
+On तानहं समतिक्रान्ता, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain both that she surpasses her brothers in might (तान् रावणादीन् वीर्येण समतिक्रान्ता) and that she has transgressed their authority without fear to approach Rāma (अतिक्रम्य वर्तमाना स्वच्छन्दचारिणी, _Bhūṣaṇa_). Both _Tilaka_ and _Bhūṣaṇa_ resolve त्वापूर्वदर्शनात् into त्वा (त्वाम्) plus either पूर्वदर्शनात् (from first sight) or अपूर्वदर्शनात् (from beholding your peerless beauty unseen even among gods).
+
+_____________
+
+**3.17.25–26 (svacchandabalagāminī & Vedāntic Allegory in Tilaka)**
+
+On 3.17.25, all three commentators gloss प्रभावसम्पन्ना as endowed with supernatural power or pride (शक्त्यतिशयेन सम्पन्ना, _Tilaka_). On 3.17.26, alongside the literal sense where Śūrpaṇakhā slanders Sītā as misshapen (विषमशरीरत्वम्, _Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_) records an esoteric Vedāntic reading (परमार्थः): विकृता (subject to _pariṇāma_ modification) and विरूपा (producing manifold phenomena) describe _Māyā_, whereas the enlightened soul seeks direct union with the unchanging Supreme Spirit.
+
+_____________
+
+**3.17.27 (karālām, nirṇatodarīm & Rākṣasa Aesthetics)**
+
+On Śūrpaṇakhā's insults in 3.17.27, **Govindarāja** (_Bhūṣaṇa_) cites the _Vaijayantī_ lexicon to gloss करालां as repulsive (बीभत्साम्), while all three gloss निर्णतोदरीम् as sunken-bellied (अत्यन्तनिम्नोदरीम्, _Tilaka_; अतुन्दिलीं, _Śiromaṇi_)—since to a pot-bellied _rākṣasī_ (महोदरी), Sītā's slender waist appears as a defect! _Tilaka_ adds that she calls Sītā असतीं for bringing Rāma into forest hardship.
+
+_____________
+
+**3.17.28–29 (madirekṣaṇām & Rāma's Laughter)**
+
+On 3.17.29, **Śivasahāya** (_Śiromaṇi_) glosses मदिरेक्षणाम् as having rolling, intoxicated eyes (आघूर्णितनयनां), while Rāma laughs (प्रहस्य) before replying.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -97,6 +97,14 @@ Then, on staying that night there in Tataka forest, on the next day
 
 Then, having passed that night there (_atha tāṃ rajanīm uṣya_), Viśvāmitra of mighty renown smiled with delight (_prahasya_) and spoke to Rāghava in a sweet and melodious voice (_vākyam uvāca madhurasvaram_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.1–3 (prahasya & prasahyājau vaśīkṛtya jayiṣyasi)**
+
+Having passed the night in the purified grove, Viśvāmitra smiles at beholding the victorious Rāma (प्रहस्य = विजयशालिरामदर्शनजसंतोषजो हासः, **Tilaka**) and bestows all the divine missiles (ददाम्यस्त्राणि सर्वशः). On v. 3, **Tilaka** distinguishes two modes of victory: crushing foes by sheer force (प्रसह्य बलेन जयिष्यसि), or, when moved by compassion against slaying them, subduing them bloodlessly with stupefying missiles (वशीकृत्य संमोहनास्त्रादिना जेष्यसि).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -246,6 +254,14 @@ _________________
 
 **5:** Next, O hero, the _Dharmacakra_ discus of righteousness, and likewise the _Kālacakra_ discus of Time (_dharmacakraṃ tato vīra kālacakraṃ tathaiva ca_); so too the fiercely terrible _Viṣṇucakra_ discus of Viṣṇu, and the _Aindracakra_ discus of Indra as well (_viṣṇucakraṃ tathātyugram aindraṃ cakraṃ tathaiva ca_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.4–5 (The Five Celestial Cakras)**
+
+Viśvāmitra begins his systematic taxonomy of the _astras_ by bestowing the five supreme discus-missiles (दण्डचक्रादयश्चक्रभेदाः, **Govindarāja**; दण्डचक्रादयोऽस्त्रभेदाः, **Tilaka**, **Śiromaṇi**): the punitive _Daṇḍacakra_, the righteous _Dharmacakra_, Time’s inexorable _Kālacakra_, Viṣṇu’s fierce _Viṣṇucakra_, and Indra’s _Aindracakra_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -318,6 +334,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The thunderbolt missile _Vajra_, O best of men, and likewise Śiva’s peerless trident missile (_vajram astraṃ naraśreṣṭha śaivaṃ śūlavaraṃ tathā_); the _Brahmaśiras_ missile, and the _Aiṣīka_ reed-missile as well, O Rāghava (_astraṃ brahmaśiraś caiva aiṣīkam api rāghava_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.6 (Vajra, Śaiva Śūlavara, Brahmaśiras, & Aiṣīka)**
+
+Next follow Indra’s _Vajra_, Śiva’s peerless trident missile (शैवं शूलवरं तथा, or शैवं शूलबलं तथा in **Tilaka**), _Brahmaśiras_—which all three commentators distinguish from the _Brāhmāstra_ of v. 7 (ब्रह्मशिरोऽस्त्रं ब्रह्मास्त्रादन्यत्, **Tilaka**, **Govindarāja**, **Śiromaṇi**)—and the _Aiṣīka_ reed-missile.
 </details>
 </details>
 
@@ -404,6 +428,14 @@ _________________
 **7:** I give to you, O mighty-armed prince, the unsurpassed _Brāhma_ missile (_dadāmi te mahābāho brāhmam astram anuttamam_); and also the two auspicious maces, O Kākutstha, named _Modakī_ and _Śikharī_ (_gade dve caiva kākutstha modakīśikharī śubhe_)—
 
 **8:** Blazing with radiance, O tiger among men, I bestow upon you, O king’s son (_pradīpte naraśārdūla prayacchāmi nṛpātmaja_); the noose of Dharma, O Rāma, and likewise the noose of Time (_dharmapāśam ahaṃ rāma kālapāśaṃ tathaiva ca_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.7–9 (The Maces Modakī & Śikharī, Three Pāśas, & Twin Thunderbolts)**
+
+After the _Brāhmāstra_, Viśvāmitra bestows two radiant mace-missiles (मोदकीशिखरीसंज्ञे द्वे गदे गदासंज्ञके अस्त्रे, **Tilaka**, **Govindarāja**), followed by _Dharmapāśa_, _Kālapāśa_, and _Vāruṇapāśa_. On v. 9ab, **Govindarāja** notes that _vāruṇam_ construes with both nouns by _kākākṣi-nyāya_: Varuṇa’s noose and Varuṇa’s watery missile. Next come the Dry and Wet thunderbolts (शुष्काशनिरार्द्राशनिरित्यन्वयः, **Govindarāja**).
 </details>
 </details>
 
@@ -506,6 +538,14 @@ _________________
 
 I give you also Śiva’s _Paināka_ missile and likewise Viṣṇu’s _Nārāyaṇa_ missile (_dadāmi cāstraṃ painākam astraṃ nārāyaṇaṃ tathā_); and Agni’s beloved fiery missile named _Śikhara_ by name (_āgneyam astraṃ dayitaṃ śikharaṃ nāma nāmataḥ_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.10–11 (Paināka, Nārāyaṇa, Śikhara, Prathama, Hayaśiras, & Krauñca)**
+
+Viśvāmitra next imparts Śiva’s _Paināka_ missile (पिनाकिन इदं पैनाकम्, **Govindarāja**), Viṣṇu’s _Nārāyaṇāstra_, Agni’s beloved flame-crested missile named _Śikhara_, Vāyu’s pre-eminent wind-missile named _Prathama_ (प्रथमं मुख्यम्, **Tilaka**; variant वायव्यं प्रथनं नाम), the Horse-Headed _Hayaśiras_, and the _Krauñca_ missile.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -607,6 +647,14 @@ _________________
 
 And the pair of _Śakti_ javelins, O Kākutstha, I give to you, O Rāghava (_śaktidvayaṃ ca kākutstha dadāmi tava rāghava_); and the dreadful _Kaṅkāla_, the _Musala_ pestle, the _Kāpāla_ skull-weapon, and the bell-ringed _Kiṅkiṇī_ (_kaṅkālaṃ musalaṃ ghoraṃ kāpālam atha kiṅkiṇīm_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.12 (The Twin Śaktis & Four Asura Weapons)**
+
+**Govindarāja** and **Śiromaṇi** identify the two _Śaktis_ as the javelin-missiles of Viṣṇu and Indra (विष्णुशक्तिः शक्रशक्तिश्च). In 12cd, the sage adds four Asura weapons (कङ्कालादीन्यसुरधार्याण्यस्त्राणि, **Tilaka**): _Kaṅkāla_, _Musala_, _Kāpāla_, and _Kiṅkiṇī_ (or _Kaṅkaṇa_ in **Govindarāja**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -663,6 +711,14 @@ Viśvāmitra bestows the Vidyādhara sword-gem Nandana and the psychological and
 
 All these weapons for the slaying of rākṣasas I bestow upon you in their entirety (_vadhārthaṃ rakṣasāṃ yāni dadāmy etāni sarvaśaḥ_); and the great Vidyādhara missile named _Nandana_ by name (_vaidyādharaṃ mahāstraṃ ca nandanaṃ nāma nāmataḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.13–14a (The Vidyādhara Sword-Gem Nandana)**
+
+Concluding the four Asura weapons with v. 13ab (वधार्थं रक्षसां यानि in **Tilaka**; धारयन्त्यसुरा यानि in **Govindarāja** and **Śiromaṇi**), Viśvāmitra bestows the Vidyādhara missile—the sword-gem named _Nandana_ (वैद्याधरं विद्याधरसंबन्धि नन्दनं नामासिरत्नम्, **Tilaka**, **Śiromaṇi**, **Govindarāja**), from which divine swords are manifested (यतोऽस्त्रादसीनां प्रादुर्भाव इति भावः, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -711,6 +767,14 @@ All these weapons for the slaying of rākṣasas I bestow upon you in their enti
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That gem among swords, O mighty-armed son of the best of kings, I give to you (_asiratnaṃ mahābāho dadāmi nṛvarātmaja_); and the beloved Gandharva missile named _Mohana_ (the Stupefier) by name (_gāndharvam astraṃ dayitaṃ mohanaṃ nāma nāmataḥ_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.14b–17 (Psychological & Elemental Missiles)**
+
+Next come missiles acting on the mind and elements: the Gandharva _Mohana_ (stupefying); _Prasvāpana_ (sleep-inducing); _Praśamana_ (quelling foes’ wrath, रिपूणां कोपशामकमस्त्रम्, **Tilaka**); _Saumya_ (or solar _Saura_); _Varṣaṇa_ (or _Darpaṇa_) and parching _Śoṣaṇa_; scorching _Saṃtāpana_ and weeping-inducing _Vilāpana_ (परिदेवनकारकम्, रोदनकारकम्, **Tilaka**, **Govindarāja**, **Śiromaṇi**); Kāma’s _Mādana_ (शत्रूणां मदजनकम्, **Tilaka**); the Gandharva _Mānava_; and the Paiśāca _Mohana_.
 </details>
 </details>
 
@@ -831,6 +895,20 @@ Completing the list with the Satya, Māyāmaya, solar Tejaḥprabha, lunar Śiś
 **18:** And the darkness-shrouding _Tāmasa_, O tiger among men, and the _Saumana_ missile of mighty potency (_tāmasaṃ naraśārdūla saumanaṃ ca mahābalam_); the unassailable world-dissolving _Saṃvarta_, and the _Mausala_ missile as well, O king’s son (_saṃvartaṃ caiva durdharṣaṃ mausalaṃ ca nṛpātmaja_);
 
 **19:** The infallible _Satya_ missile of truth, O mighty-armed one, and the supreme illusion-wielding _Māyāmaya_ (_satyam astraṃ mahābāho tathā māyāmayaṃ param_); and the solar missile named _Tejaḥprabha_, which strips away the splendor and vigor of foes (_sauraṃ tejaḥprabhaṃ nāma paratejo ’pakarṣaṇam_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.18 (Tāmasa, Saumana, Saṃvarta, & Mausala vs. Musala)**
+
+All three commentators explain why _Mausala_ appears here after _Musala_ in v. 12: _Musala_ was an Asura club, whereas _Mausala_ is a distinct mortar-shaped celestial missile (मौसलमासुरमुसलादन्यत्, **Tilaka**; मुसलान् मौसलमन्यत्, **Govindarāja**; उलूसलसदृशमस्त्रविशेषः, **Śiromaṇi**).
+
+_____________
+
+**27.19–21 (Satya, Māyāmaya, Tejaḥprabha, Śiśira, Tvāṣṭra, Bhaga, Śīteṣu, & Mānava)**
+
+Completing the catalogue, Viśvāmitra bestows the _Satyāstra_, _Māyāmaya_, the solar _Tejaḥprabha_ that strips away foes’ vigor (परतेजोऽपकर्षणम्), Soma’s cooling _Śiśira_, Tvaṣṭṛ’s missile, Bhaga’s missile, and Manu’s _Śīteṣu_ (शीतेषुसंज्ञकम्, **Govindarāja**, **Śiromaṇi**). In v. 21, the masculine plural accusatives (एतान् कामरूपान् महाबलान्) show that these missiles are sentient deities able to assume any form at will (इच्छितरूपधारणसमर्थान्, **Śiromaṇi**; **Govindarāja**).
 </details>
 </details>
 
@@ -1002,6 +1080,14 @@ That pre-eminent sage Vishvamitra on performing his personal holy depuration
 
 Standing facing the east in ritual purity (_sthitas tu prāṅmukho bhūtvā śuciḥ_), that best of sages then, supremely delighted, imparted to Rāma the unsurpassed collection of mantras (_dadau rāmāya suprīto mantragrāmam anuttamam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.22 (Tilaka**
+
+’s Citation of Kataka on _mantragrāmam_): Facing east in purity, Viśvāmitra imparts the mantra-corpus (मन्त्रग्राममनुत्तमम्). **Tilaka** cites Kataka: in Sarga 22 (v. 14), the sage only promised the mantra-corpus while imparting _Balā_ and _Atibalā_; here he formally transmits the missile-mantras (तत्कालोपयोगिबलातिबलयोरेव तत्र दानमितरेषां त्वत्रेति विवेक इति कतककृतः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1050,6 +1136,14 @@ The comprehension of which invoking hymns of the missiles is impossible
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All those divine missiles, the complete simultaneous mastery of which is hard to attain even for the gods (_sarvasaṃgrahaṇaṃ yeṣāṃ daivatair api durlabham_), the Brāhmaṇa sage then bestowed upon Rāghava (_tāny astrāṇi tadā vipro rāghavāya nyavedayat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.23–24 (daivatair api durlabham & Corporeal Attendance)**
+
+Even the gods know only a fraction of these missiles (देवा अपि यत्किञ्चिदस्त्रमेव जानन्ति, **Tilaka**), yet Viśvāmitra imparts them all to Rāma (and Lakṣmaṇa, रामाय लक्ष्मणाय च, **Tilaka**). As he recites their mantras (जपतः), the missiles descend in bodily form (सशरीराणि प्रापुः, **Śiromaṇi**) before Rāma.
 </details>
 </details>
 
@@ -1143,6 +1237,14 @@ All of those highly obliging missiles in astral bodies, gladdening to
 
 **25:** Joining their palms in reverence, all those personified missiles joyfully addressed Rāma then (_ūcuś ca muditā rāmaṃ sarve prāñjalayas tadā_): “Here we stand, O supremely munificent Rāghava, as your obedient servants (_ime ca paramodāra kiṃkarās tava rāghava_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.25–26 (kiṃkarās tava rāghava — The Personified Missiles as Servants)**
+
+Standing before Rāma with folded hands (प्राञ्जलयः), all the missile-deities rejoice at beholding their own supreme Overlord (स्वाधिदैवतरामसंबन्धेन हृष्टाः, **Tilaka**) and declare themselves his humble servants and attendants (किंकराः = अङ्गीकृतदासत्वाः, **Tilaka**; “servants,” **Śiromaṇi**), pledging to execute whatever he desires (यद्यदिच्छसि भद्रं ते तत्सर्वं करवाम वै).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1177,6 +1279,20 @@ All of those highly obliging missiles in astral bodies, gladdening to
 **26:** Whatever you desire, may auspiciousness attend you, all that we shall surely accomplish (_yad yad icchasi bhadraṃ te tat sarvaṃ karavāma vai_)!” Addressed thus by those mighty missiles, Rāma, serene in soul (_tato rāmaḥ prasannātmā tair ity ukto mahābalaiḥ_)—
 
 **27:** Accepted their allegiance and, gently touching them with his hand (_pratigṛhya ca kākutsthaḥ samālabhya ca pāṇinā_), commanded them: “You shall present yourselves to me whenever summoned by my thought (_manasā me bhaviṣyadhvam iti tāny abhyacodayat_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.27 (samālabhya ca pāṇinā & manasā / mānasā me bhaviṣyadhvam)**
+
+Accepting their service (प्रतिगृह्य = अस्त्रसेवामङ्गीकृत्य, **Govindarāja**), Rāma touches each personified missile with his hand (पाणिना समालभ्य = संस्पृश्य, **Govindarāja**, citing _Amarakośa_ on _ālambha_ as touching) and commands them to dwell in his mind and appear the instant he thinks of them (मानसा मे भविष्यध्वम् = सदा मनसि स्थिताः, चिन्तामात्रेऽवस्थिताः, **Tilaka**, **Govindarāja**).
+
+_____________
+
+**27.27–28 (Why the Omniscient Lord Accepts Initiation)**
+
+**Tilaka** and **Śiromaṇi** note that although all mantras and sciences are eternally known to Bhagavān Rāma (यद्यपि भगवतो रामस्य सर्वं विदितमेव, **Tilaka**; रामज्ञानविषयीभूता एव ते मन्त्राः, **Śiromaṇi**), he receives them from Viśvāmitra to uphold traditional decorum (**Śiromaṇi**) and teach the world that sacred knowledge bears fruit only when received from a guru (विद्या गुरूपदेशगृहीतैव फलदा नान्यथेति लोकान् बोधयितुम्, **Tilaka**).
 </details>
 </details>
 

@@ -80,6 +80,14 @@ City Vishala. [1-47-1]
 
 When her embryo had been cleft into seven parts (_saptadhā tu kṛte garbhe_), Diti, overwhelmed with supreme sorrow (_paramaduḥkhitā_), spoke conciliatory words (_vākyaṃ sānunayābravīt_) to the unassailable thousand-eyed Indra (_sahasrākṣaṃ durādharṣam_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.1–2 (durādharṣam & mamāparādhāt)**
+
+Why does Diti address the splitter of her womb with gentle conciliation (_sānunayā_)? **Rāma Varmā (_Tilaka_)** glosses _durādharṣam_ as one who cannot be overcome because he acted by a legitimate rule (_nyāyopāyena jetutvāt_). Acknowledging her own ritual lapse (her state of impurity, **Tilaka**; _pramādāt_, **Govindarāja**; _matkṛtaviruddhaśayanādijanyadoṣāt_, **Śiromaṇi**), she exonerates Indra (_nāparādho hi deveśa tavātra_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -191,6 +199,14 @@ of seven Marut-s, thus they are forty-nine entities, in total.
 
 “Yet in this calamity of my womb (_mama garbhaviparyaye_), I desire a gracious favor wrought by you (_priyaṃ tvatkṛtam icchāmi_): let those sons of mine become the guardian lords of the seven stations of the seven Maruts (_marutāṃ sapta saptānāṃ sthānapālā bhavantu te_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.3–4 (sapta saptānāṃ marutām & the Forty-Nine Maruts)**
+
+**Tilaka** and **Śiromaṇi** explain that the embryo was divided into seven and each part again sevenfold (_saptasaptānām ekonapañcāśatsaṃkhyānāṃ marutām_), forming seven troops of seven (_saptāvayavakasaptagaṇāḥ_). **Śiromaṇi** notes that _sthānapālā bhavantu_ implies the former Maruts had perished in a Deva-Asura war and reincarnated in Diti’s womb, while **Govindarāja** cites the seven cosmic wind-courses from the _Viṣṇu Purāṇa_: Āvaha, Pravaha, Saṃvaha, Udvaha, Vivaha, Parivaha, and Parāvaha.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,6 +310,14 @@ and he may circulate in entire universe. [1-47-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let one host roam through the world of Brahmā (_brahmalokaṃ caratv ekaḥ_), and another likewise through the world of Indra (_indralokaṃ tathāparaḥ_); and let the third also, of great renown, be celebrated as the celestial wind in the firmament (_divyavāyur iti khyātas tṛtīyo ’pi mahāyaśāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.5–6 (brahmalokaṃ ... diśaḥ — Cosmic Jurisdictions)**
+
+Assigning realms to the seven troops (_sapta gaṇāḥ_, **Tilaka**, **Śiromaṇi**), Diti asks that the first patrol Brahmaloka, the second Indraloka (or _skandalokam_, **Tilaka**), the third (_Divyavāyu_, coursing in _Viṣṇupada_, **Govindarāja**) traverse the firmament, and the other four patrol the four cardinal directions (_pūrvādimahādiśaḥ_, **Tilaka**; **Śiromaṇi**).
 </details>
 </details>
 
@@ -416,6 +440,14 @@ Bala, namely Indra, spoke this word to Diti, humbly adjoining his palms. [1-47-7
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “renowned as ‘Mārutas’ by the very name bestowed by you (_tvatkṛtenaiva nāmnā vai mārutā iti viśrutāḥ_)!” Hearing that speech of hers, the thousand-eyed Purandara (_sahasrākṣaḥ purandaraḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.7–9 (tvatkṛtenaiva nāmnā & mātāputrau)**
+
+**Tilaka** and **Śiromaṇi** construe 47.6–7ab as a single sentence (_sārdhaśloka ekānvayī_) and explain _tvatkṛtenaiva nāmnā_ as the name _Mārutāḥ_ coined from Indra’s cry _“mā rudaḥ, mā ruda”_ (“Do not weep!”). **Govindarāja** notes that _sahasrākṣaḥ_ in v. 7 shows that the splitting of Diti’s embryo occurred after Indra had acquired his thousand eyes. Reconciled as “mother and son” (_mātāputrau ditīndrau_, **Tilaka**), Diti and Indra ascend to heaven with their purposes fulfilled (_kṛtārthau_).
 </details>
 </details>
 
@@ -548,6 +580,14 @@ and where he rendered services to that accomplished one in her asceticism, namel
 
 ascended to the third heaven, O Rāma, their purposes fulfilled—so have we heard (_jagmatus tridivaṃ rāma kṛtārthāv iti naḥ śrutam_). This, O Kākutstha, is that very region where Mahendra dwelt of old (_eṣa deśaḥ sa kākutstha mahendrādhyuṣitaḥ purā_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.10–11ab (eṣa deśaḥ sa kākutstha — Concluding the First Question)**
+
+**Śiromaṇi** and **Govindarāja** observe that v. 10 formally concludes Viśvāmitra’s answer to Rāma’s first question from 1.45.11 (_prathamapraśnottaram upasaṃharann āha_): this very region is the sacred grove where Mahendra dwelt of old (_mahendrādhyuṣitaḥ purā_) and waited upon Diti.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -606,6 +646,14 @@ The Bhaagavata Puraana says separately in its seventh canto about this dynasty o
 
 **12:** born of the celestial nymph Alambuṣā and renowned by the name of Viśāla (_alambuṣāyām utpanno viśāla iti viśrutaḥ_); and by him was founded upon this spot the city named Viśālā (_tena cāsīd iha sthāne viśāleti purī kṛtā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.11cd–12 (ikṣvākos tu ... viśāleti purī — Beginning the Second Question)**
+
+Turning to Rāma’s second question (“Which royal dynasty rules here?”, _atha kataro rājavaṃśa iti dvitīyapraśnasya uttaram āha_, **Govindarāja**, **Śiromaṇi**), Viśvāmitra reveals that Viśālā was founded here by Viśāla, the righteous son born to King Ikṣvāku by the nymph Alambuṣā (_alambuṣānāmabhāryāyām utpannaḥ_, **Śiromaṇi**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -658,6 +706,14 @@ renowned as Suchandra.. [1-47-13]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The son of Viśāla, O Rāma, was the mighty Hemacandra (_viśālasya suto rāma hemacandro mahābalaḥ_); and immediately after Hemacandra came the ruler renowned as Sucandra (_sucandra iti vikhyāto hemacandrād anantaraḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.13–16 (The Ten-Generation Genealogy of Viśālā)**
+
+Answering Rāma’s inquiry into the local dynasty (_kataro ’tra vaṃśa iti praśnasyottaram_, **Tilaka**), Viśvāmitra enumerates ten generations descending from Ikṣvāku and Alambuṣā: Viśāla, Hemacandra, Sucandra, Dhūmrāśva, Sṛñjaya, Sahadeva, Kuśāśva, Somadatta, Kākutstha, and the reigning king Sumati. **Śiromaṇi** and **Govindarāja** note that 47.16cd forms a single half-verse unit (_ardham ekam_) introducing Kākutstha.
 </details>
 </details>
 
@@ -849,6 +905,14 @@ with the grandparents of Rama.
 
 “His son of great splendor—invincible, of supreme renown, named Sumati (_tasya putro mahātejāḥ paramaprakhyaḥ sumatir nāma durjayaḥ_)—presently inhabits and rules this city (_sampraty eṣa purīm imām āvasat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.17 (āvasat paramaprakhyaḥ sumatir nāma)**
+
+The Southern Recension reads the imperfect _āvasat paramaprakhyaḥ_ construed with present force alongside _samprati_ (_imāṃ purīṃ saṃpraty āvasat_, **Tilaka**), whereas **Govindarāja** and **Śiromaṇi** (with Baroda CE) read _āvasaty amaraprakhyaḥ_ (“resembling an immortal”). **Govindarāja** cites Pāṇini 1.4.48 (_upānvadhyāṅvasaḥ_) for the accusative locus _purīm imām_ after _ā-vas_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -894,6 +958,14 @@ well-off in generosity, and they were great-souled ones. [1-47-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By the grace of Ikṣvāku, all the monarchs of Viśālā (_ikṣvākos tu prasādena sarve vaiśālikā nṛpāḥ_) have been blessed with long life, great souls, heroic valor, and firm devotion to _dharma_ (_dīrghāyuṣo mahātmāno vīryavantaḥ sudhārmikāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.18 (ikṣvākos tu prasādena sarve vaiśālikā nṛpāḥ)**
+
+How could ten generations span the ages from Ikṣvāku down to Rāma’s day? **Govindarāja** and **Śiromaṇi** raise this question (_kathaṃ katipayair eva puruṣair idānīm ikṣvākuvaṃśaḥ_) and explain that through Ikṣvāku’s blessing—granted at Viśāla’s entreaty (_viśālaprārthanam ikṣvākuprasādanimittam_, **Govindarāja**)—all the kings of Viśālā (_vaiśālikāḥ_) were exceptionally long-lived (_dīrghāyuṣaḥ_). **Tilaka** adds that this shows Sumati to be Rāma’s own kinsman (_tvatsamānavaṃśyo ’yam iti sūcitam_).
 </details>
 </details>
 
@@ -953,6 +1025,14 @@ to Rama and Lakshmana. [1-47-19]
 
 “Here today for a single night let us sleep in comfort (_ihādya rajanīm ekāṃ sukhaṃ svapsyāmahe vayam_); tomorrow at dawn, O best of men, you shall behold King Janaka (_śvaḥ prabhāte naraśreṣṭha janakaṃ draṣṭum arhasi_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.19 (ihādya rajanīm ekāṃ ... śvaḥ prabhāte janakam)**
+
+Because King Sumati belongs to Rāma’s own Ikṣvāku lineage (_ata evāha_, **Tilaka**), Viśvāmitra proposes that they rest for one night at Viśālā (_sukhaṃ svapsyāmahe_, or _vatsyāmahe_ with Ārṣa ātmanepada noted by **Govindarāja**) and proceed at dawn (_śvaḥ prabhāte_) to Mithilā to behold King Janaka.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1000,6 +1080,14 @@ a warm welcome. [1-47-20]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that Viśvāmitra had arrived (_viśvāmitram upāgataṃ śrutvā_), the resplendent and illustrious King Sumati, foremost of royal heroes (_sumatis tu mahātejā naravaraśreṣṭhaḥ mahāyaśāḥ_), came forth in person to welcome him (_pratyāgacchat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.20–21 (sumatis tu ... sopādhyāyaḥ sabāndhavaḥ)**
+
+Hearing of Viśvāmitra’s arrival on the outskirts of his capital, the illustrious King Sumati comes forth in person (_pratyāgacchat = pratyudgacchat_, **Govindarāja**), accompanied by his preceptors and kinsmen (_sopādhyāyaḥ sabāndhavaḥ_), offers supreme hospitality (_pūjāṃ paramām_), and with folded palms inquires after the sage’s welfare.
 </details>
 </details>
 
@@ -1108,5 +1196,13 @@ king Sumati to Vishvamitra. [1-47-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Blessed am I and favored by grace, O Sage, in that you have entered my realm and granted me your sight (_dhanyo ’smy anugṛhīto ’smi yasya me viṣayaṃ mune samprāpto darśanaṃ caiva_); there is none more fortunate than I (_nāsti dhanyataro mama_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**47.22 (dhanyo ’smy anugṛhīto ’smi ... nāsti dhanyataro mama)**
+
+Sumati declares himself blessed and favored by grace (_dhanyo ’smy anugṛhīto ’smi_) now that Viśvāmitra has entered his realm. On _nāsti dhanyataro mama_, **Tilaka** and **Śiromaṇi** construe the genitive _mama_ as an ablative of comparison (_mama matta ity arthaḥ, pañcamyarthe ṣaṣṭhī_—“none is more blessed than I”), whereas **Govindarāja** construes it with an understood ‘equal to me’ (_mayā_).
 </details>
 </details>

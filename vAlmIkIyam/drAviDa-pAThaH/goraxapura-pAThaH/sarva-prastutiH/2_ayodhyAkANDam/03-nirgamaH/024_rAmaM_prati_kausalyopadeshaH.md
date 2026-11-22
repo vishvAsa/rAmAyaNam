@@ -1235,6 +1235,134 @@ grief will not destroy him ."
 
 “—for he, ever devoted to _dharma_, will wait upon you (_bhavatīm anuvarteta sa hi dharma-rataḥ sadā_)—and act so that this terrible grief may not destroy the King (_dāruṇaś cāpy ayaṃ śoko yathainaṃ na vināśayet_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.24.1–3 (dharmiṣṭham & Living by uñcha-Gleaning)**
+
+On Verse 1, **Rāma Varmā** (_Tilaka_) construes धर्मिष्ठम् as an accusative epithet of Rāma (धर्मिष्ठं रामम्), whereas **Śivasahāya** (_Śiromaṇi_) takes it with वचः. On Verse 2, **Rāma Varmā** and **Śivasahāya** define उञ्छः strictly as gleaning fallen grain-ears one by one (शिलैतरपतितकणशो ग्रहणम्), while **Govindarāja** (_Bhūṣaṇa_) explains that here it denotes subsisting on wild roots and fruits (इदं फलमूलाचाहरणं लक्षयति) as stated in Verse 3.
+
+_____________
+
+**2.24.4–5 (kṛtāntaḥ sarvam ādiśan)**
+
+On Verse 4, Kausalyā asks who could believe that the beloved, virtuous prince is banished, or who would not fear the same fate (ममाप्येवं विवासनं भविष्यतीति, _Bhūṣaṇa_). On Verse 5, all three commentators gloss कृतान्तः as Destiny (दैवम्), which apportions joy and sorrow to all (सर्वं सुखदुःखेन योजयन्, _Tilaka_).
+
+_____________
+
+**2.24.6 (śokāgni Metaphor — Part I)**
+
+Verses 6–8 form a single syntactic unit (श्लोकत्रयमेकं वाक्यम्, _Bhūṣaṇa_) casting Kausalyā’s heart-born grief (आत्मभवः शोकः) as a sacrificial fire fanned by the wind of Rāma’s absence (तवादर्शनमारुतः) and fed with fuel of lamentation (विलापदुःखसमिधः).
+
+_____________
+
+**2.24.7–8 (śokāgni Metaphor — Part II)**
+
+Completing the three-verse metaphor (श्लोकत्रयमेकान्वयि), the commentators explain that the fire of grief has hot vapor of anxious thought for its great smoke (चिन्तोष्मा स एव महाधूमो यस्य, _Bhūṣaṇa_, _Śiromaṇi_), arises from the toil of sighs (निःश्वास एव पुरुषप्रयत्नः, _Bhūṣaṇa_), and is born of brooding over Rāma’s departure or return (तवागमनचिन्तजः, with चिन्त- shortened by poetic license, बाहुलकाद्ध्रस्वः, _Tilaka_). Bereft of Rāma, who is like cooling water (जलस्थानीयेन, _Bhūṣaṇa_), it will consume her like wildfire burning dry brushwood in summer (हिमात्यये ग्रीष्मे).
+
+_____________
+
+**2.24.9–10 (kathaṃ hi dhenuḥ & the Mother Cow)**
+
+On Verse 9, reading गच्छन्तमनुगच्छति, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) take कथम् in the sense of यथा (“just as a cow follows her calf”), whereas with नानुगच्छति (_Bhūṣaṇa_, Baroda CE) कथम् remains interrogative.
+
+_____________
+
+**2.24.11–12 (bhartuḥ parityāgaḥ)**
+
+Rāma warns that Daśaratha, deceived by Kaikeyī, will die (न जीविष्यति, _Tilaka_, _Bhūṣaṇa_) if Kausalyā also abandons him—a cruel act (केवलं क्रौर्यमेव) not to be thought of.
+
+_____________
+
+**2.24.13–15 (śuśrūṣā kriyatāṃ tāvat & Kausalyā’s Initial Assent)**
+
+On Verse 13, Rāma enjoins Kausalyā to serve her husband as long as he lives, for that is a wife’s eternal duty (स हि धर्मः सनातनः); **Govindarāja** (_Bhūṣaṇa_) remarks that her immediate assent (तथेति) in Verse 14 shows her mind is discerning in _dharma_ (शुभदर्शना धर्म्यबुद्धिः), while **Śivasahāya** (_Śiromaṇi_) explains that Rāma speaks again in Verse 15 to test and deepen her consolation (मातृसंतोषपरीक्षणहेतुकम्).
+
+_____________
+
+**2.24.16 (rājā bhartā guruḥ śreṣṭhaḥ)**
+
+**Rāma Varmā** (_Tilaka_) notes that Rāma’s string of predicates distributes the grounds why both he and his mother must obey Daśaratha (यथायोगम्): he is sovereign (राजा), her wedded husband (भर्ता), spiritual preceptor (गुरुः), and supreme lord (प्रभुः).
+
+_____________
+
+**2.24.17–18 (vihṛtya nava pañca ca)**
+
+All three commentators highlight the force of the gerund विहृत्य (“having sported”): Rāma depicts his fourteen-year forest exile as effortless as a royal hunting excursion (मृगयावल्लीलात्वं दर्शितम्, _Tilaka_; क्लेशराहित्यम्, _Bhūṣaṇa_) so that his mother should not grieve, promising to stand at her service thereafter.
+
+_____________
+
+**2.24.19–20a (vanyāṃ mṛgīm iva & Kausalyā’s Renewed Plea)**
+
+On Verses 19–20a (construed together as a one-and-a-half-verse sentence, सार्धश्लोक एकान्वयी), **Govindarāja** (_Bhūṣaṇa_) notes that although Kausalyā had just assented to stay, the thought of living amidst her hostile co-wives (सपत्नीनां मध्ये) revives her plea to follow Rāma like a wild doe (वन्यां मृगीमिव), implying she will be content with forest fare and cause him no trouble (न भवन्तं क्लेशयिष्यामि).
+
+_____________
+
+**2.24.20cd–21 (rudan vs. arudan)**
+
+In Verse 20d, **Govindarāja** (_Bhūṣaṇa_) reads रुदन् (“weeping”), explaining that Rāma weeps on beholding his mother’s distress, whereas **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read अरुदन् (“without weeping”), reasoning that showing tears of weakness would only encourage her hope of accompanying him (मातुः पुनरप्यनुगमनप्रत्याशाप्रसङ्गात्).
+
+_____________
+
+**2.24.22–24 (bharataś cāpi dharmātmā)**
+
+Answering her fear of co-wives, the commentators note that Rāma reassures her that righteous Bharata will ever attend upon her (भवतीमनुवर्तेत), while she must guard the King from perishing of terrible grief (दारुणः शोकः) after Rāma’s departure.
+
+_____________
+
+**2.24.25–26 (vratopavāsa-niratā & the Primacy of pati-śuśrūṣā)**
+
+On Verses 25–26, **Rāma Varmā** (_Tilaka_) compares a wife’s service to her husband with a twice-born’s obligatory _Gāyatrī_ recitation (द्विजस्य गायत्रीजपवत् स्त्रिया भर्तृशुश्रूषैव परं नित्या): even the noblest woman devoted to vows and fasts falls into a sinful state (पापगतिर्भवेत्) if she neglects her husband, because optional rites cannot atone for omitting an obligatory duty (नित्याकरणजन्यप्रत्यवायानामनित्यधर्मकृतिः परिहर्तुं न शक्नोति).
+
+_____________
+
+**2.24.27–28a (nirnamaskārā & priya-hite ratā)**
+
+Conversely, even a woman who performs no separate worship of other deities (भर्तृव्यतिरिक्तदेवादिनमस्काररहिता, _Tilaka_) attains supreme heaven through serving her husband alone. **Rāma Varmā** notes that combining प्रिय and हित teaches that what is wholesome must be done even if initially unpleasant, and what is harmful avoided even if pleasant.
+
+_____________
+
+**2.24.28cd–29 (agnikāryeṣu ca sadā)**
+
+Lest idleness deepen her grief (तूष्णीमवस्थाने दुःखमाक्रमिष्यतीति धिया, _Bhūṣaṇa_), Rāma prescribes propitiatory fire-rites (शान्तिकपौष्टिकहोमेषु) and honouring gods and Brāhmaṇas with flowers for his welfare.
+
+_____________
+
+**2.24.30–31 (yadi dharmabhṛtāṃ śreṣṭhaḥ & the Foreshadowing of Daśaratha’s Death)**
+
+On Verse 30, **Govindarāja** (_Bhūṣaṇa_) glosses नियताहारा as abstaining from rich or forbidden fare (मधुमांसादिवर्जनेन नियताहारा) while awaiting Rāma’s return. On Verse 31a, **Rāma Varmā** (_Tilaka_) and **Govindarāja** point out the tragic dramatic irony in Rāma’s proviso “if the foremost of upholders of _dharma_ sustains his life” (यदि जीवितं धारयिष्यति): because her supreme desire requires both her husband’s survival and her son’s return (भर्तृजीवनपुत्रागमनयोः सतोरेव, _Bhūṣaṇa_), the condition subtly foreshadows Daśaratha’s imminent death (दशरथमरणस्य संनिहितत्वं सूचितम्, _Tilaka_).
+
+_____________
+
+**2.24.32–33 (nūnaṃ kālo duratyayaḥ)**
+
+Seeing Rāma’s resolve to depart firmly fixed (सुकृतां सुदृढाम्, _Bhūṣaṇa_), Kausalyā bows to inexorable Time (कालः इष्टवियोगबुद्धिजनकः, _Tilaka_) and blesses him to go forth with a tranquil, single-pointed mind (एकाग्रो नियतचित्तः, _Śiromaṇi_).
+
+_____________
+
+**2.24.34 (pitur ānṛṇyatāṃ prāpte)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain the pleonastic abstract suffix in आनृण्यताम् as _svārthe ष्यञ्_ (“freedom from debt to your father”).
+
+_____________
+
+**2.24.35–36 (me vaca āvidhya & the Inscrutable Course of Fate)**
+
+On Verse 35, **Rāma Varmā** (_Tilaka_) glosses मे वच आविध्य as “setting aside my plea” (आच्छिद्य), whereas **Govindarāja** (_Bhūṣaṇa_), reading आच्छिद्य directly, explains it as “cutting off and overturning my words” (छित्त्वा अन्यथा कृत्वा). Because Destiny (कृतान्तः) impels Rāma to the forest against his mother’s entreaty, its workings on earth are unfathomable (दुर्विभाव्या). In Verse 36, she anticipates his safe return, when he will gladden her with gentle, winsome speech (श्लक्ष्णेन निर्मलेन चारुणा मनोहरेण साम्ना, _Tilaka_).
+
+_____________
+
+**2.24.37 (apīdānīṃ sa kālaḥ syāt)**
+
+All three commentators note the maternal impatience behind अपीदानीम्: unable to bear even a moment’s separation (क्षणमात्रमप्यदर्शनासहिष्णुत्वात्, _Bhūṣaṇa_), Kausalyā prays that the hour fourteen years hence when she will behold Rāma returning in matted locks and bark-garments might arrive this very instant (इदानीमेवापि स्यात्).
+
+_____________
+
+**2.24.38 (svastyayanābhikāṅkṣiṇī)**
+
+Beholding Rāma’s unshakable resolve with a reverent mind (परमेण आदरवता चेतसा, _Tilaka_, _Bhūṣaṇa_), the Queen turns to performing auspicious farewell rites (स्वस्त्ययनं मङ्गलम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

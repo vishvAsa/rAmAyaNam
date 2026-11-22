@@ -758,6 +758,152 @@ king's opinion and is inciting him for my sake"
 
 Having discerned the king’s intention (_lakṣayitvā hy abhiprāyam_), that dark-eyed queen (_asitekṣaṇā_), who is skilled in counsel (_sudakṣiṇā_) and desires what is dear to me (_priya-kāmā_), is urging the monarch on for my sake (_saṃcodayati rājānaṃ mad-artham_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.16.1–2 (praviviktāṃ kakṣyām & the Vigilant Youths)**
+
+Opening Sarga 16, **Govindarāja** (_Bhūṣaṇa_) notes the transition from Sumantra's arrival at Rāma's palace to Rāma's procession toward Daśaratha. Passing the crowded outer portal, Sumantra reaches the secluded inner court (प्रविविक्तां जनबाहुल्यरहिताम्, _Śiromaṇi_). On प्रासकार्मुकबिभ्रद्भिः, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain the compound through an objective genitive (प्रासकार्मुकाणां बिभ्रद्भिः... कर्मणः संबन्धसामान्यत्वेन विवक्षणात् षष्ठी).
+
+_____________
+
+**2.16.3–4 (kāṣāyiṇo vṛddhān & the Aged Chamberlains)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss काषायिणः as wearing safflower-dyed red garments (कौसुम्भादिकषायरक्तवस्त्रधारिणः), while **Govindarāja** (_Bhūṣaṇa_) vividly describes them as ninety-five-year-old chamberlains (पञ्चनवतिवर्षवयस्कान्) whose adornment (स्वलंकृतान्) comes from the sandal, musk, and saffron transferred when Rāma and Sītā embrace them during morning bows.
+
+_____________
+
+**2.16.5–6 (pradakṣiṇaḥ & Immediate Announcement)**
+
+All three commentators gloss प्रदक्षिणः as skilled in courtly service (सेवानिपुणः, _Tilaka_, _Bhūṣaṇa_, citing Amarakośa दक्षिणः सरलोदारौ). Supplying इति after तिष्ठति (इतिकरणं द्रष्टव्यम्, _Bhūṣaṇa_), the chamberlains report Sumantra's presence to Rāma seated with Sītā (सहभार्याय).
+
+_____________
+
+**2.16.7–8 (abhyantaram pituḥ & the Golden Couch)**
+
+Knowing Sumantra to be his father's confidential counselor (पितुरभ्यन्तरमत्यन्तमन्तरङ्गम्, _Tilaka_, _Śiromaṇi_, _Bhūṣaṇa_), Rāma summons him straight into Sītā's private apartment (तत्रैव सीतावस्थितिदेश एव, _Tilaka_). **Govindarāja** (_Bhūṣaṇa_) likens the golden couch (सौवर्णे पर्यङ्के) to a golden mountain setting off Rāma's dark rain-cloud hue (काञ्चनगिरिः कालमेघमिव रामं भासयति).
+
+_____________
+
+**2.16.9–10 (varāharudhirābheṇa & the Moon with Citrā)**
+
+All three commentators note the proverbial deep crimson hue of boar's blood (वराहरुधिरमतिरक्तवर्णमिति प्रसिद्धम्, _Tilaka_, _Śiromaṇi_, _Bhūṣaṇa_), _Bhūṣaṇa_ explaining it as saffron-blended sandalwood (कुङ्कुममिश्रितया) cooled and perfumed by Sītā's lotus hands. Standing beside him with a chowrie, Sītā shines like the star _Citrā_ conjoined with the full moon (चैत्रपौर्णमास्यां चित्राख्यतारकयोपेतम्, _Bhūṣaṇa_; तदभिधतारया उपेतं शशिनम्, _Śiromaṇi_).
+
+_____________
+
+**2.16.11–12 (vinītavat & vihāraśayanāsane)**
+
+On विहारशयनासने, **Rāma Varmā** (_Tilaka_) offers either a seat serving for recreation and rest or a singular collective _Dvandva_ (समाहारद्वन्द्वः, _Tilaka_; एकवद्भावः, _Bhūṣaṇa_) with the variant सुखं पृष्ट्वा (“inquiring after Rāma's walk, sleep, and sitting”).
+
+_____________
+
+**2.16.13–14 (kausalyā suprajā rāma & Accepting the Summons)**
+
+Echoing Viśvāmitra's famous dawn invocation, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) supply त्वया सुपुत्रेण with कौसल्या सुप्रजाः (“through you, Kausalyā is blessed with a noble son”), _Bhūṣaṇa_ also noting the _Bahuvrīhi_ suffix -असिच्. Honoring Sumantra by accepting his message (सुमन्त्रवचोऽङ्गीचकार, _Tilaka_), Rāma turns to Sītā.
+
+_____________
+
+**2.16.15–16 (madantare & Kaikeyī's Perceived Benevolence)**
+
+Citing the _Amarakośa_ (अन्तरमवकाशावधिपरिधानान्तर्धिभेदतादर्थ्ये), **Govindarāja** (_Bhūṣaṇa_) glosses मदन्तरे as “for my sake” (मदर्थे). Hearing that Daśaratha is with Kaikeyī, Rāma infers that clever Kaikeyī (सुदक्षिणा = समर्था, _Tilaka_; चतुरा, _Bhūṣaṇa_), knowing the aged king's wish not to delay until Bharata's return (भरतासन्निधौ रामाभिषेकस्त्वत्संमतो न वेति, _Tilaka_, _Bhūṣaṇa_), is urging him to proceed at once.
+
+_____________
+
+**2.16.17–18 (arthakāmakaram & Preventing Sītā's Doubt)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that v. 17 forestalls any suspicion in Sītā's mind (सीताशङ्कां वारयति): Rāma calls Kaikeyī his mother (जननी) devoted to his welfare (अर्थकामा मे), and rejoices that sending Sumantra (अर्थकामकरम्) proves their auspicious intent.
+
+_____________
+
+**2.16.19–21 (abhidadhyuṣī & Escorting Rāma)**
+
+Matching the friendly messenger to the assembly (यादृशी मत्परा... परिषत्, _Tilaka_), Rāma bids Sītā sport with her companions (परिवारेण सखीसमूहेन). **Govindarāja** (_Bhūṣaṇa_) explains पतिसंमानिता as Rāma placing his own garland upon Sītā's neck (स्वकण्ठादुन्मुच्य दत्तस्वमालिका), while **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) flag अभिदध्युषी (अभिध्यायन्ती) as an _ārṣa_ participle.
+
+_____________
+
+**2.16.22–23 (rājasūyābhiṣecanam & the Antelope Skin)**
+
+Sītā prays that after the regency consecration Daśaratha may crown Rāma with the _Rājasūya_ (राजसूयं महाराज्याभिषेचनम्, _Tilaka_) as Brahmā (लोककृत्) crowned Indra, wishing to serve him while he wears the sacrificial antelope skin (वराजिनधरम्) and carries the blackbuck horn (कण्डयनार्थं हस्ते कृष्णमृगस्य शृङ्गम्, _Śiromaṇi_, _Bhūṣaṇa_).
+
+_____________
+
+**2.16.24 (Tilaka's Esoteric Double Meaning / Arthāntara)**
+
+**Rāma Varmā** (_Tilaka_) shows how vv. 16–24 carry a hidden prophetic meaning (एकमर्थान्तरमपि गर्भितम्) so that Sītā's words never fail (सत्यसंकल्पाया भगवत्याः): Kaikeyī, prompted by the Inner Controller (अन्तर्यामिप्रेरणया), urges Rāma's forest exile (रावणवधफलकवनगमनार्थम्), and Sītā will serve Rāma clad in deer-skin (वराजिनधरम्) in the forest (वने राज्यम्)!
+
+_____________
+
+**2.16.25–26 (siṃho giriguhāśayaḥ & Lakṣmaṇa at the First Door)**
+
+Emerging with Sumantra like a mountain-cave lion (गिरिगुहाशयः सिंह इव), Rāma sees Lakṣmaṇa standing at the first doorway (प्रथमद्वारि, _Bhūṣaṇa_) with hollowed hands joined in humble salutation (प्रह्वाञ्जलिपुटम् = प्रह्वत्वसूचकाञ्जलिपुटवन्तम्, _Tilaka_; explained via possessive अच् by **Govindarāja**, _Bhūṣaṇa_).
+
+_____________
+
+**2.16.27–28 (madhyamakakṣyāyām & the Tiger-Skin Chariot)**
+
+In the middle court Rāma greets his friends and suitors (अर्थिनः स्वदर्शनस्वाभिषेकार्थिनः, _Tilaka_, _Bhūṣaṇa_). On वैयाघ्रम्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) cite the _Amarakośa_ (द्वैपं वैयाघ्रमाजिनम्) for “covered with tiger-skin” (व्याघ्रचर्मपरिवृतम्), whereas **Śivasahāya** (_Śiromaṇi_) suggests appearing as if wrought of tiger's ivory (व्याघ्रदन्तनिर्मितत्वेन प्रतीयमानम्).
+
+_____________
+
+**2.16.29–30 (kareṇuśiśukalpaiḥ & the Thousand-Eyed Simile)**
+
+All three commentators gloss असंबाधम् as spacious (विपुलम्, _Tilaka_) and करेणुशिशुकल्पैः as steeds sturdy and massive as elephant calves (करभसदृशैः, _Tilaka_, _Bhūṣaṇa_). Comparing Rāma to thousand-eyed Indra (सहस्राक्षः), _Tilaka_ remarks that through his jewelled ornaments reflecting his form, Rāma too appears thousand-eyed!
+
+_____________
+
+**2.16.31–32 (mahābhrād iva candramāḥ & Lakṣmaṇa's Service)**
+
+Citing the _Amarakośa_ (पर्जन्यो रसदब्देन्द्रौ), **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) gloss पर्जन्यः as a roaring cloud (मेघ इव), while **Śivasahāya** (_Śiromaṇi_) adds that if पर्जन्यः means Indra, सः refers directly to Rāma. Under the reading महेन्द्रादिव चन्द्रमाः, _Śiromaṇi_ and _Bhūṣaṇa_ explain that Rāma emerges from his palace like the moon rising over Mount Mahendra (महेन्द्राख्यपर्वतविशेषात्). In v. 32c, _Tilaka_ records both चित्रचामर- (“wielding a jewel-handled chowrie”) and चन्द्रचामर- (“moon-white chowrie”), whereas _Bhūṣaṇa_ reads छत्रचामरपाणिः (“holding the parasol in one hand and the chowrie in the other”).
+
+_____________
+
+**2.16.33–34 (halahalāśabdaḥ & the Genitive Absolute)**
+
+All three commentators explain हलहला as an onomatopoeic rendering of the crowd's joyous roar (कलकलादिशब्दः, _Bhūṣaṇa_; अनुकरणम्, _Tilaka_) and construe तस्य निष्क्रममाणस्य as either a genitive absolute (“as Rāma was coming forth”) or modifying जनौघस्य.
+
+_____________
+
+**2.16.35–36 (āśaṃsavaḥ & the Vanguard)**
+
+Before Rāma march sandal-anointed warriors bearing swords and bows, uttering blessings (आशंसवः = भद्रमिति शेषः, _Tilaka_; रामश्रेय आशंसमानाः, _Bhūṣaṇa_).
+
+_____________
+
+**2.16.37–38 (harmyavātāyanasthābhiḥ & rāmapiprīṣayā)**
+
+As lion-roars echo along the avenue, women at the palace lattice-windows (हर्म्यवातायनस्थाभिः = प्रासादगवाक्षस्थाभिः, _Śiromaṇi_, _Bhūṣaṇa_) shower Rāma with blossoms. All three gloss the desiderative noun पिप्रीषा as the desire to please (प्रीणनेच्छा, _Tilaka_, _Bhūṣaṇa_; रामतुष्टीच्छया, _Śiromaṇi_), and cite वदि अभिवादनस्तुत्योः to gloss ववन्दिरे as “they praised” (अस्तुवन्).
+
+_____________
+
+**2.16.39–40 (siddhayātram & Praise of Kausalyā and Sītā)**
+
+Women on the terraces and on the street (हर्म्यस्थाः क्षितिस्थाश्च) hail Kausalyā's joy at seeing Rāma's procession achieve its fruit (सिद्धयात्रम् = सफलगमनम्, _Tilaka_, _Bhūṣaṇa_) and attain his ancestral kingdom (पित्र्यं राज्यम्). They also deem Sītā the foremost of all women (सर्वसीमन्तिनीभ्यः सीमन्तिनीवराम्).
+
+_____________
+
+**2.16.41–42 (rohiṇīva śaśāṅkena & Sītā's Austerity)**
+
+Explaining why Sītā excels all women (तच्छ्लोकार्थहेतुत्वेनाह, _Bhūṣaṇa_), they exclaim that she practiced great austerity (महत्तपः सुचरितम्) to win union with Rāma like Rohiṇī with the moon. **Śivasahāya** (_Śiromaṇi_) notes that प्रासादशृङ्गेषु synecdochically includes the women on the ground (क्षितेरप्युपलक्षकः).
+
+_____________
+
+**2.16.43–45 (ātmādhikārā vācaḥ & the Citizens' Acclaim)**
+
+In _Upajāti_ and _Indravajrā_, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) gloss आत्माधिकाराः as speeches centered upon Rāma (आत्मानमधिकृत्य प्रवृत्ताः). Combining present and future in श्रियं गच्छति... गमिष्यन्, _Tilaka_ and _Bhūṣaṇa_ explain that Rāma goes to his father's palace to receive vast royal fortune (श्रियं प्राप्तुं गच्छति), while the citizens rejoice that under his rule (मनुजाधिपेऽस्मिन्) none will ever see sorrow (अप्रियं प्रियाभावं दुःखमनिष्टं च न पश्येत्).
+
+_____________
+
+**2.16.46 (svastikasūtamāgadhaiḥ & the Three Classes of Panegyrists)**
+
+All three distinguish the heraldic classes in स्वस्तिकसूतमागधैः: स्वस्तिकाः are bards crying “Victory!” (जयजयेति मङ्गलं प्रयुञ्जाना बन्दिनः, _Tilaka_, _Bhūṣaṇa_); सूताः are Paurāṇika eulogists (ब्राह्मण्यां क्षत्रियाज्जाताः, _Bhūṣaṇa_); and मागधाः are genealogists (वंशपाठकाः, _Tilaka_, _Śiromaṇi_; मागधः क्षत्रियाविशोः, Amarakośa, _Bhūṣaṇa_).
+
+_____________
+
+**2.16.47 (paripūrṇacatvaram & the Grand Highway)**
+
+Closing in _Vaṃśastha_, **Śivasahāya** (_Śiromaṇi_) glosses चत्वराः as crossroads (चतुष्पथाः), पण्यसंचयम् as heaps of market wares (आपणद्रव्याणां संचयः), and महापथम् as the spotless royal highway (राजमार्गम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

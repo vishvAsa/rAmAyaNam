@@ -83,6 +83,14 @@ Upon Sagara’s passing, the ministers and subjects enthrone the righteous Aṃ�
 
 “When Sagara had succumbed to the law of Time (_kāladharmaṃ gate rāma sagare_), O Rāma, the ministers and subjects chose the supremely righteous Aṃśumān as their king (_prakṛtījanāḥ rājānaṃ rocayām āsur aṃśumantaṃ sudhārmikam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.1–2 (kāladharmam & prakṛtījanāḥ)**
+
+**Govindarāja (_Bhūṣaṇa_)** defines _kāladharma_ as death—the inevitable law of Time awaiting every born creature (_jātamātrasya kālenāvaśyaṃ prāptavyo dharmaḥ_). On the lengthened _ī_ in _prakṛtījanāḥ_ (‘ministers and subjects’, citing _Vaijayantī_: _prakṛtiḥ sahaje yonāv amātye paramātmani_), **Tilaka** and **Govindarāja** call it an archaic license (_dīrghaś chāndasaḥ_), whereas **Śiromaṇi** justifies it by Pāṇini 6.3.65 (_kṛdikārād aktinaḥ_) because _prakṛti_ functions here as a conventional noun (_saṃjñā_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -178,6 +186,14 @@ Assigning the kingdom to Dileepa, oh, Rama of Raghu's dynasty, Amshuman
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having made over the kingdom to that Dilīpa (_tasmai rājyaṃ samādiśya dilīpe_), O delight of the Raghus, Aṃśumān practiced most severe austerity upon a lovely peak of Himavān (_himavacchikhare ramye tapas tepe sudāruṇam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.3–4 (himavacchikhare & svargaṃ lebhe)**
+
+Why did Aṃśumān abdicate in favor of Dilīpa (_tasmai dilīpe = dilīpāya_, **Tilaka**) and perform severe penance on Himavān? All three commentators supply the purpose: to bring Gaṅgā down to earth for his uncles’ salvation (_pitṛgataye gaṅgāyā bhūlokāvatāraṇāya_, **Tilaka**). Yet as **Govindarāja** and **Śiromaṇi** emphasize, despite thirty-two thousand years of penance he attained only heaven, not Gaṅgā (_svargaṃ lebhe na tu gaṅgām_).
 </details>
 </details>
 
@@ -290,6 +306,14 @@ The great resplendent Dileepa on hearing the elimination of his grandfathers,
 
 “Dilīpa of great splendor, however, having heard of the slaughter of his grand-uncles (_dilīpas tu mahātejāḥ śrutvā paitāmahaṃ vadham_), could not arrive at any definite means with his mind overwhelmed by sorrow (_duḥkhopahatayā buddhyā niścayaṃ nādhyagacchata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.5 (paitāmahaṃ vadham & duḥkhopahatayā)**
+
+**Tilaka** and **Govindarāja** gloss _vadham_ as untimely death (_apamṛtyum_). Why was Dilīpa’s intellect paralyzed by grief? **Govindarāja** explains: he grieved that even after his father Aṃśumān’s grueling austerity, his grand-uncles remained unredeemed (_pitrā duścare tapasi kṛte ’pi teṣāṃ gatir nābhūt_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -348,6 +372,14 @@ Dileepa became worried as to how River Ganga is to be alighted onto
 
 “‘How can the descent of Gaṅgā be brought about (_kathaṃ gaṅgāvataraṇam_)? How can their obsequial water-rite be performed (_kathaṃ teṣāṃ jalakriyā_)? And how may I deliver them (_tārayeyaṃ kathaṃ caitān_)?’—thus he remained ever absorbed in anxious thought (_iti cintāparo ’bhavat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.6 (kathaṃ gaṅgāvataraṇam)**
+
+Both **Tilaka** and **Govindarāja** note that v. 6 dramatizes (_abhinayati_) Dilīpa’s inner anguish. **Śiromaṇi** traces the three questions as a strict causal chain: how can Gaṅgā be brought down? Without her descent, how can the funeral libation (_jalakriyā_) be offered to ancestors who died an untimely death? And since no other water can save them (_jalāntareṇa eṣāṃ taraṇaṃ na bhaviṣyati_), how can I deliver them?
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -396,6 +428,14 @@ To him who is self-mortified and who is always thinking righteously
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “To him who was constantly pondering thus and whose very soul was renowned through _dharma_ (_tasya cintayato nityaṃ dharmeṇa viditātmanaḥ_), there was born a supremely righteous son named Bhagīratha (_putro bhagīratho nāma jajñe paramadhārmikaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.7–8 (dharmeṇa viditātmanaḥ & rājyam akārayat)**
+
+**Tilaka** glosses _dharmeṇa viditātmanaḥ_ as ‘renowned through righteousness’ (_dharmeṇa prasiddhaḥ_), while **Govindarāja** construes _dharmeṇa_ as the motivating cause of his constant reflection (_dharmeṇa prayojakena cintayataḥ_). On _rājyam akārayat_, all three commentators note the non-causative _ṇic_ (_svārthe ṇic_, equivalent to _akarot_).
 </details>
 </details>
 
@@ -493,6 +533,14 @@ Oh, tigerly-man Rama, that king Dileepa by not attaining any choice
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Without arriving at a definite means for their deliverance (_agatvā niścayaṃ rājā teṣām uddharaṇaṃ prati_), O tiger among men, the king succumbed to the law of Time through an illness (_vyādhinā naraśārdūla kāladharmam upeyivān_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.9–10 (vyādhinā & Two Dilīpas in Ikṣvāku’s Line)**
+
+**Tilaka** explains that Dilīpa’s fatal illness arose from his unceasing sorrow at failing to rescue his ancestors (_pitṝṇām uddharaṇālābhajanyaduḥkhajena vyādhinā_). Crucially, **Tilaka** cautions readers that this early Dilīpa (father of Bhagīratha) is distinct from his later descendant Dilīpa (father of Raghu) celebrated by Kālidāsa (_taddilīpavaṃśajo raghuputrako dilīpaḥ kālidāsokto ’nya eveti bodhyam_).
 </details>
 </details>
 
@@ -635,6 +683,14 @@ The five-fires are *pancaagni-s* the four earthly fires in four
 
 **12:** “—and that kingdom to his ministers (_mantriṣv ādhāya tad rājyam_), and, intent upon bringing about the descent of Gaṅgā (_gaṅgāvataraṇe rataḥ_), entered upon a long austerity at Gokarṇa, O delight of the Raghus (_tapo dīrghaṃ samātiṣṭhad gokarṇe raghunandana_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.11–12 (sa ca prajāḥ & gokarṇe)**
+
+In the Southern reading _prajākāmaḥ sa ca prajāḥ_, **Tilaka** construes the accusative plural _prajāḥ_ across the verse boundary (_yugmakam_) with _mantriṣv ādhāya_: desiring offspring to prevent his line’s extinction, Bhagīratha placed his subjects (_prajāḥ_) and kingdom (_tad rājyam_) in the care of his ministers (whereas **Govindarāja** and **Śiromaṇi** read _sa cāprajaḥ_, ‘being childless’). Both **Tilaka** and **Govindarāja** identify _Gokarṇa_ either as a sacred peak at the foot of Himavān (_himavatpādaviśeṣaḥ_) or as the southern Śaiva pilgrimage site.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,6 +723,14 @@ The five-fires are *pancaagni-s* the four earthly fires in four
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With arms upraised, practicing the five-fire penance, partaking of food only once a month, and having conquered his senses (_ūrdhvabāhuḥ pañcatapā māsāhāro jitendriyaḥ_), as he stood in that terrible austerity, thousands of years (_tasya varṣasahasrāṇi ghore tapasi tiṣṭhataḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.13 (ūrdhvabāhuḥ pañcatapā māsāhāraḥ)**
+
+All three commentators explain _pañcatapāḥ_ as performing penance amidst five fires—four blazing fires kindled in the four cardinal directions and the scorching sun overhead (_pañcāgnimadhye tapo yasya_)—while _māsāhāraḥ_ means taking nourishment only once at the end of each month (_māse gate āhāro yasya_). **Govindarāja** notes that both are middle-term-eliding compounds (_madhyamapadalopī samāsaḥ_) sanctioned under the _pṛṣodarādi_ class.
 </details>
 </details>
 
@@ -744,6 +808,14 @@ Forefather Brahma then arrived along with assemblages of gods, and
 
 **15:** “Then approaching accompanied by the hosts of gods, the Grandfather (_tataḥ suragaṇaiḥ sārdham upāgamya pitāmahaḥ_) spoke thus to the high-souled Bhagīratha as he was performing penance (_bhagīrathaṃ mahātmānaṃ tapyamānam athābravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.14–15 (varṣasahasrāṇy atītāni & pitāmahaḥ)**
+
+**Tilaka** and **Śiromaṇi** construe the genitive _tasya rājño mahātmanaḥ_ with _suprīto bhagavān brahmā_: after thousands of years of fierce austerity had elapsed, Lord Brahmā, pleased with that high-souled king, came in person with the hosts of gods.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -808,6 +880,14 @@ Oh, great king Bhageeratha, oh, lord of the people, I am delighted
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘O great king Bhagīratha, lord of men, I am pleased with you and with your well-performed austerity (_bhagīratha mahārāja prītas te ’haṃ janādhipa tapasā ca sutaptena_); choose a boon, O hero of noble vows (_varaṃ varaya suvrata_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.16–18 (yady asti tapasaḥ phalam & salilam āpnuyuḥ)**
+
+When Bhagīratha says ‘if there is fruit to my penance’ (_yady asti tapasaḥ phalam_), does he doubt the efficacy of _tapas_? **Tilaka** explains that this conditional phrasing expresses unshakable conviction through polite deference, just like the Vedic idiom ‘if the Vedas be authoritative’ (_āstikyasaṃdigdhe saṃdigdhavacanaṃ vedāś cet pramāṇaṃ syur itivat_).
 </details>
 </details>
 
@@ -970,6 +1050,14 @@ While the ashes of these great souls are drenched with the waters
 
 “‘When the ashes of these high-souled ones are moistened by the water of Gaṅgā (_gaṅgāyāḥ salilaklinne bhasmany eṣāṃ mahātmanām_), may all my great-grandfathers ascend to everlasting heaven (_svargaṃ gaccheyur atyantaṃ sarve ca prapitāmahāḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.19 (gaṅgāyāḥ salilaklinne & atyantam)**
+
+Clarifying what kind of water he seeks in v. 18 (_abhīṣṭaviśeṣaguṇakasalilaprāptim_, **Tilaka**), Bhagīratha specifies that when their ashes are drenched by Gaṅgā’s stream, all his great-grandfathers (_prapitāmahāḥ_) should attain _atyantaṃ svargam_—which **Tilaka**, **Govindarāja**, and **Śiromaṇi** all gloss as imperishable, unending heaven (_antam dhvaṃsam atikrāntam akṣayyam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1017,6 +1105,14 @@ Oh, god, I indeed pray for offspring in our Ikshvaku dynasty, let
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘And O Lord, I pray for progeny, so that our lineage may not sink into extinction (_deva yāce ha saṃtatyai nāvasīdet kulaṃ ca naḥ_); in the house of the Ikṣvākus, O Lord, let this be my second supreme boon (_ikṣvākūṇāṃ kule deva eṣa me ’stu varaḥ paraḥ_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.20 (saṃtatyai & varaḥ paraḥ)**
+
+Why does Bhagīratha ask for progeny (_saṃtatyai_) as his second boon (_varaḥ paraḥ = dvitīyo varaḥ_)? **Govindarāja** recalls v. 11 (_prajākāmaḥ_)—even when departing for penance, he desired an heir so the Ikṣvāku line would not perish (_nāvasīdet kulaṃ ca naḥ_). **Tilaka** remarks that by praying first for his ancestors’ liberation and second for posterity, Bhagīratha’s benevolence toward both past and future generations is shone forth (_pūrvaparopakāritā bhagīrathasya darśitā_).
 </details>
 </details>
 
@@ -1079,6 +1175,14 @@ The Forefather of all the worlds, Brahma, then replied the king who
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “To the king who had spoken thus, the Grandfather of all the worlds replied (_uktavākyaṃ tu rājānaṃ sarvalokapitāmahaḥ pratyuvāca_) with an auspicious speech that was sweet in meaning and sweet in its syllables (_śubhāṃ vāṇīṃ madhurāṃ madhurākṣarām_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.21–22 (madhurāṃ madhurākṣarām & evaṃ bhavatu)**
+
+**Govindarāja** and **Śiromaṇi** distinguish _madhurām_ (delightful in its substance and meaning, _manoharām_) from _madhurākṣarām_ (melodious in its syllables). By pronouncing _evaṃ bhavatu_ and addressing Bhagīratha as _ikṣvākukulavardhana_ (‘increaser of Ikṣvāku’s line’), Brahmā grants both boons at once.
 </details>
 </details>
 
@@ -1181,6 +1285,14 @@ This Ganga is the one with snow-broth, the elder daughter of Himavanta,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘This Haimavatī Gaṅgā is the eldest daughter of Himavān (_iyaṃ haimavatī jyeṣṭhā gaṅgā himavataḥ sutā_); to sustain her descent in that task, O King, let Lord Hara (Śiva) be entreated (_tāṃ vai dhārayituṃ rājan haras tatra niyujyatām_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.23–24 (iyaṃ haimavatī & nānyaṃ paśyāmi śūlinaḥ)**
+
+Why does Brahmā use the proximate pronoun _iyam_ (‘this Gaṅgā’)? **Tilaka** explains that celestial Gaṅgā was standing right beside Brahmā (_svasamīpe sthitatvād iyam iti nirdeśaḥ_), while **Govindarāja** takes it as pointing to her proximity to Himavān where Bhagīratha was performing penance. Because the earth cannot withstand her torrential fall, none save the trident-wielder Śiva (_Śūlinaḥ_) can bear her; hence Śiva must be propitiated (_niyujyatāṃ prārthyatām_).
 </details>
 </details>
 
@@ -1303,6 +1415,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having spoken thus to that king and having addressed Gaṅgā as well, the Creator of the worlds (_tam evam uktvā rājānaṃ gaṅgāṃ cābhāṣya lokakṛt_) departed to the third heaven accompanied by all the gods and the hosts of Maruts (_jagāma tridivaṃ devaiḥ sarvaiḥ saha marudgaṇaiḥ_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**42.25 & Colophon (gaṅgāṃ cābhāṣya)**
+
+What did Brahmā say when addressing Gaṅgā (_gaṅgāṃ cābhāṣya_) before ascending to heaven? Both **Tilaka** and **Govindarāja** supply his paternal directive: “My child, bestow your grace upon the king at the proper time!” (_vatse rājānaṃ yathākālam anugṛhāṇety uktvā_).
 </details>
 </details>
 

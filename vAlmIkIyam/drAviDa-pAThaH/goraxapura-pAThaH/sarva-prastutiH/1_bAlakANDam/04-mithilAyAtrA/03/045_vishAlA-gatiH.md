@@ -79,6 +79,14 @@ Lakshmana, Rama went into a great astonishment, and then addressed Vishvamitra.
 
 Hearing the words of Viśvāmitra, Rāghava together with Lakṣmaṇa (_rāghavaḥ sahalakṣmaṇaḥ_) was filled with supreme wonder (_vismayaṃ paramaṃ gatvā_) and spoke thus to Viśvāmitra:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.1–2 (Architectural Transition & sāgarasya pūraṇam)**
+
+**Govindarāja (_Bhūṣaṇa_)** opens Sarga 45 with a structural overview: having demonstrated in the preceding ten sargas (35–44) the subordinate status of the other gods through the birth of Skanda and the descent of Gaṅgā, Viśvāmitra will now demonstrate in three sargas (45–47) the subordinate status of Mahendra himself (_tribhiḥ sargaiḥ mahendrasyāvaratvam upapādyate_). **Tilaka** supplies ‘at the close of night’ at v. 1 (_abravīt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +183,14 @@ while we were thinking about the episode you have narrated in its entirety. [1-4
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “As the two of us pondered in its entirety this whole narrative of yours (_imāṃ cintayatoḥ sarvāṃ nikhilena kathāṃ tava_), O scorcher of foes (_paraṃtapa_), this night has passed away as though it were a single moment (_kṣaṇabhūteva nau rātriḥ saṃvṛtteyam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.3–4 (kṣaṇabhūteva nau rātriḥ)**
+
+Both **Govindarāja** and **Śiromaṇi** note that in their manuscripts v. 3 (_kṣaṇabhūteva..._) stands immediately after v. 6ab (_gatā bhagavatī rātriḥ_), matching Baroda CE 1.44.5, whereas **Tilaka** comments on it as v. 3 and explains v. 4 as the poet’s own reiteration to emphasize Rāma’s reverent absorption (_uktasyaivārthasyādarātiśayabodhanāya punar upādānam_).
 </details>
 </details>
 
@@ -278,6 +294,14 @@ performed his daily chores of rituals. [1-45-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, when the clear dawn broke (_tataḥ prabhāte vimale_), the tamer of foes, Rāghava, spoke these words to Viśvāmitra, rich in penance, after the sage had completed his morning rites (_kṛtāhnikam ariṃdamaḥ_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.5–6 (bhagavatī rātriḥ)**
+
+Why does Rāma call the night _bhagavatī_ (‘revered, blessed’)? Both **Tilaka** and **Govindarāja** explain that the night itself became worthy of worship because it was spent listening to the sanctifying story of Gaṅgā (_gaṅgākathāśravaṇāt pūjyā_).
 </details>
 </details>
 
@@ -391,6 +415,14 @@ it." Thus Rama spoke to Vishvamitra. [1-45-7]
 
 “For this comfortable and well-spread boat belonging to the sages of holy deeds (_naur eṣā hi sukhāstīrṇā ṛṣīṇāṃ puṇyakarmaṇām_), learning that Your Reverence has arrived here, has come in haste (_bhagavantam iha prāptaṃ jñātvā tvaritam āgatā_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.7–8 (sukhāstīrṇā nauḥ & saṃtāraṃ kārayām āsa)**
+
+**Śiromaṇi** explains _sukhāstīrṇā_ as a boat comfortably furnished with cushions and seating (_sukham āstīrṇam āstaraṇaṃ yasyāṃ sā_), sent by the sages of the northern bank as soon as they heard of Viśvāmitra’s arrival. On _kārayām āsa_ (v. 8), **Tilaka** takes the causative literally, supplying ‘by means of the boatmen’ (_nāvikair iti śeṣaḥ_), whereas **Govindarāja** and **Śiromaṇi** read _sarṣisaṃghaḥ sarāghavaḥ_ and take the causative in a non-causative sense (_svārthe ṇic_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -493,6 +525,14 @@ of Ganga they have seen the city called Vishaala. [1-45-9]
 
 Reaching the northern bank and paying honour to the assembly of sages there (_uttaraṃ tīram āsādya saṃpūjyarṣigaṇaṃ tataḥ_), they seated themselves upon the bank of the Gaṅgā and beheld the city of Viśālā (_gaṅgākūle niviṣṭās te viśālāṃ dadṛśuḥ purīm_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.9–10 (Arrival at the Northern Bank & Sight of Viśālā)**
+
+Upon reaching the northern bank (_uttaraṃ tīram_), they honour and bid farewell to the sages who had brought the ferry-boat (_nautāraṇārtham āgataṃ saṃpūjya pūjāpūrvakaṃ visṛjya_, **Govindarāja**), rest briefly on the bank, and behold the celestial city of Viśālā before walking swiftly toward it.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -587,6 +627,14 @@ his palms, and enquired about the prominent city Vishala with the great Sage Vis
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon Rāma of profound wisdom, joining his palms in reverence (_papraccha prāñjalir bhūtvā_), questioned the great sage Viśvāmitra concerning that supreme city of Viśālā (_viśālām uttamāṃ purīm_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.11–12 (Rāma’s Twofold Question)**
+
+Both **Govindarāja** and **Śiromaṇi** observe that Rāma asks two distinct questions: first in v. 11 concerning the ancient origin and greatness of the city itself (_viśālām_), and second in v. 12 concerning the royal lineage currently reigning there (_viśālāyāṃ vartamāno rājavaṃśaḥ katara iti dvitīyaḥ praśnaḥ_).
 </details>
 </details>
 
@@ -696,6 +744,14 @@ narrate the legend of ancient Vishaala. [1-45-13]
 
 Hearing those words of Rāma, the bull among sages (_tasya tad vacanaṃ śrutvā rāmasya munipuṃgavaḥ_) began to recount the ancient history of Viśālā (_ākhyātuṃ tat samārebhe viśālāyāḥ purātanam_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.13–14 (Why Viśālā’s History Begins with Indra)**
+
+**Tilaka** explains _viśālāyāḥ purātanam_ as the ancient history of the region prior to the founding of the city, while **Govindarāja** and **Śiromaṇi** (reading _viśālasya purātanam_) explain that Viśvāmitra answers Rāma’s two questions in order: first the prehistory of the land where Indra performed penance after slaying Diti’s embryo (Sargas 45–46), and then the founding of Viśālā by King Viśāla (Sarga 47). Thus the _Śakrakathā_ (Indra’s story) is the indispensable prelude to Viśālā’s history (_indrakathā viśālākathopayoginīti sūcitam_, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -802,6 +858,14 @@ gave birth to the progeny of sura-s, later generally called as
 
 “Formerly in the Kṛtayuga, O Rāma, the sons of Diti were possessed of mighty strength (_pūrvaṃ kṛtayuge rāma diteḥ putrā mahābalāḥ_), and the illustrious sons of Aditi were valorous and eminently righteous (_aditeś ca mahābhāgā vīryavantaḥ sudhārmikāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.15–16 (Diti’s & Aditi’s Sons in the Kṛtayuga)**
+
+**Tilaka** notes that the epithet _sudhārmikāḥ_ (‘eminently righteous’) applies specifically to the sons of Aditi (_aditiputraviśeṣaṇam_), foreshadowing why Viṣṇu will ultimately favour them. Seeking freedom from death (_amarāḥ_), old age (_vijarāḥ_), and disease (_nirāmayāḥ_), both cousin-clans deliberate together.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -905,6 +969,14 @@ them up, 'we indeed can get elixir of life by churning the Milky Ocean.' [1-45-1
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “As those wise ones reflected thus, this resolve arose in them (_teṣāṃ cintayatāṃ tatra buddhir āsīd vipaścitām_): ‘By churning the Ocean of Milk, we shall surely obtain the immortal essence therein (_kṣīrodamathanaṃ kṛtvā rasaṃ prāpsyāma tatra vai_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.17–18 (rasa, yoktra, & manthāna)**
+
+All three commentators gloss _rasam_ as the elixir of immortality (_amṛtarūpaṃ rasāyanam_, **Tilaka**), _yoktram_ as the churning-rope (_mathanarajjum_), and _manthānam_ as the churning-rod (_mathanadaṇḍam_).
 </details>
 </details>
 
@@ -1018,6 +1090,14 @@ the holocaustic poison called *haalaahala*. [1-45-19]
 
 “Then, after a thousand years (_atha varṣasahasreṇa_), the heads of the serpent serving as the churning-rope (_yoktrasarpaśirāṃsi ca_), vomiting forth exceeding venom, bit the rocks of the mountain with their fangs (_vamanto ’tiviṣaṃ tatra dadaṃśur daśanaiḥ śilāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.19–20 (Origin of Hālāhala & Textual Status of vv. 19–31)**
+
+At the close of this sarga, **Rāma Varmā (_Tilaka_)** records a crucial philological note: many authorities regard the thirteen stanzas from _atha varṣasahasreṇa_ (v. 19) to _āyurvedamayaḥ pumān_ (v. 31) as an interpolation (_trayodaśa ślokāḥ prakṣiptā iti bahavaḥ_), arguing that just as Vālmīki omits Rāhu’s decapitation, he originally omitted the Hālāhala and Kūrma episodes; nevertheless both **Tilaka** and **Śiromaṇi** comment on every verse. In v. 19, **Tilaka** notes that the rock-fragments bitten by Vāsuki’s fangs themselves turned into the blazing Hālāhala poison (_daṣṭaśilākhaṇḍā eva mahāviṣarūpaṃ bhūtvotpapāta_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1112,6 +1192,14 @@ and they prayed to him saying 'save, save us.' [1-45-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Seeking refuge, the gods then repaired to Mahādeva—Śaṅkara, Paśupati, Rudra (_atha devā mahādevaṃ śaṅkaraṃ śaraṇārthinaḥ jagmuḥ paśupatiṃ rudram_)—and praised him, crying: ‘Save us! Save us (_trāhi trāhīti tuṣṭuvuḥ_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.21–22 (The Epiphany of Śiva & Viṣṇu)**
+
+**Śiromaṇi** takes _dagdham_ in v. 20 as an inceptive past participle (_dagdhum ārebhe_—‘began to burn’, Pāṇini 3.4.71), prompting the gods’ mental flight to Śaṅkara (_jagmuḥ manaseti śeṣaḥ_), whereupon both Śiva (_prabhuḥ_) and Viṣṇu holding conch and discus manifest on the spot.
 </details>
 </details>
 
@@ -1232,6 +1320,14 @@ to your godhood'. [1-45-23, 24]
 
 **24:** “‘That belongs rightfully to you, O foremost of the gods, inasmuch as you stand at the head of the celestials (_tat tvadīyaṃ suraśreṣṭha surāṇām agrato hi yat_); remaining here, O Lord, accept this poison as the first-offering of worship (_agrapūjām iha sthitvā gṛhāṇedaṃ viṣaṃ prabho_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.23–24 (smitaṃ kṛtvā & agrapūjā)**
+
+**Tilaka** notes the subtle irony in Viṣṇu’s smile (_chalena viṣadānāt smitam_): addressing Rudra as foremost of the gods (_surāṇām agrataḥ_), Hari honors him with the deadly venom as the ‘first-offering’ (_agrapūjā_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1318,6 +1414,14 @@ the Milky Ocean. [1-45-26b, 27a]
 
 **26:** “The Sovereign Lord of the gods, the blessed Hara, took up that dreadful Hālāhala poison as though it were nectar (_hālāhalaṃ viṣaṃ ghoraṃ saṃjagrāhāmṛtopamam_); and taking leave of the gods, he departed (_devān visṛjya deveśo jagāma bhagavān haraḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.25–26 (Śiva Swallows the Poison & Departs)**
+
+Both **Tilaka** and **Śiromaṇi** identify _suraśreṣṭhaḥ_ in v. 25a as Viṣṇu (_śārṅgiṇaḥ_). Moved by the gods’ terror and Hari’s words, Lord Hara swallows the dreadful venom so that it becomes harmless as nectar in his throat (_amṛtopamaṃ yathā syāt tathā saṃjagrāha kaṇṭhe dadhāra_, **Śiromaṇi**). Why does Śiva then leave the churning (_devān visṛjya jagāma_)? **Tilaka** explains that although he had been assisting the gods, the burning fever of the venom caused him to withdraw to the cool waters of Amṛtakuṇḍa (_viṣapānānantaraṃ tatpīḍayā tāṃs tyaktvā jagāma amṛtakuṇḍam iti śeṣaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1370,6 +1474,14 @@ to Madhusuudana, the other name of Vishnu. [1-45-27b, 28a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thereupon all the gods and asuras resumed their churning, O delighter of the Raghus (_tato devāsurāḥ sarve mamanthū raghunandana_); and then the foremost of mountains, serving as the churning-staff, sank down into Pātāla (_praviveśātha pātālaṃ manthānaḥ parvatottamaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.27–28 (Mandara Sinks into Pātāla)**
+
+As the gods and asuras churn again without support beneath the mountain, Mount Mandara plunges into the subterranean abyss (_pātālaṃ praviveśa_), prompting the celestials to invoke Madhusūdana as the sole refuge of the heaven-dwellers.
 </details>
 </details>
 
@@ -1472,6 +1584,14 @@ he lay recumbent at the bottom of Milky Ocean as a base to the stirrer. [1-45-29
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Protect us, O mighty-armed Lord; deign to lift up the mountain (_pālayāsmān mahābāho girim uddhartum arhasi_)!’ Hearing this prayer, Hṛṣīkeśa assumed the form of a mighty Tortoise (_iti śrutvā hṛṣīkeśaḥ kāmaṭhaṃ rūpam āsthitaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.29–30 (Kūrmāvatāra — Twofold Cosmic Support)**
+
+Assuming the form of a cosmic Tortoise (_kāmaṭhaṃ kācchapam_, **Tilaka**), Hari lies beneath the ocean bearing Mandara on His shell while simultaneously stabilizing the mountain’s peak with His upper hand (_parvatāgraṃ hastenākramya_).
 </details>
 </details>
 
@@ -1589,6 +1709,14 @@ from the Milky Ocean. [1-45-31b, 32]
 
 **32:** “Rose up, deeply righteous of soul, bearing a staff and water-jar (_udatiṣṭhat sudharmātmā sadaṇḍaḥ sakamaṇḍaluḥ_)—first Dhanvantari by name, and thereafter the Apsarases of radiant splendour (_pūrvaṃ dhanvantarir nāma apsarāś ca suvarcasaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.31–32 (Puruṣottama’s Wonder-Working Power & Dhanvantari)**
+
+**Tilaka** highlights the marvel in vv. 30–31: Viṣṇu simultaneously lies beneath the ocean as the Tortoise, presses down the mountain’s peak from above, and stands among the gods pulling the churning-rope—manifesting His inconceivable omnipotence (_anena śaktir acintyā prakaṭīkṛtam_). First to rise from the churned depths is Dhanvantari, the personification of Āyurveda, holding staff and water-pot (_sadaṇḍaḥ sakamaṇḍaluḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1639,6 +1767,14 @@ Apsara-s. [1-45-33]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Because those peerless women sprang forth from the essence produced by the churning within the waters (_apsu nirmathanād eva rasāt tasmād varastriyaḥ utpetuḥ_), O best of men, they came to be called _Apsarases_ (_tasmād apsaraso ’bhavan_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.33–34 (Etymology & Number of the Apsarases)**
+
+All three commentators explain the nirukti of _apsaras_: here _apsu_ denotes the milk of the Milk Ocean as a modification of water (**Tilaka**, **Govindarāja**), and because these fair women sprang from the essence (_rasāt_) of its churning, they are named _Apsarases_ (formed by _pṛṣodarādi_ sandhi). Sixty crores are principal nymphs (_pradhānabhūtānām_), attended by unnumbered handmaidens.
 </details>
 </details>
 
@@ -1753,6 +1889,14 @@ Pt. Satya Vrat - Ramayana - A Linguistic Study.
 
 “Neither the gods nor the Dānavas accepted them in marriage (_na tāḥ sma pratigṛhṇanti sarve te devadānavāḥ_); and because of that non-acceptance, they are remembered as common to all (_apratigrahaṇād eva tā vai sādhāraṇāḥ smṛtāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.35 (Why the Apsarases Are sādhāraṇāḥ)**
+
+Because the Apsarases did not seek exclusive marriage with any single husband (_viśiṣya patyanicchayaiva sthitvāt_, **Tilaka**; _ko vā mama patir iti mārgaṇākaraṇāt_, **Govindarāja**), neither the gods nor the Dānavas wedded them exclusively, leaving them _sādhāraṇāḥ_ (courtesans common to all).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1808,6 +1952,14 @@ who incidentally is the presiding deity of hard liquors and also called as *sura
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, O delighter of the Raghus, Varuṇa’s daughter Vāruṇī, of great fortune (_varuṇasya tataḥ kanyā vāruṇī raghunandana_), rose up from the ocean, seeking acceptance in marriage (_utpapāta mahābhāgā mārgamāṇā parigraham_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.36–37 (Vāruṇī & Why She Is aninditā)**
+
+Unlike the Apsarases who sought no exclusive spouse (v. 35), Varuṇa’s daughter Vāruṇī—the presiding deity of wine (_surādhidevatā_)—rises actively seeking acceptance (_mārgamāṇā parigraham_). Why does Vālmīki call her _aninditām_ (‘blameless’) when scripture forbids wine? **Tilaka** and **Govindarāja** explain that the Vedic prohibition against liquor applies only to mortals and flour-distilled spirits (_piṣṭādivikṛtir eva surā nindyā_, **Govindarāja**; whereas deities fall outside that prohibition, **Tilaka**), not to the celestial goddess.
 </details>
 </details>
 
@@ -1908,6 +2060,14 @@ called *suraa*-s, and gods are delighted and rejoiced on espousing Vaaruni.
 
 “Therefore the sons of Diti came to be called _Asuras_, and therefore the sons of Aditi became _Suras_ (_asurās tena daiteyāḥ surās tenāditeḥ sutāḥ_); and by accepting Vāruṇī, the Suras became joyful and jubilant (_hṛṣṭāḥ pramuditāś cāsan vāruṇīgrahaṇāt surāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.38 (Nirukti of Asura & Sura & Harmonization with the Bhāgavata)**
+
+From rejecting Surā, Diti’s sons became _Asuras_ (bahuvrīhi), and from accepting her, Aditi’s sons became _Suras_ (_arśa-ādi ac_ suffix). **Śiromaṇi** ingeniously reconciles this with _Bhāgavata Purāṇa_ 8.8.11 (_asurā jagṛhus tāṃ vai_) by splitting _asurāḥ = a-surāḥ_ or taking _jagṛhuḥ = surair grāhayām āsuḥ_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1954,6 +2114,14 @@ Supreme ambrosial elixir of gods, have also emerged. [1-45-39]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then arose Uccaiḥśravas, the foremost of steeds, and the jewel-treasure Kaustubha (_uccaiḥśravā hayaśreṣṭho maṇiratnaṃ ca kaustubham_), O best of men, and likewise the supreme Nectar of Immortality (_udatiṣṭhan naraśreṣṭha tathaivāmṛtam uttamam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.39–40 (Uccaiḥśravas, Kaustubha, & Amṛta)**
+
+**Śiromaṇi** notes that because war broke out solely over the Amṛta (_tasya kṛte_), Uccaiḥśravas and Kaustubha had already been amicably apportioned (Uccaiḥśravas to the Asuras/Indra, Kaustubha to Viṣṇu).
 </details>
 </details>
 
@@ -2062,6 +2230,14 @@ real and surreal spheres. [1-45-41]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then all the Asuras united into a single league with the Rākṣasas (_ekatām agaman sarve asurā rākṣasaiḥ saha_), and there ensued a dreadfully fierce battle, O hero, that bewildered the three worlds (_yuddham āsīn mahāghoraṃ vīra trailokyamohanam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.41–42 (The Asura-Rākṣasa Alliance & mohinī māyā)**
+
+Depleted by the initial clash (_kulakṣayaḥ_, v. 40), the Asuras ally with the Rākṣasas to reinforce their ranks (_balavṛddhyartham_, **Tilaka**, **Govindarāja**). When all the gods grow exhausted (**Śiromaṇi**), Viṣṇu assumes His enchanting _mohinī māyā_—either the form of a bewitching woman who beguiles the Daityas with amorous infatuation (_kāmamohajananīṃ divyayoṣidākṛtim_, **Tilaka**, **Govindarāja**) or an all-bewildering power of invisibility (**Govindarāja**)—and carries off the Amṛta.
 </details>
 </details>
 
@@ -2174,6 +2350,14 @@ has pulverised him. [1-45-43]
 
 “Those who advanced in hostility against Viṣṇu, the imperishable Supreme Person (_ye gatābhimukhaṃ viṣṇum akṣaraṃ puruṣottamam_), were crushed to powder in battle at that time by the all-powerful Viṣṇu (_saṃpiṣṭās te tadā yuddhe viṣṇunā prabhaviṣṇunā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.43 (saṃpiṣṭāḥ vs. saṃviṣṭāḥ / saṃdiṣṭāḥ)**
+
+On the Ārṣa sandhi _ye gatābhimukham_, **Govindarāja** and **Śiromaṇi** record three rich manuscript readings in pāda c: (1) _saṃpiṣṭāḥ_—the Asuras who attacked Viṣṇu in hostility were ‘crushed to powder’; (2) _saṃviṣṭāḥ_—the gods who approached Viṣṇu for refuge ‘entered into renewed strength’ (_āpyāyitabalā āsan_); and (3) _saṃdiṣṭāḥ_—the friendly gods were ‘assigned’ the Amṛta to drink.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2220,6 +2404,14 @@ demonic sons of Diti. [1-45-44]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In that terrible and mighty war between the sons of Diti and the sons of Aditi (_asmin ghore mahāyuddhe daiteyādityayor bhṛśam_), the heroic sons of Aditi slew the sons of Diti (_aditer ātmajā vīrā diteḥ putrān nijaghnire_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**45.44–45 (Indra’s Victory)**
+
+Aided by Viṣṇu’s grace because of their righteousness (_dhārmikatvād viṣṇvanugrahāc ca_, **Tilaka**), Aditi’s sons vanquish the surviving Daityas, and Purandara assumes joyful sovereignty over the three worlds.
 </details>
 </details>
 

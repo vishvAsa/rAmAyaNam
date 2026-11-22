@@ -1067,6 +1067,134 @@ consequence, was unruffled and spoke these words to Kaikeyi.
 
 Hearing that unwelcome speech of the ignoble queen, fraught with dreadful consequences (_dāruṇodayam_), Rāma, wholly free from distress (_gatavyathaḥ_), spoke these words to Kaikeyī:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.19.1–2 (maraṇopamam and evam astu)**
+
+Nāgeśa Bhaṭṭa (_Tilaka_) opens the nineteenth canto by highlighting Rāma’s serene greatness (धीरशान्तमहापुरुषत्वम्) in looking with equal mind upon royal consecration and forest exile (अभिषेकवनवासयोः समचित्ततया). Both _Tilaka_ and Govindarāja (_Bhūṣaṇa_) note that Kaikeyī’s command is “like death” (मरणोपमम्) only from the standpoint of ordinary people (लोकदृष्ट्या) or his father (अप्रियं पितुरिति शेषः [_Śiromaṇi_]). On एवमस्तु (v. 2a), _Tilaka_ points out that since “Rāma does not speak twice,” he seals his promise with a single assent.
+
+_____________
+
+**2.19.3–4 (nābhinandati and brūmi)**
+
+Govindarāja explains that although Kaikeyī already stated the cause of Daśaratha’s silence in 2.18.39, Rāma asks why his father—knowing Rāma’s own detached nature (मत्स्वभावं जानन्)—still hesitates to greet him as before (यथापूर्वम्). In v. 4, _Tilaka_ clarifies that Rāma tells Kaikeyī not to harbor suspicion (मन्युः) merely because he asked about the king’s silence; Śivasahāya (_Śiromaṇi_) notes that ब्रूमि (for ब्रवीमि) exemplifies the non-universal application of the ईट् augment (आगमशास्त्रस्यानित्यत्वादीड्गुणयोरभावः).
+
+_____________
+
+**2.19.5–6 (kṛtajñena and alīkam)**
+
+_Tilaka_ glosses कृतज्ञेन in v. 5b as grateful for even a slight service (स्वल्पकृतस्वाप्याज्ञापनेन). In v. 6, all three commentators gloss अलीकम् as a painful sorrow (दुःखम् / अप्रियम्) burning in Rāma’s heart: namely, that the king did not personally command him regarding Bharata’s consecration (स्वयं यन्नाह मां राजा भरतस्याभिषेचनम्).
+
+_____________
+
+**2.19.7–8 (apracoditaḥ and kiṃ punaḥ)**
+
+Connecting vv. 7–8 as a single syntactic unit (श्लोकद्वयमेकान्वयि), Nāgeśa Bhaṭṭa (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain the _a fortiori_ (किं पुनः) argument: if Rāma would gladly (हृष्टः) give away Sītā, the kingdom, his dear life-breaths, and all wealth to Bharata entirely unprompted (अप्रचोदितः), how much more readily will he yield the kingdom when commanded by his own father the king (मनुजेन्द्रेण स्वयं पित्रा प्रचोदितः), out of desire to please Kaikeyī (तव च प्रियकामार्थम्), and to uphold the king’s pledge (प्रतिज्ञामनुपालयन्, where _Tilaka_ notes the participle expresses cause, हेतौ शता)?
+
+_____________
+
+**2.19.9–10 (hrīmantam and nṛpaśāsanāt)**
+
+In v. 9, _Tilaka_ and _Śiromaṇi_ gloss ह्रीमन्तम् as the king overcome with bashfulness and shame at banishing his innocent son (मद्विषयकवियोगसंकोचेन ह्रीमन्तम् [_Tilaka_]; अनाकार्याकार्यकृत्येन लज्जावन्तम् [_Śiromaṇi_]), whereas Govindarāja (_Bhūṣaṇa_) reads तदाश्वासय हीमं त्वम्. In v. 10d, _Śiromaṇi_ explains the ablative नृपशासनात् by the rule governing an omitted gerund (ल्यब्लोपे कर्मण्यधिकरणे च, i.e., राजाज्ञां संप्राप्य).
+
+_____________
+
+**2.19.11–12 (avicārya and śraddadhānā)**
+
+Glossing पितुर्वाक्यमविचार्य in v. 11c, _Tilaka_ explains that Rāma does not pause to weigh whether the command is reasonable or unreasonable (युक्तायुक्तविचारमकृत्वैव), while Govindarāja adds that Rāma does not even question whether the king uttered it directly (वनं गच्छेति पित्रा नोक्तमिति विचारमकृत्वा). Convinced at last of Rāma’s departure (प्रस्थानं श्रद्दधाना), Kaikeyī urges him to hasten (त्वरयामास).
+
+_____________
+
+**2.19.13–14 (utsukasya vilambanam)**
+
+Explaining why Kaikeyī insists on Rāma’s immediate departure before Bharata returns, Govindarāja (_Bhūṣaṇa_) notes her secret fear: if Rāma delays until Bharata arrives, her entire plot will collapse because Bharata is wholly devoted to his elder brother (अयं यावद्भरतागमनं विलम्बिष्यते चेन्मम महान् अनर्थः स्याद्भरतस्य ज्येष्ठभक्तत्वादिति मत्वाह). All three commentators gloss उत्सुकस्य as eager to depart for the forest (वनगमनोत्सुकस्य), with Govindarāja adding the alternative “eager to behold Bharata’s consecration” (भरताभिषेकदर्शनोत्सुकस्य).
+
+_____________
+
+**2.19.15–16 (manyur apanīyatām and snāsyate bhokṣyate)**
+
+In v. 15, Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja explain that the king’s shame-filled silence (व्रीडान्वितः) has no other cause than Rāma’s remaining in the city, and gloss मन्युः as Rāma’s distress or the king’s misery (राज्ञो दैन्यम्). In v. 16, _Tilaka_ explains that until Rāma departs, Daśaratha will neither bathe nor eat (न स्नास्यते न भोक्ष्यते) because Kaikeyī has bound the king by oath (मया दृढाग्रहेणैवं तथा शपथात् प्रतिबन्धादिति भावः).
+
+_____________
+
+**2.19.17–18 (dhik kaṣṭam and kaśayeva hato vājī)**
+
+Upon hearing Kaikeyī’s ruthless claim that he is fasting to force Rāma out, Daśaratha cries “Fie, alas!” (धिक्कष्टम्—which Govindarāja notes exposes Kaikeyī’s statement as the words of a heartless tyrant, नृशंसस्य वचनं त्विति भावः) and falls unconscious on his golden couch. Raising his father, Rāma hastens to depart like a steed struck with a whip (कशयेव हतो वाजी).
+
+_____________
+
+**2.19.19–20 (lokam āvastum and ṛṣibhis tulyam)**
+
+Glossing नाहमर्थपरो देवि लोकमावस्तुमुत्सहे, Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) explain लोकमावस्तुम् as “to dwell in the world” (लोके वस्तुम्), with Govindarāja citing उपान्वध्याङ्वसः for the accusative लोकम् after आ-वस्, and noting that this verse dispels Kaikeyī’s suspicion that Rāma is lingering for the kingdom (राज्याय भरतागमनं प्रतीक्षते राम इति कैकेयीशङ्का वारिता). _Tilaka_ explains विमलं धर्मम् as the path of spiritual wisdom (तत्त्वज्ञानरूपं धर्मम्) practiced by enlightened sages (ऋषयोऽत्र तत्त्वज्ञाः), showing Rāma’s innate equanimity on the _nivṛtti-mārga_.
+
+_____________
+
+**2.19.21–23 (pitari śuśrūṣā and bhavatyā vacanāt)**
+
+In v. 22, Govindarāja distinguishes शुश्रूषा (personal service such as massaging the father’s feet, पादसंवाहनादिः) from वचनक्रिया (executing his commands, वचनकरणम्). On v. 23, where Rāma declares he will dwell fourteen years in the forest at Kaikeyī’s word alone even though uncommanded by his father (अनुक्तोऽप्यत्रभवता भवत्या वचनादहम्), _Tilaka_ remarks that a stepmother’s command must be obeyed just like a father’s—how much more that of one’s own parents (सापत्नमातुरप्यनिष्टनिष्ठमपि वचनमेव परिपाल्यम्, किमुत मातापित्रोरिति सूचितम्).
+
+_____________
+
+**2.19.24 (mameśvaratarā satī)**
+
+Explaining Rāma’s gentle reproach in v. 24, all three commentators observe that Kaikeyī failed to recognize Rāma’s virtues of obedience and detachment (आर्जवौदार्यादिगुणम् [_Bhūṣaṇa_]; पितृपत्न्याज्ञापरिपालनादिरूपान् [_Tilaka_]): since she possesses even greater authority over him than the king (ईश्वरतरा अत्यन्तनियन्त्री), she had no need to torment Daśaratha instead of commanding Rāma directly.
+
+_____________
+
+**2.19.25–26 (daṇḍakānāṃ mahad vanam and dharmaḥ sanātanaḥ)**
+
+$18
+
+_____________
+
+**2.19.27–29 (pradakṣiṇa to Kaikeyī)**
+
+While the unconscious king weeps aloud (प्ररुरोद महास्वनम्), Rāma bows to the feet of both his father and the ignoble Kaikeyī (कैकेय्याश्चाप्यनार्यायाः—disregarding her fault, स्वयं तद्दोषमगणयन् [_Tilaka_]). _Tilaka_ explains that Rāma circumambulates Kaikeyī (कैकेयीं च प्रदक्षिणम्) either out of joy that she has enabled him to fulfill his father’s truth (सम्यगाचरितं दिष्ट्या त्वयेत्यत्यन्तं तोषात्) or out of unfailing adherence to righteous etiquette (शिष्टाचाराद्वा).
+
+_____________
+
+**2.19.30 (lakṣmaṇaḥ paramakruddhaḥ)**
+
+On Lakṣmaṇa following Rāma with tear-filled eyes and fierce wrath (परमक्रुद्धः), _Tilaka_ remarks that Vālmīki subtly contrasts Lakṣmaṇa—in whom _avidyā_ with its projecting power remained active—with Rāma, who remained wholly untouched by it (लक्ष्मणेऽविद्या विशेषशक्तिमती स्थिता, रामे च न सा इति ध्वनितम्).
+
+_____________
+
+**2.19.31 (sāpekṣaḥ and dṛṣṭim avicālayan)**
+
+$1a
+
+_____________
+
+**2.19.32–33 (śītaraśmer iva kṣayaḥ and sarvalokātigasyeva)**
+
+In v. 32, _Tilaka_ and Śivasahāya (_Śiromaṇi_) read शीतरश्मेरिव क्षयः: just as the waning (क्षयः) of the moon does not diminish its innate loveliness (अविनाशिकान्तिसत्त्वात्), the loss of the kingdom does not dim Rāma’s radiance (लक्ष्मीं मुखविकासम्); Govindarāja reads शीतरश्मेरिव क्षपा (“just as night does not dim the moon’s loveliness”). In v. 33, _Tilaka_ glosses सर्वलोकातिगस्येव as “like a liberated sage (_jīvanmukta_) who has transcended all worlds” (जीवन्मुक्तस्येव).
+
+_____________
+
+**2.19.34–35 (dhārayan manasā duḥkham and apriyaśaṃsivān)**
+
+Declining the royal umbrella (छत्रम्) and yak-tail chowries (व्यजने चामरे / वालव्यजने) because they conflict with his vow of asceticism (छत्रादिप्रतिज्ञाविरोधात् [_Tilaka_]), Rāma restrains his senses (इन्द्रियाणि निगृह्य) so that no trace of inner sorrow shows on his face as he enters his mother’s palace to break the unwelcome news (अप्रियशंसिवान् अप्रियं शंसिष्यन्).
+
+_____________
+
+**2.19.36–37 (ākāram and śāradaś candraḥ)**
+
+All three commentators gloss आकारम् in v. 36d as any facial sign of inward distress (विकृताकारम् [_Bhūṣaṇa_]): none of his attendants perceived the slightest alteration on Rāma’s countenance. Comparing Rāma in v. 37 to the autumn moon (शारदः समुदीर्णांशुश्चन्द्रः), Nāgeśa Bhaṭṭa (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain that just as the autumn moon never abandons its innate luster (आत्मजं स्वभावसिद्धं तेजः), Rāma did not abandon his natural joy (उचितं सहजं हर्षम्).
+
+_____________
+
+**2.19.38–39 (etymology of Rāma and guṇaiḥ samatām)**
+
+On v. 38, Govindarāja (_Bhūṣaṇa_) remarks that by honoring all people with sweet speech (वाचा मधुरया) even in the midst of such a reversal of fortune, Rāma manifests the true etymological meaning of his name—one who delights all beings (एतादृशदुर्दशायामपि रमयितृत्वरूपं रामशब्दार्थं प्रकटयति). In v. 39, Govindarāja explains गुणैः समतां प्राप्तः as Lakṣmaṇa’s sharing equally in Rāma’s joys and sorrows (सुखदुःखादिभिः समतां प्राप्तः समानदुःख इत्यर्थः), while _Śiromaṇi_ glosses दुःखमात्मजम् as grief born within the mind (आत्मनि अन्तःकरणे उत्पन्नं दुःखम्).
+
+_____________
+
+**2.19.40 (arthavipatti and suhṛjjanasyātmavipattiśaṅkayā)**
+
+In the closing _Vaṃśastha_ verse, entering Kausalyā’s palace—which was overflowing with festal joy (अतिभृशं मुदा युतम्)—and beholding the sudden reversal of fortune (अर्थविपत्तिम्), Rāma still betrayed no perturbation (विक्रियां न जगाम), lest the sight of any distress in him endanger the life-breaths (आत्मनाम् = प्राणानाम् [_Tilaka_, _Bhūṣaṇa_]) of his mother and loved ones (स्वविक्रियास्फुरणे सुहृज्जनो नश्येदिति शङ्कया).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

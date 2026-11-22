@@ -634,6 +634,152 @@ of Rama, the wise".
 
 while the consecration of wise Rāma as Prince Regent stands fully prepared (_yauvarājyābhiṣekaś ca sajjaḥ_)!” While they were speaking thus, to all those assembled lords of the earth (_sarvāṃs tāṃś ca mahīpatīn_)
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.15.1–2 (upatasthur upasthānam & Assembly at Dawn)**
+
+Opening Sarga 15, **Rāma Varmā** (_Tilaka_) notes that the poet describes the assembly at the palace gate (राजद्वारि मिलितानां जनानाम्) as Sumantra proceeds outwardly as before (यथापूर्वं प्रवृत्तिं वदन्). Having passed the night (उष्योषित्वा), the Brahmins reach the उपस्थानम्—the royal gate (राजद्वारम्, _Tilaka_, _Śiromaṇi_) or hall (सदः, _Bhūṣaṇa_). On निगमस्य, _Tilaka_ and _Śiromaṇi_ read guilds (वणिक्समूहः), whereas **Govindarāja** (_Bhūṣaṇa_) cites the _Vaijayantī_ (निगमो निश्चये वेदे पुरे पथि वणिक्पथे) for the city (पुरस्य).
+
+_____________
+
+**2.15.3–4 (karkaṭake lagne & the Golden Bhadrapīṭha)**
+
+As the sun rises on _Puṣya_ and Rāma's natal _Karkaṭa_ ascendant arrives (जन्मकालस्थे कर्कटलग्ने च प्राप्ते, _Tilaka_), Brahmins array the consecration articles (अभिषेकार्थद्रव्यजातम्, _Bhūṣaṇa_). **Śivasahāya** (_Śiromaṇi_) explains neuter उपकल्पितम् collectively (सामान्यविवक्षया नपुंसकत्वैकत्वे) and भद्रपीठम् as an auspicious throne (भद्रलक्षणचिह्नितपीठविशेषः).
+
+_____________
+
+**2.15.5–6 (prāgvahāḥ & Sacred Waters)**
+
+**Govindarāja** (_Bhūṣaṇa_) glosses प्राग्वाहाः as east-flowing rivers (गोदावरीकावेर्यादयः), ऊर्ध्ववाहाः as springs or western rivers (प्रत्यग्वाहाः), and तिर्यग्वाहाः as north-south streams (गण्डकीशोणभद्रादयः), while _Tilaka_ takes क्षीरिणः (क्षीरमिव जलम्) as milk-sweet.
+
+_____________
+
+**2.15.7–8 (kṣaudraṃ dadhi & Pitchers Covered with Milky Shoots)**
+
+**Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) gloss क्षौद्रम् as honey (मधु), दर्भाः as _kuśa_ grass, and सुमनसः as flowers (पुष्पाणि). On क्षीरिभिः, **Rāma Varmā** (_Tilaka_) and _Śiromaṇi_ specify milky-tree shoots (क्षीरिवृक्षपल्लवैः), _Bhūṣaṇa_ naming _aśvattha_ and _udumbara_ (अश्वत्थोदुम्बरादिभिः) and noting that specifying full pitchers here after v. 4 involves no redundancy (अत्र तद्विशेष इति न पुनरुक्तिः).
+
+_____________
+
+**2.15.9–10 (candrāṃśuvikacaprakhyam & the Royal Chowrie)**
+
+**Śivasahāya** (_Śiromaṇi_) distinguishes day-lotuses from water-lilies in पद्मोत्पलयुताः (कमलजातिविशेषत्वान्न पौनरुक्त्यम्). Construing v. 9cd with v. 10ab, _Śiromaṇi_ and **Govindarāja** (_Bhūṣaṇa_) explain चन्द्रांशुविकचप्रख्यम् as gleaming with expanded lustre like moonbeams (चन्द्रांशव इव विकचाः विस्तृताः प्रख्या कान्तिर्यस्य) and वालव्यजनम् as the royal chowrie (चामरम्).
+
+_____________
+
+**2.15.11–12 (abhiṣekapurassaram & Musical Instruments)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss अभिषेकपुरःसरम् as foremost of the consecration articles (अभिषेकसामग्रीषु मुख्यः, _Tilaka_), while **Govindarāja** (_Bhūṣaṇa_) reads अभिषेकपुरस्कृतम् and glosses वादित्राणि as the fourfold instruments headed by the _vīṇā_ (वीणादिचतुर्विधवाद्यानि).
+
+_____________
+
+**2.15.13–15 (tathājātīyam ādāya & Waiting for the Monarch)**
+
+Joining vv. 12–14, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that the Brahmins and tributary kings (महीपतयः, _Bhūṣaṇa_; ब्राह्मणादयः, _Tilaka_), bringing consecration articles (तथाजातीयं वस्तुजातम्) to the gate by royal command (राजवचनात्), wonder who will announce them (को नु राज्ञो नः प्रतिवेदयेत्) now that the sun has risen and Rāma's consecration stands ready (सज्जः = संपन्नसाधनः, _Bhūṣaṇa_).
+
+_____________
+
+**2.15.16–17 (rāmaṃ... prasthito hy aham & Sumantra's Courtesy)**
+
+All three supply आनेतुम् after रामम् (राममानेतुमिति शेषः). **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that although hastening out, Sumantra pauses because the lords are revered by Daśaratha and Rāma (पूज्या राज्ञो भवन्तश्च), promising to inquire after the king's sleep (सुखशयनं पृच्छन्तीति विज्ञापयामि, _Tilaka_) at their word (आयुष्मतां वचनात्).
+
+_____________
+
+**2.15.18 (anāgamanakāraṇam & purāṇavit)**
+
+Sumantra also asks why the awakened king has not come forth (बहिरनागमनकारणं किम्, _Tilaka_). On पुराणवित्, _Tilaka_ glosses conversant with ancient lore (चिरकालकथाभिज्ञः), whereas **Govindarāja** (_Bhūṣaṇa_) explains knowing court protocol toward vassals (सामन्तराजादिवर्तनरूपपुरातनवृत्तान्तज्ञः).
+
+_____________
+
+**2.15.19–20 (sadā saktam & Standing Behind the Curtain)**
+
+Sumantra enters the chamber described as सदा सक्तम्—glossed by **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) as ever unbarred to him (अवारितद्वारम्, _Tilaka_; सर्वदा अनिवारितम्, _Bhūṣaṇa_), while **Śivasahāya** (_Śiromaṇi_) adds frequented by attendants or celebrated by poets (स्वसेवितमनिवारितम्... कविभिर्निबद्धम्). All three gloss शयनीयम् as the bedchamber (शयनगृहम्) and तिरस्करणिमन्तरा as standing with the curtain (जवनिकाम्) between them (एतेन तावत्पर्यन्तं गमनं सूचितम्, _Tilaka_).
+
+_____________
+
+**2.15.21–22 (āśīrbhir guṇayuktābhiḥ & Bardic Praise)**
+
+Why does Sumantra praise Daśaratha (राघवम्) again? **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that courtly custom requires a _sūta_ to preface any petition with panegyric (राज्ञो विज्ञापनात्पूर्वं स्तुतेः कुलधर्मत्वात्, _Bhūṣaṇa_; राजविज्ञापनस्य स्तुतिपूर्वकत्वौचित्यात्, _Tilaka_), invoking Soma, Sūrya, Śiva, Kubera (वैश्रवण), Varuṇa, Agni, and Indra.
+
+_____________
+
+**2.15.23–24 (kuru kāryam anantaram & the Waiting Estates)**
+
+Sumantra bids the king perform the immediate consecration duty (अनन्तरं कार्यमभिषेकरूपम्, _Śiromaṇi_), reporting that Brahmins, army chiefs, and merchants (नैगमा वणिजः, _Tilaka_) await his audience (दर्शनं तेऽभिकांक्षन्ते).
+
+_____________
+
+**2.15.25–27 (yad asy abhihito mayā & Kataka's Critique)**
+
+**Rāma Varmā** (_Tilaka_) glosses प्रतिबुद्ध्य as recognizing Sumantra behind the curtain by his voice (जवनिकान्तर्हितमपि सुमन्त्रं ध्वनिना ज्ञात्वा). Under the variant अभिहितोऽनया (“bidden by her”), _Tilaka_ and **Śivasahāya** (_Śiromaṇi_) explain ममाज्ञा inclusively (उपलक्षणं मया चेत्यर्थः), whereas Kataka holds that Kaikeyī's unopposed order counts as the king's; _Tilaka_ refutes Kataka's deletion of Sarga 14's closing verses by pointing to पुनः (“once again”) in v. 27 (इति राजा इति श्लोके पुनःपदासंगतिः).
+
+_____________
+
+**2.15.28–29 (manyamānaḥ priyaṃ mahat & Joy on the Highway)**
+
+Unaware of the king's secret grief (हार्दाभिप्रायज्ञानात्, _Tilaka_), Sumantra deems the summons a great joy (अभिषेकं प्रियं मन्यमानः, _Śiromaṇi_). Both _Tilaka_ and **Govindarāja** (_Bhūṣaṇa_) distinguish हृष्टः as horripilation (पुलकितगात्रः, _Tilaka_) and प्रमुदितः as mental rapture (आनन्दचित्तः).
+
+_____________
+
+**2.15.30 (rāmādhikaraṇāḥ kathāḥ & Pleonastic hṛṣṭavat)**
+
+Sumantra hears talk centered on Rāma (रामाधिकरणाः); all three commentators flag हृष्टवत् as an _ārṣa_ pleonastic suffix वति (स्वार्थे वतिरार्षः, _Tilaka_, _Śiromaṇi_, _Bhūṣaṇa_).
+
+_____________
+
+**2.15.31–32 (mahākapāṭapihitam & Golden-Pinnacled Architecture)**
+
+Because it is early morning, the great outer door-leaves remain shut while only the small wicket-gate is open (प्रातःसमयत्वान्महाकपाटेन पिहितम् स्वल्पद्वारस्यैवोद्घाटितत्वात्, _Tilaka_, _Śiromaṇi_), whereas **Govindarāja** (_Bhūṣaṇa_) reads महाकपाटविहितम् (“built with great doors”) and cites the _Amarakośa_ for वितर्दिः as a raised pavilion (स्याद्वितर्दिस्तु वेदिका) and तोरणम् as an outer portal (तोरणोऽस्त्री बहिर्द्वारम्). On काञ्चनप्रतिमैकाग्रम्, _Tilaka_ and _Bhūṣaṇa_ explain that golden statues adorn its prominent roof-peaks (शिखराग्राणि).
+
+_____________
+
+**2.15.33–34 (varamālyānām & the Fragrance of Mount Dardura)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss वरमाल्यानां मणिभिः as great central gems set within golden flower-garlands (स्वर्णपुष्पमालानामन्तरालवर्तिभिः महादीप्तिमद्भिर्मणिभिः). All three commentators identify दर्दुरः (दार्दुरम्) as the sandalwood-producing mountain bordering Malaya (मलयसंनिकृष्टचन्दनगिरिः).
+
+_____________
+
+**2.15.35–36 (sukṛtehāmṛgākīrṇam & Ornamental Reliefs)**
+
+Citing the _Amarakośa_ (कोकस्त्वीहामृगो वृकः), all three commentators explain सुकृतेहामृगाकीर्णम् as adorned with golden or sculpted figures of wolves along the pillars and walls (द्वारभित्तिस्तम्भादिषु सुष्ठु रचितैरीहामृगैर्वृकैराकीर्णम्, _Bhūṣaṇa_) and भक्तिभिः as decorative relief-carvings (पद्मचित्रादिभिरुत्कीर्णम्, _Tilaka_).
+
+_____________
+
+**2.15.37–39 (meruśṛṅgasamam & Provincials, Dwarfs, and Kirātas)**
+
+Defending the repetition of रामवेश्म ददर्श ह after v. 31, **Govindarāja** (_Bhūṣaṇa_) remarks that restating the verb for new epithet clusters is Vālmīki's signature style (भगवतो वाल्मीकेरियं हि रीतिः), while **Śivasahāya** (_Śiromaṇi_) notes that मेरुगुहासमम् (v. 32) described the interior and मेरुशृङ्गसमम् (v. 37) its height. All three supply उपायनानि with उपादाय (“bringing gifts”), and under कुब्जकैरातकावृतम्, _Bhūṣaṇa_ cites Halāyudha for कैरातकम् as diminutive mountaineers (किरातानां स्वल्पशरीरकाणां समूहः).
+
+_____________
+
+**2.15.40–41 (varūthinā & the Vaṃśastha Shift)**
+
+Shifting to _Vaṃśastha_, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss राजकुलम् as the royal highway (राजमार्गम्) and वरूथिना via the _Amarakośa_ (रथगुप्तिर्वरूथो ना, _Bhūṣaṇa_) as a fender-guarded chariot, while समाकुलोल्बणम् means loud with deer and peacocks (प्रचुरतरखगमाधिकस्वनवत्, _Tilaka_).
+
+_____________
+
+**2.15.42 (kakṣyās & the Kapiñjalādhikaraṇa Rule)**
+
+Passing through the plural courtyards (कक्ष्याः)—fixed at three by the Mīmāṃsā _kapiñjalādhikaraṇa_ maxim (कपिञ्जलाधिकरणन्यायेन, _Śiromaṇi_)—Sumantra reaches the inner apartment (शुद्धान्तम् = अन्तःपुरम्, _Tilaka_, _Bhūṣaṇa_).
+
+_____________
+
+**2.15.43–45 (abhimaṅgalārthāḥ & Crowds in Koṭis and Parārdhas)**
+
+In _Upajāti_, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that even beyond the three courts (कक्ष्यात्रयात्परं गृहम्, _Śiromaṇi_) Sumantra hears the benedictions (अभिमङ्गलार्थाः) of citizens busy with Rāma's consecration. On v. 45, _Tilaka_ and _Bhūṣaṇa_ note that कोट्या (10^7) and परार्धैः (10^17) signify the vast multitude (अनेनातिसंमर्दो दर्शितः, _Tilaka_), while _Śiromaṇi_ sees an implied wonder that Rāma's gate, like Puṣpaka, accommodates all (द्वारस्य आश्चर्यशक्तिमत्त्वं ध्वनितम्).
+
+_____________
+
+**2.15.46–47 (śatruñjayaṃ nāgam & Passing the Ministers)**
+
+Sumantra spots Rāma's riding-elephant (रामोपवाह्यम्) named शत्रुञ्जयम् (तद्गुणकं तन्नामानं च, _Tilaka_), resembling a cloud-topped mountain (महामेघाधिरूढपर्वतसदृशम्), in rut (प्रभिन्नो गर्जितो मत्तः, Amarakośa, _Bhūṣaṇa_), and defying the goad (अत्यङ्कुशम्), before clearing a path (व्यपोह्य) past the ministers (वल्लभान्).
+
+_____________
+
+**2.15.48 (makaro yathārṇavam & Seven-Storied Vimānas)**
+
+In _Vaṃśastha_, _Tilaka_ and _Bhūṣaṇa_ cite the lexicon (विमानोऽस्त्री देवयाने सप्तभूमौ च सद्मनि) to gloss महाविमान- as celestial cars or seven-storied palaces, which Sumantra enters unchallenged (अवार्यमाणः) like a _makara_ entering the ocean.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

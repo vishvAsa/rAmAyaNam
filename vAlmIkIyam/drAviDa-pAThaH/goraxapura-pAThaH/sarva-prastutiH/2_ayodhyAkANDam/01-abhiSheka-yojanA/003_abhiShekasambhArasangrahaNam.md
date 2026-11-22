@@ -178,6 +178,170 @@ listening, to Vasishta, Vamadeva and other Brahmans as follows:
 
 While those citizens and monarchs were listening closely (_teṣām evopaśṛṇvatām_), the king addressed the Brāhmaṇas whom he had thus honored in return—Vasiṣṭha, Vāmadeva, and the rest:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.3.1–2 (añjalipadmāni & ārṣa sandhi in aho 'smi)**
+
+In v. 1, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that अञ्जलिपद्मानि likens the assembly's folded hands raised to their foreheads (शिरसि बद्धानि) to lotus buds (पद्ममुकुलपरः), which the king accepts (प्रतिगृह्य) with gracious glances, words, and counter-salutations. In v. 2a, **Govindarāja** flags अहोऽस्मि as an _ārṣa sandhi_ (संधिरार्षः) because the vocative particle अहो is normally _pragṛhya_.
+
+_____________
+
+**2.3.3–4 (caitraḥ śrīmān ayaṃ māsaḥ)**
+
+In v. 3, **Rāma Varmā** (_Tilaka_) notes that the plural ब्राह्मणान् includes other royal priests alongside Vasiṣṭha and Vāmadeva. On चैत्रः श्रीमानयं मासः (v. 4), **Govindarāja** (_Bhūṣaṇa_) remarks that just as Rāma is supreme among men, Caitra—the birth-month of Rāma—is supreme among months, when the forests blossom spontaneously (पुष्पितकाननः) without human artifice.
+
+_____________
+
+**2.3.5–6 (vasiṣṭhaṃ muniśārdūlam & saparicchadam)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that वसिष्ठम् in v. 6a stands by synecdoche (_upalakṣaṇa_) for both Vasiṣṭha and Vāmadeva (cf. विप्रौ in v. 20), while all three gloss सपरिच्छदम् as accompanied by all ritual implements (सोपकरणम्).
+
+_____________
+
+**2.3.7–9 (sarvauṣadhīḥ & Unbleached ahatāni Garments)**
+
+In v. 8, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss बलीन् as propitiatory offerings to ward off obstacles (विघ्नशामकबल्यर्थानि), while **Govindarāja** (_Bhūṣaṇa_) specifies सर्वौषधीः as rice, dūrvā grass, and other auspicious plants (व्रीहिदूर्वादयः). On अहतानि वासांसि (v. 9), _Tilaka_ and _Śiromaṇi_ define them as brand-new garments freshly taken from the weaver's loom (तदानीमेव तन्तुवाययन्त्रादुद्धृतानि), while **Govindarāja** quotes a ritual definition of अहतम् as new white cloth lightly washed and never worn before (ईषद्धौतं नवं श्वेतं सद्दशं यन्न धारितम्).
+
+_____________
+
+**2.3.10–11 (śātakumbhānām & the Complete Tiger-Skin)**
+
+In v. 11, all three commentators gloss शातकुम्भानाम् as golden (सौवर्णानाम्), **Rāma Varmā** (_Tilaka_) noting that अग्निवर्चसाम् (“flaming like fire”) suggests gold of the highest purity, and explaining समग्रम् with व्याघ्रचर्म as an intact tiger-skin complete with claws and tail (नखादिसहितमखण्डम्).
+
+_____________
+
+**2.3.12 (agnyagāre mahīpateḥ)**
+
+All three gloss अग्न्यगारे as the king's consecrated fire-chamber (अग्निहोत्रगृहे) where the morning consecration materials must be assembled.
+
+_____________
+
+**2.3.13–15 (dadhikṣīropasecanam & Feeding a Hundred Thousand Brāhmaṇas)**
+
+Reading vv. 14–15 as a single sentence (श्लोकद्वयमेकान्वयि), **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain दधिक्षीरोपसेचनम् as choice food (अन्नम्) seasoned and enriched with curds and milk, prepared in abundance (प्रकाममलम् = यथेच्छं पर्याप्तम्) for a hundred thousand Brāhmaṇas (शतसाहस्रम्), accompanied by generous gifts (पुष्कलाः दक्षिणाः).
+
+_____________
+
+**2.3.16–17 (svastivācanam & tālāpacarāḥ)**
+
+At sunrise on the morrow (श्वः), the auspicious _svastivācana_ rite will be performed (भविता). In v. 17c, **Rāma Varmā** (_Tilaka_) glosses तालापचराः as professional musicians and dancers (तालजीविनः), while **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) read तालावचराः (तालैरवचरन्ति जीवन्तीति, “those who live by musical rhythm, dancers and actors”).
+
+_____________
+
+**2.3.18 (kakṣyāṃ dvitīyām & caityeṣu)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain why dancers and musicians are stationed in the second courtyard (कक्ष्यां द्वितीयाम्): the innermost courtyard (अन्तःकक्ष्या) is reserved for Vasiṣṭha and the officiating Brāhmaṇas. On चैत्येषु, _Tilaka_ glosses sacred roadside trees (रथ्यावृक्षाः) and _Bhūṣaṇa_/_Śiromaṇi_ crossroad shrines (चतुष्पथेषु).
+
+_____________
+
+**2.3.19–20 (mālyayogyāḥ & dīrghāsibaddhagodhāḥ)**
+
+Completing v. 18, **Rāma Varmā** (_Tilaka_) glosses माल्ययोग्याः as flowers and sandal-paste worthy of worship, whereas **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) take it as the presiding deities of temples and crossroads (ब्रह्मादिदेवताः पूजनीयाः). In v. 19c, _Tilaka_ explains दीर्घासिबद्धगोधाः as warriors girt with long swords and iguanaskin bow-guards (बद्धगोधाचर्माणश्च), while also noting the reading दीर्घासिबद्धा योधाः adopted by _Bhūṣaṇa_ and _Śiromaṇi_.
+
+_____________
+
+**2.3.21–22 (viprau & Distinction Between prītau and harṣayuktau)**
+
+All three commentators observe that the dual विप्रौ confirms Vāmadeva's joint participation with Vasiṣṭha. To prevent redundancy in v. 22, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) distinguish प्रीतौ as inward mental delight (प्रीतिर्मनोगतो हर्षः) and हर्षयुक्तौ as its outward physical manifestation in horripilation and beaming faces (रोमाञ्चादिशरीरविकारो हर्षः).
+
+_____________
+
+**2.3.23–24 (kṛtātmā)**
+
+On कृतात्मा, **Rāma Varmā** (_Tilaka_) glosses “steadfast in _dharma_” (धर्मे कृतबुद्धिः) and **Govindarāja** (_Bhūṣaṇa_) “of well-trained intellect” (सुशिक्षितबुद्धिः), explaining why Rāma will come immediately upon being summoned.
+
+_____________
+
+**2.3.25–26 (prācyodīcyāḥ & Universal Sovereignty)**
+
+Reading vv. 24c–26b together, **Govindarāja** (_Bhūṣaṇa_) notes that the enumeration of kings from all four directions, Āryas of Madhyadeśa (_Tilaka_), Mleccha border-chieftains, and forest-mountain rulers (वनशैलान्तवासिनः) establishes Daśaratha's universal imperial sovereignty (सार्वभौमचिह्नमुक्तम्).
+
+_____________
+
+**2.3.27–29 (gandharvarājapratimam & rūpaudāryaguṇaiḥ)**
+
+In v. 27, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that गन्धर्वराजप्रतिमम् praises Rāma's grace and beauty while विख्यातपौरुषम् affirms his heroic valour. On रूपौदार्यगुणैः पुंसां दृष्टिचित्तापहारिणम् (v. 29), all three commentators note a distributive correspondence (_yathāsaṅkhya_): Rāma's physical beauty (रूप) captivates the eyes (दृष्टि) and his generous nobility (औदार्य) captivates the hearts (चित्त) even of men (पुंसाम्)—how much more of women (_Bhūṣaṇa_)!
+
+_____________
+
+**2.3.30 (paśyamānaḥ & Ever-Fresh Delight)**
+
+On न ततर्प समायान्तं पश्यमानः, **Rāma Varmā** (_Tilaka_) notes the _ārṣa_ middle participle पश्यमानः (पश्यन्), while both _Tilaka_ and _Bhūṣaṇa_ explain न ततर्प as showing that Rāma's beauty appeared ever fresh at every moment (प्रतिक्षणं नवनवप्रेमास्पदतया न तृप्तिरभूत्).
+
+_____________
+
+**2.3.31–33 (nāma svaṃ śrāvayan & Filial Salutation)**
+
+In v. 32b, **Rāma Varmā** (_Tilaka_) supplies सह with तेन (“with Sumantra”), whereas **Govindarāja** (_Bhūṣaṇa_) reads सह सूतेन. On नाम स्वं श्रावयन् (v. 33a), both _Tilaka_ and _Bhūṣaṇa_ cite the Dharmaśāstra rule (शर्मेति ब्राह्मणस्योक्तं वर्मेति क्षत्रियस्य च) prescribing the formula of filial prostration: “I, Rāmavarmā, bow unto you!” (रामवर्माहमस्मि भो इति श्रावयन्).
+
+_____________
+
+**2.3.34 (gṛhyāñjalau & Locative of Grasping)**
+
+On गृह्याञ्जलौ समाकृष्य, **Govindarāja** (_Bhūṣaṇa_) cites Patañjali's _Mahābhāṣya_ (सक्थिनि कर्णे वा गृहीत्वा) to explain the locative अञ्जलौ as marking the part grasped when drawing Rāma into his embrace (सस्वजे).
+
+_____________
+
+**2.3.35–36 (merum udaye vimalo raviḥ)**
+
+Seated upon the jewelled throne, Rāma illuminated it by his own radiance (स्वयैव प्रभया व्यदीपयत) like the rising sun illuminating golden Mount Meru; **Govindarāja** (_Bhūṣaṇa_) cites the _Sūryasiddhānta_ and _Āryabhaṭīya_ on how the sun's circuit around Meru produces sunrise and midday across the four cardinal cities.
+
+_____________
+
+**2.3.37–38 (śāradī dyaur ivendunā & the Mirror Simile)**
+
+Completing the sentence begun in v. 36c, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) note that while Daśaratha, Vasiṣṭha, and the kings shone like planets and stars (विमलग्रहनक्षत्रा), Rāma illuminated the entire hall like the autumn full moon (इन्दुना). On अलंकृतमिवात्मानमादर्शतलसंस्थितम् (v. 38), all three commentators observe that beholding Rāma was like gazing into a mirror because Rāma's every limb—eyes, nose, and gait—perfectly mirrored his father's (पितृसरूपत्वमावेदितम्, _Bhūṣaṇa_).
+
+_____________
+
+**2.3.39–40 (jyeṣṭhāyām asi me patnyām & Legitimate Primogeniture)**
+
+Comparing Daśaratha and Rāma to Kaśyapa and Indra, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) point out how v. 39 establishes Rāma's undisputed right to the throne: he is born of the eldest queen Kausalyā (ज्येष्ठायाम्), who is of equal royal birth (सदृश्याम्), is equal to his father (सदृशः), and is supreme in virtues (गुणज्येष्ठः).
+
+_____________
+
+**2.3.41 (puṣyayogena & Innate Virtue)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain the instrumental पुष्ययोगेन as denoting the auspicious time when the moon enters Puṣya (अधिकरणस्य करणत्वविवक्षया तृतीया), while कामतः means “abundantly, exceedingly” (प्रकामम्, _Tilaka_, _Bhūṣaṇa_).
+
+_____________
+
+**2.3.42–43a (kāmakrodhasamutthāni vyasanāni)**
+
+Explaining why Daśaratha counsels an already perfected prince (गुणवत्यपि), all three commentators attribute it to overflowing paternal love (स्नेहात्). On कामक्रोधसमुत्थानि व्यसनानि, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) quote Manu's classification of the ten vices born of desire (मृगयाक्षो दिवास्वापः परिवादः स्त्रियो मदः । तौर्यत्रिकं वृथाट्या च कामजो दशको गणः—hunting, dice, day-sleep, slander, women, drink, music-dance, and aimless wandering) and the eight born of wrath (पैशुन्यं साहसं द्रोह ईर्ष्यासूयार्थदूषणम् । वाग्दण्डजं च पारुष्यं क्रोधजोऽपि गणोऽष्टकः).
+
+_____________
+
+**2.3.43b–44 (parokṣayā ... pratyakṣayā & Royal Granaries)**
+
+On परोक्षया वर्तमानो वृत्त्या प्रत्यक्षया तथा, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain परोक्षया as learning the affairs of one's own and enemy kingdoms through spies (चारमुखतः) and प्रत्यक्षया as personally hearing subjects' suits in the royal court (सदा सभायां स्थित्वा); **Govindarāja** (_Bhūṣaṇa_) also offers an alternative taking परोक्षया as overseeing artisans through superintendents. All three gloss कोष्ठागार as granaries (धान्यगृहाणि), आयुधागार as armouries (शस्त्रास्त्रगृहाणि), and संनिचयान् as treasuries of gems and gold.
+
+_____________
+
+**2.3.45 (labdhvāmṛtam ivāmarāḥ)**
+
+When a king's subjects and ministers (प्रकृतयः) are contented and devoted, his allies (मित्राणि) rejoice like the gods upon winning ambrosia.
+
+_____________
+
+**2.3.46–48a (kausalyāyai nyavedayan & priyākhyebhyaḥ)**
+
+In v. 46, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) gloss आत्मानम् as the mind (मनः) and तत् as the king's proclamation of Rāma's consecration (रामाभिषेकप्रस्तावनम्). Hearing this, Rāma's friends hastened to inform Queen Kausalyā, who lavished gold, cows, and gems upon those messengers of good news (प्रियाख्येभ्यः, which **Govindarāja** derives from आ + चक्ष् via the substitution ख्याञ्).
+
+_____________
+
+**2.3.48b–f (yayau svaṃ dyutimad veśma)**
+
+After reverently saluting his father (अभिवाद्य राजानं), Rāma mounted his chariot and returned to his own palace amid the acclamations of the citizens (जनौघैः प्रतिपूजितः).
+
+_____________
+
+**2.3.49 (devān samānarcuḥ & Preventing Obstacles)**
+
+Concluding the Sarga in eleven-syllable _Upajāti_ meter, v. 49 describes how the citizens took leave of Daśaratha (नरेन्द्रमामन्त्र्य) and worshipped the gods in their homes—specifically praying, as **Govindarāja** (_Bhūṣaṇa_) notes, to avert any obstacle to Rāma's consecration (रामाभिषेकविघ्नवारणाय).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

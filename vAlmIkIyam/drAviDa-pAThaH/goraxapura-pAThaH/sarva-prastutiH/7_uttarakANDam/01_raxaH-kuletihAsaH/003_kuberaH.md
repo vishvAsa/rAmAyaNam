@@ -121,6 +121,116 @@ _________________
 
 Learning of that exemplary conduct of his (_tad-vṛttam_), the great sage Bharadvāja (_bharadvājo mahāmuniḥ_) bestowed his own daughter Devavarṇinī (_svasutāṃ devavarṇinīm_) upon Viśravas as his wife (_bhāryām_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.3.1–3 (Viśravas’s Austere Virtue and Marriage to Devavarṇinī)**
+
+Introducing the third sarga, **Rāma Varmā** (_Tilaka_) announces the birth of Kubera from Pulastya’s son Viśravas (अथ पौलस्त्याद्विश्रवसः कुबेरोत्पत्तिः). **Śivasahāya** (_Śiromaṇi_) construes 7.3.1–2 as a single syntactic unit (श्लोकद्वयमेकान्वयि): endowed with truthfulness, self-restraint, Vedic devotion, and detachment, Viśravas rapidly matched his father Pulastya in asceticism. On 7.3.3, all three commentators emphasize that Bharadvāja acted solely out of regard for Viśravas’s exemplary ascetic character (तस्य तद्वृत्तं विश्रवसस्तादृशं चरितमित्यर्थः, _Tilaka_ and _Bhūṣaṇa_; तपःशमं वृत्तं ज्ञात्वा, _Śiromaṇi_). Both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) gloss the bride’s name देववर्णिनीम् as signifying beauty rivaling that of the gods (देवसमानरूपाम्).
+
+_____________
+
+**7.3.4 (Discerning the Destiny of Progeny)**
+
+The commentators offer two illuminating interpretations of the rare phrase प्रजान्वेक्षिकया बुद्ध्या. Reading प्रजान्वीक्षिकया, **Rāma Varmā** defines it as astrological discernment capable of foreseeing the auspicious and inauspicious qualities of offspring (प्रजानां शुभाशुभवीक्षणरूपया बुद्ध्या ज्योतिःशास्त्रसिद्धया), explaining अस्य as the son about to be begotten (उत्पादयिष्यमाणपुत्रस्य श्रेयोगुणं चिन्तयन्). **Śivasahāya**, construing 7.3.4–6 as one three-verse sentence (श्लोकत्रयमेकान्वयि), broadens अस्य to the whole world (अस्य लोकस्य श्रेयो विचिन्तयन्): Viśravas married Bharadvāja’s daughter strictly according to Vedic marital rites (धर्मेण वैवाहिकविधिना) with a mind contemplating the general good of creatures.
+
+_____________
+
+**7.3.5–6 (Birth of the Wondrous Son and Kataka’s Transposition)**
+
+On 7.3.6, **Rāma Varmā** glosses सर्वैर्ब्रह्मगुणैः as tranquility, austerity, purity, and kindred brahminical virtues (शमतपःशौचादिगुणैः), while **Govindarāja** paraphrases them as tranquility and self-restraint (शमदमादिभिः). Both identify पितामहः not as Brahmā here, but as Vaiśravaṇa’s own grandfather Pulastya (वैश्रवणपितामहः पुलस्त्य इत्यर्थः). Remarkably, Rāma Varmā records the opinion of **Kataka** (कतकस्वरसः), whom Govindarāja follows in construing 7.3.4–8 as a five-verse period (श्लोकपञ्चकमेकं वाक्यम्): reading प्रजान्वेषिका (‘examining progeny’), Kataka transfers 7.3.4cd to 7.3.6, making Pulastya apply astrological scrutiny to his newborn grandson and rejoice at the child’s greatness.
+
+_____________
+
+**7.3.7 (Pulastya’s Astrological Foresight)**
+
+Explaining how Pulastya knew the infant’s future eminence, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply the examination of his natal horoscope (जन्मलग्नपर्यालोचनया): discerning in the child an auspicious mental inclination toward austerity that would secure the lordship of wealth (धनेश्वरत्वरूपश्रेयःप्राप्तिहेतुभूतां तपोविषयां तस्य बुद्धिं दृष्ट्वा, _Tilaka_), Pulastya foresaw that in time he would bear the title धनाध्यक्षः and rejoiced. **Śivasahāya** (_Śiromaṇi_) similarly observes that, recognizing this auspicious intellect and knowing he would become Lord of Wealth, Pulastya joyfully performed the naming ceremony in the assembly of the divine sages (देवर्षिभिः सह नामाकरोत्).
+
+_____________
+
+**7.3.8–10 (Etymology of Vaiśravaṇa and Resolve for Dharma)**
+
+On 7.3.8, **Rāma Varmā** and **Śivasahāya** gloss सादृश्याद्विश्रवा इव as likeness to Viśravas in form and virtue (रूपसादृश्यात् / रूपादिना तौल्यात्); all three commentators explain the irregular formation of वैश्रवणः through the grammatical substitution of विश्रवण for विश्रवस् before the patronymic suffix (अपत्यप्रत्ययसन्नियोगेन विश्रवसो विश्रवणादेशः, _Tilaka_; विश्रवसो विश्रवणं वा, _Bhūṣaṇa_). On 7.3.9–10, Śivasahāya compares Vaiśravaṇa’s growth in the penance grove to a sacrificial fire nourished with oblations (आहुतिहुतोऽनल इवावर्धत) and observes that 7.3.10 states his exact motive for entering the forest (तपोवनगमने हेतुमाह): recognizing _dharma_ as the supreme goal (धर्मो हि परमा गतिः).
+
+_____________
+
+**7.3.11–12 (Millennia of Escalating Austerity)**
+
+On 7.3.11, **Rāma Varmā** glosses नियमैर्यन्त्रितः as strictly governed by ascetic vows (संजातनियम इत्यर्थः), while **Govindarāja** renders it as ‘firmly bound by restraint’ (संजातबन्धनः), noting that 7.3.12cd explicitly enumerates the disciplines (विधिमेवाह जलाशीत्यादि) foreshadowed by तं तं विधिम् (वक्ष्यमाणजलाशित्वादिविधिम्, _Tilaka_). **Śivasahāya** adds a valuable lexical clarification on वर्षसहस्रान्ते: although _anta_ ordinarily denotes ‘end’, here it signifies ‘within’ (वर्षसहस्रमध्ये ... अत्रान्तशब्दो मध्यवाची), showing that throughout each completed thousand-year period Vaiśravaṇa practiced its prescribed regimen—progressing from water to air and finally to total fasting.
+
+_____________
+
+**7.3.13–14 (The Advent of Brahmā)**
+
+On 7.3.13a, **Śivasahāya** (_Śiromaṇi_) remarks that the thousands of years wholly absorbed in austerity flew by as swiftly as a single year (तानि तपःपराणि वर्षसहस्राणि एकवर्षवज्जग्मुः). **Rāma Varmā** (_Tilaka_) marks 7.3.13cd–14 as the gracious manifestation of the Creator (अथ भगवत्प्रादुर्भावमाह), who arrives escorted by Indra and the gods to hail Vaiśravaṇa as वत्स (‘dear child’) and सुव्रत (‘keeper of noble vows’). Brahmā’s unprompted declaration that Vaiśravaṇa is worthy of a boon (वरार्हः) affirms that his penance was undertaken purely for _dharma_, not out of covetous ambition.
+
+_____________
+
+**7.3.15–16 (Requesting the Fourth World-Guardianship)**
+
+When Vaiśravaṇa asks for लोकपालत्वम् and वित्तरक्षणम्, both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) interpret the latter as supreme sovereignty over all treasures and wealth, reconciling the cosmic stewardship of a directional regent with the specific office of Treasurer of the Universe. **Śivasahāya** notes that Brahmā uttered बाढम् (‘so be it!’) with manifest delight (हर्षयुक्तं यथा भवति तथा बाढमित्येवाब्रवीत्) because Vaiśravaṇa’s prayer harmonized seamlessly with Brahmā’s own prior intention to establish a fourth guardian alongside Yama, Indra, and Varuṇa (यमादीनां लोकपालानां सम्बन्धि चतुर्थं पदं स्रष्टुमहमुद्यतः).
+
+_____________
+
+**7.3.17–18 (Lordship of Treasures and the Puṣpaka Chariot)**
+
+On 7.3.17, **Rāma Varmā** glosses चतुर्थम् as ‘completing the fourfold order’ (चतुर्णां पूरणम्): attaining the _lokapāla_ station shared by the triad of Yama, Indra, and Varuṇa (यमादित्रयस्य यत्पदं लोकपालपदम्), Vaiśravaṇa becomes the fourth guardian as Lord of Treasures (निधीशत्वमवाप्नुहि). On 7.3.18, Brahmā spontaneously adds the sun-bright aerial chariot Puṣpaka, and **Govindarāja** highlights the elevated force of त्रिदशैः समतां व्रज: Vaiśravaṇa is raised to full divine parity with the thirty gods rather than remaining in the ordinary station of a sage’s son (न तु मुनिपुत्रवद्भवस्वेत्यर्थः).
+
+_____________
+
+**7.3.19 (The Two Boons and Brahmā’s Departure)**
+
+Concluding his benediction, Brahmā declares himself and the gods fulfilled (कृतकृत्याः) in having granted Vaiśravaṇa’s वरद्वयम्. **Rāma Varmā** (_Tilaka_) specifies precisely what constitutes this pair of boons: the office of Lord of Treasures together with the gift of the Puṣpaka chariot (वरद्वयं निधीशत्वपुष्पकदानरूपम्). **Śivasahāya** (_Śiromaṇi_) follows the swift narrative transition from Brahmā’s farewell (तव वरद्वयं दत्त्वा कृतकृत्या गमिष्यामः) to the gods’ ascent into heaven (देवेषु नभस्तलं गतेषु सत्सु), whereupon the newly consecrated Lord of Wealth turns immediately in filial deference to his father Viśravas.
+
+_____________
+
+**7.3.20–22 (Filial Humility and the Vow of Non-Injury)**
+
+Though newly elevated to parity with the thirty gods, Vaiśravaṇa approaches Viśravas with folded palms (प्राञ्जलिः) and composed mind (प्रयतात्मवान्). **Rāma Varmā** concisely glosses निवासनम् as dwelling place (निवासमित्यर्थः), while **Śivasahāya** construes 7.3.20ef–22ab as a single three-line sentence (सार्धश्लोक एकान्वयी): since Prajāpati did not assign a residence (निवासनं निवासस्थानं न विदधे आज्ञापयामास), Vaiśravaṇa asks his father to deliberate and select one (पश्य आलोच्य कथय) where no living creature will suffer injury (यत्र प्राणिनः पीडा न भवेत्). This compassionate stipulation underscores Kubera’s foundational commitment to _ahiṃsā_ and righteous rule.
+
+_____________
+
+**7.3.23 (Viśravas Points to Mount Trikūṭa)**
+
+Responding to his son’s conscientious request, Viśravas—twice honored here as धर्मज्ञः and सत्तमः—bids him listen (श्रूयतामिति वचनं प्राह, _Śiromaṇi_). **Śivasahāya** notes that the closing half-verse दक्षिणस्योदधेस्तीरे त्रिकूटो नाम पर्वतः supplies the understood verb ‘stands’ (पर्वतोऽस्तीति शेषः) and links syntactically into the description of Laṅkā in 7.3.24. By directing Vaiśravaṇa to an uninhabited island citadel far to the south, Viśravas simultaneously honors his son’s condition of non-injury and sets in motion the fateful history of Laṅkā that will dominate the _Rāmāyaṇa_.
+
+_____________
+
+**7.3.24–25 (Viśvakarman’s Citadel Atop Trikūṭa)**
+
+Continuing from 7.3.23cd, **Śivasahāya** (_Śiromaṇi_) glosses तस्याग्रे as ‘upon Trikūṭa’s crest’ (तस्याग्रे शिखरे), supplying the predicate ‘stands’ (वर्तत इति शेषः) to bind 7.3.23cd–24 into a single unit (सार्धश्लोक एकान्वयी). On 7.3.25, he notes the exact parallel between Indra’s celestial Amarāvatī and the rākṣasas’ original fortress (इन्द्रस्य अमरावती इव राक्षसानां निवासार्थं या लङ्का तस्यां त्वं वस). Though originally crafted by the divine architect Viśvakarman for rākṣasas, its celestial splendor makes it uniquely worthy of the newly appointed fourth World-Guardian.
+
+_____________
+
+**7.3.26–27 (Fortifications and the Ancient Flight of the Rākṣasas)**
+
+On 7.3.26, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) analyze यन्त्रशस्त्रसमावृता as an appositional _karmadhāraya_—‘furnished with weapons in the form of mechanical war-engines’ (यन्त्ररूपैः शस्त्रैः समावृता). **Śivasahāya** frames 7.3.27 as anticipating Vaiśravaṇa’s immediate objection: “Are there not rākṣasas already dwelling in Laṅkā?” (न तस्यां राक्षसाः सन्तीत्यत आह). Viśravas dispels that fear by recounting how the earlier rākṣasas abandoned the fortress in terror of Viṣṇu and retreated to Rasātala (विष्णुभयार्दितैः राक्षसैः पुरा परित्यक्ता अत एव रक्षोगणैः शून्या).
+
+_____________
+
+**7.3.28 (An Empty, Unclaimed Kingdom)**
+
+Construing 7.3.28 with 7.3.29ab as a single syntactic unit (सार्धश्लोक एकान्वयी), **Śivasahāya** emphasizes how Viśravas answers every element of Vaiśravaṇa’s scruple from 7.3.22: because Laṅkā presently has no sovereign (तस्याः लङ्कायाः प्रभुर्न विद्यते) and stands wholly deserted (सा लङ्का शून्या), taking up residence there will injure no one and incur no moral fault (तत्र कस्यचिद्बाधो न अत एव ते वासो निर्दोषो भविष्यतीति शेषः). At the narrative level, Viśravas’s brief allusion to rākṣasas driven into Rasātala by Viṣṇu plants the exact seed of wonder that prompts Rāma’s inquiry at the opening of Sarga 4.
+
+_____________
+
+**7.3.29–30 (Peopling and Governing Laṅkā)**
+
+On 7.3.30, **Rāma Varmā** (_Tilaka_) glosses निवासयामास as establishing habitation (निवासमकरोदित्यर्थः) and joins it directly with the joyful hosts (प्रमुदितैर्नैर्ऋतानां सहस्रैः सह निवासयामास), a construction echoed by **Govindarāja** (_Bhūṣaṇa_, प्रमुदितैः सह निवासयामासेति योजना). Both gloss सम्पूर्णा as overflowing with wealth, grain, and every commodity (धनधान्यादिसर्ववस्तुपूर्णा, _Tilaka_), while Rāma Varmā explains शासनात् as ‘through his protective rule’ (शासनात् पालनात्). **Śivasahāya** (_Śiromaṇi_) adds that by Vaiśravaṇa’s command Laṅkā quickly teemed with throngs of Nairṛtas (बहुभिर्नैर्ऋतैः सम्पूर्णा लङ्काभवत्).
+
+_____________
+
+**7.3.31–32 (Righteous Reign and Filial Devotion)**
+
+Even after ascending to sovereignty over ocean-moated Laṅkā as धनेश्वरः, Vaiśravaṇa retains the disciplined humility of a sage’s son (विनीतात्मा). **Śivasahāya** observes on 7.3.31–32 that he dwelt happily as bull among the Nairṛtas and glosses काले काले specifically as ‘at the proper seasons of filial service’ (काले काले सेवासमये धनेश्वरः पुष्पकेण पितरं मातरं चाभ्यगच्छत्), highlighting his unfailing visits by Puṣpaka to wait upon both Viśravas and Devavarṇinī. His serene filial devotion stands in stark narrative contrast to the arrogance of his half-brother Rāvaṇa in the sargas ahead.
+
+_____________
+
+**7.3.33 (The Sun-Bright Procession to Viśravas)**
+
+Closing the sarga in stately 12-syllable _Vaṃśastha_ meter, Vālmīki depicts Kubera’s celestial splendor as he visits his father. Both **Rāma Varmā** and **Śivasahāya** identify आलयम् in अप्सरोनृत्यविभूषितालयः specifically with the Puṣpaka aerial chariot itself, graced by dancing Apsarases (अप्सरोनृत्यैर्विभूषितमालयं पुष्पकं यस्य सः, _Tilaka_; अप्सरसां नृत्यैर्विभूषितमालयं पुष्पकं यस्य स वित्तपः, _Śiromaṇi_). Rāma Varmā further glosses अवभासयन् as ‘shining resplendently’ (शोभमानः), underscoring how Kubera radiates solar brilliance even as he bows before his ascetic father.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

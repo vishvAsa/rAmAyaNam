@@ -1242,6 +1242,116 @@ in their aircrafts, tarried there in the firmament peering inquisitively at Rama
 
 Speaking thus, the royal sages (_rājarṣayaḥ_), _siddhas_, foremost of twice-born sages with their attendants (_sagaṇāś ca dvijarṣabhāḥ_), and the gods stationed in their aerial cars (_vimāna-sthāś ca devatāḥ_) stood filled with eager curiosity (_jāta-kautūhalās tasthuḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.24.1–2 (autpātikān & prajānām)**
+
+**Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) explain the suffix ठक् in औत्पातिकान् as pleonastic (औत्पातिकानुत्पातान् स्वार्थे ठक्). On अत्यमर्षणः, _Tilaka_ glosses Rāma as deeply perturbed (अत्यस्वस्थचित्तः), while _Śiromaṇi_ explains it as intolerant of the sages' distress (मुनिखेदादिद्विष्णुः), taking प्रजानाम् contextually as the _rākṣasas_ (प्रकृतत्वाद्राक्षसा एवात्र प्रजाः) and the two दृष्ट्वा forms as beholding (अवलोक्य) and reflecting (विचार्य च).
+
+_____________
+
+**3.24.3–4 (Portents of Demon Destruction)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that portents capable of heralding universal destruction (सर्वभूतापहारसूचकान्) have here arisen to portend the annihilation of all _rākṣasas_ (प्रकृते तु सर्वराक्षसान् संहर्तुमुत्थितान्). In 4ab, _Śiromaṇi_ takes रुधिरधाराः as object of विसृजन्ते, whereas _Bhūṣaṇa_ takes it as qualifying the clouds (रुधिरमव्यो धाराः येषां ते).
+
+_____________
+
+**3.24.5–6 (Auspicious Signs for Rāma)**
+
+**Rāma Varmā** (_Tilaka_) explains that Rāma's arrows stir (तूणीरेषु चलन्ति) by transference of his own battle-joy (स्वगतानन्दस्य शरेषूपचारः), while **Govindarāja** notes plural चापानि for Rāma's two bows and Lakṣmaṇa's one (आत्मनश्चापद्वयं लक्ष्मणस्यैकमिति). On 6c, _Tilaka_ and _Śiromaṇi_ note both नोऽभयं (“safety for us”) and नो भयं (“imminent danger”).
+
+_____________
+
+**3.24.7–8 (The Throbbing Right Arm & Radiant Face)**
+
+All three commentators specify that Rāma's throbbing arm (बाहुः स्फुरमाणः) is his auspicious right arm (दक्षिण इति शेषः, _Tilaka_, _Bhūṣaṇa_). Linking verses 7 and 8 (श्लोकद्वयमेकान्वयि, _Śiromaṇi_), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) construe जयम् and पराजयम् with आख्याति (“proclaims victory for us and defeat for the foe”). **Govindarāja** (_Bhūṣaṇa_) observes that since one cannot behold one's own face (स्वमुखप्रसादादेः स्वयं द्रष्टुमशक्यत्वेन), Rāma points to the radiant face of his equal Lakṣmaṇa (स्वसमाने लक्ष्मणे निदर्शयति).
+
+_____________
+
+**3.24.9–10 (Fading Lustre & War-Drums)**
+
+Explaining the negative corollary (व्यतिरेकमुखेनाह, _Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_) notes that the present tense in भवत्यायुःपरिक्षयः expresses immediate futurity (वर्तमानसामीप्ये लट्), while **Śivasahāya** (_Śiromaṇi_) remarks that the drum-clamour shows the demon battle-array is underway (युद्धोद्योग इदानीमेवास्तीति सूचितम्).
+
+_____________
+
+**3.24.11–12 (anāgatavidhānam & the Mountain Cave)**
+
+**Govindarāja** (_Bhūṣaṇa_) defines अनागतविधानम् as forestalling a future misfortune (भाविनोऽनर्थस्य प्रतिविधानम्) when portents awaken apprehension (निमित्तवशाच्छङ्कमानेन); Rāma bids Lakṣmaṇa guard Sītā (रक्ष्यत्वेन गृहीत्वा) in a cavern overgrown with trees (वृक्षव्याप्तामत एव दुर्गाम्, _Śiromaṇi_).
+
+_____________
+
+**3.24.13–14 (The Oath by Rāma's Feet)**
+
+Anticipating Lakṣmaṇa's plea to fight (अहमेव योधयामीति वक्तुमुद्यतं प्रत्याह, _Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note the _ārṣa_ infinitive प्रतिकूलितुम् with distinct agent त्वया (समानकर्तृकत्वाभावे तुमुनार्षः). **Govindarāja** (_Bhūṣaṇa_) explains that Rāma swears by his own feet in keeping with Lakṣmaṇa's devotion (प्रकृतिलक्ष्मणव्यवहारानुसारेण) and fights alone to honour his vow to the sages (मुनिभ्यः प्रतिज्ञातात्), while _Tilaka_ notes 14ab dispels any doubt of Lakṣmaṇa's valour (असामर्थ्यान्मां वारयतीति शङ्कां निराचष्टे).
+
+_____________
+
+**3.24.15–16 (hanta niryuktam)**
+
+All three commentators take हन्त as an exclamation of joy (हन्तेति हर्षे). **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss निर्युक्तम् as “my command is accomplished without obstacle” (मदुक्तं निष्प्रत्यूहमवसितम्), whereas **Govindarāja** (_Bhūṣaṇa_), citing _Amara_, glosses it as “the expedient is arranged” (उपायश्चिन्तित इत्यर्थः).
+
+_____________
+
+**3.24.17–18 (Fire in the Darkness)**
+
+**Rāma Varmā** (_Tilaka_) attributes the armour's glow to its gems (नानारत्नकान्त्याऽग्निसादृश्यम्), while **Govindarāja** (_Bhūṣaṇa_) notes the simile (उपमालंकारेण) suggests the swift destruction of the night-roaming demons (क्षणेन रक्षःक्षयो ध्वन्यते).
+
+_____________
+
+**3.24.19–20 (Celestial Spectators & brahmarṣis)**
+
+Reconciling this gathering with the previous _sarga_, **Govindarāja** (_Bhūṣaṇa_) explains that their earlier arrival was from afar, whereas here they draw near the battlefield (पूर्वत्र समागमनमुक्तम् अत्र संनिधानम्). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** take लोके as the three worlds (त्रैलोक्ये), identify the sages as Vasiṣṭha and his peers (वसिष्ठादयः), and note the _ārṣa_ short vowel in पुण्यकर्मणः (अदीर्घत्वमार्षम्).
+
+_____________
+
+**3.24.21–22 (Benediction & Comparison to Viṣṇu)**
+
+**Rāma Varmā** (_Tilaka_) notes the _ārṣa_ genitive गोब्राह्मणानाम् for the dative (षष्ठी चतुर्थ्यर्थे आर्षी). On लोकानां येऽभिसंगताः, **Govindarāja** (_Bhūṣaṇa_) glosses “those well-disposed toward the worlds” (लोकानामनुकूलाः), while _Tilaka_ explains it as benefactors of the world-guardians through offerings (बलिहोमादिद्वारोपकारकाः); both identify चक्रहस्तः as Viṣṇu (चक्रहस्तो विष्णुः).
+
+_____________
+
+**3.24.23–24 (dharmātmā & Royal Sages)**
+
+**Rāma Varmā** (_Tilaka_) glosses धर्मात्मा as fighting without deceit (अच्छलयोधीत्यर्थः), explaining the celestials' curiosity (संदेहेन जातकौतूहलाः, _Śiromaṇi_), while **Govindarāja** explains राजर्षयः as either heaven-attained (देवत्वं प्राप्ताः) or _vānaprastha_ kings (वानप्रस्थगताः).
+
+_____________
+
+**3.24.25–26 (Rāma's Martial Splendour & Rudra)**
+
+On तेजसा, **Rāma Varmā** (_Tilaka_) observes that while the Lord's innate nature is serene and Brahmanic (सहजस्वभावो भगवतो ब्राह्म एव), He assumes martial splendour (क्षात्रेण तेजसा) at will for His work (स्वेच्छया कार्याय भगवता स्वीक्रियते). **Śivasahāya** (_Śiromaṇi_) adds that all beings trembled out of fear at Rāma's unaccustomed exertion (अभूमिष्ठरामपरिश्रमजनितभीतेः) as His form resembled wrathful Rudra (क्रुद्धस्य रुद्रस्येव).
+
+_____________
+
+**3.24.27–28 (The Advancing Demon Host)**
+
+Reading घोरवर्मायुधध्वजम्, **Govindarāja** (_Bhūṣaṇa_) glosses वर्म as armour (कवचम्), whereas **Śivasahāya** (_Śiromaṇi_) reads चर्म (“shields”). On 28cd, _Śiromaṇi_ explains वीरालापान् as warriors' boasts (वीरसूचकमहाशब्दान्), while _Bhūṣaṇa_, reading अन्योन्यमभिगर्जताम्, explains that the demons roar boasting “I alone shall slay the foe!” (अहमेव रिपुं हनिष्यामीति जल्पताम्).
+
+_____________
+
+**3.24.29–30 (jṛmbhatām & Terrified Predators)**
+
+**Govindarāja** (_Bhūṣaṇa_) interprets जृम्भताम् as swelling with pride (मदेनोद्गच्छताम्), whereas **Rāma Varmā** (_Tilaka_) attributes their yawning to liquor consumed before battle (मादकद्रव्यस्वीकारजं जृम्भणम्); _Bhūṣaṇa_ cites _Vaijayantī_ (घोषो गुञ्जनमञ्जने) on the din terrifying beasts of prey (श्वापदाः हिंस्रा व्याघ्रादयः).
+
+_____________
+
+**3.24.31–32 (Flight of Beasts & the Ocean-Like Host)**
+
+Linking verses 30 and 31, all three commentators explain that the terrified beasts fled to wherever there was no noise (यत्र निःशब्दं शब्दाभावस्तं देशं दुद्रुवुः), without looking back out of fear (भीतिवशादिति शेषः, _Tilaka_). On गम्भीरं सागरोपमम्, **Govindarāja** (_Bhūṣaṇa_) glosses गम्भीरम् as impenetrable by foes (इतरदुष्प्रवेशम्).
+
+_____________
+
+**3.24.33–34 (vitatya & Assumed Wrath)**
+
+Citing _Vaijayantī_ (विततं संहितस्येषोः किंचिदेव विसर्पणम्), **Govindarāja** (_Bhūṣaṇa_) explains वितत्य as drawing the nocked shaft slightly back, and reads dual तूण्योः for Rāma's two quivers (पृष्ठपार्श्वद्वययोः). Both **Govindarāja** and **Śivasahāya** (_Śiromaṇi_) observe that क्रोधमाहारयत् shows Rāma, though compassionate (करुणावृत्तिरपि), deliberately assuming wrath (स्वीकृतकोपाभासः) to uproot the thorns afflicting his suppliants (आश्रितकण्टकोद्धारणाय).
+
+_____________
+
+**3.24.35–36 (Śiva at Dakṣa's Sacrifice & Sunrise Clouds)**
+
+**Rāma Varmā** (_Tilaka_) notes _ārṣa_ प्राव्यथन् (प्राव्यथन्त), while **Govindarāja** explains the Pināka-wielding Śiva simile (पिनाकिनः) as illustrating extreme wrath (क्रोधातिशयमात्रे दृष्टान्तः); on 36, _Tilaka_ and _Bhūṣaṇa_ liken the dark demons to clouds (नीलाभ्रजालस्थानीया राक्षसाः) and their fiery mail to sunrise rays (कवचसूर्यकिरणयोः साम्यम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

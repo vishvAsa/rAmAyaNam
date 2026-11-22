@@ -1545,6 +1545,134 @@ object of his coming being fulfilled and the enemy fallen."
 
 Reunited (_samāgamya_) and embraced upon the chest of that broad-chested hero (_tasyorasi mahorasaḥ_), you shall shed tears born of bliss (_asrāṇy ānanda-jāni vartayiṣyasi_), O Jānakī!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.33.1–3 (Saramā's Identity and Her Bond with Sītā)**
+
+Identifying the affectionate friend (प्रणयिनी स्नेहवती सखी), **Govindarāja** and **Rāma Varmā** state that Saramā is the wife of Vibhīṣaṇa (सरमा विभीषणभार्या), though **Rāma Varmā** also records the view of other scholars that she is a separate rākṣasī matron of Rāvaṇa's clan (ततोऽन्यैवैषा सरमेत्यन्ये) appointed by him to oversee Sītā's welfare and guard her from fiercer rākṣasīs (क्रूरराक्षसीभ्यो रक्षणाय रावणेनाज्ञापिता). Because she was naturally compassionate (सानुक्रोशा सदया) and vowed to protect Sītā even at the cost of her life (दृढव्रता प्राणैरपि ममैषा रक्षणीयेति दृढप्रतिज्ञा), Sītā made her a trusted confidante.
+
+_____________
+
+**6.33.4–5 (The Mare in the Dust and Words of Comfort)**
+
+Saramā finds Sītā risen from rolling in the dust (पांसुषु उपावृत्य लुठित्वा उत्थिताम्), soiled and bewildered like a thoroughbred mare after a long journey (अत एव ध्वस्तां रजोव्याप्तां वडवामिव नष्टचेतनां कर्तव्यविमूढां). Comforting her out of friendship (सखीस्नेहेन सखीविषयस्नेहेन), Saramā assures her that she heard both Rāvaṇa's cruel boast and Sītā's own lament (स्वयं त्वया यत् प्रयुक्तं प्रलापरूपम्).
+
+_____________
+
+**6.33.6 (Eavesdropping from the Thicket)**
+
+Anticipating how she could overhear Rāvaṇa without being detected, Saramā explains that she concealed herself inside a dense, deserted thicket of the Aśoka grove (गहनेऽशोकवनमध्ये, लीनया गुप्तं स्थितया रावणाद्भयमुत्सृज्य स्थितया सर्वं श्रुतम्). Where our text reads `for your sake I have no fear of Rāvaṇa', **Govindarāja** reads न हि मे जीवितं प्रियम् (`for your sake even my own life is not dear to me', तव हेतोः तव निमित्तम् मे जीवितमपि न प्रियम्).
+
+_____________
+
+**6.33.7–8 (Why Rāma Cannot Be Slain in a Night-Ambush)**
+
+Saramā explains that after Rāvaṇa's flustered exit, she stepped outside the grove (अभिनिष्क्रम्य बहिर्गत्वा मया विदितं ज्ञातम्) and learned the whole truth. Before recounting the news, she first dispels Sītā's grief through reason (_upapatti_): a night-slaughter (सौप्तिकं सुप्तिकालयुद्धम्) is impossible against Rāma because he is _viditātman_—which **Rāma Varmā** glosses as `one whose mind has conquered sleep and sloth' (जितनिद्रालस्यादिदोषचित्तस्येत्यर्थः) and **Śivasahāya** as `knower of the Supreme Self' (ज्ञातपरमात्मस्वभावस्य). Moreover, in that tiger among men of peerless valor (पुरुषव्याघ्रे सर्वातिशायिशौर्यवति), violent death is a contradiction in terms.
+
+_____________
+
+**6.33.9 (The Invulnerability of Rāma's Monkey Host)**
+
+Addressing Rāvaṇa's claim that the monkey legions were butchered in their sleep, Saramā argues that the tree-wielding monkeys are equally impossible to massacre, both through their own strength and because they are guarded by Rāma just as the gods are guarded by Indra or Viṣṇu (देवर्षभेण विष्णुना सुरक्षिताः सुरा इव रामेण रक्षिताः वानराः हन्तुं नैव शक्याः).
+
+_____________
+
+**6.33.10–12 (Auspicious Bodily Marks and Martial Vigilance)**
+
+**Śivasahāya** construes the six half-verses of 10–12 as a single syntactic period (अर्धषट्कमेकान्वयि) culminating in `Rāghava has not been slain!' (_na hato rāghavaḥ_). **Govindarāja** notes that these three verses prove Rāma's invulnerability not only from his martial vigilance and Lakṣmaṇa's watchfulness, but from his auspicious bodily marks (सौभाग्यलक्षणादिभिरप्यवध्यो राम इत्याह श्लोकत्रयेण): long cylindrical arms, broad chest, radiant splendor (श्रीमान् कान्तिमान् प्रतापवान् तेजस्वी), and well-knit limbs (संहननोपेतः शोभनावयवसंस्थानः).
+
+_____________
+
+**6.33.13–14 (Exposing the Illusion and Announcing Good Fortune)**
+
+Answering how she saw the head and bow if Rāma is alive, Saramā explains that Rāvaṇa, whose intellect and deeds are base and incoherent (अयुक्तबुद्धिकृत्येन अनर्हबुद्धिव्यापारेण), conjured a magical illusion against her (सर्वभूतविरोधिना रावणेन त्वयि माया प्रयुक्ता); **Govindarāja** notes that such a petty trick only betrays Rāvaṇa's desperation and loss of nerve (मायाशिरोदर्शनादेस्तत्कृत्यस्य शैथिल्यलाघवहेतुत्वादिति भावः). In 6.33.14, **Rāma Varmā** and **Śivasahāya** take _bhavati_ as the respectful vocative `O noble lady!' (हे भवति ते प्रियं प्रियवचनम्), while **Govindarāja** notes the present _bhajate_ expresses imminent certainty (भजते सेविष्यते सामीप्ये लट्प्रयोगः).
+
+_____________
+
+**6.33.15–16 (Saramā's Eyewitness Report of Rāma's Camp)**
+
+Saramā reveals the truth that Rāvaṇa inverted: Rāma has crossed the ocean with the monkey host and encamped on the southern—not the northern—shore (संनिविष्टः स्थितः). On दृष्टो मे (`seen by me', मया दृष्ट इत्यर्थः), **Rāma Varmā** remarks that as a sky-going rākṣasī and Vibhīṣaṇa's wife, Saramā had either visited Rāma's camp directly as she would her own home or viewed it from the sky above the grove, seeing Rāma guarded by troops along the seashore (सागरान्तस्थैः सागरतीरस्थैः).
+
+_____________
+
+**6.33.17–18 (The Scouts' Report and Rāvaṇa's Emergency Council)**
+
+**Śivasahāya** links verses 16–17 closely (सार्धश्लोक एकान्वयी): the fleet-footed scouts dispatched by Rāvaṇa himself returned with the intelligence that Rāghava had crossed the sea (अनेन रावणेन ये प्रेषिताः राक्षसाः तैः राघवस्तीर्णः इत्येवं प्रवृत्तिः वार्ता इहाहृता). It was upon receiving this alarming report that Rāvaṇa hurried from the grove to hold emergency counsel with all his ministers.
+
+_____________
+
+**6.33.19–21 (The Thunder of the Muster-Drums)**
+
+Even as Saramā explains Rāvaṇa's council, the city erupts with the roar of the muster ordered in 6.32.43—providing Sītā with immediate acoustic proof that Rāvaṇa's war has only just begun! **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** gloss _saṃnāhajanī_ as `the call to don armor for battle against Rāma' (संनाहं युद्धाय संनहनम्, संनाहजननी युद्धोद्योगज्ञापकशब्दोत्पादिका भेरिका वर्तते), comparing the deep boom of the kettle-drum beaten with the drumstick to the rumble of storm-clouds (तोयदनिःस्वनं तोयदनिःस्वनतुल्यम्).
+
+_____________
+
+**6.33.22–23 (Elephants, Cavalry, and Highways Flooded with Troops)**
+
+Saramā describes the mobilization unfolding across Laṅkā: rutting war-elephants are being arrayed, steeds are yoked to chariots (युज्यन्ते रथेनेति शेषः), and thousands of lance-bearing cavalry and mailed soldiers converge from every side (संपतन्ति संघीभवन्ति). **Govindarāja** explains that the royal thoroughfares (राजमार्गाः आपूर्यन्ते) are packed with the fourfold army of chariots, elephants, cavalry, and foot-soldiers (सैन्यैः सेनासमवेतरथगजतुरगपदातिभिः) decked in wondrous battle-array.
+
+_____________
+
+**6.33.24 (The Ocean Simile and Burnished Panoply)**
+
+**Govindarāja** notes that 6.33.24a completes the sentence of verse 23 (सार्धश्लोकः): the royal highways fill with roaring, swift-marching regiments just as the ocean swells with roaring torrents (_toyaughair iva sāgaraḥ_). Meanwhile, 24b initiates a new sentence (completed in verse 25) describing the flash of weapons polished bright on the whetstone (प्रसन्नानां शाणोल्लेखननिर्मलानाम्), leather bucklers (चर्म फलकम्), and corselets (वर्म कवचम्).
+
+_____________
+
+**6.33.25–26 (The Wildfire Radiance of Burnished Armor)**
+
+Completing the genitive construction begun in 6.33.24b (सार्धश्लोकद्वयमेकान्वयि), **Śivasahāya** and **Govindarāja** connect the polished weapons, shields (चर्मणां फलकानाम्), and corselets with the participle _visṛjatām_ (`emitting'): they flash with multi-colored hues like a forest fire in summer (नानावर्णसमुत्थितां घर्मे वनं निर्दहतः विभावसोः रूपमिव प्रभां विसृजतां शस्त्रादीनां) whose flames change tint as they consume diverse herbs and trees. **Govindarāja** also notes a clever word-division in 26a: विसृज ताम् (`behold the radiance, and cast off your grief!', विसृज शोकमिति शेषः).
+
+_____________
+
+**6.33.27–28 (The Clamor of Mobilization and Textual Note)**
+
+Saramā bids Sītā listen to the bells of rutting war-elephants (घण्टानां मत्तगजघण्टानाम्), the grinding of chariot-rims (रथानां निःस्वनं नेमिसंघट्टनजम्), the neighing of chargers, and the blare of war-horns. **Govindarāja** ingeniously also parses _hayānāṃ heṣamāṇānām_ by sandhi-splitting हेषम् आणानाम् (`hear the neighing of the resounding horses', आणानां शब्दायमानानाम् हेषं शब्दं). **Rāma Varmā** notes that **Kataka** regards two verses here as an interpolation (इति श्लोकद्वयं प्रक्षिप्तमिति कतकः) expanding on the muster.
+
+_____________
+
+**6.33.29 (Sorrow-Destroying Fortune and Rāvaṇa's Terror)**
+
+Summing up the omen of the tumult, Saramā proclaims that while hair-raising dread has overtaken the rākṣasas (रक्षसां तुमुलं लोमहर्षणं भयमागतं विद्धि), sorrow-destroying Victory (शोकघ्नी श्रीः विजयलक्ष्मीः भजति) is already embracing Sītā. **Śivasahāya** and **Govindarāja** link 29b forward with verse 30 (राम इत्यादि सार्धश्लोक एकान्वयः): lotus-petal-eyed Rāma shall vanquish the rākṣasas just as Indra vanquished the Daityas.
+
+_____________
+
+**6.33.30–31 (Rāma and Lakṣmaṇa as Indra and Upendra)**
+
+Commenting on _kamalapatrākṣaḥ_ (29b) with 30, **Govindarāja** cites physiognomic lore (_sāmudrika-śāstra_) that Fortune never forsakes one with lotus-reddish eyes (श्रीर्न त्यजति रक्ताक्षमिति सामुद्रिकोक्तरीत्यावश्यं श्रीसंपत्तिः). Rāma's prowess is inconceivable because a single arrow of his quelled the demons of Daṇḍaka (एकेन शरेण दण्डकान्तारवासिसकलदस्युवारणादप्रमेयपराक्रमः), and he is _jitakrodhaḥ_ because his wrath waits only until Rāvaṇa faces him in battle (रावणस्याभिमुखमनागमनात् क्रोधावकाशमलभमानस्तिष्ठतीति भावः). In 31, Rāma and Lakṣmaṇa will rout the rākṣasas just as Indra and his younger brother Upendra (Viṣṇu/Vāmana) routed the Asuras (विष्णुना उपेन्द्रेण).
+
+_____________
+
+**6.33.32–33 (The Joyful Reunion and Tears of Bliss)**
+
+Once Rāvaṇa is felled (शत्रौ रावणे विनिपातिते सति), Saramā looks forward to beholding Sītā seated on Rāma's lap—her own reward for comforting Sītā being the sight of the reunited lovers' blossoming joy (चिरप्रवासादागतस्य दयितादर्शने कोऽपि विकासो भवेत्स मया द्रक्ष्यत इति भावः). Clasped to the chest of the broad-chested Rāma (महोरसः रामस्य उरसि), Sītā will shed tears born of joy; **Govindarāja** notes that the samāsānta suffix _-ka_ (_kap_) is optional in bahuvrīhis, explaining the consonant-stem genitive _mahorasaḥ_ (समासान्तविधेरनित्यत्वात् कप्प्रत्ययाभावः).
+
+_____________
+
+**6.33.34 (Unbinding the Ekaveṇī of Separation)**
+
+Throughout her captivity since her separation from Rāma, Sītā has worn her hair twisted into a single unadorned braid (_ekaveṇī_), the traditional emblem of a wife parted from her husband, hanging down to her hips (जघनं गतां नितम्बावलम्बिनीम्). **Govindarāja** notes the accusative of duration _bahūn māsān_ (अत्यन्तसंयोगे द्वितीया) and remarks that Rāma himself will soon unbind (मोक्ष्यति विश्लेषयिष्यति) that braid of sorrow, noting the _ārṣa_ middle ending in _mokṣyate_ (आर्षमात्मनेपदम्).
+
+_____________
+
+**6.33.35–36 (Shedding Sorrow Like a Serpent's Slough)**
+
+Gazing upon Rāma's moon-like face, Sītā will cast off her tears of grief as completely as a female snake sheds its old skin (तस्य रामस्य मुखं दृष्ट्वा पन्नगी निर्मोकं त्वचमिव शोकजं वारि मोक्ष्यसे त्यक्ष्यसे). **Govindarāja** remarks that the simile of the serpent's slough (_nirmoka_) signifies the total, irreversible cessation of sorrow (निर्मोकदृष्टान्तेन शोकाश्रुणोः निःशेषनिवृत्तिरुच्यते). On _samagraḥ_ in 36b, **Rāma Varmā** and **Śivasahāya** gloss it as `united with you' (समग्रः सहितः), while **Govindarāja** glosses it as `having all his desires fulfilled' (समग्रः संपूर्णमनोरथः).
+
+_____________
+
+**6.33.37 (The Harvest-Rich Earth Rejoicing in Rain)**
+
+Where **Śivasahāya** reads सभाजिता (`cherished and honored by Rāma, you shall rejoice like the earth blessed with good rain and crops', सस्येन मेदिनी सुवर्षेणेव रामेण सभाजिता सत्कृता त्वं मोदिष्यसि), **Govindarāja** reads समागता त्वं वीर्येण, explaining that Sītā, reunited with Rāma like the crop-bearing earth with timely rain, will rejoice through his heroic valor (वीर्येण तच्छौर्येण मोदिष्यसि).
+
+_____________
+
+**6.33.38 (The Benediction to the Sun-God)**
+
+$19
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

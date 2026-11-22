@@ -1163,6 +1163,116 @@ no untruth. [3-23-23b, 24a]
 
 —let that sister of mine have her desire fulfilled (_sakāmā bhaginī me &#x27;stu_) by drinking the blood of those two (_pītvā tu rudhiraṃ tayoḥ_)! Never anywhere in battles have I experienced defeat before (_na kvacit prāpta-pūrvo me parājayaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.23.1–2 (Rain of Blood & Stumbling Steeds)**
+
+$18
+
+_____________
+
+**3.23.3–4 (Solar Halo & Vulture on the Standard)**
+
+On परिवेषणम् (`3.23.3b`), **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) explain that a dark solar halo rimmed with blood-red encircled the sun like a whirling firebrand (वर्तुलाकारत्वेन अलातचक्रसदृशम्, _Śiromaṇi_), while a huge vulture settled atop Khara's golden standard (`3.23.4`).
+
+_____________
+
+**3.23.5–6 (abhidīptāyāṃ diśi)**
+
+Linking verses 5–6 syntactically (श्लोकद्वयमेकान्वयि, _Śiromaṇi_), **Rāma Varmā** (_Tilaka_) cites the omen treatise _Vasantarājaśākuna_ (विवस्वदाशा भवति प्रदीप्ता इति वसन्तराजोक्तेः) to define अभिदीप्तायां दिशि as the quarter occupied by the sun (रवियुक्तायाम्).
+
+_____________
+
+**3.23.7–9 (toyaśoṇitadhāriṇaḥ & Untimely Twilight)**
+
+On `3.23.7`, **Rāma Varmā** (_Tilaka_) glosses प्रभिन्नगजसंकाशाः as resembling rutting elephants (मत्तगजतुल्याः) and records the variant प्रभिन्नगिरिसंकाशाः (“like mountains oozing red mineral streams”, गैरिकादिधातुस्राविणः), while **Govindarāja** (_Bhūṣaṇa_) explains तोयशोणितधारिणः via _rājadantādi_ inversion (शोणिततोयधारिणः परनिपातः). On क्षतजार्द्रसवर्णाभा (`3.23.9a`), _Tilaka_ and _Bhūṣaṇa_ explain that an unseasonable twilight glowed among the clouds (मेघेष्विति शेषः) like a cloth soaked in blood (रुधिरार्द्रवस्त्रादिसमानवर्णा).
+
+_____________
+
+**3.23.10–11ab (Distinction Between the Jackal Omens)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain why `3.23.10–11ab` is not redundant after `3.23.6`: earlier the jackals howled facing the sun (पूर्वं सूर्यदिगभिमुखं शिवारुतमुक्तम्), whereas now they howl with flame-vomiting mouths directly confronting Khara's army (इदानीं खरसैन्याभिमुखेनेति भेदः, _Tilaka_; इति न पौनरुक्त्यम्, _Śiromaṇi_).
+
+_____________
+
+**3.23.11cd–12 (kabandhaḥ & Eclipse on an aparvan)**
+
+On कबन्धः (`3.23.11c`), **Rāma Varmā** (_Tilaka_) cites **Tīrtha** identifying it as a comet (धूमकेतुरिति तीर्थः), whereas **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) take it as a headless-trunk cloud obscuring the solar disc (कबन्धाकारमेघखण्डः), _Bhūṣaṇa_ quoting both the _Kāmandakīya_ (सूर्ये दृष्टकबन्धारिः) and **Varāhamihira** (अपर्वणि तथा राहुग्रहणं चन्द्रसूर्ययोः).
+
+_____________
+
+**3.23.13–15 (khadyotasaprabhāḥ, cīcīkūcīti & Meteors)**
+
+On खद्योतसप्रभाः (`3.23.13b`), **Rāma Varmā** (_Tilaka_) explains that the daytime stars resembled fireflies (ज्योतिरिङ्गणसमानकान्तयः, _Bhūṣaṇa_) in both their dimness and their flickering instability (निस्तेजस्कत्वेन चाञ्चल्येन च). On चीचीकूचीति (`3.23.15a`), all three commentators identify it as an onomatopoeic cry (शब्दानुकरणम्) of wild mynah birds uttering untaught screeches (न तु शिक्षितं शब्दमित्यर्थः, _Tilaka_). On उल्काः सनिर्घोषाः (`3.23.15c`), **Govindarāja** (_Bhūṣaṇa_) quotes **Varāhamihira** defining _ulkā_ (falling meteor) and _nirghāta_ (the loud crash when a wind-driven meteor strikes the ground).
+
+_____________
+
+**3.23.16–17 (vanakānanā & Bodily Portents)**
+
+On सशैलवनकानना (`3.23.16b`), **Śivasahāya** (_Śiromaṇi_) distinguishes वन and कानन as open woods and dense forest (निबिडानिबिडत्वेन भेदात् न पौनरुक्त्यम्). On `3.23.17`, the commentators note that the throbbing of a man's left arm (सव्यो वामः भुजः प्राकम्पत), the choking of his voice (गद्गदकण्ठतया प्रतिबद्धोऽभूत्, _Bhūṣaṇa_), and tear-filled eyes portend his death.
+
+_____________
+
+**3.23.18 (rujā & Poetics of trāsa and garva)**
+
+On `3.23.18`, **Govindarāja** (_Bhūṣaṇa_) cites the _Amarakośa_ on रुजा (“pain”, पीडा) and quotes the _Sāhityacintāmaṇi_ on how meteors and wild beasts trigger _trāsa_ (panic), whereas Khara's defiant laughter in `19a` manifests the _vyabhicāribhāva_ of _garva_ (hubris).
+
+_____________
+
+**3.23.19–20 (Definition of garva & Shooting Down the Stars)**
+
+Continuing his dramaturgical analysis on `3.23.19–20`, **Govindarāja** (_Bhūṣaṇa_) quotes a definition of _garva_ (arrogant pride born of strength or lineage that expresses itself in boasting and contempt for others, तद्विद्विकत्थनावज्ञाचापलादिभवेदिह) and glosses दुर्बलानिव as “like puny beasts” (पश्वादीन्). **Śivasahāya** (_Śiromaṇi_) remarks that in `20cd` Khara proclaims his superhuman might (स्वप्रभावातिशयमेवाह) by boasting he could bring down the stars with his shafts.
+
+_____________
+
+**3.23.21–23ab (viparyayaḥ & Śūrpaṇakhā's Wish)**
+
+On बलोत्सिक्तम् (`3.23.21c`), **Rāma Varmā** (_Tilaka_) glosses बलाधिकम् and **Govindarāja** (_Bhūṣaṇa_) gives गर्वितम् (“arrogant”). On यन्निमित्तं तु रामस्य लक्ष्मणस्य विपर्ययः (`3.23.22cd`), _Tilaka_ explains विपर्ययः as perverse cruelty of mind (क्रूरबुद्धिरूपः) provoked on Śūrpaṇakhā's account (शूर्पणखानिमित्तम्), while **Śivasahāya** (_Śiromaṇi_) takes it as the overstepping of bounds shown in disfiguring her (विरूपकरणसूचितमतिरेकः).
+
+_____________
+
+**3.23.23cd–24 (yuṣmākam etat pratyakṣam)**
+
+On एतत् (`3.23.24a`), **Rāma Varmā** (_Tilaka_) notes that Khara appeals to his soldiers' direct knowledge of his unbroken invincibility (एतन्मम पराजयाभावरूपं वस्तु).
+
+_____________
+
+**3.23.25–26 (mṛtyupāśāvapāśitā)**
+
+On मृत्युपाशावपाशिता, **Śivasahāya** (_Śiromaṇi_) glosses it as bound fast in Death's noose (मृत्युपाशबद्धा), underscoring the dramatic irony that the demon host rejoiced at Khara's roar even as doom ensnared them.
+
+_____________
+
+**3.23.27 (sahitāḥ & puṇyakarmaṇaḥ)**
+
+On सहिताः (`3.23.27c`), **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) interpret the compound as “devoted to the welfare of the worlds” (लोकहितपराः, _Bhūṣaṇa_; सर्वहिताः, _Śiromaṇi_). On the nominative plural पुण्यकर्मणः, all three commentators explain that it stands for पुण्यकर्माणः by _ārṣa_ license (दीर्घाभाव आर्षः, _Bhūṣaṇa_; संज्ञापूर्वकविधेरनित्यत्वात्, _Śiromaṇi_).
+
+_____________
+
+**3.23.28–29 (The Celestials' Benediction & jayatām)**
+
+On `3.23.28`, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain the prayer of the celestials: “May welfare attend cows, Brāhmaṇas, and all righteous beings revered in the worlds (ये लोकसंमताः लोकेष्विष्टास्तेभ्यः, _Śiromaṇi_).” **Govindarāja** (_Bhūṣaṇa_), reading येऽभिसंगताः, glosses “those who are gentle toward all creatures” (ये लोकानामक्रूराः तेभ्योऽपि स्वस्त्यस्तु), and notes the epic middle termination on जयताम्.
+
+_____________
+
+**3.23.30–31a (gatāyuṣām & Khara's Vanguard Advance)**
+
+On गतायुषाम् (`3.23.30d`), **Govindarāja** (_Bhūṣaṇa_) glosses it proleptically as demons whose life-breaths were on the verge of departing (गन्तुमुद्यतायुषाम्). On सैन्यस्याग्राद्विनिःसृतः (`3.23.31b`), **Rāma Varmā** (_Tilaka_) reconciles this with `3.22.21`: earlier Khara's chariot stood near the front of the massed host, whereas now he speeds far ahead of the main body (इदानीं तु सेनां बहुदूरं पृष्ठतः त्यक्त्वा स्वयमेवाग्रे गतः).
+
+_____________
+
+**3.23.31b–33 (Khara's Twelve Ministers & Dūṣaṇa's Four Generals)**
+
+All three commentators note that verses 31–33 catalog the sixteen chief demon commanders: twelve ministers of Khara (श्येनगाम्यादयो द्वादश खरामात्याः, _Tilaka_, _Bhūṣaṇa_)—Śyenagāmī, Pṛthugrīva, Yajñaśatru, Vihaṃgama, Durjaya, Karavīrākṣa, Paruṣa, Kālakārmuka, Hemamālī (or Meghamālī), Mahāmālī, Sarpāsya, and Rudhirāśana—marched around Khara, while four generals—Mahākapāla, Sthūlākṣa, Pramātha, and Triśiras—followed Dūṣaṇa (दूषणं पृष्ठतोऽन्वयुः).
+
+_____________
+
+**3.23.34 (Simile of the Planets and the Two Luminaries)**
+
+On माला ग्रहाणामिव चन्द्रसूर्यौ, **Govindarāja** (_Bhūṣaṇa_) identifies ग्रहाणाम् as malignant planets such as Mars (अङ्गारकादीनाम्) ringing the moon and the sun, while **Rāma Varmā** (_Tilaka_) glosses सहसा as instantaneously (तत्क्षणमेव).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

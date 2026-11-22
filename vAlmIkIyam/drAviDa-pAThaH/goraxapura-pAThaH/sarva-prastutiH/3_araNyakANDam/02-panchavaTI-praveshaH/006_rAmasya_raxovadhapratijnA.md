@@ -304,6 +304,98 @@ All have Vedic resplendence and firm yogic control, and they have arrived at the
 
 —all endowed with Brāhmic lustre (_brāhmyā śriyā yuktāḥ_) and absorbed in firm yoga (_dṛḍha-yoga-samāhitāḥ_), those ascetics approached Rāma in the hermitage of Śarabhaṅga.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.6.1–2 (Surrender of the Sages & Vedic Orders)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that after showing Rāma's power in Sarga 5, Vālmīki now narrates the sages' refuge-taking (मुनिजनशरणागतिं वक्तुमुपक्रमते). On वैखानसा वालखिल्याः, all three cite the śruti deriving them from Prajāpati's nails and hairs (ये नखास्ते वैखानसा ये वालास्ते वालखिल्याः). **Rāma Varmā** (_Tilaka_) glosses सम्प्रक्षालाः as born from washing Viṣṇu's feet (भगवतः पादप्रक्षालनजा महर्षयः) or storing nothing for tomorrow (अश्वस्तनिकाः), and अश्मकुट्टाः as pounders of raw grain with stones (अपक्वसङ्कुट्टितान्नभक्षकाः).
+
+_____________
+
+**3.6.3–4 (Mortifications of Body & Rest)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain दन्तोलूखलिनः as husking grain with their teeth (दन्तैरेव व्रीह्यादितुषनिर्मोकं कृत्वा भक्षयन्तः), उन्मज्जकाः as standing neck-deep in water (कण्ठदघ्ने जले स्थित्वा), and गात्रशय्याः as resting their head on their chest or forearms (उरसि प्रकोष्ठयोर्वा शिरः कृत्वा शयानाः), avoiding tautology with स्थण्डिलशायिनः. On अनवकाशिकाः, _Tilaka_ takes it as standing on one foot, and **Śivasahāya** (_Śiromaṇi_) as allowing no idle interval.
+
+_____________
+
+**3.6.5–6 (ūrdhvavāsinaḥ, Five Fires, & brāhmyā śriyā)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss ऊर्ध्ववासिनः as dwelling on mountain peaks (गिरिशिखराद्यूर्ध्वप्रदेशे). All three explain पञ्चतपोऽन्विताः as sitting amidst four fires under the summer sun (ग्रीष्मे पञ्चाग्निमध्यस्थाः) and ब्राह्म्या श्रिया as the lustre of Vedic knowledge (ब्रह्मवर्चसेन).
+
+_____________
+
+**3.6.7–8 (Sovereignty Over the Ikṣvākus & the Earth)**
+
+On verse 8, **Rāma Varmā** (_Tilaka_) remarks that naming the Ikṣvāku dynasty alongside the earth (पृथिव्याश्च) implies Rāma's lordship over all three worlds (सकलत्रैलोक्यस्येति गम्यम्), with प्रधानः signifying causal supremacy and नाथः protective guardianship, whereas **Govindarāja** (_Bhūṣaṇa_) distributes the predicates respectively: chief of the Ikṣvāku line and protector of the earth (इक्ष्वाकुकुलस्य प्रधानः पृथिव्याश्च नाथः).
+
+_____________
+
+**3.6.9–10 (Illustrating Rāma's Virtues & Begging Pardon)**
+
+**Govindarāja** (_Bhūṣaṇa_) grounds each attribute of verse 9 in the preceding narrative: fame (यशसा) from granting Śarabhaṅga's wish, valour (विक्रमेण) from slaying Virādha, filial devotion from relinquishing the throne, and truth (सत्यं) from holding to his vow despite Bharata's entreaties (भरतप्रार्थनयापि प्रतिज्ञातस्यान्यथाकरणात्). On क्षन्तुमर्हसि in verse 10, both _Tilaka_ and _Bhūṣaṇa_ explain that because a protector naturally acts without prompting, the sages apologize for vocalizing their plea out of acute distress (अर्थित्वात्).
+
+_____________
+
+**3.6.11–12 (baliṣaḍbhāgam & Cherishing Subjects Like Sons)**
+
+Defining बलिषड्भागं, **Govindarāja** (_Bhūṣaṇa_) cites Amara (भागधेयः करो बलिः) to explain it as the royal sixth of agricultural produce (बलिश्वासौ षड्भागश्च). Linking verses 12–13 as one syntactic sentence (श्लोकद्वयमेकान्वयि), all three commentators gloss प्राणैरिष्टान् सुतानिव as protecting subjects like sons dearer even than one's own life-breaths (प्राणेभ्योऽप्यधिकप्रियान् सुतानिव).
+
+_____________
+
+**3.6.13–14 (The King's Fourth Share of Ascetic Merit)**
+
+On verse 13, **Rāma Varmā** (_Tilaka_) notes that बहुवार्षिकीम् explains how royal fame is eternal (शाश्वतीम्) in this world, while ब्रह्मणः स्थानम् states the otherworldly reward. Answering how a king owes protection to hermits who pay no grain tax, _Tilaka_, **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) point out in verse 14 that a righteous ruler receives one-fourth (चतुर्भागः) of the supreme dharma earned by forest ascetics (मुनिभ्योऽपि राजा स्वांशं प्राप्नोत्येव).
+
+_____________
+
+**3.6.15–16 (tvannātho’nāthavat & ehi paśya)**
+
+In ब्राह्मणभूयिष्ठः, **Rāma Varmā** (_Tilaka_) remarks that the predominance of brahmins implies that kṣatriya and vaiśya hermits are also included (क्षत्रवैश्यवानप्रस्थसत्त्वमपि तत्र बोधितम्), while highlighting the painful paradox त्वन्नाथोऽनाथवद् (“having you as protector, yet slain like orphans”). On एहि पश्य in verse 16, **Govindarāja** (_Bhūṣaṇa_) observes that the mangled corpses lie close at hand, needing no distant journey (दूरे गन्तव्यं न दृश्यत एवावत एहि पश्येत्युक्तम्).
+
+_____________
+
+**3.6.17 (Geography of the Carnage)**
+
+Glossing पम्पानदीनिवासानाम्, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) take पम्पा and नदी either as Lake Pampā and the Godāvarī river (गोदावरीतीरवासिनाम्) or the river Pampā, while all three commentators parse अनुमन्दाकिनीम् with अनु as a _karmapravacanīya_ (अनुरलक्षणे कर्मप्रवचनीयः) indicating hermits along the Mandākinī.
+
+_____________
+
+**3.6.18–19 (Indignation Over Fellow Ascetics' Suffering)**
+
+Explaining why ascetics who renounce bodily attachment lament, **Govindarāja** (_Bhūṣaṇa_) notes that they grieve not from fear of personal pain but because they cannot bear the slaughter of fellow devotees (स्वजनपीडा दुःसहेति भावः), citing Amara on विप्रकारं as injury or humiliation (निकारो विप्रकारः स्यात्). All three gloss शरण्यं as capable of protecting (रक्षणसमर्थम्, _Tilaka_).
+
+_____________
+
+**3.6.20–21 (parā tvatto gatiḥ & tāpasānāṃ tapasvinām)**
+
+On परा त्वत्तो गतिः, **Govindarāja** (_Bhūṣaṇa_) takes पृथिव्याम् as standing by synecdoche for all worlds (सर्वभुवनोपलक्षणम्) and quotes the Puruṣasūkta (नान्यः पन्था अयनाय विद्यते). To avoid tautology in तापसानां तपस्विनाम्, **Rāma Varmā** (_Tilaka_) and _Bhūṣaṇa_ gloss तापसानाम् as sages (मुनीनाम्) and तपस्विनाम् as rich in eminent penance (प्रशस्ततपसां).
+
+_____________
+
+**3.6.22 (ājñāpyo'ham & kevalena svakāryeṇa)**
+
+On आज्ञाप्योऽहं, **Rāma Varmā** (_Tilaka_) notes that Rāma asks to be commanded like a disciple (शिष्यादिरिवेति), citing Tīrtha and Kataka that slaying the sages' foes is Rāma's own duty (स्वकार्येण), while **Śivasahāya** (_Śiromaṇi_) construes प्रवेष्टव्यं in a past sense (प्रविष्टम्).
+
+_____________
+
+**3.6.23–24 (Harmonizing Filial Exile & Protection of the Sages)**
+
+Connecting 22cd–24cd, **Rāma Varmā** (_Tilaka_) explains that although Rāma entered the forest to obey his father's command (पितुराज्ञापरिपालनार्थम्), that providential arrival (यदृच्छया) equally serves to remove the sages' persecution (भवतामर्थसिद्ध्यर्थम्). **Govindarāja** (_Bhūṣaṇa_) glosses यदृच्छया as by divine providence (दैवगत्या), making his forest exile bear supreme fruit (महाफलः).
+
+_____________
+
+**3.6.25 (The Public Vow to Slay the Rākṣasas)**
+
+**Rāma Varmā** (_Tilaka_) observes that after stating his inward resolve in verses 22–24, Rāma now proclaims his open vow (प्रकाशं प्रतिजानीते) in verse 25 so that the sages may witness his and Lakṣmaṇa's martial prowess (पश्यन्तु वीर्यमृषयः सभ्रातुर्मे), while **Govindarāja** (_Bhūṣaṇa_) identifies this destruction of the ascetics' enemies as the very fruit (महाफलः) just promised.
+
+_____________
+
+**3.6.26 (Three Readings in the Closing Upajāti)**
+
+In the final stanza, **Govindarāja** (_Bhūṣaṇa_) reads दत्त्वाभयं (“having granted fearlessness”) and सभाज्यवृत्तः (“of praiseworthy conduct,” पूज्याचारः), **Rāma Varmā** (_Tilaka_) reads वरं and सहार्यवृत्तः (आर्यं पूज्यं वृत्तं यस्य सः), and **Śivasahāya** (_Śiromaṇi_) explains आर्यदत्तः as he whose gift of protection is bestowed upon noble sages (आर्येषु दत्तं दानं यस्य सः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

@@ -480,6 +480,62 @@ sky.
 
 Shining with the finest of women (_nārīpravekair iva dīpyamānam_) like a rain-cloud worshiped by flashes of lightning (_taḍidbhir ambhodharam arcyamānam_), and borne aloft by the foremost of swans (_haṃsapravekair iva vāhyamānam_), that well-fashioned aerial palace in the sky was endowed with radiant beauty (_śriyā yutaṃ khe sukṛtaṃ vimānam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.7.1–2 (Palace-Mountains, Moon-Pavilions, and Śālā)**
+
+Describing Rāvaṇa's principal palace complex (रावणप्रधानगृहं वर्णयति), the commentators note that सविहङ्गजालम् qualifies both the mansions and the monsoon clouds (गृहमेघयोर्विशेषणम्), while the golden windows inlaid with cat's-eye gems (वैदूर्यखचितसुवर्णमयजालकरन्ध्रम्) correspond to flashes of lightning. In verse 2, to avoid tautology between the two occurrences of शालाः, **Tilaka**, **Śiromaṇi**, and **Govindarāja** derive the second from the verbal root √शल् (`to shine') via _pacādi ac_ (प्रधानैर्मुख्यैः शङ्खायुधचापैः शालन्ते प्रकाशन्त इति पचाद्यच्). They gloss चन्द्रशालाः either as topmost attic pavilions (शिरोगृहाणि) or chambers paved with moonstone (चन्द्रकान्तमणिसंबद्धशाला वा).
+
+_____________
+
+**5.7.3–4 (Viśvakarman's Craft and Maya's Illusion)**
+
+In verse 3, **Tilaka** and **Śiromaṇi** take स्वबलार्जितानि as `won by Rāvaṇa through his own valor from Kubera and other lords' (रावणबलेन कुबेरात्प्राप्तानि), or alternatively by Hanūmān's own strength in entering them (स्वशब्दो हनुमद्वाची). On मयेन साक्षादिव निर्मितानि in verse 4, **Tilaka** and **Śiromaṇi** explain that although Laṅkā's palaces were built by the divine architect Viśvakarman, their wondrous, illusion-like artistry makes them look as if built by the _asura_ architect Maya (विश्वकर्मकृतान्यपि मायया विचित्ररचनादक्षेण मयेन निर्मितानीव). **Govindarāja** adds that Maya himself built these particular mansions as a pretext for bestowing his daughter Mandodarī upon Rāvaṇa (मयं व्याजीकृत्य स्वयशपायप्रदेन श्वशुरेण निर्मितानि).
+
+_____________
+
+**5.7.5–6 (Transition to the Puṣpaka Aerial Car)**
+
+Construing verses 5 and 6 together (श्लोकद्वयमेकान्वयि) or with verses 7–8, **Govindarāja** notes that here the poet begins describing the celestial _Puṣpaka_ aerial palace (तदन्तर्वर्तिपुष्पकविमानं दर्शयति), which looks like heaven fallen to earth (देवाच्च्युतम्) and a mountain crest dusted with flower-pollen (पुष्परजसा).
+
+_____________
+
+**5.7.7–8 (Puṣpaka Compared to a Cloud and the Starry Sky)**
+
+Quoting _Amara_ (प्रवेकास्तूत्तमोत्तमाः), the commentators explain that Puṣpaka blazes with choice women (नारीप्रवेकैः) as a dark cloud is honored by lightning flashes (तडिद्भिरर्च्यमानम्). Reading सुकृतां विमानम् in 7b, **Govindarāja** takes सुकृतां as genitive plural (`like a celestial car of the meritorious'), whereas **Tilaka** and **Śiromaṇi** read सुकृतं (`well-fashioned').
+
+_____________
+
+**5.7.9–10 (Ekāvalī and Three-Dimensional Gemwork)**
+
+All three commentators admire the rhetorical figure in verse 9, where each item is qualified by the next in a linked chain (earth → mountains → trees → flowers → filaments and petals): **Tilaka** and **Śiromaṇi** identify this as _ekāvalī-alaṅkāra_ (एकावल्यलङ्कारः), while **Govindarāja** also notes _adhikālaṅkāra_. Crucially, **Tilaka** refutes the notion that these mountains and woods were mere flat paintings (न त्वयं चित्ररूपमिति भ्रमितव्यम्): they were three-dimensional sculptures of gold and gems (मणिस्वर्णादिनिर्मिताः), since the entire monkey army will later ride comfortably inside Puṣpaka, which expands and contracts according to its master's wish (स्वामीच्छानुसारेण संकोचविकासौ तस्य स्तः).
+
+_____________
+
+**5.7.11–12 (The Name Puṣpaka and Sculpted Creatures)**
+
+Ranked highest in honor even among divine palaces (वेश्मोत्तमानां देवविमानानां मध्ये उच्चमानं अधिकमानम्), the car named Puṣpaka (पुष्पाह्वयं नाम) contains birds of cat's-eye, silver, and coral, jeweled serpents, and sculpted horses true to noble breeds (जातितुरङ्गसदृशाः).
+
+_____________
+
+**5.7.13–14 (The Fourfold Pakṣa and Gajalakṣmī Iconography)**
+
+$1c
+
+_____________
+
+**5.7.15 (Change of Meter to Rucirā and Twin Similes)**
+
+**Govindarāja** identifies the shift to the thirteen-syllable _Rucirā_ meter (रुचिरा वृत्तमिदम् चतुर्ग्रहैरिह रुचिरा जभौ सजगाः इति लक्षणात्). To differentiate the repeated नगमिव चारुकन्दरम् in 15a–b, **Tilaka** and **Śiromaṇi** take the first नग as a mountain with lovely caves (पर्वतमिव चारुगुहं) and the second—at the end of winter, i.e., in spring (हिमात्यये वसन्ते)—as a fragrant tree with lovely hollows (वृक्षमिव कन्दरोऽत्र कोटरः).
+
+_____________
+
+**5.7.16–17 (The Ārṣa Gerund Adṛśya and Hanūmān's Grief)**
+
+On अदृश्य (`not having seen'), **Tilaka** and **Govindarāja** note the _ārṣa_ substitution of _-lyap_ for _-ktvā_ after the negative prefix _a-_ (ऋषिनिपातनान्नञ्पूर्वोऽपि ल्यप्). Sītā is overcome by the surging memory of her husband's virtues (पतिगुणवेगनिर्जिताम्), while Hanūmān, though endowed with the eye of _śāstra_ and wisdom (सचक्षुषः श्रुतिस्मृतिन्यायरूपचक्षुःसहितस्य), grieves deeply at not yet beholding her.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

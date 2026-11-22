@@ -121,6 +121,68 @@ Eight ministers are there for that valiant and glorious King Dasharatha, who are
 
 **2:** Eight were the illustrious ministers of that heroic monarch—pure in word, mind, and deed, and unceasingly devoted to the affairs of the realm.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1. Reading Unspoken Gestures (Iṅgitajñāna) and Manu's Rule of Eight Ministers (ति० टी०, रा० टी०, गो० टी० on 1.7.1–3)**
+
+$18
+
+_____________
+
+**1. Moral Shame (Hrī), Alignment of Word and Deed, and Kīrti vs. Yaśas (ति० टी०, रा० टी०, गो० टी० on 1.7.6–8)**
+
+$1b
+
+_____________
+
+**1. Righteous Taxation and Proportional Jurisprudence (ति० टी०, रा० टी०, गो० टी० on 1.7.11–13)**
+
+$20
+
+_____________
+
+**1. The Eye of Policy (Naya-cakṣus) and Sandhi–Vigraha (ति० टी०, रा० टी०, गो० टी० on 1.7.16–19)**
+
+$24
+
+_____________
+
+**1. The Spy Network (Cāra-paramparā) and Eliminating the Thorns of the Realm (ति० टी०, रा० टी०, गो० टी० on 1.7.21–23)**
+
+$2a
+
+_____________
+
+**2. Amātyas, Mantrins, and Ṛtvijas: The Constitutional Distinction (ति० टी०, रा० टी०, गो० टी० on 1.7.4–5)**
+
+A classic commentarial discussion arises on `1.7.4cd` (वसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे): how do the eight secular ministers (_amātyāḥ_) named in verse 3 relate to Vasiṣṭha, Vāmadeva, and the six Brāhmaṇa sages named in verse 5 (Suyajña, Jābāli, Kāśyapa, Gautama, Mārkaṇḍeya, and Kātyāyana)? Rāma's _Tilaka_ records two earlier views before stating his own conclusion (वस्तुतस्तु): `अमात्या देशादिकार्यनिर्वाहकाः, मन्त्रिणो व्यवहारद्रष्टार इति भेदः' — the eight _Amātyas_ (Dhṛṣṭi through Sumantra) are executive ministers who administer the provinces, treasury, and army, whereas the eight Brāhmaṇa sages (Vasiṣṭha, Vāmadeva, and the six headed by Suyajña) serve both as officiating priests (ऋत्विजः) and as judicial and dharmic counselors (मन्त्रिणः = व्यवहारद्रष्टारः).
+
+_____________
+
+**2. Omniscient Intelligence (Cāra-cakṣus) and Impartial Justice (ति० टी०, रा० टी०, गो० टी० on 1.7.9–10)**
+
+$1e
+
+_____________
+
+**2. Unanimity of Counsel (Ekabuddhi) and Its Civic Fruit (गो० टी० on 1.7.14–15)**
+
+Govindarāja highlights शुचीनामेकबुद्धीनाम् (`1.7.14a`) as the secret of effective cabinet governance: the ministers possessed `trikāraṇa-śuddhi' (purity of thought, word, and deed) and `single-minded unanimity' (एकमतानामेककण्ठानाम् — speaking with one voice and one mind after deliberation). The fruit of their vigilant administration was that neither falsehood (मृषावादी, `14d`) nor adultery (परदाररतिः, `15b`) existed anywhere in either the capital (पुरे) or the provinces (राष्ट्रे).
+
+_____________
+
+**2. `Anaghaḥ': Freedom from the Eighteen Royal Vices (Vyasanas) (गो० टी० on 1.7.20)**
+
+$27
+
+_____________
+
+**2. The Solar Simile of Sovereign and Ministers (ति० टी०, रा० टी०, गो० टी० on 1.7.24)**
+
+The concluding _Upajāti_ verse (`1.7.24`) compares King Daśaratha surrounded by his ministers to the rising Sun surrounded by its blazing rays (तेजोमयैर्गोभिरिवोदितोऽर्कः). Here गोभिः means `by rays of light' (किरणैः). Rāma's _Tilaka_ refutes an inferior interpretation that took तेजोमयैः as a merely pleonastic (_svārthika_) epithet of rays (`luminous rays'), explaining instead that _mayaṭ_ denotes abundance of enemy-overpowering energy (प्रचुरतेजोवद्भिः, तेजः पराभिभवसामर्थ्यम्): just as the Sun illuminates and sustains the world through its own projected rays, so the King illuminates and governs the earth through ministers who are extensions of his own royal splendor.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

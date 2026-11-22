@@ -87,6 +87,14 @@ of that ascesis to Vishvamitra." Thus Sage Shataananda continued the legend of V
 
 When a full thousand years had elapsed (_pūrṇe varṣasahasre tu_), all the gods, desiring to bestow the fruit of his austerity (_tapaḥphalacikīrṣavaḥ_), approached the great sage who had taken his ritual bath upon completing his vow (_vratasnātaṃ mahāmunim abhyagacchan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.1–2 (From Rājarṣi to Ṛṣi)**
+
+Why does Viśvāmitra receive only the rank of _Ṛṣi_ after a thousand years of penance? **Govindarāja (_Bhūṣaṇa_)** explains that because he had cursed his sons in Sarga 62 and had not yet conquered anger, he could not yet attain _Brahmarṣi_ status (_putraviṣayakrūraśāpadānena krodhanirjayābhāvān na brahmarṣitvasiddhiḥ_). Yet, as **Rāma Varmā (_Tilaka_)**, **Śiromaṇi**, and **Govindarāja** all point out, Brahmā’s declaration _ṛṣis tvam asi_—deliberately omitting the prefix _rājan_—signifies that his Kṣatriya nature has now begun to dissolve (_rājapadaprayogeṇa kṣatriyatvaviśleṣaḥ sūcitaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,6 +202,14 @@ Gayatri Hymn.
 
 Having spoken thus to him, the lord of the gods returned again to heaven (_tam evam uktvā deveśas tridivaṃ punar abhyagāt_); and the resplendent Viśvāmitra once again practiced mighty austerity (_bhūyas tepe mahat tapaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.3 (The Third Syllable of the Rāmāyaṇa-Gāyatrī)**
+
+**Govindarāja** records the traditional metrical landmark at 63.3cd: the syllable _vi_ in _viśvāmitro mahātejā bhūyas tepe mahat tapaḥ_ marks the third syllable of the twenty-four-syllable _Rāmāyaṇa-Gāyatrī_ (_ity atra gāyatrītṛtīyākṣaram_), occurring two thousand verses into the poem.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -240,6 +256,14 @@ and started to swim for sport in that holy lake. [1-63-4]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, after a long time (_tataḥ kālena mahatā_), the supreme celestial nymph Menakā (_menakā paramāpsarāḥ_), O best of men, came to bathe in the sacred lakes of Puṣkara (_puṣkareṣu naraśreṣṭha snātuṃ samupacakrame_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.4–5 (Menakā Like Lightning in a Cloud)**
+
+Dispatched by the gods (_devapreṣiteti śeṣaḥ_, **Govindarāja**), Menakā bathes in the dark waters of Lake Puṣkara (_tatra sarasi snāntī_), gleaming like a streak of lightning amid a bank of rainclouds (_jaladamaṇḍalamadhyavartinī vidyud iva_).
 </details>
 </details>
 
@@ -352,6 +376,14 @@ am bewitched by Love-god for you. You be safe.' [1-63-6, 7a]
 
 Falling under the sway of Kāma’s intoxicating pride (_kandarpadarpavaśagaḥ_), the sage spoke these words to her: “Welcome to you, O celestial nymph! Abide here in my hermitage (_apsaraḥ svāgataṃ te ’stu vasa ceha mamāśrame_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.6–7 (Subjugation to Kāma)**
+
+**Tilaka** and **Śiromaṇi** gloss _kandarpadarpavaśagaḥ_ as fallen under the sway of the intoxicating passion aroused by Kāma (_kandarpakṛto darpo madaḥ_, **Tilaka**), and _anugṛhṇīṣva_ as ‘assuage my torment of passion by granting your embrace’ (_matkāmatāpaṃ śamaya_, **Govindarāja**; _bhogadānena_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -435,6 +467,14 @@ indeed faced with a great hindrance in his ascesis. [1-63-7b, 8, 9a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Verily, a mighty impediment to austerity befell Viśvāmitra (_tapaso hi mahāvighno viśvāmitram upāgamat_); while she dwelt there, O Rāghava, five years and another five (_tasyāṃ vasantyāṃ varṣāṇi pañca pañca ca rāghava_)
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.8–10 (Ten Years & Awakening in Shame)**
+
+All three commentators explain _pañca pañca ca_ as ten years (_daśavarṣāṇi_) spent in pleasure at Puṣkara. When those ten years elapsed, Viśvāmitra grew ashamed of his union with the nymph (_apsaraḥsaṅgahetukavrīḍāsahitaḥ_, **Śiromaṇi**; **Govindarāja** notes that _iva_ in _savrīḍa iva_ is a rhetorical particle, _vākyālaṅkāre_), and an indignant realization (_sāmarṣā amarṣasahitā buddhiḥ_, **Śiromaṇi**) directed against the gods arose in him, recognizing that they had engineered this obstacle (_deveṣu, vighnasya tatkṛtatvajñānāt_, **Tilaka**).
 </details>
 </details>
 
@@ -576,6 +616,14 @@ am under the influence of lust and lure had to encounter this hindrance in my as
 
 “All this is the work of the gods—a great plot to rob me of my austerity (_sarvaṃ surāṇāṃ karmaitat tapo’paharaṇaṃ mahat_)! Under the semblance of a single day and night, ten years have passed away (_ahorātrāpadeśena gatāḥ saṃvatsarā daśa_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.11 (ahorātrāpadeśena)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** gloss _ahorātrāpadeśena_ as ‘seeming like a single day and night’ (_ekāhorātratulyatayā_): in the blindness of amorous infatuation, an entire decade vanished as though it were a single day.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -612,6 +660,14 @@ Sighing in remorse, Viśvāmitra gently dismisses the trembling Menakā without 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Overcome by passion and delusion, I have been confronted by this impediment (_kāmamohābhibhūtasya vighno ’yaṃ pratyupasthitaḥ_)!” Sighing heavily, that foremost of sages, afflicted with remorse (_sa niḥśvasan munivaraḥ paścāttāpena duḥkhitaḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.12–13 (Why Viśvāmitra Spared Menakā)**
+
+Why did Viśvāmitra dismiss the trembling Menakā with sweet words (_madhurair vākyaiḥ_) instead of a curse? **Tilaka** and **Govindarāja** explain: first, he recognized that the fault was his own since she had stayed at his entreaty (_matprārthanayā sthitāsīti tava na kaścana doṣaḥ_, **Tilaka**; _kāmaparatantrasya mamaivāparādho ’yam_, **Govindarāja**); second, having vowed at the end of Sarga 62 never to yield to anger again, he proved that he had conquered wrath (_tenāsya krodhajayo jātaḥ_, **Tilaka**).
 </details>
 </details>
 
@@ -720,6 +776,14 @@ of River Kaushiki. [1-63-14b, 15a]
 
 Journeyed to the northern mountain (Himavat), O Rāma (_uttaraṃ parvataṃ rāma viśvāmitro jagāma ha_). Forming an unwavering resolution of lifelong celibacy in his desire to conquer the senses, the illustrious sage (_sa kṛtvā naiṣṭhikīṃ buddhiṃ jetukāmo mahāyaśāḥ_)
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.14–15 (Move to Himavat & the Kauśikī River)**
+
+Leaving Puṣkara for the northern mountain Himavat (_uttaraṃ parvataṃ himavantam_, **Govindarāja**, **Tilaka**), Viśvāmitra forms a _naiṣṭhikī buddhi_—a vow of perpetual celibacy to conquer Kāma (_ātyantikabrahmacaryaviṣayāṃ buddhim_, **Tilaka**)—on the banks of the Kauśikī, his elder sister Satyavatī transformed into a sacred river (_viśvāmitrabhaginī nadī_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -815,6 +879,14 @@ Exalted Sage.' [1-63-16b, 17a]
 
 Fear arose among the gods, O Rāma (_uttare parvate rāma devatānām abhūd bhayam_). Assembling together with the hosts of sages, all the gods took counsel and petitioned Brahmā (_āmantrayan samāgamya sarve sarṣigaṇāḥ surāḥ_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.16–17 (The Gods Petition Brahmā)**
+
+Alarmed by his thousand-year penance, the gods and sages ask Brahmā to grant him the title of _Maharṣi_ so that he might desist from his austerity (_maharṣipadalābham antarā etattaponivṛttir na bhaviṣyatīti_, **Śiromaṇi**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -891,6 +963,14 @@ oh, Kaushika, I bestow upon you the sublimity and supremacy among sages.' [1-63-
 
 **18:** Spoke these sweet words to Viśvāmitra whose wealth was austerity (_abravīn madhuraṃ vākyaṃ viśvāmitraṃ tapodhanam_): “O _Maharṣi_, welcome to you, my child! Gratified by your fierce penance (_maharṣe svāgataṃ vatsa tapasogreṇa toṣitaḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.18–19 (Conferral of Maharṣi Status)**
+
+**Tilaka** notes that Brahmā immediately addresses him as _Maharṣe_ in accordance with the gods’ petition (_devaprārthanayā maharṣiśabdenaiva saṃbodhayati_), and both **Tilaka** and **Govindarāja** explain _ṛṣimukhyatvam_ as an explanatory gloss on _mahattvam_: pre-eminence over ordinary _ṛṣis_, which defines a _Maharṣi_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -966,6 +1046,14 @@ obeisant and replied the Grandparent adjoining his palms suppliantly. [1-63-19b,
 
 **20:** Bowing low with joined palms, replied to the Grandsire (_prāñjaliḥ praṇato bhūtvā pratyuvāca pitāmaham_): “Since the peerless title of _Brahmarṣi_, through the auspicious deeds earned by my own exertion (_brahmarṣiśabdam atulaṃ svārjitaiḥ karmabhiḥ śubhaiḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.20–21b (Two Classical Interpretations of Viśvāmitra’s Reply)**
+
+Commentators preserve two striking readings of vv. 20c–21b. Reading _brahmarṣiśabdam atulaṃ ... yadi me bhagavān nāha tato ’haṃ vijitendriyaḥ_, **Tilaka** explains the clause through rhetorical intonation (_atra kākuḥ, na vijitendriya ity arthaḥ_): ‘Since the Lord does _not_ call me by my desired title of _Brahmarṣi_, am I then a conqueror of my senses? (Surely I am not yet master of my senses!)’ Conversely, reading _maharṣiśabdam ... yadi me bhagavān āha_, **Govindarāja** and **Śiromaṇi** construe: ‘Since the Lord has granted me the peerless title of _Maharṣi_, I must now be a conqueror of my senses!’
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1012,6 +1100,14 @@ make an effort for it.' Saying so Brahma went heavenward. [1-63-21b, 22a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Has not been pronounced for me by the Blessed Lord, am I then truly a conqueror of my senses (_yadi me bhagavān nāha tato ’haṃ vijitendriyaḥ_)?” Thereupon Brahmā spoke to him: “Not yet have you conquered your senses (_na tāvat tvaṃ jitendriyaḥ_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.21cd–22 (The Criterion of jitendriyatvam)**
+
+Why does Brahmā reply _na tāvat tvaṃ jitendriyaḥ_? **Tilaka**, **Govindarāja**, and **Śiromaṇi** state the decisive ethical test: true mastery of the senses exists only when one remains wholly unperturbed even in the immediate presence of tempting provocations (_vikārahetusaṃnidhāne ’pi yāvan na vikaroṣi tāvantaṃ kālaṃ tava jitendriyatvaṃ nāsti_).
 </details>
 </details>
 
@@ -1135,6 +1231,14 @@ as above, in some mms.
 
 **24:** And lying in water day and night during the dewy winter season, rich in austerity (_śiśire salileśāyī rātryahāni tapodhanaḥ_)—thus for a thousand years he underwent terrible penance (_evaṃ varṣasahasraṃ hi tapo ghoram upāgamat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.23–24 (The Three Seasonal Austerities)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** gloss _nirālambaḥ_ as without any physical prop or shelter (_gṛhādyālambanarahitaḥ_), _gharme pañcatapāḥ_ as enduring four blazing fires around him with the summer sun overhead as the fifth, _ākāśasaṃśrayaḥ_ as standing in the open without roof or tree-cover during the monsoon rains (_varṣāvaraṇarahitadeśasthaḥ_), and _salileśāyī_ (var. _salilasthāyī_) as immersed in icy water day and night during winter.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1180,6 +1284,14 @@ burning problem to gods and even to Indra. [1-63-25]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 While that great sage Viśvāmitra was thus performing fiery austerity (_tasmin saṃtapyamāne tu viśvāmitre mahāmunau_), a great torment of anxiety arose among the gods and in Vāsava (Indra) (_saṃtāpaḥ sumahān āsīt surāṇāṃ vāsavasya ca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.25 (Indra’s Groundless Panic)**
+
+Reading _saṃbhramaḥ_ (or _saṃtāpaḥ_), **Govindarāja** remarks that Indra’s alarm was misplaced fear (_asthāne bhayam_): seeing Viśvāmitra’s Kṣatriya birth and fierce penance, Indra needlessly dreaded ‘Does he covet my throne of heaven?’ (_kim asmatpadaṃ kāṅkṣata iti_).
 </details>
 </details>
 
@@ -1246,6 +1358,14 @@ narration. [1-63-26]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surrounded by all the hosts of Maruts, Śakra (Indra) spoke to the celestial nymph Rambhā (_rambhām apsarasaṃ śakraḥ sarvaiḥ saha marudgaṇaiḥ_) a word beneficial to himself and detrimental to Kauśika (_uvācātmahitaṃ vākyam ahitaṃ kauśikasya ca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**63.26 (Summoning Rambhā)**
+
+**Tilaka** identifies _ātmahitam_ as beneficial to Indra himself (_ātmā indraḥ_), while **Govindarāja** notes that _ahitaṃ kauśikasya ca_ also hints at Indra’s lingering hostility toward Viśvāmitra over Triśaṅku and Ambarīṣa’s sacrifice (_tadviṣayavairaniryātanārthaṃ ca rambhāpreraṇam_).
 </details>
 </details>
 

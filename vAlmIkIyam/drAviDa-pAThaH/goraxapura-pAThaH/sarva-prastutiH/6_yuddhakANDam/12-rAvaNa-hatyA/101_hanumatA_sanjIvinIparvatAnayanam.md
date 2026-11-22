@@ -100,6 +100,14 @@ Rama spoke as follows to Sushena, even while releasing a multitude of arrows (at
 
 **2:** Possessed of great splendor (_mahādyuti_), Rāvaṇa set about hurling at Rāghava another terrifying and fierce Raudra missile (_raudram astram_) fashioned by Maya.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**786.1–2 (The Raudra Weapon of Maya)**
+
+Marking the transition to the fateful duel culminating in Lakṣmaṇa's fall (अथ लक्ष्मणस्य शक्त्या पतनम्), Govindarāja and Rāma Varmā note that the verb चक्रे carries over elliptically into the final quarter of verse 1 (क्रोधाच्चास्त्रमनन्तरमित्यत्रापि चक्रे इत्यनुषज्यते). Śivasahāya explains that upon the defeat of his prior demonic weapon, Rāvaṇa doubled both his fury and his martial effort (तस्मिन्पूर्वोक्ते अस्त्रे प्रतिहते सति रावणः द्विगुणं क्रोधं चक्रे). Regarding the second missile crafted by Maya, Govindarāja glosses _raudram_ as presided over by Rudra (रौद्रं रुद्रदेवताकम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -152,6 +160,14 @@ wiggling like a serpent, causing an increase in grief to me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then from his bow (_kārmuka_) issued forth blazing lances (_śūlāni_), maces (_gadāḥ_), and iron clubs (_musalāni_) on all sides, hard as the thunderbolt (_vajrasārāṇi_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**786.3–4 (The Torrent of Blazing Arms)**
+
+Govindarāja construes verses 3 and 4 as a single syntactic unit (ततः शूलानीत्यादिश्लोकद्वयमेकान्वयम्) cataloging the lethal projectiles pouring from Rāvaṇa's bow. Śivasahāya specifies that these lances and clubs issued directly from the demon king's bow (कार्मुकात् रावणचापात् शूलादीनि निश्चेरुः). Govindarāja clarifies that _kūṭapāśāḥ_ denotes deceptive, hidden snares (कूटपाशाः कपटपाशाः) hurtling alongside hammers and lightning bolts like apocalyptic gales at the end of an eon.
 </details>
 </details>
 
@@ -236,6 +252,14 @@ Hammers (_mudgarāḥ_), treacherous nooses (_kūṭapāśāḥ_), and flaming t
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The illustrious Rāghava, foremost among knowers of supreme missiles (_uttamāstravidāṃ varaḥ_) and of great radiance, struck down that weapon with the supreme Gāndharva missile (_gāndharveṇa paramāstreṇa_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**786.5–6 (Countering with the Gāndharva Missile)**
+
+Śivasahāya highlights Rāma's mastery as the preeminent knower of celestial weapons, neutralizing Maya's Raudra creation with the supreme Gāndharva missile (उत्तमास्त्रविदां वरो राघवः गान्धर्वेण परमास्त्रेण तदस्त्रं जघान). Infuriated by this second failure, Rāvaṇa immediately invokes the blazing Saura or solar weapon.
 </details>
 </details>
 
@@ -367,6 +391,14 @@ vital parts, afflicted with agony and groaming."
 
 **8:** As they hurtled on all sides (_sampatadbhiḥ samantataḥ_), the sky blazed with them; and as they fell, the quarters of space were lit up as if by the moon, the sun, and the planets (_candrasūryagrahair iva_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**787.7–8 (The Blazing Solar Discs)**
+
+Describing the manifestation of Rāvaṇa's Saura missile, Śivasahāya explains that the firmament grew incandescent with the hurtling missile-discs (संपतद्भिः तैरस्त्रचक्रैर्गगनं दीप्तमासीत्). Govindarāja and Śivasahāya note the simile comparing the falling fiery wheels to the luminaries of heaven—moon, sun, and planets—falling simultaneously across the quarters (चन्द्रसूर्यग्रहैरिवेति), while Govindarāja's text reads इतस्ततः ('hither and thither') in place of समन्ततः.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -423,6 +455,14 @@ afflicted with excessive agony and gave himself up to anxiety and grief.
 
 With torrents of arrows (_bāṇaughaiḥ_) at the van of the army (_camūmukhe_), Rāghava severed those discs as well as the manifold weapons of Rāvaṇa.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**787.9 (Rāma's Effortless Severance by Arrows Alone)**
+
+Rāma Varmā offers a perceptive martial observation on verse 9: rather than invoking a counter-missile, Rāma shattered the discs issuing from the solar weapon solely with volleys of ordinary arrows (तानि अस्त्रनिःसृतचक्राणि बाणैरेवास्त्रं विना चिच्छेद न प्रत्यस्त्रमयुक्त रामः). Śivasahāya adds that Rāghava intercepted both the discs and the accompanying weaponry as they advanced at the forefront of the battle (चमूमुखे आगतानि रावणस्य तानि चक्राण्यायुधानि च तानि राघवश्चिच्छेद).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -475,6 +515,14 @@ into extreme despondency and lamented (as follows), confused in mind, as he was:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing that missile destroyed, Rāvaṇa, lord of the night-stalkers, pierced Rāma in all his vital spots (_sarveṣu marmasu_) with ten arrows.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**787.10–12 (The Exchange of Arrow-Volleys)**
+
+Śivasahāya narrates the ensuing archery duel: seeing his celestial weapon baffled, Rāvaṇa struck Rāma across all his vital points with ten shafts (दशभिर्बाणैः सर्वेषु मर्मसु रामं विव्याध). Yet Rāghava stood wholly unshaken despite the impact (रावणेन दशभिर्बाणैर्विद्धस्ताडितोऽपि राघवः न प्राकम्पत), retaliating immediately by riddling every limb of Rāvaṇa with countless arrows (राघवः रावणं सर्वेषु गात्रेषु बहुभिः शरैर्विव्याध).
 </details>
 </details>
 
@@ -632,6 +680,14 @@ forest, I too will in the same way follow him to the abode of Yama the lord of D
 
 At this juncture (_etasminn antare_), Rāghava&#x27;s mighty younger brother Lakṣmaṇa, slayer of hostile heroes (_paravīrahā_), grew enraged and seized seven arrows (_sāyakān sapta_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**788.13 (The Ethics of Lakṣmaṇa's Intervention)**
+
+Addressing how Lakṣmaṇa could intervene while Rāma was engaged with Rāvaṇa, Govindarāja explains _etasminn antare_ as indicating that Lakṣmaṇa had been waiting for an opportune pause in Rāma's duel (मध्ये रामेण युद्धकरणादवसरप्रतीक्ष इत्यर्थः), since attacking an opponent already locked in combat with another would violate warrior ethics. Śivasahāya concurs that Lakṣmaṇa seized seven shafts during this opening (एतस्मिन्नन्तरे अवकाशे लक्ष्मणः सप्त सायकान् जग्राह).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,6 +740,14 @@ his relatives and who was ardently devoted forever to me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With those shafts of great velocity, the resplendent warrior clove into many pieces Rāvaṇa&#x27;s banner bearing the emblem of a human head (_dhvajaṃ manuṣyaśīrṣam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**788.14–16 (The Exact Accounting of the Seven Arrows)**
+
+Govindarāja systematically accounts for the seven arrows taken up in verse 13 (गृहीतानां सप्तबाणानां विनियोगप्रकारमाह): with one shaft Lakṣmaṇa shredded the human-headed banner, with one shaft he decapitated the charioteer, and with the remaining five he severed Rāvaṇa's bow (तेषां सायकानां मध्ये एकेन बाणेन ध्वजम् एकेन बाणेन सारथिशिरः पञ्चभिर्धनुश्च चिच्छेदेत्यर्थः). Rāma Varmā and Śivasahāya note that Rāvaṇa's banner bore a human skull emblem (मनुष्यशीर्षयुक्तमित्यर्थः) and his massive bow resembled an elephant's trunk (गजकरोपमं धनुश्चिच्छेद).
 </details>
 </details>
 
@@ -838,6 +902,14 @@ power? What can I tell to Sumitra, the mother who was so fond of her son?"
 
 Leaping forward (_āplutya_), Vibhīṣaṇa slew with his mace (_gadayā_) Rāvaṇa&#x27;s noble steeds, which resembled dark storm-clouds (_nīlameghanibhān_) and towered like mountains.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**788.17–18 (Vibhīṣaṇa's Strike and Rāvaṇa's Fury)**
+
+Govindarāja observes that while Rāvaṇa stood momentarily stunned with his bow severed, Vibhīṣaṇa seized the moment to crush his steeds (एवं धनुषि छिन्ने क्षणं तूष्णीं तिष्ठति रावणे विभीषणेन किंचित्कृतमाह नीलेति). Śivasahāya notes that Rāvaṇa, leaping from his horseless car, directed ferocious wrath against his brother (हताः अश्वाः यस्य तस्मात् महारथात् अवप्लुत्य भ्रातरं प्रति कोपमाहारयत् अकरोत्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -941,6 +1013,14 @@ came back without Lakshmana even though I went to the forest along with him?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the mighty lord of rākṣasas (_rākṣasendraḥ_), possessed of great strength (_mahāśaktiḥ_), hurled at Vibhīṣaṇa a lance (_śaktim_) blazing like a thunderbolt (_pradīptām aśanīm iva_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**789.19–21 (The First Lance Severed in Mid-Air)**
+
+Glossing the wordplay in verse 19, Rāma Varmā explains _mahāśaktiḥ_ as 'possessed of great strength' (महाशक्तिर्महाबलः). Śivasahāya recounts how Lakṣmaṇa intercepted the first thunderbolt-like lance with three shafts before it could strike Vibhīṣaṇa (लक्ष्मणः अप्राप्तामेव तां शक्तिं त्रिभिर्बाणैश्चिच्छेद), prompting a jubilant roar from the monkey host as the gold-garlanded weapon fell in three sparking fragments like a fallen meteor (सविस्फुलिङ्गा ज्वलिता दिवश्च्युता महोल्केव काञ्चनमालिनी शक्तिस्संपपात).
 </details>
 </details>
 
@@ -1085,6 +1165,14 @@ are you lying down? See me, by opening your own eyes, miserable as I am."
 
 Then Rāvaṇa seized a huge lance (_vipulāṃ śaktim_), highly venerated (_sambhāvitatārām_), irresistible even to Death (_kālenāpi durāsadām_), and blazing with its own fiery energy.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**789.22–23 (The Second Irresistible Lance)**
+
+Turning to the second, far deadlier weapon, the three commentators offer complementary glosses on _sambhāvitatārām_: Rāma Varmā and Śivasahāya explain it as universally renowned for its unfailing lethality and hence unapproachable even by Yama (संभाविततराममोघत्वेन प्रसिद्धाम् अत एव कालेनापि दुरासदाम्), whereas Govindarāja interprets it ritualistically as worshiped with sandal-paste and offerings (संभाविततरां चन्दनादिभिरर्चिताम्). Rāma Varmā glosses _vegitā_ as 'impelled with speed' (वेगिता कृतवेगा).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1177,6 +1265,14 @@ for his part, addressed the following excellent words:
 
 At this juncture, the heroic Lakṣmaṇa swiftly stepped forward to protect (_tūrṇam abhyavapadyata_) that Vibhīṣaṇa, whose life had fallen into mortal peril (_prāṇasaṃśayam āpannam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**789.24 (Lakṣmaṇa Shields Vibhīṣaṇa)**
+
+All three commentators emphasize Lakṣmaṇa's self-sacrificing chivalry in _tūrṇam abhyavapadyata_: Govindarāja explains that Lakṣmaṇa physically covered Vibhīṣaṇa and stood before him (अभ्यवपद्यत तमाच्छाद्य स्वयमतिष्ठदित्यर्थः), while Rāma Varmā notes that he stepped directly in front of the lance to save his ally (शक्तिसंमुखं स्वयमागत्य विभीषणं रक्षितवानित्यर्थः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1261,6 +1357,14 @@ not changed, nor has it become dark."
 
 **26:** Overwhelmed by that torrent of shafts loosed by the great-souled hero, Rāvaṇa, his valor thwarted (_vimukhīkṛtavikramaḥ_), could not set his mind on striking [Vibhīṣaṇa].
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**790.25–26 (Thwarting Rāvaṇa's Assault on Vibhīṣaṇa)**
+
+Rāma Varmā, Śivasahāya, and Govindarāja converge on the force of _vimukhīkṛtavikramaḥ_: pelted by Lakṣmaṇa's relentless shower of shafts (महात्मना लक्ष्मणेन विसृष्टेन शरौघेण कीर्यमाणः), Rāvaṇa found his determination to slay his brother blunted (कुण्ठितभ्रातृवधविषयोत्साहः; विमुखीकृतविभीषणविषयपराक्रमः), and so could no longer resolve to hurl the lance at Vibhīṣaṇa (विमुखीकृतविक्रमो रावणः प्रहर्तुं मनो न चक्रे).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1312,6 +1416,14 @@ hands are resembling the petals of a lotus. His eyes too are very bright."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing his brother rescued by Lakṣmaṇa, Rāvaṇa stood facing Lakṣmaṇa (_lakṣmaṇābhimukhas tiṣṭhan_) and spoke these words:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**790.27–28 (Rāvaṇa Shifts His Target to Lakṣmaṇa)**
+
+Turning to face Lakṣmaṇa, Rāvaṇa taunts him as _balaślāghin_ ('boaster of strength'). Śivasahāya paraphrases his declaration: because Vibhīṣaṇa has been saved by you (ते त्वया), I now spare the rākṣasa and direct this lethal lance straight at you (यस्मात् विभीषणस्त्वया मोक्षितस्तस्मात् राक्षसं विभीषणं विमुच्य इयं शक्तिः त्वयि विनिपात्यते).
 </details>
 </details>
 
@@ -1419,6 +1531,14 @@ earth's surface, fast asleep, with his limbs relaxed are telling it, O the galla
 
 “Hurled by my iron-bar-like arm (_madbāhuparighotsṛṣṭā_), this blood-marked lance (_śaktir lohitalakṣaṇā_) shall cleave your heart, take your life-breaths (_prāṇān ādāya_), and depart!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**790.29–30 (The Blood-Marked Lance of Maya)**
+
+Commenting on _lohitalakṣaṇā_, Rāma Varmā glosses it as 'having the nature of seizing the blood of foes' (लोहितलक्षणा शत्रुरुधिरग्रहणस्वभावा). Govindarāja offers a pointed dhvani reading: 'marked with dried blood' (लोहितलक्षणा रुधिरचिह्निता) implies that Rāvaṇa had already slain many enemies with this same eight-belled weapon forged through Maya's sorcery (अनेन पूर्वमपि बहुधा रिपवो मया हता इति व्यज्यते).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1488,6 +1608,14 @@ following words to Hanuma the great monkey, who was standing nearby:
 **31:** —and aiming it at Lakṣmaṇa (_lakṣmaṇāya samuddiśya_) as it blazed as though with fiery energy, Rāvaṇa, supremely incensed, hurled it and let out a roar.
 
 **32:** Hurled with terrible velocity and roaring like a thunderbolt (_vajrāśanisamasvanā_), that lance rushed swiftly toward Lakṣmaṇa at the forefront of battle (_raṇamūrdhani_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**791.31–33 (Rāma's Benediction of Unfailing Will)**
+
+Śivasahāya notes that verses 30 and 31 form a single syntactic sentence (श्लोकद्वयमेकान्वयि) culminating in Rāvaṇa's roar as he hurls the lance. As the weapon hurtles toward Lakṣmaṇa, Rāma addresses the presiding deity of the lance (आपतन्तीं तां शक्तिं शक्त्यधिष्ठातृदेवतामुद्दिश्यानुव्याहरत्), commanding it to become fruitless in taking Lakṣmaṇa's life (मोघा लक्ष्मणप्राणास्पर्शेन निष्फला; हतोद्यमा नष्टहननोद्योगा मोघा भवेति). Rāma Varmā observes that neutralizing a lethal weapon by mere word reveals Rāma's divine status as _satyasaṃkalpa_ (स्ववाक्येन मोघीकरणेन तस्य सत्यसंकल्पत्वं सूचितम्).
 </details>
 </details>
 
@@ -1611,6 +1739,14 @@ those precious herbs and became thoughtful.
 
 Released in battle by the enraged Rāvaṇa, that lance resembling a venomous serpent (_āśīviṣopamā_) sank into the fearless hero Lakṣmaṇa.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**791.34 (Resolving the Sandhi Crux in Verse 34)**
+
+Verse 34 presents a celebrated textual crux in _muktā”śūrasya bhītasya_. Rāma Varmā resolves the sandhi as _abhītasya_—'of the fearless Lakṣmaṇa, who knows the supreme reality of the Lord' (अभीतस्य भगवत्तत्त्वविदत्वेन निर्भयस्य). Śivasahāya alternatively derives _bhītasya_ as 'he from whom fear has departed' (भीतस्य भीर्भयं विगता) and argues that the lance fell without taking his life, Lakṣmaṇa's swoon arising solely from his delicate bodily frame (सौकुमार्यातिशयात्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1656,6 +1792,14 @@ back, taking this mountain-peak itself."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Blazing and of great radiance, like the tongue of the king of serpents (_jihvevoragarājasya_), that weapon of great velocity fell upon Lakṣmaṇa&#x27;s broad chest (_mahorasi_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**791.35–36 (The Lance Strikes Lakṣmaṇa's Chest)**
+
+Govindarāja explains that a weapon capable of reducing its target to ashes in an instant, once neutralized by Rāma's word, merely struck and felled Lakṣmaṇa without slaying him (क्षणादेव भस्मीकरणक्षमा शक्तिः रामेण मोघीकृता सती केवलमपतत्).
 </details>
 </details>
 
@@ -1774,6 +1918,14 @@ great perplexity may arise."
 
 **38:** Reflecting for a moment (_muhūrtam iva dhyātvā_), his eyes brimming with tears (_bāṣpaparyākulekṣaṇaḥ_), he grew all the more fiercely incensed (_saṃrabdhataraḥ_), like the fire at the dissolution of the world-age (_yugānta iva pāvakaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**792.37–38 (From Fraternal Grief to Apocalyptic Wrath)**
+
+Glossing Rāma's momentary pause (मुहूर्तमिव ध्यात्वा), Rāma Varmā and Govindarāja explain that he weighed the immediate duty required by the crisis (किमिदानीं कर्तव्यमिति पर्यालोच्येत्यर्थः; तत्कालकर्तव्यं चिन्तयित्वा). Śivasahāya and Rāma Varmā note that Rāma thereupon blazed with redoubled martial zeal (संरब्धतरो युद्धेऽधिकोत्साहवान्) like the apocalyptic fire at the end of an eon (युगान्तः पावक इव संरब्धतरः अतिक्रुद्ध इव बभूव).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1825,6 +1977,14 @@ it up, so mighty as he was.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thinking, “This is no time for despondency (_na viṣādasya kālo &#x27;yam_),” Rāghava, resolved upon the slaying of Rāvaṇa (_rāvaṇasya vadhe dhṛtaḥ_) and gazing intently upon Lakṣmaṇa, waged a tumultuous battle with all his great effort.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**792.39–40 (The Blood-Stained Mountain Simile)**
+
+Govindarāja construes verse 39 and its third line as a single sentence (सार्धश्लोकमेकं वाक्यम्), while Rāma Varmā sees it as a synopsis of the ensuing action (अयं च वक्ष्यमाणार्थसंक्षेपः). Witnessing Lakṣmaṇa's heroic sacrifice steels Rāma's resolve to slay Rāvaṇa (तदानीं लक्ष्मणस्य तादृशं शौर्यदर्शनं रावणवधनिश्चयकारणं भवतीत्याशयः). Śivasahāya explains the simile comparing the golden-limbed, blood-streaked Lakṣmaṇa pierced by the serpent-like lance to a mountain coiled by a great snake (सपन्नगमचलमिव लक्ष्मणं ददर्श).
 </details>
 </details>
 
@@ -1920,6 +2080,14 @@ while, spoke the following words to Sushena:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even with all their effort (_yatnataḥ_), those foremost of monkeys (_hariśreṣṭhāḥ_) could not wrench out (_avamarditum_) that lance hurled by the mighty Rāvaṇa.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**792.41–42 (The Monkeys' Inability to Extract the Lance)**
+
+Rāma Varmā glosses _avamarditum_ as 'to extract from Lakṣmaṇa's body' (तां शक्तिं लक्ष्मणगात्रादवमर्दितुमुद्धर्तुं यत्नतो न शेकुः) and _pravekeṇa_ as 'by the foremost' (रक्षसां प्रवेकेण श्रेष्ठेन). Govindarāja and Śivasahāya add that the monkey chiefs were prevented from pulling out the lance both by Rāvaṇa's tremendous force and by his relentless volleys of arrows (बाणार्दितत्वेन उद्धर्तुं न शेकुरित्याह) as the weapon pinned Saumitri into the ground.
 </details>
 </details>
 
@@ -2036,6 +2204,14 @@ monkeys, pulling out the herbs, took hold off them.
 
 Grasping that terrifying lance with both hands (_karābhyāṃ parāmṛśya_), the mighty Rāma, enraged in battle, wrenched it out (_vicakarṣa_) and snapped it in two (_babhañja_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**793.43–44 (Rāma Snaps the Lance of Maya)**
+
+Rāma Varmā reverses the narrative sequence of _babhañja_ and _vicakarṣa_ by sense (_arthakrama_): grasping the weapon with both hands, Rāma first wrenched it out of Lakṣmaṇa's chest and then snapped it (तां शक्तिं कराभ्यां परामृश्य धृत्वा बलवान्बलवत्तरो रामो लक्ष्मणदेहाद्विचकर्ष विकृष्य बभञ्ज च). Normally the magical lance would return to Rāvaṇa's hand after piercing its target, but Rāma's benediction neutralized its power to return, allowing the Lord to shatter it. While Rāma was absorbed in extracting the lance, Rāvaṇa seized the opening to riddle his limbs with vitals-piercing shafts (एतदन्तरे रन्ध्रविद्राक्षसः प्रजहार).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2140,6 +2316,14 @@ splendour, administered it through Lakshmana's nose.
 
 Disregarding those arrows (_acintayitvā tān bāṇān_) and embracing Lakṣmaṇa (_samāśliṣya ca lakṣmaṇam_), Rāma spoke to Hanūmān and to the great monkey Sugrīva:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**793.45–46 (The Healing Embrace)**
+
+Rāma Varmā offers a profound theological gloss on Rāma's embrace of Lakṣmaṇa (समाश्लिष्येति): this embrace removed all of Lakṣmaṇa's pain and manifested their essential identity of being (समाश्लेषोऽयं सकलपीडानिवृत्तिपूर्वकः स्वतादात्म्यावभासनरूपः). Śivasahāya adds that Rāma then charged Hanūmān, Sugrīva, and Jāmbavān with guarding his brother.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2242,6 +2426,14 @@ applauded Lakshmana, saying, "Excellent, excellent!".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let this wicked-souled ten-necked Rāvaṇa of sinful resolve be slain (_vadhyatām_)—a sight longed for by me like the sight of a rain-cloud by the cātaka bird at the end of summer (_cātakasyeva gharmānte meghadarśanam_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**793.47–48 (The Cātaka Bird Simile and Solemn Vow)**
+
+Both Govindarāja and Rāma Varmā cite the _Amarakośa_ (स्तोककश्चातकः समौ इत्यमरात्) to equate the variant _stokaka_ with the rain-thirsting _cātaka_ bird awaiting the monsoon cloud (घर्मान्ते चातकस्य मेघदर्शनमिव). Glossing _pratiśṛṇomi_ as 'I solemnly vow' (प्रतिशृणोमि प्रतिजाने), Śivasahāya highlights Rāma's pledge that the world shall imminently be seen without Rāvaṇa or without Rāma (अरावणं रावणरहितमरामं वा जगत् न चिरात् शीघ्रं द्रक्ष्यथ).
 </details>
 </details>
 
@@ -2355,6 +2547,14 @@ here, returned from death."
 
 “The loss of the kingdom (_rājyanāśam_), dwelling in the forest, wandering through Daṇḍaka, the violation of Vaidehī (_vaidehyāś ca parāmarśaḥ_), and the conflict with the rākṣasas—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**794.49–50 (Casting Off Mental Sorrow and Bodily Torment)**
+
+Construing verses 49 and 50 together (राज्यनाशमित्यादिश्लोकद्वयमेकान्वयम्), Rāma Varmā distinguishes _duḥkham_ as the mental anguish resulting from exile and Sītā's abduction (राज्यनाशादिकृतं घोरं दुःखं मानसं प्राप्तम्) and _kleśaḥ_ as the hellish physical affliction of combat (निरयोपमो यातनोपमः क्लेशः कायिकश्च प्राप्तः). Govindarāja specifically links _kleśa_ to the agony of seeing Lakṣmaṇa struck down (क्लेशं लक्ष्मणप्रहरणजन्यम्) and glosses _parāmarśam_ as the violent seizure or abduction of Vaidehī (परामर्शं स्पर्शनमपहारं वा).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2454,6 +2654,14 @@ tone, spoke the following words:
 
 “He for whose sake this monkey army was assembled by me, Sugrīva was installed on the throne after slaying Vālin in battle, and the ocean was crossed and spanned with a causeway (_setur baddhaś ca sāgare_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**794.51–53 (The Serpent of Venomous Gaze and Garuḍa)**
+
+Govindarāja unites verses 51 through 53 into a single periodic declaration (यदर्थमित्यादिश्लोकत्रयमेकान्वयम्): the sinner for whose destruction the monkeys were mustered, Vālin slain, and the ocean bridged now stands directly before Rāma's eyes. Glossing _dṛṣṭiviṣasya_, all three commentators explain the lore of the basilisk-like serpent whose mere glance slays (दृष्टौ विषं यस्यासौ दृष्टिविषः तस्य; दर्शनमात्रेण संहारकरमहाविषवतः सर्पस्य).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2530,6 +2738,14 @@ have attained demise, tell me what significance is there for it to me?"
 
 **53:** “[Having met] my gaze like that of a serpent whose very glance is venom (_dṛṣṭiviṣasyeva sarpasya_), or like a snake that has come within the sight of Garuḍa (_vainateyasya dṛṣṭiṃ prāpto bhujaṃgamaḥ_), Rāvaṇa [cannot survive]!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**794.53 (The Double Simile of Inevitable Doom)**
+
+Śivasahāya synthesizes both similes in verse 53: just as a mortal meeting the gaze of a venom-eyed serpent or a snake falling under the eye of Vinatā's son Garuḍa cannot live, so Rāvaṇa cannot survive having entered Rāma's sight (वैनतेयस्य दृष्टिं प्राप्तो भुजंगम इव च मम चक्षुर्विषयमागम्य अयं रावणो जीवितुं नार्हति).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -2590,6 +2806,14 @@ Fulfill your promise now, by killing Ravana."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Seated at ease upon the mountain peaks (_āsīnāḥ parvatāgreṣu_), O unassailable bulls among monkeys (_vānarapuṅgavāḥ_), watch comfortably (_sukhaṃ paśyata_) this battle of mine and Rāvaṇa&#x27;s!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**795.54–55 (The Meaning of 'Rāma's Rāma-hood')**
+
+Inviting the monkey chiefs to watch at ease from the crags (इदं युद्धं सुखं पश्यत), Rāma proclaims that the three worlds will today witness _rāmasya rāmatvam_. The commentators offer celebrated interpretations of this phrase: Govindarāja glosses _rāmatvam_ as 'peerless heroism in all the worlds' (रामत्वं जगदेकवीरत्वम्) and cites earlier preceptors who explain it as the very purpose of the Rāma incarnation (आचार्यास्तु रामावतारप्रयोजनमित्याहुः). Rāma Varmā derives it etymologically from _ram_, explaining it as delighting the gods by protecting Śrī and the worlds through truth and valor (श्रीलोकरक्षादिदेवानन्दनेन सत्येन शौर्येण च रमणशीलत्वरूपं रामत्वम्).
 </details>
 </details>
 
@@ -2719,5 +2943,13 @@ death?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Today I shall accomplish a feat (_adya karma kariṣyāmi_) which the worlds with all their moving and unmoving beings, together with the gods, shall recount for as long as the earth endures (_yāvad bhūmir dhariṣyati_), gathering ever in the world to tell how this battle was waged!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**795.56 (A Feat Remembered So Long as Earth Endures)**
+
+Construing the three-line verse 56 as a single syntactic unit (अद्येत्यादिसार्धश्लोक एकान्वयः), Govindarāja and Rāma Varmā explain _yāvad bhūmir dhariṣyati_ as 'for so long as the earth endures or sustains living beings' (यावद्भूमिर्धरिष्यति प्राणिनस्तावद्यन्मे कर्म सचराचराः सदेवा लोका जनाः कथयिष्यन्ति).
 </details>
 </details>

@@ -1739,6 +1739,170 @@ Rama through Janasthaana to Lanka.
 
 “Having deluded and drawn him away (_taṃ pramathya_) in the great forest, carry off his wife (_tasyāpahara bhāryām_); for bereft of Sītā (_sītayā rahitaḥ_), Rāma will surely cease to live (_na caiva hi bhaviṣyati_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.31.1 (Narrative Placement & Janasthāna)**
+
+**Rāma Varmā** (_Tilaka_) notes that Akampana, fleeing Khara's battle, entered Laṅkā before Śūrpaṇakhā (शूर्पणखागमनात्पूर्वमेव लङ्कां प्रविश्य), and explains that all of Daṇḍaka is called Janasthāna (संपूर्णं दण्डकारण्यं जनस्थानपदवाच्यम्). **Govindarāja** (_Bhūṣaṇa_) identifies Akampana as Rāvaṇa's spy (रावणचारः) and notes that after Khara's slaying (विरोधिनिवृत्तिः) this episode plants the seed of Sītā's abduction (सीतापहाररूपबीजम्).
+
+_____________
+
+**3.31.2–3 (Akampana's Escape & Rāvaṇa's Wrath)**
+
+On कथंचिदहमागतः, **Rāma Varmā** (_Tilaka_) remarks that Akampana survived only by standing aloof as a spectator beyond Rāma's arrows (केवलं प्रेक्षकतया स्थितत्वाद्रामबाणाविषयीकृतयेति), whereas **Govindarāja** (_Bhūṣaṇa_) suggests he escaped in terrified disguise (भीतवेषधारणेनेति भावः).
+
+_____________
+
+**3.31.4–6 (parāsunā & Subduing Death)**
+
+On परासुना, **Rāma Varmā** (_Tilaka_) glosses “nearly burnt up by my wrath” (क्रोधान्दग्धप्रायं प्राप्तम्), **Govindarāja** (_Bhūṣaṇa_) calls it boastful speech (प्रहर्षभाषणमत्र), and **Śivasahāya** (_Śiromaṇi_) adds “of supreme vitality” (उत्कृष्टप्राणवता). On कालस्य चाप्यहं कालः, **Śivasahāya** glosses the second _kāla_ as controller (नियन्ता), substantiated by binding Death with mortality (मृत्युं मरणधर्मेण, _Bhūṣaṇa_).
+
+_____________
+
+**3.31.7 (Burning Sun and Fire Together)**
+
+On आदित्यपावकौ, **Rāma Varmā** (_Tilaka_) supplies “both simultaneously” (द्वावपि युगपदिति शेषः), while **Govindarāja** (_Bhūṣaṇa_) explains that Rāvaṇa boasts he could burn the sun and fire even if they united in mutual assistance (परस्परसाहाय्येन संयुक्तावपीत्यर्थः), avoiding redundancy (तेन न पुनरुक्तिः) after verse 6.
+
+_____________
+
+**3.31.8–9 (saṃdigdhayā vācā & Double Accusative)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss संदिग्धया as speech with faltering syllables (संदिग्धाक्षरया). **Śivasahāya** (_Śiromaṇi_) notes the double accusative with याचते (द्विकर्मकोऽयम्), as Akampana begs not to be punished for bearing unwelcome news (मदुक्तिहेतुको दण्डो भवता न कार्यः); once reassured (विस्रब्धः), he speaks without doubt (संदेहरहितम्).
+
+_____________
+
+**3.31.10–12 (siṃhasaṃhananaḥ & nāgendraḥ)**
+
+On सिंहसंहननः, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) cite the _Amarakośa_ (वराङ्गरूपोपेतो यः सिंहसंहननो हि सः) to describe Rāma's symmetry of limbs. **Śivasahāya** links verses 10–11 as one sentence (श्लोकद्वयमेकान्वयि), and both **Rāma Varmā** and **Govindarāja** gloss नागेन्द्रः as a serpent (सर्पः).
+
+_____________
+
+**3.31.13–14 (Rāvaṇa's Incredulity)**
+
+On Rāvaṇa's question whether Rāma came allied with Indra and the immortals (सुरेन्द्रेण संयुक्तः ... सर्वामरैः सह), **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) observe that Rāvaṇa deems the slaying of Khara impossible for Rāma alone (राममात्रकर्तृकखरादिवधस्यासंभवः सूचितः, _Śiromaṇi_; अन्यथा तस्यैतादृशसामर्थ्यं न युज्यत इति भावः, _Bhūṣaṇa_).
+
+_____________
+
+**3.31.15–16 (paraṃ dharmam & rākāśaśinibhānanaḥ)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that Akampana's reply shows Rāma needs no aid from Indra (पुरन्दरादिसहायानपेक्षो राम इत्याशयेनाह). On परं धर्मम्, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss _dharma_ as supreme martial valor (अतिशयितं शौर्यम्, _Tilaka_), and **Rāma Varmā** cites the _Amarakośa_ (पूर्णे राका निशाकरे) on राकाशशिनिभाननः.
+
+_____________
+
+**3.31.17–18 (No Divine Aid & Rāma's Arrows)**
+
+**Rāma Varmā** (_Tilaka_) glosses राजवरः as “king of kings” (राजराज इति यावत्), while **Śivasahāya** (_Śiromaṇi_) likens Rāma paired with Lakṣmaṇa to wind joined with fire (पावकेनानिल इव). On नैव देवा महात्मानः, all three supply “came to assist” (साहाय्यार्थमागता इति शेषः, _Bhūṣaṇa_), and **Rāma Varmā** notes that रामेण तु excludes even Lakṣmaṇa (न तु लक्ष्मणेनापीत्यर्थः).
+
+_____________
+
+**3.31.19–20 (Five-Hooded Arrows & Rāma's Omnipresence)**
+
+On पञ्चाननाः, **Śivasahāya** (_Śiromaṇi_) takes it literally as five-mouthed serpents (पञ्चमुखाः सर्पाः), whereas **Govindarāja** (_Bhūṣaṇa_) glosses “wide-mouthed” (विस्तृताननाः) as a poetic fancy (इत्युत्प्रेक्षा). On the demons seeing Rāma everywhere, **Rāma Varmā** (_Tilaka_) sees Rāma's infinite forms and boundless power (अनन्ताकारताप्रदर्शनेन रामस्यापरिच्छिन्नशक्तित्वं च सूचितम्), while **Govindarāja** attributes the vision to panic (रामदर्शनं भयकल्पितमिति व्यज्यते).
+
+_____________
+
+**3.31.22–23 (balapauruṣam & Stopping a River)**
+
+**Rāma Varmā** (_Tilaka_) distinguishes बलम् (power to vanquish foes, पराभिभवसामर्थ्यम्) from पौरुषम् (heroic deeds, महापुरुषकर्म), and remarks that turning back a flooded river (आपगायाः ... वेगं परिहरेत्) alludes to the Kṛṣṇa and Balarāma incarnations (अनेन कृष्णबलभद्रावतारस्यापि सूचनम्).
+
+_____________
+
+**3.31.24 (Cosmic Allusions)**
+
+On bringing down the sky and lifting the sinking earth (सीदन्तीं महीम्), **Rāma Varmā** (_Tilaka_) compares the former to the Trivikrama incarnation (त्रिविक्रमावतार इव) and the latter to the sacrificial Boar (यज्ञवराह इव), while **Govindarāja** (_Bhūṣaṇa_) enumerates the nine planets (नव ग्रहाः) and twenty-seven _nakṣatras_ (सप्तविंशतिनक्षत्राणि).
+
+_____________
+
+**3.31.25–26 (Mastery over the Ocean & Cosmic Creation)**
+
+On वेगं वापि समुद्रस्य ... विधमेत्, **Rāma Varmā** (_Tilaka_) observes that checking the ocean's surge foreshadows Rāma's bridging of the sea (समुद्रसेतुबन्धनसामर्थ्यं दर्शितम्), while **Govindarāja** (_Bhūṣaṇa_) glosses विधमेत् as “could burn up” (दहेत्). On verse 26, **Rāma Varmā** remarks that Rāma's power to dissolve and recreate all creatures reveals his supreme lordship over cosmic maintenance and dissolution (जगत्स्थितिसंहारकर्तृत्वमस्य व्यङ्ग्यम्), perceived even by Akampana through divine grace (भगवत्प्रसादादेवं ज्ञानम्).
+
+_____________
+
+**3.31.27–28 (Invincibility Even Against Indrajit)**
+
+On लोकेन, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) gloss “the collective host” (समूहेन), and on सर्वैर्देवासुरैरपि **Rāma Varmā** (_Tilaka_) notes the implication that even with the aid of Indrajit—conqueror of Indra—Rāma cannot be vanquished (इन्द्रजित्चिरजितेन्द्रादिसाहाय्येऽपि तस्य जयोऽशक्य इति ध्वनितम्).
+
+_____________
+
+**3.31.29–30 (śyāmā & samavibhaktāṅgī)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss श्यामा as a woman in the prime of youth (यौवनमध्यस्था), while **Śivasahāya** (_Śiromaṇi_) specifies sixteen years of age (षोडशवार्षिकी) and explains समविभक्ताङ्गी as having symmetrically proportioned, well-defined limbs (समानि न्यूनाधिकरहितानि विभक्तानि असंश्लीष्टानि अङ्गानि).
+
+_____________
+
+**3.31.31–32 (pramathya as Deception)**
+
+Since Akampana has declared Rāma invincible in combat, all three commentators explain तं प्रमथ्य not as overpowering by force, but as luring away or deceiving Rāma by some stratagem (केनाप्युपायेनोच्चाट्येति यावत्, _Tilaka_; विमोह्य येन केनाप्युपायेन रामं वञ्चयेत्यर्थः, _Bhūṣaṇa_; कथंचिदनवधानीकृत्य, _Śiromaṇi_), and gloss चिन्तयित्वा as pondering how to draw Rāma away (रामोच्चाटनमपायामिति शेषः, _Bhūṣaṇa_).
+
+_____________
+
+**3.31.33–34 (Critique of Tīrtha on hṛṣṭaḥ & kharayuktena)**
+
+On हृष्टः, **Rāma Varmā** (_Tilaka_) refutes **Maheśvaratīrtha**'s claim that Rāvaṇa rejoiced recalling Sanatkumāra's _Uttarakāṇḍa_ prophecy of liberation through death at Viṣṇu's hands (सनत्कुमारवाक्यस्मरणाद्धृष्टः ... इति तीर्थः), arguing that Rāvaṇa simply rejoiced at the prospect of winning a peerless woman (उत्तमस्त्रीलाभो भविष्यतीति हृष्ट इत्यर्थ उचितः) and noting that those _Uttarakāṇḍa_ chapters are interpolations (प्रक्षिप्तत्वान्न ते प्रमाणभूताः). On खरयुक्तेन, **Govindarāja** (_Bhūṣaṇa_) glosses खरः as a mule (अश्वतरः).
+
+_____________
+
+**3.31.35–36 (Mārīca's Hermitage)**
+
+**Rāma Varmā** (_Tilaka_) notes that Mārīca had taken up asceticism out of grief over his earlier defeat by Rāma (पूर्वं रामनिरस्तस्य शोकात्तपःप्रवृत्तेरेवमुक्तिः).
+
+_____________
+
+**3.31.37–38 (Mārīca's Apprehension)**
+
+All three commentators gloss अर्थोपहितया as speech inquiring into the purpose of Rāvaṇa's visit (किंप्रयोजनमत्रागमनमिति प्रयोजनयुक्तया, _Tilaka_; अर्थेन प्रयोजनेन उपहितया, _Bhūṣaṇa_). On verse 38, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) take लोकानाम् as the _rākṣasa_ subjects (राक्षसलोकानाम्), explaining that because Rāvaṇa has arrived alone in such haste (यतस्तूर्णमुपागतः), Mārīca suspects some grave calamity has occurred (किंचिदत्याहितमस्तीत्याशङ्के, _Bhūṣaṇa_) though he does not yet know it in detail (तद्विशिष्य न जाने).
+
+_____________
+
+**3.31.40 (ārakṣaḥ)**
+
+**Rāma Varmā** (_Tilaka_) interprets आरक्षः either as the garrison settlement named Janasthāna (समाजस्थानं जनस्थानाख्यम्) or as the frontier-warden Khara and his generals (आरक्षोऽन्तपालः खरादिरित्यर्थ इत्यन्ये), while **Govindarāja** (_Bhūṣaṇa_) glosses अन्तपालः and notes that जनस्थानम् by metonymy denotes the demon host stationed there (तत्स्थो रक्षोगणो लक्ष्यते).
+
+_____________
+
+**3.31.41 (The Two Pronouns tasya)**
+
+In तस्य मे कुरु साचिव्यं तस्य भार्यापहारणे, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) distinguish the two occurrences of तस्य: the first qualifies मे (“for me, whose kinsmen have been slain”, हतस्वजनस्य मे, _Bhūṣaṇa_), while the second refers to Rāma (तस्य रामस्य भार्यापहारणे, _Śiromaṇi_).
+
+_____________
+
+**3.31.42–43 (nanditaḥ vs. ninditaḥ & śṛṅgam)**
+
+**Rāma Varmā** (_Tilaka_) explains both readings in 42d: with नन्दितः, “who, gladdened by your bounty, fails to rejoice in your welfare?”, whereas with निन्दितः (adopted by **Govindarāja** in _Bhūṣaṇa_), “who, slighted by you (त्वया तिरस्कृतः), bears a grudge and feigns friendship to destroy you?” On शृङ्गम् (3.31.43), **Govindarāja** cites the _Amarakośa_ (प्राधान्यसान्वोः शृङ्गम्) to gloss preeminence (प्राधान्यम्), while **Śivasahāya** (_Śiromaṇi_) takes it as Rāvaṇa himself, the crest of the _rākṣasas_ (मुख्यं त्वाम्).
+
+_____________
+
+**3.31.44–45 (The Serpent's Fang)**
+
+All three commentators explain त्वया as instrumental of agency/means (त्वया करणेन, _Śiromaṇi_): the treacherous adviser seeks to use Rāvaṇa's hand to pull a fang from a venomous cobra's mouth (आशीविषमुखाद् दंष्ट्राम्).
+
+_____________
+
+**3.31.46 (The Scent-Elephant Metaphor)**
+
+Shifting to **Upajāti** meter, Mārīca casts Rāma as a rutting scent-elephant (राघवगन्धहस्ती—an elephant whose mere scent makes rival elephants flee, यस्य गन्धमात्रेणान्ये गजाः पलायन्ते, _Bhūṣaṇa_, _Tilaka_), whose pure lineage is his lofty trunk (अग्रहस्तः), whose valor is his rut-fluid (तेजोमदः), and whose arms are his tusks (दोर्विषाणः).
+
+_____________
+
+**3.31.47 (The Sleeping Lion Metaphor)**
+
+Continuing in **Upajāti**, Mārīca likens Rāma to a sleeping man-lion (नृसिंहः) unprovoked toward Rāvaṇa (त्वदपकारविषयकोद्योगरहितः सुप्तः, _Śiromaṇi_). **Govindarāja** (_Bhūṣaṇa_) explains रणान्तःस्थितिसंधिवालः through the observation that an enraged lion arches its back and tail (सिंहस्य कोपदशायां मध्योपरिप्रदेशे वालश्चलतीति प्रसिद्धिः), comparing Rāma's firmness in battle to that arched tail, his arrows to claws (शरा एवाङ्गानि), and his sword to fangs (निशितासिदंष्ट्रः).
+
+_____________
+
+**3.31.48 (The Submarine Abyss Metaphor)**
+
+Even if one might approach a lion, one cannot plunge into a submarine chasm (रामपातालमुखे, where **Rāma Varmā** takes मुखे as the submarine fire वडवामुखरूपे): Rāma's bow is the seizing shark (चाप एवापहारः ग्राहो यस्मिन्, _Tilaka_; ग्राहः अवहारः इत्यमरः, _Bhūṣaṇa_), the speed of his arms is the mire (भुजवेगपङ्के), his arrows are waves (शरोर्मिमाले), and great battle is the flood (सुमहाहवौघे).
+
+_____________
+
+**3.31.49–50 (Mārīca's Entreaty)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that out of intense dread Mārīca repeats his soothing plea (भयातिशयेन पुनः पुनः सान्त्वयति), while **Śivasahāya** (_Śiromaṇi_) construes लङ्कां प्रसन्नः with an implicit causative sense (अन्तर्भावितणिजर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

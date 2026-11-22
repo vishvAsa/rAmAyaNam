@@ -353,6 +353,152 @@ sound.
 
 And it was ever traversed by wondrous, rattling chariots (_ghoṣavadbhir vicitraiś ca रथैः_) armored in lion and tiger skins (_siṃhavyāghratanutrāṇaiḥ_) and bearing figures of ivory, gold, and silver (_dāntakāñcanarājatīḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.6.1–3 (Agility and Radiance Before Rāvaṇa's Citadel)**
+
+While **Tilaka** and **Śiromaṇi** read विमानेषु विचरन् (`roaming through seven-storied palaces', सप्तभूमिकप्रासादेषु), **Govindarāja** reads विमानेषु विषण्णः, explaining that Hanūmān was momentarily dejected at not having seen Sītā in the outer mansions (विमानेषु सीतामदृष्ट्वा विषण्ण इत्यर्थः) before resuming his search with swiftness (लाघवेन वेगेन). On चकाशे in verse 3b, **Tilaka** explains that in the bright moonlight his golden form glowed like burnished gold (चन्द्रसाहित्यादग्नितप्तसुवर्णकल्पो बभूवेत्यर्थः), while **Govindarāja** glosses it as `he rejoiced' (जहर्षेत्यर्थः).
+
+_____________
+
+**5.6.4–5 (Silver-Inlaid Archways and Mahouts)**
+
+The palace is ringed by archways overlaid with silver (रूप्यकेण रजतेन उपहितैः) and inner enclosures (कक्ष्याभिः प्रकोष्ठैः). It is attended by elephant-mounted _mahāmātras_ (हस्तिपकमुख्यैः) and irresistible chariot-steeds (स्यन्दनवाहकैः प्रशस्तहयैः).
+
+_____________
+
+**5.6.6 (Chariots Armored in Lion and Tiger Skins)**
+
+All three commentators explain सिंहव्याघ्रतनुत्राणैः as a qualifier of the chariots (रथविशेषणम्) wrapped in protective coverings of lion and tiger hides (सिंहव्याघ्रचर्मपरिवृतैरित्यर्थः). On the feminine plural दान्तकाञ्चनराजतीः, **Tilaka** and **Śiromaṇi** supply प्रतिमाः दधद्भिः (`chariots bearing ornamental figures of ivory, gold, and silver'), whereas **Govindarāja** reads the regular instrumental plural दान्तकाञ्चनराजतैः agreeing directly with रथैः.
+
+_____________
+
+**5.6.7–9 (Great Chariot-Warriors and Frontier Wardens)**
+
+On the repetition of महारथ in verse 7b, **Tilaka** and **Śiromaṇi** take the first as `mighty chariots' (महतां रथानामावापः स्थानं) and the second as `great chariot-warriors', quoting the military definition of a _mahāratha_ as a warrior skilled in arms who single-handedly fights ten thousand bowmen (एको दशसहस्राणि योधयेद्यस्तु धन्विनाम् । शस्त्रशास्त्रप्रवीणश्च स महारथ उच्यते). In verse 9, all three commentators gloss अन्तपालैः as outer boundary-guards (पर्यन्तरक्षकैः, बाह्यरक्षिभिः).
+
+_____________
+
+**5.6.10–11 (Avoiding Tautology in Rākṣasendraniveśanam)**
+
+Since Rāvaṇa's mansion is called वेश्म in verse 13, why is राक्षसेन्द्रनिवेशनम् used here in verse 10? **Tilaka**, **Śiromaṇi**, and **Govindarāja** all resolve the potential tautology (अन्यथा वक्ष्यमाणवेश्मपदेन पुनरुक्तिः स्यात्) by explaining राक्षसेन्द्रनिवेशनम् as a _bahuvrīhi_: `that palace within which the foremost _rākṣasa_ lords (राक्षसश्रेष्ठाः महापार्श्वादयः) have their quarters or entry'. Its royal excellences (राजगुणसम्पन्नम्) include the white umbrella and chowries (छत्रचामरादिभिः).
+
+_____________
+
+**5.6.12 (Parvan Sacrifices in Rāvaṇa's Palace)**
+
+On पर्वसुतम्, **Tilaka** and **Śiromaṇi** explain it as `that palace in which Soma is pressed on the _parvan_ festival days' (पर्वसु सुतः सोमो यस्मिन् यज्ञाय तत्पर्वसुतम्), while **Govindarāja**, reading पर्वहुतम्, glosses it as `wherein the sacrificial fire receives oblations at the _parvan_ junctures' (पर्वसु हुतं होमो यस्मिन् तत्).
+
+_____________
+
+**5.6.13–14 (Syntactic Culmination of the Ten-Verse Clause)**
+
+Both **Tilaka** and **Śiromaṇi** point out that the long series of accusative epithets beginning back in verse 4 (रूप्यकोपहितैः... वृतम्) finally culminates in the main verb ददर्श in verse 14 (दशानामेकत्रान्वयः): Hanūmān beheld the great mansion of Rāvaṇa (महात्मनो रावणस्य महद्वेश्म), furnished with great jewels (परिच्छदोऽलङ्कारः). On the variant समुद्रमिव निस्स्वनम् in 13a, **Govindarāja** ingeniously interprets निस्स्वनम् either as `roaring like the ocean' or privatively as `silent (निःशब्दम्)—devoid of popular tumult out of dread of Rāvaṇa' (रावणभीत्या जनकोलाहलरहितमित्यर्थः), comparing it to the waveless ocean at cosmic dissolution.
+
+_____________
+
+**5.6.15–16 (The Ornament of Laṅkā and the Inner Compound)**
+
+Recognizing Rāvaṇa's palace as the very jewel of the city (लङ्काभरणम्), Hanūmān first searches the mansions of the chief ministers situated within the same great outer rampart (महाप्राकारान्तर्वर्तिप्रधानरक्षसामेकस्य गृहादपरं गृहम्) near Rāvaṇa's residence (रावणभवनसमीपे).
+
+_____________
+
+**5.6.17–18 (The Mansions of the Four Chief Lords)**
+
+Expanding upon the summary statement of verse 16 (अस्यैव प्रपञ्चः अवप्लुत्येत्यादि), the poet names the principal _rākṣasa_ estates visited first by Hanūmān: those of the commander-in-chief Prahasta, Mahāpārśva, Kumbhakarṇa—whose mansion looms dark and massive like a cloud (मेघप्रतीकाशं)—and Vibhīṣaṇa.
+
+_____________
+
+**5.6.19–20 (The Palaces of the Inner Councilors)**
+
+Continuing the catalogue of chief _rākṣasa_ residences within the royal citadel (अस्यैव प्रपञ्चः), the poet lists the mansions of Rāvaṇa's generals and counselors: Mahodara, Virūpākṣa, Vidyujjihva, Vidyunmāli, and Vajradaṃṣṭra, followed by Rāvaṇa's two astute intelligence ministers Śuka and the wise Sāraṇa (सारणस्य च धीमतः).
+
+_____________
+
+**5.6.21–22 (Indrajit and the Senior Chieftains)**
+
+Hanūmān next visits the palace of the crown prince Indrajit (इन्द्रजितो वेश्म), as well as the mansions of Jambumāli (son of Prahasta), the veteran Sumāli, Raśmiketu, Sūryaśatru, and Vajrakāya. Notice the epic _i_-stem genitive forms विद्युन्मालेः, जम्बुमालेः, and सुमालेः standing for classical _in_-stem genitives.
+
+_____________
+
+**5.6.23–24 (Further Rākṣasa Captains and Name Variants)**
+
+In verses 23–24, Hanūmān inspects the residences of Dhūmrākṣa, the _rākṣasa_ Sampāti (distinct from Jaṭāyu's elder brother), Vidyudrūpa, Ghana, and Vighana. In verse 24, the commentators record significant Southern manuscript variations in the proper names of the _rākṣasa_ officers: where the base text reads शुकनाभस्य चक्रस्य शठस्य कपटस्य च । ह्रस्वकर्णस्य दंष्ट्रस्य लोमशस्य, **Govindarāja**'s text reads शुकनासस्य वक्रस्य, विकटस्य, ब्रह्मकर्णस्य, and रोमशस्य.
+
+_____________
+
+**5.6.25–28 (Culmination of the Tour of Ministerial Mansions)**
+
+On the plural genitive विद्युज्जिह्वद्विजिह्वानाम् for two individuals, **Tilaka** explains the plural as _ārṣa_ for the dual (बहुवचनमार्षम् तयोरित्यर्थः), whereas **Govindarāja**, reading विद्युज्जिह्वेन्द्रजिह्वानाम्, suggests there were multiple _rākṣasas_ bearing those names (तन्नामकानां बहूनां सत्त्वात्). **Śiromaṇi** construes the five verses 23–27 as a single syntactic unit (श्लोकपञ्चकमेकान्वयि): leaping in sequence through all these mansions, Hanūmān beheld the wealth of those prosperous lords (ऋद्धिमतां तेषां राक्षसानां ऋद्धिं ददर्श) before finally passing beyond them to Rāvaṇa's own inner palace (राक्षसेन्द्रनिवेशनम्).
+
+_____________
+
+**5.6.29 (Female Guards Sleeping and Watching by Turns)**
+
+On उपशायिन्यः, all three commentators note the _ārṣa_ nominative plural standing for the accusative (उपशायिनीः). **Tilaka** quotes a lexicographical rule (उपशायोपशायौ च पर्यायशयनार्थकौ) to explain them as female guards who sleep and keep watch in alternating shifts around Rāvaṇa's bedchamber (पर्यायेण शयनस्थानरक्षिकाः), while **Govindarāja** glosses the term as women who remain awake on guard while Rāvaṇa sleeps (रावणे शयाने जाग्रतीरित्यर्थः).
+
+_____________
+
+**5.6.30 (Garrisons of Female and Male Sentries)**
+
+In Rāvaṇa's palace, **Tilaka** and **Śiromaṇi** gloss गुल्मान् as troops of _rākṣasī_ warders (राक्षसीसमूहान्) armed with pikes, mallets, javelins, and lances.
+
+_____________
+
+**5.6.31 (Resolving the Apparent Tautology of Śvetān and Sitān)**
+
+If श्वेतान् in verse 31b means `white', why is it immediately followed by सितान्? Both **Śiromaṇi** and **Govindarāja** resolve this by deriving सितान् not from the adjective _sita_ (`white') but from the verbal root √सि (`to bind', षिञ् बन्धने इत्यस्मात् क्तः), meaning `tethered in their stalls' (सितान् बद्धान् रक्तान् श्वेतांश्च हरीन् अश्वांश्च).
+
+_____________
+
+**5.6.32–33 (War-Elephants Trickling like Clouds and Mountains)**
+
+Hanūmān sees noble war-elephants that shatter enemy elephants (शत्रुगजानारुजन्ति भञ्जयन्ति तान्). On the twin similes in verse 33b (क्षरतश्च यथा मेघान् स्रवतश्च यथा गिरीन्), **Govindarāja** explains that क्षरतः (`trickling drops like rain-clouds') illustrates the oozing of rut-fluid (स्रवन्मदत्वे दृष्टान्तः), while स्रवतः (`streaming like mountain cascades', निर्झरिणः) illustrates their massive mountain-like bulk and torrents of ichor.
+
+_____________
+
+**5.6.34–35 (Golden Battalions and Sun-Bright Palanquins)**
+
+Construing verse 35 with verse 36a (अर्धचतुष्टयमेकान्वयि), the commentators explain that Hanūmān sees a thousand infantry battalions (सहस्रं वाहिनीः सेनाः पदातीन्) decked in both river-gold (जाम्बूनद) and mountain-gold (हेम), along with palanquins (शिबिकाः) continuously covered in golden latticework (हेमजालैरविच्छिन्नाः सर्वतो भूषिताः).
+
+_____________
+
+**5.6.36–37 (Pleasure-Hills, Picture-Halls, and Love-Pavilions)**
+
+In Rāvaṇa's palace, Hanūmān sees creeper-arbors (लतागृहाणि), halls adorned with painted frescoes (चित्रशालागृहाणि), artificial pleasure-mounts carved of wood (दारुनिर्मिताः क्रीडापर्वताः—where **Tilaka** notes that the neuter ending in दारुपर्वतकानि is _ārṣa_ and the _kan_-suffix in गृहकम् is pleonastic, अत्यन्तस्वार्थिकः कन्), a chamber of amorous sport (कामस्य गृहकं रतिगृहकम्), and a pavilion for daytime recreation (दिवागृहकं दिनविहारगृहम्).
+
+_____________
+
+**5.6.38–39 (Peacock-Perches and Wise Craftsmanship)**
+
+On मयूरस्थानसंकुलम्, all three commentators explain this as resting-perches fashioned for tame peacocks (क्रीडामयूरविश्रामस्थानम्), with **Govindarāja** observing that projecting eaves and brackets are built into palaces for peacocks just as for doves (कपोतानामिव मयूराणामपि स्थानानि शिखाभिः कल्प्यन्ते). On धीरनिष्ठितकर्माङ्गं (or कर्मान्तं), **Śiromaṇi** explains it as `having treasure-guarding mechanisms executed by wise artisans' (निधिरक्षकक्रियावयवो यस्मिन्), while **Tilaka** also suggests an allusion to Kubera's treasures won through Rāvaṇa's steadfast austerities (तपोरूपस्यान्तं फलरूपम्). **Tilaka** glosses भूतपतेः as either Maheśvara (Śiva) or Yakṣeśvara (Kubera).
+
+_____________
+
+**5.6.40 (Twin Radiance of Gems and Royal Majesty)**
+
+Illuminated both by the luster of its gems and by Rāvaṇa's own martial splendor (रावणस्य तेजसा च), the palace blazes like the Sun (रश्मिवान् सूर्यः) with its rays.
+
+_____________
+
+**5.6.41–42 (Golden Furnishings and Floors Moist with Wine)**
+
+Entering the inner apartments, Hanūmān sees couches, seats, and shining vessels of pure _jāmbūnada_ gold. Construing verses 42–44 as a single sentence (श्लोकत्रयमेकान्वयि) governed by प्रविवेश, the commentators explain मध्वासवकृतक्लेदम्: **Tilaka** notes the technical distinction between _madhu_ (flower-nectar wine) and _āsava_ (fermented liquor, मध्वासवयोरवान्तरभेदः), while **Govindarāja** takes it as floors sprinkled and moistened with honey-liquors (मध्वासवैः मधुविकारमयैः कृतक्लेदं कृतसेकम्). It is spacious (असंबाधं संबाधारहितं विशालमित्यर्थः) like Kubera's own palace.
+
+_____________
+
+**5.6.43 (Resonance of Anklets, Girdles, and Drums)**
+
+On घोषवद्भिः following मृदङ्गतलनिर्घोषैः, **Tilaka** and **Śiromaṇi** explain it either as ` accompanied by other resonant musical instruments besides _mṛdaṅga_ drums' (मृदङ्गातिरिक्तैरपि घोषवद्भिर्वाद्यैः) or as `deeply resonant drum-strokes' (नादवद्भिः).
+
+_____________
+
+**5.6.44 (Entering the Inner Palace Complex)**
+
+Hanūmān finally steps into the core palace (महागृहम्), which encompasses clusters of multi-storied towers (प्रासादसंघातयुतं), hundreds of jewel-like women (स्त्रीरत्नशतसंकुलम्), and wide-set inner courts (सुव्यूढकक्ष्यं विशालप्रकोष्ठम्). **Govindarāja** concludes by recording the exact verse-count of the sarga as forty-four and a half ślokas (अस्मिन्सर्गे सार्धचतुश्चत्वारिंशच्छ्लोकाः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

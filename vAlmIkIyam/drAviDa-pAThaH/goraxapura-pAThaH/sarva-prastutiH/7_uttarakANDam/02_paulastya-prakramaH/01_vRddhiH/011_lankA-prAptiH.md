@@ -376,6 +376,170 @@ _________________
 
 Thus gently rebuffed by that preeminent lord of rākṣasas (_sāmnāpi rākṣasendreṇa pratyākhyāto garīyasā_), the rākṣasa [Sumālī], discerning his inner inclination (_jñātvā tasya cakīrṣitam_), said nothing further at that moment (_kiñcin nāha tadā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.11.1–2 (Ascent from Rasātala and Sumālī’s Ministers)**
+
+Introducing the eleventh sarga, **Rāma Varmā** (_Tilaka_) frames its central theme as Rāvaṇa’s entry into Laṅkā after displacing Kubera (अथ धनदमपसार्य रावणस्य लङ्कापुरप्रवेशः). **Śivasahāya** (_Śiromaṇi_) links the action directly to the close of Sarga 10: learning that Rāvaṇa and his brothers had secured Brahmā’s boons, Sumālī casts off his dread and rises from the netherworld (रावणादीन् वरलब्धान् ज्ञात्वा अत एव भयं त्यक्त्वा रसातलादुदतिष्ठत्). Both commentators specify that तस्य रक्षसः सचिवाः in 7.11.2 refers to Sumālī’s own veteran counselors—Mārīca, Prahasta, Virūpākṣa, and Mahodara—who will soon form the core of Rāvaṇa’s war council.
+
+_____________
+
+**7.11.3–4 (The Maternal Grandfather’s Embrace and Fulfilled Design)**
+
+Approaching Daśagrīva with his retinue, Sumālī embraces him warmly before speaking. **Śivasahāya** glosses दिष्ट्या in 7.11.4 as ‘by good fortune’ (भाग्यवशेन), noting the causal link between the two halves of the verse: precisely because Rāvaṇa gained an unsurpassed boon from Brahmā (_tribhuvana-śreṣṭha_), the long-meditated design (चिन्तितो मनोरथः) has reached fruition (संप्राप्तः). The phrase recalls Sumālī’s calculated scheme in Sarga 9—sending his daughter Kaikasī to Viśravas specifically to sire a champion capable of restoring the shattered rākṣasa hegemony.
+
+_____________
+
+**7.11.5–6 (Dispelling the Ancient Terror of Viṣṇu)**
+
+Sumālī immediately turns from personal felicitation to collective memory. On 7.11.5, **Govindarāja** (_Bhūṣaṇa_) glosses तद्गतम् as signifying that the immense fear inspired by Viṣṇu has now been dispelled (महद्विष्णुकृतं यद्भयं तन्निरस्तमित्यर्थः). On 7.11.6, **Śivasahāya**—reading भग्नाः (‘shattered’) where Govindarāja reads भीताः (‘terrified’)—explains विद्रुताः as ‘fled in rout’ (पलायिताः), evoking the traumatic defeat of Mālyavān, Sumālī, and Mālin recounted in Sargas 7–8. By vividly rehearsing their humiliation and loss of home, Sumālī prepares the emotional ground for his demand to reclaim Laṅkā.
+
+_____________
+
+**7.11.7–9 (Sumālī’s Political Counsel and Promise of Kingship)**
+
+Pressing his case, Sumālī frames Laṅkā as ancestral rākṣasa property now held (निवेशिता, glossed by **Rāma Varmā** as अधिष्ठिता) by Kubera. On 7.11.8, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply कार्यम् with कृतं भवेत् (‘our goal would be fulfilled if Laṅkā can be recovered by conciliation and other expedients’), while **Śivasahāya** (_Śiromaṇi_) glosses तरसा as martial prowess (शौर्येण). Anticipating Rāvaṇa’s query regarding personal gain (न च तेन मम किं सेत्स्यतीत्यत आह), Śivasahāya notes how 7.11.9 crowns the appeal: Rāvaṇa himself will become Lord of Laṅkā and supreme ruler of the rescued rākṣasa race.
+
+_____________
+
+**7.11.10–11 (Rāvaṇa’s Filial Scruple and Sumālī’s Strategic Silence)**
+
+Remarkably, Rāvaṇa initially recoils from fraternal aggression, invoking the dharma of seniority: Kubera is his elder (_guru_). **Rāma Varmā** clarifies नार्हसे as ‘you ought not to advise ousting an elder brother’ (ज्येष्ठनिरसनं वक्तुं नार्हसीत्यर्थः). On 7.11.11, **Śivasahāya** observes that once gently rebuffed by the formidable Rāvaṇa (रावणेन साम्ना प्रत्याख्यातः), the shrewd Sumālī perceived Rāvaṇa’s present resolve (चिकीर्षितं ज्ञात्वा) and prudently held his tongue rather than provoking stubborn resistance.
+
+_____________
+
+**7.11.12 (Prahasta’s Timed Intervention)**
+
+Waiting until the immediate tension subsides (कस्यचित्कालस्यापगमे सति, **Śivasahāya**), Sumālī’s eloquent minister Prahasta takes up the persuasion. Where Sumālī appealed to tribal grievance and pride, Prahasta approaches Daśagrīva deferentially (_praśritam_) and with deliberate argumentation (_sa-kāraṇam_, Govindarāja’s reading noted in Parimal). This shift in spokesman reveals Vālmīki’s acute political psychology: Rāvaṇa resists naked familial incitement, yet will soon succumb to an ideological justification dressed in heroic precedent.
+
+_____________
+
+**7.11.13 (Realpolitik Against Brotherhood)**
+
+Reversing Rāvaṇa’s own rebuke (नार्हसे वक्तुमीदृशम्, 7.11.10), Prahasta bluntly tells him that it is he who should not speak thus to Sumālī (सुमालिनं प्रतीति शेषः, **Śivasahāya**), advancing a stark maxim of imperial ambition: ‘among warriors there is no brotherhood’ (सौभ्रात्रं नास्ति शूराणाम्). Prahasta exploits Rāvaṇa’s warrior pride—suggesting that scruples over kinship belong to weaklings rather than conquerors—while cleverly preparing to cloak ruthless realpolitik under the prestige of cosmic precedent.
+
+_____________
+
+**7.11.14–16 (The Precedent of Aditi and Diti’s Sons)**
+
+**Śivasahāya** (_Śiromaṇi_) identifies Prahasta’s rhetorical strategy as invoking the authority of ‘exemplary conduct’ (तत्र शिष्टाचारं प्रमाणयति). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss सहिते in 7.11.14 as हिते परस्परानुरक्ते (‘mutually affectionate’), with Tilaka adding that Aditi and Diti were half-sisters (भिन्नोदरभगिन्यौ) married to the same father Kaśyapa—a pointed parallel to Kaikasī and Ilavilā (Kubera’s mother), both wives of Viśravas. On 7.11.16, Śivasahāya reads पुरेयम् (पुरा इयम्) to show that the entire earth once belonged to the Daityas, who ruled as mighty sovereigns (प्रभविष्णवः प्रभाववन्तः).
+
+_____________
+
+**7.11.17–18 (Normalizing Fraternal Usurpation)**
+
+Concluding his syllogism, Prahasta points out that even though the Devas and Daityas were paternal half-brothers, Viṣṇu slew the Daityas in battle to transfer the three worlds to the gods (**Rāma Varmā**, **Śivasahāya**). Both **Rāma Varmā** and **Govindarāja** explicitly gloss विपर्ययम् in 7.11.18 as ‘treachery against a brother’ (भ्रातृद्रोहरूपम्), with Govindarāja supplying मार्गम् (‘a path trodden by gods and asuras’). **Śivasahāya** sharpens the point: appropriating another’s city (परस्वामिकपुरादिस्वाधीनीकरणम्) is no novel sin of Rāvaṇa’s alone, for both cosmic factions have acted thus—a sophistry that swiftly overcomes Rāvaṇa’s conscience.
+
+_____________
+
+**7.11.19–20 (Rāvaṇa’s Swift Assent and Departure)**
+
+$18
+
+_____________
+
+**7.11.21–22 (The Embassy and Why Kubera Is Called Nairṛta-Puṅgava)**
+
+Encamped menacingly on Trikūṭa itself, Rāvaṇa nevertheless opens with the first political expedient (_sāman_, conciliation), sending the eloquent Prahasta as ambassador (_dautyena_) to deliver his message (मम वचसा मत्संदेशरूपेण, **Śivasahāya**). Why does Rāvaṇa address Kubera—a Yakṣa and Lord of the North—as नैर्ऋतपुङ्गवम् (‘bull among the Nairṛtas/rākṣasas’)? **Govindarāja** explains that the epithet reflects Kubera’s lordship over the rākṣasa-associated region while residing in Laṅkā (लङ्कायां पूर्वस्थितनैर्ऋताधिपत्यात्), a diplomatic compliment subtly reinforcing Rāvaṇa’s claim to the city’s rākṣasa identity.
+
+_____________
+
+**7.11.23–24 (Polite Ultimatum Framed as Dharma)**
+
+Rāvaṇa’s dictated message blends honeyed honorifics (_rājan_, _saumya_, _anagha_, _atula-vikrama_) with a pointed moral reproach: occupying (निवेशिता अधिष्ठिता, **Rāma Varmā** and **Śivasahāya**) a city belonging to the noble rākṣasas is unbecoming of Kubera. **Śivasahāya** unpacks the logical connector तत् in 7.11.24 as ‘because the city belongs to the rākṣasas’ (राक्षसीयत्वात् हेतोः), so that voluntarily ceding it today will both gratify Rāvaṇa and uphold _dharma_. Thus Rāvaṇa masks coercion as righteous restitution, leaving the threat of Trikūṭa’s assembled host unspoken.
+
+_____________
+
+**7.11.25–27 (Prahasta’s Diplomatic Courtesy)**
+
+Entering Laṅkā—still well-fortified by Dhanada (धनदेन सुरक्षिताम्)—Prahasta adopts a tone of extravagant deference toward the ‘supremely generous’ (_paramodāra_) Kubera, hailing him as steadfast in vows, foremost of warriors, and learned in all scriptures. On 7.11.26–27, **Śivasahāya** (_Śiromaṇi_) construes the verses as a single sentence (सार्धश्लोक एकान्वयी) and notes that the present tense ब्रवीति carries past force (‘the message Daśānana spoke’, यद्दशाननोऽब्रवीत्). **Rāma Varmā** (_Tilaka_) clarifies वचनं मम by supplying मुखात् (‘hear from my mouth the words that Daśānana utters’).
+
+_____________
+
+**7.11.28–29 (Two Readings of Tena in the Formal Petition)**
+
+Delivering the substance of the claim, Prahasta discreetly omits Rāvaṇa’s blunt accusation (‘this is not fitting for you’, 7.11.23) and instead stresses the rākṣasas’ prior possession under Sumālī (_bhukta-pūrvā_). The commentators diverge interestingly on तेन in 7.11.29a: **Rāma Varmā** takes it causally as तेन हेतुना (‘for the reason that it was previously enjoyed by rākṣasas, let it now be given—this very petition is submitted’), whereas **Śivasahāya** takes तेन as the agent रावणेन (‘by Rāvaṇa this matter—namely Laṅkā—is respectfully requested’, glossing विज्ञाप्यते as याच्यते). Both construals underscore the calculated meekness of याचतः सामतः (‘begging peacefully’).
+
+_____________
+
+**7.11.30 (Kubera’s Measured Composure)**
+
+The Southern Recension’s five-verse embassy (7.11.25–29) gives dramatic texture to Prahasta’s skill as _vākya-kovida_, setting up Kubera’s serene dignity as _vākya-viśārada_ (‘expert in speech’). Unruffled by the veiled menace behind his younger half-brother’s petition, the divine Vaiśravaṇa listens attentively (अभिसंश्रुत्य, **Śivasahāya**) and prepares a response rooted not in territorial possessiveness, but in fraternal generosity and filial obedience.
+
+_____________
+
+**7.11.31–32 (Kubera’s Quiet Correction and Magnanimous Offer)**
+
+Kubera gently refutes any charge of usurpation: as **Śivasahāya** (_Śiromaṇi_) explains, Laṅkā stood utterly abandoned by the rākṣasas (निशाचरैः शून्या) when Viśravas granted it to him, and he populated it righteously through generosity and honor (दानमानादिभिर्यथायोग्यं संस्थापिता). Yet rather than clinging to legal title, Kubera rises above strife and offers full co-sovereignty (अकण्टकं यथा भवति तथा भुङ्क्ष्व), embodying the fraternal harmony that Prahasta had cynically dismissed.
+
+_____________
+
+**7.11.33–34 (Seeking the Father’s Verdict)**
+
+Though he has already spoken generously to Prahasta, Kubera refuses to finalize so grave a transfer without his father’s sanction, since Viśravas was the original donor of Laṅkā. **Śivasahāya** construes the six-quarter verse 7.11.33 with 7.11.34 as a single narrative arc: bowing reverently before his father, Kubera summarizes Daśagrīva’s embassy and its blunt demand, humbly asking मयात्र यदनुष्ठेयं तन्ममाचक्ष्व—‘tell me what course of duty I ought to follow here.’
+
+_____________
+
+**7.11.35–36 (Viśravas’s Prior Rebuke and the Sandhi Bahuśoktaḥ)**
+
+Receiving his dutiful son who stands with joined palms (_prāñjali_), the brahmarṣi Viśravas reveals that Rāvaṇa had already broached this covetous ambition before him and suffered repeated reprimands (_nirbhartsitaḥ_). All three commentators single out the irregular sandhi बहुशोक्तः (बहुशः + उक्तः) in 7.11.36d: **Rāma Varmā** (_Tilaka_) labels it epic (संधिरार्षः), **Govindarāja** (_Bhūṣaṇa_) calls it Vedic (संधिश्छान्दसः), and **Śivasahāya** justifies it by citing the occasional suspension of _asiddhatva_ in Pāṇini’s _Tripādī_ (त्रिपाद्याः क्वचिदसिद्धत्वाभावबोधनात्).
+
+_____________
+
+**7.11.37–38 (Rāvaṇa’s Moral Ruin and Viśravas’s Natal Curse)**
+
+All three commentators interpret ध्वंसते / ध्वंससे in 7.11.37 morally rather than merely as physical ruin: **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss it as ‘becoming one whose bounds of dharma and justice are shattered’ (ध्वस्तधर्मन्यायमर्यादो जायते), while **Śivasahāya** (_Śiromaṇi_) supplies मर्यादाम् (‘shattering propriety’). On मम शापात् in 7.11.38, all three concur that Viśravas refers to his fateful pronouncement when Kaikasī approached him at the dreadful twilight hour in Sarga 9 (तन्मातृदर्शनकालकृतात्); Śivasahāya adds that Rāvaṇa’s inability to distinguish the venerable from the base shows he rejected his father’s rebuke (मदुक्तं न स्वीकृतमिति सूचितम्).
+
+_____________
+
+**7.11.39 (The Counsel to Relocate to Kailāsa)**
+
+Because Rāvaṇa’s boon-intoxicated ferocity makes peaceful coexistence impossible, Viśravas advises a strategic and dharmic withdrawal (_śreyo-’bhiyuktaṃ dharmyaṃ ca_): leave Laṅkā behind and establish a new seat on Mount Kailāsa. Glossing the elliptical causative imperative निवेशय, **Rāma Varmā** supplies पुरम् (‘found a city’), **Govindarāja** glosses निवेशनं पुरं कुरु, and **Śivasahāya** explains स्वगृहान् संस्थापय (‘establish your own abodes’).
+
+_____________
+
+**7.11.40–41 (The Celestial Loveliness of Kailāsa and the Mandākinī)**
+
+To demonstrate that Kailāsa is a far nobler home than Laṅkā (तत्स्थानस्य वासयोग्यत्वं बोधयन्नाह, **Śivasahāya**), Viśravas paints a radiant Himalayan idyll. **Rāma Varmā** glosses सूर्यसङ्काशैः as ‘blazing bright as the sun’ (सूर्यवदुज्ज्वलैः), while Śivasahāya construes the six-quarter verse 7.11.40 as a unified description of the Mandākinī carpeted with golden lotuses, night-lilies, and fragrant blooms, and notes on 7.11.41 that gods, Gandharvas, Apsarasas, Uragas, and Kiṃnaras make Kailāsa their perpetual playground (सर्वदा आश्रिताः सन्तः सततं रमन्ते).
+
+_____________
+
+**7.11.42 (Prudent Restraint Before Boon-Born Power)**
+
+Sealing his counsel with sober realism, Viśravas reminds Kubera of the unmatched boon Rāvaṇa has just wrung from Brahmā. **Śivasahāya** (_Śiromaṇi_) glosses क्षमम् as योग्यम् (‘fitting / advisable’): knowing what immunity Rāvaṇa enjoys (अनेन रावणेन यथा वरो लब्धः तथा त्वं जानीषे), provoking conflict with him would be neither prudent nor fruitful. Viśravas thus harmonizes spiritual virtue with political foresight, sparing his elder son a needless fratricidal war.
+
+_____________
+
+**7.11.43 (Filial Reverence and the Peaceful Exodus)**
+
+Without a syllable of complaint or bitterness, Kubera immediately embraces his father’s command out of filial reverence (_pitṛ-gauravāt_) and departs for Kailāsa (कैलासमिति शेषः, **Śivasahāya**) with his household, counselors, retinue, and treasury intact. His unhesitating renunciation of golden Laṅkā at a father’s word quietly foreshadows Rāma’s own iconic obedience to Daśaratha in the _Ayodhyākāṇḍa_, setting Kubera’s serene self-mastery in sharp contrast to Rāvaṇa’s grasping pride.
+
+_____________
+
+**7.11.44–45 (Prahasta’s Exultant Report)**
+
+Returning to Daśagrīva, who awaits amid his brothers and ministers, Prahasta joyfully announces the bloodless triumph. **Śivasahāya** outlines the crisp causal structure of 7.11.45: Laṅkā is empty because Dhanada has vacated it (लङ्का शून्या तत्र हेतुः धनदः एनां लङ्कां त्यक्त्वा गतः); therefore Rāvaṇa should enter with his kinsmen and govern according to his royal duty (_svadharma_). **Rāma Varmā** (_Tilaka_) adds that upon hearing Prahasta’s tidings, Rāvaṇa too became elated at heart (प्रहस्तवचः श्रुत्वा रावणः प्रहृष्टात्माभवदिति शेषः), poised to step into the vacant throne.
+
+_____________
+
+**7.11.46–47 (The Foe of the Gods Ascends Like Indra)**
+
+Entering Laṅkā with his brothers and host, Rāvaṇa claims the abandoned fortress. **Śivasahāya** (_Śiromaṇi_) observes that 7.11.47 restates the same entry in heightened poetic imagery (तदेव भङ्ग्यन्तरेणाह): ascending Laṅkā with its wide, symmetrical avenues (सुविभक्ता महापथा यस्याम्), the ‘foe of the gods’ (_devāri_) mirrors the lord of the gods (_devādhipa_) ascending heaven. The pointed antithesis between _devāri_ and _devādhipa_ signals Rāvaṇa’s audacious rivalry with Indra, which will dominate the coming sargas.
+
+_____________
+
+**7.11.48 (Vaṃśastha—Rāvaṇa’s Consecration and Cloud-Dark Host)**
+
+Shifting into stately twelve-syllable _Vaṃśastha_, Vālmīki marks a historical turning point: consecrated king by the rākṣasas (क्षणदाचरैरभिषिक्तः, **Śivasahāya**), Daśānana repeoples Laṅkā until it teems completely (निकामपूर्णामत्यन्तपूर्णाम्, **Rāma Varmā**). The simile comparing the swarming rākṣasas to dark-blue storm clouds (_nīla-balāhakopamaiḥ_) lends an ominous majesty to the restored demon capital, contrasting visually with the luminous whiteness of Kailāsa in the final stanza.
+
+_____________
+
+**7.11.49 (The Twin Capitals—Moon-Bright Alakā and Amarāvatī)**
+
+Closing the sarga in ornate lyric cadence, the poet balances Rāvaṇa’s storm-dark Laṅkā with Kubera’s radiant new capital (Alakā) on ‘the moon-pure mountain’—glossed explicitly as Kailāsa (कैलासे) by both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_). **Śivasahāya**, reading पुरन्दरः स्वरिव यथामरावतीम्, construes the simile as Kubera founding his mountain city just as Indra established Amarāvatī in heaven, while **Rāma Varmā** specifically remarks on the metrical implications (छन्दोभङ्गाभावाय) of the variant पुरन्दरस्येव तदामरावतीम्. Thus the sarga ends in serene symmetry: ambition claims Laṅkā, while filial dharma builds a celestial city.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

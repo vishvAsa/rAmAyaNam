@@ -1319,6 +1319,152 @@ forest.
 
 “May Brahmā, the Lord of all the worlds (_sarva-loka-prabhuḥ_), the Creator of beings (_bhūta-kartā_), and the sages, as well as the remaining gods (_ye ca śeṣāḥ surāḥ_), protect you as you dwell in the forest!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.25.1–2 (upaspṛśya jalaṃ śuci & Ritual Purity after Weeping)**
+
+On उपस्पृश्य, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss ritual sipping of water (आचम्य), citing Amara (उपस्पर्शस्त्वाचमनम्). **Govindarāja** explains that because shedding tears causes ritual impurity (रोदनस्याशुचिताहेतुत्वात्) and invoking the deities requires purity, Kausalyā first performs _ācamana_. On सतां क्रमे, _Tilaka_ and **Śivasahāya** (_Śiromaṇi_) interpret it as the path of great souls in fulfilling their vows (महात्मस्वीकृतप्रतिज्ञापालने), whereas **Govindarāja** refers it to the royal consecration (अभिषेचने) upon Rāma's return after fourteen years.
+
+_____________
+
+**2.25.3–4 (dharmas tvām abhirakṣatu & Sanctuary Deities)**
+
+Reading the variant धृत्या, **Govindarāja** glosses steadfastness alongside loving devotion (प्रीत्या), noting that the active voice in अभिरक्षतु emphasizes that _dharma_ itself directly guards Rāma. On देवेष्वायतनेषु, _Tilaka_ construes “the temples of the gods” (देवालयेषु), while **Govindarāja** reads चैत्येषु (“crossroad shrines,” चतुष्पथेषु).
+
+_____________
+
+**2.25.5–6 (guṇaiḥ samuditam & Service to Kaikeyī)**
+
+On समुदितम्, **Śivasahāya** and **Govindarāja** gloss “endowed with or elevated by virtues” (संयुक्तम्, उच्छ्रितम्), while **Rāma Varmā** remarks that “service to your mother” (मातृशुश्रूषया) specifically includes Kaikeyī (मातात्र कैकेयी).
+
+_____________
+
+**2.25.7 (samit-kuśa-pavitrāṇi & Presiding Deities of Forest Objects)**
+
+All three commentators note that verses 7a–f form a single syntactic unit (सार्धश्लोक एकान्वयी). **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that inanimate items like fuel-sticks and _kuśa_ grass metonymically denote their presiding deities (तत्तदधिष्ठात्र्यो देवता लक्ष्यन्ते), while **Govindarāja** (_Bhūṣaṇa_) adds that forest herbs and shrubs (क्षुपाः, glossed via Amara as short-branched trees, ह्रस्वशाखाशिफः क्षुपः) should not injure Rāma even if inadvertently stepped upon.
+
+_____________
+
+**2.25.8–10 (svasti dhātā vidhātā ca & smṛtiḥ vs. śrutiḥ)**
+
+On धाता विधाता च, _Tilaka_ glosses Virāṭ and the ordainer of creation, while **Govindarāja** takes them alongside Pūṣan, Bhaga, and Aryaman as specific forms among the twelve Ādityas. Reading स्मृतिर्धृतिश्च धर्मश्च in v. 10c, **Govindarāja** defines स्मृतिः as contemplation (ध्यानम्), धृतिः as mental resolve (मनःस्थैर्यम्), and धर्मः as Scriptural duty distinct from filial obedience in v. 3.
+
+_____________
+
+**2.25.11–12 (skandaś ca bhagavān devaḥ)**
+
+**Śivasahāya** glosses स्कन्दः as Kārttikeya and सोमः as Śiva (उमासहितः), whereas **Govindarāja** cites the _Daharavidyā_ (तं स्कन्द इत्याचक्षते) to identify Skanda with Sanatkumāra or Kumāra.
+
+_____________
+
+**2.25.13–14 (śailāḥ sarve & Avoiding Redundancy)**
+
+Addressing the apparent repetition of mountains, days, and seasons from earlier verses, **Govindarāja** (_Bhūṣaṇa_) explains that whereas v. 7 named minor hills (क्षुद्रपर्वताः) and literal nights and days, vv. 13–14 invoke the great boundary mountains (कुलपर्वताः) and the presiding deities of the planets, day, and night (तदभिमानिदेवते), while **Rāma Varmā** (_Tilaka_) remarks that even literal repetition in a mother's prayer springs from overwhelming maternal love (पुत्रप्रेमपारवश्यान्न दोषाय) and is no blemish.
+
+_____________
+
+**2.25.15–16 (ṛtavaś cāpi ṣaṭ cānye & Lunar vs. Solar Time)**
+
+**Śivasahāya** (_Śiromaṇi_) resolves अन्थे in v. 15a by distinguishing intercalary lunar seasons and months (अवयवीभूताधिकमास) from the solar divisions of time (सौरत्वादिभेदेन पूर्वोक्तभिन्नाः) mentioned in v. 9.
+
+_____________
+
+**2.25.17–18 (plavagā vṛścikā daṃśāḥ)**
+
+On राक्षसानाम्, **Govindarāja** notes the objective genitive (तेभ्यो भयमित्यर्थः). Both _Tilaka_ and **Govindarāja** gloss प्लवगाः as monkeys (वानराः) and दंशाः as forest gadflies (वनमक्षिकाः, citing Amara), whereas **Śivasahāya** takes प्लवगाः as leaping frogs (मण्डूकजातिविशेषाः).
+
+_____________
+
+**2.25.19–20 (ṛkṣāś ca daṃṣṭriṇaḥ & sattvajātayaḥ)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss ऋक्षाः as bears (भल्लुकाः), **Govindarāja** noting that ते takes the dative case with the root द्रुह्. On v. 20b, _Tilaka_ reads सर्वजातियाः (सर्वजातीयाः) or the variant सर्वजातयः (“fierce creatures of all kinds,” क्रूरजन्तवः), whereas **Govindarāja** reads सत्त्वजातयः and analyses it as a _Bahuvrīhi_ denoting wild beasts (सत्त्वस्य जातिर्जन्म येषु ते).
+
+_____________
+
+**2.25.21–22 (āgamās te śivāḥ santu & Forest Provisions)**
+
+_Tilaka_ and **Govindarāja** derive आगमाः as “pathways” (आगम्यन्त इति आगमाः मार्गाः), praying that the forest roads prove auspicious and swiftly lead Rāma home, whereas **Śivasahāya** (_Śiromaṇi_) takes आगमाः as enterprises (व्यापाराः). On सर्वसम्पत्तयो, _Tilaka_ and **Govindarāja** (reading dative सर्वसम्पत्तये) refer to an abundance of forest fruits and roots (वन्यफलमूलादिसम्पत्तये).
+
+_____________
+
+**2.25.23–24 (upasparśana-kāle tu)**
+
+On ऋषिमुखच्युताः, _Tilaka_ and **Govindarāja** gloss mantras issued from the mouths of sages and received by Rāma (त्वया गृहीताश्च), while **Śivasahāya** takes उपस्पर्शनकाले as the time of bathing (अङ्गस्पर्शनसमये).
+
+_____________
+
+**2.25.25–27 (bhūtakartṛ vs. bhūtabhartā & Fire Oblation)**
+
+On v. 25a–b, **Rāma Varmā** (_Tilaka_) reads neuter भूतकर्तृ ब्रह्म and glosses the supreme Brahman as cause of the universe (जगत्कारणं ब्रह्म), whereas **Govindarāja** (_Bhūṣaṇa_) reads masculine भूतभर्ता and identifies Him as Nārāyaṇa (भूतभर्ता नारायणः), while **Śivasahāya** (_Śiromaṇi_) explains that ब्रह्मा here denotes Brahmā in Satyaloka, avoiding redundancy with विधाता in v. 8. In v. 27, Kausalyā procures the ritual fire and has a Brahmin priest perform the _homa_.
+
+_____________
+
+**2.25.28–29 (śāntim anāmayam & The Outer Bali)**
+
+All three commentators supply उद्दिश्य with शान्तिमनामयम्: the priest offers oblations for the pacification of all calamities (सर्वोपद्रवशान्तिम्) and health (आरोग्यम्), and with the sacrificial remnant (हुतहविःशेषेण) performs the outer _bali_ offering (बाह्यं बलिम्) outside the fire-altar to the World-Guardians (लोकपालादिबलिम्).
+
+_____________
+
+**2.25.30 (vācayāmāsa & Double Accusative)**
+
+On द्विजान् ... वाचयामास, **Śivasahāya** notes the double accusative construction with the causative of वच्, as Kausalyā gifts honey, curds, _akṣata_, and ghee so the Brahmins recite forest-benediction mantras (स्वस्त्ययनक्रियाप्रतिपादकमन्त्रान्).
+
+_____________
+
+**2.25.31–32 (dakṣiṇāṃ kāmyām & Indra's Victory over Vṛtra)**
+
+All three commentators gloss काम्याम् as the sacrificial fee desired by the officiating priest (इच्छाविषयाम्, अभीष्टाम्). On वृत्रनाशे, **Rāma Varmā** (_Tilaka_) takes the locative in the sense of purpose or occasion (तद्रूपनिमित्ते), while **Govindarāja** (_Bhūṣaṇa_) glosses “at the time closely connected with the slaying of Vṛtra” (वृत्रनाशसंबन्धिनि काले) and **Śivasahāya** (_Śiromaṇi_) interprets मङ्गलम् as triumph (विजयः).
+
+_____________
+
+**2.25.33–34 (prārthayānasya & Prophetic Intimation of Victory)**
+
+Both _Tilaka_ and **Śivasahāya** flag प्रार्थयानस्य (for प्रार्थयमानस्य) as an _ārṣa_ omission of the augment मुक् (आर्षत्वान्मूगभावः), **Rāma Varmā** adding that Kausalyā's allusions to Garuḍa winning the _amṛta_ and Indra slaying the Daityas prophetically intimate Rāma's future great war and victory (अनेन भावि महद्युद्धं तत्र जयश्च सूचितः).
+
+_____________
+
+**2.25.35–36 (trivikramān & śubha-maṅgalam)**
+
+All three gloss विक्रमान् as footsteps (पादविक्षेपान्). On शुभमङ्गलम्, _Tilaka_ glosses “the most auspicious even among auspicious things” (मङ्गलानामपि मङ्गलम्), while **Govindarāja** reads nominative plural शुभमङ्गलाः modifying the cosmic powers.
+
+_____________
+
+**2.25.37–38 (śeṣāḥ & The Viśalyakaraṇī Amulet)**
+
+Citing the older commentator Kataka (शेषा इत्यक्षतनामेति कतकः), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss शेषाः (and **Govindarāja** शेषान्) as consecrated unbroken rice grains (अक्षताः), while **Govindarāja** cites Amara (समालम्भो विलेपनम्) for anointing with sandal-paste. On विशल्यकरणीम्, all three explain that Kausalyā binds the arrow-extracting herb (अन्तर्गतशल्यनिर्गमनकारिणीं गुलिकाम्) upon Rāma's wrist as an amulet (रक्षाहेतुत्वेन हस्ते बबन्ध) and empowers it with mantras.
+
+_____________
+
+**2.25.39–40 (vāṅ-mātreṇa na bhāvena & saṃsajjamānayā)**
+
+To cheer her son (रामस्य हृत्प्रसादार्थम्), grief-stricken Kausalyā feigns gladness with her words alone. _Tilaka_ glosses संसज्जमानया as a voice choked by inner anguish (अन्तःखेदगद्गदया), whereas **Govindarāja** reads असंसज्जमानया (“without stammering,” अस्खलन्त्या).
+
+_____________
+
+**2.25.41–42 (paśyāmi as Future & duḥkha-saṃkalpā)**
+
+**Govindarāja** construes present पश्यामि in the future sense (द्रक्ष्यामि), parallel to v. 42c, and defines संकल्पः as anxious brooding over what might befall Rāma in the woods (वने रामस्य किं भविष्यतीतिचिन्तात्मकः).
+
+_____________
+
+**2.25.43–44 (vadhvāś ca mama & saṃvardha)**
+
+Note that **Govindarāja** (_Bhūṣaṇa_) includes vv. 42–43 (omitted in the numbering of _Tilaka_ and _Śiromaṇi_, which number vv. 44–47 as 42–45). On मङ्गलैः and वध्वाः कामान्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** explain that upon returning from exile Rāma should gratify Sītā's desires with royal garments and ornaments (राजोचितवस्त्राभरणैः). _Tilaka_ glosses संवर्ध as causative संवर्धय, while **Śivasahāya** (_Śiromaṇi_) notes the _ārṣa_ active termination (परस्मैपदम्).
+
+_____________
+
+**2.25.45–46 (pradakṣiṇaṃ cakāra & Maternal Circumambulation)**
+
+Why does a mother circumambulate her own son? _Tilaka_ and **Govindarāja** explain that a mother's _pradakṣiṇa_ serves as a protective talisman (मात्रा प्रदक्षिणकरणं रक्षार्थम्), while **Śivasahāya** cites _Dharmaśāstra_ tradition that a mother's circumambulation secures the fulfilment of her son's cherished aims (मातृप्रदक्षिणकरणेन पुत्राभीष्टसिद्धिरिति धर्मशास्त्रे प्रसिद्धम्).
+
+_____________
+
+**2.25.47 (tayā śriyā vs. svayā śriyā)**
+
+_Tilaka_ and **Śivasahāya** gloss तया श्रिया as the lustre born of his mother's blessings and filial service (मातृकृतमङ्गलशोभया), whereas **Govindarāja** reads स्वया श्रिया (“with his own innate effulgence,” स्वतःसिद्धया).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

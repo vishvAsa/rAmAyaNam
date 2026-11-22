@@ -900,6 +900,170 @@ Thereupon a terrible battle broke out (_yuddhaṃ samabhavat ... ghoram_) among 
 
 Meanwhile, those valiant rākṣasas of terrifying aspect (_śūrā rākṣasā ghora-darśanāḥ_), the ministers of Rāvaṇa (_sacivā rāvaṇasya te_), rushed together for battle (_yuddhārthaṃ samavartanta_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.27.1–2 (Ascending Beyond Kailāsa to Heaven’s Realm)**
+
+Introducing Sarga 27 as the narrative of Sumāli’s slaying in battle (अथ युद्धे सुमालिवधः), **Rāma Varmā** (_Tilaka_) explains why Rāvaṇa crosses over Kailāsa to reach Indraloka: heaven is established directly above Mount Meru (तस्य मेरूपरि प्रतिष्ठितत्वात्). **Śivasahāya** (_Śiromaṇi_) likewise links the canto directly to Rāvaṇa’s stay at Kailāsa in Sarga 26 (कैलासनिवासानन्तरकालिकं वृत्तान्तमाह). As the rākṣasa army surges forward, its roar reaches the celestial realm like a churning—or in Śivasahāya’s reading (भिद्यमानार्णवोपमः), a bursting—ocean, announcing that Rāvaṇa’s campaign now strikes the very seat of cosmic rule.
+
+_____________
+
+**7.27.3–5 (Indra’s Mobilization of the Celestial Hosts)**
+
+Hearing of Rāvaṇa’s arrival, Indra starts from his throne and issues an urgent war-summons to heaven’s principal divisions—Ādityas, Vasus, Rudras, Viśvedevas, Sādhyas, and Maruts. **Śivasahāya** construes verses 7.27.3–4 as a single syntactic sentence (श्लोकद्वयमेकान्वयि), wherein the accusatives of 4ab enumerate the assembled deities addressed by अब्रवीत् in 3c. In 7.27.5, where the Southern text pairs the absolutive सन्नह्य with युद्धश्रद्धासमन्विताः without an explicit finite verb, Śivasahāya supplies बभूवुः (‘became filled with ardent zeal for battle’), highlighting the gods’ spirited readiness to fight.
+
+_____________
+
+**7.27.6 (Mahendra’s Dread and Resort to Viṣṇu)**
+
+Verse 7.27.6 draws a striking psychological contrast: while the celestial ranks eagerly strap on armor, Indra himself grows dejected (_dīna_) and deeply terrified (_paritrasta_) before Rāvaṇa, hastening immediately to Viṣṇu. **Rāma Varmā** uncovers the theological cause of the king of heaven’s dread—not mere faintheartedness, but keen awareness that Brahmā’s boon must be honored and upheld (भगवद्वचनस्य परिपालनीयत्वादिति भावः). **Śivasahāya** traces the causal sequence directly: because Mahendra is terrified of Rāvaṇa, he is cast into dejection (रावणं प्रति परित्रस्तः अत एव दीनः) and therefore turns to Viṣṇu for counsel.
+
+_____________
+
+**7.27.7–8 (The Paradox of Brahmā’s Boon)**
+
+Indra opens his appeal by identifying the exact dilemma confronting heaven. **Rāma Varmā** (_Tilaka_) notes that 7.27.8 states the sole cause of Rāvaṇa’s terrifying strength: his invincibility flows strictly from Brahmā’s boon, not from intrinsic supremacy over the gods. **Śivasahāya** (_Śiromaṇi_) spells out the binding obligation: the word spoken by the Lotus-born guaranteeing Rāvaṇa’s invulnerability to gods and others must be honored as true by all (पद्मयोनिना यद्देवाद्यवध्यत्वे वच उक्तं तत्सत्यं कार्यं सर्वैरिति शेषः). Cosmic order itself thus forbids Indra from overriding Brahmā’s decree by ordinary divine force.
+
+_____________
+
+**7.27.9 (Precedents of Divine Deliverance)**
+
+Invoking five celebrated demonic foes—Namuci, Vṛtra, Bali, Naraka, and Śambara—Indra reminds Viṣṇu that heaven’s past triumphs always depended upon Viṣṇu’s strength (_tvad-balam_) and stratagems. All three commentators unpack the elliptical request तथा कुरु (‘do likewise’): **Rāma Varmā** glosses it as ‘devise and declare to me an expedient for slaying Rāvaṇa too, relying on your boundless might’ (रावणस्यापि वधोपाययत्नं कुरु मे आख्याहि); **Govindarāja** (_Bhūṣaṇa_) similarly reads ‘contrive a means of slaying him’ (अस्यापि हननोपायं कुर्वित्यर्थः); and **Śivasahāya** adds that through some device Rāvaṇa too should be consumed (केनचिदुपायेन अयमपि विदग्धो भवेदित्यर्थः).
+
+_____________
+
+**7.27.10–12 (The Vaiṣṇava Stuti of Nārāyaṇa)**
+
+Verses 7.27.10–12—largely unique to the Southern Recension—elevate Indra’s plea into a full devotional hymn to Viṣṇu as cosmic creator, sustainer, and dissolver. **Rāma Varmā** notes देवदेवेश as a vocative to Viṣṇu and glosses गतिः as ‘protector’ (रक्षकः) and परायणम् as ‘refuge’ (आश्रयः), a distinction echoed by **Śivasahāya** (परायणं परमाश्रयश्च), while **Govindarāja** likewise marks the vocative in 10a. On 7.27.11–12, Śivasahāya underscores the causal logic: because Nārāyaṇa is eternal (_nitya_), he established both the worlds and Indra’s kingship, and into him all beings (भूतानीति शेषः) dissolve at age’s end.
+
+_____________
+
+**7.27.13–15 (Indra’s Direct Question and Viṣṇu’s Assessment)**
+
+Concluding his appeal, Indra asks Viṣṇu plainly for either a winning expedient or direct intervention. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) construe तत्त्वम् as ‘the true expedient for victory’ (तत्त्वमुपायतत्त्वम्), adding that Indra asks alternatively whether Viṣṇu himself will fight (स्वयमेव वा योत्स्यसे तद्ब्रूहीति शेषः). Reading असिचक्रसहायस्त्वं, **Śivasahāya** (_Śiromaṇi_) paraphrases: ‘tell me how, aided by sword and discus, you will fight Rāvaṇa.’ On 7.27.14–15, Tilaka and Śiromaṇi supply वचनम् with मे: because of Brahmā’s boon, neither gods nor asuras can yet conquer or slay Rāvaṇa.
+
+_____________
+
+**7.27.16 (Two Interpretations of Nisargataḥ)**
+
+Viṣṇu’s prophecy—that Rāvaṇa with his son Meghanāda will accomplish a momentous deed (_mahat karma_), foreshadowing Indra’s capture in Sarga 29—yields two rich readings of निसर्गतः (‘by nature’). **Rāma Varmā** and **Govindarāja** gloss महत्कर्म as ‘the great deed of battle’ (युद्धकर्म) and link निसर्गतः with दृष्टम्: ‘perceived and known through my innate faculty of omniscience’ (सहजज्ञानशक्त्या दृष्टमवगतम्). **Śivasahāya**, by contrast, construes निसर्गतः with Rāvaṇa’s conduct: ‘out of his inherent rākṣasa nature (राक्षसस्वभावात्), he will commit a fierce deed—this I have foreseen.’
+
+_____________
+
+**7.27.17–18 (Why Viṣṇu Declines the Present Combat)**
+
+Viṣṇu’s refusal to fight Rāvaṇa here immediately invites reconciliation with his eventual triumph as Rāma. Both **Rāma Varmā** and **Govindarāja** supply the temporal qualifier इदानीम् (‘not _now_’, नाहं प्रतियोत्स्यामि इदानीमिति शेषः), confining the refusal strictly to this celestial battle. **Śivasahāya** unfolds the rationale of 7.27.18: Viṣṇu’s unbreakable warrior code forbids withdrawing without slaying his enemy, yet against a boon-shielded Rāvaṇa, the fulfillment of that desire—the attainment of victory (कामो विजयप्राप्तीच्छा)—remains unattainable today without violating Brahmā’s truth.
+
+_____________
+
+**7.27.19–20 (Viṣṇu’s Solemn Pledge and the Indirect Avatāra)**
+
+Anticipating Indra’s dismay at his refusal to fight now, Viṣṇu delivers a binding pledge pointing toward his future incarnation as Rāma. **Rāma Varmā** (_Tilaka_) tightens the correlative syntax (यथा भवितास्मि तथा प्रतिजाने). **Śivasahāya** (_Śiromaṇi_) discerns a subtle theological point in 7.27.19cd: by vowing ‘I shall become the _cause_ of his death’ (मृत्युकारणम्), Viṣṇu intimates that he will not slay Rāvaṇa directly in his divine form (स्वस्य साक्षाद्धननकर्तृत्वाभावः सूचितः), before restating the promise in another turn of phrase in 7.27.20 (तदेव भङ्ग्यन्तरेणाह)—when the appointed hour arrives, he alone will destroy Rāvaṇa and delight the gods.
+
+_____________
+
+**7.27.21–22 (The March Out of Heaven’s City)**
+
+Reassured by Viṣṇu’s vow, Indra receives the charge to fight fearlessly with all the celestial legions (**Śivasahāya** supplies राक्षसैः, ‘fight against the rākṣasas’). Verse 7.27.22—preserved in the Southern Recension—mobilizes the classic Vedic pantheon: Rudras, Ādityas, Vasus, Maruts, and twin Aśvins. **Rāma Varmā** glosses अभितः as ‘directly facing’ (संमुखे), while **Śivasahāya** identifies पुरात् specifically as heaven itself (पुरात्स्वर्गात्), picturing the armed deities marching boldly beyond the ramparts of Amarāvatī to confront the invaders in the open firmament.
+
+_____________
+
+**7.27.23–24 (The Clash at Dawn’s Edge)**
+
+The temporal detail रजनीक्षये (‘at the waning of the night’) in 7.27.23 sharpens the atmosphere, as the night-roaming demons’ battle-roar crescendos just before dawn. Both **Rāma Varmā** and **Śivasahāya** analyze प्रयुद्धस्य as an intensive compound denoting fierce, preeminent combat (प्रकृष्टं युद्धं यस्य / प्रकृष्टयुद्धं कुर्वतः). On 7.27.24, **Govindarāja** (_Bhūṣaṇa_) explains the adverbial form हृष्टवत् simply as ‘rejoicing’ (हृष्टाः सन्तः), while Śivasahāya highlights the warriors’ mutual defiance as they lock eyes (अन्योन्यमभिवीक्ष्य) and surge eagerly face to face into the fray.
+
+_____________
+
+**7.27.25–26 (Commotion in the Ranks and Outbreak of War)**
+
+The first sight of Rāvaṇa’s seemingly inexhaustible host sends a tremor (_saṅkṣobha_) through the celestial armies at the battle’s vanguard. **Śivasahāya** (_Śiromaṇi_) clarifies तत् in 7.27.25 as specifically ‘that vast rākṣasa army’ (तत् राक्षसीयं महासैन्यम्) and traces a crisp causal progression in 7.27.26: because diverse weapons were brandished aloft (नानाप्रहरणानि उद्यतानि यस्मिन्), the clash erupted into a tumultuous roar (तुमुलशब्दवत्), and thereby grew dreadful (_ghoram_). Including _dānavas_ alongside _devas_ and _rakṣasas_ enlarges the engagement into a war spanning cosmic orders.
+
+_____________
+
+**7.27.27–29 (Rāvaṇa’s Ministers and the Epic Roster)**
+
+As combat erupts, Rāvaṇa’s fierce counselors (_sacivāḥ_) advance in force. **Śivasahāya** identifies an extended syntactic unit spanning verses 7.27.28–32ab (सार्धश्लोकचतुष्टयमेकान्वयि): though listed in the nominative here, all these warriors are gathered up by एतैः सर्वैः परिवृतः in 7.27.31 as the escort surrounding Rāvaṇa’s maternal grandfather Sumāli. Familiar names—Mārīca, Prahasta, Mahāpārśva, Mahodara, Akampana, Nikumbha, Śuka, Sāraṇa, Jambumālī, and Virūpākṣa—deliberately recall the celebrated antagonists of the _Āraṇya_, _Sundara_, and _Yuddha_ kāṇḍas, rooting Laṅkā’s later war-council in this earlier assault on heaven.
+
+_____________
+
+**7.27.30 (Southern Expansion and the Oleander-Eyed Champion)**
+
+Verse 7.27.30—absent from the Baroda Critical Edition—enlarges the roll with champions familiar from earlier books, including Khara, Dūṣaṇa, Triśiras (slain by Rāma at Janasthāna), Durmukha, and Yajñakopa. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) pause expressly to explain the vivid name करवीराक्षः: ‘he whose eyes resemble oleander blossoms’ (करवीरपुष्पसदृशनेत्रः / करवीरपुष्पवदक्षिणी यस्य), evoking the crimson hue of red oleander (_karavīra_) as a fierce emblem of bloodshot demonic rage. Together, these rosters build relentless momentum toward Sumāli’s charge.
+
+_____________
+
+**7.27.31–33 (Sumāli’s Tempestuous Charge)**
+
+Closing the multi-verse sentence begun in 7.27.28, **Śivasahāya** (_Śiromaṇi_) glosses आर्यकः as ‘maternal grandfather’ (मातामहः) and clarifies सैन्यम् as the divine army (देवसेनाम्) into which Sumāli plunges, ringed by Rāvaṇa’s sons and ministers. Two vivid similes capture the rout: Sumāli scatters the gods like a gale dispersing rain-clouds, and the gods flee on every side (प्रणुन्नं पलायितम्, Śivasahāya) like deer stampeded by a lion. Having risen from Pātāla earlier in Book VII, the aged rākṣasa patriarch proves himself a devastating frontline warlord.
+
+_____________
+
+**7.27.34–35 (Counterattack of Sāvitra, Tvaṣṭṛ, and Pūṣan)**
+
+Just as heaven’s lines give way, three Vedic deities enter the arena to rally the defense: the eighth Vasu, Sāvitra, followed by the armored Ādityas Tvaṣṭṛ and Pūṣan with their host. **Śivasahāya** notes their fearless advance into the battlefield (रणाजिरे प्रविवेश), while the Parimal apparatus records that an extra verse amplifying Sāvitra’s charge after 7.27.34 is absent from Śivasahāya’s text (इदं पद्यं रा. पा. न दृश्यते). Calling upon these ancient solar and elemental deities underscores that the battle now engages heaven’s foundational guardians.
+
+_____________
+
+**7.27.36 (Enraged at the Demons’ Renown)**
+
+Verse 7.27.36 contains a highly compressed clause (क्रुद्धानां रक्षसां कीर्तिम्), which all three commentators—**Rāma Varmā** (_Tilaka_), **Śivasahāya**, and **Govindarāja** (_Bhūṣaṇa_)—construe identically by supplying प्रति: ‘battle arose between the gods, who were enraged _at the renown_ of the rākṣasas who never turn back in battle, and the rākṣasas’ (समरेष्वनिवर्तिनां रक्षसां कीर्तिं प्रति क्रुद्धानां सुराणां राक्षसैः सह युद्धं समभवदिति योजना). Rather than fighting in panic, the gods now clash out of wounded martial honor, stung by the demons’ rising fame.
+
+_____________
+
+**7.27.37–38 (Mutual Carnage Across the Celestial Field)**
+
+Verses 7.27.37–38 establish a grim symmetry of slaughter before Sumāli’s decisive onslaught. **Śivasahāya** (_Śiromaṇi_) expands शतसहस्रशः as ‘by hundreds and by thousands’ (शतशः सहस्रशः) as the rākṣasas cut down the gods (_vibudhān_) standing firm in battle. In equal measure, the gods counterattack with gleaming weapons (_vimalaiḥ śastraiḥ_), dispatching mighty demons to the dwelling of Death (यमक्षयमुपनिन्युः). This heroic euphemism—‘conducting foes to Yama’s house’—is a signature Vālmīki battle idiom underscoring the valor and lethal parity of the opening exchange.
+
+_____________
+
+**7.27.39–40 (Sumāli’s Renewed Assault and Oral Recapitulation)**
+
+Reintroducing Sumāli with the frame vocative राम (Agastya addressing Rāma), verses 7.27.39–40 echo 7.27.32 closely, again likening the furious demon scattering the celestial host (तत् देवसम्बन्धि सैन्यम्, **Śivasahāya**) to wind dispersing a rain-cloud (_vāyur jaladharaṃ yathā_). Rather than mere repetition, this epic recapitulation pivots cleanly from the general mêlée (7.27.36–38) into the sarga’s decisive duel: having introduced Sāvitra in 7.27.34, the poet re-centers attention on Sumāli’s unchecked rampage to motivate the eighth Vasu’s fatal counterstroke.
+
+_____________
+
+**7.27.41 (Collapse of the Divine Formation)**
+
+Under a relentless storm of giant shafts, pikes (_śūla_), and barbed lances (_prāsa_), the celestial divisions finally lose cohesion and can no longer hold their line (न व्यतिष्ठन्त). While संहताः ordinarily means ‘compactly massed together’, **Śivasahāya** offers a striking etymological gloss from √han—‘even those gods whose own striking had been well performed’ (सम्यक्कृतं हननं येषां तेऽपि सुराः)—stressing that even heaven’s most effective combatants could not withstand Sumāli’s missile deluge, setting the stage for Sāvitra’s solitary stand.
+
+_____________
+
+**7.27.42–43 (Sāvitra’s Resolute Stand)**
+
+At the crisis of the celestial rout, Sāvitra—the eighth Vasu—plants himself squarely across Sumāli’s path. **Śivasahāya** (_Śiromaṇi_) traces the abrupt shift in momentum: while the deities are being driven back by Sumāli, Sāvitra stands unyielding (विद्राव्यमाणेषु सत्सु सावित्रोऽष्टमो वसुर्व्यवस्थितः), and ringed by his own battalions checks the raging night-roamer by sheer valor (_vikrama_). Breaking free of the general fray, the narrative narrows into a classic epic _dvandva-yuddha_—a hair-raising single combat between two warriors who never yield ground.
+
+_____________
+
+**7.27.44 (Destruction of the Serpent-Chariot)**
+
+Verse 7.27.44a–b completes the sentence begun in 43ef by naming the two unretreating duelists, Sumāli and the Vasu. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) clarify तस्य in 44c as referring specifically to Sumāli (तस्य सुमालिनः), while **Śivasahāya** highlights the causal swiftness of the stroke: shattered by the Vasu’s great arrows, Sumāli’s serpent-drawn chariot (_pannaga-ratha_) was struck down and hence toppled in an instant (निहतः अत एव क्षणेन विनिपातितः). Unhorsing a rākṣasa mahāratha signals the decisive turn of the duel.
+
+_____________
+
+**7.27.45 (Taking Up the Mace)**
+
+Having demolished Sumāli’s chariot—which **Śivasahāya** describes as thickly studded with hundreds of arrows (बाणशतैः चितं तस्य सुमालिनो रथं हत्वा)—Sāvitra abandons archery for close-quarters mace combat (_gadā-yuddha_) to slay him outright (तस्य सुमालिनो वधाय). In Sanskrit epic convention, seizing the mace after shattering an adversary’s chariot proclaims absolute resolve and imminent annihilation: concentrating raw elemental force into one crushing weapon, Sāvitra prepares the thunderbolt-like climax that closes the canto.
+
+_____________
+
+**7.27.46–47 (The Meteoric Blow of Sāvitra’s Mace)**
+
+Gripping his blazing-tipped mace compared to Death’s staff (_kāladaṇḍa_), Sāvitra brings it crashing squarely upon Sumāli’s skull. **Śivasahāya** (_Śiromaṇi_) clarifies the double simile of 7.27.47: glowing like a plunging meteor (_ulkābhā_), the mace blazed above Sumāli just like a roaring thunderbolt hurled by Indra upon a mountain (गिरौ इन्द्रप्रमुक्ता महाशनिरिव तस्य सुमालिन एव उपरि पतन्ती गदा बभौ). The imagery evokes the ancient Vedic motif of Indra shattering mountain peaks, restoring heaven’s primordial majesty through the eighth Vasu’s arm.
+
+_____________
+
+**7.27.48 (Instantaneous Annihilation into Ash)**
+
+The impact of the solar Vasu’s mace proves not merely fatal but total: bone, skull, and flesh vanish without a trace. **Śivasahāya** links the two halves causally—because the slain Sumāli’s bones and body were reduced to ashes by the mace, nothing whatsoever remained visible upon the field (निहतस्य तस्य सुमालिनोऽस्थिप्रभृति गदया भस्मतां नीतमत एव न ददृशे). Fittingly, the aged patriarch who had earlier engineered Kaikasī’s union with Viśravas to revive rākṣasa supremacy meets complete incineration in heaven’s very first clash.
+
+_____________
+
+**7.27.49 (The Rākṣasa Rout and Transition to Meghanāda)**
+
+Seeing their venerated grandfather pulverized in an instant, the demon ranks dissolve in terror. **Śivasahāya** notes both their panicked flight—crying out to one another as they scatter on every side (परस्परं क्रोशमानाः सन्तः व्यद्रवन्)—and the emphatic closing half-verse (अर्धमेकम्, 49ef): driven relentlessly by Sāvitra, the rākṣasas cannot rally or hold their ground. Yet heaven’s victory proves fleeting: witnessing Sumāli reduced to ashes and his own forces routed immediately provokes Rāvaṇa’s son Meghanāda to enter the battle at the opening of Sarga 28.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

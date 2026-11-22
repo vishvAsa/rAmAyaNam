@@ -194,6 +194,224 @@ Implored to assume his fierce form and destroy the rākṣasas, Śiva declines t
 
 **7:** “—boasting thus (_iti_), those rākṣasas Mālin, Sumālin, and Mālyavān, exulting in battle (_samaroddharṣāḥ_), along with all who march in their vanguard (_teṣāṃ puraḥsarāḥ_), torment us!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.6.1–3 (Flight to Maheśvara, Sovereign of Creation and Dissolution)**
+
+Introducing the sixth sarga, **Rāma Varmā** (_Tilaka_) frames the episode as the chain of events leading from the gods' plea to Viṣṇu's pledge of protection and the rākṣasas' defiant march. **Śivasahāya** (_Śiromaṇi_) construes verses 2 and 3 as a single syntactic unit (श्लोकद्वयमेकान्वयि) and glosses जगत्सृष्ट्यन्तकर्तारम् as the causal ground of the cosmic triad of creation, maintenance, and dissolution (उत्पत्त्यादित्रयकारणमित्यर्थः). Approaching Śiva as कामारिम् and त्रिपुरारिम्—slayer of Desire and the Three Cities—the gods subtly remind him of his past rescues of the cosmos while standing with folded hands and voices broken by dread.
+
+_____________
+
+**7.6.4 (The Oppression of All Beings and Sages)**
+
+Glossing प्रजाध्यक्ष प्रजाः सर्वाः, **Rāma Varmā** notes that the creatures of the Lord of Beings encompass gods, mortals, and animals alike (प्रजापतेः प्रजा देवनरतिर्यगादिरूपाः), all afflicted by Sukeśa's boon-drunk sons (पितामहवरोद्धतैः), whom he explains as habitual tormentors of adversaries. Offering a striking alternative sandhi split, **Śivasahāya** reads an elided initial _a-_ in बाध्यन्तेऽरिपुबाधनैः, interpreting अरिपवः as the great sages who harbor enmity toward none (न रिपवो येषां ते महान्त ऋषयः): Sukeśa's sons torment even those harmless, foe-less ascetics, proving the extremity of their lawlessness.
+
+_____________
+
+**7.6.5–6 (Desecrated Sanctuaries and Blasphemous Usurpation)**
+
+On 7.6.5, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** concur verbatim in defining शरण्यानि as sacred sanctuaries worthy of sheltering gods, ancestors, guests, beasts, and birds (शरणार्हाणि देवपित्रतिथिपशुपक्ष्यादिरक्षणार्हाणि), now turned into places of terror (अशरण्यानि). **Śivasahāya** links cause and effect: because the rākṣasas have driven the gods out of heaven to revel there in their stead (देवान् स्वर्गात्प्रच्याव्य स्वर्गे क्रीडन्ति), the earthly hermitages sustained by divine order have lost their safety. He further links verse 6 syntactically to verse 7 (श्लोकद्वयमेकान्वयि), observing that the rākṣasas' arrogant claim to embody Viṣṇu, Rudra, Brahmā, and the Regents of the Quarters fuels their rampage.
+
+_____________
+
+**7.6.7–8 (Invoking Rudra's Dread Aspect)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) dissolve समरोद्धर्षाः in 7.6.7 as warriors thrilled with ardor for combat (समरे उद्धर्षो येषां ते). On 7.6.8, the commentators carefully explain the paradox of praying to Śiva (‘the Auspicious’) to assume an अशिवम् (‘inauspicious’) body: Govindarāja glosses it as his fierce, un-gentle form (असौम्यं क्रूरमित्यर्थः), while Rāma Varmā defines it as his terrible Rudra aspect (रौद्रमिति यावत्), invoking Vedic scripture that distinguishes Rudra's two bodies—one terrifying and one benign. **Śivasahāya** (_Śiromaṇi_) adds that this form is inauspicious specifically toward the rākṣasas (रक्षसानाममङ्गलकारकम्).
+
+_____________
+
+**7.6.9–10 (Śiva's Restraint Out of Grace for Sukeśa)**
+
+Why does the mighty destroyer of Tripura refuse the gods' plea? All three commentators trace his hesitation to सुकेशं प्रति सापेक्षः (recall Sarga 4, where Śiva and Pārvatī adopted the abandoned infant Sukeśa). **Govindarāja** explains that because Sukeśa had taken refuge in him, slaying his sons would violate propriety (सुकेशस्य स्वाश्रितत्वात् तद्वधानौचित्यम्), while **Rāma Varmā** and **Śivasahāya** concur that those nurtured by him are unslayable by his own hand (मया पालितत्वात् अवध्याः). Govindarāja further notes that Śiva offers मन्त्रम्—which all three gloss as a saving stratagem (उपायम्)—so that the gods' initial recourse to him will not prove fruitless.
+
+_____________
+
+**7.6.11–12 (Immediate Recourse to Viṣṇu)**
+
+Glossing एतमेव समुद्योगं पुरस्कृत्य in 7.6.11, both **Rāma Varmā** and **Govindarāja** emphasize urgency: Śiva urges them to carry this very initiative straight to Viṣṇu without postponing it to another time (न तु कालान्तरीयमित्यर्थः), with Govindarāja glossing प्रभुः as fully capable (समर्थः). **Śivasahāya** interprets समुद्योगम् as their earnest presentation of their plight (स्वदैन्योच्चारणादिरूपं समुद्योगम्). Cheering Śiva with shouts of triumph (जयशब्देन प्रतिनन्द्य) rather than departing disheartened, the gods and sages immediately proceed to Viṣṇu, illustrating harmonious divine complementarity between Maheśvara and Nārāyaṇa.
+
+_____________
+
+**7.6.13–14 (Agitated Appeal to the Bearer of Conch and Discus)**
+
+Opening their petition to Viṣṇu, the gods speak सम्भ्रान्तवत्, which **Rāma Varmā** (_Tilaka_) glosses as ‘in a manner befitting the panic-stricken’ (सम्भ्रान्तार्हम्), **Govindarāja** (_Bhūṣaṇa_) as ‘being themselves deeply flustered’ (सम्भ्रान्ताः सन्तः), and **Śivasahāya** (_Śiromaṇi_) as ‘words marked by terror’ (भयविशिष्टं वाक्यम्). Rāma Varmā takes सुकेशतनयान्प्रति as ‘with reference to Sukeśa's sons’ (तानुद्दिश्य), while Śivasahāya construes it causally as ‘on account of them’ (सुकेशतनयेभ्यः), noting on 7.6.14 that the three brothers, fierce as the three Vedic fires (त्रेताग्निसन्निभैः), used Brahmā's boon as the instrument to usurp the celestial realms.
+
+_____________
+
+**7.6.15–16 (The Mountain Stronghold of Laṅkā and Surrender)**
+
+Anticipating a natural question—why do the displaced gods not simply withdraw to some other quarter?—**Śivasahāya** explains the force of 7.6.15: secure within the mountain citadel of Laṅkā atop Trikūṭa (त्रिकूटशिखरे स्थिता लङ्का नाम पुरी), the night-roamers sally forth to harass all the gods everywhere (तत्र स्थित्वा... नोऽस्मान् प्रबाधन्ते). Consequently, in 7.6.16, the gods perform formal surrender (शरणं त्वां वयं प्राप्ताः), praying that Madhusūdana become their sole refuge and mainstay (गतिरस्माकमाश्रयो भव) and slay the oppressors for their deliverance.
+
+_____________
+
+**7.6.17–18 (The Discus-Offering to Yama and the Sun-Mist Simile)**
+
+The final two verses pair martial vividness with devotional tenderness. In 7.6.17, the gods ask Viṣṇu to sever the rākṣasas' lotus-like heads with his discus and present them to Death (निवेदय यमाय वै), declaring that no protector besides him can bestow fearlessness in peril. On 7.6.18, **Rāma Varmā**, **Govindarāja**, and **Śivasahāya** all gloss सानुबन्धान् as ‘together with their retinue and kinsmen’ (सानुचरान्), with Rāma Varmā and Śivasahāya supplying the ellipsis ‘having slain’ (जहि / हत्वा) to join the accusative rākṣasas to the closing simile: just as the rising sun effortlessly disperses chill mist (नीहारमिव भास्करः), so may Viṣṇu scatter the gods' dread.
+
+_____________
+
+**7.6.19–20 (Omniscient Assurance from the Giver of Fearlessness)**
+
+Verse 19 turns on an elegant verbal antithesis (_virodhābhāsa_): Janārdana is simultaneously अभयदः (bestower of fearlessness to refugees) and भयदोऽरीणाम् (inspirer of dread in enemies). As **Śivasahāya** (_Śiromaṇi_) notes, Viṣṇu first grants the gods sanctuary (अभयं दत्त्वा) and only then speaks, underscoring his readiness to protect. In 7.6.20, the emphatic repetition of जाने (‘I know’) affirms divine omniscience: he knows both Sukeśa, grown proud through Śiva's grace (ईशानवरेण दर्पितम्), and all three sons headed by Mālyavān, assuring the gods that no foe's strength escapes his cognizance.
+
+_____________
+
+**7.6.21–22 (Transgressing the Moral Boundary of Immunity)**
+
+On the pivotal compound समतिक्रान्तमर्यादान् in 7.6.21, **Rāma Varmā** (_Tilaka_) provides an incisive dharmic definition: मर्यादा signifies the sacred normative boundary separating those who may legitimately be slain from those who may not (मर्यादा वध्यावध्यव्यवस्था). By persecuting peaceful sages and gods, Sukeśa's sons have crossed that threshold and forfeited any moral shelter. **Śivasahāya** glosses Viṣṇu's charge विज्वरा भवत as freeing them from every fever of anxiety. Echoed by the resonant paronomasia विष्णुना प्रभविष्णुना (‘by Viṣṇu the all-mighty’), the relieved celestials return to their dwellings singing his praise.
+
+_____________
+
+**7.6.23–24 (Mālyavān's Intelligence Report)**
+
+The narrative pivots abruptly from heaven to Laṅkā, marking the dramatic transition with तु. **Rāma Varmā** identifies the two heroic brothers (तौ भ्रातरौ) specifically as Sumālin and Mālin (सुमालिमालिनौ), while **Śivasahāya** notes that Mālyavān's intelligence concerns the gods' concerted mobilization (विबुधानां देवानां समुद्योगं श्रुत्वा). Both Rāma Varmā and Śivasahāya gloss the desiderative participle परीप्सन्तः as ‘earnestly desiring’ (इच्छन्तः / समिच्छन्तः). The particle किल (‘so it is reported’) signals that Mālyavān is relaying intelligence gathered by rākṣasa spies, initiating an extended embedded speech that replays the celestial embassy from the demons' perspective.
+
+_____________
+
+**7.6.25–27 (The Gods' Plea Retold in Laṅkā)**
+
+Reporting the celestials' indictment in direct speech, Mālyavān does not soften their grievances. On 7.6.25, **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) unite in glossing पदे पदे temporally as ‘at every single moment’ (प्रतिक्षणम् / क्षणे क्षणे). On 7.6.26, Rāma Varmā glosses the epithet प्रजापते functionally as ‘protector of beings through suppressing the wicked’ (दुष्टनिग्रहद्वारा प्रजारक्षक). On 7.6.27, Śivasahāya notes that हुङ्कृतेनैव दह specifies the effortless mode of slaughter the gods expected from Śiva—incineration by a mere wrathful utterance of _huṃ_—recalling his legendary burning of Kāma and Tripura.
+
+_____________
+
+**7.6.28 (Śiva's Gesture of Refusal and the Maxim of the Poison Tree)**
+
+The epic dramatizes Śiva's refusal through vivid physical gesture: शिरः करं च धुन्वानः (‘shaking both head and hand’). **Śivasahāya** glosses this directly as a clear gesture signaling refusal to slay (हननाभावसूचकत्वेन चालयमानः सन्). **Rāma Varmā** supplies the underlying ethical principle by citing the celebrated Sanskrit maxim विषवृक्षोऽपि (‘even a poison tree, once nurtured by oneself, ought not be cut down by one's own hand’): though Sukeśa's sons have become noxious, Śiva cannot personally destroy the offspring of one he himself raised.
+
+_____________
+
+**7.6.29–30 (The Grounds of Immunity and the Iconography of Nārāyaṇa)**
+
+In 7.6.29, **Govindarāja** observes that the epithet सुकेशतनयाः itself states the exact reason (अवध्यत्वे हेतुः) why the rākṣasas are immune from Śiva's wrath in battle. Turning the gods toward Viṣṇu in 7.6.30, Śiva sketches a classic devotional portrait—discus and mace in hand (चक्रगदापाणिः), robed in luminous yellow (पीतवासाः), glorious Hari Nārāyaṇa—which **Śivasahāya** links directly to the closing imperative-like command तं शरणं प्रपद्यथ. Within Mālyavān's mouth, this reverent description of Viṣṇu foreshadows the prudent awe he is about to urge upon his rasher brothers.
+
+_____________
+
+**7.6.31–33 (From Intelligence to Council of War)**
+
+Wrapping up his narrative of the gods' embassy, Mālyavān moves from espionage to urgent policy. **Rāma Varmā** (_Tilaka_) clarifies the syntax of 7.6.31 (ते देवा मन्त्रमवाप्य), while **Śivasahāya** (_Śiromaṇi_) explains that the celestials laid their entire plight before Nārāyaṇa (सर्वं स्ववृत्तं न्यवेदयन्) and received his unconditional vow. Notably, Baroda CE's variant हरान्नावाप्य ते कामम् (‘not gaining their wish from Hara’) highlights Śiva's refusal, whereas the Southern reading मन्त्रम् underscores Śiva's active counsel. On 7.6.33, Śivasahāya glosses देवानाम् as ‘in the midst of the terrified gods’ (देवानां मध्ये) and क्षमम् as ‘proper, expedient’ (उचितम्), marking Mālyavān's prudent appeal to deliberate.
+
+_____________
+
+**7.6.34–35 (The Roster of Fallen Asura Titans)**
+
+Introducing the catalogue of vanquished demons, **Rāma Varmā** notes that Mālyavān now demonstrates why sober deliberation is imperative (चिन्ताहेतुत्वं दर्शयति). **Śivasahāya** supplies the implied objection of the younger brothers—that their superior prowess guarantees victory—and shows how Mālyavān refutes it by invoking Nārāyaṇa's past triumphs, beginning with Hiraṇyakaśipu (हिरण्यकशिपोर्मृत्युः), Namuci, Kālanemi, and Saṃhrāda. In the Southern expansion (7.6.34cd–36), the roll call swells to encompass figures associated with Purāṇic Vaiṣṇava and Śākta lore—including Yamala-Arjuna (from the Kṛṣṇa cycle) and Śumbha-Niśumbha—magnifying Nārāyaṇa's cosmic invincibility across every age.
+
+_____________
+
+**7.6.36 (None Heard of as Unconquered)**
+
+Construing verses 34 through 36 as a single sustained sentence (श्लोकत्रयमेकान्वयि), **Śivasahāya** shows that every mighty asura and dānava named in the list (सत्त्ववन्तो महाबलाः), once drawn into battle against Viṣṇu (समरमासाद्य), vanished from the ranks of the undefeated. **Rāma Varmā** explicitly flags the avagraha sandhi split अपराजिता इति छेदः, confirming that न श्रूयन्तेऽपराजिताः means ‘they are not heard of as unconquered’—a chilling litotes that Śivasahāya translates starkly as ‘they were slain’ (हता इत्यर्थः). Mālyavān's sober realism here anticipates his later role as Rāvaṇa's wise, ignored elder counselor in the _Yuddhakāṇḍa_.
+
+_____________
+
+**7.6.37–38 (The Futility of Ritual Merit Against Nārāyaṇa)**
+
+Anticipating the brothers' boast of religious merit in verse 40, **Śivasahāya** (_Śiromaṇi_) frames 7.6.37–38 as Mālyavān's preemptive reply: those fallen asuras were no mere brutes, for they too had celebrated hundreds of sacrifices (क्रतुशतैरिष्टम्), mastered illusion, and wielded every missile, yet perished by the hundreds and thousands at Viṣṇu's hands. From this, Śivasahāya draws a pointed theological conclusion: ritual deeds bear no protective fruit for those who set themselves against Nārāyaṇa (नारायणविरोधिनां कर्माणि फलदानि न भवन्तीति सूचितम्). The textual apparatus also notes that Govindarāja omits the half-verse दुःखं नारायणं जेतुम् preserved in _Tilaka_ and _Śiromaṇi_.
+
+_____________
+
+**7.6.39–40 (The Āditya Simile and the Brothers' Boast of Fulfilled Dharma)**
+
+On 7.6.39, **Govindarāja** (_Bhūṣaṇa_) explains the simile भगांशाविव वासवम् through Vedic asterism lore: Bhaga presides over Pūrvaphalgunī and Aryaman/Aṃśa over Uttaraphalgunī (भगः पूर्वफल्गुनीनक्षत्रदेवता अर्यमा उत्तरफल्गुनीनक्षत्रदेवता), twin Ādityas addressing their elder Indra; **Rāma Varmā** (_Tilaka_) reads अश्विनाविव while likewise recording भगांशाविव. In 7.6.40, Sumālin and Mālin invoke the classical kṣatriya-brāhmaṇa checklist of a fulfilled life—Vedic study, liberality, sacrifice, sound rule, and healthy longevity (निरामयं नीरोगम्). **Śivasahāya** glosses पथि as ‘in our lineage’ (स्वपरम्परायाम्), noting their misplaced faith that such karma guarantees victory.
+
+_____________
+
+**7.6.41–42 (Heroic Stoicism Turned to Hubris)**
+
+Commenting on तन्नो मृत्युकृतं भयम् in 7.6.41, **Rāma Varmā** brings out the underlying heroic ethic: having left no duty unfulfilled (कर्तव्यावशेषाभावात्), even death in battle brings them no real loss (मृत्यावपि न क्षतिरिति भावः). **Śivasahāya** construes verses 41 and 42 together (श्लोकद्वयमेकान्वयि), glossing देवसागरम् metaphorically as the vast ocean of the gods' army (देवसैन्यरूपं समुद्रम्) and प्रमुखे as ‘in direct combat’ (सङ्ग्रामे), while parsing नो as the negative particle (नास्ति). Yet the brothers' stoic readiness swiftly curdles into fatal hubris in 7.6.42 when they claim that even Nārāyaṇa and Rudra tremble to confront them.
+
+_____________
+
+**7.6.43 (Exonerating Viṣṇu, Blaming the Gods)**
+
+Answering how Viṣṇu could vow their ruin if he fears them, Sumālin and Mālin separate Viṣṇu from the lesser celestials. **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that the rākṣasas believe Viṣṇu lacks any personal grievance because they have committed no offense directly against him (अस्माभिस्तदपराधाकरणात्). Rāma Varmā also cites the Baroda-type variant विष्णोर्दोषश्च नास्त्यत्र (‘no innate flaw in Viṣṇu causes this’), glossing देवानां दोषेण as ‘by the gods' instigation and intrigue’ (उपजापेन). **Śivasahāya** (_Śiromaṇi_) agrees that the celestials' provocation alone stirred Viṣṇu's mind (विष्णोर्मनः प्रचलितम्).
+
+_____________
+
+**7.6.44–46 (The Preemptive Strike and All-Out Mobilization)**
+
+On जिघांसाम in 7.6.44, both **Rāma Varmā** and **Govindarāja** flag an archaic grammatical license: the desiderative suffix _san_ operates in its simple root sense (स्वार्थे सनार्षः, हन्म इत्यर्थः, ‘we slay’). **Śivasahāya** construes the six-pāda verse 7.6.45 as one unit (सार्धश्लोक एकान्वयी), glossing उद्योगं घोषयित्वा as proclaiming the war-call throughout the ranks (संश्राव्य), and links verses 46–48 together (श्लोकत्रयमेकान्वयि) under सर्वोद्योगेन (‘with unsparing total effort’, निखिलयत्नेन). The simile जम्भवृत्रबला इव ominously likens the marching rākṣasas to legendary defeated asuras, while the vocative राम recalls sage Agastya's framing narration.
+
+_____________
+
+**7.6.47–48 (The Phantasmagoric Menagerie of Rākṣasa Mounts)**
+
+Both **Rāma Varmā** and **Govindarāja** observe that the catalogue of creatures in 7.6.47–48 enumerates the extraordinary battle-mounts (खरादयो वाहनानि) ridden by the rākṣasa hosts, spanning terrestrial, aquatic, and aerial realms—from chariots, elephants, and camels to crocodiles, sea-monsters, giant birds, and predators. On the rare final pair सृमरैश्चमरैरपि, both Govindarāja and Rāma Varmā gloss सृमरः as the wild ox or gayal (गवयः), and Rāma Varmā cites **Maheśvara Tīrtha** (इति तीर्थः), who distinguishes the two as bovine species marked by dark-blue and white tails respectively (सृमरचमरयोर्नीलश्वेतपुच्छयोर्गोभेदः).
+
+_____________
+
+**7.6.49–51 (Laṅkā's Tutelary Deities Abandon the City)**
+
+On 7.6.50, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss लङ्काविपर्ययम् as the coming destruction of Laṅkā (लङ्कानाशम्) and interpret लङ्कालयानि भूतानि as the city's indwelling guardian deities (तत्रत्यानि दैवतानि) who grow downcast at its doom. **Śivasahāya** (_Śiromaṇi_) reads भूतानि more broadly as Laṅkā's birds and beasts sensing catastrophe, while construing 7.6.50ef–51 together (सार्धश्लोक एकान्वयी). On 7.6.51cd, both Rāma Varmā and Govindarāja highlight a haunting image: the protective deities evacuated Laṅkā along the very road of the marching army, forsaking the city simultaneously with the expedition (तद्यात्रया सहैवापचक्रमुः).
+
+_____________
+
+**7.6.52–53 (Portents Dispatched by Time)**
+
+All three commentators—**Rāma Varmā**, **Govindarāja**, and **Śivasahāya**—gloss कालाज्ञप्ताः in 7.6.52 as ‘impelled or commanded by Time’ (कालप्रेरिताः), signaling that the rākṣasas' destruction (अभावाय) is already decreed by cosmic destiny. The portents in 7.6.53 overturn the natural order across sky, sea, and land: clouds pour forth bones and warm blood, oceans surge past their boundaries (वेलाम्), and mountains shake. Linking 7.6.53 with 7.6.54ab as a single unit (सार्धश्लोक एकान्वयी), Śivasahāya poetically reads the surging seas and quaking peaks as if bursting into mocking, thunderous laughter (अट्टहासान् विमुञ्चन्त इव).
+
+_____________
+
+**7.6.54 (Thunderous Laughter and Howling Jackals)**
+
+**Rāma Varmā** analyzes घननादसमस्वनाः as a _bahuvrīhi_ (‘whose roar equals the booming of thunderclouds’, घननादेन मेघस्वनेन समः स्वनो येषां ते), noting that the finite verb जाताः (‘appeared’) must be supplied both for the roaring portentous beings releasing eerie peals of laughter (अट्टहासान् विमुञ्चन्तः) and for the ill-omened female jackals howling (वाश्यन्त्यः). **Śivasahāya** likewise supplies बभूवुः with the horrifying jackals (दारुणं वाश्यन्त्यः शिवाः घोरदर्शना बभूवुः). Together, these classical epic _utpātas_ mirror the omens that later foreshadow Rāvaṇa's final sally in the _Yuddhakāṇḍa_.
+
+_____________
+
+**7.6.55–56 (The Wheel of Flaming Vultures and Fleeing Birds)**
+
+On 7.6.55, **Śivasahāya** (_Śiromaṇi_) interprets भूतानि as the cosmic elements beginning with earth appearing to collapse upon one another (तानि पृथिव्यादीनि सम्पतन्तीव दृश्यन्ते). Both **Rāma Varmā** (_Tilaka_) and Śivasahāya gloss गृध्रचक्रम् as a dense wheeling flock of vultures (गृध्रसमूहः) whose beaks vomit fire. While _Tilaka_ and _Śiromaṇi_ compare their circling to Death himself (कालवत्) and Baroda CE to Time's wheel (कालचक्रवत्), **Govindarāja**'s reading अलातचक्रवत् evokes the dazzling optical circle of a whirled firebrand. Śivasahāya glosses विद्रुताः as ‘fleeing in terror’ (पलायिताः), contrasting the departing pigeons and mynas with the shrieking crows and uncanny two-footed cats.
+
+_____________
+
+**7.6.57 (Blinded by Pride, Ensnared by Death)**
+
+Why do seasoned warriors ignore such unmistakable omens? Verse 57 answers with an unforgettable fatalistic diagnosis: मृत्युपाशावपाशिताः. Both **Rāma Varmā** and **Govindarāja** gloss this compound identically as ‘those upon whom Death's bond has already been fastened’ (संजातबन्धनाः), while **Śivasahāya** clarifies that, already bound by Death's snare (मृत्युपाशेनावपाशिता बद्धाः) and intoxicated by their own strength (बलगर्विताः), they press forward without turning back. The verse encapsulates the epic theme of _daiva_: when doom ripens, hubris renders its victims blind to every warning.
+
+_____________
+
+**7.6.58–59 (The Three Fires and the Mountain Named Mālyavān)**
+
+The closing verses of the spread elevate the doomed trio through majestic similes. Reading क्रतूनामिव पावकाः (preserved by **Govindarāja**), 7.6.58 likens Mālyavān, Sumālin, and Mālin marching at the vanguard to the three sacred sacrificial fires (_gārhapatya_, _āhavanīya_, _dakṣiṇāgni_), whereas **Śivasahāya** reads ज्वलिता इव पावकाः (‘blazing like fires’). In 7.6.59, both **Rāma Varmā** and Govindarāja spotlight the punning simile (_yamaka_) on माल्यवन्तम्, identifying the mountain as the famed principal range (माल्यवदाख्यकुलपर्वतम्)—a towering bastion upon which the night-roamers depend as gods depend upon the Creator Dhātṛ.
+
+_____________
+
+**7.6.60–61 (Mālin's Advance and Nārāyaṇa's Resolve)**
+
+On 7.6.60, **Rāma Varmā** (_Tilaka_) glosses महाभ्रघननादितम् as reverberating with the roar of a dense mass of huge storm-clouds (महामेघसङ्घात् संजातनादम्), while **Śivasahāya** (_Śiromaṇi_) notes that the entire force moves under Mālin's operational command (मालिवशे स्थितम्) in pursuit of conquest (जयेप्सया). In 7.6.61, Nārāyaṇa receives news of the rākṣasa advance via a celestial herald (देवदूतादुपश्रुत्य) and resolves to meet them before they can devastate heaven—maintaining his cosmic role as preserver who intervenes decisively once dharma is assaulted.
+
+_____________
+
+**7.6.62–63 (The Divine Arming of the Lotus-Eyed Lord)**
+
+The Southern Recension expands Viṣṇu's arming into a full iconographic sequence (_pañcāyudha_: conch, discus, mace, Śārṅga bow, and sword). On 7.6.62a, **Śivasahāya** parses ससज्ज as a finite perfect verb meaning ‘took up’ (जग्राह), linking 7.6.61–62ab into one unit (सार्धश्लोक एकान्वयी), whereas **Govindarāja** (_Bhūṣaṇa_) analyzes आयुधतूणीरः as a _bahuvrīhi_ (‘he whose quiver is furnished with weapons’, आयुधेन युक्तस्तूणीरो यस्य). On 7.6.63, **Rāma Varmā** glosses श्रोणिसूत्रम् as the waist-cord that secures the sword at the hip, pairing martial readiness with regal beauty.
+
+_____________
+
+**7.6.64 (Swift Flight Atop Mountain-Like Garuḍa)**
+
+Construing 7.6.62cd–64 as one sweeping syntactic period (अर्धषट्कमेकान्वयि), **Śivasahāya** traces the rapid progression from donning sun-bright armor and binding twin quivers to mounting the colossal, mountain-like Garuḍa (वैनतेयमास्थितः सन्) and speeding forth to annihilate the rākṣasas (राक्षसानामभावाय तूर्णतरं ययौ). The comparative adverb तूर्णतरम् (‘more swiftly still’) captures the urgent majesty of Viṣṇu's interception, contrasting the noisy, ponderous menagerie of the rākṣasa army with the single, lightning-swift flight of the Lord and his eagle mount.
+
+_____________
+
+**7.6.65–66 (The Cloud-and-Lightning Epiphany and Lyric Ascent)**
+
+Marking the dramatic climax of the sarga, the meter expands from _Anuṣṭubh_ into resonant lyric stanzas. On 7.6.65, **Śivasahāya** (_Śiromaṇi_) highlights the luminous _upamā_ mapping Viṣṇu's dark body to a raincloud, his golden yellow silk (पीताम्बरः) to lightning (सतडित्तोयदः), and golden Garuḍa to a mountain of gold. In 7.6.66, hymned by celestials and armed with his four iconic weapons, Viṣṇu closes with the enemy: reading nominative असुरसैन्यशत्रुः, Śivasahāya glosses it as ‘destroyer of the demonic armies’ (राक्षससेनानां शातयिता), whereas **Govindarāja**'s accusative शत्रून् furnishes the direct object of समाससाद.
+
+_____________
+
+**7.6.67 (Garuḍa's Wing-Blast Shakes the Rākṣasa Mountain)**
+
+All three commentators unpack the triple _bahuvrīhi_ cascade of this _Upendravajrā_ stanza. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss नुन्नपक्षम् as ‘having its forces thrown into turmoil’ (क्षोभितबलम्) and analyze चलोपलम् as a _bahuvrīhi_ (‘whose boulders are dislodged’, चला उपला यस्य). **Śivasahāya** further notes the pun on पक्ष: the blast of Garuḍa's wings (सुपर्णपक्षानिलेन) shakes the army's flanks (सैन्यपार्श्वाः), whipping banners and scattering weapons until the dark rākṣasa host quakes like Mount Nīla shedding avalanches of stone.
+
+_____________
+
+**7.6.68 (The First Volley of Fiery Shafts)**
+
+Shifting into stately twelve-syllable _Vaṃśastha_ to close the canto, the poet depicts the rākṣasas' ferocious counter-assault before the battle proper unfolds in Sarga 7. Both **Rāma Varmā** and **Govindarāja** gloss विग्रहः as ‘form or appearance’ (आकारः): the demons' blood-and-flesh-encrusted arrows blaze with the very shape of the world-ending conflagration (युगान्तवैश्वानरतुल्यविग्रहैः). As **Śivasahāya** summarizes, encircling Mādhava on all sides, the night-roamers pierce him with thousands of prime weapons (सम्परिवार्य निर्बिभिदुः), leaving the Lord poised like a storm-lashed peak at the brink of retribution.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

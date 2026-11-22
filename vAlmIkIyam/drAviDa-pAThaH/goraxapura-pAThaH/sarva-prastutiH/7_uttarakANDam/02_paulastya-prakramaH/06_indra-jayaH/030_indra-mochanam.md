@@ -919,6 +919,170 @@ Brahmā recounts how, naming her Ahalyā, he entrusted her to the great sage Gau
 
 “Filled with wrath, O righteous-souled one (_saṅkruddhas tvaṃ hi dharmātman_), you went to that sage’s hermitage (_gatvā tasyāśramaṃ muneḥ_) and there beheld that woman (_dṛṣṭavāṃś ca tadā tāṃ strīm_), radiant as a blazing tongue of fire (_dīptām agniśikhām iva_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.30.1–2 (Brahmā’s Diplomatic Embassy to Laṅkā)**
+
+Opening the sarga’s central action—Brahmā’s securing of Indra’s release and his subsequent consolation of the humiliated king of heaven (ब्रह्मणेन्द्रमोचनमिन्द्राश्वासनं च, **Rāma Varmā**)—the poet depicts the defeated gods marching to Laṅkā behind Prajāpati. **Śivasahāya** (_Śiromaṇi_) links this directly to Rāvaṇa’s triumphant return to Laṅkā at the close of Sarga 29 (रावणादिकृतलङ्काप्रवेशानन्तरकालिकं वृत्तान्तमाह). Remaining aloft in the sky (गगने तिष्ठन्) to preserve cosmic dignity yet opening with conciliation (सामपूर्वम्), Brahmā skillfully addresses his great-grandson amidst his gathered kin.
+
+_____________
+
+**7.30.3 (Archaic Sandhi and Praise of Meghanāda’s Valor)**
+
+Addressing Rāvaṇa affectionately as वत्स (‘dear child’), Brahmā appeals directly to paternal pride before broaching Indra’s ransom. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) specifically flag अहोऽस्य as an archaic epic sandhi (अहोऽस्येति संधिरार्षः), since the interjection अहो normally resists coalition with a following vowel. Rāma Varmā supplies एषः (‘he is equal to you or greater’), while **Śivasahāya** explains that the sheer marvel of the boy’s valor (विक्रमौदार्यमहो अत्याश्चर्यम्) accounts for Brahmā’s satisfaction with Rāvaṇa’s son.
+
+_____________
+
+**7.30.4–6 (Fulfillment of the Vow and the Conferral of ‘Indrajit’)**
+
+Brahmā affirms that Rāvaṇa’s ancient ambition is accomplished, though the commentators define that vow slightly differently: **Rāma Varmā** glosses प्रतिज्ञा as the pledge to conquer the three worlds (त्रील्लोकाञ्जेष्यामीति), whereas **Govindarāja** specifies the vow to subdue the four world-guardians (चतुरो दिक्पालान् जेष्यामीति) and glosses स्वसुतेन as ‘by your son’s might’ (स्वसुतबलेन). Conferring the immortal title _Indrajit_ (‘Conqueror of Indra’) in 7.30.5–6, Brahmā confirms the youth’s invincibility—setting up his tactful request for Indra’s release in the next verse.
+
+_____________
+
+**7.30.7–8 (Brahmā’s Proposal and Indrajit’s Audacious Price)**
+
+Concluding his conciliation, Brahmā reasons that with the gods already subdued, Rāvaṇa’s entire objective has been achieved (त्रिदशानां वशे स्थापितत्वात्तावत एवार्थस्य त्वत्संपाद्यत्वादिति भावः, **Rāma Varmā**; त्वत्प्रयोजनस्य सिद्धत्वाद्धेतोः, **Śivasahāya**). Both commentators supply तद्वद (‘tell what further boon the gods should give for Indra’s release’). Seizing the moment ahead of his father, Indrajit—whose epithet समितिञ्जयः marks him as victorious in battle—immediately demands the ultimate prize sought by every demon since Hiraṇyakaśipu: outright immortality (अमरत्वमहं वृणे) as the price of Indra’s freedom.
+
+_____________
+
+**7.30.9–10 (Universal Fear in the Created World)**
+
+Preserved specifically in Govindarāja’s Southern manuscript tradition and bracketed in the Parimal text, verses 7.30.9–10 articulate the philosophical premise behind Indrajit’s demand. Surveying the entire chain of terrestrial existence—from quadrupeds and winged beings down to plants, stones, and mountains—Indrajit observes that every creature in creation lives in mutual dread whenever danger arises (भेतव्ये सति बिभ्यति). By grounding his plea in the universal vulnerability of embodied life, the Southern expansion intensifies the dramatic tension before Brahmā invokes the immutable law of mortality.
+
+_____________
+
+**7.30.11–12 (The Cosmic Boundary Against Absolute Immortality)**
+
+Brahmā flatly rejects unconditional immortality. Both **Rāma Varmā** and **Govindarāja** define सर्वामरत्वम् precisely as exemption from death from every cause and at all times (सर्वस्मादपि निमित्तात्सर्वस्मिन्नपि काले मरणराहित्यं मत्सृष्टप्राणिनां नास्ति). On the catalogue of creatures in 7.30.12ab, Rāma Varmā explains महौजसां भूतानाम् as two-footed beings (द्विपदाः), while **Śivasahāya** construes 11–12ab as a single sentence (श्लोकद्वयमेकान्वयि) taking singular चतुष्पदः generically (जात्यभिप्रायेणैकवचनम्), and connects 12cd directly to Indrajit’s reply in 7.30.13.
+
+_____________
+
+**7.30.13–15 (The Fire-Born Chariot Boon)**
+
+Accepting Brahmā’s refusal with composure, Indrajit proposes an alternative (वा अथवा सर्वामरत्वासंभवे, **Rāma Varmā** and **Govindarāja**). All three commentators construe 7.30.14–16 as a single stipulation governed by ममेष्टम्: whenever Indrajit, eager to conquer enemies, duly worships Agni with mantras and oblations (नित्यशो नियमेन), a horse-drawn chariot shall emerge instantaneously from the sacred fire (विभावसोरग्नेस्तत्कालमुत्तिष्ठेत्), rendering him invulnerable so long as he fights from it. **Śivasahāya** (_Śiromaṇi_) confirms विभावसोः हुतवहात् (‘from the fire’) and notes एष वरः मे निश्चितः as Indrajit’s settled condition.
+
+_____________
+
+**7.30.16 (The Sole Vulnerability—Foreshadowing Nikumbhilā)**
+
+Defining the narrow condition under which death may reach him, Indrajit names the exact loophole through which Lakṣmaṇa will later slay him in the _Yuddhakāṇḍa_. **Rāma Varmā** (_Tilaka_) analyzes जप्यहोमे as a collective _dvandva_ denoting the mantra-recitation and fire-offerings required in that martial sacrifice (तस्मिन्साङ्ग्रामिकयागेऽपेक्षितं यज्जप्यहोमं समाहारद्वन्द्वः). **Govindarāja** (_Bhūṣaṇa_) adds that if an interruption leaves the rite incomplete (विघ्नवशादसमाप्ते तु) and he engages in battle, only then shall death occur—explicitly barring destruction by any other means (प्रकारान्तरेण विनाशो मा भूदित्यर्थः).
+
+_____________
+
+**7.30.17–18 (Immortal Boons Won by Arms Rather Than Penance)**
+
+Verse 7.30.17 captures Indrajit’s breathtaking arrogance. Both **Rāma Varmā** and **Govindarāja** note his boast of an unprecedented method (लोकविलक्षणक्रिययायं मे वरलाभः): whereas everyone else earns immortality through long austerity, he claims it through sheer martial prowess—which **Śivasahāya** glosses pointedly as ‘the capture of Indra’ (विक्रमेण इन्द्रनिग्रहेणेत्यर्थः), observing the implied threat that without prompt assent Indra will not be freed (वरप्राप्तिमन्तरा इन्द्रमोक्षो न भवितेति ध्वनितम्). Govindarāja glosses प्रवर्तितम् as ‘proclaimed for granting’ (प्रकीर्तितम्). Brahmā assents, Indra is freed, and the gods return heavenward.
+
+_____________
+
+**7.30.19–20 (Indra’s Brooding and Brahmā’s Rebuke)**
+
+Freed yet shamed, Indra sits absorbed in painful reflection; **Śivasahāya** (_Śiromaṇi_) explains ध्यानतत्परतां गतः as pondering incessantly what past karma could have brought about such a defeat (केन कर्मणैवं पराभूतिमहं प्राप्त इति विचारयामास). All three commentators gloss the Parimal reading भ्रष्टामरद्युतिः as ‘stripped of the radiance of the immortals’ (भ्रष्टा अमराणां द्युतिर्यस्य). On the third-person verb करोति स्म in 7.30.20, **Rāma Varmā** and **Govindarāja** supply एवमिदानीं शोचन् भवान् (‘grieving thus now, why did you formerly commit that grave sin?’), preparing the flashback to Ahalyā.
+
+_____________
+
+**7.30.21–23 (Creation’s Primordial Uniformity and the Extraction of Beauty)**
+
+Brahmā traces Indra’s fall to the dawn of creation, when all beings shared identical hue (देहकान्तिः), speech (समवचनाः), and form (समानवयोवस्थाः, **Rāma Varmā** and **Govindarāja**; एकविधशरीरावयवसंनिवेशाः, **Śivasahāya**), lacking distinction in overall beauty (दर्शने सौन्दर्ये) or particular features (लक्षणे नयनाद्यवयवसौष्ठवे, Govindarāja). Both Rāma Varmā and Govindarāja give a remarkable rationale for तासां विशेषार्थम् in 7.30.23: to produce mutual differentiation among creatures through slight asymmetries (किञ्चित्किञ्चिदङ्गवैकल्यप्रयुक्तपरस्परवैलक्षण्यसिद्ध्यर्थम्), Brahmā drew out the quintessence of beauty from every limb to create one peerless woman.
+
+_____________
+
+**7.30.24 (The Etymology of ‘Ahalyā’)**
+
+Fashioned from those distilled qualities of loveliness (प्रत्यङ्गसमुद्धृतैः सौन्दर्यगुणैः, **Govindarāja**), the maiden receives a traditional epic _nirukta_ in 7.30.24cd (unique to the Southern Recension). **Rāma Varmā** (_Tilaka_) explains the derivation crisply: हलं वैरूप्यम् (‘_hala_ is ugliness/deformity’) and हल्यं तत्प्रभवं निन्द्यत्वम् (‘_halya_ is the blemish arising from it’). **Śivasahāya** similarly glosses हलं वैरूपं विरूपो भवेत् । हल्यं तत्प्रभवं तद्धर्मं भवेत्, setting up the negative prefix _a-_ in the following verse: she in whom no trace of blemish exists.
+
+_____________
+
+**7.30.25–27 (Brahmā’s Anxiety and Indra’s Presumption)**
+
+Completing the _nirukta_ of Ahalyā (यस्याः हल्यं वैरूप्यं न विद्यते, **Śivasahāya**), Brahmā recalls his concern over who should wed her (भार्येति शेषः, **Rāma Varmā**), which **Govindarāja** (_Bhūṣaṇa_) attributes to the scarcity of a suitor worthy of her (तत्तुल्यवराभावादिति भावः). Indra’s fault began in sheer entitlement: all three commentators explain स्थानाधिकतया as presuming upon his sovereign rank over heaven and the three worlds (देवाधिपतित्वरूपाधिकस्थानप्राप्त्या, Rāma Varmā; त्रैलोक्याधिपतित्वेन, Govindarāja; सर्वोपरि स्थानवत्त्वेन, Śivasahāya) to claim Ahalyā mentally without Brahmā’s consent (विनापि मदनुमतिम्).
+
+_____________
+
+**7.30.28–29 (Gautama’s Test of Trust and Marriage)**
+
+Rather than awarding Ahalyā to rank or power, Brahmā tests moral fitness by placing her in trust (न्यासभूता) with Gautama. All three commentators gloss निर्यातिता as ‘handed back untouched’ (पुनः प्रत्यर्पिता, **Rāma Varmā** and **Govindarāja**; मम पुनः समर्पिता, **Śivasahāya**), proving Gautama’s supreme self-restraint. Recognizing his mastery of the senses (स्थैर्यं जितेन्द्रियत्वम्, all three) and ascetic fulfillment (तपसि सिद्धिम्), Brahmā formally bestowed her as his wife (स्पर्शिता भार्यात्वेन दत्ता). The episode contrasts Gautama’s earned ascetic worthiness against Indra’s unrestrained entitlement.
+
+_____________
+
+**7.30.30 (Indra’s Jealous Intrusion and the Fiery Simile)**
+
+Where the Baroda CE and Parimal (followed by **Śivasahāya**) read कामात्मा (‘driven by lust’), Govindarāja’s Southern text preserves the stinging vocative धर्मात्मन् (‘O righteous-souled one’), sharpening Brahmā’s rebuke through bitter irony as he recalls Indra’s angry march to Gautama’s hermitage. The comparison of Ahalyā to a blazing flame of fire (दीप्तामग्निशिखामिव) carries double poetic weight: it conveys both her dazzling, unapproachable beauty and the consuming peril awaiting whoever dares lay unlawful hands upon a sage’s wedded wife.
+
+_____________
+
+**7.30.31–33 (Caught in the Act and Cursed to Captivity)**
+
+Brahmā traces Indra’s capture by Indrajit directly to Gautama’s curse. The three commentators unpack the unusual compound दशाभागविपर्ययम् in 7.30.32 with subtle nuance: **Rāma Varmā** (_Tilaka_) glosses दशाभागः as the station of sovereignty (अवस्थाभेद ऐश्वर्यरूपः) and विपर्ययः as its inversion into bondage (बन्धनरूपां विपरीतावस्थाम्); **Govindarāja** (_Bhūṣaṇa_) explains it as the reversal of Indra’s innate elevated condition (सहजसात्विकावस्थाविपर्ययम्); **Śivasahāya** (_Śiromaṇi_) construes it as defeat brought on by turning fortune (कालप्राप्त्या विपर्ययं पराभूतिम्). Gautama’s first curse—falling into an enemy’s grasp in war—is thus fulfilled to the letter.
+
+_____________
+
+**7.30.34–35 (The Origin of Adultery and Shared Karmic Liability)**
+
+Gautama next condemns Indra for introducing adultery (जारभावः, **Rāma Varmā**; परस्त्रीधर्षणरूपो भावः, **Śivasahāya**) into the cosmos, lamenting that through Indra’s fault it will infect even mortals governed by sacred scripture (मानुषेष्वपि शास्त्राधिकारिष्वपि ... शक्र तव दोषात्, Rāma Varmā and **Govindarāja**). In 7.30.35, all three explain that half of every future adulterer’s sin falls on the perpetrator and half upon Indra—Govindarāja invoking the classic _dharmaśāstra_ maxim राजा राष्ट्रकृतं पापम् (‘a king shares the sin committed in his realm’)—rendering Indra’s throne forever precarious (स्थिरं पदं न भविष्यति; सोपद्रुतमेव, Śivasahāya).
+
+_____________
+
+**7.30.36 (Two Readings of the Unstable Throne)**
+
+Commenting on the sweeping final clause यश्च यश्च सुरेन्द्रः स्याद्ध्रुवः स न भविष्यति, the commentators diverge intriguingly. **Rāma Varmā** and **Śivasahāya** take सुरेन्द्रः as the predicate nominative: not only Indra himself, but every future holder of heaven’s throne will face periodic upheavals and loss of security (मध्ये मध्ये भ्रंशः स्यात्, Rāma Varmā; उपद्रुत एव भविष्यति, Śivasahāya). **Govindarāja**, however, reads सुरेन्द्र as a vocative and extends the curse morally: ‘O Lord of Gods, whoever else commits adultery like this shall likewise never remain secure’ (अन्यस्यापि जारस्य ... य एवं जारः स्यात्सोऽपि ध्रुवो न भविष्यति).
+
+_____________
+
+**7.30.37–38 (The Curse Stripping Ahalyā’s Monopoly on Beauty)**
+
+Turning his anger upon Ahalyā, Gautama commands विनिध्वंस, which **Rāma Varmā** (_Tilaka_) glosses specifically as ‘be stripped of your splendor’ (ध्वस्तसौरूप्या भव) and **Śivasahāya** (_Śiromaṇi_) as ‘suffer ruin beside my hermitage’ (आश्रमसमीपे ध्वंसं प्राप्नुहि). All three commentators smoothly justify the striking third-person verb भविष्यति paired with त्वम् in 7.30.38: the state of affairs ‘you alone are beautiful’ shall cease to exist (त्वमेकैव रूपवतीति यत्स्थितं तन्न भविष्यति, Rāma Varmā and **Govindarāja**), for henceforth many beautiful women shall exist in the world (बहवो रूपवत्यो भविष्यन्ति, Śivasahāya).
+
+_____________
+
+**7.30.39–40ab (Dispersion of Beauty Across Creation)**
+
+In a striking etiological twist, Gautama’s curse reverses Brahmā’s initial extraction of beauty (7.30.23): the singular loveliness that triggered this amorous madness (विभ्रमः कामविकारः ... इन्द्रस्य, **Rāma Varmā**; काममोहः, **Govindarāja**) is redistributed among all creatures (सर्वाः प्रजाः स्त्रियः, Govindarāja). As **Śivasahāya** notes on 7.30.40ab, from the moment of that curse onward (शापकालादारभ्य), earthly beings became richly endowed with physical beauty—explaining why loveliness is no longer confined to a single archetype.
+
+_____________
+
+**7.30.40cd–42 (Ahalyā’s Plea of Deception and the Southern Redemption)**
+
+Unlike the starker Baroda CE recension—which omits verses 40cd–46ab—the Southern text harmonizes this _Uttarakāṇḍa_ retelling with the famous _Bālakāṇḍa_ deliverance (1.48–49). Pleading for mercy, Ahalyā insists she was deceived through error (अज्ञानात् प्रमादात्, **Śivasahāya**) by Indra disguised in Gautama’s likeness (त्वत्सदृशरूपवता) rather than acting out of willful lust (कामकारात् स्वेच्छाप्रवृत्त्या न). Moved by her contrition, Gautama initiates his prophecy of the radiant Ikṣvāku hero who will one day redeem her.
+
+_____________
+
+**7.30.43–45 (Gautama’s Prophecy of Viṣṇu Incarnate as Rāma)**
+
+In this luminous Southern prophecy, Gautama names Rāma directly as the all-pervading Viṣṇu assuming a human frame (विष्णुर्व्यापकः मानुषविग्रहः नराकृतिः, **Śivasahāya**). **Rāma Varmā** (_Tilaka_) identifies ब्राह्मणार्थे specifically as ‘for the sake of Viśvāmitra’ (विश्वामित्रार्थे), linking directly to Rāma’s forest journey in Book I. Śivasahāya glosses पावयितुम् as ‘able to efface your transgression’ (निवर्तयितुं शक्तः), noting that after offering guest-rites (आतिथ्यम्) to Rāma, Ahalyā will be reunited with her husband.
+
+_____________
+
+**7.30.46–47 (Returning to the Present—Karma as the Sole Cause)**
+
+After noting Ahalyā’s arduous penance, Brahmā pivots back to Indra’s plight (प्रकृतमाह, **Śivasahāya**): it is solely from Gautama’s curse (मुनेः शापोत्सर्गादिदं शत्रुग्रहणमुपस्थितम्) that captivity befell him. All three commentators—**Rāma Varmā**, Śivasahāya, and **Govindarāja**—emphasize नान्येन as ‘by no other cause’ (नान्येन हेतुना), assuring the king of heaven that his humiliation stemmed strictly from his own karmic debt rather than any inherent inferiority to his rākṣasa captor.
+
+_____________
+
+**7.30.48 (The Expiatory Vaiṣṇava Sacrifice)**
+
+Just as Rāma—Viṣṇu incarnate—was prescribed as the sole purifier of Ahalyā’s stain in 7.30.44, Brahmā now prescribes a _Vaiṣṇava_ sacrifice (यज्ञं वैष्णवम्) as the sole expiation for Indra’s sin. **Śivasahāya** connects 7.30.47–48 causally: because Indra fell solely through his own past transgression, he must perform this focused Vaiṣṇava rite (सुसमाहितः) so that, ritually cleansed (पावितः), he may reclaim heaven’s throne with honor restored.
+
+_____________
+
+**7.30.49–50 (Jayanta’s Safety and a Mīmāṃsā Point on Divine Sacrifice)**
+
+Answering Indra’s unspoken grief for Jayanta, Brahmā reveals that his maternal grandfather (आर्यकेण मातामहेन, **Śivasahāya** and **Govindarāja**)—explicitly identified by **Rāma Varmā** (_Tilaka_) as Puloman (आर्यकेण पुलोम्ना)—safely concealed the boy in the ocean (सम्यङ्निहितो निक्षिप्तः). On Indra’s Vaiṣṇava sacrifice in 7.30.50, Rāma Varmā remarks that Jaimini’s Mīmāṃsā denial of ritual eligibility to gods was already refuted earlier as an oversight (देवानां न यज्ञेऽधिकार इति जैमिन्युक्तं तु प्रमादादिति निरूपितं प्राक्), while Śivasahāya defends epic अन्वशासत् by noting the non-obligatory elision of _śap_.
+
+_____________
+
+**7.30.51–52 (Agastya’s Climax and the Assembly’s Wonder)**
+
+Concluding his answer to Rāma’s original inquiry from Sarga 1, Agastya sums up Indrajit’s matchless prowess (तेनेन्द्रजिता यदीन्द्रो निर्जितस्तदा अन्ये किम्, **Śivasahāya**). In the Southern closing verses 7.30.52–54, the entire court erupts in amazement. Both Śivasahāya and **Govindarāja** resolve the syntax of 7.30.52 cleanly: by adjusting the verb’s number (वचनपरिणामेन, Śivasahāya; अब्रुवन्नित्यनुषङ्गः, Govindarāja), अब्रवीत् extends to the vānaras and rākṣasas who likewise cry आश्चर्यम्.
+
+_____________
+
+**7.30.53–54 (Vibhīṣaṇa’s Eyewitness Confirmation)**
+
+Standing beside Rāma, Vibhīṣaṇa validates Agastya’s ancient chronicle from direct personal memory (यत्तद्दृष्टं पुरातनम्). **Govindarāja** (_Bhūṣaṇa_) highlights the literary function of this moment: through Vibhīṣaṇa’s corroboration, the historical truth of everything Agastya has narrated is established (विभीषणसंवादेन सर्वस्यागस्त्योक्तस्य सत्यत्वं दर्शितम्). **Rāma Varmā** glosses Rāma’s remark श्रुतं च मे as ‘heard by me from Vibhīṣaṇa’s own lips’ (विभीषणमुखादिति शेषः), before Agastya’s final couplet sums up Rāvaṇa’s rise and sets up Rāma’s next question in Sarga 31.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

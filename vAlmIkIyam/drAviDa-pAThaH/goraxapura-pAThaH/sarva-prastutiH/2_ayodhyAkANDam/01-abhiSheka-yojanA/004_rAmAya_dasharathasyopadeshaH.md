@@ -209,6 +209,152 @@ once again.
 
 Receiving that command, the charioteer hastened back once more to Rāma’s palace to bring Rāma again.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.4.1–2 (niścayajñaḥ and the joint syntactical unit)**
+
+All three commentators note that verses 1 and 2 form a single syntactic unit (श्लोकद्वयमेकान्वयम्). Nāgeśa Bhaṭṭa (_Tilaka_) glosses निश्चयज्ञः as one skilled in determining the proper place and hour for each undertaking (तत्तत्कार्यार्थदेशकालनियमज्ञः), specifying that Daśaratha’s new resolution concerns the exact time of Rāma’s consecration (रामाभिषेककालविषयम्). By declaring that Rāma shall be consecrated as युवराजः, the king vests full authority over judicial protection and royal punishment in Him (प्रजान्यायरक्षणदण्डादिष्वयमेवाधिकारीति).
+
+_____________
+
+**2.4.3–4 (antargṛham āviśya)**
+
+Govindarāja (_Bhūṣaṇa_) observes that the king’s entry into his private apartments (अन्तर्गृहमाविश्य) implicitly signals the dismissal of his public ministers (मन्त्रिणामपि विसर्जनं सिद्धम्) so that the confidential nocturnal vow and personal counsel may be imparted to Rāma in privacy. He glosses आमन्त्रयामास as “commissioned” (नियोजयामास) and notes the infinitive आनयितुम् (_tumun_) for bringing Rāma a second time.
+
+_____________
+
+**2.4.5–6 (śaṅkānvitaḥ — Rāma’s apprehension)**
+
+Explaining why Rāma feels a sudden tremor of doubt (शङ्कान्वितोऽभवत्) upon hearing of Sumantra’s immediate return, _Tilaka_ glosses it as concern over some royal mishap (राज्ञ आपच्छङ्कान्वितः), while Govindarāja explains Rāma’s thought: having just been dismissed from the assembly Hall, Rāma wonders whether some obstacle to the consecration or unforeseen calamity has arisen (किमभिषेकविघ्नः कश्चिदासीत् उतान्यः कश्चिदुपद्रवोऽस्तीति शङ्कया).
+
+_____________
+
+**2.4.7–8 (gamanāyetarāya vā)**
+
+Explaining Sumantra’s deferential reply, Nāgeśa Bhaṭṭa (_Tilaka_) and Govindarāja (_Bhūṣaṇa_) take इतराय as the opposite of going (आगमनाय), noting that the absence of the pronominal dative suffix (-स्मै) is an epic licence (असर्वनामत्वमार्षम्). Śivasahāya (_Śiromaṇi_) adds an alternative reading where इतराय derives from इत (‘arrived’) + √rā (‘to give’), meaning deciding both on going to the king and on bestowing gifts upon suitors waiting at the gate.
+
+_____________
+
+**2.4.10–11 (dūrāt praṇipatya)**
+
+Govindarāja highlights the phrase दूरात् प्रणिपत्य (‘prostrating from afar’ the moment He crossed the threshold), remarking that Rāma’s immediate prostration from a distance manifests the summit of filial humility (दूरात्प्रणिपातो विनयातिशयात्). When Rāma bows again upon approaching the couch, Daśaratha raises Him up (समुत्थाप्य), embraces Him (परिष्वज्य), and motions with his hand (प्रदिश्य हस्तेन दर्शयित्वा, _Tilaka_) to a seat.
+
+_____________
+
+**2.4.12 (annavadbhiḥ kratuśataiḥ)**
+
+Both _Tilaka_ and Govindarāja cite the _Bhagavadgītā_ (17.13, विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् । श्रद्धाविरहितं यज्ञं तामसं परिचक्षते) to explain why Daśaratha qualifies his hundreds of sacrifices (क्रतुशतैः, from _Jyotiṣṭoma_ up to _Aśvamedha_) with अन्नवद्भिः (‘lavish in food distribution’) and भूरिदक्षिणैः (‘abounding in priestly stipends’): his rites were purely _sāttvika_ and lacked nothing enjoined by scripture.
+
+_____________
+
+**2.4.13–14 (devarṣi-pitṛ-viprāṇām anṛṇaḥ — The fivefold debt)**
+
+All three commentators reconcile Daśaratha’s enumeration of five creditors with the famous Vedic text (_Taittirīya Saṃhitā_ 6.3.10.5, जायमानो वै ब्राह्मणस्त्रिभिर्ऋणवाञ्जायते ब्रह्मचर्येण ऋषिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्यः). Govindarāja (_Bhūṣaṇa_), Nāgeśa Bhaṭṭa (_Tilaka_), and Śivasahāya (_Śiromaṇi_) map the five discharges Directly to verses 12–14: debt to the gods by sacrifices (क्रतुशतैः), to the sages by Vedic study (अधीतेन), to the ancestors by begetting a worthy son (अपत्योत्पादनेन), to Brāhmaṇas by charity (दत्तेन), and to one’s own living self (आत्मनः शरीरेन्द्रियसङ्घातरूपस्य) by experiencing lawful happiness (विहितसुखानुभवेन).
+
+_____________
+
+**2.4.17 (aśubhān svapnān and divolkāḥ)**
+
+Explaining why Daśaratha cannot delay the rite, Govindarāja notes that the king has seen portents such as being embraced by a dark-clad woman (नीलवर्णस्त्रीपरिष्वङ्गादीन्) and daytime meteors (उल्का निर्घातज्वालाः) falling with thunderclaps (निर्घातैरशनिपातैः). _Tilaka_ notes the epic _sandhi_ in दिवोल्काः (दिव उल्काः संधिरार्षः), or alternatively दिवा उल्काः (‘meteors falling by day’).
+
+_____________
+
+**2.4.18 (avaṣṭabdhaṃ nakṣatram)**
+
+Both _Tilaka_ and Govindarāja gloss नक्षत्रम् as the king’s natal asterism (जन्मनक्षत्रम्) and अवष्टब्धम् as “besieged or hemmed in” (आक्रान्तम्) by three malefic grahas simultaneously—the Sun, Mars (अङ्गारक), and Rāhu (सूर्याङ्गारकराहुभिः).
+
+_____________
+
+**2.4.19–20 (calā hi prāṇināṃ matiḥ)**
+
+In v. 19, _Tilaka_ and _Śiromaṇi_ note that the particle च in घोरां चापदमृच्छति implies sequence: the king first suffers a terrible calamity (Rāma’s exile) and thereafter meets with death (पूर्वमापदमृच्छति ततो मृत्युं चाप्नोतीत्यर्थः). In v. 20, both _Tilaka_ and Govindarāja explain why Daśaratha fears his own mind might falter (न विमुह्यति): human resolve is mutable (चला हि प्राणिनां मतिः) and could be swayed by the rival entreaties of another queen (त्वद्विमातृसम्बन्धिराज्यार्थिप्रार्थनयेति भावः, _Tilaka_; मातृन्तरादिप्रार्थनादिभिरिति भावः, Govindarāja).
+
+_____________
+
+**2.4.21–22 (puṣyayogam and daivacintakāḥ)**
+
+As the commentators explain, on the preceding day the Moon stands in the nakṣatra Punarvasu (पुष्यात्पूर्वं विद्यमाने पुनर्वसौ), and the astrologers (दैवचिन्तकाः ज्योतिर्विदः) have calculated its assured entry into Puṣya on the morrow (दृग्गणितनिश्चितमभिषेके प्रशस्तं वा, _Tilaka_). Govindarāja notes that इव in त्वरयतीव माम् carries the force of एव (‘verily urges Me on’).
+
+_____________
+
+**2.4.23–24 (upavastavyā and darbhaprastaraśāyinā)**
+
+Explaining the passive construction निशेयमुपवस्तव्या (‘this night must be fasted through’), _Tilaka_ derives the transitive gerundive by treating the night as the locus-object of upa + √vas (उपान्वध्याङ्वसः इति कर्मणि तव्यत्), whereas Govindarāja points out that since upa + √vas in the sense of fasting (भोजननिवृत्त्यर्थस्य) is strictly intransitive (वसेरम्यर्थस्य प्रतिषेधो वक्तव्यः), its transitive passive use here is an epic licence (सकर्मकत्वमार्षम्).
+
+_____________
+
+**2.4.25–26 (viproṣitaś ca bharataḥ — Daśaratha’s unspoken pledge)**
+
+Why does Daśaratha wish to complete Rāma’s consecration while Bharata is away in Kekaya, even while praising Bharata’s saintly devotion (ज्येष्ठानुवर्ती धर्मात्मा)? Both Govindarāja (_Bhūṣaṇa_) and Śivasahāya (_Śiromaṇi_) point forward to Rāma’s own disclosure at 2.107.3 (पुरा भ्रातः पिता नः स मातरं ते समुद्वहन् । मातामहे समाश्रौषीद् राज्यशुल्कमनुत्तमम्): at his marriage to Kaikeyī, Daśaratha had secretly promised the kingdom as bride-price (राज्यशुल्कम्) to the King of Kekaya, and fears either obstruction from Bharata’s maternal kin or Rāma’s refusal out of deference to that pledge.
+
+_____________
+
+**2.4.27 (kṛtaśobhi ca)**
+
+Govindarāja records three classical interpretations of कृतशोभि: first, that the hearts of the righteous shine through mutual kindness (कृतेन परस्परोपकारेण शोभते); second, reading कृतक्षोभि, that even a virtuous mind can be agitated by factional intrigue (मित्रभेदादिना क्षोभितम्); and third (shared by _Śiromaṇi_), that a righteous man gladly ratifies an act once it is accomplished (कृतं कार्यमनुमोदते न तु करिष्यमाणम्).
+
+_____________
+
+**2.4.29–30 (tatkṣaṇād eva niṣkramya and devatāgāre)**
+
+Explaining why Rāma enters His own palace only to exit immediately (तत्क्षणादेव निष्क्रम्य), Nāgeśa Bhaṭṭa (_Tilaka_) notes that Rāma went home to inform Sītā of the king’s command to fast together, and not finding her there—since she had already been summoned to Kausalyā’s apartments (v. 31)—proceeded at once to His mother’s sanctuary.
+
+_____________
+
+**2.4.31 (sītā cānāyitā — Protocol of the young bride)**
+
+Govindarāja (_Bhūṣaṇa_) observes the delicate domestic propriety in Vālmīki’s phrasing: whereas Sumitrā and Lakṣmaṇa came of their own accord upon hearing the joyful tidings (सुमित्रा प्रियं रामाभिषेचनं श्रुत्वा आगता), Sītā—being a young daughter-in-law dependent on her elders’ bidding—did not come unbidden, but was sent for by her mothers-in-law (सीता तु परतन्त्रत्वात्स्वयं नागता किंतु श्वश्रूभिरानायिता).
+
+_____________
+
+**2.4.32–33 (puruṣaṃ dhyāyamānā janārdanam)**
+
+All three commentators join verses 32 and 33 as a single syntactic couplet (श्लोकद्वयमेकान्वयि). Govindarāja explains that Kausalyā sits with half-closed eyes in yogic absorption (आमीलितेक्षणा ध्यानवशात्, _Tilaka_), practising _prāṇāyāma_ (प्राणायामपूर्वकम्) while meditating upon Lord Nārāyaṇa (जनार्दनं नारायणम्), the Supreme Person celebrated in the Vedic _Puruṣasūkta_ (पुरुषसूक्तप्रतिपाद्यपुरुषशब्दवाच्यम्).
+
+_____________
+
+**2.4.34–35 (prajāpālana-karmaṇi)**
+
+Nāgeśa Bhaṭṭa (_Tilaka_) notes that Rāma’s repeated reference to “My father” (पित्रा ... मे पितुः) voices deep filial reverence, framing the office of Prince Regent not as royal self-aggrandizement but as obedience to the arduous duty of protecting the people (प्रजापालनकर्मणि).
+
+_____________
+
+**2.4.36–37 (sītayāpy upavastavyā and maṅgalāni)**
+
+Under Govindarāja’s reading एवमृत्विगुपाध्यायैः सह मामुक्तवान् पिता, Rāma emphasizes that the injunction to fast alongside Sītā was delivered to Him not by the king alone, but by Daśaratha in the company of the officiating priests and preceptors (किं त्वयैवोच्यते नेत्याह एवमिति). Nāgeśa Bhaṭṭa (_Tilaka_) glosses मङ्गलानि in v. 37 as auspicious baths and the donning of precious unguents, garlands, and ornaments (महार्हगन्धमाल्याभरणादिरूपाणि मङ्गलस्नानादीनि च).
+
+_____________
+
+**2.4.38–39 (harṣabāṣpakalam and hatās te paripanthinaḥ)**
+
+Govindarāja reads हर्षबाष्पकलम् and glosses कलम् as “soft, indistinct, and sweet with tears of joy” (हर्षबाष्पेण कलमव्यक्तमधुरम्). In v. 39, all three commentators supply the imperative verb भवन्तु after हतास्ते परिपन्थिनः (‘may Your foes—or obstacles to the consecration—be destroyed!’) and note Kausalyā’s affectionate inclusion of Sumitrā’s kinsfolk (मे सुमित्रायाश्च ज्ञातीन् बन्धून् नन्दय).
+
+_____________
+
+**2.4.40 (kalyāṇe bata nakṣatre)**
+
+Citing _Amarakośa_ (खेदानुकम्पासन्तोषविस्मयामन्त्रणे बत), Govindarāja notes that the particle बत here expresses maternal rapture (बतेति तोषे), celebrating the auspicious hour of Rāma’s birth by which He delighted Daśaratha through sheer excellence of character (गुणैराराधितः).
+
+_____________
+
+**2.4.41 (amoghaṃ bata me kṣāntam)**
+
+All three commentators explain पुरुषे पुष्करेक्षणे as the lotus-eyed Supreme Lord Viṣṇu-Nārāyaṇa (पुष्करेक्षणे पुण्डरीकाक्षे पुरुषे नारायणे विषये, Govindarāja) and क्षान्तम् as Kausalyā’s patient endurance of vows and fasts aimed solely at pleasing Him (तत्प्रीतिमात्रफलकं व्रतोपवासादि कृतम्, _Tilaka_). Because the royal fortune of the Ikṣvākus now comes to rest on Rāma, her ascetic endurance is proven fruitful (अमोघं सफलम्).
+
+_____________
+
+**2.4.42–44 (dvitīyaṃ me ’ntarātmānam — Lakṣmaṇa as Rāma’s second self)**
+
+As Nāgeśa Bhaṭṭa (_Tilaka_) remarks, Rāma immediately makes the newly conferred sovereignty common to His brother (स्वनिविष्टं राज्यं सौभ्रात्रेण साधारणं करोति). Govindarāja and _Śiromaṇi_ highlight the profound phrase द्वितीयं मेऽन्तरात्मानम्: Lakṣmaṇa is Rāma’s own inner soul in a second bodily form, for whose sake alone Rāma desires both life and kingship (जीवितं चापि राज्यं च त्वदर्थमभिकामये).
+
+_____________
+
+**2.4.45 (abhyanujñāpya sītāṃ ca)**
+
+Both _Tilaka_ and Govindarāja explain the causative absolutive अभ्यनुज्ञाप्य literally as “having caused Sītā and Himself to be granted leave and blessings by both mothers” (सीतायै स्वस्मै च मातृभ्यामनुज्ञां दापयित्वा), before returning to His own palace to prepare for the nocturnal fast.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

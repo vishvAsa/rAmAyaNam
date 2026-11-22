@@ -665,6 +665,98 @@ fame and humiliation in this world".
 
 O cruel Kaikeyī (_nṛśaṃse_) of sinful resolve (_pāpasaṃkalpe_), why do you yoke my beloved Rāma of unfailing valor (_satyaparākramam_) with what is so hateful (_vipriyeṇa_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.13.1–2 (yugmaka of the fallen monarch)**
+
+All three commentators construe verses 1 and 2 as a single syntactic unit (श्लोकद्वयमेकान्वयम्). _Tilaka_ glosses अतदर्हम् as undeserving of bowing at a woman's feet (स्त्रीचरणानानर्हम्) and अतथोचितम् as unsuited to lying on the floor (भूतलशयनानर्हम्). On अभीता भयदर्शिनी, _Tilaka_ notes that Kaikeyī is unafraid of public censure (जनापवादादभीता) yet foresees danger to Bharata from Rāma, whereas _Bhūṣaṇa_ alternatively resolves अभयदर्शिनी as blind to Daśaratha's peril (दशरथस्य भयमपश्यन्ती).
+
+_____________
+
+**2.13.3–5 (विधारयितुम् and विह्वलन्)**
+
+In v. 3, _Tilaka_ glosses कत्थसे as श्लाघसे (“you boast”) and विधारयितुम् as withholding the boon like an unpaid debt (ऋणत्वेन धारयितुम्), while _Śiromaṇi_ renders it as cancelling it (रद्धीकर्तुं वा). _Bhūṣaṇa_ glosses विह्वलन् in v. 4 as swooning (मूर्च्छन्).
+
+_____________
+
+**2.13.6 (प्रत्यादेशादभिहितम्)**
+
+_Tilaka_ and _Bhūṣaṇa_ explain that when the celestials in heaven ask after Rāma's welfare (रामस्य कुशलं दैवतैः पृष्टोऽहम्), Daśaratha will be unable to bear their reproach (धिक्कारपूर्वमभिहितं वाक्यम्) for having cast away so virtuous a son for a woman's sake (स्त्रीहेतोः कथं गुणवत्पुत्रं त्यक्तवानसि).
+
+_____________
+
+**2.13.7 (The dilemma of competing truths)**
+
+_Śiromaṇi_ and _Bhūṣaṇa_ explain the paradox of तदसत्यं भविष्यति: if Daśaratha fulfills his boon to Kaikeyī by banishing Rāma, his solemn pledge to Rāma—‘Tomorrow I shall consecrate you’ (श्वस्त्वाहमभिषेक्ष्यामि यौवराज्ये परन्तपेति रामोद्देशेनोक्तं वाक्यम्)—will become false, proving that falsehood on one side is inescapable (अन्यतरासत्यत्वं दुष्परिहरणीयम्). _Tilaka_ adds that people will judge him a lust-driven dotard (कामुकतया प्रत्याख्यात इत्येव मंस्यन्ते).
+
+_____________
+
+**2.13.8–11 (Inability to exile Rāma)**
+
+Reviewing Daśaratha's reasons for refusing to banish Rāma (अपरित्यागे हेत्वन्तराणि, _Bhūṣaṇa_), _Tilaka_ and _Śiromaṇi_ gloss स्थापयिष्यामि in v. 10 as प्रस्थापयिष्यामि (“how shall I send away?”) and interpret दुःखम् in v. 11 as forest exile, the instrument of suffering (वनगमनरूपं दुःखसाधनम्).
+
+_____________
+
+**2.13.12 (संक्रमणम्)**
+
+All three commentators gloss संक्रमणम् as death (स्वर्गं प्रति गमनम्, _Tilaka_; देहाद्देहान्तरप्राप्तिः पञ्चत्वम्, _Bhūṣaṇa_). _Tilaka_ observes that dying before granting the boon incurs no sin (मरणे वराप्रदानजन्यदोषोऽपि न), since only a living person is bound to perform.
+
+_____________
+
+**2.13.13–14 (विप्रियेण and परिभविष्यति)**
+
+On v. 13, _Śiromaṇi_ glosses विप्रियेण as painful separation (वियोगेन), while _Bhūṣaṇa_ specifies exile to the Daṇḍaka forest (अनभिमतदण्डकारण्यगमनेन). In v. 14a, _Tilaka_ explains that the infamy of being conquered by a woman (स्त्रीजित इत्यकीर्तिः) will eclipse even the glory Daśaratha won by vanquishing the demon Śambara (शम्बरसंपादितां कीर्तिं परिभविष्यति).
+
+_____________
+
+**2.13.15–16 (त्रियामा and शर्वरी)**
+
+Construing verses 14cd–16ab together, _Tilaka_ derives शर्वरी (“night”) from the root शॄ (“to rend or destroy”, शृणातीति योगात्) because the night torments the grieving king (हिंसिका तस्य). _Bhūṣaṇa_ ingeniously resolves सा त्रियामा by _praśleṣa_ as अत्रियामा—a night that has abandoned its three-watch measure and stretched out endlessly (यामत्रयवच्वं विहायातिदीर्घा).
+
+_____________
+
+**2.13.17 (Prayer against daybreak)**
+
+Gazing up at the sky (गगनासक्तलोचनः), Daśaratha prays for the night never to end (रात्र्या अव्युष्टिं प्रार्थयते, _Tilaka_) out of terror that daybreak will bring separation from Rāma (प्रभातकालभाविरामवियोगभिया, _Śiromaṇi_). _Tilaka_ notes both readings: त्वया (“dawn brought about by your departure”) and तव (“your morning”).
+
+_____________
+
+**2.13.18–19 (Why Night should linger or depart)**
+
+_Tilaka_ explains Daśaratha's twofold plea to Night (भद्रे निशे): lingering will delay Rāma's morning banishment (प्रभाते रामविवासनभयम्), or else departing swiftly (गम्यतां शीघ्रम्) will bring the public assembly of dawn—or his own immediate death upon Rāma's departure—sparing him from looking upon cruel Kaikeyī (नाहमिच्छामि द्रष्टुम्).
+
+_____________
+
+**2.13.20–21 (शून्ये न vs. शून्येन)**
+
+All three commentators record two rich ways of reading v. 21c: taking शून्ये न as locative + negative particle, Daśaratha pleads that Rāma's consecration was announced not in a lonely spot (एकान्ते निर्जने नोक्तम्) but before the full royal assembly (सर्वजनसन्निधौ), so revoking it will expose him to public ridicule (सभ्योपहासो यथा न भवति, _Tilaka_); taking शून्येन as instrumental, he excuses his harsh words as spoken by a man distraught and bereft of judgment (दुःखवशाद्वक्तव्यावक्तव्यविवेकरहितेन).
+
+_____________
+
+**2.13.22 (सहृदया and त्वद्दत्तं राज्यम्)**
+
+_Tilaka_ glosses सहृदया as sharing one heart with him (मद्धृदयसमानहृदया) and explains the king's compromise: having seized the kingdom by the power of her boon (वरबलाद्गृहीतमेव राज्यम्), let Kaikeyī herself bestow it upon Rāma as her own gift (त्वद्दत्तं राज्यम्).
+
+_____________
+
+**2.13.23–24 (गुरूणाम् and विचित्रं विलापम्)**
+
+In v. 23, _Tilaka_ identifies the elders (गुरूणाम्) as Vasiṣṭha and the royal preceptors (वसिष्ठादीनाम्), and notes the variant उरुश्रोणि (उर्वी महती श्रोणिर्यस्याः). On v. 24, _Bhūṣaṇa_ explains that Daśaratha's lament is called विचित्रम् (“varied, manifold”) because it alternates between tender propitiation and bitter rebuke (प्रसादनभर्त्सनसहितत्वात्), while _Śiromaṇi_ notes that Kaikeyī's refusal (न चकार वाक्यम्) exposes her hostility to both her husband's renown and his very life (राजयशोहृदयविरोधिनीत्वम्).
+
+_____________
+
+**2.13.25 (Daśaratha's helplessness)**
+
+_Tilaka_ poignantly summarizes why the king collapses unconscious (विसंज्ञो क्षितौ पपात): bound by long-standing love, he is unable to punish his beloved queen (चिरपरिचितप्रेमवशात्तां निग्रहीतुमसमर्थः), yet he is equally unable to abandon a son won through immense toil (बहुप्रयासलब्धं पुत्रं च त्यक्तुमसमर्थः).
+
+_____________
+
+**2.13.26 (प्रतिबोधनम्)**
+
+At daybreak, when the royal bards begin their auspicious morning songs, drums, and lutes (मङ्गलगीतादिकम्, _Tilaka_; मङ्गलपटहवीणादिकम्, _Bhūṣaṇa_; प्रतिबोधकबन्द्यादिवचनम्, _Śiromaṇi_), the grief-stricken king silences them, revealing the extremity of his sorrow (तेन दुःखाधिक्यं सूचितम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

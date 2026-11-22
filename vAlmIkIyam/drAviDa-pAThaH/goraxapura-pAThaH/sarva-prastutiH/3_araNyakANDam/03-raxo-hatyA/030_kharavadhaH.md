@@ -1668,6 +1668,134 @@ thousand guise changing demons, including their chieftains Khara and Duushana. [
 
 **31:** “Fourteen thousand (_caturdaśa sahasrāṇi_) shape-shifting _rākṣasas_ (_rakṣasāṃ kāma-rūpiṇām_), headed by Khara and Dūṣaṇa (_khara-dūṣaṇa-mukhyānām_), have been slain in this great battle (_nihatāni mahā-mṛdhe_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.30.1–2 (dharmavatsalaḥ & Answering Khara's Boast)**
+
+Opening Sarga 30 with a benedictory stanza praising Rāma for slaying Khara—likened to egoism stripped of every support (निरस्तनिखिलालम्बमहंकारमिव स्थितम् । खरं निहत्य साधूनां सुखावहमहं भजे)—**Govindarāja** (_Bhūṣaṇa_) remarks that the epithet धर्मवत्सलः (`1b`, “devoted to righteousness”) explains why Rāma pauses to address the disarmed demon rather than striking him immediately while weaponless (निरायुधवधोऽनुचित इति श्रीरामोऽमन्यतेति गम्यते). **Rāma Varmā** (_Tilaka_) adds that now that Khara's mace is shattered, Rāma has found the proper occasion to answer Khara's taunts (लब्धावसरो भगवांस्तस्यैव कत्थनं कृतमित्याह).
+
+_____________
+
+**3.30.3–4 (pratyayaghātinī vs. pratyarighātinī)**
+
+On प्रत्ययघातिनी (`3d`), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that the shattering of the mace destroyed Khara's confidence (प्रत्ययो विश्वासः) that it would inevitably slay his foe; **Govindarāja** (_Bhūṣaṇa_) reads प्रत्यरिघातिनी (“which used to slay enemy after enemy”, अरीनरीन् प्रतिघातिनी).
+
+_____________
+
+**3.30.5–6 (Three Epithets of Baseness & phenabudbudabhūṣitam)**
+
+Distinguishing the three epithets in `5a–b`, **Govindarāja** (_Bhūṣaṇa_) glosses नीचस्य as low by mere boastfulness (केवलवाचालकत्वेन हीनस्य), क्षुद्रशीलस्य as mean in nature (हीनस्वभावस्य), and मिथ्यावृत्तस्य as wicked in conduct (असद्वृत्तस्य). On फेनबुद्बुदभूषितम् (`6b`), **Govindarāja** notes that calling Khara's foaming, bubbling blood “adorned” (भूषितम्) means it will be a delight to behold (अत्यन्तं दर्शनीयम्).
+
+_____________
+
+**3.30.7–9 (Embracing the Earth & śaraṇyānāṃ śaraṇyāḥ)**
+
+On गां समाश्लिष्य (`7c`), **Govindarāja** (_Bhūṣaṇa_) observes that “embracing the earth” intimates that Khara will fall face downward in the dust (अवाङ्मुखत्वमुच्यते). In `8c`, **Rāma Varmā** (_Tilaka_) reads शरण्यानां शरण्याः, explaining that the Daṇḍaka forest will become a safe haven for the sages who through their penance are themselves a refuge to all (तपोमहिम्ना सर्वजनशरण्यानाम्); **Govindarāja** and **Śivasahāya** read अशरण्यानाम् (“for the shelterless ascetics”).
+
+_____________
+
+**3.30.10–11 (anyabhayāvahāḥ & śokarasajñāḥ)**
+
+On भयादन्यभयावहाः (`10d`), the demonesses who formerly terrified everyone else (पूर्वमन्यभयावहाः, _Bhūṣaṇa_) will now flee in terror. On शोकरसज्ञाः (`11a`) and निरर्थिकाः (`11b`), **Rāma Varmā** (_Tilaka_) and **Govindarāja** explain that Khara's wives—born of equally cruel clans (त्वत्सदृशदुष्टताः)—will now taste the full mood of grief (शोकस्थायिकरसज्ञाः) and lose the _puruṣārtha_ of desire (निर्गतकामपुरुषार्थाः).
+
+_____________
+
+**3.30.12 (Trembling Oblations)**
+
+On शङ्कितैरग्नौ मुनिभिः पात्यते हविः (`12c–d`), **Govindarāja** (_Bhūṣaṇa_) explains that even while pouring oblations into the sacred fire, the ascetics trembled lest Khara's demons snatch away the offering (किमेतदपहरिष्यन्तीति भीता भवन्तीत्यर्थः).
+
+_____________
+
+**3.30.13–15 (The Six Senses & Double Entendre at Death's Door)**
+
+On निरस्तषडिन्द्रियाः (`15d`), all three commentators explain that the “six senses” comprise the five organs of perception together with the mind (सान्तःकरणचक्षुरादिपञ्चेन्द्रियैः, _Tilaka_; मनसोऽपीन्द्रियत्वमिति मतेन, _Śiromaṇi_). **Rāma Varmā** suggests a double entendre (श्लेषः) in `15`: at the threshold of death, as the Lord's form dawns upon Khara, he obliquely confesses his own delusion and begs Rāma's pardon (अतस्त्वया मदुक्तयः क्षन्तव्या इति व्यङ्ग्यम्).
+
+_____________
+
+**3.30.16–17 (Scanning for a Weapon)**
+
+On महासालमविदूरे (`16c–d`) and `17`, **Śivasahāya** (_Śiromaṇi_) notes that `16–17b` form a single sentence (सार्धश्लोक एकान्वयी): scanning the battlefield for a weapon (प्रहरणस्यार्थे आयुधाय, _Bhūṣaṇa_), Khara spots and uproots a massive _sāla_ tree.
+
+_____________
+
+**3.30.17c–18 (Suggestiveness of Uprooting the sāla)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that biting his lower lip (दशनच्छदमधरं संदश्य) indicates how deeply rooted the _sāla_ tree was (सालस्य दुर्भेदत्वमुक्तम्), heaving it with both arms (बाहुभ्याम्) conveys its immense girth (सालस्थौल्यमुक्तम्), and roaring (विनद्येत्यादिना) conveys its terrifying impact (भयावहत्वमुच्यते).
+
+_____________
+
+**3.30.19–20 (Rāma's Wrath & Perspiration)**
+
+On रोषमाहारयत् (`19c`), **Govindarāja** (_Bhūṣaṇa_) remarks that Rāma summoned lethal wrath only after seeing that even when disarmed, Khara showed no trace of repentance (आनुकूल्यलेशलाभाभावात्). On जातस्वेदः (`20a`), **Rāma Varmā** (_Tilaka_) and **Govindarāja** stress that Rāma's perspiration arose from wrath (रोषाज्जातस्वेदः) and not fatigue (न तु श्रमात्), while **Rāma Varmā** adds that this anger is assumed like an actor's role (भगवतारोपित एव नटवत्).
+
+_____________
+
+**3.30.21–22 (Mount Prasravaṇa & vikalaḥ)**
+
+On गिरेः प्रस्रवणस्येव (`21c`), the commentators identify Prasravaṇa as the mountain's proper name (प्रस्रवणाख्यस्य गिरेः). On विकलः (`22a`), **Rāma Varmā** (_Tilaka_) glosses “bewildered, yet still unslain” (परवशः कृतः न तु हत इत्यर्थः), as shown by Khara charging blindly forward.
+
+_____________
+
+**3.30.23–24 (Why Rāma Stepped Back Two or Three Paces)**
+
+Explaining अपासर्पद् द्वित्रिपदम् (`23c`), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) give two reasons: first, as a master archer (कृतास्त्रः), Rāma needed clearance to draw and loose his shaft (भुजमोक्षमात्रावकाशलाभाय, _Bhūṣaṇa_); second, he recoiled from being splattered by the demon's foul blood (तत्स्पर्शबीभत्सनेनापसर्पणम्). Stepping back to gain room for the fatal shot is blameless (अपसर्पणं न दोषः).
+
+_____________
+
+**3.30.25–26 (Indra's Shaft Transmitted via Agastya)**
+
+On दत्तं मघवता (`25a`), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Indra had originally presented this infallible shaft to the sage Agastya, through whose hands it was bestowed upon Rāma (मघवता दत्तमगस्त्यद्वारा, _Tilaka_; अगस्त्यमुखेनेति शेषः, _Bhūṣaṇa_).
+
+_____________
+
+**3.30.27–28 (Śvetāraṇya & the Three Vedic Similes)**
+
+On `27d`, **Rāma Varmā** (_Tilaka_) notes two Purāṇic allusions corresponding to the two manuscript readings: with यथान्धकः, Rudra slew the demon Andhaka in the Śvetāraṇya grove; with the widespread reading यथान्तकः (प्रचुरः पाठः, adopted by **Govindarāja**), Śiva burned up Death (Antaka) at Śvetāraṇya on the Kāverī to save Mārkaṇḍeya or the royal sage Śveta (कौर्मे तूत्तरखण्डे श्वेतस्य राजर्षेः). On the three similes in `28`, **Govindarāja** explains that Vṛtra illustrates being slain by an infallible weapon (अमोघबाणहतत्वज्ञापनाय), Namuci—slain by foam—illustrates effortless sport (लीलया हतत्वज्ञापनाय), and Bala illustrates the supreme might of the slayer (समर्थाधिष्ठितत्वज्ञापनाय).
+
+_____________
+
+**3.30.29–30 (Three Ghaṭikās Duration of the Battle)**
+
+On अर्धाधिकमुहूर्तेन (`30c`), all three commentators explain that one _muhūrta_ equals two _ghaṭikās_ (48 minutes), so a _muhūrta_ and a half equals three _ghaṭikās_ (घटिकात्रयेण, 72 minutes)—the span within which Rāma single-handedly annihilated Khara, Dūṣaṇa, Triśiras, and all fourteen thousand demons.
+
+_____________
+
+**3.30.31–32 (Viṣṇu-Like Valor & Sequence of Stanzas)**
+
+In the acclamation of the gods (`30c–32`), **Śivasahāya** (_Śiromaṇi_) observes that the deities marvel at the threefold perfection of Rāma's feat, valor, and steadfastness (कर्मादित्रयं दृश्यते), comparing him directly to Viṣṇu (विष्णोरिव हि दृश्यते). **Govindarāja** (_Bhūṣaṇa_) notes that in his manuscript tradition verses `33c–37b` (the praise of the sages) precede `29a–33b` (the praise of the gods).
+
+_____________
+
+**3.30.33–34 (rājarṣayaḥ and paramarṣayaḥ)**
+
+Distinguishing the two classes of sages in `33c–d`, **Rāma Varmā** (_Tilaka_) glosses राजर्षयः as royal sages of the solar race descended from Manu (मनुभवाः) and परमर्षयः as _brahmarṣis_ descended from Bhṛgu and other mind-born seers (भृग्वाद्याः).
+
+_____________
+
+**3.30.34c–36 (Indra's Visit to Śarabhaṅga & the Sages' Stratagem)**
+
+Recalling Indra's visit to Śarabhaṅga's hermitage in Sarga 5, **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) explain that Indra had come specifically to instruct the sages to station Rāma in Pañcavaṭī for the destruction of Khara's host (राक्षसां वधायैतद्देशवासनियोजनार्थम्, _Tilaka_), and that the sages had led Rāma there through the courteous stratagem of hospitality (उपायेन सत्कारेण, _Bhūṣaṇa_).
+
+_____________
+
+**3.30.37–39 (Sītā's Gaze Upon the Victorious Rāma)**
+
+On तं दृष्ट्वा शत्रुहन्तारं महर्षीणां सुखावहम् (`39c–d`), **Govindarāja** (_Bhūṣaṇa_) observes that Sītā—anxious while Rāma fought fourteen thousand demons alone—now beholds him returning victorious, his chest graced with heroic battle-scars (वीरव्रणैश्च) and beads of perspiration, resting his hand upon his bow-staff. Pairing शत्रुहन्तारम् and महर्षीणां सुखावहम् expresses the twin purposes of the incarnation: destroying the wicked and protecting the righteous (दुष्टनिग्रह उक्तः शिष्टपरिपालनमाह).
+
+_____________
+
+**3.30.40 (Pregnant Sense of babhūva & Sītā's Embrace)**
+
+On बभूव हृष्टा वैदेही भर्तारं परिषस्वजे (`40a–b`), **Govindarāja** (_Bhūṣaṇa_) explains the pregnant force of बभूव (“came into being”): while separated from Rāma during the battle, Sītā was as if lifeless (पूर्वं सत्तारहिता सीता), and upon beholding him unscathed she regained her very existence (रामस्य स्रष्टुर्लाभात् स्वयमपि सत्तामवाप), embracing him on front, back, and sides (पश्चात् पुरस्तात् पार्श्वतश्च).
+
+_____________
+
+**3.30.41 (Esoteric Allegory of the Cave & Second Embrace)**
+
+Concluding Sarga 30, **Govindarāja** (_Bhūṣaṇa_) unveils the esoteric allegory of Sītā emerging from the cave (`38a`) to embrace Rāma: the soul (हृदयगुहागतो जीवः), guided by the preceptor (आचार्यबलेन, Lakṣmaṇa), beholds the Supreme Lord (परमशेषिणम्) after He has eradicated all obstacles (सकलविरोधिवर्गे निवर्तिते), and emerges into blissful communion. **Rāma Varmā** (_Tilaka_) notes that her second embrace springs from overflowing joy (हर्षातिशयात्पुनरालिङ्गनम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

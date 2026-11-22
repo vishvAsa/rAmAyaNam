@@ -631,6 +631,296 @@ give you a fight, listen." So said ocean to the demon. [4-11-11]
 
 “I am not able (_samartho nāsmi_) to give you battle, O knower of warfare (_yuddhaviśārada_); but hear, I shall declare to you him who will grant you battle!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.11.1–3 (Testing Rāma's Might by Recounting Vālin's Prowess)**
+
+Govindarāja (_Bhūṣaṇa_) remarks that in this eleventh _sarga_ Sugrīva describes Vālin's extraordinary strength out of a desire to test whether Rāma's power suffices to slay him (अथ सुग्रीवो वालिवधक्षमं रामबलं परीक्षितुकामस्तद्बलं दर्शयत्येकादशे). Śivasahāya (_Śiromaṇi_) links verses 2 and 3 into a single period (श्लोकद्वयमेकान्वयि) by supplying `although... nevertheless' (यद्यपीत्यध्याहृतम्). Rāma Varmā (_Tilaka_) distinguishes the triad of qualities in 4.11.3: पौरुषम् is abundance of bodily strength (बलवैभवम्), वीर्यम् is power to destroy foes (परसंहारशक्तिः), and धृतिः is firmness in battle (रणे धैर्यम्).
+
+_____________
+
+**4.11.4 (Vālin's Dawn Worship Across the Four Oceans)**
+
+All three commentators supply `rising at the _brāhma-muhūrta_' (ब्राह्मे मुहूर्ते उत्थायेति शेषः) before sunrise (अनुदिते सूर्ये). Govindarāja cites Tāra's speech from the _Uttarakāṇḍa_ (चतुर्थ्योऽपि समुद्रेभ्यः संध्यामन्वास्य रावण) to show that Vālin traverses all four oceans during a single twilight period to perform his morning _sandhyā_ rites without fatigue (संध्याकर्मकरणार्थं... व्यपगतक्लमः सन् क्रामति).
+
+_____________
+
+**4.11.5–6 (Juggling Peaks and Snapping Timber)**
+
+Both Rāma Varmā and Govindarāja explain that Vālin tosses massive mountain peaks into the air and catches them again like play-balls (कन्दुकवदिति भावः, कन्दुकानीवेति भावः). On सारवन्तः (4.11.6a), Govindarāja cites the _Amarakośa_ (सारो बले स्थिरांशे च) to gloss it as trees possessing hard, solid heartwood (स्थिरांशवन्तः), which Vālin snaps like a wrestler flexing his muscles (मल्लिकोत्सारणरीत्येति भावः).
+
+_____________
+
+**4.11.7–8 (Dundubhi's Buffalo Form and Arrogance)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain महिषः as an _asura_ wearing the form of a buffalo (महिषस्तद्रूपधरः, महिषाकृतिः), while Govindarāja (_Bhūṣaṇa_) glosses कैलासशिखरप्रभः as massive in form like a peak of Mount Kailāsa (तदाकार इत्यर्थः). Śivasahāya explains वीर्योत्सेकेन as arrogance born of martial prowess (पराक्रमगर्वेण) and नागसहस्रस्य as the strength of a thousand elephants (सहस्रसंख्याकगजस्य).
+
+_____________
+
+**4.11.9–10 (Challenging the Presiding Deity of the Ocean)**
+
+On ऊर्मिमन्तमतिक्रम्य (4.11.9a), Govindarāja notes that the gerund suffix does not express prior time here, meaning `assailing the ocean as he went' (पूर्वकालो न विवक्षितः आक्रामन् जगामेत्यर्थः). Rāma Varmā explains that Dundubhi treated the billowy physical sea with contempt (अतिक्रम्याविगणय्य) and addressed the presiding deity indwelling it (तदाविष्टां देवतामुवाच), who, as Govindarāja adds, rose up in anthropomorphic form (समुत्थाय पुरुषवेषेणोत्थाय).
+
+_____________
+
+**4.11.11–12 (The Ocean Directs Dundubhi to Himavān)**
+
+Declining combat with the fate-driven demon (कालचोदितमसुरम्), the Ocean directs him to Mount Himavān, father-in-law of Śiva (शङ्करश्वशुरः). On तपस्विशरणम् (4.11.12b), Śivasahāya takes शरणम् as protector of ascetics (तपस्विनां रक्षकः), whereas Govindarāja takes it as their supreme abode, noting that शरणम् in this sense is invariably neuter (तपस्विनां परमवासस्थानम् नित्यनपुंसकम्).
+
+_____________
+
+**4.11.13–14 (Flight to Himavān)**
+
+Śivasahāya (_Śiromaṇi_) links 4.11.13 directly with 4.11.12, explaining अतुलां प्रीतिम् (`peerless delight') as the satisfaction of combat (युद्धमित्यर्थः). When the Ocean thus declined battle, Dundubhi concluded that the Ocean was terrified (तं समुद्रं भीतं विज्ञाय) and darted to the forests of Himavān as swiftly as an arrow loosed from a bow (चापात् च्युतः शर इव हिमवद्वनम् आगच्छत्).
+
+_____________
+
+**4.11.15–16 (Shattering the White Crags and Himavān's Gentle Form)**
+
+On गजेन्द्रप्रतिमाः (4.11.15b), both Rāma Varmā (_Tilaka_) and Śivasahāya explain the comparison as referring specifically to Indra's white elephant Airāvata (गजेन्द्रैरावतः, ऐरावतसदृश्यः), matching the snow-white boulders (श्वेताः शिलाः) of the Himalaya. Śivasahāya notes that Himavān's form resembles a white cloud (श्वेताम्बुदाकारः) and is gentle precisely because his appearance inspires serene delight (प्रीतेरुत्पादिका आकृतिर्यस्य अत एव सौम्यः).
+
+_____________
+
+**4.11.17–18 (Himavān's Peaceful Plea and Dundubhi's Rage)**
+
+Explaining Himavān's reply (क्लेष्टुमिति), Śivasahāya notes the causal chain: because he is unskilled in the work of war (यतः रणकर्मसु अहमकुशलः), he serves solely as the protector of peaceful ascetics (तपस्विन एव शरणानि रक्ष्या यस्य सोऽहमस्मि), and therefore Dundubhi ought not to afflict him (मां क्लेष्टुं क्लेशं दातुं त्वं नार्हसि). Hearing this refusal of combat (युद्धानर्हत्वप्रतिपादकं वचनम्), Dundubhi's eyes turn red with his innate wrath (स्वाभाविककोपात्).
+
+_____________
+
+**4.11.19 (Dundubhi's Taunt)**
+
+Rāma Varmā (_Tilaka_) notes the _sandhi_ division युद्धे असमर्थः (`incapable in battle'). Govindarāja (_Bhūṣaṇa_) explains the dilemma posed by Dundubhi: whether Himavān is inherently incapable of combat or, though capable, refrains from effort out of terror (त्वं युद्धासमर्थो यदि यदि वा समर्थोऽपि मद्भयान्निरुद्यमः), in either case Dundubhi will not fight him (उभयथापि न त्वां योत्स्यामीत्यर्थः), and demands instead the name of an opponent for one eager to fight (युयुत्सतः योद्धुमिच्छतः).
+
+_____________
+
+**4.11.20–22 (Himavān's Unprecedented Anger and the Namuci Simile)**
+
+On अनुक्तपूर्वम् (4.11.20c), Rāma Varmā explains that peaceful Himavān had never before named a combatant to bring about another's destruction (इतः पूर्वं नोक्तो युद्धदाता यस्य), or had never before spoken in anger. Śivasahāya (_Śiromaṇi_) highlights the ominous simile नमुचेरिव वासवः (4.11.22d): just as Indra (वासवः) gave single combat to the demon Namuci and slew him, so Indra's son Vālin will grant Dundubhi fatal single combat (द्वन्द्वयुद्धम्).
+
+_____________
+
+**4.11.23–24 (Dispatch to Kiṣkindhā)**
+
+Extolling Vālin as ever unassailable (दुर्मर्षणः) and heroic in martial deeds (शूरः समरकर्मणि), Himavān bids Dundubhi hasten to Kiṣkindhā if he truly craves war; stung by Himavān's words, the wrathful demon (कोपाविष्टः स दुन्दुभिः) marches straightway to Vālin's capital.
+
+_____________
+
+**4.11.25–27 (The Buffalo-Demon at Kiṣkindhā's Gate)**
+
+Śivasahāya (_Śiromaṇi_) connects verse 25 syntactically with verse 24 (श्लोकद्वयमेकान्वयि) and verses 26–27 as another paired unit: resembling a rain-laden monsoon cloud (प्रावृषि तोयपूर्णः महामेघ इव), Dundubhi bellows like a war-drum (दुन्दुभिर्यथा दुन्दुभिर्ननर्द) while goring the city gate of Kiṣkindhā with his horn (विषाणेन शृङ्गेण), which Govindarāja (_Bhūṣaṇa_) glosses as splitting it open (उल्लिखन् उद्भिन्दन्).
+
+_____________
+
+**4.11.28–29 (Vālin Emerges Like the Moon Among Stars)**
+
+When Vālin emerges from the women's quarters accompanied by his consorts (सह स्त्रीभिः) like the moon surrounded by stars (ताराभिश्चन्द्रमा इव), Govindarāja notes that his coming out still attended by women reflects the flush of amorous intoxication (मदातिरेकादिति भावः). Even so, Vālin addresses the demon in concise, clearly articulated words (मितानि प्रमितानि व्यक्तानि स्फुटानि अक्षरपदानि यस्मिन्), while Govindarāja notes that वनचारिणाम् (4.11.29d) includes the bears and other forest troops (भल्लूकवादीनाम्).
+
+_____________
+
+**4.11.30 (Vālin's Contemptuous Warning)**
+
+Both Rāma Varmā (_Tilaka_) and Śivasahāya highlight the force of विदितो मेऽसि (`you are known to me'): Vālin intimates that he already knows the paltry measure of Dundubhi's strength (मया ज्ञातबलोऽसि, तत्पराक्रमस्याल्पत्वं ध्वनितम्), and therefore bids him flee to save his life (अतः प्राणान्रक्ष) before his roaring costs him his head (विनर्दने त्वां हनिष्यामीति सूचितम्).
+
+_____________
+
+**4.11.31–33 (Dundubhi's Taunt and Reprieve Until Dawn)**
+
+On 4.11.32, Govindarāja (_Bhūṣaṇa_) and Śivasahāya (_Śiromaṇi_) note that whether वीर is taken as a vocative or compounded as वीरवचनम् (`heroic boast'), Dundubhi insinuates that Vālin speaks boldly only to impress his women (स्त्रीजनभ्रामकं वचनम्, स्त्रीवञ्चनायैव एवं वचनं त्वयोक्तम्). On गृह्यतामुदयः (4.11.33c), Rāma Varmā (_Tilaka_) and Govindarāja gloss उदयः as sunrise (सूर्योदयः) set as the time-limit (अवधित्वेन गृह्यताम्) until which Vālin may indulge in pleasure, whereas Śivasahāya takes उदयः as attachment (आसक्तिः) to sensual enjoyments for this night.
+
+_____________
+
+**4.11.34–35 (Mocking Instructions for Last Rites)**
+
+All three commentators explain verses 34–35 as ironical instructions for a man about to die (अन्तकालकृत्यं निशायेव क्रियताम्): Vālin should embrace his kinsmen in a final farewell (अन्तकालोचितालिङ्गनम्) and distribute dying gifts (चरमकालदानं दीयताम्), gaze upon Kiṣkindhā one last time since he will never see it again (पुनर्दर्शनासंभवात्), and install a successor on the throne (आत्मसमं राजानमित्यर्थः).
+
+_____________
+
+**4.11.36 (The Code Against Slaying the Intoxicated)**
+
+Explaining why he spares Vālin until morning, Dundubhi equates slaying an incapacitated foe with भ्रूणहा (which Govindarāja glosses as गर्भवधकृत्). Rāma Varmā and Govindarāja distinguish मत्तम् (`intoxicated with wine', मधुपानादिना), प्रमत्तम् (`heedless', अनवहितम्), रहितम् (`unarmed', आयुधादिशून्यम्), and मदमोहितम् (`bewildered by amorous passion amidst women', स्त्रीमध्यगतं मदनमोहितम्).
+
+_____________
+
+**4.11.37–38 (The Hero's Draught of Battle)**
+
+Govindarāja (_Bhūṣaṇa_) remarks that Vālin smiles gently (मन्दं प्रहस्य) at Dundubhi's sermon because the demon had couched his taunt in the language of _dharma_ (धर्मान्वितवाक्यत्वादिति भावः). All three commentators explain वीरपानम् (4.11.38d): Vālin bids Dundubhi regard (समर्थ्यतां मन्यताम्) his amorous intoxication (स्त्रीगोष्ठीजनितोऽपि मदः) as the `hero's draught'—the ritual war-drink quaffed by warriors at the outset of battle to heighten martial ardor (वीरपानं नाम युद्धोपक्रमे उत्साहवर्धनाय वीरैः क्रियमाणं पानम्).
+
+_____________
+
+**4.11.39 (Mahendra's Victory-Bestowing Golden Garland)**
+
+On मालामुत्क्षिप्य काञ्चनीम्, Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain उत्क्षिप्य as placing the victory-giving golden necklace around his neck (कण्ठे प्रतिमुच्य । एषा हि माला संग्रामजयदा), while Govindarāja explains it as slinging it over his shoulders (अंसयोरुपरि विन्यस्य) and recalls Indra's boon: whoever confronts Vālin while he wears this golden garland forfeits all his strength to Vālin (तस्य बलं सर्वं तवैव भविष्यतीति महेन्द्रेण दत्तामित्यर्थः).
+
+_____________
+
+**4.11.40–42 (Whirling Dundubhi by the Horns)**
+
+On आविध्यत (4.11.40c), Govindarāja glosses it as whirled him around (अभ्रामयत्), Rāma Varmā as hurled (क्षिप्तवान्), and Śivasahāya as battered down (बलादवताडयत्). All three gloss पात्यतः (4.11.41d) as passive पात्यमानस्य (`as he was being dashed down'), and Govindarāja explains that blood gushed from Dundubhi's ears because Vālin wrenched the horns rooted beside them (श्रोत्रमूलविषाणपीडनादिति भावः).
+
+_____________
+
+**4.11.43–44 (The Escalation of Combat and Indra's Boon in Action)**
+
+Rāma Varmā (_Tilaka_) notes that verses 42–46 elaborate in detail (अस्यैव प्रपञ्चः) the summary statement of Dundubhi's overthrow in verse 41. As the monkey and the demon trade blows (परस्परं घ्नतोः सतोः) with fists, knees, boulders, and trees, Śivasahāya (_Śiromaṇi_) and Rāma Varmā point out the working of Indra's golden garland: the demon Dundubhi steadily loses his strength (हीनो हीनबलः, क्षीणबल आसीत्), while Śakra's son Vālin grows ever mightier (व्यवर्धत प्रबलत्वं प्राप्नोत्).
+
+_____________
+
+**4.11.45–46 (Crushing Dundubhi to Death)**
+
+On उद्यम्य (4.11.45a), Rāma Varmā and Śivasahāya gloss it as lifting Dundubhi high with both hands (हस्ताभ्यामूर्ध्वीकृत्य) and slamming him onto the ground so that he is crushed (निष्पिष्टः); Rāma Varmā also records a variant reading उरसा (with उत्पाट्य), explaining it as tearing out Dundubhi's horns against his chest (उत्पाटितविषाणं कृत्वेत्यर्थः). On स्रोतोभ्यः (4.11.46a), Rāma Varmā glosses it as from the nostrils and other bodily apertures (नासादिद्वारेभ्यः) as the giant perishes (पञ्चत्वमागतः).
+
+_____________
+
+**4.11.47–48 (The One-Yojana Hurl into Mataṅga's Grove)**
+
+Hefting (तोलयित्वा) the lifeless carcass with both arms, Vālin hurls it an entire _yojana_ in a single cast (वेगेनैकेन योजनम्), causing wind-borne drops of blood (क्षतजबिन्दवः) from the demon's jaws to rain down upon Sage Mataṅga's hermitage.
+
+_____________
+
+**4.11.49–50 (Mataṅga's Defilement and Indignant Inquiry)**
+
+Both Govindarāja (_Bhūṣaṇa_) and Śivasahāya (_Śiromaṇi_) note that treating शोणितविप्रुषः (`drops of blood') and its modifiers तान् पतितान् as masculine plural is an epic (_ārṣa_) license (पुंलिङ्गत्वमार्षम्). On स्पृष्टः शोणितेन (4.11.50a–b), Govindarāja observes an implicit causative sense (अन्तर्भावितण्यर्थः, `caused to be touched by blood'), and glosses अकृतात्मा as one whose inner mind is undisciplined (अवशीकृतान्तःकरणः) and बालिशः as a fool (मूर्खः).
+
+_____________
+
+**4.11.51–52 (Ascetic Clairvoyance and the Great Curse)**
+
+Stepping outside his hermitage and seeing the mountain-like buffalo lying lifeless (गतासुम्), Sage Mataṅga ascertains through the spiritual eye of his penance (तपसा ज्ञानचक्षुषा, तपोमाहात्म्येन) that a monkey had perpetrated the deed, and unleashes a terrible curse against the monkey who had flung the demon's carcass (क्षेप्तारम् असुरशरीरस्येति शेषः).
+
+_____________
+
+**4.11.53–54 (The One-Yojana Boundary of Death)**
+
+All three commentators construe आसुरीं तनुं क्षिपता in 4.11.54 together with येन in 4.11.53 (`by whom, in flinging the demon's body, these trees too were shattered'), while Śivasahāya notes that verse 54 forms a single syntactic unit with the first half of verse 55 (सार्धश्लोक एकान्वयी), fixing a one-_yojana_ perimeter around the hermitage (समन्तात्पूर्णं योजनं मामकमाश्रमम्).
+
+_____________
+
+**4.11.55–57 (Banishment of Vālin's Retainers from the Grove)**
+
+Reading आक्रमिष्यति in 4.11.55a, Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain that if Vālin sets foot (पद्भ्यां स्प्रक्ष्यति) within a _yojana_ of the hermitage, he shall instantly perish (न भविष्यति मरिष्यतीत्यर्थः). Extending the expulsion to Vālin's followers (सचिवाः), Śivasahāya links verses 56–57 into a single sentence (सार्धश्लोक एकान्वयी): because the monkeys despoil the tender shoots, fruits, and roots of a grove nurtured like a son (पुत्रवत्परिरक्षिते), Mataṅga vows to curse them if they linger.
+
+_____________
+
+**4.11.58 (The Sunset Deadline and Petrification Curse)**
+
+All three commentators explain दिवसश्चाद्य मर्यादा (`this very day is the grace limit') together with the periphrastic future द्रष्टास्मि: whatever monkey partisan of Vālin (वालिसंबन्धिनं वानरम्) the sage sees tomorrow (श्वः परदिने) shall be turned into stone (शैलो भविष्यति) for many thousands of years.
+
+_____________
+
+**4.11.59–60 (The Exodus of Monkeys to Vālin)**
+
+Glossing गिरम् as the sage's curse (शापम्), Govindarāja (_Bhūṣaṇa_) and Śivasahāya note that when the residents of Mataṅga's forest flee en masse to Kiṣkindhā, Vālin anxiously asks why they have all arrived together (समस्ताः निखिला भवन्तः मत्समीपं किमर्थमनुप्राप्ताः) and whether all is well with the monkeys (वनौकसां वानरेभ्यः अपि स्वस्ति, using the genitive in a dative sense with स्वस्ति).
+
+_____________
+
+**4.11.61–62 (Vālin's Vain Supplication)**
+
+Govindarāja (_Bhūṣaṇa_) explains कारणं सर्वम् (4.11.61a) as the entire sequence of events beginning with the falling of Dundubhi's carcass and blood drops into the hermitage (दुन्दुभिकायादिपतनम्). Both Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) supply the object of याचते स्म (4.11.62d): Vālin folded his hands and begged the sage for release from the curse (शापमोक्षमिति शेषः, शापनिवृत्तये प्रार्थनां चक्रे).
+
+_____________
+
+**4.11.63–65 (Mataṅga's Refusal and Sugrīva's Sanctuary)**
+
+Refusing Vālin's plea (प्रार्थनामनङ्गीकृत्येत्यर्थः), Sage Mataṅga retires into his hermitage. Rāma Varmā explains शापधारणभीतः (4.11.63c) as terrified by his awareness of the fatal guilt attached to the curse (शापविषयदोषज्ञानेन), so that Vālin no longer dares even to gaze toward Mount Ṛṣyamūka (प्रवेष्टुं द्रष्टुं वा नेच्छति), allowing Sugrīva and his four ministers to roam the forest free of grief (विषादेन दुःखेन विवर्जितः).
+
+_____________
+
+**4.11.66 (The Mountain-Like Skeleton of Dundubhi)**
+
+Pointing directly before Rāma (एष संप्रकाशते), Sugrīva displays the towering skeleton (अस्थिनिचयः, which Rāma Varmā and Govindarāja gloss as शुष्ककायः, `dried-up carcass') of Dundubhi, who was destroyed because of his own overweening pride of valor (वीर्योत्सेकात्स्ववीर्यगर्वात् निरस्तस्य).
+
+_____________
+
+**4.11.67–68 (Two Classical Interpretations of निष्पत्रयितुम्)**
+
+All three commentators discuss the celebrated crux निष्पत्रयितुमोजसा. Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) give as the primary meaning that Vālin grasps one massive _sāla_ tree by its trunk and shakes it with such force (ओजसा ओजोयुक्तकम्पनेन) that he strips it bare of every leaf (पत्रहीनान्कर्तुं घटते), surpassing even the wind (वायोरप्यधिकं बलं सूचितम्). Both Rāma Varmā (केचित्तु) and Govindarāja (_Bhūṣaṇa_) also record a second interpretation, citing the grammatical rule सपत्रनिष्पत्रादतिव्यथने: Vālin shoots an arrow with bare strength (ओजसा नतु धनुषा) so that it passes clean through one _sāla_ trunk, emerging feathers and all (शरो निष्पत्रो यथा गच्छति तथा).
+
+_____________
+
+**4.11.69–70 (Lakṣmaṇa's Smile and Vālin's Feat)**
+
+Rāma Varmā explains that Lakṣmaṇa smiles (प्रहसन्) because Sugrīva doubts only out of ignorance of the Lord's transcendent power (भगवद्वीर्याज्ञानादेवं वदतीति हासः). On 4.11.70d, Rāma Varmā explains विव्याथ as an epic active perfect of √व्यथ् meaning shook and stripped one by one (एकैकशः... पीडितवान् आर्षं परस्मैपदम्), while noting the variant विव्याध (`pierced').
+
+_____________
+
+**4.11.71–72 (The Two Tests of Rāma's Might)**
+
+Sugrīva proposes two proofs: cleaving one of the _sāla_ trees with a single arrow (बाणेनैकेन) and hurling Dundubhi's skeleton two hundred bow-lengths (द्वे धनुःशते) with a single foot (पादेनैकेन)—because, as Rāma Varmā observes, a dead bone is impure to touch with the hand (अस्थ्नो हस्तेन स्पर्शायोग्यत्वात्).
+
+_____________
+
+**4.11.73–74 (Sugrīva's Moment of Reflection)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) explain ध्यात्वा मुहूर्तम् as Sugrīva's inward pause to ponder whether Rāma, whose martial power he has not yet witnessed firsthand, can truly slay Vālin (रामवीर्यस्याप्रत्यक्षत्वाद्रामेण वालिवधः शक्यो न वेति संचिन्त्य). Govindarāja (_Bhūṣaṇa_) adds that Sugrīva fears his demand for a test might offend Rāma and therefore speaks conciliatory words (एवमविश्वासकरणे रुष्टो भवेन्न वेत्येतदालोच्य यथा रामः संतुष्यति तथा वदति).
+
+_____________
+
+**4.11.75–77 (Dread of the Unconquerable Vālin)**
+
+Glossing अजय्यम् as impossible to conquer (जेतुमशक्यम्), अधृष्यम् as impossible to assail (धर्षयितुमशक्यम्), and अमर्षणम् as merciless (क्षमारहितम्), Śivasahāya notes that Sugrīva's constant brooding over Vālin's superhuman feats—difficult even for the celestials (दुष्कराणि सुरैरपि)—keeps him confined in terror (उद्विग्नः भीतः) to Ṛṣyamūka with his devoted counselors led by Hanumān.
+
+_____________
+
+**4.11.78 (Refuge in Rāma as in Himavān)**
+
+Addressing Rāma as मित्रवत्सल (`tenderly devoted to friends'), Sugrīva declares that he has found a praiseworthy true ally (श्लाघ्यं प्रशंसनीयं सन्मित्रम्) and has resorted to Rāma as securely as one takes shelter in Mount Himavān (हिमवन्तमिव त्वामहमाश्रितः).
+
+_____________
+
+**4.11.79–80 (Apology for Timidity Born of Trauma)**
+
+Answering why he still harbors doubt after taking refuge in Rāma (यदि मामाश्रितस्त्वं त्यज वालिभयम्), Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) summarize Sugrīva's plight: Vālin's might is known to him by bitter experience, whereas Rāma's prowess in war remains unseen (तद्बलं ज्ञातं त्वद्बलं चाज्ञातमतो भयमित्यर्थः). On न त्वां तुलये (4.11.80a), Rāma Varmā glosses it as `I am not putting your strength to a test' (त्वद्बलपरीक्षां न कुर्व इति भावः), while Śivasahāya explains it as `I do not compare you with anyone else' (केनचित्सदृशं न जानामि).
+
+_____________
+
+**4.11.81 (Fire Concealed Beneath Ashes)**
+
+Govindarāja (_Bhūṣaṇa_) distinguishes the four outward tokens of Rāma's majesty: वाणी (`unwavering speech', एकरूपं वचनम्), प्रमाणम् (`stature of body', वपुः), धैर्यम् (`inner unshakability', अन्तःस्थिरता), and आकृतिः (`divine form'). Rāma Varmā notes that the simile of fire hidden under ashes (भस्मच्छन्नमिवानलम्) points to Rāma's world-destroying power veiled beneath the calm exterior of an ascetic (गुप्तावस्थितिमहाशक्तिमत्त्वं सूचितम्).
+
+_____________
+
+**4.11.82–83 (Rāma's Smile and Promise of Proof)**
+
+Both Rāma Varmā and Śivasahāya construe the two locatives अस्मासु विक्रमे by _sāmānādhikaraṇya_ (`in the valor abiding in us', अस्मन्निष्ठविक्रमे) and note the double sense of प्रत्ययः: if Sugrīva lacks trust (विश्वासः), Rāma will immediately generate visible proof (प्रतीतिविषयीभूतविक्रमम्).
+
+_____________
+
+**4.11.84–85 (The Ten-Yojana Flick of Rāma's Toe)**
+
+Śivasahāya (_Śiromaṇi_) notes that verses 84–85 form a single sentence (श्लोकद्वयमेकान्वयि) and explains why both the object (दुन्दुभेः कायम् / असुरस्य तनुं शुष्काम्) and the instrument (पादाङ्गुष्ठेन) are stated twice: the repetition links the big toe explicitly with both actions—first hefting (तोलयित्वा) the skeleton and then flicking (चिक्षेप) it ten _yojanas_ in effortless play (लीलया). Govindarāja (_Bhūṣaṇa_) remarks that Rāma consoles (सान्त्वम्) Sugrīva because the demand for proof showed how deeply distressed the monkey was.
+
+_____________
+
+**4.11.86 (Sugrīva Remains Unconvinced)**
+
+Rāma Varmā (_Tilaka_) supplies अनुत्पन्नप्रत्यय इति शेषः (`still not having gained full conviction') and glosses अर्थवत् as backed by plausible reasoning (उपपत्तियुक्तम्). Śivasahāya construes लक्ष्ममस्याग्रतः तपन्तमिव भास्करम् as Rāma shining like the sun in front of Lakṣmaṇa and the monkeys.
+
+_____________
+
+**4.11.87–88 (Fresh Carcass Versus Dried Skeleton)**
+
+Govindarāja and Śivasahāya highlight the double contrast Sugrīva draws both in the object hurled and in the hurler (प्रक्षेप्तृतारतम्यमाह): Vālin flung the body when it was wet with blood (आर्द्रः सरक्तः), heavy with flesh (समांसः), and still twitching with fresh life (प्रत्यग्रः यत्किंचित्प्राणचेष्टायुक्तः), even while Vālin himself was exhausted from combat (परिश्रान्तेन) and drunk (मत्तेन); Rāma, Fresh and cheerful (प्रहर्षेण), has flung a fleshless (निर्मांसः) skeleton light as straw (तृणभूतः).
+
+_____________
+
+**4.11.89–90 (The Unresolved Doubt and the Decisive Test)**
+
+All three commentators explain Sugrīva's syllogism: because there is an immense disparity (सुमहदन्तरं तारतम्यम्) between a blood-heavy carcass and a parched skeleton (आर्द्रं शुष्कमिति), the prior doubt regarding the relative strength of Rāma and Vālin remains undecided (स एव संशयो वर्तते संशयो न निवृत्त इत्यर्थः). Only by cleaving one of the seven _sāla_ trees will clear discrimination of superiority (व्यक्तिः प्रकटता, विशेषज्ञानम्) be established.
+
+_____________
+
+**4.11.91–92 (Drawing the Bow and the Oath of Friendship)**
+
+Śivasahāya (_Śiromaṇi_) links 4.11.90c–d and 4.11.91 into a single period (सार्धश्लोक एकान्वयी): Rāma should string his bow, which resembles a stately elephant's trunk (हस्तिहस्तमिव), draw the string back to his ear (आकर्णपूर्णमायम्य), and loose a mighty shaft. On 4.11.92, Rāma Varmā (_Tilaka_) explains अलं विमर्शेन as `do not hesitate any longer' (त्वया विमर्शो विचारो न कर्तव्यः), since Sugrīva binds Rāma by the oath of their newly sworn friendship (मया सख्या संप्रति शापितः).
+
+_____________
+
+**4.11.93 (The Fourfold Panegyric of Rāma's Supremacy)**
+
+Concluding the eleventh _sarga_ with a three-limbed simile—the sun among luminaries (तेजःसु तेजस्विषु), Himavān among mountains, and the lion (केसरी) among quadrupeds—Rāma Varmā notes the implied condition: when Rāma pierces the _sāla_ tree (सालभेदने सतीति शेषः), he will stand proven supreme in valor among all men (विक्रमे वरः श्रेष्ठत्वेनाभिमतोऽसि).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

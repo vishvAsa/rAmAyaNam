@@ -1691,6 +1691,206 @@ all the desired objects, you may leave tomorrow at dawn."
 
 “Beholding your mother and me, dwell here for this night today (_vasemām adya śarvarīm_); gratified with all desired comforts (_tarpitaḥ sarva-kāmaiḥ_), you shall set forth tomorrow at daybreak (_śvaḥ kālye sādhayiṣyasi_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.34.1–2 (nirupamaḥ / nirdaraḥ & Rāma's Unchanging Serenity)**
+
+On the repetition of Rāma's command to Sumantra at the opening of the canto, **Govindarāja** (_Bhūṣaṇa_) explains that Vālmīki reiterates the close of Sarga 33 to link the narrative seamlessly and highlight Rāma's freedom from perturbation (विशेषणैरविकारत्वं सूच्यते). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** note the variant निर्दरः (“free from fear or grief”, तद्भयशून्यः) alongside निरुपमः (“peerless”, _Śiromaṇi_).
+
+_____________
+
+**2.34.3–5 (uparaktam ivādityam & Sumantra's Faltering Voice)**
+
+In v. 3, all three commentators gloss उपरक्तम् as “eclipsed by Rāhu” (राहुग्रस्तम्), **Tilaka** and **Govindarāja** noting that the repetition of the verb (ददर्श... अपश्यत्) reflects Vālmīki's own sorrowful absorption in the scene or introduces the triad of similes. In vv. 4–5, **Tilaka** and **Śivasahāya** (_Śiromaṇi_) gloss आबोध्य as “having respectfully addressed with the title _Mahārāja_” and वर्धयित्वा as “having honoured with blessings of victory” (जयाशिषा संपूज्य). Sumantra's voice trembles with fear (भयविक्लवया) lest the news of Rāma's imminent departure shatter the grieving king.
+
+_____________
+
+**2.34.6 (upajīvinām)**
+
+All three commentators construe the genitive उपजीविनाम् in the dative sense (तेभ्यश्च दत्त्वा), **Tilaka** observing that Rāma's total distribution of his household goods (गृहोपकरणादिकम्, _Bhūṣaṇa_) underscores his complete renunciation of any desire to remain in Ayodhyā.
+
+_____________
+
+**2.34.7–8 (sarvān suhṛda āpṛcchya & The Solar Simile)**
+
+In vv. 7–8, **Śivasahāya** (_Śiromaṇi_) explains आपृच्छ्य as having obtained the leave of all his friends for his forest journey (वनगमनाय संमतिं कारयित्वा): encircled by every royal virtue like the sun by its rays (आदित्यमिव रश्मिभिः), Rāma awaits his father's final audience.
+
+_____________
+
+**2.34.9–10 (ākāśa iva niṣpaṅkaḥ & Summoning the Queens)**
+
+On निष्पङ्कः (v. 9c), **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** gloss it as “free from the mire of sin or blemish” (निष्पापः, निरुपधः): even while banishing his beloved son, Daśaratha remains untainted by unrighteousness because he acts solely to preserve his pledged word. **Tilaka** also records the variant निस्पन्दः (“motionless like the sky”). In v. 10, the masculine plural दाराः governs the masculine pronouns ये केचिन्मामकाः (“whichever wives of mine reside in my palace”).
+
+_____________
+
+**2.34.11–12 (atītyaiva & The Queens' Obedience)**
+
+In v. 11, **Tilaka** glosses अतीत्य as “having entered with great speed” (अतिवेगेन प्राप्य) and notes that the queens call the king आर्यः out of wifely reverence (स्त्रीसंबन्धात्). Hearing their husband's command, all the royal women immediately proceed to Kaikeyī's palace (तद्भवनं तस्य राज्ञो भवनम्).
+
+_____________
+
+**2.34.13 (ardhasaptaśatāḥ & The Number of Daśaratha's Queens)**
+
+All three commentators analyze अर्धसप्तशताः via the Pāṇinian rule _ardhaṃ napuṃsakam_ as a partitive compound (_ekadeśisamāsa_) meaning “half of seven hundred”—that is, three hundred and fifty royal women (सार्धशतत्रयसंख्याकाः, _Śiromaṇi_), carrying the possessive suffix -अच्. **Rāma Varmā** (_Tilaka_) corroborates this exact count by citing Kausalyā's later statement that the two halves total seven hundred (स्त्रियः सप्तशताश्चापि), and notes that their encircling Kausalyā confirms her status as the chief queen (सर्वमहिषीत्वं ध्वनितम्). Their eyes are copper-red (ताम्रलोचनाः) from weeping over Rāma's banishment.
+
+_____________
+
+**2.34.14–16 (ārāt & Rising to Embrace Rāma)**
+
+In v. 16, **Tilaka** and **Śivasahāya** gloss आरात् as “from a distance” (दूरतः): seeing Rāma approaching with folded hands, Daśaratha springs up from his seat (उत्पपात) in order to embrace him (आलिङ्गनार्थम्).
+
+_____________
+
+**2.34.17–18 (tam asamprāpya & The King's Collapse)**
+
+Unable even to reach the son he longed to embrace (आलिङ्गिषितं राममप्राप्य मध्य एव, _Tilaka_), Daśaratha collapses in a swoon. In v. 18, **Tilaka** and **Govindarāja** (_Bhūṣaṇa_) take इव in विसंज्ञमिव in the sense of एव (“completely unconscious”), while Rāma and Lakṣmaṇa rush forward to lift him up (उत्थापनार्थम्).
+
+_____________
+
+**2.34.19–20 (bhūṣaṇadhvanimiśritaḥ & Seating the King on the Couch)**
+
+On v. 19, **Rāma Varmā** (_Tilaka_) explains that as the thousand palace women beat their breasts and heads in grief (उरःशिरस्ताडनादिना), the clinking of their bracelets mingled with cries of “Alas, Rāma!” Both **Tilaka** and **Govindarāja** (_Bhūṣaṇa_) note the reading मूर्च्छितः (“pervaded or amplified by ornament-sounds”). In v. 20, **Tilaka** remarks that Rāma, Lakṣmaṇa, and Sītā lifted Daśaratha gently in their arms so as to cause him no pain (यथा पीडा न भवति) and placed him on his couch (पर्यङ्के समवेशयन्).
+
+_____________
+
+**2.34.21–22 (muhūrtasya & paśya tvaṃ kuśalena mām)**
+
+On मुहूर्तस्य (v. 21a), **Śivasahāya** (_Śiromaṇi_) explains the genitive as expressing general temporal relation (संबन्धसामान्ये षष्ठी), while **Govindarāja** prefers the instrumental मुहूर्तेन. In v. 22, **Tilaka** and **Govindarāja** gloss कुशलेन मां पश्य as “look upon me with a benignant eye and bless me with auspicious words” (मङ्गलेन चक्षुषा वाचा च मामनुगृहाण).
+
+_____________
+
+**2.34.23–24 (prajāpatir ivātmajān)**
+
+In v. 23, Rāma explains that Lakṣmaṇa and Sītā refused to remain behind despite his many true arguments (कारणैर्बहुभिस्तथ्यैः). In v. 24, **Tilaka** explains the simile प्रजापतिरिवात्मजान्: just as Brahmā gladly permitted his mind-born sons Sanaka and the others to depart for the forest to practice austerities (सनकादीन् तपांसि चरितुम्), so too should Daśaratha grant leave to Rāma, Lakṣmaṇa, and Sītā.
+
+_____________
+
+**2.34.25–26 (nigṛhya mām & Daśaratha's Plea to Be Deposed)**
+
+In v. 25, all three commentators construe वनवासाय with अनुज्ञाम् (“awaiting the king's leave for forest residence”) and gloss अव्यग्रम् as “free from the slightest dejection” (लेशतोऽपि विषादरहितम्, _Tilaka_). In v. 26, **Rāma Varmā** (_Tilaka_) explains Daśaratha's plea: since the king has been robbed of his judgment by Kaikeyī's boon (वरदानेन मोहितः) and become enslaved to a woman (स्त्रीपरवशो जातः), he considers himself unfit to rule (अतो राज्यानर्हः) and urges Rāma to confine him (मां निगृह्य बद्ध्वा) and complete his own consecration.
+
+_____________
+
+**2.34.27–29 (varṣasahasrāya & punaḥ pādau grahīṣyāmi)**
+
+In v. 28, **Tilaka** explains that Rāma refuses to depose his father lest the king fall into hell through a broken vow (तव नरकपातप्रसङ्गात्); **Govindarāja** (_Bhūṣaṇa_) reads न मे कार्यं त्वयानृतम् (“you must not utter an untruth on my account”). On v. 29 (पुनः पादौ ग्रहीष्यामि प्रतिज्ञान्ते), **Śivasahāya** (_Śiromaṇi_) addresses how Rāma's promise to clasp his father's feet after fourteen years remains true despite Daśaratha's death: पुनः hints that Rāma will behold Daśaratha again in the interim (when the celestial king descends after the fire-ordeal), and at the end of exile Rāma clasps the feet of his mothers, who are non-different from his father (मातापितरौ अभेदाध्यवसायात्).
+
+_____________
+
+**2.34.30 (kaikeyyā codyamānas tu mithaḥ)**
+
+**Tilaka** and **Govindarāja** explain मिथः as “secretly” (रहसि): fearing that Daśaratha might relent, Kaikeyī covertly signals him to dispatch Rāma at once.
+
+_____________
+
+**2.34.31–32 (śreyase vṛddhaye & Rāma's Unshakeable Resolve)**
+
+On v. 31, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) distinguish श्रेयसे as otherworldly merit (पारलौकिकफलाय) and वृद्धये as worldly prosperity (ऐहिकफलाय), glossing अरिष्टम् as auspicious (शुभम्). In v. 32, citing _Vaijayantī_ (आत्मा देहे धृतौ जीवे स्वभावे), **Govindarāja** glosses सत्यात्मनः as “of one whose innate nature is truth” (सत्यस्वभावस्य).
+
+_____________
+
+**2.34.33–34 (adya tv idānīṃ rajanīm & The Timeline of Rāma's Departure)**
+
+Explaining the chronology of the day in v. 33, **Tilaka** observes that Rāma had left Kaikeyī's chamber early in the morning, spent three watches (_praharas_) taking leave of his mother and distributing his wealth, and returned to Daśaratha in the fourth watch of the afternoon (तुर्ययामे राजाज्ञामलब्धमागस्य); hence इदानीम् points to the immediately approaching night (समीपलक्षकम्). Both **Tilaka** and **Govindarāja** gloss साधयिष्यसि (v. 34d) as “you shall depart” (गमिष्यसि) at dawn (काल्ये प्रातःकाले).
+
+_____________
+
+**2.34.35–36 (matpriyārtham & The Fire-Under-Ashes Simile)**
+
+To prevent contradiction between मत्प्रियार्थम् (v. 35c) and न चैतन्मे प्रियम् (v. 36a), **Tilaka** and **Govindarāja** explain मत्प्रियार्थम् as “for the sake of my welfare in the next world through preserving my truth” (मम परलोकहिताय), while न चैतन्मे प्रियम् means Rāma's exile is personally hateful to him. Kaikeyī, hiding her cruel intent (गूढक्रूराभिप्रायया), has deceived him like live coals hidden under ashes (भस्माग्निकल्पया).
+
+_____________
+
+**2.34.37–38 (vañcanā yā tu labdhā me & vṛttasādinyā)**
+
+On वञ्चना (v. 37a), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Kaikeyī's trickery consisted in turning two general,unspecified boons into the specific demands of Bharata's consecration and Rāma's exile (सामान्येन प्रतिश्रुतवरयोर्भरताभिषेचनत्वद्विवासनरूपविशेषपर्यवसायित्वरूपा). Glossing वृत्तसादिन्या as “destroyer of conduct befitting our royal lineage” (कुलोचितचारित्रनाशिन्या), they note Daśaratha's marvel at Rāma's virtue: though the king is the victim of fraud, Rāma insists on fulfilling the pledge (निस्तर्तुं समापयितुमिच्छसि) so that his father remains free of untruth (अपानृतकथम्).
+
+_____________
+
+**2.34.39–40 (dīnaḥ & Answering the Plea to Stay One Night)**
+
+$18
+
+_____________
+
+**2.34.41–42 (mayā visṛṣṭā vasudhā)**
+
+Rāma relinquishes the entire earth (विसृष्टा त्यक्ता) for Bharata and links v. 42cd syntactically to v. 43a (यस्तु युद्धे वरो दत्तः... दीयतां निखिलेनैव).
+
+_____________
+
+**2.34.43–45 (dīyatāṃ nikhilenaiva & mā vimarśaḥ)**
+
+Completing the sentence begun in v. 42c, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain निखिलेनैव as “in its entirety—both Bharata's consecration and my forest exile” (अद्य मत्प्रस्थापनात्). Glossing वनचरैः (v. 44b) as forest ascetics (तपस्विभिः), **Śivasahāya** (_Śiromaṇi_) notes that मा विमर्शः (“let there be no hesitation”) directly answers Daśaratha's earlier plea भव राजा निगृह्य माम् (v. 26d). In v. 45, Rāma affirms that he desires neither the kingdom nor personal pleasure (आत्मनि स्वमनसि सुखं), but only to carry out his father's command (तव निदेशं यथावत्कर्तुमेव).
+
+_____________
+
+**2.34.46 (na hi kṣubhyati... samudraḥ)**
+
+All three commentators gloss क्षुभ्यति as “transgresses its bounds or loses its composure” (मर्यादां त्यजति): just as the mighty ocean never overflows its shores, a monarch of Daśaratha's depth must not yield to tears.
+
+_____________
+
+**2.34.47–48 (tvām ahaṃ satyam icchāmi & The Syntax of te śape)**
+
+Linking vv. 47 and 48 into a single sentence (श्लोकद्वयमेकान्वयि), all three commentators gloss सत्यम् and अनृतम् as possessive adjectives qualifying त्वाम् (सत्यवन्तं त्वामिच्छामि अनृतमनृतवन्तं नेच्छामि): Rāma desires neither kingdom, earth (or Sītā, in **Govindarāja**'s reading मैथिलीम्), heaven, nor life itself, but only that his father remain truthful. On ते शपे, **Govindarāja** cites Pāṇini (श्लाघह्नुङ्स्थाशपां ज्ञीप्स्यमानः) to explain the dative ते (तुभ्यं शपे) for the person whom one wishes to convince by an oath.
+
+_____________
+
+**2.34.49–50 (na hi me 'sti viparyayaḥ & Rāma's Double Obligation)**
+
+In v. 49, all three commentators supply “in this city” (इह पुरे) with स्थातुम् and gloss विपर्ययः as any reversal of his vowed departure for the forest (संकल्पितवनगमने विपर्ययः, _Bhūṣaṇa_; इह स्थितिरूपं प्रतिकूलाचरणम्, _Tilaka_). Introducing v. 50, **Govindarāja** (_Bhūṣaṇa_) points out that Rāma is bound by a twofold obligation: not only must he fulfill his father's promise, but having personally answered Kaikeyī with “I am going” (मया चोक्तं व्रजामीति), he must also guard his own truthfulness (न केवलं त्वदाज्ञापरिपालनार्थमेव गच्छामि किंतु स्वप्रतिज्ञातपरिपालनार्थमपि).
+
+_____________
+
+**2.34.51 (mā cotkaṇṭhāṃ kṛthā deva)**
+
+On उत्कण्ठाम् (v. 51a), **Govindarāja** cites _Amara_ (उत्कण्ठोत्कलिके समे) to gloss it as sorrowful longing to behold the absent prince (दर्शनादिविषयोत्कण्ठाम्, _Tilaka_; शोकाकुलतया स्मरणम्, _Bhūṣaṇa_), assuring the king that they will delight in the peaceful forest filled with gentle deer and birds.
+
+_____________
+
+**2.34.52–53 (pitā hi daivatam & Consoling the King)**
+
+In v. 52, **Govindarāja** explains the argument _a fortiori_ (_kaimutika-nyāya_): since scripture declares a father to be a deity even to the gods (देवतानामपि दैवतम्), how much more so to mortal men (किमुत मनुष्याणाम्)! Treating his father as the supreme deity (परमदैवतमिति मत्वैव), Rāma will obey his word and return after fourteen years (चतुर्दशसु वर्षेषु गतेषु).
+
+_____________
+
+**2.34.54–55 (yena saṃstambhanīyo 'yam & cirāya sevitum)**
+
+In v. 54, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) gloss संस्तम्भनीयः as “ought to have their tears checked and be consoled” (निवृत्तबाष्पः करणीयः): when the king himself is the one who must steady the weeping populace (बाष्पकलः), how can he yield to emotional breakdown (विक्रियां चित्तविकारम्)? In v. 55, shifting to 12-syllable _Vaṃśastha_ meter, **Govindarāja** notes that Rāma repeats his renunciation of the city and realm to dispel Daśaratha's grief immediately (सद्यः शोकनिवृत्तये), glossing चिराय सेवितुम् as “to inhabit for the full fourteen years, not to return halfway” (न पुनरर्धेऽवागन्तुम्).
+
+_____________
+
+**2.34.56 (śivāsu sīmāsv anuśāstu kevalam & The Prophecy of Nandigrāma)**
+
+On v. 56c, **Rāma Varmā** (_Tilaka_) offers a striking literary insight (_dhvani_): by saying “stationed at the auspicious frontiers (शिवासु सीमासु स्थितः), let Bharata merely protect (केवलमनुशास्तु रक्षणमात्रं करोतु) the earth”, Rāma's words prophetically intimate that during his absence Bharata will refuse to enter Ayodhyā or enjoy royal pleasures, governing instead from the border village of Nandigrāma (अनेन रामाजीवने भरतस्य नन्दिग्रामवासो ध्वनितः)! **Govindarāja**, reading the accusative feminine adjectives शिवां सुसीमाम्, explains that Rāma praises the kingdom's auspiciousness lest anyone think he abandons it as burdensome (राज्यस्य दुर्भरत्वान्न त्यजामीति गम्यते).
+
+_____________
+
+**2.34.57 (na me tathā... dhīyate manaḥ)**
+
+All three commentators gloss धीयते as “is fixed or placed” (स्थाप्यते): Rāma's heart delights far more in obeying his father's righteous command than in any royal luxury.
+
+_____________
+
+**2.34.58–59 (tvām anṛtena yojayan & The Reading cintitam vs. jīvitam)**
+
+In v. 58, **Govindarāja** (_Bhūṣaṇa_) reads न सुखं... न जीवितम्, explaining that Rāma would not choose kingdom, pleasures, Sītā, or life itself at the cost of making his father untruthful (त्वामनृतेन योजयन् सन् राज्यादिकं न वृणीय). Commenting on the reading न चिन्तितं त्वाम्, **Rāma Varmā** (_Tilaka_) construes चिन्तितम् with त्वाम् (“you who are consumed with anxiety over me”): even if separation causes Daśaratha's death from grief, Rāma cannot remain, for the ruin of his father's next world through untruth is far worse than death (मरणादपि परलोकनाशकानृतत्वस्यातिकष्टत्वं सूचितम्). In v. 59, Rāma reassures his father that he will live happily on forest fruits and roots (तवास्तु निर्वृतिः सुखम्).
+
+_____________
+
+**2.34.60 (naiva ciceṣṭa kiṃcit)**
+
+**Tilaka** distinguishes तापः as bodily burning (अङ्गदाहोत्पादकः) and दुःखम् as inner mental agony (अन्तर्व्यथोत्पादकम्): embracing Rāma, Daśaratha falls unconscious to the floor and ceases to move (न चिचेष्ट न चेष्टते स्म).
+
+_____________
+
+**2.34.61 (tāṃ varjayitvā naradevapatnīm)**
+
+Both **Tilaka** and **Govindarāja** identify “that consort of the king” (तां नरदेवपत्नीम्) who alone did not weep as the cruel Kaikeyī (तां कैकेयीम्), whereas **Śivasahāya** (_Śiromaṇi_) takes it as Kausalyā momentarily calmed by Rāma's spiritual counsel. Even Sumantra faints, leaving the entire palace echoing with lamentation (हाहाकृतम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

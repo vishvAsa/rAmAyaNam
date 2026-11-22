@@ -87,6 +87,14 @@ On listening the grand and detailed sentences of that King the lion Dasharatha,
 
 Hearing that speech of the lion among kings, so wondrous in its expansive generosity (_vākyam adbhutavistaram_), the resplendent Viśvāmitra, his body-hairs thrilling with joy (_hṛṣṭaromā_), spoke thus in reply:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.1–2 (adbhutavistaram & vasiṣṭhavyapadeśinaḥ)**
+
+Why does Viśvāmitra call Daśaratha’s preceding speech _adbhutavistaram_ (“wondrous in its amplitude”)? **Rāma Varmā (_Tilaka_)** explains that it refers to the king’s extraordinary declaration in Sarga 18—_daivataṃ hi bhavān mama_ (“You are verily my deity, and I will unhesitatingly fulfill whatever you seek”). On _vasiṣṭhavyapadeśinaḥ_ (v. 2d), **Tilaka** glosses it as “one who abides by the counsel of Vasiṣṭha” (_vasiṣṭha-niyogavartinaḥ_), while **Govindarāja (_Bhūṣaṇa_)** justifies the instrumental compound _vasiṣṭha-vyapadeśa_ (“distinction or instruction imparted by Vasiṣṭha”) via _yogavibhāga_ on _Pāṇini_ 2.1.30.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -209,6 +217,14 @@ Hearing that speech of the lion among kings, so wondrous in its expansive genero
 
 Now therefore, O tiger among kings, form a firm resolve to accomplish that matter which is in my heart to speak (_yat tu me hṛdgataṃ vākyam_), and prove true to your promise (_bhava satyapratiśravaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.3 (hṛdgataṃ vākyam & satyapratiśravaḥ)**
+
+All three commentators note that _vākyam_ here stands by metonymy for the object to be spoken (_vākyapratipādyasya kāryasya_): before naming his startling request, Viśvāmitra prudently asks the king to reaffirm his resolve to grant it (_sarvathā kariṣyāmīty aṅgīkāraṃ kuruṣva_, **Tilaka**) so that his royal pledge remains inviolate (_satyapratiśravaḥ = satyapratijñaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -256,6 +272,14 @@ Now therefore, O tiger among kings, form a firm resolve to accomplish that matte
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 O bull among men, I am observing a sacred sacrificial vow (_ahaṃ niyamam ātiṣṭhe_) for the attainment of spiritual perfection (_siddhyartham_); but two shape-shifting _rākṣasas_ (_dvau tu rākṣasau kāmarūpiṇau_) have become the obstructors of that rite.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.4–5 (niyamam ātiṣṭhe & samāptyām)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** gloss _niyamam_ as sacrificial consecration (_yāgadīkṣām_), and **Tilaka** explains _bahuśaś cīrṇe samāptyām_ (v. 5ab): whenever the rite has been carried almost to its conclusion (_samāptikalpe_), right at the moment of completion (_samāptisamaye_), the two demons Mārīca and Subāhu swoop down to defile it.
 </details>
 </details>
 
@@ -374,6 +398,14 @@ _________________
 
 —those two deluged that sacrificial altar with a torrent of flesh and blood (_māṃsarudhiraugheṇa vediṃ tām abhyavarṣatām_). When that sacrificial vow and resolve had been thus desecrated and ruined (_avadhūte tathābhūte_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.6–8ab (kṛtaśramaḥ & Why Viśvāmitra Could Not Curse the Demons)**
+
+On v. 7a, **Tilaka** and **Śiromaṇi** gloss _kṛtaśramaḥ_ idiomatically as “one whose labor has proved in vain” (_kṛta-vṛthā-prayāsaḥ_). Anticipating Daśaratha’s natural question—“Why did an almighty sage like you not simply incinerate those two demons with a curse?”—Viśvāmitra replies in vv. 7cd–8ab: _tathābhūtā hi sā caryā na śāpas tatra mucyate_. All three commentators explain that once a sacrificer has entered the consecrated _dīkṣā_ of this vow, the ritual rule strictly forbids giving way to anger or pronouncing a curse (_śāpadānānarhā / krodhānarhā_), as doing so would itself annul the vow!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -490,6 +522,14 @@ My ritual toil rendered fruitless (_kṛtaśramaḥ_) and my spirit dejected (_n
 
 For such is the nature of that sacrificial observance (_tathābhūtā hi sā caryā_) that no curse may be uttered therein (_na śāpas tatra mucyate_). Therefore, O tiger among kings, your own son Rāma of unfailing valor (_rāmaṃ satyaparākramam_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.8cd–10ab (kākapakṣadharam & divyena svena tejasā)**
+
+All three commentators define _kākapakṣa_ as the graceful side-locks of hair worn above the temples by young Kṣatriya boys before maturity (_bālānāṃ kapola-samīpa-śikhā_). Why does Viśvāmitra mention that Rāma still wears juvenile side-locks while calling him _śūra_ (“heroic”)? **Govindarāja** notes the concessive force (_kākapakṣadharam api_): “even though still a boy wearing side-locks, he is a hero!” And how can a boy vanquish such demons? In v. 9cd, **Tilaka** explains _mayā guptaḥ_ as “watched over by me like a father” (_pitṛsthānīyena_) and _divyena svena tejasā_ as “by his own transcendent Vaiṣṇava energy” (_vaiṣṇavena tejasā_); **Tilaka** also notes that the plural _teṣām api vināśane_ (v. 10b) encompasses Mārīca and Subāhu’s entire demon army, while _api_ implies: “he is capable even of annihilating them, what then of merely guarding my sacrifice!”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -561,6 +601,14 @@ For such is the nature of that sacrificial observance (_tathābhūtā hi sā car
 **9:** That heroic eldest prince wearing juvenile side-locks (_kākapakṣadharaṃ śūraṃ jyeṣṭham_)—you ought to give unto me (_me dātum arhasi_)! For protected by me, he is fully capable by his own divine energy (_divyena svena tejasā_)—
 
 **10:** Even of destroying those _rākṣasas_ who obstruct the rite (_ye vikartāras teṣām api vināśane_). And I shall assuredly bestow upon him manifold blessings (_śreyaś cāsmai pradāsyāmi bahurūpam_), of this there is no doubt—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.10cd–11ab (śreyo bahurūpam)**
+
+What is the “manifold blessing” (_śreyo bahurūpam_) that Viśvāmitra promises to bestow upon Rāma? **Govindarāja** and **Śiromaṇi** explain that it encompasses the gift of all the celestial _astras_, the deliverance of Ahalyā, the breaking of Śiva’s bow, and his marriage to Sītā, winning fame across the three worlds; **Tilaka** adds that it also signifies imparting the supreme spiritual wisdom of the Self (_paramārtharūpaṃ śreya ātmasvarūpam_) taught in the _Yogavāsiṣṭha_.
 </details>
 </details>
 
@@ -680,6 +728,14 @@ Proclaiming ‘I know the great-souled Rāma of unfailing valor, and so too does
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Nor is any man other than Rāghava capable of slaying those two (_na ca tau rāghavād anyo hantum utsahate pumān_). For those two wicked demons, puffed up with their own might, have already fallen into the noose of Death (_kālapāśavaśaṃ gatau_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.12–14ab (Why Daśaratha Himself Cannot Go, & hatau tau viddhi)**
+
+Why does Viśvāmitra say “No man other than Rāghava can slay them” (v. 12ab)? **Govindarāja** and **Śiromaṇi** note that this preempts Daśaratha’s offer to march in person with his royal army (_aham eva tadarthaṃ yāsyāmīty atrāha_): because of the demons’ boons and illusions, none save Rāma can vanquish them. On _putragataṃ sneham_ (v. 13c), **Tilaka** captures the heart of Viśvāmitra’s admonition: “Do not harbor ordinary paternal anxiety toward Rāma, thinking him a mere mortal child; know him to be transcendent divine energy!” Both **Tilaka** and **Govindarāja** point out that the past participle _hatau_ (“already slain,” v. 14b) signifies the utter certainty and ease of their destruction (_bhūtapratyayena vadhasya sukaratvaṃ dhvanyate_).
 </details>
 </details>
 
@@ -839,6 +895,14 @@ Now Rama's reputation is going to be enhanced by Sage Vishvamitra in eliminating
 
 I solemnly pledge to you (_ahaṃ te pratijānāmi_): know those two _rākṣasas_ to be already slain (_hatau tau viddhi_)! I know the great-souled Rāma of unfailing valor (_ahaṃ vedmi mahātmānaṃ rāmaṃ satyaparākramam_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.14cd–15ab (ahaṃ vedmi mahātmānaṃ rāmaṃ satyaparākramam)**
+
+$19
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1053,14 @@ Then, O lord of kings, you ought to give Rāma to me! If your ministers, O Kāku
 
 All of them headed by Vasiṣṭha (_vasiṣṭhapramukhāḥ sarve_)—then dispatch Rāma! You ought to give me your cherished, unattached son (_abhipretam asaṃsaktam ātmajam_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.17cd (abhipretam asaṃsaktam)**
+
+**Tilaka** and **Śiromaṇi** interpret _asaṃsaktam_ as an adjective qualifying Rāma: having passed early childhood, he is free from clinging attachment to his parents (_atītabālyatvān mātāpitṛ-sakti-rahitam_), or inwardly unattached because he is the Supreme Lord (_īśvaratvāt kvāpy anāsaktam_); **Govindarāja** takes it adverbially: “give him without delay” (_avilambitam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1044,6 +1116,14 @@ Reassuring the king that the sacrifice requires Rāma for only ten nights, Viśv
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —even the lotus-eyed Rāma, for the ten nights of the sacrifice (_daśarātraṃ hi yajñasya_). Act in such a way, O Rāghava, that this appointed time of my sacrifice does not pass by (_nātyeti kālo yajñasya yathāyaṃ mama_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.18–20ab (daśarātraṃ hi yajñasya & dharmārthasahitam)**
+
+As **Tilaka** and **Govindarāja** observe, _daśarātraṃ hi yajñasya rāmaṃ_ in v. 18ab construes directly with _dātum arhasi_ at the end of v. 17: to console Daśaratha, Viśvāmitra assures him that separation from Rāma will not be long—the sacrificial vow requires his presence for only ten nights (_nāti-cira-viprayogasthe kṣaṇa ity āha_, **Tilaka**). On _dharmārthasahitam_ (v. 19d), **Tilaka** explains that Viśvāmitra’s speech combines _dharma_ (protecting the Vedic sacrifice) with _artha_ (Rāma’s acquisition of divine _astras_ and his bride Sītā).
 </details>
 </details>
 
@@ -1122,6 +1202,14 @@ Do thus—may all good betide you (_bhadraṃ te_)—and do not set your mind up
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Viśvāmitra of mighty splendor and vast wisdom ceased speaking (_virarāma_). Hearing that auspicious speech of Viśvāmitra, that lord of kings—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.20cd–21 (vyaṣīdata bhayānvitaḥ — Epic Middle Ending & Twofold Fear)**
+
+On v. 21, **Tilaka** notes that the middle (_ātmanepada_) inflection in _vyaṣīdata_ (for classical _vyaṣīdat_) and the sandhi in _tadotthāya_ are archaic epic usages (_chāndasas taṅ_). What is the fear (_bhayānvitaḥ_) that seizes Daśaratha? **Tilaka** explains it as dread of separation from his beloved son and of the _rākṣasas_’ ferocity (_rakṣo-nimitta-putra-viyoga-bhayānvitaḥ_), while **Śiromaṇi** explains it as fear of incurring Viśvāmitra’s curse if he withholds Rāma after pledging his word (_putradānābhāve tac-chāpa-hetuka-bhīti-viśiṣṭaḥ_)!
 </details>
 </details>
 
@@ -1214,6 +1302,14 @@ This way on hearing that word of the saint Vishvamitra which is explicitly slitt
 **21:** Overwhelmed by immense grief (_śokena mahatāviṣṭaḥ_), trembled and swooned away (_cacāla ca mumoha ca_); and upon regaining consciousness, he rose and sank into deep despondency, filled with dread (_vyaṣīdata bhayānvitaḥ_).
 
 **22:** Having heard that speech of the sage, which rent his very heart and mind (_hṛdayamanovidāraṇam_), that great and noble-souled monarch became deeply anguished in spirit and tottered from his throne (_pracacāla cāsanāt_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19.22 (hṛdayamanovidāraṇam & Govindarāja’s Metrical Note Vṛttaṃ copajātibhedaḥ)**
+
+How are _hṛdaya_ and _manas_ distinguished in _hṛdayamanovidāraṇam_? **Tilaka** glosses _hṛdaya_ as the individual self dwelling in the lotus of the heart (_hṛdayapuṇḍarīkavarty ātmanaḥ_) and _manas_ as the inner organ of thought (_antaḥkaraṇam_), while **Govindarāja** glosses _hṛdaya_ as the physical seat of the mind (_mano-’dhiṣṭhānam_). At the close of the verse, **Govindarāja** explicitly notes the rare, agitatedly resolved concluding meter: वृत्तं चोपजातिभेदः (“and the meter is a variety of _Upajāti_” [of the _Aupacchandasika/Pramitākṣarā_ class, opening each pāda with a rapid burst of short syllables mirroring the king’s trembling heart]).
 </details>
 </details>
 

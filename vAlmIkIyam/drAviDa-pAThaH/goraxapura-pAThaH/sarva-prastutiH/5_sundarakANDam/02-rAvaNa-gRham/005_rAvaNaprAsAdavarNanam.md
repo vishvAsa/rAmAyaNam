@@ -327,6 +327,98 @@ high hump, like a great white mountain with tall summits, like an elephant with 
 
 Standing like a sharp-horned humped bull (_kakudmān iva tīkṣṇaśṛṅgaḥ_), like a great white mountain with lofty peaks (_mahācalaḥ śveta ivordhvaśṛṅgaḥ_), and like an elephant with gold-bound tusks (_hastīva jāmbūnadabaddhaśṛṅgaḥ_), the Moon shines with its horns of fullness complete (_vibhāti candraḥ paripūrṇaśṛṅgaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.5.1–2 (Moonrise at Midnight and End-Rhyme Poetics)**
+
+Noting that two interpolated verses precede this sarga in some manuscripts (इति श्लोकद्वयं प्रक्षिप्तम्), **Tilaka** and **Govindarāja** observe that since moonrise occurred when Hanūmān entered Laṅkā, the Moon's arrival at the zenith (आकाशमध्यगतम्) indicates midnight (रावणनगरप्रवेशे अर्धरात्र इति सूच्यते). On the fourfold end-rhyme throughout this sarga (मन्तम्, यन्तम्, स्था), **Govindarāja** cites the _Kāvyaprakāśa_ (भिन्नार्थानां तुल्यानां वर्णानां वृत्तिर्यमकम्) to argue that when identical endings bear the same grammatical sense, the figure is _chekānuprāsa_ rather than _yamaka_, whereas **Tilaka** classifies the fourfold स्था in v. 3 as _ekapadayamaka_.
+
+_____________
+
+**5.5.3–4 (Nidarśanā and Luptopamā in Lunar Similes)**
+
+In verse 3, the splendor of Mount Mandara, the evening sea, and the water-lotus is transferred to the Moon—which **Tilaka** calls _paryāyālaṅkāra_ and **Govindarāja** identifies via the _Kāvyaprakāśa_ as _nidarśanā_ (अभवन्वस्तुसंबन्ध उपमापरिकल्पकः). In verse 4, **Govindarāja** explains the three comparisons: the Moon in the moonbeam-whitened sky resembles a white swan in a silver cage (गगनगर्भस्य ज्योत्स्नाक्षालितत्वात्); amid white clouds, a lion in snowy Mandara (श्वेतगिरित्वात्); and atop the dark vault of space, a hero on a dark elephant (नीलरूपस्य नभस उपर्यवस्थानात्). Because the common property (`whiteness/elevation') is unexpressed, it is _luptopamā_.
+
+_____________
+
+**5.5.5–6 (The Fourfold Śṛṅga and theHare-Mark)**
+
+In verse 5, शृङ्ग successively means a bull's horn, a mountain peak, an elephant's tusk, and the full lunar disk or deer-mark (परिपूर्णकलः). In verse 6, the Moon is free of frost-mire (शीताम्बुतुषारपङ्कः), and solar rays (महाग्रहः सूर्यः तस्य ग्राहेण किरणपरिकरेण) have dispelled darkness (पङ्कस्तमः)—for which **Govindarāja** quotes Varāhamihira (सलिलमये शशिनि रवेर्दीधितयो मूर्च्छितास्तमो नैशम्) and the _Harivaṃśa_ on the earth's shadow forming the hare-mark (लोकच्छायामयं लक्ष्म).
+
+_____________
+
+**5.5.7–8 (The Fourfold Doṣa of Moonlit Night)**
+
+Comparing the Moon to a lion on an open crag (शिलातलं गुहाबहिःस्थम्), an elephant in a great forest (or battle, महारणं), and a crowned king, the poet describes nightfall (प्रदोषः) through a fourfold play on दोष: (1) the blemish of darkness (दोषः तिमिरं) is destroyed by moonrise; (2) the fault of night-stalking and flesh-eating among _rākṣasas_ (पिशिताशनरूपा दोषाः) increases; and (3) the heart-blemish of jealous pride (चित्तदोषः प्रणयकलहरूपः) is banished (ईरितः निरस्तः) by lovely women and their lovers (रामाभिः अभिरामैः कान्तैश्च). **Govindarāja** quotes _Amara_ on भगः to gloss भगवान् as glorious (श्रीमान्).
+
+_____________
+
+**5.5.9–10 (Lutes, Virtuous Wives, and Thronged Mansions)**
+
+While lute melodies (तन्त्रीस्वराः वीणानादाः) sound and chaste wives (सुवृत्ताः)—or wives united in secluded chambers (संवृत्ताः मेदगृहादिगताः in **Tilaka**'s primary reading)—sleep beside their husbands, fierce night-roamers go forth. In verse 10, all three commentators gloss भद्रासन as a golden throne (स्वर्णपीठम्) and कुलानि as mansions (गृहाणि) crowded with revelers intoxicated by wealth or wine (मत्ताः मधुमदक्षीबाः प्रमत्ताः प्रस्तुतकार्यविस्मारिणः).
+
+_____________
+
+**5.5.11–12 (Participial Syntax and the Play on Kṣip)**
+
+All three commentators note that आक्षिपन्ति, अधिविक्षिपन्ति, and विक्षिपन्ति across verses 11–12 can be construed either as finite plural verbs or as neuter plural _śatṛ_ participles (शत्रन्तान्येतानि रक्षोविशेषणानि) governed by ददर्श (`he saw drunken _rākṣasas_ taunting, flinging their arms, slapping their chests, embracing their wives, donning varied garbs, and drawing bows').
+
+_____________
+
+**5.5.13–14 (Ārṣa Nominatives and Sighing Heroes)**
+
+$1b
+
+_____________
+
+**5.5.15–16 (Distinguishing Repeated Epithets)**
+
+To avoid tautology in the twice-used रुचिराभिधानान् (v. 15), **Tilaka** and **Śiromaṇi** gloss the first as `of charming speech' (रुचिरमभिधानं वचनं येषाम्) and the second as `of auspicious names' (रुचिरनाम्नः). In verse 16, **Śiromaṇi** explains why Hanūmān rejoices (ननन्द) upon seeing certain _rākṣasas_: seeing righteous figures like Vibhīṣaṇa whose devotion to Rāma matches his own virtues (रामसेवकत्वेन आत्मगुणानुरूपान् विभीषणादीन् दृष्ट्वा), he is delighted.
+
+_____________
+
+**5.5.17 (Semantic Nuances of Bhāva)**
+
+Commenting on the threefold play on भाव in verse 17, **Tilaka** and **Govindarāja** distinguish सुविशुद्धभावाः (`pure-hearted toward their lovers', कान्तेषु निर्मलहृदयाः), महानुभावाः (`of great majesty/chastity', or graceful amorous gestures, कटाक्षभुजक्षेपादयः), and सक्तभावाः (`whose minds are attached to their lovers and drink').
+
+_____________
+
+**5.5.18–19 (Midnight Embraces and Lawfully Wedded Wives)**
+
+On the comparison of women embraced by their lovers at midnight to female birds embraced by their mates (विहङ्गाः विहङ्गीः), **Tilaka** explains that because they lie in upper chambers of dark sapphire resembling nocturnal foliage (इन्द्रनीलमणिमयोर्ध्वगृहेषु), or as **Śiromaṇi** says, on lofty palace perches (अत्युच्चप्रासादेषु शयनात्), they resemble roosting birds. In verse 19, both **Tilaka** and **Govindarāja** quote the lexicon _Viśva_ (निवेशः शिबिरोद्वाहविन्यासेषु) to gloss निविष्टाः as `lawfully wedded wives' (ऊढाः पाणिगृहीता इत्यर्थः).
+
+_____________
+
+**5.5.20–21 (Complexions of Union and Separation)**
+
+In verse 20, **Tilaka** and **Govindarāja** contrast women in union—who lie unveiled or without upper garments (अप्रावृताः उत्तरीयहीनाः, अनवगुण्ठिताः), glowing like streaks of gold (काञ्चनराजिवर्णाः) or refined gold (तप्तकाञ्चनवर्णाः)—with lovelorn women separated from their lovers (कान्तप्रहीणाः विरहिण्यः), who have turned pale white like the hare-marked Moon (शशलक्ष्मवर्णाः चन्द्रपाण्डुराः). In verse 21, reading प्रसमीक्ष्य रामाः, **Govindarāja** distinguishes women who go out to meet their lovers (अभिसारिकाः) from those who rejoice at home (गृहेषु रामाः कुलपालिकाः).
+
+_____________
+
+**5.5.22 (Why Hanūmān Scrutinizes Faces and Ornaments)**
+
+Why does the celibate Hanūmān closely examine the moon-like faces, curved eyelashes, and lightning-bright ornaments of sleeping women? **Govindarāja** explains his dual investigative purpose: he inspects their faces and eyes to distinguish human women from _rākṣasa_ women (वक्त्रनेत्रदर्शनं मानुषीत्वराक्षसीत्वविवेकार्थम्), and he examines their jewelry to see whether any matches the ornaments of Sītā that he had previously seen dropped at Ṛṣyamūka (आभरणदर्शनं स्वदृष्टसीताभरणतुल्याभरणदर्शनार्थम्). **Tilaka** criticizes the variant वक्राक्षिपक्ष्माः as containing a redundant अक्षि before सुनेत्रमालाः.
+
+_____________
+
+**5.5.23–25 (Sītā's Ayonija Birth and Mutual Devotion)**
+
+$1f
+
+_____________
+
+**5.5.26 (Four Similes for Sītā's Captive State)**
+
+**Govindarāja** masterfully unpacks the four _rekhā_ similes: (1) an obscured moon-crescent (अव्यक्तरेखामिव चन्द्रलेखाम्) illustrates her extreme emaciation and dimmed luster (अत्यन्तं कृशत्वे कान्तिहीनत्वे च दृष्टान्तः); (2) a dust-coated streak of gold (पांसुप्रदिग्धामिव हेमरेखाम्) shows that her innate purity is only externally soiled (स्वतःशुद्धस्वभावस्य आगन्तुकमालिन्ये); (3) a scarred arrow-wound (क्षतप्ररूढामिव बाणरेखाम्)—outwardly healed by herbs (ओषधादिना समाहिताम्) yet smarting within—depicts her intense inner agony (अन्तर्वेदनातिशये); and (4) a wind-driven cloud-streak (वायुप्रभुग्नामिव मेघरेखाम्) illustrates her helplessness under a ruthless captor (परवशनीयमानत्वे).
+
+_____________
+
+**5.5.27 (Hanūmān's Despondency)**
+
+Failing to find Sītā after a long search (चिरस्य बहुकालमपश्यन्), Hanūmān immediately (अचिरस्य सपदि) grows dejected (मन्दः). **Govindarāja** quotes _Halāyudha_ (लूधो मन्दो विवर्णकः) to gloss मन्दः as pale and downcast.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -318,6 +318,98 @@ _________________
 
 “Māyāvī was the first, O dear one (_māyāvī prathamas tāta_), and Dundubhi was born next after him (_dundubhis tadanantaraḥ_). Thus has everything been recounted truthfully (_yāthātathyena_) to you who asked (_pṛcchataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.12.1–2 (Consecration in Laṅkā and Śūrpaṇakhā’s Marriage)**
+
+Following Rāvaṇa’s bloodless occupation of Laṅkā and consecration at the close of Sarga 11, Agastya turns to the domestic alliances that consolidate the rākṣasa court. **Govindarāja** (_Bhūṣaṇa_) introduces the sarga as recounting Rāvaṇa’s duties immediately after entering Laṅkā, noting his first royal obligation as elder brother: arranging his sister Śūrpaṇakhā’s marriage (भगिन्याः शूर्पणखायाः प्रदानं समचिन्तयत्). Giving her to Vidyujjihva—glossed by Govindarāja as ‘son of Kālaka’ (कालकपुत्राय) and by **Śivasahāya** (_Śiromaṇi_) as the Dānava chieftain—forges a strategic tie between rākṣasas and Kālakeya asuras.
+
+_____________
+
+**7.12.3–4 (Encountering Maya in the Solitary Forest)**
+
+Setting out on a royal hunt after his sister’s wedding (दत्त्वा शूर्पणखामिति शेषः, **Śivasahāya**), Rāvaṇa encounters Maya, the renowned architect of the asuras, standing alone in the wilds with a maiden. Construing 7.12.4–5ab as a single syntactic unit (श्लोकद्वयमेकान्वयि), **Śivasahāya** offers two distinct readings of निर्मनुष्यमृगे वने: either ‘an exceedingly terrifying wood from which both men and beasts have fled’ (निर्गता मनुष्यमृगा यस्मादतिभयङ्करमित्यर्थः), or ‘a wood devoid of men and frequented solely by wild deer’ (मनुष्यरहिता मृगा यस्मिन् मृगमात्रसेवितमित्यर्थः), glossing एकः as ‘without any other male escort’ (पुरुषान्तररहितः).
+
+_____________
+
+**7.12.5–6 (Maya’s Candid Narrative and the Gift of Hemā)**
+
+Addressing Rāvaṇa courteously as _tāta_ (‘dear one’), Maya promises to relate his history faithfully, without deviating from what occurred (वृत्तमनतिक्रम्य, **Śivasahāya**), while **Rāma Varmā** (_Tilaka_) notes राम in 7.12.5a as Agastya’s vocative to Rāma. Maya begins by invoking his celestial union with the apsaras Hemā, comparing the gods’ bestowal of her upon himself to the marriage of Paulomī (Śacī) to Indra (_Śatakratu_)—thus immediately establishing his own high standing and his daughter’s semi-divine maternal pedigree.
+
+_____________
+
+**7.12.7–8 (Hemā’s Departure and the Golden City of Sorrow)**
+
+Unpacking the compressed timeline of 7.12.7–8, **Rāma Varmā** (_Tilaka_) supplies ‘to the celestial world’ (देवलोकमिति शेषः) with गता: thirteen years elapsed after Hemā’s departure on divine business, and a fourteenth year too passed while Maya pined without her (चतुर्दशं च तद्विरहितस्य गतमित्यनुकर्षः). Both **Tilaka** and **Govindarāja** (_Bhūṣaṇa_) gloss मायया as Maya’s ‘wondrous architectural power’ (विचित्रनिर्माणशक्त्या), by which he raised a gold-abounding, jewel-inlaid palace (सुवर्णप्रचुरम्, Tilaka), yet even amid splendor he languished in separation (**Śivasahāya**, construing 7.12.7cd–8 as one sentence, श्लोकद्वयमेकान्वयि).
+
+_____________
+
+**7.12.9–11ab (A Father’s Anxious Quest Echoing Sumālī)**
+
+Presenting the maiden nurtured in Hemā’s womb (हेमाया गर्भे, **Rāma Varmā**; हेमायाः कुक्षौ, **Śivasahāya** and **Govindarāja**), Maya explains his forest journey as a search for a worthy bridegroom. Remarkable is the verbal echo of Sumālī’s lament in 7.9.9–10: **Tilaka** glosses मानकाङ्क्षिणाम् as ‘those desirous of honor’ (अभिमानेच्छूनाम्), observing that fathering a daughter brings distress because it threatens one’s pride (अभिमाननिवर्तकत्वात्). Construing 7.12.10–11ab together (सार्धश्लोक एकान्वयी), **Śivasahāya** notes that Maya speaks of ‘two families’ (कुलद्वयम्)—his own and her husband’s—held in constant suspense.
+
+_____________
+
+**7.12.11cd–12 (Māyāvī and Dundubhi—Echoes of the Kiṣkindhākāṇḍa)**
+
+Completing his family chronicle, Maya mentions his two sons by Hemā, Māyāvī the elder and Dundubhi the younger (प्रथमो मायावी तदनन्तरो दुन्दुभिः, **Śivasahāya**). For Rāma listening to Agastya, these two names carry vivid resonance from the _Kiṣkindhākāṇḍa_, where both titanic brothers perished in legendary duels with Vālin—the very conflicts that triggered Vālin’s rift with Sugrīva and left Dundubhi’s colossal skeleton before Ṛśyamūka. Having answered Rāvaṇa’s questions with full transparency (_yāthātathyena_), Maya prepares to ask his stranger’s identity in turn.
+
+_____________
+
+**7.12.13–14 (Rāvaṇa’s Courteous Self-Introduction and Descent from Brahmā)**
+
+Answering Maya’s polite inquiry (**Śivasahāya**) with uncharacteristic courtesy (_vinītam_), Rāvaṇa foregrounds not his rākṣasa conquest of Laṅkā, but his luminous paternal genealogy. Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) carefully clarify तृतीयो ब्रह्मणोऽभवत् in 7.12.14: Viśravas was the third generation counting from Brahmā—Brahmā, Pulastya, and Viśravas (यो मुनिर्विश्रवा ब्रह्मणस्तृतीयापत्यं तस्य भगवतो विश्रवसोऽहं तनय इत्यर्थः, Tilaka). By invoking his _brahmarṣi_ father, Daśagrīva presents himself as the ideal, highborn bridegroom Maya has been seeking.
+
+_____________
+
+**7.12.15–16 (Maya’s Immediate Joy and Formal Betrothal)**
+
+Construing the three-line verse 7.12.15 as a single sentence (सार्धश्लोक एकान्वयी, **Śivasahāya**), Agastya depicts Maya’s instant delight upon recognizing a great sage’s son (महर्षेस्तनयं ज्ञात्वा). **Rāma Varmā** notes that Maya resolved to give his daughter right then, at the very moment of discovering Rāvaṇa’s noble pedigree (तत्र वै महाकुलप्रसूतत्वज्ञानकाले). In 7.12.16, Maya seals the gift physically: **Śivasahāya** glosses करेण तु करं तस्या ग्राहयित्वा as Maya causing Rāvaṇa’s hand to clasp his daughter’s hand (तस्याः कन्यायाः करं रावणहस्तेन ग्राहयित्वा) with a pleased smile.
+
+_____________
+
+**7.12.17–18 (Mandodarī’s Bestowal and the Forest Nuptial Fire)**
+
+Presenting his slender-waisted daughter Mandodarī, Maya explicitly recalls her celestial maternity (हेमयाप्सरसा धृता), which both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss as ‘conceived in the womb and brought forth by Hemā’ (धृता धृतगर्भा प्रसूतेत्यर्थः). Rāvaṇa accepts instantly with the solemn assent बाढम् (‘so be it!’), and—as **Śivasahāya** notes—kindles a sacred fire on the spot to celebrate the Vedic hand-taking ceremony (अग्निं प्रज्वाल्य पाणिग्रहणविधिमकरोत्), establishing Mandodarī as his chief, ritually wedded queen (_paṭṭamahiṣī_).
+
+_____________
+
+**7.12.19 (Why Maya Wedded Mandodarī Despite Viśravas’s Prophecy)**
+
+All three commentators probe the striking tension in 7.12.19: if Maya already knew of Viśravas’s dread forecast in Sarga 9 that Rāvaṇa would be cruel of nature (दारुणप्रकृतिर्भविष्यतीति श्रुतशापवृत्तान्तः, **Rāma Varmā** and **Govindarāja**), why did he gladly give him Mandodarī? **Śivasahāya** (_Śiromaṇi_) construes the verse concessively: despite knowing the sage’s curse, Maya honored Rāvaṇa’s descent from Grandfather Brahmā (तथापि तस्य पैतामहं कुलं ज्ञात्वा दत्ता), and **Govindarāja** agrees that noble lineage outweighed all else (केवलं कुलमेव गण्यत इत्यर्थः). **Rāma Varmā** adds a shrewd realist motive: Maya also realized that if refused, the fierce rākṣasa would overpower him and seize her by force (मां निगृह्य बलादपि ग्रहीष्यतीति ज्ञानेन).
+
+_____________
+
+**7.12.20 (The Dowry of the Unfailing Spear)**
+
+Alongside Mandodarī, Maya presents an extraordinary dowry: an infallible celestial spear (_amoghā śakti_) won through Maya’s own severe austerity (लब्धाम् । मयेनेति शेषः, **Rāma Varmā**). Agastya pauses to tie this ancient gift directly to Rāma’s own recent ordeal in the _Yuddhakāṇḍa_: it was this very weapon with which Rāvaṇa felled Lakṣmaṇa on the battlefield (यया लक्ष्मणं जघ्निवान्, **Śivasahāya**). Thus Vālmīki weaves the biographical backstory of Book VII tightly into the climactic memories of Book VI.
+
+_____________
+
+**7.12.21–24 (Brides for Kumbhakarṇa and Vibhīṣaṇa—Saramā’s Birth)**
+
+Returning to Laṅkā as a wedded sovereign, Rāvaṇa fulfills his fraternal duty by procuring wives for his brothers through proper nuptial rites (विवाहविधिना प्रापयत्, **Śivasahāya**; **Rāma Varmā** notes the variant समुदावहत्). The choices mirror each brother’s temperament: colossal Kumbhakarṇa receives the fiery asura-princess Vajrajvālā, granddaughter of Bali Vairocana, whereas righteous Vibhīṣaṇa wins Saramā—daughter of the Gandharva king Śailūṣa—whose compassionate loyalty later comforts Sītā in the _Yuddhakāṇḍa_. On 7.12.24, **Tilaka** announces the charming etymology of her name (सरमाया नाम निर्वक्ति), set on the rain-swollen shore of Lake Mānasa.
+
+_____________
+
+**7.12.25–26 (Saramā’s Folk Etymology and Wedded Bliss in Laṅkā)**
+
+Continuing 7.12.24 (श्लोकद्वयमेकान्वयि, **Śivasahāya**), Agastya completes the poetic _nirukti_ of Saramā’s name. As monsoon waters swelled Lake Mānasa right up to the newborn infant (तच्छिशुपर्यन्तं ववृधे, **Rāma Varmā**), the frightened mother cried out tenderly (आक्रन्दितं विह्वलं वचः, Śivasahāya), ‘Lake, do not rise!’ (सरो मा वर्धयस्व / वर्धत). From the opening syllables _saro mā_, the child received the name Saramā—a phonetic contraction both **Tilaka** and **Govindarāja** (_Bhūṣaṇa_) validate as grammatically sound under Pāṇini’s _pṛṣodarādi_ class (पृषोदरादित्वात्साधुः). Verse 7.12.26 briefly shows all three couples rejoicing in Laṅkā like Gandharvas in Nandana.
+
+_____________
+
+**7.12.27–29 (The Birth and Naming of Meghanāda)**
+
+Returning at last to Rāma’s original question from Sarga 1, Agastya announces Mandodarī’s son Meghanāda—identifying him directly as ‘this very one whom you all call Indrajit’ (युष्माभिरिन्द्रजिन्नामाभिधीयते, **Śivasahāya**). Construing 7.12.28–29 as one syntactic unit (अर्धचतुष्टयमेकान्वयि, Śivasahāya), the poet explains his birth-name: the instant he was born, his weeping loosed a thunderous roar—glossed by **Rāma Varmā** as ‘like the booming of a rain-cloud’ (जलधरनादोपमः)—that stunned all Laṅkā into silence (_jaḍīkṛtā_), prompting Rāvaṇa himself to name him Meghanāda (‘Cloud-Roar’).
+
+_____________
+
+**7.12.30 (A Fire Hidden Beneath Wood)**
+
+Construing the closing three-line stanza as a single sentence (सार्धश्लोक एकान्वयी, **Śivasahāya**), Agastya closes Sarga 12 with an unforgettable simile: tended by noble ladies in Rāvaṇa’s inner palace and delighting his parents, the young Meghanāda grew up ‘like a fire concealed beneath firewood’ (_channaḥ kāṣṭhair ivānalaḥ_). The image works on two levels: outwardly, the tender child is sheltered and nourished by the palace women just as kindling shields a flame; prophetically, it warns of the latent, all-consuming blaze of martial power that will soon burst forth to conquer Indra himself.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

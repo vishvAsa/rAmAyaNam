@@ -533,6 +533,116 @@ kingless kingdom under control. [4-10-10, 11a]
 
 I implore you with bowed head (_śirasā_), O king, and here I fold my hands in supplication (_baddho &#x27;yam añjaliḥ_): having assembled together, by the ministers and the townsfolk, by force (_balāt_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.10.1–2 (Propitiating the Wrathful Vālin)**
+
+Govindarāja (_Bhūṣaṇa_) observes at the outset of this tenth _sarga_ that witnessing Vālin's relentless malice toward a humble brother (अथ वालिदोषदर्शनेन रामस्य हृदि वालिवधप्रतिज्ञा दृढ्यते) firms Rāma's inner vow to slay him. Rāma Varmā (_Tilaka_) glosses संरब्धम् as having a mind agitated by the onset of rage (क्रोधावेशादेव क्षोभितचित्तम्), while Śivasahāya (_Śiromaṇi_) explains it as exhibiting physical gestures of wrath (क्रोधसूचकचेष्टावन्तम्) and glosses हितकाम्यया as desiring one's own welfare (स्वकल्याणवाञ्छया). Govindarāja derives the vocative अनाथनन्दन as `he who gladdens the masterless' (अनाथान् नन्दयतीत्यनाथनन्दनः).
+
+_____________
+
+**4.10.3–5 (The Royal Insignia and the Cavern Vigil)**
+
+On 4.10.3, Śivasahāya explains सवालव्यजनम् as accompanied by the royal yak-tail chowrie (चामरसहितम्) and प्रतीच्छस्व as `pray accept' (स्वीकुरु), while Govindarāja, reading मयोद्यतम्, glosses it as held aloft (उन्नमितम्). Answering Vālin's implicit question as to why Sugrīva returned without him (अथ मामपेक्ष्य कथं त्वमिहागत इत्यत आह), Śivasahāya notes that verses 4–5 form a single syntactic unit (सार्धश्लोकद्वयमेकान्वयि): Sugrīva blocked the cavern mouth so that the demons could not emerge (असुरनिर्गमाभावाय आच्छाद्य).
+
+_____________
+
+**4.10.6 (Despondent Return to Kiṣkindhā)**
+
+On 4.10.6, Rāma Varmā construes the ablative विषादात् directly with the finite verb प्राविशम् (विषादात्प्राविशमित्यन्वयः, `out of despondency I entered Kiṣkindhā'), whereas Govindarāja explains विषादात् as the ciudadanos' fear that the kingdom would perish without a ruler (राज्यनाशविषादात्), and Śivasahāya links the second half of verse 6 directly with verse 7 (सार्धश्लोकः एकान्वयी).
+
+_____________
+
+**4.10.7–8 (Consecration by Compulsion)**
+
+Rāma Varmā (_Tilaka_) explains that Sugrīva was consecrated by force and not out of personal ambition for the throne (अभिषिक्तो बलान्न कामेन न मदीयराज्येच्छया), pleading for pardon for an offense brought about by fate (तत्तस्मान्मे दैवागतापराधं क्षन्तुमर्हसि), since he remains Vālin's servant just as before (यथा पुरा तव सेवकस्तथैव सदा इदानीमपीत्यर्थः). Govindarāja (_Bhūṣaṇa_) alternatively construes यथा पुरा as remaining crown prince (पूर्ववद्युवराजो भवामीत्यर्थः), while Rāma Varmā glosses निहतकण्टकम् as free from the evils of anarchy (अराजकत्वप्रयुक्तदोषरहितम्).
+
+_____________
+
+**4.10.9–11 (Restoring the Kingdom Held in Trust)**
+
+Both Rāma Varmā and Śivasahāya (_Śiromaṇi_) highlight न्यासभूतम्: Sugrīva returns (निर्यातयामि तुभ्यं समर्पयामीत्यर्थः) the realm that had been deposited with him as a sacred pledge (न्यासभूतं स्वकीयत्वेन संस्थापितमिव). On शून्यदेशजिगीषया (4.10.11b), Śivasahāya explains that the ministers consecrated him by force (बलात् हठात्) to ward off enemy invasion prompted by the desire to conquer a kingless land (राजरहितदेशकण्टककर्तृकजिगीषया शत्र्वाक्रमणनिवारणायेत्यर्थः).
+
+_____________
+
+**4.10.11–12 (Vālin's Unspeakable Abuse)**
+
+On बहु तत्तदुवाच ह, Rāma Varmā and Śivasahāya explain that Vālin uttered a torrent of unrepeatable abuse (अवाच्यवचनजातमुवाच), and Govindarāja perceptively remarks that Sugrīva leaves those harsh words unspecified out of decorum because of their vulgarity (तत्तत्परुषभाषणम् अश्लीलतया विशिष्य नोक्तम्). Both Rāma Varmā and Śivasahāya gloss प्रकृतीः as the citizens (प्रजाः).
+
+_____________
+
+**4.10.13–14 (Vālin's Public Indictment)**
+
+Rāma Varmā (_Tilaka_) notes that after addressing a most reproachful speech to Sugrīva in the midst of his friends (मां प्रति परं गर्हितं वाक्यं सुहृदां मध्य आह), Vālin turns to the assembly to justify his banishment (मम विगर्हणहेतुं च सभासदोऽभ्येत्याह). Glossing विदितं वः as `directly known to you all' (युष्माकं विदितं प्रत्यक्षसिद्धम्), Śivasahāya (_Śiromaṇi_) explains the sarcastic epithet सुदारुणः (4.10.15b) as referring to the ruthless deed of sealing the cave that Vālin is about to allege (वक्ष्यमाणदारुणकर्मविशिष्टः).
+
+_____________
+
+**4.10.15–17 (Pursuit into the Cavern)**
+
+Both Rāma Varmā and Śivasahāya gloss सद्वितीयम् as accompanied by his brother as a second (द्वितीयसहितम्). Śivasahāya points out that verses 15–16 form an interwoven syntactic period (सार्धश्लोकः संमिलितान्वयी): seeing both brothers drawing near even as he fled (पलायनेऽपि समीपं प्राप्तौ आवां वीक्ष्य), the demon Māyāvin, hotly pursued (अभिद्रुतः अतिद्रुतं गतः सन्), darted with speed into the great cavern.
+
+_____________
+
+**4.10.18 (Vālin's Charge at the Cavern Mouth)**
+
+On 4.10.18, Rāma Varmā explains शक्तिः in नास्ति मे शक्तिः प्रतिगन्तुम् not as physical capability but as mental willingness or resolve (शक्तिरिच्छाशक्तिः, `I have no inclination to return to the city without slaying Māyāvin'). Both Rāma Varmā and Śivasahāya note the epic active imperative प्रतीक्ष, glossing it with the standard middle form प्रतीक्षस्व (`wait here at the cavern entrance until I slay him').
+
+_____________
+
+**4.10.19–20 (A Year's Search and Victory through Perseverance)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) supply बिलद्वारि (`at the cavern entrance') with स्थितोऽयम्: trusting that Sugrīva was standing guard, Vālin entered the cavern inaccessible to non-demons (असुरातिरिक्तैः प्रवेष्टुमशक्यम्). On अनिर्वेदात् (4.10.20b), Govindarāja (_Bhūṣaṇa_) glosses it as unflagging effort (अक्लेशात्), and Rāma Varmā notes that although Māyāvin was terrifying because he remained unseen throughout a year's search (संवत्सरान्वेषणेऽपि दर्शनाभावाद्भयावहः), Vālin finally spotted and slew him through perseverance.
+
+_____________
+
+**4.10.21–22 (The Blood-Filled Cavern and the Sealed Exit)**
+
+On भूतले स्तनतः (4.10.21d), Rāma Varmā explains भूतले as in the subterranean netherworld (भुवस्तलेऽधस्तले पाताले), Śivasahāya as at the bottom of the ground (भुवोऽधोभागे), and Govindarāja as within the subterranean chasm (भूविवरे), while all three gloss स्तनतः as roaring or groaning (गर्जतः, स्वनं कुर्वतः). Reading दुन्दुभेः सुतम् in 4.10.22b, Govindarāja notes that Māyāvin was the elder son of Dundubhi (पूर्वजो दुन्दुभेः सुत इति).
+
+_____________
+
+**4.10.23–24 (Crying Out and Battering the Crag)**
+
+On 4.10.23, Govindarāja cites the verbal root क्रुश् आह्वाने रोदने च to explain विक्रोशमानस्य as calling out repeatedly (आह्वयतः). When no answer (प्रतिवचः प्रत्युत्तरम्) came, Vālin shattered the rock barrier with repeated kicks (बहुभिः पादप्रहारैः परिपातितं विदारितम्); Govindarāja explains तेन पथा (4.10.24c) as exiting through the breach (रन्ध्रमार्गेण) opened in the blocked entrance.
+
+_____________
+
+**4.10.25–26 (The False Charge of Usurpation and Banishment)**
+
+Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) gloss मृगयता as seeking (मार्गयता) how he might seize the kingdom (कथं प्राप्नुयामिति विचारयता), so that Vālin accuses Sugrīva of shutting him inside the cavern to leave him without escape (संरुद्धो निरुद्धगतिकः कृतः). On वस्त्रेणैकेन (4.10.26b), Rāma Varmā notes the implication: by banishing Sugrīva in a single cloth, Vālin stripped him of everything else he possessed (अन्यत्सर्वं मम हृतमेवेत्यर्थः).
+
+_____________
+
+**4.10.27–28 (Exile and Refuge on Mount Ṛṣyamūka)**
+
+Both Govindarāja (_Bhūṣaṇa_) and Śivasahāya gloss अपविद्धः as beaten and cast out (ताडितः), while Rāma Varmā glosses it as expelled (निरस्तः). Śivasahāya observes that Vālin's abducting his brother's wife even after banishing him (निर्वासितेऽपि सुग्रीवेणैकविषयविघातमसहमानः) exposes the enormity of his crime (तेन तस्य महानपराधो व्यञ्जितः). On कारणान्तरे (4.10.28d), all three commentators identify the special cause rendering Ṛṣyamūka unassailable (दुराधर्षं दुष्प्रवेशम्) to Vālin as the curse of Sage Mataṅga (मतङ्गशापनिमित्ते सति).
+
+_____________
+
+**4.10.29–30 (The Sinless Supplicant's Plea)**
+
+Glossing वैरानुकथनम् as the account of the cause of their hostility (वैरकारणाख्यानम्) and अनागसा as free of offense (अपराधरहितेन), Śivasahāya and Rāma Varmā note that वालिनः in 4.10.30a represents an ablative of source of fear (वालिन इति पञ्चमी, वालिनः सकाशात्), while निग्रहात् signifies slaying him (वधात्).
+
+_____________
+
+**4.10.31–32 (Rāma's Righteous Smile and Unerring Arrows)**
+
+Śivasahāya (_Śiromaṇi_) takes इव in प्रहसन्निव as emphatic (प्रहसन्नेव, `verily smiling' in confident assurance of Vālin's ease of destruction). On अमोघाः and रुषान्विताः (4.10.32), Rāma Varmā (_Tilaka_) explains the transferred epithet रुषान्विताः as `shot by me in wrath' (रुषान्विता रुष्टेन मया पातिताः), while Śivasahāya glosses अमोघाः as never failing of their mark (नैष्फल्यरहिताः) and links the wrath to the righteous anger aroused by Vālin's offense against Sugrīva (तवापराधजनितदुरितनिवृत्तिहेतुककोपेन संयुक्ताः).
+
+_____________
+
+**4.10.33 (No Delay in Slaying the Defiler of Dharma)**
+
+Highlighting the urgency of Rāma's vow (वधे विलम्बो नास्तीति बोधयन्नाह), Śivasahāya explains यावत्तं नहि पश्येयम् as `only until I show myself to that abductor of your wife' (यावन्न पश्येयं स्वात्मानं न दर्शयामि तावत् वाली जीवेत्). Rāma Varmā defines चारित्रदूषकः (`defiler of moral conduct') as one who, though knowing what is enjoined and forbidden, abducts the wife of his own living brother (विहितानिषिद्धज्ञानवत्त्वे सति जीवतो भ्रातुर्भार्यापहारात्).
+
+_____________
+
+**4.10.34–35 (Empathy Born of Shared Grief)**
+
+On आत्मानुमानात् (4.10.34a), Rāma Varmā and Śivasahāya explain that Rāma measures Sugrīva's immersion in the ocean of grief by the analogy of his own heart's anguish at the abduction of Sītā (रिपुहृतदारत्वान्मद्वदित्यनुमानम्, स्वदृष्टान्तकादनुमानात्). Rāma Varmā supplies the dual objects of बाढं प्राप्स्यसि पुष्कलम्: Sugrīva will surely recover his wife and obtain abundant sovereignty (बाढं प्राप्स्यसि भार्यां पुष्कलं राज्यं च).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

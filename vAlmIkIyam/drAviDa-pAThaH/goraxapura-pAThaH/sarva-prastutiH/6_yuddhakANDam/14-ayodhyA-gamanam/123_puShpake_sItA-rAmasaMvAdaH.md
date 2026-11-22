@@ -86,6 +86,14 @@ flew into the sky, with a great sound.
 
 When that scion of Kakutstha [Daśaratha] had departed (_pratiprayāte_), Mahendra, the chastiser of Pāka (_pākaśāsanaḥ_), supremely pleased, spoke to Rāghava who stood with joined palms:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1.**
+
+$18
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -132,6 +140,14 @@ Seetha, who had a moon-like face (as follows):
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Never in vain (_amogham_) is our beholding of you, O Rāma, O bull among men! We are filled with joy (_prītiyuktāḥ sma_); therefore, declare whatever is desired by your heart (_yan manasepsitam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2–4.**
+
+On v. 2, _Bhūṣaṇa_ offers two ways of construing the genitives तवास्माकं दर्शनम्: either Rāma's vision of the gods, which has already borne fruit in his reunion with Daśaratha and must now yield a further boon (प्रत्युपकाररूपं कार्यम्), or else the gods' vision of Rāma (अस्मत्कर्तृकं दर्शनम्), which never fails to bear fruit for his devotees. _Śiromaṇi_ explains अमोघम् as 'not fruitless' (निष्फलं न), prompting Indra's command ब्रूहि ('declare what you wish'). In v. 4, Rāma prefaces his petition by asking Indra to make his words come true (मे वचनं सत्यं कुरु).
 </details>
 </details>
 
@@ -281,6 +297,14 @@ people, on whom boons were conferred by Brahma and who was killed by me for your
 
 Those valiant Vānaras who for my sake (_mama hetoḥ_) have gone to the abode of Yama (_yamasādanam_)—may all of them regain their lives (_jīvitaṃ prāpya_) and rise up!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5–6.**
+
+In verses 5–6, Rāma asks nothing for himself, devoting his boon entirely to his fallen Vānara allies. _Tilaka_ glosses पराक्रान्ताः as those who displayed heroic valour (कृतपराक्रमाः) before falling in battle, and explains विप्रयुक्ताः ('separated from sons and wives') as separated by death (जीवितनाशेनेति भावः). _Śiromaṇi_ adds that Rāma prays for all those who went to Yama's realm for his sake (मम हेतोः यमसादनं गताः) to regain life and be reunited joyfully with their families.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,6 +410,14 @@ son of Ravana, killed by Lakshmana in a combat."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Heroic and valiant, counting death as naught (_na mṛtyuṃ gaṇayanti ca_), they strove with all their might and perished (_vipannāś ca_)—restore these to life (_jīvayaitān_), O Purandara!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7–9.**
+
+$1a
 </details>
 </details>
 
@@ -499,6 +531,14 @@ Free from pain (_nīrujaḥ_) and free from wounds (_nirvraṇāṃś caiva_), e
 
 And even out of season (_akāle cāpi_), may flowers, roots, and fruits, as well as limpid rivers (_nadyaś ca vimalāḥ_), abide wherever the Vānaras dwell!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**10–11.**
+
+On v. 10, _Tilaka_ observes that Rāma adds a second subsidiary boon so that the revived Vānara hosts will forever enjoy abundant sustenance (उत्थितानां सर्वदा सुलभसुखलाभाय वरान्तरमाह अकाले चापीति): wherever the monkeys reside (यत्र वानराः), trees must bear flowers, roots, and fruits even out of season (अकाले), and rivers must flow with crystal-clear water (विमलाः विमलोदकाः, _Bhūṣaṇa_). In v. 11, Indra responds with words expressive of deep affection (प्रीतिव्यञ्जकम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -603,6 +643,14 @@ Yupaksa and Prajangha were killed."
 
 “Great is this boon (_mahān ayaṃ varaḥ_), O dear one, which has been spoken by you, O best of the Raghus; yet never before have I spoken twice (_dvir mayā noktapūrvam_), and therefore this shall come to pass (_etad bhaviṣyati_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.**
+
+All three commentators dwell on Indra's acknowledgment of the magnitude of Rāma's request (महानयं वरः). _Tilaka_ notes that reviving even a single dead being is difficult, let alone resurrecting countless fallen warriors (अपरिमितमृतजीवनं तु). _Bhūṣaṇa_ vividly describes the miracle required: piecing back together severed hands, feet, tails, and heads scattered across the battlefield and recalling departed souls from other worlds (इतस्ततो विप्रकीर्णकरचरणपुच्छादिस्वरूपसंस्थानसंधानलोकान्तरगतानयनादिरूपाघटितार्थघटितत्वम्). Yet because Indra's word can never be contradicted (द्विर्मया नोक्तपूर्वम्, i.e., उक्तवचनस्य विपरीतं वचनान्तरं नोक्तपूर्वम्), he declares that it shall be fulfilled.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -665,6 +713,14 @@ Brahma shatru was too killed."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let all those who were slain in battle by the Rākṣasas rise up (_samuttiṣṭhantu_), along with the bears and the Gopuccha monkeys whose faces and arms had been severed (_nikṛttānanabāhavaḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13–16.**
+
+Indra now pronounces the creative fiat that brings Rāma's boon to pass. On v. 14, **Śivasahāya** (_Śiromaṇi_) glosses नीरुजः as free from broken limbs (अङ्गभङ्गरहिताः) and hence scarless (निर्व्रणाः), rising effortlessly like men waking when sleep is spent (सुप्ता निद्राक्षये इव समुत्थास्यन्ति). On v. 16, **Govindarāja** (_Bhūṣaṇa_) explains पुष्पशबलाः as 'multicoloured with blossoms' (पुष्पैर्नानावर्णाः) and सलिलायुताः as 'pervaded by water' (सलिलव्याप्ताः), ensuring perennial abundance in the Vānaras' forests.
 </details>
 </details>
 
@@ -868,6 +924,14 @@ oyster-shells."
 
 With limbs that had erstwhile been covered with wounds (_savraṇaiḥ prathamam_) now rendered whole and scarless (_idānīṃ nirvraṇaiḥ samaiḥ_), all those foremost of monkeys thereupon rose up as though after sleeping (_suptveva_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.**
+
+The commentators offer two distinct syntactic analyses of v. 17. **Rāma Varmā** (_Tilaka_) and _Śiromaṇi_ treat v. 17 as narrative report following immediately upon Indra's gracious resolve (देवराजस्यानुग्रहरूपसंकल्पानन्तरम्): the fallen monkeys whose limbs were previously mangled (प्रथमं सव्रणैः) now rise up with whole, unscarred bodies (इदानीं निर्व्रणैः गात्रैरुपलक्षिताः सर्वे हरिसत्तमाः) as though waking from sleep (सुप्त्वेव). _Śiromaṇi_ also explains the anomalous sandhi in सुप्त्वेव (for सुप्त्वा इव) as an instance of poetic license (कविस्वातन्त्र्यात्) applying _yaṇ-sandhi_ across the particle इव. _Bhūṣaṇa_, however, construes v. 17a as the final clause of Indra's speech extending the healing of wounds even to the surviving warriors.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -914,6 +978,14 @@ passing through the ocean, in order to provide rest and relaxation to Hanuma."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All the Vānaras were struck with wonder (_vismitāḥ_), exclaiming “What can this be (_kiṃ tv etad iti_)?”, while all the foremost of the gods beheld Kākutstha with his purpose fully accomplished (_paripūrṇārtham_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.**
+
+Linking v. 17 and v. 18a into a single sentence (सार्धश्लोक एकान्वयी), _Śiromaṇi_ and _Bhūṣaṇa_ explain why the revived and surviving monkeys alike are astonished (किमेतदिति विस्मिताः): seeing warriors who had been slain in battle suddenly standing alive and whole, they marvel how such a resurrection could occur (युद्धे मृतस्य कथमेवं जीवनमित्यर्थः). Meanwhile, in v. 18b, all the chief gods behold Rāma with his heart's desire completely fulfilled (परिपूर्णार्थम्).
 </details>
 </details>
 
@@ -978,6 +1050,14 @@ me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having praised Rāma together with Lakṣmaṇa, [the gods], supremely pleased (_paramaprītāḥ_), said: “Go forth from this place to Ayodhyā, O king, and dismiss the Vānaras (_visarjaya ca vānarān_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19–21.**
+
+Both **Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) link v. 18b through v. 21 as a continuous syntactic unit (गच्छायोध्यामित्यादिसार्धश्लोकद्वयमेकान्वयम्) in which the assembled gods (सुरोत्तमाः), seeing Rāma's wish fulfilled, praise him and Lakṣmaṇa and bid him return to his capital. _Śiromaṇi_ glosses इतः as 'from Laṅkā' (इतो लङ्कायाः अयोध्यां गच्छ) and notes the gods' tender concern that Rāma comfort Sītā (मैथिलीं सान्त्वयस्व च). On v. 20b, _Bhūṣaṇa_ explains त्वच्छोकात् as grief born of separation from Rāma (त्वद्वियोगशोकात्), which has led Bharata to live as a matted-haired ascetic at Nandigrāma.
 </details>
 </details>
 
@@ -1059,6 +1139,14 @@ this very place, Vibhishana the king of demons first came."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 as well as the high-souled Śatrughna and all your mothers, O scorcher of foes! Consecrate yourself upon the throne (_abhiṣecaya cātmānam_), and having gone there, gladden the citizens (_paurān praharṣaya_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21–22.**
+
+In v. 21, _Śiromaṇi_ notes how the gods urge Rāma to behold Śatrughna and all his mothers, have himself consecrated as king (आत्मानमभिषेचय च), and bring joy to the citizens of Ayodhyā (पौरान् गत्वा प्रहर्षय). In v. 22, having delivered this parting charge and taken leave of Rāma and Lakṣmaṇa, thousand-eyed Indra (सहस्राक्षः) ascends with the celestials in sun-bright aerial cars (विमानैः सूर्यसंकाशैः) and returns to heaven.
 </details>
 </details>
 
@@ -1152,6 +1240,14 @@ feeling timid through love, then spoke the following courteous words to Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And having reverently saluted (_abhivādya_) all those foremost of the celestials, Kākutstha, together with his brother Lakṣmaṇa, commanded the encampment (_vāsam ājñāpayat_) at that time.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23–24.**
+
+In the concluding verses of the sarga, Rāma and Lakṣmaṇa offer a final salutation (अभिवाद्य) to the departing gods, and Rāma orders the Vānara hosts to pitch camp for the night (वासमाज्ञापयत्तदा). In the closing _vaṃśastha_ verse (v. 24), the vast monkey army (महाचमूः), guarded by Rāma and Lakṣmaṇa and jubilant over the resurrection of all its fallen comrades (हृष्टजना), shines forth on every side like a clear night lit by the cool-rayed moon (शीतरश्मिना).
 </details>
 </details>
 

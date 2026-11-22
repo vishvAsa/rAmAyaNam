@@ -1619,6 +1619,134 @@ which the ambrosia is safeguarded, then Garuda carried off ambrosia from the pal
 
 Having shattered the iron-chain grilles (_ayo-jālāni nirmathya_) and broken open the excellent jeweled vault (_bhittvā ratna-gṛhaṃ varam_), he then carried off (_ājahāra_) the guarded ambrosia (_guptam... amṛtam_) from the palace of Mahendra.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.35.1 (Etymology of Śūrpaṇakhā & Dismissing the Council)**
+
+Opening Sarga 35 with a benediction to Viṣṇu whose mount Garuḍa fills all with wonder (यद्वाहनस्य माहात्म्यं सर्वेषां विस्मयावहम्), **Govindarāja** (_Bhūṣaṇa_) glosses रोमहर्षणम् as causing horripilation through terror (भयोत्पादकत्वेन रोमाञ्चकरम्), whereas **Rāma Varmā** (_Tilaka_) attributes it to erotic passion (कामविकारजनकतया). On शूर्पणखा, _Tilaka_ derives it from defiling (नख विदूषणे) sacrifices with a blood-vessel (शूर्पं शोणितभाजनम्), or having winnowing-fan nails (शूर्पाकारनखवती).
+
+_____________
+
+**3.35.2–3 (Weighing Force versus Stealth)**
+
+Reading verses 2–3 together (श्लोकद्वयमेकान्वयि), **Śivasahāya** (_Śiromaṇi_) explains that Rāvaṇa weighed the peril of opposing the mighty against the merit that even hostility with great souls is preferable (महात्मभिः सह विरोधोऽपि वरम्). **Govindarāja** (_Bhūṣaṇa_) notes that abducting Sītā by open valor (पौरुषेण) is impossible given Rāma's inconceivable might (रामस्याचिन्त्यपराक्रमत्वेन), whereas stealth (चौर्येण) avoids immediate peril.
+
+_____________
+
+**3.35.4–6 (Secrecy at the Chariot-Hall)**
+
+On प्रच्छन्नम् (प्रच्छन्नः in _Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_) notes that one embarking on a wicked deed goes covertly lest the virtuous intervene (दुष्टे कर्मणि प्रवृत्तौ बुद्धादिनिरोधभयात्). **Govindarāja** adds three motives: fear that Mandodarī would stop him (मन्दोदर्यादयश्च वारयिष्यन्ति), shame at choosing theft (चौर्यमार्गाश्रयणं लज्जावहम्), or acting without ministerial counsel.
+
+_____________
+
+**3.35.7–9 (The Ocean & Rāvaṇa's Dark Splendour)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) connect verses 6–7 (श्लोकद्वयमेकान्वयि) and gloss नदनदीपतिम् as the ocean (समुद्रः). In verses 8–10 (श्लोकत्रयमेकान्वयि), **Śivasahāya** explains श्वेतवालव्यजनः as fanned by white yak-tail plumes (चमरीपुच्छकेशवानां व्यजनम्) and दर्शनीयपरिच्छदः as possessing handsome regalia (दर्शनीयसामग्रीविशिष्टः), comparing the ten-headed demon to the mountain king crowned with ten peaks (दशशीर्षाद्रिराट्सदृशः).
+
+_____________
+
+**3.35.10 (The Threefold Cloud Simile)**
+
+Unpacking verse 10 (विद्युन्मण्डलवान् मेघः सबलाक इवाम्बरे), all three commentators map the correspondence: Rāvaṇa's dark beryl-like frame stands for the cloud (मेघस्थाने रावणः), his golden ornaments represent the flashing circle of lightning (विद्युत्स्थाने आभरणानि), and his white parasol—or, for **Govindarāja** (_Bhūṣaṇa_), his ornamented chariot (अलंकृतरथः)—corresponds to the line of white cranes (बलाकास्थाने छत्रम्, _Tilaka_, _Śiromaṇi_).
+
+_____________
+
+**3.35.11–12 (Syntactic Scope of the Coastal Panorama)**
+
+**Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) observe that verse 11 initiates a ten-verse unit (श्लोकदशकमेकान्वयि, 11–20) governed by अवलोकयन् and culminating in ददर्श (20d). Reading सशैलं सागरानूपम्, **Govindarāja** construes the series with the mountain-bordered seashore (शैलसहितं समुद्रतीरम्) graced with auspicious lotus-ponds (शुभजलाभिः पद्मिनीभिः).
+
+_____________
+
+**3.35.13–15 (Classes of Ascetics Along the Shore)**
+
+On अत्यन्तनियताहारैः (14a), **Rāma Varmā** (_Tilaka_) glosses sages subsisting on fallen leaves, air, and water (पर्णवातादिरूपो नियत आहारः). On the five ascetic orders in 15cd, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) cite Vedic _śruti_: _Ājas_ are Brahmā's mind-born sons (अयोनिजैः); _Vaikhānasas_ sprang from Brahmā's nails (ये नखास्ते वैखानसाः); _Māṣas_ belong to the Māṣa lineage (माषगोत्रजैः); _Vālakhilyas_ arose from Brahmā's hair (ये वालास्ते वालखिल्याः); and _Marīcipas_ drink solar rays (रविकिरणपानव्रतनिष्ठैः).
+
+_____________
+
+**3.35.16–17 (Nymphs & Amṛtāśins)**
+
+On क्रीडारतविधिज्ञाभिः, **Śivasahāya** (_Śiromaṇi_), reading क्रीडारस-, explains that the _apsarases_ are skilled in awakening playful aesthetic delight (क्रीडारसोत्पादननिपुणाभिः). On अमृताशिभिः (17d), **Rāma Varmā** (_Tilaka_) glosses the gods feeding on nectar (अमृतभोजनैः), whereas **Govindarāja** cites Manu (अमृतं स्यादयाचितम्) to include ascetics living on unrequested alms (अयाचितलब्धाशिभिः).
+
+_____________
+
+**3.35.18 (Plavas & Beryl Crags)**
+
+On हंसक्रौञ्चप्लवाकीर्णम्, **Govindarāja** (_Bhūṣaṇa_) notes that _plava_ denotes either water-fowl (जलकुक्कुटाः) or frogs (मण्डूकाः, also _Tilaka_). Glossing वैदूर्यप्रस्तरम् via the _Amarakośa_, **Govindarāja** explains that the shore is paved with cat's-eye rock slabs (वैदूर्यमयाः प्रस्तराः शिलाः यस्मिन्), kept cool (सान्द्रं शीतलम्, _Tilaka_) by ocean spray (सागरोर्मिवैभवेन).
+
+_____________
+
+**3.35.19–20 (Celestial Chariots of the Ascetics)**
+
+Completing the syntactic chain begun in verse 11 (श्लोकदशकमेकान्वयि), **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) construe तपसा जितलोकानाम् with विमानानि: as Rāvaṇa sped along his path (अभिसंपतन् मार्गवशात् प्राप्नुवन्), he beheld the radiant, wish-coursing aerial cars belonging to righteous souls who had conquered the higher realms through asceticism (तपसा जितलोकानां पुरुषाणां विमानानि), resounding with celestial music and song.
+
+_____________
+
+**3.35.21–22 (Exotic Flora of the Southern Coast)**
+
+Initiating a seven-verse sentence (श्लोकसप्तकमेकान्वयि, 21–27), the commentators offer three explanations of निर्यासरसमूलानाम्: **Rāma Varmā** (_Tilaka_) takes it either as sandalwood trees whose roots exude fragrant resin (निर्यासरूपरसयुक्तमूलानां चन्दनानाम्) or as _guggulu_ (bdellium) trees that are the source of aromatic gum; **Govindarāja** (_Bhūṣaṇa_) identifies it as _mūla_ herbs whose roots yield asafoetida (हिङ्गुरूपनिर्यासाः). **Govindarāja** distinguishes natural forests (वनानि अकृत्रिमाणि) from planted groves (उपवनानि कृत्रिमाणि) and glosses जात्यानां फलानाम् as nutmeg (जातिफलानाम्), whereas **Śivasahāya** reads फलिनाम् as _aṅkola_ trees.
+
+_____________
+
+**3.35.23–24 (Pearls, Coral & Ārṣa Neuters)**
+
+On शुष्यमाणानि तीरतः, **Govindarāja** (_Bhūṣaṇa_) explains that heaps of pearls cast ashore by the waves lie drying uncollected for a long time (चिरसञ्चितत्वेनानाद्रीणि), and flags the _ārṣa_ neuter forms समूहानि and शैलानि (नपुंसकत्वमार्षम्).
+
+_____________
+
+**3.35.25–27 (Purpose of the Coastal Description & the Banyan)**
+
+Concluding the seven-verse coastal panorama (श्लोकसप्तकमेकान्वयि, 21–27), **Govindarāja** (_Bhūṣaṇa_) remarks that Vālmīki elaborates this long, arduous journey to demonstrate Rāvaṇa's fanatical obsession (अध्यवसायविशेषं व्यञ्जयितुम्), which even Mārīca's counsel cannot deter. Introducing the cloud-dark banyan tree in 27cd, **Govindarāja** adds that the poet recounts the glory of Garuḍa—Viṣṇu's mount—to ridicule Rāvaṇa's folly (रावणो मूढ इति परिहसन्नाह): he dares antagonize Rāma, the very Lord whose vehicle's power is immeasurable (यस्य वाहनप्रभावोऽप्यपरिच्छेद्यस्तेन रामेण विरुणद्धि).
+
+_____________
+
+**3.35.28–30 (Garuḍa, the Elephant-Tortoise Prey & the Bough)**
+
+**Rāma Varmā** (_Tilaka_) notes that the poet digresses for six verses (षड्भिः श्लोकैः, 28–33) to celebrate the sacred banyan's majesty (तन्माहात्म्यम्). During his quest for ambrosia (अमृताहरणप्रस्तावे), Garuḍa seized a colossal elephant and tortoise (महाकायं गजं कच्छपं चादाय) and alighted on the hundred-_yojana_ bough to devour them. **Govindarāja** (_Bhūṣaṇa_) clarifies that the bough snapped under the combined weight of Garuḍa and the giant elephant and tortoise (न तु खगमात्रभारेण).
+
+_____________
+
+**3.35.30cd (Ascetics Suspended Beneath the Branch)**
+
+On तत्र वैखानसाः, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain that these orders of sages were gathered in penance directly beneath that snapping bough (तस्या भग्नशाखाया अधः).
+
+_____________
+
+**3.35.31–33 (Rescuing the Sages & Crushing the Niṣāda Realm)**
+
+On धूम्राः, **Govindarāja** (_Bhūṣaṇa_) glosses ascetics who subsist by inhaling sacrificial smoke (धूमपाः). Lest the falling hundred-_yojana_ bough crush the sages below (शाखापातेन पीडा मा भूदिति), righteous Garuḍa caught the bough with one foot (एकपादेन आदाय) and, devouring the elephant and tortoise in mid-air (अन्तरिक्ष एव, _Tilaka_; आकाश एवेति शेषः, _Bhūṣaṇa_), hurled the branch down upon the country of the wicked Niṣādas (निषादग्रामम्). **Govindarāja** notes that Garuḍa thus simultaneously rescued the Vaikhānasas and punished the Niṣādas who harassed Brahmins (सदैव मुनिबाधकनिषाददेशं सर्वं हत्वा... दुष्टनिग्रहाच्चातुलां प्रहर्षं लेभे).
+
+_____________
+
+**3.35.34–35 (Shattering the Iron Grilles & Seizing the Nectar)**
+
+While **Govindarāja** (_Bhūṣaṇa_) attributes Garuḍa's joy to satisfying his hunger (भक्षणजन्येन), **Rāma Varmā** (_Tilaka_) combines all three causes: feeding on the prey, destroying the Niṣādas, and saving the sages (आमिषभक्षणनिषादनाशनमुनिरक्षणजसंतोषेण). On अयोजालानि, _Tilaka_ and **Śivasahāya** (_Śiromaṇi_) explain that iron-chain lattices (अयःशृङ्खलनिर्मितजालानि) were stretched over the jeweled shrine in Indra's palace to prevent birds from entering (पक्षिप्रवेशपरिहाराय बद्धानि).
+
+_____________
+
+**3.35.36 (The Subhadra Banyan Marked by Suparṇa)**
+
+On सुपर्णकृतलक्षणम्, all three commentators explain that the Subhadra banyan bore as its permanent emblem the scar where Garuḍa had snapped its great bough (गरुडकृतशाखाभङ्गरूपलक्षणविशिष्टम्, _Śiromaṇi_).
+
+_____________
+
+**3.35.37–38 (Mārīca's Ascetic Garb Born of Devotion to Rāma)**
+
+Crossing to the farther shore of the ocean (समुद्रस्य परं पारं गत्वा), Rāvaṇa reaches Mārīca's secluded woodland hermitage. Commenting on कृष्णाजिनधरम् and जटामण्डलधारिणम्, **Govindarāja** (_Bhūṣaṇa_) offers a striking theological insight: Mārīca's adoption of the black antelope skin, matted locks, and strict ascetic diet expresses the genuine renunciation awakened in him through his fearful devotion to Rāma (रामभक्त्या जनितवैराग्यचिह्नोक्तिः) ever since Rāma's arrow hurled him across the sea during Viśvāmitra's sacrifice.
+
+_____________
+
+**3.35.39–40 (Superhuman Hospitality in the Southern Recension)**
+
+While the Baroda Critical Edition condenses the sarga's conclusion by joining 39ab directly to 42cd (as CE `3.33.38`), all three classical Southern commentators gloss verses 39cd–42ab in full. **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain सर्वकामैः as every desired object of enjoyment (अभिलषितसर्वभोग्यवस्तुभिः), while **Śivasahāya** (_Śiromaṇi_) glosses अमानुषैः as rare luxuries unattainable by mortals (मानुषालभ्यैः) and अर्थोपहितया as speech laden with meaning (प्रयोजनयुक्तया).
+
+_____________
+
+**3.35.41–42 (Mārīca's Anxious Inquiry)**
+
+On तूर्णमेव इहागतः (तूर्णमेवम् in _Bhūṣaṇa_), **Govindarāja** notes that Rāvaṇa's sudden arrival alone, in such precipitous haste (एवंवेगेन), immediately arouses Mārīca's suspicion and prompts his anxious inquiry, which Rāvaṇa answers at the opening of the next sarga (उत्तरसर्गे वक्ष्यमाणम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

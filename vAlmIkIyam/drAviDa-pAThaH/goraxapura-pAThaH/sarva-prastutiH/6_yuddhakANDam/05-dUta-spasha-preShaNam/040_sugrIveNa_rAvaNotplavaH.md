@@ -66,6 +66,14 @@ Ascending the two-yojana plateau of Mount Suvela with Sugrīva and the monkey ho
 
 Then Rāma, accompanied by Sugrīva and surrounded by the monkey troops (_hari-yūthaiḥ_), ascended the summit of Suvela, whose plateau measured two _yojanas_ in circuit.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.1–3 (Ascending Suvela and Sighting Rāvaṇa)**
+
+Introducing the fortieth _sarga_ as the single combat of Sugrīva and Rāvaṇa (अथ सुग्रीवरावणयोर्द्वन्द्वयुद्धकथनं चत्वारिंशे), Govindarāja and Rāma Varmā gloss योजनद्वयमण्डलम् as a summit plateau two _yojanas_ in expanse (योजनद्वयविस्तारम्). Śivasahāya notes that verses 2 through 6 form a single syntactic unit governed by ददर्श (`he beheld', सार्धश्लोकचतुष्टयमेकान्वयि), while Govindarāja glosses सुन्यस्ताम् as well-founded (निवेशिताम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -160,6 +168,14 @@ Standing right there for a _muhūrta_ and surveying the ten directions, [he behe
 
 **4:** Flanked on either side by white yak-tail fans, graced by a parasol of victory (_vijaya-cchatra_), smeared with red sandal-paste, and decked with jeweled ornaments—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.4–5 (Royal Regalia and Battle Scars)**
+
+On श्वेतचामरपर्यन्तम्, _Tilaka_ and _Śiromaṇi_ explain that white chowries are waved on both sides of Rāvaṇa (श्वेतचामरे पर्यन्ते वीज्यमाने यस्य), shaded by the royal white parasol of victory (विजयच्छत्रेण श्वेतच्छत्रेण राजचिह्नेन). For हेमसंछादिताम्बरम्, _Tilaka_ understands a lower garment overlaid with gold ornaments (अन्तरीयवासः), whereas Govindarāja offers two analyses: a garment patterned with gold (सुवर्णचित्राम्बरम्) or woven with gold thread (सुवर्णसूत्रिताम्बरम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -251,6 +267,14 @@ sunshine at sunset.
 
 Draped in a crimson garment dyed the hue of hare&#x27;s blood (_śaśa-lohita-rāgeṇa_), like a mass of clouds in the sky veiled by twilight sunlight.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.6 (The Twilight Cloud Simile)**
+
+Glossing शशलोहितरागेण, all three commentators identify शशलोहित as hare's blood (शशरुधिरं तत्सदृशरागवता) dyeing Rāvaṇa's upper cloak (उत्तरीयवस्त्रेण). Śivasahāya brings out the visual force of the closing simile: dark-bodied Rāvaṇa wrapped in his crimson mantle atop the tower resembles a dark bank of clouds suffused by the red glow of evening sunlight (संध्याकालिकरवितेजसा संछन्नमम्बरे मेघराशिमिव).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -304,6 +328,14 @@ of monkeys were looking on.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even as the monkey chiefs looked on, and as Rāghava too was looking on, at the mere sight of the lord of Rākṣasas Sugrīva sprang up suddenly.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.7–9 (Sugrīva's Sudden Leap)**
+
+Govindarāja connects Sugrīva's sudden bound with his earlier pledge before Rāma to slay Rāvaṇa at first sight (दृष्ट्वैव रावणं संख्ये दर्शनाद्वधमाचरेति), construing पश्यताम् as a genitive of disregard (अनादरे षष्ठी) signifying that Sugrīva leaped without waiting for permission (अत्रानादरणमपृष्ट्वा गमनम्) out of indignation that his lord's foe sat in royal state (कथं मत्स्वामिनोऽरिः स्वयं राजोपचारेण तिष्ठति). _Tilaka_ and _Śiromaṇi_ gloss सत्त्वेन as resolute martial zeal (सत्त्वकार्योत्साहेन).
 </details>
 </details>
 
@@ -452,6 +484,14 @@ be spared by me today, by the inspiring grace of Rama."
 
 “I am the friend and servant of Rāma, the lord of the world, O Rākṣasa! Today, through the majesty of that lord of kings, you shall not escape me!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.10–11 (Friend and Servant of Rāma)**
+
+Reconciling the juxtaposed titles in सखा दासोऽस्मि, both _Tilaka_ and _Bhūṣaṇa_ explain that Sugrīva is a friend in Rāma's gracious estimation but in his own heart a servant (रामाभिप्रायेण सखा, स्वाभिप्रायेण दास इति बोध्यम्). Govindarāja adds that by attributing his victory to Rāma's majesty (पार्थिवेन्द्रस्य तेजसा), Sugrīva avoids boastfulness (औद्धत्यं परिहरति) before tearing the famed crown from Rāvaṇa's head.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -562,6 +602,14 @@ will now become Hinagriva bereft of your neck."
 
 Beholding him rushing swiftly at him, the night-stalker spoke to him: “Behind my back (_parokṣaṃ me_) you are Sugrīva (‘fair-necked’), [but before me] you shall become neckless (_hīna-grīvaḥ_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.12 (Rāvaṇa's Wordplay on Sugrīva)**
+
+All three commentators unpack Rāvaṇa's menacing paronomasia on सुग्रीवः and हीनग्रीवः: in Rāvaṇa's absence (परोक्षं ममासन्निधाने) he bears the name Sugrīva, `he of the handsome neck' (शोभनग्रीवः), whereas in Rāvaṇa's presence (प्रत्यक्षे तु / मदग्रे) he will soon be rendered `bereft of his neck' (हीनग्रीवो भविष्यसि).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -616,6 +664,14 @@ his arms. Bouncing like a ball, Sugreeva flung back his adversary with his arms.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus and rising swiftly, he hurled him down onto the platform (_tale_) with both arms; rebounding like a ball (_kanduvat_), that monkey threw him down with both arms.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.13–15 (The Rebound and Crimson Clinch)**
+
+On कन्दुवत् समुत्थाय, _Tilaka_ and _Bhūṣaṇa_ explain that Sugrīva, thrown onto the gateway floor (तले गोपुरतले), bounces straight back up like a ball struck by the palm (क्रीडायां तलाहतकन्दुको यथा प्रागुत्तिष्ठति). Connecting verses 14 and 15 (श्लोकद्वयमेकान्वयम्), Govindarāja traces four sequential phases: sweating from the initial lock, bleeding from nail-gashes, immobilized in a clinch (निरुद्धचेष्टौ निस्पन्दौ), and standing apart red as flowering _śālmali_ and _kiṃśuka_ trees; both he and Rāma Varmā cite Amarakośa on अरत्नि (अरत्निस्तु निष्कनिष्ठेन मुष्टिना).
 </details>
 </details>
 
@@ -768,6 +824,14 @@ highly swift combatants remained in that flat roof of the gate way.
 
 Having waged close wrestling (_niyuddham_) fiercely for a long time in the middle of the gateway terrace, lifting and heaving each other and bending their bodies, by their footwork they clung to the gateway ledge.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.16–17 (Plunge into the Moat Trench)**
+
+Glossing नियुद्धम् as bare-armed wrestling (बाहुयुद्धम्), Govindarāja explains पादक्रमाद् गोपुरवेदिलग्नौ as stepping back foot by foot to hold the gateway ledge while watching for an opening. All three commentators interpret सालनिखातमध्ये as the space between the city wall and the moat (प्राकारपरिखयोर्मध्ये), while Govindarāja defends his reading भूतलमस्पृशन्तौ as springing back up through extreme agility (लाघवातिशयेन) almost without touching the ground.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -916,6 +980,14 @@ were now moving to and fro in the arena.
 
 Locking and relocking each other with the cords of their arms (_bāhu-yoktraiḥ_), they grappled in battle; endowed with fury, training, and strength, they deftly moved through martial courses.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.18 (The Triad of Martial Prowess)**
+
+On बाहुयोक्त्रैः, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ identify a metaphor comparing the wrestlers' locked arms to binding ropes (बाहुरूपरज्जुभिः / बाहुपाशैः). The three commentators analyze संरम्भशिक्षाबलसम्प्रयुक्तौ into wrathful determination (संरम्भः क्रोधः / अभिनिवेशः), practiced wrestling skill (शिक्षा नियुद्धाभ्यासः), and innate bodily vigor (बलं सहजं प्राणीयं).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -984,6 +1056,14 @@ their strength, fell on the ground together.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Like a tiger and a lion with newly grown fangs (_jāta-daṃṣṭrau_), or like two young lordly elephants locked in combat, clashing and wrapping each other with their arms, the two fell simultaneously to the earth.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.19–21 (Similes and वारणवारणाभैः)**
+
+On जातदंष्ट्रौ and गजेन्द्रपोतौ, _Tilaka_ and _Śiromaṇi_ note that the comparison is to young beasts (बालावित्यर्थः) and elephant calves (कलभौ) in their tireless vigor. Explaining वारणवारणाभैः, Rāma Varmā and Śivasahāya take the first वारण as a great elephant (महागजः) and the second as an elephant's trunk (करिहस्तवाची, `arms like elephant trunks'), whereas Govindarāja derives the second वारण as an elephant-tethering post (वार्यन्ते एभिरिति वारणाः आलानस्तम्भाः).
 </details>
 </details>
 
@@ -1152,6 +1232,14 @@ kill each other, they stood growling again and again.
 
 Closing with each other and intent on mutual destruction, like two cats contending over prey (_mārjārāv iva bhakṣārthe_), they stood poised again and again.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.22 (The Poised Cats Simile)**
+
+Glossing मार्जाराविव भक्षार्थेऽवतस्थाते, all three commentators explain that between bouts of wheeling movement the two combatants crouch motionless, eyeing each other like two cats tensely poised over food (भक्ष्यप्रदत्तावधानौ मार्जाराविव निश्चलं तस्थतुः). Govindarāja cites Pāṇini's rule (समवप्रविभ्यः स्थः इत्यात्मनेपदम्) to account for the middle-voice inflection in अवतस्थाते / वितस्थाते.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1186,6 +1274,14 @@ Closing with each other and intent on mutual destruction, like two cats contendi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 [They executed] variegated circular courses (_maṇḍalāni_), diverse martial stances (_sthānāni_), wondrous zigzag courses (_gomūtrakāṇi_), and advances and retreats (_gata-pratyāgatāni_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.23–24 (Bharata's Classical Stances and Courses)**
+
+Connecting verses 23–26 into a four-verse syntactic cluster (चतुःश्लोक्येकान्वया), _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ quote Bharata's _Nāṭyaśāstra_ defining the four _maṇḍalas_ (चारि, करण, खण्डमण्डल, and महामण्डल) and the six warrior stances (वैष्णवं समपादं च वैशाखं मण्डलं तथा । प्रत्यालीढमथालीढं स्थानान्येतानि षड्नृणाम्), along with zigzag _gomūtraka_ footwork (गोमूत्ररेखाकारकुटिलगमनानि) and parrying blows (स्थानचलनेन प्रहाराणां मोघकरणम्).
 </details>
 </details>
 
@@ -1267,6 +1363,14 @@ and by letting go or stealing away.
 
 **26:** And arm-extensions (_upanyastam_) and arm-withdrawals (_apanyastam_), those two masters of the courses of combat, the lord of monkeys and Rāvaṇa, maneuvered against each other.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.25–26 (Technical Wrestling Maneuvers)**
+
+Concluding the catalogue of martial movements, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ define each technical term: अभिद्रवणम् is a frontal charge (अभिमुखत्वेन शीघ्रगमनम्), आप्लावम् a frog-like leap (मण्डूकवद्गमनम्), परावृत्तम् turning the back, अपावृत्तम् sidestepping (पार्श्वतोऽपसरणम्), अपद्रुतम् darting low with bent body to seize the opponent's knees (परस्परजान्वादिग्रहायावनतकायतया धावनम्), and उपन्यस्तम्/अपन्यस्तम् extending or withdrawing the arms to grapple or evade a hold.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1330,6 +1434,14 @@ confounded there alone.
 **27:** In the meantime, the Rākṣasa prepared to employ his own power of illusion (_māyā-balam_); perceiving that [intent of his], the overlord of monkeys—
 
 **28:** Sprang up into the sky right then, radiant with victory (_jita-kāśī_) and having conquered fatigue (_jita-klamaḥ_); cheated by the king of monkeys, Rāvaṇa remained standing right there.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.27–28 (Rāvaṇa's Resort to Māyā and Sugrīva's Triumph)**
+
+Rāma Varmā notes that Rāvaṇa turns to illusion (मायाबलम्) only when unable to free himself from Sugrīva by physical might (सुग्रीवादात्मानं शक्त्या मोचयितुमशक्यत्वावसरे). Govindarāja remarks that Rāvaṇa's very resort to sorcery establishes the victory of Sugrīva, who fought strictly by the rules of fair combat (रावणस्य मायाबलोपक्रम एव नियमैर्युध्यमानस्य सुग्रीवस्य जय इति ज्ञेयम्), glossing जितकाशी as `shining with victory' (जितेन जयेन काशते), while _Tilaka_ and _Śiromaṇi_ render it `master of his breath' (जितश्वासः).
 </details>
 </details>
 
@@ -1396,6 +1508,14 @@ Rama, who as in the middle of the mokye-troops.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then that lord of the foremost monkeys, the son of the Sun (_arka-sūnuḥ_), having won renown in battle and exhausted the lord of night-stalkers in combat, traversed the vast sky and came to Rāma&#x27;s side amidst the monkey host.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**40.29–30 (Return of the Sun-God's Son)**
+
+While _Tilaka_ notes the _ārṣa_ form निशिचरपतिम् (निशिचरेत्यार्षम्), Govindarāja highlights the poetic propriety of the epithet अर्कसूनुः (`son of the Sun'): belonging to the solar lineage, Sugrīva effortlessly leaps across his father's sky (स्वस्यादित्यवंशत्वकथनादाकाशमुत्पतनेनालङ्घयत्), stands modestly among the monkey ranks (विनयेन स्वातिशयमप्रकाशयन्), and stations himself beside Rāma (रामपार्श्वं जगाम) rather than in front, feeling shy that he returned without Rāvaṇa's severed head (रावणशिरोऽनादायागतोऽहं कथमस्याग्रे तिष्ठेयमिति पार्श्वे स्थितः).
 </details>
 </details>
 

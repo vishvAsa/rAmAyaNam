@@ -72,6 +72,14 @@ of his father Dasharatha. [1-76-1]
 
 Hearing those words of the son of Jamadagni (_śrutvā tu jāmadagnyasya vākyam_), Rāma, the son of Daśaratha, restraining his speech out of reverence for his father’s presence (_gauravād yantritakathaḥ pituḥ_), then spoke to Rāma (Paraśurāma):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.1–2 (gauravād yantritakathaḥ pituḥ & pitur ānṛṇyam)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja (_Bhūṣaṇa_)** explain that out of reverence for King Daśaratha standing nearby (_pitṛgauravāt pitṛsaṃnidhivaśāt_), Śrī Rāma restrained himself from speaking harshly at full voice (_yantritā niyamitā kathā uccaiḥkathanaṃ yena_). In v. 2, Rāma concedes that Paraśurāma’s twenty-one-fold slaughter of Kṣatriyas is excusable (_anurudhyāmahe aṅgīkurmaḥ_) because a son is duty-bound to avenge his father (_pitṛvairaśuddhim_, **Tilaka** and **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +193,14 @@ in revealing Rama's godhood to world, or in particular to Ravana.
 
 “Yet, O Bhārgava, you slight my valor (_avajānāsi me tejaḥ_), deeming me devoid of prowess and incapable of fulfilling the duty of a Kṣatriya (_vīryahīnam ivāśaktaṃ kṣatradharmeṇa_); behold today my might (_paśya me ’dya parākramam_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.3 (avajānāsi me tejaḥ)**
+
+What Rāma does not excuse (_tan nānurudhyāmahe_, **Tilaka** and **Govindarāja**) is Paraśurāma’s insolent taunt in 75.27 implying that Rāma is too weak to uphold _kṣatradharma_. Rāma distinguishes _tejaḥ_—intolerance of another’s affront (_parābhibhavāsahanam_)—from _parākramaḥ_, subduing the foe by one’s own power.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -243,6 +259,14 @@ bade goodbye to his earlier incarnation, Parashu Rama, as two swords cannot be i
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Speaking thus, the enraged Rāghava of swift valor (_rāghavaḥ kruddho ... laghuparākramaḥ_) took from Bhārgava’s hand his supreme weapon, the bow, together with the arrow (_bhārgavasya varāyudhaṃ śaraṃ ca pratijagrāha hastāt_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.4–5 (varāyudhaṃ ... pratijagrāha & sajyaṃ cakāra)**
+
+Citing the _Padma Purāṇa_ (_vaiṣṇavyā śaktyā tadgatayā saha jagrāha vaiṣṇavaṃ cāpam_), **Tilaka** reveals the esoteric meaning of _ca_ in v. 4: along with the bow and arrow, Śrī Rāma drew out the Vaiṣṇava _śakti_ residing within Paraśurāma.
 </details>
 </details>
 
@@ -355,6 +379,14 @@ a blood relation of Vishvamitra, and that corner of mercy is not allowing Rama t
 
 “Because you are a Brāhmaṇa (_brāhmaṇo ’sīti_), and also on account of your kinship with Viśvāmitra (_viśvāmitrakṛtena ca_), you are worthy of my reverence (_pūjyo me_); therefore, O Rāma, I cannot release this life-taking arrow against you (_tasmāc chakto na te rāma moktuṃ prāṇaharaṃ śaram_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.6 (brāhmaṇo ’sīti & viśvāmitrakṛtena ca)**
+
+All three commentators explain the two reasons Śrī Rāma refrains from taking Paraśurāma’s life: first, as Jamadagni’s son he is a Brāhmaṇa; second, through Rāma’s revered preceptor Viśvāmitra, Paraśurāma is a kinsman—for Viśvāmitra’s sister Satyavatī wedded Ṛcīka and bore Jamadagni, making Paraśurāma the grandson of Viśvāmitra’s sister (_viśvāmitrabhaginyāḥ pautro ’sīti pūjyas tvaṃ me ’si_, **Tilaka** and **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -434,6 +466,14 @@ the mythological quarrels have no place in Ramayana.
 
 **8:** “For this celestial arrow of Viṣṇu, the conqueror of hostile citadels (_vaiṣṇavo divyaḥ śaraḥ parapuraṃjayaḥ_), which crushes the pride of strength by its valor (_vīryeṇa baladarpavināśanaḥ_), never falls in vain (_na hy ayaṃ ... moghaḥ patati_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.7–8 (tvadgatiṃ vā ... lokān vā & na moghaḥ patati)**
+
+Because the fitted Vaiṣṇava arrow cannot fall without a target (_lakṣyam abhittvā na tūṣṇīṃ patati_, **Govindarāja**), Rāma offers a choice: it must sever either Paraśurāma’s yogic power of flight (_ākāśagamanādirūpāṃ śaktim_) or his merit-won celestial realms (_lokaprāptisādhanaṃ dharmam_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -464,6 +504,14 @@ the mythological quarrels have no place in Ramayana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 To behold Rāma wielding that supreme weapon (_varāyudhadharaṃ rāmaṃ draṣṭum_), the gods together with the hosts of sages (_sarṣigaṇāḥ surāḥ_), placing the Grandsire Brahmā at their head (_pitāmahaṃ puraskṛtya_), assembled there from all sides (_sametās tatra sarvaśaḥ_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.9–10 (pitāmahaṃ puraskṛtya)**
+
+**Śiromaṇi** remarks that the gods placed Pitāmaha Brahmā in front because even they trembled before the blazing radiance of Rāma’s nocked arrow (_surāṇāṃ rāmabāṇabhītatvaṃ sūcitam_).
 </details>
 </details>
 
@@ -587,6 +635,14 @@ upraised eyes.
 
 While the world stood transfixed (_jaḍīkṛte tadā loke_) as Rāma held that supreme bow (_rāme varadhanurdhare_), the son of Jamadagni, stripped of his vigor (_nirvīryo jāmadagnyo ’sau_), gazed up at Rāma (_rāmo rāmam udaikṣata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.11–12 (nirvīryo jāmadagnyaḥ & tejobhir gatavīryatvāt)**
+
+Both **Tilaka** and **Govindarāja** cite the _Nṛsiṃha Purāṇa_ to explain why Paraśurāma suddenly became _nirvīryaḥ_ and _jaḍīkṛtaḥ_: the moment Śrī Rāma strung the bow, the Vaiṣṇava splendor that had dwelt in Paraśurāma departed from his body and entered Rāma before the eyes of all the gods (_tataḥ paraśurāmasya dehān nirgatya vaiṣṇavam, paśyatāṃ sarvadevānāṃ tejo rāmam upāviśat_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -689,6 +745,14 @@ to the ethereal mountain called Mt. Mahendra.
 
 “When the earth was formerly bestowed by me upon Kaśyapa (_kāśyapāya mayā dattā yadā pūrvaṃ vasuṃdharā_), Kaśyapa said to me, ‘You must not dwell within my domain’ (_viṣaye me na vastavyam iti māṃ kāśyapo ’bravīt_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.13–14 (viṣaye me na vastavyam & pṛthivyāṃ na vase niśām)**
+
+**Tilaka** explains why Kaśyapa forbade Paraśurāma from dwelling on the earth after receiving it as _dakṣiṇā_: to relieve the surviving Kṣatriyas of terror (_avaśiṣṭakṣatrabhītyādinivṛttaye_). Ever since, Paraśurāma vowed never to pass a night on earth.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -790,6 +854,14 @@ of cerebration to Mt. Mahendra, a par excellent mountain... [1-76-15]
 
 “Therefore, O hero, O Rāghava, you ought not to destroy this power of movement of mine (_tām imāṃ madgatiṃ vīra hantuṃ nārhasi rāghava_); with the speed of mind I shall depart to Mahendra, the foremost of mountains (_manojavaṃ gamiṣyāmi mahendraṃ parvatottamam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.15 (tām imāṃ madgatim & manojavam)**
+
+If Rāma’s arrow were to cripple his power of mind-swift travel (_ākāśagamanasādhanau pādau_), Paraśurāma could not return to Mount Mahendra before nightfall and would incur grave sin through the breach of his pledge (_pratijñāhānyā_, **Tilaka**) to Kaśyapa.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -846,6 +918,14 @@ arrow... let there be no time-lag... [1-76-16]
 
 “Peerless celestial worlds, O Rāma, have been won by me through asceticism (_lokās tv apratimā rāma nirjitās tapasā mayā_); strike them down with this foremost of arrows (_jahi tāñ śaramukhyena_)—let there be no delay of time (_mā bhūt kālasya paryayaḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.16 (lokās tv apratimā ... jahi tān)**
+
+**Tilaka** and **Govindarāja** explain the profound theology of Paraśurāma’s choice: by asking Rāma to destroy the celestial worlds won by his ritual and ascetic merit (_lokahananaṃ nāma lokadānapratibandhaḥ_), a liberated knower of truth (_tattvajñaḥ_) gladly surrenders enjoyment of lower heavens, which would only obstruct supreme liberation (_lokāvarodhaḥ sveṣṭa eveti darśitam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -894,6 +974,14 @@ Madhu, namely Vishnu, by the touch of your handling that bow... oh, enemy-inflam
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By your handling and drawing of this bow (_dhanuṣo ’sya parāmarśāt_), I know you to be the imperishable slayer of the demon Madhu, the Lord of the gods (_akṣayyaṃ madhuhantāraṃ jānāmi tvāṃ sureśvaram_); hail unto you, O scorcher of foes (_svasti te ’stu paraṃtapa_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.17–18 (akṣayyaṃ madhuhantāram & dhanuṣo ’sya parāmarśāt)**
+
+By Rāma’s effortless drawing of the Vaiṣṇava bow, Paraśurāma recognizes him as the eternal Lord of immortality (_utāmṛtatvasyeśānaḥ_, **Tilaka**), the changeless Viṣṇu who slew Madhu (_akṣayaṃ nirvikāraṃ madhuhantāram_, **Govindarāja**).
 </details>
 </details>
 
@@ -1001,6 +1089,14 @@ say that this is a disgrace to me... [1-76-19]
 
 “Nor, O Kākutstha, ought this to be a matter of shame for me (_na ceyaṃ mama kākutstha vrīḍā bhavitum arhati_) that I have been worsted and turned back by you, the Lord of the three worlds (_tvayā trailokyanāthena yad ahaṃ vimukhīkṛtaḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.19–20 (na ceyaṃ mama ... vrīḍā & śaramokṣe)**
+
+**Tilaka** notes why Paraśurāma feels no shame in defeat: one feels shame when vanquished by another, not when a partial manifestation (_bhagavadaṃśaḥ_) has its energy reabsorbed by the full Supreme Lord (_svātmanāṃ māyayā tathākaraṇe_) so that Rāma may stand in full splendor to slay Rāvaṇa.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1105,6 +1201,14 @@ from that longbow of Vishnu. [1-76-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When Rāma, the son of Jamadagni, had spoken thus (_tathā bruvati rāme tu jāmadagnye_), the mighty and glorious Rāma, son of Daśaratha, loosed that supreme arrow (_rāmo dāśarathiḥ śrīmāṃś cikṣepa śaram uttamam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.21–22 (cikṣepa śaram uttamam & hatān dṛśya ... lokān)**
+
+With his sins already burned away by austerity and the fruits of his ritual merit now blocked by Rāma’s arrow, Paraśurāma becomes a _jīvanmukta_ ready to abide in pure knowledge (_jīvanmukto bhūtvā gamiṣyāmi_, **Tilaka**). On _dṛśya_ in v. 22, all three commentators note the Ārṣa _lyap_ without a preverb for _dṛṣṭvā_.
 </details>
 </details>
 
@@ -1219,6 +1323,14 @@ Please refer the endnote about this longbow and how it is passed on to Janaka's 
 
 Thereupon all the cardinal directions and intermediate quarters became free of darkness (_tato vitimirāḥ sarvā diśaś copadiśas tathā_), and the gods together with the hosts of sages praised Rāma as he held the upraised weapon (_surāḥ sarṣigaṇā rāmaṃ praśaśaṃsur udāyudham_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.23 (vitimirāḥ sarvā diśaḥ)**
+
+Once the arrow consumes Paraśurāma’s worlds and his wrathful challenge subsides, the gloom that had shrouded the quarters vanishes (_andhakārarahitāḥ sarvāḥ diśaḥ_, **Śiromaṇi**), and the gods and sages extol Śrī Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1280,6 +1392,14 @@ went on his own way into oblivion. [1-76-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Honored by Rāma, the son of Daśaratha (_rāmaṃ dāśarathiṃ rāmo jāmadagnyaḥ prapūjitaḥ_), the mighty Rāma, son of Jamadagni, then circumambulated him (_tataḥ pradakṣiṇīkṛtya_) and departed to his own abode (_jagāmātmagatiṃ prabhuḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**76.24 (prapūjitaḥ & pradakṣiṇīkṛtya)**
+
+**Tilaka** explains the delicate protocol between the two Rāmas: Śrī Rāma first honors and bows to Paraśurāma as a Brāhmaṇa (_dāśarathinā brāhmaṇatvāt pūjito namaskṛtaś ca_), while Paraśurāma—knowing Rāma to be the Supreme Indwelling Lord, yet refraining from bodily prostration to a Kṣatriya—honors him by reverent circumambulation (_antaryāmitvena jñānāt pradakṣiṇakaraṇam_) before departing to his abode.
 </details>
 </details>
 

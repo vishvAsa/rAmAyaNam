@@ -1109,5 +1109,79 @@ The name Khara also stands for a he-ass
 
 **22:** —became bereft of consciousness (_naṣṭa-saṃjñā babhūva ha_) beside her brother, stricken with grief (_śokārtā_); and beating her belly with both hands (_karābhyām udaraṃ hatvā_), she wept in sore distress (_bhṛśa-duḥkhitā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.21.1–2 (anarthārtham āgatām)**
+
+Introducing the twenty-first Sarga (अथ खरप्रोत्साहनमेकविंशे), **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) explain that Vālmīki describes Śūrpaṇakhā as returning अनर्थार्थम् (“for the sake of calamity”) because her incitement brings about the annihilation of the entire Rākṣasa host (सर्वराक्षसविनाशायैव, _Bhūṣaṇa_; राक्षसकुलनाशसिद्ध्यर्थम्, _Śiromaṇi_), while **Rāma Varmā** (_Tilaka_) supplies स्वकुलस्येति शेषः.
+
+_____________
+
+**3.21.3 (hanyamānā na hanyante & Double Negation)**
+
+On `3.21.3`, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that Khara dismisses both possible causes for her renewed lamentation: since those fourteen warriors cannot be killed even when struck by enemies (शत्रुभिर्हन्यमाना अपि ये न हन्यन्ते, _Tilaka_), there is no fear that the task proved too hard (दुष्करत्वशङ्का नास्ति, _Śiromaṇi_); and since they would never disobey his word (मम वचो न कुर्युरिति च न), there is no doubt that they went forth (तद्गमनाभावशङ्का नास्ति, _Śiromaṇi_).
+
+_____________
+
+**3.21.4–6 (yatkṛte & vaiklavyam)**
+
+On यत्कृते (`3.21.4b`), **Govindarāja** (_Bhūṣaṇa_) explains कृते as an indeclinable of cause (कृते इत्यव्ययं यन्निमित्तम्), and glosses वैक्लव्यम् (`3.21.5d`) as faint-heartedness (कातरता) and दुर्धर्षा (`3.21.6a`) as unassailable (दुराधर्षा).
+
+_____________
+
+**3.21.7–9 (Recapitulating the First Mission)**
+
+**Rāma Varmā** (_Tilaka_) explains the rhetorical structure of verses 7–9: Śūrpaṇakhā first recalls how she arrived mutilated and blood-drenched (`3.21.7`) and was consoled by Khara, before reporting the fate of the fourteen warriors sent on her behalf (यत्र मदर्थं प्रेषितास्तद्वृत्तान्तं वक्ष्यामीति). **Śivasahāya** (_Śiromaṇi_) construes verses 8 and 9 as a single sentence (श्लोकद्वयमेकान्वयि) and glosses सामर्षाः as intolerant of a rival's superiority (परोत्कर्षासहनशीलाः).
+
+_____________
+
+**3.21.10–11 (kṣaṇenaiva & sarvato bhayadarśinī)**
+
+On क्षणेनैव (`3.21.10b`), **Rāma Varmā** (_Tilaka_) emphasizes that Rāma felled the fourteen demons in a single moment rather than after a protracted battle (न तु चिरकालयुद्धपूर्वेण). On भीता समुद्विग्ना विषण्णा (`3.21.11a`), _Tilaka_ traces a causal sequence—fear causes trembling (समुद्विग्ना कम्पमाना), which causes dejection (दुःखिता)—and both _Tilaka_ and _Bhūṣaṇa_ explain सर्वतो भयदर्शिनी as beholding Rāma's apparition everywhere (सर्वत्र रामप्रतिभासवतीति भावः, _Bhūṣaṇa_).
+
+_____________
+
+**3.21.12 (The Ocean of Grief)**
+
+**Śivasahāya** (_Śiromaṇi_) unpacks the sustained metaphor (_sāṅgarūpaka_) likening her sorrow to a vast ocean (विपुले शोकसागरे) haunted by the crocodiles of despair (विषाद एव नक्रो मकरस्तेन अध्युषिते) and surging with waves of terror (परित्रास एव ऊर्मिमाला तरङ्गसमूहस्तद्वति), while **Govindarāja** (_Bhūṣaṇa_) glosses नक्रः as ग्राहः.
+
+_____________
+
+**3.21.13–15 (anukrośaḥ & rākṣasakaṇṭakam)**
+
+**Govindarāja** (_Bhūṣaṇa_) remarks that in `3.21.13` Śūrpaṇakhā repeats the report of the warriors' death because excessive wrath has made her forget she already stated it (कोपातिरेकात् पूर्वोक्तं विस्मृत्य पुनराह). On `3.21.14`, both _Bhūṣaṇa_ and _Tilaka_ gloss अनुक्रोशः as compassion (दया, _Bhūṣaṇa_) and supply योद्धुम् with रामेण यदि शक्तिस्ते (“if you have power to fight with Rāma”), while **Śivasahāya** (_Śiromaṇi_) unites `14` and `15ab` into a single syntactic period (सार्धश्लोक एकान्वयी).
+
+_____________
+
+**3.21.15cd–16ab (nirapatrapā)**
+
+On निरपत्रपा (`3.21.16b`), both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that she calls herself “shameless” (निर्लज्जा) because her ears and nose have been severed (हतकर्णनासात्वादिति भावः, _Bhūṣaṇa_; छिन्नकर्णनासिकत्वात्, _Tilaka_).
+
+_____________
+
+**3.21.16cd–17 (sabalo 'pi & mithyāropitavikramaḥ)**
+
+On सबलोऽपि, **Rāma Varmā** (_Tilaka_) glosses “even accompanied by a fourfold army” (चतुरङ्गबलोपेतोऽपि), and both _Tilaka_ and _Śiromaṇi_ explain मिथ्यारोपितविक्रमः as one who has falsely arrogated valor to himself (मृषैव स्वस्मिन्नारोपितो विक्रमो येन, _Tilaka_), whereas _Bhūṣaṇa_ glosses it as imputed valor (कल्पितपराक्रमः).
+
+_____________
+
+**3.21.18–19 (kulapāṃsana & kīdṛśo vāsaḥ)**
+
+On `3.21.18–19`, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain Śūrpaṇakhā's ultimatum: Khara must either evacuate Janasthāna immediately with his kinsmen (जनस्थानात् त्वरितः सन्नपयाहि) or else slay the two princes in battle (समरे तौ जहि); otherwise, for one devoid of fortitude (निःसत्त्वस्य निर्धैर्यस्य, _Śiromaṇi_), dwelling there is utterly disgraceful (जुगुप्सित एवेत्यर्थः, _Tilaka_; अत्यन्तायोग्य इत्यर्थः, _Bhūṣaṇa_).
+
+_____________
+
+**3.21.20–21ab (The Might of Rāma and Lakṣmaṇa)**
+
+**Śivasahāya** (_Śiromaṇi_) links `20` and `21ab` as a one-and-a-half-verse unit (सार्धश्लोक एकान्वयी) stating the reason why Khara cannot remain in Janasthāna (वासाभावे कारणमाह): Rāma is endowed with overpowering martial splendour (तेजःसमायुक्तः), and his brother Lakṣmaṇa, who disfigured her (येनाहं विरूपितास्मि), possesses immense valor (महावीर्यः).
+
+_____________
+
+**3.21.21cd–22 (pradarodarī vs. vitatodarī)**
+
+On प्रदरोदरी, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss it as having a sunken or cavernous belly (निम्नोदरी), whereas **Govindarāja** (_Bhūṣaṇa_), reading विततोदरी, glosses it as having a naturally broad, distended belly (प्रकृत्या विस्तृतौदरी). _Śiromaṇi_ adds that upon losing her discernment in grief (नष्टसंज्ञा विध्वस्तविवेका), she beat her belly with both hands and wept.
+</details>
 </details>
 

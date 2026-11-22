@@ -153,6 +153,98 @@ that move about in Dandaka forest? [3-3-3]
 
 **3:** “Know us two (_viddhi nau_) to be _kṣatriyas_ endowed with righteous conduct (_vṛtta-sampannau_), ranging the forest (_vana-gocarau_). Desiring to know you, however (_tvāṃ tu veditum icchāvaḥ_)—who are you that roam the Daṇḍaka woods?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.3.1–3 (Rāma's Reply to Virādha's Accusation)**
+
+Opening Sarga 3, **Govindarāja** (_Bhūṣaṇa_) observes that Virādha's inquiry prepares the way for Rāma's saving grace (अथ विराधानुग्रहाय तदाभिमुख्यं दर्शयति). While **Śivasahāya** (_Śiromaṇi_) comments on an additional opening verse where Lakṣmaṇa challenges the demon (श्लोकोऽयमधिको रा. पाठे), **Rāma Varmā** (_Tilaka_) construes पृच्छतो मम as dative (पृच्छते मह्यम्). Refuting Virādha's charge of unrighteousness (अधर्मचारिणौ), Rāma declares their Ikṣvāku lineage (इक्ष्वाकुकुलमात्मनः) and virtuous conduct (वृत्तसम्पन्नौ).
+
+_____________
+
+**3.3.4–5 (Virādha's Parentage & Name)**
+
+On कस्त्वं चरसि, **Govindarāja** (_Bhūṣaṇa_) explains that since Virādha already stated his name and race in Sarga 2, Rāma now asks his parentage and power (कस्य पुत्रः किंप्रभाव इति). Virādha names his father Java (जवनाम्नः, _Tilaka_; जयस्य in _Bhūṣaṇa_) and mother Śatahradā, **Govindarāja** etymologizing विराधः as “free from torment” (विगताराधनः).
+
+_____________
+
+**3.3.6 (acchedyābhedyatvam & Brahmā's Boon)**
+
+All three commentators distinguish अच्छेद्यत्वम्—immunity to dismemberment (अवयवद्वैधीभवनाभावः)—from अभेद्यत्वम्—immunity to piercing wounds (शरीरव्रणप्राप्त्यभावः)—which **Śivasahāya** (_Śiromaṇi_) restricts to mundane weapons (प्राकृतशस्त्रेण).
+
+_____________
+
+**3.3.7–9 (anapekṣau & hīnārtham)**
+
+On अनपेक्षौ, **Rāma Varmā** (_Tilaka_) glosses it as renouncing all hope both of recovering Sītā and of fighting (प्रमदाशया युद्धाशया च रहितौ), while **Govindarāja** (_Bhūṣaṇa_) explains त्वरमाणौ as Virādha warning that his mind might change if they linger (मन्दगमने मे मनश्चलेदिति भावः), and **Śivasahāya** (_Śiromaṇi_) sees the demon deliberately provoking Rāma to win liberation at his hands (रामहस्तात्स्ववधकामस्तं कोपयन्नाह). All three gloss हीनार्थम् as pursuing the base aim of coveting another's wife (परदारस्पर्शरूपहीनकर्मकरम्, _Tilaka_).
+
+_____________
+
+**3.3.10–11 (jyāguṇavatā & suparṇānilatulyagān)**
+
+Having unstrung his bow upon entering the sages' grove in Sarga 1, Rāma now strings it (सज्यं धनुः कृत्वा). On ज्यागुणवता, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) take गुण as bow-cord (ज्यारूपरज्जुमता) or the twang of the string (ज्याशब्दवता), loosing seven shafts swift as Garuḍa and the wind (सुपर्णानिलाभ्यां तुल्यं गच्छन्ति).
+
+_____________
+
+**3.3.12 (barhiṇavāsasaḥ & śoṇitādigdhāḥ)**
+
+All three commentators explain बर्हिणवाससः as arrows fledged with peacock feathers (मयूरपिच्छवाससः). **Govindarāja** (_Bhūṣaṇa_) notes that आदिग्धाः means only lightly tinged with blood (ईषल्लिप्ताः) because the shafts passed through Virādha's body before blood could gush forth (रक्तोद्गमात्पूर्वमेव झटिति निर्गमात्).
+
+_____________
+
+**3.3.13–14 (nyasya vaidehīm & śakradhvajopamam)**
+
+On स विद्धो न्यस्य वैदेहीम्, **Rāma Varmā** (_Tilaka_) notes that although Brahmā's boon prevented fatal dismemberment, the sharp pain of Rāma's arrows forced Virādha to set Sītā down (वरदानमाहात्म्यादगताशून्यतामात्रेण वैदेहीं हित्वा), while **Govindarāja** (_Bhūṣaṇa_) remarks that once Sītā was safely on the ground, the brothers could shoot freely (सीतानिक्षेपानन्तरं यथेष्टं बाणमोचनसौकर्यात्). On शक्रध्वजोपमम्, _Tilaka_ compares the pike to Indra's festival pole in length and thickness (दैर्घ्येण स्थौल्येन च).
+
+_____________
+
+**3.3.15 (kālāntakayamopame)**
+
+Analyzing the triple compound कालान्तकयमोपमे, **Rāma Varmā** (_Tilaka_) explains Kāla, Antaka, and Yama as three distinct destructive forms of Rudra (संहाररुद्रस्य मूर्तयस्तत्सदृशे), whereas **Govindarāja** (_Bhūṣaṇa_) construes it as Yama the Destroyer at the time of cosmic dissolution (संहारकाले अन्तको नाशको यो यमस्तत्सदृशे).
+
+_____________
+
+**3.3.16–17 (ajṛmbhata & Expelling the Arrows)**
+
+On प्रहस्य and अजृम्भत, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Virādha mocked the arrows as mosquito bites (किमेतैर्मशकप्रायैरिति) and stretched his body (गात्रविनाममकरोत्) so that the lodged shafts fell out (कायान्निष्पेतुः), restraining his vital breaths through his boon (वरदानेन प्राणान् संरोध्य).
+
+_____________
+
+**3.3.18–19 (Severing the Pike Like Meru's Crag)**
+
+On तच्छूलं... चिच्छेद, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that Rāma severed the pike while it was still brandished in Virādha's hand (करस्थशूलभागमेव, हस्तस्थम्), comparing its flaming tip in the air to lightning (आकाशस्थाग्निः तवुपमम्). Cleft by Rāma's arrows, the massive iron pike crashed to the ground like a slab of Mount Meru split by Indra's thunderbolt (अशनिना वज्रेण).
+
+_____________
+
+**3.3.20–21 (praharatām & aprakampyau)**
+
+Glossing प्रहरताम् as the imperfect प्राहरताम्, **Rāma Varmā** (_Tilaka_) notes that the brothers assailed Virādha the very instant his pike fell (तदा पतनकाल एव), their dark blades gleaming like reared black cobras (कृष्णसर्पाविव). On अप्रकम्प्यौ, **Govindarāja** (_Bhūṣaṇa_) observes the poet's irony: the demon tries to carry off two heroes whom none can even shake (चालयितुमप्यशक्यौ कथमेष नेष्यतीति कविः परिहसति).
+
+_____________
+
+**3.3.22 (tasyābhiprāyam ājñāya)**
+
+Discerning Virādha's intent to carry them deeper into the forest (वनान्तर्नयनेच्छाम्, _Bhūṣaṇa_), Rāma tells Lakṣmaṇa to let the demon bear them along their intended route (आवाभ्यां गन्तव्येन पथा वहतु).
+
+_____________
+
+**3.3.23 (ayam eva hi naḥ panthāḥ)**
+
+On Rāma's assent in 3.3.23, **Rāma Varmā** (_Tilaka_) notes that letting the demon carry them wherever he wishes displays the brothers' utter fearlessness (अनेन निर्भयत्वं दर्शितम्), while **Śivasahāya** (_Śiromaṇi_) explains that since the night-ranger is heading down the very forest trail they intend to travel (येन पथा अयं निशाचरो याति स एव नोऽस्माकं पन्थाः), being carried causes no delay to their journey (यात्राविलम्बो न भविष्यति).
+
+_____________
+
+**3.3.24–25 (bālāv iva skandhagatau)**
+
+On Virādha hoisting the two princes onto his shoulders like children (बालाविव स्कन्धगतौ चकार), **Govindarāja** (_Bhūṣaṇa_) remarks that the demon could lift the unshakeable lords of the universe only because they consented by their own free will (तयोरिच्छावशादिति भावः).
+
+_____________
+
+**3.3.26 (The Cloud-Dark Forest & Theological Summary)**
+
+Glossing शिवायुतम् as echoing with jackals (शिवाभी रतम्, _Tilaka_), **Govindarāja** (_Bhūṣaṇa_) concludes Sarga 3 by observing that this canto illustrates how all actions in the universe depend upon the Lord's will (भगवतः स्वायत्तसकलप्रवृत्तिकत्वम्) and his supreme fearlessness (महानिर्भयत्वं च दर्शितम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

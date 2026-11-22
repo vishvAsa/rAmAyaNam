@@ -111,6 +111,14 @@ legend. [1-57-1, 2, 3a]
 
 **2:** —Viśvāmitra of mighty austerity journeyed to the southern quarter along with his queen (_sa dakṣiṇāṃ diśaṃ gatvā mahiṣyā saha_), O Rāghava, and practiced supremely formidable penance (_tatāpa paramaṃ ghoraṃ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.1–2 (kṛtavairo mahātmanā & mahiṣyā saha)**
+
+Why does the poet note that Viśvāmitra still harbored enmity toward the high-souled Vasiṣṭha (_kṛtavairo mahātmanā_) after resolving in 56.24 to calm his senses? Both **Tilaka** and **Govindarāja** observe that this lingering grudge against a knower of _brahman_ (_brahmavidapacāraḥ_) is the flaw that repeatedly retards his penance (_idam eva taponāśakam asya_, **Tilaka**; _tapaso mandaphalatvam_, **Govindarāja**). Retiring south with his consecrated queen (_mahiṣyā_), he maintains the householder state requisite for his coming role as Triśaṅku’s officiating priest (_bhāviyājakatvānuguṇagārhasthyam_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -164,6 +172,14 @@ who conduct themselves in candour and chivalry. [1-57-3]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Subsisting on fruits and roots and mastering his senses (_phalamūlāśano dāntaḥ_), he performed supreme austerity (_cacāra paramaṃ tapaḥ_); and there were born to him sons devoted to truth and _dharma_ (_athāsya jajñire putrāḥ satyadharmaparāyaṇāḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.3–4 (haviṣpando madhuṣpando dṛḍhanetro mahārathaḥ)**
+
+During this southern penance, four righteous sons are born to him—_Haviṣpanda_ (var. _Haviṣyanda_), _Madhuṣpanda_ (var. _Madhuṣyanda_), _Dṛḍhanetra_, and _Mahāratha_—showing that passion was not yet wholly stilled (_kāmakrodhādyanivṛttiṃ darśayati_, **Govindarāja**).
 </details>
 </details>
 
@@ -220,6 +236,14 @@ by your ascesis.' [1-57-4b, 5]
 **4:** —Haviṣpanda, Madhuṣpanda, Dṛḍhanetra, and Mahāratha (_haviṣpando madhuṣpando dṛḍhanetro mahārathaḥ_). Then, when a thousand years were fulfilled (_pūrṇe varṣasahasre tu_), Brahmā, the Grandsire of the worlds (_lokapitāmahaḥ_)—
 
 **5:** —spoke these sweet words to Viśvāmitra, rich in penance (_abravīn madhuraṃ vākyaṃ viśvāmitraṃ tapodhanam_): “The realms of the royal seers have been won by your austerity, O son of Kuśika (_jitā rājarṣilokās te tapasā kuśikātmaja_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.5–6 (rājarṣir iti vidmahe)**
+
+When a thousand years are complete, Grandsire Brahmā declares that Viśvāmitra has won the realms of royal seers and confers upon him the rank of _Rājarṣi_ (_vidmahe_, with epic _ātmanepada_, **Govindarāja**).
 </details>
 </details>
 
@@ -353,6 +377,14 @@ that there is no fruition to my ascesis.' Thus Vishvamitra thought. [8b, 9a]
 
 **8:** —and, overwhelmed with great sorrow and dejection (_duḥkhena mahatāviṣṭaḥ samanyuḥ_), spoke these words: “I have practiced supreme austerity, yet they recognize me only as a _Rājarṣi_ (_tapaś ca sumahat taptaṃ rājarṣir iti māṃ viduḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.7–9 (triviṣṭapaṃ brahmalokam & samanyuḥ)**
+
+How did Brahmā depart to “both heaven (_triviṣṭapam_) and _brahmaloka_” in v. 7a? **Govindarāja** construes the two accusatives distributively (_brahmā brahmalokaṃ jagāma, triviṣṭapaṃ devā jagmuḥ_), whereas **Tilaka** and **Śiromaṇi** explain that Brahmā first escorted the gods to Indra’s heaven before ascending to his own realm. Hearing himself called a mere _Rājarṣi_, Viśvāmitra hangs his head in shame and speaks _samanyuḥ_—glossed by **Tilaka** and **Govindarāja** via _Amarakośa_ (_manyur dainye kratau krudhi_) as “filled with dejection” (_sadainyaḥ_): “This title is no true fruit of my penance, since Brahminhood alone is my desire (_brāhmaṇyasyaiva madabhimatatvāt_, **Govindarāja**).”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,6 +483,14 @@ Ikshvaku dynasty, and one renowned for his self-conquest. [1-57-10b, 11a]
 
 —practiced severe penance, O Kākutstha, righteous of soul and supremely self-possessed (_tapaś cacāra dharmātmā kākutstha paramātmavān_). At this very time, there lived a king, truthful in speech and victorious over his senses (_satyavādī jitendriyaḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.10 (paramātmavān)**
+
+Resolving anew, Viśvāmitra—now _paramātmavān_ (“meditating on the Supreme Self and supremely steadfast,” **Tilaka**; “supremely resolute in effort,” **Govindarāja**, **Śiromaṇi**)—undertakes even sterner austerity.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -481,6 +521,14 @@ Ikshvaku dynasty, and one renowned for his self-conquest. [1-57-10b, 11a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —renowned by the name of Triśaṅku, an increaser of the house of Ikṣvāku (_triśaṅkur iti vikhyāta ikṣvākukulavardhanaḥ_). In him arose the resolve (_tasya buddhiḥ samutpannā_), O Rāghava: “I shall perform a sacrifice (_yajeyam iti_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.11–12 (triśaṅkuḥ & gaccheyaṃ svaśarīreṇa)**
+
+Meanwhile, the truthful Ikṣvāku monarch Triśaṅku conceives the ambition to offer a sacrifice whereby he might ascend in his own mortal body (_svaśarīreṇa_) to heaven (_devatānāṃ parā gatiḥ svargaḥ_, **Tilaka**), and lays his wish before Vasiṣṭha.
 </details>
 </details>
 
@@ -597,6 +645,14 @@ and that king has gone to the sons of Vashishta. [1-57-13, 14a]
 
 Told “It is impossible!” by the high-souled Vasiṣṭha (_aśakyam iti cāpy ukto vasiṣṭhena mahātmanā_), and thus refused by Vasiṣṭha (_pratyākhyāto vasiṣṭhena_), he journeyed to the southern quarter (_sa yayau dakṣiṇāṃ diśam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.13–14 (aśakyam iti pratyākhyātaḥ)**
+
+Why did Vasiṣṭha dismiss Triśaṅku’s request as “Impossible” (_aśakyam_)? **Govindarāja** explains that the refusal stemmed not from any lack of power in the sage, but from the absence of Vedic injunction for a sacrifice granting bodily heaven to one lacking prior-kalpa merit (_tādṛkkarmavidhānābhāvāt_); **Tilaka** adds the Purāṇic account of the three transgressions that earned the king the name _Triśaṅku_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,6 +714,14 @@ are supremely self-luminescent and superbly self-refulgent by their ascesis. [1-
 **14:** Then, for the accomplishment of that ritual undertaking (_tatas tatkarmasiddhyartham_), the king went to Vasiṣṭha’s sons (_putrāṃs tasya gato nṛpaḥ_), to the spot where the long-austere sons of Vasiṣṭha were practicing penance (_vāsiṣṭhā dīrghatapasas tapo yatra hi tepire_).
 
 **15:** There Triśaṅku of great splendor beheld Vasiṣṭha’s hundred supremely radiant and high-minded sons engaged in austerity (_śataṃ paramabhāsvaram vasiṣṭhaputrān dadṛśe tapyamānān manasvinaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.15–16 (śataṃ vasiṣṭhaputrān & mahātmānaḥ)**
+
+On the apposition _śataṃ ... vasiṣṭhaputrān_ (v. 15), **Tilaka** and **Govindarāja** note that _śatam_ here denotes the numbered group (_saṃkhyeyavācī_) in singular concord with the plural accusative _vasiṣṭhaputrān_. On _mahātmānaḥ sarvān ... sutān_ (vv. 16–17), all three commentators note the archaic nominative plural form _-ānaḥ_ standing for accusative _-anaḥ_, while **Tilaka** and **Govindarāja** explain Triśaṅku’s bashfulness (_hriyā_) as arising from having just been rejected by their father.
 </details>
 </details>
 
@@ -770,6 +834,14 @@ of the needy, you all be safe, as the great-souled Vashishta has repudiated me.
 
 **18:** “Blessings be upon you! I have been refused by the high-souled Vasiṣṭha (_pratyākhyāto hi bhadraṃ vo vasiṣṭhena mahātmanā_); desirous as I am of offering a great sacrifice, you ought to grant me your consent (_yaṣṭukāmo mahāyajñaṃ tad anujñātum arhatha_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.17–18 (śaraṇaṃ vaḥ prapanno ’haṃ śaraṇyān śaraṇaṃ gataḥ)**
+
+**Tilaka** resolves the double _śaraṇam_ in v. 17cd: “Though I am myself the refuge and protector of my subjects (_anyeṣāṃ rakṣyāṇāṃ śaraṇaṃ gato ’pi_), I now come as a supplicant to you who are able to protect (_śaraṇyān rakṣaṇasamarthān_)!”
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -862,6 +934,14 @@ how I can get to heaven with my body. [1-57-19b, 20]
 
 **20:** “May you, with concentrated minds, officiate at my sacrifice for the accomplishment of my goal (_te māṃ bhavantaḥ siddhyarthaṃ yājayantu samāhitāḥ_), so that I may verily attain the realm of the gods in my very body (_saśarīro yathāhaṃ vai devalokam avāpnuyām_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.19–20 (brāhmaṇāṃs tapasi sthitān & saśarīro devalokam)**
+
+Bowing his head to the earth, Triśaṅku entreats his preceptor’s sons—whom he addresses as true Brahmins established in penance (_anvarthabrāhmaṇān_, **Tilaka**; _brahmavidaḥ_, **Govindarāja**)—to officiate with focused minds (_samāhitāḥ avahitāḥ_, **Tilaka**) so that he may ascend bodily (_saśarīraḥ_) to the world of the gods.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -907,6 +987,14 @@ another recourse excepting you, who are all the sons of mentor Vashishta. [1-57-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having been refused by Vasiṣṭha, O sages rich in penance (_pratyākhyāto vasiṣṭhena tapodhanāḥ_), I behold no other refuge whatsoever save all of you, the sons of my preceptor (_gatim anyāṃ guruputrān ṛte sarvān nāhaṃ paśyāmi kāṃcana_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.21 (guruputrān ṛte sarvān)**
+
+Why does Triśaṅku approach the sons after being rejected by their father? Construing _guruputrān ṛte_ (_tān vinā_, with accusative governed by _ṛte_ under Pāṇini 2.3.29) with _gatim anyāṃ na paśyāmi_, all three commentators explain that having been refused by Vasiṣṭha, he sees no other ritual recourse (_yajanopāyam_, **Govindarāja**) save his preceptor’s sons.
 </details>
 </details>
 
@@ -966,6 +1054,14 @@ narration. [1-57-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For to all the monarchs of the Ikṣvāku race, the family _purohita_ is the supreme refuge (_ikṣvākūṇāṃ hi sarveṣāṃ purodhāḥ paramā gatiḥ_); therefore, next after him, all of you are my very deity (_tasmād anantaraṃ sarve bhavanto daivataṃ mama_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**57.22 (purodhāḥ paramā gatiḥ & tasmād anantaram)**
+
+For all the Ikṣvākus, the family _purohita_ Vasiṣṭha is the supreme refuge (_paramā gatiḥ_); “therefore, next after him (_tasmād vasiṣṭhād anantaram_), you all are my very deity and protectors (_bhavanta eva rakṣakāḥ_, **Govindarāja**).” **Tilaka** notes that while _Kataka_ deemed v. 22 an interpolation, the commentary tradition and the Critical Edition (1.56.20) preserve it.
 </details>
 </details>
 

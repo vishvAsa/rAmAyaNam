@@ -80,6 +80,14 @@ enquiring about the well-being of the great-saint Vishvamitra. [1-48-1]
 
 Having inquired after one another’s welfare there at their mutual meeting (_pṛṣṭvā tu kuśalaṃ tatra parasparasamāgame_), at the close of their converse King Sumati addressed these words to the great sage (_kathānte sumatir vākyaṃ vyājahāra mahāmunim_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.1–2 (bhadraṃ te & gajasiṃhagatī śārdūlavṛṣabhopamau)**
+
+Why does Sumati interject _bhadraṃ te_ while praising the princes? **Govindarāja (_Bhūṣaṇa_)** explains that it wards off the evil eye (_dṛṣṭidoṣo mā bhūd ity āha_) and discerns four distinct gaits (_caturgatitvam_): majestic like an elephant (_gāmbhīryagamane gajatulyau_), irresistible in attack like a lion (_parābhibhavanābhigamane siṃhatulyau_), terrifying to foes like a tiger (_bhayaṅkaragamane śārdūlatulyau_), and proud like a bull (_sagarvagamane vṛṣabhasadṛśau_). **Rāma Varmā (_Tilaka_)** alternatively distributes them: Rāma has the elephant’s gait and tiger’s frame, Lakṣmaṇa the lion’s gait and bull’s build.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -141,6 +149,14 @@ Having inquired after one another’s welfare there at their mutual meeting (_p�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With eyes wide as lotus petals, bearing swords, quivers, and bows (_padmapatraviśālākṣau khaḍgatūṇidhanurdharau_), they are like the twin Aśvins in beauty and have just reached the bloom of youth (_aśvināv iva rūpeṇa samupasthitayauvanau_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.3–4 (padmapatraviśālākṣau & kathaṃ padbhyām iha prāptau)**
+
+**Govindarāja** remarks that large lotus-petal eyes mark the pinnacle of beauty (_nayanasaudaryaṃ hi lāvaṇyaparamakāṣṭhā_), while **Śiromaṇi** derives _dhanurdharau_ with the _pacādyac_ suffix (Pāṇini 3.1.134) rather than _karmaṇy aṇ_. Seeing their tender feet—soft as _atasī_ blossoms (**Govindarāja**)—Sumati wonders how two youths resembling the twin Aśvins descended from heaven (_devalokād ivāmarau_) could have walked here on foot.
 </details>
 </details>
 
@@ -252,6 +268,14 @@ goodness.'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Adorning this land as the moon and the sun adorn the firmament (_bhūṣayantāv imaṃ deśaṃ candrasūryāv ivāmbaram_), they resemble one another in stature, inner expression, and outward demeanor (_paraspareṇa sadṛśau pramāṇeṅgitaceṣṭitaiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.5–6 (paraspareṇa sadṛśau — Mutual Incomparability)**
+
+Why are Rāma and Lakṣmaṇa compared to each other (_paraspareṇa sadṛśau_) in stature (_pramāṇa_), inner expression (_iṅgita_), and outward demeanor (_ceṣṭita_)? All three commentators observe that Vālmīki thereby indicates _upamānāntarābhāva_ (_tādṛśapuruṣāntarābhāvāt parasparasadṛśau_, **Tilaka**, **Govindarāja**, **Śiromaṇi**)—nothing in creation can serve as a standard of comparison for either brother except the other.
 </details>
 </details>
 
@@ -380,6 +404,14 @@ of demons, as it has happened. [1-48-7a, 7b]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech of his, Viśvāmitra recounted all as it had happened (_tasya tad vacanaṃ śrutvā yathāvṛttaṃ nyavedayat_)—their residence at Siddhāśrama and the slaying of the rākṣasas (_siddhāśramanivāsaṃ ca rākṣasānāṃ vadhaṃ yathā_); and upon hearing Viśvāmitra’s words, the king was filled with supreme wonder (_viśvāmitravacaḥ śrutvā rājā paramavismitaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.7–9 (yathāvṛttaṃ nyavedayat & the Ārṣa Gerund uṣya)**
+
+**Tilaka** and **Govindarāja** summarize Viśvāmitra’s report (_yathāvṛttam_): how he brought Daśaratha’s sons to guard his sacrifice, how they slew Tāṭakā on the way and the rākṣasas at Siddhāśrama, and how they are now bound for Mithilā under the pretext of seeing King Janaka’s great bow (_dhanurupadeśenādya mithilāṃ gacchataḥ_, **Govindarāja**). In v. 9, all three commentators note the uncompounded Ārṣa gerund _uṣya_ for _uṣitvā_ (“having dwelt one night”).
 </details>
 </details>
 
@@ -536,6 +568,14 @@ ongoing from time immemorial.
 
 Beholding from afar that fair city of Janaka (_tāṃ dṛṣṭvā janakasya purīṃ śubhām_), all the sages acclaimed Mithilā, praising it with cries of “Excellent! Excellent!” (_munayaḥ sarve sādhu sādhv iti śaṃsanto mithilāṃ samapūjayan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.10 (tāṃ dṛṣṭvā vs. tān dṛṣṭvā)**
+
+On approaching Mithilā, **Tilaka** and **Śiromaṇi** (with the Southern Recension and Baroda CE) read the feminine _tāṃ dṛṣṭvā ... purīṃ śubhām_: all the sages accompanying Viśvāmitra acclaimed Janaka’s fair capital with cries of _“sādhu! sādhu!”_ **Govindarāja**, however, records the masculine variant _tān dṛṣṭvā_ (“seeing Rāma and his party approaching Mithilā, the local sages acclaimed them”).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -582,6 +622,14 @@ now uninhabited, yet pleasing, Rama asked the eminent sage Vishvamitra. [1-48-11
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing in a grove on the outskirts of Mithilā (_mithilopavane tatra āśramaṃ dṛśya_) an ancient, uninhabited, yet lovely hermitage (_purāṇaṃ nirjanaṃ ramyam_), Rāghava questioned the foremost of sages (_papraccha munipuṅgavam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.11–12 (mithilopavane ... āśramasaṃkāśam)**
+
+In a suburban grove near Mithilā (_mithilāsamīpavane_, **Tilaka**), Rāma spots a lovely, ancient, yet uninhabited retreat (_purāṇaṃ nirjanaṃ ramyam_, with Ārṣa _dṛśya_ for _dṛṣṭvā_). Why does Rāma call it “resembling a hermitage” (_āśramasaṃkāśam_)? **Tilaka** and **Śiromaṇi** explain that because it has the trees and beauty of an āśrama yet lacks any resident sage (_munirāhityād āśramavad asyālakṣyatvam_), Rāma first wonders what it is (_kiṃ nv idam_) and then asks whose hermitage it formerly was (_kasyāyaṃ pūrva āśramaḥ_).
 </details>
 </details>
 
@@ -693,6 +741,14 @@ resplendent sage and eminent-saint Vishvamitra replied him in this way. [1-48-13
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech spoken by Rāghava (_tac chrutvā rāghaveṇoktaṃ vākyam_), the great sage Viśvāmitra, eloquent in speech and of great splendor, replied (_vākyaviśāradaḥ pratyuvāca mahātejā viśvāmitro mahāmuniḥ_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.13–16 (hanta & Gautama’s Ancient Hermitage)**
+
+Why does Viśvāmitra begin his reply with the particle _hanta_? Both **Tilaka** and **Govindarāja** explain that _hanta_ expresses the sage’s inward joy upon realizing that Rāma’s inquiry will bring about Ahalyā’s long-awaited redemption (_ahalyānugrahahetukarāmasmṛtijasaṃtoṣe hanteti_). Here Sage Gautama practiced austerities with Ahalyā for many ages (_varṣapūgāni = varṣasamūhān_, **Tilaka** and **Govindarāja**).
 </details>
 </details>
 
@@ -906,6 +962,14 @@ such a sage, approached Ahalya and said this to her. [1-48-17]
 
 “Watching for an opportunity during his absence, the thousand-eyed lord of Śacī (_tasyāntaraṃ viditvā ca sahasrākṣaḥ śacīpatiḥ_) assumed the guise of the sage and spoke thus to Ahalyā (_muniveṣadharo bhūtvā ahalyām idam abravīt_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.17 (śacīpatiḥ & muniveṣadharaḥ)**
+
+Watching for a moment when the hermitage was empty during Gautama’s absence for his morning ablutions (_antaram = munisaṃnidhānarahitaṃ kālam_, **Tilaka**; _snānādigamanena vyavadhānam_, **Śiromaṇi**), Indra assumed the exact guise of Gautama (_gautamaveṣadharaḥ_, confirmed by 48.27 _mama rūpaṃ samāsthāya_, **Tilaka** and **Govindarāja**). **Tilaka** notes the suggestive force (_dhvani_) of _śacīpatiḥ_: even the husband of Śacī was intoxicated by Ahalyā’s surpassing beauty (_śacīto ’pi saundaryam asyā dhvanitam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -960,6 +1024,14 @@ wish to have any progeny of mine from you...
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Suitors afflicted by passion do not wait for the ritual fertile season, O exquisitely formed lady (_ṛtukālaṃ pratīkṣante nārthinaḥ susamāhite_); I desire union with you right now, O slender-waisted one (_saṅgamaṃ tv aham icchāmi tvayā saha sumadhyame_)!’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.18 (ṛtukālaṃ pratīkṣante nārthinaḥ susamāhite)**
+
+Both **Śiromaṇi** and **Govindarāja** deduce from Indra’s opening plea that Ahalyā, initially taking him for Gautama, had objected that it was neither her ritual fertile season (_ṛtukāla_, the sixteen nights declared by Manu) nor the proper hour for union (_ratikālo nāstīti pūrvam ahalyayā nivāritam iti vyaktam_, **Śiromaṇi**). On the vocative _susamāhite_, **Govindarāja** recalls Brahmā’s creation of Ahalyā (_samyag brahmaṇā nirmite, atisundari_), **Tilaka** glosses “adorned in form fit for union” (_saṅgamocitarūpaprasādhanavati_), and **Śiromaṇi** reads “O single-minded one” (_ekāgracitte_).
 </details>
 </details>
 
@@ -1023,6 +1095,14 @@ let him have it
 
 “Recognizing the thousand-eyed Indra in the guise of the sage, O delight of the Raghus (_muniveṣaṃ sahasrākṣaṃ vijñāya raghunandana_), she of clouded judgment resolved upon union out of curiosity for the king of the gods (_matiṃ cakāra durmedhā devarājakutūhalāt_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.19 (muniveṣaṃ sahasrākṣaṃ vijñāya ... devarājakutūhalāt)**
+
+How did Ahalyā see through Indra’s disguise? All three commentators give acute reasons: Sage Gautama would never utter the antinomian plea _ṛtukālaṃ pratīkṣante nārthinaḥ_ (_kadācid api muninaivamabhidhānābhāvāt_, **Govindarāja**), no ordinary mortal could enter that formidable hermitage without terrifying its creatures (_tapasā cāśramavartisarvaprāṇijātasya śaṅkābhāvāt_, **Tilaka**), and she had long heard of Indra’s infatuation with her (_indrasyaivātmani bahukālam abhilāṣaśravaṇāt_, **Govindarāja**). Recognizing the king of the gods, her judgment clouded (_durmedhā_), she consented out of curiosity at being desired by Devarāja (_sa māṃ vāñchatīti jātautsukāt divyaratikautukāc ca_, **Tilaka** and **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1082,6 +1162,14 @@ from Sage Gautama.' Thus, Ahalya said to Indra. [1-48-20, 21a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, with her inner heart satisfied (_kṛtārthenāntarātmanā_), she spoke to the best of the gods (_athābravīt suraśreṣṭham_): ‘My desire is fulfilled, O best of the gods; depart quickly from this place, O Lord (_kṛtārthāsmi suraśreṣṭha gaccha śīghram itaḥ prabho_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.20–21 (kṛtārthāsmi & indraḥ prahasan)**
+
+With her inner craving satisfied (_kṛtārthenāntarātmanā = saṃtuṣṭena manasā_, **Govindarāja**), Ahalyā anxiously urges Indra to flee at once and protect both himself and her from Gautama’s curse (_gautamadṛṣṭipathavartī bhaviṣyasi tarhi tacchāpena mama tava ca vidhvaṃso bhaviṣyatīti dhvanitam_, **Śiromaṇi**). Why does Indra laugh (_prahasan_) in v. 21? **Tilaka** and **Śiromaṇi** explain that his laughter betrays either his triumph at disrupting Gautama’s tapas (_gautamatapobhaṅgasya sveṣṭasya karaṇāt_, **Tilaka**) or the ironic impossibility of escaping the sage’s curse (_ahalyāvāñchitaśāpābhāvasya durlabhatvaṃ dyotitam_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1185,6 +1273,14 @@ with her with an uncertainty about the arrival of Sage Gautama. [1-48-22b, 23a]
 
 “‘O fair-hipped lady, I am fully delighted; I shall depart just as I came (_suśroṇi parituṣṭo ’smi gamiṣyāmi yathāgatam_).’ Having thus united with her then, he stepped forth from the leaf-hut (_evaṃ saṅgamya tu tadā niścakrāmoṭajāt tataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.22–23 (sa sambhramāt tvaran ... gautamaṃ sa dadarśātha)**
+
+Slipping out of the leaf-hut (_uṭajāt = parṇaśālātaḥ_, **Śiromaṇi**) in fearful haste (_sambhramāt = bhayāt_, **Govindarāja** citing _Nighaṇṭu_) and dreading Gautama’s return (_śaṅkito gautamaṃ prati_), Indra comes face to face with the great sage entering the hermitage at that very instant.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1249,6 +1345,14 @@ and eminent Sage entering into the hermitage. [1-48-23b, 24, 25a]
 
 **24:** “unassailable by gods and demons, endowed with the power of austerity (_devadānavadurdharṣaṃ tapobalasamanvitam_), dripping with sacred ford-water from his bath, and blazing like a sacrificial fire (_tīrthodakapariklinnaṃ dīpyamānam ivānalam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.24–25 (tīrthodakapariklinnaṃ dīpyamānam ivānalam)**
+
+**Tilaka**, **Govindarāja**, and **Śiromaṇi** construe 48.23cd–25 as a single multi-stanza sentence portraying Gautama’s terrifying majesty as he returns straight from his morning ablutions: still dripping with sacred river-water (_tīrthodakapariklinnam = snātvāgatam_, **Govindarāja**), carrying sacrificial fuel and _kuśa_ grass (_gṛhītasamidhaṃ sakuśam_), unassailable by gods or demons (_devadānavadurdharṣam_), and blazing like a sacrificial fire (_dīpyamānam ivānalam_). At the sight of him, Indra’s face turns pale and crestfallen (_viṣaṇṇavadanaḥ = udāsīnamukhaḥ_, **Śiromaṇi**; _vivarṇavadanaḥ = śuṣkamukhaḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1303,6 +1407,14 @@ Indra who is donning the guise of a saint. [1-48-25b, 26]
 **25:** “bearing sacrificial fuel and _kuśa_ grass in his hands (_gṛhītasamidhaṃ tatra sakuśaṃ munipuṅgavam_). Beholding that foremost of sages, the lord of the gods was struck with terror and his face grew pale and crestfallen (_dṛṣṭvā surapatis trasto viṣaṇṇavadano ’bhavat_).
 
 **26:** “Then, seeing the thousand-eyed Indra wearing the guise of a sage (_atha dṛṣṭvā sahasrākṣaṃ muniveṣadharaṃ muniḥ_), the sage of perfect conduct spoke in wrath to that profligate one (_durvṛttaṃ vṛttasampanno roṣād vacanam abravīt_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.26–27 (durvṛttaṃ vṛttasampannaḥ & viphalas tvaṃ bhaviṣyasi)**
+
+Contrasting the profligate king of the gods (_durvṛttaṃ = niṣiddhavṛttimantam_, **Śiromaṇi**) with the righteous sage (_vṛttasampannaḥ_), Vālmīki presents Gautama’s curse. Why does Gautama curse Indra with castration (_viphalaḥ_) rather than death? **Govindarāja** explains that because violating another’s wife is a base moral transgression rather than an act of war, Indra is not slain (_svabhāryāsaṅgamasya duḥśīlatvenāvādhyatvāt_), and cites the _Nighaṇṭu_ (_lābhaniṣpattibhogeṣu bīje phāle dhane phalam_) to gloss _viphalaḥ_ as _vigatavṛṣaṇaḥ_ (“bereft of testicles / virile seed”).
 </details>
 </details>
 
@@ -1409,6 +1521,14 @@ of the cursed Thousand-eyed Indra fell down onto ground at that very moment. [1-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When the thousand-eyed Indra was thus addressed by the high-souled Gautama in fierce wrath (_gautamenaivam uktasya suroṣeṇa mahātmanā_), his two testicles fell to the ground that very instant (_petatur vṛṣaṇau bhūmau sahasrākṣasya tatkṣaṇāt_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.28 (petatur vṛṣaṇau bhūmau sahasrākṣasya tatkṣaṇāt)**
+
+The moment the wrathful sage pronounced the curse, the thousand-eyed Indra’s two testicles fell to the earth (_petatur vṛṣaṇau bhūmau tatkṣaṇāt_), stripping him of his manhood (_etena tasya puṃstvaṃ vinaṣṭam iti sūcitam_, **Śiromaṇi**).
 </details>
 </details>
 
@@ -1521,6 +1641,20 @@ Ahalya. [1-48-32]
 
 **32:** “‘By offering hospitality to him, O wayward woman, freed from greed and delusion (_tasyātithyena durvṛtte lobhamohavivarjitā_), filled with joy in my presence, you shall resume your own visible form (_matsakāśaṃ mudā yuktā svaṃ vapur dhārayiṣyasi_).’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.29–30 (vātabhakṣā ... bhasmaśāyinī adṛśyā vs. Purāṇic Petrifaction)**
+
+How does Vālmīki’s account of Ahalyā subsisting on wind (_vātabhakṣā_), performing penance (_tapyantī_), lying in ashes (_bhasmaśāyinī_), and remaining invisible (_adṛśyā sarvabhūtānām_) relate to the popular Purāṇic story of her becoming a stone (_śilābhāva_)? **Govindarāja** states clearly that in Vālmīki’s text Gautama prescribes severe ascetic expiation under the guise of a curse (_vidhīyamānaṃ prāyaścittaṃ śāpāpadeśenocyate_), whereas the Purāṇic stone-curse belongs to a different _kalpa_ (_śilā bhaveti śāpo ... purāṇakathā kalpāntaram anusṛtyeti bodhyam_). **Tilaka** notes both this _kalpāntara_ view and a harmonizing view: invisible in her own form (_svarūpeṇādṛśyā_), she appeared like a stone image (_śilāpratimārūpeṇa_) while retaining inner consciousness to fast on wind and lie in ashes.
+
+_____________
+
+**48.31–32 (yadā tv etad vanaṃ ... tasyātithyena — Refuting Kataka’s Athetesis)**
+
+**Govindarāja** and **Tilaka** record that _Kataka_ claimed vv. 31–32 were interpolated, and **Govindarāja** refutes him directly: in the next sarga (49.17, _smarantī gautamavacaḥ_), Ahalyā offers Rāma hospitality explicitly “remembering Gautama’s words,” which would be impossible without vv. 31–32 (_smarantī gautamavaca ityādy uttarasargavacanavirodhāt_)! **Govindarāja** adds that even millennia of penance cannot equal a fraction of the grace of Rāma’s foot-dust (_bhagavatpādasparśasya kalāṃ nārhanti_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1583,6 +1717,14 @@ Thus, Vishvamitra continued his narration about the legend of Ahalya. [1-48-33]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having spoken thus to that erring woman, the resplendent Gautama of great austerity (_evam uktvā mahātejā gautamo duṣṭacāriṇīm mahātapāḥ_) abandoned this hermitage and practiced penance on a lovely peak of Himavat frequented by Siddhas and Cāraṇas (_imam āśramam utsṛjya siddhacāraṇasevite himavacchikhare ramye tapas tepe_).”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**48.33 (himavacchikhare ramye tapas tepe)**
+
+Having pronounced both curse and redemption—without even being petitioned, showing his underlying compassion (_prārthanām antareṇānugrahavacanoktyā muner dayālutvaṃ vyaktam_, **Śiromaṇi**)—Gautama departs for Himavat to replenish the ascetic energy expended in his curse (_tacchāpakṣayitatapaḥprāptyartham_, **Govindarāja**).
 </details>
 </details>
 

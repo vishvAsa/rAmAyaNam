@@ -358,6 +358,62 @@ the lowest. I am telling their inherent merits and defects."
 
 “Threefold are men in this world (_tri-vidhāḥ puruṣā loke_)—supreme, base, and middling (_uttamādhama-madhyamāḥ_); of them, as they are mingled together (_teṣāṃ tu samavetānām_), I shall declare the respective merits and defects (_guṇa-doṣau vadāmy aham_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.6.1–3 (Narrative Flashback and Rāvaṇa's Shame)**
+
+Why does the poet narrate Rāvaṇa's council only now, after Rāma's march to the sea? **Rāma Varmā** (_Tilaka_) explains that because speech is linear (वाचः क्रमरूपित्वात्), Vālmīki first completed the sequence from Hanūmān's return to the ocean encampment, and now reverts to what transpired in Laṅkā immediately after the city's burning (तन्निर्दहनानन्तरकालिकः ससभरावणव्यापार उपवर्णयते). Rāvaṇa hangs his head in shame (ह्रिया किंचिदवाङ्मुखः) because a single, weaponless monkey (वानरमात्रेण एकेन निरस्त्रेण च) stormed the capital, demolished the chief Caitya sanctuary (चैत्यः नगरप्रधानभूतः प्रासादः), slew Akṣa and other champions, and left Laṅkā scorched and turburlent (आविला क्षुभिता दाहेन आकुला).
+
+_____________
+
+**6.6.4–5 (Victory Rooted in Counsel)**
+
+On समर्थम् in 6.6.4, **Govindarāja** (_Bhūṣaṇa_) cites the _Amarakośa_ (समर्थस्त्रिषु शक्तिस्थे संबद्धार्थे हितेऽपि च) to gloss it as ‘beneficial’ (हितम्), while **Śivasahāya** (_Śiromaṇi_) takes it as ‘efficacious in achieving the goal’ (सम्यगर्थप्रापकम्). In 6.6.5, even a mighty monarch must take counsel because statecraft teaches that triumph is rooted in deliberation (मन्त्रमूलं विजयम्).
+
+_____________
+
+**6.6.6 (Distinguishing the Three Classes of Men)**
+
+Glossing समवेतानाम् as men whose natures appear outwardly mixed (संकीर्णस्वरूपाणाम्) and unrecognizable without defining marks (लक्षणज्ञानं विना विवेक्तुमशक्यानाम्), Rāma Varmā and Govindarāja explain गुणदोषौ distributively: merit (गुणम्) marks the supreme, defect (दोषम्) the base, and a mixture of both (मिश्रणम्) the middling.
+
+_____________
+
+**6.6.7–10 (The Three Classes of Deliberating Kings)**
+
+$18
+
+_____________
+
+**6.6.11–12 (The Nature of Supreme Counsel)**
+
+Extending this triad to counsel itself (मन्त्रोऽपि त्रिविधः), the commentators explain 6.6.12: when counsellors reach complete unanimity (ऐकमत्यम् एकां मतिमुपागम्य) guided by the eye of political science (शास्त्रदृष्टेन नीतिशास्त्रप्रतिपादितेन नयचक्षुषा; Govindarāja notes the _rājadantādi_ inversion for ‘well-studied scripture’, स्वभ्यस्तशास्त्रेण), that deliberation is supreme (मन्त्रमुत्तमम्).
+
+_____________
+
+**6.6.7–12 (Dramatic Irony of Rāvaṇa's Polity)**
+
+Rāvaṇa's textbook exposition of _nītiśāstra_ sets the stage for his own ministers' sycophancy and his rejection of Vibhīṣaṇa's salutary advice in the following sargas.
+
+_____________
+
+**6.6.13–15 (Middling and Base Counsel and the Call for Unanimity)**
+
+Continuing his typology, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain 6.6.13: when ministers initially clash in divergent opinions (बहुविरुद्धमतिविषयतां प्राप्य) and only afterwards converge on a single decision (पुनर्यत्रैकतां प्राप्तः), that counsel is middling (मध्यमः). In 6.6.14, where each minister stubbornly champions his own view in competitive wrangling (परस्परं प्रतिस्पर्धया भाष्यते) and even forced consensus yields neither amity nor welfare (ऐकमत्येऽपि श्रेयश्च प्रीतिश्च नास्ति), that counsel is base (अधमः). Hence in 6.6.15, Rāvaṇa urges his ministers to reach a harmonious, well-weighed resolution (ऐकमत्येन निश्चिन्वन्तु).
+
+_____________
+
+**6.6.16–17 (Imminent Siege and Rāma's Crossing)**
+
+Why deliberate now when the damage is already done (गतं तु गतमेव)? In 6.6.16, Rāvaṇa warns of a greater danger: Rāma is already marching to besiege Laṅkā (अभ्येति अचिरादागमिष्यति, taking the present tense by वर्तमानसामीप्ये वर्तमानवद्वा, and उपरोधकः as ‘coming to besiege’, उपरोद्धुम्). On 6.6.17, Rāma Varmā and Śivasahāya also note an ingenious alternative reading with nominative सागरः: ‘Rāghava, the descendant of King Sagara (सगरस्य गोत्रापत्यं सागरः), will easily cross [the sea]’ by his ascetic, natural, or celestial-weapon power (तरसा बलेन).
+
+_____________
+
+**6.6.18 (Drying or Bridging the Sea)**
+
+Using the present for the near future again (उच्छोषयति उच्छोषयिष्यति), Rāvaṇa anticipates that Rāma will either dry up the ocean or build a causeway (अन्यत् सेतुबन्धादिकं वा करिष्यति), demanding urgent counsel to safeguard both capital and army (पुरे च सैन्ये च हितम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

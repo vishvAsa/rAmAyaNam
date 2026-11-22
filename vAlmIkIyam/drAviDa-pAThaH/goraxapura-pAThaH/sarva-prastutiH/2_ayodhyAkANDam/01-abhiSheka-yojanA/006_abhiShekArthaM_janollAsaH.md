@@ -315,6 +315,98 @@ their capacity of twice born.
 
 Listening there to the pleasing utterances (_sukhā vācaḥ_) of bardic _sūtas_, genealogical _māgadhas_, and panegyrist _vandins_ (_sūtamāgadhavandinām_), he worshiped the morning twilight (_pūrvāṃ saṃdhyām upāsīnaḥ_) and silently recited sacred mantras (_jajāpa_) in deep concentration (_susamāhitaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.6.1–2 (nārāyaṇam upāgamat and mahate daivatāya)**
+
+Govindarāja outlines the ritual sequence of v. 1: स्नातः signifies bodily purification (कायशुद्धिः), नियतमानसः mental purification (मनःशुद्धिः), and सह पत्न्या the Vedic rule that a consecrated householder performs vows with his wife (दीक्षानियमस्य पत्नीसहायत्वोक्तिश्च). On प्रगृह्य शिरसा पात्रीम् (v. 2a), he cites the Vedic _Taittirīya_ injunction उपरि हि देवेभ्यो धारयति, and argues that महते दैवताय refers to Nārāyaṇa (स देवतानां परमं च दैवतम् इति श्रुतेः नारायणायेत्यर्थः), rejecting any Śaiva reading of the two separate words as “Mahādeva” (महादेववाचित्वभ्रान्तिर्निरस्ता).
+
+_____________
+
+**2.6.3–4 (ātmanaḥ priyam and viṣṇor āyatane)**
+
+On आशास्यात्मनः प्रियम् (v. 3b), _Tilaka_ offers a striking theological insight: externally Rāma prayed for an unobstructed coronation, but in truth—as the Lord descended to slay Rāvaṇa—what was genuinely dear to Him was the forest exile that would fulfill His mission (वस्तुतो रावणवधफलकवनगमनरूपमाशास्य संकल्प्येत्यर्थः). In v. 4c, _Tilaka_ (निजभवनवर्तिनि देवपूजागृहे) and Govindarāja (श्रीरङ्गनाथसन्निधौ) take आयतने विष्णोः as Rāma’s palace shrine of Viṣṇu, while _Śiromaṇi_ construes आयतने as a sacrificial pavilion (विधिनिर्मितयागगृहे) since sleeping inside a temple sanctum (गर्भमन्दिरे शयनस्य निषेधात्) is prohibited.
+
+_____________
+
+**2.6.5–6 (ekayāmāvaśiṣṭāyām and sūtamāgadhavandinām)**
+
+_Śiromaṇi_ glosses एकयामावशिष्टायां रात्र्याम् as the last quarter of the night after three watches had elapsed (यामत्रयव्यतीतायामित्यर्थः). All three commentators distinguish the three classes of morning heralds in v. 6b: _sūtas_ are Paurāṇika reciters (सूताः पौराणिकाः), _māgadhas_ are chanters of royal genealogy (मागधाः वंशावलीकीर्तकाः), and _vandins_ are bardic eulogists (वन्दिनः स्तुतिपाठकाः).
+
+_____________
+
+**2.6.7–8 (vimalakṣaumasaṃvītaḥ and puṇyāhaghoṣaḥ)**
+
+In v. 7, Govindarāja notes that after completing his twilight prayers (संध्योपासनानन्तरम्) and praising Madhusūdana—the Supreme Lord within the solar orb (सूर्यान्तर्वर्तिनं नारायणम्)—Rāma changed from his night-vigil garment into spotless linen (विमलक्षौमसंवीत इत्यनेन धृतनक्तंवासं परित्यज्य) after a morning bath (प्रातर्गौणस्नानमुक्तम्) and had the _brāhmaṇas_ recite the _svastivācana_ (स्वस्तिवाचनं पुण्याहम्, _Tilaka_). In v. 8d, _Tilaka_ and Govindarāja gloss तूर्यघोषानुनादितः as reverberating with the accompanying fanfare of musical instruments (तूर्यघोषेण संजातानुनादः).
+
+_____________
+
+**2.6.10 (cakre śobhayituṃ purīm)**
+
+To explain how the verb चक्रे construes with the infinitive शोभयितुम्, _Tilaka_ supplies “made up its mind” (चक्रे बुद्धिमिति शेषः) and _Śiromaṇi_ supplies “made an effort” (चक्रे प्रयत्नमिति शेषः), while Govindarāja takes शोभयितुं चक्रे idiomatically as performing all acts of sweeping, smearing, painting, and stringing garlands to beautify the city (पुरशोभोत्पादकार्थं संमार्जनोपलेपनचित्रमालिकाबन्धनकर्मादिकमकरोदित्यर्थः).
+
+_____________
+
+**2.6.11–12 (caityeṣu and aṭṭālakeṣu)**
+
+Verses 11–12 open a three-verse syntactic unit (_kulaka_) completed in v. 13. On चैत्येषु, Govindarāja glosses it as _caitya_ sanctuaries (चैत्येषु बौद्धालयेषु), which _Śiromaṇi_ critiques as incompatible with Bālakāṇḍa’s statement that Ayodhyā had no _nāstikas_, proposing instead that चैत्य derives from चैतन्य (“endowed with conscious divine presence”). All three gloss अट्टालकेषु as towers or four-pillared pavilions atop the city ramparts (प्राकारोपरितनगृहविशेषेषु, _Tilaka_).
+
+_____________
+
+**2.6.13 (ālakṣiteṣu and dhvajāḥ vs. patākāḥ)**
+
+All three commentators explain आलक्षितेषु वृक्षेषु as lofty trees visible from afar on all sides (सर्वतो लक्षितेषु अत्युन्नतेष्विति यावत्, _Tilaka_; समुन्नतत्वाद् दूरादप्यक्षिगोचरेष्वित्यर्थः, Govindarāja). To prevent tautology between ध्वजाः and पताकाः, all three note the technical distinction: _dhvajas_ are standards bearing a specific emblem (ध्वजाः सचिह्नाः), whereas _patākās_ are unemblemed decorative pennants (पताकाश्चिह्नरहिताः).
+
+_____________
+
+**2.6.14–16 (naṭa vs. nartaka and manaḥkarṇasukhāḥ)**
+
+In v. 14, Govindarāja distinguishes _naṭas_ as dramatic actors who represent roles (नटाः नाटकाः अभिनयकर्तारः) and _nartakas_ as dancers who perform rhythmic bodily movements (नर्तकाः केवलाङ्गहारकृतः). He explains मनःकर्णसुखाः as doubly pleasing: melodious to the ear by their sound and delightful to the mind upon reflection (श्रवणमात्रेण सुखकराः पश्चान्मनसश्चाह्लादका इत्यर्थः). In vv. 15–16, Govindarāja remarks that women inside the homes, men in the squares, and even children at play speaking solely of Rāma’s coronation reveals the unfeigned spontaneity of their devotion (रामभक्तावकृत्रिमत्वमुक्तम्).
+
+_____________
+
+**2.6.18 (niśāgamanaśaṅkayā and dīpavṛkṣān)**
+
+Both _Tilaka_ and Govindarāja explain why multi-branched lamp-standards (वृक्षवन्नानाशाखान्दीपस्तम्भान्, _Tilaka_) were erected at dawn: if the coronation rites and Rāma’s royal procession on elephant-back to view the adorned city should extend into nightfall (अभिषेकानन्तरं गजस्कन्धाधिरूढस्य नगरालंकारदर्शनार्थनिर्गमनात्पूर्वं यदि निशा न याति), the citizens wanted every street brightly lit; Govindarāja also suggests that the dense canopy of ornamental trees had shaded the avenues like night (वितानक्रमुककदल्यादिसमग्रताजनिततिमिरतिरोहितवस्तुप्रकाशनार्थम्).
+
+_____________
+
+**2.6.19–21 (ślokadvayam and mahātmā rājāyam)**
+
+Both _Śiromaṇi_ (द्वयोरेकत्रान्वयः) and Govindarāja (अलंकारमित्यादिश्लोकद्वयम्) join vv. 19–20 as a single sentence introducing the citizens’ panegyric of Daśaratha. In v. 21, _Śiromaṇi_ explains why the townsfolk hail Daśaratha as महात्मा (अतिधैर्यवान्): even in old age, monarchs who retain vigor find it exceedingly hard to hand over cherished royal power even to their own sons (सामर्थ्यसत्त्वे अत्यन्तं प्रेयोदेः पुत्राधीनीकरणमपि दुर्लभमिति भावः), yet Daśaratha willingly bestows the realm upon Rāma.
+
+_____________
+
+**2.6.22 (anugṛhītāḥ sma and dṛṣṭalokaparāvaraḥ)**
+
+On अनुगृहीताः स्म, both _Tilaka_ (अनुगृहीता ईश्वरेण) and Govindarāja (दैवेनेति शेषः) supply “favored by God / Providence.” On the compound दृष्टलोकपरावरः, _Tilaka_ interprets it as “one who thoroughly knows what is worthy or unworthy of deference among people” (यथावदवगतजननम्रतायाः प्राशस्त्याप्राशस्त्यः), whereas Govindarāja and _Śiromaṇi_ explain it as “one who has discerned the highest and lowest realities in the world” (दृष्टे ये लोके परावरे निकृष्टोत्कृष्टवस्तुनी येन स तथोक्तः, Govindarāja).
+
+_____________
+
+**2.6.23 (anuddhatamanāḥ and tathāsmāsv api)**
+
+In v. 23, the citizens praise Rāma’s freedom from arrogance (अनुद्धतमनाः) and celebrate the universality of his affection: just as Rāma is deeply loving (स्निग्धः) toward his brothers Bharata, Lakṣmaṇa, and Śatrughna, so is he equally affectionate toward all the subjects of Ayodhyā (यथा च भ्रातृषु स्निग्धस्तथास्मास्वपि राघवः).
+
+_____________
+
+**2.6.25–26 (viśrutavṛttāntāḥ and rāmasya purīm)**
+
+In v. 25, _Tilaka_ (वचः कथा इति शेषः) and _Śiromaṇi_ (वच इति विशेष्यमध्याहृतम्) supply वचः as the object of शुश्रुवुः, whereas Govindarāja construes एवंविधम् directly as the object (एवंविधं वाक्यजातमित्यर्थसिद्धम्). On रामस्य पुरीम् in v. 26c, Govindarāja makes a fine literary observation: because Daśaratha had publicly promised Rāma’s consecration the previous day before the entire assembly, the poet already calls Ayodhyā “Rāma’s city” without hesitation (पूर्वदिने सकलजनसंनिधौ रामाभिषेकस्य प्रतिश्रुतत्वाद्रामस्य पुरीमिति निर्विशङ्कमुक्तम्).
+
+_____________
+
+**2.6.27 (visarpadbhiḥ and parvasūdīrṇavegasya)**
+
+On the instrumental जनौघैस्तैर्विसर्पद्भिः, _Tilaka_ takes it as a modal instrumental (प्रकारे तृतीया), while _Śiromaṇi_ and Govindarāja supply “generated by those surging crowds arriving from every region” (नानादेशेभ्य आगच्छद्भिः उत्पादित इति शेषः, Govindarāja). Both gloss उदीर्णवेगस्य as the ocean whose surge swells high (उज्जृम्भितवेगस्य) on full- and new-moon days (पर्वसु).
+
+_____________
+
+**2.6.28 (indrakṣayasaṃnibham, upāhitaiḥ, and samudrayādobhiḥ)**
+
+All three commentators cite _Amarakośa_ (निवेशः शरणं क्षयः) to gloss इन्द्रक्षयः as Indra’s capital Amarāvatī (इन्द्रनिवासोऽमरावती). On उपाहितैः, both _Tilaka_ (आहितैरागतेरित्यर्थः । हि गतौ इत्यस्य रूपम्) and _Śiromaṇi_ derive it from the root हि (“to go”), matching Govindarāja’s variant उपागतैः. Govindarāja cites _Amarakośa_ (यादांसि जलजन्तवः) to gloss समुद्रयादोभिः as great marine creatures (समुद्रान्तर्वर्तितिमितिमिङ्गिलादिजन्तुभिः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

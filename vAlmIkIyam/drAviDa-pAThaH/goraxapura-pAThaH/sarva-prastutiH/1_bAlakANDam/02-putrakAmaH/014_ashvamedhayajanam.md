@@ -68,6 +68,14 @@ Upon the completion of a full year and the safe return of the sacrificial steed,
 
 Then, when a full year had elapsed (_saṃvatsare pūrṇe_) and that sacrificial steed had returned (_tasmin prāpte turaṅgame_), the sacrifice of the king commenced (_rājño yajño ’bhyavartata_) upon the northern bank of the Sarayū (_sarayvāś cottare tīre_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.1–2 (tasmin prāpte turaṅgame & ṛṣyaśṛṅgaṃ puraskṛtya)**
+
+**Govindarāja (_Bhūṣaṇa_)** outlines the Śrauta sequence of the horse’s year-long wandering: guarded by four hundred princes, _sūtas_, and _grāmaṇīs_, the steed is led to the _rathakāra-gṛha_ for the four _dhṛti_ oblations upon its hooves; after the eleventh month (citing **Āpastamba**: _ūrdhvam ekādaśān māsād āśvatthe vraje ’śvaṃ badhnīyāt_), the _sadasyas_ tether it in an _aśvattha_ fold, and from Phālguna the _Aśvamedha_ begins. While **Govindarāja** takes _ṛṣyaśṛṅgaṃ puraskṛtya_ as making Ṛṣyaśṛṅga the presiding _Brahmā_ priest, **Tilaka** cites and refutes that view from 1.15.2–3 (_juhāvāgnau ca tejasvī_), arguing that he officiated as chief _Adhvaryu_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -159,6 +167,14 @@ works relating to ritual as per canon and rules, and conducted them scripturally
 
 The officiating priests who had crossed to the farthest shore of the Vedas (_yājakā vedapāragāḥ_) perform the rites according to sacred precept (_vidhivat_), moving through each ritual station (_parikrāmanti_) according to Śāstra, ritual injunction (_yathāvidhi_), and Mīmāṃsā principle (_yathānyāyam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.3 (yathāvidhi yathānyāyaṃ parikrāmanti śāstrataḥ)**
+
+All three commentators distinguish the three qualifiers: _yathāvidhi_ means following Vedic injunctions; _yathānyāyam_ means adhering to **Pūrvamīmāṃsā** principles of ritual coordination (**Tilaka**, **Śiromaṇi**, **Govindarāja**); and _śāstrataḥ_ means following the _Kalpasūtras_ without confusion in movement.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,6 +221,14 @@ main one scripturally. [1-14-4]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having performed the _Pravargya_ rite according to Śāstra and likewise the _Upasad_ oblation (_tathaivopasadam_), the twice-born priests duly executed all the supplementary rites transferred by ritual extension (_adhikaṃ karma_) in accordance with Śāstric ordinance.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.4–5 (pravargyam, upasadam & adhikaṃ karma)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** explain _pravargya_ as the Soma-strengthening rite (_devā vai satram āsata_) and _upasad_ as its accompanying _iṣṭi_, while _adhikaṃ karma_ denotes rites transferred by Mīmāṃsā _atideśa_ (twelve _pravargya-upasads_ per **Govindarāja**) prior to the three Soma-pressings.
 </details>
 </details>
 
@@ -319,6 +343,14 @@ hold the view that it is from Sarcostema Viminalis family.
 
 The oblation sacred to Indra (_aindraś ca_) was duly offered, and the sinless King Soma was pressed (_rājā cābhiṣuto ’naghaḥ_); and the midday Soma-pressing (_madhyandinaṃ ca savanam_) proceeded in due sequence.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.6–7 (aindraś ca & rājā cābhiṣuto ’naghaḥ)**
+
+**Govindarāja** explains _aindraḥ_ as either the Soma-draught in the Indra-cup or the five morning offerings (_dhānāḥ, karambhaḥ, parivāpaḥ, puroḍāśaḥ, payasyā_) offered to Indra (_atha kasmād eteṣāṃ haviṣām indram eva yajanti_). On _rājā cābhiṣuto ’naghaḥ_, all three commentators cite the Sūtra: placing King Soma upon the pressing-stone (_dṛṣadi_), the _Brahmā_ (south), _Adhvaryu_ (west), _Hotṛ_ (north), and _Udgātṛ_ (east) strike the stalks with stones without spilling a fibre (_anaghaḥ = aṃśaskandanarahitaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -419,6 +451,14 @@ invoked Indra and other gods to that place. [1-14-8]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There Ṛṣyaśṛṅga and the other priests invoked (_āhvayāñcakrire_) Śakra (Indra) and the foremost celestials with Vedic mantras endowed with faultless phonetic articulation and accentuation taught in _Śikṣā_ (_śikṣākṣarasamanvitaiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.8–10 (śikṣākṣarasamanvitaiḥ & brahmavat)**
+
+**Tilaka** and **Śiromaṇi** gloss _śikṣākṣarasamanvitaiḥ_ as mantras recited with faultless pitch-accents (_svara_) and phonetic articulation (_varṇa_). In v. 10, _brahmavat_ means accompanied by exact Vedic mantras (_mantravat_), and _kṣemayuktam_ means free of ritual defects.
 </details>
 </details>
 
@@ -589,6 +629,14 @@ person, nor any Brahman without at least a hundred apprentices. [1-14-11]
 
 Throughout those sacrificial days (_teṣv ahaḥsu_), no one was seen weary or athirst (_śrānto vā_) or hungry (_kṣudhito vā_); nor was there any unlearned Brāhmaṇa (_nāvidvān brāhmaṇaḥ_), nor anyone unattended by a hundred followers (_nāśatānucaras tathā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.11 (nāvidvān brāhmaṇaḥ)**
+
+**Govindarāja** notes a fine Śrauta point: though eating sacrificial food is ordinarily forbidden once Soma is purchased (_krīte some yajñānnaṃ na bhojyam_), there is no fault here because Daśaratha had made over his entire wealth to Vasiṣṭha (_sarvadravyasya vasiṣṭhasātkṛtatvena_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -655,6 +703,14 @@ own salvation.
 
 Brāhmaṇas continually dine (_brāhmaṇā bhuñjate nityam_), those who have masters or protectors dine (_nāthavantaś ca bhuñjate_), ascetics dine (_tāpasā bhuñjate cāpi_), and wandering mendicants likewise dine (_śramaṇāś caiva bhuñjate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.12 (nāthavantaḥ, tāpasāḥ & śramaṇāḥ)**
+
+**Govindarāja** glosses _nāthavantaḥ_ as householders with dependents (_kuṭumbinaḥ_), _tāpasāḥ_ as forest-hermits (_vānaprasthāḥ_), and _śramaṇāḥ_ as wandering renunciants (citing Smṛti: _tridaṇḍino ’thaikadaṇḍāḥ śramaṇā nāma te smṛtāḥ_), while **Tilaka** takes _nāthavantaḥ_ as Śūdras serving a master, _tāpasāḥ_ as Śaiva ascetics, and _śramaṇāḥ_ as heterodox mendicants.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -713,6 +769,14 @@ served. [1-14-13]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The aged, the infirm, women, and children likewise dine (_vṛddhāś ca vyādhitāś caiva strībālaś ca tathaiva ca_); even as they dine unceasingly day and night (_aniśaṃ bhuñjamānānām_), no satiation is ever reached (_na tṛptir upalabhyate_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.13–15 (na tṛptir upalabhyate & annakūṭāḥ)**
+
+To reconcile v. 13 (_na tṛptir upalabhyate_, “no satiation is found”) with v. 17 (_aho tṛptāḥ sma_, “Ah, we are satisfied!”), **Tilaka** and **Govindarāja** offer two solutions: (1) even as guests dined unceasingly, King Daśaratha’s eagerness to feed them was never satiated (_yajamānasya tarpayitur atṛptir āsīt_); or (2) the food was cooked with such culinary perfection (_sūdaśāstroktaprakāreṇa_, v. 15) that diners continually craved more.
 </details>
 </details>
 
@@ -856,6 +920,14 @@ countries, and they are all well-pleased with the sumptuous food and drink suppl
 
 Men and multitudes of women who had arrived from diverse lands (_nānādeśād anuprāptāḥ puruṣāḥ strīgaṇās tathā_) were sumptuously regaled with food and drink (_annapānaiḥ suvihitāḥ_) in that sacrifice of the great-souled king.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.16–17 (aho tṛptāḥ sma bhadraṃ te)**
+
+**Govindarāja** notes that the public praise of Daśaratha’s hospitality echoes the Śrauta rite of the two lute-playing _vīṇāgāthin_ singers (_ity adadā ity ayajathā ity apacaḥ_) who celebrate the sacrificer’s feasts in song.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -994,6 +1066,14 @@ earrings have helped them. [1-14-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Well-adorned men served food to the Brāhmaṇas (_svalaṃkṛtāś ca puruṣā brāhmaṇān paryaveṣayan_), while others wearing brightly polished gem-set earrings (_sumṛṣṭamaṇikuṇḍalāḥ_) attended upon those servers (_upāsante ca tān anye_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.18–19 (upāsante ca tān anye & hetuvādān)**
+
+Because the diners were countless, attendants wearing polished gem-earrings waited upon the servers themselves (_tān pariveṣayitṝn_, **Tilaka**). On _hetuvādān_ (v. 19), **Govindarāja** notes that during the intervals between pressings (_savanayor antarālakāle_), the priests conducted the Śrauta _Brahmodya_ disputations between _Hotṛ_ and _Brahmā_ beginning _kiṃ svid āsīt pūrvacittiḥ_ (TS 7.4.18).
 </details>
 </details>
 
@@ -1210,6 +1290,14 @@ None there was unversed in the six Vedāṅgas (_nāṣaḍaṅgavid atrāsīt_)
 
 When the time arrived for the erection of the sacrificial posts (_prāpte yūpocchraye tasmin_), six posts of _bilva_ wood (_ṣaḍ bailvāḥ_), as many (six) of _khadira_ wood stationed alongside the _bilva_ posts (_khādirās tathā tāvanto bilvasahitāḥ_), and six others of _palāśa_ wood (_parṇinaś ca tathā pare_) were erected.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.22–23 (The Śrauta Array of the Twenty-One Yūpas)**
+
+Citing Śruti (_rājudālam agniṣṭhaṃ minoti, pūtudravāv abhito bhavataḥ_) and **Āpastamba Śrautasūtra** (20.14.1), **Govindarāja**, **Tilaka**, and **Śiromaṇi** explain the exact symmetrical array of the 21 _Aśvamedha_ posts: in the center stands 1 _agniṣṭha_ post of _śleṣmātaka_ (_rajjudāla_) wood facing the fire; flanking it on the south and north stand 2 _devadāru_ (_pūtudru_) posts; flanking those three (three south, three north) stand 6 _bilva_ posts; adjacent to the _bilva_ posts (_bilvasahitāḥ_) stand 6 _khadira_ posts; and on the outer flanks stand 6 _palāśa_ (_parṇinaḥ_) posts, totaling 1 + 2 + 6 + 6 + 6 = 21 _yūpas_!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1352,14 @@ is maintained at the length of extended arms. [1-14-22,23]
 
 One post of _śleṣmātaka_ (_rajjudāla_) wood was ordained (_śleṣmātakamayo diṣṭaḥ_), and likewise two posts of _devadāru_ wood were prescribed there (_devadārumayas tathā dvāv eva tatra vihitau_), spaced apart by the span of two outstretched arms (_bāhuvyastaparigrahau_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.23d (bāhuvyastaparigrahau)**
+
+**Tilaka** and **Śiromaṇi** take this as the girth of the posts (embraced by two outstretched arms), while **Govindarāja** cites the _Dharmanirṇayakāra_ (_ṣaṇṇavatyaṅgulaṃ bāhudaṇḍam... yūpāntarālaṃ tanmātram_), taking it as the one-fathom spacing (96 or 108 _aṅgulas_) between posts.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1317,6 +1413,14 @@ they are gold-pleated and decorated for the purpose of elegance to that ritual. 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All of these posts were fashioned by masters of the Śāstras and experts in the sacrifice (_śāstrajñair yajñakovidaiḥ_); and to adorn that sacrifice (_śobhārthaṃ tasya yajñasya_), they were embellished with gold (_kāñcanālaṃkṛtā bhavan_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.24–27 (kāñcanālaṃkṛtāḥ & ekaviṃśatyaratnayaḥ)**
+
+**Govindarāja** notes that Vālmīki specifies _śobhārthaṃ tasya yajñasya_ to show that gilding the wooden _yūpas_ with gold was done for imperial splendour rather than by Śrauta injunction. On v. 25, all three commentators cite the Śruti _ekaviṃśatyaratnir aśvamedhasya_ and the Sūtra defining an _aratni_ as twenty-four _aṅgulas_: each of the 21 octagonal posts measured 21 cubits and was wrapped in one of 21 garments.
 </details>
 </details>
 
@@ -1529,6 +1633,14 @@ milk and other sacred liquids to the chanting of Vedic hymns.
 
 The sacrificial bricks were fashioned in due measure according to rule (_iṣṭakāś ca yathānyāyaṃ kāritāś ca pramāṇataḥ_), and the fire-altar was piled there by Brāhmaṇas skilled in the geometry of the _Śulbasūtras_ (_cito ’gnir brāhmaṇais tatra kuśalaiḥ śulbakarmaṇi_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.28 (kuśalaiḥ śulbakarmaṇi)**
+
+Citing **Haradatta** (_rajjunā viharaṇasādhanatvād etat karma śulbam ācaṣṭe_), **Govindarāja** explains _śulba_ as the measuring cord (_rajju_) and the geometric science of laying out fire-altars with measured bricks.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1590,6 +1702,14 @@ altar is laid threefold bigger than the usual one.
 
 That _citya_ fire-altar of the lion among kings (_sa cityo rājasiṃhasya_), piled by expert twice-born priests (_saṃcitaḥ kuśalair dvijaiḥ_), had the form of Garuḍa with wings of gold (_garuḍo rukmapakṣo vai_), triple in scale and consisting of eighteen layers (_triguṇo ’ṣṭādaśātmakaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.29 (garuḍo rukmapakṣo vai triguṇo ’ṣṭādaśātmakaḥ)**
+
+All three commentators explain that _garuḍaḥ_ denotes the eagle-shaped _Śyenaciti_ altar (with the mantra _suparṇo ’si garutmān_), while _rukmapakṣaḥ_ refers to golden bricks or the Sūtra rite _sahasraṃ hiraṇyaśakalaiḥ pratidiśam agniṃ prokṣati_. **Govindarāja** explains why both _triguṇaḥ_ (triple-layered by Sūtra injunction) and _aṣṭādaśātmakaḥ_ are stated: in the Taittirīya school the archetype has 5 layers (triple = 15), whereas in the **Vājasaneyaka** school _ṣaṭ citayo bhavanti_ (6 layers), so triple equals 18!
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1643,6 +1763,14 @@ according to the scriptural directives. [1-14-30]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Sacrificial animals (_paśavaḥ_), as well as serpents and birds enjoined by Śāstra (_uragāḥ pakṣiṇaś caiva yathāśāstraṃ pracoditāḥ_), were tethered there (_niyuktās tatra_), each dedicated to its respective deity (_tat tad uddiśya daivatam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.30–32 (śāmitre tu hayaḥ — Release of the Wild Creatures)**
+
+**Govindarāja** explains _tu_ in v. 31 via two Śruti texts: domestic animals are tied to the _yūpas_ while wild creatures (_āraṇyān_) are placed in the inter-spaces (_ārokeṣu_); after fire-circumambulation, the wild creatures are released unharmed (_paryagnikṛtān āraṇyān utsṛjanty ahiṃsāyai_), whereas only the horse and domestic victims (300 principal animals, _paśūnāṃ triśatam_) proceed to the _Śāmitra_ rite.
 </details>
 </details>
 
@@ -1813,6 +1941,14 @@ act by piercing that horse, which is already dead, with golden needle-like knive
 
 Having reverently tended and circumambulated that horse on all sides (_kausalyā taṃ hayaṃ tatra paricarya samantataḥ_), Queen Kausalyā with supreme joy traced the knife-paths upon it with three blades (_kṛpāṇair visasārainaṃ tribhiḥ paramayā mudā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.33–34 (kṛpāṇaiḥ ... tribhiḥ & avasad rajanīm ekām)**
+
+Citing the Sūtra _patnayo ’śvasyāsipathān kalpayanti_, **Govindarāja** explains that after ninefold circumambulation chanting _idaṃ madhu_, the queens trace the knife-paths on the horse’s chest with three needles of gold, silver, and copper (_sauvarṇībhiḥ sūcībhiḥ_), and Kausalyā abides one night beside the steed under the _tārpaya_ garment.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1937,6 +2073,14 @@ priests took these wives by hand to bring them in contact with the dead horse.
 
 Then the _Hotṛ_, _Adhvaryu_, and _Udgātṛ_ (together with the _Brahmā_) joined the _Vāvātā_ (favourite queen) and the fourth queen (_Pālākalī_), along with the consecrated chief queen (_Mahiṣī_) and the neglected queen (_Parivṛttī_), with the horse’s foreleg (_hastena samayojayan_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.35 (mahiṣyā parivṛttyātha vāvātām aparāṃ tathā)**
+
+Citing _Vaijayantī_ (_kṛtābhiṣekā mahiṣī parivṛttir upekṣitā, vāvātā bhoginī pātrapradā pālākalī matā_), the commentators identify the four queens. **Śiromaṇi** glosses _hastena_ as touching them with the horse’s foreleg (_hayahastena_), while **Govindarāja** cites the Sūtra _mahiṣīṃ brahmaṇe dadāti vāvātāṃ hotre parivṛttim udgātre pālākalīm adhvaryave_ (leading them by the hand as nominal _dakṣiṇā_ before redemption).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -2007,6 +2151,14 @@ have omentum according to Vedic texts.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having extracted the omentum-fat of that swift steed (_patatriṇas tasya vapām uddhṛtya_), the self-controlled officiating priest of supreme ritual mastery (_ṛtvik paramasaṃpannaḥ_) cooked it according to Śāstra (_śrapayāmāsa śāstrataḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.36–38 (patatriṇas tasya vapām & agnau prāsyanti sarvāṇi)**
+
+Since Śruti declares _nāśvasya vapā vidyate_ (“a horse lacks a true omentum”), **Tilaka** and **Śiromaṇi** explain _vapā_ here as the fat known as _candra_ (_medaḥ_), while **Govindarāja** cites _nānyeṣāṃ paśūnāṃ tejanyā avadyanty avadyanty aśvasya_ (the _tejanī_ substitute). In v. 38, _tāni sarvāṇi_ shows that all limbs are offered into the fire with no remnant eaten (_śeṣabhakṣaṇaṃ nāsti_), freeing the sacrificer from sin limb by limb (_aṅgād aṅgād evainaṃ pāpmanas tena muñcati_).
 </details>
 </details>
 
@@ -2154,6 +2306,14 @@ a rattan plant, cane. [1-14-39]
 
 Whereas in other sacrifices the meat-oblation is portioned out upon branches of the _plakṣa_ fig tree (_plakṣaśākhāsu yajñānām anyeṣāṃ kriyate haviḥ_), for the _Aśvamedha_ alone a portion prepared upon _vetasa_ reed is prescribed (_aśvamedhasya caikasya vaitaso bhāga iṣyate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.39 (plakṣaśākhāsu vs. vaitaso bhāgaḥ)**
+
+All three commentators cite the Taittirīya Brāhmaṇa: _plakṣaśākhāyām anyeṣāṃ paśūnām avadyanti, vetasaśākhāyām aśvasya_—the horse’s oblation is placed upon a reed mat (_vaitasa kaṭa_) because both horse and reed are water-born (_apsuyonir vā aśvo ’psujo vetasaḥ_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2228,6 +2388,14 @@ variously connected rituals, in all his eagerness to appease gods for progeny.
 
 **41:** Its second pressing day is reckoned as an _Ukthya_ (_ukthyaṃ dvitīyaṃ saṃkhyātam_), and the following (third) day as an _Atirātra_ (_atirātraṃ tathottaram_); furthermore, many other sacrifices ordained from consulting the Śāstras (_vihitāḥ śāstradarśanāt_) were also performed there (_kāritās tatra bahavaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.40–41 (tryaho ’śvamedhaḥ)**
+
+Citing the Kalpasūtra _aśvamedhasya trīṇi savanīyāny ahāni_, the commentators explain the three Soma-pressing days: Day 1 is a _Catuṣṭoma_ (_Agniṣṭoma_ with four _stomas_), Day 2 an _Ukthya_, and Day 3 an _Atirātra_.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -2292,6 +2460,14 @@ And also rituals of great kind like *abhijit, vishwajit, aptoryaama* are perform
 
 The _Jyotiṣṭoma_ and _Āyuṣṭoma_, as well as two _Atirātras_, were performed (_jyotiṣṭomāyuṣī caivam atirātrau ca nirmitau_); and likewise the _Abhijit_, the _Viśvajit_, and two _Āptoryāma_ great sacrifices (_abhijid viśvajic caivam āptoryāmau mahākratuḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.42 (The Supplementary Kratus)**
+
+**Tilaka**, **Śiromaṇi**, and **Govindarāja** enumerate the supplementary Soma sacrifices performed after the main three days (_Jyotiṣṭoma_, _Āyuṣṭoma_, two _Atirātras_, _Abhijit_, _Viśvajit_, and two _Āptoryāmas_), and **Govindarāja** explains that Daśaratha combined these rites taught across different Vedic _śākhās_ in order to secure the fullest ritual fruit. **Govindarāja** also notes that Vālmīki narrates the altar-piling, _yūpas_, _vapāhoma_, and _savanas_ in free poetic order (_kramam avivakṣan_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2322,6 +2498,14 @@ The _Jyotiṣṭoma_ and _Āyuṣṭoma_, as well as two _Atirātras_, were perf
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The king, increaser of his own dynasty (_svakulavardhanaḥ_), bestowed the eastern quarter upon the _Hotṛ_ (_prācīṃ hotre dadau rājā diśam_), the western quarter upon the _Adhvaryu_ (_adhvaryave pratīcīṃ tu_), and the southern quarter upon the _Brahmā_ (_brahmaṇe dakṣiṇāṃ diśam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.43–45 (The Fourfold Dig-dāna)**
+
+All three commentators cite the Śrautasūtra: _pratidiśaṃ dakṣiṇāṃ dadāti—prācī dig hotuḥ, dakṣiṇā brahmaṇaḥ, pratīcy adhvaryoḥ, udīcy udgātuḥ_ (“He gifts the quarters: east to the _Hotṛ_, south to the _Brahmā_, west to the _Adhvaryu_, north to the _Udgātṛ_”), and the Śruti _prajāpatir aśvamedham asṛjata_ for _svayambhūvihite_.
 </details>
 </details>
 
@@ -2427,6 +2611,14 @@ the officiating priests, called ritwiks, to promote his dynasty. [1-14-45]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having thus completed the sacrifice in accordance with ritual law (_kratuṃ samāpya tu tadā nyāyataḥ_), that bull among men, the king who exalted his lineage (_kulavardhanaḥ_), bestowed that entire earth upon the officiating priests (_ṛtvigbhyo hi dadau rājā dharāṃ tām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.45–47 (Mīmāṃsā Status of Gifting the Earth)**
+
+Addressing Jaimini’s rule (6.7.3) forbidding the gift of land in the _Viśvajit_, **Govindarāja** explains that either specific provinces were gifted or the explicit _Aśvamedha_ injunction creates a valid Śāstric option (_pratidiśaṃ dakṣiṇāṃ dadātīti vidher api darśanāt kesaridānavad vikalpo vā_).
 </details>
 </details>
 
@@ -2578,6 +2770,14 @@ may give us something else in barter, any modest thing. " [1-14-48]
 
 “For we are ever devoted to the recitation and study of our own Vedas (_ratāḥ svādhyāyakaraṇe vayaṃ nityaṃ hi bhūmipa_), O lord of the earth; therefore, pray grant us here some modest redemption-price (_niṣkrayaṃ kiṃcid eveha prayacchatu bhavān iti_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.48–49 (ratāḥ svādhyāyakaraṇe & niṣkrayaṃ kiṃcid eva)**
+
+**Tilaka** and **Govindarāja** note that by saying _ratāḥ svādhyāyakaraṇe_ (“we are ever absorbed in Vedic study”), the priests indicate that Brāhmaṇas have no vocation for royal governance (_daṇḍādāv asmākam adhikāro ’pi neti dhvanitam_). They ask for “some modest redemption-price” (_niṣkrayaṃ kiṃcid eva_) because nothing can equal the true price of the whole earth (_na hi bhuvo mūlyaṃ dātum aśakyam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2703,6 +2903,14 @@ the lands earlier donated, hence it is an acceptable item.
 
 Thus addressed by the Brāhmaṇas who had crossed to the farthest shore of the Vedas (_evam ukto narapatir brāhmaṇair vedapāragaiḥ_), the king bestowed upon them one million cows (_gavāṃ śatasahasrāṇi daśa tebhyo dadau nṛpaḥ_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.50–51 (One Million Cows, Ten Crores of Gold & the Śrauta Status of Silver)**
+
+Daśaratha gives 10 × 100,000 = 1,000,000 cows (_daśalakṣagavīḥ_), 10 crores of gold _suvarṇas_ (of 16 _māṣakas_ each, **Tilaka**), and 40 crores of silver (_caturguṇam_). Here **Govindarāja** resolves a classic Śrauta objection: since Taittirīya Śruti forbids silver as sacrificial _dakṣiṇā_ (_tasmād rajataṃ hiraṇyam adakṣiṇyam_, TS 1.5.1.2), how could Daśaratha give silver? Because the silver was given _not_ as _dakṣiṇā_, but as purchase-redemption (_pratinidhi / niṣkraya_) for buying back the land!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2802,6 +3010,14 @@ wealth passed on by Rishyasringa and Vashishta, and then they said, "We are high
 
 To the sage Ṛṣyaśṛṅga and the wise Vasiṣṭha (_ṛṣyaśṛṅgāya munaye vasiṣṭhāya ca dhīmate_); then, having had them equitably apportion the shares according to Śāstric rule (_tatas te nyāyataḥ kṛtvā pravibhāgam_), those foremost of the twice-born—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.52 (nyāyataḥ kṛtvā pravibhāgam)**
+
+**Govindarāja** cites the Śrauta ratio of division among the sixteen _ṛtviks_: whatever the chief priest receives, the second receives half, the third a third, and the fourth a quarter (_yāvad adhvaryave dadāti tadardhaṃ pratiprasthātre tṛtīyaṃ neṣṭre caturthaṃ netre_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -2868,6 +3084,14 @@ ten million gold coins. [1-14-53b, 54a]
 
 All of them, with deeply contented minds and exceeding joy, replied to the king (_suprītamanasaḥ sarve pratyūcur muditā bhṛśam_); thereafter, with a composed mind (_susamāhitaḥ_), the king bestowed gold upon the visiting Brāhmaṇa spectators (_tataḥ prasarpakebhyas tu_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.53–54a (prasarpakebhyaḥ & jāmbūnadaṃ koṭisaṃkhyam)**
+
+All three commentators explain the technical Śrauta term _prasarpakāḥ_: it denotes those Brāhmaṇas who are not among the sixteen officiating _ṛtviks_ but have entered the sacrificial arena as spectators and assembly-assessors (_yajñadarśanārtham āgatebhyaḥ_). **Govindarāja** cites the Śruti _yāvanto vai sadasyās te sarve dakṣiṇyāḥ_ (“all who sit in the assembly are entitled to gifts”), in fulfilment of which Daśaratha distributed a crore of pure _Jāmbūnada_ gold.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2917,6 +3141,14 @@ Brahman and who is beseeching. [1-14-54a, 55a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Namely, he then gave ten million pieces of pure _Jāmbūnada_ gold to the Brāhmaṇas (_jāmbūnadaṃ koṭisaṃkhyaṃ brāhmaṇebhyo dadau tadā_); and next, to a certain indigent Brāhmaṇa (_daridrāya dvijāyātha_), he gave the superb ornament from his own arm (_hastābharaṇam uttamam_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.54b–55a (daridrāya dvijāyātha hastābharaṇam uttamam)**
+
+**Tilaka** highlights the touching nuance of _atha_ (“thereafter”): after the king had already distributed all his cows, gold, and silver, a solitary poor Brāhmaṇa arrived late and begged for a gift; having no other treasure left at hand in the enclosure (_dātavyavastvantarābhāvāt_), the generous monarch immediately slipped the royal bracelet (_hastābharaṇam = kaṅkaṇam_) off his own wrist and bestowed it upon him!
 </details>
 </details>
 
@@ -2969,6 +3201,14 @@ them dutifully with his senses fluttering with happiness. [1-14-55b, 56a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bestowing it upon that supplicant who begged of him (_kasmaicid yācamānāya_), the delighter of the Rāghavas (_dadau rāghavanandanaḥ_); then, when the twice-born were duly gratified (_tataḥ prīteṣu vidhivad dvijeṣu_), the king who dearly loved the Brāhmaṇas (_dvijavatsalaḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.55b–56 (praṇāmam akarot teṣām & tasyāśiṣo ’tha vividhāḥ)**
+
+Overwhelmed with spiritual joy (_harṣavyākulitendriyaḥ_), Emperor Daśaratha bows down before the satisfied Brāhmaṇas, who shower him with Vedic benedictions such as _āyuṣmān bhava_ (**Tilaka**).
 </details>
 </details>
 
@@ -3102,6 +3342,14 @@ be undertaken by many of the best kings. [1-14-57b, 58a]
 
 Over that munificent hero among men as he lay prostrate in homage upon the ground (_udārasya nṛvīrasya dharaṇyāṃ patitasya ca_); then, with a joyful heart, the king—having accomplished that peerless sacrifice (_tataḥ prītamanā rājā prāpya yajñam anuttamam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.57–58 (dharaṇyāṃ patitasya & pāpāpaham)**
+
+**Śiromaṇi** glosses _dharaṇyāṃ patitasya_ as performing full eight-limbed prostration (_sāṣṭāṅgapraṇāma_). Both **Govindarāja** and **Tilaka** explain why Vālmīki calls the _Aśvamedha_ _pāpāpaham_ (“sin-destroying”) right before the _Putrakāmeṣṭi_: although the _Putrakāmeṣṭi_ directly produces sons, Daśaratha first performed the _Aśvamedha_ to expiate the grave karmic obstacle blocking progeny—namely his accidental slaying of the ascetic youth Śravaṇa and the grief of Śravaṇa’s blind parents (_tapasvino vaiśyasya śravaṇasya vadhena... pāpanivṛttaye_, **Tilaka**)!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3202,6 +3450,14 @@ king, there will be four sons to you that ennoble your dynasty. [1-14-59b, c]
 
 “O sage of noble vows (_suvrata_), you ought now to perform that rite which will increase and perpetuate my lineage (_kulasya vardhanaṃ tat tu kartum arhasi_)!” And that best of the twice-born replied to the king, “So be it!” (_tatheti ca sa rājānam uvāca dvijasattamaḥ_), adding: “O King, four sons shall be born to you who will uphold your dynasty (_bhaviṣyanti sutā rājaṃś catvāras te kulodvahāḥ_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.59 (kulasya vardhanaṃ tat tu & catvāras te kulodvahāḥ)**
+
+Having removed all karmic impediments and propitiated the deities who form the cosmic body of the Lord (**Govindarāja**), Daśaratha entreats Ṛṣyaśṛṅga to perform the lineage-increasing rite, and the seer prophetically promises him four dynasty-upholding sons.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3271,5 +3527,13 @@ a state of ecstasy and venerating that great soul, Rishyasringa, again said this
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those sweet words of the sage (_sa tasya vākyaṃ madhuraṃ niśamya_) and bowing to him with a devout mind (_praṇamya tasmai prayato nṛpendraḥ_), the great-souled lord of kings attained supreme joy (_jagāma harṣaṃ paramaṃ mahātmā_) and spoke once again to Ṛṣyaśṛṅga (_tam ṛṣyaśṛṅgaṃ punar apy uvāca_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.60 (Metrical Coda in Upajāti)**
+
+Closing the Sarga in eleven-syllable _Upajāti_ meter, the joyous king bows to Ṛṣyaśṛṅga and urges him to commence the _Putrakāmeṣṭi_ opened in Sarga 15.
 </details>
 </details>

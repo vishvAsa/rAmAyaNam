@@ -63,6 +63,14 @@ After King Brahmadatta’s departure with his hundred brides, Kuśanābha perfor
 
 “When that Brahmadatta, having completed his wedding rites, had departed (_kṛtodvāhe gate tasmin brahmadatte ca_), O Rāghava, the sonless king Kuśanābha (_aputraḥ_), in order to obtain a son (_putralābhāya_), instituted a sacrificial rite capable of bestowing a male heir (_pautrīm iṣṭim akalpayat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.1–2 (pautrīm iṣṭim & kuśo brahmasutaḥ)**
+
+Having wedded his hundred daughters to Brahmadatta and sent him back to Kāmpilya, the sonless (_aputraḥ_) Kuśanābha institutes a Vedic _iṣṭi_ for obtaining a male heir (_pautrīm iṣṭim_, **Govindarāja**, **Śiromaṇi**). While the sacrifice proceeds, Kuśanābha’s father Kuśa, direct son of Brahmā (_kuśo brahmasutaḥ_), appears before him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -162,6 +170,14 @@ Kusha said to Kushanaabha. [1-34-3]
 
 “‘O my son (_putra_), a supremely righteous son worthy of you (_putras te sadṛśaḥ sudhārmikaḥ_) shall be born to you. You shall obtain Gādhi (_gādhiṃ prāpsyasi_), and through him you shall win everlasting renown in the world (_kīrtiṃ loke ca śāśvatīm_).’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.3–4 (Prophecy of Gādhi & Ascent to Brahmaloka)**
+
+Kuśa prophesies that a righteous son equal to Kuśanābha in virtues (_sadṛśaḥ guṇaiḥ_, **Govindarāja**) named Gādhi shall be born, bringing everlasting renown (_kīrtiṃ loke ca śāśvatīm_). **Tilaka** and **Govindarāja** note that Kuśa’s return through the sky to eternal Brahmaloka shows he permanently abides in Brahmā’s realm (_sadā brahmalokavāsī_) and descended through the firmament (_ākāśam āviśya_) solely to bless his progeny.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -253,6 +269,14 @@ son known by the name Gaadhi. [1-34-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, after some time had elapsed (_kasyacit tv atha kālasya_), there was born to the wise Kuśanābha a supremely righteous son (_jajñe paramadharmiṣṭho_) known by the very name of Gādhi (_gādhir ity eva nāmataḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.5–6 (kuśavaṃśaprasūtaḥ & kauśikaḥ)**
+
+Born to Queen Ghṛtācī (**Govindarāja**: _jajñe ghṛtācyāṃ bhāryāyām_), Gādhi is Viśvāmitra’s father. **Tilaka** and **Govindarāja** derive _Kauśika_ here from _Kuśa_ (_kuśavaṃśaprasūtatvād ahaṃ kauśikaḥ_; _kuśaśabdād gotrāpatye ṭhak_), while on v. 20 **Govindarāja** adds that Kuśika is also a second name of Gādhi (_gādhiḥ kuśika iti nāmāntaram_).
 </details>
 </details>
 
@@ -356,6 +380,14 @@ Satyavathi is there, oh, Raghava, and she is given in marriage to sage Ruchika.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “My elder sister (_pūrvajā bhaginī cāpi mama_), O Rāghava, firm in her sacred vows (_suvratā_) and known by the name of Satyavatī (_nāmnā satyavatī nāma_), was given in marriage to the sage Ṛcīka (_ṛcīke pratipāditā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.7–9 (Satyavatī, Ṛcīka & River Kauśikī)**
+
+Viśvāmitra’s elder sister (_pūrvajā bhaginī_) Satyavatī was wedded to Sage Ṛcīka (_ṛcīke pratipāditā_). Following her husband in devotion (_bhartāram anuvartinī_: _sahagamanaṃ kṛtavatī_, **Tilaka**; _bhartranuvartanadharmaprabhāvāt_, **Govindarāja**), she ascended bodily to heaven (_saśarīrā gatā svargam_) and flowed down Himavān as the holy river Kauśikī. On _hitakāmārtham_ (v. 9c), **Tilaka** and **Govindarāja** gloss _hita_ as otherworldly welfare (_āmuṣmikam_) and _kāma_ as worldly joy (_aihikam_).
 </details>
 </details>
 
@@ -518,6 +550,14 @@ of Himalayas, in adjacency of my sister Kausiki in all my affection for her. [1-
 
 “Therefore, O delight of the Raghus, bound by deep affection for my sister Kauśikī (_bhaginyāṃ snehasaṃyuktaḥ kauśikyām_), I dwell happily on the flank of Himavān (_himavatpārśve vasāmi_), steadfast in my ascetic observances (_niyataḥ sukham_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.10–11 (Abiding by Kauśikī’s Banks)**
+
+Out of fraternal affection (_bhaginyāṃ snehasaṃyuktaḥ_), Viśvāmitra resides beside Himavān along the Kauśikī. **Tilaka** remarks that because Satyavatī abides in truth (_satye dharme pratiṣṭhitā_), bathing in her waters keeps the mind from ever swerving from truth (_tajjalapānādinā satyān mano na nivartate_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -614,6 +654,14 @@ of mine. [1-34-12]
 
 “Bound by a special sacrificial vow (_niyamāt_), O Rāma, I left her banks and came hither (_hitvā tāṃ samupāgataḥ_); having reached Siddhāśrama (_siddhāśramam anuprāptaḥ_), I have now attained complete fulfilment through your radiant splendour (_siddho ’smi tava tejasā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.12 (niyamāt & siddho ’smi tava tejasā)**
+
+**Tilaka** and **Govindarāja** explain _niyamāt_ as the vow of a rite achievable only at Siddhāśrama, just as _piṇḍa_-offerings require Gayā (_gayāpiṇḍadānavat siddhāśramaikasādhyayāgajanyasiddhihetoḥ_); through Rāma’s radiance (_tava tejasā_), that vow is now fulfilled (**Śiromaṇi**: _viśvāmitrasya rāmopāsakatvaṃ vyaktam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -692,6 +740,14 @@ beget a son because is sonless. [1-34-1]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus, O Rāma, have I recounted to you the origin of myself, of my own dynasty, and of this region (_eṣā mamotpattiḥ svasya vaṃśasya deśasya ca kīrtitā_), O mighty-armed prince, concerning which you inquired of me (_yan māṃ tvaṃ paripṛcchasi_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.13–14 (Debate over ardharātraḥ)**
+
+Concluding his account of Gādhi, Kuśa’s race, and the Girivraja–Śoṇa region (_deśasya ca_), Viśvāmitra bids Rāma sleep lest daytime drowsiness hinder their march (_nidrābhāvaprayuktajāḍyamūlo vighnaḥ_, **Tilaka**). On _ardharātraḥ_ (v. 14) alongside twilight fading (v. 16) and moonrise (v. 17), **Govindarāja** takes _ardha_ as ‘part’ (_khaṇḍavācī_, early night/_pradoṣa_) on the second lunar day after the full-moon sacrifice. **Śiromaṇi** refutes this, defending literal midnight (_samāṃśavācakatva_) on _kṛṣṇanavamī_, citing 35.1 (_upāsya rātriśeṣaṃ tu_) where **Govindarāja** himself concedes _niśīthaparatvaṃ svarasam_.
 </details>
 </details>
 
@@ -785,6 +841,14 @@ nightly sombre has pervaded all the confines. [1-34-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “All the trees stand motionless (_niṣpandās taravaḥ sarve_), the beasts and birds have nestled into hiding (_nilīnā mṛgapakṣiṇaḥ_), and the quarters of the sky are enveloped in nocturnal darkness (_naiśena tamasā vyāptā diśaś ca_), O delight of the Raghus.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.15–16 (nabho netrair ivāvṛtam)**
+
+With birds nestled in sleep, the trees stand motionless (_pakṣicalanābhāvāt_, **Tilaka**). The sky, thick with lunar mansions (_nakṣatra_, Aśvinī etc.) and stars (_tārā_, **Govindarāja**), shines as if covered with eyes (_nabho netrair ivāvṛtam_—an _utprekṣā_ evoking the thousand eyes of Indra, **Tilaka**).
 </details>
 </details>
 
@@ -888,6 +952,14 @@ coolant moonbeams is rising up, gladdening the hearts of worldly beings. [1-34-1
 
 “And the cool-rayed moon, dispeller of the world’s darkness, is rising (_uttiṣṭhate ca śītāṃśuḥ śaśī lokatamonudaḥ_), gladdening with its own lustre the minds of living beings in the world (_hlādayan prāṇināṃ loke manāṃsi prabhayā svayā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.17–18 (Moonrise & Nocturnal Spirits)**
+
+The cool-rayed moon (_śītāṃśuḥ śaśī_) rises, dispelling darkness and gladdening living beings, while nocturnal spirits, yakṣas, and flesh-eating rākṣasas roam abroad.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -989,6 +1061,14 @@ all the other sages have revered him saying, "well-said, well-said." [1-34-19]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, the great sage of mighty splendour fell silent (_evam uktvā mahātejā virarāma mahāmuniḥ_); and all the sages honoured him with acclaim, crying, “Well spoken! Well spoken!” (_sādhu sādhv iti taṃ sarve munayo hy abhyapūjayan_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.19–21 (Eulogy of the Kuśika Race & River Kauśikī)**
+
+As the sage falls silent, the assembled sages acclaim him (“_sādhu sādhv iti_”). In vv. 20–21, they extol the kings of Kuśa’s race as equals of Brahmarṣis or Brahmā (_brahmopamāḥ_: _brahmarṣitulyāḥ_ in **Tilaka** and **Śiromaṇi**; _caturmukhopamāḥ_ in **Govindarāja**), singling out Viśvāmitra—who won Brahmanhood by asceticism (**Tilaka**)—and his sister Kauśikī as the illuminator and saviour of his lineage (_kulodyotakarī_: _kulasyoddhārakartrī_, **Tilaka**).
 </details>
 </details>
 
@@ -1143,6 +1223,14 @@ lap of dusk for that day. [1-34-22]
 
 Thus praised by those joyful tigers among sages (_muditair muniśārdūlaiḥ praśastaḥ_), the glorious son of Kuśika entered into sleep like the radiant sun when it has set (_nidrām upāgamac chrīmān astaṃgata ivāṃśumān_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.22 (astaṃgata ivāṃśumān)**
+
+Praised by the sages, the glorious son of Kuśika enters sleep like the setting sun (_astaṃgata ivāṃśumān_). **Govindarāja** explains the simile: just as the setting sun ceases to awaken the lotuses until dawn, Viśvāmitra in sleep temporarily ceases his enlightening discourse (_tadvat paraprabodhājanaka ity arthaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1200,5 +1288,13 @@ and glided into the lap of sleep along with Soumitri. [1-34-23]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rāma too, together with Saumitri (Lakṣmaṇa), touched with gentle wonder (_kiṃcid āgatavismayaḥ_), praised that tiger among sages and betook himself to sleep (_praśasya muniśārdūlaṃ nidrāṃ samupasevate_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34.23 (kiṃcid āgatavismayaḥ)**
+
+Rāma too, with Lakṣmaṇa (_sahasaumitriḥ_), praises the sage and sleeps, touched with gentle wonder (_kiṃcid āgatavismayaḥ_)—only “a little” because sleep is overtaking him (_nidrāpāravaśyāt_, **Govindarāja**) or because Rāma’s supreme composure remains ever unshaken (**Śiromaṇi**).
 </details>
 </details>

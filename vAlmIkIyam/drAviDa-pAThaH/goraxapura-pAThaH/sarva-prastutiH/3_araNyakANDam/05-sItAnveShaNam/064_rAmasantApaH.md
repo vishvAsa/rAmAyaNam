@@ -3248,6 +3248,242 @@ you may now witness how the animals and birds will be dazed and devastated... [3
 
 “Which will be packed without interstice by networks of arrows loosed from my bowstring (_mama cāpa-guṇonmuktair bāṇa-jālair nirantaram_)! Crushed by my iron shafts (_marditaṃ mama nārācaiḥ_), with beasts and birds struck down and bewildered (_dhvasta-bhrānta-mṛga-dvijam_),
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.64.1–2 (Theological Purpose of Rāma's Grief)**
+
+Citing the _Brahmāṇḍa Purāṇa_ (दुःखाज्ञानभ्रमादींश्च दर्शयेच्छुद्धसद्गुणः) and _Kedārakhaṇḍa_, **Rāma Varmā** (_Tilaka_) explains that Rāma displays mortal grief so Rāvaṇa's spies will report him as a mere man, allowing Rāvaṇa's vast ascetic merit to be consumed by his passion for Sītā (सीतानुरागमोहादिदोषसंपत्त्या). **Govindarāja** (_Bhūṣaṇa_) notes that this canto traces how Rāma ascertains Sītā's abduction through concrete signs (चिह्नविशेषैः सीताहरणनिश्चयः).
+
+_____________
+
+**3.64.3–4 (Searching the Sacred Fords)**
+
+On लघुविक्रमः, all three commentators gloss विक्रमः as stride (अविलम्बितपादन्यासः, _Tilaka_). **Rāma Varmā** (_Tilaka_) explains तीर्थवतीम् as possessing both landing stairs and holy waters (अवतारवतीं पुण्योदकवतीं च), and highlights the poignant paradox of क्लेशनाशिनी: she who removes Rāma's distress now causes it (क्लेशनाशिनी सती क्लेशकरीति भावः).
+
+_____________
+
+**3.64.5–6 (Rāma Hastens to the Godāvarī)**
+
+On स दीनो दीनया वाचा (1a), **Govindarāja** (_Bhūṣaṇa_) remarks that whereas someone afflicted in the world may still restrain his tone (दीनोऽपि दीनां वाचं न व्याहरति), Rāma's voice breaks; hearing Lakṣmaṇa's report, he rushes to question the river.
+
+_____________
+
+**3.64.7–8 (The Creatures' Prompting & the River's Silence)**
+
+On भूतानि, **Govindarāja** (_Bhūṣaṇa_) explains the plural as forest beings cited as a parallel (वन्यानि सत्त्वानि दृष्टान्तार्थमिदम्): just as the creatures questioned earlier stayed silent, so too did the Godāvarī. Reading अस्मत् in 8b as an ablative of agency (अस्मदर्थं पञ्चमी), he notes that the creatures urged the river to speak on their behalf.
+
+_____________
+
+**3.64.9–10 (Dread of Rāvaṇa & Rāma's Despair)**
+
+Recalling the wicked Rāvaṇa's terrifying form and deeds (अतिभयंकरं रूपं कर्म च ध्यात्वा, _Śiromaṇi_), the river kept silent out of fear. **Rāma Varmā** (_Tilaka_) remarks that when even a presiding river-deity (दिव्यदेवता) refuses to answer, Rāma concludes that finding Sītā is hopeless (निराशोऽभूत्).
+
+_____________
+
+**3.64.11–12 (Facing Janaka & Sītā's Mother)**
+
+Construing 11cd–12ab as a single sentence (सार्धश्लोक एकान्वयी), **Śivasahāya** (_Śiromaṇi_) explains Rāma's anguish: when the Godāvarī utters not even a syllable of news (सीतावृत्तान्ताक्षरमपि न कथयति), how can he return without Sītā and speak unwelcome tidings (अप्रियम्) to Janaka and Sītā's mother?
+
+_____________
+
+**3.64.12c–14b (The Consoler in Exile & Endless Nights)**
+
+Recalling how Sītā dispelled all his sorrow while he lived on forest produce (वन्येन फलमूलादिना, _Bhūṣaṇa_), Rāma laments that now, bereft of kinsmen and allies (ज्ञातयश्च ते पक्षाः सहायाश्च तैर्विहीनस्य, _Bhūṣaṇa_) and unable to sleep (जाग्रतः), his nights will drag on in anguish (अतिदुःखेन व्यत्येष्यन्ति, _Śiromaṇi_).
+
+_____________
+
+**3.64.14c–15b (Courting the Rivers, Glades & Hills)**
+
+Identifying the Mandākinī here as a local stream (मन्दाकिनी काचिन्नदी), **Rāma Varmā** (_Tilaka_) explains सर्वाण्यनुचरिष्यामि with poignant humility: Rāma vows to wait upon the river, Janasthāna, and Mount Prasravaṇa like an attendant (अनुचरवत्सेविष्ये) if only Sītā is found.
+
+_____________
+
+**3.64.15c–18 (The Deer Point Skyward and South)**
+
+Observing the expressive gestures (इङ्गितानि चेष्टितानि, _Śiromaṇi_) of the deer, Rāma questions them with tear-choked voice (गिरा) or gaze (दृशा, _Bhūṣaṇa_). All three commentators note that by leaping southward while looking at the sky (उन्मुखतयाऽऽकाशनिरोकनेङ्गितेन, _Tilaka_), the deer indicate that Sītā was borne south through the air (आकाशमार्गेण दक्षिणां दिशं गता, _Bhūṣaṇa_).
+
+_____________
+
+**3.64.19–20 (Sky-Path, Earth & Mute Eloquence)**
+
+Explaining why the deer gaze at both the sky-path (आकाशमार्गम्) and the ground (भूमिं च), **Rāma Varmā** (_Tilaka_) notes that while Sītā went by air, the brothers must follow on foot (पुनर्भूभौ गमनाय). On वचनसर्वस्वम्, **Govindarāja** (_Bhūṣaṇa_) remarks that the deer's gestures conveyed the full import of speech (मृगचेष्टया वचनोक्तमिव ज्ञातवान्).
+
+_____________
+
+**3.64.21–22 (The Demon-Haunted Southwest)**
+
+Reconciling दक्षिणां दिशम् (22b) with नैर्ऋतीम् (22d), **Govindarāja** (_Bhūṣaṇa_) explains that the southwestern quarter is the seat of the _rākṣasas_ (दक्षिणपश्चिमां राक्षसाधिष्ठिताम्) and is called “southern” because it forms part of the southern region (दक्षिणैकदेशत्वात्).
+
+_____________
+
+**3.64.23–24 (A Trace of Sītā)**
+
+On आगमः, **Rāma Varmā** (_Tilaka_) glosses it as an indicative trace or clue of Sītā (ज्ञापकं वस्तु), whereas **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) interpret it as a means of beholding her (सीतादर्शनोपायः). On श्रीमान्, **Govindarāja** notes Rāma's reviving lustre at finding a clue (सीताधिगमनलिङ्गदर्शनेन श्रीमान्).
+
+_____________
+
+**3.64.25–26 (The Trail of Blossoms)**
+
+Analyzing पुष्पमार्गम् as a compound with elided middle term (पुष्पयुक्तमार्गम्), **Govindarāja** (_Bhūṣaṇa_) remarks that the epithet वीरः in 26a is significant: at the mere sight of a clue to Sītā's path, Rāma feels ready to recover her (दर्शनोपायमात्रे दृष्टे तां ग्रहीतुं समर्थः).
+
+_____________
+
+**3.64.27–28b (How Sun, Wind & Earth Preserved the Flowers)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain how the three deities guarded the blossoms braided in Sītā's hair (केशपाशे बद्धानि) to guide Rāma (सीताज्ञापनरूपम्): the Sun by not wilting them (अम्लानीकरणात् सूर्यः), the Wind by not blowing them away (अनुत्क्षेपणाद् वायुः), and the Earth by supporting them (धारणाद् भूमिश्च).
+
+_____________
+
+**3.64.28c–30 (Questioning Mount Prasravaṇa)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that although Rāma is a bull among men (पुरुषर्षभः) backed by the mighty-armed Lakṣmaṇa, he is called धर्मात्मा because he questions the mountain before destroying it (सहसा गिरेरविनाशकरणात्). Only when the mountain's presiding deity fails to appear (तदधिष्ठातृदेवताऽदर्शनेन, _Tilaka_) does Rāma roar like a lion.
+
+_____________
+
+**3.64.31–32 (Golden Limbs & the Mountain's Echo)**
+
+Avoiding tautology between हेमवर्णाम् and हेमाङ्गीम्, **Rāma Varmā** (_Tilaka_) explains that the latter expresses the grace of her limbs (लावण्यमुक्तम्). On दर्शयन्निव, he notes that the mountain pointed her out through physical clues (वक्ष्यमाणलिङ्गद्वारा) though not in direct speech (वाग्द्वारेण साक्षात्).
+
+_____________
+
+**3.64.32c–34 (The Mocking Echo & Threatening the River)**
+
+Reading शंसन्निव in 32c, **Govindarāja** (_Bhūṣaṇa_) offers a vivid explanation: the mountain seemed to answer by echoing Rāma's cry (प्रतिध्वनिना कथयन्निव), which Rāma mistook for insolent mimicry (स्वपृष्टस्यैवानुवादेनानादरोक्तिं रामोऽमन्यत), prompting his threat to reduce the peak to grassless ash and dry up the silent Godāvarī.
+
+_____________
+
+**3.64.35–36 (Rāvaṇa's Footprint & Sītā's Fleeing Steps)**
+
+On दिधक्षन्निव चक्षुषा, **Rāma Varmā** (_Tilaka_) notes that Rāma looked as if he would burn the world, though without actually willing its destruction (न तु वस्तुतो दिधक्षेति भावः). On the ground near the mountain, Rāma spots the huge footprint of Rāvaṇa after Jaṭāyus struck him down (जटायुनिपातितरावणस्य महत् पदम्, _Śiromaṇi_).
+
+_____________
+
+**3.64.37–38 (Footprints from the Battle with Jaṭāyus)**
+
+Explaining how Sītā's footprints came to be on the ground here, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that during his duel with Jaṭāyus, Rāvaṇa released Sītā on the earth and then chased her down again as she fled toward the hermitage (जटायुयुद्धसमये सीताया रावणेन भूमौ विसृज्य पुनरग्रहणादेवमुक्तिः).
+
+_____________
+
+**3.64.39–40 (Gold Beads & Molten-Gold Blood Drops)**
+
+Construing भूषणानाम् with कनकबिन्दवः, all three commentators gloss the latter as scattered gold beads or fragments broken from Sītā's jewelry (भूषणावयवीभूतस्वर्णशकलानि, _Tilaka_). On तप्तबिन्दुनिकाशैः, they explain तप्तम् as molten gold (तप्तं स्वर्णम्, _Bhūṣaṇa_), likening the bright drops of blood (क्षतजबिन्दुभिः) to gleaming gold-drops.
+
+_____________
+
+**3.64.41–42 (Alternative Conjectures on the Bloodshed)**
+
+**Rāma Varmā** (_Tilaka_) notes that verses 41–42 form a figure of alternation (विकल्पालंकारः): did this blood flow when demons tore Sītā apart to divide her flesh, or when two demons fought a duel over her like Sunda and Upasunda (सुन्दोपसुन्दवत्, _Tilaka_, _Bhūṣaṇa_)—unaware that the second combatant was Jaṭāyus?
+
+_____________
+
+**3.64.43–45 (The Pearl-Inlaid Bow, Corselet & Parasol)**
+
+**Śivasahāya** (_Śiromaṇi_) remarks that the marvellous workmanship of the pearl-and-gold bow (अतिविचित्रत्वाद् रक्षःसामान्यस्य न संभवति) makes Rāma wonder whether it belongs to some demon lord or to the gods, alongside the shattered golden armor studded with cat's-eye gems (वैदूर्यमणिखचितम्, _Bhūṣaṇa_) and the hundred-ribbed parasol.
+
+_____________
+
+**3.64.46–48b (Goblin-Faced Mules & the Battle-Standard)**
+
+On काञ्चनोरश्छदाः ... खराः, **Govindarāja** (_Bhūṣaṇa_) glosses खराः as mules or asses (अश्वतराः रासभविशेषा वा) clad in golden breastplates. On समरध्वजः, **Rāma Varmā** (_Tilaka_) takes it as an epithet of the war-chariot bearing its lord's banner (समरे स्वामिप्रकाशकः ध्वजो यत्र), while noting **Govindarāja**'s separate construction (ध्वजोऽपविद्धो रथश्च भग्नः).
+
+_____________
+
+**3.64.48cd (Axle-Long Arrows)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain रथाक्षमात्राः as arrows measuring the full length of a chariot's axle-beam—four hundred finger-breadths long (चतुःशताङ्गुलदीर्घाः). On विशिखाः, **Govindarāja** (_Bhūṣaṇa_) offers two derivations: arrows with blunted tips (कुण्ठाग्राः) or arrows whose blades were snapped off in battle (विगतफलभागाः).
+
+_____________
+
+**3.64.49–50 (Quivers, Charioteer & Demon Footprints)**
+
+Glossing शरावरौ as two quivers (निषङ्गौ) and citing the _Śāśvata_ lexicon on अभीषुः (“reins”, अभीषुः प्रग्रहे रश्मौ), **Govindarāja** (_Bhūṣaṇa_) explains how Rāma identifies the track (पदवी): lacking the deep heel-print of a woman's step (जघनगौरवनिम्नत्वादभावात्), it is a male's, and its uneven stride (विषमरूपत्वात्) marks a demon.
+
+_____________
+
+**3.64.51–53 (Hundredfold Enmity & Dharma's Failure)**
+
+Declaring that his enmity with the demons has grown a hundredfold (पूर्ववैराच्छतगुणम्, _Tilaka_), Rāma laments that even _dharma_ did not shield Sītā. In 53cd, **Rāma Varmā** (_Tilaka_) construes प्रियं कर्तुम् (“who can do aught pleasing to me now?”), whereas **Govindarāja** (_Bhūṣaṇa_) reads मम अप्रियम् (“what lords dared wrong me?”).
+
+_____________
+
+**3.64.54 (The Creator Despised for His Compassion)**
+
+On कर्तारमपि लोकानाम्, all three commentators observe that Rāma here alludes to his own nature as the Creator (महेश्वरमपि, _Tilaka_; परमात्मानम्, _Śiromaṇi_): because he abides quietly in tender mercy (दयावृत्त्या तूष्णीं स्थितम्, _Tilaka_), ignorant beings slight him, thinking he will do nothing when wronged.
+
+_____________
+
+**3.64.55 (Gentleness Mistaken for Weakness)**
+
+Glossing लोकहिते युक्तम् as devoted to the welfare of creatures (प्राणिसौख्यसंपादने युक्तम्) and दान्तम् as restraining his senses from violence (हिंस्रप्रवृत्तिरहितेन्द्रियवर्गम्), **Rāma Varmā** (_Tilaka_) explains Rāma's deduction: since Indra and the gods did not rescue Sītā, they must deem him powerless (निर्वीर्यं मन्यन्ते).
+
+_____________
+
+**3.64.56–57 (Compassion Turned to Fault & the Doomsday Sun)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that in Rāma, the virtue of mercy (कारुण्यादिः) has turned into a fault by inviting disrespect (अनिष्टसाधनत्वेन संवृत्तः). Like the rising sun of cosmic dissolution (प्रलयकालोदितो महारविः, _Tilaka_) swallowing cool moonlight, Rāma's martial energy (तेजः) now blazes forth, eclipsing his gentle qualities.
+
+_____________
+
+**3.64.58–60 (Arresting the Sky & Planets)**
+
+Filling the firmament with divine missiles (अस्त्राणि ब्रह्मादीनि, _Bhūṣaṇa_), Rāma vows to make the three worlds impassable to all flyers (बाणप्रचारतोऽशक्यसंचारम्, _Bhūṣaṇa_). Construing verses 60–62ab as one syntactic unit (सार्धश्लोकद्वयमेकान्वयम्), **Govindarāja** notes the grammar of विप्रणष्टानलमरुत् as an _āhitāgnyādi_ compound.
+
+_____________
+
+**3.64.61–62 (Cosmic Dissolution & kāla-karman)**
+
+Completing the long sentence describing the three worlds (त्रैलोक्यम्) with shattered mountain-crests and dried-up seas, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss कालकर्मणा (and variant कालधर्मेण) as the work of all-destroying Time (कालसाध्यं कर्म नाशस्तेन, _Tilaka_), noting the unextended stem in the compound as _ārṣa_ (अनिजार्षः).
+
+_____________
+
+**3.64.63–65b (A World Thrown Out of Joint)**
+
+If the presiding lords do not restore Sītā safe and sound (क्षेमयुक्ताम्, _Bhūṣaṇa_), they will witness Rāma's valor this very hour (अस्मिन् मुहूर्ते). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss अमर्यादम् as the cosmos cast out of its natural bounds and stations (त्यक्तस्वस्वप्रकृत्यवस्थानम्).
+
+_____________
+
+**3.64.65c–66 (Purging the World of Demons)**
+
+With arrows drawn right to the ear (आकर्णपूर्णैः) and irresistible to all creatures (दुर्निवारैः, _Bhūṣaṇa_), Rāma vows to make the world of living beings (जीवलोकं ब्रह्माण्डम्, _Bhūṣaṇa_) devoid of _piśācas_ and _rākṣasas_. **Śivasahāya** (_Śiromaṇi_) remarks that other beings will only be terrified, whereas demons will be annihilated.
+
+_____________
+
+**3.64.67–69 (From Distress to Total Annihilation)**
+
+Addressing the apparent repetition between verses 58 and 67–68, **Govindarāja** (_Bhūṣaṇa_) explains that whereas verse 58 declared that gods and demons would lose all peace (पूर्वं दुःखप्राप्तिरेवोक्ता), here Rāma vows their outright destruction (न भविष्यन्ति नशिष्यन्तीत्यर्थः), shattering their celestial realms into fragments (शकलीकृताः) with floods of arrows.
+
+_____________
+
+**3.64.70–71 (Expressive Repetition in Wrath)**
+
+On तथारूपाम्, **Rāma Varmā** (_Tilaka_) glosses “in her unblemished former state” (यथापूर्वस्वभावाम्)—neither dead nor defiled—and observes that repeating न दास्यन्ति twice in verse 70 is a mark of towering wrath rather than a stylistic fault (पौनरुक्त्यं कोपातिशयान्न दोषाय). To avoid tautology with त्रैलोक्यम्, **Govindarāja** glosses जगत् सर्वम् as all living beings (सर्वं जनम्).
+
+_____________
+
+**3.64.72 (Girding for Cosmic Battle)**
+
+With eyes copper-red from fury (क्रोधताम्राक्षः) and quivering lips (स्फुरमाणोष्ठसम्पुटः), Rāma girds his bark-garment and deerskin (वल्कलाजिनमाबद्ध्य) and ties up his heavy matted locks (जटाभारमबन्धयत्), preparing his ascetic frame for war.
+
+_____________
+
+**3.64.73–75 (Like Rudra Slaying Tripura)**
+
+Comparing the wrathful Rāma to Rudra destroying the Triple City (त्रिपुरं जघ्नुषः पूर्वं रुद्रस्येव), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss निष्पीड्य as gripping the bow with a tight fist (दृढमुष्टिबन्धेन गृहीत्वा) as he nocks a blazing, venomous-serpent shaft.
+
+_____________
+
+**3.64.76 (Unstoppable as Old Age, Death, Time & Fate)**
+
+In the six-quarter (_ṣaṭpāda_) stanza 76, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss विधिः as unseen destiny (अदृष्टम्, citing विधिर्विधाने दैवेऽपि): just as these four cosmic forces are never checked among creatures, Rāma in wrath cannot be turned back.
+
+_____________
+
+**3.64.77 (Sītā's Smile & the Assumed Vow of Wrath)**
+
+On पुरेव मे चारुदतीम्, **Govindarāja** (_Bhūṣaṇa_) recalls Sītā's parting smile showing her lovely teeth when Rāma chased the golden deer (यत् स्मितं कृतवती). **Rāma Varmā** (_Tilaka_) explains that Rāma's threat to overturn the universe (परिवर्तयाम्यहम्) stems from assumed dramatic wrath (आरोपितक्रोधमूलकत्वात्), which is why Lakṣmaṇa can pacify him in the next canto without Rāma violating a true vow.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

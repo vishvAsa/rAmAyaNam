@@ -78,6 +78,14 @@ part, standing not very far, spoke to Rama (as follows):
 
 Having heard this auspicious speech spoken in reply (_anubhāṣitam_) by Rāghava, the Great Lord (_maheśvaraḥ_) [Śiva] then uttered an even more auspicious speech:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–3.**
+
+$18
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -175,6 +183,14 @@ following words to him, while Lakshmana was listening:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By good fortune, O Rāma, the swollen and dreadful darkness (_tamaḥ_) of the entire world—the terror born of Rāvaṇa (_rāvaṇajaṃ bhayam_)—has been dispelled by you in battle!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3–5.**
+
+On v. 3, _Tilaka_ and _Śiromaṇi_ gloss the metaphorical 'darkness' (तमः) simply as sorrow (तमो दुःखम्), while _Bhūṣaṇa_ identifies the Rāvaṇa-born terror itself as the swollen darkness now dispelled (रावणजं भयमेव प्रवृद्धं तमः अपावृत्तं निरस्तम्). Both _Śiromaṇi_ and _Bhūṣaṇa_ construe verses 4–6 as a single syntactic unit (श्लोकत्रयमेकान्वयि) culminating in त्रिदिवं गन्तुमर्हसि. _Bhūṣaṇa_ remarks that यशस्विनीम् may even qualify Kaikeyī, since Rāma's slaying of Rāvaṇa grew out of her boon (तत्पुरस्काराद्रावणवधस्य तस्या यशस्वित्वम्), and that Sumitrā is called लक्ष्मणमातरम् to highlight her special venerability on account of Lakṣmaṇa's devotion.
 </details>
 </details>
 
@@ -276,6 +292,14 @@ their lives."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 having attained the sovereignty in Ayodhyā, gladdened your friends and kinsmen (_suhṛjjanam_), and established your lineage (_vaṃśam_) in the house of the Ikṣvākus, O hero of mighty strength,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5–6.**
+
+Defining वंशम्, _Tilaka_ explains that Rāma must establish progeny to protect the realm (राष्ट्रपरिपालननिमित्तं वंशं संतानम्), and _Bhūṣaṇa_ glosses it as the succession of sons and grandsons (पुत्रपौत्रादिपरम्पराम्), recalling Rāma's pre-incarnation vow to rule eleven thousand years on earth. On v. 6, _Tilaka_, citing _Kataka_, explains that worshipping Prajāpati with the horse-sacrifice (तुरगमेधेनेष्ट्वा) yields 'supreme renown' (अनुत्तमं यशः), which is a Vedic name of Prajāpati himself (तस्य नाम महद्यशः इति श्रुतेः). Finally, _Tilaka_ defines त्रिदिवम् as the supreme abode of Viṣṇu (परमपदापेक्षया तृतीयं दिवं परमं लोकम्), which _Śiromaṇi_ identifies as transcendental Sāketa.
 </details>
 </details>
 
@@ -389,6 +413,14 @@ the chiefs of monkey-troops, will feel happy."
 
 “Here in this celestial chariot (_vimānasthaḥ_) is King Daśaratha, your father, O Kākutstha, your highly illustrious preceptor (_guruḥ_) in the mortal world!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7–8.**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) address why Śiva must point Daśaratha out with the deictic pronoun एषः ('this one here') even though the king is standing directly before Rāma. Because Daśaratha has assumed a transfigured celestial body (देवदेहपरिग्रहेण), he cannot be immediately recognized by his earthly features (अपरिज्ञायमानत्वात् पुरःस्थितोऽप्येष इत्यङ्गुल्या निर्दिश्यते), so Śiva points him out with his finger. _Bhūṣaṇa_ further observes that calling Daśaratha मानुषे लोके गुरुस्तव ('your father in the mortal world') corroborates the Vedic dictum that a father attains true paternal fulfillment through a righteous son.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -439,6 +471,14 @@ am reminding you."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having departed to the world of Indra (_indralokam_), that glorious monarch has been redeemed (_tāritaḥ_) by you, his son; together with your brother Lakṣmaṇa, do you reverently salute him!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**8–10.**
+
+Construing verses 7 and 8 as a single syntactic sentence (श्लोकद्वयमेकान्वयि), **Śivasahāya** (_Śiromaṇi_) explains त्वया पुत्रेण तारितः ('redeemed by you, his son') as meaning that Daśaratha, who died of grief over Rāma's separation (त्वद्वियोगेन), has now been elevated by Rāma's virtue to the supreme realm endowed with all glory (सकलैश्वर्यविशिष्टसाकेतम्). On v. 9, _Tilaka_ glosses विमानशिखरस्थस्य simply as seated atop the celestial car (विमानोपरि प्रतिष्ठितस्य), while _Śiromaṇi_ notes that both Rāma and Lakṣmaṇa bowed together before their father (राघवो लक्ष्मणश्च पितुः प्रणाममकरोत्).
 </details>
 </details>
 
@@ -534,6 +574,14 @@ precious stones and gold to them.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Together with his brother Lakṣmaṇa, the lord [Rāma] beheld his father blazing with his own splendour (_svayā lakṣmyā_) and wearing spotless raiments (_virajo&#x27;mbaradhāriṇam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**10–12.**
+
+On v. 10, _Śiromaṇi_ highlights Daśaratha's radiant celestial form (स्वया लक्ष्म्या दीप्यमानं पितरं ददर्श), marked by dustless divine garments (विरजोऽम्बरधारिणम्). Both _Śiromaṇi_ and _Bhūṣaṇa_ link verses 11 and 12 as a single syntactic unit (हर्षेणेत्यादिश्लोकद्वयमेकान्वयम्): beholding his son dearer than his own vital breaths (प्राणैः प्रियतरं पुत्रं दृष्ट्वा), Daśaratha is overcome with joy, lifts Rāma onto his lap (अङ्के आरोप्य), embraces him tightly with both arms (बाहुभ्यां संपरिष्वज्य), and initiates the paternal address (वाक्यं समाददे उच्चारयामास) that unfolds across the next spread.
 </details>
 </details>
 
@@ -668,6 +716,14 @@ Sugreeva, Rama remaining in the aerial car, spoke (as follows):
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Heaven itself (_svargaḥ_) is not held in high esteem by me, nor the honour bestowed by the foremost of the gods (_surarṣabhaiḥ_), while parted from you, O Rāma—this truth I solemnly declare (_pratiśṛṇomi_) to you!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13–15.**
+
+The commentators highlight the depth of Daśaratha's paternal affection. On v. 13, **Rāma Varmā** (_Tilaka_) notes that even though honoured by the chief gods, Daśaratha did not prize heaven (सुरर्षभैः संमानोऽपि स्वर्गो न बहुमतः), and **Śivasahāya** (_Śiromaṇi_) adds that without Rāma's company heaven itself felt joyless (त्वया विहीनस्य मे सुरर्षभैः बहुमतोऽपि स्वर्गः). **Govindarāja** (_Bhūṣaṇa_) records the reading सुरर्षिभिः and glosses it as divine sages such as Nārada (सुरर्षिभिः नारदादिभिर्देवर्षिभिः). On v. 15 (numbered 14 in southern texts omitting the bracketed verse), both _Śiromaṇi_ and _Bhūṣaṇa_ explain that Kaikeyī's cruel demand for Rāma's exile remained etched in Daśaratha's heart (हृदये स्थितानि न विस्मर्यन्त इत्यर्थः), causing him unceasing anguish.
 </details>
 </details>
 
@@ -830,6 +886,14 @@ celestials including Indra shall not be able to attack you."
 
 Yet today, beholding you safe and sound (_kuśalinam_) and embracing you together with Lakṣmaṇa, I am freed from sorrow (_duḥkhād vimukto &#x27;smi_), like the sun from winter mist (_nīhārād iva bhāskaraḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.**
+
+On Daśaratha's deliverance from grief, _Śiromaṇi_ remarks that seeing Rāma hale and embracing him with Lakṣmaṇa has finally dispelled that long-standing torment (कुशलिनं त्वां दृष्ट्वा अद्य दुःखाद्विमुक्तोऽस्मि). _Bhūṣaṇa_ points out that the modifier सलक्ष्मणम् ('together with Lakṣmaṇa') attached to परिष्वज्य indicates a second embrace (द्वितीयपरिष्वङ्गे लक्ष्मणोऽपि विषयीकृते सति), showing that Daśaratha first embraced Rāma alone on his lap and then folded both brothers into his arms, whereby his sorrow vanished like mist before the sun.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -881,6 +945,14 @@ wish to take leave of you all."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 I have been redeemed (_tārito &#x27;ham_) by you, O son—a noble and magnanimous son—just as the righteous Brāhmaṇa Kahola was redeemed by Aṣṭāvakra!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17–18.**
+
+Explaining the Purāṇic allusion in v. 17, _Tilaka_ summarizes the story of Kahola: Aṣṭāvakra's father, the sage Kahola, was redeemed by his son through his own righteous conduct and Vedic mastery (अष्टावक्रपिता कहोलनामा ब्राह्मणः स्वधर्मेण तारित इति पौराणिकी कथा). In the same way, Rāma has rescued Daśaratha from the debt of his fatal boon. In v. 18, Daśaratha declares that through the gods' revelation he now recognizes his own son to be none other than the Supreme Puruṣa (पुरुषोत्तमम्) incarnated on earth to destroy Rāvaṇa.
 </details>
 </details>
 
@@ -986,6 +1058,14 @@ gardens and groves there with rejoice."
 
 “Truly blessed in her purpose (_siddhārthā_) is Kausalyā, who, filled with rapture (_saṃhṛṣṭā_), shall behold you, O Rāma, the destroyer of foes, returned home from the forest!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19–20.**
+
+Having declared his own relief in the preceding verses, Daśaratha now turns his thoughts toward Ayodhyā. On v. 19, the commentators note how Daśaratha congratulates Kausalyā as सिद्धार्था ('blessed with fulfilled desire') because she will witness with her own eyes Rāma's triumphant return from the wilderness (वनान्निवृत्तं संहृष्टा द्रक्ष्यते). In v. 20, he extends this felicitation to all the citizens of Ayodhyā (नराः) who will behold Rāma enter the capital and receive the royal consecration as sovereign of the earth (वसुधाधिपम्), a sight Daśaratha himself missed in his earthly life.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1085,6 +1165,14 @@ those monkeys, Sugreeva and Vibhishana as follows:
 
 I long to behold you reunited with Bharata—who is devoted to you (_anuraktena_), mighty, pure, and ever walking in dharma (_dharmacāriṇā_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21–22.**
+
+In v. 21, Daśaratha expresses his ardent wish (इच्छेयं त्वामहं द्रष्टुम्) to see Rāma reunited with Bharata, piling up four instrumental epithets—अनुरक्तेन ('devoted'), बलिना ('mighty'), शुचिना ('pure in intent'), and धर्मचारिणा ('practising righteousness')—that exonerate Bharata from any complicity in Kaikeyī's plot. This praise of Bharata directly prepares the ground for Rāma's plea in the next spread (कुरु प्रसादं धर्मज्ञ कैकेय्या भरतस्य च), where **Śivasahāya** (_Śiromaṇi_) notes that Rāma will ask his father to extend full grace to both Kaikeyī and Bharata (कैकेय्या भरतस्य च प्रसादं प्रसन्नहृदयं कुरु).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1136,6 +1224,14 @@ Ayodhya with the host of my friends along with all of you, for, I shall feel del
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Fourteen years (_caturdaśa samāḥ_), O gentle one, have been spent (_niryātitāḥ_) by you in the forest, dwelling together with Sītā and Lakṣmaṇa out of love for me (_matprītyā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22–24.**
+
+In v. 22, Daśaratha acknowledges that Rāma endured fourteen years (चतुर्दश समाः) in the forest alongside Sītā and Lakṣmaṇa solely out of filial devotion to him (मत्प्रीत्या). In verses 23–24, he summarizes the threefold fruit of Rāma's exile: Rāma's own forest-term is ended (निवृत्तवनवासोऽसि), Daśaratha's pledge of truth has been redeemed (प्रतिज्ञा पूरिता त्वया), and the gods have been satisfied through Rāvaṇa's destruction (देवताः परितोषिताः). He concludes with the paternal benediction that Rāma rule long in harmony with his brothers (भ्रातृभिः सह राज्यस्थो दीर्घमायुरवाप्नुहि).
 </details>
 </details>
 
@@ -1297,6 +1393,14 @@ the sky, after having been duly authorized by Rama.
 
 To the king speaking thus, Rāma, with joined palms (_prāñjaliḥ_), replied: “Bestow your grace (_kuru prasādam_), O knower of dharma, upon Kaikeyī and Bharata!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25–26.**
+
+The commentators admire Rāma's magnanimity in immediately using his father's favour to absolve his stepmother. **Govindarāja** (_Bhūṣaṇa_) explains the genitives कैकेय्या भरतस्य च as expressing general relation (संबन्धसामान्ये षष्ठी) equivalent to locatives (कैकय्यां भरते चेत्यर्थः), and defines Daśaratha's curse (शापः) as the formal severance of familial ties (संबन्धपरिच्छेदरूपः) uttered when he declared सपुत्रां त्वां त्यजामि in Ayodhyākāṇḍa. **Rāma Varmā** (_Tilaka_) notes that by praying that this terrible curse not touch Kaikeyī or her son (स शापः सपुत्रां कैकेयीं न स्पृशेत्), Rāma implicitly opens the way for Daśaratha himself to ascend to the highest realm (एतेन साकेतं गच्छेति सूचितम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1412,6 +1516,14 @@ wonderful aerial car.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Saying “So be it (_tatheti_)!” to Rāma who stood with joined palms, that great monarch embraced Lakṣmaṇa also and spoke these further words:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27–28.**
+
+On v. 27, **Śivasahāya** (_Śiromaṇi_) notes that Daśaratha grants Rāma's petition with a single word—तथेति ('So be it!')—before turning to embrace Lakṣmaṇa (लक्ष्मणं च परिष्वज्य). Although v. 28 is bracketed in some northern prints, _Bhūṣaṇa_ comments upon it directly, construing the instrumental participle शुश्रूषता ('by you who have served Rāma together with Sītā', सीतया सह रामं शुश्रूषतेत्यन्वयः) with ते ('by you'), showing that Lakṣmaṇa's tireless vigil in the forest both delighted his departed father and secured the full reward of righteousness.
 </details>
 </details>
 

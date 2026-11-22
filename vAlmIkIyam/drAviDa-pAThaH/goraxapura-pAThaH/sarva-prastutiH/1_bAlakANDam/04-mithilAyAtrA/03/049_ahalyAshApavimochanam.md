@@ -81,6 +81,14 @@ and carana-s, keeping Fire-god as their helms-god. [1-49-1]
 
 “Then Śakra, bereft of his testicles and with his eyes wide with terror (_aphalas tu tataḥ śakro trastanayanaḥ_), spoke to the gods headed by Agni and to the Siddhas, Gandharvas, and Cāraṇas (_devān agnipurogamān abravīt siddhagandharvacāraṇān_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.1–3 (surakāryam idaṃ kṛtam — The Theological Motive Behind Indra’s Act)**
+
+Why did the lord of the gods stoop to such an illicit act? **Rāma Varmā (_Tilaka_)**, **Govindarāja (_Bhūṣaṇa_)**, and **Śiromaṇi** point out that vv. 2–3 reveal the cosmic motive (_dharmadhuraṃdharasyāpi śakrasyādharme pravṛttau bījam_, **Tilaka**): Gautama’s fierce austerities threatened to usurp the very sovereignty of heaven (_sarvadevapadacyavanārhaṃ tapo gautamena kṛtam_, **Govindarāja**). By provoking the sage to expend his accumulated ascetic power in a mighty curse (_śāpamokṣeṇa mahatā tapo ’syāpahṛtaṃ mayā_), Indra accomplished the work of the gods (_surakāryam_) at the cost of his own manhood (_aphalo ’smi kṛtaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -248,6 +256,14 @@ Thus Indra spoke to all gods. [1-49-4]
 
 “‘Therefore, O best of the gods, together with all the hosts of sages and Cāraṇas (_tan māṃ suravarāḥ sarve sarṣisaṅghāḥ sacāraṇāḥ_), you ought to restore my manhood, since I acted in the service of the gods (_surakāryakaraṃ yūyaṃ saphalaṃ kartum arhatha_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.4–5 (pitṛdevān upetyāhuḥ)**
+
+Pleading that he suffered this mutilation in their service (_surakāryakaram / surasāhyakaram_), Indra asks the gods to restore his virility (_saphalaṃ = savṛṣaṇam_, **Tilaka**). Led by Agni and accompanied by the Marut hosts, the gods approach the Pitṛdevas—the ancestral deities headed by Kavyavāhana (_agnikavyavāhanādīn_, **Tilaka** and **Govindarāja**)—and speak through Agni as their spokesman (_agnes tu vacanaṃ śrutvā_ in v. 8, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,6 +368,14 @@ his appeal to manes. [1-49-6]
 
 “‘Here is this sacrificial ram with testicles, whereas Śakra has been left bereft of his testicles (_ayaṃ meṣaḥ savṛṣaṇaḥ śakro hy avṛṣaṇaḥ kṛtaḥ_); taking the two testicles of the ram, bestow them quickly upon Śakra (_meṣasya vṛṣaṇau gṛhya śakrāyāśu prayacchata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.6 (ayaṃ meṣaḥ savṛṣaṇaḥ ... śakrāyāśu prayacchata)**
+
+Pointing to the sacrificial ram currently tethered at the post as an oblation for the Pitṛs (_ayam idānīṃ yajñe yuṣmabhyaṃ niyujyamāno meṣaḥ_, **Govindarāja**; _bhavatāṃ havidravyena kalpitaḥ_, **Tilaka**), the gods ask the Pitṛdevas to take its testicles (_gṛhya = gṛhītvā_, Ārṣa _lyap_) and bestow them upon Śakra.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -435,6 +459,14 @@ namely humans...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Even when rendered testicle-less, the ram shall afford you supreme satisfaction (_aphalas tu kṛto meṣaḥ parāṃ tuṣṭiṃ pradāsyati_); and to those mortals who offer such rams for your gratification, you shall grant abundant and inexhaustible merit (_bhavatāṃ harṣaṇārthaṃ ca ye ca dāsyanti mānavāḥ akṣayaṃ hi phalaṃ teṣāṃ yūyaṃ dāsyatha puṣkalam_).’
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.7–9 (aphalān bhuñjate meṣān — The Śrāddha Custom of Castrated Rams)**
+
+Anticipating the Pitṛdevas’ objection that an imperfect victim might diminish their satisfaction or the donor’s merit (_taddāne ’smattuṣṭivaikalyaṃ syāt_, **Govindarāja** and **Śiromaṇi**), Agni assures them that a castrated ram (_aphalo = ṣaṇḍho meṣaḥ_, **Tilaka**) offered in ancestral rites will yield supreme satisfaction and inexhaustible merit (_akṣayaṃ phalam_). Ever since the Pitṛdevas plucked out the ram’s testicles and grafted them onto Indra (_utpāṭya meṣavṛṣaṇau sahasrākṣe nyaveśayan_), they partake of castrated rams while rewarding human donors with the full merit of an intact offering (_savṛṣaṇameṣadānaphalaiḥ_, **Govindarāja** and **Śiromaṇi**).
 </details>
 </details>
 
@@ -594,6 +626,14 @@ from then onwards Indra has became one with the testes of a goat. [1-49-10]
 
 “And from that day forth, O Rāghava, Indra has borne the testicles of a ram (_indras tu meṣavṛṣaṇas tadāprabhṛti rāghava_) through the majestic power and austerity of the high-souled Gautama (_gautamasya prabhāveṇa tapasā ca mahātmanaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.10 (indras tu meṣavṛṣaṇaḥ)**
+
+Thus, through the awesome power of Gautama’s austerity (_gautamasya tapasaḥ prabhāveṇa_), Indra has borne the testicles of a ram from that day forth (_tadāprabhṛti_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -641,6 +681,14 @@ of a divinity." Thus Vishvamitra spoke to Rama. [1-49-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Therefore come, O prince of great splendor, to the hermitage of that sage of holy deeds (_tad āgaccha mahāteja āśramaṃ puṇyakarmaṇaḥ_); redeem this blessed Ahalyā of celestial form (_tārayaināṃ mahābhāgām ahalyāṃ devarūpiṇīm_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.11–12 (tārayaināṃ mahābhāgām ahalyāṃ devarūpiṇīm)**
+
+Having explained how the first curse was relieved, Viśvāmitra invites Rāma to lift the second (_anayor dvayoḥ śāpayor ekaḥ pūrvam eva muktaḥ, aparas tvayā mocanīyaḥ_, **Govindarāja**). **Tilaka** asks: why call the cursed Ahalyā _devarūpiṇīm_ (“of celestial form”) before Rāma even enters? Because her curse terminates the very moment Rāma’s feet touch her hermitage (_adya tvatpādasparśanān muktaśāpatayā devarūpiṇīm_), unlike the hideous Tāṭakā! Placing Viśvāmitra in front (_puraskṛtya_), Rāma enters with Lakṣmaṇa.
 </details>
 </details>
 
@@ -726,6 +774,14 @@ Emerging from her curse like a blazing tongue of flame shrouded in smoke or the 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And there Rāma beheld that blessed lady, her splendorkindled by austerity (_dadarśa ca mahābhāgāṃ tapasā dyotitaprabhām_), impossible for the worlds—even gods and demons together—to gaze upon (_lokair api samāgamya durnirīkṣyāṃ surāsuraiḥ_),
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.13–15 (The Three Luminous Similes of Ahalyā’s Emergence)**
+
+Fashioned with special care by Brahmā (_prayatnān nirmitāṃ dhātrā_) and blazing with ascetic luster (_tapasā dyotitaprabhām_), Ahalyā is compared through three exquisite similes (**Tilaka**, **Govindarāja**, **Śiromaṇi**): (1) a blazing tongue of fire shrouded in smoke (_dhūmenābhiparītāṅgīṃ dīptām agniśikhām iva_), (2) the effulgence of the full moon veiled by mist and clouds (_satuṣārāvṛtāṃ sābhrāṃ pūrṇacandraprabhām iva_), and (3) brilliant sunlight reflected in the midst of water (_madhye ’mbhaso durādharṣāṃ dīptāṃ sūryaprabhām iva_—or amidst rain-clouds by _lakṣaṇā_ on _ambhas_, **Tilaka**). **Tilaka** explains that while Rāma’s foot-touch made her visible to Rāma, Lakṣmaṇa, and Viśvāmitra, her ash-covered form remained partially veiled like smoke-wrapped flame until Rāma’s acceptance of her hospitality.
 </details>
 </details>
 
@@ -847,6 +903,14 @@ until the manifestation of Rama. [1-49-16a, b]
 
 For by the word of Gautama she had remained invisible to all the three worlds until the sight of Rāma (_sā hi gautamavākyena durnirīkṣyā babhūva ha trayāṇām api lokānāṃ yāvad rāmasya darśanam_); now, having reached the end of her curse, she came within their sight (_śāpasyāntam upāgamya teṣāṃ darśanam āgatā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.16 (śāpasyāntam upāgamya teṣāṃ darśanam āgatā)**
+
+How do the commentators interpret the pronoun _teṣām_ in Line 16ef? **Tilaka** takes _teṣām_ to refer to Rāma, Lakṣmaṇa, and Viśvāmitra (_teṣāṃ rāmādīnāṃ darśanaviṣayatvaṃ prāpannā_), criticizing as forced (_kliṣṭam_) the view of **Śiromaṇi** (and _Kataka_), who construe _teṣām_ with _trayāṇāṃ lokānām_ (“having reached the end of her curse upon seeing Rāma, she became visible once more to the three worlds”).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -925,6 +989,14 @@ and dutifully, and Rama of Kakutstha on his part acquiesced her hospitality. [1-
 
 **18:** With deeply composed mind, she offered them water for their feet, the _arghya_ oblation, and full hospitality (_pādyam arghyaṃ tathātithyaṃ cakāra susamāhitā_); and Kākutstha accepted it according to scriptural ordinance (_pratijagrāha kākutstho vidhidṛṣṭena karmaṇā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.17–18 (rāghavau ... pādau jagṛhatur mudā & pādyam arghyam)**
+
+Recognizing the purified wife of a great Maharṣi, Rāma and Lakṣmaṇa joyfully clasp Ahalyā’s feet in filial reverence (_tasyāḥ pādau jagṛhatur mudā_). Remembering Gautama’s prophetic command (48.32, _tasyātithyena durvṛtte_), Ahalyā welcomes them with _pādya_, _arghya_, and full Vedic hospitality (_vidhidṛṣṭena karmaṇā_), which Rāma graciously accepts.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -986,6 +1058,14 @@ is superb. [1-49-19]
 
 Then a great shower of flowers fell to the sound of celestial kettledrums (_puṣpavṛṣṭir mahaty āsīd devadundubhiniḥsvanaiḥ_), and a grand festival of song and dance arose among the Gandharvas and Apsarases (_gandharvāpsarasāṃ caiva mahān āsīt samutsavaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.19 (puṣpavṛṣṭir mahaty āsīt)**
+
+As Rāma accepts Ahalyā’s offering, the heavens resound with celestial kettledrums (_devadundubhiniḥsvanaiḥ_), Gandharvas and Apsarases celebrate with song and dance (_samutsavaḥ / samāgamaḥ_), and a great shower of flowers falls upon both Rāma and the redeemed Ahalyā (_rāmasyāhalyāyāś cety arthaḥ_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1033,6 +1113,14 @@ saying 'Gracious! Goodness!' [1-49-20]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Crying “Well done! Well done!”, the gods honored Ahalyā (_sādhu sādhv iti devās tām ahalyāṃ samapūjayan_), whose limbs were purified by the power of austerity and who now followed the will of Gautama (_tapobalaviśuddhāṅgīṃ gautamasya vaśānugām_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.20 (tapobalaviśuddhāṅgīṃ gautamasya vaśānugām)**
+
+Freed from sin by her long penance and the grace of Rāma’s feet obtained through that penance (_tadbalalabdharāmasparśena_, **Tilaka**), Ahalyā is acclaimed by the gods with cries of _“sādhu! sādhu!”_ Both **Govindarāja** and **Śiromaṇi** note that the epithet _gautamasya vaśānugām_ (“obediently following Gautama’s will”) subtly indicates that Gautama himself had already arrived at the hermitage at that very moment.
 </details>
 </details>
 
@@ -1082,6 +1170,14 @@ with Ahalya. [1-49-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And the resplendent Gautama of great austerity, joyfully reunited with Ahalyā (_gautamo ’pi mahātejā ahalyāsahitaḥ sukhī_), worshiped Rāma according to sacred ordinance and practiced penance there (_rāmaṃ sampūjya vidhivat tapas tepe mahātapāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**49.21–22 (gautamo ’pi ... rāmaṃ sampūjya vidhivat)**
+
+How did Gautama return from distant Himavat at the exact instant of Ahalyā’s purification? **Tilaka** explains that through his yogic omniscience (_yogabalād rāmāgamanaṃ jñātvā_) and yogic speed (_tadbalād eva jhaṭiti tadāśramaprāptiḥ_), the sage returned immediately, was joyfully reunited with Ahalyā (_ahalyāsahitaḥ sukhī_), duly worshiped Rāma (_rāmaṃ sampūjya vidhivat_), and resumed his austerities in that very hermitage (_tatraivāśrame_, **Govindarāja**), while Rāma proceeded to Mithilā.
 </details>
 </details>
 

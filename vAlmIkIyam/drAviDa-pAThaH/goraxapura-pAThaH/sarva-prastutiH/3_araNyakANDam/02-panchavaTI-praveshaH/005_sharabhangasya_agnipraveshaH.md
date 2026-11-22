@@ -216,6 +216,152 @@ the other divinities are attending, and many more selfsame great-souls are worsh
 
 **6:** He beheld the lord of the gods (_vibudheśvaram_) not touching the earth (_asaṃspṛśantaṃ vasudhām_), a deity adorned with radiant ornaments and wearing dustless celestial garments (_virajo’mbara-dhāriṇam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.5.1–2 (samāśvāsya & the Trackless Forest)**
+
+On Rāma's consoling Sītā, **Rāma Varmā** (_Tilaka_) supplies that she remained shaken from Virādha (विराधाद्भीतामिवेति शेषः). Glossing कष्टं वनमिदं दुर्गं, **Govindarāja** (_Bhūṣaṇa_) explains कष्टं as dense or painful (कष्टं कृच्छ्रं गहनं वा) and दुर्गं as unfit for rest (विषमं विश्रमायोग्यमित्यर्थः), while _Tilaka_ and **Śivasahāya** (_Śiromaṇi_) take न च स्मो वनगोचराः as “we have never seen such a wilderness” (कदापीदृशं वनं न दृष्टं यस्मात्).
+
+_____________
+
+**3.5.3–4 (tapasā bhāvitātmanaḥ)**
+
+Between अभिगच्छामहे and अभिजगाम, **Rāma Varmā** (_Tilaka_) supplies इत्युक्त्वेति शेषः. On तपसा भावितात्मनः, _Tilaka_ construes आत्मा as purified mind (भावितः शुद्ध आत्मा यस्य), whereas **Govindarāja** (_Bhūṣaṇa_) interprets it as one who has realized the Supreme Brahman through penance (तपसा साधनेन भावितात्मनः साक्षात्कृतपरब्रह्मणः).
+
+_____________
+
+**3.5.5–6 (Marks of Divinity in vibudheśvaram)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) analyze विबुधानुगम् as a _Bahuvrīhi_ (“attended by gods,” विबुधाः देवाः अनुगाः अनुचरा यस्य तं). **Govindarāja** (_Bhūṣaṇa_), reading सकाशे for आकाशे, notes that not touching the earth (असंस्पृशन्तं वसुधां) and dustless robes (विरजोऽम्बरधारिणम्) manifest Indra's divine nature (देवस्वभावः).
+
+_____________
+
+**3.5.7–8 (Green Steeds & Twin Similes for the Parasol)**
+
+Glossing तद्विधैः, **Rāma Varmā** (_Tilaka_) explains that Indra's attendants wore similar celestial ornaments (तद्विधाभरणादिमद्भिः) and takes हरितैः as dark-green (श्यामवर्णैः). **Govindarāja** (_Bhūṣaṇa_), reading हरिभिर्वाजिभिः, construes it either as green horses (हरिभिः श्यामैः) or swift steeds (वाजिभिः वेगवद्भिः हरिभिः अश्वैः). Connecting 8cd forward to the parasol (छत्रं), _Bhūṣaṇa_ distinguishes पाण्डुराभ्रघनप्रख्यं as illustrating its snowy whiteness (श्वैत्ये दृष्टान्तः) and चन्द्रमण्डलसंनिभम् its circular orb (वृत्ततायाम्).
+
+_____________
+
+**3.5.9–10 (cāmaravyajane & Celestial Praise)**
+
+**Śivasahāya** (_Śiromaṇi_) unites three half-verses into a single syntactic clause (अर्धत्रयमेकान्वयि) describing the chariot, while **Rāma Varmā** (_Tilaka_) explains चामरव्यजने as two yak-tail fans (वालव्यजने) with golden handles (रुक्मस्य स्वर्णस्य) that are priceless because they are studded with gems (महाधने रत्नखचितत्वाद्) and waved by two celestial women.
+
+_____________
+
+**3.5.11–12 (Non-Redundancy of Repeated Rāmaḥ)**
+
+Construing 11cd–12cd as one sentence, **Govindarāja** (_Bhūṣaṇa_) defends the repetition of the noun रामः in verse 12 against tautology because each occurrence governs a distinct action (राम इति पदस्यावृत्तिः क्रियाभेदेन अतो न पुनरुक्तिः)—pointing out the chariot by hand (उद्दिश्य हस्तेन निर्दिश्य) and addressing Lakṣmaṇa—while _Tilaka_ and _Śiromaṇi_ note दर्शयत as an unaugmented imperfect (अदर्शयत्).
+
+_____________
+
+**3.5.13–14 (puruhūtasya & Indra's Green Steeds)**
+
+**Śivasahāya** (_Śiromaṇi_) and **Govindarāja** (_Bhūṣaṇa_) gloss अर्चिष्मन्तं as radiant (सतेजस्कं) and श्रिया जुष्टम् as attended by lustre (श्रिया कान्त्या). On पुरुहूतस्य, **Rāma Varmā** (_Tilaka_) and _Bhūṣaṇa_ derive the epithet as “he who is invoked manifoldly by sacrificers in rituals” (पुरु बहु यथा तथा यज्वभिराहूयते यागादाविति पुरुहूतः), inferring from Vedic report (पुरा श्रुताः) that these aerial steeds (हरयः) are Indra's green horses (हरितवर्णाः हरयः अश्वाः).
+
+_____________
+
+**3.5.15–16 (The Eight Hundred Immortal Guards)**
+
+Linking verses 15–17 as one sentence (श्लोकत्रयमेकं वाक्यम्), **Govindarāja** (_Bhūṣaṇa_) explains the distributive शतं शतम् as a hundred in each direction (प्रतिदिशमिति शेषः), which **Rāma Varmā** (_Tilaka_) totals across the eight quarters (अष्टदिक्ष्विति). In विस्तीर्णविपुलोरस्काः, **Śivasahāya** (_Śiromaṇi_) distinguishes expanse from muscular thickness (विपुलशब्दस्य मांसलार्थकत्वे विस्तीर्णमांसलानीत्यर्थः), while _Tilaka_ notes Kataka's preference for शोणाङ्गवसनाः over ruby-rayed शोणांशुवसनाः (पद्मरागसदृशवसनाः).
+
+_____________
+
+**3.5.17–18 (The Perpetual Youth of the Gods)**
+
+**Govindarāja** (_Bhūṣaṇa_) explains पञ्चविंशतिवार्षिकम् as the prime of youth (यौवनावस्थोच्यते), citing the traditional dictum that childhood extends to fifteen and youth thereafter (कौमारं पञ्चदशाब्दं यौवनं तु ततः परम्), and observes that verse 18 provides the logical ground (युक्तिमाह) proving these attendants are immortals (एते सर्वे देवा एवेति सूचितम्).
+
+_____________
+
+**3.5.19–20 (Direct Perception & Restraining Lakṣmaṇa)**
+
+Glossing यावज्जानामि as future (ज्ञास्यामि), **Rāma Varmā** (_Tilaka_) explains that although Rāma already inferred Indra's identity from his steeds, he desires direct visual confirmation (इन्द्रहयैर्ज्ञातमपीतोऽपि प्रमाणान्तरेणापि वेद्य इत्यर्थः). **Govindarāja** (_Bhūṣaṇa_) adds that Rāma repeats the command इहैव स्थीयतामिति in verse 20 because Lakṣmaṇa, unable to bear separation (विरहासहिष्णुतया अनुव्रजन्तं), had begun walking after him.
+
+_____________
+
+**3.5.21–22 (Two Readings of niṣṭhāṃ nayata)**
+
+Reading विबुधान् and निष्ठां नयत, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) construe Indra as ordering the gods to convey him back to heaven (निष्ठां स्थानान्तरं स्वर्गं वा नयत) before Rāma speaks. **Govindarāja** (_Bhūṣaṇa_), reading विविक्ते (“in private”) and नयतु, explains that Indra tells Śarabhaṅga that Rāma must first fulfill his vow to the sages (र्षिप्रतिज्ञां निष्ठां समाप्तिं नयतु), lest premature converse with Indra expose Rāma's divinity (मया संभाषणेऽस्य देवत्वप्रकटनं स्यादिति भावः).
+
+_____________
+
+**3.5.23–24 (The Mighty Deed Reserved for a Human)**
+
+In 23ab, **Rāma Varmā** (_Tilaka_) supplies Rāvaṇa as the object of जितवन्तं (रावणमिति शेषः) and द्रक्ष्यामि for the verb (where _Bhūṣaṇa_ reads द्रष्टाहम्), noting that the mighty task (कर्म महद्) is the slaying of Rāvaṇa, which must be accomplished by Rāma in human guise (अनेन मानुषवेषेण कर्तव्यं).
+
+_____________
+
+**3.5.25–26 (saparicchadaḥ & Revering the Sage)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss सपरिच्छदः as accompanied by Sītā and Lakṣmaṇa (सीतालक्ष्मणादिः), whereas **Govindarāja** (_Bhūṣaṇa_) explains it as bearing his bow and gear (चापादिस्वरूपपरिवारसहितं) and takes अग्निहोत्रमुपासीनं as waiting beside the fire to enter it (तत्र प्रवेशायोपतिष्ठन्तं). On clasping the sage's feet (पादौ संगृह्य), _Tilaka_ remarks that even the Lord honors brahmins to instruct the world (राम ईश्वरोऽपि ब्राह्मणा एवं पूज्या इत्यन्यान् शिक्षयितुमेवं चकार).
+
+_____________
+
+**3.5.27–28 (The Purpose of Śakra's Visit)**
+
+All three explain शक्रोपयानं as the purpose of Indra's arrival (इन्द्रागमनप्रयोजनम्). In 28cd, **Śivasahāya** (_Śiromaṇi_) glosses अकृतात्मभिः as those whose minds are not surrendered to the Supreme Self (न कृतः परमात्मनि समर्पितः आत्मा मनो यैस्तैर्दुष्प्रापं) and takes वरदः as Indra (स एष इन्द्रो मां निनीषति).
+
+_____________
+
+**3.5.29–30 (Fruit of Rāma-samāgama & tridivam)**
+
+**Rāma Varmā** (_Tilaka_) notes that Śarabhaṅga perceived Rāma's nearness by yogic vision (ज्ञात्वा योगचक्षुषा) and waited because meeting the Lord yields higher fruit than lifelong meditation (त्वत्समागमश्च सकृदपि संजात एतावत्कालपर्यन्तमनुष्ठितोपासनातोऽधिकफलद इति भावः). While _Tilaka_ and _Śiromaṇi_ gloss अवरं परम् as Svarga and Brahmaloka (अवरं त्रिदिवं स्वर्गं परं ब्रह्मलोकं च), **Govindarāja** (_Bhūṣaṇa_), reading त्रिदिवं देवसेवितम्, interprets त्रिदिवं as Viṣṇu's abode transcending Brahmaloka (त्रिपादिति ब्रह्मलोकादुत्कृष्टं).
+
+_____________
+
+**3.5.31–32 (Bhagavad-arpaṇa of Meritorious Worlds)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) celebrate verse 31 as the scriptural paradigm of dedicating all pious works to the Supreme Lord (अनेन सर्वकर्मणां भगवदर्पणमकरोदिति दर्शितम्, _Tilaka_). _Bhūṣaṇa_ observes that while the surface meaning (प्रातीतिकोऽर्थः) is a host's offering to an honored guest (सर्वत्रातिथिसत्कारः), true _bhagavad-arpaṇa_ consists in performing duties as service to the Lord while renouncing attachment to fruits and personal agency (फलसङ्गत्यागकर्तृत्वत्यागपूर्वकं भगवत्कैङ्कर्यतयानुष्ठानम्).
+
+_____________
+
+**3.5.33–34 (aham evāhariṣyāmi)**
+
+On Rāma's reply, **Rāma Varmā** (_Tilaka_) explains that as a kṣatriya forbidden from accepting gifts, Rāma declares he will earn those worlds himself through penance (तपसेत्यर्थः, क्षत्रियस्य प्रतिग्रहानर्हत्वादिति भावः), whereas **Śivasahāya** (_Śiromaṇi_) construes it as Rāma promising to bestow all desired realms upon Śarabhaṅga himself (सर्वान् भवदीप्सितान् लोकान् इहैव अहमाहरिष्यामि प्रापयिष्यामि). **Govindarāja** (_Bhūṣaṇa_) notes that महाप्राज्ञः signals Śarabhaṅga's discernment of Rāma's inner mission (भगवन्मनोगताभिसन्धिं मनसि कृतवान्).
+
+_____________
+
+**3.5.35 (Directing Rāma to Sutīkṣṇa)**
+
+**Rāma Varmā** (_Tilaka_) identifies इहारण्ये as Daṇḍakāraṇya (दण्डकारण्ये वसति), and **Śivasahāya** (_Śiromaṇi_) remarks that by delegating Rāma's welfare to Sutīkṣṇa (स ते श्रेयो विधास्यति), Śarabhaṅga intimates his own imminent departure from the body (मम स्थितियोग्यता इह नास्तीति सूचितं).
+
+_____________
+
+**3.5.36–37 (The Daṇḍaka Mandākinī & puṣpoḍupavahām)**
+
+Explaining how the Mandākinī appears here, **Rāma Varmā** (_Tilaka_) notes that this stream is either named Mandākinī for its equal sanctity or is a branch of the Citrakūṭa river (मन्दाकिनीं तामिव पुण्यां तन्नाम्रिकां वा चित्रकूटस्थेयमेव), adding that walking westward along an east-flowing river constitutes going upstream (पूर्ववाहिन्यां स्वेन पश्चिमाभिमुखतया च गमने प्रतिस्रोतस्त्वं भवति). In पुष्पोडुपवहां, _Tilaka_ glosses उडुप as a raft (उडुपः प्लवः), describing masses of fallen blossoms floating like rafts.
+
+_____________
+
+**3.5.38 (muhūrtaṃ paśya tāta mām)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that with एष पन्थाः the sage points out the trail with his finger (अङ्गुल्या सुतीक्ष्णाश्रमो हस्तेन निर्दिश्यते), and then beseeches Rāma to behold him with a gaze of grace (कृपादृष्ट्येति शेषः, _Tilaka_) while he sheds his aged body like a snake's slough (जीर्णां त्वचमिवोरगः).
+
+_____________
+
+**3.5.39 (Scriptural Sanction for Entering the Fire)**
+
+**Rāma Varmā** (_Tilaka_) explains that Śarabhaṅga's self-immolation is sanctioned by Brahmā's direct permission and accomplished through Upaniṣadic mantras (मन्त्रैरुपनिषदुक्तैः प्रविवेश), while **Govindarāja** (_Bhūṣaṇa_), reading मन्त्रवित्, cites the ritual precept for entering the _brahmamedha_ fire (ब्रह्ममेधानलं व्रजेत्).
+
+_____________
+
+**3.5.40–41 (Consumption of the Mortal Frame & kumāraḥ)**
+
+Reading तदा वह्निः in verse 40, both **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) supply the finite verb “burned” (वह्निः अदहदिति शेषः), whereas **Govindarāja** (_Bhūṣaṇa_) reads ददाहाग्निः directly. On कुमारः समपद्यत, _Tilaka_ observes that assuming a luminous celestial form is the fruit of his prior meditation and fire-entry (स्वर्गारोहणार्थं दिव्यशरीरपरिग्रहः), while _Bhūṣaṇa_ cites the _Ratnākara_ definition of a _kumāra_ as a youth above fifteen (बालोऽथ पञ्चदशभिर्वर्षैस्तदूर्ध्वं तु कुमारकः).
+
+_____________
+
+**3.5.42 (The Arcirādi Ascent Beyond Three Worlds)**
+
+Tracing the sage's ascent, **Rāma Varmā** (_Tilaka_) distinguishes the realms of Vedic fire-sacrificers (आहिताग्निलोकाः), celibate sages (ऋषयो नैष्ठिकादिब्रह्मचारिणः), and gods (आनन्देवानां ब्रह्मविष्णुरुद्राणां च लोकाः) before Brahmaloka, while **Govindarāja** (_Bhūṣaṇa_) quotes the Upaniṣadic _devayāna_ text (अर्चिषोऽहरहः... स एनान् ब्रह्म गमयति) to show his attainment of the supreme non-returning realm (अनावृत्तिलक्षणं लोकम्).
+
+_____________
+
+**3.5.43 (Identity of Pitāmahaḥ)**
+
+In the closing _Vaṃśastha_ stanza, **Rāma Varmā** (_Tilaka_) glosses पितामहं as the collective Trimūrti headed by Brahmā (ब्रह्मादित्रयसमष्टिरूपम्), **Śivasahāya** (_Śiromaṇi_) takes it as Brahmā (ब्रह्माणं), and **Govindarāja** (_Bhūṣaṇa_) interprets पितामहः as the Supreme Lord Viṣṇu with his attendants (सविभूतिकपरमात्मपरः), noting that this honour reflects Śarabhaṅga's patient waiting for Rāma (सर्वमिदं शरभङ्गस्य रामसानिध्यप्रतीक्षया व्यज्यते).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

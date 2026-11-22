@@ -234,6 +234,116 @@ evil-minded demon Viradha. [3-4-4]
 
 Hearing those words of Vaidehī, the two heroic brothers Rāma and Lakṣmaṇa hastened with all speed (_vegaṃ pracakratuḥ_) to slay that evil-minded demon (_vadhe tasya durātmanaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.4.1–4 (Sītā's Self-Sacrificing Lament)**
+
+On प्रगृह्य सुमहाभुजौ, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) offer two construals: either Sītā raised her own long arms in anguish (सुमहान्तौ स्वबाहू प्रगृह्योत्थाप्य), or she beheld the two mighty-armed Kākutsthas (सुमहाभुजौ काकुत्स्थौ) seized by the demon. **Govindarāja** (_Bhūṣaṇa_) cites the _Vaijayantī_ lexicon to distinguish wolves (वृकाः in his reading), large tigers (शार्दूलाः), and leopards (द्वीपिनः), while _Tilaka_ highlights Sītā's supreme devotion in begging Virādha to devour her and spare Rāma and Lakṣmaṇa (मां हरोत्सृज).
+
+_____________
+
+**3.4.5 (Why Lakṣmaṇa Breaks the Left Arm & Rāma the Right)**
+
+Explaining why Lakṣmaṇa breaks Virādha's left arm and Rāma his right—whereas in the Kabandha episode their sides are reversed—**Govindarāja** (_Bhūṣaṇa_) observes that Lakṣmaṇa always walks on Rāma's right (सर्वदा लक्ष्मणो रामस्य दक्षिणपार्श्व एव तिष्ठति); hence Virādha, seizing them from the front, held Rāma on his right and Lakṣmaṇa on his left. **Rāma Varmā** (_Tilaka_) adds that breaking his arms with bare fists (मुष्टिप्रहारेण) does not violate Brahmā's boon against weapons.
+
+_____________
+
+**3.4.6 (saṃvignaḥ)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss संविग्नः as stricken with terror (भीतः).
+
+_____________
+
+**3.4.7–8 (niṣpipeṣatuḥ & na mamāra)**
+
+On मुष्टिभिर्बाहुभिः पद्भिः (जानुभिः, “with knees”, in _Bhūṣaṇa_), **Govindarāja** notes that the plural instrumentals indicate repeated blows (बहुवचनमावृत्त्या), lifting and hurling Virādha down upon the bare earth (स्थण्डिले भूतले). Despite arrows, swords, and pummeling, the demon did not die (न ममार) by the power of Brahmā's boon (वरदानबलात्, _Tilaka_).
+
+_____________
+
+**3.4.9–10 (bhayeṣv abhayadaḥ & nikhanāvahe)**
+
+Glossing भयेष्वभयदः, **Rāma Varmā** (_Tilaka_) remarks that Rāma grants fearlessness in all perils to those who hear or remember his virtues (स्वगुणादिश्रवणस्मरणकीर्तनादिना), while **Govindarāja** (_Bhūṣaṇa_) connects the epithet directly to Rāma freeing Virādha from his curse (शापापायकरणाय). Since weapons cannot slay him (न शक्यते शस्त्रेण युधि निर्जेतुम्), Rāma proposes burying him in a trench (निखनावहे भूमौ गर्ते पातयावः, _Tilaka_).
+
+_____________
+
+**3.4.11–12 (pradaraḥ & Foot on the Throat)**
+
+On प्रदरः, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss it as a pit (गर्तः), while Rāma pins Virādha's throat with his foot (पादेन कण्ठे विराधमाक्रम्य).
+
+_____________
+
+**3.4.13–14 (Awakening by the Touch of Rāma's Foot)**
+
+On प्रश्रितं वचः, **Rāma Varmā** (_Tilaka_) explains that as the hour of his curse's termination arrived (शापान्तकालप्राप्त्या), Virādha spoke with sudden humility (नम्रीभूतम्, _Śiromaṇi_; विनयान्वितम्, _Bhūṣaṇa_), while **Govindarāja** (_Bhūṣaṇa_) attributes his spiritual awakening directly to the touch of Rāma's foot (रामपादस्पर्शेन प्रत्यभिजानन्नाह). Reading nominative पुरुषर्षभः in 14d, **Govindarāja** glosses it as the Supreme Person (पुरुषोत्तमस्त्वं रामत्वेनावतीर्ण इति न ज्ञातः).
+
+_____________
+
+**3.4.15 (kausalyā suprajāḥ)**
+
+Construing कौसल्या सुप्रजाः as an embedded clause (यया कौसल्या सुप्रजा इति त्वं विदितः), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) note that the recognition reveals the divine triad: the Lord incarnate in Kausalyā's womb, Vaidehī as Śrī Mahālakṣmī (वैदेही च लक्ष्मीः), and Lakṣmaṇa as his inseparable portion (त्वदंशभूतो लक्ष्मणः).
+
+_____________
+
+**3.4.16–18 (Tumburu's Curse by Kubera)**
+
+Identifying himself as the _gandharva_ Tumburu cursed by Kubera (वैश्रवणेन) when he failed to attend court at the appointed time (अवसरे मया असेव्यमानः), Virādha recalls Kubera's promise of redemption through Rāma.
+
+_____________
+
+**3.4.19–21 (Infatuation with Rambhā & Direction to Śarabhaṅga)**
+
+Explaining why Tumburu neglected his duty to Kubera, **Rāma Varmā** (_Tilaka_) notes that he was infatuated with the _apsaras_ Rambhā (रम्भासक्तम्), adding that the slight repetition in recounting the curse reflects his rapture at imminent liberation (शापप्रतीकारज्ञानजमन्दपारवश्यात्पुनरुक्तिर्न दोषाय). As an act of grateful service (कैङ्कर्यमातनोति, _Bhūṣaṇa_), he directs Rāma to Sage Śarabhaṅga one and a half _yojanas_ away (अध्यर्धयोजने सार्धयोजने).
+
+_____________
+
+**3.4.22–23 (avaṭe nikṣipya & Burial of Rākṣasas)**
+
+Glossing गतसत्त्वानाम् as deceased (गतप्राणानाम्, _Tilaka_; गतासूनाम्, _Bhūṣaṇa_ citing _Amarakośa_), all three commentators explain that burial in a pit (अवटे गर्ते निक्षेपः) is the immemorial funeral custom (धर्मः सनातनः) of the _rākṣasas_ securing eternal worlds.
+
+_____________
+
+**3.4.24 (svargasamprāptaḥ Anticipatory)**
+
+Reconciling बभूव स्वर्गसम्प्राप्तः here with Virādha still roaring when thrown into the pit in 3.4.28, **Govindarāja** (_Bhūṣaṇa_) explains स्वर्गसम्प्राप्तः as “on the verge of attaining heaven” (सम्प्राप्तप्राय इत्यर्थः), actualized immediately after burial (खननानन्तरं स्वर्गप्राप्तिः).
+
+_____________
+
+**3.4.25–26 (Repetition of the Command to Dig the Pit)**
+
+On the recurrence of verses 25–26 (which **Govindarāja** omits at 11–12 and reads only here), **Rāma Varmā** (_Tilaka_) explains that Rāma kept his foot on Virādha's throat until the pit was dug lest the demon's severed arms reunite (छिन्नभुजसंधानशङ्कयावष्टम्भार्थम्), comparing the trench to one dug for burying a dead elephant (मृतकुञ्जरस्य निखननार्थमिव).
+
+_____________
+
+**3.4.27 (mahātmanaḥ Applied to Virādha)**
+
+Explaining how the epithet महात्मनः can qualify Virādha in 3.4.27d, all three commentators gloss it physically as “huge-bodied” (महाशरीरस्य, _Tilaka_; महाकायस्य, _Bhūṣaṇa_), while **Rāma Varmā** adds that it also honors his restored _gandharva_ nature and his true knowledge of Rāma (गन्धर्वत्वप्रत्यापत्त्यभिप्रायेण रामस्वरूपज्ञानाभिप्रायेण च).
+
+_____________
+
+**3.4.28–29 (muktakaṇṭham & Shift to Vaṃśastha)**
+
+On मुक्तकण्ठम्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Rāma lifted his foot from Virādha's throat (त्यक्तकण्ठाक्रमणम्) so they could heave him into the trench, _Tilaka_ interpreting his cry as a roar of joy (धन्योऽहमतिधन्योऽहमिति नदन्तम्).
+
+_____________
+
+**3.4.30–32 (Why Burial Was Chosen Over Other Means)**
+
+Answering why Rāma buried Virādha instead of using another non-weapon method, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that Virādha himself eagerly desired liberation at Rāma's hands (प्रसह्य रामेण यथार्थमीप्सितः) and revealed the sole effective means (तदेव भाषितं निशम्य कृता मतिस्तस्य बिलप्रवेशने).
+
+_____________
+
+**3.4.33 (prahṛṣṭarūpāv iva & Covering the Pit with Boulders)**
+
+On प्रहृष्टरूपाविव, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) take इव in the emphatic sense of एव (“truly joyful in form”), whereas **Govindarāja** (_Bhūṣaṇa_) explains that although slaying a single demon is a trifle for the protector of all worlds, Rāma appeared joyful (पुलकितशरीरौ भवत इव) after sealing the pit with boulders (शिलाभिरन्तर्दधतुः).
+
+_____________
+
+**3.4.34 (candradivākarāv iva)**
+
+Concluding the canto in _Vaṃśastha_ meter, **Govindarāja** (_Bhūṣaṇa_) explains the simile of the moon and the sun (चन्द्रदिवाकराविव): Rāma accompanied by Sītā shines with the cool, gladdening grace of the moon alongside Rohiṇī, while Lakṣmaṇa blazes like the sun.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

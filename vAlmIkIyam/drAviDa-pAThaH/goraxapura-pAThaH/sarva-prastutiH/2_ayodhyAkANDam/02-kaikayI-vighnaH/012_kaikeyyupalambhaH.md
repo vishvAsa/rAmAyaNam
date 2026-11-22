@@ -622,6 +622,350 @@ if I fail to see Rama."
 
 and my own life (_jīvitaṃ cātmano_)—but never Rāma, who is so devoted to his father (_na tv eva pitṛvatsalam_)! Supreme is my joy when I behold my eldest son (_tanayam agrajam_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.12.1–2 (dāruṇaṃ vacaḥ and divāsvapnaḥ)**
+
+_Tilaka_ glosses दारुणम् as “like a thunderbolt” (वज्रपाततुल्यम्): unable to believe Kaikeyī's words, Daśaratha takes them for an illusion (भ्रम इत्येव निश्चित्य). Because even a night dream sometimes comes true (स्वप्नोऽपि कदाचित्संवादीत्यतो दिवेति), he calls it a daydream (दिवास्वप्नः), which is never true. _Śiromaṇi_ distinguishes चित्तमोहः (feverish delirium, उष्मादिजनितचित्तभ्रमः) from मनस उपद्रवः (the mind's wild racing, स्वभावसिद्धमनसोऽसद्धावनम्).
+
+_____________
+
+**2.12.3–4 (tadāsukham and viklavaḥ)**
+
+In v. 3b, _Tilaka_ analyses तदाऽसुखम् with privative असुखम् (“a swoon-inducing sorrow,” मूर्च्छाकरं महद्दुःखम्), whereas _Śiromaṇi_ reads सुखं नाध्यगच्छत् (“found no happiness”). Govindarāja notes that vv. 3–6 form one sentence (श्लोकत्रयमेकान्वयम्) and cites _Amarakośa_ (विह्वलो विक्लवः) to gloss विक्लवः as “distraught.”
+
+_____________
+
+**2.12.5–6 (maṇḍale pannagaḥ and moham āpedivān)**
+
+Govindarāja and _Tilaka_ explain मण्डले as a snake-charmer's magic circle (आहितुण्डिकयन्त्रमण्डले, Govindarāja; यन्त्रमण्डले, _Tilaka_): bound by his pledge like a spell-bound serpent, Daśaratha faints again in utter helplessness (मोहं कर्तव्याविवेकराहित्यम्, _Śiromaṇi_), before regaining consciousness after a long time to rebuke her.
+
+_____________
+
+**2.12.7–8 (tejasā and jananītulyāṃ vṛttim)**
+
+_Tilaka_ explains तेजसा as the fiery glow born of grief (दुःखजेन), suggesting that just as a deer cannot punish a tigress, Daśaratha cannot punish Kaikeyī (व्याघ्रीदण्डनेव कैकेयीदण्डने स्वस्याशक्यता ध्वन्यते). In v. 8, _Tilaka_ glosses पापम् as “offense” (अनिष्टम्, Govindarāja: अपराधः) and वृत्तिम् as “reverent service” (शुश्रूषाम्).
+
+_____________
+
+**2.12.9–10 (ātmavināśāya and vyālā)**
+
+_Śiromaṇi_ notes that “own destruction” (आत्मविनाशाय) operates through the ruin of his solemn vow to consecrate Rāma (अभिषेकप्रतिज्ञाविध्वंसद्वारा बोध्यः). _Tilaka_ explains अविज्ञानात् as the delusion that she would bring him happiness (इष्टसाधनत्वभ्रान्त्या), while Govindarāja remarks that नृपसुता acts as a predicative complement (नृपसुतेत्यक्तिकरणं द्रष्टव्यम्) contrasted with a venomous female snake (व्याली सर्पिणी, _Śiromaṇi_).
+
+_____________
+
+**2.12.11–12 (uddiśya and pitṛvatsalam)**
+
+_Tilaka_ glosses उद्दिश्य as “making a pretext of” (व्याजीकृत्य) and श्रियम् as “sovereignty” (राज्यम्). _Śiromaṇi_ observes that Daśaratha's readiness to give up Kausalyā, Sumitrā, his kingdom, and his own life before parting with Rāma marks the supreme climax of his love (रामानुरागस्य परा काष्ठा सूचिता).
+
+_____________
+
+**2.12.13–14 (cetanam and tyajyatām eṣa niścayaḥ)**
+
+_Tilaka_ and _Śiromaṇi_ gloss चेतनम् as “consciousness” (चैतन्यम्). _Tilaka_ explains तत् (“therefore”) in v. 14c: since Daśaratha's death without Rāma will bring widowhood upon Kaikeyī (यतो मद्विनाशे वैधव्यप्राप्तिस्तत्तस्मात्), she must abandon her resolve to exile Rāma (रामविवासनरूपस्त्यज्यताम्).
+
+_____________
+
+**2.12.15–16 (caraṇau mūrdhnā spṛśāmi and jijñāsase)**
+
+_Tilaka_ notes that although touching a wife's feet with one's head is improper by _Dharmaśāstra_ (धर्मशास्त्रतोऽसत्यनुचितमपि), the king does so by _Kāmaśāstra_ convention to appease her (कामशास्त्रमर्यादया त्वत्प्रीत्यर्थम्). In v. 16, all three commentators explain that if she is testing his affection for Bharata (भरते प्रीतिपरीक्षार्थमेवास्तु), let Bharata be consecrated (भरतोऽभिषिच्यतामित्यनेनोक्तं तदस्तु) without exiling Rāma.
+
+_____________
+
+**2.12.17–18 (sevārtham and āviṣṭāsi gṛhe śūnye)**
+
+Kaikeyī's past praise of Rāma (स मे ज्येष्ठसुतः) must have been spoken merely to humor the king (मम मनोरञ्जनार्थम्, Govindarāja). In v. 18, all three note the double sense of आविष्टासि: she has either entered the empty wrath-chamber under another's instigation (परबोधनवशं गता) or been possessed by evil spirits (भूतादिभिराविष्टासि, _Tilaka_).
+
+_____________
+
+**2.12.19–20 (anayaḥ and na śraddadhāmi)**
+
+_Tilaka_ explains अनयः as the calamity of obstructing Rāma's consecration (अर्थतोऽभिषेकानिष्पत्तिरूपः), while Govindarāja notes the contrast with नयसम्पन्ने: when a woman previously endowed with good policy (एतावत्कालं नीतिशालिनि) suffers a perversion of mind (विकृता विपरीता जाता), it brings ruin upon the Ikṣvākus. Hence _Tilaka_ supplies that her words cannot come from an unpossessed mind (अनाविष्टबुद्धिकृतत्वम्).
+
+_____________
+
+**2.12.21 (bharatena tulyo and kathayase)**
+
+Govindarāja observes that Kaikeyī's demand contradicts her own past words (स्वोक्तिविरुद्धं चेदं वचनम्): reading सुबाले, he notes that बहुशः rules out accidental speech and सुबाले rules out childish ignorance (ईषच्छिशुत्वव्यावृत्तिः). _Tilaka_ explains the present verb कथयसे with स्म as expressing continuous past action (वर्तमानसामीप्ये लट्).
+
+_____________
+
+**2.12.22–24 (bhīru and tava śuśrūṣamāṇasya)**
+
+In v. 22, Govindarāja notes that the vocative भीरु (“O timid one”) pointedly asks where her fear of unrighteousness has gone (तव च धर्मभीरुत्वं क्व गतमिति भावः), and in v. 24d points out the objective genitive तव with शुश्रूषमाणस्य (षष्ठी बोध्या).
+
+_____________
+
+**2.12.25–26 (śuśrūṣām and pramāṇam)**
+
+Since Rāma serves Kaikeyī even more than Bharata does (भूयोऽधिकं शुश्रूषते), Daśaratha sees no greater reverence on Bharata's part (भरतस्य त्वयि विशेषमधिकं गौरवं न लक्षये, _Tilaka_). In v. 26, _Tilaka_ distinguishes शुश्रूषा (personal service, सेवा), गौरवम् (high esteem, बहुमानम्), प्रमाणम् (treating her as an authority, प्रामाण्यबुद्धिः), and वचनक्रिया (carrying out her bidding, उक्तकरणम्).
+
+_____________
+
+**2.12.27–28 (parivādo 'pavādo vā)**
+
+Both _Tilaka_ and _Śiromaṇi_ distinguish परिवादः (grounded reproach from an actual fault, अकार्यकरणनिमित्तं समूलमयशः, _Tilaka_; समूलकाऽकीर्तिः, _Śiromaṇi_) from अपवादः (baseless slander, असूयाकल्पितं निर्मूलमयशः, _Tilaka_); neither exists regarding Rāma among the palace women or dependents.
+
+_____________
+
+**2.12.29–30 (satyena lokāñ jayati and dānaṃ tyāgaḥ)**
+
+In v. 29, Govindarāja notes that वीरः construes with all four clauses (_dayāvīra_, _tyāgavīra_, _vidyāvīra_, _parākramavīra_) and cites the anecdote of King Bhoja explaining how Rāma granted liberation to Jaṭāyu by truth. In v. 30, _Tilaka_ and Govindarāja distinguish दानम् (पारलौकिकं दानम्) from त्यागः (ऐहिकप्रयोजनं दानम्).
+
+_____________
+
+**2.12.31–33 (pāpam āśaṃsase and tam ṛte kā gatiḥ)**
+
+_Tilaka_ and Govindarāja gloss पापम् in v. 31c as forest exile (वनवासरूपम्), which brings sin upon Kaikeyī herself (स्वस्य पापजनकम्, _Tilaka_). In v. 32, Govindarāja notes the argument _a fortiori_: if Rāma never speaks harshly even to common folk (जनमात्रस्य प्रियवादिनः), how much less to his parents! In v. 33, Govindarāja explains का गतिः as “who else is my protector?” (को वा रक्षकः).
+
+_____________
+
+**2.12.34–35 (gatāntasya and manyum)**
+
+All three gloss गतान्तस्य as “nearing life's end” (प्राप्तचरमकालस्य) and तपस्विनः as “in a pitiable state” (शोचनीयावस्थस्य). In v. 35, Govindarāja explains that Daśaratha offers her every treasure on the sea-girt earth (यत्किंचिद्भोग्यमधिगम्यते) if she will abandon her wrath against Rāma (मन्युः रामविषयक्रोधः).
+
+_____________
+
+**2.12.36 (añjaliṃ kurmi and mādharmaḥ)**
+
+Glossing कुर्मि as करोमि and शरणम् as “protector” (रक्षिता), _Tilaka_ explains अधर्मः as the sin of passing over the eldest son and banishing the innocent (ज्येष्ठातिक्रमेण कनीयसोऽभिषेककृतो निरपराधस्य त्यागकृतश्च), while Govindarāja takes it as breaking his vow (प्रतिज्ञाभङ्गरूपः).
+
+_____________
+
+**2.12.37–38 (ghūrṇamānam and raudrā raudrataraṃ vacaḥ)**
+
+Govindarāja notes that vv. 37–38 form one sentence (श्लोकद्वयमेकान्वयम्): अचेतनम् means “swooning” (मूर्च्छितम्) and घूर्णमानम् means “rolling to and fro” (इतस्ततो विवर्तमानम्). _Śiromaṇi_ explains that Kaikeyī is “fierce” (रौद्रा) in gesture, and her words are “still fiercer” (रौद्रतरम्) because they demand Rāma's exile (रामवियोगसूचकत्वेन भयंकरम्).
+
+_____________
+
+**2.12.39–40 (pratyanutapyase and kiṃ prativakṣyasi)**
+
+_Tilaka_ notes the irony (सोपहासम्) in Kaikeyī's vocative वीर (“O hero!”): if he regrets his boon out of inability to fulfill it (अन्तरा करणाशक्त्या), how can he boast of his dharma? When royal sages ask how he repaid his benefactress Kaikeyī (उपकारिण्याः कैकेय्याः कीदृशमुपकृतम्, Govindarāja), what answer will he give?
+
+_____________
+
+**2.12.41–42 (yasyāḥ prasāde and kilbiṣaṃ narendrāṇām)**
+
+In v. 41, _Tilaka_ explains प्रसादे as her dispelling Śambara's illusion (शम्बरमायानिवर्तनलक्षणानुग्रहे) and nursing his battle-wounds (शल्योद्धारादिना ररक्ष). In v. 42, all three explain नरेन्द्राणां किल्बिषम्: one king's dishonor taints all monarchs (सजातीयेष्वेकेन कृतमपयशः सर्वानपि स्पृशति, Govindarāja).
+
+_____________
+
+**2.12.43–44 (śaibyaḥ, alarkaḥ, and sāgaraḥ)**
+
+All three commentators recount the Purāṇic exempla of keeping a hard vow (दुष्करप्रतिज्ञापालनम्): King Śaibya gave his flesh to ransom a dove (स्वमांसं श्येनाय दत्तवान्), Alarka gave his eyes to a blind Brahmin (अन्धब्राह्मणाय स्वचक्षुषी दत्तवान्), and the ocean never transgresses its covenant with the gods (देवप्रार्थनया, _Śiromaṇi_).
+
+_____________
+
+**2.12.45–46 (durmate and nāsti vyatikramaḥ)**
+
+Stating her final conclusion (स्वसिद्धान्तमाह), Kaikeyī declares in v. 46 that whether her demand be righteous or unrighteous (धर्मो वाऽधर्मो वा भवतु), proper or improper (समीचीनं वा असमीचीनं वा, Govindarāja), the king's sworn promise admits of no breach (तस्य व्यतिक्रमोऽन्यथाभावो नास्ति).
+
+_____________
+
+**2.12.47–48 (paśyatas te and ekāham api)**
+
+_Tilaka_ notes the genitive absolute पश्यतस्ते (“disregarding you as you watch,” पश्यन्तं त्वामनादृत्य). In v. 48, Govindarāja explains that she cannot endure her co-wife's pre-eminence (सपत्नीप्राधान्यं न सहे) as Queen Mother receiving the world's folded hands (राजमातृत्वेन सर्वेषाम्) for even a day.
+
+_____________
+
+**2.12.49–50 (bharatenātmanā śape and virarāma)**
+
+_Tilaka_ notes that Kaikeyī swears by Bharata, who is her very life-breath (आत्मना प्राणभूतेन भरतेन शपे), or by both Bharata and herself (भरतस्य स्वस्य च शपथं करोमि, _Śiromaṇi_), that no jewels short of Rāma's exile will satisfy her (अन्येन रत्नादिना न तुष्ये); she then falls silent and refuses to answer the weeping king.
+
+_____________
+
+**2.12.51–52 (parama-aśobhanam and animiṣaḥ)**
+
+Both _Tilaka_ and _Śiromaṇi_ resolve परमशोभनम् as परम + अशोभनम् (“utterly inauspicious,” अशोभनं परम्, _Tilaka_; अभिषेकनिवृत्तिहेतुत्वेन शोभारहितम्, _Śiromaṇi_), while Govindarāja reads वृतम् (“the boon chosen”). Govindarāja explains that Daśaratha stares unblinkingly (अनिमिषः) out of unceasing anxiety or wrath (निरन्तरचिन्तावशात् क्रोधाद्वा निर्निमेषप्रेक्षणम्).
+
+_____________
+
+**2.12.53–54 (duḥkhaśokamayīm and ghoraṃ śapatham)**
+
+In v. 53c, Govindarāja distinguishes दुःखम् (pain over Bharata's improper consecration, अनुचितभरताभिषेकाद् दुःखम्) from शोकः (grief over Rāma's exile, रामविवासनाच्छोकः). Seeing no possible remedy against her terrible oath (अशक्यप्रतीकारत्वात्), the grief-stricken king cries “O Rāma!” and falls to the floor like a felled tree.
+
+_____________
+
+**2.12.55–56 (viparīto yathāturaḥ and arthābham)**
+
+_Tilaka_ and Govindarāja explain विपरीतः as a patient whose constitution is deranged by a fatal humoural disorder (संनिपातादिना विपरीतप्रकृतिः) and हृततेजाः as a snake whose venom is neutralized by spells (मन्त्रापहृतवीर्यः, Govindarāja). In v. 56, Daśaratha asks who taught her this ruin disguised as gain (अर्थत्वेन प्रतीयमानम्, _Śiromaṇi_).
+
+_____________
+
+**2.12.57–58 (śīlavyasanam and bālāyāḥ)**
+
+Citing _Amarakośa_ (व्यसनं विपदि भ्रंशे), Govindarāja glosses शीलव्यसनम् as “lapse from noble character” (शीलभ्रंशः; _Tilaka_: सद्वृत्तस्य विक्षेपः). In v. 58, _Tilaka_ and Govindarāja explain the contrast: even in her youth (बालायाः अपीत्यर्थके) he knew only her good character, whereas now in her maturity (प्रौढत्वावस्थायामपि) her disposition has turned perverse (विपरीतवत्).
+
+_____________
+
+**2.12.59–60 (viramaitena bhāvena and anṛtena)**
+
+All three commentators link v. 59c–d with v. 60a–b: if she wishes to please her husband, the world, and Bharata (यदि भर्तुर्मम लोकस्य भरतस्य च प्रियं कर्तव्यम्, _Tilaka_), she must desist from this unfaithful intention (निधूतपातिव्रत्यलक्षणेन भावेन) and from this action that makes the king false (ममानृततासंपादकेन कर्मणा).
+
+_____________
+
+**2.12.61–62 (alīkam and dharmato balavattaram)**
+
+Citing _Amarakośa_ (अलीकमप्रियेऽनृते), Govindarāja glosses अलीकम् as “offense” (अप्रियम्; _Tilaka_: अपराधम्). _Tilaka_ explains that Kaikeyī's rage is futile because Bharata will never rule without Rāma, since Daśaratha deems Bharata even stricter in dharma than Rāma (रामादपि धर्मतो बलवत्तरमतिशयेन धर्मवन्तं मन्ये).
+
+_____________
+
+**2.12.63–64 (upaplutam indum and hatāṃ camūm)**
+
+Govindarāja connects v. 62c–d with v. 63a–b: when told “Go to the forest,” how can the king bear to see Rāma's face pale like the Rāhu-eclipsed moon (उपप्लुतं राहुग्रस्तमिव), or see his counsel—determined with his ministers (मन्त्रिभिः सह सुष्ठु निश्चिताम्)—repulsed like a routed army (परैः शत्रुभिर्हतामभिभूताम्, _Tilaka_)?
+
+_____________
+
+**2.12.65–66 (bālo batāyam aikṣvākaḥ and kliśyamānena)**
+
+Govindarāja explains that visiting kings will mock Daśaratha as a fool (बालः अज्ञः दशरथः) who ruled so long only by chance (काकतालीयन्यायेन). When elders ask tomorrow where Rāma is (क्व गतो रामः), how can he confess that he banished him under Kaikeyī's pressure?
+
+_____________
+
+**2.12.67 (yadi satyaṃ bravīmy etat)**
+
+Govindarāja and _Śiromaṇi_ explain the dilemma: if Daśaratha admits that he banished Rāma to fulfill Kaikeyī's boons (मया प्रव्राजित इत्येतत्सत्यं यदि ब्रवीमि), his prior public pledge to consecrate Rāma turns false (राममभिषेक्ष्यामीति वचनमसत्यं भविष्यति), while the world still blames his infatuation (तस्यां कामहतत्ववशतः, _Tilaka_).
+
+_____________
+
+**2.12.68–69 (dāsīva sakhīva bhāryāvad bhaginīvad mātṛvat)**
+
+All three admire the fivefold simile of Kausalyā serving like a handmaid in attendance (परिचर्याकाले दासीवत्), conversing like a friend at recreation (सखीवत्), performing rites like a dutiful wife (धर्मानुष्ठानसमये भार्यावत्), rejoicing even in his other marriages like a sister (भगिनीवत्, Govindarāja), and tending to his meals like a mother (भोजनदाने मातृवत्, _Tilaka_).
+
+_____________
+
+**2.12.70–72 (apathyavyañjanopetam and viprakāram)**
+
+Govindarāja and _Śiromaṇi_ explain that the favor shown to Kaikeyī now torments him like rice mixed with unwholesome curds (दध्याद्युपस्कृतमन्नम्) eaten by a fever-stricken patient (व्याधितमिव). Seeing Rāma's humiliation (अभिषेकतिरस्कारम्), Sumitrā will fear for her own sons (स्वपुत्रविषये विश्वासं मम न करिष्यति, _Tilaka_).
+
+_____________
+
+**2.12.73–75 (dvayam apriyam and vidhavā rājyam)**
+
+Unfolding the “twofold unwelcome tidings” of v. 72d, _Tilaka_ explains that Sītā will hear at once of Daśaratha's death and Rāma's exile (मां च पञ्चत्वमापन्नं रामं च वनमाश्रितम्) and waste away like a bereaved Kinnarī. Since Daśaratha will die, Kaikeyī will rule as a widow with her son (पतिरहिता त्वं राज्यं कारयिष्यसि पुत्रेण, _Śiromaṇi_).
+
+_____________
+
+**2.12.76–77 (asatīṃ satīm and gītaśabdena)**
+
+Both _Tilaka_ and Govindarāja explain the play on सतीम् ... असतीं सतीम् in v. 76: once deemed a faithful wife (पूर्वं सतीत्वेन ज्ञाताम्), she is now recognized as a husband-slaying wicked woman (पतिमारिकात्वेनासतीत्ववतीम्, _Tilaka_), like attractive (दृष्टिप्रियाम्) poisoned wine. In v. 77, her false endearments are likened to a hunter's song that lures a deer (मृगवशीकरणहेतुगानशब्देन, Govindarāja).
+
+_____________
+
+**2.12.78 (putravikrāyakam and vikariṣyanti)**
+
+All three gloss पुत्रविक्रायकम् as “one who sells his son to buy a woman's pleasure” (पुत्रेण मूल्येन स्त्रीसुखक्रेतारम्, _Tilaka_), and विकरिष्यन्ति as “will revile” (विनिन्दिष्यन्ति, _Tilaka_; जुगुप्सिष्यन्ति, Govindarāja) like a wine-drinking Brahmin.
+
+_____________
+
+**2.12.79–81 (udbandhanī rajjuḥ and kṛṣṇasarpam)**
+
+Citing _Amarakośa_ (स्यात् कष्टं कृच्छ्रम्), Govindarāja notes Daśaratha's amazement at experiencing unprecedented misery, like the ripening of past evil karma (पूर्वोपार्जितमशुभं निषिद्धकर्मफलमिव, _Śiromaṇi_). _Tilaka_ and Govindarāja observe the irony of v. 80: cherishing Kaikeyī for his happiness has turned into a noose around his neck (सौख्याय कृतं त्वद्रक्षणं स्वनाशाय परिणतम्), and in v. 81 he likens fondling her to a child stroking a deadly cobra (दंशस्वभावं सर्पम्, _Tilaka_).
+
+_____________
+
+**2.12.82–83 (apitṛkaḥ and bāliśaḥ)**
+
+Even while Daśaratha lives, Rāma is made “fatherless” (अपितृकः) because he is deprived of a father's protection and rightful kingdom (पितृप्रयुक्तराज्यरहितः, _Tilaka_; पितृकृतरक्षणादिरहितः, Govindarāja). Citing _Amarakośa_ (मूढवेधेयबालिशाः), all three commentators gloss बालिशः as “foolish” (मूर्खः).
+
+_____________
+
+**2.12.84 (upakarśitaḥ and bhogakāle)**
+
+Reading व्रतैश्च, Govindarāja explains the three disciplines that made Rāma slender (उपकर्शितः कार्यं प्रापितः, _Tilaka_): Veda-section vows (काण्डव्रतैः), celibate student observances (मधुमांसवर्जनादिब्रह्मचारिधर्मः), and obedience to preceptors; now in the householder stage meant for enjoyment (गार्हस्थ्यावस्थायाम्), he must again endure forest hardship.
+
+_____________
+
+**2.12.85–86 (dvitīyaṃ vacanam and pratikūlam)**
+
+All three commentators explain द्वितीयं वचनम् as a word of refusal (परिहाररूपं वचनम्, _Tilaka_; मद्वचनविरोधिवचनान्तरम्, _Śiromaṇi_): bound by dharma like his father (अहमिव धर्मयन्त्रितत्वात्), Rāma will only answer बाढम् (“So be it!”, अङ्गीकारोक्तिः, Govindarāja). In v. 86, Daśaratha wishes Rāma would disobey his command (वनं प्रत्यगमनं यदि कुर्यात्तदा मे प्रियं स्यात्), yet knows his dutiful son never will.
+
+_____________
+
+**2.12.87–88 (akṣamaṇīyam and iṣṭe jane śeṣe)**
+
+Once Rāma departs, Daśaratha—unforgivable (सोढुमशक्यम्, Govindarāja) and cursed by all—will be carried to Yama's house (यमगृहम्, Govindarāja). He asks what further evil Kaikeyī will inflict upon Kausalyā and his remaining loved ones (शेषेऽवशिष्टे ममेष्टे कौसल्यादिरूपे जने, _Tilaka_).
+
+_____________
+
+**2.12.89–90 (putrau ca and prakṣipya narake)**
+
+Both _Tilaka_ and _Śiromaṇi_ explain why v. 89a says “and the two sons” (पुत्रौ च, Lakṣmaṇa and Śatrughna): Lakṣmaṇa will accompany Rāma, and Śatrughna will likewise abandon Bharata if Bharata opposes Rāma (शत्रुघ्नोऽपि तं त्यक्त्वा राममेव गन्तेति, _Śiromaṇi_). In v. 90, नरके means “hellish grief” (नरकप्रायदुःखे).
+
+_____________
+
+**2.12.91–93 (ākulam and mā sma me bharataḥ kārṣīt)**
+
+_Tilaka_ and _Śiromaṇi_ note the irony in v. 91: once the unshakable Ikṣvāku race is thrown into chaos (आकुलं विक्षोभितम्) by the loss of Daśaratha and Rāma, how can Kaikeyī rule it? In v. 92, _Tilaka_ points out that if Rāma's exile pleases Bharata, Bharata is unfit to perform his father's funeral rites (मरणे ममौर्ध्वदेहिकाधिकारी स एव नेति).
+
+_____________
+
+**2.12.94 (daivena / rājaputrīvādena and akīrtiḥ)**
+
+_Tilaka_ explains दैवेन as “through my evil destiny” (मामकदुरदृष्टेन), while recording Govindarāja's reading राजपुत्रीवादेन (“under the mere title of a princess,” राजपुत्रीव्यपदेशमात्रेण). Both distinguish अकीर्तिः (infamy behind one's back, परोक्षापयशः), परिभवः (open reproach before the assembly, महाजनसमक्षं धिक्कारः), and अवज्ञा (contemptuous treatment, क्षुद्रत्वेन प्रतिपत्तिः).
+
+_____________
+
+**2.12.95–96 (padbhyām and ahaṃpūrvāḥ)**
+
+Connecting v. 96 with v. 97 (श्लोकद्वयमेकान्वयि, _Śiromaṇi_), Govindarāja glosses अहंपूर्वाः as “vying in eager rivalry” (अहमहमिकावन्तः): how can Rāma, whose earring-adorned cooks prepared delicious dishes (रस्याः स्निग्धाः स्थिरा हृद्या आहाराः), subsist on forest fare?
+
+_____________
+
+**2.12.97–99 (kaṣāyāṇi and kasyedaṃ vākyam)**
+
+_Tilaka_ supplies कन्दमूलानि (“wild bulbs and roots”) for the astringent, bitter, and pungent forest fare (कषायादीनि). In v. 99, _Śiromaṇi_ and Govindarāja explain कस्येदं वाक्यम् as asking by whose counsel (कस्य प्रेरणया, _Śiromaṇi_; केनोपदिष्टम्, Govindarāja) she uttered this demand, while _Tilaka_ takes it as “the fruit of what unspeakable past sin of mine?” (अनिवर्चनीयस्य मम दुष्कर्मणः फलम्).
+
+_____________
+
+**2.12.100 (dhig astu yoṣito... bharatasyaiva mātaram)**
+
+_Tilaka_ and Govindarāja admire the psychological realism of v. 100: in grief at Kaikeyī's wickedness, Daśaratha first condemns all women as deceitful (शठाः कपटविप्रियकारिण्यः), but immediately checks himself through his innate discrimination (पुनः स्वाभाविकविवेकेनाह) because Kausalyā and others are blameless (कौसल्यादीनां निन्दानर्हत्वात्), blaming only Bharata's mother.
+
+_____________
+
+**2.12.101–102 (anarthabhāve and parityajeyuḥ)**
+
+Shifting to 11-syllable _Upendravajrā_ and _Upajāti_ meters, _Tilaka_ glosses अनर्थभावे as “intent on the world's ruin” (जगदनर्थसाधने भावो यस्याः): if Rāma is exiled, the whole world will revolt (कुपितं स्यात्), and fathers and wives will abandon their own families to follow Rāma.
+
+_____________
+
+**2.12.103–104 (punar yuveva and avarṣatā vajradhareṇa)**
+
+_Tilaka_ explains that merely hearing Rāma approaching gives Daśaratha the joy of sight (श्रवणमात्रेण दर्शनजन्यं सुखम्), and beholding him makes the aged king feel like a youth again (जरयातिवृद्धोऽपि पुनर्युवेव भवामि). In v. 104, _Tilaka_ notes the _a fortiori_ force: if no citizen of Ayodhyā can live seeing Rāma depart (अयोध्यावासिनां रामं विना कस्यापि व्यवहारस्यासिद्धेः), how much less Daśaratha!
+
+_____________
+
+**2.12.105–106 (sarpī and bhavābhiharṣiṇī)**
+
+Govindarāja notes the feminine सर्पी (जातिलक्षणो ङीष्): out of delusion Daśaratha held a deadly snake on his lap (मोहादङ्केन धृतासि). In v. 106, _Tilaka_ construes पुरं च राष्ट्रं च with प्रशास्तु and records both readings in _pāda d_: अभिभाषिणी (“conversing with my foes”) and अभिहर्षिणी (“delighting my enemies”).
+
+_____________
+
+**2.12.107 (vyasanaprahāriṇi and daśanāḥ sahasradhā)**
+
+Govindarāja explains व्यसनप्रहारिणि by the maxim of “striking a wound” (क्षते प्रहारन्यायेन विपदि प्रहरणशीले): when she utters such a demand, why do her teeth not shatter into a thousand pieces and fall from her mouth?
+
+_____________
+
+**2.12.108–109 (pratāmya vā and kekayarājapāṃsane)**
+
+Rāma cannot even utter harsh words (परुषाणि भाषितुं न वेत्ति, Govindarāja). In v. 109, _Tilaka_ and Govindarāja gloss the four imperatives: “faint away” (प्रताम्य ग्लायस्व), “burn in fire” (प्रज्वल अग्निप्रवेशेन), “perish by poison” (प्रणश्य), or “sink into the cloven earth” (महीं व्रज)—even so, he will not grant her cruel demand.
+
+_____________
+
+**2.12.110–111 (sabandhanam and spṛśāmi pādāv api te)**
+
+Citing _Chāndogya Upaniṣad_ 6.8.2 (प्राणबन्धनं हि सोम्य मनः), _Tilaka_ and Govindarāja explain सबन्धनम् as “my heart together with its life-breath bond” (प्राणरूपमूलसहितम्), and interpret जीवितुम् causatively (जीवयितुं न विषहे, “I cannot bear to let you live”). Yet in v. 111, after this threat (दण्डवाक्यमुक्त्वा), he immediately reverts to supplication!
+
+_____________
+
+**2.12.112 (prasāritau and asamprāpya)**
+
+Both _Tilaka_ and Govindarāja highlight the two participles: प्रसारितौ (“her two feet stretched out”) reveals Kaikeyī's utter insolence toward her husband (प्रसारितावित्यनेनानादर उक्तः, Govindarāja), while असम्प्राप्य (“without even reaching them”) shows the king collapsing mid-way in a swoon (मध्ये मूर्च्छया पतति, _Tilaka_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

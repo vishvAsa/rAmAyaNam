@@ -81,6 +81,14 @@ after embracing Sugreeva spoke these words.
 
 Then, beholding the battle-marks (_nimittāni_) upon him, Rāma, the elder brother of Lakṣmaṇa, warmly embraced Sugrīva and spoke these words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.1–3 (Sugrīva's Battle Scars and Rashness)**
+
+Introducing the forty-first _sarga_ on the investment of Laṅkā (अथ लङ्कावरोधः एकचत्वारिंशे), _Tilaka_ and _Bhūṣaṇa_ take तस्मिन् निमित्तानि as the bloody wound-marks on Sugrīva's body (क्षतजादिरूपाणि युद्धचिह्नानि), whereas _Śiromaṇi_ also notes the sense of portents at that moment (तस्मिन्समये). Govindarāja observes that Rāma's rebuke `kings do not act thus' (न कुर्वन्ति जनेश्वराः) is spoken out of respectful solicitude: when servants like us are at hand, a monarch should not hazard his own person (अस्मादृशपरिजने विद्यमाने न कुर्वन्तीत्यादरोक्तिः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,6 +249,14 @@ Bharata, Lakshmana or still younger Shatrughna or even with my own person."
 
 **5:** Or Bharata, O mighty-armed one, or my younger brother Lakṣmaṇa, or Śatrughna, O slayer of foes, or even my own body?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.4–5 (Euphemism and Overflowing Affection)**
+
+On the euphemistic clause त्वयि किंचित्समापन्ने (`if anything should happen to you'), _Tilaka_ cites the maxim that one must never utter an inauspicious word (नाश्लीलं कीर्तयेत्) for a loved one. Govindarāja compares Rāma's overflowing tenderness (वात्सल्यातिशयः) to a mother cow forgetting her older calf in her fondness for a newborn (अभिनववत्सवात्सल्येन पूर्ववत्समनभिलषन्ती वत्सका गौः), declaring that without Sugrīva neither Sītā—half his own self—nor Bharata, Lakṣmaṇa, Śatrughna, nor his own life would hold any value.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -321,6 +337,20 @@ life."
 
 **7:** “‘Having slain Rāvaṇa in battle along with his sons, army, and mounts, and having consecrated Vibhīṣaṇa as well in Laṅkā—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.6 (Love That Fears the Worst)**
+
+Anticipating Sugrīva's protest that he was never in danger of defeat, Rāma adds जानतश्चापि ते वीर्यम् (`even though I know your valor'); Rāma Varmā quotes the proverb that deep affection always fears misfortune (अतिस्नेहः पापशङ्की), while Śivasahāya remarks that the qualifier reveals Rāma's anxious love.
+
+_____________
+
+**41.7–8 (Fulfilling Every Pledge Before Death)**
+
+Śivasahāya and Rāma Varmā explain why Rāma says he would first slay Rāvaṇa, crown Vibhīṣaṇa, and install Bharata before abandoning his body (त्यक्ष्ये देहम्): even in grief for Sugrīva, Rāma could not leave his martial vow unfulfilled (प्रतिज्ञानिर्वाहार्थम्), let Vibhīṣaṇa's refuge fail (शरणागतिवैकल्यात्), or allow the ancestral Ikṣvāku realm to perish (कुलधर्मोच्छेदात्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -355,6 +385,14 @@ life."
 **8:** And having installed Bharata in the kingdom, I shall cast off my body, O mighty-armed one!’ To Rāma, who was speaking thus, Sugrīva replied:
 
 **9:** “Beholding Rāvaṇa, the abductor of your wife, O Rāghava, and knowing my own prowess (_vikramam ātmanaḥ_), how could I endure it, O hero?”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.9–10 (Sugrīva's Justification and लक्ष्मिसम्पन्नम्)**
+
+On Sugrīva's reply, _Tilaka_ and _Śiromaṇi_ gloss विक्रमम् as his capacity to crush the foe (परबलमर्दनसामर्थ्यम्), whereas Govindarāja, reading पौरुषमात्मनः, interprets it as the duty of a devoted servant (त्वद्दास्यरूपं पुरुषधर्मम्)—hence his act was service, not recklessness (दासस्य कर्मैतत् न तु साहसम्). Both _Tilaka_ and _Bhūṣaṇa_ note the _ārṣa_ vowel shortening in लक्ष्मिसम्पन्नम्, with Govindarāja citing Pāṇini's rule (इको ह्रस्वोऽङ्यो गालवस्य).
 </details>
 </details>
 
@@ -460,6 +498,14 @@ multitude of troops, drawing it up in a battle array and remain alert."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Occupying the cool waters and the fruit-bearing woods, let us divide this mighty host (_balaugham_) and stand marshaled in battle array (_vyūhya tiṣṭhāma_), O Lakṣmaṇa!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.11–12 (Securing Water, Woods, and Battle Array)**
+
+Glossing परिगृह्योदकं शीतम्, _Tilaka_ and _Bhūṣaṇa_ explain that Rāma directs Lakṣmaṇa to secure freshwater reservoirs and fruit-bearing groves for the army and to divide the troops into Garuda-like tactical formations (गरुडादिरूपेण स्थापयित्वा) under their respective commanders in view of the impending carnage (लोकक्षयसूचकं भयनिमित्तम्).
 </details>
 </details>
 
@@ -572,6 +618,14 @@ the earth trumpet."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For the winds blow harshly and the earth trembles; the mountain peaks quake and the earth-supporting mountains (_dharaṇī-dharāḥ_) roar.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.13–15 (Terrestrial and Atmospheric Portents)**
+
+Elaborating the omens of universal destruction (लोकक्षयसूचकम्), Śivasahāya interprets नदन्ति धरणीधराः as the roaring of the directional elephants that support the earth (धरणीधराः दिग्गजाः नदन्ति), whereas Govindarāja, reading पतन्ति धरणीधराः, takes it as mountains toppling without visible cause (अनिमित्तम्). On क्रव्यादसंकाशाः, Govindarāja glosses clouds shaped like carrion-hawks and vultures (श्येनादिसदृशसंस्थानाः) raining blood-mingled water.
 </details>
 </details>
 
@@ -728,6 +782,14 @@ facing the sun."
 
 Generating great terror, doleful beasts and birds (_mṛga-dvijāḥ_) of piteous cries, fierce and inauspicious, howl toward the sun (_ādityam abhivāśyanti_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.16–17 (Crying Beasts and Scorching Moon)**
+
+Glossing अप्रशस्ता मृगद्विजाः, _Śiromaṇi_ and _Bhūṣaṇa_ explain that tabooed jackals, vultures, and carrion-birds (गृध्रादिपक्षिणः, शृगालादयः) face the sun and utter piteous, terrifying cries (आदित्याभिमुखम्... नदन्ति). At night the moon, instead of cooling the world, radiates heat (सन्तापयति) with a black core and blood-red outer rim (कृष्णान्तो रक्तपर्यन्तश्च) as at the cosmic dissolution.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -812,6 +874,14 @@ And at night the moon, robbed of its luster and bordered with black and blood-re
 
 A small, rough, inauspicious, and deep-red halo (_pariveṣaḥ sulohitaḥ_) [rings the sun], and within the solar orb, O Lakṣmaṇa, a dark mark (_nīlaṃ lakṣma_) is seen.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.18 (The Solar Halo and Dark Spot)**
+
+On ह्रस्वो रूक्षः... परिवेषः, Govindarāja explains that the solar halo is contracted to a mere fathom's width (व्याममात्रः), lustreless (अस्निग्धः), and blood-red at its center, while a dark spot (नीलं लक्ष्म) like the moon's stain appears on the sun's disc—citing the _Chāndogyopaniṣad_ (यदादित्यस्य कृष्णं रूपम्) as interpreted in portent treatises (उत्पातप्रकरणे).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -886,6 +956,14 @@ to hasten a final dissolution of the world."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And the constellations (_nakṣatrāṇi_) do not shine properly; behold, O Lakṣmaṇa, all this advances as though proclaiming the end of the world-age (_yugāntam iva_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.19–20 (Dimmed Stars and Jackals' Howls)**
+
+Connecting the clauses of 6.41.19, _Tilaka_ and _Bhūṣaṇa_ explain that the constellations no longer display their normal brightness or courses (नक्षत्राणि यथाप्रकारेण न दृश्यन्ते, मलिनानि दृश्यन्ते), so that the entire array of bad omens (उक्तदुर्निमित्तजातम्) seems to announce the cosmic dissolution (लोकस्य युगान्तं शंसतीवाभिवर्तते). On 6.41.20, Govindarāja notes that mentioning jackals (शिवाः) separately after `beasts and birds' in verse 16 is not redundant, since vixens (शृगालकलत्राणि) are singled out as the worst of portents.
 </details>
 </details>
 
@@ -991,6 +1069,14 @@ become a slime of flesh and blood."
 
 Covered with crags, pikes, and swords hurled by monkeys and Rākṣasas, the earth will soon become a mire of flesh and blood (_māṃsa-śoṇita-kardamā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.21–22 (The Impending Mire of Flesh and Blood)**
+
+Śivasahāya explains that the earth, strewn with boulders, pikes, and swords cast by the two armies, will soon be churned into mud with gore (मांसादिविशिष्टा भविष्यति). On अभियाम, Govindarāja construes the verb as an imperative (लोट्) used in the sense of immediate present action (वर्तमानकाले लोट्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1094,6 +1180,14 @@ mountain-peak.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Speaking thus to Lakṣmaṇa, the heroic elder brother of Lakṣmaṇa, of mighty strength, swiftly descended (_avātarat_) from that mountain crest.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.23–24 (Descent from Suvela to the Main Host)**
+
+When Rāma descends from the summit of Suvela (तस्मात् सुवेलात्) and surveys his vast army below (ददर्श बलमात्मनः), Govindarāja deduces that only the chief leaders had ascended the Suvela plateau with Rāma in Sarga 40 while the main body of the monkey host had remained encamped at the mountain's base (बलमित्यनेन सर्वं बलं न सुवेलमारुहदिति गम्यते).
 </details>
 </details>
 
@@ -1207,6 +1301,14 @@ and commanded the army to advance, at the appropriate moment for the battle.
 
 Having marshaled the great army of the monkey king, Rāghava, knower of the proper time (_kālajñaḥ_), together with Sugrīva urged them forward to battle at the auspicious hour (_kāle_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.25–26 (Marching at the Auspicious Hour)**
+
+Glossing the repeated word काले in verses 25 and 26, Rāma Varmā explains that Rāma, who knows the science of time (कालज्ञः), marshals the army at the hour prescribed by astrological treatises (ज्योतिःशास्त्रोक्तकाले) and sets out at the moment propitious for victory as determined by breath-divination (स्वरशास्त्रोक्ते युद्धयोग्ये काले), while Govindarāja takes काले simply as early morning (प्रातःकाले).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1310,6 +1412,14 @@ accompanied that Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Vibhīṣaṇa and Sugrīva, Hanūmān, Jāmbavān, Nala, the king of bears, Nīla, and Lakṣmaṇa followed behind him (_anvayuḥ_) at that time.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.27–28 (The Vanguard and the Main Host)**
+
+On पृतनर्क्षवनौकसाम्, _Tilaka_ explicitly notes the _sandhi_ resolution into पृतना (`army', सेना) and ऋक्षवनौकसाम् (`of bears and monkeys', ऋक्षवनौकसां पृतनेति छेदः). While the chief counselors and commanders—Vibhīṣaṇa, Sugrīva, Hanūmān, Jāmbavān, Nala, Nīla, and Lakṣmaṇa—march immediately behind Rāma, the teeming host covers the earth in the rear.
 </details>
 </details>
 
@@ -1415,6 +1525,14 @@ and hundreds of well-grown huge trees.
 
 Monkeys resembling elephants, warders off of foes (_para-vāraṇāḥ_), seized mountain crags by the hundreds and tall-grown trees (_mahī-ruhān_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.29–30 (Mountain-Armed Warriors Reaching Laṅkā)**
+
+All three commentators gloss परवारणाः not as `supreme elephants' (which would duplicate कुञ्जरप्रख्याः in the same quarter-verse) but as `repellers of enemies' (शत्रुनिवारकाः / रिपुनिवारणसमर्थाः). Armed with hundreds of uprooted trees and mountain peaks, the host reaches the walls of Laṅkā in a short time.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1509,6 +1627,14 @@ _________________
 
 [Reaching Laṅkā,] garlanded with banners (_patākā-mālinīm_), lovely, graced with pleasure-parks and woods, having variegated ramparts (_citra-vaprām_), most difficult of access, with lofty walls and archways—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.31–32 (Investing the Citadel of Laṅkā)**
+
+Distinguishing उद्यान from वन in उद्यानवनशोभिताम्, Govindarāja glosses उद्यानम् as cultivated pleasure-gardens (कृत्रिमवनम्) and चित्रवप्राम् as having wondrous earthen ramparts (चित्रचयाम्), noting also the Vedic/_ārṣa_ shortening in the variant पताकमालिनीम् by Pāṇini's अन्येषामपि दृश्यते / अयाचोः संज्ञाछन्दसोर्बहुलम्. Both _Tilaka_ and _Bhūṣaṇa_ explain यथानिदेशं सम्पीड्य as blockading the city tightly without overstepping the stations assigned by Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1591,6 +1717,14 @@ Impelled by Rāma&#x27;s words, the forest-dwellers pressed tightly (_sampīḍy
 
 And Rāma, bow in hand, together with his younger brother, guarded and blockaded (_jugopa ca rurodha ca_) the northern gate of Laṅkā, which rose lofty as a mountain peak.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.33 (Why Both जुगोप and रुरोध)**
+
+Explaining the pair of verbs in जुगोप च रुरोध च, _Tilaka_ and _Bhūṣaṇa_ point out that Rāma simultaneously `blockaded' (रुरोध) the northern gateway of Laṅkā and `protected' (जुगोप) his own besieging monkey troops from enemy sallies (तद्द्वारनिरोधकमात्मबलं परपरिभवाद् ररक्ष). Govindarāja adds that blockading the gate of Laṅkā entails ascending the Trikūṭa plateau on which the city sits.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1627,6 +1761,14 @@ And Rāma, bow in hand, together with his younger brother, guarded and blockaded
 **34:** Rāma, the heroic son of Daśaratha, attended by Lakṣmaṇa, encamped closely (_upaniviṣṭaḥ_) against the city of Laṅkā ruled by Rāvaṇa—
 
 **35:** Stationing himself at the northern gate (_uttara-dvāram āsādya_), where Rāvaṇa himself abides; for none other than Rāma was capable of guarding that gate—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.34–36 (Why Rāma Takes the Northern Gate)**
+
+Verses 35–36 explain why Rāma himself takes charge of the northern gate (उत्तरद्वारम्): because Rāvaṇa resides in that quarter and commands its defense in person like Varuṇa presiding over the ocean (वरुणेनेव सागरम्), no warrior other than Rāma could withstand the onslaught from that gate.
 </details>
 </details>
 
@@ -1747,6 +1889,14 @@ Rama saw various types and multitude of weapons and shields kept there by the wa
 
 [Rāma beheld that gate,] which struck terror into the faint-hearted (_laghūnāṃ trāsa-jananam_) like Pātāla thronged with Dānavas, and where the warriors&#x27; many varied—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.37–38a (The Arsenal at the Northern Gate)**
+
+Completing the description of Rāvaṇa's northern gate from the preceding spread, the poet compares the gate bristling with Rākṣasa warriors and stacked arsenals of weapons and armor (आयुधजालानि तथैव कवचानि च) to the subterranean realm of Pātāla teeming with Dānavas (पातालमिव दानवैः), a sight terrifying to weak-hearted combatants (लघूनां त्रासजननम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1798,6 +1948,14 @@ halted before the Eastern gate.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Masses of weapons (_āyudha-jālāni_) and coats of mail were arrayed. Meanwhile, stationing himself at the eastern gate (_pūrvaṃ dvāram_), the monkey general Nīla—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.38c–41 (Assignment of the Four Gates and Center)**
+
+The narrative systematically maps the four-sided investment of Laṅkā: commander-in-chief Nīla supported by Mainda and Dvivida holds the eastern gate (पूर्वं द्वारम्); crown prince Aṅgada with Ṛṣabha, Gavākṣa, Gaja, and Gavaya holds the southern gate (दक्षिणद्वारम्); Hanūmān with Pramāthi and Praghasa guards the western gate (पश्चिमद्वारम्); and King Sugrīva commands the central reserve (मध्यमे गुल्मे).
 </details>
 </details>
 
@@ -2008,6 +2166,14 @@ Sugreeva was there, having exerted pressure on the demons occupying that post.
 
 Together with all the foremost monkeys, who resembled Suparṇa (Garuḍa) and the Wind-god; and thirty-six _koṭis_ of monkeys led by renowned troop-commanders [stood there].
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.42 (Thirty-Six Koṭis of Monkeys)**
+
+Connecting verse 42 with the opening of verse 43, Śivasahāya explains that thirty-six _koṭis_ (360 million) of monkeys under celebrated troop-leaders (प्रख्यातयूथपाः) take up their station where Sugrīva stands (यत्र सुग्रीवः तत्र निपीड्य उपनिविष्टाः), while _Tilaka_ notes that this figure counts only the elite divisions under famous commanders, the total host being beyond reckoning (सेनानां च गणनाभाव इति भावः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -2069,6 +2235,14 @@ each of his monkeys at each gate.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Pressing closely, they encamped where the monkey Sugrīva stood; and by Rāma&#x27;s command, Lakṣmaṇa together with Vibhīṣaṇa—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.43–45 (The Central Reserve and Crow's-Eye Maxim)**
+
+Explaining the station of the central division (मध्यमे गुल्मे), both _Tilaka_ and _Bhūṣaṇa_ situate it in the northwestern sector (वायुदिशि) between the northern and western gates, so that the reserve force can support both gates like the central gem of a necklace (मध्यमणिन्यायेन in _Tilaka_) or the rolling pupil of a crow's eye (काकाक्षिन्यायेन in _Bhūṣaṇa_). On पश्चिमेन तु रामस्य, all three commentators interpret पश्चिमेन as `closely supporting Rāma's rear' (पृष्ठभागावष्टम्भेन), while Govindarāja notes the _ārṣa_ masculine gender in द्रुमशैलाग्रान्.
 </details>
 </details>
 
@@ -2226,6 +2400,14 @@ trembling in every limb and had their faces set grimly.
 
 All had furiously twitching tails (_vikṛta-lāṅgūlāḥ_), all had fangs and claws for weapons, all had contorted, variegated limbs, and all had grimacing faces (_vikṛtānanāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.46 (Wrathful Gestures of the Monkey Host)**
+
+On the fourfold repetition of सर्वे विकृत-, _Tilaka_ and _Śiromaṇi_ attribute the monkeys' contorted tails and faces to surging battle-fury (क्रोधामर्षवशात्). Govindarāja specifies each trait: tails raised aloft (ऊर्ध्वप्रसारितपुच्छाः), limbs mottled and flushed with angry red eyes (कोपरक्तश्वसनेत्रत्वम्), and faces twisted into grimaces to mock the Rākṣasas (राक्षसविडम्बनाय कुटिलितमुखाः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2277,6 +2459,14 @@ equal to the strength of a thousand elephants.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Some possessed the strength of ten elephants (_daśa-nāga-balāḥ_), some ten times more than that, and some were equal in prowess to a thousand elephants.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.47–48 (Gradations of Elephant-Might)**
+
+Tracing the ascending scale of strength, the commentators explain that दशगुणोत्तराः means equal to a hundred elephants (शतनागबलाः), followed by a thousand elephants, an _ogha_-number of elephants (ओघसंख्याकनागबलाः), a hundred times an _ogha_, and finally warriors whose might defies all measure (अपरिच्छेद्यबलाः).
 </details>
 </details>
 
@@ -2398,6 +2588,14 @@ swarm of locusts.
 
 Wondrous and variegated was the muster (_samāgamaḥ_) of those monkey armies there, like the swarming up of locusts (_śalabhānām ivodgamaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.49–50 (The Locust Simile and Crowded Sky)**
+
+Glossing शलभानामिवोद्गमः, _Tilaka_ and _Bhūṣaṇa_ explain that the monkey armies descend simultaneously and terrifyingly like a plague of eight-legged locusts at a time of portent (उत्पातकाले / अष्टपादपतङ्गानाम् उद्यमः). On 6.41.50, all three commentators observe a distributive construction (_yathāsaṅkhya_): the earth is packed with the monkeys already encamped around Laṅkā (उपनिविष्टैः पृथिवी पूर्णा), while the sky is filled with those still leaping overhead for lack of room on the ground (भूमाववकाशाभावात् संपतद्भिः आकाशं पूर्णम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2501,6 +2699,14 @@ Lanka, while others proceeded to fight on every side.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A hundred hundred-thousands (_śataṃ śata-sahasrāṇām_)—a host of bears and forest-dwellers—approached the gates of Laṅkā, while others came from all sides eager to fight.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.51–52 (Detachments at the Gates and Courier Squads)**
+
+Both _Tilaka_ and _Bhūṣaṇa_ note that the ten million (शतं शतसहस्राणाम् = कोटिसंख्याः) bears and monkeys advancing on the gates are over and above the forces previously assigned (पूर्वनियुक्ताधिकाः). On अयुतानां सहस्रम् in verse 52, _Tilaka_ and _Śiromaṇi_ explain that another crore circulates around the city to relay intelligence between the four gates (सर्वद्वारस्थितस्वसेनादृष्टवृत्तान्तग्रहणार्थं संचरताम्).
 </details>
 </details>
 
@@ -2606,6 +2812,14 @@ holding tree trunks in their hands.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surrounded on all sides by powerful monkeys wielding trees in their hands (_druma-pāṇibhiḥ_), Laṅkā became impossible even for the wind to enter (_duṣpraveśāpi vāyunā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.53–54 (Laṅkā Sealed Against Even the Wind)**
+
+With tree-bearing monkeys ringing the ramparts of Mount Trikūṭa (स गिरिः त्रिकूटः), Laṅkā becomes impervious even to the wind (वायुनाऽपि दुष्प्रवेशा), throwing the besieged Rākṣasas (अभिनिपीडिताः उपरुद्धाः) into stunned amazement.
 </details>
 </details>
 
@@ -2721,6 +2935,14 @@ a roar in the ocean beating against its shore.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A mighty roar arose there from that surging host (_balaughasyābhivartataḥ_), like the roar of waters that would arise from the ocean when its bounds are rent (_sāgarasyeva bhinnasya_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.55–57 (The Bursting Ocean Simile—Abhūtopamā)**
+
+On सागरस्येव भिन्नस्य यथा स्यात् सलिलस्वनः, all three commentators point out that because the ocean never actually bursts its shores, the poet employs the optative यथा स्यात् (`as the roar of waters would be if the ocean's dam were breached', कृतसेतुविभेदनस्य / भिन्नमर्यादस्य)—a classic instance of hypothetical simile (अभूतोपमेयम्), where Govindarāja notes that यथा after इव is therefore not pleonastic (अतो न यथाशब्दवैयर्थ्यम्).
 </details>
 </details>
 
@@ -2858,6 +3080,14 @@ Protected by Rāma and Lakṣmaṇa, and by Sugrīva as well, that army became e
 
 **59:** Desiring to carry out the next immediate step (_ānantaryam abhiprepsuḥ_), knowing the true sequence and purpose of the four diplomatic expedients (_krama-yogārtha-tattvavit_), and mindful of the law of kings (_rāja-dharmam anusmaran_), with Vibhīṣaṇa&#x27;s concurrence—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.58–59 (The Four Upāyas and Royal Dharma)**
+
+Unpacking the pregnant political terms of verse 59, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain आनन्तर्यम् as the duty immediately following encirclement (अनन्तरकर्तव्यम्), and क्रमयोगार्थतत्त्ववित् as knowing the proper order and efficacy of the four royal expedients beginning with conciliation (सामाद्युपायानां क्रमप्रयोगं तत्साध्यमर्थं च वेत्ति). Rāma Varmā notes that Rāma remembers the royal rule never to inflict punishment (_daṇḍa_) while conciliation remains untried (सामादित्र्युपायसाध्येभ्यो दण्डो न मोक्तव्यः), while Govindarāja cites the chivalric norm that kings advancing on an enemy capital first summon the foe through an envoy (युद्धार्थं दूतमुखेन प्रथममाह्वयन्ति).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -2944,6 +3174,20 @@ following words:"
 **60:** He summoned Aṅgada, the son of Vālī, and spoke this to him: “Go, gentle prince (_saumya_), O monkey, and speak to Daśagrīva in my name (_mad-vacanāt_)—
 
 **61:** “Having leaped across the city of Laṅkā, casting off fear and free of anxiety (_gata-vyathaḥ_), [speak thus to him] who is stripped of fortune, bereft of sovereignty, and whose senses are lost in impending death (_mumūrṣā-naṣṭa-cetanam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.60 (Why Aṅgada Is Chosen as Envoy)**
+
+Govindarāja explains the contrast between सौम्य (`deliberated with his ministers', concluding that an envoy must be sent) and निश्चित्य (`settled repeatedly', determining that Aṅgada alone—not Hanūmān, who had already devastated Laṅkā—should be sent), while the vocative कपे hints at Aṅgada's natural capacity to leap over the city walls (लङ्घनसामर्थ्यं द्योतयति).
+
+_____________
+
+**41.61–63 (Fourfold Deprivation and Ripened Sin)**
+
+Reading the four epithets of 6.41.61cd as vocatives inside Rāma's message, Govindarāja traces a devastating four-step progression: Rāvaṇa's wealth is as good as gone (भ्रष्टश्रीक), his royal command is lost (गतैश्वर्य), his very hope of life has expired (मुमूर्षो), and even his final consciousness is gone (नष्टचेतन). All three commentators connect verses 62–63 (सार्धश्लोकद्वयमेकान्वयि): the inescapable retribution (व्युष्टिः फलभोगावसरः) for his outrages against sages, gods, and kings has arrived, shattering his pride in Brahmā's boon.
 </details>
 </details>
 
@@ -3043,6 +3287,14 @@ shall be subdued."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Wrought to fury by the abduction of my wife (_dārāharaṇa-karśitaḥ_), I, the Chastiser (_daṇḍa-dharaḥ_) of that [sin] of yours, stand stationed at the gate of Laṅkā wielding the rod of punishment!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.64–65 (Three Interpretations of पदवीं गमिष्यसि)**
+
+On पदवीं देवतानां... गमिष्यसि, the commentators offer three rich readings: (1) Govindarāja (reading मया हतः) takes पदवीम् as `humiliation' (तेषु कृतं परिभवं त्वमपि गमिष्यसि—you shall suffer the same defeat you inflicted on the gods and sages); (2) alternatively, Govindarāja and Śivasahāya take पदवीम् as `the celestial world' (परलोकम्), since dying bravely in battle (युधि स्थिरः) cleanses all sins; and (3) Rāma Varmā cites Manu's maxim (राजभिर्धृतदण्डास्तु कृत्वा पापानि मानवाः । निर्मलाः स्वर्गमायान्ति) to show that a sinner punished by the righteous king attains heaven.
 </details>
 </details>
 
@@ -3148,6 +3400,14 @@ all the royal sages."
 
 By whatever strength and conjuring trick (_māyayā_) you abducted Sītā after luring me away (_mām atikramayitvā_), O vilest of Rākṣasas, display that now!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.66 (Challenging Rāvaṇa's Stealth)**
+
+Glossing मायया मामतिक्रमयित्वा, Govindarāja points to the false golden-deer ruse of Mārīca (मारीचमायया मामपवाह्य) by which Rāvaṇa lured Rāma far from the hermitage, noting the _ārṣa_ use of _-ktvā_ for _-lyap_ in अतिक्रमयित्वा (ल्यबभाव आर्षः).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -3207,6 +3467,14 @@ Seetha away from me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Unless you come for refuge (_śaraṇam abhyeṣi_) bringing Maithilī with you, with my keen arrows I shall make this world devoid of Rākṣasas (_arākṣasam imaṃ lokam kartāsmi_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.67–69 (The Condition of Surrender and Vibhīṣaṇa's Right)**
+
+On मामुपादाय मैथिलीम्, Govindarāja explains that just as a gold-thief has no right to expiation without first restoring the stolen gold (स्वर्णस्तेये स्वर्णप्रत्यर्पणमन्तरेण प्रायश्चित्तानधिकारवत्), Rāvaṇa cannot claim sanctuary without returning Sītā; and should Rāvaṇa actually surrender, Rāma would give his own kingdom of Kosala to Vibhīṣaṇa (विभीषणाय कोसलराज्यं दास्यामि)! Contrasting Vibhīṣaṇa (धर्मात्मा) with Rāvaṇa (अविदितात्मना), _Tilaka_ and _Bhūṣaṇa_ show why Vibhīṣaṇa alone merits thornless sovereignty (अकण्टकम्).
 </details>
 </details>
 
@@ -3371,6 +3639,14 @@ you, cannot indeed enjoy the kingdom even for a moment, by this unrighteousness.
 
 Fight, summoning up your courage and relying on your valor, O Rākṣasa! Quieted (_śāntaḥ_) in battle by my arrows, you shall thereby become purified (_pūto bhaviṣyasi_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.70 (Purification Through Rāma's Arrows)**
+
+Preferring the reading युध्यस्व वा, Rāma Varmā notes the supreme compassion of the Lord (परमदयालुर्भगवान्): slain in battle by Rāma's sin-cleansing arrows (पापशोधनाधिकृतस्य मम शरैः), Rāvaṇa will be freed from the torment of egoism (अहंकारात्तापात् पूतो भविष्यसि), while Govindarāja remarks that dying face-to-face in battle is the warrior's universal expiation (युद्धे अपरावृत्त्या मृतेः सर्वपापप्रायश्चित्तत्वात्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3426,6 +3702,14 @@ your valour. Having been slain by my arrows in combat, you will be laid in peace
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even if, turning into a bird (_pakṣī-bhūtaḥ_), you enter the three worlds, O night-stalker, once you have come within range of my sight (_mama cakṣuḥ-patham prāpya_) you shall not return alive!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.71–72 (Living Funeral Rites and Last Look at Laṅkā)**
+
+Even if Rāvaṇa flies through the three worlds as a bird (पक्षीभूतः), he cannot escape Rāma's sight. Glossing क्रियतामौर्ध्वदेहिकम् and सुदृष्टा क्रियतां लङ्का, all three commentators explain the grim irony: since no one will survive to perform Rāvaṇa's obsequies after his death, he should perform his own afterlife gifts now (परलोकहितं दानादिकम्) and feast his eyes on Laṅkā for the last time (इतः परं दर्शनाभावात्).
 </details>
 </details>
 
@@ -3541,6 +3825,14 @@ be seen well by you (like your last sight), as your survival is in my hands."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Rāma of unwearied deeds (_akliṣṭa-karmaṇā_), that son of Tārā (_tāreyaḥ_) entered the sky and sped forth like the god of fire incarnate (_mūrtimān iva havyavāṭ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.73–75 (Aṅgada as Incarnate Fire)**
+
+Glossing मूर्तिमानिव हव्यवाट्, _Tilaka_ and _Bhūṣaṇa_ explain that Aṅgada hurtles through the sky like the fire-god Agni assuming a monkey's bodily form with hands and feet (वानरवेषोऽग्निः / करचरणादिमत्संस्थानवान् हव्यवाट्). Passing over the palace gateway in an instant (मुहूर्तेन अतिपत्य), the golden-armleted prince (कनकाङ्गदः) alights near Rāvaṇa, his radiant bearing (श्रीमान्) betokening his joy at fulfilling Rāma's mission.
 </details>
 </details>
 
@@ -3698,6 +3990,14 @@ king and stood there like a flaming torch.
 
 Having announced himself in person (_nivedyātmānam ātmanā_), he caused Rāvaṇa together with his ministers to hear that entire supreme message of Rāma, neither omitting nor adding a word (_anyūnādhikam_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.76–77 (The Ideal Envoy and Pointed Irony of यदि ते श्रोत्रमागतः)**
+
+All three commentators highlight अन्यूनाधिकम् as the hallmark of a faithful ambassador (_nisṛṣṭārtha_/_sandeśahāra_), delivering Rāma's exact words after introducing his own lineage (आत्मनो वालिपुत्रत्वादिनिवेदनपूर्वकम्). On यदि ते श्रोत्रमागतः (`if my name has reached your ears'), _Tilaka_ identifies the figure of feigned doubt regarding a well-known fact (असंदिग्धे संदिग्धवचनम्): since Rāvaṇa was once tucked under Vālī's arm, he knows Vālī's house all too well!
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3806,6 +4106,14 @@ Rama of imperishable exploits. Has my name ever reached your ears?"
 
 Rāghava Rāma, the enhancer of Kausalyā&#x27;s joy, says to you: ‘Come forth and fight against me, O ruthless one! Show yourself a man (_puruṣo bhava_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.78 (Rāma's Challenge to Come Forth)**
+
+Govindarāja notes the significance of the two epithets in 6.41.78ab: as राघवः (descendant of Raghu) Rāma will fight without deceit (छद्मना न योत्स्यते), and as कौसल्यानन्दवर्धनः he is sustained by his mother's blessings. On पुरुषो भव, _Tilaka_ and _Śiromaṇi_ gloss `be a hero, not a eunuch' (शूरो भव, अन्यथा क्लीबत्वं प्राप्स्यसि), while Govindarāja, reading पुरुषाधम, explains: if you do not sally forth when your city is besieged, you are the lowest of men.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -3867,6 +4175,14 @@ race!' "
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘I shall slay you (_hantāsmi tvām_) together with your ministers, sons, kinsmen, and relatives! Once you are slain, the three worlds will be free from dread (_nirudvignāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.79–81 (Uprooting the Thorn of the Worlds)**
+
+Concluding Rāma's message, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ gloss निरुद्विग्नाः as `free from fear' (निर्भयाः) and कण्टकम् as `tormentor' (बाधकम्), with the metaphor of a thorn naturally governing the verb उद्धरिष्यामि (`I shall pull out by the roots', उन्मूलयिष्यामि). Only by bowing down in contrition and respectfully restoring Vaidehī (सत्कृत्य क्षमापनं कृत्वा) can Rāvaṇa avert his death and the transfer of Laṅkā's throne to Vibhīṣaṇa.
 </details>
 </details>
 
@@ -4024,6 +4340,14 @@ and Vibhishana will become the king.'"
 
 While that bull among monkeys was speaking such harsh words, the lord of the night-stalker hosts fell under the sway of fury (_amarṣa-vaśam āpannaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.82–83 (Two Construals of दुर्मेधाः)**
+
+On verse 83, where enraged Rāvaṇa orders his ministers to seize and execute the envoy (गृह्यतामिति दुर्मेधा वध्यतामिति चासकृत्), Govindarāja offers two incisive construals of the nominative दुर्मेधाः (`evil-minded/foolish'): either it lies outside the quotation as the poet's judgment on Rāvaṇa himself for violating the law of nations that an envoy must not be slain (न दूतो वध्य इति शास्त्रानभिज्ञ इत्यर्थः), or it belongs inside Rāvaṇa's quote (`let this fool Aṅgada be seized').
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4131,6 +4455,14 @@ monkey be seized and put to death."
 
 Hearing Rāvaṇa&#x27;s command, four dreadful night-stalkers instantly seized him, who blazed with energy like a flaming fire (_dīptāgnim iva tejasā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.84 (Four Guards Seize Aṅgada)**
+
+Obeying Rāvaṇa's repeated command, four fierce Rākṣasa guards lay hold of Aṅgada, who blazes like fire (दीप्ताग्निमिव तेजसा—or in Govindarāja's reading दीप्ताग्निसमतेजसः, four guards themselves fierce as blazing fire).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -4191,6 +4523,14 @@ a blazing torch.
 
 To display his strength before the Yātudhāna host (_yātudhāna-gaṇe_), that self-possessed hero, the son of Tārā, deliberately allowed himself to be seized (_grāhayām āsa svayam ātmānam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.85 (Deliberate Submission to Display Might)**
+
+All three commentators explain why a warrior of Aṅgada's prowess allowed four guards to lay hands on him: self-possessed (आत्मवान् धृतिमान्), the son of Tārā voluntarily let them grasp his arms (स्वेच्छया ग्रहणं कारयामास / ग्रहीतुमनुमेने) solely to demonstrate his overwhelming physical might before Rāvaṇa's assembled court (यातुधानगणे स्वबलं दर्शयितुम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4242,6 +4582,14 @@ seized, in order to display his prowess before the host of demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Carrying off those [four] clinging to both his arms (_bāhu-dvayāsaktān_) as though they were birds (_patagān iva_), Aṅgada then leaped up onto the mountain-like palace.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.86–87 (Lifting the Guards Like Birds)**
+
+Treating the four massive Rākṣasas clinging to his two arms as effortlessly as if they were small birds (पतगानिव), Aṅgada vaults straight onto the roof of Rāvaṇa's mountain-like palace. By the sheer velocity of his leap (उत्पतनवेगेन), the four guards are flung loose (निर्धूताः प्रकम्पिताः) and crash to the ground while Rāvaṇa watches.
 </details>
 </details>
 
@@ -4346,6 +4694,14 @@ there under the eyes of their king.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the valorous son of Vālī strode (_cakrāma_) upon the pinnacle of the lord of Rākṣasas&#x27; palace, which rose lofty as a mountain peak.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.88–89 (Shattering the Palace Pinnacle)**
+
+Treading upon the lofty spire of Rāvaṇa's palace (प्रासादशिखरम्), Aṅgada stamps down with his foot (पदाक्रान्तम्) so that the tower splits into a hundred pieces (पफाल विभेद / शतधा बभूव) right before Daśagrīva's eyes, just as the peak of Mount Himavān was cloven in ancient times by Indra's thunderbolt (वज्रेणेव विदारितम्).
 </details>
 </details>
 
@@ -4461,6 +4817,14 @@ was shattered long ago by lightening - before Ravana's gaze.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having shattered the palace pinnacle and proclaimed his own name aloud (_nāma viśrāvya cātmanaḥ_), he uttered a tremendous roar and sprang up through the sky (_utpapāta vihāyasā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.90–91 (Aṅgada's Roar and Triumphant Return)**
+
+Having crushed the palace spire and shouted his own name aloud (आत्मनो नाम उच्चैः श्रावयित्वा) so that all Laṅkā knows who struck the blow, Aṅgada bounds back through the sky, striking terror into the Rākṣasas and gladdening the monkey host as he rejoins Rāma (रामपार्श्वमुपागतः).
 </details>
 </details>
 
@@ -4582,6 +4946,14 @@ had taken away your consort and being conscious of my own strength, how can I ac
 
 At the wrecking of his palace (_prāsāda-dharṣaṇāt_), Rāvaṇa was filled with extreme wrath; yet foreseeing his own destruction (_vināśaṃ cātmanaḥ paśyan_), he became given over to deep sighs (_niḥśvāsa-paramaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.92 (Rāvaṇa's Wrath and Foreboding Sighs)**
+
+Glossing विनाशं चात्मनः पश्यन् निःश्वासपरमोऽभवत्, _Tilaka_ captures Rāvaṇa's inner despair behind his fury at the wrecking of his palace (प्रासादभञ्जनात्): `A single envoy has overpowered my entire court and departed unharmed; when countless such warriors stand ready for battle, how can I survive?' (एकोऽपि समग्रं मम बलं पराभूय निर्भयं गच्छति, एवंविधेष्वनेकेषु सन्नद्धेषु कथं जीवनमिति पर्यालोचयन्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4633,6 +5005,14 @@ his own destruction, he became a desponded demon.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rāma, however, surrounded by many joyful, roaring leapers and eager for the slaying of his enemy (_ripu-vadhākāṅkṣī_), advanced strictly for battle.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.93–94 (Rāma Advances and Suṣeṇa's Patrol)**
+
+While _Tilaka_ and _Śiromaṇi_ note the augmentless _ārṣa_ imperfect अभिवर्तत (`advanced') upon Aṅgada's return (अङ्गदागमनं दृष्ट्वेति शेषः), Govindarāja argues that verse 94 (सुषेणस्तु... हरिः) must be construed as a complete sentence by supplying बभूव, lest हरिः in 94b and कपिः in 95b create a tautology (श्लोकेनैकवाक्यत्वे हरिकपिशब्दयोः पौनरुक्त्यं स्यात्).
 </details>
 </details>
 
@@ -4717,6 +5097,14 @@ surrounded by innumerable monkeys, who were bale to change their form at will.
 
 **95:** Securing the gates at Sugrīva&#x27;s command, that unassailable monkey [Suṣeṇa] patrolled around (_paryakrāmata_) like the moon moving among the constellations (_nakṣatrāṇīva candramāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.95 (Suṣeṇa's Lunar Patrol Around the Gates)**
+
+Glossing नक्षत्राणीव चन्द्रमाः, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain that Suṣeṇa makes rounds of all four gates at Sugrīva's bidding both to protect the besieging divisions and to gather intelligence (सर्वबलरक्षार्थं सर्वद्वारवृत्तान्तग्रहणार्थं च), moving from station to station just as the moon visits the twenty-seven lunar mansions (नक्षत्राण्यश्विन्यादीनि).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4768,6 +5156,14 @@ and wandering like a moon among the stars.
 **96:** Beholding a hundred _akṣauhiṇīs_ (_akṣauhiṇi-śatam_) of those forest-dwellers encamped around Laṅkā and stretching all the way to the ocean (_sāgaraṃ cābhivartatām_)—
 
 **97:** Some Rākṣasas were struck with amazement, others were seized with terror, and still others out of battle-ardor (_samare harṣāt_) felt only surging joy.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.96–97 (अक्षौहिणिशतम् and the Threefold Reaction)**
+
+Both _Tilaka_ and _Bhūṣaṇa_ note the _vṛddhi_ in अक्षौहिणी (अक्षादूहिन्याम् इति वृद्धिः) and the _ārṣa_ vowel shortening in अक्षौहिणिशतम्, signifying countless hosts stretching back to the ocean shore (सागरपर्यन्तमभिव्याप्य वर्तमानानाम्). Govindarāja distinguishes the three groups of Rākṣasas in verse 97: the calm (धीराः) marvel, the faint-hearted (अधीराः) tremble, and the battle-proud (समरोद्धर्षात्) rejoice.
 </details>
 </details>
 
@@ -4826,6 +5222,14 @@ at the prospect of fighting, leapt even in exultation.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For the dejected Rākṣasas beheld the entire space between the rampart and the moat (_prākāra-parikhāntaram_) filled with monkeys, and the rampart itself turned into monkeys (_vānarī-kṛtam_); seized with fear, the Rākṣasas raised cries of ‘Alas! Alas!’ (_hāhā-kāram akurvanta_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41.98–99 (The Rampart Turned into Monkeys)**
+
+On प्राकारं वानरीकृतम्, _Tilaka_ and _Śiromaṇi_ explain that the city wall appears as if built out of monkeys (वानररूपनिर्मितरूपमिव / वानरखचितमिव), while Govindarāja takes it as a second living rampart of monkeys filling the interval between wall and moat (प्राकारपरिखयोरन्तरालम् अपरमिव प्राकारं ददृशुः). Amidst the ensuing tumult, armed Rākṣasa warriors surge through the capital like doomsday gales (युगान्तवाता इव).
 </details>
 </details>
 

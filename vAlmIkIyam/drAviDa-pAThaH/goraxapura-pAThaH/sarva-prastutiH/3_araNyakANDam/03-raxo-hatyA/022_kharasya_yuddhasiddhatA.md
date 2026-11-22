@@ -1053,6 +1053,80 @@ to the notions of Khara. [3-22-22]
 
 Thereupon, discerning Khara&#x27;s intention (_kharasya matam ājñāya_), the charioteer urged on (_paryacodayat_) those dappled steeds decked in refined gold (_tapta-kāñcana-bhūṣitān_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.22.1–2 (Paronomasia on khara & lavaṇāmbha ivolbaṇam)**
+
+$18
+
+_____________
+
+**3.22.3–5 (paraśvadhahatasya & mandaprāṇasya)**
+
+On आत्मदुश्चरितैः (`3.22.3c`), _Tilaka_ and _Śiromaṇi_ note that Khara views Rāma's mutilation of Śūrpaṇakhā as the fatal offence (त्वद्विरूपकरणरूपैः). On परश्वधहतस्य (`3.22.5a`), _Tilaka_ observes that the battle-axe (परश्वधः कुठारः, _Bhūṣaṇa_) was Khara's primary weapon (परश्वधस्तस्य मुख्यमायुधमित्यनेन ज्ञायते), while _Bhūṣaṇa_ explains that Rāma is called मन्दप्राणस्य (“faintly breathing”) so that his blood will still be hot and red (औष्ण्यार्थमिदमुक्तं रक्तवर्णत्वार्थं च).
+
+_____________
+
+**3.22.6 (maurkhyāt)**
+
+On मौर्ख्यात्, both _Tilaka_ and _Bhūṣaṇa_ remark that out of unstable, fickle-minded folly (अव्यवस्थितचित्ततया, _Bhūṣaṇa_), Śūrpaṇakhā turned abruptly from reviling Khara to extolling him.
+
+_____________
+
+**3.22.7–9 (lokahiṃsāvihāriṇām & sarvodyogam)**
+
+**Govindarāja** (_Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_), and **Śivasahāya** (_Śiromaṇi_) construe verses 8–9 as a single syntactic sentence (श्लोकद्वयमेकान्वयि, _Śiromaṇi_). _Tilaka_ glosses लोकहिंसाविहारिणाम् as demons whose pastime is slaughtering living beings (लोकानां प्राणिनां हिंसैवासाधारण्येन विहारः क्रीडा येषाम्), and explains सर्वोद्योगं कारय as mobilizing all fourteen thousand warriors with fourfold forces and complete weaponry (चतुरङ्गबलोपेततया सर्वायुधसामग्रीसमेततया चोद्योगं कारय).
+
+_____________
+
+**3.22.10–11 (Fateful Irony in paulastyānāṃ vadhārtham)**
+
+On `3.22.11`, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) construe पौलस्त्यानामग्रे (“at the head of the Paulastya demons, for the slaying of Rāma”). **Govindarāja** (_Bhūṣaṇa_), however, discerns a fateful verbal omen (दैवी वाक्): because Rāma is invincible in battle, पौलस्त्यानाम् construes with वधार्थम्—Khara unwittingly marches forth “for the slaughter of the Paulastyas” (रामस्य रणजित्त्वात् पौलस्त्यानां वधार्थमिति दैवी वाक् भाविनी).
+
+_____________
+
+**3.22.12 (śabalaiḥ & ācacakṣe)**
+
+On शबलैः, all three commentators gloss variegated or dappled (चित्रवर्णैः, _Tilaka_; नानावर्णैः, _Bhūṣaṇa_, citing _Amarakośa_), while _Tilaka_ supplies उपस्थितमिति शेषः with आचचक्षे (“reported that the chariot stood ready”).
+
+_____________
+
+**3.22.13–15 (Khara's Golden Chariot)**
+
+On `3.22.13`, **Govindarāja** (_Bhūṣaṇa_) glosses असम्बाधम् as spacious (विस्तीर्णम्) and cites the _Amarakośa_ (कूबरस्तु युगंधरः) to define कूबरः as the chariot-pole supporting the yoke, whereas **Rāma Varmā** (_Tilaka_) takes it as dual (वैदूर्यमयौ कूबरौ युगंधरौ). On `3.22.14`, all three commentators note that काञ्चनैः and माङ्गल्यैः qualify all the embossed figures—fishes, blossoms, trees, mountains, moons, suns, birds, and stars (मत्स्यादिसर्वान्वयि, _Tilaka_)—wrought as auspicious ornaments (मङ्गलं चामलंकारस्तत्प्रयोजनैः, _Tilaka_). On किंकिणी, _Tilaka_ and _Śiromaṇi_ gloss small bells (क्षुद्रघण्टिका).
+
+_____________
+
+**3.22.16 (kharaḥ ... dūṣaṇaḥ)**
+
+Where the Southern text reads nominative खरस्तु and दूषणः with singular अब्रवीत्, **Rāma Varmā** (_Tilaka_) supplies च (दूषणश्चेत्यर्थः) and **Śivasahāya** (_Śiromaṇi_) explains that both leaders issued the marching order (खरो दूषणश्च), whereas **Govindarāja** reads रथस्थः.
+
+_____________
+
+**3.22.17–18 (South Indian Vernacular Weapon Glosses)**
+
+Linking verses 17–19 as one sentence (श्लोकत्रयमेकान्वयि, _Śiromaṇi_), **Govindarāja** (_Bhūṣaṇa_) provides Dravidian (Tamil) equivalents for the demon weapons: मुद्गरः is an iron mace (लोहमयगदा), पट्टिशः is _paṭṭayam_ (पट्टयमिति द्रमिडनामयुक्तः), तोमरः is _vaṭṭupam_ (वट्टुपमिति), and परश्वधः is _kuṇḍantī_ (कुण्डन्तीति द्रमिडनामा).
+
+_____________
+
+**3.22.19–20 (śaktibhiḥ & vajraiḥ)**
+
+Concluding his lexical notes on the demon weaponry, **Govindarāja** (_Bhūṣaṇa_) identifies शक्तिः with the Tamil _īṭṭī_ (इट्टीति द्रमिडनामकः), glosses अतिमात्रैः as huge (महद्भिः), and explains वज्रैः as eight-angled thunderbolt clubs (अष्टास्रायुधैः), which **Rāma Varmā** (_Tilaka_) similarly glosses as वज्राकारैरष्टास्रैरायुधैः.
+
+_____________
+
+**3.22.21–22 (The Advance of Khara's Chariot)**
+
+On किंचिज्जगाम तदनन्तरम् (`3.22.21d`), **Rāma Varmā** (_Tilaka_) explains that Khara's chariot initially moved only a short distance while waiting for the entire army to file out of Janasthāna (सर्वसेनानिर्याणं किंचित्कालं प्रतीक्ष्य जगामेत्यर्थः), while **Govindarāja** (_Bhūṣaṇa_) attributes the slow initial pace either to the crowd of troops (सेनासंमर्दादिति भावः) or to the absence of Khara's command (खरादिशाभावाद्वा). Once all the warriors had exited (सकलसैन्यराक्षसगमनानन्तरम्, _Śiromaṇi_), the charioteer perceived Khara's intent (यात्राभिप्रायम्, _Bhūṣaṇa_) and urged the steeds forward.
+
+_____________
+
+**3.22.23–24 (Textual Note on the Closing Stanzas)**
+
+On the closing couplet (`3.22.23–24`), **Rāma Varmā** (_Tilaka_) notes that **Kataka** regarded these two verses as an interpolation (संचोदित इत्यादि श्लोकद्वयं कतकव्याख्यारीत्या प्रक्षिप्तम्), whereas both **Govindarāja** and **Śivasahāya** comment upon them as authentic.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

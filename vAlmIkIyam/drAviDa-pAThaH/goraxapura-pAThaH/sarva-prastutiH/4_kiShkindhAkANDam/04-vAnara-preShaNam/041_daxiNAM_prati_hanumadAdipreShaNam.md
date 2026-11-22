@@ -2047,6 +2047,170 @@ called Rohita will be protecting that dangerous woodland of sandalwood trees. [4
 
 **41:** “Divine and shining like fire (_agnisamaprabham_), spring forth there; yet even upon beholding that sandalwood, it must never at any time be touched (_na... spraṣṭavyam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.41.1 (Selecting Tested Champions for the South)**
+
+Govindarāja introduces the forty-first _sarga_ as Sugrīva's dispatch of monkeys to the southern quarter (अथ दक्षिणदिशि वानरप्रेषणमेकचत्वारिंशे) and glosses अभिलक्षितान् as heroes whose valorous feats have already been witnessed (दृष्टापदानान्). Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) similarly explain the participle as those tested and determined to be capable of accomplishing the mission (कार्यक्षमत्वेन निर्णीतान्, कार्यसाधकत्वेन परीक्षितान्).
+
+_____________
+
+**4.41.2–5 (Distinguishing the Two Suṣeṇas and Two Aspects of Fire)**
+
+Addressing why सुषेण appears in both v. 3 and v. 4 (where Govindarāja reads विजयं), all three commentators point out that this Suṣeṇa is distinct from Tārā's father Suṣeṇa who leads the western party, so there is no repetition (द्वितीयः सुषेणः तारापितुरन्य इति न पौनरुक्त्यम्). On why Nīla is called अग्निसुतं (v. 2) while Ulkāmukha and Anaṅga are called हुताशनसुतावुभौ (v. 4), _Tilaka_ explains that _hutāśana_ denotes a specific ritual aspect encompassed within general _agni_ (अग्नित्वव्याप्यं हुताशनत्वमित्यग्निहुताशनयोर्भेदः).
+
+_____________
+
+**4.41.6 (Aṅgada as Supreme Commander)**
+
+Both _Tilaka_ and Śivasahāya gloss अग्रसरं as chief leader (मुख्यम्) of the southern expedition. Recording the variant महद्बलमसंगगम्, _Tilaka_ and Govindarāja explain असंगगम् as moving swiftly without hindrance or delay (असंकोचप्राप्तुमित्यर्थः, अविलम्बगामि वेगवदिति यावत्).
+
+_____________
+
+**4.41.7–8 (Why the Vindhya Is Counted in the South)**
+
+On कपिमुख्यानां तेषाम् (v. 7), Śivasahāya explains the genitive as either standing for the accusative object of समुदाहरत् or governed by an understood अग्रे (“before those monkey chiefs”). Explaining why the Vindhya—though lying north of Kiṣkindhā—heads the southern list, _Tilaka_ (अत्राप्यार्यावर्तापेक्षया दक्षिणत्वम्), Śivasahāya, and Govindarāja (पूर्ववन्मध्यदेशापेक्षया विन्ध्यस्य दक्षिणत्वव्यपदेशः) all observe that the four quarters are reckoned relative to Āryāvarta.
+
+_____________
+
+**4.41.9–11 (Western and Eastern Flanks of the Vindhya)**
+
+Śivasahāya notes that verses 8–12 form a five-verse syntactic unit (श्लोकपञ्चकमेकान्वयि) governed by अनुपश्यत. Govindarāja maps the geographical sequence: verses 8–10b enumerate the rivers, cities, and countries along the western and southern flanks of the Vindhya (विन्ध्यस्य पश्चिमभागस्थांस्तद्दक्षिणपार्श्वस्थांश्च), while from विदर्भान् (v. 10c) onward Sugrīva lists the lands along its eastern flank (पूर्वभागस्थान्देशानुपदिशति).
+
+_____________
+
+**4.41.12 (The Two Stretches of the Godāvarī)**
+
+Both _Tilaka_ and Govindarāja resolve the double mention of the Godāvarī in v. 9a and v. 12a: the first (ततो गोदावरीं रम्यां) designates the eastern Vindhya tributary section (विन्ध्यपूर्वपार्श्ववर्तिगोदावरीनदम्), whereas the second (नदीं गोदावरीं चैव) designates the main Godāvarī flowing through the Daṇḍaka forest (दण्डकारण्यवर्तिगोदावरीखण्डमित्यर्थः).
+
+_____________
+
+**4.41.13–15b (Mount Ayomukha, Malaya, and the Kāverī)**
+
+Both _Tilaka_ (अयोमुख इति मलयस्य नामान्तरम् सुचन्दनवनत्वलिङ्गात्) and Govindarāja (अयोमुखः मलयः) treat Ayomukha as another name for Mount Malaya, indicated by its fine sandalwood forests (सुचन्दनवनोद्देशः), whereas Śivasahāya distinguishes Ayomukha (v. 13) from Malaya (v. 14a, स महागिरिर्मलयो मार्गितव्यः। अयं पृथक्). There flows the Kāverī, where Apsarases sport (विहृताम्) or which they revere (Govindarāja's reading विहितां पूजितामित्यर्थः).
+
+_____________
+
+**4.41.15c–16 (Agastya's Hermitage on Mount Malaya)**
+
+Addressing how Agastya appears here on Mount Malaya after already being visited near Pañcavaṭī in the _Araṇyakāṇḍa_, both _Tilaka_ and Śivasahāya explain that there is no contradiction: either the great sage maintains hermitages in several regions just as Vālmīki does (वाल्मीकेरनेकदेशेष्वाश्रमवत्), or else another sage of the same name dwells there (तन्नामकऋष्यन्तरकल्पनाद्वा न पञ्चवटीप्रकरणाद्विरोधः).
+
+_____________
+
+**4.41.17–18 (The Maiden-River Tāmraparṇī)**
+
+_Tilaka_ explains प्रच्छन्नद्वीपवारिणी as having her islands and waters veiled by sandal trees—that is, keeping her body modestly covered (प्रच्छन्नशरीरेति यावत्)—which justifies the poetic simile (अत एव युवती कान्तेव) of a bashful young bride plunging into her beloved husband, the ocean (कान्तं समुद्रमवगाहते).
+
+_____________
+
+**4.41.18c–19 (Kapāṭapura of the Pāṇḍyas and Seaside Deliberation)**
+
+Construing 18cd with 19ab, _Tilaka_ and Śivasahāya explain पाण्ड्यानां कवाटं as the golden, pearl-decked city gate set in the ramparts of the Pāṇḍya kings (पुरद्वारि निविष्टं, पुरप्राकारघटितम्), while Govindarāja notes that “gate” metonymically denotes the Pāṇḍya capital city itself (अनेन नगरं लक्ष्यते), adorned with pearls because that coast is the native source of pearls (तदुत्पत्तिदेशत्वादिति भावः). Upon reaching the sea, the monkeys must deliberate on their capacity to leap across it (समुद्रतरणरूपे निश्चयं शक्ताशक्तनिश्चयं सम्प्रधार्य, _Tilaka_).
+
+_____________
+
+**4.41.20–22 (Mount Mahendra Placed by Agastya)**
+
+_Tilaka_ observes that Sugrīva now describes Mount Mahendra as the launching point for leaping the ocean (तत्र प्लवनसाधनभूतः पर्वत उपदिश्यते), placed by Agastya in the basin excavated by Sagara's sons (सागरसातसंबन्धिम्यन्तरेऽवकाशे) with one flank submerged in the sea (अवगाढः प्रविष्टैकपार्श्वः).
+
+_____________
+
+**4.41.23–24 (Indra's Visits and the Hundred-Yojana Island of Laṅkā)**
+
+On every _parvan_ day Indra visits that peak to bathe in the sea (समुद्रस्नानायागच्छति, Govindarāja), which _Tilaka_ notes explains the mountain's significant name _Mahendra_ (महेन्द्राधिष्ठितत्वादन्वर्थनामकत्वं महेन्द्रस्य सूचितम्). Across a hundred _yojanas_ on the farther shore lies the island of Laṅkā—surrounded on the north by Sagara's trench and on the south by the Salt Ocean (_Tilaka_)—where Sītā must be sought with every effort (सर्वात्मना सर्वप्रयत्नेन).
+
+_____________
+
+**4.41.25–26 (Rāvaṇa's Abode and the Shadow-Seizing Demoness Aṅgārakā)**
+
+Addressing why Sugrīva dispatches monkeys to the other three quarters if he already knows this southern island is Rāvaṇa's abode (एवं रावणालयावगमेऽपि), Śivasahāya explains that he fears the villain might have carried Sītā away to some other hiding place (स्थानान्तरे सीतामादाय खलः गच्छेदिति शङ्कयेति बोध्यम्). In the middle of the southern sea lurks the demoness Aṅgārakā, who immobilizes creatures by catching their shadows and devours them (छायामाक्षिप्य संगृह्य भोजिनी छायाबद्धजन्तुभक्षणशीला); Śivasahāya notes that Sugrīva warns them so that they cross with vigilance (तदुल्लङ्घनं सावधानतया कर्तव्यमिति सूचितम्).
+
+_____________
+
+**4.41.27 (Clearing Every Doubtful Place)**
+
+_Tilaka_ glosses संशयान् as regions subject to doubt (संशयविषयान्देशान्): by searching them thoroughly and rendering them free of doubt (निःसंशयान्सम्यगन्वेषणेन कृत्वा), the monkeys themselves become free of doubt (नष्टसंशयाः).
+
+_____________
+
+**4.41.28–30 (Mount Puṣpitaka's Golden and Silver Peaks)**
+
+A hundred _yojanas_ beyond Laṅkā in the sea rises Mount Puṣpitaka, gleaming like moonbeams and sunbeams because one of its sky-scraping peaks is golden, attended by the sun (दिवाकरः), and the other is silver, attended by the moon (निशाकरः); so sacred is this mountain that the ungrateful (कृतघ्नाः), the cruel, and atheists (नास्तिकाः) cannot behold it.
+
+_____________
+
+**4.41.31–32 (Revering Mount Puṣpitaka and Crossing to Sūryavān)**
+
+_Tilaka_ and Śivasahāya note that because Mount Puṣpitaka is presided over by the sun and moon, the monkeys must first bow to it (प्रणम्य शिरसा) before searching it. Beyond it, across an arduous fourteen-_yojana_ interval (पुष्पितकसूर्यवदोरन्तराल इति शेषः, Govindarāja), stands Mount Sūryavān, and beyond that rises Mount Vaidyuta.
+
+_____________
+
+**4.41.33–35 (Refreshment on Mount Vaidyuta and Agastya's Third Abode)**
+
+On Mount Vaidyuta, the monkeys may feast on roots and fruits worthy of the noblest (वराणां श्रेष्ठानामर्हाणीति वरार्हाणि, Govindarāja) and drink choice honey before advancing (परमग्रिमदेशं गच्छत, _Tilaka_) to Mount Kuñjara. There stands Agastya's golden mansion (शरणं गृहम्) built by Viśvakarman, which Govindarāja observes is the third residence of Agastya mentioned in the epic (इदं तृतीयमगस्त्यस्थानम्).
+
+_____________
+
+**4.41.36 (The Terrestrial Bhogavatī on Mount Kuñjara)**
+
+Addressing how the serpent city Bhogavatī—renowned as lying in Rasātala—is located here on Mount Kuñjara, _Tilaka_ (रावणस्य जनस्थानवत्सर्पाणामपि भोगवत्याख्यं पुरं भूमावप्यस्तीति) and Śivasahāya (भोगवत्यन्तरकल्पनया न दोषः) explain that just as Rāvaṇa maintains an outpost in Janasthāna and Agastya has multiple residences, the Nāgas also possess a terrestrial city named Bhogavatī on Mount Kuñjara.
+
+_____________
+
+**4.41.37–38 (Vāsuki's Citadel Bhogavatī)**
+
+Śivasahāya notes that verses 36c–37 form a single syntactic unit (सार्धश्लोक एकान्वयी) describing Bhogavatī with its broad streets (विशाला विस्तीर्णा रथ्या मार्गा यस्यां) guarded by venomous Nāgas under King Vāsuki. On निर्याय (v. 38c), Govindarāja glosses it as “having departed from Agastya's mansion” (अगस्त्यभवनान्निर्गत्य), whereas _Tilaka_ glosses it intensive-adverbially as “having gone thoroughly” (विशेषतो गत्वा).
+
+_____________
+
+**4.41.39–40a (Concealed Districts and Bull-Shaped Mount Ṛṣabha)**
+
+_Tilaka_ and Śivasahāya explain समावृताः as hidden or secret districts (गुप्ताः, अप्रकटाः) immediately adjoining Bhogavatī (अनन्तराः अव्यवहिताः). Beyond that region rises jewel-formed Mount Ṛṣabha, which both Śivasahāya (ऋषभाकृतिः) and Govindarāja (ऋषभतुल्यसंस्थानः) explain is named for its bull-like configuration.
+
+_____________
+
+**4.41.40b–41 (The Four Sacred Sandalwoods)**
+
+_Tilaka_ notes that गोशीर्षक and the rest are varieties of sandalwood (चन्दनभेदाः), whose four hues Govindarāja specifies: गोशीर्षकं is yellow like _gorocanā_ (गोरोचनासदृशवर्णं), पद्मकं is lotus-petal colored (पद्मदलसवर्णं), हरिश्यामं is dark-green like _tamāla_ leaves (तमालदलवर्णम्), and the fourth is fiery red (अग्निसमप्रभम्); Sugrīva strictly warns the monkeys never to touch this divine sandalwood.
+
+_____________
+
+**4.41.42–43b (The Five Rohita Gandharva Lords)**
+
+Both _Tilaka_ (तच्चन्दनास्पृष्टत्वे हेतुः रोहिता इति) and Śivasahāya (तत्र हेतुः-रोहिता नाम गन्धर्वास्तद्वनं रक्षन्ति) point out that v. 42 supplies the reason why the sandalwood on Mount Ṛṣabha must not be touched: it is guarded by fierce Gandharvas called Rohitas under five sun-bright Gandharva kings—Śailūṣa, Grāmaṇī, Śikṣa (or Śigru/Bhikṣu), Śuka (or Śubhra), and Babhru.
+
+_____________
+
+**4.41.43c–44b (The Realm of the Righteous at Earth's Southern Edge)**
+
+Both _Tilaka_ and Śivasahāya explain that beyond Mount Ṛṣabha (ततः ऋषभात्परतः), at the southern extremity of the earth (पृथिव्याः अन्ते), lies the dwelling of virtuous souls (पुण्यकर्मणां निवासः) whose bodies gleam like the sun, moon, and fire (रविसोमाग्निवपुषां), where unassailable conquerors of heaven (स्वर्गजितः) reside.
+
+_____________
+
+**4.41.44c–45 (Yama's Capital and the Southern Limit of Motion)**
+
+Beyond that realm lies the dread Pitṛloka, the capital of Yama enveloped in painful darkness (कष्टेन दुःखदेन तमसा आवृता), which the monkeys must not enter (न वः सेव्यः). Śivasahāya glosses एतावदेव as extending only up to the threshold of Pitṛloka (पितृलोकात् पूर्वमेव), beyond which living beings endowed with motion (गतिमतां जीवन्मनुष्यादीनामित्यर्थः) have no pathway.
+
+_____________
+
+**4.41.46–47 (The Reward of Equal Sovereignty)**
+
+Śivasahāya explains that after inspecting all the regions specified by Sugrīva (मद्बोधितं सर्वम्) and any others encountered along the route, and ascertaining Vaidehī's state (गतिं स्थितिं विदित्वा), the troop must turn back. Construing मासान्निवृत्तोऽग्रे (v. 47) in two ways, Śivasahāya explains that whichever monkey returns before the final day of the month (मासान्तदिनात् अग्रे पूर्वं निवृत्तः)—or returns within the month and is the first to report in Sugrīva's presence (अग्रे प्रथमं वक्ष्यति)—“Sītā has been seen!” will enjoy pleasures with sovereignty equal to Sugrīva's own (मत्तुल्यविभवः).
+
+_____________
+
+**4.41.48 (Dearer Than Life and Forgiven All Offenses)**
+
+Both Śivasahāya and Govindarāja explain ततः प्रियतरो नास्ति मम प्राणाद्विशेषतः as declaring that no one will be dearer to Sugrīva than the announcer of Sītā's discovery—indeed, he will be dearer even than Sugrīva's own life-breath (मम प्राणाद्विशेषतः सः प्रियतर इति शेषः). Even if he has committed many past offenses (बहुशः कृतापराधोऽपीत्यर्थः, _Tilaka_), Sugrīva will disregard his faults and treat him as a beloved kinsman (तदपराधं न गणयिष्यामीत्यर्थः).
+
+_____________
+
+**4.41.49 (Closing Exhortation in Aparavaktra Meter)**
+
+_Tilaka_ glosses लभध्वं in a future sense (लप्स्यध्वम्) and explains तदधिगुणं पुरुषार्थं as heroic exertion endowed with superior excellence (अधिकगुणोपेतं पुरुषयत्नम्), while Śivasahāya glosses it as effort commensurate with that noble goal (तदनुसारिणं पुरुषार्थम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

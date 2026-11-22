@@ -801,6 +801,224 @@ with yourself".
 
 “That hand of yours consecrated with Vedic mantras (_mantrakṛtaḥ pāṇiḥ_) which I clasped before the sacred fire, O sinful woman (_pāpe_)—I renounce it, together with you yourself and your son (_tava putraṃ saha tvayā_) begotten by me (_svajam_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.14.1–2 (विचेष्टमानम् and स्थित्याम्)**
+
+_Tilaka_ observes that Kaikeyī resolves to enforce her demand even if the king should die on the spot (मन्निमित्ततो राजा म्रियते चेन्म्रियतां नाम), comparing विचेष्टमानम् to the convulsive thrashing of a dying man (मरणकाल इव विकलहस्तपादादिचेष्टाम्). In v. 2, all three commentators cite the _Amarakośa_ (मर्यादा धारणा स्थितिः) to gloss स्थित्याम् as the moral boundary of keeping one's word (सत्यपरिपालनरूपायां मर्यादायाम्, _Bhūṣaṇa_).
+
+_____________
+
+**2.14.3–5 (Exemplars of truth despite mortal peril)**
+
+Anticipating the objection that keeping a promise cannot be obligatory when it threatens one's life (प्राणसंकटे कथं सत्यं पालनीयम्, _Bhūṣaṇa_), Kaikeyī cites King Śaibya—who gave his own flesh as a substitute for the dove sought by the hawk (श्येनभक्ष्यकपोतशरीरप्रतिनिधिभूतत्वेन, _Śiromaṇi_)—and King Alarka, who plucked out his eyes for a begging Brāhmaṇa.
+
+_____________
+
+**2.14.6 (The ocean's covenant)**
+
+_Tilaka_ explains समये as the swelling of the tide at moonrise (चन्द्रोदयरूपे वृद्धिसमयेऽपि), when the ocean still refuses to transgress its shore out of fear of forsaking truth (सत्यत्यागभयात्).
+
+_____________
+
+**2.14.7 (सत्यमेकपदं ब्रह्म)**
+
+_Tilaka_ and _Bhūṣaṇa_ offer two Upaniṣadic explanations of एकपदं ब्रह्म: either Brahman is denoted by the single syllable _Om_ (प्रणवस्यैकपदवाच्यत्वात्; cf. ओमित्येकाक्षरं ब्रह्म), which is identical with truthful speech (तत्सत्यवाक्यमेव), or taking एक in the _Amarakośa_ sense of “supreme” (मुख्यान्यकेवलाः), truth is the supreme goal (एकं मुख्यं पदं प्राप्यं ब्रह्म).
+
+_____________
+
+**2.14.9–10 (Threefold declaration and threat of स्त्रीवध)**
+
+In v. 9, Kaikeyī repeats her demand thrice (त्रिः खलु त्वां ब्रवीमि) to prove her unwavering resolve (स्वमनःस्थैर्यख्यापनाय, _Bhūṣaṇa_). In v. 10, _Tilaka_ notes that by threatening suicide before his eyes (तेऽग्रतो जीवितं त्यक्ष्यामि), she warns Daśaratha that breaking his pledge will incur the grave sin of slaying a woman (विपक्षे स्त्रीवधदोषश्चाधिकस्ते).
+
+_____________
+
+**2.14.11–12 (Bali's fetter and the trapped draught-ox)**
+
+_Tilaka_ and _Bhūṣaṇa_ explain इन्द्रकृतं पाशम् as the bond of three strides forged by Upendra (Vāmana) at Indra's instigation (इन्द्रद्वारोपेन्द्रकृतं पाशम्), while युगचक्रान्तरम् likens the king to an ox struggling awry (तिर्यक्वेष्टमानो धुर्य इव) between yoke and wheel.
+
+_____________
+
+**2.14.13–14 (Renunciation of the wedded hand)**
+
+All three commentators identify मन्त्रकृतः पाणिः as Kaikeyī's hand sanctified before the nuptial fire by the Vedic mantra _gṛbhṇāmi te_ (अग्निसन्निधौ गृह्णामि इति मन्त्रेण संस्कृतः). _Tilaka_ and _Bhūṣaṇa_ explain that by saying संत्यजामि, Daśaratha renounces all marital relation with her (तत्प्रयुक्तं व्यवहारं त्यजामि) along with Bharata, even though begotten by himself (स्वजं स्वस्माज्जातमपि).
+
+_____________
+
+**2.14.15–17 (Kataka vs. Tilaka on the consecration articles)**
+
+_Tilaka_ cites _Kataka_ and Maheśvara Tīrtha (इति कतकतीर्थौ) as taking v. 16 to mean the elders will press Daśaratha to crown Rāma, before offering his own preferred view (मम तु प्रतिभाति): if Kaikeyī blocks the consecration (व्याहन्तासि), the vessels gathered for Rāma's coronation will serve instead for the dead king's funeral obsequies (अभिषेकसामग्र्येव सलिलक्रियासामग्री भवतु, _Bhūṣaṇa_), from which she and Bharata are barred.
+
+_____________
+
+**2.14.18 (तथामुखम् vs. तथासुखम्)**
+
+_Tilaka_ reads तथामुखम् (“faces upturned and blossoming with joy”, ऊर्ध्वविकसितमुखम्) opposite अवाङ्मुखम् (“downcast”), concluding that death is preferable to facing the crestfallen citizens.
+
+_____________
+
+**2.14.19–20 (Why the night is called पुण्या)**
+
+_Tilaka_ explains that the night is called holy (पुण्या) either because its close ushers in the sacred morning rites or because it was spent in unceasing meditation upon Rāma (निरन्तररामचिन्तासमेतत्वात्), while _Bhūṣaṇa_ attributes its holiness to the imminent sight of Rāma (अनन्तरे रामदर्शनसंभवात्).
+
+_____________
+
+**2.14.21–22 (गररुजोपमम् and कृतकृत्यः)**
+
+On v. 21b, _Tilaka_ and _Bhūṣaṇa_ explain गररुजोपमम् as speech painful as poison-induced colic (गरो विषं रुजा शूलादि, _Tilaka_; विषजनितव्याधिसदृशम्, _Bhūṣaṇa_), and also record the variant अङ्गरुजोपमम् (taking अङ्ग as a vocative “O monarch!” or as “disease racking every limb”). In v. 22, _Tilaka_ dryly notes that कृतकृत्यः means the king may then perform his morning ablutions (कृतशौचादिकृत्यः), since she will not let him leave the chamber before granting her boon.
+
+_____________
+
+**2.14.23–24 (The goaded steed)**
+
+Just as a horse pricked by a sharp goad (तीक्ष्णप्रतोदप्रेरितो हयः) submits to its rider, Daśaratha yields slightly (रामविवासनं मनागवज्ञातम्, _Bhūṣaṇa_) and asks to see Rāma before his departure.
+
+_____________
+
+**2.14.25–26 (Vasiṣṭha's entry into the city)**
+
+_Tilaka_ and _Bhūṣaṇa_ infer from प्रविवेश पुरोत्तमम् that Vasiṣṭha had gone outside Ayodhyā at dawn to bathe and perform his morning rites in the Sarayū river (नगरबाह्यसरय्वां स्नानाद्यनुष्ठानं कृत्वा पुरीं प्रविष्टवान्, _Bhūṣaṇa_) before gathering the sacred grasses and vessels (संभारान् कुशादीन्, _Tilaka_). _Tilaka_ supplies दृष्ट्वा after प्रभातां रजनीम्, remarking that even the poet's deep absorption in the scene accounts for the elliptical phrasing (कवेरपि वर्णनीयमयीभावेन श्लोकाविष्करणात्).
+
+_____________
+
+**2.14.27–28 (संहृष्टमनुजोपेताम् and समृद्धविपणापणाम्)**
+
+_Tilaka_ glosses संमार्जनम् as sweeping away dust with brooms (मार्जन्या धूलिनिराकरणम्) and distinguishes विपणाः (articles for sale, क्रेयपदार्थाः) from आपणाः (market avenues, निषद्याः), while _Śiromaṇi_ construes verses 27–30 as a four-stanza syntactic unit (श्लोकचतुष्टयमेकान्वयि).
+
+_____________
+
+**2.14.29–30 (यष्टिमद्भिः)**
+
+_Tilaka_ explains यष्टिमद्भिः in two ways: either it qualifies the Brāhmaṇas carrying the bamboo staff prescribed for a _snātaka_ householder (धारयेद्वैणवीं यष्टिम् इति स्नातकधर्मप्रकरणोक्तेः), or it denotes the royal staff-bearers (यष्टिधारिभिः) guarding the palace courtyard.
+
+_____________
+
+**2.14.31–33 (Meeting Sumantra at the inner gate)**
+
+_Tilaka_ and _Śiromaṇi_ take विनिष्क्रान्तम् to mean Sumantra was coming out from the inner palace (अन्तःपुरादागच्छन्तम्) to the royal gateway (अन्तःपुरद्वारे), whereas _Bhūṣaṇa_ takes it as arriving from his own residence (स्वगृहादिति शेषः), decked in festive attire for the coronation (अभिषेकार्थमात्मानमलंकृतवान्).
+
+_____________
+
+**2.14.34 (औदुम्बरं भद्रपीठम्)**
+
+_Śiromaṇi_ notes that verses 34–41 form an eight-stanza syntactic unit (श्लोकाष्टकमेकान्वयि) linked by gender-and-number adaptation (लिङ्गवचनविपरिणामेन) to आहृतम् and तिष्ठन्ति. _Tilaka_ cites the _Bahvṛca Brāhmaṇa_ (_Aitareya Brāhmaṇa_) prescription for the royal consecration seat of _udumbara_ wood with span-high legs (औदुम्बर्यासन्दी तस्यै प्रादेशमात्राः पादाः इति बह्वृचब्राह्मणप्रसिद्धम्).
+
+_____________
+
+**2.14.35–36 (क्षौद्रम्, सुमनसः, and निस्त्रिंशः)**
+
+All three commentators gloss क्षौद्रम् as honey (मधु), सुमनसः as flowers (पुष्पाणि), कन्याः as virgin maidens (कुमार्यः), and निस्त्रिंशः as a sword (खड्गः). _Bhūṣaṇa_ also points out that the chariot and weapons in v. 36cd represent the sacred _Rathaghoṣa_ rite prescribed in the _Śruti_ (श्रुतिगताश्वयागरथघोषार्थम्).
+
+_____________
+
+**2.14.37–38 (नरसंयुक्तं वाहनम्, भृङ्गारम्, and हरिश्रेष्ठः)**
+
+_Tilaka_ and _Śiromaṇi_ gloss नरसंयुक्तं वाहनम् as a royal palanquin (शिविका) and भृङ्गारम् as a golden spouted ewer (कनकालुका स्वर्णकरकपात्रम्, _Tilaka_). On v. 38cd, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ record two interpretations: either the four-fanged maned lion (केसरी च चतुर्दंष्ट्रः) is itself the foremost of lions (हरिश्रेष्ठः), or केसरी denotes a lion while हरिश्रेष्ठः denotes a peerless steed (उत्तमाश्वः, _Tilaka_; अश्वोत्तमः, _Bhūṣaṇa_).
+
+_____________
+
+**2.14.39–40 (व्याघ्रतनुः and नैगमाः)**
+
+All three commentators gloss व्याघ्रतनुः as a tiger-skin (व्याघ्रचर्म) and नैगमाः as merchants (वणिजः; cf. _Amarakośa_: नैगमो वाणिजो वणिक्) accompanied by their respective guilds (स्वस्वगणैः, _Tilaka_). _Śiromaṇi_ notes that courtesans (वेश्याः) are mentioned separately from adorned matrons (स्त्रियः) to highlight their distinct auspicious role (स्त्रीभ्यो वैलक्षण्यद्योतनाय).
+
+_____________
+
+**2.14.41–42 (समुदितेऽहनि)**
+
+_Tilaka_ glosses समुदिते as “endowed with auspicious qualities” (उदितैर्गुणैः), while _Bhūṣaṇa_ renders it as “brightly dawned” (सम्यक्प्रकाशिते) so that Rāma may be crowned under the _Puṣya_ asterism.
+
+_____________
+
+**2.14.44–46 (पूर्वोदितम् and अजज्ञिवान्)**
+
+_Tilaka_ and _Bhūṣaṇa_ explain पूर्वोदितम् as referring to Daśaratha's standing royal order that the aged Sumantra must never be barred from entering (अयं कदापि न निवारणीय इति पूर्वमेव राज्ञा ज्ञापितम्, _Tilaka_; सर्वदा अनिवार्य इति राज्ञा पूर्वमुक्तम्, _Bhūṣaṇa_). Unaware of the terrible state brought about by Kaikeyī (कैकेयीकृतां घोरामवस्थामजज्ञिवान्, _Tilaka_), Sumantra begins his morning panegyric.
+
+_____________
+
+**2.14.47 (सागरो भास्करोदये)**
+
+_Tilaka_ explains that at sunrise the ocean gleams with the sun's reflected brilliance (पद्मप्रतिफलितरवितेजसा तेजस्वी सागरः) and delights bathers (स्नातुकामान्नन्दति नन्दयति), dismissing the view that भास्कर means the moon as contrary to usage (यत्तु भास्करश्चन्द्र इति तत्प्रसिद्धिविरुद्धम्). _Śiromaṇi_ records the view of some who split अभास्करोदये (“at the rising of the moon, which resembles the sun”), while _Bhūṣaṇa_ notes that the ocean shines brightly at sunrise too (भास्करोदयेऽपि समुद्रो भास्येव).
+
+_____________
+
+**2.14.48 (Mātali's dawn eulogy)**
+
+Just as Indra's charioteer Mātali praised Indra at dawn when he vanquished the Dānavas, Sumantra awakens the king for victory (दिग्विजयफलकं बोधनं ते करोमि, _Tilaka_).
+
+_____________
+
+**2.14.49–50 (The Vedas awakening Brahmā)**
+
+_Tilaka_ and _Bhūṣaṇa_ explain that at the dawn of creation the Vedas, together with their six _Vedāṅgas_ and _Mīmāṃsā_ sciences, awaken Brahmā by revealing the names, forms, and functions of all beings (वेदेभ्य एव भूरादीन्पदार्थान्ज्ञात्वा वेधास्तान्सृजति, _Tilaka_), with _Bhūṣaṇa_ quoting Manu (वेदशब्देभ्य एवादौ देवादीनां चकार सः). In v. 50, _Tilaka_ notes that at the conjunction of sun and moon on new-moon mornings (चन्द्रसहितो रविर्दर्शस्तमपास्य), the sun awakens all dwellers on earth.
+
+_____________
+
+**2.14.51 (कृतकौतुकमङ्गलः and मेरोरिव दिवाकरः)**
+
+_Tilaka_ and _Śiromaṇi_ cite the _Kośa_ (कौतुकं त्वभिलाषे स्यादुत्सवे नर्महर्षयोः) to gloss कौतुकम् as the coronation festival (अभिषेकोत्सवे) and मङ्गलानि as auspicious ornaments and robes. _Bhūṣaṇa_ construes मेरोः as a genitive of relation (मेरोः संबन्ध्यर्कावतारेति ज्ञेयम्).
+
+_____________
+
+**2.14.52–54 (भगवती रात्रिः)**
+
+_Bhūṣaṇa_ notes that the night is praised as भगवती (“blessed”) because it leads directly into the universal joy of Rāma's consecration (सर्वानन्दकररामाभिषेकमहोत्सवोपयुक्तत्वात्).
+
+_____________
+
+**2.14.55–57 (भविता राष्ट्रम् and सान्त्वपूर्वमिवार्थवत्)**
+
+Urging the king to appear before the waiting assembly, Sumantra warns that a state where the monarch is not seen is like a herd without a herdsman (अपालकाः पशवः). On सान्त्वपूर्वमिवार्थवत् in v. 57d, _Tilaka_ takes इव in the emphatic sense of एव (इवशब्द एवार्थे), whereas _Śiromaṇi_ explains that because a subordinate's petition is not strictly “consolation” (प्रार्थनावचनस्य सान्त्वनत्वाभावेन), it is described as _like_ soothing speech (सान्त्वनपूर्वकसदृशम्). _Bhūṣaṇa_ cites the _Amarakośa_ (साम सान्त्वम्) and notes that it is called अर्थवत् (“purposeful”) because morning awakening brings universal victory (प्रातःकालप्रबोधस्य सर्वविजयहेतुत्वात्).
+
+_____________
+
+**2.14.58 (सन्नहर्षः and शोकरक्तेक्षणः)**
+
+All three commentators gloss सन्नहर्षः as “whose joy has perished” (नष्टहर्षः, _Tilaka_ and _Bhūṣaṇa_; संभावितरामवियोगजनितनष्टानन्दः, _Śiromaṇi_), while _Tilaka_ explains शोकरक्तेक्षणः as having eyes reddened by weeping in grief (शोकजरोदनेन रक्तनेत्रः).
+
+_____________
+
+**2.14.59 (भूयो निकृन्तसि)**
+
+_Tilaka_ and _Bhūṣaṇa_ explain the force of भूयः (“yet again”): Daśaratha's vitals (मर्माणि), already gashed by Kaikeyī's cruel demands (कैकेयीवाक्यकृत्तानि मर्माणि), are now sliced open afresh by Sumantra's untimely panegyrics (पुनरधिकं स्तुतिवाक्यैरभिः अनुचितकालप्रयुज्यमानत्वात्).
+
+_____________
+
+**2.14.60 (किंचिदपाक्रमत्)**
+
+_Bhūṣaṇa_ notes that Sumantra steps back in fear (सम्भ्रान्तो भीतोऽपाक्रमत्) upon hearing the king's anguished cry, while _Śiromaṇi_ observes that किंचित् (“only a little”) shows his devoted reluctance to leave his master's side when the king is in distress (स्वामिभावे सेवकैर्न गन्तव्य इत्यभिप्रायः सूचितः).
+
+_____________
+
+**2.14.61–63 (मन्त्रज्ञा and Kaikeyī's fabrication)**
+
+_Tilaka_ and _Bhūṣaṇa_ explain that Kaikeyī is called मन्त्रज्ञा (“skilled in counsel”) because she cleverly devises a plausible pretext to advance her own scheme (स्वकार्यं साधयितुं वक्तव्यज्ञा, _Tilaka_; राजनीत्यनुसारेण स्वकार्योचितविचारज्ञा, _Bhūṣaṇa_). She falsely claims (अत एव मिथ्याप्याह, _Tilaka_) that the king's red eyes and stupor are due to keeping a joyful all-night vigil for Rāma's coronation (रामाभिषेकहर्षेत्यर्थः). _Śiromaṇi_ adds an ironic _praśleṣa_ reading अनिद्रावशम् (“succumbed to a swoon resembling sleep”).
+
+_____________
+
+**2.14.64 (Sumantra's protocol)**
+
+Addressing Kaikeyī as भामिनि (“wrathful lady”, प्रातीतिककोपविशिष्टे, _Śiromaṇi_), Sumantra refuses to depart without the king's direct order, hinting that he senses she is the cause of the king's grief (राज्ञः शोककारणं सुमन्त्रेण ज्ञातमिति ध्वनितम्).
+
+_____________
+
+**2.14.65 (कल्याणं मन्यमानः)**
+
+_Tilaka_ offers three explanations of कल्याणं मन्यमानः: either Sumantra hopes that once Daśaratha sees Rāma his affection will prevail (कदाचिद्रामं दृष्ट्वा तस्मिन्प्रीतिं करिष्यति), or he refers to the king's own thought that seeing Rāma at the hour of death is supreme auspiciousness (मृतिसमयत्वात्), or he deems the summons auspicious for the gods; hence he rejoices inwardly (हृदयेन ननन्द न तु बहिस्तल्लिङ्गम्).
+
+_____________
+
+**2.14.66–68 (आयस्यति and सागरह्रदसंकाशात्)**
+
+On v. 67b, _Śiromaṇi_ takes आयास्यति as “the king will come to the coronation hall” (अभिषेकशालायामायास्यति), whereas _Tilaka_ reads आयस्यति (“the king is exhausted and will likely not come outside himself”). All three commentators explain सागरह्रदसंकाशात् as comparing the inner chamber at the heart of the palace to a deep pool in the ocean (पुरान्तर्वर्त्यन्तःपुरत्वात्समुद्रस्थह्रदौपम्यम्, _Bhūṣaṇa_).
+
+_____________
+
+**2.14.69 (महाधनान्)**
+
+Emerging at the outer gate, Sumantra sees the royal officers (महीपतेर्द्वारगतान्, _Tilaka_)—or tributary kings (महीपतीन्, _Bhūṣaṇa_)—and wealthy citizens bearing tribute (उपहारपाणीन्, _Bhūṣaṇa_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

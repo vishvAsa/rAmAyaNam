@@ -84,6 +84,14 @@ thickets of forest trees and waited. [4-14-1]
 
 Having gone swiftly (_tvaritam gatvā_) to Kiṣkindhā, the city of Vālī (_vālinaḥ purīm_), all of them concealed themselves (_ātmānam āvṛtya_) among the trees and stood in the dense forest (_gahane vane_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.1–2 (Concealment in the Woods and Sugrīva's Rising Wrath)**
+
+On **14.1**, **Tilaka** and **Śiromaṇi** note that Rāma's party hid among the dense, impenetrable trees (गहने निबिडे दुष्प्रवेशे) to shield themselves from heat or detection (घर्मनिवारणार्थं). On **14.2**, **Śiromaṇi** explains that forest-loving Sugrīva cast his gaze everywhere and summoned intense wrath (क्रोधं भृशमत्यन्तमाहारयत्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +198,14 @@ Vali for fight. [4-14-3]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, surrounded by his attendants (_parivāraiḥ parivṛtaḥ_), he uttered a dreadful roar (_ninadam ghoram kṛtvā_) and challenged [Vālī] to battle (_yuddhāya cāhvayat_), as though splitting the sky with his cries (_nādair bhindann ivāmbaram_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.3–4 (The Thundercloud Roar and Rising-Sun Splendor)**
+
+Commenting on **14.3–4**, **Bhūṣaṇa** remarks that a storm-cloud preceded by wind-blasts (वायुवेगपुरःसरः) is proverbially louder (वायुवेगान्मेघे अधिको ध्वनिरिति प्रसिद्धिः). **Tilaka** and **Śiromaṇi** add that Sugrīva resembled the newly risen sun (बालार्कसदृशः) in both tawny redness and fiery valor (वर्णेन प्रतापेन च) and strode like a proud lion.
 </details>
 </details>
 
@@ -337,6 +353,14 @@ submitting himself, as a *kainkarya* to the patronage of Rama, like Lakshmana.
 
 **6:** “—we have arrived at Vālī&#x27;s city Kiṣkindhā (_prāptāḥ sma kiṣkindhām vālinaḥ purīm_), richly equipped with banners and war-engines (_dhvajayantrāḍhyām_)! That vow which was made by you (_pratijñā yā kṛtā tvayā_) of old, O hero, for the slaying of Vālī (_vālivadhe purā_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.5–6 (The Monkey-Snare and War-Engines of Kiṣkindhā)**
+
+Glossing **14.5c** (हरिवागुरया व्याप्तां), **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain that Kiṣkindhā is encircled by a hunting-snare formed of Vānara troops (हरय एव वागुरा मृगग्रहणपाशः तया व्याप्ताम्), rendering it impenetrable to outsiders (इतरदुष्प्रवेशामित्यर्थः), while ध्वजयन्त्राढ्याम् (**14.6a**) denotes ramparts armed with banners and _śataghnī_ engines (शतघ्न्यादिभिराढ्यां).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -399,6 +423,14 @@ Sugreeva. [4-14-7b, 8a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—make that [vow] bear fruit swiftly (_saphalām kuru tām kṣipram_), just as the arriving season (_kāla ivāgataḥ_) brings a creeper to fruit (_latām_)!” Thus addressed by Sugrīva, that righteous-souled Rāghava (_dharmātmā sa rāghavaḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.7–9 (The Season of Fruition and the Elephant-Named Creeper)**
+
+On **14.7a–b** (सफलां कुरु तां क्षिप्रं लतां काल इवागतः), **Tilaka** and **Śiromaṇi** explain the simile: just as the arriving monsoon season (आगतः कालः फलपाकसमय इव) brings a creeper to fruit, Rāma should make his vow bear fruit. On **14.8d**, **Tilaka** and **Bhūṣaṇa** gloss गजसाह्वया as the creeper named after the elephant (गजपुष्प्यामेव गजसाह्वशब्दः).
 </details>
 </details>
 
@@ -572,6 +604,20 @@ Vali by releasing a single arrow in fight. [4-14-10b, 11a]
 
 “—like the sun in the sky (_sūrya ivākāśe_) encircled by a garland of stars (_viparīto nakṣatramālayā_)! Today, O Vānara, your fear and enmity (_te bhayam vairam ca_) sprung from Vālī (_vālisamuttham_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.10a–b (Four Classical Explanations of the Sun Encircled by Stars)**
+
+On **14.10a–b** (विपरीत इवाकाशे सूर्यो नक्षत्रमालया), **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** record four ingenious interpretations: first, an imaginary simile (अभूतोपमा) of the sun surrounded (विशेषेण परीतः) by a garland of stars; second, the full moon at night called `the nocturnal sun' (राकामध्यगतश्चन्द्रः सूर्य इत्यभिधीयते); third, the midday sun surrounded by stars as a portent of a king's death (उत्पातचक्रकाले हि मध्याह्ने नक्षत्राणि दृश्यन्ते).
+
+_____________
+
+**14.10c–12 (Deliverance by a Single Shaft)**
+
+On **14.11a** (प्रमोक्ष्यामि), **Tilaka** and **Bhūṣaṇa** note the simple verb stands for the causative (प्रमोचयिष्यामि, `I shall rid you of fear and enmity'). On **14.12**, **Bhūṣaṇa** cites the Pāṇinian rule governing present tense चेष्टते/वेष्टते with यावत् (यावत्पुरानिपातयोर्लट्) to denote certainty in the immediate future.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -728,6 +774,14 @@ thereby be sure that Vali will be dispatched now, by my might. [4-14-13b, 14a]
 
 “—then you may impute fault to me (_tato doṣeṇa māgacchet_) and reproach me on the spot (_sadyo garhec ca mām bhavān_)! Before your very eyes (_pratyakṣam te_), seven _sāla_ trees were cloven by me with a single arrow (_sapta sālā mayā bāṇena dāritāḥ_);
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.13–14b (Permission to Reproach and the Proof of the Seven Sālas)**
+
+On **14.12c–13b** (ततो दोषेण मागच्छेत्), **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain Rāma's pledge: if Vālī comes within sight and returns alive, Sugrīva may immediately deem Rāma guilty (दोषेणोपलक्षितं मां भवान् गच्छेत् जानीयात्) and revile him (मां गर्हस्व चेत्यर्थः). The seven cloven _sālas_ guarantee Vālī's death.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -805,6 +859,20 @@ leave off your perplexity." [4-14-15b, 16a]
 **14:** “by that strength (_tena balena_), know that Vālī is slain in battle today (_avehi adya vālinam nihatam raṇe_)! Never before has an untruth been spoken by me (_anṛtam noktapūrvam me_), even when standing long in dire distress (_ciram kṛcchre &#x27;pi tiṣṭhatā_)—
 
 **15:** “—filled as I am with eager devotion to _dharma_ (_dharmalobhaparītena_), nor shall I ever speak one in any way (_na ca vakṣye kathaṃcana_)! Cast aside your trepidation (_jahi saṃbhramam_); I shall make my vow bear fruit (_saphalām ca kariṣyāmi pratijñām_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.14c–15b (Rāma's Unbroken Truthfulness and Eagerness for Dharma)**
+
+Glossing **14.14c** (अनृतं नोक्तपूर्वं मे), **Bhūṣaṇa** notes that enclitic मे functions as the instrumental agent मया (ते मयावेकवचनस्य इत्येतत्तृतीयायामपि दृश्यते), coordinating with तिष्ठता and धर्मलोभपरीतेन. **Tilaka** and **Śiromaṇi** gloss धर्मलोभेन as intense eagerness to protect _dharma_ (धर्मलम्पटतया; धर्मसंरक्षणवाञ्छायुक्तेन), even during mortal crises (प्राणसंकटेऽपि).
+
+_____________
+
+**14.15c–17 (Indra's Rain on the Rice-Field and Challenging Golden-Garlanded Vālī)**
+
+On **14.15c–16b** (प्रसूतं कलमक्षेत्रं वर्षेणेव शतक्रतुः), **Tilaka**, **Śiromaṇi**, and **Bhūṣaṇa** explain the simile: just as Indra brings a sprouted rice-field (कलमक्षेत्रमिति व्रीहिक्षेत्रमित्यर्थः) to fruit with rain, Rāma will fulfill his vow, urging Sugrīva to summon proud Vālī.
 </details>
 </details>
 
@@ -995,6 +1063,14 @@ a brawl, that too in the presence of ladies." So said Rama to Sugreeva. [4-14-18
 
 “That Vālī, who delights in battle (_priyasaṃyugaḥ_), will rush forth without delay (_niṣpatiṣyaty asaṅgena_); for having heard the defiance of their foes (_ripūṇām dharṣitam śrutvā_), [heroes] do not brook it in battle (_marṣayanti na saṃyuge_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.18–19 (Why Vālī Will Rush Forth Without Delay)**
+
+On **14.18–19**, the commentators note Rāma's psychological insight into heroic pride: because Vālī loves battle (प्रियसंयुगः) and knows his own strength, he will rush out immediately without hesitation (असङ्गेन), for heroes never tolerate an enemy's challenge—especially in the presence of their womenfolk (स्त्रीसमक्षं विशेषतः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1103,6 +1179,14 @@ own king. [4-14-20b, 21a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —roared with a fierce cry (_nanarda krūranādena_), as though splitting the sky in two (_vinirbhindann ivāmbaram_). Terrified by that sound there (_tatra śabdena vitrastāḥ_), cows fled, bereft of luster (_gāvo yānti hataprabhāḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.20–21 (Three Similes of Cosmic Panic at Sugrīva's Roar)**
+
+Commenting on **14.20c–21**, **Tilaka** and **Śiromaṇi** unpack the three vivid similes describing the terror caused by Sugrīva's roar: first, cows fled lusterless like noblewomen (कुलस्त्रिय इव) harassed by libertines when a king fails to protect his realm (प्रजारक्षणाभावरूपराजापराधेन परामृष्टाः); second, deer bolted like routed war-horses; third, birds fell like merit-exhausted heavenly bodies (क्षीणपुण्याः ग्रहा इव).
 </details>
 </details>
 
@@ -1240,6 +1324,14 @@ splashing waves drifted by gales. [4-14-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then that son of Sūrya (_sūryātmajaḥ_), whose fiery splendor was heightened by valor (_śauryavivṛddhatejāḥ_) and who was filled with confidence (_pratītaḥ_), swiftly loosed a roar (_nādam hy amuñcat tvarayā_) resounding like a thundercloud (_jīmūtakṛtapraṇādaḥ_), or like the lord of rivers [the ocean] with wind-tossed waves (_saritpatir vā &#x27;nilacañcalormiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14.22 (The Thundercloud and Wind-Tossed Ocean Roar)**
+
+On **14.22**, the commentators note that Sugrīva, the son of Sūrya (सूर्यात्मजः), whose fiery splendor was heightened by valor (शौर्यविवृद्धतेजाः) and who was confident in Rāma's promise (प्रतीतः), loosed a thunderous roar like a mass of storm-clouds (जीमूतकृतप्रणादः) or the ocean tossed by wind-driven waves (सरित्पतिर्वाऽनिलचञ्चलोर्मिः).
 </details>
 </details>
 

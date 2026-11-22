@@ -1250,6 +1250,134 @@ launching their atrocious arrows. [3-26-26, 27, 28]
 
 **28:** These twelve army-commanders of mighty valour (_dvādaśaite mahā-vīryā balādhyakṣāḥ_), together with their troops (_sasainikāḥ_), rushed straight at Rāma (_rāmam evābhyadhāvanta_), discharging foremost of arrows (_visṛjantaḥ śarottamān_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.26.1–2 (Dūṣaṇa's Five Thousand)**
+
+Linking verses 1 and 2 (सार्धश्लोक एकान्वयी, _Śiromaṇi_), **Govindarāja** (_Bhūṣaṇa_) observes that Dūṣaṇa's dispatch of five thousand warriors (पञ्चसाहस्रान्) implies that five thousand of the fourteen-thousand-strong host had already been slain in the preceding _sarga_ (पञ्चसाहस्री पूर्वं हतेति ध्वन्यते).
+
+_____________
+
+**3.26.3–4 (The Bull in the Rainstorm)**
+
+On प्राणहरम्, **Govindarāja** (_Bhūṣaṇa_) supplies “to others” (अन्येषामिति शेषः) and notes that धर्मात्मा rules out deceitful warfare (कूटयोधित्वव्युदासः). On निमीलित इवर्षभः, **Rāma Varmā** (_Tilaka_) pictures a bull closing its eyes under a rain-shower (वर्षधारया निमीलिताक्षः), while **Govindarāja** notes that the simile conveys Rāma's complete fearlessness and ease under the hail of missiles (शरवर्षेऽपि निर्भयत्वमनायासत्वं च द्योत्यते).
+
+_____________
+
+**3.26.5–6 (Compassionate Wrath)**
+
+**Śivasahāya** (_Śiromaṇi_) remarks that Rāma's wrath (क्रोधं परं लेभे) arises from compassion (कृपालुत्वम्) to eradicate the wicked _rākṣasas_ (राक्षसदुष्टत्वनिवर्तकम्), while **Govindarāja** glosses प्रदीप्त इव तेजसा as blazing with abundant native splendour (तेजोबाहुल्येन प्रदीप्त एव स्थितः).
+
+_____________
+
+**3.26.7–9 (Dismantling Dūṣaṇa's Chariot)**
+
+Linking 7cd–8ab, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss क्षुरेण as a razor-edged arrow (क्षुरधारेण बाणेन) that severed Dūṣaṇa's bow, while **Govindarāja** (_Bhūṣaṇa_) construes चतुर्भिः (“with four shafts”) with हत्वा चाश्वान्. On 9ab, all three clarify that neuter तद्रक्षः (Dūṣaṇa) is the object of विव्याध (तद्रक्षः कर्म व्यधने रामः कर्ता, _Tilaka_).
+
+_____________
+
+**3.26.10–11 (Dūṣaṇa's Iron-Spiked parigha)**
+
+**Govindarāja** (_Bhūṣaṇa_) derives परिघः as “that by which foes are struck on all sides” (परितो हन्यतेऽनेनेति परिघः) and glosses पट्टैः as golden bands (बन्धनैः). In वज्राशनिसमस्पर्शम्, _Bhūṣaṇa_ distinguishes वज्रम् (diamond, वज्राख्यरत्नम्) from अशनिः (Indra's thunderbolt, दम्भोलिः), both illustrating extreme hardness (तदुभयसदृशकाठिन्यम्).
+
+_____________
+
+**3.26.11d–12 (paragopuradāraṇam)**
+
+All three commentators explain परगोपुरदारणम् either as “shattering the city-gates (पुरद्वारविदारकम्) of foes” or, taking गो as sense-organs (इन्द्रियाणि) and पुरम् as the body (शरीरम्), “ripping open enemy bodies” (शत्रूणां गाव इन्द्रियाणि तेषां पुरं शरीरं तस्य दारणम्, _Tilaka_).
+
+_____________
+
+**3.26.13–14 (Severed Arms & Indra's Banner-Staff)**
+
+On सहस्ताभरणौ, **Govindarāja** (_Bhūṣaṇa_) observes that mentioning Dūṣaṇa's wrist-ornaments indicates he wore badges of martial honour (शौर्यबिरुदवत्त्वं लक्ष्यते). In verse 14, _Bhūṣaṇa_ construes महाकायः (“massive”, महाप्रमाणः) with the falling club (परिघः) compared to Indra's festival standard (शक्रध्वज इव), whereas **Śivasahāya** (_Śiromaṇi_) takes महाकायः as Dūṣaṇa's own torso falling while his club drops in front (परिघस्तु अग्रतः पपात).
+
+_____________
+
+**3.26.15–16 (The Tuskless Elephant & Celestial Acclaim)**
+
+**Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain the dual instrumentals कराभ्यां विकीर्णाभ्याम् and विषाणाभ्यां विशीर्णाभ्याम् as marking condition (उपलक्षितः): Dūṣaṇa fell lifeless (विगतासुरिति शेषः, _Tilaka_) like a proud (धीरः, _Bhūṣaṇa_) elephant whose tusks (दन्ताभ्याम्) are shattered.
+
+_____________
+
+**3.26.17–18 (The Three Vanguard Generals)**
+
+Linking verses 17–19ab, all three commentators note that Mahākapāla, Sthūlākṣa, and Pramāthī—Dūṣaṇa's vanguard commanders from Sarga 23—rush forward together because their doom is at hand (आसन्नमृत्यव इत्यर्थः, _Śiromaṇi_).
+
+_____________
+
+**3.26.19–20 (Hospitality with Arrows, atithīn iva)**
+
+On प्रतिजग्राह सम्प्राप्तानतिथीनिव, **Govindarāja** (_Bhūṣaṇa_) explains the double entendre: just as a householder welcomes arriving guests with cool water and courtesies (यथा गृहं प्राप्तानतिथीनुपचारैः प्रतिगृह्णाति), Rāma refreshed (तर्पयामास) the charging generals with whetted shafts heated by his fiery valour (शितैः बाणोष्णोदकैः).
+
+_____________
+
+**3.26.21–22b (Fitting Doom for Each General)**
+
+Unpacking that martial hospitality (प्रतिजग्राहेत्युक्तं विवृणोति, _Bhūṣaṇa_), Rāma severed Mahākapāla's skull, pulverized Pramāthī (चूर्णीचकार) with uncountable arrow-floods (संख्यातुमशक्यैः बाणौघैः, _Śiromaṇi_), and filled Sthūlākṣa's bulging eyes with arrows. **Govindarāja** notes that Sthūlākṣa's body bristling with shafts resembled a tree covered with branches (बाणैराचितत्वे चोक्तं विटपीति), while **Śivasahāya** (_Śiromaṇi_) takes सः collectively for the trio (सेनाग्रयायिसमूहः).
+
+_____________
+
+**3.26.22c–24 (Five Thousand Slain by Five Thousand Shafts)**
+
+On पञ्चसाहस्रान् ... पञ्चसाहस्रैः, **Rāma Varmā** (_Tilaka_) observes that slaying five thousand demons with five thousand arrows demonstrates the Lord's unerring shafts (भगवतोऽमोघेषुत्वं सूचितम्), while **Śivasahāya** interprets यमसादनम् as the supreme realm of beatitude (सकलसंपत्तिविशिष्टलोकविशेषमनयत्).
+
+_____________
+
+**3.26.25 (Khara's Command, hanadhvam)**
+
+On Khara's furious command हनध्वम् (“slay!”) after Dūṣaṇa's fall (सपदानुगः सापचरः अयं दूषणः निहतः, _Śiromaṇi_), **Govindarāja** (_Bhūṣaṇa_) glosses the verb simply as हत, while **Rāma Varmā** (_Tilaka_) notes the form as _ārṣa_ (हनध्वमित्यार्षम्) and **Śivasahāya** (_Śiromaṇi_) explains the retention of the class-marker शप् as due to the optionality of _gaṇa_ operations (गणकार्यस्यानित्यत्वात् शपो लुगभावः).
+
+_____________
+
+**3.26.26–28 (The Twelve Generals Charge)**
+
+Linking 26cd–28 (सार्धश्लोकद्वयमेकान्वयि, _Śiromaṇi_), **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** note that the twelve army-commanders (सेनाध्यक्षानेवाह, बलाध्यक्षाः) headed by Śyenagāmī—who had flanked Khara in Sarga 23—now charge Rāma together with their remaining divisions (ससैनिकाः, ससैन्यकाः).
+
+_____________
+
+**3.26.29 (Diamond-Decked Arrows)**
+
+On हेमवज्रविभूषितैः, **Govindarāja** (_Bhūṣaṇa_) glosses वज्रम् as diamond (वज्रमणिः), while **Śivasahāya** (_Śiromaṇi_) explains that after slaying the twelve generals and their divisions (ससैन्यबलाध्यक्षसहितखरप्रहरनानन्तरम्), radiant Rāma (तेजस्वी रामः) annihilated the remainder of the host (सैन्यस्य शेषं जघान).
+
+_____________
+
+**3.26.30–31 (Smoking Fires & karṇī Arrows)**
+
+On सधूमा इव पावकाः, **Govindarāja** (_Bhūṣaṇa_) observes that the simile suggests the arrows are ready to burst into consuming flame (सधूमा इत्यनेन दहनोन्मुखत्वं ध्वन्यते), and notes masculine वज्राः (उभयलिङ्गो वज्रः). On शतेनैकेन कर्णिना, **Rāma Varmā** (_Tilaka_) and **Govindarāja** explain कर्णिना as ear-shaped barbed shafts (कर्णाकारशरीरेण, _Bhūṣaṇa_), a hundred shafts slaying a hundred demons.
+
+_____________
+
+**3.26.32–33 (The Sacrificial Altar Simile, mahāvediḥ)**
+
+**Govindarāja** (_Bhūṣaṇa_) distinguishes छिन्न (severed in pieces, खण्डितम्) from भिन्न (split open, विदारितम्). On 33cd, **Rāma Varmā** (_Tilaka_) explains महावेदिः as the great altar of a horse-sacrifice (अश्वमेधादिवेदिः) carpeted with sacred _kuśa_ grass.
+
+_____________
+
+**3.26.34 (Mire of Flesh & Blood)**
+
+Both **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) analyze मांसशोणितकर्दमम् as a _bahuvrīhi_ describing the forest choked with a mud of flesh and blood (मांसशोणितैः कृतः कर्दमः पङ्को यस्य तत्), rendering it like hell (नरकतुल्यम्).
+
+_____________
+
+**3.26.35 (One Mortal on Foot Against Fourteen Thousand)**
+
+Marvelling at Rāma's feat (अद्भुतोक्तिः, _Bhūṣaṇa_; रामप्रभावस्याश्चर्येणाह, _Śiromaṇi_), **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) highlight the three contrasts in एकेन रामेण मानुषेण पदातिना: fourteen thousand demons were slain by a single hero (एकेन), in mortal guise (मानुषवेषेणापि, _Tilaka_), fighting on foot without chariot or mount (वाहनरहितेन, _Bhūṣaṇa_).
+
+_____________
+
+**3.26.36–37 (The Three Survivors & lakṣmaṇasyāgrajena)**
+
+Explaining why Rāma is counted among the survivors of “all that host” (तस्य सैन्यस्य सर्वस्य), **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) take सैन्यस्य as the entire body of combatants engaged in the battle (समवेतयुद्धप्रवृत्तस्य), leaving only Khara, Triśiras, and Rāma (खरादित्रयं शेषः). _Bhūṣaṇa_ adds that महासत्त्वाः implies Rāma slew only defiant warriors while sparing fleeing cowards like Akampana (केचन भीरवो न हताः), and that लक्ष्मणस्याग्रजेन points to Rāma's supreme Viṣṇu-nature (रामस्य विष्ण्वंशोद्भवत्वेनाधिकसत्त्वोक्तिः).
+
+_____________
+
+**3.26.38 (Khara's Advance)**
+
+In the closing _Vaṃśastha_ stanza, all three commentators gloss उद्यताशनिः as holding his thunderbolt aloft (उद्यतवज्रः) as Khara advances against Rāma.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

@@ -79,6 +79,14 @@ On hearing the wavery words of Dasharatha that are full of fond for his son,
 
 Hearing that speech of his, whose syllables were choked and faltering with paternal affection (_snehaparyākulākṣaram_), Kauśika (Viśvāmitra), filled with wrath (_samanyuḥ_), spoke in reply to the lord of the earth.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.1–2 (snehaparyākulākṣaram & viparyayaḥ)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja (_Bhūṣaṇa_)** gloss _snehaparyākulākṣaram_ as speech whose syllables faltered with paternal affection (_putrasnehena paryākulāni gadgadāni skhalanti akṣarāṇi yasmin_). On v. 2, **Tilaka** highlights the semantic repetition (_āvṛtti_) in _viparyayaḥ_: this breach of promise (_pratijñāhānirūpaḥ_) is unworthy of the Rāghavas because it brings ruin (_kulasyāsya viparyayo nāśaḥ_), while **Śiromaṇi** cites _saṃbhāvitasya cākīrtir maraṇād atiricyate_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -247,6 +255,14 @@ Hearing that speech of his, whose syllables were choked and faltering with pater
 
 “If this course seems fitting and bearable to you (_yadīdaṃ te kṣamam_), O King, I shall depart just as I came (_gamiṣyāmi yathāgatam_). With your pledge proven false (_mithyāpratijñaḥ_), O Kākutstha, live happily surrounded by your friends (_sukhī bhava suhṛdvṛtaḥ_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.3–4 (viparītalakṣaṇā & devānāṃ bhayam)**
+
+All three commentators identify _mithyāpratijñaḥ ... sukhī bhava_ as biting irony (_viparītalakṣaṇayoktiḥ_, **Tilaka**; _vyaṅgyoktiḥ_, **Govindarāja**). Why did the gods fear Viśvāmitra’s wrath in v. 4? **Govindarāja** and **Tilaka** recall his creation of a rival cosmos for Triśaṅku: “What will he do now?” (_pūrvaṃ kopenānyathākṛtajagad ayaṃ kiṃ kariṣyatīti bhayam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,6 +364,14 @@ On knowing the appalled appearance of the entire world at the fury of Vishvamitr
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Perceiving that the entire universe had grown utterly terrified (_trastarūpaṃ tu vijñāya jagat sarvam_), the great sage Vasiṣṭha, firm in vow (_suvrato_) and steadfast in mind (_dhīro_), spoke these words to the king:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.5–6 (dhīmataḥ & sākṣād dharma ivāparaḥ)**
+
+**Śiromaṇi** notes that _dhīmataḥ_ hints that Viśvāmitra’s wrath was a pedagogical display to sober the king (_rājñe bhayadānārtham eva kopavattvapratītiḥ_). Intervening to calm the crisis, Vasiṣṭha calls Daśaratha _sākṣād dharma ivāparaḥ_—a second Dharma incarnate (_dṛḍhāroparūpakam_, **Tilaka**).
 </details>
 </details>
 
@@ -458,6 +482,14 @@ Vasiṣṭha warns that breaking a pledged word destroys all merit of Vedic sacr
 
 “Renowned throughout the three worlds as ‘Rāghava, whose very soul is _dharma_’ (_dharmātmā iti rāghavaḥ_), uphold your own bounden duty (_svadharmaṃ pratipadyasva_); you ought not to bear the burden of unrighteousness (_nādharmaṃ voḍhum arhasi_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.7–8 (svadharma & iṣṭāpūrtavadha)**
+
+All three commentators gloss _svadharmam_ (v. 7) as fidelity to one’s pledged word (_satyapratijñatvam_) and define _iṣṭāpūrta_ (v. 8): _iṣṭam_ is Vedic sacrifice culminating in the _Aśvamedha_ (_iṣṭam aśvamedhānto yāgaḥ_), while _pūrtam_ is public philanthropy. **Govindarāja** cites the Smṛti: _vāpīkūpataḍāgādipratiṣṭhāsetubandhanam / annapradānam ārāmaḥ pūrtam ity abhidhīyate_. Their _vadhaḥ_ means the total loss and fruitlessness of those merits (**Tilaka**, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -565,6 +597,14 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 
 “Whether he is already trained in missiles or yet untrained (_kṛtāstram akṛtāstraṃ vā_), the rākṣasas will never be able to overpower him when he is guarded by Kuśika’s son (_guptaṃ kuśikaputreṇa_), any more than they could touch ambrosia encircled by blazing fire (_jvalanenāmṛtaṃ yathā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.9 (jvalanenāmṛtaṃ yathā)**
+
+**Govindarāja** and **Śiromaṇi** explain _jvalanenāmṛtaṃ yathā_ via the _Mahābhārata_ (_Ādiparvan_), where the gods’ _amṛta_ is guarded by a blazing wheel of fire (_agnicakrarakṣitatvaṃ bhārate vyaktam_), while _kṛtāstram akṛtāstraṃ vā_ intimates Rāma’s innate mastery of weapons (_rāmasya nityakṛtāstratvaṃ dhvanitam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -616,6 +656,14 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “He is _dharma_ incarnate in bodily form (_vigrahavān dharmaḥ_); he is the foremost of the mighty (_vīryavatāṃ varaḥ_); he surpasses all in the world in sacred knowledge (_vidyādhiko loke_), and he is the supreme abode of asceticism (_tapasaś ca parāyaṇam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.10–12 (Rāma-Viśvāmitra-śleṣa)**
+
+On vv. 10–11, **Tilaka** reveals a _śleṣa_ (_rāmaviśvāmitrayoḥ śliṣṭavarṇanena_) whereby _eṣaḥ_ applies simultaneously to Rāma (innately omniscient, _sahajajñānaśaktiḥ_, and the goal of _tapas_, whom no bound soul, _anyaḥ pumān_, fully knows) and to Viśvāmitra (the abode of asceticism and master of the missile-host denoted by _enam_).
 </details>
 </details>
 
@@ -770,6 +818,14 @@ Vasiṣṭha recounts the divine lineage of the hundred celestial missiles—bor
 
 “All those missiles—the supremely righteous sons of Prajāpati Kṛśāśva (_kṛśāśvasya putrāḥ paramadhārmikāḥ_)—were bestowed upon Kauśika in days of yore when he ruled his kingdom (_yadā rājyaṃ praśāsati_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.13–14 (kṛśāśvasya putrāḥ & Dual Lineage of the Missiles)**
+
+Explaining how Viśvāmitra possesses missiles unknown even to the gods, Vasiṣṭha traces both their paternal excellence (_pitṛprāśastyam_, v. 13) as sons of Prajāpati Kṛśāśva and their maternal excellence (_mātṛprāśastyam_, v. 14) as grandsons of Prajāpati Dakṣa (_prajāpatisutāsutāḥ_). **Tilaka** and **Śiromaṇi** supply _śivena_ with _dattāḥ_ (Lord Śiva bestowed them upon Kauśika during his royal reign), while **Govindarāja** supplies _kṛśāśvena_ and glosses _paramadhārmikāḥ_ as “never touching or serving a sinful wielder” (_pāpinam aspṛśanta ity arthaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -878,6 +934,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Jayā and Suprabhā were the two slender-waisted daughters of Dakṣa (_dakṣakanye sumadhyame_); those two gave birth to a hundred supremely radiant missiles and weapons (_śataṃ paramabhāsvaram_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.15–16 (jayā ca suprabhā caiva & aprameyān arūpiṇaḥ)**
+
+From Dakṣa’s two daughters Jayā and Suprabhā sprang a hundred personified weapons: Jayā bore fifty offensive missiles—glossed under the _Tilaka_/_Bhaṭṭa_ reading _aprameyān arūpiṇaḥ_ as immeasurable in potency and invisible in form (_adṛśyamānarūpān_), or under _kāmarūpiṇaḥ_ as assuming any form at will.
 </details>
 </details>
 
@@ -989,6 +1053,14 @@ _________________
 
 “And Suprabhā likewise gave birth to another fifty sons named the _Saṃhāras_ (‘Withdrawers/Destroyers’, _saṃhārān nāma_)—unassailable (_durdharṣān_), irresistible (_durākrāmān_), and exceedingly mighty (_balīyasaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.17–18 (saṃhārān & apūrvāṇāṃ janane)**
+
+Suprabhā bore fifty _Saṃhāra_ missiles—an etymological title (_anvarthasaṃhārasaṃjñān_, **Tilaka**, **Govindarāja**) denoting both their power to withdraw deployed missiles and their annihilation of _asura_ hosts. Moreover (v. 18), Viśvāmitra can generate entirely new celestial missiles (_apūrvāṇām astravidyāviśeṣāṇām_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1098,6 +1170,14 @@ Revealing that Viśvāmitra could easily subdue the rākṣasas himself and has 
 
 “Therefore, O Rāghava, nothing whatsoever—whether past (_bhūtam_) or future (_bhavyam_)—is unknown (_na kiñcid asty aviditam_) to this high-souled chief of sages who knows the essence of _dharma_.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.19–20 (bhūtaṃ bhavyaṃ ca & evaṃvīryaḥ)**
+
+Because Viśvāmitra possesses all hundred missiles of Kṛśāśva and can generate new ones at will, nothing in the past or future (_bhūtaṃ bhavyaṃ ca_) lies hidden from his omniscient vision; hence Daśaratha should entertain no doubt regarding Rāma’s safety.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1194,6 +1274,14 @@ Revealing that Viśvāmitra could easily subdue the rākṣasas himself and has 
 
 “Although the son of Kuśika is himself fully capable of subduing those rākṣasas (_teṣāṃ nigrahaṇe śaktaḥ svayaṃ ca_), it is solely for the welfare and glory of your son (_tava putrahitārthāya_) that he has come to you and entreats you (_tvām upetyābhiyācate_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.21 (tava putrahitārthāya)**
+
+Vasiṣṭha crowns his counsel by answering why Viśvāmitra needs young Rāma at all: **Śiromaṇi** explains the concessive particle _ca_ in the sense of _yady api_—“Even though Kuśika’s son is himself fully capable of subduing those rākṣasas (_teṣāṃ nigrahaṇe śaktaḥ svayaṃ ca_), he approaches and petitions you solely for your son’s supreme benefit (_tava putrahitārthāya_),” intending thereby to bestow his entire treasury of celestial missile-lore upon Rāma (_sakalāṃ svavidyām asmai samarpayiteti dhvanitam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1264,6 +1352,14 @@ Thus the prominent king from Raghu dynasty, namely Dasharatha, became serene-min
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With his heart thus pacified and gladdened by the sage’s words (_iti munivacanāt prasannacitto_), that bull of the Raghus and foremost of monarchs rejoiced (_raghuvṛṣabhaś ca mumoda pārthivāgryaḥ_); and of his own settled judgment (_buddhyā_), the king of far-flung renown gladly approved Rāghava’s departure (_gamanam abhiruroca rāghavasya_) with the son of Kuśika (_kuśikātmajāya_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21.22 (gamanam abhiruroca rāghavasya — Puṣpitāgrā Finale)**
+
+Reassured by his preceptor’s words (_iti munivacanāt prasannacitto_), King Daśaratha passes from anguish to joy (_mumoda_) and, with his discernment clear (_buddhyā_), gladly approves Rāma’s departure. **Tilaka** notes the Ārṣa active perfect _abhiruroca_ (for ātmanepada _abhiruruce_) and supplies _dātum_ with the dative _kuśikātmajāya_ (“to entrust Rāma to Kuśika’s son”).
 </details>
 </details>
 

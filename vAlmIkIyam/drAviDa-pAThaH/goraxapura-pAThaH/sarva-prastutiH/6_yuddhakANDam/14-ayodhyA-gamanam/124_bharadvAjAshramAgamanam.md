@@ -83,6 +83,14 @@ the sage.
 
 To Rāma, the tamer of foes, who had passed that night (_tāṃ rātrim uṣitam_) and risen refreshed (_sukhoditam_), Vibhīṣaṇa, with joined palms, wished victory (_jayaṃ pṛṣṭvā_) and spoke these words:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–3.**
+
+$18
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -236,6 +244,14 @@ All are safe at your home and in the city."
 
 Addressed thus, Kākutstha replied to Vibhīṣaṇa: “Do you invite (_upanimantraya_) the monkeys headed by Sugrīva for the ceremonial bath (_snānena_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4–5.**
+
+On v. 4, _Bhūṣaṇa_ explains that Rāma declines the royal bath for himself and instead directs Vibhīṣaṇa to honour Sugrīva and the chief Vānaras with the bath (स्नानेन हेतुना उपनिमन्त्रय). In v. 5, _Bhūṣaṇa_ and _Śiromaṇi_ unpack every epithet of Bharata to show why Rāma refuses luxury: Bharata is ever present in Rāma's thoughts (सः सर्वदा मनसि परिवर्तमानः), is afflicting himself through severe asceticism for Rāma's return (मम हेतोः मदागमनार्थं ताम्यति), and is bound by his solemn vow (सत्यसंश्रयः) to enter fire if Rāma does not return the moment the fourteen years expire.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -332,6 +348,20 @@ arose in me earlier."
 **6:** Without that righteous-living Bharata, the son of Kaikeyī, neither bath nor raiments nor ornaments are held in esteem by me (_na me snānaṃ bahu matam_)!
 
 **7:** “Look into this (_etat paśya_), whereby we may swiftly return (_kṣipraṃ pratigacchāma_) to that city; for this road of one travelling to Ayodhyā is exceedingly difficult to traverse (_paramadurgamaḥ_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.**
+
+On v. 6, _Bhūṣaṇa_ analyses Rāma's fourfold designation of his brother: without him (तं विना), how can Rāma bathe; as कैकयीपुत्रम्, Rāma owes him the same ungrudging love that Bharata showed despite his mother's plot; as भरतम्, he has borne the burden of the realm free from Rākṣasa peril; and as धर्मचारिणम्, while Bharata wears bark and matted locks in grief, Rāma cannot possibly abandon his own ascetic vow to enjoy royal baths and robes (प्रथमं मे स्नानमेव नेष्टं कथं तदनन्तरभावीनि वस्त्रादीनि).
+
+_____________
+
+**7–8.**
+
+On v. 7, **Śivasahāya** (_Śiromaṇi_) explains that because the overland route back to Ayodhyā is exceedingly arduous (परमदुर्गमः), Rāma asks Vibhīṣaṇa to devise a means by which they may reach the capital swiftly (येन प्रकारेण क्षिप्रं प्रतिगच्छाम तत् पश्य विचारय). Commenting on the reading इत एव पथा, **Govindarāja** (_Bhūṣaṇa_) notes that Rāma points toward the long path by which he came (येनाहमागतस्तेनेत्यर्थः), ready to set out on foot at once despite the hardship. In v. 8, Vibhīṣaṇa removes the difficulty of the journey (मार्गस्य परमदुर्गमत्वमूलं परिभवमाह) by promising to transport Rāma to Ayodhyā within a single day (अह्ना एकदिनेन).
 </details>
 </details>
 
@@ -432,6 +462,14 @@ Janasthana-forest in completely known to me, O Rama!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There is the celestial chariot named Puṣpaka (_puṣpakaṃ nāma vimānam_), bright as the sun—may auspiciousness attend you!—which belonged to my brother Kubera and by the mighty Rāvaṇa
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**9–11.**
+
+Construing verses 9–11 together, _Śiromaṇi_ and _Bhūṣaṇa_ explain how Vibhīṣaṇa anticipates Rāma's scruple: why had he not offered this aerial car earlier, and how could Rāma use property stolen by Rāvaṇa from Kubera? Vibhīṣaṇa replies that the Puṣpaka was kept safe specifically for Rāma's return journey (त्वदर्थं त्वद्गमनार्थं पालितम्), or kept waiting so that Rāma himself might authorize its return to Kubera (त्वदनुज्ञायार्थमेव). On v. 11, **Rāma Varmā** (_Tilaka_) notes the deictic pronoun इदम् ('this yonder'): because the Puṣpaka is towering as a mountain (अत्युन्नततया), it is visible even from the army camp outside Laṅkā (शिविरस्थैरपि दृश्यमानत्वादिति प्रत्यक्षनिर्देशः), while _Bhūṣaṇa_ takes मेघसंकाशम् as comparing its swiftness to a wind-borne cloud (वेगे दृष्टान्तः).
 </details>
 </details>
 
@@ -555,6 +593,20 @@ _________________
 
 **15:** Out of affectionate familiarity (_praṇayāt_), high reverence (_bahumānāc ca_), and heartfelt friendship (_sauhārdena_), O Rāghava, I entreat your grace (_prasādayāmi_); I am your servant (_preṣyo &#x27;ham_)—I do not presume to command you!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.**
+
+Having assured Rāma that the Puṣpaka can carry him to Ayodhyā in a single day, Vibhīṣaṇa now pleads in v. 12 that since no travel delay is to be feared, Rāma should grant him the grace (अनुग्राह्यः) of remaining just a short time (तावद् इह वस) to accept his hospitality.
+
+_____________
+
+**13–15.**
+
+$1b
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -643,6 +695,14 @@ and mother-land are far superior to even the heaven."
 
 **17:** “I have already been honoured by you, O hero, through your supreme counsel and alliance (_sācivyena pareṇa_), through your endeavours with your whole soul (_sarvātmanā ca ceṣṭābhiḥ_), and through your supreme friendship!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16–17.**
+
+On v. 16, _Bhūṣaṇa_ explains the genitive participle शृण्वताम् as a locative of attendant circumstance (भावलक्षणे षष्ठी, i.e., उपशृण्वत्सु): Rāma speaks aloud before all the Rākṣasas and Vānaras so that both armies may witness his esteem for Vibhīṣaṇa. On v. 17, _Tilaka_ and _Śiromaṇi_ gloss साचिव्येन as ministerial counsel and aid (मन्त्रसाहाय्यम्), and सर्वात्मना च चेष्टाभिः as heroic exertions of body, speech, and mind in battle (कायवाङ्मनोभिः कृतयुद्धचेष्टाभिः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -690,6 +750,14 @@ boon:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surely it is not that I would refuse (_na khalv etan na kuryām_) to fulfill this word of yours, O lord of the Rākṣasas; yet my heart hastens (_tvarate manaḥ_) to behold that brother of mine, Bharata—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18.**
+
+Both _Śiromaṇi_ and _Bhūṣaṇa_ link v. 18 with the following verses (19–20) as a single syntactic unit (श्लोकत्रयमेकान्वयि): Rāma assures Vibhīṣaṇa with a double negative (न खल्वेतन्न कुर्याम्) that he would never slight his request, yet his mind speeds ahead (त्वरते मनः) to see Bharata and his mothers.
 </details>
 </details>
 
@@ -760,6 +828,14 @@ fragrance of nectar, appear on them."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—he who came to Citrakūṭa to turn me back (_māṃ nivartayitum_), and whose words, though he entreated me with bowed head (_śirasā yācataḥ_), were not complied with by me,
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19–20.**
+
+Completing the sentence begun in v. 18, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain why Rāma cannot delay even for a moment to accept Vibhīṣaṇa's banquet (सत्कारस्वीकारे): Bharata had journeyed all the way to Citrakūṭa to bring Rāma home (मां निवर्तयितुं यश्चित्रकूटमुपागतः) and begged him with his head bowed to the ground (शिरसा याचतः), yet Rāma had refused his plea (यस्य वचनं मया न कृतम्). On v. 20, **Govindarāja** (_Bhūṣaṇa_) supplies the verb द्रष्टुं त्वरते मे मनः ('my heart hastens to behold') to govern Kausalyā, Sumitrā, Kaikeyī, the elders, friends, and citizens.
 </details>
 </details>
 
@@ -869,6 +945,14 @@ with foliage and further began to flow with honey.
 
 **22:** Bring forward (_upasthāpaya_) the celestial chariot for me swiftly, O lord of the Rākṣasas! Now that my task is accomplished (_kṛtakāryasya me_), how could lingering here be approved (_kathaṃ syād iha sammataḥ_)?”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21–22.**
+
+On v. 21, _Tilaka_ glosses अनुजानीहि माम् as 'give me leave to depart' (गमनाय आज्ञापय) and अनुमानये as 'I pray that you remain pleased in mind' (हृष्टानुमतिको यथा भवसि तथा प्रार्थये). _Bhūṣaṇa_ adds that Rāma counts Vibhīṣaṇa's gift of the Puṣpaka as the highest hospitality already received (पूजितोऽस्मि विमानप्रदानेनेति शेषः), and defines मन्युः as either dejection or anger (दैन्यं कोपो वा). On v. 22, _Bhūṣaṇa_ explains that once Rāma's fourteen-year exile is finished and his task fulfilled (कृतकार्यस्य मे), staying even half a day longer in Laṅkā cannot be approved (अर्धदिनमप्यत्र स्थातव्यमित्यस्योत्तरमाह).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -938,6 +1022,14 @@ at will, thousands of many of those wonderful fruits.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus by Rāma, Vibhīṣaṇa, the lord of the Rākṣasas, filled with haste (_tvarānvitaḥ_), summoned that celestial chariot bright as the sun (_vimānaṃ sūryasaṃkāśam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23–24.**
+
+In v. 23, Vibhīṣaṇa immediately summons the sun-bright Puṣpaka (विमानं सूर्यसंकाशमाजुहाव). Both _Śiromaṇi_ and _Bhūṣaṇa_ construe verses 24–29 as a single ornate syntactic period (श्लोकषट्कमेकान्वयि) describing the chariot: its frame is wrought of wondrous gold (काञ्चनमयविचित्रावयवम्), its platforms set with cat's-eye gems (वैदूर्यमणीनां वेदिका यस्मिन्), and its decks ringed with upper chambers or pavilions (कूटागारैः शालागृहैः, _Tilaka_; मण्डपैः, _Bhūṣaṇa_).
 </details>
 </details>
 

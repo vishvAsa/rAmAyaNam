@@ -104,6 +104,14 @@ While the waters of Ganga are inundating those ashes, oh, Rama, then
 
 **2:** When the ashes were inundated (_bhasmany athāplute_), O Rāma, by the waters of Gaṅgā (_gaṅgāyāḥ salilena vai_), Brahmā, the Lord of all the worlds (_sarvalokaprabhur brahmā_), spoke these words to the king:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.1–2 (bhūmes talam & Narrative Expansion)**
+
+**Govindarāja (_Bhūṣaṇa_)** and **Rāma Varmā (_Tilaka_)** note that Sarga 44 expands what was concisely summarized at the close of Sarga 43 (_pūrvasargānte saṃkṣepeṇoktaṃ vistṛṇīte_), while **Śiromaṇi** explains that the poet repeats the inundation of the ashes here specifically to introduce Lord Brahmā’s colloquy with Bhagīratha. Both **Tilaka** and **Govindarāja** gloss _talaṃ bhūmeḥ_ as Pātāla/Rasātala.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -152,6 +160,14 @@ Oh, tigerly-man Bhageeratha, the sixty thousands sons of great souled
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Delivered from their spectral state (_tāritāḥ_), O tiger among men (_naraśārdūla_), the sixty thousand sons of the high-souled Sagara (_ṣaṣṭiḥ putrasahasrāṇi sagarasya mahātmanaḥ_) have ascended to heaven like gods themselves (_divaṃ yātāś ca devavat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.3–4 (tāritāḥ & Eternal Heaven)**
+
+**Tilaka** and **Govindarāja** gloss _tāritāḥ_ as liberated from their spectral condition (_pretatvān mocitāḥ_), **Tilaka** observing that if Gaṅgā’s contact with mere ashes bestows heaven, how much more potent is the immersion of bones or living bodies (_bhasmano ’pi gaṅgāsparśasya pāvanaṃ kim utāsthipuṃprakṛteḥ_). Because Gaṅgā herself filled Sagara’s ocean-basin, their heavenly residence is coextensive with the ocean’s waters (**Tilaka**).
 </details>
 </details>
 
@@ -256,6 +272,14 @@ Otherwise, 'by your fatherhood she will be called Bhaageerathi and your
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And this Gaṅgā shall become your eldest daughter (_iyaṃ ca duhitā jyeṣṭhā tava gaṅgā bhaviṣyati_), and she shall endure in the world renowned by the name derived from your own deed (_tvatkṛtena ca nāmnātha loke sthāsyati viśrutā_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.5–6 (Bhāgīrathī & Tripathagā)**
+
+Because Bhagīratha laboured for her descent, Gaṅgā becomes his eldest daughter (_duhitā jyeṣṭhā_) and bears the patronymic _Bhāgīrathī_. **Śiromaṇi** explains _trīn patho bhāvayantī_ as coursing through and purifying the paths of all three worlds (_lokatrayavartinaḥ patho mārgān bhāvayantī_) or leading Bhagīratha along her course.
 </details>
 </details>
 
@@ -372,6 +396,14 @@ You may now offer water-oblations to all of your forefathers in the
 
 “Here in these waters, O lord of men (_tvam atra manujādhipa_), perform the funeral water-libation for all your grandfathers (_pitāmahānāṃ sarveṣāṃ kuruṣva salilam_), O King, and bring your solemn pledge to completion (_pratijñām apavarjaya_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.7 (kuruṣva salilam & pratijñām apavarjaya)**
+
+**Tilaka** explains why the ancestral water-libations (_udakakriyā_) could only now be performed: until Gaṅgā’s waters washed away the taint of Kapila’s curse, the slain princes lacked the expiation required to receive obsequial water (_gaṅgājalasekato jātaprāyaścittatvāt saliladānayogyatāsaṃpatteḥ_). To ‘discharge the pledge’ (_pratijñām apavarjaya_) is to bring to completion the vow inherited from Garuḍa’s counsel.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -421,6 +453,14 @@ Your ancestor Sagara is a highly glorious one and a best one
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Even by that ancestor of yours of exceeding renown (_pūrvakeṇa hi te rājaṃs tenātiyaśasā tadā_), the foremost of the righteous (_dharmiṇāṃ pravareṇātha_), this cherished desire was not attained (_naiṣa prāpto manorathaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.8–11 (Three Generations of Unfulfilled Longing)**
+
+Brahmā magnifies Bhagīratha’s achievement by contrasting it with his three great forebears: Sagara (_pūrvakeṇa_, where **Tilaka** detects a faint diminutive nuance in _-ka_), Aṃśumān (_apratimatejasā_), and Dilīpa, whom Brahmā praises as equal to himself in penance (_mattulyatapasā = brahmatulyatapasā_, **Tilaka**). On _na śaṅkitā netum_ (v. 11), **Govindarāja** glosses ‘could not even be conceived of as brought’ (_na vicāritā_), while **Śiromaṇi** reads _na śakitā_ (‘could not be brought’).
 </details>
 </details>
 
@@ -585,6 +625,14 @@ But, you have accomplished that pledge, oh, the best one among men,
 
 “That very pledge has been fully accomplished by you (_sā tvayā samatikrāntā pratijñā_), O bull among men (_puruṣarṣabha_), and you have attained supreme renown in the world, honoured by the highest (_prāpto ’si paramaṃ loke yaśaḥ paramasaṃmatam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.12 (samatikrāntā pratijñā)**
+
+Both **Tilaka** and **Govindarāja** gloss _samatikrāntā_ as ‘crossed over, fulfilled to the end’ (_nistīrṇā_), earning Bhagīratha glory esteemed by the highest sages (_paramasaṃmatam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -641,6 +689,14 @@ That 'Descent of Ganga' is perfected by you, oh, enemy-represser,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And through this descent of Gaṅgā accomplished by you (_tac ca gaṅgāvataraṇaṃ tvayā kṛtam_), O tamer of foes (_ariṃdama_), you have attained the supreme abode of _dharma_ (_anena ca bhavān prāpto dharmasyāyatanaṃ mahat_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.13–14 (dharmasyāyatanam & sadocite salile)**
+
+**Tilaka** glosses _dharmasyāyatanaṃ mahat_ as the supreme abode won by righteousness, namely Brahmaloka (_dharmaprāpyasthānaṃ mahad brahmalokarūpam_), while **Govindarāja** takes _āyatanam_ as the firm foundation (_pratiṣṭhām_) of _dharma_. On _sadocite salile_ (‘in ever-fitting water’), both **Tilaka** and **Govindarāja** explain the ritual point: terrestrial rivers suffer a two-month seasonal impurity (_rajodoṣa_) during the monsoon onset, whereas celestial Gaṅgā remains perpetually pure for bathing even in _Siṃha_ and _Karkaṭa_ (_anyāsām eva hi nadīnāṃ rajodoṣa iti bhāvaḥ_).
 </details>
 </details>
 
@@ -748,6 +804,14 @@ The waters of other rivers have a blemish called *rajasvala doSa*
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Perform the water-libation for all your grandfathers (_pitāmahānāṃ sarveṣāṃ kuruṣva salilakriyām_). May all be well with you—I shall now depart to my own world; do you also return to your capital, O King (_svaṃ lokaṃ gamyatāṃ nṛpa_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.15–16 (The Repeat Command & Brahmā’s Departure)**
+
+Why does Brahmā repeat _kuruṣva salilakriyām_ in v. 15 after v. 7? **Tilaka** explains that the repetition dispels any lingering doubt that Sagara’s cursed sons were fully absolved (_jātaprāyaścittatvasaṃdehāpanuttaye_) and commands Bhagīratha to return afterward to his royal duties (_rājadharmaparipālanāya_). Brahmā then returns to _devaloka_ (Brahmaloka, **Tilaka**).
 </details>
 </details>
 
@@ -863,6 +927,14 @@ On according those best water-oblations that endow superior realms
 
 **18:** Having completed the obsequial water-rites and become ritually pure (_kṛtodakaḥ śucī rājā_), the king entered his own city (_svapuraṃ praviveśa ha_); with his purpose richly fulfilled, O best of men, he ruled his kingdom (_samṛddhārtho naraśreṣṭha svarājyaṃ praśaśāsa ha_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.17–18 (yathākramam & kṛtodakaḥ)**
+
+Bhagīratha offers libations in strict order of seniority (_yathākramaṃ jyeṣṭhādikramam anatikramya_, **Tilaka**, **Śiromaṇi**) and scriptural rule (_yathānyāyam_), and returns purified to govern his realm.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -924,6 +996,14 @@ On regaining him as their king the subjects of the kingdom are overjoyed,
 
 Having regained that monarch, O Rāghava, the people rejoiced exceedingly (_pramumoda ca lokas taṃ nṛpam āsādya rāghava_); their grief dispelled and their prosperity restored, they became free of all feverish anxiety (_naṣṭaśokaḥ samṛddhārtho babhūva vigatajvaraḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.19 (naṣṭaśokaḥ & vigatajvaraḥ)**
+
+**Tilaka** distinguishes the two epithets describing Bhagīratha’s subjects upon his return from his thousand-year asceticism: they became _naṣṭaśokaḥ_ because the grief of separation from their king ended (_naṣṭatadviyogajaśokaḥ_), and _vigatajvaraḥ_ because their anxious dread over how the realm would be protected vanished (_katham asmatpālanaṃ bhaviṣyatīti vigatacintaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -973,6 +1053,14 @@ Oh, Rama, this way I described to you about 'The Decent of Ganga' in
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus, O Rāma, the full account of Gaṅgā has been narrated to you by me (_eṣa te rāma gaṅgāyā vistaro ’bhihito mayā_). Attain auspiciousness—may all be well with you—for the hour of twilight is now drawing past (_saṃdhyākālo ’tivartate_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.20 (saṃdhyākālo ’tivartate)**
+
+Concluding the ten-sarga cycle of narratives begun at the Śoṇa and Gaṅgā (Sargas 35–44), Viśvāmitra blesses Rāma twice (_svasti_ and _bhadraṃ te_) out of overflowing affection (_atiprītyādarasūcanārtham_, **Tilaka**). **Śiromaṇi** explains _svasti prāpnuhi_ as a call to perform the evening twilight worship (_saṃdhyopāsanādi kuru_), while **Govindarāja** notes the pragmatic hint: because twilight is passing, Rāma should ask no further questions tonight (_itaḥ paraṃ na praṣṭavyam iti bhāvaḥ_).
 </details>
 </details>
 
@@ -1032,6 +1120,14 @@ This legend is conducive to achieve prosperity, fame, longevity, progeny
 **21:** “Bestowing wealth, renown, long life, progeny, and heaven too (_dhanyaṃ yaśasyam āyuṣyaṃ putryaṃ svargyam athāpi ca_)—whoever causes this account to be heard among Brāhmaṇas, Kṣatriyas, and the other orders (_yaḥ śrāvayati vipreṣu kṣatriyeṣv itareṣu ca_),
 
 **22:** “His ancestors are gratified and the deities too are pleased (_prīyante pitaras tasya prīyante daivatāni ca_). This auspicious and life-bestowing narrative of the Descent of Gaṅgā (_idam ākhyānam āyuṣyaṃ gaṅgāvataraṇaṃ śubham_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**44.21–23 (Gaṅgāvataraṇa-phalaśrutiḥ)**
+
+**Śiromaṇi** construes vv. 21–23 as a single syntactic unit (_trayāṇām ekatrānvayaḥ_), while **Govindarāja** notes that v. 21c–22b states the fruit for the reciter (_śrāvayituḥ phalam_) and v. 22c–23d states the fruit for the listener (_śrotuḥ phalam_).
 </details>
 </details>
 

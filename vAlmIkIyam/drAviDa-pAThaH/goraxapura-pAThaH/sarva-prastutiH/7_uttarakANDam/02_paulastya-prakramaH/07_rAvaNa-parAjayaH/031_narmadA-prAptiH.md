@@ -726,6 +726,134 @@ Declaring his intent to offer flowers to Śiva upon the moon-bright sandbank, R�
 
 “‘I too shall leisurely perform today (_aham apy adya ... śanakaiḥ kariṣyāmi_) a floral offering unto Kapardin [Śiva] (_puṣpopahāraṃ ... kapardinaḥ_) upon this sandbank radiant as the autumn moon (_puline śaradindu-samaprabhe_)!’
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.31.1–2 (Beginning the Chronicle of Rāvaṇa’s Defeats)**
+
+Introducing a fresh narrative cycle—the humbling of Rāvaṇa by mortal and vānara heroes (अथ रावणपराजयकथनम्, **Rāma Varmā**)—Rāma bows reverently before Agastya, stirred by amazement at the power of divine grace just recounted (भगवत्प्रसादवैभवश्रवणजविस्मयादिव, Rāma Varmā). Asking whether the earth had become ‘empty’ (शून्याः) during Rāvaṇa’s rampage, Rāma voices a sovereign’s disbelief: Rāma Varmā glosses शून्याः as ‘void of kṣatriya virtue’ (क्षत्रगुणशून्याः), while **Śivasahāya** (_Śiromaṇi_) specifies ‘devoid of heroes able to match Rāvaṇa’ (रावणसदृशशूरवीररहिताः).
+
+_____________
+
+**7.31.3–4 (Kṣatriya Kings, Chieftains, and Celestial Missiles)**
+
+Pressing his inquiry, Rāma distinguishes two classes of rulers in 7.31.3: both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) gloss राजा as a consecrated kṣatriya monarch (क्षत्रियः) and राजमात्रः as a non-kṣatriya ruler or mere chieftain (अक्षत्रियः केवलप्रभुः), while **Śivasahāya** paraphrases ‘king or prince’ (राजपुत्रो वा). In 7.31.4, Rāma Varmā and Govindarāja unpack the alternatives introduced by उताहो: either earthly monarchs, though alive, were stripped of valor (विद्यमाना एव वीर्यरहिताः), or else, though valiant, they lacked divine weapons (वरैर्दिव्यास्त्रैर्बहिष्कृताः) to withstand him.
+
+_____________
+
+**7.31.5–6 (Agastya’s Knowing Laughter and the Simile of Brahmā and Rudra)**
+
+Why does Agastya laugh (प्रहसन्) at Rāma’s earnest query? **Rāma Varmā** explains that the sage smiles upon seeing Lord Rāma’s martial indignation that no kṣatriya had humbled Rāvaṇa (भगवतो रामस्यामर्षं दृष्ट्वागस्त्यहासः); **Govindarāja** adds joyful recollection of Rāvaṇa’s humiliating defeats (रावणापजयस्मरणप्रीत्या). Both commentators richly unpack पितामह इवेश्वरम्: Agastya speaks to Rāma just as four-faced Brahmā addresses fiery Rudra, embodiment of kṣatriya valor (अग्निप्रधानं शौर्यादिक्षत्रगुणं रुद्रम्), launching the tale of Kārtavīrya Arjuna.
+
+_____________
+
+**7.31.7–8 (Māhiṣmatī and Agni Reclining in the Reed-Pit)**
+
+Reaching Māhiṣmatī—whose splendor rivals Indra’s Amarāvatī (स्वर्गपुर्यमरावती, **Rāma Varmā**)—Rāvaṇa enters a city uniquely blessed by Agni (वसुरेतसः, ‘whose seed is wealth/gold’). **Govindarāja** (_Bhūṣaṇa_) notes that Fire abides there perpetually as a living rampart (प्राकाररूपेण नित्यसान्निध्यम्), while Rāma Varmā explains शरकुण्डेशयः in 7.31.8: throughout Arjuna’s reign, Agni dwelt constantly in a pit lined with _śara_ reeds for overcoming foes (शत्रूणामभिचारार्थं शरपरिस्तृतकुण्डे नित्यं संनिहितो वर्तते). Govindarāja cites Pāṇini 6.3.18 to establish the grammatical _aluk_ compound.
+
+_____________
+
+**7.31.9–10 (Fateful Timing and Etymological Repetition)**
+
+The poet heightens dramatic suspense with the repeated temporal phrase तमेव दिवसम् (‘on that very day’): all three commentators gloss this accusative as ‘on the very day Rāvaṇa arrived’ (यस्मिन्दिने रावणो गतस्तस्मिन्नेव दिवसे), when the mighty Haihaya sovereign (ईश्वरः राजा) had departed to enjoy water-sports in the Narmadā. To remove any apparent redundancy in repeating रावणः across 7.31.10, **Śivasahāya** (_Śiromaṇi_) construes 9–10 as one unit and reads the second रावणः etymologically as ‘he who makes the worlds weep’ (लोकरोदनकारयिता).
+
+_____________
+
+**7.31.11–12 (Rāvaṇa’s Imperious Challenge and the Ministers’ Poise)**
+
+Construing the six-quarter verse 7.31.11 as a single syntactic whole (सार्धश्लोक एकान्वयी, **Śivasahāya**), Vālmīki lets Rāvaṇa’s arrogance ring out: he demands Arjuna’s whereabouts immediately and orders the courtiers to announce his martial challenge ahead of him. Yet Māhiṣmatī’s ministers remain unruffled (सुविपश्चितः, ‘deeply wise’) and courteously report their sovereign’s absence (असांनिध्यं तत्राविद्यमानत्वम्, Śivasahāya)—prompting Rāvaṇa to march straight toward the Vindhya range and the Narmadā.
+
+_____________
+
+**7.31.13–15 (The Towering Vindhya—Cloud, Earth, and Roaring Ocean)**
+
+Leaving Māhiṣmatī (अपसृत्य पुरात्, **Rāma Varmā**; तत्पुरान्निवर्त्य, **Śivasahāya**) upon learning from the townsfolk of Arjuna’s departure, Rāvaṇa encounters the majestic Vindhya range. Both Rāma Varmā and **Govindarāja** unpack the triple _utprekṣā_ of 7.31.14: the mountain seems plunged into a vast cloud (महामेघमिवाविष्टमाकाशसंबद्धं तेनात्युन्नतम्), bursting upward from the earth (उद्भिद्योद्गतमिव), and scraping heaven. Both cite the lexicon _Amarakośa_ (प्रपातस्तु तटः / भृगुः) on 7.31.15, where Govindarāja’s reading अम्बुधिम् likens the white foaming waterfalls to an ocean roaring with laughter.
+
+_____________
+
+**7.31.16–17 (An Earthly Heaven and the Serpent Ananta)**
+
+Elevating the Vindhya’s grandeur further, Vālmīki depicts celestials, Gandharvas, Apsarases, and Kinnaras sporting upon its heights until the peak itself becomes a heaven (स्वर्गभूतम्). In 7.31.17, a vivid mythological simile compares the mountain to the thousand-hooded serpent Ananta: both **Rāma Varmā** and **Govindarāja** explain that the streams rushing downward with crystalline water resemble Ananta’s trembling tongues darting from raised hoods (स्फटिकप्रतिमं जलं स्यन्दमानाभिर्नदीभिः कृत्वा चलजिह्वाभिः फणाभिरुपलक्षितमनन्तमिव विष्ठितम्).
+
+_____________
+
+**7.31.18 (Descent to the West-Flowing Narmadā)**
+
+**Śivasahāya** links verses 7.31.15–18 into one sweeping syntactic period (श्लोकचतुष्टयमेकान्वयि). All three commentators gloss उत्क्रामन्तम् as ‘soaring upward into the sky’ (ऊर्ध्वं व्याप्नुवानम्, **Rāma Varmā** and **Govindarāja**; अत्युन्नतत्वेन ऊर्ध्वं गच्छन्तमिव, Śivasahāya). Descending from the mountain, Rāvaṇa reaches the sacred Narmadā—distinctively identified as flowing to the western sea (पश्चिमोदधिगामिनीम्)—with waters shimmering over pebbles (उपलेषु चलानि जलानि यस्यास्ताम्; Govindarāja also records the variant चलोपलामलाम्, ‘made pure by stones rolled by her current’).
+
+_____________
+
+**7.31.19–20 (Wilderness Vitality Along the Narmadā)**
+
+Extending the accusative qualifiers of नर्मदाम् from 7.31.18 across six continuous verses (श्लोकषट्कमेकान्वयि, **Śivasahāya**), Vālmīki opens with an earthy summer tableau before shifting to erotic personification. Oppressed by midday heat and thirst (उष्णेनाभितप्तैरत एव तृषितैः, Śivasahāya), wild beasts—buffaloes, _sṛmara_ deer, lions, tigers, bears, and lordly elephants—churn her pools, while _cakravākas_, _kāraṇḍavas_, geese, water-fowl, and ever-impassioned _sārasa_ cranes fill her banks with vibrant cries (सुकूजद्भिः समावृताम्).
+
+_____________
+
+**7.31.21–22 (The Sustained Sāṅga-Rūpaka of River as Beloved)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) signal the poetic shift here: the poet now portrays the Narmadā as a woman (नर्मदां स्त्रीत्वेन वर्णयति). Every physical feature maps neatly onto a classic feminine ornament—flowering trees as chaplets, paired _cakravākas_ as breasts, sandbanks as hips, lines of geese as a girdle, pollen as fragrant unguent, foam as white silk, and open lotuses as eyes. Rāma Varmā glosses जलावगाहसंस्पर्शाम् as ‘whose delightful touch people experience by bathing in her waters’ (जनानां जलावगाहे सुखसंस्पर्शनं यस्यास्ताम्).
+
+_____________
+
+**7.31.23–24 (Plunging In and Hailing the Narmadā as Gaṅgā)**
+
+Alighting swiftly from Puṣpaka, Rāvaṇa enters the river as one embraces a cherished woman (इष्टां पूजिताम्, **Śivasahāya**), then sits on her sage-haunted bank beside his ministers. Explaining Rāvaṇa’s exclamation ‘This is the Gaṅgā!’ (प्रख्याय प्रशस्य, **Rāma Varmā** and **Govindarāja**; बोधयित्वा, Śivasahāya), Rāma Varmā draws three theological implications: the Narmadā shares the Gaṅgā’s power to destroy sin, Śiva-worship upon her bank bears immense fruit, and the Gaṅgā stands supreme among all rivers (नर्मदायास्तद्वत्पापनाशकत्वं तत्तटकृतशिवपूजादेर्महाफलत्वं गङ्गायाः सर्वोत्कर्षश्च सूचितः).
+
+_____________
+
+**7.31.25–26 (Rāvaṇa’s Playful Hubris—The Sun Turned Moon)**
+
+Speaking with playful ease (सलीलं सविलासम्, **Rāma Varmā** and **Govindarāja**), Rāvaṇa turns the midday beauty of the river into an egoistic boast. Even the blazing midday sun, after gilding the earth (काञ्चनं सुवर्णमयं कृत्वा, both), cools into a moon (चन्द्र इवाचरति, Rāma Varmā; चन्द्र इव शीतं करोति, **Śivasahāya**) upon seeing Rāvaṇa seated there. Rāma Varmā flags चन्द्रायति as an archaic active ending (आर्षं परस्मैपदम्).
+
+_____________
+
+**7.31.27–28 (A Subservient Breeze and a Timid River)**
+
+Continuing his vainglorious conceit, Rāvaṇa claims the fragrant, cooling wind blows mildly (समाहितः मन्दः सन्, **Śivasahāya**) purely out of dread of him, and that even the delight-giving Narmadā (नर्मवर्धिनी प्रीतिवर्धिनी, **Govindarāja**), with crocodiles, fish, and birds in her waves (नक्रादियुता ऊर्मयो यस्याः, **Rāma Varmā** and Śivasahāya), stands hushed like a timid woman. Śivasahāya observes that this speech vividly reveals Rāvaṇa’s overweening pride in his own majesty (एतेन स्वप्रतापातिशयः सूचितः) right before Kārtavīrya humbles him.
+
+_____________
+
+**7.31.29–30 (Summons to Bathe Like the Directional Elephants)**
+
+Connecting 7.31.29 to the Narmadā’s soothing coolness (तन्नर्मदाजलस्य श्रमहारित्वाद्धेतोः, **Śivasahāya**), Rāvaṇa bids his blood-spattered ministers wash away their battle-weariness and sins. While Parimal reads सार्वभौममुखाः (glossed by **Rāma Varmā** and Śivasahāya as the elephant Sārvabhauma), Rāma Varmā expressly notes our variant महापद्मः as a directional elephant (महापद्मो दिग्गजः), whom **Govindarāja** identifies as Puṇḍarīka (पुण्डरीकाख्यो दिग्गजः).
+
+_____________
+
+**7.31.31–32 (Preparing Śiva’s Floral Worship)**
+
+Closing his address to his ministers, Rāvaṇa reveals his own pious purpose: offering a leisurely floral worship (पुष्पोपहारं पुष्पबलिम्, **Govindarāja**) to braided-haired Śiva (कपर्दिनः) upon the bright autumn-moon sandbank. Obeying immediately, his senior commanders—Prahasta, Śuka, Sāraṇa, Mahodara, and Dhūmrākṣa—plunge into the stream (**Śivasahāya**). This tranquil devotional interlude stands in striking dramatic contrast to Rāvaṇa’s fierce martial arrogance moments earlier, illustrating the complex portrait of a demon-king who remains a punctilious Śaiva devotee.
+
+_____________
+
+**7.31.33 (The Metaphor of the Directional Elephants)**
+
+As the colossal rākṣasas enter the current, Vālmīki likens their splashing turbulence to the mythic quarter-elephants churning the celestial Gaṅgā. **Rāma Varmā** (_Tilaka_) analyzes राक्षसेन्द्रगजैः as an appositional metaphor (_rūpaka-samāsa_: ‘those rākṣasa chieftains who were veritable elephants’, राक्षसेन्द्रा एव गजास्तैः), identifies Vāmana, Añjana, and Padma as the directional elephants (वामनाद्या दिग्गजाः), and expressly notes the epic hiatus गङ्गा इव as _ārṣa_ (असंधिरार्षः). **Śivasahāya** echoes this swift correspondence between the two rivers and their giant bathers.
+
+_____________
+
+**7.31.34–36 (A Mountain of Blossoms and Rāvaṇa’s Descent)**
+
+Emerging refreshed from the Narmadā, the rākṣasas gather blossoms specifically for Rāvaṇa’s impending Śiva liturgy—both **Rāma Varmā** and **Śivasahāya** clarifying the subjective genitive रावणस्य बल्यर्थम् as ‘for the worship of Śiva to be performed by Rāvaṇa’ (रावणकर्तृकशिवपूजार्थम्, Rāma Varmā; रावणकर्तृकपूजार्थम्, Śivasahāya). Within a single _muhūrta_ they pile up a dazzling floral mountain (पुष्पमयो गिरिः) upon the cloud-white shore. Only once every offering is arrayed does Rāvaṇa himself step down into the river like a lone lordly tusker.
+
+_____________
+
+**7.31.37–38 (Ritual Purity and Devotional Demeanor)**
+
+Stepping from the river after his ritual bath and _japa_, Rāvaṇa changes into dry white garments and advances with palms joined in reverence. All three commentators emphasize that प्राञ्जलिम् is directed expressly toward Lord Śiva (नियमेनेश्वरं प्रति कृताञ्जलिम्, **Rāma Varmā**; देवोद्देशेन, **Śivasahāya**; शम्भुं प्रति, **Govindarāja**). Trailing his footsteps (तद्गमनाधीनत्वमापन्नाः, Śivasahāya), his gigantic retainers move like animate mountains (प्राण्याकारवन्तोऽचला इव, Rāma Varmā and Govindarāja).
+
+_____________
+
+**7.31.39–40 (The Portable Golden Liṅga and Tantric Liturgy)**
+
+All three commentators supply राक्षसैः (‘carried daily by the rākṣasas for worship’) with नीयते. **Govindarāja** (_Bhūṣaṇa_) supplies the mythological origin: ever since Śiva released Rāvaṇa upon Mount Kailāsa, he worshipped this _liṅga_ daily to propitiate him (यदा कैलासे रावणः शिवेन विमुक्तस्तदाप्रभृति तत्प्रीत्यर्थं लिङ्गपूजां करोति स्म). **Rāma Varmā** (_Tilaka_) adds an astute tantric insight on 7.31.40: Rāvaṇa’s emblem was gold because tantric scriptures prescribe a golden _liṅga_ for one desiring sovereignty (ऐश्वर्यकामस्य सौवर्णलिङ्गपूजायास्तन्त्रेषूक्तेः).
+
+_____________
+
+**7.31.41 (Sāmaveda Song, Dance, and the Vaṃśastha Finale)**
+
+Shifting gracefully into twelve-syllable _Vaṃśastha_, Vālmīki crowns the sarga with an unforgettable tableau of Rāvaṇa’s Śaiva devotion. **Śivasahāya** resolves चन्द्रमयूखभूषणम् as Śiva ‘adorned with the moon’s beams’ (चन्द्रमयूखा भूषणानि यस्य). Both **Rāma Varmā** (जगौ सामानीति शेषः) and **Govindarāja** specify that Rāvaṇa’s singing was _Sāmaveda_ chanting—Govindarāja noting his famed mastery of _Sāmagāna_ (सामगानशास्त्रपारगो रावण इति प्रसिद्धिः)—just before Kārtavīrya’s dammed river sweeps the altar away in Sarga 32.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

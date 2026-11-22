@@ -1264,6 +1264,152 @@ arrows those demons have let out disgusting cries of anguish. [3-25-25]
 
 Then, cloven (_chidyamānāḥ_) by iron-tipped _nālīkas_, all-iron _nārācas_ (_nālīka-nārācaiḥ_), and sharp-pointed barbed _vikarṇi_ shafts (_tīkṣṇāgraiś ca vikarṇibhiḥ_), the night-stalkers raised a dreadful cry of anguish (_bhīmam ārta-svaraṃ cakruḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.25.1–2 (avaṣṭabdhadhanum & codyatām)**
+
+On अवष्टब्धधनुम्, all three commentators note that the _u_-stem धनु is a classical synonym for धनुस् (“bow”, उकारान्तधनुशब्दोऽपि धनुःपर्यायः, _Tilaka_, _Śiromaṇi_); **Govindarāja** (_Bhūṣaṇa_) derives धनु from धन् with the _Uṇādi_ suffix उ and cites poetic usage (धनुरिवाजनि वक्रः). On चोद्यताम् in 2d, all three supply रथ इति शेषः (“let the chariot be driven straight toward Rāma”).
+
+_____________
+
+**3.25.3–4 (Khara's Twelve Ministers)**
+
+As Khara charges toward the spot where Rāma stands alone shaking his bow (एको धुन्वन् धनुः स्थितः), his ministers (सचिवाः) surround him; **Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) identify them as the twelve generals headed by Śyenagāmī (श्येनगाम्यादयः) named in Sarga 23.
+
+_____________
+
+**3.25.5–6 (Khara Compared to Mars)**
+
+**Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) identify लोहिताङ्गः as the planet Mars (अङ्गारकः, भौमः), while **Rāma Varmā** (_Tilaka_) adds that Khara shares its red hue because his limbs are flushed with wrath (क्रोधेनास्यापि रक्ताङ्गत्वात्), and glosses अर्दयित्वा as merely striking Rāma (अर्दयित्वेव).
+
+_____________
+
+**3.25.7–8 (bhīmadhanvānam & Demon Weapons)**
+
+On भीमधन्वानम्, **Govindarāja** (_Bhūṣaṇa_) notes the compound-final substitution अनङ् on धनुस् (धनुषश्चेत्यनङ् समासान्तः), cites _Amara_ on शस्त्रम् (शस्त्रमायुधलोहयोः), and glosses मुद्गरैः as wooden maces (दारुगदाभिः), प्रासैः as lances (कुन्तैः), and रोषतत्पराः as mastered by fury (क्रोधपरवशाः).
+
+_____________
+
+**3.25.9–10 (Cloud-Like Demons & the Unshaken Mountain)**
+
+All three commentators gloss बलाहकसंकाशाः as resembling storm-clouds (मेघसदृशाः, मेघतुल्याः). Linking 10ab with 10cd–11ab (सार्धश्लोक एकान्वयी, _Śiromaṇi_), **Śivasahāya** identifies the lord of mountains (शैलेन्द्रम्) as Mount Meru (सुमेरुम्), while **Govindarāja** (_Bhūṣaṇa_) observes that comparing Rāma to a mountain pelted by cloud-torrents highlights his complete unshakeability (रामस्य निश्चलत्वमुक्तम्).
+
+_____________
+
+**3.25.11–12 (Mahādeva on pradoṣa Nights)**
+
+Joining 11cd and 12ab (सर्वैरित्याद्यर्धमेकान्वयम्, _Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain तिथिषु as the sacred twilight _pradoṣa_ lunar days (प्रदोषरात्रिषु, प्रदोषतिथिषु), when Mahādeva is surrounded by troops of His goblin attendants (पारिषदां गणैर्वृतो महादेव इव).
+
+_____________
+
+**3.25.13–14 (The Ocean & Thunderbolt Similes)**
+
+Linking 12cd and 13ab, all three commentators explain प्रतिजग्राह विशिखैः as Rāma intercepting the demons' missiles with his shafts (स्वशरैरवरुरोध, _Tilaka_) as the ocean absorbs river-floods (नदीप्रवाहान्). **Rāma Varmā** (_Tilaka_) notes that while the mountain simile (वज्रैरिव महाचलः) shows Rāma felt no pain (लेशतोऽपि व्यथाभावः), विद्धः क्षतजादिग्धः indicates the demon shafts lightly grazed him (बाणैः किंचिद्व्रणितत्वं सूचयति).
+
+_____________
+
+**3.25.15–16 (The Twilight Sun & Full-Drawn Bow)**
+
+Blood-smeared and ringed by dark demons, Rāma resembles the sun shrouded by red twilight clouds (संध्याभ्रैरावृतो दिवाकर इव), causing the celestials to despair (अत एव देवादयो विषेदुः, _Tilaka_). Drawing his bow into a circle (आकर्णाकर्षणेन मण्डलाकारीकृतधनुः, _Bhūṣaṇa_), Rāma looses shafts by hundreds and thousands (प्रथमं शतशः अनन्तरं सहस्रशः).
+
+_____________
+
+**3.25.17–18 (Cosmic Sport, līlayā)**
+
+**Govindarāja** (_Bhūṣaṇa_) cites _Halāyudha_ on कङ्कपत्रान् (कङ्कपत्रसमानौघबाणाः), while **Rāma Varmā** (_Tilaka_) observes on लीलया that for the Lord who effortlessly dissolves the cosmos at once (युगपत्सकलप्रपञ्चसंहारस्वरूपस्य), slaying this host is mere play (एतावन्मात्रं लीलैवेति).
+
+_____________
+
+**3.25.19–20 (Blood-Bathed Arrows & the Circular Bow)**
+
+On रुधिराप्लुताः and दीप्ताग्निसमतेजसः, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) observe that the arrows' crimson coating of blood is the cause of their fiery radiance in the sky (रुधिराप्लुता इति विशेषणं दीप्तित्वगुणे हेत्वर्थम्). _Tilaka_ explains चापमण्डलात् as the bow appearing circular through the rapid nocking and loosing of shafts (संधानमोचनशैघ्र्यान्मण्डलाकारता चापस्य).
+
+_____________
+
+**3.25.21–22 (Shields, Armour, & Braceleted Arms)**
+
+In 21cd, **Rāma Varmā** (_Tilaka_) glosses चर्माणि as shields (फलकान्), whereas **Govindarāja** (_Bhūṣaṇa_) reads वर्माणि च शिरांसि च (“armour and heads”); _Tilaka_ glosses सहस्ताभरणान् as adorned with armlets (साङ्गदान्).
+
+_____________
+
+**3.25.23–24 (cicchiduḥ, bibhiduḥ, & yamasādanam)**
+
+**Rāma Varmā** (_Tilaka_) distinguishes चिच्छिदुः (cutting in two) from बिभिदुः (splitting open, छेदभेदौ द्वैधीभावविदारणरूपौ). On यमसादनम्, **Govindarāja** (_Bhūṣaṇa_) explains सादनम् as a pleonastic derivative of सदनम् (सदनमेव सादनं स्वार्थे अण्), while **Śivasahāya** (_Śiromaṇi_) also offers a Vedāntic reading (अ-यम-सादनम्, the eternal realm of liberation attained by those slain by Rāma).
+
+_____________
+
+**3.25.25–26 (Three Classes of Iron Shafts)**
+
+**Rāma Varmā** (_Tilaka_), **Govindarāja** (_Bhūṣaṇa_), and **Śivasahāya** (_Śiromaṇi_) define नालीकाः as shafts tipped only with iron (अग्रमात्रायःसंयुक्ताः, _Tilaka_), नाराचाः as arrows forged entirely of iron (सर्वत आयसाः), and विकर्णिनः as barbed or crescent-headed shafts that tear the chest (उरसि प्राणहरा अर्धचन्द्राद्याः). On 26cd, _Bhūṣaṇa_ glosses सुखम् as relief from torment (दुःखनिवृत्तिम्).
+
+_____________
+
+**3.25.27–28 (śirodharān & Sequence of Action)**
+
+On 28cd, **Govindarāja** (_Bhūṣaṇa_) notes both the _ārṣa_ masculine form शिरोधरान् (लिङ्गत्वमार्षम्) and the logical order of events: Rāma first severed their necks and thereby took their lives (शिरोधरं चिच्छेद प्राणान् जहारेति क्रमः).
+
+_____________
+
+**3.25.29–30 (Garuḍa's Wing-Wind in Indra's Grove)**
+
+Identifying सुपर्णः as Garuḍa (गरुडः), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) recall the Purāṇic legend in which the hurricane of Garuḍa's wings uprooted the _kalpavṛkṣa_ trees of Indra's Nandana grove during the theft of the _amṛta_ (अमृतहरणसमये नन्दनवाटिकावृक्षाः गरुडेनोत्पाटिताः), while _Tilaka_ cites _Kataka_ on how the _kalpavṛkṣa_ comparison highlights the fallen warriors' ornaments (समग्रालंकारयुतवीरत्वात्).
+
+_____________
+
+**3.25.31–32 (Dūṣaṇa's Counterattack with Trees & Rocks)**
+
+Reading पुनरादाय, **Govindarāja** (_Bhūṣaṇa_) explains that Dūṣaṇa turned the routing troops back from fleeing to Khara (खरसमीपगमनान्निवर्त्य) and charged like Yama at the world's end (अन्तकः कल्पाग्निगतो यमः). Heartened by Dūṣaṇa's support (दूषणरूपाश्रयेण निर्भयाः), the demons brandish _sāla_ trees, palmyras, and boulders because most of their weapons had already been shattered (प्रायशो नष्टायुधत्वात्सालतालेत्याद्युक्तम्, _Bhūṣaṇa_).
+
+_____________
+
+**3.25.33–34 (śastravarṣāṇi & romaharṣaṇam)**
+
+Linking verses 33 and 34 (श्लोकद्वयमेकान्वयि, _Śiromaṇi_), **Govindarāja** (_Bhūṣaṇa_) distinguishes शस्त्रवर्षाणि from शरवर्षाणि as showers of non-arrow missiles (शरभिन्नायुधवर्षाणीत्यर्थः) and explains रोमहर्षणम् as making the spectators' hair bristle with terror (भयातिरेकेण रोमाञ्चजनकम्) and wonder (अत एवाद्भुतं तद्युद्धम्).
+
+_____________
+
+**3.25.35–36 (Encirclement Across All Quarters)**
+
+On रामस्यास्य, **Śivasahāya** (_Śiromaṇi_) takes अस्य as referring to Dūṣaṇa (रामस्य अस्य दूषणस्य च पुनः रक्षसां च). All three commentators join verse 36 syntactically with verse 37 (श्लोकद्वयमेकं वाक्यम्, _Bhūṣaṇa_) as Rāma beholds every cardinal and intermediate direction (दिशः प्रदिशश्च) choked with demons.
+
+_____________
+
+**3.25.37–38 (The Gāndharva Missile & Ten Directions)**
+
+On समयोजयद् गान्धर्वम्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) supply धनुषि (“nocked upon his bow”). On सर्वा दश दिशः, **Śivasahāya** (_Śiromaṇi_) explains that adding सर्वाः to “ten directions” signifies that no intermediate space was left unpervaded (अवान्तरदेशव्याप्तिपरिहाराय).
+
+_____________
+
+**3.25.39–40 (Blinding Speed & Conscious Shafts)**
+
+Because of Rāma's speed (अतिशैघ्र्यतया, _Tilaka_), the demons could see neither the plucking nor the loosing of his shafts (शरादानमोचने न पश्यन्ति), beholding only his drawn bow (विकर्षणमेवापश्यन्, _Bhūṣaṇa_). **Śivasahāya** (_Śiromaṇi_) remarks that प्रक्षिपन्निव implies Rāma's arrows are conscious beings acting at his mere wish (अभिप्रायविज्ञानमात्रेण प्रसरन्तीति रामबाणानां चेतनत्वं सूचितम्).
+
+_____________
+
+**3.25.41–42 (Six Modes of Slaughter)**
+
+**Govindarāja** (_Bhūṣaṇa_) notes that the triple युगपत् portrays the simultaneous flight of arrows (युगपच्छरनिर्गमः समुत्प्रेक्ष्यते), and distinguishes the six participles in 42ab (हिंसावैचित्र्यमाह): struck (प्रहृताः), fallen in terror (भयेन भूमौ पतिताः), gasping (कण्ठगतप्राणाः), cloven in two (द्विधा कृताः), dismembered (खण्डितावयवाः), and ripped from navel to throat like Hiraṇyakaśipu by Nṛsiṃha (नृसिंहेन हिरण्यवदानाभिकण्ठलुण्ठितशरीराः).
+
+_____________
+
+**3.25.43–44 (Severed Limbs & Royal Insignia)**
+
+Construing verses 43–46 as a single syntactic period (_kalāpaka_) portraying the wondrous variety of slaughter (चित्रवधं दर्शयति, _Bhūṣaṇa_), **Govindarāja** (_Bhūṣaṇa_) reads ऊरुभिर्जानुभिश्छिन्नैर्नानारूपविभूषणैः to avoid repeating बाहुभिः, explaining that the severed thighs bore ornamental thigh-guards (सांघोरुकैरूरुभिः) and the knees golden clasps (सकटकैर्जानुभिः).
+
+_____________
+
+**3.25.45–46 (Shattered Weapons & the Dreadful Field)**
+
+Mapping each qualifier across the four-verse sentence, **Govindarāja** (_Bhūṣaṇa_) connects अनेकशो भिन्नैः with the horses, elephants, and chariots (हयादित्रयविशेषणम्) and विच्छिन्नैः with the fans, parasols, and banners (चामरादित्रयविशेषणम्), concluding that this carnage displays the supreme potency of Rāma's shafts (रामशरप्रभावातिशयो दर्शितः).
+
+_____________
+
+**3.25.47 (Paralysis of the Surviving Host)**
+
+On न तत्र चलितुं शक्ता रामम्, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain the accusative रामम् as governed by the infinitive of motion चलितुम् (“unable to advance face-to-face toward Rāma”, रामं चलितुं रामं प्रति संमुखं गन्तुम्, _Tilaka_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

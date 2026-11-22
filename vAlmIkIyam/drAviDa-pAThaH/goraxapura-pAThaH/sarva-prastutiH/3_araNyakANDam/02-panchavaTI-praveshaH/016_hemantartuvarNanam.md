@@ -925,6 +925,152 @@ nowadays.
 
 “Veiled in rising vapour (_bāṣpa-cchannāni_) and rich in barley and wheat (_yava-godhūmavanti_), the forests shine at sunrise (_abhyudite sūrye_) with crying _krauñca_ curlews and _sārasa_ cranes (_nadadbhiḥ krauñca-sārasaiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.16.1–3 (The Onset of Hemanta & Narrative Foreshadowing)**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) observe that the poet introduces the winter season (_hemanta_) through Lakṣmaṇa's voice to foreshadow Śūrpaṇakhā's imminent arrival (भाविशूर्पणखादर्शनाद्यनर्थसूचकतया, _Bhūṣaṇa_). While _Tilaka_ notes that winter stimulates passion in lovers (कामोद्दीपकं हेमन्तं), **Govindarāja** explains इष्टः twice: winter is cherished by ascetics as conducive to austerity (तपस्विनां तपःसाधनतयेष्टः) and by Rāma as the season initiating Khara's destruction. On प्रह्वः (3.16.3), **Śivasahāya** (_Śiromaṇi_) glosses bowing in salutation (कृतनमस्कारः).
+
+_____________
+
+**3.16.4–5 (nīhāraparuṣo lokaḥ & Svabhāvokti)**
+
+On 3.16.4, all three commentators explain that the year appears adorned by ripened crops (पक्वसस्यादिसम्पत्त्या, _Tilaka_). In 3.16.5, _Tilaka_ and _Śiromaṇi_ gloss नीहारपरुषः as having limbs roughened to the touch by frost (कठिनस्पर्शशरीरः) or rough-skinned (परुषत्वक्, _Bhūṣaṇa_), while citing an alternative view attributing it to wearing coarse bark-garments (वल्कादिस्पर्शकठिनशरीर इति कश्चित्). **Govindarāja** identifies the figure as natural description (स्वभावोक्तिरलंकारः).
+
+_____________
+
+**3.16.6 (navāgrayaṇapūjābhiḥ & the Āgrayaṇa Rite)**
+
+On the harvest offering, **Govindarāja** (_Bhūṣaṇa_) defines आग्रयण as the Vedic first-fruits oblation performed before partaking of new grain (नूतनधान्यभोजनस्यादावारम्भः), citing the _Āpastamba Śrautasūtra_ on offering rice, barley, or _śyāmāka_ millet, whereas _Tilaka_ and _Śiromaṇi_ explain that the righteous thereby become sinless (विगतकल्मषाः).
+
+_____________
+
+**3.16.7–9 (The Southern Solstice & Nirukti-Alaṅkāra)**
+
+On 3.16.7, **Govindarāja** (_Bhūṣaṇa_) reads यात्रास्थाः as kings intent on military campaigns (युद्धयात्रायाम् आस्था येषां ते), whereas **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read यात्रार्थं (marching to inspect or protect subjects). In 3.16.8, अन्तकसेवितां दिशं denotes the southern quarter ruled by Yama; **Govindarāja** notes the implied figure (_utprekṣā_) that the south now gleams like a woman adorned with a _tilaka_. On 3.16.9, all three gloss हिमकोशाढ्यः as rich in congealed masses of snow (घनीभूतहिमैः), **Govindarāja** identifying the etymological justification of हिमवान् as निरुक्तिरलंकारः.
+
+_____________
+
+**3.16.10–11 (chāyāsaliladurbhagāḥ & Forest Affliction)**
+
+On 3.16.10, the commentators explain that midday warmth makes the sun delightful to behold (दर्शनयोग्यादित्याः, _Bhūṣaṇa_) while extreme chill renders shade and water uninviting (असेव्यानि, _Tilaka_). In 3.16.11, _Tilaka_ and _Śiromaṇi_ take शून्यारण्याः as forests stripped of tender leaves by frost (हिमनाशितपर्णत्वात्, _Tilaka_), whereas **Govindarāja** explains it as forests emptied of wandering creatures driven indoors by cold, suggesting the sages' distress (राक्षसकृताश्रमिजनपीडा द्योतिता).
+
+_____________
+
+**3.16.12 (puṣyanītāḥ, himāruṇāḥ & triyāmāḥ)**
+
+On पुष्यनीताः, _Tilaka_ and _Śiromaṇi_ explain nights whose length is indicated by the _Puṣya_ asterism, while **Govindarāja** adds the month of Pauṣa (पुष्यमाससन्निहिताः). _Tilaka_ notes that अरुण here signifies dove-grey (हिमधूसराः। कपोतवर्णेऽप्यरुणशब्दः), and **Govindarāja** explains त्रियामाः by assigning the half-watches at dusk and dawn to the day.
+
+_____________
+
+**3.16.13–14 (The Dimmed Moon & the Simile of Sītā)**
+
+On 3.16.13, all three commentators explain रविसङ्क्रान्तसौभाग्यः as the moon having surrendered its pleasing loveliness (सुभगत्वरूपभोग्यत्वं, _Tilaka_) to the winter sun, appearing dull like a breath-clouded mirror (निःश्वासमलिन आदर्श इव). In 3.16.14, _Tilaka_ and _Śiromaṇi_ gloss आतपश्यामा as Sītā's complexion darkened by forest sun (आतपेन वैवर्ण्यं प्राप्ता, _Tilaka_), whereas **Govindarāja** (_Bhūṣaṇa_), reading ज्योत्स्नी (moonlit night), takes न तु शोभते as a _vyatireka_ figure contrasting the dull frost-night with Sītā, who still shines even when sun-darkened.
+
+_____________
+
+**3.16.15–16 (The Western Wind & Steaming Woodlands)**
+
+On 3.16.15, **Govindarāja** cites the _Vaiśeṣika_ doctrine (रसनभाला) that coolness is inherent to wind (वायौ शीतस्पर्श एव स्वभावः), now doubled at dawn (प्रातःकाले, _Tilaka_) by contact with frost, symbolizing Rāma's doubled compassion in the forest. In 3.16.16, **Rāma Varmā** (_Tilaka_) cites the _Kataka_ commentary explaining बाष्प as warm vapour rising from forest soil at dawn like steam from wells (प्रातःकाले कूपोदकादिष्विव वनादप्यूष्मा प्रादुर्भवति).
+
+_____________
+
+**3.16.17–18 (Golden Rice-Ears & the Moon-Like Sun)**
+
+On 3.16.17, _Tilaka_ and _Śiromaṇi_ note that the rice-ears resemble date-palm blossoms (खर्जूरपुष्पाकृतिभिः) in their yellowish, drooping clusters (पीतप्रलम्बाः, _Śiromaṇi_), **Govindarāja** reading आनम्राः as ascetics bowing their matted heads before Rāma. In 3.16.18, the sun's rays, muffled by frost and mist (हिमनीहारसंवृतैः), appear mild as the moon even when risen high (दूरमभ्युदितः).
+
+_____________
+
+**3.16.19–20 (agrāhyavīryaḥ & Dew-Moistened Meadows)**
+
+On अग्राह्यवीर्यः (3.16.19), **Rāma Varmā** (_Tilaka_) glosses mild-rayed (मृदुतीक्ष्णोष्णः), while **Govindarāja** (_Bhūṣaṇa_) explains the negative prefix नञ् either as imperceptibility (अलक्ष्यतेजस्त्वम्) or slightness (तदल्पता) among the six traditional senses of नञ्. In 3.16.20, all three gloss अवश्यायः as dew (हिमबिन्दुः, _Tilaka_) moistening the grassy turf (शाद्वलः शष्पप्रचुरा भूमिः, _Bhūṣaṇa_), which **Govindarāja** reads as suggesting the weeping of sages comforted by Rāma's grace.
+
+_____________
+
+**3.16.21–22 (The Thirsty Elephant & Hesitant Waterfowl)**
+
+In the two Southern Recension verses (21–22), **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) explain that the wild elephant, though parched with thirst (अत्यन्ततृषितः), withdraws its trunk (प्रतिसंहरते करम्) because the water's biting chill is unbearable to touch (दुःस्पर्शशैत्यवशादिति भावः, _Tilaka_). Likewise, aquatic birds sitting along the bank (जलसमीपदेशवर्तिनः, _Śiromaṇi_) shrink from plunging in like cowards (अप्रगल्भाः भीरवो जनाः) before battle.
+
+_____________
+
+**3.16.23–24 (Sleeping Forest Rows & Mist-Veiled Rivers)**
+
+On 3.16.23, _Tilaka_ and _Śiromaṇi_ distinguish अवश्यायतमोनद्धाः (bound by dew and darkness at night) from नीहारतमसावृताः (veiled by mist-gloom at dawn), whereas **Govindarāja** sees a poetic fancy (_utprekṣā_) of sleeping trees: frozen dew binds them motionless (निश्चलत्वं), thick mist serves as a blanket (प्रच्छादनपटाच्छन्नत्वं), and विपुष्पाः suggests closed eyes (निमीलिताक्षत्वम्). On 3.16.24, the cranes hidden by river-mist are known only by their calls (शब्देनैव विज्ञेयाः, _Śiromaṇi_).
+
+_____________
+
+**3.16.25–26 (rasavaj jalam & Frost-Blighted Lotuses)**
+
+On अगाग्रस्थम् (3.16.25), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss standing on a mountain peak (पर्वताग्रस्थम्), _Śiromaṇi_ taking रसवत् as sweet (स्वादुविशिष्टम्), whereas **Govindarāja** (_Bhūṣaṇa_) cites Bāṇa's lexicon (रसो रागे विषे द्रव्ये) to gloss रसवत् as “unfit to drink like poison” (विषवदनुपादेयं) from extreme chill. In 3.16.26, frost-blighted lotus ponds left with bare stalks (नालमात्रावशिष्टाः, _Śiromaṇi_) lose all splendour.
+
+_____________
+
+**3.16.27–28 (Bharata's Austerity at Nandigrāma)**
+
+Transitioning from winter scenery to fraternal love, **Govindarāja** notes that Lakṣmaṇa reminds Rāma of Bharata's grief in separation (त्वद्विरहादिति शेषः). **Śivasahāya** (_Śiromaṇi_) glosses पुरे (3.16.27d) as Nandigrāma (नन्दिग्रामे), while **Govindarāja** explains that शीते implies lack of warm coverings (आवरणराहित्यम्) and महीतले implies sleeping without a couch (खट्वादिराहित्यम्).
+
+_____________
+
+**3.16.29–30 (Bharata's Pre-Dawn Plunge in the Sarayū)**
+
+On 3.16.29–30, **Govindarāja** explains that the citizens (प्रकृतिभिः) follow Bharata out of shared devotion to Rāma, and that Bharata goes in the last watches of the night (अपररात्रेषु) lest people call him king by day; yet his burning fever of separation from Rāma (रामविरहेणोष्णः) makes even the icy Sarayū tolerable.
+
+_____________
+
+**3.16.31–32 (nirudaraḥ, hrīniṣedhaḥ & Threefold Devotion)**
+
+**Śivasahāya** (_Śiromaṇi_) notes that verses 31–32 form a single syntactic unit (श्लोकद्वयमेकान्वयि). **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss निरुदरः as free from a protruding belly (अतुन्दिलः) and ह्रीनिषेधः as one whose senses are restrained from forbidden objects by modesty (ह्रिया लज्जया निषेधः अकृत्येभ्यो निवर्तनं यस्य सः, _Bhūṣaṇa_). On सर्वात्मना, _Tilaka_ cites _Kataka_ (renouncing other attachments to meditate on Rāma), while **Govindarāja** glosses with all three faculties of mind, speech, and body (करणत्रयेण).
+
+_____________
+
+**3.16.33 (jitaḥ svargaḥ & Emulating Rāma)**
+
+On जितः स्वर्गः, _Tilaka_ and _Śiromaṇi_ explain that Bharata has made heaven his own (स्वाधीनः कृतः) by imitating Rāma's ascetic life (तापसधर्मे स्थित्वा), whereas **Govindarāja** interprets जितः as “spurned/surpassed” (तिरस्कृतः), since Bharata rejects even heaven as an obstacle to attaining Rāma (रामप्राप्त्यन्तरायभूतः).
+
+_____________
+
+**3.16.34–35 (Refuting the Popular Proverb & Censuring Kaikeyī)**
+
+All three commentators explain that Bharata disproved the popular saying (लोकप्रवादः) by following his father Daśaratha's noble nature rather than Kaikeyī's (पितृस्वभाव एवानुकृतो न मातृस्वभावः, _Bhūṣaṇa_), prompting Lakṣmaṇa's outburst against Kaikeyī.
+
+_____________
+
+**3.16.36–37 (Lakṣmaṇa's Rhetorical Strategy & Rāma's Rebuke)**
+
+**Govindarāja** (_Bhūṣaṇa_) insightfully remarks that Lakṣmaṇa, grieving to see Rāma and Sītā endure chilly dawn ablutions, wished to blame Kaikeyī; knowing Rāma would be angered by abrupt censure (झटिति निन्दायां क्रियमाणायां रामः कुष्येदिति), he first described winter and praised Bharata before faulting her. Yet Rāma immediately stops him: **Rāma Varmā** (_Tilaka_) notes that Kaikeyī must not be blamed because the gods engineered her delusion (देवकृतत्वात्तद्बुद्धेः), while **Govindarāja** highlights इक्ष्वाकुनाथस्य as honoring Bharata for sustaining the dynasty during their exile.
+
+_____________
+
+**3.16.38 (bāliśīkriyate punaḥ)**
+
+On 3.16.38, all three commentators explain that Rāma's mind, though steadfast in its vow of forest exile (वनवासे दृढव्रता), grows wavering (चाञ्चल्यं प्राप्नोति, _Tilaka_; शिथिलसंकल्पा क्रियते, _Śiromaṇi_) and eager to see Bharata even before the fourteen years expire (असंपूर्णेऽपि वनवासकाले तद्दर्शने संजातकुतूहला भवति, _Bhūṣaṇa_).
+
+_____________
+
+**3.16.39 (The Five Epithets of Bharata's Speech)**
+
+In the Southern Recension verse 3.16.39, _Tilaka_ and _Bhūṣaṇa_ distinguish each epithet: words may be well-meaning (प्रियाणि) yet harsh to the ear (कर्णकठोराणि), hence मधुराणि (sweetly articulated); हृद्यानि means captivating the heart like a mantra (मन्त्रवत्सद्योरञ्जनानि, _Tilaka_), अमृतकल्पानि nectar-like, and मनःप्रह्लादनानि refreshing even in memory.
+
+_____________
+
+**3.16.40 (tvayā ca & Overwhelming Fraternal Love)**
+
+On the Southern Recension verse 3.16.40, all three commentators address how Rāma can ask Lakṣmaṇa, who is standing right beside him, “When shall I be reunited with Bharata, Śatrughna, and with you (त्वया च)?” **Rāma Varmā** (_Tilaka_) supplies सहितः (“accompanied by you”), **Śivasahāya** (_Śiromaṇi_) cites the maxim that without one member the pair feels incomplete (एकसत्त्वेऽपि द्वयं नास्तीति न्यायोऽत्रानुसृतः), and **Govindarāja** (_Bhūṣaṇa_) explains that without Bharata's company Rāma feels separated even from Sītā and Lakṣmaṇa beside him (विद्यमानाभ्यां सीतालक्ष्मणाभ्यामपि विरहितमात्मानं मन्यते).
+
+_____________
+
+**3.16.41–42 (Godāvarī Ablutions, Tarpaṇa & Sūryopasthāna)**
+
+Reaching the Godāvarī while expressing his longing for Bharata (विलपन्), Rāma bathes (अभिषेकं) with Sītā and Lakṣmaṇa, offers water-libations (सलिलैः पितॄन् दैवतानि च तर्पयित्वा), and worships the risen sun. **Govindarāja** specifies that Rāma and Lakṣmaṇa worship the sun with Vedic mantras (मित्रस्येत्यादिमन्त्रेण), while Sītā offers prayers with her own appropriate formula (स्वमन्त्रेण).
+
+_____________
+
+**3.16.43 (The Closing Simile of Rudra, Umā & Nandin)**
+
+In the concluding _Upajāti_ verse, Rāma with Sītā and Lakṣmaṇa is compared to Lord Śiva (रुद्रः... ईशः) with Pārvatī (गिरिराजपुत्र्या) and Nandin (सनन्दिः). **Rāma Varmā** (_Tilaka_) notes that the comparison to Rudra foreshadows Rāma's impending wrath to destroy the rākṣasas (रुद्रोपमया संहाराविष्टचित्तत्वं दर्शयति), while **Govindarāja** likewise notes that he has become unassailable (दुष्प्रधर्षत्वमुत्प्रेक्ष्यते) and rejects a sectarian tampered reading सविष्णुः as absent from all manuscripts (न क्वचिदपि कोशे दृश्यते).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

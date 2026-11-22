@@ -157,6 +157,152 @@ United with her, that night-roamer (_rajanīcaraḥ_) shone resplendent like a g
 
 He begot three sons whose frames blazed like the three sacrificial fires (_tretāgni-sama-vigrahān_): Mālyavān, Sumālī, and Mālin, foremost among the mighty (_balināṃ varam_)—three Rākṣasa sons equal to the three-eyed Śiva (_trinetra-samān_), did that lord of Rākṣasas sire.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.5.1–3 (Grāmaṇī's Gift of Devavatī)**
+
+$18
+
+_____________
+
+**7.5.4–5 (The Birth of Mālyavān, Sumālī, and Mālin)**
+
+On the majestic simile in 7.5.4cd, **Rāma Varmā** (_Tilaka_), **Govindarāja**, and **Śivasahāya** all identify अञ्जनात् as the celestial quarter-elephant Añjana (अञ्जनाख्यदिग्गजादभिनिष्कान्त उत्पन्नः): united with Devavatī, Sukeśa radiated the splendor of a prime bull-elephant accompanied by his mate (करेण्वा सह). Introducing the birth of his three famous sons in 7.5.5, Rāma Varmā records the alternative reading तान्पुत्रान् (‘those celebrated sons about to be named’, तान्प्रसिद्धान्वक्ष्यमाणान्) in place of त्रीन्पुत्रान्. Śivasahāya notes that Sukeśa sired these three princes—Mālyavān, Sumālī, and Mālin—at the proper season (काले उत्पत्तिसमये), matching the three-eyed Śiva himself in vigor, splendor, and terrifying prowess.
+
+_____________
+
+**7.5.6 (The Fourfold Triad of Similes)**
+
+$1b
+
+_____________
+
+**7.5.7 (Unchecked Growth and Archaic Sandhi)**
+
+Extending the medical metaphor introduced at the close of the previous verse, **Rāma Varmā** (_Tilaka_) glosses उपेक्षिताः as maladies left untreated without medical intervention (अचिकित्सिता व्याधय इवेत्यर्थः), underscoring the peril latent in the brothers' unchecked rise. Both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) explicitly identify the coalesced sandhi व्याधयोपेक्षिताः as archaic epic license (सन्धिरार्षः), while Govindarāja notes that the variant त्रेताग्निसमवर्चसः emphasizes their surpassing fiery luster (तेजोऽतिशय उक्तः). **Śivasahāya** (_Śiromaṇi_) similarly highlights how Sukeśa's three sons rapidly expanded in strength (विवृद्धिमगमन्) just like neglected diseases spreading unrestrained through the body.
+
+_____________
+
+**7.5.8–10 (Austerity on Mount Meru)**
+
+On 7.5.8, **Śivasahāya** explains that once the three brothers realized their father's boon and sovereign splendor had been won through ascetic power, they formed a resolute determination and journeyed to Mount Meru to perform penance (तपस्तप्तुं कृतनिश्चयाः सन्तो मेरुं गताः). Narratively, Vālmīki underscores a telling moral irony in 7.5.9–10: even formidable Rākṣasas can command cosmic potency only by practicing genuine ascetic disciplines—truth, uprightness, and inner composure (सत्यादिभिरुपेतैः तपोभिः). Yet because their ultimate goal remains domination rather than self-transcendence, the ferocious heat (_tapas_) of their terrible vows scorches gods, Asuras, and mortals alike throughout the three worlds.
+
+_____________
+
+**7.5.11–12 (Brahmā's Advent and the Brothers' Awe)**
+
+When the searing radiance of their penance reaches heaven, **Śivasahāya** observes that the four-faced Grandsire (चतुर्वक्त्रो ब्रह्मा), seated upon his supreme celestial car, directly summons Sukeśa's sons (सुकेशपुत्रानामन्त्र्य सम्बोध्य) and announces himself ready to bestow a boon (वरदोऽस्मीत्यभाषत). Beholding the Creator attended by Indra and the assembled hosts of celestials, the three fearsome ascetics stand with palms reverently folded (प्राञ्जलयः) and quiver like wind-shaken trees (वेपमाना इव द्रुमाः)—a poignant simile capturing simultaneously their emaciated physical state after harsh vows and their instinctive tremor of awe before the supreme Lord of Creation.
+
+_____________
+
+**7.5.13 (The Fourfold Boon and Archaic Morphology)**
+
+Dissecting the brothers' carefully crafted petition, **Rāma Varmā** (_Tilaka_) glosses दिशसे as ‘you bestow’ (ददासि), अजेयाः as ‘incapable of being conquered’ (जेतुमनर्हाः), प्रभविष्ण्वः as ‘sovereign lords’ (प्रभव इति यावत्), and परस्परमनुव्रताः as ‘mutually devoted to one another’ (अनुरक्ताश्च भवामेत्यन्वयः), a gloss echoed closely by **Govindarāja** (_Bhūṣaṇa_). **Śivasahāya** (_Śiromaṇi_) construes all three lines as a single grammatical unit (सार्धश्लोक एकान्वयी), glosses प्रभविष्ण्वः as ‘possessed of mighty sway’ (प्रभाववन्तः), and defends its syncopated form by invoking the Pāṇinian maxim that rules prefaced by a technical term (_guṇa_) are non-obligatory.
+
+_____________
+
+**7.5.14–16 (Brahmā's Departure and the Reign of Terror)**
+
+Both **Rāma Varmā** and **Govindarāja** resolve the dative ब्रह्मलोकाय in 7.5.14c as a goal of motion signifying ‘in order to reach Brahmā's realm’ (तं प्राप्तुम् / ब्रह्मलोकं गन्तुम्). Rāma Varmā observes that the epithet ब्राह्मणवत्सलः (‘tender toward Brāhmaṇas’) reflects Brahmā's paternal regard for the primeval lineage of his own creation. Immediately thereafter, the boon breeds unrestrained tyranny: **Śivasahāya** remarks that made utterly fearless by Brahmā's grant (वरदानेन सुनिर्भयाः), the three night-roamers harass gods and Asuras alike, leaving celestials, sages, and Cāraṇas completely helpless, like mortals plunged into the torments of hell (निरयस्था नरा इव त्रातारं नाधिगच्छन्ति).
+
+_____________
+
+**7.5.17–18 (Approaching Viśvakarman)**
+
+Having asserted supremacy across the worlds, the three jubilant brothers seek a royal capital worthy of their dominion. **Rāma Varmā** identifies ते as Mālyavān and his brothers (माल्यवदादयः) and glosses अव्ययम् as ‘immortal’ or ‘long-lived’ (चिरजीविनम्). Linking 7.5.18 syntactically with 7.5.19 as a single speech (श्लोकद्वयमेकान्वयी, **Śivasahāya**), Rāma Varmā explains the calculated flattery of their address: since Viśvakarman alone fashions by his own creative power (आत्मतेजसा आत्मसामर्थ्येन) the heart-desired mansions of the mighty gods endowed with vigor, radiance, and strength, he ought now to erect an equally splendid palace for them.
+
+_____________
+
+**7.5.19–21 (A Palace Like Śiva's and the Twin Southern Peaks)**
+
+Having demanded a residence matching Maheśvara's abode on the sacred northern ranges, the Rākṣasas are deftly redirected southward by Viśvakarman, who describes a citadel rivaling Indra's own Amarāvatī (शक्रस्यामरावतीमिव तेषां निवासं कथयामास, **Śivasahāya**). Construing 7.5.21–24a as a single extended period (दक्षिणस्येत्यादि सार्धत्रयम्), **Govindarāja** (_Bhūṣaṇa_) joins the mountain setting directly to the city's dimensions, while **Rāma Varmā** (_Tilaka_) and Śivasahāya explain द्वितीयः in 7.5.21d as signifying a second peak equal in grandeur to Trikūṭa (द्वितीयस्तत्सदृश इत्यर्थः), namely Suvela—the very summit from which Rāma will later survey Laṅkā in Book VI.
+
+_____________
+
+**7.5.22 (The Chisel-Sheared Summit of Trikūṭa)**
+
+Commenting on the central peak (मध्यमे शिखरे), **Govindarāja** glosses अम्बुदसन्निभे as ‘resembling a rain-cloud’ (मेघसमानरूपे). Both Govindarāja and **Rāma Varmā** highlight the logical link between the two halves of line 2: the compound टङ्कच्छिन्नचतुर्दिशि supplies the exact reason (हेतुः) why the summit is unapproachable even by birds (शकुनैरपि दुष्प्रापे). **Śivasahāya** cites the _Medinī_ lexicon to unpack the polysemy of _ṭaṅka_—stone-cutter's chisel (शिलाविदारकखनित्रविशेषः), sword, or precipice—explaining that all four flanks drop away sheer as if carved by a blade, depriving even winged creatures of a perch.
+
+_____________
+
+**7.5.23–24 (Laṅkā's Dimensions and Imperial Architecture)**
+
+**Śivasahāya** connects the four half-verses of 7.5.22–24a (अर्धचतुष्टयमेकान्वयि) to reveal the grand climax of Viśvakarman's speech: thirty _yojanas_ wide and a hundred long (त्रिंशद्योजनविस्तीर्णा शतयोजनमायता), girdled by golden ramparts (स्वर्णप्राकारसंवीता आच्छादिता), the city of Laṅkā was already constructed by him at Indra's command (शक्राज्ञप्तेन निर्मिता). By offering this vacant celestial fortress rather than building a new northern stronghold on Himavat or Meru, the divine architect fulfills their request while keeping the aggressive Rākṣasas isolated beyond the southern sea.
+
+_____________
+
+**7.5.25 (Amarāvatī's Counterpart and Hypermetric License)**
+
+Bringing Viśvakarman's counsel to a persuasive close, **Śivasahāya** (_Śiromaṇi_) paraphrases his assurance that once ensconced inside Laṅkā's mountain stronghold amid myriad Rākṣasa retainers, the brothers will remain utterly unassailable by every adversary (लङ्कां समासाद्य शत्रूणां दुराधर्षा भविष्यथ). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) pause to examine the metrical irregularity of the opening nine-syllable pāda अमरावतीं समासाद्य, which renders line 1 hypermetric at seventeen syllables: Rāma Varmā explicitly classifies it as archaic epic license (नवाक्षरपादतार्षी), whereas Govindarāja attributes the extra syllable directly to the prosodic exigency of the proper noun _Amarāvatī_ (पदवशादक्षराधिक्यम्).
+
+_____________
+
+**7.5.26–27 (Settlement of the Golden Fortress)**
+
+Turning to the Rākṣasas' triumphant occupation of Laṅkā, both **Rāma Varmā** and **Govindarāja** explain सहस्रानुचराः not as a narrow numerical count but as an indefinite multitude—‘attended by thousands, that is, countless followers’ (सहस्रमनेकेऽनुचरा येषां ते सहस्रानुचराः). **Śivasahāya** observes that 7.5.27 restates their joyous settlement with heightened architectural vividness (तदेव भङ्ग्यन्तरेणाह), analyzing दृढप्राकारपरिखाम् as a _bahuvrīhi_ compound (‘possessing formidable ramparts and deep moats’, दृढाः प्राकाराः परिखाश्च यस्याः) and glossing हैमैः as ‘fashioned entirely of gold’ (हेममयैः), evoking the golden metropolis familiar from the _Sundarakāṇḍa_.
+
+_____________
+
+**7.5.28–30 (The Gandharvī Narmadā and Her Three Daughters)**
+
+Introducing the matrimonial alliance that will populate Laṅkā with its fateful next generation, all three commentators pause on the striking negative epithet अराक्षसी (‘non-Rākṣasī’) in 7.5.29d. **Rāma Varmā** and **Śivasahāya** gloss it as ‘belonging to a race distinct from the Rākṣasas’ (राक्षसजातिभिन्ना), while **Govindarāja** likewise renders it as ‘outside the Rākṣasa lineage’ (राक्षसजातिव्यतिरिक्ता). Just as Sukeśa earlier wed the Gandharva maiden Devavatī, his three sons now receive from the Gandharvī Narmadā three full-moon-faced brides radiant as Intelligence, Fortune, and Fame, bestowed scrupulously in order of seniority (ज्येष्ठक्रमेण).
+
+_____________
+
+**7.5.31 (The Auspicious Asterism Uttaraphālgunī)**
+
+Commenting on the marriage rite in 7.5.31, **Rāma Varmā** (_Tilaka_) clarifies दत्ता मात्रा as signifying that the three brides were bestowed freely by their mother Narmadā's own willing consent (मात्रा नर्मदयेच्छया दत्ता इत्यर्थः). Both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) identify the lunar asterism presided over by the deity Bhaga (नक्षत्रे भगदैवते) specifically as **Uttaraphālgunī** (भगदैवतं नक्षत्रमुत्तराफाल्गुनी)—the very auspicious star under which Rāma and Sītā themselves were wed in the _Bālakāṇḍa_. **Śivasahāya** (_Śiromaṇi_) likewise emphasizes the solemn maternal bestowal of the Gandharva maidens under this favored nuptial constellation.
+
+_____________
+
+**7.5.32–34 (Sundarī and the Lineage of Mālyavān)**
+
+Once wed (कृतदाराः), **Śivasahāya** observes that Sukeśa's three sons reveled happily with their consorts like immortals with celestial nymphs (भार्याभिः सह चिक्रीडुः). Unpacking the charming wordplay (_yamaka_) in सुन्दरी नाम सुन्दरी (7.5.32d), Śivasahāya distinguishes the proper name from the descriptive epithet—‘Sundarī by name, distinguished by exquisite beauty’ (सुन्दरी सौन्दर्यविशिष्टा सुन्दरी नाम माल्यवतो भार्या). Construing 7.5.33–34 as a single enumerative sequence (सार्धश्लोक एकान्वयी), he records Mālyavān's eight children: seven fierce warriors—Vajramuṣṭi, Virūpākṣa, Durmukha, Suptaghna, Yajñakopa, Matta, and Unmatta—together with one fair daughter, Analā.
+
+_____________
+
+**7.5.35 (Ketumatī, Beloved Consort of Sumālī)**
+
+Turning from the eldest brother to the second, Agastya introduces Sumālī's consort Ketumatī, whose full-moon radiance and supreme place in her husband's heart (प्राणेभ्योऽपि गरीयसी) prepare the ground for the pivotal genealogy of the next spread. Remarkably, almost every warrior enumerated in Mālyavān's brood—Vajramuṣṭi, Virūpākṣa, Durmukha, Matta, and Unmatta—bears a name famous among Rāvaṇa's front-line generals in the _Yuddhakāṇḍa_, illustrating how Vālmīki's _Uttarakāṇḍa_ consciously anchors the ancestral house of Sukeśa within the epic war Rāma has just brought to a close.
+
+_____________
+
+**7.5.36–38 (The Fourteen Offspring of Sumālī)**
+
+Construing 7.5.37–38 together as a single enumerative sentence (सार्धश्लोकद्वयमेकान्वयि), **Śivasahāya** (_Śiromaṇi_) catalogues Sumālī's fourteen children by Ketumatī—ten formidable sons from Prahasta through Bhāsakarṇa, followed by four daughters: Rākā, Puṣpotkaṭā, Kaikasī, and Kumbhīnasī. Śivasahāya offers an astute grammatical observation on the genitive सुमालेः in 7.5.38f: although the name is inflected as an _-in_-stem (_Sumālin_) in the nominative (सुमाली), Vālmīki here treats it as a simple _-i_-stem (इकारान्तोऽपि सुमालिशब्दः). **Govindarāja** (_Bhūṣaṇa_) records the variant reading ऋका for the eldest daughter राका, while confirming singular शुचिस्मिता for Kaikasī.
+
+_____________
+
+**7.5.37–38 (Epic Echoes and the Mother of Rāvaṇa)**
+
+Narratively, this genealogical register holds the crucial link to the _Rāmāyaṇa_'s central conflict. Among Sumālī's ten sons stand Rāvaṇa's maternal uncles who later commanded Laṅkā's armies against Rāma in Book VI—Prahasta, Akampana, Dhūmrākṣa, Supārśva, and Praghasa—while among his four daughters stands the pure-smiling **Kaikasī** (कैकसी च शुचिस्मिता), whose union with the sage Viśravas in Sarga 9 will bring forth Rāvaṇa, Kumbhakarṇa, Śūrpaṇakhā, and Vibhīṣaṇa. Thus the prolific house of Sukeśa directly bridges the primeval Rākṣasa clans of Laṅkā and the Paulastya dynasty overthrown by Rāma.
+
+_____________
+
+**7.5.39 (Vasudhā, Consort of Mālin)**
+
+Introducing the third brother's consort, **Rāma Varmā** (_Tilaka_) analyzes the closing simile यक्षीवरोपमा as ‘comparable to the foremost among Yakṣī nymphs’ (यक्षीवरो यक्षीश्रेष्ठा तयोपमीयते सा यक्षीवरोपमा), while **Śivasahāya** confirms the variant name वसुदा for Mālin's Gandharva bride (यक्षीवरोपमा वसुदा नाम गन्धर्वी मालेर्भार्यासीत्). The layered visual epithets—रूपशालिनी (‘endowed with grace’), पद्मपत्राक्षी (‘lotus-petal-eyed’), and स्वक्षी (‘fair-eyed’)—underscore the celestial Gandharva refinement repeatedly blended into the Rākṣasa bloodline, setting a poised contrast just before Agastya names Mālin's four upright sons who later serve Vibhīṣaṇa.
+
+_____________
+
+**7.5.40–41 (Mālin's Four Sons, Ministers of Vibhīṣaṇa)**
+
+Identifying सुमालेरनुजः as Mālin (सुमालेरनुजो माली), **Śivasahāya** (_Śiromaṇi_) notes that his four sons—Anila, Anala, Hara, and Sampāti—became the faithful counselors of Vibhīṣaṇa (अनलादयो मालेया विभीषणामात्या अभवन्), the very four loyal attendants who later flew across the ocean with Vibhīṣaṇa to seek Rāma's shelter in the _Yuddhakāṇḍa_. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) derive the patronymic मालेयाः rigorously via Pāṇini's rule इतश्चानिञः (4.1.122), affixing the suffix _ḍhak_ (_-eya_) to the _-i_-stem _māli_.
+
+_____________
+
+**7.5.42 (The Threefold Tyranny Over the Worlds)**
+
+Shifting from _anuṣṭubh_ into the stately twelve-syllable _Vaṃśastha_ meter to signal the sarga's solemn conclusion, Vālmīki expands his canvas from domestic genealogy to cosmic crisis. **Śivasahāya** observes how the three Rākṣasa chieftains, reinforced by hundreds of fierce offspring and intoxicated by pride in their vast might (बहुवीर्यदर्पिताः), systematically tormented the gods led by Indra alongside sages, Nāgas, and Yakṣas (सहेन्द्रान् सुरान् ऋषिनागयक्षान् बबाधिरे), precipitating the cosmic emergency that drives the afflicted celestials to approach Śiva and Viṣṇu in Sarga 6.
+
+_____________
+
+**7.5.43 (Destroyers of Sacred Sacrifice)**
+
+Completing his portrait of Rākṣasa arrogance, **Śivasahāya** glosses प्रशमङ्कराः as ‘perpetual wreckers or defilers of Vedic sacrificial rites’ (क्रतुक्रियाणां सदा प्रशमङ्करा दूषका इत्यर्थः), driven to reckless excess by pride in Brahmā's boon (वरप्रदानाद्भृशं गर्विताः). Both **Rāma Varmā** and **Govindarāja** independently single out the archaic grammar of प्रशमङ्कराः, noting that its nasalized compound form exhibits an _ārṣa_ application of the Pāṇinian suffix _khac_ (प्रशमङ्करा इत्यार्षः खच्), fittingly concluding a sarga rich in ancient epic linguistic forms.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

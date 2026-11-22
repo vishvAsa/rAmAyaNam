@@ -78,6 +78,14 @@ of the legend of Vishvamitra. [1-54-1]
 
 When the sage Vasiṣṭha would by no means give up the wish-granting cow (_kāmadhenum_), O Rāma, Viśvāmitra forcibly dragged away his Śabalā (_śabalām anvakarṣata_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.1–2 (anvakarṣata & daṇḍopāyapravṛtti)**
+
+**Rāma Varmā (_Tilaka_)** notes that after conciliation and lavish barter failed in Sarga 53, Viśvāmitra now resorts to coercive force (_atha daṇḍopāyapravṛttim āha_), dragging Śabalā away violently (_anvakarṣata balād iti śeṣaḥ_, **Tilaka**; _haṭhād anayat_, **Śiromaṇi**) when Vasiṣṭha refuses to surrender her (_na tyajate nātyajat_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -189,6 +197,14 @@ what? [1-54-3]
 
 “Why have I been forsaken (_kim ahaṃ parityaktā_) by the supremely high-souled Vasiṣṭha, that I, wretched and sorely distressed (_dīnā bhṛśaduḥkhitā_), should be carried off by the king’s servants (_rājabhṛtair hriyeya_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.3–4 (rājabhṛtaiḥ, hriyeya & bhṛśaduḥkhitā)**
+
+**Tilaka** derives _rājabhṛtaiḥ_ (“by the king’s hirelings”) with suffix _-ki_ and parses _hriyeya_ as a passive optative (_karmaṇi liṅ_), whereas **Govindarāja** reads _rājabhaṭaiḥ ... hriyeyam_ (first-person passive imperfect in distress, _karmaṇi saṃbhrame laṅ_) and explains the loss of _-m_ in _bhṛśaduḥkhitā_ by grammatical convention (_vṛttiviṣaye makāralopaḥ_). In v. 4, **Tilaka** reads _dṛṣṭvā_ (“knowing me innocent”), while **Śiromaṇi** and **Govindarāja** read _bhaktām iṣṭām_.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -281,6 +297,14 @@ _________________
 
 Having reflected thus (_iti saṃcintayitvā_) and sighing again and again (_niḥśvasya ca punaḥ punaḥ_), she sped with great velocity (_jagāma vegena_) back to Vasiṣṭha of supreme splendor (_paramaujasam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.5–6 (nirdhūya tāṃs tadā bhṛtyān & pādamūlam)**
+
+Casting off and hurling down (_nirdhūya nipātya_, **Śiromaṇi**) hundreds of royal servants who were dragging her (_svakarṣakān_, **Tilaka**), Śabalā speeds with the velocity of the wind (_anilavegena_) to the feet of the high-souled Vasiṣṭha (_pādamūlaṃ caraṇasamīpam_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -364,6 +388,14 @@ bellowing like a thunderous cloud. [1-54-7]
 **6:** Shaking off those royal retainers by the hundreds (_nirdhūya tāṃs tadā bhṛtyān śataśaḥ_), O destroyer of foes, she flew with the speed of the wind (_anilavegena_) to the feet of the high-souled sage (_pādamūlaṃ mahātmanaḥ_).
 
 **7:** Weeping (_rudantī_) and crying out in distress (_krośantī_), Śabalā stood before Vasiṣṭha and spoke these words, weeping with a voice deep as rumbling thunderclouds (_rudantī meghaniḥsvanā_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.7–9 (dvir rudantī & svasāram iva)**
+
+Why does v. 7 repeat _rudantī_ twice? **Tilaka** explains that Śabalā wept both while approaching the sage and while speaking (_rudantyā eva ṛṣisamīpagamanaṃ rudantyaiva ca kathanam_), whereas **Śiromaṇi** construes the second _rudantī_ causatively—moving others to tears by her piteous cries (_anyān api rodayantī_). Vasiṣṭha consoles her tenderly like a grieving sister (_svasāram iva bhaginīsadṛśīm_).
 </details>
 </details>
 
@@ -506,6 +538,14 @@ weaning you away from me as he is beside himself with kingly arrogance. [1-54-10
 
 “I do not forsake you, O Śabalā (_na tvāṃ tyajāmi śabale_), nor have you done me any wrong (_nāpi me ’pakṛtaṃ tvayā_); it is this mighty king, intoxicated with power (_matto mahābalaḥ_), who carries you off by force (_balān nayate_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.10–11 (mattaḥ & rājā tv adya viśeṣataḥ)**
+
+On _balān mattaḥ_ (v. 10d), **Tilaka** (_avivekī_) and **Śiromaṇi** (_unmattaḥ_) gloss _mattaḥ_ as “intoxicated with pride, lacking discernment,” whereas **Govindarāja** takes it as ablative _mat-taḥ_ (“from my presence,” _matsakāśāt_). Why does Vasiṣṭha not punish him by ascetic power (_tapobalena_)? **Tilaka** and **Govindarāja** explain that an anointed king is inviolable (_rājā tapobalena na daṇḍyaḥ_), and “especially today” (_adya viśeṣataḥ_) because Viśvāmitra has just been honored with hospitality as a guest (_kṛtātithyake dine tenātithitvād viśeṣato ’vadhyaḥ_, **Tilaka**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -605,6 +645,14 @@ he is mightier than me.' Thus Vashishta tried to pacify that Sacred-Cow. [1-54-1
 
 “Here stands his full _akṣauhiṇī_ host (_iyam akṣauhiṇī pūrṇā_), teeming with elephants, horses, and chariots (_gajavājirathākulā_), crowded with war-elephants and banners (_hastidhvajasamākīrṇā_); therefore is he stronger (_balavattaraḥ_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.12 (akṣauhiṇī pūrṇā)**
+
+**Śiromaṇi** adds that the Brahmin order, defined by serene forbearance (_śāntiguṇaviśiṣṭatvena_), does not match worldly armies against a monarch backed by a complete _akṣauhiṇī_ host.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -660,6 +708,14 @@ resplendence. [1-54-13]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus by Vasiṣṭha, she who knew the art of fitting speech (_vacanajñā sā_) humbly replied with these words (_pratyuvāca vinītavat vacanam_) to the Brahmarṣi of peerless effulgence (_atulaprabham_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.13–14 (na balaṃ kṣatriyasyāhur brāhmaṇā balavattarāḥ)**
+
+In her celebrated maxim contrasting temporal and spiritual power, Śabalā declares that the wise deem Kṣatriya might trifling (_na balam alpabalam_, **Tilaka** and **Śiromaṇi**, taking _nañ_ in the sense of smallness, _alpārthako nañ_). Why are Brahmins stronger? Because Brahmanic power (_brahmabalam_) is divine and supramundane (_divyaṃ prākṛtavilakṣaṇam_, **Śiromaṇi**), far excelling martial force (_kṣātrāt kṣatriyabalād api balavattaram_, **Tilaka**).
 </details>
 </details>
 
@@ -805,6 +861,14 @@ invincible is your dynamism. [1-54-15]
 
 “Immeasurable is your power (_aprameyaṃ balaṃ tubhyam_); even Viśvāmitra of great valor (_viśvāmitro mahāvīryaḥ_) is not stronger than you (_na tvayā balavattaraḥ_), for your spiritual radiance is unassailable (_tejas tava durāsadam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.15–16 (tvayā balavattaraḥ & niyuṅkṣva mām)**
+
+Construing _tubhyam_ as genitive (_tava_) and _tvayā_ as ablative of comparison (_tvattaḥ_, **Tilaka**, **Śiromaṇi**), Śabalā affirms that Vasiṣṭha’s ascetic energy (_tapojanitaprabhāvaḥ_) is unassailable (_durāsadam_). Why does she ask Vasiṣṭha to authorize her (_niyuṅkṣva mām_, v. 16) instead of acting alone? **Tilaka** explains that although as the wish-granting cow she possesses innate potency, a devoted subordinate awaits her master’s command (_kāmadhenutvān niyogāpekṣā_), nourished by his mantra-power (_tava mantrabalena saṃpoṣitām_, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -912,6 +976,14 @@ said so to Shabala.[1-54-17]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus by her, O Rāma, Vasiṣṭha of great renown (_mahāyaśāḥ_) then spoke: “Bring forth (_sṛjasveti_) an army that shall crush the hostile host (_balaṃ parabalārdanam_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.17–18 (sṛjasva & huṃbhāravotsṛṣṭāḥ pahlavāḥ)**
+
+At Vasiṣṭha’s command “Create!” (_sṛjasva_), Śabalā emits from her bellowing roar (_hambhā nāma gavāṃ śabdaḥ_, **Tilaka**; _huṃbhāravaḥ paśūnāṃ hambhāśabdaḥ_, **Govindarāja**) hundreds of fierce _Pahlava_ (var. _Paplava_) warriors.
 </details>
 </details>
 
@@ -1031,6 +1103,14 @@ destroy those Pahlava-s with many a kind of his weaponry. [1-54-19b, 20a]
 
 —who began to destroy that entire army (_nāśayanti balaṃ sarvam_) while Viśvāmitra looked on (_viśvāmitrasya paśyataḥ_). Then that king, supremely incensed (_paramakruddhaḥ_), with his eyes wide with fury (_krodhavisphāritekṣaṇaḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.19–20 (viśvāmitrasya paśyataḥ & uccāvacaiḥ śastraiḥ)**
+
+All three commentators explain _viśvāmitrasya paśyataḥ_ as a genitive absolute of disregard (_anādare ṣaṣṭhī_, Pāṇini 2.3.38): the _Pahlavas_ destroy Viśvāmitra’s army in defiance of the king looking on (_paśyantaṃ viśvāmitram anādṛtya_, **Śiromaṇi**). With eyes dilated in rage (_visphāritaṃ vivṛtam_, **Tilaka**, **Govindarāja**), Viśvāmitra slaughters the _Pahlavas_ with weapons of every grade (_uccāvacaiḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1116,6 +1196,14 @@ bodily colour similar to the golden pistils of flowers which complexion is outla
 **20:** —slaughtered the Pahlavas (_pahlavān nāśayāmāsa_) with weapons of every kind, high and low (_śastrair uccāvacair api_). Beholding the Pahlavas harried by Viśvāmitra by the hundreds (_viśvāmitrārditān dṛṣṭvā pahlavān śataśas tadā_)—
 
 **21:** —she once again created dreadful Śakas mingled with Yavanas (_bhūya evāsṛjad ghorān śakān yavanamiśritān_); by those Śakas mingled with Yavanas, the entire earth was covered over (_tair āsīt saṃvṛtā bhūmiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.21–22 (śakān yavanamiśritān & hemakiñjalkasaṃnibhaiḥ)**
+
+Seeing the _Pahlavas_ harried (_arditāḥ pīḍitāḥ_, **Tilaka**; _hiṃsitān_, **Govindarāja**), Śabalā brings forth fierce _Śakas_ mingled with _Yavanas_. **Tilaka** and **Śiromaṇi** gloss _hemakiñjalkasaṃnibhaiḥ_ as gleaming like golden lotus-filaments or golden _campaka_ stamens (_campakakeśaratulyaiḥ_), clad in yellow-gold raiment (_hemavarṇāmbaraṃ pītāmbaram_, **Tilaka**) and wielding sharp swords and _paṭṭiśa_ spears.
 </details>
 </details>
 
@@ -1220,6 +1308,14 @@ have been the ancestor word of the present day 'Barbarian.'
 **22:** By those radiant warriors of mighty valor (_prabhāvadbhir mahāvīryaiḥ_), gleaming like golden lotus-filaments (_hemakiñjalkasaṃnibhaiḥ_), wielding sharp swords and _paṭṭiśa_ spears (_tīkṣṇāsipaṭṭiśadharaiḥ_) and clad in golden-hued garments (_hemavarṇāmbarāvṛtaiḥ_)—
 
 **23:** —that entire army of Viśvāmitra was burned to ashes as if by blazing fires (_nirdagdhaṃ tad balaṃ sarvaṃ pradīptair iva pāvakaiḥ_). Then Viśvāmitra of mighty splendor unleashed his celestial missiles (_tato ’strāṇi mumoca ha_), by which those Yavanas, Kāmbojas, and Barbaras were thrown into utter confusion (_ākulīkṛtāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**54.23 (nirdagdhaṃ tad balam & mumoca ha)**
+
+As these golden-clad hosts consume Viśvāmitra’s army like blazing fires (_pradīptair iva pāvakaiḥ_), the king finally unleashes his celestial missiles (_astrāṇi mumoca_, **Śiromaṇi**), throwing the _Yavanas_, _Kāmbojas_, and _Barbaras_ into confusion (_ākulīkṛtāḥ_).
 </details>
 </details>
 

@@ -68,6 +68,14 @@ Sāraṇa points out the long-tailed Vānara commander Hara and the countless da
 
 “Now I shall declare in full to you, as you look on (_prekṣamāṇasya_), those troop-commanders (_yūthapān_) who, valorous for the sake of Rāghava (_rāghavārthe_), do not spare their own lives.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–3.**
+
+Govindarāja (_Bhūṣaṇa_) observes that Sāraṇa now introduces principal troop-commanders even more distinguished than Panasa (पनसादिभ्योऽप्युत्कृष्टान् प्रधानयूथपतीन् वक्तुं प्रतिजानीते). Adopting the reading वालाः (`tail-hairs') in 2a, he defines a _vyāma_ as the span of both outstretched arms (व्यामो नाम प्रसारितबाहुद्वयप्रमाणम्) and likens Hara's multicolored tail-hairs shining in the sky to solar rays refracted as rainbows across clouds (मेघेषु शक्रचापादिरूपेण प्रसृता रश्मय इव).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -149,6 +157,14 @@ soon."
 **3:** —which, when held aloft (_pragṛhītāḥ_), shine like the rays of the sun (_sūryasyeva marīcayaḥ_) and trail along the ground (_pṛthivyāṃ cānukṛṣyante_)—this Vānara is named Hara.
 
 **4:** Behind him (_pṛṣṭhataḥ_) follow by the hundreds and thousands, suddenly brandishing trees (_vṛkṣān udyamya_) and intent upon scaling Laṅkā (_laṅkārohaṇatatparāḥ_),—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2–4.**
+
+Rāma Varmā (_Tilaka_) cites _Kataka_ confirming that these verses describe Hara (हरवर्णनमिति कतकः), noting that others refer them to Tāra (तारस्येत्यन्ये), and identifies Hara as belonging to the long-tailed _golāṅgūla_ breed (हरो गोलाङ्गूलजातिः). Śivasahāya (_Śiromaṇi_) construes verses 2–4 as a single syntactic unit (सार्धश्लोकत्रयमेकान्वयि). Govindarāja explains that because Hara is Sugrīva's servant, his subordinate captains too are rightly called हरिराजस्य किंकराः.
 </details>
 </details>
 
@@ -278,6 +294,20 @@ on an excellent mountain named Rikshavanta."
 
 **9:** —who inhabits the noblest of mountains, Ṛkṣavat (_ṛkṣavantaṃ giriśreṣṭham_), drinking the waters of the Narmadā—this troop-commander, overlord of all the bears (_sarvarkṣāṇām adhipatiḥ_), is named Dhūmra.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5–6.**
+
+Introducing the bear-hosts (ऋक्षसेनां वर्णयति), Govindarāja glosses अनिर्देश्यान् as impossible to enumerate individually (प्रत्येकं निर्देष्टुमशक्यान्). Both _Tilaka_ and _Śiromaṇi_ explain the simile परं पारमिवोदधेः through secondary figuration (_lakṣaṇā_) as referring to the countless grains of sand on the ocean's farther shore (परपारस्थरेणूनिव).
+
+_____________
+
+**7–9.**
+
+Reading विषमेषु in 7a, Govindarāja (_Bhūṣaṇa_) glosses it as rugged, uneven fastnesses (विषमेषु निम्नोनतप्रदेशेषु). Śivasahāya (_Śiromaṇi_) links verses 7–9 into a four-half-verse unit introducing Dhūmra (अर्धचतुष्टयमेकान्वयि), glossing जीमूतैः as dark rain-clouds (कृष्णमेघैः), पर्जन्यः as Indra (or the rain-deity, वर्षदेवता in _Bhūṣaṇa_), and नर्मदां पिबन् hyperbolically as drinking dry the river Narmadā (नर्मदां नदीं पिबन् शोषयन् सन्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -349,6 +379,20 @@ respectful behaviour towards venerable persons impatient in battle."
 **10:** And his younger brother (_yavīyān bhrātā_)—behold him, resembling a mountain (_parvatopamam_), equal to his brother in form (_rūpeṇa_) yet excelling him in valor (_viśiṣṭas tu parākrame_)—
 
 **11:** —he is this Jāmbavān by name, a supreme commander of great troop-commanders (_mahāyūthapayūthapaḥ_), serene (_praśāntaḥ_), obedient to his elders (_guruvartī_), and uncompromising in battles (_samprahāreṣv amarṣaṇaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**10–11.**
+
+Turning to Jāmbavān (अथ जाम्बवद्वर्णनम्), Rāma Varmā (_Tilaka_) and Govindarāja gloss यवीयान् as Dhūmra's younger brother (अस्य धूम्रस्य कनिष्ठः) and विशिष्टः as superior (अधिकः). On गुरुवर्ती, Govindarāja explains it as one who dutifully serves his preceptors (गुरुशुश्रूषकः), while _Tilaka_ remarks that devotion to true preceptors implies his possession of all spiritual powers (सद्गुरूपासकः । अनेन सर्वसिद्धिमानित्युक्तम्).
+
+_____________
+
+**11–12.**
+
+Śivasahāya explains संप्रहारेष्वमर्षणः as so intolerant of foes in battle that he charges at the mere report of combat (तच्छ्रवणमात्रेण तत्र प्रवर्तत इत्यर्थः). In 12, _Tilaka_ glosses साह्यम् as assistance (साहाय्यम्) and supplies युद्धे or वैरे with दैवासुरे, while Govindarāja reads देवासुरे (देवासुरयुद्धे).
 </details>
 </details>
 
@@ -475,6 +519,14 @@ big as huge clouds. They do not have a fear in facing death."
 
 **14:** Shaggy with hair (_romaśāḥ_), resembling Rākṣasas and Piśācas, this [leader&#x27;s] numerous soldiers (_sainyā bahavaḥ_) of boundless energy (_amitaujasaḥ_) roam about.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13–14.**
+
+Both Govindarāja (_Bhūṣaṇa_) and Rāma Varmā (_Tilaka_) take verses 13–14 as describing Jāmbavān's soldiers (जाम्बवतः सैनिकान् वर्णयति). Govindarāja notes that climbing implies ascending mountain peaks (पर्वताग्राणीत्यर्थात्सिद्धम्) and glosses मुञ्चन्ति as dislodging boulders (च्यावयन्ति). _Tilaka_ explains रोमशाः as thickly hirsute (अधिकरोमवन्तः) and attributes their resemblance to Rākṣasas and Piśācas to their ferocity (रक्षःपिशाचसादृश्यं क्रौर्येण).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -543,6 +595,14 @@ Dambha who along with his bulky troops dwell on Sahasraksha mountain."
 **15:** Whom all the Vānaras, standing still, gaze upon—that commander of troop-commanders (_yūthapayūthapam_), fierce with rage (_abhisaṃrabdham_), who stands as though leaping (_plavamānam avasthitam_)—
 
 **16:** —this lord of monkeys (_harīśvaraḥ_), O king, attends upon the thousand-eyed Indra (_sahasrākṣam_) with his host (_balena_); endowed with might (_balasaṃyuktaḥ_), this troop-commander is named Dambha.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**15–16.**
+
+While Śivasahāya (_Śiromaṇi_) attaches verse 15 to Jāmbavān's troops gazing at Jāmbavān (अर्धषट्कमेकान्वयि), Govindarāja and _Tilaka_ pair 15–16 as introducing Dambha (द्वाभ्यां दम्भं वर्णयति). Govindarāja reads प्लवमानमिव स्थितम्—standing ever poised as if leaping, gazed upon in wonder (आश्चर्येणेति शेषः)—and glosses बलेन पर्युपास्ते as gratifying Indra through his strength (बलेन प्रीणयतीत्यर्थः), whereas _Śiromaṇi_ interprets बलेन as dispatching his own army to aid Indra (इन्द्रसाहाय्यार्थं स्वसैन्यं प्रेषयामासेत्यर्थः).
 </details>
 </details>
 
@@ -646,6 +706,20 @@ are ready to show their valour in the case of Rama, even without caring for thei
 **18:** —surpassing whom no higher form (_paramaṃ rūpam_) exists among quadrupeds (_catuṣpātsu_), he is renowned as Saṃnādana by name, the grandsire of the Vānaras (_vānarāṇāṃ pitāmahaḥ_).
 
 **19:** This wise one (_dhīmatā_) by whom battle was given in combat to Śakra at that time (_tadā_), and who suffered no defeat (_parājayaś ca na prāptaḥ_)—he is this commander of troop-commanders (_yūthapayūthapaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17–18.**
+
+On Saṃnādana (संनादनं वर्णयति), Govindarāja and _Tilaka_ explain that his body is a full _yojana_ in breadth and a _yojana_ in height (योजनायतशरीरः, योजनोन्नतकायः), so that as he strides, a mountain a _yojana_ distant brushes his side (एकयोजनपरिमितः पर्वतः पार्श्वस्थो भवति).
+
+_____________
+
+**19.**
+
+Concluding the portrait of Saṃnādana, Śivasahāya (_Śiromaṇi_) construes शक्रस्य युद्धं दत्तम् as meaning that he fought against Indra himself and was never defeated (तेन सह योधितवानित्यर्थः). Govindarāja (_Bhūṣaṇa_), however, interprets शक्रस्य रणे as in Indra's battle against the Asuras, explaining that Saṃnādana gave battle to the Asuras and suffered no defeat from them (येनासुरेभ्यो युद्धं दत्तं तदा पराजयश्चासुरेभ्यो न प्राप्तः).
 </details>
 </details>
 
@@ -790,6 +864,20 @@ shining like the rays of the sun standing erect thrown about are dragging along 
 **23:** —there this glorious and mighty foremost of Vānaras (_vānarottamaḥ_) delights (_ramate_); ever unboastful in battles (_yuddheṣv akatthanaḥ_), this troop-commander is named Krathana.
 
 **24:** Surrounded by a thousand crores of monkeys (_koṭisahasreṇa harīṇām_) and standing ready (_samavasthitaḥ_), he alone aspires (_eṣaivāśaṃsate_) to crush Laṅkā with his own army (_svenānīkena_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20–22.**
+
+Introducing Krathana (क्रोधनः in _Śiromaṇi_), all three commentators gloss कृष्णवर्त्मना as by the fire-god Agni (अग्निना, वह्निना), who begot him during the Deva-Asura war to aid the gods (त्रिदिवौकसां साह्यार्थम्). Reading यस्य वैश्रवणो राजा in 21b, Govindarāja construes यस्य with the mountain—Kailāsa (तत्र गिरौ कैलासे in _Tilaka_)—of which Kubera is king, which possesses the celestial _jambū_ tree (यो गिरिः जम्बूं जम्बूवृक्षम् उपनिषेवते), and which delights Rāvaṇa's brother Kubera.
+
+_____________
+
+**23–24.**
+
+Rāma Varmā (_Tilaka_) explains अकत्थनः as free from self-praise, demonstrating valor solely through deeds (आत्मश्लाघारहितः कार्येणैव पराक्रमप्रदर्शकः), while Śivasahāya glosses समवस्थितः as single-mindedly resolved (एकाग्रचित्तः).
 </details>
 </details>
 
@@ -985,6 +1073,32 @@ Pramathi."
 
 **31:** And [you behold] the furious host (_anīkam api saṃrabdham_) of impetuous Vānaras (_vānarāṇāṃ tarasvinām_), where, stirred up on all sides by the wind (_pavanena samantataḥ_), ruddy-gleaming (_aruṇābhāsam_),—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25–26.**
+
+Introducing Pramāthī (अथ प्रमाथिवर्णनम्), Govindarāja (_Bhūṣaṇa_), Rāma Varmā (_Tilaka_), and Śivasahāya (_Śiromaṇi_) recount the Purāṇic legend (पौराणिकी कथा) behind the ancient feud (पूर्ववैरम्) between elephants and monkeys: the Asura Śambasādana took elephant form to harass the sages and was slain at their behest by Hanumān's father Kesarī (केसरिणा हनुमत्पित्रा हतः), who received the boon of Hanumān's birth, sparking perpetual enmity between the two species (ततःप्रभृति हस्तिनां वानराणां च परस्परं वैरमभूदिति).
+
+_____________
+
+**25–27.**
+
+Govindarāja cites Pāṇini (कर्मप्रवचनीययुक्ते द्वितीया) for the accusative with अनु (गङ्गासमीपे) and explains that हस्तिनाम् clarifies that हस्तियूथपान् means actual elephants rather than a monkey-breed so named (भिन्नजातीयत्वभ्रमव्युदासार्थम्). Reading पर्वतं मन्दरोपमम् in 27b, he takes Uśīrabīja as a mountain near the Gaṅgā resembling Mandara.
+
+_____________
+
+**28–30.**
+
+_Tilaka_ computes शतसहस्राणां सहस्रम् as a thousand _lakṣas_ (one hundred crores) and glosses दुर्धरः as unstoppable by foes (शत्रुभिर्धर्तुमशक्यः), while Govindarāja distinguishes वीर्यम् (`enthusiasm', उत्साहः) from विक्रमः (`overwhelming enemies', परान् प्रत्यभिभवः).
+
+_____________
+
+**31–32a.**
+
+All three commentators construe verses 31–32a with Pramāthī from verse 30: where the wind whirls up thick, tawny-red dust (अरुणाभासम् = धूम्रवर्णम् in _Tilaka_, अरुणकान्ति in _Bhūṣaṇa_), there stands the enraged army of swift monkeys belonging to Pramāthī (तदप्यस्य प्रमाथिन इत्यर्थः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1050,6 +1164,14 @@ their bodily strength."
 **32:** —this thick dust (_bahulaṃ rajaḥ_) swirls about manifoldly (_vivartamānaṃ bahuśaḥ_). These fierce, black-faced (_asitamukhāḥ_) and mighty _golāṅgūla_ monkeys,—
 
 **33:** —a hundred hundred-thousands (_śataṃ śatasahasrāṇi_) strong, having beheld the construction of the causeway (_dṛṣṭvā vai setubandhanam_), [surround] the _golāṅgūla_ troop-commander named Gavākṣa, O great king,—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**32b–34a.**
+
+On Gavākṣa (गवाक्षवर्णनम्), Rāma Varmā (_Tilaka_) and Śivasahāya (_Śiromaṇi_) take सेतुबन्धनम् as an epithet of Gavākṣa himself, who aided Nala in building the bridge (नलसमीपे तत्सहायतया स्थित्वा सेतुबन्धनकर्तारम्). Govindarāja (_Bhūṣaṇa_), reading सेतुबन्धनं दृष्ट्वा, explains that seeing the completed causeway fills the ten-crore black-faced _golāṅgūla_ troops with such zeal (उत्साहेन) that their ardor outstrips even their commander's (यूथपत्यपेक्षया सैन्यानामुत्साहाधिक्यं व्यज्यते).
 </details>
 </details>
 
@@ -1151,6 +1273,20 @@ variety."
 
 **37:** —and upon which best of mountains (_parvatasattame_) are precious honeys (_madhūni ca mahārhāṇi_)—there upon that lovely Golden Mountain (_kāñcanaparvate_), O king, this one delights,—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**34b–36.**
+
+Beginning the four-verse portrait of Kesarī on Mount Meru (अथ चतुर्भिः केसरिणं वर्णयति), Govindarāja and _Tilaka_ note that the sun circumambulates Meru sharing its golden luster (उदयते हि सूर्यस्तत्सन्निधाने काञ्चनवर्णः), while its wish-granting trees yield every desired object (चन्दनाभरणवस्त्रादिरूपफलप्रदाः).
+
+_____________
+
+**37–38a.**
+
+Concluding the description of Kesarī, Rāma Varmā (_Tilaka_), Śivasahāya (_Śiromaṇi_), and Govindarāja (_Bhūṣaṇa_) identify the lovely Golden Mountain (काञ्चनपर्वते) where Kesarī sports as Great Meru (काञ्चनपर्वतो महामेरुः), whose peaks abound in priceless honey (मधूनि च महार्हाणि).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1184,6 +1320,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —the chief of Vānara chiefs (_mukhyo vānaramukhyānām_), the troop-commander named Kesarī. Sixty thousand mountains (_ṣaṣṭir girisahasrāṇi_) there are, lovely golden mountains (_kāñcanaparvatāḥ_);—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**38b–40.**
+
+Introducing Śatabali and his hosts (शतबलिवर्णनम्), _Tilaka_ and _Śiromaṇi_ identify the sovereign mountain (गिरिवरः) standing among the sixty thousand golden peaks—compared by Sāraṇa to Rāvaṇa among Rākṣasas—as Sāvarṇimeru (तेषां मध्ये गिरिवरः सावर्णिमेरुनामास्ति). Govindarāja describes it as a second Meru east of the Sunset Mountain (अस्तगिरेः पूर्वतश्चापरो मेरुः). While Govindarāja reads उत्तमगिरौ in 40a, _Śiromaṇi_ glosses अन्तिमगिरौ as on the northernmost ridge (गिरेरुत्तरभागे).
 </details>
 </details>
 
@@ -1269,6 +1413,14 @@ like that of clouds. All of them stand looking on your Lanka as if they are abou
 
 **42:** Resembling great mountains (_mahāparvatasaṃkāśāḥ_) and thundering like massive storm-clouds (_mahājīmūtaniḥsvanāḥ_), they have round, yellow-brown eyes (_vṛttapiṅgalanetrāḥ_) and most terrible gaits and roars (_mahābhīmagatisvanāḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**41–42.**
+
+Govindarāja cites _Amarakośa_ to derive आशीविषः from आशीः (`serpent's fang', आशिषि दंष्ट्रायां विषं येषां ते), glosses अञ्चितलाङ्गूलाः as having uplifted tails (उदञ्चितलाङ्गूलाः), and notes that the comparisons to rutting elephants and mountains convey their colossal bulk and rock-like firmness (महाकायत्वम्, दार्ढ्यम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1339,6 +1491,20 @@ Shatabali. He swears to destroy Lanka with his troops."
 **43:** Beholding your Laṅkā (_laṅkāṃ samīkṣya te_), all of them stand as though crushing her (_mardayantīva tasthuḥ_); and in their midst stands their valorous overlord (_eṣām adhipatir vīryavān_),—
 
 **44:** —the valorous one who, seeking victory (_jayārthī_), ever worships the Sun (_nityam ādityam upatiṣṭhati_), and who is renowned across the earth by the name Śatabali, O king.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**43.**
+
+On मर्दयन्तीव तस्थुः, Rāma Varmā (_Tilaka_) glosses it as standing as if already crushing Rāvaṇa's Laṅkā (मर्दयन्त इव तिष्ठन्ति). Govindarāja (_Bhūṣaṇa_) explains the perfect तस्थुः in a present sense as an _ārṣa_ tense-shift (मर्दयन्तीव तिष्ठन्ति । आर्षो लिङ्व्यत्ययः), whereas Śivasahāya (_Śiromaṇi_) argues that taking तस्थुः literally as `they have taken their stand after beholding Laṅkā' obviates any need to posit an _ārṣa_ anomaly (एतेन लिङ्व्यत्यय आर्ष इत्यपास्तम्).
+
+_____________
+
+**44–45.**
+
+Identifying Śatabali (शतबलीति नाम्ना विख्यातः), Govindarāja notes two _ārṣa_ features: the active ending in आदित्यमुपतिष्ठति for middle उपतिष्ठते in the sense of solar worship, and the double sandhi in एषैवाशंसते (उपतिष्ठति उपतिष्ठते एषैवेति संधिरार्षः; अत एव निर्देशात्संधिः in _Śiromaṇi_). He glosses पौरुषे as valor (पराक्रमे) and the objective genitive प्राणानाम् in 46a in a locative sense (प्राणेषु).
 </details>
 </details>
 
@@ -1440,6 +1606,14 @@ surrounded by crores of warriors."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For the sake of what is dear to Rāma (_rāmapriyārtham_), this monkey shows no regard for his own life-breath (_prāṇānāṃ dayāṃ na kurute_). Gaja, Gavākṣa, Gavaya, Nala, and the Vānara Nīla—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**46–48.**
+
+Śivasahāya observes that since Gaja and the other commanders do not spare their own lives for Rāma's sake (रामप्रियार्थम्), any attempt to sow dissension among them is impossible (एतेन भेदानवकाशः सूचितः), and adds that the Vindhya monkeys are too numerous to be counted individually (बहुत्वाद्धेतोः संख्यातुं नैव शक्यन्ते).
 </details>
 </details>
 

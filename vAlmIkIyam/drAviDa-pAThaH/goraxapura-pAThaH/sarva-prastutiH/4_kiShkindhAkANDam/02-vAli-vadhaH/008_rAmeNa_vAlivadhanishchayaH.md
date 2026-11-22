@@ -465,6 +465,152 @@ ultimate recourse to any. [4-8-8]
 
 “Whether wealthy or poor (_āḍhyo vāpi daridro vā_), whether afflicted or happy (_duḥkhitaḥ sukhito &#x27;pi vā_), whether faultless or flawed (_nirdoṣaś ca sadoṣaś ca_), a friend is the supreme refuge (_vayasyaḥ paramā gatiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.8.1–3 (Blessed by the Gods with Rāma's Alliance)**
+
+Tilaka notes that तेन वाक्येन refers specifically to Rāma's oath in 4.7.22 (अनृतं नोक्तपूर्वं मे). In 4.8.2, Śiromaṇi construes उपपन्नः (स्वाभाविकसकलसंपत्तिविशिष्टः) and गुणोपेतः (सकलसद्गुणयुक्तः) as two distinct epithets while recording Govindarāja's single-compound reading (उपपन्नगुणोपेतः इति भूषणपाठः, glossed by Govindarāja as राजयोग्यशौर्यवीर्यादिसर्वगुणोपपन्नः). With Rāma as helper, even Indra's celestial realm (सुरराज्यमपि) is attainable, to say nothing of Sugrīva's own throne (स्वराज्यं किमुत).
+
+_____________
+
+**4.8.4–5 (Fire-Witnessed Friendship and Modest Reserve)**
+
+Having won a scion of Raghu's race as a friend before the sacred fire (अग्निसाक्षिकम्), Sugrīva deems himself worthy of congratulation and honor (सभाज्यः पूज्यः, Tilaka and Govindarāja) among his kindred. In 4.8.5, he assures Rāma that time will prove him a fitting companion (अनुरूपो योग्यः), though he refrains from praising his own qualities—Tilaka cites the maxim that self-praise is moral death (आत्मप्रशंसा मरणं मम इति न्यायात्), while Śiromaṇi detects a humble acknowledgment of his present plight (एतेन स्वस्यातीव दुर्बलादिमत्त्वं सूचितम्).
+
+_____________
+
+**4.8.6 (Unshakable Affection of the Great-Souled)**
+
+Among magnanimous men of mastered minds (कृतात्मनां यतचित्तानाम्, Śiromaṇi) like Rāma, friendship (प्रीतिः) remains as immovable (निश्चला) as the fortitude of the self-possessed (आत्मवतां स्वाधीनानाम्, Tilaka; आत्मज्ञानिनाम्, Govindarāja).
+
+_____________
+
+**4.8.7–9 (The Ethic of Undivided Friendship)**
+
+Both Tilaka and Govindarāja gloss साधूनाम् and साधवः as वयस्यानाम् / मित्राणाम्: true friends deem silver, gold, and ornaments undivided common property (अविभक्तानि स्ववस्तुजातादभिन्नानि, Śiromaṇi, which construes verses 7–9 together as श्लोकत्रयमेकान्वयि). Whether prosperous or indigent, grieving or joyful, blameless or erring (निर्दोषो वा सदोषो वा), a friend is the highest refuge (वयस्यः परमा गतिः), for whose sake (वयस्यार्थे) men gladly sacrifice wealth, ease, and homeland (or life itself, देहत्यागोऽपि). Govindarāja observes that Sugrīva's maxim subtly seals their mutual obligation (आवाभ्यामेवं वर्तितव्यमिति वप्तृवस्था द्योत्यते).
+
+_____________
+
+**4.8.10 (Rāma's Assent Before Lakṣmaṇa)**
+
+Rāma replies “So it is” (तत्तथेति) before Lakṣmaṇa, who stands resplendent as Indra (लक्ष्म्या कान्त्या वासवस्येव स्थितस्य लक्ष्मणस्याग्रतः, Govindarāja). Tilaka remarks that speaking before Lakṣmaṇa intimates that Rāma's friendship with Sugrīva equals his bond with Lakṣmaṇa (यथा मम लक्ष्मणस्य मैत्री तथैव तवापीत्यपि सूचितम्), while Govindarāja notes that it conveys Lakṣmaṇa's full concurrence (अनेनात्रार्थे लक्ष्मणाभ्यनुज्ञा सूचिता).
+
+_____________
+
+**4.8.11–12 (Seeking a Leafy Seat)**
+
+Noticing that Rāma and Lakṣmaṇa have remained standing ever since receiving Sītā's ornaments (भूषणग्रहणकालात्प्रभृति तिष्ठन्तमिःयर्थः, Govindarāja), Sugrīva darts his eyes about the forest (लोलं चक्षुरपातयत्) to find a leafy bough for a seat (आसनमहीरुहशाखालाभार्थम्) and spots a flowering _śāla_ tree humming with bees and rich in tender shoots (ईषत्पत्राढ्यमिति पल्लवप्रचुरमित्यर्थः).
+
+_____________
+
+**4.8.13–14 (The Leafy Seats of Rāma, Sugrīva, and Lakṣmaṇa)**
+
+Breaking a thickly leafed branch (पर्णबहुलां पल्लवबहुलाम्, Govindarāja) and spreading it for Rāma, Sugrīva sits down beside him (सराघवः सुग्रीवो निषसाद). Seeing them seated, Hanumān plucks another _śāla_ branch and seats the reverent Lakṣmaṇa (विनीतम्). Govindarāja explains विनीतम् as एकासने स्थितिमनङ्गीकुर्वन्तम्—out of deferential modesty toward Rāma, Lakṣmaṇa declined to share the same seat; Śiromaṇi adds that the single bough spread for Rāma and Sugrīva was not overly wide (पूर्वकृतशाखासनयोः अतिस्थूलप्रदत्वं नेति ध्वनितम्).
+
+_____________
+
+**4.8.15–16 (Rāma Serene as the Ocean)**
+
+All three commentators construe verses 15 and 16 as a single syntactic unit (सुखोपविष्टमित्यादिश्लोकद्वयमेकान्वयम्, Govindarāja), supplying दृष्ट्वेति शेषः (Tilaka) after सुखोपविष्टं रामं तु: seeing Rāma seated at ease like the calm, deep ocean (प्रसन्नमुदधिं यथा तद्वत् प्रसन्नं गम्भीरमित्यर्थः, Govindarāja) on that mountain peak carpeted with _śāla_ flowers, Sugrīva addresses him with syllables trembling with joy (हर्षव्याकुलिताक्षरम्).
+
+_____________
+
+**4.8.17–18 (Sugrīva's Plight on Ṛṣyamūka)**
+
+Sugrīva lays bare his grief: cruelly wronged (विनिकृतः) and stripped of his wife (हृतभार्यः) by his brother Vālin, he wanders Mount Ṛṣyamūka submerged in fear (भये मग्नः) and distracted in mind (सम्भ्रान्तचेतनः).
+
+_____________
+
+**4.8.19–21 (The Criterion of Friend and Foe)**
+
+Appealing to Rāma as the giver of safety to all worlds (सर्वलोकाभयंकर), the shelterless Sugrīva begs for deliverance from Vālin. Smiling gently (प्रहसन्निव), Rāma enunciates the ethical law of alliance: a friend is known by the fruit of helpful action (उपकारफलं मित्रम्) and an enemy by his wrongdoing (अपकारोऽरिलक्षणम्); hence he vows to slay the stealer of Sugrīva's wife this very day (अद्यैव).
+
+_____________
+
+**4.8.22–23 (Arrows Born of Kārttikeya's Reed-Forest)**
+
+To demonstrate his arrows' capacity to fell Vālin (तद्वधयोग्यतासंभवायाह—इमे इति, Śiromaṇi), Rāma describes them as कार्तिकेयवनोद्भूताः—reed-shafts sprung from the _śaravaṇa_ grove where Skanda was born (कार्तिकेयस्य स्कन्दस्योत्पत्तिक्षेत्रभूतं वनं शरवणं तत्रोत्पन्नकाण्डाः, Tilaka; शरवणोद्भूताः, Govindarāja), which Śiromaṇi notes guarantees their unbreakable nature (एतेन तेषामभेद्यत्वं बोधितम्). Govindarāja adds that कङ्कपत्रप्रतिच्छन्नाः specifies the general term पत्रिणः (winged with heron feathers), while महेन्द्रपदेनाशनेस्तत्संनिहितत्वातिशय उच्यते highlights their thunderbolt force.
+
+_____________
+
+**4.8.24 (Vālin Shattered Like a Mountain)**
+
+Connecting verses 22–24 (अतः एतैः शरैर्वालिनं विनिहतं पश्येति संबन्धः, Govindarāja), Rāma bids Sugrīva behold his guilty foe Vālin struck down and cleft apart like a riven mountain (विकीर्णं विदारितं पर्वतमिव, Śiromaṇi) within two or three days (द्वित्रदिवसैरिति शेषः, Tilaka).
+
+_____________
+
+**4.8.25–27 (Swearing by Their Fire-Witnessed Bond)**
+
+Hearing Rāma's pledge to slay Vālin despite his being a brother born of the same womb (भ्रातरमप्येकोदरजन्ममत्सरिणं हनिष्यामि, Tilaka), the commander of the monkey host (वाहिनीपतिः वानरसेनाधिपतिः, Govindarāja) acclaims him with साधु साध्विति. Appealing to Rāma both as the refuge of the grieving (शोकार्तगतित्वात्) and as his friend (वयस्यत्वाच्च, Tilaka) bound by handclasp before the sacred fire (अग्निसाक्षिकं पाणिप्रदानेन), Sugrīva swears by Truth that Rāma is dearer to him than life (प्राणैः प्राणेभ्यः बहुमतः, Śiromaṇi).
+
+_____________
+
+**4.8.28–29 (Voice Choked by Inward Sorrow)**
+
+Speaking with complete confidence (विस्रब्धो विश्वस्तः, Tilaka) of the hidden grief that incessantly wastes his heart (हरति क्षीणं करोति, Tilaka; क्षिणोति, Śiromaṇi), Sugrīva is overcome mid-speech: his eyes fill with tears and he cannot speak aloud (नोच्चैः शक्नोति भाषितुम्, where Tilaka and Govindarāja gloss the historical present शक्नोति as अशक्नोत्).
+
+_____________
+
+**4.8.30 (Why Sugrīva Checks His Tears Before Rāma)**
+
+Comparing the sudden surge of tears to a swollen river current (नदीवेगमिवागतम्), Vālmīki notes that Sugrīva stems it with fortitude in Rāma's presence (रामसंनिधौ). Govindarāja explains the psychological nuance behind रामसंनिधौ: having just exhorted Rāma to be steadfast in Sarga 7, Sugrīva feared Rāma might think him incapable of practicing his own counsel (मां प्रत्युपदिश्य स्वयं न शक्नोतीति रामो मन्येतेति भिया धारयामासेति भावः).
+
+_____________
+
+**4.8.31–33 (Deposition, Exile, and Imprisonment of Friends)**
+
+Having mastered his tears, Sugrīva summarizes Vālin's outrages (वालिविनिकारं संक्षेपेणाह, Tilaka): after hurling harsh abuse (परुषाणि वाक्यानि संश्राव्य, Śiromaṇi), Vālin stripped him of his rightful royal office (स्वाद्राज्याद् यौवराज्यात्, Govindarāja; अवरोपितोऽपहृताधिकारः, Tilaka) and cast him out (निर्धूतो भंशितः, Tilaka; निरस्तः, Govindarāja). Vālin also abducted his wife, dearer than life, and locked Sugrīva's partisans in dungeons (बन्धनेषु कारागृहेषु, Govindarāja).
+
+_____________
+
+**4.8.34–35 (Assassins and Sugrīva's Initial Suspicion of Rāma)**
+
+Bent on Sugrīva's death (मद्विनाशाय), Vālin repeatedly sent monkey assassins (तत्प्रयुक्ता मद्वधाय तत्प्रेरिताः, Tilaka), whom Sugrīva killed. Haunted by that very suspicion—fearing Rāma might likewise be an emissary of Vālin (एतया शङ्कया वालिप्रयुक्तत्वशङ्कया भीतः, Govindarāja)—Sugrīva did not approach Rāma at first sight (नोपसर्पामि नोपासर्पम्), for under the sway of fear all beings dread every stranger (भये भयनिमित्ते सर्वे हि बिभ्यति).
+
+_____________
+
+**4.8.36 (Sustained by Hanumān and the Four Ministers)**
+
+Only because Hanumān and these faithful companions (हनुमत्प्रमुखाः) have stood by him as his sole support (केवलम् अद्वितीयं यथा तथा, Govindarāja) has Sugrīva managed to preserve his life even in such extremity (कृच्छ्रगतोऽपि सन्).
+
+_____________
+
+**4.8.37–38 (The Devotion of the Four Counselors)**
+
+Describing how Hanumān and the others support him (साहाय्यप्रकारमाह—एत इति, Śiromaṇi), Sugrīva notes that these loving monkeys guard him on all sides, accompany him whenever he moves (गन्तव्ये मयि गच्छतीत्यर्थः, Govindarāja), and stay whenever he halts (स्थिते मयि सतीति शेषः, Śiromaṇi). Summing up (संक्षेपस्त्वेषः), he states that his elder brother Vālin, of famed prowess (विश्रुतपौरुषः), is his implacable foe.
+
+_____________
+
+**4.8.39–40 (Life and Joy Contingent on Vālin's Fall)**
+
+Both Tilaka and Śiromaṇi observe that अपि in तद्विनाशेऽपि carries the restrictive force of एव (अपिरेवार्थे): Tilaka adds that although a brother's death normally brings sorrow (यद्यपि भ्रातृनाशो दुःखाय), Sugrīva's present anguish will be effaced the very moment Vālin falls (तद्विनाशादनन्तरं मे दुःखं प्रणष्टं स्यात्, Govindarāja), since both his happiness and his life depend upon Vālin's death (तद्विनाशनिबन्धनम्). Thus he has laid before his friend the sole remedy for his grief (शोकान्तः शोकविध्वंसोपायः, Śiromaṇi).
+
+_____________
+
+**4.8.41 (Rāma's Judicial Inquiry)**
+
+Having heard Sugrīva's summary plea, Rāma asks to hear according to the exact truth (तत्त्वतः) the root cause (किंनिमित्तं किंकारणकम्, Śiromaṇi) from which this fratricidal enmity arose.
+
+_____________
+
+**4.8.42 (Weighing Gravity of Fault Versus Enmity)**
+
+Why does Rāma inquire into the cause of the feud after already pledging Vālin's death? Govindarāja explains सम्प्रधार्य बलाबलम् as weighing whether the fault or the hostility is greater (वैरकारणं वा वैरं वा बलवदिति विचार्य): if Vālin's enmity is fierce over a trivial fault (स्वल्पापराधे प्रवृद्धवैरं चेत्), Rāma will slay him forthwith; if the fault was grave and the enmity slight, he could effect reconciliation (समाधानमुखेन सुखं विधास्यामीति भावः). Tilaka and Śiromaṇi alternatively take बलाबलम् as assessing the relative strength of the two brothers (युवयोः प्राबल्यदौर्बल्ये).
+
+_____________
+
+**4.8.43–44 (Righteous Wrath and Simultaneous Action)**
+
+Hearing that Sugrīva was wronged without offense (अवमानितम् अपराधमन्तरा तिरस्कृतम्, Śiromaṇi), Rāma's wrath swells like a monsoon flood (प्रावृषि वेगः प्रावृड्वेगः, Govindarāja). Śiromaṇi notes that अवमानितं श्रुत्वा manifests Rāma's strict adherence to _dharma_ (निरपराधाभावे तं न हन्तास्मीति व्यञ्जितं तेन रामस्य मर्यादापालकत्वं व्यक्तम्). In 4.8.44, Tilaka points out the figures _sahokti_ and _atiśayokti_ (सहोक्त्यलंकारः, व्यङ्ग्यातिशयोक्तिश्च) in सृष्टश्च हि मया बाणो निरस्तश्च रिपुस्तव: the loosing of the shaft and the fall of the foe are simultaneous!
+
+_____________
+
+**4.8.45–46 (Sugrīva Begins His Narrative)**
+
+Cheered by Rāma's words—where Govindarāja notes that हृष्टः in 4.8.44a counsels Sugrīva not to grieve after Vālin's death (वालिहननानन्तरं शोकं मा कुर्वित्यर्थः)—Sugrīva and his four ministers rejoice, and he begins his true account (तत्त्वं तात्त्विकं वैरस्य कारणम्, Tilaka).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

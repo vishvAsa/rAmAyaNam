@@ -97,6 +97,14 @@ names, called Vishnu *sahasranaama* , each name elucidating his attributes.
 
 Then Lord Nārāyaṇa, all-pervading Viṣṇu, thus entreated by the foremost of the gods (_niyuktaḥ surasattamaiḥ_), though already knowing all in his omniscience (_jānann api_), spoke these gentle and gracious words to the celestials:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.1–2 (niyuktaḥ & jānann api)**
+
+Why does the omniscient Lord ask the gods for the means of slaying Rāvaṇa? **Rāma Varmā (_Tilaka_)** explains that although Viṣṇu already knew the stratagem (_vadhopāyaṃ jānann api_), He questioned them as if unacquainted with it so as to spare the gods the embarrassment of seeming presumptuous in instructing Him (_teṣām avinītatva-lajjā-parihārāya_). **Govindarāja (_Bhūṣaṇa_)** adds that the juxtaposing of _nārāyaṇo viṣṇuḥ_ (the supreme indweller of all eternal beings) with _niyuktaḥ_ (“commissioned”) highlights the Lord’s gracious subservience to His devotees (_āśrita-pāratantryam_), asking out of sheer courtesy (_sanmānārtham_) whether He should stand in His transcendent form as Upendra or adopt a human mode.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -190,6 +198,14 @@ Ravana in a war." [1-16-3]
 
 Thus addressed, all the gods replied to the imperishable Viṣṇu (_viṣṇum avyayam_): “Assuming a human form (_mānuṣaṃ rūpam āsthāya_), slay Rāvaṇa in battle!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.3 (viṣṇum avyayam & mānuṣaṃ rūpam)**
+
+**Śiromaṇi** glosses _avyayam_ as “free from all material limitations of space, time, and substance” (_prākṛta-deśa-kāla-vastu-pariccheda-śūnyam_), and **Govindarāja** notes the pointed contrast in _mānuṣaṃ rūpam_: “a human form, not a celestial one.”
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +258,14 @@ thereby the creator of worlds and the first born one Brahma, felt gladsome of hi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For that tamer of foes (_arindamaḥ_) practiced severe austerity for a long period of time, whereby Brahmā, the creator of the worlds and the first-born of the universe (_lokakṛl lokapūrvajaḥ_), became well-pleased.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.4–5 (lokakṛl lokapūrvajaḥ & nānyatra mānuṣāt)**
+
+On Brahmā’s epithet _lokapūrvajaḥ_, **Tilaka** cites the Vedic hymn _hiraṇyagarbhaḥ samavartatāgre_ (“Hiraṇyagarbha arose first in the beginning”): because the four-faced Brahmā was born before all worlds, he alone is the creator of the gods and demons (_lokakṛt = devādi-janakaḥ_, **Govindarāja**), and thus his boon that Rāvaṇa should fear none “save man” (_nānyatra mānuṣāt = mānuṣaṃ vinā_) is inviolable.
 </details>
 </details>
 
@@ -337,6 +361,14 @@ Having disdained mortals when asking for his boon, Rāvaṇa now ravages the thr
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For in days of old, at the time that boon was granted (_varadāne_), human beings were disdained by him in contempt (_avajñātāḥ_). Thus puffed up with pride by the boon received from the Grandsire Brahmā—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.6–8 (avajñātāḥ & pitaraṃ rocayām āsa)**
+
+Why did Rāvaṇa omit human beings when enumerating the creatures from whom he sought immunity? **Govindarāja** and **Śiromaṇi** note that v. 6 answers this directly: out of sheer contempt for mortal strength, humans were disregarded by him at the time of asking (_varadāne = varayācanasamaye_). On v. 7, **Tilaka** glosses _dṛṣṭaḥ_ as “firmly ascertained” (_niścitaḥ_). Hearing this, Viṣṇu chose King Daśaratha as His father “in order to descend in human form” (_manuṣyarūpeṇāvataritum_, **Govindarāja**).
 </details>
 </details>
 
@@ -489,6 +521,14 @@ putrakaameSTi ritual, desiring progeny as he is sonless. [1-16-9]
 
 At that very time, that resplendent monarch, being childless (_aputraḥ_) and longing for offspring (_putrepsuḥ_), that slayer of foes, was performing the _Putrīyā Iṣṭi_ sacrifice for the attainment of sons.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.9–10 (tasmin kāle & āmantrya ca pitāmaham)**
+
+Both **Tilaka** and **Govindarāja** gloss _tasmin kāle_ (v. 9) as “at the precise moment when the Lord desired to descend” (_bhagavad-avatitīrṣākāle_), noting the archaic shortening of the vowel in _putriyām_ for _putrīyām_. On v. 10, **Tilaka** and **Govindarāja** explain _āmantrya_ as bidding farewell to Brahmā with the words “I now depart to accomplish this” (_sādhayāmīty uktvā_), whereupon Viṣṇu vanished from that very celestial assembly.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,6 +624,14 @@ Divine Being with an unparalleled resplendence, called yajna-puruSa.
 
 Then indeed, out of the sacrificial fire of that sacrificing monarch (_yajamānasya pāvakāt_), there arose a mighty Being of peerless radiance (_atulaprabham_), of immense potency and vast strength.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.11 (yajamānasya pāvakāt & mahad bhūtam)**
+
+**Govindarāja** points out that the present participle _yajamānasya_ (“while the king was in the very act of offering the oblation”) indicates that the miraculous Being arose from the _āhavanīya_ fire at the exact instant of the ritual offering (_dravyatyāgakāla eva prādurbhāvaḥ sūcitaḥ_). **Tilaka** adds a striking theological insight: citing the dictum _eko viṣṇur mahad bhūtam_, he notes that none other than the Lord Himself could bear the weight of His own divine energy, so the Being rising with the _pāyasa_ is a manifestation of Viṣṇu’s own potency.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -640,6 +688,14 @@ His moustache and hairdo are soft like that of a lion's mane. [1-16-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Dark-complexioned (_kṛṣṇam_), clad in crimson garments (_raktāmbaradharam_), crimson-faced, with a voice resonant as a kettle-drum (_dundubhisvanam_), having glossy body-hair, beard, and noble locks of hair on his head like the mane of a lion (_snigdha-haryakṣa-tanuja-śmaśru-pravara-mūrdhajam_);
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.12–14 (haryakṣatanuja & rājatāntaparicchadām)**
+
+As **Govindarāja** notes on v. 11, Verses 11–15 form a single syntactically unified five-verse sentence (_ślokapañcakam ekānvayam_) culminating in the verb _prādurbhūtam_. All three commentators gloss _haryakṣa_ in v. 12 as “lion” (_siṃhasyeva_), whose glossy mane-like hair (_tanujāḥ = romāṇi_), beard (_śmaśru_), and head-locks (_mūrdhajāḥ_) adorn the fiery Puruṣa. On v. 14, **Tilaka** and **Govindarāja** explain that the Puruṣa is _divākarasamākāram_ because of his halo of radiance (_prabhāmaṇḍalavattayā_) and _dīptānalaśikhopamam_ because of his dazzling, unapproachable brilliance (_taikṣṇyātiśayena_), while the golden bowl is covered above with a lid wrought of silver (_rajatavikāraḥ ante upari paricchadaḥ pidhānapātraṃ yasyās tām_).
 </details>
 </details>
 
@@ -750,6 +806,14 @@ with the divine dessert. [1-16-14, 15]
 
 **15:** Having clasped in both arms that spacious bowl (_pātrīṃ vipulām_) brimming with divine _pāyasa_ (_divyapāyasasampūrṇām_), as though she were a beloved wife (_patnīm iva priyām_), wondrous as if fashioned by divine _māyā_ itself (_māyāmayīm iva_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.15 (pātrīṃ patnīm iva priyām & māyāmayīm iva)**
+
+Both **Tilaka** and **Govindarāja** admire the poetic figure (_utprekṣā_) in _patnīm iva priyām_, facilitated by the feminine gender of _pātrī_ (_strīliṅgakatvena patnīsāmyam_): the Puruṣa cradles the precious vessel in both arms (_dorbhyām_) because it is too large and precious to be held in one hand (_vipulataratvena hastamātreṇa grahītum aśakyatvāt_, **Govindarāja**). On _māyāmayīm iva_, **Tilaka** takes _iva_ in the sense of _eva_ (“verily the Lord’s own creative _māyā_”), while **Govindarāja** and **Śiromaṇi** explain it as “wondrous as though conjured by magic” (_asaṃbhāvitatvenāścaryāvahām_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -795,6 +859,14 @@ as the being sent by Prajapati." [1-16-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Gazing steadily upon King Daśaratha, he spoke these words to the monarch: “Know me, O king, to be a Being sent from Prajāpati (_prājāpatyaṃ naram_), who has come hither!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.16–17 (prājāpatyaṃ naram & svāgataṃ te ’stu)**
+
+**Govindarāja** derives _prājāpatyam_ by _Pāṇini_ 4.1.85 (“come from Prajāpati”), while **Tilaka** adds that _prajāpati_ here signifies either Brahmā who sent him or Viṣṇu, the protector of all creatures, from whose energy he sprang. **Tilaka** notes on v. 17 that Daśaratha, initially startled as if beholding a fierce _kṛtyā_ spirit rising from the fire, became fearless upon hearing the Being’s reassuring self-introduction and greeted him with _svāgatam_.
 </details>
 </details>
 
@@ -902,6 +974,14 @@ obtained this dessert in golden vessel as you have propitiated gods. [1-16-18]
 
 Then the Being sent from Prajāpati spoke these words once again: “O king, by you who have devoutly worshipped the gods (_arcayatā devān_), this boon has been obtained today!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.18–19 (arcayatā devān & devanirmitam)**
+
+**Govindarāja** notes that _arcayatā devān_ (“by you who are worshipping the gods”) encompasses both the _Aśvamedha_ and the _Putrakāmeṣṭi_ sacrifices together (_aśvamedha-putrakāmeṣṭibhyām_), confirming their joint efficacy. On v. 19, **Tilaka** glosses _devanirmitam_ as fashioned by Prajāpati, while **Govindarāja** glosses it as fashioned by Lord Viṣṇu Himself (_devena viṣṇunā nirmitam_), and explains _dhanyam_ as “bestowing both worldly wealth and heavenly beatitude” (_dhanakaraṃ svargādi-lābhakṛt_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -995,6 +1075,14 @@ this among your eligible wives." So said the divine being to Dasharatha. [1-16-2
 
 Give it to your worthy queens (_bhāryāṇām anurūpāṇām_), saying, ‘Partake of this (_aśnīteti_)!’ Through them you shall obtain the sons for whose sake you are performing this sacrifice, O king.”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.20 (bhāryāṇām anurūpāṇām)**
+
+All three commentators note that the genitive plural _bhāryāṇām_ stands for the dative of recipient (_sambandhasāmānye ṣaṣṭhī_, Pāṇini 2.3.50). What constitutes a queen’s being _anurūpā_ (“worthy/conformable”)? **Govindarāja** and **Śiromaṇi** explain it as belonging to the same royal _varṇa_ and noble lineage (_savarṇānām_, _samānakulodbhavānām_), while **Tilaka** adds suitability in consecrated status as chief queen (_mahiṣītva_), age, character, and virtue.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1067,6 +1155,14 @@ being in his appearance, and performed circumambulations around him. [1-16-22]
 **21:** Saying, “So be it (_tatheti_)!”, the delighted monarch reverently received upon his head (_śirasā pratigṛhya_) that golden vessel given by the gods and brimming with celestial food (_devānnasampūrṇām_).
 
 **22:** Having bowed in salutation to that wondrous Being of auspicious aspect, the king, filled with supreme joy, reverently circumambulated him (_cakārābhipradakṣiṇam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.21–23 (śirasā pratigṛhya & abhipradakṣiṇam)**
+
+As **Śiromaṇi** observes, Verses 21–22 form a single syntactic unit: Daśaratha first places the golden bowl upon his head in profound veneration (_śirasā pratigṛhya_), salutes the radiant Puruṣa, and performs _abhipradakṣiṇam_—which **Tilaka** glosses as repeated circumambulation (_punaḥ punaḥ pradakṣiṇam_) and **Govindarāja** as complete circumambulation on all sides (_abhitaḥ pradakṣiṇam_).
 </details>
 </details>
 
@@ -1148,6 +1244,14 @@ itself. [1-16-24]
 **23:** Then Daśaratha, having obtained that _pāyasa_ wrought by the gods, was supremely delighted, like a penniless man who has suddenly gained great wealth (_prāpya vittam ivādhanaḥ_).
 
 **24:** Then that supremely radiant Being of wondrous aspect, having accomplished that mission (_saṃvartayitvā tat karma_), vanished right there into the sacrificial fire (_tatraivāntaradhīyata_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.24–25 (tatraivāntaradhīyata & harṣaraśmibhiḥ)**
+
+All three commentators gloss _tatraiva_ (v. 24) as “right back into the sacrificial fire-altar” (_agnikuṇḍa eva_). On v. 25, **Tilaka** and **Govindarāja** explain _antaḥpuram_ by metonymy (_lakṣaṇā_) as the queens residing in the inner apartments (_antaḥpurastriyaḥ_), whose faces beamed with the lustre born of joy (_harṣodbhūta-mukhakāntibhiḥ_) like the cloudless sky lit by the spotless autumn moon (_abhirāmasya = niṣkalaṅkasya_, **Govindarāja**).
 </details>
 </details>
 
@@ -1288,6 +1392,14 @@ Entering the inner apartments, he immediately spoke thus to Kausalyā: “Receiv
 
 The king then gave half of the _pāyasa_ (_pāyasārdham_) to Kausalyā; and of the remaining half, the lord of men gave half (_ardhād ardham_) to Sumitrā.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.27–28 (The Classical Mathematical Debate on the Division of the Pāyasa)**
+
+Verses 27–29 form the locus classicus for one of the most celebrated exegetical debates in Sanskrit literature. Under the primary view upheld by **Govindarāja** and **Tilaka**, _ardha_ means an exact half (citing _Amarakośa_): (1) Kausalyā receives 12 (v. 27ab); (2) from the remaining 12, Sumitrā receives half, i.e., 14 (_ardhād ardhaṃ = turīyāṃśam_, v. 27cd); (3) from the remaining 14, Kaikeyī receives half, i.e., 18 (_avaśiṣṭārdham = aṣṭamāṃśam_, v. 28ab); and (4) after reflecting (_anucintya_), the king gives the final remaining 18 once again to Sumitrā (vv. 28cd–29ab), yielding Kausalyā = 12, Sumitrā = 14 + 18 = 38, and Kaikeyī = 18.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1401,6 +1513,20 @@ part. Sumitra then consumed her two parts. Later Kaikeyi drinks her dividend.
 **28:** And to Kaikeyī he gave half of what remained (_avaśiṣṭārdham_) for the sake of a son; and then the king gave away the remaining half of the nectar-like _pāyasa_—
 
 **29:** —after reflecting carefully (_anucintya_), to Sumitrā once again, did that monarch of great wisdom bestow it. Thus the king gave the _pāyasa_ separately to each of those queens.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.28 (Kālidāsa’s Raghuvaṃśa 10.54–56 vs. the Strict Vālmīkian Division)**
+
+**Tilaka** also records the second classic school (_apare tu_), immortalized by Kālidāsa in _Raghuvaṃśa_ 10.54–56 (_caror ardhārdhabhāgābhyāṃ tām ayojayatām ubhe_) and _Padma Purāṇa_, which takes _dadau_ with an implicit causative sense (_dāpitavān_): Daśaratha gave 12 to Kausalyā (who gave 14 of her share, i.e., 18, to Sumitrā, keeping 38) and 12 to Kaikeyī (who likewise gave 18 to Sumitrā, keeping 38), so that Rāma and Bharata each represent 38 and Lakṣmaṇa and Śatrughna each 18, pairing Lakṣmaṇa with Rāma and Śatrughna with Bharata! (**Śiromaṇi** proposes a kindred 8-part division: 312 for Kausalyā, 112 + 112 for Sumitrā, and 112 for Kaikeyī).
+
+_____________
+
+**16.29–30 (anucintya & sammānaṃ menire)**
+
+Why did Daśaratha deliberate (_anucintya_) before giving the final 18 share to Sumitrā? Both **Govindarāja** and **Tilaka** explain that although Kaikeyī was the king’s favorite in amorous affection (_vallabhāyāṃ saṃbhogakarmaṇi pakṣapātaḥ_), in a righteous dharmic distribution (_dharmye vibhāgakarmaṇi_) seniority of rank had to govern (_jyeṣṭhakramāt bhāgatāratamyam_): since Sumitrā was senior to Kaikeyī, giving the final 18 to Kaikeyī would have made her equal to Sumitrā (14 each), violating the order of seniority! Hence all three queens esteemed this graduated distribution as a mark of impartial honor (_sammānaṃ = apakṣapātena yathocitavyavahāram_, **Tilaka**).
 </details>
 </details>
 
@@ -1521,6 +1647,14 @@ of mothers bodies.
 
 Then those noble queens of the lord of earth, having separately partaken of that supreme _pāyasa_, before long conceived embryos blazing with the radiance of fire and the sun (_hutāśanādityasamānatejasaḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.31 (hutāśanādityasamānatejasaḥ — Tantreṇa Viśeṣaṇam)**
+
+**Govindarāja** notes that although the full account of the births follows in Sarga 18 after the completion of the sacrifice, Vālmīki summarizes the immediate sequel of the _pāyasa_-gift here in two concluding _Vaṃśastha_ stanzas for narrative convenience and completeness. **Tilaka** points out the syntactic double application (_tantreṇa viśeṣaṇam_) of _hutāśanādityasamānatejasaḥ_, which construes simultaneously as nominative plural qualifying _striyaḥ_ (the queens) and accusative plural qualifying _garbhān_ (the divine embryos).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1597,6 +1731,14 @@ namely Indra and others, as well as by the assemblages of great souls, sages. [1
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And then the king, beholding those queens with their embryos well-developed (_prarūḍhagarbhāḥ_), his heart’s desire fulfilled (_pratilabdhamānasaḥ_), rejoiced in spirit just like Lord Hari (Indra or Viṣṇu) in the highest heaven adored by Indra, the Siddhas, and the hosts of sages.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.32 (pratilabdhamānasaḥ & tridive yathā hariḥ)**
+
+**Govindarāja** glosses _pratilabdhamānasaḥ_ as “having regained peace and composure of mind” (_svasthacittaḥ_), while **Tilaka** explains it as having his heart’s desire fulfilled (_pūrṇamanorathaḥ_) and notes that _surendra-siddharṣi-gaṇābhipūjitaḥ_ qualifies King Daśaratha himself, who was inwardly revered by the gods and sages because the Supreme Lord had now entered his queens’ wombs (_bhagavad-aṃśa-garbha-saṃbhavena taiḥ pūjitaḥ_).
 </details>
 </details>
 

@@ -76,6 +76,14 @@ On becoming personally purified Rama, the descendent of Kakutstha-s,
 
 Having duly received those celestial missiles, the pure-hearted scion of Kakutstha, his countenance beaming with joy (_prahṛṣṭavadanaḥ śuciḥ_), spoke thus to Viśvāmitra even as he walked along (_gacchann eva_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28.1–2 (gacchann eva & the Necessity of Upasaṃhāra-jñāna)**
+
+All three commentators gloss _gacchann eva_ as _gamiṣyan_ (“just as he was setting out from Tāṭakāvana”) under Pāṇini 3.3.131. On _saṃhārān_, **Rāma Varmā (_Tilaka_)** defines _saṃhāra_ as _prayuktasyāstrasya mantraviśeṣeṇa punaḥ svātmani sthāpanam_ (“recalling a discharged missile and re-establishing it within oneself by a special mantra”), noting that without knowing a weapon’s recall spell one cannot lawfully deploy it again (_upasaṃhārāparijñāne punaḥ prayogānarhatayāprāptaprāyatvāt_). **Govindarāja** explains the singular variant _saṃhāram_ as a generic singular (_jātyekavacanam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -172,6 +180,14 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When the scion of Kakutstha spoke thus, Viśvāmitra of mighty austerity—steadfast in firmness, faithful to his vows, and ritually pure (_dhṛtimān suvrataḥ śuciḥ_)—forthwith expounded the withdrawal spells (_saṃhārān vyājahārātha_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28.3 (saṃhārān vyājahāra — Two Exegetical Views)**
+
+**Tilaka** holds that Viśvāmitra first taught the recall procedure of the previously bestowed missiles (_uktāstrāṇāṃ saṃhāramārgam upadiśya_) and then imparted additional missiles in vv. 4–10 (_anyāny apy astrāṇy upadiśati sma_). By contrast, **Śiromaṇi** and **Govindarāja** construe the entire catalogue of vv. 4–10 as the names of the personified _Upasaṃhāra-astras_ themselves (_satyavadādīni upasaṃhārāṇāṃ nāmāni_).
 </details>
 </details>
 
@@ -317,6 +333,26 @@ Completing the transmission of Kṛśāśva’s luminous sons, Viśvāmitra best
 
 **10:** “Receive from me, O Rāma, these blazing sons of Kṛśāśva (_kṛśāśvatanayān bhāsvarān_) who assume any form at will (_kāmarūpiṇaḥ_)! May auspiciousness attend you—you are a worthy vessel (_pātrabhūto ’si_), O Rāghava!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28.4–6 (Syntactic Unity of the Catalogue)**
+
+Both **Govindarāja** and **Śiromaṇi** observe that vv. 4–10 form a single multi-verse sentence (_ekānvayā_) in which every accusative name is governed by _pratīccha_ (“receive from me”) in v. 10c.
+
+_____________
+
+**28.7–9 (Nominative-for-Accusative Syntax in the Mantra Catalogue)**
+
+In v. 7cd–ef and v. 8a, ten missile names (_Śucibāhuḥ_ through _Ruciraḥ_, plus _Pitryaḥ Saumanasaḥ_) stand in the nominative within an accusative series governed by _pratīccha_ (v. 10c). **Govindarāja** explains these nominatives as archaic epic substitutions for the accusative (_sārcirmālītyādiṣu prathamā dvitīyārthe_), while **Śiromaṇi** supplies a relative-correlative ellipsis (_yatra prathamāntaṃ tatra yo ’sti tam ity adhyāhāryam_).
+
+_____________
+
+**28.10 (kṛśāśvatanayān bhāsvarān — Sons of Kṛśāśva and Suprabhā)**
+
+Recalling Sarga 21 (1.21.14–19)—where Dakṣa’s daughters Jayā and Suprabhā bore a hundred weapon-sons to Maharṣi Kṛśāśva, Jayā bearing the fifty assault missiles and Suprabhā the fifty withdrawal missiles—Viśvāmitra addresses these powers as _kṛśāśvatanayān_. Both **Tilaka** and **Govindarāja** gloss the genitive _mama_ as ablative in sense (_mattaḥ_—“receive them from me”), since Rāma is the worthy vessel (_pātrabhūtaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -342,6 +378,14 @@ Completing the transmission of Kṛśāśva’s luminous sons, Viśvāmitra best
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “So be it!” (_bāḍham ity eva_), replied the scion of Kakutstha with a joyful inner spirit (_prahṛṣṭenāntarātmanā_), and accepted them; thereupon those missiles—endowed with divine, blazing bodies, incarnate in tangible form, and bestowing bliss (_mūrtimantaḥ sukhapradāḥ_)—
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28.11–12 (bāḍham ity eva & Epiphany of the Mantra-Devatās)**
+
+On _bāḍham ity eva_, all three commentators supply _pratijagrāha_ (“Rāma gladly accepted them”). Immediately upon initiation (_mantrasvīkārānantaram_), the presiding deities of the withdrawal spells materialize in tangible bodies (_mūrtimantaḥ = śarīrakāṭhinyavantaḥ_)—some glowing like live embers, some like smoke, and some radiant as the moon and sun.
 </details>
 </details>
 
@@ -432,6 +476,14 @@ Gladdening in his heart of hearts Rama of Kakutstha received the annulment
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Joining their palms in reverence (_prāñjalayo bhūtvā_), those sweet-voiced deities spoke to Rāma: “Here we are (_ime sma_), O tiger among men! Command us (_śādhi_)—what shall we perform for you?”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28.13–15 (ime sma, mānasāḥ & pradakṣiṇam)**
+
+On _ime sma_ (“Here we are!”), **Govindarāja** notes the epic elision of the final visarga (_ārṣaḥ salopaḥ_ for _smaḥ_) and cites Pāṇini 6.4.35 (_śā hau_) for _śādhi_ (“command us!”). Rāma bids them depart and remain _mānasāḥ_—dwelling in his mind ready to appear when thought of in battle (_manasi saṃnihitā bhūtvā_, **Tilaka**). On v. 15b, **Tilaka** explains why the weapons circumambulate Rāma: _sakalasvadevatādhidevatarūpatvād rāmasya pradakṣiṇakaraṇam_ (“because Rāma is the Supreme Overlord of all their presiding deities”).
 </details>
 </details>
 
@@ -568,6 +620,20 @@ After learning the nullifying missiles and then while proceeding on
 
 **17:** “What is this grove of trees (_vṛkṣakhaṇḍam_) appearing over there not far from the mountain (_parvatasyāvidūrataḥ_), dark and gleaming like a bank of clouds (_meghasaṃkāśam_)? Great indeed is my curiosity (_paraṃ kautūhalaṃ hi me_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28.16 (Rejection of the Lakṣmaṇa-Transmission Interpolation)**
+
+**Tilaka** notes that some manuscripts insert a verse before v. 16 stating that Rāma passed the missiles on to Lakṣmaṇa (_lakṣmaṇāyādṛtaḥ śrīmāṃs tasmai nyavedayat_), and rejects it as spurious (_tat prakṣiptam_), since any simultaneous instruction to both brothers would proceed from Viśvāmitra directly, just like _Balā_ and _Atibalā_.
+
+_____________
+
+**28.17–18 (Sighting the Cloud-Dark Grove of Siddhāśrama)**
+
+Approaching the Himālaya foothills (_parvatasyāvidūrataḥ_), Rāma sights a dense woodland (_vṛkṣakhaṇḍam_) dark as a rain-cloud (_meghasaṃkāśaṃ — kārṣṇyotkarṣavivakṣayā_, **Tilaka**), and asks whether it is a wild forest or a sacred hermitage (_kiṃ vanasaṃbandhi uta āśramasaṃbandhi_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -678,6 +744,14 @@ Emerging from the hair-raising wilderness of Tāṭakāvana into the serene air 
 
 “We have now emerged, O best of sages, from that hair-raising wilderness (_niḥsṛtāḥ smo muniśreṣṭha kāntārād romaharṣaṇāt_)! By the sheer serenity and blissfulness of this region (_anayā deśasya sukhavattayā_), I infer that we have reached a hermitage;
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28.19 (kāntārād romaharṣaṇāt & Inference from sukhavattayā)**
+
+All three commentators identify the “hair-raising wilderness” (_kāntārād romaharṣaṇāt_) as Tāṭakāvana, rendered terrifying and desolate by Tāṭakā’s ravages (_tāṭakayā nirjanīkaraṇāt tasya bhayānakatvena romaharṣaṇatvam_, **Tilaka**). Conversely, from the palpable peace pervading this new region (_anayā deśasya sukhavattayā — deśaniṣṭha-sukhakāraṇatayā_, **Śiromaṇi**), Rāma infers that it must be a sacred hermitage (_idam āśramapadam ity avagacchāmi_, **Tilaka** and **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -758,6 +832,20 @@ Emerging from the hair-raising wilderness of Tāṭakāvana into the serene air 
 **21:** “In order to obstruct your sacrifice, those wicked-souled ones, O great sage (_tava yajñasya vighnāya durātmāno mahāmune_)? O venerable Lord, which is the exact spot where that sacrificial rite of yours (_tava yājñikī_)
 
 **22:** “Must be guarded by me, O Brāhmaṇa, and where those Rākṣasas are to be slain by me (_rakṣitavyā kriyā brahman mayā vadhyāś ca rākṣasāḥ_)? All this, O best of sages, I desire to hear, O Lord!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**28.20 (Twofold Question — kasyāśramapadam & brahmaghnāḥ)**
+
+**Tilaka** observes that in v. 20 Rāma first asks whose ancient hermitage this is (_āśramapadaṃ nirṇīya tat kasyeti pṛcchati_), and then poses a second inquiry (_jijñāsāntaram_) regarding the Veda-destroying Rākṣasas (_brahmaghnāḥ = vedamārgadhvaṃsakāḥ_, **Śiromaṇi**).
+
+_____________
+
+**28.21–22 (yājñikī kriyā & Rāma’s Eagerness to Guard the Rite)**
+
+Construing vv. 20cd–22 as a single connected period (_ślokatrayam ekānvayi_, **Śiromaṇi**), **Tilaka** and **Govindarāja** explain Rāma’s second question: which exact precinct (_ko deśaḥ_) is the site where Viśvāmitra’s sacrificial rite (_yājñikī kriyā_) must be guarded by him and the obstructing Rākṣasas slain?
 </details>
 </details>
 

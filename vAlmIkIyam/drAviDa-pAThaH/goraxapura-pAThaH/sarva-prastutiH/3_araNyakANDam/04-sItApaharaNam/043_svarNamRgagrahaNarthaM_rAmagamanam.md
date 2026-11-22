@@ -2339,6 +2339,170 @@ out of his stomach, that godly saint Agastya spoke this to Vaataapi with a scorn
 
 “At the conclusion of the meal (_samutthāne ca_), perceiving him desirous of assuming his own [Rākṣasa] form (_tad-rūpaṃ kartu-kāmam_), the revered [Agastya] smiled (_utsmayitvā_) and spoke thus to Vātāpi:”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.43.1–2 (The Golden-Flanked Deer & the Omen of cakranda)**
+
+Opening Sarga 43 with a benedictory verse to Rāma who pursued the illusory deer to fulfill Sītā's wish (सीतायाः सर्वलोकायाः पूरयिष्यन् मनोरथम्), **Govindarāja** (_Bhūṣaṇa_) notes that हेमराजतवर्णाभ्याम् indicates one flank shone like gold and the other like silver. Citing the _Amarakośa_ (हेम हाटकम्) and the root क्रदि आह्वाने रोदने च, he glosses चक्रन्द as “called out” (आह्वयत्) and observes that summoning Lakṣmaṇa “with weapons” (सायुधम्) implies the beast must be taken by arms (आयुधेन तद्ग्राह्यम्). **Rāma Varmā** (_Tilaka_) remarks that the verb चक्रन्द (“wept/cried”) subtly foreshadows Sītā's impending grief (रोदनायेव भाव्यमिति सूचितं कविना).
+
+_____________
+
+**3.43.3–4 (Sītā's Repeated Summons & Arrival of the Princes)**
+
+While **Govindarāja** omits verse 3, **Śivasahāya** (_Śiromaṇi_) explains that Sītā repeatedly calls Rāma and Lakṣmaṇa (आगच्छागच्छेत्याहूय) while gazing intently at the deer (तं मृगं पुनरपि वीक्षते). Summoned by Vaidehī (तावाहूतौ सीतयेति शेषः, _Tilaka_), the brothers scan the spot indicated by Sītā (तं सीतादर्शितदेशं वीक्षमाणौ, _Śiromaṇi_) and behold the wondrous creature.
+
+_____________
+
+**3.43.5–6 (Lakṣmaṇa's Suspicion of Mārīca's Disguise)**
+
+Upon seeing the beast, Lakṣmaṇa immediately suspects foul play and identifies it as the notorious Rākṣasa Mārīca (तं प्रसिद्धं मारीचं राक्षसमेवाहं मन्ये, _Śiromaṇi_). **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss उपाधिना as the deceitful disguise of a deer's form (मृगरूपच्छलेन, _Tilaka_; मृगरूपोपाधिना, _Bhūṣaṇa_), whereby Mārīca previously slew kings roaming the forest on the hunt (मृगयार्थं पर्यटन्तो राजानः).
+
+_____________
+
+**3.43.7–8 (The Phantom City of the Gandharvas)**
+
+On माया मृगरूपमिदं कृतम्, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Mārīca's conjuring power has transformed itself into the shape of a deer (मायैव मृगरूपेण परिणता). Glossing गन्धर्वपुरसंनिभम्, **Govindarāja** defines a _gandharva-pura_ as an evanescent sky-mirage displaying wondrous, shifting shapes (नानाविधविस्मयनीयाकारसंस्थानं क्षणभङ्गुरं नभः), proving that no jewel-dappled deer truly exists on earth (एवमात्मकमृगासंभवात्, _Tilaka_).
+
+_____________
+
+**3.43.9–10 (Sītā Silences Lakṣmaṇa & the Omen of no bhaviṣyati)**
+
+$19
+
+_____________
+
+**3.43.11–12 (Catalogue of Hermitage Fauna)**
+
+Citing the _Vaijayantī_ lexicon (सृमरः स्यान्महामृगः), **Govindarāja** (_Bhūṣaṇa_) identifies सृमराः as large deer, चमराः as yak-tailed deer (चामरमृगाः), ऋक्षाः as bears (भल्लुकाः), पृषताः as spotted antelopes (बिन्दुमृगाः), and किन्नराः as a deer species (मृगविशेषाः), while **Rāma Varmā** (_Tilaka_) glosses _sṛmaras_ and _camaras_ as black-and-white-tailed deer (कृष्णशुक्लपुच्छौ).
+
+_____________
+
+**3.43.13–14 (The Deer's Threefold Splendour & Lunar Charm)**
+
+$1b
+
+_____________
+
+**3.43.15–17 (Dismissing the Charge of Illusion & Future Palace Ornament)**
+
+On अहो रूपम्, **Govindarāja** (_Bhūṣaṇa_) remarks that by praising the deer's colour (रूपं वर्णः), lustre (लक्ष्मीः कान्तिः), and rich voice (ध्वनिसमृद्धिः, _Tilaka_), Sītā implicitly rejects Lakṣmaṇa's claim that it is a demonic illusion (अतो न पूर्वोक्तमाया). Taking तव ग्रहणम् as an agentive genitive (त्वत्कर्तृकग्रहणम्, _Tilaka_, _Bhūṣaṇa_), the commentators link verses 16–17 (श्लोकद्वयमेकान्वयम्, _Bhūṣaṇa_): captured alive, the beast will amaze the hermitage dwellers now (सर्वेषामाश्रमस्थानाम्, _Śiromaṇi_) and later adorn the inner apartments once their exile ends.
+
+_____________
+
+**3.43.18 (Delighting the Royal Family)**
+
+On भरतस्यार्यपुत्रस्य श्वश्रूणाम्, **Govindarāja** (_Bhūṣaṇa_) construes आर्यपुत्रस्य (“of you, my noble lord”) as supplying तव to qualify श्वश्रूणाम् alongside मम (“your mothers-in-law and mine”, तव श्वश्रूणां मम श्वश्रूणां चेति योजना), and analyses मृगरूपम् either via the praise-suffix _-rūpap_ (प्रशस्तमृगः) or as “the deer's form” (मृगस्य रूपं वा).
+
+_____________
+
+**3.43.19–20 (Sitting on the Golden Deerskin over a bṛsī Mat)**
+
+Even if the deer cannot be taken alive, Sītā desires its lovely pelt (अजिनं चर्म रुचिरं प्रियम्, _Bhūṣaṇa_). Citing the _Amarakośa_ (व्रतिनामासनं बृसी), **Govindarāja** (_Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_), and **Śivasahāya** (_Śiromaṇi_) explain शष्पबृस्याम् as an ascetic cushion woven of tender grass (बालतृणपरिकल्पिततापसासने, _Tilaka_) over which the golden deerskin is spread (विनीतायामास्तृतायाम्, _Bhūṣaṇa_), where Sītā wishes to sit beside Rāma (त्वया सह स्थातुमिच्छामि) or perform divine worship (यद्वा भगवदुपासनां कर्तुम्, _Tilaka_).
+
+_____________
+
+**3.43.21 (Sītā's Apology for Her Self-Willed Plea)**
+
+On कामवृत्तमिदं रौद्रं स्त्रीणामसदृशम्, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) observe that Sītā modestly apologizes for her earlier peremptory command “Bring it!” (पूर्वमानयेति प्रमादादुक्तस्य क्षमापणं कृतम्, _Bhūṣaṇa_), acknowledging that commanding one's husband out of whim (भर्तृप्रेरणरूपस्वेच्छाव्यापारः) is harsh and unbecoming of noble women, like Kaikeyī's conduct (कैकेयीवत्). Yet her intense wonder at the creature's beauty compels her request (ममात्यन्तं कुतूहलं वर्तते).
+
+_____________
+
+**3.43.22–24 (Rāma's Own Wonder & the Power of Fate)**
+
+On नक्षत्रपथवर्चसा, **Govindarāja** (_Bhūṣaṇa_) glosses _nakṣatra-patha_ as the Milky Way (छायापथः) and _maṇi-pravara_ as sapphire (नीलरत्नम्), while both he and **Rāma Varmā** cite _Halāyudha_ (रूपं मृगेऽपि विज्ञेयम्) on रूपेण meaning “by the beast”. **Rāma Varmā** (_Tilaka_) remarks that even Rāma—whose intellect excels in discerning what is possible and impossible (संभावितासंभावितवस्तुतत्त्वनिरूपणकुशलमतेरपि)—fell into wonder through the sheer force of destiny (भवितव्यतायाः प्राबल्यात्).
+
+_____________
+
+**3.43.25–26 (Three Interpretations of na bhaviṣyati & Celestial Groves)**
+
+On रूपश्रेष्ठतया ह्येष मृगोऽद्य न भविष्यति, **Rāma Varmā** (_Tilaka_) offers two explanations: owing to its supreme beauty this deer “will not live today” (न जीविष्यति, as Rāma must slay it for Sītā), or—citing **Kataka**—such a creature “cannot possibly be a real deer” (मृगत्वमत्र न संभावितम्). **Govindarāja** (_Bhūṣaṇa_), by contrast, links 25d with 26a: such a peerless deer is not to be found today either here in exile (अद्य वनवासे न सेत्स्यति दुर्लभ इत्यर्थः) or even in Indra's Nandana and Kubera's Caitraratha groves, much less on earth.
+
+_____________
+
+**3.43.27–28 (Golden-Spotted Streaks & Lightning-Like Tongue)**
+
+On प्रतिलोमानुलोमाः, **Śivasahāya** (_Śiromaṇi_) glosses the hair-streaks as running obliquely and straight (तिर्यग्गामिन्यः ऋजुगामिन्यः), while **Govindarāja** (_Bhūṣaṇa_) renders them as reversed and smooth (न्युग्भूताः अनुकूलाः). All three commentators gloss शतह्रदाम् as lightning (विद्युतम्, _Tilaka_; तडितम्, _Bhūṣaṇa_), likening the yawning deer's darting tongue to a lightning flash bursting from a cloud.
+
+_____________
+
+**3.43.29–30 (The Sapphire Goblet Face)**
+
+Citing **Tīrtha** (_Tilaka_) and _Halāyudha_ (गल्वर्कः कलशेऽथ स्याच्चषकः स्मृतः, _Bhūṣaṇa_), all three commentators explain मसारगल्वर्कमुखः as having a snout shaped like a drinking-cup of dark blue sapphire (इन्द्रनीलनिर्मितचषकाकारमुखसंपुटः, _Bhūṣaṇa_), contrasting with its white conch-and-pearl belly. While _Tilaka_ and _Śiromaṇi_ read अनिरूप्यः (“impossible to define”), **Govindarāja** reads अभिरूपः (“handsome”, सुन्दरः).
+
+_____________
+
+**3.43.31–33 (Royal Hunting, Forest Ores & Śukra's Treasury)**
+
+To justify pursuing the deer, Rāma notes that kings hunt even for meat or pastime (विनोदार्थम्, _Bhūṣaṇa_), how much more for such a wondrous prize (किं पुनरेवंविधचित्रवस्तुलाभहेतोः)! In the forest, enterprising kings gather elephant pearls and mineral ores rich in gems and gold (करिमस्तकमुक्ताप्रभृतीनि, _Bhūṣaṇa_). On यथा शुक्रस्य, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) cite the _Īśāvāsya_ Upaniṣad (स पर्यगाच्छुक्रमकायमव्रणम्) to take _śukra_ as the pure soul in Brahmā's world whose every mental wish is fulfilled (संकल्पमात्रसिद्धं सर्वं भोग्यवस्तु), whereas **Govindarāja** (_Bhūṣaṇa_) quotes the _Udyogaparvan_ (अदभ्रेभ्यः समादत्त शुक्रश्चिन्ताभृतं धनम्) on Śukrācārya's inexhaustible treasury.
+
+_____________
+
+**3.43.34 (The Maxim of the Arthaśāstra)**
+
+Answering the objection that one should deliberate before acting, all three commentators explain Rāma's _nīti-śāstra_ maxim: when a seeker (अर्थी), captivated by an object's beauty and utility (तत्सौन्दर्यादिनापहृतहृदयः, _Tilaka_), pursues it unhesitatingly (अविचारयन्), masters of statecraft (अर्थशास्त्रज्ञाः) call that very object true _artha_ (स एवार्थ इति नीतिशास्त्रे अर्थशब्दसृष्टिः, _Bhūṣaṇa_).
+
+_____________
+
+**3.43.35–36 (Four Choicest Pelts Compared)**
+
+Citing the _Vaijayantī_ lexicon (कदली च बिडाले ते मृदुसूक्ष्मलोमके... प्रियकी रोमभिर्युक्ता मृदुमसूणैर्धनैः), **Govindarāja** (_Bhūṣaṇa_), **Rāma Varmā** (_Tilaka_), and **Śivasahāya** (_Śiromaṇi_) identify कादली and प्रियकी as the soft hides of the _kadalī_ and _priyaka_ deer, प्रवेणी as a fine woven rug (आस्तरणविशेषः, _Bhūṣaṇa_), and आविकी as a sheepskin fleece (अवित्वक्, _Tilaka_); none can rival this golden deerskin in softness (स्पर्शनेन मार्दवेन, _Bhūṣaṇa_).
+
+_____________
+
+**3.43.37 (The Constellation Mṛgaśīrṣa & the Earthly Deer)**
+
+On तारामृगमहीमृगौ, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) identify the sky-faring deer (नभश्चरो मृगः) as the lunar mansion Mṛgaśīrṣa (मृगशीर्षनक्षत्ररूपः, _Tilaka_), while **Śivasahāya** (_Śiromaṇi_) remarks that pairing the celestial star-deer and this earthly deer as both “divine” (दिव्यौ) establishes a mutual comparison (परस्परौपमानोपमेयभावः) between them.
+
+_____________
+
+**3.43.38–40 (Conceding Lakṣmaṇa's View: Either Way It Must Die)**
+
+Having justified capturing the deer on Sītā's premise that it is a real animal (सीतामतमङ्गीकृत्य प्रवृत्तिरुक्ता, _Bhūṣaṇa_), Rāma now adopts Lakṣmaṇa's view (लक्ष्मणमतमङ्गीकृत्याह): even if it is Mārīca's illusion, Rāma is bound by his vow to exterminate the Rākṣasas (राक्षसवधस्य प्रतिज्ञातत्वात्, _Tilaka_), especially since this wicked (अकृतात्मना दुर्भावेन, _Bhūṣaṇa_) demon previously slaughtered sages and kings by springing upon them unexpectedly (उत्थाय प्रादुर्भूय, _Bhūṣaṇa_).
+
+_____________
+
+**3.43.41 (Vātāpi & the Simile of the She-Mule)**
+
+Recalling Vātāpi in Daṇḍakāraṇya (पुरस्तात् पूर्वमिह दण्डकारण्ये, _Tilaka_) to show that a conjurer perishes by his own trick, all three commentators cite **Tīrtha**, the _Vṛttikāra_, _Halāyudha_ (वेगवानश्वतरो मतः), and _Śālihotra_ to define अश्वतरी as a she-mule sired by a jackass on a mare (गर्दभादश्वायामुत्पन्ना), whose gestation fatally ruptures its mother's womb (तस्या गर्भस्योदरपाटनं विना न निस्तरणम्, _Tilaka_); they also note views taking _aśvatarī_ as a plantain (कदली) or scorpion (वृश्चिकी).
+
+_____________
+
+**3.43.42–44 (Agastya Digesting Vātāpi)**
+
+On समुत्थाने, all three commentators gloss the noun as the completion of the meal (श्राद्धान्ते, _Tilaka_, _Bhūṣaṇa_; आहारावसाने, _Śiromaṇi_), when Vātāpi—having been eaten in the guise of a ram (अजरूपं वातापिम्, _Bhūṣaṇa_)—sought to resume his Rākṣasa form and burst Agastya's belly (उदरं विदार्य निस्सरणकामम्, _Śiromaṇi_). Smiling gently (ईषत्स्मित्वा), Agastya declared that because Vātāpi had despised great sages without regard for sin (अविगण्य अविचार्य पापम्, _Tilaka_, _Bhūṣaṇa_), he was now thoroughly digested (जरां जीर्णताम्).
+
+_____________
+
+**3.43.45–46a (Mārīca's Doom upon Encountering Rāma)**
+
+Applying the exemplum to Mārīca, Rāma declares that just as Agastya destroyed the ram-disguised Vātāpi for the welfare of the world (लोकहितार्थं नाशितवान्, _Bhūṣaṇa_), so too will he slay this deer-disguised Rākṣasa who dares overstep (अतिमन्येत अतिक्रामेत्) a self-controlled upholder of _dharma_. On मा गतः, **Rāma Varmā** (_Tilaka_) takes epic मा as accusative माम् (मा मां गतः प्राप्तः), while **Govindarāja** reads मां गतः directly.
+
+_____________
+
+**3.43.46c–d (Commanding Lakṣmaṇa to Stand Armed and Vigilant)**
+
+On संनद्धो यन्त्रितः, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss संनद्धः as fully equipped with bow and mail (धनुःकवचादिसन्नाहयुक्तः) and यन्त्रितः as focused and free from any other distraction (व्याक्षेपान्तररहितः, _Bhūṣaṇa_; यत्नवान्व्यापारान्तरहीनः, _Tilaka_).
+
+_____________
+
+**3.43.47 (The Double Meaning of asyām āyattam asmākaṃ yat kṛtyam)**
+
+Both **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) highlight the profound double entendre in Rāma's words “upon her depends our entire mission.” Outwardly, Rāma means that guarding Sītā is their paramount duty (एतद्रक्षणप्रधानमित्यर्थः, _Bhūṣaṇa_). Esoterically, the entire purpose of his divine incarnation—slaying Rāvaṇa and his hosts—hinges upon Sītā as its instrumental cause (अस्माकं कृत्यमवतारग्रहणप्रयोजनं तदस्यामायत्तमनयैव साधनीयम्, _Tilaka_; एतन्निमित्ततया रावणवधादिकं कर्तव्यम्, _Bhūṣaṇa_), fulfilling her former vow as Vedavatī (इयं हि पूर्वं वेदवतीभावे तथा संकल्पितवती, _Bhūṣaṇa_).
+
+_____________
+
+**3.43.48–50 (Fulfilling Sītā's Wish & the Certainty of Slaying the Deer)**
+
+On त्वचा प्रधानया ह्येष मृगोऽद्य न भविष्यति, **Rāma Varmā** (_Tilaka_) notes that Rāma now drops the option of live capture (अनेन जीवतो ग्रहणमशक्यमिति दर्शितम्), while **Govindarāja** (_Bhūṣaṇa_) observes that satisfying Sītā's desire for the hide is Rāma's primary motive, whereas slaying the demon is incidental (सीताप्रार्थनमेव प्रधानप्रयोजनम् अन्यदाषङ्गिकम्).
+
+_____________
+
+**3.43.51 (Enlisting Jaṭāyus & Vigilance on All Sides)**
+
+On प्रदक्षिणेन, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) gloss the epithet as “eminently capable” (अत्यन्तसमर्थेन, _Bhūṣaṇa_; समर्थेन, _Tilaka_), while **Śivasahāya** (_Śiromaṇi_) renders it “favorably disposed” (सानुकूलेन). Taking जटायुषा as an instrumental of accompaniment (सहार्थे तृतीया, _Bhūṣaṇa_), Rāma bids Lakṣmaṇa keep Sītā under his charge (परिगृह्य स्ववशीकृत्य) and remain wary of Rākṣasas in every direction (सर्वदिग्वर्तिरक्षोगणेभ्यः, _Tilaka_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

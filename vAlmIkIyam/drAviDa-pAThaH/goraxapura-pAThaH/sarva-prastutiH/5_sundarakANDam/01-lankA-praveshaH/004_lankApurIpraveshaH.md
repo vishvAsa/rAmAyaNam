@@ -209,6 +209,98 @@ Lanka.
 
 Having entered at night, the son of the Wind-god, richly endowed with inner strength (_sattvasampannaḥ_), took to the great royal highway (_mahāpatham_) resplendent with strewn flowers (_muktapuṣpavirājitam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5.4.1–2 (Entering by an Unbarred Path)**
+
+All three commentators construe verses 1 and 2 together (श्लोकद्वयमेकान्वयि), connecting Hanūmān's conquest of the presiding deity of Laṅkā (लङ्कापराभवानन्तरकालिकं) with his nocturnal leap over the outer wall (प्राकारमवपुप्लुवे). **Śiromaṇi** explains अद्वारेण as entering by leaping over a path other than the guarded gateway (द्वारमार्गभिन्नेन उत्प्लवनेनेत्यर्थः), while **Govindarāja** notes that this unorthodox entry demonstrates that the _rākṣasa_ sentries could not repel his assault (अद्वारेणेत्यनेन लङ्कापरिभवो राक्षसैर्न रक्षितुं शक्य इति द्योत्यते). **Tilaka** cites a maxim of polity (नीतिश्रुतेरिति भावः) prescribing entry into a hostile stronghold away from its gates to ensure the foe's destruction.
+
+_____________
+
+**5.4.3–4 (The Auspicious Left Foot upon the Foe)**
+
+On सव्यं पादं, **Tilaka**, **Śiromaṇi**, and **Govindarāja** all quote Bṛhaspati's treatise on royal conduct (तदाह बृहस्पतिः): while a king should advance his right foot when setting out on a journey, entering his own house, or marrying, upon entering an enemy's city he must plant his left foot first (शत्रुपुरप्रवेशे वामं निदध्याच्चरणं नृपालः). Doing so symbolically treads upon the enemy's head (स तु शत्रोर्मूर्ध्नि कृतो भवेदिति). Hanūmān then takes the flower-strewn royal highway (महापथं राजमार्गम्).
+
+_____________
+
+**5.4.5–6 (Cloud-Like Mansions and Diamond Lattices)**
+
+Construing verses 5 and 6 with the preceding half-verse, the commentators explain how the mansions of Laṅkā are heralded by musical fanfares (तूर्यघोषपुरस्कृतैः) and resonant with boisterous laughter (हसितानामट्टहासानामुत्कृष्टनिनदैः). On वज्राङ्कुशनिकाशैः, **Tilaka** and **Śiromaṇi** explain that the houses bear emblems or architectural forms resembling thunderbolts and goads (वज्राणामङ्कुशानां निकाशाः प्रतिमा येषु गृहेषु), whereas **Govindarāja** alternatively takes वज्राङ्कुश as a _bahuvrīhi_ for Indra's elephant Airāvata (वज्राङ्कुशः ऐरावतः तत्तुल्यः), meaning gleaming white like Airāvata. On गृहमेघैः, **Govindarāja** explicitly cites Pāṇini's rule उपमितं व्याघ्रादिभिः for the _upamita-samāsa_ (`cloud-like mansions').
+
+_____________
+
+**5.4.7–8 (Vāstuśāstra Layouts: Padma, Svastika, and Vardhamāna)**
+
+$19
+
+_____________
+
+**5.4.9–10 (Diverse Mansions and the Three Musical Registers)**
+
+Hanūmān rejoices as he surveys palaces of varied architectural forms and hues (विविधा आकारा रूपाणि वर्णा येषां तानि). On त्रिस्थानस्वरभूषितम्, all three commentators identify the three physiological registers of classical Indian vocal music (उरःकण्ठशिरःसु): the chest (_uras_), throat (_kaṇṭha_), and head (_śiras_), which respectively generate the low, middle, and high octaves (मन्द्रमध्यतारस्वरैर्भूषितम्).
+
+_____________
+
+**5.4.11–12 (Amorous Footsteps and Martial Clapping)**
+
+In the palaces of the grandees, Hanūmān hears women smitten with passion (मदनविद्धानां) alongside the sounds of staircases (सोपाननिनदान्). **Tilaka** and **Govindarāja** explain this as the ringing of gem-studded and golden stairs struck by the anklets and girdles of women moving up and down (मणिहेमकृतानां सोपानानां नूपुरादिताडनेन ये निनादाः), or the tread of feet (पदाघातशब्दान्). Simultaneously, he hears martial arm-slapping (आस्फोटितनिनादान्, करास्फालनशब्दान्) and lion-like roars (क्ष्वेडितान् सिंहनादान्).
+
+_____________
+
+**5.4.13–14 (Vedic Recitation and Royal Panegyrics)**
+
+In the _rākṣasa_ mansions, Hanūmān hears both sacred _mantras_—which **Tilaka** takes as Vedic formulas (मन्त्रान्वेदमन्त्रान्) and **Govindarāja** as _Atharvaveda_ incantations (मन्त्रान् अथर्ववेदादीन्)—and reciters of the _Veda_ (ब्रह्मभागपाठनिरतान्), alongside _rākṣasas_ roaring praises of Rāvaṇa (रावणस्तुतियुक्तान्). Blocking the royal highway stands a great troop (रक्षोगणं).
+
+_____________
+
+**5.4.15 (Ritual Consecration Outside Bhāratavarṣa)**
+
+In the middle court (मध्यमकक्षाप्रदेशे), Hanūmān observes secret intelligence agents (चरान् परवृत्तान्तावेदकगूढचारान्) disguised in various ascetic garbs: consecrated sacrificers (दीक्षितान्), matted-haired, shaven-headed, and clad in cow-skins or naked (अम्बरवाससो विवाससः). **Tilaka** resolves a Mīmāṃsā objection: how can _rākṣasas_ in Laṅkā, outside the _karmabhūmi_ of Bhāratakhaṇḍa, be consecrated (दीक्षितत्वम्)? First, obligatory rites (नित्यकर्मस्वन्यदेशेऽप्यधिकारात्) are valid everywhere; second, through Rāvaṇa's ascetic power and the divine lineage of _rākṣasas_ (रक्षसामपि देवयोनित्वात्), even optional rites succeed despite territorial deficiency (देशरूपाङ्गवैकल्येऽपि तत्सिद्धिः).
+
+_____________
+
+**5.4.16–18 (Ritual Weapons and Lexicographical Glosses)**
+
+$1b
+
+_____________
+
+**5.4.19–20 (Metrical Licenses in Prosody and Grammar)**
+
+$1d
+
+_____________
+
+**5.4.21–22 (Weapons and Attire of the Courtiers)**
+
+On वृक्षायुधाः, **Tilaka** explains these as weapons made of bent wood (वक्रकाष्ठाद्यायुधाः), and identifies क्षेमणी/क्षेपणी as a sling or _bhindipāla_ (क्षेपणी भिन्दिपालः). **Govindarāja** quotes the _Nighaṇṭu_ to define पट्टिश as a long-shafted, sharp-edged iron spear (तीक्ष्णधारो लोहदण्डः). The courtiers, adorned with garlands and diverse garments (वेषः नेपथ्यम्), roam at their pleasure (यथेष्टचारिणः).
+
+_____________
+
+**5.4.23–24 (The Elite Hundred-Thousand Guard)**
+
+Before the inner citadel (अन्तःपुराग्रतः), Hanūmān beholds the alert (अव्यग्रं सावधानम्) middle garrison (आरक्षं गुल्मम्) of one hundred thousand elite core troops (रावणमूलबलं) commanded by Rāvaṇa himself, guarding the palace with its grand golden archways (महाहाटकतोरणम्).
+
+_____________
+
+**5.4.25–26 (The Mountain Citadel and Lotus-Crowned Moats)**
+
+Construing verses 24 and 25 together (श्लोकद्वयमेकान्वयम्), **Śiromaṇi** and **Govindarāja** explain that the pronoun सः is repeated in 24b to correspond with the two verbal actions (क्रियाभेदात्तच्छब्दद्वयम्): having seen the outer garrison (तदारक्षं दृष्ट्वा), Hanūmān beholds Rāvaṇa's famed palace perched on the mountain peak (अद्रिमूर्ध्नि प्रतिष्ठितम्), ringed by moats adorned with white lotuses (पुण्डरीकावतंसाभिः श्वेतपद्मभूषिताभिः) and resembling Indra's heaven (त्रिविष्टपनिभं स्वर्गसदृशं).
+
+_____________
+
+**5.4.27–29 (Two-Tusked and Four-Tusked Elephants)**
+
+$1f
+
+_____________
+
+**5.4.30 (The Golden Ring-Wall of the Inner Citadel)**
+
+In the concluding _upajāti_ verse, all three commentators distinguish the two varieties of gold in हेमजाम्बूनदचक्रवालं: **Tilaka** glosses हेम as red-tinged gold (तप्तवर्णं स्वर्णं) and जाम्बूनद as sixteen-carat pure gold (षोडशवर्णस्वर्णेन निर्मितं), while **Govindarāja** distinguishes ordinary gold (अन्यत्र जातं सुवर्णम्) from gold born of the Jambu river (जम्बूनद्यां जातम्). Its interior (अन्तःभागः) gleams with pearls and gems and is perfumed with supreme black _aguru_ and sandalwood (परार्घ्यकालागुरुचन्दनार्हं).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

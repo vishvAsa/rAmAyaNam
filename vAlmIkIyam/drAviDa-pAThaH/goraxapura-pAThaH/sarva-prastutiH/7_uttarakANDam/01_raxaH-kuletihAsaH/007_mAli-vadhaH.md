@@ -224,6 +224,170 @@ Unmoved by the rākṣasa barrage, Viṣṇu draws his Śārṅga bow to mow dow
 
 Assailed by the night-rovers like the mighty ocean by fish (_mīnair iva mahodadhiḥ_), the invincible Lord (_durdharṣaḥ_) drew his Śārṅga bow (_śārṅgam āyamya_) and unleashed shafts upon the rākṣasas.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7.7.1–2 (The Cloud-Ringed Mountain of Nārāyaṇa)**
+
+Introducing the seventh sarga as Hari's routing of the besieging demons (अथ राक्षसोपरुद्धेन हरिणा तद्द्रावणम्), **Rāma Varmā** (_Tilaka_) notes that नारायणगिरिम् establishes an explicit metaphor (रूपकमिदम्), echoed by **Śivasahāya** (_Śiromaṇi_), who takes the rākṣasas as roaring rain-clouds besieging that mountain-like Lord. On 7.7.2, both Rāma Varmā and **Govindarāja** (_Bhūṣaṇa_) gloss श्यामावदातः as dark-complexioned yet pure and resplendent (श्यामः सन्नवदातः निर्मलः), contrasting Viṣṇu's luminous beauty with the sinister darkness of the night-rovers. Both also flag अञ्जनगिरीव as an archaic elision of the case suffix (विभक्तिलोप आर्षः / छान्दसः).
+
+_____________
+
+**7.7.3–4 (Four Similes and Cosmic Dissolution)**
+
+$18
+
+_____________
+
+**7.7.5–6 (Fourfold Aerial Array and the Breath-Restraint Simile)**
+
+Explaining the unusual sociative instrumentals in 7.7.5, **Rāma Varmā** and **Śivasahāya** supply सह: charioteers together with their chariots (स्यन्दनैः सह), elephant-riders with elephants (गजैः सह), cavalry with steeds, and infantry all hovered in midair through rākṣasa aerial prowess. On 7.7.6, **Govindarāja** clarifies that the demons did not actually suffocate Viṣṇu; rather, their relentless volley left him no momentary pause between strokes (उच्छ्वासानवसरवन्तं कृतवन्तः). **Śivasahāya** highlights the striking _dṛṣṭānta_: the surrounding weapons hemmed Hari in just as periods of yogic breath-suspension (प्राणायामसमयाः) still a twice-born sage—quietly implying Viṣṇu's serene, yogic composure.
+
+_____________
+
+**7.7.7–9 (Viṣṇu's Counteroffensive with the Śārṅga Bow)**
+
+The ocean-and-fish simile of 7.7.7 underscores the utter disproportion between the rākṣasas' blows and Viṣṇu's imperturbability. **Śivasahāya** (_Śiromaṇi_) supplies the implicit direct object on 7.7.8: drawing the bowstring to full stretch (पूर्णायतेन अत्यन्तमाकृष्टतया), Viṣṇu severed the rākṣasas themselves by hundreds and thousands (शतशः सहस्रशः राक्षसान् चिच्छेद). **Govindarāja** (_Bhūṣaṇa_) confirms पूर्णायततया उत्सृष्टैः and analyzes वज्रवक्त्रैः as a _bahuvrīhi_ denoting shafts whose tips are hard as thunderbolts. In 7.7.9, Śivasahāya reads the wind dispersing a storm-cloud as the _dṛṣṭānta_ for Hari scattering the enemy barrage before sounding Pāñcajanya.
+
+_____________
+
+**7.7.10–11 (The Three-World-Shaking Blast of Pāñcajanya)**
+
+$1a
+
+_____________
+
+**7.7.12 (Panic Across Steeds, Elephants, and Charioteers)**
+
+All three commentators examine the striking archaic morphology of 7.7.12. **Rāma Varmā** resolves भवन् as the unaugmented past अभवन् and glosses शङ्खरावितदुर्बलाः as rendered feeble by the sound of the conch (शङ्खशब्देन दुर्बलाः क्षीणबलाः). **Govindarāja** offers both explanations of कुञ्जराभवन्—either an _ārṣa_ sandhi (आर्षः सन्धिः) or augmentless भवन्—and notes with Rāma Varmā that रावित employs the pleonastic causative suffix (स्वार्थे णिच्) to mean simply ‘conch-blast’ (शङ्खध्वनिना). **Śivasahāya** traces the causal sequence across the verse: because the chariot-steeds could not stand steady and the war-elephants lost their martial rut, the heroes themselves plunged helplessly from their chariots.
+
+_____________
+
+**7.7.13–15 (Thunderbolt Shafts and Ochre-Red Streams of Blood)**
+
+After **Śivasahāya** (_Śiromaṇi_) traces the swift arc of 7.7.13–14—arrows piercing the demons and plunging into the earth while rākṣasas collapse like thunder-smitten crags—both he and **Rāma Varmā** (_Tilaka_) illuminate the vivid metaphor of स्वर्णधाराः in 7.7.15. Citing the lexical maxim गैरिकेऽपि सुवर्णं स्यात् (‘_suvarṇa_ also signifies red ochre’), Rāma Varmā explains स्वर्णधाराः as mineral streams of red ochre (गैरिकधाराः) cascading down mountainsides. Śivasahāya adds an alternate etymological analysis: शोभनानि गैरिकसंसर्गेण शोभाविशिष्टानि अर्णांसि जलानि यासु ता एव धाराः, reading _svarṇa_ as _su-arṇa_, ‘lovely waters’ tinted crimson by mountain ochre—matching the gush of blood from discus-wounds across the foes' lower limbs (परगात्रेभ्यः स्वाधोवयवेभ्यः).
+
+_____________
+
+**7.7.16–17 (The All-Devouring Roar and Disarmament of the Host)**
+
+On 7.7.16, **Rāma Varmā** catches the pregnant force of the particle अपि in रवांश्चापि: Viṣṇu's resounding war-cry (वैष्णवः विष्णूत्पादितः) swallows not merely the demons' shouts, but their very life-breaths as well (अपिना प्राणांश्च). **Śivasahāya** identifies three distinct divine sounds—Pāñcajanya's blast, the Śārṅga bow's twang, and the lion-roar uttered from Viṣṇu's own mouth (विष्णुमुखसमुच्चारितो रवश्च)—collectively engulfing the enemy clamor. On 7.7.17 (preserved in the Southern Recension), Rāma Varmā glosses शिरोधरान् as necks (कण्ठान्), while Śivasahāya renders धूतान् as ‘shaken or trembling’ (प्रकम्पितान्) as Hari's arrows strip the rākṣasas simultaneously of limbs and war-gear.
+
+_____________
+
+**7.7.18 (Four Elemental Upamās for Viṣṇu's Arrow-Volley)**
+
+Opening a two-verse syntactic unit completed in 7.7.19 (श्लोकद्वयमेकान्वयि), **Śivasahāya** unpacks the four cosmic similes of 7.7.18: scorching solar rays (कराः किरणा इव), billowing waters from the sea (where **Govindarāja** explicitly upholds the reading ऊर्मयः सागरादिव, ‘waves from the ocean’), mighty serpents gliding out of mountain lairs (नागेन्द्राः महासर्पा इव), and dense rain-torrents pouring from storm-clouds (अम्बुदात् मेघात् धारौघा इव). Together these four elemental images evoke the brilliance, inexhaustibility, lethal venom, and relentless density of the arrows streaming from Viṣṇu's Śārṅga bow.
+
+_____________
+
+**7.7.19 (Resolving the Double Noun ‘Śarāḥ’ and ‘Iṣavaḥ’)**
+
+Because verse 19 uses both शराः and इषवः (‘arrows’) in the same stanza, the three commentators offer distinct grammatical solutions to remove any charge of tautology (_punarukti_). **Rāma Varmā** (_Tilaka_) splits the verse into two separate clauses (पृथग्योज्यम्): first, ‘arrows loosed from the Śārṅga appeared’ (शार्ङ्गविनिर्मुक्ताः शरा आसन्), and then ‘sped by Nārāyaṇa's action, the shafts darted forth’ (नारायणव्यापारत इषवो निर्धावन्ति). **Śivasahāya** (_Śiromaṇi_) instead treats शराः etymologically as an epithet—‘rending/destructive’ (शराः विघातकाः इषवः)—qualifying इषवः, while **Govindarāja** (_Bhūṣaṇa_) views the second hemistich as simply elaborating the first (शार्ङ्गविनिर्मुक्ता इत्येतद्विवृणोति).
+
+_____________
+
+**7.7.20–22 (The Eightfold Chain of Predators and Prey)**
+
+Treating verses 20–22 as a unified three-stanza garland of similes (श्लोकत्रयमेकान्वयि), **Śivasahāya**, **Rāma Varmā**, and **Govindarāja** elucidate the rare fauna in this descending hierarchy of terror: the mythical eight-legged _śarabha_ scatters lions, lions scatter elephants (द्विरदो हस्ती), elephants scatter tigers, tigers scatter panthers or leopards (द्वीपिनः क्षुद्रव्याघ्राः, a gloss shared by all three commentators), panthers scatter hounds, hounds scatter cats, cats scatter snakes, and snakes scatter mice (आखवो मूषिकाः). On 7.7.22, Śivasahāya glosses महीतले शायिताः (‘laid down upon the earth’) as slain in battle (निहता इत्यर्थः), highlighting the contrast between those routed and those felled by विष्णुना प्रभविष्णुना.
+
+_____________
+
+**7.7.23–24 (Indra Filling the Rain-Cloud and the Flight to Laṅkā)**
+
+On 7.7.23, **Govindarāja** explains why Indra (सुरराट्) is compared to Madhusūdana blowing his water-born conch (वारिजम्): the comparison rests on Indra's sovereign authority as controller of the monsoon clouds (इन्द्रस्य मेघनियन्तृत्वात्तथोक्तम्). **Śivasahāya** deepens the parallel by linking वारिजम् (‘water-born’) with the cloud's water-giving function (वारि जनयति मेघद्वारा प्रकटयतीति): just as Indra charges a thundercloud with rain and thunder, Viṣṇu charges his marine conch with storming breath. On 7.7.24, both Rāma Varmā and Govindarāja gloss the secondary adjective राक्षसम् as ‘belonging to the rākṣasas’ (रक्षःसम्बन्धि), as the broken army reels back toward Laṅkā.
+
+_____________
+
+**7.7.25–27 (Sumālī's Counterattack and Revival of the Host)**
+
+On 7.7.25, **Rāma Varmā** (_Tilaka_) glosses निववार as ‘held back’ (वारयामास). Although verses 26–27 are omitted in the Baroda Critical Edition, they are preserved and commented upon in the Southern tradition: **Śivasahāya** (_Śiromaṇi_) notes that when the demon momentarily shrouded Viṣṇu as mist dims the sun (नीहारो भास्करमिव), the sturdy rākṣasas (सत्त्वसम्पन्नाः बलवन्तः) recovered their nerve (धैर्यं पुनः समादधुः), and that charging forward with a lion-roar (राक्षसान् जीवयन्निव) brought him directly face to face with Hari (हरिसम्मुखं प्राप). The mist-and-sun simile already hints at how brief this rākṣasa rally will prove.
+
+_____________
+
+**7.7.28–29 (The Elephant-Trunk Gesture and the Slaying of the Charioteer)**
+
+Explaining the elliptical accusative लम्बाभरणम् in 7.7.28, **Śivasahāya** takes it as a _bahuvrīhi_ qualifying an understood करम् (‘arm’): tossing aloft his arm draped with dangling ornaments (लम्बायमानमाभरणं यस्मिन् तं करमुत्क्षिप्य) and waving it like an elephant's trunk. **Rāma Varmā** takes लम्बाभरणम् directly as the hanging ornament tossed about while glossing the elephant's करम् as its trunk (शुण्डादण्डमिव). In 7.7.29, all three commentators—Rāma Varmā, Śivasahāya, and **Govindarāja** (_Bhūṣaṇa_)—specify that Viṣṇu severed the head of Sumālī's charioteer (यन्तुः सारथेः), not Sumālī himself, whereupon the driverless horses ran completely out of control (नष्टसारथित्वादनवस्थितगतिकाः).
+
+_____________
+
+**7.7.30 (The Upaniṣadic Chariot Allegory of the Senses)**
+
+Verse 30 transforms a battlefield accident into classic Vedāntic imagery recalling the _Kaṭha Upaniṣad_'s chariot metaphor. **Rāma Varmā** notes that the present passive भ्राम्यते carries past narrative force (भ्राम्यते स्म, ‘was whirled about’). Both **Śivasahāya** and **Govindarāja** highlight the moral _dṛṣṭānta_: just as a man lacking inner firmness (धृतिहीनः) is dragged hither and thither when the horses of his senses bolt after sense-objects (परिभ्रान्तैः इन्द्रियाश्वैः), so Sumālī—once his charioteer of reason is struck down—is spun helplessly off the field by his panicked steeds, setting up an intentional contrast with Viṣṇu as जितेन्द्रियः three verses later (7.7.33).
+
+_____________
+
+**7.7.31–32 (Mālī's Charge and the Krauñca Mountain Simile)**
+
+Linking the Southern verse 31 with 32ab as a single sentence (सार्धश्लोक एकान्वयी), **Rāma Varmā** (_Tilaka_) explains that while Sumālī's chariot was being dragged aimlessly about (इतस्ततोऽपकृष्यमाणे सति), Mālī dashed toward Viṣṇu's vehicle; **Śivasahāya** (_Śiromaṇi_) construes विष्णुरथं प्रति directly with हृते, meaning that when Sumālī's chariot was swept past Viṣṇu's mount, Mālī intervened. On the six-quarter stanza 7.7.32, both Rāma Varmā and Śivasahāya gloss क्रौञ्चम् as Mount Krauñca (क्रौञ्चगिरिम्) and पत्ररथाः as birds (पक्षिणः): Mālī's golden-feathered shafts disappear into Viṣṇu's body like wild geese gliding through the pass of Krauñca without harming the mountain.
+
+_____________
+
+**7.7.33–34 (The Unshaken Lord and the Bowstring's Thunder)**
+
+Highlighting the spiritual symmetry with Sumālī's uncontrolled senses in 7.7.30, **Śivasahāya** notes on 7.7.33 that though bombarded by thousands of Mālī's shafts, Viṣṇu remained utterly unmoved, like one who has conquered his senses (जितेन्द्रियः) amidst mental distress (आधिभिः). In 7.7.34, Śivasahāya reads the epithet असिगदाधरः (matching Baroda CE 7.7.30), whereas **Govindarāja** (_Bhūṣaṇa_) upholds अरिनिषूदनः and observes that by first sounding the ominous twang of his bowstring (मौर्वीस्वनं कृत्वा), the Lord announces the decisive counterstroke that will break Mālī's momentum.
+
+_____________
+
+**7.7.35–36 (Serpents Drinking Garuḍa's Nectar and Mālī's Disarmament)**
+
+On 7.7.35, **Rāma Varmā**, **Śivasahāya**, and **Govindarāja** all gloss नागाः as serpents (सर्पाः), not elephants; Govindarāja adds the illuminating mythic detail that सुधारसम् refers specifically to the celestial nectar brought down by Garuḍa (अमृतं गरुडानीतम्)—alluding to the famous Mahābhārata tale of serpents eagerly licking the _amṛta_ from _kuśa_ grass, just as Viṣṇu's arrows drink Mālī's blood. On 7.7.36, Rāma Varmā and Govindarāja gloss मालिमौलिम् as Mālī's royal crown (मालिमकुटम् / मालिकिरीटम्), while Śivasahāya takes विमुखम् as having his face turned away and distorted (विकृताननम्) as Viṣṇu systematically strips away his crown, banner, bow, and horses.
+
+_____________
+
+**7.7.37–38 (Mālī's Mace-Blow and Yama's Duel with Śiva)**
+
+On 7.7.37, **Śivasahāya** (_Śiromaṇi_) notes that the chariotless Mālī vaults into the air like a mountain-lion (गिर्यग्रात् केसरी सिंह इव आपुप्लुवे). On 7.7.38, all three commentators—**Rāma Varmā** (_Tilaka_), Śivasahāya, and **Govindarāja** (_Bhūṣaṇa_)—resolve गरुडेशानम् as ‘lord of birds, i.e., Vainateya’ (गरुडाः पक्षिणः तदीशानं वैनतेयम्). Remarkably, Rāma Varmā glosses the bold simile ईशानमिव चान्तकः by citing a Purāṇic episode (पुराणप्रसिद्धेयं कथा): at Śvetāraṇya, in a battle between Śiva and Yama over the protection of Mārkaṇḍeya or a pious king (श्वेतारण्ये मार्कण्डेयरक्षणार्थं कस्यचिद्राज्ञो रक्षणार्थं वेशानन्तकयोर्युद्धमभूत्), Antaka dared to cast his weapon at Rudra himself.
+
+_____________
+
+**7.7.39–40 (Garuḍa's Retreat and the Double Instrumental)**
+
+Explaining 7.7.39, **Śivasahāya** clarifies that the wounded Garuḍa simply carried Viṣṇu away from the front in his agony (विष्णुं गृहीत्वैव विगत इत्यर्थः), so that the Lord's back momentarily faced the foe. On the tricky double instrumental मालिना गरुडेन in 7.7.40, **Rāma Varmā** separates the agents causally: the Lord was turned back by Garuḍa, who had been turned back by Mālī's blow (मालिताडनपराङ्मुखेन गरुडेन देवे पराङ्मुखे कृते). Śivasahāya instead construes मालिना as the primary agent forcing Viṣṇu together with Garuḍa to retreat (मालिना गरुडेन सह देवे विष्णौ पराङ्मुखे कृते सति), triggering the rākṣasas' premature triumphal roar.
+
+_____________
+
+**7.7.41–42 (The Sideways Cast and the Wheel of Time)**
+
+Construing 40ef with 41 as a single period (सार्धश्लोक एकान्वयी), **Śivasahāya**, **Rāma Varmā**, and **Govindarāja** all gloss हरिहयानुजः as Indra's younger brother (इन्द्रानुजः). Rāma Varmā vividly visualizes Viṣṇu's posture in तिर्यगास्थाय: steadying himself sideways with neck turned back upon the reeling king of birds (विकले पक्षीशे तिर्यग्वलितग्रीवमास्थाय स्थित्वा), Hari casts Sudarśana even while facing away. On 7.7.42, Rāma Varmā explains कालचक्रनिभम् as resembling the inexorable wheel of Time revolving through days and months (दिनमासादिरूपेण परिवर्तमानकालचक्रसदृशम्), declaring that this simile signifies the discus's absolute irresistibility (तेनाप्रतिवार्यत्वमुक्तम्) as it severs Mālī's head.
+
+_____________
+
+**7.7.43–44 (Rāhu's Head and the Gods' Lion-Roar)**
+
+On 7.7.43, **Śivasahāya** (_Śiromaṇi_) glosses विभीषणम् as ‘terrifying’ (भयङ्करम्) and highlights the mythic resonance of पुरा राहुशिरो यथा: just as Viṣṇu's discus severed the demon Rāhu's head during the distribution of the churned nectar, so Sudarśana now fells Mālī. On 7.7.44, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss सर्वप्राणसमीरितः as ‘roused with all their strength’ (सर्वबलेन प्रवर्तितः), while Śivasahāya renders it as ‘uttered with utmost exertion’ (अतिप्रयत्नेन युक्तः), mirroring Viṣṇu's own सर्वप्राणेन blast of Pāñcajanya in 7.7.10.
+
+_____________
+
+**7.7.45–46 (The Brothers' Flight and Garuḍa's Return)**
+
+With Mālī's death breaking the triadic leadership of Sukeśa's sons, **Śivasahāya** supplies the finite verb बभूवतुः on 7.7.45 as the grief-stricken Sumālī and Mālyavān retreat toward Laṅkā with their surviving troops. Turning to 7.7.46, Śivasahāya glosses सन्निवृत्य as ‘returning to the battlefield’ (रणभूमिमागम्येत्यर्थः): recovering swiftly from Mālī's mace-blow (समाश्वस्तः), Garuḍa avenges his humiliation by dispersing the fleeing demons with the hurricane of his wings (पक्षवातेन), restoring the aerial supremacy that had briefly wavered in 7.7.39.
+
+_____________
+
+**7.7.47–48 (Viṣṇu's Full Arsenal and the Plunge into the Sea)**
+
+Construing verses 47 and 48 together (श्लोकद्वयमेकान्वयि) as an account of the carnage wrought by Viṣṇu's weapons (विष्णुचक्रादिना राक्षसविघातमाह), **Śivasahāya** and **Rāma Varmā** gloss लाङ्गलग्लपितग्रीवाः as ‘whose necks were crushed or severed by the ploughshare’ (लाङ्गलेन हलेन ग्लपिता हता / अपहृता ग्रीवा येषां ते)—notably attributing both the ploughshare (_lāṅgala_) and pestle (_musala_) of Saṅkarṣaṇa/Balarāma to the cosmic arsenal of Viṣṇu alongside discus, mace, sword, and arrows. Whereas the Baroda Critical Edition places these two _anuṣṭubh_ verses after the _upajāti_ sequence, the Southern Recension groups them here so that the sarga may build uninterruptedly into its grand lyric finale.
+
+_____________
+
+**7.7.49–50 (Thunderbolt Arrows and the Demented Host)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) identify the lengthened vowel in अशनीभिः (7.7.49) as an archaic license (अशनीभिरिति दीर्घ आर्षः). Reading singular सतडिन्महाभ्रः, **Śivasahāya** (_Śiromaṇi_) illuminates the pictorial elegance of the simile: Viṣṇu's dark form resembles the great rain-cloud (शरीरस्य महाभ्रोपमा) and his yellow silk garment flashes like lightning (पीताम्बरस्य तडिदुपमा). On 7.7.50, Rāma Varmā glosses विनीतवेषम् as ‘comely, orderly array’ (सौम्यवेषः) now ruined by arrows, while he and Govindarāja define उन्मत्ततरम् as having utterly lost all discrimination between friend and foe (अतिशयेन विस्मृतस्वपरविवेकम्).
+
+_____________
+
+**7.7.51–52 (The Primeval Lion and Wind-Scattered Clouds)**
+
+On 7.7.51, both **Rāma Varmā** and **Govindarāja** interpret पुराणसिंहेन as Lord Nṛsiṃha (नृसिंहेन), identifying the Primeval Man-Lion directly with Viṣṇu in battle; **Śivasahāya** glosses the demons' रवाः as cries of ‘Alas!’ (हाहेति स्वनाः) and their वेगाः as headlong falls and panicked rushes (पतनादिका व्यापारविशेषाः). On 7.7.52, Rāma Varmā and Govindarāja concur that समुत्सृजन्तः means ‘abandoning’ (त्यक्तवन्तः)—not firing—their arrow-bundles in terror, while Śivasahāya glosses वार्यमाणाः as ‘enveloped’ (आव्रियमाणाः) by Hari's shafts as the dark rākṣasa-clouds scatter before the gale.
+
+_____________
+
+**7.7.53–54 (Fallen Crags and the Vaṃśastha Climax)**
+
+On 7.7.53, reading असिप्रहारैः (‘by sword-strokes’), both **Rāma Varmā** and **Govindarāja** gloss द्विविधा विभिन्नाः as cloven cleanly in two (प्रकारद्वयेन विभिन्नाः खण्डिताः) as the demon chiefs tumble like mountain crags. In the closing _vaṃśastha_ stanza 7.7.54, where the passive verb ददृशे lacks an expressed nominative in the Southern text (Baroda CE 7.7.50 supplies अम्बरम्, ‘the sky’), Rāma Varmā supplies ‘the orb of the earth’ (भूमण्डलमिति शेषः) and **Śivasahāya** ‘the earth's surface’ (धरातलमिति शेषः), noting that विलम्बमानैः evokes jewels dangling from severed limbs (हस्तादीनां छिन्नत्वेन अवलम्बरहितैः) across a field seamlessly blanketed like felled blue mountains.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

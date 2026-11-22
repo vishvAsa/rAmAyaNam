@@ -3282,6 +3282,260 @@ Which son, even if he is sent to an exile, cannot become angry with his father?"
 
 “‘What discerning man on earth would abandon a son, even if he were ill-behaved (_durvṛttam api kaḥ putraṃ tyajed bhuvi vicakṣaṇaḥ_)? And what son, when being sent into exile, would not bear resentment against his father (_kaś ca pravrājyamo vā nāsūyet pitaraṃ sutaḥ_)?
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**2.64.1–2 (apratirūpam, saṅkulendriyaḥ & sukṛtam)**
+
+Resuming Daśaratha’s narrative after the ascetic youth’s death, **Śivasahāya** (_Śiromaṇi_) glosses अप्रतिरूपम् as utterly unbecoming (अयोग्यम्), while **Govindarāja** (_Bhūṣaṇa_) notes that विलपन्नेव indicates the king was simultaneously mourning his exiled son. On v. 2, **Rāma Varmā** (_Tilaka_) glosses सङ्कुलितेन्द्रियः as having bewildered senses (भ्रान्तेन्द्रियः; व्याकुलेन्द्रियः, _Bhūṣaṇa_) and explains कथं नु सुकृतं भवेत् as deliberating whether confessing or concealing the youth’s slaying would prove auspicious, whereas **Govindarāja** supplies “how might this evil deed be made right” (दुष्कृतं सुकृतं कथं नु भवेत्).
+
+_____________
+
+**2.64.3–4 (yathākhyātapatham & apariṇāyakau)**
+
+On v. 3, **Govindarāja** remarks that Daśaratha concluded that informing the parents was the only righteous course (मुनिकुमारावेदनमेव श्रेयस्करम्) and followed the path described by the youth (यथाख्यातपथम्). In v. 4, all three commentators gloss अपरिणायकौ as “having no other person to lead them about” (संचारयितृपुरुषान्तररहितौ, _Tilaka_; परितो नयति संचारयतीति परिणायकः, तद्रहितौ, _Bhūṣaṇa_).
+
+_____________
+
+**2.64.5–6 (apariśramau & udāsīnau)**
+
+In v. 5, **Rāma Varmā** and **Śivasahāya** explain that the parents felt no weariness (अपरिश्रमौ) while conversing about their son (तन्निमित्ताभिः कथाभिः), whereas **Govindarāja** reads अपरिक्रमौ (“unable to walk, crippled”) and तामाशां हीनौ (“bereft of the hope of his bringing water”).
+
+_____________
+
+**2.64.7–9 (cirāyasi, yannimittam & vyalīkam)**
+
+In v. 7, all three commentators gloss the denominative चिरायसि as “you delay” (विलम्बयसि / विलम्बसे). On v. 8, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) construe यन्निमित्तम् correlatively with an implied तन्निमित्तम् (“because you have sported so long in the water, your mother is anxious with sorrowful remembrance,” सशोकस्मरणवत्यभूत्); both **Rāma Varmā** and **Govindarāja** (_Bhūṣaṇa_) also record the variant यन्न दत्तम् (“because water has not yet been given”). In v. 9, व्यलीकम् is glossed as “displeasure” (अप्रियम्), with **Govindarāja** citing Halāyudha on the variant अलीकम् (“offense,” अपराधः).
+
+_____________
+
+**2.64.10–11 (hīnavyañjanayā & bhītacitta iva)**
+
+In v. 11, **Rāma Varmā** and **Śivasahāya** explain हीनव्यञ्जनया as “devoid of distinct consonant articulation” (व्यञ्जनाक्षरव्यक्तिरहितया) due to choking emotion (सज्जमानया गद्गदया), while **Govindarāja** cites the _Vaijayantī_ lexicon (व्यञ्जनं इमश्रुनिष्ठानचिह्नेष्ववयवेऽक्षरे) to gloss it as “with indistinct syllables” (अस्फुटाक्षरया) and reads भीतो भीत इवाब्रुवम् (“utterly terrified”).
+
+_____________
+
+**2.64.12 (manasaḥ karma & vāgbalam)**
+
+**Rāma Varmā** and **Śivasahāya** take मनसः कर्म as mental fear (भीतिरूपम्), which the king masked through resolute speech and outward composure; **Govindarāja** takes चेष्टाभिः as esfuerzos of sensory restraint (इन्द्रियनियमनरूपव्यापारैः) by which he forcibly steadied his faltering voice (वाग्बलमभिसंस्तभ्य).
+
+_____________
+
+**2.64.13–14 (sajjanāvamatam & nipāne)**
+
+In v. 13, **Rāma Varmā** (_Tilaka_) notes that the sorrow born of Daśaratha’s own act (स्वकर्मजं दुःखम्) has been incurred both by himself and by the sage (मया भवता चेति शेषः), while **Govindarāja** (_Bhūṣaṇa_) glosses सज्जनावमतम् as “condemned by righteous men” (सत्पुरुषगर्हितम्). On v. 14, the commentators gloss निपाने as a watering-place or ford where beasts descend to drink (जलावतारे, _Bhūṣaṇa_; जलपानदेशे, _Śiromaṇi_) and श्वापदम् as a fierce beast of prey such as a tiger (व्याघ्रादिम्, _Tilaka_; सिंहशार्दूलादिकम्, _Bhūṣaṇa_).
+
+_____________
+
+**2.64.15–16 (pūryataḥ & gataprāṇam)**
+
+On v. 15, all three commentators gloss the _ārṣa_ participle पूर्यतः as पूर्यमाणस्य (“being filled”) and explain अयम् as referring to the unseen source of the sound (शब्दहेतुः पदार्थः, _Tilaka_, _Bhūṣaṇa_). In v. 16, **Rāma Varmā** carefully glosses गतप्राणम् as “whose life-breath was nearly gone” (गतकल्पप्राणम्), since the youth spoke before expiring.
+
+_____________
+
+**2.64.17–18 (marmataḥ)**
+
+Note that **Govindarāja** retains v. 17 as an authentic verse in his manuscript (श्लोकोऽयमधिको गो. पुस्तके), after which v. 18 describes drawing the shaft from the vital spot (मर्मस्थानात्, _Śiromaṇi_) at the agonizing youth’s own bidding (तस्यैव वचनात्).
+
+_____________
+
+**2.64.19–20 (uddhṛtena bāṇena & śeṣam evaṃgate)**
+
+On v. 19, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) take उद्धृतेन बाणेन as a causal instrumental (हेतुना, “by the drawing out of the arrow he ascended to heaven”). In v. 20, **Rāma Varmā** (_Tilaka_) explains शेषम् as whatever duty remains now that their protector is gone—implying that the king himself offers to care for them (युष्मद्रक्षणमपि मया कर्तुं शक्यम्)—while **Govindarāja** and **Śivasahāya** take it as submitting to whatever curse or grace (शापो वाऽनुग्रहो वा) the sage deems fit.
+
+_____________
+
+**2.64.21 (tīvram āyāsam)**
+
+Reading च कर्तुम्, **Rāma Varmā** and **Śivasahāya** explain that because the king confessed his unwitting error and offered service, the sage could not bring himself to hurl a curse that would reduce him to ashes (भस्मीभावकफलकशापदानं कर्तुं नाशकत्); reading अकर्तुम्, **Govindarāja** construes the double negative अकर्तुं नाशकत् as “he could not help falling into bitter grief” (व्यसनं कृतवानेव).
+
+_____________
+
+**2.64.23–24 (phalen mūrdhā & vajriṇam)**
+
+On v. 23, all three commentators gloss फलेत् as “would split asunder” (विशीर्येत / भिद्येत). In v. 24, **Śivasahāya** notes the figure _kāvyārthāpatti_: if a knowing assault on a _vānaprastha_ would topple even Indra (वज्रिणमपि), how much more a mortal king!
+
+_____________
+
+**2.64.25–26 (saptadhā, brahmavādini & ajñānāt)**
+
+Why does the sage say “into a hundred thousand pieces” in v. 23 but “sevenfold” (सप्तधा) in v. 25? **Rāma Varmā** (_Tilaka_) explains that v. 25 refers to the youth’s own ascetic wrath, which is lesser than his parents’ (स्वापेक्षया तयोर्न्यूनत्वात्सप्तधेति), whereas **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) take सप्तधा as a figurative expression (उपलक्षणम्) for “into many fragments.” On the variant ब्रह्मचारिणि, **Govindarāja** invokes the maxim सर्वे गत्यर्था ज्ञानार्थाः (“one who moves in—that is, knows—the Supreme Brahman”).
+
+_____________
+
+**2.64.27–28 (draṣṭum icchāvaḥ & dharmarājavaśam)**
+
+How can two blind parents desire to “see” (द्रष्टुम्) their slain son? Their “seeing” is accomplished through touch (अस्पर्शयम्, v. 29). In v. 28, **Govindarāja** takes धर्मराजवशं गतम् straightforwardly as “gone under the sway of Yama,” whereas **Śivasahāya** proposes a secondary sense: “having attained a radiant luster born of supreme righteousness” (उत्तमधर्माचरणाद्वशं कान्तिविशेषं गतम्).
+
+_____________
+
+**2.64.29–30 (ahaṃ repetition)**
+
+In v. 29, **Govindarāja** notes that the repetition of अहम् matches the two clauses (नीत्वा and अस्पर्शयम्), while **Śivasahāya** reads the second अहम् as an adjective from अह् + अच् meaning “unabandoning of dharma” (सर्वकालं धर्मत्यागाभाववन्तम्).
+
+_____________
+
+**2.64.31–33 (na tv aham & śāstram)**
+
+On vv. 31–32 (where Southern manuscripts preserve parallel couplets of the father’s opening lament), **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain न त्वहं ते प्रियः as: “Even if I am not dear to you because I sent you for water, at least look upon your righteous mother!” (Kataka divides नन्वहं तेऽप्रियः). In v. 33, **Rāma Varmā** notes that the poet says शास्त्रं वान्यत् (such as _Itihāsa_ and _Purāṇa_, _Bhūṣaṇa_, _Śiromaṇi_) without naming the Veda because the youth, born of a Vaiśya father and Śūdra mother (_karaṇa_), belonged to a mixed caste (संकरत्वाद्वेदप्रसङ्गो नोक्तः).
+
+_____________
+
+**2.64.34 (hutahutāśanaḥ & ślāghayiṣyati)**
+
+Addressing how a _karaṇa_ could perform fire-oblations (हुतहुताशनः), **Govindarāja** cites Smṛti authority granting the five daily _mahāyajñas_ (through the _namaskāra_ mantra) even to the fourth _varṇa_, and _a fortiori_ (कैमुत्यन्यायसिद्धत्वात्) to a _karaṇa_. On श्लाघयिष्यति, **Rāma Varmā** cites Āpastamba (सन्त्वयन्मानयन्श्लाघयन्) to gloss it as “will console with soothing words” (सान्वयिष्यति).
+
+_____________
+
+**2.64.35–36 (kandamūla & apragraham)**
+
+All three commentators distinguish कन्दम् as aquatic bulbs like lotus-roots (जलोद्भवानां पद्मादीनाम्) and मूलम् as terrestrial roots, and gloss अप्रग्रहम् either as “lacking stored wild-rice provisions” (नीवारादिसंग्रहरहितम्) or “lacking a leader holding a guiding staff” (यष्टिग्रहणपूर्वकं मार्गप्रदर्शकरहितम्, Kataka).
+
+_____________
+
+**2.64.37–39 (māgamaḥ & kṣamatāṃ dharmarājaḥ)**
+
+On v. 37, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) take माम् as governed by an implied प्रति (“stay toward me; do not go to Yama’s abode”), while **Rāma Varmā** (_Tilaka_) notes the double prohibitory reading मा मा गमः and glosses समेधितः as “accompanied” (सहितः). In v. 39, what is the sage asking Yama to pardon (क्षमताम्)? **Govindarāja** explains: “May Yama pardon the delay in my son’s entering his service so that he may support us!” (मत्पुत्रस्य स्वपरिचर्यागमनविलम्बं सहताम्); **Rāma Varmā** takes it as pardoning the parents’ past karma that caused their bereavement.
+
+_____________
+
+**2.64.40 (abhayadakṣiṇām)**
+
+**Rāma Varmā** and **Śivasahāya** explain the “imperishable gift of fearlessness” (अक्षय्यामभयदक्षिणाम्) as the restoration of their son, though **Rāma Varmā** also cites Kataka’s view that the father begs Yama to pardon the youth’s inauspicious death by a weapon and grant him heaven.
+
+_____________
+
+**2.64.41–42 (śastrayodhinām)**
+
+Why bless an ascetic with the worlds of warriors (शस्त्रयोधिनाम्)? **Rāma Varmā** remarks that, realizing his son cannot be revived, the sage—like Viśvāmitra elevating Triśaṅku—sends him to heaven by his own truth; **Govindarāja** and **Śivasahāya** quote the Smṛti couplet (द्वाविमौ पुरुषौ लोके सूर्यमण्डलभेदिनौ । परिव्राड्योगयुक्तश्च रणे चाभिमुखो हतः) showing that both the yogic ascetic and the hero slain facing battle pierce the solar orb to reach the same supreme realm.
+
+_____________
+
+**2.64.43–45 (ekapatnīvratasya & dehanyāsakṛtām)**
+
+In v. 44, **Rāma Varmā** (_Tilaka_) glosses एकपत्नीव्रतस्य as exemplified by Rāma and others (रामादयः), while **Govindarāja** (_Bhūṣaṇa_) specifies that the vow of monogamy holds even when a man’s sole living wife is barren (इदं च व्रतमपुत्रकायां जीवन्त्यां पत्न्यां बोध्यम्). On देहन्यासकृताम् (v. 45), all three commentators explain it as those who voluntarily relinquish their bodies for the hereafter through the Great Journey (महाप्रस्थानादिना) or by entering sacred confluences such as Prayāga (गङ्गायमुनासंगमादौ जलेऽग्नौ वा तनुं त्यजताम्).
+
+_____________
+
+**2.64.46 (asmin kule & sa tu yāsyati)**
+
+All three commentators explain अस्मिन्कुले as “in this family of lifelong ascetics” (नित्यतपस्विकुले, _Tilaka_; तपोनिष्ठानामस्माकं कुले, _Bhūṣaṇa_). **Govindarāja** takes स तु यास्यति directly as “he by whom you were slain shall go to an evil state,” whereas **Śivasahāya** (_Śiromaṇi_) construes the relative clause to suggest that even his slayer will ultimately be spared hell by the sanctity of the ascetic’s lineage!
+
+_____________
+
+**2.64.47–48 (udakam & śakreṇa saha)**
+
+On v. 47, the commentators note that the parents performed the funeral water-rites (संस्कारपूर्वकोदकक्रियाः). In v. 48, all three commentators point out that शक्रेण सह implies that Indra himself had descended in person to escort the filial youth to heaven (मुनिपुत्रं स्वर्गं नेतुं शक्रः समागत इति ध्वनितम्).
+
+_____________
+
+**2.64.49–50 (ābabhāṣe & mūlam)**
+
+Why does v. 49 use both आबभाषे and अब्रवीत्? **Rāma Varmā** (_Tilaka_) notes that the repetition is no fault because the speaker is overwhelmed by grief (वक्तुः शोकग्रस्ततया पौनरुक्त्यं न दोषाय), while **Govindarāja** (_Bhūṣaṇa_) explains that because his first address did not calm his aged parents, he consoled them again (आभाषणेऽपि वृद्धयोरश्रवणात्पुनरित्याह). On v. 50, **Rāma Varmā** remarks that filial service alone bestows sharing Indra’s world even without other rites (मातापितृसेवा धर्मान्तराभावेऽपि सेवेन्द्रसालोक्यदेति ध्वनितम्); all three gloss मूलम् as “nearness” (समीपम्, _Bhūṣaṇa_ citing the Nighaṇṭu).
+
+_____________
+
+**2.64.51–53 (vapuṣmatā & maraṇe nāsti me vyathā)**
+
+On वपुष्मता (v. 51), all three commentators explain it as “of handsome form like Puṣpaka” (प्रशस्ताकारेण). In v. 53, **Govindarāja** observes that although death is ordinarily painful, the blind father feels no pain in dying because losing his only son is far worse.
+
+_____________
+
+**2.64.54 (abhiśapsyāmi)**
+
+**Rāma Varmā** and **Govindarāja** note that because the killing was unintentional (अज्ञानात्), the sage only curses Daśaratha instead of reducing him to ashes on the spot (न तु भस्मीकरोमीति भावः), taking सुदुःखमतिदारुणम् as adverbial modifiers (क्रियाविशेषणम्); **Śivasahāya** (_Śiromaṇi_) interprets शप्स्ये as “I foretell” (बोधयामि).
+
+_____________
+
+**2.64.55–57 (brahmahatyā & dātāram iva dakṣiṇā)**
+
+Why does v. 56 mention ब्रह्महत्या when the youth was born of a Vaiśya father and Śūdra mother (करण)? **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain ब्रह्महत्या figuratively as a sin equal to brahmanicide (तत्समं पापम्; तद्वत्पातकम्), while **Śivasahāya** (_Śiromaṇi_) derives it from slaying one who conducts himself like a brahmin or knows Brahman. On दातारमिव दक्षिणा (v. 57), **Govindarāja** explains that just as a sacrificial fee given to a brahmin brings its corresponding fruit to the donor, this fatal grief will swiftly overtake Daśaratha in this very life.
+
+_____________
+
+**2.64.58–59 (deham & śabdavedhyanukarṣiṇā)**
+
+In v. 58, **Govindarāja** notes the singular देहम् (“body”), signifying that the devoted couple ascended the pyre with their two bodies clasped as one (देहयोगादबद्धत्वं लक्ष्यते). On v. 59, **Rāma Varmā** and **Govindarāja** prefer शब्दवेध्यनुकर्षिणा (“who shot a sound-piercing arrow and then drew out the shaft”), noting Tīrtha’s reading अनुशिक्षिणा.
+
+_____________
+
+**2.64.60 (apathyaiḥ saha)**
+
+All three commentators explain that just as wholesome food (अन्नरस) eaten unknowingly with unwholesome side-dishes (अपथ्यैर्व्यञ्जनैः) inevitably produces disease, an unwitting sin still yields its bitter karmic fruit (विपाकः).
+
+_____________
+
+**2.64.61–62 (udārasya & cakṣurbhyām)**
+
+Why does Daśaratha call the sage who cursed him “noble” (उदारस्य, v. 61)? **Govindarāja** (_Bhūṣaṇa_) explains that the sage’s curse first secured for him a childless man’s longed-for son (अपुत्रस्य पुत्रसंपादनपरत्वात्), or else means “mighty” (महतः); **Rāma Varmā** (_Tilaka_) glosses it as “supreme” (श्रेष्ठस्य). In v. 62, **Rāma Varmā** explains that Daśaratha cannot see Kausalyā because his eyesight is failing at death’s approach (अमूर्तत्वादिति भावः).
+
+_____________
+
+**2.64.63–64 (sadṛśam)**
+
+On v. 63, **Govindarāja** reads एतन्मे सदृशम् ironical-interrogatively (“Is what I did to Rāma worthy of me?”), whereas **Rāma Varmā** and **Śivasahāya** (_Śiromaṇi_) read न तन्मे सदृशम् explicitly; **Rāma Varmā** identifies the figure _ananvaya_ in v. 64: no father on earth ever matched Daśaratha’s injustice, and no son ever matched Rāma’s unresentful obedience.
+
+_____________
+
+**2.64.65–66 (saṃspṛśet & dūtā vaivasvatasya)**
+
+In v. 65, **Govindarāja** supplies the apodosis “then I would live” (तदा जीवेयम्, which _Tilaka_ reads in an additional half-verse), noting that once men enter Yama’s abode they can no longer see their kin (बान्धवान्न पश्यन्ति).
+
+_____________
+
+**2.64.67–68 (apratikarmaṇaḥ & vāristokam)**
+
+In v. 68, **Govindarāja** (_Bhūṣaṇa_) glosses अप्रतिकर्मणः as “whose deeds are unequaled or beyond retaliation” (प्रतिक्रियारहितस्य), and cites Amara (स्तोकाल्पक्षुल्लकाः) on स्तोकम् (“a little water”). **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) likewise explain the simile: just as scorching sunlight dries up a scanty pool of water, grief at not seeing Rāma parches the king’s vital breaths.
+
+_____________
+
+**2.64.69 (na te manuṣyā devās te)**
+
+Why does Daśaratha call the citizens who will see Rāma’s return “gods, not mortals”? **Govindarāja** explains that mortals are subject to old age (मनुष्याः जरायुक्ताः), whereas those who behold Rāma will become ageless like the gods (देवाः नित्ययौवनाः), recalling Daśaratha’s own earlier declaration (2.2.42) that seeing Rāma made him feel young again! **Śivasahāya** adds that by extolling the blessedness of seeing Rāma in the fifteenth year, the king implicitly urges his queens to stay alive until that day (तद्दर्शनार्थं भवतीभिः स्थातव्यमिति ध्वनितम्).
+
+_____________
+
+**2.64.70–71 (cāruśubhakuṇḍalam)**
+
+**Govindarāja** remarks that Rāma’s earrings derive their radiant beauty from contact with his moon-like face (तन्मुखसंयोगात्कुण्डलमतीव शोभां प्राप्तम्).
+
+_____________
+
+**2.64.72 (śukraṃ mārgagatam)**
+
+All three commentators (_Bhūṣaṇa_, _Tilaka_, _Śiromaṇi_) explain शुक्रं मार्गगतं यथा as the planet Venus (शुक्र) re-entering its own auspicious orbital path after leaving heliacal combustion (मौढ्यादि विहाय स्वोच्चमार्गगतं शुक्रं यथा). **Rāma Varmā** (_Tilaka_) also records Kataka’s charming variant reading शुकं मार्गगतं यथा: like a pet parrot (क्रीडाशुकम्) that has flown away from one’s hand or cage to another land and then returned home to its perch!
+
+_____________
+
+**2.64.73–74 (cittanāśāt & kṣīṇasnehasya dīpasya)**
+
+On v. 73, **Rāma Varmā** and **Śivasahāya** explain संयुक्तान् as “even when in contact with the sense-organs” (इन्द्रियसंबद्धानपि). In v. 74, because the mind (चित्त) presides over all the external senses, its collapse causes all the senses to fail simultaneously, like the reddened (संरक्ताः, “reduced to ash or dull red”) or clinging (संसक्ताः) rays of a lamp whose oil (स्नेह) has run dry.
+
+_____________
+
+**2.64.75 (ātmabhavaḥ śokaḥ)**
+
+**Śivasahāya** glosses आत्मभवः शोकः as “grief brought about by my own deed” (आत्मना निष्पादितः), eroding the king like a river current (नदीरयः) collapsing its bank.
+
+_____________
+
+**2.64.76 (āyāsanāśana & nātha)**
+
+In Daśaratha’s final cry to Rāma, **Śivasahāya** (_Śiromaṇi_) glosses आयासनाशन as “destroyer of my sorrow and fatigue” (दुःखविध्वंसक) and नाथ as “fulfiller of my desires” (मनोरथपूरक). Even as a father addressing his son, the dying king hails Rāma as his true lord and protector (मे नाथ), with his final words calling out Rāma’s name.
+
+_____________
+
+**2.64.77 (nṛśaṃse & kulapāṃsani)**
+
+Turning from his tender farewell to Kausalyā and Sumitrā, Daśaratha’s last words to Kaikeyī brand her नृशंसे (“cruel, devoid of benevolent conduct,” शुभचेष्टारहिते, _Śiromaṇi_), ममामित्रे (“my enemy, hostile toward me”), and कुलपांसनि (“defiler of both royal houses—her father’s and her husband’s”).
+
+_____________
+
+**2.64.78–79 (gate 'rdharātre & Meter)**
+
+Notice that King Daśaratha breathes his last shortly after midnight (गतेऽर्धरात्रे) solely in the presence of Kausalyā and Sumitrā (रामस्य मातुश्च सुमित्रायाश्च सन्निधौ), having repudiated Kaikeyī. The sarga concludes with v. 79 in the stately _Vaṃśastha_ meter (`LGLGGLLGLGLG`, twelve syllables per _pāda_), solemnizing the noble monarch’s passing.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

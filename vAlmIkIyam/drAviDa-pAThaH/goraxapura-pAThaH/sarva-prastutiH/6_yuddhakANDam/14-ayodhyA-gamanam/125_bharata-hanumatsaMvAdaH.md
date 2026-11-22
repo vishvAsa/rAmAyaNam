@@ -90,6 +90,14 @@ kindly act and who was quick in exhibiting prowess, contemplated thereupon to do
 
 Having caused that flower-decked Puṣpaka (_puṣpakaṃ puṣpabhūṣitam_) to stand ready (_upasthitaṃ kṛtvā_), Vibhīṣaṇa, standing not far off (_avidūre sthitaḥ_), spoke thus to Rāma:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–3.**
+
+$18
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -237,6 +245,14 @@ the king of Nishadas, a wild tribe living in the forest."
 
 “All these forest-dwellers (_vanaukasaḥ_) have accomplished deeds of strenuous effort (_kṛtaprayatnakarmāṇaḥ_); let them be richly honoured (_sampūjyantām_), O Vibhīṣaṇa, with gems and diverse treasures (_ratnair arthaiś ca vividhaiḥ_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.**
+
+On v. 4, _Tilaka_ and _Śiromaṇi_ analyse कृतप्रयत्नकर्माणः as those who performed their martial duties with strenuous exertion (कृतं प्रयत्नेन कर्म युद्धं यैस्ते), whereas _Bhūṣaṇa_ takes प्रयत्नकर्म as a deed achievable only through immense effort (प्रयत्नसाध्यं कर्मेत्यर्थः). All three gloss अर्थैः as serviceable luxuries such as fine raiments, food, and drink (विचित्रान्नपानवस्त्रादिभिः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -290,6 +306,14 @@ trouble. He is my friend, as well as my own self."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Together with these [Vānaras]—who, rejoicing and casting aside the fear of death (_prāṇabhayaṃ tyaktvā_), never turned back in battle (_saṃgrāmeṣv anivartibhiḥ_)—has Laṅkā been conquered by you, O lord of the Rākṣasas!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5–6.**
+
+On verses 5–6, _Tilaka_ and _Bhūṣaṇa_ point out the pointed implication of Rāma's words सहामीभिस्त्वया लङ्का निर्जिता: because Vibhīṣaṇa's own attainment of the throne of Laṅkā was won through the valour of these fearless Vānaras (तव लङ्काप्राप्तिर्वानरपराक्रमादेव), it is incumbent upon him to crown their efforts with generous gifts of wealth and gems (धनरत्नप्रदानैः एषां कर्म सफलं कुरु).
 </details>
 </details>
 
@@ -391,6 +415,14 @@ of me as having returned, accomplished of our object, with my consort and Lakshm
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Honoured thus and gladdened (_nandyamānāḥ_) in due measure by you who are grateful (_kṛtajñena_), these leaders of the monkey troops shall depart content (_nirvṛtāḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7–8.**
+
+On v. 7, **Rāma Varmā** (_Tilaka_), **Śivasahāya** (_Śiromaṇi_), and **Govindarāja** (_Bhūṣaṇa_) gloss निर्वृताः as happy and fulfilled (सुखिनः / प्राप्तानन्दाः). On v. 8, the commentators explain why Rāma commends Vibhīṣaṇa's virtues while urging him to give: _Bhūṣaṇa_ remarks that Rāma wants Vibhīṣaṇa to feel no regret over spending his treasury (अर्थव्ययेन खेदो मा भूदित्याह), reminding him that all know him to be a generous giver (त्यागिनम्), a winner of allies through gifts (संग्रहीतारं धनप्रदानेन मित्रसंग्रहकारिणम्), and compassionate (सानुक्रोशम्). Hence Rāma merely reminds him (संबोधयामि) rather than commanding him (न तु चोदयामि).
 </details>
 </details>
 
@@ -512,6 +544,20 @@ the grace of Shiva the Supreme Deity."
 
 **11:** Then, beholding those leaders of the monkey troops duly honoured with gems and wealth, Rāma thereupon ascended (_āruroha_) that peerless celestial chariot,
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**9–10.**
+
+On the maxim of statecraft in v. 9, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain रतिगुणैः as the royal virtues of generosity and honour that endear a king to his troops (दानमानादिलक्षणसेनारमणगुणैः / प्रीतिकरैरौदार्यादिगुणैः), and अभिहन्तारम् as a cruel ruler who drives his soldiers to slaughter or lashes them with harsh words (घातायन्तम् / हिंसनशीलम्); such a king is deserted by his dismayed army in the hour of battle. In v. 10, Vibhīṣaṇa honours every Vānara through a proportionate distribution of gems and wealth (संविभागेन यथाईमंशकल्पनया), since _Bhūṣaṇa_ notes that paying unequal ranks identically would provoke resentment among the great chiefs (समतया प्रदाने अधिकानां कोपप्रसङ्गात्).
+
+_____________
+
+**11–12.**
+
+Linking verses 11–12 together (श्लोकद्वयमेकान्वयम्), _Bhūṣaṇa_ explains the two occurrences of ततः and तदा: only after seeing the Vānara chiefs honoured does Rāma mount the Puṣpaka. He lifts Sītā onto his lap (अङ्केनादाय), where _Bhūṣaṇa_ notes that she feels bashful (लज्जमानाम्) at sitting on his lap in full view of the assembly (सदस्यङ्कारोहणाय लज्जन्तीम्), and that Rāma seats her there himself because no female attendants are present (स्त्रीसहायरहितत्वात्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -586,6 +632,14 @@ purpose having been accomplished, Rama is coming near, with is mighty friends."
 **12:** taking upon his lap (_aṅkenādāya_) the high-minded and bashful (_lajjamānām_) Vaidehī, together with his valiant, bow-wielding brother Lakṣmaṇa.
 
 **13:** Seated in the celestial chariot (_vimānasthaḥ_), Kākutstha, honouring all the Vānaras, spoke to the mighty Sugrīva together with Vibhīṣaṇa (_savibhīṣaṇam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13–15.**
+
+$1a
 </details>
 </details>
 
@@ -738,6 +792,14 @@ father?"
 
 Proceed swiftly to Kiṣkindhā (_kiṣkindhāṃ prati yāhy āśu_), surrounded by your own army! And do you, O Vibhīṣaṇa, dwell in your own kingdom in Laṅkā bestowed upon you by me; not even the celestials together with Indra (_sendrā api divaukasaḥ_) are able to assail you!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**16.**
+
+In the three-line verse 16, Rāma directs Sugrīva to return swiftly to Kiṣkindhā with his army (स्वसैन्येनाभिसंवृतः), and then turns to Vibhīṣaṇa (विभीषणं प्रत्याह). _Bhūṣaṇa_ draws an instructive moral from the phrasing स्वराज्ये वस लङ्कायाम् ('dwell in your own kingdom in Laṅkā'): Vibhīṣaṇa must content himself with his own realm and never invade others' territories as Rāvaṇa did (न तु परकीयं रावणवदाक्रमितव्यम्), implying that any Rākṣasa garrisons still occupying Janasthāna should be recalled. _Tilaka_ adds that by Rāma's grace (मत्प्रसादात्) not even Indra and the gods can overpower Vibhīṣaṇa, much less any surviving Rākṣasas (न तेभ्य एव किमुत राक्षसानां भयम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -787,6 +849,14 @@ longing for it himself, let Bharata rule the entire kingdom in one piece."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 I shall now depart for Ayodhyā, the royal capital of my father (_rājadhānīṃ pitur mama_); I wish to receive your leave (_abhyanujñātum icchāmi_), and I bid farewell to you all (_sarvān āmantrayāmi vaḥ_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17.**
+
+In v. 17, _Śiromaṇi_ explains the infinitive अभ्यनुज्ञातुमिच्छामि as 'I wish to obtain your gracious consent to depart' (भवत्सम्मतिं ग्रहीतुमिच्छामि), while आमन्त्रयामि वः bids affectionate farewell to all assembled.
 </details>
 </details>
 
@@ -844,6 +914,14 @@ before we are not gone for a long distance towards Ayodhya."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus by Rāma, all the monkey chiefs and the monkeys, as well as the Rākṣasa Vibhīṣaṇa, spoke with joined palms (_ūcuḥ prāñjalayaḥ sarve_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**18–19.**
+
+Unwilling to part from Rāma at the moment of his triumph, the monkey chiefs, the Vānara hosts, and Vibhīṣaṇa fold their palms and ask to accompany him to Ayodhyā (अयोध्यां गन्तुमिच्छामः). On v. 19b, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) gloss मुद्युक्ताः as filled with joy (हर्षयुक्ताः / मुदा हर्षेण युक्ताः) as they look forward to roaming through Ayodhyā's parks and groves (वनान्युपवनानि च विचरिष्यामः). **Govindarāja** (_Bhūṣaṇa_), reading उद्युक्ताः, interprets it as 'watchful and disciplined' (सावधानाः): because monkeys might otherwise cause mischief in a royal capital, they assure Rāma that they will conduct themselves carefully without harming the countryside (जनपदपीडामकुर्वन्त इत्यर्थः).
 </details>
 </details>
 
@@ -943,6 +1021,14 @@ eagle would fly with speed, while seeking to catch a large snake.
 
 Having beheld you wet with the waters of consecration (_tvām abhiṣekārdram_) and having saluted Kausalyā (_kausalyām abhivādya ca_), we shall before long (_acirāt_) return to our own homes, O best of kings!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**20–21.**
+
+On v. 20, _Tilaka_ and _Śiromaṇi_ note the two sights the allies long to witness before returning home (स्वगृहान् आगमिष्यामः): beholding Rāma freshly bathed in the waters of his royal consecration (अभिषेकार्द्रं त्वां दृष्ट्वा), and offering their reverent salutations to Queen Kausalyā, whom _Tilaka_ calls the mother of them all (सर्वेषामस्माकं मातरं कौसल्यामभिवाद्य च).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1011,6 +1097,14 @@ chief of Nishadas), that valiant Hanuma spoke the following words in a charming 
 **21:** Addressed thus by the Vānaras together with Vibhīṣaṇa, the righteous-souled Rāma spoke to the Vānaras accompanied by Sugrīva and Vibhīṣaṇa (_sasugrīvavibhīṣaṇān_):
 
 **22:** “Something dearer even than what is dear (_priyāt priyataraṃ labdham_) has been gained by me, in that I, surrounded by my circle of friends (_sasuhṛjjanaḥ_), shall attain the joy of entering the city accompanied by all of you (_sarvair bhavadbhiḥ sahitaḥ_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**22.**
+
+All three commentators savour Rāma's idiomatic exclamation प्रियात् प्रियतरं लब्धम् ('something dearer than the dear has been gained'). _Tilaka_ explains that while returning victorious to Ayodhyā is itself dear (अयोध्याप्रवेशनमेव प्रियम्), entering the city accompanied by his Vānara and Rākṣasa friends to share the joy of his coronation with Bharata is dearer still. _Bhūṣaṇa_ offers an even finer three-step gradation: recovering Sītā is dear (सीतालाभः प्रियम्), beholding Bharata again is dearer than the dear (भरतदर्शनं प्रियात्प्रियम्), and entering Ayodhyā together with all these devoted allies is the dearest of all (भवद्भिः सह पुरप्रवेशः प्रियात्प्रियतरमित्यर्थः).
 </details>
 </details>
 
@@ -1093,6 +1187,14 @@ bright half of the month of Ashvayuja)."
 **23:** “Ascend the celestial chariot swiftly, O Sugrīva, together with the Vānaras (_vimānaṃ saha vānaraiḥ_)! And do you also ascend accompanied by your ministers (_sāmātyaḥ_), O Vibhīṣaṇa, lord of the Rākṣasas!”
 
 **24:** Thereupon, filled with joy (_mudā yuktaḥ_), Sugrīva together with the Vānaras ascended that divine Puṣpaka, as did Vibhīṣaṇa accompanied by his ministers (_sāmātyaś ca vibhīṣaṇaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**23–25.**
+
+On verses 23–24, **Śivasahāya** (_Śiromaṇi_) notes Rāma's warm invitation to both kings—Sugrīva with his monkey hosts and Vibhīṣaṇa with his ministers (सामात्यः)—to board the Puṣpaka immediately. Commenting on the reading अध्यारोहत्त्वरञ्शीघ्रम्, **Govindarāja** (_Bhūṣaṇa_) construes त्वरन् ('hastening') with Sugrīva and शीघ्रम् ('swift-moving', शीघ्रगम्) as an epithet of the chariot. On v. 25, both **Rāma Varmā** (_Tilaka_) and _Bhūṣaṇa_ gloss परमासनम् as 'supreme conveyance or vehicle' (उत्तमयानम् / वाहनम्): the moment all have boarded and Rāma gives the mental command (राघवेणाभ्यनुज्ञातं सत्), Kubera's aerial car leaps into the sky (उत्पपात विहायसम्).
 </details>
 </details>
 
@@ -1203,6 +1305,14 @@ the formidable forest of Sala trees, many thousands of people and numerous commu
 
 Borne by that effulgent celestial chariot coursing through the sky (_khagatena vimānena_) and yoked with swans (_haṃsayuktena_), Rāma, thrilled and delighted at heart (_prahṛṣṭaś ca pratītaś ca_), shone like Kubera himself (_babhau rāmaḥ kuberavat_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**26.**
+
+On v. 26, _Tilaka_ and _Bhūṣaṇa_ explain the epithet हंसयुक्तेन ('yoked with swans'): citing earlier commentators (व्याख्यातारः), they note that the Puṣpaka is adorned with carved or golden figures of swans (निर्मितहंसप्रतिमा / प्रतिमारूपहंसयुक्तेन) fashioned in the posture of aerial bearers (वाहकत्वाकारेण). _Tilaka_ distinguishes प्रहृष्टः ('thrilled with horripilation on his limbs', हृष्टरोमा) from प्रतीतः ('delighted in mind', प्रहृष्टचित्तः; _Bhūṣaṇa_: 'renowned', प्रथितः), as Rāma shines in the sky like Kubera himself (कुबेरवद्बभौ).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,6 +1382,14 @@ they were.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And all those mighty Vānaras, bears, and Rākṣasas sat down at their ease (_yathāsukham_) and without crowding (_asambādham_) inside that divine chariot (_divye tasminn upāviśan_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27.**
+
+On the concluding verse (v. 27), all three commentators highlight the miraculous nature of the divine chariot implied by the adverbs यथासुखमसम्बाधम् ('comfortably and without crowding'): even though countless millions of gigantic Vānaras, bears, and Rākṣasas have boarded it, the Puṣpaka possesses the divine power (देवशक्त्या, _Tilaka_) to expand and provide ample room for every passenger (अपेक्षितावकाशप्रदत्वं गम्यते, _Bhūṣaṇa_).
 </details>
 </details>
 

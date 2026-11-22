@@ -280,6 +280,98 @@ in netherworlds or even in empyrean worlds. [4-6-6]
 
 “Whether she is abiding in the netherworld (_rasātale_) or abiding in the vault of the sky (_nabhastale_), I shall bring your wife and restore her to you, O tamer of foes (_ariṃdama_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**4.6.1–4 (Recapitulation of Sītā's Abduction)**
+
+Govindarāja introduces the sarga by noting that just as Rāma pledged to slay Vālin, Sugrīva now reciprocally pledges to accomplish Rāma's mission (एवं रामेण वालिवधे प्रतिज्ञाते सुग्रीवेणापि रामकार्यसिद्धिः प्रतिज्ञायते). Śiromaṇi construes verses 1–4a as a single connected sentence (सार्धश्लोकत्रयमेकान्वयि) in which Hanumān (मन्त्रिसत्तमः मे सेवकोऽयं हनुमान्) reported why Rāma entered the wilderness and how the Rākṣasa, watching for a vulnerable opening (अन्तरम् अवसरं प्रेप्सुना; Govindarāja: सीतान्तरं प्रेप्सुना छिद्रं दिदृक्षुणा), slew Jaṭāyus and inflicted the sorrow of marital separation.
+
+_____________
+
+**4.6.5 (The Simile of the Lost Vedic Revelation)**
+
+Tilaka notes that Sugrīva here personally undertakes the fulfillment of Rāma's task (रामेण स्वकार्यसाधने प्रतिज्ञाते सति स्वयमपि तत्कार्यसाधने प्रतिजानीते). Both Tilaka (चिरान्नष्टां मधुकैटभहृतां देवस्य धर्मस्य ब्रह्मणश्च ज्ञानसाधनभूतां श्रुतिं त्रयीं तामिव) and Govindarāja (नष्टां मधुकैटभापहृतां वेदश्रुतीं श्रूयत इति श्रुतिः शब्दः वेदरूपश्रुतीमिव वेदगिरमिव) explain the allusion in नष्टां वेदश्रुतीमिव: Sugrīva vows to recover Sītā just as the Lord recovered the threefold Vedic revelation stolen by the demons Madhu and Kaiṭabha. Both commentators explicitly mark the long vowel in वेदश्रुतीम् as an _ārṣa_ lengthening (दीर्घ आर्षः).
+
+_____________
+
+**4.6.6 (Search Across the Worlds)**
+
+Śiromaṇi frames verse 6 as answering an implicit doubt—how can Sugrīva bring her back when her very whereabouts are unknown (ननु तस्याः स्थितिरेव न विज्ञायते)? Sugrīva replies that whether she currently abides (वर्तन्तीं वर्तमानाम्, Tilaka and Govindarāja) in the subterranean depths (रसातले) or in the celestial vault (नभस्तले), he will fetch and restore her.
+
+_____________
+
+**4.6.7–8 (Sītā as Poisoned Food)**
+
+Govindarāja glosses जरयितुम् as आत्मसात्कर्तुम् (to appropriate as one's own) and विषकृतम् as विषेण पक्वम् (cooked with poison), whereas Tilaka renders it विषमिश्रितम् (mixed with poison). Śiromaṇi interprets जरयितुं गोपयितुमित्यर्थः (to conceal or digest) and brings out the full force of the simile (उपमालङ्कारः): just as those who consume poisoned food inevitably perish, so too the abductor of Sītā will be destroyed (यथा विषमिश्रभक्ष्यभक्षणकर्तारो विनश्यन्ति तथा सीतापहर्ता विनङ्क्ष्यतीत्युपमालङ्कारस्यैव विवरणमिदम्).
+
+_____________
+
+**4.6.9–10 (Sugrīva's Logical Inference)**
+
+Tilaka notes that verses 9–10 form a single syntactic unit (श्लोकद्वयमेकान्वयि). Govindarāja explains the inference (अनुमानात्): from the logical mark (लिङ्ग) of her crying out “O Rāma! O Lakṣmaṇa!” (अस्याक्रोशादिलिङ्गान्जानामीत्यन्वयः), Sugrīva deduces her identity. Śiromaṇi formalizes the syllogism (अनुमानप्रकारस्तु): she cannot belong to the demon because she shrinks in terror from his touch like a Brahmin dreading an outcaste's touch (चाण्डालस्पर्शभीतब्राह्मणवत्), and she is continuously absorbed in Rāma (निरन्तरं राममनस्कत्वात्) while writhing like a serpent queen (पन्नगेन्द्रवधूरिव स्फुरन्ती).
+
+_____________
+
+**4.6.11–12 (The Dropped Tokens as Ocular Proof)**
+
+Both Tilaka and Śiromaṇi gloss आत्मना पञ्चमम् as मन्त्रिचतुष्टयसहितम् (himself the fifth together with his four ministers). Tilaka observes that Sugrīva's offer to fetch the safely stored garment and jewels (आनयिष्याम्यानेष्यामि) provides tangible ocular proof to corroborate his testimony (दृष्टेऽप्यत्र प्रमाणप्रदर्शनमिदम्).
+
+_____________
+
+**4.6.13–14 (Entering the Deep Cavern)**
+
+Śiromaṇi notes that immediately upon hearing Sugrīva's welcome report (सुग्रीववचनश्रवणानन्तरम्), Rāma urges him to fetch the tokens without delay (शीघ्रमानयस्व किमर्थं प्रविलम्बसे). Tilaka glosses the cave's epithet गहनाम् as दुष्प्रवेशाम् (difficult to enter), while Śiromaṇi explains it as अन्यदुर्गमां शैलस्य गुहाम्—a mountain recess inaccessible to others, where the Vānaras had hidden the bundle.
+
+_____________
+
+**4.6.15–16 (The Ornaments Wrapped in the Garment)**
+
+Govindarāja remarks on उत्तरीयमाभरणानि च that the ornaments were tied inside the upper cloth (उत्तरीयबद्धानीत्यर्थः). When Sugrīva presents them with the words इदं पश्येति, Rāma takes the cloth and jewels in his hands and, as Śiromaṇi paraphrases, his vision and voice are instantly clouded by tears just as the moon is obscured by winter frost or mist (नीहारेण चन्द्रमा इव बाष्पसंरुद्धोऽभवत्).
+
+_____________
+
+**4.6.17 (Collapse in Grief)**
+
+Śiromaṇi glosses दूषितः as व्याप्तः (pervaded/overcome): flooded by tears springing from his love for Sītā (सीतास्नेहप्रवृत्तेन बाष्पेण), Rāma abandons his stoic composure (धैर्यमुत्सृज्य) and collapses to the ground lamenting हा प्रियेति (which Śiromaṇi paraphrases as हा सीते ! इति रुदन् सन्). Tilaka specifically notes the epic vowel sandhi in हा प्रियेति (हा प्रियेत्यत्र संधिरार्षः).
+
+_____________
+
+**4.6.18–19 (Rāma's Anguished Sighs)**
+
+Śiromaṇi explains that Rāma clasps Sītā's ornament to his chest again and again (बहुशोऽनेकवारं हृदि कृत्वा) and sighs fiercely like a provoked serpent inside its burrow (बिलस्थो रोषितः सर्प इव भृशमत्यन्तं निशश्वास). Govindarāja notes that the singular अलंकारम् is a generic collective (अलंकारमिति जात्येकवचनम्), glosses रोषितः as संजातरोषः, and construes दीनम् in 4.6.19b adverbially (क्रियाविशेषणम्) with परिदेवयितुं प्रलपितुम्.
+
+_____________
+
+**4.6.20–21 (Inference from the Unbroken Jewels)**
+
+On शरीराद् भूषणानि, Govindarāja supplies अपनीयेति शेषः (removed from her body). Explaining how Rāma deduces that Sītā dropped them onto a meadow of green grass (शाद्वलिन्यां घासयुक्तायां भूम्याम्, Śiromaṇi), Tilaka (अभग्नतया यथा पूर्वरूपमित्यर्थः) and Govindarāja (मृदुस्थले उत्सृष्टत्वात् तथारूपम् अविकलरूपं दृश्यते) point out that because they landed on soft turf rather than bare rock, the delicate gold ornaments remained undamaged and preserved their exact prior shape (तथारूपम्).
+
+_____________
+
+**4.6.22 (Lakṣmaṇa's Modest Gaze)**
+
+On Lakṣmaṇa's celebrated declaration (नाहं जानामि केयूरे नाहं जानामि कुण्डले), Tilaka (ऊर्ध्वदृष्ट्या परकलत्रत्वेन कदाप्यदर्शनादिति भावः) and Śiromaṇi (पूर्वमदृष्टत्वादिति तात्पर्यम्) explain the profound ethical propriety: because Sītā was another's wife (his elder brother's queen), Lakṣmaṇa never once lifted his gaze to look upon her upper limbs or face.
+
+_____________
+
+**4.6.23 (Recognition of the Anklets Alone)**
+
+Śiromaṇi notes that 4.6.22–23a form a single syntactic unit (सार्धश्लोक एकान्वयी). Because Lakṣmaṇa bowed daily at Sītā's feet (नित्यं पादाभिवन्दनात् हेतोः), he unhesitatingly identifies her two anklets (नूपुरे त्वभिजानामि), conveying by poetic suggestion (_dhvani_) that he never gazed upon any part of her body other than her feet (एतेन सीताचरणमन्तरा तदवयवान्तरं लक्ष्मणेन नावलोकितमिति ध्वनितम्).
+
+_____________
+
+**4.6.24–25 (Inquiry into the Abductor's Direction)**
+
+Turning to Sugrīva after hearing Lakṣmaṇa's words (लक्ष्मणोक्तिश्रवणानन्तरम्), Rāma asks toward what region or direction (कं देशम् उद्दिश्येति शेषः in Tilaka; कं देशं कां दिशम् प्रति in Govindarāja) Sītā was seen being borne away (ह्रियन्ती ह्रियमाणेत्यर्थः). Tilaka and Govindarāja explain प्राणप्रिया as dearer than his own vital breaths (प्राणेभ्योऽपीष्टा प्राणसंबन्धस्य तदधीनत्वादिति भावः), since his very life depends upon her.
+
+_____________
+
+**4.6.26–27 (The Door of Death Flung Open)**
+
+By abducting Maithilī and rousing Rāma's fury, the demon has opened the portal of death (मृत्युद्वारमपावृतम्) for his own destruction (आत्मनो जीवितान्ताय). In the closing lyric verse—which Govindarāja identifies as विषमवृत्तम्—Śiromaṇi glosses विमथ्य as अस्मान् पराभूय (having overpowered/defied us) and paraphrases Rāma's challenge: name that enemy who stole my dearest beloved from the forest, that I may today lead him to Yama's presence (यमसंनिधिं वै कथं नयामि इति त्वं कथय).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>

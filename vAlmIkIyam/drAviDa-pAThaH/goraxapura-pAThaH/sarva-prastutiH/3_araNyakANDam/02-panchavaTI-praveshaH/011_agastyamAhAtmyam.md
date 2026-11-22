@@ -619,6 +619,296 @@ Apsara Lake. [4-11-11]
 
 “This lake, existing through all seasons (_sārvakālikam_) and known as Pañcāpsaras (_pañcāpsaro nāma_), O Rāma, was created through the power of penance by the sage Māṇḍakarṇi (_muninā māṇḍakarṇinā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.11.1–2 (Allegory of the Praṇava & Journey Order)**
+
+Opening the sarga, **Govindarāja** (_Bhūṣaṇa_) offers a celebrated Śrīvaiṣṇava esoteric reading: 3.11.1 embodies the three syllables of the _Praṇava_ (अनेन श्लोकेन प्रणवार्थ उक्तः—Rāma as _A_, Sītā as the mediating _U_ in the middle, and Lakṣmaṇa as _M_ following behind in service), while 3.11.2 (तौ पश्यमानौ...) unfolds the name _Nārāyaṇa_ and Māṇḍakarṇi’s story illustrates the obstacles to _namaḥ_. Grammatically, verses 2–4 form a single three-stanza sentence (श्लोकत्रयमेकान्वयि, _Śiromaṇi_).
+
+_____________
+
+**3.11.3–4 (Flora and Fauna of the Wilderness)**
+
+Glossing 3.11.4, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) take पृषतान् as spotted deer (बिन्दुमृगान्) and construe विषाणिनः (“horned”) with महिषान् (विषाणिनो महिषानित्यन्वयः), while **Śivasahāya** (_Śiromaṇi_) explains द्रुमवैरिणः as elephants that uproot trees (वृक्षोन्मूलकान् गजान्).
+
+_____________
+
+**3.11.5–6 (The Lotus-Thronged Lake at Sunset)**
+
+On लम्बमाने दिवाकरे, all three commentators gloss it as the hour of sunset (सायाह्न इत्यर्थः, _Tilaka_; अस्तमयोन्मुखे, _Bhūṣaṇa_). In 3.11.6a, _Tilaka_ and _Śiromaṇi_ distinguish पद्मानि (red lotuses, रक्तकमलैः) from पुष्कराणि (white lotuses, पुण्डरीकैः), while _Tilaka_ also cites _Kataka_’s gloss taking पुष्करे as “water” (जले).
+
+_____________
+
+**3.11.7 (The Fourfold Musical Instruments)**
+
+Glossing गीतवादित्रनिर्घोषः, **Govindarāja** (_Bhūṣaṇa_) defines गीतानि as vocal compositions set to the _ṣaḍja_ and other notes, and cites the _Yādavakośa_ (ततं वीणादिकं वाद्यं...) to classify वादित्राणि into the four classical instrument types—stringed (_tata_), solid percussion (_ghana_), wind (_सुषिर_), and membranophone (_आनद्ध_)—whose music was heard while no player was visible (कश्चन वादयिता न दृश्यते).
+
+_____________
+
+**3.11.8–10 (Who Was Dharmabhṛt?)**
+
+On मुनिं धर्मभृतं नाम, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that Dharmabhṛt was one of the local ascetics who had accompanied Rāma for protection (शरणागतेष्वनुयायिष्वेकम्), or a sage residing by the lake. Reading प्रभवं in 3.11.10c, _Bhūṣaṇa_ glosses it as the origin (उत्पत्तिं मूलं चेत्यर्थः) of the lake.
+
+_____________
+
+**3.11.11–12 (Lake Pañcāpsaras & Māṇḍakarṇi’s Penance)**
+
+All three commentators explain that the lake is called पञ्चाप्सरः because it serves as the sporting-place of the five _apsarases_ (पञ्चाप्सरसां क्रीडासाधनत्वात्). On सार्वकालिकम्, _Tilaka_ and _Bhūṣaṇa_ note that its waters never dry up in any season (सर्वस्मिन्नपि काले अशुष्यदित्यर्थः), while _Bhūṣaṇa_ (reading जलाश्रयः) notes that Māṇḍakarṇi performed his ten-thousand-year penance submerged in the very lake he had created (स्वनिर्मिततटाकजलावगाहः).
+
+_____________
+
+**3.11.13–15 (The Alarm of the Gods & Dispatch of the Five Nymphs)**
+
+In 3.11.13, **Govindarāja** (_Bhūṣaṇa_) explains that the repetition of सर्वे is not tautological because it attaches to two distinct actions (क्रियाभेदात्सर्वशब्दावृत्तिः—all trembled, and all spoke). In 3.11.15, **Rāma Varmā** (_Tilaka_) notes that calling the five nymphs “chief” (प्रधानाप्सरसः पञ्च) implies they were accompanied by their attendant nymphs as well (तत्परिवारभूतान्यसत्ता ध्वनिता).
+
+_____________
+
+**3.11.16 (Three Glosses on dṛṣṭa-parāvaraḥ)**
+
+Each commentator offers a distinct philosophical gloss on दृष्टपरावरः: **Rāma Varmā** (_Tilaka_) takes it as knowing this-worldly and otherworldly _dharma_ and _adharma_ (ऐहिकपारलौकिकधर्माधर्मज्ञः); **Śivasahāya** (_Śiromaṇi_) as having realized the higher and lower _vidyās_ of the Upaniṣads (उपनिषत्प्रसिद्धपरावरविद्ये); and **Govindarāja** (_Bhūṣaṇa_) as having beheld the true nature of the Supreme Self and the individual soul (दृष्टपरमात्मजीवस्वरूपः).
+
+_____________
+
+**3.11.17–18 (The Submerged Mansion & Yogic Youth)**
+
+On 3.11.17–18, all three commentators note that Māṇḍakarṇi himself fashioned the concealed underwater pleasure-house (निर्मितं तेनैव मुनिना क्रीडार्थम्, _Tilaka_) and, by the power of his asceticism (तपोयोगात् तपोरूपोपायात्, _Bhūṣaṇa_), assumed blooming youth (यौवनमास्थितम्).
+
+_____________
+
+**3.11.19–21 (Music Mingled with Ornaments & Brahmanical Lustre)**
+
+On संक्रीडमानानाम्, **Govindarāja** (_Bhūṣaṇa_) cites the Pāṇinian rule prescribing _ātmanepada_ for क्रीड् preceded by सम् (क्रीडोऽनुसंपरिभ्यश्चेत्यात्मनेपदम्), and glosses भूषणोन्मिश्रः by _lakṣaṇā_ as mingled with the sound of bracelets and anklets (वलयादिभूषणध्वनिमिश्रः, _Tilaka_). In 3.11.21, _Tilaka_ glosses ब्राह्म्या लक्ष्म्या as the spiritual radiance born of realizing the Supreme Brahman (ब्रह्मविद्यादर्शनजलक्ष्म्या), while **Śivasahāya** (_Śiromaṇi_) refers it to the resonance of Vedic recitation (वेदपाठादिरूपया).
+
+_____________
+
+**3.11.22–23 (Revisiting the Hermitages in Turn)**
+
+In 3.11.23–24, all three commentators explain that after staying in the newly reached circle of hermitages, Rāma revisited in rotation (पर्यायेण) the hermitages where he had previously lodged (येषामुषितवान् पूर्वं). **Govindarāja** (_Bhūṣaṇa_) notes that the epithet महास्त्रवित् (“master of mighty missiles”) indicates Rāma’s purpose in making these rounds: warding off demonic incursions, as Mārīca himself later testifies.
+
+_____________
+
+**3.11.24 (paridaśān māsān)**
+
+Glossing परिदशान् मासान्, **Rāma Varmā** (_Tilaka_) takes it as “ten months” (दशसंख्यान् मासान्), **Śivasahāya** (_Śiromaṇi_) as “nearly ten—nine or eleven months” (दशसमीपवर्तिनः नवैकादश वेत्यर्थः), and **Govindarāja** (_Bhūṣaṇa_) as “twelve months” (परिगताः दश येषां... द्वादशमासानित्यर्थः).
+
+_____________
+
+**3.11.25–26 (Reconciling the Sum of Months with Ten Years)**
+
+In an elaborate chronological disquisition, **Govindarāja** (_Bhūṣaṇa_) demonstrates how the listed stays tally to the ten years (120 months) of 3.11.27b: either by summing the explicitly named stays as sixty months (five years) and doubling them via the second circuit (द्वितीयपर्यायेण) indicated in 3.11.23d, or—according to another school (केचिदाहुः)—by construing परिदशान् (“plus ten”) with each subsequent figure to yield 120 months directly (विंशत्युत्तरशतमासा लब्धाः).
+
+_____________
+
+**3.11.27–28 (Return to Sutīkṣṇa’s Hermitage)**
+
+On परिसृत्य, **Rāma Varmā** (_Tilaka_) notes the variants परिवृत्य and प्रतिसृत्य, and explains in 3.11.28 that Rāma returned to Sutīkṣṇa’s ashram to fulfill the promise of returning he had made upon departing in Sarga 8 (पुनरागन्तव्यमिति प्रतिज्ञाय गतः अतः पुनराजगाम).
+
+_____________
+
+**3.11.29–30 (Reverent Inquiry After Agastya)**
+
+Glossing उपासीनः in 3.11.30a, **Rāma Varmā** (_Tilaka_) takes it as seated near Sutīkṣṇa (समीपस्थः), while Rāma’s address in 3.11.30cd construes with 3.11.31a (वसतीति) across the stanza boundary.
+
+_____________
+
+**3.11.31–32 (kathāḥ kathayatām & Seeking Agastya’s Grace)**
+
+On the genitive participle कथयतां in 3.11.31b, **Rāma Varmā** (_Tilaka_) supplies सकाशात् (“from people telling tales”), while **Govindarāja** (_Bhūṣaṇa_) construes it in a locative absolute sense (कथयत्सु) and **Śivasahāya** (_Śiromaṇi_) as an ablative (कथयद्भ्यः). In 3.11.32c, _Śiromaṇi_ explains प्रसादार्थं भगवतः as seeking Agastya’s gracious favour (अस्मद्विषयकप्रीत्युत्पत्त्यर्थम्).
+
+_____________
+
+**3.11.33–34 (Rāma’s Heartfelt Longing & śuśrūṣeyam)**
+
+Glossing 3.11.33–34, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) explain that 3.11.34ab (यदहं तं मुनिवरं शुश्रूषेयमपि स्वयम्) defines the content of the great longing (मनोरथाभिनयः) revolving in Rāma’s heart. _Bhūṣaṇa_ notes that the _parasmaipada_ optative शुश्रूषेयम् (for regular _ātmanepada_ शुश्रूषेय) is an _ārṣa_ usage (परस्मैपदमार्षम्).
+
+_____________
+
+**3.11.35–36 (Sutīkṣṇa’s Joyful Assent)**
+
+On अर्थेऽस्मिन् in 3.11.36c, **Rāma Varmā** (_Tilaka_) glosses it as “in this very matter which I desired to enjoin upon you” (मदुपदिदिक्षितार्थे), while **Śivasahāya** (_Śiromaṇi_) renders दिष्ट्या as “by supreme good fortune” (अतिभाग्यम्).
+
+_____________
+
+**3.11.37 (The Distance to the Hermitage of Agastya’s Brother)**
+
+On the geography of 3.11.37, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) construe दक्षिणेन with ablative आश्रमात् (“four _yojanas_ south of this ashram”), _Bhūṣaṇa_ noting that the genitive/ablative case instead of the accusative with _enap_-form दक्षिणेन is an _ārṣa_ licence (एनपा द्वितीयेति द्वितीयाभाव आर्षः). **Rāma Varmā** (_Tilaka_) also records _Kataka_’s variant योजनादाश्रमादस्मादभि चत्वारि वै ततः (“one _yojana_ plus four”).
+
+_____________
+
+**3.11.38–39 (Signs of the Brother’s Hermitage)**
+
+Glossing स्थलीप्राये, **Govindarāja** (_Bhūṣaṇa_) explains it as abounding in natural dry tableland (स्थलीप्रचुरे; cf. अकृत्रिमभूमित्वं, _Śiromaṇi_) marked by groves of _pippalī_ (long-pepper) trees and lotus-ponds (पद्मिन्यः).
+
+_____________
+
+**3.11.40–42 (Identity of Agastya’s Brother & the Final Yojana)**
+
+Identifying “Agastya’s brother” in 3.11.40, **Rāma Varmā** (_Tilaka_) notes that he is named Idhmavāha (इध्मवाह इत्यस्य नाम), citing a _Bhāgavata_ verse calling Idhmavāha Agastya’s son and explaining that some reconcile the two via the maxim that a son is one’s own self reborn (आत्मा वै पुत्रनामासीति न्यायेनेत्येके). One _yojana_ further south along the forest edge (वनखण्डस्य पार्श्वतः) lies Agastya’s ashram.
+
+_____________
+
+**3.11.43–44 (Immediate Departure for Agastya’s Hermitage)**
+
+Glossing बुद्धिं रोचयस्व in 3.11.43d, **Śivasahāya** (_Śiromaṇi_) explains it as “form the resolve to set out today itself” (अद्यैव गमने बुद्धिं कुरु). In 3.11.44a, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) take मुनेः as an ablative of source (मुनेः सकाशाच्छ्रुत्वा) governing इति वचनम्.
+
+_____________
+
+**3.11.45–46 (mārga-vaśānugān)**
+
+Construing verses 45–46 together (श्लोकद्वयमेकान्वयि, _Śiromaṇi_), all three commentators explain मार्गवशानुगान् as the woods, cloud-like peaks (मेघसन्निभान्, _Bhūṣaṇa_), lakes, and streams that naturally presented themselves along the path Rāma followed (मन्मार्गवशप्राप्तान्, _Tilaka_).
+
+_____________
+
+**3.11.47–48 (Recognizing the Hermitage by Its Landmarks)**
+
+On नूनं in 3.11.47b, **Govindarāja** (_Bhūṣaṇa_) takes it in the sense of confident inference (वितर्के), supported by the reason in 3.11.48 (यथा हीमे...): just as Sutīkṣṇa had described the forest in 3.11.38 (यथा यादृशचिह्नवत्तया वनं श्रुतं, _Tilaka_), so thousands of trees bowed under the weight of fruit and blossom are now perceived along the path (ज्ञाता ज्ञायमाना वर्तन्ते).
+
+_____________
+
+**3.11.49–50 (The Specific Landmarks of Ripe Pippalī & Darbha)**
+
+Calling the aroma of ripe _pippalī_ berries in 3.11.49 the distinctive landmark (असाधारणलिङ्गानुभवम्) foretold by Sutīkṣṇa in 3.11.38b, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) gloss कटुकोदयः as a scent manifesting the pungent taste (कटुरसस्य उदयोऽभिव्यक्तिरानुमानिकी येन). Around the paths lie stacked billets of sacrificial wood and freshly cut _darbha_ grass gleaming like _vaidūrya_ gems.
+
+_____________
+
+**3.11.51–52 (Sacrificial Smoke & Self-Gathered Blossoms)**
+
+On कृष्णाभ्रशिखरोपमम् in 3.11.51b, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain it as a crest of sacrificial smoke resembling a mountain peak veiled in dark clouds (नीलाभ्रं शिखरं पर्वतशिखरं चोपमा यस्य). In 3.11.52, **Govindarāja** (_Bhūṣaṇa_) cites the _Smṛti_ rule that a _śrotriya_ brahmin must gather sacrificial fuel, flowers, and _kuśa_ grass with his own hands (समित्पुष्पकुशादीनि श्रोत्रियः स्वयमाहरेत्).
+
+_____________
+
+**3.11.53–54 (Agastya’s Subjugation of Death)**
+
+Construing 3.11.53–54 together, all three commentators explain मृत्युं metonymically as the death-like _asura_ Vātāpi (मृत्युं मृत्युकल्पं दैत्यम्, _Tilaka_; वातापील्वलनिमित्तकं मरणं, _Bhūṣaṇa_), by whose destruction Agastya rendered the southern quarter a safe haven (शरण्या वासयोग्या).
+
+_____________
+
+**3.11.55–56 (Ilvala’s Disguise & Refined Speech)**
+
+Introducing the legend (आख्यायिकामाह) behind 3.11.54, **Rāma Varmā** (_Tilaka_) explains that Ilvala donned brahmanical garb (ब्राह्मणं रूपं ब्राह्मणसदृशवेषं) and spoke grammatically purified Sanskrit (व्याकरणसंस्कारवतीं वाचं, _Bhūṣaṇa_) specifically to inspire trust in the brahmins he invited (एतदुभयं विश्वासार्थम्, _Tilaka_).
+
+_____________
+
+**3.11.57–58 (The Śrāddha Trap)**
+
+In 3.11.57, all three commentators note the play on संस्कृतं: whereas in 56b it meant grammatically refined speech, here भ्रातरं संस्कृतं कृत्वा means culinary preparation of the ram-shaped Vātāpi for a _śrāddha_ meal (श्राद्धोचितपाकसंस्कारसंस्कृतं कृत्वा, _Tilaka_, _Bhūṣaṇa_). In 3.11.58, **Govindarāja** (_Bhūṣaṇa_) explains the genitive भुक्तवतां विप्राणाम् as objective genitive with अब्रवीत् (शब्दायतेः कर्मणः शेषत्वविवक्षया षष्ठी).
+
+_____________
+
+**3.11.59–60 (Unaugmented viniṣpatat & Plural taiḥ)**
+
+In 3.11.59d, all three commentators flag विनिष्पतत् (for व्यनिष्पतत्) as an _ārṣa_ omission of the past augment (अकारमागम आर्षः, _Tilaka_; अडभावः, _Śiromaṇi_). On the plural तैः in 3.11.60b (referring to the two brothers), **Govindarāja** (_Bhūṣaṇa_) explains that it includes their demonic retinue (बहुवचनं परिवारापेक्षया).
+
+_____________
+
+**3.11.61–62 (Agastya’s Acceptance of the Śrāddha & Ritual Formula)**
+
+Glossing अनुभूय in 3.11.61c, all three commentators explain that Agastya first underwent the formal _śrāddha_ invitation and hospitable reception (श्राद्धव्यापारमनुभूय, _Tilaka_; श्राद्धवरणादिकमनुभूय, _Bhūṣaṇa_) before devouring the ram-demon. At the close of the meal, Ilvala pronounces the ritual inquiry संपन्नम् (“Is the _śrāddha_ complete?”, श्राद्धं समाप्तं परिपूर्णमिति, _Śiromaṇi_) and pours hand-rinsing water (हस्तेऽवनेजनम्) before summoning Vātāpi.
+
+_____________
+
+**3.11.63–64 (Vātāpi Digested & Sent to Yama’s Abode)**
+
+On Agastya’s mocking laugh (प्रहसन्) in 3.11.63c, **Śivasahāya** (_Śiromaṇi_) explains मया जीर्णस्य in 3.11.64b: digested in Agastya’s stomach like ordinary food (चिरकालिकभोजनात् मलादित्वेन परिणतस्य), Vātāpi’s vital spirit has already departed to the realm of Yama (यमसादनं गतस्य), leaving him no power to emerge.
+
+_____________
+
+**3.11.65–66 (Ilvala Incinerated by Agastya’s Glance)**
+
+Enraged at hearing of his brother’s death (निधनसंश्रितम्), Ilvala charges at the sage to slay him (प्रधर्षयितुं हिंसितुम्, _Tilaka_, _Bhūṣaṇa_), only to be consumed to ashes by a single glance from Agastya’s fire-like eye (चक्षुषेक्षणेन अनलकल्पेनाग्नितुल्येन, _Tilaka_).
+
+_____________
+
+**3.11.67–68 (Compassion for Brahmins & Sunset)**
+
+Concluding the Vātāpi episode in 3.11.67, **Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** (_Śiromaṇi_) note that Agastya performed that arduous deed out of pure compassion for the brahmins (विप्रेष्वनुकम्पया) and now point out his brother’s ashram. As Rāma finishes speaking, the sun sets and the evening _sandhyā_ hour arrives (संध्याकालोऽभ्यवर्तत).
+
+_____________
+
+**3.11.69–70 (Evening Sandhyā & Hermitage Hospitality)**
+
+After performing the western _sandhyā_ worship (उपास्य पश्चिमां संध्यां) according to precept, Rāma enters the hermitage and is warmly welcomed (प्रतिगृहीतः प्रत्युद्गतः, _Bhūṣaṇa_; सत्कृत्य स्वीकृतः, _Śiromaṇi_) by Agastya’s brother, dining on roots and fruits (प्राश्य भुक्तवा).
+
+_____________
+
+**3.11.71–72 (Hypermetric Pāda 72a & Taking Leave at Dawn)**
+
+At sunrise, Rāma bids farewell (आमन्त्रयत आपृच्छत्, _Śiromaṇi_) to his host. Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explicitly note that quarter 3.11.72a (अभिवादये त्वां भगवन्) contains nine syllables instead of eight by _ārṣa_ metrical licence (नवाक्षरत्वमार्षम्, _Tilaka_; अत्र वर्णाधिक्यमार्षम्, _Bhūṣaṇa_).
+
+_____________
+
+**3.11.73–75 (Botanical Catalogue of the Wilderness)**
+
+Construing verses 74–76 as one sentence with ददर्श रामः in 75c, all three commentators gloss the forest flora: नीवारान् as aquatic _kadamba_ trees (जलकदम्बान्), वञ्जुलान् as _aśoka_ trees (अशोकान्, _Bhūṣaṇa_ citing _Amarakośa_ वञ्जुलो वेतसेऽशोके), तिनिशान् as _nemī_ or _dhava_ trees, चिरिबिल्वान् as _naktamāla_ (_karañja_) trees (_Bhūṣaṇa_ citing _Vaijayantī_), and तिन्दुकान् as ebony trees (स्फूर्जकाख्यान् वृक्षान्).
+
+_____________
+
+**3.11.76–77 (Wilderness Sights & Address to Lakṣmaṇa)**
+
+In 3.11.76, **Śivasahāya** (_Śiromaṇi_) notes that the forest trees are rubbed and bruised by elephant trunks (शुण्डादण्डैर्विमृदितान्) and echo with intoxicated bird-flocks. In 3.11.77d, लक्ष्मिवर्धनम् exhibits _ārṣa_ shortening of the final vowel of लक्ष्मी.
+
+_____________
+
+**3.11.78 (Inferring the Proximity of Agastya’s Ashram)**
+
+On 3.11.78, **Govindarāja** (_Bhūṣaṇa_) explains that the trees have lush, glossy foliage because they are tended and protected by the hermitage dwellers (आश्रमवासिभिः रक्षितत्वेन सरसपत्राः), while the beasts and birds have shed their natural ferocity (क्षान्ताः शान्ताः), signaling Agastya’s nearby ashram.
+
+_____________
+
+**3.11.79–80 (Etymology of Agastya & Signs of His Ashram)**
+
+All three commentators explain स्वेनैव कर्मणा अगस्त्य इति विख्यातः by deriving the name अगस्त्यः from his feat of arresting the mountain (अगं विन्ध्यं स्तम्भयतीत्यगस्त्यः, पृषोदरादिः, _Tilaka_, _Bhūṣaṇa_; cf. अगो न गन्ता विन्ध्याद्रिः शोभते यस्मात्, _Śiromaṇi_). His ashram is wreathed in thick clouds of sacrificial smoke (प्राज्यैर्बहुभिर्धूमैराकुलं, _Bhūṣaṇa_) and hung with bark-garments.
+
+_____________
+
+**3.11.81–83 (The Southern Quarter Freed from Demonic Terror)**
+
+On दृश्यते नोपभुज्यते in 3.11.82d, **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain that out of terror of Agastya (महर्षिभीत्या), the _rākṣasas_ only gaze upon the southern region from afar and no longer dare occupy or devour its inhabitants as before (न तु प्राचीनकाल इवोपभुज्यते, _Bhūṣaṇa_). _Bhūṣaṇa_ clarifies in 3.11.83 that इयं दिक् refers specifically to the environs of Agastya’s ashram (अगस्त्याश्रमप्रदेशः), since Virādha and Khara still roam elsewhere in Daṇḍakā.
+
+_____________
+
+**3.11.84 (The Quarter Named Agastyadik)**
+
+Glossing नाम्ना चेयं भगवतो... प्रथिता, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) note that the entire southern quarter became famous across the three worlds by the sage’s own name as “Agastya’s quarter” (भगवतोऽगस्त्यस्य दिगिति प्रसिद्धिरुच्यते, _Bhūṣaṇa_), while प्रदक्षिणा means eminently auspicious (अतिशुभफलवती, _Śiromaṇi_).
+
+_____________
+
+**3.11.85–86 (The Arresting of Mount Vindhya)**
+
+Recounting the Purāṇic legend (पौराणिकी कथा) on 3.11.85, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that when Mount Vindhya, jealous of Mount Meru (मेरुस्पर्धया), grew skyward to block the sun’s path, his preceptor Agastya—petitioned by the gods—commanded the prostrating mountain to remain bowed low until his return (यावन्मदागमनं प्रणमन् भूमावेव तिष्ठेत्याज्ञाप्य) and then settled permanently in the south; hence Vindhya does not grow even today (अद्यापीति शेषः).
+
+_____________
+
+**3.11.87 (śreyasā yojayiṣyati)**
+
+On Rāma’s expectation that Agastya will unite them with supreme good (श्रेयसा योजयिष्यति), **Rāma Varmā** (_Tilaka_) perceives an implicit foreshadowing of Agastya’s gift of the divine Vaiṣṇava bow and inexhaustible quivers in Sarga 12 (दिव्यशस्त्रादिदानेनेति गूढोऽभिसंधिः).
+
+_____________
+
+**3.11.88–89 (Addressing Lakṣmaṇa as prabho)**
+
+On the vocative प्रभो addressed to Lakṣmaṇa in 3.11.88d, **Rāma Varmā** (_Tilaka_) glosses it as “O you who are capable of serving the sage!” (शुश्रूषणसमर्थेत्यर्थः), while **Govindarāja** (_Bhūṣaṇa_) attributes it to Lakṣmaṇa’s royal birth (लक्ष्मणस्यापि राजपुत्रत्वात्) and also notes the genitive reading प्रभोः (“at Lord Agastya’s direction”, प्रभोरगस्त्यस्य नियोगादिति) pointing toward Pañcavaṭī.
+
+_____________
+
+**3.11.90 (The Moral Purity of Agastya’s Precinct)**
+
+Glossing the terms of censure in 3.11.90, **Govindarāja** (_Bhūṣaṇa_) and **Rāma Varmā** (_Tilaka_) distinguish क्रूरः (pitiless, निर्दयः), शठः (secretly malicious while outwardly pleasant, गूढविप्रियकृत्), and नृशंसः (murderous, घातकः); none such can survive in the ashram because Agastya cannot brook unrighteousness (दुर्वृत्तासहिष्णुः, _Tilaka_).
+
+_____________
+
+**3.11.91–92 (Celestial Worshippers & Ascension in Divine Bodies)**
+
+On आराधयिष्णवः in 3.11.91d, **Govindarāja** (_Bhūṣaṇa_) flags the suffix -इष्णुच् on आ-राध् as a Vedic formation (छान्दस इष्णुच्), while **Rāma Varmā** (_Tilaka_) identifies पतगाः as Garuḍa and his race (गरुडादयः). In 3.11.92, sages who attain perfection in this ashram cast off their mortal frames and ascend to heaven in luminous celestial bodies (नवैः शरीरैर्दिव्यदेहैः).
+
+_____________
+
+**3.11.93–94 (Boons of the Gods & Sending Lakṣmaṇa Ahead)**
+
+Because Brahmā and the gods are perpetually present there to wait upon Agastya (अगस्त्योपासनकृतनित्यसान्निध्यात्, _Bhūṣaṇa_), righteous beings win immortality and sovereignty with ease (अल्पप्रयत्नेनैव, _Tilaka_). Reaching the gate in 3.11.94 (where आगताः स्म stands for आगताः स्मः), Rāma bids Lakṣmaṇa enter first to announce his arrival with Sītā.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

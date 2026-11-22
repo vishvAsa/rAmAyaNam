@@ -1026,6 +1026,98 @@ bedaubed with blood they swiftly penetrated into earth like snakes into snake pi
 
 Rāghava loosed those arrows as Śatakratu [Indra] hurls his thunderbolts (_vajrān iva_). Piercing the chests (_vakṣāṃsi_) of the _rākṣasas_ with their velocity, those blood-drenched (_rudhira-plutāḥ_) [shafts]—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3.20.1–3 (Arrival of the Fourteen Demons)**
+
+Introducing the twentieth Sarga (अथ चतुर्दशराक्षसवधो विंशे), **Govindarāja** (_Bhūṣaṇa_) notes that the narrative now turns to the slaying of Khara's fourteen vanguard warriors. On सह सीतया (`3.20.1d`), **Rāma Varmā** (_Tilaka_) supplies सह सीतया वर्तमानाविति शेषः (“dwelling together with Sītā”), while **Śivasahāya** (_Śiromaṇi_) explains the accusative राक्षसान् as standing in the sense of the dative of recipient (राक्षसान् राक्षसेभ्यः आचचक्षे कथयामास).
+
+_____________
+
+**3.20.4 (pratyanantaraḥ & asyāḥ padavīm)**
+
+On सीतायाः प्रत्यनन्तरः, both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss the compound as standing immediately proximate to Sītā as her protector (प्रत्यासन्नः पालक इति यावत्, _Tilaka_; प्रत्यासन्नः रक्षक इति यावत्, _Bhūṣaṇa_). On अस्याः पदवीमागतान्, _Tilaka_ explains that the demons have come to the hermitage out of partisanship for Śūrpaṇakhā (अस्याः पक्षपातेनास्मदाश्रमे आगतान्), whereas _Śiromaṇi_ glosses it as arriving along her path as her auxiliaries (तत्सहायत्वेन प्राप्तान्).
+
+_____________
+
+**3.20.5–6 (pratyapūjayat & cāmīkara)**
+
+Reading the finite verb प्रत्यपूजयत् in `3.20.5d`, **Govindarāja** (_Bhūṣaṇa_) glosses it as dutifully executing Rāma's order (परिपालितवान्). On चामीकरविभूषितम् (`3.20.6b`), both _Tilaka_ and _Bhūṣaṇa_ gloss चामीकरम् as gold (चामीकरं सुवर्णम्).
+
+_____________
+
+**3.20.7–8 (Dispelling Suspicion of Disguise)**
+
+**Govindarāja** (_Bhūṣaṇa_) observes that Rāma declares his royal parentage and ascetic observance in order to dispel any suspicion that he wears a deceitful disguise (स्वस्य कपटवेषत्वं परिहरन्नाह). **Śivasahāya** (_Śiromaṇi_) links verses 7 and 8 syntactically (श्लोकद्वयमेकान्वयि) and notes that by asking आवां किमर्थमुपहिंसथ, Rāma intimates that assaulting unoffending ascetics is unjust (अनपराधिकमत्पीडनं न युक्तमिति सूचितम्).
+
+_____________
+
+**3.20.9–10 (viprakārān & Rāma's Warning)**
+
+On विप्रकारान्, **Govindarāja** (_Bhūṣaṇa_) glosses it as violent aggressors (हिंसकान्), noting that Rāma awaits their first hostile move (भवतां प्रथमप्रवृत्तिमाकाङ्क्षन् स्थितोऽस्मि). **Rāma Varmā** (_Tilaka_) takes it either as an ablative of cause (भवत्कृतपीडारूपान्निमित्तात्) or as an accusative qualifier (वैरवतो युष्मान्), while **Śivasahāya** (_Śiromaṇi_) explains it as those who persecute Brāhmaṇas. On संतुष्टाः तिष्ठत (`3.20.10`), _Tilaka_ explains “stand contented with battle from me” (मत्तः प्राप्तयुद्धसंतोषाः), whereas _Bhūṣaṇa_ glosses संतुष्टाः as fearless (अभीताः) and नोपावर्तितुमर्हथ as “do not flee” (मा पलायध्वम्).
+
+_____________
+
+**3.20.11–12 (brahmaghnāḥ & adṛṣṭaparākramam)**
+
+On हृष्टा दृष्टपराक्रमम्, both _Tilaka_ and _Śiromaṇi_ resolve अदृष्टपराक्रमम् via _ārṣa sandhi_ (अदृष्टपराक्रममिति छेदः, संधिरार्षः), though _Śiromaṇi_ also permits the direct reading दृष्टपराक्रमम्.
+
+_____________
+
+**3.20.13–14 (śaktiḥ & kāvyārthāpatti)**
+
+On शक्तिः (`3.20.14a`), **Govindarāja** (_Bhūṣaṇa_) cites the _Viśvaprakāśa_ lexicon (शक्तिर्बले प्रभावादौ इति विश्वः) to gloss the term as martial strength (बलम्). **Rāma Varmā** (_Tilaka_) construes स्थातुम् directly with का ते शक्तिः (“what power have you even to stand?”), while **Śivasahāya** (_Śiromaṇi_) notes that through the rhetorical figure of _kāvyārthāpatti_ (काव्यार्थापत्त्यलंकारेण), the demons imply that a lone fighter ought to flee at once (द्रुतं त्वया पलायितव्यमिति सूचितम्).
+
+_____________
+
+**3.20.15 (parighaiḥ, paṭṭiśaiḥ & karapīḍitam)**
+
+Glossing the demon weaponry, **Govindarāja** (_Bhūṣaṇa_) defines परिघैः as iron-bound maces (गदाभेदैः) and पट्टिशैः as a class of broad-bladed swords (असिभेदैः). **Śivasahāya** (_Śiromaṇi_) explains करपीडितम् as tightly gripped in the hand (करेण दृढं गृहीतम्).
+
+_____________
+
+**3.20.16–17 (udyatāyudhanistriṃśāḥ & Synchronized Volley)**
+
+On उद्यतायुधनिस्त्रिंशाः, **Śivasahāya** (_Śiromaṇi_) explains that although swords (निस्त्रिंशाः) are already included under general weapons (आयुधत्वेऽपि), they are mentioned separately by the maxim of “cattle and bulls” (गोबलीवर्दन्यायेन) to highlight their prominence (वैशिष्ट्यबोधनाय). On समस्तानि चतुर्दश, _Śiromaṇi_ notes that all fourteen pikes were flung simultaneously (युगपदागतानि) and construes `17cd` in a single syntactic unit (सार्धश्लोक एकान्वयी) with `18ab`.
+
+_____________
+
+**3.20.18–19 (tāvadbhiḥ, nārācān & śilāśitān)**
+
+On तावद्भिरेव, **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) note that Rāma intercepted the fourteen pikes with exactly fourteen arrows (चतुर्दशसंख्यापरिमितैः, _Śiromaṇi_), showcasing his mastery of archery (धनुर्वेदकौशलम्, _Tilaka_). On नाराचान्, **Govindarāja** (_Bhūṣaṇa_) glosses all-iron shafts (अयोमयान् बाणान्). On शिलाशितान्, all three commentators offer “whetted upon a grindstone” (शाणोपलनिघृष्टान्), while _Bhūṣaṇa_ first proposes शिलास्वपि शितान् (“sharp enough to pierce even rocks”).
+
+_____________
+
+**3.20.19cd–20 (lakṣyān & vajrān iva)**
+
+On लक्ष्यान् (`3.20.19d`), **Govindarāja** (_Bhūṣaṇa_) glosses वेध्यान् (“targets to be pierced”) and remarks that the plural वज्रानिव (“like thunderbolts”, whereas Indra wields a single _vajra_) is an instance of _abhūtopamā_ (वज्रानित्यभूतोपमा, “simile of a non-existent plural”).
+
+_____________
+
+**3.20.21 (valmīkād iva pannagāḥ)**
+
+On विनिष्पेतुस्तदा भूमौ वल्मीकादिव पन्नगाः, **Rāma Varmā** (_Tilaka_) explains that the arrows exited the demons' chests and burrowed into the earth like serpents entering an anthill (वल्मीकाद्वल्मीकं प्राप्य पन्नगा इव निमग्ना इत्यर्थः), whereas **Śivasahāya** (_Śiromaṇi_) construes वल्मीकात् directly as the source (“burst forth from their chests like snakes from an anthill”).
+
+_____________
+
+**3.20.22–23 (vigatāsavaḥ & saniryāseva vallarī)**
+
+On विकृता विगतासवः, **Govindarāja** (_Bhūṣaṇa_) glosses विकृताः as mutilated (विरूपाः) and विगतासवः as lifeless (विगतप्राणाः), while **Śivasahāya** (_Śiromaṇi_) connects निपेतुः with भग्नहृदयाः in verse 21. On the simile सनिर्यासेव वल्लरी (`3.20.23d`), **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) explain that because her blood had thickened and partially dried along the way (किंचित्संशुष्कशोणितत्वात्, _Tilaka_), Śūrpaṇakhā sprawling on the ground resembled a forest creeper (_vallarī_) oozing gum-resin (निर्याससहिता वल्लरी लता इव, _Śiromaṇi_).
+
+_____________
+
+**3.20.24 (ninadaṃ mahat & sasvaraṃ bāṣpam)**
+
+On `3.20.24`, **Śivasahāya** (_Śiromaṇi_) observes that her face turned pale at the moment of her collapse (तदा पतनसमये विवर्णवदना) as she released a loud roar and wept with vocal lamentation (सस्वरं यथा तथा बाष्पं मुमुचे).
+
+_____________
+
+**3.20.25 (Closing Vaṃśastha Recapitulation)**
+
+Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) remark that the closing _Vaṃśastha_ stanza summarizes the canto's action while introducing the detailed report in the next Sarga (उत्तरसर्गार्थस्य संक्षेपतः कथनम्, _Tilaka_; पुनः सर्गार्थं संक्षेपेणाह, _Bhūṣaṇa_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

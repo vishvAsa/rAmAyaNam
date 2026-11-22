@@ -1771,5 +1771,133 @@ of a wise leader, decided to stay on Mount Suvela, after observing its charming 
 
 Then high-souled Rāma, covering the whole earth with his vast army and resolved upon slaying the foe (_arivadhe_), advanced toward Laṅkā with a joyful aspect.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.37.1–3 (The Allied Council Before Laṅkā)**
+
+Opening the thirty-seventh _sarga_ on Rāma's counter-deployment (अथ रामस्य सेनागुप्तिविधानं सप्तत्रिंशे), _Śiromaṇi_ and _Bhūṣaṇa_ construe verses 1–3 as a single sentence (श्लोकत्रयमेकान्वयम्). Citing _Amarakośa_ (दायादौ सुतबान्धवावित्यमरः), Govindarāja glosses सहदायादः as accompanied by kinsmen (सबान्धवः), while all three commentators explain अमित्रविषयम् as enemy territory (शत्रुदेशम्) and समर्थयन् as deliberated (अमन्त्रयन्).
+
+_____________
+
+**6.37.4–5 (The Impregnable Citadel of Rāvaṇa)**
+
+Articulating the subject of their deliberation (मन्त्रप्रकारः in _Tilaka_), the leaders point to Laṅkā ahead (इयं सा लक्ष्यते), invincible even to gods, _asuras_, serpents, and _gandharvas_, and urge a firm strategic decision (विनिर्णये कृत्यनिर्णयार्थं मन्त्रयध्वम् in _Śiromaṇi_) focused on achieving victory (कार्यसिद्धिं लङ्काहननरूपसिद्धिं पुरस्कृत्य).
+
+_____________
+
+**6.37.6 (Vibhīṣaṇa's Refined Sanskrit Diction)**
+
+Commenting on अग्राम्यपदवत् पुष्कलार्थम्, _Tilaka_ and _Śiromaṇi_ explain that Vibhīṣaṇa's speech was free of vulgarity or solecism and pregnant with meaning (अपशब्दहीनं च पुष्कलार्थं बह्वर्थस्पर्शकम्). Govindarāja adds that he spoke in pure Sanskrit devoid of regional dialect (संस्कृतपदवत् सर्वषां झटितिप्रतिपत्तये स्वदेशभाषापदरहितमुक्तवानित्यर्थः) so all allies could understand.
+
+_____________
+
+**6.37.7–9 (Espionage in the Form of Birds)**
+
+Connecting verses 7–9, _Śiromaṇi_ and _Bhūṣaṇa_ explain that Vibhīṣaṇa's four counselors transformed themselves into birds (शकुनयः पक्षिणो भूत्वा) to infiltrate Laṅkā without detection. Having witnessed Rāvaṇa's defensive measures (विधानं नगररक्षणसंविधानम्) with their own eyes, their eyewitness report enables Vibhīṣaṇa to recount the enemy's dispositions with complete accuracy (प्रत्यक्षदृष्टत्वेन याथातथ्येन ब्रुवतः मे मत्तः शृणु).
+
+_____________
+
+**6.37.10–11 (Prahasta, Mahāpārśva, Mahodara, and Indrajit)**
+
+Vibhīṣaṇa's intelligence mirrors Rāvaṇa's secret orders from the preceding _sarga_: Prahasta commands the eastern gate (पूर्वं द्वारमासाद्य प्रहस्तस्तिष्ठति), Mahāpārśva and Mahodara hold the south, and Indrajit guards the western gate (इन्द्रजित्पश्चिमद्वारम् आसाद्य तिष्ठतीत्यनुकृष्यते in _Bhūṣaṇa_).
+
+_____________
+
+**6.37.12 (The Retinue at the Western and Northern Gates)**
+
+While Govindarāja construes verse 12 with Indrajit—surrounded by principal _rākṣasa_ champions (बहुभी राक्षसैः प्रधानराक्षसैर्वृतः) wielding diverse weapons—_Tilaka_ notes that the phrase राक्षसानां सहस्रैस्तु may also transition forward as a qualifier of Rāvaṇa himself in verse 13 (राक्षसानां सहस्रैरित्यादि रावणविशेषणम्).
+
+_____________
+
+**6.37.13–15 (Rāvaṇa's Secret Alarm at the Northern Gate)**
+
+Explaining परमसंविग्नः, _Tilaka_ observes that despite his outward bravado in council, Rāvaṇa is inwardly terrified in his heart upon recalling Śuka and Sāraṇa's account of Rāma's vast army (शुकसारणावेदितमहाबलस्मरणादन्तःकरणेऽतिभीतः), though Govindarāja also records a variant असंविग्नः (अकम्पितः). Citing _Amarakośa_, _Bhūṣaṇa_ defines गुल्मान् as concentrated military divisions (गुल्मो नाम एकीभूतसेनासंनिवेशः).
+
+_____________
+
+**6.37.16–17 (The Census of Laṅkā's Fourfold Host)**
+
+_Tilaka_ explains that Vibhīṣaṇa enumerates the enemy's forces so Rāma can match each gate-commander with a proportionate _vānara_ contingent (तत्तद्द्वाराधिष्ठातृस्तदुचितैः स्वबलैः प्रतिरोद्धुं तत्रत्यबलस्य समाधिकन्यूनतापरिज्ञानाय). Both _Tilaka_ and _Bhūṣaṇa_ note that गजानाम् and रथानाम् signify elephant-warriors and chariot-fighters (गजयोधिनामित्यर्थः), while साग्रकोटिः means a full ten million plus several _lakṣas_ (परिमितलक्षसंख्याधिका कोटिरित्यर्थः) of Rāvaṇa's favored shock-troops (आततायिनः क्रूरा इत्यर्थः).
+
+_____________
+
+**6.37.18 (A Million Attendants for Each Commander)**
+
+Glossing सहस्राणां सहस्रम्, _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ concur that each principal _rākṣasa_ general (राक्षसेषु एकैकस्य राक्षसस्य) commands a personal retinue of ten _lakṣas_ (दशलक्षसंख्याविशिष्टः परिवारः).
+
+_____________
+
+**6.37.19–20 (Presenting the Eyewitnesses to Rāma)**
+
+_Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain that after summarizing the report himself, Vibhīṣaṇa points out his four counselors—Anala and the others (राक्षसान् अनलादीन् स्वमन्त्रिणः अदर्शयत्)—and has them personally recount their findings as causative agents (सचिवैः प्रयोज्यकर्तृभिः... सचिवैरपि तं वृत्तान्तमावेदयदित्यर्थः in _Bhūṣaṇa_) to establish complete credibility.
+
+_____________
+
+**6.37.21–22 (The Sixty-Lakṣa Host Against Kubera)**
+
+Connecting verses 20–22, Govindarāja notes that Vibhīṣaṇa cites Rāvaṇa's ancient campaign against Kubera to show that his present garrison is even larger (दिग्विजयकालिकबलादाधुनिकं बलमधिकमिति कथयितुं पूर्वबलं परिगणयति). At that time sixty _lakṣas_ (षष्टिशतसहस्राणि षष्टिलक्षमित्यर्थः) marched forth, matching Rāvaṇa in offensive might (पराक्रमेण पराभिभवसामर्थ्येन), endurance (वीर्येण), and unshakable courage (सत्त्वगौरवात् धैर्यातिशयेन).
+
+_____________
+
+**6.37.23–24 (Rousing Heroic Wrath Rather Than Fear)**
+
+Anticipating the objection that praising the enemy's numbers before one's lord is improper (स्वामिसन्निधौ शत्रुबलवर्णनमयुक्तमित्याशङ्क्य परिहरति), Govindarāja explains रोषये त्वां न भीषये: Vibhīṣaṇa describes the foe's strength solely to kindle Rāma's martial ardor to destroy the enemy (शत्रुनिरसनाय रोषमुत्पादये), not to cause alarm (न भीतिमुत्पादये), since Rāma can subdue even the immortals.
+
+_____________
+
+**6.37.25–27 (Matching Nīla and Aṅgada Against the Eastern and Southern Gates)**
+
+Responding to Vibhīṣaṇa's intelligence with a counter-plan (प्रतिघातार्थं प्रतिक्रियार्थम् in _Bhūṣaṇa_), Rāma pits his commander-in-chief Nīla against Rāvaṇa's commander-in-chief Prahasta at the eastern gate (प्रहस्तं प्रतियोद्धा प्रहस्तस्य सेनापतेः प्रतियोद्धा in _Tilaka_) and assigns Crown Prince Aṅgada to assail Mahāpārśva and Mahodara in the south.
+
+_____________
+
+**6.37.28 (Hanumān Assigned to the Western Gate)**
+
+Highlighting the epithet अप्रमेयात्मा (“of unfathomable spirit”), both _Tilaka_ and _Bhūṣaṇa_ remark on its strategic propriety (तदेवौचित्यमाह): Hanumān alone is the fitting match for the arch-illusionist Indrajit stationed at the western gate (मायाविन इन्द्रजितोऽयमेवार्ह इति भावः).
+
+_____________
+
+**6.37.29 (Introduction to Rāma's Personal Vow Against Rāvaṇa)**
+
+_Śiromaṇi_ and _Bhūṣaṇa_ connect verses 29–31 as a single syntactic period (श्लोकत्रयमेकान्वयि) explaining why Rāma reserves the northern gate for himself: Rāvaṇa is a base tyrant (क्षुद्रः क्षुद्रबुद्धिः) who delights in persecuting (विप्रकारः पीडा; वधः in _Tilaka_) both demons and righteous ascetics.
+
+_____________
+
+**6.37.30–31 (Rāma Claims the Northern Gate Against Rāvaṇa)**
+
+Completing the sentence begun in verse 29, _Tilaka_ and _Śiromaṇi_ gloss धृतः as bound by a firm vow (कृतप्रतिज्ञः; कृतनिश्चयोऽहम्): because Rāvaṇa roams the worlds harassing all beings, Rāma himself, accompanied by Lakṣmaṇa, will crush the northern gate where Rāvaṇa is stationed.
+
+_____________
+
+**6.37.32 (The Allied Central Reserve)**
+
+Reading गुल्मो भवतु मध्यमः, Govindarāja explains that Sugrīva, Jāmbavān, and Vibhīṣaṇa constitute the central army division (मध्यमसेना भवत्वित्यर्थः) positioned between the northern and western gates to support the fronts facing the two deadliest foes, Rāvaṇa and Indrajit (बलवद्भ्यां रावणेन्द्रजिद्भ्यामधिष्ठितयोरुत्तरपश्चिमयोः मध्यमगुल्मो भवत्वित्यर्थः).
+
+_____________
+
+**6.37.33 (Forbidding Monkeys to Assume Human Form)**
+
+Because both _vānaras_ and _rākṣasas_ are shape-shifters (कामरूपित्वात्), _Tilaka_, _Śiromaṇi_, and _Bhūṣaṇa_ explain that if the monkeys assumed human form in battle, friend could not be distinguished from foe (स्वीयपरकीयविवेकासंभवात्). Rāma therefore establishes a battle-convention (संज्ञा संकेतः): all monkeys must fight in their native simian form.
+
+_____________
+
+**6.37.34–35 (The Seven Combatants in Human Form)**
+
+Explaining why simian form serves as a reliable badge of identity (आत्मीयत्वज्ञापकं भविष्यति), Govindarāja notes that arrogant _rākṣasas_ would disdain to assume monkey shapes (वानरत्वन्तु जघन्यतया न ते भजिष्यन्तीति भावः). Conversely, only seven allies fight in human form: Rāma, Lakṣmaṇa, and Vibhīṣaṇa accompanied by his four counselors (मन्त्रिचतुष्टयसहितो विभीषण इत्यर्थः), whom _Kataka_ notes adopt human guise to conceal their _rākṣasa_ features from the monkeys (परेषामपरिज्ञानाय च).
+
+_____________
+
+**6.37.36 (Resolving to Ascend Mount Suvela)**
+
+Sighting the charming slopes of Mount Suvela (रमणीयतरं दृष्ट्वा सुवेलस्य गिरेस्तटम्), Rāma decides to climb it first to survey Laṅkā (सौन्दर्यावलोकनमेव तदारोहणहेतुः in _Bhūṣaṇa_). On the reading बुद्धिं चकार मतिमान् मतिम्, _Tilaka_ cites Tīrtha (अर्थनिर्धारणं मतिरिति तीर्थः), while Govindarāja takes बुद्धिः as an _ārṣa_ form for बुद्धिमान् (मतुप्लोप आर्षः).
+
+_____________
+
+**6.37.37 (Advancing Toward Suvela and Textual Note)**
+
+To avoid tautology between the two occurrences of महात्मा in verse 37, _Śiromaṇi_ and _Bhūṣaṇa_ gloss the first as noble-minded (महाबुद्धिः) and the second as mighty in fortitude (महाधृतिरिति द्वितीयमहात्मशब्दार्थः), while _Tilaka_ notes that _Kataka_ considered this closing _śloka_ an interpolation (भ्रान्ता इति कतककृत्).
+</details>
 </details>
 

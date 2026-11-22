@@ -78,6 +78,14 @@ continued the legend of Vishvamitra to Rama. [1-64-1]
 
 “O Rambhā, this supreme task of the gods (_surakāryam idam sumahat_) must be accomplished by you: the seduction here of Kauśika (_lobhanaṃ kauśikasyeha_), steepening him in the infatuation of desire (_kāmamohasamanvitam_)!”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.1–2 (lobhanam & vrīḍitā)**
+
+**Rāma Varmā (_Tilaka_)** glosses _lobhanam_ as _pratāraṇam_ (beguilement) and _kāmamohena_ as _kāmaśūnyena_ or distraction born of desire, whereas **Govindarāja (_Bhūṣaṇa_)** and **Śiromaṇi** explain it as _kāmakṛtavaicittyena samanvitam_ (accompanied by the mental bewilderment produced by passion). Why does Rambhā feel shame (_vrīḍitā_) in v. 2? All three commentators explain that her bashfulness arises from having to confess her inability to execute her sovereign’s command (_asāmarthyavacananimittā vrīḍā_, **Tilaka**; _aśakyakāryakathananimittalajjāvatī_, **Govindarāja**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,6 +193,14 @@ to accord forbearance.' So said Rambha to Indra. [1-64-3, 4a]
 
 “O Lord of the Gods, this great sage Viśvāmitra is fierce in nature (_ghoraḥ_); without a doubt, O God, he will unleash his terrible wrath upon me (_krodham utsrakṣyate ghoraṃ mayi_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.3–5 (prasādam & mā bhaiṣī rambhe)**
+
+Pleading that the fierce sage (_ghoraḥ atitīkṣṇasvabhāvaḥ_, **Śiromaṇi**) will surely hurl his wrath upon her, Rambhā begs for _prasādam_—which **Tilaka** and **Govindarāja** gloss specifically as release from this perilous commission (_evaṃniyogābhāvarūpam_ / _niyoganivṛttirūpam_). **Tilaka** notes that even under the present-tense reading _utsṛjate_ (adopted by **Govindarāja**), the sense is future (_utsrakṣyata ity evārthaḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -242,6 +258,14 @@ in fear and making palm fold in supplication. [1-64-4b, 5a]
 
 **5:** —the Thousand-Eyed Indra spoke to her as she stood trembling with folded hands (_vepamānāṃ kṛtāñjalim_): “Fear not, O Rambhā (_mā bhaiṣī rambhe_)! May good betide you; carry out my command (_kuruṣva mama śāsanam_)!
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.5 (vepamānām)**
+
+Seeing her still trembling with folded hands despite her plea, Indra reassures her with the auspicious benediction _bhadraṃ te_ and promises personal accompaniment in the next verse.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -297,6 +321,14 @@ black-songbird will be at your side along with Love-god in the pleasing trees of
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Becoming a heart-captivating cuckoo (_kokilo hṛdayagrāhī_) amid the lovely-blossoming trees in the month of Mādhava (spring, _mādhave ruciradrume_), I myself, accompanied by Kandarpa (the god of love, _kandarpasahitaḥ_), shall stand by your side (_sthāsyāmi tava pārśvataḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.6–7 (kokilo hṛdayagrāhī & bahuguṇam)**
+
+**Rāma Varmā (_Tilaka_)** and **Govindarāja** construe _kokilaḥ_ in apposition with _aham_ (Indra himself becoming a cuckoo in spring, _mādhave vasante kokilo bhūtvāham_), whereas **Śiromaṇi** supplies _sthāsyati_ for the cuckoo and notes the implied miracle that spring itself manifests out of season to aid her (_vasanto ’pi tadānīṃ sthitaḥ prāpsyati_). On _bahuguṇam_, **Tilaka** glosses _hāvabhāvādiguṇopetam_ (endowed with amorous graces and gestures) and **Govindarāja** _śṛṅgāraceṣṭāguṇāḥ_.
 </details>
 </details>
 
@@ -396,6 +428,14 @@ damsel she started to entice Vishvamitra with giggly grins. [1-64-8]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing his command, that graceful nymph of radiant smile (_lalitā śucismitā_) assumed an unsurpassed form (_kṛtvā rūpam anuttamam_) and sought to entice Viśvāmitra (_lobhayām āsa viśvāmitram_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.8–9 (lalitā & samprahṛṣṭena manasā)**
+
+**Tilaka** explains _lalitā_ technically as possessing the dramatic grace known as _lalita_ (_lalitākhyabhāvayuktā_). Why did Viśvāmitra’s mind feel a surge of delight (_samprahṛṣṭena manasā_) in v. 9? **Tilaka** observes that even a sage experiences a momentary reflex of pleasure upon encountering an enchanting sensory object (_kamanīyaviṣayasāmānyadarśanato harṣaḥ_), specifically from hearing the cuckoo’s sweet note (**Govindarāja**).
 </details>
 </details>
 
@@ -498,6 +538,14 @@ is on his qui vive. [1-64-10]
 
 Then, at that cuckoo’s call, at her peerless song (_gītenāpratimena ca_), and at the sight of Rambhā (_darśanena ca rambhāyāḥ_), the sage fell into doubt and reflection (_muniḥ saṃdeham āgataḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.10 (saṃdeham āgataḥ)**
+
+All three commentators explain the nature of Viśvāmitra’s doubt: “Has she come here by chance of her own accord, or has she been dispatched by Indra to shatter my penance?” (_svata evāsyā yadṛcchayāgamanam utendrapreritāyā mattapobhaṅgārtham_, **Tilaka**).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -556,6 +604,14 @@ cursed Rambha. [1-64-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Ascertaining through his meditative insight that all this was the doing of the Thousand-Eyed Indra (_sahasrākṣasya tat sarvaṃ vijñāya_), the foremost of sages, the son of Kuśika, filled with wrath (_krodhasamāviṣṭaḥ_), cursed Rambhā:
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.11–12 (vijñāya & kāmakrodhajayaiṣiṇam)**
+
+**Rāma Varmā (_Tilaka_)** explains that Viśvāmitra ascertained Indra’s plot both by logical inference from the unseasonal music and by yogic meditation (_yuktyā dhyānena ca vijñāya_). Notice the tragic irony in v. 12: in the very act of declaring himself one who strives to conquer passion and anger (_kāmakrodhajayaiṣiṇam_), he succumbs to anger! **Tilaka** remarks that this proves wrath is even harder to conquer than lust (_etena kāmād api krodho durjaya iti sūcitam_).
 </details>
 </details>
 
@@ -654,6 +710,14 @@ of Brahma. Even though Vishvamitra is at loggerheads with Vashishta, he holds Va
 
 “A _brāhmaṇa_ of supreme spiritual radiance, endowed with the power of austerity (_brāhmaṇaḥ sumahātejās tapobalasamanvitaḥ_), shall deliver you, O Rambhā (_uddhariṣyati rambhe tvām_), who have been defiled by my wrath (_matkrodhakaluṣīkṛtām_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.13 (brāhmaṇaḥ sumahātejāḥ)**
+
+Why does Viśvāmitra immediately grant a means of redemption (_śāpamokṣa_)? All three commentators observe that once his initial burst of fury subsided, he realized it was unjust to punish a servant acting under her master’s orders (_svāmiparatantrāyāḥ kim asyāḥ śāpeneti paścād anugṛhṇāti_, **Govindarāja**; _krodhavegena kartākartṛvivekābhāvaḥ_, **Tilaka**). Following _Kataka_ (_‘vasiṣṭha ity artha iti katakaḥ’_, **Tilaka**), all three identify this future _brāhmaṇa_ redeemer as Brahmā’s son Vasiṣṭha (_brahmaputro vasiṣṭhaḥ_, **Govindarāja**, **Śiromaṇi**).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,6 +786,14 @@ wisdom, Son of Bharata! - Sir Edwin Arnold.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, the great sage Viśvāmitra of mighty splendour, unable to restrain his wrath (_aśaknuvan dhārayituṃ kopam_), fell into burning remorse within himself (_saṃtāpam ātmanaḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.14–15 (saṃtāpam & sa ca nirgataḥ)**
+
+**Tilaka** supplies _upāgataḥ_ to govern _saṃtāpam_ (burning remorse over the loss of his ascetic merit, _tapovyayajanyaduḥkhena saṃtāpaṃ paścāttāpam_). In v. 15d, _sa ca_ denotes Indra fleeing in shame alongside Kandarpa.
 </details>
 </details>
 
@@ -829,6 +901,14 @@ he has no peace of mind owing to ungovernable senses. [1-64-16]
 
 When his store of austerity had thus been robbed away by wrath (_kopena ca tapo ’paharaṇe kṛte_), that sage of mighty splendour found no peace of mind (_na lebhe śāntim ātmanaḥ_), O Rāma, because his senses remained unconquered (_indriyair ajitaiḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.16 (indriyair ajitaiḥ)**
+
+Why are Viśvāmitra’s senses called ‘unconquered’ (_ajitaiḥ_) when he resisted Rambhā’s seduction? **Rāma Varmā (_Tilaka_)** explains that in v. 16a _ca_ includes passion alongside wrath (_kopena cāt kāmena ca_): his initial flash of delight at seeing Rambhā caused a slight loss of merit, and his subsequent fury destroyed the rest (_kāmakrodhahatatvād evājitair indriyaiḥ_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -880,6 +960,14 @@ His conscience became sentimental owing to the divesture of his ascetical merit,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When his austerity had been thus despoiled, this resolve arose in his mind (_babhūvāsya manaścintā_): “Never again shall I give way to wrath (_naivaṃ krodhaṃ gamiṣyāmi_), nor shall I utter a word in any wise (_na ca vakṣye kathaṃcana_)!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.17–18 (na ca vakṣye & nocchvasiṣyāmi)**
+
+In the Southern Recension’s solemn soliloquy (vv. 17–20), **Tilaka** and **Śiromaṇi** gloss _na ca vakṣye_ as refraining from any harsh or cursing speech (_śāpādivacanam_), while **Govindarāja** takes it as a vow of total silence (_maunam eva kariṣyāmi_) and unbroken breath-retention (_kevalaṃ kumbhakaṃ kariṣyāmi_), since passions arise only when the vital breath moves (_ucchvāsena khalu krodhādayo bhaviṣyanti_).
 </details>
 </details>
 
@@ -983,6 +1071,14 @@ will not undergo any deterioration.' So said Vishvamitra to himself. [1-64-19]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Until such time as Brahminhood, won through austerity, is attained by me (_tāvad yāvad hi me prāptaṃ brāhmaṇyaṃ tapasārjitam_), I shall abide for countless years without breathing and without eating (_anucchvasann abhuñjānas tiṣṭheyaṃ śāśvatīḥ samāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**64.19–20 (nahi ... kṣayaṃ yāsyanti mūrtayaḥ)**
+
+Foreseeing by his _trikālajñatva_ (**Śiromaṇi**) and ascetic power (_tapoyogabalāt_, **Tilaka**) that his bodily limbs (_mūrtayaḥ śarīrāvayavāḥ_, **Tilaka**, **Govindarāja**; _dehākṛtayaḥ_, **Śiromaṇi**) will not perish despite fasting and breathlessness, Viśvāmitra undertakes his peerless thousand-year consecration (_dīkṣām_).
 </details>
 </details>
 

@@ -91,6 +91,14 @@ their heart of hearts. [1-31-1]
 
 Then, having accomplished their purpose (_kṛtārthau_), those two joyful heroes Rāma and Lakṣmaṇa (_muditau vīrau rāmalakṣmaṇau_) spent that night there (_tāṃ rajanīṃ tatra ūṣatuḥ_) with deeply gladdened hearts (_prahṛṣṭenāntarātmanā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.1–2 (Transition from Ojas to Śrī & Morning Rites)**
+
+Opening the new narrative arc, **Rāma Varmā (_Tilaka_)** and **Govindarāja (_Bhūṣaṇa_)** observe that Viśvāmitra, having blessed Rāma through the martial splendor (_svaujaḥsambandha_) of slaying the sacrifice-destroyers, now initiates the journey to Mithilā to unite him with Goddess Lakṣmī incarnate as Janaka’s daughter (_svīyalakṣmīśaktisambandhānugrahāya pravartate_, **Tilaka**; _janakasutātvenāvatīrṇayā śriyā rāmaṃ yojayitum_, **Govindarāja**). **Śiromaṇi** explains _muditau_ as causative in sense (_pramodasya dātārau_). At dawn, after completing their morning rites (_kṛtapaurvāhṇikakriyau_), the inseparable brothers (_sahitau_, **Govindarāja**) approach Viśvāmitra in the sacrificial hall.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -196,6 +204,14 @@ is akin to the ritual-fire, they two spoke this highly courteous sentence to him
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having reverently saluted that foremost of sages (_abhivādya muniśreṣṭham_), who blazed like a flaming fire (_jvalantam iva pāvakam_), the two sweet-spoken princes (_madhurabhāṣiṇau_) spoke words of supreme nobility (_ūcatuḥ paramodāraṃ vākyam_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.3–4 (imau sma kiṅkarau — Unbounded Devotion to the Guru)**
+
+Under the Southern reading _imau sma_, **Govindarāja** takes _sma_ as a past particle signifying “we have executed every command given thus far” (_ājñāpitaṃ sarvam anuṣṭhitavantau_), while under _imau svaḥ_ (**Śiromaṇi**, Baroda CE), it is the dual present of _as_. Calling themselves _kiṅkarau_ (“servants bought by devotion,” **Govindarāja**), the princes offer themselves unconditionally without waiting to be summoned.
 </details>
 </details>
 
@@ -310,6 +326,14 @@ at the helm of affairs. [1-31-5]
 
 When those words had been spoken by the two princes (_evam ukte tayor vākye_), all the great sages (_sarva eva maharṣayaḥ_), placing Viśvāmitra at their head (_viśvāmitraṃ puraskṛtya_), addressed this speech to Rāma (_rāmaṃ vacanam abruvan_):
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.5 (viśvāmitraṃ puraskṛtya)**
+
+**Tilaka** glosses _viśvāmitraṃ puraskṛtya_ as “having obtained Viśvāmitra’s prior consent” (_kṛtaviśvāmitrānumatikāḥ_), while **Govindarāja** notes that the sages speak with Viśvāmitra as their spokesman (_viśvāmitramukhā eva_).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -369,6 +393,14 @@ of Mithila is going to take place, and we the sages are going over there. [1-31-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O best of men (_naraśreṣṭha_), a supremely righteous sacrifice (_yajñaḥ paramadharmiṣṭhaḥ_) of Janaka, the lord of Mithilā (_maithilasya janakasya_), is about to take place (_bhaviṣyati_); we shall journey there (_tatra yāsyāmahe vayam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.6–7 (paramadharmiṣṭhaḥ & dhanūratnam)**
+
+Inviting Rāma to Mithilā, the sages praise Janaka’s sacrifice as _paramadharmiṣṭhaḥ_ (“most rich in _dharma_”). **Tilaka** offers an alternative parsing by splitting _parama_ as an independent vocative addressed to Rāma (“O Lord in whom Supreme Śrī abides!”—foreshadowing Sītā). **Govindarāja** adds that the sacrifice is supreme because it culminates in service to the Lord (_bhagavatkaiṅkaryarūpatvena_).
 </details>
 </details>
 
@@ -504,6 +536,14 @@ earlier king of Mithila as a boon of Vedic-ritual.
 
 “For in days of yore, O best of men (_tad dhi pūrvaṃ naraśreṣṭha_), that terrible bow of immeasurable might (_aprameyabalaṃ ghoram_), supremely radiant (_paramabhāsvaram_), was bestowed by the gods in the sacrificial assembly at a great rite (_dattaṃ sadasi daivataiḥ makhe_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.8 (dattaṃ sadasi daivataiḥ — Bestowal on Devarāta)**
+
+**Tilaka** and **Śiromaṇi** explain that in ancient times, at the sacrifice of Janaka’s ancestor Devarāta (_devarātākhyaprācīnahanakasya yajñe_), the gods—headed by Lord Śiva, who had been propitiated after the destruction of Dakṣa’s sacrifice (_dakṣayajñadhvaṃse prasāditāc chivāl labdham_)—bestowed this bow of unfathomable weight (_aprameyabalam iyattārahitabalam atiguru_) in the sacrificial assembly.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -558,6 +598,14 @@ and for human beings, not in any way. [1-31-9]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Neither gods nor gandharvas, neither asuras nor rākṣasas (_nāsya devā na gandharvā nāsurā na ca rākṣasāḥ_), are able to string it (_kartum āropaṇaṃ śaktā_), nor by any means can mortal men (_na kathañcana mānuṣāḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.9–10 (kartum āropaṇam & Avoidance of Pūrvatāpakarṣadoṣa)**
+
+All three commentators gloss _āropaṇam_ as stringing the bow so as to discharge arrows (_śaraprakṣepayogyajyāsaṃyogaḥ_). Addressing why “mortal men” (_mānuṣāḥ_) are mentioned after gods and demons in v. 9, **Śiromaṇi** explains that because ancient human emperors like Nahuṣa possessed prowess surpassing even celestials (_manuṣyeṣv api nahuṣādiṣu adhikaparākramaśruteḥ_), the verse is free from the poetic blemish of anticlimax (_apakarṣadoṣa_).
 </details>
 </details>
 
@@ -672,6 +720,14 @@ king of Mithila and his highly admirable Vedic ritual too, if you come with us.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There, O tiger among men, O Kākutstha (_tatra naraśārdūla kākutstha_), you shall behold that bow of the high-souled lord of Mithilā (_tad dhanur maithilasya mahātmanaḥ drakṣyasi_), as well as his supremely wondrous sacrifice (_yajñaṃ ca paramādbhutam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.11–12 (sunābham & Purāṇic Origins of Śiva’s Bow)**
+
+On v. 11, **Tilaka** remarks that _ca_ in _yajñaṃ ca_ implicitly includes the winning of Jānakī’s hand (_cakāreṇa jānakīsvīkārasamuccayaḥ_). All three commentators gloss _sunābham_ as “having a shapely central grip” (_śobhanamuṣṭibandhasthānam_). **Tilaka** and **Śiromaṇi** cite the _Padma Purāṇa_ (_cāpaṃ śambhor layād abhūt_) and _Kūrma Purāṇa_ (_prītaś ca bhagavān īśas triśūlī nīlalohitaḥ / pradadau śatrunāśārthaṃ janakāyādbhutam dhanuḥ_) to confirm that Śiva and the gods bestowed the bow upon Janaka’s lineage as the reward of sacrifice (_yajñaphalam_).
 </details>
 </details>
 
@@ -796,6 +852,14 @@ a variety of sandalwood pastes, scents of aloe substance, and with incenses." [1
 
 “Abiding as an object of sacred worship in the palace of that king, O Rāghava (_āyāgabhūtaṃ nṛpates tasya veśmani rāghava_), it is venerated with diverse fragrant unguents and aloe-scented incense (_arcitaṃ vividhair gandhair dhūpaiś cāgurugandhibhiḥ_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.13 (āyāgabhūtam — Worshipped as a Household Deity)**
+
+Preserved in the Southern Recension, v. 13 describes how the bow is venerated in Janaka’s palace with sandal-paste and aloe-scented incense. **Tilaka** and **Śiromaṇi** gloss _āyāgabhūtam_ as “installed as a sacred deity to be worshipped on all sides” (_yajanīyadevatābhūtam_; cf. _nyāsabhūtam_), while **Govindarāja** explains it as the chief object of worship during the bow-festival (_dhanurutsave prādhānyena yaṣṭavyam_).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -851,6 +915,14 @@ Rama and Lakshmana. [1-31-14]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus (_evam uktvā_), that best of sages (_munivaraḥ_), accompanied by the host of rishis and by Kākutstha (_sarṣisaṅghaḥ sakākutsthaḥ_), took leave of the forest deities (_āmantrya vanadevatāḥ_) and set out on his journey (_prasthānam akarot tadā_):
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.14–15 (siddhaḥ siddhāśramād aham)**
+
+Bidding farewell to the forest goddesses (_vanadurgādyāḥ_), Viśvāmitra announces that with his sacrifice fulfilled (_siddhaḥ nirvighnayajñasiddhyā_) he will travel to Himavat on the northern bank of the Gaṅgā—a route passing directly through Mithilā (**Govindarāja**).
 </details>
 </details>
 
@@ -968,6 +1040,14 @@ northern side of River Ganga. [1-31-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, that tiger among sages (_ity uktvā muniśārdūlaḥ_), Kauśika rich in ascetic penance (_kauśikaḥ sa tapodhanaḥ_), set out to journey toward the northern quarter (_uttarāṃ diśam uddiśya prasthātum upacakrame_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.16–17 (śakaṭīśatamātram — The Hundred Wagons of the Sages)**
+
+As Viśvāmitra heads north, he is followed by _śakaṭīśatamātram_—explained by all three commentators by metonymy (_lakṣaṇā_) as a hundred carts loaded with the sages’ sacred Agnihotra vessels and sacrificial implements (_śakaṭyāropitāgnihotrasambhārādikam_, **Tilaka**, **Govindarāja**; _yāgasāmagrīpūritaśakaṭīśatam_, **Śiromaṇi**). **Govindarāja** notes that _śatamātram_ (“only a hundred”) implies that the remaining ascetics and their retinue stayed behind at Siddhāśrama.
 </details>
 </details>
 
@@ -1089,6 +1169,14 @@ is the guest at these woodlands.
 
 Even the flocks of deer and birds dwelling in Siddhāśrama (_mṛgapakṣigaṇāś caiva siddhāśramanivāsinaḥ_) followed behind the high-souled Viśvāmitra rich in penance (_anujagmur mahātmānaṃ viśvāmitraṃ tapodhanam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.18–19ab (mṛgapakṣigaṇāḥ & nivartayām āsa)**
+
+Out of deep devotion to Viśvāmitra (_tadbhaktyā_, **Govindarāja**), even the deer and birds of Siddhāśrama trail after him. In the Southern Recension’s opening line of v. 19, the sage turns back the birds and deer (_sapakṣiṇaḥ_ / _pakṣisaṅghān mṛgān api_), which, as **Tilaka** and **Govindarāja** observe, confirms that the human sages continued onward with him.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1167,6 +1255,14 @@ fire ritual, and then squatted before sage Vishvamitra. [1-31-20b, 21a]
 
 **20:** When the sun had set (_te ’staṃ gate dinakare_), those sages of immeasurable spiritual splendor (_amitaujasaḥ_), having bathed and offered oblations into the sacred fire (_snātvā hutahutāśanāḥ_), seated themselves with Viśvāmitra at their head (_viśvāmitraṃ puraskṛtya niṣeduḥ_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.19cd–20 (śoṇākūle & astaṃ gate dinakare)**
+
+Why is the river called _Śoṇā_ in the feminine? **Govindarāja** explains that the masculine river Śoṇa (_puṃnadaḥ_) is also idiomatic in the feminine as _Śoṇā_, whereas **Tilaka** argues from Sarga 32 that _Śoṇā_ here denotes the distinct river flowing past Girivraja. **Tilaka** also glosses _astaṃ gate_ in v. 20 desideratively as “when the sun was about to set” (_astaṃ jigamiṣati_) to suit the twilight bath and Agnihotra.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1228,6 +1324,14 @@ intellectual Vishvamitra. [1-31-21b, 22a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rāma too, together with Sumitrā’s son Lakṣmaṇa (_rāmo ’pi sahasaumitriḥ_), having reverently saluted those sages (_munīṃs tān abhipūjya ca_), seated himself in front of the wise Viśvāmitra (_agrato niṣasādātha viśvāmitrasya dhīmataḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.21–22 (munīṃs tān abhipūjya & kautūhalasamanvitam)**
+
+After the evening fire-oblations on the bank of the Śoṇā, Rāma and Lakṣmaṇa pay homage to the assembled sages (_abhipūjya praṇāmādikaṃ vidhāya_, **Śiromaṇi**; _abhivādya_, **Govindarāja**) and sit before Viśvāmitra as attentive disciples. In v. 22, the Southern reading _kautūhalasamanvitam_ construes adverbially with the act of questioning (or as _kautūhalasamanvitaḥ_ in Baroda CE and **Govindarāja**/**Śiromaṇi**, qualifying Rāma).
 </details>
 </details>
 
@@ -1335,6 +1439,14 @@ Thus Rama asked Vishvamitra.[1-31-23b, 24a]
 
 “O revered Lord, what region is this (_bhagavan ko nv ayaṃ deśaḥ_), resplendent with prosperous groves (_samṛddhavanaśobhitaḥ_)? I wish to hear of it—may auspiciousness attend you (_śrotum icchāmi bhadraṃ te_)! You ought to recount it in truth (_vaktum arhasi tattvataḥ_).”
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.23 (ko nv ayaṃ deśaḥ)**
+
+Gazing upon the lush forest-groves along the riverbanks (**Tilaka**, **Govindarāja**), Rāma asks to hear the true history (_tattvataḥ_) of the region. Under **Śiromaṇi**’s variant _kasya deśo ’yam_ (“Whose realm was this?”), Rāma specifically inquires into the royal dynasty that ruled over this land.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1401,6 +1513,14 @@ that place. [1-31-24b, c]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Prompted by Rāma’s words (_codito rāmavākyena_), that sage of noble vows and great penance (_suvrataḥ mahātapāḥ_) began to narrate in the midst of the rishis (_kathayām āsa ṛṣimadhye_) the entire history of that region (_tasya deśasya nikhilam_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**31.24 (tasya deśasya nikhilam)**
+
+Prompted by Rāma’s question, Viśvāmitra prepares to recount in the midst of the sages what **Tilaka** supplies as the entire glory (_vaibhavam_) of that land and **Govindarāja** and **Śiromaṇi** supply as its complete chronicle—the royal chronicle of his own ancestors beginning with King Kuśa.
 </details>
 </details>
 

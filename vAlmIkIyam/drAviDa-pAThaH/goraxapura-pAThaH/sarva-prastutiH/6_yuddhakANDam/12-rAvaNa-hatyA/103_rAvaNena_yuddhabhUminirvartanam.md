@@ -85,6 +85,14 @@ fight, flew into a great rage.
 
 Having heard that speech uttered by Lakṣmaṇa, that valorous Rāghava, slayer of hostile heroes (_paravīraghnaḥ_), took up his bow and fitted an arrow.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**1–2.**
+
+**Śivasahāya** (_Śiromaṇi_) links the opening verse and a half as a single syntactic unit (राघवः धनुरादाय संदधे शरान् रावणाय विससर्ज च सार्धश्लोक एकान्वयी), depicting Rāma's immediate martial response to Lakṣmaṇa's exhortation. **Govindarāja** (_Bhūṣaṇa_) introduces this sarga as the great battle fought after Rāma ascends Indra's divine chariot (अथेन्द्ररथमारुह्य संग्रामोऽभिधीयते). **Rāma Varmā** (_Tilaka_) observes that the phrase अथान्यं रथम् (`another chariot') reconciles Rāvaṇa's earlier flight from the field with the resumption of combat at midday on the first lunar day of Āśvina (आश्विनप्रतिपन्मध्याह्ने एतद्युद्धप्रवृत्तिः), noting also the Purāṇic episode where the monkeys disrupt Rāvaṇa's victory sacrifice at Nikumbhilā (निकुम्भिलायामारब्धहोमकर्मणो वानरद्वारा हिंसनं पुराणान्तरोचितम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,6 +175,14 @@ torrents from the sky.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He rushed toward Kākutstha as Svarbhānu [Rāhu] rushes at the sun; standing in his chariot, Daśagrīva struck Rāma with thunderbolt-like arrows, as a raincloud pelts a great mountain with torrents (_dhārābhiḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**3–4.**
+
+**Śivasahāya** traces the reciprocal volley: standing high on his fresh chariot, Rāvaṇa assaults Rāma like Rāhu charging the sun and a storm-cloud battering a mountain peak (रथस्थो दशग्रीवः रामं शरैराजघान), while Rāma, unwavering in concentration, counters with a fiery rain of gold-feathered shafts (रामः दशग्रीवं शरैरभ्यवर्षत्).
 </details>
 </details>
 
@@ -270,6 +286,14 @@ the battle-field and endured them as rays of the sun.
 
 “This battle between Rāma standing on the ground (_bhūmau sthitasya_) and the rākṣasa mounted in a chariot is not equal (_na samam_)!”—so declared the gods, gandharvas, and kinnaras.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**5–6.**
+
+**Śivasahāya** explains the celestial outcry over the asymmetry between the pedestrian prince and the chariot-borne demon (भूमौ स्थितस्य रथस्थस्य च युद्धं समं तुल्यं न इति देवादय आहुः), which moves Indra to summon his charioteer Mātali (शक्रः तेषां देवादीनां वचोऽमृतं श्रुत्वा मातलिं स्वसारथिमाहूय इदमब्रवीत्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -369,6 +393,14 @@ with bloom in a forest.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Go swiftly with my chariot to the best of the Raghus, who stands upon the ground (_bhūmiṣṭham_); having gone to the earth and invited him, perform a great service for the gods (_devahitaṃ mahat_)!”
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**7–9.**
+
+**Rāma Varmā** (_Tilaka_) glosses Indra's mandate: Mātali must speed to earth, address Rāma respectfully, inform him that the king of the gods sends this chariot, and thus accomplish a great work for heaven (भूतलं यातः प्राप्ताहूय रघूत्तमं संबोधनपूर्वकं देवराजरथोऽयमिति बोधयित्वा महद्देवहितं कुरु). **Śivasahāya** (_Śiromaṇi_) construes Mātali's reply and action across four half-verses (अहं हयैः स्यन्दनोत्तमं संयोज्य यास्यामि सारथ्यं करोमि करिष्यामि च इति मातलिरब्रवीत् अर्धचतुष्टयमेकान्वयि).
 </details>
 </details>
 
@@ -526,6 +558,14 @@ Dasaratha spoke the following harsh words to Ravana.
 
 Then that supreme chariot of the king of the gods—its body wondrously wrought of gold (_kāñcanacitrāṅgaḥ_), adorned with hundreds of small bells, gleaming like the newly risen sun, with a pole of cat&#x27;s-eye gem (_vaidūryamayakūbaraḥ_), yoked with noble steeds wearing golden crests and white yak-tail plumes (_śvetaprakīrṇakaiḥ_)—
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**10–11.**
+
+**Govindarāja** (_Bhūṣaṇa_) and **Śivasahāya** unite verses 10–12 into a single period (तत इत्यादि सार्धश्लोकत्रयमेकान्वयम्). Citing _Amarakośa_, Govindarāja explains कूबरः as the wooden shaft supporting the yoke (कूबरः युगाधारदारु कूबरस्तु युगंधर इत्यमरः) and श्वेतप्रकीर्णकैः as white yak-tail plumes (श्वेतचामरैः चामरं तु प्रकीर्णकमित्यमरः), while **Rāma Varmā** similarly glosses काञ्चनापीडैः स्वर्णाभरणैः श्वेतप्रकीर्णकैः सितचामरालंकारवद्भिः. Govindarāja renders हरिभिः as emerald-bay steeds (हरितवर्णैः) and रुक्मवेणुध्वजः as bearing a golden-staffed standard (कनकदण्डध्वजः).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -625,6 +665,14 @@ away from me, you think: �I am a champion'."
 
 —commanded by the king of the gods, Mātali mounted that chariot and, descending from heaven (_triviṣṭapāt_), approached Kākutstha.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**12.**
+
+**Rāma Varmā** clarifies the sequence of commands: Indra's earlier order prompted the readying of the chariot, and his renewed mandate sends Mātali descending to the mortal world (पूर्वाज्ञया रथसज्जीकरणं पुनराज्ञया मनुष्यलोकं प्रति चलनमिति बोध्यम्).
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -686,6 +734,14 @@ posing as a hero in relation to women without a protector, you think: "I am a ch
 
 Standing on the chariot with goad in hand (_sapratodaḥ_), Mātali, the charioteer of the thousand-eyed [Indra], joined his palms (_prāñjaliḥ_) and then spoke this word to Rāma:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**13.**
+
+**Govindarāja** (_Bhūṣaṇa_) defines प्रतोदः as the wooden goad used for urging horses (प्रतोदः अश्वप्रेरणकाष्ठम्), and **Śivasahāya** (_Śiromaṇi_) pictures Indra's charioteer standing respectfully with goad in hand and palms joined in _añjali_ as he addresses Rāma (सप्रतोदः तोत्रसहितः सहस्राक्षस्य सारथिः प्राञ्जलिस्सन् राममब्रवीत्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,6 +795,14 @@ champion'."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Kākutstha of mighty spirit, O glorious crusher of foes (_śatrunibarhaṇa_), this chariot has been given to you by the thousand-eyed [Indra] for your victory!
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**14–16.**
+
+**Śivasahāya** construes verses 14–16 as a single connected address (श्लोकत्रयमेकान्वयि): this chariot standing before you, attended by me as driver, has been bestowed by Indra for your triumph, along with the bow and other celestial weapons; therefore mount it and slay Rāvaṇa just as Mahendra slew the Dānavas (रथमारुह्य महेन्द्रो दानवानिव रावणं जहि). **Rāma Varmā** (_Tilaka_) notes that the passive participle दत्तम् (`given') carries over from verse 14 (इदं दत्तमित्यनुषज्यते), while **Govindarāja** remarks that its gender and number must be adjusted to match each item—bow, armor, shafts, and spear (अत्र चापादिषु यथायोग्यं दत्त इत्येतल्लिङ्गवचनविपरिणामेन योजनीयम्).
 </details>
 </details>
 
@@ -888,6 +952,14 @@ your way at all, for having taken away Seetha like a thief."
 
 Thus addressed, Rāma circumambulated (_samparikramya_) that chariot and saluted it, and then ascended it, illuminating the worlds with his splendor (_lakṣmyā_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**17–18.**
+
+Honoring the divine gift through circumambulation and reverence, Rāma mounts the chariot, inaugurating a true _dvairatha_ (chariot-to-chariot) combat.
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -997,6 +1069,14 @@ dispatch you to the world of Death, by my sharp arrows, today."
 
 Supreme knower of missiles (_paramāstravit_), that Rāghava struck down the rākṣasa king&#x27;s Gāndharva missile with the Gāndharva missile, and his divine missile (_daivam_) with the divine missile.
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**19–20.**
+
+Having ascended Indra's chariot, Rāma displays his mastery of counter-missiles (_astranivāraṇa_): when Rāvaṇa hurls the illusion-weaving Gāndharva missile and the celestial Daiva missile, Rāma effortlessly annuls each with its exact counterpart. Enraged by the failure of both, Rāvaṇa resorts to his native demonic arsenal (अस्त्रं राक्षसम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1097,6 +1177,14 @@ arrow-tips."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Those gold-adorned arrows discharged from Rāvaṇa&#x27;s bow turned into highly venomous serpents (_sarpā bhūtvā mahāviṣāḥ_) and rushed toward Kākutstha.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**21–23.**
+
+The poet vividly portrays the metamorphosis of Rāvaṇa's gold-decked shafts into fiery, open-jawed serpents matching the king of nāgas, Vāsuki, in lethal virulence (वासुकिसमस्पर्शैः). With blazing hoods (दीप्तभोगैः) and flame-spewing mouths, the ophidian swarm chokes both the main compass points (दिशः) and the intermediate quarters (विदिशः).
 </details>
 </details>
 
@@ -1242,6 +1330,14 @@ two-fold, when he longed for the death of his enemy in battle.
 
 Beholding those serpents hurtling forward in battle, Rāma brought forth (_prāduścakre_) the dreadful, fearsome missile of Garuḍa (_astraṃ gārutmatam_).
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**24.**
+
+**Govindarāja** (_Bhūṣaṇa_) glosses प्रादुश्चक्रे simply as `deployed, discharged' (प्रादुश्चक्रे प्रयुयुजे): seeing the sky darkened by oncoming serpents, Rāma invokes the natural mythic nemesis of all nāgas, the missile presided over by Garuḍa (अस्त्रं गारुत्मतम्), preparing to devour the demonic brood in mid-air.
+</details>
 </details>
 
 <details><summary>सर्वाष् टीकाः - अवतारिका</summary>
@@ -1302,6 +1398,14 @@ in his excessive enthusiasm, Rama of extra-ordinary energy became all the more s
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Discharged from Rāghava&#x27;s bow, those gold-feathered arrows gleaming like fire (_śikhiprabhāḥ_) turned into golden Garuḍas (_suparṇāḥ kāñcanāḥ_) and roamed about as foes of serpents.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**25–26.**
+
+**Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) gloss शिखिप्रभाः as radiant like fire (अग्निप्रभाः), and Govindarāja explains सुपर्णाः as Garuḍas (सुपर्णाः गरुडाः). **Śivasahāya** (_Śiromaṇi_) traces how Rāma's gold-feathered shafts transform into golden eagles roaming the sky (काञ्चनाः शराः सुपर्णा गरुडा भूत्वा विचेरुः) and annihilate Rāvaṇa's swift serpent-missiles (सुपर्णरूपा रामस्य विशिखाः सर्परूपान् शरान् जघ्नुः).
 </details>
 </details>
 
@@ -1400,6 +1504,14 @@ arrows coming from Rama, Ravana felt bewildered at heart.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When his missile was repelled (_astre pratihate_), Rāvaṇa, overlord of rākṣasas, grew enraged and then showered Rāma with dreadful rains of arrows.
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**27–28.**
+
+**Śivasahāya** notes that upon the neutralization of his demonic missile, Rāvaṇa vents his fury in a torrential arrow-storm upon Rāma (अस्त्रे प्रतिहते सति क्रुद्धो रावणः शरवृष्टिभिः राममभ्यवर्षत्); having harassed Rāma with a thousand shafts, he turns a dense volley against Indra's charioteer (शरौघेण मातलिमिन्द्रसारथिं प्रत्यविध्यत).
 </details>
 </details>
 
@@ -1516,6 +1628,20 @@ battle-front.
 **29:** Aiming at the banner (_ketum uddiśya_), Rāvaṇa severed it with a single arrow, felling that golden standard from the chariot onto the chariot-floor (_rathopasthe_).
 
 **30:** With a net of arrows Rāvaṇa also struck Indra&#x27;s steeds (_aindrān aśvān_); the gods, gandharvas, and cāraṇas, together with the dānavas, sank into dejection (_viṣeduḥ_).
+</details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**29.**
+
+**Govindarāja** links verses 29 and 30a as a single syntactic sentence (चिच्छेदेत्यादिसार्धश्लोकमेकं वाक्यम्), explaining केतुम् as the banner-cloth (ध्वजपटम्) and रथात् as from the chariot's flagstaff (रथावयवदण्डात्). **Rāma Varmā** similarly notes that Rāvaṇa's single targeted shaft severs the emblem and drops it from the upper chariot onto the floor (रथाद्रथोर्ध्वदेशाद्रथोपस्थे पातयित्वा).
+
+_____________
+
+**30–31.**
+
+**Śivasahāya** (_Śiromaṇi_) observes that when Rāvaṇa fells the banner and batters Indra's steeds with a mesh of shafts, gods and dānavas alike despair (ऐन्द्रानश्वानपि शरजालेनाभिजघान अत एव दानवैस्सह देवादयो विषेदुः), while the siddhas and monkey leaders grieve upon seeing Rāma appear hard-pressed (आर्तं आर्तत्वेन प्रतीयमानं रामं दृष्ट्वा सिद्धादयो व्यथिता बभूवुः).
 </details>
 </details>
 

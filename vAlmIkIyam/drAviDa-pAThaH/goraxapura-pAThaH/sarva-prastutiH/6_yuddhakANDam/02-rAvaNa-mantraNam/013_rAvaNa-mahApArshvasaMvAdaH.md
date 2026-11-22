@@ -701,6 +701,80 @@ enraged Brahma spoke to me the following words:
 
 “And that [outrage], I surmise (_manye_), became known just so to that magnanimous one (_tasya mahātmanaḥ_); thereupon the enraged Creator (_saṃkupito vedhāḥ_) spoke this word to me:
 </details>
+
+
+<details><summary>टीका-notes (Gemini 4, itihasa.io)</summary>
+
+**6.13.1–2 (Sycophantic Counsel)**
+
+Observing Rāvaṇa enraged by Kumbhakarṇa's blunt critique (कुम्भकर्णोक्तनयापरिज्ञानवचनेन), Mahāpārśva reflects that if even a brother's just counsel provokes wrath, speaking unpleasant truth would cost his head, and therefore resolves to speak flatteringly (मनोनुकूलमेव वाच्यमिति संचिन्त्य). Both **Rāma Varmā** (_Tilaka_) and **Govindarāja** (_Bhūṣaṇa_) explain the forest-honey parable: entering Rāma's perilous hermitage (मृगव्यालनिषेवितं वनम्) and seizing Sītā without enjoying her is like finding honey (मधु क्षौद्रम्) and foolishly leaving it undrunk.
+
+_____________
+
+**6.13.3–4 (The Rooster's Way)**
+
+Dismissing moral scruples, **Rāma Varmā** notes that Rāvaṇa rules even Yama (यमादीनामपि त्वमीश्वरः), while **Govindarāja** also detects ironic _dhvani_ urging Rāvaṇa to bow his head to Rāma (शिरसा प्रणम्य). On कुक्कुटवृत्तेन (`after the manner of a rooster'), both cite Vātsyāyana (कुक्कुटीनां कामिकुक्कुटसंयोगे क्रोधो जातिधर्मः and प्रसह्यामाक्रम्य भोगस्तु कौक्कुटः): though hens resist in anger, the cock forcibly mounts his mate.
+
+_____________
+
+**6.13.5–6 (Martial Confidence)**
+
+**Rāma Varmā** distinguishes प्राप्तकालम् (danger met while vigilant) from अप्राप्तकालम् (danger arising during careless indulgence). Even without Rāvaṇa taking the field, Kumbhakarṇa and Indrajit can repel thunderbolt-armed Indra (सवज्रमपि वज्रिणम्).
+
+_____________
+
+**6.13.7–8 (Championing Force over Diplomacy)**
+
+Rejecting Vibhīṣaṇa's plea for conciliation, Mahāpārśva spurns gifts (उपप्रदानम्), gentle words (सान्त्वम्), and dissension (भेदम्) in favor of military force (दण्डेन बलात्कारेण). Whereas **Rāma Varmā** (_Tilaka_) and **Śivasahāya** (_Śiromaṇi_) read कुशलैः कृतम् (`even when employed by skilled statesmen'), **Govindarāja** (_Bhūṣaṇa_) reads अकुशलैः कृतम्, explaining that only those weak in battle resort to gifts (युद्धासमर्थैः कृतं दानादिकम्), and notes that इह प्राप्तान् (`arrived here at Laṅkā') counters Nikumbha's proposal to march abroad.
+
+_____________
+
+**6.13.9–10 (Divulging the Ancient Secret)**
+
+Applauding Mahāpārśva's congenial words (स्वचित्तानुगुणयुक्तमिति श्लाघयन्), Rāvaṇa reveals a secret (रहस्यम्) which, as **Rāma Varmā** notes, is normally unfit for public disclosure (प्रकटीकर्तुमयोग्यमपि) yet necessary to explain why he cannot force Sītā (बलादुपभोगस्याशक्यकरणतानिमित्तम्).
+
+_____________
+
+**6.13.11 (The Apsaras Puñjikasthalā)**
+
+All three commentators explain चञ्चूर्यमाणाम् as the Apsaras Puñjikasthalā darting furtively through the sky in fear of Rāvaṇa (भीत्या निलीय गच्छन्तीम्). **Govindarāja** details its intensive _yaṅ_ derivation from √चर् (चरफलोश्च, उत्परस्यातः) and notes a variant संचार्यमाणाम् (`escorted by attendants').
+
+_____________
+
+**6.13.12–13 (The Ravishing of Puñjikasthalā)**
+
+Stripped and violated by Rāvaṇa (विवसनां कृत्वा सा मया भुक्ता), Puñjikasthalā reached Brahmā's court like a lotus-plant trampled by an elephant (लोलिता नलिनी यथा). **Rāma Varmā** (_Tilaka_) cites **Kataka** in taking मन्ये as a verb-formed particle denoting certainty (मन्ये शङ्के ध्रुवं प्रायो निश्चयार्था अमी मताः इति कतकः), whereas **Govindarāja** (_Bhūṣaṇa_) infers from मन्ये (`I surmise') that Rāvaṇa only heard the curse afterward and surmised her complaint (धर्षणश्रवणं तु मया ऊहितम्).
+
+_____________
+
+**6.13.14–15 (Brahmā's Curse and Nalakūbara's)**
+
+Brahmā decreed that Rāvaṇa's head would split into a hundred pieces (शतधा मूर्धा फलिष्यति विशीर्णो भविष्यति) the moment he forced another woman. **Rāma Varmā** reconciles this with Nalakūbara's similar curse over Rambhā (नलकूबरशापोऽपि रम्भानिबन्धनः श्रूयते) by noting that Brahmā's curse could not be blunted by Rāvaṇa's asceticism. **Govindarāja** construes प्रसभम् with शापस्य to avoid tautology with बलात्.
+
+_____________
+
+**6.13.16 (Boast of Self-Sufficiency)**
+
+**Govindarāja** observes that after excusing his restraint toward Sītā, Rāvaṇa boasts of his ocean-like onset and wind-like speed to dismiss Mahāpārśva's offer of Kumbhakarṇa's aid (मयि विद्यमाने किमन्येन).
+
+_____________
+
+**6.13.17–18 (The Sleeping Lion and Double-Tongued Shafts)**
+
+Boasting of his prowess, Rāvaṇa asks who would dare rouse him when he rests like a lion asleep in a mountain cave (गिरिगुहाशये सुप्तं सिंहमिव) or wrathful Death (क्रुद्धं मृत्युमिवासीनम्); **Govindarāja** (_Bhūṣaṇa_) supplies सुप्तम् with मृत्युम् as well. In 6.13.18, **Rāma Varmā** (_Tilaka_) takes present न पश्यति in a past sense (न पश्यति स्म, `has never seen'), and **Govindarāja** notes the pun (_śleṣa_) in द्विजिह्वान्: two-tongued serpents and double-barbed arrows (द्विशिखाननतावर्णा द्योतयितुम्).
+
+_____________
+
+**6.13.19–20 (Firebrands and the Rising Sun)**
+
+**Govindarāja** explains the martial simile in 6.13.19: Rāvaṇa will scorch Rāma (आदीपयिष्यामि सन्तापयिष्यामि) with shafts as men brandish flaming torches to rout a charging elephant (कुञ्जरपलायनार्थमुल्काः प्रदर्शयन्तीति प्रसिद्धिः). In 6.13.20, **Śivasahāya** (_Śiromaṇi_) glosses आदास्ये as `I shall blot out' (परिनाशयिष्यामि) like the rising sun effacing starlight, while **Govindarāja** alternatively derives it from √दो (`to cut down', खण्डयिष्ये).
+
+_____________
+
+**6.13.21 (Conquest of Kubera's Citadel)**
+
+Claiming invincibility against Indra and Varuṇa in battle (युधा संग्रामेण), Rāvaṇa boasts of wresting Laṅkā from Vaiśravaṇa—which, **Rāma Varmā** observes, indicates Brahmā originally granted Laṅkā, like Puṣpaka, to Kubera (पुष्पकवल्लङ्कापि भगवता कुबेराय दत्तेति सूचितम्).
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
