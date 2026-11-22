@@ -27,6 +27,14 @@ to give a token of remembrance to be handed over to Rama, she gives him a jewel 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's request, Hanūmān narrates in full the secret token of recognition told by Sītā: how on Mount Citrakūṭa a crow repeatedly tore at her breast until her blood awakened the sleeping Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु हनुमान् राघवेण महात्मना ।  
@@ -348,6 +356,14 @@ princess, who was being ceaselessly tormented by the crow."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘And by the queen, who was thus continually tormented (satataṃ bādhyamānayā) by that crow, you who were sleeping happily (sukhasuptaḥ) were awakened, O scorcher of foes!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Furious as a venomous serpent at seeing Sītā's bleeding breast, Rāma spots Indra's son disguised as a crow and charges a blade of darbha grass with the Brahmāstra.
 </details>
 </details>
 
@@ -683,6 +699,14 @@ end facing the bird."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pursued across the three worlds by the blazing grass-blade and forsaken by the gods, the crow falls at Rāma's feet; Rāma spares his life in return for his right eye.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं प्रदीप्तं चिक्षेप दर्भं तं वायसं प्रति ।  
@@ -1009,6 +1033,14 @@ are the foremost among the wielders of missiles, though courageous and possessed
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘—the crow, released (visṛṣṭaḥ) at that time, returned to his own abode (pratipede svam ālayam). Thus you are the foremost of those skilled in missiles (astravidāṃ śreṣṭhaḥ), endowed with might and noble character alike (sattvavāñ śīlavān api)!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding Sītā's tearful plea—asking why Rāma and Lakṣmaṇa, who punished even Indra's son for her sake, do not Loose their missiles upon the Rākṣasas—Hanūmān awaits Rāma's reply.
 </details>
 </details>
 
@@ -1347,6 +1379,14 @@ Seetha the following words:
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān recounts how he consoled Sītā—swearing that Rāma and Lakṣmaṇa would soon burn Laṅkā and slay Rāvaṇa—and requested a token of recognition, whereupon she untied her braid-jewel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वच्छोकविमुखो रामो देवि सत्येन ते शपे ॥ २५ ॥  
@@ -1652,6 +1692,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Untying the crest-jewel from her garment, Sītā places it in Hanūmān's hands; seeing him swell in size for his return leap, she weeps and calls him fortunate to behold Rāma and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य मणिं दोर्भ्यां तव हेतो रघुप्रिय ॥ ३१ ॥  
@@ -1837,6 +1885,14 @@ together with his ministers and all others about their welfare."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Hanūmān offers to carry her on his back to Rāma, Sītā declines out of wifely dharma—refusing to touch another male voluntarily—and gives her parting charge.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतयाप्येवमुक्तोऽहमब्रुवं मैथिलीं तथा ।  
@@ -1962,6 +2018,14 @@ Comprehending this matter spoken by me, believe that Seetha is completely safe."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘And as for my having been touched on my limbs by the Rākṣasa formerly (purā ca yad ahaṃ... spṛṣṭā gātreṣu rakṣasā), O hero—what could I do in that matter (tatrāhaṃ kiṃ kariṣyāmi),when overpowered by fate (kālenopanipīḍitā)?’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Repeating Sītā's final benediction—wishing Hanūmān an auspicious journey and begging Rāma to rescue her from the ocean of sorrow—Hanūmān urges Rāma to trust that she is safe and whole.
 </details>
 </details>
 

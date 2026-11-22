@@ -13,6 +13,14 @@ title = "०७८ आभरण-लाभः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Folding his palms in reverence before Agastya, the celestial being introduces himself as Śveta, elder son of King Sudeva of Vidarbha, recounting how he inherited the throne from his father and ruled his subjects righteously for thousands of years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु भाषितं वाक्यं मम राम शुभाक्षरम् ।  
@@ -218,6 +226,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Discerning the approach of death from an omen, Śveta crowns his brother Suratha, practices three thousand years of severe penance by the forest lake, and attains Brahmaloka—only to be tormented by hunger and thirst and question Grandfather Brahmā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं निमित्ते कस्मिंश्चिद् विज्ञातायुर्द्विजोत्तम ।  
@@ -380,6 +396,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Yet even as I dwelt in heaven, O foremost of brahmins, hunger and thirst tormented me (tasya me svarga-bhūtasya kṣut-pipāse ... bādhete), O supremely noble one; my senses anguished thereby (vyathitendriyaḥ), I went to the Grandfather, foremost in the three worlds, and spoke (gatvā tribhuvana-śreṣṭhaṃ pitāmaham uvāca ha):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā decrees that because Śveta practiced solitary penance while never offering even the smallest gift of food to any guest or ascetic, he must feed upon his own well-nourished corpse—until the mighty sage Agastya arrives in that forest to deliver him.
 </details>
 </details>
 
@@ -589,6 +613,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Brahmā’s assurance that Agastya can save even the gods, Śveta recounts how his corpse has never diminished across long ages of eating; recognizing his guest as the pitcher-born sage, he offers him a wish-fulfilling divine ornament to secure his release.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि तारयितुं सौम्य शक्तः सुरगणानपि ।  
@@ -769,6 +801,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For this ornament yields gold, wealth, and garments, O twice-born one (idaṃ tāvat suvarṇaṃ ca dhanaṃ vastrāṇi ca dvija), as well as foods both solid and soft, O brahmin-sage, and ornaments besides (bhakṣyaṃ bhojyaṃ ca brahmarṣe dadāty ābharaṇāni ca).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved by Śveta’s sorrowful entreaty, Agastya accepts the matchless ornament for his deliverance; at that very instant the royal sage’s former mortal body vanishes, and Śveta, wholly sated and overjoyed, ascends happily to heaven.
 </details>
 </details>
 

@@ -29,6 +29,14 @@ entity of Manmatha, the Love-god, at this place.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak Viśvāmitra awakens Rāma upon his couch of leaves with the immortal call ‘Kausalyā suprajā Rāma’; after morning devotions, the princes behold the Gaṅgā–Sarayū confluence.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां विश्वामित्रो महामुनिः ।  
@@ -383,6 +391,14 @@ There they also beheld a sacred hermitage (tatrāśramapadaṃ puṇyam) belongi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prompted by the princes’ eager inquiry, Viśvāmitra smiles and narrates how Kandarpa (Kāma) dared to assail Lord Sthāṇu (Śiva) in meditation here and was reduced to ashes by Rudra’s fiery eye.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा परमप्रीतौ राघवौ पुण्यमाश्रमम् ।  
@@ -706,6 +722,14 @@ editions have this as *dagdhasya tasya raudreNa chakShuShA*
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra explains the etymology of Anaṅga (‘Bodiless’) and the Aṅga country where Kāma shed his limbs, and proposes that they lodge for the night at the sacred hermitage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र गात्रं हतं तस्य निर्दग्धस्य महात्मनः ।  
@@ -999,6 +1023,14 @@ be comforting to us." So said Vishvamitra to Rama and Lakshmana. [1-23-17, 18a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having bathed, completed our silent prayers, and offered oblations into the sacred fire (snātāś ca kṛtajapyāś ca hutahavyā narottama).” Even as they were conversing thus there (teṣāṃ saṃvadatāṃ tatra), with their far-seeing eye of asceticism (tapodīrgheṇa cakṣuṣā)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Welcomed with arghya, pādya, and hospitality by the clairvoyant sages of Kāmāśrama, Viśvāmitra and the two princes perform evening sandhyā and pass the night in delightful discourse.
 </details>
 </details>
 

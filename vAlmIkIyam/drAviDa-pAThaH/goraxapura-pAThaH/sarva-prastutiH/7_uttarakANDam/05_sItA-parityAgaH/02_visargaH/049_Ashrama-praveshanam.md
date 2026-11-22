@@ -13,6 +13,14 @@ title = "०४९ आश्रम-प्रवेशनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Sītā weeping by the river, the young sons of the sages hasten to Vālmīki, bow at his feet, and beg him to receive and honor a distressed lady resembling fallen Śrī who seeks refuge near his hermitage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतां तु रुदतीं दृष्ट्वा ते तत्र मुनिदारकाः ।  
@@ -202,6 +210,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving the truth through his ascetic vision, Vālmīki hastens on foot with a guest-offering to the Gaṅgā’s bank, greets the grief-stricken Sītā with soothing words, and declares that his yogic meditation has revealed her coming.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रातारमिच्छते साध्वी भगवंस्त्रातुमर्हसि ।  
@@ -365,6 +381,14 @@ Unto that Sītā, afflicted by the heavy burden of grief (śoka-bhārārtām), V
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Your arrival was already known to me (āyāntī cāsi vijñātā mayā) through meditation rooted in dharma (dharma-samādhinā), and the entire cause thereof (kāraṇaṃ caiva sarvam) has been discerned within my heart (me hṛdayenopalakṣitam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring Sītā utterly sinless through his ascetic sight, Vālmīki bids her accept his guest-offering without grief under the motherly care of nearby female ascetics; bowing at his feet, Sītā follows him to where the sages’ wives joyfully greet them.
 </details>
 </details>
 
@@ -556,6 +580,14 @@ Hearing those exceedingly wondrous words of the sage (bhāṣitaṃ ... muneḥ 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding the sage approaching together with Vaidehī (munim āyāntaṃ vaidehyā), the wives of the sages (muni-patnayaḥ) came forward filled with joy (upājagmur mudā yuktāḥ) and spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Greeted by the female ascetics who ask his bidding, Vālmīki introduces the sinless Sītā as Rāma’s queen and entrusts her repeatedly to their supreme affection and honor before returning with his disciples to his hermitage.
 </details>
 </details>
 

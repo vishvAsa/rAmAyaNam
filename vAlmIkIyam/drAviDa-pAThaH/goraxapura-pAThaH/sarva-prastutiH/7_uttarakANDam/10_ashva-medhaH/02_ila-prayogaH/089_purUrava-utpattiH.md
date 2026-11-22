@@ -13,6 +13,14 @@ title = "०८९ पुरूरव-उत्पत्तिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Amazed by the origin of the Kimpuruṣas, Lakṣmaṇa and Bharata listen as Rāma continues the tale of Prajāpati Kardama’s son: seeing the companions dispersed, Budha smiles and courts Ilā as Soma’s beloved son, and she freely yields herself to his command.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा किम्पुरुषोत्पत्तिं लक्ष्मणो भरतस्तथा ।  
@@ -205,6 +213,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Ilā’s consent, Budha passes the entire spring month of Mādhava with her as though it were a single moment; when the month ends, Ila awakens as a man upon a couch, sees Budha in water-austerity, and bewilderedly asks what became of his army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तदद्भुतप्रख्यं श्रुत्वा हर्षमुपागतः ।  
@@ -391,6 +407,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To keep Śiva’s curse concealed, Budha invents a tale that a hail of stones destroyed Ila’s troops while the king slept in the hermitage; heart-stricken, Ila declares he cannot rule without his fallen followers and asks leave to return and install his eldest son Śaśabindu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अश्मवर्षेण महता भृत्यास्ते विनिपातिताः ।  
@@ -549,6 +573,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Protesting that he cannot bear to abandon or bring grim tidings to his retainers’ households, Ila is gently persuaded by Budha to remain for a single year with the promise of securing his highest good, and the king consents to stay.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि शक्ष्याम्यहं हित्वा भृत्यदारान् सुखान्वितान् ।  
@@ -645,6 +677,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing those words of Budha of untiring deeds (budhasyākliṣṭa-karmaṇaḥ), he set his mind upon dwelling there (vāsāya vidadhe buddhim), just as that expounder of the Veda had declared (yad uktaṃ brahma-vādinā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alternating monthly between delighting Budha as a lovely woman and studying dharma as a man, Ilā gives birth in the ninth month to the mighty Purūravas, placing him at once in his father’s hands, while Budha entertains the male Ila with dharmic discourses until the year ends.
 </details>
 </details>
 

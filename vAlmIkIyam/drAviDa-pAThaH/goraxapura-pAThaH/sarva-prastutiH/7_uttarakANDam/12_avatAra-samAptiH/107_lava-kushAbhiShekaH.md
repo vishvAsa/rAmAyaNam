@@ -13,6 +13,14 @@ title = "१०७ लव-कुशाभिषेकः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grief-stricken after relinquishing Lakṣmaṇa, Rāma announces his plan to consecrate Bharata as Ayodhyā’s king and depart that very day; the citizens collapse prostrate, and Bharata swoons before swearing he rejects both kingdom and heaven without Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसृज्य लक्ष्मणं रामो दुःखशोकसमन्वितः ।  
@@ -201,6 +209,14 @@ And Bharata lost consciousness upon hearing Rāma’s speech (bharataś ca visa�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata urges Rāma to crown Kuśa and Lava over the two Kosala realms and summon Śatrughna swiftly; seeing the citizens prostrate in silent grief, Vasiṣṭha bids Rāma lift them up and grant their heartfelt wish.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमौ कुशीलवौ राजन्न्  
@@ -369,6 +385,14 @@ At Vasiṣṭha’s word (vasiṣṭhasya tu vākyena), raising up the multitude
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that their sole wish is to follow Rāma with their wives and children wherever he goes—to forest, wilds, river, or ocean—the citizens appeal to him as Lord; honoring their devotion, Rāma assents with a single “So be it!”
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वाः प्रकृतयो रामं वचनमब्रुवन् ।  
@@ -490,6 +514,14 @@ Then all the subjects spoke these words to Rāma (sarvāḥ prakṛtayo rāmaṃ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This is our highest joy (eṣā naḥ paramā prītiḥ), this is our supreme boon (eṣa naḥ paramo varaḥ); ever lodged in our hearts is our delight (hṛdgatā naḥ sadā prītiḥ) in following you, O king (tavānugamane nṛpa)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consecrating Kuśa over southern Kosala and Lava over northern Kosala right in Ayodhyā, Rāma seats his sons on his lap, embraces and kisses them repeatedly, endows each with vast royal armies, dispatches them to their capitals, and sends envoys to Śatrughna.
 </details>
 </details>
 

@@ -27,6 +27,14 @@ lukewarm in the matter and insistent on implementing the words of his deceased f
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma ceases speaking on the bank of the Mandākinī, righteous Bharata extols his peerless equanimity in sorrow and joy, his detachment toward existence and non-existence, and his godlike omniscience.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु विरते रामे वचनमर्थवत् ।  
@@ -296,6 +304,14 @@ promise, all-knowing, all-viewing and endowed with understanding."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Possessed of strength and pure goodness equal to the immortals (amaropama-sattvaḥ), you are great-souled and true to your word (satya-saṅgaraḥ); you are omniscient (sarvajñaḥ), all-seeing (sarva-darśī), and endowed with supreme wisdom, O Rāghava!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disavowing the sin committed by Kaikeyī during his absence and declaring that only dharma restrains him from punishing her, Bharata asks what righteous man would sacrifice dharma and artha merely to please a woman.
 </details>
 </details>
 
@@ -617,6 +633,14 @@ woman?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet what man conversant with dharma (dharmavit), O knower of dharma, would commit such a sinful act (karma kilbiṣam) bereft of both dharma and worldly welfare (dharmārthayor hīnam), merely out of a desire to please a woman (striyāḥ priyaṃ cikīrṣuḥ san)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the ancient proverb that creatures fall into delusion at the hour of death, Bharata urges Rāma to prove himself a true son by reversing their father’s rash error and abandoning matted locks for Kṣatriya rule.
 </details>
 </details>
 
@@ -943,6 +967,14 @@ where is the protection of a kingdom? You ought not to do such a contradictory a
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Where is the forest wilderness, and where is Kṣatriya sovereignty (kva cāraṇyaṃ kva ca kṣātram)? Where are ascetic matted locks, and where is the protection of subjects (kva jaṭāḥ kva ca pālanam)? You ought not to perform such a self-contradictory deed (vyāhataṃ karma)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arguing that royal consecration is a Kṣatriya’s primary duty and the householder stage is supreme among the four āśramas, Bharata protests that he is junior in learning, rank, and birth and cannot live without Rāma.
 </details>
 </details>
 
@@ -1275,6 +1307,14 @@ Inferior in intellect and virtues (hīna-buddhi-guṇaḥ), a mere youth, and in
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imploring Rāma to let Vasiṣṭha and the priests consecrate him on the spot like Indra among the Maruts, Bharata urges him to discharge the three debts, rout his foes, wipe away Kaikeyī’s reproach, and save Daśaratha from sin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं निखिलमप्यग्रयं राज्यं पित्र्यमकण्टकम् ।  
@@ -1598,6 +1638,14 @@ father from his sin."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Wiping away the public reproach clinging to me and to my mother (ākrośaṃ mama mātuś ca pramṛjya), O bull among men, rescue today our revered father (tatrabhavantaṃ ca pitaram) from sin (kilbiṣāt)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing his head, Bharata vows to dwell in the forest with Rāma if his plea is rejected; as Rāma remains unmoved in filial fidelity, the assembly feels simultaneous sorrow and joy while the priests, guild-leaders, and mothers join the entreaty.
 </details>
 </details>
 

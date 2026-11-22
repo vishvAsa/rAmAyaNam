@@ -29,6 +29,14 @@ disturbed.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the deep, exultant roar of the monkey hosts shaking the salt ocean, Rāvaṇa grows alarmed before his ministers and orders his attendants to investigate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तु तुमुलं शब्दं वानराणां महौजसाम् ।  
@@ -310,6 +318,14 @@ Having spoken these words to his ministers, the lord of rākṣasas (rākṣase�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Climbing the city ramparts at Rāvaṇa's command, the rākṣasa scouts behold Rāma and Lakṣmaṇa risen free from the arrow-bonds and return pale with dread.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञायतां तूर्णमेतेषां सर्वेषां च वनौकसाम् ।  
@@ -547,6 +563,14 @@ those unpleasant tidings, saying:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With downcast faces (dīnamukhāḥ), those rākṣasas skilled in speech (vākya-kovidāḥ) dutifully reported the whole of that unwelcome news (tad apriyam) to Rāvaṇa:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning that Rāma and Lakṣmaṇa have snapped Indrajit's boon-born serpent bonds like two elephants breaking their fetters, Rāvaṇa hisses in fury and summons Dhūmrākṣa.
 </details>
 </details>
 
@@ -843,6 +867,14 @@ Having spoken thus, infuriated (saṃkruddhaḥ) and hissing like a serpent (ni�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded by Rāvaṇa to march forth and slay Rāma and the monkeys, Dhūmrākṣa hastens from the palace and rallies a heavily armed host of night-stalkers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलेन महता युक्तो रक्षसां भीमविक्रम ।  
@@ -1105,6 +1137,14 @@ joyously surrounded Dhumraksha.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Those mighty night-stalkers of dreadful form, wearing bells (baddha-ghaṇṭāḥ), roared aloud in high spirits and surrounded Dhūmrākṣa—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounted on his celestial donkey-drawn chariot with wolf- and lion-faced mules, Dhūmrākṣa issues forth laughing from the western gate where Hanūmān stands.
 </details>
 </details>
 
@@ -1415,6 +1455,14 @@ fearful appearance.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As that most dreadful rākṣasa of terrible aspect (bhīma-darśanam) advanced, mounted upon his foremost of chariots yoked with donkeys and harsh-sounding (khara-svanam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Despite vultures clustering on his banner, a screaming headless trunk falling before him, and a rain of blood, Dhūmrākṣa advances to behold Rāma's ocean-like monkey army.
 </details>
 </details>
 

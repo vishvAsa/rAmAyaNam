@@ -26,6 +26,14 @@ mothers.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieved at Rāma’s grassy couch and Lakṣmaṇa’s sleepless vigil, the chieftain Guha entreats Lakṣmaṇa to rest upon a prepared bed, swearing by his truth to guard Rāma and Sītā all night bow in hand.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं जाग्रतमदम्भेन भ्रातुरर्थाय लक्ष्मणम् ।  
@@ -347,6 +355,14 @@ Therefore I myself, bow in hand (dhanuṣpāṇiḥ) along with my kinsmen, shal
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Guha pledges to repel even a fourfold army in his familiar woods, Lakṣmaṇa replies that while Rāma and Sītā lie upon the bare grass, neither sleep nor life’s pleasures can touch him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मेऽस्त्यविदितं किञ्चिद् वनेऽस्मिंश्चरतः सदा ।  
@@ -595,6 +611,14 @@ exile, the king will not live long and the earth will become surely widowed fort
 **11:** He who was obtained through sacred mantras and austerities (mantra-tapasā labdhaḥ) and through diverse ritual endeavours (vividhaiś ca pariśramaiḥ)—he is the sole, cherished son of Daśaratha, endowed with every noble mark matching his sire (sadṛśa-lakṣaṇaḥ).
 
 **12:** Now that he has been banished into exile (asmin pravrājite), the king will not live long (na ciraṃ vartayiṣyati); this earth will surely become widowed (vidhavā medinī) very soon!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Picturing the exhausted women fallen silent in the palace of Ayodhyā, Lakṣmaṇa despairs that Daśaratha, Kausalyā, and Sumitrā can survive the night, grieving above all for Kausalyā, mother of a single hero.
 </details>
 </details>
 
@@ -860,6 +884,14 @@ How indeed shall the vital breaths of the high-souled king continue to sustain h
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that Daśaratha will die without installing Rāma on the throne, Lakṣmaṇa counts those fortunate who will perform the king’s obsequies and dwell in Ayodhyā’s splendid squares and avenues.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनष्टे नृपतौ पश्चात् कौसल्या विनशिष्यति ।  
@@ -1009,6 +1041,14 @@ course of all funeral rites, when the hour has struck.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Fortunate indeed (siddhārthāḥ) are those who, when that fateful hour arrives (tasmin kāle ’py upasthite), will perform all the funeral rites for the departed monarch, our father (pitaraṃ vṛttam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yearning that Daśaratha might yet live until they return from the forest with Rāma true to his vow, Lakṣmaṇa laments until dawn breaks, while Guha weeps like a fever-stricken elephant.
 </details>
 </details>
 

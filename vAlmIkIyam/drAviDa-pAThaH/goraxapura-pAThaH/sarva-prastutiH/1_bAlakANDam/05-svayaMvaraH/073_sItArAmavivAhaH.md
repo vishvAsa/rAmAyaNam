@@ -23,6 +23,14 @@ Let us go there straight, without any introductions and preliminaries.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On the very day King Daśaratha performs his sons’ godāna rite, Bharata’s maternal uncle Yudhājit arrives in Mithilā from Kekaya, having hastened from Ayodhyā to see his nephew.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मिंस्तु दिवसे राजा चक्रे गोदानमुत्तमम् ।  
@@ -262,6 +270,14 @@ adored Yudhaajit well, with full observances. [1-73-6b, 7a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the auspicious Vijaya hour on the following morning, Daśaratha and his four sons, adorned in bridal attire and protective wrist-cords, approach the wedding pavilion, where Vasiṣṭha announces their arrival to Janaka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तामुषितो रात्रिं सह पुत्रैर्महात्मभिः ॥ ७ ॥  
@@ -494,6 +510,14 @@ is calculated correctly and celebrated sacredly.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For only through the union of giver and receiver do all desired ends come to pass (dātṛpratigrahītṛbhyāṃ sarvārthāḥ sambhavanti hi). Fulfill your bounden duty by performing this supreme marriage alliance (svadharmaṃ pratipadyasva kṛtvā vaivāhyam uttamam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that his kingdom is Daśaratha’s own home and that his four daughters already stand radiant like tongues of flame at the foot of the wedding altar, Janaka invites Vasiṣṭha to officiate over Rāma’s nuptials.
 </details>
 </details>
 
@@ -791,6 +815,14 @@ Then the King of the Videhas spoke these words to Vasiṣṭha: “O righteous s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing Viśvāmitra and Śatānanda at the fore, Sage Vasiṣṭha constructs and adorns the wedding altar in the pavilion with sprout-filled golden vessels, conch-cups, parched grain, and darbha grass, and offers the preliminary oblations into the sacred fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेत्युक्त्वा तु जनकं वसिष्ठो भगवानृषिः ॥ १९ ॥  
@@ -943,6 +975,14 @@ effused oblational liquids into that Altar of Fire, with short-handled and long-
 **23:** —and with bowls filled with parched grain and consecrated unbroken rice (lājapūrṇaiś ca pātrībhir akṣatair api saṃskṛtaiḥ). Having strewn it evenly with equal blades of darbha grass according to rule and with sacred mantras (darbhaiḥ samaiḥ samāstīrya vidhivan mantrapūrvakam),—
 
 **24:** —and having established the sacred fire upon that altar with prescribed rites and mantras (agnim ādhāya taṃ vedyāṃ vidhimantrapuraskṛtam), Vasiṣṭha, bull among sages of great splendor, offered oblations into the fire (juhāvāgnau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing Sītā before the sacred fire facing Rāma, King Janaka utters the immortal kanyādāna formula and pours mantra-sanctified water into Rāma’s hand amid celestial drums and showers of flowers, then summons Lakṣmaṇa to wed Ūrmilā.
 </details>
 </details>
 
@@ -1229,6 +1269,14 @@ one can be called first on such occasions...'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka bestows Ūrmilā upon Lakṣmaṇa, Māṇḍavī upon Bharata, and Śrutakīrti upon Śatrughna; guided by Vasiṣṭha, the four princes clasp the hands of the four princesses and circumambulate the sacred fire, the altar, and the king.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमुक्त्वा जनको भरतं चाभ्यभाषत ॥ ३१ ॥  
@@ -1342,6 +1390,14 @@ Kakutstha lineage... without lapse of time take up other ceremonies..." So said 
 **32:** “Clasp the hand of Māṇḍavī with your hand, O delight of the Raghus (gṛhāṇa pāṇiṃ māṇḍavyāḥ pāṇinā raghunandana)!” And the righteous lord of Mithilā also spoke to Śatrughna (śatrughnaṃ cāpi dharmātmā abravīt):
 
 **33:** “O mighty-armed prince, clasp the hand of Śrutakīrti with your hand (śrutakīrter mahābāho pāṇiṃ gṛhṇīṣva pāṇinā)! Gentle are you all, and all of you are steadfast in noble vows (sarve bhavantaḥ saumyāś ca sarve sucaritavratāḥ);—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circumambulating the sages and thrice walking clockwise around the nuptial fire amid celestial showers of flowers, divine kettle-drums, and the songs and dances of Gandharvas and Apsarases, the four princes wed their brides and proceed to their royal pavilion.
 </details>
 </details>
 

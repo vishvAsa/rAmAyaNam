@@ -25,6 +25,14 @@ sinks into his own anguish.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunged into deeper anguish and sighing hotly, Rāma tells Lakṣmaṇa that past sins have ripened into an unbroken chain of sorrows rekindled by Sītā's loss like fire fed with wood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजपुत्रः प्रियया विहीनः  
@@ -394,6 +402,14 @@ fire which flares up in a flash when fuel is added... [3-63-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Picturing the timid Sītā carried through the sky and mangled by blood-drinking demons, Rāma laments her blood-stained breasts, her eclipsed moon-like face, and her osprey-like cries for help.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा नूनमार्या मम राक्षसेन  
@@ -706,6 +722,14 @@ a piteous she-dove, it is definite... [3-63-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bereft of me in the desolate forest (mayā vihīnā vijane vane) and dragged away after being seized by demons (rakṣobhir āhṛtya vikṛṣyamāṇā), she of long, lovely eyes (āyata-kānta-netrā), wretched like a female osprey (kurarīva dīnā), surely uttered a piteous cry (nūnaṃ vinādaṃ... muktavatī)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Sītā's playful laughter on a rock slab beside the Godāvarī, Rāma dismisses the thought that she went alone for lotuses and implores the all-seeing Sun to reveal her fate.
 </details>
 </details>
 
@@ -1045,6 +1069,14 @@ stolen... [3-63-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Sun (āditya bho), knower of what is done and undone in the world (loka-kṛtākṛta-jña), O witness of the true and false deeds of the world (lokasya satyānṛta-karma-sākṣin), whither has my beloved gone, or by whom was she carried off (kva gatā hṛtā vā)? Declare all to me, who am stricken with grief (śaṃsasva me śoka-hatasya sarvam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Rāma implores the omnipresent Wind-god to tell of Sītā, the steadfast Lakṣmaṇa urges him to cast off grief and search with vigor, yet Rāma sinks back into sorrow.
 </details>
 </details>
 

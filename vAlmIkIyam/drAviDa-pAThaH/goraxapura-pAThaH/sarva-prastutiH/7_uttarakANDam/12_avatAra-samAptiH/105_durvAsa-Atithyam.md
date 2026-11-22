@@ -13,6 +13,14 @@ title = "१०५ दुर्वास-आतिथ्यम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Rāma and Kāla converse in strict secrecy, the irascible sage Durvāsas arrives at the palace gate demanding an immediate audience; when Lakṣmaṇa courteously asks him to wait a moment, the sage erupts in fury.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तयोः संवदतोर्दुर्वासा भगवानृषिः ।  
@@ -165,6 +173,14 @@ Hearing the speech of the sage (munes tu bhāṣitaṃ śrutvā), Lakṣmaṇa, 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that, the tiger among seers (ṛṣi-śārdūlaḥ), darkened by wrath (krodhena kaluṣīkṛtaḥ), spoke these words to Lakṣmaṇa, scorching him as it were with his gaze (nirdahann iva cakṣuṣā):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatened with a curse upon the entire kingdom and dynasty, Lakṣmaṇa resolves to accept death alone rather than see all perish; he announces Durvāsas, and Rāma dismisses Kāla to welcome Atri’s son.
 </details>
 </details>
 
@@ -365,6 +381,14 @@ Having saluted that great-souled one blazing as it were with splendor (jvalantam
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words spoken by Rāghava (tad vākyaṃ rāghaveṇoktam), the best of sages, Durvāsas (munivaraḥ ... durvāsāḥ), replied to the lord Rāma (pratyāha ... prabhum): “Listen, O lover of dharma (śrūyatāṃ dharmavatsala)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gladly feeding Durvāsas to break his thousand-year fast, Rāma sees the pleased sage depart; then, recalling Kāla’s dread stipulation regarding Lakṣmaṇa’s intrusion, Rāma sinks into speechless, heartbroken silence.
 </details>
 </details>
 

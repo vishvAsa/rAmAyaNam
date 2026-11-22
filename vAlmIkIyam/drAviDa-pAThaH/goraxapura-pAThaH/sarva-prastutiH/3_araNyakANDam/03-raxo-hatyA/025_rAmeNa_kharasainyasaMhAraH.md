@@ -33,6 +33,14 @@ missile and many other arrows, which will devastate the entire army of Dushana's
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arriving at the hermitage with his vanguard and twelve generals, Khara charges in his chariot like the red planet Mars and assails Rāma with a thousand arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवष्टब्धधनुं रामं क्रुद्धं तं रिपुघातिनम् ।  
@@ -315,6 +323,14 @@ blared a roaring battle cry. [3-25-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, having assailed Rāma of peerless vigour (rāmam apratimaujasam) with a thousand arrows (śara-sahasreṇa) in battle, Khara uttered a mighty roar (mahā-nādaṃ nanāda).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pelted with weapons and arrow-showers by cloud-like demons on chariots, steeds, and elephants, Rāma stands unshaken like a mountain or Mahādeva ringed by His attendants.
 </details>
 </details>
 
@@ -643,6 +659,14 @@ as an ocean would do with the river's onrush. [3-25-12b, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving the demon missiles as the ocean absorbs rivers, blood-smeared Rāma shines like the twilight sun and playfully looses thousands of gold-decked arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तैः प्रहरणैर्घोरैर्भिन्नगात्रो न विव्यथे ॥ १३ ॥  
@@ -933,6 +957,14 @@ With effortless playfulness (līlayā) he discharged shafts feathered with heron
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like fire as they cleave demon bodies, Rāma's countless shafts sever bows, banners, braceleted arms, chariots, elephants, and foot-soldiers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भित्त्वा राक्षसदेहांस्तांस्ते शरा रुधिराप्लुताः ॥ १९ ॥  
@@ -1171,6 +1203,14 @@ cavaliers. And on eliminating infantrymen in that war Rama led them to the abode
 **23:** Steeds in golden trappings (hayān kāñcana-saṃnāhān) yoked to chariots along with their charioteers (ratha-yuktān sasārathīn), elephants with their riders (gajāṃś ca sagajārohān), and horsemen together with their mounts (sahayān sādinas tadā)—
 
 **24:** Rāma's arrows, sped from his bowstring (guṇa-cyutāḥ), severed and pierced (cicchidur bibhiduś caiva); and slaying the foot-soldiers (padātīn) in battle, he dispatched them to the abode of Yama (anayad yama-sādanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cloven by Rāma's iron shafts and toppled like trees uprooted by Garuḍa's wing-wind, the surviving rākṣasas flee in terror to Khara for refuge.
 </details>
 </details>
 
@@ -1455,6 +1495,14 @@ Khara alone seeking shelter. [3-25-30]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rallied by Dūṣaṇa, the rākṣasas charge back with trees, boulders, pikes, and arrow-showers, hemming Rāma in from every cardinal and intermediate quarter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् सर्वान् धनुरादाय समाश्वास्य च दूषणः ।  
@@ -1686,6 +1734,14 @@ and a hair-raising. [3-25-34b, 35a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And hurling showers of trees and showers of rocks (druma-varṣāṇi muñcantaḥ śilā-varṣāṇi), [assailed him]. That battle became wondrous (adbhutam), tumultuous (tumulam), and hair-raising (roma-harṣaṇam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring terribly, Rāma invokes the radiant Gāndharva missile, shrouding the sun in a darkness of arrows and strewing the earth with thousands of slain demons.
 </details>
 </details>
 
@@ -2031,6 +2087,14 @@ And thousands scarce alive were left / Mangled, and gashed, and torn, and cleft.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck down (nihatāḥ), fallen (patitāḥ), gasping with ebbing life (kṣīṇāḥ), severed (chinnāḥ), mangled (bhinnāḥ), and ripped asunder (vidāritāḥ), those rākṣasas were seen here and there by the thousands (tatra tatra sma dṛśyante sahasraśaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn with turbaned heads, braceleted arms, shattered chariots, and pulverized boulders, the battlefield turns dreadful, leaving the surviving demons paralyzed before Rāma.
 </details>
 </details>
 

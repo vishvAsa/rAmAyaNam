@@ -27,6 +27,14 @@ of Hanuma through Jambavanta. Some information about Hanuma is included in the e
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the dejected monkey host, Jāmbavān addresses the silent Hanumān, extolling his parity in might with Sugrīva, Rāma, Lakṣmaṇa, and the great eagle Garuḍa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेकशतसाहस्रीं विषण्णां हरिवाहिनीम् ।  
@@ -343,6 +351,14 @@ even by the yardsticks of his dash and dare, yours too, are unreprovable... [4-6
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Hanumān to recognize his preeminent might, Jāmbavān recounts how the celestial nymph Puñjikasthalā, born under a curse as Kesarī's wife Añjanā, caught the Wind-god's eye.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलं बुद्धिश्च तेजश्च सत्त्वं च हरिपुङ्गव ।  
@@ -592,6 +608,14 @@ broad-eyed lady's auspicious and ochry silk apparel with red rouches... [4-66-12
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “As that large-eyed lady stood upon the mountain summit (sthitāyāḥ parvatasyāgre), the Wind (mārutaḥ) gently (śanaiḥ) drew aside (apāharat) her fair yellow garment with red fringes (vastraṃ pītaṃ raktadaśaṃ śubham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Infatuated by Añjanā's beauty, the Wind-god embraces her, and when she protests in defense of her wifely vow, he assures her that their mental union will produce a mighty son.
 </details>
 </details>
 
@@ -881,6 +905,14 @@ intellect... [4-66-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Because, having embraced you, I have united with you through the mind (manasāsmi gato yat tvām), O glorious lady, a son possessed of valour and endowed with wisdom (vīryavān buddhisampannaḥ) shall be born to you (tava putro bhaviṣyati).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jāmbavān narrates how the infant Hanumān, born in a mountain cave, leapt three hundred yojanas toward the rising sun and had his left jaw fractured by Indra's thunderbolt.
 </details>
 </details>
 
@@ -1181,6 +1213,14 @@ places Valmiki terms him as Hani... nectareous...
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged at seeing his son struck down, the Wind-god ceases to blow across the three worlds until the gods appease him and Brahmā and Indra bestow boons of invulnerability and death at will.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वां निहतं दृष्ट्वा वायुर्गन्धवहः स्वयम् ।  
@@ -1412,6 +1452,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ““And death shall be yours only by your own free will (svacchandataś ca maraṇaṃ tava syāt),” O lord! That same you are the son of Kesarī born in his consort (kesariṇaḥ putraḥ kṣetrajaḥ), of terrible prowess (bhīmavikramaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Hanumān equals his father Vāyu in speed and stands like a second Garuḍa, Jāmbavān contrasts his own bygone feats at Trivikrama's stride and the ocean-churning with Hanumān's present fullness of power.
 </details>
 </details>
 
@@ -1675,6 +1723,14 @@ present time, you alone are endowed with all endowments among us... [4-66-34]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That same I am now old (idānīm ahaṃ vṛddhaḥ) and bereft of my prowess (parihīnaparākramaḥ); at the present time, among us (sāmprataṃ kālam asmākam), you alone are endowed with every excellence (bhavān sarvaguṇānvitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charged by Jāmbavān to rise and stride across the ocean like Lord Viṣṇu taking His three cosmic steps, the Wind-god's son swells with remembered speed and assumes a gigantic form.
 </details>
 </details>
 

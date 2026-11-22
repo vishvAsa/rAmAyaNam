@@ -13,6 +13,14 @@ title = "०७० अयोध्याम् प्रति प्रस्�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Lavaṇa slain, the gods led by Indra and Agni hail Śatrughna and offer him a boon; he asks that divine Mathurā be swiftly populated as a flourishing capital, which the delighted deities grant as Śūrasenā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हते तु लवणे देवाः सेन्द्राः साग्निपुरोगमाः ।  
@@ -214,6 +222,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Pleased at heart (prīta-manasaḥ), the gods said to that Rāghava, “So be it (bāḍham ity eva)! Assuredly this lovely city shall become Śūrasenā (bhaviṣyati purī ramyā śūrasenā), without doubt.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoning his army from the Gaṅgā, Śatrughna begins settling Mathurā in the month of Śrāvaṇa; over twelve auspicious years it blossoms into a crescent-shaped Yamunā metropolis of timely rains, thriving trade, and newly adorned palaces.
 </details>
 </details>
 
@@ -420,6 +436,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And whatever grand white palace had been built of old by Lavaṇa (yac ca tena purā śubhraṃ lavaṇena kṛtaṃ mahat), Śatrughna adorned it too, embellishing that city radiant with varied hues (nānā-varṇopaśobhitām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Mathurā thriving with gardens, wares, and merchants from many lands—rivaling the city of the gods—Śatrughna rejoices in his accomplished mission and, as the twelfth year arrives, resolves to behold Rāma’s feet once more.
 </details>
 </details>
 

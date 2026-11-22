@@ -13,6 +13,14 @@ title = "०२४ शूर्प-णखा-तोषणम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning jubilantly toward Laṅkā, the wicked Rāvaṇa slaughters the kinsmen of every fair maiden and wedded woman he beholds along the way, confining hundreds of weeping daughters of gods, sages, Nāgas, and kings inside Puṣpaka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवर्तमानः संहृष्टो रावणः स दुरात्मवान् ।  
@@ -202,6 +210,14 @@ Daughters of Nāgas and Gandharvas, daughters of great sages (nāga-gandharva-ka
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Radiant as golden nymphs yet trapped like does in a lion’s clutch, the captives fill Puṣpaka with sighs like a pent-up sacrificial fire; dreading slaughter or being devoured, they recall their loved ones and lament aloud.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घकेश्यः सुचार्वङ्‍ग्यः पूर्णचन्द्रनिभाननाः ।  
@@ -373,6 +389,14 @@ Another, crushed with bitter sorrow, reflected (kācid dadhyau suduḥkhārtā):
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping for bereaved sons, parents, and slain husbands, the captive women beseech Death to take them, curse the frailty of the mortal world, and denounce Rāvaṇa’s shameless cruelty as unworthy of his great might.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं नु खलु मे पुत्रो भविष्यति मया विना ॥ १३ ॥  
@@ -509,6 +533,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Alas, persisting in wicked conduct, he does not despise himself (aho durvṛttam āsthāya nātmānaṃ vai jugupsate)! In every way, to be sure, this wicked-souled one’s prowess is fitting enough (sarvathā sadṛśas tāvad vikramo ’sya durātmanaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring abduction of others’ wives unworthy of any hero, the chaste captives curse Rāvaṇa to perish through a woman; heavenly drums and blossoms confirm their curse as he enters Laṅkā, where his weeping sister falls before him.
 </details>
 </details>
 
@@ -698,6 +730,14 @@ At that very moment, a terrifying, shape-shifting rākṣasī (ghorā rākṣas�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Raising up that sister of his and gently consoling her (tāṃ svasāraṃ samutthāpya rāvaṇaḥ parisāntvayan), Rāvaṇa spoke: “What is this, gentle sister (kim idaṃ bhadre)? Speak quickly what you desire to tell me (vaktukāmā ’si me drutam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With tear-choked, reddened eyes, Śūrpaṇakhā upbraids Rāvaṇa for making her a widow by slaying her husband Vidyujjihva among the fourteen thousand Kālakeyas; Ten-Neck gently consoles her with promises of honor and favor.
 </details>
 </details>
 
@@ -893,6 +933,14 @@ Thus addressed by his wailing sister (evam ukto daśagrīvo bhaginyā krośamān
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleading that battle-frenzy blinded him to friend and foe alike, Rāvaṇa resolves to compensate Śūrpaṇakhā by placing her under the care of her maternal cousin Khara, whom he appoints lord over fourteen thousand rākṣasas at her command.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो दशग्रीवो भगिन्या क्रोशमानया ॥ ३१ ॥  
@@ -1024,6 +1072,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There this brother of yours, Khara—your maternal aunt’s son—shall be sovereign (tatra mātṛṣvaseyas te bhrātā ’yaṃ vai kharaḥ prabhuḥ), forever carrying out your command, a night-roamer (bhaviṣyati tavādeśaṃ sadā kurvan niśācaraḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appointing Dūṣaṇa as general under Khara and assigning them fourteen thousand valorous rākṣasas to guard Daṇḍaka at Śūrpaṇakhā’s bidding, Rāvaṇa dispatches them to the forest where Khara establishes an untroubled realm.
 </details>
 </details>
 

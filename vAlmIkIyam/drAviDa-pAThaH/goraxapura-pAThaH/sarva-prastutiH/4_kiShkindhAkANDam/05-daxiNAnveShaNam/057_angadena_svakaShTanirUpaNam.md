@@ -26,6 +26,14 @@ and therefore they resorted to fast-unto-death.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Still distrustful of Sampāti's intentions yet resolved to die swiftly even if devoured, the monkey chiefs carry the vulture down and Aṅgada introduces his royal lineage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकाद् भ्रष्टस्वरमपि श्रुत्वा वानरयूथपाः ।  
@@ -314,6 +322,14 @@ and he became the king later to my grandfather... [4-57-5, 6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada recounts Rāma's exile to Daṇḍaka, Sītā's abduction from Janasthāna, Jaṭāyus's heroic battle against Rāvaṇa, and Rāma's performance of the vulture king's funeral rites.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा कृत्स्नस्य जगत इक्ष्वाकूणां महारथः ।  
@@ -517,6 +533,14 @@ performed by Rama, he departed on a sublime avenue to heavens... [4-57-11]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada narrates Rāma's alliance with Sugrīva, the slaying of Vālin, Sugrīva's consecration as king, and the monkeys' fruitless search for Vaidehī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मम पितृव्येण सुग्रीवेण महात्मना ।  
@@ -703,6 +727,14 @@ the behest of Sugreeva, as with a nightly sunshine Vaidehi is unattainable for u
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus commissioned in Rāma's service (rāmaprayuktās tu) and searching everywhere (mārgamāṇās tatas tataḥ), we do not find Vaidehī, any more than one finds the radiance of the sun by night (rātrau sūryaprabhām iva).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada explains how the month-long deadline elapsed inside Maya's subterranean cavern, compelling the monkeys to fast unto death rather than face the wrath of Rāma and Sugrīva.
 </details>
 </details>
 

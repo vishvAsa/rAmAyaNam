@@ -25,6 +25,14 @@ accepting the crown.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeking to draw Rāma back to Ayodhyā after Bharata has been silenced, the foremost Brāhmaṇa Jābāli advances a materialist argument that every creature is born and dies alone and that parents and home are a mere wayside lodging.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्वासयन्तं भरतं जाबालिर्ब्राह्मणोत्तमः ।  
@@ -298,6 +306,14 @@ man; they are but a resting place. The wise do not become attached to them".
 **5:** Just as a man travelling to another village (grāmāntaraṃ gacchan) may lodge somewhere for a night, and leaving behind that lodging (utsṛjya ca tam āvāsam), sets out again on the following day (pratiṣṭhetāpare ’hani)—
 
 **6:** Even so, O Kākutstha, father, mother, home, and wealth are a mere temporary lodging for mortal men (āvāsa-mātraṃ manuṣyāṇām); wise men do not cling in attachment unto them (sajjante nātra sajjanāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Rāma not to trade his ancestral throne for a thorny path while Ayodhyā awaits him like a single-braided wife, Jābāli argues that a father is a mere biological seed and Daśaratha has dissolved into the elements.
 </details>
 </details>
 
@@ -616,6 +632,14 @@ you are still frustrated over the matter."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That monarch has gone there whither he had to go (gataḥ sa nṛpatis tatra gantavyaṃ yatra tena vai); such is the natural course of mortals (pravṛttir eṣā martyānām), whereas you torment yourself in vain (tvaṃ tu mithyā vihanyase)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mocking ancestral śrāddha offerings as a waste of food and Vedic scriptures as clever charms composed to entice gifts, Jābāli urges Rāma to hold fast only to what is directly perceived and accept the kingdom from Bharata.
 </details>
 </details>
 

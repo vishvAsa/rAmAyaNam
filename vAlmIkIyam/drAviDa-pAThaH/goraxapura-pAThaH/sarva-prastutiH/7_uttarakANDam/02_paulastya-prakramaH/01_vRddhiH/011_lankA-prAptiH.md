@@ -13,6 +13,14 @@ title = "०११ लङ्का-प्राप्तिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning that Rāvaṇa and his brothers have obtained boons from Brahmā, Sumālī casts off his dread of Viṣṇu, ascends from Rasātala with his ministers, embraces Daśagrīva, and rejoices that their long exile is over.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमाली वरलब्धांस्तु ज्ञात्वा चैतान् निशाचरान् ।  
@@ -202,6 +210,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumālī urges Rāvaṇa to reclaim Laṅkā from Kubera by diplomacy, gifts, or force; when Rāvaṇa respectfully refuses to wrong his elder brother, Sumālī falls silent, until Prahasta later approaches him with a reasoned plea.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मदीया च लङ्केयं नगरी राक्षसोषिता ।  
@@ -359,6 +375,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus gently rebuffed by that preeminent lord of rākṣasas (sāmnāpi rākṣasendreṇa pratyākhyāto garīyasā), the rākṣasa [Sumālī], discerning his inner inclination (jñātvā tasya cakīrṣitam), said nothing further at that moment (kiñcin nāha tadā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that heroes know no brotherly sentiment, Prahasta cites the precedent of Aditi and Diti’s sons—how Viṣṇu slew the Daityas to win the three worlds for the gods—and urges Rāvaṇa to follow that ancient path.
 </details>
 </details>
 
@@ -552,6 +576,14 @@ Thus gently rebuffed by that preeminent lord of rākṣasas (sāmnāpi rākṣas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Prahasta’s argument, Rāvaṇa consents, marches that very day with his rākṣasas to Mount Trikūṭa, and dispatches Prahasta as envoy to ask Kubera conciliatorily to surrender Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैतदेको भवानेव करिष्यति विपर्ययम् ।  
@@ -738,6 +770,14 @@ Stationed then upon Mount Trikūṭa (trikūṭasthaḥ sa tu tadā), that night
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering Laṅkā, Prahasta respectfully delivers Daśānana’s plea to Kubera, recalling that Sumālī and the rākṣasas once enjoyed the city and requesting its peaceful restoration; Vaiśravaṇa listens and replies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् भवान् यदि नो ह्यद्य दद्यादतुलविक्रम ।  
@@ -876,6 +916,14 @@ _________________
 **29:** “Therefore this plea is now respectfully submitted by him (tena vijñāpyate so ’yaṃ sāmpratam), O son of Viśravas (viśravātmaja): pray give up this city peacefully, dear lord (tad eṣā dīyatāṃ tāta ... sāmataḥ), unto him who asks for it (yācatas tasya)!”
 
 **30:** Having thoroughly heard those words from Prahasta (prahastād abhisaṃśrutya), the divine Vaiśravaṇa, skilled in speech (vākya-viśāradaḥ), spoke these words in reply to Prahasta:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Generously declaring his city and kingdom shared with Daśagrīva, Kubera repairs to Viśravas to seek counsel; the sage reveals that he has already rebuked the wicked-minded Rāvaṇa in his own presence.
 </details>
 </details>
 
@@ -1051,6 +1099,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Explaining that Rāvaṇa—deluded by boons and hardened by his father’s natal curse—knows no restraint, Viśravas advises Kubera to leave Laṅkā and settle on sublime Mount Kailāsa beside the lotus-strewn Mandākinī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मर्षिस्त्वेवमुक्तोऽसौ विश्रवा मुनिपुङ्गवः ।  
@@ -1181,6 +1237,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warned by Viśravas that enmity with boon-armored Rāvaṇa is unwise, Kubera dutifully departs for Kailāsa with his family, ministers, and wealth; Prahasta joyfully reports Laṅkā empty and invites Daśagrīva to enter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र मन्दाकिनी रम्या नदीनामुत्तमा नदी ।  
@@ -1250,6 +1314,14 @@ _________________
 **44:** Thereupon Prahasta, delighted at heart (prahṛṣṭātmā), went to the mighty Daśagrīva, who stood surrounded by his ministers and younger brothers (sahāmātyaṃ sahānujam), and spoke these words:
 
 **45:** “That city of Laṅkā stands empty (śūnyā sā nagarī laṅkā); Dhanada has abandoned it and departed (tyaktvaināṃ dhanado gataḥ)! Enter it now together with us (praviśya tāṃ sahāsmābhiḥ) and uphold your rightful duty (svadharmaṃ pratipālaya)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering deserted Laṅkā like Indra ascending heaven, Rāvaṇa is consecrated king and fills the city with cloud-dark rākṣasas, while Kubera builds on moon-bright Kailāsa a splendid capital rivaling Amarāvatī.
 </details>
 </details>
 

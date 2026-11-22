@@ -24,6 +24,14 @@ Unable to refute him, because he is in such a pious garb, she had to invite him 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once Lakṣmaṇa departs in distress toward Rāma, the ten-necked Rāvaṇa seizes the opportunity and approaches the solitary Sītā disguised as an ochre-robed wandering ascetic.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तया परुषम् उक्तस् तु  
@@ -363,6 +371,14 @@ Ravana is compared with such a planet and Seetha with Rohini.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the wind dies and the Godāvarī flows sluggishly in terror at Rāvaṇa's bloodshot gaze, the demon approaches the weeping Sītā like Saturn encroaching upon Citrā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तम् उग्रं पाप-कर्माणं  
@@ -674,6 +690,14 @@ _________________
 **11:** —he stood still (atiṣṭhat) upon beholding Vaidehī, the illustrious wife of Rāma (rāma-patnīṃ yaśasvinīm). Standing there and gazing thoroughly (samprekṣya) at Rāma's wife, Rāvaṇa—
 
 **12:** —[beheld her] auspicious (śubhām), with lovely teeth and lips (rucira-dantoṣṭhīm) and a face resembling the full moon (pūrṇa-candra-nibhānanām), seated in the leaf-thatched cottage (parṇa-śālāyām), overwhelmed by tears and grief (bāṣpa-śokābhipīḍitām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Kāma's arrows at the sight of Sītā in yellow silk, Rāvaṇa chants Vedic verses and praises her radiant beauty, comparing her to goddesses and celestial nymphs.
 </details>
 </details>
 
@@ -1055,6 +1079,14 @@ Your teeth (daśanāḥ) are even (samāḥ), pointed like jasmine buds (śikhar
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Infatuated by Sītā's beauty, Rāvaṇa extols her limbs, declares her peerless among immortals and mortals alike, and urges her to depart from the perilous wilderness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एताव् उपचितौ वृत्तौ  
@@ -1341,6 +1373,14 @@ is the dwelling for ghastly demons who by their wish will be changing their guis
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Your waist can be spanned by the fingers of a hand (karānta-mita-madhyāsi), O fine-haired (sukeśe), close-breasted one (saṃhata-stani)! Neither a goddess (devī), nor a gandharvī, nor a yakṣī, nor a kiṃnarī—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Sītā that the forest is the haunt of shape-shifting demons and fierce beasts of prey, Rāvaṇa declares her worthy of royal palaces and asks how she came there.
 </details>
 </details>
 
@@ -1663,6 +1703,14 @@ this is the abode of rākṣasas—how then have you come here (kathaṃ tu tvam
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by Rāvaṇa about who she is and why she roams the Daṇḍaka forest alone, Sītā honors the disguised mendicant with a seat, foot-water, and ready hospitality.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मदान्वितानां घोराणां  
@@ -1914,6 +1962,14 @@ looked gracious in his bearing, 'alms are ready.' [3-46-34]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 First offering him a seat (upānīyāsanaṃ pūrvam) and welcoming him with water for his feet (pādyenābhinimantrya ca), she then said to him of gentle appearance (saumya-darśanam), “The food is ready (siddham ity eva)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Offering the disguised mendicant a grass cushion and forest fruits while Rāvaṇa resolves upon her abduction to his own doom, Sītā gazes in vain across the forest for Rāma and Lakṣmaṇa.
 </details>
 </details>
 

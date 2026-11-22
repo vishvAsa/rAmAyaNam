@@ -88,6 +88,14 @@ Rama does much good in jansthana in wiping out those cultures of greedily dictat
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the vast Daṇḍaka forest, the self-possessed Rāma beholds a radiant circle of ascetic hermitages, resplendent like the midday sun and echoing with Vedic chants and sacred fire-offerings.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविश्य तु महारण्यं दण्डकारण्यमात्मवान् ।  
@@ -387,6 +395,14 @@ Vedic sounds, and they are enwrapped with lotus ponds with lotuses, and even wit
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hallowed by bali offerings and fire-oblations (bali-homārcitam), sacred, resounding with the chanting of the Vedas (brahma-ghoṣa-nināditam), strewn round with other blossoms, and [graced] with a lotus-pond full of lotuses (padminyā ca sapadmayā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unstringing his mighty bow out of reverence, Rāma approaches the hermitage circle, where ancient sages endowed with divine sight joyfully welcome him, Sītā, and Lakṣmaṇa with auspicious blessings.
 </details>
 </details>
 
@@ -713,6 +729,14 @@ This context is also explained in the following ways:
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing in unblinking wonder at the beauty of Rāma, Sītā, and Lakṣmaṇa, the ascetics lodge them in a leaf-cottage, offer ceremonial water and forest fruits, and address Rāma reverently.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपसंहननं लक्ष्मीं सौकुमार्यं सुवेषताम् ।  
@@ -984,6 +1008,14 @@ to that great soul Rama, and then with their palms adjoined. [3-1-17-18a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Uttering auspicious blessings (maṅgalāni prayuñjānāḥ) and filled with supreme joy (mudā paramayā yutāḥ), [offering] roots, flowers, fruits, and their entire hermitage (sarvam āśramam) to the great-souled one—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hailing Rāma as their sovereign whether in city or forest, the peaceful ascetics entreat his protection as unborn children depend on a mother, and honor him with forest offerings.
 </details>
 </details>
 

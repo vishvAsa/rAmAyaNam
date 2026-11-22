@@ -24,6 +24,14 @@ permission for him to go to forest.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāma resolved on fulfilling his father’s command, Kausalyā, choked with tears, laments that her son who has never known sorrow must live by gleaning wild roots and fruits in the forest, while the fire of grief kindled by his absence consumes her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समीक्ष्य व्यवसितं पितुर्निर्देशपालने ।  
@@ -291,6 +299,14 @@ certainly said that everything is ordered by a strong destiny'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Surely Destiny, ordaining all things, is all-powerful in this world (nūnaṃ tu balavāṃl loke kṛtāntaḥ sarvam ādiśan), since you, O Rāma, the delight of all the world, are going to the forest (loke rāmābhirāmas tvaṃ vanaṃ yatra gamiṣyasi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā declares that the fire of grief will consume her like wildfire at winter’s end and begs to follow Rāma as a cow follows her calf; Rāma replies that abandoning a living husband is a cruel sin and that Daśaratha would not survive if forsaken by her.
 </details>
 </details>
 
@@ -591,6 +607,14 @@ be perceived even by mind."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For a woman to forsake her husband is sheer cruelty alone (bhartuḥ kila parityāgo nṛśaṃsaḥ kevalaṃ striyāḥ); that censurable act must not be entertained by you even in thought (sa bhavatyā na kartavyo manasāpi vigarhitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma enjoins Kausalyā to serve the King while he lives, promising that after sporting for fourteen years in the great forest he will return to obey her command; though initially assenting, Kausalyā is overcome anew by tears.
 </details>
 </details>
 
@@ -913,6 +937,14 @@ Addressed thus, Kausalyā, tender toward her son and supremely afflicted, her fa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dreading life among her co-wives, Kausalyā begs Rāma to take her to the woods like a wild doe; Rāma reminds her that a husband is a living woman’s deity, assures her of righteous Bharata’s devotion, and charges her to guard the King from perishing of grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसां राम सपत्नीनां वस्तुं मध्ये न मे क्षमम् ।  
@@ -1205,6 +1237,14 @@ grief will not destroy him ."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Expounding the eternal dharma of a wife, Rāma teaches Kausalyā that even a woman devoted to vows and fasts falls into sin if she neglects her husband, whereas serving him brings supreme heaven, and asks her to await his return while honouring gods and Brāhmaṇas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रतोपवासनिरता या नारी परमोत्तमा ॥ २५ ॥  
@@ -1459,6 +1499,14 @@ temperate in food and being devoted in the service of your husband."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—and honoured Brāhmaṇas too must be worshipped by you for my sake, O Queen (pūjyās te mat-kṛte devi brāhmaṇāś caiva satkṛtāḥ). Thus await the appointed time, longing for my return (evaṃ kālaṃ pratīkṣasva mamāgamana-kāṅkṣiṇī).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma promises Kausalyā that she will attain her supreme desire upon his return if the righteous King sustains his life; recognizing that inexorable Time cannot be turned back, Kausalyā blesses Rāma to depart and fulfill his vow.
 </details>
 </details>
 
@@ -1720,6 +1768,14 @@ happiness".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When you have turned back again, I shall be freed from weariness (punas tvayi nivṛtte tu bhaviṣyāmi gata-klamā); when you have returned, O illustrious one, having accomplished your purpose, fulfilled your vow, and discharged your debt to your father, I shall sleep in supreme peace (pitur ānṛṇyatāṃ prāpte svapiṣye paramaṃ sukham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marvelling at the inscrutable course of Destiny that overrides a mother’s plea, Kausalyā prays that the hour of Rāma’s return from the woods in matted locks and bark-garments might arrive even now, and prepares to perform auspicious farewell rites.
 </details>
 </details>
 

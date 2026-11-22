@@ -25,6 +25,14 @@ to pray for the mercy of Lakshmana personally.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing from Aṅgada and the counselors of Lakṣmaṇa's fury, self-possessed Sugrīva rises from his seat and consults his ministers to discern the true cause of his friend's sudden wrath.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदस्य वचः श्रुत्वा सुग्रीवः सचिवैः सह ।  
@@ -347,6 +355,14 @@ of virtue in his heart of hearts for he reposed full confidence in Rama and thus
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting the fragility of friendship and his inability to repay Rāma's great favor, Sugrīva is reassured by Hanūmān, who attributes Rāma's dispatch of Lakṣmaṇa to affectionate impatience.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वथा सुकरं मित्रं दुष्करं प्रतिपालनम् ।  
@@ -640,6 +656,14 @@ Lakshmana, whose disposition in effect to is enhance prosperity. [4-32-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān reminds the heedless Sugrīva that cloudless autumn — the appointed season for the expedition — has arrived, and urges him to appease Lakṣmaṇa with folded hands.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं प्रमत्तो न जानीषे कालं कालविदां वर ।  
@@ -913,6 +937,14 @@ soulfully...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For you who have committed an offense (kṛtāparādhasya), I see nothing else fitting (kṣamam) apart from (antareṇa) folding your hands in reverence (añjalim baddhvā) and propitiating Lakṣmaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting aside fear to speak salutary truth, Hanūmān warns Sugrīva of Rāma's cosmic might and urges him to bow with his kin and abide faithfully by his covenant.
 </details>
 </details>
 

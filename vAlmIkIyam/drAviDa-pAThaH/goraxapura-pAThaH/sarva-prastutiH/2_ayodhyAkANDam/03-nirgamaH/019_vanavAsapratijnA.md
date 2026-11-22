@@ -25,6 +25,14 @@ to forest He desires to visit his mother and Sita and inform them of his decisio
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unshaken by Kaikeyī's death-like decree, Rāma readily consents to depart for the forest in matted locks and bark-cloth, confessing only one sorrow—that his father did not tell him of Bharata's consecration himself.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदप्रियममित्रघ्नो वचनं मरणोपमम् ।  
@@ -337,6 +345,14 @@ informed me about Bharata's coronation."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “One mental sorrow (alīkam) alone burns my heart: that the king did not himself declare to me the consecration of Bharata!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he would gladly yield Sītā, the kingdom, and his very life to Bharata even unasked, Rāma urges Kaikeyī to console the king and summon Bharata at once while he himself hastens to the Daṇḍaka forest.
 </details>
 </details>
 
@@ -666,6 +682,14 @@ Hearing those words of Rāma, Kaikeyī rejoiced; convinced now of his departure 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing that delay until Bharata's return would ruin her plot, Kaikeyī claims Daśaratha will neither bathe nor eat until Rāma leaves; the anguished king faints on his golden couch as Rāma hastens to depart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं भवतु यास्यन्ति दूताः शीघ्रजवैर्हयैः ।  
@@ -982,6 +1006,14 @@ instigated by Kaikeyi as a horse was hit by a whip.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Raising up the king, Rāma too, goaded onward by Kaikeyī like a noble steed struck with a whip (kaśayeva hato vājī), made haste to depart for the forest.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he is no seeker of worldly wealth but stands equal to the sages in pure dharma, Rāma tells Kaikeyī he would gladly dwell in the forest at her word alone without her paining the king.
 </details>
 </details>
 
@@ -1318,6 +1350,14 @@ any merit in me. It is certain!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking only for time to bid farewell to Kausalyā and console Sītā before entering the Daṇḍaka forest today, Rāma bows to his unconscious father and Kaikeyī and departs, followed by the wrathful Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावन्मातरमापृच्छे सीतां चानुनयाम्यहम् ।  
@@ -1637,6 +1677,14 @@ With his eyes brimming with tears, Lakṣmaṇa, the increaser of Sumitrā's joy
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reverently circumambulating the consecration vessels with his innate radiance undimmed like the waning moon, Rāma declines the royal umbrella and chariot and enters his mother's apartments.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आभिषेचनिकं भाण्डं  
@@ -1877,6 +1925,14 @@ house to inform the unpleasant news.
 **34:** Declining the auspicious royal umbrella and the two richly adorned yak-tail fans (vyajane), and dismissing his retinue, his chariot, and the townsfolk,
 
 **35:** that self-possessed prince (ātmavān), holding his sorrow within his mind and restraining his senses, entered his mother's palace to announce the unwelcome tidings (apriyaśaṃsivān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beaming like the autumn moon and greeting everyone with sweet words as Lakṣmaṇa follows behind, Rāma enters Kausalyā's joyous apartments without betraying the slightest change of expression.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ the enemy's ranks and exhort him to restore Seetha to Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incredulous that Rāma has bridged the impassable ocean and crossed with his entire monkey host, Rāvaṇa dispatches his ministers Śuka and Sāraṇa to infiltrate the enemy camp.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सबले सागरं तीर्णे रामे दशरथात्मजे ।  
@@ -179,6 +187,14 @@ weight) by me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 I could never by any means have believed (na śraddadhyāṃ kathaṃcana) that bridging of the ocean; yet even so, that monkey army must certainly be numbered (avaśyaṃ saṃkhyeyam) by me.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ordered to ascertain Rāma's resolve, weapons, and commander, Śuka and Sāraṇa assume monkey forms and behold an uncountable, roaring ocean of troops still crossing and encamping.
 </details>
 </details>
 
@@ -500,6 +516,14 @@ some already encamped and some still encamping (niviṣṭaṃ niviśac caiva), 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seized by Vibhīṣaṇa despite their disguise and brought trembling before Rāma, Śuka and Sāraṇa confess their espionage mission, prompting the compassionate prince to smile and grant them safe passage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ ददर्श महातेजाः प्रतिच्छन्नौ विभीषणः ।  
@@ -815,6 +839,14 @@ will."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Offering Vibhīṣaṇa as a guide to show anything they missed, Rāma spares the unarmed spies, orders their release, and sends a defiant challenge back to Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ किञ्चिददृष्टं वा भूयस्तद् द्रष्टुमर्हथः ।  
@@ -1084,6 +1116,14 @@ that force at your will along with your troops and allies."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that at dawn he will shatter Laṅkā and loose his wrath like Indra's thunderbolt, Rāma dismisses Śuka and Sāraṇa, who return to Rāvaṇa praising Rāma's righteousness and might.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वः काल्ये नगरीं लङ्कां सप्राकारां सतोरणाम् ।  
@@ -1268,6 +1308,14 @@ cried out: "May you be victorious!", reached the city of Lanka and spoke to Rava
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Returning to the city of Laṅkā, they addressed the lord of rākṣasas: “Though seized by Vibhīṣaṇa to be slain (vibhīṣaṇagṛhītau tu vadhārtham), O lord of rākṣasas,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāma, Lakṣmaṇa, Vibhīṣaṇa, and Sugrīva alone could uproot Laṅkā—indeed, Rāma single-handedly—the spies urge Rāvaṇa to make peace and restore Maithilī.
 </details>
 </details>
 

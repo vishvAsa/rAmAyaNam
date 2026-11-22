@@ -15,6 +15,14 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma gently declines a royal retinue through the parable of the elephant’s girth-rope, asks only for a spade, a basket, and bark garments, and receives the bark robes from Kaikeyī’s own hand.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महामात्रवचः श्रुत्वा  
@@ -338,6 +346,14 @@ Thereupon Kaikeyī, shameless (nirapatrapā) in the midst of the assembled multi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma and Lakṣmaṇa cast off their fine garments to don ascetic bark-cloth before their father, while Sītā, trembling like a doe before a snare, weeps in confusion over how to tie the bark robes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चीरे पुरुषव्याघ्रः  
@@ -567,6 +583,14 @@ it)
 **11:** With her eyes brimming with tears (aśru-sampūrṇa-netrā), she who knew dharma and ever beheld dharma (dharma-darśinī) spoke these words to her husband, who resembled the king of the Gandharvas:
 
 **12:** “How indeed do forest-dwelling ascetics bind on their bark garments?” Speaking thus, Sītā, unpracticed in such attire (akuśalā), fell into bewilderment again and again (mumoha muhur muhuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sītā stands abashed with one bark cloth at her neck and the other in her hand, Rāma binds the bark over her silk, moving the women of the inner apartments to tears and entreaties.
 </details>
 </details>
 
@@ -891,6 +915,14 @@ beautiful girl is not fit to reside in a forest like an ascetic."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unmoved by the women’s tears, Rāma finishes tying the bark for Sītā; whereupon the royal preceptor Vasiṣṭha, in tears, halts Sītā and rebukes Kaikeyī, declaring that Sītā as Rāma’s second self shall occupy the throne.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरु नो याचनां पुत्र  
@@ -1179,6 +1211,14 @@ Rama's self, she can rule the earth."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha warns Kaikeyī that if Sītā departs with Rāma, the brahmins, frontier wardens, Bharata, Śatrughna, and the entire city will follow Rāma, turning the forest into the true kingdom.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ **यास्यति** वैदेही  
@@ -1415,6 +1455,14 @@ forest, where Rama will be living, can become a kingdom."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha declares that Bharata, true to his royal lineage, will never rule an unbestowed earth nor live as Kaikeyī’s son, and that even beasts, birds, and trees will turn toward Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्यदत्तां महीं पित्रा  
@@ -1631,6 +1679,14 @@ with Rama and trees also turning their faces towards Rama."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This very day, O Kaikeyī, you shall behold domestic beasts, elephants and predators, deer, and birds going along with Rāma, and even the trees turning their faces toward him (pādapāṃś ca tad-unmukhān)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shifting to the elevated Upajāti meter, Vasiṣṭha forbids the bark garment for Sītā and demands that she be given ornaments, carriages, and royal attire; yet Sītā remains unswerving in her resolve to share her husband’s ascetic garb.
 </details>
 </details>
 

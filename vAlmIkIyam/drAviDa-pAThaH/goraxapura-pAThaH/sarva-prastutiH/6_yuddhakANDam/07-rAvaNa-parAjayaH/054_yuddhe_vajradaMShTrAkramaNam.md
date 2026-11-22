@@ -25,6 +25,14 @@ on the ground.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by Aṅgada's prowess and the rout of his troops, Vajradaṃṣṭra rains arrows as the rākṣasa and Vānara champions exchange volleys.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वबलस्य च घातेन अङ्गदस्य बलेन च ।  
@@ -331,6 +339,14 @@ And the foremost Vānara heroes (pravīrāḥ), resembling rutting elephants (ma
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As headless trunks spring up and carrion birds flock to the fallen, the rākṣasa army breaks in terror before Vajradaṃṣṭra's very eyes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शूराणां युध्यमानानां समरेष्वनिवर्तिनाम् ।  
@@ -596,6 +612,14 @@ Vānaras and rākṣasas fell there upon the ground. Then, as the night-stalker 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 that entire force broke and fled (prābhajyata balaṃ sarvam) while Vajradaṃṣṭra looked on (vajradaṃṣṭrasya paśyataḥ). [Beholding] the rākṣasas terrified with fear and being slaughtered by the leapers,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vajradaṃṣṭra's volleys drive the bleeding Vānaras to Aṅgada like creatures to Prajāpati, Aṅgada confronts the demon general like a lion facing an elephant.
 </details>
 </details>
 
@@ -894,6 +918,14 @@ Then with a hundred thousand arrows resembling tongues of fire (śarair agniśik
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vajradaṃṣṭra slices Aṅgada's hurled tree in midair, Aṅgada crushes his chariot with a boulder and hurls a wooded mountain peak at his head.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुधिरोक्षितसर्वाङ्गो वालिसूनुर्महाबलः ।  
@@ -1184,6 +1216,14 @@ Then, seizing another massive peak crowned with trees (anyac chikharaṃ ... dru
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stunned by the mountain peak, Vajradaṃṣṭra recovers to strike Aṅgada's chest with his mace before the two lock in a bloody fistfight like Mars and Mercury.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभवच्छोणितोद‍्गारी वज्रदंष्ट्रः सुमूर्च्छितः ।  
@@ -1447,6 +1487,14 @@ Then the supremely fiery Aṅgada, that bull among leapers (plavagarṣabhaḥ),
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trading blows with bell-decked shield and burnished sword until both sink to their knees like crimson kiṃśuka trees, Aṅgada springs back up like a struck serpent.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जग्राह चार्षभं चर्म खड्गं च विपुलं शुभम् ।  
@@ -1654,6 +1702,14 @@ rose up like a serpent struck with a stick.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Within the mere blink of an eye (nimeṣāntaramātreṇa), Aṅgada, that elephant among monkeys (kapikuñjaraḥ), sprang back up with blazing eyes (udatiṣṭhata dīptākṣaḥ), like a serpent struck with a staff (daṇḍāhata ivoragaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a burnished sword Aṅgada lops off Vajradaṃṣṭra's head, routing the shamefaced rākṣasas back into Laṅkā as the Vānaras acclaim him like Indra.
 </details>
 </details>
 

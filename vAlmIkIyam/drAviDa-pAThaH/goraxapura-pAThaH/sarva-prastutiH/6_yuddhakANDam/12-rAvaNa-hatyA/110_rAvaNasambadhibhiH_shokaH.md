@@ -23,6 +23,14 @@ been restored by Ravana to Rama, this major disaster would not have befallen the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All beings watch in wonder as Rāma and Rāvaṇa wheel their magnificent chariots in intricate circles, lanes, and charges across the battlefield like rain-pouring clouds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं निहतं श्रुत्वा राघवेण महात्मना ।  
@@ -312,6 +320,14 @@ invested with a great splendour, lying killed on the ground, like a heap of blac
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Halting face to face with yoke against yoke and steed against steed, Rāma forces Rāvaṇa's horses back, and Rāvaṇa retaliates by striking Rāma and Mātali.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः पतिं सहसा दृष्ट्वा शयानं रणपांसुषु ।  
@@ -543,6 +559,14 @@ face with her tears, as dew drops moisten a lotus-flower.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —underwent no change of expression (jagāma na vikāram) nor felt any distress (na cāpi vyathito 'bhavat). And Daśānana hurled arrows once more, resounding like the crash of the thunderbolt (vajrasārasamasvanān)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Angered far more by the assault on Mātali than by his own wounds, Rāma overwhelms Rāvaṇa with arrows, while their clashing weapons agitate the seven oceans.
 </details>
 </details>
 
@@ -860,6 +884,14 @@ And because of the agitated oceans (kṣubdhānāṃ sāgarāṇām), all the D�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the earth trembles and the sun grows dim, the anxious gods pray for Rāma's victory, while celestials proclaim the celebrated self-comparison of the incomparable battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रुवाणोऽपि हितं वाक्यमिष्टो भ्राता विभीषणः ।  
@@ -1162,6 +1194,14 @@ happened at the juncture of the Providence (alone), O the great armed!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `—and the battle of Rāma and Rāvaṇa is like the battle of Rāma and Rāvaṇa alone (rāmarāvaṇayor yuddhaṃ rāmarāvaṇayor iva)!' Speaking thus, they gazed upon that battle between Rāma and Rāvaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fitting a serpent-like shaft to his bow, Rāma severs Rāvaṇa's earring-decked head, only for an identical head to spring up and be severed a hundred times.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ of Maareecha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Śūrpaṇakhā's hair-raising report and weighed the merits and defects of his plan, Rāvaṇa secretly repairs to his chariot-hall and mounts his golden, wish-coursing chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखावाक्यं तच्छ्रुत्वा रोमहर्षणम् ।  
@@ -317,6 +325,14 @@ Mounting the wish-coursing (kāma-gam) golden chariot, adorned with gems (ratna-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resplendent like a lightning-ringed thundercloud with a white parasol and yak-tail chowries, ten-headed Rāvaṇa speeds toward the ocean coast adorned with lotus-ponds and hermitages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघप्रतिमनादेन स तेन धनदानुजः ।  
@@ -551,6 +567,14 @@ thresholds of hermitages containing Fire-altars. [3-35-12]
 **11:** Gazing upon the mountain-fringed ocean coast (saśaila-sāgarānūpam), which was overspread by thousands of trees (vṛkṣair anukīrṇaṃ sahasraśaḥ) bearing manifold flowers and fruits (nānā-puṣpa-phalaiḥ)—
 
 **12:** [And] adorned on every side with lotus-ponds (padminībhiḥ) of cool, auspicious waters (śīta-maṅgala-toyābhiḥ) and with spacious hermitage grounds (viśālair āśrama-padaiḥ) furnished with sacrificial altars (vedimadbhiḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa surveys the seashore resplendent with plantain and coconut groves, austere orders of sages, celestial nymphs, and beryl crags cooled by ocean spray.
 </details>
 </details>
 
@@ -841,6 +865,14 @@ Crowded with swans, curlews, and water-fowl (haṃsa-krauñca-plavākīrṇam), 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speeding past celestial aerial palaces and musical hosts of gandharvas, Rāvaṇa beholds fragrant sandalwood, aloe, and spice forests, drying pearl-heaps, coral, and golden peaks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुराणि विशालानि दिव्यमाल्ययुतानि च ।  
@@ -951,6 +983,14 @@ satisfying the sense of smell, and that oozed sweet-smelling resin at their base
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding pleasant (saumyāni) forests in thousands of sandalwood trees (candanānām)—the source of exuded aromatic resin (niryāsa-rasa-mūlānām)—which gratified the sense of smell (ghrāṇa-tṛpti-karāṇi ca)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing cascading mountain streams and opulent coastal cities, Rāvaṇa beholds the heaven-like seashore and the cloud-dark banyan tree whose hundred-yojana bough mighty Garuḍa once broke.
 </details>
 </details>
 
@@ -1363,6 +1403,14 @@ Then the mighty, fair-winged Suparṇa broke (babhañja) that thickly-leafed (pa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how Garuḍa saved the ascetics, crushed the Niṣāda realm with the bough, and carried off Indra's ambrosia, Rāvaṇa gazes upon the Subhadra banyan tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां दयार्थं गरुडस्तां शाखां शतयोजनाम् ॥ ३१ ॥  
@@ -1622,6 +1670,14 @@ of great sages, and which betokens the deeds of that best-winged Garuda. [3-35-3
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The younger brother of Kubera (dhanadānujaḥ) beheld that banyan tree named Subhadra (nāmnā subhadraṃ nyagrodham), frequented by hosts of great sages (maharṣi-gaṇair juṣṭam) and bearing the mark left by Suparṇa (suparṇa-kṛta-lakṣaṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crossing to the farther shore of the ocean, Rāvaṇa reaches Mārīca's secluded hermitage, where the ascetic rākṣasa honors him and anxiously asks the cause of his hasty arrival.
 </details>
 </details>
 

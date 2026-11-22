@@ -31,6 +31,14 @@ and touches Sugreeva's feet as a mark of salutation.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān and Aṅgada urge the monkeys to feast on the honey without fear, and the joyful host rushes into Madhuvana like a river current.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानुवाच हरिश्रेष्ठो हनूमान् वानरर्षभः ।  
@@ -276,6 +284,14 @@ the grove abounding in honey, like the rush of a river towards a tree.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 thoroughly delighted, applauded him in return (saṃhṛṣṭā vānarāḥ pratyapūjayan), crying “Well said! Well said!” (sādhu sādhv iti). Having honored Aṅgada, the bull among monkeys (pūjayitvāṅgadaṃ vānararṣabham), all the monkeys (sarve vānarāḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exultant at seeing and hearing of Maithilī, the monkeys beat the guards, scoop up droṇa-sized honeycombs, pelt one another with beeswax, and lounge on leaves.
 </details>
 </details>
 
@@ -598,6 +614,14 @@ And deeply languid from intoxication (atyarthaṃ ca madaglānāḥ), having spr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While drunken monkeys roar, coo, and caper, they drag Dadhimukha’s guards by the knees and hurl them skyward, prompting Dadhimukha to console his men.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिपन्त्यपि तथान्योन्यं स्खलन्ति च तथापरे ।  
@@ -900,6 +924,14 @@ and thereafter consoled those monkeys (as follows):
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the monkey Dadhimukha, the guardian of the grove there (tadā dadhimukhaḥ vanapas tatra vānaraḥ), enraged upon hearing that Madhuvana was devastated (kruddho hataṃ madhuvanaṃ śrutvā), consoled those monkeys (sāntvayāmāsa tān harīn):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dadhimukha rallies his guards with trees and boulders to check the monkeys, and Hanūmān’s troop rushes forward to meet their assault.
 </details>
 </details>
 
@@ -1230,6 +1262,14 @@ Then, beholding the enraged Dadhimukha (atha dṛṣṭvā dadhimukhaṃ kruddha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blinded by intoxication, Aṅgada seizes the charging Dadhimukha and slams him to the earth; bruised and bleeding, Dadhimukha resolves to appeal to Sugrīva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सवृक्षं तं महाबाहुमापतन्तं महाबलम् ।  
@@ -1502,6 +1542,14 @@ and resisted those monkeys, who were highly intoxicated because of drinking of h
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dadhimukha vows to report Aṅgada’s offense to Sugrīva so that the wrathful king will punish the honey-greedy despoilers of his ancestral grove, and leaps skyward.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वं चैवाङ्गदे दोषं श्रावयिष्याम पार्थिवे ।  
@@ -1768,6 +1816,14 @@ That Sugreeva can get these monkeys together with their companions, killed as a 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus to the grove-keepers (evam uktvā vanapālān), Dadhimukha of mighty strength (dadhimukho mahābalaḥ) sprang up suddenly and departed through the sky (jagāma sahasotpatya), accompanied by the grove-keepers (vanapālaiḥ samanvitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the twinkling of an eye Dadhimukha reaches Kiṣkindhā, alights upon the level earth before Rāma, Lakṣmaṇa, and Sugrīva, and bows his head at Sugrīva’s feet.
 </details>
 </details>
 

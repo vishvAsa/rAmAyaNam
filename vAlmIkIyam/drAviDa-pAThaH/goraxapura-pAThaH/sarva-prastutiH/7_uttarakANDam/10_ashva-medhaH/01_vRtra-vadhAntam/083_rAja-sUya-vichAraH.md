@@ -13,6 +13,14 @@ title = "०८३ राज-सूय-विचारः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Bharata and Lakṣmaṇa upon their arrival, Rāma announces that having fulfilled the brahmin’s cause, he now wishes to perform the supreme Rājasūya sacrifice with their aid, citing Mitra’s attainment of Varuṇa-hood through it.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा भाषितं तस्य रामस्याक्लिष्टकर्मणः ।  
@@ -217,6 +225,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing Soma’s eternal renown from the Rājasūya, Rāma invites Bharata and Lakṣmaṇa to deliberate with him on what serves both present and future good; joining his palms, Bharata replies that supreme dharma, glory, and the entire earth already rest in Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोमश्च राजसूयेन इष्ट्वा धर्मेण धर्मवित् ।  
@@ -387,6 +403,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that kings and subjects alike look to Rāma as a father, Bharata urges him not to perform a Rājasūya that would provoke universal anger and destroy earth’s royal houses—words nectar-sweet that fill Rāma with peerless joy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्राश्च पितृवद् राजन् पश्यन्ति त्वां महाबल ।  
@@ -554,6 +578,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those nectar-filled words of Bharata (bharatasya tu tad vākyaṃ śrutvā ’mṛtamayaṃ tadā), Rāma of unfailing valor attained an incomparable joy (praharṣam atulaṃ lebhe rāmaḥ satya-parākramaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Bharata’s courageous, earth-protecting counsel, Rāma turns his mind away from the proposed Rājasūya, affirming that the wise never perform deeds that afflict the world and gladly heed noble words even from the young.
 </details>
 </details>
 

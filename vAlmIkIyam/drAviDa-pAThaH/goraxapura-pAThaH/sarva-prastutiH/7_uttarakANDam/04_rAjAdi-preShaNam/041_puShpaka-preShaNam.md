@@ -13,6 +13,14 @@ title = "०४१ पुष्पक-प्रेषणम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing with his brothers after dismissing his allies, Rāma hears a sweet voice from the sky: the Puṣpaka chariot announces its return from Kubera’s palace, recounting Kubera’s joy at Rāvaṇa’s death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसृज्य च महाबाहुर्ऋक्षवानरराक्षसान् ।  
@@ -196,6 +204,14 @@ Then, in the afternoon (aparāhṇa-samaye), Rāghava, seated with his brothers,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘I too felt supreme delight (mamāpi paramā prītiḥ) when that wicked-souled Rāvaṇa was slain (hate tasmin durātmani), together with his troops, his sons, and his kinsmen (sa-gaṇe ... sa-putre saha-bāndhave).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Kubera himself commanded it to bear Rāma across the worlds, Puṣpaka asks to be accepted without scruple; Rāma warmly welcomes the celestial car, assured that Kubera’s goodwill frees him from any breach of propriety.
 </details>
 </details>
 
@@ -388,6 +404,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring Puṣpaka with parched grain, flowers, and fragrant incense, Rāma bids it roam the quarters at will and return whenever summoned; as the chariot vanishes, Bharata joins his palms to marvel at non-human beings speaking under Rāma’s rule.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लाजैश्चैव तथा पुष्पैर्धूपैश्चैव सुगन्धिभिः ।  
@@ -546,6 +570,14 @@ When that exquisitely fashioned Puṣpaka (puṣpake sukṛtātmani) had thus va
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “While you—whose nature is manifold and wondrous (vividhātmani ... tvayi)—rule the realm (praśāsati), O hero, the spoken utterances of non-human beings (amānuṣāṇāṃ sattvānāṃ vyāhṛtāni) are witnessed again and again (dṛśyante ... muhur muhuḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata celebrates the blessings of Rāma’s golden reign—freedom from sickness and premature death, healthy births, timely rains, gentle breezes, and citizens praying for an immortal king—filling Rāma with deep gladness.
 </details>
 </details>
 

@@ -29,6 +29,14 @@ nearby.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Bharata’s devotion, Rāma asks why he has left the kingdom and come to the forest clad in bark-cloth, matted locks, and black deerskin; Bharata replies with folded hands that Daśaratha died of grief after exiling Rāma at Kaikeyī’s bidding.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठः पुरतः कृत्वा दारान् दशरथस्य च ।  
@@ -326,6 +334,14 @@ censured because all that service rendered to his brother is enjoined with virtu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Urged on by a woman—by my mother Kaikeyī, O scorcher of foes—he committed this great sin that destroyed his own renown (striyā niyuktaḥ kaikeyyā mama mātrā parantapa cakāra su-mahat pāpam idam ātma-yaśo-haram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that his widowed mother Kaikeyī will fall into dreadful hell without reaping the fruit of sovereignty, Bharata bows his head with the ministers and implores Rāma as his elder brother, preceptor, and master to accept the throne.
 </details>
 </details>
 
@@ -639,6 +655,14 @@ oceans, eat a cake of Ingudi pulp?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Rāma not to disregard the hereditary circle of ministers and subjects, Bharata clasps Rāma’s feet in tears; embracing his sighing brother, Rāma absolves him of all blame and forbids him from reviling his mother Kaikeyī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो दुःखतरं लोके न किञ्चित् प्रतिभाति मे ।  
@@ -905,6 +929,14 @@ grief, emitted cries and allowed tears to flow.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma reminds Bharata that elders possess full authority over dutiful wives, sons, and disciples, that a mother is entitled to the same reverence as a father, and that having been commanded by both parents to go to the forest, he cannot act otherwise.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां रामः समुत्थाय जग्राह चरणाम्बुजान् ।  
@@ -1161,6 +1193,14 @@ her mothers-in-laws and stood before them.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having been commanded, ‘Go to the forest!’ by both those righteous-natured parents, O Rāghava, how could I act otherwise (etābhyāṃ dharma-śīlābhyāṃ vanaṃ gaccheti rāghava mātā-pitṛbhyām ukto ’haṃ katham anyat samācare)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that King Daśaratha publicly apportioned the kingdom of Ayodhyā to Bharata and fourteen years in the Daṇḍaka forest to himself before ascending to heaven, Rāma affirms that obeying his father’s word—not rule over all worlds—is his highest good.
 </details>
 </details>
 

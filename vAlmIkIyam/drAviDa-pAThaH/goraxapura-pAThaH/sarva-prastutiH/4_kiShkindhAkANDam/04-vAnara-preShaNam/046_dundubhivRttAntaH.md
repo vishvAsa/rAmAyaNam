@@ -28,6 +28,14 @@ a plighted flight, Sugreeva says, he acquired a direct and personal knowledge of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by Rāma as to how he knows the entire terrestrial globe, Sugrīva recounts how Vālī pursued the buffalo-demon into a Malaya cavern that later welled with blood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतेषु वानरेन्द्रेषु रामः सुग्रीवमब्रवीत् ।  
@@ -319,6 +327,14 @@ loss of my brother agonised me. [4-46-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Believing Vālī slain, Sugrīva blocks the cave with a mountain-like crag and assumes the throne at Kiṣkindhā, only to be driven fleeing across the earth when Vālī returns.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाहं गतबुद्धिस्तु सुव्यक्तं निहतो गुरुः ।  
@@ -552,6 +568,14 @@ even though I was running away from him with my ministers, as he wished to kill 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Yet that wicked-souled Vālī, his senses sorely agitated (pravyathitendriyaḥ) and desiring to slay me (māṃ jighāṃsuḥ), chased me as I fled together with my ministers (sacivaiḥ saha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Racing around the earth until it seems like a mirror, a whirling firebrand, and a cow's hoofprint, Sugrīva flees through the eastern, southern, and western quarters.
 </details>
 </details>
 
@@ -899,6 +923,14 @@ me from within the interiors of those forests and mountains, and then I reached 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Beholding Vālī again behind me (aparam) amid the trees and mountains in the south, and closely pursued by Vālī, I reached the western quarter (aparāṃ diśam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Finding no refuge at Mount Asta, Himavān, Meru, or the northern ocean, Sugrīva is reminded by Hanūmān of Sage Mataṅga's curse upon Vālī and enters Ṛṣyamūka in safety.
 </details>
 </details>
 

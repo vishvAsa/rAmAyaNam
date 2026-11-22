@@ -25,6 +25,14 @@ the kingdom since enjoyed by Bharata.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grief-stricken after Rāma's departure to the forest, Kausalyā weeps and reproaches Daśaratha, questioning how Rāma, Lakṣmaṇa, and the delicate Sītā will endure the hardships of exile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनं गते धर्मरते रामे रमयतां वरे ।  
@@ -319,6 +327,14 @@ Having heard the auspicious sound of song and musical instruments (gīta-vāditr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā laments Rāma sleeping on the bare ground with only his arm for a pillow, wonders why her diamond-hard heart does not shatter, and doubts that Bharata will ever yield the throne.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महेन्द्रध्वजसङ्काशः क्व नु शेते महाभुजः ।  
@@ -580,6 +596,14 @@ will abandon the kingdom and the treasury."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even if in the fifteenth year Rāghava shall return again (pañcadaśe varṣe rāghavaḥ punar eṣyati), it does not seem credible (nopalakṣyate) that Bharata would relinquish the kingdom and the treasury (jahyād rājyaṃ ca koṣaṃ ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through analogies of noble Brahmins spurning leftover śrāddha food, a tiger disdaining another's prey, and used sacrificial implements, Kausalyā declares that Rāma will never accept a kingdom enjoyed by Bharata.
 </details>
 </details>
 
@@ -865,6 +889,14 @@ Oblations, clarified butter, puroḍāśa cakes, kuśa grass, and sacrificial po
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing the used kingdom to flat liquor and a Soma-less sacrifice, Kausalyā declares that Rāma submitted only out of dharma, though he could consume the worlds, and was ruined by his own father like a fish devoured by its parent.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ह्यात्तमिदं राज्यं हृतसारां सुरामिव ।  
@@ -1117,6 +1149,14 @@ was ruined indeed by his own father, like killing its child-fish by an adult fis
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Such a bull among men, of lion-like strength and bull-like eyes (sa tādṛśaḥ siṃha-balo vṛṣabhākṣo nararṣabhaḥ), has been destroyed by his own father himself (svayam eva hataḥ pitrā), even as offspring is destroyed by a water-born fish (jalajenātmajo yathā)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring herself bereft of all three scriptural refuges of a woman and accusing Daśaratha of ruining the realm so that only Kaikeyī and Bharata may rejoice, Kausalyā drives the king into a swoon and agonizing remembrance of his past sin.
 </details>
 </details>
 

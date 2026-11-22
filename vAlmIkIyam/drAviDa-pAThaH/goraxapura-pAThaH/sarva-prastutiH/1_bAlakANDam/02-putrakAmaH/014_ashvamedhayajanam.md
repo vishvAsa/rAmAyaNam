@@ -31,6 +31,14 @@ Ritual are narrated.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon the completion of a full year and the safe return of the sacrificial steed, the great Aśvamedha sacrifice of King Daśaratha commences on the northern bank of the Sarayū under the direction of Ṛṣyaśṛṅga.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ संवत्सरे पूर्णे तस्मिन् प्राप्ते तुरङ्गमे ।  
@@ -244,6 +252,14 @@ as enjoined. [1-14-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having worshipped the presiding deities of the ritual limbs (abhipūjya), all those joyful pre-eminent sages (munipuṅgavāḥ) duly performed the sacrificial rites beginning with the morning Soma-pressing (prātaḥsavanapūrvāṇi karmāṇi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The three Soma-pressings—morning, midday, and evening—proceed with faultless Vedic phonetics and Sāman chants; throughout the sacrificial days, no one is weary, hungry, or unlearned.
 </details>
 </details>
 
@@ -572,6 +588,14 @@ person, nor any Brahman without at least a hundred apprentices. [1-14-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Throughout those sacrificial days (teṣv ahaḥsu), no one was seen weary or athirst (śrānto vā) or hungry (kṣudhito vā); nor was there any unlearned Brāhmaṇa (nāvidvān brāhmaṇaḥ), nor anyone unattended by a hundred followers (nāśatānucaras tathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mountain-like heaps of delicious food and manifold garments are distributed day after day to Brāhmaṇas, ascetics, mendicants, the aged, women, children, and multitudes from many lands.
 </details>
 </details>
 
@@ -914,6 +938,14 @@ Foremost twice-born sages praised the food, prepared according to rule and delic
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Between the ritual pressings, scholars versed in the six Vedāṅgas engage in philosophical disputations; when the time arrives to erect the sacrificial posts, twenty-one yūpas of five sacred woods are prepared.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वलङ्कृताश्च पुरुषा ब्राह्मणान् पर्यवेषयन् ।  
@@ -1234,6 +1266,14 @@ One post of śleṣmātaka (rajjudāla) wood was ordained (śleṣmātakamayo di
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The twenty-one octagonal yūpas, each twenty-one cubits high and draped in gold and raiments, shine like the Seven Ṛṣis in heaven; experts in the Śulbasūtras pile the eighteen-layered, golden-winged Garuḍa fire-altar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारिताः सर्व एवैते शास्त्रज्ञैर्यज्ञकोविदैः ।  
@@ -1549,6 +1589,14 @@ altar is laid threefold bigger than the usual one.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That citya fire-altar of the lion among kings (sa cityo rājasiṃhasya), piled by expert twice-born priests (saṃcitaḥ kuśalair dvijaiḥ), had the form of Garuḍa with wings of gold (garuḍo rukmapakṣo vai), triple in scale and consisting of eighteen layers (triguṇo ’ṣṭādaśātmakaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sacrificial beasts, birds, and serpents are dedicated to their respective deities; after the wild creatures are released unharmed, Queen Kausalyā tends the steed with three golden needles and keeps a night-long vigil beside it.
 </details>
 </details>
 
@@ -1891,6 +1939,14 @@ Then the Hotṛ, Adhvaryu, and Udgātṛ (together with the Brahmā) joined the 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Adhvaryu cooks the horse’s vapā oblation on a reed mat and King Daśaratha inhales its purifying smoke; the sixteen priests offer the limbs into the fire and execute the three-day Soma pressings—Catuṣṭoma, Ukthya, and Atirātra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतत्त्रिणस्तस्य वपामुद्‍धृत्य नियतेन्द्रियः ।  
@@ -2171,6 +2227,14 @@ variously connected rituals, in all his eagerness to appease gods for progeny.
 **40:** The Aśvamedha is reckoned by the Brāhmaṇas according to the Kalpasūtra as a three-day Soma sacrifice (tryaho ’śvamedhaḥ saṃkhyātaḥ kalpasūtreṇa brāhmaṇaiḥ); its first pressing day is ordained as a Catuṣṭoma (catuṣṭomam ahas tasya prathamaṃ parikalpitam).
 
 **41:** Its second pressing day is reckoned as an Ukthya (ukthyaṃ dvitīyaṃ saṃkhyātam), and the following (third) day as an Atirātra (atirātraṃ tathottaram); furthermore, many other sacrifices ordained from consulting the Śāstras (vihitāḥ śāstradarśanāt) were also performed there (kāritās tatra bahavaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After executing the supplementary Soma sacrifices—Jyotiṣṭoma, Āyuṣṭoma, two Atirātras, Abhijit, Viśvajit, and two Āptoryāmas—King Daśaratha bestows the four quarters of the earth upon the four chief priests, who humbly decline the land.
 </details>
 </details>
 
@@ -2462,6 +2526,14 @@ king. [1-14-47]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Devoted to Vedic study, the officiating priests ask for a modest redemption-price in lieu of the earth; King Daśaratha bestows one million cows, ten crores of gold, and forty crores of silver, which Ṛṣyaśṛṅga and Vasiṣṭha equitably divide.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रताः स्वाध्यायकरणे वयं नित्यं हि भूमिप ।  
@@ -2732,6 +2804,14 @@ To the sage Ṛṣyaśṛṅga and the wise Vasiṣṭha (ṛṣyaśṛṅgāya 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With deeply contented hearts, the priests declare their satisfaction; King Daśaratha bestows a crore of Jāmbūnada gold upon the visiting spectators, gives his own royal armlet to a poor supplicant Brāhmaṇa, and bows in prostration.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रसर्पकेभ्यस्तु हिरण्यं सुसमाहितः ॥ ५३ ॥  
@@ -2960,6 +3040,14 @@ of Veda itself.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With his senses overwhelmed with joy (harṣavyākulitendriyaḥ), bowed down in salutation before them (praṇāmam akarot teṣām); thereupon manifold auspicious benedictions were pronounced over him by the Brāhmaṇas (tasyāśiṣo ’tha vividhā brāhmaṇaiḥ samudāhṛtāḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having completed the sin-destroying Aśvamedha and prostrated himself on the earth before the Brāhmaṇas, King Daśaratha entreats Ṛṣyaśṛṅga to perform the rite for the continuation of his lineage; the sage promises him four noble sons.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ mistaking him as Indrajit.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by Sugrīva and the grieving Vānara chiefs, Rāma awakens from his swoon despite the arrow-bonds and weeps over his bleeding, incomparable brother Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घोरेण शरबन्धेन बद्धौ दशरथात्मजौ ।  
@@ -326,6 +334,14 @@ A woman equal to Sītā (sītāsamā nārī) might be found [by me] searching (v
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dreading how he could ever face Kausalyā, Bharata, or grieving Sumitrā if he returned to Ayodhyā without Lakṣmaṇa, Rāma resolves to cast off his own life.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परित्यक्ष्याम्यहं प्राणान् वानराणां तु पश्यताम् ।  
@@ -618,6 +634,14 @@ Lakshmana has fallen and lies indeed on a bed of arrows as on who has yielded up
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Fie upon me (dhiṅ mām), a doer of evil deeds (duṣkṛtakarmāṇam) and ignoble (anāryam), on whose account (yatkṛte) this Lakṣmaṇa lies fallen upon a couch of arrows (śaratalpe) like one bereft of life (gatāsuvat)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing arrow-pierced, bleeding Lakṣmaṇa to the setting sun and reading his silent agony in his reddened eyes, Rāma vows to follow his devoted brother to Yama's realm.
 </details>
 </details>
 
@@ -940,6 +964,14 @@ He who ever cherished his kinsfolk (iṣṭabandhujanaḥ) and was ever devoted 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Lakṣmaṇa's unfailing gentleness and archery surpassing Kārtavīrya's, Rāma laments his unfulfilled pledge to crown Vibhīṣaṇa and urges Sugrīva to retreat at once.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरुष्टेनापि वीरेण लक्ष्मणेन न संस्मरे ।  
@@ -1208,6 +1240,14 @@ At this very instant (asmin muhūrte), O Sugrīva, you ought to depart (pratiyā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Sugrīva lead Aṅgada, Nīla, Nala, and the Vānara host back across the sea, Rāma gratefully praises the valor of his allies while bowing to invincible destiny.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदं तु पुरस्कृत्य ससैन्यं सपरिच्छदम् ।  
@@ -1409,6 +1449,14 @@ their lives for me, the battle was carried on."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Battle has been waged by Gavaya, Gavākṣa, Śarabha, and Gaja, and by other monkeys (anyaiś ca haribhiḥ) who hazarded their lives for my sake (madarthe tyaktajīvitaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the tawny-eyed Vānaras weep over Rāma's farewell, Vibhīṣaṇa hastens up mace in hand after rallying the troops, causing the monkeys to flee, mistaking him for Indrajit.
 </details>
 </details>
 

@@ -32,6 +32,14 @@ preparing him to kill her.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak, after completing their morning rites, Rāma and Lakṣmaṇa follow Viśvāmitra to the bank of the Gaṅgā; boarding the fine boat brought by the hermits of Kāmāśrama, they hear the roaring tumult of colliding waters in midstream.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभाते विमले कृताह्निकमरिन्दमौ ।  
@@ -291,6 +299,14 @@ waters along with his younger brother, and that brilliant one Rama desired to kn
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There, upon reaching the middle of the river’s waters (madhyam āgamya toyasya), Rāma heard a mighty roar swelled by the violent collision of the currents (śabdaṃ toyasaṃrambhavardhitam); and the true cause of that sound (tasya śabdasya niścayam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In midstream, Rāma asks the cause of the tumultuous roaring of the clashing waters; Viśvāmitra recounts how the holy Sarayū issues from Brahmā’s mind-born Mānasa Lake on Mount Kailāsa, embraces Ayodhyā, and plunges here into the Gaṅgā.
 </details>
 </details>
 
@@ -577,6 +593,14 @@ princes proceeded further on reaching the southern riverbank. [1-24-11b, 12a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Born of the violent agitation of their colliding waters is this sound, O Rāma; with mind collected in reverence, offer your salutation (praṇāmaṃ niyataḥ kuru)!” Having bowed in salutation to both those sacred rivers (tābhyāṃ tu tāv ubhau kṛtvā praṇāmam), those two supremely righteous princes—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stepping ashore on the southern bank of the Gaṅgā with swift strides, Rāma beholds an untrodden, dreadful forest teeming with crickets, vultures, beasts of prey, and dense trees, and asks Viśvāmitra to whom this fearsome wilderness belongs.
 </details>
 </details>
 
@@ -885,6 +909,14 @@ to demoness Tataka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra narrates how, after the slaying of Vṛtra, the gods and sages bathed Indra here with sacred water-jars to wash away his bodily taint (mala) and hunger (karūṣa); purified, Indra blessed the two lands to flourish as Malada and Karūṣa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा वृत्रवधे राम मलेन समभिप्लुतम् ॥ १८ ॥  
@@ -1152,6 +1184,14 @@ As the Maladas and the Karūṣas, since they bear the taint and hunger from my 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by Śakra’s boon, Malada and Karūṣa flourished in wealth and grain for a long age—until the shape-shifting Yakṣiṇī Tāṭakā, wife of Sunda and mother of the monstrous rākṣasa Mārīca, arose with the strength of a thousand elephants to ravage both realms.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतौ जनपदौ स्फीतौ दीर्घकालमरिन्दम ॥ २४ ॥  
@@ -1368,6 +1408,14 @@ Karusha. [1-24-28b, 29a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A rākṣasa of terrifying form who perpetually terrorizes the people (rākṣaso bhairavākāro nityaṃ trāsayate prajāḥ)! And as for Tāṭakā, she perpetually devastates these two realms, O Rāghava (imau janapadau nityaṃ vināśayati rāghava)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blocking the road just one and a half yojanas ahead, the wicked Tāṭakā has laid waste the entire region; Viśvāmitra commands Rāma to rely upon the strength of his own arms, cast aside all hesitation at slaying a woman, and rid the land of its thorn.
 </details>
 </details>
 

@@ -28,6 +28,14 @@ to save Ravana by giving back Sita to Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening Sītā to a five-hooded serpent coiled around Rāvaṇa's neck, Vibhīṣaṇa urges her immediate restoration before Rāma's arrows and mountain-huge monkeys overwhelm Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशाचरेन्द्रस्य निशम्य वाक्यं  
@@ -384,6 +392,14 @@ the earth you will not be spared by the arrows of Rama."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Prahasta scorns fear of a mortal prince, Vibhīṣaṇa replies that slaying Rāma is as impossible for the Rākṣasas as crossing the ocean without a boat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निशम्य वाक्यं तु विभीषणस्य  
@@ -725,6 +741,14 @@ capable of accomplishing his objects."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Prahasta that his boasts will cease once Rāma's heron-feathered shafts pierce his body, Vibhīṣaṇa denounces the flattering ministers as enemies disguised as friends.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तीक्ष्णा न तावत् तव कङ्कपत्रा  
@@ -1046,6 +1070,14 @@ hunting and gambling.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And this king—harsh by nature (tīkṣṇaḥ prakṛtyā), acting without reflection (asamīkṣakārī), and overwhelmed by vices (vyasanābhibhūtaḥ)—is waited upon (anvāsyate) for the destruction of the Rākṣasas (rākṣasanāśanārthe) by you who are friends resembling foes (mitrair amitrapratimaiḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing Rāvaṇa to a man coiled by thousand-headed Śeṣa, possessed by demons, and sinking into the Rāghava-ocean, Vibhīṣaṇa urges the ministers to restrain him and restore Maithilī.
 </details>
 </details>
 

@@ -27,6 +27,14 @@ night, along with Guha and his kinsmen.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Guha’s account of Rāma’s matted locks, the tender Bharata sinks into thought and collapses like a goad-pierced elephant; Guha trembles, Śatrughna weeps, and the fasting queens rush to his side.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहस्य वचनं श्रुत्वा भरतो भृशमप्रियम् ।  
@@ -305,6 +313,14 @@ to find consolation for the sad end of their lord, rushed towards Bharata.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then all those mothers of Bharata came rushing together (tataḥ sarvāḥ samāpetur mātaro bharatasya tāḥ), emaciated by fasting, wretched, and afflicted by the calamity of their lord’s death (upavāsa-kṛśā dīnā bhartṛ-vyasana-karśitāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā embraces the fallen Bharata like a cow her calf, asking anxiously whether illness afflicts him or whether he has heard ill tidings of Rāma and Lakṣmaṇa; comforting her, Bharata questions Guha.
 </details>
 </details>
 
@@ -634,6 +650,14 @@ Recovering himself after a moment, that prince of great renown, still weeping (s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by Bharata about Rāma’s lodging and fare, Guha relates how Rāma declined all offered food in observance of Kṣatriya duty and fasted with Sītā upon water brought by Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्राता मे क्वावसद् रात्रौ क्व सीता क्व च लक्ष्मणः ।  
@@ -951,6 +975,14 @@ observed fasting."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having drunk only the water brought by Lakṣmaṇa (lakṣmaṇena samānītaṃ pītvā vāri mahā-yaśāḥ), Rāghava of great renown observed a fast at that time together with Sītā (aupavāsyaṃ tadākārṣīd rāghavaḥ saha sītayā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guha shows Bharata the foot of the iṅgudī tree and the bed of darbha grass where Rāma and Sītā slept after evening worship while Lakṣmaṇa and Guha stood guard with strung bows.
 </details>
 </details>
 

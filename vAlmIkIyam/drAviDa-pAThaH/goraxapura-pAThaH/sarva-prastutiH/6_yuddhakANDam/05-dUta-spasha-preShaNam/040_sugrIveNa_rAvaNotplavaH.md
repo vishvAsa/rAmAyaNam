@@ -29,6 +29,14 @@ Sugreeva comes back and rejoins his monkey-troops.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending the two-yojana plateau of Mount Suvela with Sugrīva and the monkey hosts, Rāma beholds Viśvakarmā's citadel of Laṅkā and Rāvaṇa stationed atop its gateway tower.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामः सुवेलाग्रं योजनद्वयमण्डलम् ।  
@@ -242,6 +250,14 @@ sunshine at sunset.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Draped in a crimson garment dyed the hue of hare's blood (śaśa-lohita-rāgeṇa), like a mass of clouds in the sky veiled by twilight sunlight.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed at the sight of Rāvaṇa, Sugrīva leaps unbidden from Mount Suvela onto the gateway tower, defies the demon king, and hurls his crown to the ground.
 </details>
 </details>
 
@@ -545,6 +561,14 @@ will now become Hinagriva bereft of your neck."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding him rushing swiftly at him, the night-stalker spoke to him: “Behind my back (parokṣaṃ me) you are Sugrīva (‘fair-necked’), [but before me] you shall become neckless (hīna-grīvaḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hurled down by Rāvaṇa, Sugrīva rebounds like a ball and grapples the demon king in a fierce wrestling match across the gateway terrace and moat.
 </details>
 </details>
 
@@ -894,6 +918,14 @@ Locking and relocking each other with the cords of their arms (bāhu-yoktraiḥ)
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like young lions, rutting elephants, and stalking cats, the two unwearied combatants execute the classical circular courses, stances, and zigzag maneuvers of close combat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शार्दूलसिंहाविव जातदंष्ट्रौ  
@@ -1154,6 +1186,14 @@ Closing with each other and intent on mutual destruction, like two cats contendi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 [They executed] variegated circular courses (maṇḍalāni), diverse martial stances (sthānāni), wondrous zigzag courses (gomūtrakāṇi), and advances and retreats (gata-pratyāgatāni)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving that exhausted Rāvaṇa is about to resort to conjuring tricks, victorious Sugrīva bounds back across the sky to Rāma's side amidst the cheers of the monkeys.
 </details>
 </details>
 

@@ -24,6 +24,14 @@ away. The episode of Kabandha has a turning point in the epic.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having offered funeral water-libations to Jaṭāyus, Rāma and Lakṣmaṇa journey south-westward through untrodden thickets and enter the dense, cloud-dark forest of Krauñcāraṇya in search of Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्वैवमुदकं तस्मै प्रस्थितौ राघवौ तदा ।  
@@ -338,6 +346,14 @@ Resembling a dense mass of manifold clouds (nānā-megha-ghana-prakhyam), seemin
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Searching Krauñcāraṇya in grief, the two brothers advance three krośas eastward toward Mataṅga's hermitage, where near a pitch-dark mountain cavern they encounter a monstrous, pot-bellied rākṣasī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिदृक्षमाणौ वैदेहीं तद् वनं तौ विचिक्यतुः ।  
@@ -596,6 +612,14 @@ Drawing near (āsādya), those two tigers among men (nara-vyāghrau) beheld not 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Inspiring terror in those of little courage (alpa-sattvānām), loathsome (bībhatsām), fierce to behold (raudra-darśanām), pot-bellied (lambodarīm), sharp-fanged (tīkṣṇa-daṃṣṭrām), gap-toothed (karālīm), and rough-skinned (paruṣa-tvacam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The demoness Ayomukhī embraces Lakṣmaṇa as he walks ahead and invites him to dally with her, whereupon the angered prince draws his sword and severs her ears, nose, and breasts.
 </details>
 </details>
 
@@ -900,6 +924,14 @@ When her ears and nose were severed (karṇa-nāse nikṛtte tu), that rākṣas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the brothers press deeper into the forest after Ayomukhī's flight, Lakṣmaṇa warns Rāma of throbbing portents and the battle-cry of the Vañjulaka bird just as a deafening roar shakes the woods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां गतायां गहनं व्रजन्तौ वनमोजसा ।  
@@ -1185,6 +1217,14 @@ brouhaha emanated as though to completely shatter down that forest. [3-69-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As those two were thus searching (anveṣatoḥ) that entire forest with vigour (ojasā), there arose (saṃjajñe) a tremendous uproar (vipulaḥ śabdaḥ) as though shattering (prabhañjann iva) that forest.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Investigating the wind-like roar echoing through the woods, sword-bearing Rāma and Lakṣmaṇa come face to face with Kabandha, a mountain-sized, headless monster with a single blazing eye on his chest.
 </details>
 </details>
 
@@ -1477,6 +1517,14 @@ like fangs, as he has just finished a gobble, and the brothers had to drew nigh 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blocking the brothers' path while sweeping up bears, lions, and deer with his yojana-long arms, the monstrous Kabandha stretches out his vast limbs and seizes Rāma and Lakṣmaṇa together.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भक्षयन्तं महाघोरानृक्षसिंहमृगद्विजान् ।  
@@ -1743,6 +1791,14 @@ had to yield themselves to that demon when he captured and dragged them. [3-69-3
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Armed with swords (khaḍginau), wielding firm bows (dṛḍha-dhanvānau), of fiery energy (tigma-tejau) and mighty arms, the two powerful brothers fell into helplessness (vivaśaṃ prāptau) as they were dragged (kṛṣyamāṇau) along.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Rāma remains unshaken in Kabandha's grasp, the distressed Lakṣmaṇa urges his elder brother to offer him up as a sacrificial victim to the monster and escape to rescue Vaidehī.
 </details>
 </details>
 
@@ -2033,6 +2089,14 @@ your king of persons will not get dismayed, futilely... [3-69-41b, 42a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma consoles his brother, the Dānava chief Kabandha demands to know who the two bull-shouldered warriors are that fate has delivered directly into his hungry grasp.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे क्रूरो भ्रातरौ रामलक्ष्मणौ ॥ ४२ ॥  
@@ -2228,6 +2292,14 @@ and arms..." So said Kabandha, in his arrogant tone. [3-69-45b, 46a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “You two have arrived at this spot where I stand tormented by hunger (kṣudhārtasyeha tiṣṭhataḥ), with arrows, bows, and swords (sabāṇa-cāpa-khaḍgau), like two bulls with sharp horns (tīkṣṇa-śṛṅgāv ivarṣabhau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting aloud to Lakṣmaṇa on the irresistible power of Time and Destiny before which even mighty warriors crumble like dikes of sand, Rāma steadies his resolve by his own inner strength.
 </details>
 </details>
 

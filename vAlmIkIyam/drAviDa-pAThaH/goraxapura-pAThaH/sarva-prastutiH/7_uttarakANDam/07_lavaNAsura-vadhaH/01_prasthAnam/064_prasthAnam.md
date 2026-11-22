@@ -13,6 +13,14 @@ title = "०६४ प्रस्थानम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having instructed Śatrughna on Lavaṇa’s trident, Rāma outfits him with a grand fourfold host, market trains, entertainers, and vast treasure, urging him to keep his troops contented through gracious speech and generous gifts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा च काकुत्स्थं प्रशस्य च पुनः पुनः ।  
@@ -196,6 +204,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma reveals his covert strategy: Śatrughna must send the army ahead with the sages to cross the Gaṅgā before the monsoon swells it, leave the troops on the riverbank, and approach Madhu’s forest alone at the onset of the rains to catch Lavaṇa off guard.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो हृष्टजनाकीर्णां प्रस्थाप्य महतीं चमूम् ।  
@@ -371,6 +387,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Stationing the entire host there upon the riverbank (tatra sthāpya balaṃ sarvaṃ nadī-tīre), self-composed (samāhitaḥ), go forward with your bow alone (agrato dhanuṣā sārdham), swift in stride (laghu-vikramaḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoning his commanders, Śatrughna assigns their halting camps with strict orders to harm no one, sends the host ahead, bids reverent farewell to his mothers, brothers, and Vasiṣṭha, and departs after tarrying one month beside Rāma.
 </details>
 </details>
 

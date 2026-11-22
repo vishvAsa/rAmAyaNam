@@ -25,6 +25,14 @@ Bhagavad Gita, as its terse version.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clasping Rāma's feet as he laments in delusion, Lakṣmaṇa consoles him by recalling King Daśaratha's austerities and reminding him that calamities touch all beings like fire before passing away.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तथा शोकसन्तप्तं विलपन्तमनाथवत् ।  
@@ -346,6 +354,14 @@ mutable...' but think yourself, what to do next, in a human way...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Take heart (āśvasihi), O best of men (nara-śreṣṭha)! What living being (prāṇinaḥ kasya) do calamities (āpadaḥ) not touch like fire (saṃspṛśanty agnivad), O king, and pass away in an instant (kṣaṇena vyapayānti ca)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Illustrating the universality of adversity, Lakṣmaṇa cites Yayāti's fall from Indra's heaven, the slaughter of Vasiṣṭha's hundred sons, the quaking of the earth, and the eclipses of the sun and moon.
 </details>
 </details>
 
@@ -675,6 +691,14 @@ And the mighty sun and moon (āditya-candrau mahā-balau), who are the twin embo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Rāma that neither the gods nor any embodied being can escape destiny, Lakṣmaṇa urges him to exercise his unclouded intellect rather than grieve like an ordinary mortal.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमहान्त्यपि भूतानि देवाश्च पुरुषर्षभ ।  
@@ -956,6 +980,14 @@ brainily, and great brains will comprehend good and bad in subtlety with their b
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Reflect according to the truth (tattvato hi samanucintaya) with your intellect (buddhyā), O best of men! Endowed with intellect, men of great wisdom (mahā-prājñāḥ) discern what is auspicious and inauspicious (śubhāśubhe).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acknowledging that not even Bṛhaspati could instruct Rāma, Lakṣmaṇa awakens his grief-slumbering wisdom and urges him to direct his divine and human valour solely against the guilty foe.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ and if Dasharatha Rama is capable to do so, Parashu Rama says that he will give 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing Rāma directly, Bhārgava Paraśurāma challenges him to string the terrible ancestral bow of Jamadagni for single combat, while terrified Daśaratha pleads for mercy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राम दाशरथे वीर वीर्यं ते श्रूयतेऽद्भुतम् ।  
@@ -260,6 +268,14 @@ palms said this. [1-75-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of his, King Daśaratha, with a dejected countenance (viṣaṇṇavadano) and stricken with distress (dīnaḥ), joined his palms in supplication (prāñjaliḥ) and spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ignoring Daśaratha’s plea that the royal family cannot survive if Rāma is harmed, Paraśurāma addresses Rāma alone and recounts how Viśvakarman forged two supreme celestial bows.
 </details>
 </details>
 
@@ -596,6 +612,14 @@ and oh, Kakutstha, that bow alone is the annihilator of Tripura, the demon... an
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Paraśurāma narrates how Pitāmaha Brahmā instigated a trial of strength between Śiva and Viṣṇu, wherein Viṣṇu’s mere huṃkāra relaxed Śiva’s terrible bow and paralyzed the three-eyed god.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं द्वितीयं दुर्धर्षं विष्णोर्दत्तं सुरोत्तमैः ।  
@@ -886,6 +910,14 @@ in the matter of wielding authority, and then those two superior gods, Shiva and
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Śiva’s bow slackened by Viṣṇu’s prowess, the gods and sages adjudged Viṣṇu supreme; Rudra gave his bow to Devarāta, while Viṣṇu entrusted his bow to Ṛcīka, who gave it to Jamadagni.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जृम्भितं तद् धनुर्दृष्ट्वा शैवं विष्णुपराक्रमैः ॥ १९ ॥  
@@ -1134,6 +1166,14 @@ mine has isolated himself from arsenal... [1-75-23b, 24a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “my high-souled father Jamadagni (pitur mama dadau divyaṃ jamadagner mahātmanaḥ). Then, while my father, rich in ascetic power, had laid aside his weapons (nyastaśastre pitari me tapobalasamanvite),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how Kārtavīrya Arjuna slew Jamadagni, how he exterminated the Kṣatriyas repeatedly and gave the earth to Kaśyapa, Paraśurāma challenges Rāma to string the Vaiṣṇava bow.
 </details>
 </details>
 

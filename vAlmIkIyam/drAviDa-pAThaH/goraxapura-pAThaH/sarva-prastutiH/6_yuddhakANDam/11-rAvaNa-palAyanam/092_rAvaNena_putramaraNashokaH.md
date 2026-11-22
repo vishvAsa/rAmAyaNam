@@ -28,6 +28,14 @@ Rama in battle. Ravana accepts the advice of his minister and returns to his ass
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning from the battle with his limbs drenched in blood and leaning upon Vibhīṣaṇa and Hanūmān, Lakṣmaṇa approaches Rāma while Vibhīṣaṇa joyfully reports the decapitation of Indrajit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पौलस्त्यसचिवाः श्रुत्वा चेन्द्रजितो वधम् ।  
@@ -325,6 +333,14 @@ conquered Indra, how have you been subjected to the power of Lakshmana now?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Meanwhile, Vibhīṣaṇa, filled with joy, reported (nyavedayata) to Rāma that the head of Rāvaṇa's son (rāvaṇeḥ) had been severed by the high-souled Lakṣmaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing of Indrajit's destruction, Rāma rejoices immeasurably, praises Lakṣmaṇa's arduous feat, and tenderly draws his wounded, bashful brother onto his lap to comfort him.
 </details>
 </details>
 
@@ -629,6 +645,14 @@ one would hear the roar of a troop of female-elephants in a mountain cave."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 that bull among men (puruṣarṣabhaḥ) smelled his head once more, hastened to stroke him (saṃspṛśya ca tvaran) all over, and after consoling Lakṣmaṇa, spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling the three-day battle fought by Lakṣmaṇa, Vibhīṣaṇa, and Hanūmān, Rāma declares Rāvaṇa's right arm severed and vows to crush the grieving demon king when he marches forth.
 </details>
 </details>
 
@@ -949,6 +973,14 @@ Enveloping with a mighty force (balenāvṛtya mahatā) that lord of Rākṣasas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that neither Sītā nor the earth is now hard to regain, Rāma instructs the physician Suṣeṇa to extract the arrow-shafts and heal Lakṣmaṇa, Vibhīṣaṇa, and the wounded Vānaras.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोपाद् विजृम्भमाणस्य वक्त्राद् व्यक्तमिव ज्वलन् ।  
@@ -1254,6 +1286,14 @@ were heard like the noise of a large machine being bragged by the demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Rāma, that high-souled Vānara commander Suṣeṇa administered (dadau) a supreme medicinal herb (paramauṣadham) to Lakṣmaṇa through the nose (nastaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inhaling the fragrance of the divine herb, Lakṣmaṇa is instantly healed of his wounds and exhaustion, while Suṣeṇa treats Vibhīṣaṇa and the Vānara chiefs amid universal rejoicing.
 </details>
 </details>
 

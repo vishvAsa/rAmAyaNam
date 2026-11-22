@@ -25,6 +25,14 @@ of Ravana sleeping in the house. He sees Mandodari and thinks her to be Seetha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing around the hall, Hanumān beholds Rāvaṇa’s crystal couch-platform, its moon-white canopy, and the sun-bright golden bedstead fanned with yak-tail whisks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र दिव्योपमं मुख्यं स्फाटिकं रत्नभूषितम् ।  
@@ -304,6 +312,14 @@ Spread with supreme coverings (paramāstaraṇāstīrṇam), covered over with s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon that couch Hanumān beholds the sleeping Rāvaṇa—dark as a thundercloud, robed in gold, smeared with red sandalwood, and hissing like a serpent—and recoils in alarm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिञ्जीमूतसङ्काशं प्रदीप्तोज्ज्वलकुण्डलम् ।  
@@ -457,6 +473,14 @@ That great Hanuma saw the gallant king of rakshasas in sleep on a shining couch 
 **10:** Having ceased at night after amorous sport (krīḍitvoparataṃ rātrau), adorned with choice ornaments (varābharaṇabhūṣitam), beloved of the rākṣasa maidens (priyaṃ rākṣasakanyānām), and bringer of happiness to the rākṣasas (rākṣasānāṃ sukhāvaham),
 
 **11:** And having ceased also after drinking (pītvāpy uparataṃ cāpi)—the great monkey beheld that heroic lord of rākṣasas (vīraṃ rākṣasādhipam) fast asleep upon his radiant couch (bhāsvare śayane prasuptam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting the staircase landing, Hanumān gazes at Rāvaṇa’s two mighty arms—scarred by Airāvata’s tusks, Indra’s thunderbolt, and Viṣṇu’s discus, and resting like five-headed serpents.
 </details>
 </details>
 
@@ -780,6 +804,14 @@ Compactly knit (saṃhatau), shaped like ironstad-bars (parighākārau), rounded
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Anointed with hare’s-blood-red sandalwood, Rāvaṇa’s two arms resemble wrathful serpents on Mandara, while his mango- and wine-fragrant breath fills the hall.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शशक्षतजकल्पेन सुशीतेन सुगन्धिना ।  
@@ -1041,6 +1073,14 @@ the flavor of best cooked rice, with the smell of liquor as though filling that 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his golden diadem tilted askew, his broad chest smeared with red sandalwood, and four golden lamps illuminating him like lightning around a cloud, Rāvaṇa sleeps beside his wives.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुक्तामणिविचित्रेण काञ्चनेन विराजिता ।  
@@ -1273,6 +1313,14 @@ being shone by groups of lighting.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And in the mansion of that lord of rākṣasas (tasya rakṣaḥpater gṛhe), who was so fond of his consorts (priyabhāryasya), he also beheld the wives (patnīḥ dadarśa) of that mighty-bodied monarch lying at the soles of his feet (pādamūlagatāś cāpi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With moon-like faces, diamond-and-cat’s-eye earrings, and unwithering garlands, Rāvaṇa’s wives skilled in dance and music sleep in graceful postures around the aerial palace.
 </details>
 </details>
 
@@ -1604,6 +1652,14 @@ And another woman of peerless complexion (anyā varavarṇinī), graceful in dan
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sleeping female musicians embrace their lutes, flutes, and drums like lotus-creepers clinging to a boat, fond mothers cradling infants, or passionate wives clasping their lovers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काचिद् वीणां परिष्वज्य प्रसुप्ता सम्प्रकाशते ।  
@@ -1929,6 +1985,14 @@ parts which were pleasant which resembled gold and which were smooth and fleshy.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And another woman with intoxicated eyes (anyā mattalocanā) lay fast asleep (prasuptā), clasping a mṛdaṅga drum (mṛdaṅgaṃ parividdhya) with her charming, soft, and rounded limbs that shone like gold (kanakasaṃkāśair mṛdupīnair manoramaiḥ aṅgaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Other sleeping women clasp their paṇava, ḍiṇḍima, and āḍambara drums, overturn a water-pitcher like a sprinkled spring garland, or embrace their own breasts and companions.
 </details>
 </details>
 
@@ -2258,6 +2322,14 @@ slept hugging another woman with a beautiful hip region.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And another lotus-petal-eyed woman (anyā kamalapatrākṣī) whose face resembled the full moon (pūrṇendusadṛśānanā), languid with intoxication (madavihvalā), lay fast asleep embracing another fair-hipped woman (anyām āliṅgya suśroṇīm).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the golden-complexioned queen Mandodarī sleeping apart on asplendid couch, Hanumān mistakes her for Sītā and leaps, claps, and kisses his tail in monkey joy.
 </details>
 </details>
 

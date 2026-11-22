@@ -23,6 +23,14 @@ and proposes to fight with Rama's enemies to endow Rama with Kingdom.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing his head momentarily between grief and joy at Rāma's words, Lakṣmaṇa suddenly knits his brow like an enraged serpent or lion, shakes his forearm like an elephant's trunk, and challenges Rāma's misplaced anxiety.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवति रामे तु  
@@ -248,6 +256,14 @@ direction.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Shaking his forearm (agrahastaṃ vidhunvan) as an elephant shakes its trunk, and tossing his neck (śirodharām) sideways and upwards upon his body,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa reproaches Rāma for praising powerless Destiny, denounces Daśaratha and Kaikeyī as hypocrites cloaked in dharma who fabricated the boons, and declares that he hates a dharma that clouds Rāma's judgment.
 </details>
 </details>
 
@@ -619,6 +635,14 @@ Kaikeyi?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving that Rāma fails to see the fraudulent rift and clings to a censured dharma toward enemies in parents' guise, Lakṣmaṇa proclaims that only cowards follow Destiny, whereas heroes crush Destiny by manly effort.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अयं किल्बिषाद् भेदः  
@@ -947,6 +971,14 @@ distinction between man and the destiny will be clearly perceived."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Today people shall behold the power of Destiny and the manly might of a true man (pauruṣaṃ puruṣasya ca); today the true measure (vyaktiḥ) of both Destiny and human effort shall become manifest!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa vows to turn back headlong Destiny by his valor like an unbridled, rutting elephant defying the goad, declaring that not even the world-guardians can stop Rāma's consecration and that the plotters themselves will dwell in the forest.
 </details>
 </details>
 
@@ -1287,6 +1319,14 @@ prowess will create to those who are opposed to my strength."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa argues that forest retirement belongs only to aged kings after entrusting the realm to their sons, vows to guard Rāma's kingdom like the shore guarding the ocean, and declares that his arms and weapons are not for ornament.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊर्ध्वं वर्षसहस्रान्ते  
@@ -1596,6 +1636,14 @@ subduing enemies."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exalting his fourfold panoply of arms, bow, sword, and arrows, Lakṣmaṇa vows to hew down even Indra in battle, strew the earth with severed limbs of elephants, horses, and charioteers, and pierce the vitals of every foe.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमित्र-मथनार्थाय  
@@ -1902,6 +1950,14 @@ sovereign and making Dasaratha devoid of power."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Overwhelming one man with many arrows, and many men with a single arrow (bahubhiś caikam atyasyann ekena ca bahūñ janān), I shall drive my shafts deep into the vital organs of men, steeds, and elephants!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa pledges that his arms—worthy of sandal-paste, armlets, charity, and protecting friends—will crush the obstructers of the consecration; wiping away Lakṣmaṇa's tears, Rāma gently reaffirms that obeying their parents is the path of the good.
 </details>
 </details>
 

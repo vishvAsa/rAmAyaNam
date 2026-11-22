@@ -28,6 +28,14 @@ father.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Royal chaplain Vasiṣṭha addresses Rāma again, declaring that of a man’s three gurus—preceptor, father, and mother—the preceptor who imparts wisdom is supreme, and urges Rāma to obey his preceptor, the assembled orders, and his aged mother.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठः स तदा राममुक्त्वा राजपुरोहितः ।  
@@ -347,6 +355,14 @@ You ought not to fail in obedience toward your aged and righteous mother (vṛdd
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha urges Rāma to grant suppliant Bharata’s plea, but Rāma replies that the benefits conferred by mother and father in rearing a child can never be repaid, and that his pledge to his father Daśaratha shall never prove false.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्य वचः कुर्वन् याचमानस्य राघव ।  
@@ -617,6 +633,14 @@ addressed the following words to Sumantra the charioteer who was standing nearby
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When Rāma had spoken thus, the supremely magnanimous Bharata, deeply distressed at heart, immediately spoke to the charioteer standing beside him (evam uktas tu rāmeṇa bharataḥ pratyanantaram uvāca paramodāraḥ sūtaṃ parama-durmanāḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata orders Sumantra to spread kuśa grass on the ground so that he may sit in a fast unto death before Rāma’s hut; when Sumantra hesitates, Bharata spreads it himself, whereupon Rāma rebukes the un-Kṣatriya practice and bids him return to Ayodhyā.
 </details>
 </details>
 
@@ -919,6 +943,14 @@ Arise, O tiger among men, abandoning this terrible vow (uttiṣṭha nara-śārd
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated on the kuśa grass, Bharata appeals to the citizens and countryfolk to command Rāma to return; when they reply that both brothers are right and that they cannot turn Rāma from his father’s word, Rāma bids Bharata arise and touch him and water.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसीनस्त्वेव भरतः पौरजानपदं जनम् ।  
@@ -1182,6 +1214,14 @@ Having heard both these statements, weigh them well, O Rāghava (etac caivobhaya
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising and touching water, Bharata protests his innocence before the assembly and offers to dwell in the forest for fourteen years in Rāma’s stead; astonished, Rāma replies that what their father pledged or transacted while alive cannot be annulled.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोत्थाय जलं स्पृष्ट्वा भरतो वाक्यमब्रवीत् ।  
@@ -1426,6 +1466,14 @@ either by me or by Bharata."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever was sold, pledged as security, or bought by my father while he was alive (vikrītam āhitaṃ krītaṃ yat pitrā jīvatā mama)—that cannot be annulled either by me or by Bharata (na tal lopayituṃ śakyaṃ mayā vā bharatena vā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma rejects the censured expedient of employing a substitute in his forest exile, praises Bharata’s forbearance and devotion to elders, promises to rule the earth with him upon returning from the woods, and bids him free their father from falsehood.
 </details>
 </details>
 

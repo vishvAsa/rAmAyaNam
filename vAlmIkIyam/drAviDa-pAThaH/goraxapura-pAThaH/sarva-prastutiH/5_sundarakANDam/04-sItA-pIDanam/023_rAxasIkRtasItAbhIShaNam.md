@@ -24,6 +24,14 @@ This chapter describes the ogre women speaking to Seetha about her marrying Rava
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once Rāvaṇa departs for his inner apartments, the terrifying rākṣasīs rush upon Sītā in fury, and red-eyed Ekajaṭā extols Rāvaṇa’s descent from Prajāpati Pulastya.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मैथिलीं राजा रावणः शत्रुरावणः ।  
@@ -330,6 +338,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding her pedigree of Viśravas’s son Rāvaṇa, Ekajaṭā yields to cat-eyed Harijaṭā, who rolls her eyes in rage and extols Rāvaṇa’s conquest of the thirty-three gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुलस्त्यस्य तु तेजस्वी महर्षिर्मानसः सुतः ।  
@@ -561,6 +577,14 @@ of that lord of the rākṣasas you ought to become the wife! Why do you not des
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Promising that Rāvaṇa will cast aside even his beloved queen Mandodarī and his thousand-woman harem for her, Vikaṭā asks why Sītā spurns the conqueror of nāgas and dānavas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियां बहुमतां भार्यां त्यक्त्वा राजा महाबलः ।  
@@ -688,6 +712,14 @@ you.
 **14:** Then another rākṣasī named Vikaṭā spoke a word: “He by whose dreadful valour (bhīmavīryeṇa) nāgas, gandharvas, and dānavas have been repeatedly vanquished (asakṛd nirjitāḥ) in battle—he has come to your side (pārśvam upāgataḥ)!
 
 **15:** Why, O vile woman (adhame), do you not desire to become the wife of that high-souled Rāvaṇa, the lord of the rākṣasas, who is endowed with every affluence (sarvasamṛddhasya)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Durmukhī warns Sītā that even the sun, wind, trees, mountains, and clouds obey Rāvaṇa out of fear, urging her to accept his suit lest she perish immediately.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०८६ इन्द्राश्व-मेधः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resuming the sequel of Vṛtra’s slaying, Lakṣmaṇa describes Indra writhing unconscious at the world’s edge in Brahmahatyā’s grip while the kingless earth withers in drought, compelling the alarmed gods to prepare the Aśvamedha decreed by Viṣṇu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा वृत्रवधं सर्वमखिलेन स लक्ष्मणः ।  
@@ -174,6 +182,14 @@ Having thus narrated in its entirety the slaying of Vṛtra (vṛtra-vadhaṃ sa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by sages and preceptors, the gods seek out the fear-bewildered Indra and conduct the great Aśvamedha on his behalf; upon its completion, personified Brahmahatyā appears asking where she should dwell, and the pleased gods bid her divide herself fourfold.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वे सुरगणाः सोपाध्यायाः सहर्षिभिः ।  
@@ -332,6 +348,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting the gods’ command, Brahmahatyā chooses her four abodes: rain-swollen rivers during the four monsoon months, barren tracts of the earth perpetually, young women during their three monthly days, and those who falsely slay innocent brahmins.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवानां भाषितं श्रुत्वा ब्रह्महत्या महात्मनाम् ।  
@@ -484,6 +508,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘And as for those who, upon false pretext, slay blameless brahmins (hantāro brāhmaṇān ye tu mṛṣāpūrvam adūṣakān), with my fourth share I shall take up my abode in them, O bulls among gods (tāṃś caturthena bhāgena saṃśrayiṣye surarṣabhāḥ).’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ratifying Brahmahatyā’s fourfold distribution, the gods hail a newly purified, fever-free Indra; as the cosmos regains peace and Indra worships Viṣṇu, Lakṣmaṇa urges Rāma to perform this wondrous Aśvamedha, filling the king with deep delight.
 </details>
 </details>
 

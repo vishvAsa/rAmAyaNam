@@ -29,6 +29,14 @@ start their fighting operation.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the diademed colossus Kumbhakarṇa striding like Nārāyaṇa across the heavens and routing the Vānara host, Rāma questions Vibhīṣaṇa regarding this tawny-eyed titan rising like a lightning-lit thundercloud.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो महातेजा धनुरादाय वीर्यवान् ।  
@@ -299,6 +307,14 @@ by seeing whom all the monkeys are running away hither and thither."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “He stands forth here alone, vast as a solitary banner upon the earth (pṛthivyāṃ ketubhūtaḥ), seeing whom all the Vānaras flee hither and thither.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by Rāma whether this unprecedented colossus is a Rākṣasa or an Asura, Vibhīṣaṇa identifies Viśravas's son Kumbhakarṇa, whose innate might routed Yama, Indra, and the celestials.
 </details>
 </details>
 
@@ -609,6 +625,14 @@ other demon-chiefs is attributable to boons (granted on request by gods)."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For this mighty Kumbhakarṇa is resplendent by his very nature (prakṛtyā hy eṣa tejasvī); the strength of other Rākṣasa lords is born from the bestowal of boons (varadānakṛtaṃ balam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa narrates how the newborn Kumbhakarṇa devoured thousands of creatures, withstood Indra's thunderbolt, and tore out Airāvata's tusk to strike Vāsava upon the chest.
 </details>
 </details>
 
@@ -926,6 +950,14 @@ to the abode of Brahma the Lord of creation."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appealed to by Indra and the subjects, the Creator Svayambhū summons Kumbhakarṇa, shudders at his sight, and curses him to sleep like one dead from that day forth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजाभिः सह शक्रश्च ययौ स्थानं स्वयम्भुवः ।  
@@ -1200,6 +1232,14 @@ account, you will be sleeping apparently dead from now onwards."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Surely you were fashioned by Paulastya [Viśravas] for the destruction of the worlds (lokavināśāya); therefore, from this day forth (adyaprabhṛti), you shall sleep as though dead (mṛtakalpaḥ śayiṣyase)!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Kumbhakarṇa collapses under Brahmā's curse, Rāvaṇa pleads for a fixed measure of sleep and waking; Brahmā ordains six months' slumber and a single day's ravening wakefulness.
 </details>
 </details>
 
@@ -1502,6 +1542,14 @@ seeing your prowess, now got Kumbhakarna awakened."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the Vānaras panic before Kumbhakarṇa, Vibhīṣaṇa advises proclaiming the giant a mere mechanical effigy, whereupon Rāma orders Nīla to array the troops at Laṅkā's gates and bridges.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एष निर्गतो वीरः शिबिराद् भीमविक्रमः ।  
@@ -1748,6 +1796,14 @@ door-ways, high-ways and bridges of Lanka, stand ready for operation."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Go, O son of the Fire-God (pāvake), and having marshalled (vyūhya) all the forces, stand fast occupying the gates of Laṅkā, its highways (caryāḥ), and its bridges (saṃkramān).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's command, Nīla marshals the Vānara chieftains—Gavākṣa, Śarabha, Hanūmān, and Aṅgada—who arm themselves with crags and trees like a mass of mountain clouds.
 </details>
 </details>
 

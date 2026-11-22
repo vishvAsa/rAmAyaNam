@@ -28,6 +28,14 @@ Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Handing over her crest-jewel as a trusted token that will recall three elders to Rāma, Sītā urges Hanūmān to strive for her deliverance as he bows to depart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मणिं दत्त्वा ततः सीता हनूमन्तमथाब्रवीत् ।  
@@ -347,6 +355,14 @@ with her voice choked by tears.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With her voice choked with tears, Sītā entrusts Hanūmān with auspicious greetings for Rāma, Lakṣmaṇa, and Sugrīva, urging words that will rouse Rāma's valor to rescue her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमन् कुशलं ब्रूयाः सहितौ रामलक्ष्मणौ ॥ ७ ॥  
@@ -627,6 +643,14 @@ heart in exercising his strength."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Merely upon hearing from you the words bearing my message (matsaṃdeśayutāḥ vācaḥ), the heroic Rāghava will duly set his mind (matiṃ vidhivat saṃvidhāsyati) upon valorous action (parākrame).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing folded hands upon his head, Hanūmān reassures Sītā that Rāma will swiftly arrive with monkey and bear hosts, invincible against all beings, to win victory for her.
 </details>
 </details>
 
@@ -941,6 +965,14 @@ Hearing that speech of his—well-reasoned (samyak), truthful (satyam), and eloq
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing repeatedly upon the departing Hanūmān, Sītā asks him to rest for a day to ease her grief, yet fears his absence and doubts how the army will cross.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं प्रस्थितं सीता वीक्षमाणा पुनः पुनः ।  
@@ -1222,6 +1254,14 @@ your disappearance will further torment me, like a burning flame."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Grief born of not seeing you (tavādarśanajaḥ śokaḥ) would torment me all the more (bhūyo māṃ paritāpayet), as though setting me ablaze (dīpayann iva), O monkey, afflicted as I am from sorrow to sorrow (duḥkhāduḥkhaparāmṛṣṭām).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioning how the monkey hosts and the two princes will cross the ocean when only Garuḍa, Vāyu, and Hanūmān can leap it, Sītā insists Rāma himself must conquer Laṅkā.
 </details>
 </details>
 
@@ -1581,6 +1621,14 @@ me home, it will be quite worthy of him."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding her reasoned appeal, Sītā urges Hanūmān to arrange a feat worthy of Rāma, and Hanūmān extols Sugrīva's resolved millions of monkeys whose flight knows no obstacle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्यथा तस्य विक्रान्तमनुरूपं महात्मनः ।  
@@ -1895,6 +1943,14 @@ any great task."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—whose course (yeṣāṃ gatiḥ) is never impeded (na sajjate) above, below, or across (nopari nādhastān na tiryak), and who, of boundless splendor (amitatejasaḥ), never falter in great deeds (na ca karmasu sīdanti mahatsu).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān declares that Sugrīva's monkey chiefs have repeatedly circled the earth, that only lesser envoys like himself are sent ahead, and that Rāma and Lakṣmaṇa will ride upon his back.
 </details>
 </details>
 
@@ -2213,6 +2269,14 @@ the City of Lanka with their arrows."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For those two heroic best of men, Rāma and Lakṣmaṇa together (sahitau rāmalakṣmaṇau), having come to the city of Laṅkā (āgamya nagarīṃ laṅkām), will blow it away with their arrows (sāyakair vidhamiṣyataḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Sītā await the auspicious hour when she will reunite with Rāma like Rohiṇī with the Moon, Hanūmān resolves to depart and speaks once more of Rāma and Lakṣmaṇa.
 </details>
 </details>
 
@@ -2545,6 +2609,14 @@ and Lakshmana wielding a bow in his hand will soon reach the entrance of Lanka a
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Swiftly you shall behold that Rāghava, the slayer of foes (arighnam) and master of his spirit (kṛtātmānam), and Lakṣmaṇa, bow in hand (dhanuṣpāṇim), arrived at the gates of Laṅkā (laṅkādvāram upāgatam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Describing the monkey hosts that will soon roar on Laṅkā's peaks and Rāma's love-tormented anguish, Hanūmān begs Sītā to endure only the brief interval of his return journey.
 </details>
 </details>
 

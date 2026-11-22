@@ -13,6 +13,14 @@ title = "०१० पौलस्त्य-वर-दानम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prompted by Rāma’s inquiry into the brothers’ forest austerities, Agastya describes Kumbhakarṇa’s ten-thousand-year seasonal penances amidst five fires, monsoon rains, and wintry waters, followed by Vibhīṣaṇa’s five millennia standing upon a single foot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाब्रवीन्मुनिं रामः कथं ते भ्रातरो वने ।  
@@ -197,6 +205,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Meanwhile the righteous-souled Vibhīṣaṇa (vibhīṣaṇas tu dharmātmā), ever devoted to dharma (nityaṃ dharma-paraḥ) and pure (śuciḥ), stood upon a single foot (pādenaikena tasthivān) for five thousand years.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Apsarases dance and blossoms shower upon Vibhīṣaṇa’s serene ten-thousand-year vigil, Rāvaṇa fasts for a decade of millennia, offering one severed head into the fire each thousand years until Brahmā halts the tenth.
 </details>
 </details>
 
@@ -389,6 +405,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appearing with the gods to halt Rāvaṇa’s final self-offering, Brahmā bids him choose a boon; when Rāvaṇa demands outright immortality because no foe equals Death, the Grandsire denies absolute deathlessness and bids him choose another.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहस्तु सुप्रीतः सार्धं देवैरुपस्थितः ।  
@@ -575,6 +599,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissing mortals as mere blades of grass, Rāvaṇa requests invulnerability to gods, birds, serpents, Yakṣas, Daityas, Dānavas, and Rākṣasas; Brahmā grants his boon and further promises to restore his nine sacrificed heads and confer a second rare gift.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुपर्णनागयक्षाणां दैत्यदानवरक्षसाम् ।  
@@ -735,6 +767,14 @@ _________________
 **23:** “‘Hear as well a further auspicious boon (śṛṇu cāpi varo bhūyaḥ ... śubho mama) from me, who am pleased here: those heads which were previously offered by you into the fire (hutāni yāni śīrṣāṇi pūrvam agnau tvayā), O sinless one,
 
 **24:** “‘Those very heads shall come back into being for you just as before (punas tāni bhaviṣyanti tathaiva tava), O Rākṣasa; and I bestow upon you here, O gentle one (vitarāmīha te saumya), yet another boon hard to attain (varaṃ cānyaṃ durāsadam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Brahmā grants Rāvaṇa shape-shifting at will and restores his nine severed heads, the Grandsire turns warmly to the virtuous Vibhīṣaṇa, who replies with joined palms that Brahmā’s favor alone has already fulfilled him.
 </details>
 </details>
 
@@ -899,6 +939,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking only that his mind abide in dharma even in direst calamity and that the brahmāstra shine forth untaught, Vibhīṣaṇa wins Brahmā’s unsolicited gift of immortality; as Brahmā turns to Kumbhakarṇa, the alarmed gods urgently intervene.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या या मे जायते बुद्धिर्येषु येष्वाश्रमेषु च ॥ ३१ ॥  
@@ -1060,6 +1108,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting Kumbhakarṇa’s voracious slaughter of Apsarases, Indra’s attendants, sages, and mortals, the gods warn he would devour all three worlds if empowered, and urge Brahmā to grant him delusion under the guise of a boon; Brahmā summons Sarasvatī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नन्दनेऽप्सरसः सप्त महेन्द्रानुचरा दश ॥ ३७ ॥  
@@ -1218,6 +1274,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded by Prajāpati to become the speech desired by the gods within Kumbhakarṇa’s mouth, Sarasvatī enters unseen; invited then to name his boon, the giant declares his wish to sleep for many years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजापतिस्तु तां प्राप्तां प्राह वाक्यं सरस्वतीम् ॥ ४२ ॥  
@@ -1312,6 +1376,14 @@ _________________
 **44:** “Saying ‘So be it’ (tathety uktvā), she entered within him (praviṣṭā sā); thereupon Prajāpati spoke: ‘O mighty-armed Kumbhakarṇa (kumbhakarṇa mahābāho), choose whatever boon is dear to your mind (varaṃ varaya yo mataḥ)!’
 
 **45:** “Hearing those words (tad vākyaṃ śrutvā), Kumbhakarṇa thereupon uttered this speech (vacanam abravīt): ‘O God of gods (devadeva), it is my desire to sleep for many years (svaptuṃ varṣāṇy anekāni ... mamepsitam)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instantly confirming Kumbhakarṇa’s boon and ascending skyward with the gods, Brahmā departs while Sarasvatī releases the giant; realizing too late that the deities deluded him, Kumbhakarṇa joins his boon-crowned brothers in their father’s Śleṣmātaka grove.
 </details>
 </details>
 

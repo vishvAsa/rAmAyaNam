@@ -25,6 +25,14 @@ Sage Vishvamitra along with others reach the banks of River Ganga and
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak on the bank of the Śoṇa, Viśvāmitra awakens Rāma with the immortal dawn benediction and guides the princes across the sandy-shoaled river along the path of the great sages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपास्य रात्रिशेषं तु शोणाकूले महर्षिभिः ।  
@@ -271,6 +279,14 @@ Thus addressed by Rāma, Viśvāmitra spoke this in reply: “Here is the path p
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marching a great distance past diverse woodlands after fording the Śoṇa, the sages and princes behold at midday the sacred Jāhnavī (Gaṅgā) frequented by swans and cranes, and perform their midday rites on her bank.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता महर्षयो विश्वामित्रेण धीमता ।  
@@ -492,6 +508,14 @@ Then they sojourned on the riverbank of Ganga, and next on taking bath
 **9:** On her bank they all prepared their halting-places (tasyās tīre tadā sarve cakrur vāsaparigraham); then, having bathed in accordance with sacred precept and offered water-libations to the ancestral manes and gods (tataḥ snātvā yathānyāyaṃ saṃtarpya pitṛdevatāḥ)—
 
 **10:** —and having offered oblations into their sacred fires and partaken of the nectar-like sacrificial oblation (hutvā caivāgnihotrāṇi prāśya cāmṛtavad dhaviḥ), they sat down radiant and joyful-minded upon the pure bank of the Jāhnavī (viviśur jāhnavītīre śubhā muditamānasāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated around Viśvāmitra on the bank of the Jāhnavī, Rāma asks how the three-pathed Gaṅgā traversed the three worlds to reach the ocean; the sage begins with Himavān and his consort Menā, daughter of Meru.
 </details>
 </details>
 
@@ -747,6 +771,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Born to Himavān and Menā as elder sister to Umā, Gaṅgā is sought by the gods and righteously bestowed by Himavān for the welfare of the three worlds, while Umā undertakes fierce asceticism.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां गङ्गेयमभवज्ज्येष्ठा हिमवतः सुता ।  
@@ -997,6 +1029,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And that other daughter of the mountain who remained a maiden (yā cānyā śailaduhitā kanyāsīt), O delight of the Raghus, rich in asceticism, adopted a fierce and noble vow and practised severe penance (ugraṃ suvratam āsthāya tapas tepe tapodhanā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Himavān bestows Umā upon the peerless Rudra; Viśvāmitra concludes his account of the two world-venerated sisters by describing how Gaṅgā first ascended to the sky as the sin-destroying river of the gods.
 </details>
 </details>
 

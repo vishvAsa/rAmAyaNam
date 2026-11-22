@@ -13,6 +13,14 @@ title = "१०० गन्धर्व-राज्य-ग्रहण-चो�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Yudhājit of Kekaya dispatches his preceptor Gārgya with ten thousand horses, blankets, gems, and ornaments to Rāma, who walks a krośa with his brothers to honor the sage and inquire of his uncle’s welfare.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित् त्वथ कालस्य युधाजित् केकयो नृपः ।  
@@ -148,6 +156,14 @@ After the lapse of some time (kasyacit tv atha kālasya), Yudhājit, the king of
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having thus honored that sage and accepted that wealth (taddhanaṃ pratigṛhya ca), and having asked step by step about every aspect of his maternal uncle’s welfare (pṛṣṭvā pratipadaṃ sarvaṃ kuśalaṃ mātulasya ca), Rāma began to question that illustrious sage once seated (upaviṣṭaṃ mahābhāgam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asked by Rāma for Yudhājit’s message, Gārgya describes the fertile Gandharva domain straddling both banks of the Sindhu, guarded by thirty million sons of Śailūṣa, and relays Yudhājit’s plea that Rāma conquer it and found two cities.
 </details>
 </details>
 
@@ -312,6 +328,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that none but Rāma can subdue that splendid land, Gārgya wins Rāma’s joyful consent; glancing at Bharata, Rāma assigns Bharata’s valiant sons Takṣa and Puṣkala, led by Bharata and guarded by Yudhājit, to conquer and divide the two cities.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् विनिर्जित्य काकुत्स्थ गन्धर्वनगरं शुभम् ॥ १२ ॥  
@@ -453,6 +477,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Bharata will return after establishing his sons in those two cities, Rāma consecrates Takṣa and Puṣkala; under a benign asterism, placing Gārgya in front, Bharata marches out with an invincible army escorted afar by Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवेश्य ते पुरवरे आत्मजौ सन्निवेश्य च ।  
@@ -574,6 +606,14 @@ Then, under a benign asterism (nakṣatreṇa ca saumyena), placing the son of A
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That army, invincible even to the gods (durādharṣā surair api), marched forth from the city like a host led by Śakra (śakrayukteva nagarān niryayāv atha), escorted a long distance by Rāghava (rāghavānugatā dūram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Flesh-eating beasts, rākṣasas, spirits, and thousands of lions, tigers, boars, and sky-faring birds trail and precede Bharata’s host in auspicious anticipation of battle; marching unimpaired for a month and a half, the thriving army reaches Kekaya.
 </details>
 </details>
 

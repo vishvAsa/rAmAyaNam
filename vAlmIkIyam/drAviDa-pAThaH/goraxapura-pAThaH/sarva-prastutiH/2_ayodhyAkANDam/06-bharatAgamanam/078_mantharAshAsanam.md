@@ -25,6 +25,14 @@ her son, Bharata intervenses and Shatrughna releases Manthara.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Śatrughna laments to Bharata that Lakṣmaṇa did not restrain their erring father from banishing Rāma, the hunchback Mantharā appears at the eastern gate decked in royal finery.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ यात्रां समीहन्तं शत्रुघ्नो लक्ष्मणानुजः ।  
@@ -336,6 +344,14 @@ with several kinds of ornaments of every description in various ways.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Smeared with choice sandal-paste and wearing royal garments (liptā candana-sāreṇa rāja-vastrāṇi bibhratī), she was manifoldly decked out with diverse ornaments of every sort (vividhaṃ vividhais tais tair bhūṣaṇaiś ca vibhūṣitā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking like a she-monkey tied up with ropes in her gaudy girdles, Mantharā is seized by the palace warders and handed over to Śatrughna, who seizes her as the palace resounds with her cries.
 </details>
 </details>
 
@@ -664,6 +680,14 @@ When he had spoken thus, that hunchback, surrounded by her female companions, wa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While her terrified companions flee to seek refuge with compassionate Kausalyā, wrathful Śatrughna drags the shrieking Mantharā across the floor, scattering her varied ornaments over the earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुभृशसन्तप्तस्तस्याः सर्वः सखीजनः ।  
@@ -933,6 +957,14 @@ As Mantharā was being dragged hither and thither (tasyā hy ākṛṣyamāṇā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the palace floor gleams like an autumn sky strewn with her fallen jewelry, Śatrughna sternly rebukes Kaikeyī, who flees in terror to Bharata; Bharata stays Śatrughna’s hand lest Rāma condemn them.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन भाण्डेन विस्तीर्णं श्रीमद् राजनिवेशनम् ।  
@@ -1193,6 +1225,14 @@ mother, I would have killed this Kaikeyi, the ill-mannered and sinful woman."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I myself would slay this wicked Kaikeyī of evil conduct (hanyām aham imāṃ pāpāṃ kaikeyīṃ duṣṭa-cāriṇīm), if righteous Rāma would not abhor me as a matricide (yadi māṃ dhārmiko rāmo nāsūyen mātṛ-ghātakam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warned by Bharata that righteous Rāma will never speak to either of them if the hunchback is slain, Śatrughna releases Mantharā, who collapses weeping at Kaikeyī’s feet like a snared female krauñca bird.
 </details>
 </details>
 

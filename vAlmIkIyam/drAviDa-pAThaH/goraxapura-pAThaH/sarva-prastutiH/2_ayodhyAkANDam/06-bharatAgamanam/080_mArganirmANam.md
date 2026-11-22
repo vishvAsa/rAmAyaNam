@@ -24,6 +24,14 @@ built on the path.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surveyors, engineers, diggers, architects, carpenters, well-makers, plasterers, and bamboo-workers march out in joyous throngs like the ocean at full moon, clearing creepers, boulders, and trees to fashion the highway.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ भूमिप्रदेशज्ञाः सूत्रकर्मविशारदाः ।  
@@ -262,6 +270,14 @@ kinds of trees (which obstructed the way), they carved out a path.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Clearing away creepers, trailing vines, thickets, tree-stumps, and boulders (latā-vallīś ca gulmāṃś ca sthāṇūn aśmana eva ca), and felling diverse trees, they constructed the highway (janāyāṃcakrire mārgaṃ chindanto vividhān drumān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Planting shade-trees in treeless tracts, hewing with axes, chisels, and sickles, leveling tussocks and hollows, damming streams into sea-like reservoirs, and digging stepped wells, the workmen transform the route.
 </details>
 </details>
 
@@ -548,6 +564,14 @@ And in waterless tracts they caused excellent wells of manifold designs to be ex
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Paved with stucco, lined with flowering trees and singing birds, sprinkled with sandal-water, and adorned with flags and royal encampments erected at auspicious moments, the army’s highway rivals the path of the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ससुधाकुट्टिमतलः प्रपुष्पितमहीरुहः ।  
@@ -736,6 +760,14 @@ days when the stars were propitious.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Under auspicious lunar mansions and at favorable hours (nakṣatreṣu praśasteṣu muhūrteṣu ca), men versed in architectural science established the halting-camps of magnanimous Bharata (tad-vidaḥ niveśān sthāpayām āsur bharatasya mahātmanaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Girt with moats, ramparts, avenues, and seven-storied pavilions soaring like Indra’s city, the royal highway reaches the pure, fish-teeming Gaṅgā and shines like the cloudless night sky decked with moon and stars.
 </details>
 </details>
 

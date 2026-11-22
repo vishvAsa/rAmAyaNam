@@ -23,6 +23,14 @@ his demise as any ordinary woman would.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kissing the face of the fallen monkey king, the world-renowned Tārā reproaches the silent Vālin for embracing the stony earth instead of her and ignoring his subjects' cries.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुपजिघ्रन्ती कपिराजस्य तन्मुखम् ।  
@@ -339,6 +347,14 @@ once felled them in fights, or what? [3-23-6b, 7a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And hearing these words of mine (mama cemā giraḥ śrutvā), why do you not awaken (kiṃ tvaṃ na pratibudhyase)? Is this that hero's couch (idaṃ tad vīraśayanam) where you lie slain in battle (tatra śeṣe hato yudhi)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mourning Vālin on the field where he once laid foes low, Tārā warns wise fathers against wedding a daughter to a warrior and marvels at her unshattered heart.
 </details>
 </details>
 
@@ -661,6 +677,14 @@ people will call her a widow, if she is without husband. [3-23-12b, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prevented from embracing Vālin by Rāma's arrow lodged in his chest, Tārā laments her widowhood until Nīla extracts the blazing shaft like a glowing serpent from a mountain cavern.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वगात्रप्रभवे वीर शेषे रुधिरमण्डले ॥ १३ ॥  
@@ -967,6 +991,14 @@ More brilliant days are indicated for the arrows of Rama as the dusky day of Val
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Like a blazing venomous serpent (dīptam āśīviṣaṃ yathā) lurking inside a mountain cavern (girigahvarasaṃlīnam), the luster even of that arrow (tasya bāṇasyāpi dyutiḥ) shone forth (babhau) as it was being drawn out (niṣkṛṣyamāṇasya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As streams of blood gush from Vālin's wounds like red-chalk torrents from a mountain, Tārā washes the battle-dust from his body with her tears and bids Aṅgada salute his father.
 </details>
 </details>
 
@@ -1283,6 +1315,14 @@ sinewy arms saying, "father, I am Angada..." [3-23-24b, 25a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —offer salutation (abhivādaya), O son (putra), to the king, your honor-bestowing father (rājānaṃ pitaraṃ mānadām)!” Addressed thus (evam uktaḥ), he rose up (samutthāya) and clasped his father's feet (jagrāha caraṇau pituḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Aṅgada clasps Vālin's feet, Tārā asks why the king withholds his customary blessing, compares his battle to a Vedic sacrifice, and laments that royal fortune now forsakes them.
 </details>
 </details>
 

@@ -33,6 +33,14 @@ The riches and happiness enjoyed by the people, under the rein of Emperor Dashar
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In imperial Ayodhyā rules King Daśaratha—an Atiratha warrior, royal sage, and protector of the world equal to Manu, Indra, and Vaiśravaṇa—under whose righteous governance the citizens flourish in truth and contentment.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां पुर्यामयोध्यायां  
@@ -246,6 +254,14 @@ In that best city Ayodhya all are exuberant yet virtuous ones, and scholars are
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In that best of cities, the men were joyful, righteous-souled, and deeply learned in the sacred scriptures; contented each with his own rightful wealth, free from covetousness, they spoke only the truth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+No householder in Ayodhyā lacks cattle, horses, wealth, or grain; neither miser nor atheist nor cruel man can be found, and all citizens shine with ornaments, fragrances, pure food, and unbroken Vedic fires.
 </details>
 </details>
 
@@ -562,6 +578,14 @@ There is none someone who is without sacrificial fires, and none without perform
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There was no twice-born in Ayodhyā who did not maintain the sacred Vedic fires (Anāhitāgni), none who did not perform Soma sacrifices, none base or petty, no thief, none of degenerate conduct, and none born of ilícit intermixture of lineages (Saṅkara).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Brāhmaṇas of Ayodhyā excel in Vedic study, charity, and restraint in accepting gifts, while all four social orders worship the gods and honored guests and enjoy long life with their wives, sons, and grandsons.
 </details>
 </details>
 
@@ -901,6 +925,14 @@ Longevity is there for all of the people, all are with virtuosity and truthfulne
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All men in that supreme city were long-lived, steadfastly devoted to Dharma and truth, and ever surrounded by their wives, sons, and grandsons.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the four varṇas working in harmonious hierarchy, Ayodhyā teems with fiery warriors like a cavern of lions, steeds from Kāmboja, Bāhlīka, Vanāyu, and the Indus, and mountain-huge tuskers of the eight directional lineages.
 </details>
 </details>
 
@@ -1285,6 +1317,14 @@ It is said that eight elephants from eight corners called *aSTadiggaja*
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With tuskers sprung from the lineage of Airāvata and the race of Mahāpadma, and bred from the stocks of the directional elephants Añjana and Vāmana as well—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with the seven pure and hybrid breeds of rutting war-elephants, the city of Ayodhyā—true to her name ‘The Unconquerable’—is ruled by Emperor Daśaratha as the Moon rules the constellations and Indra rules Amarāvatī.
 </details>
 </details>
 

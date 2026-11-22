@@ -25,6 +25,14 @@ slap on the temple-bone of Virupaksha and kills him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the piteous wailing of the rākṣasa women in every household, Rāvaṇa blazes with wrath like the fire of cosmic dissolution and commands Mahodara, Mahāpārśva, and Virūpākṣa to march forth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तैः कृत्तगात्रैस्तु दशग्रीवेण मार्गणैः ।  
@@ -342,6 +350,14 @@ Hearing that command of his, those rākṣasas, tormented by fear (bhayārditā�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Performing auspicious rites and bowing with joined palms, the three generals stand before Rāvaṇa, who vows to avenge Khara, Kumbhakarṇa, Prahasta, and Indrajit by darkening the sky with arrow-clouds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मनः सदृशं वीरं स तं निक्षिप्य वानरम् ।  
@@ -593,6 +609,14 @@ Today, by slaying the foe (śatru-vadhāt), I shall exact vengeance (kariṣyām
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Neither the mid-space, nor the quarters, nor the sky, nor the oceans (nāpi sāgarāḥ) shall attain visibility (prakāśatvaṃ gamiṣyanti), enveloped by the clouds of my arrows (mad-bāṇa-jaladāvṛtāḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening his bow to an ocean and the monkey troops to lotus-ponds, Rāvaṇa boasts that he will churn their ranks like an elephant and wipe away the tears of the bereaved.
 </details>
 </details>
 
@@ -866,6 +890,14 @@ Those whose brother has been slain, and those whose son has been slain—today, 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to glut the vultures and jackals with enemy flesh, Rāvaṇa calls for his chariot, and Mahāpārśva dispatches the troop-marshals through every street of Laṅkā to muster the remaining forces.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु प्रहाराभिहतः सुग्रीवेण महागजः ।  
@@ -1124,6 +1156,14 @@ unconscious on the ground, for a moment.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then within a moment (tato muhūrtāt), rākṣasas of dreadful aspect rushed forth (niṣpetuḥ), roaring (nadantaḥ), dreadful-faced, their arms bearing manifold weapons (nānā-praharaṇair bhujaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Armed with swords, spears, maces, ploughshares, and śataghnīs, countless millions of chariots, elephants, steeds, and foot-soldiers assemble at Rāvaṇa's command as the charioteer brings forth his divine car.
 </details>
 </details>
 
@@ -1392,6 +1432,14 @@ brought down another violent slap on his temple-bone.
 **29:** And when the troop-marshals had drawn up (saṃsthāpya) the king's army standing in the van (puraḥ-sthitām), in the meantime (etasminn antare) the charioteer (sūtaḥ) stationed that chariot—
 
 **30:** endowed with the choicest divine missiles (divyāstra-vara-sampannam), adorned with manifold ornaments (nānālaṃkāra-bhūṣitam), crowded with various weapons, and furnished with a net of little bells (kiṅkiṇī-jāla-saṃyutam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting his eight-steed golden chariot that blazes like a crore of suns, Rāvaṇa sallies forth amidst the thunder of drums, conchs, and heralds proclaiming the approach of the king of rākṣasas.
 </details>
 </details>
 

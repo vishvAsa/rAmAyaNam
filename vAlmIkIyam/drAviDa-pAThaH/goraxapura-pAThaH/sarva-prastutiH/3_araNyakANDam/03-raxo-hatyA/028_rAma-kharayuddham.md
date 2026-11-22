@@ -25,6 +25,14 @@ arrows. The combat of Rama and Khara takes a longer time, as Khara is not easy-t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismayed on beholding Dūṣaṇa, Triśiras, and his mighty army slain by Rāma alone, Khara advances like Namuci against Indra and fills the quarters with blood-drinking arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निहतं दूषणं दृष्ट्वा रणे त्रिशिरसा सह ।  
@@ -278,6 +286,14 @@ Twanging his bowstring (jyāṃ vidhunvan) again and again (subahuśaḥ) and di
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That great chariot-warrior (mahā-rathaḥ) filled (pūrayām āsa) all the cardinal directions (sarvāś ca diśaḥ) and intermediate quarters (pradiśaś ca) with arrows; seeing him, Rāma too [drew] his mighty bow (sumahad dhanuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Darkening the sun with an unbroken canopy of fiery shafts, Rāma and Khara trade fierce volleys, while Khara deludedly imagines the slayer of his host to be exhausted.
 </details>
 </details>
 
@@ -593,6 +609,14 @@ of boldness in eliminating all of the demonic forces, all the while. [4-28-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Khara deemed (mene) the mighty-spirited (mahā-sattvam) Rāma—the slayer of his entire army (hantāraṃ sarva-sainyasya), who stood firm in his valor (pauruṣe paryavasthitam)—to be exhausted (pariśrāntam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rushing at the unperturbed Rāma like a moth into fire, Khara severs Rāma's bow at the grip and shatters his sun-bright armor with thunderbolt-like shafts.
 </details>
 </details>
 
@@ -918,6 +942,14 @@ Then, struck (prahatam) by those smooth-jointed arrows (bāṇaiḥ suparvabhi�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like a smokeless fire, Rāma strings the mighty Vaiṣṇava bow bestowed by Agastya and severs Khara's golden banner so that it falls like the sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शरैरर्पितः क्रुद्धः सर्वगात्रेषु राघवः ।  
@@ -1177,6 +1209,14 @@ god-damned sun fallen on earth. [4-28-23]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Cloven in many places (bahudhā vicchinnaḥ), that handsome golden banner (kāñcano dhvajaḥ) fell to the earth (jagāma dharaṇīm), like the sun [falling] at the command of the gods (devatānām ivājñayā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wounded in the chest by Khara's shafts, the incensed Rāma strikes Khara's head, arms, and chest with six arrows and unleashes thirteen stone-whetted iron shafts.
 </details>
 </details>
 
@@ -1451,6 +1491,14 @@ thirteen iron arrows that are sharply whetted and similar to the dazzle of sun. 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereafter (tataḥ paścāt), the wrathful hero of mighty splendour (mahā-tejāḥ) smote (jaghāna) the rākṣasa with thirteen (trayodaśa) sun-bright (bhāskaropamān) iron shafts whetted on stone (nārācān śilā-śitān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his thirteen shafts Rāma shatters Khara's yoke, steeds, driver, poles, axle, and bow, forcing Khara to leap down mace in hand as the gods applaud from the sky.
 </details>
 </details>
 

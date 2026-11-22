@@ -26,6 +26,14 @@ spaciously.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāghava's auspicious acceptance of Sītā, Great Śiva praises his destruction of the Rāvaṇa-born darkness and bids him return to Ayodhyā to rule and perform the horse-sacrifice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्थितं तु तं कृत्वा पुष्पकं पुष्पभूषितम् ।  
@@ -323,6 +331,14 @@ having offered worship with the horse-sacrifice (turagamedhena), attained suprem
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Directed by Mahādeva, Rāma and Lakṣmaṇa bow to their transfigured father Daśaratha seated in an aerial car, who joyfully embraces Rāma upon his lap.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सम्मानिताश्चैते नन्द्यमाना यथा त्वया ।  
@@ -592,6 +608,14 @@ and taking the illustrious Seetha, who was feeling abashed, in his arms.
 **11:** Filled with immense joy (harṣeṇa mahatāviṣṭaḥ) upon beholding his son dearer to him than life itself (prāṇaiḥ priyataram), King Daśaratha, seated in the celestial chariot,
 
 **12:** that mighty-armed sovereign occupying an exalted seat (varāsanagataḥ), placed [Rāma] upon his lap (āropyāṅke), embraced him closely with both arms, and then began to speak:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha confesses to Rāma that even heaven gave him no joy during their separation, and rejoices that Rāma's triumph has freed him from sorrow like the sun from mist.
 </details>
 </details>
 
@@ -907,6 +931,14 @@ And now I truly understand, O gentle one (saumya), how the Supreme Puruṣa (pur
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha envies Kausalyā and the citizens of Ayodhyā who will behold Rāma's coronation, and blesses his son for fulfilling his vow and gladdening the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां गन्तुमिच्छामः सर्वान् नयतु नो भवान् ।  
@@ -1210,6 +1242,14 @@ Pushpaka, the aerial car. Vibhishana together with his counselors also ascended 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A glorious deed has been accomplished and praiseworthy renown (yaśaḥ ślāghyam) attained by you, O destroyer of foes; established in sovereignty together with your brothers, do you attain a long life (dīrgham āyuḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's folded-hand entreaty, Daśaratha revokes his curse upon Kaikeyī and Bharata, then embraces Lakṣmaṇa and blesses him for his devoted service.
 </details>
 </details>
 

@@ -15,6 +15,14 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning from his spies that Rāma has encamped upon Mount Suvela, an agitated Rāvaṇa convenes a brief council and summons the sorcerer Vidyujjihva to the grove where Sītā dwells.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तमक्षोभ्यबलं लङ्कायां नृपतेश्चराः ।  
@@ -280,6 +288,14 @@ Thereafter, Ravana the practiser of conjuring tricks, took the exceedingly
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, taking with him (ādāya) the rākṣasa Vidyujjihva of mighty strength—a conjurer (māyāvinam) and master of great illusions (mahā-māyam)—he entered the place where Maithilī was held.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa instructs Vidyujjihva to fashion a phantom head and bow of Rāma, rewards his successful conjuration with an ornament, and enters the Aśoka grove where Sītā sits grieving.
 </details>
 </details>
 
@@ -557,6 +573,14 @@ Then, Ravana the younger brother of Kubera ( the god of riches) saw Seetha
 **11:** —the mighty lord of the Nairṛtas entered (saṃviveśa) therein; and then the younger brother of Kubera (dhanadānujaḥ) beheld her, wretched (dīnām) though undeserving of wretchedness (adainyārhām),
 
 **12:** seated upon the bare ground with downcast face (adho-mukhīm), given over to grief (śoka-parām), and meditating intently (samanudhyāntīm) upon her husband after having come to the Aśoka grove.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Sītā with feigned jubilation, Rāvaṇa insolently announces that her husband Rāma has been slain in battle, urging her to abandon hope and hear how her lord perished.
 </details>
 </details>
 
@@ -844,6 +868,14 @@ Rāghava, they say (kila), arrived at the shore of the ocean (samudrāntam) to s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa fabricates a tale of a midnight ambush in which Prahasta's forces purportedly slaughtered the sleeping monkey army with diverse weapons and decapitated the slumbering Rāma with a great sword.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्निविष्टः समुद्रस्य पीड्य तीरमथोत्तरम् ।  
@@ -1097,6 +1129,14 @@ Then, while Rāma lay asleep (suptasya rāmasya), the crusher Prahasta, of pract
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa continues his false report of the slaughter, claiming that Vibhīṣaṇa was captured, Lakṣmaṇa fled, and the monkey chieftains from Sugrīva and Hanūmān to Jāmbavān and Kumuda were struck down.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणः समुत्पत्य निगृहीतो यदृच्छया ।  
@@ -1343,6 +1383,14 @@ Both Mainda and Dvivida, those two foremost bulls among monkeys (vānara-varar�
 **29:** —those two tall (vyāyatau) slayers of foes, cleft through the waist (madhye) by the sword! And Panasa groans (anuśvasiti) upon the earth like a split jackfruit (panaso yathā).
 
 **30:** Pierced by many iron shafts (nārācair bahubhiḥ), Darīmukha lies in a cavern (daryām); and Kumuda of great splendor, uttering no sound (niṣkūjan), has been slain by arrows (sāyakaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his fictitious battle-account, Rāvaṇa describes Aṅgada's fall and the rout of the monkey and bear legions across shore, mountain, and forest.
 </details>
 </details>
 
@@ -1610,6 +1658,14 @@ And along the shores of the ocean, upon the mountains, and in the forests, those
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāma's blood-soaked head has been brought back from the battlefield, Rāvaṇa orders a rākṣasī within Sītā's hearing to summon Vidyujjihva with the grisly trophy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तव हतो भर्ता ससैन्यो मम सेनया ।  
@@ -1854,6 +1910,14 @@ Holding that head along with a bow, Vidyujjihva making a respectful salute
 **39:** Thereupon Vidyujjihva, taking that head together with the bow (sa-śarāsanam), made obeisance (praṇāmam) with his head and stood before Rāvaṇa (rāvaṇasyāgrataḥ sthitaḥ).
 
 **40:** Then King Rāvaṇa spoke to that rākṣasa Vidyujjihva of huge tongue (mahā-jihvam), who stood waiting at hand (samīpa-parivartinam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāvaṇa's command, Vidyujjihva sets the phantom head before Sītā and vanishes, while Rāvaṇa flings down the counterfeit bow and demands that she yield to his will.
 </details>
 </details>
 

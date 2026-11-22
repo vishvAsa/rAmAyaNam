@@ -22,6 +22,14 @@ In this chapter Seetha ponders a lot and decides to give up life without Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With tear-streaked, downcast face, Sītā writhes on the ground like a filly, lamenting her abduction by shape-shifting Rāvaṇa and wondering if her unshattered heart is made of stone.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसक्ताश्रुमुखी त्वेवं ब्रुवती जनकात्मजा ।  
@@ -290,6 +298,14 @@ it not destroying with sorrow?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surely this heart of mine is fashioned of stone (aśmasāram idaṃ nūnam), or else is ageless and immortal (ajarāmaram), since it does not shatter with grief (na duḥkhena viśīryate)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cursing her survival without Rāma, Sītā declares she would not touch Rāvaṇa even with her left foot, though cut or burned, and wonders why Janasthāna's victor delays.
 </details>
 </details>
 
@@ -619,6 +635,14 @@ Fourteen thousand rākṣasas (rākṣasānāṃ sahasrāṇi caturdaśa) were v
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Rāma's slaying of Virādha and his unstoppable arrows, Sītā concludes that her lord simply does not know she is in Laṅkā because Rāvaṇa slew the informant Jaṭāyus.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरुद्धा रावणेनाहमल्पवीर्येण रक्षसा ।  
@@ -928,6 +952,14 @@ Even that king of vultures (gṛdhrarājo 'pi saḥ), who, having learned that I
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising aged Jaṭāyus for his noble stand, Sītā declares that if Rāma knew she were in Laṅkā, his arrows would reduce the city to a vulture-filled cremation ground.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतं कर्म महत् तेन मां तथाभ्यवपद्यता ।  
@@ -1229,6 +1261,14 @@ will cry again and again. There is no doubt in this."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With its thoroughfares choked by funeral-pyre smoke (citādhūmākulapathā) and decked with flocks of vultures (gṛdhramaṇḍalamaṇḍitā), within no long time (acireṇaiva kālena) [Laṅkā] would become like a cremation ground (śmaśānasadṛśī bhavet)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing the ogresses, Sītā prophesies that ill omens herald their ruin and that once Rāvaṇa is slain, festive Laṅkā will wither in darkness like a widowed woman.
 </details>
 </details>
 
@@ -1556,6 +1596,14 @@ Plunged into darkness (sāndhakārā), her radiance extinguished (hatadyotā) an
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Realizing that Rāvaṇa's twelve-month deadline is expiring and that the lawless rākṣasa will prepare her for his morning meal, Sītā prays to behold Lord Vaivasvata swiftly.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि नाम स शूरो मां रामो रक्तान्तलोचनः ।  
@@ -1829,6 +1877,14 @@ there will be a great calamity. These meat eating ogres do not know virtue."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Not beholding Rāma of red-cornered eyes (raktāntanayanam apaśyantī) and sorely afflicted with grief, may I swiftly behold the god Vaivasvata [Yama] (kṣipraṃ vaivasvataṃ devaṃ paśyeyam), bereft as I am of my husband (patinā vinā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alternating between grief and reflection, Sītā wonders if Rāma has died of sorrow and ascended to heaven or renounced her out of spiritual detachment, before reaffirming his unfailing loyalty.
 </details>
 </details>
 
@@ -2109,6 +2165,14 @@ Affection exists toward one who is seen (dṛśyamāne bhavet prītiḥ); there 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blaming the exhaustion of her own merit, Sītā deems death better than separation from Rāma and wonders whether the brothers have become forest ascetics or fallen to Rāvaṇa's deceit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं वा मय्यगुणाः केचित् किं वा भाग्यक्षयो हि मे ।  
@@ -2330,6 +2394,14 @@ great soul, more than living, death is good."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Or else those two heroic brothers Rāma and Lakṣmaṇa (śūrau bhrātarau rāmalakṣmaṇau) have been slain by treachery (chadmanā ghātitau) by the wicked-souled Rāvaṇa, lord of the rākṣasas (rākṣasendreṇa rāvaṇena durātmanā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Longing for death amid overwhelming grief, Sītā reveres the self-conquered sages who transcend pleasure and pain, resolving to abandon her life-breaths in Rāvaṇa's captivity.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ towards evil.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing with wrath at Mantharā's warnings, Kaikeyī vows to exile Rāma and install Bharata, asking the hunchback for the stratagem to accomplish it.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु कैकेयी क्रोधेन ज्वलितानना ।  
@@ -330,6 +338,14 @@ Why do you not remember, O Kaikeyī, or while remembering do you conceal (nigūh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising slightly from her sumptuous couch, Kaikeyī bids Mantharā speak, and the hunchback recalls Daśaratha's ancient campaign against Timidhvaja in the Daṇḍaka region.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयोच्यमानं यदि ते श्रोतुं छन्दो विलासिनि ।  
@@ -565,6 +581,14 @@ Addressed thus then by the queen, the evil-minded Mantharā, seeking to strike d
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Of old, in the war between the gods and the demons (devāsure yuddhe), your husband went forth together with royal sages, taking you along, to render aid to the king of the gods (devarājasya sāhyakṛt)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mantharā recounts how Kaikeyī twice rescued the wounded Daśaratha during the nocturnal battle against Śambara and received two deferred boons.
 </details>
 </details>
 
@@ -860,6 +884,14 @@ Then, you said, " I shall ask you whenever I require them". He then agreed to it
 **17:** Pleased thereby, he granted you two boons (dvau varau), O auspicious-featured lady; and that husband was told by you, O queen: ‘Whenever I may desire a boon—
 
 **18:** then shall I claim it, O lord!’—and ‘So be it!’ (tatheti) was spoken by that magnanimous king. I myself was ignorant of this, O queen; it was told to me of old by you yourself.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mantharā instructs Kaikeyī to demand Bharata's consecration and Rāma's fourteen-year exile by entering the chamber of wrath in soiled garments.
 </details>
 </details>
 
@@ -1164,6 +1196,14 @@ even jump into a fire for your sake.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 You have ever been the beloved (dayitā) of your husband—of this I have no doubt; for your sake (tvatkṛte) the great king would even enter blazing fire (hutāśanam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Kaikeyī to recognize the power of her conjugal fortune and reject mere jewels, Mantharā coaches her on binding the king to grant the two boons.
 </details>
 </details>
 
@@ -1481,6 +1521,14 @@ this earth".
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mantharā argues that fourteen years of exile will render Rāma forgotten while Bharata strikes deep roots, and Kaikeyī accepts evil disguised as good.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश हि वर्षाणि रामे प्रव्राजिते वनम् ।  
@@ -1733,6 +1781,14 @@ king turn aside his effort to anoint Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 having won over the people (saṃgṛhītamanuṣyaś ca), self-possessed (ātmavān) together with his allies. Freed from fear (vītasādhvasā), I deem the time at hand with the king:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Straying from the righteous path like an unbroken filly, the deluded Kaikeyī extravagantly flatters Mantharā's wisdom and crooked form.
 </details>
 </details>
 
@@ -2044,6 +2100,14 @@ and beneath it, your waist is slender (udaraṃ śāntam), bashful as it were wi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kaikeyī extols Mantharā's hump as the repository of a thousand illusions and statecraft, promising to adorn it with refined gold once Bharata is crowned.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमलेन्दुसमं वक्त्रमहो राजसि मन्थरे ।  
@@ -2310,6 +2374,14 @@ get your hunch back anointed with well refined gold of good quality.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kaikeyī promises to gild Mantharā's hump and give her hunchbacked attendants, whereupon Mantharā warns her with the proverb of the dam after the water has ebbed.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुखे च तिलकं चित्रं जातरूपमयं शुभम् ॥ ४९ ॥  
@@ -2560,6 +2632,14 @@ constructing a dam. Now rise and do this purposeful action. Show your influence 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Puffed up with pride in her conjugal fortune, Kaikeyī enters the chamber of wrath, casts off her priceless pearl necklace, and vows death unless Rāma is exiled.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा प्रोत्साहिता देवी गत्वा मन्थरया सह ।  
@@ -2787,6 +2867,14 @@ Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then once again, with words of exceedingly fierce potency (vacobhir atyarthamahāparākramaiḥ), the hunchback spoke to the monarch's queen, the mother of Bharata, a speech beneficial to him and hostile toward Rāma:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced repeatedly by Mantharā's word-arrows, Kaikeyī swears to spurn all luxuries and life itself, lying on the bare floor like a fallen Kinnarī or a starless sky.
 </details>
 </details>
 

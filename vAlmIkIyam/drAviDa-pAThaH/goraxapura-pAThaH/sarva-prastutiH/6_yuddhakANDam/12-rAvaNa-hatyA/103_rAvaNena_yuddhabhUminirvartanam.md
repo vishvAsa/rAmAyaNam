@@ -27,6 +27,14 @@ battle-front.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roused by Lakṣmaṇa's counsel, Rāma showers arrows from the ground upon chariot-mounted Rāvaṇa, prompting the gods to protest the unequal duel and Indra to summon Mātali.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन तदा क्रोधात् काकुत्स्थेनार्दितो भृशम् ।  
@@ -307,6 +315,14 @@ of the great-souled Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the glorious chief of the gods, Śakra, having heard their nectar-like words (vaco'mṛtam), summoned Mātali and spoke this word:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded by Indra to aid Rāma for the welfare of the gods, the celestial charioteer Mātali yokes the radiant golden chariot and descends from heaven.
 </details>
 </details>
 
@@ -608,6 +624,14 @@ away from me, you think: �I am a champion'."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —commanded by the king of the gods, Mātali mounted that chariot and, descending from heaven (triviṣṭapāt), approached Kākutstha.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With joined palms Mātali presents Indra's chariot, bow, fiery armor, arrows, and spear to Rāma, who circumambulates and mounts the car to wage an equal chariot-duel.
 </details>
 </details>
 
@@ -915,6 +939,14 @@ Then shone forth that wondrous, hair-raising duel of two chariots (yuddhaṃ dva
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma neutralizes Rāvaṇa's Gandharva and divine missiles with their counterparts, and when Rāvaṇa's demonic missile turns into fire-breathing serpents, Rāma deploys the Garuḍa missile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्यासि मम मन्दात्मंश्चक्षुर्विषयमागतः ।  
@@ -1212,6 +1244,14 @@ Beholding those serpents hurtling forward in battle, Rāma brought forth (prādu
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma's arrows transform into golden Garuḍas that destroy Rāvaṇa's serpent-shafts, whereupon the enraged rākṣasa showers Rāma, pierces Mātali, and severs the chariot's golden banner.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रादुर्बभूवुरस्त्राणि सर्वाणि विदितात्मनः ।  
@@ -1360,6 +1400,14 @@ arrows coming from Rama, Ravana felt bewildered at heart.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When his missile was repelled (astre pratihate), Rāvaṇa, overlord of rākṣasas, grew enraged and then showered Rāma with dreadful rains of arrows.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa strikes Indra's horses with a net of arrows, distressing the celestials and monkeys as ominous planetary and terrestrial portents convulse the cosmos.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ Syandika rivers. He presses forward in the chariot talking with Sumantra.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Travelling far during the remainder of the night and worshipping the morning twilight, Rāma speeds past ploughed village borders and flowering woods while hearing countryfolk denounce Daśaratha and Kaikeyī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामोऽपि रात्रिशेषेण तेनैव महदन्तरम् ।  
@@ -305,6 +313,14 @@ propriety"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —she who banishes to the forest-dwelling (pravāsayati ... vana-vāse) such a righteous son of the king (putram īdṛśaṃ rājñaḥ dhārmikam), of great wisdom, tender-hearted, and master of his senses (jitendriyam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the villagers mourn for Sītā’s hardships, Rāma passes beyond Kosala and crosses the auspicious Vedāśruti, the cattle-lined Gomatī, and the peacock-resounding Syandikā.
 </details>
 </details>
 
@@ -616,6 +632,14 @@ Rama crossed the river called Syandika which had resounded with howls of peacock
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And having passed beyond the Gomatī with his swift-going steeds (śīghra-gair hayaiḥ), Rāghava crossed the river Syandikā, resonant with peacocks and swans (mayūra-haṃsābhirutām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Showing Vaidehī the prosperous Kosala land given of old by King Manu to Ikṣvāku, Rāma addresses Sumantra with the voice of akes-drunken swan, longing for the day he will return to hunt in the Sarayū woods.
 </details>
 </details>
 

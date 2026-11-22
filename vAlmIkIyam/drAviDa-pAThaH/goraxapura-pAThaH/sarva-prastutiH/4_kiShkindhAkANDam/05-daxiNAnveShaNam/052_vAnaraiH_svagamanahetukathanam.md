@@ -27,6 +27,14 @@ from that cave, which exit is otherwise impossible for any other intruder, in hi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once the monkeys have refreshed themselves with fruit, Svayamprabhā invites their story, and Hanumān candidly recounts Rāma's exile, Sītā's abduction, and Sugrīva's commission.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तानब्रवीत् सर्वान् विश्रान्तान् हरियूथपान् ।  
@@ -264,6 +272,14 @@ wife from Janasthaana. [4-52-4, 5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 along with his brother Lakṣmaṇa and his wife Vaidehī; his wife was forcibly (balāt) abducted from Janasthāna by Rāvaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān describes how the monkeys scoured the southern quarter, sank into an ocean of grief under a tree, and inferred subterranean water from damp birds.
 </details>
 </details>
 
@@ -581,6 +597,14 @@ of water with the flaps of their wings. [4-52-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From this [cavern], winged birds (patattriṇaḥ)—swans drenched with water (haṃsā jalaklinnāḥ), their wings wet with water-drops (pakṣaiḥ salilareṇubhiḥ), ospreys (kurarāḥ), and cranes (sārasāḥ)—fly forth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thanking Svayamprabhā for saving the starving monkeys with hospitable roots and fruits, Hanumān asks what service the grateful troop may render in return.
 </details>
 </details>
 
@@ -902,6 +926,14 @@ tell [us], by way of return service (pratyupakārārtham), what the monkeys may 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declining any return favor because she lives solely by dharma, Svayamprabhā is implored by Hanumān to rescue the monkeys from the cavern after Sugrīva's elapsed deadline.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेषां परितुष्टास्मि वानराणां तरस्विनाम् ॥ १९ ॥  
@@ -1119,6 +1151,14 @@ the timeframe fixed by Sugreeva, whereby our longevity itself is threatened. [4-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Therefore thou oughtest to deliver us (asmān uttārayitum arhasi) from this cavern—us who have transgressed (atikrāntān) that command of Sugrīva and whose lives are forfeit (gatāyuṣaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that no mortal who enters the cavern can leave alive, Svayamprabhā promises to deliver the monkeys through her ascetic power and bids them close their eyes.
 </details>
 </details>
 
@@ -1352,6 +1392,14 @@ them with their delicately fingered hands. [4-52-28b, 29a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 for it is impossible to go forth (na hi niṣkramituṃ śakyam) with unclosed eyes (animīlitalocanaiḥ).” Then all closed their eyes (nimīlitāḥ sarve), with hands having delicate fingers (sukumārāṅgulaiḥ karaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covering their faces with their hands, the monkeys are transported out of the cavern in the twinkling of an eye by Svayamprabhā, who points out Vindhya, Prasravaṇa, and the ocean.
 </details>
 </details>
 

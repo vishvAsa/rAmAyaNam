@@ -25,6 +25,14 @@ vice, from the face of earth.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceeding from Ṛṣyamūka to the Malaya peak where Sugrīva had retreated, Hanūmān announces the arrival of Rāma and Lakṣmaṇa, recounting Daśaratha's sacrifices, Rāma's exile, and Sītā's abduction.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूकात् तु हनुमान् गत्वा तं मलयं गिरिम् ।  
@@ -290,6 +298,14 @@ he is, he came seeking your refuge... [4-5-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “While this high-souled prince of self-restraint (niyatasya) was dwelling in the forest, his wife was abducted by Rāvaṇa (rāvaṇena hṛtā bhāryā), and he has come to you for refuge (śaraṇam āgataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Hanūmān to honor the two princes who desire his friendship, Sugrīva assumes a handsome form, gratefully extends his hand in alliance, and Rāma clasps it joyfully.
 </details>
 </details>
 
@@ -624,6 +640,14 @@ Hearing those well-spoken words of Sugrīva, [Rāma], his mind filled with joy (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma embraces Sugrīva, Hanūmān kindles a sacred fire from two śamī sticks; circumambulating the flames, Rāma and Sugrīva seal their friendship and share a blossoming śāla branch.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हनूमान् सन्त्यज्य भिक्षुरूपमरिन्दमः ॥ १३ ॥  
@@ -933,6 +957,14 @@ and sat on it along with Rama. [4-5-18b, 19a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seating himself with Rāma upon the śāla bough while Hanūmān offers Lakṣmaṇa a blossoming sandalwood branch, Sugrīva recounts Vālin's persecution and begs Rāma to grant him fearlessness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणायाथ संहृष्टो हनुमान् मारुतात्मजः ॥ १९ ॥  
@@ -1203,6 +1235,14 @@ way... [4-5-23b, 24a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling gently at Sugrīva's plea, righteous Rāma declares that the fruit of friendship is mutual assistance and vows to slay wicked Vālin with his unerring, lightning-like feathered shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु तेजस्वी धर्मज्ञो धर्मवत्सलः ॥ २४ ॥  
@@ -1374,6 +1414,14 @@ and these arrows of mine will be speeded up to fall on that vicious Vali... [4-5
 **26:** “I shall slay (vadhiṣyāmi) that Vālin, the abductor of your wife (tava bhāryāpahāriṇam); these sharpened arrows (niśitāḥ śarāḥ) of mine, unerring (amoghāḥ) and gleaming like the sun (sūryasaṃkāśāḥ),
 
 **27:** “winged with heron-feathers (kaṅkapatrapraticchannāḥ) and resembling the thunderbolts of Mahendra (mahendrāśanisaṃnibhāḥ), shall fall with swift impetus (nipatiṣyanti vegitāḥ) upon that wicked-conduct Vālin (tasmin vālini durvṛtte)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma vows that Sugrīva will see Vālin felled like a shattered mountain by his serpent-like shafts, while the left eyes of Sītā, Vālin, and Rāvaṇa throb simultaneously.
 </details>
 </details>
 

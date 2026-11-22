@@ -11,6 +11,14 @@ title = "०७३ द्विज-विषादः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Rāma rules happily with Lakṣmaṇa and Bharata after Śatrughna’s departure, an aged country brahmin arrives at the palace gate carrying his dead young son, weeping bitterly and wondering what past-life sin brought such untimely bereavement.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रस्थाप्य तु स शत्रुघ्नं भ्रातृभ्यां सह राघवः ।  
@@ -218,6 +226,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring his own conscience spotless of falsehood, violence, or harm to any creature, the brahmin infers that some grave fault in Rāma’s realm must have caused this unheard-of child-death, and directly demands that the king restore his son to life.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न स्मराम्यनृतं ह्युक्तं न च हिंसां स्मराम्यहम् ।  
@@ -346,6 +362,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Assuredly there is some grave misdeed of Rāma’s, without doubt (rāmasya duṣkṛtaṃ kiñcin mahad asti na saṃśayaḥ), since death has come upon children dwelling within his realm (viṣaya-sthānāṃ bālānāṃ mṛtyur āgataḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatening to die with his wife at the palace gate and burden Rāma with brahmin-slaughter, the father delivers a stinging ironic blessing of happiness and long life, lamenting that the Ikṣvāku realm has grown protectorless under a destroyer of children.
 </details>
 </details>
 
@@ -495,6 +519,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Now indeed is the realm of the great-souled Ikṣvākus utterly protectorless (sampraty anātho viṣaya ikṣvākūṇāṃ mahātmanām), having obtained Rāma here as its lord (rāmaṃ nātham ihāsādya)—a veritable destroyer of children (bālāntakaraṇaṃ dhruvam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Invoking the ancient maxim that untimely death strikes whenever a king fails in righteous conduct or leaves wrongdoing unchecked in city and countryside, the brahmin concludes that royal negligence caused his boy’s death and clasps his dead son to his breast.
 </details>
 </details>
 

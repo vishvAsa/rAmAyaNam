@@ -14,6 +14,14 @@ title = "०५६अ प्रक्षिप्तः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing a blade of grass between herself and Rāvaṇa, the fearless Vaidehī extols her husband Rāma and warns Rāvaṇa that his warriors will be venomless serpents before Rāghava.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवेशितायां सीतायां लङ्कां प्रति पितामहः ।  
@@ -167,6 +175,14 @@ Addressed thus, Vaidehī, fearless (nirbhayā) though wasted with grief (śoka-k
 **5:** “Had I been forcibly violated by you (tvayā vai dharṣitā balāt) before his eyes (pratyakṣaṃ tasya), you would have lain slain in battle (śayitā tvaṃ hataḥ saṅkhye), just like Khara in Janasthāna (janasthāne yathā kharaḥ)!
 
 **6:** “All these rākṣasas of dreadful form and great strength of whom you have boasted (ya ete rākṣasāḥ proktāḥ) will be rendered venomless before Rāghava (rāghave nirviṣāḥ sarve), like serpents before Suparṇa [Garuḍa] (suparṇe pannagā yathā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Rāvaṇa that Brahmā's boon cannot save him from Rāma's arrows and that he is like a beast bound to the sacrificial post, Sītā foretells Laṅkā's widowhood.
 </details>
 </details>
 
@@ -334,6 +350,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that mortals doomed by Time err in their judgment, Sītā tells Rāvaṇa that she is as inviolable to him as a consecrated Vedic altar to an outcaste.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्प्रसादात् समुद्रं स तरिष्यति बलैः सह ।  
@@ -481,6 +505,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Through laying violent hands on me (māṃ pradhṛṣya), O vilest of rākṣasas (rākṣasādhama), that hour of doom of yours (sa te kālaḥ) has now arrived (prāpto 'yam) for the destruction of yourself, your rākṣasas, and your inner apartments (ātmano rākṣasānāṃ ca vadhāyāntaḥpurasya ca)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing herself to a female swan sporting with a royal swan and spurning a water-crow, Sītā defies Rāvaṇa to slay her body, prompting his twelve-month ultimatum.
 </details>
 </details>
 
@@ -675,6 +707,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —he then replied to Sītā with a terrifying word (bhaya-saṃdarśanaṃ vacaḥ): “Hear my word, O Maithilī! [Wait] for twelve months (māsān dvādaśa), O proud lady (bhāmini)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatening to have his cooks mince her for his morning meal if she refuses him after a year, Rāvaṇa stamps the earth in fury and orders the rākṣasīs to guard her in the Aśoka grove.
 </details>
 </details>
 

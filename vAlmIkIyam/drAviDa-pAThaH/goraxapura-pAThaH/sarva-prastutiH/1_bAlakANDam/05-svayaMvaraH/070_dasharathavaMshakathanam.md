@@ -26,6 +26,14 @@ holds his family tree, ready at hand.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At dawn, King Janaka instructs his purohita Śatānanda and swift envoys to summon his younger brother Kuśadhvaja from the fortified city of Sāṅkāśyā along the Ikṣumatī river.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभाते जनकः कृतकर्मा महर्षिभिः ।  
@@ -280,6 +288,14 @@ that tigerly man Kushadhvaja that speedily, which is as good as fetching Vishnu 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 At the command of the lord of men, they set forth on swift steeds (prayayuḥ śīghravājibhiḥ) to bring back that tiger among men, just as messengers go at Indra’s command to summon Viṣṇu (viṣṇum indrājñayā yathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned from Sāṅkāśyā, Kuśadhvaja arrives in Mithilā and joins Janaka; together the two royal brothers dispatch their chief minister Sudāman to invite King Daśaratha and his sons.
 </details>
 </details>
 
@@ -562,6 +578,14 @@ said this on appearing before that king duly bowing down and hailing the king. [
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by his sages, ministers, and sons, King Daśaratha enters Janaka’s court and announces that Bhagavān Vasiṣṭha, the family deity of the Ikṣvākus, will proclaim their royal lineage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्याधिपते वीर वैदेहो मिथिलाधिपः ॥ १३ ॥  
@@ -831,6 +855,14 @@ sententious sage Vashishta who is along with his men of the cloth said these sen
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “this righteous-souled Vasiṣṭha will declare my lineage in due order (vasiṣṭho me yathākramam).” When Daśaratha fell silent (tūṣṇīṃbhūte daśarathe), the revered sage Vasiṣṭha—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sage Vasiṣṭha begins the sacred genealogy of the Solar Dynasty from Brahmā born of the Unmanifest, through Marīci, Kaśyapa, Vivasvān, and Manu, to Ikṣvāku, the first king of Ayodhyā, and down to Dhundhumāra.
 </details>
 </details>
 
@@ -1106,6 +1138,14 @@ of Trishanku... [1-70-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “From Anaraṇya was born Pṛthu, and from Pṛthu came Triśaṅku; and Triśaṅku’s son of great renown was Dhundhumāra.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha continues the genealogy through Yuvanāśva, Māndhātā, Susandhi, Dhruvasandhi, and Bharata to King Asita, who was driven into exile on Mount Himavān by rival kings and died leaving two pregnant queens.
 </details>
 </details>
 
@@ -1425,6 +1465,14 @@ two of his wives were pregnant, and one of two wives gave toxic food to the co-w
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Poisoned by her rival co-wife to destroy her unborn child, Queen Kālindī seeks refuge with the Bhārgava sage Cyavana on Mount Himavān, who blesses her to give birth to a mighty son unharmed by the poison.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शैलवरे रम्ये बभूवाभिरतो मुनिः ॥ ३१ ॥  
@@ -1567,6 +1615,14 @@ So said Sage Cyavana to the queen of Asita who received the poison. [1-70-35]
 **34:** “That brahmin sage spoke in blessing to her who desired a son, concerning the birth of her child (putrepsuṃ prajajanmani): ‘Within your womb, O supremely fortunate queen, a noble son of immense strength (suputraḥ sumahābalaḥ),
 
 **35:** “‘of great valor and great splendor, shall soon be born (acirāt saṃjaniṣyati), glorious even together with the poison (gareṇa sahitaḥ śrīmān); do not grieve, O lotus-eyed one (mā śucaḥ kamalekṣaṇe)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Born together with the poison administered by her co-wife, Kālindī’s son is named Sagara; Vasiṣṭha then traces the royal line through Asamañja, Aṃśumān, Dilīpa, Bhagīratha, Kakutstha, Raghu, and Kalmāṣapāda to Agnivarṇa.
 </details>
 </details>
 
@@ -1816,6 +1872,14 @@ water blemished him via his feet. Hence, he is also termed as Kalmashapaada.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—and was also known as Kalmāṣapāda; and from him was born Śaṅkhaṇa. Sudarśana was Śaṅkhaṇa’s son, and from Sudarśana came Agnivarṇa.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the lineage through Śīghraga, Maru, Ambarīṣa, Nahuṣa, Yayāti, Nābhāga, Aja, and Daśaratha down to Rāma and Lakṣmaṇa, Sage Vasiṣṭha formally requests Janaka’s two daughters in marriage for the two princes.
 </details>
 </details>
 

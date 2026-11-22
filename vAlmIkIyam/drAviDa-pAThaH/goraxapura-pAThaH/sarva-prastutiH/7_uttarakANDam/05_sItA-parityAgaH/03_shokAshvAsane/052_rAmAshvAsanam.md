@@ -13,6 +13,14 @@ title = "०५२ रामाश्वासनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising at dawn by the Keśinī, Lakṣmaṇa reaches prosperous Ayodhyā at midday; overwhelmed with dejection at what he must say, he descends at Rāma’s moon-white palace, enters unbarred, and beholds his elder brother seated with tear-filled eyes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र तां रजनीमुष्य केशिन्यां रघुनन्दनः ।  
@@ -168,6 +176,14 @@ Descending from his excellent chariot (avatīrya rathottamāt) at the gateway of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clasping Rāma’s feet in sorrow, Lakṣmaṇa reports that he has left Sītā at Vālmīki’s pure hermitage by the Gaṅgā and returned to serve him, then consoles his brother with the timeless truth that all accumulations, heights, unions, and lives must end.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दृष्ट्वा राघवं दीनमासीनं परमासने ।  
@@ -304,6 +320,14 @@ Descending from his excellent chariot (avatīrya rathottamāt) at the gateway of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging detachment from kin and wealth since parting is certain, Lakṣmaṇa reminds Rāma that he who can discipline all worlds can surely master his own grief, and warns that lingering sorrow will only revive the very public reproach he sought to avert.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् पुत्रेषु दारेषु मित्रेषु च धनेषु च ।  
@@ -425,6 +449,14 @@ Descending from his excellent chariot (avatīrya rathottamāt) at the gateway of
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That very reproach out of fear of which Maithilī was abandoned, O monarch (yadarthaṃ maithilī tyaktā apavāda-bhayān nṛpa)—that reproach shall surely arise again in the city, O King, beyond all doubt (so ’pavādaḥ pure rājan bhaviṣyati na saṃśayaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhorted by Lakṣmaṇa to compose himself with fortitude and renounce weak-minded anguish, Rāma replies with supreme affection, confirming his brother’s counsel, expressing deep satisfaction in his faithful execution of duty, and declaring his sorrow dispelled.
 </details>
 </details>
 

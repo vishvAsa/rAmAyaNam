@@ -15,6 +15,14 @@ title_english = "043 Lamentation of Kausalya"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Daśaratha prostrate with grief upon his couch, Kausalyā likens Kaikeyī to a slough-shedding serpent and laments Rāma’s casting out into the forest like a demon’s share of the oblation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समीक्ष्य शयने सन्नं शोकेन पार्थिवम् ।  
@@ -340,6 +348,14 @@ having a bow in hand, the mighty armed hero surely will have entered the forest 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā grieves for the youthful exiles subsisting on forest roots and fruits at the season of royal enjoyment, and yearns for the day when Ayodhyā will swell like the full-moon ocean at their return.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वने त्वदृष्टदुःखानां कैकेय्यनुमते त्वया ।  
@@ -611,6 +627,14 @@ to perceive the two princes who are tigers among men come back from the forest? 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā envisions Rāma’s future triumphal entry into Ayodhyā with Sītā before him in the chariot, showered with parched grain and greeted by maidens circumambulating the city with flowers and fruits.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदायोध्यां महाबाहुः पुरीं वीरः प्रवेक्ष्यति ।  
@@ -871,6 +895,14 @@ of age ,return to me, cherishing the world like the proportious and timely rain?
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When will that righteous-souled one (dharmātmā), mature in wisdom (pariṇataḥ buddhyā) and radiant as an immortal in youthful age (vayasā ca amara-prabhaḥ), come near (abhyupaiṣyati), gladdening the people like timely rain (su-varṣaḥ iva lālayan)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā attributes her bereavement to a past-life sin of severing mother cows’ udders before suckling calves, compares herself to a cow robbed of her calf by a lion, and feels scorched by the summer-sun fire of filial grief.
 </details>
 </details>
 

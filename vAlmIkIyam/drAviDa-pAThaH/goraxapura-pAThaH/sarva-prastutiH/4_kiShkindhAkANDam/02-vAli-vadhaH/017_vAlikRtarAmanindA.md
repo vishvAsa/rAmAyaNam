@@ -26,6 +26,14 @@ of Rama, like Viraadha and others, as a means of salvation.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck down by Rāma's arrow like a felled tree or Indra's lowered standard, Vālī retains his vital breaths and splendor through the golden garland bestowed by Śakra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरेणाभिहतो रामेण रणकर्कशः ।  
@@ -345,6 +353,14 @@ With that golden garland (tayā mālayā ... haimayā), the heroic troop-leader 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resplendent with his garland, physique, and the arrow piercing his vitals—which grants him the supreme path to heaven—fallen Vālī is approached by Rāma and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य माला च देहश्च मर्मघाती च यः शरः ।  
@@ -549,6 +565,14 @@ in his own brawny strength but now battered by still mightier person.
 **10:** Like the sun cast down upon the earth by Time at the end of a world-age (yugānte), unassailable (durdharṣam) like Mahendra, irresistible (duḥsaham) like Upendra,
 
 **11:** That fallen son of Mahendra, Vālī, wearing the golden garland (hemamālinam), broad-chested (vyūḍhoraskam), mighty-armed, of blazing countenance (dīptāsyam) and tawny-eyed (harilocanam),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma and Lakṣmaṇa draw near, dying Vālī addresses Rāma with words at once respectful, harsh, and grounded in dharma, contrasting Rāma's celebrated virtues with an unseen strike.
 </details>
 </details>
 
@@ -859,6 +883,14 @@ innuendo of praise.
 **17:** “ `Rāma is high-born (kulīnaḥ), endowed with noble character (sattvasampannaḥ), radiant (tejasvī), observant of vows (caritavrataḥ), sensitive to compassion (karuṇavedī), and devoted to the welfare of creatures;
 
 **18:** “ `Tender-hearted (sānukrośaḥ), of great energy (mahotsāhaḥ), knowing proper conduct (samayajñaḥ), and firm in his vows (dṛḍhavrataḥ)'—thus do all beings upon earth recount this renown [of yours].
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling that he ignored Tārā's warning because he trusted Rāma's royal virtues, Vālī denounces Rāma as a hypocrite cloaked in dharma like a grass-covered well or ash-hidden fire.
 </details>
 </details>
 
@@ -1181,6 +1213,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Since I commit no sin in your realm (viṣaye) or in your city, nor do I slight you (na ca tvām avajāne 'ham), wherefore do you slay [me] who am sinless (akilbiṣam)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing to Rāma's ascetic emblems and royal birth in Raghu's line, Vālī asks how a learned kṣatriya could slay a forest monkey living naturally on roots and fruits.
 </details>
 </details>
 
@@ -1551,6 +1591,14 @@ vanara, and hence your killing me is only to give me salvation.' Maheshvara Tiir
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking what land, gold, or forest fruit Rāma could covet from a monkey, Vālī accuses him of capricious royal conduct and numbers regicides among those bound for hell.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूमिर्हिरण्यं रूपं च विग्रहे कारणानि च ।  
@@ -1907,6 +1955,14 @@ brother who marries before his elder, all of them will go to hell. [4-17-36]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A regicide (rājahā), a brahmin-slayer (brahmahā), a cow-slayer (goghnaḥ), a thief, one who delights in slaying living beings, an atheist (nāstikaḥ), and a younger brother who weds before his elder (parivettā)—all these go to hell (nirayagāminaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the dharmaśāstra rule that only five five-toed creatures are edible while a monkey's skin, bone, and flesh are forbidden, Vālī laments ignoring Tārā's prophetic counsel.
 </details>
 </details>
 
@@ -2271,6 +2327,14 @@ kalyaaNa guNa ruupeNa*. So, you will protect Earth by eradicating evildoers on i
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With you as her protector (tvayā nāthena), O Kākutstha, the earth is not truly protected (na sanāthā vasuṃdharā), just like a woman endowed with virtue (pramadā śīlasampūrṇā) wedded to a lawless husband (patyeva ca vidharmaṇā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling that noble Daśaratha could sire a son who cast off the goad of dharma like a rogue elephant, Vālī declares that in open combat he would have slain Rāma.
 </details>
 </details>
 
@@ -2671,6 +2735,14 @@ in Sundara Kanda, where he obliges Brahma's decree.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hard to assail (durāsadaḥ) though I am, I have been slain in battle by you remaining unseen (tvayādṛśyena), like a sleeping man overcome by sin [or drink] (pāpavaśaṃ gataḥ) [bitten] by a serpent (pannageneva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he could have brought back Maithilī in a single day and bound Rāvaṇa by the neck, Vālī challenges Rāma to answer and falls silent with parched lips.
 </details>
 </details>
 

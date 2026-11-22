@@ -29,6 +29,14 @@ place where Sugreeva is hiding from Vali.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing to learn that Rāma too has a mission requiring Sugrīva's aid, Hanūmān asks why the brothers entered the dread forest, and Lakṣmaṇa begins recounting Rāma's noble lineage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहृष्टो हनुमान् कृत्यवानिति तद्वचः ।  
@@ -346,6 +354,14 @@ four-caste system... [4-4-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa extols King Daśaratha's sacrifices and introduces Rāma as his eldest son who relinquished royal sovereignty to fulfill his father's command, followed into exile by Sītā and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न द्वेष्टा विद्यते तस्य स तु द्वेष्टि न कञ्चन ।  
@@ -650,6 +666,14 @@ knowledgeable one, and his younger brother, by name I am named as Lakshmana... [
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa relates how a shape-shifting Rākṣasa abducted Sītā in their absence, how the heaven-bound Danu directed them to Sugrīva, and how the world-protector Rāma now seeks Sugrīva's aid.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखार्हस्य महार्हस्य सर्वभूतहितात्मनः ।  
@@ -896,6 +920,14 @@ was the lord of this world earlier, now accepts the lordship of Sugreeva... [4-4
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having formerly bestowed riches (dattvā ca vittāni) and attained unsurpassed renown (anuttamaṃ yaśaḥ), he who was heretofore the protector of the world (lokanāthaḥ) now desires Sugrīva as his protector (nātham icchati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emphasizing the poignant reversal of fortune, Lakṣmaṇa pleads that Rāma—whose grace the whole world seeks and whose father honored all monarchs—now seeks Sugrīva's favor in his grief.
 </details>
 </details>
 
@@ -1176,6 +1208,14 @@ Lakshmana said thus to Hanuma. [4-4-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When Rāma, overwhelmed by grief (śokābhibhūte) and stricken with sorrow (śokārte), has come for refuge, Sugrīva together with his troop-leaders (saha yūthapaiḥ) ought to show him grace (prasādam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved by Lakṣmaṇa's tearful words, Hanūmān replies that Sugrīva—himself banished and robbed of his wife by Vālin—will gladly join them in searching for Sītā, and invites them to Sugrīva.
 </details>
 </details>
 
@@ -1496,6 +1536,14 @@ to an envoy, and spoke this to Rama... [4-4-30]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Duly honoring (pratipūjya yathānyāyam) Hanūmān as he spoke thus, righteous-souled Lakṣmaṇa then addressed these words to Rāghava:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Observing Hanūmān's radiant face and truthful speech, Lakṣmaṇa congratulates Rāma on his assured success, whereupon Hanūmān resumes his monkey form and carries both heroes to Mount Ṛṣyamūka.
 </details>
 </details>
 

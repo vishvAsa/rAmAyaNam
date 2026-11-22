@@ -37,6 +37,14 @@ the clever. He is the supreme scholar, teacher, and the cleverest.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comprehending Sugrīva's counsel, Hanūmān bounds from Mount Ṛṣyamūka, assumes a mendicant's guise, bows humbly before Rāma and Lakṣmaṇa, and gently asks why they have entered that rugged region.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वचो विज्ञाय हनुमान् सुग्रीवस्य महात्मनः ।  
@@ -224,6 +232,14 @@ on making reverent obeisance to both of them. [4-3-4b, 5a]
 **4:** —addressed those two heroes and praised them according to truth (yathāvat); having duly honored (vidhivat sampūjya) the two heroes, Hanūmān, foremost of Vānaras—
 
 **5:** —spoke a gentle speech in accordance with [Sugrīva's] wish (kāmataḥ) to those two of unfailing valor, who resembled royal sages and gods (rājarṣidevapratimau), two ascetics of sharpened vows (saṃśitavratau):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising the golden-hued, lotus-eyed princes who illuminate the mountain lord with their radiance and bear bows like Indra's rainbow, Hanūmān asks who they are and why they have come.
 </details>
 </details>
 
@@ -477,6 +493,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Heroic, with eyes like lotus petals (padmapatrekṣaṇau), wearing crowns of matted locks (jaṭāmaṇḍaladhāriṇau), resembling one another (anyonyasadṛśau), you two heroes have come here from the world of the gods (devalokāt)—”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling at the princes' unornamented club-like arms, their sovereignty over the earth, their bows gleaming like Indra's thunderbolts, and their quivers of blazing arrows, Hanūmān extols their weapons.
 </details>
 </details>
 
@@ -793,6 +817,14 @@ burnt [refined,] gold, decorated with; *khaDagau etau viraajete* = swords, these
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the princes remain silent despite his praise, Hanūmān reveals himself as the Wind-god's son and minister of exiled Sugrīva, who seeks their friendship, and then falls silent.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं मां परिभाषन्तं कस्माद् वै नाभिभाषतः ॥ १९ ॥  
@@ -1044,6 +1076,14 @@ further. [4-3-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus unto those two heroes, Rāma and Lakṣmaṇa, Hanūmān—knower of speech (vākyajñaḥ) and skilled in eloquence (vākyakuśalaḥ)—spoke nothing further.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Hanūmān's speech, Rāma tells Lakṣmaṇa that Sugrīva's counselor has arrived just as desired, praising his mastery of the three Vedas and his faultless command of grammar.
 </details>
 </details>
 
@@ -1355,6 +1395,14 @@ Vedic scholar, because he is a practical one.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Surely the entire science of grammar (vyākaraṇaṃ kṛtsnam) has been heard by him in manifold ways (bahudhā śrutam); for though speaking at great length (bahu vyāharatā), not a single solecism has been uttered by him (na kiṃcid apaśabditam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Continuing his praise, Rāma extols Hanūmān's composed countenance, his concise, unhesitating, chest- and throat-resonating elocution across the three vocal registers, and his consummate skill as a royal envoy.
 </details>
 </details>
 
@@ -1672,6 +1720,14 @@ his ways and means... [4-3-34]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “How indeed, O sinless one (anagha), could the courses of affairs (kāryāṇāṃ gatayaḥ) succeed for a monarch who does not possess an envoy of such a kind (evaṃvidho dūtaḥ)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instructed by Rāma, Lakṣmaṇa assures the learned Hanūmān that they too are seeking Sugrīva and will act upon his counsel, filling the Wind-god's son with joy and confidence.
 </details>
 </details>
 

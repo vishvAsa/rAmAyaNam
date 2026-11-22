@@ -24,6 +24,14 @@ reproach Kaikeyi and break into lamentation.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning to Ayodhyā with their life-breaths nearly departed, the citizens weep in their homes as commerce and hearth-fires cease and wives reproach their husbands like elephants goaded with hooks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामेवं विषण्णानां पीडितानामतीव च ।  
@@ -299,6 +307,14 @@ husbands who came home, with words as sharp as pricks of the goad which attack a
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And in house after house (gṛhe gṛhe), weeping women afflicted with grief reproached (vyagarhayanta) their husbands who had come home, piercing them with words as one goads elephants with iron hooks (vāgbhis totrair iva dvipān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Denouncing homes, wealth, and sons as worthless without the sight of Rāma, the women of Ayodhyā praise Lakṣmaṇa and Sītā and envy the rivers, forests, and blossoming trees that will welcome Kākutstha.
 </details>
 </details>
 
@@ -616,6 +632,14 @@ Crowned with variegated flower-chaplets (vicitra-kusumāpīḍāḥ) and bearing
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Describing how mountains will pour forth clear cascades out of tenderness for Rāma, the women urge their husbands to follow him before he goes far, declaring that they will serve Sītā while the men serve Rāghava.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकाले चापि मुख्यानि पुष्पाणि च फलानि च ।  
@@ -903,6 +927,14 @@ afflicted with agony, spoke in so many words to their husbands.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 We women shall wait upon Sītā, and you men upon Rāghava (vayaṃ paricariṣyāmaḥ sītāṃ yūyaṃ tu rāghavam)!”—thus did the wives of the citizens, afflicted with sorrow, speak one thing and another unto their husbands.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confident that Rāma and Sītā will provide for their welfare in the woods, the women swear by their own sons never to live as hirelings under the wicked, family-defiling Kaikeyī.
 </details>
 </details>
 
@@ -1223,6 +1255,14 @@ She who pitilessly banishes (pravāsayati nirghṛṇā) the son of the lord of 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foreseeing Daśaratha’s death and the kingdom’s ruin, the wives bid their husbands drink poison, follow Rāma, or flee to a land where Kaikeyī’s name is unheard, before extolling Rāma’s moonlike beauty.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपद्रुतमिदं सर्वमनालम्भमनायकम् ।  
@@ -1436,6 +1476,14 @@ Deceitfully banished (mithyā-pravrājitaḥ) is Rāma together with Sītā and 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Rāma as the gentle, first-speaking hero who will grace the forests as he roams, the women of Ayodhyā wail in their mansions as if at the approach of Death until the sun goes down.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णचन्द्राननः श्यामो गूढजत्रुररिन्दमः ।  
@@ -1630,6 +1678,14 @@ were weeping in that manner about Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 While the women were thus lamenting for Rāghava in their mansions (vilapantīnāṃ strīṇāṃ veśmasu rāghavam), the sun went down to his setting (jagāmāstaṃ dina-karaḥ) and the night drew on (rajanī cābhyavartata).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With sacrificial fires extinguished, Vedic recitation and Purāṇic discourse hushed, and market stalls shuttered, Ayodhyā sinks into darkness like a starless sky or a dried-up ocean.
 </details>
 </details>
 

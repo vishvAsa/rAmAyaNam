@@ -13,6 +13,14 @@ title = "०४४ भ्रातृ-प्राप्तिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dismissed his companions and resolved upon his course, Rāma dispatches the royal doorkeeper to summon Lakṣmaṇa, Bharata, and Śatrughna at once; Lakṣmaṇa speeds forth by chariot as the messenger hastens on to Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसृज्य तु सुहृद्वर्गं बुद्ध्या निश्चित्य राघवः ।  
@@ -204,6 +212,14 @@ Seeing Lakṣmaṇa setting out (prayāntaṃ lakṣmaṇaṃ dṛṣṭvā), th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s summons, Bharata leaps from his seat and hurries on foot, while Śatrughna bows his head to the earth before hastening to the palace; returning, the doorkeeper announces to Rāma that all his brothers have arrived.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्तु वचः श्रुत्वा द्वाःस्थाद् रामसमीरितम् ॥ ७ ॥  
@@ -362,6 +378,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With downcast face and senses bewildered by grief, Rāma bids the doorkeeper admit his brothers—his very life-breath—at once; entering humbly, they behold his face dimmed like an eclipsed moon, a twilight sun, or a faded lotus.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुमारानागताञ्छ्रुत्वा चिन्ताव्याकुलितेन्द्रियः ॥ १२ ॥  
@@ -494,6 +518,14 @@ Beholding his face (dṛṣṭvā mukhaṃ tasya), like the moon seized by an ec
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —and seeing both eyes of the wise Rāma brimming with tears (bāṣpa-pūrṇe ca nayane ... rāmasya dhīmataḥ), and looking upon his face like a lotus robbed of its splendor (hata-śobhaṃ yathā padmaṃ mukham)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping as his brothers touch his feet, Rāma embraces, raises, and seats them, solemnly declaring them his life and learned counselors whom he must now consult on his grave affair, leaving them anxious and intently awaiting his words.
 </details>
 </details>
 

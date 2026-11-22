@@ -26,6 +26,14 @@ of Indrajit, coming in his chariot.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching Nikumbhilā, Vibhīṣaṇa urges Lakṣmaṇa and the monkeys to shatter the dark rākṣasa vanguard so that Indrajit is forced into view before completing his sacrifice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्यामवस्थायां लक्ष्मणं रावणानुजः ।  
@@ -276,6 +284,14 @@ streams of arrows in the direction of Indrajit.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having heard Vibhīṣaṇa's words, Lakṣmaṇa, endowed with auspicious marks (śubhalakṣaṇaḥ), rained down a shower of arrows toward the son of the rākṣasa lord.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bears and monkeys wielding trees and mountain peaks charge the rākṣasa ranks, sparking a tumultuous battle that fills the sky with weapons and echoes through Laṅkā.
 </details>
 </details>
 
@@ -593,6 +609,14 @@ In the very same way, with whole trees (sakalair vṛkṣaiḥ) and mountain pea
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing his army routed, Indrajit abandons his unfinished sacrifice, emerges in fury from the dark banyan grove to mount his chariot, and rallies his forces as Hanūmān uproots a giant tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षवानरमुख्यैश्च महाकायैर्महाबलैः ।  
@@ -875,6 +899,14 @@ At that very time, Hanūmān, tamer of foes, resembling a mountain (dharaṇīdh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like the doomsday fire, Hanūmān batters the rākṣasa ranks unconscious with trees, and when thousands assail him with every kind of weapon, he wreaks terrible slaughter upon them.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राक्षसानां तत् सैन्यं कालाग्निरिव निर्दहन् ।  
@@ -1078,6 +1110,14 @@ Hanuma made a colossal destruction of those demons.
 **23:** and with dreadful battle-axes andavelins (bhindipālaiḥ), and with fists like thunderbolts and palms resembling lightning-bolts (talair aśanisaṃnibhaiḥ), the rākṣasas,
 
 **24:** closing in from every side, struck him who resembled a mountain; and he too, infuriated (saṃkruddhaḥ), wrought a mighty slaughter (kadanam mahat) among them.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Hanūmān decimating his troops, Indrajit orders his charioteer to drive toward him and showers weapons upon the monkey's head, prompting Hanūmān's fierce challenge.
 </details>
 </details>
 
@@ -1379,6 +1419,14 @@ you will not return alive."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Fight, if you are a hero (yadi śūro 'si), O evil-minded son of Rāvaṇa! Having encountered the son of the Wind-god, you shall not return alive (na jīvan pratiyāsyasi)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Hanūmān challenges Indrajit to hand-to-hand combat, Vibhīṣaṇa points out the chariot-borne conqueror of Indra to Lakṣmaṇa and urges him to slay the rākṣasa with his arrows.
 </details>
 </details>
 

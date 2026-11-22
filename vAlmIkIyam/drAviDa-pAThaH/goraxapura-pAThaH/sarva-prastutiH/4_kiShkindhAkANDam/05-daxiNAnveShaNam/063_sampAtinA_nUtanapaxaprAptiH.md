@@ -27,6 +27,14 @@ journey on to southern direction, as directed by Sampaati.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sampāti recounts how Niśākara praised him and entered his hermitage, and how for over eight thousand years he has restrained his desire to die by cherishing the sage's saving words.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतैरन्यैश्च बहुभिर्वाक्यैर्वाक्यविशारदः ।  
@@ -310,6 +318,14 @@ taking away my anguish, as a tongue of flaring fire takes away darkness... [4-63
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dispelling his grief like a blazing flame dispelling darkness, Sampāti tells how he rebuked Supārśva for not rescuing Sītā, and before the monkeys' eyes his crimson-feathered wings sprout anew.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुध्यता च मया वीर्यं रावणस्य दुरात्मनः ॥ ६ ॥  
@@ -576,6 +592,14 @@ Sampaati that were burnt down by sunrays have resurfaced again. [4-63-10b, 11a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “he obtained peerless joy (praharṣam atulaṃ lebhe) and spoke this to the monkeys: “By the grace (prasādāt) of the royal sage Niśākara of boundless splendor (amitojasaḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Feeling his youthful vigor restored, Sampāti points to his new wings as proof of the monkeys' coming success and soars from the peak, while the heartened monkeys march southward.
 </details>
 </details>
 

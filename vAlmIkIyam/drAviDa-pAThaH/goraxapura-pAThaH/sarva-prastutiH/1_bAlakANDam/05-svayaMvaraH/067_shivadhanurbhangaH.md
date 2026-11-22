@@ -25,6 +25,14 @@ Rama breaks Shiva's bow when he wanted to examine the tautness of its
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Viśvāmitra’s bidding, King Janaka commands his ministers to bring forth Śiva’s bow, and five thousand tall, stalwart men haul the eight-wheeled iron chest into the assembly.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकस्य वचः श्रुत्वा विश्वामित्रो महामुनिः ।  
@@ -325,6 +333,14 @@ Oh king and sovereign of Mithila, here is the select bow that is reverenced by
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka recounts that neither gods, asuras, rākṣasas, gandharvas, yakṣas, nor kinnaras could bend, string, or even lift the bow, whereupon Viśvāmitra bids Rāma behold it.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां नृपो वचः श्रुत्वा कृताञ्जलिरभाषत ।  
@@ -618,6 +634,14 @@ Vishvamitra on listening the sentence of Janaka along with Rama, on his part sai
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing Janaka’s speech (śrutvā janakabhāṣitam), Viśvāmitra, together with Rāma (viśvāmitraḥ sarāmas tu), spoke to Rāghava (rāghavam abravīt): “My child Rāma, behold the bow (vatsa rāma dhanuḥ paśya)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Opening the iron chest, Rāma grasps Śiva’s bow in the middle with effortless sport, strings the bowstring before thousands of onlookers, draws it full circle, and snaps it in two with a thunderous crash.
 </details>
 </details>
 
@@ -994,6 +1018,14 @@ Mighty was the crash thereof (tasya śabdo mahān āsīt), resounding like a cla
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While all onlookers fall stunned save Viśvāmitra, Janaka, Rāma, and Lakṣmaṇa, King Janaka recovers from his dread and joyfully proclaims that Sītā, whose bride-price is valor, shall be wedded to Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपेतुश्च नराः सर्वे तेन शब्देन मोहिताः ।  
@@ -1289,6 +1321,14 @@ Oh, Kaushika, my commitment that she is the bounty of bravery has also come
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That solemn pledge of mine (mama satyā pratijñā sā) that she has valor for her bride-price (vīryaśulketi) has come true, O Kauśika! My daughter Sītā, cherished more dearly than my own life-breaths (sītā prāṇair bahumatā me sutā), must now be given to Rāma (deyā rāmāya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Viśvāmitra’s blessing, Janaka dispatches swift envoys on chariots to Ayodhyā bearing his royal missive to report the breaking of the bow and escort King Daśaratha to Mithilā.
 </details>
 </details>
 

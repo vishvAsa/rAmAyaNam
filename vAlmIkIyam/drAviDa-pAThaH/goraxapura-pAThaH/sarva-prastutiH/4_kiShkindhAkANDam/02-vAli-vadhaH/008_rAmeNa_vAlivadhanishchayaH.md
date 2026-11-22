@@ -25,6 +25,14 @@ cause of enmity, so that he can decide correctly. Sugreeva narrates his woeful c
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Rāma's oath, Sugrīva deems himself blessed by the gods to have won a fire-witnessed friend with whose aid even the sovereignty of heaven could be gained.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परितुष्टस्तु सुग्रीवस्तेन वाक्येन हर्षितः ।  
@@ -341,6 +349,14 @@ their friendship and courage will generally be stable. [4-8-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Of great-souled, self-disciplined men (kṛtātmanām) like you, mostly (bhūyiṣṭham), affection (prītiḥ) is unshakable (niścalā)—as is fortitude [or: like the fortitude of the self-possessed], O best of the self-possessed (ātmavatāṃ vara)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva extols true friendship in which all possessions are shared and every sacrifice is made, receives Rāma's assent before Lakṣmaṇa, and spots a flowering śāla tree nearby.
 </details>
 </details>
 
@@ -666,6 +682,14 @@ Then that lord of monkeys (harīśvaraḥ) beheld not far away (avidūre) a śā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Sugrīva and Hanumān spread leafy śāla boughs as seats for Rāma and Lakṣmaṇa, Sugrīva addresses the serene Rāma, recounting his exile on Ṛṣyamūka in terror of Vālin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैकां पर्णबहुलां शाखां भङ्‍क्त्वा सुशोभिताम् ।  
@@ -958,6 +982,14 @@ living on with a scared and dazed vitality far flung in fear. [4-8-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Frightened (trastaḥ), plunged in terror (bhaye magnaḥ), and bewildered in mind (sambhrāntacetanaḥ) in the forest, I have been humiliated by my brother Vālin (vālinā nikṛto bhrātrā) and made an object of enmity (kṛtavairaś ca), O Rāghava!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Implored for grace by the protectorless Sugrīva, Rāma smiles and declares that he will slay Vālin that very day with his heron-feathered shafts sprung from Kārttikeya's reed-forest.
 </details>
 </details>
 
@@ -1261,6 +1293,14 @@ Sugreeva. [4-8-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Behold your sin-working brother (bhrātaraṃ kṛtakilbiṣam), your enemy named Vālin (vālisaṃjñam amitraṃ te), struck down by my arrows (śarair vinihatam) like a shattered mountain (vikīrṇam iva parvatam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cheered by Rāma's promise, Sugrīva confides his inward grief to his fire-witnessed friend, then checks the sudden torrent of his tears with fortitude in Rāma's presence.
 </details>
 </details>
 
@@ -1578,6 +1618,14 @@ But in Rāma's presence (rāmasaṃnidhau), Sugrīva restrained with fortitude (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wiping his eyes, Sugrīva recounts how Vālin deposed him, stole his wife, imprisoned his friends, and sent assassins—which was why Sugrīva initially feared approaching even Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निगृह्य तु तं बाष्पं प्रमृज्य नयने शुभे ।  
@@ -1890,6 +1938,14 @@ important monkeys like Hanuma and others, who are the only helping hands of mine
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising his loyal companions, Sugrīva declares that his life and happiness depend entirely on Vālin's death, prompting Rāma to ask the true cause of their fratricidal enmity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते हि कपयः स्निग्धा मां रक्षन्ति समन्ततः ।  
@@ -2148,6 +2204,14 @@ am interested to listen, in its reality...[4-8-41]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing this speech, Rāma spoke thus to Sugrīva: “From what cause (kiṃnimittam) did this enmity arise (abhūd vairam)? I wish to hear it in full truth (śrotum icchāmi tattvataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His wrath swelling like a monsoon flood at Sugrīva's humiliation, Rāma asks to weigh the cause of the feud, and Sugrīva joyfully begins his true account.
 </details>
 </details>
 

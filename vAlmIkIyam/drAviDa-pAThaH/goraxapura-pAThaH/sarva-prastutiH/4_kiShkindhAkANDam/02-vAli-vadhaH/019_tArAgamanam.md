@@ -25,6 +25,14 @@ her husband Vali and his brother Sugreeva. She faints and wails for the departin
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Vālin lapses into unconsciousness at life's close, Tārā hears of his fall and rushes from Kiṣkindhā's cave with Aṅgada, meeting terrified monkeys fleeing like leaderless deer.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वानरमहाराजः शयानः शरपीडितः ।  
@@ -338,6 +346,14 @@ like those animals that have wandered off from their herd when their master is k
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 She then beheld the terrified monkeys rushing headlong (trastān harīn āpatato drutam), like deer scattered from their herd (yūthād eva paribhraṣṭān mṛgān) when their herd-leader has been slain (nihatayūthapān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioning the terrified monkeys who flee as if pursued by arrows, Tārā hears their urgent plea to turn back and save Aṅgada from Rāma, who is Death incarnate.
 </details>
 </details>
 
@@ -671,6 +687,14 @@ Piercing right through the trees that were hurled and the massive boulders as we
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though the fleeing monkeys urge Tārā to fortify Kiṣkindhā and crown Aṅgada before Sugrīva's vengeful followers invade, she spurns son, kingdom, and life itself for her fallen lord.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिभूतमिदं सर्वं विद्रुतं वानरं बलम् ।  
@@ -973,6 +997,14 @@ honour perished. [4-19-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beating her head and breast in grief, Tārā rushes to Vālin's side and beholds the slayer of Dānavas lying on the ground like a spent rain-cloud or felled elephant.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पादमूलं गमिष्यामि तस्यैवाहं महात्मनः ।  
@@ -1227,6 +1259,14 @@ pi~NgalaH vyaadiirnaasyo mahaanaadaH shaarduulo amita vikrama*
 **22:** The hurler of mountain peaks (kṣeptāraṃ parvatendrāṇām), like Vāsava hurling thunderbolts (vajrāṇām iva vāsavam), filled with the impetuous force of a mighty wind (mahāvātasamāviṣṭam), and roaring like a mass of great clouds (mahāmeghaughaniḥsvanam),
 
 **23:** Equal to Śakra in valor (śakratulyaparākrāntam), like a rain-cloud that has ceased after pouring down its rain (vṛṣṭvevoparataṃ ghanam), who used to roar dreadfully among roaring warriors (nardantaṃ nardatāṃ bhīmam), a hero felled by a hero (śūraṃ śūreṇa pātitam), like a king of beasts struck down by a tiger for the sake of meat (śārdūlenāmiṣasyārthe mṛgarājam ivāhatam)—”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Vālin lying like a shrine uprooted by Garuḍa and Rāma leaning on his bow, Tārā rushes past them, collapses beside her lord, and weeps as Sugrīva despairs.
 </details>
 </details>
 

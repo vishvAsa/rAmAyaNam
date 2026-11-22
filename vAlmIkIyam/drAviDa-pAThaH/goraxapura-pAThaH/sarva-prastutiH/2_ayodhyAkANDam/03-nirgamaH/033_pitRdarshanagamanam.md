@@ -15,6 +15,14 @@ title_english = "033 Rama pays respects to his father at departure"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bestowed abundant wealth upon the Brāhmaṇas, Rāma and Lakṣmaṇa set out on foot with Sītā to behold King Daśaratha, while dejected citizens crowd the palace rooftops to gaze upon them.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दत्त्वा तु सह वैदेह्या ब्राह्मणेभ्यो धनं बहु ।  
@@ -330,6 +338,14 @@ Lakshmana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “He whom a mighty fourfold army (caturaṅga-balaṃ mahat) used to follow whenever he went forth—him alone, accompanied by Sītā, Lakṣmaṇa now follows!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The citizens marvel at Rāma’s reverence for dharma, grieve for Sītā exposed to the public highway and forest rigors, and extol the six noble virtues that adorn the prince.
 </details>
 </details>
 
@@ -650,6 +666,14 @@ these six virtues adorn Rama, the best of men.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing Rāma to the life-giving root of the human tree and themselves to aquatic creatures parched in summer, the citizens resolve to abandon their homes and follow him into exile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् तस्योपघातेन प्रजाः परमपीडिताः ।  
@@ -909,6 +933,14 @@ share his joys and sorrows.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The citizens curse their abandoned mansions to become dust-covered haunts of mice for Kaikeyī to rule, declaring that the forest where Rāma goes shall become the true city.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद‍्धृतनिधानानि परिध्वस्ताजिराणि च ।  
@@ -1109,6 +1141,14 @@ to be inhabited by us and reach the city of Ayodhya.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding the wild beasts occupy forsaken Ayodhyā with Kaikeyī, the citizens vow to dwell happily with Rāma in the woods; hearing their cries with an unshaken mind, Rāma approaches Kaikeyī’s palace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मत्त्यक्तं प्रपद्यन्तु सेव्यमानं त्यजन्तु च ।  
@@ -1250,6 +1290,14 @@ mountain.
 **26:** Rāghava heard such manifold words uttered by various people; yet having heard them, his mind did not waver or suffer agitation (na vicakre 'sya mānasam).
 
 **27:** Then that righteous-souled prince, of the stride of a rutting elephant (matta-mātaṅga-vikramaḥ), once again approached the palace of his stepmother (veśma punar mātuḥ), which shone like a peak of Mount Kailāsa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the royal palace with a serene and smiling countenance, Rāma beholds the sorrowful Sumantra standing nearby and bids him announce his arrival to King Daśaratha.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ qualities of Rama. He requests her to have faith in his words.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Sītā’s sorrowful account, Hanūmān announces himself as Rāma’s messenger and conveys Rāma’s inquiry after her welfare and Lakṣmaṇa’s reverent salutation, filling her with joy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा हनूमान् हरिपुङ्गवः ।  
@@ -354,6 +362,14 @@ adage appears true and and auspicious for me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Auspicious and true indeed does this popular proverb appear to me (kalyāṇī bata gātheyaṃ laukikī pratibhāti mā): ‘Joy comes to a living person even after a hundred years (eti jīvantam ānando naraṃ varṣa-śatād api)!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As mutual trust and wondrous joy arise between them, Hanūmān steps closer to salute Sītā; suddenly suspecting Rāvaṇa in disguise, she releases the branch, sits on the ground, and averts her gaze.
 </details>
 </details>
 
@@ -686,6 +702,14 @@ The mighty-armed monkey then reverently saluted that daughter of Janaka (avandat
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sighing deeply, Sītā chides the bowing monkey in case he is Rāvaṇa disguised as at Janasthāna, yet immediately dismisses her suspicion on feeling inner joy and invites him to speak of Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा वन्दमानं च सीता शशिनिभानना ।  
@@ -987,6 +1011,14 @@ is very pleasurable for me. Hence, I am requesting you to narrate it."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 If you have come as the messenger of Rāma, may auspiciousness attend you (bhadram astu te)! I ask you, O foremost of monkeys, to recount more—for dear to me is the story of Rāma (priyā rāma-kathā hi me)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Captivated by Hanūmān’s speech like a riverbank swept away by a current, Sītā weighs and refutes the doubts of dream, delirium, and mirage through her clear self-awareness.
 </details>
 </details>
 
@@ -1296,6 +1328,14 @@ Or rather, this is neither madness nor a delusion bearing the marks of madness (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weighing the rākṣasas’ shape-shifting power, Sītā again suspects Rāvaṇa and falls silent; perceiving her thought, Hanūmān gladdens her by extolling Rāma’s solar splendor, valor, and beauty.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं बहुधा सीता सम्प्रधार्य बलाबलम् ।  
@@ -1539,6 +1579,14 @@ handsome, fortunate, and glorious, like Kandarpa [Love] incarnate (kandarpa iva 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān assures Sītā that Rāma will soon slay Rāvaṇa with blazing arrows for abducting her in the deserted hermitage, and conveys the greetings of Rāma, Lakṣmaṇa, and Sugrīva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहुच्छायामवष्टब्धो यस्य लोको महात्मनः ।  
@@ -1748,6 +1796,14 @@ to enquire of your welfare."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Stricken with grief through separation from you (tvad-viyogena duḥkhārtaḥ), he has inquired after your welfare (sa tvāṃ kauśalam abravīt); and Lakṣmaṇa of mighty splendor, enhancer of Sumitrā’s joy (sumitrānanda-vardhanaḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Announcing that Rāma, Lakṣmaṇa, and Sugrīva constantly remember her, Hanūmān reveals his name as Sugrīva’s minister who leaped the ocean and implores Sītā to cast aside all doubt.
 </details>
 </details>
 

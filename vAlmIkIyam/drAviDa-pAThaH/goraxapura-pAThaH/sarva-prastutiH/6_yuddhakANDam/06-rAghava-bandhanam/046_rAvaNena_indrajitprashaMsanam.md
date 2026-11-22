@@ -29,6 +29,14 @@ have been killed. Ravana applauds his son for his daring act.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Indrajit pauses his rain of arrows, Vibhīṣaṇa, Sugrīva, and the tearful Vānara commanders gather around Rāma and Lakṣmaṇa, who lie rigid and hissing like serpents on their bed of shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो द्यां पृथिवीं चैव वीक्षमाणा वनौकसः ।  
@@ -282,6 +290,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Those two heroes lying upon their hero's bed with faint stirrings of life (mandaceṣṭitau), surrounded by their troop-commanders whose eyes were turbid with tears (bāṣpavyākulalocanaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the Vānaras search the sky in vain, Vibhīṣaṇa's mystic vision pierces Indrajit's veil as the exultant prince proclaims to his Rākṣasas that the slayers of Khara and Dūṣaṇa lie felled.
 </details>
 </details>
 
@@ -610,6 +626,14 @@ Dushana have been killed by my arrows."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that neither gods nor sages can unbind Rāma and Lakṣmaṇa and that Rāvaṇa's sleepless nights are over, Indrajit wounds Nīla, Mainda, and Dvivida with volleys of shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेमौ मोक्षयितुं शक्यावेतस्मादिषुबन्धनात् ।  
@@ -899,6 +923,14 @@ Dvivida with three superb arrows on each.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Striking Nīla with nine shafts (nīlaṃ navabhir āhatya), that slayer of foes (amitraghnaḥ) tormented both Mainda and Dvivida with three supreme arrows each (tribhis tribhiḥ parameṣubhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Piercing Jāmbavān, Hanūmān, Gavākṣa, Śarabha, and Aṅgada with flame-like arrows, Indrajit laughs aloud and bids his Rākṣasas behold the two brothers bound at the army's vanguard.
 </details>
 </details>
 
@@ -1193,6 +1225,14 @@ Lakshmana) bound together by me by a terrible net work of my arrows."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Behold, O Rākṣasas (niśāmayata rākṣasāḥ), these two brothers bound together by me (mayā baddhau sahitau bhrātarāv etau) with a dreadful snare of arrows at the head of the army (śarabandhena ghoreṇa camūmukhe)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeming Rāma and Lakṣmaṇa dead, the cheering Rākṣasas acclaim Indrajit as he re-enters Laṅkā, while Vibhīṣaṇa addresses the tearful, panic-stricken Sugrīva.
 </details>
 </details>
 
@@ -1515,6 +1555,14 @@ Then Vibhīṣaṇa spoke to that terrified lord of the Vānaras (tam uvāca par
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuring Sugrīva that the righteous need never fear death and that Rāma and Lakṣmaṇa will shake off their swoon, Vibhīṣaṇa wipes the monkey king's eyes with spell-consecrated water.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम्प्रायाणि युद्धानि विजयो नास्ति नैष्ठिकः ॥ ३१ ॥  
@@ -1762,6 +1810,14 @@ of good sense and comfort.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having wiped the face of that wise lord of monkeys (vimṛjya vadanaṃ tasya kapirājasya), he spoke these timely and unagitated words (kālasaṃprāptam asambhrāntam idaṃ vacaḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that faintheartedness in a crisis is fatal, Vibhīṣaṇa points to the undimmed radiance on Rāma's face as proof of life and urges Sugrīva to guard the princes.
 </details>
 </details>
 
@@ -2033,6 +2089,14 @@ the entire ranks."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Vibhīṣaṇa rallies the whispering, panic-stricken Vānara ranks to cast off their fear like a faded garland, Indrajit enters Laṅkā surrounded by his army and approaches Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते हि फुल्लनयनास्त्रासादागतसाध्वसाः ।  
@@ -2238,6 +2302,14 @@ Lanka.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Meanwhile Indrajit of mighty illusions (mahāmāyaḥ), surrounded by all his troops (sarvasainyasamāvṛtaḥ), entered the city of Laṅkā and approached his father (pitaraṃ cābhyupāgamat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing from Indrajit that Rāma and Lakṣmaṇa lie felled and motionless in the snare of arrows, Rāvaṇa leaps up to embrace his son, relieved of his long fever of dread.
 </details>
 </details>
 

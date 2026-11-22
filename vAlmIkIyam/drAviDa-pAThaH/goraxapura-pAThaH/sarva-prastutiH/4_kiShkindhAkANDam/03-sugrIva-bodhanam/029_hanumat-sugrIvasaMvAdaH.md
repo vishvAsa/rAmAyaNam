@@ -27,6 +27,22 @@ troops within fifteen days, Sugreeva re-enters his palace-chambers, dragged by h
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the cloudless autumn sky and Sugrīva absorbed day and night in sensual pleasures with Rumā and Tārā while neglecting statecraft, wise Hanūmān resolves to act.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Sugrīva with reasoned, affectionate counsel, Hanūmān reminds him that having regained his ancestral sovereignty, he must now fulfill his remaining duty to his allies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीक्ष्य विमलं व्योम गतविद्युद‍्बलाहकम् ।  
@@ -418,6 +434,14 @@ Therefore Your Majesty, endowed with noble conduct (vṛttasampannaḥ) and abid
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that belated aid forfeits a friend's purpose, Hanūmān urges Sugrīva to order the search for Vaidehī at once, since noble Rāma forbears reminding him despite his haste.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्त्यज्य सर्वकर्माणि मित्रार्थे यो न वर्तते ।  
@@ -717,6 +741,14 @@ monkeys, it will be apt of you to summon worthy monkeys for searching Seetha. [4
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān argues that acting before Rāma's prompting avoids the fault of delay, reminding Sugrīva that Rāma risked his life for him and awaits only his promised aid.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तावद् भवेत् कालो व्यतीतश्चोदनादृते ।  
@@ -991,6 +1023,14 @@ By him who shrank not even from risking his life (prāṇatyāgāviśaṅkena), 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exalting Rāma's invincibility and the unobstructed reach of Sugrīva's myriad monkeys across earth, water, and sky, Hanūmān asks for orders, awakening Sugrīva's noble resolve.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वा असुराः समरुद‍्गणाः ।  
@@ -1255,6 +1295,14 @@ took a noble decision. [4-29-28]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech of his, nobly set forth at the proper season (kāle sādhu nirūpitam), Sugrīva, endowed with noble courage (sattvasampannaḥ), formed the supreme resolve (cakāra matim uttamām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakened to duty, Sugrīva commissions Nīla to muster all monkey hosts and frontier wardens within fifteen days under pain of death, then retires to his palace.
 </details>
 </details>
 

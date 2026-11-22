@@ -11,6 +11,14 @@ title = "०१८ मरुत्त-पराजयः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resuming his circuit of the earth aboard Puṣpaka after Vedavatī’s self-immolation, Rāvaṇa arrives at Uśīrabīja where King Marutta sacrifices with the gods; terrified by the boon-armored demon, Indra, Yama, Kubera, and Varuṇa hide in animal forms as Rāvaṇa defiles the precinct.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टायां हुताशं तु वेदवत्यां स रावणः ।  
@@ -203,6 +211,14 @@ When the other gods too had departed in this same manner (anyeṣv api gateṣv 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Marutta, Rāvaṇa demands battle or surrender and laughs sarcastically when the king calmly asks his name; boasting of having defeated Kubera, he draws Marutta’s biting ironic praise and stern condemnation of fratricidal impiety.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं च राजानमासाद्य रावणो राक्षसाधिपः ।  
@@ -389,6 +405,14 @@ Thereupon King Marutta said to him, “Who are you (ko bhavān)?” Letting out 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taunting Rāvaṇa for his unheard-of shamelessness, Marutta seizes his bow to send him to Yama’s realm; but the sage Saṃvarta bars his way, warning that an unfinished Maheśvara sacrifice will consume his lineage, and the king dutifully returns to the altar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुतपूर्वं हि न मया भाषसे यादृशं स्वयम् ।  
@@ -553,6 +577,14 @@ That great sage spoke with affection (sneha-saṃyuktam) to Marutta: “If my wo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeming Marutta defeated, Rāvaṇa’s minister Śuka proclaims victory while Rāvaṇa brutally devours the assembled sages and departs; resuming their divine forms, the gods thank their animal hosts, beginning with Indra bestowing a thousand tail-eyes and immunity from snakes upon the peacock.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तं निर्जितं मत्वा घोषयामास वै शुकः ।  
@@ -713,6 +745,14 @@ _________________
 **23:** “And these thousand eyes of mine (idaṃ netra-sahasraṃ tu) shall appear upon your tail-plumes (yat tvad-barhe bhaviṣyati); whenever I pour down rain (varṣamāṇe mayi), you shall attain joy bearing the mark of my favor (mudaṃ prāpsyase prīti-lakṣaṇām)!” Thus did Indra, lord of the gods, bestow a boon upon the peacock (varaṃ prādān mayūrasya).
 
 **24:** Formerly, O lord of men (narādhipa), the tail-feathers of peacocks were simply dark blue (nīlāḥ kila purā barhā mayūrāṇām); upon receiving that boon from the sovereign of the gods (surādhipād varaṃ prāpya), all of them became truly splendid-plumed (gatāḥ sarve ’pi barhiṇaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dharmarāja blesses the crow with immunity from disease and spontaneous death and decrees that feeding crows shall satisfy hungry ancestors in Yama’s realm; Varuṇa then addresses the Gaṅgā swan, promising it a moon-bright, foam-white hue.
 </details>
 </details>
 
@@ -908,6 +948,14 @@ Varuṇa in turn spoke to the swan sporting in the waters of the Gaṅgā (haṃ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A captivating and serene hue (varṇo manoharaḥ saumyaḥ), resembling the orb of the full moon (candramaṇḍala-sannibhaḥ), lofty and bright as pure white foam (udagraḥ śuddha-phena-samaprabhaḥ), shall henceforth be yours (bhaviṣyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Varuṇa promises the once blue-and-pale swan eternal loveliness in water, Kubera grants the mountain chameleon a gleaming golden head, and the gods—having conferred their boons at the sacrifice—return to heaven together with King Marutta.
 </details>
 </details>
 

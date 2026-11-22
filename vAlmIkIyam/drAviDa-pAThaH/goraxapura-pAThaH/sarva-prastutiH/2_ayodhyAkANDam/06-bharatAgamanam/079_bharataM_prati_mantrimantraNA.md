@@ -24,6 +24,14 @@ for construction of a path-way to reach the forest.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At dawn on the fourteenth day, the kingmakers assemble and urge Bharata to accept the ancestral throne as kinsmen and guilds await with the consecration vessels; Bharata circumambulates the regalia and replies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभातसमये दिवसेऽथ चतुर्दशे ।  
@@ -307,6 +315,14 @@ things kept ready for consecration and replied to all those people as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having reverently circumambulated all the vessels and regalia of consecration (abhiṣecanikaṃ bhāṇḍaṃ kṛtvā sarvaṃ pradakṣiṇam), Bharata, firm in his vow, answered all those people (bharatas taṃ janaṃ sarvaṃ pratyuvāca dhṛta-vrataḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata refuses the crown, declaring that kingship in their race belongs ever to the eldest, and vows to crown Rāma in the forest, bring him back like sacrificial fire from the altar, and dwell fourteen years in the woods himself.
 </details>
 </details>
 
@@ -594,6 +610,14 @@ impassable forest. Rama will become the king."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I shall never fulfill the desire of this woman who is my mother in name alone (na sakāmāṃ kariṣyāmi svām imāṃ mātṛ-gandhinīm); I shall dwell in the impassable forest, and Rāma shall be king (vane vatsyāmy ahaṃ durge rāmo rājā bhaviṣyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata orders artisans and path-scouts to level the road to the forest; shedding tears of joy, the ministers and citizens bless him with unfailing Lakṣmī and report that the road-builders have been dispatched.
 </details>
 </details>
 

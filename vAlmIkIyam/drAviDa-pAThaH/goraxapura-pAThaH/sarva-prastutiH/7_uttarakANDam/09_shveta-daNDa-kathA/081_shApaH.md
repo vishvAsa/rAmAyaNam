@@ -13,6 +13,14 @@ title = "०८१ शापः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning of the outrage moments later, the hungry sage Śukra returns with his disciples and beholds Arajā weeping and covered with dust; blazing with wrath as though burning the three worlds, he declares that foolish Daṇḍa has summoned his own fiery doom.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मुहूर्तादुपश्रुत्य देवर्षिरमितप्रभः ।  
@@ -217,6 +225,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śukra pronounces a terrible curse that within seven nights Indra will bury Daṇḍa, his army, and his hundred-yojana kingdom under a rain of dust, and commands all residents of his hermitage to move beyond the realm’s borders.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तरात्रेण राजासौ सपुत्रबलवाहनः ।  
@@ -416,6 +432,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ordering Arajā to dwell in penance beside the radiant yojana-wide lake—granting immunity from the dust-storm to all creatures sheltering near her—Śukra relocates elsewhere, and within seven days Daṇḍa’s entire realm is reduced to ashes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथोक्त्वा मुनिजनमरजामिदमब्रवीत् ।  
@@ -585,6 +609,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And that kingdom of the king, together with his ministers, army, and mounts (sa-bhṛtya-bala-vāhanam), was reduced to ashes within seven days (saptāhād bhasmasād bhūtam), just as declared by that knower of Brahman (yathoktaṃ brahma-vādinā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his narrative, Agastya explains how Daṇḍa’s cursed realm between the Vindhya and Śaivala peaks became both the Daṇḍaka forest and Janasthāna; seeing the sun setting as sages worship, he bids Rāma perform his evening ablutions.
 </details>
 </details>
 

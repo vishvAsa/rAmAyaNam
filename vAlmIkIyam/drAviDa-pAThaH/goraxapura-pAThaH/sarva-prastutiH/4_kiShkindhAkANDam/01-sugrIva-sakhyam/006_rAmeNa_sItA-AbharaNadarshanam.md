@@ -29,6 +29,14 @@ clansmen.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased with Rāma's pledge, Sugrīva recounts what Hanumān told him of Sītā's abduction and vows to recover her even from the netherworld or the sky, like the lost Vedic revelation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनरेवाब्रवीत् प्रीतो राघवं रघुनन्दनम् ।  
@@ -274,6 +282,14 @@ in netherworlds or even in empyrean worlds. [4-6-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva assures Rāma that Sītā is as indigestible to her abductor as poisoned food, and describes how she dropped her upper garment and ornaments when carried across the mountain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तथ्यं मम वचस्त्वमवेहि च राघव ।  
@@ -500,6 +516,14 @@ will be apt of you to identify them..." thus said Sugreeva to Rama. [4-6-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Those were taken by us and safely stored away (nihitāni), O Rāghava; I shall bring them—you ought to recognize them (pratyabhijñātum arhasi).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Rāma to fetch the tokens without delay, Sugrīva brings the garment and ornaments from the deep cave, whereupon Rāma weeps like a mist-shrouded moon and collapses in grief.
 </details>
 </details>
 
@@ -734,6 +758,14 @@ leaving off his courage fell on the ground wailing, 'oh, dear... oh, dear...' [4
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Overwhelmed (dūṣitaḥ) by tears welling up from his tender love for Sītā (sītāsnehapravṛttena), crying “Ah, my beloved (hā priyeti)!”, he cast aside his fortitude (dhairyam utsṛjya) and fell to the earth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pressing the ornaments to his heart and hissing like an angered serpent, Rāma shows Lakṣmaṇa the intact jewels dropped on grassy ground, prompting Lakṣmaṇa's famous confession of modest devotion.
 </details>
 </details>
 
@@ -1016,6 +1048,14 @@ one of his mother. The wife of an elder brother is just another mother.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Rāma, Lakṣmaṇa spoke these words: “I do not know the armlets (nāhaṃ jānāmi keyūre), nor do I know the earrings (nāhaṃ jānāmi kuṇḍale)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Lakṣmaṇa recognizes only Sītā's anklets from his daily obeisance at her feet, Rāma fiercely asks Sugrīva where the demon dwells, vowing to dispatch him to Yama's abode.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ Vashishta. Yet, Vishvamitra goes on his bidding, but in vain.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Vasiṣṭha’s command, the wish-milking cow Śabalā brings forth mountain-high heaps of hot rice, rivers of curds, spiced drinks, and thousands of silver dishes filled with confections, feasting Viśvāmitra’s entire army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता वसिष्ठेन शबला शत्रुसूदन ।  
@@ -266,6 +274,14 @@ by Sage Vashishta, in which they rejoiced and regaled, for a good measure. [1-53
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thoroughly feasted and gratified by Vasiṣṭha, O Rāma (vasiṣṭhena sutarpitam), the entire army of Viśvāmitra was supremely content, its men joyous and well-nourished (sarvam āsīt susaṃtuṣṭaṃ hṛṣṭapuṣṭajanāyutam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored together with his queens, priests, and ministers, King Viśvāmitra offers a hundred thousand cows for Śabalā, claiming that she is a jewel and that all jewels rightfully belong to the king.
 </details>
 </details>
 
@@ -518,6 +534,14 @@ eminent saint, on his part replied the king in this way. [1-53-10b, 11a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha refuses to give up Śabalā even for hundreds of crores of cows or heaps of silver, declaring that she is as inseparable from him as fame from a self-mastered sage and that all his Vedic rites depend on her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं शतसहस्रेण नापि कोटिशतैर्गवाम् ॥ ११ ॥  
@@ -759,6 +783,14 @@ I cannot afford Shabala to you or to anyone." So said Vashishta to Vishvamitra. 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vasiṣṭha refuses, an increasingly agitated Viśvāmitra escalates his offer to fourteen thousand gold-trapped elephants, eight hundred four-horse golden chariots, eleven thousand thoroughbred horses, and ten million youthful cows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठेनैवमुक्तस्तु विश्वामित्रोऽब्रवीत् तदा ॥ १६ ॥  
@@ -946,6 +978,14 @@ be came of age as milker, thereby, let this do-all cow Shabala be given to me. [
 **19:** “—adorned with rows of tinkling bells, I give you eight hundred (dadāmi te śatāny aṣṭau kiṃkiṇīkavibhūṣitān)! And of spirited steeds bred in renowned lands and of noble celestial stock (hayānāṃ deśajātānāṃ kulajānāṃ mahaujasām), I give you eleven thousand, O sage of noble vows (sahasram ekaṃ daśa ca dadāmi tava suvrata)!
 
 **20:** “And of youthful cows distinguished by manifold colors (nānāvarṇavibhaktānāṃ vayaḥsthānāṃ tathaiva ca), I give you a full ten million—let Śabalā be given to me (dadāmy ekāṃ gavāṃ koṭiṃ śabalā dīyatāṃ mama)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Viśvāmitra offers unlimited gold and jewels, Vasiṣṭha replies that Śabalā alone is his jewel, his wealth, his all-in-all, his very life, and the root of his new-moon, full-moon, and soma sacrifices.
 </details>
 </details>
 

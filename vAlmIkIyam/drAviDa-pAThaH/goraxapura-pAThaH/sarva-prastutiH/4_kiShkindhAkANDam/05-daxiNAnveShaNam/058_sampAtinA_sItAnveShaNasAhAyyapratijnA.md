@@ -29,6 +29,14 @@ highly rejoiced on the seashore.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping over his younger brother Jaṭāyus, Sampāti recounts how they soared toward the sun after Vṛtra's slaying and how he scorched his own wings shielding his fainting brother.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः करुणं वाक्यं वानरैस्त्यक्तजीवितैः ।  
@@ -318,6 +326,14 @@ my highly fretful brother with both of my wings in all my brotherliness... [4-58
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Beholding that brother of mine tormented by the sun's rays (sūryaraśmibhir arditam) and utterly bewildered, out of affection I shielded him with my two wings (pakṣābhyāṃ chādayām āsa).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning how Sampāti fell wingless upon Mount Vindhya, Aṅgada implores him for news of Rāvaṇa's abode, and the elder vulture pledges to aid Rāma with his words.
 </details>
 </details>
 
@@ -643,6 +659,14 @@ render a best service in the task of Rama, at least verbally... [4-58-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proclaiming his ancient cosmic memory, Sampāti reveals that he saw a weeping young woman in yellow silk—whom he recognized as Sītā—being carried off by Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानामि वारुणाल्ँ लोकान् विष्णोस्त्रैविक्रमानपि ।  
@@ -949,6 +973,14 @@ location of that demon be heard from me while I say about it... [4-58-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sampāti reveals that Viśravas's son Rāvaṇa holds Sītā captive in Viśvakarman's golden island city of Laṅkā, lying a full hundred yojanas across the southern ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रो विश्रवसः साक्षाद् भ्राता वैश्रवणस्य च ।  
@@ -1183,6 +1215,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Confined within Rāvaṇa's inner apartments (rāvaṇāntaḥpure ruddhā) and closely guarded by Rākṣasa women, in that city you will behold Maithilī, the daughter of King Janaka.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling the monkeys' victorious return through his prophetic vision, Sampāti enumerates the seven celestial flight-tiers culminating in the course of Vinatā's sons.
 </details>
 </details>
 
@@ -1456,6 +1496,14 @@ matter of fact, all eagles belong to that lineage, for their keen vision and pow
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeking vengeance through the monkeys against Rāvaṇa, Sampāti explains how his Suparṇa lineage and carnivorous diet grant him sight across a hundred yojanas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गर्हितं तु कृतं कर्म येन स्म पिशिताशिनः ।  
@@ -1690,6 +1738,14 @@ bringing food for that day.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Our livelihood has been ordained by nature to be drawn from afar (vihitā vṛttir nisargeṇa ca dūrataḥ), whereas the livelihood of birds that fight with their spurs (caraṇayodhinām) [cocks] has been ordained at the foot of trees (vṛkṣamūle).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging the monkeys to devise a way across the ocean, Sampāti is carried to the seashore to offer funeral water-libations for Jaṭāyus and returned to his mountain.
 </details>
 </details>
 

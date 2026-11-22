@@ -24,6 +24,14 @@ In this chapter Ravana entices Seetha with wealth, gems, sovereignty over all wi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa addresses the surrounded, joyless ascetic Sītā with sweet, expressive words, defending rākṣasa abduction of others’ wives as svadharma while vowing not to touch her unwillingly.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां परिवृतां दीनां निरानन्दां तपस्विनीम् ।  
@@ -324,6 +332,14 @@ Even though this is so, O Maithilī, I shall not touch you while you are unwilli
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa urges Sītā to abandon her single braid, ground-bed, and fasting, offering her celestial ornaments and luxuries before her fleeting youth passes like a river’s current.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवि नेह भयं कार्यं मयि विश्वसिहि प्रिये ।  
@@ -592,6 +608,14 @@ not come back again like the flow of water."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For this charming youth (yauvanam) that has blossomed in you is passing away (ativartate), which, once gone, never returns, like the current of rushing rivers (srotasvinām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Sītā’s matchless beauty as the Creator’s final masterpiece, Rāvaṇa begs her to become his chief queen and promises to bestow the conquered earth upon Janaka.
 </details>
 </details>
 
@@ -916,6 +940,14 @@ Having conquered the entire earth garlanded with manifold cities (nānānagaram�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that neither gods nor asuras can withstand him in battle, Rāvaṇa urges Sītā to adorn herself and command his realm and kinsmen at her pleasure.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेह पश्यामि लोकेऽन्यं यो मे प्रतिबलो भवेत् ।  
@@ -1185,6 +1217,14 @@ Fearlessly order also."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Revel (lalasva) in me with full confidence, and command me boldly (dhṛṣṭam); and as you revel through my grace (matprasādāt), let your kinsmen revel too!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deriding the exiled, bark-clad Rāma as powerless to see or rescue her, Rāvaṇa confesses that Sītā’s unadorned form has robbed him of joy in his own wives.
 </details>
 </details>
 
@@ -1493,6 +1533,14 @@ seeing you I am not getting happiness in my wives."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding you, slender and unadorned though clad in a rumpled silk garment (kliṣṭakauśeyavasanām), I find no delight (ratim) among my own wives (sveṣu dāreṣu).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa offers Sītā sovereignty over his inner apartments, Kubera’s treasures, and the three worlds, inviting her to sport with him in Laṅkā’s blooming seaside groves.
 </details>
 </details>
 

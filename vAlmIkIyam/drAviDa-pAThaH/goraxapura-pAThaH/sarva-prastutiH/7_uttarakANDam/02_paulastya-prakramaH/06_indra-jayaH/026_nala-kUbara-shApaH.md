@@ -13,6 +13,14 @@ title = "०२६ नल-कूबर-शापः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As sunset falls upon Mount Kailāsa, Rāvaṇa encamps his host beneath the rising moon and gazes from the peak over blossoming lotus lakes, Mandākinī waters, and fragrant groves of celestial trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तत्र दशग्रीवः सह सैन्येन वीर्यवान् ।  
@@ -153,6 +161,14 @@ _________________
 **5:** With campaka, aśoka, punnāga, and celestial mandāra trees (campakāśoka-punnāga-mandāra-tarubhis tathā), with mango, trumpet-flower, and lodhra (cūta-pāṭala-lodhraiś ca), priyaṅgu, arjuna, and fragrant ketaka (priyaṅgv-arjuna-ketakaiḥ), and with tagara, coconut palms, priyāla, and jackfruit trees (tagarair nārikailaiś ca priyāla-panasais tathā),
 
 **6:** And with āragvadha, tamāla, priyāla, and bakula trees (āragvadhais tamālaiś ca priyāla-vakulair api)—in that woodland interior illumined by these and other trees (etair anyaiś ca tarubhir udbhāsita-vanāntare)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enchanted by love-struck kinnaras, reveling vidyādharas, bell-like apsaras choruses, flower-showering spring trees, and a pollen-laden breeze beneath the advancing moonlight, Rāvaṇa feels desire surge within him.
 </details>
 </details>
 
@@ -312,6 +328,14 @@ Shaken by the breeze (pavana-tāḍitāḥ), the trees shed showers of blossoms 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Carrying rich fragrance (gandham ādāya puṣkalam) steeped in honey and flower-pollen (madhu-puṣpa-rajaḥ-pṛktam), a pleasant breeze blew gently (pravavau ... sukho ’nilaḥ), inflaming Rāvaṇa’s desire (vardhayan kāmaṃ rāvaṇasya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As love-smitten Rāvaṇa sighs toward the moon, the peerless apsaras Rambhā—bedecked with mandāra blossoms, seasonal floral markings, and a cloud-dark blue veil—walks past the encampment and catches his eye.
 </details>
 </details>
 
@@ -507,6 +531,14 @@ She whose face resembled the moon (yasyā vaktraṃ śaśi-nibham), whose lovely
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Cupid’s shafts, Rāvaṇa rises to seize the bashful Rambhā by the hand and addresses her with sensuous flattery, boasting that neither Śakra, Viṣṇu, nor the Aśvins surpass him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊरू करिकराकारौ करौ पल्लवकोमलौ ।  
@@ -693,6 +725,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “What male today is superior to me (mad-viśiṣṭaḥ pumān ko ’dya)—whether Śakra, Viṣṇu, or the Aśvins (śakro viṣṇur athāśvinau)? That you pass me by (mām atītya) to go to another, O timid one, is not seemly (yaṃ ca tvaṃ yāsi bhīru na śobhanam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting himself supreme lord of the three worlds, Rāvaṇa begs Rambhā to accept him; trembling with joined palms, she pleads that by dharma she is his daughter-in-law, prompting his skeptical challenge.
 </details>
 </details>
 
@@ -885,6 +925,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rambhā reveals that she is pledged to Nalakūbara, son of Rāvaṇa’s brother Vaiśravaṇa, praising his brahminic righteousness and kṣatriya prowess, and begs Rāvaṇa to tread the path of the good and let her go.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुतस्य यदि मे भार्या ततस्त्वं हि स्नुषा भवेः ।  
@@ -1071,6 +1119,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Tread the path walked by the righteous (sadbhir ācaritaṃ mārgaṃ gaccha), O bull among rākṣasas (rākṣasupuṅgava); for you are worthy of my reverence (mānanīyo mama tvaṃ hi), and I likewise am yours to protect (pālanīyā tathā ’smi te)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissing her plea with the sophistry that apsarases have no fixed husbands in heaven, Rāvaṇa forces Rambhā upon the stone slab; released in disheveled anguish like a storm-shaken vine, she falls weeping at Nalakūbara’s feet.
 </details>
 </details>
 
@@ -1266,6 +1322,14 @@ Trembling, overwhelmed with shame, and terrified (vepamānā lajjantī bhītā),
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Astonished to see Rambhā prostrate and disheveled at his feet, Nalakūbara asks what has befallen her; trembling and sighing, she recounts how lust-blinded Rāvaṇa ignored her plea as daughter-in-law and violated her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा वेपमाना लज्जन्ती भीता करकृताञ्जलिः ॥ ४३ ॥  
@@ -1452,6 +1516,14 @@ Sighing deeply (niḥśvasamānā tu), trembling, with joined palms (vepamānā 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Begging forgiveness since a woman’s strength cannot match a man’s, Rambhā moves Nalakūbara to fury; verifying her testimony through yogic meditation, he purifies himself with water and pronounces a solemn curse on Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याच्यमानो मया देव स्नुषा तेऽहमिति प्रभो ॥ ४९ ॥  
@@ -1607,6 +1679,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Since you, unwilling, have been forcibly violated by him, O gentle one (akāmā tena yasmāt tvaṃ balād bhadre pradharṣitā), therefore he shall never again approach any other unwilling young woman (tasmāt sa yuvatīm anyāṃ nākāmām upayāsyati).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāvaṇa’s head will burst into seven pieces if he ever violates another unwilling woman, Nalakūbara wins applause from heaven’s gods and sages, while Rāvaṇa recoils in dread and captive chaste women rejoice.
 </details>
 </details>
 

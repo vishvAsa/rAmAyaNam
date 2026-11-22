@@ -25,6 +25,14 @@ asking him to not to meddle with Rama's affairs.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Rāvaṇa that speakers and hearers of unpleasant salutary truth are rare, Mārīca rebukes his reckless ignorance of Rāma's might and prays that Sītā may not cause Laṅkā's destruction.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राक्षसेन्द्रस्य वाक्यं वाक्यविशारदः ।  
@@ -356,6 +364,14 @@ Having got you—who act at whim (kāma-vṛttam) and are unrestrained (niraṅk
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that a self-willed, evil-counseled king destroys himself and his realm, Mārīca refutes every slander against Rāma and explains his noble, voluntary exile to uphold Daśaratha's truth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वद्विधः कामवृत्तो हि दुःशीलः पापमन्त्रितः ।  
@@ -673,6 +689,14 @@ Rāma is not ruthless (karkaśaḥ), dear friend (tāta), nor ignorant (nāvidv�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proclaiming that Rāma is Dharma incarnate and sovereign of the world, Mārīca warns Rāvaṇa not to plunge into the blazing fire of Rāma or approach Rāma as Death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो विग्रहवान् धर्मः साधुः सत्यपराक्रमः ।  
@@ -918,6 +942,14 @@ discarding your kingdom, comforts and even the dear life of yours. [3-37-16, 17]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāma's lustre is immeasurable and that Sītā is as untouchable as a tongue of blazing fire, Mārīca warns Rāvaṇa that his life will end the instant Rāma sees him in battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमेयं हि तत्तेजो यस्य सा जनकात्मजा ।  
@@ -1158,6 +1190,14 @@ namely the resplendence of that couple.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 What [gain] is yours by making this futile effort (kim udyamaṃ vyartham imaṃ kṛtvā te), O lord of the rākṣasas? If you are so much as seen by him in battle (dṛṣṭaś cet tvaṃ raṇe tena), your life ends right there (tad-antam upajīvitam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Rāvaṇa not to offend Rāma if he wishes to enjoy life and sovereignty, Mārīca bids him consult his righteous ministers led by Vibhīṣaṇa and listen to a further salutary account.
 </details>
 </details>
 

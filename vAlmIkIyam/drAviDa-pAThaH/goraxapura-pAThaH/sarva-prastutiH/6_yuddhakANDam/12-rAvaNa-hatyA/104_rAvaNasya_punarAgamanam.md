@@ -25,6 +25,14 @@ before Rama on the battle-field.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the wrathful countenance of Rāma and the dreadful cosmic portents, all creatures tremble and Rāvaṇa himself feels fear as celestials watch the world-dissolving combat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु मोहात् सुसङ्क्रुद्धः कृतान्तबलचोदितः ।  
@@ -296,6 +304,14 @@ who was made contemptible by you!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 then beheld that battle—resembling the dissolution of the worlds (lokasaṃvartasaṃsthitam)—as those two heroes fought on with terrifying weapons of many kinds.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While gods and asuras partisanly cheer Rāma and Rāvaṇa from the sky, the furious rākṣasa king seizes a blazing, three-pronged spike unbearable even to Death.
 </details>
 </details>
 
@@ -620,6 +636,14 @@ terrifying to all creatures, rending and cleaving (dāraṇaṃ bhedanaṃ tath�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by warrior hosts, Rāvaṇa brandishes his diamond-hard spike with an earth-shaking roar and boasts that it will strip Rāma of life.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्मिन्नर्थे महाराज त्वं मां प्रियहिते रतम् ।  
@@ -928,6 +952,14 @@ charioteer)."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to make Rāma equal to the slain rākṣasa warriors, Rāvaṇa hurls the blazing, eight-belled spike, which Rāma checks with a shower of arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थलनिम्नानि भूमेश्च समानि विषमाणि च ।  
@@ -1174,6 +1206,14 @@ enjoin me to do, with due attention and with a mind which feels relieved of all 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With a flood of arrows Rāghava checked (vārayāmāsa) it as it hurtled onward, just as Vāsava [Indra] checks the surging doomsday fire with floods of water (jalaughair iva vāsavaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa's spike burns Rāma's arrows to ash like moths in fire, Rāma hurls Indra's bell-ringing spear, shattering the demon's spike in mid-air.
 </details>
 </details>
 

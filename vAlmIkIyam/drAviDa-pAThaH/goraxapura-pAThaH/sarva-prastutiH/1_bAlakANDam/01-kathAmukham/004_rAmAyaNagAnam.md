@@ -30,6 +30,14 @@ of Seetha' siithaayaH charitam mahat as Valmiki calls Ramayana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having completed the 24,000 ślokas across five hundred sargas and six kāṇḍas with the Uttara, Maharṣi Vālmīki reflects on who might sing the poem—and imparts it to the twin hermit-dressed princes Kuśa and Lava for the amplification of the Vedas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तराजस्य रामस्य वाल्मीकिर्भगवानृषिः ।  
@@ -303,6 +311,14 @@ soul Valmiki, who is now thoughtful. [1-4-4]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even as that great seer of purified soul was thus reflecting, Kuśa and Lava (kuśīlavau), clad in the garb of ascetics (muniveṣau), approached and reverently clasped his feet.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The three canonical names of the Ādi-Kāvya, its musical perfection in the three tempos, seven jātis, and nine aesthetic rasas, and the celestial beauty and vocal mastery of the twin princes Kuśa and Lava.
 </details>
 </details>
 
@@ -660,6 +676,14 @@ Endowed with auspicious bodily marks and beauty (rūpalakṣaṇasampannau) and 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In an assembly of contemplative sages, twice-born brāhmaṇas, and righteous ascetics, Kuśa and Lava sing the poem with such absorption in its emotional states that events of long ago appear directly before the listeners’ eyes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ राजपुत्रौ कात्स्‍न्‍‍र्येन धर्म्यमाख्यानमुत्तमम् ।  
@@ -943,6 +967,14 @@ and rapturously, marinating the pitch and tune..." So said the saints. [1-4-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praised by the great seers, Kuśa and Lava sing with even deeper passion; overjoyed, the forest ascetics rise and bestow upon the two boys their own cherished hermit-treasures—water-pitcher, bark-garment, black-antelope skin, sacred thread, kamaṇḍalu, mauñjī girdle, and ascetic seat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं प्रशस्यमानौ तौ तपः श्लाघ्यैर्महर्षिभिः ॥ १९ ॥  
@@ -1086,6 +1118,14 @@ _________________
 **22:** One great sage bestowed an ascetic water-gourd (kamaṇḍalum), another a girdle of muñja grass (mauñjīm); another then gave a cushion of plaited kuśa grass (bṛsīm), and another sage a loin-cloth (kaupīnam).
 
 **23:** Rejoicing, another sage then gave the two boys an axe for gathering sacrificial fuel (kuṭhāram); another gave an ochre-dyed robe (kāṣāyaṃ vastram), and yet another sage a strip of bark-fabric (cīram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The forest sages complete their gifts and shower blessings of long life upon the young bards, hailing Vālmīki’s poem as the supreme foundation for all future poets (paraṃ kavīnām ādhāram).
 </details>
 </details>
 
@@ -1265,6 +1305,14 @@ Thus did all those truth-speaking sages bestow boons upon the two boys, declarin
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the twin singers upon the avenues and royal highways of Ayodhyā, Śrī Rāma brings them into his palace, honors them from his golden lion-throne, and invites Lakṣmaṇa, Śatrughna, and Bharata to hear their song.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रशस्यमानौ सर्वत्र कदाचित् तत्र गायकौ ॥ २८ ॥  
@@ -1422,6 +1470,14 @@ for it contains versatile words and meanings...' and thus he motivated the singe
 **31:** —attended by his ministers seated near at hand (upopaviṣṭaiḥ sacivaiḥ) and by his brothers, gazed upon those two modest brothers endowed with consummate beauty (rūpasampannau vinītau bhrātarāv ubhau)—
 
 **32:** —and Rāma spoke to Lakṣmaṇa, Śatrughna, and Bharata: “Let this narrative be heard (śrūyatām etad ākhyānam) from these two youths of godlike radiance (anayor devavarcasoḥ),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Śrī Rāma, Kuśa and Lava sing in the classical Mārga style, gladdening every limb, mind, and heart in the assembly; stepping gently down from his throne into the midst of the audience, Rāma himself becomes wholly absorbed in listening.
 </details>
 </details>
 

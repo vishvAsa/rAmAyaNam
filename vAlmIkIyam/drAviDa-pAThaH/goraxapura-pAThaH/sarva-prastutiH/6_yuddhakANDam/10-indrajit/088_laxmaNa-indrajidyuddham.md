@@ -27,6 +27,14 @@ the battle-field, to relieve Lakshmana's fatigue.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by Vibhīṣaṇa's rebuke, Indrajit mounts his black-steeded chariot with his mighty bow and taunts Lakṣmaṇa, who stands radiant upon Hanūmān's shoulders.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणवचः श्रुत्वा रावणिः क्रोधमूर्च्छितः ।  
@@ -288,6 +296,14 @@ sky, as discharged from my bow in the battle-field."
 **5:** —mounted upon the back of Hanūmān (hanūmatpṛṣṭham ārūḍham), gleaming like the sun upon the eastern mountain (udayastharaviprabham); and deeply incensed, he addressed that son of Sumitrā accompanied by Vibhīṣaṇa—
 
 **6:** —and those tigers among monkeys: “Behold my valor (parākramam)! Today [witness] the unassailable shower of arrows (śaravarṣaṃ durāsadam) loosed from my bow!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indrajit boasts that his shafts will scatter the monkeys like fire consuming cotton and reminds Lakṣmaṇa of their previous night battle, prompting Lakṣmaṇa's fearless reply.
 </details>
 </details>
 
@@ -557,6 +573,14 @@ words, with a courageous countenance.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that roaring boast (garjitam) of the lord of rākṣasas, Rāghava [Lakṣmaṇa] then, with an unperturbed countenance (abhītavadanaḥ), enraged, spoke these words to Rāvaṇa's son:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa scorns Indrajit's invisible warfare as the path of thieves and challenges him to fight openly, whereupon Indrajit looses a volley of venomous shafts.
 </details>
 </details>
 
@@ -863,6 +887,14 @@ speed and were as deadly as the venom of serpents, fell like the hissing of snak
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Those arrows of tremendous speed, loosed by him and resembling serpent venom (sarpaviṣopamāḥ), reached Lakṣmaṇa and fell like hissing serpents (śvasanta iva pannagāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Indrajit's swift arrows, bleeding Lakṣmaṇa shines like a smokeless fire, while Indrajit roars in triumph and threatens him with imminent death.
 </details>
 </details>
 
@@ -1180,6 +1212,14 @@ class only for a name sake), ever ignoble and his devoted brother, killed by me.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissing Indrajit's boasts with reasoned composure, Lakṣmaṇa vows to slay him without empty words and drives five ear-drawn iron arrows into his chest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्रस्तकवचं भूमौ व्यपविद्धशरासनम् ।  
@@ -1479,6 +1519,14 @@ the demon's chest with a great speed.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, Lakṣmaṇa with mighty speed drove (vijaghāna) five iron arrows (pañca nārācān), drawn right back to his ear (ākarṇāpūritān), into the rākṣasa's chest (rākṣasorasi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa's shafts blaze on Indrajit's chest like solar rays, and the two peerless warriors clash like planets in the sky or Indra and Vṛtra.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ seetha not to go to forest
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting upon the hardships of the wilderness, Rāma consoles tearful Sītā and urges her to abandon her resolve for the forest, declaring that the dense woodland is ever full of suffering.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एवं ब्रुवतीं सीतां धर्मज्ञां धर्मवत्सलः ।  
@@ -339,6 +347,14 @@ forest as comfortable. It is always uncomfortable."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma describes the terrifying roars of cave-dwelling lions, rutting wild beasts, crocodile-infested muddy rivers, waterless thorny trails, beds of fallen leaves, and subsisting on windfall fruits.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिनिर्झरसम्भूता गिरिनिर्दरिवासिनाम् ।  
@@ -646,6 +662,14 @@ ourself with fruits fallen from trees. Hence, living in a forest is a suffering.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma recounts the austere obligations of forest ascetics: fasting according to strength, wearing matted locks and bark-garments, worshipping gods, ancestors, and guests, thrice-daily baths, and gathering wild flowers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपवासश्च कर्तव्यो यथा प्राणेन मैथिलि ।  
@@ -908,6 +932,14 @@ whatever is obtained there, the restricted food. Hence, living in forest is a mi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And forest-dwellers of regulated diet (yatāhārair vanacaraiḥ) must content themselves with whatever fare happens to be obtained (yathā-labdhena kartavyaḥ santoṣas tena), O Maithilī; therefore, O Sītā, the forest is full of suffering!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma warns of fierce winds, darkness, constant hunger, proud serpents blocking the paths, river-snakes, locusts, scorpions, gadflies, mosquitoes, and thorny trees with tangled branches.
 </details>
 </details>
 
@@ -1177,6 +1209,14 @@ branches spread on all sides. Hence, living in a forest is a great misery."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And in the forest, O noble lady, the thorny trees (drumāḥ kaṇṭakinaś caiva) as well as the kuśa and kāśa grasses have their branch-tips tangled on every side (vyākula-śākhāgrāḥ); therefore on that account the forest is full of suffering!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding that one must endure bodily afflictions, cast off anger and greed, and remain fearless amid terrors, Rāma bids Sītā abandon her purpose; yet Sītā refuses to accept his command.
 </details>
 </details>
 

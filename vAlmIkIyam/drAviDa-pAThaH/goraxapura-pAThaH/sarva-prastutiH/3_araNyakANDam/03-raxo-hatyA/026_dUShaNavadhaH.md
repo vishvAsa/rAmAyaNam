@@ -25,6 +25,14 @@ Rama. Left behind are only two, Khara and Trishira, the chiefs of that demonic f
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Dūṣaṇa's five thousand warriors pelt Rāma with trees, boulders, and arrows, Rāma calmly receives the downpour like a bull in the rain and overwhelms the host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दूषणस्तु स्वकं सैन्यं हन्यमानं विलोक्य च ।  
@@ -344,6 +352,14 @@ He showered the army along with Dūṣaṇa (sainyaṃ saha-dūṣaṇam) on all
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma severs his bow, slays his four steeds, and beheads his charioteer, Dūṣaṇa seizes a spiked, gold-banded iron club and charges at Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामः सुसङ्क्रुद्धः क्षुरेणास्य महद् धनुः ॥ ७ ॥  
@@ -570,6 +586,14 @@ to snakebite, rushed that nightwalker Duushana with infernal exerts rushed towar
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Grasping in battle that club which resembled a huge serpent (taṃ mahoraga-saṃkāśaṃ pragṛhya parigham), Dūṣaṇa, the night-stalker of cruel deeds (krūra-karmā niśācaraḥ), rushed upon Rāma (abhyapatad rāmam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With two shafts Rāma severs Dūṣaṇa's braceleted arms, toppling him like a tuskless elephant as all beings applaud, whereupon three vanguard generals charge.
 </details>
 </details>
 
@@ -895,6 +919,14 @@ Mahākapāla, Sthūlākṣa, and Pramāthī of mighty strength (pramāthī ca ma
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Welcoming the three generals like guests with sharp arrows, Rāma slays Mahākapāla, Pramāthī, Sthūlākṣa, and all five thousand followers, driving Khara to fury.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वैवापततस्तांस्तु राघवः सायकैः शितैः ॥ १९ ॥  
@@ -1046,6 +1078,14 @@ is available in both words. Readers may please refer to the excellent book of Dr
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Slain, he fell to the earth (sa papāta hato bhūmau) like a great branching tree (viṭapīva mahā-drumaḥ). And in a single instant (kṣaṇāt), the enraged [Rāma] (kupitaḥ), [smiting] Dūṣaṇa's five thousand followers (dūṣaṇasyānugān pañca-sāhasrān)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged on by Khara, the twelve remaining army-commanders headed by Śyenagāmī charge with their divisions, only to be annihilated by Rāma's diamond-decked shafts.
 </details>
 </details>
 
@@ -1260,6 +1300,14 @@ are embellished with gold and diamonds, and that are blazing like ritual-fires. 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, with fire-bright shafts (pāvaka-saṃkāśaiḥ sāyakaiḥ) decked with gold and diamonds (hema-vajra-vibhūṣitaiḥ), the splendid [Rāma] (tejasvī) slew the remainder of that army (jaghāna śeṣaṃ tasya sainyasya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Felling the demons by hundreds and thousands like thunderbolts toppling trees, Rāma strews the earth like a kuśa-carpeted altar and turns the grove into a mire of blood.
 </details>
 </details>
 
@@ -1519,6 +1567,14 @@ moment it became identical with hell. [3-26-34]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In that instant (tat-kṣaṇe), that dreadfully terrible forest (mahā-ghoraṃ vanam), with its rākṣasas slain (nihata-rākṣasam) and its mire of flesh and blood (māṃsa-śoṇita-kardamam), became like hell itself (babhūva niraya-prakhyam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With all fourteen thousand rākṣasas slain by Rāma fighting alone on foot, only Khara and Triśiras remain, and Khara charges Rāma like Indra with upraised thunderbolt.
 </details>
 </details>
 

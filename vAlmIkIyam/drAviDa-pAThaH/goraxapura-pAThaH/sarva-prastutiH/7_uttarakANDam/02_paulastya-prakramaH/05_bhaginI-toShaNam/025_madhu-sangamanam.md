@@ -13,6 +13,14 @@ title = "०२५ मधु-सङ्गमनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having granted the dreadful Daṇḍaka forest to Khara and consoled his sister, Rāvaṇa enters Laṅkā’s Nikumbhilā grove and finds his son Meghanāda consecrated at a blazing sacrifice, whose meaning the preceptor Uśanas steps forward to explain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु दत्त्वा दशग्रीवो बलं घोरं खरस्य तत् ।  
@@ -199,6 +207,14 @@ Thereupon Uśanas, foremost of the twice-born and mighty in austerity (dvija-śr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uśanas recounts the seven grand Vedic sacrifices performed by Meghanāda, culminating in the rare Māheśvara rite through which he won a sky-faring chariot, the blinding Tāmasī illusion, inexhaustible quivers, a bow, and a peerless missile from Śiva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमाख्यामि ते राजन् श्रूयतां सर्वमेव तत् ।  
@@ -357,6 +373,14 @@ Thereupon Uśanas, foremost of the twice-born and mighty in austerity (dvija-śr
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Two quivers inexhaustible in arrows (akṣayāv iṣudhī bāṇaiḥ), a bow most hard to overcome (cāpaṃ cāpi sudurjayam), and a mighty missile, O King, that destroys foes in battle (astraṃ ca balavad ... śatru-vidhvaṃsanaṃ raṇe).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rebuking his son for honoring his enemy Indra through Vedic rites yet quickly softening to escort him home, Rāvaṇa leads out his weeping captive women, provoking righteous Vibhīṣaṇa to denounce his reckless lawlessness.
 </details>
 </details>
 
@@ -558,6 +582,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa confronts Rāvaṇa with karmic retribution: just as he abducted others’ women, the demon Madhu has carried off their own cousin-sister Kumbhīnasī, whose lineage from Mālyavān and Analā Vibhīṣaṇa traces in detail.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातींस्तान् धर्षयित्वेमास्त्वयाऽऽनीता वराङ्गनाः ।  
@@ -701,6 +733,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Explaining that Madhu carried off Kumbhīnasī while Meghanāda sacrificed, Vibhīṣaṇa meditated underwater, and Kumbhakarṇa slept, Vibhīṣaṇa declares this disgrace Rāvaṇa’s karmic fruit, igniting Rāvaṇa’s boiling fury to march to war.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हृता मधुना राजन् राक्षसेन बलीयसा ।  
@@ -834,6 +874,14 @@ _________________
 **29:** “Come to pass in this very world—let it be known to you (asminn evābhisamprāptaṃ loke viditam astu te)!” Hearing Vibhīṣaṇa’s words, that lord of rākṣasas, Rāvaṇa, convulsed by his own wickedness (daurātmyenātmanoddhūtaḥ), churned like an ocean of scalding waters (taptāmbha iva sāgaraḥ).
 
 **30:** Then the ten-necked king spoke, enraged and with blood-red eyes (kruddhaḥ saṃraktalocanaḥ): “Let my chariot be made ready at once (kalpyatāṃ me rathaḥ śīghram)! Let our heroes arm themselves (śūrāḥ sajjībhavantu naḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to slay Madhu and then march upon heaven, Rāvaṇa musters four thousand elite akṣauhiṇīs led by Indrajit in the vanguard, himself in the center, and Kumbhakarṇa in the rear, while Vibhīṣaṇa stays behind in Laṅkā.
 </details>
 </details>
 
@@ -1006,6 +1054,14 @@ Mounted on asses, camels, blazing steeds, crocodiles, and great serpents (kharai
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by hundreds of anti-god Daityas, Rāvaṇa enters Madhupura and finds his trembling sister Kumbhīnasī falling at his feet; raised with a promise of safety, she begs him not to inflict widowhood—a noble woman’s greatest dread.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दैत्याश्च शतशस्तत्र कृतवैराश्च दैवतैः ॥ ३७ ॥  
@@ -1122,6 +1178,14 @@ Having reached and entered Madhupura (gatvā madhupuraṃ praviśya ca), the ten
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And Rāvaṇa, foremost of rākṣasas, asked: “What else may I do for you (kiṃ cāpi karavāṇi te)?” She replied: “If you are pleased with me, O mighty-armed King (yadi me rājan prasannas tvaṃ mahābhuja), you ought not to slay my husband here today, O bestower of honor (bhartāraṃ na mamehādya hantum arhasi mānada)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Holding Rāvaṇa to his own word ‘Fear not,’ Kumbhīnasī wins Madhu’s pardon; choosing to recruit his brother-in-law for the conquest of heaven, Rāvaṇa asks for him, and Kumbhīnasī joyfully awakens her sleeping husband.
 </details>
 </details>
 
@@ -1261,6 +1325,14 @@ Then Rāvaṇa spoke, delighted, to his sister standing there (rāvaṇas tv abr
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Here has arrived my mighty brother Daśagrīva (eṣa prāpto daśagrīvo mama bhrātā mahābalaḥ); eager for the conquest of the world of the gods, he chooses you for his alliance (suraloka-jayākāṅkṣī sāhāyye tvāṃ vṛṇoti ca)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Kumbhīnasī to aid his affectionate kinsman, Madhu consents and honors Rāvaṇa with due hospitality; after resting one night in Madhupura, Rāvaṇa marches to Mount Kailāsa and encamps his host.
 </details>
 </details>
 

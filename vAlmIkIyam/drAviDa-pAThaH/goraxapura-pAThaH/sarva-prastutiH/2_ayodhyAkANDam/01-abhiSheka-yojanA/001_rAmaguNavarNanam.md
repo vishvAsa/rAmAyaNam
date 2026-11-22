@@ -27,6 +27,14 @@ kingdom.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata and Śatrughna reside at the court of their maternal uncle Aśvapati in Kekaya, while in Ayodhyā Rāma shines preeminent in virtue among King Daśaratha’s four sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छता मातुल-कुलं  
@@ -302,6 +310,14 @@ brothers and the mightiest was a great source of joy for his father.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet even among them, Rāma of great splendour, the delighter of his father (ratikaraḥ pituḥ), was preeminent in virtues (guṇavattaraḥ), like the self-born Brahmā (svayambhūḥ) among all living beings.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incarnate as the eternal Viṣṇu for the destruction of Rāvaṇa, Rāma delights Kausalyā and wins every heart by his serene speech, gratitude, self-mastery, and fellowship with the wise.
 </details>
 </details>
 
@@ -590,6 +606,14 @@ with elderly people, elder by way of conduct or wisdom or age or with good- natu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even during the intervals of his martial exercises with weapons (astra-yogyāntareṣv api), he ever sat conversing with virtuous men advanced in character, advanced in wisdom, and advanced in years.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though supreme in valour and eloquence, Rāma remains humble, truthful, compassionate to the distressed, devoted to his Kṣatriya duty, and matchless in discerning the worth of men.
 </details>
 </details>
 
@@ -898,6 +922,14 @@ Free from disease, youthful (taruṇaḥ), eloquent (vāgmī), comely in form, k
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dear to the people as their own externalized life-breath, Rāma excels his father in archery, masters the Vedas and social customs, keeps his counsel secret, and impartially discerns both his own and others’ faults.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु श्रेष्ठैर्गुणैर्युक्तः प्रजानां पार्थिवात्मजः ।  
@@ -1190,6 +1222,14 @@ others.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Steadfast in devotion (dṛḍha-bhaktiḥ), firm in wisdom, neither grasping after what is base nor harsh in speech (na durvacaḥ), he was free from sloth (nistandrīḥ), vigilant, and a discerner of both his own faults and the faults of others (svadoṣa-paradoṣavit).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Skilled in royal revenue and expenditure, the fine arts, elephant and horse training, and the science of archery, Rāma stands unassailable in battle even by enraged gods and demons.
 </details>
 </details>
 
@@ -1519,6 +1559,14 @@ Unassailable (apradhṛṣyaḥ) in battle even by enraged gods and asuras, he w
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Equal to the Earth in patience, Bṛhaspati in wisdom, and Indra in valour, Rāma shines like the sun, prompting the aged King Daśaratha to long for his consecration during his own lifetime.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नावज्ञेयश्च भूतानां न च कालवशानुगः ।  
@@ -1782,6 +1830,14 @@ Then there arose in the aged, long-lived monarch this fond desire (prītir eṣ�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yearning to behold Rāma consecrated before his own departure to heaven, King Daśaratha reflects on his son’s rain-cloud-like compassion, mountain-like firmness, and transcendent virtues.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा ह्यस्य परा प्रीतिर्हृदि सम्परिवर्तते ।  
@@ -1957,6 +2013,14 @@ earth?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having beheld with my own eyes in this aged frame (anena vayasā) my son ruling over this entire earth (mahīm imāṃ kṛtsnām adhitiṣṭhantam), may I then attain heaven!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deliberating with his ministers after observing ominous portents in sky, air, and earth as well as his own advancing age, Daśaratha resolves upon Rāma’s consecration as Prince Regent and summons the realm’s foremost leaders.
 </details>
 </details>
 
@@ -2234,6 +2298,14 @@ Bharatha or the King Janaka as he thought they both could hear the good news eve
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The lord of the earth convoked (samānināya) the foremost leaders (pradhānān) upon the earth—both residents of various cities (nānā-nagara-vāstavyān) and rulers of diverse provinces (pṛthag-jānapadān api).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without summoning the distant kings of Kekaya and Mithilā in his haste, Daśaratha honors the assembled monarchs, citizens, and provincials, shining in their midst like thousand-eyed Indra among the immortals.
 </details>
 </details>
 

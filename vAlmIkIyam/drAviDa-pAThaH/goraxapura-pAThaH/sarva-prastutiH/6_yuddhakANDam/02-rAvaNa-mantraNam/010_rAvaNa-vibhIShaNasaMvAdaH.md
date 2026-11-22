@@ -24,6 +24,22 @@ forces. Ravana turns a deaf ear to Vibhishana's counsel and sends him away.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak, resolute in dharma and policy, Vibhīṣaṇa approaches Rāvaṇa's towering, jewel-thronged palace echoing with conchs, drums, and rutting elephants.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering his brother's palace like the sun piercing a vast cloud, Vibhīṣaṇa hears auspicious Vedic recitations, greets Rāvaṇa with courtly protocol, and speaks in private.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रत्युषसि प्राप्ते प्राप्तधर्मार्थनिश्चयः ।  
@@ -410,6 +426,14 @@ Skilled in courtly etiquette (ācārakovidaḥ), he offered the customary saluta
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Conciliating his elder brother, Vibhīṣaṇa recounts the portents haunting Laṅkā since Vaidehī's arrival: smoky sacrificial fires, serpents in altars, and weeping beasts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रावणं महात्मानं विजने मन्त्रिसन्निधौ ।  
@@ -757,6 +781,14 @@ treated asper medical procedures are not getting cured."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crows, wheeling vultures, howling jackals, and thundering carnivores portend doom for all Laṅkā, prompting Vibhīṣaṇa to prescribe restoring Vaidehī as the sole expiation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायसाः सङ्घशः क्रूरा व्याहरन्ति समन्ततः ।  
@@ -1073,6 +1105,14 @@ the gynaeceum as well as all these people here."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For this ominous guilt (ayaṃ hi doṣaḥ) is seen to hang over all this people (sarvasya janasyāsyopalakṣyate)—over the rākṣasas and rākṣasīs, and over the city and the inner apartments alike.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Vibhīṣaṇa urges the counsel from which other ministers shrank, Rāvaṇa, feverish with infatuation, spurns all fear of Rāma and dismisses his truthful brother.
 </details>
 </details>
 

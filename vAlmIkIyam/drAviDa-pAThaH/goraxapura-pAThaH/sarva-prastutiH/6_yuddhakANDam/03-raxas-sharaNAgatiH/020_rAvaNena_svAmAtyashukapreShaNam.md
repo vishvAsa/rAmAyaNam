@@ -25,6 +25,14 @@ monkeys again try to bind him and harass him, Rama prevents them from killing hi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa's spy Śārdūla reconnoiters the vast monkey host encamped along the ocean shore, hastens back to Laṅkā, and reports to Rāvaṇa that Rāma and Lakṣmaṇa have arrived seeking Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निविष्टां ध्वजिनीं सुग्रीवेणाभिपालिताम् ।  
@@ -234,6 +242,14 @@ all sides. You have to ascertain this truth quickly"
 **5:** “Supremely noble and endowed with beauty (rūpasampannau), have arrived on the track (padam) of Sītā; having reached the ocean, O lord of great splendor, these two have encamped (saṃniviṣṭau).
 
 **6:** “And their army, covering the sky (ākāśam āvṛtya) for ten yojanas on every side [stands encamped]; O great king, you ought swiftly to ascertain the true state of affairs (tattvabhūtam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śārdūla advises using gifts, conciliation, or dissension; an anxious Rāvaṇa dispatches the rākṣasa Śuka to Sugrīva with a smooth diplomatic message urging him to abandon Rāma and return to Kiṣkindhā.
 </details>
 </details>
 
@@ -567,6 +583,14 @@ celestials and Gandharvas (celestial musicians), why to talk about men and monke
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuming the form of a bird, Śuka flies across the sea and delivers Rāvaṇa's message from mid-air, but the monkeys leap up, drag him down, and beat him until he appeals to Rāma on diplomatic immunity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदा राक्षसेन्द्रेण सन्दिष्टो रजनीचरः ।  
@@ -859,6 +883,14 @@ him, that messenger is indeed fit to be killed."
 **17:** And swiftly dragged down (avatāritaḥ) from the sky to the ground, Śuka, being smitten (pīḍyamānaḥ) by the monkeys, spoke these words:
 
 **18:** “Men do not slay envoys (na dūtān ghnanti), O Kākutstha! Let the monkeys be rightly restrained (vāryantām)! Only that envoy who, abandoning his master's mind (matam bhartuḥ), advances his own opinion—speaking what was not commissioned (anuktavādī)—deserves death!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma forbids the monkeys from killing Śuka; rising again into the sky, Śuka asks Sugrīva for his reply, and Sugrīva fiercely condemns Rāvaṇa to suffer Vālin's fate and have Laṅkā reduced to ashes.
 </details>
 </details>
 
@@ -1211,6 +1243,14 @@ kinsfolk. Arriving with a great army, I will reduce the entire Lanka and all of 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva warns that neither Indra, nor the sun's path, nor Pātāla, nor Śiva's feet can save Rāvaṇa from Rāma's arrows; Aṅgada then warns that Śuka is no mere envoy but a spy who has measured their army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मोक्ष्यसे रावण राघवस्य  
@@ -1427,6 +1467,14 @@ captive, you do not recognize her for what she is."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “You do not realize that foremost of the Raghus, of great strength, great-souled, unassailable even by the gods (durādharṣaṃ surair api), who shall take away your vital breaths (prāṇān hariṣyati)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Convinced by Aṅgada that Śuka has surveyed their forces, Sugrīva orders him bound; tormented again, Śuka invokes a solemn curse of sin upon Rāma if he dies, whereupon Rāma orders the envoy released.
 </details>
 </details>
 

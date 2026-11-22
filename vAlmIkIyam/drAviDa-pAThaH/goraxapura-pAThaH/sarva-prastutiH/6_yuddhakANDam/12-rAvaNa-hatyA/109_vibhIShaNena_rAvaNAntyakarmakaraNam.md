@@ -25,6 +25,14 @@ brother.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the fierce chariot-duel between Rāma and Rāvaṇa commences, the spellbound hosts of monkeys and rākṣasas stand motionless like painted figures, watching their resolute champions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातरं निहतं दृष्ट्वा शयानं निर्जितं रणे ।  
@@ -283,6 +291,14 @@ of it has come now."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The army of the rākṣasas gazing upon Rāvaṇa, and that of the monkeys gazing upon Rāghava, with their eyes wide in wonder (vismitākṣāṇām), shone as though painted in a picture (citram iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolved upon conquest and death respectively, Rāma and Rāvaṇa display their supreme prowess, and after Rāvaṇa's shafts fail against Indra's banner, Rāma fells Rāvaṇa's standard.
 </details>
 </details>
 
@@ -638,6 +654,14 @@ The radiant Rāma cast that shaft aiming at the standard (ketum); cleaving Daśa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by the felling of his chariot banner, Rāvaṇa pierces Rāma's celestial steeds—who remain unshaken as if touched by lotus-stalks—and conjures a magical weapon-storm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वदन्तं हेतुमद् वाक्यं  
@@ -957,6 +981,14 @@ Mountain peaks, trees, and likewise pikes and battle-axes (śūlaparaśvadhān)�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāvaṇa's terrifying weapon-rain bypasses Rāma's chariot to deluge the monkey host and pack the sky with shafts, Rāma smilingly counters with thousands of arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदेवं निश्चयं दृष्ट्वा तत्त्वमास्थाय विज्वरः ।  
@@ -1231,6 +1263,14 @@ to the other world."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding those, Rāvaṇa made the sky dense without interstice (nirantaram) with his own arrows; then, through the radiant shower of shafts employed by them both (tābhyāṃ niyuktena)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their gleaming shafts weave a second sky overhead, and as every arrow strikes home without fail, Rāma and Rāvaṇa trade blow for blow in a hair-raising clash.
 </details>
 </details>
 

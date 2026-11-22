@@ -13,6 +13,14 @@ title = "०९९ अयोध्या-प्रवेशः यज्ञ-द�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At dawn, Kuśa and Lava sing the future Uttara poem before Rāma and the brahmarṣis; at the sacrifice’s close, desolate without Sītā and finding the whole world empty, Rāma honors and dismisses the kings, allies, and brahmins.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रजन्यां तु प्रभातायां समानीय महामुनीन् ।  
@@ -179,6 +187,14 @@ Not beholding Vaidehī (apaśyamāno vaidehīm), he deemed this entire world emp
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Holding Sītā in his heart, Rāma re-enters Ayodhyā with his two sons, takes no other wife, uses a golden image of Jānakī in every rite, and spends ten thousand years performing Aśvamedhas, Vājapeyas, and manifold Vedic sacrifices.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्टयज्ञो नरपतिः पुत्रद्वयसमन्वितः ॥ ७ ॥  
@@ -310,6 +326,14 @@ Thus a vast span of time passed (evaṃ sa kālaḥ sumahān ... vyatīyāt) for
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Under Rāma’s harmonious reign, kings, bears, vānaras, and rākṣasas serve him, timely rains bring universal prosperity free from disease or premature death, and after a long span of time Kausalyā, Sumitrā, and Kaikeyī depart for heaven.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षवानररक्षांसि स्थिता रामस्य शासने ।  
@@ -437,6 +461,14 @@ None died untimely (nākāle mriyate kaścit), nor was there disease among livin
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, after a long lapse of time (atha dīrghasya kālasya), Rāma’s illustrious mother [Kausalyā] (rāmamātā yaśasvinī), surrounded by her sons and grandsons (putrapautraiḥ parivṛtā), met the law of time (kāladharmam upāgamat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reunited joyfully in heaven with King Daśaratha, the three queens reap the fruits of every dharma, while righteous Rāma offers impartial gifts and ancestral sacrifices in their honor as many millennia glide happily by.
 </details>
 </details>
 

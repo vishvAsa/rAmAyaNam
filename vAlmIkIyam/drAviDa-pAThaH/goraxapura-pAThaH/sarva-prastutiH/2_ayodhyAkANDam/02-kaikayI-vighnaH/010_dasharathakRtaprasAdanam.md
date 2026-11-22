@@ -23,6 +23,14 @@ anger.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Misguided by the wicked hunchback, Kaikeyī resolves upon her course, delights Mantharā, and lies down on the floor with a knitted brow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदर्शिता यदा देवी  
@@ -336,6 +344,14 @@ lay down helplessly (abalā) upon the ground, knitting a frown upon her brow (ni
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Binding her hair into a single braid while her flung ornaments strew the floor like stars, Kaikeyī waits as Daśaratha enters her palace like the moon entering a Rāhu-darkened sky.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तया तान्य् अपविद्धानि  
@@ -596,6 +612,14 @@ To impart the gladsome tidings to her who was worthy of pleasant news (priyārh�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering Kaikeyī's heaven-like apartments filled with music, bowers, and jeweled seats, the amorous king fails to find his beloved on her couch and sinks into dismay.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक-बर्हि+++(=मयूर)+++-समायुक्तं  
@@ -815,6 +839,14 @@ was distressed in not finding his beloved wife and enquired the people there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 did not behold his wife Kaikeyī upon her supreme couch (śayanottame). Filled with the force of love (kāmabalasaṃyuktaḥ) and seeking amorous delight (ratyarthī), the lord of men,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning from the terrified doorkeeper that Kaikeyī has rushed to the chamber of wrath, the aged, sinless king beholds his young, evil-minded wife lying on the floor like a severed creeper.
 </details>
 </details>
 
@@ -1072,6 +1104,14 @@ sank into even deeper dejection (viṣasāda punar bhūyaḥ), his senses agitat
 **23:** beheld her lying fallen upon the ground in a manner unworthy of her (atathocitām); the aged monarch (sa vṛddhaḥ) beheld his youthful wife (taruṇīṃ bhāryām), dearer to him than his own life-breaths (prāṇebhyo 'pi garīyasīm)—
 
 **24:** he, sinless himself (apāpaḥ), beheld her of sinful resolve (pāpasaṃkalpām) upon the surface of the earth, like a creeper hacked down (latām iva viniṣkṛttām), or like a goddess fallen from heaven,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a great forest elephant caressing a poisoned cow-elephant, the terrified king strokes Kaikeyī with both hands and asks who has offended her or whether she is ill.
 </details>
 </details>
 
@@ -1366,6 +1406,14 @@ as though your mind were possessed by a spirit (bhūtopahatacitteva), O tormento
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Offering to pardon the condemned, execute the innocent, enrich the poor, or strip the wealthy at her whim, Daśaratha begs Kaikeyī not to doubt her power over him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्य वापि प्रियं कार्यं केन वा विप्रियं कृतम् ॥ ३१ ॥  
@@ -1592,6 +1640,14 @@ righteousness that I shall certainly do whatever is liked by you".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even at the cost of my own life (ātmano jīvitenāpi), speak what is lodged in your heart; knowing the power you hold over me (balam ātmani jānantī), you ought not to doubt me!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swearing by his own good deeds and enumerating the rich realms under his wheel of sovereignty, Daśaratha vows to dispel her fear like the sun dispelling mist, whereupon Kaikeyī prepares to strike.
 </details>
 </details>
 

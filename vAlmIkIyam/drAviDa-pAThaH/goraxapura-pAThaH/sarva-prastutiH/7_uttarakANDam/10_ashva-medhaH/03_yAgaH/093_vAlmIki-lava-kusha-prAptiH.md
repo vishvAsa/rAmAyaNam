@@ -13,6 +13,14 @@ title = "०९३ वाल्मीकि-लव-कुश-प्राप्�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālmīki arrives at Naimiṣa with his disciples, builds secluded leafy huts stocked with his own forest provisions, and commissions Kuśa and Lava to go forth joyfully singing the entire Rāmāyaṇa across hermitages, streets, and royal pavilions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्तमाने तथाभूते यज्ञे च परमाद्भुते ।  
@@ -202,6 +210,14 @@ He spoke to his two delighted disciples (sa śiṣyāv abravīd dhṛṣṭau): 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālmīki directs the boys to sing especially at Rāma’s gate and before the priests, refresh themselves with sweet mountain fruits and roots while lodging outside the city, and—if summoned by Rāma—recite twenty sargas each day.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य भवनद्वारि यत्र कर्म च कुर्वते ।  
@@ -366,6 +382,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forbidding any desire for wealth, Vālmīki instructs the boys to identify themselves solely as his disciples if questioned, modulate their sweet vīṇās with poise, and recite from the opening canto with due reverence for the king.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोभश्चापि न कर्तव्यः स्वल्पोऽपि धनवाञ्छया ।  
@@ -493,6 +517,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The singing should proceed from the very beginning (ādi-prabhṛti geyaṃ syāt), and never in disregard of the king (na cāvajñāya pārthivam); for by dharma a king is indeed the father of all beings (pitā hi sarva-bhūtānāṃ rājā bhavati dharmataḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a final charge to sing sweetly at dawn, Vālmīki falls silent; the eager sons of Sītā accept his command and pass the night treasuring his wondrous counsel in their hearts like the twin Aśvins receiving Bhārgava’s treatise.
 </details>
 </details>
 

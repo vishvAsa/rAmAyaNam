@@ -25,6 +25,14 @@ another round of ascesis to conquer is own senses.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indra commands the celestial nymph Rambhā to seduce Viśvāmitra from his austerities, and when she trembles in dread of the fierce sage’s wrath, reassures her of his own support.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरकार्यमिदं रम्भे कर्तव्यं सुमहत् त्वया ।  
@@ -233,6 +241,14 @@ in fear and making palm fold in supplication. [1-64-4b, 5a]
 **4:** “From that indeed arises my terror (tato hi me bhayam), O Lord; deign to show me grace and excuse me from this command (prasādaṃ kartum arhasi)!” Thus addressed by her in terror as she trembled with fear, O Rāma—
 
 **5:** —the Thousand-Eyed Indra spoke to her as she stood trembling with folded hands (vepamānāṃ kṛtāñjalim): “Fear not, O Rambhā (mā bhaiṣī rambhe)! May good betide you; carry out my command (kuruṣva mama śāsanam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by Indra in the guise of a melodious cuckoo and by Kandarpa in vernal splendour, Rambhā seeks to allure Viśvāmitra, whose mind wavers in suspicion.
 </details>
 </details>
 
@@ -481,6 +497,14 @@ is on his qui vive. [1-64-10]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, at that cuckoo’s call, at her peerless song (gītenāpratimena ca), and at the sight of Rambhā (darśanena ca rambhāyāḥ), the sage fell into doubt and reflection (muniḥ saṃdeham āgataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving Indra’s stratagem through yogic insight, Viśvāmitra curses Rambhā to stand petrified as stone for ten thousand years, yet immediately suffers remorse for yielding to wrath.
 </details>
 </details>
 
@@ -744,6 +768,14 @@ of that great-saint Love-god and Indra also took flight. [1-64-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By his mighty curse Rambhā at once became a statue of stone (rambhā śailī tadābhavat); and upon hearing the great sage’s words, both Kandarpa and he (Indra) fled from that place (kandarpo maharṣeḥ sa ca nirgataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieved by the loss of his ascetic store through unconquered senses, Viśvāmitra undertakes a peerless thousand-year vow of absolute silence, fasting, and suspension of breath until he attains Brahminhood.
 </details>
 </details>
 

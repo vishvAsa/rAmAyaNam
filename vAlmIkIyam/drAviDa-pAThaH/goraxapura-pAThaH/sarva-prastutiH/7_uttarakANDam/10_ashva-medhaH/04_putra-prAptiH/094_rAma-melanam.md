@@ -13,6 +13,14 @@ title = "०९४ राम-मेलनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At dawn Kuśa and Lava begin singing Vālmīki’s poem; spellbound by its unprecedented melodic craft, Rāma convenes an illustrious assembly of sages, kings, grammarians, musicologists, and prosodists during an interval in the sacrifice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ रजन्यां प्रभातायां स्नातौ हुतहुताशनौ ।  
@@ -103,6 +111,14 @@ Kākutstha listened to that unprecedented melodic composition (tāṃ sa śuśr�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 bound by manifold rhythmic measures (pramāṇair bahubhir baddhām) and united with lute-strings and tempo (tantrī-laya-samanvitām); hearing it from the two boys (bālābhyāṃ rāghavaḥ śrutvā), Rāghava was filled with intense wonder (kautūhala-paro ’bhavat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma gathers masters of astronomy, ritual, logic, poetics, dance, and Vedānta to seat the two young singers; as sages and kings drink in Rāma and the twins with their eyes, all marvel that the boys look like twin reflections of Rāma himself.
 </details>
 </details>
 
@@ -279,6 +295,14 @@ spoke thus to one another on every side (ūcuḥ parasparaṃ cedaṃ sarva eva 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling that without matted locks and bark robes the boys would be indistinguishable from Rāma, the assembly listens insatiably as they sing twenty sargas beginning from Nārada’s opening canto, prompting Rāma to have Bharata offer eighteen thousand gold coins to each.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्टा मुनिगणाः सर्वे पार्थिवाश्च महौजसः ।  
@@ -442,6 +466,14 @@ Beginning from the very first canto revealed by Nārada (pravṛttam āditaḥ p
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Astonished at the royal gift, Kuśa and Lava decline the gold as useless to forest dwellers living on fruits and roots; deeply intrigued, Rāma questions the boys about the poem’s extent, theme, composer, and where that great sage abides.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ स शीघ्रं काकुत्स्थो बालयोर्वै पृथक् पृथक् ॥ १९ ॥  
@@ -574,6 +606,14 @@ Eager to hear the origin and transmission of that poem (tasya caivāgamaṃ rām
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kuśa and Lava reveal that the blessed sage Vālmīki—now encamped beside the sacrifice—composed this twenty-four-thousand-verse epic with a hundred subsidiary tales across five hundred sargas and six kāṇḍas with the Uttara, enshrining Rāma’s entire life.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किम्प्रमाणमिदं काव्यं का प्रतिष्ठा महात्मनः ।  
@@ -701,6 +741,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Composed by our preceptor, the sage, it is your own life-story (kṛtāni guruṇāsmākam ṛṣiṇā caritaṃ tava); its foundation endures over everything as long as life continues (pratiṣṭhā ājīvitaṃ yāvat tāvat sarvasya vartate).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inviting Rāma to listen with his brothers during sacrificial intervals whenever he has leisure, Kuśa and Lava take leave and return to Vālmīki’s camp, while Rāma enters the sacrificial hall captivated by the melodic splendor of their song.
 </details>
 </details>
 

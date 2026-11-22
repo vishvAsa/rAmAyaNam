@@ -15,6 +15,14 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling the peerless majesty of the Ikṣvāku and Videha dynasties, Sage Viśvāmitra, together with Sage Vasiṣṭha, requests the two daughters of King Kuśadhvaja in marriage as well.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुक्तवन्तं वैदेहं विश्वामित्रो महामुनिः ।  
@@ -149,6 +157,14 @@ and even it is befitting to the winsome charms of the brides and bridegrooms, bu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Worthy and well-matched is this righteous marital alliance (sadṛśo dharmasambandhaḥ), and equally matched in beauty and perfection (sadṛśo rūpasampadā) are Sītā and Ūrmilā with Rāma and Lakṣmaṇa, O King!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra requests Kuśadhvaja’s two daughters for Prince Bharata and wise Śatrughna, extolling all four sons of Daśaratha as equals of the Lokapālas; Janaka joyfully welcomes the command of the two great sages.
 </details>
 </details>
 
@@ -434,6 +450,14 @@ is highly honoured... [1-72-10]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka gladly consents that Bharata and Śatrughna wed Kuśadhvaja’s two daughters and proposes that all four princes clasp the hands of the four princesses on the single auspicious day of Uttara-Phalgunī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं भवतु भद्रं वः कुशध्वजसुते इमे ।  
@@ -682,6 +706,14 @@ rulership on the three kingdoms, Ayodhya, Mithila, and Saamkaasya, in getting th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The highest dharma has been bestowed upon me by you (paro dharmaḥ kṛto mahyam), and I am ever the disciple of you both (śiṣyo 'smi bhavatos tathā). Here are the foremost royal thrones—pray be seated upon them, O bulls among sages (imāny āsanamukhyāni āsyatāṃ munipuṃgavau)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Mithilā and Ayodhyā are now one and the same, Janaka places his realm at the disposal of the sages; delighted, King Daśaratha praises the two royal brothers and returns to his pavilion to perform the ancestral śrāddha rites.
 </details>
 </details>
 
@@ -934,6 +966,14 @@ from there, keeping both of the eminent-saints afore, namely Vishvamitra and Vas
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having taken formal leave of that ruler of men (tam āpṛṣṭvā narapatim), the illustrious King Daśaratha promptly departed, placing those two lords of sages at his head (munīndrau tau puraskṛtya jagāmāśu mahāyaśāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning to his residence, King Daśaratha performs the ancestral śrāddha and the morning godāna sacrament for his four sons, gifting four hundred thousand golden-horned cows with calves and bronze milking pails to the brahmins.
 </details>
 </details>
 

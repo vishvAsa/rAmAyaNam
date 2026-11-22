@@ -25,6 +25,14 @@ enters the huge house of Ravana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moving swiftly at will through seven-storied palaces, Hanūmān approaches Rāvaṇa's sun-walled royal precinct, guarded like a lion-filled forest and thronged with mahouts and ivory-decked chariots.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निकामं विमानेषु विचरन् कामरूपधृक् ।  
@@ -344,6 +352,14 @@ sound.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And it was ever traversed by wondrous, rattling chariots (ghoṣavadbhir vicitraiś ca रथैः) armored in lion and tiger skins (siṃhavyāghratanutrāṇaiḥ) and bearing figures of ivory, gold, and silver (dāntakāñcanarājatīḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with gems, great chariot-warriors, exotic birds, border guards, and choice women, Rāvaṇa's residence resounds like the sea with ornaments, drums, conchs, and parvan Soma-oblations.
 </details>
 </details>
 
@@ -667,6 +683,14 @@ Resounding with kettledrums and mṛdaṅgas (bherīmṛdaṅgābhirutam), echoi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeming Rāvaṇa's ocean-deep, gem-decked palace the very ornament of Laṅkā, Hanūmān fearlessly leaps through the mansions of Prahasta, Mahāpārśva, Kumbhakarṇa, and Vibhīṣaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रमिव गम्भीरं समुद्रसमनिःस्वनम् ।  
@@ -923,6 +947,14 @@ Next, that great monkey leaped to the cloud-like residence of Kumbhakarṇa (meg
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān leaps successively through the mansions of Mahodara, Virūpākṣa, Vidyujjihva, Vidyunmāli, Vajradaṃṣṭra, Śuka, Sāraṇa, Indrajit, Jambumāli, Sumāli, Dhūmrākṣa, Sampāti, and other rākṣasa captains.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदरस्य च तथा विरूपाक्षस्य चैव हि ।  
@@ -1095,6 +1127,14 @@ And so too the monkey troop-leader went to the mansion of Indrajit (indrajito ve
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And that great monkey leaped to the mansion of Raśmiketu (raśmiketoś ca bhavanam), and of Sūryaśatru (sūryaśatros tathaiva ca), and likewise of Vajrakāya (vajrakāyasya ca tathā);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having inspected the opulent mansions of Yuddhonmatta, Matta, Dhvajagrīva, Karāla, Śoṇitākṣa, and all the other rākṣasa lords, Hanūmān reaches Rāvaṇa's palace and sees his female guards.
 </details>
 </details>
 
@@ -1407,6 +1447,14 @@ And in the palace of that lord of rākṣasas (tasya rakṣaḥpater gṛhe) he 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inside Rāvaṇa's residence, Hanūmān beholds gigantic rākṣasas, tethered steeds, Airāvata-like war-elephants trickling ichor like clouds, a thousand gold-adorned battalions, and sun-bright palanquins.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसांश्च महाकायान् नानाप्रहरणोद्यतान् ।  
@@ -1564,6 +1612,14 @@ up.
 **34:** Thundering like the rumble of clouds (meghastanitanirghoṣān) and unassailable by foes in battle (durdharṣān samare paraiḥ); and he beheld there a thousand battalions decked in jāmbūnada gold (sahasraṃ vāhinīs tatra jāmbūnadapariṣkṛtāḥ),
 
 **35:** And palanquins continuously covered with golden networks (hemajālair avicchinnāḥ) and shining like the newly risen sun (taruṇādityasaṃnibhāḥ)—all these he beheld in the residence of Rāvaṇa, the lord of rākṣasas (rāvaṇasya niveśane).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding vine-arbors, picture-galleries, wooden pleasure-hills, love-pavilions, and peacock-roosts, Hanūmān sees Rāvaṇa's supreme palace blazing like the sun and rivaling Śiva's or Kubera's abode.
 </details>
 </details>
 
@@ -1730,6 +1786,14 @@ by rays.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Both through the rays of its gems (arcirbhiś cāpi ratnānām) and through the fiery splendor of Rāvaṇa himself (tejasā rāvaṇasya ca), that mansion shone forth like the sun with its beams (virarāja ca tad veśma raśmivān iva raśmibhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding couches, seats, and vessels of jāmbūnada gold, floors moist with honeyed liquor, and halls echoing with anklets, girdles, and drums, Hanūmān enters the great palace.
 </details>
 </details>
 

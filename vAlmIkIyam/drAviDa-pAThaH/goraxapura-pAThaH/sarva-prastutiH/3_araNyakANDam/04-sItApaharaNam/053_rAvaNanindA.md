@@ -25,6 +25,14 @@ abducting other's wives, in vainglory.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāvaṇa springing up into the sky after striking down the aged Jaṭāyu, Sītā weeps in rage and grief, taunting the demon lord for his cowardly theft.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खमुत्पतन्तं तं दृष्ट्वा मैथिली जनकात्मजा ।  
@@ -297,6 +305,14 @@ to your crown?'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And even this one who rose up to rescue me has been struck down (yo hi mām udyatas trātuṃ so 'py ayaṃ vinipātitaḥ)—yonder ancient king of vultures, the friend of my father-in-law (gṛdhra-rājaḥ purāṇo 'sau śvaśurasya sakhā mama)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā denounces Rāvaṇa's boastful cowardice in abducting another man's wife in secret and warns him that he could no more endure Rāma and Lakṣmaṇa's arrows than a bird can endure a blazing forest fire.
 </details>
 </details>
 
@@ -692,6 +708,14 @@ you, or with what you can retaliate them...'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Rāvaṇa that she will never sustain her life in captivity without Rāma, Sītā tells him that like a dying mortal who rejects wholesome medicine, he is courting his own doom.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु कृत्वाऽऽत्मनः पथ्यं साधु मां मुञ्च रावण ।  
@@ -968,6 +992,14 @@ indeed, I behold you as one around whose throat the noose of Time is looped. [3-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With prophetic vision, Sītā tells Rāvaṇa that she sees the noose of Death around his neck and the infernal torments awaiting adulterers—the blood-flowing Vaitaraṇī, the sword-leafed forest, and the iron-thorned Śālmalī tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यामीह हि कण्ठे त्वां कालपाशावपाशितम् ।  
@@ -1213,6 +1245,14 @@ sermonise me?' For this, her reply is in the next verse.
 **21:** “—you shall behold that sharp śālmalī tree bristling with thorns of iron (drakṣyase śālmalīṃ tīkṣṇām āyasaiḥ kaṇṭakaiś citām)! For after committing such an offence against that great-souled one (nahi tvam īdṛśaṃ kṛtvā tasyālīkaṃ mahātmanaḥ)—
 
 **22:** “—you shall not be able to survive for long, O pitiless one, any more than one who has drunk poison (dhārituṃ śakṣyasi ciraṃ viṣaṃ pītveva nirghṛṇa)! You are bound by the irresistible noose of Death, O Rāvaṇa (baddhas tvaṃ kāla-pāśena durnivāreṇa rāvaṇa)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Rāvaṇa how Rāma single-handedly slew fourteen thousand rākṣasas in the twinkling of an eye, the trembling Sītā weeps piteously as the demon carries her through the sky.
 </details>
 </details>
 

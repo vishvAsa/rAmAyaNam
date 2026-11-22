@@ -25,6 +25,14 @@ Rama and to live happily ever after in Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impatient with Vibhīṣaṇa's Bṛhaspati-like counsel, Indrajit taunts his uncle as the sole coward in Pulastya's lineage and boasts of having felled and captured Indra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहस्पतेस्तुल्यमतेर्वचस्त-  
@@ -317,6 +325,14 @@ different quarters."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Was not Śakra [Indra], the king of the gods and lord of the three worlds (trilokanātho devarājaḥ), cast down by me upon the surface of the earth (mayā bhūmitale niviṣṭaḥ)? And at that time all the hosts of the gods in their entirety, stricken with terror (bhayārpitāḥ), fled to the quarters of the sky (diśaḥ prapannāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Indrajit boasts of wrenching out Airāvata's tusks, Vibhīṣaṇa rebukes his unripe youth and denounces him as a foe disguised as Rāvaṇa's son.
 </details>
 </details>
 
@@ -627,6 +643,14 @@ blindly agreeing with him."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Under the title of Rāvaṇa's son (putrapravādena tu rāvaṇasya), O Indrajit, you are an enemy with the face of a friend (mitramukho 'si śatruḥ), since upon hearing of such destruction for him from Rāghava (rāghavato vināśam), out of delusion you endorse it (mohād anumanyase tvam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Condemning both Indrajit and whoever admitted such a rash youth to the council, Vibhīṣaṇa warns of Rāma's Brahmadaṇḍa-like shafts and urges restoring Sītā with rich tribute.
 </details>
 </details>
 

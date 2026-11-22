@@ -26,6 +26,14 @@ battle-field, to reach Rama and Lakshmana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consumed by wrath and grief over the deaths of Kumbha and Nikumbha, Rāvaṇa commands Khara's son Makarākṣa to march forth and slay Rāma and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकुम्भं निहतं श्रुत्वा कुम्भं च विनिपातितम् ।  
@@ -267,6 +275,14 @@ to bring a chariot and the army swiftly.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Khara's son spoke these words to the commander of the forces (balādhyakṣam) standing nearby: “Let a chariot be brought swiftly (tūrṇam), and let the army be led forth in haste (tvarāt)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting his chariot after circumambulating it, Makarākṣa commands his rākṣasa vanguard to advance and boasts that he will slay Rāma, Lakṣmaṇa, and Sugrīva.
 </details>
 </details>
 
@@ -515,6 +531,14 @@ my excellent arrows, O demons!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to burn the monkey army like dry fuel, Makarākṣa advances with his fanged, elephant-roaring rākṣasa legions amid the din of thousands of conches and drums.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य शूलनिपातैश्च वानराणां महाचमूम् ।  
@@ -737,6 +761,14 @@ like fire.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From thousands of conches and kettle-drums (śaṅkhabherīsahasrāṇām) beaten on every side, and from lion-roars and arm-slappings (kṣvelitāsphoṭitānām), a mighty uproar arose there.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ignoring dark portents—the falling of the charioteer's goad and banner, weeping horses, and a dusty headwind—the battle-scarred rākṣasas press forward toward Rāma.
 </details>
 </details>
 

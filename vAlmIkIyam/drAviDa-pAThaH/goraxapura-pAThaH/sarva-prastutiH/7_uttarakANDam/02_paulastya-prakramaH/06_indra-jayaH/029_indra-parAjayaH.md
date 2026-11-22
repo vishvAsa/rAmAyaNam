@@ -13,6 +13,14 @@ title = "०२९ इन्द्र-पराजयः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As battle-born darkness swallows the sky, gods and rākṣasas slaughter one another blindly until nine-tenths of Rāvaṇa’s host lies slain; undazed amid the gloom, an enraged Rāvaṇa roars and commands his charioteer to drive straight through the divine ranks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तमसि सञ्जाते सर्वे ते देवराक्षसाः ।  
@@ -208,6 +216,14 @@ In fury, the unassailable king addressed his charioteer standing upon the car (s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that he will slay the thirty gods and their four world-guardians to reign supreme, Rāvaṇa rebukes his hesitant charioteer and bids him drive from the Nandana grove to Mount Udaya; seeing his resolve, Indra addresses the assembled gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यैतान् त्रिदशान् सर्वान् विक्रमैः समरे स्वयम् ।  
@@ -394,6 +410,14 @@ Hearing those words of his, the charioteer urged his mind-swift steeds (turagān
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Perceiving that firm resolve of his (tasya taṃ niścayaṃ jñātvā), Śakra, lord of the gods (śakro deveśvaraḥ), standing in his chariot upon the battlefield (rathasthaḥ samarasthaḥ), then spoke these words to the gods:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing that Rāvaṇa cannot be slain because of his boons, Indra counsels the gods to capture him alive just as Bali was confined; disengaging from Rāvaṇa’s front, Indra enters from the southern flank while Rāvaṇa drives into the north.
 </details>
 </details>
 
@@ -589,6 +613,14 @@ From the northern flank the unyielding Daśagrīva plunged in (uttareṇa daśag
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa penetrates a hundred yojanas deep into the divine ranks, Indra calmly encircles and overpowers him, drawing a cry of despair from the rākṣasas; enraged, Rāvaṇi enters Śiva’s Tāmasī illusion, scatters the gods, and charges unseen straight at Śakra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स योजनशतं प्रविष्टो राक्षसाधिपः ।  
@@ -778,6 +810,14 @@ Passing over all the other gods, he rushed straight against Śakra alone (sarvā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unfazed though stripped of armor, Rāvaṇi strikes Mātali and deluges Indra with shafts; when Śakra mounts Airāvata to hunt him, the invisible prince binds the exhausted king of heaven in illusion and drags him toward the rākṣasa lines.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमुक्तकवचस्तत्र वध्यमानोऽपि रावणिः ।  
@@ -964,6 +1004,14 @@ Seeing Mahendra being forcibly led away by him from the great battle (balāt ten
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the baffled gods cannot spy the invisible captor of Indra and turn their fury upon Rāvaṇa—whose strength fails beneath the Ādityas and Vasus—the unseen Rāvaṇi hails his battered father, declaring victory won and the gods’ pride broken.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृश्यते न स मायावी शक्रजित् समितिञ्जयः ।  
@@ -1147,6 +1195,14 @@ Seeing his father faded in vigor and mangled with blows (parimlānaṃ prahārai
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For he who is sovereign of the divine host and of the three worlds (surasainyasya trailokyasya ca yaḥ prabhuḥ) has been captured from the divine army (sa gṛhīto devabalāt), and the gods have had their pride shattered (bhagna-darpāḥ surāḥ kṛtāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by his son to cease pointless combat and enjoy the three worlds, Rāvaṇa grows serene as the gods withdraw; exulting in his son’s glory, he bids him bear Indra to Laṅkā, where Rāvaṇi dismisses his host.
 </details>
 </details>
 

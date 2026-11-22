@@ -26,6 +26,14 @@ Sage Vishvamitra narrates the legend of Sagara, the earliest King of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having concluded the celestial account of Kārttikeya, Viśvāmitra begins the terrestrial history of Gaṅgā’s descent by recounting how childless King Sagara of Ayodhyā and his two queens Keśinī and Sumati performed austere penance on Mount Bhṛguprasravaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां कथां कौशिको रामे निवेद्य मधुराक्षराम् ।  
@@ -294,6 +302,14 @@ Having related to Rāma that narrative of sweet syllables (tāṃ kathāṃ madh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Propitiated after a full hundred years of penance, Sage Bhṛgu grants Sagara the boon that one queen shall bear a single son to perpetuate his dynasty while the other shall bear sixty thousand sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वर्षशते पूर्णे तपसाऽऽराधितो मुनिः ।  
@@ -546,6 +562,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Invited by Sage Bhṛgu to choose according to their own desire, Queen Keśinī selects the single son who will perpetuate the dynasty, while Queen Sumati selects the sixty thousand illustrious sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोस्तद् वचनं श्रुत्वा भृगुः परमधार्मिकः ।  
@@ -765,6 +789,14 @@ On listening their words the Sage Bhrigu spoke in a glorious tone, 'let
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having circumambulated the sage clockwise (pradakṣiṇam ṛṣiṃ kṛtvā) and bowed down to him with his head (śirasābhipraṇamya tam), the king returned to his own city accompanied by his two wives (jagāma svapuraṃ rājā sabhāryaḥ), O delight of the Raghus.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In due time Keśinī gives birth to Prince Asamañja, while Sumati brings forth a gourd-shaped embryo from which sixty thousand sons emerge and are reared by wet-nurses in jars filled with clarified butter.
 </details>
 </details>
 
@@ -1022,6 +1054,14 @@ But, oh, best one among men, oh, Rama, the elder son of the king Sagara,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Now that eldest son born of Sagara himself (sa ca jyeṣṭhaḥ sagarasyātmasaṃbhavaḥ), O foremost of men, used to seize the young children of the city and cast them into the waters of the Sarayū (bālān gṛhītvā tu jale sarayvā), O delight of the Raghus—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When wicked Asamañja drowns the citizens’ children in the Sarayū, righteous Sagara banishes him from Ayodhyā; after Asamañja’s noble son Aṃśumān comes of age, Sagara resolves to perform a great Vedic sacrifice.
 </details>
 </details>
 

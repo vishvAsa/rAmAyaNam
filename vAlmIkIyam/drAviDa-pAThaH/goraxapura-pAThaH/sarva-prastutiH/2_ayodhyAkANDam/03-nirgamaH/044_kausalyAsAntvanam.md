@@ -24,6 +24,14 @@ grief.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadfast in dharma, Queen Sumitrā consoles the weeping Kausalyā, proclaiming Rāma to be the Supreme Person (Puruṣottama) who is never to be mourned, served by Lakṣmaṇa and followed by Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विलपन्तीं तथा तां तु कौसल्यां प्रमदोत्तमाम् ।  
@@ -304,6 +312,14 @@ accompanying your virtuous- soled son."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Though accustomed to happiness (sukha-ucitā) and knowing full well what hardship lies in dwelling in the forest (araṇya-vāse yat duḥkham jānantī eva), Vaidehī follows your righteous-souled son (anugacchati vaidehī dharmātmānam tava ātmajam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumitrā declares that the sun will not scorch Rāma’s limbs, the forest breeze will attend him with tempered coolness, the moon will embrace him like a father, and he who received Brahmā’s missiles will dwell fearless in the woods.
 </details>
 </details>
 
@@ -605,6 +621,14 @@ forest as if in his own palace"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exalting Rāma as the sun of the sun, the fire of fire, the lord of lords, and the deity of deities, Sumitrā foretells his swift consecration alongside the Earth, Vaidehī, and Royal Fortune.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्येषुपथमासाद्य विनाशं यान्ति शत्रवः ।  
@@ -838,6 +862,14 @@ of fortune another consort of Vishnu)"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Together with the Earth, Vaidehī, and Royal Fortune (pṛthivyā saha vaidehyā śriyā ca)—accompanied by these three (tisṛbhiḥ etābhiḥ saha), Rāma, that bull among men (puruṣa-ṛṣabhaḥ... rāmaḥ), will swiftly be consecrated (kṣipram... abhiṣekṣyate).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Lakṣmī herself following him as Sītā and Lakṣmaṇa marching ahead bow in hand, nothing is beyond Rāma’s reach; Sumitrā assures Kausalyā that she will soon shed tears of joy at his return.
 </details>
 </details>
 
@@ -1107,6 +1139,14 @@ coroneted, you will be shedding soon tears of joy from your eyes "
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Kausalyā that the entire palace looks to her for solace and that no one in the world surpasses Rāma in righteousness, Sumitrā likens her future tears of joy to a monsoon cloud-bank.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा शोको देवि दुःखं वा न रामे दृष्यतेऽशिवम् ।  
@@ -1321,6 +1361,14 @@ like a line of clouds in a rainy season"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Beholding that son of yours surrounded by his friends and paying homage at your feet (abhivādayamānam tam dṛṣṭvā sa-suhṛdam sutam), you shall soon shed tears of joy like a line of rain-clouds in the monsoon (mudā aśru mokṣyase kṣipram megha-rekhā iva vārṣikī).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling how Rāma will press Kausalyā’s feet with his soft hands while she bathes him in tears like a cloud-bank drenching a mountain, Sumitrā concludes her speech, and Kausalyā’s grief vanishes like an autumn cloud.
 </details>
 </details>
 

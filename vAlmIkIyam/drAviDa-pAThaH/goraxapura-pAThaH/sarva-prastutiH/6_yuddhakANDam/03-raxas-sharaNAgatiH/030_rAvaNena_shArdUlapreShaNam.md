@@ -26,6 +26,14 @@ monkeys.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Noticing Śārdūla's pallid face when the spies report Rāma's encampment on Mount Suvela, Rāvaṇa questions him about the impenetrable Vānara host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तमक्षोभ्यबलं लङ्काधिपतये चराः ।  
@@ -338,6 +346,14 @@ with them. The entire path is being protected by the monkeys looking like mounta
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Nor is it possible even to converse with them (nāpi sambhāṣituṃ śakyāḥ); no questioning can be conducted there (sampraśno 'tra na labhyate), for on every side the path is guarded (sarvato rakṣyate panthāḥ) by mountain-like Vānaras (vānaraiḥ parvatopamaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śārdūla recounts how he was detected, beaten, and paraded by the monkeys before Rāma mercifully spared him and marched in Garuḍa formation.
 </details>
 </details>
 
@@ -663,6 +679,14 @@ Arraying his host in the Garuḍa formation (garuḍavyūham āsthāya) and surr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śārdūla urges Rāvaṇa either to restore Sītā or to give battle; refusing ever to yield Sītā, Rāvaṇa asks for the monkey leaders' parentage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा प्राकारमायाति क्षिप्रमेकतरं कुरु ।  
@@ -978,6 +1002,14 @@ battle?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having learned their strength and weakness (jñātvā teṣāṃ balābalam), I shall take measures accordingly in this matter (tathātra pratipatsyāmi); for a reckoning of forces (saṃkhyānam) must certainly be made by one who desires battle (yuddham icchatā).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śārdūla recounts the divine parentage of Sugrīva, Jāmbavān, Dhūmra, Kesarī, Suṣeṇa, Dadhimukha, Nīla, and Hanūmān.
 </details>
 </details>
 
@@ -1303,6 +1335,14 @@ Here is the son of the Fire-god (putro hutavahasya), Nīla, the commander-in-chi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śārdūla names Aṅgada, Mainda, Dvivida, the five sons of Yama, and ten crores of divine monkeys before extolling Rāma's peerless valor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नप्ता शक्रस्य दुर्धर्षो बलवानङ्गदो युवा ।  
@@ -1582,6 +1622,14 @@ demons staying in Janasthana were killed."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 No man upon the earth is able to recount the virtues of Rāma (vaktuṃ na śakto rāmasya guṇān), by whom all those Rākṣasas stationed in Janasthāna were slain (janasthānagatā yena tāvanto rākṣasā hatāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śārdūla concludes his report by naming Lakṣmaṇa, Śveta, Jyotirmukha, Hemakūṭa, Nala, Durdhara, and Vibhīṣaṇa, leaving the decision to Rāvaṇa.
 </details>
 </details>
 

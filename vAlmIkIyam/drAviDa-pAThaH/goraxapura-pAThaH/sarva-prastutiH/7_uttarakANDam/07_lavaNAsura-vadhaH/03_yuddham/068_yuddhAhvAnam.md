@@ -13,6 +13,14 @@ title = "०६८ युद्धाह्वानम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At dawn Lavaṇa departs Madhupura unarmed to hunt, while Śatrughna crosses the Yamunā and posts himself bow in hand at the city gate; returning at midday laden with thousands of slaughtered creatures, the rākṣasa mocks the armed prince waiting at his threshold.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथां कथयतां तेषां जयं चाकाङ्क्षतां शुभम् ।  
@@ -191,6 +199,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lavaṇa jeers that Śatrughna has walked straight into his mouth to top off his meal, tears of blazing fury fall from Śatrughna’s eyes and fiery rays shoot from his limbs as he announces his lineage and challenges the demon to single combat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आहारश्चाप्यसम्पूर्णो ममायं पुरुषाधम ।  
@@ -361,6 +377,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring Lavaṇa the enemy of all beings who will not leave alive, Śatrughna provokes the rākṣasa’s scornful reply: Lavaṇa invokes his kinship with Rāvaṇa, boasting that he spared Rāma’s line only out of contempt as mere blades of grass.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य मे युद्धकामस्य द्वन्द्वयुद्धं प्रदीयताम् ।  
@@ -528,6 +552,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For all of them—those past, those yet to come, and you too, O vilest of men (bhūtāś caiva bhaviṣyāś ca yūyaṃ ca puruṣādhamāḥ)—have been slain by me or scorned like a blade of grass (nihatāś ca hi me sarve paribhūtās tṛṇaṃ yathā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lavaṇa demands a moment’s pause to fetch his weapon from indoors, Śatrughna refuses to grant a foe any respite, declaring that only a fool gives an enemy an opening, and vows to send the three worlds’ scourge straight to Yama’s house.
 </details>
 </details>
 

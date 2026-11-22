@@ -13,6 +13,14 @@ title = "०५१ भृगु-शापः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prompted by Lakṣmaṇa, Sumantra begins recounting how King Daśaratha once visited Vasiṣṭha’s hermitage during the rainy-season retreat, honored both Vasiṣṭha and his blazing guest Durvāsas, and sat conversing with the great sages at midday.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा सञ्चोदितः सूतो लक्ष्मणेन महात्मना ।  
@@ -211,6 +219,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+During their conversation, a humble Daśaratha asks Durvāsas how long his lineage, Rāma, his other sons, and Rāma’s children will endure; in reply, Durvāsas recounts how Viṣṇu once severed Bhṛgu’s wife’s head for sheltering the daityas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कथायां कस्याञ्चित् प्राञ्जलिः प्रग्रहो नृपः ॥ ७ ॥  
@@ -367,6 +383,14 @@ _________________
 **11:** “‘Hear, O King, an ancient event (śṛṇu rājan purāvṛttam) from the war between the gods and asuras (devāsure yudhi): harassed by the gods, the daityas took refuge with the wife of Bhṛgu (bhṛgu-patnīṃ samāśritāḥ); granted safety by her (tayā dattābhayāḥ), they dwelt there free from fear (nyavasann abhayās tadā).
 
 **12:** “‘Beholding them sheltered by her (tayā parigṛhītāṃs tān dṛṣṭvā), the Lord of the Gods [Viṣṇu] grew wroth (kruddhaḥ sureśvaraḥ), and with his razor-edged discus (cakreṇa śita-dhāreṇa) he severed the head of Bhṛgu’s wife (bhṛgu-patnyāḥ śiro ’harat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged at the slaying of his inviolable wife, Bhṛgu curses Viṣṇu to be born among mortals and endure long separation from his wife; stricken with remorse, Bhṛgu worships the Lord, who accepts the curse for the world’s welfare and incarnates as Rāma.
 </details>
 </details>
 
@@ -534,6 +558,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Durvāsas completes his prophecy—foretelling Rāma’s eleven-thousand-year reign in Ayodhyā, his grand horse sacrifices, the founding of many royal lines, the birth and consecration of Sītā’s two sons elsewhere, and Rāma’s ascent to Brahmaloka—before falling silent.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति शप्तो महातेजा भृगुणा पूर्वजन्मनि ॥ १८ ॥  
@@ -669,6 +701,14 @@ _________________
 **22:** “‘Two sons shall be born to Rāghava from Sītā (dvau putrau tu bhaviṣyete sītāyāṃ rāghavasya tu)—elsewhere, not in Ayodhyā (anyatra na tv ayodhyāyām); this is truth beyond all doubt (satyam etan na saṃśayaḥ)—and Rāghava shall thereafter consecrate those two sons of Sītā (sītāyāś ca tataḥ putrāv abhiṣekṣyati rāghavaḥ).’
 
 **23:** “He recounted in its entirety (sarvam akhilam ... āha) all that had passed and all that was to come of the king’s dynasty (rājño vaṃśasya ... gatāgatam); having declared this, that greatly resplendent sage fell silent (tūṣṇīm āsīn mahāmuniḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his narrative, Sumantra assures Lakṣmaṇa that Durvāsas’s word cannot fail and urges him to be steadfast; filled with incomparable joy, Lakṣmaṇa applauds the charioteer, and at sunset the two spend the night by the river Keśinī.
 </details>
 </details>
 

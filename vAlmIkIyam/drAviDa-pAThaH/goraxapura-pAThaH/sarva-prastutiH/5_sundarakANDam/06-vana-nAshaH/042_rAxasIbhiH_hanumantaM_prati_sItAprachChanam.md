@@ -30,6 +30,14 @@ of Hanuma.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Terrified by the crashing trees and crying birds, the inhabitants of Laṅkā tremble as the awakened Rākṣasīs behold the shattered grove and question Sītā about the colossal Vānara.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पक्षिनिनादेन वृक्षभङ्गस्वनेन च ।  
@@ -291,6 +299,14 @@ then asked Seetha (as follows):
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon, seeing that mountain-like (giri-saṃkāśam), gigantic, and mighty Vānara (vānaram), the Rākṣasīs questioned the daughter of Janaka (janakātmajām):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pressed by the Rākṣasīs, Sītā pleads ignorance of the shape-shifting creature's identity with a proverb on serpents, whereupon the terrified guards rush to report the Vānara to Rāvaṇa.
 </details>
 </details>
 
@@ -660,6 +676,14 @@ In the presence of Rāvaṇa, the hideous-faced Rākṣasīs (vikṛtānanāḥ)
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reporting to Rāvaṇa, the Rākṣasīs describe the formidable Vānara who conversed with Sītā, conjecturing whether he serves Indra, Kubera, or Rāma, and noting that Sītā's spot alone was spared.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोकवनिकामध्ये राजन् भीमवपुः कपिः ।  
@@ -971,6 +995,14 @@ undestroyed, or else, what fatigue is there for him? He has done it to protect S
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whether it was for the protection of Jānakī (jānakī-rakṣaṇārtham) or out of exhaustion (śramād vā) is not discerned; or rather, what exhaustion could be his? She alone was protected by him (tenābhirakṣitā)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incited by the Rākṣasīs' plea to punish the intruder who spared Sītā's Śiṃśapā tree, Rāvaṇa blazes like a funeral pyre and dispatches the Kiṅkara demons to capture Hanūmān.
 </details>
 </details>
 
@@ -1299,6 +1331,14 @@ He of great fiery energy (mahātejāḥ) commanded heroic Rākṣasas equal to h
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eighty thousand fierce Kiṅkara warriors rush from Rāvaṇa's palace like moths toward a flame, surrounding Hanūmān at the archway with maces, iron bars, and sun-bright arrows as he roars.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामशीतिसाहस्रं किङ्कराणां तरस्विनाम् ।  
@@ -1600,6 +1640,14 @@ Hanūmān too, radiant, glorious (śrīmān), and resembling a mountain, lashed 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Expanding to a colossal size and slapping his tail until birds fall from the sky, Hanūmān proclaims the supreme victory of Rāma, Lakṣmaṇa, and Sugrīva, declaring himself Rāma's servant.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भूत्वा तु महाकायो हनूमान् मारुतात्मजः ।  
@@ -1704,6 +1752,14 @@ birds fell down from the sky. Hanuma also then cried aloud with a clamorous voic
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By the mighty, reverberating sound of his tail-slapping (tasyāsphoṭita-śabdena mahatā cānunādinā), birds fell from the sky (petur vihaṅgā gaganāt), and aloud he proclaimed this:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to depart victorious before the eyes of all Rākṣasas after saluting Maithilī, Hanūmān seizes the terrifying iron bar from the gateway and slaughters the night-roamers like Garuḍa.
 </details>
 </details>
 
@@ -2017,6 +2073,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seizing that iron bar (taṃ parigham ādāya), he slew the night-roamers (jaghāna rajanīcarān), just as the son of Vinatā [Garuḍa] seizes a writhing serpent (sphurantaṃ pannagam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wheeling through the sky with the iron bar like Indra wielding his thunderbolt, Hanūmān slaughters all the Kiṅkaras and retakes his post on the archway as Rāvaṇa dispatches Jambumālin.
 </details>
 </details>
 

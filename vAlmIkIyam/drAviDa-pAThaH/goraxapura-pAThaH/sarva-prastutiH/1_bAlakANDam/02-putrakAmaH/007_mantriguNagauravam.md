@@ -30,6 +30,14 @@ The truthful and upright characters of the ministers of Dasharatha are portrayed
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Daśaratha is served by eight illustrious, incorruptible executive ministers headed by Dhṛṣṭi and Sumantra, alongside his revered royal preceptors Vasiṣṭha and Vāmadeva and six Brāhmaṇa sages headed by Suyajña and Jābāli.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यामात्या गुणैरासन्निक्ष्वाकोः सुमहात्मनः ।  
@@ -260,6 +268,14 @@ Suyajna, Jabaali, Kaashyapa, Gautama, Maarkandeya, Deerghaayu, and then Kaatyaya
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Modest in sacred learning, endowed with moral shame, smiling in speech, and never uttering falsehood, the King’s counselors know every past, present, and intended act through their spy network and mete out impartial justice even upon their own sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतैर्ब्रह्मर्षिभिर्नित्यमृत्विजस्तस्य पौर्वकाः ।  
@@ -435,6 +451,14 @@ They are efficient in administration and their friendships are well examined by
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Skilled in judicial and administrative transactions, and thoroughly tested in their loyalty across manifold trials, they would mete out timely punishment according to law even upon their own sons.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Replenishing the treasury and maintaining the fourfold army without oppressing Brāhmaṇas or Kṣatriyas, the ministers proportion punishment strictly to the gravity of the offense, leaving no liar or adulterer in city or countryside.
 </details>
 </details>
 
@@ -666,6 +690,14 @@ None with an evil-mind or with an interest in other man's wife is there, and thu
 **14:** While all those pure-hearted ministers, united in a single purpose, vigilantly oversaw the affairs of state, there was not a single speaker of falsehood anywhere in the capital city or in the countryside.
 
 **15:** Nowhere in that realm was there a wicked man, nor one who coveted another's wife; utterly peaceful and free from all disturbance were both the countryside and that supreme capital city.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Keeping vigil with the eye of statecraft (naya-cakṣus), masters of peace-treaties and war (sandhi and vigraha) and guardians of secret counsel, those ministers assist the sinless King Daśaratha in governing the earth.
 </details>
 </details>
 
@@ -962,6 +994,14 @@ Accompanied with such of those effectual and good-natured ministers the exalted
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Endowed with such ministers as these, rich in every virtue, the sinless King Daśaratha ruled over the earth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounded by his devoted, capable ministers and with all thorns of the realm eradicated by his valor, Emperor Daśaratha shines in glory like the risen Sun united with its blazing rays.
 </details>
 </details>
 

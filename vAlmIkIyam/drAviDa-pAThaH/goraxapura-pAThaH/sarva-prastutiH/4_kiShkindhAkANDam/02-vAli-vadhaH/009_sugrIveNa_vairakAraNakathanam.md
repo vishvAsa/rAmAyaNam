@@ -25,6 +25,14 @@ a kind of indirect portrayal of his enemy's capabilities.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva recounts how Vālin succeeded their father on the throne while he served him humbly, until the demon Māyāvin—locked in a feud over a woman—challenged Vālin at midnight.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाली नाम मम भ्राता ज्येष्ठः शत्रुनिषूदनः ।  
@@ -336,6 +344,14 @@ clamouring voice, did not tolerate and came out speedily. [4-9-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “My brother Vālin, though fast asleep (prasuptas tu), upon hearing the dreadful roar (bhairavasvanam) of him roaring, could not brook it (na mamṛṣe), and rushed out at once with speed (niṣpapāta javāt tadā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brushing aside the queens and Sugrīva, Vālin charges out with Sugrīva following in brotherly love; chased by moonlight, the terrified Māyāvin plunges into a grass-covered subterranean cavern.
 </details>
 </details>
 
@@ -662,6 +678,14 @@ into the hole, whereby his senses felt outraged, and he said this sentence to me
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swearing Sugrīva by his feet to guard the cave entrance, Vālin enters; after a full year passes, foamy blood streams from the chasm, filling Sugrīva with dread.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह तिष्ठाद्य सुग्रीव बिलद्वारि समाहितः ।  
@@ -927,6 +951,14 @@ deeply saddened. [4-9-17]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing only the demons' roars, Sugrīva concludes Vālin is dead, seals the cave with a mountain-sized boulder, performs funeral libations, and is crowned by the ministers before Vālin returns.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नर्दतामसुराणां च ध्वनिर्मे श्रोत्रमागतः ।  
@@ -1121,6 +1153,14 @@ ministers as he spoke rudely. [4-9-22b, 23a]
 **21:** “Then I was consecrated (tato 'haṃ... abhiṣecitaḥ) by them assembled together (taiḥ samāgamya sametaiḥ); and while I was justly governing that kingdom of his (rājyaṃ praśāsatas tasya nyāyato mama), O Rāghava,
 
 **22:** “that Vānara returned after slaying the Dānava foe (ājagāma ripuṃ hatvā dānavaṃ sa tu vānaraḥ); and seeing me consecrated (abhiṣiktaṃ tu māṃ dṛṣṭvā), his eyes bloodshot with rage (krodhāt saṃraktalocanaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Restrained by reverence for his elder brother from resisting Vālin's arrest of the ministers, Sugrīva bows and touches Vālin's feet with his crown, yet Vālin withholds all grace.
 </details>
 </details>
 

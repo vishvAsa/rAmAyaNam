@@ -23,6 +23,14 @@ Vibhishana gets angry and sets off, to leave Ravana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impelled by fate, Rāvaṇa harshly reviles Vibhīṣaṇa as a traitor serving the enemy, denouncing the envious nature of kinsmen and introducing the ancient ballad of the elephants.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुनिविष्टं हितं वाक्यमुक्तवन्तं विभीषणम् ।  
@@ -333,6 +341,14 @@ which saw men with nooses in hand. Hear and I shall tell them."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Verses sung of old by elephants in a lotus-forest (hastibhir gītāḥ ślokāḥ padmavane purā) upon beholding men with nooses in hand (pāśahastān narān dṛṣṭvā) are heard to this day; listen to me as I recite them (śṛṇuṣva gadato mama):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reciting the elephants' song on treacherous kinsmen, Rāvaṇa accuses Vibhīṣaṇa of envying his sovereignty and compares friendship with the ignoble to water on lotus leaves.
 </details>
 </details>
 
@@ -655,6 +671,14 @@ with water, so also friendship does not have tenderness of heart in vulgar peopl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening friendship with the base to a bee on kāśa-blossoms and an elephant's bath, Rāvaṇa curses Vibhīṣaṇa, who rises into the sky with four councillors.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा मधुकरस्तर्षाद् रसं विन्दन्न तिष्ठति ।  
@@ -910,6 +934,14 @@ mace in his hand, soared high into the sky, along with four other demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed with harsh speech, Vibhīṣaṇa, who ever spoke justice (nyāyavādī), sprang up into the sky mace in hand (utpapāta gadāpāṇiḥ) together with four Rākṣasas (caturbhiḥ saha rākṣasaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed in mid-air, Vibhīṣaṇa refuses to brook his erring brother's slanders, echoing Mārīca's maxim that speaker and hearer of unpleasant truth are rare.
 </details>
 </details>
 
@@ -1179,6 +1211,14 @@ around you and which snatches away all beings, as none can ignore a burning hous
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I could not indifferently watch you perishing (na naśyantam upekṣe tvām), bound by the noose of all-devouring Time (baddhaṃ kālasya pāśena sarvabhūtāpahāriṇaḥ), any more than [one watches] a house in flames (pradīptaṃ śaraṇaṃ yathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that even mighty heroes crumble like sand-dams when overtaken by Time, Vibhīṣaṇa begs forgiveness, bids Rāvaṇa a final farewell, and departs.
 </details>
 </details>
 

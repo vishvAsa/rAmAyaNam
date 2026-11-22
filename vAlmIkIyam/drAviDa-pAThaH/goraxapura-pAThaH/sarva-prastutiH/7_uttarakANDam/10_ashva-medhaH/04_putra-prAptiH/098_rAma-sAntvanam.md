@@ -13,6 +13,14 @@ title = "०९८ राम-सान्त्वनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As vānaras and sages acclaim the vanished Sītā, Rāma leans weeping upon his sacrificial staff in unprecedented grief; seized by sorrow and wrath, he demands that Goddess Earth return Sītā or face his fury.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसातलं प्रविष्टायां वैदेह्यां सर्ववानराः ।  
@@ -199,6 +207,14 @@ Having wept for a long while (sa ruditvā ciraṃ kālam), shedding tears again 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Earth that she is his mother-in-law yet threatening to reduce her mountains and forests to primal waters unless she restores Sītā or opens a way for him too, Rāma is calmed by Brahmā, who bids him recall his primordial Vaiṣṇava nature.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं श्वश्रूर्ममैव त्वं त्वत्सकाशात् तु मैथिली ।  
@@ -368,6 +384,14 @@ Even as Kākutstha spoke thus, seized by wrath and sorrow (krodha-śoka-samanvit
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disavowing any presumption of instructing the omniscient Lord, Brahmā reminds Rāma of his Vaiṣṇava descent, assures him that spotless Sītā awaits their reunion in heaven, and announces that Vālmīki’s poem contains all of Rāma’s past and future deeds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न खलु त्वां महाबाहो स्मारयेयमनुत्तमम् ।  
@@ -520,6 +544,14 @@ Even as Kākutstha spoke thus, seized by wrath and sorrow (krodha-śoka-samanvit
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “From your birth onward, O hero, your experience of joys and sorrows (janma-prabhṛti ... sukha-duḥkhopasevanam), together with what is yet to come thereafter (bhaviṣyad uttaraṃ ceha), has all been composed here by Vālmīki.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proclaiming that this Ādikāvya is wholly rooted in Rāma—the sole worthy hero of poetic renown—Brahmā tells him that he himself heard its unveiled truth with the gods and urges Rāma alone, as supreme royal sage, to hear the future Uttara portion.
 </details>
 </details>
 
@@ -681,6 +713,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Indeed, this supreme portion must not be heard by any other, O Kākutstha (na khalv anyena ... śrotavyam), save by you alone, O supreme sage-king (paramam ṛṣiṇā ... tvayaiva), O hero, O delight of the Raghus!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā ascends to heaven while the sages of Brahmaloka stay behind with his leave to hear the future Uttara poem; Rāma asks Vālmīki to begin it at dawn, dismisses the multitude, retires with Kuśa and Lava to the leaf-hut, and spends the night mourning Sītā.
 </details>
 </details>
 

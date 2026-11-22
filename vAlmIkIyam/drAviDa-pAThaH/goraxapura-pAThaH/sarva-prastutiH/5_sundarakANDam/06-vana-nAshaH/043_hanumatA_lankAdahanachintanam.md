@@ -29,6 +29,14 @@ the sanctuary by producing a fire, created out of its friction with the other pi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting that the grove has been shattered but the sanctuary palace remains intact, Hanūmān leaps atop the Meru-like Caityaprāsāda, glowing like a second sun and roaring across Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स किङ्करान् हत्वा हनूमान् ध्यानमास्थितः ।  
@@ -278,6 +286,14 @@ Assuming a colossal body through his supernatural power (prabhāvāt), the son o
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As birds plummet and the temple guards reel from his ear-splitting tail-slap, Hanūmān again thunders his victory proclamation for Rāma, Lakṣmaṇa, and Sugrīva atop the sanctuary.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्फोटितशब्देन महता श्रोत्रघातिना ।  
@@ -484,6 +500,14 @@ Having spoken thus, the colossal leader of the monkey troop, standing upon the s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roused by Hanūmān's roar, a hundred giant sanctuary guards surround him like a whirlpool of the Gaṅgā and strike him with weapons, whereupon he uproots a gold-decked pillar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन नादेन महता चैत्यपालाः शतं ययुः ।  
@@ -620,6 +644,14 @@ extensive whirlpool in the waters of River Ganga.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —and with arrows gleaming like the sun, they assailed the foremost of Vānaras, like a vast, mighty whirlpool (āvartam iva vipulo mahān) of the waters of the Gaṅgā.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whirling the hundred-edged pillar until friction ignites the sanctuary-palace in flames, Hanūmān slays the hundred guards like Indra and proclaims from the sky that thousands of Vānaras roam the earth.
 </details>
 </details>
 
@@ -765,6 +797,14 @@ Then, beholding the palace burning (dahyamānaṃ prāsādam), that leader of th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —stationed in the sky (antarikṣa-sthitaḥ), glorious, spoke these words: “Thousands of high-souled ones like me (mādṛśānāṃ sahasrāṇi) have been sent forth (visṛṣṭāni)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Vānara warriors possessing the strength of ten to a thousand elephants or of the wind itself are coming with Sugrīva, Hanūmān prophesies the doom of Laṅkā and Rāvaṇa.
 </details>
 </details>
 

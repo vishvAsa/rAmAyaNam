@@ -32,6 +32,14 @@ and thus these chapters are held valid.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Sampāti's nectar-sweet words, Jāmbavān rises from the ground with all the monkeys and asks the vulture-king to recount everything he knows of Sītā's abduction.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तदमृतास्वादं गृध्रराजेन भाषितम् ।  
@@ -351,6 +359,14 @@ whom it is said to me, and where that wide-eyed Seetha is... [4-59-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sampāti explains that his dutiful son Supārśva feeds him on the inaccessible Vindhya mountain, and recounts how Supārśva once returned empty-handed at sunset after guarding the pass of Mount Mahendra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमस्मिन् गिरौ दुर्गे बहुयोजनमायते ।  
@@ -663,6 +679,14 @@ the Mt. Mahendra, I very well hovered on it... [4-59-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `I, O father (tāta), having soared into the sky (kham āplutaḥ) in due time seeking flesh (āmiṣārthī), stood firm blocking the gateway of Mount Mahendra (mahendrasya girer dvāram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supārśva narrates how he saw a dark fellow like piled collyrium carrying off a radiant woman, spared him when politely entreated for passage, and was praised by celestial sages.
 </details>
 </details>
 
@@ -996,6 +1020,14 @@ living, fortunately...'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supārśva learns from the Siddhas that the abductor was Rāvaṇa carrying off Rāma's weeping consort Sītā, and wingless Sampāti resolves to aid the monkeys through his speech and counsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्ततोऽहं तैः सिद्धैः परमशोभनैः ।  
@@ -1190,6 +1222,14 @@ information into action it certainly depends on your bravery. [4-59-23b, 24a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For how could a wingless bird (apakṣaḥ pakṣī) undertake any deed (karma kiṃcit)? Yet whatever is possible to be done by me, abiding in the virtues of speech and intellect (vāgbuddhiguṇavartinā)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Dāśarathi's cause is his own, Sampāti praises the monkeys' invincible might and Rāma's world-subduing arrows, urging them to cast off delay and resolve firmly upon action.
 </details>
 </details>
 

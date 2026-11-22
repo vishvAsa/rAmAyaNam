@@ -26,6 +26,14 @@ as crown prince of Kishkindha. The regal splendour of the coronation is narrated
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With wet garments after Vālin's water rites, Sugrīva and the monkey ministers stand with folded hands before Rāma, and Hanumān invites Rāma to enter Kiṣkindhā for Sugrīva's consecration.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शोकाभिसन्तप्तं सुग्रीवं क्लिन्नवाससम् ।  
@@ -217,6 +225,14 @@ impossible for him to regain, Sugreeva regained such a kingdom with your grace. 
 **4:** “By your grace, O descendant of Kakutstha, this great ancestral kingdom (pitṛ-paitāmahaṃ mahat) of the sharp-fanged monkeys endowed with abundant strength—
 
 **5:** “so hard to win even for great-souled ones—has now been obtained, O lord. Permitted by you (bhavatā samanujñātaḥ), having entered the auspicious city,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān entreats Rāma to visit the mountain cavern of Kiṣkindhā, but Rāma cites his fourteen-year vow and directs Sugrīva to be crowned king and Aṅgada heir apparent.
 </details>
 </details>
 
@@ -489,6 +505,14 @@ an imposing one by his might and valour. [4-26-11b, 12a]
 **11:** “be swiftly consecrated in the kingdom according to rule (vidhivad rājye 'bhiṣicyatām).” Having spoken thus to Hanumān, Rāma said to Sugrīva:
 
 **12:** “Knowing right conduct yourself (vṛttajñaḥ), consecrate in the office of heir apparent (yauvarājye 'bhiṣecaya) this heroic Aṅgada as well, who is endowed with noble conduct and generous in strength and valor (udāra-bala-vikramam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring Aṅgada worthy of the crown-princeship, Rāma notes that the four rainy months beginning with Śrāvaṇa have arrived and sets Kārttika as the appointed time to seek Rāvaṇa's destruction.
 </details>
 </details>
 
@@ -822,6 +846,14 @@ by Vali. [4-26-18b, 19a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva enters Kiṣkindhā surrounded by thousands of monkeys, raises his prostrate subjects, visits his brother's inner apartments, and is consecrated like Indra with umbrella and chowries.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं वानरसहस्राणि प्रविष्टं वानरेश्वरम् ॥ १९ ॥  
@@ -1031,6 +1063,14 @@ would anoint the Thousand-eyed Indra. [4-26-22b, 23a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 of mighty strength entered the gentle inner apartments of his brother (bhrātur antaḥpuraṃ saumyam). Then, as Sugrīva, foremost of monkeys and of terrible valor, entered [and came forth],
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkeys assemble coronation offerings including shoots of milky trees, gold, tiger-skin, and sixteen maidens, gratify the brahmins, and offer oblations into the sacred fire.
 </details>
 </details>
 
@@ -1258,6 +1298,14 @@ those men conversant with sacred formulas (mantravido janāḥ) next offered obl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seating Sugrīva facing east on a golden-footed throne atop the palace, Gaja, Gavākṣa, Hanumān, Jāmbavān, and the monkey chiefs consecrate him like the Vasus consecrating Indra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हेमप्रतिष्ठाने वरास्तरणसंवृते ।  
@@ -1397,6 +1445,14 @@ horn of rhino is said to be the highest method of *abhiSeka* anointment.
 **35:** Gaja, Gavākṣa, Gavaya, Śarabha, Gandhamādana, Mainda, Dvivida, Hanumān, and Jāmbavān as well
 
 **36:** consecrated Sugrīva (abhyaṣiñcata sugrīvam) with clear, fragrant water (prasannena sugandhinā salilena), just as the Vasus consecrated Vāsava [Indra], the thousand-eyed lord.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Amid the jubilant roars of hundreds of thousands of monkeys, Sugrīva embraces and consecrates Aṅgada as heir apparent, reports his coronation to Rāma, and regains his wife Rumā.
 </details>
 </details>
 

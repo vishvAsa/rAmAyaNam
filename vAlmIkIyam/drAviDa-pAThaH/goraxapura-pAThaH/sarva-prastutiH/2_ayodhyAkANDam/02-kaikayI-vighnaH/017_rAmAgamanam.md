@@ -23,6 +23,14 @@ blessings and well meaning words of his friends and various people gathered ther
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting his chariot amid joyous well-wishers, Rāma rides down Ayodhyā's incense-fragrant royal highway, beholding its white cloud-like mansions and rich market heaps of sandalwood, pearls, and silks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामो रथमास्थाय  
@@ -214,6 +222,14 @@ and sandal and all types of garlands and perfumes.
 **5:** Wide and unobstructed, that supreme royal highway was strewn with diverse flowers and furnished with confections and foods of every kind, high and low.
 
 **6:** Like the lord of the gods (devapati) looking upon his celestial avenue in heaven, he beheld that royal highway honored with curds, unbroken auspicious grains (akṣata), clarified butter, parched grain (lāja), incense, aloe-wood, and sandal-paste.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning the greetings of every citizen as they pray for his consecration and ancestral rule, Rāma rides on with serene equanimity while listening to their auspicious praises.
 </details>
 </details>
 
@@ -541,6 +557,14 @@ Hearing these and other auspicious speeches of his friends that magnified his gl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Holding every citizen's gaze and devotion through his universal compassion, Rāma circumambulates sacred crossroads and shrines before reaching the cloud-like towers of his father's palace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** हि तस्मान्मनः कश्चिच्चक्षुषी वा नरोत्तमात् ।  
@@ -743,6 +767,14 @@ right side towards them.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Keeping crossroads, temple avenues, sacred trees (caityān), and sanctuaries auspiciously to his right (pradakṣiṇam), the king's son journeyed onward.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crossing three outer courtyards by chariot and two inner courts on foot, Rāma enters his father's apartments while the joyous crowd awaits his return like the ocean awaiting the rising moon.
 </details>
 </details>
 

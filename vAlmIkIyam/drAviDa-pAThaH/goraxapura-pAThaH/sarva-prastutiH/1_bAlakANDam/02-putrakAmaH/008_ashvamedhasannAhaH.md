@@ -29,6 +29,14 @@ scholars and ministers of his court, beforehand.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Longing for a son to perpetuate his solar lineage, King Daśaratha resolves to perform the Vājimedha (Horse-Sacrifice) and commands Sumantra to summon Vasiṣṭha and all his spiritual preceptors.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य चैवम्प्रभावस्य धर्मज्ञस्य महात्मनः ।  
@@ -263,6 +271,14 @@ clerics, quickly.." [1-8-3,4]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon Sumantra of swift stride went quickly and brought together all those preceptors who had crossed to the farthest shore of the Vedas—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring Suyajña, Vāmadeva, Jābāli, Kāśyapa, and Vasiṣṭha, King Daśaratha opens his heart’s sorrow and seeks their counsel on performing the Horse-Sacrifice according to scriptural rule.
 </details>
 </details>
 
@@ -502,6 +518,14 @@ Thereupon all those Brāhmaṇas headed by Vasiṣṭha acclaimed with cries of 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha and the Brāhmaṇas acclaim Daśaratha’s righteous resolve, direct that the sacrificial ground be laid out on the northern bank of the Sarayū, and promise that he shall obtain four noble sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊचुश्च परमप्रीताः सर्वे दशरथं वचः ।  
@@ -571,6 +595,14 @@ suggested itself... let the ritual ground be arranged on the northern banks of R
 **11:** Supremely pleased, all those seers headed by Vasiṣṭha spoke these words to Daśaratha: `Let the sacrificial materials be gathered for you, and let the consecrated steed be set free to roam!
 
 **12:** `And on the northern bank of the Sarayū river let the sacrificial ground be prepared; without doubt, O Sovereign, you shall obtain the sons whom your heart desires—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With eyes brimming with tears of joy, Daśaratha orders his ministers to release the consecrated horse guarded by four hundred warriors and to perform every pacificatory rite so that learned Brahmarākṣasas find no flaw in the sacrifice.
 </details>
 </details>
 
@@ -874,6 +906,14 @@ Brahman scholars hailing that best king took leave of him and went away as they 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having heard that speech of the Lord of Kings in due order, those Dharma-knowing Brāhmaṇas also blessed the foremost of monarchs with auspicious benedictions—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dismissed the seers and his cabinet of ministers, King Daśaratha enters his inner apartments and bids his queens enter upon sacrificial consecration—whereat their lotus-faces bloom like lotuses at the passing of winter.
 </details>
 </details>
 

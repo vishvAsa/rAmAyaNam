@@ -27,6 +27,14 @@ Hanuma conveys her message to Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceeding to Mount Prasravaṇa, the Vānaras report Sītā's captivity and steadfast devotion to Rāma, who eagerly asks after her welfare, prompting the monkeys to urge Hanūmān forward.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रस्रवणं शैलं ते गत्वा चित्रकाननम् ।  
@@ -248,6 +256,14 @@ all the incidents because he knew them better, about Seetha.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing Rāma's words in Rāma's presence, the monkeys urged on (codayanti) Hanūmān, who was thoroughly conversant with the tidings of Sītā (sītāvṛttāntakovidam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing toward the southern quarter in reverence to Sītā and presenting the radiant crest-jewel to Rāma, Hanūmān recounts how he leaped across the hundred-yojana ocean to Laṅkā.
 </details>
 </details>
 
@@ -526,6 +542,14 @@ by those ugly-faced female-demons as also time and again being threatened by the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Describing Sītā's ascetic grief in the Aśoka grove—wearing a single braid and sleeping on the bare ground—Hanūmān recounts how he won her trust by praising the Ikṣvāku lineage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःखमापद्यते देवी त्वया वीर सुखोचिता ॥ १३ ॥  
@@ -770,6 +794,14 @@ and devotion towards you."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān relates the secret token of recognition—the incident of the crow on Mount Citrakūṭa—and repeats Sītā's words entrusting the crest-jewel and the memory of the red-arsenic tilaka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं मया महाभाग दृष्टा जनकनन्दिनी ।  
@@ -910,6 +942,14 @@ you have seen here."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Moreover, O son of the Wind-god, this Rāma must be informed by you in full (akhilena) of everything just as you have seen it (yathā dṛṣṭam),’—so Jānakī spoke to me.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding Sītā's message—that she will survive for only one more month—Hanūmān urges Rāma to bridge the ocean immediately, having consoled both princes with the token and full account.
 </details>
 </details>
 

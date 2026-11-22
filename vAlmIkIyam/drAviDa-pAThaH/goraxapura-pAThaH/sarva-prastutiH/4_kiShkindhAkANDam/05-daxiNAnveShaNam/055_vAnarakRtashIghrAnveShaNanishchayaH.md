@@ -25,6 +25,14 @@ commands, takes this decision on many counts. All the other monkeys follow the s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejecting Hanūmān's praise of Sugrīva, Aṅgada indicts his uncle's usurpation of Tārā, betrayal of Vālin at the cavern mouth, and ingratitude toward Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा हनुमतो वाक्यं प्रश्रितं धर्मसंहितम् ।  
@@ -317,6 +325,14 @@ his own unscrupulousness, how then can scrupulosity be manifest in him? [4-55-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “How could righteousness exist in him who ordered [us] here to search for Sītā out of fear of Lakṣmaṇa (lakṣmaṇasya bhayena), and not from fear of the peril of unrighteousness (nādharmabhayabhīruṇā)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Convinced that Sugrīva will subject his rival's son to secret execution or lifelong imprisonment, Aṅgada resolves to fast unto death rather than return to Kiṣkindhā.
 </details>
 </details>
 
@@ -646,6 +662,14 @@ death, as death alone is expedient to me. [4-55-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sending farewell salutations to Rāma, Lakṣmaṇa, Sugrīva, and Rumā, and entreating the elders to console his mother Tārā, Aṅgada lies weeping upon the sacred grass.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवादनपूर्वं तु राजा कुशलमेव च ।  
@@ -905,6 +929,14 @@ down for fasting unto death in step with Angada. [4-55-18b, 19a]
 **17:** Aṅgada, dejected in mind (durmanāḥ), entered upon the ground weeping on the darbha grass (darbheṣu); and as he lay down there, the foremost of Vānaras wept,
 
 **18:** And, stricken with grief, shed hot tears (uṣṇaṃ vāri) from their eyes, reviling Sugrīva and praising Vālin.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joining Aṅgada on the northern shore of the ocean, the monkeys sit facing east on southward-pointing grass, filling the mountain caves with lamentations over Rāma's calamities.
 </details>
 </details>
 

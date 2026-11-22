@@ -13,6 +13,14 @@ title = "१०९ सानुचरं निर्गमनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak Rāma directs Vasiṣṭha to send the blazing Agnihotra fire and Vājapeya parasol ahead and perform the entire Mahāprasthāna rite; clad in fine linen, reciting the supreme Brahman with kuśa grass in hand, Rāma emerges radiant as the sun, flanked by Śrī, Hrī, and steadfast Resolve.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां पृथुवक्षा महायशाः ।  
@@ -202,6 +210,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 At Rāma’s right side waited Śrī, holding her lotus (dakṣiṇe pārśve sapadmā śrīr apāśritā); at his left walked the great goddess Hrī (savye tu hrīr mahādevī), and before him went Vyavasāya [Cosmic Resolve] (vyavasāyas tathāgrataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma’s bow, arrows, and weapons follow him in human form, alongside the Vedas as brahmins, Gāyatrī, Oṅkāra, Vaṣaṭkāra, and great sages; behind them march the women of the royal inner chambers, Bharata and Śatrughna with their households, and twice-born fire-keepers with their families.
 </details>
 </details>
 
@@ -397,6 +413,14 @@ And all those great-souled twice-born who had assembled with their sacred fires 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ministers, servants, and every rank of citizens—men and women with their children, kinsmen, birds, cattle, and mounts—stream joyfully after Rāma alongside bathed, exultant monkeys; not one soul appears downcast, ashamed, or grieving in that wondrous procession.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रिणो भृत्यवर्गाश्च सपुत्रपशुबान्धवाः ।  
@@ -527,6 +551,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Not a single soul there was downcast, abashed, or sorrowful (na tatra kaścid dīno vā vrīḍito vā ’pi duḥkhitaḥ); the whole assembled multitude stood exultant and united, a marvel beyond all wonder (hṛṣṭaṃ samuditaṃ sarvaṃ babhūva paramādbhutam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even countryfolk who came merely to glimpse Rāma’s departure joyfully join his train alongside bears, monkeys, rākṣasas, and townspeople; invisible city spirits, creatures mobile and immobile, animals, and every tiniest breathing thing follow him, leaving Ayodhyā utterly empty of life.
 </details>
 </details>
 

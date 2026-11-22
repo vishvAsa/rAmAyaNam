@@ -25,6 +25,14 @@ horses with blows. After killing Aksha, Hanuma returns again to the same archy d
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that his five generals are slain, Rāvaṇa glances at Prince Akṣa, who leaps up like sacrificial fire kindled with oblations and mounts his austerity-won, sky-faring golden chariot to confront Hanūmān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेनापतीन् पञ्च स तु प्रमापितान्  
@@ -354,6 +362,14 @@ shining like rays of sun.
 **5:** Unassailable by gods or Asuras (surāsurādhṛṣyam), moving unimpeded (asaṅgacāriṇam), flashing like lightning, coursing through the sky (vyomacaram), well-equipped, furnished with quivers (satūṇam), its frame bound with eight swords (aṣṭāsinibaddhabandhuram), and stocked in due order with javelins and lances (yathākramāveśitaśaktitomaram)—
 
 **6:** Resplendent with complete martial gear (pratipūrṇavastunā) together with golden cords (sahemadāmnā) and gleaming like the moon and the sun (śaśisūryavarcasā)—having mounted that sun-bright chariot, he of valor equal to the immortals went forth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filling earth and sky with the din of steeds, elephants, and chariots, Akṣa approaches Hanūmān on the archway, regards his foe with esteem, and challenges him with three sharp arrows, initiating an awe-inspiring duel.
 </details>
 </details>
 
@@ -740,6 +756,14 @@ demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Adorned with a golden chest-medallion, armlets, and lovely earrings (hemaniṣkāṅgadacārukuṇḍalaḥ), he of swift valor closed with the monkey; between those two arose a peerless encounter (apratimaḥ samāgamaḥ) that inspired awe even in the gods and Asuras (surāsurāṇām api saṃbhramapradaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As earth cries out, the wind stills, and the ocean surges at their clash, Akṣa plants three gold-feathered shafts on Hanūmān's brow and pours arrows like a storm-cloud upon a mountain, while Hanūmān blazes like the midday sun on Mount Mandara.
 </details>
 </details>
 
@@ -1137,6 +1161,14 @@ Then in battle that Rākṣasa-cloud (rākṣasāmbudaḥ), having his bow for I
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring with joy, Hanūmān leaps into the sky as youthful Akṣa rushes at him like an elephant toward a grass-covered pit; darting like the wind through the gaps between Akṣa's shafts, Hanūmān regards the prince with admiration and ponders.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपिस्ततस्तं रणचण्डविक्रमं  
@@ -1530,6 +1562,14 @@ The son of the Wind looked with an eye of high esteem (bahumānacakṣuṣā) up
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced between the shoulders by Akṣa's shafts, Hanūmān admires the youth's superhuman prowess and endurance, yet concludes that a growing fire must not be ignored and resolves to slay him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शरैर्भिन्नभुजान्तरः कपिः  
@@ -1847,6 +1887,14 @@ battle. The only option left out for me is to kill him now. It is not proper to 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 If ignored (upekṣitaḥ), this one will surely not fail to overpower (na khalv ayaṃ nābhibhavet) [me], for his valor increases in battle; therefore slaying him (pramāpaṇaṃ hy asya) pleases me today—a growing fire cannot safely be ignored (na vardhamāno 'gnir upekṣituṃ kṣamaḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving to slay Akṣa, Hanūmān strikes down the chariot's eight wheeling steeds with palm-blows in mid-air; when Akṣa leaps sword and bow in hand from his crashing car like an ascending sage, Hanūmān seizes him firmly by the feet.
 </details>
 </details>
 
@@ -2176,6 +2224,14 @@ supernatural powers, slowly grasped his feet firmly.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, overtaking (sametya) him as he coursed through the sky frequented by Garuḍa, the Wind, and Siddhas (patatrirājānilasiddhasevite), the monkey of wind-swift valor (mārutavegavikramaḥ) in due course seized him firmly by the feet (jagrāha ca pādayor dṛḍham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whirling Akṣa a thousand times like Garuḍa clutching a great serpent, Hanūmān dashes him broken and lifeless to the earth, filling Rāvaṇa with dread and the watching celestials with wonder as he resumes his post on the archway.
 </details>
 </details>
 

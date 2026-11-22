@@ -13,6 +13,14 @@ title = "०४८ सीता-विलापः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fainting at Lakṣmaṇa’s dreadful disclosure, Sītā revives in tears to lament that her body was created solely for sorrow, wondering what past sin severed her from Rāma and left her solitary in exile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य वचः श्रुत्वा दारुणं जनकात्मजा ।  
@@ -196,6 +204,14 @@ Lying as though senseless for a moment (muhūrtam ivāsañjñā), Janaka’s dau
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “How indeed, O gentle one (saumya), shall I now dwell in a hermitage left utterly alone (vatsyāmi vijanīkṛtā)? And to whom shall I confide my grief (ākhyāsyāmi ca kasyāhaṃ duḥkham), given over wholly to sorrow (duḥkha-parāyaṇā)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refusing to drown herself in the Gaṅgā lest Rāma’s royal line perish with her unborn child, Sītā bids Lakṣmaṇa obey the king, bow to her mothers-in-law, and remind Rāma of her pure devotion.
 </details>
 </details>
 
@@ -391,6 +407,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting her exile to shield Rāma’s renown, Sītā exhorts him to cherish the citizens like his own brothers, affirms her spousal devotion above life, and bids Lakṣmaṇa witness her pregnancy before departing.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं त्यक्ता च ते वीर अयशोभीरुणा जने ।  
@@ -531,6 +555,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speechless with grief, Lakṣmaṇa bows to the earth, circumambulates Sītā weeping aloud, protests that having seen only her feet he cannot look upon her alone in the forest, and re-embarks upon the boat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति मद्वचनाद् रामो वक्तव्यो मम सङ्ग्रहः ॥ १८ ॥  
@@ -658,6 +690,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus and bowed in homage to her (tāṃ namaskṛtya), he went once more to the boat (punar nāvam upāruhat), and having embarked again upon the vessel (āruhya ca punar nāvam), he urged the boatman onward (nāvikaṃ cābhyacodayat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the northern bank, a grief-stunned Lakṣmaṇa mounts the chariot and drives off looking back repeatedly at Sītā, who watches the receding car until sorrow overwhelms her in the peacock-echoing forest.
 </details>
 </details>
 

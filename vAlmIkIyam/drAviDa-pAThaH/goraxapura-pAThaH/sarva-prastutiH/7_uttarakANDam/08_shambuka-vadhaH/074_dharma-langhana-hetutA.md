@@ -13,6 +13,14 @@ title = "०७४ धर्म-लङ्घन-हेतुता"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the brahmin’s heartbreaking lament over his dead son, a grief-stricken Rāma summons his brothers, ministers, citizens, and eight great sages led by Vasiṣṭha, and lays the brahmin’s grievous complaint before the radiant assembly.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तु करुणं तस्य द्विजस्य परिदेवनम् ।  
@@ -219,6 +227,14 @@ before all those seated sages of blazing splendor (teṣāṃ samupaviṣṭān�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing the downcast king before the sages, Nārada begins a four-age exposition of cosmic dharma: in the radiant Kṛta age only brāhmaṇas practiced austerity and all lived free from untimely death, whereas in Tretā kṣatriyas too became ascetics, though lesser in might than Kṛta’s seers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राज्ञो दीनस्य नारदः ॥ ७ ॥  
@@ -418,6 +434,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nārada recounts how brāhmaṇas and kṣatriyas became equal in austerity during Tretā, prompting the codification of the four orders’ distinct duties; then Adharma set its first foot—called Anṛta—upon the earth, dimming human splendor and fixing a limit to lifespan, though the people still strove in auspicious deeds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म क्षत्रं च तत् सर्वं यत् पूर्वमवरं च यत् ॥ १३ ॥  
@@ -601,6 +625,14 @@ Yet even when that Anṛta and Adharma had fallen upon the earth (patite tv an�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nārada outlines the social order of Tretā—where brāhmaṇas and kṣatriyas practiced austerity while vaiśyas and śūdras practiced service—and traces the subsequent decline that ushered in the Dvāpara age, when Adharma planted its second foot and both unrighteousness and falsehood grew.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पातिते त्वनृते तस्मिन्न्  
@@ -745,6 +777,14 @@ When that waning age named Dvāpara was underway (tasmin dvāpara-sañjñe tu va
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing his four-age chart, Nārada reveals that austerity extended to vaiśyas in Dvāpara and will belong to śūdras only in the future Kali age; therefore the misguided śūdra performing severe penance right now on the borders of Rāma’s Tretā realm is the exact cause of the brahmin boy’s death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् द्वापरसङ्ख्ये तु  
@@ -852,6 +892,14 @@ In the Kali age, indeed, the practice of austerity shall come to be in the śūd
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Verily, on the frontier of your realm, O king (viṣaya-paryante tava rājan), that misguided one of great austerity (mahātapāḥ ... durbuddhiḥ) is practicing penance even today (adya tapyati)—from that alone comes this slaying of the child (tena bāla-vadho hy ayam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Explaining that a king who enjoys a sixth share of his subjects’ merit must answer for unchecked adharma in his realm, Nārada urges Rāma to search his kingdom and eradicate the transgression, promising that dharma, human longevity, and the dead child’s life will all be restored.
 </details>
 </details>
 

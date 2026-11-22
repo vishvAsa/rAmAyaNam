@@ -23,6 +23,14 @@ him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As only a fraction of the night remains and Vedic chants of brahma-rākṣasas resound, Rāvaṇa awakens to auspicious music and sets out toward the aśoka grove, consumed by passion for Vaidehī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा विप्रेक्षमाणस्य वनं पुष्पितपादपम् ।  
@@ -278,6 +286,14 @@ was not capable to suppress in self that desire.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Vehemently impelled toward her (bhṛśaṃ niyuktas tasyāṃ ca) and intoxicated with passion by the god of love (madanena madotkaṭaḥ), that rākṣasa could not conceal that passion within himself (śaśākātmani gūhitum).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing along pathways arched with gems and gold, Rāvaṇa enters the bird-filled aśoka grove followed by a hundred women bearing golden lamps, chowries, water-ewers, and cushions.
 </details>
 </details>
 
@@ -547,6 +563,14 @@ with circular ends.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With golden pitchers (kāñcanaiś caiva bhṛṅgāraiḥ) some carried water in front (agrataḥ), while others walked behind (pṛṣṭhato yayuḥ) holding round-edged seat-cushions (maṇḍalāgrā bṛsīś caiva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing a jeweled wine-goblet and a swan-white parasol, Rāvaṇa's drowsy, wine-flushed wives—their necklaces askew and cosmetics rubbed away—follow their lord like lightning-streaks trailing a cloud.
 </details>
 </details>
 
@@ -832,6 +856,14 @@ Those beloved wives (priyabhāryāḥ), women with captivating eyes (madiralocan
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his mind infatuated with Sītā, Rāvaṇa sways with a slow gait as Hanumān hears the tinkling of girdles and anklets and sees him arrive at the grove's gateway like Kandarpa incarnate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च कामपराधीनः पतिस्तासां महाबलः ।  
@@ -1075,6 +1107,14 @@ like the god of love in person with bow kept at a distance.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Endowed with passion, pride, and intoxication (kāmadarpamadair yuktam), with obliquely glancing, coppery, wide eyes (jihmatāmrāyatekṣaṇam), like Kandarpa visibly manifest in person (samakṣam iva kandarpam) with his bow laid aside (apaviddhaśarāsanam),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adjusting his spotless milk-foam-white garment caught on his armlet, Rāvaṇa enters the pleasure-grove surrounded by fair women while Hanumān peers through the dense foliage.
 </details>
 </details>
 
@@ -1322,6 +1362,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Intoxicated (kṣībaḥ), decked in variegated ornaments (vicitrābharaṇaḥ), erect-eared (śaṅkukarṇaḥ), and of mighty strength, that lord of rākṣasas, son of Viśravas (viśravasaḥ putraḥ), was beheld by him.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Rāvaṇa encircled by women like the moon among stars, Hanumān leaps to a denser bough to shield himself from Rāvaṇa's fiery aura as the demon approaches Sītā.
 </details>
 </details>
 

@@ -22,6 +22,14 @@ Rama's presence. Seetha casts her looks on the moon-like face of Rama, her belov
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding her ten-necked husband slain by Rāma of inconceivable deeds, Rāvaṇa's beloved chief queen Mandodarī gazes piteously upon her lord and begins her heart-rending lament.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच महाप्राज्ञः सोऽभिवाद्य प्लवङ्गमः ।  
@@ -285,6 +293,14 @@ follows) to Vibhishana, who closely resembled a cloud in hue and who was standin
 **5:** Yet you have been vanquished in battle by Rāma, a mere mortal (mānuṣamātreṇa)! Are you not ashamed, O king? What is this, O lord of Rākṣasas?
 
 **6:** How did a forest-roaming mortal (mānuṣo vanagocaraḥ) slay you, who had subjugated the three worlds, were endowed with splendour and valour, and were irresistible?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refusing to believe that a mere mortal could vanquish Rāvaṇa, Mandodarī infers that Rāma is either Death himself or the eternal Supreme Lord Viṣṇu.
 </details>
 </details>
 
@@ -579,6 +595,14 @@ bidding of Rama, your husband, as he has enjoined you to do."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 having neither beginning, middle, nor end (anādimadhyanidhanaḥ), greater than the great, supreme beyond darkness (tamasaḥ paramaḥ), the Ordainer bearing the conch, discus, and mace!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hailing Rāma as Lord Viṣṇu incarnate accompanied by the gods in Vānara form, Mandodarī laments that Rāvaṇa's own senses conquered him and ignored her warnings.
 </details>
 </details>
 
@@ -898,6 +922,14 @@ was entered by Hanumān through his valour, even then we were struck with anguis
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rebuking Rāvaṇa for abducting the Supremely chaste Sītā from the lonely forest, Mandodarī declares that he has been consumed by the fire of a devoted wife's austerity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसाधिपते सौम्य नित्यं मद्विजये रत ।  
@@ -1203,6 +1235,14 @@ resentment (at the behaviour of the demons who were dispersing them).
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That you were not burned to ashes the very moment you laid hands upon that slender-waisted lady (tanumadhyamām) is only because all the gods, together with Indra and headed by Agni, feared you!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting Vibhīṣaṇa's felicity with Rāvaṇa's self-inflicted doom, Mandodarī declares that Sītā is neither her superior nor her equal in lineage, beauty, or grace.
 </details>
 </details>
 
@@ -1525,6 +1565,14 @@ monkeys see Seetha in my presence."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Death born of the cause of Sītā (sītānimittajo mṛtyuḥ) was brought here by you from afar! Maithilī, free from sorrow, will now sport happily with Rāma—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunged into an ocean of grief after sporting with Rāvaṇa across celestial mountains, Mandodarī cries fie upon the fickle fortune of kings and mourns his once-radiant face.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ infuriated Sage Vashishta resorts to his Brahma-baton to confront Vishvamitra.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Vasiṣṭha to create by her yogic potency, Śabalā brings forth hosts of warriors from every limb who annihilate Viśvāmitra’s army, and Vasiṣṭha burns the king’s hundred sons to ashes with a single huṃkāra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तानाकुलान् दृष्ट्वा विश्वामित्रास्त्रमोहितान् ।  
@@ -275,6 +283,14 @@ sounds. [1-55-5, 6]
 **5:** Beholding their army annihilated (dṛṣṭvā niṣūditaṃ sainyam) by the high-souled Vasiṣṭha, Viśvāmitra’s hundred sons, armed with weapons of every kind (viśvāmitrasutānāṃ tu śataṃ nānāvidhāyudham)—
 
 **6:** —rushed in furious wrath (abhyadhāvat susaṃkruddham) against Vasiṣṭha, the foremost of japa-reciters (japatāṃ varam); with a mere huṃkāra syllable (huṃkāreṇaiva), the great seer burned them all to ashes (tān sarvān nirdadāha mahān ṛṣiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of his sons and army, Viśvāmitra sinks into despondency like a waveless ocean, a fangless serpent, an eclipsed sun, and a wing-clipped bird; installing one surviving son on the throne, he retires to Himavat to propitiate Śiva.
 </details>
 </details>
 
@@ -581,6 +597,14 @@ Proceeding to the slopes of Mount Himavat (gatvā himavatpārśve), frequented b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased by Viśvāmitra’s penance, bull-bannered Mahādeva appears before him and grants his prayer for the entire Dhanurveda with its auxiliaries, esoteric mantras, and secret doctrines, together with all celestial missiles.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनचित् त्वथ कालेन देवेशो वृषभध्वजः ।  
@@ -823,6 +847,14 @@ aspiration.' Thus Vishvamitra entreated God Shiva. [1-55-17, 18a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever missiles exist among the gods, the dānavas, and the great seers (yāni deveṣu cāstrāṇi dānaveṣu maharṣiṣu), and among the gandharvas, yakṣas, and rākṣasas—may they all flash forth in my mind (pratibhāntu mamānagha), O sinless Lord!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swelling with pride like the ocean at full moon upon receiving Śiva’s missiles, Viśvāmitra burns Vasiṣṭha’s penance-grove, putting sages, disciples, deer, and birds to flight until the hermitage resembles a silent, arid wasteland.
 </details>
 </details>
 
@@ -1141,6 +1173,14 @@ evacuee. [1-55-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The hermitage of the high-souled Vasiṣṭha became utterly deserted (śūnyam āsīn mahātmanaḥ); for an hour it stood devoid of all sound, resembling a barren, saline desert (muhūrtam iva niḥśabdam āsīd īriṇasaṃnibham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Vasiṣṭha repeatedly calls out to his fleeing disciples that he will dispel Gādhi’s son like morning mist before the sun, he turns in righteous fury upon Viśvāmitra and raises his ascetic staff like a second rod of Yama.
 </details>
 </details>
 

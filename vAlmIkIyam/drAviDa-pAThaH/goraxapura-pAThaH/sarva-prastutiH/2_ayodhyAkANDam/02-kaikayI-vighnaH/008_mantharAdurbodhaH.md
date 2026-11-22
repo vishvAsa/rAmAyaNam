@@ -25,6 +25,14 @@ Manathara's sinful words.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spurning the jewel-gift in anger, Mantharā chides Kaikeyī for rejoicing amid an ocean of grief and warns that Rāma fears Bharata as a rival to the throne.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्थरा त्वभ्यसूय्यैनामुत्सृज्याभरणं हि तत् ।  
@@ -342,6 +350,14 @@ For mighty-armed Lakṣmaṇa is devoted to Rāma with his whole soul, and Śatr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mantharā argues that Bharata stands next in birth-order after Rāma and warns that Kaikeyī and her son will be reduced to servitude under Kausalyā and Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यासन्नक्रमेणापि भरतस्यैव भामिनि ।  
@@ -649,6 +665,14 @@ was a norm then for a king to have more than one wife.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Joyful indeed will be the noble women of Rāma’s household, whereas your daughters-in-law will be joyless upon the ruin of Bharata!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unmoved by Mantharā’s malice, Queen Kaikeyī extols Rāma’s righteousness, seniority, and filial devotion exceeding even His service to Kausalyā.
 </details>
 </details>
 
@@ -979,6 +1003,14 @@ Just as Bharata is worthy of my honor, even so—nay, still more—is Rāghava; 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Kaikeyī affirms that Rāma’s kingship belongs equally to Bharata, Mantharā sighs hotly and warns that royal succession passes to Rāma’s own son, excluding Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्यं यदि हि रामस्य भरतस्यापि तत् तदा ।  
@@ -1283,6 +1315,14 @@ Therefore, O faultless-limbed Kaikeyī, kings vest the reins of government in th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mantharā warns that Rāma will banish or slay Bharata and blames Kaikeyī for sending Bharata away to his maternal uncle’s house in childhood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असावत्यन्तनिर्भग्नस्तव पुत्रो भविष्यति ।  
@@ -1548,6 +1588,14 @@ Drawn by Bharata’s affection, Śatrughna too went along with him; for just as 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the fable of the tree saved by thorny reeds and the twin-like bond of Rāma and Lakṣmaṇa, Mantharā urges that Rāma be sent to the forest directly from the palace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयते हि द्रुमः कश्चिच्छेत्तव्यो वनजीवनैः ।  
@@ -1797,6 +1845,14 @@ your side of relatives."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus there will be welfare for your kindred as well, if Bharata rightfully obtains his ancestral kingdom.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing Bharata to an elephant calf pursued by a lion, Mantharā urges Kaikeyī to secure the throne for Bharata and contrive Rāma’s banishment.
 </details>
 </details>
 

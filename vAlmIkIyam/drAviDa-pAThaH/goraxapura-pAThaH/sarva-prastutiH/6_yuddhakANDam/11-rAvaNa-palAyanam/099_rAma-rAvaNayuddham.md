@@ -27,6 +27,14 @@ Rama, all the monkeys shout loudly with a rejoice.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by Mahodara’s death, Mahāpārśva decapitates and maims Aṅgada’s monkeys with showers of arrows until Aṅgada surges forward like the ocean, brandishing an iron bar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदरमहापार्श्वौ हतौ दृष्ट्वा स रावणः ।  
@@ -266,6 +274,14 @@ in all the ten directions, with the sound of the chariot, rushing towards Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 surged forward in mighty speed (vegaṃ cakre mahāvegaḥ) like the ocean at the change of the moon (samudra iva parvasu); seizing an iron bar radiant as the rays of the sun (sūryaraśmisamaprabham),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada’s blow fells Mahāpārśva and his charioteer; Jāmbavān crushes his steeds and car with a boulder, yet the revived demon pierces Aṅgada, Jāmbavān, and Gavākṣa.
 </details>
 </details>
 
@@ -560,6 +576,14 @@ He struck the king of bears and Gavākṣa with many arrows. Seeing Gavākṣa a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whirling a sun-bright iron bar with both arms, Aṅgada knocks Mahāpārśva’s bow and helmet away before slapping his earringed ear-root with an open palm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो महातेजाः सौमित्रिसहितो बली ॥ १३ ॥  
@@ -757,6 +781,14 @@ moon and the sun.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 struck him wrathfully with his palm (talena) at the base of the ear adorned with an earring (karṇamūle sakuṇḍale). Enraged, swift, and radiant Mahāpārśva
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mahāpārśva brings an oil-washed steel battle-axe down on Aṅgada’s left shoulder, but Vāli’s son parries it and drives his thunderbolt fist into the demon’s heart.
 </details>
 </details>
 
@@ -1006,6 +1038,14 @@ through anger, released streams of arrows upon him.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 he drove down that fist whose impact matched Indra’s thunderbolt (indrāśanisamasparśam). Through that blow of his upon the rākṣasa in the great battle,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His heart split open, Mahāpārśva falls dead; the monkey host roars loud enough to crack Laṅkā’s towers, driving Rāvaṇa back to battle.
 </details>
 </details>
 

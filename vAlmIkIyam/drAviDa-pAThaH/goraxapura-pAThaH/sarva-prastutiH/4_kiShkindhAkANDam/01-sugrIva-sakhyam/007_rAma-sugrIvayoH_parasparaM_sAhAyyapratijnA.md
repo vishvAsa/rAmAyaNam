@@ -26,6 +26,14 @@ Sugreeva. And Sugreeva also promises to make all his efforts to search for Seeth
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved to tears by Rāma's anguish, Sugrīva confesses ignorance of the demon's lair yet vows to recover Maithilī, urging Rāma to recall his innate fortitude and cast off despondency.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सुग्रीवो रामेणार्तेन वानरः ।  
@@ -347,6 +355,14 @@ not despair this way, nor I have forsaken my courage... [4-7-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting his own humble monkey nature with Rāma's noble discipline, Sugrīva counsels that a steadfast man never sinks in calamity like an overloaded boat, begging Rāma to reclaim his valor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहं तामनुशोचामि प्राकृतो वानरोऽपि सन् ।  
@@ -662,6 +678,14 @@ brilliance too dwindles, thus saddening is inapt on your part... [4-7-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Humbly clarifying that he speaks out of friendship rather than presumption, Sugrīva consoles Rāma, who wipes his tear-stained face, regains his composure, embraces Sugrīva, and praises his timely counsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोकेनाभिप्रपन्नस्य जीविते चापि संशयः ।  
@@ -928,6 +952,14 @@ and a timely one too, is what you have performed with your friendly advise... [4
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Restored to composure, Rāma extols Sugrīva as a rare friend in adversity, asks him to search for Maithilī and Rāvaṇa, and assures him that his own pledge will bear fruit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष च प्रकृतिस्थोऽहमनुनीतस्त्वया सखे ।  
@@ -1132,6 +1164,14 @@ tigerly-monkey, deem them as doubtless facts... [4-7-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And this word that has been uttered by me out of heroic pride (abhimānāt samīritam)—let that be firmly held by you as the very truth (tattvam ity upadhāryatām), O tiger among monkeys (hariśārdūla)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma swears by Truth itself that he has never spoken falsehood and never will, filling Sugrīva and his ministers with joy so that Sugrīva deems his mission already accomplished.
 </details>
 </details>
 

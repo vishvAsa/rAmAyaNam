@@ -27,6 +27,14 @@ listen more of his brother Jataayu.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerging from a Vindhya cavern, the ancient vulture Sampāti rejoices at the sight of the fasting monkeys and vows to devour them one by one as they die.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपविष्टास्तु ते सर्वे यस्मिन् प्रायं गिरिस्थले ।  
@@ -293,6 +301,14 @@ then spoke to Hanuma. [4-56-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech of that bird greedy for food (bhakṣyalubdhasya pakṣiṇaḥ), Aṅgada, exceedingly distressed (paramāyastaḥ), then spoke to Hanūmān:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting to Hanūmān that Yama himself has arrived in vulture form, Aṅgada praises Jaṭāyus for dying nobly in Rāma's service while the monkeys perish unfulfilled.
 </details>
 </details>
 
@@ -623,6 +639,14 @@ Maithili... [4-56-12, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Aṅgada envying Jaṭāyus's glorious death at Rāvaṇa's hands and blaming Kaikeyī's boon for all their woes, the shaken vulture Sampāti cries out in grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सुखी गृध्रराजस्तु रावणेन हतो रणे ।  
@@ -931,6 +955,14 @@ hearing words voiced by Angada. [4-56-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech thus issuing from Aṅgada's mouth (aṅgadasya mukhodgatam), the sharp-beaked vulture (tīkṣṇatuṇḍaḥ) of mighty voice spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trembling at the news of his beloved brother Jaṭāyus's death, the wing-scorched Sampāti begs the monkeys to carry him down from the crag and recount the battle.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०७१ रामायण-श्रवणम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting out from Mathurā in the twelfth year with a modest escort to visit Rāma in Ayodhyā, Śatrughna halts after seven or eight stages at Vālmīki’s hermitage, where the sage honors him, recounts sweet tales, and praises his slaying of Lavaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो द्वादशमे वर्षे शत्रुघ्नो रामपालिताम् ।  
@@ -214,6 +222,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And the sage spoke words turning upon the slaying of Lavaṇa (lavaṇasya vadhāśritam): “A most difficult feat was accomplished by you (su-duṣkaraṃ kṛtaṃ karma) in slaying Lavaṇa (lavaṇaṃ nighnatā tvayā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālmīki extols Śatrughna’s effortless slaying of Lavaṇa—declaring that he witnessed the duel himself from Indra’s assembly hall—and, moved by overflowing affection, announces that he will kiss the young hero upon the crown of his head.
 </details>
 </details>
 
@@ -422,6 +438,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After dining in Vālmīki’s hermitage, Śatrughna hears the Rāmāyaṇa sung in exquisite musical perfection; overcome with tears as past deeds seem to unfold anew before him, he and his retinue marvel in humbled awe.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मूर्ध्नि शत्रुघ्नमुपाघ्राय महामतिः ।  
@@ -619,6 +643,14 @@ As if bereft of consciousness for a moment (muhūrtam ivāsañjñaḥ), sighing 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And the king’s attendants (padānugāś ca ye rājñaḥ), hearing that richness of song (tāṃ śrutvā gīti-sampadam), stood with downcast faces and humbled hearts (avāṅmukhāś ca dīnāś ca), exclaiming, “What a marvel (āścaryam iti cābruvan)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bewildered to hear events they themselves witnessed sung inside a remote hermitage, Śatrughna’s soldiers urge him to question Vālmīki; restraining their curiosity out of reverence for the sage’s marvels, Śatrughna bows and retires for the night.
 </details>
 </details>
 

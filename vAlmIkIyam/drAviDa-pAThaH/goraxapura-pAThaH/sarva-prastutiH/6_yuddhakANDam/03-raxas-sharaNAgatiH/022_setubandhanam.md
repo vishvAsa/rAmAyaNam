@@ -25,6 +25,14 @@ accordingly constructs a bridge across the sea with the help of other monkeys.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged by the ocean's silence, Rāghava threatens to dry up the sea down to the netherworld and draws his supreme bow charged with the missile of Brahmā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोवाच रघुश्रेष्ठः सागरं दारुणं वचः ।  
@@ -291,6 +299,14 @@ When that bow (śarāsane) was suddenly drawn by Rāghava, heaven and earth (rod
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma draws the Brahmā-missile, cosmic portents erupt across heaven and earth: darkness shrouds the sun, meteors blaze, and hurricane winds shatter mountain peaks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमश्च लोकमावव्रे दिशश्च न चकाशिरे ।  
@@ -532,6 +548,14 @@ with a great sound and then there were great thunders.
 **11:** Tearing apart (ārujan) the mountain crests, it shattered the peaks (śikharāṇi); and in the sky, mighty clouds massed together (saṃhatāḥ) with a tremendous roar (samahāsvanāḥ).
 
 **12:** Those great thundercloud-bolts (mahāśanayaḥ) then discharged fires of lightning (vaidyutān agnīn), and all visible creatures (bhūtāni dṛśyāni) shrieked aloud along with the thunderbolt (aśaneḥ samam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As invisible spirits cower and the sea surges a full yojana beyond its shore, Sāgara himself rises from the deep like the sun over Mount Meru.
 </details>
 </details>
 
@@ -794,6 +818,14 @@ Attended by serpents with flaming mouths (pannagaiḥ saha dīptāsyaiḥ), the 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resplendent in red garments, sea-born gems, and the brother of the Kaustubha jewel, Sāgara approaches Rāma surrounded by Gaṅgā, Sindhu, and the river-goddesses.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्तमाल्याम्बरधरः पद्मपत्रनिभेक्षणः ।  
@@ -932,6 +964,14 @@ Looking like Mount Himavān decked with diverse mineral ores (dhātubhir maṇ�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Wearing upon his broad chest (vipulenorasā) that brother of the Kaustubha gem (kaustubhasya sahodaram), with his masses of waves swirling (āghūrṇitataraṅgaughaḥ) and thronged by dark cloud-banks and winds (kālikānilasaṃkulaḥ);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleading the immutable law of the five elements, Sāgara promises to support a bridge for the monkeys, and Rāma asks where his unfailing Brahmā-missile should strike.
 </details>
 </details>
 
@@ -1258,6 +1298,14 @@ Hearing Rāma's words and beholding that mighty arrow (mahāśaram), the great o
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Sāgara's request, Rāma discharges his blazing arrow northward against the wicked Ābhīra robbers of Drumakulya, scorching the land into the desert of Marukāntāra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य वचनं श्रुत्वा तं च दृष्ट्वा महाशरम् ।  
@@ -1568,6 +1616,14 @@ Pierced by the arrow-point (śalyapīḍitā), the earth roared aloud there, and
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From the arrow's cleft springs the well named Vraṇa, and Rāma blesses the newly scorched desert of Marukāntāra with cattle, herbs, and sweet produce.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननाद च तदा तत्र वसुधा शल्यपीडिता ।  
@@ -1796,6 +1852,14 @@ an auspicious and suitable move, bestowing these merits.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When that hollow had been scorched dry (tasmin dagdhe tadā kukṣau), the Ocean, lord of rivers (saritāṃ patiḥ), spoke these words to Rāghava, knower of all scriptures (sarvaśāstrajñam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāgara commends Viśvakarman's son Nala as the architect of the bridge and vanishes, whereupon Nala rises and praises the efficacy of stern chastisement.
 </details>
 </details>
 
@@ -2117,6 +2181,14 @@ Rama, wishing to see a bridge constructed on it."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Viśvakarman's boon on Mount Mandara, Nala directs the monkey hosts to begin the bridge, and thousands of monkeys uproot forest trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दण्ड एव वरो लोके पुरुषस्येति मे मतिः ।  
@@ -2422,6 +2494,14 @@ With sāla and aśvakarṇa trees, dhava trees and bamboos (vaṃśaiḥ), kuṭ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing uprooted trees like Indra's banners and hauling elephant-sized boulders with engines, the monkeys hurl crags into the sea and stretch measuring cords.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते नगान् नगसङ्काशाः शाखामृगगणर्षभाः ।  
@@ -2692,6 +2772,14 @@ hundred Yojanas long (in order to keep the rocks in a straight line.)
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Plunging in on every side, they churned up the ocean (samudraṃ kṣobhayām āsuḥ), while others held out measuring cords (sūtrāṇy anye pragṛhṇanti) stretched across a hundred yojanas (āyataṃ śatayojanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guided by Nala's measuring rods, hundreds of monkeys bind crags, timber, and blossoming trees into the sea, completing fourteen yojanas on the first day.
 </details>
 </details>
 
@@ -2967,6 +3055,14 @@ speedily, thrilled with delight as they were, resembling elephants.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 On the first day (prathamenāhnā), fourteen yojanas (yojanāni caturdaśa) were completed by the joyous, hastening monkeys who resembled elephants (gajasaṃkāśaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Building twenty, twenty-one, twenty-two, and twenty-three yojanas over the next four days to reach Mount Suvela, Nala completes a bridge gleaming like the Milky Way.
 </details>
 </details>
 
@@ -3297,6 +3393,14 @@ Built by Nala across the ocean, the abode of makaras, that lovely and glorious b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gods, Gandharvas, and sages gather in the sky to behold the hundred-yojana-long, ten-yojana-wide bridge of Nala as thousands of crores of monkeys cross over.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वानरवरः श्रीमान् विश्वकर्मात्मजो बली ।  
@@ -3540,6 +3644,14 @@ great ocean soon after building that bridge across the sea.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the bridge gleams like a hair-parting across the sea and Vibhīṣaṇa stands guard on the southern shore, Rāma and Lakṣmaṇa cross mounted upon Hanūmān and Aṅgada.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि कोटिसहस्राणि वानराणां महौजसाम् ॥ ७८ ॥  
@@ -3755,6 +3867,14 @@ with Sugriva, went in front of that army.
 **81:** “Moving through the sky (vaihāyasau), these two monkeys shall bear (dhārayiṣyataḥ) the two of you.” Then at the head of that army (agratas tasya sainyasya), the glorious Rāma together with Lakṣmaṇa—
 
 **82:** —went forth bow in hand (dhanvī), righteous-souled, accompanied by Sugrīva (sugrīveṇa samanvitaḥ); some monkeys marched along the middle of the bridge, while others went along the sides (pārśvato 'nye).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drowning out the ocean's roar, the monkey host crosses Nala's bridge to the southern shore, where gods and sages consecrate Rāma with auspicious waters.
 </details>
 </details>
 

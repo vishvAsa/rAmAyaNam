@@ -29,6 +29,14 @@ grief.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting the dreadful slaying of the young ascetic, Daśaratha recounts to Kausalyā how he carried the water-pitcher along the path to the hermitage and beheld the youth’s frail, blind, and aged parents sitting helplessly like two birds with clipped wings.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वधमप्रतिरूपं तु महर्षेस्तस्य राघवः ।  
@@ -319,6 +327,14 @@ prey to further grief after reaching the hermitage.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With my heart smitten by grief (śokopahata-cittaś ca) and my consciousness terrified by fear (bhaya-santrasta-cetanaḥ), upon entering that hermitage-ground (tac cāśrama-padaṃ gatvā) I was plunged yet deeper into sorrow (bhūyaḥ śokam ahaṃ gataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Daśaratha’s footsteps, the blind sage mistakes him for his son, gently chiding him for tarrying at the river and begging him to speak; steadying his faltering voice, the terrified king prepares to confess the fatal calamity.
 </details>
 </details>
 
@@ -627,6 +643,14 @@ by deliberate efforts, I told him of the alarm that awaited him of his son's dea
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Steadying the strength of my voice and the agitation of my mind through outward efforts of self-control (manasaḥ karma ceṣṭābhir abhisaṃstabhya vāg-balam), I recounted unto him the terrifying calamity born of the loss of his son (ācacakṣe tv ahaṃ tasmai putra-vyasanajaṃ bhayam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing his identity as the Kṣatriya Daśaratha, the king confesses how he came to the Sarayū bank hunting game, mistook the sound of the filling pitcher for an elephant, loosed an iron arrow, and drew the shaft from the dying youth’s chest.
 </details>
 </details>
 
@@ -948,6 +972,14 @@ out the arrow soon from his vital part."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha tells the sage how his son ascended to heaven lamenting his blind parents, and begs the sage’s grace; weeping and sighing, the mighty ascetic declares that had the king not confessed his unwitting sin, his head would have shattered into a hundred thousand pieces.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अज्ञानाद् भवतः पुत्रः सहसाभिहतो मया ।  
@@ -1266,6 +1298,14 @@ would expel even Indra from his post."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The blind sage declares that Daśaratha’s life and the Ikṣvāku dynasty survive solely because the shaft was loosed unwittingly; led by the king to the riverbank, the grieving parents touch their slain son’s blood-soaked body and collapse upon him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अज्ञानाद्धि कृतं यस्मादिदं ते तेन जीवसे ।  
@@ -1541,6 +1581,14 @@ it . Then, his father spoke as follows."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Approaching and touching their own son (tau putram ātmanaḥ spṛṣṭvā tam āsādya), those two ascetics fell down upon his body (tapasvinau nipetatuḥ śarīre 'sya), and his father spoke this word (pitā cāsyedam abravīt):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping over his son’s corpse, the blind father implores him to embrace his righteous mother and speak a tender word, asking who will now recite sacred lore at dawn, tend the evening fire, gather forest roots and fruits, or sustain his blind, grieving mother.
 </details>
 </details>
 
@@ -1868,6 +1916,14 @@ woman in a pitiable condition, longing for her son?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imploring his slain son to wait a single day so that both parents may accompany him to Yama’s abode, the blind sage vows to beg the Lord of Dharma to return their protector, and blesses his sinless son to attain the supreme realms of fallen heroes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उभावपि च शोकार्तावनाथौ कृपणौ वने ।  
@@ -2162,6 +2218,14 @@ battles."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The blind sage blesses his son to attain the exalted worlds of royal sages, Vedic reciters, fire-sacrificers, and devoted disciples, declaring that his slayer alone shall go to an evil state; upon receiving the funeral water-libation, the youth ascends to heaven with Indra in a radiant celestial form.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या गतिः सर्वभूतानां स्वाध्यायात् तपसश्च या ।  
@@ -2430,6 +2494,14 @@ wonderful form along with Indra (the king of celestials) as a result of his own 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And through his own meritorious deeds, that sage’s son, knower of dharma, in a celestial form (sa tu divyena rūpeṇa muni-putraḥ sva-karmabhiḥ dharmavit) swiftly ascended to heaven together with Śakra (svargam adhyāruhat kṣipraṃ śakreṇa saha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consoling his blind parents from the sky alongside Indra, the ascetic youth promises that they too shall soon join him, and ascends to heaven in a radiant aerial car; after completing the water-libation, the grieving father pronounces a dreadful curse upon Daśaratha.
 </details>
 </details>
 
@@ -2751,6 +2823,14 @@ painful and very cruel curse on you."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The blind ascetic curses Daśaratha to die of grief for his son just as he himself is dying, and ascends the funeral pyre with his wife to reach heaven; Daśaratha tells Kausalyā that the ripening of that youthful sin has now overtaken him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अज्ञानात्तु हतो यस्मात् क्षत्रियेण त्वया मुनिः ।  
@@ -2965,6 +3045,14 @@ reflection over it."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “As I reflected today, O queen, I myself remembered this sin (tad etac cintayānena smṛtaṃ pāpaṃ mayā svayam) committed by me in youth through folly while practicing the art of piercing by sound (tadā bālyāt kṛtaṃ devi śabda-vedhy-anuśikṣiṇā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Losing his sight and memory as Yama’s messengers hasten him on, Daśaratha asks Kausalyā to touch him, contrasting his own unworthy banishment of Rāma with Rāma’s peerless filial obedience and yearning for a single final touch of his son.
 </details>
 </details>
 
@@ -3304,6 +3392,14 @@ away. Messengers of Yama (god of death) are hastening me to come."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grief at not beholding Rāma dries up Daśaratha’s vital breaths like sunlight parching a drop of water; the dying king declares that those who will behold Rāma’s lotus-fragrant, moon-like face upon his return in the fifteenth year are not mortals, but gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यादर्शनजः शोकः सुतस्याप्रतिकर्मणः ॥ ६७ ॥  
@@ -3540,6 +3636,14 @@ autumnal moon and also a full- blown lotus."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Envying those who will see Rāma return to Ayodhyā like the planet Venus re-entering its auspicious path, Daśaratha feels his senses perishing like the rays of an oil-spent lamp and his life-breath collapsing like a river-bank under the torrent of grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्ये चित्तमोहेन हृदयं सीदतेतराम् ॥ ७२ ॥  
@@ -3740,6 +3844,14 @@ like a river bank being collapsed by the floods of a river stream."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘This self-begotten grief violently crushes me, helpless and bereft of consciousness (ayam ātma-bhavaḥ śoko mām anātham acetanam saṃsādayati vegena), just as the torrent of a river erodes its bank (yathā kūlaṃ nadī-rayaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out in agony to Rāma, bidding farewell to Kausalyā and Sumitrā, and reproaching cruel Kaikeyī as the defiler of the lineage, King Daśaratha breathes his last shortly after midnight in the presence of Kausalyā and Sumitrā.
 </details>
 </details>
 

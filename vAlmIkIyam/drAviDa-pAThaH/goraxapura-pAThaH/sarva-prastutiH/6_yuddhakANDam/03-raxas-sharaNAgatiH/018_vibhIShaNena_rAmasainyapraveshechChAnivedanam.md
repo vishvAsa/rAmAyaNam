@@ -25,6 +25,14 @@ Finally Vibhishana joins as an associate in Rama's side.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased by Hanumān's counsel, Rāma declares his resolve never to forsake one who approaches in friendship, yet Sugrīva again objects that Vibhīṣaṇa betrayed his own brother in calamity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामः प्रसन्नात्मा श्रुत्वा वायुसुतस्य ह ।  
@@ -289,6 +297,14 @@ desert his own brother at a time of peril? Whom will he not betray subsequently?
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whether he be wicked or unwicked (duṣṭo vāpy aduṣṭo vā), what of this night-stalker (rajanīcaraḥ) who would abandon his own brother (bhrātaraṃ yaḥ parityajet) when overtaken by such calamity (īdṛśaṃ vyasanaṃ prāptam)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling faintly at Lakṣmaṇa, Rāma praises Sugrīva's learning in statecraft while explaining the subtler political truth that royal kinsmen naturally clash and suspect even virtuous brothers.
 </details>
 </details>
 
@@ -613,6 +629,14 @@ from the side of an adversary, hear from me what the scriptures say."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma argues that Vibhīṣaṇa seeks Laṅkā's throne and that rākṣasa kinsmen naturally split, adding that few brothers match Bharata or friends Sugrīva—yet Sugrīva again pleads for Vibhīṣaṇa's punishment.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न वयं तत्कुलीनाश्च राज्यकाङ्क्षी च राक्षसः ।  
@@ -868,6 +892,14 @@ the demon. I think of him to be worthy of being taken as a captive."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Know that night-stalker (niśācaram) to have been dispatched (praṇihitam) by Rāvaṇa; I deem his chastisement (tasya nigraham) the proper course (kṣamam), O best of the discerning (kṣamavatāṃ vara).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Sugrīva reiterates his warning and falls silent, Rāma declares that he could slay all rākṣasas on earth with a fingertip and invokes the ancient dove's hospitality to his foe.
 </details>
 </details>
 
@@ -1206,6 +1238,14 @@ received according to rules of hospitality and was invited for a feast with its 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the dove that sheltered its wife's captor and the ancient verses of the sage Kaṇḍu, Rāma proclaims that a self-controlled hero must protect even a supplicant foe.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि तं प्रतिजग्राह भार्याहर्तारमागतम् ।  
@@ -1476,6 +1516,14 @@ desire, it is a sin to be reproached by the world."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding Kaṇḍu's verses, Rāma utters his immortal vow of universal refuge—granting fearlessness against all beings to anyone who surrenders even once—and commands Sugrīva to bring Vibhīṣaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनष्टः पश्यतस्तस्य रक्षिणः शरणं गतः ।  
@@ -1741,6 +1789,14 @@ himself; I have given an assurance of safety to him. Bring him here."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bring him hither (ānayainam), O best of monkeys; fearlessness has been granted to him by me (dattam asyābhayaṃ mayā), O Sugrīva, whether he be Vibhīṣaṇa or Rāvaṇa himself (yadi vā rāvaṇaḥ svayam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved by affection and wonder at Rāma's noble vow, Sugrīva acknowledges Vibhīṣaṇa's purity and welcomes him into their friendship, whereupon Rāma swiftly embraces Vibhīṣaṇa as Indra embraced Garuḍa.
 </details>
 </details>
 

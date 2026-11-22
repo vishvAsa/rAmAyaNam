@@ -27,6 +27,14 @@ holding the royal canopy over them.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having settled his mothers in Ayodhyā, the grief-stricken Bharata asks his preceptors’ leave to retire to Nandigrāma to await Rāma’s return, and Vasiṣṭha and the ministers warmly praise his fraternal devotion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निक्षिप्य मातॄस्ता अयोध्यायां दृढव्रतः ।  
@@ -346,6 +354,14 @@ elders?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 What man would not approve the words of you who are ever devoted to your kinsmen (nityaṃ te bandhu-lubdhasya nānumanyeta kaḥ pumān), who abide steadfastly in affection for your brother, and who have betaken yourself to the path of the noble (tiṣṭhato bhrātṛ-sauhṛde ārya-mārgaṃ prapannasya)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gladdened by the ministers’ approval, Bharata bows to all his mothers and mounts his chariot with Śatrughna; preceded by Vasiṣṭha and followed unbidden by the army and citizens, he proceeds to Nandigrāma bearing the sandals on his head.
 </details>
 </details>
 
@@ -672,6 +688,14 @@ Standing in his chariot, that righteous-souled Bharata, devoted to his brother (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering Nandigrāma and alighting from his chariot, Bharata proclaims to his preceptors and subjects that the kingdom was entrusted to him as a sacred deposit and commands them to hold the royal umbrella over Rāma’s gold-adorned sandals.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्तु ततः क्षिप्रं नन्दिग्रामं प्रविश्य सः ।  
@@ -933,6 +957,14 @@ For this sacred deposit was entrusted to me by my brother out of affection (bhr�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata longs for the day when he will place the sandals back upon Rāma’s feet, restore the kingdom and Ayodhyā to him, and be cleansed of all infamy; lamenting thus, he governs at Nandigrāma with his ministers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रं संयोजयित्वा तु राघवस्य पुनः स्वयम् ।  
@@ -1191,6 +1223,14 @@ looked after the state administration along with his ministers from Nandigrama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Lamenting thus in wretchedness, that Bharata of great renown (evaṃ tu vilapan dīno bharataḥ sa mahā-yaśāḥ), stricken with grief, carried on the governance at Nandigrāma together with his ministers (nandigrāme 'karod rājyaṃ duḥkhito mantribhiḥ saha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clad in bark-cloth and matted locks in the guise of an ascetic, Bharata dwells with his army at Nandigrāma, consecrates Rāma’s sandals, and submits every royal decree, affair of state, and costly tribute to the sandals first.
 </details>
 </details>
 

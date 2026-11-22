@@ -23,6 +23,14 @@ starts to the royal court to meet his father. On the way Rama observes the jubil
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing the crowded outer gate into a secluded court guarded by spear-bearing youths and aged saffron-robed chamberlains, Sumantra asks that his arrival be announced to Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदन्तःपुरद्वारं समतीत्य जनाकुलम् ।  
@@ -273,6 +281,14 @@ immediately informed him.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Approaching Rāma (te rāmam upasaṅgamya) and desiring to do what was pleasing to their lord (bhartuḥ priya-cikīrṣavaḥ), they immediately reported his arrival to Rāma, who was seated together with his consort (saha-bhāryāya rāmāya kṣipram evācacakṣire).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned inside, Sumantra beholds Rāma seated like Kubera on a golden couch, anointed with boar-blood-red sandalwood, and attended by Sītā holding a yak-tail fan like Citrā beside the moon.
 </details>
 </details>
 
@@ -528,6 +544,14 @@ prince with beautiful face and who was seated on a swinging sofa.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With folded hands (prāñjaliḥ), beholding the prince with a serene and cheerful countenance (sumukhaṃ dṛṣṭvā) upon his couch of recreation and repose (vihāra-śayanāsane), Sumantra, honored by the king, spoke this word:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hailing Rāma as Kausalyā’s noble son, Sumantra conveys Daśaratha’s and Kaikeyī’s summons; suspecting nothing, Rāma tells Sītā that Queen Kaikeyī is lovingly hastening his consecration.
 </details>
 </details>
 
@@ -837,6 +861,14 @@ desires and wishes, as messenger".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By good fortune indeed (diṣṭyā khalu), the great king, together with his beloved consort (mahiṣyā priyayā saha), has dispatched Sumantra as a messenger who accomplishes my desired welfare and joy (dūtam artha-kāma-karaṃ mama)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Sītā remain happily with her companions, Rāma prepares to depart; escorting him to the door, Sītā prays for his Rājasūya consecration and invokes Indra, Yama, Varuṇa, and Kubera.
 </details>
 </details>
 
@@ -1153,6 +1185,14 @@ May the thunderbolt-wielder Indra guard your eastern quarter (pūrvāṃ diśa�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerging like a mountain-cave lion, Rāma greets Lakṣmaṇa at the door and his friends in the middle court, then mounts his blazing, tiger-skin-draped chariot yoked with elephant-calf steeds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ सीतामनुज्ञाप्य कृतकौतुकमङ्गलः ।  
@@ -1409,6 +1449,14 @@ quickly.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 yoked with supreme steeds resembling young elephant calves (kareṇu-śiśu-kalpaiś ca yuktaṃ parama-vājibhiḥ)—even as the thousand-eyed Indra mounts his swift-coursing chariot yoked with bay steeds (hari-yuktaṃ sahasrākṣo ratham indra ivāśugam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resounding like a thundercloud and emerging like the moon from a cloud, Rāma rides forth guarded behind by Lakṣmaṇa bearing the parasol and chowrie, amid a tumultuous roar of crowds, steeds, elephants, and bards.
 </details>
 </details>
 
@@ -1708,6 +1756,14 @@ followed after Rāma by the hundreds and by the thousands (anujagmus tathā rām
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Showered with blossoms by faultless-limbed women at the palace lattices, Rāma hears their joyful praises of Mother Kausalyā and of Sītā, whose austerity won her union with Rāma like Rohiṇī with the moon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वादित्रशब्दाश्च स्तुतिशब्दाश्च वन्दिनाम् ॥ ३६ ॥  
@@ -1995,6 +2051,14 @@ women standing in turrets.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 who has attained union with Rāma, even as Rohiṇī is united with the hare-marked moon (rohiṇīva śaśāṅkena rāma-saṃyogam āpa yā)!” Riding along the royal highway (rāja-mārga-sthaḥ), that best of men heard these pleasing words uttered by the joyous women upon the palace pinnacles (śuśrāva... priyā vāca udāhṛtāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the citizens’ joyous acclaim that under his rule none shall ever know sorrow, Rāma advances like Kubera amid bards, genealogists, and musicians along the jewel-rich royal highway.
 </details>
 </details>
 

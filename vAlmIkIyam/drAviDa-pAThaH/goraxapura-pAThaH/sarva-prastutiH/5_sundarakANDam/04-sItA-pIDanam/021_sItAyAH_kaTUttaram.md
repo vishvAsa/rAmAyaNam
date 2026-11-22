@@ -23,6 +23,14 @@ Her back to Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing a blade of grass between herself and Rāvaṇa, the weeping Sītā turns her back upon him and declares that a chaste wife can never wed another.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा सीता रौद्रस्य रक्षसः ।  
@@ -288,6 +296,14 @@ Seetha with renown thus speaking to that Ravana, turned back and spoke words aga
 **5:** who was born in a great house and have entered a righteous lineage (puṇyaṃ kulam)!” Having spoken thus to that Rāvaṇa, the illustrious Vaidehī,
 
 **6:** turning her back (pṛṣṭhataḥ kṛtvā) upon Rāvaṇa, spoke a further word: “Being the chaste wife of another (parabhāryā satī), I am not a fitting wife (aupayikī bhāryā) for you!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā admonishes Rāvaṇa to guard others’ wives like his own, warning that his perverse disregard of wise counsel will bring swift ruin upon opulent Laṅkā.
 </details>
 </details>
 
@@ -590,6 +606,14 @@ Even so, having fallen into your hands, Laṅkā, teeming with multitudes of jew
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring herself inseparable from Rāma as sunlight from the sun, Sītā urges Rāvaṇa to reunite her with her lord as one leads a cow-elephant to a tusker.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वकृतैर्हन्यमानस्य रावणादीर्घदर्शिनः ।  
@@ -868,6 +892,14 @@ I am the fitting wife (aupayikī bhāryā) of that Lord of the earth alone, just
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rightly reunite (samānaya) me, afflicted as I am, with Rāma, O Rāvaṇa, just as [one unites] the lord of elephants (gajādhipam) in the forest with a passionately trumpeting cow-elephant (vāsitayā kareṇvā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved by maternal-like compassion, Sītā counsels Rāvaṇa to seek friendship with Rāma and restore her, warning that neither Indra’s bolt nor Death spares Rāma’s foe.
 </details>
 </details>
 
@@ -1209,6 +1241,14 @@ You shall hear the mighty roar (mahāsvanam) of Rāma’s bowstring, like the cr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā prophesies that heron-feathered arrows stamped with the names of Rāma and Lakṣmaṇa will fill Laṅkā, and that Rāma-Garuḍa will snatch her back like Viṣṇu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इह शीघ्रं सुपर्वाणो ज्वलितास्या इवोरगाः ।  
@@ -1448,6 +1488,14 @@ this bad deed has been done by you being powerless."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When the strength of the rākṣasas had been slain in Janasthāna and its abode destroyed (hatasthāne), you, O rākṣasa, being powerless (aśaktena), committed this ignoble deed (asādhu)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Condemning Rāvaṇa’s theft from an empty hermitage, Sītā declares that he cannot face Rāma and Lakṣmaṇa any more than a dog can face two tigers.
 </details>
 </details>
 

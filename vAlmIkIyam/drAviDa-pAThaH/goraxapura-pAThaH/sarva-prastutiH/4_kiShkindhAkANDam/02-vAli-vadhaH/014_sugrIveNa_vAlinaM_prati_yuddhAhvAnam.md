@@ -26,6 +26,14 @@ inciting Vali to the duel.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concealing themselves in the dense woods near Kiṣkindhā, thick-necked Sugrīva roars like a wind-driven storm-cloud and implores Rāma to fulfill his vow to slay Vālī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वे ते त्वरितं गत्वा किष्किन्धां वालिनः पुरीम् ।  
@@ -328,6 +336,14 @@ submitting himself, as a *kainkarya* to the patronage of Rama, like Lakshmana.
 **5:** —beholding Rāma skilled in action (kriyādakṣam), Sugrīva spoke this word: “[To this city] encompassed by a snare of monkeys (harivāgurayā vyāptām) and adorned with arches of refined gold (taptakāñcanatoraṇām)—
 
 **6:** “—we have arrived at Vālī's city Kiṣkindhā (prāptāḥ sma kiṣkindhām vālinaḥ purīm), richly equipped with banners and war-engines (dhvajayantrāḍhyām)! That vow which was made by you (pratijñā yā kṛtā tvayā) of old, O hero, for the slaying of Vālī (vālivadhe purā)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva urges Rāma to make his vow bear fruit like the arriving season, and Rāma replies that with the gajapuṣpī garland marking him, a single arrow will fell Vālī.
 </details>
 </details>
 
@@ -654,6 +670,14 @@ with me, you can even deride me. [4-14-12b, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma invites Sugrīva's immediate reproach if Vālī escapes alive, swears by his unfailing truthfulness and the seven cloven sālas to fulfill his promise, and urges Sugrīva to roar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्षं सप्त ते साला मया बाणेन दारिताः ॥ १३ ॥  
@@ -910,6 +934,14 @@ vaali yuddha sannadho bahir nirgacched eva --- iti raama vacanam - dharmaakuutam
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—raise that battle-cry, O Sugrīva (sugrīva kuru tam śabdam), whereby that Vānara, proud of conquest (jitakāśī), boasting of victory (jayaślāghī), and challenged by you (tvayā cādharṣitaḥ), may rush forth from the city (niṣpated purāt)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assured that proud warriors never brook an enemy's insult before their womenfolk, golden-tawny Sugrīva unleashes a sky-splitting roar that terrifies cattle, deer, and birds across the forest.
 </details>
 </details>
 

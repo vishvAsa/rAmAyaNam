@@ -23,6 +23,14 @@ Ganga. There, Nishadas offers welcome reception to Rama and others.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning back toward Ayodhyā at the border of Kosala with joined palms, Rāma bids farewell to the capital and its guardian deities and gently dismisses the weeping countryfolk.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशालान् कोसलान् रम्यान् यात्वा लक्ष्मणपूर्वजः ।  
@@ -345,6 +353,14 @@ Having bowed unto that great-souled prince and circumambulated him clockwise (k�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing out of the sight of the unappeased countryfolk like the sun at nightfall, Rāma crosses the Vedic-resounding Kosala countryside and beholds the divine, triple-pathed Gaṅgā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा विलपतां तेषामतृप्तानां च राघवः ।  
@@ -578,6 +594,14 @@ tributaries, carrying clear waters without green moss and frequented by sages.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Rāghava beheld the divine, sacred Gaṅgā (dadarśa rāghavo gaṅgāṃ puṇyām), course of the three paths (tri-patha-gām), carrying auspicious and crystal-clear waters (śiva-toyām), free from water-moss (aśaivalām), and frequented by sages (ṛṣi-niṣevitām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma gazes upon the sacred Gaṅgā adorned with hermitages, frequented by Apsarases and Gandharvas, laughing with white foam and roaring with crashing rapids, braided currents, and deep eddies.
 </details>
 </details>
 
@@ -899,6 +923,14 @@ hemmed in, with expanse of small islands and at some places, lined with white sa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resounding with swans, cranes, and celestial elephants and dusted with flower-pollen, the crystal-clear Gaṅgā shines like a richly adorned damsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंससारससङ्घुष्टां चक्रवाकोपशोभिताम् ।  
@@ -1173,6 +1205,14 @@ crocodiles and snakes.
 **23:** —and elephants fit to be ridden by the gods (devopavāhyaiś ca muhuḥ sannādita-vanāntarām), like a lovely woman carefully decked with the choicest ornaments (pramadām iva yatnena bhūṣitāṃ bhūṣaṇottamaiḥ)—
 
 **24:** —overspread with fruits, flowers, and tender shoots, and with thickets and birds as well (phalaiḥ puṣpaiḥ kisalayair vṛtāṃ gulmair dvijais tathā), and frequented by gangetic porpoises, crocodiles, and serpents (śiṃśumāraiś ca nakraiś ca bhujaṅgaiś ca niṣevitām)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the sin-destroying Gaṅgā—issue of Viṣṇu’s foot and Śaṅkara’s matted locks and queen of the Ocean—near Śṛṅgaverapura, Rāma halts with Lakṣmaṇa and Sumantra beneath a great iṅgudī tree.
 </details>
 </details>
 
@@ -1456,6 +1496,14 @@ the horses to that sacred fig tree.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Saying “So be it!” (bāḍham ity eva) unto Rāghava, Lakṣmaṇa and Sumantra then drove with the horses up to that iṅgudī tree (tam iṅgudī-vṛkṣaṃ tadopayayatur hayaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alighting beneath the iṅgudī tree, Rāma is welcomed and embraced by his dear friend Guha, lord of the Niṣādas, who places his city at Rāma’s disposal like a second Ayodhyā.
 </details>
 </details>
 
@@ -1782,6 +1830,14 @@ Stricken with grief (ārtaḥ) and embracing him closely (sampariṣvajya), Guha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bringing choice food, water of welcome, beds, and horse-fodder, Guha entreats Rāma to rule his forest realm; clasping him in his stout arms, Rāma praises his affectionate devotion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गुणवदन्नाद्यमुपादाय पृथग्विधम् ॥ ३७ ॥  
@@ -1919,6 +1975,14 @@ food; *te* = for your; *vaajinaam* = horses."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Unto Guha, who was speaking thus, Rāghava replied: “We have been honored and delighted by you in every way (arcitāś caiva hṛṣṭāś ca bhavatā sarvathā vayam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inquiring after the welfare of Guha’s realm, Rāma graciously declines the proffered gifts in accordance with his ascetic vow, accepting only fodder for Daśaratha’s beloved steeds.
 </details>
 </details>
 
@@ -2202,6 +2266,14 @@ by these horses being duly fed."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For these steeds are dearly beloved of the king, my father Daśaratha (ete hi dayitā rājñaḥ pitur daśarathasya me); when these horses have been well cared for (etaiḥ su-vihitair aśvaiḥ), I myself shall be duly honored (bhaviṣyāmy aham arcitaḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Guha feeds the horses, Rāma worships the evening twilight, drinks only water brought by Lakṣmaṇa, and lies down on the bare ground with Sītā while Lakṣmaṇa, Guha, and Sumantra keep watch.
 </details>
 </details>
 

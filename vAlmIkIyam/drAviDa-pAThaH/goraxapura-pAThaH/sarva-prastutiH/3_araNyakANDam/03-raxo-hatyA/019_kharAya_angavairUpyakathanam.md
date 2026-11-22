@@ -24,6 +24,14 @@ fourteen demons to eliminate Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing his blood-drenched, mutilated sister lying on the ground, wrathful Khara bids Śūrpaṇakhā rise and demands to know what fool has poked a venomous black cobra and drunk deadly poison.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तथा पतितां दृष्ट्वा विरूपां शोणितोक्षिताम् ।  
@@ -332,6 +340,14 @@ sages who indeed rendered you shapeless. [3-19-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Among gods, gandharvas, spirits (bhūtānām), and high-souled sages, who is this being of mighty valour (mahā-vīryaḥ) that has thus disfigured you?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that not even thousand-eyed Mahendra dares offend him, Khara vows to drain the offender’s life-breath with his arrows like a swan extracting milk from water.
 </details>
 </details>
 
@@ -653,6 +669,14 @@ and worsted you in the forest." Thus Khara spoke to Shuurpanakha. [3-19-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping before her furious brother, Śūrpaṇakhā describes the youthful, lotus-eyed princes Rāma and Lakṣmaṇa—clad in bark and black buckskin like Gandharva kings—and the radiant woman beside them.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति भ्रातुर्वचः श्रुत्वा क्रुद्धस्य च विशेषतः ।  
@@ -906,6 +930,14 @@ with Ravana after the failure of this Khara and other brothers.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And between those two (tayor madhye) a woman was seen by me there—youthful, endowed with beauty, decked in every ornament (sarvābharaṇa-bhūṣitā), and of slender waist (sumadhyamā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Complaining that both brothers united to mutilate her on Sītā’s account, Śūrpaṇakhā craves to drink Sītā’s and the princes’ foaming blood in battle, prompting Khara to dispatch fourteen rākṣasas.
 </details>
 </details>
 
@@ -1183,6 +1215,14 @@ Thus Khara is ordering the fourteen demons. [3-19-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Two mortals equipped with weapons (śastra-sampannau) and clad in bark-garments and black buckskin have entered the dreadful Daṇḍaka forest accompanied by a young woman (pramadayā saha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanding the fourteen rākṣasas to slay the two princes and the woman so that Śūrpaṇakhā may drink their blood in joy, Khara dispatches them, and they speed forth like wind-driven clouds.
 </details>
 </details>
 

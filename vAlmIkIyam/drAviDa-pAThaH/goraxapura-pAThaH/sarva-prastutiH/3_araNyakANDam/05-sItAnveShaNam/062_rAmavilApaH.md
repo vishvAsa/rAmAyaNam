@@ -25,6 +25,14 @@ aloud, weighing pros and cons of his situation.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of Sītā and overwhelmed by grief and love-sick delusion, the lotus-eyed Rāma laments aloud, imagining that his beloved is playfully hiding behind the blooming aśoka, plantain, and karṇikāra trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतामपश्यन् धर्मात्मा शोकोपहतचेतनः ।  
@@ -378,6 +386,14 @@ is not there...'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakening from his delusion, Rāma realizes from the weeping deer herds that night-roaming demons have seized or devoured Sītā, and dreads returning alone to an empty palace and public reproach.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुव्यक्तं राक्षसैः सीता भक्षिता वा हृतापि वा ॥ ७ ॥  
@@ -647,6 +663,14 @@ indeed be self-evident, for Seetha is led away from me by some tactical being...
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to face King Janaka without Sītā and finding even heaven empty without her, Rāma bids Lakṣmaṇa leave him in the forest and return to Ayodhyā to embrace Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तवनवासश्च जनकं मिथिलाधिपम् ॥ १२ ॥  
@@ -907,6 +931,14 @@ authorises you to reign the earth...' [3-62-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For without that Sītā (tāṃ vinā sītām), I could by no means live (na... jīveyaṃ hi kathaṃcana). Having tightly embraced him (gāḍham āśliṣya), Bharata should be spoken to by thee in my words (vācyo mad-vacanāt tvayā):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entrusting the earth's rule to Bharata and his mothers' care to Lakṣmaṇa, Rāma asks that his and Sītā's ruin be told to Kausalyā, leaving Lakṣmaṇa pale with anguish.
 </details>
 </details>
 

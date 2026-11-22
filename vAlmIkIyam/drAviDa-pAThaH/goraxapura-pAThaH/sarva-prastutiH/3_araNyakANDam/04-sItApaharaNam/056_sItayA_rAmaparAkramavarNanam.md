@@ -24,6 +24,14 @@ about Seetha's stance and stability is given in the endnote of this chapter.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing a blade of grass between herself and Rāvaṇa, the fearless Vaidehī extols her husband Rāma and warns Rāvaṇa that his warriors will be venomless serpents before Rāghava.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तथोक्ता तु वैदेही निर्भया शोककर्शिता ।  
@@ -334,6 +342,14 @@ you and your forces will be rendered ineffectual the minute you confront my husb
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “All these rākṣasas of dreadful form and great strength of whom you have boasted (ya ete rākṣasāḥ proktāḥ) will be rendered venomless before Rāghava (rāghave nirviṣāḥ sarve), like serpents before Suparṇa [Garuḍa] (suparṇe pannagā yathā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Rāvaṇa that Brahmā's boon cannot save him from Rāma's arrows and that he is like a beast bound to the sacrificial post, Sītā foretells Laṅkā's widowhood.
 </details>
 </details>
 
@@ -702,6 +718,14 @@ and daresay to me 'you rule over this very great empire of Lanka as empress of L
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bereft of life-breath (gatāsus tvam), bereft of fortune (gata-śrīkaḥ), bereft of courage (gata-sattvaḥ), and bereft of senses (gatendriyaḥ) [are you]; through your deed (tvat-kṛtena), Laṅkā shall be plunged into widowhood (vaidhavya-saṃyuktā bhaviṣyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that mortals doomed by Time err in their judgment, Sītā tells Rāvaṇa that she is as inviolable to him as a consecrated Vedic altar to an outcaste.
 </details>
 </details>
 
@@ -1081,6 +1105,14 @@ himself as a self-cremator.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing herself to a female swan sporting with a royal swan and spurning a water-crow, Sītā defies Rāvaṇa to slay her body, prompting his twelve-month ultimatum.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथाहं धर्मनित्यस्य धर्मपत्नी दृढव्रता ।  
@@ -1424,6 +1456,14 @@ wife as I am, how do you think that I on my own get estranged from such a godlik
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —Jānakī spoke nothing further (punar novāca kiṃcana) to Rāvaṇa there (tatra). Having heard Sītā's harsh, hair-raising speech (sītāyā vacanaṃ śrutvā paruṣaṃ roma-harṣaṇam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatening to have his cooks mince her for his morning meal if she refuses him after a year, Rāvaṇa stamps the earth in fury and orders the rākṣasīs to guard her in the Aśoka grove.
 </details>
 </details>
 
@@ -1783,6 +1823,14 @@ her stealthily. [3-56-30]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let Maithilī be led into the midst of the Aśoka grove (aśoka-vanikā-madhye maithilī nīyatām iti); there let her be guarded in secret (tatreyaṃ rakṣyatāṃ gūḍham), surrounded by you (yuṣmābhiḥ parivāritā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instructed to tame Maithilī like a wild female elephant through threats and coaxing, the rākṣasīs lead her into the Aśoka grove, where she sinks senseless in grief like a doe among tigresses.
 </details>
 </details>
 

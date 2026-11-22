@@ -26,6 +26,14 @@ ascetics.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kissing Sītā on the head and embracing her after hearing her sweet narrative, Anasūyā points out the onset of twilight—roosting birds, bathing sages returning with water-jars, pigeon-colored sacrificial smoke, and deepening shadows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनसूया तु धर्मज्ञा श्रुत्वा तां महतीं कथाम् ।  
@@ -309,6 +317,14 @@ column of smoke with the hue of a Pigeon's neck, raised by the wind, is seen the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As night deepens with deer sleeping by the sacred altars and the moon rising mantled in moonlight, Anasūyā bids Sītā adorn herself before her eyes with the celestial ornaments; bowing to her, Sītā returns to Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्पवर्णा हि तरवो घनीभूताः समन्ततः ।  
@@ -572,6 +588,14 @@ Having adorned herself thus (sā tathā samalaṅkṛtya), Sītā, resembling a 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Sītā adorned with Anasūyā’s celestial gifts of affection—an honor rare among mortals—Rāma and Lakṣmaṇa rejoice; after passing the auspicious night worshiped by the sages, they take leave at dawn.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तदा समलङ्कृत्य सीता सुरसुतोपमा ।  
@@ -829,6 +853,14 @@ ascetics, was delighted and spent that auspicious night there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When that night had passed away (tasyāṃ rātryāṃ vyatītāyām), those two tigers among men took leave of the forest-dwelling ascetics (āpṛcchetāṃ naravyāghrau tāpasān vanagocarān), who had performed their morning ablutions and offered oblations into their sacred fires (abhiṣicya hutāgnikān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Rāma of the man-eating Rākṣasas and blood-drinking beasts infesting the great forest and pointing out the safe trail used by fruit-gathering sages, the ascetics pronounce benedictions as Rāma enters the forest like the Sun entering a bank of clouds.
 </details>
 </details>
 

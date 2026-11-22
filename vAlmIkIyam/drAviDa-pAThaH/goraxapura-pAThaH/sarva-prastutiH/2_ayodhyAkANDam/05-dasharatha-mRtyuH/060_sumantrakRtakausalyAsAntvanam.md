@@ -24,6 +24,14 @@ Rama can reside in the forest delightfully, by warding off his agony.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trembling on the ground like one possessed, Kausalyā begs Sumantra to drive her swiftly to the Daṇḍaka forest; with joined palms, the charioteer consoles her, assuring her that Rāma and Lakṣmaṇa dwell serenely in the woods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो भूतोपसृष्टेव वेपमाना पुनः पुनः ।  
@@ -339,6 +347,14 @@ serving the feet of Rama in the forest, is propitiating the other world."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To soothe Kausalyā, Sumantra portrays Sītā as fearless and joyous in the lonely forest: with her heart wholly fixed on Rāma, she sports as in the city gardens and asks eagerly about every village, river, and tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विजनेऽपि वने सीता वासं प्राप्य गृहेष्विव ।  
@@ -634,6 +650,14 @@ Ayodhya is without Rama, then it becomes a forest to her."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Beholding along the way the course of rivers and manifold trees (gatiṃ dṛṣṭvā nadīnāṃ ca pādapān vividhān api), Vaidehī asks eagerly about the villages and towns (paripṛcchati vaidehī grāmāṃś ca nagarāṇi ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Catching himself after nearly mentioning a sharp word spoken by Sītā regarding Kaikeyī, Sumantra deftly turns to soothing praise, telling Kausalyā that neither sun nor wind has dimmed Sītā’s moon-like face or lotus-bud feet.
 </details>
 </details>
 
@@ -950,6 +974,14 @@ buds."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Though now devoid of the red dye of lac (alakta-rasa-varjitau), her two feet even today glow crimson as though tinted with lac-juice (alakta-rasa-raktābhau) and shine like opening red lotus-buds (padma-kośa-sama-prabhau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Telling Kausalyā that Sītā walks gracefully without fear under the shelter of Rāma’s arms and that the exiles’ eternal glory leaves no cause for sorrow, Sumantra seeks to calm her; yet the queen ceases not from crying out for her son.
 </details>
 </details>
 

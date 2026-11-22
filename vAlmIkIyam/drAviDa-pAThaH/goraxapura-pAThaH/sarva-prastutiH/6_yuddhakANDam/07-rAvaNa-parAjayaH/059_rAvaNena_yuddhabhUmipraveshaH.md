@@ -28,6 +28,14 @@ ignominious defeat at the latter's hands and escaping with his life, withdraws t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Nīla has slain Prahasta and routed his ocean-like army, a wrathful Rāvaṇa resolves to march forth in person and incinerate Rāma, Lakṣmaṇa, and the Vānara host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् हते राक्षससैन्यपाले  
@@ -326,6 +334,14 @@ the blood of the monkeys."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Today I shall burn up that Vānara army (tad vānarānīkaṃ nirdahiṣyāmi), together with Rāma and Lakṣmaṇa (rāmaṃ ca saha-lakṣmaṇam), with floods of arrows like a forest with blazing fires (bāṇaughair vanaṃ dīptair ivāgnibhiḥ); today I shall satiate the earth with the blood of monkeys (pṛthivīṃ kapi-śoṇitaiḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting his fire-bright chariot amid conchs, drums, and panegyrics like Rudra girt by Bhūtas, Rāvaṇa sallies forth, prompting Rāma to ask Vibhīṣaṇa whose host approaches.
 </details>
 </details>
 
@@ -699,6 +715,14 @@ Beholding that exceedingly fierce Rākṣasa host (tad rākṣasānīkam atiprac
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Answering Rāma, Vibhīṣaṇa points out the foremost Rākṣasa champions in Rāvaṇa's vanguard: Akampana, the lion-bannered Indrajit, colossal Atikāya, Mahodara, and Piśāca.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु रामस्य निशम्य वाक्यं  
@@ -1056,6 +1080,14 @@ clouds and a mountain, he is Pishacha."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa points out Triśiras on his moon-white bull, serpent-bannered Kumbha, Nikumbha with his blazing bludgeon, Narāntaka, and Rāvaṇa beneath his moon-bright parasol.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यश्चैष शूलं निशितं प्रगृह्य  
@@ -1391,6 +1423,14 @@ amidst the genii, is the suzerain Lord of Demons there."
 **23:** “And this one here who shines surrounded by Bhūta spirits of manifold dreadful forms (nānā-vidha-ghora-rūpair bhūtair vṛto bhāti), with rolling eyes (vivṛtta-netraiḥ) and faces of tigers, camels, lordly elephants, deer, and horses (vyāghroṣṭra-nāgendra-mṛgāśva-vaktraiḥ)—he is the crusher of the pride even of the gods (surāṇām api darpa-hantā)!”
 
 **24:** “Where yonder gleams this preeminent white parasol resembling the moon (yatraitad indu-pratimaṃ vibhāti chatraṃ sitam), with its delicate ribs (sūkṣma-śalākam agryam)—there shines this mighty-souled lord of the Rākṣasas [Rāvaṇa] (atraiṣa rakṣo-'dhipatir mahātmā), surrounded by Bhūtas like Rudra (bhūtair vṛto rudra ivāvabhāti)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Vibhīṣaṇa points out the crowned, sun-bright Rāvaṇa, Rāma marvels at the demon king's dazzling splendor and his mountain-like warriors surrounding him like embodied Death.
 </details>
 </details>
 
@@ -1740,6 +1780,14 @@ the Lord of Death surrounded by blazing genii endowed with hideous forms."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Surrounded by fierce, blazing Bhūta spirits of terrible aspect (pradīptair bhīma-darśanaiḥ bhūtaiḥ parivṛtas tīkṣṇaiḥ), yonder king of Rākṣasas shines like Death himself (antakaḥ) [surrounded] by embodied [diseases and terrors] (dehavadbhir iva)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma draws a supreme arrow to vent his wrath for Sītā's abduction, Rāvaṇa stations guards over Laṅkā, plunges into the Vānara sea, and faces Sugrīva's hurled crag.
 </details>
 </details>
 
@@ -2122,6 +2170,14 @@ Beholding that lord of Rākṣasas rushing forward suddenly in battle with blazi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shattering Sugrīva's hurled mountain crag with golden-feathered shafts, Rāvaṇa fells the monkey king senseless with a thunderbolt-like arrow as six Vānara chiefs rush to avenge him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छैलशृङ्गं बहुवृक्षसानुं  
@@ -2485,6 +2541,14 @@ Then Gavākṣa, Gavaya, Suṣeṇa, Ṛṣabha, Jyotimukha, and Nala, swelling 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Felled by Rāvaṇa's arrow-nets, the anguished Vānaras flee for refuge to Rāma, who starts forward bow in hand until Lakṣmaṇa reverently begs leave to fight Rāvaṇa himself.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां प्रहारान् स चकार मोघान्  
@@ -2802,6 +2866,14 @@ follows: "Go, Lakshmana and also be strenuous in this duel."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 To him spoke Rāma of mighty splendor and unfailing valor (mahā-tejā rāmaḥ satya-parākramaḥ): “Go, O Lakṣmaṇa, and be supremely vigilant in battle (gaccha yatna-paraś cāpi bhava lakṣmaṇa saṃyuge)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cautioned by Rāma to guard his openings with eye and bow, Lakṣmaṇa advances into battle while Hanumān intercepts Rāvaṇa's chariot and raises his right arm in challenge.
 </details>
 </details>
 
@@ -3136,6 +3208,14 @@ Reaching his chariot (rathaṃ tasya samāsādya) and raising his right arm alof
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Rāvaṇa that his boon spares him not from monkeys and reminding him of Akṣa's death, Hanumān provokes the demon king into striking his chest with an open palm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वैर्यक्षैश्च सह राक्षसैः ।  
@@ -3458,6 +3538,14 @@ Hanuma the son of Anila a violent blow on his chest with the palm of his hand.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus, the mighty-splendored and valiant Rāvaṇa, lord of the Rākṣasas (mahā-tejā rāvaṇo rākṣaseśvaraḥ), struck the son of the Wind-god upon the chest with the palm of his hand (ājaghānānila-sutaṃ talenorasi vīryavān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reeling briefly from Rāvaṇa's blow, Hanumān steadies himself and strikes the demon king's chest with his palm, shaking him like a mountain in an earthquake as the heavens cheer.
 </details>
 </details>
 
@@ -3788,6 +3876,14 @@ dispatch you to the Abode of Yama the Lord of Death!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Staggering Hanumān with a furious fist-blow to the chest, Rāvaṇa wheels his chariot against Nīla, who parries his serpent-like shafts and hurls a mountain peak with one hand.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मारुतिवाक्येन कोपस्तस्य प्रजज्वले ॥ ६७ ॥  
@@ -4015,6 +4111,14 @@ hurled a great rock at Ravana the king of demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hard-pressed by that flood of arrows (sa śaraugha-samāyastaḥ), Nīla, commander of the monkey army, hurled a mountain peak at the lord of Rākṣasas with a single hand (kareṇaikena śailāgraṃ rakṣo-'dhipataye 'sṛjat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recovering his breath, Hanumān refrains from interrupting Nīla's duel as Rāvaṇa shatters Nīla's mountain peak with seven shafts and slices apart his volley of trees.
 </details>
 </details>
 
@@ -4277,6 +4381,14 @@ In that fray, Nīla hurled Aśvakarṇa trees, Sāla trees, and mango trees in f
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Meeting those trees in mid-air (sa tān vṛkṣān samāsādya), Rāvaṇa sliced them to pieces in turn (praticiccheda rāvaṇaḥ), and rained down upon the son of Fire a terrible shower of arrows (abhyavarṣac ca ghoreṇa śara-varṣeṇa pāvakim).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Showered with arrows, Nīla shrinks his form to leap atop Rāvaṇa’s banner, bow-tip, and crown, astonishing Rāma and prompting the bewildered demon king to summon the blazing fiery missile.
 </details>
 </details>
 
@@ -4615,6 +4727,14 @@ Incensed (saṃrabdhaḥ) then by the roaring of the monkeys as well, Rāvaṇa,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taunting Nīla’s agile illusions, Rāvaṇa consecrates an arrow with the fiery Agni missile and strikes the monkey commander squarely in the chest, felling him burning to the earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयेनापि संयुक्तं गृहीत्वा रावणः शरम् ।  
@@ -4896,6 +5016,14 @@ suddenly fell to the ground.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck in the chest (vakṣasi tāḍitaḥ) by that missile-launched arrow, Nīla, burning fiercely (nirdahyamānaḥ) all at once, fell to the surface of the earth (papāta mahītale).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Preserved from death by his father Agni’s grace, Nīla collapses unconscious, whereupon Rāvaṇa charges Lakṣmaṇa in his thundering chariot and exchanges fierce challenges with the undaunted prince.
 </details>
 </details>
 
@@ -5248,6 +5376,14 @@ after having collapsed by the bang of my rain of arrows."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By good fortune (diṣṭyā), O Rāghava, have you come within range of my sight (dṛṣṭimārgam), bound for your end (antagāmī) and of perverse intellect (viparītabuddhiḥ)! At this very instant you shall go to the world of Death, crushed (saṃsādyamānaḥ) by my nets of arrows!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mocking Rāvaṇa’s hollow boasts, Lakṣmaṇa slices his seven shafts like severed serpents and showers razor, crescent, barbed, and broadhead arrows with unshakeable dexterity.
 </details>
 </details>
 
@@ -5618,6 +5754,14 @@ Gods was astonished at Lakshmana's skill and released more whetted shafts upon h
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing those manifold nets of arrows rendered futile (moghāni paśyan), the king of the foes of the gods (tridaśārirājaḥ) marveled at Lakṣmaṇa’s dexterity (vismiye lakṣmaṇalāghavena) and once again loosed whetted shafts.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck on the forehead by Rāvaṇa’s Brahmā-given shaft, Lakṣmaṇa rallies to sever the demon’s bow and wound him, driving the blood-soaked king to hurl Brahmā’s blazing javelin.
 </details>
 </details>
 
@@ -6000,6 +6144,14 @@ The lord of the rākṣasa realm hurled with all his might (tarasā) at Sumitrā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced in the chest by Brahmā’s javelin, Lakṣmaṇa recollects his unfathomable identity as Viṣṇu; when Rāvaṇa’s twenty arms fail to lift him, Hanumān strikes the demon’s chest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामापतन्तीं भरतानुजोऽस्त्रै-  
@@ -6330,6 +6482,14 @@ Thereupon the enraged son of the Wind-god (vāyusutaḥ) rushed at Rāvaṇa and
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Felled by Hanumān’s fist, Rāvaṇa bleeds from his ten mouths and faints; immovable to his foes, Lakṣmaṇa grows feather-light through Hanumān’s devotion as Brahmā’s javelin departs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन मुष्टिप्रहारेण रावणो राक्षसेश्वरः ।  
@@ -6657,6 +6817,14 @@ Leaving Sumitrā’s son, who had been overcome in battle, that javelin returned
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāvaṇa recovers and Lakṣmaṇa heals instantly by recollecting his Viṣṇu-nature, Rāma charges into battle and mounts Hanumān’s back like Viṣṇu ascending Garuḍa to punish the demon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणोऽपि महातेजाः प्राप्य सञ्ज्ञां महाहवे ।  
@@ -6893,6 +7061,14 @@ the demon by climbing my back, as Vishnu on Garuda in order to fight with the En
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 just as Viṣṇu, mounting Garuḍa (viṣṇur yathā garutmantam āruhya), [chastises] the foe of the immortals (amaravairiṇam)!” Hearing those words spoken by the Wind-god’s son, Rāghava
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging Rāvaṇa like Viṣṇu confronting Bali, Rāma twangs his bow like thunder and warns the demon king that neither the gods nor the ten directions can save him.
 </details>
 </details>
 
@@ -7244,6 +7420,14 @@ And by this one, with his arrows, were slain (niṣūditāni) the fourteen thous
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Remembering his old enmity, Rāvaṇa pierces Rāma’s mount Hanumān with fiery shafts, whereat Hanumān’s vigor blazes brighter and enraged Rāma shatters Rāvaṇa’s chariot, horses, banner, and charioteer.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य वचः श्रुत्वा राक्षसेन्द्रो महाबलः ।  
@@ -7461,6 +7645,14 @@ with its wheels, horses, banner, canopy, great standard, charioteer, darts, spea
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Closing in upon him (abhisamkramya), Rāma with his keen arrow-tips sliced to pieces (praciccheda) his chariot along with its wheels, its horses, banner, parasol, and great pennants (sāśvadhvajacchatramahāpatākam), its charioteer, and its thunderbolt-weapons, pikes, and swords (sāśaniśūlakhaḍgam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Striking Rāvaṇa’s broad chest like Indra smiting Meru, Rāma makes the unshakeable king drop his bow, slices off his sun-bright diadem, and spares his exhausted foe.
 </details>
 </details>
 
@@ -7744,6 +7936,14 @@ the clutches of Death."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “You have performed a great and most terrible feat (karma mahat subhīmam), and you have left me with my chief heroes struck down (hatapravīraś ca kṛtas tvayāham); therefore, judging that you are exhausted (pariśrānta iti vyavasya), I do not bring you under the sway of Death with my arrows.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissed by Rāma to rest and rearm in Laṅkā, the crownless, bowless Rāvaṇa retreats in shame while Rāma heals the monkey heroes and the cosmos rejoices.
 </details>
 </details>
 

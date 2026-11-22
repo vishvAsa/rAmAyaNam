@@ -28,6 +28,14 @@ themselves before Rama on this very day.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moon-faced Tārā intercedes before blazing Lakṣmaṇa, defending Sugrīva against the charge of ingratitude and comparing his forgetfulness of time after long misery to the sage Viśvāmitra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्रूवाणं सौमित्रिं प्रदीप्तमिव तेजसा ।  
@@ -345,6 +353,14 @@ himself to the time-oriented actions as with saint Vishvamitra. [4-35-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having formerly lain in deep misery (suduḥkhaśayitaḥ pūrvam), upon attaining this supreme happiness (prāpyedam sukham uttamam) he does not perceive that the appointed season has arrived (prāptakālam na jānīte), just like the sage Viśvāmitra (viśvāmitro yathā muniḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how even great Viśvāmitra deemed ten years with Ghṛtācī a single day, Tārā begs Lakṣmaṇa and Rāma to pardon exhausted Sugrīva and lay aside hasty wrath.
 </details>
 </details>
 
@@ -667,6 +683,14 @@ this clangour upshot in high dudgeon of yours. [4-35-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With composed mind (samāhitā), O knower of righteousness, I propitiate you (prasādaye tvām) on Sugrīva's behalf (sugrīvārtham); let this great agitation (mahān saṃrambhaḥ) born of wrath be cast aside (tyajyatām ayam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Sugrīva would sacrifice his queens and kingdom for Rāma, Tārā recounts from Vālī's report the myriad Rākṣasas guarding Laṅkā whom neither Rāvaṇa's foes nor Sugrīva can slay unaided.
 </details>
 </details>
 
@@ -1021,6 +1045,14 @@ of Ravana's capabilities to Tara.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus did Vālī declare (evam ākhyātavān vālī), for that lord of monkeys was well-informed (sa hy abhijño harīśvaraḥ); how [Rāvaṇa] acquired [that host] is not known to me (āgamas tu na me vyaktaḥ) — I speak from having heard his words (śravāt tasya bravīmy aham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tārā reveals that Sugrīva's envoys were sent long ago and that today is the appointed day for crores of bears and monkeys to arrive, pleading with Lakṣmaṇa to calm the terrified palace women.
 </details>
 </details>
 

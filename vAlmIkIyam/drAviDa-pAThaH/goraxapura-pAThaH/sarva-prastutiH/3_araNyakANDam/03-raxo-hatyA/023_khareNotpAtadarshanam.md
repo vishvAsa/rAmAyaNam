@@ -25,6 +25,14 @@ is nothing before him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Khara's army marches forth, a donkey-grey cloud rains blood-red water, his chariot-steeds stumble on level ground, a firebrand-like halo rings the sun, and jackals howl toward the sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्प्रयातं बलं घोरमशिवं शोणितोदकम् ।  
@@ -311,6 +319,14 @@ awful sounds, that which is inauspicious to the demons. [3-23-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Elephant-like clouds blot out the sky with blood-tinted rain and hair-raising darkness, an untimely blood-red twilight glows, flame-belching jackals howl at the army, and Rāhu seizes the sun out of season.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभिन्नगजसङ्काशास्तोयशोणितधारिणः ।  
@@ -588,6 +604,14 @@ whirled frantically. [3-23-11b, 12]
 **11:** —howled facing the army (nedur balasyābhimukham) with mouths belching flames (jvālodgāribhir ānanaiḥ). A headless trunk (kabandhaḥ) resembling an iron-bound club (parighābhāsaḥ) was seen near the sun (bhāskarāntike).
 
 **12:** Svarbhānu [Rāhu], the great planet (mahā-grahaḥ), seized the sun (jagrāha sūryam) on a non-new-moon day (aparvaṇi); the wind blew violently (pravāti mārutaḥ śīghram), and the sun became bereft of lustre (niṣprabho 'bhūd divākaraḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Firefly-dim stars appear by day, lotus-ponds wither, trees shed their fruits, meteors crash as earth quakes, and Khara's left arm twitches and his brow aches—yet in delusion he refuses to turn back.
 </details>
 </details>
 
@@ -890,6 +914,14 @@ And an aching pain arose in his forehead (lalāṭe ca rujo jātāḥ), yet out 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laughing off the terrifying portents, Khara boasts that his arrows could shoot down the stars or subject Death himself to mortality, vowing that Śūrpaṇakhā shall drink the princes' blood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोत्पातानिमान् सर्वानुत्थितान् घोरदर्शनान् ॥ १९ ॥  
@@ -1187,6 +1219,14 @@ This is witnessed directly by you (yuṣmākam etat pratyakṣam); I speak no un
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exulting at Khara's boast even as Death's noose tightens around them, the demons march on while sages, gods, gandharvas, and siddhas gather in the sky to pray for Rāma's victory.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तस्य गर्जितं श्रुत्वा राक्षसानां महाचमूः ॥ २५ ॥  
@@ -1369,6 +1409,14 @@ once conquered all the mighty demons in war." So said celestials to one another.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “May auspiciousness (svasti) attend the cows and Brāhmaṇas (go-brāhmaṇebhyaḥ), and all those who are revered by the worlds (lokānāṃ ye ca sammatāḥ)! May Rāghava conquer (jayatām) in battle the night-roaming Paulastyas—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Watched by curious gods in aerial cars, Khara speeds ahead flanked by twelve chief captains while four generals follow Dūṣaṇa, the demon host closing upon the two princes like planets around the sun and moon.
 </details>
 </details>
 

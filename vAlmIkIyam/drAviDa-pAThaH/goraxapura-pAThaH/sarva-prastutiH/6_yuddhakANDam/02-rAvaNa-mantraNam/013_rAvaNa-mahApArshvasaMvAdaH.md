@@ -24,6 +24,14 @@ past. Ravana then boasts of his own prowess.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāvaṇa angered by Kumbhakarṇa's rebuke, the sycophantic Mahāpārśva urges him to enjoy Sītā forcibly after the manner of a rooster, relying on martial might.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं क्रुद्धमाज्ञाय महापार्श्वो महाबलः ।  
@@ -325,6 +333,14 @@ even Devendra (god of celestials), wielding the weapon of a thunderbolt."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mahāpārśva champions martial force over diplomacy, prompting Rāvaṇa to disclose a long-kept secret: his ancient encounter with the Apsaras Puñjikasthalā on her way to Brahmā's abode.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपप्रदानं सान्त्वं वा भेदं वा कुशलैः कृतम् ।  
@@ -574,6 +590,14 @@ concealing herself in the sky and proceeding towards the abode of Brahma."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I once beheld Puñjikasthalā proceeding to the abode of the Grandsire [Brahmā] (pitāmahasya bhavanam), darting furtively to and fro (cañcūryamāṇām) in the sky like a tongue of fire (ākāśe 'gniśikhām iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa confesses that after he ravished Puñjikasthalā, Brahmā cursed his head to splinter into a hundred pieces if he ever forced another woman—staying his hand against Sītā.
 </details>
 </details>
 
@@ -834,6 +858,14 @@ does not know this and hence he is indeed having an encounter with me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “My impetuosity is like the ocean's (sāgarasyeva me vegaḥ), and my speed is like the wind's (mārutasyeva me gatiḥ); Daśaratha's son does not know this, and therefore he marches against me (hy āsādayati tena mām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening himself to a cave-sleeping lion and the rising sun effacing the stars, Rāvaṇa boasts he will scorch Rāma with firebrand-like shafts and recalls conquering Kubera's Laṅkā.
 </details>
 </details>
 

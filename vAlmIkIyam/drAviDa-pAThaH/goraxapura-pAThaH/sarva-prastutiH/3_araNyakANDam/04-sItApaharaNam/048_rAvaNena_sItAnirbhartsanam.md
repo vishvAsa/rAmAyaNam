@@ -24,6 +24,14 @@ luring.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knitting his brow in wrath at Sītā's rebuke, Rāvaṇa boasts of how he vanquished his half-brother Kubera in battle, drove him to Kailāsa, and seized the aerial palace Puṣpaka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवत्यां सीतायां संरब्धः परुषं वचः ।  
@@ -318,6 +326,14 @@ in skies. [3-48-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 His was that auspicious aerial palace named Puṣpaka (puṣpakaṃ nāma vimānam), which courses at will (kāma-gam); wrested by my valor (vīryād āvarjitam), O fair lady (bhadre), it is that by which I traverse the sky (yena yāmi vihāyasam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that the gods flee at his frown and that the sun, wind, and rivers grow still in fear of him, Rāvaṇa extols the silver ramparts and golden courts of Laṅkā.
 </details>
 </details>
 
@@ -639,6 +655,14 @@ trees which yield fruits that fulfil all the savours, and it is bedecked with ch
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —crowded with elephants, horses, and chariots (hasty-aśva-ratha-sambādhā), resounding with the music of instruments (tūrya-nāda-vināditā), and adorned with dense pleasure-gardens (saṃkulodyāna-bhūṣitā) of trees bearing every desired fruit (sarva-kāma-phalair vṛkṣaiḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disparaging Rāma as a short-lived mortal stripped of his kingdom, Rāvaṇa warns Sītā not to spurn him lest she suffer remorse like Urvaśī after kicking Purūravas.
 </details>
 </details>
 
@@ -1040,6 +1064,14 @@ Uurvashi is a beauty of higher order. Kalidasa took this as his subject for his 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For if you spurn me (pratyākhyāya hi mām), O timid one (bhīru), you shall fall into remorse (paścāttāpaṃ gamiṣyasi), like Urvaśī after kicking Purūravas with her foot (caraṇenābhihatyeva purūravasam urvaśī)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eyes reddened with wrath at Rāvaṇa's boast, Sītā denounces him as the ruin of the rākṣasa race and warns that not even drinking ambrosia could save him after violating her.
 </details>
 </details>
 

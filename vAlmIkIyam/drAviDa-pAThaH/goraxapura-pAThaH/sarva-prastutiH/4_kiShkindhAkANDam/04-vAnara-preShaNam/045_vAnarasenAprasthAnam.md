@@ -25,6 +25,14 @@ the *sugriiva aaj~na* 'the inviolable order of Sugreeva.'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned by Sugrīva's stern command, the monkey legions cover the earth like locusts as Śatabali, Vinata, and Hanūmān depart toward the northern, eastern, and southern quarters.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वांश्चाहूय सुग्रीवः प्लवगान् प्लवगर्षभः ।  
@@ -243,6 +251,14 @@ awaiting (pratīkṣamāṇaḥ) that month which had been appointed for the rec
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Suṣeṇa marches west and Sugrīva rejoices in having dispatched all four armies, the exultant monkey chieftains roar like lions and vow to slay Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वां दिशं प्रतिययौ विनतो हरियूथपः ॥ ५ ॥  
@@ -434,6 +450,14 @@ expeditiously started towards one's own direction. [4-45-9]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus impelled (saṃcoditāḥ) by the king, all the monkey troop-leaders swiftly set forth, heading toward (abhipretya) their respective quarters.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swelled with pride in their might, the monkey warriors individually boast before Sugrīva of cleaving mountains, churning oceans, leaping a hundred yojanas, and rescuing Jānakī even from Pātāla.
 </details>
 </details>
 

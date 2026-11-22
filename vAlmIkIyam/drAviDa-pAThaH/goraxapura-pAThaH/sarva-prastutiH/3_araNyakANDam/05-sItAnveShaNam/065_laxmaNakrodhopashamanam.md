@@ -26,6 +26,14 @@ search, then that which is appropriate to the situation obtaining then, it can b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāma ablaze with apocalyptic wrath like the doomsday fire and ready to consume the universe, Lakṣmaṇa joins his palms and implores him not to forsake his innate gentleness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्यमानं तदा रामं सीताहरणकर्शितम् ।  
@@ -280,6 +288,14 @@ For the offense of one alone (ekasya nāparādhena), you ought not to destroy th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing to the blood-sprinkled battlefield scarred by hooves and wheel-rims without the tracks of an army, Lakṣmaṇa argues that a single culprit abducted Sītā and the innocent worlds must be spared.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केन वा कस्य वा हेतोः सयुगः सपरिच्छदः ।  
@@ -498,6 +514,14 @@ cannot evoke indignation in you, because they are always gentle to you... isn't 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Who indeed, O Rāghava, would deem the loss of your wife (dāra-praṇāśam) a right thing (sādhu manyeta)? Rivers, oceans, mountains, and gods, Gandharvas, and Dānavas—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing Rāma to a consecrated sacrificer whom none would wrong, Lakṣmaṇa urges a thorough search for Sītā's abductor before resorting to thunderbolt-like arrows if peaceful means fail.
 </details>
 </details>
 

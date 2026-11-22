@@ -25,6 +25,14 @@ country without a king and leaving it in anarchy.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the long night of lamentation passes after King Daśaratha’s demise, the royal kingmakers—Mārkaṇḍeya, Maudgalya, Vāmadeva, Kāśyapa, Kātyāyana, Gautama, and Jābāli—assemble at dawn and address Vasiṣṭha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आक्रन्दिता निरानन्दा सास्रकण्ठजनाविला ।  
@@ -300,6 +308,14 @@ Lakshmana followed suit and went along with Rama."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The great king has ascended to heaven (svargataḥ), Rāma has betaken himself to the forest (araṇyam āśritaḥ), and the radiant Lakṣmaṇa too has gone forth along with Rāma himself.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that a kingless realm perishes, the sages begin their famous litany: in a land without a king, neither does the rain-cloud shower, nor is seed sown, nor do sons, wives, wealth, truth, or assemblies endure.
 </details>
 </details>
 
@@ -616,6 +632,14 @@ erect beautiful parks or temples."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In a kingless land, men do not build assembly halls (kārayanti sabhām), nor do they joyfully construct delightful pleasure-gardens (udyānāni ramyāṇi) and sacred edifices (puṇya-gṛhāṇi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In a kingless land, self-controlled Brahmins do not perform long Soma sacrifices or distribute generous dakṣiṇās, festivals and assemblies cease to flourish, litigants and story-lovers find no delight, and maidens and lovers dare not venture out.
 </details>
 </details>
 
@@ -940,6 +964,14 @@ In a kingless land, amorous men (narāḥ kāminaḥ) do not ride forth into the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In a kingless land, householders cannot sleep with open doors, royal elephants do not roam the highways, archers cease practicing, merchants cannot travel safely, solitary ascetics cannot meditate, and armies cannot withstand foes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे वाहनैः शीघ्रवाहिभिः ।  
@@ -1259,6 +1291,14 @@ In a kingless land, neither acquisition nor preservation of goods (yoga-kṣemam
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In a kingless land, neither horsemen nor scholars debating in the groves nor pious worshippers nor princes shine; like waterless rivers, grassless woods, and herdsmanless kine is a realm without a king.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाराजके जनपदे हृष्टैः परमवाजिभिः ।  
@@ -1523,6 +1563,14 @@ Just as rivers are without water (anudakā nadyaḥ), or a forest without grass 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without a king, men devour one another like fish and even heretics once curbed by royal punishment grow insolent; as sight guides the body, the king is the fountainhead of truth, dharma, lineage, and human welfare.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्वजो रथस्य प्रज्ञानं धूमो ज्ञानं विभावसोः ।  
@@ -1777,6 +1825,14 @@ people."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The king is truth and dharma; the king is the lineage of those of noble family (kulavatāṃ kulam); the king is both mother and father; the king is the benefactor of mankind (hitakaro nṛṇām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surpassing Yama, Kubera, Indra, and Varuṇa by his comprehensive conduct, a king divides right from wrong lest the world sink into darkness; the sages therefore entreat Vasiṣṭha to consecrate an Ikṣvāku prince.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ women who felt bewildered with fear and restlessness; when the king met with his
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At dawn on the following day, royal bards, genealogists, singers, and hand-clappers assemble at the king’s palace, filling the halls with auspicious praises, lute-strains, and the cries of awakened birds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रात्र्यां व्यतीतायां प्रातरेवापरेऽहनि ।  
@@ -318,6 +326,14 @@ blissful songs of the metric verses filled that palace.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Auspicious words uttered aloud (vyāhṛtāḥ puṇya-śabdāś ca), the sweet murmurings of lutes (vīṇānāṃ niḥsvanāḥ), and the benedictory singing of ballads (āśīr-geyaṃ ca gāthānām) filled that mansion.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pure-mannered palace attendants, eunuchs, and maidens bring golden pitchers of sandal-scented bathwater and auspicious morning requisites; when the king fails to appear by sunrise, the women near his couch approach to wake him.
 </details>
 </details>
 
@@ -641,6 +657,14 @@ Then those women who were closest to the couch of the lord of Kosala (śayanaṃ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Touching the royal couch and perceiving no heartbeat or breathing, the trembling palace women realize that the king is dead, while Kausalyā and Sumitrā lie nearby in deep, grief-stricken slumber.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाप्युचितवृत्तास्ता विनयेन नयेन च ।  
@@ -952,6 +976,14 @@ not shining as before with her face ruffled by tears of grief.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Next to the king lay Kausalyā, and next to her (tad-anantaram) Queen Sumitrā; with her face bedewed with tears of grief (śokāśru-lulitānanā), she too did not shine.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the two queens asleep and the king lifeless, the harem women wail like she-elephants bereft of their herd-lord; Kausalyā and Sumitrā start awake, touch the king, and fall to the earth crying “Alas, O Lord!”
 </details>
 </details>
 
@@ -1273,6 +1305,14 @@ appearing as a female elephant, which was killed and felled on the ground.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When the king’s vital faculties had stilled (nṛpe śānta-guṇe jāte), all those women beheld Kausalyā fallen upon the ground like a slain female elephant (hatāṃ nāga-vadhūm iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+All the king’s wives headed by Kaikeyī fall senseless in grief; their echoing lamentations fill the palace with tumult as they surround the departed monarch, clasp their arms, and wail like orphans.
 </details>
 </details>
 

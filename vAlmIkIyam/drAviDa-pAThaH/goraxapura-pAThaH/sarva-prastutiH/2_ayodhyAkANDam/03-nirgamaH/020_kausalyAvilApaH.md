@@ -23,6 +23,14 @@ hearing the news, faints. On recovering, she laments in the most grevious tones 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma exits with folded hands, the royal queens raise a great cry of anguish like cows bereft of their calves, praising his unfailing gentleness and reproaching the king for abandoning the refuge of all beings.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिंस् तु पुरुष-व्याघ्रे  
@@ -337,6 +345,14 @@ abused their husband .
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Speaking thus like cows bereft of their calves (vivatsā iva dhenavaḥ), all those royal queens reproached their husband (ācukruśuḥ) and wept aloud (cukruśuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the grief-stricken king shrinks into his couch upon hearing the wailing of the queens, the self-mastered Rāma sighs like an elephant for his loved ones' sorrow and crosses the three courtyards of Kausalyā's palace.
 </details>
 </details>
 
@@ -669,6 +685,14 @@ Bowing low to those elders, Rāma beheld in the third courtyard young maidens an
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the female warders joyfully announce his arrival, Rāma enters Kausalyā's inner sanctuary and beholds his mother clad in white silk, offering oblations into the sacred fire for his welfare.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **वर्धयित्वा** प्रहृष्टास् ताः  
@@ -955,6 +979,14 @@ spices, sacrificial sticks, vessels full of water etc.
 **17:** There he saw arrayed for the worship of the gods curds, unbroken auspicious grains (akṣata), clarified butter, sweetmeats (modakān), and sacrificial oblations (haviṣaḥ),
 
 **18:** as well as parched grain (lājān), white garlands, milk-rice (pāyasam), sesame-and-pulse rice (kṛsaram), sacred fuel-sticks (samidhaḥ), and full water-jars—all these the delighter of the Raghus beheld.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hastening toward Rāma like a mare toward her foal, Kausalyā embraces him, smells his head, and blesses him with the longevity of ancient royal sages, believing he will be consecrated today.
 </details>
 </details>
 
@@ -1284,6 +1316,14 @@ will be installed as successor to the kingdom by your virtuous father."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Touching the offered seat with his hand without sitting down, Rāma gently breaks the news to Kausalyā that the time has come for him to sit upon a darbha-grass mat and live for fourteen years as a forest ascetic.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दत्तम् आसनम् **आलभ्य**  
@@ -1599,6 +1639,14 @@ he is making me a sage to stay in the forest of Dandaka."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The great king bestows the office of Prince Regent upon Bharata, while me he banishes to the Daṇḍaka forest as an ascetic (tāpasam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Falling to the ground like a sāla bough felled by an axe or a goddess cast down from heaven, Kausalyā is raised and wiped clean of dust by Rāma as she laments that childlessness would have been less painful.
 </details>
 </details>
 
@@ -1929,6 +1977,14 @@ only to produce sorrow to me."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting a barren woman's single regret with her own bottomless grief, Kausalyā laments that after enduring years of her husband's neglect and Kaikeyī's scorn, Rāma's exile will surely bring her death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एक एव हि वन्ध्यायाः  
@@ -2242,6 +2298,14 @@ equal to or even lower than the servants of Kaikeyi"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how even her own attendants fall silent out of fear of Kaikeyī's son and how seventeen years have passed since Rāma's investiture, Kausalyā asks how she can live without beholding his moon-like face.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि मां सेवते कश्चिदपि वाप्यनुवर्तते ।  
@@ -2508,6 +2572,14 @@ radiating like full moon."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that she reared Rāma with fasts and meditations in vain, Kausalyā marvels that her iron heart does not burst like a river-bank in the monsoon and that Yama has no room to snatch her away.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपवासैश्च योगैश्च बहुभिश्च परिश्रमैः ।  
@@ -2729,6 +2801,14 @@ it is certain"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Truly this heart of mine is wrought of iron (āyasam) and unyielding, since it neither splits in two nor shatters upon the earth, even when my body is pierced by this sorrow; surely there is no death before the appointed time (akāle maraṇam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing her austerities for a son to seed sown in barren saline soil, Kausalyā vows to follow Rāma to the forest like a feeble cow following her calf, lamenting like a Kiṃnarī beholding her son bound.
 </details>
 </details>
 

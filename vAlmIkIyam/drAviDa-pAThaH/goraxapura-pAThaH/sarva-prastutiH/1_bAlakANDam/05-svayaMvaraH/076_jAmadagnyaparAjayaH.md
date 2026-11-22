@@ -15,6 +15,14 @@ title_english = "076 parashu rAma s pride is hurt"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Restraining his speech out of respect for his father Daśaratha, Śrī Rāma answers Paraśurāma’s slight, takes the Vaiṣṇava bow and arrow from his hand, and strings the weapon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु जामदग्न्यस्य वाक्यं दाशरथिस्तदा ।  
@@ -283,6 +291,14 @@ Stringing that bow (āropya sa dhanū rāmaḥ), Rāma fitted the arrow to the b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revering Paraśurāma as a Brāhmaṇa and kinsman of Viśvāmitra, Rāma spares his life but declares that the unfailing Vaiṣṇava arrow must strike either his swift movement or his ascetic worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणोऽसीति पूज्यो मे विश्वामित्रकृतेन च ।  
@@ -503,6 +519,14 @@ of Bhaargava Rama to Dasharatha Rama. Nrisimha Puraana has this: *tataH parashur
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and Gandharvas and Apsarases, Siddhas, Cāraṇas, and Kinnaras, as well as Yakṣas, Rākṣasas, and Nāgas, gathered to witness that great marvel (tad draṣṭuṃ mahad adbhutam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stripped of his Vaiṣṇava splendor as it passes into Śrī Rāma, the benumbed Paraśurāma speaks softly, pleading that his swift movement to Mount Mahendra be spared to honor his pledge to Kaśyapa.
 </details>
 </details>
 
@@ -768,6 +792,14 @@ of cerebration to Mt. Mahendra, a par excellent mountain... [1-76-15]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking Rāma to strike down his ascetic worlds instead, Paraśurāma recognizes him through his handling of the bow as the imperishable slayer of Madhu, Lord of the gods and master of the three worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकास्त्वप्रतिमा राम निर्जितास्तपसा मया ।  
@@ -1014,6 +1046,14 @@ a point of no return for me..." So said Parashu Rama to Dasharatha Rama. [1-76-2
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Rāma of noble vows, release this peerless arrow (śaram apratimaṃ rāma moktum arhasi suvrata); upon the release of the arrow, I shall depart to Mahendra, the foremost of mountains (śaramokṣe gamiṣyāmi mahendraṃ parvatottamam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śrī Rāma releases the supreme arrow to consume Paraśurāma’s ascetic worlds; the quarters brighten free of darkness, the gods praise Rāma, and Paraśurāma circumambulates him and departs.
 </details>
 </details>
 

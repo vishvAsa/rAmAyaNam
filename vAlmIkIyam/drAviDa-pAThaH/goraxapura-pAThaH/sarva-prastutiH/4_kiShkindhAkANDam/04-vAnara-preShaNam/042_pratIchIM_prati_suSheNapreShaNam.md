@@ -29,6 +29,14 @@ time.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dispatched the southern troop, King Sugrīva reverently salutes his father-in-law Suṣeṇa and commissions him, along with Arciṣmat and two hundred thousand monkeys, to search the western quarter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ प्रस्थाप्य स हरीन् सुग्रीवो दक्षिणां दिशम् ।  
@@ -183,6 +191,14 @@ vanara troops. [4-42-5b, 6a]
 **4:** endowed with intelligence and valor (buddhivikramasampannam) and matching Vinatā's son [Garuḍa] in radiance (vainateyasamadyutim), as well as the mighty sons of Marīci known as the Mārīcas, [resplendent] with garlands of flame (arcirmālyān),
 
 **5:** and all those [other] sons of sages (ṛṣiputrān)—[to them] he assigned the western quarter (pratīcīṃ diśam), [saying]: 'O best of monkeys, [accompanied] by two hundred thousand (dvābhyāṃ śatasahasrābhyām) monkeys,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva directs the western search party through prosperous realms, westward-flowing rivers, ascetic forests, and arid mountain crags until they reach the western ocean and its palm-fringed shores.
 </details>
 </details>
 
@@ -410,6 +426,14 @@ Tamaala plants and in the boscages of coconut trees. [4-42-11b, 12a]
 **11:** Going there, O monkeys, you shall behold [that ocean] whose waters teem with giant timi fish and crocodiles (timinakrākulajalam); thereafter, among ketaka thickets and dense tamāla woods (tamālagahaneṣu),
 
 **12:** the monkeys will roam, and among forests of coconut palms (nārikelavaneṣu); there, search both for Sītā and for the abode (nilayam) of Rāvaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva describes the coastal cities and the hundred-peaked Mount Somagiri at the Sindhu's mouth, where winged lions carry whales and elephants up to their lofty nests.
 </details>
 </details>
 
@@ -670,6 +694,14 @@ on it. [4-42-18b, 19a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 roam all around those nests of the lions upon this broad, water-filled [plateau]; its golden (kāñcanam) peak, touching the sky (divasparśam), is graced with variegated trees (citrapādapam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva warns the monkeys about Mount Pāriyātra's golden oceanic peak, guarded by twenty-four crores of fiery Gandharvas, advising them to search disguised by their natural simian behavior.
 </details>
 </details>
 
@@ -955,6 +987,14 @@ scare from those Gandharva-s. Then you proceed from that Mt. Paariyaatra to Mt. 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet diligent effort (yatnaḥ) must be made there, and Jānakī must be searched for; for there is no fear (bhayam) at all from them for those who adhere to their natural monkey ways (kapitvam anuvartatām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva describes three oceanic mountains—beryl-hued Mount Vajra, Mount Cakravān where Viṣṇu won His thousand-spoked discus and conch, and golden-peaked Mount Varāha in Varuṇa's unfathomable sea.
 </details>
 </details>
 
@@ -1275,6 +1315,14 @@ Sixty-four yojanas (yojanāni catuḥṣaṣṭiḥ) [further on], in the unfath
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva describes Naraka's golden citadel Prāgjyotiṣa on Mount Varāha, the all-golden Mount Megha where the gods consecrated Indra, and sixty thousand golden mountains beyond.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र प्राग्ज्योतिषं नाम जातरूपमयं पुरम् ।  
@@ -1553,6 +1601,14 @@ That mountain—upon which glorious Mahendra, chastiser of Pāka (pākaśāsana�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva describes the western Mount Meru, blessed by Sūrya so that all who dwell upon it shine like gold, where the gods worship the Sun at evening twilight.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमतिक्रम्य शैलेन्द्रं महेन्द्रपरिपालितम् ।  
@@ -1788,6 +1844,14 @@ Suns in other galaxies...' are twelve.
 **41:** The Viśvedevas, the Vasus, and the Maruts—denizens of heaven (divaukasaḥ)—coming at the evening twilight (paścimāṃ saṃdhyām) to Meru, the supreme mountain,
 
 **42:** worship the Sun (ādityam upatiṣṭhanti); and revered by them (taiś ca sūryo 'bhipūjitaḥ), the Sun goes to the Sunset Mountain (astaṃ parvatam), becoming invisible to all beings (adṛśyaḥ sarvabhūtānām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva describes the Sun's swift ten-thousand-yojana transit to the Sunset Mountain, Varuṇa's celestial palace upon its peak, the ten-crowned golden palmyra, and the sage Merusāvarṇi.
 </details>
 </details>
 
@@ -2115,6 +2179,14 @@ There [upon that Meru] abides the knower of dharma (dharmajñaḥ), illumined by
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva instructs the monkeys to inquire of Sage Merusāvarṇi regarding Sītā, marks the Sunset Mountain as the sunless boundary of the world, and sets a strict one-month deadline.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रष्टव्यो मेरुसावर्णिर्महर्षिः सूर्यसन्निभः ।  
@@ -2405,6 +2477,14 @@ proceeding along with you. [4-42-53]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 You must not remain beyond a month (ūrdhvaṃ māsān na vastavyam); anyone remaining [longer] shall be liable to death at my hands (vadhyo bhaven mama). My heroic father-in-law (śvaśuro me) will go right along with you.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva enjoins the western host to obey his father-in-law Suṣeṇa and exercise timely judgment so as to repay Rāma's benefaction, whereupon Suṣeṇa's troop departs for Varuṇa's quarter.
 </details>
 </details>
 

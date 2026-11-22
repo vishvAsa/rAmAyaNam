@@ -26,6 +26,14 @@ others.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Bharata fallen on the ground in matted locks and bark-cloth like the sun at the end of a yuga, Rāma lifts him onto his lap, smells his head, and anxiously asks why he has come to the forest while King Daśaratha lives.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटिलं चीरवसनं प्राञ्जलिं पतितं भुवि ।  
@@ -279,6 +287,14 @@ king has not indeed departed to the other world, all of a sudden."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Does the king still sustain his life-breath, dear brother, since you have come here (kaccid dhārayate tāta rājā yat tvam ihāgataḥ)? I trust the grieving king has not suddenly departed to the other world (kaccin na dīnaḥ sahasā rājā lokāntaraṃ gataḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether Bharata’s ancestral kingdom remains secure, whether King Daśaratha, the royal preceptor Vasiṣṭha, and Queens Kausalyā, Sumitrā, and Kaikeyī are well, and whether the family chaplain duly tends and announces the sacred fires.
 </details>
 </details>
 
@@ -606,6 +622,14 @@ Does he who is appointed over your sacred fires—conversant with ritual ordinan
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beginning his instruction in statecraft, Rāma asks whether Bharata honors gods, ancestors, elders, physicians, Brāhmaṇas, and the archery-master Sudhanvan, appoints incorruptible counselors who guard state secrets, wakes before dawn to ponder policy, and deliberates neither alone nor with too many.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् देवान् पितॄन् भृत्यान् गुरून् पितृसमानपि ।  
@@ -930,6 +954,14 @@ Do you deliberate neither all alone nor together with too many (kaccin mantrayas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether Bharata swiftly executes enterprises of small cost and great fruit, keeps planned undertakings secret from rival kings, guards his counsels from being guessed, and prizes a single wise, discerning minister above thousands of fools.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिदर्थं विनिश्चित्य लघुमूलं महोदयम् ।  
@@ -1249,6 +1281,14 @@ great prosperity to the king or to one who enjoys royal authority."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even a single minister who is intelligent, heroic, capable, and versed in policy (eko ’py amātyo medhāvī śūro dakṣo vicakṣaṇaḥ) can lead a king or a royal prince to supreme prosperity (rājānaṃ rāja-mātraṃ vā prāpayen mahatīṃ śriyam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether superior, middle, and lower servants are assigned to matching tasks, whether tested hereditary ministers hold the highest offices, whether Bharata avoids harsh punishments and extortionate taxes, slays seditious schemers, and appoints a heroic, loyal commander-in-chief.
 </details>
 </details>
 
@@ -1579,6 +1619,14 @@ born in a good family, who is beloved by his subordinates and efficient, is sele
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Have you appointed as your commander-in-chief a man who is cheerful, heroic, wise, steadfast, pure, high-born, devoted, and capable (kaccid dhṛṣṭaś ca śūraś ca matimān dhṛtimāñ śuciḥ kulīnaś cānuraktaś ca dakṣaḥ senā-patiḥ kṛtaḥ)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether proven warrior-chiefs are honored, whether the army’s daily rations and monthly wages are paid without delay, whether noblemen are ready to lay down their lives, whether an eloquent native envoy is appointed, and whether the eighteen tīrthas are watched by three mutually unknown spies.
 </details>
 </details>
 
@@ -1919,6 +1967,14 @@ Do you watch over the eighteen departments of state among enemy kings, and the f
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma warns against underestimating returning foes and consorting with materialist Brāhmaṇas who abandon the dharmaśāstras for dry dialectics, and asks whether Bharata guards unconquerable, prosperous Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् व्यपास्तानहितान् प्रतियातांश्च सर्वदा ।  
@@ -2158,6 +2214,14 @@ abound there."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether the prosperous Kosala countryside—graced with hundreds of sacrificial altars, shrines, water-pavilions, tanks, festivals, well-plowed fields, river-fed crops, and mines—dwells in happiness, and whether farmers and herdsmen are cherished and protected.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिच्चैत्यशतैर्जुष्टः सुनिविष्टजनाकुलः ।  
@@ -2365,6 +2429,14 @@ righteousness."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Have you provided for their maintenance by securing their welfare and warding off afflictions (teṣāṃ gupti-parīhāraiḥ kaccit te bharaṇaṃ kṛtam)? For all inhabitants of the realm must be righteously protected by a king (rakṣyā hi rājñā dharmeṇa sarve viṣaya-vāsinaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether Bharata conciliates and guards women without trusting them with state secrets, tends his elephant-forests, appears adorned each morning on the royal highway, follows a middle course with workmen, stocks all forts, and keeps revenue high and expenditure low.
 </details>
 </details>
 
@@ -2687,6 +2759,14 @@ not reach undeserving people, O, Bharata!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Is your revenue abundant, and is your expenditure smaller than your income (āyas te vipulaḥ kaccit kaccid alpataro vyayaḥ)? And I trust, O Rāghava, that your treasury does not go to unworthy recipients (apātreṣu na te kaccit kośo gacchati rāghava)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether Bharata spends his wealth on gods, ancestors, Brāhmaṇas, guests, warriors, and allies, ensures that neither the innocent are punished out of greed nor caught thieves released for bribes, upholds impartial justice between rich and poor, and cherishes the aged, children, and physicians.
 </details>
 </details>
 
@@ -3013,6 +3093,14 @@ Do you seek to win over and honor the aged, children, and the foremost of learne
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether Bharata bows to elders, ascetics, gods, guests, sacred trees, and Brāhmaṇas, harmonizes dharma, artha, and kāma in their proper hours without letting one obstruct another, and shuns the royal vices of atheism, falsehood, anger, negligence, procrastination, and sloth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिद् गुरूंश्च वृद्धांश्च तापसान् देवतातिथीन् ।  
@@ -3230,6 +3318,14 @@ knowledge of the scriptures, the inhabitants of town and the country pray for yo
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Do Brāhmaṇas versed in the meaning of all the śāstras, together with the citizens of the capital and the countryfolk, pray for your welfare and happiness, O prince of great wisdom (kaccit te brāhmaṇāḥ śarma sarva-śāstrārtha-kovidāḥ āśaṃsante mahā-prājña paura-jānapadaiḥ saha)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the fourteen royal vices, Rāma asks whether Bharata masters the technical categories of statecraft—the ten-fold, five-fold, four-fold, seven-fold, eight-fold, three-fold, and twenty-fold groups, the three sciences, the six measures of policy, the circle of states, and secret counsel with three or four ministers.
 </details>
 </details>
 
@@ -3475,6 +3571,14 @@ proposal collectively and singly with each of them in secret."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Do you deliberate upon counsel in secret with three or four ministers endowed with the qualifications prescribed in the śāstras, both collectively and individually (mantribhis tvaṃ yathoddiṣṭaiś caturbhis tribhir eva vā kaccit samastair vyastaiś ca mantraṃ mantrayase mithaḥ)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his royal instruction, Rāma asks whether Bharata’s Vedic study, wealth, wives, and śāstric learning bear their proper fruit, whether he walks in the righteous path of their forefathers and shares savoury food with friends, and declares that a wise king who rules righteously attains heaven.
 </details>
 </details>
 

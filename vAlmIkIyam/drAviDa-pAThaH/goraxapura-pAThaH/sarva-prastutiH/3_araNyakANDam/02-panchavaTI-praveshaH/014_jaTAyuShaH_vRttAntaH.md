@@ -27,6 +27,14 @@ Rama and the other two on their way to Panchavati come into contact with Jatayu,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On the way to Pañcavaṭī, Rāma and Lakṣmaṇa encounter the colossal vulture Jaṭāyu, who reveals himself as Daśaratha’s friend and begins recounting his cosmic lineage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ पञ्चवटीं गच्छन्नन्तरा रघुनन्दनः ।  
@@ -341,6 +349,14 @@ from the beginning, while I narrate [3-14-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jaṭāyu enumerates the primeval Prajāpatis from Kardama to Kaśyapa and tells how Kaśyapa wedded eight of Dakṣa’s sixty daughters and promised them glorious progeny.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्दमः प्रथमस्तेषां  
@@ -634,6 +650,14 @@ and who can sustain the three worlds." [3-14-12b, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aditi, Diti, Danu, and Kālakā welcome Kaśyapa’s promise and bear the thirty-three gods, the Daityas, Aśvagrīva, and Naraka, while Tāmrā bears five bird-ancestresses.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदितिस्तन्मना राम दितिश्च दनुरेव च ॥ १३ ॥  
@@ -897,6 +921,14 @@ and Shukii. [3-14-17b, 18a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And Kālakā too brought forth (kālakāpi vyajāyata) Naraka and Kālaka (narakaṃ kālakaṃ caiva). Krauñcī, Bhāsī, Śyenī, Dhṛtarāṣṭrī, and Śukī (dhṛtarāṣṭrīṃ tathā śukīm)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jaṭāyu recounts the bird-lineages born of Śyenī, Dhṛtarāṣṭrī, and Śukī, and lists Krodhavaśā’s ten daughters together with the deer, bears, yaks, and Airāvata.
 </details>
 </details>
 
@@ -1189,6 +1221,14 @@ the protector of world. [3-14-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then Bhadramadā bore a daughter named Irāvatī (irāvatīṃ nāma jajñe bhadramadā sutām); and her son is Airāvata (tasyās tv airāvataḥ putraḥ), the mighty elephant who is protector of the world (loka-nātho mahā-gajaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jaṭāyu describes the birth of lions, monkeys, tigers, elephants, cattle, horses, and serpents from Krodhavaśā’s daughters, and the birth of the four human varṇas from Manu.
 </details>
 </details>
 
@@ -1509,6 +1549,14 @@ Shudra-s from two feet, thus we hear from the scriptures viz., Veda, i.e., Rig V
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘From the mouth were the Brāhmaṇas born (mukhato brāhmaṇā jātāḥ), and from the chest the Kṣatriyas (urasaḥ kṣatriyās tathā); from the two thighs were born the Vaiśyas (ūrubhyāṃ jajñire vaiśyāḥ), and from the two feet the Śūdras (padbhyāṃ śūdrāḥ)’—such is the Vedic revelation (iti śrutiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring himself Aruṇa’s son and Sampāti’s younger brother, Jaṭāyu offers to guard Sītā at Pañcavaṭī, and Rāma joyfully embraces his father’s friend and proceeds onward.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ earlier times.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kaikeyī demands a solemn pledge before revealing her wish, and the infatuated Daśaratha, lifting her head from the floor, swears by Rāma himself.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मन्मथशरैर्विद्धं कामवेगवशानुगम् ।  
@@ -316,6 +324,14 @@ you".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By that unconquerable (ajayyena), foremost, magnanimous Rāghava, who is worthy of my very life (jīvanārheṇa), I swear to you (śape te)—speak what is desired in your heart!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without seeing Rāma for a single hour Daśaratha cannot live, yet by that very Rāma he swears to fulfill Kaikeyī's word, and she utters her wish like Death itself.
 </details>
 </details>
 
@@ -633,6 +649,14 @@ thrilled by those words (tena vākyena saṃhṛṣṭā), she uttered her own d
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Binding Daśaratha fast by calling upon the thirty-three gods, the sun, moon, planets, and household deities as witnesses, Kaikeyī reminds him of the Śambara war.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा क्रमेण शपसे वरं मम ददासि च ।  
@@ -912,6 +936,14 @@ olden times. There the enemy destroyed almost every thing except your life".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Remember, O king, what befell of old in that war between the gods and the demons (tasmin devāsure raṇe), where your foe stripped you of strength, leaving you barely your life (tava jīvitam antarā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatening immediate suicide if spurned, Kaikeyī reclaims the two boons left as a sacred deposit with the king, who leaps into her snare like a deer.
 </details>
 </details>
 
@@ -1198,6 +1230,14 @@ instead be coronated on this occasion itself".
 **23:** Then she spoke these further words to the boon-bestowing monarch who was deluded by love: “Those two boons granted to me then, O my lord, must be rendered by you today, O lord of the earth!
 
 **24:** Those two I shall now declare this very day—hear my words! The preparations for the consecration (abhiṣekasamārambhaḥ) have been got ready for Rāghava—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kaikeyī demands her two boons—that Bharata be consecrated with the very materials prepared for Rāma, and that Rāma depart today into the Daṇḍaka forest as a bark-clad ascetic for fourteen years.
 </details>
 </details>
 

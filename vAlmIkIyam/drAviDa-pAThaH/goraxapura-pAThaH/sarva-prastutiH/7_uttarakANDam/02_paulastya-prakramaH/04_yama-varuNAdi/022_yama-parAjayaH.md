@@ -13,6 +13,14 @@ title = "०२२ यम-पराजयः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāvaṇa’s roar, furious Yama senses his army’s rout and mounts his divine chariot flanked by Death, the incarnate Staff of Time, unbroken Time-nooses, and a blazing mace, making all three worlds tremble.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य तु महानादं श्रुत्वा वैवस्वतः प्रभुः ।  
@@ -202,6 +210,14 @@ Thereupon the three worlds were thrown into turmoil (tato lokatrayaṃ kṣubdha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Yama’s radiant, mind-swift steeds into battle with a dreadful roar, the charioteer puts Rāvaṇa’s terrified ministers to headlong flight, yet Daśagrīva stands utterly unshaken as Yama closes in to pierce his vitals.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो लोकत्रयं क्षुब्धमकम्पन्त दिवौकसः ।  
@@ -388,6 +404,14 @@ Closing upon Rāvaṇa (rāvaṇam āsādya) and loosing javelins and darts (vya
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Composing himself, Rāvaṇa pours an arrow-cloud upon Yama’s car, yet battered in his chest by Yama’s spears he reels stunned across seven nights; still their ferocious duel rages like cosmic dissolution as Brahmā leads the celestials to watch.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु रावणमासाद्य व्यसृजच्छक्तितोमरान् ।  
@@ -571,6 +595,14 @@ Thereupon the gods together with gandharvas, siddhas, and supreme sages (devā�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 It became like the cosmic dissolution of the worlds (saṃvarta iva lokānām ... abhavat tadā) as those two raged in fury (krudhyatoḥ)—the foremost of the rākṣasas and the lord of the departed (rākṣasānāṃ ca mukhyasya pretānām īśvarasya ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa fills the sky with shafts, piercing Death, the charioteer, and Yama; a smoke-wreathed fire of wrath bursts from Yama’s mouth, delighting Death and Time, and furious Death demands leave to slay Rāvaṇa as he slew primordial titans.
 </details>
 </details>
 
@@ -766,6 +798,14 @@ Then Death, still more enraged (mṛtyuḥ kruddhataraḥ), addressed Vaivasvata
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Death extends his roll to Vṛtra, Bāṇa, sage-kings, celestials, and the earth itself at aeon’s end, declaring that none upon whom he gazes lives a moment by cosmic law; yet Yama bids him stand aside and vows to slay Rāvaṇa himself.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैषा रक्षो भवेदद्य मर्यादा हि निसर्गतः ।  
@@ -860,6 +900,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of his (tasyaivaṃ vacanaṃ śrutvā), the glorious King of Dharma (dharmarājaḥ pratāpavān) replied to Death right there (abravīt tatra taṃ mṛtyum): “Stand aside—I myself shall slay him (tvaṃ tiṣṭhainaṃ nihanmy aham)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With eyes bloodshot in fury, Yama poises the infallible Staff of Time, whose very sight strips away life; blazing as if to incinerate Rāvaṇa, it scatters all beings and alarms the gods, until Brahmā manifests directly before Yama.
 </details>
 </details>
 
@@ -1044,6 +1092,14 @@ Even as Yama stood poised to strike Rāvaṇa with that Staff (tasmin prahartu-k
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā forbids Yama to strike the rākṣasa with the Staff, reminding him of the boon that must not be falsified—lest all three worlds become untrue—and warning that the wrathfully loosed Kāladaṇḍa destroys friend and foe indiscriminately.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विदुद्रुवुः सर्वे तस्मात् त्रस्ता रणाजिरे ।  
@@ -1199,6 +1255,14 @@ Even as Yama stood poised to strike Rāvaṇa with that Staff (tasmin prahartu-k
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā spells out the inescapable dilemma—whether Rāvaṇa lives or dies beneath the Staff, falsehood follows either way—and urges Yama to withdraw it for the worlds’ sake; righteous Yama promptly lowers the Staff in deference to Brahmā’s sovereignty.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धेन विप्रमुक्तोऽयं निर्विशेषं प्रियाप्रिये ।  
@@ -1323,6 +1387,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus (evam uktas tu), the righteous-souled Yama then replied (dharmātmā pratyuvāca yamas tadā): “Here is this Staff withdrawn (eṣa vyāvartito daṇḍaḥ), for you indeed are our sovereign lord (prabhaviṣṇur hi no bhavān)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that nothing remains for him on the field against a boon-guarded foe, Yama vanishes with chariot and steeds; Rāvaṇa proclaims his name in triumph and exits Yama’s realm on Puṣpaka, while joyful Yama ascends to heaven with Brahmā and Nārada.
 </details>
 </details>
 

@@ -50,6 +50,14 @@ and Lakshmana entering into his territory, flees into deep forests, fearing them
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arriving with Lakṣmaṇa at the lotus-filled Lake Pampā, Rāma beholds its crystalline waters and blossoming groves, yet laments in anguish over Bharata's sorrow and Sītā's abduction.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां पुष्करिणीं गत्वा पद्मोत्पलझषाकुलाम् ।  
@@ -417,6 +425,14 @@ Even to me, afflicted with sorrow (śokārtasyāpi), auspicious Pampā with its 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma admires Pampā's flower-carpeted meadows, vine-embraced treetops, and the fragrant spring breezes that shake down showers of blossoms across the rocky slabs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नलिनैरपि सञ्छन्ना ह्यत्यर्थशुभदर्शना ।  
@@ -755,6 +771,14 @@ them to shower flowers onto ground... [4-1-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And upon the lovely rock-slabs (prastareṣu), diverse forest trees, shaken by the force of the wind (vāyuvega-pracalitāḥ), strew the earth with flowers.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma describes the sandal-cool spring breeze playing with fallen and budding blossoms, entangling the boughs of trees, and resounding with the hum of bees and the cuckoo's song.
 </details>
 </details>
 
@@ -1125,6 +1149,14 @@ Tossed by the breeze in the honey-scented woods (vaneṣu madhugandhiṣu), thes
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the mountain plateaus ablaze with golden karṇikāra trees and echoing with the cries of cuckoos and gallinules, Rāma laments that spring only kindles his grief for Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिप्रस्थेषु रम्येषु पुष्पवद्भिर्मनोरमैः ।  
@@ -1438,6 +1470,14 @@ Love-god has already made me awestricken... [4-1-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And this joyful gallinule (dātyūhakaḥ), crying out beside the lovely forest cascade (vananirjhare), will plunge me, already possessed by passion, into deeper grief, O Lakṣmaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how Sītā once delighted in the gallinule's cry at their hermitage, Rāma laments that the spring fire of red shoots and ashoka-blossom embers will consume him.
 </details>
 </details>
 
@@ -1862,6 +1902,14 @@ the fire of spring (vasantāgniḥ), with its copper-red flames of young shoots 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consumed by the fire of grief and tormented by the cruel Caitra breeze while Sītā remains unseen, Rāma watches the peacocks dancing with crystal-like plumes across the woods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं हि रुचिरस्तस्याः कालो रुचिरकाननः ॥ ३१ ॥  
@@ -2191,6 +2239,14 @@ torment me, O Saumitri, overpowered as I am by anxiety and grief (cintāśoka-ba
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Watching the peahens wooing their dancing mates among the mountain ridges, Rāma reflects that the peacock's beloved was not abducted by a Rākṣasa, making spring bearable for him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिखिनीभिः परिवृतास्त एते मदमूर्च्छिताः ॥ ३७ ॥  
@@ -2457,6 +2513,14 @@ in animals, thus that peahen in her passion is following her husband... [4-1-41b
 **41:** Therefore he dances in the lovely woods together with his beloved (saha kāntayā); for me, however, dwelling here without [Sītā] in this month of blossoms (puṣpamāse) is utterly unbearable.
 
 **42:** Behold, O Lakṣmaṇa, what passionate attachment (saṃrāgaḥ) exists even among creatures born in animal wombs (tiryagyonigateṣv api), inasmuch as this peahen out of love approaches her mate!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma reflects that Sītā too would hasten to his side had she not been abducted, and wonders how she can survive if spring also touches her place of captivity.
 </details>
 </details>
 
@@ -2773,6 +2837,14 @@ Yet surely spring does not touch that region where she is; for how could she, th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Certain that Sītā's deep devotion to him matches his own, Rāma fears she will abandon her life in spring, while the cool blossom-wafting breeze burns him like fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा वर्तते तत्र वसन्तो यत्र मे प्रिया ।  
@@ -3065,6 +3137,14 @@ anguish in me without Seetha... [4-1-54]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That very breeze which formerly, in Sītā's company, I ever deemed delightful (sadā sukham), now without Sītā begets only grief (śokasaṃjananaḥ) in me.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking heart at the auspicious cawing of a crow perched in a tree, Rāma watches bees darting toward tilaka blossoms while wind-tossed aśoka clusters seem to menace him.
 </details>
 </details>
 
@@ -3399,6 +3479,14 @@ Yonder mango trees (cūtāḥ) rich in blossoms, O Lakṣmaṇa, appear like men
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma points out the Kiṃnaras roaming Pampā's woods and the red and blue lotuses gleaming like the rising sun as wind-driven ripples lash them across the pellucid water.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रे पश्य पम्पायाश्चित्रासु वनराजिषु ।  
@@ -3720,6 +3808,14 @@ the throbbing and rippling lotuses appear beautiful� [4-1-66]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In the limpid water (vimale 'mbhasi), O Lakṣmaṇa, the lotuses shine brightly as they are lashed (tāḍyamānāni) by ripples whose speed is impelled by the wind.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting the perversity of Kāma and the loss of all joy without Sītā, Rāma sees her eyes in the lotus-cups and feels her fragrant sigh in the lotus-scented breeze.
 </details>
 </details>
 
@@ -4097,6 +4193,14 @@ Mingled with lotus-filaments (padmakesara-saṃsṛṣṭaḥ) and issuing from 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning toward the southern slopes of Pampā, Rāma points out the mineral-rich mountain shedding colored dust, plateaus flaming with kiṃśukas, and banks fragrant with blossoming trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रे पश्य पम्पाया दक्षिणे गिरिसानुषु ।  
@@ -4421,6 +4525,14 @@ ciribilvas, madhūkas, vañjulas, and bakulas, as well as campakas, tilakas, and
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Continuing his survey of Pampā's blossoming flora—from lion-mane-colored lodhras to śālmalīs, candanas, and hintālas—Rāma watches wind-tossed trees embraced by flowering creepers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मकाश्चैव शोभन्ते नीलाशोकाश्च पुष्पिताः ।  
@@ -4723,6 +4835,14 @@ passionately bear upon those trees, like the doting of passionate women... [ [4-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —behold here, O Saumitri, the many lovely trees (drumān rucirān bahūn) of Pampā! And [toward] these nearby trees whose boughs are tossed by the wind (vātavikṣipta-viṭapān)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As creepers cling to wind-tossed boughs like intoxicated women and bees dart greedily from blossom to blossom, fallen flowers carpet the mountain slopes like multicolored couches.
 </details>
 </details>
 
@@ -5038,6 +5158,14 @@ rendered into yellow-red hue... [4-1-90]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And upon the mountain ridges (nagasānuṣu), O Saumitri, broad couches (vistīrṇāḥ prastarāḥ) gleaming yellow and red have been fashioned in diverse ways by those very flowers of diverse kinds.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the trees vying in blossom and a kāraṇḍava duck sporting with its mate, Rāma declares that with Sītā beside him here he would not envy Indra or Ayodhyā.
 </details>
 </details>
 
@@ -5392,6 +5520,14 @@ For sporting with her upon such delightful grassy meadows (ramaṇīyeṣu śād
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing at Pampā's lotus-filled waters, calling birds, and stags roaming with their does across the mountain slopes, Rāma longs to behold Sītā upon the bird-thronged ridge.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमी हि विविधैः पुष्पैस्तरवो विविधच्छदाः ।  
@@ -5680,6 +5816,14 @@ much ado, then there shall be peace for me... [4-1-102]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 If only I might behold that beloved lady upon this lovely mountain ridge (asmin sānuni ramye) thronged with flocks of intoxicated birds, then all would be well with me (svasti bhaven mama)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Envying those who enjoy Pampā's lotus-scented breeze with their beloveds, Rāma wonders how he can answer King Janaka or survive without Sītā, who followed him into exile.
 </details>
 </details>
 
@@ -6006,6 +6150,14 @@ Bereft of her, wretched as I am (kṛpaṇaḥ), how shall I sustain my life (ka
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Longing to hear Sītā's gentle voice and dreading Kausalyā's questions in Ayodhyā, Rāma bids Lakṣmaṇa return to Bharata, whereupon Lakṣmaṇa consoles his grieving brother with wise words.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्चार्वाञ्चितपद्माक्षं सुगन्धि शुभमव्रणम् ।  
@@ -6287,6 +6439,14 @@ and infallible words. [4-1-114]
 **113:** Go, O Lakṣmaṇa, see Bharata who is so devoted to his brothers (bhrātṛvatsalam); for without that daughter of Janaka (tām ṛte janakātmajām), I am unable to live on!”
 
 **114:** To the great-souled Rāma, who was lamenting thus like one refugeless (anāthavat), his brother Lakṣmaṇa spoke a fitting and imperishable word (vacanaṃ yuktam avyayam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhorting Rāma to cast off grief and excessive attachment, Lakṣmaṇa vows to slay Rāvaṇa even in Pātāla or Diti's womb if he does not surrender Sītā.
 </details>
 </details>
 
@@ -6632,6 +6792,14 @@ Regain your noble composure (svāsthyaṃ bhadram), O noble one, and cast aside 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stirred by Lakṣmaṇa's praise of resolute energy and reminder of his own supreme nature, Rāma casts off grief and delusion and strides past Lake Pampā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्साहो बलवानार्य नास्त्युत्साहात् परं बलम् ।  
@@ -6899,6 +7067,14 @@ wind-flopped trees, getting rid of grief. [4-1-125]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Unflustered (avyagraḥ) and of inconceivable valor (acintyaparakramaḥ), that Rāma passed beyond (abhyatikrāmat) the exceedingly lovely and charming Pampā with its swaying trees (pāriplavadrumām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scanning the woods and cascades as Lakṣmaṇa guards him with righteousness and might, Rāma approaches Mount Ṛṣyamūka, where Sugrīva and his monkeys flee in terror to Mataṅga's hermitage.
 </details>
 </details>
 

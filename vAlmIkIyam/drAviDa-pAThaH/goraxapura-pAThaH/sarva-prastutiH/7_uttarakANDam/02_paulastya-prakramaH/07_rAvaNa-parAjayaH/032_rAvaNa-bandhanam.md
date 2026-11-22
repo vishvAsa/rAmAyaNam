@@ -13,6 +13,14 @@ title = "०३२ रावण-बन्धनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not far from where Rāvaṇa worships Śiva upon the Narmadā sandbank, the thousand-armed King Arjuna Kārtavīrya sports in the river with his women and dams its stream with his arms, sending a monsoon-like surge backward against the current.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नर्मदापुलिने यत्र राक्षसेन्द्रः स दारुणः ।  
@@ -171,6 +179,14 @@ Colliding with Kārtavīrya’s arms (kārtavīrya-bhujāsaktam), that limpid wa
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Filled with fish, crocodiles, and makaras (sa-mīna-nakra-makaraḥ), and bearing flowers and mats of kuśa grass (sa-puṣpa-kuśa-saṃstaraḥ), that surging rush of Narmadā’s waters (sa narmadāmbhaso vegaḥ) shone like the river in the monsoon season (prāvṛṭ-kāla ivābabhau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the back-rushing flood sweeps away his floral offerings, Rāvaṇa halts his unfinished rite, observes the river surging from the west while remaining serene to the east, and dispatches Śuka and Sāraṇa westward to discover the cause.
 </details>
 </details>
 
@@ -363,6 +379,14 @@ Dispatched thus by Rāvaṇa (rāvaṇa-sandiṣṭau), those two heroic brother
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Flying half a yojana westward, Śuka and Sāraṇa discover a colossal, wine-flushed hero damming the Narmadā with a thousand arms while sporting amid a thousand women, and hasten back to report the prodigy to Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्धयोजनमात्रं तु गत्वा तौ रजनीचरौ ।  
@@ -546,6 +570,14 @@ Beholding that most wondrous being (tam adbhutatamaṃ dṛṣṭvā), the two r
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O lord of rākṣasas (rākṣaseśvara), some stranger towering like a great sāla tree (bṛhat-sāla-pratīkāśaḥ ko ’py asau) has dammed the Narmadā like an embankment (narmadāṃ rodhavad ruddhvā) and is making women sport in the stream (krīḍāpayati yoṣitaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Kārtavīrya Arjuna from his scouts’ report, Rāvaṇa eagerly marches to battle despite dire omens of howling dusty winds and a blood-tinged thunderclap, and arrives furious at the Narmadā pool.
 </details>
 </details>
 
@@ -741,6 +773,14 @@ There the king of rākṣasas beheld King Arjuna (narendraṃ paśyate rājā r�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa haughtily bids Arjuna’s ministers summon their king to battle; rising armed, they mock his lack of chivalry in challenging a wine-flushed monarch amid his women, advising him to wait until morning or fight them first.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रोषाद् रक्तनयनो राक्षसेन्द्रो बलोद्धतः ॥ २५ ॥  
@@ -927,6 +967,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Or if your mind is set on fighting today, possessed by a thirst for war (yady adyāsti matir yoddhuṃ yuddha-tṛṣṇā-samāvṛtā), then slay us first, and thereafter you shall come to battle with Arjuna (nihatyāsmāṃs tato yuddham arjunenopayāsyasi)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa’s famished ministers cut down and devour the Haihaya counselors, sparking a roaring battle along the Narmadā bank; as Prahasta, Śuka, and Sāraṇa scorch Arjuna’s troops, royal gatekeepers carry the alarm to the sporting king.
 </details>
 </details>
 
@@ -1122,6 +1170,14 @@ Meanwhile, that deed of Rāvaṇa and his ministers (tat karma rāvaṇasya sama
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassuring his women, Arjuna rises from the Narmadā blazing like the doomsday fire, snatches up a mighty mace, and swoops upon the rākṣasas with Garuḍa’s speed; Prahasta bars his way like Mount Vindhya and hurls an iron-bound pestle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्जुनाय तु तत्कर्म रावणस्य समन्त्रिणः ।  
@@ -1308,6 +1364,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, wildly arrogant and enraged (mahoddhataḥ ... kruddhaḥ), Prahasta hurled at him a dread iron-bound pestle (tato ’sya musalaṃ ghoraṃ loha-baddhaṃ ... preṣayan) and roared aloud like a thundercloud (rarāsa ca yathāmbudaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deftly warding off Prahasta’s fire-tipped pestle, Arjuna whirls a colossal mace hoisted by five hundred arms and fells Prahasta like a thunder-struck peak; as Rāvaṇa’s other captains flee, Rāvaṇa himself rushes into battle.
 </details>
 </details>
 
@@ -1500,6 +1564,14 @@ When his ministers had retreated and Prahasta lay struck down (apakrānteṣv am
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The hair-raising mace duel between the thousand-armed monarch and the twenty-armed rākṣasa erupts with cosmic fury—like clashing oceans, suns, fires, bulls, and Rudra and Kāla—making all quarters resound with thunderbolt echoes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपक्रान्तेष्वमात्येषु प्रहस्ते च निपातिते ।  
@@ -1643,6 +1715,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Just as an echo arises from the crashes of thunderbolts (yathāśani-ravebhyas tu jāyate ’tha pratiśrutiḥ), so did all the quarters echo back from the crashing impacts of their maces (tathā tayor gadā-pothair diśaḥ sarvāḥ pratiśrutāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their maces flash like lightning and falling meteors as the untiring titans fight like Indra and Bali of old; at last Arjuna hurls his mace with all his might at Rāvaṇa’s chest, where it shatters harmlessly against Brahmā’s boon.
 </details>
 </details>
 
@@ -1835,6 +1915,14 @@ Upon Rāvaṇa’s chest, guarded by the protection of Brahmā’s boon (varadā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stunned by the mace’s shock, Rāvaṇa staggers back and collapses groaning; Arjuna leaps like Garuḍa, binds him with his thousand arms as Nārāyaṇa bound Bali amid celestial flower-showers, roars in triumph, and faces Prahasta’s rally.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वरदानकृतत्राणे सा गदा रावणोरसि ।  
@@ -2018,6 +2106,14 @@ Having seized him like a tiger carrying off a deer (vyāghro mṛgam ivādāya) 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Meanwhile Prahasta, having regained his senses (prahastas tu samāśvastaḥ) and beholding Daśānana bound (dṛṣṭvā baddhaṃ daśānanam), charged furiously against the king together with those rākṣasas (saha tai rākṣasaiḥ kruddhaś cābhidudrāva pārthivam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Prahasta and the rākṣasas charge like monsoon clouds hurling pestles and pikes, Arjuna catches their missiles in midair, scatters them with their own weapons, and enters Māhiṣmatī with captive Rāvaṇa amid floral showers.
 </details>
 </details>
 

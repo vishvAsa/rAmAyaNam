@@ -28,6 +28,14 @@ occasion.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following Vasiṣṭha’s departure, Rāma and Sītā offer oblations to Lord Nārāyaṇa, sleep on a bed of sacred kuśa grass inside Viṣṇu’s sanctuary, and awaken before dawn to worship the morning twilight.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते पुरोहिते रामः स्नातो नियतमानसः ।  
@@ -309,6 +317,14 @@ Listening there to the pleasing utterances (sukhā vācaḥ) of bardic sūtas, g
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clad in spotless linen, Rāma has the brāhmaṇas chant the auspicious day-benediction, and as dawn breaks, the jubilant citizens of Ayodhyā adorn every temple, crossroads, marketplace, and mansion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुष्टाव प्रणतश्चैव शिरसा मधुसूदनम् ।  
@@ -506,6 +522,14 @@ sunrise.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then all the townsfolk (paurajanaḥ sarvaḥ), having heard of Rāma’s consecration (rāmābhiṣecanam) and seeing the night brighten into dawn (prabhātāṃ rajanīṃ dṛṣṭvā), set about adorning the city (cakre śobhayituṃ purīm).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Banners and pennants fly from every hall and lofty tree, actors and musicians delight the crowds, even children at play speak only of Rāma’s coronation, and lamp-trees line the streets.
 </details>
 </details>
 
@@ -850,6 +874,14 @@ And to provide illumination (prakāśakaraṇārtham) in anticipation of nightfa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gathering in the squares and assembly halls, the citizens of Ayodhyā extol King Daśaratha’s magnanimity and rejoice that the righteous, brother-loving Rāma will long protect them.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अलङ्कारं पुरस्यैवं कृत्वा तत् पुरवासिनः ।  
@@ -1073,6 +1105,14 @@ brothers."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Of unarrogant mind (anuddhatamanāḥ), learned (vidvān), righteous-souled (dharmātmā), and tenderly affectionate toward his brothers (bhrātṛvatsalaḥ), Rāghava is as loving toward us (tathāsmāsv api) as he is toward his own brothers (yathā ca bhrātṛṣu snigdhaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Countryfolk pour into Ayodhyā from every direction to witness Rāma’s consecration, filling the Indra-like capital with a tumult like the ocean swelling at the full moon.
 </details>
 </details>
 

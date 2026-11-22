@@ -24,6 +24,14 @@ demons. Kumuda, Nala and Mainda the chiefs of monkeys creates a great carnage am
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Vajradaṃṣṭra has fallen to Aṅgada, Rāvaṇa commands Prahasta to send forth the unshakable warrior Akampana at the head of a fierce Rākṣasa host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रदंष्ट्रं हतं श्रुत्वा वालिपुत्रेण रावणः ।  
@@ -320,6 +328,14 @@ weapon and fearful to look upon, rushed into the fray where their general had di
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Urged on by the commander of the army (balādhyakṣapracoditāḥ), the foremost Rākṣasas, bearing manifold weapons (nānāpraharaṇāḥ), dreadful-eyed and terrifying to behold (bhīmākṣā bhīmadarśanāḥ), thereupon rushed forth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resplendent as the sun and thundering like a storm-cloud, Akampana mounts his golden chariot and sallies forth despite dark omens of impending doom.
 </details>
 </details>
 
@@ -638,6 +654,14 @@ All the birds and beasts (khagamṛgāḥ sarve) uttered cruel and terrifying cr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heedless of the portents, Akampana charges onto the battlefield with an ocean-churning roar, and the Vānara and Rākṣasa hosts clash beneath a cloud of crimson dust.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा निर्गच्छतस्तस्य रक्षसः सह राक्षसैः ॥ १३ ॥  
@@ -930,6 +954,14 @@ Was heard, vast and loud, as they bellowed at one another in wrath (kopād anyon
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blinded by the silken-pale dust that shrouds all ten directions, Vānaras and Rākṣasas cannot see standards, weapons, or forms, and strike down friends and foes alike.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यं रजसा तेन कौशेयोद्धतपाण्डुना ॥ १९ ॥  
@@ -1186,6 +1218,14 @@ dampened with blood, anointing its body with mud.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And Rākṣasas likewise slew Rākṣasas in that darkness (nijaghnus timire tadā); thus striking down both foes and their own comrades (parāṃś ca vinighnantaḥ svāṃś ca), the Vānaras and Rākṣasas—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Torrents of blood lay the blinding dust and turn the earth to corpse-strewn mire, while Vānaras and Rākṣasas trade fierce blows and Akampana rallies his host.
 </details>
 </details>
 
@@ -1446,6 +1486,14 @@ demons by his terrible prowess.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck down the Vānaras there with exceedingly terrible weapons (śastraiḥ paramadāruṇaiḥ), while Akampana, the commander of the Rākṣasas (rākṣasānāṃ camūpatiḥ), filled with fierce wrath—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging forward to wrest away the Rākṣasas' weapons, Kumuda, Nala, Mainda, and Dvivida wreak havoc with trees at the forefront of Akampana's army.
 </details>
 </details>
 

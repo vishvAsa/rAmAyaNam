@@ -27,6 +27,14 @@ to all the monkeys who entered that cave.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing the righteous ascetic woman in bark-cloth and deerskin, Hanumān explains their sudden entry from thirst and asks whose golden trees and mansions these are.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा हनुमांस्तत्र चीरकृष्णाजिनाम्बराम् ।  
@@ -246,6 +254,14 @@ completely golden trees... by whose splendour [they are rendered thus?] [4-51-6b
 **5:** and these pure edible roots and fruits (śucīny abhyavahārāṇi mūlāni ca phalāni ca), and these golden and silver palaces (vimānāni) and mansions (gṛhāṇi),
 
 **6:** fitted with windows of refined gold (tapanīyagavākṣāṇi) and covered with lattices of gems (maṇijālāvṛtāni), and these blossoming, fruit-laden, auspicious, and fragrant (surabhigandhayaḥ) [trees]?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing his inquiry into the golden lotuses and fishes, Hanumān learns from the benevolent ascetic that Maya, the great Dānava architect, fashioned this golden forest.
 </details>
 </details>
 
@@ -490,6 +506,14 @@ by him was this entire golden forest fashioned through his wondrous creative pow
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The ascetic relates how Maya won the wealth of Uśanas from Brahmā through millennial penance, dwelt in the forest, and was slain by Indra over Hemā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु वर्षसहस्राणि तपस्तप्त्वा महद्वने ॥ १२ ॥  
@@ -723,6 +747,14 @@ mansion, are beneficed by Brahma for Hema... [4-51-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 the lord Purandara [Indra], striding forth with valor (vikramyaiva) and seizing his thunderbolt (aśaniṃ gṛhya), slew him (jaghāna); and this supreme forest was bestowed by Brahmā upon Hemā.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing herself as Svayamprabhā, daughter of Merusāvarṇi and guardian of her friend Hemā's golden mansion, the ascetic invites the monkeys to eat, drink, and tell their story.
 </details>
 </details>
 

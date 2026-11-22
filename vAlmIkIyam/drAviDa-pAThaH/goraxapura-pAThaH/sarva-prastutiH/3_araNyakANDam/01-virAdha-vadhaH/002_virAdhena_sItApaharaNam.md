@@ -31,6 +31,14 @@ Viradha the demon confronts Rama and other and tries to abduct Seetha, and
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking leave of the sages at sunrise, Rāma, Sītā, and Lakṣmaṇa enter the deep forest and encounter the monstrous, blood-spattered man-eating demon Virādha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतातिथ्योऽथ रामस्तु सूर्यस्योदयनं प्रति ।  
@@ -329,6 +337,14 @@ Wearing tiger's skin that is wetted with fat and dampened with blood, he is
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Clad in a tiger-skin (carma vaiyāghram) wet with fat (vasārdram) and spattered with blood (rudhirokṣitam), terrifying to all creatures (trāsanaṃ sarva-bhūtānām) like Death himself with gaping maw (vyāditāsyam ivāntakam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bearing wild beasts and an elephant's head impaled on his iron pike, the roaring Virādha charges at the trio, snatches Sītā onto his hip, and taunts the two brothers.
 </details>
 </details>
 
@@ -659,6 +675,14 @@ This demon Viradha could not comprehend their identity prima facie. By their
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Virādha threatens to make Sītā his wife and drink the brothers' blood, Sītā trembles like a plantain tree in a storm, and Rāma laments her seizure to Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं नारी वरारोहा मम भार्या भविष्यति ॥ १३ ॥  
@@ -892,6 +916,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Behold, O gentle one (saumya), the daughter born of King Janaka himself (janakasyātma-sambhavām), my wife of pure conduct (śubhācārām), placed upon Virādha’s hip (virādhāṅke praveśitām)—”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving that Kaikeyī's far-reaching scheme has borne fruit and that nothing hurts more than another's touch upon Sītā, Rāma rouses Lakṣmaṇa to fierce, serpent-like wrath.
 </details>
 </details>
 
@@ -1142,6 +1174,14 @@ Such portrayal of Lakshmana as a fundamentally angry person, like a hissing
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 While Kākutstha was speaking thus, Lakṣmaṇa, overwhelmed by tears and grief (bāṣpa-śoka-pariplutaḥ), spoke in wrath, hissing like a pent-up serpent (ruddho nāga iva śvasan):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Rāma that he is the lord of all creatures, Lakṣmaṇa vows to unleash upon Virādha the pent-up wrath he once felt toward Bharata and strike the monster down.
 </details>
 </details>
 

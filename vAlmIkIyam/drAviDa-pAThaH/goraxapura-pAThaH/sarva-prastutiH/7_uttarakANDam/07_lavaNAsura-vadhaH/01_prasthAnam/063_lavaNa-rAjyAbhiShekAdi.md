@@ -13,6 +13,14 @@ title = "०६३ लवण-राज्याभिषेकादि"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overcome with bashful shame at being offered consecration while his elder brothers live, Śatrughna softly confesses his moral dilemma: accepting kingship over Bharata is adharma, yet Rāma’s command is inviolable, and he blames his own rash boast before Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण परां व्रीडामुपागमत् ।  
@@ -214,6 +222,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Indeed, a rejoinder ought never to be spoken (uttaraṃ nahi vaktavyam) once an elder has spoken (jyeṣṭhenābhihite punaḥ); it is fraught with unrighteousness (adharma-sahitaṃ caiva) and bereft of the next world (paraloka-vivarjitam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declining to answer back a second time, Śatrughna surrenders wholly to Rāma’s will and prays that Rāma dispel any adharma on his behalf; delighted, Rāma bids Bharata and Lakṣmaṇa summon the priests, ministers, and consecration requisites.
 </details>
 </details>
 
@@ -423,6 +439,14 @@ Knowing the king’s mandate (rājñaḥ śāsanam ājñāya), those great chari
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śatrughna’s glorious consecration unfolds amid the rejoicing of citizens, learned brahmins, the queen mothers, and the Yamunā sages who already deem Lavaṇa slain; drawing the newly crowned prince onto his lap, Rāma infuses him with valorous counsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽभिषेको ववृधे शत्रुघ्नस्य महात्मनः ॥ १३ ॥  
@@ -627,6 +651,14 @@ Then Rāghava, seating the consecrated Śatrughna upon his lap (abhiṣiktaṃ �
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestowing upon Śatrughna an unfailing divine arrow forged by Viṣṇu on the primordial ocean to slay Madhu and Kaiṭabha, Rāma reveals he withheld it even against Rāvaṇa lest it terrify creation, and now turns to Lavaṇa’s invincible Śiva-trident.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं शरस्त्वमोघस्ते दिव्यः परपुरञ्जयः ।  
@@ -768,6 +800,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Now, as for that mighty trident (yac ca tasya mahac chūlam) given by the great-souled Three-Eyed God (tryambakeṇa mahātmanā dattam) as a supreme weapon to Madhu for the destruction of foes (śatru-vināśāya madhor āyudham uttamam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing that Lavaṇa leaves Śiva’s trident worshiped inside his house while foraging and reduces challengers to ash only when holding it, Rāma instructs Śatrughna to intercept and challenge him at the city gate before he can re-enter, honoring Śiva’s inviolable power.
 </details>
 </details>
 

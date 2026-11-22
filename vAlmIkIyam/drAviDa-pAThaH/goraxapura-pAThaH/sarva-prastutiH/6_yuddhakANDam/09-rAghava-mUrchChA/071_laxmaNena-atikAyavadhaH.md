@@ -30,6 +30,14 @@ with a missile of Brahma and chips off the head of Atikaya.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged at the slaughter of his brothers and paternal uncles, the mountain-sized Atikāya mounts his blazing chariot, twangs his bow, and terrifies the Vānara hosts with his lion-roar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वबलं व्यथितं दृष्ट्वा तुमुलं लोमहर्षणम् ।  
@@ -255,6 +263,14 @@ the bow-string, it created terror to the monkeys.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By that lion-roar (siṃhapraṇādena), by the proclamation of his name, and by the dreadful twang of his bowstring (jyāśabdena ca bhīmena), he struck terror into the Vānaras.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mistaking the gigantic Atikāya for Kumbhakarṇa risen anew, the panic-stricken Vānaras flee to Rāma for refuge, prompting the astonished prince to question Vibhīṣaṇa.
 </details>
 </details>
 
@@ -538,6 +554,14 @@ in a spacious chariot yoked with a thousand horses?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma marvels at the approaching warrior's blazing pikes, lightning-like chariot-spears, gold-backed bows, Rāhu-crested banner, and thrice-curved bow resembling Indra's rainbow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 य एष निशितैः शूलैः सुतीक्ष्णैः प्रासतोमरैः ।  
@@ -814,6 +838,14 @@ cloud, is shining like a rain-bow."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And his thrice-curved (trinatam), adorned, gold-backed bow, thundering like a cloud (meghanirhrādam) and resembling the bow of Śatakratu [Indra], shines resplendently.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma describes the war-chariot's four charioteers, thirty-eight quivers, ten-cubit swords, and Atikāya's dark mountain-like frame gleaming between twin earrings like the full moon in Punarvasu.
 </details>
 </details>
 
@@ -1128,6 +1160,14 @@ And with his two earrings, his terrifying countenance (vaktraṃ subhīṣaṇam
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by Rāma, Vibhīṣaṇa identifies the warrior as Atikāya, the mighty son of Rāvaṇa and Dhānyamālinī, famed for his mastery of weapons and statecraft.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचक्ष्व मे महाबाहो त्वमेनं राक्षसोत्तमम् ।  
@@ -1410,6 +1450,14 @@ arm."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Depending upon whose arm Laṅkā abides free from fear (laṅkā bhavati nirbhayā)—they know this warrior as Atikāya, the son of Dhānyamālinī (tanayaṃ dhānyamālinyāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa recounts how Atikāya propitiated Brahmā through austerity to win invulnerability to gods and demons, celestial armor, and the power to arrest Indra's thunderbolt and Varuṇa's noose.
 </details>
 </details>
 
@@ -1700,6 +1748,14 @@ Therefore, O bull among men (puruṣapuṅgava), let effort be made against him 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunging into the monkey host, Atikāya shatters the trees and crags hurled by Kumuda, Dvivida, Mainda, Nīla, and Śarabha, overwhelming the Vānara chiefs with all-iron shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽतिकायो बलवान् प्रविश्य हरिवाहिनीम् ।  
@@ -1975,6 +2031,14 @@ Atikaya's arrows in that great battle, were unable to retaliate on him.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Tormented by that shower of arrows (arditā bāṇavarṣeṇa), their limbs mangled and defeated, they were unable to retaliate (na śekuḥ pratikartum) against Atikāya in that great battle.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disdaining to strike non-combatants, Atikāya haughtily challenges Rāma to single combat, provoking the wrathful Lakṣmaṇa to leap forth and twang his bow with an earth-shaking roar.
 </details>
 </details>
 
@@ -2303,6 +2367,14 @@ Filling the entire earth, the sky, the ocean, and the quarters, the dreadful twa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Astonished yet angered by Lakṣmaṇa's bow-twang, Atikāya taunts him as an untried youth awakening the sleeping fire of Doomsday and warns him to retreat or perish.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रेश्चापनिर्घोषं श्रुत्वा प्रतिभयं तदा ।  
@@ -2611,6 +2683,14 @@ your lives, you will reach the abode of Yama."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Or if thou art obstinately proud (pratistabdhaḥ) and dost not wish to turn back, stand fast (tiṣṭha)! Abandoning thy life-breaths, thou shalt go to the abode of Yama (gamiṣyasi yamakṣayam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Atikāya fits a serpent-like shaft to his bow, Lakṣmaṇa rebukes his hollow boasting, declaring that true heroes prove their worth through deeds rather than words.
 </details>
 </details>
 
@@ -2931,6 +3011,14 @@ Equipped with every weapon, bow in hand, thou standest upon a chariot; whether w
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the boy Viṣṇu's three cosmic strides, Lakṣmaṇa vows to fell Atikāya's head like a ripe palmyra fruit, while gods and sages gather in the sky to witness the duel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शिरस्ते निशितैः पातयिष्याम्यहं शरैः ।  
@@ -3242,6 +3330,14 @@ Then the wrathful Atikāya, fitting that arrow to his bow (cāpam āropya sāyak
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa slices Atikāya's serpent-like shaft in two with a crescent-headed arrow, intercepts five more shafts in mid-flight, and drives a straight-knotted arrow deep into the Rākṣasa's forehead.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं निशितं शरमाशीविषोपमम् ।  
@@ -3544,6 +3640,14 @@ With that smooth-knotted arrow (śareṇa nataparvaṇā), loosed after being dr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Staggered like the gateway of Tripura struck by Rudra's shaft, Atikāya praises Lakṣmaṇa's marksmanship and unleashes volleys of gold-feathered arrows that set the sky ablaze.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ललाटे शरो मग्नस्तस्य भीमस्य रक्षसः ।  
@@ -3832,6 +3936,14 @@ Death, with golden shafts and shining like the sun, set the sky ablaze.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Those arrows resembling Death (kālasaṃkāśāḥ), sped from the bow of the Rākṣasa prince, winged with gold and bright as the sun (hemapuṅkhā raviprakhyāḥ), made the sky look as though ablaze (cakrur dīptam ivāmbaram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unfazed, Lakṣmaṇa shreds Atikāya's arrow-floods, endures a bleeding chest-wound that he instantly heals by mystic power, and charges a shaft with the blazing Āgneya missile.
 </details>
 </details>
 
@@ -4146,6 +4258,14 @@ He joined that shaft with the fiery missile (āgneyena tadāstreṇa yojayām ā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Lakṣmaṇa's Āgneya shaft and Atikāya's Sūrya-missile consume each other in mid-air like two fiery serpents, Lakṣmaṇa shatters Atikāya's Tvāṣṭra-Aiṣīka missile with the Aindra dart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिकायोऽतितेजस्वी रौद्रमस्त्रं समाददे ।  
@@ -4400,6 +4520,14 @@ longer on the earth's surface, in that they were without a flame and had been re
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the enraged Atikāya loosed the Aiṣīka missile of Tvaṣṭṛ (tvāṣṭram aiṣīkam utsṛjat); and the valiant son of Sumitrā severed that missile with the missile of Indra (tataś ciccheda saumitrir astram aindreṇa vīryavān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Lakṣmaṇa neutralizes Atikāya's Yāmya missile with the Vāyavya dart, his thousands of arrows shatter harmlessly against the demon's diamond-studded, Brahmā-blessed armor.
 </details>
 </details>
 
@@ -4674,6 +4802,14 @@ Though rained upon by floods of arrows (vṛṣyamāṇo bāṇaughaiḥ), that 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even after slaying Atikāya's horses and charioteer and shredding his banner, Lakṣmaṇa cannot pierce the demon until the Wind-god Vāyu counsels him to invoke the Brāhma missile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वृष्यमाणो बाणौघैरतिकायो महाबलः ।  
@@ -4894,6 +5030,14 @@ aiming at that demon, for the purpose of killing him.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet that foremost of men (narottamaḥ) was unable to inflict any hurt upon him in battle (na śaśāka rujaṃ kartuṃ yudhi tasya); then, approaching him (athainam abhyupāgamya), Vāyu [the Wind-god] spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heeding Vāyu's counsel, Lakṣmaṇa invokes the Brāhma missile upon a Suparṇa-winged shaft; as the cosmos trembles, the thunderbolt-like arrow speeds toward Atikāya despite his counter-volleys.
 </details>
 </details>
 
@@ -5228,6 +5372,14 @@ Beholding it, Atikāya suddenly struck it with many whetted arrows (jaghāna bā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Baffling Atikāya's spears, maces, axes, and pikes, the blazing Brāhma shaft severs his diademed, helmeted head, which crashes to the earth like a peak of Himavān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रेक्षमाणः सहसातिकायो  
@@ -5457,6 +5609,14 @@ ground, like a peak of the Himalayan Mountain.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding him fallen upon the earth, his garments and ornaments scattered (vikṣiptāmbarabhūṣaṇam), all the surviving night-stalkers (hataśeṣā niśācarāḥ) were stricken with anguish (babhūvur vyathitāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out in dissonant wails, the surviving Rākṣasas flee into Laṅkā, while the lotus-faced Vānaras honor the triumphant Lakṣmaṇa as he returns to Rāma's side.
 </details>
 </details>
 

@@ -15,6 +15,14 @@ title_english = "042 Dasaratha feels dejected"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon the dust raised by Rāma’s departing chariot until it vanishes from sight, King Daśaratha collapses to the earth and spurns Kaikeyī’s touch.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् तु निर्यतस्तस्य रजोरूपमदृश्यत ।  
@@ -325,6 +333,14 @@ longer my wife nor a relative."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Kaikeyī of sinful resolve (pāpa-niścaye), do not touch my limbs (māmakāṅgāni mā sprākṣīḥ)! For I do not wish to look upon you; you are neither my wife nor my kinswoman (na bhāryā na ca bāndhavī).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha renounces his marital bond with Kaikeyī in this world and the next, forbids Bharata’s funeral offerings should he rejoice in the kingdom, and returns dust-covered with Kausalyā.
 </details>
 </details>
 
@@ -663,6 +679,14 @@ Turning back again and again (nivṛtya eva nivṛtya eva) and sinking down in d
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the hoofprints of the horses on the road, Daśaratha laments that Rāma, accustomed to sandal-paste and soft pillows, must tonight sleep at the foot of a tree upon a stone.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विललाप स दुःखार्तः प्रियं पुत्रमनुस्मरन् ।  
@@ -937,6 +961,14 @@ world, Rama, rising from the ground and wandering around like an orphan"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The forest-dwelling men (puruṣāḥ vanecarāḥ) will surely behold the long-armed Rāma, the lord of the world (loka-nātham), rising up and walking forth like one who has no protector (anāthavat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting Sītā’s plight in the thorny wilds and bidding Kaikeyī rule as a widow, Daśaratha re-enters the desolate city of Ayodhyā like the sun entering a dark cloud.
 </details>
 </details>
 
@@ -1246,6 +1278,14 @@ race)
 **23:** Beholding that entire city, whose crossroads and house-entrances were deserted (śūnya-catvara-veśma-antām), whose market stalls and platforms were shut (saṃvṛta-āpaṇa-vedikām), whose people were exhausted, enfeebled, and stricken with grief (klānta-durbala-duḥkhārtām), and whose highroads were no longer thronged (na atyākīrṇa-mahāpathām),
 
 **24:** Thinking solely of Rāma (rāmam eva anucintayan) and lamenting aloud, the king entered his palace as the sun enters a dark cloud (sūryaḥ iva ambudam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing the palace bereft of Rāma, Sītā, and Lakṣmaṇa to a lake stripped of serpents by Garuḍa and a sky without its moon, Daśaratha asks to be led to Kausalyā’s chamber.
 </details>
 </details>
 
@@ -1562,6 +1602,14 @@ voice, " Oh, Rama! You have left us both, your mother and I."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The king beheld the palace bereft of his two sons and devoid of his daughter-in-law (putra-dvaya-vihīnam ca snuṣayā ca vivarjitam), like the sky when its moon has vanished (naṣṭa-candram iva ambaram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out at midnight that his sight has followed Rāma and will not return, the blinded Daśaratha begs Kausalyā to touch him with her hand while she weeps beside his couch.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ is said here.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beset by inauspicious omens as he hurries back, Rāma finds the leaf-hut deserted and blighted like a winter lotus-pond, with the very trees seeming to weep and the forest deities gone.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भृशमाव्रजमानस्य तस्याधो वामलोचनम् ।  
@@ -279,6 +287,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 [And beheld the hermitage] as though weeping through its trees (rudantam iva vṛkṣaiś ca), its flowers, deer, and birds drooped and faded (glāna-puṣpa-mṛga-dvijam), stripped of splendour (śriyā vihīnam), ravaged (vidhvastam), and forsaken by the forest deities (saṃtyaktaṃ vana-daivataiḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the scattered deerskins and overturned grass cushions in the empty cottage, Rāma wonders where Sītā has gone and roams like one distraught, questioning the Kadamba tree.
 </details>
 </details>
 
@@ -570,6 +586,14 @@ are presented in the endnote.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Running from tree to tree (vṛkṣād vṛkṣaṃ pradhāvan), and across hills, rivers, and torrents (girīṃś cāpi nadī-nadam), Rāma wandered lamenting (babhrāma vilapan), plunged in an ocean of the mire of grief (śoka-paṅkārṇava-plutaḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imploring the Bilva, Arjuna, Kakubha, Tilaka, Aśoka, and Tāla trees in turn, Rāma beseeches each to reveal Sītā, whose limbs and breasts rival their glossy shoots, bark, and fruits.
 </details>
 </details>
 
@@ -892,6 +916,14 @@ is mine, thou telleth of that shapely lady Seetha... [3-60-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Tāla palm, if she whose breasts resemble ripe palmyra fruits (pakva-tālopama-stanī) has been seen by you, tell me of that fair-hipped lady (kathayasva varārohām), if you have compassion for me (kāruṇyaṃ yadi te mayi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioning the Jambū, Karṇikāra, mango, jackfruit, sandalwood, and ketaka trees in vain, Rāma turns to the forest deer and the lordly elephant to ask after fawn-eyed Sītā.
 </details>
 </details>
 
@@ -1218,6 +1250,14 @@ with your massive head, trunk or legs, but tell me what exactly has happened...
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imploring a tiger to speak without fear, Rāma fancies in his delusion that he sees Sītā hiding behind the trees in her yellow silk robe, before awakening to the dread that she has been slain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शार्दूल यदि सा दृष्टा प्रिया चन्द्रनिभानना ।  
@@ -1494,6 +1534,14 @@ me who attained this wretched state, hence Seetha with cheery smiles is certainl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Picturing flesh-eating demons devouring Sītā's full-moon face, campaka-hued neck, and sprout-tender arms, Rāma mourns her as a bride of many kinsmen forsaken like a stray from a caravan.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यक्तं सा भक्षिता बाला राक्षसैः पिशिताशनैः ।  
@@ -1759,6 +1807,14 @@ by her caravan who is lonesomely ready for the feast of highwaymen, and demons h
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bereft of me, that young girl was left as prey for the demons to devour (rakṣasāṃ bhakṣaṇāya vai); though possessing many kinsmen (bahu-bāndhavā), she has been devoured like a woman forsaken by her caravan (sārtheneva parityaktā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out repeatedly to Lakṣmaṇa and Sītā, Rāma darts and reels from forest to forest across rivers, mountains, and cascades, renewing his tireless search with unextinguished hope.
 </details>
 </details>
 

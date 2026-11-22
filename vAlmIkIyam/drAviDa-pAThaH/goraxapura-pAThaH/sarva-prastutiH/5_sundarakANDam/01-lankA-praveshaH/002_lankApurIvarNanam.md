@@ -26,6 +26,14 @@ thoughts and moves toward achieving this task.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having crossed the unassailable hundred-yojana ocean without fatigue, Hanumān stands composed on Trikūṭa's slope under a shower of blossoms and advances through fragrant woodlands toward Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सागरमनाधृष्यमतिक्रम्य महाबलः ।  
@@ -338,6 +346,14 @@ He passed through the midst (madhyena) of dark-green meadows (śādvalāni), fra
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Traversing tree-clad hills and blossoming woodland rows on Trikūṭa, Hanumān beholds Laṅkā perched on the mountain crest amid fragrant groves, bird-filled trees, and lotus-covered stepwells.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलांश्च तरुसञ्छन्नान् वनराजीश्च पुष्पिताः ।  
@@ -517,6 +533,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 stepwells (vāpīḥ) crowded with swans and kāraṇḍava ducks and covered with lotuses and water-lilies (padmotpalāvṛtāḥ), diverse delightful pleasure-grounds (ākrīḍān), and varied reservoirs of water.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Rāvaṇa's heavily guarded capital, Hanumān beholds Laṅkā encircled by lotus-filled moats and golden ramparts, gleaming with cloud-white mansions, high avenues, watchtowers, and golden archways.
 </details>
 </details>
 
@@ -753,6 +777,14 @@ with divine golden archways (toraṇaiḥ) resplendent with rows of creeper-trac
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Viśvakarman's sky-floating citadel personified as a woman adorned with rampart-hips and watchtower-earrings, Hanumān reaches the Kailāsa-like northern gate and ponders Laṅkā's terrifying defenses.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिमूर्ध्नि स्थितां लङ्कां पाण्डुरैर्भवनैः शुभैः ।  
@@ -945,6 +977,14 @@ He reached the northern gate and thought thus.
 **22:** Laṅkā, fashioned by Viśvakarman as though created by the mind alone (manaseva kṛtām); and having reached the northern gate (dvāram uttaram), the monkey fell to reflection.
 
 **23:** [Beholding that gate] resembling a palace on Kailāsa (kailāsanilayaprakhyam), scraping the sky, as it were (ālikhantam ivāmbaram), and seeming to hold up the firmament (dhriyamāṇam ivākāśam) with its lofty palatial edifices—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surveying Laṅkā's serpent-filled lair of spear-wielding rākṣasas, the ocean barrier, and Rāvaṇa's might, Hanumān reflects that neither the fourfold royal strategies nor the monkey host can prevail before he locates Sītā.
 </details>
 </details>
 
@@ -1259,6 +1299,14 @@ For only four swift monkeys (caturṇām eva vānarāṇām) have the power of a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving first to ascertain whether Vaidehī still lives, Hanumān stands on the mountain peak pondering how to deceive the mighty rākṣasas and enter Laṅkā at night in a subtle form.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावज्जानामि वैदेहीं यदि जीवति वा न वा ।  
@@ -1554,6 +1602,14 @@ Beholding that city of such a kind, unassailable even by gods and asuras (durād
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weighing the duties of an envoy, Hanumān reflects that an indiscreet or self-conceited messenger ruins even accomplished royal enterprises and renders his crossing of the ocean vain if discovered by Rāvaṇa's guards.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केनोपायेन पश्येयं मैथिलीं जनकात्मजाम् ।  
@@ -1830,6 +1886,14 @@ How may the enterprise not be ruined? How may there be no bungling (vaiklavyam)?
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 If I am seen by the rākṣasas, this enterprise of Rāma, knower of the Self, who desires the ruin of Rāvaṇa (rāvaṇānartham icchataḥ), would become fruitless (vyartham).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Realizing that not even the wind could roam Laṅkā undetected by the fierce rākṣasas, Hanumān resolves to shrink his native monkey form at nightfall and eagerly awaits sunset.
 </details>
 </details>
 
@@ -2119,6 +2183,14 @@ Having thus resolved (iti niścitya), the heroic monkey Hanumān, eager to behol
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At sunset Hanumān contracts his body to the size of a cat, leaps swiftly into Laṅkā at dusk, and beholds a Gandharva-like city of seven- and eight-storied crystal and golden mansions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्ये चास्तं गते रात्रौ देहं सङ्क्षिप्य मारुतिः ।  
@@ -2343,6 +2415,14 @@ and decorated by groups of pearls.
 **52:** He beheld the great city with seven-storied and eight-storied (saptabhaumāṣṭabhaumaiḥ) [palaces], having floors inlaid with crystal (talaiḥ sphaṭikasaṃkīrṇaiḥ) and adorned with gold (kārtasvaravibhūṣitaiḥ).
 
 **53:** And with those [floors] variegated with cat's-eye gems (vaidūryamaṇicitraiḥ) and adorned with festoons of pearls (muktājālavibhūṣitaiḥ), those mansions of the rākṣasas shone brightly (śuśubhire) there.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Simultaneously dejected by Laṅkā's impregnable grandeur and gladdened by auspicious omens of seeing Sītā, Hanumān beholds the full-rayed moon rising like a swan swimming in a lake to aid him with its canopy of moonlight.
 </details>
 </details>
 

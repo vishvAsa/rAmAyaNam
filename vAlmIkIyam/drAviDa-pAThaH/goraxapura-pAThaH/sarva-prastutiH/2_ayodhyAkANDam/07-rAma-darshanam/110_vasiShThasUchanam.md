@@ -27,6 +27,14 @@ Sri Rama not to violate this tradition and take over the reins of Ayodhya.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving Rāma’s anger, Vasiṣṭha assures him that Jābāli too knows the soul’s departure and return and spoke only to bring him back; he then recounts the creation of the world from the primordial waters and the lineage from Brahmā down to Ikṣvāku.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धमाज्ञाय रामं तु वसिष्ठः प्रत्युवाच ह ।  
@@ -310,6 +318,14 @@ his part, was formerly the lord of creation. Ikshvaku was Manu' s son."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From Kaśyapa was born Vivasvān, and Manu Vaivasvata was his son (vivasvān kāśyapāj jajñe manur vaivasvatas sutaḥ); he was the lord of creatures of old, and Ikṣvāku was Manu’s son (sa tu prajāpatiḥ pūrvam ikṣvākus tu manoḥ sutaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha traces the royal line from Ikṣvāku—unto whom Manu first gave the prosperous earth—through Kukṣi, Vikukṣi, Bāṇa, the righteous Anaraṇya, Pṛthu, Triśaṅku who ascended bodily to heaven through truth, and Yuvanāśva styled Dhundhumāra.
 </details>
 </details>
 
@@ -633,6 +649,14 @@ Triśaṅku’s son of great renown was Dhundhumāra (triśaṅkor abhavat sūnu
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+From Yuvanāśva sprang Māndhātā, Susandhi, and Susandhi’s two sons Dhruvasandhi and Prasenajit; from Dhruvasandhi came Bharata and Asita, who retired to Himavān where his queen Kālindī, poisoned by her co-wife, saluted Sage Cyavana.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धुन्धुमारान्महातेजा युवनाश्वो व्यजायत ।  
@@ -852,6 +876,14 @@ mountain."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 His two wives were with child, so runs the tradition (dve cāsya bhārye garbhiṇyau babhūvatur iti śrutiḥ); and one of them, to destroy the fetus, gave poison to her co-wife (ekā garbha-vināśāya sapatnyai sa-garaṃ dadau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessed by Sage Cyavana, Queen Kālindī gives birth to Sagara—so named because he was born together with the poison given by her co-wife—who excavated the ocean and banished his wicked son Asamañja, father of Aṃśumān and grandfather of Dilīpa.
 </details>
 </details>
 
@@ -1182,6 +1214,14 @@ Heroic Aṃśumān was the son of Asamañja (aṃśumān api putro ’bhūd asam
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha continues the lineage from Bhagīratha through Kakutstha, Raghu, Kalmāṣapāda Saudāsa, Śaṅkhaṇa—who perished with his army on encountering Kalmāṣapāda’s might—Sudarśana, Agnivarṇa, Śīghraga, Maru, Praśuśruka, and Ambarīṣa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राजा सगरो नाम यः समुद्रमखानयत् ।  
@@ -1443,6 +1483,14 @@ valour, perished (in a battle) along with his army."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Śīghraga’s son was Maru, and Maru’s son was Praśuśruka (śīghragasya maruḥ putro maroḥ putraḥ praśuśrukaḥ); and Praśuśruka’s son was Ambarīṣa of great splendor (praśuśrukasya putro ’bhūd ambarīṣo mahā-dyutiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the genealogy from Ambarīṣa through Nahuṣa, Nābhāga, Aja, and Daśaratha down to Rāma himself, Vasiṣṭha declares that among all Ikṣvākus the eldest son alone is consecrated king, and urges Rāma to rule the earth like his father.
 </details>
 </details>
 

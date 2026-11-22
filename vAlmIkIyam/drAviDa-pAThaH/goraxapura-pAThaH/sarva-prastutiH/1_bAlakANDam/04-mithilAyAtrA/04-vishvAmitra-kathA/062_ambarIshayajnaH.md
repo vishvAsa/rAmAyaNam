@@ -28,6 +28,14 @@ in these many episodes.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While King Ambarīṣa rests at Puṣkara at midday, the anguished Śunaḥśepa falls into the lap of his maternal uncle Viśvāmitra and implores him to save his life without obstructing the king’s sacrifice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुनःशेपं नरश्रेष्ठ गृहीत्वा तु महायशाः ।  
@@ -264,6 +272,14 @@ and indeed on performing an unexcelled ascesis, I wish to enjoy in heavenly worl
 **5:** “You ought to save me in accordance with dharma, O gentle bull among sages (trātum arhasi māṃ saumya dharmeṇa munipuṃgava)! For you, O best of men, are the protector of all, and you are the shelter and benefactor of all (sarveṣāṃ tvaṃ hi bhāvanaḥ).
 
 **6:** “Act so that the king may accomplish his ritual purpose (rājā ca kṛtakāryaḥ syāt), while I, remaining unharmed and endowed with long life (ahaṃ dīrghāyur avyayaḥ), may attain the heavenly realm after practicing supreme austerity (svargalokam upāśnīyāṃ tapas taptvā hy anuttamam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved by Śunaḥśepa’s plea for refuge, Viśvāmitra consoles the boy and calls upon his own sons to offer one of themselves as the sacrificial victim in Śunaḥśepa’s stead so that his pledge of protection may be fulfilled.
 </details>
 </details>
 
@@ -567,6 +583,14 @@ to his sons. [1-62-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Viśvāmitra’s sons led by Madhucchandas mockingly refuse his command and liken sacrificing one’s own sons for a stranger to eating dog-flesh, the incensed sage curses them to wander for a thousand years as dog-eating outcastes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनेस्तद् वचनं श्रुत्वा मधुच्छन्दादयः सुताः ।  
@@ -841,6 +865,14 @@ Having thus laid his sons under that curse, the foremost of sages (kṛtvā śā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra teaches Śunaḥśepa two celestial gāthās to chant to Indra and Viṣṇu after praising Agni at the Vaiṣṇava sacrificial post; assured of deliverance, the youth urges King Ambarīṣa to proceed swiftly to the sacrificial enclosure.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पवित्रपाशैराबद्धो रक्तमाल्यानुलेपनः ।  
@@ -1110,6 +1142,14 @@ him securely fastened to the sacrificial post. [1-62-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With the consent of the ritual assembly (sadasyānumate), the king marked him with purifying sacred grass, clad him as the sacrificial victim in red garments, and had him bound to the sacrificial post (paśuṃ raktāmbaraṃ kṛtvā yūpe taṃ samabandhayat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bound to the post, Śunaḥśepa praises Indra and Upendra with the secret hymns; gratified, thousand-eyed Indra bestows long life upon the youth and manifold sacrificial fruit upon King Ambarīṣa, while Viśvāmitra resumes his penance for a thousand years.
 </details>
 </details>
 

@@ -11,6 +11,14 @@ title = "०८८ किम्-पुरुष-स्त्री-करणम�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Astonished by Rāma’s account of King Ila’s transformation, Lakṣmaṇa and Bharata ask how the monarch fared in his alternating female and male states; Rāma tells how Ila, turned into the peerless beauty Ilā for his first month, wandered the forest on foot with his transformed attendants.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां कथामैलसम्बद्धां रामेण समुदीरिताम् ।  
@@ -172,6 +180,14 @@ Hearing those words of theirs, filled with eager curiosity (kautūhala-samanvita
 **5:** “During that very first month (tam eva prathamaṃ māsam), having become a woman of world-surpassing beauty (strī-bhūtā loka-sundarī), she was surrounded by those women (tābhiḥ parivṛtā strībhiḥ) who had formerly been his retainers (ye ca pūrva-padānugāḥ).
 
 **6:** “Plunging swiftly into that forest (tat kānanaṃ vigāhyāśu), dense with trees, thickets, and creepers (druma-gulma-latākīrṇam), that lotus-petal-eyed beauty of the world (padma-dalekṣaṇā) wandered sportively on foot (vijahre ... padbhyām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abandoning all her mounts, Ilā sports in a mountain recess near a charming lake where she beholds Budha, son of Soma, blazing like the full moon in fierce aquatic austerity; as she and her companions stir the waters, Budha is instantly pierced by Kāma’s arrows.
 </details>
 </details>
 
@@ -367,6 +383,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon Ilā as a beauty surpassing goddesses, nāginīs, asura women, and apsaras, Budha resolves that she would be a fitting consort if unwed; stepping ashore to his hermitage, he summons her attendants and gently asks whose lady she is and why she has come.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इलां निरीक्षमाणस्तु त्रैलोक्यादधिकां शुभाम् ।  
@@ -553,6 +577,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing those auspicious words of his, sweet and framed in mellifluous syllables (madhuraṃ madhurākṣaram), all those women replied in gentle, melodious speech (ūcur madhurayā girā):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the attendants answer ambiguously that the unwed lady is their sovereign, Budha invokes the sacred science of Āvartanī to discern Ila’s entire history, then transforms the retinue into Kimpuruṣa maidens and bids them dwell upon the mountainside, leaving Ilā alone.
 </details>
 </details>
 

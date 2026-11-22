@@ -13,6 +13,14 @@ title = "०३५ सूर्य-बुभुक्षा"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Humbly addressing Agastya with joined palms, Rāma declares that neither Vālī nor Rāvaṇa equals Hanūmān in strength, recounting the eight virtues that dwell in him alongside his ocean-leap and lone assault upon Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपृच्छत तदा रामो दक्षिणाशाश्रयं मुनिम् ।  
@@ -199,6 +207,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The vanguard commanders, the ministers’ sons, the Kiṅkaras, and Rāvaṇa’s son [Akṣa] (senāgragā mantrisutāḥ kiṅkarā rāvaṇātmajaḥ)—all these were struck down there by Hanūmān single-handedly (ete hanumatā tatra hy ekena vinipātitāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Hanūmān’s burning of Laṅkā as unmatched by Kāla, Indra, Viṣṇu, or Kubera and crediting him for Sītā, Lakṣmaṇa, and the kingdom, Rāma wonders why Hanūmān never burned Vālī, surmising he knew not his own might.
 </details>
 </details>
 
@@ -391,6 +407,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asked by Rāma for the full truth, Agastya replies right before Hanūmān: unmatched in strength, speed, and wisdom, Hanūmān was cursed by sages to forget his might, and his childhood deeds are scarcely tellable.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतन्मे भगवन् सर्वं हनूमति महामुने ।  
@@ -574,6 +598,14 @@ Hearing those well-reasoned words of Rāghava (rāghavasya vacaḥ śrutvā hetu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Or if indeed it is your intention to hear of it (yadi vā ’sti tv abhiprāyas tac chrotuṃ tava), O Rāghava, compose your mind, O Rāma (samādhāya matiṃ rāma), and listen attentively—I shall relate it (niśāmaya vadāmy aham)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beginning Hanūmān’s nativity on golden Mount Sumeru, Agastya tells how Vāyu begot him upon Kesarī’s wife Añjanā, and how the hungry infant wept like Skanda before leaping skyward to grasp the rising sun as a fruit.
 </details>
 </details>
 
@@ -769,6 +801,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gods, Dānavas, and Yakṣas marvel at the infant Hanūmān outpacing Wind, Garuḍa, and thought; Vāyu glides behind him cool as snow to shield him, while Sūrya spares the innocent child for the great cosmic mission awaiting him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन् प्लवमाने तु शिशुभावे हनूमति ।  
@@ -955,6 +995,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘This is a mere child, without discernment (śiśur eṣa tv adoṣajñaḥ), and moreover a great mission rests upon him (kāryaṃ cātra samāyattam)’—reflecting thus (iti matvā), the Maker of Day did not burn him (ity evaṃ na dadāha saḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On that very eclipse day Rāhu comes to seize the Sun, flees in terror when brushed aside by infant Hanūmān, and complains indignantly to Indra that another Rāhu has usurped his meal—rousing Indra from his throne.
 </details>
 </details>
 
@@ -1147,6 +1195,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indra rides forth on four-tusked Airāvata with Rāhu in front; rushing ahead like a crag, Rāhu is mistaken by Hanūmān for a larger fruit, and the severed-head demon flees crying ‘Indra! Indra!’ in terror.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कैलासकूटाभं चतुर्दन्तं मदस्रवम् ।  
@@ -1313,6 +1369,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Looking to Indra as his protector (indram āśaṃsamānas tu trātāram), Siṃhikā’s son cried out again and again in sheer terror (saṃtrāsān muhur muhur abhāṣata): ‘Indra! Indra!’ (indra indreti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāhu’s cry, Indra promises to slay his pursuer; when Hanūmān charges Airāvata as yet another giant fruit, Indra strikes him lightly with his thunderbolt, breaking the child’s left jaw and rousing Vāyu’s wrath.
 </details>
 </details>
 
@@ -1505,6 +1569,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Withdrawing his cosmic flow and carrying his wounded child into a cave, Vāyu blocks every bodily passage and breath; stiff as wood and stripped of Vedic rites, the swollen-bellied celestials rush to Brahmā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रचारं स तु सङ्गृह्य प्रजास्वन्तर्गतः प्रभुः ।  
@@ -1660,6 +1732,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thereupon all creatures, together with Gandharvas, gods, Asuras, and mortals (prajāḥ sagandharvāḥ sadevāsuramānuṣāḥ), ran in anguish to the Lord of Creatures, longing for relief (prajāpatiṃ samādhāvan duḥkhitāś ca sukhecchayā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the gods ask why Vāyu, appointed guardian of their lives, now confines them in pain, Brahmā reveals that Indra struck down Vāyu’s son at Rāhu’s word and teaches that bodiless Wind alone keeps every body alive.
 </details>
 </details>
 
@@ -1854,6 +1934,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Bodiless, the Wind moves within all bodies, preserving them (aśarīraḥ śarīreṣu vāyuś carati pālayan); indeed, without the Wind, a body becomes the equal of lifeless timber (śarīraṃ hi vinā vāyuṃ samatāṃ yāti dārubhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Vāyu as breath, joy, and the whole universe, Brahmā leads the celestials to placate him; beholding Vāyu’s radiant, thunderbolt-struck child upon his lap, four-faced Brahmā is moved to compassion.
 </details>
 </details>
 

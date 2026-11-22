@@ -26,6 +26,14 @@ through a hall filled with Ravana's wives.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Searching for wide-eyed Vaidehī, Hanumān circuits Rāvaṇa’s vast central palace, guarded by four- and three-tusked elephants and filled with abducted princesses.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यालयवरिष्ठस्य मध्ये विमलमायतम् ।  
@@ -277,6 +285,14 @@ It was surrounded (parikṣiptam) by four-tusked elephants (caturviṣāṇair d
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That residence of Rāvaṇa was filled (āvṛtam) with rākṣasī wives (rākṣasībhiś ca patnībhiḥ) and with royal princesses (rājakanyābhiḥ) who had been forcibly abducted (āhṛtābhiś ca vikramya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān beholds Rāvaṇa’s ocean-like mansion, rivaling the splendor of Kubera, Indra, Yama, and Varuṇa, and housing the divine Puṣpaka aerial palace.
 </details>
 </details>
 
@@ -575,6 +591,14 @@ Which Kubera had won from the Grandsire (pitāmahāt) through supreme austerity 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fashioned by Viśvakarman with golden pillars, sky-scraping turrets, lattice windows, sapphire dais-platforms, coral, pearls, and red sandalwood, Puṣpaka shines like the rising sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईहामृगसमायुक्तैः कार्तस्वरहिरण्मयैः ।  
@@ -861,6 +885,14 @@ brilliant like the Sun at noon;
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Endowed with red sandalwood (candanena ca raktena) gleaming like refined gold (tapanīyanibhena ca) and of most sacred fragrance (supuṇyagandhinā), it resembled the newly risen sun (ādityataruṇopamam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending Puṣpaka, Hanumān inhales the rich aroma of divine viands and drinks, which beckons him like a kinsman toward Rāvaṇa’s grand sleeping hall.
 </details>
 </details>
 
@@ -1166,6 +1198,14 @@ studded pillars and also decorated with many pillars.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Adorned with jeweled pillars (vibhūṣitāṃ maṇistambhaiḥ) and graced with numerous subordinate columns (subahustambhabhūṣitām)—symmetrical, straight, exceedingly lofty (samair ṛjubhir atyuccaiḥ), and richly ornamented on every side.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spread with an earth-patterned carpet, fragrant with aloeswood incense, and gratifying all five senses like a mother, Rāvaṇa’s hall seems to Hanumān like heaven or Amarāvatī.
 </details>
 </details>
 
@@ -1502,6 +1542,14 @@ Like a mother (māteva), protected as it then was by Rāvaṇa (tadā rāvaṇap
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beneath golden lamps brooding like defeated gamblers, Hanumān sees a thousand sleeping women whose hushed ornaments and lotus-fragrant faces resemble a silent lotus-grove.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रध्यायत इवापश्यत् प्रदीपांस्तत्र काञ्चनान् ।  
@@ -1808,6 +1856,14 @@ Māruti beheld the lotus-fragrant faces (padmagandhīni vadanāni) of those fair
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing the sleeping women’s faces to night-closed lotuses sought by bees, Hanumān likens the star-bright hall and Rāvaṇa to the autumn sky and the moon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रबुद्धानीव पद्मानि तासां भूत्वा क्षपाक्षये ।  
@@ -2093,6 +2149,14 @@ surrounded by stars.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘Those stars that fall from the sky (yāś cyavante'mbarāt tārāḥ) when the remnant of their merit is exhausted (puṇyaśeṣasamāvṛtāḥ)—all of them have gathered here together (imās tāḥ saṃgatāḥ kṛtsnāḥ)!’—so the monkey thought at that time.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhausted by drink and amorous sport, the sleeping women lie with smudged tilakas, slipped anklets, and pearl necklaces resting like sleeping swans between their breasts.
 </details>
 </details>
 
@@ -2402,6 +2466,14 @@ And upon the space between the breasts of some women (stanamadhyeṣu yoṣitām
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned with cat’s-eye gems and gold chains like waterbirds, the sleeping women resemble rivers with hip-sandbanks, while their breath flutters their veil-hems like banners.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरासां च वैदूर्याः कादम्बा इव पक्षिणः ।  
@@ -2695,6 +2767,14 @@ women, were being fluttered again and again on their faces.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Wafted aloft like banners (patākā ivoddhūtāḥ), those [veil-hems] of lovely radiance (tāḥ ruciraprabhāḥ) shone at the base of the faces (vaktramūleṣu rejire) of Rāvaṇa's wives, who possessed fair complexions of manifold hues (nānāvarṇasuvarṇānām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Their earrings trembling in their sweet wine-scented breath, Rāvaṇa’s enamored wives kiss their co-wives’ faces in sleep, mistaking them for Rāvaṇa, and slumber intertwined.
 </details>
 </details>
 
@@ -3016,6 +3096,14 @@ One woman [slept pillowed] upon the bosom of another (anyā vakṣasi cānyasyā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sleeping with limbs and arms intertwined in affectionate intoxication, Rāvaṇa’s women resemble a garland strung on arm-threads and a vernal forest of bee-thronged creepers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऊरुपार्श्वकटीपृष्ठमन्योन्यस्य समाश्रिताः ।  
@@ -3239,6 +3327,14 @@ the month of Vaisakha, with entwined beautiful trees.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Rāvaṇa sleeps, the golden lamps gaze unblinking at his tangled wives—daughters of royal sages, Brahmins, Daityas, Gandharvas, and Rākṣasas won through valor or passion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उचितेष्वपि सुव्यक्तं न तासां योषितां तदा ।  
@@ -3432,6 +3528,14 @@ heat of youth obtained Ravana being desired by god of love.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All those women had been carried off by Rāvaṇa (tāḥ sarvā rāvaṇena hṛtāḥ striyaḥ) out of his eagerness for battle (yuddhakāmena); and some, passionate by nature (samadāḥ) and infatuated by the god of love himself (madanenaiva mohitāḥ), had come of their own accord (kāścid āgatāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing that none of Rāvaṇa’s noble wives was wedded to another or taken against her will save Janaka’s daughter, Hanumān laments Rāvaṇa’s ignoble abduction of Sītā.
 </details>
 </details>
 

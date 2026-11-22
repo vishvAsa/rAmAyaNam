@@ -25,6 +25,14 @@ Rama after killing demon Viradha enters the hermitage of Sage Sharabhanga, as ad
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having slain the terrible Virādha and comforted Sītā, Rāma journeys with Lakṣmaṇa toward the hermitage of the ascetic Śarabhaṅga and beholds the radiant lord of the gods hovering in the sky.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हत्वा तु तं भीमबलं विराधं राक्षसं वने ।  
@@ -207,6 +215,14 @@ the other divinities are attending, and many more selfsame great-souls are worsh
 **5:** [He saw one] shining forth with his form, resplendent like the sun and fire (sūrya-vaiśvānara-prabham), mounted upon a preeminent chariot in the sky and attended by the gods (vibudhānugam).
 
 **6:** He beheld the lord of the gods (vibudheśvaram) not touching the earth (asaṃspṛśantaṃ vasudhām), a deity adorned with radiant ornaments and wearing dustless celestial garments (virajo’mbara-dhāriṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma beholds Indra’s aerial chariot yoked with green steeds, shaded by a garlanded white parasol and yak-tail fans, and points out the wondrous sight to Lakṣmaṇa.
 </details>
 </details>
 
@@ -431,6 +447,14 @@ On seeing Indra speaking there to sage Sharabhanga, Rama spoke to Lakshmana. [3-
 **11:** —extolled with choicest hymns (gīrbhir agryābhiḥ) the god stationed in the sky. While Vāsava was thus conversing with Śarabhaṅga—
 
 **12:** —Rāma, having seen Śatakratu there, spoke to Lakṣmaṇa; pointing out the chariot, Rāma then showed that marvel (adbhutam) to his brother.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma describes to Lakṣmaṇa the blazing aerial chariot of Puruhūta, his celestial steeds, and the hundreds of youthful sword-bearing immortals wearing fiery necklaces.
 </details>
 </details>
 
@@ -677,6 +701,14 @@ for gods are immortals and they will be ever young... [3-5-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For this, indeed, is forever the constant age of the gods (devānāṃ vayaḥ), just as these tigers among men of pleasing aspect are seen to bear.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Lakṣmaṇa remain with Vaidehī, Rāma approaches the hermitage; seeing him draw near, Indra takes leave of Śarabhaṅga and ascends to heaven.
 </details>
 </details>
 
@@ -984,6 +1016,14 @@ can be ended only by Rama, but not by others. Hence, Indra departed from there b
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the thunderbolt-wielder (vajrī), the tamer of foes, having taken leave of that ascetic and honored him, departed to heaven (divam) by his horse-yoked chariot.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once thousand-eyed Indra has departed, Rāma approaches Śarabhaṅga with Sītā and Lakṣmaṇa, reverently clasps his feet, and learns why the sage delayed his ascent to Brahmaloka.
 </details>
 </details>
 
@@ -1327,6 +1367,14 @@ in any of the said heavens, than having a glance at you. Maheshvara Tiirtha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śarabhaṅga offers Rāma all the imperishable celestial realms won by his penance; declining the gift, Rāma asks only for a forest dwelling and is directed to the sage Sutīkṣṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षया नरशार्दूल जिता लोका मया शुभाः ।  
@@ -1622,6 +1670,14 @@ and he will do something benignant to you... [3-5-35]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instructing Rāma to follow the flower-raft-bearing Mandākinī upstream to Sutīkṣṇa’s hermitage, Śarabhaṅga kindles the sacred fire, offers oblations, and enters the flames.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुतीक्ष्णमभिगच्छ त्वं शुचौ देशे तपस्विनम् ।  
@@ -1847,6 +1903,14 @@ entered that sacred fire. [3-5-39]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, having kindled and consecrated the sacred fire (agniṃ samādhāya) and offered oblations of clarified butter with mantras (mantravat), Śarabhaṅga of great splendour entered the fire (hutāśanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consuming his aged mortal frame in the flames, Śarabhaṅga rises from the pyre as a radiant youth, transcends the worlds of sages and gods, and is welcomed by Pitāmaha in Brahmaloka.
 </details>
 </details>
 

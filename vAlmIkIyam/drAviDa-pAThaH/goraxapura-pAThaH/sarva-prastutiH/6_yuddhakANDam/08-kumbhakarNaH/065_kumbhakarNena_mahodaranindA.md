@@ -30,6 +30,14 @@ form of Kumbhakarna, all the monkeys get frightened and take to their heels.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scornfully rebuking Mahodara, Kumbhakarṇa vows to wipe away Rāvaṇa's dread by slaying Rāma through deeds rather than empty thunder, denouncing the sycophantic ministers who ruined Laṅkā's statecraft.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथोक्तस्तु निर्भर्त्स्य कुम्भकर्णो महोदरम् ।  
@@ -338,6 +346,14 @@ By you cowards in battle (yuddhe kāpuruṣaiḥ), ever speaking flattering word
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Laṅkā is reduced to the king alone with its treasury and army spent, Kumbhakarṇa vows to rectify the ministers' blunders in battle, winning Rāvaṇa's joyful praise.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजशेषा कृता लङ्का क्षीणः कोशो बलं हतम् ।  
@@ -622,6 +638,14 @@ purpose of destroying the enemies. This is indeed a grand time for our demons."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 While sleeping (śayānaḥ), you were awakened by me for the destruction of our foes; for this is the supreme hour of crisis (kālaḥ sumahān) for the rākṣasas, O tamer of enemies!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidden by Rāvaṇa to go forth like Death with his noose and devour the Vānaras and the two princes, Kumbhakarṇa joyfully seizes his blazing, gold-adorned black-iron pike.
 </details>
 </details>
 
@@ -928,6 +952,14 @@ With swiftness that crusher of foes took up his whetted pike (niśitaṃ śūla�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wielding his fiery, blood-stained pike, Kumbhakarṇa proposes to march out alone to devour the Vānaras, but Rāvaṇa insists he go surrounded by armed legions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्राशनिसमप्रख्यं वज्रप्रतिमगौरवम् ।  
@@ -1165,6 +1197,14 @@ assaulted. Destroy the entire enemy-side, which in inimical to our demons."
 **23:** “Go forth surrounded by troops (sainyaiḥ parivṛto gaccha) bearing pikes and maces in their hands (śūlamudgarapāṇibhiḥ); for the Vānaras are mighty-souled, valiant, and of resolute enterprise (suvyavasāyinaḥ).
 
 **24:** Whether you are alone or off your guard (pramattaṃ vā), they might bring you to destruction with their fangs (daśanaiḥ); therefore, utterly unassailable, march forth encircled by troops, and crush the entire enemy host hostile to the rākṣasas!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising from his throne, Rāvaṇa personally decks Kumbhakarṇa with jewel-strung garlands, moon-bright necklaces, rings, and lightning-bright golden armor, making him shine like Mount Mandara or a cloud-girt peak.
 </details>
 </details>
 
@@ -1477,6 +1517,14 @@ Mountains, enveloped by clouds at sunset.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Putting on (ābadhyamānaḥ) his golden, blow-sustaining (bhārasahaṃ), weapon-proof (nivātaṃ) cuirass, flashing like lightning and blazing as though with its own luster, he shone like the king of mountains mantled in twilight clouds (saṃdhyābhrasaṃvīta ivādrirājaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling Lord Nārāyaṇa striding across the three worlds, Kumbhakarṇa embraces and circumambulates Rāvaṇa before marching forth amid showers of blossoms, conchs, and bizarre animal-mounted legions.
 </details>
 </details>
 
@@ -1817,6 +1865,14 @@ Bestrewn with showers of blossoms (puṣpavarṣair avakīryamāṇaḥ), shaded
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by towering foot-soldiers brandishing axes, clubs, and palm-trunks, Kumbhakarṇa assumes a terrifying cosmic form six hundred bow-lengths tall and laughs before his host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पदातयश्च बहवो महानादा महाबलाः ।  
@@ -2075,6 +2131,14 @@ Mustering (saṃnipatya) the rākṣasas, huge Kumbhakarṇa, who looked like a 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that monkeys are mere park-ornaments and that Rāma with Lakṣmaṇa is the true root of the siege, Kumbhakarṇa marches out amid earth-shaking roars and dreadful portents.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य वानरमुख्यानां तानि यूथानि भागशः ।  
@@ -2309,6 +2373,14 @@ terrific patterns appeared on all sides.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As that wise Kumbhakarṇa sallied forth swiftly (niṣpatatas tūrṇaṃ), portents of dreadful aspect (ghorarūpāṇi nimittāni) appeared on every side.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ass-grey clouds rain meteors, jackals howl with flaming mouths, a vulture alights on Kumbhakarṇa's pike, and his left eye and arm throb, yet driven by Fate he marches on.
 </details>
 </details>
 
@@ -2574,6 +2646,14 @@ Kumbhakarna on his part marched on, driven by the power of fate.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Heeding not (acintayan) those mighty, hair-raising portents that had arisen, Kumbhakarṇa marched forth, impelled by the power of Death (kṛtāntabalacoditaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stepping over Laṅkā's rampart on foot, the mountain-like Kumbhakarṇa scatters the Vānara host like wind-driven clouds and fells scores with his thunderous roar, striding like Yama at cosmic dissolution.
 </details>
 </details>
 

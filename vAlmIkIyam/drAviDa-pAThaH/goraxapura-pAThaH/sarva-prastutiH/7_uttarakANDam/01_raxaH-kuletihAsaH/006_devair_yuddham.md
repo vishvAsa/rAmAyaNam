@@ -13,6 +13,14 @@ title = "००६ देवैर् युद्धम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Oppressed by Sukeśa's boon-emboldened sons, the gods and ascetic sages flee to Lord Maheśvara and report how the rākṣasas have desecrated their hermitages, usurped heaven, and usurped divine titles.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैर्वध्यमाना देवाश्च ऋषयश्च तपोधनाः ।  
@@ -140,6 +148,14 @@ Tormented by those rākṣasas (tair vadhyamānāḥ), both the gods and the sag
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Our hermitages, once places of refuge (śaraṇyāni), have been rendered devoid of shelter (aśaraṇyāni); and having expelled the gods from heaven (svargāc ca devān pracyāvya), they sport in heaven like the gods themselves.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Implored to assume his fierce form and destroy the rākṣasas, Śiva declines to slay Sukeśa's sons out of affection for their father, and instead directs the gods and sages to seek refuge in Viṣṇu.
 </details>
 </details>
 
@@ -338,6 +354,14 @@ Thereupon, hailing Maheśvara with cries of victory (jaya-śabdena pratinandya),
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing before the conch- and discus-bearing Viṣṇu, the terrified gods recount how Sukeśa's three sons harass them from the mountain fortress of Laṅkā, and beg him to sever their heads with his discus.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शङ्खचक्रधरं देवं प्रणम्य बहुमान्य च ।  
@@ -530,6 +554,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viṣṇu reassures the gods by vowing to destroy Sukeśa's lawless sons, sending the celestials home rejoicing; hearing of this divine mobilization, Mālyavān convenes his brothers to report the plot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं दैवतैरुक्तो देवदेवो जनार्दनः ।  
@@ -699,6 +731,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The immortals and the sages, having assembled together before Śaṅkara (saṅgamya kila śaṅkaram), it is reported, and yearning for our destruction (asmad-vadhaṃ parīpsantaḥ), spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mālyavān recounts to his brothers how the gods implored three-eyed Śiva to incinerate them with a roar, and how Śiva shook his head and directed the celestials to seek refuge in Nārāyaṇa.
 </details>
 </details>
 
@@ -888,6 +928,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his intelligence report with Viṣṇu's pledge to destroy them, Mālyavān warns Sumālin and Mālin that countless mighty asuras—from Hiraṇyakaśipu and Namuci to Kālanemi, Śumbha, and Niśumbha—have all perished before Nārāyaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरादवाप्य ते मन्त्रं कामारिमभिवाद्य च ।  
@@ -1031,6 +1079,14 @@ _________________
 **35:** “Rādheya, Bahumāyin, Lokapāla, and Dhārmika; Yamala and Arjuna, Hārdikya, and Śumbha as well as Niśumbhaka—
 
 **36:** “—all those asuras and dānavas, endowed with heroic mettle and vast might (sattvavanto mahābalāḥ), once they encountered him in battle (samaram āsādya), are never heard of as having remained unconquered (na śrūyante 'parājitāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Mālyavān warns that even sacrifice-performing, weapon-skilled demons fell by the thousands to Nārāyaṇa, Sumālin and Mālin boast of their pious deeds and past triumphs, declaring that even the highest gods dread facing them.
 </details>
 </details>
 
@@ -1225,6 +1281,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blaming the gods rather than Viṣṇu for inciting hostilities, the rākṣasa chiefs resolve to strike heaven directly and march out in full force mounted upon chariots, elephants, camels, aquatic monsters, birds, and wild beasts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विष्णोर्द्वेषस्य नास्त्येव कारणं राक्षसेश्वर ।  
@@ -1358,6 +1422,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having deliberated thus, O Rāma (rāma), with all-out preparation (sarvodyogena), all those rākṣasas of colossal frame and immense strength (mahākāyā mahābalāḥ) marched out to war—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the proud rākṣasas abandon Laṅkā to march against heaven, the city's tutelary spirits depart in grief along their path, while terrible terrestrial and celestial portents—rains of bone and hot blood, surging seas, and howling jackals—rise at Time's command.
 </details>
 </details>
 
@@ -1546,6 +1618,14 @@ Releasing peals of thunderous laughter (aṭṭahāsān vimuñcantaḥ) with voi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Flame-spewing vultures wheel overhead like a whirling firebrand while ill-omened birds and beasts shriek; yet, snared in Death's noose, the proud rākṣasas ignore every portent and march behind their three fiery brothers, relying on Mālyavān like a mountain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अट्टहासान् विमुञ्चन्तो घननादसमस्वनाः ।  
@@ -1712,6 +1792,14 @@ And all those night-roamers relied upon Mālyavān as upon the great Mount Māly
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the thunderous rākṣasa army advances toward heaven under Mālin's command, Nārāyaṇa learns of their march from a celestial messenger, arrays himself in sun-bright armor and his five great weapons, and speeds forth atop Garuḍa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 माल्यवन्तं तु ते सर्वे माल्यवन्तमिवाचलम् ॥ ६० ॥  
@@ -1873,6 +1961,14 @@ Having bound on two spotless quivers brimful of arrows (śara-sampūrṇe iṣud
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, mounted upon the mountain-like Suparṇa, son of Vinatā (suparṇaṃ giri-saṅkāśaṃ vainateyam athāsthitaḥ), the Lord sped swiftly forth (yayau tūrṇataram) for the destruction of the rākṣasas (rākṣasānām abhāvāya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining upon golden Garuḍa like a lightning-laced raincloud atop a golden peak, Viṣṇu confronts the rākṣasa host; though Garuḍa's wing-blasts shatter their ranks like a quaking mountain, the demons surround Mādhava and pierce him with thousands of fiery shafts.
 </details>
 </details>
 

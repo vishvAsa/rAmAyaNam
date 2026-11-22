@@ -25,6 +25,14 @@ and cautions him to face the wrath of the arrows of Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stricken in his senses at the sight of Lakṣmaṇa blazing with wrath, Sugrīva springs from his golden throne followed by Rumā and the women and stands with folded hands.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमप्रतिहतं क्रुद्धं प्रविष्टं पुरुषर्षभम् ।  
@@ -307,6 +315,14 @@ with his wife Ruma at his side amid other vanara females. [4-34-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 To Sugrīva, who stood in the midst of his women (nārīmadhyagatam sthitam) with Rumā at his side (rumādvitīyam) like the moon accompanied by the star Tārā (satāram śaśinam yathā), enraged Lakṣmaṇa spoke:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa contrasts a righteous, grateful king with a cruel promise-breaker, grades the sin of falsehood from horses and cows to men, and introduces Brahmā's ancient verse condemning ingrates.
 </details>
 </details>
 
@@ -604,6 +620,14 @@ Svayambhu Manu who constructed the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reciting Brahmā's verse that no expiation exists for an ingrate, Lakṣmaṇa denounces Sugrīva for revelling in vulgar pleasures like a snake croaking with the voice of a captured frog.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोघ्ने चैव सुरापे च चौरे भग्नव्रते तथा ।  
@@ -811,6 +835,14 @@ realised that you are a serpent with the croaking of a frog. [4-34-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Yet you, being attached to vulgar pleasures (grāmyeṣu bhogeṣu saktaḥ), are false to your promise (mithyāpratiśravaḥ); Rāma did not recognize you [for what you are], like a snake croaking with the cry of a frog (sarpam maṇḍūkarāviṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Sugrīva that the path taken by slain Vālī is not closed, Lakṣmaṇa urges him to abide by his covenant before Ikṣvāku's thunderbolt-like arrows strike him down.
 </details>
 </details>
 

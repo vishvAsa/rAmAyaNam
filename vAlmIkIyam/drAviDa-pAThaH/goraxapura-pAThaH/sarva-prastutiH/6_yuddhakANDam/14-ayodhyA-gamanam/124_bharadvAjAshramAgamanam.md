@@ -27,6 +27,14 @@ Thereupon, the troops of monkeys feasted on those fruits at will.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vibhīṣaṇa offers royal baths, unguents, and ornaments at dawn, Rāma declines them while Bharata suffers in asceticism, directing him to honour Sugrīva and the monkeys instead.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णे चतुर्दशे वर्षे पञ्चम्यां लक्ष्मणाग्रजः ।  
@@ -227,6 +235,14 @@ All are safe at your home and in the city."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus, Kākutstha replied to Vibhīṣaṇa: “Do you invite (upanimantraya) the monkeys headed by Sugrīva for the ceremonial bath (snānena)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma asks how to traverse the arduous road to Ayodhyā quickly, Vibhīṣaṇa offers the sun-bright aerial chariot Puṣpaka while begging Rāma to stay briefly as his guest.
 </details>
 </details>
 
@@ -465,6 +481,14 @@ was seized after conquering him in battle; moving at will (kāmagam), divine, an
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa humbly entreats Rāma to accept his hospitality with Sītā, Lakṣmaṇa, and the army, and Rāma praises his friendship but explains that his heart hastens to see Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारीचदर्शनं चैव सीतोन्मथनमेव च ।  
@@ -666,6 +690,14 @@ boon:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surely it is not that I would refuse (na khalv etan na kuryām) to fulfill this word of yours, O lord of the Rākṣasas; yet my heart hastens (tvarate manaḥ) to behold that brother of mine, Bharata—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Longing to see Bharata, his mothers, Guha, and the citizens of Ayodhyā, Rāma begs leave of Vibhīṣaṇa, who swiftly summons the golden, jewel-decked Puṣpaka chariot.
 </details>
 </details>
 

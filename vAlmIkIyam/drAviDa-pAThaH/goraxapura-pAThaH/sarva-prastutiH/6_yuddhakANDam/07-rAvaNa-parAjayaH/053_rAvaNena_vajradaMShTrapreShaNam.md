@@ -25,6 +25,14 @@ the terrible strong demons, chopping off their heads.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by the slaying of Dhūmrākṣa, Rāvaṇa dispatches the illusion-wielding general Vajradaṃṣṭra, who marches forth in full armor with his host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षं निहतं श्रुत्वा रावणो राक्षसेश्वरः ।  
@@ -282,6 +290,14 @@ wielding a bow and well-covered by an armour.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 decked with wondrous armlets and a diadem (vicitrakeyūramukuṭena), he donned his coat of mail (tanutraṃ sa samāvṛtya) and, bow in hand (sadhanuḥ), marched forth swiftly.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circumambulating and mounting his golden chariot, Vajradaṃṣṭra leads forth an army of foot-soldiers, war-elephants, and cavalry gleaming like storm-clouds.
 </details>
 </details>
 
@@ -565,6 +581,14 @@ Marching forth (viprasthitam), that entire rākṣasa army shone like thundering
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marching out the southern gate where Aṅgada is stationed, Vajradaṃṣṭra defies falling meteors and howling jackals to clash with the roaring Vānaras.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निःसृता दक्षिणद्वारादङ्गदो यत्र यूथपः ।  
@@ -837,6 +861,14 @@ Then a tumultuous melee (tumulam) broke out between the monkeys and the rākṣa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Amid the heart-rending crash of boulders, weapons, and war-drums, the combatants cast aside their missiles and grapple in brutal hand-to-hand combat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्पतन्तो महोत्साहा भिन्नदेहशिरोधराः ।  
@@ -1039,6 +1071,14 @@ tumultuous sounds of couches, kettle-drums and tabours arose there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Dreadful there was the rumble of chariot rims (rathanemisvanaḥ) and of the bow; tumultuous was the blare of conchs, kettledrums, and mṛdaṅga drums (śaṅkhabherīmṛdaṅgānām). Some, casting aside their missiles (astrāṇi saṃtyajya), engaged in hand-to-hand combat (bāhuyuddham akurvata).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Vajradaṃṣṭra stalks the field like Death with his noose, Aṅgada blazes like the doomsday fire and uproots a tree to crush the rākṣasas.
 </details>
 </details>
 
@@ -1259,6 +1299,14 @@ demons in the battle, like a world-destroying fire.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Raising a tree (vṛkṣam udyamya), the valiant Aṅgada, his eyes copper-red with rage (krodhatāmrākṣaḥ), [crushed] all those rākṣasa troops as a lion crushes petty beasts (siṃhaḥ kṣudramṛgān iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Felled like trees by Aṅgada's onslaught, the rākṣasas strew the blood-soaked earth with bright ornaments until it gleams like an autumnal night.
 </details>
 </details>
 

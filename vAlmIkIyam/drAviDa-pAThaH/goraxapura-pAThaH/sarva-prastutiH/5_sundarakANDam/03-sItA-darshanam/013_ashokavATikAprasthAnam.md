@@ -25,6 +25,14 @@ Ashoka garden to continue his search.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping like lightning from Puṣpaka onto the rampart wall after searching Laṅkā’s pools, woods, and mansions in vain, Hanumān wonders why Sītā—whom Sampāti located here—remains unseen.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानात् तु स सङ्क्रम्य प्राकारं हरियूथपः ।  
@@ -358,6 +366,14 @@ helplessly together with the evil minded Ravana."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by grief, Hanumān conjectures that Sītā slipped from Rāvaṇa’s grasp in mid-flight, died of terror over the ocean, was crushed by his arms, or was devoured in Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षिप्रमुत्पततो मन्ये सीतामादाय रक्षसः ।  
@@ -649,6 +665,14 @@ evil thoughts."
 **11:** “Or else (āho), while guarding her own chastity (rakṣantī śīlam ātmanaḥ), the helpless and friendless Sītā (abandhus tapasvinī sītā) was devoured (bhakṣitā) by this vile Rāvaṇa (kṣudreṇa cānena rāvaṇena).
 
 **12:** “Or perhaps that dark-eyed, blameless lady (asitekṣaṇā aduṣṭā sā) has been devoured (bhakṣitā bhaviṣyati) by the wicked-hearted consorts of the rākṣasa king (rākṣasendrasya patnībhir duṣṭabhāvābhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wondering whether Sītā died grieving for Rāma or wails like a caged sārikā bird in some hidden chamber, Hanumān faces the perilous dilemma of reporting or concealing his failure.
 </details>
 </details>
 
@@ -967,6 +991,14 @@ me this seems dire situation."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “If it is reported, there will be disaster (nivedyamāne doṣaḥ syāt), and in not reporting it there will likewise be fault (doṣaḥ syād anivedane); how then is one to act (kathaṃ nu khalu kartavyaṃ)? The dilemma appears perilous to me (viṣamaṃ pratibhāti me).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weighing what is timely and fitting, Hanumān reflects that returning to Kiṣkindhā without seeing Sītā will render his ocean leap vain and cause Rāma to perish upon hearing the news.
 </details>
 </details>
 
@@ -1296,6 +1328,14 @@ will not exist."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tracing the chain of bereavement, Hanumān foresees that Rāma’s death will claim Lakṣmaṇa, Bharata, Śatrughna, the three queens of Ayodhyā, grateful Sugrīva, Rumā, and grief-stricken Queen Tārā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु कृच्छ्रगतं दृष्ट्वा पञ्चत्वगतमानसम् ।  
@@ -1616,6 +1656,14 @@ while the king Sugreeva is obtaining death."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān foresees that Prince Aṅgada will perish after Tārā and Sugrīva, while the grateful monkey hosts will beat their heads and end their lives by cliff-leaping, fire, poison, or fasting.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातापित्रोर्विनाशेन सुग्रीवव्यसनेन च ।  
@@ -1885,6 +1933,14 @@ they will fall down from top of mountains on to flat lands and on to rugged land
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The monkeys will resort (pracariṣyanti) to poison (viṣam), or hanging (udbandhanaṃ vāpi), or entering the fire (praveśaṃ jvalanasya vā), or fasting unto death (upavāsam), or the weapon (atho śastraṃ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving not to return to Kiṣkindhā lest both Ikṣvākus and monkeys perish, Hanumān considers remaining in Laṅkā as a forest ascetic, entering a blazing pyre, or fasting unto death.
 </details>
 </details>
 
@@ -2183,6 +2239,14 @@ fasting onto death my body will be eaten by crows and by beasts of prey."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Or as I sit in solemn fasting (upaviṣṭasya vā samyak), preparing to release the embodied soul (liṅginaṃ sādhayiṣyataḥ), crows and beasts of prey (vāyasāḥ śvāpadāni ca) will devour my body (śarīraṃ bhakṣayiṣyanti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contemplating drowning or lifelong asceticism over his shattered garland of fame, Hanumān concludes that suicide brings many evils whereas a living being eventually attains auspicious fortune.
 </details>
 </details>
 
@@ -2501,6 +2565,14 @@ Bearing thus in his mind (evaṃ manasā dhārayan) manifold and abundant sorrow
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contemplating slaying Rāvaṇa or carrying him across the ocean like a sacrificial victim to Rāma, Hanumān resolves instead to keep searching Laṅkā until he beholds Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विक्रममासाद्य धैर्यवान् कपिकुञ्जरः ।  
@@ -2797,6 +2869,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Catching sight of the great unsearched Aśoka grove, Hanumān rises from his brooding and offers reverent salutation to Rāma, Lakṣmaṇa, Jānakī, Rudra, Indra, Yama, Vāyu, Soma, Agni, and the Maruts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोकवनिका चापि महतीयं महाद्रुमा ।  
@@ -3069,6 +3149,14 @@ there be salutations. To Rudra, Indra, Yama and Vaayu let there be salutations."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing also to Sugrīva and journeying first in mind to the heavily guarded Aśoka grove where even Vāyu breathes softly, tiny Hanumān prays to the gods and sages for success.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेभ्यस्तु नमस्कृत्वा सुग्रीवाय च मारुतिः ।  
@@ -3325,6 +3413,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I have contracted this body of mine (saṃkṣipto 'yaṃ mayātmā ca) for Rāma’s sake (rāmārthe) and [to elude the sight] of Rāvaṇa (rāvaṇasya ca); may all the gods together with the hosts of sages (sarve devāḥ sarṣigaṇās tv iha) grant me success (siddhiṃ diśantu me)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Expressing confidence that Brahmā, Agni, Vāyu, Indra, Varuṇa, the Lord of beings, and unseen wayside deities will grant success, Hanumān yearns to behold Sītā’s moon-like, lotus-eyed countenance today.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ Anasuya in detail.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Free from envy, Vaidehī honors Anasūyā’s counsel, affirming that while a noble wife must serve even a faultful husband, Rāma is supremely praiseworthy in virtue, compassionate, self-controlled, and reverent toward all his father’s queens.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा त्वेवमुक्ता वैदेही त्वनसूयानसूयया ।  
@@ -345,6 +353,14 @@ glance."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Even toward women glanced at only once by the king (sakṛd dṛṣṭāsv api strīṣu nṛpeṇa), that heroic knower of dharma, devoted to his royal father (nṛpavatsalaḥ), lays aside all pride (mānam utsṛjya) and bears himself as toward his own mother (mātṛvad vartate).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling the teachings of her mother-in-law Kausalyā and her mother Jananī at her wedding, Sītā celebrates how Sāvitrī, Anasūyā, Rohiṇī, and other devoted wives are glorified in heaven through service to their husbands.
 </details>
 </details>
 
@@ -670,6 +686,14 @@ are highly honoured in heaven."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kissing Sītā on the head, Anasūyā invites her to choose a boon through her ascetic power; when Sītā modestly replies that Anasūyā’s grace alone suffices, the delighted matron bestows celestial garlands, robes, ornaments, and unguents.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽनसूया संहृष्टा श्रुत्वोक्तं सीतया वचः ।  
@@ -935,6 +959,14 @@ Seetha! Alas! I will create a great joy for you, which will be to your advantage
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus by her, that knower of dharma became even more delighted (prītatarābhavat): “Ah, O Sītā (hanta sīte), I shall render your joyful contentment fruitful indeed (saphalaṃ ca praharṣaṃ te karomy aham)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessing Sītā to adorn her husband like Goddess Śrī adorning imperishable Viṣṇu, Anasūyā bestows the unfading gifts of affection and asks Sītā to narrate how Rāma won her hand at her svayaṃvara.
 </details>
 </details>
 
@@ -1246,6 +1278,14 @@ consort from the royal suitors assembled, by placing a garland around his neck.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A report has reached my ears (kathā śrutim upāgatā), O Sītā, that you were won at a bride-choice assembly (svayaṃvare kila prāptā) by this illustrious Rāghava.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entreating Sītā to relate her story in full, Anasūyā listens as Maithilī recounts how righteous King Janaka, while ploughing the sacrificial ground, beheld her rising from the earth covered in dust and cherished her as his daughter.
 </details>
 </details>
 
@@ -1568,6 +1608,14 @@ one as his daughter, and was very fond of me since then."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Childless as he was (anapatyena), out of affection he himself placed me upon his lap (snehād aṅkam āropya ca svayam); and saying, ‘This is my daughter (mameyaṃ tanayā),’ he showered tender love upon me (sneho mayi nipātitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confirmed by a celestial voice as Janaka’s daughter by dharma and reared by his eldest queen, Sītā reaches marriageable youth, plunging her father into an ocean of anxiety over finding a worthy bridegroom.
 </details>
 </details>
 
@@ -1899,6 +1947,14 @@ would reach the end of a sea."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing Sītā to be non-womb-born, King Janaka resolves to hold a svayaṃvara and proclaims before the assembled kings that whoever lifts and strings the mighty bow bestowed of old by Varuṇa at the great sacrifice shall wed his daughter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोनिजां हि मां ज्ञात्वा नाध्यगच्छत् स चिन्तयन् ।  
@@ -2213,6 +2269,14 @@ marriage on him. There is no doubt about it."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After the assembled kings fail even to budge the mountain-like bow, Rāma arrives with Viśvāmitra and Lakṣmaṇa, strings the divine bow in the twinkling of an eye, and snaps it in two with a crash like a falling thunderbolt.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च दृष्ट्वा धनुःश्रेष्ठं गौरवाद् गिरिसन्निभम् ।  
@@ -2476,6 +2540,14 @@ with the bow-cord and drew the bow to the full."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Swiftly fixed the bowstring (jyāṃ samāropya jhaṭiti), and drew it to the full with heroic might (pūrayāmāsa vīryavat); as it was drawn by him with impetuous force (tena pūrayatā vegāt), the bow snapped in two in the middle (madhye bhagnaṃ dvidhā dhanuḥ), and its crash was fearful like that of a falling thunderbolt (patitasyāśaner iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refusing to accept Sītā’s hand before ascertaining his father’s wish, Rāma weds Sītā and Lakṣmaṇa weds her younger sister Ūrmilā after King Daśaratha’s arrival at Mithilā.
 </details>
 </details>
 

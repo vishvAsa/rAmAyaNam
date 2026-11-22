@@ -31,6 +31,14 @@ Indrajit, Rama and Lakshmana along with the whole army of monkeys fell unconscio
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning from the surviving Rākṣasa warriors that Atikāya, Triśiras, and Devāntaka have fallen, Rāvaṇa sinks into grief until Indrajit vows to slay Rāma and Lakṣmaṇa that very day.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हतान् राक्षसपुङ्गवांस्तान्  
@@ -359,6 +367,14 @@ blessing. Now itself, I will overwhelm Rama together with Lakshmana unfailing fl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening his impending feat to Viṣṇu's stride at Bali's sacrifice, Indrajit takes leave of Rāvaṇa and mounts his mule-drawn chariot, followed by Rākṣasa warriors on fierce mounts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्येन्द्रवैवस्वतविष्णुरुद्र-  
@@ -598,6 +614,14 @@ _________________
 **11:** Some rode upon the shoulders of elephants (gajaskandhagataḥ), some on superb steeds, and [others] on tigers, scorpions, wildcats, donkeys, camels, and serpents (bhujaṅgamaiḥ)—
 
 **12:** —and on boars, beasts of prey, lions, and jackals huge as mountains (parvatopamaiḥ), as well as on crows, swans, and peacocks, those Rākṣasas of dreadful prowess [followed him].
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Armed with diverse weapons and shaded by a moon-white parasol, Indrajit marches forth to the roar of conchs and drums while Rāvaṇa hails him as Indra's conqueror.
 </details>
 </details>
 
@@ -928,6 +952,14 @@ blessings.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving Rāvaṇa's blessings, Indrajit reaches the sacrificial ground of Nikumbhilā, stations his Rākṣasa guards around his chariot, and commences his dark fire-oblation with weapons and red garments.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्तो राक्षसेन्द्रेण प्रत्यगृह्णान्महाशिषः ।  
@@ -1213,6 +1245,14 @@ oblation).
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —as well as red garments (lohitāni ca vāsāṃsi) and a ladle of black iron (sruvaṃ kārṣṇāyasam) [were prepared]; and having strewn the fire round about there with arrow-blades and iron lances (śarapatraiḥ satomaraiḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Offering a live black goat into the smokeless fire, Indrajit receives Agni's auspicious tokens of victory, invokes the Brahmāstra, and vanishes into the sky with his chariot.
 </details>
 </details>
 
@@ -1543,6 +1583,14 @@ Then the Rākṣasa army, thronged with steeds and chariots (hayarathākīrṇam
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhorting his night-stalkers to fight joyfully, the invisible Indrajit rains down arrows and maces from the sky above his army while the Vānaras hurl boulders blindly.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते शरैर्बहुभिश्चित्रैस्तीक्ष्णवेगैरलङ्कृतैः ।  
@@ -1859,6 +1907,14 @@ Then the wrathful Indrajit, the son of Rāvaṇa of mighty splendor and immense 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Piercing scores of Vānaras with single shafts and blazing like the sun with arrow-rays, Indrajit shatters the monkey ranks, though Rāma's devoted warriors rally with boulders.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरेणैकेन च हरीन् नव पञ्च च सप्त च ।  
@@ -2144,6 +2200,14 @@ without turning back, abandoned their lives, showing their courage for the sake 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet exerting their valor for Rāma's sake (rāmasyārthe parākramya) and abandoning all regard for their lives (tyaktajīvitāḥ), those roaring Vānaras, armed with boulders (saśilāyudhāḥ), did not turn back in battle (anivṛttās tu samare).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dispelling the Vānaras' massive volley of trees and boulders, Indrajit pierces Gandhamādana, Nala, Mainda, Gaja, Jāmbavān, Nīla, Sugrīva, Ṛṣabha, Aṅgada, and Dvivida from afar.
 </details>
 </details>
 
@@ -2441,6 +2505,14 @@ He [pierced] Jāmbavān with ten and Nīla with thirty (triṃśadbhir eva ca), 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rendering the foremost Vānara leaders breathless with boon-endowed shafts and churning their blood-drenched ranks like the doomsday fire, the invisible Indrajit rains down arrows like a dark cloud.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यानपि तथा मुख्यान् वानरान् बहुभिः शरैः ॥ ४९ ॥  
@@ -2708,6 +2780,14 @@ as black cloud downpours the rain.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Leaving his own army behind (svasainyam utsṛjya) and advancing swiftly into the Vānara hosts (vānaravāhinīṣu) in that great battle, while remaining unseen (adṛśyamānaḥ), he rained down a fierce net of arrows as a dark rain-cloud pours down water (nīlāmbudharo yathāmbu).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck down by the unseen Indrajit's sorcerous volleys of arrows, pikes, swords, and sparking battle-axes, the mountain-like Vānaras bleed like crimson kiṃśuka trees in bloom.
 </details>
 </details>
 
@@ -3060,6 +3140,14 @@ Crawling toward one another (anyonyam abhisarpantaḥ) and crying out discordant
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blinding the monkeys who gaze skyward and piercing twenty-one Vānara commanders—from Hanūmān and Sugrīva to Nala and Kumuda—Indrajit overwhelms the host with mantra-charged weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदीक्षमाणा गगनं केचिन्नेत्रेषु ताडिताः ।  
@@ -3201,6 +3289,14 @@ also a monkey named Kumuda.
 **64:** —Sūryānana, Jyotirmukha, and the monkey Dadhimukha, as well as Pāvakākṣa, Nala, and the Vānara Kumuda:
 
 **65:** With lances, pikes, and sharp arrows charged with mantras (mantrasaṃhitaiḥ), Indrajit, that foremost of Rākṣasas, pierced all those tigers among monkeys (hariśārdūlān sarvāṃs tān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pelted by Indrajit's sun-bright arrow-showers, Rāma regards them as mere raindrops and counsels Lakṣmaṇa to endure the Brahmāstra calmly out of reverence for Self-born Brahmā.
 </details>
 </details>
 
@@ -3513,6 +3609,14 @@ with me today the hail of arrows here."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I deem the blessed Self-born Lord [Brahmā] to be of inconceivable might (svayaṃbhūr bhagavān acintyaḥ); this missile belongs to him, who is the creator of this universe (prabhavaś ca yo 'sya). Endure here today with me, O wise one (dhīman), with an unruffled mind (avyagramanāḥ), this shower of arrows (bāṇāvapātam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling that Indrajit will retire to Laṅkā once he sees them fallen motionless, Rāma and Lakṣmaṇa submit to the Brahmāstra, and the exultant Rākṣasa reports his triumph to Rāvaṇa.
 </details>
 </details>
 

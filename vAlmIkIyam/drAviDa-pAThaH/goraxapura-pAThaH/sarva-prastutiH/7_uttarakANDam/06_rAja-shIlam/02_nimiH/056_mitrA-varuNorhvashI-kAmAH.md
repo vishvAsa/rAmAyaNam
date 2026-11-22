@@ -13,6 +13,14 @@ title = "०५६ मित्रा-वरुणोर्ह्वशी-क�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Curious to learn how Vasiṣṭha and King Nimi regained bodily form after laying aside their bodies through mutual curses, Lakṣmaṇa questions Rāma, who recounts how the disembodied Vasiṣṭha, reduced to wind, approached his father Brahmā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य भाषितं श्रुत्वा लक्ष्मणः परवीरहा ।  
@@ -199,6 +207,14 @@ Thus addressed by Lakṣmaṇa (lakṣmaṇenaivam uktas tu), Rāma, delight of 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that loss of the body halts all worldly and sacred duties, Vasiṣṭha begs Brahmā for a new frame; Brahmā directs him to enter the joint seed of Mitra and Varuṇa, promising an immaculate rebirth, and Vasiṣṭha hastens to Varuṇa’s abode where Mitra too abides.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवन् निमिशापेन विदेहत्वमुपागमम् ।  
@@ -362,6 +378,14 @@ At that very time (tam eva kālam), Mitra too was exercising the office of Varu�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Just then the supreme apsaras Urvaśī wanders into Varuṇa’s domain with her companions; smitten by her beauty, Varuṇa courts her, and when she protests that Mitra has already claimed her, he declares he will discharge his seed into a divinely fashioned jar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नेव काले तु उर्वशी परमाप्सराः ।  
@@ -520,6 +544,14 @@ Thereupon she, standing with joined palms (prāñjaliḥ sthitā), replied to Va
 **17:** Stricken by the arrows of the god of love (kandarpa-śara-pīḍitaḥ), Varuṇa spoke these words: “I shall discharge this seed (idaṃ tejaḥ samutsrakṣye) into this divinely fashioned jar (kumbhe ’smin deva-nirmite)!
 
 **18:** “Discharging it thus in your presence, O fair-hipped one (evam utsṛjya suśroṇi tvayy aham), O lady of lovely complexion (vara-varṇini), I shall become fulfilled in my desire (kṛta-kāmo bhaviṣyāmi), if you do not desire union (yadi necchasi saṅgamam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased by Varuṇa’s restraint, Urvaśī confesses that though her body belongs to Mitra, her heart rests in Varuṇa; Varuṇa releases his fiery seed into the jar, and when Urvaśī returns to Mitra, the angered god curses her to dwell in the mortal world.
 </details>
 </details>
 
@@ -709,6 +741,14 @@ Urvaśī then went to where the god Mitra was (yatra mitro vai devatā); and app
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Through this misdeed (anena duṣkṛtena), sullied by my wrath (mat-krodha-kaluṣīkṛtā), repairing to the world of mortals (manuṣya-lokam āsthāya), you shall dwell there for some time (kañcit kālaṃ nivatsyasi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cursed by Mitra to become the consort of King Purūravas of Kāśī, Urvaśī descends to earth and bears him the mighty Āyus, father of the Indra-like Nahuṣa, before returning to Indra’s heaven upon the curse’s expiration.
 </details>
 </details>
 

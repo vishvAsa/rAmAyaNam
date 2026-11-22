@@ -27,6 +27,14 @@ purification ceremony.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakening the sleeping Lakṣmaṇa at dawn as woodland birds sing sweetly, Rāma performs his morning ablutions in the Yamunā with Sītā and Lakṣmaṇa and points out the blazing crimson kiṃśuka blossoms along the path to Citrakūṭa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रात्र्यां व्यातीतायामवसुप्तमनन्तरम् ।  
@@ -347,6 +355,14 @@ as if they are blazing up, in this winter."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out the fruit-laden bhallātaka trees, the droṇa-sized honeycombs hanging from every tree, and the responsive cries of gallinules and peacocks, Rāma leads Sītā and Lakṣmaṇa on foot to Mount Citrakūṭa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य भल्लातकान् बिल्वान् नरैरनुपसेवितान् ।  
@@ -643,6 +659,14 @@ mountain of Chitrakuta, which was pleasant and lovely.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, walking on foot together with Sītā (pāda-cāreṇa gacchantau saha sītayā), those two reached the delightful and charming mountain Citrakūṭa (śailaṃ citrakūṭaṃ manoramam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Citrakūṭa’s sweet waters, abundant roots and fruits, and resident sages, Rāma enters the hermitage with Sītā and Lakṣmaṇa to salute Sage Vālmīki, who welcomes them with joy.
 </details>
 </details>
 
@@ -955,6 +979,14 @@ ascetic all that concerned them and spoke to Lakshmana as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, having duly announced himself and his purpose to the sage (sannivedya yathā-nyāyam ātmānam ṛṣaye), the mighty-armed lord, the elder brother of Lakṣmaṇa, spoke to Lakṣmaṇa:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma’s bidding, Lakṣmaṇa brings sturdy, auspicious timber and constructs a thatched leaf-hut with matted walls; seeing it completed, Rāma instructs him to hunt a blackbuck antelope for the scriptural vāstu-śamana consecration rite.
 </details>
 </details>
 
@@ -1289,6 +1321,14 @@ Understanding his brother’s words, Lakṣmaṇa, the slayer of hostile heroes 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Lakṣmaṇa to roast the blackbuck venison during the auspicious Abhijit muhūrta, Rāma bathes in self-restraint and recites the consecration mantras as soon as Lakṣmaṇa announces that the offering is thoroughly cooked.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऐणेयं श्रपयस्वैतच्छालां यक्ष्यामहे वयम् ।  
@@ -1563,6 +1603,14 @@ Having bathed in self-control, the virtuous Rāma, skilled in mantra recitation 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Offering the Vaiśvadeva, Raudra, and Vaiṣṇava oblations, bathing in the river to perform the sin-quelling bali offering, and establishing altars and shrines suited to the hermitage, Rāma enters the dwelling with a gladdened heart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इष्ट्वा देवगणान् सर्वान् विवेशावसथं शुचिः ।  
@@ -1779,6 +1827,14 @@ Rāghava established altar-grounds, sacred caitya pavilions, and deity shrines (
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With woodland garlands, fruits, roots, and cooked meats according to rule (vanyair mālyaiḥ phalair mūlaiḥ pakvair māṃsair yathā-vidhi), with waters and Vedic mantra recitations, and with darbha grass, sacrificial fuel, and kuśa blades (darbhaiś ca sasamit-kuśaiḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having propitiated all beings, Rāma, Lakṣmaṇa, and Sītā enter the wind-sheltered leaf-hut like the gods entering the celestial assembly hall Sudharmā, and Rāma casts off the sorrow of his exile beside Citrakūṭa and the Mālyavatī river.
 </details>
 </details>
 

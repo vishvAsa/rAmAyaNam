@@ -23,6 +23,14 @@ Lakshmana consoles him and there approaches the sun-set.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the monkey army encamped by Nīla on the northern shore of the ocean, Rāma confides his waxing grief to Lakṣmaṇa and implores the breeze to touch Sītā and caress him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु नीलेन विधिवत्स्वारक्षा सुसमाहिता ।  
@@ -341,6 +349,14 @@ eyes."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Blow, O wind, where my beloved dwells (vāhi vāta yataḥ kāntā); having touched her, touch me also (tāṃ spṛṣṭvā mām api spṛśa)! In you lies the contact of my limbs with hers (tvayi me gātra-saṃsparśaḥ), and in the moon the union of our glances (candre dṛṣṭi-samāgamaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Haunted by Sītā's cry when she was abducted and consumed day and night by the fire of separation, Rāma draws life from sharing the same earth and hearing that she lives.
 </details>
 </details>
 
@@ -675,6 +691,14 @@ flourishing as prosperity, by conquering the enemies?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma yearns to drink the elixir of Sītā's lotus-face and laments her wasting away among Rākṣasīs, comparing her future deliverance to the autumn moon breaking through dark clouds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा सुचारुदन्तोष्ठं तस्याः पद्ममिवाननम् ।  
@@ -1001,6 +1025,14 @@ her anguish, her abstinence from food and her adverse position of time and place
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Slender by her very nature (svabhāva-tanukā), Sītā has surely grown far more emaciated still (nūnaṃ... bhūyas tanutarā) through grief, fasting (śokenānaśanena ca), and the adverse change of place and season (deśa-kāla-viparyayāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma longs to lodge his arrows in Rāvaṇa's chest and cast off grief like a soiled garment; as the sun sets, he is consoled by Lakṣmaṇa and performs the evening worship.
 </details>
 </details>
 

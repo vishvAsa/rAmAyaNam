@@ -13,6 +13,14 @@ title = "०१६ कैलास-चालन-यत्नः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having vanquished Kubera and seized Puṣpaka, Rāvaṇa flies to the radiant golden reed-forest of Skanda’s birth; halted suddenly near Mount Kailāsa, he and his minister Mārīca ponder the unseen power arresting the chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स जित्वा धनदं राम भ्रातरं राक्षसाधिपः ।  
@@ -177,6 +185,14 @@ Thereupon, O Rāma, the shrewd-minded Mārīca (mārīco buddhi-kovidaḥ) spoke
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Mārīca wonders whether Puṣpaka refuses to serve anyone save Kubera, Śiva’s formidable attendant Nandīśvara abruptly appears to forbid entry onto Kailāsa, provoking a furious Rāvaṇa to descend and challenge Śaṅkara.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा पुष्पकमिदं धनदान्नान्यवाहनम् ।  
@@ -317,6 +333,14 @@ _________________
 **11:** “To all created beings alike (sarveṣām eva bhūtānām), this mountain has been rendered impassable (agamyaḥ parvataḥ kṛtaḥ)!” Hearing those words of Nandī (iti nandi-vacaḥ śrutvā), his earrings quivering with wrath (krodhāt kampita-kuṇḍalaḥ),
 
 **12:** With eyes reddened by fury (roṣāt tu tāmra-nayanaḥ), he alighted from Puṣpaka (puṣpakād avaruhya), exclaiming, “Who is this Śaṅkara (ko ’yaṃ śaṅkaraḥ)?” and came down to the foot of the mountain (śaila-mūlam upāgataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing monkey-faced Nandī leaning upon a blazing trident like a second Śaṅkara, Rāvaṇa mocks him with thunderous laughter; incensed, Nandī pronounces a fateful curse that mighty monkeys matching his own form and valor shall destroy Rāvaṇa’s race.
 </details>
 </details>
 
@@ -483,6 +507,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Armed with claws and fangs (nakha-daṃṣṭrāyudhāḥ), fierce, swift as the flight of thought (manaḥ-sampāta-raṃhasaḥ), maddened for battle (yuddhonmattāḥ), overflowing with strength, moving abroad like roaming mountains (śailā iva visarpiṇaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāvaṇa is already doomed by his own misdeeds, Nandī withholds an immediate blow as celestial drums applaud his curse; unmoved, Daśānana approaches Kailāsa and vows to uproot Śiva’s mountain.
 </details>
 </details>
 
@@ -667,6 +699,14 @@ Disregarding Nandī’s words altogether (acintayitvā ... nandi-vākyam), that 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By what power (kena prabhāveṇa) does Bhava eternally sport here like a king (nityaṃ krīḍati rājavat)? He does not perceive what ought to be known (vijñātavyaṃ na jānīte)—that a source of terror now stands before him (bhaya-sthānam upasthitam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thrusting his twenty arms beneath Kailāsa, Rāvaṇa lifts and shakes the peak, startling Śiva’s hosts and causing Pārvatī to cling to her lord; Mahādeva casually presses the mountain with his great toe, crushing Rāvaṇa’s arms and wringing a world-shaking roar.
 </details>
 </details>
 
@@ -859,6 +899,14 @@ His ministers took it for the thunderbolt’s crash at the end of a cosmic age (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As oceans churn and celestials cry out in alarm at the roar, Rāvaṇa’s ministers urge him to propitiate compassionate Śaṅkara; weeping and chanting hymns for a thousand years, Daśānana at last wins Mahādeva’s grace and release.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्राश्चापि सङ्क्षुब्धाश्चलिताश्चापि पर्वताः ।  
@@ -1017,6 +1065,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bowing down (praṇamya), Daśānana praised him with Sāman chants and manifold hymns (sāmabhir vividhaiḥ stotraiḥ); and a full thousand years passed by (saṃvatsara-sahasraṃ tu ... gatam) as that Rākṣasa wept aloud (rudato rakṣasaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased with Daśānana’s endurance and earth-shaking roar, Mahādeva confers upon him the world-renowned name ‘Rāvaṇa’ and grants him leave to depart freely; emboldened, the lord of Laṅkā asks Śiva for a boon.
 </details>
 </details>
 
@@ -1186,6 +1242,14 @@ Addressed thus by Śambhu, the lord of Laṅkā (laṅkeśaḥ) himself replied:
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting of his invulnerability from Brahmā while dismissing mortals as negligible, Rāvaṇa begs for the uncurtailed remainder of his lifespan and a divine weapon; Śiva grants both and bestows the blazing sword Candrahāsa with a solemn warning.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानुषान् न गणे देव स्वल्पास्ते मम सम्मताः ।  
@@ -1313,6 +1377,14 @@ Addressed thus by Śambhu, the lord of Laṅkā (laṅkeśaḥ) himself replied:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having bestowed it, Śambhu then declared: “This weapon must never be treated with disrespect by you (nāvajñeyam idaṃ tvayā); for should it ever be slighted by you (avajñātaṃ yadi hi te), it will return unto me alone—of this there is no doubt (mām evaiṣyaty asaṃśayaḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Newly named by Maheśvara himself, Rāvaṇa bows to Śiva, reascends Puṣpaka, and sweeps across the earth harassing mighty Kṣatriya kings—destroying the defiant in battle while wiser monarchs prudently acknowledge defeat.
 </details>
 </details>
 

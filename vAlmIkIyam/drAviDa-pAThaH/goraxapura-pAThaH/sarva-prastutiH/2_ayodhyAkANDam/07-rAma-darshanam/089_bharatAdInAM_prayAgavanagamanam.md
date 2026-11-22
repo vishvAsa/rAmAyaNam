@@ -28,6 +28,14 @@ priests and king's counsellors, approach the hermitage of Bharadwaja.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed the night on the bank of the Gaṅgā, Bharata bids the sleepless Śatrughna summon Guha at dawn; Guha arrives with joined palms to inquire after the welfare of Bharata and his army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्युष्य रात्रिं तु तत्रैव गङ्गाकूले स राघवः ।  
@@ -343,6 +351,14 @@ Rama, replied as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech of Guha uttered out of affection (guhasya tat tu vacanaṃ śrutvā snehād udīritam), Bharata, ever submissive to Rāma’s will, spoke this word in reply (rāmasyānuvaśo vākyaṃ bharato 'pīdam abravīt):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thanking Guha for his hospitality, Bharata asks to cross the Gaṅgā; Guha’s kinsmen bring five hundred boats along with bell-decked Svastika barges, and Bharata and Śatrughna board a white-carpeted royal barge.
 </details>
 </details>
 
@@ -665,6 +681,14 @@ Then Guha brought forward an auspicious barge known as a Svastika, carpeted with
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Vasiṣṭha, the Brāhmaṇas, the queens, and the carts embark, the roar of burning camp-huts and bustling troops touches heaven as the fleet ferries women, horses, and chariots across the Gaṅgā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामारुरोह भरतः शत्रुघ्नश्च महाबलः ।  
@@ -895,6 +919,14 @@ animals of draught of great value.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having reached the farther bank and disembarked that multitude (tāḥ sma gatvā paraṃ tīram avaropya ca taṃ janam), the returning boats were rowed in sportive water-maneuvers by the boatmen’s kinsfolk (nivṛttāḥ kāṇḍa-citrāṇi kriyante dāśa-bandhubhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pennoned elephants swim across like bannered mountains while soldiers cross on rafts, jars, or by arm-stroke; reaching Prayāga at the Maitra hour, Bharata encamps the army and walks to Bharadvāja’s grove.
 </details>
 </details>
 

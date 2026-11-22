@@ -13,6 +13,14 @@ title = "०९१ सिद्धता"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having finished Ila’s tale, Rāma bids Lakṣmaṇa summon Vasiṣṭha, Vāmadeva, Jābāli, Kaśyapa, and other priests versed in the Aśvamedha so he may consult them before releasing the sacrificial steed; when they arrive and bless him, Rāma humbly announces his intention.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदाख्याय काकुत्स्थो भ्रातृभ्याममितप्रभः ।  
@@ -179,6 +187,14 @@ Then, joining his palms in reverence (prāñjaliḥ sa tadā bhūtvā), the grea
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing to Śiva and praising the Aśvamedha on every side, the brahmins delight Rāma with their marvelous approval; grasping their consent, Rāma orders Lakṣmaṇa to invite Sugrīva and his mighty vānaras, Bibhīṣaṇa and his rākṣasas, and all friendly kings to witness the festival.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽपि रामस्य तच्छ्रुत्वा नमस्कृत्वा वृषध्वजम् ।  
@@ -340,6 +356,14 @@ Hearing those marvelous words of the foremost brahmins concerning the Aśvamedha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma bids Lakṣmaṇa invite pious brahmins and ascetics from distant lands with their wives, along with musicians and dancers, and order a vast sacrificial enclosure in the sacred Naimiṣa forest on the Gomatī with auspicious rites so every guest departs content and honored.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देशान्तरगता ये च द्विजा धर्मसमाहिताः ।  
@@ -473,6 +497,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma specifies colossal provisions to be sent ahead to Naimiṣa—a hundred thousand cartloads of unbroken rice, ten thousand of sesame and mung beans, proportional pulses, salt, ghee, and perfumes, and hundreds of crores of gold and silver—with Bharata leading markets, dancers, cooks, and youthful attendants.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुष्टः पुष्टश्च सर्वोऽसौ मानितश्च यथाविधि ।  
@@ -569,6 +601,14 @@ _________________
 **20:** “Placing ahead many crores of gold and more than a hundred crores of silver (suvarṇa-koṭyo bahulā hiraṇyasya śatottarāḥ agrataḥ ... kṛtvā), let Bharata proceed in advance with vigilant focus (bharataḥ ... gacchatv agre samādhinā)!
 
 **21:** “Let roadside market-stalls along the route (antarā paṇya-vīthyaś ca), all actors and dancers (sarve ca naṭa-nartakāḥ), and numerous cooks and women ever blooming with youth (sūdā nāryaś ca bahavo nityaṃ yauvana-śālinaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma directs Bharata to lead ahead the troops, merchants, artisans, treasurers, royal mothers, princesses, ritual experts, and—poignantly—a golden image of his wife Sītā for the consecration rite, while ordaining lavish pavilions for all visiting monarchs.
 </details>
 </details>
 

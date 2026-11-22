@@ -24,6 +24,14 @@ to bring Sri Rama to the king, he goes to Sri Rama to fetch Him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Daśaratha writhing on the floor in grief for his son, Kaikeyī invokes the sanctity of truth and cites Śaibya, Alarka, and the ocean to bind him to his pledge.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रशोकार्दितं पापा विसञ्ज्ञं पतितं भुवि ।  
@@ -342,6 +350,14 @@ not transgress even to a small extent its boundary because of its compliance to 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bound by truth (satyam anvitaḥ), the lord of rivers (saritāṃ tu patiḥ), out of regard for his pledge (satyānurodhāt), never oversteps his own shore (velāṃ svāṃ nātivartate) even at the appointed tide (samaye), though that boundary is slight (svalpāṃ maryādām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exalting truth as the one-syllable Brahman, Kaikeyī thrice demands Rāma's exile and threatens suicide, leaving Daśaratha trapped like Bali in Indra's noose.
 </details>
 </details>
 
@@ -670,6 +686,14 @@ With his heart bewildered (udbhrāntahṛdayaś cāpi), he grew pale of face (vi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadying himself with difficulty, Daśaratha renounces Kaikeyī's wedded hand along with Bharata and forbids her and her son from performing his funeral water-rites.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकलाभ्यां च नेत्राभ्यामपश्यन्निव भूमिपः ।  
@@ -938,6 +962,14 @@ ended, without any merriment and having their faces turned downward in grief".
 **17:** If, O woman of evil conduct (aśubhācāre), you obstruct Rāma’s consecration (vyāhantāsi yadi rāmābhiṣecanam), never shall the funerary water-offering (salilakriyā) be performed for me by you together with your son (saputrayā tvayā)!
 
 **18:** Having earlier beheld the populace with faces so radiant (pūrvaṃ tathāmukham), I am unable today (na śakto 'dyāsmy ahaṃ draṣṭum) to look upon the people again with their joy shattered (hataharṣam), stripped of bliss, and their faces cast down (avāṅmukham)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As dawn breaks, wrathful Kaikeyī demands that Rāma be summoned and banished at once; goaded like a noble steed, Daśaratha asks only to see his righteous eldest son.
 </details>
 </details>
 
@@ -1237,6 +1269,14 @@ Rama, my beloved elder son."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At sunrise in the auspicious hour, Sage Vasiṣṭha and his disciples enter festive, incense-perfumed Ayodhyā with the consecration vessels and reach the royal palace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभातां रजनीमुदिते च दिवाकरे ।  
@@ -1466,6 +1506,14 @@ thronged with townsmen and country-folk (paurajānapadākīrṇam), graced by Br
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meeting Sumantra at the inner palace gate, Vasiṣṭha bids him announce his arrival and enumerates the sacred waters, fig-wood throne, and royal insignia awaiting Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदन्तःपुरमासाद्य व्यतिचक्राम तं जनम् ।  
@@ -1654,6 +1702,14 @@ Here are the golden pitchers filled with the waters of the Gaṅgā and from the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing his enumeration of the royal regalia, sacred animals, Brāhmaṇas, and merchant-guilds, Vasiṣṭha urges Sumantra to hasten the king while Puṣya is in conjunction.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वबीजानि गन्धाश्च रत्नानि विविधानि च ।  
@@ -1836,6 +1892,14 @@ the auspicious moment of pushya constellation uniting with the moon"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hasten the great monarch (tvarayasva mahārājam), so that now that the day has broken (samudite 'hani) and the lunar mansion Puṣya is in conjunction (puṣye nakṣatrayoge ca), Rāma may receive the sovereignty (rāmo rājyam avāpnuyāt)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unstopped by the doorkeepers and unaware of the king's calamity, Sumantra enters Daśaratha's chamber and awakens him with royal panegyrics invoking the ocean and Mātali.
 </details>
 </details>
 
@@ -2157,6 +2221,14 @@ At this very hour of dawn (asyāṃ tu velāyām), Mātali praised Indra (indram
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing his awakening chant to the Vedas awakening Brahmā and the sun and moon awakening the earth, Sumantra bids Daśaratha rise like the sun over Meru and crown Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेदाः सहाङ्गा विद्याश्च यथा ह्यात्मभुवं प्रभुम् ।  
@@ -2450,6 +2522,14 @@ The entire array for Rāma’s consecration stands ready (udatiṣṭhata rāmas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sumantra warns that a realm without a visible king is like cattle without a herdsman or night without the moon, Daśaratha cries out that these praises rend his vitals.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयं वसिष्ठो भगवान् ब्राह्मणैः सह तिष्ठति ।  
@@ -2657,6 +2737,14 @@ your words!."
 **58:** the lord of the earth was overwhelmed once more with grief (abhyakīryata śokena bhūya eva). Then the king, his joy crushed concerning his son (sannaharṣaḥ sutaṃ prati), unto that sūta—
 
 **59:** the glorious and righteous monarch, his eyes reddened with weeping (śokaraktekṣaṇaḥ), looked up and spoke: “With these words of yours you rend my vital organs yet further (vākyais tu khalu marmāṇi mama bhūyo nikṛntasi)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Startled by Daśaratha's anguish, Sumantra steps back; when crafty Kaikeyī claims the king is merely exhausted from joyful vigil and orders Rāma brought, Sumantra awaits the king's own word.
 </details>
 </details>
 
@@ -2908,6 +2996,14 @@ he set out, by the orders of the king."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Without hearing the king’s own command (aśrutvā rājavacanam), how can I go, O noble lady (kathaṃ gacchāmi bhāmini)?” Hearing that speech of the counselor (tac chrutvā mantriṇo vākyam), the king spoke to his minister:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded by Daśaratha himself to bring Rāma, Sumantra rejoices in the belief that the consecration is at hand and emerges from the ocean-like inner palace to see the waiting citizens.
 </details>
 </details>
 

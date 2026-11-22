@@ -13,6 +13,14 @@ title = "१०१ तक्ष-शिला--पुष्कल-ग्रहण
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing at Bharata’s arrival with Gārgya, King Yudhājit marches out with a vast host to join him against the Gandharvas; a ferocious, indecisive battle rages for seven nights as rivers of blood swell across every quarter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा सेनापतिं प्राप्तं भरतं केकयाधिपः ।  
@@ -205,6 +213,14 @@ Rivers pouring forth streams of blood (nadyaḥ śoṇitasaṃsravāḥ), with s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged, Bharata unleashes Kāla’s dread Saṃvarta missile, slaying all thirty million Gandharvas in an instant to the awe of the gods; he then founds the two rivalrous, gem-filled cities of Takṣaśilā and Puṣkalāvata for Takṣa and Puṣkala.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामानुजः क्रुद्धः कालस्यास्त्रं सुदारुणम् ।  
@@ -368,6 +384,14 @@ He established Takṣa in Takṣaśilā (takṣaṃ takṣaśilāyāṃ tu) and 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —cities teeming with floods of wealth and jewels (dhanaratnaugha-saṅkīrṇe), graced with groves (kānanair upaśobhite), and built as though in mutual rivalry (anyonyasaṅgharṣakṛte) through the vying abundance of their excellences (spardhayā guṇavistaraiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having established over five years those twin cities—famed for blameless commerce, well-ordered markets, celestial mansions, temples, and lush trees—Bharata returns to Ayodhyā, bows to Rāma like Indra to Brahmā, and delights him with his report.
 </details>
 </details>
 

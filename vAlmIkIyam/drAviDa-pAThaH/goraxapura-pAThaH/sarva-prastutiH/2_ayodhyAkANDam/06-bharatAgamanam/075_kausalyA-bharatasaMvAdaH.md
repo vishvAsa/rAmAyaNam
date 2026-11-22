@@ -26,6 +26,14 @@ Kausalya comes to know Bharata's heart, fondly takes him to her lap and weeps di
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Regaining consciousness after a long swoon, Bharata publicly denounces Kaikeyī in the midst of the ministers, protesting his utter ignorance of Rāma’s exile; hearing his cries, Kausalyā tells Sumitrā that she wishes to see the far-seeing prince.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घकालात् समुत्थाय सञ्ज्ञां लब्ध्वा स वीर्यवान् ।  
@@ -304,6 +312,14 @@ far-sighted Bharata."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting out simultaneously, Kausalyā and the two brothers meet midway and embrace in tears; pierced with grief, Kausalyā bitterly congratulates Bharata on the thornless kingdom won for him by Kaikeyī’s cruel banishment of Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सुमित्रां तां विवर्णवदना कृशा ।  
@@ -565,6 +581,14 @@ dwell in the forest: What merit has she gained from this?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having sent forth my son clad in bark-garments to dwell in the forest (prasthāpya cīra-vasanaṃ putraṃ me vana-vāsinam), what advantage does the cruel-minded Kaikeyī perceive therein (kaikeyī kaṃ guṇaṃ tatra paśyati krūra-darśinī)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking to be sent to the forest where her golden-naveled son Rāma dwells—or vowing to set out herself with Sumitrā and the sacred fire—Kausalyā pierces Bharata like a needle probing a wound, and he falls senseless at her feet.
 </details>
 </details>
 
@@ -889,6 +913,14 @@ senses, wailed in many ways and fell at the feet of the queen.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bewildered in mind then, he fell at her two feet (papāta caraṇau tasyās tadā sambhrānta-cetanaḥ); having lamented manifoldly and lost consciousness, he then stood up upon regaining his senses (vilapya bahudhāsaṃjño labdha-saṃjñas tataḥ sthitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joining his palms before the weeping Kausalyā, Bharata asks why she reproaches him who is guiltless, and begins his great series of self-imprecatory oaths: may he who consented to Rāma’s exile lose all scriptural wisdom and serve the vilest men.
 </details>
 </details>
 
@@ -1217,6 +1249,14 @@ to those who seek to harm a king who protects his people as if they are his own 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And may the sin of those who plot treason against a king who protects all beings like his own children (paripālayamānasya rājño bhūtāni putravat tatas tu druhyatāṃ pāpam) fall upon him by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Continuing his solemn oaths, Bharata invokes upon Rāma’s banisher the sins of a king who takes the sixth-part tax without protecting his subjects, of one who defrauds priests or flees in battle, and of one who never beholds Rāma enthroned.
 </details>
 </details>
 
@@ -1553,6 +1593,14 @@ teachers."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata invokes further curses upon anyone who consented to Rāma’s exile: touching cows with the foot, slandering elders, betraying confidences, ingratitude, eating delicacies alone, and dying childless before completing one’s lifespan.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाश्च स्पृशतु पादेन गुरून् परिवदेत च ।  
@@ -1865,6 +1913,14 @@ his wife and in distress, may not get a full long life."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Stricken with sorrow, may he never behold offspring of his own by his lawful wives (mātmanaḥ santatiṃ drākṣīt sveṣu dāreṣu duḥkhitaḥ), and may he perish without attaining his full span of life—he by whose consent the noble one departed (āyuḥ samagram aprāpya yasyāryo 'numate gataḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata invokes upon Rāma’s banisher the guilt of slaying kings, women, children, and the aged, of subsisting by selling lac, honey, meat, iron, and poison, of fleeing in battle, of begging skull in hand, and of addiction to wine, women, and dice.
 </details>
 </details>
 
@@ -2196,6 +2252,14 @@ gifts for the undeserving."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata invokes further curses upon Rāma’s banisher: may robbers plunder his hoarded wealth, may he incur the sins of sleeping through both twilights, arson, violating a preceptor’s bed, betraying a friend, and forsaking service to his mother.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सञ्चितान्यस्य वित्तानि विविधानि सहस्रशः ।  
@@ -2487,6 +2551,14 @@ to exile, fail to give due reverence to his mother and be condemned to idleness.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Casting aside service to his mother, may that long-armed, broad-chested man abide in unrighteousness (apāsya mātṛ-śuśrūṣām anarthe so 'vatiṣṭhatāṃ dīrgha-bāhur mahā-vakṣāḥ)—he by whose consent the noble one departed (yasyāryo 'numate gataḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata invokes further curses upon anyone who consented to Rāma’s exile: poverty with many children and chronic fever, frustrating the hopes of suppliants, deceit, neglecting a virtuous wife at her fertile season, adultery, and childlessness.
 </details>
 </details>
 
@@ -2800,6 +2872,14 @@ which is obtained by a Brahmana who is issue less."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever demerit belongs to a Brāhmaṇa whose lineage has been cut off (vipralupta-prajātasya duṣkṛtaṃ brāhmaṇasya yat)—may he incur that very guilt by whose consent the noble one departed (tad eva pratipadyeta yasyāryo 'numate gataḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his oaths—invoking the sins of poisoning water, obstructing worship of Brāhmaṇas, milking a cow with a newborn calf, deceiving the thirsty, and partisan bias in religious disputes—Bharata collapses in anguish before Kausalyā.
 </details>
 </details>
 
@@ -3121,6 +3201,14 @@ quite distraught and who just uttered formidable imprecations in the aforesaid m
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Kausalyā spoke this word to Bharata, who was swearing thus with dreadful oaths, beside himself and tormented by sorrow (tathā tu śapathaiḥ kaṣṭaiḥ śapamānam acetanaṃ bharataṃ śoka-santaptaṃ kausalyā vākyam abravīt):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completely convinced of Bharata’s innocence, Kausalyā blesses him for not swerving from righteousness, draws him onto her lap, and weeps; overwhelmed by grief and swooning on the ground, Bharata passes that night in lamentation.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ starts to crop up in its place. The fierce encounter continues thus for seven da
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma weary and contemplative as Rāvaṇa returns to battle, the sage Agastya approaches and reveals the eternal Ādityahṛdaya hymn, bidding Rāma worship the rising Sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रवृत्तं सुक्रूरं रामरावणयोस्तदा ।  
@@ -314,6 +322,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Worship the ray-crowned (raśmimantam) rising Sun (samudyantam), revered by gods and asuras alike (devāsura-namaskṛtam)—Vivasvat, the maker of light (bhāskaram), the lord of the worlds (bhuvaneśvaram)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya extols the Sun as the indwelling soul of all Vedic deities—Brahmā, Viṣṇu, Śiva, Indra, and the cosmic powers—and recites his sacred solar names.
 </details>
 </details>
 
@@ -622,6 +638,14 @@ Hiraṇyagarbha, the cooling one (śiśiraḥ), the scorcher (tapanaḥ), the da
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Culminating the nominative epithets of the twelve-formed Sun, Agastya offers repeated salutations to the lord of luminaries, the awakener of lotuses, and the giver of auspicious victory.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निकृत्तोऽपतद् भूमौ रावणस्यन्दनध्वजः ।  
@@ -835,6 +859,14 @@ missiles as a creation of magic and also thousands of arrows.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saluting the Sun as ruler of the Trinity, witness of the worlds, and inner controller who wakes while creatures sleep, Agastya praises him as sacrifice and its fruit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुमुलं त्रासजननं भीमं भीमप्रतिस्वनम् ।  
@@ -1042,6 +1074,14 @@ Abiding within all beings (bhūteṣu pariniṣṭhitaḥ), he remains awake whe
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proclaiming the Sun as the supreme lord of all sacrifices and deeds, Agastya instructs Rāma to recite the hymn thrice with one-pointed devotion to slay Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानिमित्तोऽभवद् बाणो नानिर्भेत्ता न निष्फलः ॥ २४ ॥  
@@ -1219,6 +1259,14 @@ struck at each other, doing anything before and after.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In this very moment (asmin kṣaṇe), O mighty-armed hero, you shall slay (jahiṣyasi) Rāvaṇa!” Having spoken thus, the sage Agastya departed just as he had come (yathā-gatam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Freed from anxiety, Rāma purifies himself, gazes at the Sun to recite the hymn thrice, and takes up his bow as Ravi himself urges him from the sky to hasten.
 </details>
 </details>
 

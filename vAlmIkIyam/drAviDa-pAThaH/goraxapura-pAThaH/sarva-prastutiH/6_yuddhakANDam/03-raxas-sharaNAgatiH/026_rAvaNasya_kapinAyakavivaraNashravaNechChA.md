@@ -25,6 +25,14 @@ army-generals along with their distinguishing characterestics.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scorning Sāraṇa's truthful counsel as born of terror and refusing to yield Sītā even to all the worlds, Rāvaṇa ascends his snow-white palace tower to survey the enemy host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्वचः सत्यमक्लीबं सारणेनाभिभाषितम् ।  
@@ -311,6 +319,14 @@ Accompanied by those two spies (tābhyāṃ carābhyāṃ sahitaḥ), Rāvaṇa,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the expanse of earth below Trikūṭa covered with the boundless monkey host, Rāvaṇa questions Sāraṇa about their chief commanders, and Sāraṇa begins by pointing out the roaring Nīla.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदपारमसह्यं च वानराणां महाबलम् ॥ ७ ॥  
@@ -519,6 +535,14 @@ chiefs of the monkeys i them, to the lord of demons who was enquiring about them
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Tell me everything, O Sāraṇa—of what might (kiṃprabhāvāḥ) are these monkeys?” [Hearing] the words of the lord of rākṣasas who was questioning him,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing his portrait of vanguard commander Nīla, Sāraṇa points out Crown Prince Aṅgada, lotus-filament gold in hue, lashing his tail and challenging Rāvaṇa to battle.
 </details>
 </details>
 
@@ -736,6 +760,14 @@ He is the worthy son of Vālin (vālinaḥ sadṛśaḥ putraḥ), ever dear to 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crediting Aṅgada's counsel for Hanūmān's discovery of Sītā, Sāraṇa points out Nala, builder of the ocean causeway, surrounded by sandalwood-forest legions, and silver-bright Śveta.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्य सा मतिः सर्वा यद् दृष्टा जनकात्मजा ।  
@@ -921,6 +953,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Describing Śveta rushing back from Sugrīva to marshal the ranks, Sāraṇa points out Kumuda of Mount Saṃrocana, the long-tailed warrior Caṇḍa, and tawny, lion-like Rambha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वेतो रजतसङ्काशश्चपलो भीमविक्रमः ॥ २४ ॥  
@@ -1080,6 +1120,14 @@ of monkeys and brining great delight to the troops, he goes back at once."
 **28:** yonder chief who joyfully leads (saharṣaṃ parikarṣati) hundreds of thousands, and upon whose long tail (dīrghalāṅgūlam āśritāḥ) grow hairs many fathoms in length (vālā bahuvyāmāḥ)—
 
 **29:** coppery, yellow, pale, and white (tāmrāḥ pītāḥ sitāḥ śvetāḥ), disheveled and dreadful to behold (ghoradarśanāḥ); undaunted, the fierce monkey [or: the monkey Caṇḍa] longs for battle (saṃgrāmam abhikāṅkṣati), and he too aspires to crush Laṅkā with his own army.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing his portrait of Rambha of the Vindhya and Sahya ranges, Sāraṇa points out fearless Śarabha of Mount Sālveya, surrounded by four million Vihāra troop-commanders.
 </details>
 </details>
 
@@ -1319,6 +1367,14 @@ His mighty troop-commanders, known as the Vihāras (vihārā nāma yūthapāḥ)
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out Panasa of Mount Pāriyātra, standing like Indra amid the gods with kettle-drum roars, Sāraṇa next identifies Vinata, who graces his leaping seaside army like a second ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्तु मेघ इवाकाशं महानावृत्य तिष्ठति ।  
@@ -1470,6 +1526,14 @@ to him, who is excellent among the Generals."
 **41:** And he who stands gracing (tiṣṭhati śobhayan) the dreadful, leaping army (bhīmāṃ pravalgantīṃ camūm) stationed along the shore of the sea, like a second ocean (dvitīya iva sāgaraḥ)—
 
 **42:** this is the troop-commander named Vinata (vinato nāma yūthapaḥ), resembling Mount Dardura (dardurasaṃkāśaḥ), who roams drinking of the Veṇā, the foremost of rivers (nadīnām uttamāṃ nadīm).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Numbering Vinata's host at six million, Sāraṇa points out defiant Krodhana and red-ochre Gavaya with his seven million warriors, concluding the first roll of uncountable monkey commanders.
 </details>
 </details>
 

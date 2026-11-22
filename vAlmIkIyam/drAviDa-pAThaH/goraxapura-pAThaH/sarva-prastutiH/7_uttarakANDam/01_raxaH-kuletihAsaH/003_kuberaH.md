@@ -13,6 +13,14 @@ title = "००३ कुबेरः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following his father Pulastya in austerity, the virtuous sage Viśravas receives Bharadvāja’s daughter Devavarṇinī in marriage and begets a wondrous son endowed with all brahminical virtues, to the delight of his grandsire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ पुत्रः पुलस्त्यस्य  
@@ -168,6 +176,14 @@ _________________
 **5:** —filled with supreme joy (mudā paramayā yuktaḥ), Viśravas, that foremost of sages (munipuṅgavaḥ), upon her (tasyām) an offspring endowed with heroic vigor (vīrya-sampannam apatyam) and supremely wondrous (paramādbhutam)—
 
 **6:** —did that knower of righteousness (dharmajñaḥ) beget, graced with all brahminical virtues (sarvair brahma-guṇair yutam). And upon that child’s birth (tasmiñ jāte), the grandsire [Pulastya] (pitāmahaḥ) became filled with delight (saṃhṛṣṭaḥ sambabhūva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foreseeing that the child will become Lord of Wealth, Pulastya names him Vaiśravaṇa; growing radiant in the penance grove, Vaiśravaṇa resolves to practice supreme dharma and undergoes millennia of escalating austerity.
 </details>
 </details>
 
@@ -363,6 +379,14 @@ At the completion of each thousand-year span (pūrṇe varṣa-sahasrānte), he 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased by Vaiśravaṇa’s millennia of penance, Brahmā arrives with Indra and the gods, grants his prayer to become the fourth World-Guardian and Lord of Treasures, and bestows upon him the sun-bright Puṣpaka aerial chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ प्रीतो महातेजाः सेन्द्रैः सुरगणैः सह ॥ १३ ॥  
@@ -552,6 +576,14 @@ Then with a deeply gratified heart (parituṣṭena cetasā), Brahmā, together 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Brahmā and the gods depart to heaven, Vaiśravaṇa humbly asks his father Viśravas to choose an abode where no living creature will suffer harm; Viśravas begins describing Mount Trikūṭa upon the southern ocean’s shore.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्च पुष्पकं नाम विमानं सूर्यसन्निभम् ॥ १९ ॥  
@@ -656,6 +688,14 @@ _________________
 **21:** “O Blessed One (bhagavan), I have obtained my cherished boon (varam iṣṭam) from the Grandsire; therefore look out (paśya) for some fitting abode (kañcin nivāsam) for me, O venerable lord (prabho),
 
 **22:** “—where no harm shall befall any living creature whatsoever (prāṇino yasya kasyacit).” Thus addressed by his son, Viśravas, foremost of sages (munipuṅgavaḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśravas describes the golden, weapon-ringed citadel of Laṅkā atop Trikūṭa, built by Viśvakarman for the rākṣasas but long ago abandoned when they fled to Rasātala in terror of Viṣṇu, urging Vaiśravaṇa to dwell there.
 </details>
 </details>
 
@@ -790,6 +830,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Empty is that Laṅkā at present (śūnyā samprati laṅkā sā), and no lord rules over her (prabhus tasyā na vidyate). Therefore, my son (putra), go there to take up your abode at your pleasure (yathāsukham)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting his father’s righteous counsel, Vaiśravaṇa peoples mountain-crowned Laṅkā with joyful Nairṛtas, fills it with prosperity, and periodically journeys in the sun-bright Puṣpaka chariot to honor his parents.
 </details>
 </details>
 

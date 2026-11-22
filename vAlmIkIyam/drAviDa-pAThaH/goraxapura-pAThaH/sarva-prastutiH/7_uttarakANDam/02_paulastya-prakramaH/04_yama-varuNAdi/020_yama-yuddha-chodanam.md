@@ -13,6 +13,14 @@ title = "०२० यम-युद्ध-चोदनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Terrorizing mortals across the earth, Rāvaṇa encounters the celestial sage Nārada perched atop a cloud; praising Rāvaṇa’s valor alongside Viṣṇu’s triumphs, Nārada bids him pause and attend closely to his counsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वित्रासयन् मर्त्यान् पृथिव्यां राक्षसाधिपः ।  
@@ -196,6 +204,14 @@ Then Nārada of mighty radiance (nāradas tu mahātejāḥ), the celestial seer 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I shall speak to you a brief matter well worth hearing (kiṃcid vakṣyāmi tāvat te śrotavyam), if you will listen (śroṣyase yadi)—and having heard it, you should act upon it immediately (śrutvā cānantaraṃ kāryam), O foremost of rākṣasas! Therefore, O dear one, fix your mind attentively upon my words as I speak (samādhiṃ śravaṇe kuru).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nārada urges Rāvaṇa to cease slaughtering mortals—beings already doomed by Death, bewildered as to their highest good, and wasted by hunger, thirst, aging, disease, and grief—whose unpredictable plight renders conquering them futile.
 </details>
 </details>
 
@@ -388,6 +404,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting mortal revelry with tear-drenched grief and familial delusion, Nārada tells Rāvaṇa to conquer Yama instead; smiling and bowing, Rāvaṇa replies that he is presently marching to subdue Rasātala.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्वचिद् वादित्रनृत्यादि सेव्यते मुदितैर्जनैः ।  
@@ -576,6 +600,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa boasts of conquering the three worlds and churning the ocean for nectar, Nārada slyly points out that the very path beside them leads to Yama’s city; laughing aloud, Rāvaṇa vows to march south against Yama.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो लोकत्रयं जित्वा स्थाप्य नागान् सुरान् वशे ॥ १९ ॥  
@@ -709,6 +741,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then that Ten-Headed one, bursting into laughter bright as an autumn cloud (śārada-meghābhaṃ hāsaṃ muktvā), exclaimed, “It is done!” (uvāca kṛtam ity eva), and spoke these further words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring his wrathful vow to subdue all four world-guardians and unite Death’s master with death, Rāvaṇa departs southward with his ministers; left behind like a smokeless fire, Nārada ponders how Time itself could ever be conquered.
 </details>
 </details>
 
@@ -867,6 +907,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By whom all three worlds together with Indra, moving and unmoving (lokās trayaḥ sendrāḥ ... sacarācarāḥ), are brought under affliction (kliśyante) in accordance with dharma when their lifespan is spent (kṣīṇe cāyuṣi dharmeṇa)—how indeed can that Time be vanquished (sa kālo jeṣyate katham)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marvelling at Yama—witness of every deed like a second Fire, ordainer of good and evil, before whom all three worlds flee in dread—Nārada resolves out of keen curiosity to hasten to Yama’s abode and witness the clash.
 </details>
 </details>
 

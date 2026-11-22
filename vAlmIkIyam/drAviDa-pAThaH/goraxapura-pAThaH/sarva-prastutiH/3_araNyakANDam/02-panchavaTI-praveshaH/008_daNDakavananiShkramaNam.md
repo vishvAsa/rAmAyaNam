@@ -28,6 +28,14 @@ but stockyards for heaps of dead bodies, bones and skulls, for no faulty reason 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakening at dawn in Sutīkṣṇa’s hermitage, Rāma, Sītā, and Lakṣmaṇa bathe in lotus-fragrant waters, worship the sacred fire and gods, and ask leave to visit the Daṇḍaka hermitages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्तु सहसौमित्रिः सुतीक्ष्णेनाभिपूजितः ।  
@@ -266,6 +274,14 @@ meritorious selves living in Dandaka forest... [3-8-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to set out before the sun grows fiercely hot like an ignoble upstart, Rāma bows to Sutīkṣṇa’s feet; embracing the brothers, the sage blesses their path alongside Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभ्यनुज्ञातुमिच्छामः सहैभिर्मुनिपुङ्गवैः ।  
@@ -481,6 +497,14 @@ you closely like a shadow... [3-8-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Follow a safe and auspicious path (ariṣṭaṃ panthānam), O Rāma, together with Saumitri and accompanied by this Sītā, who follows you like your own shadow (chāyayevānuvṛttayā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sutīkṣṇa extols the blossoming groves, lotus-filled lakes, mountain cascades, and peacock-resounding woods of Daṇḍakāraṇya, inviting Rāma and Lakṣmaṇa to return after their tour.
 </details>
 </details>
 
@@ -703,6 +727,14 @@ after seeing all of them... [3-8-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Set forth (gamyatām), my child! And you too, O Saumitri, proceed! Having beheld those hermitages, you must come back once again (punar evāgantavyam) to this hermitage.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circumambulating the sage Sutīkṣṇa, Rāma and Lakṣmaṇa receive their quivers, bows, and spotless swords from Sītā’s hands and set forth from the hermitage.
 </details>
 </details>
 

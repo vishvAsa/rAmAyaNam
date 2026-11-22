@@ -27,6 +27,14 @@ oddity of Maareecha and presumes that some danger is immanent and then returns t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Girding on his golden-hilted sword, triple-curved bow, and twin quivers, Rāma pursues the illusory deer as it darts in and out of sight through the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तु तं समादिश्य भ्रातरं रघुनन्दनः ।  
@@ -191,6 +199,14 @@ firstly disappeared with securely grit sword and firmly handled bow. [3-44-3]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding that chief of kings (rājendram) rushing toward him (āpatantam), that king of forest beasts (vanya-rājaḥ) vanished out of fear (babhūvāntarhitas trāsāt), and then came back into view again (punaḥ saṃdarśane 'bhavat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appearing and vanishing like the autumn moon behind broken clouds, Mārīca lures the exhausted Rāma far from the hermitage until the prince resolves to slay him.
 </details>
 </details>
 
@@ -542,6 +558,14 @@ Then, as it emerged once more from a distant clump of trees (dūrād vṛkṣa-k
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fitting a blazing Brahmā-fashioned arrow to his bow, Rāma pierces the heart of the deer-disguised Mārīca, who leaps palm-high and sheds his counterfeit form.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूयस्तु शरमुद‍्धृत्य कुपितस्तत्र राघवः ।  
@@ -725,6 +749,14 @@ shriek, vaulted up to a height of palm-tree, and fell down onto the ground. [3-4
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Like a thunderbolt (aśani-saṃnibhaḥ), split open the very heart of Mārīca (mārīcasyaiva hṛdayaṃ bibheda)! Leaping up the height of a palmyra tree (tāla-mātram athotplutya), he fell down sorely stricken (nyapatat sa bhṛśāturaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Rāvaṇa's counsel as he dies, Mārīca mimics Rāma's voice crying out to Sītā and Lakṣmaṇa, and Rāma, seeing the fallen demon, thinks anxiously of Sītā.
 </details>
 </details>
 
@@ -993,6 +1025,14 @@ Seetha reminiscing Lakshmana's words. [3-44-21b, 22]
 **21:** Yielding up his life (jīvitaṃ tyajan), Mārīca assumed his gigantic body (cakre sa sumahā-kāyam); and beholding that Rākṣasa of terrible aspect (rākṣasaṃ bhīma-darśanam) fallen upon the ground—
 
 **22:** His limbs drenched in blood (rudhira-siktāṅgam) and writhing upon the surface of the earth (ceṣṭamānaṃ mahī-tale), Rāma turned in thought to Sītā (jagāma manasā sītām), recalling the words of Lakṣmaṇa (lakṣmaṇasya vacaḥ smaran).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Realizing that Lakṣmaṇa's warning has come true and dreading the effect of Mārīca's cry on Sītā, Rāma takes venison from another deer and hastens back toward Janasthāna.
 </details>
 </details>
 

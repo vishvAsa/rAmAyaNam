@@ -26,6 +26,14 @@ location where Seetha is incarcerated.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Sampāti weeping in grief, the sage Niśākara meditates for a moment and prophesies the birth and forest exile of Rāma Dāśarathi and the future regrowth of Sampāti's wings.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा मुनिश्रेष्ठमरुदं भृशदुःखितः ।  
@@ -283,6 +291,14 @@ truth-valiant Rama goes to forests along with his brother Lakshmana... [4-62-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `And he of true valor (satyaparākramaḥ), being enjoined (niyuktaḥ san) in that matter by his father, shall go to the forest (araṇyam) together with his brother Lakṣmaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Niśākara foretells that Rāvaṇa will abduct Rāma's consort from Janasthāna, that Sītā will spurn his enticements, and that Indra will send her ambrosial rice-milk, which she will first offer to Rāma.
 </details>
 </details>
 
@@ -549,6 +565,14 @@ offers oblation to them... [4-62-10
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `’If my husband lives (yadi jīvati me bhartā), or my brother-in-law Lakṣmaṇa (lakṣmaṇo vāpi devaraḥ), or even if they two have gone to godhood (devatvaṃ gacchator vāpi), let this food be theirs (tayor annam idam)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Niśākara instructs Sampāti to await the proper time and place on Vindhya to direct Rāma's monkey envoys to Sītā, explaining why he withholds Sampāti's wings until that world-saving task is done.
 </details>
 </details>
 

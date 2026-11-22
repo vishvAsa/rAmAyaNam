@@ -28,6 +28,14 @@ quintessence.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appealing to Mārīca as his supreme refuge in distress, Rāvaṇa recounts how Khara, Dūṣaṇa, Triśiras, and fourteen thousand rākṣasas stationed in Janasthāna met Rāma in battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारीच श्रूयतां तात वचनं मम भाषतः ।  
@@ -291,6 +299,14 @@ Now those mighty ones (mahā-balāḥ) dwelling (vasamānāḥ) in Janasthāna m
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa reports how Rāma, fighting on foot without uttering a harsh word, slew Khara, Dūṣaṇa, Triśiras, and fourteen thousand rākṣasas, and reviles Rāma's character.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाशस्त्रप्रहरणाः खरप्रमुखराक्षसाः ।  
@@ -474,6 +490,14 @@ lifespan is diminished. [3-36-10b, 11a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And having slain Triśiras as well, the Daṇḍaka forests were rendered free of fear (nirbhayā daṇḍakāḥ kṛtāḥ). Banished with his wife (sabhāryaḥ) by his wrathful father (pitrā nirastaḥ kruddhena), his livelihood ruined (kṣīṇa-jīvitaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to avenge Śūrpaṇakhā's mutilation by abducting Sītā, Rāvaṇa flatters Mārīca's peerless mastery of illusion and bids him roam before Sītā as a silver-spotted golden deer.
 </details>
 </details>
 
@@ -826,6 +850,14 @@ in the hermitage of that Rama. [3-36-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Becoming a golden deer (sauvarṇas tvaṃ mṛgo bhūtvā) dappled with silver spots (citro rajata-bindubhiḥ), roam before Sītā's eyes (sītāyāḥ pramukhe cara) at the hermitage of that Rāma!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa explains how he will abduct Sītā once Rāma and Lakṣmaṇa are lured away, whereupon the terrified Mārīca, his mouth parched with dread, folds his palms to offer salutary counsel.
 </details>
 </details>
 

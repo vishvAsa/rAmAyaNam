@@ -34,6 +34,14 @@ This chapter vies with the 33rd chapter of Kishkindha Kanda in the attitudes of 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Furious amidst Rāvaṇa's ministers, the mutilated Śūrpaṇakhā upbraids her brother for his heedless indulgence in sensual pleasures and his failure to guard his realm through spies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखा दीना रावणं लोकरावणम् ।  
@@ -391,6 +399,14 @@ and as long as those waters of lust tiderip over his head he cannot surface hims
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Condemning Rāvaṇa as a fickle ruler surrounded by inept counselors who lacks the far-sighted vision of spies, Śūrpaṇakhā announces that Rāma alone has slain fourteen thousand demons and Khara.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मवद्भिर्विगृह्य त्वं देवगन्धर्वदानवैः ।  
@@ -675,6 +691,14 @@ including Janasthaana. [3-33-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I deem you devoid of spies (ayukta-cāraṃ manye tvām), attended as you are by vulgar ministers (prākṛtaiḥ sacivair yutaḥ); for you do not even realize that your own kinsfolk and Janasthāna have been slaughtered (sva-janaṃ ca janasthānaṃ nihataṃ nāvabudhyase)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that Rāma has granted safety to the sages of Daṇḍaka while Rāvaṇa remains heedless, Śūrpaṇakhā declares that subjects abandon a harsh, stingy king in calamity and despise a deposed ruler.
 </details>
 </details>
 
@@ -1024,6 +1048,14 @@ are of no avail. [3-33-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Some use may be found (bhavet kāryam) for dry sticks (śuṣka-kāṣṭhaiḥ), or even for clods of earth and dust (loṣṭhair api ca pāṃsubhiḥ); but no use whatever can be had from rulers fallen from their station (sthānāt paribhraṣṭaiḥ vasudhādhipaiḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting a deposed king—useless as a worn garment or crushed garland—with a farsighted monarch who stays awake through policy, Śūrpaṇakhā leaves the proud Rāvaṇa pondering his faults.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ among the creatures inhabiting the sea.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spreading sacred darbha grass along the seashore and folding his hands toward the east, Rāma lies down in supplication before the Ocean, pillowing his head upon his royal arm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सागरवेलायां दर्भानास्तीर्य राघवः ।  
@@ -277,6 +285,14 @@ Which in battle resembles a city-gate bar (yugasaṃkāśam), increasing the gri
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pillowing his head upon his mighty right arm, Rāma vows either to cross the sea or dry it up and fasts in silence for three nights, yet the dull-witted Ocean does not appear.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्यता च पुनः सव्यं ज्याघातविहतत्वचम् ।  
@@ -480,6 +496,14 @@ did not appear in his personal form to Rama.
 **11:** Having fasted for three nights (trirātroṣitaḥ) there, Rāma, knower of policy (nayajñaḥ) and devoted to dharma, then waited upon (upāsata) the Ocean, lord of rivers.
 
 **12:** Yet the dull-witted (mandaḥ) Ocean did not show his form (na ca darśayate rūpam) to Rāma, even though duly worshiped (yathārham abhipūjitaḥ) by the self-controlled Rāma.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by the Ocean's arrogance, his eyes reddened at the corners, Rāma tells Lakṣmaṇa that gentleness and forbearance are misconstrued as weakness by the base, who respect only punishment.
 </details>
 </details>
 
@@ -823,6 +847,14 @@ and the trunks of sea elephants being shattered by me."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring his patience exhausted, Rāma calls upon Lakṣmaṇa to bring his bow and serpent-like arrows, vowing to dry up the ocean so that the monkeys may cross on foot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सशङ्खशुक्तिकाजालं समीनमकरं तथा ॥ १९ ॥  
@@ -1053,6 +1085,14 @@ by my arrows. I will agitate the great ocean, thronged with great demons."
 **23:** “Today, enraged, I shall churn up (kṣobhayiṣyāmi) the Ocean, unperturbable (akṣobhyam) though it be! Bounded by its shores (velāsu kṛtamaryādam) and thronged with thousands of waves—
 
 **24:** “I shall make the abode of Varuṇa transgress its bounds (nirmaryādaṃ kariṣyāmi) with my shafts; I shall agitate the great deep teeming with mighty dānavas (mahādānavasaṃkulam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like the doomsday fire, Rāma bends his dreadful bow and looses thunderbolt-like arrows into the sea, filling the waters with smoke, towering waves, and terrified serpents and dānavas.
 </details>
 </details>
 
@@ -1385,6 +1425,14 @@ residing in nethermost subterranean region of the sea, were perturbed.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The serpents (pannagāḥ), with blazing mouths and blazing eyes (dīptāsyā dīptalocanāḥ), were anguished (vyathitāḥ), and so too the mighty dānavas who dwell in the depths of Pātāla.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As mountain-high waves hurl crocodiles and sea-monsters aloft, Lakṣmaṇa seizes Rāma's bow pleading with him to relent, while invisible sages cry out in alarm from the sky.
 </details>
 </details>
 

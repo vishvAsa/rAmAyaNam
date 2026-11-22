@@ -13,6 +13,14 @@ title = "०१२ पौलस्त्य-विवाहः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consecrated in Laṅkā, Rāvaṇa marries Śūrpaṇakhā to the Kālakeya Vidyujjihva; while hunting in a lonely forest he meets the Dānava Maya with a fawn-eyed maiden and hears how the gods bestowed the apsaras Hemā upon him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसेन्द्रोऽभिषिक्तस्तु भ्रातृभिः सहितस्तदा ।  
@@ -148,6 +156,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Maya thereupon spoke thus, O Rāma (mayas tathābravīd rāma), to that questioning night-roamer: “Listen (śrūyatām), I shall recount in full (sarvam ākhyāsye) all that has happened to me exactly as it befell (yathāvṛttam idaṃ mama).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Maya relates how Hemā returned to heaven after centuries together, leaving him lonely in his magic golden city, and how—fearing a daughter’s risk to two lineages—he brought her forth to seek a husband, naming also his sons Māyāvī and Dundubhi.
 </details>
 </details>
 
@@ -301,6 +317,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Māyāvī was the first, O dear one (māyāvī prathamas tāta), and Dundubhi was born next after him (dundubhis tadanantaraḥ). Thus has everything been recounted truthfully (yāthātathyena) to you who asked (pṛcchataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning that the stranger is Daśagrīva, son of the Brahmin sage Viśravas, Maya joyfully offers his daughter Mandodarī in marriage; placing her hand in Rāvaṇa’s, he witnesses their immediate fire-sanctified wedding.
 </details>
 </details>
 
@@ -465,6 +489,14 @@ Thereupon Maya, foremost of Daityas (daityendraḥ), placing her hand into his h
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “So be it!” (bāḍham ity eva), O Rāma, Daśagrīva replied to him (daśagrīvo ’bhyabhāṣata); and kindling the sacred fire right there (prajvālya tatra caivāgnim), he duly performed the wedding rite of taking her hand (akarot pāṇi-saṅgraham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mindful of Viśravas’s prophecy yet honoring his Brahmā lineage, Maya also gifts Rāvaṇa the unfailing spear later cast at Lakṣmaṇa; returning to Laṅkā, Rāvaṇa arranges Vajrajvālā for Kumbhakarṇa and Gandharva-born Saramā for Vibhīṣaṇa.
 </details>
 </details>
 
@@ -654,6 +686,14 @@ And Vibhīṣaṇa obtained as his wife (lebhe bhāryāṃ vibhīṣaṇaḥ) th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 She was born, indeed, upon the shore of Lake Mānasa (tīre tu saraso vai ... sañjajñe mānasasya hi); and just then Lake Mānasa swelled high (saras tadā mānasaṃ tu vavṛdhe) at the arrival of the rain-clouds (jaladāgame).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the etymology of Saramā’s name, Agastya relates how Mandodarī bore Meghanāda—whose thunderous newborn cry stunned all Laṅkā and who grew up in the inner palace like a fire hidden beneath wood.
 </details>
 </details>
 

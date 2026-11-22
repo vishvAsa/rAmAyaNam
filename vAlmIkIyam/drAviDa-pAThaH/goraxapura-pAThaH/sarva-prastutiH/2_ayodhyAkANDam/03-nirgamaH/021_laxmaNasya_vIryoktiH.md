@@ -24,6 +24,14 @@ This chapter describes Lakshmana's anger and Rama consoling Lakshmana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing the weeping Kausalyā, the distressed Lakṣmaṇa denounces the infatuated and aged king for banishing the faultless, gentle Rāma at a woman's bidding without cause.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तु विलपन्तीं तां कौसल्यां राममातरम् ।  
@@ -308,6 +316,14 @@ who is honest, who is self-restrained and who is affectionate even towards adver
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “What man having regard for dharma would without cause abandon a son who is like a god (devakalpam), upright, self-controlled, and affectionate even toward his foes?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Rāma to seize the sovereignty before the news spreads, Lakṣmaṇa vows to stand bow in hand like Death himself, slay Bharata's partisans, and bind or slay their hostile father.
 </details>
 </details>
 
@@ -628,6 +644,14 @@ I shall keep him imprisoned with out personal attachment or if necessary, kill h
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the maxim that even an arrogant preceptor who strays from righteousness must be disciplined, Lakṣmaṇa swears by his bow and truth to enter fire or the forest before Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुरोरप्यवलिप्तस्य कार्याकार्यमजानतः ।  
@@ -940,6 +964,14 @@ viiryaat* = by my valour; *tama iva* = as darkness; *uditaH* = by rising; *suury
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By my valor I shall dispel your grief, as the risen sun dispels darkness; let the queen behold my valor, and let Rāghava behold it too!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Lakṣmaṇa vows to slay his infatuated father, the weeping Kausalyā implores Rāma not to abandon her at a co-wife's unrighteous word, citing the sage Kāśyapa who won heaven by serving his mother at home.
 </details>
 </details>
 
@@ -1258,6 +1290,14 @@ your mother, I am worthy of worship to you. Hence, do not go to the forest"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Serving his mother (śuśrūṣur jananīm) while dwelling disciplined in his own home, O son, Kāśyapa, endowed with supreme austerity, attained heaven (tridivaṃ gataḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā forbids Rāma to depart and threatens to fast to death, warning him of the hell that befell the Ocean; bowing his head, Rāma replies that he cannot transgress his father's word.
 </details>
 </details>
 
@@ -1580,6 +1620,14 @@ a learned man, killed even a cow, acting as per his father's words"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma cites the ancient exemplars Kaṇḍu, the sons of Sagara, and Paraśurāma who obeyed their fathers even at the cost of slaying a cow, perishing, or beheading a mother, affirming that he walks the path of his forebears.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषिणा च पितुर्वाक्यं कुर्वता वनचारिणा ।  
@@ -1892,6 +1940,14 @@ on earth. There is no deprivation indeed for anyone who complies with father's c
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I am not initiating some unprecedented (apūrvam) dharma adverse to you; I am simply following the path approved and trodden by our forebears (pūrvair ayam abhipreto gato mārgaḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning to Lakṣmaṇa, Rāma acknowledges his brother's love and valor but declares that truth is grounded in dharma and a promise made to father, mother, or Brāhmaṇa must never be made vain.
 </details>
 </details>
 
@@ -2209,6 +2265,14 @@ instigated me to go to the forest."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Lakṣmaṇa to cast aside his ignoble Kṣatriya fierceness and follow dharma, Rāma folds his hands before Kausalyā, adjuring her by his life to bless his departure and promising to return like Yayāti.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं न शक्ष्यामि पुनर्नियोगमतिवर्तितुम् ।  
@@ -2521,6 +2585,14 @@ This is an eternal custom."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Restrain your grief within your heart, O mother; do not grieve! After dwelling in the forest and fulfilling my father's word, I shall return here again!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma declares that all of them must abide by the father's command as eternal dharma; regaining consciousness, Kausalyā again refuses leave, and Rāma blazes with anguish like a great elephant assailed with torches.
 </details>
 </details>
 
@@ -2873,6 +2945,14 @@ Hearing this piteous lament of his mother, Rāma blazed up all the more with ang
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing firm in dharma, Rāma teaches Kausalyā and Lakṣmaṇa that where dharma, artha, and kāma cannot all be secured together, one must pursue dharma alone—for the greedy man is hated and self-indulgence is censured.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मातरं चैव विसञ्ज्ञकल्पाम्  
@@ -3173,6 +3253,14 @@ and the personified law."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever task a preceptor, a king, and an aged father may command—whether out of anger, joy, or even desire—what man of unagitated, compassionate conduct (anṛśaṃsavṛttiḥ) having regard for dharma would not perform it?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Kausalyā that while the righteous king lives she must serve her husband rather than follow her son like a widow, Rāma spurns an unrighteous throne for fleeting life and mentally circumambulates his mother.
 </details>
 </details>
 

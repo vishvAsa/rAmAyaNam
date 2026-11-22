@@ -26,6 +26,14 @@ give rest to the retinue.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak Bharata sets forth on his chariot eager to behold Rāma, preceded by ministers and preceptors and followed by nine thousand elephants, sixty thousand chariots, a hundred thousand cavalry, and the three queens.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुत्थितः कल्यमास्थाय स्यन्दनोत्तमम् ।  
@@ -349,6 +357,14 @@ And Kaikeyī, Sumitrā, and the illustrious Kausalyā, rejoicing at the prospect
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting Rāma’s cloud-dark beauty and steadfastness that will dispel their grief like the rising sun, the citizens, merchants, jewelers, potters, weavers, and armorers march forth embracing one another.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाताश्चार्यसङ्घाता रामं द्रष्टुं सलक्ष्मणम् ।  
@@ -605,6 +621,14 @@ And all the others there—the esteemed elders, the merchants, and all the guild
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Peacock-feather workers, sawyers, burnishers, ivory-carvers, perfumers, goldsmiths, bath-attendants, physicians, tailors, village headmen, actors, fishermen, and thousands of Vedic Brāhmaṇas follow Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मणिकाराश्च ये केचित् कुम्भकाराश्च शोभनाः ।  
@@ -786,6 +810,14 @@ mounted on various kinds of vehicles, followed Bharata tranquilly.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Well-attired, clad in pure garments, and anointed with red sandal-unguent, all of them slowly followed Bharata in conveyances of diverse kinds (su-veṣāḥ śuddha-vasanās tāmra-mṛṣṭānulepanāḥ sarve te vividhair yānaiḥ śanair bharatam anvayuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Covering a long distance with chariots, horses, and elephants, Bharata’s joyous army reaches the cakravāka-graced bank of the Gaṅgā at Śṛṅgaverapura, where Guha rules.
 </details>
 </details>
 
@@ -1038,6 +1070,14 @@ propitious waters, Bharata who was skillful in words, spoke to all his officers 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surveying the army that had followed him and the Gaṅgā of auspicious waters, Bharata, skilled in speech, spoke to all his ministers (nirīkṣyānugatāṃ senāṃ tāṃ ca gaṅgāṃ śivodakām bharataḥ sacivān sarvān abravīd vākya-kovidaḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata orders the army to encamp along the Gaṅgā so they may cross refreshed on the morrow while he offers funerary water-oblations for Daśaratha, and he passes the night meditating on Rāma’s return.
 </details>
 </details>
 

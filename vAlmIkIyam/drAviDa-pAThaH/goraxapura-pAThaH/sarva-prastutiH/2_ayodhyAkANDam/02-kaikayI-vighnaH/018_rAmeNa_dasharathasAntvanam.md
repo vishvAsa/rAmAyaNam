@@ -26,6 +26,14 @@ not become sorrowful, but Dasaratha was very much disturbed.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the inner apartments, Rāma beholds his father sitting beside Kaikeyī with a parched, tear-choked face—like the unshakable ocean churned, the sun eclipsed, or a sage who has spoken an untruth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्शासने रामो विषण्णं पितरं शुभे ।  
@@ -307,6 +315,14 @@ who spoke untruth.
 **5:** With his senses robbed of all joy, wasted by the burning heat of grief, sighing heavily, his mind anguished and bewildered—
 
 **6:** that great monarch looked like the billow-garlanded, imperturbable ocean suddenly churned into turmoil, like the sun eclipsed by Rāhu (upaplutam), or like a sage who has uttered a falsehood (uktānṛtam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agitated like the ocean at the full moon on seeing his ever-affectionate father silent and anguished, Rāma anxiously asks Kaikeyī whether he has unwittingly committed some offense.
 </details>
 </details>
 
@@ -627,6 +643,14 @@ face becoming pale and dejected, he is not talking to me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Why is he, who is ever affectionate toward me, displeased at heart today? With his face dejected and wretched, he does not speak to me at all!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioning whether bodily illness, mental grief, harm to Bharata, Śatrughna, or the queens, or some harsh word from Kaikeyī has distressed the king, Rāma declares his father a visible deity.
 </details>
 </details>
 
@@ -952,6 +976,14 @@ Tell me the true position."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shamelessly replying that Daśaratha fears to speak what is unpleasant to his beloved son, Kaikeyī taunts the king for repenting of his promised boons like a man building a dam after the water is gone.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु कैकेयी राघवेण महात्मना ।  
@@ -1253,6 +1285,14 @@ See that the offended king does not abandon such a truth for your sake."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cut to the quick that Kaikeyī should doubt his filial obedience, Rāma vows that at his father's word he would leap into fire or swallow poison, declaring: “Rāma does not speak twice!”
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तद् वक्ष्यते राजा शुभं वा यदि वाशुभम् ।  
@@ -1500,6 +1540,14 @@ Rama does not speak two things."
 **29:** “Commanded by my preceptor, father, king, and benefactor, I would swallow fierce poison or plunge even into the ocean!”
 
 **30:** “Therefore declare that word, O queen, which is desired by the king! I shall fulfill it, and I solemnly pledge it—Rāma does not speak twice (rāmo dvir nābhibhāṣate)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting the two boons granted to her by Daśaratha in the Deva-Asura war, Kaikeyī commands Rāma to enter the Daṇḍaka forest for fourteen years today while Bharata is consecrated with the prepared apparatus.
 </details>
 </details>
 
@@ -1817,6 +1865,14 @@ arranged by the king for your sake."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And let Bharata be consecrated with all this consecration apparatus (abhiṣecanam) that had been prepared by the king on your behalf, O Rāghava!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Rāma don matted locks and bark-cloth for fourteen years in the Daṇḍaka forest so Bharata may rule Kosala, Kaikeyī concludes her harsh speech while Rāma remains wholly untouched by grief.
 </details>
 </details>
 

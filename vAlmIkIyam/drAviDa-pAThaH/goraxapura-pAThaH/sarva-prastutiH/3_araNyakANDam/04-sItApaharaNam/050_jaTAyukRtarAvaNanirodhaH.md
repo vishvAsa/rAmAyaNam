@@ -25,6 +25,14 @@ Ravana until Rama comes. Yet, he persists to affront Ravana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakened by Sītā's cry, the vulture king Jaṭāyu spots Rāvaṇa and, perched upon a lofty tree, rebukes the demon king for laying hands upon the lawful consort of Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं शब्दमवसुप्तस्तु जटायुरथ शुश्रुवे ।  
@@ -305,6 +313,14 @@ wife of that preserver of all the worlds, namely Rama. [3-50-5b, 6a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Devoted to the welfare of the worlds (lokānāṃ ca hite yuktaḥ), is Rāma, the son of Daśaratha; this illustrious lady (yaśasvinī) is the lawful wife (dharma-patnī) of that lord of the world (loka-nāthasya)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jaṭāyu admonishes Rāvaṇa on royal righteousness, reminding him that subjects emulate their monarch and that noble fortune never abides long in the house of the wicked.
 </details>
 </details>
 
@@ -702,6 +718,14 @@ He whose very nature is lust (kāma-svabhāvo yaḥ) cannot wipe that [nature] a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vindicating Rāma's slaying of the transgressor Khara, Jaṭāyu warns Rāvaṇa that abducting Sītā is like tying a venomous serpent in one's garment or fastening Death's noose around one's neck.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विषये वा पुरे वा ते यदा रामो महाबलः ।  
@@ -1006,6 +1030,14 @@ to examine how easily they can be broken by that stone...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Only that burden, gentle sir (saumya), should be borne which does not crush a man (yo naraṃ nāvasādayet); and only that food should be eaten which is digested without causing disease (jīryate yad anāmayam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though sixty thousand years old and unarmed against the youthful, chariot-mounted Rāvaṇa, Jaṭāyu defies him to stand and fight, comparing Sītā to the unshakeable Vedic scripture.
 </details>
 </details>
 
@@ -1335,6 +1367,14 @@ Or optionally, you can combat with me in which meantime Rama will come hither...
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Fight (yudhyasva), if you are a hero (yadi śūro 'si)! Stand for an hour (muhūrtaṃ tiṣṭha), O Rāvaṇa! Slain, you shall lie upon the ground (śayiṣyase hato bhūmau) just as Khara did before (yathā pūrvaṃ kharas tathā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling Rāvaṇa's imminent destruction at Rāma's hands, Jaṭāyu vows to lay down his life for Rāma and Daśaratha and offers the demon king the hospitality of battle.
 </details>
 </details>
 

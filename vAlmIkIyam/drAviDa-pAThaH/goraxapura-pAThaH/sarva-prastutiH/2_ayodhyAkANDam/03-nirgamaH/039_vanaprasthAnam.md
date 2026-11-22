@@ -15,6 +15,14 @@ title_english = "039 Rama seeks blessings of his mother"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma clad as an ascetic, Daśaratha falls senseless with his queens and, upon regaining consciousness, laments the past sins that brought him to see his fire-bright son in bark robes without dying.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य तु वचः श्रुत्वा मुनिवेषधरं च तम् ।  
@@ -281,6 +289,14 @@ standing before me clad in the robes of an ascetic having cast off his fine garm
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I who now behold my own son, bright as blazing fire (pāvaka-saṅkāśam), standing before me clad in the covering of forest ascetics (tāpasācchādam) after laying aside his two fine garments (vihāya vasane sūkṣme)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Choked with tears after uttering Rāma’s name but once, Daśaratha commands Sumantra to yoke the royal chariot and convey Rāma beyond the realm, bitterly reflecting that exile is the world’s reward for virtue.
 </details>
 </details>
 
@@ -608,6 +624,14 @@ Understanding the King’s command, Sumantra of swift stride (śīghra-vikrama�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Sumantra announces the gold-decked chariot, Daśaratha summons his honest treasurer to bring costly robes and jewels for all fourteen years, and Sītā, adorned in them, illumines the palace like the rising sun’s radiance in the sky.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं रथं राजपुत्राय सूतः कनकभूषितम् ।  
@@ -923,6 +947,14 @@ Resplendently adorned (su-vibhūṣitā), Vaidehī illumined that palace (vyarā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Maithilī and smelling her crown, Queen Kausalyā contrasts fickle, ungrateful women who forsake a fallen husband with virtuous wives for whom the husband alone is the supreme sanctifier.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां भुजाभ्यां परिष्वज्य श्वश्रूर्वचनमब्रवीत् ।  
@@ -1228,6 +1260,14 @@ mental quietness, their husband alone is the most sacred entity, the best of all
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “But for chaste and noble women (sādhvīnāṃ tu) who abide steadfastly in virtue, truth, scriptural precept, and family decorum (śīle satye śrute sthite), the husband alone stands preeminent as their supreme sanctifier (strīṇāṃ pavitraṃ paramaṃ patir eko viśiṣyate)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā counsels Sītā never to slight Rāma in exile, and Sītā replies with folded palms that she can no more swerve from wifely dharma than moonlight can part from the moon, since a husband bestows measureless blessing.
 </details>
 </details>
 
@@ -1554,6 +1594,14 @@ moderation. Which woman, then, would not adore her husband, the bestower of unli
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved to tears of mingled grief and joy by Sītā’s noble reply, Kausalyā is consoled by Rāma, who promises that the fourteen years will pass like a single night’s sleep and then turns to his three hundred and fifty stepmothers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साहमेवङ्गता श्रेष्ठा श्रुतधर्मपरावरा ।  
@@ -1823,6 +1871,14 @@ arrived here in my entire being, surrounded by my well-wishers."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “While you are asleep, as it were (suptāyās te), the nine years and five will pass away; and you shall behold me returned hither complete in every vow (samagram iha samprāptam), surrounded by my friends (suhṛd-vṛtam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With folded palms Rāma asks forgiveness of all his grieving stepmothers for any unintended slight born of familiarity, and as they cry out like female krauñca birds, Daśaratha’s once drum-resounding palace is whelmed in lamentation.
 </details>
 </details>
 

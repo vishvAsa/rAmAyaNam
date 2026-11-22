@@ -25,6 +25,14 @@ that short spell of his anguish, he proceeds with Lakshmana to the nearby of the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Śabarī's ascent to heaven, Rāma bathes in the seven ocean-tīrthas, offers ancestral libations, and, feeling auspicious joy dawning in his heart, invites Lakṣmaṇa to proceed to Lake Pampā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिवं तु तस्यां यातायां शबर्यां स्वेन तेजसा ।  
@@ -269,6 +277,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In my heart, O tiger among men, good fortune is about to dawn (śubham āvirbhaviṣyati); therefore come, let us two proceed to that lovely Lake Pampā (gamiṣyāvaḥ pampāṃ tāṃ priya-darśanām)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to meet the Sun-god's son Sugrīva on Mount Ṛṣyamūka, Rāma and Lakṣmaṇa set forth from the hermitage toward Lake Pampā through woods echoing with bird-calls.
 </details>
 </details>
 
@@ -522,6 +538,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by longing, Rāma bathes in the pool of Mataṅgasaras and approaches the crystal-clear, lotus-covered waters of Lake Pampā, ringed by flowering groves and clinging creepers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामो विविधान् वृक्षान् सरांसि विविधानि च ।  
@@ -701,6 +725,14 @@ ensorcelled by anguish on seeing a ladylike lake Pampa. [3-75-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There the two Rāghavas proceeded, calm and composed in mind (jagmatur avyagrau rāghavau hi samāhitau); and that Rāma, son of Daśaratha, overwhelmed with grief (śoka-samāviṣṭaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Lake Pampā gleaming like a many-colored elephant-carpet with red, white, and blue lotuses and ringed by flowering trees, Rāma laments in longing for Sītā.
 </details>
 </details>
 
@@ -984,6 +1016,14 @@ over, owing to his passionate recollection of Seetha. [3-75-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding that Lake Pampā then together with Sumitrā's son (tāṃ dṛṣṭvā tataḥ pampāṃ saumitriṇā saha), the radiant Rāma, son of Daśaratha (tejasvī rāmo daśarathātmajaḥ), lamented aloud (vilalāpa ca)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out Mount Ṛṣyamūka on Pampā's shore, Rāma urges Lakṣmaṇa to approach Sugrīva, laments that he cannot live without Sītā, and enters the bird-thronged precincts of Lake Pampā.
 </details>
 </details>
 

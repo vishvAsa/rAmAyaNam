@@ -13,6 +13,14 @@ title = "०४२ सीता-दौर्हृदम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dismissed the gold-decked Puṣpaka chariot, Rāma enters Ayodhyā’s royal Aśoka pleasure-grove, lush with sandalwood, mango, deodar, coral-tree, jasmine, and ever-flowering fruit trees laden with tender shoots.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विसृज्य ततो रामः पुष्पकं हेमभूषितम् ।  
@@ -205,6 +213,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tended by divine artisans and alive with koels, drongos, and jewel-bright trees of gold, flame, and collyrium, the grove boasts ruby-stepped, crystal-paved pleasure-ponds teeming with lotuses, ruddy sheldrakes, swans, and cranes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैव तरुभिर्दिव्यैः शिल्पिभिः परिकल्पितैः ।  
@@ -391,6 +407,14 @@ Resounding with gallinules and parrots (dātyūha-śuka-saṅghuṣṭāḥ), ec
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering this pleasure-grove rivaling Indra’s Nandana and Kubera’s Caitraratha—its emerald lawns and star-strewn stone benches ringed by vine-bowers—Rāma seats himself upon a flower-decked couch and offers sweet maireya drink to Sītā like Indra to Śacī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राकारैर्विविधाकारैः शोभिताश्च शिलातलैः ।  
@@ -555,6 +579,14 @@ The stone slabs dappled with fallen petals (prastarāḥ puṣpa-śabalāḥ) gl
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Taking Sītā by the hand—and holding pure sweet maireya cordial (madhumaireyakaṃ śuci)—Kākutstha caused her to drink (pāyayām āsa), even as Purandara [Indra] gives ambrosia to Śacī (śacīm iva purandaraḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attendants serve fine viands and fruits while youthful maidens skilled in song and dance perform before the king; delighting Sītā day after day like Vasiṣṭha beside Arundhatī, Rāma spends a blissful winter season with her.
 </details>
 </details>
 
@@ -747,6 +779,14 @@ While those two, Sītā and Rāghava, sported thus for a long while (tathā tayo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fulfilling royal duties every forenoon and joining the inner palace each afternoon while Sītā worships the gods and all her mothers-in-law alike, Rāma beholds her clear signs of pregnancy and joyfully asks what wish he may grant her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा तयोर्विहरतोः सीताराघवयोश्चिरम् ॥ २५ ॥  
@@ -903,6 +943,14 @@ Beholding his wife endowed with the auspicious signs of motherhood (patnīṃ ka
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And he addressed the fair-hipped Sītā, lovely as a daughter of the gods (varārohāṃ sītāṃ surasutopamām): “The blessing of offspring (apatyalābhaḥ), O Vaidehī, has drawn nigh for me in you (tvayi me samupasthitaḥ)! What do you desire, O lovely one—what wish of yours may be fulfilled (kim icchasi varārohe kāmaḥ kiṃ kriyatāṃ tava)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a gentle smile, Sītā asks to visit the sacred hermitages along the Gaṅgā’s banks and dwell even a single night at the feet of root-eating sages; promising she shall go tomorrow without fail, Rāma steps out into the middle court.
 </details>
 </details>
 

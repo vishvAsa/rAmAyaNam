@@ -23,6 +23,14 @@ in the scene of battle-field.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recovering from his swoon and driven by fate, a furious Rāvaṇa upbraids his charioteer for steering his car away before Rāma's eyes and ruining his hard-won renown.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारथिः स रथं हृष्टः परसैन्यप्रधर्षणम् ।  
@@ -226,6 +234,14 @@ appearance of a rain-bow.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Before the very eyes (paśyataḥ) of a foe of celebrated valor who ought to be gratified by feats of prowess (rañjanīyasya vikramaiḥ), I, though eager for battle (yuddha-lubdhaḥ), have been turned into a coward (kāpuruṣaḥ) by you!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accused of treason and bribery by Rāvaṇa, the loyal charioteer replies with gentle composure that he acted solely out of affection to preserve his master's life and honor.
 </details>
 </details>
 
@@ -442,6 +458,14 @@ reins fully controlled, drive the chariot swiftly."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rather, desiring your welfare and safeguarding your renown, with a heart overflowing with affection (sneha-praskanna-manasā), I did what was displeasing (apriyam) to you, knowing it to be for your good (hitam iti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleading with Rāvaṇa not to misjudge his loyalty, the charioteer explains that he withdrew the car because of Rāvaṇa's exhaustion, the heat-spent horses, and ill-boding portents.
 </details>
 </details>
 
@@ -663,6 +687,14 @@ Indra's bow, which was possessed of extra ordinary impulse in the battle-field.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And among the portents (nimittāni) that are appearing in great numbers before us, as each one manifests (teṣu teṣv abhipanneṣu), I observe what is inauspicious (apradakṣiṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Expounding the science of charioteering—reading terrain, omens, warrior stamina, and tactical maneuvers—the driver affirms that he withdrew the car solely out of devotion to rest his lord.
 </details>
 </details>
 
@@ -929,6 +961,14 @@ direction in which Ravana's chariot was going.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Not out of willful caprice (svecchayā), O hero, was this chariot driven away by me; what I did, O lord, was done by me because I was overcome with affection for my master (bhartuḥ sneha-parītena).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appeased by his driver's words, Rāvaṇa rewards him with a splendid bracelet and commands him to wheel the chariot back to face Rāma at the battle's forefront.
 </details>
 </details>
 

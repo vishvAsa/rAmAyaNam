@@ -26,6 +26,14 @@ night.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting forth toward Mount Citrakūṭa after bowing to Sage Bharadvāja, the princes receive his paternal benediction and detailed directions for crossing the swift-flowing Yamunā by raft and approaching the great Śyāma banyan tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उषित्वा रजनीं तत्र राजपुत्राव‍‍रिन्दमौ ।  
@@ -639,6 +647,14 @@ Having thus taken counsel together (mantrayitvā), those two high-minded tigers 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the swift-flowing Kālindī, Rāma and Lakṣmaṇa bind together a large raft of timber, dry bamboo, and uśīra grass, fashion a seat of cane and rose-apple boughs for Sītā, and embark across the river.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथासाद्य तु कालिन्दीं शीघ्रस्रोतस्विनीं नदीम् ।  
@@ -912,6 +928,14 @@ Having first placed Sītā aboard (āropya prathamaṃ sītām) and laid hold of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching mid-stream, Sītā prays to the goddess Kālindī for Rāma’s safe fulfillment of his vow and vows a thousand cows and a hundred jars of wine upon his return; landing on the southern bank, she salutes the great Śyāma banyan tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालिन्दीमध्यमायाता सीता त्वेनामवन्दत ।  
@@ -1174,6 +1198,14 @@ Approaching that banyan tree, Vaidehī spoke these words: “Obeisance be to you
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circumambulating the sacred banyan tree with folded hands and praying to behold Kausalyā and Sumitrā again, Sītā walks between Lakṣmaṇa and Rāma like a young female elephant guarded between two mighty tuskers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्यां चैव पश्येम सुमित्रां च यशस्विनीम् ।  
@@ -1433,6 +1465,14 @@ elephant in the middle of two elephants.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As those two walked along, the daughter of Janaka moved between them (gacchatos tu tayor madhye babhūva), like a lovely young female elephant walking between two lordly tuskers (mātaṅgayor madhya-gatā śubhā nāga-vadhūr iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sītā questions Rāma about every unfamiliar tree, shrub, and flowering creeper along the Yamunā’s banks and Lakṣmaṇa eagerly brings her blossom-laden boughs, the princes hunt pure venison and encamp at nightfall on the level riverbank.
 </details>
 </details>
 

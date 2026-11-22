@@ -27,6 +27,14 @@ Ravana and the monkeys get alarmed to see the giant demon.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by the terror of Rāma's shafts, the humbled Rāvaṇa re-enters Laṅkā with shattered pride and laments that Brahmā's dread warning concerning mortals has come true.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविश्य पुरीं लङ्कां रामबाणभयार्दितः ।  
@@ -309,6 +317,14 @@ from men' appear true. That is so."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This is that terrible declaration of Brahmā (brahmaṇo ghoraṃ vākyam) which has now overtaken me: 'Know that peril awaits you from human beings'—and so indeed has it come to pass.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling his failure to seek immunity from mortals, Rāvaṇa recognizes Rāma as the foretold avenger of King Anaraṇya and remembers the unerring curses of Vedavatī, Umā, Nandīśvara, and Rambhā.
 </details>
 </details>
 
@@ -596,6 +612,14 @@ uttermost. Let the demons go to the summit of Charya Mountain."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Defeated in battle and mourning Prahasta's death, Rāvaṇa orders his troops to man the ramparts and awaken the mighty Kumbhakarṇa, who fell asleep nine days earlier after their council.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स चाप्रतिमगाम्भीर्यो देवदानवदर्पहा ॥ १३ ॥  
@@ -833,6 +857,14 @@ the two princes at once in the battle."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Kumbhakarṇa's Indra-like might is useless if he sleeps through such dire calamity, Rāvaṇa dispatches his terrified rākṣasas with fragrant garlands and heaps of food to Kumbhakarṇa's cavern.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष केतुः परं सङ्ख्ये मुख्यो वै सर्वरक्षसाम् ।  
@@ -1055,6 +1087,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Commanded by Rāvaṇa, those eaters of flesh and blood (māṃsa-śoṇita-bhojanāḥ) took up fragrant unguents, garlands, and a vast store of viands (mahad bhakṣyam), and swiftly set forth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Buffeted by the blasts of Kumbhakarṇa's breath as they struggle into his gold-paved cavern, the rākṣasas behold the colossal giant sprawled like a shattered mountain in deep slumber.
 </details>
 </details>
 
@@ -1362,6 +1402,14 @@ They beheld that tiger among nairṛtas, the foe-taming Kumbhakarṇa (kumbhakar
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Piling up a Meru-like mountain of venison, buffaloes, boars, and jars of blood before Kumbhakarṇa, the rākṣasas smear him with sandalwood, burn incense, and blow moon-bright conches.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश्चक्रुर्महात्मानः कुम्भकर्णस्य चाग्रतः ।  
@@ -1638,6 +1686,14 @@ shook him too, creating a great clamour.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 They blew conches gleaming like the moon (śaśāṅka-sadṛśa-prabhān) and, chafing with impatience (amarṣitāḥ), raised a tumultuous roar all at once (yugapat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When their deafening clamor of conches, drums, and war-cries fells birds from the sky yet fails to stir Kumbhakarṇa, the rākṣasas beat his chest with boulders, clubs, and maces.
 </details>
 </details>
 
@@ -1926,6 +1982,14 @@ Yet owing to the hurricane of breath (niḥśvāsa-vātena) exhaled by that rāk
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ten thousand rākṣasas surround Kumbhakarṇa, driving horses, camels, asses, and elephants over him while beating his limbs with timber posts and sounding a thousand gold-sticked kettledrums.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परिहिता गाढं राक्षसा भीमविक्रमाः ।  
@@ -2208,6 +2272,14 @@ the demons were enraged.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then a thousand kettledrums (bherī-sahasram), ranged unimpeded on every side and beaten with drumsticks of burnished gold (mṛṣṭa-kāñcana-koṇānām), were struck all at once.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged that Kumbhakarṇa remains bound by Brahmā's curse of sleep, the rākṣasas tear his hair, bite his ears, pour hundreds of water-pots into them, and batter him with spiked śataghnīs.
 </details>
 </details>
 
@@ -2517,6 +2589,14 @@ and became aware of the pressure.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Though battered on every side with śataghnī engines bound with ropes (rajju-bandhana-baddhābhiḥ śataghnībhiḥ), that colossal-bodied rākṣasa did not wake.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When a thousand elephants are driven across his body, Kumbhakarṇa finally feels their touch, springs up yawning with a mouth like the submarine fire, and towers like world-consuming Time.
 </details>
 </details>
 
@@ -2849,6 +2929,14 @@ The form of that Kumbhakarṇa as he rose up (uttiṣṭhataḥ) shone like that
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His eyes blazing like twin planets, the famished Kumbhakarṇa devours the heaps of boars and buffaloes, drains jars of fat, blood, and wine, and questions the bowing rākṣasas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य दीप्ताग्निसदृशे विद्युत्सदृशवर्चसी ।  
@@ -3134,6 +3222,14 @@ roused, spoke the following words to the demons:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That bull among nairṛtas (nairṛtarṣabhaḥ) spoke soothingly to all the nairṛtas, and, astonished at having been awakened (bodhanād vismitaḥ), addressed the rākṣasas thus:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that he will fell Mahendra and chill Fire itself to uproot Rāvaṇa's fear, Kumbhakarṇa demands the reason for his awakening, and the minister Yūpākṣa reports the mortal peril.
 </details>
 </details>
 
@@ -3433,6 +3529,14 @@ peril as it comes to us from a man."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yūpākṣa recounts how a single monkey burned Laṅkā and slew Prince Akṣa, and how Rāma spared the vanquished Rāvaṇa on the battlefield, rousing Kumbhakarṇa's rolling-eyed fury.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न दैत्यदानवेभ्यो वा भयमस्ति न नः क्वचित् ।  
@@ -3717,6 +3821,14 @@ and Rama on the battle-field, then only I shall see Ravana."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of Yūpākṣa recounting his brother's humiliation in battle (bhrātur yudhi parābhavam), Kumbhakarṇa rolled his eyes in fury (vivṛttākṣaḥ) and spoke thus to Yūpākṣa:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kumbhakarṇa vows to crush the monkey host and drink the blood of Rāma and Lakṣmaṇa before seeing Rāvaṇa, but Mahodara persuades him to consult the king first.
 </details>
 </details>
 
@@ -4013,6 +4125,14 @@ Having roused from sleep that terrible-eyed warrior of dreadful form and prowess
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The rākṣasas hasten to Daśagrīva's throne to announce Kumbhakarṇa's awakening, and at Rāvaṇa's joyful command they return to summon the giant to the royal palace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽभिगम्य दशग्रीवमासीनं परमासने ।  
@@ -4248,6 +4368,14 @@ uttering "so be it", leapt up from his couch.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The king, the bull among all rākṣasas (sarva-rākṣasa-puṅgavaḥ), longs to see you; set your mind upon going (gamane kriyatāṃ buddhiḥ) and gladden your brother!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising from his couch and bathing, Kumbhakarṇa quaffs two thousand jars of strength-rousing wine and marches toward Rāvaṇa's palace like world-destroying Yama, shaking the earth with every stride.
 </details>
 </details>
 
@@ -4514,6 +4642,14 @@ of Creation.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Filled with wrath (ruṣṭaḥ), Kumbhakarṇa shone like Yama the destroyer at the end of Time (kālāntaka-yamopamaḥ). As he strode toward his brother's palace accompanied by the rākṣasa host, Kumbhakarṇa made the earth tremble (akampayata medinīm) with his footsteps.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Illuminating the royal highway like the sun as he strides to Rāvaṇa's palace, the mountain-high Kumbhakarṇa terrifies the monkeys outside Laṅkā, sending them fleeing to Rāma for refuge.
 </details>
 </details>
 

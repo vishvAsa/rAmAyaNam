@@ -26,6 +26,14 @@ out of fear.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged by the deaths of Mahodara, Mahāpārśva, and Virūpākṣa, Rāvaṇa vows to fell the Rāma-tree whose fruit is Sītā and charges forward in his rumbling chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् प्रतिहतेऽस्त्रे तु रावणो राक्षसाधिपः ।  
@@ -273,6 +281,14 @@ eyes in anger, employed a missile presided over by the sun-god.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Making the ten directions resound with the roar of his chariot, that great and supreme chariot-warrior (atiratho mahān) set forth swiftly and rushed toward Rāghava.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shaking the earth, Rāvaṇa unleashes Brahmā’s dreadful Tāmasa missile to scorch and rout the monkeys until he beholds unconquered Rāma standing like Indra beside Viṣṇu.
 </details>
 </details>
 
@@ -564,6 +580,14 @@ organs with a multitude of arrows.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 together with his brother Lakṣmaṇa, like Vāsava [Indra] with Viṣṇu (viṣṇunā vāsavaṃ yathā), leaning upon his mighty bow as though scratching the sky (ālikhantam ivākāśam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing as Rāvaṇa approaches like Rāhu nearing the sun and moon, Rāma twangs his earth-splitting bow while Lakṣmaṇa first looses flame-like arrows.
 </details>
 </details>
 
@@ -862,6 +886,14 @@ then exhibited a violent anger towards the younger brother of Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Desiring to fight him first (tam icchan prathamaṃ yoddhum) with sharp arrows, Lakṣmaṇa drew his bow and loosed shafts that resembled tongues of fire (agniśikhopamān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Displaying manual dexterity, Rāvaṇa intercepts Lakṣmaṇa’s arrows one for one, bypasses him to shower Rāma with shafts, and sees his volleys severed by Rāma’s broadheads.
 </details>
 </details>
 
@@ -1173,6 +1205,14 @@ Then with sharp broadheads Rāghava severed those floods of arrows—blazing, ex
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circling left and right like Yama and Antaka, Rāma and Rāvaṇa lattice the sky with vulture-feathered shafts, plunging the firmament into arrowy darkness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं विमोक्षयितुं वीरश्चापमायम्य लक्ष्मणः ।  
@@ -1416,6 +1456,14 @@ heart, will depart only after taking your life."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By showers of arrows of mighty speed, razor-sharp tips, vulture feathers (gṛdhrapatraiḥ), and handsome plumage (suvājitaiḥ), the firmament became as though latticed with window-grilles (gavākṣitam ivākāśam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Matching one another like Vṛtra and Indra, Rāvaṇa embeds a garland of iron shafts in Rāma’s brow, but Rāma unflinchingly invokes the Raudra missile.
 </details>
 </details>
 
@@ -1696,6 +1744,14 @@ exerted by Ravana, Lakshmana fell to the ground.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma’s arrows rebound from Rāvaṇa’s impenetrable armor, and when Rāma’s supreme missile is deflected like five-hooded serpents, Rāvaṇa conjures the dreadful Āsura weapon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदवस्थं समीपस्थो लक्ष्मणं प्रेक्ष्य राघवः ।  
@@ -1944,6 +2000,14 @@ Having countered Rāghava’s missile (nihatya rāghavasyāstram), Rāvaṇa, in
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hissing like a serpent, Rāvaṇa looses Āsura arrows tipped with the heads of beasts, birds, and reptiles, prompting Rāma to invoke the fiery Pāvaka missile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्दिताश्चैव बाणौघैस्ते प्रवेकेण रक्षसाम् ।  
@@ -2182,6 +2246,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Assailed by that Āsura missile (āsureṇa samāviṣṭaḥ... astreṇa), that bull among the Raghus, resembling fire (pāvakopamaḥ), loosed the fiery Pāvaka missile of mighty energy (sasarjāstraṃ mahotsāhaṃ pāvakam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma’s Āgneya shafts, blazing like suns, moons, comets, and meteors, annihilate Rāvaṇa’s demonic arrows in mid-air while the monkey chiefs surround Rāma cheering.
 </details>
 </details>
 

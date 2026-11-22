@@ -29,6 +29,14 @@ peace and harmony in Ayodhya.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing the two sandals upon his head, Bharata mounts his chariot with Śatrughna; preceded by Vasiṣṭha and the ministers, he circumambulates Mount Citrakūṭa along the Mandākinī and arrives at Bharadvāja’s hermitage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शिरसि कृत्वा तु पादुके भरतस्तदा ।  
@@ -343,6 +351,14 @@ descended from his chariot and bowed down to the feet of Bharadwaja in saluation
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Arriving at that hermitage of Bharadvāja, the wise Bharata (sa tam āśramam āgamya bharadvājasya buddhimān bharatas tadā) alighted from his chariot and bowed to the sage’s feet (avatīrya rathāt pādau vavande).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by the delighted Bharadvāja, Bharata recounts how Rāma remained firm in his vow to keep his father’s fourteen-year promise and how Vasiṣṭha asked him to bestow the gold-adorned sandals to secure Ayodhyā’s welfare.
 </details>
 </details>
 
@@ -665,6 +681,14 @@ yours on us and ensure peace and harmony in Ayodhya."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata relates how Rāma faced east, stepped onto the sandals, and gave them for the governance of the realm; praising Bharata as one in whom noble conduct gathers like water in low ground, Bharadvāja calls Daśaratha immortal.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो वसिष्ठेन राघवः प्राङ्मुखः स्थितः ।  
@@ -982,6 +1006,14 @@ salutation and began taking leave from him.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Clasping the feet of that high-souled sage after he had spoken (tam ṛṣiṃ tu mahātmānam ukta-vākyaṃ caraṇāv upagṛhya ca), Bharata with folded hands proceeded to take leave of him (kṛtāñjaliḥ āmantrayitum ārebhe).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Circumambulating Bharadvāja repeatedly, Bharata marches back with his vast army, crosses the Yamunā and the Gaṅgā to Śṛṅgiberapura, and, sighting desolate Ayodhyā bereft of his father and brother, laments to his charioteer.
 </details>
 </details>
 

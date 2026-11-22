@@ -24,6 +24,14 @@ back to her brother to report the defeat.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out Rāma, Sītā, and Lakṣmaṇa in the leaf-thatched cottage, the dreadful Śūrpaṇakhā sets the fourteen demons upon them, whereupon Rāma stations Lakṣmaṇa beside Sītā and strings his gold-adorned bow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखा घोरा राघवाश्रममागता ।  
@@ -341,6 +349,14 @@ And Rāghava too, whose soul is fixed on dharma (dharmātmā), strung (cakāra s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring his royal lineage and the sages' mandate to eradicate forest-tormentors, Rāma warns the night-roamers to retreat if they value their lives, provoking the fourteen pike-wielding demons to fury.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रौ दशरथस्यावां भ्रातरौ रामलक्ष्मणौ ।  
@@ -589,6 +605,14 @@ talker, and whose valour is yet unseen by those fourteen demons. [3-20-11, 12]
 **11:** Hearing that speech of his, those fourteen rākṣasas—slayers of Brāhmaṇas (brahma-ghnāḥ), holding pikes in their hands (śūla-pāṇayaḥ)—spoke a word in fierce wrath (susaṃkruddhāḥ):
 
 **12:** With bloodshot eyes (saṃrakta-nayanāḥ), dreadful, harsh (paruṣāḥ), and exultant (hṛṣṭāḥ), [they addressed] the gentle-spoken (madhurābhāṣam) Rāma, whose eyes were reddened and whose valor they had never yet witnessed (adṛṣṭa-parākramam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting of their lord Khara's might and mocking Rāma as a lone combatant, the fourteen enraged demons charge with upraised swords and hurl their fourteen pikes at once toward Kākutstha.
 </details>
 </details>
 
@@ -860,6 +884,14 @@ They hurled those pikes toward the invincible (durjayam) Rāghava; [and] Kākuts
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Severing the fourteen pikes with fourteen gold-decked arrows, Rāma looses fourteen stone-whetted iron shafts like Indra's thunderbolts, piercing the demons' chests and plunging into the earth like serpents.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पश्चान्महातेजा नाराचान् सूर्यसन्निभान् ॥ १८ ॥  
@@ -1048,6 +1080,14 @@ trees they fell onto the ground. [3-20-21b, 22a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —emerged and plunged into the earth (viniṣpetus tadā bhūmau) like serpents (pannagāḥ) [entering] an anthill (valmīkād iva); [and] with their hearts shattered by those [arrows] (tair bhagna-hṛdayāḥ), like trees with their roots severed (chinna-mūlā iva drumāḥ), upon the ground—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the fourteen demons lying lifeless and bathed in blood, the enraged Śūrpaṇakhā rushes back to Khara, collapsing before him like a resin-oozing creeper to recount their slaughter.
 </details>
 </details>
 

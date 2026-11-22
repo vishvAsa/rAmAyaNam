@@ -26,6 +26,14 @@ him on his head and kills him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Dhūmrākṣa marching forth, the Vānaras roar in battle-lust and clash fiercely with the rākṣasas using trees against iron weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षं प्रेक्ष्य निर्यान्तं राक्षसं भीमविक्रमम् ।  
@@ -311,6 +319,14 @@ with an excitement born of anger.
 **5:** [And they assailed them] with terrible maces (gadābhiḥ), sharp-edged paṭṭiśa spears, concealed mallets (kūṭamudgaraiḥ), dreadful and variegated iron bludgeons (parighaiḥ), and well-wielded tridents (triśūlaiḥ).
 
 **6:** Though being torn apart (vidāryamāṇāḥ) by the rākṣasas, those Vānaras of mighty strength, their fierce exultation roused by indignation (amarṣajanitoddharṣāḥ), performed heroic deeds fearlessly (abhītavat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though pierced by arrows and pikes, the Vānara troop-leaders shout their names and crush the rākṣasa ranks with boulders and trees.
 </details>
 </details>
 
@@ -621,6 +637,14 @@ overturned, some demons were perturbed.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With their banners crushed and broken (dhvajair vimathitair bhagnaiḥ), their swords struck down, and their chariots shattered (rathair vidhvaṃsitaiḥ), some night-stalkers (rajanīcarāḥ) were sorely distressed.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn with crushed elephants and steeds, the battlefield sees Vānaras rending rākṣasa faces with their nails until Dhūmrākṣa rallies his routed host.
 </details>
 </details>
 
@@ -935,6 +959,14 @@ create a blood-shed of the monkeys wishing to fight.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing his army routed (sainyaṃ tu vidrutaṃ dṛṣṭvā), Dhūmrākṣa, that bull among rākṣasas (rākṣasarṣabhaḥ), wrought a furious slaughter (kadanaṃ cakre) among the battle-eager Vānaras in his wrath.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dhūmrākṣa's counterattack mangles the Vānaras with spears and tridents, transforming the carnage into a terrifying symphony of battle-music.
 </details>
 </details>
 
@@ -1264,6 +1296,14 @@ Sweetened by the lute-strings of bowstrings (dhanurjyātantrimadhuram), accompan
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laughing as he scatters the Vānaras with arrow-showers, Dhūmrākṣa leaps from his chariot just before Hanumān's hurled boulder crushes it.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षस्तु धनुष्पाणिर्वानरान् रणमूर्धनि ।  
@@ -1526,6 +1566,14 @@ bows, that rock rolled down to the ground.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Crushing his chariot (pramathya rathaṃ tasya) along with its wheels and pole (sacakrakūbaram), its steeds, its banner, and its bow (saśarāsanam), that boulder crashed to the earth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After slaughtering the rākṣasa ranks with uprooted trees, Hanumān charges with a mountain peak as Dhūmrākṣa strikes his head with a spiked mace.
 </details>
 </details>
 
@@ -1792,6 +1840,14 @@ countless spikes on the head of that Hanuma.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, in his fury (roṣeṇa), Dhūmrākṣa brought that many-spiked mace (gadāṃ tāṃ bahukaṇṭakām) crashing down upon the crown of the enraged Hanumān's head (mastake 'tha hanūmataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unfazed by the mace-blow, Hanumān crushes Dhūmrākṣa's skull with the mountain peak, driving the surviving rākṣasas back into Laṅkā in terror.
 </details>
 </details>
 

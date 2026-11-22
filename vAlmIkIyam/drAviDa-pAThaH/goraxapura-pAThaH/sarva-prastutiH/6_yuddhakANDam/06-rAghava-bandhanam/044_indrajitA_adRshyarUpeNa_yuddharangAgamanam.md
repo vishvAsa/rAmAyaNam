@@ -31,6 +31,14 @@ them.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the sun sets and a deadly night descends, warriors grope and strike in pitch darkness while gold-armored rākṣasas gleam like mountains ablaze with luminous herbs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युध्यतामेव तेषां तु तदा वानररक्षसाम् ।  
@@ -349,6 +357,14 @@ were with anger, attacked with great speed, duly destroying the monkeys.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In that impenetrable darkness (tasmiṃs tamasi duṣpāre), the rākṣasas, maddened with wrath (krodhamūrcchitāḥ) and of mighty impetuosity, darted about on all sides (paripetuḥ), devouring the monkeys (bhakṣayantaḥ plavaṅgamān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tearing steeds and banners with their teeth, the Vānaras convulse the rākṣasa host while Rāma and Lakṣmaṇa fell unseen foes amidst blinding dust, rivers of blood, and war-drums.
 </details>
 </details>
 
@@ -686,6 +702,14 @@ Then the roar of kettledrums, mṛdaṅgas, and paṇava drums (bherīmṛdaṅg
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn with weapon-blossoms and blood-mire on a night dreadful as Kālarātri, the battlefield resounds like the seven oceans at cosmic dissolution as rākṣasas charge Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतानां स्तनमानानां राक्षसानां च निःस्वनः ।  
@@ -965,6 +989,14 @@ like the noise of the oceans at the time of destruction of all the creatures.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The roar of those enraged ones rushing forward and thundering (teṣām āpatatāṃ śabdaḥ kruddhānām api garjatām) was like the roar of the seven oceans at the cosmic upheaval (udvarta iva saptānāṃ samudrāṇām abhūt svanaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the blink of an eye Rāma strikes six leading rākṣasas with six flame-like shafts, routing them as gold-feathered arrows light up the night like autumn fireflies.
 </details>
 </details>
 
@@ -1264,6 +1296,14 @@ With gold-feathered arrows (suvarṇapuṅkhair viśikhaiḥ) flying on all side
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While caverned Mount Trikūṭa echoes the roar of battle and dark golāṅgūlas crush rākṣasas in their embrace, Aṅgada slays Indrajit's steeds and charioteer, forcing him to vanish.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसानां च निनदैर्भेरीणां चैव निःस्वनैः ।  
@@ -1498,6 +1538,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 His steeds and charioteer slain by Aṅgada (hatāśvo hatasārathiḥ aṅgadena), the huge-bodied Indrajit abandoned his chariot (rathaṃ tyaktvā) and vanished into invisibility on that very spot (tatraivāntaradhīyata).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gods, sages, and the Vānara chiefs applaud Aṅgada's routing of Indrajit, while Brahmā-boon-blessed Rāvaṇi, galled by defeat, vanishes into invisibility in a towering rage.
 </details>
 </details>
 
@@ -1751,6 +1799,14 @@ defeated in battle by Angada the son of Vali a dreadful monkey.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having vanished into invisibility (so 'ntardhānagataḥ), that wicked son of Rāvaṇa, galled in battle (raṇakarśitaḥ)—the heroic Rāvaṇi who had been granted a boon by Brahmā (brahmadattavaro vīraḥ)—was maddened with wrath (krodhamūrcchitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to prevail in open combat, invisible Indrajit shrouds himself in illusion and binds Rāma and Lakṣmaṇa across every limb with serpent-arrows while the Vānaras watch.
 </details>
 </details>
 

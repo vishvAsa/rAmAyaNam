@@ -31,6 +31,14 @@ all the monkey-chiefs, Vibhishana, Hanuma and Jambavan applaud Lakshmana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Lakṣmaṇa and Indrajit locked in combat like two rutting tuskers, Vibhīṣaṇa stands at the battle-front, bends his great bow, and scatters the Rākṣasa ranks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हताश्वो महातेजा भूमौ तिष्ठन् निशाचरः ।  
@@ -268,6 +276,14 @@ enemy.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Vibhīṣaṇa's followers too—foremost of Rākṣasas (rākṣasottamāḥ)—hewed down the heroic Rākṣasas in battle with pikes, swords, and halberds (śūlāsi-paṭṭiśaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing the opportune moment, Vibhīṣaṇa rouses the Vānara chiefs, declaring that with Prahasta, Kumbhakarṇa, and the great Rākṣasa generals already slain, Indrajit alone remains as Rāvaṇa's last mainstay.
 </details>
 </details>
 
@@ -548,6 +564,14 @@ valiant enemies, attacked Lakshmana and Vibhishana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Saṃhrādī, Vikaṭa, Arighna, Tapana, and Manda as well, Praghāsa, Praghasa, Prajaṅgha, and Jaṅgha too—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the roll of slain Rākṣasa champions, Vibhīṣaṇa urges the Vānaras to leap this last puddle, confessing that paternal tears blind his eyes whenever he seeks to strike his nephew.
 </details>
 </details>
 
@@ -855,6 +879,14 @@ When I wish to strike him down (hantukāmasya me), tears (bāṣpaṃ) obstruct 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rallied by Vibhīṣaṇa's call to cut down Indrajit's escort, the Vānara chiefs lash their tails and roar like peacocks seeing rainclouds, while Jāmbavān and his bears maul the Rākṣasa host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैनं छिन्नधन्वानमाशीविषविषोपमैः ।  
@@ -1149,6 +1181,14 @@ Indrajit, which was marvelous indeed.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That tumultuous clash (samprahāras tumulaḥ) of monkeys and Rākṣasas arose with a dread, mighty roar, like that of wrathful gods and Asuras.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting Lakṣmaṇa down from his shoulders, Hanūmān slaughters Rākṣasas by the thousands, while Indrajit turns from his uncle back to Lakṣmaṇa in a blindingly swift duel of arrows.
 </details>
 </details>
 
@@ -1452,6 +1492,14 @@ nor the loosing (vipramokṣo) of shafts, nor the drawing of the bowstring (vika
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+So swift are the archers' hands that no motion of drawing or loosing can be seen; networks of arrows blot out the sky as the sun sinks and blood-rivers flow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तस्य वज्रप्रतिमाः शराः सर्पविषोपमाः ।  
@@ -1677,6 +1725,14 @@ beautiful ear-rings.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When the thousand-rayed sun (sahasrāṃśau) had gone to its setting and all was enveloped in darkness, great rivers of blood (rudhiraughā mahānadyaḥ) flowed forth by the thousands.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As carrion beasts howl and sages pray for the worlds, Lakṣmaṇa pierces Indrajit's four black steeds and decapitates his wheeling charioteer with a gold-gleaming bhalla shaft.
 </details>
 </details>
 
@@ -1990,6 +2046,14 @@ glorious Rāghava [Lakṣmaṇa], with swiftness of hand (lāghavād), swept the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Driverless, Indrajit alternates between reins and bow as Lakṣmaṇa exploits every opening; seeing Indrajit dejected, four Vānara chiefs—Pramāthī, Rabhasa, Śarabha, and Gandhamādana—charge his chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामापतन्तीं सम्प्रेक्ष्य सुमित्रानन्दवर्धनः ।  
@@ -2295,6 +2359,14 @@ terrible prowess, took hold of another arrow.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then four lords of monkeys—Pramāthī, Rabhasa, Śarabha, and Gandhamādana—brooking it not (amṛṣyamāṇāḥ), made an impetuous rush (cakrur vegaṃ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The four mountain-huge Vānara chiefs leap upon Indrajit's steeds, crushing horses and chariot alike, while Lakṣmaṇa riddles the dismounted Rākṣasa prince as he charges on foot.
 </details>
 </details>
 

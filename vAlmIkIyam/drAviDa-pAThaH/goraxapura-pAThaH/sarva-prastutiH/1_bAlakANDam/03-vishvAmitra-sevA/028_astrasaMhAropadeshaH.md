@@ -27,6 +27,14 @@ chance to see a picturesque forest on their way and Rama enquires about
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having received the celestial missiles of assault, Rāma asks Viśvāmitra for the mantras of their withdrawal (saṃhāra), and the great sage begins imparting the personified Upasaṃhāra-astras.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य ततोऽस्त्राणि प्रहृष्टवदनः शुचिः ।  
@@ -164,6 +172,14 @@ When Rama of Kakutstha said thus, next that resolute, well-averred and
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When the scion of Kakutstha spoke thus, Viśvāmitra of mighty austerity—steadfast in firmness, faithful to his vows, and ritually pure (dhṛtimān suvrataḥ śuciḥ)—forthwith expounded the withdrawal spells (saṃhārān vyājahārātha):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the transmission of Kṛśāśva’s luminous sons, Viśvāmitra bestows the withdrawal missiles upon Rāma, and their presiding deities manifest in radiant forms resembling glowing embers, smoke, or the moon and sun.
 </details>
 </details>
 
@@ -352,6 +368,14 @@ When the scion of Kakutstha spoke thus, Viśvāmitra of mighty austerity—stead
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Some resembling glowing embers of charcoal (kecid aṅgārasadṛśāḥ), some resembling clouds of smoke (kecid dhūmopamāḥ), and some radiant as the moon and the sun (candrārkasadṛśāḥ kecit), stood bowed in humility with hollowed palms joined in salutation (prahvāñjalipuṭāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing with folded hands, the withdrawal deities ask for Rāma’s command; having dismissed them to attend upon his thought at the hour of need, Rāma sights the cloud-dark, bird-resounding grove of Siddhāśrama.
 </details>
 </details>
 
@@ -592,6 +616,14 @@ After learning the nullifying missiles and then while proceeding on
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Fair to behold, thronged with deer (darśanīyaṃ mṛgākīrṇam), and exceedingly captivating to the heart (manoharam atīva ca), it is adorned with birds of manifold kinds uttering melodious notes (śakunair valgubhāṣair alaṅkṛtam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerging from the hair-raising wilderness of Tāṭakāvana into the serene air of the hermitage precinct, Rāma eagerly asks whose hermitage this is and where Viśvāmitra’s sacrifice must be guarded against the Veda-destroying Rākṣasas.
 </details>
 </details>
 

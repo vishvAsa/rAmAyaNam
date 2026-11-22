@@ -24,6 +24,14 @@ Manthara one of her jewels.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending the moon-white palace roof, Kaikeyī’s hunchbacked handmaid Mantharā looks down in astonishment upon Ayodhyā festooned with banners, lotuses, and rejoicing crowds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातिदासी यतो जाता कैकेय्या तु सहोषिता ।  
@@ -253,6 +261,14 @@ noise. The highly delighted citizens hoisted rows of flags on their housetops.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding Ayodhyā garlanded with tall banners (ucchritadhvajamālinīm) hoisted by the thrilled and joyful citizens (hṛṣṭapramuditaiḥ pauraiḥ), Mantharā was struck with utter astonishment (paraṃ vismayam āgatā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mantharā questions Rāma’s joyful nurse about Kausalyā’s munificence and the city’s celebration, and upon learning that Rāma is to be consecrated under Puṣya, rushes down in fury.
 </details>
 </details>
 
@@ -507,6 +523,14 @@ the roof of the palace, which was in the shape of mount Kailasa.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing the nurse’s words, the hunchback (kubjā), instantly filled with wrath (kṣipram amarṣitaḥ), descended (avarohata) from that palace which resembled the peak of Mount Kailāsa (kailāsaśikharākārāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Burning with wrath, Mantharā upbraids the sleeping Kaikeyī and warns her that her boasted marital favor is drying up like a summer stream.
 </details>
 </details>
 
@@ -768,6 +792,14 @@ You appear to be very sorrowful with your worried face".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Kaikeyī then said to the hunchback: “Is all not well (kaccit kṣemaṃ na), O Mantharā? For I see you (tvāṃ lakṣaye) with a downcast face (viṣaṇṇavadanām) and sorely distressed (bhṛśaduḥkhitām).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeking to alienate Kaikeyī from Rāma, Mantharā announces that Daśaratha is about to consecrate Rāma as Prince Regent and denounces the king as a smooth-tongued deceiver.
 </details>
 </details>
 
@@ -1090,6 +1122,14 @@ Your husband speaks of righteousness (dharmavādī) while acting deceitfully (ś
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mantharā accuses Daśaratha of sending Bharata away in order to crown Rāma unopposed, likens the king to a venomous serpent cherished in Kaikeyī’s lap, and urges immediate action.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपस्थितः प्रयुञ्जानस्त्वयि सान्त्वमनर्थकम् ।  
@@ -1399,6 +1439,14 @@ save yourself, your son and me too."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Therefore, O Kaikeyī of wondrous aspect (vismayadarśane), swiftly do what is salutary for yourself and suited to the urgent hour (prāptakālaṃ kṣipraṃ kuru hitaṃ tava): save your son, yourself, and me (trāyasva putram ātmānaṃ māṃ ca)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Radiant with joy at the news of Rāma’s impending consecration, Kaikeyī rises from her couch like the autumn moon, bestows a splendid jewel upon Mantharā, and declares that Rāma and Bharata are equally dear to her.
 </details>
 </details>
 

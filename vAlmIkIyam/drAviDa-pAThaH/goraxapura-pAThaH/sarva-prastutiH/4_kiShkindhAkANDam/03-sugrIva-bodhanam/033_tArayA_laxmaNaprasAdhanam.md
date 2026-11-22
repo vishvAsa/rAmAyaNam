@@ -39,6 +39,14 @@ of 'kingly vices...' on which Tara rationally defends.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned back by Aṅgada, furious Lakṣmaṇa enters the cavern-city of Kiṣkindhā while terrified monkey sentries stand with folded hands, beholding its jewel-filled palaces, wish-granting groves, and divine-born monkey residents.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ प्रतिसमादिष्टो लक्ष्मणः परवीरहा ।  
@@ -364,6 +372,14 @@ And embellished with handsome monkeys who were the sons of gods and gandharvas (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Advancing along Kiṣkindhā's wine-scented royal highway beside clear mountain streams, Lakṣmaṇa passes the towering mansions of Aṅgada, Hanūmān, Jāmbavān, and the other great monkey chiefs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्दनागुरुपद्मानां गन्धैः सुरभिगन्धिताम् ।  
@@ -565,6 +581,14 @@ Lt. Taara, Jambavanta, Dadhivaktra, Niila, Supaatala, and that of Sunetra. [4-33
 **11:** Of Kumuda and Suṣeṇa, and likewise of Tāra and Jāmbavān, of Dadhivaktra and Nīla, and of Supāṭala and Sunetra —
 
 **12:** Along the royal highway (rājamārge), Lakṣmaṇa beheld the principal mansions (gṛhamukhyāni), of immense strength and substance (mahāsārāṇi), belonging to these high-souled monkey chiefs (kapimukhyānām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing the white-cloud-like mansions of the chiefs, Lakṣmaṇa reaches Sugrīva's Kailāsa-peaked palace encircled by a white rampart and enters unopposed like the sun piercing a great cloud.
 </details>
 </details>
 
@@ -818,6 +842,14 @@ a colossal cloud. [4-33-14, 15, 16, 17, 18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Into that lovely palace of Sugrīva (sugrīvasya gṛham ramyam) the mighty son of Sumitrā entered unopposed (avāryamāṇaḥ), like the sun entering a great cloud (mahābhram iva bhāskaraḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing through seven courtyards into Sugrīva's guarded inner apartments, Lakṣmaṇa hears the strains of lutes and song and sees proud noblewomen weaving garlands alongside well-attired attendants.
 </details>
 </details>
 
@@ -1080,6 +1112,14 @@ a mark of the chambermaids. None of them is overawed, overstrained, and everyone
 **23:** Seeing there [women] endowed with noble lineage (abhijanasampannāḥ) who had fashioned chaplets of flowers (mālyakṛtasrajaḥ), busily engaged in weaving choice garlands (varamālyakṛtavyagrāḥ), and decked with the finest ornaments (bhūṣaṇottamabhūṣitāḥ),
 
 **24:** Lakṣmaṇa also noticed Sugrīva's attendants (sugrīvānucarāṃś cāpi), who were neither dissatisfied (nātṛptān), nor overly hurried (nāti cāvyagrān), nor meanly attired (nānudāttaparicchadān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Abashed by the tinkling of anklets and girdles in the harem, Lakṣmaṇa withdraws to a corner and twangs his bowstring, causing terrified Sugrīva to tremble on his throne as his face pales.
 </details>
 </details>
 
@@ -1413,6 +1453,14 @@ Apprised both by Aṅgada and by the twang of the bowstring (jyāsvanena ca), th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though inwardly shaken, Sugrīva composes himself and asks Tārā what offense could have provoked gentle Lakṣmaṇa, urging her to go personally and appease him since noble men never act harshly toward women.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तारां हरिश्रेष्ठः सुग्रीवः प्रियदर्शनाम् ।  
@@ -1741,6 +1789,14 @@ be evident soon.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “At the sight of you (tvaddarśane), that pure-souled one (viśuddhātmā) will not maintain his anger; for high-souled men (mahātmānaḥ) never under any circumstance commit anything harsh (dāruṇam) toward women.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching with wine-languid steps and low-hanging golden girdle, Tārā sees Lakṣmaṇa lower his gaze in modest restraint and addresses him with affectionate boldness to ask the cause of his wrath.
 </details>
 </details>
 
@@ -2110,6 +2166,14 @@ Hearing her speech, which was prefaced with conciliation (sāntvapūrvam), Lak�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa reproaches Tārā for failing to awaken her husband, who indulges in drink with his ministers oblivious to the elapsed four-month compact and thereby ruins righteousness, interest, and friendship.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमयं कामवृत्तस्ते लुप्तधर्मार्थसङ्ग्रहः ।  
@@ -2425,6 +2489,14 @@ he is not even standing by the probity. [4-33-48]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For a friend is preeminent in the virtues of practical advantage (arthaguṇaśreṣṭham) and wholly devoted to truth and righteousness (satyadharmaparāyaṇam); yet that twofold virtue (tad dvayam tu) has been abandoned [by him], and he does not stand firm in righteousness (na tu dharme vyavasthitam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asked by Lakṣmaṇa what course remains, Tārā replies that a noble prince of pure sattva should pardon a devoted kinsman's lapse, acknowledging both Rāma's urgency and the irresistible power of Love.
 </details>
 </details>
 
@@ -2804,6 +2876,14 @@ is no illegitimacy in it.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Lakṣmaṇa to pardon a monkey king when even great sages succumb to passion, Tārā reveals that Sugrīva has already summoned hundreds of thousands of crores of mighty monkeys for the quest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कामतन्त्रे तव बुद्धिरस्ति  
@@ -3162,6 +3242,14 @@ gusie just by their wish have come in hundreds, in thousands, in millions. [4-33
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For monkeys of great valor (mahāvīryā harayaḥ), capable of assuming any form at will (kāmarūpiṇaḥ) and dwelling on manifold mountains (nānānaganivāsinaḥ), have arrived in crores and hundreds of thousands (koṭīḥ śatasahasrāṇi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assured by Tārā that beholding a friend's wives in goodwill is blameless, Lakṣmaṇa enters the inner chamber and glares like Yama upon golden-throned Sugrīva, who sits embracing Rumā.
 </details>
 </details>
 

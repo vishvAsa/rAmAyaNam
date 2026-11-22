@@ -24,6 +24,14 @@ asks her to seek shelter elsewhere.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing at Rāvaṇa's death, the gods, Gandharvas, and Dānavas depart in their aerial cars recounting the heroes' exploits, while Rāma honors Mātali and dismisses Indra's blazing chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु पार्श्वे स्थितां प्रह्वां  
@@ -331,6 +339,14 @@ mounted that celestial chariot and flew straight up to heaven (divam evotpapāta
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Sugrīva and receiving Lakṣmaṇa's salutation, Rāma returns to the army camp and commissions Lakṣmaṇa to consecrate his devoted ally Vibhīṣaṇa as King of Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्घनं च समुद्रस्य  
@@ -633,6 +649,14 @@ saying “So be it!” in great joy (susaṃhṛṣṭaḥ), took up a golden pi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mind-swift Vānara chiefs fetch water from the ocean in a golden pitcher, and Lakṣmaṇa, together with the Rākṣasas and Vānaras, consecrates Vibhīṣaṇa as King of Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् **कर्तव्यं** मनुष्येण  
@@ -878,6 +902,14 @@ extremely disagreeable to me, even as a light to one, who is suffering from a po
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Entering into boundless joy (praharṣam atulaṃ gatvā), they praised Rāma himself; and his ministers rejoiced (jahṛṣire), as did the Rākṣasas who were devoted to him.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After consoling his subjects in Laṅkā, the newly consecrated King Vibhīṣaṇa approaches Rāma and Lakṣmaṇa with auspicious offerings of curds, parched grain, sweetmeats, and flowers, which Rāma graciously accepts.
 </details>
 </details>
 
@@ -1137,6 +1169,14 @@ Set you mind on Lakshmana or Bharata, as per your ease."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding Vibhīṣaṇa with his task accomplished and his purpose prospering (kṛtakāryaṃ samṛddhārtham), Rāma accepted all that out of a desire to please him (tasyaiva pratikāmyayā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma commissions Hanūmān, standing before him with joined palms, to enter Laṅkā with King Vibhīṣaṇa's permission, announce the glad tidings of Rāvaṇa's slaying to Sītā, and return with her message.
 </details>
 </details>
 

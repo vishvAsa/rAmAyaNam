@@ -31,6 +31,14 @@ with Vali.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Sugrīva's eloquent appeal, mighty Rāma releases a single gold-decked arrow that pierces seven sāla trees, the mountain plateau, and the seven subterranean realms before returning to his quiver.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्च वचनं श्रुत्वा सुग्रीवस्य सुभाषितम् ।  
@@ -339,6 +347,14 @@ ornaments dangled, and prostrated before Raghava with his head touching the grou
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Supremely delighted (paramaprītaḥ), Sugrīva folded his hands in reverence (kṛtāñjaliḥ) and prostrated himself on the ground with his head (mūrdhnā) before Rāghava, his ornaments hanging loosely down (pralambīkṛtabhūṣaṇaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overjoyed by Rāma's peerless feat of archery, Sugrīva praises his power to vanquish even Indra's gods, implores him to slay Vālī today, and receives Rāma's warm embrace.
 </details>
 </details>
 
@@ -656,6 +672,14 @@ and then Rama said these words to such a Sugreeva in reply. [4-12-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon Rāma of great wisdom (mahāprājñaḥ), having embraced (pariṣvajya) Sugrīva of pleasing aspect (priyadarśanam), replied in words shared in spirit by Lakṣmaṇa (lakṣmaṇānugatam vacaḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's command, the party hastens to Kiṣkindhā where Rāma conceals himself among dense trees while Sugrīva's thunderous challenge draws furious Vālī out for a fierce duel.
 </details>
 </details>
 
@@ -1008,6 +1032,14 @@ With open palms like lightning-bolts (talair aśanikalpaiś ca) and with fists l
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to distinguish between the twin-like combatants resembling the Aśvins, Rāma withholds his fatal arrow, leaving battered Sugrīva to flee bleeding back to sanctuary on Mount Ṛṣyamūka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो धनुष्पाणिस्तावुभौ समुदैक्षत ।  
@@ -1330,6 +1362,14 @@ Rāghava too, together with his brother [Lakṣmaṇa] (saha bhrātrā) and toge
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Downcast and ashamed after his beating, Sugrīva reproaches Rāma for urging him to challenge Vālī without striking, whereupon compassionate Rāma explains why he withheld his arrow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समीक्ष्यागतं रामं सुग्रीवः सहलक्ष्मणम् ।  
@@ -1606,6 +1646,14 @@ sthaH* = to each other, resemble, you both are there.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma explains that slaying Sugrīva by mistake would have ruined both their causes and incurred the grave sin of killing a supplicant, urging him to fight again fearlessly.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वरेण वर्चसा चैव प्रेक्षितेन च वानर ।  
@@ -1879,6 +1927,14 @@ are our shelterer in this forest. [4-12-35, 36a]
 **35:** “Indeed, the slaying of one to whom protection has been granted (dattābhayavadho nāma) is a great and monstrous sin (pātakam mahad adbhutam); and I, Lakṣmaṇa, and Sītā of exquisite complexion (varavarṇinī)—
 
 **36:** “—all of us are dependent upon you (tvadadhīnā vayam sarve), and in this forest you are our refuge (śaraṇam bhavān). Therefore fight once more (tasmād yudhyasva bhūyas tvam), and do not doubt me (mā māśaṅkīś ca), O Vānara!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Promising to fell Vālī with a single arrow within the hour, Rāma has Lakṣmaṇa drape a blooming gajapuṣpī creeper around Sugrīva's neck as an identifying token before returning to Kiṣkindhā.
 </details>
 </details>
 

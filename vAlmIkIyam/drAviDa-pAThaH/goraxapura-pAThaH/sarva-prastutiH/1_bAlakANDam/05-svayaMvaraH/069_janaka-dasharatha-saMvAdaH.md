@@ -24,6 +24,14 @@ pleasantries and protocol, all of them stay in Mithila comfortably.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak, King Daśaratha commands Sumantra to send the royal treasurers ahead with abundant wealth and gems, array the fourfold army, and place Vasiṣṭha and the great sages in the vanguard.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रात्र्यां व्यतीतायां सोपाध्यायः सबान्धवः ।  
@@ -256,6 +264,14 @@ for the travel without time lapse..." Thus Dasharatha ordered. [1-69-4, 5]
 **4:** “Vasiṣṭha and Vāmadeva (vasiṣṭho vāmadevaś ca), Jābāli and Kaśyapa (jābālir atha kaśyapaḥ), the long-lived Mārkaṇḍeya (mārkaṇḍeyas tu dīrghāyuḥ), and the sage Kātyāyana (ṛṣiḥ kātyāyanas tathā)—
 
 **5:** “let these twice-born sages proceed in front (ete dvijāḥ prayāntv agre). Yoke my chariot (syandanaṃ yojayasva me) so that there may be no delay of the appointed hour (yathā kālātyayo na syāt), for the envoys urge me to hasten (dūtā hi tvarayanti mām)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by his fourfold army, Daśaratha travels for four days to the realm of the Videhas, where King Janaka welcomes him and Sage Vasiṣṭha with supreme honor and joy.
 </details>
 </details>
 
@@ -549,6 +565,14 @@ with all gods... [1-69-10b, 11a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka invites Daśaratha to solemnize the marriage at daybreak upon the completion of the sacrifice, and Daśaratha graciously replies that the recipient of a gift abides wholly by the giver’s wish.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या मे निर्जिता विघ्ना दिष्ट्या मे पूजितं कुलम् ॥ ११ ॥  
@@ -818,6 +842,14 @@ of marriages etc., and for which Janaka is surprised.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “As you shall direct, O knower of dharma, so shall we perform (yathā vakṣyasi dharmajña tat kariṣyāmahe vayam)!” Hearing that speech of the speaker of truth, most righteous and conducive to renown (tad dharmiṣṭhaṃ yaśasyaṃ ca vacanaṃ satyavādinaḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling at Daśaratha’s gracious humility, Janaka honors him while the sages rejoice together, Rāma and Lakṣmaṇa bow at their father’s feet, and Janaka performs the preliminary nuptial rites for his two daughters.
 </details>
 </details>
 

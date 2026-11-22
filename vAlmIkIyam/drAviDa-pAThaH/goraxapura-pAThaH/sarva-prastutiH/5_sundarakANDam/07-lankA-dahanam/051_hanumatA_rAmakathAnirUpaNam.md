@@ -30,6 +30,14 @@ that he should be prepared for the worst if on the other hand he refuses to do s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unperturbed before the ten-faced king, Hanūmān delivers Sugrīva's diplomatic greeting and recounts Rāma's righteous exile into the Daṇḍaka forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं समीक्ष्य महासत्त्वं सत्त्ववान् हरिसत्तमः ।  
@@ -313,6 +321,14 @@ Dandaka along with Lakshmana his brother and Seetha his wife."
 **5:** “‘His eldest, mighty-armed son (jyeṣṭhas tasya mahābāhuḥ putraḥ), dearly beloved and a lord (priyataraḥ prabhuḥ), went forth at his father's command (pitur nideśān niṣkrāntaḥ) and entered the Daṇḍaka forest (praviṣṭo daṇḍakāvanam);
 
 **6:** “‘Together with his brother Lakṣmaṇa and together with his wife Sītā, that one of great splendor named Rāma (rāmo nāma mahātejāḥ) betook himself to the path of righteousness (dharmyaṃ panthānam āśritaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān recounts the loss of Sītā in Janasthāna, Rāma's alliance with Sugrīva, the slaying of Vālin with a single arrow, and the dispatch of monkey hosts.
 </details>
 </details>
 
@@ -634,6 +650,14 @@ and sent his monkeys to all directions."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring himself Māruta's son who leapt the hundred-yojana ocean and found Sītā, Hanūmān counsels Rāvaṇa not to cling to root-destroying unrighteousness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां हरीणां सहस्राणि शतानि नियुतानि च ।  
@@ -896,6 +920,14 @@ which are attended with many dangers and which even ruin the doer at the roots."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For men of understanding such as yourself (buddhimanto bhavadvidhāḥ) do not cleave to actions that are contrary to dharma (dharmaviruddheṣu), fraught with manifold perils (bahvapāyeṣu), and destructive of one's very root (mūlaghātiṣu)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that none can withstand Rāma and Lakṣmaṇa's arrows, Hanūmān urges Rāvaṇa to restore Jānakī, comparing her to a five-hooded serpent and poisoned food.
 </details>
 </details>
 
@@ -1213,6 +1245,14 @@ more than food mixed with abundant poison could be digested with one's digestive
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Even by the immortals together with the asuras (sāsurair amarair api), she cannot be digested through their might (neyaṃ jarayituṃ śakyā ojasā), any more than food heavily laced with poison (viṣasaṃspṛṣṭam atyarthaṃ bhuktam annam iva) [can be digested] by the digestive fire (ojasā)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān reminds Rāvaṇa that Brahmā's boon does not protect him against humans or monkeys and warns that his present unrighteousness will swiftly bear fruit.
 </details>
 </details>
 
@@ -1548,6 +1588,14 @@ Vali and about the friendship between Rama and Sugreeva, realize your own intere
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he refrains from destroying Laṅkā only because Rāma vowed to annihilate Sītā's abductors himself, Hanūmān warns Rāvaṇa that Sītā is Kālarātrī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं खल्वहमप्येकः सवाजिरथकुञ्जराम् ।  
@@ -1825,6 +1873,14 @@ which has been placed by yourself around your neck. Think well of your safety."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Rāvaṇa behold Laṅkā already burning with Sītā's ascetic fire and Rāma's wrath, Hanūmān proclaims Rāma's cosmic power to dissolve and recreate the worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतायास्तेजसा दग्धां रामकोपप्रदीपिताम् ।  
@@ -2033,6 +2089,14 @@ in like manner as before."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having completely dissolved all the worlds (sarvāl lokān susaṃhṛtya) together with their elements and moving and unmoving beings (sabhūtān sacarācarān), Rāma of great renown (rāmo mahāyaśāḥ) is able to create them anew just as before (punar eva tathā sraṣṭuṃ śaktaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proclaiming that neither Brahmā, Rudra, nor Mahendra can withstand Rāma in battle, Hanūmān's fearless speech provokes Rāvaṇa to order his execution.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ This chapter describes Pushpaka in glorious and amazing detail.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing in the midst of Rāvaṇa's palace, Hanūmān beholds the great aerial car Puṣpaka—acclaimed by Viśvakarman himself, stationed in the wind-path, and moving at the mere wish of the mind.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य मध्ये भवनस्य संस्थितो  
@@ -282,6 +290,14 @@ equal significance, collected from here and there from all over the world.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Won through austerity, meditative concentration, and valor (tapaḥsamādhānaparākramārjitam), coursing in accordance with the focused thought of the mind (manaḥsamādhānavicāracāriṇam), fashioned with manifold architectural distinctions (anekasaṃsthānaviśeṣanirmitam), and constructed throughout with harmonious features (tatas tatas tulyaviśeṣanirmitam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swift as the wind, pure as the autumn moon, and borne by thousands of earring-decked aerial spirits, the supreme aerial palace Puṣpaka—lovelier than spring itself—is beheld by Hanūmān.
 </details>
 </details>
 

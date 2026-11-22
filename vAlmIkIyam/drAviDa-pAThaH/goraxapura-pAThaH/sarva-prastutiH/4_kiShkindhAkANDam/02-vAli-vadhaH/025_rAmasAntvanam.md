@@ -28,6 +28,14 @@ committed to fire for his voyage to heavens on a remote avenue.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sharing the grief of Sugrīva, Tārā, and Aṅgada, Rāma consoles the mourners, urging them to cease weeping and perform Vālin's funeral rites under the inescapable law of destiny and time.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सुग्रीवं च तारां च साङ्गदां सहलक्ष्मणः ।  
@@ -388,6 +396,14 @@ by Time nothing can overstep its own Fate. [4-25-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma declares that Time knows no partiality and that Vālin has won heaven through his warrior duty, whereupon Lakṣmaṇa gently addresses the grief-stricken Sugrīva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कालस्यास्ति बन्धुत्वं न हेतुर्न पराक्रमः ।  
@@ -731,6 +747,14 @@ At the conclusion of Rāma's speech, Lakṣmaṇa, slayer of hostile heroes (par
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa instructs Sugrīva to prepare Vālin's cremation with dry timber and sandalwood, directs Aṅgada to bring garlands and unguents, and sends Tāra to fetch a royal palanquin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरु त्वमस्य सुग्रीव प्रेतकार्यमनन्तरम् ।  
@@ -1040,6 +1064,14 @@ to carry away Vali." Thus said Lakshmana to Sugreeva. [4-25-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having spoken, Lakṣmaṇa stands beside Rāma while Tāra hastens into the cavern of Kiṣkindhā and returns with a magnificent palanquin adorned with carved birds, trees, and lattice windows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु सुग्रीवं सुमित्रानन्दवर्धनः ।  
@@ -1289,6 +1321,14 @@ Covered on all sides with painted foot-soldiers (citra-pattībhiḥ) and equippe
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Well-joined and spacious, finely fashioned and crafted by master artisans (śilpibhiḥ kṛtām), it was furnished with miniature wooden pleasure-hills (dāru-parvatakopetām) and embellished with exquisite workmanship.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the garlanded palanquin adorned with red sandalwood and lotus wreaths, Rāma bids Lakṣmaṇa hasten the rites, and weeping Sugrīva places Vālin upon the litter.
 </details>
 </details>
 
@@ -1591,6 +1631,14 @@ this noble brother of mine be undertaken, befitting to his magnificence... [4-25
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 King Sugrīva, lord of the monkeys (plavageśvaraḥ), then gave the command: “Let the post-mortem obsequies (aurdhvadehikam) of my noble brother be performed in due accordance with custom (anukūlataḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva commands the monkeys to scatter gems before the palanquin with royal splendor, while Tāra embraces Aṅgada and the bereaved monkey women follow Vālin with piteous lamentations.
 </details>
 </details>
 
@@ -1920,6 +1968,14 @@ And uttering piteous cries (karuṇa-svanāḥ), they followed their husband, we
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the forests and mountains echo with lamentation, the monkeys build a pyre on a secluded sandbank, and Tārā places Vālin's head on her lap in bitter grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुलिने गिरिनद्यास्तु विविक्ते जलसंवृते ॥ ३७ ॥  
@@ -2186,6 +2242,14 @@ of the sun on dusking mountain, as it had when you were alive. [4-25-42]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Even though your life-breath has departed (gatāsor api), O bestower of honor, your countenance here appears cheerful (prahṛṣṭam) just as when you were alive, bearing the hue of the setting sun (astārka-sama-varṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tārā laments that Time in the form of Rāma drags Vālin away, points out his grieving wives, ministers, and citizens, and is finally raised up by the monkey women.
 </details>
 </details>
 
@@ -2478,6 +2542,14 @@ who are equally haggard by grief have lifted her up and took her away from the b
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the female monkeys, themselves emaciated with grief (śoka-karśitāḥ), raised up Tārā, who was thus lamenting and overwhelmed with sorrow for her husband (pati-śoka-parīvṛtām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping Aṅgada places Vālin on the pyre, lights the sacred fire with counterclockwise circumambulation, and offers water libations in the river before the monkeys return to Rāma.
 </details>
 </details>
 

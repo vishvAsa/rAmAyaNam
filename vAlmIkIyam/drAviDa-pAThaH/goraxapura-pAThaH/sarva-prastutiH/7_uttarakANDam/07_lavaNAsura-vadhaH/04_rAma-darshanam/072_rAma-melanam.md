@@ -13,6 +13,14 @@ title = "०७२ राम-मेलनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kept awake all night pondering the sweet, profound song of Rāma, Śatrughna performs his morning devotions at dawn, takes affectionate leave of Vālmīki and the ascetics, and speeds eagerly by chariot toward Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं शयानं नरव्याघ्रं निद्रा नाभ्यागमत् तदा ।  
@@ -217,6 +225,14 @@ Saluting that best of sages (so ’bhivādya muni-śreṣṭham) and mounting hi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering Ayodhyā and finding Rāma shining like Indra amidst his counselors, Śatrughna bows, reports that Lavaṇa is slain and Mathurā established, and confesses that after twelve years apart he can bear separation no longer.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविष्टः पुरीं रम्यां श्रीमानिक्ष्वाकुनन्दनः ।  
@@ -363,6 +379,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “These twelve years have passed without you (dvādaśaite gatā varṣās tvāṃ vinā), O delight of the Raghus; I cannot bear to dwell parted from you (notsaheyam ahaṃ vastuṃ tvayā virahitaḥ), O king!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening himself to a motherless calf, Śatrughna begs not to remain abroad; embracing him affectionately, Rāma steadies him with kṣatriya dharma, assuring him he is dearer than life yet bound to protect his subjects and visit Ayodhyā from time to time.
 </details>
 </details>
 
@@ -534,6 +558,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “To me too you are exceedingly dear (mamāpi tvaṃ su-dayitaḥ), dearer even than life itself (prāṇair api), without doubt; yet the protection of the kingdom must necessarily be carried out (avaśyaṃ karaṇīyaṃ ca rājyasya paripālanam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidden by Rāma to stay seven nights and then return to Mathurā, Śatrughna humbly assents; when the week concludes, he takes leave of Rāma, Bharata, and Lakṣmaṇa, and—escorted far along the road by his two brothers—returns swiftly to his capital.
 </details>
 </details>
 

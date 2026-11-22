@@ -17,6 +17,14 @@ title_english = "032 Rama distributes his wealth to Rishis"
 
 ## सुयज्ञाह्वानम्
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned by Lakṣmaṇa from his fire-sanctuary, Vasiṣṭha's son Suyajña arrives at Rāma's palace, where Rāma and Sītā reverently greet him like a sacrificial fire and honor him with golden ornaments and gems.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शासनम् आज्ञाय  
@@ -277,6 +285,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With choice armlets wrought of gold (jātarūpamayair mukhyair aṅgadaiḥ), with bright earrings, with gems strung on golden threads (sahemasūtrair maṇibhiḥ), and with upper-arm bands and bracelets (keyūrair valayair api),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Sītā's prompting, Rāma presents Suyajña with necklaces, a girdle, armlets, a jewel-studded couch for his wife, and the royal elephant Śatruñjaya with a thousand gold coins; receiving Suyajña's blessings, Rāma again instructs Lakṣmaṇa.
 </details>
 </details>
 
@@ -633,6 +649,14 @@ Then, like Brahmā addressing the lord of the thirty gods (brahmeva tridaśeśva
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma directs Lakṣmaṇa to lavish cows, gold, silver, carriages, and silken robes upon the sages Agastya and Kauśika, the Taittirīya preceptor who blesses Kausalyā, the veteran counselor Citraratha, and the celibate students of the Kaṭha and Kalāpa schools.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अगस्त्यं कौशिकं चैव  
@@ -858,6 +882,14 @@ types of small animals and with thousands of cows."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And the noble charioteer and counselor Citraratha, who has dwelt with us for a very long time (sacivaḥ suciroṣitaḥ)—gratify him with precious jewels, garments, and wealth,”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma orders eighty jewel-laden carriages, rice-bearing bullocks, and a thousand cows for the Vedic students and girdle-wearing celibates attending Kausalyā; Lakṣmaṇa distributes the wealth like Kubera, and Rāma addresses his weeping dependents.
 </details>
 </details>
 
@@ -1120,6 +1152,14 @@ Then that tiger among men, Lakṣmaṇa himself, distributed that wealth as inst
 </details>
 
 ## उपजीविभ्यो वचनम्
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging his dependents to guard his and Lakṣmaṇa's palaces until his return, Rāma has his treasury brought forth and distributed to the poor; meanwhile, the young wife of the impoverished forest-digging Brahmin Trijaṭa urges her husband to approach Rāma.
+</details>
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1432,6 +1472,14 @@ Now there was in that place a tawny-eyed twice-born sage of the Garga lineage na
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by his wife to cast aside his digging tools, Trijaṭa wraps himself in a tattered cloth and walks unbarred through five palace courtyards, radiant as Bhṛgu or Aṅgiras, to plead his poverty before Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं वृद्धं तरुणी भार्या  
@@ -1688,6 +1736,14 @@ forest, with an occupation of digging the soil. Look to me, as you know."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Approaching Rāma then, Trijaṭa spoke these words: “I am penniless and have many children (nirdhano bahuputro 'smi), O prince of mighty strength!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Promised as many cattle as his staff can reach, Trijaṭa girds his tattered cloth and hurls his staff across the Sarayū into a herd of thousands; Rāma embraces him, bestows all the cattle, and begs his pardon for the jest.
 </details>
 </details>
 
@@ -2001,6 +2057,14 @@ for you. If you desire any other thing, opt for it."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And then, soothing that descendant of Garga (taṃ gārgyam abhisāntvayan), Rāma said: “Surely you must not take offense (manyur na khalu kartavyaḥ), for this was only a jest of mine (parihāso hy ayaṃ mama)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he only wished to reveal Trijaṭa's spiritual energy and that all his wealth exists for Brahmins, Rāma receives the sage's blessings and gratifies every friend, servant, and mendicant with fitting gifts.
 </details>
 </details>
 

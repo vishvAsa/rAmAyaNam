@@ -11,6 +11,14 @@ title = "०३७ सभा-प्रवेशः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As dawn breaks after the first joy-filled night of Rāma’s consecration, sweet-voiced royal bards gather at the palace to awaken him, extolling him as equal to Viṣṇu, the Aśvins, Bṛhaspati, Prajāpati, earth, sun, wind, and ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषिक्ते तु काकुत्स्थे धर्मेण विदितात्मनि ।  
@@ -200,6 +208,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Your forbearance equals the earth (kṣamā te pṛthivītulyā), and in brilliance you resemble the Sun (tejasā bhāskaropamaḥ); your swiftness equals the Wind (vegas te vāyunā tulyaḥ), and your profundity is like that of the ocean (gāmbhīryam udadher iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Finishing their dawn hymn to Rāma as steadfast as Śiva and gentle as the moon, the bards and sūtas rouse him; rising from his white-draped couch like Viṣṇu from Śeṣa, he is met by thousands bearing water vessels.
 </details>
 </details>
 
@@ -398,6 +414,14 @@ As that high-souled monarch rose (tam utthitaṃ mahātmānam), thousands of men
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having performed ablutions, fire-oblations, and ancestral worship in the Ikṣvāku shrine, Rāma enters the outer court, where Vasiṣṭha, tributary kings, his three brothers like the three Vedas, and joyful attendants gather around him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतोदकः शुचिर्भूत्वा काले हुतहुताशनः ।  
@@ -590,6 +614,14 @@ Bharata, Lakṣmaṇa, and renowned Śatrughna (bharato lakṣmaṇaś cātra ś
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having come with joined palms and gladdened countenances (yātāḥ prāñjalayo bhūtvā ... muditānanāḥ), numerous attendants named Muditas (kiṅkarāḥ ... muditā nāma ... bahavaḥ) took their places seated at his side (pārśvasthāḥ ... samupāviśan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attended by twenty vānara chiefs, Vibhīṣaṇa’s counselors, Vedic elders, sages, and kings, Rāma outshines Indra himself as masters of ancient lore recount sweet, dharma-infused tales in his tranquil court.
 </details>
 </details>
 

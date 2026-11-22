@@ -34,6 +34,14 @@ Sage Vishvamitra starts to narrate Kusha's legend. Vishvamitra is the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tracing the royal lineage of his own ancestors, Viśvāmitra recounts how Brahmā’s son King Kuśa begot four noble sons upon the princess of Vidarbha and charged them to protect the earth and found great capitals.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मयोनिर्महानासीत् कुशो नाम महातपाः ।  
@@ -264,6 +272,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing the words of Kuśa (kuśasya vacanaṃ śrutvā), all four of those foremost of men, the best in the world (catvāro lokasattamāḥ sarve nṛvarāḥ), thereupon founded royal cities (niveśaṃ cakrire purāṇāṃ tadā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Kuśāmba founds Kauśāmbī, Kuśanābha Mahodaya, and Asūrtarajas Dharmāraṇya, Vasu builds Girivraja amidst five mountain peaks encircled like a garland by the river Sumāgadhī; and Kuśanābha begets a hundred daughters on Ghṛtācī.
 </details>
 </details>
 
@@ -683,6 +699,14 @@ Children begotten through celestial maidens are of superior nature for
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Kuśanābha’s hundred youthful daughters sing, dance, and play lutes in the royal pleasure-garden like lightning in the rains or stars among clouds, the Wind-god Vāyu beholds them and solicits them all in marriage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तास्तु यौवनशालिन्यो रूपवत्यः स्वलङ्कृताः ।  
@@ -957,6 +981,14 @@ Children begotten through celestial maidens are of superior nature for
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘For youth is ever fleeting, especially among mortal beings (calaṃ hi yauvanaṃ nityaṃ mānuṣeṣu viśeṣataḥ); winning imperishable youth, you shall become immortal goddesses as well (akṣayaṃ yauvanaṃ prāptā amaryaś ca bhaviṣyatha)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissing Vāyu’s proposal with derisive laughter, the hundred daughters of Kuśanābha warn him that they refrain from toppling him from his station only to guard their ascetic merit, and affirm that their father alone is their sovereign lord.
 </details>
 </details>
 
@@ -1242,6 +1274,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘For our father is our sovereign lord (pitā hi prabhur asmākam), and he is our supreme deity (daivataṃ paramaṃ ca saḥ); to whomsoever our father shall give us in marriage (yasya no dāsyati pitā), he alone shall be our husband (sa no bhartā bhaviṣyati)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by their refusal, the mighty Wind-god enters their bodies and bends all their limbs crooked; weeping and ashamed, the hundred maidens return to the palace, where King Kuśanābha beholds their plight in anguish.
 </details>
 </details>
 

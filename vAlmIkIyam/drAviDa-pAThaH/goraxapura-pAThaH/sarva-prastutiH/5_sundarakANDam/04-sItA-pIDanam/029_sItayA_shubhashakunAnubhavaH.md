@@ -23,6 +23,14 @@ as also her clothing slipped a bit. Feeling these omens, her consciousness was a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Auspicious portents wait upon sorrow-stricken Sītā like retainers upon a man favored by Fortune, as her lotus-like left eye, sandal-worthy left arm, and left thigh throb.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथागतां तां व्यथितामनिन्दितां  
@@ -281,6 +289,14 @@ trunk of a princely elephant was predominantly quivering, spoke indistinctly of 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And of those two closely set (saṃhatayoḥ) thighs, her plump (pīnaḥ), shapely (jātaḥ) [left] thigh (ūruḥ), resembling the trunk of a lordly elephant (gajendrahastapratimaḥ), throbbing again (praspandamānaḥ punaḥ), proclaimed (ācacakṣe) that Rāma stood right before her (purastāt sthitam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sītā’s golden garment slips slightly, she revives like a parched seed under rain, and her face shines like the moon freed from Rāhu’s jaws.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ He becomes firm in mind that She is indeed Seetha, based on Her auspicious bodil
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising the praiseworthy Sītā and Rāma who delights through his virtues, tear-eyed Hanumān laments her plight under inexorable fate while admiring her Gaṅgā-like composure and mutual worthiness with Rāghava.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रशस्य** तु प्रशस्तव्यां  
@@ -360,6 +368,14 @@ Beholding her shining like fresh gold (navahemābhām), like Śrī herself belov
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān recounts the mighty heroic deeds already accomplished for wide-eyed Sītā's sake—from Rāma's slaying of Virādha, Khara, Kabandha, and Vālin to Sugrīva's enthronement and his own ocean leap.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्या हेतोर् विशालाक्ष्या  
@@ -654,6 +670,14 @@ me; this city also has been explored."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By me too the glorious ocean, lord of rivers and streams (nadanadīpatiḥ), was crossed over, and for the sake of this wide-eyed lady this city has been searched (nirīkṣitā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān declares that the sovereignty of all three worlds does not equal a fraction of Sītā, the furrow-born daughter of Janaka and noble daughter-in-law of Daśaratha now held by rākṣasīs.
 </details>
 </details>
 
@@ -969,6 +993,14 @@ She is that beloved wife (dayitā bhāryā) of Rāma—knower of dharma, gratefu
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how Sītā joyfully entered the wilderness out of love for her husband, Hanumān compares Rāma's longing to a thirsty traveler seeking a water-pavilion and a dethroned king regaining his realm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वान् भोगान् **परित्यज्य**  
@@ -1206,6 +1238,14 @@ back the land."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surely through regaining her (asyāḥ punarlābhāt) Rāghava will attain joy, like a king fallen from sovereignty (rājyaparibhraṣṭaḥ) upon regaining the earth once more.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fixing her single-pointed heart solely upon Rāma, Sītā sees neither her demon guards nor the flowering trees, moving Hanumān himself to grief over her unmerited suffering.
 </details>
 </details>
 
@@ -1482,6 +1522,14 @@ my mind also is gloomy."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Knowing (jñātvā) this lady with dark locks of hair (asitakeśāntām) and eyes resembling hundred-petalled lotuses (śatapatranibhekṣaṇām)—who deserves happiness—to be thus afflicted, even my mind is deeply distressed (mamāpi vyathitaṃ manaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving that Sītā is guarded by hideous rākṣasīs like a frost-blighted lotus pond or a mate-bereft cakravākī under blooming aśokas and the rising moon, Hanumān sits concealed in the tree.
 </details>
 </details>
 

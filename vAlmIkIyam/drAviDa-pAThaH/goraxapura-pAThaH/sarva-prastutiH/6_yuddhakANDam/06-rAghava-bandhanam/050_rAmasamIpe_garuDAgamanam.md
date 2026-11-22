@@ -27,6 +27,14 @@ Lakshmana from their bondage.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the monkey host fleeing in sudden terror, Sugrīva questions Aṅgada and infers that some fresh peril beyond the fallen Rāghava brothers has panicked the troops.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोवाच महातेजा हरिराजो महाबलः ।  
@@ -317,6 +325,14 @@ are jostling each other and leaping over those who have fallen."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “They feel no shame (na lajjante) before one another, nor do they look back behind them (pṛṣṭhataḥ); they drag one another out of the way and leap over anyone who has fallen.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Vibhīṣaṇa arrives mace in hand to greet Sugrīva and Rāma, Sugrīva directs Jāmbavān to calm the panicked monkeys who had mistaken him for Indrajit.
 </details>
 </details>
 
@@ -640,6 +656,14 @@ Hearing the words of the king of bears and seeing that it was Vibhīṣaṇa, al
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma and Lakṣmaṇa bristling with arrows like porcupines upon the earth, Vibhīṣaṇa wipes their eyes with his water-moistened hand and laments their deceitful overthrow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणस्तु रामस्य दृष्ट्वा गात्रं शरैश्चितम् ।  
@@ -954,6 +978,14 @@ insensible, waiting for the dissolution of the body."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Those two foremost of men (puruṣarṣabhau), relying upon whose valor I had hoped for royal standing (pratiṣṭhā), now lie fast asleep unto the destruction of my life (deha-nāśāya)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing the despairing Vibhīṣaṇa, Sugrīva assures him of Laṅkā's throne and Rāvaṇa's doom, then instructs his father-in-law Suṣeṇa regarding the care of the wounded princes.
 </details>
 </details>
 
@@ -1277,6 +1309,14 @@ consciousness."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Sugrīva vows to slay Rāvaṇa himself and recover Maithilī, the physician Suṣeṇa recalls how Bṛhaspati healed the gods with divine herbs from the Milk Ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं तु रावणं हत्वा सपुत्रं सहबान्धवम् ।  
@@ -1593,6 +1633,14 @@ celestial Sanjivakarani and Vishalya, which were created by a God."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Suṣeṇa urges that Hanūmān be sent to Mounts Candra and Droṇa in the Milk Ocean, Garuḍa suddenly descends like a blazing fire amid tempestuous winds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्द्रश्च नाम द्रोणश्च क्षीरोदे सागरोत्तमे ।  
@@ -1883,6 +1931,14 @@ Vinata, like unto a blazing torch.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, within a moment (muhūrtāt), all the monkeys beheld the mighty Garuḍa, son of Vinatā (vainateyam), blazing like a fire (jvalantam iva pāvakam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the mere sight of Garuḍa, the arrow-serpents binding the two princes flee in terror, and Vinatā's son heals and embraces Rāma and Lakṣmaṇa with his touch.
 </details>
 </details>
 
@@ -2212,6 +2268,14 @@ son of Ravana. We have been made strong as before."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Feeling the comfort of a father and grandfather in his presence, Rāma asks his radiant rescuer's identity, and Garuḍa reveals himself as Rāma's external breath and friend.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा तातं दशरथं यथाजं च पितामहम् ।  
@@ -2454,6 +2518,14 @@ came here for the purpose of helping you, both."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Neither asuras of great valor, nor dānavas of mighty strength, nor even the gods together with the gandharvas headed by Śatakratu—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing that Indrajit's shafts were Kadrū's venomous serpent sons transformed by magic, Garuḍa counsels Rāma and Lakṣmaṇa to remain ever vigilant against rākṣasa treachery.
 </details>
 </details>
 
@@ -2796,6 +2868,14 @@ this reason, you should not trust the demons in battle."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Rāma and asking leave to depart, Garuḍa tells him not to probe the mystery of their eternal friendship until Rāvaṇa is slain, then soars skyward.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तदा रामं सुपर्णः स महाबलः ।  
@@ -3074,6 +3154,14 @@ speed of the wind.
 **59:** Having spoken these words and made Rāma free of pain (nīrujam) in the midst of those forest-dwellers (vanaukasām)—
 
 **60:** —the heroic Suparṇa of swift stride (śīghra-vikramaḥ) then circumambulated (pradakṣiṇaṃ kṛtvā) and embraced him, and entered the sky like the wind (pavano yathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing both Rāghava princes healed and radiant, the jubilant monkey commanders roar like midnight thunderclouds at summer's end and advance upon the gates of Laṅkā.
 </details>
 </details>
 

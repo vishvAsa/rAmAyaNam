@@ -28,6 +28,14 @@ After the heavenward journey of Sage Sharabhanga, Rama is approached by
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon Śarabhaṅga’s ascent to heaven, diverse orders of forest ascetics practicing rigorous mortifications assemble at the hermitage and approach Rāma of blazing splendour.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरभङ्गे दिवं प्राप्ते मुनिसङ्घाः समागताः ।  
@@ -295,6 +303,14 @@ All have Vedic resplendence and firm yogic control, and they have arrived at the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —all endowed with Brāhmic lustre (brāhmyā śriyā yuktāḥ) and absorbed in firm yoga (dṛḍha-yoga-samāhitāḥ), those ascetics approached Rāma in the hermitage of Śarabhaṅga.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Rāma’s renown, filial devotion, and sovereignty over the earth, the sages remind him of a monarch’s sacred duty to protect his subjects like his own cherished sons.
 </details>
 </details>
 
@@ -650,6 +666,14 @@ Special supplication to god is a waste. His mercy has to flows on its own
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that a righteous king earns one-fourth of the ascetics’ spiritual merit, the sages implore Rāma to behold the mangled bodies of hermits slain by rākṣasas along the Pampā and Mandākinī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युञ्जानः स्वानिव प्राणान् प्राणैरिष्टान् सुतानिव ।  
@@ -941,6 +965,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A great slaughter (kadanam mahat) is being wrought upon those dwelling by the river Pampā, along the Mandākinī (anumandākinīm api), and among those whose abode is Citrakūṭa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to endure the terrible persecution of their fellow ascetics, the sages take refuge in Rāma as their sole sanctuary, and Rāma replies that he is theirs to command.
 </details>
 </details>
 
@@ -1248,6 +1280,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “You ought not to address me thus; I am to be commanded (ājñāpyo’ham) by ascetics! By my own duty alone (kevalena svakāryeṇa) had this forest to be entered by me—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that his forest exile will bear great fruit through the destruction of the rākṣasas, Rāma grants fearlessness to the ascetics and proceeds with them toward Sutīkṣṇa’s hermitage.
 </details>
 </details>
 

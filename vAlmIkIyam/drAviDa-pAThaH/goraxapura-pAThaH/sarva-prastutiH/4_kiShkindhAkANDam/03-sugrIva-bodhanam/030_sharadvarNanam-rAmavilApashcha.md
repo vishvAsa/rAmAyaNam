@@ -35,6 +35,14 @@ traditional versions, as age-old commentators have commented on them at length.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sugrīva retires to his palace and the autumn sky clears of monsoon clouds, Rāma, tormented by longing and grief on the mountain crest, faints and laments for Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहं प्रविष्टे सुग्रीवे विमुक्ते गगने घनैः ।  
@@ -310,6 +318,14 @@ he soliloquised his thoughts in this way. [4-30-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seated upon the crest of the mountain (parvatasyāgre) adorned with golden mineral veins (hema-dhātu-vibhūṣite), he gazed at the autumnal sky (śāradaṃ gaganam) and went in mind (jagāma manasā) to his beloved.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Sītā's delight in the calls of cranes, swans, and paired cakravāka birds, Rāma grieves over how autumn's splendors must torment his delicate bride in captivity.
 </details>
 </details>
 
@@ -681,6 +697,14 @@ her side.'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surely love (kāmaḥ), intensified unceasingly by the splendors of autumn (śarad-guṇa-nirantaraḥ), must grievously torment (sudūraṃ pīḍayet) that noble lady (bhāminīm), both from separation from me (mad-viyogāc ca) and from her extreme delicacy (saukumāryāc ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning from the mountain slopes with gathered fruits, Lakṣmaṇa finds Rāma distraught in solitude and exhorts him to cast off despondency, rouse his manly valor, and pursue vigorous action.
 </details>
 </details>
 
@@ -1073,6 +1097,14 @@ Rama. [4-30-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acknowledging Lakṣmaṇa's wise and righteous counsel, Rāma resolves upon action yet turns again with parched lips to describe the spent rainclouds and Indra's completed monsoon work.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सलक्षणं लक्ष्मणमप्रधृष्यं  
@@ -1405,6 +1437,14 @@ worthwhile.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Dark as the petals of blue water-lilies (nīlotpala-dala-śyāmāḥ), having darkened all ten directions (śyāmīkṛtvā diśo daśa), the rainclouds (payodharāḥ) now have their impetuosity stilled (śāntavegāḥ), like rutting elephants whose frenzy has subsided (vimadā iva mātaṅgāḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma portrays the onset of autumn: rain-winds and mountain torrents fall silent, moonbeams bathe the peaks, and autumn's splendor blooms across saptacchada groves and lotus beds.
 </details>
 </details>
 
@@ -1768,6 +1808,14 @@ glistening. [4-30-30]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Fragrant with the blossoms of saptacchada trees (saptacchadānāṃ kusumopagandhī), sung to by swarms of bees (ṣaṭpāda-vṛndair anugīyamānaḥ), and coursing with the breeze (pavanānusārī), [the autumn season] shines exceedingly (adhikaṃ vibhāti), about to humble the pride (darpaṃ vineṣyan) of rutting elephants (matta-dvipānām).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swans sport with cakravāka birds on river sandbanks, peacocks shed their plumes in dejection, priyaka trees glow like gold, and clear skies herald the close of rains.
 </details>
 </details>
 
@@ -2170,6 +2218,14 @@ directions released from the darkness are looking bright. [4-30-36]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Clear is the sky (vyaktaṃ nabhaḥ), bearing the hue of a burnished weapon (śastra-vidhauta-varṇam); slender are the currents of the river waters (kṛśapravāhāni nadījalāni); breezes blow cool from white water-lilies (kahlāra-śītāḥ pavanāḥ pravānti); and the quarters, freed from darkness, shine bright (tamo-vimuktāś ca diśaḥ prakāśāḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the sun dries the mud into thick dust for warring kings, bulls bellow in the herds, she-elephants follow their mates, and swans descend upon clear rivers.
 </details>
 </details>
 
@@ -2581,6 +2637,14 @@ rivers swans are delightedly taking deep dives. [4-30-42]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Frogs fall silent, famished serpents emerge from their holes, twilight slips from the sky like an enamored woman, and moonlit lakes mirror the starry night.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नदीघनप्रस्रवणोदकाना-  
@@ -2961,6 +3025,14 @@ cloud.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With a single sleeping swan (suptaikahaṃsam) and blooming white night-lotuses (kumudair upetam), the water resting in the great deep pool (mahāhradasthaṃ salilam) shines like the nocturnal firmament freed of clouds (ghanair vimuktaṃ niśi antarikṣam), graced with the full moon (pūrṇacandram) and strewn with multitudes of stars (tārāgaṇākīrṇam iva).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lotus-garlanded ponds rival adorned women, morning flutes and churning-pots blend with lowing cattle, kāśa blossoms whiten riverbanks, and slow streams resemble languid brides.
 </details>
 </details>
 
@@ -3365,6 +3437,14 @@ in the early morning of next day, after a nightlong romancing with their lovers.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+River-mouths resemble brides' faces, Kāma wields his bow in the flowering woods, shrinking autumn streams bare their sandbanks like shy brides, and kings' campaigning season arrives.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सचक्रवाकानि सशैवलानि  
@@ -3730,6 +3810,14 @@ details.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though the first royal campaigning month has arrived and four monsoon months have passed like a hundred years, Rāma laments that Sugrīva shows neither effort nor compassion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं सा प्रथमा यात्रा पार्थिवानां नृपात्मज ।  
@@ -4062,6 +4150,14 @@ such as I am Lakshmana, king Sugreeva is not benevolent to me. [4-30-66]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stung by Sugrīva's ingratitude once his own royal ends are met, Rāma bids Lakṣmaṇa enter Kiṣkindhā and contrast the vilest promise-breaker with the noblest hero of truth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनाथो हृतराज्योऽहं रावणेन च धर्षितः ।  
@@ -4376,6 +4472,14 @@ not heedful of it, then the 'word-of-honour' conflict occurs.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma declares that even carrion-eaters spurn the corpses of ungrateful friends, and warns that Sugrīva will soon behold his lightning-like golden bow and thunderous bowstring.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतार्था ह्यकृतार्थानां मित्राणां न भवन्ति ये ।  
@@ -4676,6 +4780,14 @@ Sugreeva is not recognising, as his ends are achieved. [4-30-77]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That purpose for which (yadartham) this enterprise (ayam ārambhaḥ) was undertaken (kṛtaḥ), O conqueror of hostile citadels (parapuraṃjaya)—the pact regarding it (samayam) the lord of monkeys, his own wish fulfilled (kṛtārthaḥ plavageśvaraḥ), no longer remembers (nābhijānāti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Condemning Sugrīva for carousing with his ministers while four months slip by, Rāma commands Lakṣmaṇa to warn him that the path by which Vālin perished is not closed.
 </details>
 </details>
 
@@ -5136,6 +5248,14 @@ not tapered off, as such do not tread Vali's path. [4-30-81]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “ `That path by which Vālin went when slain (yena vālī hato gataḥ) is not narrowed or closed (na sa saṃkucitaḥ panthāḥ)! Abide by your pact, O Sugrīva (samaye tiṣṭha sugrīva); do not follow Vālin's path (mā vālipatham anvagāḥ)!' ”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatening to slay the oath-breaking Sugrīva along with all his kinsmen, Rāma dispatches Lakṣmaṇa in haste; beholding his brother's grief, fiery Lakṣmaṇa resolves fiercely against the monkey king.
 </details>
 </details>
 

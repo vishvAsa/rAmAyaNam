@@ -13,6 +13,14 @@ title = "०४५ सीता-विसर्जनादेशः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With parched countenance, Rāma reveals to his dejected brothers the loathsome public scandal piercing his vitals, recalling the noble houses of Ikṣvāku and Janaka, Sītā’s abduction in Daṇḍaka, and his own earlier misgiving in Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां समुपविष्टानां सर्वेषां दीनचेतसाम् ।  
@@ -205,6 +213,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Affirming Sītā’s spotless purity—attested by Agni, Vāyu, Moon, Sun, and Indra in Laṅkā and known to his own inner self—Rāma nonetheless laments the immense public slander that drags any living being down to the lowest worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्ययार्थं ततः सीता विवेश ज्वलनं तदा ।  
@@ -371,6 +387,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that great souls live for renown and that he would sacrifice even his own life or brothers to escape infamy, Rāma commands Lakṣmaṇa to drive Sītā at dawn across the Gaṅgā and leave her near Vālmīki’s Tamasā hermitage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकीर्तिर्निन्द्यते देवैः कीर्तिर्लोकेषु पूज्यते ॥ १३ ॥  
@@ -526,6 +550,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “On the far bank of the Gaṅgā (gaṅgāyās tu pare pāre) stands the hermitage of the high-souled Vālmīki (vālmīkes tu mahātmanaḥ), splendid as a celestial abode (āśramo divya-saṅkāśaḥ), situated along the bank of the Tamasā (tamasā-tīram āśritaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forbidding all argument and binding his brothers by an oath upon his arms and life, Rāma bids them honor Sītā’s own prior wish to visit the Gaṅgā hermitages; his face veiled in tears, he retires sighing like an elephant.
 </details>
 </details>
 

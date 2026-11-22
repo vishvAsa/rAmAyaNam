@@ -50,6 +50,14 @@ his head.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rallied by Aṅgada's words and resolved to fight to the death, the monkey hosts charge Kumbhakarṇa with trees and crags, only to be felled in thousands by his mace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते निवृत्ता महाकायाः श्रुत्वाङ्गदवचस्तदा ।  
@@ -303,6 +311,14 @@ scattered on the ground.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck down by Kumbhakarṇa, seven hundred and eight thousand monkeys lay scattered (prakīrṇāḥ) upon the ground.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Kumbhakarṇa devours monkeys by the score like Garuḍa eating serpents, Dvivida hurls mountain peaks that miss the giant but crush the surrounding rākṣasa host.
 </details>
 </details>
 
@@ -585,6 +601,14 @@ horses and charioteers killed, became dampened with blood.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck by the momentum of those crags (śailavegābhihatam), with its horses and charioteers slain, the vast battlefield of the rākṣasas became drenched in blood (rudhiraklinnam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Kumbhakarṇa shatters the boulders and trees rained down from the sky by Hanūmān, the wind-god's son confronts his charge and staggers him with a mountain peak.
 </details>
 </details>
 
@@ -888,6 +912,14 @@ was stumbled with a sprinkling of blood and with his limbs succulent with flesh.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Enraged, he struck Kumbhakarṇa—whose dreadful body matched the loftiest mountain—with great force; overwhelmed by that [blow], the demon reeled (saṃcukṣubhe), his limbs slick with fat and drenched in blood (rudhirāvasiktaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kumbhakarṇa wounds Hanūmān in the chest with his blazing lance like Guha splitting Mount Krauñca, shatters Nīla's hurled peak with his fist, and faces five monkey chiefs.
 </details>
 </details>
 
@@ -1212,6 +1244,14 @@ Gandhamadana marched ahead quickly towards Kumbhakarna.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shrugging off the blows of the five monkey commanders as mere caresses, Kumbhakarṇa crushes Ṛṣabha in his arms and fells the others like scarlet kiṃśuka trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलैर्वृक्षैस्तलैः पादैर्मुष्टिभिश्च महाबलाः ।  
@@ -1489,6 +1529,14 @@ blood, were bewildered and fell down on the ground, like chopped off Kimsuka tre
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When those great-souled monkey chiefs had been struck down (pātiteṣu), thousands of monkeys rushed at Kumbhakarṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swarming over the mountain-like Kumbhakarṇa like trees upon a peak, thousands of monkeys bite and pummel him, only to be swallowed and emerge from his nostrils and ears.
 </details>
 </details>
 
@@ -1792,6 +1840,14 @@ monkeys again came out from his nostrils and ears.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Devouring the monkeys in fierce rage, the mountain-like foremost of rākṣasas furiously crushed all the monkeys.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raging through the monkey ranks like a summer wildfire or Yama noose in hand, Kumbhakarṇa drives the terrified host to seek refuge in Rāma until Aṅgada charges forward.
 </details>
 </details>
 
@@ -2119,6 +2175,14 @@ Seeing the monkeys routed (prabhagnān), the grandson of the thunderbolt-wielder
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada smashes a mountain peak onto Kumbhakarṇa's head, nimble-footedly dodges the giant's hurled lance, and leaps up to stun him with a palm-blow to the chest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलशृङ्गं महद् गृह्य विनदन् स मुहुर्मुहुः ।  
@@ -2361,6 +2425,14 @@ monkeys, who was skilled in war-fare, avoided it with his alacrity.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Leaping up with speed, he struck him on the chest with his open palm (talena); struck by that [blow], the mountain-like demon swooned (pramumoha) in wrath.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recovering from Aṅgada's blow, Kumbhakarṇa knocks Vālin's son senseless with a backhanded fist and charges Sugrīva, who leaps up brandishing a mountain peak to confront him.
 </details>
 </details>
 
@@ -2662,6 +2734,14 @@ Beholding Kumbhakarṇa standing there—his limbs smeared with monkey blood (ka
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Challenging Kumbhakarṇa to leave the common troops and withstand a single blow, Sugrīva hurls a mountain peak that shatters harmlessly against the giant's broad chest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पातिताश्च त्वया वीराः कृतं कर्म सुदुष्करम् ।  
@@ -2936,6 +3016,14 @@ Indra's thunderbolt.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That mountain peak suddenly shattered (vibhinnam) against his broad chest; thereupon the monkeys suddenly sank into dejection (viṣeduḥ), while the rākṣasa hosts roared with joy.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Kumbhakarṇa hurls his iron lance at Sugrīva, Hanūmān leaps into the air and snaps it across his knee, prompting the enraged giant to fell Sugrīva with a peak.
 </details>
 </details>
 
@@ -3279,6 +3367,14 @@ Seeing that lance broken thus, the great-souled lord of rākṣasas flew into a 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knocking Sugrīva unconscious with the crag, Kumbhakarṇa carries the cloud-dark monkey king toward Laṅkā like Mount Meru bearing a peak, convinced his capture dooms Rāma's army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शैलशृङ्गाभिहतो विसञ्ज्ञः  
@@ -3587,6 +3683,14 @@ Kumbhakarna the valiant chief of demons, sallied forth.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Taking that Indra-like lord of monkeys then, he of Indra's valor—that foe of Indra (indraśatruḥ)—thought: “When this one is slain (asmin hate), this entire army along with Rāghava will be destroyed!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān first resolves to swell to mountain size and slay Kumbhakarṇa to free Sugrīva, but reflects that the monkey king will soon awaken and liberate himself.
 </details>
 </details>
 
@@ -3920,6 +4024,14 @@ the blow of a mountain in the battle."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In a moment (muhūrtāt) this Sugrīva will regain consciousness (labdhasaṃjñaḥ) in the great battle and will do what is salutary (pathyam) for himself and for the monkeys.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lest rescuing Sugrīva tarnish the king's renown, Hanūmān rallies the troops while Kumbhakarṇa enters Laṅkā amid showers of flowers and scented water that revive his captive.
 </details>
 </details>
 
@@ -4266,6 +4378,14 @@ Having with difficulty regained consciousness while held against the chest (bhuj
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clawing off Kumbhakarṇa's ears and biting off his nose, Sugrīva is dashed to the ground by the bleeding giant, only to bounce into the sky like a ball and rejoin Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं गृहीतेन कथं नु नाम  
@@ -4585,6 +4705,14 @@ mountain with its streaming cascades.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Drenched in blood, that colossal rākṣasa of dreadful aspect (bhīmadarśanaḥ)—the night-stalker—once again set his mind (manaś cakre) upon turning back to battle.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crimsoned with blood like a twilight storm-cloud, Kumbhakarṇa seizes a dreadful iron club and devours monkeys, bears, and rākṣasas alike in a frenzied rampage.
 </details>
 </details>
 
@@ -4918,6 +5046,14 @@ Streaming then with fat and blood (medaḥ śoṇitaṃ ca), the mighty one, eve
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Draped in knotted garlands of entrails as terrified monkeys flee to Rāma for refuge, Kumbhakarṇa is confronted by an enraged Lakṣmaṇa with volleys of arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते भक्ष्यमाणा हरयो रामं जग्मुस्तदा गतिम् ।  
@@ -5231,6 +5367,14 @@ Tormented, that rākṣasa rendered that special missile of his ineffective [wit
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shrouding Kumbhakarṇa's golden armor in a storm of shafts, fearless Lakṣmaṇa wins the giant's disdainful praise for standing where even Indra fled.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथास्य कवचं शुभ्रं जाम्बूनदमयं शुभम् ।  
@@ -5540,6 +5684,14 @@ great battle here, is venerable. What to tell about a person who bestows battle 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased by Lakṣmaṇa's youthful valor yet bent on slaying Rāma alone, Kumbhakarṇa is directed by a mocking Lakṣmaṇa toward Daśaratha's immovable son.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य त्वयाहं सौमित्रे बालेनापि पराक्रमैः ।  
@@ -5798,6 +5950,14 @@ Lakshmana as though bursting with laughter, spoke the following extremely terrif
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That you, having attained manly might, could not be withstood (asahyaḥ) by the gods headed by Śakra—that is true, O warrior, not otherwise; your valor has been witnessed today!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bypassing Lakṣmaṇa to charge Rāma, Kumbhakarṇa is struck in the chest by Rāma's peacock-plumed Raudra shafts, spewing coals of fire and dropping his mace.
 </details>
 </details>
 
@@ -6125,6 +6285,14 @@ And all his weapons were scattered upon the ground; when that mighty one deemed 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disarmed and streaming with gore like a mountain cascade, Kumbhakarṇa hurls a Meru-like crag at Rāma, who shatters it in mid-air with seven shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बाणैरतिविद्धाङ्गः क्षतजेन समुक्षितः ।  
@@ -6411,6 +6579,14 @@ gold.
 **125:** Thereupon righteous-souled Rāma, elder brother of Bharata, shattered that huge crag of his with arrows whose shafts were variegated with gold (kāñcanacitrāṅgaiḥ).
 
 **126:** Resembling a peak of Mount Meru and blazing, as it were, with splendor, that [crag], as it fell (patamānam), crushed down two hundred Vānaras.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Advised by Lakṣmaṇa to weigh down the blood-drunk giant, the Vānara chiefs swarm up Kumbhakarṇa's body, only to be shaken off like mahouts by a rogue elephant.
 </details>
 </details>
 
@@ -6716,6 +6892,14 @@ Mounted by the monkeys, however, Kumbhakarṇa grew furious and violently shook 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the monkeys shaken off, red-eyed Rāma seizes his gold-inlaid serpent-like bow and advances with Lakṣmaṇa against the diademed giant rampaging like a quarter-elephant.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् दृष्ट्वा निर्धुतान् रामो रुष्टोऽयमिति राक्षसम् ।  
@@ -6993,6 +7177,14 @@ duly marched forward, surrounded by those troops of monkeys.
 **137:** The mighty one beheld gigantic Kumbhakarṇa, the diadem-crowned (kirīṭinam) tamer of foes, whose red eyes were drenched in blood (śoṇitāplutaraktākṣam),—
 
 **138:** —charging at everyone like an enraged quarter-elephant (diśāgajam), hunting down the monkeys in fury, and surrounded by rākṣasas,—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing his survey of the blood-licking colossus, Rāma twangs his bow to provoke Kumbhakarṇa's charge and proclaims his imminent doom within the hour.
 </details>
 </details>
 
@@ -7328,6 +7520,14 @@ tolerating that sound, ran towards Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laughing like thunder, Kumbhakarṇa boasts that he is no Virādha, Khara, or Vālī, brandishes his black-iron club, and dares Rāma to strike his limbs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामोऽयमिति विज्ञाय जहास विकृतस्वनम् ।  
@@ -7611,6 +7811,14 @@ the demons were conquered by me before."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Display your prowess upon my limbs, O sinless tiger of the Ikṣvākus; thereafter, once I have witnessed your manly valor (dṛṣṭapauruṣavikramam), I shall devour you!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unfazed by shafts of the kind that pierced the sāla trees and slew Vālī, Kumbhakarṇa whirls his iron club until Rāma's Vāyavya missile severs his arm.
 </details>
 </details>
 
@@ -7945,6 +8153,14 @@ the great army of celestials, in terrific speed, that demon scared away the army
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That arm of his, resembling a mountain peak, severed along with the club by Rāghava's shaft, fell into that army of the monkey king and crushed that Vānara host.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As battered monkeys watch from the sidelines, Rāma severs Kumbhakarṇa's remaining tree-wielding arm with the Aindra missile and slices off both his feet with crescent shafts.
 </details>
 </details>
 
@@ -8309,6 +8525,14 @@ And those two feet of his crashed down, making the intermediate quarters, the ca
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging on his thigh-stumps like Rāhu at the moon, Kumbhakarṇa has his gaping maw crammed with arrows before Rāma launches the sun-bright Aindra shaft.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकृत्तबाहुर्विनिकृत्तपादो  
@@ -8567,6 +8791,14 @@ creation as also the destructive Kala, the Time-Spirit, and having its speed equ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Propelled by Rāghava's arm and illuminating the ten directions with its own radiance, that arrow—dreadful to behold like smokeless fire (vidhūmavaiśvānarabhīmadarśanaḥ) and terrible in its might like Śakra's thunderbolt—sped forth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like Indra decapitating Vṛtra, Rāma severs Kumbhakarṇa's mountain-like head, which smashes Laṅkā's gates and ramparts while his headless trunk plunges into the sea.
 </details>
 </details>
 
@@ -8852,6 +9084,14 @@ rampart.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When that mighty Kumbhakarṇa, the enemy of Brāhmaṇas and gods (brāhmaṇadevaśatrau), was slain in battle, the earth quaked along with all the mountains, and the gods roared tumultuously with joy.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining like the sun freed from Rāhu's jaws while celestials rejoice and lotus-faced Vānaras acclaim him, Rāma exults like Indra over the fallen Vṛtra.
 </details>
 </details>
 

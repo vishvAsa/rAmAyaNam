@@ -28,6 +28,14 @@ Amshuman's search for horse reveals that Kapila rendered his paternal-uncles
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Realizing that his sixty thousand sons have been gone long, King Sagara dispatches his radiant grandson Aṃśumān, armed with bow and sword, to trace his uncles and recover the sacrificial horse.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रांश्चिरगतान् ज्ञात्वा सगरो रघुनन्दन ।  
@@ -291,6 +299,14 @@ When the great-souled king Sagara has thoroughly said in this way,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus duly instructed by the high-souled Sagara (evam ukto ’ṃśumān samyak sagareṇa mahātmanā), Aṃśumān, swift of stride (laghuvikramaḥ), took up his bow and sword (dhanur ādāya khaḍgaṃ ca) and set forth (jagāma).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the subterranean passage excavated by his uncles, Aṃśumān reverently circumambulates and questions the directional elephants in due order, receiving their blessing that he will swiftly return with the horse.
 </details>
 </details>
 
@@ -601,6 +617,14 @@ All the elephants that safeguard the directions of earth which have
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Discovering his sixty thousand uncles reduced to heaps of ashes beside the grazing sacrificial horse, the grief-stricken Aṃśumān searches in vain for water to offer them libations until he beholds their maternal uncle Garuḍa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा जगाम लघुविक्रमः ।  
@@ -907,6 +931,14 @@ That great-mighty son of Lady Vinata, namely Garuda, also spoke this
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Garuḍa reveals that since the princes were incinerated by the immeasurable Sage Kapila, ordinary earthly water cannot purify them; only when Himavān’s eldest daughter Gaṅgā drenches their ashes will the sixty thousand sons ascend to heaven.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कपिलेनाप्रमेयेण दग्धा हीमे महाबलाः ।  
@@ -1175,6 +1207,14 @@ On hearing the words of that great-winged eagle, Garuda, he that highly
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing the words of Suparṇa (suparṇavacanaṃ śrutvā), that Aṃśumān of supreme valor and great asceticism (so ’ṃśumān ativīryavān mahātapāḥ) swiftly took the horse and returned once more (tvaritaṃ hayam ādāya punar āyāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning to the initiated King Sagara, Aṃśumān reports his uncles’ fate and Garuḍa’s counsel; Sagara completes the horse-sacrifice and reigns for thirty thousand years before ascending to heaven without finding a way to bring down Gaṅgā.
 </details>
 </details>
 

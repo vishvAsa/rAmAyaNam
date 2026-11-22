@@ -23,6 +23,14 @@ father's wish and his decision to go to forest. He then askes her to stay in Ayo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadfast in dharma after Kausalyā’s benedictions, Rāma proceeds along the royal highway to his palace, where Sītā—unaware of his exile and awaiting his consecration—rises trembling at his grief-stricken aspect.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अभिवाद्य** तु कौसल्यां  
@@ -317,6 +325,14 @@ sorrow, his mind perturbed with anxiety.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rising up swiftly from her seat (samutpatya) and trembling (vepamānā), Sītā beheld her husband tormented by grief (śoka-santaptam) and his senses agitated by anxious thought (cintā-vyākulitendriyam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to conceal his inward sorrow on beholding Sītā, Rāma stands pale and perspiring; Sītā anxiously asks why no royal umbrella, chowries, or panegyrists attend him on this auspicious Puṣya day.
 </details>
 </details>
 
@@ -642,6 +658,14 @@ poems and ancient ballads ) are seen here , praising you with auspicious words .
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā asks why Vedic Brahmins have not anointed Rāma’s crown with honey and curds, why the ministers, guild-chiefs, state chariot, royal elephant, and golden throne do not attend him, and why his face is pale.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ते क्षौद्रं च दधि च ब्राह्मणा वेदपारगाः ।  
@@ -960,6 +984,14 @@ Even happiness is not being seen (in you). Why is it?
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gently addressing Sītā by her noble lineage and virtue, Rāma reveals that King Daśaratha, bound by two ancient boons granted to Kaikeyī, has appointed Bharata as regent and exiled him for fourteen years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतीव विलपन्तीं तां प्रोवाच रघुनन्दनः ।  
@@ -1223,6 +1255,14 @@ prince by my father
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For fourteen years (caturdaśa hi varṣāṇi) I must dwell in the Daṇḍaka forest (vastavyaṃ daṇḍake mayā); and Bharata has been appointed by my father to the regency (yauvarājye niyojitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Sītā that men in power cannot brook another’s praise, Rāma counsels her to live in compliant harmony with Bharata and King Daśaratha and to devote herself to vows and fasting while he is in the forest.
 </details>
 </details>
 
@@ -1514,6 +1554,14 @@ the sages, you can become interested in religious vows and fastings.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma instructs Sītā to rise at dawn to worship the gods, bow to King Daśaratha, honour grief-stricken Kausalyā and his other mothers equally, cherish Bharata and Śatrughna, and never displease the new king.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कल्यमुत्थाय देवानां कृत्वा पूजां यथाविधि ।  
@@ -1773,6 +1821,14 @@ Hence, you should not do what is displeasing to him at any time.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Nor must anything displeasing to Bharata ever be done (vipriyaṃ ca na kartavyaṃ bharatasya kadācana); for he is both the king and the lord of the realm and of our royal house, O Vaidehī (deśasya ca kulasya ca)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Sītā that kings cast off even their own sons if they act unfavourably while embracing capable strangers, Rāma bids her remain in Ayodhyā in obedience to Bharata while he departs for the great forest.
 </details>
 </details>
 

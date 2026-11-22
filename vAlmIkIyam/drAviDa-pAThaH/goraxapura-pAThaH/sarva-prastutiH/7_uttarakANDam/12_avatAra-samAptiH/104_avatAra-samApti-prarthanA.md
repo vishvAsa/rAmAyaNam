@@ -13,6 +13,14 @@ title = "१०४ अवतार-समाप्ति-प्रर्थन�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing himself as Time, Rāma’s own son born of māyā in his primordial state, the envoy delivers Pitāmaha’s message, recalling how the Lord once withdrew the worlds, reclined upon the waters, and generated Brahmā, Ananta, and Madhu-Kaiṭabha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृणु राजन् महासत्त्व यदर्थमहमागतः ।  
@@ -176,6 +184,14 @@ _________________
 **5:** “‘Then, having generated through your māyā the hooded serpent Ananta reclining upon the waters (bhogavantaṃ ... nāgam anantam udakeśayam), and also two beings of great might (dvau ca sattvau mahābalau)—
 
 **6:** “‘—both Madhu and Kaiṭabha (madhuṃ ca kaiṭabhaṃ caiva), with whose heaps of bones covered over (yayor asthi-cayair vṛtā), this earth crowded with mountains became Medinī (iyaṃ parvata-sambādhā medinī cābhavan mahī)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Continuing Brahmā’s message, Kāla recounts how the Lord birthed Brahmā in his navel-lotus, assumed Viṣṇu-hood and Upendra’s form at his prayer to protect the worlds, and finally resolved upon mortal birth to slay Rāvaṇa.
 </details>
 </details>
 
@@ -346,6 +362,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāma’s self-appointed term of eleven thousand years among mortals is now complete, Brahmā through Kāla leaves him wholly free either to remain longer protecting his subjects or to return to heaven and reassure the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशवर्षसहस्राणि दशवर्षशतानि च ।  
@@ -447,6 +471,14 @@ _________________
 **14:** “‘If you desire, O great king, to attend upon your subjects still longer (bhūyo ... prajā icchasy upāsitum), then dwell on, O hero—blessings be upon you (vasa vā vīra bhadraṃ te)! Thus has the Grandfather spoken (evam āha pitāmahaḥ).
 
 **15:** “‘Or if your desire is to attain the world of the gods (atha vā vijigīṣā te suralokāya), O Rāghava, let the deities, having Viṣṇu as their protector (sanāthā viṣṇunā devāḥ), become freed from all feverish care (bhavantu vigata-jvarāḥ)!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling with joy at Brahmā’s wondrous message, Rāma affirms that his incarnation was solely for the welfare of the three worlds and that he will gladly return to his primordial source without hesitation.
 </details>
 </details>
 

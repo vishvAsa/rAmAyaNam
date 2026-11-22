@@ -24,6 +24,14 @@ Rama's virtues.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing the royal assembly in a voice resonant as a kettledrum and a thundercloud, King Daśaratha recalls how the Ikṣvāku monarchs and he himself have tirelessly protected the realm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः परिषदं सर्वामामन्त्र्य वसुधाधिपः ।  
@@ -274,6 +282,14 @@ with alertness and to the best of my ability."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Following the path trodden by my ancestors (ācaritaṃ pūrvaiḥ panthānam), I too, ever sleeplessly vigilant (nityam anidreṇa), have protected the subjects to the utmost of my power (yathā-śakti).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Worn out by thousands of years bearing the heavy yoke of righteous rule beneath the white royal umbrella, Daśaratha proposes to consecrate his eldest son Rāma as Prince Regent under the Puṣya asterism.
 </details>
 </details>
 
@@ -581,6 +597,14 @@ prince."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Tomorrow morning (prātaḥ), I shall appoint to the office of Prince Regent (yauvarājye niyoktāsmi) that bull among men, the foremost of upholders of dharma, conjoined with the auspicious asterism Puṣya like the moon (candram iva puṣyeṇa yuktam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that even the three worlds would be richly lorded with Rāma as their protector, Daśaratha invites impartial deliberation, and the assembly acclaims his speech like peacocks greeting a rain-cloud.
 </details>
 </details>
 
@@ -892,6 +916,14 @@ Then there arose a deep, affectionate reverberation (snigdho 'nunādaḥ) impell
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unanimously endorsing the king’s proposal, the Brāhmaṇas, generals, citizens, and provincials urge Daśaratha to consecrate Rāma so they may behold him riding the state elephant beneath the royal umbrella, whereupon the king asks why they desire Rāma’s rule.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य धर्मार्थविदुषो भावमाज्ञाय सर्वशः ।  
@@ -1152,6 +1184,14 @@ after hearing my words. Inform your real opinion in this matter."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O kings, since upon merely hearing my speech you desire Rāghava as your lord, this doubt (saṃśayo 'yaṃ me) arises in me—declare this to me according to the truth (tattvataḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by Daśaratha as to why they wish to see Rāma as Prince Regent while he himself rules righteously, the assembled kings and citizens extol Rāma’s divine virtues, declaring that Dharma and Śrī proceed directly from him.
 </details>
 </details>
 
@@ -1471,6 +1511,14 @@ of forgiveness; equal to Brihaspati in wisdom and verily to Devendra in valour."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The assembly praises Rāma’s truthfulness, forgiving and consoling nature, service to learned Brāhmaṇas, mastery of all divine and mortal weapons, and supreme skill in the science of music.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मज्ञः सत्यसन्धश्च शीलवाननसूयकः ।  
@@ -1742,6 +1790,14 @@ victory."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Never returning from battle without victory alongside Lakṣmaṇa, Rāma affectionately inquires after the household welfare of every citizen like a father and shares in all their sorrows and festivals.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्ग्रामात् पुनरागत्य कुञ्जरेण रथेन वा ॥ ३७ ॥  
@@ -1969,6 +2025,14 @@ an orator like Brihaspati by his replies and rejoinders."
 **41:** “while in all their festive celebrations (utsaveṣu ca sarveṣu) he rejoices whole-heartedly like a father (piteva parituṣyati). Truth-speaking, a wielder of the mighty bow (maheṣvāsaḥ), a server of elders, and of subdued senses,”
 
 **42:** “speaking always with a gentle smile first (smita-pūrvābhibhāṣī), devoted to dharma with his whole soul, a true bestower of blessings (samyag yoktā śreyasām), he takes no pleasure in contentious wrangling (na vigṛhya-kathā-ruciḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comely as Lord Viṣṇu himself with shapely brows and large lotus-red eyes, Rāma is capable of ruling all three worlds, punishing only the guilty and bestowing wealth upon the deserving.
 </details>
 </details>
 
@@ -2256,6 +2320,14 @@ valour, who is equal to presiding deities like Devendra, to be their lord."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The Earth (medinī) longs for that Rāma as her sovereign lord—endowed with such virtues, of unfailing prowess, and equal to the Guardians of the World (lokapālopamam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing Rāma to Kaśyapa the son of Marīci, the assembly declares that all beings—and every woman, old and young, at dawn and dusk—pray to the gods for Rāma’s strength, long life, and immediate consecration.
 </details>
 </details>
 

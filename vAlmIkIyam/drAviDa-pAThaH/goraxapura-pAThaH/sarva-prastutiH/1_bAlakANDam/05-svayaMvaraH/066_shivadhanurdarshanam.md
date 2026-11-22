@@ -30,6 +30,14 @@ endnote.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At clear dawn, King Janaka summons and honours Viśvāmitra together with Rāma and Lakṣmaṇa, whereupon the sage requests that the two young princes be shown the supreme bow kept in Mithilā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभाते विमले कृतकर्मा नराधिपः ।  
@@ -216,6 +224,14 @@ are desirous to see that marvellous bow which has a place with you... [1-66-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “These two sons of Daśaratha, Kṣatriyas renowned throughout the worlds (kṣatriyau lokaviśrutau), desire to behold that supreme bow which abides here with you (draṣṭukāmau dhanuḥśreṣṭhaṃ yad etat tvayi tiṣṭhati).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra asks Janaka to show the bow to the princes, and Janaka recounts how Lord Śiva drew it in wrath at the destruction of Dakṣa’s sacrifice before being propitiated by the gods.
 </details>
 </details>
 
@@ -511,6 +527,14 @@ Bhava, namely Shiva, the God of Gods is gladdened... [1-66-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thereupon, O foremost of sages, all the gods, downcast in heart (vimanasaḥ sarve devāḥ), propitiated the Lord of the Gods (prasādayanta deveśam); and Bhava (Śiva) grew pleased with them (teṣāṃ prīto ’bhavad bhavaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka relates how the bow was deposited with his ancestor, how the womb-unborn maiden Sītā rose from the furrow as he plowed the sacrificial ground, and how he established valour as her bride-price.
 </details>
 </details>
 
@@ -820,6 +844,14 @@ the calibre [of the bow, vis-a-vis their own...] [1-66-17b, 18a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Śiva’s bow is brought forth to test the assembled kings, none can even grasp or lift it; rejected by Janaka and smarting from humiliation, the enraged monarchs lay siege to Mithilā for a full year.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां जिज्ञासमानानां शैवं धनुरुपाहृतम् ॥ १८ ॥  
@@ -1114,6 +1146,14 @@ a decline, oh, eminent sage, thereby I am highly anguished [1-66-22b, 23a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—filled with mighty rage, harassed the city of Mithilā (roṣeṇa mahatāviṣṭāḥ pīḍayan mithilāṃ purīm). Then, when a full year had elapsed, all my defensive stores and provisions were utterly exhausted (tataḥ saṃvatsare pūrṇe kṣayaṃ yātāni sarvaśaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Winning a fourfold army from the gods through austerity, Janaka routs the besieging kings; he now promises to show Śiva’s bow to the princes and pledges Sītā’s hand to Rāma if he strings it.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ forest is the will of gods. He also wants all the celebration for his coronation
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the wrathful, wide-eyed Lakṣmaṇa, the self-possessed Rāma bids him curb his anger and grief, turn the consecration preparations toward cancelling the rite, and free their mother from suspicion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तं व्यथया दीनं सविशेषममर्षितम् ।  
@@ -255,6 +263,14 @@ apprehension comes to her mind on this matter."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Act in such a way that that mother of ours (mātā naḥ sā), whose mind is tormented on account of my consecration, may no longer harbor any suspicion (saviśaṅkā)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling that he has never knowingly or unknowingly displeased his mothers or father, Rāma resolves to depart immediately so that his truthful father may be free from fear of the next world and Kaikeyī may crown Bharata.
 </details>
 </details>
 
@@ -575,6 +591,14 @@ will coolly get her son coronated."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exonerating Kaikeyī, Rāma teaches Lakṣmaṇa that Destiny alone is the cause of his banishment and the revocation of the kingdom—for Kaikeyī never before made any distinction between him and Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयि चीराजिनधरे जटामण्डलधारिणि ।  
@@ -888,6 +912,14 @@ coronation , to send me to exile ,and to speak ferocious words ,not to be talked
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma reflects on the inscrutable and irresistible power of Destiny, which overturns both his fortune and Kaikeyī's noble nature, causes even austere sages to fall through passion or wrath, and thwarts human undertakings.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं प्रकृतिसम्पन्ना राजपुत्री तथागुणा ।  
@@ -1194,6 +1226,14 @@ undertaken in the world ,at the starting point itself."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When something wholly unpremeditated (asaṃkalpitam eva) suddenly comes to pass in this world, frustrating an undertaking already begun with every preparation (nivartyārabdham ārambhaiḥ)—is not that the work of Destiny?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadying his mind with this true wisdom, Rāma feels no sorrow at the halted consecration; declining even the royal water-jars for his ascetic bath, he declares forest exile more glorious than kingship and absolves Kaikeyī and his father.
 </details>
 </details>
 

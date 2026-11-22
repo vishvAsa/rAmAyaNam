@@ -28,6 +28,14 @@ esteem.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded by Sugrīva, the delighted monkey Dadhimukha salutes Rāma, Lakṣmaṇa, and the king, flies back to the Madhuvana grove, and humbly begs Aṅgada to pardon the guards.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवेणैवमुक्तस्तु हृष्टो दधिमुखः कपिः ।  
@@ -350,6 +358,14 @@ have done a mistake
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acknowledging Aṅgada as the crown prince and rightful lord of the grove, Dadhimukha reports that Sugrīva is delighted by their return and summons them all immediately.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रान्तो दूरादनुप्राप्तो भक्षयस्व स्वकं मधु ।  
@@ -647,6 +663,14 @@ is there remaining, except to go to the place where Sugreeva my uncle is there?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inferring from Dadhimukha's joy that Rāma and Sugrīva have deduced their success, Aṅgada consults the Vānara elders with deferential humility regarding their immediate departure.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शङ्के श्रुतोऽयं वृत्तान्तो रामेण हरियूथपाः ॥ १३ ॥  
@@ -932,6 +956,14 @@ Sugreeva, the imperishable king of the heroic monkeys, is."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And hearing these supreme words (vacanam uttamam) of Aṅgada as he spoke thus, the forest-dwellers (vanaukasaḥ), delighted in mind (prahṛṣṭamanasaḥ), spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Aṅgada's rare humility as an omen of future sovereignty, the Vānara chiefs declare themselves ready and spring into the sky like boulders hurled from catapults.
 </details>
 </details>
 
@@ -1238,6 +1270,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As he sprang upward, all those leaders of the monkey troops sprang up after him (utpatantam anūtpetuḥ), making the sky skyless (kṛtvākāśaṃ nirākāśam), like boulders hurled from a catapult (yantrotkṣiptā ivopalāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing Aṅgada and Hanūmān in front, the roaring Vānaras fly through the sky while Sugrīva consoles sorrow-stricken Rāma, deducing from Aṅgada's joy that Sītā has been found.
 </details>
 </details>
 
@@ -1565,6 +1605,14 @@ the administer, the progress of that work cannot be as otherwise."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva assures Rāma that Aṅgada would never ravage the ancestral Madhuvana unless Hanūmān—in whom enterprise, valor, and wisdom reside—had found Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितृपैतामहं चैतत् पूर्वकैरभिरक्षितम् ।  
@@ -1727,6 +1775,14 @@ to see Rama.
 **33:** “For in accomplishing this task (karmaṇo... sādhane'sya), there is no other cause save Hanūmān (nānyaḥ... hanūmataḥ); in Hanūmān here abide both success and counsel (siddhiś ca matiś ca), O foremost of the wise!”
 
 **34:** “In him are firmly established (pratiṣṭhitam) both resolute enterprise (vyavasāyaś ca), valor (śauryaṃ ca), and scriptural learning (śrutaṃ cāpi). Where Jāmbavān is the leader (netā) and Aṅgada the lord of monkeys—”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaffirming that the ravaging of the grove proves success, Sugrīva hears the jubilant clamor of the approaching Vānaras in the sky and raises his long curved tail in joy.
 </details>
 </details>
 
@@ -1975,6 +2031,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And those monkeys too, eager to behold Rāma (rāmadarśanakāṅkṣiṇaḥ), arrived, having placed Aṅgada and the Vānara Hanūmān in front (purataḥ kṛtvā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alighting before Sugrīva and Rāma, mighty-armed Hanūmān bows his head and announces that Queen Sītā is safe and steadfast in chastity, filling Rāma and Lakṣmaṇa with joy and high esteem.
 </details>
 </details>
 

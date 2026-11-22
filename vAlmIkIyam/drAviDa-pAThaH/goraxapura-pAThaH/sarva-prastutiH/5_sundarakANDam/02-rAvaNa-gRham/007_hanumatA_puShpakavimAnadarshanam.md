@@ -26,6 +26,14 @@ aerial plane Pushpaka in Ravana's building.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān beholds Rāvaṇa's cluster of mansions with cat's-eye and golden lattices like lightning-wrapped monsoon clouds, moon-halls, weapon-galleries, and a supreme palace like heaven on earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वेश्मजालं बलवान् ददर्श  
@@ -397,6 +405,14 @@ mountain covered by pollen.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Like heaven itself scattered down upon the surface of the earth (mahītale svargam iva prakīrṇam), blazing with splendor (śriyā jvalantam), strewn with manifold gems (bahuratnakīrṇam), and covered with the blossoms of diverse trees (nānātarūṇāṃ kusumāvakīrṇam) like a mountain peak dusted with flower-pollen (girer ivāgraṃ rajasāvakīrṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān beholds the supreme aerial palace Puṣpaka, borne by foremost swans, adorned with artificial mountains, trees, blossoms, white mansions, lotus-lakes, and gem-fashioned birds, serpents, and steeds.
 </details>
 </details>
 
@@ -787,6 +803,14 @@ were arranged.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Birds fashioned of cat's-eye gems were made therein (kṛtāś ca vaidūryamayā vihaṅgāḥ), and likewise birds of silver and coral (rūpyapravālaiś ca tathā vihaṅgāḥ), serpents variegated with manifold precious metals (citrāś ca nānāvasubhir bhujaṅgāḥ), and comely-limbed steeds true to their noble breed (jātyānurūpās turagāḥ śubhāṅgāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling at sculpted birds with coral and golden wings and elephants anointing Goddess Lakṣmī with lotus-petals, Hanūmān still does not see Janaka's daughter and sinks into deep sorrow.
 </details>
 </details>
 

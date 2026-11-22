@@ -25,6 +25,14 @@ how he escaped from the all-pursuant arrow of Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mārīca recounts to Rāvaṇa how, undeterred after his earlier escape, he entered the Daṇḍaka forest as a ferocious flesh-eating stag with two demon companions to slaughter righteous ascetics.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमस्मि तदा मुक्तः कथञ्चित् तेन संयुगे ।  
@@ -353,6 +361,14 @@ reaching Rama. [4-39-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mistaking the ascetic-garbed Rāma for a harmless hermit and remembering his past grudge, Mārīca charges at him with sharp horns, only for Rāma to loose three thunderbolt-like arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदाहं दण्डकारण्ये विचरन् धर्मदूषकः ।  
@@ -574,6 +590,14 @@ acutely bent at barbs, and that are highly horrendous have come at us in a coord
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Those three dread, blood-drinking arrows (rakta-bhojanāḥ), resembling thunderbolts (vajra-saṅkāśāḥ) and smooth-knotted (sannata-parvaṇaḥ), came flying all together (sahitāḥ sarve).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fleeing for his life while his two companions are slain, Mārīca becomes an ascetic himself, haunted in every tree, waking thought, and dream by visions of bow-wielding Rāma.
 </details>
 </details>
 
@@ -869,6 +893,14 @@ even if he enters my dream, in fact, I am jolting up and swooning. [4-39-17]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+So terrified is Mārīca that even words beginning with the syllable ‘ra’ make him shudder; he warns Rāvaṇa not to speak of Rāma lest the innocent perish for another's offence.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रकारादीनि नामानि रामत्रस्तस्य रावण ।  
@@ -1097,6 +1129,14 @@ righteousness are utterly ruined along with their kith and kin, just by the misd
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Many righteous men in the world (bahavaḥ sādhavo loke), self-disciplined and steadfast in dharma (dharmam anuṣṭhitāḥ), have perished along with their retinues (saparicchadāḥ) through the offence of others (pareṣām aparādhena).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refusing to accompany Rāvaṇa to his doom, Mārīca points out that Khara perished for his own transgression at Śūrpaṇakhā's instigation and warns that Rāma's straight-flying arrows will destroy Rāvaṇa's clan.
 </details>
 </details>
 

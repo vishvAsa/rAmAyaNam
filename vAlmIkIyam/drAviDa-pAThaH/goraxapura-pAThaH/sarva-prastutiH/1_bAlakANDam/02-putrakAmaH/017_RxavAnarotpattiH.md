@@ -30,6 +30,14 @@ The gods become progenitors Vanara heroes at the dictate of Brahma to come to
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lord Viṣṇu resolves to become the son of the great-souled King Daśaratha, the self-existent Lord Brahmā commands all the gods to sire mighty, shape-shifting Vānara allies equal to Viṣṇu in valor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रत्वं तु गते विष्णौ राज्ञस्तस्य महात्मनः ।  
@@ -132,6 +140,14 @@ Now when Lord Viṣṇu had entered upon filial status (putratvaṃ tu gate vi�
 **3:** Conversant with magic and illusion (māyāvidaḥ), valiant, matching the speed of the wind in swiftness (vāyuvegasamān jave), skilled in policy (nayajñān), endowed with high intelligence, and equal to Viṣṇu Himself in valor (viṣṇutulyaparākramān);
 
 **4:** Invincible (asaṃhāryān), knowing all strategic expedients (upāyajñān), endowed with celestial frames (divyasaṃhananānvitān), accomplished in the virtues and powers of all weapons (sarvāstraguṇasampannān), and like unto the immortals who partake of nectar (amṛtaprāśanān iva)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how Jāmbavān had already sprung from his mouth when he yawned of old, Brahmā directs the gods to sire Vānara sons; Indra begets Vālin, Sūrya begets Sugrīva, and Bṛhaspati begets the wise Tāra.
 </details>
 </details>
 
@@ -491,6 +507,14 @@ Bṛhaspati, for his part, begot the great monkey named Tāra, the most intellig
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kubera begets Gandhamādana, Viśvakarmā begets Nala, Agni begets Nīla, the Aśvins beget Mainda and Dvivida, Varuṇa begets Suṣeṇa, Parjanya begets Śarabha, and Vāyu begets the peerless Hanumān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनदस्य सुतः श्रीमान् वानरो गन्धमादनः ।  
@@ -816,6 +840,14 @@ Pre-eminent in wisdom and in strength as well among all the foremost vānara chi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resembling elephants and mountains, the bears, monkeys, and langurs spring into being, each matching his divine father in form, garb, and valor, as gods, sages, Gandharvas, Nāgas, and Cāraṇas sire thousands of forest-roaming heroes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमेयबला वीरा विक्रान्ताः कामरूपिणः ।  
@@ -1030,6 +1062,14 @@ Some of the vanara-s endowed with superior valour are born to female langoors,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And the cāraṇas (celestial bards) created heroic forest-dwelling sons—colossal-bodied vānaras all roaming the woods and feeding on forest fruits (vanacāriṇaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fighting with boulders, trees, claws, and fangs while knowing the counter-measures to all divine weapons, the newly created Vānaras can shake mountain-kings, churn the ocean, leap across the seas, and seize the clouds in the sky.
 </details>
 </details>
 
@@ -1312,6 +1352,14 @@ They could mount into the vault of the sky and seize the very rain-clouds (gṛh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ten million noble troop-leaders are born, who in turn sire heroic Vānaras; settling upon the plateaus of Mount Ṛkṣavat and diverse forests, all the troop-leaders attend upon the royal brothers Vālin and Sugrīva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नर्दमानांश्च नादेन पातयेयुर्विहङ्गमान् ।  
@@ -1432,6 +1480,14 @@ Those vanara generals who took birth thus became the prominent generals among
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In their turn begot heroic monkeys, the foremost of troop-leaders (yūthapaśreṣṭhān vīrāṃś cājanayan harīn). Some of them in their thousands resorted to the plateaus of Mount Ṛkṣavat (ṛkṣavataḥ prasthān);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Endowed with the might of Garuḍa, the Vānara hosts subdue the lions, tigers, and great serpents of the forests under the protective arm of Vālin, covering the entire earth in readiness to assist Śrī Rāma.
 </details>
 </details>
 

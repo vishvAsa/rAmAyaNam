@@ -23,6 +23,14 @@ her wishes as being harmful. Kaikeyi would not heed to the emperor's words.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by Kaikeyī's cruel demand, Daśaratha wonders if it is a daydream or delusion, sits trembling like a deer before a tigress or a spell-bound serpent, and faints in grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः श्रुत्वा महाराजः कैकेय्या दारुणं वचः ।  
@@ -296,6 +304,14 @@ King spoke thus to Kaikeyi, as though consuming her with fire in his eyes
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and fell into a swoon once more (moham āpedivān bhūyaḥ), his senses overwhelmed by grief (śokopahatacetanaḥ). Only after a long time did the deeply afflicted king regain consciousness—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing with wrath, Daśaratha upbraids Kaikeyī as a venomous serpent brought into his house to destroy his lineage, declaring he would sooner abandon Kausalyā, Sumitrā, his sovereignty, or his life than Rāma.
 </details>
 </details>
 
@@ -608,6 +624,14 @@ and my own life (jīvitaṃ cātmano)—but never Rāma, who is so devoted to hi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that his life cannot remain in his body without Rāma, Daśaratha touches Kaikeyī's feet with his head and asks whether she is merely testing his affection for Bharata or is possessed in the empty chamber.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठेल्लोको विना सूर्यं सस्यं वा सलिलं विना ॥ १३ ॥  
@@ -847,6 +871,14 @@ too much. Possessed by an evil spirit in a lonely house; you are subject to cont
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having heard of that consecration, you burn with grief and torment me sorely (saṃtāpayasi māṃ bhṛśam); entering an empty house (āviṣṭāsi gṛhe śūnye), you have fallen under another's sway (paravaśaṃ gatā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Kaikeyī's past obedience and her constant praise of Rāma as equal to Bharata, Daśaratha asks how she can bear to send the tender, righteous prince who serves her into the dreadful forest for fourteen years.
 </details>
 </details>
 
@@ -1159,6 +1191,14 @@ Why, O fair-eyed queen (śubhalocane), do you desire the banishment (vipravāsan
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Rāma's unmatched service, blameless conduct toward thousands of women and dependents, and unshakable virtues—truth, liberality, austerity, and valor—Daśaratha marvels at his excellence.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो हि भरताद् भूयस्तव शुश्रूषते सदा ।  
@@ -1443,6 +1483,14 @@ service to elders-these firmly established in Rama."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Truth, liberality, austerity, generosity (satyaṃ dānaṃ tapas tyāgo), friendliness, purity, uprightness (mitratā śaucam ārjavam), learning, and service to elders—these abide unshakably in Rāghava (dhruvāṇy etāni rāghave).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleading that he has never heard an unpleasant word from Rāma and cannot live without him, the aged Daśaratha offers Kaikeyī the entire sea-girt earth and clasps his hands at her feet to save Rāma.
 </details>
 </details>
 
@@ -1739,6 +1787,14 @@ I fold my hands in supplication, O Kaikeyī (añjaliṃ kurmi kaikeyi), and I to
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Daśaratha writhes in an ocean of grief, fierce Kaikeyī replies with still fiercer words, taunting him that if he repents of his boons he will disgrace all kings before the royal sages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति दुःखाभिसन्तप्तं विलपन्तमचेतनम् ।  
@@ -2008,6 +2064,14 @@ on other kings"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 You will bring a stain upon all monarchs (kilbiṣaṃ tvaṃ narendrāṇāṃ kariṣyasi), O lord of men, you who after granting a boon this very day speak otherwise again (yo dattvā varam adyaiva punar anyāni bhāṣase)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing Śaibya who gave his own flesh to the hawk, Alarka who plucked out his eyes, and the ocean that never crosses its shore, Kaikeyī vows to drink poison before Daśaratha's eyes if Rāma is consecrated.
 </details>
 </details>
 
@@ -2321,6 +2385,14 @@ Were I to behold Rāma's mother receiving the reverent salutations of the world 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swearing by Bharata and herself that nothing short of Rāma's exile will satisfy her, Kaikeyī falls silent; staring at her with unblinking eyes, Daśaratha cries 'O Rāma!' and falls like a felled tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतेनात्मना चाहं शपे ते मनुजाधिप ।  
@@ -2569,6 +2641,14 @@ uttering "Rama" and fell like tree which was cut off.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Pondering the queen's fixed resolve (devyā vyavasāyaṃ ca) and the terrible oath she had sworn (ghoraṃ ca śapathaṃ kṛtam), he sighed, “O Rāma!” (rāmeti niḥśvasya) and fell like a felled tree (cchinnas tarur ivāpatat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a madman, a delirious patient, or a serpent robbed of its energy, Daśaratha asks Kaikeyī in a faint voice who taught her this ruinous design and begs her to desist if she loves her husband, the world, and Bharata.
 </details>
 </details>
 
@@ -2854,6 +2934,14 @@ if you wish to do what is dear to your husband, to the world, and to Bharata (ya
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that Bharata is even firmer in righteousness than Rāma and will never accept the kingdom without him, Daśaratha asks how he can face Rāma's eclipsed countenance or answer the assembled kings.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु दुःखमलीकं वा मयि रामे च पश्यसि ।  
@@ -3113,6 +3201,14 @@ Kaikeyi, nobody will believe it and think as untruth."
 **65:** ‘Alas, this childish Ikṣvāku king has ruled the kingdom for so long (bālo batāyam aikṣvākaś ciraṃ rājyam akārayat)!’ And when many aged, virtuous, and learned elders (bahavo vṛddhā guṇavanto bahuśrutāḥ)—
 
 **66:** inquire after Kākutstha, how shall I tell them here (vakṣyāmīha kathaṃ tadā): ‘Tormented by Kaikeyī, I have banished my son (kaikeyyā kliśyamānena putraḥ pravrājito mayā)’?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Torn between two untruths, Daśaratha laments how he neglected the devoted Kausalyā for Kaikeyī's sake—a favor that now torments him like unwholesome food eaten by a sick man—and grieves for Sumitrā and Sītā.
 </details>
 </details>
 
@@ -3385,6 +3481,14 @@ of Rama seeking refuge in the forest."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 how will the frightened Sumitrā ever trust me (sumitrā prekṣya vai bhītā kathaṃ me viśvasiṣyati)? Alas, how piteously will Vaidehī hear the twofold unwelcome tidings (kṛpaṇaṃ bata vaidehī śroṣyati dvayam apriyam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing that Sītā will pine away like a bereaved Kinnarī on Himavat, Daśaratha tells Kaikeyī that she will rule as a widow, likening her false blandishments to poisoned wine and a hunter's fatal song.
 </details>
 </details>
 
@@ -3673,6 +3777,14 @@ saying that I am as bad as a brahmana who drinks wine. It is certain."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Saying, ‘He is an ignoble seller of his own son (anārya iti mām āryāḥ putravikrāyakaṃ dhruvam)!’ noble men will surely revile me in the streets, as they revile a liquor-drinking Brahmin (vikariṣyanti rathyāsu surāpaṃ brāhmaṇaṃ yathā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing Kaikeyī to a hangman's noose and a black cobra fondled by a child in the dark, Daśaratha laments that the world will curse him as a lust-blinded fool who sent his disciplined son into misery.
 </details>
 </details>
 
@@ -3986,6 +4098,14 @@ Emaciated by Vedic studies, vows of chastity, and service to his preceptors (ved
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing that Rāma will never utter a second word in refusal and wishing that his son would disobey him, Daśaratha predicts his own death, Kausalyā's following him, and the ruin of the whole royal house.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नालं द्वितीयं वचनं पुत्रो मां प्रतिभाषितुम् ।  
@@ -4292,6 +4412,14 @@ Having hurled Kausalyā and Sumitrā and me, together with three of my sons, int
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forbidding Bharata to perform his funeral rites if he approves of Rāma's exile, Daśaratha weeps over how Rāma—used to chariots, elephants, and earring-adorned cooks—will walk barefoot in the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया रामेण च त्यक्तं शाश्वतं सत्कृतं गुणैः ।  
@@ -4525,6 +4653,14 @@ your son will then rule over the kingdom."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having ridden again and again in chariots and on elephants and horses (kathaṃ rathair vibhur yātvā gajāśvaiś ca muhur muhuḥ), how will my darling Rāma, that mighty lord, wander on foot in the great forest (padbhyāṃ rāmo mahāraṇye vatso me vicariṣyati)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving that Rāma must eat bitter forest roots and wear ochre bark-cloth, Daśaratha curses deceitful women—then checks himself to blame only Bharata's mother—and warns that the whole world will revolt.
 </details>
 </details>
 
@@ -4852,6 +4988,14 @@ Fathers would abandon their sons, and devoted wives their husbands (parityajeyu�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that the mere sight of Rāma makes him feel young again and that he has fondled a venomous snake in his lap, Daśaratha wonders why Kaikeyī's teeth do not shatter into a thousand pieces.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं पुनर्देवकुमाररूप-  
@@ -5152,6 +5296,14 @@ so long and therefore I am undone."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 O woman of cruel conduct, striking a blow in the midst of calamity (nṛśaṃsavṛtte vyasanaprahāriṇi), when you violently utter such a speech here today (prasahya vākyaṃ yad ihādya bhāṣase), why indeed do your teeth not shatter into a thousand pieces and fall from your mouth to the ground (na nāma te tena mukhāt patanty adho viśīryamāṇā daśanāḥ sahasradhā)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out in Vaṃśastha meter that Kaikeyī may pine away, burn, or sink into the cloven earth before he grants her cruel demand, Daśaratha begs for mercy once more and collapses before her outstretched feet.
 </details>
 </details>
 

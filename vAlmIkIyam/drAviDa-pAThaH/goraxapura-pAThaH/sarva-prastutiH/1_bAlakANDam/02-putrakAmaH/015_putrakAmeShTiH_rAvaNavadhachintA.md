@@ -33,6 +33,14 @@ eliminate Ravana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Meditating briefly, Ṛṣyaśṛṅga commences the Putrakāmeṣṭi sacrifice with mantras from the Atharvaśiras; assembling to receive their oblation shares, the gods approach Lord Brahmā and lament the tyranny of Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेधावी तु ततो ध्यात्वा स किञ्चिदिदमुत्तरम् ।  
@@ -341,6 +349,14 @@ blessed him, and we are unable to control him. [1-15-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Revered Lord, through the power born of your gracious boon (bhagavaṃs tvatprasādena), a rākṣasa named Rāvaṇa torments us all by his might (rāvaṇo nāma rākṣasaḥ sarvān no bādhate vīryāt), and we are unable to restrain him (śāsituṃ taṃ na śaknumaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honouring Brahmā’s boon, the gods endure Rāvaṇa’s oppression as even the Sun, the Wind, and the billowy Ocean stand hushed before him; reflecting, Lord Brahmā announces the means of slaying the tyrant.
 </details>
 </details>
 
@@ -659,6 +675,14 @@ oh, god, it will be apt of you to give a thought for his elimination. [1-15-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Therefore, great is our dread from that rākṣasa of horrific aspect (tan mahan no bhayaṃ tasmād rākṣasād ghoradarśanāt); O Revered Lord, you ought to devise a means for his destruction (vadhārthaṃ tasya bhagavann upāyaṃ kartum arhasi).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā reveals that Rāvaṇa out of contempt omitted human beings when asking for invulnerability; at that very moment, Lord Viṣṇu arrives upon Garuḍa bearing conch, discus, and mace, and the gods bow before Him in praise.
 </details>
 </details>
 
@@ -987,6 +1011,14 @@ Joining Brahmā, He stood there in the assembly with focused intent (brahmaṇā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+For the welfare of the worlds, the gods implore Lord Viṣṇu to divide Himself into four forms and incarnate as the four sons of King Daśaratha in his three queens—resembling Hrī, Śrī, and Kīrti—to slay Rāvaṇa in battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञो दशरथस्य त्वमयोध्याधिपतेर्विभो ॥ १९ ॥  
@@ -1238,6 +1270,14 @@ come for his elimination, and thereby we seek shelter in you. [1-15-24b, 25a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring Lord Viṣṇu their supreme refuge, the gods implore Him to descend to the world of men; bidding the gods cast off all fear, Viṣṇu promises to slay Rāvaṇa with all his kin and rule the earth for eleven thousand years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं गतिः परमा देव सर्वेषां नः परन्तप ॥ २५ ॥  
@@ -1479,6 +1519,14 @@ the instituting base for his birth in human world. [1-15-30b, 31a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I shall dwell in the world of men, protecting this earth (vatsyāmi mānuṣe loke pālayan pṛthivīm imām)!” Having thus granted this boon to the gods, the self-possessed Lord Viṣṇu (evaṃ dattvā varaṃ devo devānāṃ viṣṇur ātmavān)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dividing Himself into four forms, the lotus-petal-eyed Lord Viṣṇu chooses King Daśaratha as His earthly father; the divine sages, Gandharvas, Rudras, and Apsarases hymn Madhusūdana and pray for His triumphant return to His eternal abode.
 </details>
 </details>
 

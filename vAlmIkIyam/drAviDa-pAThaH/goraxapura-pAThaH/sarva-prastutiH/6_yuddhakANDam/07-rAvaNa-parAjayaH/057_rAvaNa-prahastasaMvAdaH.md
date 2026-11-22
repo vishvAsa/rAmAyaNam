@@ -24,6 +24,14 @@ battle-field. The army of monkeys seized hold of trees and rocks, to attack the 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Troubled by Akampana's death, Rāvaṇa takes counsel with his ministers, inspects the garrisons of besieged Laṅkā, and declares to Prahasta that only a supreme general can lift the siege.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पनवधं श्रुत्वा क्रुद्धो वै राक्षसेश्वरः ।  
@@ -339,6 +347,14 @@ none else could undertake such a task!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Either I myself, or Kumbhakarṇa, or you who are my army commander (tvaṃ vā senāpatir mama), or Indrajit, or Nikumbha could bear such a burden as this (vaheyur bhāram īdṛśam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa urges Prahasta to sally forth, predicting that the fickle Vānaras will scatter at his roar like elephants before a lion, and Prahasta replies like wise Uśanas.
 </details>
 </details>
 
@@ -662,6 +678,14 @@ Thus addressed by Rāvaṇa, Prahasta, the commander of the host (vāhinīpati�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling the divided council over Sītā, Prahasta vows to offer his life in battle for Rāvaṇa's sake and commands his officers to muster the great Rākṣasa host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् मन्त्रितपूर्वं नः कुशलैः सह मन्त्रिभिः ।  
@@ -955,6 +979,14 @@ Having spoken thus to his master Rāvaṇa, Prahasta, the commander of the host 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bring before me swiftly a mighty host of Rākṣasas (samānayata me śīghraṃ rākṣasānāṃ mahābalam)! And of those slain on the battlefield by the speed of my arrows (madbāṇānāṃ tu vegena hatānāṃ ca raṇājire)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that carrion birds will feast on the Vānaras today, Prahasta marshals his armored warriors, who pour oblations into the fire, honor Brahmins, don enchanted garlands, and beat the war-drum.
 </details>
 </details>
 
@@ -1270,6 +1302,14 @@ Beholding King Rāvaṇa (rāvaṇaṃ prekṣya rājānam), they surrounded Pra
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting his dazzling golden chariot emblazoned with a serpent standard, Prahasta sallies forth from Laṅkā amid the thunder of drums and conchs, flanked by his four lieutenants.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हयैर्महाजवैर्युक्तं सम्यक्सूतं सुसंयतम् ॥ २५ ॥  
@@ -1554,6 +1594,14 @@ Of terrible form and gigantic stature (bhīmarūpā mahākāyāḥ), marching be
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Issuing from the eastern gate at the head of an ocean-like army, Prahasta resembles Yama at the cosmic dissolution, while carrion birds wheel widdershins, jackals vomit fire, and meteors fall.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यूढेनैव सुघोरेण पूर्वद्वारात् स निर्ययौ ।  
@@ -1814,6 +1862,14 @@ Dreadful jackals howled, vomiting flames of fire (vamantyaḥ pāvakajvālāḥ 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Planets clash in the heavens, clouds rain blood upon Prahasta's vanguard, a southward-facing vulture perches on his standard, his charioteer drops the goad, and his steeds stumble on level ground.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्योन्यमभिसंरब्धा ग्रहाश्च न चकाशिरे ।  
@@ -2030,6 +2086,14 @@ entered the battle-field.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Perished within an hour (sā nanāśa muhūrtena), and his steeds stumbled on level ground (same ca skhalitā hayāḥ). Then the Vānara army, wielding manifold weapons in battle (yudhi nānāpraharaṇā kapisenā), advanced against Prahasta of renowned virtues and valor as he sallied forth (prahastaṃ taṃ hi niryāntam abhyavartata).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Uprooting trees and lifting massive boulders, the exultant Vānara army roars in mutual defiance against the Rākṣasas, and the deluded Prahasta plunges into their ranks like a moth into fire.
 </details>
 </details>
 

@@ -24,6 +24,14 @@ to religious scriptures.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When wrathful Rāvaṇa orders Hanūmān's execution, Vibhīṣaṇa intervenes with conciliatory wisdom, reminding the king that righteous rulers never slay an envoy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य वचनं श्रुत्वा वानरस्य महात्मनः ।  
@@ -359,6 +367,14 @@ it. Hence, it is improper for you also to do it."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa warns that scriptural learning is mere toil if wise men yield to anger, and when Rāvaṇa insists on slaying the sinner, Vibhīṣaṇa replies anew.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मज्ञश्च कृतज्ञश्च राजधर्मविशारदः ।  
@@ -645,6 +661,14 @@ following words, comprising of the highest truth.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech rooted in unrighteousness (adharmamūlam), fraught with many faults (bahudoṣayuktam), and frequented by the ignoble (anāryajuṣṭaṃ vacanaṃ niśamya), Vibhīṣaṇa, the foremost of the wise (buddhimatāṃ variṣṭhaḥ), spoke a speech embodying the supreme truth (uvāca vākyaṃ paramārthatattvam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Conceding Hanūmān's grave offenses, Vibhīṣaṇa cites the four lawful punishments prescribed for an offending envoy—disfigurement, whipping, head-shaving, and branding—while praising Rāvaṇa's mastery.
 </details>
 </details>
 
@@ -1024,6 +1048,14 @@ several times"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arguing that an envoy merely speaks another's words and that killing Hanūmān would prevent any other from crossing the ocean, Vibhīṣaṇa urges punishing his senders instead.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्थंविधस्यामरदैत्यशत्रोः  
@@ -1297,6 +1329,14 @@ those two arrogant princes, who are hindered by a long distance, for war."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Therefore no effort should be made for his execution, O conqueror of enemy citadels (tasmān nāsya vadhe yatnaḥ kāryaḥ parapuraṃjaya); your honor ought rather to direct your effort against the gods together with Indra (bhavān sendreṣu deveṣu yatnam āsthātum arhati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appealing to Rāvaṇa's love of battle lest Hanūmān's death deprive the rākṣasas of war with the two princes, Vibhīṣaṇa persuades the king to spare the envoy's life.
 </details>
 </details>
 

@@ -24,6 +24,14 @@ capability to jump over the ocean.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Informed of Sītā's whereabouts by Sampāti, the exultant monkeys reach the northern shore of the southern ocean and sink into dejection upon beholding its mountain-sized waves and abyssal monsters.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आख्याता गृध्रराजेन समुत्प्लुत्य प्लवङ्गमाः ।  
@@ -329,6 +337,14 @@ ocean.. [4-64-5, 6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and teeming with lords of Dānavas (saṃkulaṃ dānavendraiś ca) dwelling in the depths of Pātāla (pātālatalavāsibhiḥ), causing the hair to bristle (romaharṣakaram), the elephant-like monkeys sank into dejection (viṣeduḥ kapikuñjarāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the monkey host despondent before the sky-like ocean, Aṅgada consoles them with wise maxims against despair and convenes a council with the monkey elders at daybreak.
 </details>
 </details>
 
@@ -651,6 +667,14 @@ That host of monkeys (sā vānarāṇāṃ dhvajinī), having surrounded Aṅgad
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Aṅgada and Hanūmān as the sole leaders able to steady the monkey host, Vālmīki recounts how Aṅgada honors the elders and asks who can leap across the hundred-yojana ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कोऽन्यस्तां वानरीं सेनां शक्तः स्तम्भयितुं भवेत् ।  
@@ -922,6 +946,14 @@ the purpose of our task... [4-64-17]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By whose grace (kasya prasādāt), having returned from here (ito nivṛttāḥ), may we, our purpose accomplished (siddhārthāḥ) and happy, behold our wives, and sons, and homes (dārāṃś ca putrāṃś caiva gṛhāṇi ca)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the entire monkey army stands motionless and silent at Aṅgada's plea for the gift of fearlessness, he praises their noble lineage and urges each warrior to declare his leaping power.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०७९ दण्ड-राज्यम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with reverence and wonder at Agastya’s tale, Rāma asks why that formidable wilderness was devoid of beasts and birds and why King Śveta entered it; Agastya begins the ancestral history of Manu, who consecrated his son Ikṣvāku to found earthly dynasties.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदद्भुततमं वाक्यं श्रुत्वागस्त्यस्य राघवः ।  
@@ -217,6 +225,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Ikṣvāku’s ready pledge, Manu instructs his son in the sacred duty of royal chastisement—warning him never to punish without cause, since lawful punishment of offenders leads a king to heaven—and then ascends in yogic absorption to eternal Brahmaloka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैव च प्रतिज्ञातं पितुः पुत्रेण राघव ।  
@@ -387,6 +403,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Manu’s departure, Ikṣvāku begets a hundred godlike sons through manifold pious rites; seeing his youngest son foolish, unlearned, and disrespectful to his elders, he prophetically names him Daṇḍa and grants him a realm between the Vindhya and Śaivala mountains.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयाते त्रिदिवं तस्मिन्निक्ष्वाकुरमितप्रभः ।  
@@ -549,6 +573,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Not beholding another harsh land suited for that son, O Rāghava (apaśyamānas taṃ deśaṃ ghoraṃ putrasya rāghava), the subduer of foes granted him a kingdom between the Vindhya and Śaivala mountains (vindhya-śaivalayor madhye rājyaṃ prādād arindama).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ruling on those charming mountain slopes, King Daṇḍa founds the matchless capital Madhumanta and chooses the steadfast sage Uśanas as his royal priest, governing a joyous and prosperous realm with him like Indra in heaven.
 </details>
 </details>
 

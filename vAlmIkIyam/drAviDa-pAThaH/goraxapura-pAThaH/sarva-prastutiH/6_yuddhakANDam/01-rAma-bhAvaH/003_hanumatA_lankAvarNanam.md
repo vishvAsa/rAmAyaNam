@@ -25,6 +25,14 @@ Hanuma gives a detailed description of Lanka as he saw it.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting Sugrīva's reasoned and salutary counsel, Rāma affirms his power to cross the ocean and asks Hanūmān for a detailed reconnaissance report on Laṅkā's fortifications and garrison.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्य वचः श्रुत्वा हेतुमत् परमार्थवत् ।  
@@ -308,6 +316,14 @@ Hearing Rāma's words, Hanūmān, son of the Wind-god (mārutātmajaḥ) and for
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān promises a complete account of Laṅkā's defences and describes the joyous city teeming with rutting elephants, chariots, and four colossal gates fitted with stone-hurling engines.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयतां सर्वमाख्यास्ये दुर्गकर्म विधानतः ।  
@@ -567,6 +583,14 @@ gates."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “At those gates stand mighty and massive engines for hurling arrows and boulders (tatreṣūpala-yantrāṇi balavanti mahānti ca); by those engines any approaching hostile army (āgataṃ pratisainyam) is repelled right there (tatra pratinivāryate).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān describes the iron-spiked śataghnī weapons, the gem-inlaid golden rampart, the deep crocodile-filled moats, and the four fortified drawbridges with their supreme northern span.
 </details>
 </details>
 
@@ -900,6 +924,14 @@ strong, is dazzling with numerous gold pillars and pedestals."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān reports Rāvaṇa's vigilant inspection of his troops and describes Laṅkā's fourfold fortification perched atop Mount Trikūṭa beyond the unnavigable southern sea.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वयं प्रकृतिमापन्नो युयुत्सू राम रावणः ।  
@@ -1182,6 +1214,14 @@ the city of wicked Ravana."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān details the exact deployment of Rāvaṇa's Rākṣasa legions across the eastern, southern, western, and northern gates as well as the central reserve camp.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयुतं रक्षसामत्र पूर्वद्वारं समाश्रितम् ।  
@@ -1451,6 +1491,14 @@ to one and quarter of a crore of ogres are positioned at the central division."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And hundreds of thousands (śataśo 'tha sahasrāṇi) of unassailable Yātudhānas—over a crore of Rākṣasas in all (sāgra-koṭiś ca rakṣasām)—are stationed in the central encampment (madhyamaṃ skandham āśritāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how he already wrecked the bridges, burned Laṅkā, and slew part of its garrison, Hanūmān declares that seven monkey chiefs alone could topple the city and urges an immediate march.
 </details>
 </details>
 

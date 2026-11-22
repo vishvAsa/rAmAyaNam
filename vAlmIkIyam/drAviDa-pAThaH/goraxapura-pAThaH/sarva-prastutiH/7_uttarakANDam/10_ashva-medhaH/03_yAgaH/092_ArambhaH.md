@@ -13,6 +13,14 @@ title = "०९२ आरम्भः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dispatching all ritual provisions ahead, Rāma releases the auspicious dark stallion under Lakṣmaṇa’s guard and journeys to Naimiṣa, where he welcomes tributary kings, assigns them royal quarters, and oversees abundant hospitality through Bharata and Śatrughna.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सर्वमखिलेनाशु प्रस्थाप्य भरताग्रजः ।  
@@ -205,6 +213,14 @@ And food, drink, and garments (annapānāni vastrāṇi) for those great-souled 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Sugrīva’s vānaras serve the brahmins and Bibhīṣaṇa’s rākṣasas attend the austere sages, Rāma’s Aśvamedha proceeds under Lakṣmaṇa’s protection amid unending cries to bestow gifts and confections until every supplicant is content.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणश्च रक्षोभिर्बहुभिः सुसमाहितः ।  
@@ -335,6 +351,14 @@ Thus the well-ordered horse sacrifice went forward (evaṃ suvihito yajño hayam
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Supplicants receive their wishes before a request can leave their lips, leaving no one shabby, downcast, or gaunt, while ancient sages marvel that no sacrifice in memory ever matched this abundance of gold, wealth, and gems.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न निःसृतं भवत्योष्ठाद् वचनं यावदर्थिनाम् ॥ १२ ॥  
@@ -456,6 +480,14 @@ Even the great-souled, long-lived sages present there (ye ca tatra mahātmāno m
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Whoever had need of gold (yaḥ kṛtyavān suvarṇena) obtained gold (suvarṇaṃ labhate sma saḥ); the seeker of wealth obtained wealth (vittārthī labhate vittam), and the seeker of gems obtained gems indeed (ratnārthī ratnam eva ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounds of silver, gold, gems, and robes rise endlessly as sages declare the rite surpasses even the sacrifices of Indra, Kubera, Yama, and Varuṇa, while Rāma’s peerless Aśvamedha continues unabated beyond a full year.
 </details>
 </details>
 

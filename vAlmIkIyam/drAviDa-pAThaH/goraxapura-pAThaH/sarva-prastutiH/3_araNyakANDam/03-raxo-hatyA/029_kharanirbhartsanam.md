@@ -28,6 +28,14 @@ it is still sky rocketing.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing the disarmed Khara standing mace in hand, Rāma rebukes his cruel slaughter of the Daṇḍaka ascetics and warns that evildoers inevitably perish.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरं तु विरथं रामो गदापाणिमवस्थितम् ।  
@@ -324,6 +332,14 @@ flower.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By slaying (hatvā) the illustrious (mahā-bhāgān), righteous ascetics (tāpasān dharma-cāriṇaḥ) dwelling in the Daṇḍaka forest (vasato daṇḍakāraṇye), what fruit indeed (kiṃ nu phalam) will you gain, O rākṣasa?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that sinful deeds swiftly bear dreadful fruit like poisoned food, Rāma announces that he has been sent by the king to slay Khara and dispatch him after the murdered sages.
 </details>
 </details>
 
@@ -687,6 +703,14 @@ Gita 8-6.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Slain in battle today (adya nihataḥ saṃkhye) along with your army (sa-sainyaḥ), you shall follow after (anugamiṣyasi) those righteous ascetics (dharma-cāriṇaḥ) whom you devoured (bhakṣitāḥ) in the Daṇḍaka forest!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to strike off Khara's head like a palmyra fruit before the celestial sages, Rāma provokes a derisive reply from Khara, who accuses him of base self-praise.
 </details>
 </details>
 
@@ -1064,6 +1088,14 @@ your duty righteously without much talk...' Tiirtha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening Rāma's boasting to counterfeit gold blackened in a grass-fire, Khara vaunts his own immovable might and declares he must slay Rāma before sunset.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुलं व्यपदिशन् वीरः समरे कोऽभिधास्यति ।  
@@ -1387,6 +1419,14 @@ chivalry and then I can dab the eyes of the wives of the demons so far killed by
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Though there is much that could be said (kāmaṃ bahv api vaktavyam) regarding you (tvayi), I shall not say it (vakṣyāmi na tv aham); the sun is approaching its setting (astaṃ prāpnoti savitā), and from that an interruption of the battle (yuddha-vighnaḥ) would ensue!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to wipe away the tears of the slain demons, Khara hurls his blazing gold-ringed mace like a thunderbolt, but Rāma shatters it in mid-air with his arrows.
 </details>
 </details>
 

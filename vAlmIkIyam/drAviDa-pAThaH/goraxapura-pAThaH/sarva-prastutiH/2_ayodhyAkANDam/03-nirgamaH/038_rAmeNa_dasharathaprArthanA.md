@@ -15,6 +15,14 @@ title_english = "038 Dasaratha is enraged"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As all the people cry shame upon Daśaratha at seeing Sītā clad in bark like one protectorless, the heart-stricken monarch sighs hotly and commands that Janaka’s daughter cast off the bark and go in comfort with all her jewels.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां चीरं वसानायां नाथवत्यामनाथवत् ।  
@@ -314,6 +322,14 @@ all valuable possesssions."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let the daughter of Janaka cast aside the bark garments (cīrāṇy apāsyāt); this was no pledge given by me before (neyam pratijñā mama datta-pūrvā)! Let the princess go to the forest at her ease (yathā-sukham), complete in every equipage together with all her jewels (samagrā saha sarva-ratnaiḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing Kaikeyī’s overreaching malice to the bamboo flower that consumes the very reed that bore it, Daśaratha asks what wrong gentle Sītā has ever done and warns Kaikeyī that clothing Maithilī in bark will plunge her into hell.
 </details>
 </details>
 
@@ -675,6 +691,14 @@ Seetha also clad in bark of trees.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Transgressing that bound (tat tv etat samatikramya), you desire to go to hell (nirayaṃ gantum icchasi), in that you look with longing (īkṣase) upon Maithilī too clad in bark garments (cīra-vāsinīm)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ready to depart for the forest, Rāma addresses his downcast father and entreats him to honour and console aged, noble-hearted Queen Kausalyā so that she may not die of grief during his exile.
 </details>
 </details>
 

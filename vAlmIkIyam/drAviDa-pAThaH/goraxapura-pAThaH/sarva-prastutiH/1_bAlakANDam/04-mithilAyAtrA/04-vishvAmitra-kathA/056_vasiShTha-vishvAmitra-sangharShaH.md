@@ -28,6 +28,14 @@ sublime ascesis for Brahma-hood.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Challenged by Vasiṣṭha, Viśvāmitra aims the fiery Āgneya missile, only for the Brahmarṣi to raise his Brahmadaṇḍa and quench its blaze like water quenching fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो वसिष्ठेन विश्वामित्रो महाबलः ।  
@@ -273,6 +281,14 @@ That terrible and supreme Āgneya missile of Gādhi’s son (tasyāstraṃ gādh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed at the quenching of his Āgneya missile, Gādhi’s son hurls a storm of sovereign missiles—Vāruṇa, Raudra, Aindra, Pāśupata, Aiṣīka, Mānava, Mohana, Gāndharva, Vajra, the three nooses, Pināka, and the three discuses.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारुणं चैव रौद्रं च ऐन्द्रं पाशुपतं तथा ।  
@@ -329,6 +345,14 @@ not reiterated here but just catalogued.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Incensed (kupitaḥ), the son of Gādhi hurled the Vāruṇa, the Raudra, the Aindra, and the Pāśupata missiles, as well as the reed-missile Aiṣīka (aiṣīkaṃ cāpi cikṣepa).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vasiṣṭha effortlessly swallows every missile with his staff, Viśvāmitra hurls the supreme Brahmāstra, striking terror into the gods led by Agni, the divine seers, the gandharvas, and all three worlds.
 </details>
 </details>
 
@@ -611,6 +635,14 @@ with gandharva-s are perplexed, and the triad of worlds itself is perturbed. [1-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+By his Brahmanic luster Vasiṣṭha swallows even the terrible Brahmāstra with his staff; as smoky sparks shoot from every pore of his awe-inspiring form, the sages hymn him and pray that he restrain his blaze.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदप्यस्त्रं महाघोरं ब्राह्मं ब्राह्मेण तेजसा ।  
@@ -832,6 +864,14 @@ And the Brahmadaṇḍa upraised in Vasiṣṭha’s hand blazed forth (prājval
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then hosts of sages praised Vasiṣṭha, the foremost of japa-reciters (tato ’stuvan munigaṇā vasiṣṭhaṃ japatāṃ varam): “Unfailing is your power, O Brahmin; restrain that fiery energy by your own spiritual radiance (amoghaṃ te balaṃ brahmaṃs tejo dhāraya tejasā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appeased by the sages, Vasiṣṭha calms his wrath; utterly humbled, Viśvāmitra proclaims that Kṣatriya might is nothing before the power of Brahmanic luster and resolves to win Brahminhood through supreme penance.
 </details>
 </details>
 

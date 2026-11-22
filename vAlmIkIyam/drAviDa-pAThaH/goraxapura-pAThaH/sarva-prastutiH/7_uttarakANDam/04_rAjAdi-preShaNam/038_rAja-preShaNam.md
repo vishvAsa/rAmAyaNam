@@ -13,6 +13,14 @@ title = "०३८ राज-प्रेषणम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Administering all affairs of city and countryside day by day, Rāma approaches King Janaka of Mithilā with joined palms, honoring their deep bond of kinship and inviting him to return home with royal treasures escorted by Bharata; Janaka joyfully consents.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमास्ते महाबाहुरहन्यहनि राघवः ।  
@@ -199,6 +207,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Assenting with the words “So be it” (sa tatheti nṛpaḥ kṛtvā), that monarch addressed Rāghava (rāghavaṃ vākyam abravīt): “Delighted am I, O King (prīto ’smi bhavato rājan), both by the sight of you and by your righteous statesmanship (darśanena nayena ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestowing all the treasures gathered for him upon his daughter Sītā, King Janaka departs joyfully for Mithilā; Rāma then addresses his maternal uncle Yudhājit of Kekaya with joined palms, urging him to return to his aged father with Lakṣmaṇa as escort.
 </details>
 </details>
 
@@ -391,6 +407,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declining the gifts so they may remain inexhaustible with Rāma, Yudhājit exchanges reverent circumambulation with his sovereign nephew and departs escorted by Lakṣmaṇa like Indra with Viṣṇu; Rāma then embraces his fearless ally Pratardana of Kāśī and bids him return to Vārāṇasī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युधाजित् तु तथेत्याह गमनं प्रति राघव ।  
@@ -577,6 +601,14 @@ Having sent him off (taṃ visṛjya), Rāma then embraced his fearless friend (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising from his royal seat to clasp Pratardana tightly to his chest, Rāma grants him leave to return to Vārāṇasī; turning next with a glad smile to the three hundred assembled monarchs, he extols their steadfast love, dharma, and power as the true cause of Rāvaṇa’s fall.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावदुक्त्वा चोत्थाय काकुत्स्थः परमासनात् ।  
@@ -738,6 +770,14 @@ Having sent off that king of Kāśī (visṛjya taṃ kāśipatim), Rāghava smi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Humbly styling himself a mere instrument while crediting the kings’ prowess for Rāvaṇa’s downfall, Rāma notes how long they have stood mobilized since Bharata summoned them and grants them leave to return; overjoyed, the kings hail his victory and enthronement.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हेतुमात्रमहं तत्र भवतां तेजसा हतः ॥ २४ ॥  
@@ -859,6 +899,14 @@ Having sent off that king of Kāśī (visṛjya taṃ kāśipatim), Rāghava smi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Overwhelmed with immense delight (harṣeṇa mahatā vṛtāḥ), those kings replied unto him (pratyūcus taṃ ca rājānaḥ): “By good fortune are you victorious, O Rāma (diṣṭyāṃ tvaṃ vijayī rāma), and firmly established in your own kingdom as well (svarājye ’pi pratiṣṭhitaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing at Sītā’s recovery and Rāma’s triumph, the kings declare that praising others befits him though they lack words equal to his praise; asking that his constant love abide in them as he dwells in their hearts, they receive his honors and depart to their realms.
 </details>
 </details>
 

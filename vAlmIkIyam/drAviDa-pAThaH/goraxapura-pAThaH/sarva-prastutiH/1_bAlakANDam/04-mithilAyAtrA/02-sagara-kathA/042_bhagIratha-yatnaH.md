@@ -28,6 +28,14 @@ Bhageeratha's effort for bringing Ganga to earth is fulfilled. Amshuman
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon Sagara’s passing, the ministers and subjects enthrone the righteous Aṃśumān, who later entrusts the kingdom to his son Dilīpa and practices severe austerity on a peak of Himavān, while Dilīpa too is haunted by his grand-uncles’ unredeemed fate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कालधर्मं गते राम सगरे प्रकृतीजनाः ।  
@@ -284,6 +292,14 @@ The great resplendent Dileepa on hearing the elimination of his grandfathers,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ever pondering how to bring down Gaṅgā and redeem his ancestors, the righteous King Dilīpa begets the noble Bhagīratha, offers many sacrifices during a thirty-thousand-year reign, and ascends to Indra’s heaven after consecrating his son.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं गङ्गावतरणं कथं तेषां जलक्रिया ।  
@@ -527,6 +543,14 @@ That best one among men, namely king Dileepa, on anointing his son
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Childless and devoted to bringing down Gaṅgā, the royal sage Bhagīratha entrusts his subjects and kingdom to his ministers and performs the grueling five-fire penance at Gokarṇa for thousands of years until Lord Brahmā appears before him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगीरथस्तु राजर्षिर्धार्मिको रघुनन्दन ।  
@@ -719,6 +743,14 @@ Forefather Brahma then arrived along with assemblages of gods, and
 **14:** “—passed by for that high-souled king, O mighty-armed Rāma (atītāni mahābāho tasya rājño mahātmanaḥ); thereupon the Blessed Lord Brahmā, the sovereign lord of creatures, became supremely pleased (suprīto bhagavān brahmā prajānāṃ prabhur īśvaraḥ).
 
 **15:** “Then approaching accompanied by the hosts of gods, the Grandfather (tataḥ suragaṇaiḥ sārdham upāgamya pitāmahaḥ) spoke thus to the high-souled Bhagīratha as he was performing penance (bhagīrathaṃ mahātmānaṃ tapyamānam athābravīt):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidden by Brahmā to choose a boon, Bhagīratha prays first that his great-grandfathers’ ashes be drenched by Gaṅgā’s waters so they may ascend to eternal heaven, and second that the Ikṣvāku lineage be blessed with progeny.
 </details>
 </details>
 
@@ -985,6 +1017,14 @@ Oh, god, I indeed pray for offspring in our Ikshvaku dynasty, let
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘And O Lord, I pray for progeny, so that our lineage may not sink into extinction (deva yāce ha saṃtatyai nāvasīdet kulaṃ ca naḥ); in the house of the Ikṣvākus, O Lord, let this be my second supreme boon (ikṣvākūṇāṃ kule deva eṣa me ’stu varaḥ paraḥ)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granting Bhagīratha’s noble prayer, Lord Brahmā warns him that the earth cannot endure the crushing force of Gaṅgā’s descent and counsels him to propitiate the trident-bearing Lord Śiva, who alone can sustain her fall.
 </details>
 </details>
 

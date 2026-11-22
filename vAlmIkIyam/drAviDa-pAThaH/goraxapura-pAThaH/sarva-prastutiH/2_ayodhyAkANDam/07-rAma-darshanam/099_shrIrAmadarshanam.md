@@ -26,6 +26,14 @@ both.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once the army is encamped, Bharata instructs Vasiṣṭha to bring the queens and hastens ahead with Śatrughna and Sumantra, beholding Rāma’s leaf-hut, split firewood, gathered flowers, and trail-markers of kuśa grass and bark.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निविष्टायां तु सेनायामुत्सुको भरतस्ततः ।  
@@ -338,6 +346,14 @@ Rama and Lakshmana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And he saw the trail-markers made here and there upon the trees with kuśa grass and strips of bark (dadarśa kṛtaṃ vṛkṣeṣv abhijñānaṃ kuśa-cīraiḥ kvacit kvacit) by Rāma accompanied by Lakṣmaṇa as he went to and from the hermitage (sa-lakṣmaṇasya rāmasya āśramam īyuṣaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding heaps of dried deer and buffalo dung gathered against the winter cold, bark-strips tied high on trees by Lakṣmaṇa, elephant tracks on the mountain slope, and the dense smoke of the sacred fire, Bharata addresses Śatrughna and his ministers.
 </details>
 </details>
 
@@ -661,6 +677,14 @@ And yonder is seen the dense smoke of the dark-pathed sacred fire (tasyāsau d�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the Mandākinī on Citrakūṭa, Bharata reproaches his own birth and life because the lord of the world sits in ascetic posture in the wilderness for his sake, and beholds the sacred, lovely leaf-hall.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्राहं पुरुषव्याघ्रं गुरुसत्कारकारिणम् ।  
@@ -957,6 +981,14 @@ Lamenting thus in that forest, the son of Daśaratha (evaṃ sa vilapaṃs tasmi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thatched with sāla, tāla, and aśvakarṇa leaves and strewn with soft kuśa grass like a sacrificial altar, the leaf-hut gleams with gold-backed bows, sunbeam-bright arrows, golden-sheathed swords, gold-studded shields, and a blazing altar sloping northeast.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सालतालाश्वकर्णानां पर्णैर्बहुभिरावृताम् ।  
@@ -1210,6 +1242,14 @@ There in Rāma’s dwelling Bharata beheld a spacious, sacred altar sloping towa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing into the bower, Bharata beholds Rāma seated like the eternal Brahmā on a darbha-strewn altar with Sītā and Lakṣmaṇa, clad in black antelope skin, bark-cloth, and matted locks; overwhelmed with grief, he rushes toward him weeping.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरीक्ष्य स मुहूर्तं तु ददर्श भरतो गुरुम् ।  
@@ -1426,6 +1466,14 @@ On seeing his brother, Bharata broke into lamentations and in a voice strangled 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The very moment he beheld him, Bharata lamented in distress in a voice choked with tears (dṛṣṭvaiva vilalāpārto bāṣpa-sandigdhayā girā); unable to restrain his anguish through fortitude, he spoke this word (aśaknuvan dhārayituṃ dhairyād vacanam abravīt):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata laments the cruel reversal of Rāma’s state—attended by wild deer instead of subjects in council, clad in two deerskins instead of priceless robes, bearing matted locks instead of garlands, and smeared with forest dust instead of sandal-paste.
 </details>
 </details>
 
@@ -1748,6 +1796,14 @@ cursed be my reprehensive existence that the whole world condemns!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 On my account Rāma, who is worthy of every happiness, has fallen into this misery (man-nimittam idaṃ duḥkhaṃ prāpto rāmaḥ sukhocitaḥ); fie upon the life of cruel me, despised by the whole world (dhig jīvitaṃ nṛśaṃsasya mama loka-vigarhitam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping and choked with tears, Bharata falls to the ground before reaching Rāma’s feet, able only to cry “O noble brother!”; Rāma embraces both Bharata and Śatrughna in tears, meets Sumantra and Guha like the sun and moon meeting Venus and Jupiter, and moves all the forest-dwellers to weep.
 </details>
 </details>
 

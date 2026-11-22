@@ -28,6 +28,14 @@ with affection.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Led by Vasiṣṭha, Daśaratha’s queens approach the Mandākinī and behold the bathing-ghat used by Rāma and Lakṣmaṇa; Kausalyā tearfully praises Lakṣmaṇa to Sumitrā for his untiring service in fetching water for his elder brother.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां श्रुत्वा करुणां वाचं पितुर्मरणसंहिताम् ।  
@@ -255,6 +263,14 @@ plaintively.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Though your son has performed a lowly task, he is nowise censured; whatever is fraught with benefit for his elder brother is wholly enjoined as virtuous (jaghanyam api te putraḥ kṛtavān na tu garhitaḥ bhrātur yad artha-sahitaṃ sarvaṃ tad vihitaṃ guṇaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praying that Lakṣmaṇa may now be relieved of his menial toil, Kausalyā catches sight of the iṅgudī-pulp piṇḍa laid by Rāma on southward-pointing darbha grass and laments to her co-wives that a monarch like Indra should be offered oil-cake.
 </details>
 </details>
 
@@ -550,6 +566,14 @@ who will counsel me when my exile in the forest is over?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having enjoyed the earth bounded by the four oceans, how can that lord of the earth, equal to great Indra, eat iṅgudī oil-cake (catur-antāṃ mahīṃ bhuktvā mahendra-sadṛśo vibhuḥ katham iṅgudi-piṇyākaṃ sa bhuṅkte vasudhādhipaḥ)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving that her heart does not burst into a thousand pieces on seeing Rāma’s offering of iṅgudī meal, Kausalyā recalls the proverb that a man’s gods eat what he eats; entering the hermitage, the queens weep aloud as Rāma clasps their feet.
 </details>
 </details>
 
@@ -872,6 +896,14 @@ Rising up, Rāma, that tiger among men and keeper of his word, clasped the auspi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With soft-fingered hands the queens wipe the dust from Rāma’s back; Lakṣmaṇa bows to them in turn and receives the same maternal affection, while Kausalyā clasps the tearful, forest-worn Sītā like her own daughter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सान्त्वयित्वा तु तां रामो रुदतीं जनकात्मजाम् ।  
@@ -1085,6 +1117,14 @@ Mandakini.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā laments Sītā’s faded countenance—like a sun-scorched lotus, a crushed lily, dust-dimmed gold, or a cloud-veiled moon; Rāma then clasps the feet of the family priest Vasiṣṭha, as Indra clasps Bṛhaspati’s, and sits beside him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते सुतीर्थां ततः कृच्छ्रादुपगम्य यशस्विनः ।  
@@ -1280,6 +1320,14 @@ brothers, offered balls of food to his father.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Clasping the feet of that family priest of richly abounding splendor, who was like fire itself—just as Indra, lord of the immortals, clasps the feet of Bṛhaspati—Rāghava sat down together with him (purohitasyāgni-samasya vai tadā bṛhaspater indra ivāmarādhipaḥ pragṛhya pādau su-samṛddha-tejasaḥ sahaiva tenopaviveśa rāghavaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata sits down behind them with his ministers, leading citizens, and soldiers, gazing with folded hands upon Rāma in ascetic garb as Indra gazes upon Prajāpati; surrounded by their friends, the three brothers shine like the three sacrificial fires.
 </details>
 </details>
 

@@ -29,6 +29,14 @@ having communicated the agreeable news to him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vibhīṣaṇa brings the flower-decked Puṣpaka and asks what more he should do, Rāma bids him reward the heroic Vānaras with gems and wealth for conquering Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यां तु समालोक्य चिन्तयामास राघवः ।  
@@ -331,6 +339,14 @@ All these forest-dwellers have accomplished their task (kṛtakarmāṇaḥ); th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praised by Rāma for his generosity and compassion, Vibhīṣaṇa lavishes gems and treasure upon the Vānara chiefs, whereupon Rāma ascends the Puṣpaka with Sītā and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतस्तु त्वया वाच्यः कुशलं वचनान्मम ।  
@@ -495,6 +511,14 @@ the grace of Shiva the Supreme Deity."
 **10:** Addressed thus by Rāma, Vibhīṣaṇa honoured all those Vānaras without exception with a fitting distribution of gems and wealth (ratnārthasaṃvibhāgena).
 
 **11:** Then, beholding those leaders of the monkey troops duly honoured with gems and wealth, Rāma thereupon ascended (āruroha) that peerless celestial chariot,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated in the Puṣpaka, Rāma affectionately bids farewell to the Vānara hosts, directs Sugrīva to return to Kiṣkindhā and Vibhīṣaṇa to rule Laṅkā, and asks leave to depart.
 </details>
 </details>
 
@@ -766,6 +790,14 @@ I shall now depart for Ayodhyā, the royal capital of my father (rājadhānīṃ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva, the Vānaras, and Vibhīṣaṇa beg to accompany Rāma to Ayodhyā to witness his consecration and salute Kausalyā, delighting Rāma beyond measure.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बुद्धिं च विज्ञाय व्यवसायं च वानर ।  
@@ -979,6 +1011,14 @@ chief of Nishadas), that valiant Hanuma spoke the following words in a charming 
 **21:** Addressed thus by the Vānaras together with Vibhīṣaṇa, the righteous-souled Rāma spoke to the Vānaras accompanied by Sugrīva and Vibhīṣaṇa (sasugrīvavibhīṣaṇān):
 
 **22:** “Something dearer even than what is dear (priyāt priyataraṃ labdham) has been gained by me, in that I, surrounded by my circle of friends (sasuhṛjjanaḥ), shall attain the joy of entering the city accompanied by all of you (sarvair bhavadbhiḥ sahitaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's invitation, Sugrīva with the Vānara army and Vibhīṣaṇa with his ministers board the spacious Puṣpaka, which rises into the sky like Kubera's swan-drawn car.
 </details>
 </details>
 

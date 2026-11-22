@@ -24,6 +24,14 @@ The scheming of the composition of epic Ramayana is described here. Whole of the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated upon east-pointed darbha grass after ritual ablution, Maharṣi Vālmīki enters yogic samādhi and beholds the entire history of Śrī Rāma as clearly as an āmalaka fruit on the palm of his hand.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा वस्तु समग्रं तद्धर्मार्थसहितं हितम् ।  
@@ -336,6 +344,14 @@ Established in yogic contemplation (yogam āsthitaḥ), that righteous-souled sa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the entire history of the delightful Rāma, the sage composes the ocean-like epic—beginning with Rāma’s divine birth, his journey with Viśvāmitra, the breaking of Śiva’s bow, Sītā’s wedding, and Kaikeyī’s malice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महामतिः ।  
@@ -590,6 +606,14 @@ Various wondrous tales and other discourses during his journey in the company of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The summary of Ayodhyākāṇḍa and the opening of Araṇyakāṇḍa: the thwarting of the consecration, Rāma’s exile, Daśaratha’s passing, Bharata’s entreaty at Citrakūṭa, the consecration of the sandals, and the meetings with Virādha, Śarabhaṅga, Sutīkṣṇa, and Anasūyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामरामविवादं च गुणान् दाशरथेस्तथा ।  
@@ -681,6 +705,38 @@ The grief of the subjects; Rama leaving them off; his conversing with tribal chi
 **13:** The thwarting of the royal consecration (vighātaṃ cābhiṣekasya) and the banishment of Rāma to the forest; the King’s grief and lamentation, and his departure to the other world (paralokasya cāśrayam);
 
 **14:** The sorrow of the citizens (prakṛtīnāṃ viṣādam) and his taking leave of the subjects (prakṛtīnāṃ visarjanam); the dialogue with Guha, lord of the Niṣādas, and the return of the charioteer Sumantra (sūtopāvartanam);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The summary of Araṇyakāṇḍa and Kiṣkindhākāṇḍa: receiving the Vaiṣṇava bow from Agastya, the disfigurement of Śūrpaṇakhā, the slaying of Khara, Triśiras, and Mārīca, the abduction of Sītā, Jaṭāyu’s fall, Śabarī’s hospitality, the alliance with Sugrīva, and the slaying of Vālī.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The conclusion of Kiṣkindhākāṇḍa and the opening of Sundarakāṇḍa: the marshalling of the vānara hosts, the gift of the signet ring, Svayamprabhā’s cave, Sampāti’s counsel, Hanumān’s leap across the ocean, the encounters with Maināka, Surasā, and Siṃhikā, and his nocturnal search through Laṅkā to Aśokavanikā.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The climax of Sundarakāṇḍa and the opening of Yuddhakāṇḍa: Hanumān presents Rāma’s token to Sītā, receives her crest-jewel, shatters the grove, burns Laṅkā, leaps back to console Rāma, and joins the march to the ocean, the building of Nala’s bridge, and the alliance with Vibhīṣaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The conclusion of Yuddhakāṇḍa and the composition of Uttarakāṇḍa: the slaying of Kumbhakarṇa, Meghanāda, and Rāvaṇa, Vibhīṣaṇa’s coronation, the return to Ayodhyā, Rāma’s imperial consecration, the banishment of Vaidehī, and the future history composed in the Uttara-kāvya.
 </details>
 </details>
 

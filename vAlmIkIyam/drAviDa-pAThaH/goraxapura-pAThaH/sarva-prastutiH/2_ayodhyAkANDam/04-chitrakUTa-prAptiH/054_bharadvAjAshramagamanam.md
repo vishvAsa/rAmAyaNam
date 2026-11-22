@@ -28,6 +28,14 @@ Chitrakuta.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting forth at daybreak from the great banyan tree and traversing the deep forest through varied and charming regions, Rāma perceives at afternoon the rising sacrificial smoke and the roaring confluence of the Gaṅgā and the Yamunā at Prayāga.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु तस्मिन् महावृक्षे उषित्वा रजनीं शुभाम् ।  
@@ -335,6 +343,14 @@ produced by clashing of waters is heard."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Noting the split firewood and varied trees bordering Bharadvāja’s hermitage, Rāma, Lakṣmaṇa, and Sītā arrive at the confluence as the sun hangs low and reverently salute the great sage after his evening fire-oblation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दारूणि परिभिन्नानि वनजैरुपजीविभिः ।  
@@ -621,6 +637,14 @@ and Seetha greeted him with joined palms.
 **11:** Having entered, Rāma beheld that high-souled sage surrounded by bands of disciples (śiṣya-gaṇair vṛtam), of sharpened vows (saṃśita-vratam), one-pointed in concentration, who had gained spiritual vision through austerity (tapasā labdha-cakṣuṣam).
 
 **12:** The very moment he beheld that illustrious sage who had just offered the agnihotra oblation (hutāgnihotraṃ dṛṣṭvaiva), Rāma, with joined palms, bowed in salutation together with Saumitri and Sītā (sītayā cābhyavādayat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma introduces himself, Sītā, and Lakṣmaṇa to Sage Bharadvāja and recounts their forest exile at their father’s command, whereupon the righteous sage offers them traditional hospitality, woodland fare, and a place of rest.
 </details>
 </details>
 
@@ -920,6 +944,14 @@ He of austere penance (tapta-tapāḥ) gave them varied foods and beverages deri
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Welcoming Rāma amidst the ascetics and woodland creatures, Bharadvāja invites him to dwell happily at the sacred confluence of the two great rivers, but Rāma replies that the proximity of the citizens and countryfolk renders the hermitage too accessible.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगपक्षिभिरासीनो मुनिभिश्च समन्ततः ।  
@@ -1152,6 +1184,14 @@ interested in the welfare of all, replied in the following pleasant words.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Bharadvāja, Rāghava—Rāma, ever devoted to the welfare of all beings (sarva-hite rataḥ)—replied with an auspicious speech:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking Bharadvāja to indicate a secluded hermitage site where Sītā may delight in peace, Rāma hears the great sage praise Mount Citrakūṭa—ten krośas distant, frequented by sages and woodland creatures, and sanctifying all who behold its peaks.
 </details>
 </details>
 
@@ -1483,6 +1523,14 @@ virtuous deeds and will never set his mind on a sin."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how ancient sages ascended to heaven from Citrakūṭa through their austerities, Bharadvāja receives Rāma, Sītā, and Lakṣmaṇa with every hospitality, and they pass the sacred night at Prayāga in varied discourse.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयस्तत्र बहवो विहृत्य शरदां शतम् ।  
@@ -1753,6 +1801,14 @@ With Sītā as the third of their company (sītā-tṛtīyaḥ), Kākutstha—th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak Rāma approaches the radiant sage Bharadvāja to request leave to depart for his forest abode, and the sage directs him to journey to Mount Citrakūṭa, rich in honey, roots, and fruits.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां भरद्वाजमुपागमत् ।  
@@ -1914,6 +1970,14 @@ That night having come to an end, Bharadwaja replied for his part, as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When that night had dawned (rātryāṃ tu tasyāṃ vyuṣṭāyām), Bharadvāja spoke this word: “Go forth to Citrakūṭa (citrakūṭaṃ vrajeti ha), which abounds in honey, roots, and fruits (madhu-mūla-phalopetam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Citrakūṭa’s resonant peacock cries, roaming herds of elephants and deer, mountain streams, caverns, and waterfalls, Bharadvāja bids Rāma and Sītā take up their joyful abode upon that auspicious mountain.
 </details>
 </details>
 

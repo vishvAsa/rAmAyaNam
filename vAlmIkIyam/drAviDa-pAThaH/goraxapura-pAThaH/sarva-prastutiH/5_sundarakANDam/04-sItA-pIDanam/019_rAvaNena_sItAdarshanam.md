@@ -22,6 +22,14 @@ In this chapter Valmiki describes the plight of Seetha in Ashoka garden in detai
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Catching sight of Rāvaṇa decked in youth and finest jewels, Vaidehī trembles like a plantain tree in a storm and shields her body while sitting on the bare earth like a severed bough.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन्नेव ततः काले राजपुत्री त्वनिन्दिता ।  
@@ -257,6 +265,14 @@ Her limbs smeared with grime as her only adornment (malamaṇḍanadigdhāṅgī
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Journeying to Rāma on the chariot of her longing yoked with the steeds of thought, Sītā writhes like a spell-bound serpent-bride and resembles dishonored faith, frustrated hope, and desecrated worship.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीपं राजसिंहस्य रामस्य विदितात्मनः ।  
@@ -448,6 +464,14 @@ Seetha appeared as if She was born in a bad family.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Born in a pious family of noble conduct, character, and custom (vṛttaśīle kule jātām ācāravati dhārmike), yet having undergone a new initiation (punaḥ saṃskāram āpannām) as though born in a base family (jātām iva ca duṣkule);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through a cascade of tragic similes, Sītā is likened to an eclipsed full-moon night, a desecrated altar, an elephant-trampled lotus pond, a drained river, and a heat-scorched lotus stalk.
 </details>
 </details>
 
@@ -728,6 +752,14 @@ best washing, was like a new moon night.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Delicate (sukumārīm), of finely formed limbs (sujātāṅgīm), worthy of a jewel-chambered palace (ratnagarbhagṛhocitām), yet scorched as though by heat like a newly uprooted lotus-stalk (tapyamānām ivoṣṇena mṛṇālīm aciroddhṛtām);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining effortlessly with a single dark braid like the autumn earth with a forest-belt and praying mentally to Rāma for Daśagrīva's defeat, Sītā is accosted by Rāvaṇa unto his own destruction.
 </details>
 </details>
 

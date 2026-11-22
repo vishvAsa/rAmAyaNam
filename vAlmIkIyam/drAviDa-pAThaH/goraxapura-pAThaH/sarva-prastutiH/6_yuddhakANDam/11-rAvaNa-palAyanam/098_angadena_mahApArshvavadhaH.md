@@ -25,6 +25,14 @@ Mahaparshva falls dead, succumbing to a forcible blow of Angada's fist.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grief-stricken by Virūpākṣa’s fall and his army’s depletion, Rāvaṇa urges Mahodara to repay his royal salt, sending the demon charging like a moth into fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदरे तु निहते महापार्श्वो महाबलः ।  
@@ -343,6 +351,14 @@ Thus addressed, Mahodara, chief of rākṣasas, replied, “So be it!” and plu
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spurred by Rāvaṇa’s words, Mahodara severs the limbs of the monkeys with gold-decked arrows until Sugrīva charges forward, hurling a mountain-like crag.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन प्रहारेण महापार्श्वो विचेतनः ॥ ७ ॥  
@@ -579,6 +595,14 @@ with anger and seized hold of a terrific iron rod.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seizing a huge, dreadful crag equal to a mountain (mahīdharasamāṃ śilām), the lord of monkeys, of immense splendor, hurled it to slay him.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mahodara shatters Sugrīva’s hurtling boulder and uprooted sāla tree with volleys of arrows, whereupon Sugrīva seizes an iron bar, slaying the demon’s chariot steeds.
 </details>
 </details>
 
@@ -842,6 +866,14 @@ Leaping down from that great chariot whose horses were slain (tasmād dhatahayā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clash of mace and iron bar shatters Mahodara’s club and Sugrīva’s weapon alike, prompting the monkey lord to hurl a gold-decked iron pestle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन वामांसफलके भृशं प्रत्यवपातितम् ॥ १९ ॥  
@@ -1091,6 +1123,14 @@ arose in Ravana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then radiant Sugrīva seized from the surface of the earth a dreadful iron pestle (āyasaṃ musalam), adorned on every side with gold.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With their weapons shattered, Sugrīva and Mahodara grapple fiercely with fists and palms until both grow weary and snatch up fallen swords and shields.
 </details>
 </details>
 

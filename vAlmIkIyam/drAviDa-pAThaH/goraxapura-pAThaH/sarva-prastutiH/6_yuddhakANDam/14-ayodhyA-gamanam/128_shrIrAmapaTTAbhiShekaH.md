@@ -38,6 +38,14 @@ of the epic is complemented in the end by Valmiki.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mindful of Bharata's vow, Rāma dispatches Hanūmān ahead to Śṛṅgaverapura and Ayodhyā to greet his dear friend Guha and learn the welfare of the royal household.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरस्यञ्जलिमाधाय कैकेयीनन्दिवर्धनः ।  
@@ -292,6 +300,14 @@ a donkey would follow the gallop of a horse or a crow would take up the chase of
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing that I am safe and sound (kuśalinam), free from illness (arogam), and rid of all feverish sorrow (vigatajvaram), Guha will be delighted—for he is my friend, dear to me as my own self (mama ātmasamaḥ sakhā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma instructs Hanūmān to recount to Bharata all that has befallen him—from Sītā's abduction and Hanūmān's leap across the ocean to Rāvaṇa's fall and Rāma's arrival with Sugrīva and Vibhīṣaṇa.
 </details>
 </details>
 
@@ -592,6 +608,14 @@ his words saying "Be it so" and sat on an auspicious seat.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks Hanūmān to observe Bharata's facial expression, gaze, and speech upon hearing the news, declaring that if Bharata wishes to continue ruling the ancestral kingdom, he may gladly do so.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शत्रुघ्नवचनान्निपुणाः श्मश्रुवर्धनाः ।  
@@ -849,6 +873,14 @@ zeal all the wives of monkeys.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having ascertained his mind (buddhim) and his firm resolve (vyavasāyam), O monkey, pray return swiftly (kṣipram āgantum arhasi) while we have not yet traveled far (yāvan na dūraṃ yātāḥ smaḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuming a human form, Hanūmān springs into the sky like Garuḍa, crosses the confluence of the Gaṅgā and Yamunā, and delivers Rāma's joyful message to Guha at Śṛṅgaverapura.
 </details>
 </details>
 
@@ -1158,6 +1190,14 @@ advancement and the prosperity of the City.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thrilled with joy, Hanūmān springs aloft from Śṛṅgaverapura, passes Rāmatīrtha, the Gomatī, and flourishing Kosala towns, and beholds the emaciated ascetic Bharata at Nandigrāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वमेवाभिषेकार्थं जयार्हस्य महात्मनः ।  
@@ -1441,6 +1481,14 @@ host of the gods, praised Rama and sweet reverberation was heard.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 he beheld Bharata, afflicted (dīnam), emaciated (kṛśam), dwelling in a hermitage (āśramavāsinam), wearing matted locks (jaṭilam), his limbs smeared with dirt (maladigdhāṅgam), wasted away by the calamity of his brother's exile (bhrātṛvyasanakarśitam),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Bharata ruling the earth from behind Rāma's sandals like Dharma incarnate, surrounded by ministers in ochre robes, Hanūmān joins his palms and addresses him.
 </details>
 </details>
 
@@ -1738,6 +1786,14 @@ Hanūmān, the son of the Wind-god, with joined palms (prāñjaliḥ), spoke thi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān announces that Rāma has slain Rāvaṇa, recovered Sītā, and is approaching with Lakṣmaṇa and his allies; overcome with sudden rapture, Bharata swoons with joy before reviving.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुरोगामिभिस्तूर्यैस्तालस्वस्तिकपाणिभिः ।  
@@ -2001,6 +2057,14 @@ together with the monkeys.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then after a moment (muhūrtāt), rising up and recovering his breath (pratyāśvasya ca), Rāghava Bharata spoke this word to Hanūmān, the speaker of welcome tidings (priyavādinam),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Hanūmān and bathing him in tears of joy, Bharata offers him a hundred thousand cows, a hundred villages, and sixteen noble maidens as a reward for his glad tidings.
 </details>
 </details>
 

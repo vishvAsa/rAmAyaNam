@@ -26,6 +26,14 @@ countermove the universe, even by waging a war with gods.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a piteous voice Rāma sends the swift-striding Lakṣmaṇa to search the banks of the Godāvarī for Sītā, and upon hearing she is not there, hastens to the river himself.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दीनो दीनया वाचा लक्ष्मणं वाक्यमब्रवीत् ।  
@@ -274,6 +282,14 @@ Vaidehi, has got round to, or where that frailty is, that place is really incomp
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For I do not know that place (nahi taṃ vedmi), O Rāma, where that slender-waisted lady abides (yatra sā tanu-madhyamā).” Hearing Lakṣmaṇa's words, wretched and bewildered by anguish (dīnaḥ saṃtāpa-mohitaḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though urged by the forest creatures to speak, the river Godāvarī stays silent out of dread of Rāvaṇa, leaving the emaciated Rāma despairing of how to face Sītā's parents.
 </details>
 </details>
 
@@ -631,6 +647,14 @@ surviving in forests on forest produce, such as she is, where has she gone, real
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Facing sleepless nights without Sītā, Rāma notices the great deer gazing at him with expressive gestures; when questioned, they spring up facing south and look skyward along her abduction path.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातिवर्गविहीनस्य वैदेहीमप्यपश्यतः ॥ १३ ॥  
@@ -914,6 +938,14 @@ All facing the south (dakṣiṇābhimukhāḥ sarve) and pointing toward the va
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Observing the deer running southward while glancing alternately at the sky and the earth, Lakṣmaṇa deciphers their mute gestures and leads Rāma toward the demon-haunted southwestern quarter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन मार्गं च भूमिं च निरीक्षन्ते स्म ते मृगाः ॥ १९ ॥  
@@ -1162,6 +1194,14 @@ the walkway bestrewn with flowers fallen from a person. [3-64-24b, 25a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Followed by Lakṣmaṇa, the glorious prince scanned the earth (lakṣmaṇānugataḥ śrīmān vīkṣamāṇo vasuṃdharām). Conversing thus with one another, both those brothers (evaṃ sambhāṣamāṇau tāv anyonyaṃ bhrātarāv ubhau)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spotting a trail of fallen blossoms that he had given Sītā to braid in her hair, Rāma blesses the Sun, Wind, and Earth, then questions Mount Prasravaṇa in rising wrath.
 </details>
 </details>
 
@@ -1440,6 +1480,14 @@ next lines.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Righteous-souled Rāma addressed the mountain (uvāca rāmo dharmātmā girim) that was filled with cascading streams (prasravaṇākulam): “O lord of mountains (kṣiti-bhṛtāṃ nātha), hast thou perchance seen her who is lovely in every limb (kaccit... dṛṣṭā sarvāṅga-sundarī)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatening to burn Mount Prasravaṇa to ashes and dry up the Godāvarī, the wrathful Rāma spots upon the ground the huge footprints of the demon alongside Sītā's fleeing steps.
 </details>
 </details>
 
@@ -1774,6 +1822,14 @@ Rāma beheld upon the ground the huge footprint of a rākṣasa (dadarśa bhūma
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Sītā's fleeing footprints, a shattered bow, quivers, and chariot, scattered gold beads, and drops of blood, Rāma fears that two demons fought a fierce duel over her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स समीक्ष्य परिक्रान्तं सीताया राक्षसस्य च ॥ ३७ ॥  
@@ -2037,6 +2093,14 @@ themselves on account of Vaidehi... [3-64-42]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For the sake of that Sītā (tasyā nimittaṃ sītāyāḥ), O Saumitri, a dreadful battle took place here (babhūva yuddhaṃ... ghoraṃ... iha) between two contending rākṣasas (dvayor vivadamānayoḥ... rākṣasayoḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surveying the wreckage of Rāvaṇa's equipage, Rāma points out a pearl-inlaid bow, a gem-studded golden corselet, a hundred-ribbed parasol, slain goblin-faced mules, a shattered war-chariot, and axle-long arrows.
 </details>
 </details>
 
@@ -2382,6 +2446,14 @@ axle...' Some others said the size of arrow is eighty-four inches according to s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing shattered quivers, a slain charioteer, and demon footprints, Rāma declares hundredfold enmity against the rākṣasas and warns that all beings despise even the compassionate Creator out of ignorance.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरावरौ शरैः पूर्णौ विध्वस्तौ पश्य लक्ष्मण ॥ ४९ ॥  
@@ -2685,6 +2757,14 @@ unenlightenment of those beings... [3-64-54]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that the gods mistook his gentleness for weakness, Rāma vows to unleash his splendour like the doomsday sun, filling the sky with arrows and arresting the planets.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृदुं लोकहिते युक्तं दान्तं करुणवेदिनम् ।  
@@ -2918,6 +2998,14 @@ an impassable sphere for the treaders in the triad of worlds... [3-64-59]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Behold the sky filled with my missile-arrows, O Lakṣmaṇa (mamāstra-bāṇa-sampūrṇam ākāśaṃ paśya lakṣmaṇa)! This very day I shall render it impassable for all who course through the three worlds (asampātaṃ kariṣyāmi hy adya trailokya-cāriṇām)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Churning mountain peaks and drying up seas, Rāma vows that unless the gods restore Sītā unharmed, his ear-drawn arrows will rid the world of all goblins and demons.
 </details>
 </details>
 
@@ -3275,6 +3363,14 @@ mine, projected by my wrath and released by my irascibility... [3-64-66b, 67a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to shatter the worlds of gods and demons unless Sītā is restored unharmed, the copper-eyed Rāma, his lips quivering, girds his deerskin and binds his matted locks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव देवा न दैतेया न पिशाचा न राक्षसाः ॥ ६७ ॥  
@@ -3555,6 +3651,14 @@ spasmodically, he girded up his jute-cloths and deerskin and twined up the mass 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, his eyes copper-red with wrath (krodha-tāmrākṣaḥ) and his lips quivering (sphuramāṇoṣṭha-sampuṭaḥ), he girded his bark-garment and deerskin tightly (valkalājinam ābaddhya) and bound up his mass of matted locks (jaṭā-bhāram abandhayat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like Rudra destroying Tripura, Rāma grips his bow, nocks a serpent-like arrow, and swears as unstoppably as Death and Fate to overturn the universe unless Sītā is restored.
 </details>
 </details>
 

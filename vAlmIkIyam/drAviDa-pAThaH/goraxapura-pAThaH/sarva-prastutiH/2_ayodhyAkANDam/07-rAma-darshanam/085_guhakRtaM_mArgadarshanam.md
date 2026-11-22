@@ -28,6 +28,14 @@ Bharata thanks Guha for having come forward to offer hospitality to him and his
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Guha’s magnanimous hospitality as already fulfilled by his goodwill, Bharata asks the way to Bharadvāja’s hermitage across the dense Gaṅgā river-tract, and Guha offers to guide him with his bowmen.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु भरतो निषादाधिपतिं गुहम् ।  
@@ -335,6 +343,14 @@ certainly accompany you. I too will follow you (inperson).?
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Well-composed boatmen armed with bows shall follow you, and I myself shall accompany you, O prince of great renown (dāśās tvānugamiṣyanti dhanvinaḥ su-samāhitāḥ ahaṃ tv ānugamiṣyāmi rāja-putra mahā-yaśaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Guha voices his misgiving at the vast army, Bharata, pure as the sky, solemnly swears that Rāma is like a father to him and that he marches only to bring him back—whereupon Guha hails Bharata as peerless on earth.
 </details>
 </details>
 
@@ -650,6 +666,14 @@ empire you acquired now, even without effort.?
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guha prophesies eternal fame for Bharata as night falls; retiring to his couch with Śatrughna, the undeserving Bharata is consumed within by the fire of grief for Rāma like a forest-scorched tree with a fire in its hollow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शाश्वती खलु ते र्कीतिर्लोकाननु चरिष्यति ।  
@@ -911,6 +935,14 @@ of anguish burn with in his heart.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Burning with an inward blaze, that fire of grief tormented Rāghava, just as a fire hidden in the hollow torments a tree already scorched by a forest conflagration (antar-dāhena dahanaḥ santāpayati rāghavam vana-dāhābhisantaptaṃ gūḍho 'gnir iva pādapam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathed in sweat born of the fire of grief like Himavān melting in the sun, and crushed under a metaphorical mountain of sorrow, Bharata sighs like a bull driven from the herd while Guha consoles him.
 </details>
 </details>
 

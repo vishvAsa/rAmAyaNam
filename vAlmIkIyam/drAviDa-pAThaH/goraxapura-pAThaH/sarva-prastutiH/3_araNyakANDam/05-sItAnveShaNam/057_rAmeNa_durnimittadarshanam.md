@@ -23,6 +23,14 @@ some ill omens and worries why Lakshmana left Seetha alone and came to him, sad 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning back swiftly after slaying the shape-shifting Mārīca, Rāma hears a jackal howling behind him and fears that Mārīca's counterfeit cry will draw Lakṣmaṇa away from Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसं मृगरूपेण चरन्तं कामरूपिणम् ।  
@@ -309,6 +317,14 @@ her off. [3-57-5, 6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deducing that the rākṣasas conspired through the golden deer to harm Sītā, the anxious Rāghava re-enters Janasthāna as beasts and birds approach him on his left.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसैः सहितैर्नूनं सीताया ईप्सितो वधः ।  
@@ -565,6 +581,14 @@ have neared him whose heart has become doleful. [3-57-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —Rāghava arrived at Janasthāna (ājagāma janasthānam) full of apprehension (pariśaṅkitaḥ). Beasts and birds (mṛga-pakṣiṇaḥ) approached him, who was dejected in mind and downcast (taṃ dīna-mānasaṃ dīnam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the beasts and birds circling him on the left with dreadful cries, Rāma hastens back and meets the downcast Lakṣmaṇa, reproaching him for leaving Sītā alone in the demon-haunted forest.
 </details>
 </details>
 
@@ -887,6 +911,14 @@ somewhat safe, or everything has already gone astray now itself, or what. [3-57-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—you have come here leaving Sītā, O gentle one (sītām ihāgataḥ saumya)! Can it be that all is well with her (kaccit svasti bhaved iti)? I have no doubt, O hero (na me 'sti saṃśayo vīra), that by every reckoning the daughter of Janaka (sarvathā janakātmajā)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reading the blazing southern sky, the howling jackals, and his throbbing left eye, Rāma concludes in anguish that Sītā has been abducted, slain, or is even now being carried along the road.
 </details>
 </details>
 

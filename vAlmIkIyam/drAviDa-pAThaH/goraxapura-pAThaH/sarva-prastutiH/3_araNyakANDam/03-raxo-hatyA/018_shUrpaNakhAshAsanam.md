@@ -28,6 +28,14 @@ Rama averts Shuurpanakha's advances toward him and asks her to seek Lakshmana in
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling at lust-ensnared Śūrpaṇakhā, Rāma declines her proposal on the plea that he is already wedded and playfully directs her to his handsome younger brother Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु शूर्पणखां रामः कामपाशावपाशिताम् ।  
@@ -382,6 +390,14 @@ to Lakshmana. [3-18-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Rāma, that rākṣasī, infatuated with lust (kāma-mohitā), immediately left Rāma and spoke to Lakṣmaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approached by Śūrpaṇakhā, eloquent Lakṣmaṇa smiles and turns her back toward Rāma, arguing that she should not become a bondmaid by marrying Rāma’s dependent servant.
 </details>
 </details>
 
@@ -747,6 +763,14 @@ personality, indeed, in preference to human females?" Lakshmana said so to Shuur
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blind to Lakṣmaṇa’s irony, Śūrpaṇakhā returns to the cottage, threatens to devour Sītā before Rāma’s eyes, and rushes at the doe-eyed princess like a meteor falling upon Rohiṇī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सा लक्ष्मणेनोक्ता कराला निर्णतोदरी ।  
@@ -1016,6 +1040,14 @@ Speaking thus, she whose eyes glared like firebrands (alāta-sadṛśekṣaṇā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Checking the charging demoness, angered Rāma warns Lakṣmaṇa never to jest with the cruel and commands him to disfigure her; Lakṣmaṇa slices off her ears and nose, and she flees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां मृत्युपाशप्रतिमामापतन्तीं महाबलः ।  
@@ -1274,6 +1306,14 @@ speedily fled into forest as she came. [3-18-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With her ears and nose lopped off (nikṛtta-karṇa-nāsā), that dreadful Śūrpaṇakhā uttered a discordant shriek (visvaraṃ vinadya) and fled headlong into the forest by the way she had come (yathāgatam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drenched in blood and roaring like a monsoon thundercloud, mutilated Śūrpaṇakhā flees through the forest to Janasthāna, collapses like a thunderbolt before Khara, and reports her disfigurement.
 </details>
 </details>
 

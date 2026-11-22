@@ -27,6 +27,14 @@ Hanuma to undertake the task of leaping the ocean.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prompted by Aṅgada's inquiry, the foremost monkey chieftains—from Gaja and Gavākṣa to Ṛṣabha and Gandhamādana—declare in ascending order the distances they can leap across the sea.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाङ्गदवचः श्रुत्वा ते सर्वे वानरर्षभाः ।  
@@ -260,6 +268,14 @@ Then Gandhamādana of great splendour (mahātejāḥ) said to the monkeys: “I 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mainda, Dvivida, and Suṣeṇa pledge sixty, seventy, and eighty yojanas respectively, whereupon the aged Jāmbavān honors the chieftains and reflects on how old age has diminished his former speed.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मैन्दस्तु वानरस्तत्र वानरांस्तानुवाच ह ।  
@@ -439,6 +455,14 @@ about their jumping capacities, has informed them in this way. [4-65-10]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 While they were speaking (teṣāṃ kathayatām) there, the oldest among them (vṛddhatamas teṣām), Jāmbavān, having shown due respect (anumānya) to them all, replied.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jāmbavān declares his current capacity of ninety yojanas while recalling how in youth he circumambulated Lord Trivikrama at Bali's sacrifice, prompting Prince Aṅgada to step forward.
 </details>
 </details>
 
@@ -796,6 +820,14 @@ Then the wise great monkey Aṅgada (prājño mahākapiḥ), having shown due ho
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada offers to leap the full hundred yojanas despite uncertainty about his return, but Jāmbavān forbids him, declaring that the commander and root of the army must be guarded like a wife.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमेतद् गमिष्यामि योजनानां शतं महत् ।  
@@ -1119,6 +1151,14 @@ Angada, you are always to be protected like anything that needs safeguarding... 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jāmbavān explains that preserving the root guarantees every fruitful success, whereat Aṅgada warns that if no monkey can cross the sea, they must resume their fast unto death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूलमर्थस्य संरक्ष्यमेष कार्यविदां नयः ।  
@@ -1438,6 +1478,14 @@ without fulfilling the bidding of that resolute king of monkeys Sugreeva... [4-6
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For without having fulfilled the command (akṛtvā saṃdeśam) of that wise lord of monkeys [Sugrīva], on going back there too (tatrāpi gatvā) I do not see the preservation of our lives (prāṇānāṃ na paśye parirakṣaṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warned by Aṅgada of Sugrīva's fierce wrath and implored to devise a solution, Jāmbavān reassures the prince and turns to rouse the heroic Hanumān seated quietly apart.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ that Indrajit alone is enough to kill the army of monkeys together with Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ignorant of the enemy's true might, the mighty rākṣasas fold their hands and extol Rāvaṇa's past victories over serpents, yakṣas, and the lord of wealth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्ता राक्षसेन्द्रेण राक्षसास्ते महाबलाः ।  
@@ -314,6 +322,14 @@ in prison, this aerial car (Pushpak) was procured by you from Mount Kailasa."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The rākṣasas recount Rāvaṇa's alliance with Maya, his subjugation of Madhu, Vāsuki, and the Kālakeya dānavas, and his triumph over Varuṇa's sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मयेन दानवेन्द्रेण त्वद्भयात् सख्यमिच्छता ।  
@@ -597,6 +613,14 @@ having four limbs (viz. elephants, chariots, cavalry and infantry) were defeated
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunging into the dread ocean of Yama's host, Rāvaṇa repelled Death himself and slew heroic kṣatriya kings whom Rāghava cannot match in valor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृत्युदण्डमहाग्राहं शाल्मलीद्रुममण्डितम् ।  
@@ -781,6 +805,14 @@ Those warriors, who were difficult to be overcome in battle, were overpowered an
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Rāvaṇa remain at ease, the counselors praise Indrajit, who won a supreme boon from Maheśvara and plunged into the vast ocean of the celestial army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठ वा किं महाराज श्रमेण तव वानरान् ।  
@@ -885,6 +917,14 @@ lord shiva), a boon very rare to be obtained in the world, was acquired by him."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having offered the supreme sacrifice to Maheśvara (māheśvaram anuttamam iṣṭvā yajñam), O great King, he obtained a boon most difficult to win in the world (loke paramadurlabhaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having captured Indra himself and released him only at Brahmā's bidding, Indrajit should be dispatched to destroy Rāma's host while Rāvaṇa dismisses all anxiety.
 </details>
 </details>
 

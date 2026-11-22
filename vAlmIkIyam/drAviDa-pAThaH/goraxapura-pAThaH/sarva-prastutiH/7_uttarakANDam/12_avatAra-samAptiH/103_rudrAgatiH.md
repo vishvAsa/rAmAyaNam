@@ -13,6 +13,14 @@ title = "१०३ रुद्रागतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After a lapse of time, Kāla comes to the royal gate in ascetic guise as the envoy of a mighty sage; Lakṣmaṇa hastens to announce the sun-bright visitor to Rāma, who bids him usher the radiant sage inside.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित् त्वथ कालस्य रामे धर्मपरे स्थिते ।  
@@ -205,6 +213,14 @@ Hearing those words spoken by Lakṣmaṇa (tadvākyaṃ lakṣmaṇenoktam), R�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa conducts the blazing sage into Rāma’s presence; greeted with sweet words, Rāma honors him with arghya and a golden seat and asks for his master’s message, whereupon the ascetic insists their conference be strictly private.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रिस्तु तथेत्युक्त्वा प्रावेशयत तं मुनिम् ।  
@@ -394,6 +410,14 @@ Then Rāma said to him (tam uvāca tato rāmaḥ): “Welcome to you, O great sa
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Prompted by that lion among kings (codito rājasiṃhena), the sage spoke these words (munir vākyam abhāṣata): “This must be spoken in strict secrecy between us two (dvandvam etat pravaktavyam), if indeed you have regard for what is beneficial (hitaṃ vai yady apekṣase).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kāla stipulates that whoever sees or overhears their conference must be slain by Rāma; assenting, Rāma posts Lakṣmaṇa at the door under that dread vow and bids the sage speak freely, saying the matter already dwells in his own heart.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०९७ भू-साक्ष्या सीता-शपथः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With joined palms, Rāma affirms Vālmīki’s words, asks pardon for having banished the guiltless Sītā out of fear of public calumny, acknowledges Kuśa and Lava as his sons, and expresses his wish to welcome her back once vindicated—as Brahmā and the gods assemble.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाल्मीकिनैवमुक्तस्तु राघवः प्रत्यभाषत ।  
@@ -206,6 +214,14 @@ Understanding that intent of Rāma (abhiprāyaṃ tu vijñāya rāmasya), the fo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Celestial hosts—Ādityas, Vasus, Rudras, Maruts, Gandharvas, Nāgas, and Siddhas—throng the sky; as Rāma reiterates his faith and a fragrant heavenly breeze sweeps the multitude as in the Kṛta Yuga, ochre-clad Sītā lowers her gaze and speaks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्या वसवो रुद्रा विश्वेदेवा मरुद‍्गणाः ॥ ७ ॥  
@@ -342,6 +358,14 @@ The human beings gathered from all realms (mānavāḥ sarvarāṣṭrebhyaḥ) 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding all those assembled, Sītā, clad in ochre garments (kāṣāya-vāsinī), spoke these words with joined palms, eyes cast down and face lowered (adhodṛṣṭir avāṅmukhī):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Three times Sītā invokes Goddess Earth by her single-minded devotion to Rāma in thought, deed, and word; instantly a wondrous, peerless celestial throne rises from the ground, borne aloft upon the gem-crowned heads of mighty nāgas.
 </details>
 </details>
 
@@ -503,6 +527,14 @@ borne aloft upon the heads of nāgas of boundless prowess (dhriyamāṇaṃ śir
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Maithilī in both arms and welcoming her warmly, Goddess Earth seats her upon the throne; as Sītā descends into Rasātala, an unbroken celestial shower of flowers rains down and the jubilant gods fill the sky with cries of praise.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्रियमाणं शिरोभिस्तु नागैरमितविक्रमैः ।  
@@ -627,6 +659,14 @@ And a mighty acclaim of “Well done!” burst forth suddenly from the gods (sā
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Uttering manifold words such as these (evaṃ bahuvidhā vāco ... vyājahruḥ), the gods stationed in the firmament (antarikṣa-gatāḥ surāḥ) spoke with gladdened hearts (hṛṣṭamanasaḥ), beholding Sītā’s entry (dṛṣṭvā sītā-praveśanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sages and kings cannot cease from marveling, while all beings across sky, earth, and Pātāla react in varied awe—some shouting in joy, some rapt in meditation, some gazing upon Rāma or Sītā—leaving the entire cosmos entranced for a moment.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ win her back.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Compassionate Saramā, Sītā's devoted rākṣasī friend appointed by Rāvaṇa to guard her, approaches the dust-covered princess and consoles her, explaining that she overheard everything from a thicket.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतां तु मोहितां दृष्ट्वा सरमा नाम राक्षसी ।  
@@ -302,6 +310,14 @@ not get perturbed in your mind.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having stepped outside to investigate Rāvaṇa's hurried exit, Saramā assures Sītā that neither the self-realized Rāma nor his monkey legions could ever be slain in sleep.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सम्भ्रान्तश्च निष्क्रान्तो यत्कृते राक्षसेश्वरः ।  
@@ -526,6 +542,14 @@ their lord"
 **11:** valiant, ever the protector of himself and of others (ātmanaś ca parasya ca), of noble lineage (kulīnaḥ) and versed in the science of policy (naya-śāstra-vit), together with his brother Lakṣmaṇa—
 
 **12:** the slayer of enemy troop-multitudes (hantā para-balaughānām), of inconceivable strength and heroism (acintya-bala-pauruṣaḥ)—glorious Rāghava, the crusher of foes (śatru-nibarhaṇaḥ), has not been slain, O Sītā!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exposing Rāvaṇa's illusion as the work of a perverse mind, Saramā announces the joyful news that Rāma has crossed the ocean with his army and encamped on the southern shore.
 </details>
 </details>
 
@@ -858,6 +882,14 @@ Having heard those tidings, O large-eyed lady, this Rāvaṇa, lord of the rāk�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the thunderous war-drums boom across Laṅkā, Saramā bids Sītā listen to the clamor of elephants, chariots, and thousands of armed troops filling the royal highways.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणा सरमा राक्षसी सीतया सह ।  
@@ -1127,6 +1159,14 @@ Here and there, mailed warriors (saṃnaddhāḥ) rush together (sampatanti) by 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out the multi-colored blaze of weapons and the din of elephant-bells, chariots, and neighing steeds, Saramā declares that terror has seized the rākṣasas while Victory approaches Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शस्त्राणां च प्रसन्नानां चर्मणां वर्मणां तथा ॥ २४ ॥  
@@ -1279,6 +1319,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 This tumultuous (tumulaḥ) flurry of the rākṣasas following the rākṣasa king, bearing upraised weapons in their hands (udyatāyudha-hastānām), makes the hair bristle (loma-harṣaṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saramā prophesies that Rāma and Lakṣmaṇa will crush Rāvaṇa like Indra and Viṣṇu, and that Sītā will soon shed tears of joy on Rāma's chest as he unties her single braid.
 </details>
 </details>
 
@@ -1548,6 +1596,14 @@ united with you and holding you clasped to his breast."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Before long (acirāt), O goddess Sītā, Rāma of mighty strength shall untie (mokṣyate) that single braid (ekāṃ veṇīm) reaching down to your hips (te jaghanaṃ gatām), which you have worn for many months (dhṛtāṃ bahūn māsān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening Sītā's coming relief to a female serpent shedding its slough and the parched earth rejoicing in rain, Saramā bids her seek refuge in the all-sustaining Sun-god.
 </details>
 </details>
 

@@ -29,6 +29,14 @@ decision on the matter.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having rebuked Rāvaṇa, the resplendent Vibhīṣaṇa arrives in the sky with four ministers where Rāma and Lakṣmaṇa encamp, prompting wise Sugrīva to deliberate with his foremost monkey chiefs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा परुषं वाक्यं रावणं रावणानुजः ।  
@@ -334,6 +342,14 @@ and to Hanuman in particular.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having reflected for a moment (muhūrtam), he spoke this excellent speech to all those monkeys headed by Hanumān (hanumatpramukhān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warned by Sugrīva that the armed rākṣasa comes to slay them, the monkeys seize trees and boulders, while Vibhīṣaṇa halts in the sky above the northern shore and announces himself.
 </details>
 </details>
 
@@ -657,6 +673,14 @@ younger brother, known as Vibhishana."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There is a wicked-minded (durvṛttaḥ) rākṣasa named Rāvaṇa, the lord of rākṣasas; I am his younger brother (anujo bhrātā), known as Vibhīṣaṇa.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāvaṇa spurned his counsel to restore Sītā and insulted him like a slave, Vibhīṣaṇa begs to be announced to Rāma, whereupon Sugrīva addresses Rāma in agitation.
 </details>
 </details>
 
@@ -988,6 +1012,14 @@ Hearing these words, the swift-striding (laghuvikramaḥ) Sugrīva spoke these a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the maxims of statecraft, Sugrīva warns Rāma that rākṣasas are deceitful shape-shifters and that Vibhīṣaṇa may be Rāvaṇa's spy sent to strike them like an owl among crows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टः शत्रुसैन्यं हि प्राप्तः शत्रुरतर्कितः ।  
@@ -1313,6 +1345,14 @@ not that furnished by an enemy."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his impassioned counsel, Sugrīva argues that Rāvaṇa's brother is by nature a treacherous rākṣasa sent to strike Rāma unawares, and urges his immediate execution along with his ministers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृत्या राक्षसो ह्येष भ्रातामित्रस्य वै प्रभो ।  
@@ -1625,6 +1665,14 @@ who was skilled in oratory and thereafter entered into silence.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus in agitation (saṃrabdhaḥ) to that Rāma, who was skilled in speech (vākyakuśalam), the lord of the host, a knower of speech (vākyajñaḥ), then fell silent (maunam upāgamat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning to the monkey counselors led by Hanumān, Rāma invites their counsel on Sugrīva's reasoned speech, and they praise Rāma's omniscience, righteousness, and friendly deference before offering their views.
 </details>
 </details>
 
@@ -1952,6 +2000,14 @@ to your friends."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Invited to speak in turn, Crown Prince Aṅgada counsels Rāma not to trust Vibhīṣaṇa precipitately, urging that he first be tested for hidden faults or genuine virtues before acceptance.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मादेकैकशस्तावद् ब्रुवन्तु सचिवास्तव ।  
@@ -2271,6 +2327,14 @@ recognize many good qualities in him, let him be accepted."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Continuing the council, Śarabha advises dispatching a subtle spy, Jāmbavān warns that Vibhīṣaṇa has arrived at a suspicious place and hour, and Mainda recommends questioning him gently.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरभस्त्वथ निश्चित्य सार्थं वचनमब्रवीत् ।  
@@ -2579,6 +2643,14 @@ him be questioned slowly by sweet words"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This Vibhīṣaṇa is famously (nāma) the younger brother of that Rāvaṇa; let him be questioned gently (pṛcchyatāṃ madhureṇāyam) and gradually (śanaiḥ), O lord of kings (narapatīśvara).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Mainda concludes his counsel, the eloquent Hanumān rises to address Rāma with deference, pointing out the logical dilemma in testing Vibhīṣaṇa through immediate employment.
 </details>
 </details>
 
@@ -2902,6 +2974,14 @@ the same time, it occurs to me as a mistake to entrust any work so soon to a str
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refuting Śarabha and Jāmbavān in turn, Hanumān shows that spying on Vibhīṣaṇa is pointless and that his arrival is timely given Rāvaṇa's wickedness and Rāma's valor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारप्रणिहितं युक्तं यदुक्तं सचिवैस्तव ।  
@@ -3144,6 +3224,14 @@ spies of unknown identity, my considered view is as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And as for what was said—‘Let him be questioned by men in disguise (ajñātarūpaiḥ puruṣaiḥ), O king’—on this point too I have a well-considered view (prekṣā kācid asti samīkṣitā).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refuting Mainda's proposal, Hanumān warns that suspicious questioning alienates a friendly newcomer, whereas Vibhīṣaṇa's serene countenance, fearless bearing, and candid speech already prove his sincerity.
 </details>
 </details>
 
@@ -3407,6 +3495,14 @@ force, the internal intent of the persons certainly gets revealed."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A deceitful man (śaṭhaḥ) does not approach with an unhesitating mind (aśaṅkitamatiḥ) and self-possessed bearing (svasthaḥ), nor is his speech flawed (na cāsya duṣṭavāg asti); therefore I have no doubt.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his counsel, Hanumān affirms that Vibhīṣaṇa has wisely come seeking Laṅkā's throne after seeing Rāvaṇa's iniquity and Vālin's fate, and leaves the final decision to Rāma.
 </details>
 </details>
 

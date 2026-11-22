@@ -28,6 +28,14 @@ capable of aborting it, eager as he was to meet Ravana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadying his mind after Prince Akṣa's death, Rāvaṇa commands his godlike son Indrajit to enter the fray, praising his Brahmā-won missiles and unmatched prowess across the three worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु रक्षोऽधिपतिर्महात्मा  
@@ -374,6 +382,14 @@ Admitting you in the squeeze of battle, my mind does not get fatigues because of
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Worthy of me (mamānurūpam) is the power of your asceticism, your valor, and your missile-might in battle; having resorted to you in the crush of war (raṇāvamarde), my mind, assured of its object (niścitārtham), does not sink into dejection (na śramaṃ gacchati).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting the slaughter of the Kiṅkaras, Jambumālin, the ministers' sons, the five generals, and Akṣa, Rāvaṇa tells Indrajit that his sole reliance rests in him and urges him to employ his divine bow rather than ordinary troops.
 </details>
 </details>
 
@@ -746,6 +762,14 @@ Having rightly weighed that matter thus, with a concentrated mind (samāhitātm�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Kṣatriya polity requires sending his foremost warrior in a crisis, Rāvaṇa dispatches Indrajit, who circumambulates his father and mounts his chariot yoked with four sharp-fanged tigers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न खल्वियं मतिश्रेष्ठ यत्त्वां सम्प्रेषयाम्यहम् ।  
@@ -1091,6 +1115,14 @@ Possessed of irresistible speed (asahyavegaḥ) and resembling Indra, Indrajit m
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the rumble of Indrajit's chariot and the twang of his bowstring, Hanūmān rejoices; as the quarters darken, jackals howl, and celestials gather overhead, the monkey roars and expands his frame.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रथी धन्विनां श्रेष्ठः शस्त्रज्ञोऽस्त्रविदां वरः ।  
@@ -1423,6 +1455,14 @@ and grew up his body speedily.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing the chariot bearing Indra's banner (indradhvajam) approaching swiftly, the swift monkey uttered a mighty roar (nanāda ca mahānādam) and expanded in bulk (vyavardhata ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Twanging his bow with a crash like thunder, Indrajit clashes with Hanūmān like Indra with the Asura king; coursing along his father's sky-path, Hanūmān darts between the speeding shafts and frustrates Indrajit's aim.
 </details>
 </details>
 
@@ -1780,6 +1820,14 @@ The great monkey wheeled swiftly (āśu vyāvartata) within the spaces between t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Outrunning Indrajit's shafts in mid-air, Hanūmān wages a spellbinding duel in which neither warrior finds an opening; perceiving that the monkey cannot be slain, Indrajit meditates and aims the mystic missile of Brahmā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शराणामग्रतस्तस्य पुनः समभिवर्तत ।  
@@ -2093,6 +2141,14 @@ splendor, then fitted to his bow, a missile presided over by Brahma the creator.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then that hero of immense fiery energy, the foremost of those conversant with mystic missiles (astravidāṃ varaḥ), aimed (saṃdadhe) the missile of the Grandsire Brahmā (paitāmaham astram) against that chief of monkeys.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing Hanūmān cannot be slain, Indrajit binds him with the Brahmā-missile; falling motionless to the earth, Hanūmān recognizes Svayambhū's mantra-consecrated bond, recalls the Grandsire's boon of release after a muhūrta, and reverently submits.
 </details>
 </details>
 
@@ -2454,6 +2510,14 @@ Having weighed the potency of the missile and the Grandsire's favor toward himse
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Protected by Brahmā, Indra, and Vāyu, Hanūmān welcomes capture in order to converse with Rāvaṇa; when the Rākṣasas bind him with hemp and bark ropes, the mystic Brahmā-missile instantly releases him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्त्रेणापि हि बद्धस्य भयं मम न जायते ।  
@@ -2766,6 +2830,14 @@ Bound with that bark-rope (baddhas tena valkena), that valiant one was released 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Realizing that the Rākṣasas' bark-ropes have nullified his Brahmā-missile, Indrajit laments their ignorance of mantra-lore as Hanūmān, concealing his release, is dragged and beaten before King Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथेन्द्रजित् तं द्रुमचीरबद्धं  
@@ -2986,6 +3058,14 @@ Then Indrajit, perceiving him freed from the missile and bound with cords of tre
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Presenting Hanūmān bound like a rutting elephant before Rāvaṇa, the Rākṣasas question who he is and clamor for him to be slain, burned, or devoured, as Hanūmān beholds the jewel-decked palace and aged attendants at the king's feet.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मत्तमिव मातङ्गं बद्धं कपिवरोत्तमम् ।  
@@ -3189,6 +3269,14 @@ Ravana, decorated with highly precious stones and his elderly attendants sitting
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having swiftly traversed the palace avenue (atītya mārgaṃ sahasā), that great-souled one beheld there at the foot of the lord of Rākṣasas (rakṣo'dhipapādamūle) the king's senior attendants (paricāravṛddhān) and his palace adorned with great jewels (gṛhaṃ mahāratnavibhūṣitaṃ ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāvaṇa blazing like the sun, Hanūmān is scrutinized by the wrathful ten-faced king, whose senior ministers question the monkey; Hanūmān declares that he has come as an envoy from Sugrīva.
 </details>
 </details>
 

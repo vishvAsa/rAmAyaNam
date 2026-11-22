@@ -25,6 +25,14 @@ of Seven Sages.' On worshipping it they proceed to Kishkindha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising his gold-decked bow and sun-bright arrows, Rāma marches from Ṛṣyamūka toward Kiṣkindhā preceded by Sugrīva and Lakṣmaṇa, beholding flower-laden trees, clear rivers, and mountain caverns.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूकात् स धर्मात्मा किष्किन्धां लक्ष्मणाग्रजः ।  
@@ -283,6 +291,14 @@ divinities - Rama Tilaka.
 **5:** Gazing upon (vīkṣamāṇāḥ) trees weighed down with loads of blossoms (puṣpabhārāvalambinaḥ), and ocean-bound rivers (saritaḥ sāgaraṃgamāḥ) bearing pellucid waters (prasannāmbuvahāś caiva)—
 
 **6:** —and house-like mountain caverns (kandarāṇi ca), crags (śailāṃś ca), rock-fissures (nirdarāṇi), natural caves (guhās tathā), prominent peaks (śikharāṇi ca mukhyāni), and pleasing ravines (darīś ca priyadarśanāḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Along the road they behold beryl-clear lakes echoing with waterbirds and lotus buds, fearless deer grazing on tender grass, solitary wild tuskers, and dust-powdered monkeys.
 </details>
 </details>
 
@@ -588,6 +604,14 @@ cognate word and *khecara* is its adjective, as observed by Dr. Satya Vrat in hi
 **11:** —and rutting (mattān) Vānaras resembling elephants (dviradaprakhyān), tearing up mountain slopes (giritaṭotkṛṣṭān) like moving mountains (parvatān iva jaṅgamān) and powdered with earth-dust (mahīreṇusamukṣitān)—
 
 **12:** —beholding other forest-roaming creatures in the woods (vane vanacarāṃś cānyān) and sky-faring birds (khecarāṃś ca vihaṃgamān), those followers of Sugrīva (sugrīvavaśavartinaḥ) marched swiftly on (tvaritā jagmuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding a cloud-dark grove ringed by plantain trees, curious Rāma asks its history, and Sugrīva identifies it as the hermitage of the seven head-downward Saptajana sages.
 </details>
 </details>
 
@@ -899,6 +923,14 @@ the upside-down yogic body posture, and who always reclined in water. [4-13-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Here dwelt seven sages of rigid vows (munayaḥ saṃśitavratāḥ) known by the name of Saptajanas (saptajanā nāma), who constantly slept in water (niyatam jalaśāyinaḥ) with their heads pointed downward (adhaḥśīrṣāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva explains how the seven sages subsisted on air, ascended bodily to heaven after seven hundred years, and left behind an unassailable grove echoing with celestial music and sacred fire-smoke.
 </details>
 </details>
 
@@ -1215,6 +1247,14 @@ with clusters of clouds. [4-13-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With their crowns wreathed in smoke (dhūmasaṃsaktamastakāḥ), these trees shine forth (ete vṛkṣāḥ prakāśante) like mountains of emerald-beryl (vaiḍūryagirayo yathā) veiled by banks of clouds (meghajālapraticchannāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Sugrīva's bidding, Rāma and Lakṣmaṇa bow in reverence toward the seven sages whose blessing guards against all bodily harm, and the joyful warriors arrive before Vālī's capital Kiṣkindhā.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ are disobeyed, and Maareecha may perhaps have no opportunity to die at the hands
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impelled by Doom, Rāvaṇa rejects Mārīca's salutary counsel like a dying man spurning medicine, deriding Rāma as a foolish mortal and vowing to abduct Sītā to avenge Khara.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारीचस्य तु तद् वाक्यं क्षमं युक्तं च रावणः ।  
@@ -311,6 +319,14 @@ by me in association with you, as that Rama had purposelessly killed Khara in a 
 **5:** “He who, abandoning his friends, kingdom, mother, and father, went off to the forest in an instant (ekapade) upon hearing the vulgar words of a woman (strī-vākyaṃ prākṛtam)!
 
 **6:** “In your presence (tava sannidhau), I must certainly abduct Sītā, who is dearer to him than life itself (prāṇaiḥ priyatarā), belonging to that slayer of Khara in battle (saṃyuge khara-ghātinaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring his resolve unshakable even by the gods and demons with Indra at their head, Rāvaṇa lectures Mārīca on courtly etiquette and the five divine forms borne by kings.
 </details>
 </details>
 
@@ -612,6 +628,14 @@ dishonourable, let alone reprehension. [3-40-11]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enumerating the five royal attributes of fiery heat, valour, gentleness, chastisement, and grace, Rāvaṇa commands Mārīca to assume the form of a golden deer dappled with silver spots.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च रूपाणि राजानो धारयन्त्यमितौजसः ।  
@@ -843,6 +867,14 @@ course of your assistance as I detail it to you. [3-40-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having said this much to you, O you of immeasurable prowess (amita-vikrama), you ought now to render assistance (sāhāyyaṃ kartum arhasi) in this undertaking of mine.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa details his plot: Mārīca must lure Rāma far from the hermitage and cry out ‘Ah Sītā! Ah Lakṣmaṇa!’ in Rāma's voice so that Rāvaṇa can carry off the unguarded Vaidehī.
 </details>
 </details>
 
@@ -1118,6 +1150,14 @@ effortlessly like the Thousand-eyed Indra who once carried off Sachi Devi. [3-40
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When both Kākutstha and Lakṣmaṇa have gone away, I shall at my ease (yathā-sukham) carry off Vaidehī, even as the thousand-eyed Indra carried off Śacī.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Promising Mārīca half his kingdom for his compliance, Rāvaṇa concludes with an ultimatum: facing Rāma leaves a chance of survival, whereas defying Rāvaṇa means instant, certain death.
 </details>
 </details>
 

@@ -27,6 +27,14 @@ into myriad pieces and dies. All the other demons abandon the battle-field and r
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the colossal commander Prahasta marching forth with a third of Laṅkā's host, Rāma questions Vibhīṣaṇa with a smile as the roaring Vānara army prepares for battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहस्तं निर्यान्तं दृष्ट्वा रणकृतोद्यमम् ।  
@@ -235,6 +243,14 @@ is the demon named Prahasta, the Army general of Ravana."
 **5:** Then, [beholding] the terrible Prahasta of dreadful valor (bhīma-parākramam) marching forth, roaring aloud, of immense stature, and surrounded on all sides by Rākṣasas—
 
 **6:** The vast army of the mighty Vānaras, filled with rising clamor (abhisaṃjāta-ghoṣāṇām) and roaring back in defiance at Prahasta (prahastam abhigarjatām), beheld him.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brandishing swords, lances, maces, and variegated bows, the Rākṣasas charge the Vānaras, who reply with flowering trees and boulders in a mutual downpour of stones and arrows.
 </details>
 </details>
 
@@ -516,6 +532,14 @@ struck by iron bars and some others were slit by axes.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Some were crushed by pikes (śūlaiḥ pramathitāḥ), others by supreme missiles (paramāyudhaiḥ); some were battered by iron bludgeons (parighair āhatāḥ), and others were cleft apart by battle-axes (chinnāḥ paraśvadhaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warriors fall breathless with cleft hearts and cloven bodies while enraged Vānaras crush Rākṣasa legions with boulders and thunderbolt-like fists amid a tumultuous roar.
 </details>
 </details>
 
@@ -841,6 +865,14 @@ Enraged Vānaras and Rākṣasas, devoted to the path of heroes (vīra-mārgam a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Prahasta's four lieutenants—Narāntaka, Samunnata, Mahānāda, and Kumbhahanu—slaughter the monkeys, Dvivida, Durmukha, Jāmbavān, and Tāra slay all four in rapid succession.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नरान्तकः कुम्भहनुर्महानादः समुन्नतः ।  
@@ -1156,6 +1188,14 @@ Unable to brook that deed (amṛṣyamāṇas tat karma), Prahasta, mounted on h
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the two armies whirl like a churning ocean, Prahasta's arrow-storm turns the corpse-strewn earth into a crimson-blossomed forest and a river of blood flowing to Yama's sea.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवर्त इव सञ्जज्ञे सेनयोरुभयोस्तदा ।  
@@ -1362,6 +1402,14 @@ overspread fully with the bloossoming crimson-coloured Palasa flowers.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Covered over with floods of blood (rudhiraugheṇa pracchannā), that earth shone brightly (samprakāśate), as though overspread in the spring month of Vaiśākha with blossoming Palāśa trees (palāśair iva puṣpitaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like bull elephants fording a lotus-pollened lake, the Vānaras and Rākṣasas cross the river of blood as Prahasta charges Nīla in his sun-bright chariot.
 </details>
 </details>
 
@@ -1604,6 +1652,14 @@ Charged straight toward Nīla (nīlam evābhidudruve) in his chariot bright as t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Prahasta's serpent-like shafts, Nīla uproots a tree to strike him back and endures his arrow-storm with closed eyes like a bull in an autumn downpour.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्राप्य विशिखा नीलं विनिर्भिद्य समाहिताः ॥ ३७ ॥  
@@ -1825,6 +1881,14 @@ to be endured.
 **41:** Unable to ward off (apārayan vārayitum) those multitudes of arrows of that evil-souled Rākṣasa, [Nīla] received them with closed eyes (pratyagṛhṇān nimīlitaḥ), just as a bull (go-vṛṣaḥ) [receives] a suddenly arriving autumnal downpour (varṣaṃ śāradaṃ śīghram āgatam).
 
 **42:** Even so did Nīla, his eyes closed (nimīlitākṣaḥ), suddenly endure (sahasā sehe) the irresistible showers of Prahasta's arrows, hard to withstand (śara-varṣān durāsadān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slaying Prahasta's horses with a Sāla tree and shattering his bow, Nīla forces the general to leap from his chariot with a mace as the two clash like Vṛtra and Indra.
 </details>
 </details>
 
@@ -2112,6 +2176,14 @@ thirsting for fame, resembled Vritra and Indra.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Two heroes victorious through valor (vikrānta-vijayau vīrau), never retreating in battles (samareṣv anivartinau), eager to win glory (kāṅkṣamāṇau yaśaḥ prāptum) like Vṛtra and Vāsava (vṛtra-vāsavayor iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck on the forehead by Prahasta's mace, blood-smeared Nīla hurls a tree at his chest and crushes the charging general's head into pieces with a massive boulder.
 </details>
 </details>
 
@@ -2418,6 +2490,14 @@ Prahasa's head into myriad pieces.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hurled by Nīla, the chief of monkeys (nīlena kapi-mukhyena vimuktā), that terrible, massive boulder (mahatī śilā ghorā) shattered Prahasta's head into many fragments (bibheda bahudhā prahastasya śiras tadā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Prahasta felled like a root-severed tree, his despondent Rākṣasa army flees like water from a broken dam while victorious Nīla rejoins Rāma and Lakṣmaṇa.
 </details>
 </details>
 

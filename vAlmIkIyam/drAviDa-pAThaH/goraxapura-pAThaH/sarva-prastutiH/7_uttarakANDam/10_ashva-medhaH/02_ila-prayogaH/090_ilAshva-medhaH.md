@@ -11,6 +11,14 @@ title = "०९० इलाश्व-मेधः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing of Purūravas’s wondrous birth, Lakṣmaṇa and Bharata ask what Ilā did after dwelling a year with Budha; Rāma tells how, when the hero resumed manhood, Budha assembled Saṃvarta, Cyavana, Ariṣṭanemi, Pramodana, Modakara, and Durvāsas to take counsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्तवति रामे तु तस्य जन्म तदद्भुतम् ।  
@@ -197,6 +205,14 @@ Hearing the sweet words of those two questioning brothers (tayos tad vākya-mād
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having brought all these together (etān sarvān samānīya), that master of speech and seer of truth (vākyajñas tattva-darśanaḥ) addressed all those dear friends, steadfast in composure (sarvān suhṛdo dhairyeṇa susamāhitān):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Budha introduces Kardama’s son Ila and asks the sages to devise his deliverance; at that very moment Kardama arrives with Pulastya, Kratu, Vaṣaṭkāra, and Oṅkāra, and declares that only Rudra can cure his own curse—through the supreme Aśvamedha sacrifice.
 </details>
 </details>
 
@@ -395,6 +411,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approving Kardama’s proposal, the sages enlist Saṃvarta’s royal disciple Marutta to supply all sacrificial requisites; a grand Aśvamedha unfolds near Budha’s hermitage, and Umā’s lord appears in supreme delight to ask what boon he may grant, whereupon the sages implore Ila’s restoration to manhood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् यजामहे सर्वे पार्थिवार्थे दुरासदम् ।  
@@ -583,6 +607,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “While the lord of the gods was speaking thus (tathā vadati deveśe), those deeply composed twice-born sages (dvijās te susamāhitāḥ) propitiated the lord of the gods (prasādayanti deveśam) so that Ilā might become a man (yathā syāt puruṣas tv ilā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased, Mahādeva restores manhood permanently to Ilā and vanishes; departing from Bāhli, which he leaves to Śaśabindu, King Ila founds renowned Pratiṣṭhāna in Madhyadeśa, attains Brahma’s supreme realm in time, and passes the throne to Purūravas—proving the matchless power of the Aśvamedha.
 </details>
 </details>
 

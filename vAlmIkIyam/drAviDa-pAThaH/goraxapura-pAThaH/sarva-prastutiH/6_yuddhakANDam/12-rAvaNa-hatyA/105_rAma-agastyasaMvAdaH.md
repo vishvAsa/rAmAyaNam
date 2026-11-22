@@ -38,6 +38,14 @@ praise of the sun-god, with a view to gaining victory.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by Kākutstha, the battle-proud Rāvaṇa blazes with rage and deluges Rāma with thousands of arrow-torrents, yet Rāghava stands unshaken like a mighty mountain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो युद्धपरिश्रान्तं समरे चिन्तया स्थितम् ।  
@@ -269,6 +277,14 @@ Then the swift-handed (kṣipra-hastaḥ) night-stalker, enraged, struck thousan
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crimsoned with blood like a blossoming kiṃśuka tree, Rāma seizes shafts blazing like the doomsday sun and laughs in wrath, taunting Rāvaṇa for cowardly abducting Sītā from Janasthāna.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वदेवात्मको ह्येष तेजस्वी रश्मिभावनः ।  
@@ -399,6 +415,14 @@ seasons and the store-house of light."
 **8:** Incensed by the impact of those arrows (śarābhighāta-saṃrabdhaḥ), Kākutstha of supremely great splendor seized shafts that shone with the radiance of the doomsday sun (yugāntāditya-varcasaḥ).
 
 **9:** Then in that battle darkened by arrows (śarāndhakāre samare), both Rāma and Rāvaṇa, fiercely enraged, could not discern (nopalakṣayatām) each other at that time.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With biting irony, Rāma castigates the shameless Rāvaṇa as a thief who preys on unprotected women, warning that he must now reap the deadly fruit of his arrogance.
 </details>
 </details>
 
@@ -725,6 +749,14 @@ Had Sītā been forcibly violated by you in my presence (mat-saṃnidhau), then,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing that Rāvaṇa has entered his line of sight, Rāma vows that vultures and carrion-beasts will feast on the demon's severed head and entrails, then showers him with arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मेशानाच्युतेशाय सूरायादित्यवर्चसे ।  
@@ -979,6 +1011,14 @@ Speaking thus, the heroic Rāma, destroyer of foes (śatru-nibarhaṇaḥ), cove
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Auspicious omens of victory double Rāma's strength and summon every celestial missile to his mind, while Rāvaṇa reels dizzy-hearted under the onslaught of arrows and boulders.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवाश्च क्रतवश्चैव क्रतूनां फलमेव च ।  
@@ -1183,6 +1223,14 @@ so, the sage, Agastya, thereupon, left as in the same way as he had come.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Battered by the masses of rocks (aśma-nikaraiḥ) from the monkeys and by the showers of arrows from Rāghava, the ten-necked demon grew dizzy at heart (vighūrṇa-hṛdayaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his spirit faltering as the hour of death approaches, Rāvaṇa can neither draw his bow nor counter Rāma's might, prompting his charioteer to steer his car away.
 </details>
 </details>
 

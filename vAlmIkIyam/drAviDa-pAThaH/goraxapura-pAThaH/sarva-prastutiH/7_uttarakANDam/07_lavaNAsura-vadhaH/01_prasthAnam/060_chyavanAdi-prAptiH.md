@@ -14,6 +14,14 @@ title = "०६० च्यवनादि-प्राप्तिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma and Lakṣmaṇa converse through a temperate spring night, Rāma enters his audience hall at dawn; Sumantra announces that Yamunā-bank sages led by Cyavana wait at the gate, and Rāma bids them enter immediately.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोः संवदतोरेवं रामलक्ष्मणयोस्तदा ।  
@@ -152,6 +160,14 @@ Honoring the king’s command (rājñas tv ājñāṃ puraskṛtya), the doorkee
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+More than a hundred radiant ascetics enter Rāma’s palace bearing sacred tīrtha waters and forest fruits; joyfully accepting their offerings, Rāma invites them to sit upon splendid golden seats and addresses them with joined palms.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतं समधिकं तत्र दीप्यमानं स्वतेजसा ॥ ७ ॥  
@@ -265,6 +281,14 @@ Hearing Rāma’s words (rāmasya bhāṣitaṃ śrutvā), all those great sages
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing the sages seated there (upaviṣṭān ṛṣīṃs tatra dṛṣṭvā), Rāghava, conqueror of hostile citadels (parapurañjayaḥ), self-restrained and with joined palms (prayataḥ prāñjalir bhūtvā), spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring himself completely at the sages’ command and pledging his kingdom and very life for the twice-born, Rāma draws a joyful chorus of praise from the Yamunā ascetics, who marvel that he alone vowed protection before even hearing their peril.
 </details>
 </details>
 

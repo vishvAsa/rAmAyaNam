@@ -30,6 +30,14 @@ Shiva on his marriage with Uma is in the conjugal bliss for a long period
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asked by Rāma and Lakṣmaṇa how Gaṅgā sanctifies the three worlds, Viśvāmitra recounts how Lord Śitikaṇṭha wedded Umā and sported with her in conjugal union for a hundred divine years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्ये मुनौ तस्मिन्नुभौ राघवलक्ष्मणौ ।  
@@ -371,6 +379,14 @@ The hundred divine years are said to be 36,000 mortal years and this
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dreading that no creature could endure a child born of Śiva and Umā after a century of divine union, the gods led by Brahmā implore Mahādeva to retain his fiery seed within his own radiance.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चापि तनयो राम तस्यामासीत् परन्तप ।  
@@ -669,6 +685,14 @@ The word *tejas* also means semen, or offspring, besides resplendence
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing the words of the deities, the Supreme Lord of all the worlds (sarvalokamaheśvaraḥ) said to them all, ‘So be it!’ (bāḍham ity abravīt), and then spoke again as follows:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Restraining his unshaken energy within himself, Śiva releases upon the Earth the portion already stirred from its seat; pervaded by Agni and Vāyu, that seed becomes the White Mountain and the radiant śaravaṇa reed-grove.
 </details>
 </details>
 
@@ -992,6 +1016,14 @@ Because Kumara, or Skanda took birth through Fire-god from the great-potence
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though the gods and sages worship Umā and Śiva in relief, the incensed daughter of the Mountain curses the gods to remain childless in their wives and condemns the Earth to be the wife of many kings.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र जातो महातेजाः कार्तिकेयोऽग्निसम्भवः ।  
@@ -1202,6 +1234,14 @@ Thus the celestials do not directly breed. They take the agency of humans
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having spoken thus to all the gods, she cursed the Earth as well (śaśāpa pṛthivīm api): ‘O Earth (avane), you shall become manifold in form (naikarūpā) and the wife of many lords (bahubhāryā bhaviṣyasi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Condemning the Earth never to know the joy of a son, Umā ceases; beholding the gods afflicted and abashed, Maheśvara departs westward and enters upon austerity with the Goddess on the northern peak of Himavān.
 </details>
 </details>
 

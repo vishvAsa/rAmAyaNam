@@ -26,6 +26,14 @@ starts to show his valour and might.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Rāma's fiery arrows, Sugrīva asks him to hear attentively of Vālin's superhuman might: pacing the four oceans before sunrise, tossing mountain peaks, and snapping hardwood trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य वचनं श्रुत्वा हर्षपौरुषवर्धनम् ।  
@@ -354,6 +362,14 @@ And displaying his own strength (balaṃ prathayatātmanaḥ), Vālin has violen
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva begins the tale of the buffalo-demon Dundubhi, who, possessing the strength of a thousand elephants, challenged the Ocean to battle and was directed to Mount Himavān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महिषो दुन्दुभिर्नाम कैलासशिखरप्रभः ।  
@@ -614,6 +630,14 @@ give you a fight, listen." So said ocean to the demon. [4-11-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I am not able (samartho nāsmi) to give you battle, O knower of warfare (yuddhaviśārada); but hear, I shall declare to you him who will grant you battle!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeming the Ocean afraid, Dundubhi speeds like an arrow to Himavān, shatters his white crags, and roars; Himavān mildly replies that he is a peaceful refuge for ascetics.
 </details>
 </details>
 
@@ -903,6 +927,14 @@ and he said this sentence. [4-11-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech of the wise king of mountains (girirājasya dhīmataḥ), Dundubhi, his eyes bloodshot with wrath (krodhāt saṃraktalocanaḥ), spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Dundubhi demands to know who can fight him, the angered Himavān directs him to Indra's son Vālin at Kiṣkindhā, and the furious demon speeds to Vālin's capital.
 </details>
 </details>
 
@@ -1235,6 +1267,14 @@ Hearing the speech of Himavān, that Dundubhi, filled with wrath (kopāviṣṭa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wearing a terrifying buffalo form like a monsoon cloud, Dundubhi batters the gate of Kiṣkindhā and roars like a war-drum until Vālin emerges with his consorts and warns him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धारयन् माहिषं रूपं तीक्ष्णशृङ्गो भयावहः ।  
@@ -1528,6 +1568,14 @@ you, oh, might one, save your lives." Vali cautioned that demon that way. [4-11-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘Why do you block this city gate and bellow aloud (vinardase)? O Dundubhi, you are known to me (vidito me 'si); save your life (rakṣa prāṇān), O mighty one!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mocking Vālin for boasting before his women, Dundubhi grants him one final night of pleasure to bid farewell to his friends and Kiṣkindhā, declining to slay an intoxicated foe.
 </details>
 </details>
 
@@ -1842,6 +1890,14 @@ Dundubhi incited Vali in this way. [4-11-36]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For whoever would slay one who is intoxicated (mattam), or heedless (pramattam), or broken (bhagnam), or unarmed (rahitam), or emaciated—one deluded by passion (madamohitam) like you—he would be a slayer of a Brahmin (bhrūṇahā) in the world!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissing his women with a quiet laugh, Vālin declares his wine to be the heroic draught of battle, dons Indra's golden garland, seizes Dundubhi's horns, and hurls him down.
 </details>
 </details>
 
@@ -2166,6 +2222,14 @@ fury are impetuous and who aspired victory over the other. [4-11-42]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, out of the fury of their wrath (krodhasaṃrambhāt), a dreadful battle arose between those two—Dundubhi and Vālin—each eager for victory over the other (parasparajayaiṣiṇoḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fighting with fists, knees, boulders, and trees, Vālin crushes Dundubhi to death, hefts his lifeless body, and hurls it a full yojana away, scattering blood drops into Mataṅga's hermitage.
 </details>
 </details>
 
@@ -2503,6 +2567,14 @@ From the mouth of him who had been hurled with such force (vegapraviddhasya), dr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Defiled by the falling drops of blood and beholding the slain buffalo-demon, Sage Mataṅga discerns Vālin's deed through his ascetic power and pronounces a mortal curse upon him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् दृष्ट्वा पतितांस्तत्र मुनिः शोणितविप्रुषः ।  
@@ -2829,6 +2901,14 @@ and by whom, in hurling this demon's carcass (kṣipatā... āsurīṃ tanum), t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mataṅga decrees that any retainer of Vālin remaining in his grove past sunset shall turn to stone for thousands of years, prompting the monkeys to flee to Vālin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये चास्य सचिवाः केचित् संश्रिता मामकं वनम् ॥ ५५ ॥  
@@ -3081,6 +3161,14 @@ you the dwellers of that forest safe?' Thus Vali asked all. [4-11-60]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘Why have all of you dwellers of Mataṅga's forest (mataṅgavanavāsinaḥ) come together into my presence? Is all well (api svasti) with the forest-dwellers?’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning of the curse and spurned when he implores Mataṅga's forgiveness, Vālin dreads even to look upon Mount Ṛṣyamūka, where Sugrīva now points out Dundubhi's mountain-like skeleton.
 </details>
 </details>
 
@@ -3404,6 +3492,14 @@ And here gleams (samprakāśate) the vast, mountain-peak-like (girikūṭanibha�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing to the seven massive sāla trees that Vālin could strip of leaves, Sugrīva asks how Rāma can slay him, and proposes two tests when Lakṣmaṇa smiles.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे च विपुलाः सालाः सप्त शाखावलम्बिनः ।  
@@ -3705,6 +3801,14 @@ Sugreeva to Lakshmana. [4-11-72]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And, O Lakṣmaṇa, should he with a single foot (pādenaikena) lift up the skeleton of this slain buffalo and hurl (prakṣipec cāpi) it with force two hundred bow-lengths (dve dhanuḥśate)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting for a moment and fearing lest Rāma take offense, Sugrīva extols Vālin's invincibility even against the gods and declares that he has sought refuge in Rāma like Himavān.
 </details>
 </details>
 
@@ -4028,6 +4132,14 @@ And now, O lover of friends (mitravatsala), a praiseworthy, noble friend (ślāg
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva protests that his hesitation stems not from disrespect but from terror of Vālin, though Rāma's bearing betokens fire hidden under ashes; smiling, Rāma offers immediate proof.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं तु तस्य बलज्ञोऽहं दुर्भ्रातुर्बलशालिनः ।  
@@ -4290,6 +4402,14 @@ ingrain commendable confidence in you with respect to our action." Thus Rama sai
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Playfully flicking Dundubhi's skeleton with his big toe, Rāma hurls it ten yojanas away; yet Sugrīva objects that Vālin flung the carcass when it was fresh and heavy with flesh.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु सुग्रीवं सान्त्वयल्ँ लक्ष्मणाग्रजः ।  
@@ -4514,6 +4634,14 @@ condition, and oh, Raghu's delight, you too flipped it because you are now energ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Now, however, O Rāghava, it is light (laghuḥ), devoid of flesh (nirmāṃsaḥ), and reduced to a mere blade of grass (tṛṇabhūtaś ca), and has been hurled thus in high spirits (praharṣeṇa) by you, O delight of the Raghus!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that the difference between a wet carcass and dry bones leaves his doubt unresolved, Sugrīva adjures Rāma by an oath of friendship to pierce one of the sāla trees.
 </details>
 </details>
 

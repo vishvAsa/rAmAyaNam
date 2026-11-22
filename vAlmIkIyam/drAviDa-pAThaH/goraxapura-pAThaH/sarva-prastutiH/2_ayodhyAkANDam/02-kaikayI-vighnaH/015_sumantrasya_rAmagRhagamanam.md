@@ -24,6 +24,14 @@ of Sri Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak under the Puṣya asterism and Rāma’s natal Cancer ascendant, Veda-versed Brahmins, ministers, and guild chiefs assemble with golden pitchers, a tiger-skin chariot, and sacred waters.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु तां रजनीमुष्य ब्राह्मणा वेदपारगाः ।  
@@ -206,6 +214,14 @@ were impressive.
 **4:** everything required for Rāma’s consecration was arrayed by the foremost of the twice-born (dvijendrair upakalpitam): golden water-pitchers (kāñcanā jala-kumbhāś ca) and a splendidly adorned auspicious throne (bhadra-pīṭhaṃ svalaṃkṛtam),
 
 **5:** and a chariot duly spread over (rathaś ca samyag āstīrṇaḥ) with a gleaming tiger-skin (bhāsvatā vyāghra-carmaṇā), together with water brought from the sacred confluence of the Gaṅgā and the Yamunā (gaṅgā-yamunayoḥ puṇyāt saṃgamāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Waters from all oceans, honey, curds, clarified butter, parched grain, eight auspicious maidens, a rutting elephant, golden and silver pitchers, a white yak-tail fan, and the royal parasol stand ready.
 </details>
 </details>
 
@@ -458,6 +474,14 @@ by kings were readily waiting.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 prepared, radiant (dyutikaram), glorious, and foremost among the consecration insignia (abhiṣeka-purassaram); a white bull (pāṇḍuraś ca vṛṣaḥ) stood ready, and a white steed (pāṇḍurāśvaś ca) was stationed there,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Not seeing King Daśaratha even after sunrise, the assembled dignitaries wonder who will announce them; Sumantra promises to inquire into the king’s delay and enters the inner palace gate.
 </details>
 </details>
 
@@ -734,6 +758,14 @@ the reason of his not coming here."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and the reason for the non-arrival of the king (rājñaś cānāgamana-kāraṇam), though he has already awakened (sampratibuddhasya).” Having spoken thus, Sumantra, knower of ancient lore (purāṇavit), came back to the gate of the inner apartment (antaḥpura-dvāram ājagāma).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the royal bedchamber up to the curtain, Sumantra praises the Ikṣvāku lineage, invokes Soma, Sūrya, Śiva, Vaiśravaṇa, Varuṇa, Agni, and Indra, and bids Daśaratha awake.
 </details>
 </details>
 
@@ -1063,6 +1095,14 @@ and eagerly long to behold you (darśanaṃ te ’bhikāṅkṣante); awake, O R
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Sumantra’s voice, Daśaratha asks why his command to bring Rāma has been delayed; Sumantra bows and hastens down the banner-decked royal highway toward Rāma’s Kailāsa-bright palace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राममानय सूतेति यदस्यभिहितो मया ॥ २५ ॥  
@@ -1262,6 +1302,14 @@ and banners.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thrilled and filled with inward joy (hṛṣṭaḥ pramuditaḥ sūtaḥ), the charioteer sped along quickly, gazing upon that royal highway; and there the charioteer heard conversations centered upon Rāma (rāmādhikaraṇāḥ kathāḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra beholds Rāma’s palace rivaling Indra’s and Kubera’s abodes—adorned with a hundred pavilions, golden statues, gem-and-coral archways, Dardura sandal fragrance, sculpted wolves, and crying cranes and peacocks.
 </details>
 </details>
 
@@ -1495,6 +1543,14 @@ thronged with exquisitely fashioned figures of wolves (sukṛtehāmṛgākīrṇ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 shining like the moon and the sun (candra-bhāskara-saṃkāśam), resembling the mansion of Kubera (kubera-bhavanopamam), rivaling the abode of Mahendra (mahendra-dhāma-pratimam), and echoing with birds of every kind (nānā-pakṣi-samākulam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thronged with gift-bearing provincials, dwarfs, and foresters, Rāma’s palace gleams like a storm-cloud and Śacīpati’s hall; driving his fender-guarded chariot through three courts, Sumantra reaches the inner apartment.
 </details>
 </details>
 
@@ -1789,6 +1845,14 @@ filled with various deer and peacocks. After approaching that palace, he became 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Entering there the well-adorned courtyards that shone like Kailāsa and rivaled the abodes of the thirty gods (kakṣyās tridaśālayopamāḥ), and passing beyond many beloved and noble men devoted to Rāma’s counsel (priyān varān rāma-mate sthitān bahūn vyapohya), the chariot-borne Sumantra arrived at the inner apartment (śuddhāntam upasthito rathī).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the joyful benedictions of the people and beholding tens of millions at the gate, Rāma’s state elephant Śatruñjaya, and the chief ministers, Sumantra enters the jewel-filled palace like a makara entering the ocean.
 </details>
 </details>
 

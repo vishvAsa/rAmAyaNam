@@ -28,6 +28,14 @@ Hanuma makes up his mind to return only after seeing her again.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Laṅkā engulfed in flames and its rākṣasa hosts terrified, Hanumān is seized by dread and self-reproach, condemning his own unbridled wrath and praising the wise who quench rising anger.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दीप्यमानां वित्रस्तां त्रस्तरक्षोगणां पुरीम् ।  
@@ -339,6 +347,14 @@ him suddenly by virtue of his endurance, he verily is said to be an excellent ma
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “He who casts off (nirasyati) surging wrath (samutpatitaṃ krodham) solely through forbearance (kṣamayaiva), just as a serpent (uragaḥ) sheds its worn-out skin (tvacaṃ jīrṇām), is truly called a man (puruṣa ucyate).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cursing himself as an arsonist and betrayer of his master's cause, Hanumān fears that Sītā has perished in the all-consuming fire and resolves to abandon his own life right there.
 </details>
 </details>
 
@@ -674,6 +690,14 @@ for me, here and now itself, to give up my life."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contemplating suicide by fire or drowning, Hanumān despairs of facing Sugrīva and Rāma, reviles his fickle monkey-nature, and foresees the chain of deaths that Sītā's loss will trigger.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमग्नौ निपताम्यद्य आहोस्विद् वडवामुखे ।  
@@ -1004,6 +1028,14 @@ survive after hearing this news?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing that the destruction of the Ikṣvāku line will plunge all subjects into grief, Hanumān perceives auspicious omens and realizes that Sītā's own ascetic fire and chastity protect her from the flames.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकुवंशे धर्मिष्ठे गते नाशमसंशयम् ।  
@@ -1329,6 +1361,14 @@ of Rama and the benevolence of Seetha."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Sītā's sanctity and Maināka's emergence from the ocean, Hanumān concludes that fire could never harm her, and suddenly hears celestial Cāraṇas marveling at Laṅkā's conflagration.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयाणां भरतादीनां भ्रातॄणां देवता च या ।  
@@ -1650,6 +1690,14 @@ difficult act."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Oh! Truly an unfathomable feat (aho khalu kṛtaṃ karma durvigāham) has been accomplished by Hanumān (hanūmatā), unleashing fierce and dreadful fire (agniṃ visṛjatā tīkṣṇaṃ bhīmam) upon the abode of the rākṣasas (rākṣasasadmani)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the celestial Cāraṇas proclaim that all of Laṅkā is burned while Jānakī remains untouched, Hanumān rejoices, beholds Sītā once more in person, and resolves to return.
 </details>
 </details>
 

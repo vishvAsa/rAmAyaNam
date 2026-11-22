@@ -24,6 +24,14 @@ with the battalions towards Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding ominous portents upon the southern shore—dusty gales, earthquakes, blood-mingled rain, and fire falling from the sun—Rāma embraces Lakṣmaṇa and orders the army arrayed.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निमित्तानि निमित्तज्ञो दृष्ट्वा लक्ष्मणपूर्वजः ।  
@@ -317,6 +325,14 @@ sun, balls of fire fall."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beasts and birds howl toward the sun, a scorching moon and blood-red solar halo appear, dust dims the stars, and vultures and jackals cry.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीना दीनस्वराः क्रूराः सर्वतो मृगपक्षिणः ।  
@@ -559,6 +575,14 @@ and inauspicious sounds."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Crows, hawks, and low-flying vultures (nīcā gṛdhrāḥ) wheel overhead (paripatanti), and jackals (śivāḥ) too howl forth inauspicious cries fraught with immense terror (sumahābhayān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling that the earth will soon be mired in flesh and blood, Rāma marches forth toward Laṅkā at the head of the roaring monkey hosts.
 </details>
 </details>
 

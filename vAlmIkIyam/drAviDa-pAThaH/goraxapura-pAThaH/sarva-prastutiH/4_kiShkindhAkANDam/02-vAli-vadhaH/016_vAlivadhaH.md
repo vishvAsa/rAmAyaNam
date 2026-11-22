@@ -25,6 +25,14 @@ him dead immediately. Thus that great mighty and unassailable Vali is brought do
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rebuking the moon-faced Tārā, Vālī scorns the roaring of his degraded brother Sugrīva, dismisses any fear of righteous Rāghava, and commands her to return with her women.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामेवं ब्रुवतीं तारां ताराधिपनिभाननाम् ।  
@@ -282,6 +290,14 @@ knower of virtue can commit sin. [4-16-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Nor should dejection (viṣādaḥ) be entertained by you on my account regarding Rāghava; how will he, who knows dharma (dharmajñaḥ) and is grateful (kṛtajñaḥ), commit a sin?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālī vows merely to humble Sugrīva's pride in battle without taking his life, and Tārā, weeping softly after embracing and circumambulating him, retires with her women.
 </details>
 </details>
 
@@ -638,6 +654,14 @@ Then, having performed a rite of auspicious blessing (svastyayanam), she who kne
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once Tārā withdraws inside, wrathful Vālī strides out of Kiṣkindhā hissing like a great serpent, spots Sugrīva blazing like fire, and advances with clenched fist to fight.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टायां तु तारायां सह स्त्रीभिः स्वमालयम् ।  
@@ -951,6 +975,14 @@ them up at the ready, and aiming them well at Vali. [4-16-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Raising his tightly clenched fist (śliṣṭaṃ muṣṭim) as well, Sugrīva too came forward even more furiously (saṃrabdhataram āgataḥ), aiming directly at Vālī, who wore the golden garland (hemamālinam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exchanging fierce taunts, Vālī strikes Sugrīva until he bleeds like a mountain streaming with springs, and Sugrīva batters Vālī with an uprooted sāla tree like a heavy-laden ship.
 </details>
 </details>
 
@@ -1269,6 +1301,14 @@ Shattered (nirbhagnaḥ) by the tree and reeling from the blow of the sāla (sā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Battling like the sun and moon in the sky or Vṛtra and Vāsava with trees, claws, and fists, Vālī waxes in might while Sugrīva weakens and looks toward Rāghava.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ भीमबलविक्रान्तौ सुपर्णसमवेगितौ ।  
@@ -1492,6 +1532,14 @@ and arms, like the fight that once chanced between demon Vritra and Indra. [4-16
 **28:** Filled with indignation (sāmarṣaḥ) against Vālī, he signaled to Rāghava (darśayāmāsa rāghavam) [while fighting] with branched trees, mountain peaks (śikharaiḥ), and claws resembling diamond points (vajrakoṭinibhair nakhaiḥ).
 
 **29:** [Fighting] again and again with fists, knees, feet, and arms (muṣṭibhir jānubhiḥ padbhir bāhubhiś ca), a dreadful battle (yuddham abhūd ghoram) took place between those two, like that between Vṛtra and Vāsava (vṛtravāsavayor iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing blood-drenched Sugrīva faltering and glancing repeatedly toward the quarters, Rāma nocks a serpent-like arrow and draws his bow like Death wielding the wheel of Time.
 </details>
 </details>
 
@@ -1752,6 +1800,14 @@ by the approach of ear ending, and they all fled. [4-16-34]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Terrified (trastāḥ) by the twang of his bowstring and palm-guard (jyātalaghoṣeṇa), the lords of birds (patraratheśvarāḥ) and the beasts fled headlong (pradudruvuḥ), bewildered as at the end of a world-age (yugānta iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāghava's thunderbolt-like shaft strikes Vālī squarely in the chest, felling Indra's son to the earth in a crimson bloom like an uprooted banner of Indra or a wind-tossed aśoka tree.
 </details>
 </details>
 

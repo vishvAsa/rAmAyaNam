@@ -28,6 +28,14 @@ Ganga descends to earth by the extraordinary effort of Bhageeratha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing on the tip of his big toe for a full year, Bhagīratha propitiates Lord Śiva, who consents to bear Himavān’s daughter upon his head; when Gaṅgā plunges down in arrogant fury to sweep Śaṅkara into Pātāla, Hara perceives her pride.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदेवे गते तस्मिन् सोऽङ्गुष्ठाग्रनिपीडिताम् ।  
@@ -342,6 +350,14 @@ Discerning her egotism god Shiva is infuriated, and then on his part
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving to conceal her, the three-eyed Rudra traps Gaṅgā for many years within the Himavān-like cavern of his matted locks until, propitiated by Bhagīratha’s renewed penance, Hara releases her into Bindusaras in seven streams.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तस्मिन् पतिता पुण्या पुण्ये रुद्रस्य मूर्धनि ॥ ७ ॥  
@@ -604,6 +620,14 @@ While god Shiva released Ganga into Bindu Lake seven streams have emerged
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hlādinī, Pāvanī, and Nalinī as well (hlādinī pāvanī caiva nalinī ca tathaiva ca)—these three auspicious Gaṅgās of pure, salutary waters flowed toward the eastern quarter (tisraḥ prācīṃ diśaṃ jagmur gaṅgāḥ śivajalāḥ śubhāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Sucakṣuḥ, Sītā, and Sindhu flow westward, the seventh stream follows the celestial chariot of Bhagīratha; descending from Śaṅkara’s head to the earth with a thunderous roar and shoals of aquatic creatures, Gaṅgā is beheld by the celestials.
 </details>
 </details>
 
@@ -884,6 +908,14 @@ Some of the gods with aircrafts that are like cities in their shape
 **17:** “—both falling and already fallen, the earth shone resplendently (patadbhiḥ patitaiś caiva vyarocata vasuṃdharā). Then gods, sages, and Gandharvas, as well as hosts of Yakṣas and Siddhas (tato devarṣigandharvā yakṣasiddhagaṇās tathā)—
 
 **18:** “—beheld her there as she descended then from the sky onto the earth (vyalokayanta te tatra gaganād gāṃ gatāṃ tadā), mounted upon aerial cars shaped like cities and upon horses and lordly elephants (vimānair nagarākārair hayair gajavarais tadā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager deities gather in the cloudless sky, which blazes like a hundred suns from their ornaments and flashes like lightning and autumn clouds with leaping dolphins, fish, and foaming spray as Gaṅgā winds across the earth.
 </details>
 </details>
 
@@ -1186,6 +1218,14 @@ Somewhere her water repeatedly knocking against her own water is recurrently
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having fallen from Śaṅkara’s head onto the earth, the crystal-clear, sin-destroying water is reverently touched by sages and Gandharvas, while celestials who had fallen under curses bathe in Gaṅgā and regain their heavenly worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुहुरूर्ध्वपथं गत्वा पपात वसुधां पुनः ।  
@@ -1484,6 +1524,14 @@ This verse is almost similar to the verse No. 14 above. But here, the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by gods, sages, Gandharvas, and Apsarases, Gaṅgā courses wherever King Bhagīratha leads until she inundates the sacrificial enclosure of the wondrous sage Jahnu, who in wrath drinks up all her waters.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवाः सर्षिगणाः सर्वे दैत्यदानवराक्षसाः ॥ ३१ ॥  
@@ -1736,6 +1784,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—and drank up all the water of Gaṅgā—a most wondrous feat (apibat tu jalaṃ sarvaṃ gaṅgāyāḥ paramādbhutam)! Thereupon the gods together with the Gandharvas, and the sages as well, were struck with utter astonishment (tato devāḥ sagandharvā ṛṣayaś ca suvismitāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring Sage Jahnu, the gods bestow Gaṅgā upon him as his daughter, whereupon he releases her through his ears as Jāhnavī; following Bhagīratha into the ocean and down to Rasātala, Gaṅgā drenches his ancestors’ ashes and raises them purified to heaven.
 </details>
 </details>
 

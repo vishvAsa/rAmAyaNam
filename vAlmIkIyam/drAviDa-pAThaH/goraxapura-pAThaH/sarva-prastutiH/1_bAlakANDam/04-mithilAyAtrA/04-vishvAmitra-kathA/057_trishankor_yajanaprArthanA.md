@@ -28,6 +28,14 @@ The legend of Trishanku is narrated to Rama, which forms a part of Vishvamitra's
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Journeying south with his queen, Viśvāmitra practices severe penance for a thousand years, begetting four righteous sons—Haviṣpanda, Madhuṣpanda, Dṛḍhanetra, and Mahāratha—until Brahmā confers upon him the rank of Rājarṣi.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सन्तप्तहृदयः स्मरन्निग्रहमात्मनः ।  
@@ -267,6 +275,14 @@ while the gods in Brahma's convoy went to Indra's Heaven. [1-57-6, 7a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By virtue of this penance, we recognize you as a Rājarṣi—a royal seer (anena tapasā tvāṃ hi rājarṣir iti vidmahe)!” Having spoken thus, the Lord of mighty splendor departed together with the gods (jagāma saha daivataiḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dejected that a thousand years of penance have earned him only the title of Rājarṣi, Viśvāmitra resumes even sterner austerity; meanwhile, King Triśaṅku conceives the desire to ascend bodily to heaven and consults Vasiṣṭha.
 </details>
 </details>
 
@@ -518,6 +534,14 @@ and told him what his thinking is. [1-57-11b, 12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissed by Vasiṣṭha with the word “Impossible,” Triśaṅku journeys south to where Vasiṣṭha’s hundred sons practice penance, bows to them in order of seniority, and seeks refuge in them.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याख्यातो वसिष्ठेन स ययौ दक्षिणां दिशम् ॥ १३ ॥  
@@ -745,6 +769,14 @@ of the needy, you all be safe, as the great-souled Vashishta has repudiated me.
 **17:** —with joined palms he spoke to all those high-souled sages (abravīt sa mahātmānaḥ sarvān eva kṛtāñjaliḥ): “I have come to you for refuge, seeking shelter in you who are able to protect (śaraṇaṃ vaḥ prapanno ’haṃ śaraṇyān śaraṇaṃ gataḥ)!
 
 **18:** “Blessings be upon you! I have been refused by the high-souled Vasiṣṭha (pratyākhyāto hi bhadraṃ vo vasiṣṭhena mahātmanā); desirous as I am of offering a great sacrifice, you ought to grant me your consent (yaṣṭukāmo mahāyajñaṃ tad anujñātum arhatha)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing his head to the ground, Triśaṅku implores Vasiṣṭha’s hundred sons to officiate at his sacrifice so that he may ascend bodily to heaven, declaring that next after their father they are his supreme deity.
 </details>
 </details>
 

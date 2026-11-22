@@ -23,6 +23,14 @@ the adamant Kaikeyi's words.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing King Daśaratha fallen upon the bare floor like Yayāti cast down from heaven, Kaikeyī relentlessly demands her boon, driving the monarch to bitter reproach.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतदर्हं महाराजं शयानमतथोचितम् ।  
@@ -277,6 +285,14 @@ indeed convince them that he is well obscuringly the actual fact?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even in heaven (svarge 'pi), alas (bata), when questioned by the gods regarding Rāma’s welfare (kuśalam), how shall I bear the reproachful speech (pratyādeśād abhihitam) consequent upon my repudiation of him?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha laments that exiling his long-sought, virtuous Rāma to please Kaikeyī will falsify his pledge of consecration, wishing for death before inflicting such sorrow.
 </details>
 </details>
 
@@ -581,6 +597,14 @@ If my passing from this world (mama saṃkramaṇam) could come to pass without 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Daśaratha weeps over the ruin of his renown, the sun sets and the moonlit three-watch night descends, prompting him to implore the starry night never to dawn.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृशंसे पापसङ्कल्पे रामं सत्यपराक्रमम् ।  
@@ -825,6 +849,14 @@ lot and hard breaths, having his eyes fixed on the sky.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 shed no cooling radiance (na vyabhāsata śarvarī) upon the wailing monarch. Ever heaving burning sighs (sadaivoṣṇaṃ viniḥśvasya), the aged King Daśaratha—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imploring the night either to linger in mercy or flee so he need not see pitiless Kaikeyī, Daśaratha folds his hands and begs his queen to grant the kingdom to Rāma as her own gift.
 </details>
 </details>
 
@@ -1082,6 +1114,14 @@ Rama. Thus, you will obtain great fame."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 bestow your noble grace upon me, O young queen (bāle), for you are tender-hearted (sahṛdayā hy asi)! Be gracious, O queen: let my Rāma receive the imperishable kingdom as a gift from you (tvaddattaṃ rājyam avyayam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unmoved by her pure-hearted husband's tearful entreaties, wicked Kaikeyī spurns his plea, and Daśaratha collapses unconscious until dawn, when he forbids the royal awakening music.
 </details>
 </details>
 

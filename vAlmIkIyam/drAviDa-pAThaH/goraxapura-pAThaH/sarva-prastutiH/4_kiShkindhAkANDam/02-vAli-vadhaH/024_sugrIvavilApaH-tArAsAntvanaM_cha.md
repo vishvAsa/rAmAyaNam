@@ -35,6 +35,14 @@ uttered by Tara, which is included here also.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Tārā submerged in an ocean of grief, Sugrīva is seized with remorse over Vālin's slaying and approaches Rāma in tears to renounce all desire for the kingdom.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामाशु वेगेन दुरासदेन  
@@ -401,6 +409,14 @@ Out of wrath (krodhāt), indignation (amarṣāt), and extreme humiliation (ativ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting Vālin's noble restraint in sparing his life with his own fratricidal passion, Sugrīva declares that dwelling forever on Mount Ṛṣyamūka would have been better than slaying his brother.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रेयोऽद्य मन्ये मम शैलमुख्ये  
@@ -740,6 +756,14 @@ and also naughtiness of a monkey. [4-24-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Fraternal duty (bhrātṛtvam), noble conduct (āryabhāvaś ca), and righteousness (dharmaś ca) were preserved by him (anena rakṣitaḥ); whereas by me wrath (krodhaś ca), lust (kāmaś ca), and monkey-fickleness (kapitvaṃ ca) have been displayed (pradarśitam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing his fratricidal sin to Indra's slaying of Tvaṣṭṛ's son, Sugrīva laments that no one will share a monkey's sin and likens his guilt to a rampaging elephant.
 </details>
 </details>
 
@@ -1127,6 +1151,14 @@ is unshed. [4-24-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Alas (bata), O best of men (nṛvara), because of this unbearable sin (idam aṃho... aviṣahyam), virtuous conduct recedes within my heart (nivartate me hṛdi sādhuvṛttam), O Rāghava, just like discolored dross (vivarṇaṃ... kiṭṭaṃ yathā) from gold (jātarūpam) being smelted in the fire (agnau paritapyamānam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing that Aṅgada and Tārā will die of grief, Sugrīva begs Rāma's leave to enter fire while the monkeys seek Sītā, moving Rāma to tears.
 </details>
 </details>
 
@@ -1524,6 +1556,14 @@ of Sugreeva to self-immolate with his dead brother.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing these words of Vālin's afflicted younger brother (ity evam ārtasya vaco vālijaghanyajasya), Rāma, the foremost of the Raghus (raghupravīraḥ) and slayer of hostile heroes (paravīrahantā), had his eyes fill with tears (saṃjātabāṣpaḥ) and became momentarily downcast in mind (muhūrtaṃ vimanā babhūva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raised up by the chief ministers from Vālin's side, the fawn-eyed Tārā beholds Rāma blazing like the sun with bow in hand, recognizes the Supreme Person, and approaches him.
 </details>
 </details>
 
@@ -1925,6 +1965,14 @@ pure being automatically provides a serene mind to anyone.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Approaching (samāsādya) that Rāma of pure essence (taṃ viśuddhasattvam), who had hit his mark through preeminence in battle (raṇotkarṣaṇalabdhalakṣyam), the high-minded Tārā (manasvinī tārā), her bodily state agitated by grief (śokena sambhrāntaśarīrabhāvā), spoke this word (vākyam uvāca):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Rāma as the immeasurable, self-controlled, and divine Supreme Person, Tārā begs him to slay her with the same arrow so Vālin will not grieve without her in heaven.
 </details>
 </details>
 
@@ -2396,6 +2444,14 @@ Even in heaven (svarge 'pi), O hero (vīra), Vālin without me (mayā vinā) wil
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appealing to Rāma's own sorrow in separation, Tārā argues from Vedic scripture that since a wife is identical with her husband's self, slaying her is a supreme gift, not woman-slaying.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं वेत्थ तावद् वनिताविहीनः  
@@ -2726,6 +2782,14 @@ one, and who wears a precious and exquisite golden pendant..." Thus Tara pleaded
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 You ought not to refrain from slaying me (nārhasi mām ahantum) when I am thus afflicted (ārtām), protectorless (anāthām), being led away [from his side] (apanīyamānām), and reduced to this plight (evaṃgatām)! For without that wise bull among leapers (plavaṅgamānām ṛṣabheṇa dhīmatā), who walked with the sporting gait of a lordly elephant (mātaṅgavilāsagāminā) and wore the supreme, priceless golden necklace (varārhottamahemamālinā), I shall not be able to live long (ciraṃ na śakṣyāmi... jīvitum), O lord of men (narendra)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consoling the weeping Tārā, the high-souled Rāma reminds her that the Creator ordains all joy and sorrow across the three worlds, promises Aṅgada's consecration, and stills her lament.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ himself ready to leap across the ocean.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning to the foot of the śiṃśapā tree, Hanumān greets the unharmed Jānakī with relief, while Sītā affectionately implores him to rest for a single day before departing.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु शिंशपामूले जानकीं पर्यवस्थिताम् ।  
@@ -356,6 +364,14 @@ words in reply.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Doubting how the monkey armies can cross the impassable ocean, Sītā acknowledges that Hanumān alone could rescue her, yet insists that Rāma himself must conquer Laṅkā to uphold his honor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं च वीर सन्देहस्तिष्ठतीव ममाग्रतः ।  
@@ -660,6 +676,14 @@ form of roaring sound of various cascades.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “If, however, Kākutstha, the crusher of hostile forces (kākutsthaḥ parabalārdanaḥ), after filling Laṅkā with his armies (balais tu saṃkulāṃ kṛtvā laṅkām), should lead me home (māṃ nayed yadi), that would be worthy of him (tat tasya sadṛśaṃ bhavet).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Sītā to arrange matters so that Rāma's valor may shine forth, Hanumān reassures her that Sugrīva and the two princes will swiftly cross over and annihilate Rāvaṇa's host.
 </details>
 </details>
 
@@ -991,6 +1015,14 @@ palmyrah, karna and bamboo trees.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consoling Sītā with the promise that she will soon reunite with Rāma as Rohiṇī joins the moon, Hanumān bows to Vaidehī and prepares to leap back across the sea.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समाश्वसिहि भद्रं ते भव त्वं कालकाङ्क्षिणी ।  
@@ -1294,6 +1326,14 @@ by fishes and water-snakes.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to behold his master Rāma, Hanumān resolves to cross the mid-ocean again and ascends Mount Ariṣṭa, whose cloud-draped peaks, mineral veins, and roaring cascades resemble a living being.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स कपिशार्दूलः स्वामिसन्दर्शनोत्सुकः ॥ २५ ॥  
@@ -1594,6 +1634,14 @@ Which seemed to cry out aloud on every side (prākruṣṭam iva sarvataḥ) thr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With whistling bamboos, hissing serpents, mist-veiled caves, and cloud-girt peaks, Mount Ariṣṭa is thronged with sages, celestial beings, flowering creepers, and cave-dwelling lions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेणुभिर्मारुतोद्‍धूतैः कूजन्तमिव कीचकैः ।  
@@ -1866,6 +1914,14 @@ Frequented by great sages, Yakṣas, Gandharvas, Kinnaras, and Nāgas (maharṣi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impelled by joyful haste to behold Rāma, Hanumān climbs Mount Ariṣṭa, crushing its rocky slabs beneath his feet, magnifies his body, and gazes across the dreadful ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्याघ्रादिभिः समाकीर्णं स्वादुमूलफलद्रुमम् ।  
@@ -1998,6 +2054,14 @@ And he beheld the dreadful ocean (dadarśa sāgaraṃ bhīmam), frequented by te
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Hanumān springs toward the northern quarter, Mount Ariṣṭa groans and sinks into the earth under his thrust, toppling blossoming trees, making cave-lions roar, and scattering terrified Vidyādharīs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदा पीडितस्तेन कपिना पर्वतोत्तमः ॥ ४२ ॥  
@@ -2103,6 +2167,14 @@ The dreadful roar of lions of mighty vigor (mahaujasāṃ siṃhānāṃ ninado 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With their garments disheveled in terror (trastavyāviddhavasanāḥ) and their ornaments thrown into disorder (vyākulīkṛtabhūṣaṇāḥ), celestial Vidyādhara women (vidyādharyaḥ) sprang up suddenly (samutpetuḥ sahasā) from the mountain (dharaṇīdharāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While giant serpents writhe under falling boulders and celestial beings flee into the sky, Mount Ariṣṭa sinks level with the earth into Rasātala as Hanumān bounds across the billowy sea.
 </details>
 </details>
 

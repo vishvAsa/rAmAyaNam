@@ -13,6 +13,14 @@ title = "०८७ इल-स्त्री-भावः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling as he confirms Lakṣmaṇa’s account of the Aśvamedha’s power, Rāma introduces an even more wondrous ancient tale—that of the righteous King Ila, son of Prajāpati Kardama and lord of Bāhlī, whom gods, daityas, and the three worlds revered in awe.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा लक्ष्मणेनोक्तं वाक्यं वाक्यविशारदः ।  
@@ -174,6 +182,14 @@ _________________
 **5:** “By the exceedingly noble gods and by wealthy daityas (suraiś ca paramodārair daiteyaiś ca mahādhanaiḥ), and by exceedingly great-souled nāgas, rākṣasas, gandharvas, and yakṣas (nāga-rākṣasa-gandharvair yakṣaiś ca sumahātmabhiḥ)—
 
 **6:** “—he was perpetually honored out of fear, O gentle delight of the Raghus (pūjyate nityaśaḥ saumya bhayārtai raghunandana), and all the three worlds stood in dread of that great-souled monarch when angered (abibhyaṃś ca trayo lokāḥ saroṣasya mahātmanaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting out on a spring hunt in the month of Caitra with his retinue, King Ila slaughters countless deer without satiation until he approaches the mountain birthplace of Skanda—where Śiva, wishing to delight Pārvatī, has assumed female form along with his attendants.
 </details>
 </details>
 
@@ -366,6 +382,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Within that enchanted grove, every male creature, tree, and object becomes feminine; riding in amidst his hunt, King Ila and his entire retinue are instantly turned into women, driving the horrified monarch to take refuge in Śiva, who smiles and addresses him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्र यत्र वनोद्देशे सत्त्वाः पुरुषवादिनः ।  
@@ -554,6 +578,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Ila choose any boon save manhood, Śiva refuses his one desire; declining every other gift, the grief-stricken king prostrates himself wholeheartedly before Umā, who graciously offers him half of the boon he seeks, since she and Śiva share sovereignty in equal halves.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तिष्ठोत्तिष्ठ राजर्षे कार्दमेय महाबल ॥ १९ ॥  
@@ -717,6 +749,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Of a boon the God is the grantor of one half, and of the other half of your boon I am the grantor (ardhasya devo varado varārdhasya tava hy aham); therefore accept from me half of womanhood and manhood, as much as you desire (tasmād ardhaṃ gṛhāṇa tvaṃ strī-puṃsor yāvad icchasi)!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overjoyed by Umā’s offer, Ila asks to alternate monthly between womanhood and manhood; granting his wish, the Goddess adds an unsolicited mercy—that in each state he will forget the other—so Kardama’s son lives one month as man and the next as the peerless beauty Ilā.
 </details>
 </details>
 

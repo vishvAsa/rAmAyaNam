@@ -32,6 +32,14 @@ this lengthy lamentation has lengthier romanticism.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the empty hermitage and overturned seats, Rāma throws up his arms and cries out for Vaidehī, pointing to the tearful fawns that brood in her absence.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वाऽऽश्रमपदं शून्यं रामो दशरथात्मजः ।  
@@ -320,6 +328,14 @@ I am dead and gone to other world, there my father will ask me...' would then be
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing that King Daśaratha in the other world will reproach him for dying before completing his fourteen-year vow, Rāma pleads with Sītā not to forsake him like fame leaving a crooked man.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं प्रतिज्ञां संश्रुत्य मया त्वमभियोजितः ॥ ७ ॥  
@@ -527,6 +543,14 @@ though he bewailed this way, that Rama has not found Janaka's daughter, Seetha. 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāma sinking like an elephant in deep mire, Lakṣmaṇa urges him to cast off despair and search the cave-graced mountain, lotus-ponds, and reed-fringed river where Sītā may be hiding.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनासादयमानं तं सीतां शोकपरायणम् ॥ १२ ॥  
@@ -723,6 +747,14 @@ away into forest. Oh, honourable brother, let us endeavour quickly to search her
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—as Vaidehī tests (jijñāsamānā) you and me, O bull among men (puruṣarṣabha)! Therefore, O glorious one, let us both strive at once (kṣipram eva yatāvahe) in searching for her (tasyā hy anveṣaṇe)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadied by Lakṣmaṇa's affectionate words, Rāma searches the woods, rivers, lakes, and ledges of Mount Prasravaṇa with his brother, but still fails to find Vaidehī.
 </details>
 </details>
 
@@ -979,6 +1011,14 @@ Then, tormented by grief (duḥkhābhisaṃtaptaḥ) as he roamed through the Da
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Lakṣmaṇa assures him that he will recover Maithilī just as Viṣṇu bound Bali and reclaimed the earth, Rāma laments that every grove, lotus-pond, and mountain cave has been searched in vain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्स्यसे त्वं महाप्राज्ञ मैथिलीं जनकात्मजाम् ।  
@@ -1196,6 +1236,14 @@ while sadness besieging him he is perturbed for a moment. [3-61-28]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Lamenting thus (evaṃ sa vilapan), Rāma, wasted by the abduction of Sītā (sītā-haraṇa-karṣitaḥ), wretched and overwhelmed by grief (śoka-samāviṣṭaḥ), became beside himself for a time (muhūrtaṃ vihvalo 'bhavat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sinking down with trembling limbs and hot, long-drawn sighs, lotus-eyed Rāma cries out in a tear-choked voice for his beloved, unheeding of Lakṣmaṇa's reverent consolation.
 </details>
 </details>
 

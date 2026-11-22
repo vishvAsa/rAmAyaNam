@@ -27,6 +27,14 @@ an apprehensive and gloomy mind, he enters his father's house.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting forth eastward from Rājagṛha with his fourfold army, Bharata crosses the Sudāmā, the west-flowing Hlādinī, and the Śatadrū, passes Ailādhāna, Aparaparpaṭa, the Caitraratha-like forest, and the Bhāruṇḍa woods, and rests his troops after crossing the Yamunā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्राङ्मुखो राजगृहादभिनिर्याय वीर्यवान् ।  
@@ -305,6 +313,14 @@ surrounded by mountains as well as Yamuna river, the army was then made to rest 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having reached the Yamunā and crossed the swift, gladdening river Kuliṅgā hemmed in by mountains (veginīṃ ca kuliṅgākhyāṃ hlādinīṃ parvatāvṛtām yamunāṃ prāpya santīrṇaḥ), he refreshed his army there (balam āśvāsayat tadā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cooling his horses, bathing, and taking water for the dry forest ahead, Bharata speeds through the wilderness like the wind, crosses the Gaṅgā at Prāgvaṭa and the Kuṭikoṣṭhikā river, and passes Jambūprastha and Varūtha to reach the priyaka groves of Ujjihānā.
 </details>
 </details>
 
@@ -599,6 +615,14 @@ Having spent the night there in a pleasant wood, he proceeded eastward (tatra ra
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Giving his army leave to follow at ease from Ujjihānā, Bharata speeds ahead with mountain-bred horses across the Uttānikā, Kuṭikā, Kapīvatī, Sthāṇumatī, and Gomatī rivers, and at dawn after seven nights on the road beholds Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तांस्तु प्रियकान् प्राप्य शीघ्रानास्थाय वाजिनः ।  
@@ -853,6 +877,14 @@ the tiger among men, spoke the following words to his charioteer:
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Ayodhyā ahead, Bharata tells his charioteer that the renowned capital looks joyless and pale-soiled from afar: its tumultuous hum of men and women is silent, its parks seem to weep, and the city resembles a wilderness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यामग्रतो दृष्ट्वा सारथिं चेदमब्रवीत् ।  
@@ -1101,6 +1133,14 @@ coming out it in carriages or on horses or on elephants."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The city appears to me as though turned into a wilderness, O charioteer (araṇya-bhūteva purī sārathe pratibhāti me); for here the foremost of men are seen neither with carriages, nor with elephants, nor with horses (na hy atra yānair dṛśyante na gajair na ca vājibhiḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata laments the joyless parks with leaf-shedding trees that seem to weep, the silence of birds and deer at dawn, the absence of the incense-laden breeze and drum-music, and the manifold evil portents that sink his heart.
 </details>
 </details>
 
@@ -1374,6 +1414,14 @@ dejected."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “which formerly was never faint in its course, ceased today (kim adya śabdo viratas sadādīna-gatiḥ purā)? Indeed, I behold various unwelcome and cruel portents (aniṣṭāni ca pāpāni paśyāmi vividhāni ca)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Despairing of his kinsmen’s welfare, Bharata enters Ayodhyā through the Vaijayanta gate; dismissing the gatekeepers who wish him victory, he tells Aśvapati’s charioteer that he sees all the signs heard of at the death of kings.
 </details>
 </details>
 
@@ -1690,6 +1738,14 @@ seeing here all those signs."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata points out the signs of royal calamity across Ayodhyā: unswept, lustreless houses with unfastened doors, no bali-offerings or incense, unfed families, deserted temples with neglected altars, and garland-shops devoid of wares.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्मार्जनविहीनानि परुषाण्युपलक्षये ।  
@@ -1855,6 +1911,14 @@ adorned with saleable flowers and garlands today."
 **40:** “The temples of the gods, stripped of the beauty of flower-garlands, with their courtyards unswept, are deserted and do not shine as before (apeta-mālya-śobhāni hy asammṛṣṭājirāṇi ca devāgārāṇi śūnyāni na cābhānti yathā-puram);
 
 **41:** “the worship of the deities is interrupted and the sacrificial halls are in the same state (devatārcāḥ praviddhāś ca yajña-goṣṭhyas tathā-vidhāḥ), nor do flower-wares shine today as before in the garland-stalls (mālyāpaṇeṣu rājante nādya paṇyāni vā tathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the merchants sitting with shuttered stalls, the birds dejected on temple shrines, the tearful citizens, and the deserted crossroads and dust-reddened gates of Ayodhyā, Bharata enters his father’s palace with bowed head.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ Brahma (the creator) proclaims his divinity and eulogizes him with hymns.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān reports Sītā’s tearful longing to behold her lord, whereupon Rāma, his eyes moist with tears, falls into deep reflection and summons Vibhīṣaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हि दुर्मना रामः श्रुत्वैवं वदतां गिरः ।  
@@ -266,6 +274,14 @@ recognize yourself to be the foremost of the troop of gods?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Drawing a long sigh (dīrgham abhiniḥśvasya) and gazing upon the earth (jagatīm avalokayan), he spoke to Vibhīṣaṇa, who stood near (upasthitam) resembling a dark cloud (meghasaṃkāśam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma commands Vibhīṣaṇa to bring Sītā bathed and adorned with celestial ornaments; though eager to see her lord unbathed, Sītā yields to his command.
 </details>
 </details>
 
@@ -590,6 +606,14 @@ Hearing that speech of hers, Vibhīṣaṇa replied: “You ought to do (tathā 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathed and adorned, Sītā is borne in a resplendent palanquin by Vibhīṣaṇa to Rāma, who experiences mingled wrath, joy, and sorrow upon hearing of her arrival.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् नारायणो देवः श्रीमांश्चक्रायुधः प्रभुः ।  
@@ -888,6 +912,14 @@ Hearing that she who had dwelt long in the Rākṣasa’s abode (rakṣogṛhaci
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Rāghava, deliberating with anxious reflection (savimarśaṃ vicārayan) regarding Sītā seated in the palanquin (yānagatāṃ sītām), ungladdened (ahṛṣṭaḥ), spoke this word to Vibhīṣaṇa:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma bids Sītā approach, Vibhīṣaṇa’s guards clear the thronging monkeys, bears, and Rākṣasas with canes, raising a roar like the wind-tossed ocean until Rāma halts them.
 </details>
 </details>
 
@@ -1222,6 +1254,14 @@ Beholding them being driven back and thrown into agitation on all sides (samant�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rebuking Vibhīṣaṇa, Rāma declares that neither walls, garments, nor royal enclosures screen a woman, but noble character alone, and bids Sītā approach on foot before the monkeys.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संस्कारास्त्वभवन् वेदा नैतदस्ति त्वया विना ।  
@@ -1553,6 +1593,14 @@ blessed sight is powerful. The songs in praise of you never go in vain."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Therefore, leaving the palanquin (visṛjya śibikām), let her approach on foot alone (padbhyām evāpasarpatu); let these forest-dwellers (vanaukasaḥ) behold Vaidehī in my presence (samīpe mama).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Distressed by Rāma’s stern demeanor, Lakṣmaṇa, Sugrīva, and Hanūmān fear his displeasure, while Sītā approaches on foot, shrinking in modesty and gazing upon her lord’s moonlike face.
 </details>
 </details>
 

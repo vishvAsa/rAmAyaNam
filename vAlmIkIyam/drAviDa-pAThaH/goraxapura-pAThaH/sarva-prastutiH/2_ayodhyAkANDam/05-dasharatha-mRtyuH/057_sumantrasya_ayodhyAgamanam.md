@@ -26,6 +26,14 @@ loudly in anguish.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning from Guha’s scouts of Rāma’s journey to Prayāga and Citrakūṭa, Sumantra takes leave of Guha, yokes his steeds, and returns on the third afternoon to a silent, joyless Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथयित्वा तु दुःखार्तः सुमन्त्रेण चिरं सह ।  
@@ -342,6 +350,14 @@ Beholding her silent and as though desolate (śūnyām iva niḥśabdām), Suman
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dreading lest Ayodhyā be consumed by the fire of grief, Sumantra hurries through the city gate, where hundreds of citizens rush to him and weep aloud upon hearing that Rāma has crossed the Gaṅgā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न सगजा साश्वा सजना सजनाधिपा ।  
@@ -626,6 +642,14 @@ indeed are we, who do not see Rama here!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And he heard the words of those standing in crowd after crowd (bṛndaṃ bṛndaṃ ca tiṣṭhatām): “Undone indeed are we (hatāḥ sma khalu), who do not behold Rāghava here today!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mourning Rāma’s paternal care at every festival and assembly, the citizens and women at the lattice-windows lament aloud as Sumantra, covering his face, passes through seven palace courts.
 </details>
 </details>
 
@@ -948,6 +972,14 @@ Beholding him arrived from the mansions, seven-storied palaces, and royal towers
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overhearing the soft, anguished whispers of Daśaratha’s queens wondering how he can face Kausalyā without Rāma, Sumantra enters the eighth court and beholds the pale, grief-wasted monarch.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयतैर्विमलैर्नेत्रैरश्रुवेगपरिप्लुतैः ।  
@@ -1242,6 +1274,14 @@ of the grief for his son.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the seated monarch, Sumantra delivers Rāma’s message; Daśaratha falls senseless to the floor in silent grief, and Kausalyā with Sumitrā raises him up with anguished reproach.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिगम्य तमासीनं राजानमभिवाद्य च ।  
@@ -1506,6 +1546,14 @@ from the forest and who has done difficult things?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O lord of great fortune (mahā-bhāga), wherefore do you not speak in reply (kasmān na pratibhāṣase) to this messenger of that performer of arduous deeds (tasya duṣkara-kāriṇo dūtam), who has arrived from the forest-exile?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bitterly telling Daśaratha that Kaikeyī is not present and bidding him question Sumantra without fear, Kausalyā falls weeping to the ground, plunging the palace and all Ayodhyā into renewed wailing.
 </details>
 </details>
 

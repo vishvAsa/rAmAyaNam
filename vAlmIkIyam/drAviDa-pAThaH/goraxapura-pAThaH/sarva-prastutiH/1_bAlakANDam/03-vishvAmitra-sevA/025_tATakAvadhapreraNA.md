@@ -41,6 +41,14 @@ the society.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Viśvāmitra’s account, Rāma asks how a female Yakṣī—a race known to possess modest strength—can wield the might of a thousand elephants; the sage replies that she holds this valor by the boon of Brahmā granted to her father Suketu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्याप्रमेयस्य मुनेर्वचनमुत्तमम् ।  
@@ -288,6 +296,14 @@ is renowned by the name of Tataka. [1-25-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Well-pleased with that lord of Yakṣas at that time, the Grandsire Brahmā (pitāmahas tu suprītas tasya yakṣapates tadā) bestowed upon him a jewel of a maiden, Tāṭakā by name, O Rāma (kanyāratnaṃ dadau rāma tāṭakāṃ nāma nāmataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Withholding a son lest he devastate the worlds, Brahmā grants Tāṭakā the strength of a thousand elephants; wedded to Jambha’s son Sunda, she bears Mārīca, and when both rush to devour Sage Agastya after Sunda’s death, Agastya curses them into Rākṣasas.
 </details>
 </details>
 
@@ -539,6 +555,14 @@ firstly cursed Mareecha saying, 'you will attain demon-hood.' [1-25-11, 12a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Filled with fury and roaring aloud, she rushed at him to devour him (bhakṣārthaṃ jātasaṃrambhā garjantī sābhyadhāvata); beholding her rushing upon him, the venerable sage Agastya (āpatantīṃ tu tāṃ dṛṣṭvā agastyo bhagavān ṛṣiḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Transformed by Agastya’s curse into a hideous cannibal Rākṣasī, Tāṭakā vents her fury upon the land; Viśvāmitra enjoins Rāma to feel no compunction at slaying a woman, for a prince must do whatever protects cows, Brāhmaṇas, and the four varṇas.
 </details>
 </details>
 
@@ -845,6 +869,14 @@ it is ruthless or humane, sinful or vilifying. [1-25-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Whether an act appear harsh or gentle (nṛśaṃsam anṛśaṃsaṃ vā), whether it seem a grave sin or attended with fault (pātakaṃ vā sadoṣaṃ vā), it must always be performed by a ruler for the sake of protecting the subjects (prajarakṣaṇakāraṇāt kartavyaṃ rakṣatā sadā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring this the eternal dharma of kings, Viśvāmitra cites the ancient precedents of Indra slaying Virocana’s daughter Mantharā and Viṣṇu slaying Bhṛgu’s wife (mother of Kāvya/Śukra), commanding Rāma to cast off pity and slay the lawless Tāṭakā.
 </details>
 </details>
 

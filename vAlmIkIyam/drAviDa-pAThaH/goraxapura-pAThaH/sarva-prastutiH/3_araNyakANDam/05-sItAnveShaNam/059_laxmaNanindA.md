@@ -28,6 +28,14 @@ the last few verses of last chapter, and on their pathway to their hermitage.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned along the forest path by the grieving Rāma whose left eye and arm throb with ill omen, Lakṣmaṇa explains that he left Sītā not at will, but driven by her fierce words.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाश्रमादुपावृत्तमन्तरा रघुनन्दनः ।  
@@ -342,6 +350,14 @@ virtually driven by her hurtful words." Thus Lakshmana is relying Rama. [3-59-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Not of my own accord, acting at will (kāma-kāreṇa), did I abandon her and come here; urged on by her alone (pracoditas tayaiva) with harsh words (ugraiḥ), I have come here to your presence (tvat-sakāśam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa recounts how Maithilī heard the discordant cry mimicking Rāma and wept in terror, and how he sought to reassure her that no demon in existence could frighten him who rescues the gods.
 </details>
 </details>
 
@@ -674,6 +690,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Lakṣmaṇa assured her that Rāghava is invincible in battle even against the gods led by Indra, the bewildered Vaidehī shed tears and accused him of harboring a wicked desire to win her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसेनेरितं वाक्यं त्रासात् त्राहीति शोभने ।  
@@ -898,6 +922,14 @@ ruination of your brother, but I am unachievable to you. [3-59-17]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘An utterly wicked intention (bhāvo... atyarthaṃ pāpa eva) has been fixed by you upon me (mayi tava niveśitaḥ), hoping to win me when your brother has perished (vinaṣṭe bhrātari prāptum); yet you shall never obtain me (na ca tvaṃ mām avāpsyase)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stung by Sītā's charge that he followed Rāma in league with Bharata as a disguised foe, Lakṣmaṇa rushed forth in anger, only for Rāma to rebuke him for leaving her unguarded.
 </details>
 </details>
 
@@ -1161,6 +1193,14 @@ of Maithili? [3-59-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Even though knowing me to be fully capable (jānann api samarthaṃ mām) of warding off the demons (rakṣasām apavāraṇe), you departed (nirgato bhavān) because of these angry words of Maithilī (anena krodha-vākyena maithilyāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Censuring Lakṣmaṇa for disobeying his command in anger at a woman's harsh words, Rāma recounts how the deer-demon, struck by his arrow, resumed his armleted form and uttered that far-carrying cry.
 </details>
 </details>
 

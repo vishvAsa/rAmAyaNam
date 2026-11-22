@@ -30,6 +30,14 @@ others experience happiness for having destroyed their enemy.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminded by Mātali that the appointed hour of Rāvaṇa's destruction has arrived, Rāma grasps the blazing missile of Brahmā bestowed upon him by Sage Agastya.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां विलपमानानां तदा राक्षसयोषिताम् ।  
@@ -302,6 +310,14 @@ worlds by dint of your prowess, had grown irresistible and were endowed with glo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like the doomsday fire and feathered with Garuḍa's brilliant plumes, the adamantine shaft is forged from the essence of all beings to shatter armies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानुषाणामविषये चरतः कामरूपिणः ।  
@@ -507,6 +523,14 @@ the City of Lanka, which was difficult to be entered even for gods."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —hard as the thunderbolt in substance (vajrasāram), mighty in roar, terrible to manifold battle-hosts (nānāsamitidāruṇam), striking terror into all, fearful, and hissing like a serpent—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consecrating the supreme shaft with Vedic mantras as the earth trembles, Rāma draws his bow and hurls the unerring missile straight through Rāvaṇa's wicked heart.
 </details>
 </details>
 
@@ -780,6 +804,14 @@ Loosed with mighty speed, that supreme ender of the body (śarīrāntakaraḥ pa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having robbed Rāvaṇa of life and entered the earth, the blood-stained shaft humbly returns to Rāma's quiver as Rāvaṇa falls like Vṛtra and his rākṣasas flee.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकस्माच्चाभिकामोऽसि सीतां राक्षसपुङ्गव ॥ १९ ॥  
@@ -986,6 +1018,14 @@ principal spouse of moon-god)."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Roaring, the tree-fighting monkeys (vānarā drumayodhinaḥ) fell upon them; beholding the slaying of Daśagrīva, the monkeys shone with triumphant bearing (jitakāśinaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the bereaved rākṣasas flee weeping into Laṅkā, celestial kettledrums resound, fragrant breezes blow, flowers rain upon Rāma's chariot, and the gods acclaim him.
 </details>
 </details>
 
@@ -1254,6 +1294,14 @@ ignorance."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And in the sky there was clearly heard (viśuśruve) the supreme voice of the high-souled deities, joined with praise of Rāghava (rāghavastavasaṃyuktā), crying, `Well done! Well done!' (sādhu sādhv iti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the terror of the worlds slain, nature returns to serene harmony, and Rāma shines like Mahendra surrounded by Sugrīva, Vibhīṣaṇa, Aṅgada, and Lakṣmaṇa.
 </details>
 </details>
 

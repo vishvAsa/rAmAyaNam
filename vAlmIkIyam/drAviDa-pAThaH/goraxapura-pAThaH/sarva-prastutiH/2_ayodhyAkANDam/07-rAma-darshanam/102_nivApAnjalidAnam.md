@@ -25,6 +25,14 @@ father, who died wtih the thought of Rama alone, absorbed in his mind.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by the thunderbolt of Bharata’s tidings of their father’s death, Rāma swoons and falls like a blossoming forest tree felled by an axe or an elephant exhausted by battering a riverbank; sprinkled with water by Sītā and his brothers, he revives in tears.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य वचनं श्रुत्वा भरतः प्रत्युवाच ह ।  
@@ -319,6 +327,14 @@ misfortune and grief and ascended to the most sacred heaven."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Regaining consciousness and shedding tears from his eyes (sa tu saṃjñāṃ punar labdhvā netrābhyām āsram utsṛjan), Kākutstha began to speak many piteous words (upākrāmata kākutsthaḥ kṛpaṇaṃ bahu bhāṣitum).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting his father’s ascent to heaven, Rāma reproaches his own ill-fated birth for having caused Daśaratha’s death without performing his last rites, praises Bharata and Śatrughna, and declares he cannot bear to return to kingless Ayodhyā.
 </details>
 </details>
 

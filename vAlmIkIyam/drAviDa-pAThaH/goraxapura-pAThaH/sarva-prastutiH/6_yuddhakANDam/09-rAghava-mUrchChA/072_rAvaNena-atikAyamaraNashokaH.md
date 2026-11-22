@@ -29,6 +29,14 @@ Atikaya, his son.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shaken by the news of Atikāya's death at Lakṣmaṇa's hands, Rāvaṇa laments the fall of Dhūmrākṣa, Akampana, Prahasta, and Kumbhakarṇa, and marvels at Rāma's escape from Indrajit's serpent-bonds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिकायं हतं श्रुत्वा लक्ष्मणेन महात्मना ।  
@@ -151,6 +159,14 @@ battle by the enemies they along with their enemies were killed. Many other migh
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—those heroes, huge-bodied rākṣasas skilled in manifold weapons (nānāśastraviśāradāḥ), have been slain together with their armies (sasainyāḥ) by Rāma of unwearying deeds (akliṣṭakarmaṇā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Baffled as to how Rāma and Lakṣmaṇa escaped the serpent-darts, Rāvaṇa sees no warrior left who can vanquish Rāma and suspects that Rāghava is the imperishable Nārāyaṇa himself.
 </details>
 </details>
 
@@ -450,6 +466,14 @@ Seetha is being guarded, vigilantly on all sides."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Laṅkā's gates barred in fear of Rāma, Rāvaṇa commands his garrisons to guard the city and the Aśoka grove, monitoring every entry and monkey movement day and night.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमत्तैश्च सर्वत्र गुल्मे रक्ष्या पुरी त्वियम् ॥ १२ ॥  
@@ -607,6 +631,14 @@ active or advancing or staying where it was."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O night-stalkers, the movements (padam) of those monkeys must be watched at nightfall (pradoṣe), at midnight (ardharātre), and at break of dawn (pratyūṣe) on all sides.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning his sentries never to underestimate the monkeys' movements, Rāvaṇa dismisses his commanders and withdraws into his palace, sighing heavily over the loss of his sons.
 </details>
 </details>
 

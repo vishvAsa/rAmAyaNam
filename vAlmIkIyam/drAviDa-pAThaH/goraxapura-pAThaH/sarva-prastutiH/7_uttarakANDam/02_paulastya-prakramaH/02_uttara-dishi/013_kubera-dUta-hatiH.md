@@ -13,6 +13,14 @@ title = "०१३ कुबेर-दूत-हतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Brahmā’s boon-born sleep descends visibly upon Kumbhakarṇa, he begs Rāvaṇa for a slumber-hall; artisans rivaling Viśvakarman fashion a vast, gem-inlaid palace like a sacred cavern of Mount Meru.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ लोकेश्वरोत्सृष्टा तत्र कालेन केनचित् ।  
@@ -172,6 +180,14 @@ with stairways wrought of cat’s-eye gem (vaiḍūrya-kṛta-sopānam) and latt
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus that rākṣasa [Rāvaṇa] caused to be built (kārayāmāsa) a captivating, wholly comfortable palace (manoharaṃ sarva-sukham), ever bestowing delight in every part (sarvatra sukhadaṃ nityam), like a sacred cavern of Mount Meru (meroḥ puṇyāṃ guhām iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Kumbhakarṇa sleeps for millennia, an unrestrained Rāvaṇa slaughters gods and sages and wrecks Nandana; grieving at his conduct, his righteous elder brother Kubera sends a messenger to Laṅkā with fraternal counsel.
 </details>
 </details>
 
@@ -339,6 +355,14 @@ Like an elephant sporting in a river (nadīṃ gaja iva krīḍan), like the win
 **11:** Learning that Ten-necked Rāvaṇa was behaving thus (tathā-vṛttaṃ tu vijñāya), the Lord of Wealth [Kubera] (dhaneśvaraḥ), knower of dharma (dharmajñaḥ), recalling his own conduct befitting his lineage (kulānurūpaṃ ... vṛttaṃ saṃsmṛtya cātmanaḥ),
 
 **12:** in order to manifest brotherly affection (saubhrātra-darśanārtham), Vaiśravaṇa then dispatched to Laṅkā (laṅkāṃ sampreṣayāmāsa) a messenger bearing words for Ten-necked Rāvaṇa’s welfare (daśagrīvasya vai hitam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cordially received in Laṅkā by Vibhīṣaṇa and conducted into Rāvaṇa’s court, Kubera’s envoy salutes the resplendent king and delivers his elder brother’s diplomatic plea to desist from wrongdoing and abide in dharma.
 </details>
 </details>
 
@@ -528,6 +552,14 @@ Then the envoy spoke these words to Ten-necked Rāvaṇa (daśagrīvaṃ dūto v
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kubera’s message warns that the gods are mobilizing against Rāvaṇa’s crimes, explains his own absence during an austere Rudra-vow on Himālaya, and recounts how an innocent glance at Umā scorched his left eye tawny.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टं मे नन्दनं भग्नमृषयो निहताः श्रुताः ।  
@@ -695,6 +727,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Withdrawing to another Himalayan ridge for eight centuries of silent austerity, Kubera wins Maheśvara’s supreme delight; declaring him uniquely worthy of that ancient vow, Śiva bestows his eternal friendship upon the Lord of Wealth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहमन्यद् विस्तीर्णं गत्वा तस्य गिरेस्तटम् ।  
@@ -850,6 +890,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘For this steadfast vow (vrataṃ suniścayam) was instituted by me of old (mayā hy utpāditaṃ purā); therefore, O gentle Lord of Wealth (saumya ... dhaneśvara), take delight in friendship with me (tat sakhitvaṃ mayā ... rocayasva)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding Kubera’s plea to desist from sin before the gods destroy him, the envoy faces Rāvaṇa’s explosive wrath; misreading Kubera’s fellowship with Śiva as an insolent boast, Rāvaṇa vows death to envoy and brother alike.
 </details>
 </details>
 
@@ -1022,6 +1070,14 @@ Addressed thus (evam uktaḥ), Ten-necked Rāvaṇa, his eyes bloodshot with fur
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For this treasure-keeper (dhanarakṣakaḥ) does not speak this for my welfare at all (hitaṃ naiṣa mamaitad dhi bravīti); rather, O fool, he is boasting in my ears of his friendship with Maheśvara, forsooth (maheśvara-sakhitvaṃ tu mūḍha śrāvayate kila)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Casting aside his former deference toward his elder brother, Rāvaṇa vows to dispatch all four World-Guardians to Yama’s realm, slays the envoy with his sword, feeds him to rākṣasas, and marches in his chariot against Kubera.
 </details>
 </details>
 

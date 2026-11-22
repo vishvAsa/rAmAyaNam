@@ -25,6 +25,14 @@ On one day before the sunrise Rama proceeds to River Godavari for daily bath alo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As winter sets in at Pañcavaṭī, Rāma walks at dawn with Sītā and water-jar-bearing Lakṣmaṇa toward the Godāvarī, while Lakṣmaṇa praises the arrival of Rāma’s cherished season.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसतस्तस्य तु सुखं राघवस्य महात्मनः ।  
@@ -337,6 +345,14 @@ ashniiyaat vriihiinaam yavaanaam shyaamakaanaam iti agra paakasya yajeta -- aapa
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having worshipped the ancestral manes and deities (pitṛ-devatāḥ) in due season with offerings of the new harvest (navāgrayaṇa-pūjābhiḥ), the righteous who maintain the first-fruits sacrifice (kṛtāgrayaṇakāḥ) are freed from sin (vigata-kalmaṣāḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa describes the prosperous countryside, kings marching on campaign, the sun’s southern course leaving the north lustreless, snow-rich Himavān, and the long, frosty nights of Pauṣa.
 </details>
 </details>
 
@@ -681,6 +697,14 @@ their eradication.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa likens the frost-dimmed moon to a breath-clouded mirror and the pale moonlight to sun-darkened Sītā, while describing the doubly cold west wind and golden rice fields.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रविसङ्क्रान्तसौभाग्यस्तुषारारुणमण्डलः ।  
@@ -1015,6 +1039,14 @@ activities...' is the question of Lakshmana. Govindaraja.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With its spreading rays (mayūkhair upasarpadbhiḥ) shrouded in frost and mist (hima-nīhāra-saṃvṛtaiḥ), the sun, even when risen high (dūram abhyuditaḥ), appears like the moon (śaśāṅka iva).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa portrays the pale winter sunshine, dew-moistened forest meadows, a thirsty wild elephant recoiling from icy water, hesitant waterfowl, slumbering trees, and mist-veiled rivers.
 </details>
 </details>
 
@@ -1379,6 +1411,14 @@ as good as waterfowls dependent on rivers.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Finishing his portrait of winter with frost-blighted lotus ponds, Lakṣmaṇa recalls righteous Bharata performing harsh penance in Ayodhyā and bathing in the icy Sarayū before dawn.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तुषारपतनाच्चैव मृदुत्वाद् भास्करस्य च ।  
@@ -1700,6 +1740,14 @@ to Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa extols Bharata’s noble qualities and ascetic fidelity to Rāma, declaring that Bharata has overturned the worldly proverb that sons take after their mothers rather than their fathers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद्मपत्रेक्षणः श्यामः श्रीमान् निरुदरो महान् ।  
@@ -1961,6 +2009,14 @@ Rama uses the same wording for Kaikeyi as our middle mother' at 3-2-19b-20
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to bear any censure of his stepmother, Rāma gently forbids Lakṣmaṇa from blaming Kaikeyī and confesses how his own resolve melts whenever he remembers Bharata’s nectar-sweet words.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येवं लक्ष्मणे वाक्यं स्नेहाद् वदति धार्मिके ।  
@@ -2165,6 +2221,14 @@ to [ambrosial]; *manaH prahlaadaani ca* = heart, gladdening [heartening words]; 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I fondly remember his words—dear, melodious (madhurāṇi), captivating to the heart (hṛdyāni), like unto nectar (amṛta-kalpāni), and gladdening to the mind (manaḥ-prahlādanāni).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Longing for reunion with Bharata and Śatrughna, Rāma reaches the Godāvarī, performs his morning bath and water-libations with Sītā and Lakṣmaṇa, and shines like Lord Rudra with Pārvatī and Nandin.
 </details>
 </details>
 

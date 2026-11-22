@@ -13,6 +13,14 @@ title = "०१७ वेदवती-शापः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wandering across the earth into the Himālayan forests, Rāvaṇa encounters a radiant ascetic maiden wearing black deerskin and matted locks; overcome by lust, he mocks her youth-denying penance and asks whose daughter and bride she is.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राजन् महाबाहुर्विचरन् पृथिवीतले ।  
@@ -205,6 +213,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Offering Rāvaṇa due hospitality despite his insolence, the ascetic maiden introduces herself as Vedavatī, speech-born daughter of the brahmarṣi Kuśadhvaja, whom her father refused to gods and spirits because he desired Viṣṇu alone as son-in-law.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सा कन्या रावणेन यशस्विनी ॥ ७ ॥  
@@ -360,6 +376,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Yet my father did not bestow me upon any of them, O bull among rākṣasas (rākṣasarṣabha); I shall tell you the reason for that—listen closely, O night-roamer (niśācara niśāmaya)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vedavatī recounts how the enraged Daitya king Dambhu murdered her sleeping father and her mother entered the funeral pyre, explains that she now practices fierce penance solely to win Nārāyaṇa, and bids Rāvaṇa depart since her tapas reveals who he is.
 </details>
 </details>
 
@@ -531,6 +555,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Indeed you are known to me, O King—depart, O delight of Pulastya’s line (gaccha paulastya-nandana)! For through my austerity I know everything (jānāmi tapasā sarvam) that transpires across the three worlds (trailokye yad dhi vartate).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Kāma’s arrows, Rāvaṇa descends from Puṣpaka, mocks Vedavatī’s penance as fit only for the aged while her youth slips away, offers himself as lord of Laṅkā, and arrogantly belittles Viṣṇu as inferior to himself.
 </details>
 </details>
 
@@ -732,6 +764,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vedavatī rebukes Rāvaṇa for disparaging Viṣṇu, the demon seizes her by the hair; transforming her hand into a sword, she shears off her defiled locks, kindles a fire, and vows to be reborn for his destruction.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तवति तस्मिंस्तु वेदवत्यथ साब्रवीत् ॥ २५ ॥  
@@ -921,6 +961,14 @@ Blazing as it were with fury (jvalantīva roṣeṇa) and seeming to consume the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declining to waste her tapas on a curse, Vedavatī prays for non-uterine rebirth as a righteous man’s daughter and enters the fire; in the Southern tradition she re-emerges in a lotus, and Rāvaṇa’s minister declares her fatal.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मात् तु धर्षिता चाहं त्वया पापात्मना वने ॥ ३१ ॥  
@@ -1104,6 +1152,14 @@ Taking up that maiden glowing like the heart of a lotus (kanyāṃ kamala-garbh�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Skilled in reading bodily omens (lakṣaṇajñaḥ), the minister examined her intently (nirīkṣyaiva) and spoke thus to Rāvaṇa: “Abiding in your house, this fair-hipped maiden (gṛhasthaiṣā hi suśroṇī) manifestly appears solely for your destruction (tvad-vadhāyaiva dṛśyate)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cast into the sea by Rāvaṇa, the lotus-born maiden reaches Janaka’s sacrificial field to rise from the plough-furrow as Sītā; Agastya reveals that Vedavatī of the Kṛta age thus became Rāma’s consort in the Tretā age to destroy Rāvaṇa.
 </details>
 </details>
 

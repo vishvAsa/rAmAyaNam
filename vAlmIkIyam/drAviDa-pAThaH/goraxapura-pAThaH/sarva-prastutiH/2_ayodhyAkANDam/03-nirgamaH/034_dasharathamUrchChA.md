@@ -17,6 +17,14 @@ title_english = "034 Rama consoles Dasaratha"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dispatched by lotus-eyed Rāma, the charioteer Sumantra enters the royal chamber, beholds the grief-stricken King Daśaratha like an eclipsed sun, and announces Rāma’s arrival at the door.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कमलपत्राक्षः श्यामो निरुपमो महान् ।  
@@ -211,6 +219,14 @@ slow and sweet voice, overcome with fear.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 First greeting that monarch with a benediction of victory (jayāśiṣā), the charioteer spoke in a low and gentle voice faltering with fear (bhaya-viklavayā vācā mandayā ślakṣṇayā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra urges Daśaratha to behold Rāma before he departs for the great forest, whereupon the king commands Sumantra to summon all his queens from the inner apartments.
 </details>
 </details>
 
@@ -520,6 +536,14 @@ palace, after knowing the instructions of their husband.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Sumantra at the king’s command, all those women set out for that palace (pracakramus tad bhavanam), understanding the mandate of their lord.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Three hundred and fifty red-eyed queens encircle Kausalyā and enter the chamber; when Sumantra ushers in Rāma, Lakṣmaṇa, and Sītā, King Daśaratha rushes toward Rāma and collapses in a swoon.
 </details>
 </details>
 
@@ -844,6 +868,14 @@ Rāma swiftly rushed toward him, as did the great chariot-warrior Lakṣmaṇa,a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Amidst the cries of a thousand women and the clamour of their ornaments, Rāma and Lakṣmaṇa lift the weeping king onto his couch, and Rāma humbly seeks his father’s leave for himself, Lakṣmaṇa, and Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रीसहस्रनिनादश्च सञ्जज्ञे राजवेश्मनि ।  
@@ -1132,6 +1164,14 @@ intended to go to forest for practising austerities)."
 **23:** “Grant leave to Lakṣmaṇa as well, and let Sītā follow me to the forest; though dissuaded by me with many true reasons (kāraṇair bahubhis tathyair vāryamāṇau), those two do not wish to stay behind.
 
 **24:** “Casting aside grief, O bestower of honour (mānada), grant leave to us all—Lakṣmaṇa, myself, and Sītā—as Prajāpati Brahmā gave leave to his own sons (prajāpatir ivātmajān)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deluded by Kaikeyī’s boons, King Daśaratha urges Rāma to imprison him and seize the throne of Ayodhyā, but Rāma firmly refuses to make his father’s pledge false and vows to dwell fourteen years in the forest.
 </details>
 </details>
 
@@ -1459,6 +1499,14 @@ Weeping and stricken with anguish, bound by the noose of truth (satya-pāśena s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessing Rāma’s path to be free of all fear, Daśaratha begs him to stay just one more night in Ayodhyā to comfort his parents, lamenting that Kaikeyī has deceived him like fire hidden under ashes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रेयसे वृद्धये तात पुनरागमनाय च ।  
@@ -1695,6 +1743,14 @@ you are going to the forest a solitary place, leaving beloved ones."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A most difficult deed is being performed by you in every way (duṣkaraṃ kriyate putra sarvathā), O beloved Rāghava; for solely for the sake of what is dear to me in the hereafter (mat-priyārtham), you have thus resorted to the forest!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha praises Rāma for redeeming him from Kaikeyī’s deceitful trap; Rāma replies that he prefers immediate departure over all pleasures and asks that the kingdom be given to Bharata.
 </details>
 </details>
 
@@ -2039,6 +2095,14 @@ Be you a truthful man."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing his father to the unshakeable ocean, Rāma swears by Daśaratha’s truth and merit that he desires neither kingdom, pleasure, heaven, nor life itself, but only that his father remain truthful.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं निदेशं भवतो यथोक्तमनुपालयन् ॥ ४३ ॥  
@@ -2294,6 +2358,14 @@ swear to you in your presence by truth and by virtue."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—so much as I desire you to be true to your word and not untruthful (tvām ahaṃ satyam icchāmi nānṛtaṃ puruṣarṣabha), O bull among men! In your very presence, I swear to you by truth and by my own good deeds (satyena sukṛtena ca te śape)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that a father is the deity even of the gods, Rāma consoles Daśaratha by promising to sport happily in the peaceful forest filled with deer and birds and to return after fourteen years.
 </details>
 </details>
 
@@ -2559,6 +2631,14 @@ fourteen years. Let this grief be given up."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Daśaratha that it is his duty to steady the weeping populace, Rāma asks that the entire earth with its cities, forests, and hills be given to Bharata while he himself serves his father’s command in the woods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन संस्तम्भनीयोऽयं सर्वो बाष्पकलो जनः ।  
@@ -2798,6 +2878,14 @@ sensuous pleasures which is approved by the wise. Let your agony disappear, for 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “My mind, O monarch, is not so set upon great pleasures (na me tathā pārthiva dhīyate mano mahatsu kāmeṣu) nor upon what is dear to myself, as upon your command approved by the wise (yathā nideśe tava śiṣṭa-sammate); let your grief on my account depart, O sinless one!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he would never tarnish his father with untruth even for Maithilī or life itself, Rāma vows to live happily on roots and fruits; Daśaratha embraces his son and falls senseless to the ground amidst universal wailing.
 </details>
 </details>
 

@@ -15,6 +15,14 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to bear the grief of separation after hearing Rāma and Sītā converse, Lakṣmaṇa clasps his brother's feet and begs to walk before them bow in hand, spurning heaven, immortality, and sovereignty without Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं श्रुत्वा स संवादं लक्ष्मणः पूर्वमागतः ।  
@@ -305,6 +313,14 @@ through many of his pacifying words. After hearing them, Lakshmana again soke as
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Speaking thus, the son of Sumitrā, firmly resolved upon dwelling in the forest, though dissuaded by Rāma with many soothing words (bahubhiḥ sāntvaiḥ), spoke once again:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lakṣmaṇa asks why Rāma now forbids his departure after having previously granted permission, Rāma replies that someone must remain behind to protect Kausalyā and Sumitrā from the king's infatuation.
 </details>
 </details>
 
@@ -617,6 +633,14 @@ cloud sends down rain on the earth, stands circumscribed by cord of love."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That lord of the earth of mighty splendor, who formerly showered desires upon all like a rain-cloud upon the earth (parjanyaḥ pṛthivīm iva), now lies bound in the snare of passion (kāmapāśaparyastaḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that neither Kaikeyī nor a Bharata dependent upon her will care for the grieving Kausalyā and Sumitrā, Rāma urges Lakṣmaṇa to remain in Ayodhyā to support their mothers, and Lakṣmaṇa replies with gentle eloquence.
 </details>
 </details>
 
@@ -939,6 +963,14 @@ Addressed thus by Rāma in gentle words (ślakṣṇayā girā), Lakṣmaṇa, s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuring Rāma that Bharata will honor Kausalyā and Sumitrā out of awe for Rāma's valor—and that Kausalyā herself possesses a thousand revenue-villages—Lakṣmaṇa begs to be made Rāma's forest attendant.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवैव तेजसा वीर भरतः पूजयिष्यति ।  
@@ -1202,6 +1234,14 @@ good food stuffs available in the forest for sages."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lakṣmaṇa vows to walk ahead carrying bow, spade, and basket and to serve Rāma and Sītā waking and sleeping, the delighted Rāma consents and bids him fetch the divine bows bestowed by Varuṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुरादाय सगुणं खनित्रपिटकाधरः ।  
@@ -1373,6 +1413,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Greatly pleased by these words, Rāma replied to him: “Go then, O son of Sumitrā, and bid farewell (āpṛcchasva) to all your friends and kinsmen!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidden by Rāma to bring the impenetrable armor, inexhaustible quivers, and gold-decked swords deposited at Vasiṣṭha's house, Lakṣmaṇa takes leave of his friends and brings the garlanded divine weapons before Rāma.
 </details>
 </details>
 
@@ -1587,6 +1635,14 @@ pertaining to me to brahmanas, practising ansterities."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That tiger among princes, the son of Sumitrā, then showed to Rāma all those divine weapons, reverently worshipped and adorned with garlands (satkṛtaṃ mālyabhūṣitam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Welcoming Lakṣmaṇa's timely return, Rāma announces his desire to distribute his personal wealth among ascetic Brāhmaṇas and dependents, and sends Lakṣmaṇa to summon Vasiṣṭha's noble son Suyajña.
 </details>
 </details>
 

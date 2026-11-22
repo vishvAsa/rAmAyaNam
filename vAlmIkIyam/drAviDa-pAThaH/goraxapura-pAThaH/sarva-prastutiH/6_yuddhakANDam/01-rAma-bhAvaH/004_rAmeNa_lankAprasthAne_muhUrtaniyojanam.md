@@ -26,6 +26,14 @@ his forces to Lanka and perceives good omens. The Army reaches the shores of the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon hearing Hanūmān’s sequential report of Laṅkā, Rāma proclaims an immediate march at the auspicious midday Vijayamuhūrta under Uttarā Phālgunī, confident of slaying Rāvaṇa and rescuing Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा हनूमतो वाक्यं यथावदनुपूर्वशः ।  
@@ -357,6 +365,14 @@ the daughter of Janaka, by killing Ravana."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Encouraged by the auspicious throbbing of his upper eyelid, Rāma instructs Commander Nīla to lead a vanguard of one hundred thousand monkeys along a well-supplied route safe from Rākṣasa ambushes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपरिष्टाद्धि नयनं स्फुरमाणमिमं मम ।  
@@ -636,6 +652,14 @@ and into thickets and notice whether any rival forces are stationed there."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In depressions, forest fastnesses (vanadurgeṣu), and woods, let the forest-dwellers leap ahead and search out any enemy force lying in ambush (nihitaṃ balam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma orders any frail troops to remain behind in Kiṣkindhā, assigns Gaja, Gavaya, Gavākṣa, Ṛṣabha, and Gandhamādana to the vanguard and flanks, and mounts Hanūmān at the army's center.
 </details>
 </details>
 
@@ -951,6 +975,14 @@ the centre of my troops, duly cheering the multitude of army."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma assigns Lakṣmaṇa to ride upon Aṅgada and appoints Jāmbavān, Suṣeṇa, and Vegadarśī to guard the rear, whereupon Sugrīva mobilizes millions of monkeys to march southward.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदेनैष संयातु लक्ष्मणश्चान्तकोपमः ।  
@@ -1258,6 +1290,14 @@ Surrounded then by monkeys resembling elephants (vāraṇābhaiḥ)—by hundred
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Protected by Sugrīva, the jubilant monkey host follows Rāma southward, leaping, roaring, feasting on fragrant honey and fruit, brandishing blossoming trees, and clearing the road ahead.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं यान्तमनुयान्ती सा महती हरिवाहिनी ।  
@@ -1559,6 +1599,14 @@ path ahead.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In front (purastāt), Ṛṣabha, the heroic Nīla, and Kumuda as well cleared the road (panthānaṃ śodhayanti sma) together with many monkeys.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva, Rāma, and Lakṣmaṇa march at the center while Śatabali, Kesarī, Panasa, Gaja, Arka, Suṣeṇa, Jāmbavān, Nīla, and fellow captains guard the flanks and rear.
 </details>
 </details>
 
@@ -1880,6 +1928,14 @@ The heroes Darīmukha, Prajaṅgha, Jambha, and the monkey Rabhasa went everywhe
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bypassing towns and inhabited districts in obedience to Rāma's command, the roaring monkey host beholds Mount Sahya while Rāma and Lakṣmaṇa shine like the sun and moon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ते हरिशार्दूला गच्छन्ति बलदर्पिताः ।  
@@ -2130,6 +2186,14 @@ Like the moon and the sun conjoined (saṃspṛṣṭau) with two mighty planets
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Riding upon Aṅgada as the army marches south, Lakṣmaṇa cheers Rāma by pointing out terrestrial and celestial omens of victory, including favorable breezes, Venus, Dhruva, and the Seven Sages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमङ्गदगतो रामं लक्ष्मणः शुभया गिरा ॥ ४३ ॥  
@@ -2315,6 +2379,14 @@ looking bright. Even the sun is clear."
 **47:** “These beasts and birds (mṛgadvijāḥ) utter full and melodious cries (pūrṇavalgusvarāḥ); all the quarters are serene (prasannāḥ), and the sun is spotless (vimalaḥ).
 
 **48:** “And Uśanā [Venus], son of Bhṛgu (bhārgavaḥ), of bright radiance, moves favorably behind you; the spotless cluster of Brahmā [the Pole Star] and the pure Supreme Sages (paramarṣayaḥ) shine brightly, all circling Dhruva clockwise (pradakṣiṇam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa contrasts the unblemished Ikṣvāku constellations of Triśaṅku and Viśākhā with the comet-afflicted Rākṣasa asterism Mūla, comparing the arrayed monkey legions to the gods in the Tārakāmaya war.
 </details>
 </details>
 
@@ -2638,6 +2710,14 @@ fragrant air is not blowing much. Trees are bearing seasonal flowers."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the vast monkey host advances southward, the dust raised by their hands and feet darkens the sun, rivers flow backward, and the army overspreads mountains, lakes, and plains.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति भ्रातरमाश्वास्य हृष्टः सौमित्रिरब्रवीत् ।  
@@ -2879,6 +2959,14 @@ invertedly for a distance of many yojanas.
 **59:** All the river currents (nadīsrotāṃsi) flowed backward, as if reversed (viparītavat). Clear-watered lakes (sarāṃsi vimalāmbhāṃsi) and mountains thick with trees,
 
 **60:** Level expanses of ground and fruit-laden forests—through the center, all around (samantāt), across, and below, that [army] entered and encamped (sāviśat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swift as the wind and flushed with youthful pride, the monkey legions display their valor along the road—chattering, slapping their tails, snapping trees, scaling peaks, and crushing creepers.
 </details>
 </details>
 
@@ -3154,6 +3242,14 @@ Some let loose mighty roars (mahānādān pramuñcanti), while others uttered li
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marching day and night without pausing in their eagerness to rescue Sītā, the monkeys ascend Mount Sahya and snap blossoming trees as Rāma admires the woods of Sahya and Malaya.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जृम्भमाणाश्च विक्रान्ता विचिक्रीडुः शिलाद्रुमैः ।  
@@ -3408,6 +3504,14 @@ of trees and filled with many kinds of beasts.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The monkeys snapped (bhañjanti sma) campakas, tilakas, mangoes (cūtān), aśokas, sinduvārakas, tiniśas, and karavīras.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the monkeys break blossoming trees across the rocky plateaus, a sandal-cool breeze scatters petals and colorful mineral dust over the entire monkey army.
 </details>
 </details>
 
@@ -3694,6 +3798,14 @@ from that metal by the velocity of wind, coming forth from all sides, obscured t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted monkeys throw into commotion the flowering trees of the mountain plateaus, where lovely stepped wells and ponds teem with waterfowl, deer, bears, and lions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिरिबिल्वा मधूकाश्च वञ्जुला बकुलास्तथा ।  
@@ -3890,6 +4002,14 @@ of monkeys and Lakshmana, again spoke as follows:-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And frequented on all sides (sevyamānāḥ samantataḥ) by bears, hyenas (tarakṣubhiḥ), lions, and dreadful tigers, and by many terrible beasts of prey (vyālaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathing and splashing in lotus-filled mountain pools, the honey-tawny monkeys feast on nectar-sweet fruits and huge hanging honeycombs as they march uprooting trees.
 </details>
 </details>
 
@@ -4121,6 +4241,14 @@ Monkeys in mad rut plucked sweet-smelling fruits, roots and flowers there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Making the noble mountains resound (vidhamanto girivarān), the bulls among monkeys marched onward, while other monkeys, intoxicated with honey (madhudarpitāḥ), roared from the trees.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the honey-tawny monkeys cover the earth like fields of ripe rice, Rāma ascends Mount Mahendra to behold the turtle-filled ocean and descends to the wave-washed shore.
 </details>
 </details>
 
@@ -4435,6 +4563,14 @@ Then, having reached the broad shoreline (velām āsādya vipulām) whose rocky 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon reaching Varuṇa's abode, Rāma orders the monkey armies to encamp along the shore, convene a council on crossing the boundless ocean, and post sentries against hidden Rākṣasa ambushes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते वयमनुप्राप्ताः सुग्रीव वरुणालयम् ।  
@@ -4746,6 +4882,14 @@ how this military of monkeys will reach the other shore."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And let no one wander anywhere abandoning his own division (svāṃ svāṃ senāṃ samutsṛjya); let heroic monkeys patrol, for hidden danger (channaṃ bhayam) to us must be watched for.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva and Lakṣmaṇa encamp the monkey army in three divisions along the wooded seashore, where the tawny host gleams like a second ocean and out-roars the waves.
 </details>
 </details>
 
@@ -5065,6 +5209,14 @@ Having reached the great ocean, that joyful monkey army gazed upon the vast sea 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At nightfall and moonrise, the monkey chieftains gaze upon Varuṇa's fathomless realm, laughing with foam, dancing with waves, reflecting a hundred moons, and teeming with leviathans.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दूरपारमसम्बाधं रक्षोगणनिषेवितम् ।  
@@ -5300,6 +5452,14 @@ Across that impassable, trackless (durgamārgam), fathomless abode of Asuras (ag
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Under the night sky, the phosphorescent spray, gems, and billowing waves of the ocean blend indistinguishably with the stars and rising clouds of the firmament.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निचूर्णमिवाविद्धं भास्वराम्बुमहोरगम् ।  
@@ -5484,6 +5644,14 @@ of gods forever, the sea reaches upto the uneven Patala (subterranean region).
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Between the two—the ocean with its garlands of waves (vīcimālākulam) and the sky with its rising clouds (samutpatitamegham)—there was no distinction (viśeṣo na dvayor āsīt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with wonder along the shore, the monkeys behold the wind-lashed billows of the ocean booming like kettle-drums in the sky and leaping in wrath.
 </details>
 </details>
 

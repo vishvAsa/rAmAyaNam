@@ -24,6 +24,14 @@ wife, for none surpasses Seetha in her beauty.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by the enraged Rāvaṇa regarding Rāma's identity, appearance, weapons, and purpose in Daṇḍaka, Śūrpaṇakhā describes the Kandarpa-like prince and his rainbow-bright bow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखां दृष्ट्वा ब्रुवन्तीं परुषं वचः ।  
@@ -377,6 +385,14 @@ candent iron-arrows that simulate snakes with deadly poison. [3-34-6b, 7a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how Rāma slew fourteen thousand demons on foot in an hour and a half with invisible speed, Śūrpaṇakhā praises his devoted brother Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाददानं शरान् घोरान् विमुञ्चन्तं महाबलम् ॥ ७ ॥  
@@ -608,6 +624,14 @@ vidhaaya danDakaaraNyam api sakala muni jana sharaNyam atanuta - dk*.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And his brother of mighty splendour (mahā-tejāḥ), equal to him in valor and virtues (guṇatas tulya-vikramaḥ), is the heroic Lakṣmaṇa by name, deeply affectionate and devoted (anuraktaś ca bhaktaś ca)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Calling Lakṣmaṇa Rāma's right arm and external life-breath, Śūrpaṇakhā extols Rāma's golden-complexioned wife Sītā as a second Śrī whose beauty is unmatched across the worlds.
 </details>
 </details>
 
@@ -847,6 +871,14 @@ her curvaceous hips and slim waist is the daughter of King of Videha, and known 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Neither a goddess (devī), nor a gandharvī, nor a yakṣī, nor a kiṃnarī—no woman of such beauty (tathā-rūpā nārī) has ever before been seen by me (mayā dṛṣṭa-pūrvā) upon the surface of the earth (mahī-tale)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Sītā's husband would live more blessedly than Indra and claiming she was mutilated by Lakṣmaṇa while trying to bring Sītā for Rāvaṇa, Śūrpaṇakhā urges him to set forth.
 </details>
 </details>
 
@@ -1120,6 +1152,14 @@ like full-moon. [1-34-22, 23a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “If your heart is set upon making her your wife (yadi tasyām abhiprāyo bhāryātve tava jāyate), then let your right foot be swiftly raised right now for victory (śīghram uddhriyatāṃ pādo jayārtham iha dakṣiṇaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhorting Rāvaṇa to avenge the slain demons of Janasthāna and win Sītā without hesitation, Śūrpaṇakhā calls upon the demon king to decide upon immediate action.
 </details>
 </details>
 

@@ -27,6 +27,14 @@ Sage Vishwamitra's narration of Sagara's legend is continued. Sagara's
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lord Brahmā consoles the terrified gods by revealing that the Earth is the beloved consort of Lord Vāsudeva, who sustains her in the form of Sage Kapila and whose fiery wrath will soon consume Sagara’s sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतानां वचः श्रुत्वा  
@@ -281,6 +289,14 @@ The gods that have come to appeal to Brahma are said to be thirty-three
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having cloven the surface of the earth with a roar like a portentous thunder-crash and slain countless beings without finding the horse, Sagara’s sons return to ask their father for further counsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सगरस्य च पुत्राणां प्रादुरासीन्महास्वनः ।  
@@ -495,6 +511,14 @@ On hearing that sentence of his sons, oh, Rama, descendent of Raghu,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing that speech of his sons, O delight of the Raghus, the foremost of kings, Sagara, filled with wrath, spoke this command (samanyur abravīd vākyaṃ sagaro raghunandana):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded by Sagara to pierce deeper into the subterranean depths, the sixty thousand princes descend into Rasātala and behold the mountain-like eastern directional elephant Virūpākṣa bearing the earth upon his head.
 </details>
 </details>
 
@@ -753,6 +777,14 @@ On certain occasions, oh, Rama of Kakutstha, when that great-elephant
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring Virūpākṣa in the east with clockwise circumambulation, Sagara’s sons excavate the southern quarter supported by the mighty elephant Mahāpadma and the western quarter supported by Saumanasa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तं प्रदक्षिणं कृत्वा  
@@ -991,6 +1023,14 @@ Even in the westerly direction those great mighty sons of Sagara beheld
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After honoring Saumanasa in the west and the snow-white elephant Bhadra in the north, Sagara’s sons furiously dig open the northeastern quarter (Īśānī) and behold the eternal Lord Vāsudeva in the form of Sage Kapila.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तं प्रदक्षिणं कृत्वा पृष्ट्वा चापि निरामयम् ।  
@@ -1226,6 +1266,14 @@ The sons of Sagara have then gone to the auspicious northeast direction,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “There, all those high-souled princes of terrible speed and mighty strength (te tu sarve mahātmāno bhīmavegā mahābalāḥ) beheld the eternal Vāsudeva in the form of Sage Kapila (dadṛśuḥ kapilaṃ tatra vāsudevaṃ sanātanam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sighting the sacrificial horse grazing near Sage Kapila, the deluded princes rush upon him with spades, plows, trees, and boulders, whereupon the unfathomable sage reduces all sixty thousand of them to heaps of ashes with a single huṃkāra.
 </details>
 </details>
 

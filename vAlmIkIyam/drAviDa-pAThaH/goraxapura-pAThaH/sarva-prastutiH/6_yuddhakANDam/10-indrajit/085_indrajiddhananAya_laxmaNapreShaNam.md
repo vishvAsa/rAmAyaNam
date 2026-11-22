@@ -27,6 +27,14 @@ Nikumbhila.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recovering his composure after grieving for Sītā, Rāma asks Vibhīṣaṇa to repeat his counsel, and Vibhīṣaṇa reports the orderly deployment of the monkey divisions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राघवः शोककर्शितः ।  
@@ -325,6 +333,14 @@ All those armies have been distributed on every side, and the troop-commanders (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa urges Rāma to cast off groundless sorrow and dispatch Lakṣmaṇa with a mighty force to slay Indrajit at Nikumbhilā, recalling the rākṣasa's boons from Brahmā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूयस्तु मम विज्ञाप्यं तच्छृणुष्व महाप्रभो ।  
@@ -605,6 +621,14 @@ from Brahma and also horses, which are coursing at his will."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa reveals Brahmā's stipulation that Indrajit can be slain only before completing his sacrifice at Nikumbhilā, and Rāma acknowledges the rākṣasa's formidable powers of illusion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एष किल सैन्येन प्राप्तः किल निकुम्भिलाम् ।  
@@ -882,6 +906,14 @@ For he, knower of the Brahmā-missile (brahmāstravit), wise, of great illusion 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma commissions Lakṣmaṇa to march with Hanūmān, Jāmbavān, Sugrīva's monkey hosts, and Vibhīṣaṇa to destroy Indrajit, whereupon Lakṣmaṇa takes up a supreme bow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यान्तरिक्षे चरतः सरथस्य महायशः ।  
@@ -1115,6 +1147,14 @@ Vibhishana, took hold of his excellent bow.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having heard Rāghava's words, Lakṣmaṇa, of terrible valor (bhīmaparākramaḥ), accompanied by Vibhīṣaṇa, took up another supreme bow (kārmukaśreṣṭham anyat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Armored and bearing his bow, Lakṣmaṇa touches Rāma's feet, vows to pierce Indrajit with his arrows, and hastens toward the Nikumbhilā sanctuary with Vibhīṣaṇa.
 </details>
 </details>
 
@@ -1408,6 +1448,14 @@ quickly sallied forth along with Vibhishana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Accompanied by Vibhīṣaṇa, that valorous prince Lakṣmaṇa, having had auspicious benedictions performed (kṛtasvastyayanaḥ) by his brother, went forth in haste.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joined by Hanūmān, Vibhīṣaṇa, Aṅgada, and Jāmbavān's bear forces, Lakṣmaṇa sights the rākṣasa army arrayed at Nikumbhilā and plunges into its dark, weapon-gleaming ranks.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ from his chariot to the earth.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing, Rāvaṇa's charioteer urges forward the demon king's war-chariot—vast as a Gandharva city in the clouds and drawn by black steeds—as Rāma beholds its charge.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ संस्मारयामास मातली राघवं तदा ।  
@@ -306,6 +314,14 @@ blazing like an aerial palace (vimānam) of solar effulgence in the sky, dense w
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Twanging his crescent-curved bow as Rāvaṇa's thundering chariot charges on an ominous leftward course, Rāma bids Indra's charioteer Mātali drive forth with steady reins.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाज्वल्यमानं वपुषा सुपुङ्खं हेमभूषितम् ।  
@@ -521,6 +537,14 @@ it.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Unfaltering (aviklavam), unagitated (asambhrāntam), with steady heart and gaze (avyagra-hṛdayekṣaṇam), and with firm control over the play of the reins (raśmi-saṃcāra-niyatam), urge the chariot swiftly on!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Courteously reminding Indra's charioteer Mātali, Rāma outflanks Rāvaṇa's car in a cloud of wheel-dust and seizes Indra's bow as the two heroes clash like lions.
 </details>
 </details>
 
@@ -774,6 +798,14 @@ tore off the heart of that evil-minded Ravana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 along with shafts of tremendous velocity gleaming like the rays of the sun (sūrya-raśmi-sama-prabhān). Then commenced that great battle (tad upoḍhaṃ mahad yuddham) between the two warriors bent on each other’s slaughter (anyonya-vadha-kāṅkṣiṇoḥ), facing one another like two proud lions (dṛptayor iva siṃhayoḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As gods and sages gather to witness the chariot-duel, terrifying portents of Rāvaṇa's doom erupt: blood rains on his car, vultures wheel overhead, and meteors fall.
 </details>
 </details>
 
@@ -1095,6 +1127,14 @@ Great meteors (maholkāḥ) accompanied by portents of thunderous concussion (sa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Earthquakes shake the ground beneath Rāvaṇa, discolored sunbeams fall like mountain ores, fire-breathing jackals howl into his face, and cloudless thunderbolts strike his host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्दिता वानरैर्हृष्टैर्लङ्कामभ्यपतन् भयात् ।  
@@ -1404,6 +1444,14 @@ rejoice filled the hearts of gods and charanas the celestial bards.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All the cardinal and intermediate directions (diśaś ca pradiśaḥ sarvāḥ) became shrouded in darkness (timirāvṛtāḥ), and through the heavy rain of dust (pāṃsu-varṣeṇa mahatā) the sky grew hard to behold (durdarśam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While shrieking birds plummet around Rāvaṇa's car and his steeds shed both sparks and tears, auspicious omens gladden Rāma and inspire him to redoubled valor.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ and peace to her from her worries.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān relates how Sītā, honouring him out of love for Rāma, begged him to rest a day in Laṅkā to ease her grief, fearing for her very life once he departed.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाहमुत्तरं देव्या पुनरुक्तः ससम्भ्रमम् ।  
@@ -347,6 +355,14 @@ one sorrow after another, miserable and doomed to grief as I am'."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā voices her grave doubt as to how the monkey hosts and the two princes can cross the impassable ocean—a feat possible only for Garuḍa, Vāyu, or Hanūmān—and insists that Rāma himself must win her back.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं च वीर सन्देहस्तिष्ठतीव ममाग्रतः ।  
@@ -638,6 +654,14 @@ takes me to his city in his victory'."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘If, however, Rāma, victorious (vijayī) with all his forces (balaiḥ samagraiḥ), having slain Rāvaṇa in battle, should lead me back to his own city (svapurīṃ... nayet), that would redound to his glory (tat syād yaśaskaram)!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Insisting that Rāma must not spirit her away by stealth as Rāvaṇa did, Sītā urges open conquest; Hanūmān replies that Sugrīva's mighty, wind-swift monkey legions stand ready at his command.
 </details>
 </details>
 
@@ -945,6 +969,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Sugrīva's court has no monkey inferior to himself—since kings send ordinary envoys, not their greatest chiefs—Hanūmān promises that Rāma and Lakṣmaṇa will soon arrive on his back like the sun and moon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येषां नोपरि नाधस्तान्न तिर्यक् सज्जते गतिः ।  
@@ -1236,6 +1268,14 @@ my shoulders, can come to you, like the rising sun and the moon."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘And mounted upon my back (mama pṛṣṭhagatau), those two lions among men (tau... nṛsiṃhau), like the Moon and the Sun risen together (candrasūryāv ivoditau), shall come into your presence (tvatsakāśaṃ... āgamiṣyataḥ), O highly fortunate lady!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling that Sītā will soon behold Rāma and Lakṣmaṇa at the gates of Laṅkā and be consecrated with Rāma in Ayodhyā, Hanūmān concludes the Sundarakāṇḍa by reporting how his auspicious words brought peace to Maithilī.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०२१ यम-भट-पराजयः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swift-striding Nārada hastens to Yama’s palace, beholds the god attended by Fire dispensing each creature’s karmic lot, receives dharmic hospitality, and warns him that Daśagrīva marches to subdue him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सञ्चिन्त्य विप्रेन्द्रो जगाम लघुविक्रमः ।  
@@ -171,6 +179,14 @@ Beholding the great sage Nārada arrived there (prāptaṃ maharṣiṃ tatra n�
 **5:** Then the revered sage Nārada (nārado bhagavān ṛṣiḥ) spoke these words: “Pray listen, I shall tell you (śrūyatām abhidhāsyāmi), and let a fitting measure be devised (vidhānaṃ ca vidhīyatām)!
 
 **6:** “O King of the Ancestors (pitṛrāja), this night-roamer known by the name Daśagrīva (eṣa nāmno daśagrīvaḥ ... niśācaraḥ) approaches to bring even you—so hard to conquer (tvāṃ sudurjayam)—under his sway by his prowess (vaśaṃ netuṃ vikramaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as Nārada concludes his warning, Rāvaṇa’s blazing Puṣpaka chariot approaches like the rising sun, dispelling darkness, and Rāvaṇa surveys Yama’s fierce wardens tormenting wailing sinners amidst worms and dread hounds.
 </details>
 </details>
 
@@ -335,6 +351,14 @@ Looking all around (tatas tataḥ), that mighty-armed Daśagrīva beheld (so ’
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa views sinners crossing the blood-filled Vaitaraṇī, scorched on hot sands, slashed in the Sword-Leaf Forest, and starving in Raurava, contrasted with righteous givers rejoicing in music-filled mansions and enjoying the exact fruits of their charity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृमिभिर्भक्ष्यमाणांश्च सारमेयैश्च दारुणैः ।  
@@ -475,6 +499,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 givers of cows enjoying cow’s milk (gorasaṃ go-pradātāraḥ), givers of food enjoying food (annaṃ caivānna-dāyinaḥ), and givers of homes enjoying homes (gṛhāṃś ca gṛha-dātāraḥ)—partaking of the fruit of their own actions (sva-karma-phalam aśnataḥ)—adorned with women decked in gold, gems, and pearls (suvarṇa-maṇi-muktābhiḥ pramadābhir alaṅkṛtān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After viewing righteous souls glowing by their own luster, mighty Rāvaṇa forcibly releases the tormented sinners, giving them a brief, unimagined respite; enraged, Yama’s wardens raise a vast uproar and shower Puṣpaka with weapons.
 </details>
 </details>
 
@@ -647,6 +679,14 @@ With lances, iron-bound clubs, tridents, pestles, javelins, and darts (prāsai�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yama’s troops swarm Puṣpaka like bees, smashing its pavilions and arches, yet Brahmā’s power keeps it indestructible; Yama’s countless vanguard battles Rāvaṇa and his blood-drenched ministers with trees, crags, and arms.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रासैः परिघैः शूलैर्मुसलैः शक्तितोमरैः ॥ २५ ॥  
@@ -781,6 +821,14 @@ Then with trees, mountain crags, and hundreds of shattered pavilions (vṛkṣai
 **29:** Smeared in blood and struck by every kind of weapon (śoṇita-digdhāṅgāḥ sarva-śastra-samāhatāḥ), those ministers of the rākṣasa lord (amātyā rākṣasendrasya) waged a tremendous battle (cakrur āyodhanaṃ mahat).
 
 **30:** O mighty-armed one (mahābāho), those eminent warriors—the ministers of Yama and of Rāvaṇa alike (yamasya ca ... rāvaṇasya ca mantriṇaḥ)—struck one another fiercely with their weapons (anyonyaṃ ... jaghnuḥ praharaṇair bhṛśam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaving Rāvaṇa’s ministers aside, Yama’s warriors converge on Daśānana with trident-showers until he glows blood-red like a flowering aśoka tree; though he unleashes a missile-rain of arms, rocks, and trees, they shatter it and strike him together.
 </details>
 </details>
 
@@ -948,6 +996,14 @@ Yet shattering all those missiles (tāṃs tu sarvān vinirbhidya) and repelling
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Battered breathless like a mountain ringed by clouds, Rāvaṇa leaps armorless from Puṣpaka to the earth, swiftly recovers like Death himself, fits the divine Pāśupata missile to his bow, and looses it like Śaṅkara against Tripura.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तरूणां च शिलानां च शस्त्राणां चातिदारुणम् ।  
@@ -1109,6 +1165,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Drawing his bow back to his ear in battle (ākarṇāt sa vikṛṣyātha cāpam ... āhave), that foe of Indra (indrāriḥ) loosed that shaft in fury (mumoca taṃ śaraṃ kruddhaḥ), even as Śaṅkara did against Tripura (tripure śaṅkaro yathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like a summer wildfire, the Pāśupata shaft races forth trailed by flesh-eaters, reduces trees and thickets to ash, incinerates Yama’s entire army, and draws an earth-shaking roar of triumph from Rāvaṇa and his counselors.
 </details>
 </details>
 

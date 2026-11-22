@@ -11,6 +11,14 @@ title = "०३६ बल-विस्मृतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Brahmā arrive with the gods, the grief-stricken Wind-god prostrates thrice with his slain child; at the Creator’s playful touch the infant revives, restoring breath and joy to every creature.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पितामहं दृष्ट्वा वायुः पुत्रवधार्दितः ।  
@@ -194,6 +202,14 @@ Beholding him alive and breathing (prāṇavantam imaṃ dṛṣṭvā), the fra
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Delivered from the stoppage of the wind (marud-rodhād vinirmuktāḥ), all those creatures became glad (tāḥ prajā muditā ’bhavan), like lotus-ponds full of lotuses (padminya iva sāmbujāḥ) freed from frost-blight (śīta-dāha-vinirmuktāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that this child will accomplish a vital task for heaven, Brahmā bids the gods bestow boons to appease Vāyu; Indra first adorns the boy with a golden lotus garland, names him Hanūmān, and grants immunity to his thunderbolt.
 </details>
 </details>
 
@@ -391,6 +407,14 @@ Thereupon the thousand-eyed Indra (sahasra-nayanaḥ), filled with delight (prī
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sūrya bestows a hundredth share of his radiance and future mastery of scripture and eloquence, while Varuṇa, Yama, Kubera, and Śiva grant Hanūmān immunity from water, Yama’s staff, disease, battle-weariness, Kubera’s mace, and Śiva’s weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्तण्डस्त्वब्रवीत् तत्र भगवांस्तिमिरापहः ।  
@@ -555,6 +579,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Neither by me nor by my weapons (matto mad-āyudhānāṃ ca) shall this child ever be slain (na vadhyo ’yaṃ bhaviṣyati)!”—thus by Śaṅkara too was a supreme boon granted unto him (śaṅkareṇāpi datto ’sya paramo varaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā grants longevity and immunity to every Brahmā-weapon, and Viśvakarmā adds immunity to all celestial armaments he has forged; beholding the child graced with every boon, Brahmā prophesies Hanūmān’s invincible, shape-shifting prowess to Vāyu.
 </details>
 </details>
 
@@ -744,6 +776,14 @@ Then, beholding him adorned with the boons of the gods (surāṇāṃ tu varair 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Brahmā foretells Hanūmān’s hair-raising feats to destroy Rāvaṇa and gladden Rāma, the gods depart and Vāyu returns his boon-graced child to Añjanā; swelling like the sea with newborn power, the fearless boy begins wrecking the sages’ hermitages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणोत्सादनार्थानि रामप्रीतिकराणि च ।  
@@ -930,6 +970,14 @@ The sacrificial ladles and vessels (srug-bhāṇḍāni), the fire-oblations (ag
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though the sages long tolerate the irrepressible boy out of deference to Brahmā’s boon, the Bhṛgu and Āṅgirasa seers at last lay a mild curse making him forget his might until reminded; pacified, he grows up alongside King Ṛkṣarajas’s sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवंविधानि कर्माणि प्रावर्तत महाबलः ।  
@@ -1094,6 +1142,14 @@ Now there was a king named Ṛkṣarajas (atharkṣarajaso nāma), father of Vā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Ṛkṣarajas’s passing, Vālin becomes king and Sugrīva crown prince; bound to Sugrīva from childhood, Hanūmān remains unaware of his own cursed strength during their feud, though none in the world surpasses him in twelve noble virtues.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथर्क्षरजसो नाम वालिसुग्रीवयोः पिता ।  
@@ -1252,6 +1308,14 @@ Solely by force of the curse (śāpa-vaśād eva), he knew not his own strength 
 **41:** know it, O lord (deva jānāti na), nor did this Māruti know the strength within himself (balam ātmani mārutiḥ); his might carried off by the sages’ curse (ṛṣi-śāpāhṛta-balaḥ), this foremost of monkeys then stood beside him in conflict (āsthitaḥ sahito raṇe) like a lion hemmed in by an elephant (siṃhaḥ kuñjara-ruddho vā).
 
 **42:** In valor, energy, intellect, and majesty (parākramotsāha-mati-pratāpa-), in nobility of character, sweetness, and mastery of policy and counter-policy (sauśīlya-mādhurya-nayānayaiś ca), in profundity, skillfulness, high heroism, and fortitude (gāmbhīrya-cāturya-suvīrya-dhairyaiḥ)—who in the world is superior to Hanūmān (hanūmataḥ ko ’bhyadhiko ’sti loke)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya extols Hanūmān’s mastery of grammar—studied face-to-face with the moving Sun—and all scriptures, declaring him a future Brahmā and invincible as doomsday fire, before concluding that all the monkey-chiefs were created by the gods for Rāma’s sake.
 </details>
 </details>
 
@@ -1474,6 +1538,14 @@ Thus has all that you ask of me been recounted (tad etat kathitaṃ sarvaṃ yan
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaving Rāma, Lakṣmaṇa, and the allies filled with wonder, Agastya announces the sages’ departure; bowing with joined palms, Rāma voices his joy at their visit and petitions them to bless his future sacrifices.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषेव चान्ये च महाकपीन्द्राः  
@@ -1668,6 +1740,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having returned [from exile] (āgataḥ) and having established the citizens and countryfolk in their proper duties (paura-jānapadān sthāpya sva-kāryeṣu), I shall perform sacrifices (kratūn eva kariṣyāmi) through the spiritual potency of you righteous ones (prabhāvād bhavatāṃ satām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inviting the sages to serve as supervising priests at his future sacrifices, Rāma receives their glad assent; as they depart, Rāma ponders his sacrificial purpose, dismisses the assembly at dusk, performs evening rites, and enters the inner palace.
 </details>
 </details>
 

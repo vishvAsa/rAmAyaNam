@@ -24,6 +24,14 @@ intruded into Dandaka and there is every possibility of onslaught by them on dem
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Śūrpaṇakhā writhing on the ground once again, Khara demands to know why she weeps when fourteen invincible warriors have already been dispatched to avenge her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पुनः पतितां दृष्ट्वा क्रोधाच्छूर्पणखां पुनः ।  
@@ -346,6 +354,14 @@ Addressed in this manner and consoled (parisāntvitā) by Khara, the intractable
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wiping her tears, Śūrpaṇakhā reports that all fourteen warriors were slain in an instant by Rāma's vital-cleaving shafts, and implores Khara to rescue her from the ocean of grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मीदानीमहं प्राप्ता हतश्रवणनासिका ।  
@@ -629,6 +645,14 @@ Why do you not rescue me (kiṃ māṃ na trāyase), plunged as I am in a vast o
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taunting Khara to slay Rāma—the thorn of the demons—or watch her die before his eyes, Śūrpaṇakhā declares him a false hero incapable of facing Rāma even with an army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एते च निहता भूमौ रामेण निशितैः शरैः ।  
@@ -826,6 +850,14 @@ than living a shameless life with these lopped ears and nose. [3-21-15b, 16a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —I, freed from all shame (nirapatrapā), shall abandon my life-breaths right before your eyes (tava caivāgrataḥ)! By my judgment (buddhyā) I perceive that in battle (saṃyuge) with Rāma you [are] not—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Challenging Khara either to flee Janasthāna with his kinsmen or to slay the two princes, Śūrpaṇakhā warns him of Rāma's consuming splendour before collapsing senseless and beating her belly in grief.
 </details>
 </details>
 

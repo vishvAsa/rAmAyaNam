@@ -13,6 +13,14 @@ title = "०७६ वधः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring himself to be Śambūka of śūdra birth practicing fierce penance to attain godhood in his mortal body, the ascetic is beheaded at once by Rāma’s gleaming sword; whereupon Indra, Agni, and all the gods rain fragrant celestial flowers and acclaim Kākutstha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा  
@@ -220,6 +228,14 @@ A mighty shower of celestial, deeply fragrant blossoms (puṣpa-vṛṣṭir mah
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted that Rāma has accomplished the gods’ work by barring the śūdra from heaven, the deities offer him any boon he desires; with joined palms, Rāma asks Indra to restore life to the brahmin’s only son so that his own solemn promise may not prove false.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुप्रीताश्चाब्रुवन् रामं देवाः सत्यपराक्रमम् ।  
@@ -424,6 +440,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The pleased gods reassure Rāma that the brahmin’s son returned to life and rejoined his kinsmen the very instant Śambūka fell; bidding Rāma farewell, they tell him they are going to congratulate Agastya upon completing a twelve-year water-austerity and invite Rāma to come too.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस्य तु तद् वाक्यं श्रुत्वा विबुधसत्तमाः ।  
@@ -603,6 +627,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agreeing to the gods’ invitation, Rāma ascends Puṣpaka and follows their splendid aerial cars to Agastya’s hermitage; after the sage imparts impartial hospitality to the celestials and they return to heaven, Rāma descends, bows to the blazing seer, and takes his seat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तथेति प्रतिज्ञाय देवानां रघुनन्दनः ।  
@@ -769,6 +801,14 @@ Having bowed to that great-souled sage, who blazed as though with fire (jvalanta
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Welcoming Rāma as his ever-honored guest abiding perpetually in his heart, Agastya praises his righteous restoration of the brahmin’s son, invites him to stay the night as the eternal Lord Nārāyaṇa, and offers him a dazzling celestial ornament crafted by Viśvakarman.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच महातेजाः कुम्भयोनिर्महातपाः ।  
@@ -905,6 +945,14 @@ To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mah�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that re-gifting a received treasure to one capable of sustaining and delivering even the gods yields immense merit, Agastya urges Rāma to accept the ornament; recalling kṣatriya dharma, Rāma asks how a kṣatriya may receive a gift from a brāhmaṇa, and Agastya begins an ancient tale of the Kṛta age.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्णीष्व काकुत्स्थ मत्प्रियं कुरु राघव ।  
@@ -1017,6 +1065,14 @@ To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mah�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya relates how the kingless creatures of the Kṛta age appealed to Brahmā for an earthly sovereign like the gods’ Indra, refusing to live without a king; summoning the Lokapālas with Indra to contribute portions of their splendor, Brahmā sneezed, and from that sneeze King Kṣupa was born.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु रामेण प्रत्युवाच महानृषिः ॥ ३६ ॥  
@@ -1108,6 +1164,14 @@ To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mah�
 **40:** “Brahmā, foremost of the gods, then summoned all the World-Guardians together with Vāsava [Indra] (lokapālān sa-vāsavān samāhūya) and declared: ‘Give forth portions of your own splendor (tejo-bhāgān prayacchata)!’
 
 **41:** “Thereupon all the World-Guardians bestowed portions of their own radiance (dadur lokapālāḥ sarve bhāgān sva-tejasaḥ); and then Brahmā sneezed (akṣupac ca tato brahmā), from which King Kṣupa was born (yato jātaḥ kṣupo nṛpaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya explains how Brahmā infused King Kṣupa with the portions of Indra, Varuṇa, Kubera, and Yama to command, nourish, enrich, and govern the world; bidding Rāma accept the jewel through Indra’s royal portion for the sage’s own deliverance, Agastya prevails, and Rāma receives the ornament.
 </details>
 </details>
 
@@ -1214,6 +1278,14 @@ To him spoke the greatly resplendent pitcher-born sage of mighty austerity (mah�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Therefore, O foremost of men, O delight of the Raghus, accept this ornament by virtue of that Indric portion (tatraindreṇa ... bhāgena ... pratigṛhṇīṣva)—may good fortune attend you—for the sake of ferrying me across, O Lord (tāraṇārthaṃ mama prabho)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having accepted the blazing celestial ornament, Rāma asks Agastya out of eager curiosity how, whence, and from whom he obtained so marvelous a treasure; in reply, the sage begins to recount a singular wonder concerning charity that he witnessed in a bygone Tretā age.
 </details>
 </details>
 

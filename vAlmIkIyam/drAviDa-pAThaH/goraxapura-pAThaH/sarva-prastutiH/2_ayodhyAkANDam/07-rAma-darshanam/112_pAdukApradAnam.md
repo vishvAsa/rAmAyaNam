@@ -33,6 +33,14 @@ the rank of each and enters his hermitage.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marvelling at the hair-raising meeting of the two brothers of matchless splendor, the invisible hosts of sages and Siddhas praise Rāma and Bharata and urge Bharata to accept Rāma’s word so that Daśaratha may remain free of debt in heaven.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमप्रतिमतेजोभ्यां भ्रातृभ्यां रोमहर्षणम् ।  
@@ -360,6 +368,14 @@ We wish this Rāma to remain forever free of debt toward his father (sadānṛ�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the Gandharvas and sages depart and Rāma salutes them with a joyful countenance, Bharata, his limbs limp and his voice faltering, implores Rāma once more, declaring himself unable to govern the vast kingdom alone.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावदुक्त्वा वचनं गन्धर्वाः समहर्षयः ।  
@@ -676,6 +692,14 @@ farmers wait for the rainy clouds."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For our kinsmen, warriors, allies, and friends (jñātayaś ca hi yodhāś ca mitrāṇi suhṛdaś ca naḥ) look eagerly toward you alone, even as tillers of the soil look toward the rain-cloud (tvām eva pratikāṅkṣante parjanyam iva karṣakāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata falls at Rāma’s feet; taking his lotus-eyed brother upon his lap, Rāma praises his innate and trained wisdom, bids him govern with his counselors, and declares that the moon may lose its luster before he breaks his father’s vow.
 </details>
 </details>
 
@@ -1000,6 +1024,14 @@ Splendor may depart from the moon, or Himavān may forsake its snow (lakṣmīś
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Bharata not to harbor resentment toward Kaikeyī, Rāma steps onto the gold-adorned sandals at Bharata’s request and bestows them upon him, whereupon Bharata vows to dwell outside the city in matted locks for fourteen years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामाद् वा तात लोभाद् वा मात्रा तुभ्यमिदं कृतम् ।  
@@ -1280,6 +1312,14 @@ kingdom to your sandals."
 **23:** Bowing low to the two sandals, he spoke these words to Rāma (sa pāduke sampraṇamya rāmaṃ vacanam abravīt): “For fourteen years I too shall wear matted locks and bark-cloth (caturdaśa hi varṣāṇi jaṭā-cīra-dharo hy aham),
 
 **24:** subsisting on fruits and roots, O hero, O delight of the Raghus (phala-mūlāśano vīra bhaveyaṃ raghu-nandana), awaiting your return while dwelling outside the city (tavāgamanam ākāṅkṣan vasan vai nagarād bahiḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to enter the fire if he does not see Rāma on the day the fourteenth year ends, Bharata places the consecrated sandals upon the royal elephant; after bidding farewell to all and bowing to his weeping mothers, Rāma enters his hut.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ diverts his own mind in seeing that captivating scenery.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeking to delight Sītā and console his own heart, Rāma displays the splendours of Mount Citrakūṭa, whose sky-piercing peaks gleam with silver, blood-red, sapphire, crystal, and quicksilver ores.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घकालोषितस्तस्मिन् गिरौ गिरिवरप्रियः ।  
@@ -260,6 +268,14 @@ sparkle with the splendour of a kind of gem called Jyotirasa."
 **5:** Some regions shine like silver (kecid rajata-saṅkāśāḥ), some are blood-red (kecit kṣataja-sannibhāḥ), some are yellow and madder-crimson (pīta-māñjiṣṭha-varṇāś ca), and some gleam with the lustre of choice sapphires (kecin maṇi-vara-prabhāḥ).
 
 **6:** Others shine like topaz, crystal, and ketaka blossoms (puṣpārka-ketakābhāś ca), while still others flash like stars or quicksilver (kecij jyotī-rasa-prabhāḥ)—thus do the mineral-adorned slopes of this king of mountains (acalendrasya deśā dhātu-vibhūṣitāḥ) gleam in splendour (virājante).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma points out the peaceful beasts of the forest, the luxuriant fruit and flowering trees crowning the slopes, the Kinnara couples sporting on the tablelands, and the Vidyādhara bowers.
 </details>
 </details>
 
@@ -505,6 +521,14 @@ retreats, where vidyadharas and their women sport."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Behold their swords hung upon the tree-branches (śākhāvasaktān khaḍgāṃś ca), their exquisite garments (pravarāṇy ambarāṇi ca), and the enchanting pleasure-groves of the Vidyādhara women (vidyādhara-strīṇāṃ krīḍoddeśān manoramān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing the waterfall-streaming mountain to a rutting elephant, Rāma praises its fragrant cavern breezes and declares that his exile has won both filial piety and Bharata’s joy.
 </details>
 </details>
 
@@ -773,6 +797,14 @@ By this residence in the forest (anena vana-vāsena), a twofold fruit has been w
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling that the royal sages of old praised forest-dwelling as the nectar of immortality, Rāma shows Sītā the multi-hued crags, night-glowing herbs, and mansion-like grottos.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेहि रमसे कच्चिच्चित्रकूटे मया सह ।  
@@ -1034,6 +1066,14 @@ some others appear like a single pile."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Some regions of this mountain resemble mansions (kecit kṣaya-nibhā deśāḥ), some resemble pleasure-gardens (kecid udyāna-sannibhāḥ), and some shine as single massive slabs of rock, O lovely lady (kecid eka-śilā bhānti parvatasyāsya bhāmini).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out the floral couches and crushed lotus garlands left by woodland lovers, Rāma extols Citrakūṭa above Kubera’s capital and the Northern Kurus, finding righteous joy in exile.
 </details>
 </details>
 

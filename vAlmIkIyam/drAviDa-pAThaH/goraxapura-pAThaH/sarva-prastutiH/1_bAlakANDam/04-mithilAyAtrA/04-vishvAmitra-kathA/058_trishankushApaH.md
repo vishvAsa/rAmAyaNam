@@ -24,6 +24,14 @@ body, Trishanku earnestly appeals to Vishvamitra.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha’s hundred sons angrily rebuke King Triśaṅku for bypassing his truth-speaking royal preceptor to seek another branch of refuge, bidding the foolish monarch return to his capital.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्रिशङ्कोर्वचनं श्रुत्वा क्रोधसमन्वितम् ।  
@@ -243,6 +251,14 @@ are capable to cause a disrepute to his reputation.' Thus, the sons of Vashishta
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Triśaṅku declares that he will seek another refuge, Vasiṣṭha’s incensed sons curse him to become a Caṇḍāla; at dawn the king awakens dark-hued, clad in blue rags with disheveled hair.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा क्रोधपर्याकुलाक्षरम् ॥ ६ ॥  
@@ -456,6 +472,14 @@ Then, when the night had passed away (rātryāṃ vyatītāyām), the king passe
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smeared with cremation-ground ashes and wearing iron ornaments, Triśaṅku is abandoned by his ministers and citizens and goes alone to Viśvāmitra, who is moved to compassion upon seeing him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा मन्त्रिणः सर्वे त्यज्य चण्डालरूपिणम् ॥ ११ ॥  
@@ -613,6 +637,14 @@ you are accurst to the state of profaner.' [1-58-15b, 16a]
 **14:** beholding him in the form of a Caṇḍāla (caṇḍālarūpiṇam), O Rāma, was moved to compassion (muniḥ kāruṇyam āgataḥ). Out of compassion, that supremely righteous sage of great splendour (mahātejāḥ paramadhārmikaḥ)
 
 **15:** spoke these words to the king of dreadful appearance (rājānaṃ ghoradarśanam): “Blessings be upon you (bhadraṃ te)! What is the purpose of your coming (kim āgamanakāryaṃ te), O mighty prince (rājaputra mahābala),”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Triśaṅku recounts how his aspiration to ascend to heaven in his bodily form met with the opposite fate, and swears by his Kṣatriya dharma that he has never uttered an untruth.
 </details>
 </details>
 
@@ -806,6 +838,14 @@ would not save liars...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A hundred sacrifices have been offered by me (mayā ceṣṭaṃ kratuśatam), yet their fruit is not obtained (tac ca nāvāpyate phalam). Never before have I spoken an untruth (anṛtaṃ noktapūrvaṃ me), nor shall I ever speak one,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that all-powerful destiny overpowers human effort, the afflicted Triśaṅku implores Viśvāmitra to overturn his adverse fate through the sage’s transcendent heroic exertion.
 </details>
 </details>
 

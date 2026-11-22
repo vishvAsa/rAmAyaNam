@@ -11,6 +11,14 @@ title = "०८५ वृत्र-वधः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma’s eager prompting, Lakṣmaṇa continues the tale: bound by former friendship to Vṛtra, Viṣṇu declines to slay him directly, yet devises an expedient—dividing his own divine potency threefold so that Indra may fell the asura.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य तु तद् वाक्यं श्रुत्वा शत्रुनिबर्हणः ।  
@@ -203,6 +211,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viṣṇu assigns his three portions to Indra, the thunderbolt, and the earth; rejoicing, the gods march to Vṛtra’s forest hermitage, where the sight of the blazing ascetic seeming to swallow the three worlds strikes terror into their hearts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकांशो वासवं यातु द्वितीयो वज्रमेव तु ।  
@@ -373,6 +389,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the gods hesitate, Indra hurls the thunderbolt onto Vṛtra’s head, terrifying the universe; stricken with remorse over the unprovoked slaying, Indra flees to the ends of the world pursued by personified Brahmahatyā, while the gods praise Viṣṇu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां चिन्तयतां तत्र सहस्राक्षः पुरन्दरः ।  
@@ -531,6 +555,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With their foe slain yet their Indra vanished (hatārayaḥ pranaṣṭendrāḥ), the gods headed by Agni (devāḥ sāgni-purogamāḥ) worshipped Viṣṇu, lord of the three worlds, again and again (viṣṇuṃ tribhuvaneśānaṃ muhur muhur apūjayan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Viṣṇu as the primeval Father who assumed his preserving form to protect all beings, the gods implore him to prescribe Indra’s deliverance; Viṣṇu decrees that by worshipping him through the Aśvamedha, Indra will be purified and regain fearless sovereignty.
 </details>
 </details>
 

@@ -24,6 +24,14 @@ intention.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanūmān’s speech, Prince Aṅgada extols the invulnerable sons of the Aśvins and declares himself able to crush Laṅkā and Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा वालिसूनुरभाषत ।  
@@ -294,6 +302,14 @@ the way in which Rama's inclination would be, for the accomplishment of the obje
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada argues that returning to Rāma to report Sītā seen yet left behind in Laṅkā is unworthy of their famed valor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायुसूनोर्बलेनैव दग्धा लङ्केति नः श्रुतम् ॥ ७ ॥  
@@ -422,6 +438,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When those Rākṣasas have thus had their heroes slain by Hanūmān (teṣv evaṃ hatavīreṣu rākṣaseṣu hanūmatā), what else remains to be done here (kim anyad atra kartavyam)? Taking Jānakī, let us go (gṛhītvā yāma jānakīm)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada urges placing Sītā directly between Rāma and Lakṣmaṇa, but wise Jāmbavān replies that they were commanded only to search, not to rescue.
 </details>
 </details>
 
@@ -559,6 +583,14 @@ To him who had thus formed his resolve (tam evaṃ kṛtasaṃkalpam), Jāmbavā
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 not to bring her back (nānetum), either by the monkey king (kapirājena) or by the wise Rāma (naiva rāmeṇa dhīmatā); Rāma would in no wise approve (kathaṃcin nābhirocayet) Sītā’s being won back by us (nirjitāṃ sītām asmābhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Jāmbavān reminds Aṅgada that Rāma Himself vowed before the monkey chiefs to win back Sītā, urging them to report their success directly to Him.
 </details>
 </details>
 

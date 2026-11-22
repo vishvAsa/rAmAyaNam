@@ -13,6 +13,14 @@ title = "००७ मालि-वधः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring like storm-clouds, the rākṣasa hosts surround Lord Viṣṇu on every side in midair and deluge him with torrents of arrows, spears, and javelins as though stifling his very breath.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारायणगिरिं ते तु गर्जन्तो राक्षसाम्बुदाः ।  
@@ -176,6 +184,14 @@ Charioteers mounted in their chariots (syandanaiḥ syandana-gatāḥ), elephant
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Those mountain-like chiefs of the rākṣasas (rākṣasendrā giri-nibhāḥ), assailing him with arrows, spears, swords, and javelins (śakty-ṛṣṭi-tomaraiḥ), left Hari without room to breathe (nirucchvāsaṃ hariṃ cakruḥ), even as breath-restraints (prāṇāyāmāḥ) check a twice-born sage.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unmoved by the rākṣasa barrage, Viṣṇu draws his Śārṅga bow to mow down thousands with thunderbolt-tipped shafts, then sounds the great conch Pāñcajanya, whose terrifying blast unhorses the demon warriors.
 </details>
 </details>
 
@@ -368,6 +384,14 @@ Horses could no longer keep their footing (na śekur aśvāḥ saṃsthātum); e
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viṣṇu's thunderbolt-pointed arrows pierce the rākṣasas and bury themselves in the earth while his discus carves red-ochre streams of blood, his war-cry drowns theirs, and his shafts shear away heads, bows, and standards.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शार्ङ्गचापविनिर्मुक्ता वज्रतुल्याननाः शराः ।  
@@ -532,6 +556,14 @@ With his shafts, Hari sheared away their trembling necks (śirodharān dhūtān)
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Streaming forth by thousands from the Śārṅga bow, Viṣṇu's arrows drive the rākṣasa host in a headlong food-chain of terror until, after slaughtering thousands, Madhusūdana blows his conch and sends them fleeing toward Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्यादिव करा घोरा वार्योघा इव सागरात् ।  
@@ -676,6 +708,14 @@ Having slain thousands of rākṣasas (rākṣasānāṃ sahasrāṇi nihatya), 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Terrified by Nārāyaṇa's arrows (nārāyaṇa-śara-trastam) and utterly dazed by the conch's roar (śaṅkha-nāda-suvihvalam), the shattered rākṣasa army (prabhagnaṃ rākṣasaṃ balam) fled headlong toward Laṅkā (laṅkām abhimukham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rallying the broken rākṣasas, Sumālī screens Viṣṇu under a storm of arrows and roars like a thundercloud, until Viṣṇu decapitates his charioteer and his runaway steeds whirl him helplessly like unbridled senses.
 </details>
 </details>
 
@@ -862,6 +902,14 @@ Even as Sumālī roared (sumāler nardataḥ), Viṣṇu severed the head of his
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By those panicked, stampeding steeds (tair aśvair bhrāntaiḥ) was Sumālī, lord of the rākṣasas, whirled helplessly about (bhrāmyate), even as a man devoid of steadfastness (dhṛti-hīnaḥ) is swept astray by runaway sense-steeds (indriyāśvaiḥ paribhrāntaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sumālī's chariot bolts away, Mālī charges Viṣṇu with gold-decked arrows, yet the imperturbable Lord retaliates with thunderbolt shafts that drink his blood and shear away his crown, banner, bow, and horses.
 </details>
 </details>
 
@@ -1059,6 +1107,14 @@ Having forced Mālī to turn his face away (mālinaṃ vimukhaṃ kṛtvā), the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping from his ruined chariot with a mace, Mālī strikes Garuḍa across the brow so fiercely that the bird veers away; yet, twisting sideways in wrath, Viṣṇu hurls his sun-bright Sudarśana discus and beheads Mālī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरथस्तु गदां गृह्य माली नक्तञ्चरोत्तमः ॥ ३७ ॥  
@@ -1215,6 +1271,14 @@ When Lord Viṣṇu was thus turned away by Garuḍa on account of Mālī (parā
 **41:** —the Blessed Lord Hari, blazing with wrath (saṅkruddhaḥ), twisted sideways upon the king of birds (tiryag āsthāya pakṣīśe) and, though turned away (parāṅmukho 'pi), hurled his discus (utsasarja cakram) with intent to slay Mālī (māler jighāṃsayā).
 
 **42:** Gleaming like the orb of the sun (sūrya-maṇḍalābhāsam) and illuminating the whole sky with its own radiance (sva-bhāsā bhāsayan nabhaḥ), that discus, resembling the wheel of Time (kāla-cakra-nibham), sheared off the head of Mālī (māleḥ śīrṣam apātayat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mālī's severed head plunges bleeding like Rāhu's of old as the gods roar applause; Sumālī and Mālyavān flee toward Laṅkā while the recovered Garuḍa scatters the host and Viṣṇu's myriad weapons cast the rākṣasas into the sea.
 </details>
 </details>
 
@@ -1401,6 +1465,14 @@ Their lotus-faces sheared off by the discus (cakra-kṛttāsya-kamalāḥ), thei
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —some hewn apart by the sword (asinā chinnāḥ) and others riddled by arrows (śara-pīḍitāḥ), those rākṣasas plunged swiftly from the sky into the waters of the ocean (nipetur ambarāt tūrṇaṃ sāgarāmbhasi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shifting into majestic Upajāti and Vaṃśastha meters, Vālmīki depicts Nārāyaṇa tearing through the demented, fleeing rākṣasa clouds with thunderbolt shafts until their bejeweled corpses blanket the earth like fallen blue mountains.
 </details>
 </details>
 

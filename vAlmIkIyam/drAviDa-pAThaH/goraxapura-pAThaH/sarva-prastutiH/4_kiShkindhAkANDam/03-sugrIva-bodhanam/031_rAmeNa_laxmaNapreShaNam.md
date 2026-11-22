@@ -28,6 +28,14 @@ advise of his ministers.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing with wrath at Sugrīva's ingratitude, Lakṣmaṇa vows to slay the faithless monkey king and let Aṅgada lead the search, but Rāma gently restrains him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कामिनं दीनमदीनसत्त्वं  
@@ -410,6 +418,14 @@ really becomes the best one among men." Thus Rama is saying to Lakshmana. [4-31-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instructed by Rāma to honor their prior friendship and remind Sugrīva of the elapsed deadline with gentle words, Lakṣmaṇa takes his great bow and marches toward Kiṣkindhā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेदमत्र त्वया ग्राह्यं साधुवृत्तेन लक्ष्मण ।  
@@ -701,6 +717,14 @@ Grasping (pragṛhya) his bow that resembled Indra's rainbow (śakrabāṇāsana
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Acting strictly as instructed (yathoktakārī) and equal to Bṛhaspati in intellect (bṛhaspatisamo buddhyā), Rāma's younger brother (rāmānujaḥ) pondered then (matvā tadā) the message to be delivered, Sugrīva's likely reply, and his own rejoinder (vacanam uttaraṃ caiva sottaram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sweeping forward like a tempest, Lakṣmaṇa fells trees and shatters boulders underfoot until he reaches mountain-girt Kiṣkindhā, where the terrified monkey sentries seize peaks and trees.
 </details>
 </details>
 
@@ -1024,6 +1048,14 @@ Beholding that bull among men, Lakṣmaṇa (taṃ dṛṣṭvā lakṣmaṇaṃ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the monkeys take up weapons, Lakṣmaṇa blazes with double fury; the terrified guards flee to warn Sugrīva, who remains deaf in Tārā's embrace while ministers muster troops.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् गृहीतप्रहरणान् सर्वान् दृष्ट्वा तु लक्ष्मणः ।  
@@ -1342,6 +1374,14 @@ tigerish pride, all are hideous in look and horrendous by their faces. [4-31-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All of them had claws and fangs for weapons (nakha-daṃṣṭrāyudhāḥ sarve), heroic and of fierce aspect (vīrā vikṛtadarśanāḥ); all had fangs like tigers (sarve śārdūladaṃṣṭrāś ca), and all bared their gaping jaws (sarve vivṛtadarśanāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Monkeys with the strength of ten to a thousand elephants man Kiṣkindhā's ramparts and moats; seeing Sugrīva's heedlessness, Lakṣmaṇa hisses like a five-headed serpent.
 </details>
 </details>
 
@@ -1675,6 +1715,14 @@ Like a five-hooded serpent (pañcāsya iva pannagaḥ) whose flickering tongue w
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stricken with dismay on approaching fiery Lakṣmaṇa, Prince Aṅgada receives his stern summons at the gate and hastens inside to bow at the feet of Sugrīva and Rumā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दीप्तमिव कालाग्निं नागेन्द्रमिव कोपितम् ।  
@@ -1942,6 +1990,14 @@ father Sugreeva and then at the feet of Ruma, wife of Sugreeva. [4-31-36]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bewildered in mind (sambhrāntabhāvaḥ) and downcast of face (paridīnavaktraḥ) at Lakṣmaṇa's exceedingly fierce speech (tasya sutīvravācā), impetuous Aṅgada (tarasvī aṅgadaḥ), departing from the gate (nirgatya), bowed first at the feet of the king (pūrvaṃ nṛpateḥ) and then at the feet of Rumā (tato rumāyāś caraṇau vavande).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Aṅgada clasps the royal feet and reports the crisis, wine-drowsy Sugrīva sleeps on until the monkeys raise a thunderous roar of kilakilā cries that finally wakes him.
 </details>
 </details>
 
@@ -2225,6 +2281,14 @@ By that mighty clamor (tena śabdena mahatā) the monkey king was finally awaken
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakened by the uproar, Sugrīva is attended by his wise ministers Plakṣa and Prabhāva, who propitiate him and announce that bow-wielding Lakṣmaṇa stands outside the gate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाङ्गदवचः श्रुत्वा तेनैव च समागतौ ।  
@@ -2419,6 +2483,14 @@ monkeys are panicked and venting out alarms shuddering utterly. [4-31-46]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Of those two, one—Lakṣmaṇa—stands at the gate with bow in hand (tayor eko dhanuṣpāṇir dvāri tiṣṭhati lakṣmaṇaḥ), terrified of whom (yasya bhītāḥ) the trembling monkeys are uttering loud cries (pravepanto nādān muñcanti vānarāḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Describing Lakṣmaṇa standing at the gate with Rāma's command as his charioteer and resolve as his chariot, the ministers urge Sugrīva to bow with his kin and keep his vow.
 </details>
 </details>
 

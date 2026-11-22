@@ -25,6 +25,14 @@ sound, active and full of joy.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his steeds slain, a furious Indrajit rallies the night-stalkers under cover of thick darkness so he may slip back into Laṅkā for a fresh chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुधिरक्लिन्नगात्रस्तु लक्ष्मणः शुभलक्षणः ।  
@@ -271,6 +279,14 @@ head had been chopped off by the great-souled Lakshaman.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deceiving the vānaras, Indrajit enters Laṅkā, mounts a golden chariot equipped with fresh weapons and a skilled charioteer, and rides back toward Lakṣmaṇa, impelled by Fate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वैव तु महावीर्यो लक्ष्मणेनेन्द्रजिद्वधम् ।  
@@ -483,6 +499,14 @@ foremost among men spoke the following words:
 **11:** Surrounded by chief hosts of rākṣasas (rākṣasagaṇair mukhyaiḥ), that heroic son of Mandodarī issued forth from the city, impelled by the power of Death (kṛtāntabalacoditaḥ).
 
 **12:** Having issued forth from the city with supreme vigor (paramaujasā), that Indrajit sped with swift steeds toward Lakṣmaṇa accompanied by Vibhīṣaṇa (savibhīṣaṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Amazed by Indrajit's swiftness in returning on a fresh chariot, the monkeys flee to Lakṣmaṇa for refuge as the prince twice shatters the rākṣasa's bow.
 </details>
 </details>
 
@@ -724,6 +748,14 @@ protector, neither Seetha nor this entire earth is hard to attain."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He took up another bow and strung it (sajyaṃ cakre) as if in haste (tvarann iva); that bow of his too Lakṣmaṇa sheared away (nirakṛntata) with three arrows.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced through the chest by Lakṣmaṇa's five snake-like shafts, Indrajit vomits blood, seizes a mightier bow, and pours forth arrow-showers that Lakṣmaṇa calmly parries.
 </details>
 </details>
 
@@ -990,6 +1022,14 @@ from pains and his wounds got completely cured.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Unruffled, that scion of Raghu of great splendor displayed [his valor] before Rāvaṇa's son then, and that seemed like a marvel (tad adbhutam ivābhavat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Displaying rapid marksmanship, Lakṣmaṇa pierces every rākṣasa, beheads Indrajit's new charioteer with a crescent-headed shaft, and harries the driverless steeds as they wheel in circles.
 </details>
 </details>
 

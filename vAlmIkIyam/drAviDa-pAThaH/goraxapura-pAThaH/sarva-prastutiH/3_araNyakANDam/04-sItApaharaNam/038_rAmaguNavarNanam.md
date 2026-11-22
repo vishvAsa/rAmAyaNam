@@ -28,6 +28,14 @@ safeguarding Vishwamitra's Vedic-ritual, when Rama was still a young boy.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mārīca recounts how he once roamed the Daṇḍaka forest with the strength of a thousand elephants, prompting the terrified Viśvāmitra to ask King Daśaratha for young Rāma's protection.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदाचिदप्यहं वीर्यात् पर्यटन् पृथिवीमिमाम् ।  
@@ -273,6 +281,14 @@ great-fortunate and great-saint Vishvamitra in this way. [3-38-5b, 6a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For a dreadful fear (bhayaṃ ghoram) has arisen for me from Mārīca, O lord of men (nareśvara)!” Thus addressed, the righteous-souled King Daśaratha then—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Daśaratha offers to march in person with his fourfold army, Viśvāmitra insists that none save young Rāma can subdue Mārīca, and leads the prince to his hermitage.
 </details>
 </details>
 
@@ -570,6 +586,14 @@ with me.' [3-38-10b, 11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, that sage Viśvāmitra, supremely pleased (parama-prītaḥ), took that prince (tam ādāya nṛpātmajam) and went to his own hermitage (svam āśramam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining like the newly risen crescent moon at Viśvāmitra's sacrifice, beardless young Rāma calmly strings his bow as the arrogant Mārīca rushes toward the altar.
 </details>
 </details>
 
@@ -925,6 +949,14 @@ Disdaining (avajānan) Rāghava out of delusion (mohāt) with the thought, “He
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mārīca relates how Rāma's single arrow hurled him unconscious a hundred yojanas into the ocean while slaying his comrades, and warns Rāvaṇa not to wage war with Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन मुक्तस्ततो बाणः शितः शत्रुनिबर्हणः ।  
@@ -1164,6 +1196,14 @@ proscribing you, you will ruin yourself on getting a disastrous calamity. [3-38-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Therefore, if despite being restrained by me (mayā vāryamāṇas tu) you wage war with Rāma (rāmeṇa vigrahaṃ kariṣyasi), you will swiftly incur dreadful calamities (āpadāṃ ghorāṃ kṣipraṃ prāpya) and will not survive (na śiṣyasi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that even the innocent perish through association with the wicked like fish in a serpent-pool, Mārīca prophesies the slaughter of the rākṣasas and the ruin of Laṅkā.
 </details>
 </details>
 
@@ -1432,6 +1472,14 @@ for lack of a protector. [3-38-28]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 You will behold the surviving night-roamers (hata-śeṣān... niśācarān)—both those bereft of their wives and those accompanied by their wives (hṛta-dārān sadārāṃś ca)—fleeing shelterless in all ten directions (daśa vidravato diśaḥ... aśaraṇān)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling Laṅkā's conflagration and condemning the sin of violating another's wife, Mārīca urges Rāvaṇa to remain content with his own consorts lest he and his kin perish by Rāma's arrows.
 </details>
 </details>
 

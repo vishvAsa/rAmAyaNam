@@ -25,6 +25,14 @@ generates newer forces and a war ensues.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vasiṣṭha refuses to part with the wish-granting cow, Viśvāmitra seizes Śabalā by force; shaking off hundreds of royal retainers, she flees like the wind to Vasiṣṭha’s feet.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामधेनुं वसिष्ठोऽपि यदा न त्यजते मुनिः ।  
@@ -272,6 +280,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having reflected thus (iti saṃcintayitvā) and sighing again and again (niḥśvasya ca punaḥ punaḥ), she sped with great velocity (jagāma vegena) back to Vasiṣṭha of supreme splendor (paramaujasam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping with a voice deep as thunderclouds, Śabalā asks why she has been forsaken; Vasiṣṭha consoles her like an afflicted sister and explains why he refrains from striking his royal guest.
 </details>
 </details>
 
@@ -588,6 +604,14 @@ he is mightier than me.' Thus Vashishta tried to pacify that Sacred-Cow. [1-54-1
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Here stands his full akṣauhiṇī host (iyam akṣauhiṇī pūrṇā), teeming with elephants, horses, and chariots (gajavājirathākulā), crowded with war-elephants and banners (hastidhvajasamākīrṇā); therefore is he stronger (balavattaraḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śabalā proclaims that divine Brahmanic power far excels Kṣatriya might; authorized by Vasiṣṭha to create a counter-force, she brings forth hundreds of Pahlava warriors from her bellowing roar.
 </details>
 </details>
 
@@ -946,6 +970,14 @@ army of Vishvamitra in its entirety just while Vishvamitra is witnessing it. [1-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that command of his, Surabhi (Śabalā) then created (surabhiḥ sāsṛjat tadā): brought forth from her bellowing roar (tasyā huṃbhāravotsṛṣṭāḥ), O King, arose hundreds of Pahlava warriors (pahlavāḥ śataśo nṛpa)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the Pahlavas rout Viśvāmitra’s host before his very eyes and the enraged king slaughters them, Śabalā brings forth golden-armored Śakas mingled with Yavanas, who consume his army like blazing fires.
 </details>
 </details>
 

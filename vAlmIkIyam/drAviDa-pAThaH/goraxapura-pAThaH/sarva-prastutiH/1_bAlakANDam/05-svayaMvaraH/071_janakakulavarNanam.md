@@ -15,6 +15,14 @@ title_english = "071 janaka s lineage detailed"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With folded hands, King Janaka responds to Sage Vasiṣṭha by proclaiming the unblemished lineage of Videha from King Nimi, his son Mithi, and the first Janaka down to Suketu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं जनकः प्रत्युवाच कृताञ्जलिः ।  
@@ -229,6 +237,14 @@ From Udaavasu it is noble souled Nandivardhana took birth, and Nandivardhana's s
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “From Udāvasu was born the righteous-souled Nandivardhana; and Nandivardhana’s valiant son was renowned by the name Suketu (suketurnāma nāmataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka continues the royal genealogy of Videha from Suketu’s son Devarāta—who first received the great bow of Śiva as a sacred trust—through Bṛhadratha, Mahāvīra, Sudhṛti, Dhṛṣṭaketu, Haryaśva, Maru, Pratīndhaka, Kīrtiratha, Devamīḍha, and Vibudha to Mahīdhraka.
 </details>
 </details>
 
@@ -456,6 +472,14 @@ The son of Kiirtiratha is remembered as Devamiidha, and the son of Devamiidha is
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Kīrtiratha’s son is remembered as Devamīḍha; Devamīḍha’s son was Vibudha, and Vibudha’s son was Mahīdhraka.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tracing the line through Kīrtirāta, Mahāroman, and Svarṇaroman to his father Hrasvaroman, Janaka relates how Hrasvaroman consecrated him on the throne, entrusted young Kuśadhvaja to his care, and retired to the forest.
 </details>
 </details>
 
@@ -698,6 +722,14 @@ around the burden of this kingship... [1-71-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When our aged father ascended to heaven (vṛddhe pitari svaryāte), I bore the yoke of sovereignty righteously (dharmeṇa dhuram āvaham), looking after my godlike brother Kuśadhvaja with tender affection (snehāt paśyan kuśadhvajam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka recounts how King Sudhanvā of Sāṅkāśyā besieged Mithilā demanding Śiva’s bow and Sītā’s hand, how he slew Sudhanvā in battle and crowned Kuśadhvaja king of Sāṅkāśyā, and joyfully bestows his two brides.
 </details>
 </details>
 
@@ -952,6 +984,14 @@ brides with a highly gladdened heart... Seetha for Rama, and Urmila for Lakshman
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This brother of mine is the younger, O great sage, and I am the elder. Filled with supreme joy, O bull among sages, I bestow these two brides upon you (dadāmi paramaprīto vadhvau te munipuṃgava)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka thrice pledges Sītā to Rāma and Ūrmilā to Lakṣmaṇa, and invites King Daśaratha to perform the preparatory godāna and nāndīmukha-śrāddha rites and celebrate the wedding on the third day under the Uttara-Phalgunī constellation.
 </details>
 </details>
 

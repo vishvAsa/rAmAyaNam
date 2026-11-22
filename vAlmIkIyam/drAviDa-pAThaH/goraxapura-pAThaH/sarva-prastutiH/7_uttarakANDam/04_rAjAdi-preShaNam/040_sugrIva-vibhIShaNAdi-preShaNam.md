@@ -13,6 +13,14 @@ title = "०४० सुग्रीव-विभीषणादि-प्र�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the bears, monkeys, and rākṣasas abide in Ayodhyā, the radiant Rāma bids Sugrīva return to rule Kiṣkindhā free of foes and cherish Aṅgada, Hanūmān, and every hero who risked life for his sake.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा स्म तेषां वसतामृक्षवानररक्षसाम् ।  
@@ -121,6 +129,14 @@ While those bears, monkeys, and rākṣasas were dwelling thus (tathā sma teṣ
 **5:** “Upon the heroic Śatavali, Mainda, and Dvivida as well, upon Gaja, Gavākṣa, Gavaya, and the mighty Śarabha, and with an affectionate heart (prītisamāyuktaḥ) look kindly upon Gandhamādana too;
 
 **6:** “Upon the valiant Ṛṣabha and the mighty Jāmbavān, and all these exceedingly high-souled heroes who risked their very lives for my sake (madarthe tyaktajīvitāḥ)—regard them with affection (prītisaṃyuktaḥ), and never do anything displeasing to them (mā caiṣāṃ vipriyaṃ kṛthāḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Sugrīva again and again, Rāma gently instructs Vibhīṣaṇa to govern Laṅkā in dharma and never incline toward injustice, drawing ecstatic praise from the assembled allies who liken his wisdom and sweetness to Brahmā’s.
 </details>
 </details>
 
@@ -313,6 +329,14 @@ Hearing the speech of Rāma (rāmasya bhāṣitaṃ śrutvā), the bears, monkey
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing humbly before Rāma, Hanūmān prays for unswerving devotion and vows to keep his life-breaths in his body as long as Rāma’s story endures on earth, dispelling parting’s ache by drinking its nectar; Rāma rises to embrace him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य भाषितं श्रुत्वा ऋक्षवानरराक्षसाः ।  
@@ -499,6 +523,14 @@ Rising from his royal seat (varāsanāt utthāya), Rāma affectionately embraced
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma confirms Hanūmān’s immortality as long as the worlds and his own tale endure, confesses himself unable to requite each service without wishing him distress, and fastens his own moon-bright pearl necklace with a cat’s-eye pendant around Hanūmān’s neck.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वाहं ततो वीर तव चर्यामृतं प्रभो ।  
@@ -626,6 +658,14 @@ Rising from his royal seat (varāsanāt utthāya), Rāma affectionately embraced
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With that great necklace fastened upon his chest (tenorasi nibaddhena hāreṇa mahatā), the monkey shone radiant as Mount Meru, lord of golden peaks, with its summit crowned by the moon (hemaśailendraś candreṇākrānta-mastakaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s tender words to Hanūmān, the vānaras bow at his feet and depart, while Sugrīva, Vibhīṣaṇa, and the entire host—closely embraced and blinded by tears—leave Ayodhyā like an embodied soul parting from its body.
 </details>
 </details>
 

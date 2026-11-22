@@ -13,6 +13,14 @@ title = "०२७ सुमालि-हतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crossing over Kailāsa to heaven’s realm, Rāvaṇa sends an ocean-like roar ahead of his army; Indra summons the celestial hosts to arm, yet himself approaches Viṣṇu in dejection and dread.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैलासं लङ्घयित्वा तु ससैन्यबलवाहनः ।  
@@ -196,6 +204,14 @@ Thus addressed by Śakra (evam uktās tu śakreṇa), those gods of immense mett
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 But Mahendra himself, dejected and sorely terrified on account of Rāvaṇa (dīnaḥ paritrasto mahendro rāvaṇaṃ prati), approached the presence of Viṣṇu (viṣṇoḥ samīpam āgatya) and spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confessing that Rāvaṇa’s might rests solely on Brahmā’s inviolable boon, Indra recalls past victories won through Viṣṇu’s strength and extols Nārāyaṇa as sole creator, protector, and ultimate refuge of the three worlds.
 </details>
 </details>
 
@@ -388,6 +404,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asked directly whether he will wield his discus against Rāvaṇa, Nārāyaṇa calms Indra’s fear yet declines to fight now, foreseeing a tremendous rākṣasa feat and declaring that Viṣṇu never withdraws without slaying his foe.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदाचक्ष्व यथातत्त्वं देवदेव मम स्वयम् ।  
@@ -574,6 +598,14 @@ Thus addressed by Śakra (evam uktaḥ sa śakreṇa), the Lord God Nārāyaṇa
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For Viṣṇu never turns back from battle without having slain his foe (nāhatvā samare śatruṃ viṣṇuḥ pratinivartate); and today that desire is impossible to attain (durlabhaś caiva kāmo ’dya) from Rāvaṇa, guarded as he is by his boon (varaguptād dhi rāvaṇāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing solemnly that he himself will become the cause of Rāvaṇa’s death when the destined hour arrives, Viṣṇu bids Indra fight fearlessly; the Vedic deities sally from heaven’s city and meet the roaring rākṣasa host at night’s end.
 </details>
 </details>
 
@@ -769,6 +801,14 @@ Beholding one another (anyonyam abhivīkṣya vai), those heroes of mighty valor
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thrown into commotion at the sight of Rāvaṇa’s seemingly inexhaustible host, the gods join dreadful battle as Rāvaṇa’s fierce ministers—Mārīca, Prahasta, Mahodara, Khara, Dūṣaṇa, and a host of dread warlords—surge forward.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दैवतसैन्यानां सङ्क्षोभः समजायत ।  
@@ -859,6 +899,14 @@ Thereupon a terrible battle broke out (yuddhaṃ samabhavat ... ghoram) among th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Meanwhile, those valiant rākṣasas of terrifying aspect (śūrā rākṣasā ghora-darśanāḥ), the ministers of Rāvaṇa (sacivā rāvaṇasya te), rushed together for battle (yuddhārthaṃ samavartanta):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ringed by Rāvaṇa’s sons and warlords, Rāvaṇa’s grandfather Sumāli shatters the divine ranks like wind scattering clouds; Sāvitra the eighth Vasu, together with Tvaṣṭṛ and Pūṣan, enters the fray as the infuriated gods counterattack.
 </details>
 </details>
 
@@ -1078,6 +1126,14 @@ Thereupon a fierce battle arose between the gods—enraged at the renown of the 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As gods and rākṣasas inflict mutual carnage across the field, Sumāli charges once more in fury, scattering the entire divine army like wind dispersing a cloud until the battered gods can no longer hold their ranks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो युद्धं समभवत् सुराणां सह राक्षसैः ॥ ३७ ॥  
@@ -1211,6 +1267,14 @@ In the meantime, O Rāma, the rākṣasa named Sumāli (sumālī nāma rākṣas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing firm amid the routed gods, Sāvitra the eighth Vasu checks Sumāli in a hair-raising duel, shatters his serpent-chariot in an instant with mighty arrows, and grasps a mace to end his life.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते महाबाणवर्षैश्च शूलप्रासैः सुदारुणैः ॥ ४२ ॥  
@@ -1307,6 +1371,14 @@ Then, while the gods were being put to flight by Sumāli (vidrāvyamāṇeṣu d
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having destroyed his chariot studded with hundreds of arrows in the fray (hatvā tu saṃyuge tasya rathaṃ bāṇa-śataiś citam), the Vasu seized a mace in his hand for his destruction (gadāṃ tasya vadhārthāya vasur jagrāha pāṇinā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bringing down his blazing mace upon Sumāli’s head like Indra’s thunderbolt upon a mountain, Sāvitra reduces the rākṣasa patriarch instantly to ashes, sending the terrified demon armies fleeing in disorder.
 </details>
 </details>
 

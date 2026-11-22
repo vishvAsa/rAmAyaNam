@@ -31,6 +31,14 @@ along with his wives takes ritual vow and enters ritual hall.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the second spring arrives and the full year of the horse’s wandering is complete, King Daśaratha approaches Vasiṣṭha and places the entire burden of the sacrifice upon him; consenting, Vasiṣṭha summons the elder Brāhmaṇas and master architects.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनः प्राप्ते वसन्ते तु पूर्णः संवत्सरोऽभवत् ।  
@@ -299,6 +307,14 @@ by you, I will see that all of them are materialised accordingly. [1-13-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Saying “So be it!”, that foremost of the twice-born replied to the King: “I shall accomplish in full everything that has been requested by you (bhavatā yat samarthitam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha summons the works-overseers, brick-makers, carpenters, diggers, astrologers, artisans, actors, and dancers, commanding them to bring thousands of altar bricks and construct royal pavilions, hundreds of Brāhmaṇa residences, and quarters for citizens, visiting kings, and foreign troops.
 </details>
 </details>
 
@@ -575,6 +591,14 @@ along with their soldiers. [1-13-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha lays down the ethical law of sacrificial hospitality: food must be given with due honor and never casually or with disrespect, even out of passion or anger, so that all four varṇas and all the artisans are honored with wealth and hospitality; and the overseers pledge full compliance.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवासा बहुभक्ष्या वै सर्वकामैरुपस्थिताः ।  
@@ -830,6 +854,14 @@ Thereupon all those officers came together and spoke thus to Vasiṣṭha: “Al
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the works under way, Vasiṣṭha summons Sumantra and instructs him to invite the righteous kings of the earth and thousands of Brāhmaṇas, Kṣatriyas, Vaiśyas, and Śūdras—and to go in person to escort King Janaka of Mithilā (foreseen as Daśaratha’s future kinsman), the King of Kāśī, and the aged King of Kekaya.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुमन्त्रमाहूय वसिष्ठो वाक्यमब्रवीत् ॥ १९ ॥  
@@ -1052,6 +1084,14 @@ Dasharatha, you personally invite him along with his sons. [1-13-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And likewise the aged and supremely righteous King of Kekaya (kekayarājānaṃ vṛddham), father-in-law of this lion among kings—bring him hither together with his son (Yudhājit)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha concludes his roll of royal guests—Romapāda of Aṅga, Bhānumān of Kosala, the King of Magadha, and the monarchs of the East, Sindhu-Sauvīra, Surāṣṭra, and the Deccan—whereupon Sumantra dispatches envoys across the quarters.
 </details>
 </details>
 
@@ -1313,6 +1353,14 @@ all those kings to their kingdom. [1-13-30]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that speech of Vasiṣṭha, Sumantra immediately commissioned capable and trusty emissaries (vyādiśat puruṣāṃs tatra... śubhān) to bring those monarchs.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra sets out in person at the sage’s bidding to bring the chief monarchs; when the overseers report that all sacrificial preparations are complete, Vasiṣṭha reiterates that a gift given with disrespect destroys the giver; and within a few days the kings arrive bearing rich tribute of gems.
 </details>
 </details>
 
@@ -1582,6 +1630,14 @@ by me also as per their status. [1-13-35b, 36]
 **35:** Bearing manifold precious gems as tribute for King Daśaratha (bahūni ratnāny ādāya rājño daśarathasya ha). Thereupon Vasiṣṭha, supremely pleased, spoke thus to the King:
 
 **36:** “O tiger among men, at your command the monarchs have arrived (upayātā naravyāghra rājānaḥ), and all those foremost of kings have been duly honored by me according to their rank (yathārham)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha invites Daśaratha to come forth and behold the sacrificial enclosure, which resembles a creation conjured by the mind itself; under an auspicious constellation at the word of Vasiṣṭha and Ṛṣyaśṛṅga, the King proceeds to the sacrificial ground and enters upon the sacred dīkṣā together with his queens.
 </details>
 </details>
 

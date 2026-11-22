@@ -30,6 +30,14 @@ On the advice of his minister Sumantra, Dasharatha proceeds to Anga kingdom to
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra resumes the ancient prophecy of Bhagavān Sanatkumāra: how the righteous King Daśaratha of the Ikṣvāku line, bound in friendship with Romapāda of Aṅga to whom his daughter Śāntā was given, will journey to request Śāntā’s husband Ṛṣyaśṛṅga to conduct a sacrifice for the continuation of his lineage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूय एव हि राजेन्द्र शृणु मे वचनं हितम् ।  
@@ -232,6 +240,14 @@ over that Vedic ritual at you behest, for the sake of progeny in my dynasty. [1-
 **4:** “‘Now the son of the King of Aṅga shall be renowned as Romapāda; to him that illustrious King Daśaratha shall go (and speak thus):
 
 **5:** “‘“I am childless, O righteous-souled one (anapatyo ’smi dharmātman); let Śāntā’s husband (Ṛṣyaśṛṅga), at your command (tvayājñaptaḥ), conduct a sacrifice for me for the continuation of my lineage (saṃtānārthaṃ kulasya ca).”’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sanatkumāra’s prophecy concludes: Romapāda will gladly grant Śāntā’s husband (now qualified by the birth of a son to maintain the sacred fires), Daśaratha will appoint Ṛṣyaśṛṅga as priest for sacrifice, progeny, and heaven, and four sons of boundless valor will be born to uphold the Ikṣvāku line.
 </details>
 </details>
 
@@ -522,6 +538,14 @@ Please refer endnote for *yuga* / era classification.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus did that foremost of celestial sages, the venerable Lord Sanatkumāra, formerly recount this prophetic narrative in the ancient age of the gods (purā devayuge).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Sumantra to go in person rather than send a priest or envoy, Daśaratha obtains the permission of his preceptor Vasiṣṭha and journeys with his queens and ministers to Romapāda’s capital, where he beholds the fire-bright Ṛṣyaśṛṅga and is joyfully honored by his royal friend.
 </details>
 </details>
 
@@ -936,6 +960,14 @@ and then that sage worshipped king Dasharatha in his return. [1-11-17b, 18a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon learning of Daśaratha’s friendship and parental bond with Romapāda, Ṛṣyaśṛṅga honors him in return. After residing there seven or eight days, Daśaratha asks Romapāda to send Śāntā and her husband to Ayodhyā for a great sacrificial undertaking; with Romapāda’s consent, the sage sets out with his wife.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सुसत्कृतस्तेन सहोषित्वा नरर्षभः ॥ १८ ॥  
@@ -1083,6 +1115,14 @@ been permitted by the king he set forth along with his wife. [1-11-21b, 22a]
 **20:** “Proceed to my capital city (madīyaṃ nagaraṃ yātu), for a great sacrificial undertaking has been set in motion (kāryaṃ hi mahad udyatam)!” Saying “So be it!” and promising the departure of that wise sage (saṃśrutya gamanaṃ tasya dhīmataḥ), King Romapāda—
 
 **21:** Spoke these words to the Brāhmaṇa sage: “Go you together with your wife (gaccha tvaṃ saha bhāryayā)!” Having listened to that request, the sage’s son replied “So be it!” to the King at that time.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing in their farewell embrace, Daśaratha takes leave of Romapāda and dispatches swift couriers ahead to Ayodhyā. The delighted citizens sprinkle, sweep, perfume, and festoon the capital with banners, and Daśaratha enters the city in triumph with Ṛṣyaśṛṅga at the fore.
 </details>
 </details>
 
@@ -1310,6 +1350,14 @@ amidst the full sounding of conch shells and drumbeats. [1-11-26b, 27a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Carried out in full everything that had been commanded by the King. Thereupon the monarch entered the gloriously adorned city—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Escorting Ṛṣyaśṛṅga into the royal palace like thousand-eyed Indra welcoming Kaśyapa’s son in heaven, Daśaratha accounts himself blessed; and all the queens of the inner apartments rejoice over the wide-eyed Śāntā, who abides there happily with her Brāhmaṇa husband.
 </details>
 </details>
 

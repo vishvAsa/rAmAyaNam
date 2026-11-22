@@ -24,6 +24,14 @@ Rama and Lakshmana away from Seetha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by the roaring Virādha, Rāma proclaims their noble Ikṣvāku lineage, whereupon the demon boasts of his parentage and Brahmā's boon of invulnerability to weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोवाच पुनर्वाक्यं विराधः पूरयन् वनम् ।  
@@ -295,6 +303,14 @@ killed with a weapon in this world..."[3-3-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Through austerity (tapasā) I have obtained [a boon] born of Brahmā’s grace (brahmaṇo hi prasāda-jā): invulnerability to weapons in the world (śastreṇāvadhyatā loke), and the state of being neither cleavable nor pierceable (acchedyābhedyatvam eva ca).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Virādha bids the brothers abandon Sītā and flee for their lives, Rāma rebukes the demon in blazing wrath and pierces his body with seven gold-feathered arrows.
 </details>
 </details>
 
@@ -600,6 +616,14 @@ Piercing through Virādha’s body (śarīraṃ virādhasya bhittvā), those pea
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting Sītā down, the wounded Virādha charges with his upraised pike; when the brothers shower him with blazing arrows, he laughs, yawns, and shakes the shafts from his body.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विद्धो न्यस्य वैदेहीं शूलमुद्यम्य राक्षसः ।  
@@ -854,6 +878,14 @@ Checking his vital breaths (prāṇān saṃrodhya) by virtue of his boon (vara-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma shatters Virādha's iron pike with two arrows and the brothers slash him with their swords; when the demon seizes them to carry them off, Rāma bids Lakṣmaṇa let him bear them along their path.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छूलं वज्रसङ्काशं गगने ज्वलनोपमम् ।  
@@ -1064,6 +1096,14 @@ his arms, that furious demon wished to carry them away. [3-3-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Being fiercely battered (vadhyamānaḥ subhṛśam), that dreadful demon seized those two unshakeable tigers among men (aprakampyau nara-vyāghrau) with his two arms (bhujābhyāṃ parigṛhya) and sought to stride away (prasthātum aicchata).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing that Virādha's course matches their own forest path, Rāma consents to be carried, and the roaring demon hoists both princes onto his shoulders and plunges into a dark, beast-filled wood.
 </details>
 </details>
 

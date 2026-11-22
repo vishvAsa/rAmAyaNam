@@ -26,6 +26,14 @@ to have a happy journey ahead.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanūmān's reassuring speech, Sītā likens her joy to parched earth receiving rain and entrusts him with two intimate tokens from Citrakūṭa: the one-eyed crow and the red-arsenic mark.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु वचनं तस्य वायुसूनोर्महात्मनः ।  
@@ -346,6 +354,14 @@ of Universe, ignore Seetha who was taken away and now staying in the midst of th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Presenting her ocean-born crest-jewel, which consoled her in captivity as though she were gazing upon Rāma himself, Sītā declares she cannot live beyond one month without him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष चूडामणिर्दिव्यो मया सुपरिरक्षितः ।  
@@ -662,6 +678,14 @@ Hearing Vaidehī's piteous speech (vaidehyā vacanaṃ karuṇam) spoken with te
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swearing by truth that Rāma and Lakṣmaṇa burn with grief for her and will soon reduce Laṅkā to ashes, Hanūmān asks Sītā for a joy-awakening token.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वच्छोकविमुखो रामो देवि सत्येन ते शपे ।  
@@ -882,6 +906,14 @@ recognise and which creates pleasure to him."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Hanūmān that she has already given him her supreme hair-jewel as proof, Sītā weeps as the mighty monkey bows and swells in stature to leap.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साब्रवीद् दत्तमेवाहो मयाभिज्ञानमुत्तमम् ।  
@@ -1050,6 +1082,14 @@ in her face filled with tears.
 **20:** —bowed his head in salutation to the princess (praṇamya śirasā devīm) and prepared to depart (gamanāya upacakrame). Beholding that monkey troop-leader (tam avekṣya hariyūthapam) roused with energy for his upward leap (utpātakṛtotsāham)—
 
 **21:** —growing in bulk (vardhamānam) and of mighty impetus (mahāvegam), Janaka's daughter (janakātmajā), dejected (dīnā) and her face filled with tears (aśrupūrṇamukhī), spoke in a voice choked with sobs (bāṣpagadgadayā girā):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sending final greetings and begging Rāma to rescue her from the rākṣasas' threats, Sītā blesses Hanūmān's journey, while he reflects that only a small task remains.
 </details>
 </details>
 

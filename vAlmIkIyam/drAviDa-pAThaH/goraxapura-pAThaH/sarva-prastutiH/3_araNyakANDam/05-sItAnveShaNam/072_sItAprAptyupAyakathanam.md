@@ -25,6 +25,14 @@ get help as requital from Sugreeva.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Conveying Kabandha into a mountain chasm, Rāma and Lakṣmaṇa kindle his funeral pyre, from which he rises in spotless garments and ascends into the sky aboard a radiant swan-yoked chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तौ तु तौ वीरौ कबन्धेन नरेश्वरौ ।  
@@ -293,6 +301,14 @@ ten quarters. [3-72-6, 7]
 **5:** Then, radiant (bhāsvaraḥ), clad in stainless raiments (virajāmbaraḥ), and adorned with ornaments on every limb (sarva-pratyaṅga-bhūṣaṇaḥ), he swiftly leapt up from the pyre (citāyā vegena utpapātāśu), filled with joy (saṃhṛṣṭaḥ)—
 
 **6:** —standing in a resplendent, glory-conferring aerial chariot (vimāne bhāsvare yaśaskare) yoked with swans (haṃsa-yukte), that being of great splendour (mahā-tejāḥ) illuminated the ten directions with his radiance (prabhayā diśo daśa virājayan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking from the mid-sky, Kabandha expounds the sixfold royal policy of alliance in shared adversity and directs Rāma toward the exiled monkey prince Sugrīva dwelling on Mount Ṛṣyamūka.
 </details>
 </details>
 
@@ -570,6 +586,14 @@ On the foremost mountain Ṛṣyamūka (ṛṣyamūke giri-vare), graced by the 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Sugrīva's valour, truthfulness, and nobility, Kabandha consoles Rāma over the inexorable decree of Time and urges him to hasten to Sugrīva to seal a pact of friendship.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरेन्द्रो महावीर्यस्तेजोवानमितप्रभः ।  
@@ -811,6 +835,14 @@ you two, you make him a friend before blazing Fire, making that Fire as an Attes
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Go swiftly from here, O hero, to that mighty Sugrīva (sugrīvaṃ taṃ mahā-balam); having gone from here today (ito gatvādya), O Rāghava, quickly make him your comrade (vayasyaṃ taṃ kuru kṣipram)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kabandha instructs Rāma to lay down his weapons before a blazing fire and swear a solemn oath of friendship with Sugrīva, the Sun-god's son who knows every haunt of the demons.
 </details>
 </details>
 
@@ -1119,6 +1151,14 @@ of anthropophagite demons in the world in their entirety... [3-72-22b, 23a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —your comrade by a solemn oath (satyena), O Rāghava, as he ranges the forest (vana-cāriṇam); for that foremost of monkeys (kapi-kuñjaraḥ) [knows] in their entirety (kārtsnyena) all the haunts (sthānāni sarvāṇi)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuring Rāma that nothing under the sun is unknown to Sugrīva, Kabandha declares that the monkey king will dispatch his hosts to locate the blameless Sītā and restore her after slaying the demons.
 </details>
 </details>
 

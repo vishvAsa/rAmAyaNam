@@ -29,6 +29,14 @@ night at the foot of a tree.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As dawn breaks with the calls of the cuckoo and forest peacocks, Rāma urges Lakṣmaṇa to cross the swift-flowing Gaṅgā, whereupon Guha commands his ministers to bring a sturdy, well-helmed boat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां पृथुवक्षा महायशाः ।  
@@ -348,6 +356,14 @@ be brought to the bank to carry this hero across!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Guha’s ministers present the vessel and Rāma directs his gear to be loaded aboard, he and Lakṣmaṇa gird on their quivers and swords; Sumantra then humbly approaches to ask for his instructions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं निशम्य गुहादेशं गुहामात्यो गतो महान् ।  
@@ -655,6 +671,14 @@ said, "What shall I do?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Approaching Rāma himself, the knower of righteousness, in a humble manner (vinītavat), the charioteer Sumantra joined his palms and asked: “What shall I do now?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Touching Sumantra with his auspicious right hand, Rāma bids him return to Ayodhyā to tend the king; grief-stricken, Sumantra laments that even celibacy, Vedic study, and gentleness seem fruitless if Rāma must suffer exile.
 </details>
 </details>
 
@@ -970,6 +994,14 @@ obtain the same position as one who has conquered the three worlds."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet dwelling in the forest with Vaidehī and your brother, O Rāghava, you shall attain the supreme state, O hero, as though conquering the three worlds (trīn lokāṃs tu jayann iva)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping bitterly that the citizens left behind will fall under wicked Kaikeyī’s sway, Sumantra sips purifying water; Rāma gently consoles him and asks him to fulfil the aged king’s every command.
 </details>
 </details>
 
@@ -1293,6 +1325,14 @@ Whatever that high-souled lord of the earth may command with a view to pleasing 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma charges Sumantra to spare King Daśaratha all displeasure and convey his reassuring message to the monarch, Kausalyā, and the other queens that he, Sītā, and Lakṣmaṇa do not grieve and will return after fourteen years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदर्थं हि राज्यानि प्रशासति नराधिपाः ।  
@@ -1593,6 +1633,14 @@ When fourteen years have elapsed, you shall once again (punaḥ punaḥ) behold 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus to the king, O Sumantra, and to my mother, as well as to the other queens together and to Kaikeyī again and again—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma further instructs Sumantra to convey their salutations to Kausalyā, urge the king to summon and install Bharata as regent, and counsel Bharata to honour all his mothers—especially Kausalyā—without distinction.
 </details>
 </details>
 
@@ -1911,6 +1959,14 @@ Desiring what is dear to our father and accepting the office of regent (yauvarā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imploring Rāma to pardon his frank speech born of devotion, Sumantra asks how he could possibly drive an empty chariot back into Ayodhyā, which would split apart in anguish like an army whose hero has fallen.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवर्त्यमानो रामेण सुमन्त्रः प्रतिबोधितः ।  
@@ -2207,6 +2263,14 @@ Picturing you in their minds as standing right before them (mānasenāgrataḥ s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling the citizens’ wailing when Rāma departed, Sumantra asks how he could either lie to Queen Kausalyā or tell her the cruel truth, and begs permission to follow Rāma into the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टं तद् वै त्वया राम यादृशं त्वत्प्रवासने ।  
@@ -2490,6 +2554,14 @@ me to accompany you to the forest."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Therefore I shall not be able to go back to Ayodhyā without you, O sinless one (tvad-ṛte ’nagha); you ought to grant me leave to accompany you in your forest exile (vana-vāsānuyānāya)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to enter fire with his chariot if abandoned, Sumantra offers to ward off forest beasts with his car, begs to remain at Rāma’s side, and renounces both Ayodhyā and Indra’s heaven to serve him in the woods.
 </details>
 </details>
 
@@ -2802,6 +2874,14 @@ forest, with my head bent low, I shall render service to you."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Dwelling in the forest, I shall carry out your service with bowed head (śuśrūṣaṇaṃ mūrdhnā kariṣyāmi); I utterly renounce Ayodhyā, or even the world of the gods (deva-lokaṃ vā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he can no more enter Ayodhyā without Rāma than an evildoer can enter Indra’s capital, Sumantra begs not to be forsaken; Rāma, compassionate toward his servants, acknowledges his devotion and explains why he must return.
 </details>
 </details>
 
@@ -3121,6 +3201,14 @@ wherefore I send you from here to the city of Ayodhya."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I know your supreme devotion to me (jānāmi paramāṃ bhaktiṃ mayi te), O you who hold your master dear; yet hear for what purpose I am sending you back from here to the city:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma explains that only when Kaikeyī sees Sumantra return with the chariot will she believe Rāma has truly gone to the woods and stop suspecting the righteous king; turning to Guha, Rāma adds that he must dwell in an ascetic hermitage.
 </details>
 </details>
 
@@ -3444,6 +3532,14 @@ definitely be in a hermitage. Let an action diverted towards that aim be taken"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With banyan sap brought by Guha, Rāma mats his own and Lakṣmaṇa’s locks so that the two brothers shine like sages in bark-garments; adopting the Vaikhānasa path, Rāma counsels Guha to guard his army, treasury, fort, and realm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं गृहीत्वा नियमं तपस्विजनभूषणम् ।  
@@ -3717,6 +3813,14 @@ relations, for a kingdom is the most difficult one to be protected!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Remain ever vigilant, O Guha, over your army, treasury, fortress, and countryside (bale kośe durge janapade tathā); for a kingdom is held to be most difficult to guard (durārakṣatamaṃ matam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking leave of Guha, Rāma approaches the waiting boat on the riverbank; after Lakṣmaṇa helps Sītā aboard and mounts himself, Rāma embarks and softly recites an auspicious mantra.
 </details>
 </details>
 
@@ -4031,6 +4135,14 @@ Having boarded that boat, Rāghava of mighty splendour softly recited for his ow
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After sipping water according to precept and bowing to the river, Rāma, Sītā, and Lakṣmaṇa set out across the current; in midstream, Sītā joins her palms and prays to Goddess Gaṅgā for Rāma’s safe return.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचम्य च यथाशास्त्रं नदीं तां सह सीतया ।  
@@ -4306,6 +4418,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —and, having dwelt full fourteen years in the forest (caturdaśa hi varṣāṇi samagrāṇy uṣya kānane), may he return once more together with his brother and with me!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Gaṅgā as the three-pathed goddess who beholds Brahmā’s realm and is consort of the Ocean, Sītā vows to worship her with a hundred thousand cows, garments, choice food, and a thousand jars of spirituous liquor.
 </details>
 </details>
 
@@ -4613,6 +4733,14 @@ And whatever deities dwell along your banks (yāni tvat-tīra-vāsīni daivatān
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding her prayer to Gaṅgā, Sītā reaches the southern bank; disembarking, Rāma instructs Lakṣmaṇa to walk in front with Sītā following him while Rāma guards them from behind as they enter the wild woods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनरेव महाबाहुर्मया भ्रात्रा च सङ्गतः ।  
@@ -4879,6 +5007,14 @@ accord protection here to one another."
 **95:** Protection must unfailingly be maintained in this unfamiliar, uninhabited forest (adṛṣṭe vijane vane); walk in front, O Saumitri, and let Sītā follow behind you (agrato gaccha saumitre sītā tvām anugacchatu)!
 
 **96:** I shall walk behind, guarding both you and Sītā (tvāṃ ca sītāṃ ca pālayan); today indeed Vaidehī will experience the true hardship of dwelling in the forest (duḥkhaṃ tu vaidehī vana-vāsasya vetsyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that Sītā is about to enter a rugged, ravine-broken wilderness, Rāma and Lakṣmaṇa march into the prosperous Vatsa country while Sumantra weeps on the far bank; hunting four clean deer, the brothers rest beneath a forest tree at nightfall.
 </details>
 </details>
 

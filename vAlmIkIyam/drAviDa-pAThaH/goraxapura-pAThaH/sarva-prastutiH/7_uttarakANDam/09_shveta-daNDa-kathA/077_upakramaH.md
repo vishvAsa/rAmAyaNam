@@ -13,6 +13,14 @@ title = "०७७ उपक्रमः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Answering Rāma’s inquiry about the divine ornament, Agastya recalls entering a vast, silent wilderness of the Tretā age, devoid of beasts and birds, where an enchanting lotus-lake and an ancient empty hermitage stood in its heart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा त्रेतायुगे राम बभूव बहुविस्तरम् ।  
@@ -219,6 +227,14 @@ spotless and unruffled (arajaskaṃ tathā ’kṣobhyam), resplendent and teemi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spending a summer night in the deserted hermitage and visiting the lake at dawn, Agastya discovers a plump, undecaying corpse radiant with beauty in the water; as he ponders this marvel, a glorious swan-drawn aerial chariot descends.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राहमवसं रात्रिं नैदाघीं पुरुषर्षभ ॥ ७ ॥  
@@ -368,6 +384,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attended by a thousand singing, dancing, and fanning apsarases in that aerial chariot, a radiant celestial being steps down from his throne like the sun from Mount Meru, feasts heartily upon the corpse before Agastya’s eyes, and enters the lake to rinse.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गायन्ति काश्चिद् रम्याणि वादयन्ति तथापराः ॥ १२ ॥  
@@ -486,6 +510,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having thus eaten to his heart’s content of that abundant, rich-fleshed meat (bhuktvā yathākāmaṃ māṃsaṃ bahu supīvaram), the celestial dweller stepped down into the lake and proceeded to sip water for purification (avatīrya saraḥ svargī saṃspraṣṭum upacakrame).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Watching the godlike being rinse duly and prepare to reboard his aerial car, Agastya questions him on how a celestial personage can partake of so reprehensible a meal; moved by the sage’s courteous inquiry, the heavenly dweller prepares to reveal the entire truth.
 </details>
 </details>
 

@@ -29,6 +29,14 @@ a separate chapter in Baroda edition. But in Gorakhpur and Eastern versions it i
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Sītā cry out and offer herself in exchange for the two princes, Rāma and Lakṣmaṇa break both of Virādha's arms, sending the monster crashing to the earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रियमाणौ तु काकुत्स्थौ दृष्ट्वा सीता रघूत्तमौ ।  
@@ -332,6 +340,14 @@ His arms broken (bhagna-bāhuḥ) and his mind reeling with terror (saṃvigna�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Virādha survives being battered with fists, feet, arrows, and swords, Rāma orders a deep pit dug for the demon's burial and stands with his foot upon Virādha's throat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुष्टिभिर्बाहुभिः पद्भिः सूदयन्तौ तु राक्षसम् ।  
@@ -632,6 +648,14 @@ stood by. [3-4-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Speaking thus to Lakṣmaṇa—“Let a chasm be dug (pradaraḥ khanyatām iti)!”—the valiant Rāma stood pressing his foot upon Virādha’s throat (virādham ākramya kaṇṭhe pādena).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakened by the touch of Rāma's foot, Virādha humbly recognizes Rāma, Sītā, and Lakṣmaṇa, revealing that he is the gandharva Tumburu cursed by Kubera until Rāma slays him.
 </details>
 </details>
 
@@ -948,6 +972,14 @@ Rambha, and indeed he alone said this curse-clearance to me... [3-4-18b, 19a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Freed from Kubera's curse, Virādha directs Rāma to the nearby hermitage of the sage Śarabhaṅga, entreats burial in a pit according to rākṣasa custom, and casts off his body.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव प्रसादान्मुक्तोऽहमभिशापात् सुदारुणात् ॥ १९ ॥  
@@ -1178,6 +1210,14 @@ arrows, hurt; *babhuuva swarga sampraaptaH* = became, heavens, attained [heaven-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Those who are laid to rest in a pit (avaṭe ye nidhīyante), theirs are the eternal worlds (teṣāṃ lokāḥ sanātanāḥ)!” Having spoken thus to Kākutstha, Virādha, tormented by the shafts (śara-pīḍitaḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's command, Lakṣmaṇa takes a spade and digs a vast pit beside Virādha, and the two brothers lift the roaring demon and cast him into the chasm.
 </details>
 </details>
 
@@ -1429,6 +1469,14 @@ a ghoulish one in fight, a terrifying demon who is still blaring, with all their
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Swift in valour (āśu-vikramau) and steadfast in battle (sthirāv ubhau saṃyati), both Rāma and Lakṣmaṇa, filled with joy (mudānvitau), lifted up by their might that terrifying rākṣasa who was dreadful in combat and roaring, and cast him down [into the pit] (cikṣipatur bhayāvaham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fulfilling Virādha's own request for burial since weapons could not slay him, Rāma and Lakṣmaṇa cover the pit with boulders and rejoice in the forest with Sītā like the moon and sun.
 </details>
 </details>
 

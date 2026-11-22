@@ -25,6 +25,14 @@ take to their heels and return to Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged by the Vānara chieftains' slaughter of his army, Akampana brandishes his great bow, orders his charioteer to charge their vanguard, and assails them with clouds of arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् दृष्ट्वा सुमहत् कर्म कृतं वानरसत्तमैः ।  
@@ -330,6 +338,14 @@ of chariot-warriors, with a hail of darts, assailed the monkeys from a distance.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon, in his chariot drawn by bounding steeds (pracalitāśvena rathena), Akampana, the foremost of chariot-warriors (rathināṃ varaḥ), rushed upon the Vānaras from afar with networks of arrows (śarajālair akampanaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Broken by Akampana's arrow-storm, the Vānaras rally around the mountain-like Hanumān, who endures the Rākṣasa's shafts like Indra's rain and resolves upon his death.
 </details>
 </details>
 
@@ -649,6 +665,14 @@ Disregarding the floods of arrows (acintayitvā bāṇaughān) cast upon his bod
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like fire, Hanumān uproots a massive mountain peak and charges Akampana like Indra against Namuci, but Akampana shatters the crag in midair with crescent arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रहस्य महातेजा हनूमान् मारुतात्मजः ।  
@@ -961,6 +985,14 @@ by means of his great crescent-shaped arrows.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding that upraised mountain peak (tad dṛṣṭvā giriśṛṅgaṃ samudyatam), however, Akampana cleft it from afar (dūrād eva vyadārayat) with mighty crescent-headed arrows (mahābāṇair ardhacandraiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing his mountain peak shattered in the sky, the furious Hanumān uproots a towering aśvakarṇa tree and charges across the field like Death incarnate, crushing elephants, chariots, and foot-soldiers.
 </details>
 </details>
 
@@ -1290,6 +1322,14 @@ Beholding Hanumān, tree in hand (sadrumam), robbing warriors of their lives lik
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Akampana's fourteen body-rending shafts, Hanumān shines like a tree-clad mountain and a flowering aśoka tree before uprooting another tree and striking Akampana on the head.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमापतन्तं सङ्क्रुद्धं राक्षसानां भयावहम् ।  
@@ -1570,6 +1610,14 @@ Thereupon, uprooting another tree (tato 'nyaṃ vṛkṣam utpāṭya) and putti
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck down by Hanumān's tree, Akampana falls dead, and his terrified Rākṣasa soldiers cast away their weapons and stampede back into Laṅkā like trees shaken by an earthquake.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वृक्षेण हतस्तेन सक्रोधेन महात्मना ।  
@@ -1831,6 +1879,14 @@ entered the city.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Trampling upon one another (anyonyaṃ ye pramathnantaḥ), they entered the city in terror (viviśur nagaraṃ bhayāt), while in their utter confusion they kept looking back again and again (pṛṣṭhatas te tu sammūḍhāḥ prekṣamāṇā muhur muhuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the routed Rākṣasas flee into Laṅkā, Hanumān shines like Viṣṇu after slaying a great Asura and receives the homage of the gods, Rāma, Lakṣmaṇa, Sugrīva, and Vibhīṣaṇa.
 </details>
 </details>
 

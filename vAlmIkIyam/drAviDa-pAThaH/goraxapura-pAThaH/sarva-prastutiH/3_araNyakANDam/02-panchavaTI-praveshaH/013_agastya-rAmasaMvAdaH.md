@@ -26,6 +26,14 @@ where Seetha will be delightful of its surroundings.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Well-pleased with Rāma and Lakṣmaṇa’s visit, Sage Agastya commiserates over Sītā’s forest hardships and contrasts her heroic devotion with the fickleness of ordinary women.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राम प्रीतोऽस्मि भद्रं ते परितुष्टोऽस्मि लक्ष्मण ।  
@@ -358,6 +366,14 @@ the speediness of an eagle or a gust.*
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Women imitate (anugacchanti yoṣitaḥ) the fickleness of lightning-flashes (śatahradānāṃ lolatvam), the sharpness of weapons (śastrāṇāṃ tīkṣṇatām), and the swiftness of Garuḍa and the wind (garuḍānilayoḥ śaighryam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Sītā as an exemplar of wifely fidelity equal to Arundhatī, Agastya hears Rāma’s request for a wooded, watered site where they may establish a hermitage.
 </details>
 </details>
 
@@ -694,6 +710,14 @@ Then that foremost of sages (muni-śreṣṭhaḥ), having heard Rāma’s speec
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing Rāma’s history and inner resolve through ascetic vision and love for Daśaratha, Agastya directs him to settle at Pañcavaṭī, two yojanas away.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतो द्वियोजने तात बहुमूलफलोदकः ।  
@@ -965,6 +989,14 @@ very far off from here, and Seetha can take delight in there. [3-13-17b, 18a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Pañcavaṭī’s proximity to the Godāvarī, secluded beauty, and need for protection of its ascetics, Agastya points out the route past the madhūka forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स देशः श्लाघनीयश्च नातिदूरे च राघव ।  
@@ -1096,6 +1128,14 @@ while residing there. [3-13-20]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “You too are of righteous conduct (sadācāraḥ) and capable of affording protection (śaktaś ca parirakṣaṇe); moreover, dwelling there (atra vasan), O Rāma, you will protect the ascetics (tāpasān pālayiṣyasi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Agastya describes the plateau of Pañcavaṭī near the mountain, Rāma and Lakṣmaṇa reverently take leave of the sage and set out armed with their divine bows.
 </details>
 </details>
 

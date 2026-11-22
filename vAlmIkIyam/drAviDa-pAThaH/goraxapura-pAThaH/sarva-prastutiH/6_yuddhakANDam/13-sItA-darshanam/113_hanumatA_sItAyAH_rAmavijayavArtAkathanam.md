@@ -27,6 +27,14 @@ to Seetha through Hanuma.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that Rāvaṇa has been slain by Rāghava, the Rākṣasa women rush forth from the inner apartments with disheveled hair and roam the blood-mired battlefield until they behold him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति प्रतिसमादिष्टो हनूमान् मारुतात्मजः ।  
@@ -271,6 +279,14 @@ They beheld Rāvaṇa of gigantic body, mighty valor, and great splendor lying s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Collapsing upon Rāvaṇa's body like severed forest creepers, his wives embrace him, bathe his face with tears like dew on a lotus, and lament his fall after conquering the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेहि कुशली रामः सहसुग्रीवलक्ष्मणः ।  
@@ -489,6 +505,14 @@ the great ocean and this vow (of winning you back) has been fulfilled."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus afflicted at beholding their husband Rāvaṇa slain upon the earth, they cried out in manifold ways from grief (śokāt) and lamented anew:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Rākṣasa women marvel in grief that Rāvaṇa, who terrified gods, sages, and Gandharvas and was invulnerable to immortals and demons alike, has been slain by a mortal foot-soldier.
 </details>
 </details>
 
@@ -757,6 +781,14 @@ for a while, overpowered as I was, by extreme joy."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Speaking thus, those sorrow-stricken wives of his wept aloud (ruruduḥ); and afflicted with grief, they lamented yet again and again (punaḥ punaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reproaching Rāvaṇa for spurning Vibhīṣaṇa's salutary counsel and forcibly detaining Sītā, his wives lament that had Maithilī been restored, Rāma would have been an ally and their widowhood averted.
 </details>
 </details>
 
@@ -1034,6 +1066,14 @@ wishing for his victory! You alone deserve to speak such words filled with affec
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Instead, by you who cruelly (nṛśaṃsena) detained Sītā by force, the Rākṣasas, ourselves, and your own self—all three have been struck down equally together (trayaṃ tulyaṃ nipātitam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Absolving Rāvaṇa of sole blame, his queens conclude that all things are impelled and slain by inexorable fate, which neither wealth, desire, valor, nor royal command can turn back.
 </details>
 </details>
 

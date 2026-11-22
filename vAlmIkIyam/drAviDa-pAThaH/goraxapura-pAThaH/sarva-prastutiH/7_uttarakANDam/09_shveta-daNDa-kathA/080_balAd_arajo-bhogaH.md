@@ -13,6 +13,14 @@ title = "०८० बलाद् अरजो-भोगः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resuming his account, Agastya tells Rāma how King Daṇḍa ruled peacefully for ten thousand years until one spring in the month of Caitra he entered Śukra’s lovely hermitage, beheld Bhārgava’s peerless daughter, and addressed her overcome by desire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदाख्याय रामाय महर्षिः कुम्भसम्भवः ।  
@@ -217,6 +225,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With gentle restraint, Bhārgava’s eldest daughter Arajā warns the infatuated king not to touch her by force since he is her father’s disciple, urging him to ask Śukra for her hand lawfully lest the sage’s wrath consume him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य त्वेवं ब्रुवाणस्य मोहोन्मत्तस्य कामिनः ।  
@@ -397,6 +413,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “To Arajā speaking thus (evaṃ bruvāṇām arajām), Daṇḍa, fallen under the sway of lust (kāma-vaśaṃ gataḥ) and crazed with passion (madonmattaḥ), placed his joined palms upon his head (śirasy ādhāya cāñjalim) and replied:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring himself heedless of death or any dreadful curse, Daṇḍa violently assaults the struggling Arajā and flees back to his capital Madhumanta, leaving the terrified maiden weeping outside the hermitage as she awaits her father.
 </details>
 </details>
 

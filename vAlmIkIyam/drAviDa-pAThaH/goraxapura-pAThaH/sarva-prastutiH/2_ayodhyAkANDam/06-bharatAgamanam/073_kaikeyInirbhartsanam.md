@@ -24,6 +24,14 @@ Ayodhya and become his attendant.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that his father is dead and his brothers exiled, grief-stricken Bharata bitterly reproaches Kaikeyī for rubbing salt into his wound and coming like the night of cosmic dissolution to destroy the royal house.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा च स पितुर्वृत्तं भ्रातरौ च विवासितौ ।  
@@ -336,6 +344,14 @@ died, tormented as he was with bitter grief, because of you."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata asks why his dharma-loving father was destroyed and Rāma exiled, pities Kausalyā and Sumitrā, and recalls how Rāma revered Kaikeyī as his own mother while Kausalyā treated her like a sister.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनाशितो महाराजः पिता मे धर्मवत्सलः ।  
@@ -644,6 +660,14 @@ gather for it?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having banished that heroic, self-controlled, and illustrious prince of sinless vision in garments of bark (apāpa-darśanaṃ śūraṃ kṛtātmānaṃ yaśasvinam pravrājya cīra-vasanam), what purpose or fruit do you see (kin nu paśyasi kāraṇam)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata tells Kaikeyī that in her greed she failed to understand his devotion to Rāma: like a young bullock unable to bear a mighty bull’s load, he cannot rule without Rāma, and only Rāma’s filial regard for her prevents him from disowning her.
 </details>
 </details>
 
@@ -970,6 +994,14 @@ Rama did not treat you like a mother at all times."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata condemns Kaikeyī’s violation of ancestral Ikṣvāku law, whereby the eldest son is ever consecrated king while his younger brothers serve him, and laments that the dynasty’s proud moral rectitude has been overturned through her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पन्ना तु कथं बुद्धिस्तवेयं पापदर्शिनी ।  
@@ -1234,6 +1266,14 @@ righteousness alone and who possessed good family conduct, is turned away by you
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Of those monarchs whose sole protection was dharma and who shone by their ancestral conduct (teṣāṃ dharmaika-rakṣāṇāṃ kula-cāritra-śobhinām), the lofty pride of moral rectitude has today been overturned after encountering you (adya cāritra-śauṇḍīryaṃ tvāṃ prāpya vinivartitam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Kaikeyī that even her own Kekaya forebears followed primogeniture, Bharata vows to thwart her wish by bringing Rāma back from the forest and serving him with a steadfast heart, and roars in grief like a mountain lion.
 </details>
 </details>
 

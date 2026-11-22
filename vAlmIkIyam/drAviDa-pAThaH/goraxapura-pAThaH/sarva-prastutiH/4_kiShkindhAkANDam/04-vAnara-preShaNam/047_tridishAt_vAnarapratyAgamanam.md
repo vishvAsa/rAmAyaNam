@@ -25,6 +25,14 @@ out, because he is pursuing the direction in which Seetha was taken away.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dispatched by Sugrīva to find Vaidehī, the monkey chieftains tirelessly search lakes, river-thickets, clearings, cities, and mountain-forests by day, resting only at night beneath fruit-laden trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शनार्थं तु वैदेह्याः सर्वतः कपिकुञ्जराः ।  
@@ -310,6 +318,14 @@ Reaching trees in those regions that bore blossoms of every season and were lade
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the appointed month expires on the thirtieth day, Vinata from the east, Śatabali from the north, and Suṣeṇa from the west return dejected to Sugrīva and Rāma on Mount Prasravaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदहः प्रथमं कृत्वा मासे प्रस्रवणं गताः ।  
@@ -578,6 +594,14 @@ with Rama on the peak of Mt. Prasavana and spoke this to him. [4-47-10]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Approaching and saluting (abhivādya ca) Sugrīva, who was seated together with Rāma upon the ridge of Mount Prasravaṇa (prasravaṇa-pṛṣṭha-stham), they spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reporting that they have searched every mountain, forest, cavern, and giant creature in vain, the three generals assure Sugrīva that noble-born Hanūmān in the south will surely find Maithilī.
 </details>
 </details>
 

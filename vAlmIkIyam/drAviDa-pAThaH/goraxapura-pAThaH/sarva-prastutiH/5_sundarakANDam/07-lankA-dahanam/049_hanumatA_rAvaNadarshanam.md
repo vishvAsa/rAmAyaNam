@@ -25,6 +25,14 @@ but for his gross unrighteousness, which pulled him down.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Astonished by Indrajit's feat yet burning with wrath, Hanūmān beholds Rāvaṇa blazing in his ten-headed majesty like Mount Mandara.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स कर्मणा तस्य विस्मितो भीमविक्रमः ।  
@@ -322,6 +330,14 @@ The hero [Hanūmān beheld him] of mighty energy (mahaujasam), blazing with ten 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān observes Rāvaṇa seated upon his gem-studded crystal throne, fanned by richly adorned women and attended by four chief ministers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नीलाञ्जनचयप्रख्यं हारेणोरसि राजता ।  
@@ -537,6 +553,14 @@ and with whisks in their hands.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Waitingly attended close at hand (ārāt samupasevitam) on all sides (samantataḥ) by richly adorned young women (alaṃkṛtābhir atyarthaṃ pramadābhiḥ) holding chowrie-fans in their hands (vālavyajanahastābhiḥ);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though tormented by his captors, Hanūmān gazes in supreme wonder at Rāvaṇa surrounded by ministers like Indra among the gods.
 </details>
 </details>
 
@@ -820,6 +844,14 @@ and thought in his mind as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing the lord of the rākṣasas blazing thus (bhrājamānam), Hanūmān, dazzled by his splendor (tejasā tasya mohitaḥ), reflected in his mind (manasā cintayāmāsa):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling at Rāvaṇa's imperial marks and terrifying might, Hanūmān reflects that only his unrighteousness keeps him from ruling Indra's heaven.
 </details>
 </details>
 

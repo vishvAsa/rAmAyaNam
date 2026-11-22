@@ -27,6 +27,14 @@ cavity.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joined by Tāra and Crown Prince Aṅgada, Hanumān and the foremost monkey chiefs exhaustively search the rugged caves and southwestern peak of Mount Vindhya as Sugrīva's appointed month expires.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह ताराङ्गदाभ्यां तु सङ्गम्य हनुमान् कपिः ।  
@@ -233,6 +241,14 @@ caves and forests, yet Hanuma, the son of Air-god, searched everywhere on that m
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For that vast region (sa deśo mahān), filled with caves and dense thickets (guhāgahanavān), was exceedingly difficult to search (duranveṣyaḥ); there the son of the Wind-god searched the entire mountain.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhausted by hunger and thirst while scouring the mountain-ringed southern region, the monkeys discover the overgrown cavern Ṛkṣabila, whence water-birds emerge damp and lotus-pollen-stained.
 </details>
 </details>
 
@@ -567,6 +583,14 @@ Rejoicing (saṃhṛṣṭāḥ), radiant and of mighty strength, they drew near
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inferring a subterranean well or lake from the damp waterfowl and verdant trees at the entrance, Hanumān leads the monkeys into the pitch-dark cavern.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पर्वतकूटाभो हनूमान् मारुतात्मजः ॥ १३ ॥  
@@ -852,6 +876,14 @@ exiting therefrom, and entered that cavity which is enshrouded in obscurity. [4-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having observed lions and various beasts and birds [emerging] from it, the monkeys beheld [that cavern] devoid of moon and sun (acandrasūryam) and bristling the hair with terror (romaharṣaṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Linking arms in the terrifying darkness, the famished and desperate monkeys press forward a full league through the cavern until a radiant forest appears.
 </details>
 </details>
 
@@ -1165,6 +1197,14 @@ those heroes, when they had lost all hope of life (nirāśā jīvite yadā), beh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inside the illuminated subterranean grove, the monkeys behold golden trees blazing like fire, lapis-lazuli-pedestaled bowers, and crystal-clear lotus ponds teeming with golden fish.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सालांस्तालांस्तमालांश्च पुन्नागान् वञ्जुलान् धवान् ॥ २५ ॥  
@@ -1365,6 +1405,14 @@ and burly fishes that are golden. [4-50-29b, 30a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkeys marvel at multi-storied mansions with golden lattices and pearl-netted windows, jewel-studded couches, heaps of precious vessels, fragrant woods, and pure provisions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 काञ्चनानि विमानानि राजतानि तथैव च ॥ ३० ॥  
@@ -1432,6 +1480,14 @@ pearls. [4-50-30b-32a]
 **30:** there they beheld lotus ponds (nalinīḥ) endowed with pellucid water (prasannasalilāyutāḥ), and palaces (vimānāni) of gold and likewise of silver.
 
 **31:** [There were mansions] having windows of refined gold (tapanīyagavākṣāṇi), covered with networks of pearls (muktājālāvṛtāni), with stories of gold and silver (haimarājatabhaumāni), and set with cat's-eye gems (vaidūryamaṇimanti);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Searching further amid heaps of rugs, deerskins, and blazing gold, the monkeys behold a radiant ascetic woman in bark-cloth, whom Hanumān reverently questions.
 </details>
 </details>
 

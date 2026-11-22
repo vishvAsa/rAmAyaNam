@@ -23,6 +23,14 @@ dead. He thus gets into depression for a moment.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Searching the creeper-bowers, painted galleries, and night-pavilions in vain, Hanumān fears that chaste Sītā has been slain by Rāvaṇa or died of terror, rendering return to Sugrīva impossible.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य मध्ये भवनस्य संस्थितो  
@@ -391,6 +399,14 @@ My effort became wastefull."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dreading the reproaches of Jāmbavān, Aṅgada, and the monkeys—and contemplating fasting unto death—Hanumān rallies his spirit with the maxim that undaunted perseverance is the root of prosperity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु मां वानराः सर्वे गतं वक्ष्यन्ति सङ्गताः ।  
@@ -688,6 +704,14 @@ Ravana not yet seen."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reviewing the halls already searched, Hanumān explores underground chambers, crossroads pavilions, and rooftop retreats—unbarring doors and leaping everywhere until not four finger-breadths of space remain unsearched.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपानशाला विचितास्तथा पुष्पगृहाणि च ।  
@@ -863,6 +887,14 @@ for four angulas.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That great monkey traversed every single space (sarvam apy avakāśaṃ vicacāra); within that inner palace of Rāvaṇa (rāvaṇāntaḥpure tasmin), there was not a space even four finger-breadths wide (caturaṅgulamātro 'pi nāvakāśaḥ sa vidyate) where that monkey did not go (yaṃ kapir na jagāma saḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inspecting the rampart avenues, sacred caitya platforms, pits, and lotus-ponds, Hanumān beholds misshapen rākṣasīs, peerless vidyādhara ladies, and moon-faced nāga maidens, yet still not Jānakī.
 </details>
 </details>
 
@@ -1096,6 +1128,14 @@ but not Seetha with a beautiful waist.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Exquisitely hipped nāga maidens (nāgakanyā varārohāḥ) with faces resembling the full moon (pūrṇacandranibhānanāḥ) were seen there by Hanumān, but not that daughter of Janaka (na tu sā janakātmajā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding captive nāga princesses but not Janaka’s daughter, and deeming the monkeys’ enterprise and his ocean leap fruitless, Hanumān descends from the Puṣpaka palace in profound grief.
 </details>
 </details>
 

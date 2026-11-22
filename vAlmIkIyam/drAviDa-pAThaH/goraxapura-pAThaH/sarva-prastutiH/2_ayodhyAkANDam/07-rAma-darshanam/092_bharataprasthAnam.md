@@ -33,6 +33,14 @@ his retinue.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed the night and received hospitality, Bharata approaches Bharadvāja after the sage’s morning fire-oblation; asked whether his retinue was well pleased, Bharata replies that all—even the servants and beasts—were sumptuously refreshed.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तां रजनीं व्युष्य भरतः सपरिच्छदः ।  
@@ -354,6 +362,14 @@ accommodation."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata takes leave of Bharadvāja and asks the way and distance to Rāma’s hermitage; the sage directs him two and a half yojanas to Mount Citrakūṭa, the Mandākinī river on its northern flank, and the leaf-hut beyond.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आमन्त्रयेऽहं भगवन् कामं त्वामृषिसत्तम ।  
@@ -644,6 +660,14 @@ it, their hut made of leafy twigs. Both of them are residing there. It is sure."
 **11:** “Bordering its northern flank flows the Mandākinī river (uttaraṃ pārśvam āsādya tasya mandākinī nadī), shaded by blossoming trees and graced with charming flowering groves (puṣpita-druma-sañchannā ramya-puṣpita-kānanā).
 
 **12:** “Immediately beyond that river stands Mount Citrakūṭa, and there stands their leaf-thatched cottage; there, my dear child, those two surely dwell (anantaraṃ tat-saritaś citrakūṭaś ca parvataḥ tayoḥ parṇa-kuṭī tāta tatra tau vasato dhruvam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharadvāja instructs Bharata on the southwestern route for his army; hearing of the march, Daśaratha’s queens alight from their palanquins to clasp the sage’s feet—Kausalyā with Sumitrā, and shamefast Kaikeyī—whereupon the sage asks Bharata to introduce his mothers.
 </details>
 </details>
 
@@ -941,6 +965,14 @@ Then Bharadvāja of firm vows questioned Bharata (tataḥ papraccha bharataṃ b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With joined palms Bharata introduces Queen Kausalyā, who bore Rāma even as Aditi bore Viṣṇu, and Queen Sumitrā clinging to her left arm like a withered karṇikāra branch, mother of the heroic twins Lakṣmaṇa and Śatrughna, before turning to Kaikeyī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु भरतो भरद्वाजेन धार्मिकः ॥ १९ ॥  
@@ -1128,6 +1160,14 @@ and unfailing prowess are the sons of this godly woman, Sumitra.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata denounces Kaikeyī as wrathful, vain, ignoble, and the root of his calamity, hissing like an angry serpent; Sage Bharadvāja consoles him, declaring that Kaikeyī must not be blamed because Rāma’s exile will end in happiness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्याः कृते नरव्याघ्रौ जीवनाशमितो गतौ ।  
@@ -1311,6 +1351,14 @@ of Rama with indeed become ultimately a cause for happiness!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Kaikeyī ought not to be judged with blame by you, O Bharata; for this banishment of Rāma shall issue in happy consequences in the end (na doṣeṇāvagantavyā kaikeyī bharata tvayā rāma-pravrājanaṃ hy etat sukhodarkaṃ bhaviṣyati).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharadvāja declares that Rāma’s exile will bring welfare to gods, Dānavas, and sages; comforted and blessed, Bharata bows, circumambulates the sage, and orders the army to harness the golden horse-chariots, cow-elephants, tuskers, and vehicles.
 </details>
 </details>
 
@@ -1574,6 +1622,14 @@ marched forward by foot.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Vehicles of diverse kinds, both large and small and of great price, moved forward, while the foot-soldiers marched on foot (vividhāny api yānāni mahānti ca laghūni ca prayayuḥ sumahārhāṇi pādair eva padātayaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā and the royal ladies ride forth joyfully in choice palanquins eager to behold Rāma; Bharata mounts a litter gleaming like the young moon and sun, and his vast army marches south across the woods like a rising thundercloud.
 </details>
 </details>
 

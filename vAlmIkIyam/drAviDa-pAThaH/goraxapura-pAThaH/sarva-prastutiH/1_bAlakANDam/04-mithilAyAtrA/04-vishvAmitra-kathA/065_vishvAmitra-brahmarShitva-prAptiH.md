@@ -25,6 +25,14 @@ on him. Thus Sage Shataananda concludes his narration about the legend of Vishva
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Migrating to the eastern quarter, Viśvāmitra observes a thousand-year vow of wooden silence unshaken by obstacles, and when Indra in Brahmin guise begs his breaking-fast meal, silently gives it all away.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ हैमवतीं राम दिशं त्यक्त्वा महामुनिः ।  
@@ -275,6 +283,14 @@ Firm in his resolve (niścitaḥ), the venerable sage of great austerity gave al
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Without uttering a word to the Brahmin, Viśvāmitra holds his breath for another thousand years until smoke issues from the crown of his head, terrifying the three worlds and driving the gods to implore Brahmā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न किञ्चिदवदद् विप्रं मौनव्रतमुपास्थितः ।  
@@ -497,6 +513,14 @@ these lures, angers, and passions by his ascesis. [1-65-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By manifold provocations, O Lord, the great sage Viśvāmitra has been enticed and provoked to wrath (bahubhiḥ kāraṇair lobhitaḥ krodhitaś caiva), yet he only grows mightier through his austerity (tapasā cābhivardhate)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that the quarters are darkened, the oceans convulsed, and the three worlds on the verge of being consumed as if by the fire of universal dissolution, the gods implore Brahmā to propitiate Viśvāmitra.
 </details>
 </details>
 
@@ -848,6 +872,14 @@ appeared before that great souled Vishvamitra and said this harmonious word. [1-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressed by Brahmā as ‘Brahmarṣi’ and blessed with long life, Viśvāmitra bows joyfully and asks that Oṃkāra, Vaṣaṭkāra, and the Vedas choose him, and that Vasiṣṭha himself acknowledge him as a Brahmarṣi.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्मर्षे स्वागतं तेऽस्तु तपसा स्म सुतोषिताः ॥ १९ ॥  
@@ -1074,6 +1106,14 @@ the gods. [1-65-23b, 24]
 **23:** “—then let the sacred syllable Oṃ, the ritual call Vaṣaṭ, and the Vedas themselves embrace me (oṃkāro ’tha vaṣaṭkāro vedāś ca varayantu mām)! And let him who is foremost among the knowers of the Kṣatraveda and of the Brahmaveda as well (kṣatravedavidāṃ śreṣṭho brahmavedavidām api)—
 
 **24:** “—Vasiṣṭha, the son of Brahmā, himself declare me thus (brahmaputro vasiṣṭho mām evaṃ vadatu), O gods! If this supreme desire of mine is fulfilled (yady evaṃ paramaḥ kāmaḥ kṛtaḥ), then let the foremost of the gods depart.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Propitiated by the gods, Vasiṣṭha embraces Viśvāmitra in friendship and hails him as a Brahmarṣi; Viśvāmitra reveres Vasiṣṭha, and Śatānanda concludes his eulogy before Rāma.
 </details>
 </details>
 
@@ -1375,6 +1415,14 @@ Having spoken thus, that foremost of the twice-born (Śatānanda) of great splen
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Joining his palms in reverence before Rāma and Lakṣmaṇa, King Janaka declares himself sanctified by Viśvāmitra’s arrival at his sacrifice and extols the sage’s immeasurable austerity, might, and virtues.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुङ्गव ॥ ३१ ॥  
@@ -1551,6 +1599,14 @@ and oh, son of Kushika, your talents are everlastingly invaluable. [1-65-34b, 35
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Immeasurable is your austerity (aprameyaṃ tapas tubhyam), immeasurable too is your power (aprameyaṃ ca te balam), and immeasurable ever are your virtues, O son of Kuśika (aprameyā guṇāś caiva nityaṃ te kuśikātmaja)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he is never sated with hearing Viśvāmitra’s wondrous deeds, King Janaka notes that the sun is declining toward the hour of evening rites and takes leave until the morrow.
 </details>
 </details>
 

@@ -28,6 +28,14 @@ destruction of demons.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering his assembly hall breathing heavily like an enraged lion, the grief-stricken Rāvaṇa joins his palms in entreaty and orders all his remaining forces to march out against Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि नागसहस्राणि सारोहाणि च वाजिनाम् ।  
@@ -208,6 +216,14 @@ who is charming like the god of love?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Taking up that command (vākyam ādāya) of the lord of Rākṣasas, those Rākṣasas marched forth on swift chariots (niryayus te rathaiḥ śīghraiḥ), accompanied by diverse army divisions (nānānīkaiś ca saṃyutāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beginning at sunrise on the fourteenth lunar day, a ferocious battle erupts between the Vānaras and Rākṣasas, unleashing rivers of blood that lay the battlefield dust.
 </details>
 </details>
 
@@ -483,6 +499,14 @@ and floating timber-rafts of corpses (śarīrasaṃghāṭavahāḥ), rivers of 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though the blood-drenched Vānaras tear apart chariots and swarm over the demons like birds on fruiting trees, the mountain-like Rākṣasas beat them back, driving the monkey host to seek refuge in Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेहीं प्रार्थयानं तं विराधं प्रेक्ष्य राक्षसम् ।  
@@ -751,6 +775,14 @@ the eyes of Ravana)."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon Rāma of great splendor, that heroic one, taking up his bow (dhanur ādāya vīryavān) and entering the Rākṣasa host (praviśya rākṣasaṃ sainyam), rained down a shower of arrows (śaravarṣaṃ vavarṣa ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moving with invisible speed as he scorches the enemy host like the sun behind clouds, Rāma remains unseen like the forest wind or the indwelling Self within the senses.
 </details>
 </details>
 
@@ -1036,6 +1068,14 @@ or otherwise Yama, the Lord of Death himself, is killing us."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deluded by the supreme Gāndharva missile, the Rākṣasas see thousands of Rāmas and slaughter one another, beholding only the whirling golden tip of his bow like a wheel of fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतप्रवीरा रामेण निराशा जीविते वयम् ।  
@@ -1299,6 +1339,14 @@ Having his body for its nave (śarīranābhi), his martial courage for its blazi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the Wheel of Rāma like the Wheel of Time, the Rākṣasas lose their vast fourfold army within an eighth of a day, and the survivors flee into Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदिदं मानुषं मन्ये प्राप्तं निःसंशयं भयम् ।  
@@ -1550,6 +1598,14 @@ cities built of gold, silver and iron in the sky, air and earth for demons."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With their horses slain, their chariots shattered (hatāśvā hatarathāḥ), exhausted, and their banners crushed (vimathitadhvajāḥ), those surviving night-roamers (hataśeṣā niśācarāḥ) rushed back into the city of Laṅkā (abhipetuḥ purīṃ laṅkām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the corpse-strewn battlefield resembles the sporting ground of wrathful Rudra and the gods praise Rāma, Rāma declares to Sugrīva and Vibhīṣaṇa that such missile-power belongs only to himself or Tryambaka.
 </details>
 </details>
 

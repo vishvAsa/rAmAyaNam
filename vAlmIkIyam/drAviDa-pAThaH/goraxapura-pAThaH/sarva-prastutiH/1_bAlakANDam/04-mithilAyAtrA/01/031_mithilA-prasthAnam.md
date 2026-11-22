@@ -31,6 +31,14 @@ towards River SoNa, a tributary of Ganga, and camp on its bank for a night.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having fulfilled their vow at Siddhāśrama, Rāma and Lakṣmaṇa pass the night in gladness, perform their morning rites at dawn, and present themselves before Viśvāmitra as his devoted servants.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तां रजनीं तत्र कृतार्थौ रामलक्ष्मणौ ।  
@@ -301,6 +309,14 @@ at the helm of affairs. [1-31-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When those words had been spoken by the two princes (evam ukte tayor vākye), all the great sages (sarva eva maharṣayaḥ), placing Viśvāmitra at their head (viśvāmitraṃ puraskṛtya), addressed this speech to Rāma (rāmaṃ vacanam abruvan):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The sages invite Rāma to accompany them to the supremely righteous sacrifice of King Janaka of Mithilā to behold the wondrous divine bow that no god, demon, or mortal prince has ever been able to string.
 </details>
 </details>
 
@@ -597,6 +613,14 @@ mighty princes are rendered incapable to string its bowstring. [1-31-10]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Describing how the great bow is worshipped like a deity with incense and fragrant unguents in Janaka’s palace, Viśvāmitra bids farewell to the forest deities of Siddhāśrama and sets forth toward the northern bank of the Gaṅgā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्धनुर्नरशार्दूल मैथिलस्य महात्मनः ।  
@@ -886,6 +910,14 @@ Ganga." [1-31-15]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by a hundred wagons bearing sacrificial implements and even the birds and deer of Siddhāśrama—whom the sages gently turn back—Viśvāmitra’s company journeys far and encamps at sunset on the bank of the Śoṇā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मुनिशार्दूलः कौशिकः स तपोधनः ।  
@@ -1134,6 +1166,14 @@ fire ritual, and then squatted before sage Vishvamitra. [1-31-20b, 21a]
 **19:** Then the sage, together with the host of rishis, gently turned back the birds and deer (nivartayām āsa tataḥ sarṣisaṅghaḥ sapakṣiṇaḥ). Having traveled a long distance (te gatvā dūram adhvānam), as the sun sank low toward the horizon (lambamāne divākare), the hosts of sages made their halt on the bank of the Śoṇā in collected meditation (vāsaṃ cakrur munigaṇāḥ śoṇākūle samāhitāḥ).
 
 **20:** When the sun had set (te ’staṃ gate dinakare), those sages of immeasurable spiritual splendor (amitaujasaḥ), having bathed and offered oblations into the sacred fire (snātvā hutahutāśanāḥ), seated themselves with Viśvāmitra at their head (viśvāmitraṃ puraskṛtya niṣeduḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated before the wise Viśvāmitra after honouring the sages, Rāma eagerly inquires about the history of the prosperous forest-region along the Śoṇā, and the great ascetic begins his narration.
 </details>
 </details>
 

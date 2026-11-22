@@ -26,6 +26,14 @@ He then ascends the chariot along with Sita and Lakshmana and went ahead to the 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Halting upon the lovely bank of the Tamasā as the first night of exile falls, Rāma gazes upon Sītā and counsels Lakṣmaṇa while mourning for Ayodhyā and his weeping parents.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु तमसातीरं रम्यमाश्रित्य राघवः ।  
@@ -341,6 +349,14 @@ become even blind, by weeping incessantly."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And I grieve for my father and for my illustrious mother (mātaraṃ ca yaśasvinīm); alas, may those two, weeping unceasingly (abhīkṣṇaśaḥ) for our sake, not become blind (apī nāndhau bhavetāṃ nau)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comforted by the thought of Bharata’s noble compassion, Rāma praises Lakṣmaṇa’s accompaniment for Sītā’s protection, resolves to fast on water alone, and bids Sumantra tend the horses.
 </details>
 </details>
 
@@ -663,6 +679,14 @@ When the sun had gone down to rest (sūrye 'staṃ samupāgate), Sumantra tether
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After evening twilight, Lakṣmaṇa and Sumantra prepare a leafy bed on the Tamasā bank; while Rāma and Sītā sleep, Lakṣmaṇa recounts Rāma’s virtues to the charioteer until dawn.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपास्य तु शिवां सन्ध्यां दृष्ट्वा रात्रिमुपागताम् ।  
@@ -975,6 +999,14 @@ splendor, spoke to his brother, Lakshmana who was endowed with auspicious bodily
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And rising up, Rāma of mighty splendour, observing those sleeping citizens (prakṛtīs tā niśāmya ca), spoke unto his brother Lakṣmaṇa, who was endowed with auspicious marks (puṇya-lakṣaṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pitying the citizens sleeping at the roots of trees out of devotion to him, Rāma resolves to depart before they wake lest they suffer further hardship on his account.
 </details>
 </details>
 
@@ -1299,6 +1331,14 @@ Lakṣmaṇa spoke unto Rāma, who stood there like Righteousness incarnate (sā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma’s command Sumantra swiftly yokes the finest steeds to the chariot; Rāma mounts with Sītā and Lakṣmaṇa, fords the eddies of the Tamasā, and gains the auspicious highway.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामोऽब्रवीत् सूतं शीघ्रं संयुज्यतां रथः ।  
@@ -1549,6 +1589,14 @@ road free from obstacles and safe even for those who are apprehensive of danger.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having crossed over completely (saṃtīrya), that glorious, mighty-armed prince reached a great highway (mahā-mārgam) that was auspicious, free of thorns (śivam akaṇṭakam), and fearless even for the timid (abhayaṃ bhaya-darśinām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To mislead the sleeping citizens into thinking he has returned toward Ayodhyā, Rāma bids Sumantra drive the empty chariot northward and bring it back before setting out for the forest.
 </details>
 </details>
 

@@ -31,6 +31,14 @@ trees, mountain-tops, nails and teeth.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Informed that Rāma and the Vānara hosts have besieged Laṅkā, an enraged Rāvaṇa doubles the city's defenses and ascends his palace to survey the tawny-covered earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते राक्षसास्तत्र गत्वा रावणमन्दिरम् ।  
@@ -316,6 +324,14 @@ and saw Lanka being guarded on all sides and thronged with demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rāghava, joyful along with his army, advanced toward [the ramparts] (pupluve), and beheld Laṅkā well-guarded (guptām) and encompassed on all sides by rākṣasas.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding banner-decked Laṅkā, Rāma grieves for Sītā suffering in captivity and swiftly commands the Vānara chiefs, who roar like lions and uproot crags and trees.
 </details>
 </details>
 
@@ -635,6 +651,14 @@ Lifting up huge mountain peaks and crags (giriśṛṅgāṇi mahānti śikharā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before the very eyes of Rāvaṇa, the golden-hued Vānara battalions storm Laṅkā, filling the crystal-clear moats with rubble and shattering the golden gateways and Kailāsa-like towers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेक्षतो राक्षसेन्द्रस्य तान्यनीकानि भागशः ।  
@@ -895,6 +919,14 @@ thousands, in crores and even hundreds of crores.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then troop-commanders leading thousands of troops (sahasrayūthāś ca), and others leading tens of millions of troops (koṭiyūthāś ca) or ratusan-crores of troops (koṭiyūthaśatāś cānye), scaled Laṅkā at that moment.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring out victory cries for Rāma, Lakṣmaṇa, and Sugrīva, the Vānara commanders storm Laṅkā's ramparts, array their battle-camps, and blockade the eastern gate.
 </details>
 </details>
 
@@ -1203,6 +1235,14 @@ too up their position, in order to assist Kumuda himself.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 To support him (sahāyārthe tu tasyaiva), the monkey Praghasa took up his post (niviṣṭaḥ), as did the mighty-armed Panasa surrounded by Vānaras.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śatabali and Suṣeṇa blockade the southern and western approaches while Rāma, Lakṣmaṇa, and Sugrīva invest the northern gate, flanked by Gavākṣa, Dhūmra, and mace-wielding Vibhīṣaṇa.
 </details>
 </details>
 
@@ -1531,6 +1571,14 @@ Clad in armor (saṃnaddhas tu) and mace in hand (gadāpāṇiḥ), the mighty V
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While five Vānara leaders patrol the army, wrathful Rāvaṇa orders a general sortie; moon-white kettledrums and myriad conches resound as dark-limbed rākṣasas gleam like crane-lined storm-clouds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजो गवाक्षो गवयः शरभो गन्धमादनः ।  
@@ -1841,6 +1889,14 @@ Those night-stalkers of lustrous dark limbs (śubhanīlāṅgāḥ), holding whi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa's troops surge forth like the ocean at cosmic dissolution; as roars, conches, trumpeting elephants, and chariot wheels shake the world, a fierce battle erupts with blazing weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्पतन्ति ततः सैन्या हृष्टा रावणचोदिताः ।  
@@ -2089,6 +2145,14 @@ In that interval, a terrible battle (ghoraḥ saṃgrāmaḥ) ensued between the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Proclaiming their own feats of valor (kathayantaḥ svavikramān), those [rākṣasas] struck down all the Vānaras with blazing maces (gadābhiḥ pradīptābhiḥ) and with javelins, pikes, and battle-axes (śaktiśūlaparaśvadhaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hurling trees and peaks while shouting their kings' victory cries, the Vānaras leap up from the ground to drag the rampart-stationed rākṣasas into a mire of flesh and blood.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ his army to pass through and reach the city of Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granted sanctuary by Rāghava, the wise Vibhīṣaṇa descends from the sky with his four ministers, falls at Rāma's feet, and surrenders his kingdom, life, and happiness to him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवेणाभये दत्ते सन्नतो रावणानुजः ।  
@@ -310,6 +318,14 @@ at your disposal."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma consoles Vibhīṣaṇa with affectionate words and asks him to report the true strength of the rākṣasas; Vibhīṣaṇa describes Rāvaṇa, Kumbhakarṇa, Prahasta, and the invisible Indrajit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आख्याहि मम तत्त्वेन राक्षसानां बलाबलम् ॥ ७ ॥  
@@ -583,6 +599,14 @@ in battle wielding a bow, becomes invisible."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And there is Indrajit, wearing a lizard-skin finger-guard (baddhagodhāṅgulitrāṇaḥ) and impenetrable armor in battle, who, taking up his bow, becomes invisible (adṛśyaḥ) as he stands [fighting].
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa completes his account of Laṅkā's commanders and ten-thousand-crore host of rākṣasas; Rāma reflects inwardly and declares that he fully understands Rāvaṇa's martial exploits.
 </details>
 </details>
 
@@ -864,6 +888,14 @@ were told by you, as true."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma swears by his three brothers to slay Rāvaṇa even if he flees to the netherworlds or Brahmā's realm, embraces Vibhīṣaṇa, and orders Lakṣmaṇa to bring ocean water for his coronation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हत्वा दशग्रीवं सप्रहस्तं सहात्मजम् ।  
@@ -1121,6 +1153,14 @@ According to my strength, I will also penetrate into the army of the adversary t
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In the slaying of the rākṣasas and the storming (pradharṣaṇe) of Laṅkā, I shall render aid (sāhyam) to the utmost of my strength (yathāprāṇam), and I shall enter [their] army.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's command, Lakṣmaṇa consecrates Vibhīṣaṇa as King of the Rākṣasas amidst the cheering monkeys; asked how the army can cross the sea, Vibhīṣaṇa advises that Rāma seek refuge with the Ocean.
 </details>
 </details>
 
@@ -1493,6 +1533,14 @@ Thus addressed, the righteous-souled (dharmātmā) Vibhīṣaṇa replied: “Ki
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa explains that the Ocean, excavated by Rāma's ancestor Sagara, is bound by kinship to assist him; Sugrīva reports this counsel to Rāma, who approves and seeks Lakṣmaṇa's and Sugrīva's judgment.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खानितः सगरेणायमप्रमेयो महोदधिः ।  
@@ -1760,6 +1808,14 @@ is agreeable to you."
 **35:** In order to honor (satkriyārtham) [Vibhīṣaṇa's counsel], spoke with a smile to [Lakṣmaṇa], skilled in action (kriyādakṣam): “This counsel of Vibhīṣaṇa pleases me, O Lakṣmaṇa.
 
 **36:** “Sugrīva is ever wise (paṇḍitaḥ), and you are discerning in counsel (mantravicakṣaṇaḥ); having deliberated together on the matter (ubhābhyāṃ sampradhāryārtham), declare whatever pleases you both.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva and Lakṣmaṇa wholeheartedly endorse Vibhīṣaṇa's counsel that a bridge must be built across the sea, whereupon Rāma seats himself on kuśa grass along the ocean shore like sacrificial fire upon an altar.
 </details>
 </details>
 

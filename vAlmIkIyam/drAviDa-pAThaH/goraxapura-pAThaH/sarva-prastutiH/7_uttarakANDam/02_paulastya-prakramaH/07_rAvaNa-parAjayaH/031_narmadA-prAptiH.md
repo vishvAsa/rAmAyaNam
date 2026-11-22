@@ -14,6 +14,14 @@ title = "०३१ नर्मदा-प्राप्तिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Astonished that no mortal king checked Rāvaṇa’s rampage across the earth, Rāma questions Agastya, who smiles at his kṣatriya indignation and begins recounting how Rāvaṇa roamed the world oppressing sovereigns.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो महातेजा विस्मयात् पुनरेव हि ।  
@@ -167,6 +175,14 @@ Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agas
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Harassing earthly sovereigns in this very manner (ity evaṃ bādhamānas tu pārthivān), O bull among princes (pārthivarṣabha), Rāvaṇa roamed the earth (cacāra rāvaṇo ... pṛthivīm), O Rāma, O lord of the earth (pṛthivīpate)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching Māhiṣmatī—the fire-guarded capital of the Haihaya king Kārtavīrya Arjuna, equal to Agni himself—Rāvaṇa arrives on the very day Arjuna has gone to sport in the Narmadā, and demands of the ministers where their king is.
 </details>
 </details>
 
@@ -328,6 +344,14 @@ Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning from the citizens that Arjuna has gone, Rāvaṇa turns from Māhiṣmatī toward the sky-scraping Vindhya range—boisterous with cascades, teeming with celestials, and coiled with crystal streams like Ananta—and descends to the sacred Narmadā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा विश्रवसः पुत्रः पौराणामर्जुनं गतम् ॥ १३ ॥  
@@ -442,6 +466,14 @@ Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālmīki paints the Narmadā in an extended metaphor as a lovely woman—with flowering trees for chaplets, cakravākas for breasts, and foam for raiment—into whom Rāvaṇa plunges before praising her as the Gaṅgā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्यमानस्ततो विन्ध्यं रावणो नर्मदां ययौ ।  
@@ -497,6 +529,14 @@ Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agas
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Wearing blossoming trees as her ear-chaplets (phulla-druma-kṛtottaṃsām), having pairs of cakravākas for her twin breasts (cakravāka-yugastanīm), broad sandbanks for her hips (vistīrṇa-pulina-śroṇīm), and rows of geese for her lovely girdle (haṃsāvali-sumekhalām);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by the Narmadā, Rāvaṇa boasts playfully to Śuka, Sāraṇa, and his ministers that sun, breeze, and river all turn mild out of dread of him, and bids his battle-scarred companions bathe in her sin-cleansing waters.
 </details>
 </details>
 
@@ -651,6 +691,14 @@ Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agas
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Do you plunge into this auspicious, bliss-giving Narmadā (te yūyam avagāhadhvaṃ narmadāṃ śarmadāṃ śubhām), like rutting mighty elephants led by Mahāpadma entering the Gaṅgā (mahāpadma-mukhā mattā gaṅgām iva gahāgajāḥ)! Having bathed in this great river, you shall cast off all sin (asyāṃ snātvā mahānadyāṃ pāpmānaṃ vipramokṣyatha)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring his intent to offer flowers to Śiva upon the moon-bright sandbank, Rāvaṇa sends Prahasta, Śuka, Sāraṇa, Mahodara, and Dhūmrākṣa into the Narmadā; after bathing, they heap up a mountain of blossoms, and Rāvaṇa himself enters the stream.
 </details>
 </details>
 
@@ -809,6 +857,14 @@ Hearing Rāghava’s words (rāghavasya vacaḥ śrutvā), the revered sage Agas
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When the flowers had thus been gathered and brought (puṣpeṣūpahṛteṣv evam), Rāvaṇa, lord of the rākṣasas (rāvaṇo rākṣaseśvaraḥ), descended into the river to bathe (avatīrṇo nadīṃ snātum), like a lordly elephant entering the Gaṅgā (gaṅgām iva mahāgajaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathing duly, reciting prayers, and donning white robes, Rāvaṇa proceeds with joined palms as his followers bring his portable golden liṅga; enshrining it on a sand altar, he worships Śiva with fragrant flowers, Sāmaveda song, and dance.
 </details>
 </details>
 

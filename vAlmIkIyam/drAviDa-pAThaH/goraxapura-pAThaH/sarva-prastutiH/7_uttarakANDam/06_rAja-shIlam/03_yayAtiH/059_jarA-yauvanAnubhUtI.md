@@ -13,6 +13,14 @@ title = "०५९ जरा-यौवनानुभूती"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stricken by Uśanas’s curse of premature old age, King Yayāti pleads with his eldest son Yadu to take his decrepitude so he may still enjoy sensual pleasures; when Yadu bitterly refuses, Yayāti turns to his younger son Pūru.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तूशनसं क्रुद्धं तदार्तो नहुषात्मजः ।  
@@ -196,6 +204,14 @@ Hearing those words of his, Yadu replied to that bull among men (pratyuvāca nar
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of his (tasya tad vacanaṃ śrutvā), the king then spoke to Pūru (rājā pūrum athābravīt): “O mighty-armed one (mahābāho), let this old age be accepted by you for my sake (iyaṃ jarā ... mad-arthaṃ pratigṛhyatām)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pūru humbly accepts his father’s old age, enabling Yayāti to enjoy youth, perform thousands of sacrifices, and rule the earth for millennia; at long last, Yayāti reclaims his decrepitude and promises to consecrate Pūru as king.
 </details>
 </details>
 
@@ -391,6 +407,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged at Yadu’s defiance, Yayāti curses him to forfeit kingship, sire fierce rākṣasas, and leave an unruly line excluded from the lunar throne; consecrating Pūru as king, Yayāti retires to the forest and in time ascends to heaven.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा सुतं पूरुं ययातिर्नहुषात्मजः ।  
@@ -583,6 +607,14 @@ Having spoken thus to him (tam evam uktvā), the royal sage honored Pūru, the e
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, after a long stretch of time (tataḥ kālena mahatā), attaining the appointed end of his life (diṣṭāntam upajagmivān), King Yayāti, the son of Nahuṣa, ascended to the threefold heaven (tridivaṃ saṅgato rājā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pūru rules righteously from Pratiṣṭhāna while the exiled Yadu sires yātudhānas in Krauñcavana; Rāma draws the moral of Yayāti’s forbearance and royal duty to all petitioners as dawn reddens the eastern sky.
 </details>
 </details>
 

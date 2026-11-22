@@ -26,6 +26,14 @@ her of the good news. Kausalya becomes delighted at the news and gives Rama her 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After the citizens depart, King Daśaratha resolves with his ministers to consecrate Rāma under the Puṣya asterism on the morrow and sends Sumantra to summon Him again.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गतेष्वथ नृपो भूयः पौरेषु सह मन्त्रिभिः ।  
@@ -299,6 +307,14 @@ completely the purpose of your arrival again."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Ushering him in quickly, Rāma spoke these words: “Tell Me in full what further purpose brings you here again.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned by Sumantra, Rāma hastens to the royal palace, bows from afar, and is warmly embraced by King Daśaratha, who reflects on his fulfilled life and sacrifices.
 </details>
 </details>
 
@@ -621,6 +637,14 @@ food and lots of fees were given away to the officiating priests. "
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having discharged his fivefold debts, King Daśaratha reveals the ominous dreams, falling meteors, and planetary afflictions of his birth-star that compel Rāma’s immediate consecration.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जातमिष्टमपत्यं मे त्वमद्यानुपमं भुवि ।  
@@ -921,6 +945,14 @@ are encroaching my birth star."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And the astrologers (daivajñāḥ) report, O Rāma, that my birth-asterism is beleaguered (avaṣṭabdham) by dread planets—the Sun, Mars, and Rāhu.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that human minds are fickle and such portents bode royal calamity, Daśaratha enjoins Rāma and Sītā to observe the preparatory fast on darbha grass tonight.
 </details>
 </details>
 
@@ -1236,6 +1268,14 @@ And let Your vigilant friends guard You on every side today, for undertakings of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging that the consecration take place while Bharata is abroad, Daśaratha dismisses Rāma, who proceeds to Queen Kausalyā’s sanctuary where she is praying in silence.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विप्रोषितश्च भरतो यावदेव पुरादितः ।  
@@ -1512,6 +1552,14 @@ There in the sanctuary of the deities (devatāgāre) He beheld His mother clad i
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attended by Sumitrā, Sītā, and Lakṣmaṇa, Queen Kausalyā meditates on Lord Janārdana through prāṇāyāma as Rāma bows and announces His morrow’s consecration.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रागेव चागता तत्र सुमित्रा लक्ष्मणस्तथा ।  
@@ -1722,6 +1770,14 @@ salutation and spoke the following words making her delighted.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Approaching her as she was thus engaged in her vow and bowing low, Rāma spoke this excellent speech, gladdening her:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks Kausalyā to perform the auspicious rites for Himself and Sītā, and Kausalyā blesses Him with tears of joy.
 </details>
 </details>
 
@@ -2008,6 +2064,14 @@ your father king Dasaratha was propitiated by your virtues."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Under an auspicious asterism indeed were You born of Me, O dear son, whereby Your father Daśaratha has been won over by Your virtues!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā rejoices that her vows to the lotus-eyed Lord have borne fruit, and Rāma invites Lakṣmaṇa—His second inner self—to share the sovereignty of the earth.
 </details>
 </details>
 

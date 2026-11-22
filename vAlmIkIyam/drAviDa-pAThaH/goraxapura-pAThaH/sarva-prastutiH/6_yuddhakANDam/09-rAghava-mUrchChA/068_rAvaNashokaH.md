@@ -26,6 +26,14 @@ in the past.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the mighty Kumbhakarṇa slain by Rāghava, the terrified rākṣasas report his fall to Rāvaṇa, who faints away in overwhelming grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुम्भकर्णं हतं दृष्ट्वा राघवेण महात्मना ।  
@@ -253,6 +261,14 @@ grief and fell down, fainted.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that the mighty Kumbhakarṇa had been slain in battle (śrutvā vinihataṃ saṃkhye), Rāvaṇa, scorched by grief (śokasaṃtaptaḥ), swooned away and collapsed (mumoha ca papāta ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Devāntaka, Narāntaka, Triśiras, Atikāya, Mahodara, and Mahāpārśva weep for Kumbhakarṇa, Rāvaṇa regains consciousness and laments the loss of his right arm.
 </details>
 </details>
 
@@ -568,6 +584,14 @@ when I had no fear of celestials and ogres, has fallen down."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Truly I exist no more today (idānīṃ khalv ahaṃ nāsmi), since this right arm of mine (dakṣiṇo'yaṃ bhujaḥ) has fallen—relying upon which (samāśritya) I never feared gods or asuras!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa marvels that Kumbhakarṇa, who withstood Indra's thunderbolt, has fallen to Rāma's shafts, and declares kingship, Sītā, and life itself worthless without him.
 </details>
 </details>
 
@@ -889,6 +913,14 @@ death, but in no case this useless life which has no meaning."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 If I do not slay Rāghava, the slayer of my brother (bhrātṛhantāram), in battle, surely death is preferable for me (nanu me maraṇaṃ śreyaḥ), and not this futile life (na cedaṃ vyarthajīvitam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Remorseful for having spurned the righteous Vibhīṣaṇa's salutary counsel, Rāvaṇa recognizes Kumbhakarṇa's death as the bitter fruit of that sin and collapses again.
 </details>
 </details>
 

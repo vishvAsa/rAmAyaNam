@@ -28,6 +28,14 @@ Ayodhya and assume its rulership.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoured in the midst of his kinsmen, Rāma absolves Daśaratha of infatuation by disclosing that the king had promised the kingdom to Kaikeyī’s father as a bride-price at her wedding and later granted her two boons in the war between gods and asuras.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनरेवं ब्रुवाणं तं भरतं लक्ष्मणाग्रजः ।  
@@ -328,6 +336,14 @@ The sovereignty for you, O tiger among men, and exile into the forest for me (ma
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he has entered the forest with Lakṣmaṇa and Sītā to uphold their father’s word, Rāma urges Bharata to release Daśaratha from his debt through immediate consecration and cites the ancient verse chanted by King Gaya at Gayā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन पित्राहमप्यत्र नियुक्तः पुरुषर्षभ ।  
@@ -603,6 +619,14 @@ For there is heard an ancient Vedic adage (śrutiḥ), O dear brother, chanted i
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Quoting the sacred etymology of putra as the son who rescues his father from the hell named Put and the maxim that one among many sons should journey to Gayā, Rāma commands Bharata to save Daśaratha and return to Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुन्नाम्नो नरकाद् यस्मात् पितरं त्रायते सुतः ।  
@@ -814,6 +838,14 @@ and give joy to the people there."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Go back to Ayodhyā, O heroic Bharata, accompanied by Śatrughna and together with all the twice-born Brāhmaṇas (saha sarvair dvijātibhiḥ), and gladden the subjects (prakṛtīr anurañjaya)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting Bharata’s rule over men beneath the royal parasol with his own sovereignty over forest beasts beneath woodland shade, Rāma pairs Śatrughna with Bharata and Lakṣmaṇa with himself so all four sons may uphold Daśaratha’s truth.
 </details>
 </details>
 

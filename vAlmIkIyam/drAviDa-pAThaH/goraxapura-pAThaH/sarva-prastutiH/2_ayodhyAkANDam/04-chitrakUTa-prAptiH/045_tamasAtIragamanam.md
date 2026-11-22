@@ -24,6 +24,14 @@ in vain. Rama along with all of them reach the bank of Tamasa.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Daśaratha has been turned back, the devoted citizens of Ayodhyā refuse to leave Rāma’s chariot; gazing on them as on his own children, Rāma begs them to bestow their love and honour upon Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरक्ता महात्मानं रामं सत्यपराक्रमम् ।  
@@ -338,6 +346,14 @@ Ayodhya) may for my satisfaction be bestowed in a special measure on Bharata.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever love and high esteem the dwellers of Ayodhyā bear toward me (yā prītiḥ bahu-mānaḥ ca mayi ayodhyā-nivāsinām), let that be bestowed in even greater measure upon Bharata for my sake (mat-priya-artham viśeṣeṇa bharate sā vidhīyatām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Bharata as mature in wisdom though young in years, Rāma urges the citizens to obey him and console Daśaratha, yet the more Rāma cleaves to dharma, the more his virtues draw the weeping people after him like cords.
 </details>
 </details>
 
@@ -660,6 +676,14 @@ With Saumitri at his side (rāmaḥ saumitriṇā saha), Rāma seemed to drag al
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aged Brāhmaṇas with trembling heads cry out from afar to the chariot-horses to carry Rāma back to the city rather than into the forest; seeing their anguish, Rāma dismounts and walks on foot with short steps.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते द्विजास्त्रिविधं वृद्धा ज्ञानेन वयसौजसा ।  
@@ -977,6 +1001,14 @@ Then, together with Sītā and accompanied by Lakṣmaṇa (sa-sītaḥ saha-lak
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Too compassionate to outstrip the Brāhmaṇas by chariot, Rāma walks on; the Brāhmaṇas follow with their sacred fires upon their shoulders and offer to shade him with the white parasols of their Vājapeya sacrifices.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विजातीन् हि पदातींस्तान् रामश्चारित्रवत्सलः ।  
@@ -1252,6 +1284,14 @@ are being scored with rays (of the sun.)"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that the Vedas abide in their hearts and their wives are guarded by chastity, the white-haired Brāhmaṇas bow their dust-soiled heads to the earth, pleading that their unfinished sacrifices depend upon Rāma’s return.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 या हि नः सततं बुद्धिर्वेदमन्त्रानुसारिणी ।  
@@ -1518,6 +1558,14 @@ Their completion, oh dear child, depends on your return"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The sacrifices of many twice-born Brāhmaṇas who have come here have been commenced and spread out (bahūnām vitatāḥ yajñāḥ dvijānām ye iha āgatāḥ); their completion, O dear child, depends upon your turning back (teṣām samāptiḥ āyattā tava vatsa nivartane).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even the rooted trees tossing in the wind and the motionless birds fasting on the branches implore Rāma to return; the Tamasā river appears as if barring his path, and Sumantra unyokes and waters the horses on its bank.
 </details>
 </details>
 

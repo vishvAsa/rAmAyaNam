@@ -13,6 +13,14 @@ title = "०९५ सीता-शपथ-व्यवस्था"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After listening for many days and discovering through the poem itself that Kuśa and Lava are Sītā’s sons, Rāma dispatches trusted messengers to Vālmīki, inviting Sītā—if she consents with the sage’s approval—to perform a public oath of purity at dawn.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो बहून्यहान्येव तद् गीतं परमं शुभम् ।  
@@ -171,6 +179,14 @@ Thus for many days Rāma listened to that supremely auspicious song (rāmo bahū
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Tomorrow at dawn let Maithilī, daughter of Janaka (śvaḥ prabhāte tu ... maithilī janakātmajā), perform an oath in the midst of the assembly (śapathaṃ ... karotu pariṣan-madhye) for my own exoneration as well (śodhanārthaṃ mamaiva ca).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma’s messengers bow before the radiant Vālmīki and deliver his gentle words; discerning Rāma’s heart, the sage consents that Sītā will obey as a devoted wife, and upon hearing their report an overjoyed Rāma addresses the assembled sages and kings.
 </details>
 </details>
 
@@ -360,6 +376,14 @@ Thus addressed by the sage (tathoktā muninā sarve), all the royal messengers s
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Kākutstha, greatly gladdened upon hearing the words of that great-souled one (tataḥ prahṛṣṭaḥ kākutsthaḥ śrutvā vākyaṃ mahātmanaḥ), addressed the sages and kings gathered there (ṛṣīṃs tatra sametāṃś ca rājñaś caivābhyabhāṣata):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inviting all sages, kings, and anyone else who desires or doubts to witness Sītā’s oath at dawn, Rāma wins roaring applause from the sages and warm praise from the kings, then dismisses the assembly with the next day’s solemn rite resolved.
 </details>
 </details>
 

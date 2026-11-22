@@ -25,6 +25,14 @@ them as the sons of Dasharatha and informs about the adventurous deeds the boys 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proceeding northeast from Gautama’s hermitage to King Janaka’s sacrificial enclosure, Rāma marvels at the thousands of Vedic scholars and cart-filled sage encampments, and Viśvāmitra selects a secluded, watered lodging.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रागुत्तरां गत्वा रामः सौमित्रिणा सह ।  
@@ -234,6 +242,14 @@ has refreshing water. [1-50-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing the words of Rāma, the great sage Viśvāmitra established their lodging in a secluded and pure spot well supplied with water (rāmasya vacanaṃ śrutvā viśvāmitro mahāmuniḥ nivāsam akarod deśe vivikte salilānvite).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing his blameless family priest Śatānanda at the head of his officiating priests, King Janaka hastens forth in humility to offer scriptural arghya to Viśvāmitra.
 </details>
 </details>
 
@@ -499,6 +515,14 @@ he joyfully met and embraced all the sages according to their rank (yathārham �
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once Viśvāmitra, Śatānanda, the officiating priests, and the king with his ministers have taken their seats according to protocol, Janaka declares that the very sight of the sage has brought him the fruit of his sacrifice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकस्य वचः श्रुत्वा निषसाद महामुनिः ॥ ११ ॥  
@@ -722,6 +746,14 @@ ritual." So said king Janaka to Vishvamitra. [1-50-15b, 16a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inviting Viśvāmitra to behold the gods when they arrive for their sacrificial shares at the close of the twelve-day rite, King Janaka gazes in wonder at Rāma and Lakṣmaṇa and asks whose sons they are.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मुनिशार्दूलं प्रहृष्टवदनस्तदा ॥ १६ ॥  
@@ -765,6 +797,14 @@ inquisitively with adjoined palms and with a gladdened face. [1-50-16b, 17a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “after which, O Kauśika, you shall behold the gods coming to claim their sacrificial shares (tato bhāgārthino devān draṣṭum arhasi kauśika).” Having spoken thus to that tiger among sages, with a joyful countenance (ity uktvā muniśārdūlaṃ prahṛṣṭavadanas tadā),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his inquiry with admiration for the sidelock-wearing princes, Janaka hears Viśvāmitra recount their royal lineage, their deeds at Siddhāśrama, Ahalyā’s redemption, and their arrival to test the great bow.
 </details>
 </details>
 

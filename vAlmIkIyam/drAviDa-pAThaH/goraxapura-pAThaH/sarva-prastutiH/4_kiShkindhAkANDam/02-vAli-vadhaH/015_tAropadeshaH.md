@@ -30,6 +30,14 @@ intellect by his brawny might slights her far fetching advice.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Sugrīva's world-shaking roar inside his inner apartments, golden-hued Vālī loses his pride in wrath and rushes forth, whereupon alarmed Tārā embraces him and speaks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्य निनादं तं सुग्रीवस्य महात्मनः ।  
@@ -352,6 +360,14 @@ Showing her deep affection (darśitasauhṛdā), Tārā embraced him out of love
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tārā implores Vālī to cast off his surging wrath like a discarded morning garland, warning that Sugrīva's immediate return and confident roar after defeat betray a powerful ally.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु क्रोधमिमं वीर नदीवेगमिवागतम् ।  
@@ -646,6 +662,14 @@ these will not have a trivial reason, isn't it. [4-15-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Such as are his pride and his resolve (darpaś ca vyavasāyaś ca yādṛśaḥ) as he roars (tasya nardataḥ), and the vehemence of his battle-cry (ninādasya ca saṃrambhaḥ)—surely this is no trifling cause (naitad alpam hi kāraṇam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inferring that prudent Sugrīva would never ally with untested might, Tārā recounts Prince Aṅgada's intelligence report that Ayodhyā's invincible princes Rāma and Lakṣmaṇa have come as Sugrīva's allies.
 </details>
 </details>
 
@@ -948,6 +972,14 @@ unassailable ones have chanced there at Sugreeva's place to fulfil the longing d
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—those two unassailable heroes (durāsadau) have arrived there to fulfill Sugrīva's cherished wish (sugrīvapriyakāmārtham prāptau tatra); and he [Rāma] is your brother's renowned ally in the work of battle (sa te bhrātur hi vikhyātaḥ sahāyo raṇakarmaṇi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Rāma as the doomsday fire to foes, the shelter-tree of the righteous, and a mine of virtues, Tārā urges Vālī to shun hostility and consecrate Sugrīva as crown prince.
 </details>
 </details>
 
@@ -1298,6 +1330,14 @@ resolute one, let there be no hostility to your own younger brother. [4-15-23b, 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tārā pleads with Vālī not to wage war against his younger brother, urging him to seek Rāma's friendship and win Sugrīva back to his side with gifts and honors.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हि ते क्षमं मन्ये तेन रामेण सौहृदम् ॥ २४ ॥  
@@ -1449,6 +1489,14 @@ at your side. [4-15-26b, 27]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By honors such as gifts and marks of respect (dānamānādisatkāraiḥ), make him your intimate next-in-rank (kuruṣva pratyanantaram); having cast aside this enmity (vairam etat samutsṛjya), let him stand at your side (tava pārśve sa tiṣṭhatu)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that Vālī has no refuge other than fraternal amity and must not fight Kosala's prince who equals Indra, Tārā concludes her salutary plea, which doomed Vālī rejects.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ then he is thrown in throes of despair.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Lakṣmaṇa approaching dejected and alone without Vaidehī, the righteous Rāma questions him in anguish, declaring that without Sītā he desires neither the sovereignty of the immortals nor the earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दृष्ट्वा लक्ष्मणं दीनं शून्यं दशरथात्मजः ।  
@@ -339,6 +347,14 @@ no more what happens to her abduction, Ravana's elimination, and my pledge to go
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bitterly imagining Kaikeyī's triumph and bereaved Kausalyā's humiliation should he die for Sītā, Rāma vows to abandon his life if Vaidehī no longer greets him with her radiant smile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतानिमित्तं सौमित्रे मृते मयि गते त्वयि ।  
@@ -610,6 +626,14 @@ guard is she consumed by demons, either? [3-58-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Tell me, O Lakṣmaṇa, whether Vaidehī is alive or not (jīvati vā na vā), or whether, while you were heedless (tvayi pramatte), the poor lady (tapasvinī) was devoured by night-stalking demons (rakṣobhir bhakṣitā)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inferring that Mārīca's counterfeit cry terrified Vaidehī into sending Lakṣmaṇa away, Rāma laments that leaving her alone gave the flesh-eating demons an opening to avenge Khara's death.
 </details>
 </details>
 
@@ -893,6 +917,14 @@ have liquidated Seetha by now. There is no doubt about it. [3-58-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The flesh-eating demons (rākṣasāḥ piśitāśanāḥ) are aggrieved by the slaying of Khara (khara-ghātena); without doubt (na saṃśayaḥ), Sītā will have been slain (nihatā bhaviṣyati) by those dreadful ones!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunged into calamity, Rāghava hurries back to Janasthāna with Lakṣmaṇa, and upon finding his hermitage and Sītā's pleasure-haunts deserted, he stands bristling and stricken with anguish.
 </details>
 </details>
 

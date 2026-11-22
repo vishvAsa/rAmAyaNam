@@ -24,6 +24,14 @@ is quite a reality. She prays Lord Brihaspati and Brahma to make he words spoken
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Hanūmān nestled among the branches in a white garment with golden eyes, Sītā is struck with wonder and fear, swooning anew and lamenting for Rāma and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शाखान्तरे लीनं दृष्ट्वा चलितमानसा ।  
@@ -236,6 +244,14 @@ saying "O, Rama! O, Rama! and "O Lakshmana!". Seetha wept faintly in a low voice
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bewildered by fear (bhaya-mohitā), the noble lady Sītā lamented piteously and sore, stricken with grief, crying “O Rāma, Rāma! O Lakṣmaṇa!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping softly lest the rākṣasīs hear, Sītā wonders whether the monkey before her is an inauspicious dream, prays for Rāma’s welfare, and then refutes the dream hypothesis because grief denies her sleep.
 </details>
 </details>
 
@@ -535,6 +551,14 @@ from Rama whose countenance resembles a full moon, there is no happiness indeed!
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet surely this is not a dream (svapno hi nāyam), for sleep is never mine (na hi me 'sti nidrā), tormented as I am by grief and sorrow. Indeed, there is no happiness for me since I am parted from him whose countenance resembles the full moon (tenendu-pūrṇa-pratimānanena).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Testing whether the vision is born of her ceaseless meditation on Rāma, Sītā recognizes Hanūmān’s tangible form and prays to Bṛhaspati, Indra, Brahmā, and Agni that his words prove true.
 </details>
 </details>
 

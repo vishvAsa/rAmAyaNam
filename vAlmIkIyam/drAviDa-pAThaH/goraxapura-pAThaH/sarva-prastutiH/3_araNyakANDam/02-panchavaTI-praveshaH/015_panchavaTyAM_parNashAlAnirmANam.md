@@ -27,6 +27,14 @@ Rama entrusts the construction work of a parNa shaala, straw-cottage
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arriving at Pañcavaṭī, Rāma asks Lakṣmaṇa to select an auspicious site for their hermitage near water, level ground, and sacrificial supplies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पञ्चवटीं गत्वा  
@@ -326,6 +334,14 @@ of Seetha. [3-15-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Rāma (evam uktas tu rāmeṇa), Lakṣmaṇa, with joined palms (saṃyatāñjaliḥ), spoke these words to Kākutstha in the presence of Sītā (sītā-samakṣam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lakṣmaṇa professes his eternal dependence upon Rāma, the pleased prince clasps his brother’s hands and chooses a level site near a fragrant lotus-pond and the Godāvarī.
 </details>
 </details>
 
@@ -647,6 +663,14 @@ beautified with kaarandava, and chakravaaka birds, as that contemplated soul sag
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma admires the bird-thronged Godāvarī and the surrounding mountains, whose mineral-streaked slopes shine like painted royal elephants amidst flowering forest trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंसकारण्डवाकीर्णा चक्रवाकोपशोभिता ।  
@@ -871,6 +895,14 @@ and thus they brighten the mountains. [3-15-16, 17, 18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma’s word, mighty Lakṣmaṇa swiftly constructs a spacious leaf-cottage with mud walls, bamboo roof-beams, śamī rafters, and a leveled floor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं पुण्यमिदं रम्यमिदं बहुमृगद्विजम् ।  
@@ -1058,6 +1090,14 @@ Raghava alone, and it resulted as a feast to the eye. [3-15-21, 22, 23]
 **22:** —spreading it over with branches of śamī trees (śamī-śākhābhir āstīrya), lashed fast with strong cords (dṛḍha-pāśāvapāśitām), and well-thatched (suparicchāditāṃ tathā) with kuśa, kāśa, and śara reeds and leaves;
 
 **23:** —and having leveled its floor (samīkṛta-talām), he of swift valor (laghu-vikramaḥ) fashioned that lovely, peerless, and sightly dwelling (nivāsaṃ prekṣaṇīyam anuttamam) for the sake of Rāghava (rāghavasyārthe).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathing in the Godāvarī, Lakṣmaṇa brings lotuses and fruits, performs the vāstupūjā and śānti rites for the new cottage, and shows the completed hermitage to Rāma.
 </details>
 </details>
 
@@ -1264,6 +1304,14 @@ friendly words to him. [3-15-27]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Greatly delighted (susaṃhṛṣṭaḥ), embracing Lakṣmaṇa with both arms (pariṣvajya bāhubhyāṃ lakṣmaṇam) at that time, he spoke these deeply affectionate (atisnigdhaṃ ca) and earnest words (gāḍhaṃ ca vacanam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestowing a heartfelt embrace upon Lakṣmaṇa as his reward and declaring that through such a son Daśaratha is not dead, Rāma dwells happily at Pañcavaṭī like an immortal in heaven.
 </details>
 </details>
 

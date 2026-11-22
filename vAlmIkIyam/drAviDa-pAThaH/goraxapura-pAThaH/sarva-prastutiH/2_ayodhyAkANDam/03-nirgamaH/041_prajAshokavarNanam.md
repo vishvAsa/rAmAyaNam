@@ -15,6 +15,14 @@ title_english = "041 The Grief"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma departs with folded hands, a great cry of anguish arises among the women of the inner apartments, who lament the loss of their unfailing refuge and protector.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिंस्तु पुरुषव्याघ्रे निष्क्रामति कृताञ्जलौ ।  
@@ -332,6 +340,14 @@ truthful Rama to the forest!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The queens wail like cows bereft of their calves, ritual fires and household duties cease across Ayodhyā, elephants and kine shun their feed, and fierce planets gather around the moon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सर्वा महिष्यस्ता विवत्सा इव धेनवः ।  
@@ -569,6 +585,14 @@ menacing aspect and got stayed with the moon.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Triśaṅku, red-limbed Mars (lohitāṅgaḥ), and both Jupiter and Mercury (bṛhaspati-budhau api)—all the planets became fierce (dāruṇāḥ) and stood confronting the moon (somam abhyetya vyavasthitāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The stars lose their lustre, the Viśākhā constellation appears shrouded in smoke, the city trembles like a storm-tossed ocean, and the citizens cry out in anguish against the king.
 </details>
 </details>
 
@@ -826,6 +850,14 @@ burning sighs and bewailed about the departure of the Lord of the earth.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Scorched by wave after wave of grief (śoka-paryāya-saṃtaptaḥ) and constantly heaving long sighs (satatam dīrgham ucchvasan), all the people in Ayodhyā cried out in lamentation over the lord of the earth (cukrośa jagatī-patim).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Along the royal highway no joyful face is seen, the elements lose their benignity, family bonds are forgotten in thoughts of Rāma, and Ayodhyā shakes and groans like the earth bereft of Indra.
 </details>
 </details>
 

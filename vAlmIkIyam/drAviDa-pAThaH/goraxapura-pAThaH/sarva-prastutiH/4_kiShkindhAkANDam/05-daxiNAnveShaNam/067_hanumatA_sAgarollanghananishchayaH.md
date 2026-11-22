@@ -29,6 +29,14 @@ Monkeys...' concludes.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Hanumān swell with speed and fiery energy like Lord Nārāyaṇa striding the three worlds, the joyful monkeys praise him as he lashes his tail like a lion in a cavern.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा जृम्भमाणं ते क्रमितुं शतयोजनम् ।  
@@ -314,6 +322,14 @@ around a wide-open den of a mountain. [4-67-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even as a lion stretches himself (yathā vijṛmbhate siṃhaḥ) in a wide-open mountain cavern (vivṛte girigahvare), so now does the direct son of the Wind expand himself (tathā samprati jṛmbhate).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his face blazing like a smokeless fire or a glowing frying-pan, Hanumān salutes the elders and proclaims that as Vāyu's son he can circle Mount Meru a thousand times.
 </details>
 </details>
 
@@ -661,6 +677,14 @@ shoreline in a fashion of misdemeanour, all through the creation, shall I make i
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān proclaims that his thigh-blast will convulse the ocean, that he can circle Garuḍa in flight a thousand times, and that he can outrun the sun before it sets.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममोरुजङ्घावेगेन भविष्यति समुत्थितः ।  
@@ -935,6 +959,14 @@ which all of its water will trail after my tail... [4-67-18]
 **17:** “I am able to outstrip (utsaheyam atikrāntum) all who course through the sky (sarvān ākāśagocarān); I shall dry up the oceans (sāgarān śoṣayiṣyāmi) and cleave the earth asunder (dārayiṣyāmi medinīm)!
 
 **18:** “A leaper (plavaṅgamaḥ), as I leap (plavamānaḥ) I shall pulverize the mountains (parvatāṃś cūrṇayiṣyāmi); leaping with the force of my thighs (uruvegena plavamānaḥ), I shall carry off the great ocean (hariṣyāmi mahārṇavam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān declares that blossoms will trail his flight like the starry path of Svātī in the sky, and that none save Garuḍa or Vāyu can follow him as he flashes like lightning.
 </details>
 </details>
 
@@ -1253,6 +1285,14 @@ rocketing from a black-cloud in a trice? [4-67-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Within the mere space of an eyelash-twinkling (nimeṣāntaramātreṇa), I shall suddenly descend (sahasā nipatiṣyāmi) through the supportless sky (nirālambanam ambaram), like lightning flashing forth from a cloud (ghanād vidyud ivotthitā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prophesying that his form over the ocean will resemble Viṣṇu striding the three worlds and that he will surely behold Vaidehī, Hanumān fills the monkey host with wonder and joy.
 </details>
 </details>
 
@@ -1590,6 +1630,14 @@ of his kinsmen, then the king of fly-jumpers Jambavanta is very much gladdened a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing that Hanumān has dispelled his kinsmen's grief, Jāmbavān pronounces the elders' blessings and vows that the monkeys will stand on one foot until his return, whereupon Hanumān selects Mount Mahendra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीर केसरिणः पुत्र वेगवन् मारुतात्मज ॥ ३१ ॥  
@@ -1878,6 +1926,14 @@ Rama who is other who can possibly do so...'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that only the firm, mineral-streaked peaks of Mount Mahendra can bear the thrust of his hundred-yojana leap, Hanumān ascends the wooded, beast-thronged mountain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतानीह नगस्यास्य शिलासङ्कटशालिनः ॥ ३६ ॥  
@@ -2155,6 +2211,14 @@ where the flights of birds are uproarious, and pent-up rapids are clangourous. [
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Equal in prowess to Indra himself, Hanumān strides across the lofty peaks of Mount Mahendra, causing the mountain to roar like a lion-struck elephant as its crags, beasts, and semi-divine denizens scatter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महद्भिरुच्छ्रितं शृङ्गैर्महेन्द्रं स महाबलः ।  
@@ -2321,6 +2385,14 @@ waterfalls have spouted out of that mountain by the impact of foot-stepping of H
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With its masses of rock scattered abroad (viprakīrṇaśiloccayaḥ), its deer and elephants terrified (vitrastamṛgamātaṅgaḥ), and its great trees violently shaken (prakampitamahādrumaḥ), it gushed forth torrents of water (mumoca salilotpīḍān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As hissing serpents protrude like banners and frightened sages abandon the quaking mountain, the resolute Hanumān fixes his mind on his speed and mentally reaches Laṅkā.
 </details>
 </details>
 

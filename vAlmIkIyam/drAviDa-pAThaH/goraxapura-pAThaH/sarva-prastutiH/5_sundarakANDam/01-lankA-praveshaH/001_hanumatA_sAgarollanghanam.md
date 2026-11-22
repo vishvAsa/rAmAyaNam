@@ -27,6 +27,14 @@ Hanuma's encountering of Mainaka, Surasa and Simhika form important phases of Hi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolved to trace Sītā abducted by Rāvaṇa along the sky-path of the Cāraṇas, mighty Hanumān strides like a bull and a lion across Mount Mahendra’s mineral-rich slopes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रावणनीतायाः सीतायाः शत्रुकर्षणः ।  
@@ -289,6 +297,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And constantly (abhīkṣṇam) frequented by shape-shifting (kāmarūpibhiḥ) Yakṣas, Kiṃnaras, and Gandharvas accompanied by their retinues (saparicchadaiḥ), god-like and attended by Pannagas (sapannagaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing on Mahendra’s elephant-thronged slope, Hanumān salutes Sūrya, Mahendra, Pavana, Brahmā, and all beings, swells to immense size like the tide-swollen sea, and presses the mountain.
 </details>
 </details>
 
@@ -600,6 +616,14 @@ Pressed down by the monkey, that mountain (acalaḥ) shook (cacāla) swiftly for
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mantled in fallen blossoms, Mount Mahendra exudes water like a rutting elephant,extrudes veins of gold, antimony, and silver, casts out smoking boulders, and echoes with the cries of cave-creatures.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन पादपमुक्तेन पुष्पौघेण सुगन्धिना ।  
@@ -895,6 +919,14 @@ That great uproar of creatures (sattvasannādaḥ), born from the cause of the m
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged serpents bite the rocks until they blaze and shatter beyond the power of healing herbs, while terrified ascetics and Vidyādharas flee into the sky, abandoning their banqueting gear and weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिरोभिः पृथुभिर्नागा व्यक्तस्वस्तिकलक्षणैः ।  
@@ -1083,6 +1115,14 @@ And whatever clusters of medicinal herbs (auṣadhajālāni) grew upon that moun
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thinking, 'This mountain is being cleft by elemental powers (bhūtaiḥ)!', ascetics (tapasvinaḥ) and terrified Vidyādharas sprang up (utpetuḥ) from it together with their troops of women (strīgaṇaiḥ saha),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Garlanded Vidyādharas and their jewel-decked consorts hover in the sky, hearing the celestial sages, Cāraṇas, and Siddhas proclaim Hanumān’s resolve to leap across Varuṇa’s ocean for Rāma’s sake.
 </details>
 </details>
 
@@ -1438,6 +1478,14 @@ Desiring to perform (cikīrṣan) a feat hard to accomplish for the sake of Rām
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Hanumān from the sky, the Vidyādharas watch him shake his pelt, roar like a thundercloud, lash his serpent-like tail, crouch on his haunches, and summon his inner power.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति विद्याधरा वाचः श्रुत्वा तेषां तपस्विनाम् ।  
@@ -1760,6 +1808,14 @@ Drawing in (saṃhṛtya) his two arms and likewise his neck (śirodharām), tha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Holding his breath in his heart and planting his feet firmly with ears drawn back, Hanumān vows to the Vānaras to reach Laṅkā like Rāma’s arrow and return with Sītā or bind Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्गमालोकयन् दूरादूर्ध्वप्रणिहितेक्षणः ।  
@@ -1976,6 +2032,14 @@ along with Seetha or I will get Lanka along with Ravana after uprooting it."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Binding Rāvaṇa, the king of the Rākṣasas (rākṣasarājānam), I shall bring him (ānayiṣyāmi) here; by all means (sarvathā), having accomplished my task (kṛtakāryaḥ), I shall return with Sītā!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his roar with a vow to uproot Laṅkā itself, Hanumān springs into the sky like Garuḍa, drawing mountain trees behind him in the wind of his thighs like kinsmen and soldiers.
 </details>
 </details>
 
@@ -2244,6 +2308,14 @@ Borne up by the force of his thighs (ūruvegotthitāḥ), the trees followed (an
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Uprooted by the force of his thighs (ūruvegonmathitāḥ), śāla trees and other foremost trees (nagottamāḥ) followed Hanumān, like soldiers (sainyā iva) following a lord of the earth (mahīpatim).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trailing flowering trees, Hanumān gleams like a mountain lit by fireflies and a rising cloud ringed with lightning, while the heavy trees and blossoms plunge into the sea like stars.
 </details>
 </details>
 
@@ -2582,6 +2654,14 @@ With that fragrant, many-colored mass of blossoms (puṣpaugheṇa), the Vānara
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn with blossoms, the sea mirrors the starry sky while Hanumān’s outstretched arms resemble five-hooded serpents, his tawny eyes blaze like sun and moon, and his coppery face glows like the twilight sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वेगसमुद्भूतैः पुष्पैस्तोयमदृश्यत ।  
@@ -2885,6 +2965,14 @@ With his coppery nose (nāsikayā tāmrayā), his coppery face (mukhaṃ tāmram
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his upcurled tail gleaming like Indra’s banner and a solar halo, his coppery haunches like red chalk ore, and his armpits thundering like clouds, Hanumān streaks like a northern meteor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लाङ्गूलं च समाविद्धं प्लवमानस्य शोभते ।  
@@ -3180,6 +3268,14 @@ which increases its size when being festered by a rope.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Resembling the flying sun (patatpataṅgasaṃkāśaḥ), the outstretched (vyāyataḥ) monkey shone like a huge elephant (pravṛddha iva mātaṅgaḥ) being bound with a girth-rope (kakṣyayā badhyamānayā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a wind-driven ship with his body aloft and shadow plunged in the waves, Hanumān churns the sea into frenzy, buffeting mountain-high billows and crossing peaks like Meru and Mandara.
 </details>
 </details>
 
@@ -3492,6 +3588,14 @@ Mandara, that had risen up in the sea, as if counting them.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Possessed of great speed, he passed over (atyakrāmat) waves rising up (udgatān) in the vast ocean like Meru and Mandara (merumandarasaṃkāśān), as though counting them (gaṇayann iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spray flung into the clouds gleams like autumn mist, bared sea-creatures appear like unclothed bodies, ocean serpents mistake Hanumān for Garuḍa, and his thirty-yojana shadow trails him like white clouds.
 </details>
 </details>
 
@@ -3814,6 +3918,14 @@ Of great fiery energy and huge body (mahātejā mahākāyaḥ), that great monke
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Furrowing the sea into a trough and dragging multi-hued clouds like the Wind, Hanumān darts in and out of cloud-banks like the moon while celestials shower blossoms and Sūrya and Vāyu refresh him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येनासौ याति बलवान् वेगेन कपिकुञ्जरः ।  
@@ -4127,6 +4239,14 @@ The sun did not scorch (tatāpa na hi taṃ sūryaḥ) that lord of Vānaras as 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As sages, gods, Gandharvas, Nāgas, Yakṣas, and Rākṣasas praise the tireless Vānara, the Ocean recalls his debt to King Sagara of the Ikṣvākus and resolves to offer Hanumān a resting place.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषयस्तुष्टुवुश्चैनं प्लवमानं विहायसा ।  
@@ -4425,6 +4545,14 @@ I must arrange matters so (tathā mayā vidhātavyam) that the monkey may rest (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Ocean addresses the submerged golden mountain Maināka, reminding him how Indra stationed him as a bolt against the Asuras of Pātāla and urging him to rise so Hanumān may rest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति कृत्वा मतिं साध्वीं समुद्रश्छन्नमम्भसि ।  
@@ -4720,6 +4848,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Assistance must be rendered by me (sāhyaṃ mayā kāryam) to this hero who abides in the service of the Ikṣvāku house (ikṣvākukulavartinaḥ); the Ikṣvākus are worthy of my worship (mama pūjyāḥ), and still more supremely worthy of yours (paraṃ pūjyatamās tava).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by the Ocean to honor Rāma’s compassion, Sītā’s exile, and Hanumān’s toil by offering hospitality, golden-wombed Maināka bursts upward from the waves like the sun cleaving a rain-cloud.
 </details>
 </details>
 
@@ -5043,6 +5179,14 @@ Cleaving the water of the ocean (sāgarajalaṃ bhittvā), he then rose to a tow
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enjoined by Sāgara, golden-peaked Mount Maināka rises from the brine to scrape the firmament, only for Hanūmān to strike him down with his chest like wind scattering a cloud.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स महात्मा मुहूर्तेन पर्वतः सलिलावृतः ।  
@@ -5328,6 +5472,14 @@ Then that great monkey of mighty speed (mahāvegaḥ) struck down (pātayāmāsa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thrilled by Hanūmān's irresistible force, Maināka assumes human form upon his summit and declares that Sāgara, nurtured by Sagara's race, wishes to honor Rāma's emissary in eternal reciprocity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदासादितस्तेन कपिना पर्वतोत्तमः ।  
@@ -5567,6 +5719,14 @@ worshipping in lieu of Sri Rama, you who is desirous of Sri Rama's welfare."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘That Ocean (sāgaraḥ) honors in return (pratyarcayati) you who are devoted to Rāma's welfare (rāmahite); when a service has been rendered, a return service must be performed (pratikartavyam)—this is the eternal law (dharmaḥ sanātanaḥ).’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Maināka repeats Sāgara's plea that Hanūmān rest upon his ridges and savor his fragrant roots and fruits, praising the hero as a noble guest and Māruta's peerless son.
 </details>
 </details>
 
@@ -5874,6 +6034,14 @@ though ordinary is to be respected. What else can I say in the case of a great g
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘For you are the son of the great-souled Māruta, the foremost of the gods (devavariṣṭhasya), and his exact equal in speed (vegena sadṛśaḥ), O elephant among monkeys!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Maināka relates how in the Kṛta age, when Indra clipped the wings of flying mountains with his thunderbolt, the Wind-god Vāyu swept him to safety in the salt sea.
 </details>
 </details>
 
@@ -6186,6 +6354,14 @@ immediately by the great Vayu."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Maināka earnestly begs him to rest, Hanūmān declines to tarry because the day is waning and his vow forbids stopping, touching the peak affectionately as he speeds onward.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहं मानयामि त्वां मान्योऽसि मम मारुते ।  
@@ -6475,6 +6651,14 @@ also been given by me. I should not stand here in the middle neglecting my duty.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, the heroic bull among monkeys touched (ālabhya) the mountain with his hand (pāṇinā) and, entering the sky, sped on as though smiling (prahasann iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessed by the mountain and the sea, Hanūmān soars higher along his father's aerial path while the gods and Thousand-Eyed Indra himself praise golden Maināka.
 </details>
 </details>
 
@@ -6783,6 +6967,14 @@ The wise lord of Śacī (śacīpatiḥ) himself, out of deep satisfaction (parit
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indra grants golden-navelled Maināka immunity from fear for aiding Rāma's emissary, after which the gods and sages enlist the serpent-mother Surasā to test Hanūmān further.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हिरण्यनाभ शैलेन्द्र परितुष्टोऽस्मि ते भृशम् ।  
@@ -7060,6 +7252,14 @@ Then the gods together with the gandharvas, siddhas, and supreme sages spoke to 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prompted by the gods to test whether Hanūmān will prevail by stratagem or despair, Surasā rises from mid-ocean in a monstrous rākṣasa form and commands him to enter her jaws.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं वातात्मजः श्रीमान् प्लवते सागरोपरि ।  
@@ -7312,6 +7512,14 @@ all, and stopping Hanuma who was flying, spoke these words.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘You have been assigned (pradiṣṭaḥ) by the lords (īśvaraiḥ) as my food (mama bhakṣyaḥ), O bull among monkeys! I shall devour you (tvāṃ bhakṣayiṣyāmi)—enter this mouth of mine!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Surasā gapes her jaws citing Brahmā's ancient boon, Hanūmān cheerfully recounts Rāma's mission and promises to return to her mouth after beholding Sītā, yet she refuses passage.
 </details>
 </details>
 
@@ -7628,6 +7836,14 @@ Thus addressed by Hanūmān, Surasā, able to assume any form at will (kāmarūp
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Insisting that Hanūmān must enter her mouth today, Surasā matches his expanding bulk as they swell from ten and twenty yojanas to thirty and forty across the sky.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रयान्तं समुद्वीक्ष्य सुरसा वाक्यमब्रवीत् ।  
@@ -7880,6 +8096,14 @@ forty yojanas high. The courageous Hanuma then became fifty yojanas high.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Hanūmān, incensed, swelled to thirty yojanas in breadth (triṃśadyojanam āyataḥ), and Surasā made her mouth forty yojanas high (catvāriṃśat tathocchritam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Surasā expands her jaws to a hundred yojanas, the sagacious Hanūmān shrinks to the size of a thumb, darts in and out of her mouth, and stands in the sky.
 </details>
 </details>
 
@@ -8160,6 +8384,14 @@ Then, darting into (abhipadya) that mouth and emerging (niṣpatya ca) again, th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Released like the moon from Rāhu's jaws, Hanūmān receives Surasā's blessing in her true form and soars like Garuḍa into the cloud-strewn, Vidyādhara-thronged sky.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टोऽस्मि हि ते वक्त्रं दाक्षायणि नमोऽस्तुते ।  
@@ -8406,6 +8638,14 @@ Having approached the unassailable (anādhṛṣyam) ocean, the abode of Varuṇ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like Garuḍa, Māruti courses through the Brahma-fashioned canopy of the living world, resplendent with celestial chariots, stars, planets, sages, gandharvas, and Vidyādharas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेविते वारिधाराभिः पतगैश्च निषेविते ।  
@@ -8544,6 +8784,14 @@ in various ways by excellent courageous groups of Vidyadharas.
 **179:** Traversed by the elephants of the king of the gods (devarājagajākrānte), the auspicious path of the moon and the sun (candrasūryapathe śive), the outstretched canopy of the world of living beings (vitāne jīvalokasya), fashioned by Brahmā (brahmanirmite);
 
 **180:** Frequented manifoldly by heroes and encompassed by troops of vidyādharas (vidyādharagaṇair vṛte)—along that path of the Wind (vāyumārge) coursed Māruti like Garutmān (garutmān iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sweeping through dark and multicolored clouds like the monsoon moon, Hanūmān is spotted by the demoness Siṃhikā, who seizes his shadow from the waves below.
 </details>
 </details>
 
@@ -8795,6 +9043,14 @@ forcefully, with disabled power."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Grown old (pravṛddhā) and able to assume any form at will (kāmarūpiṇī), reflected in her mind: ‘Today, after a long time (dīrghasya kālasya), I shall be well fed (bhaviṣyāmy aham āśitā)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Feeling his momentum checked like a great ship buffeted by a headwind, Hanūmān spots the shadow-grasping demoness Siṃhikā described by Sugrīva and swells like a monsoon cloud.
 </details>
 </details>
 
@@ -9098,6 +9354,14 @@ Seeing the body of that great monkey expanding (vardhamānam), she stretched wid
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring like a cloud-bank, Siṃhikā rushes upon Hanūmān, who contracts his frame, plunges into her maw, rips open her vital organs with his sharp claws, and springs back into the sky.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श ततस्तस्या विकृतं सुमहन्मुखम् ॥ १९३ ॥  
@@ -9375,6 +9639,14 @@ That foremost hero among monkeys, self-possessed (ātmavān), grew great again w
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sky-roaming beings acclaim Hanūmān's fourfold virtue of steadfastness, vision, wisdom, and dexterity as he approaches the further shore and sights the forest groves at the hundredth yojana.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां हतां वानरेणाशु पतितां वीक्ष्य सिंहिकाम् ।  
@@ -9588,6 +9860,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having nearly reached the further shore (prāptabhūyiṣṭhapāras tu) and gazing all around (sarvataḥ parilokayan), at the end of the hundred yojanas (yojanānāṃ śatasyānte) he beheld a line of forest groves (vanarājīm).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending toward the tree-decked island and its coastal groves, the sagacious Hanūmān reflects that his cloud-like bulk would arouse the rākṣasas' curiosity and contracts to his natural form.
 </details>
 </details>
 
@@ -9863,6 +10143,14 @@ Uddalaka and coconut trees.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, contracting (saṃkṣipya) that mountain-like body (tan mahīdharasaṃnibham), he resumed his natural form (punaḥ prakṛtim āpede), like a self-realized sage freed from delusion (vītamoha ivātmavān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contracting his form like Viṣṇu after striding the three steps over Bali, Hanūmān alights upon the ketaka- and coconut-crowned peak of Mount Lamba and beholds Laṅkā shining like Amarāvatī.
 </details>
 </details>
 

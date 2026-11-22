@@ -13,6 +13,14 @@ title = "०१४ सूर्य-भानु-यक्ष-हतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marching swiftly to Mount Kailāsa with his six battle-hungry ministers as though scorching the worlds in wrath, Rāvaṇa halts the respectful Yakṣas, who decline to fight their king’s brother until Kubera formally authorizes them for war.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स सचिवैः सार्धं षड‍‍्भिर्नित्यबलोद्धतः ।  
@@ -151,6 +159,14 @@ Passing over cities, rivers, mountains, forests, and pleasure-groves (purāṇi 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having gone there, they reported everything that his brother intended to do (sarvam ācakhyur bhrātus tasya cikīrṣitam); and once authorized by Dhanada [Kubera] (anujñātā ... dhanadena), they marched forth exultantly to battle (yayur hṛṣṭā yuddhāya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kubera’s hosts surge forth like an ocean shaking Kailāsa and unsettle Rāvaṇa’s six ministers; roaring in wrath, Rāvaṇa plunges into the fray, hemmed in and battered breathlessly by weapon-showers like torrents from rainclouds.
 </details>
 </details>
 
@@ -312,6 +328,14 @@ As for those dreadfully valorous ministers of the Rākṣasa lord (rākṣasendr
 **11:** Struck from every side by maces, pestles, swords, spears, and lances (gadābhir musalair asibhiḥ śakti-tomaraiḥ hanyamānaḥ), Daśagrīva plunged straight into that host (tat sainyaṃ samagāhata).
 
 **12:** Battered there until left as though breathless (nirucchvāsavat tatra vadhyamānaḥ), the ten-faced Rāvaṇa (daśānanaḥ) was hemmed in by showers of missiles (dhārābhir avarudhyata), as though by torrents from pouring rainclouds (varṣadbhir iva jīmūtaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unmoved as a rain-drenched mountain, Rāvaṇa swings his death-like mace and burns through the Yakṣa army like wind-driven wildfire; his ministers scatter the remnants like clouds, leaving wounded Yakṣas collapsing like crumbling riverbanks.
 </details>
 </details>
 
@@ -504,6 +528,14 @@ Exhausted (śrāntāḥ), with their weapons fallen from their hands (bhraṣṭ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the heavens crowded by ascending heroes and watching sages, Kubera sends forth Saṃyodhakaṇṭaka, whose discus fells Mārīca from Kailāsa like a falling star; yet Mārīca rallies to rout him, while Rāvaṇa breaches the palace’s jeweled gateway.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतानां गच्छतां स्वर्गं युध्यतामथ धावताम् ।  
@@ -690,6 +722,14 @@ Yet regaining consciousness within a moment (sasañjñas tu muhūrtena) and rest
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon he [Rāvaṇa] entered the interior of the grand gateway (toraṇāntaram āviśat), adorned with gold (kāñcana-citrāṅgam) and dusted with cat’s-eye gems (vaiḍūrya-rajasokṣitam)—the boundary line guarded by the gatekeepers (maryādāṃ pratihārāṇām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the gatekeeper Sūryabhānu uproots the massive gateway beam to strike him, Rāvaṇa—protected by Brahmā’s boon—seizes that very arch-beam and pulverizes the Yakṣa into dust, driving the terrified Yakṣa remnants into rivers and mountain caverns.
 </details>
 </details>
 

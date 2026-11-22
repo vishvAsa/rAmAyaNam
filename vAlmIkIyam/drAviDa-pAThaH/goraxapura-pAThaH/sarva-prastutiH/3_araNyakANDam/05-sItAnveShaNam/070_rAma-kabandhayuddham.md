@@ -24,6 +24,14 @@ elated for his accursed state is over at the hands of Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taunted by the hungry Kabandha while pinned in the noose of his arms, Lakṣmaṇa urges Rāma to sever the monster's massive limbs with their swords rather than slay an immobile creature outright.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु तत्र स्थितौ दृष्ट्वा भ्रातरौ रामलक्ष्मणौ ।  
@@ -365,6 +373,14 @@ but not this beastly demon who is aggressive and contemplating a regicide...'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Kabandha opens his cavernous mouth to devour them, Rāma and Lakṣmaṇa swiftly sever his right and left arms at the shoulders with their swords, felling the roaring Dānava in torrents of blood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् सञ्जल्पितं श्रुत्वा तयोः क्रुद्धस्तु राक्षसः ।  
@@ -645,6 +661,14 @@ Seeing his two arms severed (nikṛttau bhujau) and bathed in torrents of blood 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Replying to the fallen Dānava, Lakṣmaṇa introduces Rāma as the exiled heir of the Ikṣvākus and explains that they have come thither searching for Rāma's abducted queen.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तस्य ब्रुवाणस्य लक्ष्मणः शुभलक्षणः ।  
@@ -825,6 +849,14 @@ and wishing to retrieve her we came here... [3-70-15]
 **14:** “When his sovereignty was obstructed by his [step-]mother (mātrā pratihate rājye), Rāma was sent forth into exile (pravrājito vanam), and he roams (caraty eṣa) this great forest together with me and his wife (bhāryayā ca).
 
 **15:** “While this hero of divine majesty (deva-prabhāvasya) was dwelling in the solitary forest (vijane vane), his wife was carried off by a rākṣasa (rakṣasāpahṛtā bhāryā); seeking her (yām icchantau), we two have come here (ihāgatau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned in turn by Lakṣmaṇa about his headless, broken-shanked form, Kabandha joyfully recalls Indra's prophecy of his deliverance and offers to recount how his insolence brought on his deformity.
 </details>
 </details>
 

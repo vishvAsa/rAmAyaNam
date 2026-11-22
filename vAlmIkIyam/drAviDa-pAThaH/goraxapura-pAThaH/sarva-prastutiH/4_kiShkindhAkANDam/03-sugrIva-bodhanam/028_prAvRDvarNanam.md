@@ -26,6 +26,14 @@ here.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dwelling atop Mount Mālyavat after slaying Vālin and crowning Sugrīva, Rāma addresses Lakṣmaṇa at the onset of the monsoon, comparing the cloud-draped firmament to a wounded, love-stricken lover.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तदा वालिनं हत्वा सुग्रीवमभिषिच्य च ।  
@@ -382,6 +390,14 @@ Having the gentle breeze for its sighs (mandamārutiniḥśvāsam), smeared with
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma sees Sītā's grief in the steaming earth and flashing lightning, while mountain peaks resemble newly crowned Sugrīva and chanting Vedic initiates robed in dark clouds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा घर्मपरिक्लिष्टा नववारिपरिप्लुता ।  
@@ -733,6 +749,14 @@ of Ravana. [3-28-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The lightning flashing (vidyut sphurantī) against the dark cloud (nīlameghāśritā) appears to me like poor Vaidehī (vaidehīva tapasvinī) struggling upon Rāvaṇa's lap (rāvaṇasyāṅke).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With planets veiled by clouds, blooming kuṭajas inflaming Rāma's longing, royal marches halted, and cakravāka birds migrating to Mānasa, mountain torrents rush down red with mineral ore.
 </details>
 </details>
 
@@ -1153,6 +1177,14 @@ The mountain rivers (śailāpagāḥ) swiftly carry down fresh water (navaṃ ja
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ripe jambu and mango fruits fall, clouds thunder like battle-elephants with lightning-banners, crane-garlands adorn the sky, and the green-turfed earth glows with scarlet indragopa insects.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसाकुलं षट्पदसन्निकाशं  
@@ -1567,6 +1599,14 @@ With its fresh green turf (navaśādvalena) variegated in between by young scarl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sleep approaches Keśava, rivers rush to the sea, peacocks dance in kadamba-blooming woods, and rain-struck bees shed their nectar-intoxication while clustering like charcoal dust on jambu boughs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निद्रा शनैः केशवमभ्युपैति  
@@ -1974,6 +2014,14 @@ the branches of those trees shine forth as though swilled by hives of honeybees.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With abundant fruits rich in ample juice (suparyāptarasaiḥ samṛddhaiḥ) resembling heaps of charcoal dust (aṅgāracūrṇotkarasaṃnikāśaiḥ), the branches of the jambū trees shine forth as though being drunk up by swarms of bees (nipīyamānā iva ṣaṭpadaughaiḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clouds gleam like battle-ready elephants whose thunder turns back a rival tusker, while forest glades resemble festive drinking-halls and concert-stages with bee-lutes, frog-beats, and cloud-drums.
 </details>
 </details>
 
@@ -2393,6 +2441,14 @@ With the sweet melody of bee-lute strings (ṣaṭpādatantrīmadhurābhidhānam
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Peacocks stage a forest concert, frogs awaken from long torpor, rivers rush like proud brides to the ocean, dark clouds pile like charred mountains, and bees seek fresh kadambas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्वचित् प्रनृत्तैः क्वचिदुन्नदद्भिः  
@@ -2791,6 +2847,14 @@ Swiftly forsaking the lotuses (drutaṃ parityajya saroruhāṇi) whose filament
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While elephants rut, bulls rejoice, kings stay still, and Indra sports with clouds, torrential floods submerge riverbanks, cloud-jars consecrate mountains like kings, and waterfalls hang like pearl necklaces.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्ता गजेन्द्रा मुदिता गवेन्द्रा  
@@ -3165,6 +3229,14 @@ Washed clean by rain-streams (dhārāvidhautāni), the mighty peaks of the mount
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mountain cascades scatter like broken pearl necklaces in peacock-echoing caves, birds and lotuses mark the unseen sunset, floods level roads and enmities, and Vedic recitation begins in Bhādrapada.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलोपलप्रस्खलमानवेगाः  
@@ -3529,6 +3601,14 @@ In the month of Prauṣṭhapada [Bhādrapada] (māsi prauṣṭhapade), for Bra
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma pictures Bharata observing the Āṣāḍhī vow and the swelling Sarayū, contrasts Sugrīva's marital and royal bliss with his own crumbling grief, and explains his silence during the rains.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवृत्तकर्मायतनो नूनं सञ्चितसञ्चयः ।  
@@ -3850,6 +3930,14 @@ any campaign, and even the pathways are rendered highly impassable I have not sa
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing this impossibility of marching (ayātrāṃ caiva dṛṣṭvemām) and the exceedingly impassable roads (mārgāṃś ca bhṛśadurgamān), even though Sugrīva bows submissively (praṇate caiva sugrīve), nothing has been spoken by me (na mayā kiṃcid īritam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reluctant to burden newly reunited Sugrīva and trusting a hero's gratitude, Rāma awaits the clearing of the rivers and Sugrīva's favor, while Lakṣmaṇa counsels patience until autumn.
 </details>
 </details>
 

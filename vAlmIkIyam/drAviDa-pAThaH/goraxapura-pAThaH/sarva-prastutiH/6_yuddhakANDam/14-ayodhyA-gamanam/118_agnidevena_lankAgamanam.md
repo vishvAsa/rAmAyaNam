@@ -22,6 +22,14 @@ and restores her to Rama, testifying to her purity. Rama later joyfully accepts 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Maithilī standing modestly at his side, Rāma proclaims that by slaying Rāvaṇa on the battlefield he has fulfilled his vow, wiped away the outrage, and overcome adverse fate through human valor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा शुभं वाक्यं  
@@ -284,6 +292,14 @@ her glances."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 What use is there for the prowess—even if great—of a narrow-minded man (alpacetasaḥ) who does not wipe away by his own splendor (tejasā) an insult that has befallen him?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising the fruitful labors of Hanūmān, Sugrīva, and Vibhīṣaṇa as Sītā weeps like a startled doe, Rāma—his heart torn in two by fear of public scandal—addresses her before the monkeys and Rākṣasas.
 </details>
 </details>
 
@@ -610,6 +626,14 @@ In the midst of the monkeys and Rākṣasas, he spoke to the fair-hipped Sītā 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing Sītā's recovery to the sage Agastya's conquest of the unassailable southern quarter, Rāma declares that he waged war to clear his dynasty's stain and cannot bear her presence while her chastity is doubted.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्यं चापि लोकेषु  
@@ -874,6 +898,14 @@ Standing before me with suspicion fallen upon your character (prāptacāritrasa�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissing Janaka's daughter to go wherever she pleases across the ten directions, Rāma asks how any high-born man of spirit could take back a woman who has dwelt in another's house and been touched by Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** हि **शक्तः** सुदुष्टात्मा  
@@ -1083,6 +1115,14 @@ saying what is conducive to our good, must be certainly carried out by me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That goal for which you were won back by me has now been attained by me; I have no attachment (abhiṣvaṅgaḥ) toward you—go wherever you please.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Telling Sītā to seek shelter with Lakṣmaṇa, Bharata, Śatrughna, Sugrīva, or Vibhīṣaṇa since Rāvaṇa could never have restrained himself before her beauty, Rāma reduces the proud princess to tears like a creeper struck by an elephant's trunk.
 </details>
 </details>
 

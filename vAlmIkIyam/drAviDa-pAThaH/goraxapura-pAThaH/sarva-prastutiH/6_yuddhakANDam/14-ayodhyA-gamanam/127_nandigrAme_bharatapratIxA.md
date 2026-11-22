@@ -27,6 +27,14 @@ car to return to Kubera, the lord of riches to whom it originally belonged.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On the fifth lunar day at the completion of his fourteenth year of exile, Rāma arrives at Bharadvāja's hermitage, reverently salutes the sage, and inquires after Ayodhyā, Bharata, and his mothers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु परमानन्दं भरतः सत्यविक्रमः ।  
@@ -247,6 +255,14 @@ and the even places be made flat."
 **5:** “Aforetime (purā), when I beheld you clad in bark-garments (cīravasanam) entering the great forest with a woman as your third companion (strītṛtīyam), deprived of your kingdom and intent solely upon righteousness (dharmakāmaṃ ca kevalam),
 
 **6:** “walking on foot (padātim), having relinquished all your possessions (tyaktasarvasvam) in obedience to your father's command (pitṛnirdeśakāriṇam), forsaken by all royal pleasures like an immortal fallen from heaven (svargacyutam ivāmaram)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharadvāja contrasts his former sorrow at seeing Rāma enter the forest in bark garments with his present joy at Rāma's triumph, recounting all that transpired from Janasthāna to Hanūmān's exploit.
 </details>
 </details>
 
@@ -557,6 +573,14 @@ chariot-warriors issued forth in their chariots, with speed.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing that he knows all of Rāma's deeds in Laṅkā through his yogic tapas, Bharadvāja invites Rāma to accept his hospitality until tomorrow and offers him a boon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्त्यृष्टिपाशहस्तानां सध्वजानां पताकिनाम् ॥ १३ ॥  
@@ -713,6 +737,14 @@ _________________
 **17:** “I too, O foremost of weapon-bearers (śastrabhṛtāṃ vara), grant you a boon here today! Pray accept this guest-offering (arghyam); tomorrow (śvaḥ) you shall proceed to Ayodhyā.”
 
 **18:** Bowing his head to receive that speech of his (śirasā vākyam pratigṛhya), the glorious prince joyously replied, “So be it (bāḍham)!” and asked for his boon (varam ayācata):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's request, Bharadvāja grants that for three yojanas along the road to Ayodhyā all trees immediately bear out-of-season nectar-scented fruits and flow with honey for the monkeys.
 </details>
 </details>
 

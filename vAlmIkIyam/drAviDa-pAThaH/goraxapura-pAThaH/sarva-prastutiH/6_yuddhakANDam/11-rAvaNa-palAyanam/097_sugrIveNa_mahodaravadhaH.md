@@ -26,6 +26,14 @@ get exhausted. Finally, Sugreeva cuts off Mahodara's head with a huge sword.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the monkeys flee like moths before fire or elephants engulfed in flames beneath Rāvaṇa's arrows, Sugrīva stations Suṣeṇa in command of his post and resolves to enter the fray.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्यमाने बले तूर्णमन्योन्यं ते महामृधे ।  
@@ -339,6 +347,14 @@ Beholding those monkeys routed and put to flight in battle (bhagnān vidrāvitā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Armed with a giant tree and followed by troop-leaders bearing crags and forest trees, Sugrīva crushes the rākṣasa ranks like the wind at cosmic dissolution and rains down mountain boulders.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स कदनं चक्रे वानराणां महाबलः ।  
@@ -636,6 +652,14 @@ who was endowed with a great energy, hurled it with an aim to kill the demon.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck by those showers of crags loosed by the monkey king (kapirāja-vimuktais taiḥ śaila-varṣaiḥ), the rākṣasas fell with their heads shattered (vikīrṇa-śirasaḥ petuḥ), like cloven mountains (vikīrṇā iva parvatāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the rākṣasa ranks perishing beneath Sugrīva's assault, Virūpākṣa leaps from his chariot onto an elephant, rallies his troops, and pierces Sugrīva, who slays the elephant with a tree.
 </details>
 </details>
 
@@ -951,6 +975,14 @@ Then, uprooting a tree (pādapam uddhṛtya), the heroic monkey, intent on battl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As his crushed elephant collapses, Virūpākṣa leaps clear with bull-hide shield and sword, dodges a cloud-like boulder hurled by Sugrīva, and strikes the monkey king down with a sword-blow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गदापरिघहस्तौ तौ युधि वीरौ समीयतुः ।  
@@ -1207,6 +1239,14 @@ him. Those two weapons, clashing each other, broke and fell on the floor.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck by the mighty rākṣasa with that blow of the sword (tena khaḍga-prahāreṇa), the monkey fell upon the ground for a moment as if unconscious (muhūrtam abhavad bhūmau visaṃjña iva vānaraḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Springing up to strike Virūpākṣa's chest with his fist, Sugrīva has his armour sheared off by Virūpākṣa's sword; trading thunderous blows, the monkey king watches for a fatal opening.
 </details>
 </details>
 
@@ -1490,6 +1530,14 @@ swords upraised.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and seeing his own blow evaded (mokṣitaṃ cātmano dṛṣṭvā prahāram) by that rākṣasa, that monkey watched for an opening (dadarśāntaram) in that Virūpākṣa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spotting an opening, Sugrīva smites Virūpākṣa on the temple with a thunderbolt-like palm-blow, felling him in a torrent of blood as the monkey and rākṣasa armies surge like the swollen Gaṅgā.
 </details>
 </details>
 

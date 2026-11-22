@@ -33,6 +33,14 @@ progeny. The three queens on consuming that dessert conceive their children.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entreated by the foremost gods, the omniscient Lord Nārāyaṇa gently asks by what stratagem Rāvaṇa may be slain; the gods recount Brahmā’s boon and pray that Viṣṇu assume a human form.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नारायणो विष्णुर्नियुक्तः सुरसत्तमैः ।  
@@ -290,6 +298,14 @@ earlier at the time of bestowing boon. [1-16-5, 6a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Well-pleased, the Lord granted a boon to that rākṣasa: that he should have no fear from manifold classes of beings (nānāvidhebhyo bhūtebhyaḥ), save only from man (nānyatra mānuṣāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having disdained mortals when asking for his boon, Rāvaṇa now ravages the three worlds; hearing this, Lord Viṣṇu chooses King Daśaratha as His father and vanishes as the Prājāpatya Puruṣa rises from the sacrificial fire.
 </details>
 </details>
 
@@ -570,6 +586,14 @@ Then indeed, out of the sacrificial fire of that sacrificing monarch (yajamānas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clad in red garments, roaring like a kettle-drum, and bearing in both arms a golden, silver-lidded bowl of divine pāyasa like a cherished wife, the Prājāpatya Puruṣa addresses King Daśaratha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृष्णं रक्ताम्बरधरं रक्तास्यं दुन्दुभिस्वनम् ।  
@@ -826,6 +850,14 @@ Thereupon, with folded hands, the king replied: “O venerable Lord, welcome be 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Prājāpatya Puruṣa presents the heaven-wrought pāyasa to Daśaratha, instructing him to give it to his worthy queens; the king receives the golden bowl upon his head and circumambulates the radiant Being.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो पुनरिदं वाक्यं प्राजापत्यो नरोऽब्रवीत् ।  
@@ -1038,6 +1070,14 @@ being in his appearance, and performed circumambulations around him. [1-16-22]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having fulfilled his mission, the radiant Being vanishes into the sacrificial fire; Daśaratha enters his inner apartments—illumined with joy like an autumn sky—and divides the divine pāyasa among Kausalyā, Sumitrā, and Kaikeyī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दशरथः प्राप्य पायसं देवनिर्मितम् ।  
@@ -1247,6 +1287,14 @@ Entering the inner apartments, he immediately spoke thus to Kausalyā: “Receiv
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The king then gave half of the pāyasa (pāyasārdham) to Kausalyā; and of the remaining half, the lord of men gave half (ardhād ardham) to Sumitrā.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting carefully, the wise monarch bestows the final portion upon Sumitrā; honored by the king’s equitable gift, the queens partake of the divine pāyasa and soon conceive embryos blazing like fire and the sun.
 </details>
 </details>
 

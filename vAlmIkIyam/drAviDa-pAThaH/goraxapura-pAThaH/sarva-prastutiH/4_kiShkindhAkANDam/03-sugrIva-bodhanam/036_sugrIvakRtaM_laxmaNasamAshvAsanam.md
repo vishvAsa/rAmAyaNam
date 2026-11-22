@@ -26,6 +26,14 @@ his adherence to Rama, and Lakshmana asks him to come to Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appeased by Tārā's gentle counsel, Lakṣmaṇa relents, whereupon Sugrīva casts off his dread, tears away his intoxicating garland, and humbly extols Rāma's matchless grace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तस्तारया वाक्यं प्रश्रितं धर्मसंहितम् ।  
@@ -350,6 +358,14 @@ bravery, unless he is prepared to tread that kind of path on which Vali has gone
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acknowledging himself as a mere attendant beside Rāma's world-shaking archery, Sugrīva pledges to march in his train and begs pardon for any transgression born of affection.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीतां प्राप्स्यति धर्मात्मा वधिष्यति च रावणम् ।  
@@ -618,6 +634,14 @@ you leave off, and at the end who are they that remain to be protected by you?' 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeply pleased by Sugrīva's humility, Lakṣmaṇa affectionately praises his purity, valor, and gratitude, declaring him worthy of the monkey throne and Rāma's surest ally in battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति तस्य ब्रुवाणस्य सुग्रीवस्य महात्मनः ।  
@@ -879,6 +903,14 @@ battlegrounds, or, on your own word, thus what you have said is conclusive as we
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘Of you who know righteousness (dharmajñasya), who remember benefits received (kṛtajñasya), and who never retreat in battles, this speech, O Sugrīva, is both fitting (upapannam) and well-reasoned (yuktam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring only Rāma and Sugrīva capable of admitting fault despite possessing power, Lakṣmaṇa urges Sugrīva to come console Rāma and begs forgiveness for his own harsh words.
 </details>
 </details>
 

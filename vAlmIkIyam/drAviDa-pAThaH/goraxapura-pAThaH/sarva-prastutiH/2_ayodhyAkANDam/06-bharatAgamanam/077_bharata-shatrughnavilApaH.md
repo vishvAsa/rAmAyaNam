@@ -26,6 +26,14 @@ to be performed on the thirteenth day.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having completed the ten-day purification and twelfth-day Śrāddha gifts of jewels, silver, cattle, and mansions, Bharata visits the pyre on the thirteenth morning to gather his father’s bones.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दशाहेऽतिगते कृतशौचो नृपात्मजः ।  
@@ -310,6 +318,14 @@ exile to the forest, I now become abandoned wholly alone, by you."
 **5:** Having arrived at the foot of the funeral pyre for the ritual clearing and bone-gathering (śodhanārtham upāgataḥ citā-mūle), his throat choked with sobbing cries (śabdāpihita-kaṇṭhas tu), deeply afflicted he spoke these words to his father:
 
 **6:** “O father, since that brother Rāghava to whose care I was entrusted by you (yasmin nisṛṣṭo 'haṃ tvayā bhrātari rāghave) has gone forth into the forest, I am now forsaken by you in an empty world (śūnye tyakto 'smy ahaṃ tvayā)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the ash-reddened circle of charred bones where his father’s body was consumed, Bharata collapses like Indra’s ceremonial banner, and Śatrughna too falls senseless in grief.
 </details>
 </details>
 
@@ -636,6 +652,14 @@ Bereft of his senses like one distraught (unmatta iva niścetā), deeply afflict
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śatrughna laments the fathomless ocean of grief sprung from Mantharā and swarming with the crocodile of Kaikeyī, recalling Daśaratha’s tender indulgence and vowing to enter the fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्थराप्रभवस्तीव्र कैकेयीग्राहसङ्कुलः ।  
@@ -903,6 +927,14 @@ the significance of life for me? I shall enter a fire."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to enter the ascetic forest rather than return to empty Ayodhyā, Śatrughna and Bharata writhe on the ground like bulls with broken horns until Vasiṣṭha raises Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हीनो भ्रात्रा च पित्रा च शून्यामिक्ष्वाकुपालिताम् ।  
@@ -1158,6 +1190,14 @@ you hanging down here, when the ceremony of collecting the bones is still unfini
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This is the thirteenth day since your father’s cremation, O lord (trayodaśo 'yaṃ divasaḥ pitur vṛttasya te vibho); while the gathering of the remaining bones is still unfinished (sāvaśeṣāsthi-nicaye), why do you delay here (kim iha tvaṃ vilambase)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding the princes of the three inescapable pairs of opposites governing mortal existence, Vasiṣṭha and Sumantra raise Bharata and Śatrughna as the ministers urge the remaining rites.
 </details>
 </details>
 

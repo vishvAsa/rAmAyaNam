@@ -25,6 +25,14 @@ his sword. Indrajit kills the illusory living image of Seetha, with his sharp sw
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving Rāma's resolve, Indrajit sorties from the western gate and conjures an illusory Sītā upon his chariot to bewilder the Vānara host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञाय तु मनस्तस्य राघवस्य महात्मनः ।  
@@ -318,6 +326,14 @@ Forming his design to bewilder (mohanārtham) them all, that utterly wicked-mind
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Led by Hanūmān wielding a mountain crag, the Vānaras charge forth, only to behold the sorrow-stricken form of Sītā captive in Indrajit's chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा त्वभिनिर्यान्तं सर्वे ते काननौकसः ।  
@@ -580,6 +596,14 @@ Scanning her for a moment (muhūrtam) and determining her to be Maithilī, [he w
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding that ascetic lady (tapasvinīm) afflicted with sorrow, joyless, wretched, seated upon the chariot and at the mercy of the Rākṣasa lord's son, he spoke [to his companions].
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Hanūmān charges with the Vānara chiefs, Indrajit unsheathes his blade, drags the weeping phantom Sītā by her hair, and provokes Hanūmān's fierce rebuke.
 </details>
 </details>
 
@@ -899,6 +923,14 @@ demoniacal race, you touched a lock of her hair, for your hair, for your own rui
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Condemning Indrajit's merciless assault on a faultless woman and warning him of hellish realms, Hanūmān charges with his armed Vānaras against the Rākṣasa host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धिक् त्वां पापसमाचारं यस्य ते मतिरीदृशी ।  
@@ -1214,6 +1246,14 @@ With a host of Rākṣasas of dreadful fury (bhīma-kopānām), [Indrajit] check
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scattering the monkey army with a thousand arrows, Indrajit proclaims the ruthless maxim that whatever torments the enemy must be done, and strikes down the phantom Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां बाणसहस्रेण विक्षोभ्य हरिवाहिनीम् ।  
@@ -1435,6 +1475,14 @@ ahd been sobbing all the while, with his sharp-edged sword.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus to him, Indrajit himself with his sharp-edged sword (śita-dhāreṇa khaḍgena) struck down that weeping, illusory Sītā (sītāṃ māyāmayīm).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cloven diagonally across the torso like a sacred thread, the phantom Sītā falls to the ground, and the Vānaras flee in despair before Indrajit's triumphant roar.
 </details>
 </details>
 

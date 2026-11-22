@@ -27,6 +27,14 @@ Girivraja.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the sages’ counsel, Vasiṣṭha resolves to summon Bharata and Śatrughna from Rājagṛha; with the assembly’s consent, he calls the envoys Siddhārtha, Vijaya, Jayanta, Aśoka, and Nandana to ride swiftly on fast steeds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां तद् वचनं श्रुत्वा वसिष्ठः प्रत्युवाच ह ।  
@@ -326,6 +334,14 @@ as my orders:"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Going quickly on steeds of swift speed (śīghraṃ śīghra-javair hayaiḥ) to the city of Rājagṛha, you must cast aside all signs of grief (tyakta-śokaiḥ) and speak thus to Bharata by my command (śāsanān mama):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha instructs the envoys to summon Bharata on urgent business without revealing Rāma’s exile or Daśaratha’s death, and to take silk robes and ornaments as gifts; provisioned and dismissed, the envoys ride north along the Mālinī river.
 </details>
 </details>
 
@@ -637,6 +653,14 @@ Skirting the end of Mount Aparatāla (nyantenāparatālasya) toward the north of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crossing the Gaṅgā at Hastināpura, the envoys ride westward through Pañcāla and Kurujāṅgala, speed past the bird-thronged Śaradaṇḍā river, venerate the sacred Satyopayācana tree at Kuliṅgā, and cross the ancestral Ikṣumatī river.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते हास्तिनपुरे गङ्गां तीर्त्वा प्रत्यङ्मुखा ययुः ।  
@@ -873,6 +897,14 @@ father and grandfather of Dasaratha.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, reaching the town of Ābhikāla (ābhikālaṃ tataḥ prāpya), they crossed the sacred ancestral river Ikṣumatī (pitṛ-paitāmahīṃ puṇyāṃ terur ikṣumatīṃ nadīm), which flows down from the abode of Bodhi (bodhi-bhavanāc cyutām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing Veda-learned Brahmins who drink from cupped hands, the envoys traverse the Bāhlīka country, Mount Sudāmā, Viṣṇupada, and the Vipāśā and Śālmalī rivers; with exhausted steeds, they enter Girivraja by night to uphold the Ikṣvāku line.
 </details>
 </details>
 

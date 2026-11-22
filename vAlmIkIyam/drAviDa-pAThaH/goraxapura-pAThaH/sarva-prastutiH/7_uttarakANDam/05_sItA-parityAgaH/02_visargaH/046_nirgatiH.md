@@ -13,6 +13,14 @@ title = "०४६ निर्गतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When night breaks into dawn, a heartbroken Lakṣmaṇa bids Sumantra harness the finest chariot with a cushioned seat from the palace, then enters Sītā’s chambers to convey Rāma’s command for the journey.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रजन्यां व्युष्टायां लक्ष्मणो दीनचेतनः ।  
@@ -174,6 +182,14 @@ And addressed Saumitri, enhancer of the honor of his friends (mitrāṇāṃ mā
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Sumantra, Lakṣmaṇa, bull among men (nararṣabhaḥ), entered the royal palace (rājaveśmani praviśya), approached Sītā (sītām āsādya), and spoke to her:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Told that Rāma has granted her wish to visit the Gaṅgā hermitages, Sītā rejoices exceedingly, gathers costly robes and jewels as gifts for the sages’ wives, and sets out upon the swift chariot.
 </details>
 </details>
 
@@ -344,6 +360,14 @@ Saying “So be it,” Saumitri helped Maithilī ascend the chariot (ratham āro
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by evil omens—a throbbing eye, trembling limbs, and a vision of an empty earth—Sītā prays with joined palms for Rāma, her mothers-in-law, and all subjects, while a heart-parched Lakṣmaṇa feigns cheer.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अब्रवीच्च तदा सीता लक्ष्मणं लक्ष्मिवर्धनम् ॥ १३ ॥  
@@ -509,6 +533,14 @@ Hearing that portentous speech (arthaṃ tataḥ śrutvā), Lakṣmaṇa bowed h
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After resting overnight at a hermitage beside the Gomatī, Lakṣmaṇa rises at dawn vowing to bear the Gaṅgā’s waters on his head like Śiva, yet breaks into loud weeping upon reaching the river.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वासमुपागम्य गोमतीतीर आश्रमे ॥ १९ ॥  
@@ -634,6 +666,14 @@ Having then harnessed the four mind-swift steeds to the chariot with their reins
 **22:** At the charioteer’s word (sūtasya vacanāt), Sītā ascended that finest chariot (āruroha rathottamam) together with Saumitri and the wise Sumantra (saumitriṇā sārdhaṃ sumantreṇa ca dhīmatā),
 
 **23:** And the large-eyed queen reached the sin-destroying Gaṅgā (āsasāda viśālākṣī gaṅgāṃ pāpa-vināśinīm). Then, having journeyed half a day (ardha-divasaṃ gatvā) and beholding the vast watery expanse of the Bhāgīrathī (bhāgīrathyā jalāśayam nirīkṣya), Lakṣmaṇa, wretched with grief (dīnaḥ), broke into loud weeping (praruroda mahāsvanaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Distressed by Lakṣmaṇa’s tears at the long-desired Gaṅgā, Sītā affectionately assumes he misses Rāma after two nights apart, chides him not to be childish, and asks to cross and gift the sages.
 </details>
 </details>
 
@@ -764,6 +804,14 @@ Beholding Lakṣmaṇa thus afflicted (dṛṣṭvā lakṣmaṇam āturam), Sī
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Ferry me across the Gaṅgā (tārayasva ca māṃ gaṅgām) and show me the ascetics (darśayasva ca tāpasān); then I shall bestow garments and ornaments upon the sages (tato munibhyo dāsyāmi vāsāṃsy ābharaṇāni ca)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Promising to stay only one night before returning to her lotus-eyed lord, Sītā prompts a tear-wiping Lakṣmaṇa to summon the boatmen, board the ready vessel, and ferry her across the Gaṅgā.
 </details>
 </details>
 

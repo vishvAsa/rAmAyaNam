@@ -27,6 +27,14 @@ meet the chief of Brahmans like Vasista and others to get himself crowned for th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Finding his father’s palace empty, Bharata goes to Kaikeyī’s apartments; springing up joyously from her golden seat, she embraces him, seats him on her lap, and asks after his journey and maternal kin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपश्यंस्तु ततस्तत्र पितरं पितुरालये ।  
@@ -351,6 +359,14 @@ well? Were you happy in being absent from home ? Be good enough to tell me all?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata reports that seven nights have passed since he left Kekaya ahead of his gifts, and anxiously asks why the golden couch of his mother is empty and where King Daśaratha is.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं पृष्टस्तु कैकेय्या प्रियं पार्थिवनन्दनः ।  
@@ -649,6 +665,14 @@ here, desirous of seeing him."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking whether his father is in Kausalyā’s chambers, Bharata receives Kaikeyī’s cold reply that King Daśaratha has gone the way of all beings; struck down by grief, he falls to the ground lamenting.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुर्ग्रहीष्ये पादौ च तं ममाख्याहि पृच्छतः ।  
@@ -933,6 +957,14 @@ Then, enveloped in sorrow and anguished by his father’s death (tataḥ śokena
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping with his face covered in his garment, Bharata compares his father’s empty couch to a moonless sky and a dried-up ocean; raising him from the ground, Kaikeyī urges him not to grieve.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् सुरुचिरं भाति पितुर्मे शयनं पुरा ।  
@@ -1168,6 +1200,14 @@ like you, respected in the assembly of men, do not grieve indeed."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Arise, arise! Why do you lie prostrate, O royal prince of great renown (uttiṣṭhottiṣṭha kiṃ śeṣe rāja-putra mahā-yaśaḥ)? Virtuous men like you, esteemed in the assembly, do not grieve (tvad-vidhā na hi śocanti santaḥ sadasi sammatāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Bharata’s steadfast intellect, Kaikeyī tries to console him; rolling on the ground in tears, Bharata laments that his hope of seeing Rāma’s consecration is shattered and asks what illness took the king.
 </details>
 </details>
 
@@ -1495,6 +1535,14 @@ Otherwise, my father quickly would have indeed smelled my head, by bending me in
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Longing for his father’s gentle touch, Bharata asks to be announced to Rāma, his elder brother and new father; he begs to hear Daśaratha’s last message, and Kaikeyī tells how the king died crying out for Rāma, Sītā, and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्व स पाणिः सुखस्पर्शस्तातस्याक्लिष्टकर्मणः ।  
@@ -1789,6 +1837,14 @@ departed to the world, crying �O, Rama, O, Sita, O, Lakshmana!'
 **35:** “I wish to hear his final kind message addressed to me (paścimaṃ sādhu sandeśam icchāmi śrotum ātmanaḥ)!” Thus questioned, Kaikeyī spoke this word in accordance with the truth (iti pṛṣṭā yathā-tattvaṃ kaikeyī vākyam abravīt):
 
 **36:** “Lamenting, ‘O Rāma! Alas, O Sītā! O Lakṣmaṇa!’ (rāmeti rājā vilapan hā sīte lakṣmaṇeti ca), that high-souled monarch, foremost of those who attain noble states, departed to the supreme world (sa mahātmā paraṃ lokaṃ gato gatimatāṃ varaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kaikeyī quotes Daśaratha’s dying words that blessed are those who will see Rāma return with Sītā and Lakṣmaṇa; stunned by this second blow, Bharata asks where Rāma is, and she reveals that he has gone in bark-garments to the Daṇḍaka forest.
 </details>
 </details>
 
@@ -2102,6 +2158,14 @@ the great forest of Dandaka, followed by Lakshmana and also sita."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Wearing garments of bark, O son, that prince has gone to the great forest of Daṇḍaka (sa hi rāja-sutaḥ putra cīra-vāsā mahā-vanaṃ daṇḍakān gataḥ), accompanied by Vaidehī and attended by Lakṣmaṇa (saha vaidehyā lakṣmaṇānucaro)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alarmed for the honour of the Ikṣvāku line, Bharata asks whether Rāma seized a Brāhmaṇa’s wealth, harmed the innocent, or coveted another’s wife; Kaikeyī replies that Rāma never even looks upon another man’s wife.
 </details>
 </details>
 
@@ -2430,6 +2494,14 @@ others."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “No Brāhmaṇa’s wealth has been seized by Rāma from anyone (kaccin na brāhmaṇa-dhanaṃ hṛtaṃ rāmeṇa kasyacit), nor has any innocent man, rich or poor, been harmed by him (kaccin nāḍhyo daridro vā tenāpāpo vihiṃsitaḥ); nor does Rāma even look with his eyes upon the wives of others (na rāmaḥ para-dārāṃś ca cakṣurbhyām api paśyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that she did it all for his sake, Kaikeyī confesses that she demanded the kingdom for Bharata and exile for Rāma, causing Daśaratha to die of grief, and urges Bharata to perform the funeral rites and crown himself king.
 </details>
 </details>
 

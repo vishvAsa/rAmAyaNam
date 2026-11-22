@@ -26,6 +26,14 @@ ready for the journey to the forest along with Bharata.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata enters the assembly hall glowing like an autumn night under a full moon, and Vasiṣṭha gently reminds him that Daśaratha and Rāma have bequeathed the prosperous realm to him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामार्यगणसम्पूर्णां भरतः प्रग्रहां सभाम् ।  
@@ -350,6 +358,14 @@ And Rāma too, steadfast in truth and mindful of the duty of the righteous (rām
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Vasiṣṭha to accept consecration and tribute from every quarter, Bharata turns his heart to Rāma, weeps in the assembly, and reproaches the preceptor, declaring that both the kingdom and he himself belong to Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित्रा भ्रात्रा च ते दत्तं राज्यं निहतकण्टकम् ।  
@@ -631,6 +647,14 @@ and I myself belong to Rama. You ought to tell the law and justice in this matte
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 How could one born of Daśaratha become a usurper of the kingdom (kathaṃ daśarathāj jāto bhaved rājyāpahārakaḥ)? Both the kingdom and I belong to Rāma; you ought to declare what is righteous here (rājyaṃ cāhaṃ ca rāmasya dharmaṃ vaktum ihārhasi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refusing to sully the Ikṣvāku line or endorse Kaikeyī’s sin, Bharata vows to follow Rāma—whereupon the whole assembly weeps for joy—and resolves to dwell in the forest like Lakṣmaṇa if Rāma will not return.
 </details>
 </details>
 
@@ -961,6 +985,14 @@ that forest itself, as how the venerable Lakshmana is staying now."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Announcing that road-builders and guards have already been sent ahead, Bharata vows to employ every means before the elders to bring Rāma back, and commands Sumantra to muster the army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वोपायं तु वर्तिष्ये विनिवर्तयितुं बलात् ।  
@@ -1226,6 +1258,14 @@ accord with Bharata's orders and wishes.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by the high-souled Bharata, Sumantra joyfully gave all the orders just as instructed and as he himself desired (evam uktaḥ sumantras tu bharatena mahātmanā hṛṣṭas tadādiśat sarvaṃ yathā-sandiṣṭam iṣṭavat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citizens, commanders, and soldiers’ wives rejoice at the proclamation of the march to bring Rāma home, and Sumantra brings Bharata’s chariot yoked with superb steeds.
 </details>
 </details>
 
@@ -1498,6 +1538,14 @@ Sumantra on his part approached him with delight.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Receiving that command of Bharata with joy, Sumantra took a chariot yoked with superb steeds and came forward (bharatasya tu tasyājñāṃ pratigṛhya ca harṣitaḥ rathaṃ gṛhītvā prayayau yuktaṃ parama-vājibhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadfast in truth, Bharata directs Sumantra to summon the army chiefs so he may propitiate Rāma for the welfare of the world, and all four classes yoke camels, mules, chariots, elephants, and steeds.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ Ogre women threaten to kill Seetha and eat her.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The deformed ogresses collectively berate Sītā for spurning Rāvaṇa's luxurious inner apartments and clinging to the exiled human Rāma, moving the lotus-eyed princess to tears.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीतां समस्तास्ता राक्षस्यो विकृताननाः ।  
@@ -321,6 +329,14 @@ Hearing the speech of the ogresses, lotus-eyed Sītā (padmanibhekṣaṇā), wi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā rejects the sinful counsel of the ogresses, inviting them to devour her rather than yield, and cites illustrious wives from Suvarcalā and Śacī to Damayantī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदिदं लोकविद्विष्टमुदाहरत सङ्गताः ।  
@@ -526,6 +542,14 @@ husband Nala, in the same way I am devoted to my husband Rama, the best in Ikshv
 **11:** as Lopāmudrā attends Agastya, as Sukanyā attends Cyavana, as Sāvitrī attends Satyavān, and as Śrīmatī attends Kapila,
 
 **12:** likewise as Madayantī is devoted to Saudāsa, as Keśinī to Sagara, and as Bhīma's daughter Damayantī (damayantīva bhaimī) is devoted to her husband Nala, lord of Niṣadha (naiṣadham)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged by Sītā's vow of fidelity to Rāma, the ogresses brandish battle-axes and lick their lips, while hidden Hanumān watches the weeping princess approach his śiṃśapā tree.
 </details>
 </details>
 
@@ -848,6 +872,14 @@ Then, surrounded by the ogresses, wide-eyed Sītā (viśālākṣī) reached tha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounding the emaciated Sītā beneath the tree, the sunken-bellied ogress Vinatā counsels her that she has shown enough loyalty to Rāma and should now accept generous Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां कृशां दीनवदनां मलिनाम्बरवासिनीम् ।  
@@ -1111,6 +1143,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Abandoning the wretched mortal Rāma (mānuṣaṃ kṛpaṇaṃ rāmam), resort to Rāvaṇa, who is courteous (dakṣiṇam), munificent (tyāgaśīlaṃ ca), and kindly-spoken toward all (sarvasya priyavādinam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vinatā urges Sītā to reign like Svāhā or Śacī before threatening to devour her, whereupon fist-shaking Vikaṭā berates her for spurning timely counsel across the impassable ocean.
 </details>
 </details>
 
@@ -1396,6 +1436,14 @@ and due to softness."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vikaṭā reminds Sītā that not even Indra can rescue her from Rāvaṇa's guarded fortress, urging her to enjoy fleeting youth among Laṅkā's pleasure-groves with thousands of handmaids.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च नः कुरुषे वाक्यं हितं कालपुरस्कृतम् ।  
@@ -1669,6 +1717,14 @@ so long get comfort."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Vikaṭā threatens to tear out Sītā's heart, lance-whirling Caṇḍodarī voices her craving to devour her liver, spleen, and heart, while Praghasā urges strangling her immediately.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं भज भर्तारं भर्तारं सर्वरक्षसाम् ।  
@@ -1915,6 +1971,14 @@ entrails and the head."
 **41:** her limbs as well, and her head (gātrāṇy api tathā śīrṣam)—that I may devour these is my desire (khādeyam iti me matiḥ)!” Then an ogress named Praghasā (praghasā nāma rākṣasī) spoke these words:
 
 **42:** “Let us throttle the neck of this cruel woman (kaṇṭham asyā nṛśaṃsāyāḥ pīḍayāmaḥ)! Why do we sit idle (kim āsyate)? Let it then be reported to the king that the human woman has died (mānuṣī sā mṛteti ha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ajāmukhī proposes carving Sītā into equal shares and Śūrpaṇakhā calls for wine to dance before Nikumbhilā, reducing the divine-looking princess to helpless tears.
 </details>
 </details>
 

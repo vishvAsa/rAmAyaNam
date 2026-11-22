@@ -14,6 +14,14 @@ title = "१ सभा-प्रवेशः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following the destruction of the rākṣasas and Rāma’s enthronement, illustrious sages from all four quarters arrive at Ayodhyā to congratulate Rāghava and stand at the palace portal awaiting announcement.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रभाते विमले कृत्वा पौर्वाह्णिकीं क्रियाम् ।  
@@ -139,6 +147,14 @@ Nṛṣadgu, Kavaṣa, Dhaumya, and the great sage Raudreya—they too arrived t
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Vasiṣṭha, Kaśyapa, Atri, Viśvāmitra together with Gautama, Jamadagni, and Bharadvāja—those Seven Sages (saptarṣayaḥ) also arrived, all seven of whom are eternally residents of the northern quarter (udīcyāṃ diśi ... nityam eva nivāsinaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Agastya’s word the royal doorkeeper hastens directly to Rāma to announce the sages’ arrival; joyfully bidding them enter, Rāma rises with joined palms to offer guest-rites and golden seats.
 </details>
 </details>
 
@@ -326,6 +342,14 @@ Having bowed down in self-restraint (abhivādya prayataḥ), Rāma indicated sea
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated upon gold-inlaid chairs cushioned with kuśa grass and deerskins, the sages answer Rāma’s inquiry after their welfare by hailing his effortless triumph over Rāvaṇa and his reunion with Sītā and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाणा इव मया मुक्ता इह रक्षन्ति मे प्रजाः ।  
@@ -485,6 +509,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing to see Rāma reunited with his mothers and brothers, the sages enumerate the fallen rākṣasa titans—Prahasta, Kumbhakarṇa of unequaled bulk, Atikāya, Kumbha, Nikumbha, and Dhūmrākṣa—felled by his death-like shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवेद्य रामस्य पुनर्निर्जगाम नृपालयात् ।  
@@ -638,6 +670,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “All these masters of weapons and celestial missiles (śastrāstra-pāragāḥ), who wrought terrible carnage (kurvantaḥ kadanaṃ ghoram), have by good fortune been utterly destroyed by you with shafts like Death himself (antaka-pratimair bāṇaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After congratulating Rāma on defeating Rāvaṇa in single combat, the sages startlingly declare Rāvaṇa’s overthrow as nothing compared to the miraculous slaying of the invincible illusion-wielder Indrajit.
 </details>
 </details>
 

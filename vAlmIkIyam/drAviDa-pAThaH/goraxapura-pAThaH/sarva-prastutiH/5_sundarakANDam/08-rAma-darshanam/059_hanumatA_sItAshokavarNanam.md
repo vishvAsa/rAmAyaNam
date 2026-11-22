@@ -27,6 +27,14 @@ of a war against Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having recounted his exploit in Laṅkā, Hanūmān praises Sītā’s fiery chastity and proposes rescuing her before returning to Rāma and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदाख्याय तत् सर्वं हनूमान् मारुतात्मजः ।  
@@ -331,6 +339,14 @@ Having sought the leave of all the great monkeys headed by Jāmbavān (jāmbavat
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān declares himself capable of crushing Laṅkā, Rāvaṇa, and Indrajit’s divine missiles alone, restrained only by the elders’ lack of permission.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमेकोऽपि पर्याप्तः सराक्षसगणां पुरीम् ।  
@@ -544,6 +560,14 @@ those missiles even if they are difficult to be looked at, employed by Indrajit 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Sanctioned by you (bhavatām abhyanujñātaḥ), my valor (vikramo me) shall vanquish him (ruṇaddhi tam); for an peerless, unceasing rain of crags (atulā śailavṛṣṭir nirantarā) hurled by me (mayā visṛṣṭā hi)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān extols the invincible might of Jāmbavān, Aṅgada, Nīla, Mainda, Dvivida, and the Aśvins’ sons, recalling how he burned Laṅkā and proclaimed Rāma’s name.
 </details>
 </details>
 
@@ -872,6 +896,14 @@ By me alone was Laṅkā struck down (mayaiva nihatā laṅkā), burned, and the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reciting his victory proclamation in Laṅkā, Hanūmān describes Sītā’s sorrowful yet resolute vigil beneath the śiṃśapā tree in Rāvaṇa’s Aśoka grove.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जयत्यतिबलो रामो लक्ष्मणश्च महाबलः ।  
@@ -1102,6 +1134,14 @@ Disregarding Rāvaṇa (acintayantī rāvaṇam), who is arrogant in his strengt
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Devoted to Rāma like Śacī to Indra, Sītā endures the demonesses’ threats on the bare ground until Hanūmān wins her trust and reveals the alliance.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुरक्ता हि वैदेही रामे सर्वात्मना शुभा ।  
@@ -1316,6 +1356,14 @@ the goddess, giving her concern to Indra the destroyer of strong holds."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With great difficulty (kathaṃcit) the fawn-eyed lady (mṛgaśāvākṣī) was brought to confidence (viśvāsam upapāditā); then she was conversed with (tataḥ saṃbhāṣitā caiva) and apprised of the entire matter (sarvam arthaṃ prakāśitā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing at the Rāma–Sugrīva alliance yet wasted like neglected learning, Sītā awaits her lord, who will be the mere instrument in slaying Rāvaṇa.
 </details>
 </details>
 

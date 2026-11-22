@@ -25,6 +25,14 @@ also informs Hanuma about her snatching away of Ravana from the forest.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending to a lower branch and folding his hands upon his head, Hanūmān gently questions Sītā in a sweet voice, wondering whether she is a goddess of the Rudras, Maruts, or Vasus.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽवतीर्य द्रुमात् तस्माद् विद्रुमप्रतिमाननः ।  
@@ -258,6 +266,14 @@ storm-gods or among eight Vasus the beneficent gods? O Handsome lady with fine h
 **5:** Of the gods or the asuras, or of the nāgas, gandharvas, and rākṣasas, or of the yakṣas and kinnaras, who are you, O lovely lady (kā tvaṃ bhavasi śobhane)?
 
 **6:** Who are you among the Rudras or the Maruts, O fair-faced one (varānane)? Or among the Vasus, O comely-hipped lady (varārohe)? You appear to me to be a goddess (devatā pratibhāsi me)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wondering whether she is Rohiṇī parted from the Moon or Arundhatī estranged from Vasiṣṭha, Hanūmān deduces from her tears and royal marks that she is Queen Sītā abducted from Janasthāna.
 </details>
 </details>
 
@@ -554,6 +570,14 @@ If you are Sītā, forcibly carried off by Rāvaṇa from Janasthāna (janasthā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassured by Hanūmān’s praise of Rāma, Sītā declares her identity as Daśaratha’s daughter-in-law, Janaka’s daughter, and Rāma’s wife, recalling twelve happy years in Ayodhyā before the planned consecration.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा हि तव वै दैन्यं रूपं चाप्यतिमानुषम् ।  
@@ -836,6 +860,14 @@ Then in the thirteenth year (tatas trayodaśe varṣe), the king, together with 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā recounts how Queen Kaikeyī interrupted the preparations for Rāma’s consecration, threatening her own life and invoking Daśaratha’s ancient boon to demand Rāghava’s banishment to the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् सम्भ्रियमाणे तु राघवस्याभिषेचने ।  
@@ -1099,6 +1131,14 @@ Then that aged king, firmly established in the dharma of truth (satya-dharme vya
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cherishing his father’s word above consecration, Rāma surrenders the kingdom, puts aside his costly garments, commends Sītā to his mother Kausalyā, and sets forth with Sītā walking ahead of him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पितुर्वचनं श्रीमानभिषेकात् परं प्रियम् ।  
@@ -1311,6 +1351,14 @@ to proceed to the forest and soon was ready to start even ahead of Rama."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 I, however, swiftly set forth ahead of him as a forest-wanderer (tasyāgratas tūrṇaṃ prasthitā vana-cāriṇī); for parted from him, even dwelling in heaven does not please me (na hi me tena hīnāyā vāsaḥ svarge 'pi rocate).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā narrates how Lakṣmaṇa donned bark-garments to attend his elder brother into the Daṇḍaka forest, how Rāvaṇa abducted her, and how she will abandon her life after two months.
 </details>
 </details>
 

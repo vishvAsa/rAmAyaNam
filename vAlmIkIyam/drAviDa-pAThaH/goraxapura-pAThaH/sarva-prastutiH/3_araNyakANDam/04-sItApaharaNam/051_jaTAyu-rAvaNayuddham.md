@@ -28,6 +28,14 @@ and sides. Then seeing that fallen eagle Seetha weeps over, as if Jataayu is her
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by Jaṭāyu's defiance, Rāvaṇa rushes at the vulture king like a wind-driven storm-cloud and showers him with iron shafts, while Jaṭāyu tears Rāvaṇa's limbs with his talons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः क्रोधताम्राक्षस्तप्तकाञ्चनकुण्डलः ।  
@@ -360,6 +368,14 @@ With his two sharp-taloned feet (tīkṣṇa-nakhābhyāṃ tu caraṇābhyām),
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Rāvaṇa's ten shafts, Jaṭāyu beholds the weeping Jānakī, shatters Rāvaṇa's pearl-decked bow with his feet, and endures a thousand arrows like a bird in its nest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ क्रोधाद् दशग्रीवो जग्राह दश मार्गणान् ।  
@@ -686,6 +702,14 @@ Covered all around by his arrows in battle (śarair āvāritas tasya saṃyuge),
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scattering the arrows with his wings, Jaṭāyu shatters Rāvaṇa's second bow, armor, goblin-faced mules, jewelled chariot, and royal parasol, and severs the charioteer's head with his beak.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तानि शरजालानि पक्षाभ्यां तु विधूय ह ।  
@@ -983,6 +1007,14 @@ of Ravana with beak. [3-51-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unhorsed and applauded by all creatures, Rāvaṇa sees Jaṭāyu fatigued by old age and springs back into the sky with Sītā, only for the vulture king to intercept him again.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भग्नधन्वा विरथो हताश्वो हतसारथिः ।  
@@ -1271,6 +1303,14 @@ of Indra, and this spite of yours is definitely for the destruction of all the d
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O shallow-witted Rāvaṇa (alpa-buddhe rāvaṇa), you are carrying off this wife of Rāma—whose arrows have the impact of the thunderbolt (vajra-saṃsparśa-bāṇasya)—surely for the destruction of the rākṣasas (vadhāya khalu rakṣasām)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening Rāvaṇa's abduction of Sītā to drinking poison or a fish swallowing a baited hook, Jaṭāyu denounces his cowardly theft and challenges him to stand and fight.
 </details>
 </details>
 
@@ -1614,6 +1654,14 @@ Fight (yudhyasva), if you are a hero (yadi śūro 'si)! Stand for a moment (muh�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Condemning Rāvaṇa's self-destructive sin, Jaṭāyu swoops down upon the demon's back like a mahout mounting a rogue elephant, tearing his flesh and hair with claws and beak.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परेतकाले पुरुषो यत् कर्म प्रतिपद्यते ।  
@@ -1905,6 +1953,14 @@ Thus tormented again and again by the king of vultures (tathā gṛdhra-rājena 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Jaṭāyu tears off Rāvaṇa's ten left arms with his beak, ten fresh arms spring forth like venomous serpents from an anthill, and Rāvaṇa pummels the vulture with fists and feet.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्परिष्वज्य वैदेहीं वामेनाङ्केन रावणः ।  
@@ -2166,6 +2222,14 @@ capabilities, namely the chieftain of demons and the chief of the birds. [3-51-4
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then for an hour (muhūrtam) there raged a battle (saṃgrāmo babhūva) between those two of peerless valor (atula-vīryayoḥ)—the chief of the rākṣasas and the foremost of birds (pakṣiṇāṃ pravarasya ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drawing his sword, Rāvaṇa severs Jaṭāyu's wings, feet, and flanks, felling the noble vulture like an extinguished forest fire as the weeping Sītā rushes to embrace him.
 </details>
 </details>
 

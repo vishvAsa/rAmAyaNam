@@ -27,6 +27,14 @@ door of the gate and kills all the security-guards there.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heeding Vibhīṣaṇa’s timely counsel against slaying an envoy, Rāvaṇa commands his rākṣasas to wrap Hanumān’s prized tail in cotton rags, ignite it, and parade him through Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा दशग्रीवो महात्मनः ।  
@@ -348,6 +356,14 @@ Hearing that command of his, the rākṣasas, harsh with wrath (kopa-karkaśā�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Expanding his body as his cotton-wrapped tail is soaked in oil and ignited, Hanumān strikes down rākṣasas yet submits to recapturing bonds so he may serve Rāma’s cause.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संवेष्ट्यमाने लाङ्गूले व्यवर्धत महाकपिः ।  
@@ -655,6 +671,14 @@ of the command by their lord, no rebuff has been done to me."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enduring his bonds so he may inspect Laṅkā’s fortifications by daylight for Rāma’s sake, Hanumān calmly lets the exultant rākṣasas parade him to the blare of conchs and drums.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेषामेव पर्याप्तो राक्षसानामहं युधि ।  
@@ -867,6 +891,14 @@ who was strong and foremost among monkeys.
 **16:** “Though the rākṣasas inflict torment (pīḍāṃ kurvanti), there is no weariness in my mind (manasaḥ śramaḥ).” Then, seizing that mighty monkey who possessed great strength (sattvavantam) and concealed his true demeanor (saṃvṛtākāram),
 
 **17:** the delighted rākṣasas marched off with that elephant among monkeys (kapi-kuñjaram), proclaiming their own exploits (sva-karmabhiḥ) with the blasts of conchs and kettledrums (śaṅkha-bherī-ninādaiś ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Hanumān inspects Laṅkā’s palaces, courtyards, and crossroads while crowds gather to watch the paraded spy, ugly-eyed rākṣasīs cruelly report his fiery plight to Sītā.
 </details>
 </details>
 
@@ -1230,6 +1262,14 @@ those ugly-eyed rākṣasa women (rākṣasyas tā virūpākṣyaḥ) reported t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by the cruel tidings as if abducted anew, Sītā reverently invokes the fire-god by her chastity, Rāma’s compassion, and Sugrīva’s truthfulness to become cool for Hanumān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तद् वचनं क्रूरमात्मापहरणोपमम् ॥ २५ ॥  
@@ -1561,6 +1601,14 @@ and who is ardently desirous of meeting him, please be cool to Hanuma."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the flame curls auspiciously rightward and Wind blows icy-cool, Hanumān marvels that the blazing fire on his tail feels like frost and recalls Maināka’s rising.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तीक्ष्णार्चिरव्यग्रः प्रदक्षिणशिखोऽनलः ।  
@@ -1832,6 +1880,14 @@ snow-ball is kept at the tip of my tail."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Sītā’s compassion, Rāma’s majesty, and Wind’s friendship with Fire in the cool flames, Hanumān snaps his bonds, roars, and leaps toward Laṅkā’s lofty city gate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तावत् समुद्रस्य मैनाकस्य च धीमतः ।  
@@ -2095,6 +2151,14 @@ high and stood secluded from the crowds of demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 leapt up with force (utpapātātha vegena) and uttered a roar (nanāda ca); then the glorious monkey [reached] the city gate (pura-dvāram), lofty as a mountain peak (śaila-śṛṅgam ivonnatam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the uncrowded city gate, Hanumān shrinks to shed his bonds, swells again like a mountain, slays the gate-guards with an iron bar, and surveys Laṅkā ringed in flame.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "००४ हेति-कुलम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Astonished to hear from Agastya that rākṣasas occupied Laṅkā even before Pulastya’s descendants, Rāma eagerly asks whether those ancient rākṣasas surpassed Rāvaṇa’s clan in strength, who founded their race, and why Viṣṇu routed them.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वागस्त्येरितं वाक्यं रामो विस्मयमागतः ।  
@@ -196,6 +204,14 @@ Then, shaking his head (śiraḥ kampayitvā) and gazing repeatedly (muhur dṛ�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Who was their progenitor (pūrvakaḥ), O Brāhmaṇa (brahman), and what was the name (kinnāmā) of that one of surging might (balotkaṭaḥ)? And having incurred what offense (aparādhaṃ ca kaṃ prāpya), how were they put to flight by Viṣṇu (viṣṇunā drāvitāḥ katham)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marvelling at Rāma’s refined inquiry, Agastya begins at the dawn of creation: Brahmā creates beings to guard the primeval waters, and when he bids them guard, some cry “We shall guard!” while others cry “We shall devour!”
 </details>
 </details>
 
@@ -393,6 +409,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā names the two groups Rākṣasas and Yakṣas; among the Rākṣasas arise two Madhu–Kaiṭabha-like brothers, Heti and Praheti, and while Praheti enters the penance grove, Heti weds Kāla’s sister Bhayā and begets the radiant Vidyutkeśa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षाम इति यैरुक्तं राक्षसास्ते भवन्तु वः ।  
@@ -579,6 +603,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Vidyutkeśa reaches youth, Heti secures for him Sandhyā’s mighty daughter Sālakaṭaṅkaṭā; delighting with her like Indra with Paulomī, Vidyutkeśa begets upon her an unborn child like a storm-cloud drawing waters from the sea.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स यदा यौवनं भद्रमनुप्राप्तो निशाचरः ।  
@@ -731,6 +763,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, after some time (kenacit tv atha kālena), O Rāma, Sālakaṭaṅkaṭā conceived a child from Vidyutkeśa (vidyutkeśād garbham āpa), even as a bank of rain-clouds draws moisture from the ocean (ghana-rājir ivārṇavāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Giving birth on Mount Mandara, Sālakaṭaṅkaṭā abandons her thunder-voiced newborn to resume amorous sport with Vidyutkeśa; passing through the sky upon his bull with Pārvatī, Śiva hears the babe’s cries and is moved to compassion.
 </details>
 </details>
 
@@ -894,6 +934,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Together with Umā (umayā sārdham), he beheld the weeping rākṣasa infant (rudantaṃ rākṣasātmajam); and moved by Pārvatī’s compassionate disposition (kāruṇya-bhāvāt pārvatyā), Bhava, the slayer of Tripura (bhavas tripura-sūdanaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Pārvatī’s prompting, Śiva makes the abandoned infant immortal, instantly grown to his mother’s age, and lord of a sky-faring city; Umā grants rākṣasīs instant gestation and maturation, and proud Sukeśa roams everywhere like Indra.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०६२ शत्रुघ्न-नियोगः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With joined palms Rāma asks the Yamunā sages about the diet, conduct, and abode of the demon Lavaṇa; learning that the fierce rākṣasa devours animals, men, and ascetics in Madhuvana, Rāma vows to have him slain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्ते तानृषीन् रामः प्रत्युवाच कृताञ्जलिः ।  
@@ -213,6 +221,14 @@ Hearing those words (tac chrutvā), Rāghava spoke to those great sages (vākyam
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having pledged Lavaṇa’s destruction to the sages, Rāma asks whether Bharata or Śatrughna shall take the task as his share; Bharata eagerly volunteers, but Śatrughna rises from his golden seat and bows before Rāma to speak.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिज्ञाय तथा तेषां मुनीनामुग्रतेजसाम् ।  
@@ -349,6 +365,14 @@ _________________
 **10:** Hearing the speech of Bharata (bharatasya vacaḥ śrutvā), endowed with steadfastness and valor (dhairya-śaurya-samanvitam), the younger brother of Lakṣmaṇa (lakṣmaṇāvarajaḥ) stood up, leaving his golden seat (tasthau hitvā sauvarṇam āsanam).
 
 **11:** And bowing low before the lord of men (praṇipatya narādhipam), Śatrughna spoke these words (śatrughnas tv abravīd vākyam): “He who has already accomplished mighty deeds, the mighty-armed middle delight of the Raghus (kṛta-karmā mahābāhur madhyamo raghunandanaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Bharata’s fourteen years of ascetic austerity and grief in Nandigrāma during Rāma’s exile, Śatrughna urges that Bharata be spared further hardship while he himself serves; Rāma agrees and declares he will consecrate Śatrughna king of Madhu’s city.
 </details>
 </details>
 
@@ -498,6 +522,14 @@ _________________
 **15:** As Śatrughna spoke thus (tathā bruvati śatrughne), Rāghava replied once more (rāghavaḥ punar abravīt): “So let it be, O Kākutstha (evaṃ bhavatu kākutstha); let my command be carried out (kriyatāṃ mama śāsanam)!
 
 **16:** “I shall consecrate you in sovereignty (rājye tvām abhiṣekṣyāmi) in the fair city of Madhu (madhos tu nagare śubhe); settle Bharata here, O mighty-armed one (niveśaya mahābāho bharataṃ), if you have regard for him (yady avekṣase)—for you are valiant, learned in all sciences (śūras tvaṃ kṛta-vidyaś ca), and well able to found a city (samarthaś ca niveśane)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the royal dharma that one who uproots a ruler must install a king in his place lest he incur hell, Rāma commands Śatrughna to slay Lavaṇa, govern his realm righteously without protest, and receive immediate consecration from Vasiṣṭha.
 </details>
 </details>
 

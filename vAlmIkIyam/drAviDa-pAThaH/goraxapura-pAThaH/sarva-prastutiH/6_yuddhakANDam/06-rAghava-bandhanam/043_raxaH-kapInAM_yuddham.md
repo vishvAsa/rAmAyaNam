@@ -17,6 +17,14 @@ title_english = "043 The duels arose between the monkeys and demons"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seized with fierce martial wrath, Rāvaṇa's champions sally forth with gold-crested steeds and sun-bright chariots to engage the Vānara heroes in single combat, beginning with Indrajit and Aṅgada.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युध्यतां तु ततस्तेषां वानराणां महात्मनाम् ।  
@@ -294,6 +302,14 @@ demon Andhaka fought with Shiva the Lord of destruction.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The rākṣasa Indrajit of mighty splendor (mahātejāḥ) fought together with Vāli's son Aṅgada (aṅgadenendrajit sārdhaṃ vāliputreṇa), just as Andhaka fought with the three-eyed Śiva (tryambakeṇa yathāndhakaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As champions pair off across the battlefield, Sampāti faces Prajaṅgha, Hanumān engages Jambumālin, Vibhīṣaṇa clashes with Śatrughna, Sugrīva and Lakṣmaṇa meet Praghasa and Virūpākṣa, and four rākṣasas assail Rāma.
 </details>
 </details>
 
@@ -612,6 +628,14 @@ monkeys Mainda and Dvivida confronted with those highly terrific demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And Vajramuṣṭi with Mainda, and Aśaniprabha with Dvivida—thus the two Vānara chiefs (kapimukhyau) met in combat with those two dread rākṣasas (rākṣasābhyāṃ sughorābhyām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Pratana fights Nala and Suṣeṇa engages Vidyunmālin, rivers of blood choked with hair-moss and body-rafts flow across the field while Indrajit strikes Aṅgada with his mace.
 </details>
 </details>
 
@@ -937,6 +961,14 @@ Enraged Indrajit, like Śatakratu with his thunderbolt (vajreṇeva śatakratu�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada shatters Indrajit's chariot, Sampāti slays Prajaṅgha with an aśvakarṇa tree, Hanumān crushes Jambumālin on his chariot, and Nala gouges out Pratana's eyes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य काञ्चनचित्राङ्गं रथं साश्वं ससारथिम् ।  
@@ -1253,6 +1285,14 @@ with a Saptaparna tree.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 [Meanwhile,] the lord of the Vānaras [Sugrīva] [attacked] Praghasa, who seemed to be devouring the armies (grasantam iva sainyāni).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva fells Praghasa, Lakṣmaṇa slays Virūpākṣa with a single shaft, Rāma decapitates four rākṣasas with four flame-like arrows, Mainda crushes Vajramuṣṭi, and Nikumbha pierces Nīla.
 </details>
 </details>
 
@@ -1577,6 +1617,14 @@ Then once again with a hundred arrows (punaḥ śaraśatenātha), the swift-hand
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like Viṣṇu wielding his discus, Nīla decapitates Nikumbha and his driver with a chariot wheel, Dvivida crushes Aśaniprabha with a sāla tree, and Suṣeṇa shatters Vidyunmālin's chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैव रथचक्रेण नीलो विष्णुरिवाहवे ।  
@@ -1894,6 +1942,14 @@ Beholding him standing on his chariot, Suṣeṇa, foremost of Vānaras (vānaro
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping agilely from his shattered chariot, Vidyunmālin strikes Suṣeṇa's chest with his mace, but Suṣeṇa disregards the blow and crushes Vidyunmālin's heart with a boulder.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लाघवेन तु संयुक्तो विद्युन्माली निशाचरः ।  
@@ -2154,6 +2210,14 @@ lifeless on the earth.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck by the impact of the boulder (śilāprahārābhihataḥ), the night-stalker Vidyunmālin fell lifeless to the earth (bhūmau gatāsur nipapāta ha), his heart crushed (niṣpiṣṭahṛdayaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushed in single combat like Daityas by the gods, the blood-maddened rākṣasas—amidst jackal-haunted carnage and dancing headless trunks—eagerly await nightfall as they renew the fray.
 </details>
 </details>
 

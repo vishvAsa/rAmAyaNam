@@ -27,6 +27,14 @@ the forest with him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Halting beneath the great banyan tree in the Vatsa country and performing his evening twilight devotions, Rāma counsels Lakṣmaṇa on their nightly vigil over Sītā and reflects upon Daśaratha’s grief and Kaikeyī’s triumph.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं वृक्षं समासाद्य सन्ध्यामन्वास्य पश्चिमाम् ।  
@@ -351,6 +359,14 @@ ambitions, ought to feel satisfied."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing that Kaikeyī might even endanger King Daśaratha’s life for the sake of the throne, Rāma reflects upon how passion overpowers both virtue and worldly interest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हि देवी महाराजं कैकेयी राज्यकारणात् ।  
@@ -666,6 +682,14 @@ head for the entire kingdom."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For when our father is advanced in years (vayasātīte) and I am dwelling in the forest, he alone shall become the sole chief (mukham ekam) of the entire kingdom.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting the ruin brought by yielding to passion over virtue and profit, Rāma urges Lakṣmaṇa to return to Ayodhyā at dawn to protect the helpless Kausalyā and Sumitrā from Kaikeyī’s malice.
 </details>
 </details>
 
@@ -990,6 +1014,14 @@ protection) my mother to Bharata, oh virtuous Prince!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving over Kausalyā’s separation from her son at the very hour when her maternal care should have borne fruit, Rāma compares himself unfavourably even to his mother’s pet mynah bird.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं जात्यन्तरे तात स्त्रियः पुत्रैर्वियोजिताः ।  
@@ -1307,6 +1339,14 @@ melancholy and lies plunged in a sea of grief"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he refrains from conquering Ayodhyā and the earth by his arrows solely out of fear of unrighteousness, Rāma falls silent in tears, whereupon Lakṣmaṇa begins to console him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एको ह्यहमयोध्यां च पृथिवीं चापि लक्ष्मण ।  
@@ -1617,6 +1657,14 @@ to Sita and me too, oh jewel among men!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Yet this is not befitting (naitad aupayikam), O Rāma, that you thus torment yourself (yad idaṃ paritapyate); you cast both Sītā and me into deep dejection (viṣādayasi), O bull among men!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that neither he nor Sītā could survive a single moment without Rāma any more than fish pulled from water, Lakṣmaṇa wins Rāma’s consent to remain, and the princes pass the night fearlessly beneath the banyan tree.
 </details>
 </details>
 

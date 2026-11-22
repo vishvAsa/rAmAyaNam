@@ -29,6 +29,14 @@ kills him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the close-quarters battle rages, Prince Aṅgada recovers from Kampana's mace blow to crush him with a mountain peak, prompting Śoṇitākṣa to assail Aṅgada with diverse shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवृत्ते सङ्कुले तस्मिन् घोरे वीरजनक्षये ।  
@@ -245,6 +253,14 @@ Then, seeing Kampana slain in battle (kampanaṃ dṛṣṭvā hataṃ raṇe), 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Impelled by speed (vegitaḥ), he then pierced Aṅgada with whetted arrows (niśitair bāṇair vivyādha)—sharp, body-rending (śarīradāraṇais tīkṣṇaiḥ), and resembling the fire of universal doom in form (kālāgnisamavigrahaiḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though pierced by shafts, Aṅgada smashes Śoṇitākṣa's chariot and bow, wrests away his sword in mid-air, and slashes his shoulder diagonally like a sacred thread.
 </details>
 </details>
 
@@ -578,6 +594,14 @@ Accompanied by Prajaṅgha (prajaṅghasahitaḥ), the heroic and mighty Yūpāk
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Flanked by the mace-wielding Śoṇitākṣa and Prajaṅgha, Aṅgada shines like the full moon between the two Viśākhā stars as Mainda and Dvivida join the three-on-three clash.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयसीं तु गदां गृह्य स वीरः कनकाङ्गदः ।  
@@ -870,6 +894,14 @@ Between those three Vānara lords (trayāṇāṃ vānarendrāṇām) and the th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Prajaṅgha, Yūpākṣa, and Śoṇitākṣa cleave the trees and boulders hurled by the monkeys, Aṅgada strikes charging Prajaṅgha with an aśvakarṇa tree and knocks away his sword.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु वृक्षान् समादाय सम्प्रचिक्षिपुराहवे ।  
@@ -1141,6 +1173,14 @@ the sword fell on the ground.
 **23:** Seeing him come within reach (tam abhyāśagataṃ dṛṣṭvā), the lord of Vānaras of mighty strength (vānarendro mahābalaḥ), surpassingly powerful, then struck him with an aśvakarṇa tree (ājaghānāśvakarṇena drumeṇa).
 
 **24:** And with his fist he struck his arm together with its sword (bāhuṃ cāsya sanistriṃśam ājaghāna sa muṣṭinā); and by the blow of Vālin's son (vāliputrasya ghātena), that sword fell upon the ground (sa papāta kṣitāv asiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Staggered briefly by Prajaṅgha's fist-blow to his forehead, Aṅgada decapitates Prajaṅgha with a single punch, while Dvivida seizes the grieving Yūpākṣa and trades blows with Śoṇitākṣa.
 </details>
 </details>
 
@@ -1442,6 +1482,14 @@ Seeing his brother seized (gṛhītaṃ bhrātaraṃ dṛṣṭvā), the mighty 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dvivida wrenches away Śoṇitākṣa's mace and crushes him after tearing his face with claws, while Mainda strangles Yūpākṣa in his arms, sending the routed Rākṣasas fleeing to Kumbha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ततोऽभिहतस्तेन चचाल च महाबलः ।  
@@ -1737,6 +1785,14 @@ With its foremost champions slain (hatapravīrā), that distressed army of the R
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rallying the routed Rākṣasa host, Kumbha wields his bow like a second rainbow blazing with lightning and fells Dvivida with a golden-notched shaft drawn to his ear.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आपतन्तीं च वेगेन कुम्भस्तां सान्त्वयच्चमूम् ।  
@@ -2017,6 +2073,14 @@ Trikuta, was perturbed, with his feet swaying to and fro and fell down throbbing
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Suddenly smitten by that shaft (sahasābhihatas tena), with his steps faltering (vipramuktapadaḥ) and his body convulsing (sphuran), that foremost of monkeys, resembling Mount Trikūṭa (trikūṭābhaḥ), fell reeling to the ground (nipapāta vihvalan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Dvivida felled, Mainda hurls a boulder that Kumbha shatters with five arrows before dropping Mainda unconscious, prompting Aṅgada to charge his uncles' conqueror through a hail of shafts.
 </details>
 </details>
 
@@ -2320,6 +2384,14 @@ As he rushed forward (tam āpatantam), Kumbha pierced him with five iron shafts 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unshaken by Kumbha's gold-decked arrows, Aṅgada showers him with rocks and trees; when Kumbha pierces his brows, Aṅgada wipes his blood-drenched eyes with one hand and uproots a sāla tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकुण्ठधारैर्निशितैस्तीक्ष्णैः कनकभूषणैः ।  
@@ -2554,6 +2626,14 @@ it with his hand and bending a little, Angada uprooted it from the ground.
 **53:** Covering his blood-drenched eyes with one hand (pāṇinā netre pidhāya rudhirokṣite), Aṅgada grasped a nearby sāla tree with his other hand (sālam āsannam ekena parijagrāha pāṇinā).
 
 **54:** Pressing that branched trunk against his chest (sampīḍyorasi saskandhaṃ) and bracing it with his hand (kareṇābhiniveśya ca), he bent it down slightly and wrenched it up (kiṃcid abhyavanamyainam unmamātha) in that great battle.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before the eyes of all the Rākṣasas, Kumbha splinters Aṅgada's Mandara-like tree with seven shafts; as Aṅgada sinks unconscious, Rāma dispatches Jāmbavān and the Vānara chiefs to rescue him.
 </details>
 </details>
 
@@ -2853,6 +2933,14 @@ Then, with trees and crags in their hands (drumaśilāhastāḥ) and their eyes 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Kumbha checks the charge of Jāmbavān, Suṣeṇa, and Vegadarśī with an impassable barrier of arrows, King Sugrīva shields Aṅgada and charges Kumbha like a lion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बवांश्च सुषेणश्च वेगदर्शी च वानरः ।  
@@ -3123,6 +3211,14 @@ Uprooting many great trees headed by aśvakarṇas (utpāṭya ca mahāvṛkṣ�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kumbha bristles Sugrīva's flying trees with arrows like spiked śataghnīs, but Sugrīva endures the shafts, snaps Kumbha's rainbow-bright bow, and addresses him with ironic praise.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां छादयन्तीमाकाशं वृक्षवृष्टिं दुरासदाम् ।  
@@ -3387,6 +3483,14 @@ majesty too exists.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva extols Kumbha as the true heir to Kumbhakarṇa's natural might and Rāvaṇa's splendor, inviting the world to witness their duel like that of Indra and Śambara.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकस्त्वमनुजातोऽसि पितरं बलवत्तरम् ।  
@@ -3629,6 +3733,14 @@ today, as they saw that fight between Indra and Shambara, the demon."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A peerless feat has been accomplished by you (kṛtam apratimaṃ karma) and your skill in missiles has been displayed (darśitaṃ cāstrakauśalam), and these monkey heroes of dreadful valor have been struck down by you (patitā harivīrāś ca tvayaite bhīmavikramāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stung by Sugrīva's offer of rest lest he be reproached for slaying a weary foe, Kumbha grapples with Sugrīva like a rutting elephant until Sugrīva hurls him into the sea.
 </details>
 </details>
 
@@ -3886,6 +3998,14 @@ Then Sugrīva lifted Kumbha up (tataḥ kumbhaṃ samutkṣipya) and hurled him 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising a mountain-like wave as he plunges into the sea, Kumbha springs back to strike Sugrīva's chest with a fist that sparks like Meru, prompting Sugrīva to clench his own.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कुम्भनिपातेन जलराशिः समुत्थितः ।  
@@ -4091,6 +4211,14 @@ His cage of bones gave a counter-strike to that awfully forceful fist.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By the force of that blow (tasya vegena), a great and blazing flash of light (tejaḥ prajvalitaṃ mahat) sprang forth there, like the flame born from the collision of the thunderbolt upon Mount Meru (vajraniṣpeṣasaṃjātā jvālā meror yathā gireḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva brings his sun-bright fist down upon Kumbha's chest, felling him like Mars plummeting from the sky or the sun-god smitten by Rudra as the earth quakes.
 </details>
 </details>
 

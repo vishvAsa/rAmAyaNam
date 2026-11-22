@@ -13,6 +13,14 @@ title = "१११ फल-स्तुतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring complete the preeminent Rāmāyaṇa together with its Uttarakāṇḍa composed by Vālmīki and honored by Brahmā, the closing sarga proclaims Viṣṇu’s return to his celestial seat, the gods’ eternal delight in hearing the poem in heaven, and the purifying fruits bestowed by reciting even a single verse or phrase.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतावद् एतद् आख्यानं  
@@ -214,6 +222,14 @@ Even a mortal who commits sins day after day (pāpāny api ca yaḥ kuryād ahan
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring the reciter with garments, a cow, and gold pleases all the gods; the poem also foretells that deserted Ayodhyā will be resettled in a future age under King Ṛṣabha, proclaims Brahmā’s sanction of Vālmīki’s entire work, and equates hearing even a single sarga to myriad sacrifices and pilgrimages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाचकाय च दातव्यं  
@@ -406,6 +422,14 @@ Sacred fords beginning with Prayāga, holy rivers headed by the Gaṅgā (prayā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the Rāmāyaṇa matches gifting a weight of gold at Kurukṣetra during a solar eclipse; listening with steadfast faith and devotion frees one from all sin, bestows prosperity, longevity, and Vaiṣṇava union, and reveals the peerless epic as the very embodied form of the Gāyatrī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयागादीनि तीर्थानि गङ्गाद्याः सरितस्तथा ।  
@@ -564,6 +588,14 @@ His sons and wives prosper, as do his riches and his lineage (putra-dārāś ca 
 **17:** One without a son obtains a son, and one without wealth obtains wealth (aputro labhate putram adhano labhate dhanam); whoever recites even a single word of it (padam apy asya yaḥ paṭhet) is freed from all sins (sarva-pāpaiḥ pramucyeta).
 
 **18:** Whoever daily recites or hears the sacred life of Rāghava (yaḥ paṭhec chṛṇuyān nityaṃ caritaṃ rāghavasya ha), becoming spotless through devotion (bhaktyā niṣkalmaṣo bhūtvā), shall attain long life (dīrgham āyur avāpnuyāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whoever meditates daily on Rāghava and recites his complete life attains Viṣṇuloka at life’s end together with five generations of ancestors; bestowing all four human aims, the Rāmāyaṇa closes with the timeless benediction: ‘May auspiciousness be yours—proclaim it with faith, and may the power of Viṣṇu ever increase!’
 </details>
 </details>
 

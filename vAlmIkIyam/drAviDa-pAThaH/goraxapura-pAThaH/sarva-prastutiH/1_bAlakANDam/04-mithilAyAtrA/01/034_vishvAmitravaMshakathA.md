@@ -26,6 +26,14 @@ is Vishwamitra's elder sister turned out as a sacred River.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After King Brahmadatta’s departure with his hundred brides, Kuśanābha performs a sacrifice for a male heir; his father Kuśa descends from Brahmaloka to foretell the birth of Gādhi, father of Viśvāmitra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतोद्वाहे गते तस्मिन् ब्रह्मदत्ते च राघव ।  
@@ -293,6 +301,14 @@ Sage Vishvamitra thus narrating to Rama. [1-34-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That supremely righteous Gādhi is my father (sa pitā mama gādhiḥ paramadhārmikaḥ), O Kākutstha. Because I am born in the lineage of Kuśa (kuśavaṃśaprasūto ’smi), I am known as Kauśika, O delight of the Raghus!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra recounts how his elder sister Satyavatī, wedded to Sage Ṛcīka, ascended bodily to heaven and descended along Himavān as the holy river Kauśikī for the welfare of the world.
 </details>
 </details>
 
@@ -597,6 +613,14 @@ of mine. [1-34-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bound by a special sacrificial vow (niyamāt), O Rāma, I left her banks and came hither (hitvā tāṃ samupāgataḥ); having reached Siddhāśrama (siddhāśramam anuprāptaḥ), I have now attained complete fulfilment through your radiant splendour (siddho ’smi tava tejasā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having answered Rāma’s inquiry regarding his lineage and the Śoṇa country, Viśvāmitra points to the stillness of midnight, the star-eyed firmament, and the rising moon, bidding the princes rest.
 </details>
 </details>
 
@@ -911,6 +935,14 @@ So said Vishvamitra to Rama. [1-34-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “All nocturnal creatures are roaming here and there (naiśāni sarvabhūtāni pracaranti tatas tataḥ)—hosts of yakṣas and rākṣasas, and fierce flesh-eating spirits (yakṣarākṣasasaṃghāś ca raudrāś ca piśitāśanāḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acclaimed by the assembled sages, who extol the Kuśika dynasty and the river Kauśikī, Viśvāmitra enters sleep like the setting sun, followed by Rāma and Lakṣmaṇa.
 </details>
 </details>
 

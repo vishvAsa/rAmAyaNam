@@ -13,6 +13,14 @@ title = "१०२ लक्ष्मण-पुत्र-राज्ये"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing at Bharata’s triumph, Rāma resolves to crown Lakṣmaṇa’s two sons, Aṅgada and Candraketu, in a lovely land free from harm to kings or hermitages; Bharata recommends the salubrious Kārupatha region for their twin cities.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा हर्षमापेदे राघवो भ्रातृभिः सह ।  
@@ -202,6 +210,14 @@ When Rāma had spoken thus (tathoktavati rāme tu), Bharata indeed replied (bhar
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting Bharata’s counsel, Rāma brings Kārupatha under sway, builds the well-guarded city of Aṅgadīyā and heavenly Candrakānta in Mallabhūmi, consecrates both princes, and dispatches them west and north escorted by Lakṣmaṇa and Bharata.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् वाक्यं भरतेनोक्तं प्रतिजग्राह राघवः ।  
@@ -385,6 +401,14 @@ Having consecrated the two princes (abhiṣicya kumārau), Rāghava sent them fo
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And Saumitri Lakṣmaṇa indeed went after Aṅgada (aṅgadaṃ cāpi saumitrir lakṣmaṇo ’nujagāma ha), while Bharata became the rear-guard protector of Candraketu (candraketos tu bharataḥ pārṣṇigrāho babhūva ha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After dwelling a year in Aṅgadīyā and over a year with Candraketu, Lakṣmaṇa and Bharata return to attend Rāma’s feet; absorbed in love and civic dharma, ten thousand years pass unnoticed as the three shine in Ayodhyā like three sacred fires.
 </details>
 </details>
 

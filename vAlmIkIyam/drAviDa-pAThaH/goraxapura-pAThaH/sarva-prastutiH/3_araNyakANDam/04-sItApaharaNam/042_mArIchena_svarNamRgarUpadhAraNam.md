@@ -25,6 +25,14 @@ the form of an amazing golden Deer, and Seetha catches a sight of that deer.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though having spoken harshly, the terrified Mārīca yields to Rāvaṇa's threat and agrees to go, whereupon the delighted Rāvaṇa embraces him and praises his restored mettle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु परुषं मारीचो रावणं ततः ।  
@@ -345,6 +353,14 @@ Maareecha himself in the event of the death of Maareecha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting Rāvaṇa's jewel-decked aerial chariot yoked with goblin-faced mules, Rāvaṇa and Mārīca fly over forests, mountains, rivers, and towns to reach Rāma's hermitage in Daṇḍaka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरुह्यतामयं शीघ्रं खगो रत्नविभूषितः ।  
@@ -662,6 +678,14 @@ Rāvaṇa, the lord of rākṣasas, together with Mārīca (saha-mārīcaḥ), b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking Mārīca by the hand outside Rāma's plantain-ringed hermitage, Rāvaṇa urges him to act; Mārīca transforms into a wondrous deer with sapphire-tipped horns and rainbow-hued tail.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद् रामाश्रमपदं दृश्यते कदलीवृतम् ॥ १३ ॥  
@@ -937,6 +961,14 @@ With hooves resembling cat's-eye gems (vaidūrya-saṅkāśa-khuraḥ), slender 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Illuminating the grove with his glossy, jewel-dappled form, the illusory stag grazes on tender shoots and strolls slowly past the plantain bower into Sītā's view.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनोहरस्निग्धवर्णो रत्नैर्नानाविधैर्वृतः ।  
@@ -1206,6 +1238,14 @@ delight. [3-42-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With his back wondrously dappled like a lotus (rājīva-citra-pṛṣṭhaḥ), that great deer shone brightly; he roamed at ease (yathā-sukham) in the vicinity of Rāma's hermitage-site (rāmāśrama-padābhyāśe).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gambolling near the hermitage gate, the demon stag mingles with woodland deer—who sniff him and flee in ten directions—while he refrains from devouring them to mask his nature.
 </details>
 </details>
 
@@ -1489,6 +1529,14 @@ indulgently, only for the reason of camouflaging his present nature of demon-hoo
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Approaching and sniffing him (upagamya samāghrāya), flee away toward the ten directions (vidravanti diśo daśa); and even though fond of slaying deer (mṛga-vadhe rataḥ), that rākṣasa [spares] those forest deer—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gathering karṇikāra, aśoka, and mango blossoms outside the hermitage, the radiant Sītā catches sight of the pearl- and silver-flecked illusory stag and is filled with supreme wonder.
 </details>
 </details>
 

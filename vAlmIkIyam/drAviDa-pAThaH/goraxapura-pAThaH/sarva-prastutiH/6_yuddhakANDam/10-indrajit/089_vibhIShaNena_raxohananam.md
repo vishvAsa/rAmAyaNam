@@ -25,6 +25,14 @@ monkey-chiefs kill Indrajit's horses and destroys his chariot.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the thunderous twang of Lakṣmaṇa's bowstring, Indrajit pales; urged on by Vibhīṣaṇa, Lakṣmaṇa stuns the rākṣasa prince with thunderbolt-like shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युध्यमानौ ततो दृष्ट्वा प्रसक्तौ नरराक्षसौ ।  
@@ -291,6 +299,14 @@ Struck by Lakṣmaṇa with arrows whose impact matched Śakra's thunderbolt (ś
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recovering his senses with bloodshot eyes, Indrajit taunts Lakṣmaṇa with memories of the serpent-noose battle and pierces both him and Hanūmān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सञ्चोदमानो वै हरीन् रक्षोवधप्रियान् ।  
@@ -471,6 +487,14 @@ good as killed, except Ravana."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Either you have no memory, I think, or you manifestly wish to go to the abode of Yama (yamam sādanam gantum icchasi), since you seek to assail me (māṃ tvam ādharṣayitum icchasi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indrajit pierces Vibhīṣaṇa with a hundred shafts; laughing off his blows as feeble and pleasant, Lakṣmaṇa shatters Indrajit's golden armor like falling stars.
 </details>
 </details>
 
@@ -765,6 +789,14 @@ standing beside him."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thoroughly shattered by his arrows (tasya bāṇaiḥ suvidhvastam), his [Indrajit's] great golden armor (kavacaṃ kāñcanaṃ mahat) fell in fragments upon the chariot-platform like a cluster of stars from the sky (tārājālam ivāmbarāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stripped of armor and bleeding like the dawn sun, Indrajit shatters Lakṣmaṇa's celestial mail in return, and both warriors stream with blood like mountain springs.
 </details>
 </details>
 
@@ -1084,6 +1116,14 @@ Thus covered over with floods of arrows (śaraughais tathākīrṇau), with thei
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like two dark storm-clouds pouring down rain, the two masters of missiles weave a canopy of arrows in midair while their bowstrings thunder like a hurricane.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमानपि सङ्क्रुद्धः सालमुत्पाट्य पर्वतात् ।  
@@ -1324,6 +1364,14 @@ summer.
 **29:** Distinctly from each of the two (pṛthak pṛthak) was heard the terrible slap of bowstring against arm-guard (talanisvanaḥ); like a dreadful hurricane-blast (nirghāta iva dāruṇaḥ), it caused a tremor (sa kampaṃ janayāmāsa).
 
 **30:** That sound of those two, frenzied with battle (samaramattayoḥ), resounded like that of two terrifying clouds thundering in the sky (niṣṭanator gagane meghayor iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arrows pile up between the two blazing warriors like sacrificial grass between two fires, while their bleeding bodies glow like flowering kimśuka and śālmalī trees.
 </details>
 </details>
 
@@ -1602,6 +1650,14 @@ setting down, encircling darkness all over, large streams of blood in plenty pou
 **35:** The wounded bodies of those two great-souled warriors shone like a kiṃśuka and a śālmalī tree in the forest, leafless yet in full crimson bloom (supuṣpāv iva niṣpatrau vane kiṃśukaśālmalī).
 
 **36:** Indrajit and Lakṣmaṇa, each desiring victory over the other (parasparajayaiṣiṇau), engaged again and again in a tumultuous, terrifying clash (saṃnipātaṃ muhur muhuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bristling with embedded shafts like forested mountains and blazing like fire, the two warriors fight tirelessly until Vibhīṣaṇa steps forward to refresh Lakṣmaṇa.
 </details>
 </details>
 

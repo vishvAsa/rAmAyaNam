@@ -30,6 +30,14 @@ Hanuma leaps from the coast of Lanka and touches Mount Mainaka, which he came ac
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Springing into the sky like a winged mountain, the unwearying Hanumān swims across the firmament-ocean—where moon, sun, stars, and clouds form lilies, waterfowl, fishes, and waves.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आप्लुत्य च महावेगः पक्षवानिव पर्वतः ।  
@@ -198,6 +206,14 @@ While moving in the sky, the illustrious Hanuma, the son of wind-god and the gre
 **5:** As though swallowing up the sky (grasamāna ivākāśam), as though grazing the lord of stars [the moon] (tārādhipam ivollikhan), and as though carrying off the firmament (harann iva gaganam) together with its constellations and the solar orb (sanakṣatraṃ sūrkamaṇḍalam),
 
 **6:** Unwearied (apariśrāntaḥ), he plunged across that shoreless ocean (apāraṃ cāmbudhiṃ samagāhata); Hanumān sped along (hanūmān gacchati) as though dragging the masses of clouds in his wake (meghajālāni vikarṣann iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tinting the great clouds with manifold hues as he plunges in and out of them like the moon or Garuḍa, Hanumān speeds across the mid-ocean roaring like thunder.
 </details>
 </details>
 
@@ -503,6 +519,14 @@ Killing the foremost of demons, becoming famaus by is name, making Lanka perplex
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Touching Mount Sunābha in mid-ocean and speeding onward like an arrow shot from a bowstring, Hanumān sights cloud-like Mount Mahendra and roars until the firmament seems to split.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर्वतेन्द्रं सुनाभं च समुपस्पृश्य वीर्यवान् ॥ १३ ॥  
@@ -767,6 +791,14 @@ The sky, with the disc of the sun, began to crack as it were, due to his roar, e
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He uttered a tremendous roar (nanāda sumahānādam) and also lashed his tail (lāṅgūlaṃ cāpy akampayat); as he roared again and again (tasya nānadyamānasya) along the sky-path trodden by Garuḍa (suparṇācarite pathi),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanumān's thunderous roar and the rushing sound of his thighs, the waiting monkeys on the northern shore grow eager, and Jāmbavān proclaims that Hanumān has surely succeeded.
 </details>
 </details>
 
@@ -1103,6 +1135,14 @@ Hearing the rushing sound of the arms and thighs (tasya bāhūruvegaṃ ca) and 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bounding from peak to peak and waving bright garments and branches in jubilation, the monkeys stand with folded hands as Hanumān alights on Mount Mahendra like a wing-clipped mountain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते नगाग्रान्नगाग्राणि शिखराच्छिखराणि च ।  
@@ -1424,6 +1464,14 @@ Filled to the brim with joy (harṣeṇāpūryamāṇo 'sau), he dropped down fr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surrounding Hanumān with offerings of roots, fruits, and tree-boughs, the jubilant monkeys honor him as he bows to Jāmbavān and Prince Aṅgada and announces that Sītā has been seen.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते प्रीतमनसः सर्वे वानरपुङ्गवाः ।  
@@ -1700,6 +1748,14 @@ Honored by those two (sa tābhyāṃ pūjitaḥ)—himself worthy of honor (pūj
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clasping Prince Aṅgada's hand and sitting down in a woodland glade, Hanumān describes finding Sītā in the Aśoka grove, sparking an uproar of lion-roars and joyful chatter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निषसाद च हस्तेन गृहीत्वा वालिनः सुतम् ।  
@@ -1959,6 +2015,14 @@ Others raised joyful kilakilā cries (cakruḥ kilakilām anye), while still oth
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the monkeys lash their long, stout tails and leap down to embrace Hanumān, Prince Aṅgada praises his peerless valor, devotion, and grace as the savior of their lives.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरे तु हनूमन्तं श्रीमन्तं वानरोत्तमम् ॥ ४३ ॥  
@@ -2207,6 +2271,14 @@ Very much delighted, the monkeys then sat on extensive flat rocks encircling Ang
 **47:** “Through your grace (tvatprasādāt), our mission accomplished (siddhārthāḥ), we shall truly be reunited with Rāghava (sameṣyāmaḥ rāghaveṇa ha)! Oh, your devotion to your master (aho svāmini te bhaktiḥ)! Oh, your valor (aho vīryam)! Oh, your steadfastness (aho dhṛtiḥ)!”
 
 **48:** “By good fortune (diṣṭyā) the illustrious queen, the consort of Rāma, has been beheld by you (dṛṣṭā tvayā devī rāmapatnī yaśasvinī)! By good fortune Kākutstha will cast off his grief born of separation from Sītā (diṣṭyā tyakṣyati kākutsthaḥ śokaṃ sītāviyogajam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated on the broad rocky slabs around Aṅgada, Hanumān, and Jāmbavān with folded hands and upturned faces, the monkeys wait eagerly to hear the full story as Mount Mahendra blazes with splendor.
 </details>
 </details>
 

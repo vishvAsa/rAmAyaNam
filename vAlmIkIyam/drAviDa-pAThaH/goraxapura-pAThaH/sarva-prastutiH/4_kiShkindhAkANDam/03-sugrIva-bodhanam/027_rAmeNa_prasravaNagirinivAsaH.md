@@ -35,6 +35,14 @@ than to worry about global warming, ozone depletion, deforestation etc.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Sugrīva's consecration, Rāma and Lakṣmaṇa ascend the cloud-like Mount Prasravaṇa, inhabited by lions, tigers, and bears, and choose a spacious cavern on its summit for their residence.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषिक्ते तु सुग्रीवे प्रविष्टे वानरे गुहाम् ।  
@@ -334,6 +342,14 @@ as a brother to his modest brother Lakṣmaṇa, enhancer of auspicious fortune 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma praises the mountain peak with its white, black, and copper-hued rocks, echoing peacocks, blossoming trees, nearby lotus-pond, and sheltered cave sloping northeast.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिशृङ्गमिदं रम्यमुत्तमं पार्थिवात्मज ॥ ७ ॥  
@@ -576,6 +592,14 @@ be less of gusts that come from east. [4-27-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Situated on ground sloping toward the east and north (prāg-udak-pravaṇe deśe), the cavern will be admirable; and being elevated at the rear (paścāc caivonnatā), O gentle one, it will be sheltered from the wind (nivātā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma points out a level black rock at the cave's doorway, a dark northern peak, a silver-white southern peak like Kailāsa, and an eastward-flowing river lined with fragrant trees.
 </details>
 </details>
 
@@ -828,6 +852,14 @@ the river is Tungabhadra, which is affectionately remembered as River Ganga.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “adorned with sandalwood, tilaka, sāla, tamāla, and atimuktaka creepers, as well as padmaka, sarala pines, and aśoka trees,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma likens the tree-lined river with its cakravāka birds, sandbanks, and multicolored lotuses to a smiling, bejeweled woman, and admires the rows of sandalwood and kakubha trees.
 </details>
 </details>
 
@@ -1153,6 +1185,14 @@ appear in a similar pattern. [4-27-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Behold the rows of sandalwood trees (candana-vṛkṣāṇāṃ paṅktīḥ), as though artfully arranged, and of kakubha trees, which appear to have sprung up simultaneously by a mere wish of the mind (manasaivoditāḥ samam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the distant drums and songs of rejoicing monkeys from Kiṣkindhā, Rāma settles on Mount Prasravaṇa with Lakṣmaṇa, yet finds no delight while grieving for Sītā.
 </details>
 </details>
 
@@ -1483,6 +1523,14 @@ Yet even as he dwelt upon that most pleasant mountain rich in manifold resources
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sleepless with grief as he beholds the rising moon and remembers Sītā, Rāma is gently consoled by Lakṣmaṇa, who urges him to summon his resolve against Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उदयाभ्युदितं दृष्ट्वा शशाङ्कं च विशेषतः ॥ ३१ ॥  
@@ -1783,6 +1831,14 @@ enemy in war, specially a demon, especially a trickster, let alone all of your d
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For without resolute exertion (avyavasitaḥ), you will not be able to slay in battle that enemy—especially a Rākṣasa who practices deceit in combat (vikrame jihma-kāriṇam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa urges Rāma to uproot grief, await the autumn season, and rekindle his dormant valor like fire beneath ashes, and Rāma praises his brother's affectionate counsel.
 </details>
 </details>
 
@@ -2108,6 +2164,14 @@ courage is truth itself, that you have said it, Lakshmana. [4-27-42]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever ought to be spoken by one who is devoted (anuraktena), affectionate (snigdhena), benevolent (hitena), and endowed with true valor (satya-vikrama-yuktena)—all that has been spoken by you, O Lakṣmaṇa.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Casting aside grief, Rāma resolves to await the autumn clearing of the rivers and Sugrīva's grateful aid, and Lakṣmaṇa urges him to pass the four rainy months patiently.
 </details>
 </details>
 

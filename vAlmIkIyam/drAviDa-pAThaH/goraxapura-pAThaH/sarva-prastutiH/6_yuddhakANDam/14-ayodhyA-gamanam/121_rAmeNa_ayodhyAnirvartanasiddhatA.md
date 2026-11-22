@@ -24,6 +24,14 @@ arranges the aerial car, Pushpaka to transport Rama and others to Ayodhya.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Brahmā's words, the Fire-god Vibhāvasu rises in person from the pyre holding Sītā—radiant as the morning sun with unwithering garlands—and testifies to Rāma that she is utterly sinless.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां रात्रिमुषितं रामं सुखोदितमरिन्दमम् ।  
@@ -276,6 +284,14 @@ Neither by speech, nor by mind, nor by intellect (naiva buddhyā), nor by glance
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Testifying that captive Sītā kept her soul fixed on Rāma alone despite Rāvaṇa's temptations and threats, Agni bids him accept her without reproach, filling Rāghava's eyes with tears of joy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् पश्य यथा क्षिप्रं प्रतिगच्छाम तां पुरीम् ।  
@@ -483,6 +499,14 @@ you can reach Ayodhya without any trouble."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the righteous-souled Rāma, foremost of eloquent speakers, delighted at heart (prītamanāḥ) upon hearing this, reflected for a moment, his eyes brimming with tears of joy (harṣavyākulalocanaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma explains that although he always knew Sītā was devoted exclusively to him and guarded by her own fiery splendor like the ocean's shore, her purification was required to convince the three worlds.
 </details>
 </details>
 
@@ -771,6 +795,14 @@ your efforts put forth with your whole soul and more so by your friendship.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet in order to instill conviction in the three worlds (pratyayārthaṃ tu lokānāṃ trayāṇām), I, whose sole refuge is truth (satyasaṃśrayaḥ), looked on passively as Vaidehī entered the fire.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Sītā is as inseparable from him as sunlight from the sun and fame from a wise man, Rāma honors the gods' counsel and joyously reunites with his beloved.
 </details>
 </details>
 

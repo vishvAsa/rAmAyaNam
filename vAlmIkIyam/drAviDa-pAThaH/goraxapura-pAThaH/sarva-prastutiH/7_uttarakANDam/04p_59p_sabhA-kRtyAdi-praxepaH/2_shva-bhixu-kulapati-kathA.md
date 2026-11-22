@@ -10,6 +10,14 @@ title = "२ श्व-भिक्षु-कुलपति-कथा"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Answering Rāma’s inquiry into Indrajit’s prowess, the pitcher-born sage Agastya begins by tracing Rāvaṇa’s lineage back to the Kṛta age and Prajāpati’s radiant son, the Brahmarṣi Pulastya.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा रामस्य वचनं लक्ष्मणस्त्वरितस्तदा ।  
@@ -193,6 +201,14 @@ Hearing those words of the high-souled Rāghava (rāghavasya mahātmanaḥ), the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By virtue of being Prajāpati’s son, he was beloved of the gods (devānāṃ vallabho hi saḥ); and that high-minded sage was cherished by the entire world (hṛṣṭaḥ sarvasya lokasya) for his stainless virtues (guṇaiḥ śubhraiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dwelling at Tṛṇabindu’s hermitage on Mount Meru’s slope to practice Vedic study and austerity, Pulastya is repeatedly distracted by singing and dancing maidens, until in wrath he utters a pregnancy curse upon whoever enters his sight.
 </details>
 </details>
 
@@ -385,6 +401,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the other maidens flee in dread of the Brahmin’s curse, Tṛṇabindu’s daughter fails to hear it, wanders fearlessly into Pulastya’s precinct during his Vedic recitation, instantly conceives, and returns alarmed to her father.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसादयामि शिरसा न त्वं क्रोद‍्धुमिहार्हसि ।  
@@ -573,6 +597,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping with joined palms, the maiden truthfully recounts visiting Pulastya’s hermitage in search of her companions; entering yogic meditation, Tṛṇabindu perceives the sage’s curse and leads his daughter straight to Pulastya.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु विप्रेण रामो वचनमब्रवीत् ॥ १९ ॥  
@@ -708,6 +740,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Presenting his virtuous daughter to Pulastya as a self-offered alms to attend him in his austerities, Tṛṇabindu gives her in lawful marriage; delighted by her noble conduct and devotion, the sage prepares to bless her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसा कर्मणा वाचा चक्षुषा च समाचरेत् ।  
@@ -829,6 +869,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having bestowed her in accordance with sacred ordinance (dattvā sa tu yathānyāyam), he returned to his own hermitage precinct (svam āśrama-padaṃ gataḥ); and that maiden dwelt there, gratifying her husband by her virtues (toṣayantī patiṃ guṇaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by his bride’s wealth of virtues, Pulastya blesses her with a son equal to himself—named Viśravas because she conceived while hearing his Vedic chant—and she soon bears that illustrious, ascetic sage.
 </details>
 </details>
 

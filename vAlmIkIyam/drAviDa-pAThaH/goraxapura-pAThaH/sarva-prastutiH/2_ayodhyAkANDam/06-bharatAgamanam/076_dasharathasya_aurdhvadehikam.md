@@ -27,6 +27,14 @@ completion of the cremation-ceremony.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by the sage Vasiṣṭha to set aside grief and perform the obsequies, Bharata has King Daśaratha’s body lifted from the oil-trough onto a jeweled couch and laments his father’s departure.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवं शोकसन्तप्तं भरतं कैकयीसुतम् ।  
@@ -318,6 +326,14 @@ do?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “What had you resolved upon (kiṃ te vyavasitam), O King, while I was away in a distant land and had not yet returned (proṣite mayy anāgate), having banished righteous Rāma and Lakṣmaṇa of mighty strength?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata mourns the widowed earth and moonless Ayodhyā bereft of both Daśaratha and Rāma, until Vasiṣṭha again urges him to hasten the officiating priests and preceptors.
 </details>
 </details>
 
@@ -639,6 +655,14 @@ Reverently accepting those words of Vasiṣṭha with the reply ‘So be it’ (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Preceded by the king’s sacred fires and attendants scattering gold and garments, Daśaratha’s palanquin is borne to the funeral pyre of fragrant woods as priests offer oblations and chant Sāman hymns.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये त्वग्नयो नरेन्द्रस्य अग्न्यगाराद् बहिष्कृताः ।  
@@ -926,6 +950,14 @@ recite the hymns of Samaveda, chanted them according to the rules.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, having offered oblations into the fire (hutāśanaṃ hutvā), his officiating priests softly recited the prescribed mantras for him (jepus tasya tad-ṛtvijaḥ), and the Sāman-chanters sang the Sāman hymns there in accordance with the sacred texts (jaguś ca te yathā-śāstraṃ tatra sāmāni sāmagāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by Kausalyā and the lamenting queens, the priests circumambulate the burning pyre counter-clockwise, offer water libations in the Sarayū, and observe ten days of mourning on the bare ground.
 </details>
 </details>
 

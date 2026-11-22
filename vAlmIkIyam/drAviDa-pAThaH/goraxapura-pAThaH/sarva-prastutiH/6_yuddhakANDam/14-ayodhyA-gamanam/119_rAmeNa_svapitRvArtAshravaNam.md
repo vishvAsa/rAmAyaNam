@@ -28,6 +28,14 @@ abode of Indra, by the aerial car.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Rāma's harsh words before the vast assembly and shrinking into her own limbs with shame, weeping Vaidehī wipes her tear-drenched face and swears by her own spotless conduct.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा शुभं वाक्यं राघवेणानुभाषितम् ।  
@@ -205,6 +213,14 @@ Brahmanas."
 **5:** “Why do you make me hear such an unbecoming (asadṛśam) speech, harsh and terrible to the ear (śrotradāruṇam), O hero, like a vulgar man addressing a vulgar woman (prākṛtaḥ prākṛtām iva)?
 
 **6:** I am not such as you deem me to be, O mighty-armed one; have faith in me (pratyayaṃ gaccha me)—I swear to you by my own virtuous conduct alone (svena cāritreṇaiva te śape).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that fate alone was to blame for any helpless contact of her body while her heart remained ever his, Sītā asks why Rāma did not renounce her in Laṅkā when Hanūmān first came.
 </details>
 </details>
 
@@ -509,6 +525,14 @@ thereupon delivered the following still more beautiful speech:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Had I been abandoned by you then, O hero, immediately upon hearing that message (tadvākyasamanantaram), my life would have been forsaken by me before the very eyes of this monkey [Hanūmān].
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that Rāma has disregarded her miraculous birth from the earth, their childhood marriage, and her lifelong devotion, weeping Sītā bids grieving Lakṣmaṇa prepare a funeral pyre as her only remedy.
 </details>
 </details>
 
@@ -818,6 +842,14 @@ the rulers of gods, for the destruction of Ravana."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that she will enter fire as her only fitting refuge, Sītā prompts Lakṣmaṇa—who reads Rāma's silent consent—to build the pyre, circumambulates her downcast lord, and prays before Agni.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्था खलु कौसल्या या त्वां राम गृहं गतम् ।  
@@ -1117,6 +1149,14 @@ brothers."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having bowed down to the deities and to the Brāhmaṇas, Maithilī, with her cupped hands joined in reverence (baddhāञ्जalipuṭā), spoke this near the fire:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Calling upon Agni, the Sun, the Wind, the Moon, Day, Twilights, Night, and Earth as cosmic witnesses to her unwavering fidelity in thought, word, and deed, Sītā fearlessly enters the blazing flames.
 </details>
 </details>
 
@@ -1436,6 +1476,14 @@ well. Rama forever is intent on advancing the interests of the entire world."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And that vast multitude there, crowded with youths and elders (bālavṛddhasamākulaḥ), beheld the radiant Maithilī entering the fire.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining like molten gold and a golden sacrificial altar, Sītā plunges into the flames like a sanctified stream of ghee or a goddess falling from heaven, while monkeys and Rākṣasas cry out in anguish.
 </details>
 </details>
 

@@ -29,6 +29,14 @@ his parents. The boy died soon after the arrow was drawn out from the body.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakening at midnight on the sixth night after Rāma’s exile, King Daśaratha—eclipsed by grief like the sun by Rāhu—recalls a sinful deed of his youth and declares to Kausalyā that every doer inevitably reaps the fruit of his own actions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिबुद्धो मुहूर्तेन शोकोपहतचेतनः ।  
@@ -348,6 +356,14 @@ corresponding to the nature of work either good or bad, of that which he does!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whatever deed a man performs, O auspicious lady, whether auspicious or inauspicious (yad ācarati kalyāṇi śubhaṃ vā yadi vāśubham), the doer himself, O blessed one, reaps that very fruit born of his own action (tad eva labhate bhadre kartā karmajam ātmanaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing himself to a fool who cuts down a fruitful mango grove to water flashy palāśa trees, or a child who swallows poison out of delusion, Daśaratha recalls the sin he committed in his youth when proud of his skill as an archer who could pierce targets by sound alone.
 </details>
 </details>
 
@@ -675,6 +691,14 @@ eating poison in the world; O, Kausalya!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha recounts how, when he was crown prince and Kausalyā was not yet wedded, the sun turned south and the monsoon broke: cool clouds gathered, frogs, deer, and peacocks rejoiced, drenched birds sought shelter in wind-tossed trees, and the rain-sheeted mountains shone like the ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथान्यः पुरुषः कश्चित् पलाशैर्मोहितो भवेत् ।  
@@ -992,6 +1016,14 @@ mountain with its antelopes in rut, glowed like an ocean."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As mountain torrents colored white, red, and ash-gray wound like serpents, young Daśaratha rode out along the Sarayū to hunt by night; waiting in ambush in the darkness, he heard the gurgling of a pitcher being filled in the river and mistook it for a trumpeting elephant.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरारुणवर्णानि स्रोतांसि विमलान्यपि ।  
@@ -1258,6 +1290,14 @@ bank of Sarayu River and another violent beast too which came there."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to bag an elephant, Daśaratha looses a serpent-like arrow toward the sound; as dawn breaks, a human voice cries out in agony from the water, asking why anyone would strike a harmless bark-clad ascetic who had come to the river only to draw water.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमुञ्चं निशितं बाणमहमाशीविषोपमम् ।  
@@ -1462,6 +1502,14 @@ whom I was hit by an arrow? On the other hand what wrong have I done to anyone?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The wounded youth laments not his own death but the fate of his aged parents, whom a single reckless arrow has struck down along with him; hearing that piteous cry in the night, Daśaratha drops his bow and arrows in horror.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न क्वचित् साधु मन्येत यथैव गुरुतल्पगम् ।  
@@ -1663,6 +1711,14 @@ me, support themselves when I obtain my death?'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘My aged mother and father and I myself have all been slain by a single arrow (vṛddhau ca mātā-pitarāv ahaṃ caikeṣuṇā hataḥ); by what utter fool of undisciplined mind have we all been struck down (kena sma nihatāḥ sarve subālenākṛtātmanā)?’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the riverbank, Daśaratha finds the young ascetic lying smeared with dust and blood beside his flung-aside pitcher; fixing his eyes upon the terrified prince, the youth asks what wrong he had done and grieves for his blind, thirsty parents waiting in hope.
 </details>
 </details>
 
@@ -2010,6 +2066,14 @@ and father, who are blind and aged.'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing his blind, helpless father to a tree powerless to save another tree shattered by a storm, the dying youth directs Daśaratha along the single-file footpath to propitiate his father lest his wrath consume him like a forest fire, and begs the king to draw out the arrow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितुस्त्वमेव मे गत्वा शीघ्रमाचक्ष्व राघव ॥ ४३ ॥  
@@ -2257,6 +2321,14 @@ seek his graciousness, lest he should get angry and execrate you."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Torn between leaving the youth in agony with the arrow in him or causing his immediate death by drawing it out, Daśaratha hesitates; perceiving the king’s dread of brahmanicide, the dying ascetic steadies his mind and bids him banish that fear from his heart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताम्यमानं स मां कृच्छ्रादुवाच परमार्थवित् ॥ ४८ ॥  
@@ -2378,6 +2450,14 @@ pitiably, suffering from anguish."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Fainting, sinking, with his limbs contorted, writhing on the ground, and nearing his end (tāmyamānaḥ ... sīdamāno vivṛttāṅgo veṣṭamāno gataḥ kṣayam), he spoke to me with difficulty like one in supreme agony (sa māṃ kṛcchrād uvāca paramārtavat):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassuring the king that he is not a twice-born brahmin but was begotten by a Vaiśya upon a Śūdra mother, the youth writhes in agony on the riverbank; as Daśaratha draws out the arrow, the young ascetic gazes up at him in dread and breathes his last.
 </details>
 </details>
 

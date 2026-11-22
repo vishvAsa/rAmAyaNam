@@ -24,6 +24,14 @@ self-immolation along with her husband Vali.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān, the leader of the monkey troop, gently consoles the fallen Tārā with teachings on karmic retribution, the bubble-like fragility of the body, and her duty toward Prince Aṅgada.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निपतितां तारां च्युतां तारामिवाम्बरात् ।  
@@ -356,6 +364,14 @@ He upon whom thousands, hundreds, and millions of monkeys (harisahasrāṇi śat
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Tārā that Vālin has attained the realm won by dharma and that the monkey kingdom now depends on her, Hanumān urges Vālin's funeral rites and Aṅgada's coronation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदयं न्यायदृष्टार्थः सामदानक्षमापरः ।  
@@ -623,6 +639,14 @@ your son invested on the throne you can obtain peace." Thus spoke Hanuma to Tara
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Let the king of the monkeys receive his funeral rites (saṃskāryo harirājas tu), and let Aṅgada be consecrated (abhiṣicyatām); beholding your son seated upon the lion-throne (siṃhāsanagatam), you shall attain peace (śāntim eṣyasi).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by grief for her husband, Tārā replies to Hanumān that embracing the slain Vālin outweighs a hundred sons like Aṅgada and defers all royal authority to Sugrīva.
 </details>
 </details>
 

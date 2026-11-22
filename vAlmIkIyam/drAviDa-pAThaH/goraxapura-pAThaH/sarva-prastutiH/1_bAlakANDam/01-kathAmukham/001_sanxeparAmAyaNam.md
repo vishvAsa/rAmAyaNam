@@ -42,6 +42,14 @@ letter *ta* an auspicious letter.
 
 ## नारदाय प्रश्नः
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sage Vālmīki inquires of the celestial rishi Nārada whether an ideal mortal endowed with sixteen supreme excellences walks the earth today.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।  
@@ -357,6 +365,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing these words of Vālmīki, Nārada—knower of the three worlds (trilokajñaḥ)—was filled with joy; inviting the sage’s close attention with the words “Pray listen!” (śrūyatām), he spoke this discourse:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nārada reveals Śrī Rāma of the solar dynasty of Ikṣvāku, extolling His inner mastery, royal statesmanship, and auspicious physical marks (sāmudrika-lakṣaṇa).
 </details>
 </details>
 
@@ -718,6 +734,14 @@ proficient in prudence, clean in his conduct, self-controlled and an attentive o
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “He is the knower of dharma (dharmajñaḥ), unfailing in His solemn pledges (satyasandhaḥ), and ever delighted in the welfare of His subjects (prajānāṃ ca hite rataḥ); illustrious in renown (yaśasvī), rich in spiritual wisdom (jñānasampannaḥ), pure inside and out (śuciḥ), submissive to the virtuous (vaśyaḥ), and established in contemplative concentration (samādhimān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma as the universal protector of dharma, master of the Vedas and Dhanurveda, refuge of the virtuous, and peer of the cosmic archetypes.
 </details>
 </details>
 
@@ -1111,6 +1135,14 @@ to English.
 
 ### अभिषेकयत्नः
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Daśaratha resolves to consecrate Rāma as Prince Regent (Yuvarāja); Queen Kaikeyī claims her two ancient boons, and Rāma departs for the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवङ्गुणसम्पन्नं रामं सत्यपराक्रमम् ॥ १९ ॥  
@@ -1335,6 +1367,14 @@ directed by his father, and to follow his father's word of honour. [1-1-24]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa and Sītā accompany Rāma into the wilderness; Sumantra is dismissed at Śṛṅgaverapura, and the trio cross the Gaṅgā with Guha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह ।  
@@ -1518,6 +1558,14 @@ Lakshmana and Seetha, he left off the charioteer. [1-1-28b, 29, 30a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—on the bank of the Gaṅgā at the town of Śṛṅgaverapura, the righteous-souled prince bade farewell to the royal charioteer Sumantra (sūtaṃ vyasarjayat), † having met His dear friend Guha, lord of the Niṣādas (niṣādādhipatiṃ priyam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Idyllic residence on Mount Citrakūṭa; King Daśaratha’s ascent to heaven in grief; Bharata’s refusal of the throne and pilgrimage to implore Rāma.
 </details>
 </details>
 
@@ -1757,6 +1805,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Approaching the magnanimous Rāma of unfailing valor, Bharata—impelled by noble rectitude of heart (āryabhāvapuraskṛtaḥ)—entreated his elder brother Rāma,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consecration of the sacred Pādukās; Bharata’s regency at Nandigrāma; Rāma’s entry into Daṇḍakāraṇya, slaying of Virādha, and visits to Śarabhaṅga, Sutīkṣṇa, and Agastya.
 </details>
 </details>
 
@@ -2043,6 +2099,14 @@ called as *agatsyabhraataa*, brother of Agastya.
 
 ### ऋषिरक्षा
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receipt of divine weapons from Agastya; Rāma’s solemn vow to protect the sages of Daṇḍakāraṇya; disfigurement of Śūrpaṇakhā and annihilation of Khara, Triśiras, and Dūṣaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसतस्तस्य रामस्य वने वनचरैः सह ॥ ४३ ॥  
@@ -2309,6 +2373,14 @@ We are ignoring in translation the एव part of चैव and translating the 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fourteen thousand rākṣasas slain in Janasthāna; Rāvaṇa recruits Mārīca despite his warning; the abduction of Sītā, slaying of Jaṭāyu, and Rāma’s grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्च्छितः ॥ ४९ ॥  
@@ -2521,6 +2593,14 @@ seething with anguish ... [1-1-53b, 54a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “he carried off Rāma’s consort after striking down the vulture-king Jaṭāyu (gṛdhraṃ hatvā jaṭāyuṣam). And beholding the vulture mortally struck down, and hearing from him that Princess Maithilī had been abducted—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slaying and liberation of Kabandha; pilgrimage to the ascetic Śabarī; meeting Hanumān on the banks of Lake Pampā and alliance with Sugrīva.
 </details>
 </details>
 
@@ -2838,6 +2918,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fire-witnessed friendship with Sugrīva; Rāma’s pledge to slay Vālī; hurling Dundubhi’s skeleton ten leagues and piercing the seven palm/sāla trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वानरराजेन वैरानुकथनं प्रति ॥ ६१ ॥  
@@ -3118,6 +3206,14 @@ up to its core.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And furthermore, with a single mighty arrow (ekena maheṣuṇā), He pierced seven giant palm-trees (tālān sapta), the mountain crest beneath them, and the subterranean realm of Rasātala, inspiring complete confidence in Sugrīva.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The march to Kiṣkindhā; Sugrīva’s challenge and the slaying of Vālī with a single shaft; Sugrīva’s coronation and Hanumān’s leap across the ocean.
 </details>
 </details>
 
@@ -3406,6 +3502,14 @@ order'.
 
 ### सीतादर्शनम्
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Epitome of the Sundarakāṇḍa: Hanumān discovers Sītā in Aśokavanikā, delivers Rāma’s signet ring, crushes Akṣakumāra, burns Laṅkā, and announces “Seen is Sītā!”
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् ।  
@@ -3687,6 +3791,14 @@ submitted in essence thus: 'Seen Seetha...' [1-1-78]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+March to the ocean and construction of Nala’s bridge; slaying of Rāvaṇa in battle; Sītā’s ordeal by fire (Agni-parīkṣā) and universal jubilation of the three worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुग्रीवसहितो गत्वा तीरं महोदधेः ।  
@@ -3913,6 +4025,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thereupon, knowing Sītā to be wholly free from stain upon the testimony of Agni the Fire-god (agnivacanāt sītāṃ jñātvā vigatakalmaṣām)—by that mighty deed of the magnanimous Rāghava, the three worlds with all their moving and unmoving beings—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Coronation of Vibhīṣaṇa; revival of the fallen vānaras; aerial return in the Puṣpaka chariot; reunion with Bharata at Nandigrāma and the dawn of Rāmarājya.
 </details>
 </details>
 
@@ -4235,6 +4355,14 @@ foreseeing the future and telling Valmiki. [1-1-90]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The golden age of Rāmarājya: freedom from the fivefold perils, performance of a hundred Aśvamedha sacrifices, and establishment of universal dharma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न पुत्रमरणं केचिद् द्रक्ष्यन्ति पुरुषाः क्वचित् ।  
@@ -4477,6 +4605,14 @@ duty, in order to achieve a perfect social harmony... [1-1-96]
 **95:** “—having duly bestowed ten thousand crores of cows upon learned scholars according to scriptural injunction (gavāṃ koṭyayutaṃ dattvā vidvadbhyo vidhipūrvakam), † and having given immeasurable wealth to the brāhmaṇas, that monarch of supreme renown—
 
 **96:** “—Rāghava shall establish royal dynasties multiplied a hundredfold (rājavaṃśāñ śataguṇān sthāpayiṣyati), and in this world He shall establish the fourfold social order (cāturvarṇyam), each in its own righteous vocation (sve sve dharme niyokṣyati).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eleven-thousand-year reign of Śrī Rāma; His return to Brahmaloka; and the Phalaśruti (sacred fruits of reciting the Veda-equal Rāmāyaṇa).
 </details>
 </details>
 

@@ -277,6 +277,14 @@ as other Vedic Brahmans that are there, they all be invited swiftly..." [1-12-4,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra swiftly brings Vasiṣṭha and all the Veda-knowing sages; honoring them, Daśaratha declares his resolve to perform the Hayamedha sacrifice and obtain his cherished desire for sons through the spiritual potency of Ṛṣyaśṛṅga, and the Brāhmaṇas acclaim his words.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुमन्त्रस् त्वरितं  
@@ -479,6 +487,14 @@ son, Rishyasringa... [1-12-8, 9, 10a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And through the spiritual potency of the sage’s son (ṛṣiputraprabhāveṇa), I shall surely obtain my cherished desires!” Thereupon all the Brāhmaṇas applauded that speech, exclaiming “Excellent! Excellent!” (sādhv iti)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Ṛṣyaśṛṅga and Vasiṣṭha at their head, the sages bless Daśaratha to obtain four sons of boundless valor. Rejoicing, the King orders his ministers to gather the sacrificial requisites, loose the guarded steed accompanied by its preceptors, and prepare the sacrificial ground on the northern bank of the Sarayū.
 </details>
 </details>
 
@@ -744,6 +760,14 @@ Hearing that utterance of the twice-born sages, the King was filled with joy; an
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This great sacrifice is capable of being accomplished by any monarch only if no grievous ritual lapse or offense (nāparādho bhavet kaṣṭaḥ) should occur in this foremost of sacrifices—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that learned Brahmarākṣasas ever watch for any ritual flaw and that the patron of a rule-defective sacrifice perishes forthwith, Daśaratha charges his capable ministers to ensure strict Śāstric compliance; when the priests and ministers depart after the initial rites, the King retires to his inner apartments.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०१५ पुष्पक-प्राप्तिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing thousands of yakṣa lords put to flight, Kubera dispatches his formidable general Maṇibhadra; charging with four thousand warriors like swooping hawks, the yakṣas wage a tumultuous battle that fills heaven’s watchers with wonder.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ताल्ँ लक्ष्य वित्रस्तान् यक्षेन्द्रांश्च सहस्रशः ।  
@@ -202,6 +210,14 @@ Waging a tumultuous battle (kurvantas tumulaṃ yuddham) and swooping as swiftly
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon the gods together with the gandharvas (devāḥ sa-gandharvāḥ) and the Veda-chanting sages (ṛṣayo brahmavādinaḥ), beholding that tumultuous battle (dṛṣṭvā tat tumulaṃ yuddham), were filled with supreme astonishment (paraṃ vismayam āgaman).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prahasta, Mahodara, and Mārīca cut down all four thousand yakṣas through rākṣasa illusion; undaunted, Maṇibhadra absorbs Dhūmrākṣa’s pestle-blow and fells him with his mace, drawing Rāvaṇa himself into the duel.
 </details>
 </details>
 
@@ -403,6 +419,14 @@ Seeing Dhūmrākṣa struck down (dhūmrākṣaṃ tāḍitaṃ dṛṣṭvā) a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa knocks Maṇibhadra’s diadem awry, earning him the name Pārśvamauli; Kubera himself then advances with his ministers and personified Treasures and gravely rebukes his curse-hardened brother for courting hell.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्क्रुद्धमभिधावन्तं माणिभद्रो दशाननम् ।  
@@ -601,6 +625,14 @@ Beholding his brother in battle (dṛṣṭvā bhrātaraṃ saṅkhye), stripped
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kubera warns Rāvaṇa that unrecognized sin works like swallowed poison, that the gods forsake those bereft of dharma, that scorning elders leads to Yama’s grip, and that neglecting austerity in a fleeting body brings ruin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि मोहाद् विषं पीत्वा नावगच्छति दुर्मतिः ।  
@@ -787,6 +819,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For the fruit of sin is suffering (pāpasya hi phalaṃ duḥkham), and that must be experienced by oneself (tad bhoktavyam ihātmanā); therefore only a fool commits sin for his own self-destruction (ātmāpaghātārthaṃ mūḍhaḥ pāpaṃ kariṣyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that wisdom comes from merit rather than whim and refusing further converse with the wicked, Kubera routs Rāvaṇa’s ministers headed by Mārīca and engages his unyielding brother in a ferocious mace-duel.
 </details>
 </details>
 
@@ -982,6 +1022,14 @@ Then, O Rāma, striking one another in that mighty battle (nighnantau tadānyony
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Countering Kubera’s fiery missile with Varuṇa’s watery weapon, Rāvaṇa vanishes into rākṣasa illusion, conjures a myriad bewildering forms, and strikes his unsuspecting elder brother down with a mighty mace like a root-severed aśoka tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्नेयमस्त्रं तस्मै स मुमोच धनदस्तदा ।  
@@ -1139,6 +1187,14 @@ whirling a gigantic mace (vyāviddhya mahatīṃ gadām), struck Dhanada upon th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the personified Treasures carry the fallen Kubera to Nandana grove and revive him, the exultant Rāvaṇa seizes Puṣpaka—a thought-swift, shape-shifting aerial palace of gold, gems, pearls, and wish-yielding trees—as his trophy of victory.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पद्मादिभिस्तत्र निधिभिः स तदा वृतः ॥ ३६ ॥  
@@ -1263,6 +1319,14 @@ encircled with pillars of gold (kāñcana-stambha-saṃvītam), furnished with a
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 swift as thought and moving at will (manojavaṃ kāmagamam), able to assume any form and coursing through the skies (kāmarūpaṃ vihaṅgamam), with stairways of jewels and gold (maṇi-kāñcana-sopānam) and raised platforms of burnished gold (tapta-kāñcana-vedikam),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boarding Brahmā’s imperishable, all-season marvel Puṣpaka, the arrogant Rāvaṇa deems the three worlds already conquered and descends from Kailāsa, blazing atop the aerial car like sacrificial fire in a royal hall.
 </details>
 </details>
 

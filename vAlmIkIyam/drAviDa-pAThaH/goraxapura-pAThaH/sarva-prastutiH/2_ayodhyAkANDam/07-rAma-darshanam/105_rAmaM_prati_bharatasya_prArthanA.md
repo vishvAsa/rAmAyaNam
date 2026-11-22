@@ -27,6 +27,14 @@ and that Rama himself would obey his father's command by staying back in the for
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After a sorrowful night and morning ablutions in the Mandākinī, Bharata addresses Rāma amidst the silent assembly, declaring that Kaikeyī is appeased and imploring him to govern the vast realm that none else can restrain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पुरुषसिंहानां  
@@ -342,6 +350,14 @@ Even as a donkey cannot match the pace of a steed, nor an ordinary bird (patatri
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing a prince who fails to shelter his subjects to a mighty tree that blossoms without bearing fruit, Bharata prays that the guilds, trumpeting elephants, and palace women may behold Rāma enthroned like the blazing sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुजीवं नित्यशस्तस्य यः परैरुपजीव्यते ।  
@@ -579,6 +595,14 @@ together."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As you journey back to Ayodhyā (tavānuyāne), O Kākutstha, let rutting elephants trumpet aloud, and let the noble ladies of the inner apartments (antaḥpura-gatā nāryaḥ) rejoice with composed hearts!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the citizens applaud Bharata’s plea, self-possessed Rāma consoles his grieving brother by expounding the powerlessness of mortals before Destiny and the universal law that all accumulations, elevations, unions, and lives end in dissolution.
 </details>
 </details>
 
@@ -902,6 +926,14 @@ Just as a house supported by stout pillars (dṛḍha-sthūṇam āgāram), when
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing passing nights to the Yamunā flowing into the sea and days to summer sunbeams drying up life, Rāma warns that Death walks beside every mortal while deluded men rejoice at sunrise and sunset.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्येति रजनी या तु सा न प्रतिनिवर्तते ।  
@@ -1220,6 +1252,14 @@ Men rejoice when the sun has risen (udita āditye), and they rejoice when the su
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing human relationships to driftwood meeting and parting on the ocean and mortality to a traveller following a passing caravan, Rāma asks how anyone can mourn the inescapable ancestral road.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्यन्त्यृतुमुखं दृष्ट्वा नवं नवमिवागतम् ।  
@@ -1462,6 +1502,14 @@ fathers. Why a man who obtained that path, for which there is no return, distres
 **29:** Just as someone standing by the wayside (pathi sthitaḥ) might say to a passing caravan (sārthaṃ gacchantam), “I too shall come along right behind you (pṛṣṭhato bhavatām)!”—
 
 **30:** Even so, inevitable (dhruvaḥ) is the road trodden by our forefathers—the path of our fathers and grandfathers (pitṛ-paitāmahaḥ). Having entered upon that path which admits of no transgression (yasya nāsti vyatikramaḥ), how should a man grieve?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging that the soul be devoted to dharma while life flows past like an unreturning stream, Rāma declares that King Daśaratha—cleansed of sin by sacrifices, righteous taxation, and protection of his subjects—has ascended to heaven.
 </details>
 </details>
 
@@ -1785,6 +1833,14 @@ Having attained the noblest span of life and royal enjoyments too, O dear brothe
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Daśaratha has cast off his mortal frame to attain celestial glory in Brahmā’s realm, Rāma exhorts Bharata to abandon weeping and govern Ayodhyā while he himself fulfills his father’s command in the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स जीर्णमानुषं देहं परित्यज्य पिता हि नः ।  
@@ -2050,6 +2106,14 @@ whre I have been ordered to stay by that king Dasaratha of virtuous deeds."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Where I too have been appointed by that same father of meritorious deeds (tenaiva puṇya-karmaṇā), right there in the forest shall I carry out the command of our noble father (pitur āryasya śāsanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that a man who seeks the higher world must be righteous, compassionate, and obedient to his elders, Rāma concludes his discourse on upholding Daśaratha’s command and falls silent.
 </details>
 </details>
 

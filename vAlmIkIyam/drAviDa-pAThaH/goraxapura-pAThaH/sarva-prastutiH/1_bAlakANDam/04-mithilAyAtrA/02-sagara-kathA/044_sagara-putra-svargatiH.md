@@ -25,6 +25,14 @@ Brahma commends Bhageeratha in bringing Ganga onto earth which none
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by Gaṅgā, King Bhagīratha descends to the subterranean abyss where the ashes of Sagara’s sixty thousand sons are bathed, and Lord Brahmā proclaims their salvation and the river’s sacred names.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा सागरं राजा गङ्गयानुगतस्तदा ।  
@@ -309,6 +317,14 @@ Henceforth heavenly Ganga will be renowned as 'Triple-path-cruiser'
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lord Brahmā bids Bhagīratha offer ancestral water-libations in Gaṅgā’s stream and extols him for fulfilling the ancestral pledge that Sagara, Aṃśumān, and Dilīpa could not accomplish.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पितामहानां सर्वेषां त्वमत्र मनुजाधिप ।  
@@ -568,6 +584,14 @@ But, you have accomplished that pledge, oh, the best one among men,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That very pledge has been fully accomplished by you (sā tvayā samatikrāntā pratijñā), O bull among men (puruṣarṣabha), and you have attained supreme renown in the world, honoured by the highest (prāpto ’si paramaṃ loke yaśaḥ paramasaṃmatam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Bhagīratha bathe in the ever-pure stream and offer libations to his ancestors, Brahmā departs for his celestial abode, and the purified monarch returns to rule his prosperous capital.
 </details>
 </details>
 
@@ -838,6 +862,14 @@ On according those best water-oblations that endow superior realms
 **17:** Then the royal sage Bhagīratha of great renown, having offered the supreme water-libation (kṛtvā salilam uttamam) to the sons of Sagara in due order of seniority and according to sacred ordinance (yathākramaṃ yathānyāyaṃ sāgarāṇāṃ mahāyaśāḥ)—
 
 **18:** Having completed the obsequial water-rites and become ritually pure (kṛtodakaḥ śucī rājā), the king entered his own city (svapuraṃ praviveśa ha); with his purpose richly fulfilled, O best of men, he ruled his kingdom (samṛddhārtho naraśreṣṭha svarājyaṃ praśaśāsa ha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his people rejoicing under his restored rule, Viśvāmitra concludes the sacred narrative of Gaṅgā’s descent at the approach of twilight, proclaiming its purifying phalaśruti.
 </details>
 </details>
 

@@ -28,6 +28,14 @@ before her shortly.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To seal Sītā's confidence, Hanumān presents Rāma's name-engraved signet-ring; gazing upon her lord's hand-ornament, Janaka's daughter rejoices as though Rāma himself had arrived.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूय एव महातेजा हनूमान् पवनात्मजः ।  
@@ -323,6 +331,14 @@ delightful words, she praised Hanuma the great monkey (as follows):
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then that modest young lady (sā hrīmatī bālā), gladdened by tidings of her husband (bhartuḥ saṃdeśaharṣitā) and thoroughly satisfied (parituṣṭā), showed him honor (priyaṃ kṛtvā) and praised the great monkey (praśaśaṃsa mahākapim):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā praises Hanumān's valor, strength, and wisdom in reducing the hundred-yojana ocean to a cow's hoofprint and entering Laṅkā undaunted by Rāvaṇa.
 </details>
 </details>
 
@@ -648,6 +664,14 @@ And by good fortune (diṣṭyā ca) Rāma, righteous of soul (dharmātmā) and 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wondering why Rāma has not yet burned the ocean-girt earth in wrath, Sītā attributes her delay to her own fate and asks after Rāma's statecraft and allies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशली यदि काकुत्स्थः किं न सागरमेखलाम् ।  
@@ -965,6 +989,14 @@ having good friends and even so honoured by them."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Does he win friends (kaccin mitrāṇi labhate), and is he approached even by foes [seeking refuge] (amitraiś cāpy abhigamyate)? Does he possess auspicious friends (kalyāṇamitraś ca), and is he honored by his allies (mitraiś cāpi puraskṛtaḥ)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā asks whether Rāma combines human effort with divine grace, whether exile has cooled his love, how Kausalyā, Sumitrā, and Bharata fare, and whether Bharata will send an army.
 </details>
 </details>
 
@@ -1289,6 +1321,14 @@ with banners, guarded by the ministers, consisting of ten anikinis (21870 elepha
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Will Bharata, who is devoted to his brother (bhrātṛvatsalaḥ), dispatch for my sake (preṣayiṣyati matkṛte) a dreadful army of a full akṣauhiṇī (akṣauhiṇīṃ bhīmāṃ dhvajinīm) guarded by his counselors (mantribhir guptām)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā asks whether Sugrīva and Lakṣmaṇa will come to slay the Rākṣasas, whether grief withers Rāma's lotus-fragrant face, and declares she wishes to live only to hear of him.
 </details>
 </details>
 
@@ -1639,6 +1679,14 @@ Neither his mother, nor his father, nor anyone else (na cānyaḥ) excels me or 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing folded hands upon his head, Hanumān replies that Rāma delayed only through not knowing her abode, and will soon bridge the ocean with arrows and slay every foe.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतीव देवी वचनं महार्थं  
@@ -1968,6 +2016,14 @@ If Death himself (yadi mṛtyuḥ), or the gods, or the great Asuras (mahāsurā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swearing by Mounts Mandara, Malaya, Vindhya, Meru, and Dardura and by roots and fruits, Hanumān describes Rāma's ascetic fasts and complete absorption in thoughts of Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवादर्शनजेनार्ये शोकेन परिपूरितः ।  
@@ -2250,6 +2306,14 @@ his body, nor mosquitoes nor insects nor reptiles from his body."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With his inner soul wholly absorbed in you (tvadgatenāntarātmanā), Rāghava does not even brush away (naivāpanayet) from his body (gātrāt) gadflies (daṃśān), or mosquitoes (maśakān), or insects (kīṭān), or creeping things (sarīsṛpān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing how sleepless Rāma awakens calling her name and sighs over every lovely flower, Sītā is at once relieved and grieved, shining like an autumn night.
 </details>
 </details>
 

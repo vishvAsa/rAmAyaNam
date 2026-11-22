@@ -48,6 +48,14 @@ oddity in the shrewd talk of Seetha. Some more discussion is incorporated in the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Mārīca's counterfeit cry of distress, the terrified Sītā urges Lakṣmaṇa to rescue Rāma, and when he stands firm by Rāma's command, she accuses him of treachery.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तस्वरं तु तं भर्तुर्विज्ञाय सदृशं वने ।  
@@ -318,6 +326,14 @@ and even abusively because her mind is fuddled with the thought 'some damage is 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping and trembling like a doe, Sītā declares her life pointless if Rāma is in peril, whereupon Lakṣmaṇa assures her that Rāma is invincible across all worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोभात्तु मत्कृते नूनं नानुगच्छसि राघवम् ।  
@@ -534,6 +550,14 @@ fiends, demons, no doubt about it.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And trembling like a doe (trastāṃ mṛga-vadhūm iva), Lakṣmaṇa spoke to Sītā: “By Nāgas, Asuras, Gandharvas, gods, Dānavas, and Rākṣasas (pannagāsura-gandharva-deva-dānava-rākṣasaiḥ)—”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa explains that Rāma is invulnerable even against the three worlds combined, that the cry was Mārīca's illusion, and that Sītā is a sacred trust he dare not abandon.
 </details>
 </details>
 
@@ -866,6 +890,14 @@ of Khara and others, and concerning the eradication of Janasthaana. [3-45-18b, 1
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lakṣmaṇa warns that the Rākṣasas mimic voices in vengeance for Khara's death, Sītā flies into a rage and accuses him of plotting with Bharata to win her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसा विविधा वाचो व्याहरन्ति महावने ॥ १९ ॥  
@@ -1141,6 +1173,14 @@ sent 'you' alone.'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Utterly wicked (suduṣṭaḥ), you alone follow Rāma as he goes alone in the forest (vane rāmam ekam eko 'nugacchasi), harbouring a secret design on account of me (mama hetoḥ praticchannaḥ), or else suborned by Bharata (prayukto bharatena vā)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to die before desiring any man other than lotus-eyed Rāma, Sītā pierces Lakṣmaṇa with harsh words, and with joined palms he laments the fickle nature of women.
 </details>
 </details>
 
@@ -1437,6 +1477,14 @@ yet he is tolerating.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Calling the forest deities to witness Sītā's unjust accusations and noting dreadful portents, Lakṣmaṇa prays for her safety and prepares to depart, leaving Sītā in tears.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपशृण्वन्तु मे सर्वे साक्षिणो हि वनेचराः ॥ ३१ ॥  
@@ -1666,6 +1714,14 @@ him, while tears whelmed her to a fault. [3-45-35]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus by Lakṣmaṇa, the weeping daughter of Janaka (rudatī janakātmajā), flooded with burning tears (tīvra-bāṣpa-pariplutā), then spoke these words in reply (pratyuvāca tato vākyam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to drown in the Godāvarī or enter the fire rather than touch another man, Sītā beats her belly in grief, and Lakṣmaṇa reluctantly departs toward Rāma.
 </details>
 </details>
 

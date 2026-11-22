@@ -13,6 +13,14 @@ title = "०२८ इन्द्रजिज्-जयन्त-युद्�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Sumālin reduced to ashes and his army routed, the enraged Meghanāda rallies the rākṣasas and charges the celestial host in his fiery chariot, forcing Śakra to halt the fleeing gods by sending forth his unconquered son.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमालिनं हतं दृष्ट्वा वसुना भस्मसात्कृतम् ।  
@@ -174,6 +182,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Do not fear, do not flee (na bhetavyaṃ na gantavyam)! Turn back into the battle, O gods (nivartadhvaṃ raṇe surāḥ)! Behold, this unconquered son of mine (putro me ... aparājitaḥ) goes forth to do battle (yuddhārtham)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indra’s famed son Jayanta enters the field in a wondrous chariot surrounded by the rallied gods, exchanging fierce volleys with Rāvaṇi as both princes strike at each other’s charioteers and clash in deadly earnest.
 </details>
 </details>
 
@@ -360,6 +376,14 @@ And likewise Jayanta, son of Śacī, [pierced] his charioteer (tasya sārathim);
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Possessed by wrath (krodha-samāviṣṭaḥ), mighty, and with eyes wide-distended (visphāritekṣaṇaḥ), that Rāvaṇi overwhelmed Śakra’s son (śakra-tanayam) with showers of arrows (śara-varṣair avākirat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇi showers thousands of blades, clubs, and mountain peaks upon the celestial ranks, conjuring a blinding pall of darkness in which bewildered gods and rākṣasas blindly strike down their own comrades.
 </details>
 </details>
 
@@ -552,6 +576,14 @@ Enveloped in darkness and completely bewildered (sammūḍhās tamasācchannā�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+During the turmoil, the Daitya Puloman rescues his grandson Jayanta and plunges with him into the sea; thinking him lost, the gods flee before Rāvaṇi’s charge until Indra summons Mātali and his swift celestial chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे वीरः पुलोमा नाम वीर्यवान् ।  
@@ -735,6 +767,14 @@ Beholding his son’s disappearance (dṛṣṭvā praṇāśaṃ putrasya) and 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And that celestial, awe-inspiring great chariot (divyo mahābhīmaḥ ... mahārathaḥ), already prepared (sajja eva) and of mighty speed (mahājavaḥ), stood ready before him, driven by Mātali (mātalinā vāhyamānaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Indra sallies forth amid thundering clouds, Gandharva music, dancing Apsarases, and marshaled gods—yet accompanied by grim portents—Rāvaṇa mounts his Viśvakarman-wrought chariot wreathed in blazing, hissing serpents.
 </details>
 </details>
 
@@ -927,6 +967,14 @@ Wreathed with hair-raising serpents of stupendous might (pannagaiḥ sumahākār
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa advances against Mahendra and bids Meghanāda rest aside as the armies clash like storm-clouds; meanwhile, a frenzied Kumbhakarṇa batters all comers with limb and weapon until the Rudras riddle him with blows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दैत्यैर्निशाचरैश्चैव स रथः परिवारितः ।  
@@ -1116,6 +1164,14 @@ Then that night-roamer clashed with the dread Rudras (rudrair mahāghoraiḥ sa�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bristling with weapons and bleeding like a storm-cloud, Kumbhakarṇa fights on as the Maruts and gods rout the rākṣasa host, leaving slain demons writhing on the earth or slumped rigidly in death atop their bizarre mounts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभौ शस्त्राचिततनुः कुम्भकर्णः क्षरन्नसृक् ।  
@@ -1249,6 +1305,14 @@ Some, struck down and hacked to pieces (vinihatāḥ kṛttāḥ), writhed upon 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the strewn rākṣasas lie like a painted tableau beside a blood-swollen river of battle, an enraged Rāvaṇa surveys his shattered host and plunges straight through the surging ocean of gods toward Śakra himself.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्रकर्म इवाभाति सर्वेषां रणसम्प्लवः ।  
@@ -1370,6 +1434,14 @@ Meanwhile, the enraged and majestic Ten-Necked One (kruddho daśagrīvaḥ prat�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Swiftly plunging into that surging ocean of an army (vigāhyāśu pravṛddhaṃ sainya-sāgaram), advanced straight against Śakra himself (śakram evābhyavartata), slaughtering the thirty gods in combat (tridaśān samare nighnan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indra advances twanging his thunderous bow and showers fiery shafts upon Rāvaṇa’s head; Rāvaṇa answers with an equal storm of arrows until their converging volleys shroud the entire world in impenetrable darkness.
 </details>
 </details>
 

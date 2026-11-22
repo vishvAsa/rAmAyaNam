@@ -23,6 +23,14 @@ othere important demons and Vibhishana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wasted by infatuated passion for Maithilī and by his sin, Rāvaṇa mounts his jewel-decked chariot and rides in state toward the grand council hall.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स बभूव कृशो राजा मैथिलीकाममोहितः ।  
@@ -304,6 +312,14 @@ then marched, duly surrounding him from sides and even behind.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and others, arrayed in manifold grotesque attires (nānāvikṛtaveṣāś ca) and decked with diverse ornaments, surrounded him on his flanks and in the rear (pārśvataḥ pṛṣṭhataś cainam parivārya) and marched along.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Followed by car-warriors, rutting elephants, and prancing steeds amid booming drums and conchs, Rāvaṇa rides down the royal highway beneath his moon-white parasol.
 </details>
 </details>
 
@@ -622,6 +638,14 @@ two yak-tail whisks (cāmaravyajane) shone to his left and right (savyadakṣi�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Greeted with cries of victory, Rāvaṇa enters the crystal-inlaid assembly hall built by Viśvakarman, ascends his cat's-eye throne, and summons the rākṣasas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसैः स्तूयमानः सञ्जयाशीर्भिररिन्दमः ॥ १३ ॥  
@@ -865,6 +889,14 @@ all the demons here quickly."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bring all these rākṣasas hither to me swiftly (samānayata me kṣipram ihaitān rākṣasān)! I know that a momentous task is at hand (kṛtyam asti mahaj jāne) which must be accomplished with regard to our enemies (śatrubhiḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned from every house and pleasure-garden, rākṣasa warriors throng the streets like garuḍas in the sky, enter on foot like lions, and take their appointed seats.
 </details>
 </details>
 
@@ -1116,6 +1148,14 @@ Clasping the King's feet (rājñaḥ pādau gṛhītvā tu) and honored by the K
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wise ministers, accomplished counselors, and hundreds of heroes assemble in the golden hall, followed by the illustrious Vibhīṣaṇa arriving in his chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते समेत्य सभायां वै राक्षसा राजशासनात् ।  
@@ -1297,6 +1337,14 @@ ministers and well-wishers then to be a fit time.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the great-souled, illustrious Vibhīṣaṇa mounted his spacious, auspicious, and excellent chariot—yoked with fine steeds (suyugyam) and its frame variegated with gold (hemavicitritāṅgam)—and proceeded to his elder brother's assembly (saṃsadam agrajasya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa announces his name and bows to Rāvaṇa's feet; perfumed with aloe and sandalwood, the hushed assembly gazes upon Rāvaṇa shining like Indra among the Vasus.
 </details>
 </details>
 

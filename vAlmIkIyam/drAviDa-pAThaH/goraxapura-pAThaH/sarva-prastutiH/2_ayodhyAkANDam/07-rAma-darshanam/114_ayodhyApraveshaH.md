@@ -24,6 +24,14 @@ which exhibits a vacant look and feels distressed.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching in his deep-rumbling chariot, Bharata enters desolate Ayodhyā—haunted by cats and owls, dark as a moonless night, like Rohiṇī afflicted by Rāhu, a shrunken mountain stream, a quenched altar-flame, or a shattered army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्निग्धगम्भीरघोषेण स्यन्दनेनोपयान् प्रभुः ।  
@@ -352,6 +360,14 @@ like an army reduced to ruin in a great battle, with its armor shattered (vidhva
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ayodhyā is compared to a stilled ocean wave, a hushed sacrificial altar after the Soma-pressing, a herd of kine forsaken by its bull, a pearl necklace stripped of rubies, a fallen star, and a forest creeper scorched by wildfire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सफेनां सस्वनां भूत्वा सागरस्य समुत्थिताम् ।  
@@ -670,6 +686,14 @@ withering.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 like a forest creeper at the close of spring, thickly clustered with blossoms and resonant with intoxicated bees (puṣpa-naddhāṃ vasantānte matta-bhramara-nāditām vana-latām iva), now withered and scorched by a swift forest fire (druta-dāvāgni-vipluṣṭāṃ klāntām);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its markets closed and thoroughfares hushed, Ayodhyā resembles an overcast sky, a deserted drinking ground strewn with broken goblets, a collapsed wayside water-shed, a severed bowstring, an exhausted filly, or a dried-up lotus pond.
 </details>
 </details>
 
@@ -992,6 +1016,14 @@ like a broad reservoir with its banks breached and its water dried up (śuṣka-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering Ayodhyā—which resembles a joyless man’s unadorned frame or the sun’s radiance hidden by dark monsoon clouds—Bharata asks his charioteer why the deep sound of song, music, wine-scent, and incense is no longer perceived.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु खल्वद्य गम्भीरो मूर्च्छितो न निशाम्यते ।  
@@ -1213,6 +1245,14 @@ like sandal-wood, aloe wood as also the most admirable and fresh floral garlands
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata laments that with Rāma exiled, neither the rumble of carriages, nor the neighing of steeds, nor the trumpeting of elephants is heard; young men shun perfumes and garlands, festivals have ceased, and the city’s radiance has departed with Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नोत्सवाः सम्प्रवर्तन्ते रामशोकार्दिते पुरे ।  
@@ -1365,6 +1405,14 @@ autumnal rains?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Men wearing bright garlands no longer go forth on pleasure-excursions outside (bahir-yātrāṃ na gacchanti citra-mālya-dharā narāḥ), nor do festivals take place in the city afflicted with grief for Rāma (notsavāḥ sampravartante rāma-śokārdite pure).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yearning for the day when Rāma will return like a summer rain-cloud to gladden Ayodhyā, Bharata enters his father’s palace—bereft of the king like a lionless cave and lusterless like a sunless day—and sheds tears.
 </details>
 </details>
 

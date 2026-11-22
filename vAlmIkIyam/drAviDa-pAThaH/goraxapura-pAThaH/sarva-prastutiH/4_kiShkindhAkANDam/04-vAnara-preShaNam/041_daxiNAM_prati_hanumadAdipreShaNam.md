@@ -29,6 +29,14 @@ Seetha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dispatched the eastern host, Sugrīva selects his most tested heroes—including Nīla, Hanūmān, Jāmbavān, and Mainda—under Crown Prince Aṅgada's leadership to search the southern quarter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रस्थाप्य सुग्रीवस्तन्महद्वानरं बलम् ।  
@@ -236,6 +244,14 @@ forming search party and ordered southern direction for them. [4-41-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having appointed Aṅgada of mighty strength (bṛhadbalam) as the chief leader (agresaram) of those monkey heroes, he assigned to them the southern quarter.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva recounts the impassable landmarks of the southern quarter, from the thousand-peaked Vindhya, Narmadā, and Godāvarī through Daṇḍakāraṇya down to the Cola, Pāṇḍya, and Kerala realms.
 </details>
 </details>
 
@@ -473,6 +489,14 @@ Ashoka's time, it was called *kerala putra.*
 **11:** “And likewise the Vaṅgas, the Kaliṅgas, and the Kauśikas on all sides; having searched the Daṇḍaka forest with its mountains, rivers, and caves,
 
 **12:** “Survey the River Godāvarī in its entirety, and likewise the Āndhras, the Puṇḍras, the Colas, the Pāṇḍyas, and the Keralas.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pressing south to mineral-rich Mount Ayomukha and sandal-wooded Malaya, the monkeys will behold the Kāverī, receive Agastya's blessing, and cross the Tāmraparṇī to the Pāṇḍya gate.
 </details>
 </details>
 
@@ -859,6 +883,14 @@ and conduct your search even in that kingdom. [4-41-18b, 19a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beyond the pearl-decked Pāṇḍya gate stands golden Mount Mahendra, placed in the sea by Agastya; across a hundred yojanas of ocean lies the radiant island where Sītā must be sought.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुद्रमासाद्य सम्प्रधार्यार्थनिश्चयम् ॥ १९ ॥  
@@ -1072,6 +1104,14 @@ noted above.
 **23:** “The thousand-eyed [Indra] visits that [mountain] constantly on every festival day (parvasu parvasu); on its farther shore across [the sea] lies an island a hundred yojanas wide,
 
 **24:** “Inaccessible to mortal men (agamyo mānuṣaiḥ) and radiant; search that [island] on all sides—there especially (viśeṣataḥ), with all your soul, Sītā must be sought.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning of Rāvaṇa's island realm and the shadow-seizing demoness Aṅgārakā in the southern sea, Sugrīva describes sky-scraping Mount Puṣpitaka with its sun-gold and moon-silver peaks.
 </details>
 </details>
 
@@ -1455,6 +1495,14 @@ or to the unkindly ones or to unbelievers. [4-41-30]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing to Mount Puṣpitaka, the monkeys must cross Mounts Sūryavān and Vaidyuta to reach Mount Kuñjara, site of Agastya's golden mansion and the serpent city Bhogavatī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणम्य शिरसा शैलं तं विमार्गथ वानराः ।  
@@ -1728,6 +1776,14 @@ gemstones, and it measures a yojana breadthwise and ten yojana-s in height. [4-4
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After searching Vāsuki's serpent-guarded city Bhogavatī, the monkeys will reach jewel-formed Mount Ṛṣabha, where four radiant varieties of divine sandalwood grow that must never be touched.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र भोगवती नाम सर्पाणामालयः पुरी ॥ ३६ ॥  
@@ -1993,6 +2049,14 @@ called Rohita will be protecting that dangerous woodland of sandalwood trees. [4
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fierce Rohita Gandharvas under five sun-bright chiefs guard that sandalwood forest; beyond the luminous realm of heaven-winners at earth's end lies Yama's dark Pitṛloka, the southern limit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोहिता नाम गन्धर्वा घोरं रक्षन्ति तद्वनम् ।  
@@ -2196,6 +2260,14 @@ sections in this hell for various sins committed while alive or on rebirth.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This is the capital (rājadhānī) of Yama, shrouded in painful darkness (kaṣṭena tamasāvṛtā); thus far alone, O heroic bulls among monkeys, is it possible for you to search or to go—beyond this there is no passage for beings endowed with motion (gatimatām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva promises equal royal wealth, his highest love, and full pardon of past offenses to whichever monkey returns within a month announcing that Sītā has been seen.
 </details>
 </details>
 

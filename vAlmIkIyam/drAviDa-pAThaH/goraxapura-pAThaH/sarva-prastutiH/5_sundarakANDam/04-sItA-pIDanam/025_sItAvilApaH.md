@@ -23,6 +23,14 @@ ogre women.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weeping amid the harsh ogresses, Sītā reiterates in a choked voice that she will never wed a rākṣasa, trembling like a wolf-harassed doe as she clings to a flowering branch.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तासां वदन्तीनां परुषं दारुणं बहु ।  
@@ -314,6 +322,14 @@ Clinging to a large, flowering branch of the aśoka tree (aśokasya vipulāṃ �
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathing her bosom in tears, Sītā falls like a wind-struck plantain tree, her long braid writhing like a serpent as she cries out to Rāma, Lakṣmaṇa, Kausalyā, and Sumitrā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा स्नापयन्ती विपुलौ स्तनौ नेत्रजलस्रवैः ।  
@@ -578,6 +594,14 @@ mother-in-law" "Oh! Sumitra!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā reflects on the proverb that untimely death is impossible, comparing herself to a storm-tossed ship and an eroding riverbank while envying those who behold lotus-eyed Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकप्रवादः सत्योऽयं पण्डितैः समुदाहृतः ।  
@@ -804,6 +828,14 @@ gait of a lion, correct in conduct and a pleasant talker."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Blessed are they who behold (dhanyāḥ paśyanti) my lord, whose eyes resemble the petals of a blossoming lotus (padmadalapatrākṣam), who walks with the stride of a lion (siṃhavikrāntagāminam), grateful and kindly-spoken (kṛtajñaṃ priyavādinam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing her separation from Rāma to swallowing virulent poison, Sītā wonders what past-life sin brought this torment and curses the human dependency that prevents her from ending her life.
 </details>
 </details>
 

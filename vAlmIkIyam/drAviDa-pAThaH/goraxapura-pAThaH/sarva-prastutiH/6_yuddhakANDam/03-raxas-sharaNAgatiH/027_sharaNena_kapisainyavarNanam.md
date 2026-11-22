@@ -25,6 +25,14 @@ the army of monkeys, mentioning their names one by one, in detail.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāraṇa points out the long-tailed Vānara commander Hara and the countless dark-hued bear-warriors massed like storm-clouds upon the shore.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्तु ते सम्प्रवक्ष्यामि प्रेक्षमाणस्य यूथपान् ।  
@@ -141,6 +149,14 @@ soon."
 **3:** —which, when held aloft (pragṛhītāḥ), shine like the rays of the sun (sūryasyeva marīcayaḥ) and trail along the ground (pṛthivyāṃ cānukṛṣyante)—this Vānara is named Hara.
 
 **4:** Behind him (pṛṣṭhataḥ) follow by the hundreds and thousands, suddenly brandishing trees (vṛkṣān udyamya) and intent upon scaling Laṅkā (laṅkārohaṇatatparāḥ),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāraṇa describes Dhūmra, overlord of the bears from Mount Ṛkṣavat, and his younger brother Jāmbavān, who aided Indra against the Asuras.
 </details>
 </details>
 
@@ -389,6 +405,14 @@ By this wise Jāmbavān (dhīmatā jāmbavatā) great assistance (sāhyaṃ maha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāraṇa describes Jāmbavān's fearless bear-troops, the monkey lord Dambha who serves Indra, and the colossal grandsire of Vānaras, Saṃnādana.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरुह्य पर्वताग्रेभ्यो महाभ्रविपुलाः शिलाः ।  
@@ -519,6 +543,14 @@ Dambha who along with his bulky troops dwell on Sahasraksha mountain."
 **15:** Whom all the Vānaras, standing still, gaze upon—that commander of troop-commanders (yūthapayūthapam), fierce with rage (abhisaṃrabdham), who stands as though leaping (plavamānam avasthitam)—
 
 **16:** —this lord of monkeys (harīśvaraḥ), O king, attends upon the thousand-eyed Indra (sahasrākṣam) with his host (balena); endowed with might (balasaṃyuktaḥ), this troop-commander is named Dambha.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāraṇa concludes his account of Saṃnādana and introduces Agni's son Krathana, who dwells on Kubera's mountain with a thousand crores of monkeys.
 </details>
 </details>
 
@@ -758,6 +790,22 @@ shining like the rays of the sun standing erect thrown about are dragging along 
 **23:** —there this glorious and mighty foremost of Vānaras (vānarottamaḥ) delights (ramate); ever unboastful in battles (yuddheṣv akatthanaḥ), this troop-commander is named Krathana.
 
 **24:** Surrounded by a thousand crores of monkeys (koṭisahasreṇa harīṇām) and standing ready (samavasthitaḥ), he alone aspires (eṣaivāśaṃsate) to crush Laṅkā with his own army (svenānīkena).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāraṇa points out the fierce commander Pramāthī, who haunts the Gaṅgā and Mount Mandara while waging monkeys' ancient feud against elephants.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāraṇa describes the dust-clouded host of Pramāthī, the black-faced golāṅgūla chief Gavākṣa, and the golden mountain Meru where Kesarī dwells.
 </details>
 </details>
 
@@ -1005,6 +1053,14 @@ their bodily strength."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāraṇa names Kesarī of the Golden Mountain and describes the fiery, four-tusked monkey hosts dwelling upon the sixty thousand golden peaks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रमराचरिता यत्र सर्वकालफलद्रुमाः ॥ ३४ ॥  
@@ -1212,6 +1268,14 @@ like that of clouds. All of them stand looking on your Lanka as if they are abou
 **41:** All of them are equal to Vaiśvānara fire (vaiśvānarasamāḥ) and resemble blazing venomous serpents (jvaladāśīviṣopamāḥ), having very long, gracefully curved tails (sudīrghāñcitalāṅgūlāḥ) and resembling rutting elephants (mattamātaṅgasaṃnibhāḥ).
 
 **42:** Resembling great mountains (mahāparvatasaṃkāśāḥ) and thundering like massive storm-clouds (mahājīmūtaniḥsvanāḥ), they have round, yellow-brown eyes (vṛttapiṅgalanetrāḥ) and most terrible gaits and roars (mahābhīmagatisvanāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sāraṇa concludes by naming the Sun-worshiping Śatabali, along with Gaja, Gavākṣa, Gavaya, Nala, Nīla, and the countless Vindhya warriors.
 </details>
 </details>
 

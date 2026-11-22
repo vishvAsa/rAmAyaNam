@@ -32,6 +32,14 @@ Rama comes across lake from which divine music is heard. Surprised at the musica
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Rāma leading in front, Sītā in the middle, and Lakṣmaṇa guarding the rear, the trio journey through teeming forests until they behold a vast lotus-filled lake at sunset.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्रतः प्रययौ रामः सीता मध्ये सुशोभना ।  
@@ -352,6 +360,14 @@ Thronged with red and white lotuses (padma-puṣkara-sambādham), adorned with h
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing unseen music and song rising from the clear waters of the lake, Rāma questions the ascetic Dharmabhṛt, who identifies it as Lake Pañcāpsaras created by Sage Māṇḍakarṇi.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसन्नसलिले रम्ये तस्मिन् सरसि शुश्रुवे ।  
@@ -656,6 +672,14 @@ of the lake, and consuming air alone. [4-11-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For that great sage Māṇḍakarṇi practised fierce austerity (tepe tapas tīvram) for ten thousand years in the water (jalāśaye), subsisting on air alone (vāyu-bhakṣaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alarmed by Māṇḍakarṇi’s penance, the gods dispatch five chief apsarases who captivate the sage, become his wives, and dwell with him in a submerged palace.
 </details>
 </details>
 
@@ -979,6 +1003,14 @@ Dwelling right there at their ease (nivasantyo yathā-sukham), the five apsarase
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marvelling at Dharmabhṛt’s account of the underwater music, Rāma enters the circle of hermitages and dwells successively with the sages for months and years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां सङ्क्रीडमानानामेष वादित्रनिःस्वनः ।  
@@ -1223,6 +1255,14 @@ earlier, for another round. [4-11-22, 23, 24a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Dwelt there happily (uṣitvā sa sukhaṃ tatra), honoured by the great sages; and in due turn (paryāyeṇa) he visited the hermitages of those ascetics
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After ten years of dwelling happily in various hermitages across Daṇḍakā, Rāma returns to Sutīkṣṇa’s ashram and reverently inquires about the abode of Sage Agastya.
 </details>
 </details>
 
@@ -1514,6 +1554,14 @@ There too Rāma, subduer of foes, dwelt for a certain time (kiṃcit kālam). Th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma expresses his ardent desire to pay homage to Sage Agastya with Sītā and Lakṣmaṇa, and Sutīkṣṇa rejoices that Rāma has voiced the very counsel he wished to give.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन्नरण्ये भगवन्नगस्त्यो मुनिसत्तमः ॥ ३० ॥  
@@ -1799,6 +1847,14 @@ Agastya is. [4-11-36b, 37a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sutīkṣṇa directs Rāma four yojanas south to the idyllic hermitage of Agastya’s brother, and thence one yojana further south along the forest edge to Agastya’s own ashram.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयमाख्यामि ते राम यत्रागस्त्यो महामुनिः ।  
@@ -2020,6 +2076,14 @@ abounding with diverse trees will naturally be delightful, isn't it. [4-11-41b, 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There Vaidehī and Lakṣmaṇa shall delight together with you (raṃsyate tatra vaidehī); for charming is that forest region, abounding in many trees.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding farewell to Sutīkṣṇa, Rāma journeys with Sītā and Lakṣmaṇa along the indicated path and recognizes the hermitage of Agastya’s brother by its fruit-laden trees.
 </details>
 </details>
 
@@ -2306,6 +2370,14 @@ I perceive it to be the hermitage of Agastya's bother. [4-11-48]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For just as the trees of this forest were described to us, so here along the way they are recognized by the thousands (jñātāḥ pathi sahasraśaḥ), bowed down with the weight of fruits and blossoms (saṃnatāḥ phala-bhāreṇa puṣpa-bhāreṇa ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out the pungent aroma of ripe long-pepper, cut darbha grass, sacrificial smoke, and bathing brahmins, Rāma praises Agastya’s feat of making the southern quarter safe.
 </details>
 </details>
 
@@ -2643,6 +2715,14 @@ By whose brother of meritorious deeds (yasya bhrātrā ... puṇya-karmaṇā), 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma recounts to Lakṣmaṇa how the demon brothers Ilvala and Vātāpi slaughtered thousands of brahmins by feeding them Vātāpi in the form of a ram at śrāddha feasts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैकदा किल क्रूरो वातापिरपि चेल्वलः ।  
@@ -2938,6 +3018,14 @@ used to kill.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus thousands of brahmins were constantly destroyed by those flesh-eating demons who could assume any form at will (kāma-rūpibhiḥ), acting in concert (saṃhatya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Petitioned by the gods, Sage Agastya devours and digests the ram-demon Vātāpi at the śrāddha feast and burns the charging Ilvala to ashes with his fiery glance.
 </details>
 </details>
 
@@ -3266,6 +3354,14 @@ As he rushed against that chief of the twice-born (so ’bhyadravad dvijendraṃ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As sunset arrives at the close of Rāma’s tale, the princes perform their evening sandhyā prayers, spend the night as guests of Agastya’s brother, and take leave at dawn.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यायमाश्रमो भ्रातुस्तटाकवनशोभितः ।  
@@ -3580,6 +3676,14 @@ as I wish to proceed to see your mentor and elder brother Agastya. [4-11-72]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting out along the indicated path, Rāma admires the blossoming forest trees and infers from the glossy foliage and tranquil beasts that Agastya’s ashram is near.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गम्यतामिति तेनोक्तो जगाम रघुनन्दनः ।  
@@ -3829,6 +3933,14 @@ very far from here. [4-11-78]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Inasmuch as the trees have glossy leaves (snigdha-patrā yathā vṛkṣāḥ) and the beasts and birds are gentle and tranquil (kṣāntā mṛga-dvijāḥ), the hermitage of the great sage of purified soul cannot be far distant (nātidūrasthaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Agastya’s smoke-wreathed hermitage adorned with bark-garments, Rāma extols the sage whose spiritual power made the southern quarter peaceful and renowned by his name.
 </details>
 </details>
 
@@ -4116,6 +4228,14 @@ And by the name of that venerable lord (nāmnā ceyaṃ bhagavataḥ), this ausp
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how Mount Vindhya ceased growing in obedience to Agastya’s command, Rāma resolves to worship the sage adored by gods and siddhas and spend his remaining exile there.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्गं निरोद‍्धुं सततं भास्करस्याचलोत्तमः ।  
@@ -4374,6 +4494,14 @@ self-disciplinary. [4-11-89]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Here the gods together with the gandharvas, the siddhas, and the supreme sages (paramarṣayaḥ), observant of strict diet (niyatāhārāḥ), constantly wait upon Agastya (satataṃ paryupāsate).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exalting the sanctity of Agastya’s hermitage where no liar or sinner can survive and where siddhas ascend to heaven, Rāma sends Lakṣmaṇa ahead to announce their arrival.
 </details>
 </details>
 

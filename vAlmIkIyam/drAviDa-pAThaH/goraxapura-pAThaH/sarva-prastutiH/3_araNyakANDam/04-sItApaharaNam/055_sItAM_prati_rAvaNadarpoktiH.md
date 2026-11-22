@@ -26,6 +26,14 @@ and they are included here, as far as possible.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeming his purpose accomplished after dispatching the eight scouts, the love-struck Rāvaṇa hastens to his inner palace and forcibly shows his divine mansion to the weeping Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दिश्य राक्षसान् घोरान् रावणोऽष्टौ महाबलान् ।  
@@ -265,6 +273,14 @@ slants given to Ravana's dialogs, to portray him as a devotee, in this chapter i
 **5:** —like a doe separated from a herd of deer (mṛga-yūtha-paribhraṣṭāṃ mṛgīm) and surrounded by hounds (śvabhir ivāvṛtām); having approached that Sītā whose face was cast down (adhogata-mukhīm), the night-roamer—
 
 **6:** —that overlord of rākṣasas forcibly (sa balāt) showed (darśayām āsa) his palace, which resembled a mansion of the gods (gṛhaṃ deva-gṛhopamam), to that wretched and reluctant (avaśām) lady who was under the sway of grief (śoka-vaśāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending a golden staircase resounding like celestial drums, Rāvaṇa displays his jeweled pillars, trellised windows, stuccoed courts, and lotus-ponds to the inconsolable Maithilī.
 </details>
 </details>
 
@@ -556,6 +572,14 @@ Oblong pleasure-tanks (dīrghikāḥ) and lotus-ponds (puṣkariṇyaś ca) surr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting of his thirty-two crores of fierce rākṣasa warriors and thousands of attendants, Rāvaṇa lays his empire and life at Sītā's feet and begs her to be his chief queen.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शयित्वा तु वैदेहीं कृत्स्नं तद्भवनोत्तमम् ।  
@@ -839,6 +863,14 @@ dhvani/innuendo: The word *kaama* is ellipted here as it appears in other mms. T
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Well now (sādhu), what use have you for thinking otherwise (kiṃ te 'nyathā-buddhyā)? Find pleasure in my words (rocayasva vaco mama); favor me (bhajasva mā), and deign to show grace (prasādaṃ kartum arhasi) to one who is burning with passion (abhitaptasya)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exalting sea-girt Laṅkā as impregnable even to the gods and disparaging the exiled mortal Rāma, Rāvaṇa tells Sītā that Rāma can no more reach her than bind the wind.
 </details>
 </details>
 
@@ -1201,6 +1233,14 @@ lay hold on the tongues of radiately irradiant fire. [3-55-24]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that none in the three worlds can wrest her from his arms, Rāvaṇa urges Sītā to rule Laṅkā, wash away her forest hardships, and enjoy Kubera's Puṣpaka chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयाणामपि लोकानां न तं पश्यामि शोभने ।  
@@ -1457,6 +1497,14 @@ ellipted: 'offered...' *saha= ekadaiva* 'at least once...' *sevasva* 'accept the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāvaṇa invites her to sport in the sun-bright Puṣpaka chariot and laments her grief-clouded lotus face, Sītā veils her moon-like countenance with her garment hem and weeps.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पकं नाम सुश्रोणि भ्रातुर्वैश्रवणस्य मे ॥ २९ ॥  
@@ -1707,6 +1755,14 @@ leeching.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —having veiled her moon-like [face] (pidhāyendu-nibham), Sītā softly shed tears (mandam aśrūṇy avartayat). To that Sītā, who was brooding (dhyāyantīm), distraught as it were (ivāsvasthām), her lustre dimmed by anxiety (cintā-hata-prabhām)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Claiming his suit is sage-sanctioned and pressing his ten heads to Sītā's feet as her slave, the doom-bound Rāvaṇa deludedly fancies that Janaka's daughter is already his.
 </details>
 </details>
 

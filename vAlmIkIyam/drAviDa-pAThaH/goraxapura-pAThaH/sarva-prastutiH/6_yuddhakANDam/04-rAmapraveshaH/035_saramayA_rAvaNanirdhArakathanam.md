@@ -25,6 +25,14 @@ Seetha to him as he is perceiving adverse omens.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the thunderous blare of conchs and war-drums announces Rāma's approach, Rāvaṇa upbraids his silent ministers in council, prompting his wise maternal grandfather Mālyavān to speak.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शङ्खविमिश्रेण भेरीशब्देन नादिना ।  
@@ -313,6 +321,14 @@ intelligent demon called Malyavan, answered him thus:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, upon hearing the words of Rāvaṇa, a rākṣasa of supreme wisdom named Mālyavān, his maternal grandfather (mātāmahaḥ), spoke as follows:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Expounding the canons of statecraft, Mālyavān counsels Rāvaṇa to conclude peace with the superior Rāma by restoring Sītā, reminding him that Brahmā created Dharma for the gods and Adharma for demons.
 </details>
 </details>
 
@@ -639,6 +655,14 @@ The adorable grandsire Brahmā created two sides alone for the gods and the asur
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mālyavān warns Rāvaṇa that the serpent of Adharma, swollen by his reckless transgression and harassment of fire-like sages, now devours the rākṣasas while Dharma empowers the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मो हि श्रूयते पक्ष अमराणां महात्मनाम् ।  
@@ -940,6 +964,14 @@ Their spiritual power (prabhāvaḥ) is unassailable like a blazing fire; with t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mālyavān describes how the twice-born sages' Vedic chants, sacrificial smoke, and austerities sap the rākṣasas' energy, while Rāvaṇa's boon offers no protection against men and monkeys.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुख्यैर्यज्ञैर्यजन्त्येते तैस्तैर्यत्ते द्विजातयः ।  
@@ -1220,6 +1252,14 @@ Beholding manifold, terrible, and diverse portents (utpātān) in great numbers,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mālyavān recounts terrifying portents in Laṅkā: clouds raining hot blood, weeping steeds, jackals and vultures howling in the groves, grinning dark hags in dreams, and monstrous births.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खराभिस्तनिता घोरा मेघाः प्रतिभयङ्कराः ।  
@@ -1485,6 +1525,14 @@ Dogs devour the ritual offerings (balikarmāṇi) of the households; asses are b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mālyavān describes further prodigies: cats mating with leopards, red-footed pale pigeons stalking Laṅkā, mynah birds screeching and falling in combat, and a grim bald figure of Time.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्जारा द्वीपिभिः सार्धं सूकराः शुनकैः सह ।  
@@ -1704,6 +1752,14 @@ bellicose birds drop down, being twined together in groups."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All those birds and beasts weep facing the sun (pratyādityam); and a fanged, hideous, bald man (puruṣaḥ), dark and tawny (kṛṣṇapiṅgalaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his warning of the grim apparition of Time, Mālyavān declares Rāma to be Lord Viṣṇu in human form, urges peace, and falls silent after gauging Rāvaṇa's mind.
 </details>
 </details>
 

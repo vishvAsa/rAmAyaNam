@@ -26,6 +26,14 @@ sake of convincing Rama to return to Ayodhya, he has spoken the words of a non-b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Jābāli’s words, Rāma replies with unclouded intellect and devotion to Vedic truth that what Jābāli has urged out of affection is an unwholesome, unrighteous course disguised as dharma, and that conduct alone reveals a person’s nobility, valor, and purity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाबालेस्तु वचः श्रुत्वा रामः सत्यपराक्रमः ।  
@@ -265,6 +273,14 @@ Whether a man is of noble birth or ignoble, a true hero or one who merely fancie
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Otherwise an ignoble man wearing the guise of the noble, one devoid of purity yet appearing pure (anāryas tv ārya-saṅkāśaḥ śaucād dhīnas tathā śuciḥ), devoid of auspicious marks yet seeming endowed with them, and of evil character while seeming virtuous (lakṣaṇyavad alakṣaṇyo duḥśīlaḥ śīlavān iva)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks what discerning man would respect him if he broke his vow, and declares that subjects follow the conduct of their kings, that eternal royal duty consists in truth and compassion, and that men shrink from a liar as from a serpent.
 </details>
 </details>
 
@@ -598,6 +614,14 @@ Men shrink in terror from a man who speaks falsehood just as they do from a serp
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling truth as the Supreme Lord, the support of Lakṣmī, and the foundation of charity, sacrifice, austerity, and the Vedas, Rāma vows never out of greed, delusion, or ignorance to break the dike of truth pledged to his father.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्यमेवेश्वरो लोके सत्ये धर्मः सदाश्रितः ।  
@@ -911,6 +935,14 @@ truth, unsteady and unstable in their minds. This is what is taught to us."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Neither the gods nor the ancestors, so we have heard, accept the offerings (naiva devā na pitaraḥ pratīcchantīti naḥ śrutam) of a man who is false to his pledge, fickle, and unsteady of mind (asatya-sandhasya sataś calasyāsthira-cetasaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding truth as the innermost dharma of the self, Rāma renounces a cruel Kṣatriya code that wears the mask of dharma, condemns the threefold sin of mind, tongue, and body, and refuses to abandon his father’s word for Bharata’s.
 </details>
 </details>
 
@@ -1232,6 +1264,14 @@ Having promised my father this residence in the forest (kathaṃ hy ahaṃ prati
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling his firm pledge made in his father’s presence to Kaikeyī’s delight, Rāma declares that he will live purely in the forest satisfying the ancestors and gods with roots, flowers, and fruits, since righteous deeds in this land of action win heaven.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थिरा मया प्रतिज्ञाता प्रतिज्ञा गुरुसन्निधौ ।  
@@ -1482,6 +1522,14 @@ Having practised severe austerities, the great sages went to heaven."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having performed a hundred sacrifices, the king of the gods went to the third heaven (śataṃ kratūnām āhṛtya deva-rāṭ tridivaṅ gataḥ); and having practiced fierce austerities, the great sages attained the celestial realm (tapāṃsy ugrāṇi cāsthāya divaṃ yātā maharṣayaḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed at Jābāli’s nihilistic reasoning, Rāma proclaims truth, dharma, compassion, and hospitality to be the path to heaven, censures his father for employing a heretical minister, and equates the Buddhist and materialist with a thief.
 </details>
 </details>
 
@@ -1793,6 +1841,14 @@ understand truth/God.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For just as a thief is, even so is a Buddha; know that a Tathāgata here is a heretical nihilist (yathā hi coraḥ sa tathā hi buddhas tathāgataṃ nāstikam atra viddhi). Therefore a wise man should never turn his face toward a heretic, who is the most to be distrusted among all people (tasmād dhi yaḥ śaṅkyatamaḥ prajānāṃ na nāstikenābhimukho budhaḥ syāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma cites the ancient sages who won both worlds through auspicious Vedic deeds and extols pure, non-violent ascetics; Jābāli then humbly retracts his nihilistic plea, explaining that he spoke thus only to turn Rāma back.
 </details>
 </details>
 

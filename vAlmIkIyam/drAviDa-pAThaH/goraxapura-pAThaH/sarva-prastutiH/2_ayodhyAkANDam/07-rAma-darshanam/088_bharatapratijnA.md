@@ -28,6 +28,14 @@ will stay back in the forest along with Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching the iṅgudī tree with his ministers and beholding Rāma’s grass couch, Bharata laments to his mothers that Daśaratha’s son, accustomed to deerskin-spread couches and golden-floored palace turrets, slept on the ground.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा निपुणं सर्वं भरतः सह मन्त्रिभिः ।  
@@ -212,6 +220,14 @@ cushions covered with superior hairy skins of antelopes, sleep on a bare floor?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having slept upon a heap of choice spreads overlaid with soft deerskins (ajinottara-saṃstīrṇe varāstaraṇa-saṃcaye śayitvā), how does that tiger among men now lie upon the bare surface of the earth (puruṣa-vyāghraḥ kathaṃ śete mahī-tale)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how Rāma was ever awakened in golden-walled palaces by music, tinkling ornaments, drums, and bardic eulogies, Bharata deems this sight a dream and marvels at the supremacy of Time.
 </details>
 </details>
 
@@ -491,6 +507,14 @@ and the lovely daughter of the king of Videha, Sītā (videha-rājasya sutā sī
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tracing the crushed grass, gold dust from Sītā’s ornaments, and snagged silk threads of her upper garment, Bharata praises Sītā’s wifely devotion and reproaches himself as the cruel cause of Rāma’s plight.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयं शय्या मम भ्रातुरिदमावर्तितं शुभम् ।  
@@ -754,6 +778,14 @@ wife slept on such a bed."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Alas, woe is me! Cruel am I, that on my account (hā hantāsmi nṛśaṃso 'haṃ yat kṛte mama) Rāghava with his wife lies upon such a couch like one protectorless (sabhāryaḥ īdṛśīṃ rāghavaḥ śayyām adhiśete hy anāthavat)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising the blessedness of Lakṣmaṇa and Vaidehī who followed Rāma into exile, Bharata likens the kingless earth to a rudderless ship yet notes that Rāma’s martial glory still deters all foes.
 </details>
 </details>
 
@@ -1029,6 +1061,14 @@ Hence, nobdy can think even in his mind, to invade this kingdom."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet no one dares even in thought to covet the earth (na ca prārthayate kaścin manasāpi vasundharām), guarded as she is by the might of his arms even while he dwells in the forest (vane 'pi vasatas tasya bāhu-vīryābhirakṣitām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Noting that enemies shun defenseless Ayodhyā like poisoned food, Bharata vows to sleep on grass, wear bark-cloth and matted locks, and serve out Rāma’s exile in the forest so that Rāma may rule Ayodhyā.
 </details>
 </details>
 

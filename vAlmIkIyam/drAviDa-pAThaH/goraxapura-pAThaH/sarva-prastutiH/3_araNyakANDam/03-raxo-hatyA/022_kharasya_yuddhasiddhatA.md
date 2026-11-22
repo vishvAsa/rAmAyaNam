@@ -24,6 +24,14 @@ battle at the end of epic.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stung by Śūrpaṇakhā's taunts, Khara boils over like the surging salt ocean, vowing to fell Rāma with his battle-axe so that his sister may drink the prince's warm blood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमाधर्षितः शूरः शूर्पणख्या खरस्ततः ।  
@@ -335,6 +343,14 @@ Overjoyed (samprahṛṣṭā) upon hearing the speech that issued from Khara's 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanding his general Dūṣaṇa to mobilize fourteen thousand cloud-dark demons and ready his weapons, Khara prepares to march at the head of the Paulastyas as his sun-bright chariot is brought forth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तया परुषितः पूर्वं पुनरेव प्रशंसितः ।  
@@ -639,6 +655,14 @@ Even as he was speaking thus (iti tasya bruvāṇasya), Dūṣaṇa thereupon an
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting his Meru-like chariot inlaid with golden emblems and cat's-eye gems, Khara—joined by Dūṣaṇa—commands the demon army to march forth from Janasthāna with gleaming weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं मेरुशिखराकारं तप्तकाञ्चनभूषणम् ।  
@@ -831,6 +855,14 @@ blaring blatantly and foraying dashingly. [3-22-17]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon that rākṣasa host, bearing dreadful shields, weapons, and standards (ghora-carmāyudha-dhvajam), issued forth (nirjagāma) from Janasthāna with a mighty roar (mahā-nādam) and mighty speed (mahā-javam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As fourteen thousand dreadful demons pour out of Janasthāna brandishing maces and thunderbolts, Khara's chariot thunders behind them while he roars like a hail-pelting storm-cloud.
 </details>
 </details>
 

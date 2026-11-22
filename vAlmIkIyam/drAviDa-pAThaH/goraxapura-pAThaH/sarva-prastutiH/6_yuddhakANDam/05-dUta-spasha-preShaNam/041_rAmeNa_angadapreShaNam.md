@@ -29,6 +29,14 @@ who was stationed in the midst of the monkey-forces.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing the battle-scarred Sugrīva upon his return, Rāma affectionately chides him for risking his life in rash single combat and declares Sugrīva dearer than Sītā and his brothers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्मिन् निमित्तानि दृष्ट्वा लक्ष्मणपूर्वजः ।  
@@ -232,6 +240,14 @@ Bharata, Lakshmana or still younger Shatrughna or even with my own person."
 **4:** Henceforth do not act in this manner, O hero, tamer of foes! Should anything befall you (tvayi kiṃcit samāpanne), what use to me would Sītā be—
 
 **5:** Or Bharata, O mighty-armed one, or my younger brother Lakṣmaṇa, or Śatrughna, O slayer of foes, or even my own body?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he would have abandoned his life after fulfilling his vows had Sugrīva fallen, Rāma commends the monkey king's devotion and orders Lakṣmaṇa to array the army.
 </details>
 </details>
 
@@ -496,6 +512,14 @@ intrepid bears, monkeys and demons."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 I behold at hand a dreadful peril that will cause the destruction of the world (loka-kṣaya-karam) and the slaughter of the foremost heroes among bears, monkeys, and Rākṣasas.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma points out to Lakṣmaṇa the grim cosmic portents of impending slaughter: trembling mountains, blood-rain, a blazing mass falling from the sun, and a darkened solar disc.
 </details>
 </details>
 
@@ -787,6 +811,14 @@ And at night the moon, robbed of its luster and bordered with black and blood-re
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A small, rough, inauspicious, and deep-red halo (pariveṣaḥ sulohitaḥ) [rings the sun], and within the solar orb, O Lakṣmaṇa, a dark mark (nīlaṃ lakṣma) is seen.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Observing the dimmed constellations and wheeling carrion-birds that portend a mire of flesh and blood, Rāma swiftly descends from Mount Suvela to marshal his army.
 </details>
 </details>
 
@@ -1117,6 +1149,14 @@ Having descended from that mountain, righteous-souled Rāghava beheld his own ar
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing the auspicious hour, Rāma marshals the vast monkey and bear hosts and marches bow in hand to the gates of Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्नह्य तु ससुग्रीवः कपिराजबलं महत् ।  
@@ -1429,6 +1469,14 @@ And in no long time (adīrgheṇa kālena) those two brothers, Rāma and Lakṣm
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Encircling banner-garlanded Laṅkā according to Rāma's orders, the monkeys invest the city while Rāma and Lakṣmaṇa personally blockade the heavily defended northern gate where Rāvaṇa commands.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पताकामालिनीं रम्यामुद्यानवनशोभिताम् ।  
@@ -1634,6 +1682,14 @@ demons on all sides and creating fear to the weak as a subterranean region is gu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Which was presided over by dreadful Rāvaṇa as the ocean is by Varuṇa (varuṇeneva sāgaram), and guarded on all sides by terrible, armed Rākṣasas.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Rāma faces the northern gate, Nīla invests the eastern gate, Aṅgada the southern, Hanūmān the western, and Sugrīva commands thirty-six koṭis in the center.
 </details>
 </details>
 
@@ -1951,6 +2007,14 @@ Sugreeva was there, having exerted pressure on the demons occupying that post.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Together with all the foremost monkeys, who resembled Suparṇa (Garuḍa) and the Wind-god; and thirty-six koṭis of monkeys led by renowned troop-commanders [stood there].
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Under Rāma's orders Lakṣmaṇa and Vibhīṣaṇa station koṭis of monkeys at every gate, while tiger-like warriors endowed with the might of thousands of elephants stand ready.
 </details>
 </details>
 
@@ -2276,6 +2340,14 @@ Some possessed the strength of an ogha [of elephants], some a hundred times more
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swarming like locusts until sky and earth are filled, the tree-wielding monkey legions seal Laṅkā so tightly that not even the wind can enter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्भुतश्च विचित्रश्च तेषामासीत् समागमः ।  
@@ -2589,6 +2661,14 @@ Suddenly hemmed in on all sides by monkeys resembling dark clouds and equal to �
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the roar of the advancing army shakes Laṅkā like a bursting ocean, Rāma consults his counselors and dispatches Prince Aṅgada as envoy to Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाञ्छब्दोऽभवत् तत्र बलौघस्याभिवर्ततः ।  
@@ -2777,6 +2857,14 @@ Protected by Rāma and Lakṣmaṇa, and by Sugrīva as well, that army became e
 **58:** Having thus stationed his own army for the destruction of the Rākṣasas, Rāghava deliberated with his counselors and resolved again and again (niścitya ca punaḥ punaḥ);
 
 **59:** Desiring to carry out the next immediate step (ānantaryam abhiprepsuḥ), knowing the true sequence and purpose of the four diplomatic expedients (krama-yogārtha-tattvavit), and mindful of the law of kings (rāja-dharmam anusmaran), with Vibhīṣaṇa's concurrence—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instructing Aṅgada to leap fearlessly into Laṅkā, Rāma charges him to tell Rāvaṇa that the fruit of his sins against sages and gods has arrived.
 </details>
 </details>
 
@@ -3059,6 +3147,14 @@ all the royal sages."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By whatever strength and conjuring trick (māyayā) you abducted Sītā after luring me away (mām atikramayitvā), O vilest of Rākṣasas, display that now!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma warns Rāvaṇa that unless he surrenders with Sītā, sharp arrows will rid the world of Rākṣasas, bestow Laṅkā on Vibhīṣaṇa, and require Rāvaṇa's funeral rites.
 </details>
 </details>
 
@@ -3388,6 +3484,14 @@ I speak to you a salutary word: let your funeral rites (aurdhvadehikam) be perfo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vaulting into the sky like incarnate fire, Aṅgada alights before Rāvaṇa's council, announces himself as Vālī's son, and delivers Rāma's challenge.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः स तु तारेयो रामेणाक्लिष्टकर्मणा ।  
@@ -3701,6 +3805,14 @@ Rama of imperishable exploits. Has my name ever reached your ears?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rāghava Rāma, the enhancer of Kausalyā's joy, says to you: ‘Come forth and fight against me, O ruthless one! Show yourself a man (puruṣo bhava)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing Rāma's ultimatum that Rāvaṇa will be uprooted and Vibhīṣaṇa crowned unless Sītā is restored, Aṅgada provokes Rāvaṇa to order four Rākṣasas to seize him.
 </details>
 </details>
 
@@ -4021,6 +4133,14 @@ Hearing Rāvaṇa's command, four dreadful night-stalkers instantly seized him, 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Allowing the four Rākṣasas to cling to his arms like birds, Aṅgada leaps atop Rāvaṇa's palace, shakes them off, and shatters its tower with his foot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ग्राहयामास तारेयः स्वयमात्मानमात्मवान् ।  
@@ -4285,6 +4405,14 @@ And trampled by him (tad-ākrāntam), before the eyes of Daśagrīva, it split a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shattering Rāvaṇa's palace tower and roaring his own name, Aṅgada leaps back across the sky to Rāma's side, leaving Rāvaṇa sighing in foreboding.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भङ्‍क्त्वा प्रासादशिखरं नाम विश्राव्य चात्मनः ।  
@@ -4505,6 +4633,14 @@ his own destruction, he became a desponded demon.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rāma, however, surrounded by many joyful, roaring leapers and eager for the slaying of his enemy (ripu-vadhākāṅkṣī), advanced strictly for battle.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Suṣeṇa patrols the four gates like the moon among the constellations, the Rākṣasas behold the ramparts turned into a wall of monkeys and rush forth with mighty weapons.
 </details>
 </details>
 

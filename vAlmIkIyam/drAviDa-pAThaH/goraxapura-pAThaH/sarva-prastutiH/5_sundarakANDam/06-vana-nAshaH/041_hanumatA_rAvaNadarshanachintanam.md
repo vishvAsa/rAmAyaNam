@@ -25,6 +25,14 @@ gynaecium at Lanka and then proceeds to do that task.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stepping away after Sītā's praise, Hanūmān reflects that conciliation, gifts, and dissension are useless against the cruel rākṣasas, and resolves upon open valor to fulfill his mission.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च वाग्भिः प्रशस्ताभिर्गमिष्यन् पूजितस्तया ।  
@@ -374,6 +382,14 @@ that task."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reasoning that he must gauge Rāvaṇa's core forces in battle to fulfill his master's command, Hanūmān resolves to devastate Rāvaṇa's beloved Nandana-like pleasure-grove like wildfire in dry woods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैव तावत्कृतनिश्चयो ह्यहं  
@@ -675,6 +691,14 @@ demolished, Ravana will then be angry."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Anticipating that Rāvaṇa will dispatch a vast army which he can crush before returning to Sugrīva, Hanūmān hurls down trees with his thighs and shatters the pleasure-grove.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो महत्साश्वमहारथद्विपं  
@@ -959,6 +983,14 @@ hills to powder. Thus, that grove became nasty at sight.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With its trees wrenched and mangled (mathitair vṛkṣaiḥ), its water-basins breached (bhinnaiś ca salilāśayaiḥ), and its pleasure-hill peaks pulverized (cūrṇitaiḥ parvatāgraiś ca), that grove became unsightly to behold (tad vanaṃ babhūvāpriyadarśanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaving the Aśoka grove stripped like a forest swept by wildfire and turning Rāvaṇa's pleasure-park into a tangle of grief, Hanūmān blazes with glory atop the gateway arch.
 </details>
 </details>
 

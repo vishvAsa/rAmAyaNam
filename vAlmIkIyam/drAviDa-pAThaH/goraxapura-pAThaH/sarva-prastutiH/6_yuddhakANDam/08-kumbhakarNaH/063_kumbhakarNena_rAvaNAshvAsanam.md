@@ -28,6 +28,14 @@ be destroyed by him in the ensuing battle.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Laughing grimly at Rāvaṇa's lamentation, Kumbhakarṇa rebukes his brother for spurning salutary counsel, acting in blind pride without weighing consequences, and inverting the order of statecraft.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य राक्षसराजस्य निशम्य परिदेवितम् ।  
@@ -289,6 +297,14 @@ without properly making the fire well-prepared."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Actions performed out of sequence (viparītavat), devoid of proper place and time (deśakālavihīnāni), are spoiled like oblations offered into unsanctified fires (havīṃṣy aprayateṣv iva).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kumbhakarṇa expounds the royal science: a self-possessed monarch who deliberates with ministers on the fivefold elements of threefold action and pursues the three human aims in season never meets calamity.
 </details>
 </details>
 
@@ -605,6 +621,14 @@ the appropriate time, that intelligent person never confronts a misfortune in th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kumbhakarṇa warns against beast-minded, unlearned courtiers who prattle audaciously in council, urging that such disguised enemies and spoilers of statecraft be unmasked and expelled.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हितानुबन्धमालोक्य कुर्यात् कार्यमिहात्मनः ।  
@@ -900,6 +924,14 @@ when a final decision is being taken after deliberation."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In the determination of counsel (mantranirṇaye), a master should recognize through their conduct (vyavahāreṇa jānīyāt) those suborned ministers (sacivān upasaṃhitān) who are enemies wearing the semblance of friends (mitrasaṃkāśān amitrān).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing a rash king's vulnerability to the cleft in Mount Krauñca, Kumbhakarṇa endorses Mandodarī's and Vibhīṣaṇa's counsel, provoking Rāvaṇa to frown and angrily rebuke his brother's lecturing.
 </details>
 </details>
 
@@ -1215,6 +1247,14 @@ mistake or by an illusion of mind or by taking shelter in strength and prowess."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appealing to fraternal affection, Rāvaṇa urges Kumbhakarṇa to repair his past blunders through valour; seeing his brother's agitation, Kumbhakarṇa speaks soothingly to calm his wrath.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन् काले तु यद् युक्तं तदिदानीं विचिन्त्यताम् ।  
@@ -1492,6 +1532,14 @@ well-wishers."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—and perceiving, ‘He is incensed (ruṣṭo 'yam)!’, [Kumbhakarṇa] spoke gently and soothingly (śanaiḥ ślakṣṇam uvāca ha); for seeing his brother's senses sorely agitated (kṣubhitendriyam)—”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consoling Rāvaṇa, Kumbhakarṇa explains that he spoke harsh truths out of fraternal affection, and vows to slay Rāma in battle and bring back his severed head.
 </details>
 </details>
 
@@ -1808,6 +1856,14 @@ the battle. Let Seetha be unhappy."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to wipe away the tears of bereaved Rākṣasas and shatter Sugrīva like a sun-lit cloud, Kumbhakarṇa asks Rāvaṇa to dispatch him alone to the battlefield.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य रामस्य पश्यन्तु निधनं सुमहत् प्रियम् ।  
@@ -2099,6 +2155,14 @@ even now, as you wish. No other person need be sought, for a dispatch to the bat
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kumbhakarṇa boasts that even Indra, Yama, Agni, Vāyu, Kubera, and Varuṇa would tremble before his mountain-sized form, vowing to crush Rāma with his bare fists and arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहमुत्सादयिष्यामि शत्रूंस्तव महाबलान् ।  
@@ -2387,6 +2451,14 @@ for the destruction of your enemies."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ready to march forth, Kumbhakarṇa vows to slay Rāma, Lakṣmaṇa, Sugrīva, and Hanūmān, boasting that in his wrath he will lay the Gods low, quell Yama, and devour Agni.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुञ्च रामाद् भयं घोरं निहनिष्यामि संयुगे ॥ ४९ ॥  
@@ -2591,6 +2663,14 @@ cause the sun along with the stars to fall asunder on the floor."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When I am enraged (mayi kruddhe), even the Gods shall lie prostrate upon the face of the earth (devāḥ śayiṣyante mahītale); I shall quell Yama himself and devour the Fire-God (bhakṣayiṣyāmi pāvakam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that the entire triple world cannot sate his hunger, Kumbhakarṇa marches forth to devour the Vānara chiefs and bids Rāvaṇa drink Vāruṇī wine in peace.
 </details>
 </details>
 

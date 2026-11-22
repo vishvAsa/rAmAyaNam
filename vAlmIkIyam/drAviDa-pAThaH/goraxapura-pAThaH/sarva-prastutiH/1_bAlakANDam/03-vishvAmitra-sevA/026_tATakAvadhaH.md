@@ -30,6 +30,14 @@ elder men's orders or not. Rama eradicates Tataka basing on his own self-confide
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring King Daśaratha’s command delivered amidst his preceptors in Ayodhyā, Śrī Rāma vows to slay Tāṭakā for the welfare of cows, Brāhmaṇas, and the land, and fills the directions with the thunderous twang of his bowstring.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनेर्वचनमक्लीबं श्रुत्वा नरवरात्मजः ।  
@@ -331,6 +339,14 @@ making all the directions to blast. [1-26-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, that subduer of foes clasped his fist firmly around the middle grip of his bow (dhanurmadhye baddhvā muṣṭim) and loosed a piercing bowstring-twang (jyāghoṣam akarot tīvram), making all the directions resound with the report (diśaḥ śabdena nādayan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Maddened by the sound of Rāma’s bowstring, the gigantic and hideous Tāṭakā rushes toward the princes; beholding her, Rāma tells Lakṣmaṇa that because she is shielded by her female nature, he will at first only sever her ears and nose and strip her of strength and movement.
 </details>
 </details>
 
@@ -647,6 +663,14 @@ For I cannot bring myself to slay her outright while she is shielded by her fema
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Tāṭakā charges roaring at Rāma, Viśvāmitra rebukes her with a thunderous huṃkāra and blesses the princes; when she raises a blinding cloud of dust and rains down boulders by magic, Rāma severs both her arms with feathered shafts and Lakṣmaṇa cuts off her ears and nose.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणे रामे तु ताटका क्रोधमूर्च्छिता ।  
@@ -939,6 +963,14 @@ Then, as she stood near them with her arms severed, exhausted and roaring on all
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuming manifold shapes and vanishing from sight through her magic, Tāṭakā rains down a dreadful hail of stones; warned by Viśvāmitra to abandon compassion and slay her before evening twilight makes rākṣasas invincible, Rāma displays his sound-guided archery (śabdavedhitva) and hems her in with a net of arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामरूपधरा सा तु कृत्वा रूपाण्यनेकशः ।  
@@ -1145,6 +1177,14 @@ with his arrows. [1-26-23b, 24a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For at the hour of twilight, rākṣasas become truly unassailable (rakṣāṃsi saṃdhyākāle tu durdharṣāṇi bhavanti hi)!” Thus addressed by the sage, Rāma targeted that Yakṣī who was raining down showers of stones (ity uktaḥ sa tu tāṃ yakṣīm aśmavṛṣṭyābhivarṣaṇīm)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forced out of invisibility by Rāma’s arrow-net, Tāṭakā charges with the speed of a thunderbolt and is pierced through the chest by Rāma’s shaft; beholding her slain, Indra and the hosts of gods acclaim Rāma and urge Viśvāmitra to bestow Kṛśāśva’s divine missiles upon him.
 </details>
 </details>
 
@@ -1462,6 +1502,14 @@ So said gods to Vishvamitra. [1-26-30b, 31a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And charged with the potency of ascetic penance, O Brāhmaṇa, do you bestow upon Rāghava (tapobalabhṛto brahman rāghavāya nivedaya); for he is a worthy vessel of yours, O Brāhmaṇa, and is devoted to following and serving you (pātrabhūtaś ca te brahmaṃs tavānugamane rataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that a mighty task for the gods awaits this prince, the celestials depart into the sky; Viśvāmitra smells Rāma’s crown in blessing, and they pass the night in Tāṭakā’s forest, which—freed from its curse that very day—shines as delightfully as Kubera’s Caitraratha grove.
 </details>
 </details>
 

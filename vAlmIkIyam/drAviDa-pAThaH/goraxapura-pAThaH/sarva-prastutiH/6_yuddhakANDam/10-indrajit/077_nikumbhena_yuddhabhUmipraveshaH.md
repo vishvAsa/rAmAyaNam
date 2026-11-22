@@ -26,6 +26,14 @@ with his fist, catches his head and tears it off. Thus, Nikumbha dies at the han
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged at seeing his brother Kumbha slain by Sugrīva, Nikumbha grasps his gold-banded, jewel-encrusted iron club and roars like a thundercloud spanned by Indra's rainbow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निकुम्भो भ्रातरं दृष्ट्वा सुग्रीवेण निपातितम् ।  
@@ -274,6 +282,14 @@ with a vivid rainbow.
 **5:** With the golden breast-ornament (niṣkeṇa) resting upon his chest, the armlets set upon his arms (bhujasthair aṅgadaiḥ), his pair of resplendent earrings, and his variegated garland—
 
 **6:** —Nikumbha shone with those ornaments and with that iron club (parigheṇa), just like a thundering storm-cloud (stanayitnumān meghaḥ) flashed with lightning and spanned by Indra's rainbow.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Whirling his club so fiercely that the sky with Alakā and the stars seems to spin, Nikumbha strikes Hanumān's chest, where the weapon shatters like a hundred meteors.
 </details>
 </details>
 
@@ -571,6 +587,14 @@ Upon his broad, immovable chest (sthire tasyorasi vyūḍhe), that iron club was
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unmoved like a mountain in an earthquake, Hanumān shatters Nikumbha's armor with a thunderous fist-blow, yet Nikumbha recovers and lifts Hanumān up amid rākṣasa cheers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तेन प्रहारेण न चचाल महाकपिः ।  
@@ -865,6 +889,14 @@ from the ranks of demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the dwellers of Laṅkā (laṅkānivāsinaḥ) raised a terrible shout in battle upon seeing mighty Hanumān lifted up (udyatam) by Nikumbha.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Breaking free from Nikumbha's grasp, Hanumān hurls the demon down, leaps upon his chest, and wrenches off his head, plunging the rākṣasa host into terror.
 </details>
 </details>
 

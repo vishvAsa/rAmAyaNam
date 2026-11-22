@@ -13,6 +13,14 @@ title = "०६५ वाल्मीकि-दर्शनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A month after dispatching his army, Śatrughna sets out swiftly alone, travels two nights, and arrives at Vālmīki’s sacred hermitage, where the smiling sage warmly welcomes him as a scion of the Raghu house.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रस्थाप्य च बलं सर्वं मासमात्रोषितः पथि ।  
@@ -214,6 +222,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This hermitage belongs to the lineage of the Raghus themselves (svam āśramam idaṃ saumya rāghavāṇāṃ kulasya hi), O gentle one; accept from me without hesitation (nirviśaṅkaḥ pratīccha me) a seat, water for the feet, and guest-offering (āsanaṃ pādyam arghyaṃ ca).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refreshed by Vālmīki’s hospitality, Śatrughna asks about an ancient sacrificial ground nearby; Vālmīki begins the tale of the Ikṣvāku ancestor Saudāsa, who in youth encountered two tiger-shaped rākṣasas slaughtering deer during a hunt.
 </details>
 </details>
 
@@ -422,6 +438,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Angered at seeing the forest stripped of deer, Saudāsa slays one tiger-rākṣasa; its companion vows vengeance and vanishes. Later, ascending the throne as Mitrasaha, the king performs a grand Aśvamedha near Vālmīki’s hermitage with Vasiṣṭha presiding.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तौ राक्षसौ दृष्ट्वा निर्मृगं च वनं कृतम् ।  
@@ -626,6 +650,14 @@ The king too celebrated a sacrifice (rājāpi yajate yajñam) close by this herm
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the close of Mitrasaha’s splendid multi-year Aśvamedha, the vengeful rākṣasa assumes Vasiṣṭha’s form and demands meat at once; when the obedient king orders his startled chef to prepare it, the demon takes a cook’s disguise to corrupt the meal.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र यज्ञो महानासीद् बहुवर्षगणायुतः ।  
@@ -815,6 +847,14 @@ At the command of the lord of kings (śāsanāt pārthivendrasya), the cook beca
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unwittingly serving the human flesh delivered by the disguised rākṣasa, Mitrasaha and Queen Madayantī provoke Vasiṣṭha’s terrible curse of cannibalism; enraged, the king lifts water to curse back, only to be stayed by his wife.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मानुषमथो मांसं पार्थिवाय न्यवेदयत् ।  
@@ -980,6 +1020,14 @@ Then, filled with wrath, Saudāsa took water in his palm (tataḥ kruddhas tu sa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heeding Madayantī’s plea not to curse his godlike preceptor, Saudāsa casts the potent curse-water upon his own feet, staining them dark and earning the name Kalmāṣapāda; upon learning of the rākṣasa’s deceit, Vasiṣṭha relents.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजन् प्रभुर्यतोऽस्माकं वसिष्ठो भगवानृषिः ।  
@@ -1125,6 +1173,14 @@ That king, together with his queen, bowing down again and again (sa rājā saha 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that account of the lord of kings (tac chrutvā pārthivendrasya) and that foul contrivance wrought by the rākṣasa (rakṣasā vikṛtaṃ ca tat), Vasiṣṭha spoke once more to the king, bull among men:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to void his spoken curse, Vasiṣṭha limits it to twelve years and grants the king oblivion of the ordeal; concluding that this precinct belongs to Kalmāṣapāda, Vālmīki dismisses Śatrughna to rest inside the leaf-hut.
 </details>
 </details>
 

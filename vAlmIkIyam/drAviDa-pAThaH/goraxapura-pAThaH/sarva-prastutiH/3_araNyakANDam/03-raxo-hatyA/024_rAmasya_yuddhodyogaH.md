@@ -25,6 +25,14 @@ demons.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Khara marches toward the hermitage, Rāma beholds blood-raining clouds, smoking arrows, and throbbing bows that herald the annihilation of the rākṣasas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्रमं प्रतियाते तु खरे खरपराक्रमे ।  
@@ -341,6 +349,14 @@ Judging by the manner in which the forest-roaming birds (pakṣiṇo vana-cāri�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reading victory in his throbbing right arm and Lakṣmaṇa's radiant face, Rāma hears the demon war-drums and directs Lakṣmaṇa to shelter Sītā in a mountain cave.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्प्रहारस्तु सुमहान् भविष्यति न संशयः ।  
@@ -636,6 +652,14 @@ cave of a mountain overgrown with trees. [3-24-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Therefore, taking Vaidehī (vaidehīṃ gṛhītvā), arrow in hand (śara-pāṇiḥ) and bearing your bow (dhanur-dharaḥ), repair to a mountain cavern (guhāṃ śailasya) that is hard of access (durgām) and densely crowded with trees (pādapa-saṃkulām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Conjured by Rāma's feet to escort Sītā into the mountain cavern, Lakṣmaṇa obeys, whereupon Rāma dons his fiery armour and stands ready with his twanging bow.
 </details>
 </details>
 
@@ -970,6 +994,14 @@ Lifting up his mighty bow (cāpam udyamya mahat) and taking his arrows, that val
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gathering in the sky to witness the battle, gods, siddhas, and brahmarṣis pray for Rāma's victory while marvelling that one lone hero faces fourteen thousand rākṣasas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च सह चारणैः ।  
@@ -1209,6 +1241,14 @@ in their aircrafts, tarried there in the firmament peering inquisitively at Rama
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Speaking thus, the royal sages (rājarṣayaḥ), siddhas, foremost of twice-born sages with their attendants (sagaṇāś ca dvijarṣabhāḥ), and the gods stationed in their aerial cars (vimāna-sthāś ca devatāḥ) stood filled with eager curiosity (jāta-kautūhalās tasthuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma stands at the battle-front blazing like wrathful Rudra, the roaring rākṣasa army closes in with twanging bows and beating drums, terrifying the forest beasts.
 </details>
 </details>
 
@@ -1477,6 +1517,14 @@ without looking back. [3-24-30, 31a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Their tumultuous uproar (sutumulaḥ śabdaḥ) filled that forest (pūrayām āsa tad vanam); terrified by that din (tena śabdena vitrastāḥ), the forest-roaming beasts of prey (śvāpadā vana-cāriṇaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the ocean-like rākṣasa host surges forward like dark clouds at sunrise, Rāma strings his dread bow and blazes with wrath like Pināka-wielding Śiva.
 </details>
 </details>
 

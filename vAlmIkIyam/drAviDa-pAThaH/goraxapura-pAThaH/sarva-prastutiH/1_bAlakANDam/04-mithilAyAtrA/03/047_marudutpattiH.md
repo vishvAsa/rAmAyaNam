@@ -28,6 +28,14 @@ later became the City of Vishaala.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grief-stricken yet conciliatory after the sevenfold division of her embryo, Diti absolves Indra of blame and entreats him that her seven sons become the celestial Marut hosts presiding over the seven wind-regions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्तधा तु कृते गर्भे दितिः परमदुःखिता ।  
@@ -347,6 +355,14 @@ you as 'Marut,' because you have coaxed the crying fragments of foetus saying, '
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granting Diti’s boon with folded hands, Indra ascends with his mother to heaven; Viśvāmitra then concludes the first question and begins the royal genealogy of Viśālā with Ikṣvāku’s son Viśāla.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्तद् वचनं श्रुत्वा सहस्राक्षः पुरन्दरः ॥ ७ ॥  
@@ -589,6 +605,14 @@ The Bhaagavata Puraana says separately in its seventh canto about this dynasty o
 **11:** and where he thus waited upon Diti when she was Accomplished in austerity (ditiṃ yatra tapaḥsiddhām evaṃ paricacāra saḥ). Now, O tiger among men, King Ikṣvāku had a supremely righteous son (ikṣvākos tu naravyāghra putraḥ paramadhārmikaḥ),
 
 **12:** born of the celestial nymph Alambuṣā and renowned by the name of Viśāla (alambuṣāyām utpanno viśāla iti viśrutaḥ); and by him was founded upon this spot the city named Viśālā (tena cāsīd iha sthāne viśāleti purī kṛtā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra traces the ten generations of the kings of Viśālā from Viśāla down to the reigning monarch Sumati, all blessed with longevity and dharma through Ikṣvāku’s grace.
 </details>
 </details>
 
@@ -870,6 +894,14 @@ well-off in generosity, and they were great-souled ones. [1-47-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By the grace of Ikṣvāku, all the monarchs of Viśālā (ikṣvākos tu prasādena sarve vaiśālikā nṛpāḥ) have been blessed with long life, great souls, heroic valor, and firm devotion to dharma (dīrghāyuṣo mahātmāno vīryavantaḥ sudhārmikāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proposing that they pass the night at Viśālā before visiting King Janaka at dawn, Viśvāmitra is welcomed in person by King Sumati with his preceptors and kinsmen.
 </details>
 </details>
 

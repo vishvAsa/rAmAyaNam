@@ -13,6 +13,14 @@ title = "०३० इन्द्र-मोचनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Meghanāda vanquishes mighty Indra, the gods march to Laṅkā behind Brahmā, who stands in the sky and conciliates Rāvaṇa, applauding his fulfilled vow and proclaiming his son renowned across the world as Indrajit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जिते महेन्द्रेऽतिबले रावणस्य सुतेन वै ।  
@@ -199,6 +207,14 @@ Having approached Rāvaṇa there (tatra rāvaṇam āsādya), surrounded by his
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Brahmā asks for Indra’s release and offers a boon in return, Indrajit demands absolute immortality, arguing that all creatures live in mutual dread; Prajāpati replies that no earthly being may enjoy unconditional exemption from death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्मुच्यतां महाबाहो महेन्द्रः पाकशासनः ।  
@@ -326,6 +342,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “All living beings whatsoever fear one another whenever there is cause for fear (sarve ’pi jantavo ’nyonyaṃ bhetavye sati bibhyati); therefore in this world there is fear for all from all (ato ’tra loke sarveṣāṃ sarvasmāc ca bhaved bhayam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yielding on absolute immortality, Indrajit chooses conditional invincibility tied to a fire-born chariot won through ritual oblations—accepting death only if his rite is interrupted—and releases Indra once Brahmā grants his boon.
 </details>
 </details>
 
@@ -534,6 +558,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the freed Indra sunken in dejection and brooding over his humiliation, Brahmā reminds him of his ancient sin, beginning with how he distilled every creature’s finest beauty to fashion the peerless maiden Ahalyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमरेन्द्र मया बुद्ध्या प्रजाः सृष्टास्तथा प्रभो ।  
@@ -692,6 +724,14 @@ Beholding him in that state (taṃ tu dṛṣṭvā tathābhūtam), Lord Prajāp
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thereupon, out of those qualities of beauty, the woman Ahalyā was fashioned by me (rūpa-guṇair ahalyā strī vinirmitā): here hala denotes ugliness (halaṃ nāmeha vairūpam), and halya is what springs therefrom (halyaṃ tatprabhavaṃ bhavet).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā recounts how, naming her Ahalyā, he entrusted her to the great sage Gautama, who returned her untouched after many years; rewarded with her hand for his self-mastery, Gautama provoked Indra’s jealous, wrathful intrusion.
 </details>
 </details>
 
@@ -881,6 +921,14 @@ Beholding him in that state (taṃ tu dṛṣṭvā tathābhūtam), Lord Prajāp
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Caught violating Ahalyā, Indra is cursed by the enraged Gautama to fall into an enemy’s hands in battle, to bear half the sin of every future adultery among mortals, and to endure perpetual instability upon heaven’s throne.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रुद्धेन तेनासि शप्तः परमतेजसा ।  
@@ -1036,6 +1084,14 @@ Beholding him in that state (taṃ tu dṛṣṭvā tathābhūtam), Lord Prajāp
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rebuking Ahalyā, Gautama decrees that her unique beauty shall vanish and be dispersed among all creatures; when she pleads that Indra deceived her in Gautama’s guise, the sage prophesies the future birth of Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु भार्यां सुनिर्भर्त्स्य सोऽब्रवीत् सुमहातपाः ।  
@@ -1143,6 +1199,14 @@ _________________
 **39:** “‘All creatures shall surely come to share your beauty (rūpaṃ ca te prajāḥ sarvā gamiṣyanti na saṃśayaḥ), relying upon which single loveliness (yat tad ekaṃ samāśritya) this amorous delusion has arisen (vibhramo ’yam upasthitaḥ).’
 
 **40:** “From that time onward, creatures for the most part became endowed with beauty (tadāprabhṛti bhūyiṣṭhaṃ prajā rūpa-samanvitāḥ). She then sought to propitiate that great sage Gautama (sā taṃ prasādayāmāsa maharṣiṃ gautamaṃ tadā):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gautama foretells that Viṣṇu incarnate as Rāma will purify Ahalyā in the forest before departing to his hermitage; returning to the present, Brahmā tells Indra that his capture sprang solely from Gautama’s curse and prescribes a Vaiṣṇava sacrifice.
 </details>
 </details>
 
@@ -1349,6 +1413,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Swiftly, with a thoroughly composed mind (śīghraṃ ... susamāhitaḥ), perform a sacrifice dedicated to Viṣṇu (yaja yajñaṃ tvaṃ vaiṣṇavam)! Purified by that sacrifice (pāvitas tena yajñena), you shall then ascend to heaven (yāsyase tridivaṃ tataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassured that his son Jayanta lies safe in the ocean with Puloman, Indra performs the Vaiṣṇava sacrifice and reclaims heaven; as Agastya concludes his account of Indrajit’s might, Rāma, Lakṣmaṇa, and eyewitness Vibhīṣaṇa marvel at the tale.
 </details>
 </details>
 

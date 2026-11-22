@@ -25,6 +25,14 @@ battle-field swiftly.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning of Indrajit's slaying in battle, the ministers of Pulastya's scion hastily report the dreadful news to Rāvaṇa, who falls into a deep swoon before lamenting his mighty son.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविश्य सभां राजा दीनः परमदुःखितः ।  
@@ -280,6 +288,14 @@ distraught with grief for his son (putraśokākulaḥ), wretched, and with his s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting how the conqueror of Indra could fall to Lakṣmaṇa, Rāvaṇa extols the warrior's path to heaven while grieving that the gods will now sleep free of fear.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिघान् पट्टिशांश्चैव शरखड्गपरश्वधान् ।  
@@ -528,6 +544,14 @@ flag-staffs as trees, rivers of blood gushed forth, carrying dead
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Today the entire three worlds (lokās trayaḥ kṛtsnāḥ) and the earth with all its forests, bereft of Indrajit alone (ekenendrajitā hīnā), appear utterly empty to me (śūnyeva pratibhāti me).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reproaching Indrajit for departing before performing his father's funeral rites or slaying Rāma and Lakṣmaṇa, Rāvaṇa is seized by a terrifying, fiery wrath that contorts his brow.
 </details>
 </details>
 
@@ -841,6 +865,14 @@ With frowns gathered together upon his forehead (lalāṭe bhrukuṭībhiś ca s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With smoky fire spurting from his mouth like Vṛtra's and hot tears dropping like flaming oil from lamps, the furious Rāvaṇa grinds his teeth and resolves to slay Vaidehī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविष्टं तु तदा रामं मेघाः सूर्यमिवाम्बरे ।  
@@ -1108,6 +1140,14 @@ not able to see their individual souls resting in their sense-objects.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From the eyes of that enraged king there fell drops of tears (prāpatann aśrubindavaḥ), like flaming drops of oil (sārciṣaḥ snehabindavaḥ) dripping from two blazing lamps (dīpābhyām iva dīptābhyām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the terrified Rākṣasas cower before Rāvaṇa's apocalyptic gaze, the demon king rallies his host by boasting of his ancient penances and the impenetrable armor granted by Brahmā.
 </details>
 </details>
 
@@ -1391,6 +1431,14 @@ his mystic missiles for its edge.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanding his great Brahmā-given bow to be raised amid hundreds of trumpets, the grief-maddened Rāvaṇa resolves to make Indrajit's earlier illusion real by slaying the true Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनीकं दशसाहस्रं रथानां वातरंहसाम् ।  
@@ -1617,6 +1665,14 @@ great sages acclaimed that feat of Rama, saying "well done, well done!".
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Through illusion (māyayā), by my dear son, for the purpose of deceiving the forest-dwellers (vañcanārthaṃ vanaukasām), some fabricated form was slain there (kiṃcid eva hataṃ tatra) and displayed with the words, ‘This is Sītā!’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to slay Sītā, who remains devoted to a mere outcaste Kṣatriya, Rāvaṇa snatches up his sky-bright sword and rushes out with his queens and ministers amid Rākṣasa roars.
 </details>
 </details>
 

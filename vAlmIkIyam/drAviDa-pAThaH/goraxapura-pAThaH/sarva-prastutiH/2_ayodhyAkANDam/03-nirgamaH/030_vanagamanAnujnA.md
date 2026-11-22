@@ -25,6 +25,14 @@ and asks her to give away her personal belongings to Brahmins in charity before 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though consoled by Rāma, the deeply agitated Sītā reproaches him out of love and wounded pride, asking whether Janaka wedded her to a woman in manly guise and likening her fidelity to that of Sāvitrī following Satyavān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सान्त्व्यमाना तु रामेण मैथिली जनकात्मजा ।  
@@ -335,6 +343,14 @@ to Satyavan the son of Dyumatsena."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Know me to be wholly subject to your will (ātmavaśavartinīm), just like Sāvitrī, who remained devotedly faithful to the heroic Satyavān, the son of Dyumatsena.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reproaching Rāma for wishing to hand his wedded wife over to others like a stage-actor, Sītā declares that walking behind him in the woods will feel like strolling among pleasure-couches and thorny grasses like soft cotton and deerskins.
 </details>
 </details>
 
@@ -686,6 +702,14 @@ cotton or soft deerskin."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that wind-blown forest dust will feel like priceless sandal-paste, grassy meadows like carpeted couches, and gathered roots and fruits like nectar, Sītā tells Rāma that being with him is heaven and being without him is hell.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महावातसमुद्भूतं यन्मामवकरिष्यति ।  
@@ -1014,6 +1038,14 @@ Rama! By knowing thus my great love, obtain supreme joy with me."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to drink poison that very day rather than fall under the sway of enemies or endure fourteen years of separation, Sītā embraces Rāma and releases her long-restrained tears like a fire-drill emitting fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ मामेवमव्यग्रां वनं नैव नयिष्यसे ।  
@@ -1330,6 +1362,14 @@ lotus flowers.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From her eyes streamed forth crystal-clear water born of burning anguish (vāri saṃtāpasambhavam), like water trickling from two lotuses (paṅkajābhyām ivodakam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Sītā's moonlike face wither like a lotus plucked from water, Rāma embraces and reassures her, declaring that he would not desire heaven itself at the cost of her sorrow and bidding her follow him as Suvarcalā follows the sun.
 </details>
 </details>
 
@@ -1652,6 +1692,14 @@ righteousness, like Suvarchala(wife of the sun) following the sun."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Explaining why he himself must enter the forest, Rāma extols obedience to one's mother, father, and preceptor as the highest sacred triad on earth, surpassing truth, charity, and lavish sacrifices.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न खल्वहं न गच्छेयं वनं जनकनन्दिनि ।  
@@ -1967,6 +2015,14 @@ or leaving, sons or amenities of life - nothing whatsoever is hard to obtain."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that his earlier reluctance has vanished before her firm resolve, Rāma invites Sītā to accompany him to the Daṇḍaka forest as his partner in dharma and bids her initiate the rites of departure.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवगन्धर्वगोलोकान् ब्रह्मलोकांस्तथापरान् ।  
@@ -2274,6 +2330,14 @@ living in exile. Oh, Seetha! Even a heaven is not a liking to me without your pr
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Begin now, O fair-hipped lady, the preparations suited to forest residence (vanavāsakṣamāḥ kriyāḥ); for now without you, O Sītā, even heaven itself does not please me.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidden by Rāma to bestow her jewels upon Brāhmaṇas, food upon mendicants, and costly ornaments, garments, and couches upon her attendants, the joyous Sītā immediately begins distributing her wealth.
 </details>
 </details>
 

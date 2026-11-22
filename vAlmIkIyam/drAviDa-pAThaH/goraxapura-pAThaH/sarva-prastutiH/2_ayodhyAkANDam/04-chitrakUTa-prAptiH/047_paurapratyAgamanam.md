@@ -25,6 +25,14 @@ sheer despair.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakening at daybreak upon the Tamasā to find Rāma gone without a trace, the grief-stricken citizens curse the sleep that stole their senses and lament their lord’s departure into the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभातायां तु शर्वर्यां पौरास्ते राघवं विना ।  
@@ -337,6 +345,14 @@ How could that best of the Raghus (raghūṇāṃ sa śreṣṭhaḥ), who ever 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving to die on the spot, set out on the Great Northward Journey, or enter a funeral pyre of dry timber, the citizens dread returning to Ayodhyā without Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैव निधनं याम महाप्रस्थानमेव वा ।  
@@ -595,6 +611,14 @@ Having gone forth in company with that great-souled hero (niryātās tena vīre�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting with upraised arms like choice cows robbed of their calves, the citizens follow the decoy chariot tracks northward until the trail vanishes, and return dejectedly to Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतीव बहुधा वाचो बाहुमुद्यम्य ते जनाः ।  
@@ -805,6 +829,14 @@ comprising of virtuous people with distress, by the same path on which they had 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, weary in heart (klānta-cetasaḥ), by the very road by which they had come (yathā-gatenaiva mārgeṇa), they all went back to the city of Ayodhyā, whose righteous folk were sorely distressed (vyathita-saj-janām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Ayodhyā bereft of Rāma like a river whose serpents have been snatched by Garuḍa or a sky without the moon, the citizens enter their wealthy mansions unable to distinguish kinsman from stranger.
 </details>
 </details>
 

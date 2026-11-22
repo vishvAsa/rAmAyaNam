@@ -24,6 +24,14 @@ individually kill Rama and his army within no time.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commander-in-chief Prahasta vows to purge the earth of vānaras and shield Rāvaṇa from sorrow, while wrathful Durmukha declares Hanūmān's outrage intolerable.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नीलाम्बुदप्रख्यः प्रहस्तो नाम राक्षसः ।  
@@ -325,6 +333,14 @@ humiliation meted out to us by that monkey is indeed not to be tolerated."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the rākṣasa named Durmukha, filled with fierce wrath (susaṃkruddhaḥ), spoke: “This outrage (pradharṣaṇam) against us all is truly not to be endured (na kṣamaṇīyam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Durmukha vows to rout the vānaras wherever they flee, while Vajradaṃṣṭra brandishes his gore-stained club and proposes a stratagem of deceit.
 </details>
 </details>
 
@@ -651,6 +667,14 @@ stratagem alone will be without lassitude and can indeed defeat the enemies."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vajradaṃṣṭra proposes that thousands of shape-shifting rākṣasas disguise themselves as Bharata's envoys to lure Rāma before ambushing the vānara army from the sky.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामरूपधराः शूराः सुभीमा भीमदर्शनाः ।  
@@ -892,6 +916,14 @@ cloud, joined his palms in salutation and spoke these words.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “If Rāma and Lakṣmaṇa thus walk into this trap of ill-policy (upasarpetām anayam), through that misstep (apanītena) they will surely forfeit their lives (jahatām eva jīvitam)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kumbhakarṇa's son Nikumbha and the mountain-like Vajrahanu boast that they will single-handedly slaughter Rāma's leaders and devour the entire vānara host.
 </details>
 </details>
 

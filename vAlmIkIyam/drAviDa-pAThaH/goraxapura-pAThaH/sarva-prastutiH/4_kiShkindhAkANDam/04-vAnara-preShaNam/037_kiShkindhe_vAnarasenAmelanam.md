@@ -28,6 +28,14 @@ the other monkeys that are summoned.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing Hanūmān beside him, Sugrīva begins an eight-verse syntactic period enumerating the monkey hosts dwelling across the five great mountains, the western peaks, Añjana, Meru, and Dhūmragiri.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु सुग्रीवो लक्ष्मणेन महात्मना ।  
@@ -77,6 +85,14 @@ word to Hanuma who is available at his side. [4-37-1]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Addressed thus by high-souled Lakṣmaṇa, Sugrīva spoke these words to Hanūmān standing at his side (sthitaṃ pārśve):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing his geographical command, Sugrīva orders Hanūmān to dispatch swifter envoys to hasten earlier messengers and decrees death for any monkey chief who fails to arrive within ten days.
 </details>
 </details>
 
@@ -415,6 +431,14 @@ miscreants are eliminable as the abusers of king's decree. [4-37-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded by Sugrīva to send hundreds, thousands, and tens of millions of cloud-like monkeys, Hanūmān dispatches swift envoys who leap through the sky to rouse all Vānaras.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शतान्यथ सहस्राणि कोट्यश्च मम शासनात् ।  
@@ -743,6 +767,14 @@ Across oceans, mountains, forests, and lakes, those monkeys urged on (acodayan) 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dreading Sugrīva's death-like decree, millions upon billions of monkeys—dark as collyrium, blazing like molten gold, lion-maned, and fiery as Mars—pour forth from the great mountains.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृत्युकालोपमस्याज्ञां राजराजस्य वानराः ।  
@@ -1065,6 +1097,14 @@ From the Vindhya mountain, thousands of crores of terrible monkeys of dreadful d
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Countless monkeys from the Milk Ocean's shores pour in as if drinking the sun, while the couriers sent to Himavat behold Śiva's ancient sacrificial site and its ambrosial fruits.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षीरोदवेलानिलयास्तमालवनवासिनः ।  
@@ -1367,6 +1407,14 @@ There the monkeys beheld roots and fruits sprung from the overflow of the sacrif
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gathering those miraculous Himavat fruits, roots, herbs, and fragrant sacrificial blossoms that sate hunger for a month, the monkey couriers urge on the hosts and speed ahead.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदन्नसम्भवं दिव्यं फलमूलं मनोहरम् ।  
@@ -1581,6 +1629,14 @@ forgather other monkeys, quickly returned to Kishkindha ahead of the forgathered
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having urged on all the monkeys across the earth, all those foremost of monkeys swiftly marched ahead of the troops (yūthānāṃ jagmur agrataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning to Kiṣkindhā within an instant, the swift monkey couriers present the divine Himavat herbs, fruits, and roots to Sugrīva and announce that every monkey on earth is approaching.
 </details>
 </details>
 

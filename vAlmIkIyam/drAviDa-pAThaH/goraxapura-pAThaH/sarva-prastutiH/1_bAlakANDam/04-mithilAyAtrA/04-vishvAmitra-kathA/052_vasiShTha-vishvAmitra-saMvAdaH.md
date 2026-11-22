@@ -26,6 +26,14 @@ Vashishta offers hospitality to Vishvamitra and his armies. Even though the King
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Humbly saluting Sage Vasiṣṭha and receiving his offering of forest fruits and roots, King Viśvāmitra inquires after the welfare of the sage’s penance, sacred fires, disciples, and hermitage trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा परमप्रीतो विश्वामित्रो महाबलः ।  
@@ -274,6 +282,14 @@ Vishvamitra who is sitting at ease. [1-52-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Vasiṣṭha, the son of Brahmā (brahmaṇaḥ sutaḥ), foremost of prayer-reciters (japatāṃ śreṣṭhaḥ) and of mighty austerity (mahātapāḥ), questioned King Viśvāmitra, who was seated at his ease (sukhopaviṣṭaṃ rājānam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha inquires after the welfare of Viśvāmitra’s kingdom, fourfold royal conduct, servants, conquered foes, armies, treasuries, allies, sons, and grandsons, and at the close of their converse smiles to offer a feast.
 </details>
 </details>
 
@@ -577,6 +593,14 @@ Then, O delight of the Raghus (raghunandana), at the conclusion of their convers
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha begs Viśvāmitra to accept a full banquet for himself and his army; though the king protests that the sage’s kind words, fruits, water, and sight suffice, Vasiṣṭha repeatedly presses his invitation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आतिथ्यं कर्तुमिच्छामि बलस्यास्य महाबल ।  
@@ -868,6 +892,14 @@ Vashishta entreated the king repeatedly. [1-52-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even as the king spoke thus (evaṃ bruvantaṃ rājānam), the righteous-souled and noble-minded Vasiṣṭha invited and pressed him again and again (nyamantrayata dharmātmā punaḥ punar udāradhīḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Gādhi’s son consents, Vasiṣṭha joyfully summons his spotless, dappled wish-fulfilling cow Śabalā and bids her rain down a royal banquet of all six tastes for the monarch and his army.
 </details>
 </details>
 

@@ -38,6 +38,14 @@ Sage Vishvamitra satisfied with the behaviour of Rama in obliging the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed the night in the liberated forest, Viśvāmitra smiles upon Rāma and bestows the complete panoply of divine missiles—beginning with the five celestial cakras, Indra’s Vajra, Śiva’s trident, Brahmaśiras, and the Aiṣīka missile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तां रजनीमुष्य विश्वामित्रो महायशाः ।  
@@ -310,6 +318,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The thunderbolt missile Vajra, O best of men, and likewise Śiva’s peerless trident missile (vajram astraṃ naraśreṣṭha śaivaṃ śūlavaraṃ tathā); the Brahmaśiras missile, and the Aiṣīka reed-missile as well, O Rāghava (astraṃ brahmaśiraś caiva aiṣīkam api rāghava).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Continuing the bestowal of celestial arms, Viśvāmitra imparts the supreme Brāhmāstra, the two blazing maces Modakī and Śikharī, the three divine nooses (Dharmapāśa, Kālapāśa, Vāruṇapāśa), the Dry and Wet thunderbolts, Paināka, Nārāyaṇāstra, Śikhara Āgneyāstra, Prathama Vāyavyāstra, Hayaśiras, Krauñca, the twin Śaktis, and the four Asura weapons.
 </details>
 </details>
 
@@ -593,6 +609,14 @@ And the pair of Śakti javelins, O Kākutstha, I give to you, O Rāghava (śakti
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra bestows the Vidyādhara sword-gem Nandana and the psychological and elemental missiles—Mohana, Prasvāpana, Praśamana, Saumya, Varṣaṇa, Śoṣaṇa, Saṃtāpana, Vilāpana, Kāma’s Mādana, Gandharva Mānava, Paiśāca Mohana, Tāmasa, Saumana, Saṃvarta, and Mausala.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैद्याधरं महास्त्रं च नन्दनं नाम नामतः ॥ १३ ॥  
@@ -762,6 +786,14 @@ _________________
 **16:** The unassailable Mādana missile, beloved of Kandarpa (Kāmadeva), as well (mādanaṃ caiva durdharṣaṃ kandarpadayitaṃ tathā); and the beloved Gandharva missile named Mānava by name (gāndharvam astraṃ dayitaṃ mānavaṃ nāma nāmataḥ);
 
 **17:** And the beloved Paiśāca missile named Mohana by name (paiśācam astraṃ dayitaṃ mohanaṃ nāma nāmataḥ)—do you receive these, O tiger among men, O royal prince of mighty renown (pratīccha naraśārdūla rājaputra mahāyaśaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the list with the Satya, Māyāmaya, solar Tejaḥprabha, lunar Śiśira, Tvāṣṭra, Bhaga, and Śīteṣu Mānava missiles, Viśvāmitra stands facing east in ritual purity and imparts the entire collection of mantras—whereupon all the personified missiles visibly appear before Rāma.
 </details>
 </details>
 
@@ -1018,6 +1050,14 @@ The comprehension of which invoking hymns of the missiles is impossible
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All those divine missiles, the complete simultaneous mastery of which is hard to attain even for the gods (sarvasaṃgrahaṇaṃ yeṣāṃ daivatair api durlabham), the Brāhmaṇa sage then bestowed upon Rāghava (tāny astrāṇi tadā vipro rāghavāya nyavedayat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing with folded hands, the personified missiles declare themselves Rāma’s humble servants (kiṃkarāḥ); touching them with his hand, Rāma commands them to attend upon him whenever summoned by thought, bows to Viśvāmitra, and sets out on the journey.
 </details>
 </details>
 

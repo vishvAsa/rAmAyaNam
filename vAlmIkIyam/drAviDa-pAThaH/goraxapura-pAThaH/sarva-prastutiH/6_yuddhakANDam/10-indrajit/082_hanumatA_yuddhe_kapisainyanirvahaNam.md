@@ -26,6 +26,14 @@ Nikumbhila.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Indrajit's thunderous roar, the terrified Vānaras scatter in all directions until Hanūmān rallies their noble pride and leads them back into battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा तु भीमनिर्ह्रादं शक्राशनिसमस्वनम् ।  
@@ -295,6 +303,14 @@ him, by surrounding Hanuma on all sides, in that great battle.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Roaring, those bulls among Vānaras (vānararṣabhāḥ) rushed upon the Rākṣasas and, surrounding Hanūmān, followed after him in the great battle.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like fire, Hanūmān slaughters the Rākṣasa ranks and hurls a massive boulder at Indrajit's chariot, which the charioteer swiftly swerves to evade.
 </details>
 </details>
 
@@ -602,6 +618,14 @@ When that rock crashed down, the army of the Rākṣasas was convulsed with terr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging by the hundreds with trees and mountain peaks, the Vānaras batter the Rākṣasa ranks until Indrajit counterattacks with showers of arrows and lethal weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमभ्यधावन् शतशो नदन्तः काननौकसः ।  
@@ -890,6 +914,14 @@ missiles, swords, sharp-edged spears and concealed weapons similar to mallets.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After crushing the Rākṣasa followers, Hanūmān halts the Vānara army, declaring that since Janaka's daughter is slain they must report the tragedy to Rāma and Sugrīva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते चाप्यनुचरांस्तस्य वानरा जघ्नुराहवे ।  
@@ -1145,6 +1177,14 @@ absence of fear, along with his army, gradually turned back.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —whatever course those two shall ordain (tau yat pratividhāsyete), that we shall perform.” Speaking thus, that foremost of Vānaras restrained all the monkeys.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Hanūmān retreats unafraid with his troops toward Rāma, Indrajit repairs to the sanctuary of Nikumbhilā and offers a blood-fed fire oblation for Rākṣasa victory.
 </details>
 </details>
 

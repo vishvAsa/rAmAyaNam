@@ -15,6 +15,14 @@ title_english = "074 parashu rAma s arrival"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At daybreak Sage Viśvāmitra takes leave of both monarchs and departs for the northern mountain, while King Janaka bestows a magnificent bridal dowry upon his daughters as Daśaratha prepares to return to Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रात्र्यां व्यतीतायां विश्वामित्रो महामुनिः ।  
@@ -269,6 +277,14 @@ He gave to those princesses a hundred peerless high-born maidens as companions a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having bestowed the dowry and bid farewell to Daśaratha, Janaka re-enters Mithilā; as Daśaratha marches toward Ayodhyā with his sons and the sages, birds utter harsh cries overhead while terrestrial deer move clockwise around the army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ राजा सुसंहृष्टः कन्याधनमनुत्तमम् ।  
@@ -494,6 +510,14 @@ Beholding those portents, that tiger among kings questioned Vasiṣṭha (tān d
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sage Vasiṣṭha reassures Daśaratha that although the cries of the birds portend an imminent and dreadful danger, the deer moving clockwise signify that the peril will swiftly subside; suddenly a tempestuous wind and blinding dust-storm engulf the army.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राज्ञो दशरथस्यैतच्छ्रुत्वा वाक्यं महानृषिः ॥ ११ ॥  
@@ -658,6 +682,14 @@ Murkiness enshrouded the sun, thus everyone is unaware of quarters, a sandstorm
 **13:** “—yet these deer moving clockwise signify that it shall swiftly be quelled; therefore cast aside this anxiety of yours (mṛgāḥ praśamayanty ete saṃtāpas tyajyatām ayam)!” Even as they were conversing thus there, a violent wind suddenly arose (teṣāṃ saṃvadatāṃ tatra vāyuḥ prādur babhūva ha),—
 
 **14:** —shaking the entire earth and felling mighty trees (kampayan medinīṃ sarvāṃ pātayaṃś ca mahādrumān). The sun was veiled in darkness, and none could discern the quarters of the sky (tamasā saṃvṛtaḥ sūryaḥ sarve nāvediṣur diśaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the rest of the army stands stunned in the ash-laden gloom, Daśaratha and the sages behold Bhārgava Rāma (Paraśurāma)—blazing like the doomsday fire, bearing his axe on his shoulder and a lightning-bright bow in hand like Śiva the destroyer of Tripura.
 </details>
 </details>
 
@@ -849,6 +881,14 @@ On seeing him who is perilous in his propensity and flaming like the Ritual-fire
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding him of terrifying appearance, blazing like a flaming fire (jvalantam iva pāvakam), the brahmins headed by Vasiṣṭha, ever devoted to japa and homa oblations (japahomaparāyaṇāḥ),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Conferring anxiously among themselves, the sages conclude that Paraśurāma’s wrath over his father’s murder has already been appeased and offer him arghya homage; accepting their worship, Rāma Jāmadagnya turns directly to address Rāma Dāśarathi.
 </details>
 </details>
 

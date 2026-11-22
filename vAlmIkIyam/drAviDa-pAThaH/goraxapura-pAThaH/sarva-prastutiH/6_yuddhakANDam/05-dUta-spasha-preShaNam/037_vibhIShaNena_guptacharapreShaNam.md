@@ -28,6 +28,14 @@ army.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reached enemy territory before Laṅkā, Rāma, Sugrīva, Lakṣmaṇa, Vibhīṣaṇa, and the vānara commanders deliberate on how to storm the citadel, and Vibhīṣaṇa addresses the council.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नरवानरराजानौ स तु वायुसुतः कपिः ।  
@@ -238,6 +246,14 @@ following meaningful and polished words:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, while they were speaking thus, Vibhīṣaṇa, the younger brother of Rāvaṇa, spoke a speech couched in refined diction (agrāmyapadavat) and rich in meaning (puṣkalārtham):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa reports that his four ministers entered Laṅkā disguised as birds and observed Prahasta at the eastern gate, Mahāpārśva and Mahodara in the south, and Indrajit in the west.
 </details>
 </details>
 
@@ -511,6 +527,14 @@ various kinds."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surrounded by numerous rākṣasas armed with paṭṭiśa spears, swords, and bows, and bearing pikes and maces in their hands (śūlamudgarapāṇibhiḥ), Indrajit [guards] the western gate—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa reports that an anxious Rāvaṇa commands the northern gate while Virūpākṣa holds the central garrison, backed by over ten million rākṣasas and vast chariot, elephant, and cavalry divisions.
 </details>
 </details>
 
@@ -841,6 +865,14 @@ Here, O lord of men, a retinue (parīvāraḥ) of a thousand thousands (sahasrā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Presenting his four ministers to verify the report, Vibhīṣaṇa recalls Rāvaṇa's sixty-lakṣa army against Kubera, assuring Rāma that he speaks only to kindle his heroic wrath.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतां प्रवृत्तिं लङ्कायां मन्त्रिप्रोक्तां विभीषणः ।  
@@ -1131,6 +1163,14 @@ Therefore, arraying (vyūhya) this vānara army, you shall crush (nirmathiṣyas
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ordering counter-deployments, Rāma assigns Nīla against Prahasta in the east, Aṅgada against Mahāpārśva and Mahodara in the south, and Hanumān to storm the western gate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणावरजे वाक्यमेवं ब्रुवति राघवः ।  
@@ -1346,6 +1386,14 @@ Crushing (niṣpīḍya) the western gate, let Hanumān the son of the Wind-god,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to slay Rāvaṇa himself at the northern gate with Lakṣmaṇa, Rāma assigns Sugrīva, Jāmbavān, and Vibhīṣaṇa to the center and forbids the monkeys from assuming human form.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दैत्यदानवसङ्घानामृषीणां च महात्मनाम् ।  
@@ -1533,6 +1581,14 @@ this monkey-shape should serve as a sign of recognition among us."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Moreover, human form (mānuṣaṃ rūpam) must not be assumed by the monkeys in battle; let this be our recognition-sign (saṃjñā) within the vānara host during this war!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that only seven allies—himself, Lakṣmaṇa, and Vibhīṣaṇa with his four ministers—will fight in human form, Rāma resolves to ascend the lovely slopes of Mount Suvela.
 </details>
 </details>
 

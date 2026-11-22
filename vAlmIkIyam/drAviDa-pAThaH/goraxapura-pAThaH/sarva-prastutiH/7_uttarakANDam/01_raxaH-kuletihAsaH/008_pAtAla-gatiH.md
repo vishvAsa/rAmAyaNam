@@ -13,6 +13,14 @@ title = "००८ पाताल-गतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Viṣṇu strikes down the fleeing Rākṣasa host from behind, Mālyavān wheels about like the ocean surging back from its shore, reproaches Nārāyaṇa for violating warrior law, and challenges him to combat.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्यमाने बले तस्मिन् पद्मनाभेन पृष्ठतः ।  
@@ -196,6 +204,14 @@ With eyes reddened by wrath (saṃrakta-nayanaḥ kopāt) and his diadem trembli
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding Mālyavān standing firm like Mount Mālyavān itself (mālyavantam ivācalam), the mighty younger brother of the king of gods (deva-rājānujo balī) spoke to that lord of Rākṣasas:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he must uphold his vow of fearlessness to the gods even at the cost of his life, Viṣṇu receives Mālyavān's blazing spear upon his chest, plucks it out, and hurls it straight back at the Rākṣasa.
 </details>
 </details>
 
@@ -385,6 +401,14 @@ Then the lotus-eyed Lord (amburuhekṣaṇaḥ), dear to the spear-bearing Skand
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Released from the hand of Govinda (govinda-kara-nissṛtā) as though cast by Skanda himself (skandotsṛṣṭeva), that spear sped eagerly toward the Rākṣasa (kāṅkṣantī rākṣasaṃ prāyāt), like Indra's missile plunging toward Mount Añjana (māhendrīvāñjanācalam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shattering Mālyavān's armor and briefly felling him in a swoon, the returned spear provokes a fierce counterattack with an iron pike and fists until an enraged Garuḍa sweeps the Rākṣasa away with the blast of his wings.
 </details>
 </details>
 
@@ -580,6 +604,14 @@ Enraged at that, Vainateya (vainateyas tataḥ kruddhaḥ) swept the Rākṣasa 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Mālyavān blown away by Garuḍa's wings, Sumālī and the humiliated Mālyavān flee to Laṅkā and then abandon the city altogether for Pātāla; Agastya declares these ancient Rākṣasas even mightier than Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विजेन्द्रपक्षवातेन द्रावितं दृश्य पूर्वजम् ।  
@@ -765,6 +797,14 @@ Relying upon the Rākṣasa Sumālī (sumālinaṃ samāsādya), O noblest of th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Now those Rākṣasas whom you have slain (ye tvayā nihatāḥ) are the Paulastyas by name (paulastyā nāma rākṣasāḥ); whereas Sumālī, Mālyavān, Mālin, and those who marched before them (ye ca teṣāṃ puraḥsarāḥ)—all of these illustrious warriors were even mightier than those and mightier than Rāvaṇa himself (sarve tebhyo mahābhāgā rāvaṇād balavattarāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya reveals that Rāma himself is the eternal four-armed Nārāyaṇa who incarnates age after age to slay the Rākṣasas, and closes the sarga as Kubera occupies the vacated city of Laṅkā.
 </details>
 </details>
 

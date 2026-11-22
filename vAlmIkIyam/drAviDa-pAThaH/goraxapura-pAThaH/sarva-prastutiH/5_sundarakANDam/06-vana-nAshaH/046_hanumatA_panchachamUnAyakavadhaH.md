@@ -28,6 +28,14 @@ with horses elephants and chariots, he again in returns to the archy door way of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning that the seven ministers' sons are slain, Rāvaṇa masks his inner alarm and dispatches five vanguard generals—Virūpākṣa, Yūpākṣa, Durdhara, Praghasa, and Bhāsakarṇa—warning that Hanūmān is no mere monkey.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतान् मन्त्रिसुतान् बुद्‍ध्वा वानरेण महात्मना ।  
@@ -300,6 +308,14 @@ For judging by his deeds (karmaṇā prati tarkayan), I do not consider him a [m
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Suspecting that Indra or the conquered gods, Nāgas, Yakṣas, Gandharvas, and great sages have created this mighty being through ascetic power, Rāvaṇa warns his generals not to disdain the monkey, comparing him to Vālin, Sugrīva, and Jāmbavān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरोऽयमिति ज्ञात्वा नहि शुद्ध्यति मे मनः ।  
@@ -522,6 +538,14 @@ Together with steeds, chariots, and elephants, let that monkey be chastised! Nor
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For monkeys of vast valor (vipulavikramāḥ) have been seen by me formerly (pūrve): Vālin along with Sugrīva, and Jāmbavān of mighty strength;
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that neither Nīla nor Dvivida matches this monkey's terrifying speed, brilliance, and shape-shifting power, Rāvaṇa counsels caution since victory in battle is fickle, whereupon the five generals rush forth with their fourfold forces.
 </details>
 </details>
 
@@ -787,6 +811,14 @@ strong mental disposition and colossal strength.
 **17:** One's own self must be guarded (ātmā rakṣyaḥ) with effort, for success in war is fickle (yuddhasiddhir hi cañcalā).” Accepting the command of their lord, all those [generals] of mighty energy—
 
 **18:** Sprang forth (samutpetuḥ) with great speed, matching fire in brilliance (hutāśasamatejasaḥ), with chariots, rutting elephants (mattair nāgaiḥ), and steeds of great swiftness.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Hanūmān blazing on the archway like the rising sun, the generals surround him from all directions; when Durdhara pierces his head with five iron shafts, Hanūmān leaps roaring into the sky as Durdhara showers him with hundreds of arrows.
 </details>
 </details>
 
@@ -1085,6 +1117,14 @@ his body.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the heroic Durdhara of mighty strength, with his chariot and strung bow (sajjakārmukaḥ), approached (abhipede) him, scattering many hundreds of arrows.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Checking Durdhara's arrow-shower in mid-air like the wind halting a storm-cloud, Hanūmān drops like a thunderbolt onto Durdhara's chariot, crushing him lifeless, whereupon Virūpākṣa and Yūpākṣa leap up and strike Hanūmān's chest with iron maces.
 </details>
 </details>
 
@@ -1404,6 +1444,14 @@ Having leaped up suddenly and standing in the clear sky, that mighty-armed monke
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nullifying their blow, Hanūmān swoops down like Garuḍa and slays both Virūpākṣa and Yūpākṣa with an uprooted sāla tree; when Praghasa and Bhāsakarṇa wound him with spear and pike, his blood-smeared frame blazes like the rising sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोर्वेगवतोर्वेगं निहत्य स महाबलः ।  
@@ -1671,6 +1719,14 @@ army.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With his limbs wounded (vikṣatair gātraiḥ) by those two and his body-hair smeared with blood (asṛgdigdhatanūruhaḥ), that enraged monkey became resplendent like the newly risen sun (bālasūryasamaprabhaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tearing up a mountain peak with its beasts and trees, Hanūmān crushes Praghasa and Bhāsakarṇa to bits, annihilates their remaining fourfold army like Indra slaying Asuras, and resumes his post upon the archway like Time at the world's end.
 </details>
 </details>
 

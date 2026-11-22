@@ -13,6 +13,14 @@ title = "०३९ सुग्रीव-विभीषणादि-मान�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Departing Ayodhyā with vast armies of elephants and steeds, the allied monarchs regret that Bharata summoned them too late to fight Rāvaṇa alongside Rāma and Lakṣmaṇa, and joyfully return to their own realms.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रयाता महात्मानः पार्थिवास्ते प्रहृष्टवत् ।  
@@ -199,6 +207,14 @@ Recounting these and thousands of other tales along the way (etāś cānyāś ca
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching their prosperous capitals, the monarchs send vast tributes of steeds, rutting elephants, sandalwood, gems, maidservants, hides, and chariots for Rāma’s pleasure, which Bharata, Lakṣmaṇa, and Śatrughna convey back to Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वानि राज्यानि मुख्यानि ऋद्धानि मुदितानि च ।  
@@ -282,6 +298,14 @@ Recounting these and thousands of other tales along the way (etāś cānyāś ca
 **11:** Bharata, Lakṣmaṇa, and the mighty Śatrughna (bharato lakṣmaṇaś caiva śatrughnaś ca mahābalāḥ), taking those treasures (ādāya tāni ratnāni), returned once more to their own city (svāṃ purīṃ punar āgatāḥ).
 
 **12:** And having arrived at the lovely city of Ayodhyā (āgamya ca purīṃ ramyām ayodhyām), those bulls among men (puruṣarṣabhāḥ) presented those wondrous treasures unto Rāma (tāni ratnāni citrāṇi rāmāya samupāharan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving the kings’ tributes with delight, Rāma immediately bestows them upon Sugrīva, Bibhīṣaṇa, and all the monkeys and rākṣasas; then lifting Hanūmān and Aṅgada onto his lap, he commends both to Sugrīva as deserving special honor.
 </details>
 </details>
 
@@ -396,6 +420,14 @@ All those mighty monkeys and rākṣasas (te sarve ... kapi-rākṣasāḥ ... m
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unfastening priceless ornaments from his own limbs to adorn Aṅgada and Hanūmān, Rāma calls each troop-leader by name, gazes upon them with tender affection, and hails them as his friends, his very body, and his brothers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा व्यवमुच्याङ्गाद् भूषणानि महायशाः ।  
@@ -493,6 +525,14 @@ _________________
 **23:** sweetly with gentle speech (madhuraṃ ślakṣṇayā vācā), as though drinking them in with his eyes (netrābhyām āpibann iva), [he said]: “You are my friends (suhṛdo me bhavantaś ca), my very body (śarīram), and likewise my brothers (bhrātaras tathā)!
 
 **24:** “By you was I lifted out of calamity (yuṣmābhir uddhṛtaś cāhaṃ vyasanāt), O forest-dwellers (kānanaukasaḥ); blessed indeed is King Sugrīva (dhanyo rājā ca sugrīvaḥ) with you, the foremost of friends (bhavadbhiḥ suhṛdāṃ varaiḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestowing ornaments and priceless diamonds upon the chiefs and embracing them, Rāma revels happily with the monkeys, bears, and rākṣasas through the cool winter months, time flying like a single moment in devotion to him.
 </details>
 </details>
 

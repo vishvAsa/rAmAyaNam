@@ -25,6 +25,14 @@ Seetha off.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning from the Godāvarī after his morning rites, Rāma sits conversing with Lakṣmaṇa and Sītā like the moon beside Citrā, when Rāvaṇa’s sister Śūrpaṇakhā chances upon the hermitage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृताभिषेको रामस्तु सीता सौमित्रिरेव च ।  
@@ -237,6 +245,14 @@ the paradisiacal being like Rama. [3-17-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma’s radiant royal features—set against her own hideous rākṣasī form in a series of sharp antitheses—Śūrpaṇakhā is overwhelmed by desire and addresses him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीप्तास्यं च महाबाहुं पद्मपत्रायतेक्षणम् ।  
@@ -442,6 +458,14 @@ by Love-god. [3-17-9b, 11, 12a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Grim and aged (dāruṇā vṛddhā) before the youthful prince (taruṇam), crooked-spoken (vāma-bhāṣiṇī) before the courteous speaker (dakṣiṇam), of wicked conduct (sudurvṛttā) before the righteous-minded one (nyāya-vṛttam), and loathsome to behold (apriya-darśanā) before the beloved prince (priyam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by Śūrpaṇakhā about why he has come to the demon-haunted forest, Rāma candidly recounts his lineage and exile, and asks in turn about her identity and family.
 </details>
 </details>
 
@@ -795,6 +819,14 @@ in a fashionable getup or as an old female is another point that remained inconc
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asked why she has come, lust-stricken Śūrpaṇakhā boasts of her brothers Rāvaṇa, Kumbhakarṇa, Vibhīṣaṇa, Khara, and Dūṣaṇa, declaring that she has disregarded them all to choose Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साब्रवीद् वचनं श्रुत्वा राक्षसी मदनार्दिता ॥ १९ ॥  
@@ -1050,6 +1082,14 @@ that you being the choicest among men you alone are my husband, hence I neared y
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having surpassed and disregarded all of them (tān ahaṃ samatikrāntā), O Rāma, from the very first sight of you [or: beholding your peerless form] (apūrva-darśanāt), I have approached you with heartfelt passion (bhāvena) as my husband, the supreme among men (puruṣottamam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disparaging Sītā as deformed and unworthy, Śūrpaṇakhā threatens to devour Sītā and Lakṣmaṇa so she may roam Daṇḍaka with Rāma, who smiles and prepares a witty reply.
 </details>
 </details>
 

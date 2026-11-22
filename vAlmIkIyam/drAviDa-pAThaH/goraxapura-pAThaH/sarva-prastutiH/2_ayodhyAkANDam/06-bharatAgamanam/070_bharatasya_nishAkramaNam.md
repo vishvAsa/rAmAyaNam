@@ -26,6 +26,14 @@ Ayodhya.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Even as Bharata relates his ominous dream, the exhausted envoys from Ayodhyā enter Rājagṛha, salute the king and Bharata, deliver Vasiṣṭha’s urgent summons, and present rich gifts of thirty crores for his maternal kin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरते ब्रुवति स्वप्नं दूतास्ते क्लान्तवाहनाः ।  
@@ -323,6 +331,14 @@ that, honored these messengers profusely with gifts of their liking and spoke(as
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Accepting all that wealth, deeply affectionate toward his kinsmen (pratigṛhya tu tat sarvaṃ svanuraktaḥ suhṛj-jane), Bharata honoured those envoys well with desired gifts and spoke to them (dūtān uvāca bharataḥ kāmais sampratipūjya tān):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata anxiously enquires after the welfare of King Daśaratha, Rāma, Lakṣmaṇa, Kausalyā, Sumitrā, and his own wrathful, self-willed mother Kaikeyī; the envoys reply evasively that all are well and urge him to yoke his chariot.
 </details>
 </details>
 
@@ -647,6 +663,14 @@ prosperity, holding a lotus in her hand, awaits you. Let your chariot be made re
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pressed by the envoys, Bharata asks leave of his maternal grandfather Aśvapati, promising to return whenever remembered; smelling his head, the Kekaya king blesses him and sends greetings to Daśaratha, Vasiṣṭha, Rāma, and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतश्चापि तान् दूतानेवमुक्तोऽभ्यभाषत ।  
@@ -967,6 +991,14 @@ and your brothers Rama and Lakshmana the wielders of bows."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Aśvapati and Yudhājit bestow upon Bharata choice elephants, variegated blankets, deer-skins, two thousand golden niṣkas, sixteen hundred horses, trusted counsellors, swift mules, and tiger-strong palace hounds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मै हस्त्युत्तमांश्चित्रान् कम्बलानजिनानि च ।  
@@ -1283,6 +1315,14 @@ son, who was then in a hurry to go.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having taken leave of his maternal grandfather and his maternal uncle Yudhājit (sa mātāmaham āpṛcchya mātulaṃ ca yudhājitam), Bharata mounted his chariot and set forth accompanied by Śatrughna (ratham āruhya bharataś śatrughna-sahito yayau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weighed down by anxiety over the envoys’ haste and his dark dream, Bharata takes leave of the inner apartments and sets forth with Śatrughna, escorted by over a hundred chariots, camels, cattle, horses, and Aśvapati’s ministers.
 </details>
 </details>
 

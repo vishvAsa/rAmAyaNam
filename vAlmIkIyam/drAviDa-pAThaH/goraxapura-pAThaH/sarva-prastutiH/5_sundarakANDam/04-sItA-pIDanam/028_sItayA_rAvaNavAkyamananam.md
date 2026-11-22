@@ -24,6 +24,14 @@ moment, a propitious omen never seen before appears on her person.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trembling like a young she-elephant assailed by a lion, Sītā laments her unyielding heart and dreads that Rāvaṇa will dismember her like a surgeon dismembering a fetus.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा राक्षसेन्द्रस्य वचो निशम्य  
@@ -372,6 +380,14 @@ If that Lord of the world (lokanāthe) does not arrive (tasminn anāgacchati), s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing her remaining two months to a condemned thief’s final night, Sītā cries out to Rāma, Lakṣmaṇa, and her mothers, fearing the princes perished through the phantom deer.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःखं बतेदं ननु दुःखिताया  
@@ -644,6 +660,14 @@ Alas, O Rāma of true vows (satyavrata), O long-armed one (dīrghabāho), alas, 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bemoaning that her wifely devotion and austerity have proved as fruitless as kindness shown to ingrates, Sītā imagines Rāma returning from exile while she perishes in vain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनन्यदेवत्वमियं क्षमा च  
@@ -867,6 +891,14 @@ to me of my little fortune!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Whereas I, O Rāma, who conceived love for you (tvayi jātakāmā) and bound my heart to you so long only for my own ruin (ciraṃ vināśāya nibaddhabhāvā), having practiced austerity and vows in vain (moghaṃ caritvātha tapo vrataṃ ca), shall cast away my life—fie upon my scant fortune (dhig jīvitam alpabhāgyām)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Finding neither poison nor blade in Rāvaṇa’s house, Sītā grasps her hair-braid tie and approaches the śiṃśapā branch to hang herself, whereupon auspicious omens suddenly manifest.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०७५ व्यभिचार्य्-अन्वेषणम्
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing at Nārada’s nectar-like counsel, Rāma instructs Lakṣmaṇa to comfort the grieving brahmin and preserve his dead son’s body intact in a vat of fragrant oils, then mentally summons the golden aerial chariot Puṣpaka, which arrives in an instant.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारदस्य तु तद् वाक्यं श्रुत्वामृतमयं यथा ।  
@@ -197,6 +205,14 @@ Perceiving his unspoken intent (iṅgitaṃ sa tu vijñāya), that gold-decked P
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring the sages and leaving Bharata and Lakṣmaṇa in charge of Ayodhyā, an armed Rāma ascends the obedient Puṣpaka and systematically searches the western, northern, and eastern quarters of his realm without discovering even the slightest wrongdoing.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽब्रवीत् प्रणतो भूत्वा अयमस्मि नराधिप ।  
@@ -367,6 +383,14 @@ Seeing not even the slightest wrongdoing there either (apaśyamānas tatrāpi sv
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Finding the eastern quarter as spotless as a mirror, Rāma flies southward and discovers a vast lake on the northern flank of Mount Śaivala; there he beholds an ascetic hanging head-downward in fierce penance and approaches him with a courteous greeting.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रविशुद्धसमाचारामादर्शतलनिर्मलाम् ।  
@@ -468,6 +492,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 At that lake, the glorious Rāghava beheld an ascetic (tasmin sarasi ... dadarśa rāghavaḥ śrīmān) practicing exceedingly great austerity (tapyantaṃ tāpasaṃ sumahat tapaḥ), suspended head-downward (lambamānam adho-mukham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Introducing himself as Rāma, son of Daśaratha, the king courteously asks the hanging ascetic his birth, the goal or boon for which he endures such severe penance, and whether he is a brāhmaṇa, kṣatriya, vaiśya, or śūdra; thus questioned, the ascetic prepares to speak the truth.
 </details>
 </details>
 

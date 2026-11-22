@@ -29,6 +29,14 @@ the Sage's wrath.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stunned for a moment upon hearing Viśvāmitra’s request, King Daśaratha regains consciousness and pleads that his lotus-eyed Rāma is not yet sixteen years old, offering instead to lead his own akṣauhiṇī army in person against the night-prowlers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राजशार्दूलो विश्वामित्रस्य भाषितम् ।  
@@ -376,6 +384,14 @@ Thus guarded well by me, that sacrificial vow of yours shall proceed free of all
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleading that young Rāma is unacquainted with treacherous rākṣasa warfare and that he himself cannot live a single moment parted from his eldest son—born to him after sixty thousand years—Daśaratha asks about the strength and parentage of those demons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बालो ह्यकृतविद्यश्च न च वेत्ति बलाबलम् ।  
@@ -612,6 +628,14 @@ And this son was begotten by me through great hardship and penance (kṛcchreṇ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In reply to Daśaratha’s inquiry into how those treacherous demons should be countered, Viśvāmitra reveals that Rāvaṇa—born in the line of Pulastya as the son of Sage Viśravas and brother of Kubera, and empowered by Brahmā’s boon—oppresses the three worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंवीर्या राक्षसास्ते च कस्य पुत्राश्च के च ते ॥ १२ ॥  
@@ -806,6 +830,14 @@ thus we hear. [1-20-17b, 18a]
 **16:** “There is a rākṣasa named Rāvaṇa, sprung from the lineage of Sage Pulastya (paulastyavaṃśaprabhavo rāvaṇo nāma rākṣasaḥ). Granted a boon by Lord Brahmā, he sorely afflicts the three worlds (sa brahmaṇā dattavaras trailokyaṃ bādhate bhṛśam),
 
 **17:** Possessed of mighty strength and vast valor, and surrounded by multitudes of rākṣasas (mahābalo mahāvīryo rākṣasair bahubhir vṛtaḥ). This Rāvaṇa, the overlord of the rākṣasas, O great King, is renowned throughout the world (śrūyate ca mahārāja rāvaṇo rākṣasādhipaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing that the two mighty demons Mārīca and Subāhu obstruct the sacrifice at Rāvaṇa’s command, Daśaratha despairs of withstanding Rāvaṇa—whom even gods, dānavas, gandharvas, and yakṣas cannot endure in battle—and begs Viśvāmitra to show grace to his child.
 </details>
 </details>
 
@@ -1102,6 +1134,14 @@ spare my son in anyway. [1-20-24b, 25a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Whether accompanied by my army, O foremost of sages, or together with my sons (sabalo vā muniśreṣṭha sahito vā mamātmajaiḥ). How then could I possibly hand over my tender son, godlike in beauty yet unacquainted with battles (katham apy amaraprakhyaṃ saṃgrāmāṇām akovidam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Repeating in anguish that he will never give up his young son to fight the death-like sons of Sunda and Upasunda, King Daśaratha kindles the towering wrath of Viśvāmitra, who blazes up like a sacrificial fire poured over with clarified butter.
 </details>
 </details>
 

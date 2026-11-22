@@ -29,6 +29,14 @@ from his bow and kills him on the spot. The demons get frightened and run away t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Makarākṣa sallying forth, the Vānara leaders leap forward for battle, only to be routed by the demon host's javelins, maces, and arrows.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्गतं मकराक्षं ते दृष्ट्वा वानरपुङ्गवाः ।  
@@ -290,6 +298,14 @@ in mind, agonized with fear and ran away.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And tormented by floods of arrows (bāṇaughaiḥ) launched by Khara's son, all the Vānaras, their minds bewildered (sambhrāntamanasaḥ) and stricken with fear, fled away (dudruvuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma checks the triumphant demons with a rain of arrows, provoking Makarākṣa to demand single combat in vengeance for his father Khara.
 </details>
 </details>
 
@@ -595,6 +611,14 @@ My limbs burn fiercely (dahyante bhṛśam aṅgāni), O wicked-souled Rāghava,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Makarākṣa boasts that his arrows will dispatch Rāma to Yama's realm, and Rāma smilingly rebukes the demon's vain and empty bluster.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्यासि दर्शनं राम मम त्वं प्राप्तवानिह ।  
@@ -893,6 +917,14 @@ strength of a mere speech."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma reminds Makarākṣa of Khara's destruction in Daṇḍaka and shatters the demon's volley of golden-shafted arrows as their bows thunder like clouds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दश सहस्राणि रक्षसां त्वत्पिता च यः ।  
@@ -1168,6 +1200,14 @@ battle-front, like the rumbling of clouds in space.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Like the roar of two thunderclouds in the sky (jīmūtayor ivākāśe) was the sound of their bowstrings and leather-guarded palms (jyātalayoḥ), and the crash loosed from their bows was heard mutually on the battlefield.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As gods and celestials watch from the sky, the two warriors darken the quarters with arrow-floods until Rāma shatters Makarākṣa's bow, chariot, and steeds.
 </details>
 </details>
 
@@ -1463,6 +1503,14 @@ down dead. That Makaraksha the demon, bereft of his chariot, stood on the ground
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Splitting the chariot with arrows, Rāma slew the steeds and felled them; deprived of his chariot (virathaḥ), that night-stalker Makarākṣa stood upon the earth (vasudhāsthaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing on the ground, Makarākṣa hurls the blazing Rudra-given pike, which Rāma shatters in mid-air with four arrows like a falling meteor.
 </details>
 </details>
 
@@ -1778,6 +1826,14 @@ in the air, cried, saying 'Excellent, Excellent!'.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding that pike struck down by Rāma of unwearying deeds (akliṣṭakarmaṇā), beings stationed in the sky cried out, “Bravo! Bravo!” (sādhu sādhv iti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging forward with raised fist after his pike is shattered, Makarākṣa has his heart cloven by Rāma's fiery missile, ending the tenth day of battle.
 </details>
 </details>
 

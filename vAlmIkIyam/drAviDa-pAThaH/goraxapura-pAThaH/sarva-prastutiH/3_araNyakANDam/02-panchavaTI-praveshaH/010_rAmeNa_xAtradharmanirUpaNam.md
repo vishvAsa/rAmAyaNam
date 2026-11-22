@@ -24,6 +24,14 @@ Rama replies Seetha's enquiry as to why he should wage war to eliminate the demo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Steadfast in dharma, Rāma replies to Sītā that her own words confirm his duty, since the afflicted sages of Daṇḍakā have sought refuge in him from man-eating demons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वाक्यमेतत् तु वैदेह्या व्याहृतं भर्तृभक्तया ।  
@@ -322,6 +330,14 @@ They are devoured by dreadful rākṣasas who subsist on human flesh (nara-mā�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma recounts how the sages of Daṇḍakā implored his protection against flesh-eating demons who assail their sacrifices at the sacred offering hours and lunar festivals.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया तु वचनं श्रुत्वा तेषामेवं मुखाच्च्युतम् ॥ ७ ॥  
@@ -603,6 +619,14 @@ Flesh-eating rākṣasas (piśitāśanāḥ), exceedingly hard to overpower (sud
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unwilling to squander their hard-won penance by cursing the demons, the sages name Rāma their sole refuge, and Rāma declares that while living he cannot break his pledge.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं तपःप्रभावेण शक्ता हन्तुं निशाचरान् ॥ १३ ॥  
@@ -839,6 +863,14 @@ is dearer to me, isn't it... [4-10-17b, 18a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Was promised by me (mayā ... saṃśrutam) to the sages in the Daṇḍaka forest, O daughter of Janaka; and having promised it, while I live (jīvamānaḥ) I shall never be able to falsify my pledge (pratiśravam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that he would sooner abandon his own life, Sītā, and Lakṣmaṇa than break a promise to brahmins, Rāma praises Sītā’s loving counsel and journeys on bow in hand.
 </details>
 </details>
 

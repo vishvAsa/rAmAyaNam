@@ -26,6 +26,14 @@ along with its town planning and grandeur of the city, and its residents.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beginning the great narrative from Prajāpati Manu and Emperor Sagara of the Ikṣvāku race, the bards proclaim the Rāmāyaṇa and describe the prosperous land of Kosala along the Sarayū river and its world-renowned capital, Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वा पूर्वमियं येषामासीत् कृत्स्ना वसुन्धरा ।  
@@ -289,6 +297,14 @@ ruler of mankind. [1-4-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Therein stood a city named Ayodhyā, famed throughout the worlds, which had been fashioned of old by Manu himself, the lord of mankind (manunā mānavendreṇa).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The imperial architecture and civic grandeur of Ayodhyā: twelve yojanas in length and three in breadth, adorned with flower-strewn highways, arched gateways, well-ordered markets, defensive śataghnī engines, mango groves, and a girdle of śāla ramparts.
 </details>
 </details>
 
@@ -625,6 +641,14 @@ Replete on every side with troupes of actresses and dancers (vadhūnāṭakasa�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impregnable behind its deep moats, thronged with elephants, horses, tributary monarchs, and merchants from many lands, Ayodhyā shines on a chessboard grid of seven-storied palaces, abounding in fine śāli rice and water sweet as sugarcane juice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुर्गगम्भीरपरिखां दुर्गामन्यैर्दुरासदाम् ।  
@@ -940,6 +964,14 @@ as a sort of background music, since royalty sponsors these performing arts.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Resounding mightily with kettle-drums (dundubhībhiḥ), clay mṛdaṅga drums, vīṇā lutes, and paṇava cymbals, that city was the peerless jewel upon the face of the earth (pṛthivyāṃ tām anuttamām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like a celestial vimāna won by tapas, Ayodhyā is guarded by chivalrous mahāratha warriors who never strike an isolated, heirless, unseen, or fleeing foe, and sanctified by Veda-mastering brāhmaṇa seers.
 </details>
 </details>
 

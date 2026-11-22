@@ -13,6 +13,14 @@ title = "०८२ अयोध्या-प्रत्यागमनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Performing his evening twilight worship at the sacred lake, Rāma partakes of Agastya’s nectar-like roots, divine herbs, and pure rice, passes the night contentedly, and at dawn respectfully asks the sage’s leave to return to Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषेर्वचनमाज्ञाय रामः सन्ध्यामुपासितुम् ।  
@@ -217,6 +225,14 @@ Having saluted the great sage born of the pitcher (abhivādyābravīd rāmo maha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma humbly vows to return for his own purification, the delighted Agastya marvels at his modesty and proclaims Rāma himself the supreme purifier of all beings, whose very sight sanctifies the devoted and sends hostile beholders straight to Yama’s realm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्योऽस्म्यनुगृहीतोऽस्मि दर्शनेन महात्मनः ।  
@@ -387,6 +403,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that even recounting Rāma’s glory brings perfection, Agastya blesses him with a safe journey and righteous rule; bowing respectfully to Agastya and all the sages, Rāma ascends the golden Puṣpaka amid their benedictions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईदृशस्त्वं रघुश्रेष्ठ पावनः सर्वदेहिनाम् ।  
@@ -554,6 +578,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As he departed, throngs of sages honored him on every side with benedictions (taṃ prayāntaṃ munigaṇā hy āśīrvādaiḥ samantataḥ apūjayan), him who resembled great Indra (mahendrābham), as the immortals honor the Thousand-Eyed Lord (sahasrākṣam ivāmarāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining upon Puṣpaka like the moon beside a monsoon cloud, Rāma reaches Ayodhyā by midday, descends into the middle courtyard, dismisses the aerial chariot with blessings, and instructs the doorkeeper to summon Lakṣmaṇa and Bharata without delay.
 </details>
 </details>
 

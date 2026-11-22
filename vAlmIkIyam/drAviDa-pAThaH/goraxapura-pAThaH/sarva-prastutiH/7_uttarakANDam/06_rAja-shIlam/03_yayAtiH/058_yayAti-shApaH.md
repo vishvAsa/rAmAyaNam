@@ -13,6 +13,14 @@ title = "०५८ ययाति-शापः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling at Nimi’s ancient tale yet noting that the heroic king failed to show forbearance toward Vasiṣṭha, Lakṣmaṇa prompts Rāma to observe that forbearance is rare among men, introducing the contrasting story of King Yayāti’s endurance of fierce brahminical wrath.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवति रामे तु लक्ष्मणः परवीरहा ।  
@@ -171,6 +179,14 @@ Thus addressed by him (evam uktas tu tenāyam), the glorious bull among kṣatri
 **5:** Rāma, foremost of those who give delight (rāmo ramayatāṃ śreṣṭhaḥ), spoke to his brother of blazing splendor (bhrātaraṃ dīpta-tejasam): “Forbearance is not seen everywhere among men, O hero (na sarvatra kṣamā vīra puruṣeṣu pradṛśyate)!
 
 **6:** “How unbearable wrath was endured by Yayāti (duḥsaho roṣo yathā kṣānto yayātinā), O Saumitri, keeping to the path aligned with goodness (sattvānugaṃ puraskṛtya)—listen to that with collected mind (tan nibodha samāhitaḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma introduces Nahuṣa’s son King Yayāti and his two peerless wives—the favored Daitya princess Śarmiṣṭhā, mother of Pūru, and the neglected Devayānī, daughter of Uśanas and mother of Yadu—showing how the grieved Yadu confronts his mother over her humiliation.
 </details>
 </details>
 
@@ -340,6 +356,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that they should enter fire together—or else let him die alone rather than endure Yayāti’s neglect—Yadu moves Devayānī to furious grief; she mentally summons her father Bhārgava (Śukra), who swiftly appears and asks why she looks so distraught.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवां च सहितौ देवि प्रविशाव हुताशनम् ।  
@@ -495,6 +519,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Repeatedly questioned by her radiant father, an enraged Devayānī threatens to drink poison or enter fire or water rather than live on, and cunningly frames Yayāti’s neglect of her as a direct insult against Bhārgava himself.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृच्छन्तमसकृत् तं वै भार्गवं दीप्ततेजसम् ।  
@@ -591,6 +623,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Out of contempt for you, O Bhārgava (avajñayā ca ... bhārgava), and despising me (paribhūya ca), the royal sage shows disregard toward me (mayy avajñāṃ prayuṅkte hi) and holds me in no esteem (na ca māṃ bahu manyate)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overwhelmed with rage at Devayānī’s words, Bhārgava utters a curse condemning Yayāti to sudden, enfeebling old age for despising him; then, having comforted his daughter, the sun-bright sage returns to his own abode.
 </details>
 </details>
 

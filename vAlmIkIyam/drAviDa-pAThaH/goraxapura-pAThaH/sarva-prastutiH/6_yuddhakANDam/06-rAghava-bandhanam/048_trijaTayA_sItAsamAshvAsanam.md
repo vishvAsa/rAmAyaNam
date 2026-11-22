@@ -25,6 +25,14 @@ Lakshman to be still alive and cheering her up, takes her back to Ashoka grove.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma and mighty Lakṣmaṇa lying felled upon the battlefield, grief-stricken Sītā weeps piteously and laments that the prophecies of astrologers and palmists have proven false.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तारं निहतं दृष्ट्वा लक्ष्मणं च महाबलम् ।  
@@ -325,6 +333,14 @@ consecrated on an imperial throne with their husbands and lords."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Upon [my] two feet (pādayoḥ) are indeed these lotus-marks (padmāni), [by which] noblewomen (kulastriyaḥ) are consecrated in supreme sovereignty (ādhirājye) alongside their royal husbands (narendraiḥ patibhiḥ saha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Examining her own person, Sītā enumerates the auspicious Sāmudrika marks upon her hair, limbs, and complexion that had promised her unfailing royal fortune, now seemingly rendered vain.
 </details>
 </details>
 
@@ -647,6 +663,14 @@ ten toes and two soles).
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 My complexion (varṇaḥ) gleams like a gem (maṇinibhaḥ), and the hairs of my body (aṅgaruhāṇi) are soft; [because I stand] firmly planted upon twelve points (dvādaśabhiḥ pratiṣṭhitām), they pronounced me endowed with auspicious marks (śubhalakṣaṇām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling the palmists' promises of imperial coronation, Sītā marvels that Rāma and Lakṣmaṇa, masters of celestial weapons who crossed the ocean, fell in a mere puddle to unseen illusion.
 </details>
 </details>
 
@@ -987,6 +1011,14 @@ For no enemy (ripuḥ), having come within range of Rāghava’s sight (dṛṣ�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mourning above all for poor Kausalyā awaiting her son's return, Sītā is consoled by Trijaṭā, who declares that Rāma and Lakṣmaṇa live and adduces clear proofs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कालस्यातिभारोऽस्ति कृतान्तश्च सुदुर्जयः ।  
@@ -1277,6 +1309,14 @@ For when their leader is slain (nihate patau) in battle, the faces of warriors (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trijaṭā points out that celestial Puṣpaka would never carry a widow, that the Vānara army stands undismayed around the princes, and that she speaks out of pure affection.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं विमानं वैदेहि पुष्पकं नाम नामतः ।  
@@ -1520,6 +1560,14 @@ An untruth (anṛtam) has never before been spoken by me (noktapūrvaṃ me), no
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing to the undiminished radiance on the faces of the unconscious princes, which lacks the ghastly distortion of death, Trijaṭā urges Sītā to cast off her grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेमौ शक्यौ रणे जेतुं सेन्द्रैरपि सुरासुरैः ।  
@@ -1732,6 +1780,14 @@ It is impossible, now with the splendour seen in their faces, for Rama and Laksh
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Cast aside grief (śokam), sorrow (duḥkham), and delusion (moham), O daughter of Janaka (janakātmaje)! For the sake of Rāma and Lakṣmaṇa, it is impossible [for them] today to be lifeless (nādya śakyam ajīvitum).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praying that Trijaṭā's words prove true, Sītā is borne back on Puṣpaka to Laṅkā's Aśoka grove, where brooding upon the fallen princes plunges her again into deep sorrow.
 </details>
 </details>
 

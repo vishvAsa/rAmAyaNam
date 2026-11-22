@@ -28,6 +28,14 @@ in Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanumān's account of Rāma, Vaidehī speaks gently and asks him how monkeys and men came into alliance and what bodily marks distinguish Rāma and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तु रामकथां श्रुत्वा वैदेही वानरर्षभात् ।  
@@ -353,6 +361,14 @@ of Rama your husband and Lakshmana, eventhough you know about them. Alas! what a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān begins his portrait of Rāma, extolling his lotus-petal eyes, moon-like countenance, solar splendor, earth-like forbearance, protection of the four varṇas, and steadfast adherence to dharma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि रामस्य चिह्नानि लक्ष्मणस्य च यानि वै ।  
@@ -640,6 +656,14 @@ He knows how to do good to virtuous people. He knows the application and advanta
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Radiant with luster (arciṣmān) and supremely venerated (arcitaḥ atyartham), he abides in the vow of chastity (brahmacaryavrate sthitaḥ); he knows the good turns of the virtuous (sādhūnām upakārajñaḥ) and understands the proper course of actions (pracārajñaś ca karmaṇām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moving from Rāma's royal and Vedic learning to his physical form, Hanumān enumerates the classic sāmudrika triad and tetrad proportions of Rāma's limbs.
 </details>
 </details>
 
@@ -993,6 +1017,14 @@ Marked with three folds (trivalīmān) and depressed in three places (tryavanata
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding Rāma's physiognomic marks and ethical virtues, Hanumān describes golden-complexioned Lakṣmaṇa as Rāma's devoted counterpart as both brothers roam the earth seeking Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चतुर्दशसमद्वन्द्वश्चतुर्दंष्ट्रश्चतुर्गतिः ।  
@@ -1316,6 +1348,14 @@ Searching the entire earth (vicinvantau mahīṃ kṛtsnām), they met with us (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān narrates how Rāma and Lakṣmaṇa reached Mount Ṛṣyamūka, how terrified Sugrīva fled to the peak, and how Sugrīva dispatched Hanumān to approach the princes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूकस्य मूले तु बहुपादपसङ्कुले ॥ २५ ॥  
@@ -1591,6 +1631,14 @@ bewildered with fear (bhayamohitaḥ), leaped up (abhiplutaḥ) to a peak of tha
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 hastily (satvaram) dispatched me alone (mām eva preṣayāmāsa) to their presence (tayoḥ samīpam); and at Sugrīva's command (sugrīvavacanāt), I [approached] those two sovereign tigers among men (puruṣavyāghrau prabhū).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Rāma and Lakṣmaṇa with folded hands, Hanumān carries them upon his back to Sugrīva, where mutual converse kindles deep friendship and Lakṣmaṇa recounts Rāma's grief over Sītā.
 </details>
 </details>
 
@@ -1933,6 +1981,14 @@ and upon hearing the speech uttered by Lakṣmaṇa (lakṣmaṇeneritaṃ vaca�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva grows dim with sorrow like an eclipsed sun and brings out the ornaments dropped by Sītā, whose sight kindles Rāma's fire of grief until Hanumān revives him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वद‍्गात्रशोभीनि रक्षसा ह्रियमाणया ॥ ३७ ॥  
@@ -2052,6 +2108,14 @@ in many ways."
 **39:** joyfully (saṃhṛṣṭāḥ) showed them to him, though they did not know your destination (gatiṃ tu na vidus tava). Those ornaments, which had been brought by me myself (mayaivopahṛtāni), were given to Rāma (rāmāya dattāni),
 
 **40:** resonant (svanavanti) as they were scattered down (avakīrṇāni) while his mind was stricken with grief (tasmin vihatacetasi). Placing those lovely ornaments (darśanīyāni) upon his lap (aṅke kṛtvā), in manifold ways (bahuvidham) then
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entrusting the ornaments to Sugrīva, Rāma burns with sleepless grief like a volcanic mountain and quakes like an earthquake-shaken peak, yet will soon slay Rāvaṇa.
 </details>
 </details>
 
@@ -2452,6 +2516,14 @@ That Rāghava, a tiger among men (manujaśārdūlaḥ), will swiftly regain you 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma and Sugrīva seal a compact to slay Vālin and recover Sītā; after Rāma slays Vālin in battle, crowned Sugrīva dispatches mighty monkeys in all ten directions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वां मनुजशार्दूलः क्षिप्रं प्राप्स्यति राघवः ।  
@@ -2789,6 +2861,14 @@ Commanded (ādiṣṭāḥ) by Sugrīva, the lord of monkeys, those monkeys of m
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Led by Crown Prince Aṅgada with a third of the army, the southern search party loses its way in the Vindhya mountains and sits down in prāya to fast to death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदिष्टा वानरेन्द्रेण सुग्रीवेण महौजसः ।  
@@ -3090,6 +3170,14 @@ Then upon the summit of that mountain (tasya girer mūrdhni) we sat down in a fa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Aṅgada laments Sītā's loss, Vālin's slaying, and Jaṭāyus's death, the mighty vulture-king Sampāti arrives and learns how Rāvaṇa slew his younger brother Jaṭāyus.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्य गिरेर्मूर्ध्नि वयं प्रायमुपास्महे ।  
@@ -3368,6 +3456,14 @@ by the Rākṣasa of dreadful form (rakṣasā bhīmarūpeṇa) on your account 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cheered by Sampāti's tidings that Sītā abides in Rāvaṇa's abode, the monkeys reach the ocean shore, and Hanumān leaps a hundred yojanas into Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायोस्तु वधं श्रुत्वा दुःखितः सोऽरुणात्मजः ॥ ६७ ॥  
@@ -3594,6 +3690,14 @@ Talk to me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Both Rāvaṇa was seen by me, and you too, sorely afflicted with grief (śokanipīḍitā); all this has been recounted to you just as it happened (yathāvṛttam), O blameless lady (anindite).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān urges Sītā to speak with him as Rāma's envoy and Sugrīva's counselor, assuring her of Rāma's and Lakṣmaṇa's welfare and rejoicing that his ocean leap was fruitful.
 </details>
 </details>
 
@@ -3883,6 +3987,14 @@ dispel their anguish (apaneṣyāmi saṃtāpam) through the tidings of having f
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Predicting Rāma's swift victory, Hanumān recounts how his father Kesarin slew Śambasādana at Gokarṇa and how Vāyu begot him, convincing Sītā through these credentials.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या हि न मम व्यर्थं सागरस्येह लङ्घनम् ॥ ७९ ॥  
@@ -4160,6 +4272,14 @@ clues served as proof.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus inspired with trust (viśvāsitā) by convincing tokens of recognition and reasons (hetubhiḥ upapannair abhijñānaiḥ), Sītā, emaciated by grief (śokakarśitā), recognized him to be the true envoy (dūtaṃ tam adhigacchati).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Convinced that Hanumān is no illusion, Janaka's daughter sheds tears of joy as her face shines like the moon freed from Rāhu, and Hanumān awaits her command.
 </details>
 </details>
 

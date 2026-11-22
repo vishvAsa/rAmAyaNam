@@ -26,6 +26,14 @@ Kaikeyi together with the army.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma sits with Sītā on a mountain ledge after showing her the Mandākinī, the sky-touching dust and clamour of Bharata’s approaching army send the forest herds fleeing in panic.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तदा दर्शयित्वा तु मैथिलीं गिरिनिम्नगाम् ।  
@@ -341,6 +349,14 @@ Beholding them fleeing (tāṃś ca vidravato dṛṣṭvā) and hearing that mi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidden by Rāma to investigate the thunderous uproar, Lakṣmaṇa climbs a flowering śāla tree and beholds a vast fourfold army advancing from the north.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त लक्ष्मण पश्येह सुमित्रा सुप्रजास्त्वया ।  
@@ -629,6 +645,14 @@ and elephants accompanied by smart foot-soldiers.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Looking toward the north (udaṅ-mukhaḥ prekṣamāṇaḥ), he beheld a vast army (dadarśa mahatīṃ camūm), crowded with chariots, steeds, and elephants (rathāśva-gaja-sambādhām) and arrayed with mail-clad foot-soldiers (yattair yuktāṃ padātibhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Rāma to extinguish the fire, shelter Sītā in a cave, and arm for battle, wrathful Lakṣmaṇa identifies the kovidāra banner and concludes that Bharata has come to slay them.
 </details>
 </details>
 
@@ -953,6 +977,14 @@ Yonder shines in full view (eṣa vai samprakāśate) the tall, resplendent, bra
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out the exultant cavalry and elephant riders, Lakṣmaṇa vows to confront Bharata in battle, declaring that no sin attaches to slaying a prior aggressor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भजन्त्येते यथाकाममश्वानारुह्य शीघ्रगान् ।  
@@ -1241,6 +1273,14 @@ the entire earth."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bharata is the first aggressor and has abandoned righteousness, O Rāghava (pūrvāpakārī bharatas tyakta-dharmaś ca rāghava); when he is slain, do you rule the entire earth (etasmin nihate kṛtsnām anuśādhi vasundharām)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa vows to slay Bharata along with Kaikeyī and her accomplices, unleash his pent-up wrath like fire in dry brushwood, and drench Citrakūṭa’s forest with the blood of his foes.
 </details>
 </details>
 

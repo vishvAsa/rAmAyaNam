@@ -24,6 +24,14 @@ her to become his wife. Thereupon she goes into a frenzied state and brainstorms
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing a Brāhmaṇa's curse should she remain silent before her guest, Sītā tells the disguised Rāvaṇa her name, her royal parentage, and the story of Rāma's interrupted consecration.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणेन तु वैदेही तदा पृष्टा जिहीर्षुणा ।  
@@ -363,6 +371,14 @@ While the preparations for Rāghava's consecration (rāghavasyābhiṣecane) wer
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā recounts how Kaikeyī bound King Daśaratha by his pledged word to banish Rāma and crown Bharata when Rāma was twenty-five years old and she was eighteen.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिगृह्य तु कैकेयी श्वशुरं सुकृतेन मे ।  
@@ -686,6 +702,14 @@ king did not anoint Rama. [3-47-12b, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned for his consecration, the fearless Rāma obeys Kaikeyī's command to enter fourteen years of forest exile so as to rescue his father from falsehood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेकाय तु पितुः समीपं राममागतम् ॥ १३ ॥  
@@ -920,6 +944,14 @@ shall endeavour to govern the people [properly...] *dadyaat raajaa na yaaceta ya
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that word, my husband, firm in his vows (dṛḍha-vrataḥ), carried it out (cakāra). He would ever give and never accept (dadyān na pratigṛhṇīyāt); he would speak truth and never falsehood (satyaṃ brūyān na cānṛtam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Describing how the celibate Lakṣmaṇa accompanied them into the Daṇḍaka wilderness, Sītā bids the mendicant rest until Rāma returns from the hunt and asks his name and lineage.
 </details>
 </details>
 
@@ -1194,6 +1226,14 @@ him as above.
 **23:** My husband will soon return (āgamiṣyati me bhartā), bringing abundant forest produce (vanyam ādāya puṣkalam), having slain ruru-stags, iguanas, and boars (rurūn godhān varāhāṃś ca hatvā) and bringing plentiful meat (ādāyāmiṣaṃ bahu).
 
 **24:** Do you therefore truly declare (ācakṣva tattvataḥ) your name, your lineage, and your family (nāma ca gotraṃ ca kulam); and why, O twice-born one, do you roam alone in the Daṇḍaka forest (ekaś ca daṇḍakāraṇye kimarthaṃ carasi)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing himself as Rāvaṇa, lord of the rākṣasas and terror of the three worlds, the demon urges Sītā to become his chief queen in sea-girt Laṅkā.
 </details>
 </details>
 
@@ -1526,6 +1566,14 @@ The word *bhaamini* is an addressing to a beautiful lady, who is with some anger
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There, O Sītā, you shall stroll with me (mayā sārdhaṃ vicariṣyasi) through pleasure-groves (vaneṣu), and you shall no longer yearn for this forest-dwelling (na cāsya vana-vāsasya spṛhayiṣyasi), O lovely woman (bhāmini)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Spurning Rāvaṇa's offer of five thousand handmaidens, Sītā indignantly proclaims her unswerving fidelity to Rāma, who is unshakable as a mountain and mighty as a lion.
 </details>
 </details>
 
@@ -1902,6 +1950,14 @@ To Rāma, whose face is like the full moon (pūrṇa-candrānanam), the darling 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening Rāvaṇa to a jackal coveting a lioness, Sītā warns him that desiring Rāma's wife is like plucking a fang from a venomous serpent or licking a razor.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं पुनर्जम्बुकः सिंहीं मामिहेच्छसि दुर्लभाम् ।  
@@ -2147,6 +2203,14 @@ eyes with needlepoint, and licking the razorblade with your tongue. [3-47-41]
 **40:** You wish to lift up Mount Mandara, best of mountains (mandaraṃ parvata-śreṣṭham), with your hand (pāṇinā); having drunk Kālakūṭa poison (kālakūṭaṃ viṣaṃ pītvā), you wish to walk away unharmed (svastimān gantum icchasi)!
 
 **41:** You are rubbing your eye with a needle (akṣi sūcyā pramṛjasi) and licking a razor with your tongue (jihvayā leḍhi ca kṣuram), in that you desire to win (adhigantum) the beloved wife of Rāghava!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Continuing her rebuke, Sītā declares that the gulf between Rāma and Rāvaṇa is as vast as that between a lion and a jackal, the ocean and a rill, or gold and lead.
 </details>
 </details>
 
@@ -2448,6 +2512,14 @@ an imparity exists between you and the son of Dasharatha. [3-47-46]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Whatever gulf lies between gold and base lead (kāñcana-sīsa-lohayoḥ), whatever gulf between sandal-water and mire (candana-vāri-paṅkayoḥ), whatever gulf between an elephant and a cat in the forest (hasti-biḍālayor vane)—that is the gulf between Daśaratha's son and you!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Rāvaṇa that even if abducted she will never be digested by him while Rāma stands bow in hand, Sītā trembles like a wind-tossed plantain tree as the demon prepares to boast of his might.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "०९६ वाल्मीकि-घोषणम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At dawn, King Rāma enters the sacrificial enclosure and summons Vasiṣṭha, Viśvāmitra, Durvāsas, Mārkaṇḍeya, Nārada, Agastya, and countless other sages of rigorous vows, who all assemble in eager anticipation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यां रजन्यां व्युष्टायां यज्ञवाटं गतो नृपः ।  
@@ -110,6 +118,14 @@ _________________
 **5:** Nārada and Parvata, Gautama of great renown, Kātyāyana and Suyajña, and Agastya, treasure-house of austerities (agastyas tapasāṃ nidhiḥ)—
 
 **6:** these and many other sages of sharpened vows (munayaḥ saṃśitavratāḥ), filled with eager wonder (kautūhala-samāviṣṭāḥ), assembled there, every one of them (sarva eva samāgatāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rākṣasas, vānaras, and thousands from every social order and spiritual path gather motionless as stone; hearing this, Vālmīki swiftly arrives with Sītā walking tearfully behind him like Śruti following Brahmā, drawing mighty acclamation.
 </details>
 </details>
 
@@ -302,6 +318,14 @@ Beholding Sītā approaching behind Vālmīki like Śruti following Brahmā (śr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Amid a vast wave of sorrowful commotion and cries acclaiming Rāma, Sītā, or both, Vālmīki enters the throng with Sītā and solemnly declares to Rāma that she is spotless, ready to offer proof, and that the twins are his own invincible sons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हलहलाशब्दः सर्वेषामेवमाबभौ ।  
@@ -485,6 +509,14 @@ Then, entering the midst of the multitude (madhye janaughasya praviśya), that b
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And these two sons of Jānakī, both twin-born (ubhau ca yamajātakau), are indeed your own invincible sons (sutau tavaiva durdharṣau)—this truth I declare to you (satyam etad bravīmi te).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Staking millennia of austerity and lifelong sinlessness upon Sītā’s innocence, Vālmīki swears as the tenth son of Pracetas that the twins are Rāma’s own and that he sheltered Sītā only after discerning her absolute purity through divine insight.
 </details>
 </details>
 

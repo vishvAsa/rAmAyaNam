@@ -24,6 +24,14 @@ ascend the mountain and witness the beauty of Lanka. They halt on that mountain-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving to ascend Mount Suvela to survey Laṅkā and pass the night, Rāma addresses Sugrīva and Vibhīṣaṇa, denouncing Rāvaṇa's base abduction of Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु कृत्वा सुवेलस्य मतिमारोहणं प्रति ।  
@@ -271,6 +279,14 @@ At the very mention (kīrtite) of that vilest of rākṣasas, wrath surges withi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that one sinner ensnared by Time's noose dooms his entire race, Rāma ascends the variegated ridge of Mount Suvela, followed by Lakṣmaṇa, Sugrīva, Vibhīṣaṇa, and the vānara lords.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एको हि कुरुते पापं कालपाशवशं गतः ।  
@@ -428,6 +444,14 @@ the mountain, by following him.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Behind him followed Lakṣmaṇa, vigilant (samāhitaḥ), holding aloft his bow fitted with arrows and delighting in supreme valor.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Scaling Mount Suvela by the hundreds with the speed of the wind, Jāmbavān, Suṣeṇa, and the vānara chieftains behold the radiant city of Laṅkā perched on Trikūṭa as though suspended in the sky.
 </details>
 </details>
 
@@ -630,6 +654,14 @@ gates, enriched with exquisitc ramparts and pervaded all over with demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —beheld upon its peak [of Trikūṭa] that fair city [Laṅkā], appearing as though suspended in the sky (viṣaktām iva khe), endowed with noble gates and resplendent with superb ramparts (prākāravaraśobhitām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the dark rākṣasas massed like a second wall along Laṅkā's ramparts, the vānaras roar in battle-frenzy; as the crimson sun sets and the full moon rises, Rāma encamps on Mount Suvela.
 </details>
 </details>
 

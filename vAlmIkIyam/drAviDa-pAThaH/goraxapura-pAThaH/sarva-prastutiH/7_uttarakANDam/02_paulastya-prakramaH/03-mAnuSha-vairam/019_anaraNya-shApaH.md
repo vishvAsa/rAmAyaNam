@@ -13,6 +13,14 @@ title = "०१९ अनरण्य-शापः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After vanquishing Marutta, the battle-hungry Rāvaṇa demands combat or submission from mighty earthly monarchs—including Duṣyanta, Suratha, Gādhi, Gaya, and Purūravas—before arriving at Ayodhyā, well guarded by King Anaraṇya.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ जित्वा मरुत्तं स प्रययौ राक्षसाधिपः ।  
@@ -151,6 +159,14 @@ Thereupon those fearless, wise monarchs (abhīravaḥ prājñāḥ pārthivāḥ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Duṣyanta, Suratha, Gādhi, Gaya, and King Purūravas—all these kings declared, O dear one (tāta), “We are vanquished” (nirjitāḥ smeti). Then Rāvaṇa, lord of the rākṣasas, reached Ayodhyā (ayodhyāṃ samāsādya),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indignantly rejecting Rāvaṇa’s demand for surrender, Ayodhyā’s sovereign Anaraṇya accepts single combat and sends forth his pre-assembled host of elephants, steeds, chariots, and infantry to launch a tremendous battle.
 </details>
 </details>
 
@@ -321,6 +337,14 @@ Ten thousand elephants (nāgānāṃ daśa-sāhasram), a hundred thousand steeds
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Anaraṇya’s vast host perishes against Rāvaṇa’s force like oblations in fire, moths in a flame, and rivers lost in the sea; enraged, Anaraṇya twangs his bow, scatters Rāvaṇa’s ministers, and advances on Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रवृत्तं सुमहद् युद्धं युद्धविशारद ॥ १३ ॥  
@@ -487,6 +511,14 @@ Broken by Anaraṇya (anaraṇyena ... bhagnāḥ), those ministers—Mārīca, 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Anaraṇya showers eight hundred shafts upon Rāvaṇa’s head, which strike harmlessly like rain upon a mountain; enraged, Rāvaṇa strikes him down from his chariot with a single palm-blow and mocks the fallen monarch.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनरण्येन तेऽमात्या मारीचशुकसारणाः ।  
@@ -642,6 +674,14 @@ Laughing aloud (prahasya), the rākṣasa spoke to that Ikṣvāku lord of the e
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa boasts that none in the three worlds can match him and accuses Anaraṇya of heedless indulgence, the dying king calmly replies that Time alone—not Rāvaṇa—has brought his end while he fought unyielding.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं प्रहस्याब्रवीद् रक्ष इक्ष्वाकुं पृथिवीपतिम् ।  
@@ -766,6 +806,14 @@ As he spoke thus (tasyaivaṃ bruvataḥ), the king, with failing breath (mandā
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Yet what can I do now at the ebbing of my vital breaths (prāṇa-parikṣaye)? Assuredly, O rākṣasa, I did not turn my back in flight (na hy ahaṃ vimukhī), but was slain by you while fighting (yudhyamānas tvayā hataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Invoking the truth of his charity, sacrifices, austerity, and just rule, Anaraṇya curses Rāvaṇa to die by the hand of Rāma Dāśarathi; heavenly drums thunder and blossoms fall as the king ascends to heaven.
 </details>
 </details>
 

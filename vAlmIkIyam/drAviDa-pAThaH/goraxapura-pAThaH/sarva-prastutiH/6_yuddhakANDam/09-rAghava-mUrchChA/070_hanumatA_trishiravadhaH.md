@@ -30,6 +30,14 @@ kills him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grief-stricken at Narāntaka's fall, Mahodara, Devāntaka, and Triśiras jointly charge Aṅgada, who uproots a massive tree and hurls it at Devāntaka like Indra's blazing thunderbolt.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नरान्तकं हतं दृष्ट्वा चुक्रुशुर्नैर्ऋतर्षभाः ।  
@@ -302,6 +310,14 @@ Indra the lord of celestials would a blazing thunderbolt.
 **5:** Assailed at once by those three rākṣasa lords who crushed the pride of the gods (devadarpaghnaiḥ), Aṅgada uprooted a mighty tree with sprawling boughs (mahāviṭapam).
 
 **6:** With sudden force the hero Aṅgada hurled that great wide-branching tree (mahāśākham) at Devāntaka, just as Śakra hurls a blazing thunderbolt (aśanim).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Triśiras and Mahodara shatter the trees and boulders rained down by Aṅgada, yet Vāli's glorious son stands unshaken under the simultaneous assault of all three rākṣasas.
 </details>
 </details>
 
@@ -592,6 +608,14 @@ of great prowess and splendour, did not get alarmed.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Though assailed simultaneously (yugapat) by those three foremost of night-stalkers (nairṛtaśreṣṭhaiḥ), Vāli's glorious and valiant son did not waver (na vivyathe).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada slays Mahodara's elephant with a single blow of his palm, wrenches out its tusk to bludgeon Devāntaka, and springs back up after being struck to his knees.
 </details>
 </details>
 
@@ -911,6 +935,14 @@ Struck by the iron bludgeon (parighābhihataḥ), the son of the monkey king fel
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Aṅgada struck on the forehead by Triśiras, Hanūmān and Nīla rush to his aid, and Hanūmān smites the charging Devāntaka on the crown with his thunderbolt fist.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुत्पतन्तं त्रिशिरास्त्रिभिर्बाणैरजिह्मगैः ।  
@@ -1218,6 +1250,14 @@ Devantaka rushing upon him with his fist equal to a thunder-bolt.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Leaping up to meet him as he rushed forward (āpatantam), Hanūmān, that bull among monkeys, smote him on the crown of his head (mūrdhni) with a thunderbolt-like fist (vajrakalpena muṣṭinā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushed by Hanūmān's fist, Devāntaka falls dead with his skull shattered, whereupon Triśiras and Mahodara—remounting a fresh elephant—immobilize Nīla under a torrent of shafts.
 </details>
 </details>
 
@@ -1531,6 +1571,14 @@ paralyzed.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Pelted by those torrents of shafts (śaraughaiḥ) with his limbs rent asunder (vibhinnagātraḥ), Nīla, the commander of the monkey host (kapisainyapālaḥ), grew limp of limb (visṛṣṭagātraḥ), immobilized (viṣṭambhitaḥ) by that mighty warrior.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Regaining consciousness, Nīla crushes Mahodara and his elephant beneath an uprooted mountain crag, whereupon Triśiras assails Hanūmān and shatters his aerial volleys.
 </details>
 </details>
 
@@ -1867,6 +1915,14 @@ The valiant Triśiras clove that shower of trees with whetted shafts even as it 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān rends Triśiras's steed like a lion, snaps his meteor-like javelin in midair, and after taking a sword-thrust to the chest, smites the three-headed prince with his palm.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमांस्तु समुत्पत्य हयं त्रिशिरसस्तदा ।  
@@ -2181,6 +2237,14 @@ Trishira on his breast, with his palm.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Struck by that sword-blow (khaḍgaprahārābhihataḥ), the valiant Hanūmān, son of the Wind-god, smote the three-headed warrior (trimūrdhānam) across the chest with his open palm (talenorasi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Snatching Triśiras's dropped sword, Hanūmān seizes the reviving rākṣasa by his diadem and severs all three of his crowned heads, just as Indra decapitated Tvaṣṭṛ's son Viśvarūpa.
 </details>
 </details>
 
@@ -2521,6 +2585,14 @@ Huge-eyed (āyatākṣāṇi), resembling mountain crags (agasaṃnibhāni), wit
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the monkeys cheer Triśiras's fall, Rāvaṇa's brother Matta (Mahāpārśva) blazes with wrath, seizes his gold-banded iron mace, and charges like the fire of cosmic dissolution.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् हते देवरिपौ त्रिशीर्षे  
@@ -2750,6 +2822,14 @@ monkeys like the blazing fire at the end of the world.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —seizing that mace in wrath, the bull among rākṣasas, Matta [Mahāpārśva], rushed upon the monkeys, blazing like the fire of cosmic dissolution (yugāntāgnir iva jvalan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The monkey chief Ṛṣabha confronts Mahāpārśva, endures a chest-splitting blow from his iron mace, and after regaining consciousness, smites the rākṣasa squarely between the arms.
 </details>
 </details>
 
@@ -3022,6 +3102,14 @@ Rushing at that rākṣasa with matching speed (vegavān vegavad abhyupetya), th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Felled by Ṛṣabha's fist, Mahāpārśva briefly revives to strike Varuṇa's son, but Ṛṣabha snatches the rākṣasa's own mace and cleaves his chest like a mountain streaming red ore.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कृत्तमूलः सहसेव वृक्षः  
@@ -3266,6 +3354,14 @@ blood, as a supreme mountain exudes water full of minerals.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Crashing into the body of that fierce enemy of gods, sacrifices, and Brahmins (devādhvaravipraśatroḥ), that terrible mace split open his chest, and he poured forth abundant blood like the king of mountains streaming with red mineral water (dhātvambha ivādrirājaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slain by his own mace in Ṛṣabha's hands, Mahāpārśva crashes down like a thunderbolt-riven mountain, and the terrified rākṣasa army flees like a sea bursting its bounds.
 </details>
 </details>
 

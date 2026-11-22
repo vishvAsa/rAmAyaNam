@@ -28,6 +28,14 @@ Ahalya is redeemed from her curse when Rama enters their hermitage.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bereft of his testicles by Gautama’s curse, Indra appeals to the gods on the ground that he acted in their service to disrupt the sage’s tapas, and the gods ask the Pitṛdevas to grant Indra the testicles of a sacrificial ram.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अफलस्तु ततः शक्रो देवानग्निपुरोगमान् ।  
@@ -343,6 +351,14 @@ his appeal to manes. [1-49-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Here is this sacrificial ram with testicles, whereas Śakra has been left bereft of his testicles (ayaṃ meṣaḥ savṛṣaṇaḥ śakro hy avṛṣaṇaḥ kṛtaḥ); taking the two testicles of the ram, bestow them quickly upon Śakra (meṣasya vṛṣaṇau gṛhya śakrāyāśu prayacchata).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After explaining how the Pitṛdevas attached the ram’s testicles to Indra, Viśvāmitra invites Rāma to enter Gautama’s sacred hermitage and redeem the blessed Ahalyā.
 </details>
 </details>
 
@@ -674,6 +690,14 @@ Hearing the words of Viśvāmitra, Rāghava, together with Lakṣmaṇa (viśvā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerging from her curse like a blazing tongue of flame shrouded in smoke or the full moon veiled in mist, Ahalyā is reverently greeted by Rāma and Lakṣmaṇa and offers them sacred hospitality.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददर्श च महाभागां तपसा द्योतितप्रभाम् ।  
@@ -900,6 +924,14 @@ and dutifully, and Rama of Kakutstha on his part acquiesced her hospitality. [1-
 **17:** Then the two Rāghavas joyfully clasped her feet in reverence (rāghavau tu tadā tasyāḥ pādau jagṛhatur mudā); and remembering the words of Gautama, she welcomed them with honor (smarantī gautamavacaḥ pratijagrāha sā hi tau).
 
 **18:** With deeply composed mind, she offered them water for their feet, the arghya oblation, and full hospitality (pādyam arghyaṃ tathātithyaṃ cakāra susamāhitā); and Kākutstha accepted it according to scriptural ordinance (pratijagrāha kākutstho vidhidṛṣṭena karmaṇā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acclaimed by the gods with showers of blossoms and celestial kettledrums, the purified Ahalyā is reunited with Sage Gautama, who worships Rāma before the princes proceed to Mithilā.
 </details>
 </details>
 

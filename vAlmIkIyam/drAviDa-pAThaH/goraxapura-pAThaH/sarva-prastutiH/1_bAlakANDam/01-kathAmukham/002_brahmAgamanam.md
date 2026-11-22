@@ -28,6 +28,14 @@ of Rama, for which purpose alone he gave such divine meter and grammar to him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After reverently bidding farewell to Devarṣi Nārada, Maharṣi Vālmīki walks with his disciple Bharadvāja to the crystal-clear, mireless ford of the Tamasā river.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारदस्य तु तद् वाक्यं श्रुत्वा वाक्यविशारदः ।  
@@ -322,6 +330,14 @@ ford of Tamasa only... [1-2-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving the bark-garment from Bharadvāja, Vālmīki wanders through the riverside woods and witnesses a cruel Niṣāda fowler slay the male of a mating pair of krauñca birds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो भरद्वाजो वाल्मीकेन महात्मना ।  
@@ -584,6 +600,14 @@ husband.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Torn apart from that lord of hers—a twice-born bird (dvijena), her constant companion (sahacāriṇā), crimson-crested (tāmraśīrṣeṇa), transported with love-joy (mattena), strong-winged (pattriṇā), and ever united with her (sahitena)—she wailed piteously.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved by profound compassion at the female bird’s lament, Maharṣi Vālmīki utters the immortal Ādi-śloka (‘mā niṣāda pratiṣṭhāṃ...’) and proclaims it a four-footed musical verse.
 </details>
 </details>
 
@@ -1023,6 +1047,14 @@ kiirti
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharadvāja joyfully commits the Ādi-śloka to memory; after bathing in the Tamasā and returning to his hermitage, Vālmīki is visited by the four-faced Creator Brahmā in person.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम् ।  
@@ -1336,6 +1368,14 @@ Beholding him, Vālmīki rose at once in reverent silence (sahasotthāya vāgyat
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After worshipping Brahmā with foot-water, arghya, and a seat of honor, Vālmīki again laments the slain bird in Brahmā’s presence; smiling gently, Brahmā reassures the sage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूजयामास तं देवं पाद्यार्घ्यासनवन्दनैः ।  
@@ -1602,6 +1642,14 @@ jaguryashaH *
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Grieving once again for the female krauñcī, his mind turned inward and wholly given over to sorrow (śokaparāyaṇaḥ), he chanted this very stanza closely aloud (upaślokam imaṃ jagau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lord Brahmā reveals that the goddess of speech Sarasvatī sprang forth from Vālmīki by his own divine will, and bestows upon the sage omniscience and absolute poetic infallibility.
 </details>
 </details>
 
@@ -1881,6 +1929,14 @@ word of yours will not be false in this epic... [1-2-35]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestowing the immortal benediction ‘yāvat sthāsyanti girayaḥ...’, Lord Brahmā vanishes on the spot; Vālmīki’s disciples chant the stanza in wonder as grief (śoka) becomes verse (śloka).
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् स्थास्यन्ति गिरयः सरितश्च महीतले ॥ ३६ ॥  
@@ -2149,6 +2205,14 @@ being sung by the disciples, thus anyone can recite it.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Sung by the great seer in four quarters of equal syllables (samākṣaraiś caturbhiḥ pādaiḥ), that very grief (śokaḥ), through repeated recitation (anuvyāharaṇād bhūyaḥ), has been transmuted into the state of a śloka (ślokatvam āgataḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving to compose the entire Rāmāyaṇa in such verses, Maharṣi Vālmīki fashions the noble Mahākāvya in hundreds of mellifluous stanzas crowning the Sarga in Vaṃśastha and Puṣpitāgrā meters.
 </details>
 </details>
 

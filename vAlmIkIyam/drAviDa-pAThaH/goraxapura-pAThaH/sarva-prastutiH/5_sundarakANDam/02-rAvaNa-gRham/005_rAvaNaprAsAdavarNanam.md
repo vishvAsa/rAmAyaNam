@@ -24,6 +24,14 @@ Hanuma also become anxious had not become to able to find Seetha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān beholds the full moon risen in mid-heaven, pouring forth a canopy of moonlight, swelling the ocean, and shining with the splendor of Mandara, a caged swan, and a lion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स मध्यङ् गतम् अंशुमन्तं  
@@ -378,6 +386,14 @@ with a symbol of hare, shone brilliantly.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With the mire of cold water and frost dispelled (vinaṣṭaśītāmbutuṣārapaṅkaḥ), and the darkness of great planetary eclipses destroyed (mahāgrahagrāhavinaṣṭapaṅkaḥ), the adorable hare-marked Moon (bhagavān śaśāṅkaḥ), whose spot was rendered limpid by the resort of radiant beauty (prakāśalakṣmyāśrayanirmalāṅkaḥ), shone forth.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the radiant moonlit night banishes lovers' quarrels and stirs the rākṣasas, Hanūmān observes drunken households echoing with lute-strains, boasts, embraces, and the twanging of bows.
 </details>
 </details>
 
@@ -746,6 +762,14 @@ The rākṣasas slap their chests (rakṣāṃsi vakṣāṃsi ca vikṣipanti),
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān beholds women applying unguents, sleeping, laughing, or sighing in anger, alongside roaring elephants, sighing heroes like serpents in a lake, wise courtiers, and star-like wives.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददर्श कान्ताश्च समालभन्त्य-  
@@ -1060,6 +1084,14 @@ like stars with good effect.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then he saw their wives there—worthy of choice ornaments (varārhāḥ), of thoroughly pure devotion (suviśuddhabhāvāḥ), of great majesty (mahānubhāvāḥ), their hearts devoted to their beloveds and to festive drink (priyeṣu pāneṣu ca saktabhāvāḥ), and of lovely nature like the stars (tārā iva susvabhāvāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān observes radiant women embraced by their lovers at midnight like birds, wives seated on rooftop terraces, lovelorn women pale as the moon, and faces shining like garlands of lightning.
 </details>
 </details>
 
@@ -1380,6 +1412,14 @@ eyebrows and rows of ornaments like beautiful rows of lighting.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He beheld rows of faces shining like the Moon (candraprakāśāś ca hi vaktramālāḥ), rows of lovely eyes with curved and thick eyelashes (vakrāḥ supakṣmāś ca sunetramālāḥ), and garlands of ornaments (vibhūṣaṇānāṃ ca mālāḥ) resembling lovely garlands of lightning (śatahradānām iva cārumālāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yet Hanūmān does not behold the noble, tear-choked Sītā—steadfast on the eternal path of chastity, like a clouded moon-crescent or dust-covered gold—and sinks into dejection.
 </details>
 </details>
 

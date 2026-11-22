@@ -27,6 +27,14 @@ The ire of sage Vishvamitra is shown at king Dasharatha. To pacify sage Vishvami
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by Daśaratha’s faltering retraction, Sage Viśvāmitra rebukes the monarch while the earth trembles in dread, prompting Sage Vasiṣṭha to remind the king of the Ikṣvākus’ sacred vow of truth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तस्य स्नेहपर्याकुलाक्षरम् ।  
@@ -391,6 +399,14 @@ Perceiving that the entire universe had grown utterly terrified (trastarūpaṃ 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha warns that breaking a pledged word destroys all merit of Vedic sacrifices and public charities (iṣṭāpūrta), and extols Viśvāmitra’s matchless guardianship and mastery of celestial missiles.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिषु लोकेषु विख्यातो धर्मात्मा इति राघवः ।  
@@ -697,6 +713,14 @@ In heaven an unapproachable firewall encircles the vessel of ambrosia protecting
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Neither the gods, nor any of the sages, nor the immortals, nor the rākṣasas, nor the chiefs of the gandharvas and yakṣas together with the kinnaras and great serpents (sakinnaramahoragāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha recounts the divine lineage of the hundred celestial missiles—born of Prajāpati Kṛśāśva and Dakṣa’s daughters Jayā and Suprabhā—bestowed upon Viśvāmitra when he ruled as king.
 </details>
 </details>
 
@@ -1017,6 +1041,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This son of Kuśika knows all those missiles in their true essence (tāni cāstrāṇi vetty eṣa yathāvat), and this knower of dharma is furthermore capable of creating entirely new, unprecedented missiles (apūrvāṇāṃ ca janane śakto bhūyaś ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing that Viśvāmitra could easily subdue the rākṣasas himself and has come solely for Rāma’s own glory, Vasiṣṭha dispels Daśaratha’s doubts, and the monarch gladly consents.
 </details>
 </details>
 

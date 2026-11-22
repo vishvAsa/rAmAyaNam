@@ -11,6 +11,14 @@ title = "००५ माल्यवदादि"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Gandharva Grāmaṇī gives his radiant daughter Devavatī in marriage to the boon-favored Rākṣasa Sukeśa, who begets upon her three formidable sons—Mālyavān, Sumālī, and Mālin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकेशं धार्मिकं दृष्ट्वा  
@@ -182,6 +190,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 They stood unperturbed like the three worlds (trayo lokā ivāvyagrāḥ), steadfast as the three sacred fires (traya ivāgnayaḥ), exceedingly fierce like the three potent incantations (trayo mantrā ivātyugrāḥ), and dread as the three dire maladies (trayo ghorā ivāmayāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Growing swiftly like unchecked maladies, Sukeśa's three sons ascend Mount Meru to perform severe austerities until Brahmā arrives in his celestial chariot with the gods to grant them a boon.
 </details>
 </details>
 
@@ -379,6 +395,14 @@ Recognizing Brahmā as the bestower of boons (varadaṃ jñātvā), surrounded b
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having obtained from Brahmā invincibility, longevity, and mutual devotion, the three Rākṣasas terrorize gods and Asuras alike, then joyfully approach the divine architect Viśvakarman to request a fitting citadel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्माणं वरदं ज्ञात्वा सेन्द्रैर्देवगणैर्वृतम् ॥ १३ ॥  
@@ -545,6 +569,14 @@ Then, O noblest of the Raghus (raghusattama), those Rākṣasas, filled with del
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the Rākṣasas ask for a palace rivaling Śiva's upon Himavat, Meru, or Mandara, Viśvakarman directs them instead to the impregnable golden citadel of Laṅkā he built for Indra atop Mount Trikūṭa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ ते विश्वकर्माणं शिल्पिनां वरमव्ययम् ।  
@@ -674,6 +706,14 @@ Then, O noblest of the Raghus (raghusattama), those Rākṣasas, filled with del
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thirty yojanas in breadth (triṃśad-yojana-vistīrṇā) and a hundred yojanas in length (śata-yojanam āyatā), encircled by walls of gold (svarṇa-prākāra-saṃvītā) and enclosed with golden arched gateways (hema-toraṇa-saṃvṛtā),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assured of invincibility in Laṅkā, Mālyavān, Sumālī, and Mālin settle there with thousands of followers, and the Gandharvī Narmadā joyfully bestows her three radiant daughters upon them in order of seniority.
 </details>
 </details>
 
@@ -842,6 +882,14 @@ Delighted (hṛṣṭā), she gave those three Gandharva maidens (tisro gandharv
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wedded under the auspicious asterism Uttaraphālgunī, Sukeśa's sons sport with their brides like immortals; Mālyavān begets seven fierce sons and a daughter upon Sundarī, while Sumālī weds the beloved Ketumatī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नेव काले तु यथाकामं च राघव ।  
@@ -983,6 +1031,14 @@ Sumālī likewise had a wife whose face resembled the full moon (pūrṇa-candra
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya enumerates in due order Sumālī's fourteen children by Ketumatī—including the warriors Prahasta and Akampana alongside the radiant daughter Kaikasī—and introduces Mālin's lotus-eyed Gandharva wife Vasudhā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रमुष्टिर्विरूपाक्षो दुर्मुखश्चैव राक्षसः ॥ ३६ ॥  
@@ -1084,6 +1140,14 @@ Saṃhrādi, Praghasa, and the Rākṣasa Bhāsakarṇa; and Rākā, Puṣpotka�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And Mālin's wife was a Gandharvī of exquisite beauty named Vasudhā (vasudhā nāma gandharvī rūpa-śālinī), lotus-petal-eyed (padma-patrākṣī), lovely-eyed (svakṣī), and peer to the noblest of Yakṣīs (yakṣī-varopamā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya names Mālin's four sons—who later become Vibhīṣaṇa's loyal ministers—and concludes with stately Vaṃśastha verses depicting the boon-emboldened Rākṣasa hosts roaming the world like wind and wrecking sacred sacrifices.
 </details>
 </details>
 

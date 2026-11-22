@@ -28,6 +28,14 @@ hypocritically feels elated in gaining both Seetha and an animosity with Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Carried through the sky by Rāvaṇa, Vaidehī spots five foremost monkeys upon a mountain peak and drops her golden-hued silk upper garment bundled with ornaments in their midst.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रियमाणा तु वैदेही कञ्चिन्नाथमपश्यती ।  
@@ -370,6 +378,14 @@ carry a stingingly fanged and lethally venomous she-snake in his own lap. [3-54-
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speeding across the sky like an arrow over the stilled ocean while aerial Siddhasand Cāraṇas proclaim his doom, Rāvaṇa enters Laṅkā bearing Sītā, his embodied death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वनानि सरितः शैलान् सरांसि च विहायसा ॥ ७ ॥  
@@ -684,6 +700,14 @@ very many chambers. [3-54-12b, 13a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —entered the city of Laṅkā (praviveśa purīṃ laṅkām), [bearing] his own death in embodied form (rūpiṇīṃ mṛtyum ātmanaḥ). Having approached the city of Laṅkā, with its well-laid-out highways (suvibhakta-mahāpathām)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing the grief-stricken Sītā inside his inner apartments like Maya's āsurī illusion and charging dreadful rākṣasīs to guard and humor her, Rāvaṇa steps out and sees eight mighty warriors.
 </details>
 </details>
 
@@ -1008,6 +1032,14 @@ highly vigorous demons, the feasters on raw-flesh. [3-54-17b, 18]
 **17:** “—whether out of ignorance or deliberately (ajñānād yadi vā jñānāt), her life is no longer dear to her (na tasyā jīvitaṃ priyam)!” Having spoken thus to those rākṣasīs, the mighty lord of rākṣasas (rākṣasendraḥ pratāpavān)—
 
 **18:** —went forth from that inner apartment (niṣkramyāntaḥpurāt tasmāt), pondering, “What is to be done (kiṃ kṛtyam iti cintayan)?”, and beheld eight flesh-eating rākṣasas (rākṣasān piśitāśanān) of great prowess (mahā-vīryān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deluded by Brahmā's boon and burning with unprecedented wrath over the slaughter of Khara and Dūṣaṇa, Rāvaṇa commands eight warriors to occupy desolate Janasthāna.
 </details>
 </details>
 
@@ -1361,6 +1393,14 @@ balavataa durbalam hiina saadhanam | hR^ita svam kaaminam coram aavishanti pra j
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And I wish to requite (niryātayitum icchāmi) that enmity upon my great foe (mahā-ripoḥ); for I shall not find sleep (na hi lapsyāmy ahaṃ nidrām) without having slain that enemy in battle (ahatvā saṃyuge ripum)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded to spy on Rāma and strive for his destruction, the eight rākṣasas depart invisibly for Janasthāna, while the deluded Rāvaṇa exults in possessing Sītā.
 </details>
 </details>
 

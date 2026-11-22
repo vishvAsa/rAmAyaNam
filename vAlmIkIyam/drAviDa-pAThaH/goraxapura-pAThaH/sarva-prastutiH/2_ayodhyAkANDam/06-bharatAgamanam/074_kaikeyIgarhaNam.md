@@ -27,6 +27,14 @@ that he would bring Rama back to Ayodhya and make him as a king.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with fierce wrath after reviling his mother, Bharata curses Kaikeyī to fall from the kingdom and descend to hell—accusing her of incurring embryonicide by destroying the royal line, slaying his father, and bringing infamy upon him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तथा गर्हयित्वा तु मातरं भरतस्तदा ।  
@@ -338,6 +346,14 @@ fame in this world of beings."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refusing even to be addressed by a husband-slaying enemy disguised as a mother, Bharata declares that Kaikeyī was born in Aśvapati’s house as a family-destroying Rākṣasī and asks what hell awaits her for bereaving righteous Kausalyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातृरूपे ममामित्रे नृशंसे राज्यकामुके ।  
@@ -608,6 +624,14 @@ after making Kausalya endowed with righteousness, deprived of her son?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having bereft Kausalyā, who is wedded to righteousness, O woman of sinful resolve (kausalyāṃ dharma-saṃyuktāṃ viyuktāṃ pāpa-niścaye kṛtvā), what world indeed will you attain today, O traveler to hell (kaṃ prāpsyase tv adya lokaṃ niraya-gāmini)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that a son born from every limb and the heart is dearest of all to a mother, Bharata recounts how the celestial cow Surabhi once wept upon seeing two of her exhausted bull-sons ploughing on earth, her fragrant tears falling upon Indra.
 </details>
 </details>
 
@@ -937,6 +961,14 @@ celestials identified the tears to be those of the great Kamadhenu the mythical 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upward, Indra sees Surabhi weeping in the sky and asks with joined palms whether any danger threatens the gods; Surabhi replies that she mourns for her two bull-sons, scorched by the sun and goaded by a ploughman.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां दृष्ट्वा शोकसन्तप्तां वज्रपाणिर्यशस्विनीम् ।  
@@ -1234,6 +1266,14 @@ being immersed in grief, I am pitiably weeping O, Indra!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that nothing is dearer than a son, Surabhi weeps though she has thousands of offspring; applying the parable, Bharata asks how Kausalyā, who has only one son, can survive without Rāma, and vows to honor his brother and father.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्याः पुत्रसहस्रैस्तु कृत्स्नं व्याप्तमिदं जगत् ।  
@@ -1512,6 +1552,14 @@ doubt."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Assuredly I shall perform this complete homage due to my brother and to my father (ahaṃ hy apacitiṃ bhrātuḥ pituś ca sakalām imām), as well as the enhancement of my renown—of this there is no doubt (vardhanaṃ yaśasaś cāpi kariṣyāmi na saṃśayaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to bring Rāma back from the woods and enter the forest in his stead, Bharata tells Kaikeyī to enter fire, go to Daṇḍaka, or hang herself; he then collapses to the ground like Indra’s banner at the close of a festival.
 </details>
 </details>
 

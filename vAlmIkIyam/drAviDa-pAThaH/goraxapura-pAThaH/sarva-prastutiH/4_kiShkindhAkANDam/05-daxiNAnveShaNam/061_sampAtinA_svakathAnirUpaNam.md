@@ -25,6 +25,14 @@ suicide, as his two wings, eagle kingdom, valour and even brother, are lost.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sampāti recounts to Niśākara how he and Jaṭāyus, deluded by pride, wagered before the sages on Mount Kailāsa to follow the sun to Mount Asta and soared high above the earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तद् दारुणं कर्म दुष्करं सहसा कृतम् ।  
@@ -347,6 +355,14 @@ jewellery, and elsewhere singing of many ladies dressed in red... [4-61-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Soaring into the sun's path, the brothers see forests like lawns, mountains like pebbles, and rivers like threads, until fierce sweat, delusion, and swooning overtake them as the world seems ablaze at doomsday.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तूर्णमुत्पत्य चाकाशमादित्यपदमास्थितौ ।  
@@ -612,6 +628,14 @@ That viewless path / Shall scarce be trod by man bearing the flesh! - S. M. Arno
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `Neither the southern direction (yāmyā) was recognized, nor the southeastern (āgneyī), nor the western (vāruṇī); the ordered world (niyato lokaḥ) [appeared] destroyed, as if burnt by fire at the end of a cosmic age (yugānte).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the sun appear as vast as the earth, Sampāti plunges after the falling Jaṭāyus to shield him with his own wings, falls scorched onto Vindhya, and resolves to hurl himself from the peak.
 </details>
 </details>
 

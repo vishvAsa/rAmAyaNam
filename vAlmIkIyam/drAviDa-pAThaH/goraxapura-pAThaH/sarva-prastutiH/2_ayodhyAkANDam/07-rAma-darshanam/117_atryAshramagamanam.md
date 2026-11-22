@@ -26,6 +26,14 @@ gives her instructions on the role and responsibilities of a devoted wife.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting after the departure of the ascetics on the sorrowful memories of Bharata and his mothers and the trampling of the grove by the royal army, Rāma leaves Citrakūṭa with Sītā and Lakṣmaṇa and arrives at the hermitage of Sage Atri.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवस् त्व् **अपयातेषु**  
@@ -358,6 +366,14 @@ Having personally directed that every hospitable reception be fittingly offered 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sage Atri bids his aged, ascetic wife Anasūyā welcome Vaidehī, and recounts to Rāma how during a ten-year drought Anasūyā created roots and fruits, made the Gaṅgā flow, and turned a single night into ten nights for the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पत्नीं च ताम् **अनुप्राप्तां**  
@@ -580,6 +596,14 @@ hermittess, husband and accomplished the purpose of gods.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Let Vaidehī approach this illustrious matron, worthy of salutation by all beings (sarvabhūtānāṃ namaskāryām), aged and ever free from wrath (vṛddhām akrodhanāṃ sadā), who through her deeds has won renown in the world as Anasūyā.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidden by Rāma to approach the venerable ascetic for her highest welfare, Sītā draws near the aged, white-haired Anasūyā—trembling like a plantain tree in the wind—and reverently salutes her, announcing her own name.
 </details>
 </details>
 
@@ -821,6 +845,14 @@ Loosened in her bodily frame (śithilām), furrowed with wrinkles (valitām), ag
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With unflurried mind (avyagrā), Sītā bowed in salutation (abhyavādayat) to that illustrious and devoted wife Anasūyā (anasūyāṃ pativratām), and announced her own name (svanāma samudāharat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Sītā reverently inquires after her well-being, Anasūyā praises her for forsaking royal pride and affluence to follow Rāma into the forest, and expounds how for noble women the husband is the supreme deity in every condition.
 </details>
 </details>
 
@@ -1090,6 +1122,14 @@ is dear no matter whether he lives in a city or in a forest; whether he is sinfu
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whether he be of ill conduct (duḥśīlaḥ), self-willed in his desires (kāmavṛtto vā), or destitute of wealth (dhanair vā parivarjitaḥ), for women of noble nature (strīṇām āryasvabhāvānām) the husband is the supreme deity (paramaṃ daivataṃ patiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting unchaste women enslaved by passion with virtuous wives who discern the truth of both worlds, Anasūyā blesses Sītā to walk ever as Rāma’s companion in dharma and win imperishable renown.
 </details>
 </details>
 

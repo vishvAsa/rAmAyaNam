@@ -28,6 +28,14 @@ including the thousand-pillared mansion of Ravana with a height almost touching 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having passed the night on Mount Suvela, the vānara chieftains gaze in wonder at dawn upon the vast, blossoming forests and pleasure-groves surrounding Laṅkā, which shines like Indra's Amarāvatī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां रात्रिमुषितास्तत्र सुवेले हरियूथपाः ।  
@@ -242,6 +250,14 @@ intertwined with climbers laden with multi-coloured flowers and red tender leave
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like Caitraratha and Nandana, the all-season groves teem with fragrant flowers, fruits, dancing peacocks, cuckoos, and waterbirds, inviting the delighted vānaras to enter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धाढ्यान्यतिरम्याणि पुष्पाणि च फलानि च ।  
@@ -442,6 +458,14 @@ _________________
 **10:** [Those groves] had birds ever inebriated with joy (nityamattavihaṃgāni), were frequented by bumblebees, had thickets thronged with cuckoos (kokilākulaṣaṇḍāni), and echoed with bird-song—
 
 **11:** —were sung over by bhṛṅgarāja shrikes, resounded with the cries of ospreys (kurarasvanitāni), were noisy with koṇālaka waterbirds, and echoed with cranes; then they entered those forests and pleasure-groves—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Greeted by a fragrant breeze, vanguard vānara leaders charge toward bannered Laṅkā, shaking the earth and scattering beasts, while Trikūṭa's golden central peak towers above.
 </details>
 </details>
 
@@ -773,6 +797,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perched on Trikūṭa's inaccessible peak, Laṅkā gleams with cloud-white gateway towers, golden and silver ramparts, sky-scraping palaces, and Rāvaṇa's thousand-pillared Caitya pavilion.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनसापि दुरारोहं किं पुनः कर्मणा जनैः ।  
@@ -1030,6 +1062,14 @@ In her is seen a palace adorned with a thousand pillars (stambhasahasreṇa), sh
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That Caitya palace (caityaḥ) was the crowning ornament of the city (purabhūṣaṇam) of the lord of rākṣasas, which is ever guarded by a full hundred rākṣasas.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing with his vānara host upon Rāvaṇa's opulent, heaven-like capital—adorned with pleasure-hills, mineral-streaked gardens, palace rows, and mighty mechanical gates—Rāma is struck with wonder.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ Then Hanuma starts on the expedition with others.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confident in Hanūmān's unmatched power to accomplish the mission, King Sugrīva singles out the son of the Wind-god and praises his unobstructed cosmic reach and Marut-like speed.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशेषेण तु सुग्रीवो हनूमत्यर्थमुक्तवान् ।  
@@ -357,6 +365,14 @@ think about that process as to how to access Seetha. [4-44-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing that the entire burden of the quest rests upon Hanūmān, Rāma rejoices as if his goal were already won and entrusts his name-engraved signet ring to him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वय्येव हनुमन्नस्ति बलं बुद्धिः पराक्रमः ।  
@@ -674,6 +690,14 @@ as troop leader why this ring is given to Hanuma - are the debated topics. Pleas
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Pleased, that scorcher of foes (paraṃtapaḥ) then gave him a signet ring (aṅgulīyam) graced with the engraving of his own name (sva-nāmāṅkopaśobhitam) as a token of recognition (abhijñānam) for the princess.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving Rāma's signet ring upon his head and bowing at his feet, Hanūmān departs at the head of the vast monkey host like the cloudless moon surrounded by stars.
 </details>
 </details>
 

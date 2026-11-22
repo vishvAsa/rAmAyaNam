@@ -27,6 +27,14 @@ Diti seeks for a son to kill Indra because Indra and other gods have
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grief-stricken over the slaughter of her sons, Diti implores her husband Kaśyapa Mārīca for a son who will slay Śakra; Kaśyapa grants her prayer on condition that she remain ritually pure for a full thousand years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतेषु तेषु पुत्रेषु दितिः परमदुःखिता ।  
@@ -347,6 +355,14 @@ In some other versions the word *trailokyahantaaram* is carried
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessed by Kaśyapa, Diti retires to the grove of Kuśaplava (future Viśālā) to perform severe penance, where Thousand-Eyed Indra serves her with consummate humility for nine hundred and ninety years.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजाः पाणिना सम्ममार्ज ताम् ।  
@@ -660,6 +676,14 @@ Oh, Rama, the descendent of Raghu, when ten years are less to complete
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When the thousand years were completed save for ten, O delighter of the Raghus (pūrṇe varṣasahasre sā daśone raghunandana), Diti, supremely delighted, spoke thus to the Thousand-Eyed Indra (ditiḥ paramasaṃhṛṣṭā sahasrākṣam athābravīt):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Won over by Indra’s devotion, Diti promises to reconcile her newborn son with him, but at midday she falls asleep with her feet placed where her head should rest; beholding her ritually impure, Śakra rejoices and enters her womb to cleave the embryo into seven.
 </details>
 </details>
 
@@ -994,6 +1018,14 @@ Oh, Rama, being a highly courageous one, Indra the destroyer of enemy
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Purandara entered the aperture of her body (tasyāḥ śarīravivaraṃ praviveśa puraṃdaraḥ), and, self-possessed in the highest degree, O Rāma, he cleft that embryo into seven pieces (garbhaṃ ca saptadhā rāma ciccheda paramātmavān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the embryo weeps loudly beneath the hundred-jointed thunderbolt, Śakra cries ‘Weep not, weep not (mā rudaḥ)!’ while cleaving it; awakened by its cries, Diti pleads ‘Slay it not!’, and Indra emerges with folded palms to ask her forgiveness.
 </details>
 </details>
 

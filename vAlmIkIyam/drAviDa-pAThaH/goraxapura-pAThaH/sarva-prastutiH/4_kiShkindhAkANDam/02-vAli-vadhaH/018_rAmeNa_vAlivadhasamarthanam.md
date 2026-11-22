@@ -27,6 +27,14 @@ concludes that there is someone superior to him and thus seeks refuge in Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rebuked by the fallen Vālin, who lies like a darkened sun or spent cloud, Rāma replies with righteous counsel, declaring the Ikṣvākus' sovereign jurisdiction over the entire earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तः प्रश्रितं वाक्यं धर्मार्थसहितं हितम् ।  
@@ -291,6 +299,14 @@ this, "when entire earth belongs to us where is the question of a city or a part
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 This earth, together with its mountains, forests, and deep woods (saśailavanakānanā), belongs to the Ikṣvākus (ikṣvākūṇām), along with the authority for both punishment and grace (nigrahānugraheṣv api) over beasts, birds, and human beings.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma declares that upright Bharata rules the earth with statesmanship and valor, and that as Bharata's agents they punish Vālin for abandoning royal duty for sensual lust.
 </details>
 </details>
 
@@ -637,6 +653,14 @@ You, however, have sullied righteousness (saṃkliṣṭadharmaś ca), are revil
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Defining the sacred duties linking elders and juniors, Rāma tells Vālin that the inner Self witnesses all deeds and condemns his incestuous seizure of his younger brother's wife.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्येष्ठो भ्राता पिता वापि यश्च विद्यां प्रयच्छति ।  
@@ -962,6 +986,14 @@ of last chapter. Beyond this Rama also answers other paltry questions, later.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Behold, then, this reason (tad etat kāraṇaṃ paśya) for which you have been slain by me: abandoning eternal righteousness (tyaktvā dharmaṃ sanātanam), you cohabit with your brother's wife (bhrātur vartasi bhāryāyām)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma condemns Vālin's lustful violation of Rumā—his living younger brother's wife and thus his daughter-in-law—declaring that sacred law prescribes death for such incestuous transgression.
 </details>
 </details>
 
@@ -1303,6 +1335,14 @@ And since you have transgressed righteousness (tvaṃ ca dharmād atikrāntaḥ)
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing Bharata's mandate, his sacred alliance with Sugrīva, and his inviolable pledge, Rāma urges Vālin to accept his punishment as righteous and invokes two ancient verses of Manu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वयं तु भरतादेशावधिं कृत्वा हरीश्वर ।  
@@ -1624,6 +1664,14 @@ in those verses of law. [4-18-30]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That act [of accepting expiatory punishment] could even be performed by you yourself (śakyaṃ tvayāpi tat kāryam) while following righteousness alone (dharmam evānuvartatā). Two verses sung by Manu (manunā gītau ślokau), dear to those of virtuous conduct (cāritravatsalau) and accepted by those skilled in righteousness (gṛhītau dharmakuśalaiḥ), are heard in tradition—and accordingly have I acted (tathā tac caritaṃ mayā):”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Quoting Manu's verses that royal punishment purifies sinners of guilt and citing his ancestor Māndhātṛ's precedent, Rāma tells Vālin that his execution fulfills sacred law, not personal whim.
 </details>
 </details>
 
@@ -1956,6 +2004,14 @@ Hear also yet another reason (śṛṇu cāpy aparaṃ bhūyaḥ kāraṇam), O 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Justifying his hidden shot by the law of the hunt, Rāma notes that royal sages lawfully slay branch-roaming beasts from cover and that kings are earthly gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मे तत्र मनस्तापो न मन्युर्हरिपुङ्गव ।  
@@ -2248,6 +2304,14 @@ is spoken to them, as they are the divinities conducting themselves in human for
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 One must neither injure them, nor revile them, nor insult them, nor speak what is unpleasant to them (tān na hiṃsyān na cākrośen nākṣipen nāpriyaṃ vadet); for they are gods walking in human form upon the surface of the earth (devā mānuṣarūpeṇa caranty ete mahītale).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rebuked for his ignorant wrath, Vālin feels remorse, joins his palms to acknowledge Rāma's spotless justice, and begs forgiveness and a word of righteous grace for his transgressions.
 </details>
 </details>
 
@@ -2599,6 +2663,14 @@ Protect even me (mām api paripālaya)—who have strayed from righteousness (av
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Choked with tears like a mired elephant, Vālin grieves not for himself or Tārā but for young Aṅgada, begging Rāma to cherish Sugrīva and Aṅgada like Bharata and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पसंरुद्धकण्ठस्तु वाली सार्तरवः शनैः ।  
@@ -2914,6 +2986,14 @@ Whatever disposition you bear (yā te vṛttiḥ), O lord of men, toward Bharata
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entrusting Tārā's honour to Rāma and confessing that he entered combat seeking death at Rāma's hands, Vālin falls silent, and Rāma consoles the awakened monkey king.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मद्दोषकृतदोषां तां यथा तारां तपस्विनीम् ।  
@@ -3161,6 +3241,14 @@ rightness and considerateness in your respect. [4-18-60]
 **59:** With a speech approved by the virtuous (sādhusammatayā vācā) and fraught with the true meaning of righteousness (dharmatattvārthayuktayā), Rāma consoled (sa tam āśvāsayad rāmaḥ) that Vālin whose clear vision had now awakened (vālinaṃ vyaktadarśanam):
 
 **60:** “No anguish should be felt by you on this account (na saṃtāpas tvayā kārya etadarthaṃ), O leaper (plavaṅgama)! Neither should we be doubted by you, nor should you grieve for yourself (na vayaṃ bhavatā cintyā nāpy ātmā), O best of monkeys; because of your special merit (bhavadviśeṣeṇa), we have arrived at a firm resolve in accordance with righteousness (dharmataḥ kṛtaniścayāḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuring Vālin that royal punishment has purged his sin and promising paternal care for Aṅgada, Rāma consoles the dying monkey king, who begs forgiveness for his harsh words.
 </details>
 </details>
 

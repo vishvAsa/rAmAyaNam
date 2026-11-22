@@ -28,6 +28,14 @@ others enter the assembly.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Awakened at dawn by panegyrists, watch-drums, and conchs, grief-stricken Bharata silences the royal music, disclaims the kingship, and laments to Śatrughna that Daśaratha’s royal fortune drifts like a rudderless ship.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो नान्दीमुखीं रात्रिं भरतं सूतमागधाः ।  
@@ -355,6 +363,14 @@ This royal sovereignty of that high-souled and righteous king, firmly rooted in 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Bharata mourns Rāma’s exile and the royal women weep aloud, the illustrious family preceptor Vasiṣṭha enters the golden assembly hall, takes his seat, and dispatches messengers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि नः सुमहान् नाथः सोऽपि प्रव्राजितो वने ।  
@@ -589,6 +605,14 @@ and wrapped with a comfortable cushion. He ordered the messengers as follows:
 **10:** Righteous-souled and accompanied by his troop of disciples (dharmātmā sa-gaṇaḥ), he entered that lovely hall wrought of gold and teeming with gems and jewels, resembling Sudharmā, the assembly hall of the gods (śātakumbha-mayīṃ ramyāṃ maṇi-ratna-samākulām sudharmām iva pratyapadyata).
 
 **11:** That knower of all the Vedas seated himself upon a golden seat overspread with a comfortable coverlet (sa kāñcanamayaṃ pīṭhaṃ sukhāstaraṇa-saṃvṛtam adhyāsta sarva-vedajño), and gave orders to the messengers (dūtān anuśaśāsa ca):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned urgently by Vasiṣṭha, Brāhmaṇas, Kṣatriyas, ministers, troop-leaders, Śatrughna, and Bharata throng into the hall, which shines like a still sea-pool and seems once more graced by Daśaratha himself.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ fierce arrows. Ravana gets severely hurt.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having driven Rāvaṇa from the field, Rāma beholds Lakṣmaṇa writhing in blood like a serpent and laments to Suṣeṇa that his valor falters and his bow slips from his hand.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणेन तु तद् वाक्यमुक्तं श्रुत्वा स राघवः ।  
@@ -340,6 +348,14 @@ called Matali and spoke as follows:
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+His limbs sinking like those of a man walking in a dream, Rāma laments over Lakṣmaṇa in the battle-dust that victory holds no joy for him, like the moon before a blind man.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथेन मम भूमिष्ठं शीघ्रं याहि रघूत्तमम् ।  
@@ -546,6 +562,14 @@ _________________
 **11:** “Even victory, O hero, brings me no delight (na priyāyopakalpate)! What joy can the moon generate for one beyond the range of sight (acakṣurviṣayaś candraḥ)?
 
 **12:** “What use have I for battle, what use for life-breaths? There is no purpose left in fighting (yuddhakāryaṃ na vidyate) where this Lakṣmaṇa lies struck down at the forefront of battle (raṇamūrdhani)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to follow Lakṣmaṇa to Yama's abode just as Lakṣmaṇa followed him to the forest, Rāma proclaims that wives and kinsmen exist in every land, but never a uterine brother.
 </details>
 </details>
 
@@ -876,6 +900,14 @@ shine forth with his splendour.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring death on the battlefield better than the censure of kinsmen, Rāma implores the silent Lakṣmaṇa to awake and console him, until the physician Suṣeṇa intervenes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गान्धर्वेण गान्धर्वं दैवं दैवेन राघवः ।  
@@ -1178,6 +1210,14 @@ quarters stood enveloped by them.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing out Lakṣmaṇa's radiant face, lotus-red palms, and heaving chest as signs of life, Suṣeṇa dispatches Hanūmān to Mount Mahodaya to fetch the reviving herbs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते राघवधनुर्मुक्ता रुक्मपुङ्खाः शिखिप्रभाः ।  
@@ -1417,6 +1457,14 @@ with a multitude of arrows.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—his heart accompanied by breathing (socchvāsaṃ hṛdayam), O hero, palpitating again and again (kampamānaṃ muhur muhuḥ)!” Having spoken these words to Rāghava, the supremely wise Suṣeṇa—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instructed by Suṣeṇa to fetch the four sovereign herbs from the southern peak of the herb-mountain, Hanūmān arrives there and resolves to carry back the entire mountain crest.
 </details>
 </details>
 
@@ -1745,6 +1793,14 @@ over by the gods Indra and Agni (the god of fire), which is adorned by the kings
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shaking the mountain peak three times, Hanūmān uproots the tree-crowned summit, flies back through the sky like a rain-cloud, and sets it down before Suṣeṇa, who plucks the herbs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरस्यमानो रामस्तु दशग्रीवेण रक्षसा ॥ ३७ ॥  
@@ -2045,6 +2101,14 @@ Praising the son of the Wind-god (praśasya pavanātmajam) who spoke thus, Suṣ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the monkeys marvel at Hanūmān's feat, Suṣeṇa crushes the herb and administers it into Lakṣmaṇa's nostrils; instantly healed of dart and pain, Lakṣmaṇa rises to Rāma's tearful embrace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विमानस्थास्तदा देवा गन्धर्वाश्च महोरगाः ।  
@@ -2264,6 +2328,14 @@ called to Rama saying again and again: "Be you victorious!".
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma declares that neither life, Sītā, nor victory would matter had Lakṣmaṇa died, Lakṣmaṇa gently chides him, reminding him that keeping one's vow is the mark of greatness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वज्रसारं महानादं सर्वशत्रुनिबर्हणम् ।  
@@ -2451,6 +2523,14 @@ enraged and took hold of that spear at its middle.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For speakers of truth never render their vow vain (na hi pratijñāṃ kurvanti vitathām); indeed, the fulfillment of one's vow is the very hallmark of greatness (lakṣaṇaṃ hi mahattvasya pratijñāparipālanam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urging Rāma not to despair on his account, Lakṣmaṇa declares that Rāvaṇa cannot escape his shafts alive like an elephant before a lion, and bids him slay Rāvaṇa before sunset.
 </details>
 </details>
 

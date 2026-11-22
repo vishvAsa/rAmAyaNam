@@ -25,6 +25,14 @@ their abodes, when the night fell in darkness.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the king lifeless like an extinguished fire or a waterless ocean, Kausalyā cradles his head upon her lap and reproaches Kaikeyī, lamenting that the Rāghava house has been destroyed for the sake of a hunchback.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमग्निमिव संशान्तमम्बुहीनमिवार्णवम् ।  
@@ -309,6 +317,14 @@ Due to that hump- backed woman, Kaikeyi has ruined the race of Raghu dynasty."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A greedy man does not perceive his own faults (na lubdho budhyate doṣān), like one eating poisonous kimpāka fruit (kimpākam iva bhakṣayan); on account of the hunchbacked maid (kubjā-nimittam), the race of the Rāghavas has been destroyed by Kaikeyī.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā grieves for Rāma, for Sītā terrified by the nightly roars of forest beasts, and for aged King Janaka; declaring herself a devoted wife, she resolves to embrace Daśaratha’s body and enter the fire.
 </details>
 </details>
 
@@ -622,6 +638,14 @@ Devoted to my husband as I am (pati-vratā), I myself shall this very day go to 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Royal ministers gently lead the weeping Kausalyā away and place King Daśaratha’s body in a trough of oil to preserve it until a son is present for the funeral rites; seeing him laid in oil, the queens lament anew.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां ततः सम्परिष्वज्य विलपन्तीं तपस्विनीम् ।  
@@ -929,6 +953,14 @@ always keeps up his promise, why have you left us?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Alas, O great king! Why do you forsake us (kim arthaṃ vijahāsi naḥ), who are already bereft of Rāma, the ever-kindly spoken (satataṃ priya-vāदिनā) and true to his promise (satya-sandhena)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The widowed queens ask how they can dwell near the husband-slaying Kaikeyī who has driven away Rāma, Lakṣmaṇa, and Sītā; writhing in tears, they leave Ayodhyā lusterless like a moonless night or a widowed woman.
 </details>
 </details>
 
@@ -1240,6 +1272,14 @@ a night without moon and as awoman without husband.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Like a night bereft of the moon (niśā candra-vihīneva), or like a woman deprived of her husband (strīva bhartṛ-vivarjitā), the city of Ayodhyā, bereft of its great-souled monarch, did not shine (purī nārājatāyodhyā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With its squares and portals deserted and its women crying “Alas!”, Ayodhyā resembles a sunless sky or starless night as the sun sets; refusing cremation without a son, the kinsmen lay the king to rest while citizens reproach Kaikeyī.
 </details>
 </details>
 

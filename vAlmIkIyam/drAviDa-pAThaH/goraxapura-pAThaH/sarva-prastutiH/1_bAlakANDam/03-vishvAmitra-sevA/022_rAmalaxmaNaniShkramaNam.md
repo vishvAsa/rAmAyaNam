@@ -30,6 +30,14 @@ King Dasharatha sends Rama and Lakshmana along with Sage Vishvamitra as requeste
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Persuaded by Vasiṣṭha’s counsel, King Daśaratha joyfully summons Rāma and Lakṣmaṇa, performs auspicious rites of benediction, and entrusts them to Viśvāmitra amid celestial showers of blossoms.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा वसिष्ठे ब्रुवति राजा दशरथः स्वयम् ।  
@@ -269,6 +277,14 @@ Then on seeing the lotus-eyed Rama following Vishvamitra, dustless
 **4:** Then, upon beholding lotus-eyed Rāma gone to Viśvāmitra’s side (viśvāmitragataṃ rāmaṃ dṛṣṭvā rājīvalocanam), a breeze of delightful touch and free of dust blew (vāyuḥ sukhasparśo nīrajasko vavau tadā).
 
 **5:** As that high-souled sage set forth (prayāte tu mahātmani), a great shower of blossoms fell from the sky accompanied by the reverberations of celestial kettledrums (puṣpavṛṣṭir mahaty āsīd devadundubhinisvanaiḥ), along with the resonance of conches and drums (śaṅkhadundubhinirghoṣaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wearing princely side-locks (kākapakṣa), iguanaskin finger-guards, quivers, bows, and swords, Rāma and Lakṣmaṇa follow Viśvāmitra like the twin Aśvins attending Pitāmaha Brahmā.
 </details>
 </details>
 
@@ -519,6 +535,14 @@ And on going one and half yojana distance Vishvamitra addressed Rama in a harmon
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After walking one and a half yojanas along the southern bank of the Sarayū, Viśvāmitra tenderly calls Rāma to perform ācamana and receive the twin sciences Balā and Atibalā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध्यर्धयोजनं गत्वा सरय्वा दक्षिणे तटे ॥ ११ ॥  
@@ -732,6 +756,14 @@ Since the Vedic hymns cannot be taught after sunset, now it shall be evening tim
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Nor across all the three worlds (triṣu lokeṣu vā), O Rāma, shall anyone rival you when you recite Balā and Atibalā (balām atibalāṃ caiva paṭhataḥ), O beloved Rāghava!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra extols Balā and Atibalā as the mind-born daughters of Pitāmaha Brahmā and the mothers of all knowledge, banishing hunger and thirst and conferring peerless wisdom.
 </details>
 </details>
 
@@ -991,6 +1023,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I am resolved to bestow them upon you (pradātuṃ tava kākutstha), for you alone are worthy of them (sadṛśas tvaṃ hi pārthiva), O prince! Admittedly (kāmam), all these manifold virtues already abide naturally in you—of this there is no doubt (bahuguṇāḥ sarve tvayy ete nātra saṃśayaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sipping water in purification, Rāma receives Balā and Atibalā and shines like the autumn sun; after tending to their preceptor, the princes pass a blissful night on a couch of grass.
 </details>
 </details>
 

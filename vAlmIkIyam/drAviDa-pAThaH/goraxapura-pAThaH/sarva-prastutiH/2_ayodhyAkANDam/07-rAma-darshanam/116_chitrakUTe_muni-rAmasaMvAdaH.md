@@ -26,6 +26,14 @@ great respect, Rama retires to his own hermitage.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dwelling in the penance-grove of Citrakūṭa after Bharata’s departure, Rāma notices the anxious restlessness and whispered counsels of the ascetics and humbly questions their patriarch whether he or Lakṣmaṇa has committed any fault.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतियाते तु भरते वसन् रामस्तदा वने ।  
@@ -347,6 +355,14 @@ unworthy of him while the sages were seeing?"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma asks whether Sītā has failed in her service to the sages; the aged patriarch replies that Vaidehī is blameless, and reveals that Rāvaṇa’s younger brother Khara is harassing the ascetics out of hostility toward Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिच्छुश्रूषमाणा वः शुश्रूषणपरा मयि ।  
@@ -626,6 +642,14 @@ ascetics who dwell in Janasthana, is unable to endure you also."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The patriarch describes how since Rāma’s arrival at Citrakūṭa the Rākṣasas have harassed the ascetics—appearing in loathsome shapes, defiling them with impurities, lurking in the hermitages, and dousing the sacred fires.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं यदाप्रभृति ह्यस्मिन्नाश्रमे तात वर्तसे ।  
@@ -862,6 +886,14 @@ vessels, sprinkle the fires with water and break the water-pots."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When the fire-oblation is at hand (havane samupasthite), they fling away the sacrificial ladles and vessels (apakṣipanti srugbhāṇḍān), douse the sacred fires with water (agnīn siñcanti vāriṇā), and smash the water-pitchers (kalaśāṃś ca pramṛdnanti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by the ascetics to forsake the defiled hermitage before the Rākṣasas inflict bodily slaughter, the patriarch resolves to withdraw to his ancient hermitage nearby and counsels Rāma on the peril of remaining there with Sītā.
 </details>
 </details>
 
@@ -1133,6 +1165,14 @@ watchful, there is a danger. Your stay here is conduced with misery now."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For you who are accompanied by your consort (sakalatrasya), O Rāghava, even though you remain ever vigilant (nityaṃ yattasya) and capable (samarthasyāpi), dwelling here today is fraught with constant peril (saṃdehaḥ) and distress (duḥkham).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to detain the patriarch with reassuring words, Rāma respectfully escorts the departing sages, receives their blessing and counsel, and returns to his pure hermitage.
 </details>
 </details>
 

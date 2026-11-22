@@ -26,6 +26,14 @@ messages to Dasaratha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Regaining consciousness from his swoon, King Daśaratha—sighing like a newly captured elephant—summons Sumantra and asks in anguish how Rāma, accustomed to royal couches, now sleeps upon the bare earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याश्वस्तो यदा राजा मोहात् प्रत्यागतस्मृतिः ।  
@@ -288,6 +296,14 @@ such discomfort on a floor like an orphan?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Unaccustomed to hardship (duḥkhasyānucitaḥ) and worthy of royal couches (śayanocitaḥ), O Sumantra, how does the son of the protector of the earth (bhūmi-pālātmajaḥ) sleep miserably upon the bare ground like one who has no protector (katham anāthavat)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting how the princes and delicate Sītā could alight from the chariot to walk through beast-haunted woods, Daśaratha begs Sumantra to recount Rāma’s sitting, sleeping, and eating so that he may live on like Yayāti among the righteous.
 </details>
 </details>
 
@@ -613,6 +629,14 @@ them- Mahabharata, Adi Parva.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With a faltering, tear-choked voice, Sumantra delivers Rāma’s parting message: bowing to his father’s feet and greeting the inner apartments, Rāma exhorts Kausalyā to tend the sacred fire-sanctuary and serve the king like a deity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सूतो नरेन्द्रेण चोदितः सज्जमानया ।  
@@ -837,6 +861,14 @@ Dasaratha, like with a god."
 **17:** “‘And my mother Kausalyā is to be addressed with inquiries after her welfare, with my salutation (kuśalaṃ cābhivādanam), and with a counsel of unflagging vigilance (apramādaṃ ca); and you should speak unto her this word:
 
 **18:** “‘“Ever steadfast in righteousness (dharma-nityā), be devoted at the appointed hours to the sanctuary of the sacred fires (yathā-kālam agny-agāra-parā bhava); and, O queen, tend the two feet of the king as though he were a god (deva-vat paripālaya)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma counsels Kausalyā to cast aside pride, honour Kaikeyī, and treat Bharata as king; and weeping, he sends word to Bharata to serve their aged father as regent and look upon Kausalyā as his own mother.
 </details>
 </details>
 
@@ -1099,6 +1131,14 @@ according to the orders of the king, you live as a prince."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘“The king is far advanced in years (atikrānta-vayā rājā); do not thwart or depose him (mā smainaṃ vyavarorudhaḥ)! Live, O prince, in the princely regency (kumāra-rājye jīva tvam) by carrying out his royal command alone (tasyaivājñā-pravartanāt)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As lotus-eyed Rāma weeps while speaking, wrathful Lakṣmaṇa sighs and denounces the king’s banishment of his faultless son—whether driven by greed or by a boon—as an utter wrong devoid of just cause.
 </details>
 </details>
 
@@ -1380,6 +1420,14 @@ I do not see any justification for Rama's abandonment."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa declares that the unconsidered banishment of Rāma will provoke universal outcry, renounces Daśaratha’s fatherhood in favour of Rāma as his sole father, lord, and kinsman, and asks how the king can rule after alienating the world.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असमीक्ष्य समारब्धं विरुद्धं बुद्धिलाघवात् ।  
@@ -1580,6 +1628,14 @@ by opposing all this entire world, how will you stay as a king?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Having driven into exile righteous Rāma, the delight of all his subjects (sarva-prajābhirāmaṃ hi rāmaṃ pravrājya dhārmikam), and having antagonized this entire world (sarva-lokaṃ virudhyemam), how shall you remain king (kathaṃ rājā bhaviṣyasi)?’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra concludes with Sītā’s silent anguish: stunned like one possessed and never having known sorrow before, Jānakī spoke no word, but gazed upon her husband with parched face and wept as the royal chariot departed.
 </details>
 </details>
 

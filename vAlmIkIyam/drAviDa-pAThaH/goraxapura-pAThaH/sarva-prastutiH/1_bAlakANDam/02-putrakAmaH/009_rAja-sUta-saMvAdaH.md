@@ -20,6 +20,14 @@ title_english = "009 Legend of Sage Rishyasringa"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Speaking in private, the counselor-charioteer Sumantra recounts to King Daśaratha the ancient prophecy uttered by Bhagavān Sanatkumāra concerning Vibhāṇḍaka’s forest-reared son, Ṛśyaśṛṅga of twofold celibacy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतच्छ्रुत्वा रहः सूतो राजानमिदमब्रवीत् ।  
@@ -255,6 +263,14 @@ deciphered by some commentators.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sanatkumāra foretells how a dreadful drought caused by King Romapāda’s transgression in Aṅga will lead the learned Brāhmaṇas to prescribe bringing Ṛśyaśṛṅga as the sole expiation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैवं वर्तमानस्य कालः समभिवर्तत ॥ ६ ॥  
@@ -459,6 +475,14 @@ how the purification from sin will be... [1-9-10b, 11a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Brāhmaṇas advise King Romapāda to bring Vibhāṇḍaka’s Veda-mastering son by every means and bestow upon him in marriage the princess Śāntā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तास्ते ततो राज्ञा सर्वे ब्राह्मणसत्तमाः ॥ ११ ॥  
@@ -660,6 +684,14 @@ honouring them well, and then sends them... [1-9-15]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `Then the self-possessed King, having deliberated with his ministers, shall dispatch his family priest and ministers, duly honored with gifts, to bring him.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing Vibhāṇḍaka’s curse, Romapāda’s ministers devise a faultless stratagem through courtesans; hearing how Ṛśyaśṛṅga wedded Śāntā and will procure sons for him, Daśaratha eagerly asks Sumantra to narrate the story in full.
 </details>
 </details>
 

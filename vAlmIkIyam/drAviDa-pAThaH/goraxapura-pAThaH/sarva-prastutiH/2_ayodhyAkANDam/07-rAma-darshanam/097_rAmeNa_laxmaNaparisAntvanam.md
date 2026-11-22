@@ -27,6 +27,14 @@ army encamps around the edge of the mountain, chitrakuta.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pacifying wrathful Lakṣmaṇa, Rāma rejects sovereignty stained by fratricide as poisoned food and swears upon his weapon that he desires righteousness, wealth, and kingdom solely for his brothers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुसंरब्धं तु भरतं लक्ष्मणं क्रोधमूर्च्छितम् ।  
@@ -349,6 +357,14 @@ It is solely for the protection and happiness of my brothers, O Lakṣmaṇa (bh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that any happiness apart from his brothers should be reduced to ashes, Rāma explains that grief-stricken Bharata has rebuked Kaikeyī and come solely out of love to restore the kingdom.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेयं मम मही सौम्य दुर्लभा सागराम्बरा ।  
@@ -588,6 +604,14 @@ me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having grown angry with his mother Kaikeyī and spoken harsh, unpleasing words to her (ambāṃ ca kaikayīṃ ruṣya paruṣaṃ cāpriyaṃ vadan), and having propitiated our father (prasādya pitaram), the illustrious prince has come to offer the kingdom back to me (śrīmān rājyaṃ me dātum āgataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forbidding any harsh word against Bharata—since an injury to Bharata injures Rāma himself—Rāma tells Lakṣmaṇa that if he desires the crown, Bharata will gladly hand it over to him.
 </details>
 </details>
 
@@ -906,6 +930,14 @@ Truly, O Lakṣmaṇa (lakṣmaṇa tattvataḥ), when Bharata is told by me (uc
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shrinking into his own limbs out of shame, Lakṣmaṇa changes the subject by suggesting that King Daśaratha himself has come, and Rāma graciously seconds the thought to ease his brother’s embarrassment.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्तो धर्मशीलेन भ्रात्रा तस्य हिते रतः ।  
@@ -1175,6 +1207,14 @@ Or else my illustrious father, born of Raghu’s line (pitā me rāghavaḥ śr�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing King Daśaratha’s wind-swift steeds and aged state elephant Śatruñjaya at the head of the host, yet missing his father’s white royal parasol, Rāma bids Lakṣmaṇa descend from the tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतौ तौ सम्प्रकाशेते गोत्रवन्तौ मनोरमौ ।  
@@ -1334,6 +1374,14 @@ well known insignia in the world. An apprehension on this point is created in my
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yet I do not behold that resplendent white parasol of our father, honoured by all the world, O mighty-armed one (na tu paśyāmi tac chatraṃ pāṇḍaraṃ loka-satkṛtam pitur divyaṃ mahā-bāho); therefore doubt arises in my heart (saṃśayo bhavatīha me).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending from the śāla tree, Lakṣmaṇa stands with joined palms beside Rāma, while Bharata’s army—putting righteousness first and casting aside pride—encamps a league and a half around Citrakūṭa.
 </details>
 </details>
 

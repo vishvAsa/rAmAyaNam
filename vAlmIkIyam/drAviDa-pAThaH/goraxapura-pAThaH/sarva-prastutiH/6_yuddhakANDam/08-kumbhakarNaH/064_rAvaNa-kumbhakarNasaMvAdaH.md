@@ -27,6 +27,14 @@ Mahodara then suggests to Ravana a strategy to fulfill his purpose without a com
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Kumbhakarṇa's stern rebuke of Rāvaṇa, the courtier Mahodara upbraids the giant prince as an arrogant, untutored youth incapable of discerning royal policy or the true nature of the three human aims.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदुक्तमतिकायस्य बलिनो बाहुशालिनः ।  
@@ -329,6 +337,14 @@ things."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And as for Virtue, Wealth, and Pleasure (dharmārthakāmān), which you speak of as resting on separate foundations (pṛthagāśrayān)—there exists no mark (lakṣaṇa) by which to comprehend them by their intrinsic nature alone.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mahodara sophistically defends Rāvaṇa's pursuit of pleasure and warns Kumbhakarṇa that marching out alone against Rāma—who slaughtered the mighty hosts of Janasthāna—is reckless folly.
 </details>
 </details>
 
@@ -650,6 +666,14 @@ How will you single-handedly conquer that Rāghava by whom many rākṣasas of e
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Kumbhakarṇa that the survivors of Janasthāna still tremble within Laṅkā, Mahodara warns him not to rouse Rāma like a sleeping serpent or confront a foe equal to Indra and the Sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये पूर्वं निर्जितास्तेन जनस्थाने महौजसः ।  
@@ -948,6 +972,14 @@ with whom none in the human beings is equal and who is equal of Indra and the su
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 O best of rākṣasas, how do you hope to fight with one who has no equal among men, and who is the peer of Indra and Vivasvān [the Sun] (tulyenendravivasvatoḥ)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Turning from the incensed Kumbhakarṇa to Rāvaṇa, Mahodara proposes a cunning stratagem whereby five champions will march out against Rāma and, if unable to slay him, resort to deceit.
 </details>
 </details>
 
@@ -1261,6 +1293,14 @@ If, on the other hand, our enemy survives after we have joined battle (kṛtasa�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mahodara outlines the hoax: gashed with arrows bearing Rāma's name, the warriors will return claiming to have devoured Rāma and Lakṣmaṇa, while Rāvaṇa celebrates and proclaims Rāma's death throughout Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वयं युद्धादिहैष्यामो रुधिरेण समुक्षिताः ।  
@@ -1470,6 +1510,14 @@ gifts to other warriors. Drink yourself delighted."
 **28:** Then, feigning delight (prīto nāma tato bhūtvā), O tamer of foes, cause pleasures, retinues (parivārān), desired objects, and gold (vasu) to be lavished upon your servants.
 
 **29:** Then [bestow] garlands, garments, and unguents (anulepanam) for the heroes, and abundant drink (peyaṃ ca bahu) for the warriors; and do you yourself, rejoicing, quaff [wine]!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mahodara concludes that once Sītā believes Rāma is dead, Rāvaṇa can console and win her over in private through despair, securing bloodless victory and lasting glory without risking battle.
 </details>
 </details>
 

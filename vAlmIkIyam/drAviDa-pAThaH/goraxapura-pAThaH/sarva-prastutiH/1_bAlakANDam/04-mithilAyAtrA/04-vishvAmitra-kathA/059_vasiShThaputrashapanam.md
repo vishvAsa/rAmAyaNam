@@ -25,6 +25,14 @@ ritual of Vishvamitra and Trishanku. Vishvamitra gets irritated and hurls curses
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granting fearless refuge to Triśaṅku, Viśvāmitra vows to send him to heaven in his very curse-wrought Caṇḍāla body and commands his sons to gather the sacrificial materials.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तवाक्यं तु राजानं कृपया कुशिकात्मजः ।  
@@ -280,6 +288,14 @@ brilliant sons to organise the arrangements for the ritual. [1-59-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, that sage of great splendour (mahātejāḥ) commanded his supremely righteous and deeply wise sons (putrān paramadhārmikān mahāprājñān) to assemble the requisites for the sacrifice (yajñasambhārakāraṇāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned by Viśvāmitra’s disciples, Brahmins from every land arrive for the sacrifice, save the sage Mahodaya and the hundred wrathful sons of Vasiṣṭha.
 </details>
 </details>
 
@@ -558,6 +574,14 @@ sage, and what all they have said that you may please listen. [1-59-12b, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha’s sons and Mahodaya scornfully ask how gods or Brahmins could partake of a Caṇḍāla’s sacrifice officiated by a Kṣatriya, provoking Viśvāmitra’s fiery curse.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षत्रियो याजको यस्य चण्डालस्य विशेषतः ॥ १३ ॥  
@@ -784,6 +808,14 @@ merit, that irreverent person will be reduced to ashes, and there is no doubt ab
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 his eyes reddened with wrath (krodhasaṃraktanayanaḥ), angrily spoke thus: “Since they revile me who am blameless and steadfast in fierce asceticism (yad dūṣayanty aduṣṭaṃ māṃ tapa ugraṃ samāsthitam),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Viśvāmitra curses Vasiṣṭha’s sons to wander for seven hundred births as dog-eating Muṣṭika corpse-strippers, and condemns Mahodaya to become a merciless Niṣāda hunter.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ mass crossed the holy river with Seetha and left for the hermitage of Sage Bhara
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guha recounts to the unfathomable Bharata the noble devotion of Lakṣmaṇa, who stood guard bow in hand and declined the couch prepared for him while Guha offered to watch over Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आचचक्षेऽथ सद्भावं लक्ष्मणस्य महात्मनः ।  
@@ -313,6 +321,14 @@ Through his grace I hope for supreme renown in this world (asya prasādād āśa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guha pledges to guard Rāma and Sītā with all his kinsmen, but Lakṣmaṇa gently declines, asking how he could sleep or enjoy life while Daśaratha’s peerless son lies upon the bare grass.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं प्रियसखं रामं शयानं सह सीतया ।  
@@ -575,6 +591,14 @@ celestials and demons, sleeping on the blades of grass along with Seetha."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He whom all the gods and Asuras together cannot withstand in battle (yo na devāsuraiḥ sarvaiḥ śakyaḥ prasahituṃ yudhi)—behold him, O Guha, lying upon blades of grass with Sītā (taṃ paśya guha saṃviṣṭaṃ tṛṇeṣu saha sītayā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling the grief of Ayodhyā, Lakṣmaṇa forebodes that with Rāma exiled the earth will soon be widowed and that Daśaratha and Kausalyā will not survive the frustration of Rāma’s consecration.
 </details>
 </details>
 
@@ -865,6 +889,14 @@ With every purpose frustrated and failing to attain his heart’s desire (atikr�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa envies those who will perform the departed king’s funeral rites and roam happily through Ayodhyā’s gem-adorned palaces, highways, pleasure-parks, and festive assemblies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धार्थाः पितरं वृत्तं तस्मिन् काले ह्युपस्थिते ।  
@@ -994,6 +1026,14 @@ festivals that continuously take place inti."
 **20:** thronged with elephants, horses, and chariots, resounding with the blasts of musical instruments (gajāśva-ratha-saṃbādhāṃ tūrya-nāda-vināditām), filled with every auspiciousness and teeming with joyful, well-nourished citizens (sarva-kalyāṇa-saṃpūrṇāṃ hṛṣṭa-puṣṭa-janākulām),
 
 **21:** abounding in parks and royal pleasure-groves and glorious with festive assemblies (ārāmodyāna-saṃpūrṇāṃ samājotsava-śālinīm)—will roam happily about the capital city of my father (sukhitā vicariṣyanti rājadhānīṃ pitur mama)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding Lakṣmaṇa’s lament, Guha relates how at daybreak the two princes matted their locks, were ferried across the Bhāgīrathī, and departed in bark-garments with Sītā.
 </details>
 </details>
 

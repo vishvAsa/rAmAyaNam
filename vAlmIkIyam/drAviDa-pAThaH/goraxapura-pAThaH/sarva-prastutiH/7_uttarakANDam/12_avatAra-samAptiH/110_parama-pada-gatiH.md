@@ -13,6 +13,14 @@ title = "११० परम-पद-गतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having walked a yojana and a half to the westward-flowing Sarayū, Rāma arrives with his subjects at its swirling sacred bank; in that very hour Brahmā descends surrounded by gods, sages, and a hundred crores of divine aerial cars, filling the sky with self-luminous splendor, fragrant breezes, and torrents of celestial flowers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अध्यर्धयोजनं गत्वा नदीं पश्चान्मुखाश्रिताम् ।  
@@ -171,6 +179,14 @@ Overspread with divine effulgence (divya-tejovṛtam), the firmament became a pe
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Pure, fragrant, and soothing breezes blew (puṇyā vātā vavuś caiva gandhavantaḥ sukhapradāḥ), and a shower of flowers released by the gods rained down like a mighty flood (papāta puṣpa-vṛṣṭiś ca devair muktā mahaughavat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Amid hundreds of heavenly instruments and throngs of gandharvas and apsarases, Rāma steps on foot into the waters of the Sarayū; hailed from the sky by Brahmā as the inscrutable, imperishable Viṣṇu, the great-minded Lord enters the Vaiṣṇava effulgence in his very body along with his younger brothers.
 </details>
 </details>
 
@@ -340,6 +356,14 @@ Hearing the words of the Grandfather and resolving firmly in mind (pitāmaha-vac
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gods headed by Indra and Agni, Sādhyas, Maruts, divine sages, gandharvas, apsarases, nāgas, yakṣas, and even daityas and rākṣasas worship the Lord restored to Viṣṇu’s form while heaven rings with cries of ‘Well done!’; Viṣṇu then asks Brahmā to grant a fitting realm to the devoted multitudes who abandoned all for his sake.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो विष्णुमयं देवं पूजयन्ति स्म देवताः ।  
@@ -501,6 +525,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā decrees that all who accompanied Rāma—and even any creature of animal birth who gives up life meditating on him in devotion—shall dwell in the Sāntānika realms adjoining Brahmaloka; the divine-born monkeys and bears merge back into their celestial sires, Sugrīva enters the sun’s orb, and all the multitudes wade weeping with joy into the Sarayū at Gopratāra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा विष्णुवचनं ब्रह्मा लोकगुरुः प्रभुः ।  
@@ -642,6 +674,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When the Lord of the Gods had spoken thus (tathoktavati deveśe), all those who had arrived at Gopratāra (gopratāram upāgatāḥ) entered the waters of the Sarayū, overcome with tears born of overflowing joy (bhejire sarayūṃ sarve harṣa-pūrṇāśru-viklavāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Every mortal who plunges joyfully into the Sarayū casts off the human frame and ascends a celestial car; hundreds of beasts, mobile and immobile creatures touched by its waters, and bears, monkeys, and rākṣasas assume shining divine forms and enter heaven, whereupon the Preceptor of the Worlds ascends with the exultant gods to the great Empyrean.
 </details>
 </details>
 

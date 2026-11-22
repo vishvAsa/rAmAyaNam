@@ -28,6 +28,14 @@ hermitage.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata’s vast fourfold army advances through the wilderness like a monsoon cloud overspreading the earth, startling the forest herds until the prince halts and addresses Vasiṣṭha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तया महत्या यायिन्या ध्वजिन्या वनवासिनः ।  
@@ -336,6 +344,14 @@ Having travelled a long distance (yātvā dūram adhvānam) until his mounts and
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Mount Citrakūṭa, the Mandākinī river, and the dark forest described by Sage Bharadvāja, Bharata points out to Śatrughna the blossom-showering trees and startled deer herds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यादृशं लक्ष्यते रूपं यथा चैव मया श्रुतम् ।  
@@ -634,6 +650,14 @@ Driven onward (pracoditāḥ), these swift-speeding herds of deer (ete mṛga-ga
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata admires his soldiers crowned with floral chaplets like southerners, remarks how the solitary forest now resembles populous Ayodhyā, and welcomes the breeze clearing the hoof-dust.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुर्वन्ति कुसुमापीडान् शिरःसु सुरभीनमी ।  
@@ -879,6 +903,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Behold these lovely-plumaged peacocks (etān barhiṇaḥ priya-darśanān), terrified (vitrāsitān) and swiftly entering (āviśataḥ śīghram) this mountain abode of birds (etam adhivāsaṃ patatriṇaḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising the hermitage grove as the pathway to heaven, Bharata sends scouts to search the forest; sighting a rising plume of smoke, they infer the presence of Rāma and Lakṣmaṇa.
 </details>
 </details>
 
@@ -1143,6 +1175,14 @@ fire in a deserted place. Assuredly, Rama and Lakshmana are there."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having espied the rising crest of smoke (te samālokya dhūmāgram), they returned and spoke to Bharata (ūcur bharatam āgatāḥ): “Fire does not exist in an uninhabited place (nāmanuṣye bhavaty agniḥ); clearly the two Rāghavas are right here (vyaktam atraiva rāghavau)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ordering his army to halt in quiet discipline lest the hermitage be disturbed, Bharata resolves to proceed on foot with Vasiṣṭha and Sumantra while the host rejoices at the imminent reunion with Rāma.
 </details>
 </details>
 

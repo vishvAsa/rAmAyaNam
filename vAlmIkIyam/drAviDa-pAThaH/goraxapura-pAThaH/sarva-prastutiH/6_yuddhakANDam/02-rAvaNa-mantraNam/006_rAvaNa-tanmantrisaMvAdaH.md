@@ -24,6 +24,14 @@ of a probable attack of Rama and his army on the City of Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing his head in shame at the devastation wrought in Laṅkā by Hanūmān alone, Rāvaṇa convenes his Rākṣasa counsellors to deliberate on the coming war with Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लङ्कायां तु कृतं कर्म घोरं दृष्ट्वा भयावहम् ।  
@@ -352,6 +360,14 @@ the lowest. I am telling their inherent merits and defects."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa defines the supreme, middling, and base rulers according to how they deliberate with counsellors and honor fate, and identifies unanimous scriptural counsel as supreme.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रस्त्रिभिर्हि संयुक्तः समर्थैर्मन्त्रनिर्णये ।  
@@ -628,6 +644,14 @@ view perceived by scriptures, obtain consensus and are satisfied with it."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Where ministers, having arrived at unanimity of opinion (aikamatyam upāgamya) through the eye of scriptural vision (śāstra-dṛṣṭena cakṣuṣā), remain firmly devoted to it (mantriṇo yatra niratāḥ), that they call supreme counsel (tam āhur mantram uttamam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Defining middling and base counsel, Rāvaṇa urges his ministers to reach a sound unanimous decision, warning that Rāma and the monkeys will soon cross the ocean to besiege Laṅkā.
 </details>
 </details>
 

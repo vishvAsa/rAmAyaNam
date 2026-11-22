@@ -27,6 +27,14 @@ recognises and laments for his wretched situation.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting his younger brother's wise counsel and restraining his wrath, Rāma asks where to search for Sītā, and Lakṣmaṇa urges exploring the Rākṣasa-infested caverns and crags of Janasthāna.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वजो ऽप्य् उक्त-मात्रस्  
@@ -347,6 +355,14 @@ And manifold dreadful caves (guhāś ca vividhā ghorāḥ) teeming with herds o
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaming Janasthāna with a razor-tipped arrow fitted to his bow, Rāma comes upon the blood-drenched Jaṭāyus lying like a mountain peak and mistakes him for a Rākṣasa who has devoured Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि युक्तो मया सार्धं  
@@ -635,6 +651,14 @@ declared. [3-67-11b, 12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having devoured the wide-eyed Sītā (bhakṣayitvā viśālākṣīṃ sītām), he sits at ease (āste yathā-sukham); I shall slay him (enaṃ vadhiṣye) with dreadful, straight-flying arrows (śarair ghorair ajihmagaiḥ) of blazing tips (dīptāgraiḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma rushes forward with his razor-arrow nocked, the dying Jaṭāyus coughs up foamy blood and reveals that Rāvaṇa abducted Sītā after Jaṭāyus shattered his bow and war-chariot.
 </details>
 </details>
 
@@ -989,6 +1013,14 @@ This is his broken bow (etad asya dhanur bhagnam), and these too are his arrows 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning how Rāvaṇa severed Jaṭāyus's wings and soared into the sky with Sītā, Rāma drops his bow, embraces the dying vulture in redoubled anguish, and laments his scorching ill-fortune.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं तु सारथिस् तस्य  
@@ -1276,6 +1308,14 @@ Divine-Incinerator... [3-67-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The kingdom is lost (rājyaṃ bhraṣṭam), our dwelling is in the forest (vane vāsaḥ), Sītā is lost (sītā naṣṭā), and the bird is dying (mṛto dvijaḥ): such is this ill-fortune of mine (īdṛśīyaṃ mamālakṣmīḥ) that it would burn up even fire itself (dahed api hi pāvakam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that his misfortune would dry up the very ocean and has ensnared his father's friend in a net of ruin, Rāma strokes the bleeding Jaṭāyus with filial love and falls weeping to the ground.
 </details>
 </details>
 

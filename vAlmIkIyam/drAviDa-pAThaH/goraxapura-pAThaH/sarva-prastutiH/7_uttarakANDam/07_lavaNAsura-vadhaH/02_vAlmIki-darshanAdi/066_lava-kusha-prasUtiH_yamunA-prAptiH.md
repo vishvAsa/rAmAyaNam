@@ -13,6 +13,14 @@ title = "०६६ लव-कुश-प्रसूतिः यमुना-प
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On the very night Śatrughna rests in Vālmīki’s leaf-hut, Sītā gives birth to twin sons at midnight; summoned by young hermit-boys, Vālmīki hastens to behold the radiant babes and prepares a protective rite with kuśa tips and lower stalks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यामेव रात्रिं शत्रुघ्नः पर्णशालां समाविशत् ।  
@@ -217,6 +225,14 @@ Taking a fistful of kuśa grass tips and its lower cuttings as well (kuśa-muṣ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālmīki ordains that the elder twin, wiped with consecrated kuśa tips, shall be named Kuśa and the younger, wiped with the lower lava stalks, shall be named Lava; overhearing the midnight birth and Rāma’s name, Śatrughna rejoices.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्तयोः पूर्वजो जातः स कुशैर्मन्त्रसत्कृतैः ।  
@@ -376,6 +392,14 @@ _________________
 **11:** And hearing of that rite being performed by the elderly women (tathā tāṃ kriyamāṇāṃ ca vṛddhābhiḥ), of the birth and naming (janma nāma ca), and the mention of Rāma (saṅkīrtanaṃ ca rāmasya) and the auspicious twin births of Sītā (sītāyāḥ prasavau śubhau),
 
 **12:** at midnight Śatrughna heard that exceedingly joyful news (ardharātre tu śatrughnaḥ śuśrāva sumahat priyam); then, going to the leaf-hut (parṇaśālāṃ tato gatvā), he exclaimed: “O Mother, by good fortune (mātar diṣṭyeti cābravīt)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+That joyous Śrāvaṇa night passes swiftly for Śatrughna; at dawn he performs his morning devotions, bids farewell to Vālmīki, travels seven nights westward to the Yamunā, and spends the evening in edifying converse with Cyavana and the Bhārgava sages.
 </details>
 </details>
 

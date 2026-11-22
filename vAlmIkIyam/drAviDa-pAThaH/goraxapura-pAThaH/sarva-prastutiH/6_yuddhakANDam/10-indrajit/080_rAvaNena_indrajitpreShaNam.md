@@ -29,6 +29,14 @@ various ways and means to destroy Indrajit.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged at hearing of Makarākṣa's death, Rāvaṇa commands Indrajit to slay Rāma and Lakṣmaṇa, whereupon Indrajit begins an occult fire-sacrifice attended by red-turbaned rākṣasīs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मकराक्षं हतं श्रुत्वा रावणः समितिञ्जयः ।  
@@ -282,6 +290,14 @@ there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And while he was offering oblations into the fire there (juhvataś cāpi tatrāgnim), rākṣasī women wearing red turbans (raktoṣṇīṣadharāḥ striyaḥ) arrived there in haste where Rāvaṇa's son was.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Using weapons as strew, bibhītaka wood, and a live black goat, Indrajit receives Agni's auspicious omens of victory and mounts his invisible chariot.
 </details>
 </details>
 
@@ -595,6 +611,14 @@ Yoked with four steeds and furnished with sharp arrows, bearing his great bow mo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Guarded by the solar-bright Brahmāstra on his golden-bannered chariot, Indrajit invokes rākṣasa mantras outside Laṅkā and vanishes after vowing to slay both brothers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाज्वल्यमानो वपुषा तपनीयपरिच्छदः ।  
@@ -895,6 +919,14 @@ will create a great spleasure". Thus speaking, Indrajit vanished from thes sight
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having slain Rāma and Lakṣmaṇa today [and rendered] the earth devoid of Vānaras (nirvānarām urvīm), I shall create supreme joy!”—so saying, he vanished from sight (antardhīyata).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationed unseen in the sky on his chariot, Indrajit rains torrents of arrows upon Rāma and Lakṣmaṇa, whose solar-bright missiles cannot touch their invisible foe.
 </details>
 </details>
 
@@ -1200,6 +1232,14 @@ sun.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Though covering the sky with networks of arrows (śarajālaiḥ), those two mighty warriors did not touch him at all (naiva pasparśatuḥ) with their sun-bright missile-shafts (astraiḥ sūryasaṃkāśaiḥ śaraiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shrouding the sky and quarters in smoky mist so that neither his wheels nor his bowstring can be heard, Indrajit pelts the brothers, whose heron-feathered shafts draw his blood.
 </details>
 </details>
 
@@ -1530,6 +1570,14 @@ Reaching Rāvaṇa's son in the sky (antarikṣe samāsādya) and lacerating him
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bleeding like flowering kiṃśuka trees under Indrajit's unseen volleys, Rāma and Lakṣmaṇa shoot wherever his arrows fall, while Indrajit remains hidden like the sun behind clouds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिमात्रं शरौघेण दीप्यमानौ नरोत्तमौ ।  
@@ -1796,6 +1844,14 @@ No one knew his swift course (nāsya vegagatiṃ kaścit), nor his form, nor his
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing hundreds of Vānaras slain by Indrajit's shafts, an enraged Lakṣmaṇa proposes unleashing the Brahmāstra, but Rāma forbids slaying all rākṣasas for one hidden foe.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन विद्धाश्च हरयो निहताश्च गतासवः ।  
@@ -1940,6 +1996,14 @@ demon."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon Rāma spoke to that Lakṣmaṇa of auspicious marks (śubhalakṣaṇam): “Not for the sake of a single foe (naikasya hetoḥ) ought you to slay all the rākṣasas upon the earth!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma vows that he and Lakṣmaṇa will deploy serpent-like missiles to drive Indrajit from hiding or burn him dead wherever he flees across the cosmos.
 </details>
 </details>
 

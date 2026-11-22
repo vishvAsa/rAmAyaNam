@@ -30,6 +30,14 @@ killing the enemies.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surveying the full assembly, battle-victorious Rāvaṇa commands Prahasta to station the fourfold army inside and outside the citadel before addressing his council.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तां परिषदं कृत्स्नां समीक्ष्य समितिञ्जयः ।  
@@ -296,6 +304,14 @@ city. Pray do quickly, with an undistracted mind, whatever is preferable to you.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing the words of Prahasta, who wished well to the realm (rājyahitaiṣiṇaḥ), that King Rāvaṇa, desirous of pleasure (sukhepsuḥ), spoke in the midst of his friends (suhṛdāṃ madhye):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising his ministers' unfailing counsel, Rāvaṇa explains that Kumbhakarṇa's six-month slumber delayed their consultation and recounts abducting Sītā from Daṇḍakāraṇya.
 </details>
 </details>
 
@@ -633,6 +649,14 @@ frequented by demons."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consumed by passion for Sītā's peerless beauty, Rāvaṇa confesses his helplessness before love and claims she requested a one-year grace period to await Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा मे न शय्यामारोढुमिच्छत्यलसगामिनी ।  
@@ -895,6 +919,14 @@ and I have been ever since in grief and anguish."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weary with longing like a road-spent steed, Rāvaṇa wavers between scorning the ocean-blocked monkeys and recalling Hanūmān's havoc, urging his ministers to deliberate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु संवत्सरं कालं मामयाचत भामिनी ॥ १८ ॥  
@@ -1129,6 +1161,14 @@ and other monkeys reached the other shore of the ocean."
 **23:** “Formerly, in the war between the gods and Asuras (devāsure yuddhe), united with you I conquered (yuṣmābhiḥ sahito 'jayam); those same you are my [allies now], and likewise [we shall conquer] the monkeys headed by Sugrīva.
 
 **24:** “Placing the two princes at their head (puraskṛtya nṛpātmajau) on the farther shore of the sea, having discovered Sītā's whereabouts (sītāyāḥ padavīṃ prāpya), [the two princes] have reached the ocean, the abode of Varuṇa (varuṇālayam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa demands counsel that retains Sītā and slays Rāma, provoking Kumbhakarṇa's wrathful rebuke that a king who acts without prior deliberation repents afterward.
 </details>
 </details>
 
@@ -1472,6 +1512,14 @@ justice, will not repent thereafter."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Condemning Rāvaṇa's inverted statecraft through vivid similes of tainted oblations, Krauñca's pass, and poisoned meat, Kumbhakarṇa nonetheless pledges to rectify his brother's rashness in battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुपायेन कर्माणि विपरीतानि यानि च ।  
@@ -1746,6 +1794,14 @@ the dishonourable act undertaken by you in relation to your enemies."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Therefore, O sinless one (anagha), having slain your enemies (hatvā śatrūṃs tava), I myself shall set right (ahaṃ samīkariṣyāmi) this deed, unassailable by foes (apratimaṃ paraiḥ), that has been commenced by you.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting of his mountain-vast frame that terrifies Indra, Kumbhakarṇa vows to drink Rāma's blood and bids Rāvaṇa quaff choice wine while he dispatches Rāma to Yama's realm.
 </details>
 </details>
 

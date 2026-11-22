@@ -27,6 +27,14 @@ by which gods are perturbed.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After a thousand years of penance at Puṣkara, Brahmā confers the rank of Ṛṣi upon Viśvāmitra; as the sage resumes his austerities, he beholds the peerless celestial nymph Menakā bathing in the sacred lake like lightning in a cloud.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्णे वर्षसहस्रे तु व्रतस्नातं महामुनिम् ।  
@@ -279,6 +287,14 @@ in the holy lake. [1-63-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The resplendent son of Kuśika beheld that Menakā there (tāṃ dadarśa mahātejā menakāṃ kuśikātmajaḥ), matchless in beauty, shining like a flash of lightning in a dark cloud (rūpeṇāpratimāṃ tatra vidyutaṃ jalade yathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pierced by Kāma’s infatuation, Viśvāmitra invites Menakā to dwell in his hermitage; ten years pass like a single day and night before the sage awakens in shame and indignation at the gods’ stratagem to steal his penance.
 </details>
 </details>
 
@@ -562,6 +578,14 @@ am under the influence of lust and lure had to encounter this hindrance in my as
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sighing in remorse, Viśvāmitra gently dismisses the trembling Menakā without cursing her, repairs to the northern mountain Himālaya along the Kauśikī river to practice celibate penance for a thousand years, and prompts the terrified gods to petition Brahmā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निःश्वसन् मुनिवरः पश्चात्तापेन दुःखितः ॥ १२ ॥
@@ -790,6 +814,14 @@ Exalted Sage.' [1-63-16b, 17a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Fear arose among the gods, O Rāma (uttare parvate rāma devatānām abhūd bhayam). Assembling together with the hosts of sages, all the gods took counsel and petitioned Brahmā (āmantrayan samāgamya sarve sarṣigaṇāḥ surāḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā addresses Viśvāmitra as ‘Maharṣi’ and confers pre-eminence among sages upon him; when Viśvāmitra asks whether he has truly conquered his senses, Brahmā replies that he has not yet mastered them and urges him to strive further.
 </details>
 </details>
 
@@ -1028,6 +1060,14 @@ and subsisting on air alone. [1-63-22b, 23a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Strive on, O tiger among sages (yatasva muniśārdūla)!” Having spoken thus, he departed to heaven (ity uktvā tridivaṃ gataḥ). When the gods had departed, the great sage Viśvāmitra (viprasthiteṣu deveṣu viśvāmitro mahāmuniḥ)
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With upraised arms, subsisting on air, enduring the five fires in summer, the open sky in the rains, and icy waters in winter for a thousand years, Viśvāmitra’s penance fills Indra with dread, prompting him to summon the nymph Rambhā.
 </details>
 </details>
 

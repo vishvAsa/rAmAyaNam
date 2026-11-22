@@ -25,6 +25,14 @@ eliminates Trishira in the battle.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Khara as he advances against Rāma, the army commander Triśiras vows upon his weapon to slay Rāma in single combat and receives Khara's permission to attack.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरं तु रामाभिमुखं प्रयान्तं वाहिनीपतिः ।  
@@ -359,6 +367,14 @@ Propitiated (prasāditaḥ) by that Triśiras out of eagerness for death (mṛty
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging in his radiant chariot like a three-peaked mountain, Triśiras showers torrents of arrows and strikes Rāma on the forehead with three shafts, provoking Rāma's wrath.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रिशिरास्तु रथेनैव वाजियुक्तेन भास्वता ।  
@@ -618,6 +634,14 @@ Then, struck on the forehead (lalāṭe tāḍitaḥ) by Triśiras with three ar
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mocking Triśiras's arrows as mere flowers upon his brow, the wrathful Rāma pierces the demon's chest with fourteen shafts and slaughters his steeds and charioteer.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो विक्रमशूरस्य राक्षसस्येदृशं बलम् ।  
@@ -866,6 +890,14 @@ and he that Trishira became inert. [3-27-16b, 17a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With an arrow Rāma severed (ciccheda) his lofty banner (dhvajaṃ samucchritam); then, as that night-roamer (niśācaram) leaped up (utpatantam) from his shattered chariot (hata-rathāt)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stunning Triśiras with arrows to the heart, Rāma severs his three heads with three swift shafts, whereupon Khara rallies his terrified remnant and rushes at Rāma like Rāhu against the moon.
 </details>
 </details>
 

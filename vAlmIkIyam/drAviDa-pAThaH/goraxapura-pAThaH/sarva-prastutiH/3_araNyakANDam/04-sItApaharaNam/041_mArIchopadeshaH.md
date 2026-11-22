@@ -27,6 +27,14 @@ rather than by his own clansman, Ravana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Commanded thus peremptorily by Rāvaṇa, the fearless Mārīca rebukes him, asking what treacherous enemy or negligent minister counselled this suicidal plot to abduct Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञप्तो रावणेनेत्थं प्रतिकूलं च राजवत् ।  
@@ -348,6 +356,14 @@ their dereliction. [3-41-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mārīca expounds the principles of statecraft: a wayward monarch must be restrained by righteous ministers, for dharma and renown have the king as their root.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमात्यैः कामवृत्तो हि राजा कापथमाश्रितः ।  
@@ -622,6 +638,14 @@ acridity, with hostility, or with immorality. [3-41-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “A kingdom cannot be governed by one who is cruel (na tīkṣṇena), O night-roamer, nor by one who is hostile to his subjects (na cātipratikūlena), nor by one who lacks self-mastery (nāvinītena), O rākṣasa!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing subjects under a cruel king to sheep guarded by a jackal and chariots driven over rough ground by a foolish charioteer, Mārīca laments his sudden doom.
 </details>
 </details>
 
@@ -911,6 +935,14 @@ named for such fortuitous happenings.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “This dreadful calamity has befallen me unexpectedly, like the palm-fruit falling upon the crow (kāka-tālīyam); in this matter, it is you who are to be pitied (śocanīyo 'si), for you shall perish with your army!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Counting himself blessed to die at Rāma's hands rather than Rāvaṇa's, Mārīca prophesies the doom of Rāvaṇa, Laṅkā, and the rākṣasas, comparing Rāvaṇa to a dying man deaf to friends.
 </details>
 </details>
 

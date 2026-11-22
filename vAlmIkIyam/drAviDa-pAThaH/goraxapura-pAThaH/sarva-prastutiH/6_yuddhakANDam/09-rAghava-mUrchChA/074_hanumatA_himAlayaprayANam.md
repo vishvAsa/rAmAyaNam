@@ -31,6 +31,14 @@ Lakshmana and all the monkeys regain their normal health.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāma and Lakṣmaṇa fall motionless in the van of battle, Vibhīṣaṇa reassures the despairing Vānara chiefs that the princes are merely honoring Self-born Brahmā's missile.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोस्तदासादितयो रणाग्रे  
@@ -359,6 +367,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Searching the blood-drenched battlefield by torchlight at night, Hanūmān and Vibhīṣaṇa behold Sugrīva, Aṅgada, and sixty-seven crores of Vānaras felled in the final fifth of the day.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावुभौ युगपद् वीरौ हनूमद्राक्षसोत्तमौ ।  
@@ -594,6 +610,14 @@ six Ghatikas (or two hours and twenty four minutes) each. They were known by the
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Sixty-seven crores (saptaṣaṣṭiḥ koṭyaḥ) of swift Vānaras had been struck down in the fifth and final division of the day (ahnaḥ pañcamaśeṣeṇa) by the [missile] beloved of the Self-born [Brahmā] (vallabhena svayaṃbhuvaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeking out the aged Jāmbavān where he lies pierced like a dying fire, Vibhīṣaṇa asks after his life, and the blinded bear king immediately inquires whether Hanūmān survives.
 </details>
 </details>
 
@@ -859,6 +883,14 @@ where nearby?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O faithful one (suvrata), does Hanūmān, the foremost of Vānaras—through whom Añjanā is blessed with a noble son (añjanā suprajā yena) and Mātariśvā [the Wind-god] as well—still sustain his life-breaths (prāṇān dhārayate kvacit)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asked by Vibhīṣaṇa why he inquires after Hanūmān before Rāma, Lakṣmaṇa, or Sugrīva, Jāmbavān declares that the army's survival rests on Māruti alone, whereupon Hanūmān clasps his feet.
 </details>
 </details>
 
@@ -1159,6 +1191,14 @@ Then, approaching the aged [bear] and clasping Jāmbavān's feet (gṛhya jāmba
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Feeling reborn upon hearing Hanūmān's greeting, Jāmbavān bids him leap across the ocean to Mount Himavān, where rise golden Mount Ṛṣabha and the peak of Kailāsa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा हनूमतो वाक्यं तदा विव्यथितेन्द्रियः ।  
@@ -1451,6 +1491,14 @@ excellent mountain and the very much powerful peak of Kailasa, with a golden hue
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, O destroyer of foes (ariniṣūdana), you shall behold the golden, lofty Ṛṣabha (kāñcanam atyuccam ṛṣabham), the best of mountains, and the peak of Kailāsa (kailāsaśikharaṃ cātra) as well.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instructed by Jāmbavān to fetch the four luminous herbs—Mṛtasañjīvanī, Viśalyakaraṇī, Suvarṇakaraṇī, and Saṃdhānī—from the Herb Mountain, Hanūmān swells with might on Mount Trikūṭa.
 </details>
 </details>
 
@@ -1780,6 +1828,14 @@ Standing upon the crest of the mountain slope (parvatataṭāgrasthaḥ) and pre
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushed beneath Hanūmān's feet as he prepares to leap, Mount Trikūṭa sinks with blazing trees and shattered peaks, causing Laṅkā's gates and towers to reel in the night.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरिपादविनिर्भग्नो निषसाद स पर्वतः ।  
@@ -2061,6 +2117,14 @@ Resembling a mountain himself (pṛthivīdharasaṃkāśaḥ), the son of the Wi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From there the monkey then ascended Mount Malaya (āruroha tadā tasmād dharir malayaparvatam), which resembled Meru and Mandara and abounded in manifold mountain streams (nānāprasravaṇākulam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swelling like a cloud on the sixty-yojana peak, Hanūmān opens his jaws like the submarine mare-fire and roars to paralyze the Rākṣasas in Laṅkā before bowing to the Ocean.
 </details>
 </details>
 
@@ -2347,6 +2411,14 @@ the ocean, made up his mind to embark on a prime act for the sake of Rama.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having bowed in homage to the Ocean (namaskṛtvā samudrāya), Māruti of dreadful prowess, the scorcher of foes (paraṃtapaḥ), resolved upon that supreme deed for Rāghava's sake (rāghavārthe paraṃ karma samīhata).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising his serpent-like tail and sweeping up trees, boulders, and wild monkeys in his slipstream, Hanūmān hurtles over the ocean along the sun's path like Viṣṇu's discus.
 </details>
 </details>
 
@@ -2713,6 +2785,14 @@ Betaking himself to the path of the sun (ādityapatham āśritya), that tireless
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Making the quarters resound as he speeds like the wind, Hanūmān reaches cloud-white Mount Himavān and beholds the sacred abodes of Brahmā, Śiva, Indra, Agni, Kubera, and the Earth's navel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जवेन महता युक्तो मारुतिर्वातरंहसा ।  
@@ -3068,6 +3148,14 @@ He beheld the abode of Fire (vahnyālayam), the sun-bright abode of Vaiśravaṇ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reaching the blazing Herb Mountain between Kailāsa and golden Ṛṣabha, Hanūmān searches across thousands of yojanas, and when the herbs hide themselves, he threatens to shatter the mountain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैलासमग्र्यं हिमवच्छिलां च  
@@ -3415,6 +3503,14 @@ today."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wrenching up the entire mountain peak with its trees, elephants, and glowing plateaus, Hanūmān hurtles back along the sun's path like Viṣṇu's flaming discus and lands among the Vānaras.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य शृङ्गं सनगं सनागं  
@@ -3753,6 +3849,14 @@ with his head bent low, he then embraced Vibhishana
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then that great-souled hero alighted upon that foremost of mountains [Trikūṭa] in the midst of the Vānara army (vānarasainyamadhye); and bowing his head to the foremost of the monkeys (haryuttamebhyaḥ śirasābhivādya), he embraced Vibhīṣaṇa there (vibhīṣaṇaṃ tatra ca sasvaje saḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revived instantly with Rāma and Lakṣmaṇa by the herbs' fragrance while the slain Rākṣasas lie cast in the sea, the Vānara host rises whole, and Hanūmān returns the mountain to Himavān.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ Seetha foresees danger in Rama's decision to eliminate the demons in Dandaka for
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma sets out with Sutīkṣṇa’s leave, Sītā addresses him with affectionate counsel on the three desire-born vices and praises his unwavering truthfulness and fidelity.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुतीक्ष्णेनाभ्यनुज्ञातं प्रस्थितं रघुनन्दनम् ।  
@@ -238,6 +246,14 @@ oh, Raghava, then wherefrom the virtue-ruining desire for other's women can be t
 **3:** Threefold indeed are the vices born of desire (vyasanāni kāmajāni) in this world: falsehood of speech (mithyā-vākyam) is the first and foremost, and yet more grievous than that are the other two—
 
 **4:** Approaching another’s wife (para-dārābhigamanam), and ruthless violence without enmity (vinā vairaṃ ca raudratā). Falsehood of speech, O Rāghava, has never been yours, nor shall it ever be.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Rāma’s mastery over his senses, Sītā expresses anxiety over the third vice—unprovoked violence—now looming through his vow to slay the demons in Daṇḍakā.
 </details>
 </details>
 
@@ -606,6 +622,14 @@ Therefore, beholding you setting forth, my mind is troubled with anxiety (cintā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that proximity to weapons inflames a warrior’s martial impulse just as fuel feeds fire, Sītā recounts the ancient parable of the ascetic entrusted with a sword.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे रोचते वीर गमनं दण्डकान् प्रति ।  
@@ -930,6 +954,14 @@ In that hermitage precinct an excellent sword was deposited by him (nihitaḥ kh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Carrying the entrusted sword everywhere, the ascetic gradually abandons his penance for ruthless violence and falls into hell through constant contact with the weapon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तच्छस्त्रमनुप्राप्य न्यासरक्षणतत्परः ।  
@@ -1185,6 +1217,14 @@ Thus happened this ancient story (purā-vṛttam) caused by contact with a weapo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Out of love and reverence Sītā urges Rāma not to slay the Daṇḍakā demons without provocation, reminding him that forest-dwelling warriors should honour the law of the hermitage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्नेहाच्च बहुमानाच्च स्मारये त्वां तु शिक्षये ।  
@@ -1416,6 +1456,14 @@ on going to Ayodhya again... [3-9-28]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From recourse to weapons (śastra-sevanāt) arises a turbid and ignoble mind (kadarya-kaluṣā buddhiḥ); when you have returned once more to Ayodhyā, you shall practise the duty of a kṣatriya (kṣatra-dharmam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exalting dharma as the essence of the universe and the source of true happiness, Sītā humbly attributes her bold counsel to womanly impulse and leaves the decision to Rāma.
 </details>
 </details>
 

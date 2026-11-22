@@ -28,6 +28,14 @@ is at his job, Rama is pleased heartily.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting the Himalayan tribute and dismissing the monkey couriers, Sugrīva deems himself and Rāma fulfilled, takes leave of Tārā and his queens, and prepares to depart with Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य च तत् सर्वमुपायनमुपाहृतम् ।  
@@ -292,6 +300,14 @@ female vanara-s. [4-38-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoning his trusted attendants permitted to enter the women's quarters, Sugrīva orders a golden palanquin and mounts it alongside Lakṣmaṇa beneath a white royal parasol.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एहीत्युच्चैर्हरिवरान् सुग्रीवः समुदाहरत् ।  
@@ -549,6 +565,14 @@ along with Lakshmana. [4-38-11b, 12a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 said to the son of Sumitrā, ‘O Lakṣmaṇa, pray mount (āruhyatām) swiftly!’ Having spoken thus, Sugrīva mounted the sun-like golden conveyance (kāñcanaṃ yānam),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fanned with white chowries amid conches and drums, Sugrīva rides to Rāma's abode, alights to bow at Rāma's feet, and stands with his army like a lotus-budded lake.
 </details>
 </details>
 
@@ -858,6 +882,14 @@ Rāma felt deep affection toward Sugrīva (sugrīve prītimān abhūt); and rais
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Sugrīva and seating him beside him, Rāma discourses on the balanced pursuit of the three aims of life, warning against sensual heedlessness and urging timely martial counsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिष्वज्य च धर्मात्मा निषीदेति ततोऽब्रवीत् ॥ १९ ॥  
@@ -1102,6 +1134,14 @@ monkey-ministers." Thus Rama spoke to Sugreeva. [4-38-23b, 24a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘a king who enjoys the fruits of the triad of human aims (trivargaphalabhoktā) is united with royal merit (dharmeṇa yujyate). Now this season of martial exertion (udyogasamayaḥ) has arrived, O slayer of foes;
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acknowledging that he regained his kingdom and glory through Rāma and Lakṣmaṇa's grace, Sugrīva announces that countless bears, golāṅgūlas, and shape-shifting divine monkeys are already on the march.
 </details>
 </details>
 
@@ -1352,6 +1392,14 @@ on their path duly fenced round with one's own forces. [4-38-28, 29]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘and monkeys who are the sons of gods and gandharvas (devagandharvaputrāḥ), capable of assuming any form at will (kāmarūpiṇaḥ), surrounded by their respective armies, are now on the road (vartante pathi), O Rāghava.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Sugrīva enumerate his approaching legions up to samudras and parārdhas who will slay Rāvaṇa and recover Maithilī, Rāma beams like a newly blossomed blue lotus.
 </details>
 </details>
 

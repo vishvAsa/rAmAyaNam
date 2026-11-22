@@ -27,6 +27,14 @@ for Seetha's search.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reviving briefly as his breath ebbs away, the dying Vālin beholds his victorious brother Sugrīva, asks forgiveness for his destiny-driven delusion, and yields the monkey kingdom to him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीक्षमाणस्तु मन्दासुः सर्वतो मन्दमुच्छ्वसन् ।  
@@ -345,6 +353,14 @@ and even the unenviable glory which adduces that 'Vali is unkillable,' right awa
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For I now swiftly (tūrṇam) relinquish (prajahāmi) my life (jīvitaṃ ca), my kingdom (rājyaṃ ca), my vast royal fortune (śriyaṃ ca vipulām), and my blameless renown (agarhitaṃ yaśaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entrusting the weeping young Aṅgada to Sugrīva's paternal care, Vālin predicts that Tārā's valiant son will fight at the forefront in slaying the Rākṣasas.
 </details>
 </details>
 
@@ -670,6 +686,14 @@ Angada will undertake actions seemly for a son of mine. [4-22-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Striding forth (vikramya) in battle (raṇe), this mighty (balavān), radiant (tejasvī), and youthful (taruṇaḥ) Aṅgada, son of Tārā (tāreyaḥ), shall accomplish deeds worthy of himself [and of me] (anurūpāṇi karmāṇi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālin commends Tārā's infallible counsel, urges Sugrīva to fulfill Rāma's mission faithfully, and bestows upon the weeping Sugrīva his divine golden necklace before its fortune departs at death.
 </details>
 </details>
 
@@ -1022,6 +1046,14 @@ Pacified (śāntaḥ) by Vālin's words and unwearyingly performing what was fit
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prepared for the hereafter, Vālin delivers his final counsel of royal service to Aṅgada, instructing him to obey Sugrīva and follow the middle path between excessive familiarity and aloofness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां मालां काञ्चनीं दत्त्वा दृष्ट्वा चैवात्मजं स्थितम् ।  
@@ -1293,6 +1325,14 @@ Neither should excessive familiarity (atipraṇayaḥ) be practiced by you, nor 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by Rāma's arrow, Vālin breathes his last with rolling eyes, and the bereaved monkey chiefs lament the desolation of Kiṣkindhā and recall his mighty battle with Golabha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वाथ विवृत्ताक्षः शरसम्पीडितो भृशम् ।  
@@ -1533,6 +1573,14 @@ to some distance into ocean, as though to worship him.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Now that the tiger among leapers is slain (hate plavagaśārdūle), the monkeys have been rendered lusterless (niṣprabhā vānarāḥ kṛtāḥ)! He by whose mighty impetus [or majesty] (yasya vegena mahatā) the forests and groves (kānanāni vanāni ca)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how Vālin slew the Gandharva Golabha in the sixteenth year, the monkeys wander restless like a herd whose bull is slain, while Tārā collapses embracing her dead lord.
 </details>
 </details>
 

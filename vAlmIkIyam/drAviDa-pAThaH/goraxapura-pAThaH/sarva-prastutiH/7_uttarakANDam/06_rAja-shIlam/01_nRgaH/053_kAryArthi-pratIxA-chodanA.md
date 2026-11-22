@@ -13,6 +13,14 @@ title = "०५३ कार्यार्थि-प्रतीक्षा-�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Lakṣmaṇa’s wise counsel, Rāma confesses that neglecting his subjects’ affairs for four days pierces his vitals, and orders his ministers, priest, and all male and female petitioners summoned lest royal neglect consign a king to hell.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणस्य तु तद् वाक्यं निशम्य परमाद्भुतम् ।  
@@ -205,6 +213,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma relates how the pious King Nṛga gifted crores of cows at Puṣkara, unwittingly giving away a poor āhitāgni brahmin’s strayed cow Śabalā, whom the starving owner searched for across kingdoms for years until recognizing her at Kanakhala.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयते हि पुरा राजा नृगो नाम महायशाः ।  
@@ -391,6 +407,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Śabalā follows her original master, the custodian brahmin hurries after them claiming Nṛga’s gift; quarreling fiercely, both repair to Nṛga’s palace gate, where days and nights without royal audience ignite their terrible wrath.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तं स्वरमाज्ञाय क्षुधार्तस्य द्विजस्य वै ।  
@@ -554,6 +578,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Because Nṛga refused to grant sight to petitioners, the enraged brahmins curse him to dwell unseen as a chameleon in a pit for millennia, yet relent to foretell his ultimate redemption by Lord Viṣṇu incarnate as Vāsudeva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्थिनां कार्यसिद्ध्यर्थं यस्मात्त्वं नैषि दर्शनम् ॥ १८ ॥  
@@ -588,6 +620,14 @@ _________________
 **18:** “‘Because you do not grant audience to petitioners for the fulfillment of their affairs (arthināṃ kārya-siddhyarthaṃ yasmāt tvaṃ naiṣi darśanam), you shall become a chameleon, invisible to all creatures (adṛśyaḥ sarva-bhūtānāṃ kṛkalāso bhaviṣyasi)!
 
 **19:** “‘For many thousands of years and many hundreds of years (bahu-varṣa-sahasrāṇi bahu-varṣa-śatāni ca), you shall abide for a long time in this pit as a chameleon (śvabhre ’smin kṛkalāso vai dīrgha-kālaṃ vasiṣyasi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling Nara and Nārāyaṇa’s descent near Kali’s onset, the pacified brahmins gift the aged cow to a third brahmin; drawing the moral that neglected petitioners bring kings to ruin, Rāma dispatches Lakṣmaṇa to admit all suitors.
 </details>
 </details>
 

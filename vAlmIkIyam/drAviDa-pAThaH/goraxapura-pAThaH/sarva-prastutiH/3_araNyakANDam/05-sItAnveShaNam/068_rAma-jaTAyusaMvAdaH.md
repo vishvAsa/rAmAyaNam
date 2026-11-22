@@ -25,6 +25,14 @@ fire, like his own relative and performs other rites, and then proceeds for sear
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon the mortally wounded Jaṭāyus gasping for breath, Rāma begs him to recount how Rāvaṇa abducted Sītā, what offense provoked him, and what words Sītā spoke.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामः प्रेक्ष्य तु तं गृध्रं भुवि रौद्रेण पातितम् ।  
@@ -342,6 +350,14 @@ How was that charming face of hers (tat mukhaṃ manoharam), which resembles the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned about Rāvaṇa's prowess and abode, the dying Jaṭāyus tells how Rāvaṇa conjured a tempestuous illusion and fled south with Sītā during the astrological hour when lost treasure returns.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथंवीर्यः कथंरूपः किङ्कर्मा स च राक्षसः ।  
@@ -617,6 +633,14 @@ instead of leaves, is an omen of death.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 My life-breaths are being choked (uparudhyanti me prāṇāḥ), and my sight whirls (dṛṣṭir bhramati), O Rāghava; I see golden trees (paśyāmi vṛkṣān sauvarṇān) with crests made of uśīra fibres (uśīra-kṛta-mūrdhajān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling that Rāvaṇa abducted Sītā during the Vinda hour and will perish like a fish swallowing a hook, Jaṭāyus names Viśravas as Rāvaṇa's father before expiring in Rāma's presence.
 </details>
 </details>
 
@@ -995,6 +1019,14 @@ Dropping his head upon the ground (nikṣipya śiro bhūmau), stretching out his
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon the lifeless Jaṭāyus, Rāma mourns the irresistible power of Time and praises the noble bird who renounced his ancestral vulture-kingdom to lay down his life for Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं गृध्रं प्रेक्ष्य ताम्राक्षं गतासुमचलोपमम् ।  
@@ -1309,6 +1341,14 @@ Everywhere indeed (sarvatra khalu), O Saumitri, righteous men who practice dharm
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Jaṭāyus's death pains him more than Sītā's abduction and that the bird is as venerable to him as Daśaratha, Rāma bids Lakṣmaṇa gather wood for the funeral pyre.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताहरणजं दुःखं न मे सौम्य तथागतम् ।  
@@ -1515,6 +1555,14 @@ by a feral demon..." Thus saying to Lakshmana, Rama said this to dead eagle Jata
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 I shall place the lord of the bird-world (nāthaṃ pataga-lokasya) upon the funeral pyre (citim āropayāmy aham) and cremate him (imaṃ dhakṣyāmi), O Saumitri, who was slain by the fierce Rākṣasa (hataṃ raudreṇa rakṣasā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blessing Jaṭāyus to ascend to the supreme worlds, Rāma cremates him on the blazing pyre like a kinsman, offers funeral balls of venison on green grass, and chants Vedic hymns.
 </details>
 </details>
 
@@ -1863,6 +1911,14 @@ course of the realm of Vishnu...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And Rāma recited for him (tasya rāmo jajāpa ha) that ancestral [collection of Vedic mantras] conducive to heaven (tat svarga-gamanaṃ pitryam) which the twice-born [Brāhmaṇas] recite (yat tat kathayanti dvijātayaḥ) for a departed mortal (pretasya martyasya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathing in the Godāvarī to offer scriptural water-libations whereafter Jaṭāyus ascends to his holy state, Rāma and Lakṣmaṇa set their minds on finding Sītā and enter the forest like Viṣṇu and Indra.
 </details>
 </details>
 

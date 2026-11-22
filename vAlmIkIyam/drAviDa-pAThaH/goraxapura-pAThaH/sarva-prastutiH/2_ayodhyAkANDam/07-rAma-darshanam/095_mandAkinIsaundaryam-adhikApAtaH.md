@@ -25,6 +25,14 @@ of their time in enjoying the charms of Chitrakuta mountain.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Descending from the mountain slopes, Rāma shows Sītā the lotus-adorned Mandākinī river, praising its swan-haunted sandbanks, deer-stirred fords, and bark-clad sages bathing at the appointed hour.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ शैलाद् विनिष्क्रम्य मैथिलीं कोसलेश्वरः ।  
@@ -343,6 +351,14 @@ Wearing matted locks and deerskins (jaṭājina-dharāḥ), with bark-garments a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma shows Sītā the sages worshipping the sun with upraised arms, the wind-swayed mountain dancing as it scatters blossoms, and the sweet-voiced cakravāka birds mounting the floating flowers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदित्यमुपतिष्ठन्ते नियमादूर्ध्वबाहवः ।  
@@ -613,6 +629,14 @@ And those birds named after the chariot-wheel, of exceedingly sweet voice (tā�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Esteeming Citrakūṭa and the Mandākinī above life in Ayodhyā, Rāma invites Sītā to bathe in the sage-sanctified waters and regard the mountain as Ayodhyā and the river as the Sarayū.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शनं चित्रकूटस्य मन्दाकिन्याश्च शोभने ।  
@@ -821,6 +845,14 @@ mountain of Chitrakuta as the city of Ayodhya and this river as the Sarayu from 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Regard the wild beasts ever as the citizens (tvaṃ paura-janavad vyālān manyasva nityam), O lovely woman (vanite), this mountain as Ayodhyā (ayodhyām iva parvatam), and this river as the Sarayū (sarayūvad imāṃ nadīm).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing in Lakṣmaṇa’s obedience and Sītā’s devotion while bathing thrice daily and living on forest fare, Rāma wanders over collyrium-dark Mount Citrakūṭa without longing for Ayodhyā.
 </details>
 </details>
 

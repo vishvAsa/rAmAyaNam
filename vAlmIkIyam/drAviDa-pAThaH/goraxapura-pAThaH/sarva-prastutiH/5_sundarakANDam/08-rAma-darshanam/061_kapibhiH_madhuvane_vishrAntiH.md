@@ -27,6 +27,14 @@ teeth.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting Jāmbavān’s counsel, the monkeys leap skyward from Mount Mahendra behind Hanūmān, eager to report their glad tidings to Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो जाम्बवतो वाक्यमगृह्णन्त वनौकसः ।  
@@ -245,6 +253,14 @@ against the evil-minded Ravana.
 **5:** having resolved upon the fulfillment of their purpose in Rāghava (rāghave cārthanirvṛttiṃ samādhāya) and to achieve supreme glory (kartuṃ ca paramaṃ yaśaḥ), their object richly accomplished (samṛddhārthāḥ) and their spirits exalted by the success of their deeds (karmasiddhibhir unnatāḥ);
 
 **6:** all of them eager to relate the glad tidings (priyākhyānonmukhāḥ sarve), all delighting in battle (sarve yuddhābhinandinaḥ), all high-minded heroes (sarve manasvinaḥ) resolved upon avenging Rāma (rāmapratīkāre niścitārthāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Flying through the sky, the monkeys reach Sugrīva’s guarded honey-grove Madhuvana and obtain Prince Aṅgada’s permission to feast on the honey.
 </details>
 </details>
 
@@ -568,6 +584,14 @@ gave the monkeys a liberty to drink honey there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the prince (tataḥ kumāraḥ), having sought the approval of those elder monkeys headed by Jāmbavān (tān vṛddhāñ jāmbavatpramukhān kapīn anumānya), granted them free license in the eating of the honey (dadau teṣāṃ nisargaṃ madhubhakṣaṇe).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Permitted by Aṅgada, the monkeys feast on fragrant roots, fruits, and honey, breaking into drunken song, dance, laughter, and tree-top leaps.
 </details>
 </details>
 
@@ -941,6 +965,14 @@ None in that army was not drunk. None in that army was not satiated.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 From the surface of the earth (mahītalāt) some, with surging momentum (kecid udīrṇavegāḥ), spring right up to the tops of the great trees (mahādrumāgrāṇy abhisampatanti); one approaches a singer laughing aloud (gāyantam anyaḥ prahasann upaiti), while another approaches a laugher weeping aloud (hasantam anyaḥ prarudann upaiti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the angry grove-guardian Dadhimukha tries to stop the devastation, the drunken monkeys drag, claw, and beat him, stripping Madhuvana bare.
 </details>
 </details>
 

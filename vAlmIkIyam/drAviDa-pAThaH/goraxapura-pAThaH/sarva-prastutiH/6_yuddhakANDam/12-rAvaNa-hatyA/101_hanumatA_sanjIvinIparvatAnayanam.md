@@ -29,6 +29,14 @@ Sushena.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his demonic missile foiled, a doubly enraged Rāvaṇa hurls the Raudra weapon forged by Maya, which Rāma shatters with the Gāndharva missile before Rāvaṇa invokes the solar weapon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्त्या निपातितं दृष्ट्वा रावणेन बलीयसा ।  
@@ -278,6 +286,14 @@ arrows are dropping down. My vision has been overcome with tears."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When that missile too was repulsed by the great-souled Rāghava, Rāvaṇa, his eyes copper-red with rage (krodhatāmrākṣa), discharged the solar missile (sauram astram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Radiant discs burst from Rāvaṇa's bow to illuminate the sky, but Rāma severs them with arrow-torrents, endures ten shafts in his vitals, and pierces Rāvaṇa across every limb.
 </details>
 </details>
 
@@ -554,6 +570,14 @@ lies killed in the forefront of battle here, I have no use for the war."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Rāghava, victorious in battle (samitiṃjayaḥ) and fiercely incensed (susaṃkruddhaḥ), pierced Rāvaṇa across all his limbs (gātreṣu sarveṣu) with a multitude of shafts.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seizing seven arrows, Lakṣmaṇa shreds Rāvaṇa's human-headed banner, decapitates his charioteer, and splits his bow, while Vibhīṣaṇa slays his steeds with a mace.
 </details>
 </details>
 
@@ -863,6 +887,14 @@ Springing down swiftly (vegād avaplutya) from his great chariot whose horses we
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa hurls a blazing lance at Vibhīṣaṇa which Lakṣmaṇa severs in three, prompting Rāvaṇa to brandish a second irresistible lance as Lakṣmaṇa steps forward to shield Vibhīṣaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहैव मरणं श्रेयो न तु बन्धुविगर्हणम् ।  
@@ -1147,6 +1179,14 @@ At this juncture, the heroic Lakṣmaṇa swiftly stepped forward to protect (t�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Baffled by Lakṣmaṇa's arrow-shower from striking Vibhīṣaṇa, Rāvaṇa turns upon Lakṣmaṇa with a sinister taunt and aims Maya's eight-belled, unfailing lance at his heart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैव पञ्चत्वमापन्नो लक्ष्मणो लक्ष्मिवर्धनः ॥ २५ ॥  
@@ -1378,6 +1418,14 @@ earth's surface, fast asleep, with his limbs relaxed are telling it, O the galla
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hurled by my iron-bar-like arm (madbāhuparighotsṛṣṭā), this blood-marked lance (śaktir lohitalakṣaṇā) shall cleave your heart, take your life-breaths (prāṇān ādāya), and depart!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa hurls the blazing lance at Lakṣmaṇa; though Rāma pronounces a benediction rendering its lethal power vain, the weapon pierces Lakṣmaṇa's chest and fells him.
 </details>
 </details>
 
@@ -1663,6 +1711,14 @@ Then, with his chest riven (vibhinnahṛdayaḥ) by the lance that had plunged d
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grief-stricken at seeing Lakṣmaṇa felled and bathed in blood like a serpent-wreathed mountain, Rāma masters his sorrow and resumes fierce combat as the monkeys fail to extract the lance.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सञ्चिन्त्य हनुमान् गत्वा क्षिप्रं महाबलः ।  
@@ -1916,6 +1972,14 @@ identify those herbs."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And as they were tormented with torrents of arrows by that chief of rākṣasas (pravekeṇa rakṣasām), the lance, piercing right through Saumitri (saumitreḥ vinirbhidya), entered the surface of the earth (dharaṇītalam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enduring Rāvaṇa's arrows, Rāma wrenches out and snaps the lance with his bare hands, embraces Lakṣmaṇa, entrusts him to Hanūmān and Sugrīva, and vows Rāvaṇa's imminent death.
 </details>
 </details>
 
@@ -2236,6 +2300,14 @@ firmly with affection, with his eyes clouded with tears.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling his exile, Sītā's abduction, and the bridging of the ocean, Rāma declares that Rāvaṇa, having entered his range of sight like a serpent before Garuḍa, cannot survive.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे जीवितेनार्थः सीतया च जयेन वा ।  
@@ -2457,6 +2529,14 @@ have attained demise, tell me what significance is there for it to me?"
 **52:** “That same wicked wretch has today come within range of my sight (cakṣurviṣayam āgataḥ) in battle; and having come within range of my sight, he cannot live (nāyaṃ jīvitum arhati)!
 
 **53:** “[Having met] my gaze like that of a serpent whose very glance is venom (dṛṣṭiviṣasyeva sarpasya), or like a snake that has come within the sight of Garuḍa (vainateyasya dṛṣṭiṃ prāpto bhujaṃgamaḥ), Rāvaṇa [cannot survive]!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding the monkeys watch from the mountain peaks as the three worlds witness the true essence of Rāma, Rāghava showers Rāvaṇa with gold-decked shafts while Rāvaṇa rains iron arrows.
 </details>
 </details>
 

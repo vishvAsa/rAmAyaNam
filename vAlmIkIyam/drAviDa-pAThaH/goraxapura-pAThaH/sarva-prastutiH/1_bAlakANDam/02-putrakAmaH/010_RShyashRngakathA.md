@@ -25,6 +25,14 @@ of Romapada.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Daśaratha’s request, Sumantra relates how Romapāda’s Purohita and ministers proposed sending richly adorned courtesans to entice the innocent forest ascetic Ṛśyaśṛṅga to the capital.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा ।  
@@ -268,6 +276,14 @@ many a feint, and let the courtesans be given ample gifts... [1-10-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `"Let lovely and richly adorned courtesans go thither; having enticed him by manifold stratagems, and being honored by him (or by us), they shall bring him hither."'
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationing themselves near Vibhāṇḍaka’s hermitage, the chief courtesans wait until Ṛśyaśṛṅga—who had never since birth beheld a woman or city-bred creature—chances to walk that way by destiny.
 </details>
 </details>
 
@@ -568,6 +584,14 @@ the sage's son and spoke these words... [1-10-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `Clad in variegated attire and singing in sweet, melodious tones, all those enchanting women approached the seer's son and spoke these words:'
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approached by the singing courtesans, the guileless ascetic youth takes them for fellow hermits, tells them of his father Vibhāṇḍaka, and invites them into his hermitage to receive Vedic guest-worship.
 </details>
 </details>
 
@@ -881,6 +905,14 @@ to urbanites, that too to the pleasure-taking courtesans.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After accepting his forest roots and fruits, the courtesans embrace him, give him sweetmeats (modakas) which he takes to be wondrous forest fruits, and depart under the pretext of their daily vows, leaving him restless with longing.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिगृह्य तु तां पूजां सर्वा एव समुत्सुकाः ।  
@@ -1179,6 +1211,14 @@ Sage Kaashyapa, is disturbed at heart and even behaved sadly... [1-10-23]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning to that spot the next day, Ṛśyaśṛṅga is invited by the courtesans to visit their ‘hermitage’ and is borne away downstream aboard a floating barge to the realm of Aṅga.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान् ।  
@@ -1395,6 +1435,14 @@ to go over there, and then those women took him away [to their place in Anga Kin
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 `Hearing those words spoken by all of them, which went straight to his heart, he resolved to go; and the women thereupon led him away.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Ṛśyaśṛṅga enters Aṅga, Parjanya pours down rain; King Romapāda prostrates himself, appeases the sage’s heart, and bestows Princess Śāntā upon him in marriage.
 </details>
 </details>
 

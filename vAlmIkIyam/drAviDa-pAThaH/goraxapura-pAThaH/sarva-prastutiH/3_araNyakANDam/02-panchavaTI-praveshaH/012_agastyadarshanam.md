@@ -26,6 +26,14 @@ Rama, Lakshmana, and Seetha enter the hermitage of Sage Agastya. Sage Agastya is
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa enters Agastya’s hermitage ahead of Rāma and Sītā, introduces the royal exiles to a disciple of the sage, and requests that their arrival be announced.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रविश्याश्रमपदं लक्ष्मणो राघवानुजः ।  
@@ -350,6 +358,14 @@ Entering before that foremost of sages (muni-śreṣṭham), who was unassailabl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya’s disciple announces Rāma, Lakṣmaṇa, and Sītā inside the fire-sanctuary, and the delighted sage commands that the royal guests be ushered into his presence immediately.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रौ दशरथस्येमौ रामो लक्ष्मण एव च ॥ ७ ॥  
@@ -614,6 +630,14 @@ saying that "as you say." [3-12-12b, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hurrying back to Lakṣmaṇa, the disciple escorts Rāma, Sītā, and Lakṣmaṇa into Agastya’s tranquil hermitage, where Rāma beholds the sacred sanctuaries of the Vedic gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा निष्क्रम्य सम्भ्रान्तः शिष्यो लक्ष्मणमब्रवीत् ॥ १३ ॥  
@@ -817,6 +841,14 @@ docile deer. [ 3-12-16b, 17a]
 **16:** —ushered in as was fitting (yathā-nyāyam) him who was worthy of hospitality and well-honored (satkārārhaṃ susatkṛtam). Then Rāma entered together with Sītā and Lakṣmaṇa,
 
 **17:** —beholding the hermitage filled with tranquil deer (praśānta-hariṇākīrṇam). There he [beheld] the sacred sanctuary of Brahmā (brahmaṇaḥ sthānam) and likewise the sanctuary of Agni,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After surveying the remaining divine sanctuaries in the hermitage, Rāma sees Sage Agastya emerging amidst his disciples and reverently clasps the great ascetic’s feet.
 </details>
 </details>
 
@@ -1079,6 +1111,14 @@ Having spoken thus, the mighty-armed delighter of the Raghus (raghu-nandanaḥ) 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Agastya welcomes Rāma, Sītā, and Lakṣmaṇa with forest hospitality, performs the Vaiśvadeva oblation, and explains the sacred duty of an ascetic toward guests.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्य तु धर्मात्मा तस्थौ रामः कृताञ्जलिः ।  
@@ -1324,6 +1364,14 @@ the case with the host, who does not perform his daily chores to entertain his g
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Rāma as the lord of the entire universe and a beloved guest, Agastya presents him with Viṣṇu’s jewelled bow, Brahmā’s unfailing arrow, and Indra’s inexhaustible quivers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा सर्वस्य लोकस्य धर्मचारी महारथः ।  
@@ -1439,6 +1487,14 @@ and then he said this to Rama. [3-12-31]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus and honored Rāghava to his heart’s content (pūjayitvā yathā-kāmam) with fruits, roots, flowers, and other offerings, Agastya then spoke to him:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how Viṣṇu of yore slew the great Asuras with this bow to recover the celestials’ fortune, Agastya bestows the entire divine panoply upon Rāma.
 </details>
 </details>
 

@@ -13,6 +13,14 @@ title = "१०६ लक्ष्मण-मृतिः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Rāma downcast like the eclipsed moon, a serene Lakṣmaṇa urges him to slay him fearlessly to preserve his vow and dharma; breaking his silence, Rāma convenes his ministers and priest to lay the crisis before them.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवाङ्मुखमथो दीनं दृष्ट्वा सोममिवाप्लुतम् ।  
@@ -174,6 +182,14 @@ Beholding Rāghava downcast in face and dejected (avāṅmukham atho dīnam), li
 **5:** Thus addressed by Lakṣmaṇa (lakṣmaṇena tathoktas tu), Rāma, his faculties stirred into motion (pracalitendriyaḥ), summoned his ministers (mantriṇaḥ samupānīya) and likewise his royal priest (tathaiva ca purodhasam),
 
 **6:** and in their midst (teṣāṃ madhye) that Rāghava then recounted what had occurred (abravīc ca tadā vṛttam)—both the arrival of Durvāsas (durvāso-’bhigamaṃ caiva) and the vow made to the ascetic (pratijñāṃ tāpasasya ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the ministers sit stunned in silence, Vasiṣṭha reveals that he had long foreseen this separation and counsels Rāma to relinquish Lakṣmaṇa lest a broken vow destroy dharma and with it the three worlds.
 </details>
 </details>
 
@@ -360,6 +376,14 @@ Hearing that, all the ministers together with the preceptors sat silently (mantr
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of theirs assembled together (teṣāṃ tat samavetānāṃ vākyam), fraught with dharma and right purpose (dharmārtha-saṃhitam), in the midst of the assembly (pariṣado madhye) Rāma spoke to Lakṣmaṇa:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring abandonment equivalent to death for the virtuous, Rāma relinquishes Lakṣmaṇa; walking straight to the Sarayū, Lakṣmaṇa suspends his breath in yoga and is borne bodily to heaven by Indra as Viṣṇu’s fourth portion.
 </details>
 </details>
 

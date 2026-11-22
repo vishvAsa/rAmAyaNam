@@ -29,6 +29,14 @@ both of them.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma’s discourse on statecraft, Bharata replies that by eternal family law a younger son cannot rule while the eldest lives, implores Rāma to return to Ayodhyā for coronation, and breaks the tidings that King Daśaratha has ascended to heaven.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु रामः समाज्ञाय भ्रातरं गुरुवत्सलम् ।  
@@ -260,6 +268,14 @@ account of separation from his son."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “While I was dwelling among the Kekayas and you had repaired to the forest (kekayasthe ca mayi tu tvayi cāraṇyam āśrite), the noble king, a constant performer of sacrifices esteemed by the good, went to heaven (divam āryo gato rājā yāyajūkaḥ satāṃ mataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata relates that no sooner had Rāma departed with Sītā and Lakṣmaṇa than King Daśaratha, stricken with grief and longing to behold him, expired thinking only of him, and urges Rāma to offer the funerary water-libation.
 </details>
 </details>
 

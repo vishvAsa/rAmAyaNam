@@ -26,6 +26,14 @@ unto death.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the roaring southern ocean and springtime blossoms at the foot of Mount Vindhya, the monkeys realize Sugrīva's month has elapsed and sink to the ground in despair.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते ददृशुर्घोरं सागरं वरुणालयम् ।  
@@ -293,6 +301,14 @@ they are frightened of Sugreeva.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Informing one another (prativedya parasparam) that spring had arrived (vasantam anuprāptam), and having lost the purpose of their commissioned time (naṣṭasaṃdeśakālārthāḥ), they sank down upon the surface of the earth (nipetur dharaṇītale).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crown Prince Aṅgada reminds the monkey elders that the month appointed in Āśvayuja has expired inside the cavern and declares that death awaits their unaccomplished mission.
 </details>
 </details>
 
@@ -591,6 +607,14 @@ complacent by keeping the directive of monkey's king incomplete? [4-53-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that the naturally fierce Sugrīva will never pardon their failure, Aṅgada counsels fasting unto death rather than suffering ignominious execution upon returning home.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मिन्नतीते काले तु सुग्रीवेण कृते स्वयम् ।  
@@ -858,6 +882,14 @@ better is death for us right here (śreyān mṛtyur ihaiva naḥ) than an ignom
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing that Rāma consecrated him while Sugrīva harbors old enmity, Aṅgada resolves to fast to death on the seashore, moving the monkeys to lament their doom.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स पूर्वं बद्धवैरो मां राजा दृष्ट्वा व्यतिक्रमम् ॥ १८ ॥  
@@ -1075,6 +1107,14 @@ our assignment, and with a thinking to satisfy Rama Sugreeva wishes to liquidate
 **21:** “Sugrīva is fierce by nature (tīkṣṇaḥ prakṛtyā), and Rāghava is passionately devoted to his beloved (priyāraktaś ca rāghavaḥ); beholding us with our task unaccomplished (akṛtakāryān) now that the appointed time has passed (tasmiṃś ca samaye gate),
 
 **22:** and seeing us returned while Vaidehī remains unseen (adṛṣṭāyāṃ ca vaidehyām), out of a desire to do what is dear to Rāghava (rāghavapriyakāmāya), he will slay [us] without doubt (ghātayiṣyaty asaṃśayam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the terrified monkeys vow either to find Sītā or die, Tāra proposes retreating permanently into Maya's impregnable cavern, winning the eager assent of the troop.
 </details>
 </details>
 

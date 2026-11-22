@@ -35,6 +35,14 @@ re-visit to Seetha and his return to Mount Mahendra.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing upon the peak of Mount Mahendra, the noble Vānaras take their seats while Jāmbavān questions Hanumān regarding his discovery of Sītā, Rāvaṇa's conduct, and their next course of action.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्य गिरेः शृङ्गे महेन्द्रस्य महाबलाः ।  
@@ -296,6 +304,14 @@ salutation to Seetha, the princess, by bowing his head and replied as follows:
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing his head in reverence toward Sītā, Hanumān begins his narrative by recounting his leap from Mount Mahendra and his encounter with the golden peak of Mount Maināka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स नियुक्तस्ततस्तेन सम्प्रहृष्टतनूरुहः ।  
@@ -551,6 +567,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing Hanumān affectionately as his nephew, Mount Maināka recounts how the Wind-god saved his wings from Indra's thunderbolt and pledges his aid to righteous Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यवसायं च तं बुद्‍ध्वा स होवाच महागिरिः ॥ १२ ॥  
@@ -802,6 +826,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘having been cast (prakṣiptaḥ) at that time, O dear child (vatsa), by Māruta into the abode of Varuṇa (varuṇālaye). I must stand in assistance (sāhye vartitavyam) to Rāghava, O tamer of foes (ariṃdama)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taking leave of Maināka, Hanumān speeds across the sky until the serpent-mother Surasā rises from mid-ocean and claims him as her divinely ordained prey.
 </details>
 </details>
 
@@ -1134,6 +1166,14 @@ with Lakshmana, his brother and Seetha entered the forest of Dandaka.'"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Appealing to Surasā in Rāma's name, Hanumān promises to return to her mouth after completing his mission, and when she insists on her boon, he expands his form to match her gaping jaws.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो दाशरथिः श्रीमान् प्रविष्टो दण्डकावनम् ।  
@@ -1404,6 +1444,14 @@ mouth, I assumed a dwarfish form. At that moment, I still became reduced to the 
 **29:** “said: ‘None may pass beyond (nātivarteta) [me]; this is my boon (varaḥ)!’ When thus addressed by Surasā while I was ten yojanas in extent (daśayojanam āyataḥ)—
 
 **30:** “then in an instant (kṣaṇena tu) I became of double that half-measure in breadth (ardhaguṇavistāraḥ); and her mouth was opened wide (vyāditam) by her beyond my measure (matpramāṇādhikam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shrinking to the size of a thumb, Hanumān darts in and out of Surasā's jaws, receives her blessing, and flies on until an unseen force seizes his shadow.
 </details>
 </details>
 
@@ -1697,6 +1745,14 @@ although no concrete configuration is being seen here?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, my speed arrested (vigatavegas tu), gazing toward the ten directions (diśo daśa vilokayan), I saw nothing there whereby my course was obstructed (vihatā gatiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Looking down into the sea, Hanumān spots the roaring demoness Siṃhikā and expands his body beyond the measure of her gaping jaws to set a trap.
 </details>
 </details>
 
@@ -2022,6 +2078,14 @@ leapt back into the sky."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contracting in a flash to tear out Siṃhikā's heart, Hanumān receives the praise of sky-ranging celestials, reaches the southern shore, and enters Laṅkā after sunset.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽहं विपुलं रूपं सङ्क्षिप्य निमिषान्तरात् ।  
@@ -2321,6 +2385,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Subduing the city-goddess Laṅkā with his left fist and receiving her prophecy of victory, Hanumān searches Rāvaṇa's palace all night in vain before sighting the golden-walled Aśoka grove.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जिघांसन्तीं ततस्तां तु ज्वलदग्निशिरोरुहाम् ॥ ४९ ॥  
@@ -2610,6 +2682,14 @@ plants."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaping over the rampart and climbing a great Śiṃśapā tree in the Aśoka grove, Hanumān beholds the emaciated, single-braided Sītā surrounded by cruel Rākṣasīs like a doe among tigresses.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सप्राकारमवप्लुत्य पश्यामि बहुपादपम् ।  
@@ -2816,6 +2896,14 @@ determined to die."
 **59:** “like a doe (hariṇīṃ yathā) [hemmed in] by tigresses (vyāghrībhiḥ) that feed on flesh and blood (māṃsaśoṇitabhakṣyābhiḥ). In the midst of those Rākṣasīs, she was seen by me being menaced (tarjyamānā) again and again—
 
 **60:** “wearing a single braid (ekaveṇīdharā), afflicted (dīnā), wholly absorbed in thoughts of her husband (bhartṛcintāparāyaṇā), having the bare ground for her bed (bhūmiśayyā), her limbs faded in hue like a lotus-plant at the onset of winter (padminīva himāgame).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concealing himself like a bird in the dense foliage of the Śiṃśapā tree, Hanumān watches Rāvaṇa arrive with his queens while Sītā shrinks back in modesty and terror.
 </details>
 </details>
 
@@ -3118,6 +3206,14 @@ waist, sat compressing her thighs enclosing her swollen breasts with her arms."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing at Sītā's feet before threatening to drink her blood in two months if she spurns him, Rāvaṇa is fiercely rebuked by Sītā as a cowardly thief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वित्रस्तां परमोद्विग्नां वीक्ष्यमाणामितस्ततः ।  
@@ -3390,6 +3486,14 @@ sacrifices. He speaks only truth. He is a lover of battle'."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stung by Sītā's scorn, Rāvaṇa flares up like a funeral fire and raises his fist to slay her, but Queen Mandodarī springs forward to restrain him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वं रामस्य सदृशो दास्येऽप्यस्य न युज्यसे ॥ ७३ ॥  
@@ -3619,6 +3723,14 @@ to his palace."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘What use have you for Sītā (sītayā tava kiṃ kāryam), O you of valor equal to Mahendra? Sport with me today (mayā saha ramasvādya); Jānakī is not superior to me (madviśiṣṭā na jānakī)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Led back to his palace by Mandodarī and his consorts, Rāvaṇa departs while the Rākṣasīs menace Sītā in vain until they sink into sleep.
 </details>
 </details>
 
@@ -3944,6 +4056,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the demonesses fall asleep and Sītā weeps in anguish, Trijaṭā awakens to recount her hair-raising prophetic dream and urges the guards to beg Vaidehī for mercy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासु चैव प्रसुप्तासु सीता भर्तृहिते रता ।  
@@ -4254,6 +4374,14 @@ it. My mind could not satisfy itself."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Trijaṭā's dream, bashful Sītā promises protection to the demonesses, while Hanumān devises a plan to win her trust by praising the Ikṣvāku lineage aloud.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सा ह्रीमती बाला भर्तुर्विजयहर्षिता ॥ ९१ ॥  
@@ -4444,6 +4572,14 @@ Placing it foremost (puraskṛtaḥ), the lineage of the house of Ikṣvāku (ik
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 the noble lady (devī), her eyes veiled with tears (bāṣpaiḥ pihitalocanā), replied to me (pratyabhāṣata mām): “Who are you, by whom [sent], and how have you come here (kas tvaṃ kena kathaṃ ceha prāptaḥ), O bull among monkeys (vānarapuṅgava)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān recounts how he introduced himself as Sugrīva's minister, presented Rāma's signet ring, offered to carry Sītā back, and requested a return token after she insisted Rāma slay Rāvaṇa.
 </details>
 </details>
 
@@ -4817,6 +4953,14 @@ Bowing with my head (praṇamya śirasā) to that noble, blameless lady (devīm 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā bestows her crest-jewel along with her oral message for Rāma, and as Hanumān circumambulates her to depart, she warns that she will survive only two months.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ मामब्रवीत् सीता गृह्यतामयमुत्तमः ।  
@@ -5111,6 +5255,14 @@ that garden, thereby longing for a combat."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Should this prove otherwise (yad anyathā bhaved etat), my life will last but two months (dvau māsau jīvitaṃ mama); Kākutstha will not see me (na māṃ drakṣyati kākutsthaḥ), and I shall die like one forlorn (mriye sāham anāthavat).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seized by wrath at Sītā's grief, Hanumān expands his mountain-like form to wreck the Aśoka grove, prompting the awakened demonesses to rush to Rāvaṇa and demand his execution.
 </details>
 </details>
 
@@ -5435,6 +5587,14 @@ having darts and hammers in their hands."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān recounts slaying eighty thousand Kiṅkara demons with an iron bar, demolishing Laṅkā's crowning Caitya palace, and confronting Prahasta's son Jambumālin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राक्षसेन्द्रेण विसृष्टा बहुदुर्जयाः ।  
@@ -5740,6 +5900,14 @@ together with many terrible-formed, terrifying rākṣasas (rākṣasair bahubhi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān narrates how he slew Jambumālin, the ministers' sons, five army commanders, and Rāvaṇa's own son Prince Akṣa by whirling him a hundredfold and crushing him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राक्षसेन्द्रस्तु मन्त्रिपुत्रान् महाबलान् ॥ १२१ ॥  
@@ -5974,6 +6142,14 @@ lusterless, I experienced a great joy."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Furious at Akṣa's death, Rāvaṇa dispatches Indrajit, who, finding his army crushed and Hanumān invincible, binds him with Brahmā's missile before the demons drag him with ropes to Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमक्षमागतं भग्नं निशम्य स दशाननः ।  
@@ -6188,6 +6364,14 @@ Ravana's presence."
 **130:** had been dispatched by Rāvaṇa together with warriors proud with fury (prahito rāvaṇenaiṣa saha vīrair madoddhataiḥ). Realizing that I was irresistible (so'viṣahyaṃ hi māṃ buddhvā) and that his own army had been crushed (svasainyaṃ cāvamarditam),
 
 **131:** he, of exceeding swiftness, bound me with the missile of Brahmā (brahmaṇo'streṇa sa tu māṃ prabaddhvā cātiveginaḥ); and thereupon the rākṣasas there bound me with ropes as well (rajjubhiś cāpi badhnanti tato māṃ tatra rākṣasāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned in court about his mission and the slaughter of the demons, Hanumān declares himself Vāyu's son and Rāma's envoy, delivering Sugrīva's counsel of dharma, profit, and pleasure.
 </details>
 </details>
 
@@ -6500,6 +6684,14 @@ was taken away by Vali) taking Agni the fire-god for a witness.'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘While I was dwelling on Mount Ṛṣyamūka (vasato ṛṣyamūke me parvate), rich in mighty trees (vipuladrume), Rāghava, valiant in battle (rāghavo raṇavikrāntaḥ), entered into friendship with me (mitratvaṃ samupāgataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how Rāma slew Vālin with a single arrow and crowned Sugrīva over the monkeys, Hanumān warns Rāvaṇa to restore Sītā before the monkey hosts crush his army.
 </details>
 </details>
 
@@ -6826,6 +7018,14 @@ the demon doing terrific acts, ordered for my killing."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By whom was this might of the monkeys not known of old (vānarāṇāṃ prabhāvo'yaṃ na kena viditaḥ purā)—they who go even to the presence of the gods when invited [for their aid] (devatānāṃ sakāśaṃ ca ye gacchanti nimantritāḥ)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Glaring as if to burn Hanumān alive, Rāvaṇa orders his execution, but wise Vibhīṣaṇa intervenes on his behalf, citing royal treatises that forbid killing an envoy.
 </details>
 </details>
 
@@ -7157,6 +7357,14 @@ hemp and torn cotton-clothes."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Persuaded by Vibhīṣaṇa, Rāvaṇa has Hanumān's tail wrapped and torched; paraded painless through Laṅkā while surveying the city by day, Hanumān contracts his form and sheds his bonds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विभीषणेनैवमुक्तो रावणः सन्दिदेश तान् ।  
@@ -7446,6 +7654,14 @@ Thereupon, contracting once more my own vast form (tato'haṃ sumahadrūpaṃ sa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Slaying the guards with an iron bar, Hanumān burns Laṅkā like the doomsday fire, then despairs over Sītā's safety until he hears the auspicious voices of celestial Cāraṇas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयसं परिघं गृह्य तानि रक्षांस्यसूदयम् ।  
@@ -7668,6 +7884,14 @@ Thinking thus, overcome with grief (iti śokasamāviṣṭaḥ), I fell into anx
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassured by the Cāraṇas' wondrous words and auspicious omens—the cool fire on his tail, his joyful heart, and fragrant breezes—Hanumān sees Vaidehī once more and takes leave.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मे बुद्धिरुत्पन्ना श्रुत्वा तामद्भुतां गिरम् ॥ १६२ ॥  
@@ -7779,6 +8003,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 my heart was filled with joy (hṛdayaṃ ca prahṛṣṭaṃ me), and the breezes blew fragrant with sweet scents (vātāḥ surabhigandhinaḥ). By those omens of verified meaning (tair nimittaiś ca dṛṣṭārthaiḥ), and by causes of supreme virtue (kāraṇaiś ca mahāguṇaiḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending Mount Ariṣṭa and leaping back across the celestial sky-path, Hanumān attributes his success to Rāma's grace and urges the monkeys to accomplish the remaining task.
 </details>
 </details>
 

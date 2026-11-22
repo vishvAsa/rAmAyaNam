@@ -27,6 +27,14 @@ jewel for the head as a token of remembrance.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Sītā’s modest and resolute reply, the eloquent Hanumān praises her devotion to Rāma and promises to report all her words and conduct faithfully to Kākutstha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स कपिशार्दूलस्तेन वाक्येन तोषितः ।  
@@ -305,6 +313,14 @@ And Kākutstha [Rāma] shall hear everything without remainder (niravaśeṣata�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Explaining that he offered to carry her out of devotion and love for Rāma, Hanumān asks Sītā for a token of recognition, and she tearfully recalls Citrakūṭa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारणैर्बहुभिर्देवि रामप्रियचिकीर्षया ।  
@@ -570,6 +586,14 @@ of remembrance to my beloved husband."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thus addressed by Hanumān, Sītā, resembling a daughter of the gods (sura-sutopamā), spoke gentle words whose syllables were choked with tears (bāṣpa-pragrathitākṣaram):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Addressing Rāma through Hanumān, Sītā recounts how near the Mandākinī at Citrakūṭa a flesh-greedy crow pecked at her until she angrily pulled off her girdle as Rāma laughed.
 </details>
 </details>
 
@@ -852,6 +876,14 @@ was yearning for food, I sought shelter with you."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Laughed at by you (tvayā vihasitā), angry and thoroughly abashed (saṃlajjitā) then, torn by the crow greedy for food (bhakṣya-gṛddhena kākena), I approached you.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consoled by Rāma after her tears, Sītā falls asleep on his lap and he on hers, until the returning crow claws her breast and awakens Rāma with blood-drops.
 </details>
 </details>
 
@@ -1159,6 +1191,14 @@ grievously tormented by the crow."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing me then pecked upon the breasts (vitunnāṃ stanayoḥ), that mighty-armed one (mahā-bāhuḥ), enraged like a venomous serpent (āśīviṣa iva kruddhaḥ), hissing, spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking who dared wound Sītā’s breast, Rāma spots Indra’s son disguised as a crow, charges a blade of darbha grass with the Brahmā-weapon, and hurls it.
 </details>
 </details>
 
@@ -1494,6 +1534,14 @@ He hurled that blazing blade of darbha grass (pradīptaṃ darbham) toward that 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pursued through the three worlds and forsaken by his father and the sages, the crow seeks refuge in Rāma, who spares his life after taking his right eye.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुसृष्टस्तदा काको जगाम विविधां गतिम् ।  
@@ -1770,6 +1818,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having bowed in homage (namaskṛtvā) to Rāma and to King Daśaratha, dismissed by that hero (visṛṣṭas tena vīreṇa), he returned to his own abode (svam ālayam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Contrasting Rāma’s hurling the Brahmā-weapon at a mere crow with his delay in punishing her abductor, Sītā implores the ocean-deep hero to loose his missiles against the rākṣasas.
 </details>
 </details>
 
@@ -2087,6 +2143,14 @@ Neither nāgas nor gandharvas, nor gods nor the hosts of Maruts (marud-gaṇā�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that some grave past transgression of her own must keep Rāma and Lakṣmaṇa from rescuing her, Sītā weeps, and Hanumān swears that Rāma is consumed by grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वीर्यवतः कच्चिद् यद्यस्ति मयि सम्भ्रमः ।  
@@ -2398,6 +2462,14 @@ brothers Rama and Lakshmana the tormentators of enemies, even when capable , are
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassuring Sītā that Rāma and Lakṣmaṇa will soon reduce Laṅkā to ashes and slay Rāvaṇa, Hanumān asks for her message, and she sends greetings to Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथञ्चिद् भवती दृष्टा न कालः परिशोचितुम् ।  
@@ -2661,6 +2733,22 @@ will take you back to his own city."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And when he had spoken thus (ity uktavati tasmin), Sītā then spoke again: “He whom high-minded Kausalyā (kausalyā manasvinī) bore as the supporter of the worlds (loka-bhartāram)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Lakṣmaṇa, who renounced royal pleasures to guard Rāma in the forest and treated her like a mother, Sītā exonerates him for not knowing of her abduction.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Asking Hanumān to greet Lakṣmaṇa and urge Rāma to rescue her, Sītā swears she will live only one more month and begs deliverance like Kauśikī from Pātāla.
 </details>
 </details>
 
@@ -3022,6 +3110,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beyond a month (ūrdhvaṃ māsāt) I shall not live—by truth I tell you (satyenāhaṃ bravīmi te); you ought to rescue me, O hero, held captive through deceit (nikṛtyā) by Rāvaṇa of sinful deeds, as [Nārāyaṇa rescued] Kauśikī from Pātāla (pātālād iva kauśikīm).’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Untying her divine crest-jewel from her garment, Sītā gives it to Hanumān, who places it on his finger, circumambulates her, and prepares for his return journey.
 </details>
 </details>
 

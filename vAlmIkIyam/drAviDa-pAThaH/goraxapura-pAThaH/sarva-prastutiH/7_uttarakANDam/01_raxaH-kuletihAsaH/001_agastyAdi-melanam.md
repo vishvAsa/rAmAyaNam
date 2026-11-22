@@ -12,6 +12,14 @@ title = "००१ अगस्त्यादि-मेलनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following the destruction of the rākṣasas and Rāma’s enthronement, illustrious sages from all four quarters arrive at Ayodhyā to congratulate Rāghava and stand at the palace portal awaiting announcement.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तराज्यस्य रामस्य राक्षसानां वधे कृते ।  
@@ -176,6 +184,14 @@ Nṛṣadgu, Kavaṣa, Dhaumya, and the great sage Raudreya—they too arrived t
 **5:** Vasiṣṭha, Kaśyapa, Atri, Viśvāmitra together with Gautama, Jamadagni, and Bharadvāja—those Seven Sages (saptarṣayaḥ) also arrived, all seven of whom are eternally residents of the northern quarter (udīcyāṃ diśi ... nityam eva nivāsinaḥ).
 
 **6:** Having reached the royal palace of Rāghava (rāghavasya niveśanam), those high-souled ones, radiant as sacrificial fire (hutāśana-sama-prabhāḥ), stood waiting for the doorkeeper (viṣṭitāḥ pratihārārtham)—men learned in the Vedas and Vedāṅgas (veda-vedāṅga-viduṣaḥ) and deeply versed in manifold scriptures (nānā-śāstra-viśāradāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Agastya’s word the royal doorkeeper hastens directly to Rāma to announce the sages’ arrival; joyfully bidding them enter, Rāma rises with joined palms to offer guest-rites and golden seats.
 </details>
 </details>
 
@@ -347,6 +363,14 @@ Having bowed down in self-restraint (abhivādya prayataḥ), Rāma indicated sea
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated upon gold-inlaid chairs cushioned with kuśa grass and deerskins, the sages answer Rāma’s inquiry after their welfare by hailing his effortless triumph over Rāvaṇa and his reunion with Sītā and Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा प्राप्तान् मुनींस्तांस्तु प्रत्युत्थाय कृताञ्जलिः ।  
@@ -514,6 +538,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By good fortune we behold you today victorious together with Sītā (vijayinaṃ tvādya paśyāmaḥ saha sītayā), and with Lakṣmaṇa, O righteous-souled one, your brother ever devoted to your welfare (bhrātrā tvad-dhita-kāriṇā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing to see Rāma reunited with his mothers and brothers, the sages enumerate the fallen rākṣasa titans—Prahasta, Kumbhakarṇa of unequaled bulk, Atikāya, Kumbha, Nikumbha, and Dhūmrākṣa—felled by his death-like shafts.
 </details>
 </details>
 
@@ -709,6 +741,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After congratulating Rāma on defeating Rāvaṇa in single combat, the sages startlingly declare Rāvaṇa’s overthrow as nothing compared to the miraculous slaying of the invincible illusion-wielder Indrajit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युद्धोन्मत्तश्च मत्तश्च कालान्तकयमोपमौ ।  
@@ -861,6 +901,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “These and many other shape-shifting rākṣasa heroes (rākṣasāḥ kāma-rūpiṇaḥ) have by good fortune been slain by you, O increaser of the race of the Raghus (raghūṇāṃ kulavarddhana)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding their blessing upon Rāma for granting the worlds a sacred fee of fearlessness, the sages’ words fill Rāma with wonder; joining his palms, he asks why they praise Rāvaṇi above Rāvaṇa, Kumbhakarṇa, and all other mighty titans.
 </details>
 </details>
 
@@ -1021,6 +1069,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Passing over Atikāya, Triśiras, and the night-roamer Dhūmrākṣa—warriors of mighty valor—why do you exalt Rāvaṇi?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Humbly disclaiming any command and asking only if the matter be no secret, Rāma begs Agastya to reveal Indrajit’s ascetic potency, boons, defeat of Śakra, and why the son surpassed his father Rāvaṇa.
 </details>
 </details>
 

@@ -28,6 +28,14 @@ there.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accompanied by Lakṣmaṇa, Sītā, and the forest sages, Rāma crosses deep rivers to reach the secluded hermitage of Sutīkṣṇa and respectfully announces himself to the meditating ascetic.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्तु सहितो भ्रात्रा सीतया च परन्तपः ।  
@@ -357,6 +365,14 @@ sage, oh, one with truthfulness as your courage, please talk to me..." [3-7-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising from meditation to embrace Rāma, Sutīkṣṇa welcomes him, explains that he delayed his ascent to heaven awaiting Rāma’s arrival, and offers him his celestial realms.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निरीक्ष्य ततो धीरो रामं धर्मभृतां वरम् ।  
@@ -667,6 +683,14 @@ worship it is dedicated in the Supreme...
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In those worlds frequented by divine sages (devarṣi-juṣṭeṣu) and won by me through penance, do you sport (viharasva) through my grace together with your wife and with Lakṣmaṇa!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declining the gift of celestial worlds, Rāma asks Sutīkṣṇa to assign him a forest dwelling; the sage invites him to stay right in his hermitage, noting only the distraction of fearless deer.
 </details>
 </details>
 
@@ -1005,6 +1029,14 @@ deer', say Golden Deer, but not at ordinary deer. Thus this usage of 'deer and l
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Coming to this hermitage of the great-souled one, herds of deer (mṛga-saṃghāḥ), free from all fear (akutobhayāḥ), depart unharmed (ahatvā) after alluring the mind (lobhayitvā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lest slaying the hermitage deer grieve the compassionate Sutīkṣṇa, Rāma declines a prolonged stay, performs his evening twilight devotions, and accepts the sage’s hospitable meal.
 </details>
 </details>
 

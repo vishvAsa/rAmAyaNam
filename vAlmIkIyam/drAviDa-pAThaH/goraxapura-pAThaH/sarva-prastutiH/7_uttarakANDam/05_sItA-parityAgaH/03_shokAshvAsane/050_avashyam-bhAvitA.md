@@ -13,6 +13,14 @@ title = "०५० अवश्यम्-भाविता"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Watching from afar as Sītā enters Vālmīki’s hermitage, a heart-stricken Lakṣmaṇa laments to Sumantra over Rāma’s unbearable sorrow, attributing this separation to insurmountable destiny that even the conqueror of gods and demons obeys.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा तु मैथिलीं सीतामाश्रमे सम्प्रवेशिताम् ।  
@@ -205,6 +213,14 @@ And the greatly resplendent prince (mahātejāḥ) spoke to Sumantra, the minist
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Judging Sītā’s banishment on account of base gossip far crueler than the Daṇḍaka exile and devoid of dharma, Lakṣmaṇa is calmed by Sumantra, who reveals that sages long ago prophesied Rāma’s sorrowful separations before King Daśaratha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो दुःखतरं भूयः सीताया विप्रवासनम् ।  
@@ -357,6 +373,14 @@ Hearing these manifold words spoken by Lakṣmaṇa (lakṣmaṇa-bhāṣitāḥ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Assuredly Rāma shall live mostly in sorrow (bhaviṣyati dṛḍhaṃ rāmo duḥkha-prāyaḥ), even while partaking of joy (api saukhya-bhāk), and the mighty-armed one shall surely suffer separation from his loved ones (viprayogaṃ priyair dhruvam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how the sage Durvāsas foretold before Daśaratha, Vasiṣṭha, and himself that Rāma would eventually part from Sītā and all his brothers, Sumantra recalls the king’s strict command never to divulge this secret in public.
 </details>
 </details>
 
@@ -515,6 +539,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Ever vigilant (susamāhitaḥ), I hold it as my settled conviction (iti me saumya darśanam), O gentle one, that the word of that guardian of the world (tasya ... lokapālasya vākyam) must never at any time be rendered false (naiva jātv anṛtaṃ kāryam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though bound to secrecy by Daśaratha, Sumantra agrees to divulge the secret to dispel Lakṣmaṇa’s grief—charging him never to tell Bharata or Śatrughna—whereupon Lakṣmaṇa urges the charioteer to recount the truth in full.
 </details>
 </details>
 

@@ -29,6 +29,14 @@ The ritual horse released by Emperor Sagara is snatched away by Indra
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to hear the history of his royal forebear, Rāma asks Viśvāmitra how King Sagara performed his great sacrifice in the sacred land of Āryāvarta between the Himavān and Vindhya mountains.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रवचः श्रुत्वा कथान्ते रघुनन्दनः ।  
@@ -272,6 +280,14 @@ Oh, best one among men, Rama, that Vedic-ritual of Sagara started
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the heroic prince Aṃśumān escorts the consecrated Aśvamedha steed, Indra assumes the illusory form of a rākṣasa on the Ukthya parvan day and abducts the sacrificial horse.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि देशो नरव्याघ्र प्रशस्तो यज्ञकर्मणि ।  
@@ -483,6 +499,14 @@ While that ritual-horse of the great-souled Sagara is stolen, all the
 **9:** “—all the assemblies of officiating priests thereupon spoke to the sacrificer (upādhyāyagaṇāḥ sarve yajamānam athābruvan): ‘Here at the very parvan juncture, the sacrificial horse is being swiftly carried away (ayaṃ parvaṇi vegena yajñiyāśvo ’panīyate)!
 
 **10:** “‘Slay the abductor, O Kākutstha, and let the steed be brought back at once (hartāraṃ jahi kākutstha hayaś caivopanīyatām)! This ritual breach in the sacrifice brings calamity upon us all (yajñacchidraṃ bhavaty etat sarveṣām aśivāya naḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Remaining consecrated in the sacrificial hall with his grandson Aṃśumān, King Sagara commands his sixty thousand sons to search the entire ocean-girt earth and excavate it until the horse Thief is found.
 </details>
 </details>
 
@@ -742,6 +766,14 @@ Animated by their father's words those great-mighty princes enthusiastically
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Bound by their father’s command (pitur vacanayantritāḥ), O Rāma, all those mighty princes, their hearts filled with eager zeal (hṛṣṭamanaso rājaputrā mahābalāḥ), set forth across the surface of the earth (jagmur mahītalam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Failing to find the horse on the surface of the earth, the sixty thousand sons of Sagara cleave the globe with thunderbolt-like arms, tridents, and plowshares across sixty thousand yojanas down to Rasātala.
 </details>
 </details>
 
@@ -1020,6 +1052,14 @@ The *jambudwiipa* is a continent according to Hindu mythology
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus excavating Jambūdvīpa, crowded as it was with mountain ranges (evaṃ parvatasaṃbādhaṃ jambūdvīpaṃ khanantaḥ), the king’s sons, O tiger among kings, roamed everywhere in every direction (nṛpātmajāḥ sarvataḥ paricakramuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Terrified by the excavation of the globe and the slaughter of aquatic and subterranean beings, the gods, Gandharvas, Asuras, and Nāgas seek refuge with Pitāmaha Brahmā.
 </details>
 </details>
 

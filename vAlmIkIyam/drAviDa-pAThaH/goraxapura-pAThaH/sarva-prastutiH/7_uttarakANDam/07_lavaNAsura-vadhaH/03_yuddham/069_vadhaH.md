@@ -13,6 +13,14 @@ title = "०६९ वधः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enraged by Śatrughna’s defiance, Lavaṇa slaps his palms, grinds his teeth, and challenges him repeatedly; Śatrughna retorts that he is not cut from the mould of Lavaṇa’s earlier victims and vows that sages and citizens will soon behold the demon slain like Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा भाषितं तस्य शत्रुघ्नस्य महात्मनः ।  
@@ -209,6 +217,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Once you fall today, consumed by my arrows, O night-ranger (tvayi mad-bāṇa-nirdagdhe patite ’dya niśācara), there shall indeed be peace and security in both city and countryside (pure janapade cāpi kṣemam eva bhaviṣyati)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Boasting that his thunderbolt-tipped shaft will pierce Lavaṇa’s heart like a sunbeam entering a lotus, Śatrughna shatters the demon’s volley of uprooted trees and showers him with arrows—only for the unshaken rākṣasa to fell Śatrughna senseless with a single tree-blow to the head.
 </details>
 </details>
 
@@ -416,6 +432,14 @@ Then, bursting into laughter, the mighty Lavaṇa lifted up a tree (tataḥ prah
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As sages and celestials cry out in dismay at Śatrughna’s fall, Lavaṇa scorns him as dead and turns back to his hunted meat instead of fetching his trident; recovering in a moment, Śatrughna rises at the gate and draws the blazing, invincible Vaiṣṇava arrow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् निपतिते वीरे हाहाकारो महानभूत् ।  
@@ -599,6 +623,14 @@ Thunderbolt-tipped and swift as the thunderbolt (vajrānanaṃ vajra-vegam), com
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Terrified by the blood-smeared arrow blazing like the fire of cosmic dissolution, all creatures—gods, asuras, gandharvas, and sages—flock in distress to Brahmā, who calms their dread of universal ruin and prepares to reveal the arrow’s true origin.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असृक्चन्दनदिग्धाङ्गं चारुपत्रं पतत्त्रिणम् ।  
@@ -774,6 +806,14 @@ Hearing those words of theirs (teṣāṃ tad vacanaṃ śrutvā), Brahmā, Gran
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā reveals that the dazzling arrow held by Śatrughna is none other than Viṣṇu’s eternal fiery weapon forged of old to slay Madhu and Kaiṭabha—known fully only to Viṣṇu and embodying his primal form—and bids the gods go watch Rāma’s younger brother slay Lavaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच मधुरां वाणीं शृणुध्वं सर्वदेवताः ।  
@@ -906,6 +946,14 @@ Hearing those words of theirs (teṣāṃ tad vacanaṃ śrutvā), Brahmā, Gran
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the celestials flock to the battlefield and gaze upon the doomsday-bright arrow in Śatrughna’s hand, Śatrughna utters a lion’s roar and summons Lavaṇa back to combat—then draws his bow to his ear and drives the great shaft straight through the demon’s chest into Rasātala.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य ते देवदेवस्य निशम्य वचनं सुराः ॥ ३० ॥  
@@ -1033,6 +1081,14 @@ Challenged once again by that great-souled Śatrughna (āhūtaś ca punas tena �
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Drawing that bow all the way back to his ear (ākarṇāt sa vikṛṣyātha tad dhanur), that foremost of archers (dhanvināṃ varaḥ) loosed that mighty arrow into Lavaṇa’s broad chest (taṃ mumoca mahā-bāṇaṃ lavaṇasya mahorasi); swiftly cleaving his chest open, it plunged straight into Rasātala (uras tasya vidāryāśu praviveśa rasātalam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After plunging into Rasātala, the divine arrow returns swiftly to Śatrughna while Lavaṇa crashes down like a thunderbolt-struck mountain and Śiva’s trident departs back to Rudra; shining like the sun dispelling darkness, Śatrughna is hailed in triumph by gods, sages, nāgas, and apsarases.
 </details>
 </details>
 

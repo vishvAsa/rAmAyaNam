@@ -26,6 +26,14 @@ to his inner apartments, after ordering these assignments.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fallen under the sway of Time, Rāvaṇa angrily spurns Mālyavān's salutary counsel, accusing his grandfather of partiality toward the forest-dwelling mortal Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् तु माल्यवतो वाक्यं हितमुक्तं दशाननः ।  
@@ -339,6 +347,14 @@ or your partiality towards the enemies or my lenience towards you."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 I suspect that harsh words have been spoken to me by you either out of malice toward heroes (vīradveṣeṇa), or out of partiality for the foe, or by way of instigation from the enemy (paraprotsāhanena)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Refusing to surrender Sītā, who resembles Lakṣmī without her lotus, Rāvaṇa boasts that he would rather snap in two than bend to anyone and dismisses Rāma's bridge as mere chance.
 </details>
 </details>
 
@@ -657,6 +673,14 @@ Even if a bridge has been built across the ocean by Rāma by mere chance (yadṛ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing that Rāma will never return alive, Rāvaṇa silences the abashed Mālyavān and deploys Prahasta at the eastern gate and Mahāpārśva and Mahodara at the southern gate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु तीर्त्वार्णवं रामः सह वानरसेनया ।  
@@ -865,6 +889,14 @@ to be examined, set about planning the defense of Lanka.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rāvaṇa the rākṣasa, however, having taken counsel and deliberated with his ministers (sahāmātyaḥ), then caused the defense (guptim) of Laṅkā to be arranged.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stationing Indrajit in the west, Śuka, Sāraṇa, and himself in the north, and Virūpākṣa in the central citadel, Rāvaṇa deems his work complete and retires to his inner apartments.
 </details>
 </details>
 

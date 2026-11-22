@@ -25,6 +25,14 @@ from their hiding cave and Seetha becomes very happy on seeing her victorious an
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having shattered Khara's mace with his shafts, Rāma derides his empty boasts and vows to snatch away his life like Garuḍa seizing the ambrosia.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भित्त्वा तु तां गदां बाणै राघवो धर्मवत्सलः ।  
@@ -343,6 +351,14 @@ garnished with froth and foam. [3-30-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Today the earth shall drink (mahī pāsyati) the blood (śoṇitam), flecked with foam and bubbles (phena-budbuda-bhūṣitam), of you whose throat is cloven (bhinna-kaṇṭhasya) and whose body is rent (vidāritasya) by my arrows!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foretelling that Khara will sleep in the dust while the Daṇḍaka sages roam fearless and the bereaved demonesses flee in tears, Rāma indicts him as a thorn to the brāhmaṇas.
 </details>
 </details>
 
@@ -671,6 +687,14 @@ to their rituals, and countermanding their procedures." Thus Rama spoke to Khara
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Taunting Rāma as a doomed man bound by Time's noose, the furious Khara bites his lip, uproots a massive sāla tree, and hurls it at Rāma with a roar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमेवमभिसंरब्धं ब्रुवाणं राघवं वने ।  
@@ -953,6 +977,14 @@ at him 'you are dead...' [3-30-17b, 18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Heaving it aloft with both arms (taṃ samutkṣipya bāhubhyām) and roaring (vinarditvā), the mighty one hurled it (cikṣepa) aiming at Rāma (rāmam uddiśya), and cried out, “You are slain!” (hatas tvam iti).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shattering the hurtling tree and piercing Khara with a thousand shafts, Rāma steps back two or three paces as the blood-drenched demon charges and draws a fiery arrow like Brahmā's rod.
 </details>
 </details>
 
@@ -1312,6 +1344,14 @@ Then, for the slaying of Khara in battle (vadhāya samare kharasya), Rāma took 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Loosing the thunderous shaft bestowed by Indra, Rāma strikes Khara dead upon the chest like Rudra burning Andhaka, while the gods beat celestial drums and shower flowers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तद् दत्तं मघवता सुरराजेन धीमता ।  
@@ -1532,6 +1572,14 @@ foam and forth, which are neither wet nor dry, to eliminated him.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Slain (hataḥ), Khara fell down (nipapāta) like Vṛtra struck by the thunderbolt (vṛtra iva vajreṇa), or Namuci by the foam (phenena namucir yathā), or Bala smitten by Indra's lightning-bolt (balo vendrāśani-hataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Rāma's Viṣṇu-like valor in slaying fourteen thousand demons, the gods depart, whereupon Agastya and the sages honor Rāma and reveal Indra's design at Śarabhaṅga's hermitage.
 </details>
 </details>
 
@@ -1860,6 +1908,14 @@ expressed their thanksgiving. [3-30-36b, 37a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For the slaying of these foes (eṣāṃ vadhārthaṃ śatrūṇām), the rākṣasas of sinful deeds (rakṣasāṃ pāpa-karmaṇām). That task of ours (tad idaṃ naḥ kāryam) has now been accomplished by you (kṛtaṃ tvayā), O son of Daśaratha!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerging with Lakṣmaṇa from the mountain cave as the victorious Rāma enters the hermitage, Vaidehī rejoices and embraces her unscathed lord again and again.
 </details>
 </details>
 

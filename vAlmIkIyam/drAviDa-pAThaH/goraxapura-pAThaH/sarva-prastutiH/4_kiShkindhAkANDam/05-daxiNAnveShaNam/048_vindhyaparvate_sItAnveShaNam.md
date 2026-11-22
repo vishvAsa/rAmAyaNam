@@ -26,6 +26,14 @@ search became futile at these places.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting forth toward the southern quarter with Tāra and Aṅgada, Hanūmān searches the caverns, crags, and river-fastnesses of the Vindhya range, entering a waterless and desolate wilderness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सह ताराङ्गदाभ्यां तु सहसा हनुमान् कपिः ।  
@@ -278,6 +286,14 @@ water and still less of people, a void and an impenetrable one with a ghastly lo
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Now that vast region, full of caverns and dense thickets (guhā-gahanavān), was hard to search (duranveṣaḥ)—waterless, uninhabited, desolate, impenetrable, and dreadful to behold (ghora-darśanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaving that waterless tract, the fearless monkey chiefs enter the cursed forest of Sage Kaṇḍu, devoid of fruit, water, beasts, birds, and bees.
 </details>
 </details>
 
@@ -616,6 +632,14 @@ fair to behold and fragrant, yet altogether shunned by bees (bhramaraiś ca viva
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Searching the forest cursed by Sage Kaṇḍu after the death of his young son, the monkeys enter another creeper-choked wood and confront a mountain-like Asura fearless of the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तस्मिन् वने पुत्रो बालको दशवार्षिकः ॥ १३ ॥  
@@ -904,6 +928,14 @@ those vanara-s have tightly girthed their wrestler's girdle-cloth. [4-48-18b, 19
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 they beheld an Asura of terrible deeds, fearless of the gods (sura-nirbhayam); beholding that dreadful Asura standing like a mountain (sthitaṃ śailam iva), the monkeys—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mistaking the charging Asura for Rāvaṇa, Aṅgada fells him with a single palm-blow; after searching that cavern and another in vain, the exhausted monkeys sit down dejectedly beneath a tree.
 </details>
 </details>
 

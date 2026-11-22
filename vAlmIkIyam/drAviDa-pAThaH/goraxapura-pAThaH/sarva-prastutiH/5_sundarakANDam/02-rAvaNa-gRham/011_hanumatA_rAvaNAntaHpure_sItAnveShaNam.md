@@ -25,6 +25,14 @@ for Seetha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissing his mistaken impression that Mandodarī is Sītā, Hanumān reflects on Jānakī’s unwavering fidelity to Rāma and resumes searching the banquet hall among Rāvaṇa’s slumbering consorts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवधूय च तां बुद्धिं बभूवावस्थितस्तदा ।  
@@ -300,6 +308,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And [he beheld] other women resting (saṃsthitāḥ) upon muraja drums (murajeṣu), mṛdaṅga tabors (mṛdaṅgeṣu), and celikā instruments (celikāsu), as well as reclining (saṃviṣṭāḥ) upon choice carpets (āstaraṇamukhyeṣu).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Returning from the banquet floor toward Rāvaṇa’s couch, Hanumān beholds a thousand accomplished women slumbering after amorous sport around the demon king, who shines like a bull or royal tusker.
 </details>
 </details>
 
@@ -587,6 +603,14 @@ Surrounded by them (tābhiḥ parivṛtaḥ), that lord of rākṣasas himself s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Re-entering the outer banquet hall, Hanumān surveys golden platters heaped with venison, boar, peacock, porcupine, fish, and savouries seasoned with curds, sauvarcala salt, and sweet-sour syrups.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वकामैरुपेतां च पानभूमिं महात्मनः ।  
@@ -793,6 +817,14 @@ there and there.
 **17:** kṛkala partridges (kṛkalān), various goats (chāgān), half-eaten hares (śaśakān ardhabhakṣitān), buffaloes, single-spined ekaśalya fish (ekaśalyān), and thoroughly roasted rams (meṣāṃś ca kṛtaniṣṭhitān),
 
 **18:** along with diverse confections to be licked (lehyān uccāvacān), beverages to be drunk (peyān), and varied viands (bhojyāni), accompanied by manifold rāga syrups and khāṇḍava sweetmeats (rāgakhāṇḍavaiḥ) piquant with sour and savoury seasonings (amlalavaṇottaṃsaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Strewn with discarded jewelled ornaments, floral offerings, golden pitchers, and crystal goblets, the banquet floor glows without fire alongside spiced meats and fragrant celestial and brewed wines.
 </details>
 </details>
 
@@ -1028,6 +1060,14 @@ Hanuma saw indeed then lot of best quality liquor in pots of silver and of golde
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Covered with garlands (santatā mālyaiḥ) arranged in manifold ways (bahusaṃsthitaiḥ), as well as with golden pitchers (hiraṇmayaiś ca kalaśaiḥ) and crystal vessels (bhājanaiḥ sphāṭikair api), the floor shone brightly (śuśubhe bhūmiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaming past silver and golden jars of sīdhu rum—some brimful, some half-drained—Hanumān observes empty couches and slumbering ladies clasping one another or wrapping themselves in neighbours’ garments.
 </details>
 </details>
 
@@ -1362,6 +1402,14 @@ And many a delicate woman (kācic cābalā), overcome by the power of sleep (nid
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As a fragrant breeze wafts sandal, wine, and incense through Puṣpaka, Hanumān surveys the sleeping women resembling closed night-lotuses across Rāvaṇa’s entire harem, yet finds no trace of Jānakī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासामुच्छ्वासवातेन वस्त्रं माल्यं च गात्रजम् ।  
@@ -1629,6 +1677,14 @@ matter of dharma.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 their beauty (rūpam) was just like that of slumbering lotus-clusters (padminīnāṃ prasuptānām). Thus that monkey of mighty splendour (mahātejāḥ) searched the entire inner apartment of Rāvaṇa (rāvaṇāntaḥpuraṃ) without omission (aśeṣeṇa), yet he did not behold Jānakī (na dadarśa ca jānakīm).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck with moral dread for gazing upon another’s sleeping consorts, Hanumān reflects that the mind governs the senses in merit and sin, and his own heart remains wholly unperturbed.
 </details>
 </details>
 
@@ -1970,6 +2026,14 @@ seen among other women."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For the mind alone is the cause (mano hi hetuḥ) in directing all the senses (sarveṣām indriyāṇāṃ pravartane) amid auspicious and inauspicious states (śubhāśubhāsv avasthāsu); and that mind of mine stands firmly composed (tac ca me suvyavasthitam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reasoning that a lost woman must be sought among women rather than does, Hanumān scrutinises the celestial and nāga maidens with a pure mind before leaving the banquet hall.
 </details>
 </details>
 

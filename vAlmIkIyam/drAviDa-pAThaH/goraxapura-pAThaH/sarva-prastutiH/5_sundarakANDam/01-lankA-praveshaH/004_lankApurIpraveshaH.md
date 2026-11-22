@@ -27,6 +27,14 @@ enemies' forces and moves towards the royal gynaeceum.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having vanquished the guardian deity of Laṅkā by his valor, Hanūmān leaps over the rampart without using the gate, plants his left foot first, and traverses the royal highway.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निर्जित्य पुरीं लङ्कां श्रेष्ठां तां कामरूपिणीम् ।  
@@ -233,6 +241,14 @@ _________________
 **5:** Then that monkey advanced toward that delightful city of Laṅkā, which was heralded by the sounds of musical instruments (tūryaghoṣapuraskṛtaiḥ) and resonant with loud laughter and jubilant cries (hasitotkṛṣṭaninadaiḥ).
 
 **6:** With its cloud-like mansions (gṛhameghaiḥ) resembling thunderbolts and elephant goads (vajrāṅkuśanikāśaiḥ) and adorned with diamond-latticed windows (vajrajālavibhūṣitaiḥ), the lovely city shone like the sky with rain clouds.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moving from mansion to mansion for Rāghava's sake, Hanūmān beholds auspicious palaces built in lotus, svastika, and vardhamāna layouts, and hears celestial music, anklets, and martial challenges.
 </details>
 </details>
 
@@ -563,6 +579,14 @@ As well as the sounds of footsteps upon staircases (sopānaninadān) in the mans
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān hears rākṣasas chanting mantras and Vedic recitations alongside praises of Rāvaṇa, and observes grotesque spies, ascetics, and heavily armed troops in the middle garrison.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्राव जपतां तत्र मन्त्रान् रक्षोगृहेषु वै ।  
@@ -767,6 +791,14 @@ One-eyed (ekākṣān), single-eared (ekakarṇān), with pendulous bellies and 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bowmen (dhanvinaḥ), swordsmen (khaḍginaḥ), warriors armed with śataghnīs and iron clubs (śataghnīmusalāyudhān), and those holding supreme iron bars (parighottamahastān), blazing in variegated armor (vicitrakavacojjvalān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Surveying soldiers of every build and weapon, adorned with garlands and roaming at will, Hanūmān beholds the vigilant hundred-thousand-strong central guard stationed before Rāvaṇa's golden-arched palace.
 </details>
 </details>
 
@@ -1013,6 +1045,14 @@ which was attentive and was positioned there at the command of Ravana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bearing sharp pikes (tīkṣṇaśūladharān) and mighty thunderbolts (vajriṇaś ca mahābalān). The monkey then beheld the vigilant (avyagram) central garrison (ārakṣaṃ madhyamam) of one hundred thousand warriors (śatasāhasram),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāvaṇa's mountain-crested citadel ringed by lotus-filled moats, ramparts, chariots, and four-tusked elephants, Hanūmān enters the heavily guarded inner palace of the rākṣasa lord.
 </details>
 </details>
 

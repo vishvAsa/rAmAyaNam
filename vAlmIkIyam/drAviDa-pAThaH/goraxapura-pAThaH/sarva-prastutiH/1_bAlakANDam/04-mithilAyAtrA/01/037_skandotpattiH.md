@@ -25,6 +25,14 @@ Sage Vishvamitra continues his narration about the earthly course of Ganga, her
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Mahādeva practices severe austerity with Umā, the gods led by Indra and Agni approach Grandsire Brahmā in anxiety to secure their promised commander-in-chief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तप्यमाने तदा देवे सेन्द्राः साग्निपुरोगमाः ।  
@@ -273,6 +281,14 @@ The potence that is stirred from Shiva and given to earth as in last chapter has
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing the words of the deities, the Grandsire of all the worlds (sarvalokapitāmahaḥ), consoling them with sweet words (sāntvayan madhurair vākyaiḥ), spoke thus to the thirty gods:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confirming that Umā’s curse upon their wives is irrevocable, Brahmā reveals that Agni shall beget their foe-vanquishing general in the celestial Gaṅgā, and the gods commission Hutāśana on Mount Kailāsa.
 </details>
 </details>
 
@@ -571,6 +587,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘O Lord Hutāśana of mighty splendor, accomplish this task of the gods (devakāryam idaṃ samādhatsva)! Cast forth that fiery seed into Gaṅgā, the daughter of the Mountain (śailaputryāṃ gaṅgāyāṃ teja utsṛja)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuming a divine form at Agni’s request, Gaṅgā receives the fiery seed throughout her currents; scorched and fainting under its surging heat, she deposits the radiant embryo upon the flank of Himavān.
 </details>
 </details>
 
@@ -875,6 +899,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Gaṅgā extrudes the dazzling embryo from her currents, its spilled effulgence generates gold, silver, copper, iron, tin, and lead, transmuting the entire mountain forest into shining jātarūpa gold.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदस्या निर्गतं तस्मात् तप्तजाम्बूनदप्रभम् ॥ १८ ॥  
@@ -1130,6 +1162,14 @@ The gold has the etymological name of *jaataruupa* 'birth-time-form.'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then the gods together with Indra and the hosts of Maruts (sendrāḥ saha marudgaṇāḥ) appointed the six Kṛttikās to nurse that newborn prince with their milk (kṣīrasambhāvanārthāya kṛttikāḥ samayojayan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forming a solemn pact that the child shall belong equally to them all, the six Kṛttikās bathe the fiery infant slipped from Gaṅgā’s womb—whom the gods name Kārtikeya and Skanda—and he assumes six faces to drink their milk simultaneously.
 </details>
 </details>
 
@@ -1392,6 +1432,14 @@ It is said that each of the six Krittika-stars came forward to give her milk fir
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then the peerless milk of the six Kṛttikās flowed forth (prādurbhūtaṃ tataḥ kṣīraṃ kṛttikānām anuttamam); and becoming six-faced (ṣaḍānano bhūtvā), he drank the milk born of the breasts of all six (ṣaṇṇāṃ jagrāha stanajaṃ payaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drinking their milk in a single day, the youthful Lord vanquishes the Daitya hosts by his own valor and is consecrated by the Agni-led gods as commander of the celestial armies; Viśvāmitra concludes with the phalaśruti of Skanda’s birth.
 </details>
 </details>
 

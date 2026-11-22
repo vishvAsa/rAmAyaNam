@@ -29,6 +29,14 @@ army of demons in all sides.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following the revival of the Vānara host, King Sugrīva commands Hanūmān and the agile monkeys to seize blazing torches at nightfall and set the ramparts and palaces of Laṅkā aflame.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीन्महातेजाः सुग्रीवो वानरेश्वरः ।  
@@ -327,6 +335,14 @@ Highly exhilarated (saṃhṛṣṭāḥ), they hurled fire (sasṛjus te hutā�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The raging conflagration consumes thousands of mansions in Laṅkā, reducing mountain-like palaces, fragrant aloeswood, sandalwood, gems, fine silks, caparisons, and stores of weaponry to ashes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषां गृहसहस्राणि ददाह हुतभुक् तदा ।  
@@ -592,6 +608,14 @@ bow-strings, arrows, lances, goads and javelins were burnt there.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The fire devours arsenals of weapons and the opulent residences of hundreds of thousands of Rākṣasas—whether carousing with wine, slumbering beside their beloveds, or fleeing with their children.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाविधान् गृहांश्चित्रान् ददाह हुतभुक् तदा ॥ १३ ॥  
@@ -687,6 +711,14 @@ and gems and various kinds of stores of arms.
 **16:** who held maces, pikes, and swords in their hands (gadāśūlāsihastānām), even as they were feasting and drinking (khādatāṃ pibatām api), or lying fast asleep (prasuptānām) with their beloveds upon costly couches (śayaneṣu mahārheṣu);
 
 **17:** and who, terror-stricken (trastānām), were hastening away swiftly in every direction (gacchatāṃ tūrṇaṃ sarvataḥ) after snatching up their sons (putrān ādāya)—hundreds of thousands (śatasahasrāṇi) of [the homes of] those inhabitants of Laṅkā
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mansions crowned with golden crescents and rooftop pavilions blaze like lightning-wreathed stormclouds or mountain peaks wrapped in forest fire, while noble women flee screaming without their jewels.
 </details>
 </details>
 
@@ -972,6 +1004,14 @@ seven-storeyed mansions, gave up all connection with their ornaments and screame
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 cast off their sets of ornaments (tyaktābharaṇasaṃyogāḥ) and cried out aloud, “Alas! Alas!” (hāhety uccair vicukruśuḥ); and there even the grand edifices (bhavanāny api) engulfed by fire crashed down (nipetuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ablaze like crimson kiṃśuka trees, Laṅkā becomes a maelstrom of loose elephants and terrified horses while its reflection turns the ocean blood-red like the earth at universal dissolution.
 </details>
 </details>
 
@@ -1269,6 +1309,14 @@ Set ablaze by the monkeys (haribhir dīpitā), that city within an hour (muhūrt
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the shrieks of smoke-choked women echo for a hundred yojanas and Vānaras pounce upon fleeing Rākṣasas, healed Rāma and Lakṣmaṇa twang their bows like wrathful Śiva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारीजनस्य धूमेन व्याप्तस्योच्चैर्विनेदुषः ।  
@@ -1558,6 +1606,14 @@ terror in demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Drawing his mighty bow (dhanur visphārayan mahat), Rāma then shone forth like the wrathful Lord Bhava (bhagavān iva saṃkruddho bhavaḥ) [wielding] his Veda-constituted bow (vedamayaṃ dhanuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma's bowstring twang drowns out the clamor of monkeys and demons while his arrows shatter Laṅkā's Kailāsa-like gateway, prompting Rākṣasa lords to arm and Sugrīva to marshal the gates.
 </details>
 </details>
 
@@ -1876,6 +1932,14 @@ Commanded by the great-souled Sugrīva (ādiṣṭāḥ sugrīveṇa mahātmanā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva decrees summary execution for any deserter, and as torch-bearing Vānaras besiege the gates, an enraged Rāvaṇa dispatches Kumbhakarṇa's sons Kumbha and Nikumbha with veteran Rākṣasa generals.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यश्च वो वितथं कुर्यात् तत्र तत्राप्युपस्थितः ।  
@@ -2151,6 +2215,14 @@ And uttering a lion-roar (siṃhanādaṃ ca nādayan), he commanded all those R
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sallied forth from Laṅkā with blazing weapons, the Rākṣasa host mingles its jewel-radiance with the moon, stars, and burning mansions, illuminating the sky and the rolling ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु चोदितास्तेन राक्षसा ज्वलितायुधाः ।  
@@ -2404,6 +2476,14 @@ And there, with its waters mingled with the gleams (bhābhiḥ saṃsaktasalila�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brandishing pikes, maces, and axes while wafting the scent of garlands and wine, the thunderous Rākṣasa army advances, prompting the Vānara host to roar and leap forward.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पताकाध्वजसंयुक्तमुत्तमासिपरश्वधम् ।  
@@ -2618,6 +2698,14 @@ noise.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 the host of the Vānaras stirred into motion (saṃcacāla plavaṃgānāṃ balam) and roared aloud (uccair nanāda ca); and leaping forward again with speed (javenāplutya ca punaḥ), that mighty army of the Rākṣasas
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Rākṣasa army charges into the enemy host like moths into fire, and in a frenzied melee of trees, boulders, fists, and swords, monkeys and demons slaughter one another.
 </details>
 </details>
 
@@ -2859,6 +2947,14 @@ teeth, their skulls smashed with fists and their limbs broken by crag blows.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Likewise, other night-roamers of terrible aspect (apare ghorarūpā niśācarāḥ) struck down on every side (abhito jaghnuḥ) the foremost of those monkeys (teṣāṃ kapīnāṃ pravarān) with sharp swords (asibhiḥ śitaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trading blow for blow and taunt for taunt, monkeys and Rākṣasas fell each other by sevens and tens until the Vānaras surround the stripped and armorless demon host.
 </details>
 </details>
 

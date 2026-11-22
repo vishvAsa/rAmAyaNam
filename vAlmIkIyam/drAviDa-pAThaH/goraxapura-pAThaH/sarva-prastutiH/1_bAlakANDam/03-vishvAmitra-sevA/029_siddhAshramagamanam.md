@@ -34,6 +34,14 @@ Rama and Lakshmana inquisitively enquired into the Siddhaashrama,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In response to Rāma’s inquiry, Viśvāmitra narrates the ancient history of Siddhāśrama, where Lord Viṣṇu practiced asceticism for hundreds of yugas and where Bali Vairocani conquered the three worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्याप्रमेयस्य वचनं परिपृच्छतः ।  
@@ -239,6 +247,14 @@ Bali is generally addressed Bali Chakravatri, Bali, The Emperor, for
 **4:** “It is celebrated by the name Siddhāśrama (‘the Hermitage of Fulfillment’), for here that Lord of mighty austerity attained fulfillment (siddho hy atra mahātapāḥ). Now at that very time, King Bali, son of Virocana (rājā vairocanir baliḥ),
 
 **5:** “Having vanquished the hosts of the gods together with Indra and the troops of the Maruts (daivatagaṇān sendrān sahamarudgaṇān), ruled over their sovereignty, renowned throughout the three worlds (triṣu lokeṣu viśrutaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Bali commences a grand sacrifice, the gods led by Agni implore Viṣṇu in Siddhāśrama to assume the form of Vāmana, while Maharṣi Kaśyapa and Aditi complete a thousand-year vow to obtain Viṣṇu as their son.
 </details>
 </details>
 
@@ -526,6 +542,14 @@ The ascetic practises conducted along with wife are said to yield best
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the entire universe within Viṣṇu’s body through his perfected penance, Maharṣi Kaśyapa praises the Supreme Person and prays that the Lord be born of Aditi and himself as Indra’s younger brother.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपोमयं तपोराशिं तपोमूर्तिं तपात्मकम् ।  
@@ -805,6 +829,14 @@ On hearing the word of Vishnu sage Kaashyapa, the son of Sage Mariicha
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Become the younger brother of Śakra (bhrātā bhava yavīyāṃs tvaṃ śakrasya), O slayer of Asuras! Deign to render aid to the grief-stricken gods (śokārtānāṃ tu devānāṃ sāhāyyaṃ kartum arhasi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consecrating the grove as Siddhāśrama, Lord Viṣṇu is born of Aditi, begs three paces of land from Bali in the form of Vāmana, restores the triple world to Mahendra, and leaves the hermitage that Viśvāmitra now inhabits in devotion.
 </details>
 </details>
 
@@ -1137,6 +1169,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering Siddhāśrama flanked by Rāma and Lakṣmaṇa like the mist-free Moon conjoined with the twin stars of Punarvasu, Viśvāmitra is joyfully worshiped by the resident ascetics.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य गच्छामहे राम सिद्धाश्रममनुत्तमम् ।  
@@ -1364,6 +1404,14 @@ Those two princes from Raghu's dynasty and the enemy-subjugators, namely
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, having rested for a brief muhūrta (muhūrtam atha viśrāntau), the two royal princes, quellers of their foes and delights of Raghu’s line, joined their palms in reverence and spoke to that tiger among sages (prāñjalī muniśārdūlam ūcatū raghunandanau):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma’s eager request, Viśvāmitra enters upon his sacrificial consecration (dīkṣā) that very day; rising at dawn and completing their morning sandhyā and japa, the two princes salute the consecrated sage.
 </details>
 </details>
 

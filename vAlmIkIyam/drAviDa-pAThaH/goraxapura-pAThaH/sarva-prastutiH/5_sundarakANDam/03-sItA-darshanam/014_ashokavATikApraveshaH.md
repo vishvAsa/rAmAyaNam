@@ -23,6 +23,14 @@ He thinks that Seetha would definitely come to that garden if she were to be ali
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fixing his mind upon Sītā, radiant Hanumān leaps from Rāvaṇa's palace wall onto the enclosure of the Aśoka grove and springs like a loosed arrow into its radiant woodland.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मुहूर्तमिव ध्यात्वा मनसा चाधिगम्य ताम् ।  
@@ -232,6 +240,14 @@ _________________
 **5:** Having entered that variegated [grove] (vicitrāṃ tām), which resounded with birds (vihagair abhināditām) and was surrounded on all sides by silvery and golden trees (rājataiḥ kāñcanaiś caiva pādapaiḥ),—
 
 **6:** —mighty Hanumān (hanumān balī) beheld that [grove], variegated with birds and herds of deer (mṛgasaṅghaiś ca), possessing wondrous woodland thickets (citrakānanām), and shining like the newly risen sun (uditādityasaṃkāśām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Searching through the bird-filled grove, Hanumān startles the sleeping birds with his passage; showered with falling blossoms, he resembles a mountain of flowers or Spring incarnate.
 </details>
 </details>
 
@@ -541,6 +557,14 @@ Beholding the monkey coursing toward all quarters (diśaḥ sarvābhidhāvantam)
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Hanumān's impetuous bounds shake the trees bare of blossoms, leaves, and birds, the earth shines like an adorned lady while the stripped grove resembles defeated gamblers or a disheveled woman.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वृक्षेभ्यः पतितैः पुष्पैरवकीर्णाः पृथग्विधैः ।  
@@ -816,6 +840,14 @@ Bereft of flocks of birds (vihaṃgasaṅghair hīnāḥ) and reduced to having 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaving the shattered trees and torn creeper-festoons behind, Hanumān beholds jeweled, silvery, and golden terraces and crystal-paved pleasure-tanks resounding with water-birds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधूतकेशी युवतिर्  
@@ -1054,6 +1086,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the tanks fed by nectar-sweet streams and an artificial cloud-like mountain, Hanumān sees a cascading river resembling an angry beloved springing from her lover's lap.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घाभिर्द्रुमयुक्ताभिः सरिद्भिश्च समन्ततः ।  
@@ -1271,6 +1311,14 @@ And the monkey beheld a river cascading down from that mountain (nagāt tasmān 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —graced by trees whose tips dipped into the water (jale nipatitāgraiś ca pādapaiḥ), like a wrathful young woman being held back by her dear kinsfolk (vāryamāṇām iva kruddhāṃ pramadāṃ priyabandhubhiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the mountain stream eddy back like a reconciled beloved returning to her lord, Hanumān beholds lotus-ponds, Viśvakarman's palaces, and golden-terraced trees.
 </details>
 </details>
 
@@ -1525,6 +1573,14 @@ together with big platforms and with smaller golden platforms.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —and adorned on all sides with artificial groves (kānanaiḥ kṛtrimaiś cāpi): whatever trees were there, bearing flowers and bearing fruits (puṣpopagaphalopagāḥ),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathed in the golden lustre of Meru-like trees that chime with natural bells, Hanumān climbs a dense-foliaged śiṃśapā tree to watch for grief-stricken Vaidehī.
 </details>
 </details>
 
@@ -1858,6 +1914,14 @@ here and there with grief."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nestled in the śiṃśapā tree, Hanumān reasons that Sītā, fond of woodland rambles and consumed by grief for Rāma, will surely visit this lovely grove and lotus-pond.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोक-वनिका चेयं  
@@ -2106,6 +2170,14 @@ Devi moving about in the garden will come."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘Scorched by grief for Rāma (rāmaśokābhisaṃtaptā), that fair-eyed queen (sā devī vāmalocanā), who ever delights in dwelling in the forest (vanavāsaratā nityam), will come here as a forest-wanderer (eṣyate vanacāriṇī).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding that Sītā will surely come to the auspicious river for her dawn devotions, Hanumān conceals himself within the thick, blossoming foliage of the śiṃśapā tree and keeps watch.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ is killed.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Permitted by Rāma, the swan-yoked Puṣpaka aerial chariot rises roaring into the heavens, and Rāma begins pointing out Laṅkā and the battlefield below to Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहूनि नाम वर्षाणि गतस्य सुमहद्वनम् ।  
@@ -211,6 +219,14 @@ to narrate the entire exploits of Rama in the forest.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Gaze upon this great battlefield (āyodhanam), O Sītā, mired in mud of flesh and blood (māṃsaśoṇitakardamam)—the vast slaughter-ground (viśasanam) of monkeys and night-wandering demons.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma continues pointing out from the sky the sites around Laṅkā where Indrajit, Kumbha, Nikumbha, Makarākṣa, and other mighty rākṣasa champions fell in battle.
 </details>
 </details>
 
@@ -456,6 +472,14 @@ Viradha, a demon, uttering forth a very loud roar.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Here Akampana was slain, and the valorous Śoṇitākṣa; and here Yūpākṣa and Prajaṅgha were both struck down in the great war (mahāhave).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma shows Sītā the place where Mandodarī lamented Rāvaṇa, the landing shore across the sea, Nala's wondrous causeway, and golden Mount Maināka amidst the ocean.
 </details>
 </details>
 
@@ -749,6 +773,14 @@ alone, in a fraction of a quarter of a day."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma shows Sītā the northern shore of Setubandha—where Mahādeva bestowed his grace and Vibhīṣaṇa joined him—and upon reaching Kiṣkindhā, Sītā asks to bring the monkey queens.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाबला महावीर्यास्तपसो विघ्नकारिणः ॥ १९ ॥  
@@ -1004,6 +1036,14 @@ one, with an arrow of curved knots."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 spoke gentle and respectful words (praśritaṃ vākyam) to Rāma with affectionate diffidence (praṇayasādhvasā): “Together with the beloved consorts of Sugrīva headed by Tārā (tārāpramukhataḥ), O king,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granting Sītā's wish that the vānara queens accompany her to Ayodhyā, Rāma halts the Puṣpaka at Kiṣkindhā and directs Sugrīva to summon Tārā and the monkey ladies.
 </details>
 </details>
 
@@ -1297,6 +1337,14 @@ the glorious lord of the monkeys, accompanied by all those [chiefs], swiftly ent
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva instructs Tārā to gather the vānara ladies in accordance with Rāma and Sītā's wish, and the monkey queens joyfully adorn themselves and circumambulate the Puṣpaka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृणवद् भाषितं तस्य तं च नैर्ऋतपुङ्गवम् ॥ ३१ ॥  
@@ -1520,6 +1568,14 @@ advice of Kabandha, Rama of true prowess met Sugreeva, after heading for Mount R
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “and Rāma's entry (praveśam) together with the citizens of the capital and the countryside (paurajānapadaiḥ saha), and the royal splendor (vibhūtim) of all the consorts of Daśaratha!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Once Tārā and the monkey ladies board the Puṣpaka, it rises again into the sky, and Rāma points out Mount Ṛṣyamūka, Lake Pampā, Śabarī's hermitage, and Janasthāna.
 </details>
 </details>
 
@@ -1826,6 +1882,14 @@ communicated to us that Seetha was dwelling in the habitation of Ravana."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma shows Sītā the spot where Jaṭāyu fell fighting Rāvaṇa, the battlefield where Khara and Dūṣaṇa were slain, their cottage at Pañcavaṭī, the Godāvarī, and the hermitages of Agastya and Sutīkṣṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं दुःखपरीतानां दुःखं तज्ज्ञातिनां नुदन् ।  
@@ -2065,6 +2129,14 @@ dying patient would, on drinking the ambrosia."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Flying further north, Rāma points out Śarabhaṅga's hermitage, the spot where Virādha was slain, Atri and Anasūyā's retreat, Mount Citrakūṭa, the Yamunā, and Bharadvāja's āśrama.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्योजयिष्यन्नुद्योगं दध्रे लङ्कावधे मनः ।  
@@ -2297,6 +2369,14 @@ by them. Sages and celestial masters who came there, too gave boons."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Here is seen that lovely River Yamunā with its variegated forests (citrakānanā); and here, O Maithilī, is seen the auspicious hermitage of Bharadvāja (bharadvājāśramaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the Puṣpaka approaches the Gaṅgā, Śṛṅgaverapura, and the Sarayū, Rāma bids Sītā bow to distant Ayodhyā, and the monkeys and rākṣasas leap up in joy to behold the gleaming capital.
 </details>
 </details>
 

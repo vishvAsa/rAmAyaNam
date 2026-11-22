@@ -26,6 +26,14 @@ Vishvamitra narrates the legend of Ahalya to Rama and Lakshmana when
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling at the divine beauty and martial bearing of the two young princes, King Sumati asks Viśvāmitra whose sons they are and why they have traveled on foot along this rugged path.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृष्ट्वा तु कुशलं तत्र परस्परसमागमे ।  
@@ -308,6 +316,14 @@ are an expert in reading faces, know them by their facial expressions...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “And for what purpose have these two best of men, heroic bearers ofexcellent weapons, arrived along this rugged path (kimarthaṃ ca naraśreṣṭhau samprāptau durgame pathi varāyudhadharau vīrau)? I wish to hear this in truth (śrotum icchāmi tattvataḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by King Sumati after Viśvāmitra recounts their deeds at Siddhāśrama, the princes spend the night at Viśālā and reach the outskirts of Mithilā, where Rāma beholds a deserted ancient hermitage.
 </details>
 </details>
 
@@ -613,6 +629,14 @@ Vishvamitra. [1-48-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “What is this place that resembles a hermitage and yet is devoid of sages (idam āśramasaṃkāśaṃ kiṃ nv idaṃ munivarjitam)? I wish to hear, O Venerable Lord: whose hermitage was this of old (śrotum icchāmi bhagavan kasyāyaṃ pūrva āśramaḥ)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing that the hour of Ahalyā’s redemption has arrived, Viśvāmitra recounts how Sage Gautama practiced austerity here with Ahalyā until Indra, disguised as the sage, propositioned her.
 </details>
 </details>
 
@@ -939,6 +963,14 @@ wish to have any progeny of mine from you...
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing the thousand-eyed Indra beneath his ascetic disguise, Ahalyā yields out of curiosity for the king of the gods, then urges him to flee before Gautama returns.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनिवेषं सहस्राक्षं विज्ञाय रघुनन्दन ।  
@@ -1152,6 +1184,14 @@ with her with an uncertainty about the arrival of Sage Gautama. [1-48-22b, 23a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘O fair-hipped lady, I am fully delighted; I shall depart just as I came (suśroṇi parituṣṭo ’smi gamiṣyāmi yathāgatam).’ Having thus united with her then, he stepped forth from the leaf-hut (evaṃ saṅgamya tu tadā niścakrāmoṭajāt tataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confronting the terrified king of the gods at the threshold of the hermitage, the blazing sage Gautama curses Indra for assuming his form, and Indra’s testicles fall to the ground that very instant.
 </details>
 </details>
 
@@ -1369,6 +1409,14 @@ of the cursed Thousand-eyed Indra fell down onto ground at that very moment. [1-
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When the thousand-eyed Indra was thus addressed by the high-souled Gautama in fierce wrath (gautamenaivam uktasya suroṣeṇa mahātmanā), his two testicles fell to the ground that very instant (petatur vṛṣaṇau bhūmau sahasrākṣasya tatkṣaṇāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cursing Ahalyā to dwell unseen in the hermitage for thousands of years, subsisting on wind and lying in ashes until purified by welcoming Daśaratha’s son Rāma, Gautama departs for Himavat.
 </details>
 </details>
 

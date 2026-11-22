@@ -25,6 +25,14 @@ his control. Ravana then goes back to his own house with his consorts.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stung by Sītā’s harsh words, Rāvaṇa replies that only his overpowering passion restrains his wrath, like a skilled charioteer curbing runaway horses, from slaying her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा परुषं राक्षसेश्वरः ।  
@@ -334,6 +342,14 @@ For each and every harsh word (paruṣāṇi vākyāni) that you speak to me, O 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa threatens that if Sītā does not yield within two remaining months, his cooks will mince her for his morning meal; comforted by captive maidens, she replies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु वैदेहीं रावणो राक्षसाधिपः ।  
@@ -635,6 +651,14 @@ Reassured (āśvāsitā) by them, Sītā spoke to Rāvaṇa, the overlord of the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Comparing herself to Śacī and Rāma to a lordly elephant beside Rāvaṇa’s hare, Sītā asks why Rāvaṇa’s cruel eyes do not fall to the earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं न ते जनः कश्चिदस्मिन्निःश्रेयसि स्थितः ।  
@@ -931,6 +955,14 @@ Why have these two cruel, deformed, dark-tawny eyes (kṛṣṇapiṅgale nayane
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā declares that only lack of Rāma’s mandate and preservation of her asceticism keep her from reducing Rāvaṇa to ashes; Rāvaṇa glares at her in fury.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य धर्मात्मनः पत्नी स्नुषा दशरथस्य च ।  
@@ -1223,6 +1255,14 @@ Resembling a dark storm-cloud (nīlajīmūtasaṃkāśaḥ), with massive arms a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Girt with a dark waist-girdle like Mount Mandara coiled by Vāsuki and terrifying like a cremation-ground caitya-tree despite his ornaments, Rāvaṇa hisses at Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चलाग्रमुकुटप्रांशुश्चित्रमाल्यानुलेपनः ।  
@@ -1491,6 +1531,14 @@ Gazing upon Vaidehī with eyes bloodshot with rage (kopasaṃraktalocanaḥ), R�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Threatening to obliterate Sītā as the rising sun dispels twilight, Rāvaṇa commands a grotesque troop of deformed rākṣasī guards to bend her to his will.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनयेनाभिसम्पन्नमर्थहीनमनुव्रते ।  
@@ -1589,6 +1637,14 @@ women with horrible appearances.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus to Maithilī, King Rāvaṇa, who makes his enemies wail (śatrurāvaṇaḥ), then surveyed (saṃdadarśa) [and commanded] all the rākṣasīs of dreadful aspect (ghoradarśanāḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ordering the rākṣasīs to win Sītā over by harsh and gentle means, Rāvaṇa roars at her until the rākṣasī Dhānyamālinī embraces him and begs him to sport with her instead.
 </details>
 </details>
 
@@ -1901,6 +1957,14 @@ arms. This is definite."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 a pale (vivarṇayā), wretched mortal woman (kṛpaṇayā mānuṣyā), O lord of the rākṣasas? Surely, O great king, the gods have not [ordained] for her the supreme enjoyments (bhogasattamān)
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Persuaded by Dhānyamālinī’s counsel that only mutual desire yields true pleasure, Rāvaṇa laughs and retires with his damsels to his sun-bright palace.
 </details>
 </details>
 

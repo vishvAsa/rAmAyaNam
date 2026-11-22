@@ -26,6 +26,14 @@ of honey, meat and fish. He asks Bharata with his army to accept his hospitality
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the ocean-like army encamped along the Gaṅgā and the kovidāra banner on the chariot, the Niṣāda king Guha suspects Bharata of coming to slay Rāma and commands his kinsmen to stand armed along the river-bank.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निविष्टां ध्वजिनीं गङ्गामन्वाश्रितां नदीम् ।  
@@ -332,6 +340,14 @@ Daśaratha’s son Rāma is both my lord and my friend; desiring his welfare, st
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Posting five hundred boats manned by a hundred armed youths each to guard the river-crossing until Bharata’s disposition toward Rāma is known, Guha approaches with gifts of fish, meat, and honey and is announced by Sumantra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठन्तु सर्वदाशाश्च गङ्गामन्वाश्रिता नदीम् ।  
@@ -596,6 +612,14 @@ discipline, humbly told Bharata as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeing him approaching, the radiant son of the charioteer, Sumantra, knowing decorum, respectfully announced him to Bharata (tam āyāntaṃ tu samprekṣya sūta-putraḥ pratāpavān bharatāyācacakṣe 'tha vinayajño vinītavat):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granted an immediate audience by Bharata, Guha bows before him, apologizes for having been caught unawares, and offers his territory together with abundant roots, fruits, and fresh and dried venison for the army’s night halt.
 </details>
 </details>
 

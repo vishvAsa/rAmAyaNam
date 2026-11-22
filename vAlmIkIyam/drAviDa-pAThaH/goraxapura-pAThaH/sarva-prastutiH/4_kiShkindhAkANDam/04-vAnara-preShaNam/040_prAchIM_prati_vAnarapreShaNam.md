@@ -28,6 +28,14 @@ far as Ancient Indian Geography is concerned.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With his monkey hosts fully assembled, King Sugrīva reports to Rāma that countless valorous, shape-shifting Vānara chiefs dwelling across his realm have arrived as obedient servants.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राजा समृद्धार्थः सुग्रीवः प्लवगेश्वरः ।  
@@ -329,6 +337,14 @@ the enemy-repressor, they will be able to discharge whatever task entrusted to t
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “All of them abide by your command (nideśavartinaḥ), and all stand devoted to their master's welfare (guruhite); they will be able to execute your desired purpose, O tamer of foes.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva places his entire monkey army under Rāma's direct command, and Rāma embraces his ally, asking that they first ascertain Sītā's survival and Rāvaṇa's stronghold.
 </details>
 </details>
 
@@ -648,6 +664,14 @@ that time, that too, after deliberating with you. [4-40-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma entrusts full authority over the search to Sugrīva as his wise ally, whereupon Sugrīva summons the mighty general Vinata with a hundred thousand swift monkeys.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाहमस्मिन् प्रभुः कार्ये वानरेन्द्र न लक्ष्मणः ।  
@@ -815,6 +839,14 @@ saadhake svaatantryam aadhaaya kaaryam saadhaniiyam iti suucitam - dk*
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “You are my second friend (suhṛddvitīyaḥ), valorous, wise, and knower of particular times (kālaviśeṣavit); devoted to our welfare, you are a trustworthy friend and supreme knower of practical ends (arthavittamaḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva commands Vinata to search the eastern quarter for Sītā and Rāvaṇa's abode, enumerating the sacred rivers, mountains, and kingdoms of northern and eastern India.
 </details>
 </details>
 
@@ -1134,6 +1166,14 @@ Dasharatha's daughter-in-law Seetha. [4-40-24]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva directs the monkeys to search the oceanic borderlands around Mount Mandara, inhabited by wondrous tribes and island-dwelling Kirātas, and to cross to Yavadvīpa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुद्रमवगाढांश्च पर्वतान् पत्तनानि च ।  
@@ -1318,6 +1358,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Making strenuous effort (yatnavantaḥ), [reach] Yavadvīpa adorned with seven kingdoms, and the island of gold and silver (suvarṇarūpyakadvīpam) decked with gold mines.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beyond Yavadvīpa rises Mount Śiśira touching heaven; Sugrīva instructs the monkeys to cross the sea to the red-watered Śoṇa river and the roaring Sugarcane Ocean.
 </details>
 </details>
 
@@ -1607,6 +1655,14 @@ ghastly. [4-40-36]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Passing the shadow-seizing Asuras of the Sugarcane Ocean and the red Lohita Sea, the monkeys will behold the Kūṭaśālmalī tree, Garuḍa's palace, and the hanging Mandeha Rākṣasas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रासुरा महाकायाश्छायां गृह्णन्ति नित्यशः ।  
@@ -1890,6 +1946,14 @@ about this:
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beyond the Milk Ocean, where white Mount Ṛṣabha and lotus-filled Lake Sudarśana gleam, the monkeys will reach the terrifying Jaloda Sea housing the horse-faced submarine fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पाण्डुरमेघाभं क्षीरोदं नाम सागरम् ॥ ४३ ॥
@@ -2167,6 +2231,14 @@ is detailed in *aadi parva* , First Canto, Maha Bharata.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Past the submarine mare-fire of the Jaloda Sea and golden Mount Jātarūpaśila where thousand-headed Ananta sits beneath his three-crowned palm banner, rises golden Mount Udaya.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्याहुस्तन्महावेगमोदनं सचराचरम् ।  
@@ -2423,6 +2495,14 @@ as the insignia of that great-souled Ananta, and it will be lustrous with a gold
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “That construction (nirmāṇam) in the eastern quarter was fashioned by the lords of the thirty gods; beyond it rises the glorious, golden Mountain of Sunrise (udayaparvataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon Mount Udaya's sky-touching golden summit stands the Saumanasa peak, where Viṣṇu planted his first stride as Trivikrama and where sun-bright Vaikhānasa and Vālakhilya sages shine.
 </details>
 </details>
 
@@ -2758,6 +2838,14 @@ thousand in number as said in Vishnu Purana. Their account is given in the openi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before Peak Saumanasa shines Sudarśana Island, where dawn glows crimson from the golden mountain and the sun; beyond Mount Udaya lies the dark, sunless realm of the gods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं सुदर्शनो द्वीपः पुरो यस्य प्रकाशते ।  
@@ -3076,6 +3164,14 @@ heaven, and everything is imperceivable hedged in oblivion, since it will be voi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Beyond that, the eastern quarter inhabited by the thirty gods (tridaśāvṛtā) is impassable (agamyā), devoid of moon and sun, invisible, and shrouded in darkness.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding the eastern itinerary at Mount Udaya, Sugrīva sets a strict one-month deadline upon pain of death and promises happiness to the monkeys upon discovering Sītā.
 </details>
 </details>
 

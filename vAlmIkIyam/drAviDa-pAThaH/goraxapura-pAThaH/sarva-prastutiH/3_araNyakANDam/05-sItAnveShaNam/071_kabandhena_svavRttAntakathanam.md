@@ -25,6 +25,14 @@ occurs among these two, as each is distrustful of the other.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kabandha recounts how he once possessed a celestial form rivaling the Sun, Moon, and Indra, until Sthūlaśiras cursed him to retain the monstrous disguise in which he terrified the sages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरा राम महाबाहो महाबलपराक्रमम् ।  
@@ -266,6 +274,14 @@ me... [3-71-5b, 6a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Let this very form of yours, so cruel (nṛśaṃsam) and reviled (vigarhitam), remain yours permanently (etad evaṃ te rūpam astu)!’ When I implored (sa mayā yācitaḥ) that wrathful sage that there might be an end to the curse (śāpasyānto bhaved iti)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Identifying himself as the son of Danu, Kabandha explains how after winning longevity from Brahmā he arrogantly challenged Indra, whose thunderbolt drove his head and thighs into his torso without ending his life.
 </details>
 </details>
 
@@ -595,6 +611,14 @@ a time...' [3-71-12b, 13a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kabandha relates how Indra gave him yojana-long arms and a fanged belly-mouth to sustain himself until Rāma and Lakṣmaṇa should sever his limbs in battle, which led him to seize every creature in the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एवमुक्तः शक्रो मे बाहू योजनमायतौ ॥ १३ ॥  
@@ -915,6 +939,14 @@ mangle me... [3-71-18b, 19a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Promising wise counsel and an ally once cremated, Kabandha hears Rāma's plea for news of Rāvaṇa's abode and power as the princes prepare a pyre of dry elephant-broken timbers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं हि मतिसाचिव्यं करिष्यामि नरर्षभ ॥ १९ ॥  
@@ -1229,6 +1261,14 @@ a large trench, we will incinerate you in it... [3-71-24b, 25a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pledging to burn Kabandha in a spacious pit, Rāma asks him to reveal what he knows of Sītā, but Danu replies that he cannot discern her abductor until fire restores his lost divine sight.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं सीतां समाचक्ष्व येन वा यत्र वा हृता ॥ २५ ॥  
@@ -1444,6 +1484,14 @@ is stolen, only after that incineration... [3-71-28b, 29]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For while uncremated (adagdhasya hi), O lord, I have no power to discern (vijñātuṃ śaktir asti na me) that rākṣasa of mighty valour (rākṣasaṃ tu mahā-vīryam) by whom your Sītā was carried off.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that the curse cost him his higher knowledge, Kabandha urges Rāma to cremate him in a pit before sunset so that he may direct him to a righteous ally who has roamed all three worlds.
 </details>
 </details>
 

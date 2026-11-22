@@ -15,6 +15,14 @@ title_english = "035 Sumantra Rails at Kaikeyi"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shaking his head, wringing his hands, and gnashing his teeth with rage, the charioteer Sumantra pierces Kaikeyī’s vitals with thunderbolt-like words, denouncing her as a slayer of her husband and of the royal line.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो **निधूय** सहसा  
@@ -190,6 +198,14 @@ betrayed, Oh, Kaikeyi!"
 **5:** “You by whom your own husband, King Daśaratha, has been cast aside (yasyās tava patis tyaktaḥ)—he who is the lord and sustainer of the entire universe, both stationary and moving (sthāvarasya carasya ca)—
 
 **6:** “Truly there is nothing on earth too base or unrighteous for you to do, O queen (na hy akāryatamaṃ kiṃcit tava devīha vidyate)! I deem you a slayer of your husband (pati-ghnīṃ tvām ahaṃ manye) and, in the end, a destroyer of your entire race (kula-ghnīm api cāntataḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Kaikeyī not to despise her boon-granting husband or subvert the ancient Ikṣvāku law of primogeniture, Sumantra declares that the citizens and Brāhmaṇas will abandon Ayodhyā and follow Rāma.
 </details>
 </details>
 
@@ -456,6 +472,14 @@ act, transgressing the due limits."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Nor will any Brāhmaṇa deign to dwell in your realm (na ca te viṣaye kaścid brāhmaṇo vastum arhati)—so lawless and transgressive a deed are you about to commit today (tādṛśaṃ tvam amaryādam adya karma kariṣyasi)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling that the earth does not split open beneath Kaikeyī or Brahmarṣis’ curses consume her, Sumantra likens her to a bitter neem tree that never yields honey and recalls her mother’s perverse obstinacy.
 </details>
 </details>
 
@@ -772,6 +796,14 @@ quoted in the world saying that honey does not ooze from a neem tree."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “We know of your mother’s perverse obstinacy of old, just as it was heard by tradition (tava mātur asad-grāhaṃ vidma pūrvaṃ yathā śrutam): a certain boon-granting sage once bestowed an unsurpassed boon upon your father (pitus te varadaḥ kaścid dadau varam anuttamam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra recounts how Kaikeyī’s father, the King of Kekaya, understood the speech of all creatures through a sage’s boon, laughed at a creature’s cry on his couch, and was heartlessly pressed by Kaikeyī’s mother to reveal the secret even at the cost of his life.
 </details>
 </details>
 
@@ -1103,6 +1135,14 @@ part correctly reported the matter to the sage who had bestowed the boon on him.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how the Kekaya king banished Kaikeyī’s mother at the sage’s counsel and lived happily like Kubera, Sumantra cites the proverb that daughters take after their mothers and urges Kaikeyī to relent.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स वरदः साधू राजानं प्रत्यभाषत ।  
@@ -1373,6 +1413,14 @@ king. following the desire of your husband, be a protectress to these people her
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imploring Kaikeyī not to let wicked instigators drive her husband into unrighteousness, Sumantra urges that the elder, generous, and mighty Rāma be consecrated lest grave infamy pursue her across the world.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा त्वं प्रोत्साहिता  
@@ -1585,6 +1633,14 @@ leaving his royal father goes to the forest.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For a great reproach against you, O queen, will spread throughout the world (parivādo hi te devi mahāँl loke cariṣyati), if Rāma departs for the forest leaving behind his royal father (yadi rāmo vanaṃ yāti vihāya pitaraṃ nṛpam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra assures Kaikeyī that once Rāma is installed as regent, King Daśaratha himself will retire to the forest in keeping with ancient Ikṣvāku custom; yet despite his alternating gentle and sharp appeals, Kaikeyī remains utterly unmoved.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ The wedding party arrives at Ayodhya on the exit of Parashu Rama. Yudhaajit, the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Paraśurāma departs, serene Śrī Rāma places the Vaiṣṇava bow into Varuṇa’s hand, bows to Vasiṣṭha and his father, and urges the fourfold army to march onward to Ayodhyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते रामे प्रशान्तात्मा रामो दाशरथिर्धनुः ।  
@@ -276,6 +284,14 @@ that he and his sons took a rebirth. [1-77-4, 5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He urged that army forward (codayām āsa tāṃ senām) and swiftly proceeded to the lovely city of Ayodhyā (jagāmāśu tataḥ purīm), adorned with banners and standards (patākādhvajinīṃ ramyām) and resounding with the joyous blasts of musical instruments (tūryodghuṣṭanināditām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Welcomed by citizens and Brāhmaṇas bearing auspicious offerings along flower-strewn highways, King Daśaratha enters his snow-white palace, where Kausalyā, Sumitrā, and Kaikeyī welcome the brides.
 </details>
 </details>
 
@@ -536,6 +552,14 @@ all these waving, flaring, glaring the couples too appeared as the humanly Ritua
 **11:** along with the other royal ladies, busied themselves in the ceremonial reception of the brides (vadhūpratigrahe yuktā yāś cānyā rājayoṣitaḥ). Then the royal queens welcomed the blessed Sītā, the illustrious Ūrmilā,
 
 **12:** and both daughters of Kuśadhvaja (kuśadhvajasute cobhe jagṛhur nṛpayoṣitaḥ), resplendent in silken garments (śobhitāḥ kṣaumavāsasaḥ), with auspicious benedictions and oblations into the sacred fire (maṅgalālāpanair homaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The princesses worship at the palace shrines and delight with their husbands in privacy; soon afterward, Daśaratha informs Bharata that his maternal uncle Yudhājit has come to take him to Kekaya.
 </details>
 </details>
 
@@ -824,6 +848,14 @@ prepared to depart in the company of Śatrughna (gamanāyābhicakrāma śatrughn
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Bharata and Śatrughna depart with Yudhājit to Kekaya, Rāma and Lakṣmaṇa serve their father like a god, while Rāma tends to the citizens, mothers, and preceptors, winning universal love.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युधाजित् प्राप्य भरतं सशत्रुघ्नं प्रहर्षितः ॥ १९ ॥  
@@ -1080,6 +1112,14 @@ and even to all of the living beings in the world, as the Self-Created Brahma. [
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and all the inhabitants of the realm by Rāma’s noble character and conduct (rāmasya śīlavṛttena sarve viṣayavāsinaḥ). Among them all, Rāma of unfailing prowess shone with preeminent glory in the world (teṣām atiyaśā loke rāmaḥ satyaparākramaḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like Svayambhū Brahmā among beings, Rāma shines supreme in virtue and delights for many seasons with Sītā, their hearts speaking to each other until he shines like Lord Viṣṇu united with Śrī.
 </details>
 </details>
 

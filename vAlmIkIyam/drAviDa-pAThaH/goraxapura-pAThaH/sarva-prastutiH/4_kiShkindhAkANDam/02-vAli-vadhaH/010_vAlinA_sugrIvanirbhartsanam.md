@@ -25,6 +25,14 @@ same thinking.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva recounts how he sought to propitiate the furious Vālin upon his return, offering the royal parasol and explaining why he sealed the cavern and re-entered Kiṣkindhā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रोधसमाविष्टं संरब्धं तमुपागतम् ।  
@@ -319,6 +327,14 @@ that is not at my desire, therefore it is apt of you pardon me. [4-10-6b, 7a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 departing (apākramya) from that region, I re-entered Kiṣkindhā; and seeing me here in despondency (viṣādāt), by the citizens and by the ministers alike—’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva explains that he was consecrated against his will only to protect the kingless realm and offers to restore the kingdom as a trust, yet Vālin publicly reviles him.
 </details>
 </details>
 
@@ -624,6 +640,14 @@ and crying ‘Fie upon you!’ (dhik tvām iti) to me, he spoke many harsh words
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Before the assembled court, Vālin recounts how the mighty demon Māyāvin challenged him at night, fled into the great cavern when pursued, and was followed inside while Sugrīva waited.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदितं वो मया रात्रौ मायावी स महासुरः ॥ १३ ॥  
@@ -899,6 +923,14 @@ demon, hence you wait at this cavity's entrance, till I kill that demon and come
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Without slaying (ahatvā) him, I have no resolve (śaktiḥ) to return from here to the city; wait (pratīkṣa) at the mouth of the cavern until I slay him!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vālin narrates how he searched the cavern for a year, slew Māyāvin together with his kinsmen, found the entrance blocked, received no answer from Sugrīva, and kicked through the barrier.
 </details>
 </details>
 
@@ -1218,6 +1250,14 @@ Through many blows of my feet (pādaprahāraiḥ), that [barrier] was battered d
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Finishing his accusation that Sugrīva sealed the cave to usurp the throne, Vālin banishes him with a single garment; Sugrīva takes refuge on Ṛṣyamūka and implores Rāma's grace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रानेनास्मि संरुद्धो राज्यं मृगयताऽऽत्मनः ।  
@@ -1508,6 +1548,14 @@ requested Rama thus. [4-10-30]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 O dispeller of the fear of all the worlds (sarvalokabhayāpaha), O hero, you ought to show grace (prasādam) to me, who live in terror of that Vālin, by subduing him (tasya nigrahāt).’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Smiling in righteous resolve, Rāma vows that his unerring, sun-bright arrows will strike down the wicked Vālin the moment he beholds him, lifting Sugrīva from his ocean of grief.
 </details>
 </details>
 

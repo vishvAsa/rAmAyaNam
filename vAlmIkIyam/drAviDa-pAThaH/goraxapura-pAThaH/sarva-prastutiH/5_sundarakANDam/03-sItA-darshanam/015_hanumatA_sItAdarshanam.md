@@ -23,6 +23,14 @@ Hanuma continues his search in the Ashoka garden for Seetha. He sees an emaciate
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perched in the śiṃśapā tree and scanning the ground in search of Maithilī, Hanumān surveys the Nandana-like Aśoka grove blazing with sunrise-bright blossoms.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वीक्षमाणस् तत्रस्थो  
@@ -240,6 +248,14 @@ With its lovely fruit-bearing trees blossoming in all seasons (sarvartukusumai r
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —stationed there, Māruti gazed upon it (tatrastho mārutiḥ samudaikṣata) as though it were ablaze (pradīptām iva), and as though its branches were repeatedly stripped of leaves by the birds [taking flight] (niṣpatraśākhāṃ vihagaiḥ kriyamāṇām ivāsakṛt),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ablaze with golden, flame-red, and dark-blue aśoka trees bowed under heavy blossoms, the grove surpasses Indra's Nandana and Kubera's Caitraratha like a second star-strewn sky.
 </details>
 </details>
 
@@ -510,6 +526,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In that grove resembling a fifth ocean of blossom-gems and a second Gandhamādana, Hanumān beholds a thousand-pillared Kailāsa-white sanctuary-palace and, beside it, Sītā ringed by rākṣasīs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वर्तुपुष्पैर् निचितं  
@@ -684,6 +708,14 @@ That monkey warrior Hanuma saw not far away in that Ashoka garden, in the middle
 **16:** —beheld nearby a lofty sanctuary-palace (dadarśāvidūrasthaṃ caityaprāsādam ūrjitam), standing in the center upon a thousand pillars and white as Mount Kailāsa (madhye stambhasahasreṇa sthitaṃ kailāsapāṇḍuram),—
 
 **17:** —having steps fashioned of coral (pravālakṛtasopānam) and platforms of refined gold (taptakāñcanavedikam), dazzling the eyes as it were (muṣṇantam iva cakṣūṃṣi) and blazing with splendor (dyotamānam iva śriyā),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān beholds Sītā wasted by fasting and clad in a single soiled yellow garment, resembling a crescent moon, a smoke-shrouded flame, Rohiṇī oppressed by Mars, and a doe ringed by hounds.
 </details>
 </details>
 
@@ -1027,6 +1059,14 @@ Not seeing dear people, seeing groups of demonesses, like a female deer loosing 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing her single dark braid hanging like an autumn forest-line upon the earth, Hanumān recognizes Sītā by her moon-like face, Rati-like beauty, and world-cheering radiance.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नील-नागाभया वेण्या  
@@ -1258,6 +1298,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —that queen who by her radiance rendered all the quarters free of darkness (kurvatīṃ prabhayā devīṃ sarvā vitimirā diśaḥ), dark-throated [from her sapphire necklace], with bimba-red lips, slender-waisted, and well-proportioned (tāṃ nīlakaṇṭhīṃ bimboṣṭhīṃ sumadhyāṃ supratiṣṭhitām),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seated on the bare ground like a female ascetic or a sighing serpent-bride, Sītā resembles doubtful memory, ruined fortune, shattered faith, frustrated hope, and slandered fame.
 </details>
 </details>
 
@@ -1557,6 +1605,14 @@ Like shattered faith, like frustrated hope, like success together with obstacles
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —sighing again and again with a joyless countenance (vadanenāprasannena niḥśvasantīṃ punaḥ punaḥ) whose dark, curving eyelashes were brimming with tears (bāṣpāmbuparipūrṇena kṛṣṇavakrākṣipakṣmaṇā),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Sītā with difficulty like unmemorized Vedic lore or ungrammatical speech, Hanumān confirms her identity by the earrings, śvadaṃṣṭra jewels, and coral-gemmed hand ornaments Rāma had described.
 </details>
 </details>
 
@@ -1867,6 +1923,14 @@ And whatever sets of ornaments upon Vaidehī's limbs Rāma had described at that
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Cross-checking the jewels she still wears against the upper garment and anklets dropped on Ṛṣyamūka, Hanumān concludes beyond doubt that she is Rāma's golden-limbed queen.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्यामानि चिरयुक्तत्वात्  
@@ -2155,6 +2219,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 ‘This golden-limbed lady (iyaṃ kanakavarṇāṅgī) is the beloved queen of Rāma (rāmasya mahiṣī priyā)—that chaste lady who, though lost to sight, never vanishes from his mind (praṇaṣṭāpi satī yasya manaso na praṇaśyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting on Rāma's fourfold torment of compassion, loyalty, grief, and love and the mutual devotion keeping both alive, joyful Hanumān praises Rāma in his heart.
 </details>
 </details>
 

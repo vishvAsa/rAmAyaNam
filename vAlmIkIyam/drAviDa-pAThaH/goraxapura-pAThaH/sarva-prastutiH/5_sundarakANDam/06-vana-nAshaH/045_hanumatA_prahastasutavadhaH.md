@@ -25,6 +25,14 @@ those demons, Hanuma climbs up the archy door-way and takes up his position ther
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Impelled by Rāvaṇa, the seven fire-bright sons of his ministers ride forth in bannered chariots twanging golden bows while their mothers grieve, and rush in rivalry toward Hanūmān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ते राक्षसेन्द्रेण चोदिता मन्त्रिणः सुताः ।  
@@ -265,6 +273,14 @@ who was ready for battle and who stood on the archy gate-way motionless.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Out of mutual rivalry (paraspara-saṃgharṣāt), those warriors decked in ornaments of refined gold (tapta-kāñcana-bhūṣaṇāḥ) rushed upon Hanūmān, who stood poised upon the archway (toraṇastham avasthitam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enveloped in arrow-showers like a mountain in rain, Hanūmān dodges the ministers' sons in the sky like the wind sporting among rainbow-clouds, then smashes them with palms and fists.
 </details>
 </details>
 
@@ -568,6 +584,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That tormentor of foes (paraṃtapaḥ) struck down some with the palm of his hand (talenābhihanat kāṃścit), some with his feet, battered some with his fists (muṣṭibhiś cāhanat), and tore some apart with his claws (nakhaiḥ kāṃścid vyadārayat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crushing the remaining warriors with his chest, thighs, and terrifying roar while their army flees in panic across a blood-streaked battlefield, Hanūmān retakes his post on the archway.
 </details>
 </details>
 

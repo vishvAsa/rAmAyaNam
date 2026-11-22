@@ -27,6 +27,14 @@ to his parents.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Deeming the southern quarter obstructed by the passion and fallout of Triśaṅku’s sacrifice, Viśvāmitra migrates to the western sacred lakes of Puṣkara for fierce penance, even as King Ambarīṣa of Ayodhyā commences a sacrifice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रो महातेजाः प्रस्थितान् वीक्ष्य तानृषीन् ।  
@@ -279,6 +287,14 @@ At that very time (etasminn eva kāle tu), the great lord of Ayodhyā (ayodhyād
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Indra abducts Ambarīṣa’s consecrated sacrificial beast, the officiating priest warns the monarch of the grave fault of royal negligence and enjoins the expiation of either recovering the victim or purchasing a human substitute.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य वै यजमानस्य पशुमिन्द्रो जहार ह ।  
@@ -475,6 +491,14 @@ of cows. [1-61-9]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing the words of his preceptor (upādhyāyavacaḥ śrutvā), that wise king, a bull among men (sa rājā puruṣarṣabhaḥ mahābuddhiḥ), searched for a sacrificial victim, offering cattle by the thousands (anviyeṣa paśuṃ gobhiḥ sahasraśaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the peak of Bhṛgutuṅga, King Ambarīṣa beholds the radiant sage Ṛcīka seated with his wife and sons, and begs to purchase one of his sons for a hundred thousand cows to serve as the sacrificial victim.
 </details>
 </details>
 
@@ -740,6 +764,14 @@ When that great-resplendent Sage Riciika is addressed thus, he said this word,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sage Ṛcīka refuses to sell his eldest son under any circumstance, and his wife refuses to part with her youngest son Śunaka, whereupon the middle son Śunaḥśepa steps forward of his own accord.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋचीकस्य वचः श्रुत्वा तेषां माता महात्मनाम् ॥ १६ ॥  
@@ -951,6 +983,14 @@ way only, their intermediate son, namely Shunashepa, personally spoke this sente
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When that sage had spoken his word, and the sage’s wife likewise (uktavākye munau tasmin munipatnyāṃ tathaiva ca), the middle son, Śunaḥśepa, O Rāma, spoke a word of his own accord (śunaḥśepaḥ svayaṃ rāma madhyamo vākyam abravīt):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Inferring by elimination that the middle son is meant to be sold, Śunaḥśepa offers himself to King Ambarīṣa, who joyfully pays crores of gold, heaps of gems, and a hundred thousand cows and speeds away with him on his chariot.
 </details>
 </details>
 

@@ -29,6 +29,14 @@ morning.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Halting his army a krośa away and laying aside his arms, Bharata walks on foot in silken garments behind Vasiṣṭha into Bharadvāja’s hermitage, where the sage honors them with arghya, pādya, and fruits.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरद्वाजाश्रमं गत्वा क्रोशादेव नरर्षभः ।  
@@ -311,6 +319,14 @@ Having offered them both the arghya oblation and water for the feet, and afterwa
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing Daśaratha has died, Bharadvāja tactfully omits him from his inquiries; after Vasiṣṭha and Bharata ask after the hermitage’s fires, trees, and deer, Bharadvāja questions Bharata’s purpose in coming.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयोध्यायां बले कोशे मित्रेष्वपि च मन्त्रिषु ।  
@@ -521,6 +537,14 @@ for my mind is not getting cleared of doubts."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “What business brings you here while you are ruling the kingdom (kim ihāgamane kāryaṃ tava rājyaṃ praśāsataḥ)? Declare all this to me, for my mind is not at ease (etad ācakṣva me sarvaṃ na hi me śudhyate manaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Bharadvāja asks whether Bharata intends harm to Rāma and Lakṣmaṇa to enjoy the realm unchallenged, Bharata weeps with faltering voice, disavowing Kaikeyī’s plot and declaring he has come to bring Rāma back.
 </details>
 </details>
 
@@ -875,6 +899,14 @@ do a favour for me. Tell me where Rama the Lord of the world is to be found now?
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Knowing me to have come with this intent, you ought to show me grace (tvaṃ mām evaṃ-gataṃ matvā prasādaṃ kartum arhasi); tell me, O venerable sage, where is Rāma, lord of the earth, at present (śaṃsa me bhagavan rāmaḥ kva samprati mahī-patiḥ)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Bharata’s devotion to elders and self-restraint, Bharadvāja explains that he questioned him only to confirm his resolve and enhance his fame, informs him that Rāma dwells on Citrakūṭa, and bids him stay the night.
 </details>
 </details>
 

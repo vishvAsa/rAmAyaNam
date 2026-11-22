@@ -28,6 +28,14 @@ in person.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck with wrath and misgiving lest the radiant monkey be Nandin or Bāṇa in disguise, Rāvaṇa commands his chief minister Prahasta to interrogate him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुद्वीक्ष्य महाबाहुः पिङ्गाक्षं पुरतः स्थितम् ।  
@@ -302,6 +310,14 @@ City and what pursuit he is doing this battle."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Prahasta reassures Hanūmān and asks whether he has been dispatched in monkey disguise by Indra, Kubera, Yama, Varuṇa, or Viṣṇu, promising release for the truth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य वचः श्रुत्वा प्रहस्तो वाक्यमब्रवीत् ।  
@@ -562,6 +578,14 @@ your entry into Ravana's abode."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Disregarding Prahasta and addressing Rāvaṇa directly, Hanūmān denies serving Indra, Kubera, or Viṣṇu and declares that he ruined the grove solely to gain an audience.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा यन्निमित्तस्ते प्रवेशो रावणालये ।  
@@ -698,6 +722,14 @@ _________________
 **14:** “This is indeed my very birth-species (jātir eva mama tveṣā); as a monkey I have come here (vānaro'ham ihāgataḥ) for a sight of the lord of the rākṣasas (darśane rākṣasendrasya). Because that [audience] was hard for me to obtain (tad idaṃ durlabhaṃ mayā),
 
 **15:** “The grove of the king of the rākṣasas was laid waste in order to behold him (darśanārthaṃ vināśitam); and thereupon those mighty rākṣasas arrived eager for battle (balino yuddhakāṅkṣiṇaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing that Brahmā's boon renders him immune to weapon-bonds and that he submitted only to meet the king, Hanūmān announces himself as Rāma's envoy.
 </details>
 </details>
 

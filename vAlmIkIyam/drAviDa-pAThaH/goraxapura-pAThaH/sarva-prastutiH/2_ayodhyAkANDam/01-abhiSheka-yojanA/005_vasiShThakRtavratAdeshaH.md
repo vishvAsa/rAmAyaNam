@@ -25,6 +25,14 @@ anticipating Rama's coronation the next day.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+King Daśaratha dispatches his royal preceptor Vasiṣṭha to initiate Rāma and Sītā into the pre-coronation fast, and Rāma hastens forth from his palace to welcome the sage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्दिश्य रामं नृपतिः श्वोभाविन्यभिषेचने ।  
@@ -298,6 +306,14 @@ the house.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seeking to honor (mānayiṣyan) that sage who was worthy of honor (mānārham) upon his arrival, Rāma came forth from his abode in haste (tvarann iva), filled with reverent eagerness (sasambhramam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma personally assists Vasiṣṭha down from his chariot, and the preceptor initiates Rāma and Sītā into the sacred fast before taking his leave.
 </details>
 </details>
 
@@ -607,6 +623,14 @@ Then the king’s preceptor (rājño guruḥ), having been duly worshiped (yath�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma bids farewell to his companions and retires into his inner apartments, while Vasiṣṭha emerges onto the royal highway surging like an ocean with joyous citizens.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुहृद्भिस्तत्र रामोऽपि सहासीनः प्रियंवदैः ।  
@@ -860,6 +884,14 @@ ocean.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Filled with the joyous roar (harṣasvanavṛtaḥ) arising from the surging collision of human waves (janavṛndormisaṃgharṣa), the tumult (niḥsvanaḥ) of the royal highway then resembled that of the ocean (sāgarasyeva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Festooned with banners and garlands, all Ayodhyā longs impatiently for sunrise and Rāma’s consecration as Vasiṣṭha returns to King Daśaratha’s palace.
 </details>
 </details>
 
@@ -1123,6 +1155,14 @@ white cloud and met king Dasaratha in the manner Brihaspati met Devendra.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Ascending the lofty palace that resembled the peak of a white cloud-mountain (sitābhraśikharaprakhyam), he met (samīyāya) with the lord of men, even as Bṛhaspati meets with Śakra.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha and his assembly rise to honor Vasiṣṭha upon his return, and after learning that the fast has been initiated, the king retires into his inner palace like the moon entering a star-filled sky.
 </details>
 </details>
 

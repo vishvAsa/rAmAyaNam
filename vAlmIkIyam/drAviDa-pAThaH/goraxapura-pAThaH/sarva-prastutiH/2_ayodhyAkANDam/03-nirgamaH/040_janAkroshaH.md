@@ -15,6 +15,14 @@ title_english = "040 Rama s departure from Ayodhya"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma, Sītā, and Lakṣmaṇa reverently circumambulate King Daśaratha and bow to Kausalyā and Sumitrā, whereupon weeping Sumitrā blesses Lakṣmaṇa to serve his elder brother unswervingly in the forest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामश्च सीता च लक्ष्मणश्च कृताञ्जलिः ।  
@@ -336,6 +344,14 @@ control of his elder brother."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Whether he be in adversity or in prosperity (vyasanī vā samṛddho vā), he alone is your refuge and goal (gatir eṣa tava), O sinless one! This is the eternal dharma of the virtuous in the world: that a younger brother should abide under the authority of his elder brother (jyeṣṭha-vaśago bhavet)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling the eternal Ikṣvāku dharma of liberality, sacrifice, and laying down one’s life in battle, Sumitrā utters her immortal farewell—“Know Rāma to be Daśaratha, know Janaka’s daughter to be me, know the forest to be Ayodhyā!”—and Sumantra invites Rāma to mount the chariot.
 </details>
 </details>
 
@@ -662,6 +678,14 @@ the queen, are to be considered having commenced."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Adorned with her father-in-law’s gifts, Sītā joyfully mounts the sun-bright chariot; after weapons, armour, a leather-bound basket, and a spade are stowed aboard, Rāma and Lakṣmaṇa ascend, and as Sumantra drives off, the city faints in grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं रथं सूर्यसङ्काशं सीता हृष्टेन चेतसा ।  
@@ -963,6 +987,14 @@ in the city. There was faintness in the strength of people.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When Rāghava had set out for the great forest for a long sojourn of years (cira-rātrāya), a swoon fell upon the city (babhūva nagare mūrcchā), and a swoon overtook the army and the countryfolk as well (bala-mūrcchā janasya ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With elephants raging and horses neighing, the entire city rushes after Rāma like a heat-parched man toward water; clinging to the chariot, the citizens beg Sumantra to drive slowly and praise Sītā’s shadow-like fidelity.
 </details>
 </details>
 
@@ -1295,6 +1327,14 @@ same way as Mount Meru does not leave the efflugence of sun"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unable to hold back their tears, the following citizens extol Lakṣmaṇa’s blessed service as the path to heaven; meanwhile Daśaratha emerges from the palace surrounded by wailing queens, looking like the full moon eclipsed by Rāhu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो लक्ष्मण सिद्धार्थः सततं प्रियवादिनम् ।  
@@ -1622,6 +1662,14 @@ Then the illustrious King Kākutstha, Rāma’s father, sank down in dejection (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma of unfathomable fortitude urges the charioteer to drive swiftly while the citizens cry “Halt!”, their falling tears laying the road-dust to rest as the weeping city and King Daśaratha collapse in unison like an uprooted tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च श्रीमानचिन्त्यात्मा रामो दशरथात्मजः ।  
@@ -1922,6 +1970,14 @@ And beholding the city absorbed in one single mind of grief (eka-citta-gataṃ p
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A tumult of lamentation rises behind Rāma as the crowd sees the King sinking down; glancing back at his parents following on foot along the road, Rāma—bound by the noose of dharma like a tethered colt—urges his charioteer to speed onward.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो हलहलाशब्दो  
@@ -2186,6 +2242,14 @@ And beholding those two going on foot (padātinau)—who were worthy of carriage
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Like an elephant prodded by goads, Rāma cannot bear the sight of his grieving parents, while Kausalyā runs weeping behind the chariot like a cow whose calf is tied, and Sumantra’s heart is caught as if between two whirling wheels.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि तत् पुरुषव्याघ्रो दुःखजं दर्शनं पितुः ।  
@@ -2411,6 +2475,14 @@ way) Sumantra's mind became confused, as in between two (opposing) whirl pools.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Halt!” cried the King aloud (tiṣṭheti rājā cukrośa); “Drive on, drive on!” said Rāghava (yāhi yāhīti rāghavaḥ); and Sumantra’s heart became as though caught between two wheels (sumantrasya babhūvātmā cakrayor iva cāntarā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Instructing Sumantra to tell the King he did not hear his cries since prolonging sorrow is worst of all, Rāma speeds away; counselled by his ministers not to follow far behind one whose return is desired, Daśaratha halts with Kausalyā to gaze after his son.
 </details>
 </details>
 

@@ -24,6 +24,14 @@ to cross the ocean.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanūmān's faithful report at the opening of the Yuddhakāṇḍa, Rāma praises his unmatched leap across the ocean and entry into Rāvaṇa's heavily guarded citadel of Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा हनूमतो वाक्यं यथावदभिभाषितम् ।  
@@ -334,6 +342,14 @@ strength corresponding to his pace."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma classifies servants into supreme, middling, and base according to how they execute their master's commission, declaring that Hanūmān's discovery of Vaidehī has preserved the entire house of Raghu.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो हि भृत्यो नियुक्तः सन् भर्त्रा कर्मणि दुष्करे ।  
@@ -598,6 +614,14 @@ too, have been rightly saved today."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieved that he currently possesses no material reward equal to Hanūmān's service, Rāma bestows his own all-surpassing embrace upon the hero and then ponders the ocean crossing.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तु मम दीनस्य मनो भूयः प्रकर्षति ।  
@@ -805,6 +829,14 @@ Sugriva the ruler of monkeys too listening attentively.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having reflected awhile (dhyātvā), the noblest of the Raghus (raghusattamaḥ) once again spoke these words, while Sugrīva, lord of the monkeys (harīṇām īśvarasyāpi), listened closely nearby (upaśṛṇvataḥ):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though Sītā's whereabouts have been thoroughly discovered, Rāma despairs over how the assembled monkey armies will cross the vast southern ocean, and sinks into anxious meditation.
 </details>
 </details>
 

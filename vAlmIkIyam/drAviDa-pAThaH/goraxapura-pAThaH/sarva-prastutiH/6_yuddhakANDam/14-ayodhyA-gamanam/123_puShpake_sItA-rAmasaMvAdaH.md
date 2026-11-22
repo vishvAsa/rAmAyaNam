@@ -28,6 +28,14 @@ hermitage of Bharadwaja, Ganga-river, Sarayu-river and finally the City of Ayodh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Daśaratha departs, Mahendra invites Rāma to choose a boon, and Rāghava asks that all Vānaras who fell fighting for his sake be restored to life.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुज्ञातं तु रामेण तद् विमानमनुत्तमम् ।  
@@ -327,6 +335,14 @@ Those Vānaras who on my account (matkṛte) were parted from their sons and wiv
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma prays that the slain monkeys and bears rise healed of every wound with unseasonable fruits and pure rivers wherever they dwell, and Indra grants the mighty boon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्युन्माली हतश्चात्र सुषेणेन महात्मना ।  
@@ -586,6 +602,14 @@ Yupaksa and Prajangha were killed."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Great is this boon (mahān ayaṃ varaḥ), O dear one, which has been spoken by you, O best of the Raghus; yet never before have I spoken twice (dvir mayā noktapūrvam), and therefore this shall come to pass (etad bhaviṣyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Indra's word, all the slain monkeys and bears rise up whole and unwounded as if waking from sleep, marvelling as the gods behold Rāma's wish fulfilled.
 </details>
 </details>
 
@@ -890,6 +914,14 @@ passing through the ocean, in order to provide rest and relaxation to Hanuma."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All the Vānaras were struck with wonder (vismitāḥ), exclaiming “What can this be (kiṃ tv etad iti)?”, while all the foremost of the gods beheld Kākutstha with his purpose fully accomplished (paripūrṇārtham).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Rāma and Lakṣmaṇa, the gods urge him to return to Ayodhyā, console Sītā and Bharata, and assume the crown, before departing in their sun-bright aerial cars.
 </details>
 </details>
 

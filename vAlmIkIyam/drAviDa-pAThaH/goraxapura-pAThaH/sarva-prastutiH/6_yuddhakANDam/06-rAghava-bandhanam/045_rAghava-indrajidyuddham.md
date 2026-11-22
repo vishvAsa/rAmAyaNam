@@ -28,6 +28,14 @@ state, the monkeys give way to utter despondence.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeking to locate the concealed Indrajit, Rāma dispatches ten foremost Vānara commanders into the sky, but Rāvaṇa's son checks their advance with mystic shafts from the darkness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तस्य गतिमन्विच्छन् राजपुत्रः प्रतापवान् ।  
@@ -298,6 +306,14 @@ unable to see Indrajit in the darkness, as the sun is obscured when veiled in cl
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Mangled and lacerated by iron shafts (nārācaiḥ kṣatavikṣatāḥ), those Vānaras of dreadful speed could not behold him in the darkness (andhakāre na dadṛśuḥ), like the sun shrouded by clouds (meghaiḥ sūryam ivāvṛtam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Enveloping Rāma and Lakṣmaṇa in serpent-arrows until their bodies bleed like blossoming kiṃśuka trees, the invisible Indrajit boasts that not even Indra can behold or withstand him.
 </details>
 </details>
 
@@ -619,6 +635,14 @@ the region of Yama the Lord of Death."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring in triumph, Indrajit plunges whetted shafts into the vital spots of Rāma and Lakṣmaṇa until the two brothers totter and fall like loosened banners of Indra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु धर्मज्ञौ भ्रातरौ रामलक्ष्मणौ ।  
@@ -908,6 +932,14 @@ Tottering and racked by the piercing of their vital organs (marmabhedena karśit
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With not a finger's breadth of their bodies left unpierced by Indrajit's manifold shafts, Rāma and Lakṣmaṇa bleed like mountain cascades as Rāma falls first to the ground.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ वीरशयने वीरौ शयानौ रुधिरोक्षितौ ।  
@@ -1181,6 +1213,14 @@ dantas and those shafts like unto razors.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With swift-flying, golden-shafted arrows (rukmapuṅkhaiḥ āśugaiḥ) of burnished tips that coursed like motes of dust (rajogatibhiḥ)—with iron nārācas, ardhanārācas, broad-headed bhallas, añjalikas, calf-toothed vatsadantas, lion-fanged siṃhadaṃṣṭras, and razor-edged kṣuras—he pierced them.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reclining upon his hero's couch beside his shattered bow, Rāma lies immobilized as Lakṣmaṇa despairs of life and the Vānara chiefs gather weeping around the fallen princes.
 </details>
 </details>
 

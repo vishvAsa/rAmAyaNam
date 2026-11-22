@@ -24,6 +24,14 @@ monkeys enjoy their well-earned rest.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As tearful Rāma ponders in grief, Kubera, Yama, Indra, Varuṇa, three-eyed Mahādeva, and four-faced Brahmā arrive in sun-bright aerial cars and ask why the Creator of the universe ignores Sītā entering the flames.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिप्रयाते काकुत्स्थे महेन्द्रः पाकशासनः ।  
@@ -312,6 +320,14 @@ removed from their sons and wives, be delighted at heart."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Creator of the entire universe (kartā sarvasya lokasya), foremost of the wise, all-pervading Lord (vibhuḥ)! How do you look on with indifference (upekṣase katham) as Sītā falls into the bearer of oblations?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praised by the world-guardians as the primal Creator, the eighth Rudra, and the fifth Sādhya, Rāma replies that he regards himself merely as a mortal son of Daśaratha and asks Brahmā to declare his true reality.
 </details>
 </details>
 
@@ -619,6 +635,14 @@ To Kākutstha speaking thus, Brahmā, foremost of the knowers of Brahman, said: 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Brahmā proclaims Rāma to be the discus-bearing Lord Nārāyaṇa, the single-tusked cosmic Boar, the imperishable Brahman, Viṣvaksena, Kṛṣṇa, Padmanābha, and the Vedic Puruṣa of a thousand horns and a hundred heads.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समुत्तिष्ठन्तु ते सर्वे हता ये युधि राक्षसैः ।  
@@ -856,6 +880,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Performing Indra's deeds, you are Mahendra, lotus-navelled (padmanābhaḥ), the ender of battles; the divine great sages declare you to be the gracious refuge (śaraṇyaṃ śaraṇaṃ ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring Rāma to be the sacrifice, Vaṣaṭkāra, Oṃkāra, the thousand-footed Puruṣa, and cosmic Śeṣa upon the waters, Brahmā reveals that he himself is Rāma's heart and Sarasvatī his tongue.
 </details>
 </details>
 
@@ -1151,6 +1183,14 @@ brother, then instructed all the monkeys to take rest in their respective places
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 I [Brahmā] am your heart, O Rāma, and the goddess Sarasvatī is your tongue; the gods fashioned by Brahmā are the hairs upon your limbs (gātreṣu romāṇi), O Lord!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Celebrating the entire cosmos as Rāma's body—whose eye-closure is night, whose waking is day, whose breath is the Vedas, and whose three strides bound Bali—Brahmā hails him as the Paramātman.
 </details>
 </details>
 

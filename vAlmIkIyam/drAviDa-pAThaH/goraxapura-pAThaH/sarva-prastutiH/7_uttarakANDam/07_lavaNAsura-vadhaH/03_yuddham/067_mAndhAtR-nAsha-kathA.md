@@ -13,6 +13,14 @@ title = "०६७ मान्धातृ-नाश-कथा"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As night advances at the Bhārgava hermitage, Śatrughna asks the sage Cyavana about the might of Lavaṇa and his trident, whereupon the sage begins to recount the fate of the Ikṣvāku emperor Māndhātṛ, who once resolved to conquer heaven itself.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रात्र्यां प्रवृत्तायां शत्रुघ्नो भृगुनन्दनम् ।  
@@ -193,6 +201,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having brought the entire earth under his sway (kṛtvā pṛthivīṃ kṛtsnāṃ śāsane), that lord of the earth (pṛthivī-patiḥ), the king, set forth from here with an enterprise to conquer the realm of the gods (suralokam ito jetum udyogam akaron nṛpaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alarmed as Māndhātṛ vows to claim half of Indra’s throne and realm, Indra meets his presumption with diplomatic irony—challenging whether the king truly holds the entire earth under his sway.
 </details>
 </details>
 
@@ -390,6 +406,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Indra names the rākṣasa Lavaṇa in Madhuvana as the sole rebel against his sway, a humiliated Māndhātṛ returns to earth in silent wrath, marches against Madhu’s son with his full army, and dispatches an envoy to summon him to battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाच सहस्राक्षो लवणो नाम राक्षसः ।  
@@ -562,6 +586,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Lavaṇa devours Māndhātṛ’s envoy on the spot, the enraged emperor rains arrows upon the rākṣasa, only for Lavaṇa to laugh and hurl Śiva’s blazing trident—reducing Māndhātṛ and his entire army to ashes in an instant.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स गत्वा विप्रियाण्याह बहूनि मधुनः सुतम् ।  
@@ -689,6 +721,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thus was that exceedingly great king slain together with his army and mounts (evaṃ sa rājā sumahān hataḥ sa-bala-vāhanaḥ); for the might of that trident, O gentle one, is immeasurable and unsurpassed (śūlasya tu balaṃ saumya aprameyam anuttamam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dispelling any doubt of victory after this awesome account of the trident, Cyavana assures Śatrughna that by intercepting Lavaṇa unarmed at dawn when he goes out to hunt for meat, his triumph and the welfare of the worlds are assured.
 </details>
 </details>
 

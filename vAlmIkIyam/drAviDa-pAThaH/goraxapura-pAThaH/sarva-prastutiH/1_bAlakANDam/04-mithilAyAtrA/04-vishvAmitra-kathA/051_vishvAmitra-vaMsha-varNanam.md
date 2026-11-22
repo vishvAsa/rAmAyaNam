@@ -27,6 +27,14 @@ as has been done by Vishvamitra, will be unbecoming for kings.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thrilled with horripilation at the news of his mother Ahalyā’s liberation and struck with wonder at beholding Rāma, Gautama’s eldest son Śatānanda eagerly questions Viśvāmitra about her redemption.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा विश्वामित्रस्य धीमतः ।  
@@ -316,6 +324,14 @@ of my mother by the Providence as has happened anciently, isn't it![1-51-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O sage of great splendor (mahātejaḥ), was that ancient account (yad vṛttaṃ tat purātanam)—the wicked deed perpetrated against my mother by the god Indra (mama mātur devena duranuṣṭhitam)—related to Rāma (api rāmāya kathitam)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śatānanda asks whether his father Gautama was reunited with his mother and honored Rāma; Viśvāmitra assures him that Ahalyā and Gautama were reunited like Reṇukā and Bhārgava Jamadagni.
 </details>
 </details>
 
@@ -636,6 +652,14 @@ Shataananda spoke these words to Rama. [1-51-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that reassuring speech of the wise Viśvāmitra, Śatānanda of great splendor spoke these words to Rāma:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śatānanda welcomes Rāma, extols Viśvāmitra as an unconquered brahmarṣi and supreme refuge, and begins recounting his royal ancestry from Prajāpati, King Kuśa, and Kuśanābha.
 </details>
 </details>
 
@@ -960,6 +984,14 @@ powerful and verily righteous Kushanaabha. [1-51-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Born as the son of King Gādhi, Viśvāmitra ruled the earth for many thousands of years; once, marching forth with an akṣauhiṇī army, he arrived at the tranquil hermitage of Sage Vasiṣṭha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुशनाभसुतस्त्वासीद् गाधिरित्येव विश्रुतः ।  
@@ -1181,6 +1213,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “graced by gods, Dānavas, Gandharvas, and Kiṃnaras (devadānavagandharvaiḥ kiṃnarair upaśobhitam), filled with tranquil deer (praśāntahariṇākīrṇam), and inhabited by flocks of birds and twice-born sages (dvijasaṅghaniṣevitam);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thronged with brahmarṣis, devarṣis, Vālakhilyas, and Vaikhānasas subsisting on water, air, or fallen leaves, Vasiṣṭha’s hermitage appeared to the mighty King Viśvāmitra like a second world of Brahmā.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ his own army's strength.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Arrayed by the king like an autumnal full-moon night, the monkey host exchanges thunderous roars with Laṅkā's war-drums while Rāma's grieving heart remembers Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा वीरसमिती राज्ञा विरराज व्यवस्थिता ।  
@@ -334,6 +342,14 @@ of Sita and his heart was filled with grief.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding Laṅkā adorned with variegated banners and pennants (citradhvajapatākinīm), the son of Daśaratha went in thought (jagāma manasā) to Sītā with an anguished heart (dūyamānena cetasā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving for Sītā held captive like Rohiṇī eclipsed by Mars, Rāma steadies his heart and points out to Lakṣmaṇa the sky-scraping palaces and breeze-shaken groves of Laṅkā.
 </details>
 </details>
 
@@ -650,6 +666,14 @@ swarm and where the birds are excited with joy."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Behold how the auspicious breeze (śivo 'nilaḥ) sways to and fro (dodhavīti) the thickets thronged with cuckoos (kokilākulakhaṇḍāni), where birds are intoxicated (mattavihaṃgāni) and bees cling motionless (pralīnabhramarāṇi).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dividing the monkey host according to strategic treatises, Rāma assigns Aṅgada, Nīla, Ṛṣabha, Gandhamādana, Jāmbavān, and Sugrīva to the chest, flanks, belly, and rear while taking the head himself.
 </details>
 </details>
 
@@ -978,6 +1002,14 @@ let those three great-souled bear-chiefs (ṛkṣamukhyāḥ) guard the belly (k
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With the monkey host arrayed in its great formation and eager to crush Laṅkā with mountain peaks, Rāma orders Sugrīva to release the captive rākṣasa envoy Śuka.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुविभक्तमहाव्यूहा महावानररक्षिता ।  
@@ -1267,6 +1299,14 @@ Released by Rāma's word after having been sorely tormented by the monkeys (vān
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mocked by Rāvaṇa over his bound and clipped wings, the trembling Śuka explains how the fierce monkeys assaulted him on sight and warns that Rāma has reached Sītā's abode.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणः प्रहसन्नेव शुकं वाक्यमुवाच ह ।  
@@ -1539,6 +1579,14 @@ And that slayer of Virādha, Kabandha, and Khara—Rāma, accompanied by Sugrīv
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that Rāma stands bow in hand with thousands of monkey legions, Śuka urges Rāvaṇa either to restore Sītā or give battle before they reach the ramparts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स कृत्वा सागरे सेतुं तीर्त्वा च लवणोदधिम् ।  
@@ -1792,6 +1840,14 @@ Hearing Śuka's words, Rāvaṇa spoke this reply, his eyes bloodshot with rage 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing never to surrender Sītā even if all the worlds attack him, Rāvaṇa boasts that his blazing arrows will consume Rāma and eclipse his army like the rising sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि मां प्रति युद्धेरन् देवगन्धर्वदानवाः ।  
@@ -2041,6 +2097,14 @@ brilliance of all stars is obscured at the rising of the sun."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 My impetus is like the ocean's (sāgarasyeva me vegaḥ), and my might is like the wind's (mārutasyeva me balam); the son of Daśaratha knows this not (na ca dāśarathir veda), and therefore desires to fight me.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening his bow to a dread lute played with arrow-plectrums across the enemy host, Rāvaṇa boasts that not even Indra, Varuṇa, Yama, or Kubera can overcome him.
 </details>
 </details>
 

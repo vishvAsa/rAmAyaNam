@@ -31,6 +31,14 @@ This chapter is removed from the critical edition and retained by traditional ve
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fleeing swiftly from Janasthāna to Laṅkā, Akampana reports the slaughter of Khara and his army to a wrathful Rāvaṇa, who boasts that his might surpasses Indra, Yama, Viṣṇu, and Death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वरमाणस् ततो गत्वा जनस्थानाद् अकम्पनः ।  
@@ -351,6 +359,14 @@ Death with the virtue of deathliness. [3-31-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trembling before the furious ten-necked king, Akampana begs for an assurance of safety and then describes the lion-framed prince Rāma, who single-handedly slew Khara and Dūṣaṇa in Janasthāna.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वातस्य तरसा वेगं निहन्तुम् अपि चोत्सहे ।  
@@ -636,6 +652,14 @@ serpent. [3-31-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing the words of Akampana, Rāvaṇa, lord of the rākṣasas (rākṣasādhipaḥ), hissed like a lordly serpent (nāgendra iva niḥśvasya) and spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa asks whether Rāma came backed by Indra and the gods, Akampana replies that Rāma and his brother Lakṣmaṇa alone—like wind joined with fire—felled Janasthāna.
 </details>
 </details>
 
@@ -960,6 +984,14 @@ started consuming the demons. [3-31-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Learning how Rāma's arrows turned into five-hooded serpents and how terrified demons saw Rāma everywhere, Rāvaṇa vows to slay him, but Akampana warns of Rāma's cosmic might.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 येन येन च गच्छन्ति राक्षसा भय-कर्षिताः ॥ १९ ॥  
@@ -1219,6 +1251,14 @@ swim, his *matsya* 'Fish...' incarnation is also suggested.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When enraged (kupitaḥ), the illustrious Rāma (mahā-yaśāḥ) is impossible to subdue by valor (asādhyaḥ vikrameṇa); with his arrows he could turn back the current (vegam pariharet) of a river in full flood (āpagāyās tu pūrṇāyāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring Rāma capable of dissolving and recreating the worlds and invincible even to gods and demons, Akampana proposes a fatal stratagem by describing Rāma's peerless wife Sītā.
 </details>
 </details>
 
@@ -1617,6 +1657,14 @@ female -no, then how can there be a woman of her like? [3-31-30]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Urged by Akampana to abduct Sītā by deceiving Rāma in the forest, Rāvaṇa approves the plan and flies in his sun-bright chariot to Mārīca's hermitage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यापहर भार्यां त्वं तं प्रमथ्य महा-वने ।  
@@ -1966,6 +2014,14 @@ Proceeding to a distant hermitage (dūre cāśramaṃ gatvā), he approached the
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honoring Rāvaṇa with a seat and water, Mārīca anxiously asks the reason for his sudden arrival, and Rāvaṇa requests his assistance in abducting Rāma's wife.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं स्वयं पूजयित्वा तु आसनेनोदकेन च ।  
@@ -2209,6 +2265,14 @@ have to render friendly help in kidnapping Rama's wife." [3-31-40]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Render me your assistance (me kuru sācivyam) in carrying off his wife (tasya bhāryāpahāraṇe)!” Hearing the words of the lord of rākṣasas, Mārīca spoke these words:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aghast at Rāvaṇa's proposal, Mārīca denounces the secret enemy who suggested Sītā's abduction and likens Rāma to an unassailable rutting scent-elephant in battle.
 </details>
 </details>
 
@@ -2485,6 +2549,14 @@ of the irrepressible lineage of Raghava-s. [3-31-46]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having his pure lineage and noble birth as his raised trunk-tip (viśuddha-vaṃśābhijanāgra-hasta-), his fiery splendour as his rutting ichor (tejo-madaḥ), and his well-poised arms as his tusks (saṃsthita-dor-viṣāṇaḥ)—that scent-elephant Rāghava (rāghava-gandha-hastī) is not fit even to be gazed upon (udīkṣituṃ neha yuktaḥ) in battle, O Rāvaṇa!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Rāvaṇa neither to rouse the sleeping lion Rāma nor to plunge into the submarine abyss of his battle-might, Mārīca persuades the king to return to Laṅkā.
 </details>
 </details>
 

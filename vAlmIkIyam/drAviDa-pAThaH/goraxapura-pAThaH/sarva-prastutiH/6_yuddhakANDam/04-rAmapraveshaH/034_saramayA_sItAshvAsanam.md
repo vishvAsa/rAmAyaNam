@@ -26,6 +26,14 @@ with his sharp arrows will kill Ravana and take her back to Ayodhya.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gladdening Sītā like rain upon parched earth, Saramā offers to fly unseen across the ocean to carry her message to Rāma, but Sītā gently redirects her to a nearer task.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तां जातसन्तापां तेन वाक्येन मोहिताम् ।  
@@ -310,6 +318,14 @@ from me today the duty that has got to be performed by you for my sake."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “You are able to go to the sky (samarthā gaganaṃ gantum) or even to the netherworld (rasātalam); know today what ought to be done (avagacchādya kartavyam)—what must be done by you on my behalf (kartavyaṃ te mad-antare).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confiding how Rāvaṇa's illusions and the menacing rākṣasī guards keep her in constant dread, Sītā asks Saramā to discover what Rāvaṇa is resolving in council, and Saramā gently wipes her tears.
 </details>
 </details>
 
@@ -633,6 +649,14 @@ follows to Seetha who was speaking as aforesaid:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Touching her face (vadanaṃ tasyāḥ spṛśantī), which was wet with tears (bāṣpa-viklavam), gentle-spoken (mṛdu-bhāṣiṇī) Saramā spoke thus to Sītā, who was speaking so:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Going swiftly to Rāvaṇa's council, Saramā overhears the deliberations of the wicked king and his ministers, and returns to the Aśoka grove where Sītā embraces her and offers a seat.
 </details>
 </details>
 
@@ -975,6 +999,14 @@ Ravana"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Saramā reports that although Rāvaṇa's mother Kaikasī and the aged minister Aviddha earnestly urged him to restore Sītā with honor, Rāvaṇa clings to her like a miser to his wealth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सरमा सीतया वेपमानया ।  
@@ -1259,6 +1291,14 @@ appropriate time.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Though admonished thus in many ways (evaṃ bahu-bodhitaḥ) by the aged counselors (mantra-vṛddhaiḥ) and by his mother (mātrā ca), he cannot bring himself to release you (na tvām utsahate moktum), just as a miser cannot part with his wealth (artham artha-paro yathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāvaṇa will never yield Sītā until slain in battle, Saramā prophesies Rāma's victory just as the earth-shaking roar of the monkey army's drums and conchs strikes terror into Laṅkā.
 </details>
 </details>
 

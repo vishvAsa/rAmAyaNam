@@ -13,6 +13,14 @@ title = "०३४ वालि-जयः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Released by Kārtavīrya Arjuna yet undaunted in pride, Rāvaṇa roams the earth challenging every mighty warrior; arriving at Kiṣkindhā to summon Vālī, he is told by the monkey ministers that Vālī is away performing twilight rites across the four oceans.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अर्जुनेन विमुक्तस्तु रावणो राक्षसाधिपः ।  
@@ -199,6 +207,14 @@ Thereupon the monkey minister Tāra (vānarāmātyas tāraḥ), along with Tār�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having duly worshipped the twilight across all four oceans (caturbhyo ’pi samudrebhyaḥ sandhyām anvāsya), O Rāvaṇa, Vālī returns at this very hour (imaṃ muhūrtam āyāti vālī); therefore wait but a brief moment (tiṣṭha muhūrtakam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing to conch-white heaps of bones left by past challengers, the ministers warn that even ambrosia could not save Rāvaṇa from Vālī; spurning Tāra, Rāvaṇa flies in Puṣpaka to the southern sea and beholds Vālī at twilight prayer.
 </details>
 </details>
 
@@ -394,6 +410,14 @@ There Rāvaṇa beheld Vālī (tatra ... rāvaṇo vālinaṃ dṛṣṭvā), re
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stepping silently down from Puṣpaka to seize Vālī from behind, black-hued Rāvaṇa is glimpsed by chance yet ignored like a hare by a lion; resolving to tuck his foe under his arm across three oceans, Vālī calmly continues chanting Vedic mantras.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पकादवरुह्याथ रावणोऽञ्जनसन्निभः ।  
@@ -583,6 +607,14 @@ Fixing his mind upon this resolve (ity evaṃ matim āsthāya), Vālī kept his 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gauging Rāvaṇa’s proximity by his faint footsteps, Vālī snatches him without even turning around and rockets skyward with Rāvaṇa tucked beneath his arm; though Rāvaṇa claws him and his screaming ministers give chase, Vālī shines aloft like the sun amid clouds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावन्योन्यं जिघृक्षन्तौ हरिराक्षसपार्थिवौ ।  
@@ -769,6 +801,14 @@ Pursued by them as he soared through mid-heaven (anvīyamānas tair vālī ... a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhausted by the wind of Vālī’s limbs, the rākṣasa ministers halt in dismay, for even mighty mountains yield before his path; honored by sky-dwellers, Vālī speeds with Rāvaṇa from the western sea onward toward the northern ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेऽशक्नुवन्तः सम्प्राप्तुं वालिनं राक्षसोत्तमाः ।  
@@ -952,6 +992,14 @@ Having performed twilight worship there, bathed, and chanted his prayers (tasmin
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Bearing him across many thousands of yojanas (bahuyojana-sāhasraṃ vahamāno), that mighty monkey (mahāhariḥ) sped onward swift as the wind and swift as thought (vāyuvac ca manovac ca jagāma), together with his foe (saha śatruṇā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing his twilight prayers at the northern and eastern oceans, Vālī descends weary into Kiṣkindhā’s garden, releases Rāvaṇa from his armpit with amused laughter, and asks who he is; astounded and winded, Rāvaṇa declares his name and defeat.
 </details>
 </details>
 
@@ -1144,6 +1192,14 @@ Filled with immense astonishment (vismayaṃ tu mahad gatvā), his eyes rolling 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling at Vālī’s strength, speed, and poise—rivaled only by thought, wind, and Garuḍa—Rāvaṇa seeks enduring friendship before the sacred fire, pledging that their wives, sons, cities, realms, and every enjoyment shall be held in common.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो बलमहो वीर्यमहो गाम्भीर्यमेव च ।  
@@ -1299,6 +1355,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Wives, sons, capital city, kingdom (dārāḥ putrāḥ puraṃ rāṣṭram), enjoyments, raiment, and fare (bhogācchādana-bhojanam)—all of these shall be held completely undivided between the two of us (sarvam evāvibhaktaṃ nau bhaviṣyati), O lord of monkeys (harīśvara)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kindling the sacred fire, Vālī and Rāvaṇa embrace in sworn brotherhood and enter Kiṣkindhā hand in hand like two lions; after dwelling there a month like Sugrīva, Rāvaṇa departs with his ministers, and Agastya reminds Rāma that even peerless Vālī fell before him like a moth in flame.
 </details>
 </details>
 

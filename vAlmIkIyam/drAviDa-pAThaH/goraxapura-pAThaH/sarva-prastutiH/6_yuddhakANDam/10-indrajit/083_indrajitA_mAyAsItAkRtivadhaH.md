@@ -27,6 +27,14 @@ virtue in life. After consoling Rama, Lakshmana prepares for a fight with Indraj
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing the thunderous din of battle, Rāma dispatches Jāmbavān with his bear host to reinforce Hanūmān at the western gate, where they meet the returning monkeys.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवश्चापि विपुलं तं राक्षसवनौकसाम् ।  
@@ -338,6 +346,14 @@ And beholding on the way that marshaled force of bears (tad ṛkṣa-balam udyat
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching Rāma in anguish, Hanūmān reports that Indrajit has slain Sītā before their very eyes, whereupon Rāma collapses like an uprooted tree and is sprinkled with lotus-scented water.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेन सह सैन्येन सन्निकर्षं महायशाः ।  
@@ -638,6 +654,14 @@ And they sprinkled him (āsiñcan) with waters fragrant with lotuses and water-l
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clasping the stricken Rāma in his arms, Lakṣmaṇa delivers a reasoned discourse questioning the efficacy and reality of Dharma when the righteous suffer and the wicked prosper.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं लक्ष्मणोऽथ बाहुभ्यां परिष्वज्य सुदुःखितः ।  
@@ -934,6 +958,14 @@ Since he is free from disaster (tasya ca vyasanābhāvāt) while disaster has be
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Continuing his dialectical critique, Lakṣmaṇa argues that since the wicked prosper while the virtuous suffer, unseen Dharma—whether momentary action or imperceptible potency—cannot govern destiny.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मेणोपलभेद् धर्ममधर्मं चाप्यधर्मतः ।  
@@ -1203,6 +1235,14 @@ non-existent."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 How can a foe or anything else (param) be reached and struck down by a righteousness whose counteraction is unseen (adṛṣṭa-pratikāreṇa), which is unmanifest (avyaktena), non-existent even while existing (asatā satā), O tormentor of foes?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa urges Rāma to abandon weak reliance on Dharma in favor of heroic might, citing Daśaratha's broken pledge and Indra's sacrifice after slaying Tvaṣṭṛ's son.
 </details>
 </details>
 
@@ -1528,6 +1568,14 @@ Dharma conjoined with ferocious might (adharma-saṃśrito dharmaḥ) destroys [
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Rāma severed the very root of Dharma when he renounced the kingdom, Lakṣmaṇa extols wealth as the fountainhead from which all actions, friends, and virtues flow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम चेदं मतं तात धर्मोऽयमिति राघव ।  
@@ -1799,6 +1847,14 @@ He who has wealth has friends (yasyārthās tasya mitrāṇi); he who has wealth
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his praise of wealth as the basis of all royal virtues and worldly thriving, Lakṣmaṇa laments that Rāma's renunciation of sovereignty has obscured his fortunes like planets in overcast skies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्यार्थाः स च विक्रान्तो यस्यार्थाः स च बुद्धिमान् ।  
@@ -2048,6 +2104,14 @@ days."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Those riches—by the lack of which this world perishes (naśyaty ayaṃ lokaḥ) even for ascetics who practice righteousness (caratāṃ dharma-cāriṇām)—are not seen in you, like planets on overcast days (durdineṣu yathā grahāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reminding Rāma that Sītā was abducted only because he went into exile, Lakṣmaṇa calls upon him to awaken his supreme self and vows to level Laṅkā with his arrows.
 </details>
 </details>
 

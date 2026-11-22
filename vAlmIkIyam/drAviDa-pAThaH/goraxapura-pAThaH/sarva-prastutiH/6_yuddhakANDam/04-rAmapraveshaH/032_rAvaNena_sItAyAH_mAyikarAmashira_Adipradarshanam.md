@@ -27,6 +27,14 @@ army for action against the forces of Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Rāma's eyes, hair, crest-jewel, and bow, and recalling Hanūmān's report of his alliance with Sugrīva, Sītā reproaches Kaikeyī in anguish and collapses like a felled plantain tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा सीता तच्छिरो दृष्ट्वा तच्च कार्मुकमुत्तमम् ।  
@@ -259,6 +267,14 @@ ground like a plantain tree that was cut off.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having spoken thus, the pitiable (tapasvinī) Vaidehī, trembling all over (vepamānā), fell to the earth (jagāma jagatīm), young girl (bālā) that she was, like a severed plantain tree (chinnā tu kadalī yathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reviving from her swoon and drawing near the phantom head, Sītā laments her widowhood, Kausalyā's bereavement like a cow robbed of its calf, and the falsified prophecies of Rāma's longevity.
 </details>
 </details>
 
@@ -580,6 +596,14 @@ A long life (dīrgham āyuḥ) was foretold (uddiṣṭam) for you even by the a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling that all-consuming Time could cloud even Rāma's wisdom, Sītā calls herself the cruel Night of Doom that destroyed him and pictures his reunion with Daśaratha in heaven.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथवा नश्यति प्रज्ञा प्राज्ञस्यापि सतस्तव ।  
@@ -886,6 +910,14 @@ law Dasaratha as well as all the multitude of manes."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Surely (nūnam), O sinless one (anagha), you are now reunited in heaven (svarge samāgataḥ) with your father Daśaratha, my father-in-law (śvaśureṇa mama), together with all your forefathers (pitṛbhiḥ sārdham)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā implores the silent head to speak, reminds Rāma of his marriage vow never to part from her, and weeps that his body lies uncremated by his sacred fires.
 </details>
 </details>
 
@@ -1215,6 +1247,14 @@ Having sacrificed with Vedic rites headed by the Agniṣṭoma (agniṣṭomādi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Picturing Kausalyā's heartbreak when Lakṣmaṇa returns alone, Sītā blames her own past karma and folly for bringing death upon Rāma, who crossed the ocean only to perish in a cow's hoofprint.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रव्रज्यामुपपन्नानां त्रयाणामेकमागतम् ।  
@@ -1532,6 +1572,14 @@ Surely in another birth (anyāṃ jātim) some supreme gift (dānam uttamam) was
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā begs Rāvaṇa to slay her upon Rāma's remains so she may follow her husband, just as an army guard enters with folded hands to announce Prahasta's urgent arrival.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु घातय मां क्षिप्रं रामस्योपरि रावण ।  
@@ -1793,6 +1841,14 @@ Having bowed in salutation (abhivādya) with the words, “Be victorious, O nobl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoned by Prahasta's urgent message, Rāvaṇa leaves the Aśoka grove to confer with his ministers, and the moment he departs, the phantom head and bow vanish into thin air.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अमात्यैः सहितः सर्वैः प्रहस्तस्त्वामुपस्थितः ।  
@@ -2050,6 +2106,14 @@ Soon after the departure of Ravana, the illusory head and bow had vanished.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Meanwhile, immediately upon Rāvaṇa's departure (rāvaṇasyaiva niryāṇa-samanantaram), that head and that excellent bow vanished out of sight (antardhānaṃ jagāma).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Determining his strategy against Rāma, Rāvaṇa commands his generals to muster the armies by beat of drum without disclosing the reason, and the troops swiftly assemble.
 </details>
 </details>
 

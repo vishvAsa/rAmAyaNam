@@ -26,6 +26,14 @@ lonely parted with her husband.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāma's enumeration of forest perils, the tearful Sītā declares that out of love for him she counts every hardship a virtue, that wild beasts will flee before his majestic form, and that not even Indra can assail her at his side.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् तु वचनं श्रुत्वा सीता रामस्य दुःखिता ।  
@@ -305,6 +313,14 @@ me, who is in your vicinity."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “When I am at your side (tvatsamīpasthām), O Rāghava, not even Śakra himself, the lord of the gods, is able to overpower me by force (pradharṣayitum ojasā).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how twice-born astrologers and palmists in her father's palace foretold that she would dwell in the forest, Sītā urges Rāma to let that prophecy come true, declaring that forest hardships afflict only the undisciplined.
 </details>
 </details>
 
@@ -626,6 +642,14 @@ invariably obtained by men having unformed minds."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling a female ascetic's prophecy in her childhood and her own repeated entreaties for forest excursions, Sītā invokes the sacred Vedic law that a wife bestowed with water belongs to her husband both in this world and in the hereafter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कन्यया च पितुर् गेहे  
@@ -923,6 +947,14 @@ even after death.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “ ‘Whatever woman, O mighty one, is given away in this world by her parents with water according to sacred law (adbhir dattā svadharmeṇa), she belongs to that husband even in the hereafter (pretyabhāve 'pi tasya sā).’ ”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that she will resort to poison, fire, or water if left behind, Sītā implores Rāma in manifold ways; when he still withholds consent, she bathes the earth with hot tears as he strives to console her.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ the grip, Dasaratha fell into the grip of slumber as the night prevailed.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stung by Kausalyā's harsh reproach, Daśaratha swoons and regains consciousness only to recall the sin of his youth when he slew the ascetic boy by a sound-guided arrow; burned by twofold grief, he joins his palms before Kausalyā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं तु क्रुद्धया राजा राममात्रा सशोकया ।  
@@ -350,6 +358,14 @@ Consumed by those two sorrows (dahyamānaḥ sa śokābhyām), the lord of the e
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Daśaratha humbly entreats Kausalyā's forgiveness with folded palms, reminding her of her innate compassion and of a husband's status as a visible deity; overcome with remorse, Kausalyā weeps and places his joined hands upon her head.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसादये त्वां कौसल्ये रचितोऽयं मयाञ्जलिः ।  
@@ -621,6 +637,14 @@ Weeping, she took the king's lotus-like folded hands and placed them upon her ow
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Falling to the ground, Kausalyā begs Daśaratha's pardon, declaring that a wife whom a wise husband must propitiate is ruined in both worlds, and blames her unguarded words on the all-destroying power of grief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसीद शिरसा याचे भूमौ निपतितास्मि ते ।  
@@ -887,6 +911,14 @@ But, the grief suddenly descended, even if so small, is not possible to be toler
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A blow fallen from an enemy's hand can be endured (śakya āpatitaḥ soḍhuṃ prahāro ripu-hastataḥ), but sorrow that has befallen one, even if very slight, cannot be endured (soḍhum āpatitaḥ śokaḥ su-sūkṣmo 'pi na śakyate).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that even sages are bewildered by grief and that the five nights since Rāma's departure seem like five years while her sorrow swells like the ocean, Kausalyā soothes the king as night falls and he sinks into sleep.
 </details>
 </details>
 

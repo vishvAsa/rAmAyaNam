@@ -26,6 +26,14 @@ his friends.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On the very night the envoys enter Rājagṛha, Bharata sees an evil dream at daybreak and is consumed with anguish; when instrumental music, dancing, comedies, and witty talk fail to cheer him, his dear friend questions him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यामेव रात्रिं ते दूताः प्रविशन्ति स्म तां पुरीम् ।  
@@ -347,6 +355,14 @@ To that Bharata, who sat surrounded by his companions, a dearly beloved friend (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata recounts his nightmare: he saw his father disheveled and filthy, plunging from a mountain peak into a pool of cow-dung, floating there drinking oil with cupped hands while laughing, eating sesame rice, and diving headfirst into oil.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं सुहृदं भरतः प्रत्युवाच ह ।  
@@ -564,6 +580,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In my dream I also beheld the ocean dried up (sāgaraṃ śuṣkam), the moon fallen to the earth (candraṃ ca patitaṃ bhuvi), and a blazing fire suddenly extinguished (sahasā cāpi saṃśāntaṃ jvalitaṃ jātavedasam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata describes further portents: the royal elephant’s tusks shattered, the earth rent, trees withered, mountains smoking, dark-yellow women laughing at the king on an iron seat, and a hideous Rākṣasī dragging him southward on an ass-drawn chariot.
 </details>
 </details>
 
@@ -811,6 +835,14 @@ away the king.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A woman clad in red garments (pramadā rakta-vāsinī), seeming to laugh at the king (prahasantīva rājānam), and a hideous-faced Rākṣasī (rākṣasī vikṛtānanā) dragging him away (prakarṣantī) were seen by me.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing that riding an ass-drawn vehicle in a dream portends imminent cremation smoke, Bharata fears that he, Rāma, the king, or Lakṣmaṇa will die; with parched throat, broken voice, and faded luster, he cannot shake the terror from his heart.
 </details>
 </details>
 

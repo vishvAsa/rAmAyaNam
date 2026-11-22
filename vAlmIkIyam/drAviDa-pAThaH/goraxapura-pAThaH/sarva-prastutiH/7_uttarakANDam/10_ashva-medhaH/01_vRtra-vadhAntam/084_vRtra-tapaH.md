@@ -11,6 +11,14 @@ title = "०८४ वृत्र-तपः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Rāma accepts Bharata’s plea to forego the Rājasūya, Lakṣmaṇa recommends the Aśvamedha as the supreme purifier of every sin, launching into the ancient tale of Indra and the righteous, gigantic daitya Vṛtra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथोक्तवति रामे तु भरते च महात्मनि ।  
@@ -212,6 +220,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Knowing dharma and grateful, firmly established in wisdom (dharmajñaś ca kṛtajñaś ca buddhyā ca pariniṣṭhitaḥ), he ruled the flourishing earth righteously, ever self-possessed (śaśāsa pṛthivīṃ sphītāṃ dharmeṇa susamāhitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Under Vṛtra’s prosperous rule the earth yields abundance untilled; yet concluding that austerity alone is the highest good, he entrusts his realm to his eldest son and undertakes fierce penance, driving a terrified Indra to appeal to Viṣṇu.
 </details>
 </details>
 
@@ -419,6 +435,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “By the austere Vṛtra, O mighty-armed one, the worlds have been utterly conquered (tapasyatā mahābāho lokāḥ vṛtreṇa nirjitāḥ); mighty and righteous-souled is he, and I shall never be able to subdue him (balavān sa hi dharmātmā nainaṃ śakṣyāmi śāsitum).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that Vṛtra’s continued penance will reduce the worlds to eternal subjection, Indra reminds Viṣṇu that Vṛtra’s very lordship sprang from Viṣṇu’s own friendship, and implores the sole refuge of the helpless to aid the gods by slaying him.
 </details>
 </details>
 

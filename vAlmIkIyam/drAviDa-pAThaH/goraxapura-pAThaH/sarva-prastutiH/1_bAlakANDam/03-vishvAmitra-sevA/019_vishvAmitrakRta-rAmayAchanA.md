@@ -31,6 +31,14 @@ Sage Vishvamitra asks King Dasharatha to send Rama to protect the Vedic ritual
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thrilled with horripilation at Daśaratha’s magnanimous pledge, Viśvāmitra praises his royal lineage under Vasiṣṭha’s guidance and recounts how the two shape-shifting rākṣasas Mārīca and Subāhu obstruct his sacrificial vow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राजसिंहस्य वाक्यमद्भुतविस्तरम् ।  
@@ -305,6 +313,14 @@ O bull among men, I am observing a sacred sacrificial vow (ahaṃ niyamam āti�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 When my sacrificial vow has been repeatedly observed almost to completion, at the very moment of its conclusion (samāptyām), these two rākṣasas—Mārīca and Subāhu, both mighty in valor and well-trained in deceitful warfare (vīryavantau suśikṣitau)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Forbidden by the rules of his sacrificial vow from releasing a curse in anger, Viśvāmitra asks Daśaratha to give him his eldest son Rāma, still wearing juvenile side-locks, promising to bestow manifold blessings upon the prince.
 </details>
 </details>
 
@@ -607,6 +623,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Whereby he shall attain renown throughout all the three worlds (trayāṇām api lokānāṃ yena khyātiṃ gamiṣyati)! Encountering Rāma, those two demons cannot possibly stand their ground in any way—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Proclaiming ‘I know the great-souled Rāma of unfailing valor, and so too does Vasiṣṭha,’ Viśvāmitra urges Daśaratha not to indulge in paternal fondness, but to send the lotus-eyed prince for the ten nights of his sacrifice.
 </details>
 </details>
 
@@ -964,6 +988,14 @@ Then, O lord of kings, you ought to give Rāma to me! If your ministers, O Kāku
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All of them headed by Vasiṣṭha (vasiṣṭhapramukhāḥ sarve)—then dispatch Rāma! You ought to give me your cherished, unattached son (abhipretam asaṃsaktam ātmajam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reassuring the king that the sacrifice requires Rāma for only ten nights, Viśvāmitra falls silent; pierced to the heart by the sage’s words, King Daśaratha trembles in grief and terror and totters upon his throne.
 </details>
 </details>
 

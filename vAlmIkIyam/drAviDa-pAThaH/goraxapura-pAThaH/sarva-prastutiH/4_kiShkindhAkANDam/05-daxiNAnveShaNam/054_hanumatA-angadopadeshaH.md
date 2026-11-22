@@ -27,6 +27,14 @@ Sugreeva in the event of the failure of the task under his leadership.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Perceiving Aṅgada's royal endowments and his acquiescence in Tāra's counsel, Hanūmān deploys the third statecraft expedient of dissension to divide the monkey host.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्रुवति तारे तु ताराधिपतिवर्चसि ।  
@@ -358,6 +366,14 @@ Expounding the third of the four expedients of statecraft (caturṇām upāyān�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having estranged the monkey troop from Aṅgada, Hanūmān warns the prince that neither the fickle monkeys nor elders like Jāmbavān will support rebellion against Sugrīva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु सर्वेषु भिन्नेषु ततोऽभीषयदङ्गदम् ।  
@@ -649,6 +665,14 @@ shall strive for selfguarding against the mighty, but not contrariwise...
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān demolishes Aṅgada's reliance on Maya's subterranean cavern, warning that Lakṣmaṇa's mountain-cleaving arrows can shatter it like a leaf-cup while the homesick monkeys desert him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यां चेमां मन्यसे धात्रीमेतद् बिलमिति श्रुतम् ।  
@@ -919,6 +943,14 @@ for diverse palatability as any monkey would cherish, even so, lamenting on the 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Remembering their sons and wives, perpetually anxious and famished (bubhukṣitāḥ), and worn out by wretched beds of pain (duḥkha-śayyābhiḥ), they will turn their backs upon you (tvāṃ kariṣyanti pṛṣṭhataḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that Lakṣmaṇa's shafts will unfailingly strike down a rebel, Hanūmān urges Aṅgada to return humbly to his righteous uncle Sugrīva, his heirless mother's protector.
 </details>
 </details>
 

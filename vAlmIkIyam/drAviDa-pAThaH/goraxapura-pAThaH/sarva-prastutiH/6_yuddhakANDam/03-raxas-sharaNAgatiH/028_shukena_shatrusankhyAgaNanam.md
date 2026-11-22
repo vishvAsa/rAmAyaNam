@@ -25,6 +25,14 @@ Sarana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Sāraṇa's account, Śuka points out the remaining Kiṣkindhā monkey hosts and the peerless twin brothers Mainda and Dvivida.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सारणस्य वचः श्रुत्वा रावणं राक्षसाधिपम् ।  
@@ -214,6 +222,14 @@ musicians, are able to change their form at will and always stay in Kishkindha."
 **4:** Of these there are nine, five, and seven thousand crores (koṭisahasrāṇi), as well as thousands of śaṅkus (śaṅkusahasrāṇi) and hundreds of vṛndas (vṛndaśatāni).
 
 **5:** These are Sugrīva's companions (sugrīvasacivāḥ), ever dwelling in Kiṣkindhā (kiṣkindhānilayāḥ)—monkeys begotten by gods and Gandharvas (devagandharvair utpannāḥ) and able to change their form at will (kāmarūpiṇaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śuka celebrates Mainda and Dvivida as drinkers of ambrosia and identifies Hanūmān, recounting his childhood leap toward the rising sun.
 </details>
 </details>
 
@@ -431,6 +447,14 @@ strength and form always moving like the wind-god, having an uninterrupted mobil
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Able to assume any form at will (kāmarūpaḥ), this best of monkeys is endowed with strength and comeliness (balarūpasamanvitaḥ), and is of irresistible course (anivāryagatiḥ) like the ever-moving lord, the Wind (satatagaḥ prabhuḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śuka relates how Hanūmān earned his name upon the Sunrise Mountain, recalls his burning of Laṅkā, and points out dark-hued Rāma.
 </details>
 </details>
 
@@ -737,6 +761,14 @@ And he who stands next to him (yaś caiṣo 'nantaraḥ), a dark-complexioned he
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śuka extols Rāma's unswerving righteousness and martial power, and describes Lakṣmaṇa standing at his right hand as his external life-breath.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्मिन् न चलते धर्मो यो धर्मं नातिवर्तते ।  
@@ -991,6 +1023,14 @@ Unforgiving (amarṣī), invincible (durjayaḥ), a conqueror (jetā), valorous,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śuka points out Vibhīṣaṇa consecrated by Rāma at his left flank, and Sugrīva standing in the center like Mount Himavān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नह्येष राघवस्यार्थे जीवितं परिरक्षति ।  
@@ -1209,6 +1249,14 @@ And he whom you see standing in the center like an immovable mountain (madhye gi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —and who, together with his principal troop-commanders (pradhānaiḥ saha yūthapaiḥ), inhabits the cavern-citadel of Kiṣkindhā (kiṣkindhāṃ guhāṃ samadhyāste), thick with impenetrable trees (sagahanadrumām), impregnable (durgām), and situated in a mountain fastness (parvatadurgamyām),—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śuka describes Sugrīva's lotus-garland of Fortune and defines the ascending numerical units from a koṭi up to a kharva.
 </details>
 </details>
 
@@ -1452,6 +1500,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 A hundred thousand padmas (śataṃ padmasahasrāṇām) is remembered as a mahāpadma; a hundred thousand mahāpadmas is here called a kharva.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śuka completes the cosmic enumeration up to a mahaugha, sums up Sugrīva's ocean-like host, and urges Rāvaṇa to make his supreme effort.
 </details>
 </details>
 

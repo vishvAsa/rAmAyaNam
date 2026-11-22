@@ -39,6 +39,14 @@ the other, namely Subaahu. Rama thus makes the ritual of sage Vishvamitra a succ
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Since Viśvāmitra has entered a six-day Śrauta vow of silence, the resident sages bid Rāma and Lakṣmaṇa guard the penance-grove for six days and nights, and the two princes stand sleepless watch.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तौ देशकालज्ञौ राजपुत्रावरिन्दमौ ।  
@@ -295,6 +303,14 @@ safeguarded that woodland of the ritual for six nights and days. [1-30-5]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of theirs, the two glorious royal princes guarded the penance-grove without sleep for six days and six nights (anidraṃ ṣaḍahorātraṃ tapovanam arakṣatām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+On the sixth day—the principal Sutyā day—Rāma alerts Lakṣmaṇa; the sacrificial altar blazes forth amidst its vessels and priests, a fearful roar resounds in the sky, and the two Rākṣasas rush in like monsoon clouds.
 </details>
 </details>
 
@@ -555,6 +571,14 @@ As that sacrifice proceeded in due order with Vedic mantras (mantravac ca yathā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Mārīca and Subāhu shower torrents of blood upon the altar from the sky, Rāma spots them overhead, announces to Lakṣmaṇa that he will scatter them like clouds with the Mānavāstra without slaying Mārīca, and discharges the blazing missile at Mārīca’s chest.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवार्य गगनं मेघो यथा प्रावृषि दृश्यते ।  
@@ -806,6 +830,14 @@ it on the chest of Maareecha. [1-30-16b, 17]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck by the cool-tempered Mānavāstra (Śīteṣu), Mārīca is hurled a full hundred yojanas into the surging ocean without losing his life; Rāma then seizes the blazing Āgneyāstra to slay the remaining sacrifice-destroyers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तेन परमास्त्रेण मानवेन समाहतः ।  
@@ -1009,6 +1041,14 @@ ritual-hinderers and blood-drinkers." So said Rama to Lakshmana. [1-30-21]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “These other pitiless, evil-conducting Rākṣasas, however, who abide in sinful deeds, destroy sacrifices, and drink blood—them I shall now slay outright (imān api vadhiṣyāmi nirghṛṇān duṣṭacāriṇaḥ... yajñaghnān rudhirāśanān)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma slays Subāhu with the Āgneyāstra and scatters the remaining Rākṣasas with the Vāyavyāstra; with the six-day sacrifice completed and the quarters free of calamity, Viśvāmitra breaks his silence and acclaims Rāma for making Siddhāśrama true to its name.
 </details>
 </details>
 

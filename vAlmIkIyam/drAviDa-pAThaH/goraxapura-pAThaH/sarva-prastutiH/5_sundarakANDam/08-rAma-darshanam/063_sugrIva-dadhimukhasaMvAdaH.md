@@ -26,6 +26,14 @@ Angada and others to him, so as to hear about their efforts in tracing out Seeth
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Dadhimukha fall prostrate at his feet, anxious Sugrīva grants him fearlessness, and Dadhimukha reports that the monkeys are devastating Madhuvana.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो मूर्ध्ना निपतितं वानरं वानरर्षभः ।  
@@ -355,6 +363,14 @@ consuming that remnant. When prevented by us, all of them are indeed exhibiting 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Together with these forest-rangers, I sought to restrain them all (nyavārayam ahaṃ sarvān sahaibhir vanacāribhiḥ); yet disregarding me, in their joy they feast and drink (acintayitvā māṃ hṛṣṭā bhakṣayanti pibanti ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dadhimukha describes how the red-eyed monkey heroes frowned at his guards, thrashed them with palms and knees, hurled them skyward, and devoured Madhuvana.
 </details>
 </details>
 
@@ -688,6 +704,14 @@ Thus have these brave guards been beaten (evam ete hatāḥ śūrāḥ) while yo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by wise Lakṣmaṇa, Sugrīva explains Dadhimukha’s report and deduces that the monkeys would never despoil Madhuvana unless their mission had succeeded.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विज्ञाप्यमानं तं सुग्रीवं वानरर्षभम् ।  
@@ -922,6 +946,14 @@ Such a transgression would never be committed by them (naiṣām īdṛśaḥ sy
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva declares that Sītā has undoubtedly been found by none other than Hanūmān, in whom counsel, resolve, valor, and success reside.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वारयन्तो भृशं प्राप्ताः पाला जानुभिराहताः ।  
@@ -1118,6 +1150,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and resolute determination, and valor (vyavasāyaś ca vīryaṃ ca), and sacred learning as well are firmly established in him (śrutaṃ cāpi pratiṣṭhitam); where Jāmbavān is the leader (jāmbavān yatra netā syāt) and Aṅgada of mighty strength (aṅgadaś ca mahābalaḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva assures Lakṣmaṇa that the monkeys would never violate the divine grove without having seen Vaidehī, filling Lakṣmaṇa and Rāma with joy.
 </details>
 </details>
 
@@ -1426,6 +1466,14 @@ about their effort in finding out Seetha."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the righteous-souled Lakṣmaṇa, together with Rāghava, was filled with delight (tataḥ prahṛṣṭo dharmātmā lakṣmaṇaḥ saharāghavaḥ) upon hearing that speech, sweet to the ear, which had flowed from Sugrīva’s mouth (śrutvā karṇasukhāṃ vāṇīṃ sugrīvavadanāc cyutām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma and Lakṣmaṇa rejoice; forgiving the monkeys’ revelry, Sugrīva orders Dadhimukha to summon Hanūmān’s party at once, knowing victory is at hand.
 </details>
 </details>
 

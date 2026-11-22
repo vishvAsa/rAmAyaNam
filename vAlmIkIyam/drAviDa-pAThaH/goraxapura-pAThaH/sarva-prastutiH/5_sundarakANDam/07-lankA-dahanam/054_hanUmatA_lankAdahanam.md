@@ -26,6 +26,14 @@ the celestials and musicians (Gandharvas) gain a great delight.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting that only the destruction of Laṅkā’s citadel remains to crown his labors, Hanumān resolves to gratify the fire on his tail with the city’s finest mansions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वीक्षमाणस्ततो लङ्कां कपिः कृतमनोरथः ।  
@@ -337,6 +345,14 @@ Then, with his tail blazing (pradīpta-lāṅgūlaḥ) like a rain-cloud streake
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearlessly bounding from mansion to mansion like the wind, Hanumān hurls doomsday fire upon the palaces of Prahasta, Mahāpārśva, Vajradaṃṣṭra, Śuka, Sāraṇa, Indrajit, and Sumāli.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहाद् गृहं राक्षसानामुद्यानानि च वानरः ।  
@@ -537,6 +553,14 @@ And likewise the monkey troop-leader burned the mansion of Indrajit (indrajito v
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Methodically burning the rich mansions of Kumbhakarṇa, Makarākṣa, Narāntaka, Kumbha, and Nikumbha while sparing only Vibhīṣaṇa’s house, Hanumān reaches Rāvaṇa’s palace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रश्मिकेतोश्च भवनं सूर्यशत्रोस्तथैव च ।  
@@ -728,6 +752,14 @@ the house of Ravana the king of demons.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having passed beyond [the mansions] of all of them (sarveṣāṃ samatikramya), the valiant and glorious hero then reached the residence of Rāvaṇa, lord of rākṣasas (rākṣasendrasya ... rāvaṇasya niveśanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Casting his tail-fire upon Rāvaṇa’s jewel-decked palace and roaring like a doomsday cloud, Hanumān watches wind-fanned flames topple golden-latticed mansions like falling aerial citadels.
 </details>
 </details>
 
@@ -995,6 +1027,14 @@ in a form of this monkey!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 like the aerial palaces of perfected beings (bhavanānīva siddhānām) [falling] from the sky at the exhaustion of their merit (puṇya-saṃkṣaye). A tumultuous uproar (tumulaḥ śabdaḥ) arose from the rākṣasas as they fled headlong (pradhāvatām):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As despairing rākṣasas cry that Agni has come in monkey form, women leap from blazing mansions like lightning, mineral streams melt, and Laṅkā burns like Tripura.
 </details>
 </details>
 
@@ -1275,6 +1315,14 @@ By the swift and high-souled monkey Hanumān, that city of Laṅkā was burned t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the smokeless, wind-fanned fire crowns Trikūṭa with kiṃśuka-red flames and thunderbolt roars, terrified rākṣasas wonder whether Indra, Yama, Time, or Brahmā’s wrath has arrived.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स लङ्कापुरपर्वताग्रे  
@@ -1500,6 +1548,14 @@ of the extinguished fire.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There, mounting to the sky (ambarāt), the fiercely burgeoning fire had harsh radiance (rūkṣa-prabhaḥ) and crests like kiṃśuka blossoms (kiṃśuka-puṣpa-cūḍaḥ); and thick streaks of smoke from extinguished embers (nirvāṇa-dhūmākula-rājayaś ca) shone like blue lotuses (nīlotpalābhāḥ) in the form of clouds (abhrāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Wondering if Viṣṇu’s inconceivable supreme radiance has assumed monkey form through its own māyā, the rākṣasas wail as flame-wrapped Laṅkā weeps like a cursed woman.
 </details>
 </details>
 
@@ -1855,6 +1911,14 @@ Enveloped in the flames of the fire (hutāśana-jvāla-samāvṛtā), her foremo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Laṅkā scorched like the earth under Svayambhū’s doomsday wrath, high-souled Hanumān turns his mind to Rāma while gods, sages, and gandharvas praise him in joy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ससम्भ्रमं त्रस्तविषण्णराक्षसां  
@@ -2160,6 +2224,14 @@ most excellent.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And all the gods, the bulls among sages (muni-puṅgavāś ca), the gandharvas, vidyādharas, and serpents (gandharva-vidyādhara-pannagāś ca), and all great beings there attained supreme joy of peerless form (jagmuḥ parāṃ prītim atulya-rūpām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining like the ray-garlanded sun atop a palace pinnacle, Hanumān quenches his tail-fire in the ocean while gods marvel and all beings tremble as before Kālāgni.
 </details>
 </details>
 

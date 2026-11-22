@@ -22,6 +22,14 @@ In this chapter Hanuma sees Seetha surrounded by ogresses.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the lotus-white full moon ascends the dark-blue sky and aids Hanumān with its cool rays, he beholds grief-laden Sītā surrounded by grotesque, deformed rākṣasīs.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कुमुदखण्डाभो  
@@ -271,6 +279,14 @@ And one with an oversized head and upper body (atikāyottamāṅgīm), one with 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān surveys the monstrous demonesses with pendulous limbs, animal faces, hoofed feet, headless trunks, and grotesque noses who brandish black-iron pikes and mallets.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लम्बकर्णललाटां च लम्बोदरपयोधराम् ।  
@@ -440,6 +456,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Some with oversized noses (atināsāḥ), some with crooked noses (tiryaṅnāsāḥ), some noseless (anāsikāḥ), some with noses resembling elephant trunks (gajasaṃnibhanāsāḥ), and some with noses breathing into their foreheads (lalāṭocchvāsanāsikāḥ);
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestial-faced, blood-smeared rākṣasīs—perpetually quaffing liquor and feasting on flesh and blood—sit encircling the massive śiṃśapā tree beneath which blameless Sītā rests.
 </details>
 </details>
 
@@ -645,6 +669,14 @@ food, whose appearance made hair to stand up, sitting around a great tree with h
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The foremost of monkeys beheld those [rākṣasīs], whose limbs were smeared with flesh and blood (māṃsaśoṇitadigdhāṅgīḥ), who fed upon flesh and blood (māṃsaśoṇitabhojanāḥ), and whose very sight made one's hair bristle (romaharṣaṇadarśanāḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān observes Sītā—lustreless and grime-matted like a fallen star, a captive female elephant, an autumn cloud-veiled moon-digit, or an unstrung lute—adorned solely by love for her husband.
 </details>
 </details>
 
@@ -907,6 +939,14 @@ Like a bound female elephant separated from her herd (viyūthām) and hemmed in 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Plunged in an ocean of grief like Rohiṇī seized by an eclipsing planet or a mud-smeared lotus stalk, fawn-eyed Sītā remains unbowed through her husband's fiery energy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्लिष्ट-रूपाम् असंस्पर्शाद्  
@@ -1104,6 +1144,14 @@ The monkey Hanumān beheld that noble lady with the eyes of a young fawn (mṛga
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 [He beheld] that dark-eyed queen Sītā, of sorrowful countenance (dīnavadanām) yet unbowed in spirit through her husband's fiery energy (adīnāṃ bhartṛtejasā), protected by her own spotless virtue (rakṣitāṃ svena śīlena).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding emaciated Sītā scorching the budding trees with her sighs yet shining without ornaments, Hanumān sheds tears of joy, bows to Rāma and Lakṣmaṇa, and remains concealed.
 </details>
 </details>
 

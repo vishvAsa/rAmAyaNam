@@ -11,6 +11,14 @@ title = "०२३ वरुण-पराजयः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having triumphed over Yama, Rāvaṇa rejoins and consoles his marveling followers, plunges into the ocean toward Rasātala, subdues the Nāgas of Bhogavatī, and challenges the boon-protected Nivātakavacas at Maṇimayī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो जित्वा दशग्रीवो यमं त्रिदशपुङ्गवम् ।  
@@ -203,6 +211,14 @@ There dwelt the boon-endowed Daityas known as the Nivātakavacas (nivātakavacā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa and the mighty Nivātakavacas clash with varied weapons for over a full year without victory or defeat, until Grandfather Brahmā descends swiftly in his aerial car to halt the stalemate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तु सर्वे सुविक्रान्ता दैतेया बलशालिनः ।  
@@ -392,6 +408,14 @@ Halting that martial combat of the Nivātakavacas (nivātakavacānāṃ tu nivā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Brahmā’s counsel, Rāvaṇa seals a fire-witnessed alliance with the Nivātakavacas, dwells a year among them learning a hundred illusions, and then assaults Aśmanagara, slaying the Kālakeyas and his own brother-in-law Vidyujjihva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसस्य सखित्वं च भवद्भिः सह रोचते ।  
@@ -555,6 +579,14 @@ Then, having mastered and acquired one hundred of their illusions (upadhārya m�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After cutting down Vidyujjihva and four hundred Daityas in an instant, Rāvaṇa beholds Varuṇa’s radiant palace and reverently circumambulates the celestial cow Surabhi, whose milk engenders the Milk Ocean.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं विजित्य मुहूर्तेन जघ्ने दैत्यांश्चतुःशतम् ॥ १९ ॥  
@@ -713,6 +745,14 @@ Depending upon which subsist the supreme foam-drinking sages (yaṃ samāśritya
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 She whom men in the world call by name Surabhi (yāṃ bruvanti narā loke surabhiṃ nāma nāmataḥ); having reverently circumambulated that most wondrous cow (pradakṣiṇaṃ tu tāṃ kṛtvā ... paramādbhutām), Rāvaṇa—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering Varuṇa’s cloud-white, cascade-ringed citadel, Rāvaṇa slaughters its guards and issues an ultimatum to Varuṇa, provoking Varuṇa’s sons, grandsons, and commanders Gau and Puṣkara into a terrifying battle.
 </details>
 </details>
 
@@ -902,6 +942,14 @@ Endowed with valorous virtues (vīrya-guṇopetāḥ) and surrounded by their ow
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon a dreadful, hair-raising battle broke out (yuddhaṃ samabhavad dāruṇaṃ romaharṣaṇam) between the sons of the Lord of Waters (salilendrasya putrāṇām) and the sagacious Rāvaṇa (rāvaṇasya ca dhīmataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Rāvaṇa’s airborne ministers scatter Varuṇa’s army, Varuṇa’s sons ascend into the sky in swift chariots to fight on equal terms, driving Rāvaṇa back with fiery shafts and provoking Mahodara’s furious charge.
 </details>
 </details>
 
@@ -1100,6 +1148,14 @@ Thereupon Mahodara, enraged on beholding his king assailed (kruddho rājānaṃ 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mahodara smashes the swift steeds and chariots of Varuṇa’s sons with his mace, sending them crashing to earth; yet sustained in midair by their innate divinity, the sea-princes pierce Mahodara and shower Rāvaṇa with thunderbolt-like shafts.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन ते वारुणा युद्धे कामगाः पवनोपमाः ।  
@@ -1289,6 +1345,14 @@ Enraged, they rent him with dreadful, thunderbolt-like arrows loosed from their 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Blazing like the fire of cosmic dissolution, Rāvaṇa rains arrows, maces, lances, and spiked clubs from aloft upon Varuṇa’s sons, felling them like sixty-year-old elephants mired in mud and roaring like a thundercloud.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रुद्धो दशग्रीवः कालाग्निरिव मूर्च्छितः ।  
@@ -1453,6 +1517,14 @@ Beholding those exceedingly mighty sons sinking and distraught (sīdamānān sut
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, loosing mighty roars (mahānādān muktvā), the rākṣasa struck down Varuṇa’s sons (hanti sma vāruṇān) with showers of varied weapons (nānā-praharaṇopetaiḥ), as a cloud lashes the earth with streaming downpours (dhārāpātair ivāmbudaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When attendants bear Varuṇa’s fallen sons back indoors, Varuṇa’s minister Prahasta informs Rāvaṇa that his lord has gone to Brahmaloka for Gandharva music; proclaiming his name and roaring in triumph, Rāvaṇa departs for Laṅkā.
 </details>
 </details>
 

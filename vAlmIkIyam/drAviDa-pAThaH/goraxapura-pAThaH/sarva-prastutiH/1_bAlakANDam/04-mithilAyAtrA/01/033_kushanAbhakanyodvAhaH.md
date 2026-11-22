@@ -31,6 +31,14 @@ Daughters of Kushanaabha report about the Air-god's mischief. Pleased
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing their heads to King Kuśanābha’s feet, the hundred princesses recount how Vāyu sought to violate them and struck them crooked when they bade him ask their father for their hand.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा कुशनाभस्य धीमतः ।  
@@ -276,6 +284,14 @@ On listening their words that highly virtuous and highly resplendent
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hearing that account of theirs, the supremely righteous monarch of great fiery splendor (tāsāṃ tu vacanaṃ śrutvā rājā paramadhārmikaḥ mahātejāḥ) spoke in reply to his matchless hundred daughters (pratyuvāca kanyāśatam anuttamam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling his daughters’ unanimous forbearance as the supreme ornament of womankind and mankind alike—the very foundation of charity, truth, sacrifice, glory, and the cosmos—Kuśanābha consults his ministers on their marriage just as the celibate sage Cūlī practices austerity.
 </details>
 </details>
 
@@ -570,6 +586,14 @@ The *uurdhvaretas* is that the yogi-s of a very high practice
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Now at that very time, the sage named Cūlī of great spiritual effulgence (etasminn eva kāle tu cūlī nāma mahādyutiḥ), continent in seed and pure in conduct (ūrdhvaretāḥ śubhācāraḥ), was engaged in supreme Brāhmaic austerity (brāhmaṃ tapa upāgamat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased by the devoted service of the Gandharvī Somadā, daughter of Ūrmilā, Sage Cūlī offers her a boon; declaring herself a lifelong celibate maiden, she asks for a righteous son born through his spiritual power.
 </details>
 </details>
 
@@ -871,6 +895,14 @@ name, the daughter of Urmila. [1-33-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleased with Somadā, the Brahmarṣi Cūlī grants her a matchless mind-born son named Brahmadatta, who rules over Kāmpilyā like Indra in heaven and receives Kuśanābha’s hundred daughters in marriage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः प्रसन्नो ब्रह्मर्षिर्ददौ ब्राह्ममनुत्तमम् ।  
@@ -1120,6 +1152,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, O delighter of the Raghus, King Brahmadatta, like the lord of the gods himself (tadā raghunandana brahmadatto mahīpālo devapatir yathā), clasped the hands of those maidens in marriage in due order of seniority (yathākramaṃ pāṇiṃ jagrāha tāsām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The moment Brahmadatta’s hand touches theirs in wedlock, the hundred princesses are freed of their crookedness and shine with radiant beauty; Kuśanābha joyfully sends them to Kāmpilyā, where Somadā welcomes them with praise.
 </details>
 </details>
 

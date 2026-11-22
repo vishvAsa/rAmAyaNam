@@ -26,6 +26,14 @@ to heaven.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Following the western route shown by Kabandha across honey-sweet mountain woods, Rāma and Lakṣmaṇa reach the western bank of Lake Pampā, where the perfected ascetic Śabarī reverently clasps their feet.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ कबन्धेन तं मार्गं  
@@ -343,6 +351,14 @@ she braced the feet of Rama, and even that of sagacious Lakshmana, impressively.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding those two then, that perfected ascetic woman (siddhā) rose up at once with joined palms (samutthāya kṛtāñjaliḥ) and clasped the feet of Rāma and of the wise Lakṣmaṇa (pādau jagrāha rāmasya lakṣmaṇasya ca dhīmataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Receiving Śabarī's ritual hospitality, Rāma gently inquires after the progress of her austerities and guru-service, and Śabarī declares that beholding him has brought her penance and birth to fruition.
 </details>
 </details>
 
@@ -719,6 +735,14 @@ Today the austerity I have practiced has borne fruit (saphalaṃ taptam), and he
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śabarī recounts how her preceptors ascended to heaven when Rāma reached Citrakūṭa after instructing her to await his arrival, and offers him the forest fruits she has gathered.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तवाहं चक्षुषा सौम्य  
@@ -1085,6 +1109,14 @@ deeds but none is barred from esoteric knowledge.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Rāma's request to witness the marvels he heard of from Kabandha, Śabarī shows him Mataṅga's cloud-dark forest and the western altar still ablaze with her preceptors' penance.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दनोः +++(कबन्धीभूतस्य)+++ सकाशात् तत्त्वेन  
@@ -1426,6 +1458,14 @@ them... [3-74-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Through the power of their penance (teṣāṃ tapaḥ-prabhāvena), behold even today, O best of the Raghus (raghūttama), this altar of matchless lustre (vedy atula-prabhā) illuminating all the quarters with its radiance (dyotayantī diśaḥ sarvāḥ śriyā)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Showing Rāma the seven oceans summoned by her preceptors' thought, their ever-moist bark-garments, and their unfading garlands, Śabarī asks leave to cast off her body, filling Rāma with wonder.
 </details>
 </details>
 
@@ -1773,6 +1813,14 @@ has its own place...'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing that most righteous speech (dharmiṣṭhaṃ tu vacaḥ śrutvā), Rāghava together with Lakṣmaṇa experienced matchless joy (praharṣam atulaṃ lebhe) and exclaimed, “How wonderful!” (āścaryam iti cābravīt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Granted leave by Rāma, the ascetic Śabarī offers herself into the sacrificial fire and, transfigured in celestial attire like a flash of lightning, ascends through meditation to the sacred realm of her preceptors.
 </details>
 </details>
 

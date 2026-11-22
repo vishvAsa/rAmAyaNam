@@ -24,6 +24,14 @@ name Shabari, who is waiting for ages to have a glimpse of Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having revealed the expedient for finding Sītā, Kabandha points out the auspicious western path lined with flowering fruit trees whose boughs yield ambrosial fruit.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शयित्वा तु रामाय सीतायाः परिमार्गणे ।  
@@ -204,6 +212,14 @@ you may pelt over, devouring those ambrosial fruits... [3-73-5b, 6a]
 **4:** —dhanvana and nāga-vṛkṣa trees, tilaka and naktamālaka trees, dark aśoka (nīlāśokāḥ), kadamba, and flowering oleander trees (karavīrāś ca puṣpitāḥ)—
 
 **5:** —agnimukhya, aśoka, crimson sandalwood (suraktāḥ), and pāribhadraka trees; climbing those (tān āruhya), or else bending them down to the ground by force (bhūmau pātayitvā ca tān balāt)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kabandha describes a second woodland rivaling Indra's Nandana and Kubera's Caitraratha groves, leading across mountains and forests to the lotus-adorned Lake Pampā.
 </details>
 </details>
 
@@ -505,6 +521,14 @@ its sandbanks, red and blue lotuses beautify that Pampa Lake... [3-73-11b, 12a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At Lake Pampā, fearless waterfowl warble on the waters, and Lakṣmaṇa will serve Rāma spitted fish and crystal-clear lotus-scented water in a lotus leaf.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र हंसाः प्लवाः क्रौञ्चाः कुरराश्चैव राघव ॥ १२ ॥  
@@ -739,6 +763,14 @@ lotus leaf, making that leaf a stoup-like basin... [3-73-16b, 17, 18a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kabandha describes the evening sights around Lake Pampā, where flowering trees and lotuses bloom perpetually, sprung from the sweat-drops of sage Mataṅga's ascetic disciples.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपां लोभादुपावृत्तान् वृषभानिव नर्दतः ॥ १९ ॥  
@@ -956,6 +988,14 @@ dry up, nor drop down... [3-73-22b, 23a]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —and dark-blue waterlilies and pink lotuses (utpalāni ca paṅkajāni ca) are in full bloom (phullāni), O Rāghava; no man there strings or wears those garlands (na tāni kaścin mālyāni tatrāropayitā naraḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kabandha tells Rāma of the aged ascetic woman Śabarī, who awaits his sight at Mataṅga's inviolable hermitage on Pampā's western bank before ascending to heaven.
 </details>
 </details>
 
@@ -1291,6 +1331,14 @@ take delight rejoicingly in that woodland... [3-73-30, 31a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+East of Lake Pampā rises Mount Ṛṣyamūka, fashioned by Brahmā of old, where dreamers wake to find their dreamed wealth and wicked trespassers are slain in their sleep by demons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋष्यमूकस्तु पम्पायाः पुरस्तात् पुष्पितद्रुमः ॥ ३१ ॥  
@@ -1491,6 +1539,14 @@ of those that are the indwellers of Matanga hermitage, even there on Mt. Rishyam
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Even there is heard the mighty trumpeting (ākrandaḥ śrūyate mahān) of young elephants (śiśu-nāgānām) dwelling by Mataṅga's hermitage (mataṅgāśrama-vāsinām) as they sport in Lake Pampā (krīḍatāṃ pampāyām), O Rāma.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Around Lake Pampā roam cloud-dark elephants, sapphire-hued bears, and fearless deer, while on Mount Ṛṣyamūka shines a rock-screened cavern fronted by a cool pool.
 </details>
 </details>
 
@@ -1724,6 +1780,14 @@ with; *mahaan hradaH* = a great, lake - is there.
 
 "On its right at its eastern opening a delightful lake with highly coolant waters is there, fringed
 with divers trees and fraught with numerous tubers and fruits... [3-73-40b, 41a]
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Revealing that Sugrīva dwells inside that cavern and upon the mountain peak, the sun-bright Kabandha exchanges farewells with Rāma and Lakṣmaṇa and departs into the sky.
 </details>
 </details>
 

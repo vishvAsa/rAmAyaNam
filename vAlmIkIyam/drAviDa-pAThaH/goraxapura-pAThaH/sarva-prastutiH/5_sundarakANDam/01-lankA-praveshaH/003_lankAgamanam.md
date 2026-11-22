@@ -22,6 +22,14 @@ In this chapter Hanuma faces Lanka, the city of Lanka herself in the form of a d
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Summoning his inner resolve upon the cloud-like peak of Mount Lamba, Hanumān enters Laṅkā by night, beholding a golden-walled citadel rivaling Kubera's Viṭapāvatī, the Nāgas' Bhogavatī, and Indra's Amarāvatī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लम्बशिखरे लम्बे लम्बतोयदसन्निभे ।  
@@ -238,6 +246,14 @@ and like Amarāvatī resounding with fierce winds (caṇḍamārutanirhrādām),
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mounting the rampart with joy, Hanumān gazes in wonder at Laṅkā's golden-gated palaces with cat's-eye platforms, crystal courtyards, and musical quadrangles rivaling Alakā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आसाद्य सहसा हृष्टः प्राकारमभिपेदिवान् ॥ ७ ॥  
@@ -426,6 +442,14 @@ the city of Vasvaukasaara, as though flying towards the sky.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding that city resembling Vasvokasārā (vasvokasārapratimām)—Laṅkā, seeming to leap up into the sky (kham ivotpatitām)—Hanumān the monkey rejoiced (jaharṣa).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the opulent city guarded by Rāvaṇa's weapon-wielding hosts, Hanumān names the select monkey and bear heroes capable of reaching it, rejoices in Rāma's and Lakṣmaṇa's valor, and admires Laṅkā's bejeweled form.
 </details>
 </details>
 
@@ -662,6 +686,14 @@ Considering the long armed Sri Rama's strength and Lakshmana's valour, Hanuma be
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then, reflecting upon the prowess (parākramam) of the mighty-armed Rāghava and the valor (vikrāntam) of Lakṣmaṇa, the monkey became joyful (abhavat prītimān).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Hanumān enters the brightly lit city, the tutelary deity of Laṅkā rises up in her own dreadful form and challenges the monkey with a thunderous roar.
 </details>
 </details>
 
@@ -955,6 +987,14 @@ Surely this Laṅkā cannot be entered (na śakyaṃ praveṣṭum) by you, O mo
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Questioned by Hanumān as to why she blocks the city gate with deformed eyes, the wrathful shape-shifting goddess reveals that she is the city of Laṅkā herself, guarding Rāvaṇa's capital.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तामब्रवीद् वीरो हनुमानग्रतः स्थिताम् ।  
@@ -1236,6 +1276,14 @@ to you by me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For I myself (svayam eva), O leaper (plavaṅgama), am the city of Laṅkā; I guard it on every side (sarvataḥ parirakṣāmi), and therefore have I told you this.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Standing firm like a second mountain before the deformed female guardian, Hanumān feigns mere curiosity to view Laṅkā's parks and mansions, prompting her renewed challenge to battle.
 </details>
 </details>
 
@@ -1536,6 +1584,14 @@ rakshasas, without first defeating me."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck fiercely by the roaring Laṅkā with her open palm, Hanumān restrains his wrath because she is a woman, folds his left fist, and fells the night-stalker to the ground.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स हरिशार्दूलस्तामुवाच निशाचरीम् ।  
@@ -1778,6 +1834,14 @@ Then Hanumān, incensed with wrath (krodhamūrcchitaḥ), folded the fingers of 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Considering, “She is a woman (strī ceti),” no excessive wrath (nātikrodhaḥ) was exerted by him; yet by that single blow (tena prahāreṇa) that night-stalker, her limbs reeling (vihvalāṅgī) and her face and aspect contorted, fell suddenly to the ground (papāta sahasā bhūmau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Filled with compassion for the fallen female guardian, Hanumān spares her life; humbled and stammering, Laṅkā reveals the ancient prophecy granted to her by Svayambhū Brahmā.
 </details>
 </details>
 
@@ -2038,6 +2102,14 @@ face.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And hear this truth (idaṃ ca tathyaṃ śṛṇu) from me as I speak, O lord of monkeys—how a boon (varadānam) was granted to me in person by the Self-born Brahmā (svayaṃ svayambhuvā):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting Brahmā's infallible decree that a monkey's victory over her would herald the destruction of Rāvaṇa and the rākṣasas on Sītā's account, Laṅkā bids Hanumān enter the curse-stricken city freely and search for Jānakī.
 </details>
 </details>
 

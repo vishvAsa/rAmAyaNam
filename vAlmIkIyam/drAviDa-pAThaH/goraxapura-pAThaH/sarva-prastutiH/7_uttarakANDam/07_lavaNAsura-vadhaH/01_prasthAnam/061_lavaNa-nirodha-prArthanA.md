@@ -14,6 +14,14 @@ title = "०६१ लवण-निरोध-प्रार्थना"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding the sages cast aside fear and state their need, Rāma hears Cyavana recount how the virtuous Daitya Madhu, son of Lolā, practiced millennia of austerity in the Kṛta age and won a marvelous boon from Rudra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रुवद्भिरेवमृषिभिः काकुत्स्थो वाक्यमब्रवीत् ।  
@@ -167,6 +175,14 @@ When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Rudra grew pleased with him and went forth to grant him a boon (varaṃ dātuṃ yayau ca saḥ); and out of high esteem (bahumānāt), Rudra bestowed upon him an extraordinary boon (dattas tasyādbhuto varaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Drawing a blazing weapon from his own trident, Rudra bestows it upon Madhu—promising it will incinerate any foe and return to his hand so long as he never opposes gods or brahmins—and Madhu begs that it remain perpetually with his lineage.
 </details>
 </details>
 
@@ -326,6 +342,14 @@ When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declining to bind the trident to Madhu’s entire dynasty, Śiva grants that it shall pass to a single son, rendering him invulnerable while holding it; Madhu builds a splendid mansion and weds Kumbhīnasī, daughter of Viśvāvasu and Analā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा भूत् ते विफला वाणी मत्प्रसादकृता शुभा ।  
@@ -456,6 +480,14 @@ When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kumbhīnasī bears the cruel and wicked Lavaṇa, whose lifelong depravity drives the righteous Madhu in silent grief to abandon this world for Varuṇa’s ocean—after entrusting the trident and its boon to his son, who now torments the three worlds and especially ascetics.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं पुत्रं दुर्विनीतं तु दृष्ट्वा क्रोधसमन्वितः ।  
@@ -557,6 +589,14 @@ When Kākutstha had spoken thus (tathā bruvati kākutsthe), Bhārgava [Cyavana]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Through the potency of that trident (prabhāveṇa śūlasya) and through his own innate wickedness (daurātmyenātmanas tathā), he torments the three worlds (santāpayati lokāṃs trīn), and above all the ascetics (viśeṣeṇa ca tāpasān)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having laid bare Lavaṇa’s power and the trident’s dread nature, Cyavana declares that the terrified sages found no protector among past kings until Rāvaṇa’s fall revealed Rāma as their sole refuge, and implores him to grant their wish.
 </details>
 </details>
 

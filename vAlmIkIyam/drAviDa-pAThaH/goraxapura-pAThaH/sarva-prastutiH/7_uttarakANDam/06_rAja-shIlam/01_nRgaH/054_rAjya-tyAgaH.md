@@ -13,6 +13,14 @@ title = "०५४ राज्य-त्यागः"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Astonished that so small a fault drew a curse like Yama’s rod upon King Nṛga, Lakṣmaṇa asks what Nṛga said to the wrathful brahmins; Rāma replies that perceiving their departure, the sorrow-stricken king assembled his ministers and citizens.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य भाषितं श्रुत्वा लक्ष्मणः परमार्थवित् ।  
@@ -179,6 +187,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Announcing that Nārada and Parvata have departed after bearing him great dread, Nṛga orders his son Vasu consecrated as king and directs artisans to build three seasonal subterranean chambers surrounded by fruitful groves and fragrant flowers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नारदः पर्वतश्चैव मम दत्त्वा महद्भयम् ।  
@@ -314,6 +330,14 @@ _________________
 **11:** “‘Let every side around the chambers be made delightful (kriyatāṃ ramaṇīyaṃ ca śvabhrāṇāṃ sarvato-diśam); here I shall dwell in comfort until the revolution of the appointed time (sukham atra vasiṣyāmi yāvat kālasya paryayaḥ).
 
 **12:** “‘And let fragrant flowers ever be arranged in them (puṣpāṇi ca sugandhīni kriyatāṃ teṣu nityaśaḥ), so that they surround me to a distance of one and a half yojanas (parivārya yathā me syur adhyardhaṃ yojanaṃ tathā).’”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging Vasu to protect his subjects by kṣatriya-dharma and not to grieve—since every joy and sorrow springs solely from one’s own past karma—the great-souled Nṛga enters the jewel-adorned pit to fulfill the brahmins’ curse.
 </details>
 </details>
 

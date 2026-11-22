@@ -13,6 +13,14 @@ title = "०४७ परित्याग-सूचनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Leaving Sumantra with the chariot on the near shore, Lakṣmaṇa ferries Sītā across the Gaṅgā, collapses prostrate in tears, wishes for death over this loathsome task, and begs her pardon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ नावं सुविस्तीर्णां नैषादीं राघवानुजः ।  
@@ -205,6 +213,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Alarmed for Rāma’s safety, Sītā commands Lakṣmaṇa to disclose the cause of his anguish; hanging his head, he reveals that Rāma heard a dreadful calumny concerning her in council, yet spares her its words.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुदन्तं प्राञ्जलिं दृष्ट्वा काङ्क्षन्तं मृत्युमात्मनः ।  
@@ -390,6 +406,14 @@ Pressed thus by Vaidehī (vaidehyā codyamānaḥ), Lakṣmaṇa, crushed in spi
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O noble lady (devi), I cannot utter in your presence (na tāni vacanīyāni mayā ... tavāgrataḥ) those words which the king, out of indignation (amarṣāt), has laid to heart (yāni rājñā hṛdi nyastāni); their recounting is put behind me (pṛṣṭhataḥ kṛtaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuring Sītā that Rāma knows her faultless and relinquishes her solely from fear of public scandal, Lakṣmaṇa entrusts her to the sacred hermitage of Daśaratha’s dear friend Vālmīki and urges steadfast devotion.
 </details>
 </details>
 

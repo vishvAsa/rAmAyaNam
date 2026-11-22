@@ -25,6 +25,14 @@ to Seetha through Hanuma.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding his elder brother Rāvaṇa lying vanquished and slain upon the battlefield, Vibhīṣaṇa is overwhelmed by grief and laments the tragic fruition of his spurned counsel.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते रावणवधं दृष्ट्वा देवगन्धर्वदानवाः ।  
@@ -303,6 +311,14 @@ the chariot-warriors was highly rejoiced and embraced Sugreeva.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Through a series of majestic metaphors, Vibhīṣaṇa likens the fallen Rāvaṇa to a toppled monarch-tree, a slain scent-elephant, a quenched conflagration, and a bull felled by the tiger Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिष्वज्य च सुग्रीवं लक्ष्मणेनाभिवादितः ॥ ७ ॥  
@@ -542,6 +558,14 @@ instructed them, who were as swift as thought, to bring sea-water.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Vibhīṣaṇa's reasoned and sorrowful lament, Rāma consoles him, declaring that a fearless warrior who falls in battle after terrorizing the three worlds is not to be mourned.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिशीघ्रं ततो गत्वा वानरास्ते मनोजवाः ॥ १३ ॥  
@@ -678,6 +702,14 @@ extra ordinary delight, they indeed eulogized Rama.
 **15:** “Warriors who abide steadfastly in the Kṣatriya code (kṣatradharmavyavasthitāḥ) and fall upon the battle-arena while aspiring for advancement (vṛddhim āśaṃsamānāḥ) are not mourned when they perish thus.
 
 **16:** “Now that this wise warrior—by whom all three worlds together with Indra (sendrāḥ) were terrorized in battle—has met his destined hour (kālasamāyukte), this is not the time to mourn.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma urges Vibhīṣaṇa to cast off feverish sorrow in accordance with the ancient Kṣatriya code and consider the next rites, whereupon Vibhīṣaṇa speaks for his fallen brother's welfare.
 </details>
 </details>
 
@@ -888,6 +920,14 @@ auspicious objects to Rama and Lakshmana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “He who in past battles (vimardeṣu) was never before shattered by all the gods together or even by Vāsava himself, has been shattered in combat upon encountering you, like the swelling ocean upon encountering its shore (velām ivāsādya).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling Rāvaṇa's Vedic fire-sacrifices, austerities, and munificence, Vibhīṣaṇa seeks permission to perform his funeral rites, and Rāma nobly commands the obsequies, declaring that hostilities end with death.
 </details>
 </details>
 

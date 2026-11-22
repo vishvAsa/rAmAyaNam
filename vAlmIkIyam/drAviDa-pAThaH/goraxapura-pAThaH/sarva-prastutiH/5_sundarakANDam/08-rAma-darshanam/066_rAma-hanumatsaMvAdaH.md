@@ -24,6 +24,14 @@ and father-in-law. Rama urges Hanuma, to repeat the words spoken by Seetha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pressing Sītā's crest-jewel to his breast, Rāma weeps with Lakṣmaṇa and tells Sugrīva how the sea-born gem—given by Indra to Janaka and bound on Sītā's brow at her wedding—melts his heart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो हनुमता रामो दशरथात्मजः ।  
@@ -287,6 +295,14 @@ rite (intended to propitiate him)."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For this water-born jewel (jalasambhūto maṇiḥ), venerated by the noblest (pravarapūjitaḥ), was bestowed at a sacrifice (yajñe) by the wise Śakra [Indra], supremely pleased (paramatuṣṭena).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing Daśaratha, Janaka, and Sītā herself in the jewel, Rāma begs Hanūmān to repeat her life-restoring words, lamenting that the gem has returned without Vaidehī.
 </details>
 </details>
 
@@ -563,6 +579,14 @@ long. O gentle one! Without that black-eyed Seetha, I cannot survive for even a 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Long indeed will Vaidehī live (ciraṃ jīvati vaidehī) if she endures for a month (yadi māsaṃ dhariṣyati); as for me, O hero, I could not live even for a moment (kṣaṇaṃ... na jīveyam) without that dark-eyed lady (asitekṣaṇām)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Imploring Hanūmān to carry him at once to Sītā's side, Rāma laments her moon-like face veiled by Rākṣasas and begs to hear every word of her healing message.
 </details>
 </details>
 

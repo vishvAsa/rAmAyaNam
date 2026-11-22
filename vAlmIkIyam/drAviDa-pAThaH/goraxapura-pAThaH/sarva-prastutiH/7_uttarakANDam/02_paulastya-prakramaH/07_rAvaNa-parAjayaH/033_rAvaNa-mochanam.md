@@ -13,6 +13,14 @@ title = "०३३ रावण-मोचनम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing from the gods in heaven of Rāvaṇa’s astonishing capture, the great sage Pulastya—moved by grandfatherly compassion—flies swiftly to Māhiṣmatī like a walking sun, where King Arjuna goes forth with joined palms to greet him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणग्रहणं तत् तु वायुग्रहणसन्निभम् ।  
@@ -202,6 +210,14 @@ Learning from their report that it was Pulastya (pulastya iti vijñāya vacanāt
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Preceded by his royal priest carrying arghya and madhuparka like Bṛhaspati before Indra, Arjuna bows in awe before Pulastya, offers traditional guest-rites, hails Māhiṣmatī’s sudden kinship with heaven, and places kingdom and self at the sage’s command.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरोहितोऽस्य गृह्यार्घ्यं मधुपर्कं तथैव च ।  
@@ -368,6 +384,14 @@ _________________
 **11:** “Today is my well-being assured, O lord (adya me kuśalaṃ deva); today is my vow fulfilled (adya me kuśalaṃ vratam); today is my birth fruitful (adya me saphalaṃ janma); today is my austerity fruitful (adya me saphalaṃ tapaḥ)—since I bow before your feet, revered by hosts of gods (yasmād deva-gaṇair vandyau vande ’haṃ caraṇau tava)!
 
 **12:** “This kingdom, these sons, these wives, and our very selves [are yours] (idaṃ rājyam ime putrā ime dārā ime vayam): O Brahmin, what shall I do? What task is to be done? Command us, revered sir (brahman kiṃ kurmi kiṃ kāryam ājñāpayatu no bhavān)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After inquiring after Arjuna’s welfare and praising his peerless prowess in binding his dread grandson, Pulastya asks for Rāvaṇa’s release; answering only through deeds, Arjuna frees and honors Rāvaṇa, seals a fire-witnessed pact of friendship, and retires.
 </details>
 </details>
 
@@ -561,6 +585,14 @@ Receiving Pulastya’s command (pulastyājñāṃ pragṛhya), Arjuna uttered no
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having released that foe of the thirty gods (sa taṃ pramucya tridaśārim arjunaḥ), honored him with celestial ornaments, garlands, and garments (prapūjya divyābharaṇa-srag-ambaraiḥ), and entered into a non-violent pact of friendship witnessed by sacred fire (ahiṃsakaṃ sakhyam upetya sāgnikam), Arjuna bowed to that son of Brahmā and returned to his palace (praṇamya taṃ brahma-sutaṃ gṛhaṃ yayau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Dismissed in shame by Pulastya—who ascends back to Brahmaloka—Rāvaṇa’s humbling prompts Agastya’s maxim that stronger foes ever await the strong, yet the demon king soon resumes his arrogant slaughter of earthly monarchs.
 </details>
 </details>
 

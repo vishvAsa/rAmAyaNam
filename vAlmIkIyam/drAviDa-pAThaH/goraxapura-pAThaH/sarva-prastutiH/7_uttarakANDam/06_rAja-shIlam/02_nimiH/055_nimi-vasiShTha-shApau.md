@@ -11,6 +11,14 @@ title = "०५५ निमि-वसिष्ठ-शापौ"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Eager to hear another wondrous tale from Rāma, Lakṣmaṇa listens as his brother begins the righteous history of King Nimi, the twelfth son of the great Ikṣvākus, who founded the resplendent city of Vaijayanta near Gautama’s hermitage.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष ते नृगशापस्य विस्तरोऽभिहितो मया ।  
@@ -200,6 +208,14 @@ Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (ikṣvāku-na
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving to perform a prolonged satra sacrifice to delight his father Ikṣvāku, Nimi first invites Vasiṣṭha along with Atri, Aṅgiras, and Bhṛgu; when Vasiṣṭha asks him to await the close of Indra’s sacrifice, Nimi engages Gautama in his stead.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य बुद्धिः समुत्पन्ना निवेश्य सुमहापुरम् ।  
@@ -327,6 +343,14 @@ Thus urged by Lakṣmaṇa, Rāma, the delight of the Ikṣvākus (ikṣvāku-na
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Immediately thereafter, the great brahmin Gautama filled that priestly place (anantaraṃ mahāvipro gautamaḥ pratyapūrayat), while the greatly resplendent Vasiṣṭha proceeded to perform Indra’s sacrifice (indrayajñam athākarot).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Nimi consecrates himself for a five-thousand-year sacrifice beside the Himalayas; returning at the end of Indra’s rite to serve as hotṛ, Vasiṣṭha sees his office filled by Gautama, and finding the king asleep when he seeks audience, burns with wrath.
 </details>
 </details>
 
@@ -462,6 +486,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Thereupon fierce indignation arose within the great-souled Vasiṣṭha (tato manyur vasiṣṭhasya prādurāsīn mahātmanaḥ); not obtaining sight of the royal sage (adarśanena rājarṣeḥ), he began to speak forth a curse (vyāhartum upacakrame).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha curses the sleeping Nimi to lose consciousness from his body; waking in fury, Nimi indicts the sage for striking an unaware sleeper and curses Vasiṣṭha’s own fair body to fall lifeless, leaving both potent beings instantly bodiless.
 </details>
 </details>
 

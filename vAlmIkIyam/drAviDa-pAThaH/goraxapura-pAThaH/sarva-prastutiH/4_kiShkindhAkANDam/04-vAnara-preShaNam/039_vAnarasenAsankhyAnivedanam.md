@@ -29,6 +29,14 @@ of monkey-warriors.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Embracing Sugrīva, Rāma likens his natural loyalty to Indra's rain, the sun's light, and the moon's radiance, comparing Rāvaṇa's abduction of Sītā to Anuhlāda's seizure of Śacī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणं सुग्रीवं रामो धर्मभृतां वरः ।  
@@ -315,6 +323,14 @@ got a name Pulomajit.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāma vows to slay Rāvaṇa like Indra slaying Puloman, a blinding dust-cloud darkens the sun, the earth trembles, and countless river, mountain, and ocean monkeys cover the ground.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नचिरात् तं वधिष्यामि रावणं निशितैः शरैः ।  
@@ -559,6 +575,14 @@ within the mere blink of an eye (nimeṣāntaramātreṇa), by those monkey troo
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 by mighty monkeys dwelling by rivers (nādeyaiḥ), on mountains (pārvateyaiḥ), and along the oceans (sāmudraiḥ), thundering like clouds (meghanirhrādaiḥ), and by others inhabiting the forests,
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+First to appear are the great monkey commanders: Śatabali with ten thousand crores, Tārā's golden-hued father Suṣeṇa, Rumā's father Tāra, and Hanūmān's father Kesarī.
 </details>
 </details>
 
@@ -847,6 +871,14 @@ vanara-s, then came into view associated with thousands and thousands of armies 
 **17:** resembling lotus filaments in hue (padmakesarasaṃkāśaḥ), with a face bright as the young sun, wise, foremost of monkeys, best of all Vānaras.
 
 **18:** Accompanied by many thousands [of crores] of monkeys, the glorious Kesarī, father of Hanūmān (pitā hanumataḥ), came into view.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Next arrive Gavākṣa, sovereign of the golāṅgūlas, Dhūmra, lord of the bears, and the mighty troop-commanders Panasa, Nīla, Gavaya, and Darīmukha with their multi-crore legions.
 </details>
 </details>
 
@@ -1155,6 +1187,14 @@ drawing nigh of him. [3-39-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And the mighty troop-commander Darīmukha arrived then, surrounded by a thousand crores, and stationed himself beside Sugrīva (sugrīvaṃ samavasthitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The Aśvins' sons Mainda and Dvivida, Gaja, the bear-king Jāmbavān, Rumaṇa, Gandhamādana, and Crown Prince Aṅgada arrive with vast hosts measured in crores, padmas, and śaṅkus.
 </details>
 </details>
 
@@ -1472,6 +1512,14 @@ Then Crown Prince Aṅgada (yuvarājo 'ṅgadaḥ), equal in valor to his father
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Radiant as a star, the commander Tāra appears from afar with five crores, followed by Indrajānu, sun-bright Rambha, Durmukha, and Hanūmān surrounded by a thousand crores.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्ताराद्युतिस्तारो हरिभिर्भीमविक्रमैः ।  
@@ -1737,6 +1785,14 @@ Surrounded by a thousand crores of monkeys of formidable valor, shaped like the 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Architect Nala, Dadhimukha, Śarabha, Kumuda, Vahni, and countless other troop-commanders arrive, covering the earth and surging around Sugrīva like masses of clouds around the sun.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नलश्चापि महावीर्यः संवृतो द्रुमवासिभिः ।  
@@ -1964,6 +2020,14 @@ thus, presented themselves and settled down around Sugreeva as if a number of cl
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 All the monkeys upon the earth had arrived and encamped (niviṣṭāś ca); leaping up (āplavantaḥ), bounding along (plavantaś ca), and roaring, the leapers gathered around Sugrīva like masses of clouds around the sun (sūryam abhragaṇā iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing their heads from afar and folding their hands before Sugrīva, the monkey chiefs are presented to Rāma, who gains full command of the encamped legions.
 </details>
 </details>
 

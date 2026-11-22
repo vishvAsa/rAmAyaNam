@@ -27,6 +27,14 @@ down.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gathering blossoms, Sītā beholds the golden-and-silver-flanked deer and eagerly summons Rāma and Lakṣmaṇa, whereupon Lakṣmaṇa suspects the creature to be the shape-shifting Rākṣasa Mārīca.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तं सम्प्रेक्ष्य सुश्रोणी कुसुमानि विचिन्वती ।  
@@ -303,6 +311,14 @@ killed many of them resorting to many disguises, for he is a guise-changer by hi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lakṣmaṇa warns that no jewel-dappled deer exists on earth and likens it to a Gandharva mirage, but Sītā interrupts him and begs Rāma to capture the creature.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्य मायाविदो माया मृगरूपमिदं कृतम् ।  
@@ -529,6 +545,14 @@ will be our plaything. [3-43-10]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O noble lord (āryaputra), this charming deer (abhirāmo 'sau mṛgaḥ) steals away my heart (harati me manaḥ); bring it here, O mighty-armed one (mahābāho)—it shall serve as a plaything for us (krīḍārthaṃ no bhaviṣyati)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising the deer's unmatched vigour, lunar radiance, and melodious voice, Sītā declares that if captured alive it will adorn the royal palace and amaze the family in Ayodhyā.
 </details>
 </details>
 
@@ -904,6 +928,14 @@ to my mothers-in-law, and also to me in palace-chambers. [3-43-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Craving even the slain deer's golden pelt while apologizing for her willful plea, Sītā urges Rāma on, and Rāma himself, struck with wonder, addresses Lakṣmaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवन्न यदि तेऽभ्येति ग्रहणं मृगसत्तमः ।  
@@ -1208,6 +1240,14 @@ their brains,' an ancient saying.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāma marvels at the deer's golden-spotted streaks, lightning-like tongue, and sapphire-goblet face, declaring it peerless even in the celestial groves of Nandana and Caitraratha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पश्य लक्ष्मण वैदेह्याः स्पृहामुल्लसितामिमाम् ।  
@@ -1501,6 +1541,14 @@ as it were, whose heart is it that will not be transported into astonishment. [3
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Beholding this celestial form (rūpam idaṃ divyam), radiant like burnished gold (jāmbūnadamaya-prabham) and studded with manifold gems (nānā-ratnamayam), whose mind would not be struck with wonder?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Citing the royal custom of hunting and gathering forest riches, Rāma invokes statecraft to justify pursuing the deer whose golden pelt surpasses the finest furs.
 </details>
 </details>
 
@@ -1875,6 +1923,14 @@ different than that of deer.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening the deer to the celestial constellation Mṛgaśīrṣa, Rāma resolves that even if it is Mārīca in disguise, it must be slain just like the demon Vātāpi.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष चैव मृगः श्रीमान् यश्च दिव्यो नभश्चरः ।  
@@ -2161,6 +2217,14 @@ going to Agastya's hermitage.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “In former times here [in Daṇḍakāraṇya] (purastād iha), Vātāpi, treating ascetics with contempt (paribhūya tapasvinaḥ), used to slay twice-born sages from within their bellies (udarastho dvijān hanti), even as her own foetus kills a she-mule (svagarbho 'śvatarīm iva).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how the great sage Agastya digested the arrogant demon Vātāpi, Rāma vows to destroy Mārīca in the same way and commands Lakṣmaṇa to guard Sītā.
 </details>
 </details>
 
@@ -2456,6 +2520,14 @@ by Ravana' etc. In fact, Rama is the person who is more beguiled by the deer.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Having encountered me (mā gataḥ), this one shall be slain just as Vātāpi was by Agastya (bhaved dhato 'yaṃ vātāpir agastyeneva); remain here in full armour (iha tvaṃ bhava saṃnaddhaḥ), and with undivided attention (yantritaḥ) guard Maithilī!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that their entire mission rests upon Sītā, Rāma vows to fell the spotted deer with a single arrow and charges Lakṣmaṇa and Jaṭāyus with guarding Maithilī.
 </details>
 </details>
 

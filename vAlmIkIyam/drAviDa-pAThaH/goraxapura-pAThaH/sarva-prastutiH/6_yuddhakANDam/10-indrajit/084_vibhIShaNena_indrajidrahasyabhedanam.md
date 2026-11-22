@@ -27,6 +27,14 @@ Nikumbhila.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having stationed his troops at their posts, Vibhīṣaṇa arrives with his four ministers and beholds the weeping Vānaras and Rāma swooning in Lakṣmaṇa's lap.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राममाश्वासमाने तु लक्ष्मणे भ्रातृवत्सले ।  
@@ -317,6 +325,14 @@ Looking upon Vibhīṣaṇa's face, and toward Sugrīva and those Vānaras, Lak�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Interrupting Lakṣmaṇa's tearful account, Vibhīṣaṇa declares Hanūmān's report as impossible as the drying of the ocean, revealing that Rāvaṇa would never permit Sītā's death.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हता इन्द्रजिता सीता इति श्रुत्वैव राघवः ।  
@@ -604,6 +620,14 @@ Neither by conciliation (sāmnā), nor by gifts (dānena), nor by dissension (bh
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Unmasking the slain woman as a phantom conjured to stall the Vānaras, Vibhīṣaṇa warns that Indrajit is sacrificing at Nikumbhilā and urges Rāma to dispatch Lakṣmaṇa before the rite concludes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरान् मोहयित्वा तु प्रतियातः स राक्षसः ।  
@@ -864,6 +888,14 @@ Lakshmana with us, who are taking an army along with us."
 **17:** Cast off this grief that has come upon you through a false impression (mithyā saṃtāpam āgatam), O tiger among men; for the entire army sinks into despondency (sīdate hi balaṃ sarvam) upon beholding you wasted with sorrow!
 
 **18:** Remain right here with a composed heart (svastha-hṛdayaḥ), exalted in your innate fortitude (sattva-samucchritaḥ); dispatch Lakṣmaṇa together with us who lead the army columns (sainyānukarṣibhiḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that Lakṣmaṇa's keen shafts will force Indrajit to abandon his ritual and render him vulnerable to death, Vibhīṣaṇa urges Rāma to launch his brother like Indra's thunderbolt.
 </details>
 </details>
 

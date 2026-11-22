@@ -27,6 +27,14 @@ survive under the range of Lakshmana's arrows.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rejoicing at the prospect of disrupting the rite, Vibhīṣaṇa leads bow-wielding Lakṣmaṇa into the Nikumbhilā grove and urges him to destroy Indrajit before he reaches the dark banyan tree.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु सौमित्रिं जातहर्षो विभीषणः ।  
@@ -328,6 +336,14 @@ releasing your blazing arrows, even while he has not reached the banyan tree."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Before he enters that banyan tree (tam apraviṣṭaṃ nyagrodham), shatter that mighty son of Rāvaṇa with blazing arrows (śarair dīptaiḥ), together with his chariot, horses, and charioteer (sa-rathaṃ sāśva-sārathim)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Twanging his bow at the banyan's entrance, Lakṣmaṇa challenges the armoured Indrajit to open combat, prompting Rāvaṇa's son to berate his uncle Vibhīṣaṇa for betraying blood, birth, and dharma.
 </details>
 </details>
 
@@ -634,6 +650,14 @@ you, nor friendliness, nor pride of birth, nor a brotherly feeling nor a right c
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Indrajit condemns Vibhīṣaṇa's defection with the maxim that a fault-ridden kinsman excels a virtuous stranger, warning that defectors are ultimately slain by their new masters, before Vibhīṣaṇa replies.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शोच्यस्त्वमसि दुर्बुद्धे निन्दनीयश्च साधुभिः ।  
@@ -925,6 +949,14 @@ Addressed thus by his brother's son (bhrātṛ-putreṇa), Vibhīṣaṇa replie
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa defends his non-demonic character and righteous conduct, declaring that a brother steeped in sin, abduction, and malice must be cast off like a venomous snake or burning house.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसेन्द्रसुतासाधो पारुष्यं त्यज गौरवात् ।  
@@ -1194,6 +1226,14 @@ another's wife and excessive distrust with one's friends."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Seizing the wealth of others, violating the wives of others, and harbouring excessive suspicion toward well-wishers (suhṛdām atiśaṅkā ca)—these three faults bring utter ruin (trayo doṣāḥ kṣayāvahāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Likening Rāvaṇa's faults to storm-clouds eclipsing mountain peaks, Vibhīṣaṇa pronounces the doom of Laṅkā, blocks Indrajit from the banyan tree, and dares him to face Lakṣmaṇa's arrows.
 </details>
 </details>
 

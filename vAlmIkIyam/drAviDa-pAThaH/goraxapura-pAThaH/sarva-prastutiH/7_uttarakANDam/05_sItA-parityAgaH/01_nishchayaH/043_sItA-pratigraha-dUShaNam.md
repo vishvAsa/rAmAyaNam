@@ -13,6 +13,14 @@ title = "०४३ सीता-प्रतिग्रह-दूषणम्"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attended in his court by ten witty confidants entertaining him with manifold tales, Rāma pauses amidst their banter to ask Bhadra what reports circulate across city and provinces regarding himself, Sītā, his brothers, and Kaikeyī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रोपविष्टं राजानमुपासन्ते विचक्षणाः ।  
@@ -178,6 +186,14 @@ Then, in the midst of a certain tale (kathāyāṃ kasyāñcit), Rāghava spoke 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Bhadra initially reports only the citizens’ glowing praise of Rāvaṇa’s overthrow, Rāma urges him to speak the complete truth fearlessly—both good and ill—so that he may uphold virtue and remove every cause of reproach.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ते तु रामेण भद्रः प्राञ्जलिरब्रवीत् ।  
@@ -339,6 +355,14 @@ Thus addressed by Rāghava with these exceedingly gracious words (suruciraṃ va
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reporting the whispers in marketplaces, crossroads, and groves, Bhadra reveals that while citizens extol Rāma’s ocean-bridge and victory over Rāvaṇa, they bitterly fault him for taking back Sītā after her captivity in Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शृणु राजन् यथा पौराः कथयन्ति शुभाशुभम् ।  
@@ -463,6 +487,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘Yet after slaying Rāvaṇa in battle (hatvā ca rāvaṇaṃ saṅkhye) and recovering Sītā (sītām āhṛtya), Rāghava put his indignation behind his back (amarṣaṃ pṛṣṭhataḥ kṛtvā) and brought her back into his own house (sva-veśma punar ānayat).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bhadra concludes with the citizens’ fear that subjects follow their king’s example in tolerating tarnished wives; appearing deeply stricken, Rāma seeks confirmation from all his companions and, upon their solemn assent, dismisses them.
 </details>
 </details>
 

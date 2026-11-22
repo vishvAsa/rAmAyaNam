@@ -27,6 +27,14 @@ and again start searching Vindhya ranges, from the beginning.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though exhausted himself, the wise prince Aṅgada gently consoles the dejected monkeys, reminding them of Sugrīva's stern command and extolling perseverance, zeal, and undaunted mind.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाङ्गदस्तदा सर्वान् वानरानिदमब्रवीत् ।  
@@ -311,6 +319,14 @@ dk*
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Freedom from despondency (anirvedam), energetic capability (dākṣyam), and non-defeat of the mind (manasaś cāparājayam)—these, they say, are the causes of success in action (kārya-siddhi-karāṇi); therefore do I speak thus.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning that sitting idle will invite the wrath of Sugrīva and Rāma, Aṅgada urges a fresh search, and thirsty Gandhamādana seconds his wholesome counsel.
 </details>
 </details>
 
@@ -632,6 +648,14 @@ pragmatic also. Let us carry out as said by him. [4-49-12]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roused by Gandhamādana's words, the mighty monkeys rise up once more, climb the autumn-cloud-like Silver Mountain of the Vindhya, and search its lodhra and saptaparṇa groves.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुनर्मार्गामहे शैलान् कन्दरांश्च शिलांस्तथा ।  
@@ -872,6 +896,14 @@ of Lodhra trees, and even in the groves of seven-leaved banana plants. [4-49-16,
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 those foremost of monkeys, eager to behold Sītā (sītā-darśana-kāṅkṣiṇaḥ), searched the lovely lodhra forest and the groves of seven-leaved saptaparṇa trees there.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Finding no trace of Vaidehī even upon the summit of the Silver Mountain, the dazed monkeys descend, rest for a muhūrta beneath a tree, and resume searching the Vindhya.
 </details>
 </details>
 

@@ -27,6 +27,14 @@ to that proposal and they are set to travel to Mithila the next day.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Riding swiftly for three nights along the road from Mithilā, Janaka’s envoys enter Ayodhyā, are ushered into the royal palace, and greet the aged King Daśaratha with Janaka’s affectionate inquiries.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनकेन समादिष्टा दूतास्ते क्लान्तवाहनाः ।  
@@ -229,6 +237,14 @@ anon... [1-68-4, 5]
 **4:** “King Janaka of Mithilā (maithilo janako rājā), accompanied and preceded by his sacred fire-rituals (sāgnihotrapuraskṛtaḥ), again and again with a sweet voice suffused with affection (muhur muhur madhurayā snehasaṃraktayā girā)—
 
 **5:** “King Janaka inquires after your welfare and undiminished prosperity, O great monarch (kuśalaṃ cāvyayaṃ caiva janakas tvāṃ mahārāja pṛcchate), together with your preceptors, family priest, and attendants (sopādhyāyapurohitam sapuraḥsaram).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Conveying Janaka’s message, the envoys announce that Sītā, whose bride-price is valor, has been won by Daśaratha’s young sons, as Rāma snapped the divine bow in two before the great assembly.
 </details>
 </details>
 
@@ -493,6 +509,14 @@ solemn promise... [1-68-10]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Janaka invites Daśaratha to hasten to Mithilā with his preceptors and priest to fulfill the vow and rejoice in both his sons; overjoyed, Daśaratha relays the news to Vasiṣṭha and Vāmadeva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोपाध्यायो महाराज पुरोहितपुरस्कृतः ।  
@@ -738,6 +762,14 @@ along with his brother Lakshmana, and Vishvamitra is taking care of both these b
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Protected by the son of Kuśika (guptaḥ kuśikaputreṇa), that increaser of Kausalyā’s joy (kausalyānandavardhanaḥ), together with his brother Lakṣmaṇa (lakṣmaṇena saha bhrātrā), is dwelling in the land of the Videhas (videheṣu vasaty asau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Consulting Vasiṣṭha and his counselors on the marriage alliance with Janaka, King Daśaratha receives their joyful endorsement, proclaims the royal march for the morrow, and honors the envoys.
 </details>
 </details>
 

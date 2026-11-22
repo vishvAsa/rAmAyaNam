@@ -26,6 +26,14 @@ empress.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moon-faced Tārā embraces the fallen Vālin, who lies like an uprooted tree, and laments that her lord forsakes her to cleave to his rival bride, the bare earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामचापविसृष्टेन शरेणान्तकरेण तम् ।  
@@ -284,6 +292,14 @@ heaven and you go there leaving me, am I unfit to come with you..." and the like
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Exceedingly dear to you indeed is the earth (atīva khalu te kāntā vasudhā), O lord of the earth (vasudhādhipa), since even when bereft of life (gatāsur api), abandoning me, you cleave to her with your limbs (tāṃ gātrair māṃ vihāya niṣevase)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mourning the end of their forest pastimes and wondering why her heart does not shatter, Tārā laments that Vālin reaped the fruit of wronging Sugrīva and spurning her counsel.
 </details>
 </details>
 
@@ -615,6 +631,14 @@ And I, who sought your highest good and wished you well (niḥśreyasaparā hita
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Picturing Vālin captivating heaven's nymphs while she endures helpless widowhood, Tārā laments the inexorable power of Time and fears for delicate Aṅgada under a wrathful uncle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रूपयौवनदृप्तानां दक्षिणानां च मानद ।  
@@ -893,6 +917,14 @@ And my heroic Aṅgada, tenderly cherished, delicate, and accustomed to happines
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bidding Aṅgada take a last look at his father and begging Vālin for a parting word, Tārā tells Sugrīva his wish is fulfilled as Rāma has discharged his vow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुरुष्व पितरं पुत्र सुदृष्टं धर्मवत्सलम् ।  
@@ -1159,6 +1191,14 @@ Thus Tara lamented. [4-20-22]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Why do you not speak to me, your beloved, as I prattle thus in grief (kiṃ mām evaṃ pralapatīṃ priyāṃ tvaṃ nābhibhāṣase)? Behold these many excellent wives of yours, O lord of monkeys (imāḥ paśya varā bahvyo bhāryās te vānareśvara)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the monkey-women clasp Aṅgada and join in lamentation, Tārā bows her head to Vālin's feet, begs forgiveness for any past offence, and resolves to fast unto death.
 </details>
 </details>
 

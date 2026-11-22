@@ -26,6 +26,14 @@ Kumbhakarna to show his terrible prowess in killing all the adversaries in battl
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heavy with sleep and wine, Kumbhakarṇa marches down Laṅkā's flower-strewn royal highway, shaking the earth with his tread as he enters Rāvaṇa's sun-bright palace.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु राक्षसशार्दूलो निद्रामदसमाकुलः ।  
@@ -312,6 +320,14 @@ worried brother sitting in Pushpaka, a self-moving aerial car.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Approaching his brother's palace and passing through the inner courtyard (kakṣyām abhivigāhya ca), he beheld his elder brother (gurum) seated in dejection (udvignam) upon the aerial chariot Puṣpaka.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Welcomed and embraced by Rāvaṇa, Kumbhakarṇa bows to his brother's feet, takes a seat, and angrily demands to know what crisis prompted his premature awakening.
 </details>
 </details>
 
@@ -615,6 +631,14 @@ was there with anger (as follows):
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rolling his eyes in anger, Rāvaṇa tells Kumbhakarṇa how Rāma bridged the ocean, flooded Laṅkā's groves with Vānaras, and slew the foremost Rākṣasa champions.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य ते सुमहान् कालः शयानस्य महाबल ॥ १३ ॥  
@@ -876,6 +900,14 @@ destroyed now. You have been woken up solely for that purpose."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Therefore save us here, O mighty one, from this terror that has arisen (tad etad bhayam utpannam)! Destroy these foes today—for that very purpose (tadartham) have you been awakened.”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confessing that his treasuries are exhausted and Laṅkā is reduced to children and the aged, Rāvaṇa implores Kumbhakarṇa to scatter the enemy army like wind scattering autumn clouds.
 </details>
 </details>
 

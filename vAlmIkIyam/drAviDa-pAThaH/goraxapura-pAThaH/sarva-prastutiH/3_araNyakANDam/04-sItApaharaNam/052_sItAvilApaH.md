@@ -24,6 +24,14 @@ poetic niceties, and hence more stuffing in introduction is unbefitting.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grieving over the fallen Jaṭāyu and reflecting on ominous portents, Sītā cries out desperately to Rāma and Lakṣmaṇa as Rāvaṇa charges toward her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु ताराधिपमुखी रावणेन निरीक्ष्य तम् ।  
@@ -381,6 +389,14 @@ Toward that Vaidehī, whose garlands and ornaments were crushed and dishevelled 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Rāvaṇa seizes the tree-clinging Sītā by the hair, darkness engulfs the cosmos, Brahmā declares the divine purpose fulfilled, and the forest sages simultaneously grieve and rejoice.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां लतामिव वेष्टन्तीमालिङ्गन्तीं महाद्रुमान् ।  
@@ -634,6 +650,14 @@ all, a frog crocks before a rain.
 **11:** The glorious Grandsire Brahmā (śrīmān pitāmahaḥ) declared, “The work is accomplished!” (kṛtaṃ kāryam iti). And all those supreme sages (sarve te paramarṣayaḥ) were at once overjoyed and distressed (prahṛṣṭā vyathitāś cāsan)—
 
 **12:** Those dwellers of the Daṇḍaka forest (daṇḍakāraṇya-vāsinaḥ), upon seeing Sītā laid hold of (dṛṣṭvā sītāṃ parāmṛṣṭām) and realizing that Rāvaṇa's destruction (rāvaṇasya vināśam) had arrived of its own accord (prāptaṃ buddhvā yadṛcchayā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rising into the sky with the weeping princess, Rāvaṇa blazes like a mountain on fire beneath her fluttering yellow silk, while her face, parted from Rāma, wilts like a stalkless lotus.
 </details>
 </details>
 
@@ -999,6 +1023,14 @@ Resting on Rāvaṇa's hip in the sky (ākāśe rāvaṇāṅkagam), that spotle
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though radiant as the moon cleaving a dark cloud or a golden girdle on a dark elephant, Sītā's tear-stained face loses its lustre without Rāma like the moon risen by day.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूव जलदं नीलं भित्त्वा चन्द्र इवोदितः ।  
@@ -1260,6 +1292,14 @@ silvery lightning.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Yellow-fair as a lotus (padma-pītā), gleaming like gold (hemābhā), and wearing ornaments of refined gold (tapta-bhūṣaṇā), Janaka's daughter shone upon entering Rāvaṇa's embrace (rāvaṇam āviśya śuśubhe) like lightning entering a dark cloud (vidyud ghanam iva).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resounding with Sītā's jingling ornaments like a rumbling cloud, Rāvaṇa is encircled by blossoms falling from her hair like stars around Mount Meru, while her jewelled anklet drops to earth.
 </details>
 </details>
 
@@ -1609,6 +1649,14 @@ Ruddy-golden like the young shoot of a tree (taru-pravāla-raktā), that Vaideh�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Sītā blazes in the sky like a meteor, her ornaments fall like spent stars and her pearl necklace like the celestial Gaṅgā, while wind-tossed trees and lotus-ponds mourn her.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां महोल्कामिवाकाशे दीप्यमानां स्वतेजसा ।  
@@ -1919,6 +1967,14 @@ With their lotuses withered (dhvasta-kamalāḥ) and their fishes and water-crea
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beasts and birds race beneath Sītā's shadow, mountains weep through their waterfalls with crags upraised like arms, the sun turns pale, and all creatures mourn the death of righteousness.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समन्तादभिसम्पत्य सिंहव्याघ्रमृगद्विजाः ।  
@@ -2186,6 +2242,14 @@ and Seetha.
 **39:** “Righteousness is no more (nāsti dharmaḥ)—whence then truth (kutaḥ satyam)? There is neither uprightness (nārjavam) nor compassion (nānṛśaṃsatā), since Rāvaṇa is carrying off Rāma's Vaidehī Sītā (yatra rāmasya vaidehīṃ sītāṃ harati rāvaṇaḥ)!”
 
 **40:** Thus all living beings lamented in troops (iti bhūtāni sarvāṇi gaṇaśaḥ paryadevayan), and the terrified fawns (vitrastakā mṛga-potakāḥ), with downcast faces (dīna-mukhāḥ), wept (ruruduḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While sylvan deities tremble in terror, Daśagrīva carries off to his own doom the high-minded Vaidehī, who scans the earth below in vain for Rāma and Lakṣmaṇa.
 </details>
 </details>
 

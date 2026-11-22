@@ -24,6 +24,14 @@ the hand of Lakshmana.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the fourteen thousand demons along with Khara, Dūṣaṇa, and Triśiras slain by Rāma alone, the terrified Śūrpaṇakhā roars like a thundercloud and flees to Rāvaṇa's court in Laṅkā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखा दृष्ट्वा सहस्राणि चतुर्दश ।  
@@ -276,6 +284,14 @@ making him to glow to the bedazzlement of all the worlds. And how he got that In
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Seated upon a supreme golden throne bright as the sun (sūrya-saṃkāśe kāñcane paramāsane), like a blazing sacrificial fire (jvalantam iva pāvakam) fed with abundant oblation upon a golden altar (rukma-vedi-gataṃ prājyam)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Śūrpaṇakhā gazes upon her twenty-armed, ten-necked brother Rāvaṇa—battle-scarred by Indra's thunderbolt, Airāvata's tusks, and Viṣṇu's discus, yet unharmed by divine weapons and churning the oceans.
 </details>
 </details>
 
@@ -619,6 +635,14 @@ The hurler of mountain peaks (kṣeptāraṃ parvatāgrāṇām) and crusher of 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+She beholds the conqueror who defeated Vāsuki in Bhogavatī, abducted Takṣaka's wife, seized Kubera's Puṣpaka chariot on Kailāsa, ravaged celestial groves, and stayed the rising sun and moon.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वदिव्यास्त्रयोक्तारं यज्ञविघ्नकरं सदा ।  
@@ -890,6 +914,14 @@ Who, resolute (dhīraḥ), having practiced austerity (tapas taptvā) for ten th
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having offered his own heads to Svayambhū and won immunity from death at the hands of all beings save man, the cruel, Brahman-slaying Rāvaṇa spoils Vedic soma-sacrifices and terrifies all worlds.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वपिशाचपतगोरगैः ॥ १८ ॥  
@@ -1126,6 +1158,14 @@ apatyam pumaan raavaNaH* 'Ravana's son is Raavana.'
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Harsh (karkaśam), pitiless (niranukrośam), delighting in the harm of creatures (prajānām ahite ratam)—Rāvaṇa, who makes all beings cry out and brings terror to all the worlds (sarva-bhūtānāṃ sarva-loka-bhayāvaham)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Approaching her resplendent brother seated like Death at cosmic dissolution amidst his ministers, the mutilated Śūrpaṇakhā displays her disfigurement and speaks harsh words.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ she sees Jatayu, the eagle, and asks him to narrate her abduction to Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Clapping his hands in fury at Sītā's scorn, Rāvaṇa boasts that he can lift the earth and slay Death, and casts off his mendicant guise to assume his monstrous form.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा दशग्रीवः प्रतापवान् ।  
@@ -361,6 +369,14 @@ Instantly casting off his gentle mendicant guise (sadyaḥ saumyaṃ parityajya)
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Towering with ten faces and twenty arms like a dark storm-cloud, Rāvaṇa stands in crimson robes before Sītā and entreats her once more to accept him as her husband.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संरक्तनयनः श्रीमांस्तप्तकाञ्चनभूषणः ।  
@@ -666,6 +682,14 @@ Cleave to me forever (māṃ bhajasva cirāya tvam), for I am a praiseworthy hus
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Mocking Sītā's devotion to the exiled Rāma, the lust-maddened Rāvaṇa seizes her by her hair and thighs as the terrified woodland deities flee.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यज्यतां मानुषो भावो मयि भावः प्रणीयताम् ।  
@@ -963,6 +987,14 @@ a mountain crest and similar to Death, the forest deities quickly fled away terr
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Beholding him—towering like a mountain peak (giri-śṛṅgābham), sharp-fanged (tīkṣṇa-daṃṣṭram), mighty-armed (mahā-bhujam), and resembling Death himself (mṛtyu-saṃkāśam)—the woodland deities fled in terror (prādravan bhayārtā vana-devatāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lifting the struggling Sītā onto his mule-yoked magic chariot, Rāvaṇa springs into the sky as she cries out in anguish to the distant Rāma and Lakṣmaṇa.
 </details>
 </details>
 
@@ -1277,6 +1309,14 @@ the hermitage just now, so he must be within earshot, while Rama went into deep 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Alas, O mighty-armed Lakṣmaṇa (hā lakṣmaṇa mahā-bāho), you who ever gladden the heart of your elder brother (guru-citta-prasādaka)! Do you not know that I am being carried off (hriyamāṇāṃ na jānīṣe) by a shape-shifting rākṣasa (rakṣasā kāma-rūpiṇā)?
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out to Rāma, Sītā reflects on the ripening of evil deeds in time, curses the doom-blinded Rāvaṇa, and calls upon the blossoming karṇikāra trees of Janasthāna to bear word to her lord.
 </details>
 </details>
 
@@ -1606,6 +1646,14 @@ thieving Seetha." Thus, she is addressing the woods and others on the ground fro
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā salutes the Godāvarī river, the sylvan deities, and all the beasts and birds of the forest, imploring them to tell Rāma that she has been carried off by Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हंससारससङ्घुष्टां वन्दे गोदावरीं नदीम् ।  
@@ -1861,6 +1909,14 @@ against Yama, the Death God." Thus, she appealed to one and all, but in vain. [3
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “For once that mighty-armed one of great strength knows of it (viditvā tu mahā-bāhur... mahā-balaḥ), he will put forth his valour and bring me back even from the other world (amutrāpi... āneṣyati parākramya), even if I were carried off by Vaivasvata [Yama] himself (vaivasvata-hṛtām api)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Catching sight of the vulture king Jaṭāyu perched upon a great tree, the weeping Sītā calls out to him to report her abduction in full to Rāma and Lakṣmaṇa.
 </details>
 </details>
 

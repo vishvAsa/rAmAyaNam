@@ -24,6 +24,14 @@ Hanuman, Seetha was overjoyed and finds Hanuma perched on Simshapa tree.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having reflected in manifold ways, high-minded Hanūmān speaks sweet words within Vaidehī’s hearing, extolling the righteous Emperor Daśaratha of the Ikṣvāku lineage and his eldest son Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं बहुविधां चिन्तां  
@@ -324,6 +332,14 @@ His beloved eldest son, with a countenance resembling the moon, lord of stars (t
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān recounts Rāma’s protection of dharma, his forest exile with Sītā and Lakṣmaṇa, the slaying of Khara and Dūṣaṇa in Janasthāna, and Sītā’s abduction by Rāvaṇa through the illusory deer.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षिता स्वस्य वृत्तस्य स्वजनस्यापि रक्षिता ।  
@@ -571,6 +587,14 @@ after he had deceived Rāma in the forest through illusion in the form of a deer
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān narrates Rāma’s alliance with Sugrīva, the slaying of Vālin, the dispatch of monkey hosts across all quarters, and his own leap across the hundred-yojana ocean at Sampāti’s word.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः स वालिनं हत्वा रामः परपुरञ्जयः ॥ १२ ॥  
@@ -747,6 +771,14 @@ for the sake of this broad eyed Seetha."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 in their thousands, have been searching for that royal lady in all directions (dikṣu sarvāsu). And I, at the word of Sampāti (sampāti-vacanāt), across the hundred-yojana-wide
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding his speech, Hanūmān falls silent; filled with wonder and joy on remembering Rāma, Sītā raises her hair-veiled face and beholds the wind-god’s son shining like the rising sun.
 </details>
 </details>
 

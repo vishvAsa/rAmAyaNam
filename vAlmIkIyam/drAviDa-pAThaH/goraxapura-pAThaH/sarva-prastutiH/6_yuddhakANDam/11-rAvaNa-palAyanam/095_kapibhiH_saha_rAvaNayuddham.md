@@ -29,6 +29,14 @@ monkeys and the demons. Ravana fights fiercely with monkeys.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the thousands of elephants, steeds, chariots, and night-roaming warriors slaughtered by Rāma's blazing arrows, the widowed rākṣasīs gather in anguish and condemn Śūrpaṇakhā's fatal infatuation.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तानां राक्षसीनां तु लङ्कायां वै कुले कुले ।  
@@ -283,6 +291,14 @@ those armies of demons, who felt unagitated, in accordance with the orders of th
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “How could the aged (vṛddhā) Śūrpaṇakhā, hideous with gap-toothed jaws (karālā) and sunken belly (nirṇatodarī), approach in the forest Rāma, who is equal in form to Kandarpa (kandarpa-sama-rūpiṇam)?”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The rākṣasīs revile the wrinkled, white-haired Śūrpaṇakhā for her shameless assault on Rāma in Janasthāna, which provoked Rāvaṇa to abduct Sītā and forge an undying enmity.
 </details>
 </details>
 
@@ -596,6 +612,14 @@ the quarters, nor the heaven, nor the seas will come to view."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Neither does Daśagrīva win Sītā, the daughter of Janaka (janakātmajām), nor [can he escape], having bound an imperishable enmity (vairam akṣayam) with the mighty Rāghava!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting Rāma's single-handed slaying of Virādha, Khara, Dūṣaṇa, Triśiras, Kabandha, and Vālin, the rākṣasīs repeat the refrain that each feat alone was sufficient proof of his invincibility.
 </details>
 </details>
 
@@ -913,6 +937,14 @@ And dwelling on Ṛṣyamūka, wretched and with his hopes shattered (bhagna-man
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that Rāvaṇa spurned Vibhīṣaṇa's salutary counsel and remained blind even after the deaths of Kumbhakarṇa, Atikāya, and Indrajit, the women wonder what deity slays them in Rāma's form.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य मद‍्बाणनिर्भिन्नैः प्रस्तीर्णैर्गतचेतनैः ।  
@@ -1226,6 +1258,14 @@ Whether he be Rudra, or Viṣṇu, or Mahendra of a hundred sacrifices (śata-kr
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Despairing of life as portents foretell Rāvaṇa's doom, the rākṣasīs recall that when Pitāmaha granted him immunity from gods, dānavas, and rākṣasas, he disdained to ask protection from men.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असिभिः पट्टिशैः शूलैर्गदाभिर्मुसलैर्हलैः ।  
@@ -1442,6 +1482,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 This peril, I ween, has arrived beyond doubt from a mortal (mānuṣam), bringing an end to the lives (jīvitāntakaram) of the rākṣasas and of Rāvaṇa, dreadful as it is!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The rākṣasīs recall how the oppressed gods propitiated Pitāmaha and Mahādeva, and how the bull-bannered Lord foretold the birth of a woman who would devour the rākṣasas along with Rāvaṇa.
 </details>
 </details>
 
@@ -1716,6 +1764,14 @@ along with his army-troops of demons, set out for the battle with his raised bow
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Sent forth (prayuktā) by the gods, just as Hunger (kṣut) [devoured] the dānavas of old, this [Sītā], the slayer of rākṣasas (rākṣasa-ghnī), shall devour us all along with Rāvaṇa (sarāvaṇān)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Praising Vibhīṣaṇa's timely wisdom in seeking refuge with Rāma himself, the terrified rākṣasa women embrace one another and wail aloud like female elephants ringed by a forest fire.
 </details>
 </details>
 

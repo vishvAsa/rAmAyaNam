@@ -26,6 +26,14 @@ advises Rama on how to rule the kingdom for the benefit of the people.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Accepting the lotus-like folded hands of the assembly with supreme delight, King Daśaratha praises the auspicious spring month of Caitra and requests Vasiṣṭha and Vāmadeva to prepare all requisites for Rāma’s consecration.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामञ्जलिपद्मानि प्रगृहीतानि सर्वशः ।  
@@ -327,6 +335,14 @@ spoke these words to Vasiṣṭha, that tiger among sages (muni-śārdūlam): �
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the king’s request, Sage Vasiṣṭha instructs the royal officers to place gold, gems, herbs, unbleached garments, a fourfold army, a hundred golden pitchers, a gold-horned bull, and a tiger-skin in the royal fire-sanctuary by dawn.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा भूमिपालस्य वसिष्ठो मुनिसत्तमः ॥ ७ ॥  
@@ -471,6 +487,14 @@ pots with brilliant shine, bull with gilded horns and a complete tiger skin".
 **11:** “a hundred golden pitchers resplendent as blazing fire (śataṃ ca śātakumbhānāṃ kumbhānām agni-varcasām), a bull with gilded horns (hiraṇya-śṛṅgam ṛṣabham), and an entire tiger-skin (samagraṃ vyāghra-carma ca)—”
 
 **12:** “and whatever else is required, let all that be made ready, and place it tomorrow at dawn in the sacred fire-sanctuary (agny-agāre) of the lord of the earth!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vasiṣṭha further directs that the palace and city gates be garlanded, a hundred thousand Brāhmaṇas be sumptuously fed at dawn, banners be raised along the watered royal highway, and musicians and dancers assemble in the second courtyard.
 </details>
 </details>
 
@@ -779,6 +803,14 @@ people gather there with rice, eatables, presents and garlands separately."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having ordered worship at every shrine and stationed armed warriors in the palace courtyard, Vasiṣṭha and Vāmadeva report completion to Daśaratha, who dispatches Sumantra to bring Rāma in his chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घासिबद्धगोधाश्च सन्नद्धा मृष्टवाससः ॥ १९ ॥  
@@ -1037,6 +1069,14 @@ a chariot.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Attended by kings from all four quarters like Indra among the Maruts, Daśaratha beholds from his palace the arrival of Rāma, who captivates every eye and heart like a rain-cloud cooling the heat-parched earth.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तत्र सहासीनास्तदा दशरथं नृपम् ॥ २४ ॥  
@@ -1290,6 +1330,14 @@ followed behind Rama, who approached his father.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Gazing upon him as he approached, the lord of men could not be sated (na tatarpa paśyamānaḥ). Sumantra, having assisted Rāghava to alight from that foremost of chariots (avatārya syandanottamāt),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Ascending the Kailāsa-like palace with Sumantra, Rāma bows at his father’s feet, is affectionately embraced by Daśaratha, and illuminates the jewelled throne and assembly hall like the rising sun upon Mount Meru.
 </details>
 </details>
 
@@ -1607,6 +1655,14 @@ by his own lustre, just as the cloudless sun at sunrise illuminates Mount Meru (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Gazing upon Rāma as though beholding his own adorned reflection in a mirror, Daśaratha addresses him like Kaśyapa speaking to Indra and bids him accept the office of Prince Regent under the Puṣya conjunction.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं पश्यमानो नृपतिस्तुतोष प्रियमात्मजम् ॥ ३७ ॥  
@@ -1791,6 +1847,14 @@ constellation Pushya).."
 **39:** spoke these words, even as Kaśyapa spoke to Devendra: “Born of my eldest and worthy queen (jyeṣṭhāyām asi me patnyāṃ sadṛśyām), you are a son worthy of me (sadṛśaḥ sutaḥ)!”
 
 **40:** “O Rāma, you have been born as my beloved son, foremost in virtues (guṇa-jyeṣṭhaḥ); and inasmuch as these subjects have been won over by you through your own excellences (svaguṇair anurañjitāḥ),”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Out of paternal affection, Daśaratha counsels the already virtuous Rāma to cultivate even greater humility, shun the vices born of desire and wrath, govern through both secret intelligence and direct audience, and delight his ministers and subjects.
 </details>
 </details>
 
@@ -1990,6 +2054,14 @@ common people delightful and happy. Hence, you too act like this."
 **44:** “win the affection of all your subjects headed by the ministers (amātya-prabhṛtīḥ sarvāḥ prajāś caivānurañjaya), after amassing abundant stores in your granaries and armouries (koṣṭhāgārāyudhāgāraiḥ)!”
 
 **45:** “When a monarch rules the earth with his subjects cherished and devoted to him (iṣṭānurakta-prakṛtiḥ), his allies rejoice (nandanti mitrāṇi), even as the immortals rejoiced upon obtaining ambrosia (labdhvāmṛtam ivāmarāḥ).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Well-wishers hasten to announce the glad tidings to Queen Kausalyā, who lavishes gold, kine, and gems upon them, while Rāma returns to his radiant palace and the joyous citizens worship the gods in their homes.
 </details>
 </details>
 

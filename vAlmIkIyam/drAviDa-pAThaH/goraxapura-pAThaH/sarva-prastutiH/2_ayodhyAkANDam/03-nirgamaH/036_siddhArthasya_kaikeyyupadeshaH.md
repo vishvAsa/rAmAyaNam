@@ -15,6 +15,14 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Tormented by his pledge and seeing Kaikeyī unmoved, King Daśaratha commands Sumantra to dispatch the fourfold army, courtesans, wealthy merchants, retainers, weapons, wagons, and forest-wise hunters to attend Rāma in the woods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुमन्त्रम् ऐक्ष्वाकः  
@@ -343,6 +351,14 @@ not remember of sovereignty"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Hunting deer and elephants (nighnan mṛgān kuñjarāṃś ca), drinking wild honey (pibaṃś cāraṇyakaṃ madhu), and gazing upon diverse rivers (nadīś ca vividhāḥ paśyan), he will not wistfully remember the kingdom (na rājyaṃ saṃsmariṣyati)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Daśaratha orders his granaries and treasuries to follow Rāma so that Bharata may rule an empty Ayodhyā, Kaikeyī’s mouth dries up and her voice chokes with alarm, and she protests that Bharata will never accept a kingdom drained of its wealth like liquor drained of its cream.
 </details>
 </details>
 
@@ -687,6 +703,14 @@ which will be absolutely unenjoyable like wine, quaffed of its spiriteous part, 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Daśaratha asks why she goads him like a yoked beast and did not forbid the army when first claiming her boons, Kaikeyī brazenly cites King Sagara’s banishment of his eldest son Asamañja, prompting Daśaratha’s cry of ‘Fie!’ and the intervention of the elder minister Siddhārtha.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेय्यां मुक्तलज्जायां  
@@ -1012,6 +1036,14 @@ Thereupon an aged chief minister named Siddhārtha (tatra vṛddho mahāmātra�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Siddhārtha recounts how the perverse Asamañja used to seize children playing in the street and drown them in the Sarayū for sport, until the outraged citizens demanded that King Sagara choose between Asamañja and his subjects, and Sagara banished his wicked son.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असमञ्जो **गृहीत्वा** तु  
@@ -1289,6 +1321,14 @@ subjects, in a bid to do good to them.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recounting how King Sagara banished Asamañja for life with a spade and basket to roam the mountain fastnesses like an evildoer, Siddhārtha asks what crime Rāma—spotless as the crescent moon—has committed to deserve banishment.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं यानं शीघ्रम् **आरोप्य**  
@@ -1534,6 +1574,14 @@ Rama will be exiled."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Or if, O queen, you perceive any fault in Rāghava (athavā devi tvaṃ kaṃcid doṣaṃ paśyasi rāghave), declare it truly today—then let Rāma be banished (tam adya brūhi tattvena tadā rāmo vivāsyate)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Warning Kaikeyī that banishing the blameless Rāma violates dharma and would scorch even Indra’s splendour, Siddhārtha urges her to desist; when she remains obdurate, the grief-stricken Daśaratha declares that he himself will renounce the kingdom today and follow Rāma into exile.
 </details>
 </details>
 

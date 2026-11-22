@@ -26,6 +26,14 @@ the monkeys to confidence once more and all the monkeys stand awaiting the comma
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As Kumbhakarṇa steps over the wall roaring louder than thunderclaps and scattering the Vānara ranks, Prince Aṅgada rallies Nala, Nīla, Gavākṣa, and Kumuda, dismissing the giant as a mere scarecrow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स लङ्घयित्वा प्राकारं गिरिकूटोपमो महान् ।  
@@ -340,6 +348,14 @@ Turn back nobly, gentle sirs (sādhu saumyā nivartadhvam)! Why do you hoard you
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rallied by Aṅgada's words, the Vānaras return and hurl crags and flowering trees upon Kumbhakarṇa, who stands unshaken and churns their ranks like a forest fire.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महतीमुत्थितामेनां राक्षसानां विभीषिकाम् ।  
@@ -610,6 +626,14 @@ greatly energetic, with his extreme exertion even as a rising fire would consume
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 He too, thoroughly incensed and exerting himself to the utmost (paramāyattaḥ), churned (mamantha) the legions of the mighty Vānaras like an uprisen fire consuming forests (vanāny agnir ivotthitaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bathed in blood like crimson-flowered trees, the Vānara warriors fall or flee in blind panic toward the sea, the sky, trees, and caves, until Aṅgada once more calls them back.
 </details>
 </details>
 
@@ -934,6 +958,14 @@ Beholding those routed (bhagnān) Vānaras, Aṅgada spoke these words: “Stand
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Aṅgada warns the fleeing monkeys that no refuge exists on earth for deserters, that their wives' mockery will be worse than death, and that they must remember their boasts and walk the path of heroes.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भग्नानां वो न पश्यामि परिक्रम्य महीमिमाम् ।  
@@ -1172,6 +1204,14 @@ yourself in front of the people just before coming for the battle?
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Reproaches of cowardice (bhīroḥ pravādāḥ) are heard against him who lives on under a curse of shame (dhikkṛtaḥ); let the path trodden by noble men (mārgaḥ satpuruṣair juṣṭaḥ) be followed—cast off fear!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Exhorting the monkeys either to win Brahmaloka by dying in battle or gain glory by slaying the foe, Aṅgada predicts Kumbhakarṇa's doom before Rāma, though the fleeing monkeys briefly demur.
 </details>
 </details>
 
@@ -1422,6 +1462,14 @@ alone and if we protect our lives by running away, our glory will undergo a dama
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As that valiant Aṅgada, decked with golden armlets (kanakāṅgadam), spoke thus, the fleeing monkeys uttered in reply a speech despised by heroes (śūravigarhitam):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Though the terrified monkeys momentarily plead that life is dear and scatter, Aṅgada wins them back with soothing words and proofs of Rāma's might, leading the great chiefs back into the fray.
 </details>
 </details>
 

@@ -27,6 +27,14 @@ Rama.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Halting his army according to his directions, the mighty Bharata resolves to approach Rāma on foot, dispatching Śatrughna with hunters and Guha with a thousand kinsmen to search the forest while vowing he will find no peace until he beholds Rāma, Lakṣmaṇa, and Vaidehī.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवेश्य सेनां तु विभुः पद्‍भ्यां पादवतां वरः ।  
@@ -305,6 +313,14 @@ the illustrious Seetha."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 So long as I do not behold Rāma, or Lakṣmaṇa of mighty strength (yāvan na rāmaṃ drakṣyāmi lakṣmaṇaṃ vā mahā-balam), or the highly fortunate Vaidehī, there shall be no peace for me (vaidehīṃ vā mahā-bhāgāṃ na me śāntir bhaviṣyati).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Yearning to place Rāma’s royal-marked feet upon his head and see him anointed on his ancestral throne, Bharata praises the blessedness of Lakṣmaṇa, Vaidehī, and Mount Citrakūṭa, where Kākutstha dwells like Kubera in Nandana.
 </details>
 </details>
 
@@ -625,6 +641,14 @@ Rama is residing, as Kubera the Lord of riches is living in the garden of Nandan
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Blessed is yonder mountain Citrakūṭa, resembling the king of mountains (subhagaś citrakūṭo ’sau giri-rājopamo giriḥ), upon which Kākutstha dwells like Kubera in the Nandana grove (yasmin vasati kākutsthaḥ kubera iva nandane).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Entering the dense forest on foot through flowering groves upon the mountain slopes, Bharata reaches a blossoming sāla tree on Citrakūṭa, beholds the rising smoke-banner of Rāma’s hermitage fire, and hastens forward with Guha.
 </details>
 </details>
 

@@ -25,6 +25,14 @@ difficulty.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After Sampāti bathes and offers water for Jaṭāyus, the monkeys surround him on the mountain, and he recounts how he fell scorched upon Vindhya and regained consciousness after six nights.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कृतोदकं स्नातं तं गृध्रं हरियूथपाः ।  
@@ -343,6 +351,14 @@ forests, I could regain senses... [4-60-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recognizing Mount Vindhya on the southern ocean's shore, Sampāti recalls the sacred hermitage of the sage Niśākara, who had ascended to heaven eight thousand years earlier, and descends painfully to see him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्टपक्षिगणाकीर्णः कन्दरोदरकूटवान् ।  
@@ -608,6 +624,14 @@ and Jataayu approached that sage for many a time in earlier times... [4-60-11]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Desirous of beholding that sage (tam ṛṣiṃ draṣṭukāmaḥ), I approached with great pain (duḥkhenābhyāgato bhṛśam); for he had been visited (adhigataḥ) many times (bahuśaḥ) by Jaṭāyus and by me.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Waiting at the foot of a tree in the fragrant, ever-blossoming hermitage, Sampāti sees the radiant sage Niśākara returning from his bath escorted by wild beasts, who disperse once he enters.
 </details>
 </details>
 
@@ -882,6 +906,14 @@ hermitage, retraced their steps and went away... [4-60-16]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, knowing the sage to have arrived (prāptam ṛṣiṃ jñātvā), those creatures departed (yayuḥ), just as an entire army together with its ministers (sāmātyakaṃ balam) [departs] when the king has entered [his inner apartments].
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Re-emerging from his hermitage after a moment, Niśākara barely recognizes the scorched, featherless Sampāti as the elder brother of Jaṭāyus and asks how his wings fell and who inflicted his punishment.
 </details>
 </details>
 

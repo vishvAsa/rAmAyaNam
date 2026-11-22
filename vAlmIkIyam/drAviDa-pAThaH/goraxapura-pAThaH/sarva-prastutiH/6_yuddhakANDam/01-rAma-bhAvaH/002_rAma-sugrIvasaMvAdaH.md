@@ -23,6 +23,14 @@ apprehensive mind and to think of ways and means to cross the ocean.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma overwhelmed by despondency, the noble Sugrīva consoles him with wise counsel, urging him to cast off grief now that Sītā's abode has been discovered.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु शोकपरिद्यूनं रामं दशरथात्मजम् ।  
@@ -339,6 +347,14 @@ disturbed with grief. Such a person gets into troubles too."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pointing to the jubilant monkey commanders ready to leap into fire for Rāma, Sugrīva urges the building of a causeway across the ocean to seal Rāvaṇa's doom.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमे शूराः समर्थाश्च सर्वतो हरियूथपाः ।  
@@ -640,6 +656,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “The very moment a causeway is bound across the ocean right up to the vicinity of Laṅkā (yāval laṅkā-samīpataḥ), consider my entire army to have crossed over (sarvaṃ tīrṇaṃ ca me sainyam) and victory to be won (jitam ity upadhāraya); for these monkeys are heroes in battle who can assume any form at will (kāma-rūpiṇaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva counsels Rāma to renounce faintheartedness and embrace heroic pride, reminding him that none in the three worlds can stand before his drawn bow.
 </details>
 </details>
 
@@ -962,6 +986,14 @@ worlds, when you are armed with a bow, Oh Rama!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Entrusted to the monkeys (vānareṣu samāsaktam), your enterprise shall never fail (na te kāryaṃ vipatsyate); before long you shall behold Sītā (acirād drakṣyase sītām), having crossed the inexhaustible ocean (tīrtvā sāgaram akṣayam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva exhorts Rāma to exchange grief for fierce Kṣatriya wrath, deliberate on crossing the ocean, and trust the auspicious omens heralding certain victory.
 </details>
 </details>
 

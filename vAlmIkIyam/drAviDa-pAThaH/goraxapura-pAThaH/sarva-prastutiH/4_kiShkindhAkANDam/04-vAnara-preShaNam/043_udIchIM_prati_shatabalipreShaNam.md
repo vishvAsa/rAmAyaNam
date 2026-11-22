@@ -27,6 +27,14 @@ sacredness.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having dispatched Suṣeṇa westward, King Sugrīva commissions the hero Śatabali and a hundred thousand monkeys to search the snow-crowned northern quarter and repay Rāma's benefaction.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सन्दिश्य सुग्रीवः श्वशुरं पश्चिमां दिशम् ।  
@@ -290,6 +298,14 @@ reciprocation to that kind deed, our lives will become fruitful. [4-43-6]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For a great favor has been done to us (kṛtaṃ hi priyam asmākam) by great-souled Rāghava; if there is a requital (pratikāraḥ) for that, our life will become fruitful (saphalaṃ jīvitaṃ bhavet).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Extolling the duty of reciprocating Rāma's prior kindness, Sugrīva directs Śatabali's troop to search the northern kingdoms—from the Śūrasenas and Kurus to the Kāmbojas, Yavanas, Śakas, and Himavān.
 </details>
 </details>
 
@@ -593,6 +609,14 @@ Shaka etc. for this please see the endnote for some more information
 **11:** There, having searched through the Mlecchas, the Pulindas, and the Śūrasenas as well, the Prasthalas, the Bharatas, and the Kurus together with the Madrakas,
 
 **12:** the Kāmbojas and Yavanas, the cities of the Śakas (śakānāṃ pattanāni ca), and the Daradas as well (anvīkṣya daradāṃś caiva), search thoroughly through Himavān (himavantaṃ vicinvatha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva guides the northern search through Himavān's cedar forests and Soma's hermitage to three trans-Himālayan peaks: Mount Kāla, golden-cored Mount Sudarśana, and bird-thronged Mount Devasakha.
 </details>
 </details>
 
@@ -913,6 +937,14 @@ caverns of that mountain, together with Vaidehi. [4-43-18]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In its forest groves (kānanaṣaṇḍeṣu), mountain cascades (nirjhareṣu), and caverns, Rāvaṇa together with Vaidehī must be searched for everywhere.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beyond Mount Devasakha lies a desolate hundred-yojana wasteland; crossing it swiftly, the monkeys will reach gleaming white Mount Kailāsa, where Yakṣa-king Kubera sports beside his celestial lotus-lake.
 </details>
 </details>
 
@@ -1241,6 +1273,14 @@ Kubera under duress.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Upon its moon-like (candranikāśeṣu) peaks and within its caverns, Rāvaṇa together with Vaidehī must be searched for everywhere.
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva directs the monkeys to Mount Krauñca—whose chasm Skanda pierced and where solar-bright sages dwell—along with Kāmaśaila, Mānasa, and Mount Maināka, site of Maya's self-built palace.
 </details>
 </details>
 
@@ -1599,6 +1639,14 @@ There stands the palace of the Dānava Maya, built by himself (svayaṃkṛtam);
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beyond Maināka's horse-faced Kinnarīs lies the Vaikhānasa hermitage and lotus-lake, roamed by Kubera's elephant Sārvabhauma, and a sunless, starless expanse illumined solely by self-luminous Siddhas.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रीणामश्वमुखीनां तु निकेतस्तत्र तत्र तु ।  
@@ -1926,6 +1974,14 @@ Yet that region is illumined as though by the rays of the sun (gabhastibhir ivā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beyond the Śailodā river—where arching kīcaka bamboos ferry Siddhas across—lies Uttarakuru, a land of merit graced with thousands of gem-petalled lotus rivers and pearl-strewn banks.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु देशमतिक्रम्य शैलोदा नाम निम्नगा ।  
@@ -2166,6 +2222,14 @@ around lakes, which lakes will be surrounding that province with a resplendence 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 That land is encompassed on every side (sa deśaḥ sarvato vṛtaḥ) by variegated beds of blue water-lilies (nīlotpalavanaiś citraiḥ) having petals of precious gems (mahārhamaṇipatraiḥ) and filaments of golden lustre (kāñcanaprabhakesaraiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In Uttarakuru, wish-fulfilling trees perpetually yield garments, pearl-and-beryl ornaments, gem-studded couches, garlands, costly drinks, and viands amid golden mountains and accomplished maidens.
 </details>
 </details>
 
@@ -2464,6 +2528,14 @@ and foodstuffs that are relevant to highly choicest consumers. [4-43-47]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In Uttarakuru, celestial beings sport amid ceaseless music and laughter without sorrow; beyond that land lies the northern ocean and the great golden Mount Somagiri.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गन्धर्वाः किन्नराः सिद्धा नागा विद्याधरास्तथा ।  
@@ -2743,6 +2815,14 @@ Passing beyond that land lies the northern ocean (uttaraḥ payasāṃ nidhiḥ)
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+In the northern sea rises golden Mount Somagiri, shining like the sun in a sunless realm where Viṣṇu, Śiva, and Brahmā abide; sighting it, the monkeys must turn back.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द्रलोकगता ये च ब्रह्मलोकगताश्च ये ।  
@@ -3017,6 +3097,14 @@ you to quickly return from there on seeing that mountain. [4-43-58]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 For that mountain named Somagiri is hard of access even for the gods (devānām api durgamaḥ); having beheld it from afar (tam ālokya), you ought swiftly to turn back from there (tataḥ kṣipram upāvartitum arhatha).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marking the northern limit of the world, Sugrīva urges Śatabali's host to accomplish the discovery of Vaidehī, promising them honor and peaceful enjoyment across the earth upon their return.
 </details>
 </details>
 

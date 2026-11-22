@@ -36,6 +36,14 @@ finally, Narantaka dies.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Rāvaṇa lament over Kumbhakarṇa, Prince Triśiras rebukes his unmanly grief, reminds him of his Brahmā-given weapons and past victories, and volunteers for battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विलपमानस्य रावणस्य दुरात्मनः ।  
@@ -321,6 +329,14 @@ Pray remain at ease, O Great King (kāmaṃ tiṣṭha mahārāja); I myself sha
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Heartened by Triśiras's vow to fell Rāma, Rāvaṇa feels reborn while Devāntaka, Narāntaka, and Atikāya clamor to lead the charge.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शम्बरो देवराजेन नरको विष्णुना यथा ।  
@@ -572,6 +588,14 @@ had humbled the pride of gods. All were fierce in battle.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 all of them coursing through the sky (antarikṣagatāḥ sarve), all skilled in illusion (māyāviśāradāḥ), all crushers of the pride of the thirty gods (tridaśadarpaghnāḥ), all ferocious in battle (samaradurmadāḥ),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shining like Indra amidst his radiant sons, Rāvaṇa embraces and blesses the four princes and sends Mahodara and Mahāpārśva to guard them.
 </details>
 </details>
 
@@ -870,6 +894,14 @@ Those demons with colossal bodies, paid obeisance (by circumambulating) to Ravan
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Having bowed in salutation (te'bhivādya) to the great-souled Rāvaṇa, the roarer of the worlds (rāvaṇaṃ lokarāvaṇam), and having circumambulated him clockwise (kṛtvā pradakṣiṇaṃ caiva), those huge-bodied warriors set forth (mahākāyāḥ pratasthire).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+As the six rākṣasa champions sally forth, Mahodara mounts the elephant Sudarśana and Triśiras ascends his war-chariot, gleaming with three golden crowns.
 </details>
 </details>
 
@@ -1220,6 +1252,14 @@ With three diadems (tribhiḥ kirīṭaiḥ), Triśiras shone upon that finest o
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Atikāya mounts his heavily armed war-chariot blazing like Mount Meru, while Narāntaka leaps upon a white charger resembling Uccaiḥśravas, lance in hand.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतिकायोऽतितेजस्वी राक्षसेन्द्रसुतस्तदा ।  
@@ -1539,6 +1579,14 @@ like Guha (the offspring of Shiva) holding a spear and riding a beautiful peacoc
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Grasping a meteor-bright lance (gṛhītvā prāsam ulkābham), the fiery Narāntaka shone like the javelin-wielding Guha [Skanda] mounted upon his peacock (śaktim ādāya tejasvī guhaḥ śikhigato yathā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Devāntaka wields an iron club like Viṣṇu grasping Mount Mandara and Mahāpārśva bears a mace like Kubera as the rākṣasa host marches out.
 </details>
 </details>
 
@@ -1864,6 +1912,14 @@ like an autumn cloud (śaradabhrapratīkāśā) or a line of wild geese in the s
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Shouting war-cries that shake the earth and rend the sky, the rākṣasa princes sally forth and confront the monkey army poised with boulders and trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगर्जुश्च प्रणेदुश्च चिक्षिपुश्चापि सायकान् ॥ ३७ ॥  
@@ -2082,6 +2138,14 @@ resound with hundreds of small bells and wielding well-raised great weaponry.
 **40:** beheld the monkey army with its upraised boulders and trees (samudyataśilānagam); and the great-souled monkeys too beheld the rākṣasa host (dadṛśū rākṣasaṃ balam)—
 
 **41:** crowded with elephants, steeds, and chariots (hastyaśvarathasambādham), resounding with hundreds of small bells (kiṅkiṇīśatanāditam), resembling dark storm-clouds (nīlajīmūtasaṃkāśam), with mighty weapons upraised (samudyatamahāyudham),
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Roaring in mutual defiance, the monkey commanders plunge into the rākṣasa ranks like peaked mountains and loose an peerless tempest of trees and crags.
 </details>
 </details>
 
@@ -2393,6 +2457,14 @@ matchless rain of trees, rocks and mountains.
 **47:** while the bulls among monkeys seized trees with massive trunks (drumāṃś ca vipulaskandhān gṛhya). That battle, crowded with rākṣasas and monkeys (rakṣovānarasaṃkulam), grew terrible (tad yuddham abhavad ghoram).
 
 **48:** Though being checked by torrents of arrows (bāṇaughair vāryamāṇāś ca), those monkeys of terrible valor (harayo bhīmavikramāḥ) loosed a peerless shower of trees, boulders, and crags (pādapaśilāśailaiś cakrur vṛṣṭim anūpamām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Monkeys pulverize armored rākṣasas with boulders and fists until their eyes start out, while the rākṣasas pierce the monkeys with arrows, pikes, and swords.
 </details>
 </details>
 
@@ -2721,6 +2793,14 @@ There the monkeys and rākṣasas had their limbs smeared with the blood of thei
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Within an hour the earth is drenched in blood as monkeys and rākṣasas grapple hand-to-hand, battering each other with their own comrades and stolen weapons.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विकीर्णैः पर्वताकारै रक्षोभिरभिमर्दितैः ।  
@@ -3040,6 +3120,14 @@ that place, like trees oozing their sap.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With their mail and body-armor cloven (chinnavarmatanutrāṇāḥ), the rākṣasas struck by the monkeys exuded blood there (rudhiraṃ prasṛtās tatra) as trees exude sap (rasasāram iva drumāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While the monkeys smash chariots, elephants, and steeds and the gods cheer the falling demons, Narāntaka charges into the monkey host on his wind-swift steed.
 </details>
 </details>
 
@@ -3388,6 +3476,14 @@ Then mounting his steed swift as the wind (hayaṃ mārutatulyavegam āruhya) an
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging on horseback with his blazing lance, Narāntaka slaughters seven hundred monkeys in an instant, turning his path into a mire of flesh and blood.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वानरान् सप्त शतानि वीरः  
@@ -3715,6 +3811,14 @@ Whenever the forest-dwellers uprooted trees and crags (yāvad utpāṭayāmāsur
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sweeping across the field like a monsoon gale, Narāntaka fells the monkey ranks with his sun-bright lance while the chiefs felled earlier by Kumbhakarṇa rally around Sugrīva.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिक्षु सर्वासु बलवान् विचचार नरान्तकः ।  
@@ -4032,6 +4136,14 @@ Meanwhile, those great-souled foremost of monkeys who had previously been felled
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Seeing the monkey army routed by Narāntaka, Sugrīva commands Prince Aṅgada to slay the horseman, and Aṅgada bursts forth like the sun from a cloud-bank.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रेक्षमाणः स सुग्रीवो ददृशे हरिवाहिनीम् ।  
@@ -4342,6 +4454,14 @@ upper arms, looked brilliant like a mountain with its metallic streaks.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Resembling a mass of crags (śailasaṃghātasaṃkāśaḥ), Aṅgada, foremost of monkeys (harīṇām uttamo'ṅgadaḥ), equipped with his armlets (aṅgadasaṃnaddhaḥ), shone like a mountain streaked with mineral ores (sadhātur iva parvataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Confronting Narāntaka unarmed, Aṅgada shatters the rākṣasa's hurled lance against his own chest and fells Narāntaka's steed with a single blow of his open palm.
 </details>
 </details>
 
@@ -4676,6 +4796,14 @@ shattered, feet broken, eyes and pupils put out and tongue come out. It fell dow
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 With its legs sunk into the earth (nimagnapādaḥ), its eyeballs burst (sphuṭitākṣitāraḥ), and its tongue protruding (niṣkrāntajihvaḥ), that mountain-like steed of his (acalasaṃnikāśaḥ sa tasya vājī), its skull shattered by the blow of his palm (talaprahāreṇa vikīrṇamūrdhā), crashed to the ground (nipapāta bhūmau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Struck on the head by Narāntaka's fist, Aṅgada recovers and crushes Narāntaka's chest with a single fatal blow as gods and monkeys cheer and Rāma marvels.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ leaves her residence and goes to Seetha.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Setting aside her grief and sipping pure water, Queen Kausalyā pronounces auspicious benedictions over Rāma, invoking dharma, temple deities, Viśvāmitra’s missiles, and filial piety to guard him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विनीय तमायासम् उपस्पृश्य जलं शुचि ।  
@@ -337,6 +345,14 @@ mother as well as truthfulness, you will belong-lived"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā invokes the sacred implements of Vedic sacrifice, the mountains, trees, birds, serpents, Sādhyas, Viśvedevas, Maruts, World-Guardians, seasons, Vedas, Skanda, Soma, and the Seven Sages.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समित्कुशपवित्राणि वेद्यश्चायतनानि च ।  
@@ -620,6 +636,14 @@ are enlogised by me may protect you always on all sides in that forest."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā prays that the mountains, oceans, Varuṇa, sky, planets, divisions of time, and gods bring comfort to Rāma in his ascetic garb, and that neither demons nor forest pests trouble him.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलाः सर्वे समुद्राश्च राजा वरुण एव च ।  
@@ -897,6 +921,14 @@ gad fies, mosquitoes, snakes or other insects ."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “May monkeys (plavagāḥ), scorpions (vṛścikāḥ), gadflies (daṃśāḥ), and mosquitoes in the woodland, and creeping serpents (sarīsṛpāḥ) and worms not beset you in the impenetrable thicket (mā bhūvan gahane tava)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Kausalyā prays that wild elephants, lions, tigers, bears, horned buffaloes, and flesh-eating creatures do no harm to Rāma, and that all his paths, enterprises, and ritual ablutions be blessed.
 </details>
 </details>
 
@@ -1227,6 +1259,14 @@ of singer of sacred hymns protect you at the time of taking bath."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Invoking Brahmā, the Creator of beings, and all the gods, Kausalyā worships them with garlands and perfumes, causes a high-souled Brahmin to offer fire-oblations, and has benedictions recited.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वलोकप्रभुर्ब्रह्मा भूतकर्तृ तथर्षयः ।  
@@ -1537,6 +1577,14 @@ being of Rama in the forest.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Presenting the twice-born Brahmins with honey, curds, unbroken rice, and clarified butter (madhu-dadhy-akṣata-ghṛtaiḥ), she then caused them to pronounce auspicious blessings (svasti-vācyam) and recite the benedictory rites for Rāma’s welfare in the forest (vane svastyayana-kriyām).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bestowing desired sacrificial fees upon the chief Brahmin, Kausalyā invokes upon Rāma the ancient benedictions of Indra at Vṛtra’s slaying, Garuḍa Seeking ambrosia, Aditi, and Viṣṇu’s three strides.
 </details>
 </details>
 
@@ -1863,6 +1911,14 @@ to you."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Placing unbroken rice on Rāma’s head, anointing him with sandal-paste, and tying the Viśalyakaraṇī herb as an amulet with mantras, Kausalyā embraces him and prays to behold his triumphant return.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति पुत्रस्य शेषाश्च कृत्वा शिरसि भामिनी ।  
@@ -2117,6 +2173,14 @@ behold you returning from the forest like the full moon rising from the horizon"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “With all my anxious thoughts of sorrow dispelled (praṇaṣṭa-duḥkha-saṃkalpā) and my face radiant with joy (harṣa-vidyotitānanā), I shall behold you returned from the forest like the full moon risen in the sky (pūrṇa-candram ivoditam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the benediction rites with tear-filled eyes, Kausalyā circumambulates and embraces Rāma; bowing repeatedly at his mother’s feet, Rāma departs in blazing splendour for Sītā’s palace.
 </details>
 </details>
 

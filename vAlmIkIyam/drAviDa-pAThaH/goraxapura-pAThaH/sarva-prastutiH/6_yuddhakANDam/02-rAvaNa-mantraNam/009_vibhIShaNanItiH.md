@@ -24,6 +24,14 @@ Rama can reside in the forest delightfully, by warding off his agony.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed rākṣasa chieftains led by Nikumbha, Indrajit, and Prahasta leap up brandishing gleaming weapons and vow to slay Rāma, Sugrīva, Lakṣmaṇa, and Hanūmān.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निकुम्भो रभसः सूर्यशत्रुर्महाबलः ।  
@@ -147,6 +155,14 @@ pitiable Hanuma by whom Lanka was attacked."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Today we shall slay Rāma, and Sugrīva together with Lakṣmaṇa, and that wretched Hanūmān by whom Laṅkā was ravaged (laṅkā yena pradharṣitā)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Restraining the armed warriors, Vibhīṣaṇa counsels that force succeeds only when the three peaceful means fail and the enemy is heedless or stricken.
 </details>
 </details>
 
@@ -442,6 +458,14 @@ measured. They cannot be treated with contempt hastily by any means."
 **11:** “Moreover, who in the world could fathom or even conjecture (ko vidyāt tarkayeta vā) the coursing of Hanūmān (gatiṃ hanūmato loke) when he leaped across the dreadful ocean, lord of rivers and streams?
 
 **12:** “Immeasurable are the forces and valorous deeds (balāny aparimeyāni vīryāṇi ca) of our foes, O night-stalkers; rash contempt for one's enemies (pareṣāṃ sahasāvajñā) must never be entertained on any account!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vibhīṣaṇa argues that Rāma slew Khara solely in legitimate self-defense and urges that Vaidehī be restored before Laṅkā is cleft by Rāma's arrows.
 </details>
 </details>
 
@@ -768,6 +792,14 @@ attacks our Lanka, let Seetha be given away."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Before that most dreadful, vast, and unassailable monkey host (sudhorā mahatī durdharṣā harivāhinī) storms our Laṅkā (nāvaskandati no laṅkām), let Sītā be restored!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pleading as a brother for the survival of Laṅkā, Vibhīṣaṇa begs Rāvaṇa to renounce wrath and restore Maithilī, whereupon Rāvaṇa adjourns the assembly.
 </details>
 </details>
 

@@ -23,6 +23,14 @@ beings. Dasaratha laments and soon falls unconscious.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra recounts how his weeping horses refused to move on the return journey, how he lingered with Guha hoping Rāma might summon him back, and how the very trees, rivers, and woods of Kosala have withered in grief for Rāma.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम त्वश्वा निवृत्तस्य न प्रावर्तन्त वर्त्मनि ।  
@@ -315,6 +323,14 @@ became silent, predominated by grief towards Rama."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Living creatures do not stir abroad (na ca sarpanti sattvāni), nor do beasts of prey roam about (vyālā na pracaranti ca); overwhelmed by grief for Rāma (rāma-śokābhibhūtam), that forest has fallen utterly silent (niṣkūjam abhavad vanam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sumantra describes the lotus-ponds with turbid waters, the scentless flowers and birdless pleasure-gardens, and the citizens and women on the palace terraces weeping aloud at the sight of the empty royal chariot.
 </details>
 </details>
 
@@ -631,6 +647,14 @@ palaces are crying �ha ha!', being troubled by the non-appearance of Rama."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Describing how friends, foes, and neutrals alike are indistinguishably stricken with grief and how joyless Ayodhyā resembles sonless Kausalyā, Sumantra ceases; and Daśaratha confesses in tears that he acted rashly at wicked Kaikeyī’s bidding.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयतैर्विमलैर्नेत्रैरश्रुवेगपरिप्लुतैः ।  
@@ -902,6 +926,14 @@ with people experienced in counsel or with elders beforehand."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Impelled by Kaikeyī (kaikeyyā viniyuktena), whose lineage and nature are alike sinful (pāpābhijana-bhāvayā), I did not deliberate over this matter along with aged counsellors skilled in statecraft (mayā na mantra-kuśalair vṛddhaiḥ saha samarthitam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that he acted rashly for a woman’s sake without consulting friends, ministers, or merchants—or through the inexorable decree of fate—Daśaratha begs Sumantra to take him swiftly to Rāma before his life-breaths depart.
 </details>
 </details>
 
@@ -1224,6 +1256,14 @@ see him well with Seetha, I can survive."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crying out to Rāma, Lakṣmaṇa, and Sītā that he will depart to Yama’s abode if he cannot behold Rāma, Daśaratha plunges into a fathomless ocean of grief whose waves are sighs and whose further shore is separation from Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोहिताक्षं महाबाहुमामुक्तमणिकुण्डलम् ।  
@@ -1430,6 +1470,14 @@ sorrow, very difficult to be crossed, spoke (as follows)
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 His consciousness sorely overwhelmed by that sorrow (tena duḥkhena bhṛśam arpita-cetanaḥ), that king, plunged into an ocean of grief most hard to cross (avagāḍhaḥ su-duṣpāraṃ śoka-sāgaram), spoke on:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Completing the metaphor of the ocean of grief—whose submarine fire is Kaikeyī, whose shark is Mantharā’s counsel, and whose shore-tide is the fatal boon—Daśaratha falls swooning upon his couch, filling Kausalyā with renewed terror.
 </details>
 </details>
 

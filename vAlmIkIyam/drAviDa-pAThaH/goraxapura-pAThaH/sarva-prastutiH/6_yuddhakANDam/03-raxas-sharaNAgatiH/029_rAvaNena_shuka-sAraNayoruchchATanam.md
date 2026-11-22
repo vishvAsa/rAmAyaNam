@@ -25,6 +25,14 @@ back Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma, Lakṣmaṇa, Vibhīṣaṇa, Sugrīva, and the monkey commanders pointed out by Śuka, an agitated Rāvaṇa angrily upbraids Śuka and Sāraṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुकेन तु समादिष्टान् दृष्ट्वा स हरियूथपान् ।  
@@ -187,6 +195,14 @@ Shuka and Sarana who stood saluting with their faces bent down.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 To those two, Śuka and Sāraṇa, who stood bowed with downcast faces (adhomukhau tau praṇatau), he spoke angry and harsh words (saṃrabdhaṃ paruṣaṃ tathā) in a voice choked with rage (roṣagadgadayā vācā):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa berates Śuka and Sāraṇa for praising hostile enemies out of season, mocking their wasted study of statecraft and threatening royal punishment.
 </details>
 </details>
 
@@ -515,6 +531,14 @@ Trees in a forest may perchance survive (apy eva tiṣṭhanti pādapāḥ) even
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sparing Śuka and Sāraṇa only for their past services, Rāvaṇa banishes them from his sight and summons new spies through Mahodara.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्यामहं त्विमौ पापौ शत्रुपक्षप्रशंसिनौ ।  
@@ -813,6 +837,14 @@ approached him, having made a complement expressing their desire to see him vict
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then Rāvaṇa, overlord of the Rākṣasas, spoke these words to those spies (cārān)—trustworthy (pratyāyikān), heroic, steadfast, and free from fear (vigatasādhvasān):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa dispatches a fresh party of spies led by Śārdūla to reconnoiter Rāma's counsels, habits, and plans near Mount Suvela.
 </details>
 </details>
 
@@ -1124,6 +1156,14 @@ demon, the spies went to the place where Rama along with Lakshmana were there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Going in disguise (pracchannāḥ), they beheld near Mount Suvela (suvelasya śailasya samīpe) Rāma and Lakṣmaṇa together with Sugrīva and Vibhīṣaṇa (sasugrīvavibhīṣaṇau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Detected by Vibhīṣaṇa and beaten by the monkeys, Śārdūla and his fellow spies are mercifully released by Rāma and return gasping to Laṅkā.
 </details>
 </details>
 

@@ -14,6 +14,14 @@ title = "१०८ अनुचरणानुञा-नियोगाश् �
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Swift-footed messengers dispatched by Rāma reach Madhurā in three days and nights without halting on the road, recounting to Śatrughna the relinquishment of Lakṣmaṇa, the consecration of Kuśa and Lava, and Rāma’s and Bharata’s preparations to ascend to heaven.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते दूता रामवाक्येन चोदिता लघुविक्रमाः ।  
@@ -154,6 +162,14 @@ _________________
 **5:** and how, having rendered Ayodhyā empty of its folk (ayodhyāṃ vijanāṃ kṛtvā), both Rāghava and Bharata—those mighty chariot-warriors (mahārathau)—had made ready their departure for heaven (svargasya gamanodyogaṃ kṛtavantau).
 
 **6:** Having thus swiftly reported everything to the great-souled Śatrughna (evaṃ sarvaṃ nivedyāśu śatrughnāya mahātmane), those messengers then fell silent (viremus te tato dūtāḥ) and said, “Make haste, O King!” (tvara rājeti cābruvan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing of the impending end of his dynasty’s earthly sojourn, Śatrughna convenes his ministers and the priest Kāñcana, divides Madhurā’s army and wealth between his consecrated sons Subāhu and Śatrughātin, and speeds in a single chariot to Ayodhyā to behold Rāma blazing like fire.
 </details>
 </details>
 
@@ -318,6 +334,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 There he beheld the great-souled Rāma blazing like a sacrificial fire (jvalantam iva pāvakam), clad in fine linen garments (sūkṣma-kṣaumāmbara-dharam) in the company of imperishable sages (munibhiḥ sārdham akṣayaiḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bowing before Rāma, Śatrughna declares his unshakable resolve to accompany him and begs that no contrary command be uttered; no sooner does Rāma consent than countless shapeshifting monkeys, bears, and rākṣasas arrive with Sugrīva at their head.
 </details>
 </details>
 
@@ -507,6 +531,14 @@ Placing Sugrīva at their head, all of them arrived together (sugrīvaṃ te pur
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sons of gods, sages, and gandharvas join the monkeys and rākṣasas, declaring that for Rāma to depart without them would strike them down like the rod of Yama; smilingly he assents, and Sugrīva steps forward after consecrating Aṅgada to announce his own resolve to follow.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवपुत्रा ऋषिसुता गन्धर्वाणां सुतास्तथा ।  
@@ -665,6 +697,14 @@ In the midst of this (etasminn antare), the mighty Sugrīva too bowed duly befor
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Hearing those words of his, Rāma—foremost of all who bring delight (rāmo ramayatāṃ varaḥ)—then spoke to the lord of monkeys, calling to mind his friendship (maitraṃ tasyānucintayan):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuring Sugrīva that he will never ascend to the supreme abode without him, Rāma bids the immortal Vibhīṣaṇa remain in Laṅkā protecting his subjects in dharma for as long as sun, moon, earth, and the Rāma-story endure, worshipping the Ikṣvāku family deity—a charge Vibhīṣaṇa humbly accepts.
 </details>
 </details>
 
@@ -853,6 +893,14 @@ Then the greatly renowned one spoke to Vibhīṣaṇa, lord of the rākṣasas (
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Saying “So be it” (tatheti), Vibhīṣaṇa, king of the foremost rākṣasas, accepted Rāma’s word (pratijagrāha rāma-vākyam), bearing Rāghava’s command ever in mind (rāghavājñām anusmaran).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Charging Hanumān to keep his vow to live joyfully on earth as long as Rāma’s purifying story circulates, and appointing Jāmbavān, Mainda, and Dvivida alongside Vibhīṣaṇa and Hanumān as the five immortals abiding until Kali’s close, Rāma grants all remaining bears and monkeys leave to follow him.
 </details>
 </details>
 

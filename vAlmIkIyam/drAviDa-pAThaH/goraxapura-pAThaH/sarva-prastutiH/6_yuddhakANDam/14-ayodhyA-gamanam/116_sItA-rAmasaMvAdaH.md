@@ -26,6 +26,14 @@ and enters into it, in order toprove her conjugal fidelity.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Honored by the night-wanderers, Hanūmān enters Laṅkā with Vibhīṣaṇa’s leave, bows humbly before Sītā in the grove, and prepares to deliver Rāma’s joyful message.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवम् उक्ता तु वैदेही  
@@ -351,6 +359,14 @@ Beholding her serene and gladdened countenance (saumyaṃ tasyā mukham), Hanūm
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanūmān proclaims Rāma’s well-being and the slaying of Rāvaṇa with Vibhīṣaṇa and Lakṣmaṇa’s aid, urging Sītā to cast off all fear now that Laṅkā belongs to Vibhīṣaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पृथक्स्त्रीणां प्रचारेण जातिं त्वं परिशङ्कसे ।  
@@ -670,6 +686,14 @@ No trepidation (sambhramaḥ) should be felt by you while dwelling in Rāvaṇa�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Overwhelmed with joy at the tidings of her husband’s victory, Sītā falls momentarily speechless and then tells Hanūmān that nothing on earth can match his glad message.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न वृथा ते श्रमोऽयं स्यात् संशये न्यस्य जीवितम् ।  
@@ -973,6 +997,14 @@ Indeed, though pondering (cintayantī), O leaper (plavaṃgama), I do not behold
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā declares that neither gold, jewels, nor sovereignty over the three worlds can equal Hanūmān’s words, and Hanūmān replies that her affectionate praise surpasses celestial kingship.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रीतेन गुणैर्भर्त्रा त्यक्ताया जनसंसदि ।  
@@ -1271,6 +1303,14 @@ the vicinity of the fire, Seetha spoke the following words:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 In truth (arthataś ca), the excellences of celestial sovereignty and the rest (devarājyādayo guṇāḥ) have already been attained by me, since I behold Rāma victorious, his foes slain, and well-established (susthitam).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā extols Hanūmān’s eightfold intelligence and noble virtues as worthy of the Wind-god’s son, whereupon Hanūmān humbly asks her permission to slay the cruel Rākṣasī guards.
 </details>
 </details>
 
@@ -1580,6 +1620,14 @@ having entered the fire there.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “If you permit (yadi tvam anumanyase), I wish to slay (hantum icchāmi) all these Rākṣasī women here (imās tu khalu rākṣasyaḥ) by whom you were formerly menaced (tarjitā purā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling how the hideous Rākṣasīs repeatedly reviled Sītā in the Aśoka grove at Rāvaṇa’s command, Hanūmān begs for the boon of battering and slaying her tormentors.
 </details>
 </details>
 

@@ -27,6 +27,14 @@ also allow Trishanku to inhibit that pseudo Creation, but with an upside down po
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Knowing Vasiṣṭha’s sons and Mahodaya to be struck down by his tapas, Viśvāmitra proposes the sacrifice for Triśaṅku’s bodily ascension, and the awestruck sages readily consent.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तपोबलहतान् ज्ञात्वा वासिष्ठान् समहोदयान् ।  
@@ -226,6 +234,14 @@ Vedic-rituals, but such a ritual is desultory. [1-60-4b, 5a]
 **4:** “let the sacrifice be set in motion by you together with me (tathā pravartyatāṃ yajño bhavadbhiś ca mayā saha)!” Hearing the words of Viśvāmitra, all those great sages,
 
 **5:** knowers of dharma (dharmajñāḥ), coming together at once, spoke words consonant with prudence and dharma (ūcuḥ sametāḥ sahasā dharmasaṃhitam): “This scion of Kuśika is a sage of supreme wrath (ayaṃ kuśikadāyādo muniḥ paramakopanaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Acting as chief officiating priest, Viśvāmitra conducts the sacrifice according to ritual precept; yet when he invokes the gods to receive their oblations, none descend.
 </details>
 </details>
 
@@ -504,6 +520,14 @@ and said this to Trishanku. [1-60-11b, 12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Then the great sage Viśvāmitra, filled with wrath (tataḥ kopasamāviṣṭo viśvāmitro mahāmuniḥ), lifting up the sacrificial ladle in anger (sruvam udyamya sakrodhaḥ), spoke these words to Triśaṅku:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Raising the sacrificial ladle, Viśvāmitra projects Triśaṅku bodily into the sky by the power of his own tapas; but Indra rebukes the king and hurls him back headfirst.
 </details>
 </details>
 
@@ -824,6 +848,14 @@ me, save me,' and fell down from heaven. [1-60-18b, 19a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Halting the falling Triśaṅku in mid-air with the cry “Stop! Stop!”, Viśvāmitra like a second Prajāpati creates a southern Seven Sages and zodiac, and threatens to create another Indra.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा वचनं तस्य क्रोशमानस्य कौशिकः ॥ १९ ॥  
@@ -1053,6 +1085,14 @@ Then, utterly bewildered and terrified (tataḥ paramasambhrāntāḥ), the gods
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the gods plead that a curse-blighted king cannot enter heaven in his body, Viśvāmitra stipulates that Triśaṅku and his newly created southern stars shall endure forever.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं राजा महाभाग गुरुशापपरिक्षतः ।  
@@ -1255,6 +1295,14 @@ It will be apt of you all gods to accede to this.' So said Vishvamitra to gods. 
 **28:** “Therefore let there be an eternal heaven for this Triśaṅku in his bodily form (svargo ’stu saśarīrasya triśaṅkor asya śāśvataḥ), and let all these constellations of mine abide firm and permanent (nakṣatrāṇi ca sarvāṇi māmakāni dhruvāṇy atha)!
 
 **29:** “As long as the worlds shall endure, let these constellations stand in every respect (yāval lokā dhariṣyanti tiṣṭhantv etāni sarvaśaḥ); all of you gods ought to sanction what I have fashioned (yat kṛtāni surāḥ sarve tad anujñātum arhatha)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The gods decree that Viśvāmitra’s constellations shall shine outside the path of Vaiśvānara, with Triśaṅku blazing head-downward like an immortal in their midst.
 </details>
 </details>
 

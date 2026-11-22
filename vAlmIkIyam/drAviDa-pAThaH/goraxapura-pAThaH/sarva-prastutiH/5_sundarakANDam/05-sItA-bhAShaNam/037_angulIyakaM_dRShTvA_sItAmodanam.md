@@ -29,6 +29,14 @@ go with him and requests Hanuma to bring her husband to Lanka.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hearing Hanūmān's account of Rāma's unwavering devotion and consuming grief, Sītā likens his tidings to nectar mingled with poison and laments the irresistible decree of fate.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा सीता वचनं श्रुत्वा पूर्णचन्द्रनिभानना ।  
@@ -358,6 +366,14 @@ Having wrought the slaughter of the rākṣasas, having slain Rāvaṇa, and hav
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā urges Rāma to hasten before her two remaining months expire, recounting how Vibhīṣaṇa's daughter Kalā revealed Vibhīṣaṇa's and Avindhya's counsels to Rāvaṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वाच्यः सन्त्वरस्वेति यावदेव न पूर्यते ।  
@@ -630,6 +646,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Moreover, there is a wise, learned, and aged bull among rākṣasas (rākṣasa-puṅgavaḥ) named Avindhya, firm of resolve (dhṛtimān), virtuous in conduct (śīlavān), and highly esteemed by Rāvaṇa (rāvaṇasya susammataḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding her account of Avindhya's unheeded warning, Sītā expresses unwavering confidence in Rāma's virtues and prowess, likening him to a sun whose arrow-rays will evaporate the rākṣasa sea.
 </details>
 </details>
 
@@ -964,6 +988,14 @@ O monkey, the heroic Rāma-sun (rāma-divākaraḥ), radiant with his network of
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Moved by Sītā's tearful lament, Hanumān assures her of Rāma's swift arrival and offers to carry her across the ocean on his back to Mount Prasravaṇa that very day.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति सञ्जल्पमानां तां रामार्थे शोककर्शिताम् ।  
@@ -1268,6 +1300,14 @@ O Maithilī, I shall convey [you] today to Rāghava abiding on Mount Prasravaṇ
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 This very day, O Vaidehī, you shall behold Rāghava together with Lakṣmaṇa, girded with resolute determination (vyavasāya-samāyuktam) like Viṣṇu at the slaying of the Daityas (daitya-vadhe yathā)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān urges Sītā to mount his back without hesitation so that he may bear her through the sky to reunite with Rāma like Rohiṇī with the moon.
 </details>
 </details>
 
@@ -1607,6 +1647,14 @@ Hearing that wondrous speech (vacanam adbhutam) from the best of monkeys, Maithi
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Sītā doubts how so small a monkey could carry her across the ocean, Hanumān leaps down from the śiṃśapā tree and expands his form to inspire her trust.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनूमन् दूरमध्वानं कथं मां नेतुमिच्छसि ।  
@@ -1931,6 +1979,14 @@ Leaping down (āplutya) from that tree (tasmāt pādapāt), that wise bull among
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuming a mountain-like form blazing like fire, Hanumān reiterates his power to carry all Laṅkā, whereupon Sītā acknowledges his wind-like speed and fiery energy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेरुमन्दरसङ्काशो बभौ दीप्तानलप्रभः ।  
@@ -2246,6 +2302,14 @@ soon whether the accomplishment of work by the high souled Rama would not thus g
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I recognize your courage (sattvam) and your strength (balam), O great monkey, as well as your speed like that of the Wind (vāyor iva gatiḥ) and your wondrous fiery energy like that of Agni (tejaś cāgner ivādbhutam)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While praising Hanumān's unmatched feat in crossing the ocean, Sītā declines to ride on his back, explaining the perils of falling into the sea and of rākṣasa pursuit.
 </details>
 </details>
 
@@ -2569,6 +2633,14 @@ Nor can I go along with you, O destroyer of foes (śatru-vināśana); for when y
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā warns that Rāvaṇa's armed warriors would pursue them through the sky, endangering an unarmed Hanumān burdened with protecting her and risking her recapture.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्रियमाणां तु मां दृष्ट्वा राक्षसा भीमविक्रमाः ।  
@@ -2848,6 +2920,14 @@ Thus, your effort may become futile indeed!"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā argues that mid-air battle risks her death or secret concealment, and that even if Hanumān slew all the rākṣasas himself, Rāma's martial glory would be diminished.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मां वा हरेयुस्त्वद्धस्ताद् विशसेयुरथापि वा ।  
@@ -3114,6 +3194,14 @@ bears and monkeys, losing their hope, will abandon their lives."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 —and then this undertaking of yours on my behalf (ārambhas tu madartho 'yam) would be in vain (nirarthakaḥ); whereas in Rāma's coming here together with you (tvayā saha rāmasya āgamane), there is a great advantage (mahān guṇaḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that the lives of Rāma, his brothers, and Sugrīva's house depend on her survival, Sītā invokes her vow of chastity never willingly to touch any man save Rāma.
 </details>
 </details>
 
@@ -3398,6 +3486,14 @@ with Lakshmana?"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 If Rāma, having slain the ten-necked Rāvaṇa (daśagrīvam) along with his rākṣasa host here in battle, should take me hence (mām ito gṛhya gaccheta), that alone would be worthy of him (tat tasya sadṛśaṃ bhavet)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Recalling Rāma's peerless valor in battle, Sītā implores Hanumān to bring Rāma, Lakṣmaṇa, and Sugrīva swiftly to Laṅkā and turn her long sorrow into joy.
 </details>
 </details>
 

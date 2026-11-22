@@ -24,6 +24,14 @@ is ruling high on the Hindu psyche and Hanuma is to be remembered in any event o
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the heroic brothers Rāma and Lakṣmaṇa bearing excellent weapons, an anxious Sugrīva deliberates with his counselors and suspects them of being Vālin's disguised agents.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु दृष्ट्वा महात्मानौ भ्रातरौ रामलक्ष्मणौ ।  
@@ -336,6 +344,14 @@ Vali must have dispatched them... [4-2-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Catching sight of the two supreme bowmen, Sugrīva's counselors leap from peak to peak across the mountain, shattering blossoming trees and scattering wild beasts before gathering around their lord.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुग्रीवसचिवा दृष्ट्वा परमधन्विनौ ।  
@@ -618,6 +634,14 @@ Sugreeva, and all stood with their adjoined palms. [4-2-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Thereupon Sugrīva's counselors, composed upon the lord of mountains (parvatendre), joined their monkey chief and stood all together with folded hands (prāñjalayaḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Skilled in speech, Hanūmān reassures the terrified Sugrīva that cruel Vālin cannot enter Mount Malaya, gently chiding his monkey-like fickleness and urging him to govern through discernment of gestures.
 </details>
 </details>
 
@@ -948,6 +972,14 @@ So said Hanuma to Sugreeva. [4-2-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Replying with measured political wisdom, Sugrīva explains why kings with many allies and covert enemies warrant vigilance, instructing Hanūmān to approach the two strangers in an ordinary guise.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवस्तु शुभं वाक्यं श्रुत्वा सर्वं हनूमतः ।  
@@ -1259,6 +1291,14 @@ conversation, as well...[4-2-24]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Going there yourself as an ordinary person (prākṛtenaiva), O leaper, you must ascertain those two through the modes of their gestures (iṅgitānāṃ prakāraiḥ) and through their aspect and conversation (rūpavyābhāṣaṇena).”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sugrīva instructs Hanūmān to win the archers' confidence with praise, question their purpose in entering the forest, and determine their purity of heart, whereupon Hanūmān sets forth.
 </details>
 </details>
 

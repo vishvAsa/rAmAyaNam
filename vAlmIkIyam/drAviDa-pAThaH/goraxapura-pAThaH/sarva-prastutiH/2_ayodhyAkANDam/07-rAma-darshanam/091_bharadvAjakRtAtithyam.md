@@ -24,6 +24,14 @@ and requests him to arrange for a befitting hopsitality to Bharata,
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Bharata resolves to spend the night at the hermitage, Sage Bharadvāja invites him and his entire army to a feast of hospitality and asks why he left his troops behind.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतबुद्धिं निवासाय तत्रैव स मुनिस्तदा ।  
@@ -339,6 +347,14 @@ you."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Standing with joined palms, Bharata replied with these words to that sage whose wealth was asceticism (bharataḥ pratyuvācedaṃ prāñjalis taṃ tapo-dhanam): “I did not approach with my army, O venerable Lord, out of fear of offending your reverence (sa-sainyo nopayāto 'smi bhagavan bhagavad-bhayāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata explains that he halted his steeds, men, and rutting elephants lest they harm the hermitage trees, waters, and huts; at Bharadvāja’s command he summons the army, and the sage invokes Viśvakarman and Tvaṣṭṛ.
 </details>
 </details>
 
@@ -658,6 +674,14 @@ divine carpenter. Let arrangements be made in that connection for me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “I invoke Viśvakarman, who is himself Tvaṣṭṛ (āhvaye viśvakarmāṇam ahaṃ tvaṣṭāram eva ca); I desire to offer hospitality—let the requisite arrangements be provided for me here (ātithyaṃ kartum icchāmi tatra me saṃvidhīyatām)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharadvāja invokes the three world-guardians and gods headed by Indra, commands earthly and celestial rivers to flow with maireya wine, surā, and sugarcane-sweet water, and summons Gandharvas and Apsarases with Tumburu.
 </details>
 </details>
 
@@ -983,6 +1007,14 @@ Tumburu."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “and all the damsels who attend upon Śakra and those who attend upon Brahmā (śakraṃ yāś copatiṣṭhanti brahmāṇaṃ yāś ca yoṣitaḥ), all of them I invoke together with Tumburu, along with their musical retinues and ornaments (sarvās tumburuṇā sārdham āhvaye sa-paricchadāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharadvāja summons Kubera’s celestial Caitraratha grove in the Uttarakurus and invokes Soma to provide fourfold delicacies, garlands, wines, and meats; as the sage meditates facing east, the deities arrive and a fragrant Malaya breeze blows.
 </details>
 </details>
 
@@ -1315,6 +1347,14 @@ Then a sweet-natured, pleasant, and auspicious breeze that dispelled all sweat (
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Thick showers of celestial blossoms fall to the sound of kettle-drums, Apsarases dance, Gandharvas sing with lutes, and Bharata’s army beholds Viśvakarman’s creation: a five-yojana emerald lawn studded with fruit-laden trees.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽभ्यवर्षन्त घना दिव्याः कुसुमवृष्टयः ।  
@@ -1635,6 +1675,14 @@ Upon that ground there sprang up bilva and wood-apple trees, jackfruit and citro
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+A celestial grove and tree-lined river arrive from the Uttarakurus alongside quadrangular mansions, stables, and a cloud-white royal palace stocked with banquets, robes, and couches, which Bharata and his ministers enter.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरेभ्यः कुरुभ्यश्च वनं दिव्योपभोगवत् ।  
@@ -1858,6 +1906,14 @@ charming with superb couches duly covered with rich carpets.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Permitted by the great sage, mighty-armed Bharata, the son of Kaikeyī, entered that resplendent, jewel-filled palace (praviveśa mahā-bāhur anujñāto maharṣiṇā veśma tad ratna-sampūrṇaṃ bharataḥ kekayī-sutaḥ), where seats of every kind were arrayed and supreme couches were fairly spread (kḷpta-sarvāsanaṃ śrīmat svāstīrṇa-śayanottamam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Bharata circumambulates and worships the royal throne as Rāma’s, takes a yak-tail fan, and sits on a minister’s seat; instantly rivers with banks of milk-porridge, white-plastered dwellings, and twenty thousand damsels sent by Brahmā appear.
 </details>
 </details>
 
@@ -2204,6 +2260,14 @@ In that very same instant, twenty thousand damsels adorned with celestial orname
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Twenty thousand damsels sent by Kubera and twenty thousand Apsarases from Nandana arrive; Nārada, Tumburu, and Gopa sing, Alambusā and her sisters dance before Bharata, and the trees of Prayāga become drummers, cymbal-players, and dancers.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनैव च मुहूर्तेन दिव्याभरणभूषिताः ।  
@@ -2488,6 +2552,14 @@ those which grow in the woods of chaitra ratha were seen at Prayaga.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 By the command of Bharadvāja, the bilva trees became players on the mṛdaṅga drum, the vibhītaka trees became keepers of the cymbal-beat (bilvā mārdaṅgikā āsan śamyā-grāhā vibhītakāḥ), and the aśvattha fig trees became dancers (aśvatthā nartakāś cāsan bharadvājasya śāsanāt).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Pine, palmyra, tilaka, and naktamālaka trees become dwarfs and hunchbacks; female trees and forest creepers take the forms of lovely women who invite the soldiers to drink wine and eat porridge and meat, bathe them seven or eight to a man, and grooms feed the mounts.
 </details>
 </details>
 
@@ -2786,6 +2858,14 @@ after massaging their body with oil.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 As for the horses, elephants, mules, camels, and the bullocks born of Surabhi (hayān gajān kharān uṣṭrāṃs tathaiva surabheḥ sutān), their keepers fed them their proper provender according to rule (abhojayan vāhana-pās teṣāṃ bhojyaṃ yathā-vidhi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Grooms feed the warriors’ mounts sugarcane and honeyed parched grain; horse-keepers and elephant-drivers forget their charges in joyous intoxication, and the soldiers, smeared with red sandalwood and attended by Apsarases, cry out that this is heaven.
 </details>
 </details>
 
@@ -3104,6 +3184,14 @@ Likewise, let Rama too be at east!"
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Transported with joy, those men who followed in Bharata’s train shouted aloud by the thousands there (samprahṛṣṭā vinedus te narās tatra sahasraśaḥ) and exclaimed: “This is heaven itself (bharatasyānuyātāraḥ svargo 'yam iti cābruvan)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Garlanded soldiers dance, laugh, and sing by the thousands; even after eating ambrosial food they crave the celestial delicacies anew; servants, maids, women, and beasts are all sated and clad in fresh white garments, with savory goat and boar curries and fruit-broths.
 </details>
 </details>
 
@@ -3429,6 +3517,14 @@ Along with heaps of choice curries of goat-meat and boar-flesh (ājaiś cāpi ca
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+The amazed men behold thousands of golden vessels heaped with white rice, wells of milk-porridge, wish-yielding cows, honey-dripping trees, tanks of maireya wine ringed by roasted venison, peacock, and fowl, and lakes of spiced buttermilk, curds, and sugar.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आजैश्चापि च वाराहैर्निष्ठानवरसञ्चयैः ।  
@@ -3641,6 +3737,14 @@ of various dressed meats pertaining to deer, peacocks and wild cocks; cooked in 
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 pots, pitchers, and wide-mouthed churning-jars filled with curds and finely seasoned (sthālyaḥ kumbhyaḥ karambhyaś ca dadhi-pūrṇāḥ susaṃskṛtāḥ)—along with pools of fragrant, golden-hued, freshly churned kapittha buttermilk (yauvana-sthasya gaurasya kapitthasya sugandhinaḥ)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+At the river bathing-ghats the soldiers find vessels of herbal pastes, powders, decoctions, tooth-twigs, sandalwood caskets, polished mirrors, heaps of garments, sandals, collyrium-boxes, combs, brushes, armor, couches, and lotus-filled drinking pools for the mounts.
 </details>
 </details>
 
@@ -3867,6 +3971,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and deep pools of digestive drinking-water filled to the brim for the mules, camels, elephants, and horses (pratipāna-hradān pūrṇān kharoṣṭra-gaja-vājinām), as well as lakes with easy bathing-ghats, abounding in blue water-lilies and lotuses, fit for plunging into (avagāhya su-tīrthāṃś ca hradān sotpala-puṣkarān)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding sky-blue bathing pools, piles of emerald-green fodder, and the dream-like banquet, the men marvel; the night passes like Indra’s Nandana, the rivers, Gandharvas, and Apsarases take leave of Bharadvāja, while the soldiers remain intoxicated and garland-strewn.
 </details>
 </details>
 

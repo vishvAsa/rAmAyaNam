@@ -13,6 +13,14 @@ title = "००९ रावणादि-जन्म"
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Emerging from Rasātala with his unmarried daughter Kaikasī, the rākṣasa Sumālī beholds Kubera gliding by in Puṣpaka to visit Viśravas, and ponders how to restore his fallen race.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित् त्वथ कालस्य  
@@ -133,6 +141,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Returning from the mortal world into Rasātala (rasātalaṃ praviṣṭaḥ san martyalokāt) filled with wonder (sa-vismayaḥ), that sagacious counselor among the rākṣasas (rākṣasānāṃ mahāmatiḥ) reflected thus:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Lamenting that suitors hold back from fear of rejection and that a daughter holds three families in suspense, Sumālī directs Kaikasī to go herself and choose the illustrious sage Viśravas.
 </details>
 </details>
 
@@ -343,6 +359,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Obeying her father, Kaikasī approaches Viśravas during his dread twilight fire-offering, standing bashfully with bowed head tracing the earth with her toe until the radiant sage gently asks her errand.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु तद् वचनं श्रुत्वा  
@@ -513,6 +537,14 @@ Beholding her—shapely of hip (suśroṇīm), with a countenance like the full 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring only her name and her father’s command, Kaikasī learns from the meditating sage that because she came at the dread twilight hour she will bear fierce, cruel rākṣasa sons, and begs his mercy.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु सा कन्या  
@@ -608,6 +640,14 @@ _________________
 **22:** “Hear therefore, O gentle lady (śṛṇu tasmāt ... bhadre), what sort of sons you shall bring forth (yādṛśāñ janayiṣyasi): fierce of nature (dāruṇān), terrible in form (dāruṇākārān), and fond of cruel kinsmen (dāruṇābhijana-priyān)—
 
 **23:** “You shall give birth, O fair-hipped one (prasaviṣyasi suśroṇi), to rākṣasas of savage deeds (rākṣasān krūra-karmaṇaḥ)!” Hearing those words of his, she fell prostrate at his feet (praṇipatya) and spoke:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Promising that her youngest son shall be righteous and worthy of his lineage, Viśravas unites with Kaikasī; in due time she births the monstrous ten-necked Rāvaṇa amid bloody rain, meteors, and fire-breathing jackals.
 </details>
 </details>
 
@@ -803,6 +843,14 @@ At the moment of his birth, jackals, with mouths emitting flames, and other pred
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 The sky-god rained down blood (vavarṣa rudhiraṃ devaḥ), clouds roared with harsh thunder (meghāś ca khara-niḥsvanāḥ), the sun ceased to shine (prababhau na ca sūryo vai), and huge meteors plunged to earth (maholkāś cāpatan bhuvi).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After earth and ocean quake at Daśagrīva’s birth, Viśravas names him, followed by the births of colossal Kumbhakarṇa, deformed Śūrpaṇakhā, and righteous Vibhīṣaṇa—whom heaven greets with flowers and drums.
 </details>
 </details>
 
@@ -1015,6 +1063,14 @@ Those two of mighty energy (tau tu ... mahaujasau), Kumbhakarṇa and Daśagrīv
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While insatiable Kumbhakarṇa devours sages and Vibhīṣaṇa abides in Vedic restraint, Kubera arrives in Puṣpaka; seeing his radiant splendor, Kaikasī stings Daśagrīva’s pride and urges him to rival his brother.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ तु तत्र महारण्ये ववृधाते महौजसौ ।  
@@ -1204,6 +1260,14 @@ Beholding him there blazing as it were with fiery splendor (jvalantam iva tejas�
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “O Daśagrīva of boundless prowess (amita-vikrama), exert yourself in such a way (tathā yatnaṃ kuruṣva) that you too, my son (yathā tvam api me putra), may become the equal of Vaiśravaṇa (bhaver vaiśravaṇopamaḥ)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Stung to matchless indignation by his mother’s taunt, Daśagrīva vows to equal or surpass Kubera in might, journeys with his brothers to Gokarṇa’s hermitage, and wins victory-bringing boons from Brahmā.
 </details>
 </details>
 

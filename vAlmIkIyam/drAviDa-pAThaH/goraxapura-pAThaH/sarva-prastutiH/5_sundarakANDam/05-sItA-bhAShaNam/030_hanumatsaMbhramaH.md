@@ -23,6 +23,14 @@ to console Seetha, by eulogising Rama's attributes in a sweet voice, so that See
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having heard Sītā’s lament, Trijaṭā’s dream, and the demonesses’ threats from the śiṃśapā tree, valiant Hanumān reflects on his covert mission and resolves to console Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हनुमानपि विक्रान्तः सर्वं शुश्राव तत्त्वतः ।  
@@ -325,6 +333,14 @@ towards all beings and who is of immeasurable might."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Just as [it is fitting] to console (samāśvāsayitum) the wife of that immeasurable (aprameyasya) Lord who is compassionate toward all living beings (sarvasattvadayāvataḥ)—she who yearns to behold her husband (patidarśanakāṅkṣiṇīm)—
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān reflects that if he departs without consoling Sītā during the remaining watch of night, she will surely abandon her life, yet speaking before the demonesses is perilous.
 </details>
 </details>
 
@@ -652,6 +668,14 @@ There is no doubt about it."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 If during this remaining portion of the night (anena rātriśeṣeṇa) she is not consoled by me (yadi nāśvāsyate mayā), there is no doubt at all (sarvathā nāsti saṃdehaḥ) that she will utterly abandon her life (parityakṣyati jīvitam).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Fearing Rāma’s scorching wrath if he returns without Sītā’s message, Hanumān considers how speaking Sanskrit like a brāhmaṇa while in monkey form might terrify Sītā into mistaking him for Rāvaṇa.
 </details>
 </details>
 
@@ -991,6 +1015,14 @@ Yet if I offer refined Sanskrit speech (yadi vācaṃ pradāsyāmi saṃskṛtā
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Concluding that he must speak meaningful human words in the Kosala vernacular, Hanumān anticipates the danger that Sītā might cry out in alarm and summon the armed demon guards.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (वानरस्य विशेषेण  
@@ -1319,6 +1351,14 @@ And seeing me darting about (dṛṣṭvā ca paridhāvantam) among the branches
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Hanumān foresees that if the demonesses summon Rāvaṇa’s armed guards, battle exhaustion or capture might prevent him from recrossing the ocean or cause the rākṣasas to slay Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम रूपं च सम्प्रेक्ष्य वने विचरतो महत् ।  
@@ -1643,6 +1683,14 @@ Or those demons who delight in slaughter (hiṃsābhirucayaḥ) might slay this 
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Reflecting that Jānakī dwells in an inaccessible island fortress and that no other monkey can leap the hundred-yojana ocean if he falls, Hanumān rejects the uncertainty of premature battle.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्देशे नष्टमार्गेऽस्मिन् राक्षसैः परिवारिते ।  
@@ -1914,6 +1962,14 @@ Moreover, battles are uncertain in their outcome (asatyāni ca yuddhāni); hazar
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Weighing the twin perils of speaking openly and remaining silent, wise Hanumān reflects that arrogant envoys ruin achieved goals like darkness vanishing at sunrise, and devises a plan.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष दोषो महान् हि स्यान्मम सीताभिभाषणे ।  
@@ -2147,6 +2203,14 @@ mind (as follows):
 **39:** How then may the enterprise not be ruined (na vinaśyet kathaṃ kāryam)? How may there be no folly on my part (vaiklavyaṃ na kathaṃ mama)? And how may my leaping across the ocean (laṅghanaṃ ca samudrasya) not prove in vain (kathaṃ nu na vṛthā bhavet)?
 
 **40:** How indeed may she hear my speech (kathaṃ nu khalu vākyaṃ me śṛṇuyāt) and yet not be startled in alarm (nodvijeta ca)?” Reflecting thus (iti saṃcintya), wise Hanumān (hanumān matimān) formed his resolve (cakāra matim):
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Resolving to chant the praises of Rāma of unwearied deeds while remaining hidden among the boughs, Hanumān utters sweet, truthful words to win Sītā’s trust without startling her.
 </details>
 </details>
 

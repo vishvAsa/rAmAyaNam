@@ -13,6 +13,14 @@ title = "०५७ निमि-वसिष्ठ-देह-प्राप्�
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Delighted by Urvaśī’s tale yet eager for the answer to his original question, Lakṣmaṇa asks once more how Vasiṣṭha and Nimi regained bodies; Rāma explains how Agastya first emerged from the jar containing the mingled seed of Mitra and Varuṇa.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां श्रुत्वा दिव्यसङ्काशां कथामद्भुतदर्शनाम् ।  
@@ -202,6 +210,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After some time, Vasiṣṭha emerges from the jar as the radiant son of Mitra and Varuṇa and is immediately chosen by Ikṣvāku as the family priest; turning then to Nimi, Rāma tells how the sages consecrated the king’s lifeless body and preserved it with perfumes and garlands.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कस्यचित् त्वथ कालस्य मित्रावरुणसम्भवः ।  
@@ -357,6 +373,14 @@ _________________
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Upon the sacrifice’s completion, Bhṛgu and the pleased gods offer to restore Nimi’s life-spirit to a body; asked where he wishes to dwell, Nimi’s spirit chooses to reside as wind in the eyes of all creatures, causing eyelids to blink ever after for their relief.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो यज्ञे समाप्ते तु भृगुस्तत्रेदमब्रवीत् ।  
@@ -509,6 +533,14 @@ _________________
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “‘And on your account (tvat-kṛte ca), O lord of earth (pṛthivīpate), eyes shall blink again and again (nimiṣyanti cakṣūṃṣi ... muhur muhuḥ) for the sake of rest (viśramārtham), through you moving within them as wind (vāyu-bhūtena caratā).’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After the gods depart, the great sages take Nimi’s lifeless body and churn it with fire-sticks and sacred mantras to produce an heir; from that churning arises Mithi—also named Janaka and Vaideha—the forefather of the Maithila royal line.
 </details>
 </details>
 

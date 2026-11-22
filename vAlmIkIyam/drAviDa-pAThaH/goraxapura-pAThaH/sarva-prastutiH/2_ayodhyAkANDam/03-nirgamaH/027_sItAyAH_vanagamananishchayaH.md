@@ -24,6 +24,14 @@ In this chapter Seetha asks Rama to take her to the forest.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed out of deep love, Sītā rebukes Rāma’s proposal to leave her behind as unworthy of a warrior prince, declaring that a wife alone shares her husband’s destiny and has no other refuge.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु वैदेही प्रियार्हा प्रियवादिनी ।  
@@ -348,6 +356,14 @@ stalks."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Sītā vows to walk before Rāma treading down thorns and kuśa grass, declaring that the shade of a husband’s feet excels palaces and aerial cars, and that she will dwell happily in the wild woods.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि त्वं प्रस्थितो दुर्गं वनमद्यैव राघव ।  
@@ -669,6 +685,14 @@ honey."
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Vowing to live in celibate self-restraint upon forest fruits and roots without causing Rāma any trouble, Sītā longs to behold the mountains, lakes, and lotus-ponds teeming with swans and waterfowl at his side.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्रूषमाणा ते नित्यं नियता ब्रह्मचारिणी ।  
@@ -987,6 +1011,14 @@ those lakes and with full of joy, I shall sport with you."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “—everywhere free from fear (sarvatra nirbhītā) with you, my wise lord, as my protector (tvayā nāthena dhīmatā), and to gaze upon lotus-ponds in fair blossom thronged with swans and kāraṇḍava waterfowl (haṃsa-kāraṇḍavākīrṇāḥ padminīḥ sādhu-puṣpitāḥ)!
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Declaring that a hundred thousand years with Rāma will pass like a moment whereas even heaven without him is hateful to her, Sītā begs him to take her lest she die; yet Rāma seeks to dissuade her.
 </details>
 </details>
 

@@ -26,6 +26,14 @@ Lakshmana to have been dead, Seetha bursts into sobs.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Hanumān and the Vānara chiefs form a vigilant ring around Rāma—suspecting Rākṣasas in every rustling blade of grass—Rāvaṇa summons Trijaṭā and the female wardens of Sītā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् प्रविष्टे लङ्कायां कृतार्थे रावणात्मजे ।  
@@ -250,6 +258,14 @@ Then, the rejoiced Ravana said to them as follows:
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 At his command (śāsanāt), those Rākṣasa women along with Trijaṭā presented themselves before him (tam upasthitāḥ); then the delighted lord of the Rākṣasas spoke to those Rākṣasa women:
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Rāvaṇa orders the Rākṣasīs to carry Sītā aboard the Puṣpaka aerial chariot and show her Rāma and Lakṣmaṇa lying felled in battle so that she will submit to him.
 </details>
 </details>
 
@@ -545,6 +561,14 @@ Those Rākṣasa women said, “So be it!” (tathety uktvā), and went to where
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+While Rāvaṇa festoons Laṅkā with banners and proclaims the death of Rāma and Lakṣmaṇa, the Rākṣasīs convey Sītā and Trijaṭā in the Puṣpaka over the stricken battlefield.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामादाय तु राक्षस्यो भर्तृशोकपराजिताम् ॥ १३ ॥  
@@ -772,6 +796,14 @@ standing round Rama and Lakshmana.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 And she beheld the flesh-eating Rākṣasas exultant in heart (prahṛṣṭamanasaś cāpi dadarśa piśitāśanān), and the Vānaras sorely afflicted with grief at the sides of Rāma and Lakṣmaṇa (rāmalakṣmaṇapārśvataḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding Rāma and Lakṣmaṇa lying unconscious in the dust with their armor shattered and their bodies bristling like reed-thickets with shafts, Sītā weeps piteously, believing them dead.
 </details>
 </details>
 

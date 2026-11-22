@@ -26,6 +26,14 @@ the churning in His incarnation as Tortoise.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Marveling all night at Viśvāmitra’s sacred narrative of Gaṅgā’s descent, Rāma and Lakṣmaṇa greet the clear dawn and invite the sage to cross the holy three-pathed river.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रवचः श्रुत्वा राघवः सहलक्ष्मणः ।  
@@ -327,6 +335,14 @@ same prominent and merited River Ganga, the tri-path-cruiser. [1-45-6]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Crossing the sacred Gaṅgā in the comfortable ferry-boat sent by the sages of the northern bank, Viśvāmitra, Rāma, and Lakṣmaṇa behold the celestial city of Viśālā.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नौरेषा हि सुखास्तीर्णा ऋषीणां पुण्यकर्मणाम् ।  
@@ -619,6 +635,14 @@ about it." Thus Rama spoke to Vishvamitra. [1- 45-12]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Which royal lineage is this that rules in Viśālā, O great sage (katamo rājavaṃśo ’yaṃ viśālāyāṃ mahāmune)? I wish to hear of it—may all be well with you—for great indeed is my curiosity (paraṃ kautūhalaṃ hi me)!”
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+To explain the sacred history of Viśālā, Viśvāmitra recounts how in the Kṛtayuga the sons of Diti and Aditi resolved to churn the Ocean of Milk with Mount Mandara and the serpent Vāsuki.
 </details>
 </details>
 
@@ -932,6 +956,14 @@ energy is unlimited have started churning the Milky Ocean thoroughly. [1-45-18]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+After a thousand years of churning, Vāsuki’s fangs bite the rocks of Mandara and spew forth the world-consuming Hālāhala poison; at the gods’ plea, Viṣṇu and Śiva appear, and Hari bids Rudra accept the poison as his first-offering.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वर्षसहस्रेण योक्त्रसर्पशिरांसि च ।  
@@ -1199,6 +1231,14 @@ to your godhood'. [1-45-23, 24]
 **23:** “Smiling gently, Hari spoke thus to Rudra, the wielder of the trident (uvācainaṃ smitaṃ kṛtvā rudraṃ śūladharaṃ hariḥ): ‘Whilst the ocean is being churned by the divinities, that which has arisen first of all (daivatair mathyamāne tu yat pūrvaṃ samupasthitam)—
 
 **24:** “‘That belongs rightfully to you, O foremost of the gods, inasmuch as you stand at the head of the celestials (tat tvadīyaṃ suraśreṣṭha surāṇām agrato hi yat); remaining here, O Lord, accept this poison as the first-offering of worship (agrapūjām iha sthitvā gṛhāṇedaṃ viṣaṃ prabho)!’
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Beholding the terror of the gods and hearing Viṣṇu’s words, Lord Hara swallows the terrible Hālāhala poison like nectar; when Mount Mandara sinks into Pātāla, Lord Hari assumes the Tortoise form to bear the mountain upon His back.
 </details>
 </details>
 
@@ -1483,6 +1523,14 @@ ocean by holding the stirring mountain upright. [1-45-30b, 31a]
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+With Puruṣottama Himself churning in the midst of the gods, after a thousand years arise the sage-physician Dhanvantari and sixty crore radiant Apsarases from the churned waters.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वर्षसहस्रेण आयुर्वेदमयः पुमान् ॥ ३१ ॥  
@@ -1704,6 +1752,14 @@ Pt. Satya Vrat - Ramayana - A Linguistic Study.
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Neither the gods nor the Dānavas accepted them in marriage (na tāḥ sma pratigṛhṇanti sarve te devadānavāḥ); and because of that non-acceptance, they are remembered as common to all (apratigrahaṇād eva tā vai sādhāraṇāḥ smṛtāḥ).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When Varuṇa’s daughter Vāruṇī (Surā) rises seeking espousal, Diti’s sons reject her and become Asuras while Aditi’s sons accept her and become Suras; then emerge Uccaiḥśravas, Kaustubha, and the supreme Amṛta, sparking a fierce war.
 </details>
 </details>
 
@@ -1951,6 +2007,14 @@ sons of Diti. [1-45-40]
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 “Then, on account of that Nectar, O Rāma, there befell a mighty destruction of both races (atha tasya kṛte rāma mahān āsīt kulakṣayaḥ); and thereupon the sons of Aditi fought with the sons of Diti (adites tu tataḥ putrā ditiputrān ayodhayan).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+When the Asuras unite with the Rākṣasas in a world-bewildering war, Lord Viṣṇu swiftly carries off the Amṛta by assuming His enchanting Mohinī Māyā and crushes the hostile titans, leaving Purandara to rule the three worlds.
 </details>
 </details>
 

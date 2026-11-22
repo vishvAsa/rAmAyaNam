@@ -25,6 +25,14 @@ the ogre Ravana is conquered.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Incensed by Sītā’s fierce resolve to die, the demonesses threaten to devour her flesh, whereupon the aged rākṣasī Trijaṭā awakens and rebukes them, announcing a prophetic dream.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्ताः सीतया घोरं राक्षस्यः क्रोधमूर्च्छिताः ।  
@@ -342,6 +350,14 @@ For today a terrible (dāruṇaḥ), hair-raising (romaharṣaṇaḥ) dream has
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Frightened by Trijaṭā’s warning, the demonesses ask to hear her dream, and she describes Rāma arriving in an ivory aerial palanquin and Sītā seated upon a white mountain.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तास्त्रिजटया राक्षस्यः क्रोधमूर्च्छिताः ।  
@@ -623,6 +639,14 @@ Sītā was united (saṃgatā) with Rāma just as radiance (prabhā) is united w
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trijaṭā recounts how Rāma and Lakṣmaṇa approached Sītā upon the celestial elephant, how Sītā stroked the sun and moon with her hands, and how Rāma arrived in a bull-drawn chariot.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु सूर्यसङ्काशौ दीप्यमानौ स्वतेजसा ॥ १३ ॥  
@@ -884,6 +908,14 @@ In a chariot yoked with eight (aṣṭayujā) white bulls (pāṇḍurarṣabhay
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Having beheld invincible Rāma ascending the Puṣpaka aerial car toward the north, Trijaṭā describes Rāvaṇa shaved bald, drenched in oil, falling from Puṣpaka, and dragged in a donkey-cart.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽन्यत्र मया दृष्टो रामः सत्यपराक्रमः ॥ १८ ॥  
@@ -1118,6 +1150,14 @@ clothes again was seen to be pulled by a woman."
 **22:** nor by rākṣasas or by any others, any more than heaven can be won by sinful men (svargaḥ pāpajanair iva). And Rāvaṇa was seen by me with his head shaved bald (muṇḍaḥ) and drenched with oil (tailasamukṣitaḥ),
 
 **23:** wearing red garments (raktavāsāḥ), drinking while intoxicated (piban mattaḥ), wearing garlands of red oleander (karavīrakṛtasrajaḥ); today Rāvaṇa fell (patitaḥ) from the Puṣpaka aerial car onto the earth (kṣitau).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trijaṭā sees Rāvaṇa riding a donkey southward, falling headlong into a fetid mire, and dragged by a black, mud-smeared woman toward Yama’s quarter alongside Kumbhakarṇa.
 </details>
 </details>
 
@@ -1400,6 +1440,14 @@ camel; *prayaataaH* = set out; *dakshiNaam disham* = in southern direction.
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trijaṭā beholds Daśagrīva, Indrajit, and Kumbhakarṇa riding southward on a boar, porpoise, and camel, while Vibhīṣaṇa stands under a white parasol and Laṅkā plunges into the sea.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणस्य सुताः सर्वे मुण्डास्तैलसमुक्षिताः ।  
@@ -1615,6 +1663,14 @@ a messenger of Rama."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 and this lovely city of Laṅkā (laṅkā ceyaṃ purī ramyā), with its horses, chariots, and elephants (savājirathakuñjarā), was seen fallen into the ocean (sāgare patitā), its gate-towers and arches shattered (bhagnagopuratoraṇā).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Foreseeing Laṅkā burned by Rāma’s monkey envoy and the demon chiefs plunging into a pit of cow-dung, Trijaṭā urges the demonesses to desist from harshness and implore Sītā’s forgiveness.
 </details>
 </details>
 
@@ -1929,6 +1985,14 @@ Therefore, enough of cruel words (alaṃ krūravākyaiḥ); let gentle comfort a
 </details>
 </details>
 
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Assuring the demonesses that compassionate Maithilī grants pardon upon a simple bow, Trijaṭā points out the flawless bodily marks on Sītā that herald Rāvaṇa’s ruin and Rāma’s victory.
+</details>
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदलं क्रूरवाक्यैश्च सान्त्वमेवाभिधीयताम् ।  
@@ -2216,6 +2280,14 @@ is being seen my me."
 <details><summary>English (Gemini 4, itihasa.io)</summary>
 
 Rather, I behold the fulfillment of Vaidehī’s purpose (arthasiddhiṃ tu vaidehyāḥ) close at hand (upasthitām), the destruction of the lord of rākṣasas (rākṣasendravināśaṃ ca), and the victory of Rāghava (vijayaṃ rāghavasya ca).
+</details>
+</details>
+
+<details><summary>सर्वाष् टीकाः - अवतारिका</summary>
+
+<details><summary>English (Gemini 4, itihasa.io)</summary>
+
+Trijaṭā points out the auspicious throbbing of Sītā’s left eye, left arm, and left thigh alongside a bird singing in the branches, and Sītā promises protection if the omen proves true.
 </details>
 </details>
 
